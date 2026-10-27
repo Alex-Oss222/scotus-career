@@ -1,0 +1,13 @@
+{
+  "status": "Evidence handoff frozen for fresh neutral validation; no commitments",
+  "files": [
+    {
+      "path": "terms/OT1998/runtime/OT_1998CHUNK5_A_PREFLIGHT.md",
+      "sha256": "b81d53d43bfbc37f77fa626fbc62f63b72f1ce389341eb3a1edabbad07451ab6"
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK5_A.md",
+      "sha256": "f72def8e96bc6f9067e3e22e2fe81581af2171729762ea4640ba515b2d4d0d78"
+    }
+  ]
+}

@@ -1,0 +1,1647 @@
+{
+  "id": 1774797,
+  "name": "BOWEN, SECRETARY OF HEALTH AND HUMAN SERVICES v. KENDRICK et al.",
+  "name_abbreviation": "Bowen v. Kendrick",
+  "decision_date": "1988-06-29",
+  "docket_number": "No. 87-253",
+  "first_page": "589",
+  "last_page": "653",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "487 U.S. 589"
+    },
+    {
+      "type": "parallel",
+      "cite": "101 L. Ed. 2d 520"
+    },
+    {
+      "type": "parallel",
+      "cite": "108 S. Ct. 2562"
+    },
+    {
+      "type": "vendor",
+      "cite": "1988 U.S. LEXIS 3027"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1987-148"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "366 U. S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285808
+      ],
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0420-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 228",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185638
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0228-01"
+      ]
+    },
+    {
+      "cite": "418 U. S. 166",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172278
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "175",
+          "parenthetical": "rejecting standing in challenge to statutes regulating the Central Intelligence Agency's accounting and reporting requirements"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0166-01"
+      ]
+    },
+    {
+      "cite": "418 U. S. 208",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172406
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "228"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0208-01"
+      ]
+    },
+    {
+      "cite": "40 U. S. C. \u00a7471",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "63 Stat. 377",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "454 U. S. 464",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189548
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "479"
+        },
+        {
+          "page": "480"
+        },
+        {
+          "page": "480"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/454/0464-01"
+      ]
+    },
+    {
+      "cite": "262 U. S. 447",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142497
+      ],
+      "year": 1923,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/262/0447-01"
+      ]
+    },
+    {
+      "cite": "472 U. S. 38",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512457
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "109-110",
+          "parenthetical": "Rehnquist, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0038-01"
+      ]
+    },
+    {
+      "cite": "448 U. S. 297",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787609
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "319-320"
+        },
+        {
+          "page": "319-320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0297-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239487
+      ],
+      "weight": 3,
+      "year": 1899,
+      "pin_cites": [
+        {
+          "page": "298"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0291-01"
+      ]
+    },
+    {
+      "cite": "474 U. S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207085
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0481-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169056
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "upholding state provision of secular textbooks for both public and private school students"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0236-01"
+      ]
+    },
+    {
+      "cite": "330 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "parenthetical": "approving busing services equally available to both public and private school children"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "674"
+        },
+        {
+          "page": "676"
+        },
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "472 U. S. 703",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512250
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "708"
+        },
+        {
+          "page": "710"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0703-01"
+      ]
+    },
+    {
+      "cite": "449 U. S. 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715337
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "41"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0039-01"
+      ]
+    },
+    {
+      "cite": "465 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337057
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "680"
+        },
+        {
+          "page": "680"
+        },
+        {
+          "page": "683"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "715-716",
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "page": "689",
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "page": "689",
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0668-01"
+      ]
+    },
+    {
+      "cite": "463 U. S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195521
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "394"
+        },
+        {
+          "page": "398"
+        },
+        {
+          "page": "404, n. 11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0388-01"
+      ]
+    },
+    {
+      "cite": "426 U. S. 736",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182266
+      ],
+      "weight": 10,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "760-761",
+          "parenthetical": "upholding a similar statute authorizing grants to colleges against a \"facial\" attack and pretermitting the question whether \"particular applications may result in unconstitutional use of funds\""
+        },
+        {
+          "page": "746"
+        },
+        {
+          "page": "760"
+        },
+        {
+          "page": "760",
+          "parenthetical": "\"We must assume that the colleges . . . will exercise their delegated control over use of the funds in compliance with the statutory, and therefore the constitutional, mandate\""
+        },
+        {
+          "page": "761"
+        },
+        {
+          "page": "740-741"
+        },
+        {
+          "page": "760"
+        },
+        {
+          "page": "768-769",
+          "parenthetical": "White, J., concurring in judgment"
+        },
+        {
+          "page": "744",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/426/0736-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 672",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027449
+      ],
+      "weight": 7,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "682"
+        },
+        {
+          "page": "676"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "675"
+        },
+        {
+          "page": "676"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0672-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 734",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343031
+      ],
+      "weight": 8,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "736"
+        },
+        {
+          "page": "741"
+        },
+        {
+          "page": "743"
+        },
+        {
+          "page": "735-736",
+          "parenthetical": "not questioning standing of state taxpayer to file suit against state executive in an \"as applied\" challenge"
+        },
+        {
+          "page": "743"
+        },
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0734-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 402",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200100
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "421",
+          "parenthetical": "Rehn-QUIST, J., dissenting"
+        },
+        {
+          "page": "429",
+          "parenthetical": "O'Connor, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0402-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541334
+      ],
+      "weight": 4,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "371"
+        },
+        {
+          "page": "370"
+        },
+        {
+          "page": "371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0349-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341401
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "479"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0472-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "weight": 4,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "771"
+        },
+        {
+          "page": "768",
+          "parenthetical": "\"'all or practically all' \" of the schools entitled to receive grants were religiously affiliated"
+        },
+        {
+          "page": "768"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 229",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178289
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0229-01"
+      ]
+    },
+    {
+      "cite": "482 U. S. 578",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217899
+      ],
+      "weight": 6,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "581, n. 1"
+        },
+        {
+          "page": "585"
+        },
+        {
+          "page": "589-594"
+        },
+        {
+          "page": "587"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0578-01"
+      ]
+    },
+    {
+      "cite": "484 U. S. 942",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        600230,
+        601287,
+        599569,
+        599378,
+        600723,
+        599283,
+        601201,
+        602163,
+        599864,
+        600927
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0942-04",
+        "/us/484/0942-10",
+        "/us/484/0942-01",
+        "/us/484/0942-02",
+        "/us/484/0942-07",
+        "/us/484/0942-05",
+        "/us/484/0942-03",
+        "/us/484/0942-09",
+        "/us/484/0942-06",
+        "/us/484/0942-08"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 1252",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "480 U. S. 678",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131466
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0678-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199682
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "377-379"
+        },
+        {
+          "page": "382"
+        },
+        {
+          "page": "385",
+          "parenthetical": "discussing how aid to religious schools may impermissibly advance religion"
+        },
+        {
+          "page": "384"
+        },
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0373-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 5,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "613"
+        },
+        {
+          "page": "613"
+        },
+        {
+          "page": "666-668",
+          "parenthetical": "White, J., concurring and dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6168175
+      ],
+      "weight": 2,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0083-01"
+      ]
+    },
+    {
+      "cite": "657 F. Supp. 1547",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5718229
+      ],
+      "weight": 13,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1570"
+        },
+        {
+          "page": "1562"
+        },
+        {
+          "page": "1564"
+        },
+        {
+          "page": "1568"
+        },
+        {
+          "page": "1562"
+        },
+        {
+          "page": "1564, 1565, 1567"
+        },
+        {
+          "page": "1554"
+        },
+        {
+          "page": "1569"
+        },
+        {
+          "page": "1565"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/657/1547-01"
+      ]
+    },
+    {
+      "cite": "95 Stat. 578",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "42 U. S. C. \u00a7 5001",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)",
+          "parenthetical": "grants to retired senior-citizen volunteer service programs"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "42 U. S. C. \u00a7 2753",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)(C)",
+          "parenthetical": "college work-study grants"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "20 U. S. C. \u00a7 1210",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "1982 ed. and Supp. IV"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "20 U. S. C. \u00a7 1021",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "assistance to college and research libraries"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "20 U. S. C. \u00a7 241",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 3
+    },
+    {
+      "cite": "20 U. S. C. \u00a7 27",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "support for vocational education"
+        }
+      ],
+      "opinion_index": 3
+    },
+    {
+      "cite": "739 F. 2d 48",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        654533
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "70"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f2d/739/0048-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 267",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178614
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "280",
+          "parenthetical": "emphasis omitted"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/433/0267-01"
+      ]
+    },
+    {
+      "cite": "402 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11732215
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "\"[B]readth and flexibility are inherent in equitable remedies\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/402/0001-01"
+      ]
+    },
+    {
+      "cite": "437 U. S. 678",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184123
+      ],
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "687"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/437/0678-01"
+      ]
+    },
+    {
+      "cite": "481 U. S. 739",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222105
+      ],
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/481/0739-01"
+      ]
+    },
+    {
+      "cite": "434 U. S. 125",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6180268
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "133"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/434/0125-01"
+      ]
+    },
+    {
+      "cite": "374 U. S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8318
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "223",
+          "parenthetical": "holding unconstitutional daily reading of Bible verses and recitation of the Lord's Prayer in public schools"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/374/0203-01"
+      ]
+    },
+    {
+      "cite": "454 U. S. 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185829
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "274, n. 14",
+          "parenthetical": "\"University students are, of course, young adults. They are less impressionable than younger students and should be able to appreciate that the University's policy is one of neutrality toward religion\""
+        },
+        {
+          "page": "275",
+          "parenthetical": "noting absence of empirical evidence that religious groups would dominate university's, open forum"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/454/0263-01"
+      ]
+    },
+    {
+      "cite": "444 U. S. 646",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11307781
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "659"
+        },
+        {
+          "page": "656",
+          "parenthetical": "describing as \"minimal\" the chance that religious bias would enter process of grading state-drafted tests in secular subjects, given \"complete\" state safeguards"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/444/0646-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239487
+      ],
+      "weight": 2,
+      "year": 1899,
+      "pin_cites": [
+        {
+          "page": "299-300"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/175/0291-01"
+      ]
+    },
+    {
+      "cite": "474 U. S. 481",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6207085
+      ],
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "488",
+          "parenthetical": "finding significant that \"nothing in the record indicates that, if petitioner succeeds, any significant portion of the aid expended under the . . . program as a whole will end up flowing to religious education\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/474/0481-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169056
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "lending secular textbooks to parochial schools"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/392/0236-01"
+      ]
+    },
+    {
+      "cite": "330 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "parenthetical": "providing bus services to parochial schools"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "674"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "449 U. S. 39",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715337
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "parenthetical": "holding unconstitutional posting of Ten Commandments despite notation explaining secular application thereof"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/449/0039-01"
+      ]
+    },
+    {
+      "cite": "465 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337057
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "726-727",
+          "parenthetical": "Blackmun, J., dissenting"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/465/0668-01"
+      ]
+    },
+    {
+      "cite": "426 U. S. 736",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182266
+      ],
+      "weight": 12,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "762",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "755",
+          "parenthetical": "noting \"high degree of institutional autonomy\" and that \"the encouragement of spiritual development is only one secondary objective of each college\""
+        },
+        {
+          "page": "758"
+        },
+        {
+          "page": "760-761"
+        },
+        {
+          "page": "749",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "746",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "760",
+          "parenthetical": "upholding grant program containing statutory restriction on using state funds for \"sectarian purposes\""
+        },
+        {
+          "page": "761"
+        },
+        {
+          "page": "765",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "740",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "775",
+          "parenthetical": "Stevens, J., dissenting"
+        },
+        {
+          "page": "758",
+          "parenthetical": "\"[T]he question [is] whether an institution is so 'pervasively sectarian' that it may receive no direct state aid of any kind\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/426/0736-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 672",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027449
+      ],
+      "weight": 6,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "687",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "686",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "682"
+        },
+        {
+          "page": "688"
+        },
+        {
+          "page": "675"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/403/0672-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 734",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343031
+      ],
+      "weight": 5,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "743"
+        },
+        {
+          "page": "744",
+          "parenthetical": "finding \"no basis to conclude that the College's operations are oriented significantly towards sectarian rather than secular education\""
+        },
+        {
+          "page": "744",
+          "parenthetical": "noting that the statute at issue \"specifically states that a project 'shall not include' any buildings or facilities used for religious purposes\""
+        },
+        {
+          "page": "736"
+        },
+        {
+          "page": "743"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/413/0734-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 402",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200100
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "411"
+        },
+        {
+          "page": "413-414"
+        },
+        {
+          "page": "413"
+        },
+        {
+          "page": "412, n. 8",
+          "parenthetical": "\" 'If any significant number of the . . . schools create the risks described in Meek, Meek applies'\""
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/473/0402-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541334
+      ],
+      "weight": 5,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "365"
+        },
+        {
+          "page": "359-362"
+        },
+        {
+          "page": "370-371"
+        },
+        {
+          "page": "372",
+          "parenthetical": "finding \"potential for impermissible fostering of religion\""
+        },
+        {
+          "page": "370"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/421/0349-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341401
+      ],
+      "year": 1973,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/413/0472-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "796-798"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 229",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178289
+      ],
+      "weight": 4,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "236-238"
+        },
+        {
+          "page": "248-251"
+        },
+        {
+          "page": "254"
+        },
+        {
+          "page": "254",
+          "parenthetical": "noting \"unacceptable risk of fostering of religion\" as \"an inevitable byproduct\" of teacher-accompanied field trips"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/433/0229-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199682
+      ],
+      "weight": 4,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "388"
+        },
+        {
+          "page": "383, 390"
+        },
+        {
+          "page": "387",
+          "parenthetical": "observing a \"substantial risk that, overtly or subtly, the religious message . . . will infuse the supposedly secular classes\""
+        },
+        {
+          "page": "385"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/473/0373-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 13,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "650",
+          "parenthetical": "Brennan, J., concurring"
+        },
+        {
+          "page": "620-621"
+        },
+        {
+          "page": "619"
+        },
+        {
+          "page": "622-624"
+        },
+        {
+          "page": "621",
+          "parenthetical": "\"The history of government grants of a continuing cash subsidy indicates that such programs have almost always been accompanied by varying measures of control and surveillance\""
+        },
+        {
+          "page": "619",
+          "parenthetical": "\"The State must be certain, given the Religion Clauses, that subsidized teachers do not inculcate religion\""
+        },
+        {
+          "page": "619",
+          "parenthetical": "finding \"potential for impermissible fostering of religion\""
+        },
+        {
+          "page": "613"
+        },
+        {
+          "page": "614-615"
+        },
+        {
+          "page": "614-615"
+        },
+        {
+          "page": "619"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "657 F. Supp. 1547",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5718229
+      ],
+      "weight": 13,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1564",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "1564"
+        },
+        {
+          "page": "1565-1566"
+        },
+        {
+          "page": "1563"
+        },
+        {
+          "page": "1563, n. 13"
+        },
+        {
+          "page": "1564"
+        },
+        {
+          "page": "1564"
+        },
+        {
+          "page": "1562"
+        },
+        {
+          "page": "1565-1566"
+        },
+        {
+          "page": "1565"
+        },
+        {
+          "page": "1566"
+        },
+        {
+          "page": "1566"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/f-supp/657/1547-01"
+      ]
+    },
+    {
+      "cite": "95 Stat. 578",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 3
+    }
+  ],
+  "analysis": {
+    "cardinality": 3191,
+    "char_count": 132924,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 2.1842878311766e-06,
+      "percentile": 0.9956854627431947
+    },
+    "sha256": "17b3b754db1991869eeaf306c54c4050778948d20ec80557cb6a5bd06ec53463",
+    "simhash": "1:1b4aa600a78a1e7b",
+    "word_count": 20902
+  },
+  "last_updated": "2024-02-27T20:03:02.820366+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Rehnquist, C. J., delivered the opinion of the Court, in which White, O\u2019Connor, Scalia, and Kennedy, JJ., joined. O\u2019Connor, J., filed a concurring opinion, post, p. 622. Kennedy, J., filed a concurring opinion, in which Scalia, J., joined, post, p. 624. Blackmun, J., filed a dissenting opinion, in which Brennan,. Marshall, and Stevens, JJ., joined, post, p. 625."
+    ],
+    "parties": [
+      "BOWEN, SECRETARY OF HEALTH AND HUMAN SERVICES v. KENDRICK et al."
+    ],
+    "opinions": [
+      {
+        "text": "Chief Justice Rehnquist\ndelivered the opinion of the Court.\nThis litigation involves a challenge to a federal grant program that provides funding for services relating to adolescent sexuality and pregnancy. Considering the federal statute both \u201con its face\u201d and \u201cas applied,\u201d the District Court ruled that the statute violated the Establishment Clause of the First Amendment insofar as it provided for the involvement of religious organizations in the federally funded programs. We conclude ^ however, that the statute is not unconstitutional on its face, and that a determination of whether any of the- grants made pursuant to the statute violate the Establishment Clause requires further proceedings in the District Court.\nI\nThe Adolescent Family Life Act (AFLA or Act), Pub. L. 97-35, 95 Stat. 578, 42 U. S. C. \u00a7300z et seq. (1982 ed. and Supp. IV), was passed by Congress in 1981 in response to the \u201csevere adverse health, social, and economic consequences\u201d that often follow pregnancy and childbirth among unmarried adolescents. 42 U. S. C. \u00a7300z(a)(5) (1982 ed., Supp. IV). Like its predecessor, the Adolescent Health Services and Pregnancy. Prevention and Care Act of 1978, Pub. L. 95-626, Tit. VI, 92 Stat., 3595-3601 (Title VI), the AFLA is essentially a scheme for providing grants to public or nonprofit private organizations or agencies \u201cfor services and research in the area of premarital adolescent sexual relations and pregnancy.\u201d S. Rep. No. 97-161, p~. 1 (1981) (hereinafter Senate Report). These grants are intended to serve several purposes, including the promotion of \u201cself discipline and other prudent approaches to the problem of adolescent premarital sexual relations,\u201d \u00a7 300z(b)(l), the promotion of adoption as an alternative for adolescent parents, \u00a7 300z(b)(2), the establishment of new approaches to the delivery of care services for pregnant adolescents, \u00a7300z(b)(3), and the support of research and demonstration projects \u201cconcerning the societal causes and consequences of adolescent premarital sexual relations, contraceptive use, pregnancy, and child rearing,\u201d \u00a7 300z(b)(4).\nIn pertinent part, grant recipients are to provide two types of services: \u201ccare services,\u201d for the provision of care to pregnant adolescents and adolescent parents, \u00a7 300z-l(a)(7), and \u201cprevention services,\u201d for the prevention of adolescent sexual relations, \u00a7300z-l(a)(8). While the AFLA leaves it up to the Secretary of Health and Human Services (the Secretary) to define exactly what-types of services a grantee must provide, see \u00a7\u00a7300z-l (a)(7), (8), 300z-l(b), the statute contains a listing of \u201cnecessary services\u201d that may be funded. These services include pregnancy testing and maternity counseling, adoption counseling and referral services, prenatal and postnatal health care, nutritional information, counseling, child care, mental health services, and perhaps most importantly for present purposes, \u201ceducational services relating to\u2019family life and problems associated with adolescent premarital sexual relations,\u201d \u00a7300z-l(a)(4).\nIn drawing up the AFLA and determining what services to provide under the Act, Congress was well aware that \u201cthe problems of adolescent premarital sexual relations, pregnancy, and parenthood are multiple and complex.\u201d \u00a7 300z(a) (8)(A). Indeed, Congress expressly recognized that legislative or governmental action alone would be insufficient:\n\u201c[S]uch problems are best approached through a variety of integrated and essential services provided to adolescents and their families by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector as well ' as services provided by publicly sponsored initiatives.\u201d \u00a7 300z(a)(8)(B).\nAccordingly, the AFLA expressly states that federally provided services in this area should promote the involvement of parents, and should \u201cemphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups.\u201d \u00a7300z(a)(10)(C). The AFLA implements this goal by providing in \u00a7 300z-2 that demonstration projects funded by the government\n\u201cshall use such methods as will strengthen the capacity of families to deal with the sexual behavior, pregnancy, or parenthood of adolescents and to make use of support systems such as other family members, friends, religious and charitable organizations, -and voluntary associations.\u201d\nIn addition, AFLA requires grant applicants, among other things, to describe how they will, \u201cas appropriate in the provision of services[,] involve families of adolescents[, and] involve religious and charitable organizations, voluntary associations, and other groups in the private sector as well as services provided by publicly sponsored initiatives.\u201d \u00a7 300z-5(a)(21). This broad-based involvement of groups outside of the government was intended by Congress to \u201cestablish better coordination, integration, and linkages\u201d among existing programs in the community, \u00a7300z(b)(3) (1982 ed., Supp. IV), to aid in the development of \u201cstrong family values and close family ties,\u201d \u00a7300z(a)(10)(A), and to \u201chelp adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations.\u201d \u00a7300z(a)(10)(C).\nIn line with its purposes, the AFLA also imposes limitations on the use of funds by grantees. First, the AFLA expressly states that no funds provided for demonstration projects under the statute may be used for family planning services (other than counseling and referral services) unless appropriate family planning services are not otherwise available in the community. \u00a7 300z-3(b)(l). Second, the AFLA restricts the awarding of grants to \u201cprograms or projects which do not provide abortions or abortion counseling or referral,\u201d except that the program may provide referral for abortion counseling if the adolescent and her parents request such referral. \u00a7300z-10(a). Finally, the AFLA states that \u201cgrants may be made only to projects or programs which do not advocate, promote, or encourage abortion.\u201d \u00a7 300z-I0(a).\nSince 1981, when the AFLA was adopted, the Secretary has received 1,088 grant applications and awarded 141 grants. Brief for Federal Appellant 8. Funding has gone to a wide variety of recipients, including state and local health agencies, private-hospitals, community health associations, privately operated health care centers, and community and charitable organizations. It is undisputed that a number of grantees or subgrantees were organizations with institutional ties to religious denominations. See App. 748-756 (listing grantees).\nIn 1983, this lawsuit against the Secretary was filed in the United States District Court for the District of Columbia by appellees, a group of federal taxpayers, clergymen, and the American Jewish Congress. Seeking both declaratory and injunctive relief, appellees challenged the constitutionality of the AFLA on the grounds that on its face and as applied the statute violates the Religion Clauses of the First Amendment. Following cross-motions for summary judgment, the District Court held for appellees and declared that the AFLA was invalid both on its face and as applied \u201cinsofar as religious organizations are involved in carrying out the programs and purposes of the Act.\u201d 657 F. Supp. 1547, 1570 (DC 1987).\nThe court first found that under Flast v. Cohen, 392 U. S. 83 (1968), appellees had standing to challenge the statute both on its face and as applied. Turning to the merits, the District Court applied the three-part test for Establishment Clause cases set forth in Lemon v. Kurtzman, 403 U. S. 602 (1971). The court concluded that the AFLA has a valid secular purpose: the prevention of social and economic injury caused by teenage pregnancy and premarital sexual relations. In the court\u2019s view, however, the AFLA does not survive the second prong of the Lemon test because it has the \u201cdirect and immediate\u201d effect of advancing religion insofar as it expressly requires grant applicants to describe how they will involve , religious organizations in the provision of services. \u00a7 300z-5(a)(21)(B). The statute also permits religious organizations to be grantees and \u201cenvisions a direct role for those organizations in the education and counseling components of AFLA grants.\u201d 657 F. Supp., at 1562. As written, the AFLA makes it possible for religi\u00f3usly affiliated grantees to teach adolescents on issues .that can be considered \u201cfundamental elements of religious doctrine.\u201d The AFLA does all this without imposing any restriction whatsoever against the teaching of \u201creligion qua religion\u201d or the inculcation of religious beliefs in federally funded programs. As. the District Court put it, \u201c[t]o presume that AFLA counselors from religious organizations can put their beliefs aside when counseling an adolescent on matters that are part of religious doctrine is simply unrealistic.\u201d Id., at 1563 (citing Grand Rapids School District v. Ball, 473 U. S. 373 (1985)).\nThe District Court then concluded that the statute as applied also runs afoul of the Lemon effects test. The evidence presented by appellees revealed that AFLA grants had gone to various organizations that were affiliated with religious denominations and that had corporate requirements that the organizations abide by religious doctrines. Other AFLA grantees were- not explicitly affiliated with organized religions, but were \u201creligiously inspired and dedicated to teaching the dogma that inspired them.\u201d 657 F. Supp., at 1564. In the District Court\u2019s view, the record clearly established that the AFLA, as it has been administered by the Secretary, has in fact directly advanced religion, provided funding for institutions that w\u00e9re \u201cpervasively sectarian,\u201d or allowed federal funds to be used for education and counseling that \u201camounts to the teaching of religion.\u201d Ibid. As to. the entanglement prong of Lemon, the court ruled that because AFLA funds are used largely for counseling and teaching, it would require overly intrusive monitoring or oversight to ensure that religion is not advanced by religiously affiliated AFL\u00c1 grantees. Indeed, the court felt that \u201cit is impossible to comprehend entanglement more extensive and continuous than that necessitated by the AFLA.\u201d 657 F. Supp., at 1568.\nIn a separate order, filed August 13, 1987, the District Court ruled that the \u201cconstitutionally infirm language of the AFLA, namely its references to \u2018religious organizations,\u2019\u201d App. to Juris. Statement in No. 431, p. 53a, is severable from the Act pursuant to Alaska Airlines, Inc. v. Brock, 480 U. S. 678 (1987). The court also denied the Secretary\u2019s Federal Rule of Civil Procedure 59(e) motion to clarify what the court meant by \u201creligious organizations\u201d for purposes of determining the scope of its injunction. On the same day that this order was entered, appellants docketed their appeal on the merits directly with this Court pursuant to 28 U. S. C. \u00a7 1252. A separate appeal from the District Court\u2019s August 13 order was also docketed, as was a cross-appeal by appel-lees on the severability issue. On November 9, 1987, we noted probable jurisdiction in all three appeals and consolidated the cases for argument. 484 U. S. 942 (1987).\nII\nThe District Court in this lawsuit held the AFLA unconstitutional both on its face and as applied. Few of our cases in the Establishment Clause area have explicitly distinguished between facial challenges to a statute and attacks on the statute as applied. Several cases have clearly involved challenges to a statute \u201con its face.\u201d For example, in Edwards v. Aguillard, 482 U. S. 578 (1987), we considered the validity of the Louisiana \u201cCreationism Act,\u201d finding the Act \u201cfacially invalid.\u201d Indeed, in that case it was clear that only a facial challenge could have been considered, as the Act had not been implemented. Id., at 581, n. 1. Other cases, as well, have considered the validity of statutes without the benefit of a record as to how the statute had actually been applied. See Wolman v. Walter, 433 U. S. 229 (1977); Committee for Public Education & Religious Liberty v. Nyquist, 413 U. S. 756 (1973).\nIn other cases we have, in the course of determining the constitutionality of a statute, referred not only to the language of the statute but also to the manner in which it had been administered in practice. Levitt v. Committee for Public Education & Religious Liberty, 413 U. S. 472, 479 (1973); Meek v. Pittenger, 421 U. S. 349 (1975). See also Grand Rapids School District v. Ball, supra, at 377-379; Aguilar v. Felton, 473 U. S. 402 (1985). In several cases we have expressly recognized that an otherwise valid statute authorizing grants might be challenged on the grounds that the award of a grant in a particular case would be impermissible. Hunt v. McNair, 413 U. S. 734 (1973), involved a challenge to a South Carolina statute that provided for the issuance of revenue bonds to assist \u201cinstitutions of higher learning\u201d in constructing new facilities. . The plaintiffs in that case did not contest the validity of the statute as a whole, but contended only that a statutory grant to a religiously affiliated college would be invalid. Id., at 736. In Tilton v. Richardson, 403 U. S. 672 (1971), the Court reviewed a federal statute authorizing construction grants to colleges exclusively for secular educational purposes. We rejected the contention that the statute was invalid- \u201con its face\u201d and \u201cas applied\u201d to the four church-related colleges that were named as defendants in the case. However, we did leave open the possibility that the statute might authorize grants which could be invalid, stating that \u201c[individual projects can be properly evaluated if and when challenges arise with respect to particular recipients and some evidence is then presented to show that the institution does in fact possess\u201d sectarian characteristics that might make a grant of aid to the institution constitutionally impermissible. Id., at 682. See also Roemer v. Maryland Bd. of Public Works, 426 U. S. 736, 760-761 (1976) (upholding a similar statute authorizing grants to coll\u00e9ges against a \u201cfacial\u201d attack and pretermitting the question whether \u201cparticular applications may result in unconstitutional use of funds\u201d).\nThere is, then, precedent in this area of constitutional law for distinguishing between the validity of the statute on its face and its validity in particular applications. Although the Court\u2019s opinions have not even adverted to (to say nothing of explicitly delineated) the consequences of this distinction between \u201con its face\u201d and \u201cas applied\u201d in this context, we think they do justify the District Court\u2019s approach in separating the two issues as it did here.\nThis said, we turn to consider whether the District Court was correct in concluding that the AFLA was unconstitutional on its face. As in previous cases involving facial challenges on Establishment Clause grounds, e. g., Edwards v. Aguillard, supra; Mueller v. Allen, 463 U. S. 388 (1983), we assess the constitutionality of an enactment by reference to the three factors first articulated in Lemon v. Kurtzman, 403 U. S. 602 (1971). Under the Lemon standard, which guides \u201c[t]he general nature of our. inquiry in this area,\u201d Mueller v. Allen, supra, at 394, a court may invalidate a statute only if it is motivated wholly by an impermissible purpose, Lynch v. Donnelly, 465 U. S. 668, 680 (1984); Stone v. Graham, 449 U. S. 39, 41 (1980), if its primary effect is the advancement of religion, Estate of Thornton v. Caldor, Inc., 472 U. S. 703, 708 (1985), or if it requires excessive entanglement between church and state, Lemon, supra, at 613; Walz v. Tax Comm\u2019n, 397 U. S. 664, 674 (1970). We consider each of these factors in turn.\nAs we see it, it is clear from the face of the statute that the AFLA was motivated primarily, if not entirely, by a legitimate secular purpose \u2014 the elimination or reduction of social and economic problems caused by teenage sexuality, pregnancy, and parenthood. See \u00a7\u00a7300z(a), (b) (1982 ed. and Supp. IV). Appellees cannot, and do not, dispute that, on the whole, religious concerns were not the sole motivation behind the Act, see Lynch, supra, at 680, nor can it be said that the AFLA lacks a legitimate secular purpose, see Edwards v. Aguillard, 482 U. S., at 585. In the court below, however, appellees argued that the real purpose of the AFLA could only be understood in reference to the AFLA\u2019s predecessor, Title VI. Appellees contended that Congress had an impermissible purpose in adopting the AFLA because it specifically amended Title VI to increase the role of religious organizations in the programs sponsored by the Act. In particular, they pointed to the fact that the AFLA, unlike Title VI, requires grant applicants to describe how they will involve religious organizations in the programs funded by the AFLA. \u00a7 300z-5(a)(21)(B).\nThe District Court rejected this argument,- however, reasoning that even if it is assumed that the AFLA was motivated in part by improper concerns, the parts of the statute to which appellees object were also motivated by other, entirely legitimate secular concerns. We agree with this conclusion. As the District Court correctly pointed out, Congress amended Title VI in a number of ways, most importantly for present purposes by attempting to enlist the aid of not only \u201creligious organizations,\u201d but also \u201cfamily members . . .., charitable organizations, voluntary associations, and other groups in the private sector,\u201d in addressing the problems associated with adolescent sexuality. \u00a7 300z(a)(8)(B); see also \u00a7\u00a7300z-5(a)(21)(A), (B), Cf. Title VI, \u00a7 601(a) (5) (\u201c[T]he problems of adolescent [sexuality] . . . are best approached through a variety of integrated and essential services\u201d). Congress\u2019 decision to amend the statute in this way reflects the entirely appropriate aim of increasing broad-based community involvement \u201cin helping adolescent boys and girls understand the implications of premarital sexual relations, pregnancy, and parenthood.\u201d See Senate Report, at 2, 15-16. In adopting the AFLA, Congress expressly intended to expand the services already authorized by Title VI, to insure the increased participation of parents in education and support services, to increase the flexibility of the programs, and to spark the development of new, innovative services. Id., at 7-9. These are all legitimate secular goals that are furthered by the AFLA\u2019s additions to Title VI, including the challenged provisions that refer to religious organizations. There simply is no evidence that Congress\u2019 \u201cactual purpose\u201d in passing the AFLA was one of \u201cendorsing religion.\u201d See Edwards v. Aguillard, 482 U. S., at 589-594. Nor are we in a position to doubt that Congress\u2019 expressed purposes are \u201csincere and not a sham.\u201d Id., at 587.\nAs usual in Establishment Clause cases, see, e. g., Grand Rapids School District v. Ball, 473 U. S. 373 (1985); Mueller, supra, the more difficult question is whether the primary effect of the challenged statute is impermissible. Before we address this question, however, it is useful to review again just what the AFLA sets out to do. Simply stated, it authorizes grants to institutions that are capable of providing certain care and prevention services to adolescents. Because of the complexity of the problems that Congress sought to remedy, potential grantees are required to describe how they will involve other organizations, including religious organizations, in the programs funded by the federal grants. \u00a7 300z-5(a)(21)(B); see also \u00a7 300z-2(a). There is no requirement in the Act that grantees be affiliated with any religious denomination, although the Act clearly does not rule out grants to religious organizations. The services to be provided under the AFLA are not religious in character, see n. 2, supra, nor has there been any suggestion that religious institutions or organizations with religious ties are uniquely well qualified to carry out those services. Certainly it is true that a substantial part of the services listed as \u201cnecessary services\u201d under the Act involve some sort of education or counseling, see, e. g., \u00a7\u00a7300z-l(a)(4)(D), (G), (H), (J), (L), (M), (0), but there is nothing inherently religious about these activities and appellees do not contend that, by themselves, the AFLA\u2019s \u201cnecessary services\u201d somehow have the primary effect of advancing religion. Finally, it is clear that the AFLA takes a particular approach toward dealing with adolescent sexuality and pregnancy \u2014 for example, two of its stated purposes are to \u201cpromote self discipline and other prudent approaches to the problem of adolescent premarital sexual relations,\u201d \u00a7300z(b)(l), and to \u201cpromote adoption as an alternative,\u201d 300z(b)(2) \u2014 but again, that approach is not inherently religious * although it may coincide with the approach taken by certain religions.\nGiven this statutory framework, there are two ways in which the statute, considered \u201con its face,\u201d might be said to have the impermissible primary effect of advancing religion. First, it can be argued that the AFLA advances religion by expressly recognizing that \u201creligious organizations have a role to play\u201d in addressing the problems associated with teenage sexuality. Senate Report, at 16. In this view, even if no religious institution receives aid or funding pursuant to the AFLA, the statute is invalid under the Establishment Clause because, among other things, it expressly enlists the involvement of religiously affiliated organizations in the federally subsidized programs, it endorses religious solutions to the problems addressed by the Act, or it creates symbolic ties between church and state. Secondly, it can be argued that the AFLA is invalid on its face because it allows religiously affiliated organizations to participate as grantees or subgrantees in AFLA programs. From this standpoint, the Act is invalid because it authorizes direct federal funding of religious organizations which, given the AFLA\u2019s educational function and the fact that the AFLA\u2019s \u201cviewpoint\u201d may coincide with the grantee\u2019s \u201cviewpoint\u201d on sexual matters, will result unavoidably in the impermissible \u201cinculcation\u201d of religious beliefs in the context of a federally funded program.\nWe consider the former objection first. As noted previously, the AFLA expressly mentions the role of religious organizations in four places. It states (1) that the problems of teenage sexuality are \u201cbest approached through a variety of integrated and essential services provided to adolescents and their families by[, among others,] religious organizations,\u201d \u00a7300z(a)(8)(B), (2) that federally subsidized services \u201cshould emphasize the provision of support by[, among others,] religious and charitable organizations,\u201d \u00a7300z(a)(10)(C), (3) that AFLA programs \u201cshall use such methods as will strengthen the capacity of families ... to make use of support systems such as . . . religious . . . organizations,\u201d \u00a7300z-2(a), and (4) that grant applicants shall describe how they will involve religious organizations, among other groups, in the provision of services under the Act. \u00a7 300z-5(a)(21)(B).\nPutting aside for the moment the possible role of religious organizations as grantees, these provisions of the statute reflect at most Congress\u2019 considered judgment that religious organizations can help solve the problems to which the AFLA is addressed. See Senate Report, at 15-16. Nothing in our previous eases prevents Congress from making such a judgment or from recognizing the important part that religion or religious organizations may play in resolving certain, secular problems. Particularly when, as Congress found, \u201cprevention of adolescent sexual activity and adolescent pregnancy depends primarily upon developing strong family values and close family ties,\u201d \u00a7 300z(a)(10)(A), it seems quite sensible for Congress to recognize that religious organizations can influence values and can have some influence on family life, including parents\u2019 relations with their adolescent children. To the extent that this congressional recognition has any effect of advancing religion, the effect is at most \u201cincidental and remote.\u201d See Lynch, 465 U. S., at 683; Estate of Thornton v. Caldor, Inc., 472 U. S., at 710; Nyquist, 413 U. S., at 771. In addition, although the AFLA does require potential grantees to describe how they will involve religious organizations in the provision, of services under the Act, it also requires grantees to describe the involvement of \u201ccharitable organizations, voluntary associations, and other groups in the private sector,\u201d \u00a7 300z-5(a)(21)(B). In our view, this reflects the statute\u2019s successful maintenance of \u201ca course of neutrality among religions, and between religion and non-religion,\u201d Grand Rapids School District v. Ball, 473 U. S., at 382.\nThis brings us to the second ground for objecting to the AFLA: the fact that it allows religious institutions' to participate as recipients of federal funds. The AFLA defines an \u201celigible grant recipient\u201d as a \u201cpublic or nonprofit private organization or agency\u201d which demonstrates the capability of providing the requisite services. \u00a7 300z \u2014 1(a)(3). As this provision would indicate, a fairly wide spectrum' of organizations is eligible to apply for and receive funding under the Act, and nothing on the face of the Act suggests it is anything but neutral with respect to the grantee\u2019s status as a sectarian or purely secular institution. See Senate Report, at 16 (\u201cReligious affiliation is not a criterion for selection as a grantee . . .\u201d). In this regard, then, the AFLA is similar to other statutes that this Court has upheld against Establishment Clause challenges in the past. In Roemer v. Maryland Bd. of Public Works, 426 U. S. 736 (1976), for example, we upheld a Maryland statute that provided annual subsidies directly to qualifying colleges and universities in the State, including religiously affiliated institutions. As the plurality stated, \u201creligious institutions need not be quarantined from public benefits that are neutrally available to all.\u201d Id., at 746 (discussing Everson v. Board of Education, 330 U. S. 1 (1947) (approving busing services equally available to both public and private school children), and Board of Education v. Allen, 392 U. S. 236 (1968) (upholding state provision of secular textbooks for both public and private school students)). Similarly, in Tilton v. Richardson, 403 U. S. 672 (1971), we approved the federal Higher Educational Facilities Act, which was intended by Congress to .provide construction grants to \u201call colleges and universities regardless of any affiliation with or sponsorship by a religious body.\u201d Id., at 676. And in Hunt v. McNair, 413 U. S. 734 (1973), we rejected a challenge to a South Carolina statute that made certain benefits \u201cavailable to all institutions of higher education in South Carolina, whether or not having a religious affiliation.\u201d Id., at 741. In other cases involving indirect grants of state aid to religious institutions, we have found it important that the aid is made available regardless of whether it will ultimately flow to a secular or sectarian institution. See, e. g., Witters v. Washington Dept. of Services for Blind, 474 U. S. 481, 487 (1986); Mueller v. Allen, 463 U. S., at 398; Everson v. Board of Education, supra, at 17-18; Walz v. Tax Comm'n, 397 U. S., at 676.\nWe, note in addition that this Court has never held that religious institutions are disabled by the First Amendment from participating in publicly sponsored social welfare programs. To the contrary, in Bradfield v. Roberts, 175 U. S. 291 (1899), the Court upheld an agreement between the Commissioners of the District of Columbia and a religiously affiliated hospital whereby the Federal Government would pay for the construction of a new building on the grounds of the hospital. In effect, the Court refused to hold that the mere fact that the hospital was \u201cconducted under the auspices of the Roman Catholic Church\u201d was sufficient to alter the purely secular legal character of the corporation, id., at 298, particularly in the absence of any allegation that the hospital discriminated on the basis of religion or operated in any way inconsistent with its secular charter. In the Court\u2019s view, the giving of federal aid to the hospital was entirely consistent with the Establishment-Clause, and the fact that the hospital was religiously affiliated was \u201cwholly immaterial.\u201d Ibid. The propriety of this holding, and the long history of cooperation and interdependency between governments and charitable or religious organizations is reflected in the legislative history of the AFLA. See S. Rep. No. 98-496, p. 10 (1984) (\u201cCharitable organizations with religious affiliations historically have provided social services with the support of their communities and without controversy\u201d).\nOf course, even when the challenged statute appears to be neutral on its face, we have always been careful to ensure that direct government aid to religiously affiliated institutions does not have the primary effect of advancing religion. One way in which direct government aid might have that effect is if the aid flows to institutions that are \u201cpervasively sectarian.\u201d We stated in Hunt that\n\u201c[a]id normally may be thought to have a primary effect of advancing religion when it flows to an institution in which religion is so pervasive that a substantial portion of its functions are subsumed in the religious mission _\u201d 413 U. S., at 743.\nThe reason for this is that there is a risk that direct government funding, even if it is designated for specific secular purposes, may nonetheless advance the pervasively sectarian institution\u2019s \u201creligious mission.\u201d See Grand Rapids School District v. Ball, 473 U. S., at 385 (discussing how aid to religious schools may impermissibly advance religion). Accordingly, a relevant factor in deciding whether a particular statute on its face can be said to have the improper effect of advancing religion is the determination of whether, and to what extent, the statute directs government aid to pervasively sectarian institutions. In Grand Rapids School District, for example, the Court began its \u201ceffects\u201d inquiry with \u201ca consideration of the nature of the institutions in which the [challenged] programs operate.\u201d Id., at 384.\nIn this lawsuit, nothing on the face of the AFLA indicates that a significant proportion of the federal funds will be disbursed to \u201cpervasively sectarian\u201d institutions. Indeed, the contention that there is a substantial risk of such institutions receiving direct aid is undercut by the AFLA\u2019s facially neutral grant requirements, the wide spectrum of public \u00e1nd private organizations which are capable of meeting the AFLA\u2019s requirements, and the fact that, of the eligible religious institutions, many will not deserve the label of \u201cpervasively sectarian.\u201d This is not a case like Gmnd Rapids, where the challenged aid flowed almost entirely to parochial schools. In that case the State\u2019s \u201cShared Time\u201d program was directed specifically at providing certain classes for nonpublic schools, and 40 of 41 of the schools that actually participated in the program were found to be \u201cpervasively sectarian.\u201d Id., at 385. See also Nyquist, 413 U. S., at 768 (\u201c\u2018all or practically all\u2019 \u201d of the schools entitled to receive grants were religiously affiliated); Meek v. Pittenger, 421 U. S., at 371. Instead, this litigation more closely resembles Tilton and Roemer, where it was foreseeable that some proportion of the recipients of government aid would be religiously affiliated, but that only a small portion of these, if any, could be considered \u201cpervasively sectarian.\u201d In those cases we upheld the challenged statutes on their face and as applied to the institutions named in the complaints, but left open the consequences which would ensue if they allowed federal aid to go to institutions that were in fact pervasively sectarian. Tilton, 403 U. S., at 682; Roemer, 426 U. S., at 760. As in Tilton and Roemer, we do not think the possibility that AFLA grants may go to religious institutions that can be considered \u201cpervasively sectarian\u201d is sufficient to conclude that no grants whatsoever can. be given under the statute to religious organizations. We think that the District Court was wrong in concluding otherwise.\nNor do we agree with the District Court that the AFLA necessarily has the effect of advancing religion because the religiously affiliated AFLA grantees will be providing educational arid counseling services to adolescents. Of course, we have said that the Establishment Clause does \u201cprohibit government-financed or government-sponsored indoctrination into the beliefs of a particular religious faith,\u201d Grand Rapids, supra, at 385, and we have accordingly struck down programs that entail an unacceptable risk that government funding would be used to \u201cadvance the religious mission\u201d of the religious institution receiving aid. See, e. g., Meek, supra, at 370. But nothing in our prior cases warrants the presumption adopted by the District Court that religiously affiliated AFLA grantees are not capable of carrying out their functions under the AFLA in a lawful, secular manner. Only in the context of aid to \u201cpervasively sectarian\u201d institutions have we invalidated an aid program on the grounds that there was a \u201csubstantial\u201d risk that aid to these religious institutions would, knowingly or unknowingly, result in religious indoctrination. E. g., Grand Rapids, supra, at 387-398; Meek, supra, at 371. In contrast, when the aid is to flow to religiously affiliated institutions that were not pervasively sectarian, as in Roemer, we refused to presume that it would be used in a way that would have the primary effect of advancing religion. Roemer, 426 U. S., at 760 (\u201cWe must assume that the colleges . . . will exercise their delegated control over use of the funds in compliance with the statutory, and therefore the constitutional, mandate\u201d). We think that the type of presumption that the District Court applied in this case is simply unwarranted. As we stated in Roemer: \u201cIt has not been the Court\u2019s practice, in considering facial challenges to statutes of this kind, to strike them down in anticipation that particular applications may result in unconstitutional use of funds.\u201d Id., at 761; see also Tilton, supra, at 682.\nWe also disagree with the District Court\u2019s conclusion that the AFLA is invalid because it authorizes \u201cteaching\u201d by religious grant recipients on \u201cmatters [that] are fundamental elements of religious doctrine,\u201d such as the harm of premarital sex and the reasons for choosing adoption over abortion. 657 F. Supp., at 1562. On an issue as sensitive and important as teenage sexuality, it is not surprising that the Government\u2019s secular concerns would either coincide or conflict with those of religious institutions. But the possibility or even the likelihood that some of the religious institutions who receive AFLA funding will agree with the message that Congress intended to deliver to adolescents through the AFLA is insufficient to warrant a finding that the statute on its face has the primary effect of advancing religion. See Lynch, 465 U. S., at 682; id., at 715-716 (Brennan, J., dissenting); Harris v. McRae, 448 U. S. 297, 319-320 (1980). Nor does the alignment of the statute and the religious views of the grantees run afoul of our proscription against \u201cfund[ing] a specifically religious activity in an otherwise substantially secular setting.\u201d Hunt, 413 U. S., at 743. The facially neutral projects authorized by the AFLA \u2014 including pregnancy testing, adoption counseling and referral services, prenatal and postnatal care, educational services, residential care, child care, consumer education, etc. \u2014 ar\u00e9 not themselves \u201cspecifically religious activities,\u201d and they are not converted into such activities by the fact that they are carried out by organizations with religious affiliations.\nAs yet another reason for invalidating parts of the AFLA, the District Court found that the involvement of religious organizations in the Act has the impermissible effect of creating a \u201ccrucial symbolic link\u201d between government and religion. 657 F. Supp., at 1564 (citing, e. g., Grand Rapids, 473 U. S., at 390). If we were to adopt the District Court\u2019s reasoning, it could be argued that any time a government aid program provides funding to religious organizations in an area in which the organization also has an interest, an impermissible \u201csymbolic link\u201d could be created, no matter whether the aid was to be used solely for secular purposes. This would jeopardize government aid to religiously affiliated hospitals, for example, on the ground that patients would perceive a \u201csymbolic link\u201d between the hospital \u2014 part of whose \u201creligious mission\u201d might be to save lives \u2014 and whatever government entity is subsidizing the purely secular medical services provided to the patient. We decline to adopt the District Court\u2019s reasoning and conclude that,, in this litigation, whatever \u201csymbolic link\u201d might in fact be created by the AFLA\u2019s disbursement of funds to religious institutions is not sufficient to justify striking down the statute on its face.\nA final argument that has been advanced for striking down the AFLA on \u201ceffects\u201d grounds is the fact that the statute lacks an express provision preventing the use of federal funds for religious purposes. Cf. Tilton, 403 U. S., at 675; Roemer, supra, at 740-741. Clearly, if there were such a provision in this statute, it would be easier to conclude that the statute on its face could not be said to have the primary effect of advancing religion, see, e. g., Roemer, supra, at 760, but we have never stated that a statutory restriction is constitutionally required. The closest we came to such a holding was in Tilton, where we struck down a provision of the statute that would have eliminated Government sanctions for violating the statute\u2019s restrictions on religious uses of funds after 20 years. 403 U. S., at 683. The reason we did so, however, was because the 20-year limit on sanctions created a risk that the religious institution would, after the 20 years were up, act as if there were no longer any constitutional or statutory limitations on its use of the federally funded building. This aspect of the decision in Tilton was thus intended to indicate that the constitutional limitations on use of federal funds, as embodied in the statutory restriction, could not simply \u201cexpire\u201d at some point during the economic life of the benefitthat the grantee received from the Government. In this litigation, although there is no express statutory limitation on religious use of funds, there is also no intimation in the statute that at some point, or for some grantees, religious uses are permitted. To the contrary, the 1984 Senate Report on the AFLA states that \u201cthe use of Adolescent Family Life Act funds to promote religion, or to teach the religious doctrines of a. particular sect, is contrary to the intent of this legislation.\u201d S. Rep. No. 98-496, p. 10 (1984). We note in addition that the AFLA requires each grantee to undergo evaluations of the services it provides, \u00a7 300z-5(b)(l), and also requires grantees to \u201cmake such reports concerning its use of Federal funds as the Secretary may require,\u201d \u00a7 300z-5(c). The application requirements of the Act, as well, require potential grantees to disclose in detail exactly what services they intend to provide and how they will be provided. \u00a73Q0z-5(a). These provisions, taken together, create a mechanism whereby the Secretary can police the grants that are given out under the Act to ensure that federal funds are not used for impermissible purposes. Unlike some other grant programs, in which aid might be given out in one-time grants without ongoing supervision by the Government, the programs established under the authority of the AFLA can be monitored to determine whether the funds are, in effect, being used by the grantees in such a way as to advance religion. Given this statutory scheme, we do not think that the absence of an express limitation on the use of federal funds for religious purposes means that the statute, on its face, has the primary effect of advancing religion..\nThis, of eourse,. brings us to the third prong of the Lemon Establishment Clause \u201ctest\u201d \u2014 the question whether the AFLA leads to \u201c\u2018an.excessive government entanglement with religion.'\u201d Lemon, 403 U. S., at 613 (quoting Walz v. Tax Common, 397 U. S., at 674). There is no doubt that the monitoring of AFLA grants is necessary if the Secretary is to ensure that public money is to be spent in the way that Congress intended and in a way that comports with the Establishment Clause. Accordingly, this litigation presents us with yet another \u201cCatch-22\u201d argument: the very supervision of the aid to assure that it does not further religion renders the statute invalid. See Aguilar v. Felton, 473 U. S., at 421 (Rehn-QUIST, J., dissenting); id., .at 418 (Powell, J., concurring) (interaction of entanglement and effects tests forces schools \u201cto tread an extremely narrow line\u201d); Roemer., 426 U. S., at 768-769 (White, J., concurring in judgment). For this and other reasons, the \u201centanglement\u201d prong of the Lemon test has been much criticized over the years. See, e. g., Aguilar v. Felton, supra, at 429 (O\u2019Connor, J., dissenting); Wallace v. Jaffree, 472 U. S. 38, 109-110 (1985) (Rehnquist, J., dissenting); Lynch v. Donnelly, 465 U. S., at 689 (O\u2019Connor, J., concurring); Lemon, supra, at 666-668 (White, J., concurring and dissenting). Most of the cases in which the Court has divided over the \u201centanglement\u201d part of - the Lemon test have involved aid to parochial schools; in Aguilar v. Felton, for example, the Court\u2019s finding of excessive entanglement rested in large part on the undisputed fact that the elementary and secondary schools receiving aid were \u201cpervasively sectarian\u201d and had \u201c\u2018as a substantial purpose the inculcation of religious values.\u2019\u201d 473 U. S., at 411 (quoting Nyquist, 413 U. S., at 768); see also 473 U. S., at 411 (expressly distinguishing Roemer, Hunt, and Tilton as cases involving aid to institutions that were not pervasively sectarian). In Aguilar, the Court feared that an adequate level of supervision would require extensive and permanent on-site monitoring, 473 U. S., at 412-413, and would threaten both the \u201cfreedom of religious belief of those who [were] not adherents of that denomination\u201d and the \u201cfreedom of . . . the adherents of the denomination.\u201d Id., at 409-410.\nHere, by contrast, there is no reason to assume that the religious organizations which may receive grants are \u201cpervasively sectarian\u201d in the same sense as the Court has held parochial schools to be. There is accordingly no reason to fear that the less intensive monitoring involved here will cause the Government to intrude unduly in the day-to-day operation of the religiously affiliated AFLA grantees. Unquestionably, the Secretary will review the programs set up and run by the AFLA grantees, and undoubtedly this will involve a review of, for example, the educational materials that a grantee proposes to use. The Secretary may also wish to have Government employees visit the clinics or offices where AFLA programs are being carried out to see whether they are in fact being administered in accordance with statutory and constitutional requirements. But in our view, this type of grant monitoring does not amount to \u201cexcessive entanglement,\u201d at least in the context of a statute authorizing grants to religiously affiliated organizations that are not necessarily \u201cpervasively sectarian.\u201d\nIn sum, in this somewdiat lengthy discussion of the validity of the AFLA on its face, we have concluded that the statute has a valid secular purpose, does not have the primary effect of advancing religion, and does not create an excessive entanglement of church and state. We note, as is proper given the traditional presumption in favor of the constitutionality of statutes enacted by Congress, that our conclusion that the statute does not violate the Establishment Clause is consistent with the conclusion Congress reached in the course of its deliberations on the AFLA. As the Senate Committee Report states:\n\u201cIn the committee\u2019s view, provisions for the involvement of religious organizations [in the AFLA] do not violate the constitutional separation between church and state. Recognizing the limitations of Government in dealing with a problem that has complex moral and social dimensions, the committee believes that prompting the involvement of religious organizations in the solution to these problems is neither inappropriate or illegal. \u201d Senate Report, at 15-16.\nFor the foregoing reasons we conclude that the AFLA does not violate the Establishment Clause \u201con its face.\u201d\nIWe turn now to consider whether the District Court correctly ruled that the AFLA was unconstitutional as applied. Our first task in this regard is to consider whether appellees had standing to raise this claim. In Flast v. Cohen, 392 U. S. 83 (1968), we held that federal taxpayers have standing to raise Establishment Clause claims against exercises of congressional power under the taxing and spending power of Article I, \u00a78, of the Constitution. Although we have considered the problem of standing and Article III limitations on federal jurisdiction many times since then, we have consistently adhered to Flast and the narrow exception it created to the general rule against taxpayer standing established in Frothingham v. Mellon, 262 U. S. 447 (1923). Accordingly, in this case there is no dispute that appellees have standing to raise their challenge to the AFLA on its face. What is disputed, however, is whether appellees also have standing to challenge the statute as applied. The answer to this question turns on our decision in Valley Forge Christian College v. Americans United for Separation of Church & State, Inc., 454 U. S. 464 (1982). In Valley Forge, we ruled that taxpayers did not have standing to challenge a decision by the Secretary of Health, Education, and Welfare (HEW) to dispose of certain property pursuant to the Federal Property and Administrative Services Act of 1949, 63 Stat. 377, as amended, 40 U. S. C. \u00a7471 et seq. We rejected the taxpayers\u2019 claim of standing for two reasons: first, because \u201cthe source of their complaint is not a congressional action, but a decision by HEW to transfer a parcel of federal property,\u201d 454 U. S., at 479, and second, because \u201cthe property transfer about which [the taxpayers] complain was not an exercise of authority conferred by the Taxing and Spending Clause of Art. I, \u00a78,\u201d id., at 480. Appellants now contend that appel-lees\u2019 standing in this case is deficient for the former reason; they argue that a challenge to the AFLA \u201cas applied\u201d is really a challenge to executive action, not to an exercise of congressional authority under the Taxing and Spending Clause. We do not think, however, that appellees\u2019 claim that AFLA funds are being used improperly by individual grantees is any less a challenge to congressional taxing and spending power simply because the funding authorized by-Congress has flowed through and been administered by the Secretary. Indeed, Flast itself was a suit against the Secretary of HEW, who had been given the authority under the challenged statute to administer the spending program that Congress had created. In subsequent cases, most notably Tilton, we have not questioned the standing of taxpayer plaintiffs to raise Establishment Clause challenges, even when their claims raised questions about the administratively made grants. See Tilton, 403 U. S., at 676; see also Hunt, 413 U. S., at 735-736 (not questioning standing of state taxpayer to file suit against state executive in an \u201cas applied\u201d challenge); Roemer, 426 U. S., at 744 (same). This is not a case like Valley Forge, where the challenge was to an exercise of executive authority pursuant to the Property Clause of Article IV, \u00a73, see 454 U. S., at 480, or Schlesinger v. Reservists Committee to Stop the War, 418 U. S. 208, 228 (1974), where the plaintiffs challenged the executive decision to allow Members of Congress to maintain their status as officers of the Armed Forces Reserve. See also United States v. Richardson, 418 U. S. 166, 175 (1974) (rejecting standing in challenge to statutes regulating the Central Intelligence Agency\u2019s accounting and reporting requirements). Nor is this, as we stated in Flast, a challenge to \u201can incidental expenditure of tax funds in the administration of an essentially regulatory statute.\u201d 392 U. S., at 102. The AFLA is at heart a program of disbursement of funds pursuant to Congress\u2019 taxing and spending powers, and appellees\u2019 claims call into question how the funds authorized by Congress are being disbursed pursuant to the AFLA\u2019s statutory mandate. In this litigation there is thus a sufficient nexus between the taxpayer\u2019s standing as a taxpayer and the congressional exercise of taxing and spending power, notwithstanding the role the Secretary plays in administering the statute.\nOn the merits of the \u201cas applied\u201d challenge, it seems to us that the District Court did not follow the proper approach in assessing appellees\u2019 claim that the Secretary is making grants under the Act that violate the Establishment Clause of the First Amendment. Although the District Court stated several times that AFLA aid had\" been given to religious organizations that were \u201cpervasively sectarian,\u201d see 657 F. Supp., at 1564, 1565, 1567, it did not identify which grantees it was referring to, nor did it discuss with any particularity the aspects of those organizations which in its view warranted classification as \u201cpervasively sectarian.\u201d The District Court did identify certain instances in which it felt AFLA-funds were used for constitutionally improper purposes, but in our view the court did not adequately design its remedy to address the specific problems it found-in the Secretary\u2019s administration of the statute. Accordingly, although there is no dispute that the record contains evidence of specific incidents of impermissible behavior by AFLA grantees, we feel that this lawsuit should be remanded to the District Court for consideration of the evidence presented by appel-lees insofar as it sheds light on the manner in which the statute is presently being administered. It is the latter inquiry to which the court must direct itself on remand.\nIn particular, it will be open to appellees on remand to show that AFLA aid is flowing to grantees that can be considered \u201cpervasively sectarian\u201d religious institutions, such as we have held parochial schools to be. See Hunt, supra, at 743. As our previous discussion has indicated, and as Tilton, Hunt, and Roemer make clear, it is not enough to show that the recipient of a challenged grant is affiliated with a religious institution or that it is \u201creligiously inspired.\u201d\nThe District Court should also consider on remand whether in particular cases AFLA aid has been used to fund \u201cspecifically religious activities] in an otherwise substantially secular setting.\u201d Hunt, supra, at 743. In Hunt, for example, we deemed it important that the conditions on which the aid was granted were sufficient to preclude the possibility that funds would be used for the construction of a building used for religious purposes. Here it would be relevant to determine, for example, whether the Secretary has permitted AFLA grantees to use materials that have an explicitly religious content or are designed to inculcate the views of a particular religious faith. As we have pointed out in our previous discussion, evidence that the views espoused on questions such as premarital sex, abortion, and the like happen to coincide with the religious views of the AFLA grantee would not be sufficient to show that the grant funds are being used in such a way as to have a primary effect of advancing religion.\nIf the District Court concludes on the evidence presented that grants are being made by the Secretary in violation of the Establishment Clause, it should then, turn to the question of the appropriate remedy. We deal here with a funding statute with respect to which Congress has expressed the view that the use of funds by grantees to promote religion, or to teach religious doctrines of a particular sect, would be contrary to the intent of the statute. See S. Rep. No. 98-496, p. 10 (1984). The Secretary has promulgated a series of conditions to each grant, including a prohibition against teaching or promoting religion. See App. 757. While these strictures may not be coterminous with the requirements of the Establishment Clause, they make it very likely that any particular grant which would violate the Establishment Clause would also violate the statute and the grant conditions imposed by the Secretary. Should the court conclude that the Secretary has wrongfully approved certain AFLA grants, an appropriate remedy would require the Secretary to withdraw such approval.\n> t \u2014 l\nWe conclude, first, that the District Court erred in holding that the AFLA is invalid on its face, \u00e1nd second, that the court should consider on remand whether particular AFLA grants have had the primary effect of advancing religion. Should the court conclude that the Secretary\u2019s current practice does allow such grants, it should devise a remedy to insure that grants awarded by the Secretary eomply with the Constitution and the statute. The judgment of the District Court is accordingly\nReversed.\nIn addition to these services, the AFLA also provides funding for research projects. See \u00a7\u00a7 300z(b)(4)-(6), 300z-7. This aspect of the statute is not involved in this case.\nSection 300z-l(a)(4) provides in full:\n\u201c(4) \u2018necessary services\u2019 means services which may be provided by grantees which are\u2014\n\u201c(A) pregnancy testing and maternity counseling;\n\u201c(B) adoption counseling and referral services which present adoption as an option for pregnant adolescents, including referral to licensed adoption agencies in the community if the eligible grant recipient is not a licensed adoption agency;\n\u201c(C) primary and preventive health services including prenatal and postnatal care;\n\u201c(D) nutrition information and counseling;\n\u201c(E) referral for screening and treatment of venereal disease;\n\u201c(F) referral to appropriate pediatric-care;\n\u201c(G) educational services relating to family life and problems associated with- adolescent premarital sexual relations, including\u2014\n\u201c(i) information about adoption;\n\u201c(ii) education on the responsibilities of sexuality and parenting;\n\u201c(iii) the development of material to support the role of parents as the provider of sex education; and\n\u201c(iv) assistance to parents, schools, youth agencies, and health providers to educate adolescents and preadolescents concerning self-discipline and responsibility in human- sexuality;\n\u201c(H) appropriate educational and vocational services and referral to such services;\n\u201c(I) referral to licensed residential care or maternity home services; and\n\u201c(J) mental health services and referral to mental health services and to other appropriate physical health services;\n\u201c(K) child care sufficient to enable the adolescent parent to continue education or to enter into employment;\n\u201c(L) consumer education and homemaking;\n\u201c(M) counseling for the immediate and extended family members of the eligible person;\n\u201c(N) transportation;\n\u201c(0) outreach services to families of adolescents to discourage sexual relations among unemancipated minors;\n\u201c(P) family planning services; and\n\u201c(Q) such other services consistent with the purposes of this subchapter as the Secretary may approve in accordance with regulations promulgated by the Secretary.\u201d\nSection 300z-10(a) reads in full;\n\u201cGrants or payments may be made only to programs or projects which do not provide abortions or abortion counseling or referral, or which do not subcontract with or make any payment to any person who provides abortions or abortion counseling or referral, except that any such program or project may provide referral for abortion counseling to a pregnant adolescent- if such adolescent and the parents or guardians of such adolescent request such referral; and grants may be made only to projects or programs which do not advocate, promote, or encourage abortion.\u201d\nOn October 2, 1984, the District Court allowed United Families of America (UFA) to intervene and participate as a defendant-intervenor in support of the constitutionality of the AFLA.\nThe court rejected appellees\u2019 claim that a striet-serutiny standard should apply to the AFLA because the statute\u2019s restriction of funding to organizations that oppose abortion explicitly and deliberately discriminates among religious denominations. See Larson v. Valente, 456 U. S. 228 (1982). The court found that the AFLA does not precondition the award of a grant on a grantee\u2019s having a particular religious belief; it merely restricts the grantees from using federal tax dollars to advocate a certain course of action. See \u00a7 300z-10. While the AFLA\u2019s restriction on the advocacy of abortion does coincide with certain religious beliefs, that fact by itself did not, in the District Court\u2019s opinion, trigger the application of strict scrutiny under Larson. This aspect of the District Court\u2019s opinion has not been challenged on this appeal.\nPrior to this, the court reviewed \u201cthe motions, the statements of material fact not in dispute, the allegations of disputed facts, the gol'conda of documents submitted to the Court, and the case law,\u201d and .concluded that the material facts were not in dispute and that summary judgment would be proper. 657 F. Supp., at 1554.\nThe court also found that the AFLA\u2019s funding of religious organizations is likely to incite political divisiveness. See id., at 1569 (citing, e. g., Lynch v. Donnelly, 465 U. S. 668, 689 (1984) (O\u2019Connor, J., concurring)).\nWe also see no reason to conclude that the AFLA serves an impermissible religious purpose simply because some of the goals of the statute coincide with the beliefs of certain religious organizations. See Harris v. McRae, 448 U. S. 297, 319-320 (1980); McGowan v. Maryland, 366 U. S. 420, 442 (1961).\nIndeed, the legislative history shows that Congress was aware that religious organizations had been grantees under Title VI and that it did not disapprove of that practice. The Senate Report, at 16, states:\n\u201cIt should be noted that under current law [Title VI], the Office of Adolescent Pregnancy Programs has made grants to two religious-affiliated organizations, two Christian organizations and several other groups that are indirectly affiliated with religious bodies. Religious affiliation is not a criterion for selection- as a grantee under the adolescent family life program, but any such grants made by the Secretary would be a simple recognition that nonprofit religious organizations have a role to play in the provision of services to adolescents.\u201d\nOne witness before the Senate Committee testified that \u201cprojects which target hispanic and other minority populations are more accepted by the population if they include sectarian, as well as non-sectarian, organizations in the delivery of those services.\u201d S. Rep. No. 98-496, p. 10 (1984). This indicates not that sectarian grantees are particularly well qualified to perform AFLA services, but that the inclusion of both secular and sectarian grantees can improve the effectiveness of the Act\u2019s programs.\nThis undercuts any argument that religion has been \u201cadvanced\u201d simply because AFLA added to Title VI the various references to religious organizations. As we noted previously, the amendments to Title VI were motivated by the secular purpose of increasing community involvement in the problems associated with adolescent sexuality. Although the AFLA amendments may have the effect of increasing the role of religious organizations in services provided under the AFLA. at least relative to services provided under Title VI, this reflects merelythe fact that the AFLA program as a whole was expanded, with the role of all community organizations being increased as a result. This expansion of programs available under the AFLA, as opposed to Title VI, has only the \u201cincidental\u201d effect, if that, of advancing religion.\nThe validity of this observation is borne out by the statistics for the AFLA program in fiscal year 1986. According to the record of funding for that year, some $10.7 million in funding was awarded under the AFLA to a total of 86 organizations. Of this, about $3.3 million went to 23 religiously affiliated grantees, with only $1.3 million of this figure going to the 13 projects that were cited by the District Court for constitutional violations. App. 748-756. Qf these 13 projects, 4 appear to be state or local government. organizations, and at least 1 is a hospital. Id., at 755. Of the 13 religiously affiliated organizations listed, 2 are universities. Id., at 756.\nSection 300z-3 does, however, expressly define the uses to which federal funds may be put, including providing care and prevention services to eligible individuals. Nowhere in this section is it suggested that use of funds for religious purposes would be permissible.\nWe also disagree with the District Court\u2019s conclusion that the AFLA is invalid because it is likely to create political division along religious lines. See 657 F. Supp., at 1569. It may well be that because of the importance of the issues relating to adolescent sexuality there may be a division of opinion along religious lines as well as ocher lines. But the same may be said- of a great number of other public issues of our day. In addition, as we said in Mueller v. Allen, 463 U. S. 388, 404, n. 11 (1983), the question of \u201cpolitical divisiveness\u201d should be \u201cregarded as confined to cases where direct financial subsidies are paid to parochial schools or to teachers in parochial schools.\u201d\nBecause we find that the taxpayer appellees have standing, we need not consider the standing of the clergy or the American Jewish Congress.\nThe closest the court came was to identify \u201cat least ten AFLA grantees or subgrantees [that] were themselves \u2018religious organizations,\u2019 in the sense that they have explicit corporate ties to a particular religious 'faith and by-laws or policies that prohibit any deviation from religious doctrine.\u201d 657 F. Supp., at 1565. While these factors are relevant to the determination of whether an institution is \u201cpervasively sectarian,\u201d they are not conclusive, and we do not find the court\u2019s conclusion that these institutions are \u201creligious organizations\u201d to be equivalent to a finding that their secular purposes and religious mission are \u201cinextricably intertwined.\u201d",
+        "type": "majority",
+        "author": "Chief Justice Rehnquist"
+      },
+      {
+        "text": "Justice O\u2019Connor,\nconcurring.\nThis litigation raises somewhat unusual questions involving a facially valid statute that appears to have been administered in a way that led to violations of the Establishment Clause. I agree with the Court\u2019s resolution of those questions, and I join its opinion. I write separately, however, to explain why I do not believe that the Court\u2019s approach reflects any tolerance for the kind of improper administration that seems to have occurred in the Government program at issue here.\nThe dissent says, and I fully agree, that \u201c[pjublic funds may not be used to endorse the religious message.\u201d Post, at 642'. As the Court notes, \u201cthere is no dispute that the record contains evidence of specific incidents of impermissible behavior by AFLA grantees.\u201d Ante, at 620. Because the District Court employed an analytical framework that did not require a detailed discussion of the voluminous record, the extent of this impermissible behavior and the degree to which it is attributable to poor administration by the Executive Branch is somewhat less clear. In this circumstance, two points deserve to be emphasized. First, any use of public funds to promote religious doctrines violates the Establishment Clause. Second, extensive violations \u2014 if they can be proved in this case \u2014 will be highly relevant in shaping an appropriate remedy that ends such abuses. For that reason, appellees may yet prevail on remand, and I do not believe that the Court\u2019s approach entails a relaxation of \u201cthe unwavering vigilance that the Constitution requires against any law \u2018respecting an establishment of religion.\u2019\u201d See post, at 648 (quoting U. S. Const., Arndt. 1); cf. post, at 63.0, n. 4.\nThe need' for detailed factual findings by the District Court stems in part from the delicacy of the task given to the Executive Branch by the Adolescent Family Life Act (AFLA). Government has a strong and legitimate secular interest in encouraging sexual restraint among young people. At the same time, as the dissent rightly points out, \u201c[t]here is a very real and important difference between running a soup kitchen or a hospital, and counseling pregnant teenagers on how to make the difficult decisions facing them.\u201d Post, at 64L Using religious organizations to advance the secular goals of the AFLA, without thereby permitting religious indoctrination, is inevitably more difficult than in other projects, such as ministering to the poor and the sick. I nonetheless agree with the Court that the partnership between governmental and religious institutions contemplated by the AFLA need not result in constitutional violations, despite an undeniably greater risk than is present in cooperative undertakings that involve less sensitive objectives. If the District Court finds on remand that grants are being made in violation of the Establishment Clause, an appropriate remedy would take into account the history of the program\u2019s administration as well as the extent of any continuing constitutional violations.",
+        "type": "concurrence",
+        "author": "Justice O\u2019Connor,"
+      },
+      {
+        "text": "Justice Kennedy,\nwith whom Justice Scalia joins, concurring.\nI join the Court\u2019s opinion, and write this separate concurrence to discuss one feature of the proceedings on remand. The Court states that \u201cit will be open to appellees on remand to show that AFLA aid is flowing to grantees that can be considered \u2018pervasively sectarian\u2019 religious institutions, such as we have held parochial schools to be.\u201d Ante, at 621. In my view, such a showing will not alone be enough, in an as-applied challenge, to make out a violation of the Establishment Clause.\nThough I am not confident that the term \u201cpervasively sectarian\u201d is a well-founded juridical category, I recognize the thrust of our previous decisions that a statute which provides for exclusive or disproportionate funding to pervasively sectarian institutions may impermissibly advance religion and as such be invalid on its face. We hold today, however, that the neutrality of the grant requirements and the diversity of the organizations described in the statute before us foreclose the argument that it is disproportionately tied to pervasively sectarian groups. Ante, at 610-611. Having held that the statute is not facially invalid, the only purpose of further inquiring whether any particular grantee institution is pervasively sectarian is as a preliminary step to demonstrating that the funds are in fact being used to further religion. In sum, where, as in this litigation, a statute provides that the benefits of a program are to be distributed in a neutral fashion to religious and nonreligious applicants alike, and the program withstands a facial challenge, it is not unconstitutional as applied solely by reason of the religious-character of a specific recipient. The question in an as-applied challenge is not whether the entity is of a religious character, but how it spends its grant.",
+        "type": "concurrence",
+        "author": "Justice Kennedy,"
+      },
+      {
+        "text": "Justice Blackmun,\nwith whom Justice Brennan, Justice Marshall, and Justice Stevens join, dissenting.\nIn 1981, Congress enacted the Adolescent Family Life Act (AFLA), 95 Stat. 578, 42 U. S. C. \u00a7300z et seq. (1982 ed. and Supp. IV), thereby \u201cinvolv[ing] families[,} . . . religious and charitable organizations, voluntary associations, and other groups,\u201d \u00a73Q0z-5(a)(21), in a broad-scale effort to alleviate some of the problems associated with teenage pregnancy. It is unclear whether Congress ever envisioned that public funds would pay for a-program during a session of which parents and teenagers would be instructed:\n\u201cYou want to know the church teachings on sexuality. . . . You are the church. You people sitting here are the body of Christ. The teachings of you and the things you value are, in fact, the values of the Catholic Church.\u201d App. 226.\nOr of curricula that taught:\n\u201cThe Church has always taught that the marriage act, or intercourse, seals the union of husband and wife, (and is a representation of their union on all levels.) Christ commits Himself to us when we come to ask for the sacrament of marriage. We ask Him to be active in our life. God is love. We ask Him to share His love in ours, and God procreates with us, He enters into our physical union with Him, and we begin new life.\u201d Id., at 372.\nOr the teaching of a method of family planning described on the grant application as \u201cnot only a method of birth regulation but also a philosophy of procreation,\u201d id., at 143, and promoted as helping \u201cspouses who are striving ... to transform their married life into testimony[,]... to cultivate their matrimonial spirituality!, and] to make themselves better instruments in God\u2019s plan,\u201d and as \u201cfacilitating] the evange-lization of homes.\u201d Id,., at 385.\nWhatever Congress had in mind, however, it enacted a statute that facilitated and, indeed, encouraged the use of public funds for such instruction, by giving religious groups a central pedagogical and counseling role without imposing any restraints on the sectarian quality of the participation. As the record .developed thus far in this litigation makes all too clear, federal tax dollars appropriated for AFLA purposes have been used, with Government approval, to support religious teaching. Today the majority upholds the facial validity of this statute and remands the action to the District Court for further proceedings concerning appellees\u2019 challenge to the manner in which the statute has been applied. Because I am firmly convinced that our cases require invalidating this statutory scheme, I dissent.\nI\nThe District Court, troubled by the lack of express guidance from this Court as to the appropriate manner in which to examine Establishment Clause challenges to an entire statute as well as to specific instances of its implementation, reluctantly proceeded to analyze the AFLA both \u201con its face\u201d and \u201cas applied.\u201d Thereafter, on cross-motions for summary judgment supported by an extensive record of undisputed facts, the District Court applied the three-pronged analysis of Lemon v. Kurtzman, 403 U. S. 602 (1971), and declared the AFLA unconstitutional both facially and as applied. 657 F. Supp. 1547 (DC 1987). The majority acknowledges that this Court in some cases has passed on the facial validity of a legislative enactment and in others limited its analysis to the particular applications at issue; yet, while confirming that the District Court was justified in analyzing the AFLA both ways, the Court fails to elaborate on the consequences that flow from the analytical division.\nWhile the distinction is sometimes useful in constitutional litigation, the majority misuses it here to divide and conquer appellees\u2019 challenge. By designating appellees\u2019 broad attack on the statute as a \u201cfacial\u201d challenge, the majority justifies divorcing its analysis from the extensive record developed in the District Court, and thereby strips the challenge of much of its force and renders the evaluation of the Lemon \u201ceffects\u201d prong particularly sterile and meaningless. By characterizing appellees\u2019 objections to the real-world operation of the AFLA an \u201cas-applied\u201d challenge, the Court risks misdirecting the litigants and the lower courts toward piecemeal litigation continuing indefinitely throughout the life of the AFLA. In my view, a more effective way to review Establishment Clause challenges is to look to the type of relief prayed for by the plaintiffs, and the force of the arguments and supporting evidence they marshal. Whether we denominate a challenge that focuses on the systematically unconstitutional operation of a statute a \u201cfacial\u201d challenge \u2014 because it goes to the statute as a whole \u2014 or an \u201cas-applied\u201d challenge \u2014 because we rely on real-world events \u2014 the Court should not blind itself to the facts revealed by the undisputed record.\nAs is evident from the parties\u2019 arguments, the record compiled below, and the decision of the District Court, this lawsuit has been litigated primarily as a broad challenge to the statutory scheme as a whole, not just to the awarding of grants to a few individual applicants. The thousands of pages of depositions, affidavits, and documentary evidence were not intended to. demonstrate merely that particular grantees should not receive further funding. Indeed, because of the 5-year grant cycle, some of the original grantees are no longer AFLA participants. This record was designed to show that the AFLA had been interpreted and implemented by the Government in a manner that was clearly unconstitutional, and appellees sought declaratory and injunc-tive relief as to the entire statute.\nIn discussing appellees\u2019 as-applied challenge, the District Court recognized that their objections went further than the validity of the particular grants under review:\n\u201cThe undisputed record before the Court transforms the inherent conflicts between the AFLA and the Constitution into reality. . . . While the Court will not engage in an exhaustive recitation of the record, references to representative portions of the record reveal the extent to which the AFLA has in fact \u2018directly and immediately\u2019 advanced religion, funded \u2018pervasively sectarian\u2019 institutions, or permitted the use of federal tax dollars for education and counseling that amounts to the teaching of religion.\u201d 657 F. Supp., at 1564 (footnote omitted).\nThe majority declines to accept the District Court\u2019s characterization of the record, yet fails to review it independently, relying instead on its assumptions and casual observations about the character of the grantees and potential grantees. See ante, at 610, 611-612, 616-617. In doing so, the Court neglects its responsibilities under the Establishment Clause and gives uncharacteristically short shrift to the District Court\u2019s understanding of the facts.\nII\nBefore proceeding to apply Lemon\u2019s three-part analysis to the AFLA, I pause to note a particular flaw in the majority\u2019s method. A central premise of the majority opinion seems to be that the primary means of ascertaining whether a statute that appears to be neutral on its face in fact has the effect of advancing religion is to determine whether aid flows to \u201cpervasively sectarian\u201d institutions. See ante, at 609-610, 616, 621. This misplaced focus leads the majority to ignore the substantial body of case law the Court has developed in analyzing programs providing direct aid to parochial schools, and to rely almost exclusively on the few cases in which the Court has upheld the supplying of aid to private colleges, including religiously affiliated institutions.\n\u201cPervasively sectarian,\u201d a vaguely defined term of art, has its roots in this Court\u2019s recognition that government must not engage in detailed supervision of the inner workings of religious institutions, and the Court\u2019s sensible distaste for the \u201cpicture of state inspectors prowling the halls of parochial schools and auditing classroom instruction,\u201d Lemon v. Kurtzman, 403 U. S., at 650 (Brennan, J., concurring); see also Aguilar v. Felton, 473 U. S. 402, 411 (1985); Roemer v. Maryland Public Works Board, 426 U. S. 736, 762 (1976) (plurality opinion). Under the \u201ceffects\u201d prong of the Lemon test, the Court has used one variant or another of the pervasively sectarian concept to explain why any but the most indirect forms of government aid to such institutions would necessarily have the effect of advancing religion. For example, in Meek v. Pittenger, 421 U. S. 349, 365 (1975), the Court explained:\n\u201c[I]t would simply ignore reality to attempt to separate secular educational functions from the predominantly religious role performed by many of Pennsylvania\u2019s church-related elementary and secondary schools and to then characterize Act 195 as \u25a0 channeling aid to the secular without providing direct aid to the sectarian.\u201d\nSee also Hunt v. McNair, 413 U. S. 734, 743 (1973).\nThe majority first skews the Establishment Clause analysis by adopting a cramped view of what constitutes a pervasively sectarian institution. Perhaps because most of the Court\u2019s decisions in this area have come in the context of aid to parochial schools, which traditionally have been characterized as- pervasively sectarian, the majority seems to equate the characterization with the institution. In support of that illusion, the majority relies heavily on three cases in which the Court has upheld direct government funding to liberal arts colleges with some religious affiliation, noting that such colleges were not \u201cpervasively sectarian.\u201d But the happenstance that the few'cases in which direct-aid statutes have been upheld have concerned religiously affiliated liberal arts colleges no more suggests that only parochial schools should be considered \u201cpervasively sectarian,\u201d than it suggests that the only religiously affiliated institutions that may ever receive direct government funding are private liberal arts colleges. In fact, the cases on which the majority relies have stressed that the institutions\u2019 \u201cpredominant higher education mission is to provide their students with a secular education.\u201d Tilton v. Richardson, 403 U. S. 672, 687 (1971) (emphasis added); see Roemer v. Maryland Public Works Board, 426 U. S., at 755 (noting \u201chigh degree of institutional autonomy\u201d and that \u201cthe encouragement of spiritual development is only one secondary objective of each college\u201d) (internal quotations omitted); Hunt v. McNair, 413 U. S., at 744 (finding \u201cno basis to conclude that the College\u2019s operations are oriented significantly towards sectarian rather than secular education\u201d). In sharp contrast, the District Court here concluded that AFLA grantees and participants included \u201corganizations with institutional ties to religious denominations and corporate requirements that the organizations abide by and not contradict religious doctrines. In addition, other recipients of AFLA funds, while not explicitly affiliated with a religious denomination, are religiously inspired and dedicated to teaching the dogma that inspired them\u201d (emphasis added). 657 F. Supp., at 1564. On a continuum of \u201csectarianism\u201d running from parochial schools at one end to the colleges funded by the statutes upheld in Tilton, Hunt, and Roemer at the other, the AFLA grantees described by the District Court clearly are much closer to the former than to the latter.\nMore importantly, the majority also errs in suggesting that the inapplicability of the label is generally dispositive. While a plurality of the Court has framed the inquiry as \u201cwhether an institution is so \u2018pervasively sectarian\u2019 that it may receive no direct state aid of any kind,\u201d Roemer v. Maryland Public Works Board, 426 U. S., at 758, the Court never has treated the absence of such a finding as a license to disregard the potential for impermissible fostering of religion. The characterization of an institution as \u201cpervasively sectarian\u201d allows us to eschew further inquiry into the use that will be made of direct government aid. In that sense, it is a sufficient, but not a necessary, basis for a finding that a challenged program creates an. unacceptable Establishment Clause risk. The label thus serves in some cases as a proxy for a more detailed analysis of the institution, the nature of the aid, and the manner in which the aid may be used.\nThe voluminous record compiled by the parties and reviewed by the District Court illustrates the manner in which the AFLA has been interpreted and implemented by the agency responsible for the aid program, and eliminates whatever need there might be to speculate about what kind of institutions might receive funds and how they might be selected; the record explains the nature of the activities funded with Government money, as well as the content of the educational programs and materials developed and disseminated. There is no basis for ignoring the volumes of depositions, pleadings, and undisputed facts reviewed by the District Court simply because the recipients of the Government funds may not in every sense resemble parochial schools.\nHH h \u2014 I H-i\nAs is often the case, it is the effect of the statute, rather than its purpose, that creates Establishment Clause problems. Because I have no meaningful disagreement with the majority\u2019s discussion of the AFLA\u2019s essentially secular purpose, and because I find the statute\u2019s effect of advancing religion dispositive, I turn to that issue directly.\nA\nThe majority\u2019s holding that the AFLA is not unconstitutional on its face marks a sharp departure from our precedents. While aid programs providing nonmonetary, verifi-ably secular aid have been upheld notwithstanding the indirect effect they might have on the allocation of an institution\u2019s own funds for religious activities, see, e. g., Board of Education v. Allen, 392 U. S. 236 (1968) (lending secular textbooks to parochial schools); Everson v. Board of Education, 330 U. S. 1 (1947) (providing bus services to parochial schools), direct cash subsidies have always required much closer scrutiny into the expected and potential uses of the funds, and much greater guarantees that the funds would not be used inconsistently with the Establishment Clause. Parts of the AFLA prescribing various forms of outreach, education, and counseling services specifically authorize the expenditure of funds in ways previously held unconstitutional. For example, the Court has upheld the use of public funds to support a parochial school\u2019s purchase of secular textbooks already approved for use in public schools, see Wolman v. Walter, 433 U. S. 229, 236-238 (1977); Meek v. Pittenger, 421 U. S., at 359-362, or its grading and administering of state-prepared tests, Committee for Public Education & Religious Liberty v. Regan, 444 U. S. 646 (1980). When the books, teaching materials, or examinations were to be selected or designed by the private schools themselves, however, the Court consistently has held that such government aid risked advancing religion impermissibly. See, e. g., Wolman v. Walter, 433 U. S., at 248-251; Levitt v. Committee for Public Education & Religious Liberty, 413 U. S. 472 (1973); Lemon v. Kurtzman, 403 U. S., at 620-621. The teaching materials that may be purchased, developed, or disseminated with AFLA funding are in no way restricted to those already selected and approved for use in secular contexts.\nNotwithstanding the fact that Government funds are paying for religious organizations to teach and counsel impressionable adolescents on a highly sensitive subject of considerable religious significance, often on the premises of a church or parochial school and without any effort to remove religious symbols from the sites, 657 F. Supp., at 1565-1566, the majority concludes that the AFLA is not facially invalid. The majority acknowledges the constitutional proscription on government-sponsored religious indoctrination but, on the basis of little more than an indefensible assumption that AFLA recipients are not pervasively sectarian and consequently are presumed likely to comply with statutory and constitutional mandates, dismisses as insubstantial the risk that indoctrination will enter counseling. Ante, at 611-612. Similarly, the majority rejects the District Court\u2019s conclusion that the subject matter renders the risk of indoctrination unacceptable, and does so, it says, because \u201cthe likelihood that some of the religious institutions who receive AFLA funding will agree with the message that Congress intended to deliver to adolescents through the AFLA\u201d does not amount to the advancement of religion. Ante, at 613. I do not think the statute can be so easily and conveniently saved.\n(1)\nThe District Court concluded that asking religious organizations to teach and counsel youngsters on matters of deep religious significance, yet expect them to refrain from making reference to religion is both foolhardy and unconstitutional. The majority\u2019s rejection of this view is illustrative of its doctrinal misstep in relying so heavily on the college-funding cases. The District Court reasoned:\n\u201cTo presume that AFLA counselors from religious organizations can put their beliefs aside when counseling an adolescent on matters that are part of religious doctrine is simply unrealistic. . . . Even if it were possible, government would tread impermissibly on religious liberty merely by suggesting that religious organizations instruct on doctrinal matters without any conscious or unconscious reference to that doctrine. Moreover, the statutory scheme is fraught with the possibility that religious beliefs might infuse instruction and never be detected by the impressionable and unlearned adolescent to whom the instruction is directed\u201d (emphasis in original). 657 F. Supp., at 1563.\nThe majority rejects the District Court\u2019s assumptions as unwarranted outside the context of a pervasively sectarian institution. In doing so, the majority places inordinate weight on the nature of the institution receiving the funds, and ignores altogether the targets of the funded message and the nature of its content.\nI find it nothing less than remarkable that the majority relies on statements expressing confidence that administrators of religiously affiliated liberal arts colleges would not breach statutory proscriptions and use government funds earmarked \u201cfor secular purposes only,\u201d to finance theological instruction or religious worship, see ante, at 612, citing Roemer, 426 U. S., at 760-761, and Tilton, 403 U. S., at 682, in order to reject a challenge based on the risk of indoctrination inherent in \u201ceducational services relating to family life and problems associated with- adolescent premarital sexual relations,\u201d or \u201coutreach services to families of adolescents to discourage sexual relations among unemancipated minors.\u201d \u00a7\u00a7 300z-l(a)(4)(G), (0). The two situations are simply not comparable.\nThe AFLA, unlike any statute this Court has upheld, pays for teachers and counselors, employed by and subject to the direction of religious authorities, to educate impressionable young minds on issues of religious moment; Time and again we have recognized the difficulties inherent in asking even the best-intentioned individuals in such positions to make \u201ca total separation between secular teaching and religious doctrine.\u201d Lemon v. Kurtzman, 403 U. S., at 619. Accord, Levitt v. Committee for Public Education & Religious Liberty, 413 U. S., at 481; Meek v. Pittenger, 421 U. S., at 370-371; Roemer v. Maryland Public Works Board, 426 U. S., at 749 (plurality opinion); Wolman v. Walter, 433 U. S., at 254; Grand Rapids School District v. Ball, 473 U. S. 373, 388 (1985). Where the targeted audience is composed of children, of course, the Court\u2019s insistence on adequate safeguards has always been greatest. See, e. g., Grand Rapids School District v. Ball, 473 U. S., at 383, 390; Committee for Public Education & Religious Liberty v. Nyquist, 413 U. S. 756, 796-798 (1973), Lemon v. Kurtzman, 403 U. S., at 622-624. In those cases in which funding of colleges with religious affiliations has been ,upheld, the Court has relied on the assumption that \u201ccollege students are less impressionable and less susceptible to religious indoctrination. . . . The skepticism of the college student is not an inconsiderable barrier to any attempt or .tendency to subvert the congressional objectives and limitations\u201d (footnote omitted). Tilton v. Richardson, 403 U. S., at 686 (plurality opinion). See also Widmar v. Vincent, 454 U. S. 263, 274, n. 14 (1981) (\u201cUniversity students are, of course, young adults. They are less impressionable than younger students and should be able to appreciate that the University\u2019s policy is one of neutrality toward religion\u201d).\n(2)\nBy observing that the alignment of the statute and the religious views of the grantees do not render the AFLA a statute which funds \u201cspecifically religious activity,\u201d the majority makes light of the religious significance in the counseling provided by some grantees. Yet this is a dimension that Congress specifically sought to capture by enlisting the aid of religious organizations in battling the problems associated with teenage pregnancy. See S. Rep. No. 97-161, pp. 15-16 (1981); S. Rep. No. 98-496, pp. 9-10 (1984). Whereas there may be secular values promoted by the AFLA, including the encouragement of adoption and premarital chastity and the discouragement of abortion, it can hardly be doubted that when promoted in theological terms by religious figures, those values take on a religious nature. Not surprisingly, the record is replete with observations to that effect. It should be undeniable by now that religious dogma may not be employed by government even to accomplish laudable secular purposes such as \u201cthe promotion of moral values, the contradiction to the materialistic trends of our times, the perpetuation of our institutions and the teaching of literature.\u201d Abington School District v. Schempp, 374 U. S. 203, 223 (1963) (holding unconstitutional daily reading of Bible verses and recitation of the Lord\u2019s Prayer in public schools); Stone v. Graham, 449 U. S. 39 (1980) (holding unconstitutional posting of Ten Commandments despite notation explaining secular application thereof).\nIt is true, of course, that the Court has recognized that the Constitution does not prohibit the government from supporting secular social-welfare services solely because they are provided by a religiously affiliated organization. See ante, at 609. But such recognition has been closely tied to the nature of the subsidized social service: \u201cthe State may send a cleric, indeed even a clerical order, to perform a wholly secular task\u201d (emphasis added). Roemer v. Maryland Public Works Board, 426 U. S., at 746 (plurality opinion). There is a very real and important difference between running a soup kitchen or a hospital, and counseling pregnant teenagers on how to make the difficult decisions facing them. The risk of advancing religion at public expense, and of creating an appearance that the government is endorsing the medium and the message, is much greater when the religious organization is directly engaged in pedagogy, with the express intent of shaping belief and changing behavior, than where it is neutrally dispensing medication, food, or shelter.\nThere is also, of course, a fundamental difference between government\u2019s employing religion because of its unique appeal to a higher authority and the transcendental nature of its message, and government\u2019s enlisting the aid of religiously committed individuals or organizations without regard to their sectarian motivation. In the latter circumstance, religion plays little or no role; it merely explains why the individual or organization has chosen to get involved in the publicly funded program. In the former, religion is at the core of the subsidized activity, and it affects the manner in which the \u201cservice\u201d is dispensed. For some religious organizations, the answer to a teenager\u2019s question \u201cWhy shouldn\u2019t I have an abortion?\u201d or \u201cWhy shouldn\u2019t I use barrier contraceptives?\u201d will undoubtedly be different from an answer based solely on secular considerations. Public funds may not be used to endorse the religious message.\nB\nThe problems inherent in a statutory scheme specifically designed to involve religious organizations in a government-funded pedagogical program are compounded by the lack of any statutory restrictions on the use of federal tax dollars to promote religion. Conscious of the remarkable omission from the AFLA of any restriction whatsoever on the use of public funds for sectarian purposes, the Court disingenuously argues that we have \u201cnever stated that a statutory restriction is constitutionally required.\u201d Ante, at 614. In Tilton v. Richardson, this Court upheld a statute providing grants and loans to colleges for the construction of academic facilities because it \u201cexpressly prohibited] their use for religious instruction, training, or worship . . . and the record show[ed] that some church-related institutions ha[d] been required to disgorge benefits for failure to obey\u201d the restriction, 403 U. S., at 679-680, but severed and struck a provision of the statute that permitted the restriction to lapse after 20 years. The Tilton Court noted that the statute required applicants to provide assurances only that use of the funded facility would be limited to secular purposes for the initial 20-year period, and that this limitation, \u201cobviously opens the facility to use for any purpose at the end of that period.\u201d Id., at 683. Because they expired after 20 years, \u201cthe statute\u2019s enforcement provisions [were] inadequate to ensure that the impact of the federal aid will not advance religion.\u201d Id., at 682.\n' The majority interprets Tilton \u201cto indicate that the constitutional limitations on use of federal funds, as embodied in the statutory restriction, could not simply \u2018expire\u2019 \u201d after 20 years, but concludes that the absence of a statutory restriction in the AFLA is not troubling, because \u201cthere is also no intimation in the statute that at some point, or for some grantees, religious uses are permitted.\u201d Ante, at 614. Although there is something to the notion that the lifting of a pre-existing restriction may be more likely to be perceived as affirmative authorization than would the absence of any restriction at all, there was in Tilton no provision that stated that after 20 years facilities built under the aid program could be converted into chapels. What there was in Tilton was an express statutory provision, which lapsed, leaving no restrictions; it was that vacuum that the Court found constitutionally impermissible. In the AFLA, by way of contrast, there is a vacuum right from the start.\nIf Tilton were indeed the only indication that cash-grant programs must include prohibitions on the use of public funds to advance or endorse religion, one might argue more plausibly that ordinary reporting requirements, in conjunction with some presumption that Government agencies administer federal programs in a constitutional fashion, might suffice to protect a statute against facial challenge. That, however, is simply not the case. In Committee for Public Education & Religious Liberty v. Regan, 444 U. S. 646 (1980), for example, the Court upheld a state program whereby private schools were reimbursed for the actual cost of administering state-required tests. The statute specifically required that no payments be made for religious instruction and incorporated an extensive auditing system. The Court warned, however: \u201cOf course, under the relevant cases the outcome would likely be different were there no effective means for insuring that the cash reimbursements would cover only secular services.\u201d Id., at 659. In this regard, the Regan Court merely echoed and reaffirmed what was already well established. In Committee for Public Education & Religious Liberty v. Nyquist, the Court explained:\n\u201cNothing in the statute, for instance, bars a qualifying school from paying out of state funds the salaries of employees who maintain the school chapel, or the cost of renovating classrooms in which religion is taught, or the cost of heating and lighting those same facilities. Absent appropriate restrictions on expenditures for these and similar purposes, it simply cannot be denied that this section has a primary effect that advances religion in that it subsidizes directly the religious activities of sectarian elementary and secondary schools\u201d (emphasis added). 413 U. S., at 774.\nSee id., at 780 (\u201cIn the absence of an effective means of guaranteeing that the state aid derived from public funds will be used exclusively for secular, neutral, and nonideological purposes, it is clear from our cases that direct aid in whatever form is invalid\u201d); Lemon v. Kurtzman, 403 U. S., at 621 (\u201cThe history of government grants of a continuing cash subsidy indicates that such programs have almost always been accompanied by varying measures of control and surveillance\u201d). See also Roemer v. Maryland Public Works Board, 426 U. S., at 760 (upholding grant program containing statutory restriction on using state funds for \u201csectarian purposes\u201d); Hunt v. McNair, 413 U. S., at 744 (noting that the statute at issue \u201cspecifically states that a project \u2018shall not include\u2019 any buildings or facilities used for religious purposes\u201d).\nDespite the glaring omission of a restriction on the use of funds for religious purposes, the Court attempts to resurrect the AFLA by noting a legislative intent not to promote religion, and observing that various reporting provisions of the statute \u201ccreate a mechanism whereby the Secretary can police the grants.\u201d Ante, at 615. However effective this \u201cmechanism\u201d might prove to be in enforcing clear statutory directives, it is of no help where, as here, no restrictions are found on the face of the statute, and the Secretary has not promulgated any by regulation. Indeed, the only restriction on the use of AFLA funds for religious purposes is found in the Secretary\u2019s \u201cNotice of Grant Award\u201d sent to grantees, which specifies that public funds may not be used to \u201cteach or promote religion,\u201d 657 F. Supp., at 1563, n. 13, and apparently even that clause was not inserted until after this litigation was underway. Furthermore, the \u201cenforcement\u201d of the limitation on sectarian use of AFLA funds, such as it is, lacks any bite. There is no procedure pursuant to which funds used to promote religion must be refunded to the Government, as there was, for example, in Tilton v. Richardson, 403 U. S., at 682.\nIndeed, nothing in the AFLA precludes the funding of even \u201cpervasively sectarian\u201d organizations, whose work by definition cannot be segregated into religious and secular categories. And, unlike a pre-enforcement challenge, where there is no record to review, or a limited challenge to a specific grant, where the Court is reluctant to invalidate a statute \u201cin anticipation that particular applications may result in unconstitutional use of funds,\u201d Roemer v. Maryland Public Works Board, 426 U. S., at 761, in this litigation the District Court expressly found that funds have gone to pervasively sectarian institutions and tax dollars have been used for the teaching of religion. 657 F. Supp., at 1564. Moreover, ap-pellees have specifically called into question the manner in which the grant program was administered and grantees were selected. See n. 14, supra. These objections cannot responsibly be answered by reliance on the Secretary\u2019s enforcement mechanism. See, e. g., Levitt v. Committee for Public Education & Religious Liberty, 413 U. S., at 480 (\u201c[T]he State is constitutionally compelled to assure that the state-supported activity is not being used for religious indoctrination\u201d); Lemon v. Kurtzman, 403 U. S., at 619 (\u201cThe State must be certain, given the Religion Clauses, that subsidized teachers do not inculcate religion\u201d).\nc\nBy placing unsupportable weight on the \u201cpervasively sectarian\u201d label, and recharacterizing appellees\u2019 objections to the statute, the Court attempts to create an illusion of consistency between our prior cases and its present ruling that the AFLA is not facially invalid. But the Court ignores the unwavering vigilance that the Constitution requires against any law \u201crespecting an establishment of religion,\u201d U. S. Const., Arndt. 1, which, as we have recognized time and again, calls for fundamentally conservative decisionmaking: our cases do not require a plaintiff to demonstrate that a government action necessarily promotes religion, but simply that it creates such a substantial risk. See, e. g., Grand Rapids School District v. Ball, 473 U. S., at 387 (observing a \u201csubstantial risk that, overtly or subtly, the religious message . . . will infuse the supposedly secular classes\u201d); Committee for Public Education & Religious Liberty v. Regan, 444 U. S., at 656 (describing as \u201cminimal\u201d the chance that religious bias would enter process of grading state-drafted tests in secular subjects, given \u201ccomplete\u201d state safeguards); Wolman v. Walter, 433 U. S., at 254 (noting \u201cunacceptable risk of fostering of religion\u201d as \u201can inevitable byproduct\u201d of teacher-accompanied field trips); Meek v. Pittenger, 421 U. S., at 372 (finding \u201cpotential for impermissible fostering of religion\u201d); Levitt v. Committee for Public Education & Religious Liberty, 413 U. S., at 480 (finding dispositive \u201cthe substantial risk that . . . examinations, prepared by teachers under the authority of religious institutions, will be drafted with an eye, unconsciously or otherwise, to inculcate students in the religious precepts of the sponsoring church\u201d); Lemon v. Kurtzman, 403 U. S., at 619 (finding \u201cpotential for impermissible fostering of religion\u201d). Given the nature of the subsidized activity, the lack of adequate safeguards, and the chronicle of past experience with this statute, there is no room for doubt that the AFLA creates a substantial risk of impermissible fostering of religion.\n<\nWhile it is evident that the AFLA does not pass muster under Lemon\u2019s \u201ceffects\u201d prong, the unconstitutionality of the statute becomes even more apparent when we consider the unprecedented degree of entanglement between Church and State required to prevent subsidizing the advancement of religion with AFLA funds. The majority\u2019s brief discussion of Lemon\u2019s \u201centanglement\u201d prong is limited to (a) criticizing it as a \u201cCatch-22,\u201d and (b) concluding that because there is \u201cno reason to assume that the religious organizations which may receive grants are \u2018pervasively sectarian\u2019 in the same sense as the Court has held parochial schools to be,\u201d there is no need to be concerned about the degree of monitoring which will be necessary to ensure compliance with the AFLA and the Establishment Clause. Ante, at 615-616. As to the former, although the majority is certainly correct that the Court\u2019s entanglement analysis has been criticized in the separate writings of some Members of the Court, the question whether a government program leads to \u201c \u2018an excessive government entanglement with religion\u2019 \u201d nevertheless is and remains a part of the applicable constitutional inquiry. Lemon v. Kurtzman, 403 U. S., at 613, quoting Walz v. Tax Comm\u2019n, 397 U. S. 664, 674 (1970). I accept the majority\u2019s conclusion that \u201c[tjhere is no doubt that the monitoring of AFLA grants is necessary ... to ensure that public money is to be spent ... in a way that comports with the Establishment Clause,\u201d ante, at 615, but disagree with its easy characterization of entanglement analysis as a \u201cCatch-22.\u201d To the extent any metaphor is helpful, I would be more inclined to characterize the Court\u2019s excessive entanglement decisions as concluding that to implement the required monitoring, we would have to kill the patient to cure what ailed him. See, e. g., Lemon v. Kurtzman, 403 U. S., at 614-615; Meek v. Pittenger, 421 U. S., at 370; Aguilar v. Felton, 473 U. S., at 413-414.\nAs to the Court\u2019s conclusion that our precedents do not indicate that the Secretary\u2019s monitoring will have to be exceedingly intensive or entangling, because the grant recipients are not sufficiently like parochial schools, I must disagree. As discussed above, the majority\u2019s excessive reliance on the distinction between the Court\u2019s parochial-school-aid cases and college-funding cases is unwarranted. Lemon, Meek, and Aguilar cannot be so conveniently dismissed solely because the majority declines to assume that the \u201cpervasively sectarian\u201d label can be applied here.\nTo determine whether a statute fosters excessive entanglement, a court must look at three factors: (1) the character and purpose of the institutions benefited; (2) the nature of the aid; and (3) the nature of the relationship between the government and the religious organization. See Lemon v. Kurtzman, 403 U. S., at 614-615. Thus, in Lemon, it was not solely the fact that teachers performed their duties within the four walls of the parochial school that rendered monitoring difficult and, in the end, unconstitutional. It seems inherent in the pedagogical function that there will be disagreements about what is or is not \u201creligious\u201d and which will require an intolerable degree of government intrusion and censorship.\n\u201cWhat would appear to some to be essential to good citi- ' zenship might well for others border on or constitute instruction in religion. . . .\n\u201c. . . Unlike a book, a teacher cannot be inspected once so as to determine the extent and intent of his or her personal beliefs and subjective acceptance of the limitations imposed by the First Amendment.\u201d Id., at 619.\nAccord, Aguilar v. Felton, 473 U. S., at 413. See also New York v. Cathedral Academy, 434 U. S. 125, 133 (1977) (noting that the State \u201cwould have to undertake a search for religious meaning in every classroom examination .... The prospect of church and state litigating in court about what does or does not have religious meaning touches the very core of the constitutional guarantee against religious establishment\u201d).\nIn Roemer, Tilton, and Hunt, the Court relied on \u201cthe ability of the State to identify and subsidize separate secular functions carried out at the school, without on-the-site inspections being necessary to prevent diversion of the funds to sectarian purposes,\u201d Roemer v. Maryland Public Works Board, 426 U. S., at 765 (emphasis added), and on the fact that onetime grants require \u201cno continuing financial relationships or dependencies, no annual audits, and no government analysis of an institution\u2019s expenditures on secular as distinguished from religious activities.\u201d Tilton v. Richardson, 403 U. S., at 688. AFLA grants, of course, are not simply one-time construction grants. As the majority readily acknowledges, the Secretary will have to \u201creview the programs set up and run by the AFLA grantees[, including] a review of, for example, the educational materials that a grantee proposes to use.\u201d Ante, at 616-617. And, as the majority intimates, monitoring the use of AFLA funds will undoubtedly require more than the \u201cminimal\u201d inspection \u201cnecessary to ascertain that the facilities are devoted to secular education,\u201d Tilton, 403 U. S., at 687. Since teachers and counselors, unlike buildings, \u201care not necessarily religiously neutral, greater governmental surveillance would be required to guarantee that state salary aid would not in fact subsidize religious instruction.\u201d Id., at 687-688.\nV\nThe AFLA, without a doubt, endorses religion. Because of its expressed solicitude for the participation of religious organizations in all AFLA programs in one form or another, the statute creates a symbolic and real partnership between the clergy and the fisc in addressing a problem with substantial religious overtones. Given the delicate subject matter and the impressionable audience, the risk that the AFLA will convey a message of Government endorsement of religion is overwhelming. The statutory language and the extensive record established in the District Court make clear that the problem lies in the statute and its systematically unconstitutional operation, and not merely in isolated instances of misapplication. I therefore would find the statute unconstitutional without remanding to the District Court. I trust, however, that after all its labors thus far, the District Court will not grow weary prematurely and read into the Court\u2019s decision a suggestion that the AFLA has been constitutionally implemented by the Government, for the majority deliberately eschews any review of the facts. After such further proceedings as are now to be deemed appropriate, and after the District Court enters findings of fact on the basis of the testimony and documents entered into evidence, it may well decide, as I would today, that the AFLA as a whole indeed has been unconstitutionally applied.\nA related point on which I do agree with the majority is worth acknowledging explicitly. In his appeal to this Court, the Secretary of Health and Human Services vigorously criticized the District Court\u2019s analysis of the AFLA on its face, asserting that it \u201ccannot.be squared with-this Court\u2019s explanation in United States v. Salerno, [481 U. S. 739, 745 (1987),] that in mounting a facial challenge to a legislative Act, \u2018the challenger must establish that no set of circumstances exists under which the Act would.be valid.\u2019\u201d Brief for Federal Appellant 30. The Court, however, rejects the application of such rigid analysis in Establishment Clause cases, explaining: \u201cAs in previous cases involving facial challenges on Establishment Clause grounds, ... we assess the constitutionality of an enactment by reference to the three factors first articulated in Lemon v. Kurtzman, 403 U. S. 602 (1971).\u201d Ante, at 602. Indeed, the Secretary\u2019s proposed test is wholly incongruous with analysis of an Establishment Clause challenge under Lemon, which requires our examination of the purpose of the legislative enactment, as well as its primary effect' or potential for fostering excessive entanglement. Although I may differ with the majority in the application of the Lemon- analysis to the AFLA, I join it in rejecting the Secretary\u2019s approach which would render review under the Establishment Clause a nullity. Even in a statute like the AFLA, with its solicitude for, and specific averment to, the participation of religious organizations, one eould hypothesize some \u201cset of circumstances . . . under which the Act would be valid,\u201d as, for example, might be the case if no religious organization ever actually applied for or participated under an AFLA grant. The Establishment Clause cannot be eviscerated by such artifice.\nOf course, the manner in which the challenge is characterized does not limit the relief available. Where justified by the nature of the controversy and the evidence in the record, a federal district court may invoke broad equitable powers to pi-event continued unconstitutional activity. See Hutto v. Finney, 437 U. S. 678, 687, and n. 9 (1978); Swann v. Charlotte-Mecklenburg Board of Education, 402 U. S. 1, 15 (1971) (\u201c[B]readth and flexibility are inherent in equitable remedies\u201d). In Milliken v. Bradley, 433 U. S. 267 (1977), the Court reiterated that in exercising its broad equitable powers, a district court should focus on the \u201cnature and scope of the constitutional violation,\u201d and ensure that decrees be \u201cremedial in nature.\u201d Id., at 280 (emphasis omitted). On remand, therefore, as instructed by the majority, the District Court must undertake the delicate task of fashioning relief appropriate to the scope of any particular violation it discovers.\nThe majority finds support for its \u201cobservation^]\u201d in the statistics for the AFLA program in fiscal 1986. See date, at 610, n. 12. Because there are some organizations that were funded in 1982, but not in 1986, and vice versa, I find' the cumulative funding figures for FY 1982-1986 more helpful. Looking at those figures, and the same group of recipients identified by the majority, I find that of approximately $53.5 million in AFLA funding, over $10 million went to the 13 organizations specifically cited in the District Court\u2019s opinion for constitutional violations. App. 748-756. The District Court, of course, did not \u201cengage in an exhaustive recitation of the record,\u2019\u2019 but made references only to \u201crepresentative portions.\u201d 657 F. Supp. 1547, 1564 (DC 1987). Another 13 organizations characterized as \u201creligiously affiliated\u201d in a tabulation prepared by the Department of Health and Human Services in connection with this litigation, received an additional $6 million during this period. Looking at the figures from a different perspective, a third of the approximately 100,000 \u201cclients served\u201d by all AFLA grantees during the 1985-1986 period received their services from the \u201ccited\u201d grantees, and nearly 11,000 more from the other \u201creligiously affiliated\u201d institutions. App. 748-756. At a minimum, these figures already demonstrate substantial constitutionally suspect funding through the AFLA, rendering the majority\u2019s expectations unrealistic and unwarranted. And, because of the Government\u2019s failure to require grantees to report on subgrant and subcontract arrangements, id., at 745, we only can speculate as to what additional public funds subsidized the religious missions of groups that the secular grantees brought in to fulfill their statutory obligation to involve religious organizations in the provision of services. See \u00a7 300z-5(a)(21)(B).\nThe Court leaves for the District Court on remand the \u201cconsideration of the evidence presented by appellees insofar as it sheds light on the manner in which the statute is presently being administered,\u201d ante, at 621, conceding, as it must, that the factual record could paint a troubling picture about the true eff\u00e9ct of the AFLA as a whole. See Witters v. Washington Dept. of Services for the Blind, 474 U. S. 481, 488 (1986) (finding significant that \u201cnothing in the record indicates that, if petitioner succeeds, any significant portion of the aid expended under the . . . program as a whole will end up flowing to religious education\u201d); Aguilar v. Felton, 473 U. S. 402, 412, n. 8 (1985) (\u201c \u2018If any significant number of the . . . schools create the risks described in Meek, Meek applies\u2019\u201d), quoting Felton v. Secretary, United States Dept. of Education, 739 F. 2d 48, 70 (CA2 1984); Widmar v. Vincent, 454 U. S. 263, 275 (1981) (noting absence of empirical evidence that religious groups would dominate university\u2019s, open forum).\nI fully agree with the majority\u2019s determination that appellees have standing as taxpayers to challenge the operation- of the AFLA, ante, at 618-620, and note that appellees may yet prevail on remand.\nIn rejecting the claim that the AFLA leads to excessive government entanglement with religion, the. Court declines \u201cto assume that the religious organizations which may receive grants are \u2018pervasively sectarian\u2019 in the same sense as the Court has held parochial schools to be.\u201d Ante, at 616. With respect to the claim that the AFLA is unconstitutional at least as applied, if not on its face, the Court \u2014 apparently unsatisfied with findings the District Court already made to that very effect \u2014 instructs that on remand, appellees may show that \u201cAFLA aid is flowing to grantees that can be considered \u2018pervasively sectarian\u2019 religious institutions, such as we have held parochial schools to be.\u201d Ante, at 621.\nThe District Court observed that 9 of 17 \u201cnecessary services,\u201d see \u00a7 300z-l(a)(4), expressly involved some sort of education, counseling, or an intimately related service. 657 F. Supp., at 1562.\nThus, for example, until discovery began in this lawsuit, St. Ann\u2019s, a home for unmarried pregnant teenagers, operated by the Order of the Daughters of Charity and owned by the Archdiocese of Washington, D.C., purchased books containing Catholic doctrine on chastity, masturbation, homosexuality, and abortion, using AFLA funds, and distributed them to participants. See App. 336, 354-359, 362. Catholic Family Services of Amarillo, Tex., used a curriculum outline guide for AFLA-funded parent workshops with explicit theological references, as well as religious \u201creference\u201d materials, including the film \u201cEveryday Miracle,\u201d described as \u201cdepicting the miracle of the process of human reproduction as a gift from God.\u201d Record 155, Plaintiffs\u2019 Appendix, Vol. IV, p. 119. The District Court concluded:\n\u201cThe record demonstrates that some grantees have included explicitly religious materials, or a curriculum that indicates an intent to teach theological and secular views on- sexual conduct, in their HHS-approved grant proposals. . . . One such application, which was funded for one year, included a program designed, inter alia, \u2018to communicate the Catholic diocese, Mormon (Church of Jesus Christ of Latter Day Saints) and Young Buddhist Association\u2019s approaches to sex education.\u2019\u201d 657 F. Supp., at 1565-1566.\nIn addition to funding activity of a wholly different character, the AFLA differs from the statutes reviewed in those cases in its expressed solicitude for the participation of religious organizations. In Tilton v. Richardson, 403 U. S. 672, 675 (1971), the statute \u201cauthorized] federal grants and loans to \u2018institutions of higher education\u2019 for the construction of a wide variety of \u2018academic facilities\u2019in Hunt v. McNair, 413 U. S. 734, 736 (1973), South Carolina had established a state agency \u201cthe purpose of which [was] \u2018to assist institutions for higher education in the construction, financing and refinancing of projects\u2019. . . primarily through the issuance of revenue bonds\u201d; in Roemer v. Maryland Public Works Board, 426 U. S. 736, 740 (1976) (plurality opinion), the State provided funding to \u201c\u2018any [qualified] private institution of higher learning within the State of Maryland.\u2019 \u201d The AFLA, in contrast, expressly requires applicants for grants to describe how they \u201cwill, as appropriate in the provision of services . . . (B) involve religious . . . organizations.\u201d \u00a7 300z-5(a)(21 j(B), and the legislative history conclusively shows that Congress intended religious organizations to participate as grantees and as participants under grants awarded to other organizations. See S. Rep. No. 97-161, pp. 15-16 (1981).\nThe District Court\u2019s conclusion, which I find compelling, is that the AFLA requires teaching and counseling \u201con matters inseparable from religious dogma.\u201d 657 F. Supp., at 1565. This conclusion is borne out by statements of AFLA administrators and participants. For example, the Lyon County, Kan., Health Department\u2019s grant proposal acknowledges that \u201c[s]uch sensitive and intimate material cannot be presented without touching on . . . religious beliefs.\u201d Record 155, Plaintiffs' Appendix, Vol. IV, p. 221. Patrick J. Sheeran, the Director of the Division of Program Development and Monitoring in the Office of Adolescent Pregnancy Programs explained;\n\u201cBroadly speaking, I find it hard to find any kind of educational or value type of program that doesn\u2019t have some kind of basic religious or ethical foundation, and while a sex education class may be completely separate from a religious class, it might relate back to it in terms of principles that are embedded philosophically or theologically or religiously in another discipline.\u201d App. 122.\nMr. Sheeran\u2019s views were echoed by Dr. Paul Simmons, a Baptist clergyman and professor of Christian Ethics:\n\u201cThe very purpose of religion is to transmit certain values, and those values associated with sex, marriage, chastity and abortion involve religious values and theological or doctrinal issues. In encouraging premarital chastity, it would be extremely difficult for a religiously affiliated group not to impart its own religious values and doctrinal perspectives when teaching a subject that has always been central to its religious teachings.\u201d Id., at 597.\nIn any event, regardless of the efforts AFLA teachers and counselors may have undertaken in attempting to separate their religious convictions from the advice they actually dispensed to participating teenagers, the District Court found that \u201cthe overwhelming number of comments shows that program participants believed that these federally funded programs were also sponsored by the religious denomination.\u201d 657 F. Supp., at 1566.\nReligion plays an important role to many in our society. By enlisting its aid in combating certain social ills, while imposing the restrictions required by the First Amendment on the use of public funds to promote religion, we risk secularizing and demeaning the sacred enterprise. Whereas there is undoubtedly a role for churches of all denominations in helping prevent the problems often associated with early sexual activity and unplanned pregnancies, any attempt to confine that role within the strictures of a government-sponsored secular program can only taint the religious mission with a \u201ccorrosive secularism.\u201d Grand Rapids School District v. Ball, 473 U. S. 373, 385 (1985). The First Amendment protects not only the State from being captured by the Church, but also protects the Church from being corrupted by the State and adopted for its purposes. A government program that provides funds for religious organizations to carry out secular tasks inevitably risks promoting \u201cthe pernicious tendency of a state subsidy to tempt religious schools to compromise their religious mission without wholly abandoning it.\u201d Roemer v. Maryland Public Works Board, 426 U. S., at 775 (Stevens, J., dissenting); see also Lynch v. Donnelly, 465 U. S. 668, 726-727 (1984) (Blackmun, J., dissenting).\nIn arguing that providing \u201csocial welfare services\u201d is categorically different from educating schoolchildren for Establishment Clause purposes, appellants relied heavily on Bradfield v. Roberts, 175 U. S. 291 (1899), a case in which the Court upheld the appropriation of money for the construction of two buildings to be part of a religiously affiliated hospital. Unlike the AFLA, however, which seeks \u201cto promote self discipline and other prudent approaches to the problem of adolescent premarital sexual relations,\u201d \u00a7 300z(b)(l), the Act of Congress by which the hospital at issue in Bradfield had been incorporated expressed that \u201c \u2018the specific and limited object of its creation\u2019 is the opening and keeping a hospital in the city of Washington for the care of such sick and invalid persons as may place themselves under the treatment and care of the corporation.\u201d 175 U. S., at 299-300.\nEmployees of some grantees must follow the directives set forth in a booklet entitled \u201cThe Ethical and Religious Directives for Catholic Health Facilities,\u201d approved by the Committee on Doctrine of the National Conference of Catholic Bishops. App. 526, 540-544. Solely because of religious dictates, some AFLA grantees teach and refer teenagers for only \u201cnatural family planning,\" which \u201chas never been used successfully with teenagers,\u201d id., at 535, and may not refer couples to programs that offer artificial methods of birth control, because those programs conflict with the teachings of the Roman Catholic Church. Id., at 407, 628. One nurse midwife working at an AFLA program was even reprimanded for contravening the hospital\u2019s religious views on sex vdien she answered \u201cyes\u201d to a teenager who asked, as a medical matter, whether she could have sex during pregnancy. Id., at 552.\nThis vacuum is particularly noticeable when we consider the pains to which Congress went to specify other restrictions on the use of AFLA funds. For example, the AFLA expressly provides:\n\u201cGrants or payments may be made only to programs or projects which do not provide abortions or abortion counseling or referral, or which do not subcontract with or make any payment to any person who provides abortions or abortion counseling or referral, except that any such program or project may provide referral for abortion counseling to a pregnant adolescent if such adolescent and the parents or guardians of such adolescent request such referral; and grants may be made only to projects or programs which do not advocate, promote, or encourage abortion.\u201d \u00a7300z-10.\nThe AFLA also sets certain conditions on funding for family planning, services, \u00a7 300z \u2014 3(b)(1), and requires of applicants some 18 separate \u201cassur-anees\u201d covering everything from confidentiality of patient records, \u00a7 300z-5(a)(ll), to a commitment that the applicant will \u201cmake every reasonable effort... to secure from eligible persons payment for services in accordance with [structured fee] schedules,\u201d \u00a7 300z-5(a)(16)(B). Yet nowhere in the statute is there a single restriction on the use of federal funds to promote or advance religion. See ante, at 614-615.\nAppellees have challenged that presumption here, calling into question the manner in which grantees were selected and supervised. Mr. Shee-ran, the Director of the Division of Program Development and Monitoring in the Office of Adolescent Pregnancy Programs, testified that he was surprised at the lack of experience, yet high proportion of religious affiliation, among those selected to read and evaluate grant applications. App. 98. Some of the reader\u2019s comments strongly suggest they considered religious indoctrination indispensable to achieve the AFLA\u2019s stated purpose, see, e. g., id., at 509; Record 155, Plaintiffs\u2019 Appendix Vol. I, pp. 354-355, and that evidence of no involvement by religious*organizations was a factor in rejecting applications, see, e. g., Record 155, Plaintiffs\u2019 Appendix, Vol. I-A, pp. 505D, 505E, 505G; Record 155, Plaintiffs\u2019 Appendix, Vol. I, pp. 340, 346.\nDespite the clear religious mission of many applicants, pre-award investigations or admonitions against the use of AFLA funds to promote religion were minimal. Mr. Sheeran was instructed to call Catholic grantees already selected for funding, and obtain assurances that the grant money would not be used for \u201cteaching of morals, dogmas, [or] religious principles.\u201d App. 107. The calls lasted two or three minutes, and involved no detailed discussion of the use of church and parochial school facilities, or religious literature. Id., at 112-113.\nThe District Court found that the problems that should have been noted at the application stage remained uncured in implementation:\n\u201cNor do the facts suggest that the programs in operation cured the First Amendment problems evident from these approved grant applications. At least one grantee actually included \u2018spiritual counseling\u2019 in its AFLA program. Other AFLA programs used curricula with explicitly religious materials. In addition, a very large number of AFLA programs took place on sites adorned with religious symbols ....\n\u201cSimilarly, the record reveals that some grantees attempted to evade restrictions they perceived on AFLA-funded religious teaching by establishing programs in which an AFLA-funded staffer\u2019s presentations would be immediately followed, in the same room and in the staffer\u2019s presence, by a program presented by a member of a religious order and dedicated co presentation of religious views on the subject covered by the AFLA staffer\u201d (citations omitted). 657 F. Supp., at 1566.\nIndeed, the AFLA stands out among similar grant programs, precisely because of the absence of such restrictions. Cf., e. g., 20 U. S. C. \u00a7 27 (support for vocational education); 20 U. S. C. \u00a7 241-l(a)(4) (federal disaster relief for local education agencies); 20 U. S. C. \u00a7 1021(c) (assistance to college and research libraries); 20 U. S. C. \u00a7 1070e(c)(l)(B) (1982 ed., Supp. IV) (assistance to institutions of higher education); 20 U. S. C. \u00a7 1134e(g) (1982 ed., Supp. IV) (fellowships for graduate and professional study); 20 U. S. C. \u00a7 1210 (1982 ed. and Supp. IV) (grants to adult education programs); 42 U. S. C. \u00a7 2753(b)(1)(C) (college work-study grants); 42 U. S. C. \u00a7 5001(a)(2) (grants to retired senior-citizen volunteer service programs).\nJustice Kennedy, joined by Justice Scalia, would further constrain the District Court\u2019s consideration of the evidence as to how grantees spent their money, regardless of whether the grantee could be labeled \u201cpervasively sectarian,\u201d see ante, at 624-625, asserting that \u201c[t]he question in an as-applied challenge is not whether the entity is of a religious character.\u201d This statement comes without citation to authority and is contrary to the clear import of our cases. As ill-defined as the concept behind the \u201cpervasively sectarian\u201d label may be, this Court consistently has held, and reaffirms today, that \u201c \u2018[a]id normally may be thought to have a primary effect of advancing religion when it flows to an institution in which religion is so pervasive that a substantial portion of its functions are subsumed in the religious mission.\u2019 \u201d Ante, at 610, quoting Hunt v. McNair, 413 U. S., at 743.\nSee also Roemer v. Maryland Public Works Board, 426 U. S., at 758 (\u201c[T]he question [is] whether an institution is so \u2018pervasively sectarian\u2019 that it may receive no direct state aid of any kind\u201d). Indeed, to suggest that because a challenge is labeled \u201cas-applied,\u201d the character of the institution receiving the aid loses its relevance is to misunderstand the very nature of the concept of a \u201cpervasively sectarian\u201d institution, which is based in part on the conclusion that the secular and sectarian activities of an institution are \u201cinextricably intertwined,\u201d see ante, at 620, n. 16. Not surprisingly, the Court flatly rejects Justice Kennedy\u2019s suggestion, observing that \u201cit will be open to appellees on remand to show that AFLA aid is flowing to grantees that can be considered \u2018pervasively sectarian\u2019 religious institutions.\u201d Ante, at 621. '\nAppellees argued in the District Court, and here as cross-appellants, that the portions of the statute inviting the participation of religious organizations were not severable, and thus that the entire statute must be held unconstitutional. I take no position on this issue.",
+        "type": "dissent",
+        "author": "Justice Blackmun,"
+      }
+    ],
+    "attorneys": [
+      "Solicitor General Fried argued the cause for appellant in Nos. 87-253 and 87-431, and for the federal appellee in No. 87-462. With him on the briefs were Assistant Attorney General Willard, Acting Assistant Attorney General Spears, Deputy Solicitor General Ayer, Deputy Assistant Attorney General Cynkar, Lawrence S. Robbins, Michael Jay Singer, Jay S. Bybee, and Theodore C. Hirt. Michael W. McConnell argued the cause for appellant in No. 87-775. With him on the briefs were Edward R. Grant, Clarke D. Forsythe, Paul Arneson, and Michael J. Woodruff.",
+      "Janet Benshoof argued the cause for appellees in Nos. 87-253, 87-431, and 87-775 and appellants in No. 87-462. With her on the briefs were Lynn M. Paltrow, Nan D. Hunter, Rachael N. Pine, and Bruce J. Ennis, Jr."
+    ],
+    "corrections": "",
+    "head_matter": "BOWEN, SECRETARY OF HEALTH AND HUMAN SERVICES v. KENDRICK et al.\nNo. 87-253.\nArgued March 30, 1988\nDecided June 29, 1988\nRehnquist, C. J., delivered the opinion of the Court, in which White, O\u2019Connor, Scalia, and Kennedy, JJ., joined. O\u2019Connor, J., filed a concurring opinion, post, p. 622. Kennedy, J., filed a concurring opinion, in which Scalia, J., joined, post, p. 624. Blackmun, J., filed a dissenting opinion, in which Brennan,. Marshall, and Stevens, JJ., joined, post, p. 625.\nSolicitor General Fried argued the cause for appellant in Nos. 87-253 and 87-431, and for the federal appellee in No. 87-462. With him on the briefs were Assistant Attorney General Willard, Acting Assistant Attorney General Spears, Deputy Solicitor General Ayer, Deputy Assistant Attorney General Cynkar, Lawrence S. Robbins, Michael Jay Singer, Jay S. Bybee, and Theodore C. Hirt. Michael W. McConnell argued the cause for appellant in No. 87-775. With him on the briefs were Edward R. Grant, Clarke D. Forsythe, Paul Arneson, and Michael J. Woodruff.\nJanet Benshoof argued the cause for appellees in Nos. 87-253, 87-431, and 87-775 and appellants in No. 87-462. With her on the briefs were Lynn M. Paltrow, Nan D. Hunter, Rachael N. Pine, and Bruce J. Ennis, Jr.\nTogether wnth No. 87-431, Bowen, Secretary of Health and Human Services v. Kendrick et al.. No. 87-462, Kendrick et al. v. Bowen, Secretary of Health and Human Services, et al., and No. 87-775, United Families of America v. Kendrick et al., also on appeal from the same court.\nBriefs of amici curiae urging reversal were filed for the Attorney General of Arizona et al. by Gary B. Born and James S. Campbell; for the Catholic League for Religious and Civil Rights et al. by Steven Frederick McDowell; for the Institute for Youth Advocacy by Gregory A. Loken; for the National Jewish Commission on. Law and Public Affairs by Nathan Lewin and Dennis Rapps; for the National Right to Life Committee, Inc., by James Bopp, Jr.; for the Rutherford Institute et al. by John W. Whitehead, David E. Moms, Alfred J. Lindh, Ira W. Still III, William B. Hollberg, Randall A. Pentiuk, Thomas W. Strahan, William Bonner, John F. Southivorth, Jr., and W. Charles Bundren; and for the United States Catholic Conference by Mark E. Chopko and Philip H. Hams.\nBriefs of amici curiae urging affirmance were filed for the American Public Health Association et al. by John H. Hall, Nadine Taub, and Judith Levin; for the Baptist Joint Committee on Public Affairs et al. by Oliver S. Thomas; for the Committee for Public Education and Religious Liberty by Leo Pfeffer; for the Council on Religious Freedom by Lee Boothby, -Robert W. Nixon, and Rolland Truman; for the National Coalition for Public Education and Religious Liberty et al. by David B. Isbell, David H. Remes, and Herman Schwartz; and for the NOW Legal Defense and Education Fund et al. by Sarah E. Bums and Marsha Levick.\nBriefs of amici curiae were filed for the Anti-Defamation League of B\u2019nai B\u2019rith et al. by Ruti G. Teitel, Justin J. Finger, Jeffrey P. Sinen-sky, Meyer Eisenberg, and Steven M. Freeman; for -Catholic Charities, U. S. A., et al. by Patrick Francis Geary; and for the Unitarian Univer-salist Association et al. by Patricia Hennessey."
+  },
+  "file_name": "0589-01",
+  "first_page_order": 641,
+  "last_page_order": 705
+}

@@ -1,0 +1,28 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 96,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;96-1793&quot; OR text:&quot;96-1793&quot; OR text__reviews:&quot;96-1793&quot;) OR (text:Garret OR text:Garret OR text__reviews:Garret))",
+      "qin": "collection:us-supreme-court AND (&quot;96-1793&quot; OR &quot;Garret&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 2,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "per_scotus_1853_99_0",
+        "title": "Charles H. F. Moring, Plaintiff in Error, vs. Garret W. Ryckman. 1853: Vol 99"
+      },
+      {
+        "identifier": "micro_IA40385014_0074",
+        "title": "Cedar Rapids Community School Dist. v. Garret F., 526 U.S. 66 (1999) (No. 96-1793)"
+      }
+    ]
+  }
+}

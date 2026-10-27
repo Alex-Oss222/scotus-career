@@ -1,0 +1,3453 @@
+fs 
+98 897 Nov 251998 
+
+
+ee OFFICE OF THE CLERK 
+
+
+- 
+
+
+Fir eR 
+
+
+No. 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1998 
+
+
+ROBERT E. GABLE, - - - - - Petitioner 
+versus 
+
+
+PAUL E. PATTON; A.B. CHANDLER, ITI; 
+KENTUCKY REGISTRY OF ELECTION FINANCE; 
+DONALD L. COX; MORRIS E. BURTON; 
+
+JAMES E. BOYD; and JOHN Y. BROWN, III, 
+
+
+- - - Respondents 
+
+
+PETITION FOR A WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+
+
+FOR THE SIXTH CIRCUIT 
+ROBERT ABELL KATHLEEN M. SULLIVAN 
+ACLU Cooperating Attorney 559 Nathan Abbot Way 
+P.O. Box 983 Stanford, California 94305-8610 
+Lexington, Kentucky 40588-0983 (650) 725-9875 
+(606) 254-7076 Counsel cf Record 
+DAVID A. FRIEDMAN 
+General! Counsel 
+American Civil Liberties Union 
+
+
+of Kentucky 
+
+425 W. Muhammad Ali Blvd. 
+
+Louisville, Kentucky 40202 
+
+(502) 581-1181 Counsel for Petitioner 
+
+
+November 25, 1998 
+
+
+WESTERFIELD-BONTE CO., 619 W. KENTUCKY-P.©. BOX 3251, LOUISVILLE, KY. 
+
+
+er 
+
+
+i TE Se CT ee sci a NIMH GH Ruse teenie 
+
+
+i 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does a public campaign funding scheme uncon- 
+stitutionally penalize a nonparticipating candidate's rights 
+of free speech and association if, upon that candidate’s 
+collection or expenditure of a specified amount of private 
+campaign funds, the State releases participating candidates 
+from otherwise applicable contribution and expenditure lim- 
+its and matches their further fundraising efforts two-to- 
+one with public funds ? 
+
+
+2. Does a total ban on outside contributions to an 
+unsubsidized candidate’s campaign during the twenty-eight 
+days preceding an election violate that candidate’s rights 
+of free speech and association? 
+
+
+ii 
+
+
+PARTIES 
+
+
+The petitioner in this Court is Robert E. Gable, who 
+was the plaintiff-appellant/cross-appellee below. The re- 
+spondents in this Court, who were the defendants-appellees/ 
+cross-appellants below, are Paul E. Patton, in his official 
+capacity as Governor of the Commonwealth of Kentucky; 
+A. B. Chandler, III, in his official capacity as Attorney 
+General of the Commonwealth of Kentucky; the Kentucky 
+Registry of Election Finance; Donald L. Cox, in his official 
+capacity as Chair of the Kentucky Registry of Election Fi- 
+nance; Morris E. Burton, in his official capacity as Franklin 
+County Commonwealth Attorney; James E. Boyd, in his 
+official capacity as Franklin County Attorney; and John Y. 
+Brown, III, in his official capacity as Secretary of State for 
+the Commonwealth of Kentucky. 
+
+
+iil 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED .....................:cccesceeeees 
+
+
+ETI sth cccediadgitisinainsastsincbnenmehivendudinenensinds 
+
+
+CONSTITUTIONAL PROVISIONS AND 
+STATUTES INVOLVED ...............ssscccssccsseeeees 
+
+
+REASONS FOR GRANTING THE WRIT .......... 
+
+
+a caehalcoipesen 
+
+l. Whether the “trigger” provision un- 
+constitutionally penalizes a nonpar- 
+ticipating candidate’s exercise of 
+the right to raise and spend political 
+funds is a question of serious na- 
+tional importance warranting this 
+RESET Se 
+
+2. Whether a ban on outside contribu- 
+tions during the final four weeks of 
+a political campaign conflicts with 
+Buckley is an important question 
+warranting this Court’s review. ........ 
+
+
+Se IEEE ictiissdprctieibvardatekenahinnttenttieaieerbioste 
+
+
+iia linhics ilihiitat atlas inci hcnciniianicadipaicdcanisinainionuecs 
+B. Memorandum, Opinion and Order in Gable 
+v. Jones, Civil No. 95-12 (E.D. Ky., 
+BE BI III iccscntscttotatercucesniaduassonionsiesss 
+C. Partial Declaratory Judgment in Gable v. 
+Jones, Civil No. 95-12 (E.D. Ky. 
+I ii icicech neh isdhidibiseiiovicukantabinne 
+
+
+oO dd m bd 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+Anderson v. Celebrezze, 460 U.S. 780 (1983) ......... 
+Buckley v. Valeo, 424 U.S. 1 (1976).............sceceeeeees 
+California Prolife Council Political Action 
+Committee v. Scully, 989 F. Supp. 1282 (E.D. 
+Ce, Ge coiteccccstctiteatcpiicdceeecbsaabaiateintbedaicsecsniss 
+Colorado Republican Federal Campaign Comm. 
+vay fm) 48s fy || Bene 
+Dunn v. Blumstein, 405 U.S. 330 (1972) ............... 
+FCC v. League of Women Voters, 468 U.S. 364 
+£2 | BURERTIRE ae CEN ier ran oe ice Bit Bt <r ar OO 
+Harman v. Forssenius, 380 U.S. 528 (1965).......... 
+Harris v. McRae, 448 U.S. 297 (1980) ................... 
+Maher v. Roe, 432 U.S. 464 (1977) ............ccceeseeeeee 
+Memorial Hospital v. Maricopa Co., 415 U.S. 
+Saeikstctectntbica ico tagnticidseccttidibalanntin 
+Miami Herald Pub. Co. v. Tornillo, 418 U.S. 241 
+EE Lisertiactancl chia tcnichs adetiig Son insiahcaaddcass dees aaite ook 
+Mills v. Alabama, 384 U.S. 214 (1966) .................. 
+New York v. United States, 505 U.S. 144 (1992)... 
+O’Hare Truck Service, Inc. v. City of Northlake, 
+ERE Fee ee cichceniicidenibnriiniadilbthctinnevecce 
+Pacific Gas & Electric Co. v. Public Util. 
+Comnsen 00; SF UE. 1 CRG BD wn cvciicdcsinccnsesctcensccceseses 
+Regan v. Taxation With Representation, 461 U.S. 
+gna ees Bele 5 REE A A 
+Rosentiel v. Rodriguez, 101 F.3d 1544 (8th Cir. 
+BUY cic diccthitsioncnctinegbiniveah ecieiibieaiaiigtnatentenibaiiacciainieeednn 
+Rust v. Sullivan, 500 U.S. 173 (1991).................... 
+Speiser v. Randall, 357 U.S. 513 (1958) ................ 
+United States v. National Treasury Employees 
+Union, 513 U.S. 454 (1906) ........ccccccccccscovcccevescees 
+VoteChoice, Inc. v. DiStefano, 4 F.3d 26 (1st Cir. 
+ID sseisi air ei seckeciagsiceciaciesdeiidimuaetben aie shah iads one tas 
+
+
+v 
+
+
+Statutes, Constitutional Provisions and 
+Ballot Measures: 
+
+
+RFs Ta IIIB scciccckstpecacndandcnctondcvenpssoisockureions passim 
+a 5 
+Be oe I eect ca cecdieas 5 
+Arizona Citizens Clean Elections Act, 1998 
+
+Ste FE FI oc asccctntdinccectnaciconecssesceceesdeces 7 
+i Sree Oe II sions serch ences eckencihiteicéncodeancewics 7 
+Colo. Rev. Stat. Ann. § 1-45-10 ............................ 7 
+a eI asin cars eecacecosonesinnebeokaaan 13 
+UN Oe WI ES igo oc siciccccsesadiscesaicudamentadincces 2,5 
+I ae 2-3, 
+
+5, 14 
+
+i 13 
+LE 4 RETR R Rca EE  Bray ne bot Rerc ace mnie 5 
+8 BR a ERR etre MRM e ene EE, 4,5 
+GS 2. RR RRERIE TE Dire RASS weet me Rey oes 3-4 
+RR eR scotch dedi da sates linc siesta acts 4 
+Maine Clean Election Act, 21 Ann. Me. Rev. 
+
+BOE, BS iciesecidccassvipcaiibessciccindcasiiemccdecocas 6 
+Massachusetts Clean Election Law, 1998 Ballot 
+
+Measure 2, Mass. Gen. Laws, ch. 55A § 11........ 7 
+Pe Sie IEE Sirsa bnchcicdicicindweecsedsessiccanien 7 
+Minn. Stat. § 10A.25 sub 10(a)......................00eeeeee 7 
+BE Sa Se I a cetcsetensiaeenserasesctennssznts 7 
+
+
+Other Sources: 
+
+
+Cary Goldberg, 2 States Consider Boldly 
+Revamping Campaign Finance, N.Y. Times, 
+COE Re: Se Be IES bnikcecciiatinGeisansindcareinoneheses 7 
+
+
+No. 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1998 
+
+
+ROBERT E. GABLE, - - - - ~- Petitioner 
+versus 
+
+
+PAUL E. PATTON; A.B. CHANDLER, ITI; 
+KENTUCKY REGISTRY OF ELECTION FINANCE; 
+DONALD L. COX; MORRIS E. BURTON; 
+JAMES E. BOYD; and JOHN Y. BROWN, III, 
+
+=. 2 ee ee ee. . Siemendonte 
+
+
+PETITION FOR A WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1la- 
+27a), is reported as Gable v. Patton, 142 F.3d 940 (6t 
+Cir.1998). The unreported decision of the district court 
+(Pet. App. 28a-46a) is Gable v. Jones, Civil No. 95-12 (E.D. 
+Ky., Mar. 29, 1996). 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered 
+on April 30, 1998. Both sides’ petitions for rehearing were 
+denied on July 28, 1998. On October 22, 1998, the Honor- 
+able John Paul Stevens, Circuit Justice for the Sixth Cir- 
+cuit, granted petitioner's application for an extension of 
+time, through November 25, 1998, to file this petition for a 
+writ of certiorari. The jurisdiction of this Court to review 
+this petition for a writ of certiorari is invoked under 28 
+U.S.C. § 1254(1). 
+
+
+2 
+
+
+CONSTITUTIONAL PROVISIONS AND STATUTES 
+
+
+part: 
+
+
+INVOLVED 
+
+
+The United States Constitution, Amendment I, in 
+relevant part provides: “Congress shall make no law .. . 
+abridging the freedom of speech, or of the press... .” 
+
+
+Kentucky Revised Statute § 121A.030, entitled 
+“Campaign expenditure limitations,” provides in relevant 
+
+
+(1) 
+
+
+(5) 
+
+
+A qualifying slate of candidates for Governor 
+and Lieutenant Governor that receives trans- 
+fers from the [public campaign finance] fund 
+may make campaign expenditures which, in 
+the aggregate, including the expenditure of 
+transfers from the fund, shall not exceed one 
+million eight hundred thousand dollars 
+($1,800,000) in connection with a primary 
+election campaign and one million eight hun- 
+dred thousand dollars ($1,800,000) in con- 
+nection with a regular election campaign, 
+subject to the provisions of KRS 121A.080(4) 
+and (5), and three hundred thousand dollars 
+($300,000) in connection with a runoff pri- 
+mary campaign... . 
+
+No slate of candidates for Governor and Lieu- 
+tenant Governor shall knowingly accept any 
+other campaign contribution during the 
+twenty-eight (28) days immediately preced- 
+ing a primary or regular election and during 
+the fourteen (14) days immediately preced- 
+ing a runoff primary except: 
+
+
+(a) A qualifying slate of candidates that 
+has elected to become eligible for fund 
+transfers or who may in the future elect 
+to become eligible for fund transfers 
+shall be released from expenditure limi- 
+tations following a certification by the 
+registry pursuant to KRS 121A.080(4) 
+
+
+3 
+
+
+or (5) that a slate of candidates that 
+has not elected to become eligible for 
+fund transfers has received contribu- 
+tions or made expenditures in excess 
+of the expenditure limits provided in 
+subsection (1) of this section; .... 
+
+
+Kentucky Revised Statute § 121A.080, entitled 
+“Amounts transferred from fund,” provides in relevant part: 
+
+
+(1) 
+
+
+... . Qualifying slates of candidates may 
+receive transfers from the fund according to 
+the matching ratio . . . specified in KRS 
+121A.060(3\(c) . . . Subject to subsections (4) 
+and (5) of this section, a transfer entitlement 
+voucher may document total qualifying con- 
+tributions of not less than $300,000 but not 
+more than $600,000 for a primary or regular 
+election for receipt of total fund transfers 
+equal to twice the amount of qualifying con- 
+tributions documented... . 
+
+
+(4)(a) If the registry makes a finding of fact, 
+after a public hearing of which all 
+slates of candidates for Governor and 
+Lieutenant Governor shall be notified, 
+that in the course of a primary elec- 
+tion, runoff primary election, or regu- 
+lar election campaign a slate of can- 
+didates for Governor and Lieutenant 
+Governor that has not accepted the 
+provisions of this chapter has received 
+contributions or made expenditures in 
+excess of the expenditure limit as pro- 
+vided in KRS 121A.030(1), the regis- 
+try shall certify that those slates of 
+candidates that have elected to be- 
+come eligible for fund transfers. . . 
+shall be released from expenditure 
+limitations and may receive and sub- 
+
+
+(5) 
+
+
+(3) 
+
+
+4 
+
+
+mit for fund transfers qualifying con- 
+tributions in excess of $600,000. 
+Slates of candidates released from ex- 
+penditure limitations in a primary or 
+regular election shall continue to be 
+eligible to receive transfers from the 
+fund.... 
+
+
+Nothing in this section shall prevent any 
+slate of candidates from notifying the regis- 
+try in writing that its campaign committee 
+has received contributions or made expendi- 
+tures in excess of the expenditure limitations 
+as provided in KRS 121A.030(1).... 
+
+
+Kentucky Revised Statute § 121A.060, entitled “Cer- 
+tification of qualification to receive transfer from fund,” 
+provides in relevant part: 
+
+
+The registry shall immediately review the 
+request of a slate of candidates for certifica- 
+tion to receive a transfer from the fund. The 
+request for certification shall include:. .. . 
+
+
+(c) 
+
+
+The financial reports filed by or on 
+behalf of the slate of candidates as of 
+the date of the request for certifica- 
+tion which indicate that the slate of 
+candidates has raised a threshold 
+qualifying amount in individual quali- 
+fying contributions for a transfer from 
+the fund at a two (2) for one (1) match- 
+ing ratio;.... 
+
+
+STATEMENT OF THE CASE 
+
+
+This case involves a First Amendment challenge to 
+several provisions of Kentucky’s public funding scheme for 
+statewide elections. Under laws first implemented in its 
+1995 gubernatorial election, Kentucky provides two-for-one 
+public matching funds to any gubernatorial slate in a con- 
+tested election that agrees to limit private contributions to 
+
+
+5 
+
+
+$600,000 in each election, primary and general, and thus 
+to limit its total expenditures in each election to $1.8 mil- 
+lion — the sum of the $600,000 maximum in private funds 
+and $1.2 million in public matching funds. See Kentucky 
+Revised Statutes (“KRS”) §§ 121A.060(1), 121A.060(3\(c), 
+121A.030(1). The “28-day window” provision, KRS § 
+121A.030(5), bars both participating and nonparticipating 
+slates from accepting campaign contributions during the 
+twenty-eight days immediately preceding a primary or gen- 
+eral election campaign. But under KRS § 121A.030(5)(a), 
+the “trigger” provision, if an opposing slate that has de- 
+clined to participate in the public subsidy scheme exceeds 
+$1.8 million in private contributions or expenditures, a 
+publicly funded slate is released from the $1.8 million ex- 
+penditure limit and from the contribution ban, and is guar- 
+anteed from the public fisc two dollars for every one pri- 
+vate dollar it raises. 
+
+
+Petitioner Robert E. Gable (“Gable”) was a candi- 
+date for governor in Kentucky’s 1995 Republican primary, 
+and has expressed his interest in running for that office 
+again. Gable chose not to participate in the Kentucky 
+public funding scheme and not to receive public campaign 
+funds. In a complaint filed in the United States District 
+Court for the Eastern District of Kentucky during the 1995 
+primary campaign, he challenged as facially unconstitu- 
+tional several provisions of Kentucky campaign finance law. 
+Gable named as defendants various state and local offi- 
+cials and the agency responsible for enforcing the cam- 
+paign finance laws (collectively “the State”). The parties 
+resolved some issues, but ultimately presented five issues 
+to the district court on cross-motions for summary judg- 
+ment. On March 29, 1996, the district court, which had 
+jurisdiction under 28 U.S.C. §§ 1331 and 1343, entered a 
+final judgment granting summary judgment to Gable on 
+one issue and to the State on all others. Both sides ap- 
+pealed. The United States Court of Appeals for the Sixth 
+Circuit affirmed the district court’s judgment in its en- 
+tirety on April 30, 1998. Gable v. Patton, 142 F.3d 940 
+
+
+6 
+
+
+(6th Cir. 1998) (Pet. App. la-27a). The court of appeals 
+denied rehearing and rehearing en banc on July 28, 1998. 
+
+
+The court of appeals found that the “trigger” provi- 
+sion did not penalize a nonparticipating candidate’s right 
+to make political expenditures free of a government-im- 
+posed ceiling. The court conceded that benefits provided to 
+participating candidates can become unconstitutionally co- 
+ercive if they are sufficiently overwhelming. It conceded 
+too that “the Trigger is certainly more coercive than the 
+federal campaign finance scheme for presidential elections” 
+upheld by this Court in Buckley, Pet. App. 14a, and that 
+“participation will be the rational choice in the large ma- 
+jority of cases,” Pet. App. 15a. But it held nonetheless that 
+the trigger did not go “over the line of unconstitutional 
+coercion.” Pet. App. 15a. 
+
+
+The court of appeals likewise upheld the ban on 
+outside contributions during the last four weeks of an 
+election campaign, see Pet. App.17a-19a, although it in- 
+validated the ban as applied to candidates’ contributions 
+to their own campaigns, see Pet. App. 19a-24a. The court 
+conceded that forcing candidates to calculate and meet their 
+fundraising needs for the remainder of the campaign a full 
+month before an election “is not a trivial restriction,” but 
+nonetheless concluded that “such a restriction is justified 
+by Kentucky’s interest in combating corruption.” Pet. App. 
+18a-19a. 
+
+
+REASONS FOR GRANTING THE WRIT 
+Introduction 
+
+
+This case raises issues of serious national impor- 
+tance that were not resolved by this Court’s decision in 
+Buckley v. Valeo, 424 US. 1 (1976). Unable since Buckley 
+to enact political expenditure limits directly, a growing 
+number of states are adopting novel schemes designed to 
+inhibit political expenditures indirectly. Some, like Ken- 
+tucky, give participating candidates favorable public subsi- 
+dies when their nonparticipating opponents raise or spend 
+
+
+7 
+
+
+campaign funds above a set amount. See, e.g., The Maine 
+Clean Election Act, 21 A.M..R.S.°§ 1125 (9). Indeed, two 
+states just enacted such measures as ballot propositions in 
+the last election. See Arizona Citizens Clean Elections 
+Act, 1998 Ballot Proposition 200; Massachusetts Clean Elec- 
+tion Law, 1998 Ballot Measure 2, Mass. Gen. Laws, ch. 
+55A §11. Others simply release participating candidates 
+from otherwise applicable expenditure or contribution lim- 
+its once a nonparticipating candidate exceeds a state-ap- 
+proved level of fundraising or spending. See, e.g., Cal. 
+Gov. Code § 85404; Colo. Rev. Stat. Ann. § 1-45-105; Mich. 
+C.L.A. 169.269(8); Minn. Stat. § 10A.25 sub. 10 (a); R.I. 
+Gen. Laws § 17-25-24. Advocates of campaign finance re- 
+form are actively seeking to promote similar efforts in other 
+states. See Cary Goldberg, 2 States Consider Boldly Re- 
+vamping Campaign Finance, N.Y. Times, Oct. 19, 1998, at 
+p.Al. 
+
+
+Whether such measures unconstitutionally penal- 
+ize nonparticipating candidates’ rights to spend political 
+money free of government-imposed limits is an issue re- 
+quiring this Court’s urgent resolution. If this Court does 
+not clarify the application of Buckley to such measures, 
+one way or the other, they will be subject to multiple, 
+disruptive lawsuits over the next electoral cycle. Uncer- 
+tainty about the constitutionality of such measures will 
+disturb the orderly process of electoral decisionmaking and 
+might even cast into doubt the outcome of some future 
+elections. The writ should be granted so that such disrup- 
+tion may be avoided and the first issue presented in this 
+case resolved as soon as possible. 
+
+
+The writ should also be granted to resolve the sec- 
+ond issue in this case: whether Kentucky’s extraordinary 
+ban on campaign contributions during the last month of an 
+election conflicts with Buckley or other relevant precedents 
+of this Court. 
+
+
+8 
+
+
+l. Whether the “trigger” provision unconstitu- 
+tionally penalizes a nonparticipating 
+candidate’s exercise of the right to raise and 
+spend political funds is a question of serious 
+national importance warranting this Court’s 
+review. 
+
+
+Buckley v. Valeo, 424 U.S. 1 (1976), held that politi- 
+cal expenditures implicate fundamental liberties of speech 
+and association, and that government may not directly limit 
+expenditures of private funds. Jd. at 54. At the same 
+time, Buckley upheld the provision of public subsidies to 
+presidential campaigns on condition that participating can- 
+didates limit their campaign expenditures to a fixed 
+amount. Jd. at 56 n.75. But the presidential campaign 
+funding provisions upheld in Buckley placed no limits on 
+the amounts that nonparticipating candidates might raise 
+or spend, nor did they contain any bonuses for participat- 
+ing candidates that might be triggered by nonparticipating 
+candidates’ behavior. 
+
+
+Kentucky, in contrast, does not seek merely to lure 
+gubernatorial candidates with the carrot of public subsi- 
+dies, but also threatens nonparticipating candidates with 
+a substantial stick. If a nonparticipating candidate col- 
+lects or spends funds above the $1.8 million ceiling to which 
+participating candidates have agreed, the state will permit 
+participating candidates to raise and spend funds in un- 
+limited amounts, matching each private dollar raised with 
+two dollars of public money. This public bounty will flow 
+to the participating candidate no matter how much the 
+nonparticipating candidate’s fundraising prowess is due to 
+the popularity of his ideas, and no matter how much the 
+two-for-one matching ratio will distort the apparent popu- 
+larity of the participating candidate. A candidate who 
+seeks to walk away from the public campaign finance pro- 
+gram in order to preserve his right to make unlimited 
+campaign expenditures simply cannot do so. Rather, he is 
+told that if he is too successful at fundraising, the state 
+will respond by furnishing his opponent with twice as much 
+money as that opponent is capable of raising on his own. 
+
+
+Teh FN EET 
+
+
+9 
+
+
+Nonparticipating candidates can avoid this potentially over- 
+whelming response only by refraining from raising and 
+spending more than $1.8 million in the first place. The 
+trigger thus puts the nonparticipating candidate to a 
+Hobson's choice: either don’t amass or expend funds at 
+levels to which you are constitutionally entitled, or do so 
+on pain of Kentucky’s publicly-financed retaliation on your 
+opponent’s behalf. Such a choice is “no choice at all.” New 
+York v. United States, 505 U.S. 144, 176 (1992). 
+
+
+The issue whether such a penalty conflicts with 
+Buckley and other well-settled First Amendment law war- 
+rants this Court’s review. It is well-settled that protected 
+speech may not be made an automatic trigger for respon- 
+sive hostile speech. See, e.g., Miami Herald Pub. Co. v. 
+Tornillo, 418 U.S. 241, 257 (1974) (invalidating right-of- 
+reply statute as “exact[ing] a penalty” upon a newspaper's 
+controversial speech); Pacific Gas & Electric Co. v. Public 
+Util. Comm’n, 475 U.S. 1, 9 (1986) (invalidating a com- 
+pelled access requirement that “both penalizes the expres- 
+sion of particular points of view and forces speakers to 
+alter their speech to conform with an agenda they do not 
+set”). And it is well-settled since Buckley that political 
+expenditures are at the core of protected speech. See, e.g., 
+Colorado Republican Federal Campaign Comm. v. FEC, 
+518 U.S. 604 (1996). Thus, it would seem apparent, con- 
+trary to the holding of the court below, that a candidate’s 
+success at raising a large number of perfectly legal private 
+political contributions likewise may not be made a trigger 
+for a massive state-financed counterattack. 
+
+
+The court of appeals erred in suggesting that this 
+penalty on private fundraising somehow dissipates because 
+it is part of a public subsidy scheme, which by definition 
+“must rely on incentives for participation.” Pet. App. 15a. 
+That suggestion misapprehends this Court’s precedents. 
+It is well-established that government need not subsidize 
+the exercise of constitutional rights and may use its power 
+of the purse to make some constitutional choices more at- 
+tractive than others. But government plainly may not 
+penalize the privately funded exercise of a constitutional 
+
+
+10 
+
+
+right or use selective subsidies to coerce a potential recipi- 
+ent into surrendering such a right.! 
+
+
+In order to avoid such impermissible penalty or co- 
+ercion, conditions on a government subsidy scheme must 
+leave a potential recipient who foregoes the subsidy no 
+worse off with respect to constitutionally protected choices 
+than he or she would have been had the funding program 
+not existed. See, e.g., Maher v. Roe, 432 U.S. 464, 474 
+(1977) (upholding selective subsidy of childbirth but not 
+abortion, reasoning that “[t]he State may have made child- 
+birth a more attractive alternative, thereby influencing the 
+woman’s decision, but it has imposed no restriction on ac- 
+cess to abortions that was not already there”); Harris v. 
+McRae, 448 U.S. 297, 317 (1980) (upholding similar fed- 
+eral law, reasoning that it “leaves an indigent woman with 
+at least the same range of choice in deciding whether to 
+obtain a medically necessary abortion as she would have 
+had if Congress had chosen to subsidize no health care 
+costs at all”). Public funding conditions that would not be 
+permissible if imposed directly — as Kentucky’s $1.8 mil- 
+lion political expenditure limit plainly would not be under 
+Buckley — are constitutional only if they leave potential 
+recipients the unfettered choice to avoid the condition by 
+foregoing the subsidy. See, e.g., Rust v. Sullivan, 500 U.S. 
+
+
+1 Compare, e.g., O'Hare Truck Service, Inc. v. City of Northlake, 
+518 U.S. 712 (1996) (impermissible penalty on speech and asso- 
+ciation of public contractor); United States v. National Treasury 
+Employees Union, 513 U.S. 454 (1995) (impermissible penalty on 
+government employees’ off-duty expressive activities); FCC v. 
+League of Women Voters, 468 U.S. 364 (1984) (impermissible 
+penalty on public broadcasters’ editorial expression); Speiser v. 
+Randall, 357 U.S. 513 (1958) (impermissible penalty on speech 
+and association of veteran tax beneficiary) with Rust v. Sullivan, 
+500 U.S. 173, (1991) (permissible nonsubsidy of abortion coun- 
+seling and advocacy); Regan v. Taxation With Representation, 
+461 U.S. 540 (1983) (permissible nonsubsidy of charitable orga- 
+nizations’ lobbying activity); Maher v. Roe, 4382 U.S. 464 (1977) 
+(permissible nonsubsidy of abortion). 
+
+
+11 
+
+
+173, 199 n.5 (1991) (upholding condition that federal fam- 
+ily planning funds not be used to counsel or advocate abor- 
+tion, reasoning that potential grant recipients “can choose 
+between accepting [the] funds — subject to the 
+Government's conditions. . . — or declining the subsidy 
+and financing their own unsubsidized program”). 
+
+
+In sharp conflict with this line of precedent, the 
+Kentucky trigger provision both fetters the constitution- 
+ally protected choices of candidates who forego public cam- 
+paign subsidies and leaves such candidates worse off than 
+they would have been without any public financing pro- 
+gram at all. Without the program, such a candidate may 
+raise and spend as many legal private contributions as he 
+or she wishes; with it, such fundraising success is threat- 
+ened or hammered with a state-financed counterattack 
+funded out of all proportion to the actual popularity of the 
+opponent's ideas. Such a penalty is no more permissible in 
+the public campaign funding context than in the context of 
+any other public subsidy. See Rosentiel v. Rodriguez, 101 
+F.3d 1544, 1560 (8th Cir. 1996) (Lay, J., dissenting) (not- 
+ing that the key issue in reviewing a public campaign sub- 
+sidy is “whether a candidate who faces a choice not to limit 
+her full access to political speech will be any worse off in 
+choosing to do so”). 
+
+
+The trigger warrants strict First Amendment scru- 
+tiny regardless of whether it serves as a deterrent to or 
+penalty on the exercise of the right established under 
+Buckley to raise and spend private political money without 
+a government-imposed ceiling. The trigger in most cases 
+will have the intended and predictable effect of discourag- 
+ing gubernatorial campaigns from spending above $1.8 mil- 
+lion, or of inducing candidates simply to accept the public 
+funds with strings attached. As the court of appeals accu- 
+rately observed, “there is only a narrow set of circumstances 
+under which a candidate could make a financially rational 
+decision not to participate. That situation is wherg the 
+nonparticipating candidate intends to exceed the $1.8 mil- 
+lion threshold and believes he will raise more than three 
+
+
+12 
+
+
+times the funds his participating opponents can raise.” Pet. 
+App. 14a. For this reason alone, the court below erred in 
+declining to find the trigger provision unconstitutionally 
+coercive. See, e.g., VoteChoice, Inc. v. DiStefano, 4 F.3d 26, 
+38 (1st Cir. 1993) (“There is a point at which [public fi- 
+nancing] incentives stray beyond the pale, creating dis- 
+parities so profound that they become impermissibly coer- 
+cive.”). 
+
+But contrary to the court of appeals’ suggestion, the 
+trigger’s constitutional infirmity would remain even if some 
+candidates chose, despite its draconian consequences, to 
+exercise their right to pursue private rather than public 
+campaign funding. Cf. Memorial Hospital v. Maricopa Co., 
+415 U.S. 250, 258 (1974) (applying strict scrutiny to 
+durational residence scheme that “operates to penalize 
+those persons ... who have exercised their constitutional 
+right of interstate migration,” even if actual deterrence of 
+interstate migration was not shown) (citation omitted) (em- 
+phasis and ellipsis in original). In short, the flaw in the 
+Kentucky trigger provision is that it makes extra public 
+financing of participating campaigns contingent upon the 
+nonparticipating candidate’s exercise of constitutionally pro- 
+tected rights of speech and association in the first place. 
+Government may not use the exercise of First Amendment 
+rights as a predicate for systematic government-funded op- 
+position. Whether or not its target capitulates, his or her 
+rights have been seriously burdened. 
+
+
+Under the strict scrutiny that therefore should ap- 
+ply, the trigger provision cannot stand. It may not be 
+justified by a state interest “in equalizing the relative abil- 
+ity of individuals and groups to influence the outcome of 
+elections,” for this Court held in Buckley that such an in- 
+terest “is wholly foreign to the First Amendment.” 424 
+U.S. at 45. Such an interest, illegitimate in the regulatory 
+context, does not become permissible in the context of a 
+selective subsidy scheme — at least not one that effec- 
+tively restricts the speech of nonparticipating candidates 
+in order to enhance the speech of participating candidates. 
+
+
+i iit as i atime 
+
+
+mee RATS ab 
+
+
+13 
+
+
+To the contrary, Buckley upheld public financing of presi- 
+dential campaigns on the basis that it “facilitate[d] and 
+enlarge[d] public discussion and participation in the elec- 
+toral process” without abridging discussion or participa- 
+tion by any candidate declining public funds. Id. at 92-93. 
+Nor can the trigger be justified by an interest in reducing 
+the escalating cost of political campaigns, for this Court 
+held in Buckley that “the First Amendment denies govern- 
+ment the power to determine that spending to promote 
+one’s political views is wasteful, excessive, or unwise.” Id. 
+at 57. 
+
+
+Buckley did hold legitimate and substantial the gov- 
+ernment interest in combating the corrupting or appar- 
+ently corrupting influence of large contributions on politi- 
+cal candidates, but the trigger bears no relation, much less 
+a close relation, to such an interest. As this Court held in 
+Buckley, such an interest is fully served by “contributions 
+limitations and disclosure provisions,” and is insufficient 
+to justify further restrictions “on the quantity of political 
+expression.” Jd. at 55. Like the federal law at issue in 
+Buckley, Kentucky’s campaign statutes restrict the amounts 
+of contributions and require their disclosure. See KRS §§ 
+121A.050, 121A.010(10). Thus, here, as in Buckley, the 
+trigger is superfluous to any anti-corruption goal. Indeed, 
+the trigger actually undermines any supposed goal of dis- 
+couraging candidate dependence upon private donors, as 
+its immediate effect is to send publicly financed candidates 
+back into the fray of private fundraising during the last 
+four weeks of a campaign. 
+
+
+It is no answer to suggest that Kentucky’s goal is 
+simply to encourage candidates to join the public subsidy 
+program. For whether this is a permissible goal depends 
+on why such participation is being encouraged. If the an- 
+swer to that question is equalization of relative speaking 
+power or reduction in campaign costs, then the goal is 
+foreclosed by Buckley. If the answer is reduction of candi- 
+date dependence on private donors, then that goal is fully 
+met by limitations on contribution amounts and full disclo- 
+
+
+14 
+
+
+sure rather than by a cap on aggregate levels of spending. 
+In any event, Kentucky has available an obviously less 
+restrictive alternative for encouraging participation in its 
+public funding scheme: it may simply raise or eliminate 
+spending limits on publicly funded candidates. This would 
+also be a different case if the trigger lifted spending limits 
+on participating candidates without awarding them addi- 
+tional public financial support. 
+
+
+For these reasons, this Court should grant review 
+of and hold invalid Kentucky’s trigger provision. While gov- 
+ernment is free to decline to finance a candidate who does 
+not accept government spending ceilings, it is not free un- 
+der the First Amendment to inundate that candidate with 
+government-financed opposition or to give his opponent pref- 
+erential fundraising opportunities the moment he raises or 
+spends a dollar over that amount.? 
+
+
+2 The court of appeals found that the trigger provision lifts the 
+28-day window “for all slates,” but this interpretation is incon- 
+sistent with the plain text of KRS § 121A.030(5)(a), which pro- 
+vides an exception to the pre-election contribution ban only for 
+“[a] qualifying slate of candidates that has elected to become 
+eligible for fund transfers.” If the trigger were read to permit 
+participating but not nonparticipating candidates to accept con- 
+tributions during the last four weeks of an election, then such 
+discrimination would furnish an independent issue warranting 
+this Court’s review. A number of states have sought to use 
+differential contribution limits to induce participation in “volun- 
+tary” expenditure limits, and there already exists a conflict among 
+the lower federal courts on whether such a practice is constitu- 
+tional. Compare VoteChoice, Inc. v. DiStefano, 4 F.3d 26 (1st 
+Cir. 1993) (upholding against First Amendment challenge a “cap 
+gap” that permitted participants in a state campaign finance 
+program to accept contributions higher in amount than nonpar- 
+ticipants could accept) with California Prolife Council Political 
+Action Committee v. Scully, 989 F. Supp. 1282 (E.D. Cal. 1998) 
+(invalidating similar variable contribution limits on the ground 
+that, if the higher limit for participating candidates suffices to 
+combat corruption, then “the lower limit is not closely drawn,” 
+id. at 1296). 
+
+
+Mere mn ~ Ney 
+, - 
+
+
+eae 
+
+
+15 
+
+
+2. Whether a ban on outside contributions dur- 
+ing the final four weeks of a political campaign 
+conflicts with Buckley is an important ques- 
+tion warranting this Court’s review. 
+
+
+Banning political speech in the weeks immediately 
+preceding an election is a little like banning cheering the 
+closer the team gets to the goal; it would seem to miss the 
+very point of the enterprise. Indeed, it would seem per- 
+verse from the standpoint of robust democratic discussion 
+and debate to limit political speech at the very moment — 
+the eve of an election — when the public is most likely to 
+be politically alert, energized, and engaged. 
+
+
+This Court has recognized as much in cases such as 
+Anderson v. Celebrezze, 460 U.S. 780 (1983), which invali- 
+dated an early filing deadline for independent candidates 
+as an excessive restriction on access to the ballot. Simi- 
+larly, in Dunn v. Blumstein, 405 U.S. 330 (1972), the Court 
+invalidated a durational residency requirement for voting, 
+noting that voters are likeliest to inform themselves about 
+an election during the period immediately preceding it: 
+“Given modern communication, and given the clear indica- 
+tion that campaign spending and voter education occur 
+largely during the month before an election, the State can- 
+not seriously maintain that it is ‘necessary’ to reside for a 
+year in the state and three months in the county in order 
+to be knowledgeable about congressional, state, or even 
+purely local elections.” Id. at 358. See also Harman v. 
+Forssenius, 380 U.S. 528, 539 (1965) (noting that one ob- 
+jection to poll taxes was that they “usually had to be paid 
+long before the election — at a time when political cam- 
+paigns were still quiescent,” penalizing those “voters who 
+did not plan so far ahead”); Mills v. Alabama, 384 U.S. 214 
+(1966) (invalidating a prohibition on newspaper publica- 
+tion of editorials on election day urging people to vote in a 
+particular way). 
+
+
+Nonetheless, Kentucky asserts that it must ban all 
+outside contributions to gubernatorial candidates in the 
+
+
+16 
+
+
+twenty-eight days immediately preceding the election in 
+order to tally whether a privately funded candidate has 
+exceeded the trigger amount, and if so, to give participat- 
+ing candidates enough time to deploy a state-financed re- 
+sponse. For this reason, the court of appeals found the 
+window an “important part” of Kentucky’s overall scheme 
+“to limit the actuality and appearance of corruption.” Pet. 
+App. 18a. This conclusion was in error, and poses a con- 
+flict with Buckley v. Valeo that warrants this Court’s re- 
+view. 
+
+
+There can be little doubt that the window would be 
+unconstitutional under Buckley if it were not ancillary to 
+the trigger. To be sure, as the court of appeals noted, “the 
+right of candidates to receive contributions” did not emerge 
+“unfettered from the Buckley decision.” Pet. App. 18a. 
+But the contribution limit upheld in Buckley was a limita- 
+tion on the amount, not the timing, of campaign contribu- 
+tions. The Court reasoned that a regulation forcing candi- 
+dates to seek out a greater number of small donors would 
+not necessarily limit the quantity of political speech, and 
+that even if it did so, it was justified by the reduction in 
+candidate dependence or apparent dependence on the po- 
+litical will of a few large donors. See 424 U.S. at 21-22, 26. 
+
+
+A restriction on the timing of contributions, in con- 
+trast, is both more restrictive of speech and association 
+rights and less relevant to preventing corruption. A ban 
+on contributions for the last month of an election does not 
+merely channel the same quantity of speech into a differ- 
+ent form, as this Court found in Buckley that contribution 
+amount limitations do. Rather, a ban on contributions in 
+the four weeks preceding an election limits the overall quan- 
+tity of a candidate’s speech, because it irrevocably fore- 
+closes him from obtaining contributions driven by late- 
+breaking events and rising voter consciousness — for 
+example, those contributions that would have been forth- 
+coming only in response to an opponent’s mounting nega- 
+tive attacks. Far from being a mere “time” restriction 
+warranting deferential review, the contribution ban 
+
+
+17 
+
+
+“impose[s] direct quantity restrictions on political commu- 
+nication and association” and so warrants strictest. scru- 
+tiny under Buckley. Id. at 18. 
+
+
+Even if the court of appeals were correct that a 
+temporary contribution ban is no more restrictive than limi- 
+tations on contribution amounts, some form of heightened 
+scrutiny would apply nonetheless under Buckley, and 
+Kentucky’s month-long contribution cannot be justified un- 
+der any standard of heightened review. The timing of a 
+contribution, unlike the amount, bears no necessary or even 
+probable relationship to the danger that the candidate will 
+later act with undue favoritism toward a donor. Indeed, a 
+candidate might well be more grateful to those who bank- 
+roll his campaign early than those who join in later. Ken- 
+tucky might well assert that the danger of dependence on 
+political contributions escalates in the desperate last days 
+of a campaign, but it has adduced no empirical support for 
+this proposition. In any event, such a theory is belied by 
+the fact that the trigger provision allows publicly funded 
+candidates to resume private contributions during that very 
+time period. If private donations that are already limited 
+in amount are not corrupting when the trigger is acti- 
+vated, it is difficult to see why they would be corrupting 
+when it is not.3 
+
+
+Thus, Kentucky can defend the window only as an 
+adjunct to the trigger, an argument that necessarily fails if 
+the trigger itself is unconstitutional, as argued above. Be- 
+cause the trigger’s penalty on nonparticipating candidates 
+cannot be justified on the equalization or cost-containment 
+grounds that Buckley foreclosed, and because that penalty 
+bears no close relation to avoiding candidate corruption, 
+the trigger must fall, and with it, the 28-day window. 
+
+
+3 If the trigger is read to permit only participating candidates 
+to resume contributions during the final four weeks, then this 
+discrimination against nonparticipating candidates furnishes in- 
+dependent grounds for this Court's review. See note 2 supra. 
+
+
+18 
+
+
+But even if the trigger were deemed constitutional, 
+the 28-day window is far too sweeping to be sustained. 
+The State has far less burdensome alternatives, such as 
+requiring nonparticipating candidates to report to the State 
+when they have exceeded the trigger amount so as to en- 
+able it to lift the restrictions on participating candidates. 
+Shutting down a nonparticipating candidate’s fundraising 
+for the final month of a campaign is wholly unnecessary to 
+ensure the State an opportunity to accord privileges to 
+participating candidates. 
+
+
+Resolving whether Kentucky’s 28-day window con- 
+flicts with Buckley is a matter of increasing importance as 
+other states consider parallel campaign finance reforms. 
+Accordingly, it warrants this Court’s review. 
+
+
+CONCLUSION 
+
+
+For these reasons, petitioner respectfully requests 
+that this Court grant the petition and issue a writ of cer- 
+tiorari to the court of appeals. 
+
+
+ROBERT ABELL KATHLEEN M. SULLIVAN 
+ACLU Cooperating Attorney 559 Nathan Abbot Way 
+P.O. Box 983 Stanford, California 94305-8610 
+Lexington, Kentucky 40588-0983 (650) 725-9875 
+(606) 254-7076 Counsel of Record 
+
+DAVID A. FRIEDMAN 
+
+
+General Counsel 
+
+American Civil Liberties Union 
+of Kentucky 
+
+425 W. Muhammad Ali Blvd. 
+Louisville, Kentucky 40202 
+(502) 581-1181 
+
+
+Counsel for Petitioner 
+
+
+November 25, 1998 
+
+
+la 
+
+
+APPENDIX A 
+
+
+RECOMMENDED FOR FULL-TEXT PUBLICATION 
+Pursuant to Sixth Circuit Rule 24 
+
+
+ELECTRONIC CITATION: 1998 FED App. 0131P (6th Cir.) 
+File Name: 98a0131p.06 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+Nos. 96-6451/6475 
+
+
+ROBERT E. GABLE, - Plaintiff-Appellant/Cross-Appellee, 
+
+
+U. 
+
+
+PAUL E. PATTON, in his official capacity as 
+Governor of the Commonwealth of Kentucky; 
+A. B. CHANDLER, III, in his official capacity 
+as Attorney General of the Commonwealth of 
+Kentucky; KENTUCKY REGISTRY OF 
+ELECTION FINANCE; DONALD L. COX, 
+in his official capacity as Chair of the Kentucky 
+Registry of Election Finance; MORRIS E. 
+BURTON, in his official capacity as Franklin 
+County Commonwealth Attorney; JAMES E. 
+BOYD, in his official capacity as Franklin 
+County Attorney; JOHN Y. BROWN, III, in 
+his official capacity as Secretary of State 
+for the Commonwealth of 
+Kentucky, - - Defendants-Appellees/Cross-Appellants. 
+
+
+Appeal from the United States District Court 
+for the Eastern District of Kentucky at Frankfort. 
+No. 95-00012—Joseph M. Hood, District Judge. 
+
+
+Argued: December 2, 1997 
+OPINION—Decided and Filed April 30, 1998 
+
+
+2a 
+
+
+Before: NORRIS, SUHRHEINRICH, and CUDAHY’, Cir- 
+cuit Judges. 
+
+
+COUNSEL 
+
+
+ARGUED: Robert L. Abell, Lexington, Kentucky, for Ap- 
+pellant. Sheryl G. Snyder, BROWN, TODD & HEYBURN, 
+Louisville, Kentucky, for Appellees. ON BRIEF: Robert 
+L. Abell, Lexington, Kentucky, Edward E. Dove, Lexing- 
+ton, Kentucky, for Appellant. Sheryl G. Snyder, Susan S. 
+Wettle, BROWN, TODD & HEYBURN, Louisville, Ken- 
+tucky, Virginia H. Snell, WYATT, TARRANT & COMBS, 
+Louisville, Kentucky, William B. Pettus, OFFICE OF THE 
+ATTORNEY GENERAL, CIVIL & ENVIRONMENTAL 
+LAW DIVISION, Frankfort, Kentucky, Jacquelyn P. Eckert, 
+Louisville, Kentucky, John E. Kuhn, Jr., OFFICE OF THE 
+U.S. ATTORNEY, Louisville, Kentucky, for Appellees. Den- 
+nis M. Flannery, WILMER, CUTLER & PICKERING, 
+Washington, D.C., Richard V. Beliles, Prospect, Kentucky, 
+for Amicus Curiae. 
+
+
+SUHRHEINRICH, J., delivered the opinion of the court, 
+in which NORRIS, J., joined. CUDAHY, J. (pp. 25-27), 
+delivered a separate opinion concurring in part and dis- 
+senting in part. 
+
+
+OPINION 
+
+
+SUHRHEINRICH, Circuit Judge. Plaintiff Robert E. 
+Gable, a candidate for governor in Kentucky’s 1995 Repub- 
+lican primary, brought suit challenging numerous provi- 
+sions of Kentucky’s campaign finance and election laws on 
+First Amendment grounds. Several of the provisions in- 
+volve Kentucky’s optional public funding scheme, in which 
+Plaintiff chose not to participate. Defendants include vari- 
+ous state and county officials, as well as the Kentucky 
+
+
+! The Honorable Richard D. Cudahy, Circuit Judge of the United 
+States Court of Appeals for the Seventh Circuit, sitting by desig- 
+nation. 
+
+
+3a 
+
+
+Registry of Election Finance (hereinafter Registry), the state 
+agency charged with enforcing campaign finance laws. The 
+district court granted summary judgment for Defendants, 
+except with regard to one aspect of one statutory provision, 
+for which summary judgment was granted for Plaintiff. 
+Plaintiffs appeal involves four of the provisions ruled on 
+by the court. Defendants’ cross-appeal challenges the one 
+issue that was decided in Plaintiffs favor. We AFFIRM 
+the district court’s decision in all respects. 
+
+
+I. Provisions Challenged On Appeal 
+
+
+This appeal and cross-appeal challenges the district 
+court’s decision with regard to four provisions of Kentucky’s 
+campaign finance and election laws. These four provisions 
+include: 
+
+
+(1) Ky. Rev. Stat. § 121.190(1) (hereinafter the Sponsor 
+Identification provision), which requires that all advertise- 
+ments advocating the election of a particular candidate 
+contain identification of the sponsor. This provision ex- 
+plicitly includes “posters,” “circulars,” and “handbills,” and 
+it this aspect of the provision which Plaintiff challenges.” 
+
+
+(2) Ky. Rev. Stat. § 118.127 (hereinafter the Slating 
+provision), which requires candidates for governor and lieu- 
+tenant governor to run in their party’s primary as part of a 
+
+
+2 The Sponsor Identification provision applies to “[a]ll newspaper 
+or magazine advertising, posters, circulars, billboards, handbills, 
+sample ballots, and paid-for television or radio announcements 
+which expressly advocate the election or defeat of a clearly iden- 
+tified candidate, slate of candidates, or group of candidates for 
+nomination or election to any public office.” Ky. Rev. Stat. § 
+121.190(1). The required identification consists of “the words 
+‘paid for by’ followed by the name and addre:s of the individual 
+or committee which paid for the commutnucation; except that if 
+paid for by a candidate, slate of candidates, or campaign com- 
+mittee, it shall be identified only by the words ‘paid for by’ fol- 
+lowed by the name.” Jd. 
+
+
+da 
+
+
+single slate, rather than running individually.® 
+
+
+(3) Ky. Rev. Stat. § 121A.030(5) (hereinafter the 28- 
+Day Window), which prohibits all gubernatorial candidate 
+slates, including those electing not to participate in public 
+funding (hereinafter non-participating slates), from accept- 
+ing contributions during the twenty-eight days preceding a 
+primary or general election.‘ This prohibition applies to 
+candidates’ contributions to their own campaigns, as well 
+as to contributions from outside sources. The 28-Day Win- 
+dow does not affect funds which are already in the slate’s 
+campaign account at the beginning of the 28-day period. 
+
+
+(4) Ky. Rev. Stat. § 121A.030(5)(a) (hereinafter the Trig- 
+ger), which affects the $1.8 million campaign spending limit. 
+Id. § 121A.030(1). The limit applies separately to the pri- 
+mary and general elections and affects only those slates 
+which elect to participate in public funding (hereinafter 
+participating slates). When a non-participating slate col- 
+lects more than $1.8 million in campaign funds in a pri- 
+mary or general election, including contributions from the 
+candidates themselves, the Trigger is activated.® The re- 
+sult is that the $1.8 million spending limit for participat- 
+ing slates is lifted, and the 28-Day Window is lifted for all 
+slates. Before the Trigger is activated, participating slates 
+may raise up to $600,000, id. § 121A.060(1), which, when 
+combined with two-for-one matching public funds, id. 
+§ 121A.060(3\(c), results in campaign funds of up to $1.8 
+million. After the Trigger is activated, a participating slate 
+
+
+3 Plaintiff's challenge to the Slating requirement cites Ky. Rev. 
+Stat. §§ 118.125 and 118.127 in tandem, but § 118.125 is only 
+tangentially related to the requirement. 
+
+
+‘ Prior to a 1996 amendment to the statute, the window was 
+thirty days long instead of twenty eight. A fourteen-day window 
+applies to primary runoff elections. 
+
+°In a primary runoff election, a $300,000 ceiling and triggering 
+threshold is substituted for the $1.8 million figures. Ky. Rev. 
+Stat.§ 121A.030(1). 
+
+
+5a 
+
+
+may raise an unlimited amount of money, all of which is 
+matched by the two-for-one public funding.® 
+
+
+The district court granted summary judgment with re- 
+spect to all four provisions above. It held the 28-Day Win- 
+dow to be unconstitutional with regard to non-participat- 
+ing candidates contributing to their own campaigns, and 
+that decision is contested in Defendants’ cross-appeal. In 
+all other respects, the four provisions were found to be 
+constitutional, forming the basis for Plaintiffs appeal. Be- 
+cause the four provisions are challenged with regard to 
+facial constitutionality, thus implicating only issues of law, 
+neither Plaintiff nor Defendants contest the appropriate- 
+ness of summary judgment. For the same reason, our 
+standard of review is de novo. See Kentucky Right To Life, 
+Inc. v. Terry, 108 F.3d 637, 644 (6th Cir.), cert denied, 118 
+S.Ct. 162 (1997). Under that standard, we AFFIRM the 
+district court’s decision with respect to each of the four 
+provisions challenged on appeal. 
+
+
+II. The Sponsor Identification Provision 
+
+
+The Sponsor Identification provision, Ky. Rev. Stat. 
+§ 121.190(1), requires that advertisements supporting a 
+particular candidate contain identification of the sponsor. 
+Defendants maintain that this provision provides an es- 
+sential means of detecting violations of various contribu- 
+tion and spending limits in Kentucky’s campaign finance 
+scheme. Plaintiff claims that the provision violates his 
+First Amendment right to free speech, inasmuch as it pro- 
+hibits anonymous handbills, posters, circulars, and the like. 
+
+
+® A participating slate is not eligible for matching funds until 1) 
+it has raised at least $300,000, Ky. Rev. Stat. § 121A.060(1), and 
+2) an opposing slate (whether participating or not) has raised at 
+least $300,000. Id. § 121A.060(13). The latter provision is in- 
+tended to prevent the use of public funds in uncontested elec- 
+tions. 
+
+
+6a 
+
+
+He argues that 1) these forms of communication involve 
+expenditures too modest to implicate a compelling state 
+interest, and 2) without a compelling state interest, the 
+burden on First Amendment freedoms imposed by the Spon- 
+sor Identification provision cannot survive constitutional 
+scrutiny. In particular, Plaintiff points to Kentucky’s re- 
+quirement that anyone making more than $500 in inde- 
+pendent expenditures on behalf of candidates in a single 
+election must report the expenditures to the Registry. Jd. 
+§§ 121.150(1), 121A.010(13). Plaintiff argues that this 
+threshold represents the state’s judgment that modest ex- 
+penditures of less than $500 are too small for the state to 
+assert a compelling interest in regulating them. 
+
+
+The district court initially enjoined enforcement of the 
+Sponsor Identification provision, but ultimately upheld it 
+as constitutional. The court found that although the provi- 
+sion infringes on First Amendment rights, it survives strict 
+scrutiny, because it is narrowly tailored to meet the state's 
+compelling interest in enforcing its campaign finance laws 
+and thereby combating corruption. 
+
+
+After the notices of appeal and cross-appeal had been 
+filed in this case, we upheld the Sponsor Identification 
+provision in Kentucky Right To Life, Inc. v. Terry, 108 F.3d 
+637 (6th Cir. 1997), cert denied, 118 S.Ct. 162 (1997). This 
+court’s reasoning in Kentucky Right To Life was similar to 
+that of the district court in the instant case. We conceded 
+that the Sponsor Identification provision “clearly implicates 
+First Amendment protection because it burdens core po- 
+litical speech [and thus] it must be narrowly tailored to 
+serve an overriding state interest.” Jd. at 648 (citation and 
+internal quotation marks omitted). However, we held that 
+the provision is constitutional because it is narrowly tai- 
+lored toward achieving two “substantial governmental in- 
+terests,” namely (1) it “prevents actual and perceived cor- 
+ruption by immediately notifying the public of any possible 
+allegiance a particular candidate may feel toward the pub- 
+lisher,” and (2) it “provides the Registry with a method of 
+detecting those expenditures which are not truly indepen- 
+
+
+2 
+
+
+Ta 
+
+
+dent.” Id.’ 
+
+
+Plaintiff introduces an argument not raised in Ken- 
+tucky Right To Life, namely that sponsor identification can- 
+not be constitutionally required on handbills, posters, 
+circulars, and the like. While Kentucky Right To Life does 
+not foreclose an as-applied constitutional challenge by some- 
+one convicted of distributing a smal] number of anony- 
+mous circulars, Plaintiffs challenge to the constitutional- 
+ity of the Sponsor Identification provision is facial. 
+Plaintiffs introduction of a new legal argument does not 
+provide a basis for us to distinguish the instant case from 
+Kentucky Right To Life, which did not make any distinc- 
+tions regarding the type of advertisement or amount of 
+money expended. As Salmi v. Secretary of Health and 
+Human Services, 774 F.2d 685, 689 (6th Cir. 1985), ex- 
+plained, “[a] panel of this Court cannot overrule the deci- 
+sion of another panel. The prior decision remains control- 
+ling authority unless an inconsistent decision of the United 
+States Supreme Court requires modification of the deci- 
+sion or this Court sitting en banc overrules the prior deci- 
+sion.” Neither of these conditions have occurred. There- 
+fore, we affirm the district court’s holding that the Sponsor 
+Identification provision is constitutional. 
+
+
+III. The Slating Provision 
+
+
+The Slating provision, Ky. Rev. Stat. § 118.127, re- 
+quires candidates for governor and lieutenant governor to 
+run in their party's primary as part of a single slate. The 
+district court held the provision to be constitutional, reject- 
+ing Plaintiffs claim that it violates his First Amendment 
+right to freedom of association. Plaintiff argues that the 
+
+
+? Detection of expenditures which are not truly independent is 
+important, because money spent on a genuine “independent ex- 
+penditure,” see Ky. Rev. Stat. § 121A.010(13), is not counted as a 
+contribution under other provisions of Kentucky’s campaign fi- 
+nance laws, e.g., the 28-Day Window and the $1.8 million ceil- 
+ing. 
+
+
+8a 
+
+
+Slating provision dictates the terms of his association with 
+his chosen political party, both in his capacity as a mem- 
+ber and as a candidate in the party’s primary. In sum, 
+Plaintiff contends that the provision dictates to him and 
+his party “how they may perform one of their most integral 
+functions: selection of their general election candidates.” 
+
+
+A. Standing 
+
+
+As a preliminary matter, we must consider whether 
+Plaintiff has standing to challenge the Slating provision, 
+an issue not addressed by the district court. Defendants 
+contend that Plaintiff does not have standing, because he 
+does not have the perogative to decide how his party’s 
+candidates will be selected. The “associational rights that 
+he identifies are not his personally, but are those only of 
+the Republican Party,” Defendants argue. They add that, 
+even if this court were to confer jus tertii standing on Plain- 
+tiff, he could not assert the rights of an unincorporated 
+association like his party, because he did not plead the 
+claim as a class action. 
+
+
+Plaintiff argues that he has standing to make the free- 
+dom of association claim based on 1) his participation in 
+candidate selection as a party member, and 2) his candi- 
+dacy in the party’s primary. We conclude that Plaintiff's 
+argument is correct, at least with regard to his status as a 
+party member. The Supreme Court has repeatedly stated 
+that “[a]ny interference with the freedom of a party is 
+simultaneously an interference with the freedom of its ad- 
+herents.” Sweezy v. New Hampshire, 354 US 234, 250 
+(1957); accord Tashjian v. Republican Party of Conn., 479 
+U.S. 208, 215 (1986); Democratic Party of U.S. v. Wiscon- 
+sin ex rel. LaFollette, 450 U.S. 107, 122 (1981); see also 
+Julia E. Guttman, Primary Elections and the Collective 
+Right of Freedom of Association, 94 Yale L.J. 117, 117 n.3 
+(1984) (“In the past, when a political party has brought 
+suit, it has alleged an infringement of the rights of its 
+members. Thus, when a political party can sue, any party 
+member could also sue.”). 
+
+
+9a 
+
+
+B. Substantive Issues 
+
+
+Defendants argue that, even if Plaintiff does have stand- 
+ing to challenge the Slating provision, the challenge must 
+fail because 1) the provision merely regulates Plaintiff's 
+access to the ballot, without affecting his freedom of asso- 
+ciation, and 2) the provision is supported by a compelling 
+state interest in preventing “factionalism,” i.e., dissension 
+between the governor and lieutenant governor. The dis- 
+trict court used similar reasoning in upholding the Slating 
+provision. It found that “Gable may be as free in his politi- 
+cal association as he chooses,” because the provision does 
+not restrict Gable’s choice of a running mate for his slate. 
+The court conceded that the provision did burden Gable’s 
+right to access the ballot, but concluded that even that 
+burden was slight. Finally, the court found that “[iJt is 
+undisputed that Kentucky’s interest in preventing faction- 
+alism and in stabilizing government are recognized as com- 
+pelling.... [This interest was] born of years of attempting 
+to cope with factionalism in the gubernatorial race.” 
+
+
+The district court found that evaluation of the constitu- 
+tionality of the Slating provision was governed by the stan- 
+dard set forth in Anderson v. Celebrezze, 460 U.S. 780 
+(1983). We agree. Although Anderson struck down Ohio’s 
+early filing deadline for independent presidential candi- 
+dates, finding it to be an unconstitutional burden on the 
+voting and associational rights of the candidates’ support- 
+ers, the Court stated that: 
+
+
+{[A]s a practical matter, there must be a substantial 
+regulation of elections if they are to be fair and honest 
+and if some sort of order, rather than chaos, is to 
+accompany the democratic processes. ... Each provi- 
+sion of these [regulations], whether it governs the reg- 
+istration and qualifications of voters, the selection and 
+eligibility of candidates, or the voting process itself, 
+inevitably affects — at least to some degree — the 
+individual's right to vote and his right to associate 
+with others for political ends. Nevertheless, the State’s 
+
+
+10a 
+
+
+important regulatory interests are generally sufficient 
+
+to justify reasonable, nondiscriminatory restrictions. 
+Id. at 788 (emphasis added) (citation and internal quota- 
+tion marks omitted). Like the district court, we find the 
+Slating provision to be just such a reasonable, nondiscrimi- 
+natory restriction. As a matter of fact, the burden this 
+provision places on Plaintiff appears relatively small com- 
+pared to the example in Anderson of a reasonable, nondis- 
+criminatory ballot access restriction. That example in- 
+volved a state “requir[ing] candidates to make a preliminary 
+showing of substantial support in order to qualify for a 
+place on the ballot.” Jd. at 788 n.9. 
+
+
+The modest burden placed on Plaintiffs “right to asso- 
+ciate with others for political ends” is clearly justified by 
+“the State’s important regulatory interests.” Id. at 788. 
+Storer v. Brown, 415 U.S. 724 (1974), noted that “the Found- 
+ing Fathers [believed] that splintered parties and unre- 
+strained factionalism may do significant damage to the 
+fabric of government,” id. at 736, leading the Court to con- 
+clude that “the State’s interest in the stability of its politi- 
+cal system [is] not only permissible, but compelling.” Jd. 
+While Plaintiff contends that Kentucky’s proffered interest 
+in ameliorating factionalism is “nothing more than a claim 
+of right to assure the ideological compatibility of a party’s 
+general election candidates,” this is not so much an argu- 
+ment as it is a pejorative rephrasing of what the Supreme 
+Court has held to be a compelling state interest. Because 
+the state’s compelling interest clearly outweighs the mod- 
+est burden on Plaintiffs constitutional rights, we affirm 
+the district court’s holding that the Slating provision is 
+constitutional. 
+
+
+IV. The Trigger Provision 
+
+
+The Trigger, Ky. Rev. Stat. § 121A.030(5)(a), is a mecha- 
+nism whereby, when a non-participating slate collects more 
+than $1.8 million in campaign funds in a primary or gen- 
+eral election, the $1.8 million ceiling is lifted for partici- 
+pating slates, and the 28-Day Window is lifted for all slates. 
+
+
+lla 
+
+
+Defendants maintain that the Trigger provision is designed 
+to encourage candidates to participate in Kentucky’s cam- 
+paign finance scheme, including its $1.8 million expendi- 
+ture limit. They argue that the Trigger must be a part of 
+that scheme “[iJn order to assuage the wholly legitimate 
+fears of participating slates” that they will be “vastly 
+outspent due to their agreement to accept spending lim- 
+its.” Defendants contend that the overall scheme serves a 
+compelling state interest in minimizing the role of 
+fundraising and “combat[{ing] corruption by ending the 
+money chase that has undermined the integrity of politi- 
+cians and the faith of the public in the political process.” 
+
+
+Plaintiff contends that the Trigger provision violates 
+his First Amendment right to free speech. The crux of his 
+claim is that the effect of the Trigger is to coerce him into 
+limiting his campaign spending to $1.8 million, thereby 
+forgoing protected speech. The alleged coercion flows from 
+the fact that, if he exceeds the $1.8 million threshold by 
+any amount, his campaign will potentially be “inundated” 
+by the spending of participating slates, which will not only 
+be released from their ceiling, but will continue to get un- 
+limited two-for-one matching public funds. Put another 
+way, Plaintiff asserts that there is a high “penalty” for his 
+1.8 millionth dollar of speech. 
+
+
+The district court held the Trigger provision to be con- 
+stitutional, rejecting what it called a “benefit equals bur- 
+den” argument predicated on the notion that benefits pro- 
+vided to participating slates by activation of the Trigger 
+
+
+represent a penalty on Plaintiffs speech. However, the 
+court conceded that “[t]here is no question but that the 
+trigger provision . . . restricts free political speech... . 
+[S]peech will be stifled to some degree by the fear that the 
+participating candidate will clearly ‘outspend’ the non-par- 
+ticipating candidate once the cap is lifted, given the addi- 
+tional ‘2 to 1’ funding.” However, the court upheld the 
+Trigger because “the state has a compelling interest in 
+keeping campaign expenditures at levels that do not en- 
+courage actual or apparent corruption of the political pro- 
+
+
+12a 
+
+
+cess, i.e., to keep one candidate from essentially buying a 
+campaign.”® 
+
+To the extent that the district court relied upon 
+Kentucky’s interest in preventing candidates from buying 
+victory, it erred in light of Buckley v. Valeo, 424 U.S. 1 
+(1976) (per curiam) (upholding and striking down various 
+portions of the Federal Election Campaign Act and related 
+provisions), the seminal campaign finance case which “pro- 
+vides the constitutional framework for analyzing First 
+Amendment challenges to campaign contribution regula- 
+tions.” Kentucky Right To Life, Inc. v. Terry, 108 F.3d 637, 
+647 (6th Cir.), cert denied, 118 S.Ct. 162 (1997). The 
+Buckley Court held that the “interest in equalizing the 
+relative financial resources of candidates. . . is clearly 
+not sufficient to justify . . . infringement of fundamental 
+First Amendment rights.” Buckley, 424 U.S. at 54. How- 
+ever, “[t]he Supreme Court has consistently held that pre- 
+venting perceived corruption is a compelling state inter- 
+est.” Kentucky Right To Life, 108 F.3d at 650-51. Hence, 
+the district court has identified a state interest which can 
+potentially justify the burden on Plaintiffs First Amend- 
+ment rights. 
+
+
+We turn now to analyzing the extent of the burden on 
+Plaintiffs First Amendment rights. In general, the public 
+funding of candidates in return ivr their acceptance of ex- 
+penditure limits is constitutional, Buckley, 424 U.S. at 57 
+n.65, despite the potential for pressuring candidates into 
+accepting the expenditure limits. However, as the district 
+
+
+’ Similar reasoning was used in Wilkinson v. Jones, 876 F.Supp. 
+916 (W.D. Ky. 1995), which also upheld Kentucky’s Trigger pro- 
+vision. That court stated that even if “the trigger provision 
+chills speech to some degree, we find that it is a narrowly tai- 
+lored means which addresses a compelling state interest .. . in 
+encouraging candidates to accept public financing and its accom- 
+panying limitations which are designed to promote greater po- 
+litical dialogue among the candidates and combat corruption.” 
+Id. at 928. 
+
+
+~ ee 
+
+
+13a 
+
+
+court succinctly stated, “although a statutorily created ben- 
+efit does not per se result in an unconstitutional burden, 
+such benefits could conceivably ‘snowball’ into a ‘coercive’ 
+measure upon a non-participeting candidate.” See Vote 
+Choice, Inc. v. DiStefano, 4 F.3d 26, 38 (1st Cir. 1993) 
+(“[T]here is a point at which [public financing] incentives 
+stray beyond the pale, creating disparities so profound that 
+they become impermissibly coercive.”); Rosenstiel v. 
+Rodriguez, 101 F.3d 1544, 1550 (8th Cir. 1996) (“[T]he 
+State’s public financing package does not . . . create such a 
+large disparity between benefits and restrictions that can- 
+didates are coerced to publicly finance their campaigns.”); 
+Wilkinson v. Jones, 876 F.Supp. 916, 929 (W.D. Ky. 1995). 
+
+
+The district court gave an example of such coercion, 
+stating that if Kentucky provided four dollars in matching 
+funds, instead of the current two dollars, for every dollar 
+raised by participating candidates, a non-participating can- 
+didate would have no way of remaining competitive once 
+the $1.8 million ceiling was lifted. As a result, the court 
+said, “the candidate would have no real choice but to par- 
+ticipate in the scheme,” making it unconstitutional. The 
+doctrine that benefits provided to participating candidates 
+can become unconstitutionally coercive, if they are over- 
+whelming enough, follows logically from the holding in 
+Buckley that involuntary limits on a candidate’s campaign 
+expenditures are unconstitutional. See Buckley, 424 U.S. 
+at 58. This holding would be rendered meaningless if the 
+government could effectively force a candidate into accept- 
+ing expenditure limits by providing overwhelming benefits 
+to participating candidates. 
+
+Thus, the central question we are faced with is whether 
+the substantial advantage the Trigger provides to partici- 
+pating candidates rises to the level of unconstitutional co- 
+ercion. At the very least, the Trigger provision can be said 
+to provide very strong incentives for participation in 
+Kentucky’s campaign finance scheme. Because of the Trig- 
+ger, a non-participating candidate derives no relative ad- 
+vantage from the $1.8 million spending limit on his par- 
+
+
+l4a 
+
+
+ticipating opponents. Yet, because his participating oppo- 
+nents receive two-for-one public funding, resulting in three 
+dollars spent for every one dollar raised, there is a sub- 
+stantial cost for non-participation. Given the lack of bal- 
+ance between costs and advantages, there is only a narrow 
+set of circumstances under which a candidate could make 
+a financially rational decision not to participate. That situ- 
+ation is where the non-participating candidate intends to 
+exceed the $1.8 million threshold and believes he will raise 
+more than three times the funds his participating oppo- 
+nents can raise. 
+
+
+In this respect, the Trigger is certainly more coercive 
+than the federal campaign finance scheme for presidentia! 
+elections. Under that scheme, 26 U.S.C. §§ 9001-9042, 
+candidates who accept an expenditure ceiling in return for 
+public funding are not released from the ceiling regardless 
+of how much their non-participating opponents spend. The 
+federal scheme was upheld in Republican Nat’l Comm. v. 
+Federal Election Comm’n, 487 F.Supp. 280, 283-88 (S.D. 
+N.Y. 1980) (3-judge court), which was affirmed without 
+comment by the Supreme Court, 445 U.S. 955 (1980). How- 
+ever, the Court has not provided any guidance as to how 
+much farther a campaign finance scheme can go in provid- 
+ing incentives for participation before it crosses the line 
+and becomes unconstitutionally coercive. 
+
+
+The lower courts do not provide much guidance either, 
+as there is little case law that is truly on point. However, 
+the Eighth Circuit did uphold a provision of Minnesota’s 
+campaign finance law, which in some respects, goes fur- 
+ther than the Trigger in strongly discouraging non-partici- 
+pation. Rosenstiel v. Rodriguez, 101 F.3d 1544 (8th Cir. 
+1996). Like the Kentucky scheme, Minnesota’s law per- 
+mits publicly financed candidates to exceed an expenditure 
+ceiling when their non-participating opponents raise funds 
+in excess of a certain triggering amount. Jd. at 1547. 
+Minnesota's trigger provides a bigger advantage to partici- 
+pating candidates than does Kentucky’s, because the trig- 
+gering amount in Minnesota is less than the ceiling. Jd. 
+
+
+15a 
+
+
+However, in other respects, the Minnesota scheme does 
+not go as far as Kentucky’s, because the public funding 
+does not continue unabated after the ceiling is lifted. In- 
+stead, the amount of public funds a candidate may receive 
+is limited to fifty percent of the ceiling amount. Jd. at 
+1546. 
+
+
+Returning to Kentucky’s scheme, it is clear that candi- 
+dates are under financial pressure to participate, since par- 
+ticipation will be the rational choice in the large majority 
+of cases. However, a voluntary campaign finance scheme 
+must rely on incentives for participation, which, by defini- 
+tion, means structuring the scheme so that participation is 
+usually the rational choice. Were we to conclude that the 
+incentives provided by Kentucky are unconstitutional, we 
+would be making a distinction based on degree. In that 
+sense, Buckley does provide some guidance. In upholding 
+a one thousand dollar limit on campaign contributions by 
+individuals, the Court stated that if “some limit on contri- 
+butions is necessary, a court has no scalpel to probe, 
+whether, say, a $2,000 ceiling might not serve as well as 
+$1,000. Such distinctions in degree become significant only 
+when they can be said to amount to differences in kind.” 
+Buckley, 424 U.S. at 30 (citation and internal quotation 
+marks omitted). We believe the same principle applies 
+here. Absent a clearer form of coercion, we decline to find 
+that the incentives inherent in the Trigger provision are 
+different in kind from clearly constitutional incentives. 
+Faced with a difference only in degree, we will not second 
+guess the Kentucky legislature by applying a “scalpel” and 
+declaring that Kentucky’s scheme goes one step over the 
+line of unconstitutional coercion, especially where, as here, 
+the line is not a clear one. Therefore, we affirm the dis- 
+trict court and hold that Kentucky’s Trigger provision is 
+constitutional. 
+
+
+V. The 28-Day Window 
+
+
+The 28-Day Window, Ky. Rev. Stat. § 121A.030(5), pro- 
+hibits all gubernatorial candidate slates from accepting con- 
+tributions or contributing to their own campaigns during 
+
+
+16a 
+
+
+the twenty-eight days preceding a primary or general elec- 
+tion. However, any money already in the slate’s campaign 
+account can be spent during this period. While it is clear 
+that Kentucky can impose this prohibition on candidates 
+who voluntarily participate in the state’s public funding 
+scheme, see Buckley, 424 U.S. at 57 n.65 (“Congress may . . 
+. condition acceptance of public funds on an agreement by 
+the candidate to abide by specified expenditure limita- 
+tions.”), the constitutionality of the prohibition on non-par- 
+ticipating candidates is in question. Plaintiff, a non-par- 
+ticipating candidate, contends that the 28-Day Window 
+violates his First Amendment right to free speech, by lim- 
+iting his political expression during the last twenty-eight 
+days of a campaign. He argues that the Window violates 
+his right to free association as well, because it interferes 
+with his relationship with his contributors. 
+
+
+Defendants respond that the 28-Day Window is required 
+in order to effectuate the Trigger, Ky. Rev. Stat. 
+§ 121A.030(5\a), which, they claim, is an indispensable 
+part of Kentucky's entire public funding scheme. Defen- 
+dants maintain that the purpose of the 28-Day Window is 
+to ensure that all contributions (including those to a 
+candidate’s own campaign) are made before the final pre- 
+election reporting date, so that, if a non-participating slate 
+has exceeded the $1.8 million threshold, the Registry can 
+detect it in time to activate the Trigger. Moreover, Defen- 
+dants argue, the Trigger must be activated long enough 
+before the election to allow participating slates a meaning- 
+ful amount of time to solicit additional contributions. 
+
+
+The district court held the 28-Day Window to be consti- 
+tutional with regard to contributions from outside sources 
+(hereinafter external contributions), but held it to be un- 
+constitutional with respect to non-participating candidates 
+contributing to their own campaigns (hereinafter internal 
+
+
+expenditures). Plaintiff challenges the court’s decision on 
+external contributions, while Defendants challenge the de- 
+cision on internal expenditures. The key for analyzing 
+both issues is Buckley and its holdings on provisions of the 
+
+
+errr 
+
+
+17a 
+
+
+Federal Election Campaign Act of 1971, 86 Stat. 3, as 
+amended by 88 Stat. 1263 (1974) (hereinafter the Federal 
+Act). Two of those holdings are particularly important 
+here. One, the Buckley Court upheld the Federal Act’s 
+limits on the amount of money that an individual or group 
+could contribute to a candidate for federal office. Buckley, 
+424 U.S. at 23-36. Two, the Court struck down, as uncon- 
+stitutional, the Act’s limits on a candidate’s expenditure of 
+his own money. Jd. at 51-54. Subsection A below analyzes 
+the 28-Day Window with respect to external contributions, 
+while subsection B looks at internal expenditures. 
+
+
+A. External Contributions 
+
+
+Although the district court devoted three pages to dis- 
+cussing the constitutionality of the 28-Day Window with 
+respect to internal expenditures, it devoted only one sen- 
+tence to the issue of external contributions. Specifically, 
+the court said that “Buckley legitimatizes limiting contri- 
+butions from other sources during the reporting period.” 
+The district court is evidently referring to the holding in 
+Buckley that the Federal Act’s limits on the size of exter- 
+nal contributions is constitutional. While Buckley found 
+that these limits did burden free speech and free associa- 
+tion to some extent, 424 U.S. at 20-23, it also found that 
+the burdens were justified.’ The Buckley Court concluded 
+that “[i]t is umnecessary to look beyond the Act’s primary 
+purpose to limit the actuality and appearance of corrup- 
+tion resulting from large individual financial contributions 
+in order to find a constitutionally sufficient justification.” 
+Id. at 26. 
+
+
+° Buckley stated that the limits “impinge on protected associa- 
+tional freedoms [because] [m]Jaking a contribution, like joining a 
+political party, serves to affiliate a person with a candidate. In 
+addition, it enables like-minded persons to pool their resources 
+in furtherance of common political goals.” Buckley, 424 U.S. at 
+22. Although the Supreme Court was discussing the associa- 
+tional rights of contributors, the same argument can be made for 
+Plaintiffs right to affiliate and pool resources with contributors. 
+
+
+18a 
+
+
+We accept Defendants’ contention that the purpose of 
+Kentucky’s campaign finance scheme is also to limit the 
+actuality and appearance of corruption, and that the 28- 
+Day Window is an important part of that scheme. How- 
+ever, we disagree with the district court that Buckley is so 
+clearly controlling that no further analysis is necessary. 
+One reason for our disagreement is that Buckley addressed 
+the First Amendment rights of contributors, whereas the 
+instant case involves the right of a candidate to receive 
+contributions. Another reason is that Buckley relied on 
+“[tlhe major evil . . . [being] the danger of candidate 
+dependence on large contributions,” id. at 55 (emphasis 
+added), whereas the 28-Day Window makes no distinction 
+based on contribution size. Consider the following conclu- 
+sion by the Buckley Court: 
+
+
+[A] limitation upon the amount that any one person 
+or group may contribute to a candidate or political 
+committee entails only a marginal restriction upon 
+the contributor’s ability to engage in free communica- 
+tion. . . . The quantity of communication by the 
+contributor does not increase perceptibly with the size 
+of his contribution. 
+
+
+Id. at 20-21. That reasoning simply has no relevance in 
+the instant case. 
+
+
+Thus, the application of Buckley to the instant case is 
+far from straightforward. Nonetheless, we would be ignor- 
+ing the obvious if we maintained that the right of candi- 
+dates to receive contributions emerged unfettered from the 
+Buckley decision. The Buckley Court gave no indication 
+that its decision would have been different had the right of 
+candidates to receive contributions been asserted. To the 
+contrary, Buckley sanctioned the fact that the Federal Act 
+would force candidates to rearrange their fundraising by 
+seeking out many small donors, instead of a few large 
+ones. Id. at 21-22 (“The overall effect of the Act’s contribu- 
+tion ceilings is merely to require candidates and political 
+committees to raise funds from a greater number of per- 
+sons.”). The effect of the 28-Day Window with respect to 
+external contributions is similar. Candidates will be forced 
+
+
+19a 
+
+
+to rearrange their fundraising by concentrating it in the 
+period before the 28-Day Window begins. That is not a 
+trivial restriction, but we read Buckley to say that such a 
+restriction is justified by Kentucky’s interest in combating 
+corruption. We, therefore, affirm the district court’s hold- 
+ing that the 28-Day Window is constitutional with respect 
+to external contributions. 
+
+
+B. Internal Expenditures 
+
+
+In striking down the 28-Day Window with respect to 
+internal expenditures, the district court relied on Buckley 
+to conclude that “[t]here can be no doubt that a candidate 
+cannot be restricted from contributing to and spending for 
+his own candidacy.” We essentially agree. The question of 
+whether Kentucky can extend the 28-Day Window to in- 
+ternal expenditures by non-participating candidates is 
+largely answered by the Supreme Court’s clear statement 
+that “the First Amendment simply cannot tolerate [the 
+Federal Act’s] restriction upon the freedom of a candidate 
+to speak without legislative limit on behalf of his own can- 
+didacy.” Buckley, 424 U.S. at 54; see Colorado Republican 
+Fed. Campaign Comm. v. Federal Election Comm’n, 116 
+S.Ct. 2309, 2321 (1996) (Kennedy, J., concurring in the 
+judgment and dissenting in part) (“The central holding in 
+[Buckley] is that spending money on one’s own speech must 
+be permitted.”). 
+
+The Buckley Court reached this conclusion primarily 
+for two reasons. One, it found that “the Act’s expenditure 
+limitations impose far greater restraints on the freedom of 
+speech and association than do its contribution limitations.” 
+Buckley, 424 U.S. at 44.'° Two, the Court found that “[t]he 
+
+
+10 In addition to limiting the amount a candidate could spend on 
+his own campaign, the Federal Act 1) imposed a ceiling on over- 
+all expenditures by a candidate, and 2) limited the size of inde- 
+pendent expenditures, i.e., those made “relative to a clearly iden- 
+tified candidate,” but not authorized or requested by the candi- 
+date. Buckley, 424 U.S. at 39. All of these expenditure limita- 
+tions were held to be unconstitutional in Buckley. Id. at 58. 
+
+
+20a 
+
+
+primary governmental! interest [of preventing] actual and 
+apparent corruption of the political process does not sup- 
+port the limitation on the candidate’s expenditure of his 
+own personal funds,” id. at 53, because a candidate cannot 
+become beholden to himself. Indeed, as the Court pointed 
+out, “the use of personal funds reduces the candidate's 
+dependence on outside contributions and thereby counter- 
+acts the coercive pressures and attendant risks of abuse to 
+which the Act’s contribution limitations are directed.” Id. 
+The corruption-related interest cited by Buckley remains 
+“the only legitimate and compelling government interest{] 
+thus far identified for restricting campaign finances.” Fed- 
+
+
+eral Election Comm’n v. National Conservative Political 
+Action Comm., 470 U.S. 480, 496-97 (1985). 
+
+
+Because “[t]he central holding in [Buckley] is that spend- 
+ing money on one’s own speech must be permitted,” Colo- 
+rado Republican Comm., 116 S.Ct. at 2321 (Kennedy, J., 
+concurring in the judgment and dissenting in part), there 
+is little room for Defendants to maneuver in attempting to 
+show that the 28-Day Window can be constitutionally ap- 
+plied to internal expenditures. Nonetheless, we consider 
+one possible distinction between the 28-Day Window and 
+the internal expenditure provisions struck down in Buckley. 
+Although Buckley pointed out that a candidate’s use of his 
+own money does not lead to corruption, Kentucky’s inter- 
+est in preventing actual and apparent corruption is served 
+by the 28-Day Window’s application to internal expendi- 
+tures, albeit indirectly. Extension of the 28-Day Window 
+to internal expenditures increases the effectiveness of the 
+Window, which increases the effectiveness of the Trigger, 
+which, in turn, strengthens the incentives for participating 
+in Kentucky’s campaign finance scheme, a scheme which 
+is clearly aimed at the prevention of actual and apparent 
+corruption. However, we ultimately must conclude that a 
+distinction based on this reasoning cannot rescue the con- 
+stitutionality of the 28-Day Window’s application to inter- 
+nal expenditures. 
+
+
+2la 
+
+
+We reach that conclusion for several reasons. One, 
+Buckley relies more on the extent of the First Amendment 
+burden imposed by expenditure limits than it does on the 
+weight of governmental interests. See Pacific Gas & Elec. 
+Co. v. Public Utils. Comm’n of Cal., 475 U.S. 1, 29 n.2 
+(1986) (Rehnquist, J., dissenting) (“[T]he critical distinc- 
+tion [in Buckley] between the contribution and expenditure 
+limitations [is] not the relative worth of the respective gov- 
+ernmental interests,” but instead is the fact that expendi- 
+ture “limits ‘impose far greater restraints on the freedom 
+of speech and association.”) (quoting Buckley, 424 U.S. at 
+44). Two, Buckley stated that “[t]he markedly greater bur- 
+den on basic freedoms caused by [the limit on independent 
+expenditures] cannot be sustained simply by invoking the 
+interest in maximizing the effectiveness of the less intru- 
+sive contribution limitations.” Buckley, 424 U.S. at 44. Simi- 
+larly, we reject the argument that the greater burden im- 
+posed by the 28-Day Window’s extension to internal 
+expenditures can be justified by its impact on the effective- 
+ness of the less intrusive Trigger provision. Three, the 
+marginal increase in the effectiveness of the Trigger that 
+is gained by extending the 28-Day Window to internal ex- 
+penditures is obviously aimed at wealthy candidates. In- 
+deed, Defendants argue that the extension “ensures that a 
+candidate who is extremely wealthy will not be able to ‘buy 
+the election’ with unfettered and unopposed campaign 
+power in the final days before votes are cast.” Because the 
+marginal increase is aimed at wealthy candidates, it pro- 
+vides an insufficient justification. Buckley found that the 
+“interest in equalizing the relative financial resources of 
+candidates . . . is clearly not sufficient to justify the [inter- 
+nal expenditure] provision’s infringement of fundamental 
+First Amendment rights.” Id. at 54. 
+
+
+Defendants suggest another possible way to distinguish 
+the 28-Day Window from the internal expenditure provi- 
+sion struck down in Buckley. They argue that the Window 
+restricts contributions but not expenditures, because a gu- 
+
+
+22a 
+
+
+bernatorial candidate can spend as much of his personal 
+funds as he wants during the 28-day period, as long as the 
+money is already deposited in his slate’s campaign account 
+when the period begins. Though candidates are prohibited 
+from contributing to their own accounts in the last twenty- 
+eight days, Defendants maintain that the act of contribut- 
+ing to one’s own account does not involve any expression. 
+This distinction, too, must fail for a number of reasons. 
+
+
+To begin with, it is erroneous for Defendants to argue 
+that contributions but not expenditures are prohibited in 
+the last twenty-eight days. If a candidate were to desire, 
+during those twenty-eight days, to spend additional 
+amounts of his own money on the campaign, Defendants’ 
+argument would dismiss the additional money as merely a 
+contribution, which could be prohibited. However, Buckley 
+explicitly rejected a lower court’s attempt to characterize 
+“the personal funds expended by the candidate on his own 
+behalf as a contribution rather than an expenditure.” 
+Buckley, 424 U.S. at 52 n.58. 
+
+
+Defendants attempt to portray the requirement that a 
+candidate deposit his personal funds in the campaign ac- 
+count before the twenty-eight days begin as little more 
+than a financial technicality. However, it is much more 
+than that, because it forces a candidate to decide in ad- 
+vance how much of his own money he will spend, before he 
+has a chance to assess the public opinion polls and actions 
+of his opponents in the last month of the campaign. More- 
+over, it would simply not be feasible for a candidate to 
+deposit virtually all of his personal resources in the cam- 
+paign account in advance, just in case he decides, during 
+the last twenty-eight days, to spend those resources on his 
+campaign. First, it is unlikely that all of the candidate’s 
+personal resources will be liquid. Second, the mere deposit 
+of his personal funds counts towards activating the Trig- 
+ger. Third, the candidate cannot easily take back his money 
+
+
+a 
+
+
+a a 
+
+
+23a 
+
+
+if it is unexpended at the end of the campaign"! In sum, it 
+is disingenuous for Defendants to argue that the 28-Day 
+Window does not burden a candidate's ability to spend 
+personal funds on his own campaign. 
+
+
+Finally, Defendants attempt to distinguish the 28-Day 
+Window from the provision struck down in Buckley by char- 
+acterizing it as “merely a time, place and manner restric- 
+tion.” Buckley acknowledged that “the government may 
+adopt reasonable time, place, and manner regulations, 
+which do not discriminate among speakers or ideas, in 
+order to further an important governmental interest unre- 
+lated to the restriction of communication.” Buckley, 424 
+U.S. at 18. However, the Buckley Court went on to con- 
+clude that the Federal Act’s expenditure limits, and even 
+its external contribution limits, do not fall into that cat- 
+egory, because they “impose direct quantity restrictions on 
+political communication and association.” Jd. (emphasis 
+added). In the previous paragraph, we discussed the ef- 
+fects of prohibiting a candidate from contributing to his 
+own campaign in the final month. Because the effects are 
+substantial, rather than just being a matter of timing, we 
+agree with the district court that “[i]t cannot be seriously 
+argued that the prohibition at issue does not restrict the 
+quantity of political speech” (emphasis added). Therefore, 
+for the same reason cited by Buckley, the 28-Day Window 
+
+
+'! Under Ky. Rev. Stat. § 121.180(10), the unexpended funds in 
+the campaign account of a participating slate shall “escheat to 
+the State Treasury, be returned pro rata to all contributors, .. . 
+be transferred to the state or county executive committee of the 
+political party of which the candidate is a member except that a 
+candidate . . . may retain the funds to. . . seek election to the 
+same office or may donate the funds to any charitable, nonprofit, 
+or educational institution.” Candidates cannot get around this 
+provision by making large loans to their campaigns. See id. 
+§ 121.150(13) (“No candidates running as a slate . . . shall 
+make combined total personal loans to their committee in excess 
+of fifty thousand dollars.”). 
+
+
+24a 
+
+
+cannot be characterized as a mere time, place and manner 
+restriction. 
+
+
+While we are sympathetic to the administrative goals 
+of the 28-Day Window, we cannot distinguish it from the 
+internal expenditure provision struck down in Buckley. 
+Thus, we are bound by the Supreme Court’s clear state- 
+ment that “the First Amendment simply cannot tolerate” 
+this type of restriction on the freedom of a candidate to 
+speak on his own behalf. Buckley, 424 U.S. at 54. Accord- 
+ingly, we affirm the district court’s holding that the 28- 
+Day Window is unconstitutional when it prohibits a non- 
+participating candidate from contributing to his own 
+campaign. 
+
+VI. Conclusion 
+
+
+We hold that Kentucky’s Sponsor Identification provi- 
+sion, Ky. Rev. Stat. § 121.190(1), Slating requirement, id. 
+§ 118.127, and Trigger provision, id. § 121A.030(5)\{a), are 
+all constitutional. We further hold that the 28-Day Win- 
+dow, id. § 121A.030(5), is constitutional with respect to 
+contributions from external sources. However, we hold 
+that the 28-Day Window is unconstitutional when it pro- 
+hibits a non-participating candidate from contributing to 
+his own campaign. Thus, we AFFIRM the district court’s 
+decision in all respects. 
+
+
+~ CONCURRING IN PART, DISSENTING IN PART 
+
+
+CUDAHY, Circuit Judge, concurring in part and dis- 
+senting in part. 
+
+I concur in all of the cogent majority opinion except 
+Part V.B., which invalidates the 28-Day Window insofar as 
+it prohibits candidates from contributing to their own cam- 
+paigns during the final weeks before an election. As the 
+majority explains, Kentucky’s campaign finance system is 
+designed to combat actual and apparent corruption. The 
+28-Day Window does not merely “indirectly” advance this 
+goal as the majority suggests; instead the Window is cru- 
+cial to the effectiveness of the entire Kentucky scheme and 
+its invalidation threatens to derail this reform effort. The 
+
+
+25a 
+
+
+28-Day Window is intended to preclude participating and 
+non-participating candidates from infusing last-minute cash 
+into their campaign coffers, too late to be reported and to 
+allow a response by their opponents. The majority has 
+approved this 28-Day Window to the extent that it limits 
+contributions by supporters. But as a result of the 
+majority's disallowance of the same limitation on self-fi- 
+nancing, a candidate using his own funds wiil now be free 
+to ambush an adversary with a torrent of new cash after 
+the last reporting deadline, when a response is no longer 
+possible. A provision that forbids this unfair practice should 
+not require a defense. 
+
+
+To justify its result, the majority is not, as it claims, 
+merely applying Buckley v. Valeo, 424 U.S. 1 (1976). In- 
+stead, the majority is extending that case in a fashion that 
+Buckley specifically forecloses. As the majority concedes, 
+Buckley authorizes “reasonable time, place, and manner 
+regulations, which do not discriminate among speakers or 
+ideas, in order to further an important governmental in- 
+terest unrelated to the restriction of communication,” pro- 
+vided that the regulations do not impose “direct quantity 
+restrictions on political communication and association.” 
+424 U.S. at 18 (emphasis added). 
+
+
+Here the purpose and effect of the 28-Day Window is to 
+prohibit contributions at a highly sensitive time—within a 
+few weeks or days of the election and after the last finan- 
+cial report has been made. Since this is the end of the 
+campaign, total contributions might be less than if there 
+were no such restrictions. But the prohibition applies di- 
+rectly and explicitly to when contributions are made; there 
+is no impact on amount unless, without the restriction, a 
+candidate decided on a last-minute contribution. Whether 
+a candidate would make such a contribution is a matter of 
+conjecture. Compare id. at 19 (“The expenditure limita- 
+tions contained in the Act represent substantial rather than 
+merely theoretical restraints on the quantity and diversity 
+of political speech.”). The provision before us therefore 
+does not impose “direct quantity restrictions” and is not a 
+violation of the Buckley principle. 
+
+
+26a 
+
+
+Nor does the 28-Day Window involve the evil at which 
+Buckley was aimed. Buckley was concerned that a candi- 
+date not be prohibited from contributing to, and spending 
+money on, her own candidacy. See id. at 52-53. Certainly 
+that freedom is not at stake here. Candidates are free to 
+make contributions, as frequently as they wish and of what- 
+ever magnitude they choose, before the advent of the 28- 
+Day Window. The majority makes a number of unconvinc- 
+ing arguments about why this freedom fails to satisfy the 
+requirements of the First Amendment. In particular, the 
+majority has advanced the strawman that a candidate 
+might need to “deposit virtually all of his personal re- 
+sources” before the 28-day limit in the expectation of trouble 
+to come. The reality would be simply that the candidate 
+would put up something before the 28-Day Window (that 
+she would be required to report) as a hedge against last- 
+minute difficulties. If the difficulties did not materialize, 
+it is likely that regular campaign expenses could absorb 
+the surplus. In any event, if there were no last-minute 
+problems requiring additional cash, the candidate’s cam- 
+paign no doubt went well, and she would be untroubled by 
+any surplus. 
+
+All the 28-Day Window provides is notice that the con- 
+tribution has been made and an opportunity for the oppo- 
+nent to respond. The provision thereby removes the un- 
+fairness of last-minute, unreported contributions. It is true 
+that Buckley prohibits “restrict[ing] the speech of some 
+elements of our society in order to enhance the relative 
+voice of others.” Jd. at 48-49. But that does not mean that 
+the First Amendment protects the right to ambush an op- 
+ponent. Cf. First Nat’l Bank of Boston v. Bellotti, 435 U.S. 
+765, 789 (1978) (“If appellee’s arguments were supported 
+by .. . findings that . . . advocacy threatened imminentlv 
+to undermine democratic processes, thereby denigrating 
+rather than serving First Amendment interests, these ar- 
+guments would merit our consideration.”) (citing Red Lion 
+Broadcasting Co. v. FCC, 395 U.S. 367 (1969)). Nor do I 
+believe that denying such a right would result, as the ma- 
+jority contends, in only a “marginal” increase in the effec- 
+
+
+27a 
+
+
+tiveness of the Trigger. The majority's logic here is not 
+transparent. It may be saying that, since the application 
+of the 28-Day Window is aimed at wealthy candidates, the 
+effect is only marginal and cannot be a basis for disregard- 
+ing Buckley's injunction against attempting to equalize the 
+financial resources of candidates. I am not sure how we 
+can conclude that the effect of a last-minute cash infusion 
+into a campaign that could be won by a single vote is only 
+“marginal.” However, if this is so, by the same token its 
+prohibition cannot be a significant infringement of the First 
+Amendment. 
+
+
+In sum, the majority is troubled that the 28-Day Win- 
+dow is a “burden” on a candidate’s freedom to speak with 
+her own dollars. But the alternative is to construct a 
+special right to speak with unreported dollars at the last 
+minute when no response is possible. I do not believe that 
+the First Amendment requires such a perverse construc- 
+tion, and I therefore respectfully dissent with respect to 
+this issue. 
+
+
+28a 
+APPENDIX B 
+
+
+UNITED STATES DISTRICT COURT 
+EASTERN DISTRICT OF KENTUCKY 
+
+
+FRANKFORT 
+Civil Action No. 95-12 
+ROBERT E.GABLE, Et Al. - - - - - Plaintiffs. 
+U, 
+BRERETON C. JONES, Et Al., - - - Defendants. 
+
+
+MEMORANDUM OPINION AND ORDER— 
+Filed March 29, 1996 
+
+
+The parties, by and through counsel, having moved for 
+summary judgment [Record Nos. 68, 71, 73, 75 & 79], and 
+the Court having considered the parties’ briefs, and argu- 
+ment of counsel, this matter is ripe for decision. 
+
+
+PROCEDURAL BACKGROUND 
+
+
+The plaintiffs filed the instant action on February 17, 
+1995, seeking a declaration of the constitutionality of vari- 
+ous statutes under Kentucky’s Campaign Finance Reform 
+Law. As the basis of the Court’s jurisdiction over this 
+matter and a sufficient statement of the factual background 
+have been set out in the Court’s partial declaratory judg- 
+ment order, a recitation of those facts is not necessary 
+here. 
+
+
+The parties’ motions for summary judgment address 
+each of the 22 claims in the plaintiffs’ amended complaint. 
+However, Counts III, V, VII, VIII, X, XII, XIII, XIV, XV, 
+XVIII, XX have been dismissed.' Accordingly, the Court 
+
+
+' As the claims forwarding allegations asserted by the plaintiff, 
+Darryl Sebastian [Sebastian], have been dismissed, the Court 
+must dismiss Sebastian as a party to this action and will there- 
+fore refer to the plaintiff, Robert Gable [Gable], in the singular. 
+
+
+29a 
+
+
+will address only the remaining claims, as well as revisit 
+Gable’s claim in regard to KRS 121.190. 
+
+
+DISCUSSION 
+I. Count I — KRS 118.125 and 118.127 
+
+
+KRS 118.125 and 118.127 were implemented by the 
+legislature to give effect to a Kentucky constitutional 
+amendment affirmed by referendum in 1992 which requires 
+that Kentucky Gubernatorial and Lieutenant Gubernato- 
+rial candidates run as a slate. KRS 118.127 provides in 
+pertinent part that “[n]o candidate for Governor or Lieu- 
+tenant Governor shall appear individually on the ballot for 
+the nomination he is seeking.” 
+
+
+Gable argues that the slating requirement infringes 
+upon his First Amendment right to free political associa- 
+tion and his rights under the Fourteenth Amendment and 
+is not supported by any compelling or important state in- 
+terest. The defendants argue that the issue before the 
+Court is not one concerning free political association, but 
+rather one of “ballot access.” The defendants contend, in 
+the alternative, that the slating requirement is supported 
+by Kentucky’s compelling interests in preventing factional- 
+ism and providing a stable government. 
+
+
+“Core political speech” is not regulated by these elec- 
+tion code provisions, McIntyre v. Ohio, 115 S.Ct. 1511 
+(1995), and thus KRS 118.125 and 118.127 do not burden 
+Gable’s First Amendment Right to free political associa- 
+tion.? Instead, these statutes burden Gable’s right to ac- 
+cess the ballot and thus are subject to the “ordinary litiga- 
+tion” test set forth in Anderson v. Celebrezze, 460 U.S. 
+708K (1983). The Court in Anderson held that when a 
+state election law imposes only “reasonable, nondiscrimi- 
+
+
+2 These statutes do not prevent Gable, as an individual 
+running for governor, from choosing whomever he wishes 
+to be his running mate. Thus, Gable may be as free in his 
+political association as he chooses. 
+
+
+30a 
+
+
+natory restrictions”, the state’s “important regulatory in- 
+terests are generally sufficient to justify; the restrictions. 
+Id. at 788. It is undisputed that Kentucky's interest din 
+preventing factionalism and in stabilizing government are 
+recognized as compelling. See, Storer v. Brown, 415 U.S. 
+724, 736 (1974) American Party of Texas v. White, 415 U.S. 
+767, 781 (1974). 
+
+
+KRS 118.125 and 118.127 are found to be reasonable, 
+nondiscriminatory, and vir'ually unobtrusive restrictions 
+on Gable’s right to access the gubernatorial ballot. Any 
+burden on his First Amendment right to access is slight. 
+Against this burden, Kentucky has compelling interests 
+which were born of years of attempting to cope with fac- 
+tionalism in the gubernatorial race. Such state interests 
+certainly justify the limited restrictions on ballot access 
+imposed by KRS 118.125 and 118.127. 
+
+
+To conclude otherwise would sacrifice a measure of po- 
+litical stability gained by the enactment of the statutes for 
+the interest of potential gubernatorial candidates who wish 
+to “run alone”, a result not mandated by the First or the 
+Fourteenth Amendments.” Accordingly the defendants’ mo- 
+tion for judgment as a matter of law as to Count I must be 
+granted. 
+
+
+II. COUNTS II AND VI — KRS 121.030(5), 
+KRS 121.030(5)(a) 
+
+
+This Court must first determine whether KRS 
+121A.030(5) burdens Gable’s right to free political expres- 
+sion and whether 121A.030(5)(a) creates benefits for par- 
+ticipating slates which in effect burden Gable’s constitu- 
+tional ‘right to free political speech. Sec, Buckley v. Valeo, 
+424 U.S. 1, 25 (1976). If Gable’s right to free political 
+speech is burdened, then the statutory provisions must be 
+narrowly tailored to meet a compelling state interest in 
+order to comport with the mandates of the First Amend- 
+ment. Id. at 18. 
+
+
+KRS 121A.030(5) prohibits slates of candidates in the 
+governor's race from accepting campaign contributions dur- 
+
+
+3la 
+
+
+ing the thirty days immediately preceding a primary or 
+general election, or during the fourteen days immediately 
+preceding a primary run-off. KRS 121A.030(5)(a) lifts the 
+expenditure limitation upon a participating slate in the 
+event a non-participating slate exceeds $ 1.8 million in 
+campaign expenditures, allowing either candidate to ac- 
+cept campaign contributions within thirty days of the elec- 
+tion’. It also provides for additional public funding on a “2 
+to 1” ratio for a participating slate, once the expenditure 
+limit has been lifted.* 
+
+
+Gable contends that these statutes create unconstitu- 
+tional burdens as they: (1) prohibit him from contributing 
+to his own, or any campaign, in the thirty days prior to a 
+primary or general election; (2) use his spending as a “trig- 
+ger” for lifting the spending cap on participating slates; 
+and (3) use his spending as a trigger for making additional 
+public funds available for the participating slates. 
+
+
+A. CANDIDATE’S CONTRIBUTION TO 
+HIS OWN CAMPAIGN 
+
+
+There can be no doubt that a candidate cannot be re- 
+stricted from contributing to and spending for his own can- 
+didacy. Id. In Buckley the Supreme Court conveyed the 
+magnitude of the protected right to contribute to one’s down 
+campaign. Id. at 52-53. The defendants argue that the 
+Court in Buckley found only that the amount of campaign 
+contributions from a candidate may not be constitutionally 
+limited. 
+
+Kentucky’s Election Finance Reform laws prohibit can- 
+didates from contributing to their own campaigns during 
+the reporting period. In the event the participating slate 
+expends, or has accepted, more than $1.8 million in the 
+course of the campaign, the prohibition is lifted and both 
+
+
+3 The term “participating slate” refers to slates of candidates 
+who file a statement of intent that they will accept transfers 
+from the public fund created by KRS 121A.020(1), and in turn 
+limit their campaign spending to $1.8 million. 
+
+
+32a 
+
+
+participating and non-participating slates may continue to 
+accept contributions or make contributions to their own 
+campaign. If the non-participating slate has not spent 
+over $1.8 million, neither slate is allowed to accept contri- 
+butions during the reporting period. S 
+
+The Court in Buckley did not address the narrow ques- 
+tion before this Court: whether a “time” restriction limit- 
+ing when a candidate may contribute to his own campaign 
+is constitutionally permissible. The Court did, however, 
+hold that the contribution limitations of the Federal Elec- 
+tion Campaign Act of 1971 imposed direct quantity restric- 
+tions on political communications, in addition to any rea- 
+sonable time, place, and manner regulations and that such 
+restrictions were unconstitutional. Jd. at 18. 
+
+
+The government may adopt reasonable time, place, and 
+manner regulations, which do not discriminate among 
+speakers or ideas, in order to further an important govern- 
+mental interest unrelated to the restriction of communica- 
+tion. See, Erznozik v. City of Jacksonville, 422 U.S. 209, 
+209 (1975); Cox v. Louisiana, 379 U.S. 559 (1965); Adderly 
+v. Florida, 385 U.S. 39 (1966); and Kovacs v. Cooper, 336 
+U.S. 77 (1949). 
+
+
+The allowable time, place, and manner restrictions are 
+not exceptions to the doctrine of the First Amendment. It 
+cannot be seriously argued that the prohibition at issue 
+does not restrict the quantity of political communication. 
+This statutory provision prohibits any contribution during 
+the reporting period, therefore it is more restrictive in scope 
+than the limitation addressed by the Court in Buckley. 
+
+
+The instant action is’ distinguishable’ from that in Cox, 
+where the Supreme Court found parading and picketing ‘o 
+be conduct “intertwined with expression and association.” 
+Cox v. Louisiana, 379 U.S. at 563-564. The Court in Buckley 
+clearly held that the ability to contribute to ones own cam- 
+paign is a “substantial restraint on the ability of persons 
+to engage in protected First Amendment expression.” 
+Buckley v. Valeo, 424 U.S. at 52. Thus, contribution to 
+ones own campaign is not merely conduct “intertwined with 
+
+
+33a 
+
+
+expression” and association” but is political expression 
+squarely protected by the First Amendment. 
+
+
+The defendants concede that the prohibition at issue 
+has been constructed in part to prevent last minute media 
+blitzes by a candidate. Thus, the governmental interest in 
+preventing campaign contributions during the reporting 
+period involves “suppressing communication.” United States 
+v. O’Brien, 391 U.S. 367, 382 (1968). The Court in Buckley, 
+found that governmental interest in regulating “giving or 
+spending money ‘arises in some measure because the com- 
+munication allegedly integral to the conduct itself is thought 
+to be harmful.’” Buckley v. Valeo, 424 U.S. at 17 (citing 
+United States v. O’Brien, 391 U.S. at 582). The Court held 
+that the primary governmental interest of preventing’ ac- 
+tual and apparent corruption of the political process does 
+not support a limitation on the candidate’s expenditure of 
+his own funds. Jd. at 54. Moreover, administrative ease” is 
+not a compelling state interest. 
+
+
+Accordingly, the contested statute abrogates any con- 
+tribution for a 30 day period and does not merely “restrict” 
+protected speech within the narrow scope of acceptable 
+“time” limitations. To the extent that KRS 121A.030(5) 
+limits a candidate's ability to contribute to his own cam- 
+paign during the reporting period, the statute unconstitu- 
+tionally restricts the candidate’s First Amendment right to 
+free political expression and Gable’s motion for summary 
+judgment on Count II must be granted. On the other 
+hand, Buckley legitimatizes limiting contributions from 
+other sources during the reporting period. 
+
+
+B. LIFTING THE CAP ON PRIVATE CONTRIBUTIONS 
+
+
+Clearly, the trigger mechanism allowing a non-partici- 
+pating to continue to raise money above the agreed 
+$600,000.00 limit is not a burden upon Gable’s right to 
+free political speech. If Gable chooses to spend freely, this 
+trigger mechanism will only promote political dialogue by 
+lifting the spending cap from non-participating slates. 
+Gable does not explain why he believes that the “use of his 
+
+
+34a 
+
+
+spending” in this manner stifles his political expression or 
+speech. 
+
+Moreover, the argument that the statute “chills” his 
+free speech is not compelling. Again, Gable’s freedom to 
+spend is not restricted by KRS 121A.030(5)(a), and any 
+“chill” upon his right to communicate is countered by 
+Kentucky's compelling interest in combatting actual and 
+apparent corruption of the political process.‘ See, Wilkinson 
+v. Jones, 876 F.Supp. 916 (W.D.Ky. 1995). 
+
+
+C. ADDITIONAL PUBLIC FINANCING TRIGGERED 
+BY SPENDING OF NON-PARTICIPATING SLATE 
+
+
+Gable argues that the incentive of additional “2 to 1” 
+public funding is “coercive” and results in an unconstitu- 
+tional burden upon his right to free political speech. The 
+defendants rely upon the decisions in Buckley, Wilkinson, 
+and the First Circuit Court of Appeals’ decision in Vote 
+Choice, Inc. v. Distefano, 4 F.3d 26, 38 (1st Cir. 1993), to 
+counter Gable’s argument. 
+
+
+The Court in Buckley squarely upheld the constitution- 
+ality of incentives created to encourage participation in 
+expenditure limitation schemes. The Court rejected the 
+“benefit equals burden” argument. Thus, this argument 
+will not be successful here. Moreover, it is well estab- 
+lished that without some evidence to the contrary, public 
+financing schemes will not be treated as “punitive” mea- 
+sures. See, Vote Choice, Inc. v. Distefano, 4 F.3d at 38. 
+However, the Court in Buckley and the court in Vote Choice 
+acknowledged that although a statutorily created benefit 
+does not per se result in an unconstitutional burden, such 
+benefits could conceivably “snow ball” into a “coercive” mea- 
+sure upon a nonparticipating candidate. Vote Choice, Inc. 
+v. Distefano, 4 F.3d at 39-40. 
+
+
+4 Apparently, Gable believes that the lifting of spending limits 
+results in an incentive to the nonparticipating slate to accept 
+expenditure limits. This may be true, but the United States 
+Supreme Court upheld incentives for participation in publicly 
+financed campaigns in Buckley. 
+
+
+EO 
+
+
+35a 
+
+
+There is no question but that the trigger provision al- 
+lowing additional spending and continued “2 to 1” match- 
+ing of funds restricts free political speech. It is a burden 
+because the speech of a non-participating candidate is 
+chilled in two ways. First, this particular incentive will 
+result in some degree of tempering speech once the 
+candidate’s contributions near the $1.8 million mark. Sec- 
+ond, speech will be stifled to some degree by the fear that 
+the participating candidate will clearly “outspend” the non- 
+participating candidate once the cap is lifted, given the 
+additional “2 to 1” funding. Moreover, there is no question 
+but that the state has a compelling interest in keeping 
+campaign expenditures at levels that do not encourage ac- 
+tual or apparent corruption of the political process, i.e. to 
+keep one candidate from essentially buying a campaign. 
+
+
+Gable argues that there is a point where incentives 
+become coercive. This Court agrees, and although this 
+theory is addressed by the court in Vote Choice, the First 
+Circuit did not provide any concrete standard for deter- 
+mining when a restriction on political speech becomes co- 
+ercive. 
+
+
+Once a First Amendment analysis of a statute reaches 
+the point where burden and compelling state interest are 
+no longer the questions, the focus becomes the invasive- 
+ness of the statute. Thus, whether a statute is unconstitu- 
+tionally coercive is a matter of degree. Coerce is defined 
+by Webster’s New World Dictionary (2nd College Edition) 
+as “to restrain or constrain by force.” Without any evidence 
+that the, statute literally forces the non-participating can- 
+didate to accept public financing, Gable’s arguments must 
+fail. 
+
+
+Very few, if any, legislative financing schemes will 
+achieve perfect equipoise. Kentucky's law imposes restric- 
+tions upon non-participating candidates which must be ac- 
+cepted in order to reap the benefits. The financing pro- 
+gram is available to any candidate which meets the 
+eligibility requirements. Although the additional “2 for 1” 
+incentive is very attractive, such desirability does not make 
+
+
+36a 
+
+
+it coercive. Gable cannot articulate why the burden felt by 
+a nonparticipating candidate subsequent to the cap lift is 
+any heavier’ than that felt before the cap is lifted. The 
+particular restrictions on speech mentioned previously are 
+not the result of undue force. 
+
+
+The Court can fathom a coercive scheme, for example 
+“4 to 1” additional funding, at which time the non-partici- 
+pating candidate would have no legitimate way of staying 
+in the race once the cap was lifted. At this juncture, the 
+statute would be se restrictive as to literally “force” poten- 
+tial candidates to accept public funding, thereby unconsti- 
+tutionally limiting the dissemination of information by can- 
+didates. Under the hypothetical, the candidate would not 
+have a real choice but to participate in the scheme and 
+would thus be coereed into accepting public funding. 
+
+
+Such is not the case with the statute at bar. Here, 
+there is no argument that “2 for 1” funding makes it nearly 
+impossible for the candidate running on private contribu- 
+tions to win the race. There is no argument that the 
+statute effects, much less coerces, the initial decision made: 
+whether the candidate can get his message to the public 
+on $1.8 million or less. Accordingly, as there is no evidence 
+that this statute creates an unconstitutionally coercive situ- 
+ation for a non-participating slate; the defendants are en- 
+titled to judgment as a matter of law as to Count VI of the 
+complaint. 
+
+
+III. COUNT IX — KRS 121.150 (13) AND (20) 
+
+
+Gable argues that the limitation of his ability to loan 
+money to his campaign constitutes a content based restric- 
+tion on his right to free political speech. The defendants 
+argue that contribution, not the act of loaning money, is a 
+protected First Amendment right. They further contend 
+that, in any event, these statutes are narrowly tailored to 
+meet the state’s interest in preventing the actual and ap- 
+parent corruption of the political process. 
+
+
+KRS 121.150(13) and (20) prohibit a slate from loaning 
+more than $50,000.00 to their campaign and establish that 
+
+
+37a 
+
+
+any amount over $50,000.00 provided by a slate or their 
+immediate families is deemed a contribution and is not 
+recoverable. These statutes impinge very slightly upon 
+the right to express political views, are reasonable, and 
+thus are subject to the “ordinary litigation” test. See, Ander- 
+son v. Celebrezze, 460 U.S. 708 (1983). 
+
+
+Historically, Kentucky has had a tremendous problem 
+with gubernatorial candidates making “windfall” loans to 
+the campaign, which typically make the candidate finan- 
+cially vulnerable, and which are “repaid” with monies con- 
+tributed by those seeking certain “favors” from the suc- 
+cessful candidate. This problem is documented and does 
+not merely exist in the minds of the defendants. Gable 
+argues that the restrictions on contributions now obviate 
+this problem, and that this statutory provision has no pur- 
+pose. Gable’s argument is not persuasive, however, as the 
+threat of becoming indebted to those who contribute, so- 
+licit contributions, or encourage contributions for a par- 
+ticular gubernatorial candidate is real and immediate with- 
+out a limitation on loans. 
+
+
+These regulatory statutes are, narrowly tailored to meet 
+a very compelling interest in establishing and preserving 
+integrity in Kentucky’s political system. See, Wilkinson v. 
+Jones, 876 F.Supp. 916 (W.D. Ky. 1995). Accordingly, sum- 
+mary judgment must be granted in favor of the defend 
+ants on Count IX of the complaint. 
+
+
+IV. COUNT XVII — KRS 121.150(1) 
+
+
+Gable argues that KRS 121.150(1) restricts his free po- 
+litical speech and that it is so vague that a reader cannot 
+discern what actually constitutes an “indirect” solicitation 
+of an independent expenditure. The defendants contend 
+that the statute is narrowly tailored to prohibit “agree- 
+ments” between a candidate or his agents and an indi- 
+vidual which are intended to circumvent the contribution 
+and expenditure limitations. 
+
+
+First and foremost, independent expenditures on be- 
+half of a candidate are allowed. The limitation on inde- 
+
+
+38a 
+
+
+pendent expenditures imposed by KRS 121.150 is that the 
+candidate may not request, cooperate in the making of, 
+suggest, or consent to, the expenditure. Thus is the source 
+of the label “independent” expenditure. Moreover, any per- 
+son expending more than $500.00 in independent expendi- 
+tures in any one election must report the expenditures to 
+the registry. “he statute does not limit the amount that 
+may be spent independently in any one election. More- 
+over, the amount spent on an “independent expenditure” is 
+not considered a contribution for the purposes of the stat- 
+ute. A person may independently expend money for whom- 
+ever, however, and whenever during the election process 
+he or she wishes. Clearly, the statute is constitutional on 
+its face as it does not burden protected speech. 
+
+
+A direct solicitation is obvious: “Rent a billboard on 
+1-64 with my name on it.” A statement such as, “I certainly 
+would like a billboard on I-64 with my name on it, but I 
+cannot afford it, and I could not ask you to do that”, would 
+be an indirect solicitation. 
+
+
+It is true that “indirect solicitation” is not defined in 
+the statute. While actions constituting indirect solicitations 
+may be less obvious, political experience, logic, and refer- 
+ence to the purpose of the statute and the context in which 
+“indirect” solicitation is used will aid the reader in deter- 
+mining what conduct is prohibited. Thus, the statute is 
+not so vague as to restrict free political speech. 
+
+
+V. COUNTS XIX — XXII — KRS 121.0255 AND 
+KRS 121.045 
+
+
+Gable argues that KRS 121.055 and KRS 121.045 im- 
+pose content-based restrictions on political speech in viola- 
+tion of the First Amendment and that the restrictions are 
+so vague as to deny him due process in violation of the 
+Fourteenth Amendment. Gable concedes that it is the 
+application of the statutes which renders them unconstitu- 
+tional. The defendants contend that it is the interpretation 
+given the statute’ by Gable that renders Kit “questionable” 
+and that the statute is not unconstitutional on its face nor 
+
+
+ee 
+
+
+39a 
+
+
+is it unconstitutional as applied by the Commonwealth. 
+
+
+Simply speaking, KRS 121.055 and 121.045 prohibit 
+vote buying. In Brown v. Hartlage, 102 S.Ct. 1523, 1529 
+(1982), the Supreme Court held that the predecessor stat- 
+ute to KRS 121.055 was unconstitutional as applied under 
+the circumstances presented, but found that the statute 
+“presents little constitutional difficulty” in many of its pos- 
+sible applications. The Court also acknowledged that the 
+statute is a “narrowly tailored means of promoting” the 
+Commonwealth’s compelling interest in preventing corrup- 
+tion. Id. at 1530. 
+
+
+The Court in Brown gave numerous examples of prom- 
+ises which would be protected by the First Amendment, 
+such as promises to lower or raise taxes. The Common- 
+wealth has been given specific direction by the United 
+States Supreme Court on how to constitutionally apply 
+this statute, reducing the possibility of misapplication in 
+the future. Thus, the Court in Brown narrowed the con- 
+struction of the statute to prohibit promises that amount 
+to quid quo pro conduct, and to allow general campaign | 
+promises to voters. Accordingly, the Court’s holding in 
+Brown precludes a challenge to the facial validity of KRS 
+121.055. The constitutionality of the statute may only be 
+challenged as to its application. 
+
+
+Gable does not allege that the state attempted to en- 
+fo.ce this statute against him. Thus, as there is no chal- 
+lenge to the application of this statute, summary judgment 
+in favor of the defendants on Counts XIX and XX is war- 
+ranted. 
+
+
+Moreover, in Lee v. Commonwealth, 565 S.W.2d 634 
+(Ky. Ct. App. 1982), the Kentucky Appeals Court consid- 
+ered the constitutionality of KRS 121.045 and held it to be 
+unconstitutional to the extent that it prohibits donations 
+to a candidate for office of property valuator by persons 
+whose property he may assess. Again, this is a statute 
+which may be unconstitutional in its application. This 
+Court, however, will not find a statute invalid on its face 
+merely because it is possible to conceive of limited imper- 
+
+
+40a 
+
+
+missible applications. See, Leonardson v. City of East Lan- 
+sing, 896 F.2d 190 (6th Cir. 1982). 
+
+
+The Court in Lee gave some direction as to the scope of 
+KRS 121.045 and how it may be applied in the future. As 
+such, the statute has been narrowed, and although it is 
+not artfully written, it cannot be said to be unconstitution- 
+ally vague or overbroad. See, Broderick v. Oklahoma, 413 
+U.S. 601, 613 (1973). Accordingly, Counts XXI and XXII 
+must be dismissed as a matter of law. 
+
+
+V. COUNT XI — KRS 121.990(3), 
+121A.990(1)(a) AND (3) 
+
+
+KRS 121.990(3) and 121A.990(1)(A) and (3) set penal- 
+ties for violations of various provisions of the act. To the 
+extent penalties are set for the violation of laws which 
+have been held to be constitutional, no argument as to 
+restriction of free speech lies. However, penalties for the 
+exercise of protected free speech is an additional restric- 
+tion which cannot be tolerated. Thus, the penalties pro- 
+scribed by the legislature will stand where such penalties 
+are imposed upon a violation of the statutes which have 
+been held to pass constitutional scrutiny. 
+
+
+Accordingly, 
+IT IS ORDERED HEREIN, 
+
+
+(1) That the defendants’ motions for summary judg- 
+ment [Record Nos. 71, 73, 75, 79] be, and the same hereby 
+are, GRANTED, as to Counts I, VI, IX, XI, XVII, XIX, XX, 
+XXI and XXII of the complaint; 
+
+
+(2) That the plaintiffs motion for summary judgment 
+[Record No. 68] be, and the same hereby is, GRANTED as 
+to Count II of the complaint; 
+
+
+(3) That the defendants Paul Patton, Ben Chandler and 
+the Kentucky Registry of Election Finance and all persons 
+in active participation or concert with them or who receive 
+actual notice of this order by personal service or otherwise, 
+are ENJOINED from enforcing Kentucky Revised Statute 
+121A.030(5) to the extent that it prohibits a slate of candi- 
+
+
+4la 
+
+
+dates from contributing to their own campaign; and 
+
+
+(4) That Counts I, VI, IX, XI, XVII, XIX, XX, XXI and 
+XXII of the complaint be, and the same hereby are DIS- 
+MISSED. 
+
+
+This the 29th day of March, 1996. 
+
+
+/s/_ Joseph M. Hood 
+Joseph M. Hood, Judge 
+
+
+Date of Entry and Service: 9/1/96 
+
+
+By: /s/ Christy Dearborn 
+District Clerk 
+
+
+42a 
+APPENDIX C 
+
+
+UNITED STATES DISTRICT COURT 
+
+
+EASTERN DISTRICT OF KENTUCKY 
+FRANKFORT 
+
+
+Civil Action No. 95-12 
+
+
+ROBERT E. GABLE, and 
+DARRELL SEBASTIAN, - - - - - _ Plaintiffs. 
+
+
+VU. 
+
+
+BRERETON C. JONES, Et Al, - - - Defendants. 
+
+
+PARTIAL DECLARATORY JUDGMENT— 
+Filed January 5, 1996 
+
+
+This matter is before the Court upon the parties’ cross 
+motions for summary judgment. After considering the briefs 
+and oral arguments, 
+
+
+IT IS ORDERED AND ADJUDGED that as there is no 
+genuine issue of material fact to be adjudicated as to KRS 
+121.150(2) or KRS 121A.080(6), the defendants are en- 
+titled to a partial declaratory judgment as a matter of law. 
+
+
+JURISDICTION AND VENUE 
+
+
+1. This Court has jurisdiction over this action pursu- 
+ant to 28 U.S.C. §§ 1331 and 1343. Venue is found under 
+28 U.S.C. §§1391(b) and 1392. Declaratory relief is appro- 
+priate under 42 U.S.C. § 1963, 28 U.S.C. § 2201 and 
+Fed.R.Civ.P. 57. 
+
+
+PARTIES 
+
+
+2. The Plaintiff, Robert E. Gable, is a resident of 
+Franklin County, Kentucky, and was a duly qualified can- 
+didate for the Republican Party’s nomination for the office 
+of Governor of the Commonwealth of Kentucky in the 1995 
+primary election. 
+
+
+7s eS ee Ee, Oe 
+
+
+ae — fe ee ee ee my 
+
+
+43a 
+
+
+3. The Defendant-Counterclaimant, Kentucky Regis- 
+try of Election Finance, is ran independent agency of the 
+state government responsible for enforcing Chapter 121 
+and Chapter 121A of the Kentucky Revised statutes. 
+
+
+4. The Defendant-Counterclaimant, Joseph H. Terry, 
+is chair of the Kentucky Registry of Electron Finance, and 
+was sued in his official capacity. 
+
+
+5. The Defendant-Counterclaimant, Chris F. Gorman, 
+is Attorney General, and was sued in his official capacity. 
+
+
+6. The Defendant-Counterclaimant, Bob Babbage, is 
+the secretary of state and was sued in his official capacity 
+
+
+7. The Defendant-Counterclaimant, Paul Patton, is the 
+Governor of the Commonwealth of Kentucky. Governor 
+Patton was substituted for former Governor Brereton Jones, 
+who was sued in his official capacity. 
+
+
+DEFINITIONS 
+
+
+8. As used in this Judgment, the term “Participating 
+Slate” means a slate of candidates for Governor and Lt 
+Governor who have filed with the Registry pursuant to 
+KRS 121A.040(3) a statement of intent to accept transfers 
+from the public fund established by KRS 121A.020(1). 
+
+
+9. As used in this Judgement, the term “Nonpartici- 
+pating Slate” means a slate of candidates for Governor and 
+Lt. Governor who have filed with the Registry pursuant to 
+KRS 121A.040(3) a statement of intent to reject transfers 
+from the public fund established by KRS 121A.020(1). 
+
+
+FACTS 
+
+
+10. Plaintiff moved the court for summary judgment 
+regarding several provisions of Kentucky’s campaign fi- 
+nance legislation contained in KRS chapter 121 and 121A. 
+He sought declaratory and injunctive relief as to the chal- 
+lenged statutes. 
+
+
+11. Defendants submitted cross motions for summary 
+judgment. They sought a declaratory judgment declaring 
+the challenge statutes constitutional. 
+
+
+44a 
+
+
+12. The Court heard oral argument on the cross mo- 
+tions for summary judgment on December 21, 1995. 
+
+
+13. KRS 121.150(2) provides as follows: 
+
+
+Except as provided in KRS 121.180(10), the solicita- ; 
+tion from and contributions by candidates, slates of 
+candidates, campaign committees, political issues com- 
+mittees, permanent committees, and party executive 
+committees to any religious, charitable, civic, eleemo- 
+synary, or other causes or organizations established 
+primarily for the public good is expressly prohibited; 
+except that it shall not be construed as a violation of 
+this section for a candidate or slate of candidates to 
+continue regular personal contributions to religious, 
+civic, or charitable groups. 
+
+
+14. Plaintiff contends the statute means candidates for 
+public office may only contribute to those charities to which 
+they had regularly contributed prior to officially declaring 
+their candidacies, and may only contribute in the amounts 
+they had contributed prior to declaring their candidacies. 
+
+
+a ee ee ee ee 
+
+
+15. The Registry construes the statute to permit natu- 
+ral persons who become candidates for office to make chari- 
+table contributions without limitation. The Registry’s con- 
+struction limits the statute to prohibiting charitable 
+contributions by the committees enumerated in the stat- 
+ute, namely, campaign committees registered by candidates, 
+political issues committees, permanent committees and 
+party executive committees. 
+
+
+16. KRS 121A.080(6) provides as follows: 
+
+
+A slate of candidates shall establish a separate candi- 
+date campaign account for each primary, runoff pri- 
+mary, and regular elections in which it participates. 
+The unexpended balance of contributions and fund 
+transfers in a candidate campaign account of a slate 
+of candidates which remains after all financial obliga- 
+tions of the particular ejection for which the account 
+is established have been satisfied shall be forwarded 
+to the registry for deposit in the fund when the ac- 
+count is closed. The payment to the fund shall be made 
+not later than ten (10) working days after the candi- 
+
+
+a il le ala 
+
+
+45a 
+
+
+date campaign account for a particular election is 
+closed. Funds in the candidate campaign account of a 
+slate of candidates shall be expended only for expenses 
+incurred in the particular election for which the ac- 
+count is established and shall not be used to pay ex- 
+penses incurred in any other election or for any other 
+purpose. 
+
+17. Plaintiff contends that this statute escheat to the 
+slate the unexpended balance in the campaign account of 
+Nonparticipating Slates, and therefore violates the rights 
+to freedom of speech and association secured him by the 
+First and Fourteenth Amendments of the united States 
+constitution and further constitutes a taking without just 
+compensation in violation of the rights secured Plaintiff by 
+the Fifth and Fourteenth Amendments of the United States 
+Constitution. 
+
+
+18. The Registry construes KRS 121A.060(6) to require 
+only the “unexpended balance of contributions and fund 
+transfers in a candidate campaign account” of a Participat- 
+ing Slate be forwarded to the Registry for deposit in the 
+fund when the campaign account is closed (emphasis sup- 
+plied). The Registry thus construes KRS 121A.080(6) to 
+apply only to unexpended funds in the campaign account 
+of Participating Slates and to have no application to unex- 
+pended funds in the campaign account of Nonparticipating 
+States, which are governed by KRS 121.180(10). 
+
+
+DECLARATORY RELIEF 
+
+
+19. The court declares that, “[iJn evaluating a facial 
+challenge to a state law, a federal court must, of course, 
+consider any limiting construction that a state court or 
+enforcement agency has proffered.” Hoffman Estates v. 
+Flipside, Hoffman Estates, 455 U.S. 489, 494 n.5 (1981) 
+(citing Grayned v. City of Rockford, 408 U.S. 104, 110 (1972). 
+
+
+20. The Court also declares that: 
+
+
+[A statute] ought not be construed to violate the Con- 
+stitution if any other possible construction remains 
+available; under this canon of statutory construction, 
+[t]he elementary rule is that every reasonable con- 
+
+
+46a 
+
+
+struction must be resorted to in order to save a stat- 
+ute from unconstitutionality. . . . [A]s between two 
+possible interpretations of a statute, by one of which 
+it would be unconstitutional and by the other valid, 
+our plain duty is to adopt that which will save the 
+Act. 
+
+Rust v. Sullivan, 500 U.S. ___, 114 L.Ed.2d 2338, 253 (1991) 
+
+(internal quotation marks and citations omitted). 
+
+
+21.The Court declares that, in order to save KRS 
+121.150(2), it will adopt the narrowing construction offered 
+by the Registry and interpret KRS 121.150(2) to mean that 
+natural persons who become candidates for office may con- 
+tinue to make charitable contributions. Accordingly, KRS 
+121.050(2) is limited to prohibiting charitable contributions 
+by the committees enumerated in the statute, including 
+campaign committees registered by candidates. 
+
+
+22.The court declares that, in order to save KRS 
+121A.080(6), it will adopt the narrowing construction of- 
+fered by the Registry and interpret KRS 121A.080(6) to 
+require that only the unexpended balance of contributions 
+and fund transfers in a candidate campaign account of a 
+Participating Slate be forwarded to the Registry for de- 
+posit in the fund when the campaign account if closed. 
+(emphasis supplied). Accordingly, the Court declares that 
+KRS 121A.080(6) does not apply to unexpended funds in 
+the campaign account of Nonparticipating Slates, and that 
+those funds are governed by KRS 121.180(1). 
+
+
+23. The Court further declares that there is no genuine 
+issue of material fact as to KRS 121.150(2) and KRS 
+121A.080(6) and Defendants are entitled, as a matter of 
+law, to a judgment dismissing the Third and Fourteenth 
+causes of action asserted in Plaintiffs’ Amended Complaint 
+with prejudice. 
+
+This is the 5th day of January, 1996. 
+
+
+/s/_ Joseph M. Hood 
+Joseph M. Hood, Judge 
+Date of Entry and Service: 
+
+
+eS ee ee 
+
+
+PN ONC TR ee Poe atte EEL OY Soe ig ROO UP oe eee he 
+
+
+Pe ee ee ee ae ee Pe eee ee en 
+
+
+ee ee ee ee 
+
+

@@ -1,0 +1,44 @@
+AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (https://www.law.cornell.edu/supct/html/97-2000.ZC.html)
+citeturn20view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/97-2000.ZC.html","lineno":null}); Total lines: 41
+L0: AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (97-2000)
+L1: 139 F.3d 158, reversed.
+L2: Syllabus
+L3:  | Opinion
+L4: [ Rehnquist ]  | Concurrence
+L5: [ Ginsburg ]  | Concurrence
+L6: [ Breyer ]  | Other
+L7: [ Opinion of Stevens ]
+L8: --- | --- | --- | --- | ---
+L9: 【0†HTML version】
+L10: 【1†PDF version】  | 【2†HTML version】
+L11: 【3†PDF version】  | 【4†HTML version】
+L12: 【5†PDF version】  | 【6†HTML version】
+L13: 【7†PDF version】  | 【8†HTML version】
+L14: 【9†PDF version】
+L15: 
+L16: * * *
+L17: 
+L18: Ginsburg, J., concurring
+L19: 
+L20: SUPREME COURT OF THE UNITED STATES
+L21: 
+L22: * * *
+L23: 
+L24: No. 97—2000
+L25: ### AMERICAN MANUFACTURERS MUTUAL INSURANCE COMPANY, et al.,
+L26: PETITIONERS v. DELORES
+L27: SCOTT SULLIVAN et al.
+L28: #### ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+L29: 
+L30: [March 3, 1999]
+L31: 
+L32: Justice Ginsburg, concurring in part and concurring in the judgment.
+L33: I join Part III of the Court’s opinion on the understanding that the Court rejects specifically, and only, respondents’ demands for constant payment of each medical bill, within 30 days of receipt, pending determination of the necessity or reasonableness of the medical treatment. See ante, at 20, n. 13. I do not doubt, however, that due process requires fair procedures for the adjudication of respondents’ claims for workers’ compensation benefits, including medical care. See Logan v.
+L34: Zimmerman Brush Co., 【10†455 U.S. 422】, 428—431 (1982); Tulsa Professional Collection Services, Inc. v. Pope, 【11†485 U.S. 478】, 485 (1988); Brief for United States as Amicus Curiae 21—22.*【12†1】
+L35: Part III disposes of the instant controversy with respect to all insurers, the State Workers’ Insurance Fund as well as the private insurers. I therefore do not join the Court’s extended endeavor, in Part II, to clean up and rein in our “state action” precedent. “It is a fundamental rule of judicial restraint . . . that this Court will not reach constitutional questions in advance of the necessity of deciding them.” Three Affiliated Tribes of Fort Berthold Reservation v. Wold Engineering, P.
+L36: C., 【13†467 U.S. 138】, 157 (1984); see also Ashwander v. TVA, 【14†297 U.S. 288】, 347 (1936) (Brandeis, J., concurring). While this rule is ordinarily invoked to avoid deciding a constitutional question in lieu of a less tall ground for decision, its counsel of restraint is soundly applied to the instant situation: When a case presents two constitutional questions, one of which disposes of the entire case and the other of which does not, resolution of the case-dispositive question should suffice.
+L37: * * *
+L38: ## Notes
+L39: 
+L40: 【15†1.】 * I agree with Justice Stevens that, although Pennsylvania’s original procedure was deficient, the dispute resolution process now in place meets the constitutional requirement. See post, at 2.
+

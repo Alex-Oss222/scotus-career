@@ -1,0 +1,71 @@
+{
+    "stage":  "Historical reconciliation",
+    "case":  "American Manufacturers Mutual Insurance Co. v. Sullivan, No. 97-2000",
+    "cutoff":  "1999-03-03",
+    "coverage":  "Complete frozen neutral and commitments; AGENTS applicable rules; Engine sections 7-9 and 14-15; B_INDEX and B_FOCUSED Sullivan sections; complete Denver Area public entry only; complete two sanitized merits source accounts; ZS L0-51, ZO L0-146 plus supplemental L147-160, ZC L0-40, ZC1 L0-35, ZX L0-44 including every footnote.",
+    "exclusions":  "No Stone supplement, raw comparator split, raw combined brief, Record, private continuity, assignment source, or Git command read.",
+    "new_neutral_facts":  false,
+    "git_commit_claim":  false,
+    "files":  [
+                  {
+                      "path":  "AGENTS.md",
+                      "sha256":  "A9B88CB515E8F305D7C85DEEE83777701C5F09BFDE66AE660A843E685FA49881"
+                  },
+                  {
+                      "path":  "foundation/ENGINE.md",
+                      "sha256":  "505A2D5E30E461C4B945DD2E7BD962FF6C117EDE64914321F90014AFF3B3428C"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_SULLIVAN_NEUTRAL.md",
+                      "sha256":  "5819DBD920EB3DD2F4ABAA2D479E2B539A963D18C9B2CF2D2B3AD166121AB7BD"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_SULLIVAN_COMMITMENTS.md",
+                      "sha256":  "EFDCACF97E552D2743C9F62570E1E64E489C4EF41E978D6E4D59B158DD46B886"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_B_INDEX.md",
+                      "sha256":  "CBBF121E2F617E29D02107132B4FF2E9E560E98F5C6A97482EC9A7B8D9204FB4"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_B_FOCUSED.md",
+                      "sha256":  "2ABD1DD2BE6C57E8F3645BCFEA5F8FC677373D6BC967AE86054856F68E7D1A96"
+                  },
+                  {
+                      "path":  "terms/OT1995/output/OT_1995CHUNK10.md",
+                      "sha256":  "F7DC22C5D03D27D0BD16D2F67BDB1F9EFCFD2002BE4291AC5D4D2F0E36E234C6"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_b/SULLIVAN_PETITIONERS_SOURCE_FACTS.md",
+                      "sha256":  "13A489CB5AF8523A8639F52E6BAEC9A41E3E7018932AE605C97642143D2C1E73"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_b/SULLIVAN_RESPONDENTS_SOURCE_FACTS.md",
+                      "sha256":  "B6FC5A09E6D02965AC36E54E4B4A1B560DDC5805BAA505588718F51AC100CF0A"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZS.web.txt",
+                      "sha256":  "EEC508962D76D21C17625451DA284A57FB4B8C84AD268BB2BF4838C52557E1D5"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZO.web.txt",
+                      "sha256":  "F821FB889D5487C0EF73E1AB2D822961E56364DF4EB843CA07C9F8296B333FDA"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZO.FOOTNOTES.web.txt",
+                      "sha256":  "2D3E0EEE8EAC53869EFA97984BC98FE7089A651099814B51BD24DD0ABB29F149"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZC.web.txt",
+                      "sha256":  "16800FCD047A39711FD23150E51682686E8DCA2299A27936C956F660EB3542BF"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZC1.web.txt",
+                      "sha256":  "8F7A2898DE2DC1629A8492476F99DB8DC6FB6983D9D424AAEF12A7956D3AA097"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_control_comparator/97-2000.ZX.web.txt",
+                      "sha256":  "A9A57EFEFC7010804960E3C53216F3E9F4294A0E81764C9522BCC3ED20F55FAC"
+                  }
+              ]
+}

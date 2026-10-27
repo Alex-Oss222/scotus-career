@@ -1,0 +1,254 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZS.html",
+    "status": 200,
+    "file": "97-7164.ZS.html",
+    "chars": 4396
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZO.html",
+    "status": 200,
+    "file": "97-7164.ZO.html",
+    "chars": 21962
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZC1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZD.html",
+    "status": 200,
+    "file": "97-7164.ZD.html",
+    "chars": 20866
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZD1.html",
+    "status": 200,
+    "file": "97-7164.ZD1.html",
+    "chars": 1629
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-7164.ZPC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZS.html",
+    "status": 200,
+    "file": "97-9217.ZS.html",
+    "chars": 2924
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZO.html",
+    "status": 200,
+    "file": "97-9217.ZO.html",
+    "chars": 12663
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZC.html",
+    "status": 200,
+    "file": "97-9217.ZC.html",
+    "chars": 2549
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZC1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZD.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZD1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-9217.ZPC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZS.html",
+    "status": 200,
+    "file": "97-1536.ZS.html",
+    "chars": 3860
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZO.html",
+    "status": 200,
+    "file": "97-1536.ZO.html",
+    "chars": 11147
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZC1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZD.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZD1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1536.ZPC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZS.html",
+    "status": 200,
+    "file": "96-1793.ZS.html",
+    "chars": 5509
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZO.html",
+    "status": 200,
+    "file": "96-1793.ZO.html",
+    "chars": 26038
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZC1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZD.html",
+    "status": 200,
+    "file": "96-1793.ZD.html",
+    "chars": 14285
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZD1.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/96-1793.ZPC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZS.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZO.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZC.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZC1.html",
+    "status": 200,
+    "file": "97-2000.ZC1.html",
+    "chars": 1732
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZD.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZD1.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZPC.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZS.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZO.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZC1.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZD.html",
+    "status": 200,
+    "file": "97-1184.ZD.html",
+    "chars": 20125
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZD1.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZPC.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZS.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZO.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZC.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZC1.html",
+    "error": "HTTP Error 503: Service Temporarily Unavailable"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZD.html",
+    "error": "[WinError 10054] An existing connection was forcibly closed by the remote host"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZD1.html",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZPC.html",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZS.html",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZO.html",
+    "error": "<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZC.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZC1.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZD.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZD1.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZPC.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  }
+]

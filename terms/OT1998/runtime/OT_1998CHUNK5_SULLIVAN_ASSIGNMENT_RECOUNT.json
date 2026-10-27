@@ -1,0 +1,442 @@
+{
+  "before_date": "1999-03-03",
+  "before_case": "American Manufacturers Mutual Insurance Co. v. Sullivan",
+  "counts": {
+    "Stone-Zsela": 4,
+    "Stevens": 5,
+    "O'Connor": 6,
+    "Scalia": 6,
+    "Kennedy": 5,
+    "Souter": 6,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 5
+  },
+  "last_counted": {
+    "date": "1999-03-02",
+    "case": "Peguero v. United States; No. 97-9217; OT1998.",
+    "record": "peguero_v_united_states_merits_1999-03-02.md",
+    "authors": [
+      "Scalia"
+    ]
+  },
+  "counted_records": [
+    {
+      "date": "1998-10-05",
+      "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
+      "record": "united_states_v_wright_merits_1998-10-05.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1998-10-07",
+      "case": "Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.",
+      "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1998-10-09",
+      "case": "Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.",
+      "record": "hiley_v_barrett_merits_1998-10-09.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1998-10-15",
+      "case": "Peoples Rights Organization, Inc. v. City of Columbus; Sixth Circuit Nos. 96-3468 and 96-3495; 152 F.3d 522. No separately established Supreme Court docket.",
+      "record": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1998-10-22",
+      "case": "United States v. Franklyn / United States v. Gonzalez; Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established.",
+      "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-10-29",
+      "case": "United States v. Griffin / United States v. Langley; Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established.",
+      "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1998-11-03",
+      "case": "Marquez v. Screen Actors Guild, Inc., No. 97-1056.",
+      "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1998-11-05",
+      "case": "NAACP, Los Angeles Branch v. Jones, No. 97-1840; Ninth Circuit No. 96-56455; judgment below, 131 F.3d 1317.",
+      "record": "naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-11-10",
+      "case": "Coalition for Economic Equity v. Wilson; Ninth Circuit Nos. 97-15030 and 97-15031; 122 F.3d 692. No separately established Supreme Court docket.",
+      "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-11-10",
+      "case": "Pfaff v. Wells Electronics, Inc., No. 97-1130.",
+      "record": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-11-12",
+      "case": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768.",
+      "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1998-11-16",
+      "case": "Wright v. Universal Maritime Service Corp., No. 97-889; Fourth Circuit No. 96-2850; reported at 525 U.S. 70.",
+      "record": "wright_v_universal_maritime_service_corp_merits_1998-11-16.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-11-19",
+      "case": "Dodd v. Hood River County, No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219.",
+      "record": "dodd_v_hood_river_county_merits_1998-11-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1998-11-24",
+      "case": "Wisconsin Right to Life, Inc. v. Paradise, No. 98-118; Seventh Circuit No. 97-3668.",
+      "record": "wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1998-12-01",
+      "case": "AT&T Universal Card Services v. Rembert, No. 98-352.",
+      "record": "att_universal_card_services_v_rembert_merits_1998-12-01.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1998-12-01",
+      "case": "Minnesota v. Carter and Minnesota v. Johns, No. 97-1147.",
+      "record": "minnesota_v_carter_and_johns_merits_1998-12-01.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-12-03",
+      "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati; Sixth Circuit Nos. 94-3855 and 94-3973 (merits), No. 94-4280 (fees); 128 F.3d 289.",
+      "record": "equality_foundation_v_cincinnati_merits_1998-12-03.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-12-08",
+      "case": "Knowles v. Iowa, No. 97-7597; 569 N.W.2d 601 (Iowa 1997); reported at 525 U.S. 113.",
+      "record": "knowles_v_iowa_merits_1998-12-08.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1998-12-09",
+      "case": "McClellan Federal Credit Union v. Parker, No. 98-618.",
+      "record": "mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1998-12-14",
+      "case": "Haddle v. Garrison, No. 97-1472; reported at 525 U.S. 121.",
+      "record": "haddle_v_garrison_merits_1998-12-14.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-12-14",
+      "case": "NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128.",
+      "record": "nynex_corp_v_discon_merits_1998-12-14.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-12-16",
+      "case": "City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907.",
+      "record": "city_of_cincinnati_v_kruse_merits_1998-12-16.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-01-07",
+      "case": "McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied.",
+      "record": "mcclellan_v_cablevision_merits_1999-01-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-12",
+      "case": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092.",
+      "record": "buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-01-12",
+      "case": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998.",
+      "record": "el_al_israel_airlines_v_tseng_merits_1999-01-12.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-01-13",
+      "case": "City of West Covina v. Perkins, No. 97-1230.",
+      "record": "city_of_west_covina_v_perkins_merits_1999-01-13.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-01-13",
+      "case": "Marcus v. Iowa Public Television, No. 98-710.",
+      "record": "marcus_v_iowa_public_television_merits_1999-01-13.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-01-14",
+      "case": "State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998.",
+      "record": "state_street_bank_v_signature_financial_group_merits_1999-01-14.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732.",
+      "record": "california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998.",
+      "record": "department_of_the_army_v_blue_fox_merits_1999-01-20.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Humana Inc. v. Forsyth; No. 97-303; OT1998.",
+      "record": "humana_inc_v_forsyth_merits_1999-01-20.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Lopez v. Monterey County; No. 97-1396; Northern District of California No. C-91-20559-RMW.",
+      "record": "lopez_v_monterey_county_merits_1999-01-20.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-01-21",
+      "case": "Citizens for a Constitutional Convention v. Yoshina; No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.",
+      "record": "citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions.",
+      "record": "att_corp_v_iowa_utilities_board_merits_1999-01-25.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "Department of Commerce v. United States House of Representatives; Clinton v. Glavin; Nos. 98-404 and 98-564.",
+      "record": "department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "Hughes Aircraft Co. v. Jacobson; No. 97-1287; Ninth Circuit judgment, 105 F.3d 1288.",
+      "record": "hughes_aircraft_co_v_jacobson_merits_1999-01-25.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-01-28",
+      "case": "Suster v. Marshall, No. 98-737; Sixth Circuit Nos. 96-4048, 96-4115, 96-4287, 96-4380 and 97-3174; 149 F.3d 523. The archived petition's caption is Marshall v. Suster.",
+      "record": "suster_v_marshall_merits_1999-01-28.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-02-04",
+      "case": "Wright v. Ernst & Young LLP, No. 98-783.",
+      "record": "wright_v_ernst_and_young_merits_1999-02-04.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-02-11",
+      "case": "Hart v. Gwadosky; No. 98-676; Maine Supreme Judicial Court No. Ken-98-280.",
+      "record": "hart_v_gwadosky_threshold_1999-02-11.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-02-17",
+      "case": "Boring v. Buncombe County Board of Education, No. 97-1835.",
+      "record": "boring_v_buncombe_county_board_of_education_merits_1999-02-17.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1999-02-18",
+      "case": "John Crane, Inc. v. Abate; No. 98-873.",
+      "record": "john_crane_inc_v_abate_merits_1999-02-18.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-02-23",
+      "case": "National Collegiate Athletic Association v. Smith; No. 98-84.",
+      "record": "national_collegiate_athletic_association_v_smith_merits_1999-02-23.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-02-23",
+      "case": "Your Home Visiting Nurse Services, Inc. v. Shalala; No. 97-1489.",
+      "record": "your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-02-24",
+      "case": "Reno v. American-Arab Anti-Discrimination Committee; No. 97-1252; Ninth Circuit judgment, 119 F.3d 1367.",
+      "record": "reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-02-25",
+      "case": "Minns v. United States; No. 98-903; OT1998.",
+      "record": "minns_v_united_states_merits_1999-02-25.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Arizona Department of Revenue v. Blaze Construction Co.; No. 97-1536; OT1998.",
+      "record": "arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Holloway v. United States; No. 97-7164; OT1998.",
+      "record": "holloway_v_united_states_merits_1999-03-02.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Peguero v. United States; No. 97-9217; OT1998.",
+      "record": "peguero_v_united_states_merits_1999-03-02.md",
+      "authors": [
+        "Scalia"
+      ]
+    }
+  ],
+  "excluded_events": [
+    {
+      "date": "1998-10-13",
+      "case": "United States v. Louisiana (Texas Boundary Case); No. 9, Original.",
+      "record": "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "authors": []
+    },
+    {
+      "date": "1998-12-08",
+      "case": "Mosley v. United States, No. 97-7213.",
+      "record": "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "authors": []
+    },
+    {
+      "date": "1998-12-14",
+      "case": "Calderon v. Coleman, No. 98-437; Ninth Circuit Nos. 97-99013 and 97-99014; District Court No. C89-1906 RMW.",
+      "record": "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "authors": []
+    },
+    {
+      "date": "1998-12-23",
+      "case": "Maine Secretary of State determination concerning the initiative at issue in Hart v. Gwadosky, No. 98-676.",
+      "record": "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "authors": []
+    },
+    {
+      "date": "1999-01-13",
+      "case": "Roberts v. Galen of Virginia, Inc., No. 97-53.",
+      "record": "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "authors": []
+    }
+  ],
+  "source": "Fresh read of each prior effective Record Public Projection Opinion Topology; no prior tally used."
+}

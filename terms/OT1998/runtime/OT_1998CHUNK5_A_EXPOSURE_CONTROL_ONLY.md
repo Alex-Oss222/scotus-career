@@ -1,0 +1,3 @@
+# Control-only exposure receipt
+
+The preflight context inadvertently saw a historical petition-stage action inserted before the Holloway archived petition, and petition-stage action recitations in Peguero and Cedar Rapids merits briefs. No matter-specific merits opinion, merits outcome, rationale or lineup was retrieved. No commitments were modeled. These exposures were promptly reported to control. Facts and source extracts are preserved, but all Group A framing will be validated in a fresh neutral context, followed by fresh independent modeling. The clean context must not receive this receipt or an account of the excluded substance.

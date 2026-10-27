@@ -1,0 +1,1665 @@
+{
+  "id": 6209907,
+  "name": "MURRAY, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS v. CARRIER",
+  "name_abbreviation": "Murray v. Carrier",
+  "decision_date": "1986-06-26",
+  "docket_number": "No. 84-1554",
+  "first_page": "478",
+  "last_page": "526",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "477 U.S. 478"
+    },
+    {
+      "type": "parallel",
+      "cite": "91 L. Ed. 2d 397"
+    },
+    {
+      "type": "parallel",
+      "cite": "106 S. Ct. 2639"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1985-133"
+    },
+    {
+      "type": "vendor",
+      "cite": "1986 U.S. LEXIS 66"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "474 U. S. 898",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6408611,
+        6407432,
+        6407983,
+        6408464,
+        6407347,
+        6407670,
+        6407865,
+        6407549
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/474/0898-08",
+        "/us/474/0898-02",
+        "/us/474/0898-06",
+        "/us/474/0898-07",
+        "/us/474/0898-01",
+        "/us/474/0898-04",
+        "/us/474/0898-05",
+        "/us/474/0898-03"
+      ]
+    },
+    {
+      "cite": "469 U. S. 387",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11959535
+      ],
+      "year": 1985,
+      "pin_cites": [
+        {
+          "parenthetical": "right to effective assistance of counsel applies on an appeal as of right"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/469/0387-01"
+      ]
+    },
+    {
+      "cite": "466 U. S. 648",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204502
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "657, n. 20"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0648-01"
+      ]
+    },
+    {
+      "cite": "407 U. S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9137384
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "205",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/407/0203-01"
+      ]
+    },
+    {
+      "cite": "411 U. S. 233",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9958
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/411/0233-01"
+      ]
+    },
+    {
+      "cite": "371 U. S. 341",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        451181
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/371/0341-01"
+      ]
+    },
+    {
+      "cite": "431 U. S. 145",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1639
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0145-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184490
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "166"
+        },
+        {
+          "page": "170"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0152-01"
+      ]
+    },
+    {
+      "cite": "38 U. Chi. L. Rev. 142",
+      "category": "journals:journal",
+      "reporter": "U. Chi. L. Rev.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "339 U. S. 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        362663
+      ],
+      "year": 1950,
+      "pin_cites": [
+        {
+          "page": "204"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/339/0200-01"
+      ]
+    },
+    {
+      "cite": "455 U. S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306412
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "518"
+        },
+        {
+          "page": "547, n. 17",
+          "parenthetical": "Stevens, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0509-01"
+      ]
+    },
+    {
+      "cite": "446 U. S. 335",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6182598
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "344"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0335-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300626
+      ],
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "486"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/344/0443-01"
+      ]
+    },
+    {
+      "cite": "466 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 4,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "690"
+        },
+        {
+          "page": "693-696"
+        },
+        {
+          "page": "697"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 11,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "130"
+        },
+        {
+          "page": "131"
+        },
+        {
+          "page": "133"
+        },
+        {
+          "page": "133-134",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "128"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "129"
+        },
+        {
+          "page": "135"
+        },
+        {
+          "page": "131"
+        },
+        {
+          "page": "134, n. 43"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "468 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336769
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "13"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "11"
+        },
+        {
+          "page": "16"
+        },
+        {
+          "page": "10-11"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0001-01"
+      ]
+    },
+    {
+      "cite": "304 U. S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "year": 1938,
+      "pin_cites": [
+        {
+          "page": "464"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "372 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "438"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "425 U. S. 536",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179826
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "542",
+          "parenthetical": "requiring \"not only a showing of 'cause' for the defendant's failure to challenge the composition of the grand jury before trial, but also a showing of actual prejudice\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0536-01"
+      ]
+    },
+    {
+      "cite": "754 F. 2d 520",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        288432
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/754/0520-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "403-404",
+          "parenthetical": "Hall, J., dissenting"
+        },
+        {
+          "page": "405"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "373 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "year": 1963,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "724 F. 2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1920264
+      ],
+      "weight": 7,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "399"
+        },
+        {
+          "page": "400"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "402"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/724/0396-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 8,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "87-88"
+        },
+        {
+          "page": "91, n. 14"
+        },
+        {
+          "page": "87"
+        },
+        {
+          "page": "88, n. 12"
+        },
+        {
+          "page": "87"
+        },
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "439 U. S. 1076",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11446849,
+        11446947,
+        11447043,
+        11446819,
+        11446791,
+        11447209,
+        11446768,
+        11446995,
+        11446869,
+        11446906,
+        11447160,
+        11447098,
+        11446749
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/1076-05",
+        "/us/439/1076-08",
+        "/us/439/1076-10",
+        "/us/439/1076-04",
+        "/us/439/1076-03",
+        "/us/439/1076-13",
+        "/us/439/1076-02",
+        "/us/439/1076-09",
+        "/us/439/1076-06",
+        "/us/439/1076-07",
+        "/us/439/1076-12",
+        "/us/439/1076-11",
+        "/us/439/1076-01"
+      ]
+    },
+    {
+      "cite": "355 U. S. 155",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6163328
+      ],
+      "pin_cites": [
+        {
+          "page": "162-165"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/355/0155-01"
+      ]
+    },
+    {
+      "cite": "369 U. S. 506",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169152
+      ],
+      "pin_cites": [
+        {
+          "page": "513-517"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/369/0506-01"
+      ]
+    },
+    {
+      "cite": "334 U. S. 266",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157880
+      ],
+      "pin_cites": [
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/334/0266-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 561",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300671
+      ],
+      "pin_cites": [
+        {
+          "page": "573"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/344/0561-01"
+      ]
+    },
+    {
+      "cite": "365 U. S. 534",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167547
+      ],
+      "pin_cites": [
+        {
+          "page": "547-548"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/365/0534-01"
+      ]
+    },
+    {
+      "cite": "14 Stat. 385",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "1 Stat. 81",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "157 F. 2d 811",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1130868
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "813"
+        },
+        {
+          "page": "813"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/157/0811-01"
+      ]
+    },
+    {
+      "cite": "261 U. S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137316
+      ],
+      "weight": 2,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/261/0086-01"
+      ]
+    },
+    {
+      "cite": "237 U. S. 309",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        631880
+      ],
+      "year": 1915,
+      "pin_cites": [
+        {
+          "page": "346",
+          "parenthetical": "Holmes, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/237/0309-01"
+      ]
+    },
+    {
+      "cite": "371 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        451237
+      ],
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/371/0236-01"
+      ]
+    },
+    {
+      "cite": "411 U. S. 345",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10231
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "349-350"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/411/0345-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a72243",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "opinion_index": 1
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2241",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)(3)"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "394 U. S. 286",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170863
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "290-291"
+        },
+        {
+          "page": "291"
+        },
+        {
+          "page": "291"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/394/0286-01"
+      ]
+    },
+    {
+      "cite": "427 U. S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6174831
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/427/0097-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6205331
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "675",
+          "parenthetical": "\"The Brady rule is based on the requirement of due process. Its purpose is ... to ensure that a miscarriage of justice does not occur\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/473/0667-01"
+      ]
+    },
+    {
+      "cite": "411 U. S. 233",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9958
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "239-240"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/411/0233-01"
+      ]
+    },
+    {
+      "cite": "371 U. S. 341",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        451181
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/371/0341-01"
+      ]
+    },
+    {
+      "cite": "455 U. S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306412
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "543-544",
+          "parenthetical": "Stevens, J., dissenting"
+        },
+        {
+          "page": "547-548, n. 17",
+          "parenthetical": "Stevens, J., dissenting"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/455/0509-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300626
+      ],
+      "weight": 7,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "498"
+        },
+        {
+          "page": "453"
+        },
+        {
+          "page": "485-486"
+        },
+        {
+          "page": "552-554"
+        },
+        {
+          "page": "500"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/344/0443-01"
+      ]
+    },
+    {
+      "cite": "466 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "697",
+          "parenthetical": "\"fundamental fairness is the central concern of the writ of habeas corpus\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "134, n. 43"
+        },
+        {
+          "page": "126",
+          "parenthetical": "\"Today, as in prior centuries, the writ is a bulwark against convictions that violate 'fundamental fairness'\""
+        },
+        {
+          "page": "136, n. 1",
+          "parenthetical": "Stevens, J., concurring in part and dissenting in part"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "468 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336769
+      ],
+      "weight": 6,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "14"
+        },
+        {
+          "page": "10-11"
+        },
+        {
+          "page": "15",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "9"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/468/0001-01"
+      ]
+    },
+    {
+      "cite": "372 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 7,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "461-462",
+          "parenthetical": "dissenting opinion"
+        },
+        {
+          "page": "462",
+          "parenthetical": "Harlan, J., dissenting"
+        },
+        {
+          "page": "426-427"
+        },
+        {
+          "page": "398-399"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "425 U. S. 536",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179826
+      ],
+      "weight": 3,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "542"
+        },
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/425/0536-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "373 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716714
+      ],
+      "weight": 5,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "87"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/373/0083-01"
+      ]
+    },
+    {
+      "cite": "724 F. 2d 396",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1920264
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "399",
+          "parenthetical": "\"Carrier urges that the standard which should have been employed by the court in delimiting discovery was whether the evidence specifically requested was 'material ... to guilt,' Brady, 373 U. S., at 87 . . . not whether it was exculpatory\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/724/0396-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 14,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "84-85"
+        },
+        {
+          "page": "90-91"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "94-97",
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "page": "135"
+        },
+        {
+          "page": "87-88"
+        },
+        {
+          "page": "94-96",
+          "parenthetical": "footnotes omitted; emphasis added"
+        },
+        {
+          "page": "97",
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "87-88"
+        },
+        {
+          "page": "88, n. 12"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "428 U. S. 280",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177464
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "305",
+          "parenthetical": "opinion of Stewart, Powell, and Stevens, JJ."
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/428/0280-01"
+      ]
+    },
+    {
+      "cite": "468 U. S. 897",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340969
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "908-917"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/468/0897-01"
+      ]
+    },
+    {
+      "cite": "407 U. S. 225",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9137687
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "242"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/407/0225-01"
+      ]
+    },
+    {
+      "cite": "422 U. S. 922",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9513
+      ],
+      "year": 1975,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/422/0922-01"
+      ]
+    },
+    {
+      "cite": "430 U. S. 705",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12127286
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "709-712"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/430/0705-01"
+      ]
+    },
+    {
+      "cite": "415 U. S. 452",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177476
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "460-462"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/415/0452-01"
+      ]
+    },
+    {
+      "cite": "360 U. S. 185",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8938
+      ],
+      "year": 1959,
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/360/0185-01"
+      ]
+    },
+    {
+      "cite": "424 U. S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027510
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "813"
+        },
+        {
+          "page": "817"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/424/0800-01"
+      ]
+    },
+    {
+      "cite": "319 U. S. 315",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        366586
+      ],
+      "year": 1943,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/319/0315-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11711728
+      ],
+      "year": 1971,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/401/0037-01"
+      ]
+    },
+    {
+      "cite": "379 U. S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11731118
+      ],
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "447-449"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/379/0443-01"
+      ]
+    },
+    {
+      "cite": "316 U. S. 101",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        368083
+      ],
+      "year": 1942,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/316/0101-01"
+      ]
+    },
+    {
+      "cite": "261 U. S. 86",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137316
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/261/0086-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 152",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184490
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "178-187",
+          "parenthetical": "Brennan, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/456/0152-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300626
+      ],
+      "weight": 2,
+      "year": 1953,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/344/0443-01"
+      ]
+    },
+    {
+      "cite": "456 U. S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 6,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "126"
+        },
+        {
+          "page": "126-129"
+        },
+        {
+          "page": "137-151",
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "page": "128"
+        },
+        {
+          "page": "135"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "468 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336769
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "9"
+        },
+        {
+          "page": "10-11"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "10"
+        },
+        {
+          "page": "13"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/468/0001-01"
+      ]
+    },
+    {
+      "cite": "304 U. S. 458",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        10805
+      ],
+      "year": 1938,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/304/0458-01"
+      ]
+    },
+    {
+      "cite": "372 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 6,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "426-435"
+        },
+        {
+          "page": "438"
+        },
+        {
+          "page": "432, 438-440"
+        },
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "425 U. S. 536",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179826
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/425/0536-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(b)",
+          "parenthetical": "exhaustion of state remedies"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "433 U. S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 10,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "83"
+        },
+        {
+          "page": "83"
+        },
+        {
+          "page": "103-104"
+        },
+        {
+          "page": "87-88"
+        },
+        {
+          "page": "87"
+        },
+        {
+          "page": "88-91"
+        },
+        {
+          "page": "99-118",
+          "parenthetical": "Brennan, J., dissenting"
+        },
+        {
+          "page": "91, n. 14"
+        },
+        {
+          "page": "90"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2593,
+    "char_count": 98889,
+    "ocr_confidence": 0.69,
+    "pagerank": {
+      "raw": 2.277721091094503e-05,
+      "percentile": 0.9998804949632198
+    },
+    "sha256": "0d3e4c309de517ff554b11477ae649fb82e8f3c57d2bc8dcbf35446c914d55bc",
+    "simhash": "1:b05aa7f7760eac3f",
+    "word_count": 16005
+  },
+  "last_updated": "2024-02-27T22:03:20.902174+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "O\u2019CONNOR, J., delivered the opinion of the Court, in which BURGER, C. J., and White, Powell, and Rehnquist, JJ., joined. Stevens, J., filed an opinion concurring in the judgment, in which Blackmun, J., joined, post, p. 497. Brennan, J., filed a dissenting opinion, in which Marshall, J., joined, post, p. 516."
+    ],
+    "parties": [
+      "MURRAY, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS v. CARRIER"
+    ],
+    "opinions": [
+      {
+        "text": "Justice O\u2019Connor\ndelivered the opinion of the Court.\nWe granted certoriari in this case to consider whether a federal habeas petitioner can show cause for a procedural default by establishing that competent defense counsel inadvertently failed to raise the substantive claim of error rather than deliberately withholding it for tactical reasons.\nI\nRespondent Clifford Carrier was convicted of rape and abduction by a Virginia jury in 1977. Before trial, respondent\u2019s court-appointed counsel moved for discovery of the victim\u2019s statements to police describing \u201cher assailants, the vehicle the assailants were driving, and the location of where the alleged rape took place.\u201d 2 Record 11. The presiding judge denied the motion by letter to counsel after examining the statements in camera and determining that they contained no exculpatory evidence. Id., at 31. Respondent\u2019s counsel made a second motion to discover the victim\u2019s statements immediately prior to trial, which the trial judge denied for the same reason after conducting his own in camera examination. Tr. 151-152.\nAfter respondent was convicted, his counsel filed a notice of appeal to the Virginia Supreme Court assigning seven errors, of which the fifth was:\n\u201cDid the trial judge err by not permitting defendant\u2019s counsel to examine the written statements of the victim prior to trial, and during the course of the trial?\u201d 2 Record 83.\nWithout consulting respondent, counsel subsequently submitted the required petition for appeal but failed to include this claim, notwithstanding that Virginia Supreme Court Rule 5:21 provides that \u201c[ojnly errors assigned in the petition for appeal will be noticed by this Court and no error not so assigned will be admitted as a ground for reversal of a decision below.\u201d The Virginia Supreme Court refused the appeal and this Court denied certiorari. Carrier v. Virginia, 439 U. S. 1076 (1979).\nA year later respondent, by this time proceeding pro se, filed a state habeas corpus petition claiming that he had been denied due process of law by the prosecution\u2019s withholding of the victim\u2019s statements. The State sought dismissal of his petition on the ground that respondent was barred from presenting his due process discovery claim on collateral review because he failed to raise that claim on appeal. The state ha-beas court dismissed the petition \u201cfor the reasons stated in the Motion to Dismiss,\u201d 1 Record, Doc. No. 12, and the Virginia Supreme Court denied certiorari.\nRespondent next filed a pro se habeas petition in the District Court for the Eastern District of Virginia, renewing his due process discovery claim as grounds for relief. The State filed a motion to dismiss asserting that respondent\u2019s failure to raise the issue on direct appeal was a procedural default barring federal habeas review under Wainwright v. Sykes, 433 U. S. 72 (1977), and that respondent had not exhausted his state remedies because he could bring an ineffective assistance of counsel claim in the state courts to establish that his procedural default should be excused. 1 Record, Doc. No. 3. The United States Magistrate to whom the case was referred recommended dismissal by virtue of the procedural default and also ruled that respondent had not exhausted his state remedies. In reply to the Magistrate\u2019s report, respondent alleged that his procedural default was \u201cdue to ineffective assistance of counsel during the filing of his appeal.\u201d App. 11. The District Court approved the Magistrate\u2019s report, holding the discovery claim barred by the procedural default and indicating that respondent should establish cause for that default in the state courts.\nAt oral argument on appeal to the Court of Appeals for the Fourth Circuit, respondent abandoned any claim of ineffective assistance of counsel but asserted that counsel had mistakenly omitted his discovery claim from the petition for appeal and that this error was cause for his default. A divided panel of the Court of Appeals reversed and remanded. Carrier v. Hutto, 724 F. 2d 396 (1983). The court construed respondent\u2019s objection to the denial of discovery as having rested throughout on a contention that Brady v. Maryland, 373 U. S. 83 (1963), requires the prosecution to disclose any evidence that might be material to guilt whether or not it is exculpatory, and concluded that when respondent\u2019s counsel omitted this discovery claim from the petition for review \u201cthe issue was lost for purposes of direct and collateral review.\u201d 724 F. 2d, at 399. The court framed the issue before it as whether \u201ca single act or omission by counsel, insufficient by itself to contravene the sixth amendment, [can] satisfy the \u2018cause\u2019 prong of the exception to preclusive procedural default discussed in Waimvright?\u201d Id., at 400. In answering this question, the court drew a dispositive distinction between procedural defaults resulting from deliberate tactical decisions and those resulting from ignorance or inadvertence. Id., at 401. The court determined that only in the latter category does an attorney\u2019s error constitute cause because, whereas a tactical decision implies that counsel has, at worst, \u201creasonably but incorrectly exercisefd] her judgment,\u201d ignorance or oversight implies that counsel \u201cfail[ed] to exercise it at all, in dereliction of the duty to represent her client.\u201d Ibid. Thus, in order to establish cause a federal habeas petitioner need only satisfy the district court \u201cthat the failure to object or to appeal his claim was the product of his attorney\u2019s ignorance or oversight, not a deliberate tactic.\u201d Ibid. Accordingly, the Court of Appeals remanded to the District Court:\n\u201c[Although the likelihood of attorney error appears very great in this case, we lack testimony from Carrier\u2019s counsel which might disclose a strategic reason for failing to appeal the Brady issue. The question of counsel\u2019s motivation is one of fact for the district court to resolve upon taking further evidence.\u201d Id., at 402.\nThe court also ruled that the District Court erred in suggesting that respondent should establish cause for the default in the state courts. \u201cThe exhaustion requirement of 28 U. S. C. \u00a7 2254 pertains to independent claims for habeas relief, not to the proffer of Waimvright cause and prejudice.\u201d Ibid. Since respondent did not allege ineffective assistance of counsel as an independent basis for habeas relief, the case presented no exhaustion question.\nThe dissenting judge believed that the petition should have been dismissed for failure to exhaust state remedies because respondent had never presented his discovery claim as a denial of due process in the state courts, id., at 403-404 (Hall, J., dissenting), and differed with the majority\u2019s interpretation of the cause standard because \u201c[it] will ultimately allow the exception to swallow the rule.\u201d Id., at 405. The State sought rehearing, and the en banc Court of Appeals adopted the panel majority\u2019s decision, with four judges dissenting. Carrier v. Hutto, 754 F. 2d 520 (1985). We now reverse and remand.\nI \u2014 I u_i\nWainwright v. Sykes held that a federal habeas petitioner who has failed to comply with a State\u2019s contemporaneous-objection rule at trial must show cause for the procedural default and prejudice attributable thereto in order to obtain review of his defaulted constitutional claim. 433 U. S., at 87. See also Francis v. Henderson, 425 U. S. 536 (1976). In so holding, the Court explicitly rejected the standard described in Fay v. Noia, 372 U. S. 391 (1963), under which a federal habeas court could refuse to review a defaulted claim only if \u201can applicant ha[d] deliberately by-passed the orderly procedure of the state courts,\u201d id., at 438, by personal waiver of the claim amounting to \u201c \u2018an intentional relinquishment or abandonment of a known right or privilege.\u2019\u201d Id., at 439 (quoting Johnson v. Zerbst, 304 U. S. 458, 464 (1938)). See Wainwright v. Sykes, 433 U. S., at 87-88. At a minimum, then, Wainwright v. Sykes plainly implied that default of a constitutional claim by counsel pursuant to a trial strategy or tactical decision would, absent extraordinary circumstances, bind the habeas petitioner even if he had not personally waived that claim. See id., at 91, n. 14; Reed v. Ross, 468 U. S. 1, 13 (1984). Beyond that, the Court left open \u201cfor resolution in future decisions the precise definition of the \u2018cause\u2019-and-\u2018prejudice\u2019 standard.\u201d 433 U. S., at 87.\nWe revisited the cause and prejudice test in Engle v. Isaac, 456 U. S. 107 (1982). Like Waimvright v. Sykes, Engle involved claims that were procedurally defaulted at trial. In seeking to establish cause for their defaults, the prisoners argued that \u201cthey could not have known at the time of their trials\u201d of the substantive basis for their constitutional claims, which were premised on In re Winship, 397 U. S. 358 (1970). Engle, 456 U. S., at 130. Without deciding \u201cwhether the novelty of a constitutional claim ever establishes cause for a failure to object,\u201d id., at 131, we rejected this contention because we could not conclude that the legal basis for framing the prisoners\u2019 constitutional claims was unavailable at the time. Id., at 133. In language that bears directly on the present case, we said:\n\u201cWe do not suggest that every astute counsel would have relied upon Winship to assert the unconstitutionally of a rule saddling criminal defendants with the burden of proving an affirmative defense. Every trial presents a myriad of possible claims. Counsel might have overlooked or chosen to omit respondents\u2019 due process argument while pursuing other avenues of defense. We have long recognized, however, that the Constitution guarantees criminal defendants only a fair trial and a competent attorney. It does not insure that defense counsel will recognize and raise every conceivable constitutional claim. Where the basis of a constitutional claim is available, and other defense counsel have perceived and litigated that claim, the demands of comity and finality counsel against labeling alleged unawareness of the objection as a cause for a procedural default.\u201d Id., at 133-134 (footnote omitted).\nThe thrust of this part of our decision in Engle is unmistakable: the mere fact that counsel failed to recognize the factual or legal basis for a claim, or failed to raise the claim despite recognizing it, does not constitute cause for a procedural default. At least with respect to defaults that occur at trial, the Court of Appeals\u2019 holding that ignorant or inadvertent attorney error is cause for any resulting procedural default is plainly inconsistent with Engle. It is no less inconsistent with the purposes served by the cause and prejudice standard. That standard rests not only on the need to deter intentional defaults but on a judgment that the costs of federal ha-beas review \u201care particularly high when a trial default has barred a prisoner from obtaining adjudication of his constitutional claim in the state courts.\u201d Engle, 456 U. S., at 128. Those costs, which include a reduction in the finality of litigation and the frustration of \u201cboth the States\u2019 sovereign power to punish offenders and their good-faith attempts to honor constitutional rights,\u201d ibid., are heightened in several respects when a trial default occurs: the default deprives the trial court of an opportunity to correct any error without retrial, detracts from the importance of the trial itself, gives state appellate courts no chance to review trial errors, and \u201cexacts an extra charge by undercutting the State\u2019s ability to enforce its procedural rules.\u201d Id., at 129. Clearly, these considerable costs do not disappear when the default stems from counsel\u2019s ignorance or inadvertence rather than from a deliberate decision, for whatever reason, to withhold a claim.\nIndeed, the rule applied by the Court of Appeals would significantly increase the costs associated with a procedural default in many cases. In order to determine whether there was cause for a procedural default, federal habeas courts would routinely be required to hold evidentiary hearings to determine what prompted counsel\u2019s failure to raise the claim in question. While the federal habeas courts would no doubt strive to minimize the burdens to all concerned through the use of affidavits or other simplifying procedures, we are not prepared to assume that these costs would be negligible, particularly since, as we observed in Strickland v. Washington, 466 U. S. 668, 690 (1984), \u201c[intensive scrutiny of counsel. . . could dampen the ardor and impair the independence of defense counsel, discourage the acceptance of assigned cases, and undermine the trust between attorney and client.\u201d Nor will it always be easy to classify counsel\u2019s behavior in accordance with the deceptively simple categories propounded by the Court of Appeals. Does counsel act out of \u201cignorance,\u201d for example, by failing to raise a claim for tactical reasons after mistakenly assessing its strength on the basis of an incomplete acquaintance with the relevant precedent? The uncertain dimensions, of any exception for \u201cinadvertence\u201d or \u201cignorance\u201d furnish an additional reason for rejecting it.\nWe think, then, that the question of cause for a procedural default does not turn on whether counsel erred or on the kind of error counsel may have made. So long as a defendant is represented by counsel whose performance is not constitutionally ineffective under the standard established in Strickland v. Washington, supra, we discern no inequity in requiring him to bear the risk of attorney error that results in a procedural default. Instead, we think that the existence of cause for a procedural default must ordinarily turn on whether the prisoner can show that some objective factor external to the defense impeded counsel\u2019s efforts to comply with the State\u2019s procedural rule. Without attempting an exhaustive catalog of such objective impediments to compliance with a procedural rule, we note that a showing that the factual or legal basis for a claim was not reasonably available to counsel, see Reed v. Ross, 468 U. S., at 16, or that \u201csome interference by officials,\u201d Brown v. Allen, 344 U. S. 443, 486 (1953), made compliance impracticable, would constitute cause under this standard.\nSimilarly, if the procedural default is the result of ineffective assistance of counsel, the Sixth Amendment itself requires that responsibility for the default be imputed to the State, which may not \u201cconduc[t] trials at which persons who face incarceration must defend themselves without adequate legal assistance.\u201d Cuyler v. Sullivan, 446 U. S. 335, 344 (1980). Ineffective assistance of counsel, then, is cause for a procedural default. However, we think that the exhaustion doctrine, which is \u201cprincipally designed to protect the state courts\u2019 role in the enforcement of federal law and prevent disruption of state judicial proceedings,\u201d Rose v. Lundy, 455 U. S. 509, 518 (1982), generally requires that a claim of ineffective assistance be presented to the state courts as an independent claim before it may be used to establish cause for a procedural default. The question whether there is cause for a procedural default does not pose any occasion for applying the exhaustion doctrine when the federal habeas court can adjudicate the question of cause \u2014 a question of federal law\u2014 without deciding an independent and unexhausted constitutional claim on the merits. But if a petitioner could raise his ineffective assistance claim for the first time on federal ha-beas in order to show cause for a procedural default, the federal habeas court would find itself in the anomalous position of adjudicating an unexhausted constitutional claim for which state court review might still be available. The principle of comity that underlies the exhaustion doctrine would be ill served by a rule that allowed a federal district court \u201cto upset a state court conviction without an opportunity to the state courts to correct a constitutional violation,\u201d Darr v. Burford, 339 U. S. 200, 204 (1950), and that holds true whether an ineffective assistance claim is asserted as cause for a procedural default or denominated as an independent ground for habeas relief.\nIt is clear that respondent failed to show or even allege cause for his procedural default under this standard for cause, which Engle squarely supports. Respondent argues nevertheless that his case is not controlled by Engle because it involves a procedural default on appeal rather than at trial. Respondent does not dispute, however, that the cause and prejudice test applies to procedural defaults on appeal, as we plainly indicated in Reed v. Ross, 468 U. S., at 11. Reed, which involved a claim that was defaulted on appeal, held that a habeas petitioner could establish cause for a procedural default if his claim is \u201cso novel that its legal basis is not reasonably available to counsel,\u201d id., at 16. That holding would have been entirely unnecessary to the disposition of the prisoner\u2019s claim if the cause and prejudice test were inapplicable to procedural defaults on appeal.\nThe distinction respondent would have us draw must therefore be made, if at all, in terms of the content of the cause requirement as applied to procedural defaults on appeal. Accordingly, respondent asks us to affirm the Court of Appeals\u2019 judgment on the narrow ground that even if counsel\u2019s ignorance or inadvertence does not constitute cause for a procedural default at trial, it does constitute cause for a procedural default on appeal. In support of this distinction, respondent asserts that the concerns that underlie the cause and prejudice test are not present in the case of defaults on appeal. A default on appeal, he maintains, does not detract from the significance of the trial or from the development of a full trial record, or deprive the trial court of an opportunity to correct error without the need for retrial. Moreover, unlike the rapid pace of trial, in which it is a matter of necessity that counsel\u2019s decisions bind the defendant, \u201cthe appellate process affords the attorney time for reflection, research, and full consultation with his client.\u201d Brief for Respondent 19. Finally, respondent suggests that there is no likelihood that an attorney will preserve an objection at trial yet choose to withhold it on appeal in order to \u201csandbag\u201d the prosecution by raising the claim on federal habeas if relief is denied by the state courts.\nThese arguments are unpersuasive. A State\u2019s procedural rules serve vital purposes at trial, on appeal, and on state collateral attack. The important role of appellate procedural rules is aptly captured by the Court\u2019s description in Reed v. Ross of the purposes served by the procedural rule at issue there, which required the defendant initially to raise his legal claims on appeal rather than on postconviction review:\n\u201cIt affords the state courts the opportunity to resolve the issue shortly after trial, while evidence is still available both to assess the defendant\u2019s claim and to retry the defendant effectively if he prevails in his appeal. See Friendly, Is Innocence Irrelevant? Collateral Attack on Criminal Judgments, 38 U. Chi. L. Rev. 142, 147 (1970). This type of rule promotes not only the accuracy and efficiency of judicial decisions, but also the finality of those decisions, by forcing the defendant to litigate all of his claims together, as quickly after trial as the docket will allow, and while the attention of the appellate court is focused on his case.\u201d 468 U. S., at 10-11.\nThese legitimate state interests, which are manifestly furthered by the comparable procedural rule at issue in this case, warrant our adherence to the conclusion to which they led the Court in Reed v. Ross \u2014 that the cause and prejudice test applies to defaults on appeal as to those at trial.\nWe likewise believe that the standard for cause should not vary depending on the timing of a procedural default or on the strength of an uncertain and difficult assessment of the relative magnitude of the benefits attributable to the state procedural rules that attach at each successive stage of the judicial process. \u201cEach State\u2019s complement of procedural rules . . . channels], to the extent possible, the resolution of various types of questions to the stage of the judicial process at which they can be resolved most fairly and efficiently.\u201d Id., at 10. It is apparent that the frustration of the State\u2019s interests that occurs when an appellate procedural rule is broken is not significantly diminished when counsel\u2019s breach results from ignorance or inadvertence rather than a deliberate decision, tactical or not, to abstain from raising the claim. Failure to raise a claim on appeal reduces the finality of appellate proceedings, deprives the appellate court of .an opportunity to review trial error, and \u201cundercuts] the State\u2019s ability to enforce its procedural rules.\u201d Engle, 456 U. S., at 129. As with procedural defaults at trial, these costs are imposed on the State regardless of the kind of attorney error that led to the procedural default. Nor do we agree that the possibility of \u201csandbagging\u201d vanishes once a trial has ended in conviction, since appellate counsel might well conclude that the best strategy is to select a few promising claims for airing on appeal, while reserving others for federal habeas review should the appeal be unsuccessful. Moreover, we see little reason why counsel\u2019s failure to detect a colorable constitutional claim should be treated differently from a deliberate but equally prejudicial failure by counsel to raise such a claim. The fact that the latter error can be characterized as a misjudgment, while the former is more easily described as an oversight, is much too tenuous a distinction to justify a regime of evidentiary hearings into counsel\u2019s state of mind in failing to raise a claim on appeal.\nThe real thrust of respondent\u2019s arguments appears to be that on appeal it is inappropriate to hold defendants to the errors of their attorneys. Were we to accept that proposition, defaults on appeal would presumably be governed by a rule equivalent to Fay v. Noia\u2019s \u201cdeliberate bypass\u201d standard, under which only personal waiver by the defendant would require enforcement of a procedural default. We express no opinion as to whether counsel\u2019s decision not to take an appeal at all might require treatment under such a standard, see Wainwright v. Sykes, 433 U. S., at 88, n. 12, but, for the reasons already given, we hold that counsel\u2019s failure to raise a particular claim on appeal is to be scrutinized under the cause and prejudice standard when that failure is treated as a procedural default by the state courts. Attorney error short of ineffective assistance of counsel does not constitute cause for a procedural default even when that default occurs on appeal rather than at trial. To the contrary, cause for a procedural default on appeal ordinarily requires a showing of some external impediment preventing counsel from constructing or raising the claim.\nI \u2014 I ) \u2014 4 1 \u2014 4\nConcurring in the judgment, Justice Stevens contends that our decision today erects an unwarranted procedural barrier to the correction through federal habeas corpus of violations of fundamental constitutional rights that have resulted in a miscarriage of justice. The cause and prejudice test, in his view, \u201cmust be considered within an overall inquiry into justice,\u201d post, at 504, which requires consideration in every case of the character of the constitutional claim. If the federal right asserted is of \u201cfundamental importance,\u201d post, at 499, or if a violation of that right \u201ccalls into question the accuracy of the determination of . . . guilt,\u201d ibid., Justice Stevens would then balance \u201cthe nature and strength of the constitutional claim\u201d and \u201cthe nature and strength of the state procedural rule that has not been observed.\u201d Post, at 506.\nAt the outset, it should be noted that this balancing is more apparent than real, for the concurrence makes plain that the controlling consideration must be whether the petitioner was denied \u201c\u2018fundamental fairness in the state-court proceedings.\u2019\u201d Post, at 506, n. 13 (quoting Rose v. Lundy, 455 U. S. 509, 547, n. 17 (1982) (Stevens, J., dissenting)). And, while Justice Stevens argues at some length that an appellate default should be given less weight than a trial default in applying the balancing process he proposes, it is hard to believe that this distinction would make any difference given his simultaneous insistence on \u201ccarefully preserving] the exception which enables the federal writ to grant relief in cases of manifest injustice,\u201d post, at 515 \u2014 an exception that he clearly would endorse regardless of the timing of the default.\nThe effect of such a reworking of the cause and prejudice test would essentially be to dispense with the requirement that the petitioner show cause and instead to focus exclusively on whether there has been a \u201cmanifest injustice\u201d or a denial of \u201cfundamental fairness.\u201d We are not told whether this inquiry would require the same showing of actual prejudice that is required by the cause and prejudice test as interpreted in Engle and in United States v. Frady, 456 U. S. 152 (1982), but the thrust of the concurrence leaves little doubt that this is so. The showing of prejudice required under Wainwright v. Sykes is significantly greater than that necessary under \u201cthe more vague inquiry suggested by the words \u2018plain error.\u2019\u201d Engle, 456 U. S., at 135; Frady, supra, at 166. See also Henderson v. Kibbe, 431 U. S. 145, 154 (1977). The habeas petitioner must show \u201cnot merely that the errors at. . . trial created a possibility of prejudice, but that they worked to his actual and substantial disadvantage, infecting his entire trial with error of constitutional dimensions.\u201d Frady, supra, at 170. Such a showing of pervasive actual prejudice can hardly be thought to constitute anything other than a showing that the prisoner was denied \u201cfundamental fairness\u201d at trial. Since, for Justice Stevens, a \u201cconstitutional claim that implicates \u2018fundamental fairness\u2019 . . . compels review regardless of possible procedural defaults,\u201d post, at 501, n. 8, it follows that a showing of prejudice would invariably make a showing of cause unnecessary.\nAs the concurrence acknowledges, Engle expressly rejected this contention that a showing of actual prejudice \u201cshould permit relief even in the absence of cause.\u201d 456 U. S., at 134, n. 43. It may be true that the former Rule 12(b)(2) of the Federal Rules of Criminal Procedure, as interpreted in Shotwell Mfg. Co. v. United States, 371 U. S. 341 (1963), and Davis v. United States, 411 U. S. 233 (1973), treated prejudice as a component of the inquiry into whether there was cause for noncompliance with that rule. But, while the cause and prejudice test adopted in Wainwright v. Sykes finds its antecedents in cases interpreting Rule 12(b)(2), the Court in Wainwright v. Sykes declared that it was applying \u201cthe rule of Francis v. Henderson . . . barring federal habeas review absent a showing of \u2018cause\u2019 and \u2018prejudice\u2019 attendant to a state procedural waiver.\u201d 433 U. S., at 87. In Francis, the Court could not have been clearer that both cause and prejudice must be shown, at least in a habeas corpus proceeding challenging a state court conviction. 425 U. S., at 542 (requiring \u201cnot only a showing of \u2018cause\u2019 for the defendant\u2019s failure to challenge the composition of the grand jury before trial, but also a showing of actual prejudice\u201d). We deal here with habeas review of a state court conviction, and at least three decisions of this Court \u2014 Francis, Sykes, and Engle \u2014 axe unambiguously contrary to the approach taken in the concurrence. We are unprepared, in the face of this weight of authority and in view of the principles of comity and finality these decisions reflect, to reduce the cause requirement to the vestigial role Justice Stevens envisions for it.\nMoreover, although neither Francis nor Wainwright v. Sykes involved a constitutional claim that directly called into question the accuracy of the determination of the petitioner\u2019s guilt, the defaulted claims in Engle, no less than respondent\u2019s claim in this case, did involve issues bearing on the reliability of the verdict. In re Winship, 397 U. S. 358 (1970), which was \u201cthe basis for [the prisoners\u2019] constitutional claim\u201d in Engle, supra, at 131, holds that \u201cthe Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.\u201d Winship, supra, at 364. In Ivan V. v. City of New York, 407 U. S. 203, 205 (1972) (per curiam), the Court held, the rule in Winship to be retroactive, because \u201cthe major purpose of the constitutional standard of proof beyond a reasonable doubt announced in Winship was to overcome an aspect of a criminal trial that substantially impairs the truth-finding function.\u201d Consequently, our rejection in Engle of the contention advanced today \u2014 that cause need not be shown if actual prejudice is shown \u2014 is fully applicable to constitutional claims that call into question the reliability of an adjudication of legal guilt.\nHowever, as we also noted in Engle, \u201c[i]n appropriate cases\u201d the principles of comity and finality that inform the concepts of cause and prejudice \u201cmust yield to the imperative of correcting a fundamentally unjust incarceration.\u201d 456 U. S., at 135. We remain confident that, for the most part, \u201cvictims of a fundamental miscarriage of justice will meet the cause-and-prejudice standard.\u201d Ibid. But we do not pretend that this will always be true. Accordingly, we think that in an extraordinary case, where a constitutional violation has probably resulted in the conviction of one who is actually innocent, a federal habeas court may grant the writ even in the absence of a showing of cause for the procedural default.\nThere is an additional safeguard against miscarriages of justice in criminal cases, and one not yet recognized in state criminal trials when many of the opinions on which the concurrence relies were written. That safeguard is the right to effective assistance of counsel, which, as this Court has indicated, may in a particular case be violated by even an isolated error of counsel if that error is sufficiently egregious and prejudicial. United States v. Cronic, 466 U. S. 648, 657, n. 20 (1984). See also Strickland v. Washington, 466 U. S., at 693-696. The presence of such a safeguard may properly inform this Court\u2019s judgment in determining \u201c[w]hat standards should govern the exercise of the habeas court\u2019s equitable discretion\u201d with respect to procedurally defaulted claims, Reed v. Ross, 468 U. S., at 9. The ability to raise ineffective assistance claims based in whole or in part on counsel\u2019s procedural defaults substantially undercuts any predictions of un-remedied manifest injustices. We therefore remain of the view that adherence to the cause and prejudice test \u201cin the conjunctive,\u201d Engle, supra, at 134, n. 43, will not prevent federal habeas courts from ensuring the \u201cfundamental fairness [that] is the central concern of the writ of habeas corpus.\u201d Strickland v. Washington, supra, at 697.\nThe cause and prejudice test may lack a perfect historical pedigree. But the Court acknowledged as much in Wainwright v. Sykes, noting its \u201chistoric willingness to overturn or modify its earlier views of the scope of the writ, even where the statutory language authorizing judicial action has remained unchanged.\u201d 433 U. S., at 81. The cause and prejudice test as interpreted in Engle and in our decision today is, we think, a sound and workable means of channeling the discretion of federal habeas courts.\nI \u2014 I <1\nRespondent has never alleged any external impediment that might have prevented counsel from raising his discovery claim in his petition for review, and has disavowed any claim that counsel\u2019s performance on appeal was so deficient as to make out an ineffective assistance claim. See generally Evitts v. Lucey, 469 U. S. 387 (1985) (right to effective assistance of counsel applies on an appeal as of right). Respondent\u2019s petition for federal habeas review of his procedurally defaulted discovery claim must therefore be dismissed for failure to establish cause for the default, unless it is determined on remand that the victim\u2019s statements contain material that would establish respondent\u2019s actual innocence.\nThe judgment of the Court of Appeals is reversed, and the case is remanded for further proceedings consistent with this opinion.\nIt is so ordered.",
+        "type": "majority",
+        "author": "Justice O\u2019Connor"
+      },
+      {
+        "text": "Justice Stevens,\nwith whom Justice Blackmun joins, concurring in the judgment.\nThe heart of this case is a prisoner\u2019s claim that he was denied access to material that might have established his innocence. The significance of such a claim can easily be lost in a procedural maze of enormous complexity.\nThe nature of the prisoner\u2019s claim, and its importance, would be especially easy to overlook in this case because the case involves at least four possible procedural errors. A Virginia trial judge may have erroneously denied respondent\u2019s counsel access to statements that the victim had made to the police. The Virginia Supreme Court did not address this issue because, although respondent\u2019s counsel included it in the assignment of errors in his \u201cnotice of appeal,\u201d he omitted it from his \u201cpetition for appeal.\u201d In a subsequent federal habeas corpus proceeding, the District Court held that the procedural default in the state appellate court effected a waiver of any right to federal relief and therefore dismissed the petition without examining the victim\u2019s statements. The Court of Appeals, however, concluded that there was no waiver if counsel\u2019s omission was the consequence of inadvertence and ordered a remand for a hearing to determine whether the lawyer had made a deliberate decision to omit the error from the petition for appeal. We granted certio-rari to review that decision.\nThis Court now reverses, holding that there is no need for a hearing on counsel\u2019s motivation and that, instead, the District Court should determine whether there is merit to the habeas corpus application by making an examination of the victim\u2019s statements. I concur in its judgment remanding the case for further proceedings on the substance of the claim, and dispensing with the procedural hearing ordered by the Court of Appeals; I disagree, however, with much of what the Court has written about \u201ccause and prejudice,\u201d as well as with its announcement of a new standard to govern the District Court\u2019s ultimate disposition of the case.\nf \u2014 I\nThe character of respondent\u2019s constitutional claim should be central to an evaluation of his habeas corpus petition. Before and during his trial on charges of rape and abduction, his counsel made timely motions for discovery of the statements made by the victim to the police. By denying those motions, the trial court significantly curtailed the defendant\u2019s ability to cross-examine the prosecution\u2019s most important witness, and may well have violated the defendant\u2019s right to review \u201cevidence favorable to an accused upon request . . . where the evidence is material either to guilt or to punishment.\u201d Brady v. Maryland, 373 U. S. 83, 87 (1963). That right is unquestionably protected by the Due Process Clause. Ibid. See also United States v. Bagley, 473 U. S. 667 (1985); United States v. Agurs, 427 U. S. 97 (1976). Indeed, the Court has repeatedly emphasized the fundamental importance of that federal right.\nThe constitutional claim advanced by respondent calls into question the accuracy of the determination of his guilt. On the record before us, however, we cannot determine whether or not he is the victim of a miscarriage of justice. Respondent argues that the trial court\u2019s analysis was severely flawed. Even if the trial judge applied the correct standard, the conclusion that there was no \u201cexculpatory\u201d material in the victim\u2019s statements does not foreclose the possibility that inconsistencies between the statements and the direct testimony would have enabled an effective cross-examination to demonstrate that respondent is actually innocent. On the other hand, it is possible that other evidence of guilt in the record is so overwhelming that the trial judge\u2019s decision was clearly not prejudicial to the defendant. The important point is that we cannot evaluate the possibility that respondent may be the victim of a fundamental miscarriage of justice without any knowledge about the contents of the victim\u2019s statements.\nIn deciding whether the District Court should have examined these statements before dismissing respondent\u2019s habeas corpus petition, it is useful to recall the historic importance of the Great Writ. \u201cThe writ of habeas corpus is the fundamental instrument for safeguarding individual freedom against arbitrary and lawless state action.\u201d Harris v. Nelson, 394 U. S. 286, 290-291 (1969). Its well-known history bears repetition. The writ emerged in England several centuries ago, and was given explicit protection in our Constitution. The first Judiciary Act provided federal habeas corpus for federal prisoners. In 1867, Congress provided the writ of habeas corpus for state prisoners; the Act gave federal courts \u201cpower to grant writs of habeas corpus in all cases where any person may be restrained of his or her liberty in violation of the Constitution, or any treaty or law of the United States.\u201d The current statute confers similar power, 28 U. S. C. \u00a7 2241(c)(3), and provides: \u201cThe court shall . . . dispose of the matter as law and justice require.\u201d 28 U. S. C. \u00a72243.\nAs the statute suggests, the central mission of the Great Writ should be the substance of \u201cjustice,\u201d not the form of procedures. As Justice Frankfurter explained in his separate opinion in Brown v. Allen, 344 U. S. 443, 498 (1953):\n\u201cThe meritorious claims are few, but our procedures must ensure that those few claims are not stifled by undiscriminating generalities. The complexities of our federalism and the workings of a scheme of government involving the interplay of two governments, one of which is subject to limitations enforceable by the other, are not to be escaped by simple, rigid rules which, by avoiding some abuses, generate others.\u201d\nIn Hensley v. Municipal Court, 411 U. S. 345, 349-350 (1973), the Court similarly emphasized this approach, stating:\n\u201cOur recent decisions have reasoned from the premise that habeas corpus is not \u2018a static, narrow, formalistic remedy,\u2019 Jones v. Cunningham, [371 U. S. 236,] 243 [(1963)], but one which must retain the \u2018ability to cut through barriers of form and procedural mazes. \u2019 Harris v. Nelson, 394 U. S. 286, 291 (1969). See Frank v. Mangum, 237 U. S. 309, 346 (1915) (Holmes, J., dissenting). \u2018The very nature of the writ demands that it be administered with the initiative and flexibility essential to insure that miscarriages of justice within its reach are surfaced and corrected.\u2019 Harris v. Nelson, supra, at 291.\n\u201cThus, we have consistently rejected interpretations of the habeas corpus statute that would suffocate the writ in stifling formalisms or hobble its effectiveness with the manacles of arcane and scholastic procedural requirements.\u201d\nAccordingly, the statutory mandate to \u201cdispose of the matter as law and justice require\u201d clearly requires at least some consideration of the character of the constitutional claim.\nI \u2014 I I \u2014 i\nIn my opinion, the \u201ccause and prejudice\u201d formula that the Court explicates in such detail today is not dispositive when the fundamental fairness of a prisoner\u2019s conviction is at issue. That formula is of recent vintage, particularly in comparison to the writ for which it is invoked. It is, at most, part of a broader inquiry into the demands of justice.\nThe Court cites Wainwright v. Sykes, 433 U. S. 72 (1977) as authority for its \u201ccause and prejudice\u201d standard. The actual source of the standard, however, is Rule 12(b)(2) of the Federal Rules of Criminal Procedure. For Wainwright relied on cases construing that Rule in announcing the standard. See id., at 84-85.\nRule 12(b)(2) specifies the procedure for asserting defenses and objections based on defects in the institution of a federal prosecution. Until part of the Rule was shifted to Rule 12(f), Rule 12(b)(2) expressly provided that the failure to follow the specified procedure in presenting any such defense or objection \u201cconstitutes waiver thereof\u201d; the Rule included a proviso authorizing the court to grant relief from the waiver \u201cfor cause shown.\u201d Under the terms of the Rule, the inquiry into \u201ccause\u201d was not made to ascertain whether a waiver occurred; rather, its function was to determine whether a waiver should be excused.\nThe term \u201cprejudice\u201d was not used in Rule 12(b)(2). In construing the rule in Shotwell Mfg. Co. v. United States, 371 U. S. 341 (1963), however, the Court decided that a consideration of the prejudice to the defendant, or the absence thereof, was an appropriate component of the inquiry into whether there was \u201ccause\u201d for excusing the waiver that had resulted from the failure to follow the Rule. Thus, under the reasoning of the Shotwell case \u2014 as well as the text of the Rule itself \u2014 \u201ccause\u201d and \u201cprejudice\u201d were not separate obstacles that a defendant was required to overcome to avoid a waiver. Rather, the cause component explicitly included an inquiry into \u201cprejudice\u201d \u2014 into the nature of the claim and its effect.\nIn Davis v. United States, 411 U. S. 233 (1973), the Court held that \u201cthe sort of express waiver provision contained in Rule 12(b)(2) which specifically provides for the waiver of a particular kind of constitutional claim if it be not timely asserted,\u201d id., at 239-240, bars a challenge, absent \u201ccause,\u201d to the composition of the grand jury not only on direct federal review, but also in a federal habeas challenge to a federal conviction. Thus, in Davis, as in Shotwell, the Court simply enforced a federal rule that contained an express waiver provision. Notably, in Davis, the Court again considered both cause and prejudice as part of a single inquiry. 411 U. S., at 243-245.\nThe Davis holding, in turn, provided the basis for the Court\u2019s decision in Francis v. Henderson, 425 U. S. 536 (1976). In that case, the Court reviewed a Louisiana rule similar to the Federal Rule at issue in Davis and a similar constitutional claim. Relying on Davis, the Court held that the state prisoner, having failed to make a timely challenge to the grand jury that indicted him, could not challenge his state conviction in a federal habeas corpus proceeding without making a showing of both \u201ccause\u201d for the failure and \u201cactual prejudice.\u201d The Court cited the Davis cause-and-prejudice analysis in determining that prejudice had not been established. 425 U. S., at 542, and n. 6.\nDavis and Francis then provided the basis for the conclusion in Wainwright v. Sykes, supra, that the failure to make a contemporaneous objection to the admission of evidence at trial will ordinarily bar a postconviction attack on the use of such evidence absent an appropriate showing of cause and prejudice. However, the Court\u2019s opinion in Wainwright v. Sykes carefully avoided any rigid definition of the terms \u201ccause\u201d and \u201cprejudice\u201d \u2014 terms which under Rule 12 had been used to identify two components of a single inquiry to determine whether an express waiver should be excused. Indeed, in Wainwright, the Court made very clear that, although \u201ccause and prejudice\u201d structured a court\u2019s inquiry, they were not rigid procedural rules that prevented the writ\u2019s fundamental mission \u2014 serving justice \u2014 from being realized: \u201cThe \u2018cause-and-prejudice\u2019 exception of the Francis rule will afford an adequate guarantee, we think, that the rule will not prevent a federal habeas court from adjudicating for the first time the federal constitutional claim of a defendant who in the absence of such an adjudication will be the victim of a miscarriage of justice.\u201d 433 U. S., at 90-91. In Wainwright itself, the Court inquired into both cause and prejudice; the prejudice inquiry, of course, required some inquiry into the nature of the claim and its effect on the trial. Id., at 91.\nIn a recent exposition of the \u201ccause and prejudice\u201d standard, moreover, the Court again emphasized that \u201ccause and prejudice\u201d must be considered within an overall inquiry into justice. In Engle v. Isaac, 456 U. S. 107 (1982), the Court closed its opinion with the assurance that it would not allow its judge-made \u201ccause\u201d and \u201cactual prejudice\u201d standard to become so rigid that it would foreclose a claim of this kind:\n\u201cThe terms \u2018cause\u2019 and \u2018actual prejudice\u2019 are not rigid concepts; they take their meaning from the principles of comity and finality discussed above. In appropriate cases those principles must yield to the imperative of correcting a fundamentally unjust incarceration. Since we are confident that victims of a fundamental miscarriage of justice will meet the cause-and-prejudice standard, see Wainwright v. Sykes, 433 U. S., at 91; id., at 94-97 (Stevens, J., concurring), we decline to adopt the more vague inquiry suggested by the words \u2018plain error.\u2019\u201d Id., at 135.\nIn order to be faithful to that promise, we must recognize that cause and prejudice are merely components of a broader inquiry which, in this case, cannot be performed without an examination of the victim\u2019s statements.\nI \u2014 I I \u2014 I hH\nAn inquiry into the requirements of justice requires a consideration, not only of the nature and strength of the constitutional claim, but also of the nature and strength of the state procedural rule that has not been observed. In its opinion today, the Court relies heavily on cases in which the defendant failed to make a contemporaneous objection to an error that occurred during a trial. Most of the reasons for finding a waiver in that setting simply do not apply to the appellate process. Of special importance is the fact that the state interest in enforcing its contemporaneous-objection rule is supported, not merely by the concern with finality that characterizes state appellate rules, but also by the concern with making the trial the \u201cmain event\u201d in which the issue of guilt or innocence can be fairly resolved.\nThis Court has not often considered procedural defaults that have occurred at the appellate, rather than trial, level. In my view, it is not a coincidence that three of the most forceful and incisive analyses of the relationship between federal habeas corpus and state procedural defaults have emerged in the few cases involving appellate defaults. For, with an appellate default, the state interest in procedural rigor is weaker than at trial, and the transcendence of the Great Writ is correspondingly clearer. The opinions to which I refer are the dissenting opinions in Daniels v. Allen, 344 U. S. 443 (1953), and the Court\u2019s opinions in Fay v. Noia, 372 U. S. 391 (1963), and Reed v. Ross, 468 U. S. 1 (1984).\nIn Daniels, one of the three cases that gave rise to the opinions in Brown v. Allen, 344 U. S. 443 (1953), two petitioners challenged their convictions and death sentences on the ground that the trial judge had erroneously denied their timely objection to the admission of allegedly coerced confessions and to the alleged discrimination against blacks in the selection of both grand and petit jurors. See id., at 453. After the trial court entered judgment and pronounced its sentence, the petitioners filed a notice of appeal and were granted 60 days in which to serve a statement of the case on opposing counsel. As a result of the negligence or inadvertence of petitioners\u2019 counsel, the statement was not served on the prosecutor until the 61st day and petitioners\u2019 right to appeal was lost. The State Supreme Court declined to exercise its discretion to review the merits of their appeal.\nFor reasons that are ambiguous at best, the Court held that the procedural default barred a subsequent federal ha-beas corpus petition unless the opportunity to appeal had been lost \u201cbecause of lack of counsel, incapacity, or some interference by officials.\u201d Id., at 485-486. Because the Daniels holding was repudiated in Fay v. Noia, 372 U. S. 391 (1963), Justice Black\u2019s penetrating dissent commands greater respect than Justice Reed\u2019s ambiguous opinion for the Court. Justice Black wrote:\n\u201cFourth. Daniels v. Allen, No. 20. Here also evidence establishes an unlawful exclusion of Negroes from juries because of race. The State Supreme Court refused to review this evidence on state procedural grounds. Absence of state court review on this ground is now held to cut off review in federal habeas corpus proceedings. But in the two preceding cases where the State Supreme Court did review the evidence, this Court has also reviewed it. I find it difficult to agree with the soundness of a philosophy which prompts this Court to grant a second review where the state has granted one but to deny any review at all where the state has granted none.\n\u201cThe Court thinks that to review this question and grant petitioners the protections guaranteed by the Constitution would \u2018subvert the entire system of state criminal justice and destroy state energy in the detection and punishment of crime.\u2019 I cannot agree. State systems are not so feeble. And the object of habeas corpus is to search records to prevent illegal imprisonments. To hold it unavailable under the circumstances here is to degrade it. I think Moore v. Dempsey, 261 U. S. 86, forbids this. In that case Negroes had been convicted and sentenced to death by an all-white jury selected under a practice of systematic exclusion of Negroes from juries. The State Supreme Court had refused to consider this discrimination on the ground that the objection to it had come too late. This Court had denied certiorari. Later a federal district court summarily dismissed a petition for habeas corpus alleging the foregoing and other very serious acts of trial unfairness, all of which had been urged upon this Court in the prior certiorari petition. This Court nevertheless held that the District Court had committed error in refusing to examine the facts alleged. I read Moore v. Dempsey, supra, as standing for the principle that it is never too late for courts in habeas corpus proceedings to look straight through procedural screens in order to prevent forfeiture of life or liberty in flagrant defiance of the Constitution. Cf. United States v. Kennedy, 157 F. 2d 811, 813. Perhaps there is no more exalted judicial function. I am willing to agree that it should not be exercised in cases like these except under special circumstances or in extraordinary situations. But I cannot join in any opinion that attempts to confine the Great Writ within rigid formalistic boundaries.\u201d Brown v. Allen, 344 U. S., at 552-554.\nWith respect to the specific argument that the Court should not permit federal habeas corpus to be used as a substitute for a state appeal, Justice Frankfurter similarly responded:\n\u201cThe basic reason for closing both the federal and State courts to the petitioners on such serious claims and under these circumstances is the jejune abstraction that habeas corpus cannot be used for an appeal. Judge Soper dealt with the deceptiveness of this formula by quoting what Judge Learned Hand had found to be the truth in regard to this generality thirty years ago:\n\u201cWe shall not discuss at length the occasions which will justify resort to the writ, where the objection has been open on appeal. After a somewhat extensive review of the authorities twenty-four years ago, I concluded that the law was in great confusion; and the decisions since then have scarcely tended to sharpen the lines. We can find no more definite rule than that the writ is available, not only to determine points of jurisdiction, stricti juris, and constitutional questions; but whenever else resort to it is necessary to prevent a complete miscarriage of justice.\u2019 Kulick v. Kennedy, 157 F. 2d 811, 813.\u201d Id., at 558 (dissenting opinion).\nThus, in their Daniels dissents, both Justice Black and Justice Frankfurter vigorously disagreed with the Court\u2019s view that the petitioners\u2019 appellate default \u2014 their failure to file a timely appeal \u2014 barred review of a meritorious constitutional claim.\nAs noted, the view of the Daniels Court on the propriety of federal habeas proceedings after a procedural default was repudiated in Fay v. Noia, 372 U. S. 391 (1963), a case which also concerned an appellate default. Noia had made a timely objection to the admissibility of his confession in his trial on a charge of felony murder, but he allowed the time for a direct appeal to lapse without seeking review by a New York appellate court. In response to his subsequent application for a federal writ of habeas corpus, the State admitted that his conviction rested on a confession that had been obtained from him in violation of the Fourteenth Amendment, but contended that his failure to appeal foreclosed any relief in the federal courts. This Court rejected that contention. In a comprehensive opinion the Court restated three propositions of law that have not thereafter been questioned; the Noia opinion also, however, contained certain dicta that has been qualified by later opinions.\nThe propositions that Noia firmly established are these:. First, the power of the federal district court to issue the writ of habeas corpus survives an adverse decision by a state court, whether the state judgment is based on a review of the merits of the federal claim or on the applicant\u2019s procedural default. Second, although a State\u2019s interest in orderly appellate procedure justifies a denial of appellate review in the state system when the inadvertence or neglect of defense counsel causes a procedural default, that state interest is not sufficient to bar a federal remedy in appropriate cases. Third, as the converse of the second proposition, Noia also holds that the federal district court has discretion to deny relief based on state procedural defaults in appropriate cases. None of these propositions has been questioned in any subsequent case.\nThe dicta in the Noia opinion that has been questioned was an attempt to prescribe a rather rigid limitation on the district court\u2019s discretion to deny habeas corpus relief based on the applicant\u2019s procedural default. The opinion set forth a standard that seemingly required federal judges to excuse every procedural default unless the habeas applicant had personally approved of his lawyer\u2019s deliberate decision to bypass an available state procedure. The breadth of that dicta was ultimately disavowed in Wainwright v. Sykes, 433 U. S., at 87-88, but the Court has remained faithful to the specific holding in Noia \u2014 that appellate default in the state system need not bar federal habeas review \u2014 as well as to the basic principles announced in that opinion.\nFinally, in Reed v. Ross, 468 U. S. 1 (1984), we again considered the consequences of an appellate procedural default. The defendant had not raised the constitutional error in his appeal to the North Carolina Supreme Court. Relying on Fay v. Noia, we reaffirmed that the federal court has power to look beyond the state procedural default and entertain the state prisoner\u2019s application for a writ of habeas corpus. In determining whether the power should be exercised, we found that the requirements of \u201ccause\u201d and \u201cprejudice\u201d that had been discussed in Wainwright v. Sykes had both been satisfied. The \u201ccause\u201d for the failure to object was the fact that counsel had not anticipated later decisions from this Court that supported the claim. We explained:\n\u201c[T]he cause requirement may be satisfied under certain circumstances when a procedural failure is not attributable to an intentional decision by counsel made in pursuit of his client\u2019s interests. And the failure of counsel to raise a constitutional issue reasonably unknown to him is one situation in which the requirement is met.\u201d Reed v. Ross, 468 U. S., at 14.\nIn the Reed opinion we carefully identified the valid state interest that is served by enforcing a procedural default that forecloses state appellate review of a federal constitutional claim, id., at 10-11; ante, at 490-491. But we squarely held that this interest is not sufficient to defeat a meritorious federal claim:\n\u201cIt is true that finality will be disserved if the federal courts reopen a state prisoner\u2019s case, even to review claims that were so novel when the cases were in state court that no one would have recognized them. This Court has never held, however, that finality, standing alone, provides a sufficient reason for federal courts to compromise their protection of constitutional rights under \u00a7225Jp.\u201d 468 U. S., at 15 (emphasis added).\nWe thus concluded that the appellate default would not bar federal consideration of the constitutional claim.\nLike the Daniels dissenters, then, in Fay and in Reed, against the backdrop of appellate defaults, the Court stressed that the State\u2019s interest in finality does not preclude review of the federal constitutional claim in a federal habeas court. To be sure, these opinions suggested that the power to hear claims which had been defaulted on appeal should be used sparingly \u2014 in \u201cspecial circumstances,\u201d in the absence of \u201cdeliberate bypass,\u201d upon a showing of \u201ccause.\u201d Even under such terms, however, our holding in Reed governs the case before us today. If the State\u2019s interest in the finality of its judgment is not sufficient to defeat a meritorious federal claim that was not raised on appeal because the prisoner\u2019s lawyer did not have the ability to anticipate a later development in the law, there is no reason why the same state interest should defeat a meritorious federal claim simply because the prisoner\u2019s lawyer did not exercise due care in prosecuting an appeal. There is no more reason to saddle an innocent prisoner with counsel\u2019s omission in one case than in the other.\nI \u2014 I\nProcedural default that is adequate to foreclose appellate review of a claim of constitutional error in a state criminal trial should ordinarily also bar collateral review of such a claim in a federal district court. But the history of the Court\u2019s jurisprudence interpreting the Acts of Congress authorizing the issuance of the writ of habeas corpus unambiguously requires that we carefully preserve the exception which enables the federal writ to grant relief in cases of manifest injustice. That exception cannot be adequately defined by a simply stated rule. The procedural default is always an important factor to be carefully reviewed; as Justice Frankfurter explained: \u201cAll that has gone before is not to be ignored as irrelevant.\u201d Brown v. Allen, 344 U. S., at 500. But it is equally clear that the prisoner must always have some opportunity to reopen his case if he can make a sufficient showing that he is the victim of a fundamental miscarriage of justice. Whether the inquiry is channeled by the use of the terms \u201ccause\u201d and \u201cprejudice\u201d \u2014 or by the statutory duty to \u201cdispose of the matter as law and justice require,\u201d 28 U. S. C. \u00a72243 \u2014 it is clear to me that appellate procedural default should not foreclose habeas corpus review of a meritorious constitutional claim that may establish the prisoner\u2019s innocence.\nThe Court is therefore entirely correct in its decision to remand the case for further proceedings on the substance of respondent\u2019s claim. Ante, at 497. Because we did not grant certiorari to consider the proper standard that should govern the further proceedings in the District Court, and because we have not had the benefit of briefs or argument concerning that standard, I express no opinion on the Court\u2019s suggestion that the absence of \u201ccause\u201d for his procedural default requires respondent to prove that the \u201cconstitutional violation has probably resulted in the conviction of one who is actually innocent,\u201d ante, at 496, or on the relationship of that standard to the principles explicated in United States v. Bagley, 473 U. S. 667 (1985); United States v. Agurs, 427 U. S. 97 (1976); and Brady v. Maryland, 373 U. S. 83 (1963). There will be time enough to consider the proper standard after the District Court has examined the victim\u2019s statements and made whatever findings may be appropriate to determine whether \u201claw and justice require\u201d the issuance of the Great Writ in this case.\nAccordingly, I concur in the judgment but not in the Court\u2019s opinion.\nSee Brady v. Maryland, 373 U. S., at 87 (\u201cThe principle ... is not punishment of society for misdeeds of a prosecutor but avoidance of an unfair trial to the accused. Society wins not only when the guilty are convicted but when criminal trials are fair; our system of the administration of justice suffers when any accused is treated unfairly\u201d); United States v. Bagley, 473 U. S., at 675 (\u201cThe Brady rule is based on the requirement of due process. Its purpose is ... to ensure that a miscarriage of justice does not occur\u201d).\nSee Carrier v. Hutto, 724 F. 2d 396, 399 (CA4 1983) (\u201cCarrier urges that the standard which should have been employed by the court in delimiting discovery was whether the evidence specifically requested was \u2018material ... to guilt,\u2019 Brady, 373 U. S., at 87 . . . not whether it was exculpatory\u201d).\nIndeed, a major element of respondent\u2019s defense was precisely that the victim\u2019s identification was mistaken. See Tr. 152-207 (cross-examination of victim); id., at 554-560 (defense closing argument\u2019s discussion of problems with victim\u2019s identification).\nSee 3 W. Blackstone, Commentaries *129~*138.\nArt. I, \u00a79, cl. 2.\nAct of Sept. 24, 1789, ch. 20, \u00a7 14, 1 Stat. 81-82.\nJudiciary Act of Feb. 5, 1867, ch. 28, 14 Stat. 385-386.\nSee also Strickland v. Washington, 466 U. S. 668, 697 (1984) (\u201cfundamental fairness is the central concern of the writ of habeas corpus\u201d). Although a constitutional claim that may establish innocence is clearly the most compelling case for habeas review, it is by no means the only type of constitutional claim that implicates \u201cfundamental fairness\u201d and that compels review regardless of possible procedural defaults. See Rose v. Lundy, 455 U. S. 509, 543-544 (1982) (Stevens, J., dissenting).\nIn 1963, when the Court decided Shotwell Mfg. Co. v. United States, 371 U. S. 341, Rule 12(b)(2) provided in relevant part:\n\u201cDefenses and objections based on defects in the institution of the prosecution or in the indictment or information other than that it fails to show jurisdiction in the court or to charge an offense may be raised only by motion before trial. .. . Failure to present any such defense or objection as herein provided constitutes a waiver thereof, but the court for cause shown may grant relief from the waiver.\u201d See 371 U. S., at 362.\nRule 12 has been amended since 1963 but it retains the provision for an express waiver subject to the proviso that \u201cthe court for cause shown may grant relief from the waiver.\u201d See Rule 12(f).\n\u201cFinally, both courts below have found that petitioners were not prejudiced in any way by the alleged illegalities in the selection of the juries. Nor do petitioners point to any resulting prejudice. In Ballard it was said (at p. 195) that \u2018reversible error does not depend on a showing of prejudice in an individual case.\u2019 However, where, as here, objection to the jury selection has not been timely raised under Rule 12(b)(2), it is entirely proper to take absence of prejudice into account in determining whether a sufficient showing has been made to warrant relief from the effect of that Rule.\u201d 371 U. S., at 363 (footnote omitted).\nIn the concurring opinion cited by the Court, presumably with approval, I had written:\n\u201cThe notion that a client must always consent to a tactical decision not to assert a constitutional objection to a proffer of evidence has always seemed unrealistic to me. Conversely, if the constitutional issue is sufficiently grave, even an express waiver by the defendant himself may sometimes be excused. Matters such as the competence of counsel, the procedural context in which the asserted waiver occurred, the character of the constitutional right at stake, and the overall fairness of the entire proceeding, may be more significant than the language of the test the Court purports to apply.\u201d Wainwright v. Sykes, 433 U. S. 72, 94-96 (1977) (footnotes omitted; emphasis added).\nInconsistently, in Engle v. Isaac, alongside its references to fundamental fairness, the Court also emphasized that a failure to show cause could bar review regardless of the character of the claim. See, e. g., 456 U. S., at 134, n. 43 (\u201cSince we conclude that these respondents lacked cause for their default, we do not consider whether they also suffered actual prejudice. Respondents urge that their prejudice was so great that it should permit relief even in the absence of cause. Sykes, however, stated these criteria in the conjunctive and the facts of these cases do not persuade us to depart from that approach\u201d); id,., at 129 (\u201cThe costs outlined above do not depend upon the type of claim raised by the prisoner. While the nature of a constitutional claim may affect the calculation of cause and prejudice, it does not alter the need to make that threshold showing\u201d). The Court\u2019s rigid invocation of the \u201ccause\u201d obstacle in ah opinion that also emphasized the demands of \u201cfundamental fairness\u201d illustrates the confusion that has accompanied the Court\u2019s creation and imposition of the cause- and-prejudice standard. See also id., at 126 (\u201cToday, as in prior centuries, the writ is a bulwark against convictions that violate \u2018fundamental fairness\u2019\u201d) (quoting Wainwright v. Sykes, 433 U. S., at 97 (Stevens, J., concurring)).\nSee Wainwright v. Sykes, 433 U. S., at 90. Cf. Engle v. Isaac, 456 U. S., at 136, n. 1 (Stevens, J., concurring in part and dissenting in part) (\u201cThe failure to object generally indicates that defense counsel felt that the trial error was not critical to his client\u2019s case; presumably, therefore, the error did not render the trial fundamentally unfair\u201d). Even in the trial context, however, the lack of objection should not be completely preclu-sive. See Rose v. Lundy, 455 U. S., at 547-548, n. 17 (Stevens, J., dissenting):\n\u201cThe failure of otherwise competent defense counsel to raise an objection at trial is often a reliable indication that the defendant was not denied fundamental fairness in the state-court proceedings. The person best qualified to recognize such error is normally a defendant\u2019s own lawyer. Thus, in searching for fundamental unfairness in a trial record, I attach great importance to the character of the objection, if any, asserted by the defendant\u2019s counsel. But if such error is manifest, I would not wrestle with terms such as \u2018cause\u2019 and \u2018prejudice\u2019 to determine whether habeas corpus relief should be granted.\u201d\nCommenting on the holding in Daniels, Justice Harlan wrote:\n\u201cLanguage in Mr. Justice Reed\u2019s opinion for the Court appeared to support the result alternatively in terms of waiver, failure to exhaust state remedies, and the existence of an adequate state ground. But while the explanation may have been ambiguous, the result was clear: habeas corpus would not lie for a prisoner who was detained pursuant to a state judgment which, in the view of the majority in Daniels, rested on a reasonable application of the State\u2019s own procedural requirements.\u201d Fay v. Noia, 372 U. S. 391, 461-462 (1963) (dissenting opinion) (footnotes omitted).\nIndeed, even the dissenters in Fay v. Noia did not defend the specific analysis in Daniels. See 372 U. S., at 462 (Harlan, J., dissenting) (\u201cI do not pause to reconsider here the question whether the state ground in Daniels was an adequate one; persuasive arguments can be made that it was not\u201d).\n\u201cWe have reviewed the development of habeas corpus at some length because the question of the instant case has obvious importance to the proper accommodation of a great constitutional privilege and the requirements of the federal system. Our survey discloses nothing to suggest that the Federal District Court lacked the power to order Noia discharged because of a procedural forfeiture he may have incurred under state law. On the contrary, the nature of the writ at common law, the language and purpose of the Act of February 5, 1867, and the course of decisions in this Court extending over nearly a century are wholly irreconcilable with such a limitation. At the time the privilege of the writ was written into the Federal Constitution it was settled that the writ lay to test any restraint contrary to fundamental law, which in England stemmed ultimately from Magna Charta but in this country was embodied in the written Constitution. Congress in 1867 sought to provide a federal forum for state prisoners having constitutional defenses by extending the habeas corpus powers of the federal courts to their constitutional maximum. Obedient to this purpose, we have consistently held that federal court jurisdiction is conferred by the allegation of an unconstitutional restraint and is not defeated by anything that may occur in the state court proceedings. State procedural rules plainly must yield to this overriding federal policy.\u201d 372 U. S., at 426-427.\n\u201cA man under conviction for crime has an obvious inducement to do his very best to keep his state remedies open, and not stake his all on the outcome of a federal habeas proceeding which, in many respects, may be less advantageous to him than a state court proceeding. See Rogers v. Richmond, 365 U. S. 534, 547-548. And if because of inadvertence or neglect he runs afoul of a state procedural requirement, and thereby forfeits his state remedies, appellate and collateral, as well as direct review thereof in this Court, those consequences should be sufficient to vindicate the State\u2019s valid interest in orderly procedure. Whatever residuum of state interest there may be under such circumstances is manifestly insufficient in the face of the federal policy, drawn from the ancient principles of the writ of ha-beas corpus, embodied both in the Federal Constitution and in the habeas corpus provisions of the Judicial Code, and consistently upheld by this Court, of affording an effective remedy for restraints contrary to the Constitution.\u201d Id., at 433-434.\n\u201cDiscretion is implicit in the statutory command that the judge, after granting the writ and holding a hearing of appropriate scope, \u2018dispose of the matter as law and justice require,\u2019 28 U. S. C. \u00a72243; and discretion was the flexible concept employed by the federal courts in developing the exhaustion rule. Furthermore, habeas corpus has traditionally been regarded as governed by equitable principles. United States ex rel. Smith v. Baldi, 344 U. S. 561, 573 (dissenting opinion). Among them is the principle that a suitor\u2019s conduct in relation to the matter at hand may disentitle him to the relief he seeks. Narrowly circumscribed, in conformity to the historical role of the writ of habeas corpus as an effective and imperative remedy for detentions contrary to fundamental law, the principle is unexceptionable.\u201d Id., at 438.\n\u201cIf a habeas applicant, after consultation with competent counsel or otherwise, understandingly and knowingly forewent the privilege of seeking to vindicate his federal claims in the state courts, whether for strategic, tactical, or any other reasons that can fairly be described as the deliberate by-passing of state procedures, then it is open to the federal court on ha-beas to deny him all relief if the state courts refused to entertain his federal claims on the merits \u2014 though of course only after the federal court has satisfied itself, by holding a hearing or by some other means, of the facts bearing upon the applicant\u2019s default. Cf. Price v. Johnston, 334 U. S. 266, 291. At all events we wish it clearly understood that the standard here put forth depends on the considered choice of the petitioner. Cf. Camley v. Cochran, 369 U. S. 506, 513-517; Moore v. Michigan, 355 U. S. 155, 162-165. A choice made by counsel not participated in by the petitioner does not automatically bar relief.\u201d Id., at 439 (footnote omitted).\n\u201cIt is the sweeping language of Fay v. Noia, going far beyond the facts of the case eliciting it, which we today reject.\u201d 433 U. S., at 87-88.\n\u201cWe have no occasion today to consider the Fay rule as applied to the facts there confronting the Court. . . .\n\u201cThe Court in Fay stated its knowing-and-deliberate-waiver rule in language which applied not only to the waiver of the right to appeal, but to failures to raise individual substantive objections in the state trial.\u201d Id., at 88, n. 12.\n\u201cOur decisions have uniformly acknowledged that federal courts are empowered under 28 U. S. C. \u00a7 2254 to look beyond a state procedural forfeiture and entertain a state prisoner\u2019s contention that his constitutional rights have been violated. See, e. g., Francis v. Henderson, 425 U. S. 536, 538 (1976); Fay v. Noia, 372 U. S. 391, 398-399 (1963). See generally W. Duker, A Constitutional History of Habeas Corpus 181-211 (1980). The more difficult question, and the one that lies at the heart of this case is: What standards should govern the exercise of the habeas court\u2019s equitable discretion in the use of this power?\u201d 468 U. S., at 9.",
+        "type": "concurrence",
+        "author": "Justice Stevens,"
+      },
+      {
+        "text": "Justice Brennan,\nwith whom Justice Marshall joins, dissenting.\nI\nA\nLike the Great Writ from which it draws its essence, see Engle v. Isaac, 456 U. S. 107, 126 (1982), the root principle underlying 28 U. S. C. \u00a72254 is that government in a civilized society must always be accountable for an individual\u2019s imprisonment; if the imprisonment does not conform to the fundamental requirements of law, the individual is entitled to his immediate release. Of course, the habeas corpus relief available under \u00a72254 differs in many respects from its common-law counterpart. Most significantly, the scope of the writ has been adjusted to meet changed conceptions of the kind of criminal proceedings so fundamentally defective as to make imprisonment under them unacceptable. See, e. g., Moore v. Dempsey, 261 U. S. 86 (1923); Johnson v. Zerbst, 304 U. S. 458 (1938); Waley v. Johnston, 316 U. S. 101 (1942); Brown v. Allen, 344 U. S. 443 (1953); Fay v. Noia, 372 U. S. 391 (1963). At the same time, statutory ha-beas relief has become more difficult to obtain as a result of certain procedural limitations created to reflect the unique character of our federal system. See, e. g., 28 U. S. C. \u00a7 2254(b) (exhaustion of state remedies).\nThe \u201ccause and prejudice\u201d rule of Wainwright v. Sykes, 433 U. S. 72 (1977), is one such procedural limitation. A judicially created restriction that is not required \u2014 or even suggested \u2014 by the habeas statute itself, the \u201ccause and prejudice\u201d rule is sometimes thought to represent an application of the familiar principle that this Court will decline to review state-court judgments which rest on independent and adequate state grounds, even where those judgments also decide federal questions. To be sure, the fact that a state-court judgment rests on a purely procedural ground may preclude direct Supreme Court review of that judgment where, as applied, the state procedural rule furthers a legitimate interest. See Henry v. Mississippi, 379 U. S. 443, 447-449 (1965). However, in Fay v. Noia, supra, the doctrine that procedural defaults may constitute an independent and adequate state-law ground was held not to limit the jurisdiction of the federal courts under the habeas corpus statute. Id., at 426-435. That conclusion has subsequently been reaffirmed on several occasions. See Francis v. Henderson, 425 U. S. 536, 538 (1976); Wainwright v. Sykes, supra, at 83; Reed v. Ross, 468 U. S. 1, 9 (1984).\nDespite the existence of federal power to entertain a ha-beas petition in the face of a procedural default, the Court in Fay v. Noia' acknowledged \u201ca limited discretion\u201d in the federal court to refuse to exercise its jurisdiction on behalf of \u201can applicant who has deliberately by-passed the orderly procedure of the state courts and in doing so has forfeited his state court remedies.\u201d 372 U. S., at 438. This exception was recognized \u201c[a]s a matter of comity,\u201d Wainwright v. Sykes, supra, at 83, in order to accord state courts and state procedures the respect due them in a federal system. See Reed v. Ross, supra, at 10-11; Engle v. Isaac, supra, at 126-129; Francis v. Henderson, supra, at 539. Thus, the withholding of federal habeas jurisdiction for certain procedurally defaulted claims is a form of abstention. Cf., e. g., Younger v. Harris, 401 U. S. 37 (1971); Burford v. Sun Oil Co., 319 U. S. 315 (1943).\nThe general principles for deciding whether abstention is proper are well established. \u201cAbstention from the exercise of federal jurisdiction is the exception, not the rule.\u201d Colorado River Water Conservation District v. United States, 424 U. S. 800, 813 (1976). As we have previously noted, \u2018\u201c[t]he doctrine of abstention... is an extraordinary and narrow exception to the duty of a District Court to adjudicate a controversy properly before it.\u2019 \u201d Ibid, (quoting Allegheny County v. Frank Mashuda Co., 360 U. S. 185, 188 (1959)). Where Congress has granted individuals the right to a federal forum, we cannot deny that right simply because we disagree with Congress\u2019 determination that federal review is desirable. Rather, abstention must be justified by weighty concerns of comity and judicial administration, and even then abstention should not be ordered without a careful balancing of those concerns against concerns favoring the exercise of federal jurisdiction. Cf. Steffel v. Thompson, 415 U. S. 452, 460-462 (1974); Wooley v. Maynard, 430 U. S. 705, 709-712 (1977); Doran v. Salem Inn, Inc., 422 U. S. 922 (1975).\nThese principles apply as much to abstention from the exercise of federal habeas corpus jurisdiction as to any other area of federal jurisdiction. For while Congress did leave the federal courts considerable latitude to shape the availability of the writ, Congress did not issue this Court a mandate to sharpen its skills at ad hoc legislating. The same rules of construction that guide interpretation of other statutes apply to the federal habeas corpus statute. Accordingly, the decision whether to direct federal courts to withhold habeas jurisdiction clearly conferred upon them by Congress must be made with the understanding that such abstention doctrines constitute \u201c\u2018extraordinary and narrow\u2019\u201d exceptions to the \u201cvirtually unflagging obligation\u201d of federal courts to exercise their jurisdiction, Colorado River Water Construction District v. United States, supra, at 813, 817 (quoting Allegheny County v. Frank Mashuda Co., supra, at 188). Moreover, judicial renouncement of federal habeas corpus jurisdiction can take place only after careful consideration of the competing interests militating for and against the exercise of federal jurisdiction, and the presumption is heavily in favor of exercising federal jurisdiction. 424 U. S., at 817.\nB\nThe competing interests implicated by a prisoner\u2019s petition to a federal court to review the merits of a procedurally defaulted constitutional claim are easily identified. On the one hand, \u201cthere is Congress\u2019 expressed interest in providing a federal forum for the vindication of the constitutional rights of state prisoners.\u201d Reed v. Ross, 468 U. S., at 10. In enacting \u00a72254, \u201cCongress sought to \u2018interpose the federal courts between the States and the people, as guardians of the people\u2019s federal rights \u2014 to protect the people from unconstitutional action.\u2019\u201d Ibid, (quoting Mitchum v. Foster, 407 U. S. 225, 242 (1972)). This interest is at its strongest where the state court has declined to consider the merits of a constitutional claim, for without habeas review no court will ever consider whether the petitioner\u2019s constitutional rights were violated.\nThese interests must be weighed against the State\u2019s interest in maintaining the integrity of its rules and proceedings, an interest that would be undermined if the federal courts were too free to ignore procedural forfeitures in state court. 468 U. S., at 10. The criminal justice system in each State is structured both to determine the guilt or innocence of defendants and to resolve all questions incident to that determination, including the constitutionality of the procedures leading to the verdict. Each State\u2019s complement of procedural rules facilitates this process by \u201cchanneling, to the extent possible, the resolution of various types of questions to the stage of the judicial process at which they can be resolved most'fairly and efficiently.\u201d Ibid. Procedural default rules protect the integrity of this process by imposing a forfeiture sanction for failure to follow applicable state procedural rules, thereby deterring litigants from deviating from the State\u2019s scheme. Generally, the threat of losing the right to raise a claim in state proceedings will be sufficient to ensure compliance with the State\u2019s procedural rules: a defendant loses nothing by raising all of his claims at trial since the state-court judgment will have no res judicata effect in later habeas proceedings, Brown v. Allen, 344 U. S. 443 (1953), while he retains the possibility of obtaining relief in the state courts. See Wainwright v. Sykes, 433 U. S., at 103-104, and n. 5 (Brennan, J., dissenting). Nonetheless, to the extent that federal habeas review of a procedurally defaulted claim is available, the broad deterrent effect of these procedural default rules is somewhat diminished.\nThe Court\u2019s view of how properly to balance these competing concerns has changed over time. In Fay v. Noia, we concluded that the State\u2019s interest \u201cin an airtight system of forfeitures\u201d was generally insufficient to require federal courts to refrain from exercising their habeas jurisdiction. 372 U. S., at 432, 438-440. We held that federal courts should refuse to exercise their jurisdiction only \u201c[i]f a habeas applicant . . . understanding^ and knowingly forewent the privilege of seeking to vindicate his federal claims in the state courts, whether for strategic, tactical, or any other reasons that can fairly be described as the deliberate by-passing of state procedures.\u201d Id., at 439. This holding sensibly accommodated the competing interests described above: on the one hand, the State\u2019s interest in preventing litigants from ignoring its procedural rules is at its strongest where the decision not to raise a claim is made knowingly and deliberately; correspondingly, the prisoner\u2019s entitlement to a federal forum is at its weakest since it may well be only the deliberate failure to submit the claim to the state courts that has necessitated federal review. Under these circumstances, the affront to comity principles is at its greatest: by its indifference in entertaining the petition to the prisoner\u2019s trial strategy, the federal court in effect ratifies the deliberate circumvention of state procedural rules. If refusal to exercise federal habeas power to upset a state-court conviction is ever appropriate, it is under circumstances such as these.\nThe Court struck a somewhat different balance 14 years later when it revisited the question of withholding federal ha-beas jurisdiction of procedurally defaulted claims in Wainwright v. Sykes. Police officers testified at Sykes\u2019 trial about inculpatory statements he had made in their presence. No objection was made at the time this testimony was offered, which meant, under a state procedural rule, that any objections were forfeited. Subsequently, Sykes filed a petition for a writ of habeas corpus in the federal court, asserting that his statements were inadmissible because he had not understood his Miranda warnings. The District Court granted the writ, but this Court reversed, holding that the District Court should never have entertained Sykes\u2019 habeas petition at all. Rejecting \u201cthe sweeping language of Fay v. Noia,\u201d the Court concluded that Fay\u2019s deliberate bypass test paid insufficient respect to the State\u2019s interests \u2014 viewed through the prism of federalism and comity concerns \u2014 in seeing its procedural default rules enforced. 433 U. S., at 87-88. The Court held instead that federal courts should decline to exercise their habeas jurisdiction absent a stronger showing by the prisoner that federal review is appropriate. Specifically, the Court held that federal habeas review of a procedurally defaulted claim should ordinarily be withheld unless the petitioner shows \u201ccause\u201d for the procedural default and \u201cprejudice\u201d to his case from the underlying error. Id., at 87.\nThe Court left open \u201cfor resolution in future decisions the precise definition of the \u2018cause\u2019-and-\u2018prejudice\u2019 standard,\u201d ibid., noting only that \u201cit is narrower than the standard set forth,\u201d ibid., in Fay v. Noia, and suggesting that, as such, it would provide a better balance between the interests of a petitioner and those of the State, id., at 88-91. I thought then that Wainwright v. Sykes was wrongly decided, and I continue to believe so for the reasons I stated there and in subsequent cases. See Wainwright v. Sykes, supra, at 99-118 (Brennan, J., dissenting); Engle v. Isaac, 456 U. S., at 137-151 (Brennan, J., dissenting); United States v. Frady, 456 U. S. 152, 178-187 (1982) (Brennan, J., dissenting). But at least the Court in Wainwright v. Sykes was prudent enough to leave the task of defining \u201ccause\u201d and \u201cprejudice\u201d to subsequent cases. For, to the extent that the availability of federal habeas review of procedurally defaulted claims turns on the cause-and-prejudice test, then it is in the context of giving that test meaning that the Court must undertake the careful evaluation of the interests of the State and defendant that is required to determine whether federal courts may properly decline to exercise jurisdiction conferred upon them by Congress.\nII\nA\nThe particular question we must decide in this case is whether counsel\u2019s inadvertent failure to raise a substantive claim of error can constitute \u201ccause\u201d for the procedural default. Wainwright v. Sykes held that defense counsel\u2019s tactical decision to bypass a state procedure does not constitute cause. 433 U. S., at 91, n. 14; see also ante, at 485; Reed v. Ross, 468 U. S., at 13. That result may arguably be defended on grounds similar to those which justified the result in Fay v. Noia, i. e., that the deterrent interests underlying the State\u2019s procedural default rule are at their apogee where counsel\u2019s decision to bypass a state procedure is deliberate. However, to say that the petitioner should be bound to his lawyer\u2019s tactical decisions is one thing; to say that he must also bear the burden of his lawyer\u2019s inadvertent mistakes is quite another. Where counsel is unaware of a claim or of the duty to raise it at a particular time, the procedural default rule cannot operate as a specific deterrent to noncompliance with the State\u2019s procedural rules. Consequently, the State\u2019s interest in ensuring that the federal court help prevent circumvention of the State\u2019s procedural rules by imposing the same forfeiture sanction is much less compelling. To be sure, applying procedural default rules even to inadvertent defaults furthers the State\u2019s deterrent interests in a general sense by encouraging lawyers to be more conscientious on the whole. However, as the Court has pointed out in another context, such general deterrent interests are weak where the failure to follow a rule is accidental rather than intentional. See United States v. Leon, 468 U. S. 897, 908-917 (1984).\nI believe that this incremental state interest simply is not sufficient to overcome the heavy presumption against a federal court\u2019s refusing to exercise jurisdiction clearly granted by Congress. This is especially so where the petitioner has satisfied the prejudice prong of the Wainwright v. Sykes test. That is, where a petitioner\u2019s constitutional rights have been violated and that violation may have affected the verdict, a federal court should not decline to entertain a habeas petition solely out of deference to the State\u2019s weak interest in punishing lawyers\u2019 inadvertent failures to comply with state procedures. I would therefore hold that \u201ccause\u201d is established where a procedural default resulted from counsel\u2019s inadvertence, and I respectfully dissent from the Court\u2019s decisions in both Murray v. Carrier, No. 84-1554, and Smith v. Murray, No. 85-5487.\nB\nEven if I did not believe that this difference in the State\u2019s interests was sufficient to require holding that counsel\u2019s inadvertence constitutes cause, there is an additional difference in the defendant\u2019s interests that compels this conclusion in Smith v. Murray: the fact that it is a capital case. To the extent that, as I have argued above, the definition of cause requires consideration of the interests of the defendant as well as of the State, it strikes me as cruelly unfair to bind a defendant to his lawyer\u2019s inadvertent failure to prevent prejudicial constitutional error \u2014 thus barring access to federal review \u2014 where the consequence to the defendant is death. With the understanding that \u201cexecution is the most irremediable and unfathomable of penalties; that death is different,\u201d Ford v. Waimvright, ante, at 411; see also Woodson v. North Carolina, 428 U. S. 280, 305 (1976) (opinion of Stewart, Powell, and Stevens, JJ.), this Court has been particularly scrupulous in demanding that the proceedings which condemn an individual to death not be marred by constitutional error. Against this background of special concern, \u201ccomity\u201d and \u201cfederalism\u201d concerns simply do not require such an exercise of this Court\u2019s discretion in capital cases.\n[This opinion applies also to No. 85-5487, Smith v. Murray, Director, Virginia Department of Corrections, post, p. 527.]\nThere is one important difference between abstention in the habeas context and in other contexts. In our other abstention cases, federal jurisdiction has been withheld partly because of ongoing proceedings or the possibility of future proceedings in the state courts; in the habeas context, the state proceedings have already taken place and the petitioner\u2019s federal claim has not been considered on the merits. If anything, however, this difference makes the practice of abstaining more suspect in the habeas context, and suggests that the federal courts should adhere even more closely to the principle \u2014 discussed in text \u2014 that abstention is a narrow exception to the general rule requiring federal courts to exercise power conferred upon them by Congress.\nThe Court has often suggested, as it does again today, that the \u201creduction in the finality of litigation\u201d caused by habeas review justifies a broad construction of the cause-and-prejudice test. Ante, at 486-487 (citing Engle v. Isaac, 456 U. S. 107, 128 (1982)). In fact, \u201cfinality\u201d concerns have no bearing on the question whether a federal court should refuse to exercise its habeas jurisdiction because of a procedural default. From the standpoint of the State\u2019s finality interests, there is no difference whatever between making habeas review available after the state court has denied a claim on the merits, and making such review available after the state court has denied the claim on procedural default grounds. In both situations, the State has determined that the litigation is at an end, and the federal court has reopened the case to consider releasing the petitioner from custody. No one questions the availability of habeas relief where the state court has denied the claim on the merits. Accordingly, treating likes alike, such relief should also be available where the claim is denied because of a procedural default unless the State\u2019s interest in enforcing its default rules requires a different result. General \u201cfinality\u201d concerns simply are not relevant.\nThe same is true of the Court\u2019s other habeas corpus bogeymen, such as the tendency of habeas review to detract from the importance of the trial as the \u201cmain event,\u201d Wainwright v. Sykes, 433 U. S. 72, 90 (1977), and to frustrate the State\u2019s \u201cgood-faith attempts to honor constitutional rights,\u201d Engle v. Isaac, swpra, at 128. These \u201ccosts\u201d are present whenever a claim has been denied by the state court on the merits in precisely the same way and to precisely the same extent as where that claim is denied on procedural default grounds. Indeed, if anything, these \u201ccosts\u201d are present to a greater extent where a federal court reviews a constitutional claim that the state court has considered and rejected. Therefore, if federal jurisdiction is to be renounced where there has been a procedural default, it must be because of some particular need to enforce the State\u2019s procedural default rules.\nAlthough Wainwright v. Sykes held only that the cause-and-prejudice test should be applied to violations of contemporaneous-objection rules, subsequent eases have extended the cause-and-prejudice test well beyond that narrow holding. See Engle v. Isaac, 456 U. S. 107 (1982); United States v. Frady, 456 U. S. 152 (1982); Reed v. Ross, 468 U. S. 1 (1984). It is still an open question \u201cwhether counsel\u2019s decision not to take an appeal at all\u201d \u2014 the question presented on the facts of Fay v. Noia \u2014 is governed by the deliberate bypass rule or the cause-and-prejudice test. Ante, at 492.\n1 do not mean to suggest by this that I accept the Court\u2019s decision in Wainwright v. Sykes or that I think that a habeas petitioner should ever have to show \u201ccause\u201d and \u201cprejudice\u201d to gain access to the federal courts under \u00a7 2254. As noted above, I continue to believe that Wainwright v. Sykes represented an illegitimate exercise of this Court\u2019s very limited discretion to order federal courts to decline to entertain habeas petitions. My point is simply that, even accepting the validity of Wainwright\u2019s \u201ccause and prejudice\u201d test, the Court must still carefully balance the relevant interests, and, when this balancing is done properly, it is apparent that counsel\u2019s inadvertence should constitute \u201ccause.\u201d Accordingly, I would affirm the decision of the Court of Appeals in Murray v. Carrier.\nWhile reversing the holding of the Court of Appeals that counsel\u2019s inadvertence establishes \u201ccause,\u201d the Court goes on to declare that \u201cwhere a constitutional violation has probably resulted in the conviction of one who is actually innocent, a federal court may grant the writ even in the absence of a showing of cause for the procedural default.\u201d Ante, at 496. Under such circumstances, the Court explains, \u201cthe principles of comity and finality that inform the concepts of cause and prejudice \u2018must yield to the imperative of correcting a fundamentally unjust incarceration.\u2019\u201d Ante, at 495 (quoting Engle v. Isaac, supra, at 135). Although I believe that principles of \u201ccomity\u201d and \u201cfinality\u201d yield upon far less than a showing of actual innocence, because this inquiry represents a narrowing of the \u201ccause and prejudice\u201d test, I agree that it is proper.",
+        "type": "dissent",
+        "author": "Justice Brennan,"
+      }
+    ],
+    "attorneys": [
+      "Jerry P. Slonaker, Senior Assistant Attorney General of Virginia, argued the cause for petitioner. With him on the briefs were William G. Broaddus, Attorney General, and Donald R. Curry, Assistant Attorney General.",
+      "Deputy Solicitor General Frey argued the cause for the United States as amicus curiae urging reversal. With him on the brief were Acting Solicitor General Fried, Assistant Attorney General Trott, Edwin S. Kneedler, and Kathleen A. Felton.",
+      "Sherman L. Cohn, by appointment of the Court, 474 U. S. 898, argued the cause for respondent. With him on the brief was Steven H. Goldblatt."
+    ],
+    "corrections": "",
+    "head_matter": "MURRAY, DIRECTOR, VIRGINIA DEPARTMENT OF CORRECTIONS v. CARRIER\nNo. 84-1554.\nArgued January 21, 1986\nDecided June 26, 1986\nO\u2019CONNOR, J., delivered the opinion of the Court, in which BURGER, C. J., and White, Powell, and Rehnquist, JJ., joined. Stevens, J., filed an opinion concurring in the judgment, in which Blackmun, J., joined, post, p. 497. Brennan, J., filed a dissenting opinion, in which Marshall, J., joined, post, p. 516.\nJerry P. Slonaker, Senior Assistant Attorney General of Virginia, argued the cause for petitioner. With him on the briefs were William G. Broaddus, Attorney General, and Donald R. Curry, Assistant Attorney General.\nDeputy Solicitor General Frey argued the cause for the United States as amicus curiae urging reversal. With him on the brief were Acting Solicitor General Fried, Assistant Attorney General Trott, Edwin S. Kneedler, and Kathleen A. Felton.\nSherman L. Cohn, by appointment of the Court, 474 U. S. 898, argued the cause for respondent. With him on the brief was Steven H. Goldblatt.\nBriefs of amici curiae urging reversal were filed for the State of Idaho et al. by James Thomas Jones, Attorney General of Idaho, and Lynn E. Thomas, Solicitor General, Charles A. Graddick, Attorney General of Alabama, Harold M. Brown, Attorney General of Alaska, Robert K. Corbin, Attorney General of Arizona, John Steven Clark, Attorney General of Arkansas, Duane Woodward, Attorney General of Colorado, John J. Kelley, Chief State\u2019s Attorney of Connecticut, Charles M. Oberly, Attorney General of Delaware, Michael J. Bowers, Attorney General of Georgia, Richard Opper, Attorney General of Guam, Corinne K. A. Watanabe, Attorney General of Hawaii, Neil F. Hartigan, Attorney General of Illinois, Linley E. Pearson, Attorney General of Indiana, Robert T. Stephan, Attorney General of Kansas, David L. Armstrong, Attorney General of Kentucky, William J. Guste, Jr., Attorney General of Louisiana, Stephen H. Sachs, Attorney General of Maryland, Francis X. Bellotti, Attorney General of Massachusetts, Frank J. Kelley, Attorney General of Michigan, Edwin L. Pittman, Attorney General of Mississippi, William L. Webster, Attorney General of Missouri, Mike Greely, Attorney General of Montana, Robert M. Spire, Attorney General of Nebraska, Brian McKay, Attorney General of Nevada, Stephen E. Merrill, Attorney General of New Hampshire, Irwin I. Kimmelman, Attorney General of New Jersey, Paul Bardacke, Attorney General of New Mexico, Lacy H. Thornburg, Attorney General of North Carolina, Nicholas Spaeth, Attorney General of North Dakota, Anthony J. Celebrezze, Jr., Attorney General of Ohio, Michael Turp\u00e9n, Attorney General of Oklahoma, LeRoy S. Zimmerman, Attorney General of Pennsylvania, Hector Rivera Cruz, Attorney General of Puerto Rico, Arlene Violet, Attorney General of Rhode Island, T. Travis Medlock, Attorney General of South Carolina, Mark V. Meierhenry, Attorney General of South Dakota, W. J. Michael Cody, Attorney General of Tennessee, Jim Mattox, Attorney General of Texas, David L. Wilkinson, Attorney General of Utah, Jeffrey Amestoy, Attorney General of Vermont, Victor D. Schneider, Acting Attorney General of The Virgin Islands, William G. Broaddus, Attorney General of Virginia, Kenneth 0. Eikenberry, Attorney General of Washington, Charlie Brown, Attorney General of West Virginia, Bronson C. La Follette, Attorney General of Wisconsin, and Archie G. McClintock, Attorney General of Wyoming; for the State of Florida by Jim Smith, Attorney General, and Raymond L. Marky and Gregory G. Costas, Assistant Attorneys General; and for the Legal Foundation of America et al. by Susan Crump, David Crump, and James P. Manak.\nLarry W. Yackle, Charles S. Sims, and Burt Neubome filed a brief for the American Civil Liberties Union et al. as amici curiae urging affirmance."
+  },
+  "file_name": "0478-01",
+  "first_page_order": 502,
+  "last_page_order": 550
+}

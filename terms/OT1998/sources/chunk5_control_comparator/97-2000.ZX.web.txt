@@ -1,0 +1,48 @@
+AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (https://www.law.cornell.edu/supct/html/97-2000.ZX.html)
+citeturn21view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/97-2000.ZX.html","lineno":null}); Total lines: 45
+L0: AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (97-2000)
+L1: 139 F.3d 158, reversed.
+L2: Syllabus
+L3:  | Opinion
+L4: [ Rehnquist ]  | Concurrence
+L5: [ Ginsburg ]  | Concurrence
+L6: [ Breyer ]  | Other
+L7: [ Opinion of Stevens ]
+L8: --- | --- | --- | --- | ---
+L9: 【0†HTML version】
+L10: 【1†PDF version】  | 【2†HTML version】
+L11: 【3†PDF version】  | 【4†HTML version】
+L12: 【5†PDF version】  | 【6†HTML version】
+L13: 【7†PDF version】  | 【8†HTML version】
+L14: 【9†PDF version】
+L15: 
+L16: * * *
+L17: 
+L18: Opinion of Stevens, J.
+L19: 
+L20: SUPREME COURT OF THE UNITED STATES
+L21: 
+L22: * * *
+L23: 
+L24: No. 97—2000
+L25: ### AMERICAN MANUFACTURERS MUTUAL INSURANCE COMPANY, et al.,
+L26: PETITIONERS v. DELORES
+L27: SCOTT SULLIVAN et al.
+L28: #### ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+L29: 
+L30: [March 3, 1999]
+L31: 
+L32: Justice Stevens, concurring in part and dissenting in part.
+L33: Because the individual respondents suffered work-related injuries, they are entitled to have their employers, or the employers’ insurers, pay for whatever “reasonable” and “necessary” treatment they may need. Pa. Stat. Ann. Tit. 77 §§531(1)(i), (5) (Purdon Supp. 1998). That right–whether described as a “claim” for payment or a “cause of action”–is unquestionably a species of property protected by the Due Process Clause of the 【10†Fourteenth Amendment】.
+L34: See, e.g., Tulsa Professional Collection Services, Inc. v. Pope, 【11†485 U.S. 478】, 485 (1988). Disputes over the reasonableness or necessity of particular treatments are resolved by decisionmakers who are state actors and who must follow procedures established by Pennsylvania law. Because the resolution of such disputes determines the scope of the claimants’ property interests, the Constitution requires that the procedure be fair. Logan v. Zimmerman Brush Co., 【12†455 U.S.
+L35: 422】 (1982).^{【13†*】}* That is true whether the claim is asserted against a private insurance carrier or against a public entity that self-insures. It is equally clear that the State’s duty to establish and administer a fair procedure for resolving the dispute obtains whether the dispute is initiated by the filing of a claim or by an insurer’s decision to withhold payment until the reasonableness issue is resolved.
+L36: In my judgment the significant questions raised by this case are: (1) as in any case alleging that state statutory processes violate the 【10†Fourteenth Amendment】, whether Pennsylvania’s procedure was fair when the case was commenced, and (2) if not, whether it was fair after the State modified its rules in response to the Court of Appeals’ decision. See ante at 4, n. 3.
+L37: In my opinion the Court of Appeals correctly concluded that the original procedure was deficient because it did not give employees either notice that a request for utilization review would automatically suspend their benefits or an opportunity to provide relevant evidence and argument to the state actor vested with initial decisional authority. I would therefore affirm the judgment of the Court of Appeals insofar as it mandated the change described in the Court’s footnote 3.
+L38: I do not, however, find any constitutional defect in the procedures that are now in place, and therefore agree that the judgment should be reversed to the extent that it requires any additional modifications. It is not unfair, in and of itself, for a State to allow either a private or a publicly owned party to withhold payment of a state-created entitlement pending resolution of a dispute over its amount.
+L39: Thus, although I agree with much of what the Court has written, I do not join its opinion for two reasons. First, I think it incorrectly assumes that the question whether the insurance company is a state actor is relevant to the controlling question whether the state procedures are fair. The relevant state actors, rather than the particular parties to the payment disputes, are the state-appointed decisionmakers who implement the exclusive procedure that the State has created to protect respondents’ rights.
+L40: These state actors are defendants in this suit. See ante, at 9. Second, the Court fails to answer either the question whether the State’s procedures were fair when the case was filed or the question whether they are fair now.
+L41: * * *
+L42: ## Notes
+L43: 
+L44: 【14†*.】 *As the Court correctly notes, “the State’s role in creating, supervising, and setting standards for the URO process [do not] differ in any meaningful sense from the creation and administration of any forum for resolving disputes.” Ante, at 12.
+

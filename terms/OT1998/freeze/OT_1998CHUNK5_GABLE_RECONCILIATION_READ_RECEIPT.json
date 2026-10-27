@@ -1,0 +1,57 @@
+{
+    "stage":  "Historical reconciliation",
+    "case":  "Gable v. Patton / Patton v. Gable, Nos. 98-897 and 98-1072",
+    "cutoff":  "1999-03-04",
+    "coverage":  "Complete Gable commitments; C_NEUTRAL common and Gable sections; Gable safe comparator; C_INDEX; complete C_GABLE_FOCUSED; complete public Lujan entry; Commerce/Glavin judgment, topology, standing Holdings I-II and published separate writings; complete newly effective Sullivan public copy; exact scope and both actual opposing threshold extracts. Engine section 6 added to the governing sections read earlier.",
+    "exposure":  "The first tool call printed the whole safe C comparator, including other matters lower-court/procedural comparisons. Only Gable was used. No raw comparator, current Stone supplement, combined brief, Record, private continuity, or assignment source was opened.",
+    "historical_supreme_court_merits_comparator":  false,
+    "new_neutral_facts":  false,
+    "commitment_changes":  false,
+    "git_commit_claim":  false,
+    "files":  [
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_GABLE_COMMITMENTS.md",
+                      "sha256":  "9A1A14062ACEDD37FA0C6AFC7017A5D0B80759F8D455F725BD7EFD5A4F07F5D4"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_C_NEUTRAL.md",
+                      "sha256":  "C8E39CA154170E6E33C56321838A7AC07E120279E65582E09FE8C90DA8B81ED9"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_C_COMPARATOR_SAFE.md",
+                      "sha256":  "DCF2557D772F3D9819ADBCEAEC3F99805B32246E160680D3E10478284E0E4642"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_C_INDEX.md",
+                      "sha256":  "33BADFEE48E3537882D27E8EA4715F0E4CC7EA727127D3A0346B730412F436AC"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_C_GABLE_FOCUSED.md",
+                      "sha256":  "B25EE0DD1E58A3672BCA9DBD0DE337F80D8A6D2325897E723B31558A3959A71A"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_GABLE_LUJAN_PUBLIC.md",
+                      "sha256":  "2EAC8727B4C50FE4B6FFE4A33577EBA6773B3F2D056593292A1090EFB423CFFE"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md",
+                      "sha256":  "73FAC7BB9A481353D0B1F3D50A1D0BB8CEC1454A9C6C0E874BC74ABA1ED2A04F"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/american_manufacturers_v_sullivan_merits_1999-03-03.md",
+                      "sha256":  "B676848C503659AFEDDC68063F425EFC0F835BB574161759009ED561AAE100E1"
+                  },
+                  {
+                      "path":  "terms/OT1998/runtime/OT_1998CHUNK5_GABLE_SCOPE_EXACT.md",
+                      "sha256":  "DC2E26E648823A92E5E54BEA9F2452D33AC4D43B65F3848BF332262DF77A5C91"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_c/gable_registry_justiciability_body_exact.txt",
+                      "sha256":  "01F8B87C15CA322FD608EE7A8E4540024C8E52EC7A8B79D2C93D165EA69FD691"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_c/gable_reply_justiciability_exact.txt",
+                      "sha256":  "144CD9659A65925BF9FF62C6C382AB11B1137000D472507C989BA9239AB8EC18"
+                  }
+              ]
+}

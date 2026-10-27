@@ -1,0 +1,180 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 383,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;97-7164&quot; OR text:&quot;97-7164&quot; OR text__reviews:&quot;97-7164&quot;) OR (text:Holloway OR text:Holloway OR text__reviews:Holloway))",
+      "qin": "collection:us-supreme-court AND (&quot;97-7164&quot; OR &quot;Holloway&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 100,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 40,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385005_2079",
+        "title": "Holloway v. Wise, 439 U.S. 1110 (1979) (No. 78-821)"
+      },
+      {
+        "identifier": "micro_IA40385017_1599",
+        "title": "Holloway v. Arkansas State Board of Architects, 544 U.S. 957 (2005) (No. 04-745)"
+      },
+      {
+        "identifier": "micro_IA40385014_0198",
+        "title": "Holloway v. United States, 526 U.S. 1 (1999) (No. 97-7164)"
+      },
+      {
+        "identifier": "micro_IA40386016_0065",
+        "title": "Holloway v. United States, 546 U.S. 876 (2005) (No. 05-178)"
+      },
+      {
+        "identifier": "micro_IA40386417_0398",
+        "title": "Holloway v. Purcell, 340 U.S. 883 (1950) (No. 312)"
+      },
+      {
+        "identifier": "micro_IA04386419_0768",
+        "title": "Rogers v. Holloway, 359 U.S. 958 (1959) (No. 709)"
+      },
+      {
+        "identifier": "micro_IA40386016_1467",
+        "title": "Holloway v. Wohlfahrt (No. 06-374)"
+      },
+      {
+        "identifier": "micro_IA40386017_0122",
+        "title": "Holloway v. Commissioner of Internal Revenue (No. 08-972)"
+      },
+      {
+        "identifier": "micro_IA40386019_1065",
+        "title": "Holloway v. Browning, 510 U.S. 828 (1993) (No. 92-2048)"
+      },
+      {
+        "identifier": "micro_IA40385018_0833",
+        "title": "Holloway v. Walker, 474 U.S. 1037 (1985) (No. 85-570)"
+      },
+      {
+        "identifier": "micro_IA40385018_1488",
+        "title": "Holloway v. United States, 476 U.S. 1158 (1986) (No. 85-1386)"
+      },
+      {
+        "identifier": "micro_IA40386015_1531",
+        "title": "Holloway v. Johnson, 539 U.S. 960 (2003) (No. 02-1612)"
+      },
+      {
+        "identifier": "micro_IA40385014_0485",
+        "title": "Mickens v. Taylor, 535 U.S. 162 (2002) (No. 00-9285)"
+      },
+      {
+        "identifier": "micro_IA40385018_2359",
+        "title": "Holloway v. Walker, 479 U.S. 984 (1986) (No. 86-271)"
+      },
+      {
+        "identifier": "micro_IA40386008_0891",
+        "title": "Beard, Secretary, Pennsylvania Department of Corrections v. Holloway, 543 U.S. 976 (2004) (No. 04-101)"
+      },
+      {
+        "identifier": "micro_IA40385011_0132",
+        "title": "Holloway v. Valley, 464 U.S. 914 (1983) (No. 83-129)"
+      },
+      {
+        "identifier": "micro_IA40385011_1962",
+        "title": "Holloway v. United States, 481 U.S. 1018 (1987) (No. 86-1481)"
+      },
+      {
+        "identifier": "micro_IA40385004_2111",
+        "title": "Holloway v. Arkansas, 435 U.S. 475 (1978) (No. 76-5856)"
+      },
+      {
+        "identifier": "micro_IA40385017_1144",
+        "title": "Holloway v. Hechler, 507 U.S. 956 (1993) (No. 92-1194)"
+      },
+      {
+        "identifier": "micro_IA40385018_1492",
+        "title": "Holloway v. United States, 476 U.S. 1158 (1986) (No. 85-1391)"
+      },
+      {
+        "identifier": "micro_IA40385013_0432",
+        "title": "Elder v. Holloway, 510 U.S. 510 (1994) (No. 92-8579)"
+      },
+      {
+        "identifier": "per_scotus_1866_259",
+        "title": "D. P. Holloway, Commissioner of Patents, Plaintiff in Error, vs. Andrew Whiteley. 1866: Vol 259"
+      },
+      {
+        "identifier": "micro_IA40385017_0917",
+        "title": "Peat Marwick Main & Co. v. Holloway, 496 U.S. 903 (1990) (No. 89-532)"
+      },
+      {
+        "identifier": "micro_IA40385011_0289",
+        "title": "RAPIDES PARISH SCHOOL DISTRICT v. VALLEY (Nos. 83-289, 83-129)"
+      },
+      {
+        "identifier": "micro_IA40386007_1517",
+        "title": "Holloway v. United States, 516 U.S. 1119 (1996) (No. 95-1093)"
+      },
+      {
+        "identifier": "micro_IA40386020_0422",
+        "title": "Cotton v. Hawaii, 211 U.S. 162 (1908) (No. 7)"
+      },
+      {
+        "identifier": "micro_IA40386416_2261",
+        "title": "Holloway Gravel Co. v. McComb, Wage & Hour Administrator, 338 U.S. 823 (1949) (No. 183)"
+      },
+      {
+        "identifier": "micro_IA40385017_2222",
+        "title": "Holloway v. Alabama, 469 U.S. 981 (1984) (No. 84-386)"
+      },
+      {
+        "identifier": "micro_IA40386420_0723",
+        "title": "Emerson v. Holloway Concrete Products Co. (No. 535)"
+      },
+      {
+        "identifier": "micro_IA40386005_1671",
+        "title": "In re Holloway, 511 U.S. 1030 (1994) (No. 93-996)"
+      },
+      {
+        "identifier": "micro_IA40386003_0557",
+        "title": "Louisville & Nashville R. Co. v. Holloway, 246 U.S. 525 (1918) (No. 209)"
+      },
+      {
+        "identifier": "micro_IA40386018_0136",
+        "title": "Holloway v. Dunham, 170 U.S. 615 (1898) (No. 247)"
+      },
+      {
+        "identifier": "micro_IA40386019_1066",
+        "title": "Flojo Trading Corp. v. Browning, 510 U.S. 828 (1993) (No. 92-2049)"
+      },
+      {
+        "identifier": "micro_IA40385009_1003",
+        "title": "United States v. Cronic, 466 U.S. 648 (1984) (No. 82-660)"
+      },
+      {
+        "identifier": "micro_IA40385020_2746",
+        "title": "KPMG Peat Marwick v. Holloway, 498 U.S. 958 (1990) (No. 90-373)"
+      },
+      {
+        "identifier": "micro_IA40386019_0351",
+        "title": "Choctaw, O. & GR Co. v. Holloway, 191 U.S. 334 (1903) (No. 68)"
+      },
+      {
+        "identifier": "micro_IA40385610_0342",
+        "title": "San Diego Electric Railway Co. v. State Board of Equalization, 337 U.S. 911 (1949) (No. 785)"
+      },
+      {
+        "identifier": "micro_IA40385007_1549",
+        "title": "Clay E. McElroy Warden v. M. W. Holloway, 451 U.S. 1028 (1981) (No. 80-1637)"
+      },
+      {
+        "identifier": "micro_IA40385006_1628",
+        "title": "Holloway v. United States, 446 U.S. 935 (1980) (No. 79-1184)"
+      },
+      {
+        "identifier": "micro_IA40385006_1029",
+        "title": "Holloway v. Times Mirror Press Co., 444 U.S. 966 (1979) (No. 79-545)"
+      }
+    ]
+  }
+}

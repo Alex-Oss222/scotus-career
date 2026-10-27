@@ -1,0 +1,869 @@
+{
+  "id": 6195521,
+  "name": "MUELLER et al. v. ALLEN et al.",
+  "name_abbreviation": "Mueller v. Allen",
+  "decision_date": "1983-06-29",
+  "docket_number": "No. 82-195",
+  "first_page": "388",
+  "last_page": "417",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "463 U.S. 388"
+    },
+    {
+      "type": "parallel",
+      "cite": "77 L. Ed. 2d 721"
+    },
+    {
+      "type": "parallel",
+      "cite": "103 S. Ct. 3062"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1982-146"
+    },
+    {
+      "type": "vendor",
+      "cite": "1983 U.S. LEXIS 96"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "38 U. S. C. \u00a7 1651",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 U. S. 672",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027449
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0672-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343371
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0825-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7 290.21",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "514 F. Supp. 998",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5596934
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "1000"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/514/0998-01"
+      ]
+    },
+    {
+      "cite": "454 U. S. 263",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185829
+      ],
+      "weight": 4,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "274"
+        },
+        {
+          "page": "274"
+        },
+        {
+          "page": "275"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/454/0263-01"
+      ]
+    },
+    {
+      "cite": "309 U. S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137531
+      ],
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "88"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/309/0083-01"
+      ]
+    },
+    {
+      "cite": "461 U. S. 540",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298910
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "547"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0540-01"
+      ]
+    },
+    {
+      "cite": "444 U. S. 646",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11307781
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "662"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0646-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 229",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178289
+      ],
+      "weight": 6,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "237-238"
+        },
+        {
+          "page": "236"
+        },
+        {
+          "page": "262",
+          "parenthetical": "concurring in part, concurring in judgment in part, and dissenting in part"
+        },
+        {
+          "page": "263",
+          "parenthetical": "Powell, J., concurring in part, concurring in judgment in part, and dissenting in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0229-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541334
+      ],
+      "weight": 6,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "363"
+        },
+        {
+          "page": "359-362"
+        },
+        {
+          "page": "374-379",
+          "parenthetical": "BRENNAN, J., concurring in part and dissenting in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0349-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 472",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341401
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0472-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169056
+      ],
+      "weight": 4,
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/392/0236-01"
+      ]
+    },
+    {
+      "cite": "330 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "weight": 2,
+      "year": 1947,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "weight": 4,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "694",
+          "parenthetical": "opinion of Harlan, J."
+        },
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "175 U. S. 291",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1239487
+      ],
+      "year": 1899,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/175/0291-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 734",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343031
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "742"
+        },
+        {
+          "page": "741"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0734-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 12,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "612"
+        },
+        {
+          "page": "612-613"
+        },
+        {
+          "page": "612-613"
+        },
+        {
+          "page": "619"
+        },
+        {
+          "page": "614"
+        },
+        {
+          "page": "622"
+        },
+        {
+          "page": "622-625"
+        },
+        {
+          "page": "665-666",
+          "parenthetical": "opinion of White, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "676 F. 2d 1195",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        562080
+      ],
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1205"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/676/1195-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7\u00a7120.06",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "459 U. S. 820",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6230213,
+        6230699,
+        6230480,
+        6231986,
+        6231634,
+        6230900
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0820-01",
+        "/us/459/0820-03",
+        "/us/459/0820-02",
+        "/us/459/0820-06",
+        "/us/459/0820-05",
+        "/us/459/0820-04"
+      ]
+    },
+    {
+      "cite": "630 F. 2d 855",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        392666
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/630/0855-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "weight": 7,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "761, n. 5"
+        },
+        {
+          "page": "796"
+        },
+        {
+          "page": "790",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "790, n. 49"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7290.09",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "433 U. S. 229",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178289
+      ],
+      "weight": 9,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "248-254"
+        },
+        {
+          "page": "250-251"
+        },
+        {
+          "page": "249-250"
+        },
+        {
+          "page": "250"
+        },
+        {
+          "page": "257-258",
+          "parenthetical": "Marshall, J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "264-266",
+          "parenthetical": "Stevens, J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "248-254"
+        },
+        {
+          "page": "234"
+        },
+        {
+          "page": "252-255",
+          "parenthetical": "reimbursement of nonpublic schools for field trip transportation impermis-sibly fosters religion because the nonpublic schools control the timing, frequency, and destination of the trips, which, for sectarian schools, are an integral part of the sectarian education"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/433/0229-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7\u00a7 123.932",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "353 F. Supp. 744",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3561010
+      ],
+      "year": 1972,
+      "opinion_index": 1,
+      "case_paths": [
+        "/f-supp/353/0744-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 901",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "year": 1973,
+      "opinion_index": 1
+    },
+    {
+      "cite": "590 F. 2d 514",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        823089
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/590/0514-01"
+      ]
+    },
+    {
+      "cite": "442 U. S. 907",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1531841,
+        1531874,
+        1531848,
+        1531948,
+        1532116,
+        1531926
+      ],
+      "year": 1979,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/442/0907-05",
+        "/us/442/0907-02",
+        "/us/442/0907-06",
+        "/us/442/0907-04",
+        "/us/442/0907-01",
+        "/us/442/0907-03"
+      ]
+    },
+    {
+      "cite": "413 U. S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343371
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/413/0825-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541334
+      ],
+      "weight": 12,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "364-366"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "378",
+          "parenthetical": "Brennan, J., concurring in part and dissenting in part"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "359"
+        },
+        {
+          "page": "364-366"
+        },
+        {
+          "page": "363"
+        },
+        {
+          "page": "366"
+        },
+        {
+          "page": "364"
+        },
+        {
+          "page": "366-367, n. 16"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/421/0349-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169056
+      ],
+      "weight": 5,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "248"
+        },
+        {
+          "page": "244-245"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/392/0236-01"
+      ]
+    },
+    {
+      "cite": "330 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "18"
+        },
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "699",
+          "parenthetical": "opinion of Harlan, J."
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "613"
+        },
+        {
+          "page": "628-630",
+          "parenthetical": "Douglas, J., concurring"
+        },
+        {
+          "page": "625"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "Minn. Stat. \u00a7\u00a7120.06",
+      "category": "laws:leg_statute",
+      "reporter": "Minn. Stat.",
+      "opinion_index": 1
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "weight": 21,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "780, 785-786"
+        },
+        {
+          "page": "789-791"
+        },
+        {
+          "page": "773"
+        },
+        {
+          "page": "774"
+        },
+        {
+          "page": "783-784, n. 39"
+        },
+        {
+          "page": "781-782"
+        },
+        {
+          "page": "774-780"
+        },
+        {
+          "page": "780"
+        },
+        {
+          "page": "783"
+        },
+        {
+          "page": "786"
+        },
+        {
+          "page": "783"
+        },
+        {
+          "page": "790-791"
+        },
+        {
+          "page": "789-790"
+        },
+        {
+          "page": "786"
+        },
+        {
+          "page": "793",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "789"
+        },
+        {
+          "page": "790-791, 794"
+        },
+        {
+          "page": "781-782"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1808,
+    "char_count": 61188,
+    "ocr_confidence": 0.714,
+    "pagerank": {
+      "raw": 1.5027429350797973e-06,
+      "percentile": 0.991788710461498
+    },
+    "sha256": "4e195b930ad988b7321dcbee8c4bc2fa62838c3c1771d0421ce05abca339c3fa",
+    "simhash": "1:d9ebe308aa1ab0c8",
+    "word_count": 9739
+  },
+  "last_updated": "2024-02-27T19:58:46.673222+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "with whom Justice Brennan, Justice Blackmun, and Justice Stevens join, dissenting."
+    ],
+    "parties": [
+      "MUELLER et al. v. ALLEN et al."
+    ],
+    "opinions": [
+      {
+        "text": "Justice Rehnquist\ndelivered the opinion of the Court.\nMinnesota allows taxpayers, in computing their state income tax, to deduct certain expenses incurred in providing for the education of their children. Minn. Stat. \u00a7290.09, subd. 22 (1982). The United States Court of Appeals for the Eighth Circuit held that the Establishment Clause of the First Amendment, as made applicable to the States by the Fourteenth Amendment, was not offended by this arrangement. Because this question was reserved in Committee for Public Education v. Nyquist, 413 U. S. 756 (1973), and because of a conflict between the decision of the Court of Appeals for the Eighth Circuit and that of the Court of Appeals for the First Circuit in Rhode Island Federation of Teachers v. Norberg, 630 F. 2d 855 (CA1 1980), we granted certiorari. 459 U. S. 820 (1982). We now affirm.\nMinnesota, like every other State, provides its citizens with free elementary and secondary schooling. Minn. Stat. \u00a7\u00a7120.06, 120.72 (1982). It seems to be agreed that about 820,000 students attended this school system in the most recent school year. During the same year, approximately 91,000 elementary and secondary students attended some 500 privately supported schools located in Minnesota, and about 95% of these students attended schools considering themselves to be sectarian.\nMinnesota, by a law originally enacted in 1955 and revised in 1976 and again in 1978, permits state taxpayers to claim a deduction from gross income for certain expenses incurred in educating their children. The deduction is limited to actual expenses incurred for the \u201ctuition, textbooks and transportation\u201d of dependents attending elementary or secondary schools. A deduction may not exceed $500 per dependent in grades K through 6 and $700 per dependent in grades 7 through 12. Minn. Stat. \u00a7290.09, subd. 22 (1982).\nPetitioners \u2014 certain Minnesota taxpayers \u2014 sued in the United States District Court for the District of Minnesota claiming that \u00a7290.09, subd. 22, violated the Establishment Clause by providing financial assistance to sectarian institutions. They named as defendants, respondents here, the Commissioner of the Department of Revenue of Minnesota and several parents who took advantage of the tax deduction for expenses incurred in sending their children to parochial schools. The District Court granted respondents\u2019 motion for summary judgment, holding that the statute was \u201cneutral on its face and in its application and does not have a primary effect of either advancing or inhibiting religion.\u201d 514F. Supp. 998, 1008 (1981). On appeal, the Court of Appeals affirmed, concluding that the Minnesota statute substantially benefited a \u201cbroad class of Minnesota citizens.\u201d 676 F. 2d 1195, 1205 (1982).\nToday\u2019s case is no exception to our oft-repeated statement that the Establishment Clause presents especially difficult questions of interpretation and application. It is easy enough to quote the few words constituting that Clause\u2014 \u201cCongress shall make no law respecting an establishment of religion.\u201d It is not at all easy, however, to apply this Court\u2019s various decisions construing the Clause to governmental programs of financial assistance to sectarian schools and the parents of children attending those schools. Indeed, in many of these decisions we have expressly or implicitly acknowledged that \u201cwe can only dimly perceive the lines of demarcation in this extraordinarily sensitive area of constitutional law.\u201d Lemon v. Kurtzman, 403 U. S. 602, 612 (1971), quoted in part with approval in Nyquist, 413 U. S., at 761, n. 5.\nOne fixed principle in this field is our consistent rejection of the argument that \u201cany program which in some manner aids an institution with a religious affiliation\u201d violates the Establishment Clause. Hunt v. McNair, 413 U. S. 734, 742 (1973). See, e. g., Bradfield v. Roberts, 175 U. S. 291 (1899); Walz v. Tax Comm\u2019n, 397 U. S. 664 (1970). For example, it is now well established that a State may reimburse parents for expenses incurred in transporting their children to school, Everson v. Board of Education, 330 U. S. 1 (1947), and that it may loan secular textbooks to all schoolchildren within the State, Board of Education v. Allen, 392 U. S. 236 (1968).\nNotwithstanding the repeated approval given programs such as those in Allen and Everson, our decisions also have struck down arrangements resembling, in many respects, these forms of assistance. See, e. g., Lemon v. Kurtzman, supra; Levitt v. Committee for Public Education, 413 U. S. 472 (1973); Meek v. Pittenger, 421 U. S. 349 (1975); Wolman v. Walter, 433 U. S. 229, 237-238 (1977). In this case we are asked to decide whether Minnesota\u2019s tax deduction bears greater resemblance to those types of assistance to parochial schools we have approved, or to those we have struck down. Petitioners place particular reliance on our decision in Committee for Public Education v. Nyquist, supra, where we held invalid a New York statute providing public funds for the maintenance and repair of the physical facilities of private schools and granting thinly disguised \u201ctax benefits,\u201d actually amounting to tuition grants, to the parents of children attending private schools. As explained below, we conclude that \u00a7 290.09, subd. 22, bears less resemblance to the arrangement struck down in Nyquist than it does to assistance programs upheld in our prior decisions and those discussed with approval in Nyquist.\nThe general nature of our inquiry in this area has been guided, since the decision in Lemon v. Kurtzman, supra, by the \u201cthree-part\u201d test laid down in that case:\n\u201cFirst, the statute must have a secular legislative purpose; second, its principal or primary effect must be one that neither advances nor inhibits religion . . . ; finally, the statute must not foster \u2018an excessive government entanglement with religion.\u2019\u201d Id., at 612-613.\nWhile this principle is well settled, our cases have also emphasized that it provides \u201cno more than [a] helpful signpos[t]\u201d in dealing with Establishment Clause challenges. Hunt v. McNair, supra, at 741. With this caveat in mind, we turn to the specific challenges raised against \u00a7290.09, subd. 22, under the Lemon framework.\nLittle time need be spent on the question of whether the Minnesota tax deduction has a secular purpose. Under our prior decisions, governmental assistance programs have consistently survived this inquiry even when they have run afoul of other aspects of the Lemon framework. See, e. g., Lemon v. Kurtzman, supra; Meek v. Pittenger, supra, at 363; Wolman v. Walter, supra, at 236. This reflects, at least in part, our reluctance to attribute unconstitutional motives to the States, particularly when a plausible secular purpose for the State\u2019s program may be discerned from the face of the statute.\nA State\u2019s decision to defray the cost of educational expenses incurred by parents \u2014 regardless of the type of schools their children attend \u2014 evidences a purpose that is both secular and understandable. An educated populace is essential to the political and economic health of any community, and a State\u2019s efforts to assist parents in meeting the rising cost of educational expenses plainly serves this secular purpose of ensuring that the State\u2019s citizenry is well educated. Similarly, Minnesota, like other States, could conclude that there is a strong public interest in assuring the continued financial health of private schools, both sectarian and nonsectarian. By educating a substantial number of students such schools relieve public schools of a correspondingly great burden \u2014 to the benefit of all taxpayers. In addition, private schools may serve as a benchmark for public schools, in a manner analogous to the \u201cTVA yardstick\u201d for private power companies. As Justice Powell has remarked:\n\u201cParochial schools, quite apart from their sectarian purpose, have provided an educational alternative for millions of young Americans; they often afford wholesome competition with our public schools; and in some States they relieve substantially the tax burden incident to the operation of public schools. The State has, moreover, a legitimate interest in facilitating education of the highest quality for all children within its boundaries, whatever school their parents have chosen for them.\u201d Wolman v. Walter, supra, at 262 (concurring in part, concurring in judgment in part, and dissenting in part).\nAll these justifications are readily available to support \u00a7290.09, subd. 22, and each is sufficient to satisfy the secular purpose inquiry of Lemon.\nWe turn therefore to the more difficult but related question whether the Minnesota statute has \u201cthe primary effect of advancing the sectarian aims of the nonpublic schools.\u201d Committee for Public Education v. Regan, 444 U. S. 646, 662 (1980); Lemon v. Kurtzman, 403 U. S., at 612-613. In concluding that it does not, we find several features of the Minnesota tax deduction particularly significant. First, an essential feature of Minnesota\u2019s arrangement is the fact that \u00a7290.09, subd. 22, is only one among many deductions \u2014 such as those for medical expenses, \u00a7290.09, subd. 10, and charitable contributions, \u00a7290.21, subd. 3 \u2014 available under the Minnesota tax laws. Our decisions consistently have recognized that traditionally \u201c[legislatures have especially broad latitude in creating classifications and distinctions in tax statutes,\u201d Regan v. Taxation With Representation of Wash., 461 U. S. 540, 547 (1983), in part because the \u201cfamiliarity with local conditions\u201d enjoyed by legislators especially enables them to \u201cachieve an equitable distribution of the tax burden.\u201d Madden v. Kentucky, 309 U. S. 83, 88 (1940). Under our prior decisions, the Minnesota Legislature\u2019s judgment that a deduction for educational expenses fairly equalizes the tax burden of its citizens and encourages desirable expenditures-for educational purposes is entitled to substantial deference.\nOther characteristics of \u00a7290.09, subd. 22, argue equally strongly for the provision\u2019s constitutionality. Most importantly, the deduction is available for educational expenses incurred by all parents, including those whose children attend public schools and those whose children attend nonsectarian private schools or sectarian private schools. Just as in Widmar v. Vincent, 454 U. S. 263, 274 (1981), where we concluded that the State\u2019s provision of a forum neutrally \u201cavailable to a broad class of nonreligious as well as religious speakers\u201d does not \u201cconfer any imprimatur of state approval,\u201d ibid., so here: \u201c[t]he provision of benefits to so broad a spectrum of groups is an important index of secular effect.\u201d Ibid.\nIn this respect, as well as others, this case is vitally different from the scheme struck down in Nyquist. There, public assistance amounting to tuition grants was provided only to parents of children in nonpublic schools. This fact had considerable bearing on our decision striking down the New York statute at issue; we explicitly distinguished both Allen and Everson on the grounds that \u201c[i]n both cases the class of beneficiaries included all schoolchildren, those in public as well as those in private schools.\u201d 413 U. S., at 782-783, n. 38 (emphasis in original). Moreover, we intimated that \u201cpublic assistance (e. g., scholarships) made available generally without regard to the sectarian-nonsectarian, or public-nonpublic nature of the institution benefited,\u201d ibid., might not offend the Establishment Clause. We think the tax deduction adopted by Minnesota is more similar to this latter type of program than it is to the arrangement struck down in Nyquist. Unlike the assistance at issue in Nyquist, \u00a7 290.09, subd. 22, permits all parents \u2014 whether their children attend public school or private \u2014 to deduct their children\u2019s educational expenses. As Widmar and our other decisions indicate, a program, like \u00a7290.09, subd. 22, that neutrally provides state assistance to a broad spectrum of citizens is not readily subject to challenge under the Establishment Clause.\nWe also agree with the Court of Appeals that, by channeling whatever assistance it may provide to parochial schools through individual parents, Minnesota has reduced the Establishment Clause objections to which its action is subject. It is true, of course, that financial assistance provided to parents ultimately has an economic effect comparable to that of aid given directly to the schools attended by their children. It is also true, however, that under Minnesota\u2019s arrangement public funds become available only as a result of numerous private choices of individual parents of school-age children. For these reasons, we recognized in Nyquist that the means by which state assistance flows to private schools is of some importance: we said that \u201cthe fact that aid is disbursed to parents rather than to . . . schools\u201d is a material consideration in Establishment Clause analysis, albeit \u201conly one among many factors to be considered.\u201d 41B U. S., at 781. It is noteworthy that all but one of our recent cases invalidating state aid to parochial schools have involved the direct transmission of assistance from the State to the schools themselves. The exception, of course, was Nyquist, which, as discussed previously, is distinguishable from this case on other grounds. Where, as here, aid to parochial schools is available only as a result of decisions of individual parents no \u201cimprimatur of state approval,\u201d Widmar, supra, at 274, can be deemed to have been conferred on any particular religion, or on religion generally.\nWe find it useful, in the light of the foregoing characteristics of \u00a7290.09, subd. 22, to compare the attenuated financial benefits flowing to parochial schools from the section to the evils against which the Establishment Clause was designed to protect. These dangers are well described by our statement that \u201c \u2018[w]hat is at stake as a matter of policy [in Establishment Clause cases] is preventing that kind and degree of government involvement in religious life that, as history teaches us, is apt to lead to strife and frequently strain a political system to the breaking point.\u2019 \u201d Nyquist, 413 U. S., at 796, quoting Walz v. Tax Comm\u2019n, 397 U. S., at 694 (opinion of Harlan, J.). It is important, however, to \u201ckeep these issues in perspective\u201d:\n\u201cAt this point in the 20th century we are quite far removed from the dangers that prompted the Framers to include the Establishment Clause in the Bill of Rights. See Walz v. Tax Comm\u2019n, 397 U. S. 664, 668 (1970). The risk of significant religious or denominational control over our democratic processes \u2014 or even of deep political division along religious lines \u2014 is remote, and when viewed against the positive contributions of sectarian schools, any such risk seems entirely tolerable in light of the continuing oversight of this Court.\u201d Wolman, 433 U. S., at 263 (Powell, J., concurring in part, concurring in judgment in part, and dissenting in part).\nThe Establishment Clause of course extends beyond prohibition of a state church or payment of state funds to one or more churches. We do not think, however, that its prohibition extends to the type of tax deduction established by Minnesota. The historic purposes of the Clause simply do not encompass the sort of attenuated financial benefit, ultimately controlled by the private choices of individual parents, that eventually flows to parochial schools from the neutrally available tax benefit at issue in this case.\nPetitioners argue that, notwithstanding the facial neutrality of \u00a7290.09, subd. 22, in application the statute primarily benefits religious institutions. Petitioners rely, as they did below, on a statistical analysis of the type of persons claiming the tax deduction. They contend that most parents of public school children incur no tuition expenses, see Minn. Stat. \u00a7120.06 (1982), and that other expenses deductible under \u00a7290.09, subd. 22, are negligible in value; moreover, they claim that 96% of the children in private schools in 1978-1979 attended religiously affiliated institutions. Because of all this, they reason, the bulk of deductions taken under \u00a7290.09, subd. 22, will be claimed by parents of children in sectarian schools. Respondents reply that petitioners have failed to consider the impact of deductions for items such as transportation, summer school tuition, tuition paid by parents whose children attended schools outside the school districts in which they resided, rental or purchase costs for a variety of equipment, and tuition for certain types of instruction not ordinarily provided in public schools.\nWe need not consider these contentions in detail. We would be loath to adopt a rule grounding the constitutionality of a facially neutral law on annual reports reciting the extent to which various classes of private citizens claimed benefits under the law. Such an approach would scarcely provide the certainty that this field stands in need of, nor can we perceive principled standards by which such statistical evidence might be evaluated. Moreover, the fact that private persons fail in a particular year to claim the tax relief to which they are entitled \u2014 under a facially neutral statute \u2014 should be of little importance in determining the constitutionality of the statute permitting such relief.\nFinally, private educational institutions, and parents paying for their children to attend these schools, make special contributions to the areas in which they operate. \u201cParochial schools, quite apart from their sectarian purpose, have provided an educational alternative for millions of young Americans; they often afford wholesome competition with our public schools; and in some States they relieve substantially the tax burden incident to the operation of public schools.\u201d Wolman, supra, at 262 (Powell, J., concurring in part, concurring in judgment in part, and dissenting in part). If parents of children in private schools choose to take especial advantage of the relief provided by \u00a7290.09, subd. 22, it is no doubt due to the fact that they bear a particularly great financial burden in educating their children. More fundamentally, whatever unequal effect may be attributed to the statutory classification can fairly be regarded as a rough return for the benefits, discussed above, provided to the State and all taxpayers by parents sending their children to parochial schools. In the light of all this, we believe it wiser to decline to engage in the type of empirical inquiry into those persons benefited by state law which petitioners urge.\nThus, we hold that the Minnesota tax deduction for educational expenses satisfies the primary effect inquiry of our Establishment Clause cases.\nTurning to the third part of the Lemon inquiry, we have no difficulty in concluding that the Minnesota statute does not \u201cexcessively entangle\u201d the State in religion. The only plausible source of the \u201ccomprehensive, discriminating, and continuing state surveillance,\u201d 403 U. S., at 619, necessary to run afoul of this standard would lie in the fact that state officials must determine whether particular textbooks qualify for a deduction. In making this decision, state officials must disallow deductions taken for \u201cinstructional books and materials used in the teaching of religious tenets, doctrines or worship, the purpose of which is to inculcate such tenets, doctrines or worship.\u201d Minn. Stat. \u00a7290.09, subd. 22 (1982). Making decisions such as this does not differ substantially from making the types of decisions approved in earlier opinions of this Court. In Board of Education v. Allen, 392 U. S. 236 (1968), for example, the Court upheld the loan of secular textbooks to parents or children attending nonpublic schools; though state officials were required to determine whether particular books were or were not secular, the system was held not to violate the Establishment Clause. See also Wolman v. Walter, 433 U. S. 229 (1977); Meek v. Pittenger, 421 U. S. 349 (1975). The same result follows in this case.\nFor the foregoing reasons, the judgment of the Court of Appeals is\nAffirmed.\nMinnesota Stat. \u00a7 290.09, subd. 22 (1982), permits a taxpayer to deduct from his or her computation of gross income the following:\n\u201cTuition and transportation expense. The amount he has paid to others, not to exceed $500 for each dependent in grades K to 6 and $700 for each dependent in grades 7 to 12, for tuition, textbooks and transportation of each dependent in attending an elementary or secondary school situated in Minnesota, North Dakota, South Dakota, Iowa, or Wisconsin, wherein a resident of this state may legally fulfill the state\u2019s compulsory attendance laws, which is not operated for profit, and which adheres to the provisions of the Civil Rights Act of 1964 and chapter 363. As used in this subdivision, \u2018textbooks\u2019 shall mean and include books and other instructional materials and equipment used in elementary and secondary schools in teaching only those subjects legally and commonly taught in public elementary and secondary schools in this state and shall not include instructional books and materials used in the teaching of religious tenets, doctrines or worship, the purpose of which is to inculcate such tenets, doctrines or worship, nor shall it include such books or materials for; or transportation to, extracurricular activities including sporting events, musical or dramatic events, speech activities, driver\u2019s education, or programs of a similar nature.\u201d\nBoth lower courts found that the statute permits deduction of a range of educational expenses. The District Court found that deductible expenses included:\n\u201c1. Tuition in the ordinary sense.\n\u201c2. Tuition to public school students who attend public schools outside their residence school districts.\n\u201c3. Certain summer school tuition.\n\u201c4. Tuition charged by a school for slow learner private tutoring services. \u201c5. Tuition for instruction provided by an elementary or secondary school to students who are physically unable to attend classes at such school.\n\u201c6. Tuition charged by a private tutor or by a school that is not an elementary or secondary school if the instruction is acceptable for credit in an elementary or secondary school.\n\u201c7. Montessori School tuition for grades K through 12.\n\u201c8. Tuition for driver education when it is part of the school curriculum.\u201d\n514 F. Supp. 998, 1000 (1981).\nThe Court of Appeals concurred in this finding.\nIn addition, the District Court found that the statutory deduction for \u201ctextbooks\u201d included not only \u201csecular textbooks\u201d but also:\n\u201c1. Cost of tennis shoes and sweatsuits for physical education.\n\u201c2. Camera rental fees paid to the school for photography classes.\n\u201c3. Ice skates rental fee paid to the school.\n\u201c4. Rental fee paid to the school for calculators for mathematics classes. \u201c5. Costs of home economics materials needed to meet minimum requirements.\n\u201c6. Costs of special metal or wood needed to meet minimum requirements of shop classes.\n\u201c7. Costs of supplies needed to meet minimum requirements of art classes. \u201c8. Rental fees paid to the school for musical instruments.\n\u201c9. Cost of pencils and special notebooks required for class.\u201d Ibid.\nThe Court of Appeals accepted this finding.\nIn Lemon v. Kurtzman, the Court concluded that the State\u2019s reimbursement of nonpublic schools for the cost of teachers\u2019 salaries, textbooks, and instructional materials, and its payment of a salary supplement to teachers in nonpublic schools, resulted in excessive entanglement of church and state. In Levitt v. Committee for Public Education, we struck down on Establishment Clause grounds a state program reimbursing nonpublic schools for the cost of teacher-prepared examinations. Finally, in Meek v. Pittenger and Wolman v. Walter, we held unconstitutional a direct loan of instructional materials to nonpublic schools, while upholding the loan of textbooks to individual students.\nSection 290.09 contains no express statements of legislative purpose, and its legislative history offers few unambiguous indications of actual intent. The absence of such evidence does not affect our treatment of the statute.\nDeductions for charitable contributions, allowed by Minnesota law, Minn. Stat. \u00a7 290.21, subd. 3 (1982), include contributions to religious institutions, and exemptions from property tax for property used for charitable purposes under Minnesota law include property used for wholly religious purposes, \u00a7 272.02. In each case, it may be that religious institutions benefit very substantially from the allowance of such deductions. The Court\u2019s holding in Walz v. Tax Comm\u2019n, 397 U. S. 664 (1970), indicates, however, that this does not require the conclusion that such provisions of a State\u2019s tax law violate the Establishment Clause.\nOur decision in Committee for Public Education v. Nyquist, 413 U. S. 756 (1973), is not to the contrary on this point. We expressed considerable doubt there that the \u201ctax benefits\u201d provided by New York law properly could be regarded as parts of a genuine system of tax laws. Plainly, the outright grants to low-income parents did not take the form of ordinary tax benefits. As to the benefits provided to middle-income parents, the Court said:\n\u201cThe amount of the deduction is unrelated to the amount of money actually expended by any parent on tuition, but is calculated on the basis of a formula contained in the statute. The formula is apparently the product of a legislative attempt to assure that each family would receive a carefully estimated net benefit, and that the tax benefit would be comparable to, and compatible with, the tuition grant for lower income families.\u201d Id., at 790 (footnote omitted).\nIndeed, the question whether a program having the elements of a \u201cgenuine tax deduction\u201d would be constitutionally acceptable was expressly reserved in Nyquist, supra, at 790, n. 49. While the economic consequences of the program in Nyquist and that in this case may be difficult to distinguish, we have recognized on other occasions that \u201cthe form of the [State\u2019s assistance to parochial schools must be examined] for the light that it casts on the substance.\u201d Lemon v. Kurtzman, 403 U. S., at 614. The fact that the Minnesota plan embodies a \u201cgenuine tax deduction\u201d is thus of some relevance, especially given the traditional rule of deference accorded legislative classifications in tax statutes.\nLikewise, in Sloan v. Lemon, 413 U. S. 825, 832 (1973), where we held that a Pennsylvania statute violated the First Amendment, we emphasized that \u201cthe State [had] singled out a class of its citizens for a special economic benefit.\u201d We also observed in Widmar that \u201cempirical evidence that religious groups will dominate [the school\u2019s] open forum,\u201d 454 U. S., at 275, might be relevant to analysis under the Establishment Clause. We address this infra, at 400-402.\nOur full statement was:\n\u201cAllen and Everson differ from the present litigation in a second important respect. In both cases the class of beneficiaries included all schoolchildren, those in public as well as those in private schools. See also Tilton v. Richardson, [403 U. S. 672 (1971)], in which federal aid was made available to all institutions of higher learning, and Walz v. Tax Comm\u2019n, supra, in which tax exemptions were accorded to all educational and charitable nonprofit institutions. . . . Because of the manner in which we have resolved the tuition grant issue, we need not decide whether the significantly religious character of the statute\u2019s beneficiaries might differentiate the present cases from a case involving some form of public assistance (e. g., scholarships) made available generally without regard to the sectarian-nonsectarian, or public-nonpublic nature of the institution benefited. . . . Thus, our decision today does not compel. . . the conclusion that the educational assistance provisions of the \u2018G. I. Bill,\u2019 38 U. S. C. \u00a7 1651, impermissibly advance religion in violation of the Establishment Clause.\u201d 413 U. S., at 782-783, n. 38. See also, id., at 775.\nPetitioners cite a \u201cRevenue Analysis\u201d prepared in 1976 by the Minnesota Department of Revenue, which states that \u201c[o]nly those taxpayers having dependents in nonpublic elementary or secondary schools are affected by this law since tuition, transportation and textbook expenses for public school students are paid for by the school district.\u201d Brief for Petitioners 38. We fail to see the significance of the report; it is no more than a capsule description of the tax deduction provision. As discussed below, and as the lower courts expressly found, the analysis is plainly mistaken, as a factual matter, regarding the effect of \u00a7290.09, subd. 22. Moreover, several memoranda prepared by the Minnesota Department of Revenue in 1979 \u2014 stating that a number of specific expenses may be deducted by parents with children in public school \u2014 clearly indicate that the summary discussion in the 1976 memorandum was not intended as any comprehensive or binding agency determination.\nOur conclusion is unaffected by the fact that \u00a7 290.09, subd. 22, permits deductions for amounts spent for textbooks and transportation as well as tuition. In Everson v. Board of Education, 330 U. S. 1 (1947), we approved a statute reimbursing parents of all schoolchildren for the costs of transporting their children to school. Doing so by means of a deduction, rather than a direct grant, only serves to make the State\u2019s action less objectionable. Likewise, in Board of Education v. Allen, 392 U. S. 236 (1968), we approved state loans of textbooks to all schoolchildren; although we disapproved, in Meek v. Pittenger, 421 U. S. 349 (1975), and Wolman v. Walter, 433 U. S. 229 (1977), direct loans of instructional materials to sectarian schools, we do not find those cases controlling. First, they involved assistance provided to the schools themselves, rather than tax benefits directed to individual parents, see supra, at 399. Moreover, we think that state assistance for the rental of calculators, see App. A18, ice skates, ibid., tennis shoes, ibid., and the like, scarcely poses the type of dangers against which the Establishment Clause was intended to guard.\nNo party to this litigation has urged that the Minnesota plan is invalid because it runs afoul of the rather elusive inquiry, subsumed under the third part of the Lemon test, whether the Minnesota statute partakes of the \u201cdivisive political potential\u201d condemned in Lemon, 403 U. S., at 622. The argument is advanced, however, by amici National Committee for Public Education and Religious Liberty et al. This variation of the \u201centanglement\u201d test has been interpreted differently in different cases. Compare Lemon v. Kurtzman, 403 U. S., at 622-625, with id., at 665-666 (opinion of White, J.); Meek v. Pittenger, 421 U. S., at 359-362, with id., at 374-379 (BRENNAN, J., concurring in part and dissenting in part). Since this aspect of the \u201centanglement\u201d inquiry originated with Lemon v. Kurtzman, supra, and the Court\u2019s opinion there took pains to distinguish both Everson v. Board of Education, supra, and Board of Education v. Allen, supra, the Court in Lemon must have been referring to a phenomenon which, although present in that case, would have been absent in the two cases it distinguished.\nThe Court\u2019s language in Lemon respecting political divisiveness was made in the context of Pennsylvania and Rhode Island statutes which provided for either direct payments of, or reimbursement of, a proportion of teachers\u2019 salaries in parochial schools. We think, in the light of the treatment of the point in later cases discussed above, the language must be regarded as confined to cases where direct financial subsidies are paid to parochial schools or to teachers in parochial schools.",
+        "type": "majority",
+        "author": "Justice Rehnquist"
+      },
+      {
+        "text": "Justice Marshall,\nwith whom Justice Brennan, Justice Blackmun, and Justice Stevens join, dissenting.\nThe Establishment Clause of the First Amendment prohibits a State from subsidizing religious education, whether it does so directly or indirectly. In my view, this principle of neutrality forbids not only the tax benefits struck down in Committee for Public Education v. Nyquist, 413 U. S. 756 (1973), but any tax benefit, including the tax deduction at issue here, which subsidizes tuition payments to sectarian schools. I also believe that the Establishment Clause prohibits the tax deductions that Minnesota authorizes for the cost of books and other instructional materials used for sectarian purposes.\nI\nThe majority today does not question the continuing vitality of this Court\u2019s decision in Nyquist. That decision established that a State may not support religious education either through direct grants to parochial schools or through financial aid to parents of parochial school students. Id., at 780, 785-786. Nyquist also established that financial aid to parents of students attending parochial schools is no more permissible if it is provided in the form of a tax credit than if provided in the form of cash payments. Id., at 789-791; see ante, at 396-397, n. 6. Notwithstanding these accepted principles, the Court today upholds a statute that provides a tax deduction for the tuition charged by religious schools. The Court concludes that the Minnesota statute is \u201cvitally different\u201d from the New York statute at issue in Nyquist. Ante, at 398. As demonstrated below, there is no significant difference between the two schemes. The Minnesota tax statute violates the Establishment Clause for precisely the same reason as the statute struck down in Nyquist: it has a direct and immediate effect of advancing religion.\nA\nIn calculating their net income for state income tax purposes, Minnesota residents are permitted to deduct the cost of their children\u2019s tuition, subject to a ceiling of $500 or $700 per child. By taking this deduction, a taxpayer reduces his tax bill by a sum equal to the amount of tuition multiplied by his rate of tax. Although this tax benefit is available to any parents whose children attend schools which charge tuition, the vast majority of the taxpayers who are eligible to receive the benefit are parents whose children attend religious schools. In the 1978-1979 school year, 90,000 students were enrolled in nonpublic schools charging tuition; over 95% of those students attended sectarian schools. Although the statute also allows a deduction for the tuition expenses of children attending public schools, Minnesota public schools are generally prohibited by law from charging tuition. Minn. Stat. \u00a7120.06 (1982). Public schools may assess tuition charges only for students accepted from outside the district. \u00a7 123.39, subd. 5. In the 1978-1979 school year, only 79 public school students fell into this category. The parents of the remaining 815,000 students who attended public schools were ineligible to receive this tax benefit.\nLike the law involved in Nyquist, the Minnesota law can be said to serve a secular purpose: promoting pluralism and diversity among the State\u2019s public and nonpublic schools. But the Establishment Clause requires more than that legislation have a secular purpose. Nyquist, 413 U. S., at 773. \u201c[T]he propriety of a legislature\u2019s purposes may not immunize from further scrutiny a law which . . . has a primary effect that advances religion.\u201d Id., at 774. Moreover, even if one \u201c\u2018primary\u2019 effect [is] to promote some legitimate end under the State\u2019s police power,\u201d the legislation is not \u201cimmune from further examination to ascertain whether it also has the direct and immediate effect of advancing religion.\u201d Id., at 783-784, n. 39. See, e. g., Wolman v. Walter, 433 U. S. 229, 248-254 (1977); Meek v. Pittenger, 421 U. S. 349, 364-366 (1975).\nAs we recognized in Nyquist, direct government subsidization of parochial school tuition is impermissible because \u201cthe effect of the aid is unmistakably to provide desired financial support for nonpublic, sectarian institutions.\u201d 413 U. S., at 783. \u201c[A]id to the educational function of [parochial] schools . . . necessarily results in aid to the sectarian school enterprise as a whole\u201d because \u201c[t]he very purpose of many of those schools is to provide an integrated secular and religious education.\u201d Meek v. Pittenger, supra, at 366. For this reason, aid to sectarian schools must be restricted to ensure that it may be not used to further the religious mission of those schools. See, e. g., Wolman v. Walter, supra, at 250-251. While \u201cservices such as police and fire protection, sewage disposal, highways, and sidewalks,\u201d may be provided to parochial schools in common with other institutions, because this type of assistance is clearly \u201c\u2018marked off from the religious function\u2019\u201d of those schools, Nyquist, supra, at 781-782, quoting Everson v. Board of Education, 330 U. S. 1, 18 (1947), unrestricted financial assistance, such as grants for the maintenance and construction of parochial schools, may not be provided. Nyquist, 413 U. S., at 774-780. \u201cIn the absence of an effective means of guaranteeing that the state aid derived from public funds will be used exclusively for secular, neutral, and nonideological purposes, it is clear from our cases that direct aid in whatever form is invalid.\u201d Id., at 780.\nIndirect assistance in the form of financial aid to parents for tuition payments is similarly impermissible because it is not \u201csubject to . . . restrictions\u201d which \u201c\u2018guarantee the separation between secular and religious educational functions and . . . ensure that State financial aid supports only the former.\u2019\u201d Id., at 783, quoting Lemon v. Kurtzman, 403 U. S. 602, 613 (1971). By ensuring that parents will be reimbursed for tuition payments they make, the Minnesota statute requires that taxpayers in general pay for the cost of parochial education and extends a financial \u201cincentive to parents to send their children to sectarian schools.\u201d Nyquist, 413 U. S., at 786. As was true of the law struck down in Nyquist:\n\u201c[I]t is precisely the function of [Minnesota\u2019s] law to provide assistance to private schools, the great majority of which are sectarian. By reimbursing parents for a portion of their tuition bill, the State seeks to relieve their financial burdens sufficiently to assure that they continue to have the option to send their children to religion-oriented schools. And while the other purposes for that aid \u2014 to perpetuate a pluralistic educational environment and to protect the fiscal integrity of overburdened public schools \u2014 are certainly unexceptionable, the effect of the aid is unmistakably to provide desired financial support for nonpublic, sectarian institutions.\u201d Id., at 783\nThat parents receive a reduction of their tax liability, rather than a direct reimbursement, is of no greater significance here than it was in Nyquist. \u201c[F]or purposes of determining whether such aid has the effect of advancing religion,\u201d it makes no difference whether the qualifying \u201cparent receives an actual cash payment [or] is allowed to reduce . . . the sum he would otherwise be obliged to pay over to the State.\u201d Id., at 790-791. It is equally irrelevant whether a reduction in taxes takes the form of a tax \u201ccredit,\u201d a tax \u201cmodification,\u201d or a tax \u201cdeduction.\u201d Id., at 789-790. What is of controlling significance is not the form but the \u201csubstantive impact\u201d of the financial aid. Id., at 786. \u201c[IJnsofar as such benefits render assistance to parents who send their children to sectarian schools, their purpose and inevitable effect are to aid and advance those religious institutions.\u201d Id., at 793 (emphasis added).\nB\nThe majority attempts to distinguish Nyquist by pointing to two differences between the Minnesota tuition-assistance program and the program struck down in Nyquist. Neither of these distinctions can withstand scrutiny.\n1\nThe majority first attempts to distinguish Nyquist on the ground that Minnesota makes all parents eligible to deduct up to $500 or $700 for each dependent, whereas the New York law allowed a deduction only for parents whose children attended nonpublic schools. Although Minnesota taxpayers who send their children to local public schools may not deduct tuition expenses because they incur none, they may deduct other expenses, such as the cost of gym clothes, pencils, and notebooks, which are shared by all parents of school-age children. This, in the majority\u2019s view, distinguishes the Minnesota scheme from the law at issue in Nyquist.\nThat the Minnesota statute makes some small benefit available to all parents cannot alter the fact that the most substantial benefit provided by the statute is available only to those parents who send their children to schools that charge tuition. It is simply undeniable that the single largest expense that may be deducted under the Minnesota statute is tuition. The statute is little more than a subsidy of tuition masquerading as a subsidy of general educational expenses. The other deductible expenses are de minimis in comparison to tuition expenses.\nContrary to the majority\u2019s suggestion, ante, at 401, the bulk of the tax benefits afforded by the Minnesota scheme are enjoyed by parents of parochial school children not because parents of public school children fail to claim deductions to which they are entitled, but because the latter are simply unable to claim the largest tax deduction that Minnesota authorizes. Fewer than 100 of more than 900,000 school-age children in Minnesota attend public schools that charge a general tuition. Of the total number of taxpayers who are eligible for the tuition deduction, approximately 96% send their children to religious schools. Parents who send their children to free public schools are simply ineligible to obtain the full benefit of the deduction except in the unlikely event that they buy $700 worth of pencils, notebooks, and bus rides for their school-age children. Yet parents who pay at least $700 in tuition to nonpublic, sectarian schools can claim the full deduction even if they incur no other educational expenses.\nThat this deduction has a primary effect of promoting religion can easily be determined without any resort to the type of \u201cstatistical evidence\u201d that the majority fears would lead to constitutional uncertainty. Ibid. The only factual inquiry necessary is the same as that employed in Nyquist and Sloan v. Lemon, 413 U. S. 825 (1973): whether the deduction permitted for tuition expenses primarily benefits those who send their children to religious schools. In Nyquist we unequivocally rejected any suggestion that, in determining the effect of a tax statute, this Court should look exclusively to what the statute on its face purports to do and ignore the actual operation of the challenged provision. In determining the effect of the New York statute, we emphasized that \u201cvirtually all\u201d of the schools receiving direct grants for maintenance and repair were Roman Catholic schools, 413 U. S., at 774, that reimbursements were given to parents \u201cwho send their children to nonpublic schools, the bulk of which is concededly sectarian in orientation,\u201d id., at 780, that \u201cit is precisely the function of New York\u2019s law to provide assistance to private schools, the great majority of which are sectarian,\u201d id., at 783, and that \u201ctax reductions authorized by this law flow primarily to the parents of children attending sectarian, nonpublic schools.\u201d Id., at 794. Similarly, in Sloan v. Lemon, supra, at 830, we considered important to our \u201cconsider[ation of] the new law\u2019s effect. . . [that] \u2018more than 90% of the children attending nonpublic schools in the Commonwealth of Pennsylvania are enrolled in schools that are controlled by religious organizations or that have the purpose of propagating and promoting religious faith.\u2019\u201d\nIn this case, it is undisputed that well over 90% of the children attending tuition-charging schools in Minnesota are enrolled in sectarian schools. History and experience likewise instruct us that any generally available financial assistance for elementary and secondary school tuition expenses mainly will further religious education because the majority of the schools which charge tuition are sectarian. Cf. Nyquist, 413 U. S., at 785; Lemon v. Kurtzman, 403 U. S., at 628-630 (Douglas, J., concurring). Because Minnesota, like every other State, is committed to providing free public education, tax assistance for tuition payments inevitably redounds to the benefit of nonpublic, sectarian schools and parents who send their children to those schools.\n2\nThe majority also asserts that the Minnesota statute is distinguishable from the statute struck down in Nyquist in another respect: the tax benefit available under Minnesota law is a \u201cgenuine tax deduction,\u201d whereas the New York law provided a benefit which, while nominally a deduction, also had features of a \u201ctax credit.\u201d Ante, at 396, and n. 6. Under the Minnesota law, the amount of the tax benefit varies directly with the amount of the expenditure. Under the New York law, the amount of deduction was not dependent upon the amount actually paid for tuition but was a predetermined amount which depended on the tax bracket of each taxpayer. The deduction was designed to yield roughly the same amount of tax \u201cforgiveness\u201d for each taxpayer.\nThis is a distinction without a difference. Our prior decisions have rejected the relevance of the majority\u2019s formalistic distinction between tax deductions and the tax benefit at issue in Nyquist. See Byrne v. Public Funds for Public Schools, 442 U. S. 907 (1979), summarily aff\u2019g 590 F. 2d 514 (CA3); Grit v. Wolman, 413 U. S. 901 (1973), summarily aff\u2019g Kosydar v. Wolman, 353 F. Supp. 744 (SD Ohio 1972). The deduction afforded by Minnesota law was \u201cdesigned to yield a [tax benefit] in exchange for performing a specific act which the State desires to encourage.\u201d Nyquist, supra, at 789. Like the tax benefit held impermissible in Nyquist, the tax deduction at issue here concededly was designed to \u201cen-courag[e] desirable expenditures for educational purposes.\u201d Ante, at 396. Of equal importance, as the majority also concedes, the \u201ceconomic consequenc[e]\u201d of these programs is the same, ante, at 397, n. 6, for in each case the \u201cfinancial assistance provided to parents ultimately has an economic effect comparable to that of aid given directly to the schools.\u201d Ante, at 399. See Walz v. Tax Comm\u2019n, 397 U. S. 664, 699 (1970) (opinion of Harlan, J.). It was precisely the substantive impact of the financial support, and not its particular form, that rendered the programs in Nyquist and Sloan v. Lemon unconstitutional. See Nyquist, supra, at 790-791, 794; Sloan v. Lemon, 413 U. S., at 832.\nC\nThe majority incorrectly asserts that Minnesota\u2019s tax deduction for tuition expenses \u201cbears less resemblance to the arrangement struck down in Nyquist than it does to assistance programs upheld in our prior decisions and those discussed with approval in Nyquist.\u201d Ante, at 394. One might as well say that a tangerine bears less resemblance to an orange than to an apple. The two cases relied on by the majority, Board of Education v. Allen, 392 U. S. 236 (1968), and Everson v. Board of Education, 330 U. S. 1 (1947), are inapposite today for precisely the same reasons that they were inapposite in Nyquist.\nWe distinguished these cases in Nyquist, supra, at 781-782, and again in Sloan v. Lemon, supra, at 832. Financial assistance for tuition payments has a consequence that\n\u201cis quite unlike the sort of \u2018indirect\u2019 and \u2018incidental\u2019 benefits that flowed to sectarian schools from programs aiding all parents by supplying bus transportation and secular textbooks for their children. Such benefits were carefully restricted to the purely secular side of church-affiliated institutions and provided no special aid for those who had chosen to support religious schools. Yet such aid approached the \u2018verge\u2019 of the constitutionally impermissible.\u201d Sloan v. Lemon, supra, at 832 (latter emphasis added).\nAs previously noted, supra, at 409, the Minnesota tuition tax deduction is not available to all parents, but only to parents whose children attend schools that charge tuition, which are comprised almost entirely of sectarian schools. More importantly, the assistance that flows to parochial schools as a result of the tax benefit is not restricted, and cannot be restricted, to the secular functions of those schools.\nIn my view, Minnesota\u2019s tax deduction for the cost of textbooks and other instructional materials is also constitutionally infirm. The majority is simply mistaken in concluding that a tax deduction, unlike a tax credit or a direct grant to parents, promotes religious education in a manner that is only \u201cattenuated.\u201d Ante, at 399, 400. A tax deduction has a primary effect that advances religion if it is provided to offset expenditures which are not restricted to the secular activities of parochial schools.\nThe instructional materials which are subsidized by the Minnesota tax deduction plainly may be used to inculcate religious values and belief. In Meek v. Pittenger, 421 U. S., at 366, we held that even the use of \u201cwholly neutral, secular instructional material and equipment\u201d by church-related schools contributes to religious instruction because \u201c\u2018[t]he secular education those schools provide goes hand in hand with the religious mission that is the only reason for the schools\u2019 existence.\u2019\u201d In Wolman v. Walter, 433 U. S., at 249-250, we concluded that precisely the same impermissible effect results when the instructional materials are loaned to the pupil or his parent, rather than directly to the schools. We stated that \u201cit would exalt form over substance if this distinction were found to justify a result different from that in Meek.\u201d Id., at 250. It follows that a tax deduction to offset the cost of purchasing instructional materials for use in sectarian schools, like a loan of such materials to parents, \u201cnecessarily results in aid to the sectarian school enterprise as a whole\u201d and is therefore a \u201csubstantial advancement of religious activity\u201d that \u201cconstitutes an impermissible establishment of religion.\u201d Meek v. Pittenger, supra, at 366.\nThere is no reason to treat Minnesota\u2019s tax deduction for textbooks any differently. Secular textbooks, like other secular instructional materials, contribute to the religious mission of the parochial schools that use those books. Although this Court upheld the loan of secular textbooks to religious schools in Board of Education v. Allen, supra, the Court believed at that time that it lacked sufficient experience to determine \u201cbased solely on judicial notice\u201d that \u201cthe processes of secular and religious training are so intertwined that secular textbooks furnished to students by the public [will always be] instrumental in the teaching of religion.\u201d 392 U. S., at 248. This basis for distinguishing secular instructional materials and secular textbooks is simply untenable, and is inconsistent with many of our more recent decisions concerning state aid to parochial schools. See Wolman v. Walter, 433 U. S., at 257-258 (Marshall, J., concurring in part and dissenting in part); id., at 264-266 (Stevens, J., concurring in part and dissenting in part); Meek v. Pittenger, supra, at 378 (Brennan, J., concurring in part and dissenting in part).\nIn any event, the Court\u2019s assumption in Allen that the textbooks at issue there might be used only for secular education was based on the fact that those very books had been chosen by the State for use in the public schools. 392 U. S., at 244-245. In contrast, the Minnesota statute does not limit the tax deduction to those books which the State has approved for use in public schools. Rather, it permits a deduction for books that are chosen by the parochial schools themselves. Indeed, under the Minnesota statutory scheme, textbooks chosen by parochial schools but not used by public schools are likely to be precisely the ones purchased by parents for their children\u2019s use. Like the law upheld in Board of Education v. Allen, supra, Minn. Stat. \u00a7\u00a7 123.932 and 123.933 (1982) authorize the State Board of Education to provide textbooks used in public schools to nonpublic school students. Parents have little reason to purchase textbooks that can be borrowed under this provision.\nH-I I \u2014 i t \u2014 i\nThere can be little doubt that the State of Minnesota intended to provide, and has provided, \u201c[substantial aid to the educational function of [church-related] schools,\u201d and that the tax deduction for tuition and other educational expenses \u201cnecessarily results in aid to the sectarian school enterprise as a whole.\u201d Meek v. Pittenger, supra, at 366. It is beside the point that the State may have legitimate secular reasons for providing such aid. In focusing upon the contributions made by church-related schools, the majority has lost sight of the issue before us in this case.\n\u201cThe sole question is whether state aid to these schools can be squared with the dictates of the Religion Clauses. Under our system the choice has been made that government is to be entirely excluded from the area of religious instruction .... The Constitution decrees that religion must be a private matter for the individual, the family, and the institutions of private choice, and that while some involvement and entanglement are inevitable, lines must be drawn.\u201d Lemon v. Kurtzman, 403 U. S., at 625.\nIn my view, the lines drawn in Nyquist were drawn on a reasoned basis with appropriate regard for the principles of neutrality embodied by the Establishment Clause. I do not believe that the same can be said of the lines drawn by the majority today. For the first time, the Court has upheld financial support for religious schools without any reason at all to assume that the support will be restricted to the secular functions of those schools and will not be used to support religious instruction. This result is flatly at odds with the fundamental principle that a State may provide no financial support whatsoever to promote religion. As the Court stated in Everson, 330 U. S., at 16, and has often repeated, see, e. g., Meek v. Pittenger, 421 U. S., at 359; Nyquist, 413 U. S., at 780:\n\u201cNo tax in any amount, large or small, can be levied to support any religious activities or institutions, whatever they may be called, or whatever form they may adopt to teach or practice religion.\u201d\nI dissent.\nAs we noted in Nyquist, it is \u201cfirmly established\u201d that a statute may impermissibly advance religion \u201ceven though it does not aid one religion more than another but merely benefits all religions alike.\u201d 413 U. S., at 771. See, e. g., Wolman v. Walter, 433 U. S. 229, 248-254 (1977); Meek v. Pittenger, 421 U. S. 349, 364-366 (1975).\nEven if the Minnesota statute allowed parents of public school students to deduct expenses that were likely to be equivalent to the tuition expenses of private school students, it would still be unconstitutional. Insofar as the Minnesota statute provides a deduction for parochial school tuition, it provides a benefit to parochial schools that furthers the religious mission of those schools. Nyquist makes clear that the State may not provide any financial assistance to parochial schools unless that assistance is limited to secular uses. 413 U. S., at 780-785.\nIndeed, in this respect the Minnesota statute has an even greater tendency to promote religious education than the New York statute struck down in Nyquist, since the percentage of private schools that are nonsectarian is far greater in New York than in Minnesota.\nSimilarly, in Meek v. Pittenger, 421 U. S., at 363, we held that \u201cthe direct loan of instructional material and equipment has the unconstitutional primary effect of advancing religion because of the predominantly religious character of the schools benefiting from the Act.\u201d See id., at 366. We relied on a finding that \u201cof the 1,320 nonpublic schools in Pennsylvania that . . . qualify for aid under Act 195, more than 75% are church-related or religiously affiliated educational institutions.\u201d Id., at 364. This could not possibly have been ascertained from the text of the facially neutral statute, but could only be determined on the basis of an \u201cempirical inquiry.\u201d And in Wolman v. Walter, 433 U. S., at 234, the Court relied on a stipulation that \u201cduring the 1974-1975 school year there were 720 chartered nonpublic schools in Ohio. Of these, all but 29 were sectarian. More than 96% of the nonpublic enrollment attended sectarian schools, and more than 92% attended Catholic schools.\u201d\nIn Byrne v. Public Funds for Public Schools, we summarily affirmed a decision striking down a program of tax deductions. The amount of deduction was fixed at $1,000 for each dependent attending a tuition-charging nonpublic school. This decision makes clear that the constitutionality of a tax benefit does not turn on whether the benefit is in the form of a deduction from gross income or a tax \u201ccredit.\u201d\nIn Grit v. Wolman, we summarily affirmed a decision invalidating a system of tax credits for nonpublic school parents in which the amount of the credit depended on the amount of tuition paid. This decision demonstrates that it is irrelevant whether the amount of a tax benefit is proportionate to the amount of tuition paid or is simply an arbitrary sum. The Court\u2019s affirmance of the result in each of these cases was a \u201cdecision on the merits, entitled to precedential weight.\u201d Meek v. Pittenger, supra, at 366-367, n. 16.\nThe deduction at issue in this case does differ from the tax benefits in Nyquist and our other prior cases in one respect: by its very nature the deduction embodies an inherent limit on the extent to which a State may subsidize religious education. Unlike a tax credit, which may wholly subsidize the cost of religious education if the size of the credit is sufficiently large, or a tax deduction of an arbitrary sum, a deduction of tuition payments from adjusted gross income can never \u201cprovide a basis for . . . complete subsidization of. . . religious schools.\u201d Nyquist, 413 U. S., at 782, n. 38 (emphasis in original). See also id., at 779, 787, n. 44. Nyquist made clear, however, that absolutely no subsidization is permissible unless it is restricted to the purely secular functions of those schools. See, e. g., id., at 777-779, 787-788.\nFor similar reasons, I would hold that the deduction for transportation expenses is constitutional only insofar as it relates to the costs of traveling between home and school. See Wolman v. Walter, 433 U. S., at 252-255 (reimbursement of nonpublic schools for field trip transportation impermis-sibly fosters religion because the nonpublic schools control the timing, frequency, and destination of the trips, which, for sectarian schools, are an integral part of the sectarian education). I would therefore reverse the judgment of the Court of Appeals and remand for a determination whether the insignificant deductions that remain \u2014 e. g., deductions for transportation between home and school and for pencils and notebooks \u2014 are sever-able from the other deductions.",
+        "type": "dissent",
+        "author": "Justice Marshall,"
+      }
+    ],
+    "attorneys": [
+      "William I. Kampf argued the cause for petitioners. With him on the brief were James A. Lee, Jr., Charles S. Sims, and Burt Neubome.",
+      "Douglas C. Blomgren, Special Assistant Attorney General of Minnesota, argued the cause for respondents. With him on the brief for respondent Allen were Hubert H. Humphrey III, Attorney General, Catharine F. Haukedahl, Special Assistant Attorney General, and William P. Marshall. John R. Kenefiek filed a brief for respondents Becker et al. Timothy P. Quinn and Andrew J. Eisenzimmer filed a brief for respondents Berthiaume et al."
+    ],
+    "corrections": "",
+    "head_matter": "MUELLER et al. v. ALLEN et al.\nNo. 82-195.\nArgued April 18, 1983 \u2014\nDecided June 29, 1983\nWilliam I. Kampf argued the cause for petitioners. With him on the brief were James A. Lee, Jr., Charles S. Sims, and Burt Neubome.\nDouglas C. Blomgren, Special Assistant Attorney General of Minnesota, argued the cause for respondents. With him on the brief for respondent Allen were Hubert H. Humphrey III, Attorney General, Catharine F. Haukedahl, Special Assistant Attorney General, and William P. Marshall. John R. Kenefiek filed a brief for respondents Becker et al. Timothy P. Quinn and Andrew J. Eisenzimmer filed a brief for respondents Berthiaume et al.\nBriefs of amici curiae urging reversal were filed by Lee Boothby and Robert W. Nixon for Americans United for Separation of Church and State; by John W. Baker for the Baptist Joint Committee on Public Affairs; and by Russell C. Brown for the Minnesota Association of School Administrators et al.\nBriefs of amici curiae urging affirmance were filed by Solicitor General Lee, Assistant Attorney General McGrath, Deputy Assistant Attorney General Kuhl, John H. Garvey, Robert E. Kopp, and Michael F. Hertz for the United States; by Edward McGlynn Gaffney, Jr., for the Council for American Private Education et al.; by Nathan Lewin, Daniel D. Chazin, and Dennis Rapps for the National Jewish Commission on Law and Public Affairs; by David J. Young for Citizens for Educational Freedom; and by Wilfred R. Caron, Edward Bennett Williams, and John A. Liekweg for the United States Catholic Conference.\nBriefs of amici curiae were filed by Charles E. Rice for the Catholic League for Religious and Civil Rights; by Henry C. Clausen for United Americans for Public Schools; by John J. Donnelly for Parents Rights, Inc.; by Gwendolyn H. Gregory, August W. Steinhilber, and Thomas A. Shannon for the National School Boards Association; by William H. Mellor III and Maxwell A. Miller for the Mountain Legal States Foundation et al; and by Robert Chanin, Laurence Gold, Nathan Z. Dershowitz, and Marc D. Stem for the National Committee for Public Education and Religious Liberty et al."
+  },
+  "file_name": "0388-01",
+  "first_page_order": 436,
+  "last_page_order": 465
+}

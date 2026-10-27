@@ -1,0 +1,2296 @@
+FILED 
+NOV 10 iy 
+
+
+OFFICE OF THE CLER 
+SUPREME COURT, U.S. 
+
+
+No. 97-2000 
+
+
+In The 
+
+
+Supreme Court of the Hntted States 
+
+
+-—~& 
+October Term, 1998 
+
+
+AMERICAN MANUFACTURERS MUTUAL INSURANCE 
+COMPANY, et al., 
+
+
+Petitioners, 
+VS. 
+
+
+DELORES SCOTT SULLIVAN, et al., 
+Respondents. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Third Circuit 
+
+
+BRIEF FOR RESPONDENT 
+SCHOOL DISTRICT OF PHILADELPHIA 
+IN SUPPORT OF PETITIONERS 
+
+
+JAN M. RITCHIE 
+Counsel of Record 
+JAMES M. TYLER 
+PATRICIA FARRELL KERELO 
+JOSEPH W. CUNNINGHAM 
+MARK PFEIFFER 
+SCHUBERT, BELLWOAR, CAHILL 
+& QUINN 
+Attorneys for Respondent 
+School District of Philadelphia 
+1500 John F. Kennedy Blvd. 
+Suite 1400 
+Philadelphia, PA 19102 
+(215) 587-0146 
+
+
+ee 
+
+
+"BEST AVAILABLE COPYIE 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether insurers and self-insured employers become 
+“state actors” for purposes of the Due Process Clause when a 
+state-authorized utilization review procedure is invoked. 
+
+
+2. Whether Sections 306(f.1)(5) and (6) of the 
+Pennsylvania Workers’ Compensation Act, 77 Pa. Stat. Ann. 
+*531(5) and (6) (West Supp. 1998), which allow Pennsylvania 
+self-insured employers and Pennsylvania insurers to delay 
+payment of challenged medical treatment pending utilization 
+review to determine the reasonableness and necessity of the 
+specific treatment, comport with Due Process. 
+
+
+il ili 
+
+
+TABLE OF CONTENTS Contents 
+Page Page 
+Questions Presented ......s.scccaseacnensieuenee i Summary of the Argument ................--..055 15 
+Table of Camtemts oo... cctivesdendnekaueeumeeeee ii ATQUMENE «1... eee eee eee eee eee eee ee een e ees 19 
+Table of Cited Authorities .................0e000- v I. Self-insured Employers, Like Private Insurance 
+
+
+Companies, Do Not Become State Actors When 
+
+
+Statement of the Case 2... ooiscceiecaeneaecee 1 They Elect To Use State Authorized Utilization 
+
+
+Review Procedures Or Withhold Payment To 
+ED. cncactcececcccsine 19 
+A. Pennsylvania’s Compelling Need For Workers’ 
+Compensation Reform .......sscssscesecess 1 Il. The Utilization Review Process In Pennsylvania’s 
+Workers’ Compensation System Comports With 
+B. Statutory Background ..........cccccecscees 4 Constitutional Due Process ................ 20 
+C. Workers’ Compensation Cost Containment A. Claimants failed to establish a governmental 
+ROG .cccccuvcecicnescneasenee 6 deprivation of a constitutionally protected 
+itd Se Candee oe esse eseeses « 20 
+a. 1993 Amendments — Act 44 ........ 6 
+B_ The Process Provides Claimants Sufficient 
+b. 1996 Amendments — Act 57........ 10 GE ER ea 22 
+c. De Nove Reve .é santendicenee 11 C. Utilization Review Procedures Satisfy Due 
+EEE 26 
+d. Further Appellate Review .......... 11 
+ee oie cc ccevecencess 27 
+D. The Civil Rights Challenge to Utilization Review 
+vocvecesbeseeteeeentbcke cena 12 b. Risk of Erroneous Deprivation and 
+Alternate Procedures Would Be of No 
+a. District Court Proceedings. ......... 12 es ce ci cue bans 29 
+b. The Proceedings In The Court Of Appeals. c. Governmental Interest ............. 32 
+
+
+D. 
+
+
+iv 
+
+
+Contents 
+
+
+d. The Interest Balance Weighs in Favor 
+of the Sufficiency of the Utilization 
+Revie FURGGED << vccccccedsececie 
+
+
+Imposing reconsideration costs upon the 
+losing party does not violate due process 
+
+
+“ee eneeneneeeneneeenereenereeeeeereeeeeeeeeeeeee © 
+
+
+32 
+
+
+33 
+
+
+35 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Baksalary v. Smith, 579 F. Supp. 218 (E.D. Pa. 1984), 
+aff'd, 772 F.2d 893 (3d Cir. 1985), cert. denied, 469 
+SE CEE Bb dvdccenebecdecsehsveree 24, 25, 26 
+Barns v. Lehman, 861 F.2d 1383 (Sth Cir. 1988) ..... 25 
+Bello v. Walker, 840 F.2 1124, 1128 (3rd Cir.), cert. 
+denied, 488 U.S. 851 (1988) ................... 22 
+Blum v. Yaretsky, 557 U.S. 991 (1982) ............ 19 
+Board of Curators of Univ. of Missouri v. Horowitz, 435 
+Ss PEED coRbAthedks dudocedsuédiccsoecan 31 
+Boddie vs. Connecticut, 401 U.S. 371 (1971) ....... 33, 34 
+Bullock v. Carter, 405 U.S. 134 (1972) ............ 34 
+
+
+Cafeteria Workers v. McElroy, 307 U.S. 886 (1961) .. 17, 26 
+
+
+Collins v. City of Harker Heights, 503 U.S. 115 (1992) 
+SVeERdEN epewaesd hs chubehevsaub sd ccesdpdesss és 20 
+
+
+Cryder v. Oxendine, 24 F.3d 175 (11th Cir. 1994) ... 27 
+
+
+Fleming v. Workers’ Compensation Commission of the 
+Commonwealth of Virginia, 878 F.2d 852 (E.D. Va. 
+1995), aff'd mem., 78 F.3d 578, reported in full, 1996 
+U.S. App. LEXIS 3858 (4th Cir. Mar. 5, 1996) ... 26 
+
+
+vi 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Insurance Co. of N. Am. v. Workmen's Compensation 
+Appeal Bd. (Kline & Packard Press), 586 A.2d 500 
+(Pa. Cmwith. 1991), aff'd, 619 A.2d 1356 (Pa. 1993) 
+oc opekatcnnens cnwsekeubi eked ae ceeie tne tans 6 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345 (1974) 
+po cedebcecckate abits din babe cananbeeneesenes 19 
+Laundry Owners Mut. Liab. Ins. Ass'n. (Stop-N-Go Food 
+Stores) v. Workmen's Compensation Appeal Board 
+(Herpak), 617 A.2d 860 (Pa. Cmwith. 1992), aff'd, 
+ye { of 3. a rey 6 
+Liberty Mut. Liab. Ins. Assoc. v. Workmen's 
+Compensation Appeal Board, 537 Pa. 367, 644 A.2d 
+SG ED no bavcvendcedadecvedevtitscbasetdas 28 
+Little v. Streater, 452 U.S. 1(1981) ............45. 33, 34 
+Lugar v. Edmonson Oil Co., 457 U.S. 992 (1982) ... 20 
+
+
+Mathews v. Eldridge, 424 U.S.319 ............... 
+ves phaebee bbnnendecthe uae 15, 21, 26, 27, 28, 30, 31, 32 
+
+
+Midnight Sessions, Ltd. v. City of Philadelphia, 945 F.2d 
+667 (3d Cir. 1991) cert. denied, 503 U.S. 54 (1992) 
+» banda cbSCER OO ehh Reed sab des AaaeaTeeeadene 27 
+
+
+Moats v. Workmen's Compensation Appeal Board, 588 
+A.2d 116, 118 (Pa. Cmwith. 1991) .............. 28 
+
+
+vil 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Morrisey v. Brewer, 408 U.S. 471 (1972) ........... 26 
+Mullane v. Central Hanover Bank and Trust Co., 339 
+I id ictal la al i en Lf 
+Ortwein v. Scwab, 410 U.S. 656 (1973) ............ 34 
+Parham v. J.R., 442 U.S. 584 (1979) ........0.0... 30, 31 
+Pennsylvania Macaroni Co., Inc. v. Workmen's 
+Compensation Appeal Board, 387 A.2d 949 (Pa. 
+SE HED Sunde Uberohsnds coma tekswhs dcone 6, 21 
+Richardson v. Perales, 402 U.S. 389 (1971) ........ 30 
+School Dist. of San Antonio v. Rodriguez, 411 U.S. 1 
+I abet hUBdble bh adebndee Kadedis hekadcc ie 34 
+Shapiro v. Thompson, 394 U.S. 618 (1969) ......... 34 
+Skinner v. Oklahoma ex rel. Williamson, 316 U.S. 535 
+RS rae ne Peay p aay are 34 
+United States v. Kras, 409 U.S. 434 (1973) ......... 34 
+Walters v. National Ass'n of Radiation Survivors, 473 
+I ee di ose reais cob bheshedeks 26, 27 
+
+
+Werz v. Workmen's Compensation Appeal Board (Dep't. 
+of Corrections), 683 A.2d 1287 (Pa. Cmwith. 1996), 
+appeal denied, 690 A.2d 1165 (Pa. 1997) ........ 5 
+
+
+vill 
+
+
+Table of Cited Authorities 
+
+
+Page 
+
+Williams v. Rhodes, 393 U.S. 23 (1968) ........... 34 
+Winterberger vs. CNA Ins. Co., 72 F.3d 318 (3d Cir. 
+
+ED kc adsindvedevisdetontcevatesnniens ets 4 
+Statutes: 
+BO PK, Cie SSR ov ds ee eecaeeenyieducdetebas 6 
+34 Pa. CoBeG GBPS cesccsescccscecteteues 7, 21, 22, 25 
+94 Pa. Cade 6 UST. BOD vec iecceveteodicivesse 10, 11, 21 
+SSPE: Cates: 6. TPE ca ddd Sei ea es eedsccaictse. 25 
+BS Pu: Goa 5 SEPA aoe o's SE eres cicces 8 
+POPE. GUE BEB IAE be cceccwccscipiccivvcsegy: 25 
+PO Fe, GOs © UBIO cedccccchsccsccdvecsustoss 8 
+oy ee OB A OP rrrrrrTerTr rye rr TT 25 
+96 Pa, Cate CRORE AS ins deiccdiovedasscdoassess 7 
+BG Fe. Ge BTR G Me oes ewe vceesclodccsessesas 7, 23 
+D6 Fi GO Te 6 00 ocdnddacredvesaeseces 8 
+54 FS. CHES TVA Shc cccsacecnccadserectes 8, 23 
+
+
+Table of Cited Authorities 
+
+
+Page 
+
+CE 5 skin ens vascccdimesbdes des 8 
+ee I UE ose asi dnddnas ceed cied bctcs , 
+EE CE os i vice cccewssecds duckies. 9 
+34 Pa. Code § 127.459 ...............4.. ison cede 9, 30 
+os ns secu ehiod cdaueeeas 9, 30 
+ne unk ge fil 9, 30 
+EE OD oo od Pa tb datwa deen eaveles 9 
+SP EE TED 6 555d vide bovccddécacae dadus 9, 29 
+obs vnde pc auetdc Uicees bw dxd 9,29 
+IED oo Shas ons wedcccdeidcdecdans 9, 30 
+PE EEE bob sic wecccsvcwveddcotdedes 9, 23 
+D9 PG. Cabs § UZTATOE) 00.6 ccccccccccccccccees 29 
+PRU GD POPPED occccciccctcticovebvcdes 29 
+SE MEE Fo niaw sb ob bens cukcvevdd oobi 9, 23 
+Ps CHO DEBT IPOD co vdccnccccticcsvecever 10 
+Se Et EE oad wc udwecdurddan sada boc 10, 22 
+
+
+x 
+
+
+Table of Cited Authorities 
+
+
+Page 
+
+34 Pa. Code § 127.473 ......- cece cere eee e ences 10 
+34 Pa. Code § 127.476 ........ cece cece eee eeees 9, 10, 22 
+34 Pa. Code § 127.477 ......-2 cece eee e ween eeeees 10 
+34 Pa. Code § 127.479 ........ cece eee e eee eeees 10 
+34 Pa. Code § 127.501 ....... cece cece cree ee eeees 10, 22 
+34 Pa. Code § 127.502 ..........e cece eee eeeeeees 10, 22 
+34 Pa. Code §§ 127.503-127.515 ... 2... 0c eee eee 10 
+34 Pa. Code § 127.505 ......... cece ee cee eeeeeees 10 
+34 Pa. Code § 127.505(b) ... 1... ee eee eee eee 10 
+34 Pa. Code§ 127.509 ... 0... cece cece e eee eens 10 
+34 Pa. Code § 127.514(a) .... 6... 6c eee eeeee 11, 18, 34, 35 
+34 Pa. Code § 127.551 .... 0... cece cece eee e ee eees 11 
+34 Pa. Code § 127.552 ........c cece ee cee e reece 11 
+34 Pa. Code § 127.553 2.0.6... cece eee eee eeeeees 11 
+34 Pa. Code § 127.554 ..... 6... cece eee en eee enees 11 
+
+
+34 Pa. Code § 127.555... 6... cece cece wenn eeeee 11 
+
+
+xi 
+
+
+Table of -+Authorities 
+
+
+Pe ME TE: h.cussonudcvibdeoe avebeciae es 
+PMU GO BETO OIO. 5 oon co ddctcice cicwadic 29 
+i  . vodeu pide tchedentabnds caokdees 22 
+8 So BRR Olen on Sp aeent 12, 31 
+Ss I MIEN ok pow veh bbancdida'cders 7 
+Pe ORI, oid v cietcciverndicsces l 
+PINE ck nds bd abas dd cccndéd ubous 5 
+EN oe ke od ave ces ooubdes 5 
+ED bocca cca dues peaciat faces 21 
+Oe EINE. us ok na vc Kala sida a uae baos 21 
+Oe et III 6 iGo os owed axed cdécacode, 21 
+I ord i Ss Su LG We 7 
+We INCL Shiva Sik < dkeneewbuccdus cee 4 
+IID oid tw nhew dwkeSéeew's oien A 
+Be Pe SEED bn ntsc ddasds cndcecessescs 5 
+EE thud dived es duekh sane ek na nes 4 
+POTD 0540 60ns budadededadebatcensaeéccar 4 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+77 Pa. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+Stat. 
+
+
+xii 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Aam. 8 SBI) 0.0 oc ccccccvesscscves 5, 6 
+Mami O SBMS) © 5. oc ccesccccdenccascces i, 1,7 
+Eee rr ry i, 1, 7, 18, 22 
+Pam. GO SOTTGMED) ..n cwcccccccccccscccs 34 
+Ann. § 531(6)(iV) ... 6.6.02 e eee eee eee 11, 22 
+Ann. § 701 (West Supp. 1998) ......... 11 
+RO FE oF och wb occsvawivercesacncs 5 
+ek er ere 27 
+Aa. CITT) .. cc ccccscedcvscvces ves 11 
+Sh | oe rer oP er wl 5 
+Rath. SESS ..cccccsccdscvsedvccsictete 11 
+6 ere re iy eee rae 1] 
+ED nin'n.b 0000555 cise Fes pees 12 
+EMRE» dccntasctasscscnnnadonben 1] 
+REE ns-c0 vccthesevetisepasacaves 28 
+
+
+PER BOOED cose sdrdvensccsvcesccess 6 
+
+
+xui 
+
+
+Table of Cited Authorities 
+
+
+Page 
+ee es GU MEE, Whence dc ccbecuebhedewenk es 21 
+ig, 3 Wf pe TERR caret ra gee 19 
+
+
+42 U.S.C. § 1983 
+
+
+United States Constitution: 
+
+
+eae howd 6 dN owethaire- denned 15 
+Fourteenth Amendment .............cceccccccees 
+
+Rules: 
+
+Pa. Legis. J. — House 18 (March 30, 1993) ......... | 
+by es Bee MD BRD os ck dc cviicccddddece 0% 3 
+wes eB wow Be GO nick oo ike bis o iSbidlvcc es 3,4 
+Pa. Legis. J. — House 544 (March 30, 1993) ........ 2,4 
+Pa. Legis. J. — House 1504-1505 (June 24, 1993) ... 3 
+Pa. Legis. J. — House 2015 (December 11, 1991) ... | 
+Pa. Legis. J. — House 2019 (December 11, 1991) ... 1,4 
+Pa. Legis. J. - House 2020 (December 11, 1991) .... 4 
+ek | ee ee 2 
+
+
+xiv 
+
+
+Table of Cited Authorities 
+
+
+Pa. Legis. J. — Senate 284 ........---eeeeereeeees 
+Pa. Legis. J. - Senate 472 (April 19, SUE édsvevoens 
+Pa. Legis. J. — Senate 473 (April 19, 1993) ........ 
+Pa. Legis. J. — Senate 1044-1045 (June 16, 1993) .. 
+Pa. Legis. J. — Senate 1046 (June 16, BE vivecee 
+Fed. R. Civ. P. 12(c) ...... 2c cece cece ec cencceeens 
+Fed. R. Civ. P. 54(b) . 0... cece ee eee eee ee eeee 
+Pa. R. Civ. P. 1001-1041.2 .... 6... ccc eee ee eee 
+Pa. R. Civ. P. 1017 2.2... cece eee cece cece ee enees 
+Pa. R. Civ. P. 1028 ....... cece cece cere eeseceess 
+Pa. R. Civ. P. 1029 ....... cece cece eee ee reeenes 
+Pa. BR. Civ. P. 10G0 coc ccc ccc cect cwccccscccccess 
+
+
+Pa. R. Civ. P. 3101-3149 ....... ccc eee ee ee ee eens 
+
+
+35 
+
+
+35 
+
+
+l 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Pennsylvania’s Compelling Need For Workers’ Compensation 
+Reform 
+
+
+Prior to the enactment of cost containment initiatives amending 
+Pennsylvania’s Workers’ Compensation Act, Act of June 2, 1915, P.L. 
+736, as amended, 77 Pa. Stat. Ann. § 1 et seq. (West Supp. 1998) 
+(hereinafter “Act”), the School District of Philadelphia (hereinafter 
+“School District”), among other Pennsylvania employers, confronted 
+soaring costs of mandatory workers’ compensation.' The high cost of 
+workers’ compensation insurance was crippling, prohibiting industries 
+from competing successfully in Pennsylvania. Pa. Legis. J. - Senate 472 
+(April 19, 1993). It is indisputable that jobs were lost every day due to 
+workers’ compensation costs. Pa. Legis. J. — Senate 1046 (June 16, 
+1993). 
+
+In 1993, prior to the amendments to the Act, the costs to insurers of 
+workers’ compensation was approximately $23 million. Pa. Legis. J. — 
+House 18 (March 30, 1993). There were concerns regarding whether 
+the State Workers’ Insurance Fund (hereinafter “SWIF’”) was actuarially 
+sound. Pa. Legis. J. — House 2015 (December 11, 1991). Discussion 
+indicated that SWIF, which insured approximately 450,000 employees 
+working for approximately 35,000 Pennsylvania employers, was on the 
+verge of bankruptcy and operating at a loss. Pa. Legis. J. — Senate 
+1044-1045 (June 16, 1993); Pa. Legis. J. — Senate 473 (April 19, 1993). 
+
+The Commonwealth’s General Assembly witnessed the exodus of 
+business. Pennsylvania Bureau of Workers’ Compensation, Annual 
+Report, 1996-1997 (hereinafter “Annual Report”) at ii; News Brief from 
+the Office of Governor Tom Ridge, Vol. 1, Issue 8 (May 31, 1996); 
+<http.//www.state.pa.us/pa_exec/governor/news_briefs/ Vol liss8.htmI>. 
+News Brief from the Office of Governor Tom Ridge, Vol 1, Issue 7 (May 
+24, 1996). <http.//www.state.pa.us/pa_exec/governor/news — briefs/ 
+Volliss7.html>. Other states, including Ohio and West Virginia, were 
+funding efforts to identify Pennsylvania businesses that were disenchanted 
+with the business climate of Pennsylvania and attract these businesses to 
+
+
+their respective states. Pa. Legis. J. — House 2019 (December 11, 
+1991). 
+
+
+1. The relevant cost containment provisions of the Act of July 2, 1993, 
+P.L. 190, No. 44, appear in Section 306 (f.1) (5) and (6) of the Act, 77 Pa. 
+Stat. Ann. ‘ 531 (5) and (6) (West Supp. 1998) (hereinafter “Act 44”). 
+
+
+2 
+
+
+Employers who fled the Commonwealth for more business-friendly 
+states attributed the reason for relocation to accelerating economic decline 
+due to workers’ compensation losses.? Annual Report at ii; News Brief 
+from the Office of Governor Tom Ridge, Vol. 1, Issue 8, (May 31, 1996); 
+<http.//www.state.pa.us/pa_exec/governor/news_briefs/Vol liss8.htm|>. 
+News Brief from the Office of Governor Tom Ridge, Vol. 1, Issue 7 
+(May 24, 1996). <http.//www.state.pa.us/pa_exec/governor/news_briefs/ 
+Vol liss8.html>. 
+
+Not surprisingly, the Pennsylvania legislature debated and ultimately 
+passed cost containment initiatives with the express intention of greatly 
+
+2. The legislative history of Act 44 is replete with examples of inequities 
+the pre-Act 44 workers’ compensation system worked upon Pennsylvania 
+employers and the compelling need for change. For example, Senator Mowery 
+in noting the severity of the workers’ compensation problem in Pennsylvama 
+observed that one particular Pennsylvania company reported that it would pay 
+between $275,000 and $330,000 more in insurance premiums in Pennsy!vamia 
+then it would be required to pay in the surrounding states of New Jersey, Maryland 
+and Virginia. Pa. Legis. J. — Senate 283 (February 10, 1993). Senator Madigan 
+reported that a publishing industry relocated to Kansas because workers’ 
+compensation issues were the “straw(s) that broke their back.” Id. Senator Madigan 
+also reported that 350 union jobs were being lost to the State of Indiana as the 
+result of the high cost of workers’ compensation; and that 129 steelworkers’ yobs 
+
+were lost due to workers’ compensation costs. /d. 
+
+One senator, Senator Peterson, reported that he was losing business almost 
+weekly “laying at the feet of workmen’s comp.” Describing one such business 
+that had recently closed its doors, he stated “... 55 people no longer have a 
+job because of a workmen's comp system that is bankrupting the employers 
+of this Commonwealth.” Pa. Legis. J. — Senate 472 (April 19, 1993). Senator 
+Peterson urged passage of meaningful reform to remedy the workers” 
+compensatica problem to preserve Pennsylvania jobs. Id. 472-473. 
+
+In the Pennsylvania House of Representatives, Representative Clymer 
+discussed a small manufacturing business employing 15 people. Pa. Legis. J. — 
+House 544 (March 30, 1993). The business cited a 188% increase in workers’ 
+compensation over the 5 years proceeding 1993. Jd. He also reported that 
+Bucks County, Pennsylvania, lost 50 manufacturing jobs to Florida with one 
+of the reasons being inability to deal with workers’ compensation. /d. 
+
+Representative Dent reported 48 jobs were moving from the City of 
+Bethlehem, Pennsylvania, to Camden, New Jersey. Id. at 547. He also related 
+that a plant relocated to Virginia and 220 jobs were lost from his district. The 
+only reason publicly stated for the job loss was the fact that Pennsylvania's workers’ 
+compensation system was “just atrocious”. This business paid nearly $500,000.00 
+in workers’ compensation in Pennsylvania and only $3,000.00 in Virginia. /d. at 
+
+547. 
+
+
+3 
+
+
+curtailing the escalating health care costs in the treatment of work-related 
+injuries and disease. Department of Labor and Industry, Workers’ 
+Compensation Medical Cost Containment, Pennsylvania Bulletin, (Vol. 
+24, No. 30, July 23, 1994); Department of Labor and Industry, Bureau 
+of Workers Compensation, Amendments to the Workers’ Compensation 
+Act, Pennsylvania Bulletin, (Vol. 23, No. 35, August 28, 1993). The 
+General Assembly acted to amend the workers’ compensation system to 
+more fairly balance the interests of workers injured at work (hereinafter 
+claimants”) and employers in an effort to ensure an affordable 
+compensation system for Pennsylvania. Pa. Legis. J. — House 542 
+(March 30, 1993), (referencing numerous letters regarding the need for 
+workers’ compensation reform); see also Pa. Legis. J. — House 1504- 
+1505 (June 24, 1993) (need for governor, insurance department and 
+legislature to act to cap medical costs and prevent rate hike). 
+
+; In the midst of spirited debate regarding the best way to keep needed 
+business in Pennsylvania, Representative Joseph Gladeck discussed at 
+length the history of Pennsylvania's Workers’ Compensation Act. 
+Representative Gladeck addressed the Commonwealth's adoption, in 
+1972, of the report and recommendations of the National Commission 
+on Workers’ Compensation. The recommendations were issued after the 
+enactment of the Federal Occupational Safety and Health Act in 1970. 
+Pa. Legis. J.— House 543 (March 30, 1993). Representative Gladeck 
+re that this report substantially expanded benefits for claimants. 
+
+changes represented a fundamental alteration to the historical 
+compromise underpinning the workers’ compensation system. The 
+system stemmed out of an arrangement where employees gave up their 
+right to sue in exchange for being provided a fixed wage loss benefit 
+upon the occurrence of an identifiable accident at work. /d. 
+
+The expansion of benefits included changes from coverage for 
+accidents to coverage for injuries thus including “soft tissue”, repetitive 
+and occupational disease as injuries under the Act: changed wage loss 
+benefits by substantially expanding them and providing for annual 
+adjustment in the maximum amount; and changed the Act to provide 
+unlimited medical coverage. Jd. After the dramatic change to substantial 
+benefits in 1972, the Commonwealth experienced a growth trend that 
+increased rapidly. By the early 1990's, it was projected that the cost of 
+the expanding workers’ compensation program would overwhelm 
+
+
+4 
+
+
+Pennsylvania's economy, businesses and citizens if not dealt with.’ /d. 
+at 543. As Representative Gladeck pointed out, the changes being 
+discussed, which were ultimately included in Act 44, did nothing to 
+alter the range of the expanded benefits given to claimants’ in 1972 and 
+only sought to make those benefits affordable. /d. 
+
+The Pennsylvania legislature also recognized that the rising costs of 
+the medical aspect of workers’ compensation was an avenue of expense 
+that could be controlled. It was noted that $400,000,000 of medical 
+costs were saved in automobile insurance by capping and pro-rating by 
+with “DRGs” (diagnostic related grounds); and the “Blues” (Blue Cross/ 
+Blue Shield health coverage) capping health care in accordance with the 
+automobile insurance medical cost caps. Pa. Legis. J. — House 2019- 
+2020 (December 11, 1991). The legislative perception was that health 
+care abuse was moving to workers’ compensation because it was the 
+only major medical system that was unregulated. /d. 
+
+Accordingly, it is readily apparent from review of the legislative 
+history of Act 44 that in implementing the cost-containment initiatives, 
+the Pennsylvania legislature intended to balance inequities and provide a 
+system that protects not only claimants but employers in Pennsylvania 
+as well. 
+
+
+B. Statutory Background 
+
+
+The Act establishes a required insurance system to provide 
+compensation to employees who sustain injuries in the course of and 
+related to their employment. It provides the exclusive means by which 
+an employee may recover against employers for work-related injuries. 
+77 Pa. Stat. Ann. § 481; Winterberger vs. CNA Ins. Co., 72 F.3d 318 (3d 
+Cir. 1995). Compensation under the Act is payable without regard to 
+negligence. 77 Pa. Stat. Ann.§ 431.* 
+
+
+3. Particularly emphasized were the concerns that businesses were not 
+expanding because of high workers’ compensation rates; businesses were closing 
+because they could not absorb the costs of workers’ compensation, businesses 
+were fleeing the state to surrounding states with more equitable compensation 
+due to the costs. /d. at 544. 
+
+4. Both wage replacement payments, which are contingent on a continuing 
+wage loss duc to a work injury, and payment for reasonable medical services are 
+benefits payable under the Act. 77 P.S. §§ 511-516, 531. 
+
+
+5 
+
+
+The Act requires employers to either obtain insurance or self-insure 
+liability under the Act. 77 Pa. Stat. Ann. § 501. Employers who do not 
+self-insure may obtain insurance from any insurance carrier authorized 
+to write workers’ compensation policies within Pennsylvania, including 
+the State Workman’s Insurance Fund (“SWIF”). SWIF was created by 
+the Pennsylvania General Assembly to provide coverage to any employers 
+who request it. 77 Pa. Stat. Ann. § 221,501. When insured, the insurer 
+merely “assume[s] the employer’s liability [t}hereunder and shall be 
+entitled to all of the employer’s immunities and protection. . . .” 77 Pa. 
+Stat. Ann. § 501. 
+
+Pennsylvania's compensation system is administered by the 
+Department of Labor and Industry, through its Bureau of Workers’ 
+Compensation (the “Bureau”). 77 Pa. Stat. Ann. §§ 27, 711. The 
+compensation scheme provides three methods by which an employer 
+pays compensation. The employer may file a Notice of Compensation 
+Payable with the Department of Labor and Industry; enter into an 
+agreement with the injured claimant to pay compensation; or pay pursuant 
+to an order of a Workers’ Compensation Judge where an employee’s 
+claim petition has been granted. 77 Pa. Stat. Ann. § 731. 
+
+Prior to the enactment of the medical cost containment provisions 
+of Act 44 in 1993, and the legislative refinement of the process in 1996 
+under Act 57, Pennsylvania employers and insurers were required to pay 
+all medical bills that a physician or other licensed practitioner of the 
+healing arts submitted with a report until such time as a workers’ 
+compensation referee (later defined “workers’ compensation judge”) ruled 
+upon any challenge to that treatment. 77 Pa. Stat. Ann. § 531(2)(ii). 
+Employers were required to have a reasonable basis to contest the bills 
+(i.e., a medical opinion that the bills were not reasonable or necessary) 
+before filing petitions to challenge injured employees’ entitlement to 
+receipt of the benefits, 77 Pa. Stat. Ann. § 996;° and the Act expressly 
+prohibited the workers’ compensation referees from granting a 
+supersedeas or stay of the payment of medical bills while a challenge to 
+treatment was pending review. 77 Pa. Stat. Ann. § 531(2)(ii). 
+
+If an employer or insurer were to prevail on a review petition, the 
+Supersedeas Fund, created by annual assessments on Pennsylvania 
+
+
+5. Werz v. Workmen's Compensation Appeal Board (Dep't. of 
+Corrections), 683 A.2d 1287 (Pa. Cmwith. 1996), appeal denied, 690 A.2d 1165 
+(Pa. 1997). Employers remain obligated to maintain a reasonable contest under 
+Act 44 and 57, as well. 
+
+
+6 
+
+employers and insurers, was available for reimbursement. /nsurance 
+Co. of N. Am. v. Workmen's Compensation Appeal Bd. (Kline & Packard 
+Press), 586 A.2d 500 (Pa. Cmwith. 1991), aff'd, 619 A.2d 1356 (Pa. 
+1993); Pennsylvania Macaroni Co., Inc. v. Workmen's Compensation 
+Appeal Board, 387 A.2d 949 (Pa. Cmwith. 1978). However, the 
+Supersedeas Fund only reimbursed the value of those medical bills 
+(without interest) which were paid after filing a review petition 
+challenging the reasonableness and necessity of treatment. 77 Pa. Stat. 
+Ann. § 531(2)(ii) and 999(a). See, e.g., Laundry Owners Mut. Liab. Ins. 
+Ass'n. (Stop-N-Go Food Stores) v. Workmen's Compensation Appeal 
+Board (Herpak), 617 A.2d 860 (Pa. Cmwith. 1992), aff'd, 644 A.2d 697 
+(Pa. 1994) (recognizing that medical expenses, but not interest, can be 
+reimbursed by the Supersedeas Fund for payments made pending final 
+outcome of the case). 
+
+Repeatedly, employers found that even their own proportionate share 
+of funds paid into the Supersedeas Fund were not fully available to them 
+when extensive unreasonable and unnecessary treatment was rendered 
+prior to the submission of bills to employers.° Laundry Owners Mut. 
+Liab. Ins. Ass'n. In such situations the most the employer who challenged 
+the bills through a review petition would ultimately be entitled to receive 
+from the fund was the value of any bills paid following the filing of the 
+petition. For example, if unreasonable and unnecessary surgery was 
+performed and enormous bills were submitted, the employer would be 
+forced to pay for that surgery. If ultimately successful on a petition to 
+review medical treatment, the employer would only recoup from the 
+fund the costs of any follow up provided after the employer secured an 
+opinion that the surgery was not reasonable and necessary and then filed 
+a petition with the Bureau. 
+
+C. Workers’ Compensation Cost Containment Reform 
+a. 1993 Amendments — Act 44 
+
+
+On July 2, 1993, the Pennsylvania Legislature passed various 
+amendments to the Workers’ Compensation Act which were specifically 
+intended to contain the spiralling medical costs associated with work- 
+related injuries. See also Department of Labor and Industry, Bureau of 
+
+
+6. Employers and insurers are annually assessed for the Supersedeas Fund 
+pursuant to a formula set forth at 34 Pa. Code 121.23(a). The formula requires 
+the assessment to be 100% of the amount reimbursed to insurers and self-insurers 
+
+
+in the proceeding year. 
+
+
+7 
+
+
+Workers’ Compensation, Act 44; Pennsylvania Bulletin, (Vol. 25, No. 
+45, November 11, 1995). One of these amendments was the creation of 
+the utilization review process, a non-adversarial administrative process 
+which allows for the review of the reasonableness or necessity of medical 
+treatment being received by a claimant. Section 8 of Act 44, renumbered 
+as 306 (f.1) (5) and (6), and amended, 77 Pa. Stat. Ann. § 531 (5) and 
+(6). 
+
+Where the utilization review process is invoked, the Act “tolls” the 
+requirement that employers or insurers must pay for medical treatment 
+within 30 days of receipt of the bill by the provider. 77 Pa. Stat. Ann. 
+§ 531(5) as further defined in 34 Pa. Code § 127.208. A claimant, 
+employer or insurer may invoke the utilization review process by 
+submitting to the Bureau of Workers’ Compensation a request for review 
+of specified treatment on a form prescribed by the Bureau. 34 Pa. Code 
+§§ 127.451, 127.452. The request must be served upon all parties 
+including the claimant, employer, insurance company and medical 
+provider. 34 Pa. Code § 127.452. The Act does not suspend, nor does it 
+require, medical providers to stop providing the challenged treatment to 
+claimants.’ 
+
+
+7. Physicians are ethically required to continue treatment. The Medical 
+Practice Act of 1985, Act of December 20, 1985, P.L. 457, No. 112, 77 Pa. 
+Stat. Ann. § 422.1 et seq. (hereinafter “Medical Practice Act), prohibits 
+unprofessional conduct by physicians. The term “unprofessional conduct” 
+includes “departure from or failing to conform to an ethical or quality standard 
+of a profession.” 63 Pa. Stat. Ann.. § 422.41. 
+
+The American Medical Association has issued the following ethical 
+guidance concerning continuity of patient care: 
+
+5. The patient has the right to continuity of healthcare. The 
+physician has an obligation to cooperate in the coordination 
+of medically indicated care with other healthcare providers 
+treating the patient. The physician may not discontinue the 
+treatment of a patient as long as further treatment is 
+medically indicated, without giving the patient reasonable 
+assistance and sufficient opportunity to make alternative 
+arrangements for care. 
+
+6. The patient has a basic right to have available adequate 
+healthcare. Physicians, along with the rest of society, should 
+continue to work toward this goal. Fulfillment of this right 
+is dependent upon society providing resources so that no 
+Pa ee an ee Or EO aaa Oo ‘ 
+
+(Cont'd) 
+
+
+A review request is assigned by the Bureau to a utilization review 
+organization (“URO”). % Pa. Code §§ 127.403, 127.453(a). Utilization 
+review organizations consist of impartial medical or health care providers 
+authorized by the Secretary of Labor and Industry to conduct utilization 
+reviews.* 34 Pa. Code § 127.401(b). All parties and their legal counsel, 
+if known, are advised of the utilization review organization assignment 
+by the Bureau. 34 Pa. Code § 127.453(b). If a utilization review 
+organization cannot perform the review request assigned to it for any 
+reason, it must notify the Bureau and return the request to the Bureau for 
+reassignment. 34 Pa. Code § 127.454. Where the utilization review 
+organization has a conflict of interest, the matter must be reassigned. 34 
+Pa. Code § 127.455. 
+
+
+(Cont'd) ay for the care. Physicians should continue their traditional 
+
+
+assumption of a part of the responsibility for the medical 
+care of those who cannot afford essential healthcare. 
+Physicians should advocate for patients in dealing with third 
+parties when appropriate. 
+American Medical Assn., Report of the Council on Ethical and Judicial Affairs, 
+Fundamental Elements of the Patient-Physician Relationship (1994), <http:// 
+
+
+The Office of General Counsel of the American Medical Association has 
+
+
+issued the following guidance with regard to ending patient/physician _ 
+
+
+relationships: 
+Once a patient-physician relationship has begun, a physician is 
+generally under both an ethical and legal obligation to provide 
+the services as long as the patient needs them .. . according to 
+the AMA’s Council on Ethical and Judicial Affairs, a physician 
+may not discontinue treatment of a patient as long as further 
+treatment is medically indicated, without giving the patient 
+reasonable notice and sufficient opportunity to make alternative 
+arrangements for care. Further, the patient's failure to pay a bill 
+
+
+does not end the relationship, as the relationship is based on a 
+
+fiduciary, rather than a financial responsibility. 
+
+American Medical Assn., Office of the General Counsel, Div. of Health Law, 
+Ending the Patient-Physician Relationship (1994), <http://www.ama-assn.org/ 
+physlegi/legal/termrel.htm>. 
+
+8. Standards for reviewers include the requirement of licensure in the 
+same profession and specialty as the provider under review. For reconsideration, 
+the providers were required to be board-certified in the specialty. Al! reviewers 
+are also required to maintain an active clinical practice. July 23, 1994 Pennsylvania 
+Bulletin. 
+
+
+9 
+
+
+If the utilization review organization retains the assignment, it must 
+request the records of the treating providers within 5 days from receipt 
+of the assignment. 34 Pa. Code § 127.457. Only the records of actual 
+treating health care providers (the provider under review and other treating 
+providers) may be obtained by the utilization review organization. 34 
+Pa. Code §§ 127.459, 127.460. Utilization review organizations may 
+not request and cannot be supplied with reports of independent medical 
+examinations performed at the request of an insurer, employer, claimant 
+or attorney. 34 Pa. Code § 127.461. Although an insurer or employer 
+may initiate the utilization review process, they have no evidentiary input 
+a:d provide no independent information which may influence or affect 
+the ultimate determination. The utilization review is only based upon 
+the treating providers’ records and the discussions, if any, the reviewer 
+has with the provider under review. Id; 34 Pa. Code § 127.469. The 
+provider under review must be given the opportunity to discuss the 
+challenged treatment with the reviewer. Id. 
+
+The reviewer must have the same profession and specialty as the 
+provider under review and shall apply the generally accepted treatruent 
+protocols to the case. 34 Pa. Code §§ 127.466, 127.467. The sole issue 
+to be determined by the reviewer is whether the treatment under review 
+is reasonable or necessary for the claimant's medical condition. Causation 
+and “work-relatedness” must be assumed by the reviewer. 34 Pa. Code 
+§ 127.470. The “reasonable or necessary” finding must be definite and 
+not advisory. 34 Pa. Code § 127.471. The reviewer is not to decide 
+whether the claimant is disabled, whether maximum medical 
+improvement has been obtained, or comment upon the quality of care or 
+the reasonableness of the fees. 34 Pa. Code § 127.470. Thus, questions 
+of causality remain within the exclusive jurisdiction of workers’ 
+
+The utilization review organization must complete its review and 
+render its determination within 30 days of a completed utilization request. 
+34 Pa. Code § 127.465. A “completed” request occurs upon the utilization 
+review organization's receipt of medical records or 35 days from the 
+date of notice of the assignment, whichever is earlier. /d. 
+
+The utilization review organization advises the claimant of the 
+reviewer's determination and the basis therefore and provides the 
+appropriate forms for claimants to seek further review. 
+
+Either the form for reconsideration or a petition for review is served 
+with the determination on all parties and the claimant's attorney, if known. 
+34 Pa. Code § 127.476. 
+
+
+10 
+
+
+The reviewer's written report must include a list of records reviewed; 
+documentation of actual or attempted contacts with the provider under 
+review; the findings and conclusions of the reviewer, a detailed rationale 
+for those conclusions, with citations to generally accepted treatment 
+protocols and medical literature as appropriate. 34 Pa. Code § 127.472. 
+Determinations must be explicit and final. If, there is medical doubt in 
+the reviewer’s mind, that doubt must resolve in favor of the treating 
+provider. 34 Pa. Code § 127.471(b). 
+
+The report must be signed and verified by the reviewer, and then 
+served upon the Bureau and all parties. 34 Pa. Code §§ 127.473, 127.476. 
+
+The employer or insurer pays for the initial utilization review 
+regardless of who requested the review or the outcome. 34 Pa. Code 
+§ 127.477. If the reviewer determines the treatment is reasonable and 
+necessary, the employer must pay the bill irrespective of its intention to 
+challenge the treatment further on appeal.’ 34 Pa. Code § 127.208(f). 
+
+
+b. 1996 Amendments — Act 57 
+
+
+Subsequent to the institution of the instant case, the Act was amended. 
+Act of June 24, 1996, P.L. 350, No. 57 (hereinafter “Act 57”), which 
+became effective August 23, 1996, eliminated the reconsideration level 
+of the utilization review process. Prior to Act 57, any party dissatisfied 
+with the outcome of the initial utilization review could file with the 
+Bureau, on one of its prescribed forms, a request for reconsideration. 34 
+Pa. Code §§ 127.501, 127.502. The reconsideration request had to be 
+filed within thirty days of receipt of the initial utilization review 
+determination. /d. 
+
+Under pre-Act 57 procedures, the Bureau then forwarded the 
+reconsideration request to the utilization review organization which 
+conducted the initial review. 34 Pa. Code § 127.505. All parties were 
+given notice of the assignment. 34 Pa. Code § 127.505(b). The 
+reconsideration review would then be assigned by the utilization review 
+organization to a reviewer other than the initial reviewer. 34 Pa. Code 
+§ 127.509. The reconsideration process then proceeded in a manner 
+substantially similar to the initial utilization review process. 34 Pa. Code 
+§§ 127.503-127.515. 
+
+The Bureau would advance the costs of the reconsideration and later 
+bill the “losing party”, who was identified applying the criteria enumerated 
+
+9. Prior to Act 57, if the challenged treatment was found reasonable or 
+necessary by the initial reviewer, the employer or insurer had to pay the provider’s 
+bills unless it requested reconsideration of the decision. 34 Pa. Code § 127.479. 
+
+
+1] 
+
+
+in the regulations. 34 Pa. Code § 127.514(a). However, the payment of 
+the costs imposed was not required before the losing party could file a 
+petition for review before a Workers’ Compensation Judge. 
+
+Any party dissatisfied with the reconsideration determination could 
+file a petition for review with the Bureau within 30 days of the utilization 
+review organization reconsideration determination. 77 Pa. Stat. Ann. 
+§ 531(6)(iv); 34 Pa. Code §§ 127.551-127.556. If the challenged 
+treatment was found to be reasonable or necessary on reconsideration, 
+the employer or insurer was required to pay for it even if a petition for 
+review was filed. 34 Pa. Code § 127.208(f). 
+
+
+c. De Novo Review 
+
+
+Before Act 57’s passage, after reconsideration, a dissatisfied party 
+could petition for a de novo hearing before a Workers’ Compensation 
+Judge. 34 Pa. Code § 127.551-556. Due to Act 57’s elimination of the 
+reconsideration step, a dissatisfied party may now file such a petition 
+directly with the workers’ compensation judge from the initial utilization 
+review decision. Id. 
+
+The petition for review of utilization review determination procedures 
+before the Workers’ Compensation Judge are essentially the same now 
+as they were prior to Act 57. The petition is assigned to a Workers’ 
+Compensation Judge for a hearing de novo. 34 Pa. Code ©} 127.553- 
+127.556. The judges are appointed by the Secretary of Labor and Industry 
+to hold hearings. 77 Pa. Stat. Ann. § 701 (West Supp. 1998). They are 
+empowered to subpoena witnesses, order the production of documents, 
+and hear evidence on petitions assigned to them. 77 Pa. Stat. Ann. 
+§ 833. Judges must base their findings of fact on sufficient, competent 
+evidence. 77 Pa. Stat. Ann. § 834 (West Supp. 1996). In addition to 
+findings of fact, their decisions must contain conclusions of law and a 
+concise explanation of the rationale for the decision reached. /d. 
+
+If an employee prevails on the petition for review of utilization review 
+decision, the employee is entitled to an award of benefits plus 10% 
+interest. 77 Pa. Stat. Ann. § 717.1(a) (West Supp. 1998)). A claimant 
+
+
+may also recover litigation costs. 77 Pa. Stat. Ann. § 996 (West Supp. 
+1998). 
+
+
+d. Further Appellate Review 
+
+
+Any dissatisfied party may appeal a Workers’ Compensation Judge’s 
+decision to the Workers’ Compensation Appeal Board (hereinafter the 
+“Board”). 77 Pa. Stat. Ann. § 701. The Board reviews the decision for 
+
+
+12 
+
+
+errors of law and to determine whether findings of fact are supported by 
+substantial evidence. 77 Pa. Stat. Ann. §§ 854-855. The Board's decisions 
+are appealable as of right to the Commonwealth Court of Pennsylvania. 
+42 Pa. C.S. § 761. 
+
+
+D. The Civil Rights Challenge to Utilization Review 
+
+
+Ten employees claiming entitlement to workers’ compensation 
+benefits initiated this civil rights action pursuant to 42 U.S.C. § 1983, 
+challenging the process for reviewing the reasonableness and necessity 
+of medical treatment under the utilization review process enacted in 1993 
+amending the Act. The Philadelphia Area Project on Occupational Safety 
+and Health, an organization which advocates on behalf of claimants; and 
+the Philadelphia Federation of Teachers, a labor union which represents 
+employees of the Philadelphia School District also were included as 
+Plaintiffs. C.A. App. A74-A120. The claims were brought on behalf of 
+a class of workers’ compensation claimants who allege to have had or in 
+the future will have payment for some or all of their medical treatment 
+suspended during the utilization review process that is being challenged. "° 
+Id. 
+
+The defendants include various state officials responsible for 
+administering portions of the workers’ compensation system, several 
+private insurance carriers which issue workers’ compensation policies 
+(Petitioners in this matter hereinafter referred to as “insurers”) and the 
+School District. The School District was the sole self-insured defendant 
+named in the class action suit. C.A. App. A74-A120, A163-A196. 
+
+The questions presented to this Honorable Court in the order of 
+importance to the Commonwealth of Pennsylvania as a whole are whether 
+the Utilization Review procedures as set forth in the cost containment 
+initiatives of the Pennsylvania workers’ compensation act violate the 
+Fourteenth Amendment to the United States Constitution; and whether 
+private insurance companies or self-insured employers become state 
+actors and subject to civil damages for purposes of the due process clause 
+when they elect to use the state-authorized cost containment procedure. 
+
+
+a. District Court Proceedings. 
+
+
+Plaintiffs’ original complaint alleged that the 1993 amendments to 
+the Act (“Act 44”) violated constitutional due process in allowing for the 
+
+
+10. No class was certified, although Plaintiffs moved the trial court for 
+class certification on May 28, 1996. C.A. App. A12. 
+
+
+13 
+
+
+suspension of medical benefits without prior notice to the employee and 
+an opportunity to be heard. C.A. App. A164-A196. The Complaint 
+asserted that pursuant to Section 306(f.1)(5) of Act 44, insurers or self- 
+insured employers may seek utilization review of the reasonableness 
+and necessity of medical treatment received by claimants. C.A. App. 
+A174-A175. Plaintiffs alleged that the initiation of the utilization review 
+process operated as an “automatic supersedeas” which allowed the 
+insurers Or empioyers to stop paying for the treatment pending the review. 
+C.A. App. A175. 
+
+Plaintiffs asserted that the insurers and School District violated their 
+due process rights by suspending the payment of medical benefits during 
+the pendency of the utilization review process. C.A. App. A179. The 
+Complaint further alleged that the Commonwealth officials also violated 
+Plaintiffs’ due process rights by participating in the utilization review 
+process and failing to prohibit insurers from suspending the payment of 
+medical benefits pending review. /d. 
+
+The insurers and the School District filed motions to dismiss the 
+original Complaint, including the claims of Susan Hansen. C.A. App. 
+A9. In their motion, the insurers argued that invoking the utilization 
+review process did not constitute “state action” as required by Section 
+1983. The School District moved for dismissal on the grounds that it 
+could not be sued for violations of the Due Process Clause of the 
+Fourteenth Amendment under 42 U.S.C. § 1983 because it did not 
+promulgate any policies or procedures or develop any standard operating 
+practice pertaining to utilization review that could have caused a 
+deprivation of plaintiff Susan Hansen's constitutional rights. The School 
+District argued in its motion that its third party administrator invoked the 
+process and decided to suspend payment, without specific direction from 
+the School District and, therefore, no “state action” was present. C.A. 
+App. A56, A72-A73. 
+
+In a May 8, 1995 Order, the District Court granted Plaintiffs’ request 
+for discovery on the issue of “state action”. C.A. App. A9. After discovery, 
+Plaintiffs filed a motion for partial summary judgment against the insurers 
+and the School District. C.A. App. Al0. In a January 24, 1996 Order, 
+the District Court denied Plaintiffs’ motion; denied the School District’s 
+motion to dismiss; and granted the insurer’s motion to dismiss. C.A. 
+App. A48. The Court found that the insurers were not “state actors” and 
+denied the School District’s motion, holding that more discovery on the 
+State action issue was warranted. C.A. App. A72-A73. Plaintiffs’ 
+
+
+14 
+
+
+subsequent motion for a final order under Rule 54(b) and motion for 
+reconsideration were denied. C.A. App. All. 
+
+On or about May 21, 1996, Plaintiffs filed an Amended Complaint 
+which added several new parties and claims. C.A. App. A74-A120. 
+Plaintiffs reiterated their due process challenge to the procedures 
+surrounding the suspension of payment of medical benefits during the 
+utilization review process. They also asserted that Act 44 violated 
+substantive and procedural due process in imposing the cost of 
+reconsidering the initial review decision on the losing party. In addition, 
+Plaintiffs claimed that the Commonwealth officials violated procedural 
+due process in failing to promulgate regulations governing Workers’ 
+Compensation Judges’ adjudication of petitions for review of utilization 
+review decisions. /d. 
+
+On or about June 20, 1996, the Commonwealth officials filed a 
+motion to dismiss the Amended Complaint. C.A. App. Al2-A13. By 
+Order and Memorandum entered November 8, 1996, the District Court 
+granted the Commonwealth officials’ motion, determining that the 
+Workers’ Compensation Act comports with due process. C.A. App. AlT- 
+A44. Based upon this Order and Memorandum, the School District filed 
+a motion for judgment on Plaintiffs’ Amended Complaint pursuant to 
+Fed. R.Civ.P. 12(c). C.A. App. Al4. By Order dated December 13, 1996 
+and entered December 16, 1996, the District Court granted the School 
+District’s motion. C.A. App. A16. Plaintiffs appealed to the United States 
+Court of Appeals for the Third Circuit. 
+
+b. The Proceedings In The Court Of Appeals. 
+
+The Third Circuit reversed the District Court's rulings on the insurer's 
+summary judgment motion as well as the Commonwealth's summary 
+judgment caalier Pet. App. la-40a. In doing so, the Third Circuit 
+erroneously equated the cost containment feature of the utilization review 
+provisions allowing the tolling of the required time for payment of medical 
+bills under the Act, with a supersedeas on a claimant’s entitlement to any 
+or all medical treatment pending review and, thus, violative of the 
+employee’s due process rights. The court determined that the claimants 
+were not given adequate notice that their benefits may cease after a 
+utilization review is invoked and were not provided an opportunity for 
+written input to the utilization reviewer prior to the “termination” of 
+benefits taking effect. Pet. App. 21a-25a, 30a-33a. 
+
+The Court also found that the private insurance companies were 
+state actors and could be joined in a Section 1983 action when they elect 
+
+
+15 
+
+
+to delay payment of medical bills pending the utilization review. Pet. 
+App. 12a-19a. The Court remanded for further proceedings including 
+class certification, addressing the issues of whether imposing the costs 
+of reconsideration upon the losing party violates due process and whether 
+the Commonwealth defendants have Eleventh Amendment immunity. 
+Pet. App. 37a. 
+
+While the Third Circuit accurately reiterated the procedural posture 
+which led to the School District's dismissal from the case and limited its 
+holding to the state actor issue to the private insurance carriers, it seemed 
+to infer that the School District may no longer contest its status as an 
+alleged state actor. See Pet. App. lla 14, 12a 16, 17a, 37a. It is 
+respectfully submitted that the issues regarding the Schoo! District's status 
+as a state actor remain undetermined in this matter consistent with the 
+School District’s position before the Third Circuit. School District Brief 
+to Third Cir. n.6. Nevertheless, if the decision of the Court of Appeals is 
+affirmed, in any part, and the case is remanded, issues regarding the 
+School District’s status and defenses to the Section 1983 action are 
+preserved and will be addressed at the District Court level. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Pennsylvania's utilization review process accords sufficient due 
+process to Pennsylvania claimants. The cost containment reform 
+measures enacted by the Pennsylvania legislature do not operate to 
+unconstitutionally deprive claimants of compensation benefits. Rather, 
+the reform measures only extend the mandatory time period for payment 
+of medical bills while those bills are reviewed for determination of 
+whether the treatment provided was reasonable and necessary (i.e., 
+compensable under the Act). 
+
+Claimants are not unconstitutionally deprived of their benefits during 
+the utilization review process, as the Third Circuit held. Only specifically 
+challenged treatment, as opposed to all medical benefits, is subject to 
+utilization review. Moreover, the process sufficiently balances the 
+competing private interests of claimants and employers in Pennsylvania 
+consistent with the test this Court set forth in Mathews v. Eldridge, 424 
+U.S. 319. The process protects any private interests claimants may have 
+in the uninterrupted receipt of medical benefits because resolution of the 
+compensability of the challenged treatment turns on a medical analysis 
+and determination. During utilization review, all pertinent medical 
+information is provided to the reviewer by the provider. The provider 
+
+
+16 
+
+
+may also furnish factual information as part of his/her medical records 
+and has an opportunity for an oral consultation with the reviewer. The 
+reviewer is required to follow well-defined procedures in conducting the 
+review to determine only the reasonableness or necessity of the treatment, 
+and the reviewer must be of the same specialty as the provider. Thus, 
+any risk of an erroneous deprivation of medical benefits as a result of the 
+institution of utilization review is slight. 
+
+The claimants’ interest is further protected because tolling the period 
+in which a bill must be paid in order to submit the bill for review affects 
+neither the claimants’ means of living nor their entitlement to other 
+medical treatment from the health care provider subject to review or 
+another health care provider of choice. The statute prohibits the medical 
+provider from collecting any unpaid bills or balance from the Claimant 
+and, the bill(s) must be paid immediately upon circulation of a reviewer's 
+opinion that treatment is reasonable and necessary irrespective of any 
+intentions by the employer or insurer to appeal the reviewer's 
+determination. Full remedies exist which lessen the potential harm to 
+claimants, such as the award of benefits, plus interest, where the claimant 
+prevails on an appeal to a Workers’ Compensation Judge. 
+
+The significant interests of Pennsylvania employers are protected 
+because the tolling period pending review by the utilization review 
+organization relieves the mandate of payment of unreasonable and 
+unnecessary medical bills. The process, prior to the Third Circuit’s 
+Sullivan decision in March 1988, proved to be successful. As of February 
+1, 1997, the Bureau reported a twenty-five percent overall reduction in 
+workers’ compensation loss costs. Annual Report at ii. It was reported 
+that the reform which sought to re-establish reasonable costs in a system 
+that was out of control, while still serving the needs of legitimately injured 
+claimants, was producing significant savings for the business community 
+as a whole. Individual self-insured employers saved approximately 
+$48,903,715 in medical compensation when comparing 1993 and 1996 
+statewide figures. /d. at 31. 
+
+The total medical compensation payment of insured and self-insured 
+employers decreased 25% or $288 million, between 1993 and 1994 alone. 
+Id. In short, the process was working to protect the legitimate 
+governmental interests in containing Pennsylvania workers’ compensation 
+costs, preserving Pennsylvania jobs, and ensuring that medical benefits 
+are paid to truly injured employees of the Commonwealth. 
+
+
+17 
+
+
+With respect to the sufficiency of the notice furnished to the claimants 
+of the review, the process provides claimants with sufficient notice that 
+their treatment is being challenged. Claimants are also provided with 
+notice and an explanation of the appeal process when a determination is 
+made as to the reasonableness and necessity of treatment. The notice 
+provided is sufficient because due process, under the circumstances 
+presented, merely requires that Claimants be notified that their treatment 
+is under review and be provided a meaningful opportunity for hearing 
+on the matter. Cafeteria Workers v. McElroy, 307 U.S. 886, 895 (1961) 
+(due process is not a fixed concept with respect to time, place or 
+circumstance). 
+
+Because no question is before the reviewer regarding the entitlement 
+of a claimant to medical benefits in general and since a Claimant's 
+entitlement to medical benefits will continue, there is no need for the 
+employer, insurer, or Commonwealth to notify a claimant that medical 
+benefits will be suspended as the Third Circuit held. When the 
+determination is made that the specifically challenged treatment is not 
+appropriate, claimants are notified at tha‘ time of the determination and 
+of the proper channels to follow in oider to contest the determination. 
+Contrary to the Third Circuit's decision, notice in this case is sufficient, 
+because the claimants are apprised of the review of treatment, the 
+reviewer's determination and the method to secure a meaningful hearing. 
+
+The utilization review procedures further provide sufficient 
+opportunity for claimants to participate in a meaningful hearing. 
+Claimants are not deprived of due process because of the lack of an 
+opportunity for either a hearing or an opportunity to submit a statement 
+regarding the treatment prior to the reviewer's determination. Any such 
+statement is neither valuable nor essential to the utilization review process. 
+The doctor is the party to the process whose actions are being reviewed 
+and the doctor, not the claimant, is in a much better position to discuss 
+and persuade the reviewer to find that specific treatment is medically 
+reasonable and necessary. Furthermore, the employer or insurer is 
+precluded from submitting independent medical reports or other 
+documentation to the reviewer. One would surely question the 
+constitutionality of a system which would permit only the claimant and 
+the claimant's doctor to participate, while the employer was precluded 
+from submitting any documentation or provided any opportunity to 
+participation in the utilization review process as it may now exist. 
+Pennsylvania's utilization review system, as currently re-written by the 
+
+
+Third Circuit, works this very injustice. The Third Circuit's “revision” 
+of the Act had a chilling effect on Pennsylvania cost containment 
+initiatives. If this Court does not reverse the Third Circuit's decision, in 
+toto, Pennsylvania will be strapped with a compensation system that is 
+simply not workable and in fact, costs Pennsylvania more than the pre- 
+reformed measures. The Act was amended in 1993 to replace the old 
+review system with the utilization review process. Therefore, employers 
+may no longer even petition a Judge directly for review of medical 
+treatment. See 77 Pa. Stat. Ann. § 531(6) “[e)xcept in those cases in 
+which a workers’ compensation judge asks for an review under Section 
+420, disputes as to reasonableness and necessity of treatment . . . shall 
+be resolved” by utilization review). [emphasis added, citation omitted). 
+
+Therefore, Pennsylvania employers and insurers must pay bills 
+without remedy to recoup the funds when those bills are found to be 
+unreasonable or unnecessary. Without a review petition, there is no 
+supersedeas fund reimbursement and recouping the money from doctors 
+or claimants is statutorily prohibited. If this Court rules as to the state 
+actor issue alone, the effect of the Third Circuit’s decision is that private 
+employees insured through SWIF, “state actor” employees (including 
+the Commonwealth and other public employers that may ultimately be 
+classified as “state actors”), and private insurers would still be forced to 
+pay the high cost of pre-reform medical expenses without remedy. State 
+actor employers would be precluded from delaying the payment of bills 
+during review and, therefore, lose any chance of avoiding payment for 
+unreasonable and unnecessary treatment. Private employers insured 
+through SWIF will realize those costs directly in their premiums, and 
+private insurers who fund SWIF indirectly will also realize those costs. 
+The providers will no longer have accountability under the Act and the 
+costly abuse that existed prior to Act 44 will return in Pennsylvania. 
+
+Finally, as the District Court found, the assessment of a fee upon 
+reconsideration review against a losing claimant does not violate due 
+process. Plaintiffs’ interest in uninterrupted workers’ compensation 
+benefits does not rise to the level of a “fundamental” right and employees 
+have an alternative to judicial remedies which are not conditioned on the 
+payment of fees. Claimants were simply not denied access to 
+reconsideration, a Workers’ Compensation Judge, or the appellate courts 
+as a result of the subject reconsideration fee. See C.A. App. A156; 34 
+Pa. Code § 127.514(a). 
+
+
+19 
+
+
+Accordingly, the claims that the utilization review process does not 
+comply with due process were properly dismissed by the District Court 
+and the Third Circuit's decision should be reversed. The decisions of 
+the District Court should be reinstated. 
+
+
+ARGUMENT 
+
+
+I. SELF-INSURED EMPLOYERS, LIKE PRIVATE 
+INSURANCE COMPANIES, DO NOT BECOME STATE ACTORS 
+WHEN THEY ELECT TO USE STATE AUTHORIZED 
+UTILIZATION REVIEW PROCEDURES OR WITHHOLD 
+PAYMENT TO HEALTH CARE PROVIDERS. 
+
+Self-insured employers, like private insurance companies, do not 
+become “state actors” when utilization review is initiated and the payment 
+of bills to health care providers is delayed pending a review of 
+reasonableness and necessity of the treatment. Blum v. Yaretsky, 557 
+U.S. 991, 1007-1110 (1982) (state regulation of nursing homes does not 
+convert actions of the homes into state action for purposes of due process); 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345, 350 (1974) (state 
+regulation of public utilities does not convert the actions of the public 
+utilities into state action for due process purposes). The Third Circuit 
+erred in holding that state action is involved when private insurers decide 
+to toll payments to medical providers for treatment pending utilization 
+review. 
+
+The School District will not repeat the arguments in support of 
+reversing the Third Circuit and affirming the decision of the District 
+Court on the state actor issue fully and articulately addressed in the 
+insurers’ brief. However, it must be stressed that the identified compelling 
+need for containment initiatives pertains equally to self-insured employers 
+(both governmental and private) and private insurers in Pennsylvania. 
+Likewise, the benefits and procedures contained in the utilization review 
+process apply equally to Pennsylvania insurers and self-insured 
+employers, whether governmental or private in nature. 77 Pa. Stat. Ann. 
+§ 5531 (5-6). 
+
+It is imperative that even if this Court decides that insurers and private 
+self-insured employers are not state actors and that Summary Judgment 
+should have been granted in the instant case, the Court must reach the 
+issue of whether the Act, as amended, comports with the Fourteenth 
+Amendment due process requirements. SWIF insures thousands of 
+private employers in Pennsylvania. If this Court does not reach the due 
+
+
+1 
+
+
+20 
+
+
+process issue, not only will public employers be effected but the private 
+employers insured through SWIF will be denied access to the cost 
+containment benefit of utilization review. See Pa. Legis. J. — Senate 
+1044-1045 (approximately 450,000 employees working for 
+crete Sn 
+
+The consequences will be that these entities will be forced to pay 
+bills for treatment that may not be compensable with absolutely no remedy 
+or ability to recoup the value of these costs. The hardship on Pennsylvania 
+employers is great and weighs heavily, considering the stated 
+governmental interest in containing costs which prompted Pennsylvania 
+workers’ compensation reform to stop the exodus of jobs to other states. 
+This issue should not be passed over by this Court. 
+
+
+Il. THE UTILIZATION REVIEW PROCESS IN 
+PENNSYLVANIA’S WORKERS’ COMPENSATION SYSTEM 
+COMPORTS WITH CONSTITUTIONAL DUE PROCESS. 
+
+
+A. Claimants failed to establish a governmental deprivation of a 
+constitutionally protected right. 
+
+Rights secured by the constitution are generally protected only 
+against infringement by government. Lugar v. Edmonson Oil Co., 457 
+U.S. 992, 936 (1982). To trigger the Fourteenth Amendment's procedural 
+protection regarding the due process rights, an individual must have 
+suffered a deprivation of a protected property interest by the government 
+or a private entity deemed to be a state actor. /d. 
+
+The remedy for a deprivation of a right secured by the Constitution 
+and laws of the United States is provided under Title 42 U.S.C. § 1983. 
+To bring a claim under Section 1983, a plaintiff must establish that he or 
+she was deprived of a federally-protected right and that the conduct 
+allegedly causing the deprivation can be fairly attributable to the State. 
+See Lugar at 937 (1982). A Section 1983 plaintiff must also prove that 
+it was the defendant who subjected him or her to the alleged deprivation 
+or otherwise caused the deprivation. Collins v. City of Harker Heights, 
+503 U.S. 115 (1992). 
+
+Even if self-insured employers or private insurers are determined to 
+be state actors, Plaintiffs simply have not established the requisite 
+deprivation of a constitutionally protected right during the utilization 
+review process. Pennsylvania claimants are simply not denied treatment 
+at the hands of the employers, insurers or even the Commonwealth during 
+the utilization review process. The decision whether to continue 
+
+
+; 
+a 
+
+
+21 
+
+
+specifically challenged treatment is left to the treating physician. As the 
+record shows, some physicians continue treatment while others do not.'! 
+C.A. App. A99, A100, A107, A108-A109, A113. Because tolling payment 
+is not the equivalent of ceasing treatment, the Circuit Court erred in 
+defining and weighing claimants’ interest under the Mathews test. 
+
+The Plaintiffs’ challenge to invocation of utilization review by the 
+employer or insurer pertains only to the payment of bills for treatment 
+already provided. Thus, any choice to discontinue ongoing treatment 
+during the review would rest with the treating physician. This provision 
+operates to keep the treating physicians accountable and presumably, if 
+the provider truly believes the treatment is appropriate, treatment will 
+continued. See, Pennsylvania Medical Practice Act, 77 Pa. Stat. Ann. 
+§ 422.1, et. seq.; American Medical Ass'n. Report on Ethics, infra, n7. 
+
+The process does not “suspend” the Plaintiffs’ right to all medical 
+benefits as the Third Circuit indicated. Rather, the regulations only allow 
+the employer to toll payment of specific bills for a limited time frame 
+while the bills are subject to utilization review. 34 Pa. Code § 127.208. 
+The regulations direct the employer or insurer to pay those bills if it is 
+determined that the bills are compensable under the Act irrespective of 
+any intentions to challenge further by way of reconsideration review 
+before the Workers’ Compensation Judge or appeals to the Workers’ 
+Compensation Appeal Board or appellate courts. 34 Pa. Code 
+§ 127.208(f). Consequently, where treatment is found to be reasonable 
+and necessary, no suspension or deprivation of benefits takes place at 
+all." 
+
+It is when the reviewer determines that the bills pertain to treatment 
+that is not reasonable or necessary that an opportunity for a limited 
+suspension of benefits arises. However, at that juncture, claimants are 
+
+
+11. As the Commonwealth pointed out in its brief to the Third Circuit, 
+the second private inte. est is present even when SWIF is the insurer. Although 
+SWIF is created by statute and operated by the State, it insures private 
+employers who pay for the coverage provided. 77 Pa. Stat. Ann. §§ 2221, 
+241, 283, 301 (West Supp. 1992). 
+
+12. Consideration must be given to the Legislative power to se the reasonable 
+ume frames during which bills must be paid. The Pennsylvania Legislature could 
+have merely extended the time to pay medical bills to ninety days, allowing time 
+for utlization review. However, then payment of unchallenged treatment could 
+have been delayed and no parties interest would have been served. therefore, the 
+extension of the time period to pay bills pending review is sensible and serves 
+both the interests of claimants and employers. 
+
+
+22 
+
+
+provided notice that the treatment is not reasonable or necessary and an 
+opportunity for a hearing. 34 Pa. Code § 127.472. Specifically, the 
+reviewer's decision is required to explain the basis for his/her opinion 
+that the treatment has been determined to be unreasonable and 
+unnecessary. Jd. The review organization must also provide forms for 
+petitioning for further review or reconsideration in pre-Act 57 matters.'’ 
+34 Pa. Code § 127-476. At the hearing, claimants have an opportunity to 
+present evidence and cross-examine witnesses in order to attempt to have 
+the payments for specific treatment reinstated. Following a workers’ 
+compensation judge's decision, the parties have a right to full 
+administrative and judicial review by the Workers’ Compensation Appeal 
+Board and Commonwealth Court of Pennsylvania. 77 Pa. Stat. Ann. 
+§§ 531(6)(iv), 701, 42 Pa. CS § 751. 
+
+As this Court recognized, constitutionally adequate process is 
+afforded by statutes when reasonable remedies exist to correct errors of 
+administrative bodies in determining rights regarding protected inte?=st. 
+Bello v. Walker, 840 F.2 1124, 1128 (3rd Cir.), cert denied, 488 U.S. 851 
+(1988) (the provisions of subsequent process to challenge the denial of a 
+building permit satisfy due process). It is submitted that the utilization 
+review process is adequate, especially in light of the immediate right to 
+review of the utilization reviewer's determination and the remedies 
+available under the Act if payment for treatment is ultimately reinstated. 
+34 Pa. Code §§ 127.501, 127.502. 
+
+
+B. The Process Provides Claimants Sufficient Notice 
+
+
+Contrary to the Third Circuit's misperception of the utilization review 
+process, any alleged governmental deprivation or termination of medical 
+benefits does not occur as a result of invocation of utilization review. It 
+is not until after the utilization review process is invoked and the utilization 
+review determination is rendered, where employers are entitled to a 
+limited suspension of benefits. See 77 Pa. Stat. Ann. 531(6); 34 Pa. 
+Code § 127.208. Thus, the process provides claimants with sufficient 
+meaningful notice during review to keep them apprised of the challenge 
+to treatment and an opportunity for hearing as of the time of the 
+suspension. See 34 Pa. Code § 127.208 (mandatcry time to pay bills is 
+tolled when submitted to utilization review, ana employers are entitled 
+
+
+13. Pre Act 57, claimants had an opportunity to state their position 
+regarding treatment on the petition for reconsideration. Claimants could 
+indicate on the form why they believe the treatment is reasonable and necessary. 
+
+
+23 
+
+
+to continue a suspension of benefits for the limited treatment upon a 
+determination of unreasonable or unnecessary care). 
+
+Specifically, the claimants are notified that the employers or insurers 
+have invoked the utilization review process pursuant to 34 Pa. Code 
+§ 127.452 to specifically request review of the reasonableness and 
+necessity of care. See C.A. App. B34. The claimant and employer also 
+receive a notice of assignment of utilization review. C.A. App. B35. 
+The notice of assignment again informs the claimant that the 
+reasonableness and necessity of specific medical treatment is being 
+within thirty days. 34 Pa. Code § 127.453(b). 
+
+The Third Circuit states that this notice is not sufficient because the 
+employee is not told that his medical benefits may cease pending review. 
+However, again, at no time during the utilization review process is any 
+factfinder empowered to make determinations as to the causal connection 
+between the treatment and the work injury; whether a claimant has 
+achieved maximum medical improvement; or whether entitlement to 
+medical benefits should otherwise continue. 34 Pa. Code §§ 127.470, 
+127.471. Because claimants’ general entitlement to medical benefits is 
+never at issue, the claimants’ right to medical benefits are not “terminated” 
+during review and the notice provided to the claimants need not indicate 
+that benefits may “cease” as the Third Circuit required. 
+
+Because claimants’ entitlement to medical benefits, generally, 
+continues during utilization review, and it is the treating physicians who 
+will know if they are practicing outside ordinarily accepted protocol, it 
+will be the treating physician who, based upon their own personal 
+knowledge, will decide whether to continue treatment. Of course, the 
+physicians remain free to initiate any other type of treatment or methods 
+of treatment that are more appropriate in order to continue being paid 
+for services. Additionally, nothing in the Act prohibits the claimants from 
+directly paying the doctors for services after it is finally adjudicated that 
+services are outside the parameters of the Act. 
+
+The Third Circuit also took issue with the initial request for utilization 
+review and notification of assignment to a utilization review organization 
+as not providing sufficient information or explanation concerning what 
+the utilization review process involves for claimants to understand and 
+participate in the process. Pet. App. 21a-25a. Nevertheless, the initial 
+sufficient notice to the claimants of the challenge to their treatment. 
+
+
+24 
+
+
+Mullane v. Central Hanover Bank and Trust Co., 339 U.S. 306 (1950) 
+(notice need only apprise interested parties of the pendency of an action 
+and afford them an opportunity to participate at a meaningful time). 
+Because there is no meaningful input which claimants could provide at 
+that juncture in the review process, this notice is sufficient. 
+
+The determination will be made by a reviewer upon consideration 
+of medical records and any information provided by the provider (whose 
+payment hinges upon his cooperation) with respect to how the treatment 
+helps a claimant. The provider is the best source for this information 
+and is provided the opportunity to submit records, talk to the reviewer, 
+and persuade the reviewer of the medical basis or bases for a determination 
+that the treatment is reasonable and necessary. Since the payments are 
+issued to the provider, not the claimant, a provider treating within 
+acceptable parameters has a financial incentive to comply in order to 
+secure payment of his/her bills. One must question the appropriateness 
+of treatment by a provider who simply does not comply with the 
+reviewer's request for information. 
+
+Moreover, the Third Circuit’s determination that the notice was 
+insufficient turned primarily on the decision on the United States District 
+Court for the Eastern District of Pennsylvania in the case of Baksalary v. 
+Smith, 579 F. Supp. 218 (E.D. Pa. 1984), aff’d, 772 F.2d 893 (3d Cir. 
+1985), cert. denied, 469 U.S. 1146 (1985). However, not only was that 
+decision erroneously decided by the District Court and its holding should 
+be overruled by this Court, that process is inapposite to the one presented 
+here.'* 
+
+
+14. In Baksalary, a challenge to a portion of former Section 413(a) of 
+the Workers’ Compensation Act was addressed, which allowed an automatic 
+supersedeas of all workers’ compensation benefit payments under the Act. 
+The supersedeas was “automatic” upon the filing of a petition to terminate 
+benefits that alleged either the employee returned to work at the same or greater 
+rate of pay, or that the employee had completely recovered from his work- 
+related injuries. Baksalary, 579 F. Supp. at 221. To obtain a supersedeas on 
+the latter ground, the petition had to be filed within 15 days of an examination, 
+and a physician's affidavit addressing the recovery was required to be attached. 
+Id. The supersedeas remained in effect until the termination petition was fully 
+litigated. . 
+
+The Baksalary Court ruled that Section 413(a) violated due process in 
+that a claimant was not given notice of the supersedeas nor an opportunity to 
+respond to the physician's affidavit. Jd. at 232-33. The Tae 
+
+ont’ 
+
+
+25 
+
+
+In Baksalary, the District Court determined that when a self-insured 
+employer or insurance company terminated a claimant's benefits based 
+upon a doctor’s opinion establishing that payment of compensation is 
+longer warranted, and merely notified the state of that action, the insurer 
+or employer became a state actor and the claimant's constitutionally 
+protected property interest in the workers’ compensation indemnity 
+benefits was violated under the Fourteenth Amendment to the United 
+States Constitution. The Baksalary holding has been rejected by the 
+Fifth Circuit in Barns v. Lehman, 861 F.2d 1383 (Sth Cir. 1988). In that 
+decision, the Fifth Circuit explicitly declined to “embrace the reasoning 
+of Baksalary” holding that “procedural regulations simply do not suffice 
+to establish the degree of joint participation required to convert private 
+action into state action.” 861 F.2d 1387. Similar procedures allowing 
+for termination of benefits based solely upon a doctor's report expressing 
+
+
+(Cont'd) 
+concluded that due process was violated by insufficient notice and the 
+insufficient guarantee of decision maker impartiality. /d. at 236-237. 
+
+Nevertheless, the Third Circuit's reliance on Baksalary in this case was 
+misplaced. Baksalary involved a provision wholly distinguishable from the 
+provision challenged in the instant case. The concerns which lead to the 
+invalidation of Section 413(a) in Baksalary do not exist here. The utilization 
+review process significantly narrower and contains “checks and balances” 
+which afford greater due process protection than the former Section 413(a). 
+The scope and nature of the current provisions ensure impartiality and integrity 
+of the “reasonable or necessary” determination. 
+
+First, the only benefits subject to utilization review and possible 
+Suspension of payment relate to specific medical treatment. 34 Pa. Code §§ 
+127.401, 127.402. Other medical utilization benefits and wage replacement 
+benefits are not subject to utilization review or possible suspension under the 
+subject provisions. Under the former Section 413(a), all benefits, including 
+wage benefits, which often provide the employee's sole means of subsistence, 
+were subject to the automatic supersedeas. 
+
+Furthermore, the automatic supersedeas under Section 4139a) remained 
+in effect until the matter was fully litigated. Prior to Act 57, if a decision in 
+favor of the treatment was made at the initial review, payment of benefits was 
+required unless the insure or employer sought reconsideration. 34 Pa. Code 
+§ 127.208. If the insurer or employer lost again on reconsideration, payment 
+was required regardless of whether further review was sought. /d. Act 57, 
+which eliminated the reconsideration process, requires payment to be made if 
+
+
+the treatment is upheld at the initial review regardless of whether a petition 
+for review is filed. 
+
+
+26 
+
+
+an opinion that benefits were no longer compensable were also adopted 
+by the Fourth Circuit in the case Fleming v. Workers’ Compensation 
+Commission of the Commonwealth of Virginia, 878 F.2d 852 (E.D. Va. 
+1995), aff'd mem., 78 F.3d 578, reported in full, 1996 U.S. App. LEXIS 
+3858 (4th Cir. Mar. 5, 1996). 
+
+In the Fleming case, the Fourth Circuit recognized that Virginia law 
+permitted insurers to suspend payment of benefits immediately upon 
+filing an application with the state challenging the entitlement to benefits. 
+The Court recognized that the ultimate decision to stop payment of 
+benefits rested with the insurer who was not a state actor and simply 
+complied with the procedures and exercised its options in compliance 
+with the state’s statute. 
+
+In the matter sub judice, benefit entitlement is not at issue as it was 
+in Baksalary. Moreover, claimants receive sufficient notice of the status 
+of the review at meaningful times and the notifications provide claimants 
+sufficient information with respect to how and when they can participate 
+in a meaningful way. Thus, due process requirements are satisfied. 
+
+There is no reason why the employer or insurer should have to pay 
+for treatment that is not reasonable or necessary once the reviewer 
+determines the treatment is outside accepted protocol. The post-review 
+determination hearings provide satisfactory safeguards against erroneous 
+deprivation. 
+
+C. Utilization Review Procedures Satisfy Due Process 
+
+
+It is axiomatic that the concept of due process is flexible, focused 
+on ensuring “fundamental fairness” in decision making. Walters v. 
+National Ass'n of Radiation Survivors, 473 U.S. 305, 320 (1985). Not 
+being a technical concept, due process is not fixed with respect to time, 
+place or circumstance. Cafeteria Workers v. McElroy, 367 U.S. 886, 89 
+(1961). : 
+Procedural due process imposes constraints on 
+governmental decisions which deprive individuals of “liberty” 
+or “property” interests within the meaning of the Due Process 
+Clause of the Fifth or Fourteenth Amendment. 
+
+Mathews v. Eldridge, 424 U.S. 319, 331 (1976). 
+
+The process required varies depending on the nature of the interests 
+at issue and the circumstances under which deprivation may occur. 
+Walters at 320; Morrisey v. Brewer, 408 U.S. 471, 481 (1972). 
+Nevertheless, “legislatures are to be allowed considerable leeway to 
+
+
+27 
+
+
+formulate such processes without being forced tc conform to a rigid 
+constitutional code of procedural necessities.” Walters, at 326. 
+
+Whether specific procedures satisfy due process is a legal question 
+for the Court to resolve. Midnight Sessions, Ltd. v. City of Philadelphia, 
+945 F.2d 667, 684 (3d Cir. 1991) cert. denied, 503 U.S. 54 (1992). In 
+conducting a due process inquiry, Courts must balance three factors: (1) 
+the private interests that will be affected by the official action; (2) the 
+risk that the procedures will result in an erroneous deprivation of the 
+interest and the probable value of additional procedures; and, (3) the 
+governmental interest, including the function involved and the fiscal and 
+administrative burdens that the additional or substitute procedural 
+requirement would entail. Mathews, 424 U.S. at 334-335. Applying 
+these factors herein, it is evident that the Pennsylvania legislature enacted 
+an administrative scheme which provides sufficient due process to 
+workers’ compensation claimants. 
+
+a. Private Interests 
+
+
+Unlike the circumstances presented in Mathews, where only one 
+private interest was at issue, the instant case involves two Opposing private 
+interests. The District Court correctly defined the private interest of 
+plaintiffs herein as their “desire for uninterrupted receipt of [medical] 
+benefit[s] pending the final administrative decision on their cases.” C.A. 
+App. A29. This “interest” is tempered by the fact that Pennsylvania's 
+Workers’ Compensation law entitles claimants to retroactive relief, interest 
+and costs if challenged medical treatment is ultimately found, in later 
+proceedings, to be reasonable and necessary. 77 Pa. Stat. Ann. § 717.1, 
+996; see also Mathews at 340; Cryder v. Oxendine, 24 F.3d 175, 178 
+(11th Cir. 1994) (holding that the potential harm to the individual 
+employee is less under Georgia’s workers’ compensation act, because of 
+the availability of full retroactive relief). 
+| Additionally, eligibility for workers’ compensation medical benefits 
+is not based upon financial need and will not deprive the plaintiffs of 
+their means to live as was the case in Mathews. As the District Court 
+found, claimant's interests in uninterrupted payment of medical bills is, 
+therefore, further tempered by the fact that claimants have access to 
+additional financial resources such as wage replacement monies or other 
+sources. “[C]laimants may have support from many other sources, ‘such 
+as earnings from other family members, workmen’s compensation 
+awards, tort claim awards, savings, private insurance, public or private 
+
+
+28 
+
+
+pensions, veteran benefits, food stamps, public assistance . . .’ ”. C.A. 
+App. A29, (citing Mathews, 424 at 341-342). In fact, while the Act 
+prohibits a doctor from billing an employee directly, nothing in the statute 
+indicates that a claimant is prohibited from reimbursing the medical 
+provider at the end of the administrative process if, in fact, the bills are 
+for services that are found to be outside the compensability provided for 
+in the Act. C.A. App. A30 n4. 
+
+Although the Third Circuit cited Mathews for the proposition that 
+the interest claimants have is in the uninterrupted receipt of medical 
+benefits, in its analysis, the Third Circuit actually applied the following 
+interest: “interest in the relief that the medical treatment provides to the 
+injured Employees.” Pet. App. at 36A. The Third Circuit's abandonment 
+of the Mathews analysis is evident from the Circuit Court’s criticism that 
+the District Court mischaracterized the nature of claimants’ interests. 
+The Circuit Court observed that the District Court viewed these interests 
+as a pecuniary in nature and not interests in the relief that the medical 
+treatment provides. Thus, the Third Circuit actually shifted the focus of 
+the interest to be weighed and expanded the very nature of the benefits 
+Pennsylvania claimants are entitled to receive. The Act does not guarantee 
+all claimants the unqualified right to any treatment they wish with 
+whatever frequency they desire for the duration they choose. Rather, the 
+Act allows only for the payment of reasonable and necessary medical 
+treatment causally related to the work injury. 
+
+On the other hand, it cannot be ignored that private insurers and 
+employers have an equally significant interest in not paying for medical 
+treatment that is unreasonable or unnecessary. The Third Circuit 
+completely ignored, without comment, the argument that it must also 
+weigh the interests of insurers and self-insured employers (both 
+governmental and private) in determining and weighing the interests at 
+stake. This second interest is heightened by the inability to recoup any 
+payments for treatment ultimately found to have been neither reasonable 
+or necessary. See Moats v. Workmen's Compensation Appeal Board, 
+588 A.2d 116, 118 (Pa. Cmwith. 1991). Insurers may only seek to recover 
+from the Supersedeas Fund, which insurers fund themselves and which 
+does not pay interest. 77 Pa. Stat. Ann. § 999; Liberty Mut. Liab. Ins. 
+Assoc. v. Workmen's Compensation Appeal Board, 537 Pa. 367, 644 A.2d 
+
+697 (1994). 
+
+In short, the procedures in place adequately protect the interest of 
+claimants. It is also indisputable that the employers’ interests are 
+
+
+29 
+
+
+heightened and are not tempered by the same of protection and 
+relief the procedures otherwise afford porn It is respectfully 
+submitted that adequate procedural protections are provided by the 
+utilization review process to protect the interests of the plaintiffs against 
+any risk of erroneous deprivation. Because the plaintiffs are granted 
+post review relief and remedies, their interests pale in comparison to the 
+heightened interests that employers and insurers have in not making 
+payments for unreasonable and unnecessary treatment. 
+
+
+b. Risk of Erroneous Deprivation and Alternate Procedures 
+Would Be of No Value 
+
+
+The risk of erroneous deprivation is slight when considering the 
+utilization review system and procedures in place in the workers’ 
+pt pc system as . whole. The process of utilization review 
+contains numerous “checks and balances” tin i 
+analyses and decisions. asta acetate 
+pe None be the parties, oe, the insurer or employer, select the 
+
+viewer. This provision safe the impartiali 
+Pa. Code § 127.466, Ragan acedeasaparermapenpeetiN 
+
+Further securing the integrity of the review determination, the process 
+requires the utilization review organization to assign the utilization request 
+toa reviewer in the same profession and having the same specialty as the 
+medical provider under review. 34 Pa. Code § 127.466. Reviewers are 
+required to apply generally accepted treatment protocol to the case 34 
+Pa. Code § 127.467. These protocols are to be applied by reviewers in 
+determining “whether the treatment under review is reasonable or 
+necessary for the medical condition of the employee.” 34 Pa. Code 
+§ 127.470(a). Reviewers must assume that the injuries are work-related, 
+and are prohibited from addressing issues such as current disability status, 
+quality of care, fee reasonableness or whether maximum medical 
+improvement has occurred. 34 Pa. Code § 127.470(b)."° 
+
+
+. 15. The provisions on the authorization of utilization review organizations 
+are intensive, ensuring the impartiality of the qualified reviewers utilized and the 
+integrity of the utilization review process. See 34 Pa. Code §§ 127.651-670. The 
+Bureau retains the power to suspend the assignment of new reviews to a utilization 
+review organization not performing its responsibilities under the Act, and may 
+revoke a utilization review organization's authority to perform reviews. 34 Pa._ 
+Code $§ 127.668, 127.669. The close monitoring of utilization review 
+Organizations is another example of the protections which reduce the risk of an 
+
+
+30 
+
+
+The risk of erroneous deprivation is further minimized because the 
+“reasonable or necessary” decision is a medical determination based upon 
+unbiased medical reports. The Supreme Court has classified medical 
+reports as “routine, standard and unbiased”, containing “reliability and 
+probative worth” without the “specter of questionable credibility and 
+veracity”. Richardson v. Perales, 402 U.S. 389, 407 (1971); see also 
+Mathews at 344. In rendering a utilization review decision, the reviewer 
+consults with the provider under review, considers the records and reports 
+of said provider and possibly other treating providers. 34 Pa. Code 
+§§ 127.459, 127.460, 127.469. The veracity of such materials confirms 
+that sufficient due process is provided. 
+
+The above described limitations imposed upon reviewers under the 
+Act reflect protection against erroneous decisions beyond those provided 
+in the statutory Social Security disability scheme upheld in Mathews. In 
+Mathews, the government could terminate disability benefits based solely 
+upon the report of its own independent medical examiner, as opposed to 
+reports by the claimant’s treating physician. Pennsylvania's scheme, in 
+contrast, prohibits a utilization review organization from obtaining, and/ 
+or a reviewer from reviewing, reports of independent medical 
+examinations. 34 Pa. Code § 127.461 (limiting the scope of records that 
+can be reviewed to records of actual treating health care providers). 
+
+Stated another way, unlike the government in Mathews, Pennsylvania 
+insurers or employers cannot impact the ultimate outcome of a utilization 
+review. The challenged procedures are non-adversarial and are based 
+solely on a claimant's “side of the story”. The utilization procedures 
+provide more due process protection than the scheme upheld in Mathews. 
+
+The same conclusion is reached upon an examination of Parham v. 
+J.R., 442 U.S. 584 (1979). In Parham, this Court reviewed for due process 
+compliance, the State of Georgia’s procedures for the voluntary 
+commitment to state mental institutions of children by their parents. 
+Georgia state law empowered the superintendent of the subject institution 
+to assess the child’s mental state and determine whether hospital care 
+would likely benefit the child. Jd. at 605. The state procedures did not 
+provide for a formalized factfinding, judicial or administrative hearing 
+at any stage. 
+
+This Court upheld the state procedures. In rejecting the argument 
+that due process required a hearing, the Court emphasized that due process 
+was satisfied where a staff physician, acting independently and utilizing 
+traditional medical techniques, rendered decisions on treatment. /d. at 
+
+
+31 
+
+
+607. The Court, in emphasizing the medical nature of the decision in 
+that case, noted that “[nJot every determination by state officers can be 
+made most effectively by use of ‘the procedural tools of judicial or 
+administrative decision making.’ " /d at 60° (quoting Board of Curators 
+of Univ. of Missouri v. Horowitz, 435 U.S. 78, 90 (1978)). 
+
+The process challenged in the instant case is similar to Parham in 
+that both cases involve a medical determination. The Pennsylvania 
+process contains subsequent procedures involving petitions for a hearing 
+de novo before a Workers’ Compensation Judge where treatment is found 
+to be unreasonable and unnecessary and appeals to the appellate courts 
+of Pennsylvania, as of right, if the claimant is dissatisfied with the results 
+of the de novo hearing. 42 Pa. C.S. § 761. The Court in Parham held 
+that the Georgia scheme comported with due process, despite lacking 
+similar subsequent procedures to correct an erroneous decision. 
+
+The Third Circuit found that the risk of an erroneous deprivation 
+was great because claimants did not have an opportunity to submit a 
+Statement indicating, subjectively, how the treatment helps them. 
+However, any relief or benefit treatment provided a claimant would be 
+documented in the doctor's records and the doctor is given an opportunity 
+to discuss the treatment with the reviewer. Since medical reports are 
+unbiased, objective and trustworthy, problems associated with the 
+credibility of witnesses are not present. See Matthews. Therefore, an 
+opportunity for a hearing or written submission by a claimant as to how 
+they believe the treatment helps, would not aid in avoiding erroneous 
+decisions and would be of no value. See, Parham; Horowitz. 
+
+Plaintiffs suggest that an erroneous deprivation may occur due to 
+the complete or partial non-responsiveness of a provider under review 
+acting counter to a claimant's interests. However, they fail to support 
+this contention with anything other than their broad suppositions. The 
+record is devoid of any averments to support the scenarios claimed in 
+their brief and demonstrate a “risk” of an erroneous deprivation. The 
+slight chance that an erroneous decision may occur under unsubstantiated 
+circumstances is an insufficient ground upon which to find process 
+unconstitutional. Procedural due process rules “are shaped by the risk 
+of error inherent in the truthfinding process as applied to the generality 
+of cases, not the rare exceptions.” Mathews at 344. This slight risk is 
+tempered by the subsequent procedures provided for review de novo 
+through which any errors can be rectified. 
+
+
+32 
+
+
+In short, the current provisions provide sufficient due process 
+protection against the risk of erroneous deprivation of specific medical 
+benefits pending utilization review. Under Mathews, due process does 
+not require hearing prior to the insurer/employer's suspension of payment 
+of the challenged treatment. 
+
+c. Governmental Interest 
+
+
+Under Mathews, the governmental interest involved must be factored 
+into the due process analysis. The Commonwealth of Pennsylvania has 
+an interest in ensuring that the payment of medica! benefits occurs for 
+only truly disabled employees. This interest is protected by the 
+establishment of a fair and efficient workers’ compensation system. The 
+public shares in this interest, because when Pennsylvania insurers or 
+self-insureds pay for unreasonable or unnecessary medical treatment, 
+these costs are passed to the Pennsylvania consumer. 
+
+The government also has an interest in containing the medical costs 
+in workers’ compensation. Cost-containment reduces, among other 
+things, insurance premiums in the Commonwealth which increases the 
+likelihood that employers and insurers will remain in business in 
+Pennsylvania."* Adding an evidentiary hearing to the utilization review 
+process would only increase costs and frustrate the governmental interests. 
+
+d. The Interest Balance Weighs in Favor of the Sufficiency 
+of the Utilization Review Process 
+
+
+In assessing what process is due, substantial weight should be 
+accorded to the good faith judgment of the Pennsylvania Legislature and 
+those individuals the Legislature have charged to administer the Workers’ 
+Compensation system and the procedures they developed to assure fair 
+consideration of the reasonableness and necessity of medical treatment 
+provided to claimant. See Mathews at 348 (affording Congress and those 
+charged thereby substantial weight in their good faith judgments in 
+
+
+16. The remarks made in the Senate during the debate over whether to 
+adopt Senate Bill No. | (later Act 44) reveal that concerns over employers 
+fleeing Pennsylvania's high workers’ compensation costs fueled the drive 
+towards the legislation. Senator Madigan, who spearheaded the passage of 
+the bill, expressed the legislature's task as seeking to “achieve a public policy 
+that will encourage employers and jobs to stay in this Commonwealth.” Pa. 
+Legis. J. — Senate 284 (February 10, 1993). 
+
+
+33 
+
+
+weight should be given in light of the fact that the procedures not only 
+provide claimant with protection against erroneous decisions regarding 
+their treatment, they also assure a right to an evidentiary hearing and 
+subsequent judicial review before a denial of a claim becomes final. /d.: 
+see Boddie vs. Connecticut, 401 U.S. 371, 378 (1971). 
+
+The utilization review system sufficiently strikes the necessary 
+balance of protecting the significant interests of the government, 
+employers and private insurers while also protecting the private interest 
+of claimants. Therefore, the utilization review process is constitutionally 
+
+
+D. Imposing reconsideration costs upon the losing party does 
+not violate due process. 
+
+
+Plaintiffs also challenged the constitutionality of the imposition of 
+reconsideration costs under Act 44. The District Court properly rejected 
+Due process is not contravened because the instant case does not 
+involve any fundamental right or interest similar or analogovs to those in 
+cases where this Court held that the imposition of fees amounted to a 
+denial of constitutional due process. In Boddie, welfare recipients 
+challenged certain Connecticut procedures, including those requiring the 
+payment of filing fees and costs, as a violation of due process. The 
+their access to the courts. The Court held that a state could not, consistent 
+with due process, pre-empt the right to dissolve a marriage “without 
+affording all citizens access to the means it has prescribed for doing so.” 
+Id. at 382-383. The Court reasoned that because the state required its 
+citizens to resort to the state judicial process as “the exclusive precondition 
+to the adjustment of a fundamental human relationship,” mandatory court 
+filing fees which precluded indigent access were violative of due process. 
+Id. This Court thus recognized one’s right to determine marital status as 
+fundamental. 
+
+Similarly, in Little v. Streater, 452 U.S. | (1981), this Court held 
+that the imposition of the cost of blood tests on an indigent party contesting 
+a paternity action was violative of due process. The Court recognized 
+the “constitutionally significant” interest the petitioner had in contesting 
+paternity. /d. at 13, 16,n.12. Little recognized and protected the individual 
+interest in parental status. 
+
+In the instant case, Plaintiffs’ desire for uni ipt of 
+medical Sauda iachaves Guteee clan enna omanane 
+
+
+34 
+
+
+Boddie and Little. Instead, Plaintiffs’ interest is comparable to the interests 
+of the respective plaintiffs in United States v. Kras, 409 U.S. 434 (1973) 
+and Ortwein v. Scwab, 410 U.S. 656 (1973). In these cases, the Supreme 
+Court determined that no fundamental right was at issue and upheld the 
+challenged filing fee provisions. 
+
+In Kras, the Supreme Court upheld statutorily imposed bankruptcy 
+filing fees against a claim brought by an indigent, who alleged that the 
+fee requirement violated their right to constitutional due process. 
+Applying Boddie, this Court stated that one’s interest in a bankruptcy 
+discharge “does not rise to the same constitutional level” as one’s inability 
+to dissolve a marital relationship through the state-mandated judicial 
+process. Kras at 445. 
+
+In Ortwein, the Supreme Court upheld the Oregon appellate filing 
+fee applied to an indigent seeking to appeal an adverse welfare decision. 
+In rejecting petitioners’ due process argument, the Court declared that 
+petitioners’ interest in increased welfare payments “has far less 
+constitutional significance than the interest of the Boddie appellants.” 
+Ortwein at 659. 
+
+The interests of Plaintiffs herein “was far less constitutionally 
+significant than the interest of the Boddie appellants.” Jd. While important, 
+the desire for uninterrupted medical benefits is not a fundamental right. 
+See School Dist. of San Antonio v. Rodriguez, 411 U.S. 1, 33 (1973) 
+(limiting “fundamental” rights to those explicitly or implicitly guaranteed 
+by the Constitution). Plaintiffs’ interest is more akin to those interests in 
+Kras and Ortwein, which were not given constitutional deference. Cf 
+Bullock v. Carter, 405 U.S. 134 (1972) (right to run for public office is a 
+fundamental right); Williams v. Rhodes, 393 U.S. 23 (1968) (right to 
+vote is a fundamental right); Shapiro v. Thompson, 394 U.S. 618 (1969) 
+(right to interstate travel is a fundamental right); Skinner v. Oklahoma ex 
+rel. Williamson, 316 U.S. 535 (1942) (right to procreate is a fundamental 
+night). 
+
+The costs of the initial utilization review are incurred by the employer 
+or insurer. 77 Pa. Stat. Ann. § 531(6)(iii) (West Supp. 1996). Prior to 
+Act 57, if reconsideration was sought, the costs thereof were advanced 
+by the Bureau and the losing party was subsequently billed. 34 Pa. Code 
+§ 127.514(a). The losing party was required to reimburse the Bureau 
+within 30 days. /d. However, payment of the costs imposed was not 
+required before the losing party could file a petition for review before a 
+Workers’ Compensation Judge or subsequent appeals to the Pennsylvania 
+
+
+35 
+
+
+courts. Thus, the cost obligation does not preclude an employee from 
+The imposition of reconsideration costs also does not amount to a 
+judgment which the losing party may be compelled to satisfy under law. 
+All that the challenged provisions allowed was the forwarding of a bill 
+for the utilization review organization's charge from the Bureau to the 
+losing party. Id. at §127.514(a). Before a party could be compelled to 
+pay, the Bureau would have to obtain and execute upon a judgment 
+pursuant to the Pennsylvania Rules of Civil Procedure. See Pa. R. Civ. 
+P. 1001-1041.2, 3101-3149. The Rules of Civil Procedure provide the 
+losing party with more than an adequate opportunity to contest its liability 
+for the costs. See Pa. R. Civ. P. 1017, 1028, 1029, 1030. 
+
+In sum, Act 44 did not violate due process by imposing 
+reconsideration costs upon the losing party."’ 
+
+
+CONCLUSION 
+
+
+The judgment of the United States Court of Appeals for the Third 
+Circuit should be reversed and the judgments of United States District 
+Court Judge Buckwalter reinstated. 
+
+
+Respectfully submitted, 
+
+
+JAN M. RITCHIE 
+
+Counsel of Record 
+
+JAMES M. TYLER 
+
+PATRICIA FARRELL KERELO 
+JOSEPH W. CUNNINGHAM 
+MARK PFEIFFER 
+
+SCHUBERT, BELLWOAR, CAHILL 
+& QUINN 
+
+Attorneys for Respondent 
+
+School District of Philadelphia 
+1500 John F. Kennedy Blvd. 
+Suite 1400 
+
+
+Philadelphia, PA 19102 
+(215) 587-0146 
+
+
+. 17. The Third Circuit determined that the regulations governing the 
+utilization review provides sufficient standards and guidance to comport with 
+
+

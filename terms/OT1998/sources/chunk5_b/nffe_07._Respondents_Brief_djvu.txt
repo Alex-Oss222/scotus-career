@@ -1,0 +1,2486 @@
+, Court, U.S 
+i (q FILED 
+an ig \ 
+®) &Y SEP 25 1998 
+
+
+Nos. 97-1184 and 97-1243 
+
+
+Jn the Supreme Court of the Gnited States 
+OCTOBER TERM, 1997 
+
+
+NATIONAL FEDERATION OF FEDERAL EMPLOYEES, 
+LOCAL 1309, PETITIONER 
+
+
+v. 
+
+
+UNITED STATES DEPARTMENT OF THE INTERIOR, 
+ET AL. 
+
+
+FEDERAL LABOR RELATIONS AUTHORITY, PETITIONER 
+Vv. 
+
+
+UNITED STATES DEPARTMENT OF THE INTERIOR, 
+ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+
+JONATHAN E. NUECHTERLEIN 
+Assistant to the Solicitor 
+General 
+
+WILLIAM KANTER 
+
+
+ROBERT M. LOEB 
+SUSHMA SONI 
+
+
+Attorneys 
+of Justice 
+
+
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+wes fs 5 4 J > 2 ; 
+ieee et ee ‘ isso. 
+~ Lae Ia 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Federal Labor Relations Authority may 
+compel a federal agency employer to bargain with a union 
+about, and face the prospect of binding arbitration on, a pro- 
+posal that would commit the employer to negotiate midterm 
+“on any negotiable matters not covered by the provisions” of 
+
+
+the collective bargaining agreement in which the proposal 
+would be included. 
+
+
+(I) 
+
+
+i 
+hell ee 
+he 
+Pr 4 
+, " 
+: 
+al y 
+, 
+' 
+( 
+ts 
+i 
+b 
+i 
+i 
+y. 
+F 
+i 
+he » ; ae 
+‘ + , ite * any J a oo 
+R ing o-+ . Lear 1 
+i) 1 > . 7 4 ag Paeni ve * Seine Th 
+: ee | Pa y ee ae oe 
+= Ly Pe ee ee Lo Re 
+~ ei . 4 Pl Pgh ea? Sas 
+, : apy t J 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+Jurisdiction 
+
+
+Statement 
+Summary of argument 
+Argument: 
+
+I. Congress deliberately excluded any general 
+midterm bargaining duty from the scope of an 
+—_ bargaining obligations 
+
+. The FLRA’s position is inconsistent with 
+the language and structure of the Statute ......... 
+B. The FLRA’s position contradicts the core 
+statutory objective of ensuring “an effective 
+and efficient Government” 
+C. The FLRA’s position contradicts the 
+legislative history and prior administr: «:.« 
+practice | 
+D. The FLRA’s position is not entitled to 
+Chevron deference 
+
+II. The FLRA may not use contractual midterm 
+bargaining clauses to create indirectly a mid- 
+term bargaining regime that the Statute has 
+rejected 
+
+Conclusion 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Army & Air Force Exchange Service, Case No. 
+22-6657 (CA), 2 Rulings on Request for Review 
+(1976) -_ 
+
+AFGE vy. FLRA, 750 F.2d 143 (D.C. Cir. 1984) 0.0000 
+
+AFGE, Local 168, 52 F.L.R.A. 1063 (1997) 
+
+AFGE, Local 2782 v. FLRA, 702 F.2d 1183 (D.C. 
+Cir. 1983) 
+
+AFGE, Local 3354, No. O-NG-2407, 1998 
+WL 598537 (FLRA Aug. 31, 1998) 
+
+
+(IIT) 
+
+
+aonw Nf 
+
+
+11 
+
+
+11 
+
+
+39 
+47 
+
+
+IV 
+Cases—Continued: Page 
+Atchison, T. & S.F. Ry. v. Petia, 44 F.3d 437 
+
+
+(7th Cir. 1994), aff'd on grounds sub nom. Brother- 
+hood of Locomotive Eng’rs v. Atchison, T. & S.F. 
+
+
+Ry., 516 U.S. 152 (1996) 38, 39 
+Bureau of Alcohol, Tobacco & Firearms v. FLRA: 
+464 U.S. 89 (1983) 11, 31, 34, 38, 44, 46 
+672 F.2d 732 (9th Cir. 1982), rev'd, 464 U.S. 89 
+(1983) 25 
+Chevron U.S.A-Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) 10, 37 
+Department of Commerce, Patent & Trademark 
+Office: 
+53 F.L.R.A. 539 (1997) 38 
+53 F.L.R.A. 858 (1997) 44 
+Department of Defense, Army-Air Force Exchange 
+Serv. v. FLRA, 659 F.2d 1140 (D.C. Cir. 1981) ............. 39 
+Department of Energy, 51 F.L.R.A. 124 (1995) ......svesveees 5, 6 
+Department of Energy v. FLRA, 106 F.3d 1158 
+(4th Cir. 1997) 5, 6, 7, 30, 40 
+Department of Health & Human Servs., Social 
+Security Admin.: 
+44 F.LR.A. 230 (1992) 17 
+47 F.L.R.A. 1004 (1993) 29, 30, 38 
+No. 94 F.S.L.P. 47, 1994 WL 412309 (Aug. 3, 
+1994) 40 
+Department of the Navy v. FLRA, 962 F.2d 48 
+(D.C. Cir. 1992) 19, 28, 29 
+Department of Transp., FAA, A/SLMR No. 517, 
+5 A/SLMR 344 (1975) 35 
+Department of the Treasury v. FLRA, 836 F.2d 
+1381 (D.C. Cir. 1988) 45 
+FAA Northwest Mountain Region, 14 F.L.R.A. 644 
+(1984) 46 
+FAA, Washington, D.C., 20 F.L.R.A. 273 (1985) .....00000« 46 
+FLRA v. IRS, 838 F.2d 567 (D.C. Cir. 1988) 0... 28, 29 
+
+
+Fort Stewart Schools v. FLRA, 495 U.S. 641 
+(1990) 24, 41 
+
+
+V 
+
+
+Cases—Continued: Page 
+Government Printing Office, 13 F.L.R.A. 208 
+
+(1983) 21 
+Headquarters, 127th Tactical Fighter Wing, Mich. 
+
+Air. Nat'l Guard, 46 F.L.R.A. 582 (1992) 28 
+HHS v. FLRA, 844 F.2d 1087 (4th Cir. 1988) ........---- 3, 37, 39 
+Indiana Air Nat'l Guard v. FLRA, 712 F.2d 
+
+1187 (7th Cir. 1983) . 43 
+Internal Revenue Serv.: 
+
+17 F.L.R.A. 731 (1985) ....... 3, 4, 10, 24, 25, 27, 34, 35, 36, 44 
+
+29 F.L.R.A. 162 (1987) 4, 38 
+IRS v. FLRA, 717 F.2d 1174 (7th Cir. 1983) “ 20 
+National Treasury Employees Union v. FLRA, 
+
+810 F.2d 295 (D.C. Cir. 1987) 4 
+NLRB v. Bildisco & Bildisco, 465 U.S. 518 
+
+(1984) 16 
+NLRB v. Insurance Agents’ Int'l Union, 
+
+361 U.S. 477 (1960) 12, 22 
+NLRB v. Jacobs Mfg. Co., 196 F.2d 680 (2d Cir. 
+
+1952) 7 13 
+NLRB v. Sands Mfg. Co., 306 U.S. 332 (1989) e-em 12 
+Overseas Educ. Assn v. FLRA, 827F.2d814 _ 
+
+(D.C. Cir. 1987) . 43 
+
+
+Patent & Trademark Office, 45 F.L.R.A. 1090 (1992), 
+pet’n for enforcement denied, 991 F.2d 790 (4th Cir. 
+
+
+1993) : . 38 
+Pauley v. BethEnergy Mines, Inc., 501 U.S. 680 
+(1991) . 38 
+Social Security Admin. v. FLRA, 956 F.2d 1280 
+(4th Cir. 1992) passim 
+Statutes and regulation: 
+Civil Service Reform Act of 1978, Pub. L. No. 
+95-454, Tit. VII, 92 Stat. 111 2 
+Federal Service Labor-Management Relations 
+Statute, 5 U.S.C. 7101 et seq. 2 
+5 U.S.C. 7101(a) 32 
+
+
+5 U.S.C. 7101(b) 10, 22, 32, 33, 37, 48, 47 
+
+
+VI 
+
+
+Statutes and regulation—Continued: Page 
+5 U.S.C. 7102 18 
+5 U.S.C. 7102(2) 18 
+5 U.S.C. 7103(a)(3) 3 
+5 U.S.C. 7103(a)(8) 16 
+5 U.S.C. 7108(a)(12) 16, 17, 41 
+5 U.S.C. 7103(a)(14) 41 
+5 U.S.C. 7103(a)(14)(C) 2,41 
+5 U.S.C. 7105(a)(2G) 2 
+5 U.S.C. 7106 20, 21, 22, 27 
+5 U.S.C. 7106(a) 20, 46 
+5 U.S.C. 7106(a)(1) 33, 43 
+5 U.S.C. 7106(a)(2)(D) 33 
+5 U.S.C. 7106(b) 20, 21, 22 
+5 U.S.C. 7106(b)(1) 21 
+5 U.S.C. 7106(b)(2) 2, 9, 20, 21, 33 
+5 U.S.C. 7106(b)(3) 2, 9, 20, 21, 33 
+5 U.S.C. 7111(f(3) 17 
+5 U.S.C. 7114 20 
+5 U.S.C. 7114(a) 14, 18 
+5 U.S.C. 7114(a)(1) 14 
+5 U.S.C. 7114(a)(4) passim 
+5 U.S.C. 7114(b)(1) 14 
+5 U.S.C. 7114(b)(3) 14 
+5 U.S.C. 7114(b)(5) 14 
+5 U.S.C. 7114(e)(2) 5 
+5 U.S.C. 7116(a)(1) 6 
+5 U.S.C. 7116(a)(5) 2, 6, 21 
+5 U.S.C. 7116(b)(5) 2 
+5 U.S.C. 7116(b)(7) 23 
+5 U.S.C. 7117(a) 40, 41, 42 
+5 U.S.C. 7117(a)(1) 2, 41 
+5 U.S.C. 7117(a)(2) 2, 41 
+5 U.S.C. 7118(a)(6) 2 
+5 U.S.C. 7118(a)(7B) 17 
+5 U.S.C. 7119(b)(1) 3, 23 
+5 U.S.C. 7119(¢)(1) 23 
+5 U.S.C. 711% ¢)(5) 23, 39 
+5 U.S.C. 7119 e)(5)(B iii) 3, 23 
+5 U.S.C. 7119%e)(5\(C) 3 
+
+
+5 U.S.C. 7123(a) 3 
+
+
+Vil 
+
+
+Statutes and regulation—Continued: Page 
+5 U.S.C. 7131 10 
+5 U.S.C. 7131(a) 17, 25 
+5 U.S.C. 7131(d) 25 
+5 U.S.C. 7135(b) 44 
+National Labor Relations Act, 29 U.S.C. 151 
+et seq. 8, 11 
+§ 2(2), 29 U.S.C. 152(2) 3 
+§ 8(a)(5), 29 U.S.C. 158(a)(5) 8, 12, 13 
+§ 8(d), 29 U.S.C. 158(d) 8, 12, 13, 16, 18, 19 
+5 U.S.C. 5331 et seq 24 
+5 U.S.C. 5341 et seq. 24 
+5 U.S.C. 6101 et seq. 24 
+5 U.S.C. 7501 et seq. 24 
+29 U.S.C. 186(¢)(1) 25 
+29 U.S.C. 668(a)(1) 33 
+Exec. Order No. 11,491, 5 U.S.C. 7101 note 34 
+Miscellaneous: 
+124 Cong. Rec. (1978): 
+p. 28,796 34 
+p. 29,182 34 
+p. 38,715 21 
+B. Duke, Note, Regulating the Internal Labor 
+Market, 93 Colum. L. Rev. 932 (1993) 16 
+Federal Labor Relations Council, Report and Rec- 
+ommendation on the Amendment of Executive 
+Order 11491, as amended, reprinted in Labor- 
+Management Relations in the Federal Service 
+(1975) 34-35 
+F. Ferris, Union-Initiated Mid-Term Bargaining: 
+A Catalyst in Reshaping Conflict Patterns, 5 Nego- 
+tiation J. 407 (Oct. 1989) 9, 10, 22, 23, 24, 27, 28, 
+29, 30, 31, 44 
+R. Gorman, Basic Text on Labor Law, Unionization 
+and Collective Bargaining (1976) 13 
+S. Rep. No. 969, 95th Cong., 2d Sess. (1978) 36 
+
+
+Webster’s Third New International Dictionary 
+
+
+(1986) 15, 16 
+
+
+- a ’ 
+tet PI pga 
+yon 
+saath i < 
+ae ey 
+
+
+a ¥ 
+
+
+In the Supreme Court of the GAnited States 
+OCTOBER TERM, 1997 
+
+
+No. 97-1184 
+
+
+NATIONAL FEDERATION OF FEDERAL EMPLOYEES, 
+LOCAL 1309, PETITIONER 
+
+
+v. 
+
+
+UNITED STATES DEPARTMENT OF THE INTERIOR, 
+ET AL. 
+
+
+No. 97-1243 
+FEDERAL LABOR RELATIONS AUTHORITY, PETITIONER 
+Vv. 
+
+
+UNITED STATES DEPARTMENT OF THE INTERIOR, 
+ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (97-1243 (F LRA) Pet. 
+App. la-12a; 97-1184 (NFFE) Pet. App. la-10a) is reported 
+at 132 F.3d 157. The opinion of the Federal Labor Relations 
+Authority (97-1243 (FLRA) Pet. App. 13a-26a; 97-1184 
+(NFFE) Pet. App. 11a-23a) is reported at 52 F.L.R.A. 475. 
+
+
+(1) 
+
+
+2 
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on Oc- 
+tober 31, 1997. The National Federation of Federal Em- 
+ployees (NF FE) filed a petition for a writ of certiorari in No. 
+97-1184 on January 15, 1998, and the Federal Labor 
+Relations Authority (FLRA) filed a petition for a writ of 
+certiorari in No, 97-1243 on January 28, 1998. This Court 
+issued a writ of certiorari and consolidated the cases on June 
+1, 1998. The jurisdiction of this Court is invoked under 28 
+U.S.C. 1254(1). 
+
+
+STATEMENT 
+
+
+1. The Federal Service Labor-Management Relations 
+Statute, 5 U.S.C. 7101 et seq. (Statute), enacted-as Title VII 
+of the Civil Service Reform Act of 1978, Pub. L. No. 95-454, 
+92 Stat. 111, establishes the right of federal employees to 
+organize, select an exclusive representative, and engage in 
+collective bargaining about a circumscribed range of topics. 
+See generally p. 24, infra. The Statute requires the man- 
+agement officials of federal agencies to meet and bargain in 
+good faith with the employees’ chosen union for the purpose 
+“of arriving at a collective bargaining agreement.” 5 U.S.C. 
+7114(a)(4). Management officials must also bargain about 
+certain issues arising from changes that an agency makes to 
+conditions of employment during the term of a collective 
+bargaining agreement. See 5 U.S.C. 7106(b)(2) and (3). The 
+duty to bargain in good faith does not, however, extend to 
+matters “inconsistent with any Federal law.” EF.g., 5 U.S.C. 
+7117(a)(1) and (2); see also 5 U.S.C. 7103(a)(14)(C) (excluding 
+matters “specifically provided for by Federal statute”). 
+
+A refusal to negotiate in good faith as required by the 
+Statute is an unfair labor practice. 5 U.S.C. 7116(a)(5) and 
+(b)(5). Under Sections 7105(a)(2)(G) and 7118(a)(6), the Fed- 
+eral Labor Relations Authority (FLRA) has jurisdiction to 
+consider charges of unfair labor practices. Its final orders in 
+such proceedings are subject to judicial review “in the 
+
+
+3 
+
+
+United States court of appeals in the circuit in which the 
+[aggrieved] person resides or transacts business or in the 
+United States Court of Appeals for the District of 
+Columbia.” 5 U.S.C. 7123(a). i 
+
+Unlike employees in the private sector, federal employees 
+are forbidden to strike. Nonetheless, if good faith negotia- 
+tions between a federal agency and a union reach impasse, 
+federal employees may take advantage of a statutory rem- 
+edy that is not available to their private-sector counterparts: 
+they may seek resolution of the parties’ substantive dis- 
+agreements from the Federal Service Impasses Panel. See 5 
+U.S.C. 7119(b)(1); see also Social Security Admin. v. FLRA, 
+956 F.2d 1280, 1287 (4th Cir. 1992) (SSA). The Impasses 
+Panel may “take whatever action is necessary and not incon- 
+sistent with [the Statute] to resolve the impasse,” 5 U.S.C. 
+7119(c)(5)(B)(iii), such as imposing a union’s proposals, in the 
+course of binding arbitration, on the agency. 5 U.S.C. 
+7119%c)(5\(C). “A duty to bargain over a proposal, therefore, 
+does more than simply require an agency to negotiate; it sub- 
+jects the agency to the possibility that the proposal will be- 
+come binding.” SSA, 956 F.2d at 1282 (quoting HHS v. 
+FLRA, 844 F.2d 1087, 1089 (4th Cir. 1988) (en banc)). 
+
+2. a. In 1985, the FLRA first considered whether the 
+Statute imposes on federal agencies a statutory duty to 
+bargain with public-sector unions,’ at the unions’ initiative, 
+during the course of an existing collective bargaining agree- 
+ment. Internal Revenue Serv., 17 F.L.R.A. 731, 736-737 
+(1985) 7RS I. The FLRA held that the statutory duty to 
+bargain does not require agencies to engage in such “mid- 
+
+
+| We use the term “public sector” as a shorthand for the jurisdictiona! 
+scope of the Statute, which addresses the relations between federal agen- 
+cies and the exclusive representatives of federal employees. As used here, 
+therefore, the term does not include labor-relations issues involving state 
+and local governments. See generally 5 U.S.C. 7103(a)(3); 29 U.S.C. 
+152(2). 
+
+
+4 
+
+
+term” bargaining, because, among other considerations, the 
+availability of such bargaining would “encourage dispersal of 
+the collective bargaining process” and create incentives for 
+“continuous bargaining on an issue-by-issue basis.” bid. 
+“Such an approach,” the FLRA concluded, “would inject un- 
+certainty into the parties’ relationship, enhance the prospect 
+for protracted conflict, and could lead to the continuous ex- 
+penditure of resources for both management and exclusive 
+representatives.” Jd. at 737. 
+
+On review, the D.C. Circuit invalidated the FLRA’s posi- 
+tion as contrary to the Statute, holding that an agency-em- 
+ployer’s duty to bargain does extend to union proposals 
+made during the term of a collective bargaining agreement. 
+National Treasury Employees Union v. FLRA, 810 F.2d 
+295 (D.C. Cir. 1987) (NTEU). In reaching that conclusion, 
+the court relied on private-sector labor law precedent and on 
+a perceived statutory purpose of strengthening the federal 
+unions and encouraging collective bargaining. Jd. at 300-301. 
+On remand, the FLRA acquiesced in the D.C. Circuit’s deci- 
+sion, see SSA, 956 F.2d at 1283, and held that the statutory 
+duty to bargain in good faith “requires an agency to bargain 
+during the term of a collective bargaining agreement on ne- 
+gotiable union proposals concerning matters which are not 
+contained in the agreement unless the union has waived its 
+right to bargain about the subject matter involved.” J/nter- 
+nal Revenue Serv., 29 F.L.R.A. 162, 166 (1987) URS 11). 
+
+b. Several years later, in SSA, supra, the Fourth Circuit 
+reviewed a federal agency’s challenge to the FLRA’s appli- 
+cation of its new policy concerning union-initiated midterm 
+bargaining. The Fourth Circuit found that policy inconsis- 
+tent with the text, structure, and purposes of the Statute. 
+The court first explained that the language of the Statute 
+“strongly suggests that bargaining over midterm union pro- 
+posals was not mandated by Congress,” because “Congress 
+addressed the duty to bargain in language that seems to con- 
+template that such a duty arises as to only one, basic agree- 
+
+
+Oe 
+
+
+5 
+
+
+ment,” 956 F.2d at 1284, a position supported by the legisla- 
+tive history of the Statute and by prior practice under a pre- 
+viously applicable Executive Order. Id. at 1284-1286. 
+
+The Fourth Circuit also reasoned that reliance on private- 
+sector labor practice would be “inappropriate” here. Id. at 
+1287. It observed that public-sector bargaining rights under 
+the Statute are more limited than those in the private sector, 
+and that important legal distinctions between the two sec- 
+tors—including the general availability of binding arbitra- 
+tion in the public sector—bar application of private-sector 
+principles to the question of public-sector midterm bargain- 
+ing. Ibid. Finally, the court determined that union-initiated 
+midterm bargaining would threaten the Statute’s underlying 
+purposes by causing instability in labor-management rela- 
+tions and by discouraging comprehensive resolution of issues 
+in the basic collective bargaining agreements themselves. 
+Id. at 1288. 
+
+The Fourth Circuit revisited this area in Department of 
+Energy v. FLRA, 106 F.3d 1158 (1997) (DOE). In that case, 
+the union had proposed, in the course of bargaining over a 
+collective bargaining agreement, the inclusion of a clause 
+that would have permitted it to make further substantive 
+proposals during the course of the agreement and would 
+have required the federal agency to bargain over such pro- 
+posals. See id. at 1161. The parties failed to reach agree- 
+ment on the midterm bargaining clause, and, in binding arbi- 
+tration, the Impasses Panel imposed the clause on the 
+agency, principally on the theory that the clause simply re- 
+stated the union’s purported statutory right to insist on mid- 
+term bargaining. See ibid. After the relevant agency head 
+exercised his authority to disapprove the provision as con- 
+trary to law (see 5 U.S.C. 7114(c)(2)), the union commenced 
+an unfair labor practice proceeding, and the FLRA held that 
+the agency had committed an unfair practice. Department of 
+Energy, 51 F.L.R.A. 124 (1995). In so holding, the FLRA 
+distinguished SSA as addressing only whether the Statute 
+
+
+6 
+
+
+itself mandates bargaining over union-initiated midterm 
+proposals, not whether a contract provision requiring such 
+bargaining is subject to compulsory negotiation and subse- 
+quent imposition by the Impasses Panel. Jd. at 127-128. 
+
+The Fourth Circuit granted the agency’s petition for re- 
+view and denied enforcement of the FLRA’s decision. DOE, 
+supra. The court concluded that its SSA decision “compels 
+the conclusion that a clause requiring an agency to engage in 
+union-initiated midterm bargaining is inconsistent with the 
+[Statute] and, consequently, is not negotiable.” 106 F.3d at 
+1163. Otherwise, the court reasoned, a union could 
+“circumvent SSA by the mere expedient of negotiating to 
+impasse on a midterm bargaining provision, essentially 
+requiring an agency to bargain midterm over union 
+proposals despite our determination that such a requirement 
+is contrary to the [Statute].” Jd. at 1164. The court 
+concluded that the agency was not required to negotiate 
+over the clause. 
+
+3. a. This case, like DOE, involves a public-sector union’s 
+efforts to include a midterm bargaining clause in its collec- 
+tive bargaining agreement. During negotiations with the 
+United States Geological Survey (a subagency of the United 
+States Department of the Interior), Local 1309 of the Na- 
+tional Federation of Federal Employees (NFFE) submitted 
+the following proposal regarding “Union-initiated Bargain- 
+ing”: 
+
+The Union may request and the Employer will be 
+obliged to negotiate on any negotiable matters not cov- 
+ered by the provisions of this agreement. 
+
+
+FLRA Pet. App. 14a. The Survey declared this proposal 
+nonnegotiable based on the Fourth Circuit’s decision in SSA. 
+Id. at 15a. NFFE filed a charge with the FLRA alleging, 
+inter alia, that the Survey had committed an unfair labor 
+
+
+practice by refusing to negotiate over the proposal. Jd. at 
+14a; see 5 U.S.C. 7116(a)(1) and (5). 
+
+
+7 
+
+
+The FLRA agreed that the Survey had committed an un. 
+fair labor practice, holding that the proposal was “substan- 
+tially identical” to a midterm bargaining proposal that the 
+FLRA had previously found negotiadle, and that the pro- 
+posal simply “reiterated a right the Union had under the 
+Statute.” FLRA Pet. App. 19a, 2la. The FLRA acknowl- 
+edged the Fourth Circuit’s holding in SSA, but restated its 
+alternative position that SSA did not foreclose a union’s 
+right to insist on the inclusion of a midterm bargaining 
+clause in an agreement with the agency employer. /d. at 20a. 
+The FLRA thus ordered the agency to bargain over the pro- 
+posal. Jd. at 24a-25a. 
+
+b. The Fourth Circuit granted the Survey’s petition for 
+review of the FLRA’s decision and denied the FLRA’s 
+cross-application for enforcement. FLRA Pet. App. 2a-3a. 
+The court first noted that in DOE it had held that “[nJot only 
+is union-initiated midterm bargainimg not mandated by the 
+[Statute], but [it is] also . . . contrary to the [Statute].” Jd. 
+at 7a (quoting DOE, 106 F.3d at 1163). The court then con- 
+cluded that its prior precedents in SSA and DOE controlled 
+this case. Although DOE involved a midterm bargaining 
+requirement actually imposed by the Impasses Panel, the 
+court determined that this distinction was “not critical” be- 
+cause “(t]he same practical consequences flowing from the 
+impasse procedures that made the distinction between a 
+statutory requirement and general duty to bargain of no 
+consequence in [DOE] obtain here.” Jd. at 9a. Holding that 
+union-initiated midterm bargaining proposals are negotiable, 
+the court reasoned, would enable a union to cireumvent SSA 
+by negotiating such a proposal to impasse, at which point the 
+Impasses Panel (which adheres to the FLRA’s views on mid- 
+term-bargaining obligations) would normally impose the 
+proposal on the parties in binding arbitration. /bid. The 
+court rejected petitioners’ efforts to distinguish SSA and 
+DOE on the ground that “a duty to bargain is different for 
+
+
+8 
+
+
+the purpose at hand from a duty to bargain about whether to 
+bargain.” Jd. at 9a-10a." 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. a. In defining the scope of a federal agency employer's 
+duty to bargain, Congress used language that is conspicu- 
+ously—and dispositively—different from the language in the 
+corresponding portions of the National Labor Relations Act 
+(NLRA), the legislation upon which much of the Statute is 
+otherwise based. Whereas the NLRA broadly directs 
+private-sector employers “to bargain collectively” with 
+unions and expressly extends that obligation to midterm 
+bargaining (29 U.S.C. 158(a)(5) and (d)), the Federal Service 
+Labor-Management Relations Statute obligates federal 
+agency employers only to “negotiate * * * for the purposes 
+of arriving at a collective bargaining agreement.” 5 U.S.C. 
+7114(a)(4) (emphasis added). That language specifically ex- 
+cludes what petitioners seek here: a general duty to bargain 
+not only for the purpose of “arriving at” a “collective bar- 
+gaining agreement,” but for the additional purpose of sup- 
+plementing a completed agreement during its term. 
+Petitioners unpersuasively seek to avoid that conclusion by 
+redefining the term “collective bargaining agreement” to 
+mean any product of bargaining, no matter how trivial in 
+scope. But Congress used that term in its ordinary sense, to 
+denote a comprehensive labor contract, not in the highly 
+idiosyncratic sense that petitioners propose here. 
+
+The striking contrast between Section 7114(a)(4) and the 
+corresponding language of the NLRA manifests a basic con- 
+gressional policy choice to exclude midterm negotiations 
+from the scope of an agency employer’s general bargaining 
+obligations. That policy choice is also evident in Congress’s 
+
+
+2 We have been informed that the parties have recently renegotiated 
+their collective bargaining agreement. As before, the parties disagreed on 
+the negotiability of the same midterm bargaining provision at issue in the 
+
+
+underlying proceedings. 
+
+
+4 
+| 
+
+
+9 
+
+
+imposition of a more specific duty to bargain when agency 
+employers exercise their prerogative to make midterm 
+changes affecting the conditions of employment. See 
+5 U.S.C. 7106(b)(2) and (3). “When Congress did require 
+midterm bargaining, it thus spelled out the context in which 
+such bargaining was to take place. The inclusion of a specific 
+duty of midterm effects bargaining, therefore, suggests the 
+inadvisability of reading a more general duty into the 
+statute.” Social Security Admin. v. FLRA, 956 F.2d 1280, 
+1284 (4th Cir. 1992) (SSA). Similarly, both the legislative 
+history of the Statute and pre-enactment administrative 
+practice confirm that Congress intended to confine an 
+agency employer’s midterm bargaining obligations to cir- 
+cumstances involving midterm changes to the conditions of 
+employment. 
+
+b. Congress had important reasons for excluding from 
+the public sector the general midterm bargaining rights it 
+had created in the private sector. First, unlike private- 
+sector unions, which must rely on the use or threat of eco- 
+nomic weapons to resolve disputes with management, public- 
+sector unions may subject federal agency employers to 
+binding, substantive arbitration upon impasse, an extraordi- 
+nary remedy with no counterpart in the private sector. Rec- 
+ognition of general midterm bargaining rights has thus had, 
+in the words of one leading union negotiator, “far more im- 
+pact in the federal sector than the private sector,” because 
+the “bargaining power” of a public-sector union “does not 
+depend on building support for a mid-contract strike” but is 
+instead “merely a function of a legal process the union can 
+invoke without cost.” F. Ferris, Union-Initiated Mid-Term 
+Bargaining: A Catalyst in Reshaping Conflict Patterns, 5 
+Negotiation J. 407, 409 (Oct. 1989) (Catalyst). 
+
+That is one reason why the FLRA was originally correct 
+when, in /RS J, it found that the midterm bargaining rights 
+sought here “would encourage dispersal of the collective 
+bargaining process,” generate “continuous bargaining on an 
+
+
+10 
+
+
+issue-by-issue basis,” and threaten “the continuous expendi- 
+ture of resources.” Internal Revenue Serv., 17 F.L.R.A. 731, 
+736-737 (1985). Other unique characteristics of public-sector 
+bargaining support a similar conclusion. Those include the 
+availability of taxpayer funding for the workday time that 
+federal employees spend in collective bargaining, see 
+5 U.S.C. 7131, as well as the peculiar focus of public-sector 
+bargaining on “smaller issues” with “narrow[] constituen- 
+cies” (Catalyst, supra, at 409) rather than on the core wage 
+and job-security issues that unionized private-sector employ- 
+ees generally wish to resolve in comprehensive term con- 
+tracts. Finally, the midterm bargaining obligations at issue 
+here threaten not just to impose substantial burdens on 
+government agencies, but also to distort the substantive out- 
+come of particular bargaining disputes, because the avail- 
+ability of future piecemeal bargaining would relieve unions 
+of the need to make trade-offs among a range of issues 
+during negotiations for a single term agreement. 
+
+ec. In sum, Congress directly addressed the scope of an 
+employer’s bargaining duty and deliberately excluded the 
+general midterm bargaining obligation proposed here. For 
+that reason alone, the FLRA’s interpretation is entitled to 
+no deference. See Chevron U.S.A. Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837, 842-843 (1984). In any 
+event, even if Congress had been ambiguous on this point, 
+deference would still be inappropriate for two reasons. 
+First, the FLRA’s position on midterm bargaining violates 
+the Statute’s own express rule of construction, which calls 
+for each of the Statute’s provisions to be “interpreted in a 
+manner consistent with the requirement of an effective and 
+efficient Government.” 5 U.S.C. 7101(b). Second, the 
+FLRA’s abrupt change in position on the question presented 
+here came only in response to an adverse ruling of the D.C. 
+Circuit. This Court should hesitate before applying the rule 
+of Chevron deference to a statutory interpretation that 
+
+
+11 
+
+
+appears to be attributable more to a lower court decision 
+than to an agency’s own policy choice. 
+
+2. Because Congress has made a judgment to reject 
+general midterm bargaining obligations in the public sector, 
+the FLRA may not thwart that judgment by forcing an 
+agency employer to bargain over (and therefore face the 
+prospect of binding arbitration on) the open-ended midterm 
+bargaining clause proposed here, which would simply repli- 
+cate the rejected regime in miniature. Indeed, an agency 
+employer would have no discretion to bind itself to such mid- 
+term bargaining, because no agency may “waive” Congress's 
+considered judgment—based on important fiscal and institu- 
+tional concerns—about the proper structure of collective 
+bargaining in the federal workplace. But even if an agency 
+employer did have such discretion, the FLRA could not itself 
+undermine that congressional judgment on a systematic ba- 
+sis by using its impasse procedures to impose open-ended 
+midterm bargaining obligations on nonconsenting agencies 
+throughout the federal government. 
+
+
+ARGUMENT 
+
+
+I. CONGRESS DELIBERATELY EXCLUDED ANY 
+GENERAL MIDTERM BARGAINING DUTY FROM 
+THE SCOPE OF AN AGENCY’S BARGAINING 
+OBLIGATIONS 
+
+
+A. The FLRA’s Position Is Inconsistent With The Lan- 
+guage And Structure Of The Statute 
+
+
+In many respects, Congress modeled the Statute on the 
+legislation governing private-sector labor law, the National 
+Labor Relations Act (NLRA), 29 U.S.C. 151 et seg. See gen- 
+erally Bureau of Alcohol, Tobacco & Firearms v. FLRA, 464 
+U.S. 89, 92-93 (1983) (BATF). There are important 
+differences between the two statutes, however, and those 
+differences reflect the ways in which public-sector bargain- 
+ing, with its emphasis on mandatory binding arbitration 
+upon impasse, is fundamentally unlike private-sector bar- 
+
+
+12 
+
+
+gaining, in which disputes are resolved instead by “[{t}he 
+presence of economic weapons in reserve, and their actual 
+exercise on occasion by the parties.” NLRB v. Insurance 
+Agents’ Int'l Union, 361 U.S. 477, 489 (1960). In particular, 
+whereas the NLRA expressly provides for broad midterm 
+bargaining rights in the private sector, both the text and the 
+structure of the Statute manifest a deliberate congressional 
+choice to exclude such rights in the public sector. 
+
+1. Section 8(a)(5) of the NLRA makes it an unfair labor 
+practice for a private-sector employer “to refuse to bargain 
+collectively with the representatives of his employees,” 29 
+U.S.C. 158(a)(5) (emphasis added), which means “to meet at 
+reasonable times and confer in good faith with respect to 
+wages, hours, and other terms and conditions of employ- 
+ment, or the negotiation of an agreement, or any question 
+arising thereunder, and the execution of a written contract 
+incorporating any agreement reached,” 29 U.S.C. 158(d) 
+(emphasis added). Thus, private-sector employers have a 
+comprehensive duty to “bargain collectively” whether or not 
+such bargaining is part of “the negotiation of an agreement” 
+leading to “a written contract.” Cf. NLRB v. Sands Mfg. 
+Co., 306 U.S. 332, 342 (1939). That duty necessarily includes 
+bargaining “where there is in effect a collective-bargaining 
+contract” (29 U.S.C. 158(d)): that is, midterm bargaining. 
+
+Congress recognized that, having created such a duty, it 
+needed to qualify the duty in an important respect to protect 
+the integrity of the underlying collective bargaining agree- 
+ment itself. In the Taft-Hartley amendments of 1947, Con- 
+gress provided that the NLRA “shall not be construed as 
+requiring either party to discuss or agree to any modification 
+of the terms and conditions contained in a contract for a fixed 
+period, if such modification is to become effective before such 
+terms and conditions can be reopened under the provisions 
+of the contract.” 29 U.S.C. 158(d). That restriction means 
+that, “[wJhen a union wishes to initiate discussions concern- 
+ing mandatory subjects of bargaining during the term of a 
+
+
+13 
+
+
+labor agreement, the employer’s duty to bargain depends 
+upon whether the union’s proposals relate to terms and con- 
+ditions which are ‘contained in’ the contract. If they are so 
+contained, the employer need not bargain; if they are not so 
+contained, the employer must bargain.” R. Gorman, Basic 
+Text on Labor Law, Unionization and Collective Bargaining 
+458 (1976); see NLRB v. Jacobs Mfg. Co., 196 F.2d 680, 683 
+(2d Cir. 1952). 
+
+In the present Statute, by contrast, no such restriction 
+appears, because no such restriction is necessary. See pp. 
+18-19, infra. By its plain choice of language, Congress spoke 
+directly to the issue presented here, and it excluded midterm 
+bargaining from the scope of a federal agency’s bargaining 
+obligations, except in one limited circumstance discussed 
+below. 
+
+As the FLRA correctly observes (Br. 18), an agency em- 
+ployer’s “obligation to bargain [is] set out in section 
+7114(a)(4).” See also NFFE Br. 14. The language in that 
+provision is starkly—and, for purposes of this case, disposi- 
+tively—different from the corresponding language in the 
+NLRA. Whereas the NLRA imposes on private-sector em- 
+ployers a sweeping duty “to bargain collectively” and con- 
+firms that the duty includes bargaining during the term of 
+the labor contract over matters not covered by the contract 
+(see 29 U.S.C. 158(a)(5) and (d)), Section 7114(a)(4) instructs 
+federal agency employers only to “meet and negotiate in 
+good faith [with the union] for the purposes of arriving at a 
+collective bargaining agreement.” 5 U.S.C. 7114(a)(4) (em- 
+phasis added). The comparative narrowness of that lan- 
+guage is significant. By its terms, Section 7114(a)(4) compels 
+the parties to negotiate for purposes of “arriving at” a labor 
+contract, and not for purposes of supplementing that con- 
+tract during its term. As discussed below (at pp. 31-32), that 
+rule is entirely equitable. Except where an employer 
+changes the conditions of employment (in which specific 
+circumstance the Statute elsewhere entitles the union to 
+
+
+14 
+
+
+bargain), neither the union nor the employer may force the 
+other, against its will, to engage in midterm bargaining. 
+
+2. The FLRA contends (Br. 21-22) that this reading of 
+Section 7114(a)(4) rests on undue inferences about Con- 
+gress’s use of the indefinite article. According to the FLRA, 
+the phrase “arriving at a collective bargaining agreement” 
+should be construed to be “generic and indefinite with re- 
+spect to number” (FLRA Br. 22), and at all events not to 
+mean “arriving at one collective bargaining agreement.” 
+
+Congress’s use of a singular noun is indeed an obstacle to 
+the FLRA’s position, as the Fourth Circuit recognized,’ but 
+it is not the primary obstacle. Section 7114(a)(4) forecloses 
+the FLRA’s position not only because the bargaining duty it 
+
+
+3 See SSA, 956 F.2d at 1284 (“[t}he statutory assumption seems to 
+have been that of one comprehensive agreement that serves to ensure 
+workplace stability during its designated term”); accord 5 U.S.C. 
+7114(b)(1) (duty to negotiate under Section 7114(a) “include[s] the obliga- 
+tion * * * to approach the negotiations with a sincere resolve to reach a 
+collective bargaining agreement”); 5 U.S.C. 7114(b)(5) (requiring parties 
+“to take such steps as are necessary to implement such agreement”). Peti- 
+tioner NFFE seeks support for its contrary position (Br. 15-16 & n.4) in 
+the use of a plural noun in Section 7114(a)(1), which does not address the 
+scope of an employer’s bargaining obligations but simply authorizes a “la- 
+bor organization which has been accorded exclusive recognition” to “act 
+for, and negotiate collective bargaining agreements covering, all employ- 
+ees in the unit.” 5 U.S.C. 7114(a)(1). As the Fourth Circuit recognized, 
+however, the use of the plural in that provision simply contemplates “suc- 
+cessive, not overlapping, labor contracts” that a union may negotiate over 
+time. SSA, 956 F.2d at 1284 n.1. Indeed, if anything, the use of the plural 
+in Section 7114(a)(1) is further evidence that Congress acted deliberately 
+when it made contrasting use of the singular in Section 7114(a)(4), which 
+does address the scope of an employer’s duty to bargain. Finally, the 
+separate duty “to meet at reasonable times and convenient places as fre- 
+quently as may be necessary, and to avoid unnecessary delays” (5 U.S.C. 
+7114(b)(3)) simply obligates the parties to act reasonably and expedi- 
+tiously in the circumstances in which the Statute independently imposes a 
+bargaining obligation. Despite NFFE’s contrary suggestion (Br. 15), Sec- 
+tion 7114(b)(3) does not itself identify those circumstances. 
+
+
+15 
+
+
+creates is limited to “::gotiat[ing] * * * for the purposes of 
+arriving at a collectie bargaining agreement,” but also, 
+more fundamentally. oecause that duty is limited to “nego- 
+tiat{ing] * * * for purposes of arriving at a collective bar- 
+gaining agreement.” To “arrive” is to “reach a destination” 
+or to “gain or achieve an end.” Webster's Third New Interna- 
+tional Dictionary 121 (1986). What Section 7114(a)(4) re- 
+quires is that agency employers bargain with public-sector 
+unions to reach the typical destination in labor-management 
+relations: a “collective bargaining agreement,” which com- 
+prehensively defines the rights and obligations of the parties 
+for a period of years (typically three, as in the private sec- 
+tor). In marked contrast to its counterpart in the NLRA, 
+Section 7114(a)(4) carefully excludes any ongo‘ng obligation, 
+after such an agreement is “arrivied] at,” to bargain for the 
+additional purpose of supplementing the agreement during 
+its term whenever the union so demands. 
+
+Petitioner NFFE would nonetheless read a midterm bar- 
+gaining right into the language of Section 7114(a)(4) by con- 
+struing the term “collective bargaining agreement” to in- 
+clude not just (or even primarily) a basic labor contract, but 
+also any product of any bargaining, no matter how trivial in 
+scope. See NFFE Br. 14-17. Under that interpretation, the 
+relationship between an agency and a union could be charac- 
+terized not by a comprehensive agreement applicable to a 
+range of issues and renegotiated from term to term, but by a 
+proliferation of narrow and simultaneously applicable micro- 
+agreements, each denominated a “collective bargaining 
+agreement,” and each negotiated in isolation, without neces- 
+sary reference to any underlying primary agreement. In- 
+deed, under the logic of that approach, there need be no pri- 
+mary agreement of any kind, and therefore no central “term” 
+that could even give meaning to the locution “midterm bar- 
+gaining.” 
+
+Congress did not seek to diminish the role of comprehen- 
+sive labor contracts in this context, and it therefore did not 
+
+
+16 
+
+
+adopt NFFE’s idiosyncratic definition of “collective bar- 
+gaining agreement.” That term denotes a basic labor con- 
+tract governing the various rights and responsibilities of the 
+parties for a period of years. As in the private sector, the 
+product of any subsequent issue-specific negotiation during 
+the contractual term would supplement the underlying col- 
+lective bargaining agreement, but would not itself constitute 
+a new “collective bargaining agreement” in its own right.’ 
+NFFE argues (Br. 14-15), however, that Congress un- 
+hinged that term from standard usage when, in Section 
+7103(a)(8), it defined “collective bargaining agreement” to 
+mean “an agreement entered into as a resu of collective 
+bargaining pursuant to the provisions of this chapter.” 5 
+U.S.C. 7103(a\(8). That argument, however, simply assumes 
+an incorrect answer to a question that Section 7103(a)(8) 
+does not purport to resolve: what kind of “agreement * * * 
+the provisior® of this chapter” compel the parties to reach.’ 
+
+
+4 See generally 29 U.S.C. 158(d) (provision of NLRA addressing 
+midterm “modification” of underlying agreement); NLRB v. Bildisco & 
+Bildisco, 465 U.S. 513, 519 (1984) (noting that Section 8(d) of NLRA 
+“establishe{s] detailed guidelines for midterm modification of collective 
+bargaining agreements”); B. Duke, Note, Regulating the Internal Labor 
+Market, 98 Colum. L. Rev. 932, 933 n.8 (1993) (“‘Endterm’ bargaining 
+takes place in the negotiations over an initial agreement and over renewal 
+of an agreement on its expiration. ‘Midterm’ bargaining refers to labor- 
+management negotiations that occur during the life of an existing 
+collective-bargaining agreement.”); Webster's Third New International 
+Dictionary 445 (1986) (defining “collective agreement” as “an agreement 
+between an employer and a union usu. reached through collective bar- 
+gaining and establishing wage rates, hours of labor, and working con- 
+ditions”) (emphasis added). 
+
+5 The Statute defines “collective bargaining” itself more narrowly 
+than does the NLRA (see p. 12, supra), limiting the term to whatever 
+“mutual obligation” the Statute elsewhere imposes to “bargain in a good- 
+faith effort to reach agreement with respect to the conditions of employ- 
+ment.” 5 U.S.C. 7103(a\(12). That language anticipates that the parties 
+will meet to negotiate “the conditions »f employment” (ibid.) as part of a 
+
+
+—— 
+
+
+17 
+
+
+Moreover, NFFE’s understanding of the term “collective 
+bargaining agreement” conflicts with the use of that term in 
+related statutory provisions, which presuppose that, after 
+such an agreement is reached, any further negotiation would 
+“amend” the agreement but would not render it simply one 
+“eollective bargaining agreement” among many. See, e.g., 5 
+U.S.C. 7118(a)(7)(B) (upon finding of unfair labor practice, 
+FLRA snall compel parties to “renegotiate” collective bar- 
+gaining agreement and require “that the agreement, as 
+amended, be given retroactive effect”); 5 U.S.C. 7111(f)(3) 
+(forbidding recognition of one union if “there is then in effect 
+a lawful written collective bargaining agreement” between 
+¢ ency and another union, unless “the collective bargaining 
+agreement has been in effect for more than 3 years”); cf. note 
+10, infra (discussing 5 U.S.C. 7131(a)). Indeed, the FLRA 
+has itself determined that, “for an agreement to constitute a 
+‘collective bargaining agreement’ within the meaning of sec- 
+tion 7111(f(3) that can bar the filing of a petition for exclu- 
+sive recognition, an agreement must contain substantial 
+terms and conditions of employment sufficient to stabilize 
+the bargaining relationship between the parties to the 
+agreement.” Department of Health & Human Servs., Social 
+Security Admin., 44 F.L.R.A. 230, 239 (1992). That defini- 
+tion contradicts the one that NFFE proposes here, which 
+would embrace every product of bargaining, no matter how 
+narrow in scope. 
+
+In short, Congress used the term “collective bargaining 
+agreement” in Section 7114(a)(4) exactly as that term has 
+been used in labor law throughout this century: to denote a 
+
+
+package, not to negotiate a small subset of conditions in each of a poten- 
+tially unlimited number of micro-agreements. In any event, although peti- 
+tioners sometimes suggest otherwise (e.g, FLRA Br. 19), Section 
+7103(a)(12)’s general definition of “collective bargaining” cannot be 
+construed to expand Section 7114(a)(4)’s limited duty to “negotiate ees 
+for the purposes of arriving at a collective bargaining agreement.” 
+
+
+18 
+
+
+comprehensive term contract between an employer and a 
+union. Because Section 7114(a)(4) obligates an agency em- 
+ployer only to “negotiate * * * for the purposes of arriving 
+at a collective bargaining agreement” (emphasis added), it 
+excludes any further obligation to negotiate for purposes of 
+supplementing such an agreement during a bargaining term 
+at a union’s initiative. If Congress had intended to impose 
+that additional obligation, it would have written Section 
+7114(a)(4) to resemble the corresponding provisions of the 
+NLRA,; its refusal to do so marks a deliberate policy choice, 
+as we discuss below. See pp. 22-33, infra. 
+
+Finally, the same conclusion follows from Congress's con- 
+spicuous omission of any explicit restriction on public-sector 
+midterm bargaining similar to the restriction (for matters 
+covered by an existing contract) that, in the 1947 amend- 
+ments, Congress found necessary to add in Section 8(d) of 
+the NLRA, 29 U.S.C. 158(d). See pp. 12-13, supra. As the 
+Fourth Circuit observed, it is “inconceivable that Congress 
+would have omitted the § 8(d) limitation on midterm bar- 
+gaining had Congress in fact intended [the Statute] to re- 
+quire such bargaining in the first place.” SSA, 956 F.2d at 
+1287. 
+
+
+6 Amici AFL-CIO et al. (Br. 10, 16), but not petitioners, would al- 
+ternatively read a midterm bargaining right into 5 U.S.C. 7102(2). That 
+provision is completely inapposite. Section 7102 is an introductory pro- 
+vision that generally authorizes “[eJach employee” of the federal gov- 
+ernment “to act for a labor organization in the capacity of a representa- 
+tive” and “to engage in collective bargaining with respect to conditions of 
+employment through representatives chosen by employees under this 
+chapter.” The question here, however, is not whether federal employees 
+are authorized to ngage in collective bargaining as a general matter, but 
+when and in what ‘ «m they may exercise that right. As both the FLRA 
+and petitioner NF¥.?.) recognize, the relevant answer to that question is 
+found in Sectior. (114(a), not in Section 7102. Indeed, the FLRA and 
+NFFE do not even vite the latter provision, much less rely upon it. 
+
+
+—cneitianin 
+
+
+19 
+
+
+In one passage, the FLRA tries to explain that omission 
+by “speculat[ing] that the absence of language in the Statute 
+comparable to the section 8(d) exception signaled Congress’s 
+intent to permit unrestricted midterm bargaining.” FLRA 
+Br. 32. Two pages later, however, the FLRA rejects its own 
+speculation, acknowledging, as does petitioner NFFE, that 
+allowing such “unrestricted” midterm bargaining would be 
+“arguably at odds with the stated purposes of the Statute.” 
+Id. at 34; accord NFFE Br. 23 (contending that a midterm 
+bargaining exception for matters covered by an existing con- 
+tract is so “fundamental” that “Congress did not spell it out 
+in the [Statute],” even though Congress did perceive a need 
+to spell it out in the NLRA); see also SSA, 956 F.2d at 1287. 
+Because Congress deemed it essential to include an explicit 
+Section 8(d) exception in the NLRA, the natural explanation 
+for the omission of any corresponding exception in the 
+Statute is that Congress decided against creating any 
+general right to public-sector midterm bargaining in the first 
+place.’ 
+
+3. The specificity with which Section 7114(a)(4) confines 
+the bargaining duty to negotiations “for the purposes of ar- 
+riving at a collective bargaining agreement,” and the striking 
+contrast between that provision and the corresponding lan- 
+guage of the NLRA, provide the key to deciding this case. 
+Congress was not “silent” (FLRA Br. 19) on the subject of 
+
+
+7 The FLRA defends its “authority” (Br. 33-34) to carve an exception 
+out of the unrestricted midterm bargaining obligation that its position 
+would otherwise create. We agree that the FLRA would have (and would 
+need to exercise) such authority if Congress had created an unrestricted 
+midterm bargaining right. See generally Department of the Navy v. 
+FLRA, 962 F.2d 48 (D.C. Cir. 1992). The question here, however, is not 
+whether the FLRA would have such authority if its position in this case 
+were valid. The question is instead what the striking discrepancy 
+between the Statute and the NLRA reveals about Congress's intent on an 
+antecedent issue: whether the Statute excludes any general duty of 
+
+
+midterm bargaining. 
+
+
+20 
+
+
+midterm bargaining. Instead, it spoke directly to that issue, 
+and it deliberately excluded midterm bargaining from the 
+structure of public-sector labor-management relations, ex 
+cept where an agency makes midterm changes to the condi- 
+tions of employment. That exception itself supports the 
+same conclusion. 
+
+The only provision in the Statute that expressly author- 
+izes midterm bargaining is Section 7106, entitled “Manage- 
+ment rights.” In that section, Congress reserved to agency 
+management the authority to take certain unilateral actions 
+that could alter the conditions of employment during the 
+term of a collective bargaining agreement. 5 U.S.C. 7106(a). 
+It provided for mandatory negotiations, which would neces- 
+sarily occur midterm on many occasions, concerning “proce- 
+dures which management officials of the agency will observe 
+in exercising any authority” under Section 7106 as well as 
+“appropriate arrangements for employees adversely affected 
+by the exercise of any [such] authority.” 5 U.S.C. 7106(b)(2) 
+and (3). As the Fourth Circuit observed, “[w]hen Congress 
+did require midterm bargaining, it thus spelled out the con- 
+text in which such bargaining was to take place. The inclu- 
+sion of a specific duty of midterm effects bargaining, there- 
+fore, suggests the inadvisability of reading a more general 
+duty into the statute.” SSA, 956 F.2d at 1284. 
+
+In response, the FLRA argues principally (Br. 22-23) that 
+Section 7106(b) is not’itself a source of any bargaining obli- 
+gation, and that amy such obligation must therefore derive 
+from some other provision, which the FLRA identifies as 
+Section 7114. That is incorrect. The courts have long identi- 
+fied Section 7106(b) as the source of an agency’s duty to bar- 
+gain when it makes unilateral changes to the conditions of 
+employment, see, e.g., /RS v. FLRA, 717 F.2d 1174, 1176 (7th 
+Cir. 1983) (“Sections 7106(b)(2) and (3) impose an obligation 
+to bargain over the impact and implementation of [manage- 
+ment] decisions”); AFGE, Local 2782 v. FLRA, 702 F.2d 
+1183, 1186-1188 (D.C. Cir. 1983) (Scalia, J.), and the FLRA’s 
+
+
+21 
+
+
+own decisions support the same conclusion.* That conclusion 
+is also solidly rooted in the text of Section 7106(b). Whereas 
+Section 7106(b)(1) commits certain topics of negotiation to 
+“the election of the agency,” neither Section 7106(b)(2) nor 
+Section 7106(b)(3) contains any phrase conferring such dis- 
+cretion, and Congress intended to “ma[k]e clear by the ab- 
+sence of the phrase” in the latter two provisions that the 
+limited bargaining obligations they impose are “mandatory.” 
+AFGE, Local 2782, 702 F.2d at 1188 (quoting 124 Cong. Rec. 
+38,715 (1978) (statement of Rep. Ford)). Finally, as we 
+discuss below (at pp. 33-37), a review of both the legislative 
+history of the Statute and the preenactment administrative 
+practice confirms that Congress intended to impose midterm 
+bargaining obligations on employers only when they make 
+midterm changes to the conditions of employment.” 
+
+
+® See, ¢.g., AFGE, Local 3354, No. O-NG-2407, 1998 WL 598537, at *4 
+(FLRA Aug. 31, 1998) (addressing criteria for “determining whether a 
+proposal is within the duty to bargain under section 7106(b)(3)”) 
+(emphasis added); AFGE, Local 163, F.L.R.A. 1063, 1065-1066 (1997) 
+(same); Government Printing Office, 13 F.L.R.A. 203, 204-205 & n.3 (1983) 
+(finding it unnecessary to “distinguish between the nature of the 
+bargaining obligations arising under section 7106(b)(2) and (3),” but 
+nonetheless upholding ALJ determination that agency committed unfair 
+labor practice by acting “in derogation of [its] obligation under Section 
+7106(b)(3) and (2)”) (emphasis added), 
+
+9 If Section 7106(b) did not create such a midterm bargaining duty, 
+Section 7114(a)(4) would still mean just what it says. Because the latter 
+provision mandates negotiations only “for the purposes of arriving at a 
+collective bargaining agreement,” it could not fill the gap that petitioners’ 
+erroneous interpretation of Section 7106(b) would create for mandatory 
+midterm bargaining over issues related to changes in the conditions of 
+employment. Petitioners might seek to fill that gap with a principle that, 
+except as provided by Section 7106, an agency employer commits an unfair 
+labor practice if it makes material midterm changes to the conditions of 
+employment without first negotiating with the union. Cf. 5 U.S.C. 
+7116(a)(5). But that principle could not begin to support what petitioners 
+seek here: open-ended midterm bargaining rights unconnected to any 
+
+
+workplace change. 
+
+
+22 
+
+
+B. The FLRA’s Position Contradicts The Core Statutory 
+Objective Of Ensuring “An Effective And Efficient 
+Government” 
+
+
+It is no accident that the provisions of the Statute diverge 
+sharply from those of the NLRA on precisely the question 
+presented here. Congress could foresee that union-initiated 
+midterm bargaining, if permitted, would be both more com- 
+mon and more wasteful in the public sector than in the pri- 
+vate, and that the availability of such bargaining would 
+threaten the central objective of this statutory scheme: “an 
+effective and efficient Government.” 5 U.S.C. 7101(b). The 
+FLRA’s position here thus contradicts not just the plain lan- 
+guage of Section 7114(a)(4), but that central statutory objec- 
+tive as well. r 
+
+1. In the private sector, collective bargaining is charac- 
+terized not by binding arbitration, but by “{t}he presence of 
+economic weapons in reserve, and their actual exercise on 
+occasion by the parties.” Inswrance Agents Int'l Union, 361 
+U.S. at 489. The National Labor Relations Board may com- 
+pel parties to bargain in good faith, but it generally may not 
+exercise “governmental power to regulate the substantive 
+solution of their differences.” Jd. at 488. That legal regime 
+has important consequences for the dynamics of private- 
+sector collective bargaining. “In the private sector, once an 
+impasse is reached, the anion’s alternative is often to 
+strike—a drastic measure that is unlikely to be utilized mid- 
+term because all issues worthy of such action typically are 
+resolved by the basic collective bargaining agreement.” 
+SSA, 956 F.2d at 1287. For that reason, even proponents of 
+union-initiated midterm bargaining in the public sector have 
+acknowledged that such bargaining “has not played a notice- 
+able role” in the private sector. F. Ferris, Union-Initiated 
+Mia-Term Bargaining: A Catalyst in Reshaping Conflict 
+Patterns, 5 Negotiation J. 407, 408 (Oct. 1989) (Catalyst). 
+
+Public-sector bargaining is governed by different rules, 
+and it is therefore subject to vastly different dynamics. On 
+
+
+23 
+
+
+the one hand, federal employees are forbidden to threaten 
+the use of economic weapons to break a bargaining impasse: 
+specifically, they may not “call, or participate in, a strike, 
+work stoppage, or slowdown.” 5 U.S.C. 7116(b)(7). On the 
+other hand, public-sector unions are entitled to an alterna- 
+tive remedy that their private-sector counterparts might 
+only dream about: they may subject employers to compul- 
+sory dispute resolution, including binding arbitration. See 5 
+U.S.C. 7119%¢)(5). Such arbitration is conducted by the Fed- 
+eral Service Impasses Panel, a subagency of the FLRA. See 
+5 U.S.C. 7119%b)(1) and (c)(1). The Impasses Panel may 
+“take whatever action is necessary and not inconsistent with 
+[the Statute] to resolve the impasse”—and, in particular, it 
+may impose any or all of the union’s substantive proposals on 
+the agency employer. 5 U.S.C. 7119%¢)(5)(B)\iii). 
+
+Thus, in the public sector, unlike the private, a union need 
+not marshal any particular degree of support from rank-and- 
+file employees to ensure full consideration of its bargaining 
+proposals. Instead, it may simply move upon impasse to 
+binding arbitration for any given proposal. Because such 
+“arbitration—unlike striking—is relatively costless for a 
+union to invoke, many more midterm negotiations would be 
+expected in the public sector than the private sector.” SSA, 
+956 F.2d at 1287. Petitioners do not seriously contest that 
+point. Indeed, as explained by the long-time director of 
+negotiations for the National Treasury Employees Union 
+(NTEU), recognition of a general midterm Largaining right 
+has “far more impact in the federal sector than the private 
+sector,” because the “bargaining power” of a public-sector 
+union “does not depend on building support for a mid-con- 
+tract strike” but is instead “merely a function of a legal proc- 
+ess the union can invoke without cost.” Catalyst, supra, at 
+409. 
+
+That is one reason why, as the FLRA itself determined in 
+IRS I (see pp. 3-4, supra), the midterm bargaining rights 
+sought here “would encourage dispersal of the collective bar- 
+
+
+24 
+
+
+gaining process,” generate “continuous bargaining on an 
+issue-by-issue basis,” and undermine “the ability of the 
+parties to rely upon [term] agreements as a stable founda- 
+tion for their day-to-day relations.” 17 F.L.R.A. at 736-737. 
+But that is not the only reason. Another, related factor is the 
+peculiar nature of the bargaining issues that arise in the 
+public sector. 
+
+Private-sector negotiations typically focus on wages, 
+hours, economic benefits, and job security. Private-sector 
+employees both wish for and count on term contracts to set- 
+tle those issues for a period of years. In the public sector, by 
+contrast, those core issues are generally beyond the scope of 
+collective bargaining and are addressed instead by statute or 
+government-wide regulations. See, ¢.g., 5 U.S.C. 5331 et seq.; 
+5 U.S.C. 5341 et seq.; 5 U.S.C. 6101 et seq.; 5 U.S.C. 7501 et 
+seq.; see generally Fort Stewart Schools v. FLRA, 495 U.S. 
+641, 649 (1990). As a result, public-sector unions focus on 
+other issues that are generally not integral to an employee’s 
+wages or job security and therefore need not be secured by a 
+comprehensive term contract. In the words of the NTEU 
+official quoted above, such unions must “tend to a variety of 
+smaller issues that have narrower constituencies. In fact, 
+few issues can be ignored lest substantial groups be alien- 
+ated from the union. The union must seize virtually every 
+issue in order to attract members and survive.” Catalyst, 
+supra, at 409. Because these “smaller” issues do not relate 
+to core concerns about wages and job security, and because 
+employees therefore have no compelling reason to demand 
+resolution of them in one comprehensive term contract, the 
+process of negotiating (and perhaps arbitrating) “virtually 
+every issue” to satisfy a union’s many “narrow | constituen- 
+cies” would be prolonged and diffuse if the union could make 
+liberal use of midterm bargaining rights. 
+
+One final difference between public- and private-sector 
+negotiations warrants mention. “That private-sector unions 
+must incur the expenses entailed in negotiations” in the ab- 
+
+
+25 
+
+
+sence of a contrary arrangement with management “gives 
+them a strong incentive to join with management in struc- 
+turing the negotiating process in a manner least disruptive 
+and costly to both the employer and the union.” SSA, 956 
+F.2d at 1288; cf. 29 U.S.C. 186(c)(1). The costs of public-sec- 
+tor bargaining, however, are largely borne not by unions or 
+employees, but by taxpayers. See, e.g., 5 U.S.C. 7131(a) 
+(authorizing “official time” for “negotiation of a collective 
+bargaining agreement,” including “attendance at impasse 
+proceeding,” by employees who “otherwise would be in a 
+duty status”)."” A public-sector union therefore has little 
+cost incentive to choose efficient, consolidated negotiations 
+over inefficient, piecemeal negotiations. See SSA, 956 F.2d 
+at 1288. 
+
+2. For all of those reasons, the FLRA was originally cor- 
+rect when, in /RS I, it found that the midterm bargaining 
+policy at issue here “would inject uncertainty into the par- 
+ties’ relationship, enhance the prospect for protracted con- 
+flict, and could lead to the continuous expenditure of re- 
+sources for both management and exclusive representa- 
+tives.” 17 F.L.R.A. at 737. But the costs of that policy are 
+not merely procedural. The policy also has the potential to 
+distort the substantive resolution of public-sector labor dis- 
+putes. 
+
+
+0 Petitioner NFFE construes the term “collective bargaining 
+agreement” in Section 7131(a) to include midterm bargaining and cites two 
+court of appeals cases addressing the FLRA’s varying interpretations of 
+that provision. See NFFE Br. 16 (citing Bureau of Alcohol, Tobacco & 
+Firearms v. FLRA, 672 F.2d 732, 736-737 (9th Cir. 1982) (addressing 
+availability of official time for midterm bargaining), rev'd in part on other 
+grounds, 464 U.S. 89 (1983); AFGE v. FLRA, 750 F.2d 143 (D.C. Cir. 1984) 
+(addressing availability of official time for negotiation of “local” 
+agreements)). This case does not directly involve Section 7131(a), nor, of 
+course, would resolutiog of the issue presented here have any bearing on 
+an employee’s ability to be granted official time under some other 
+provision. See, e.g.,5 U.S.C. 7131(d). 
+
+
+26 
+
+
+As the Fourth Circuit explained in SSA, “the very essence 
+of bargaining is compromise and concession. By withholding 
+a particular proposal during the negotiations over the basic 
+agreement, a union avoids the necessity of making a conces- 
+sion to the agency in order to achieve agency acceptance of 
+the proposal, but it keeps alive the possibility of obtaining 
+the proposal through subsequent imposition by [Impasses 
+Panel] arbitration.” 956 F.2d at 1287. As a result, “by arbi- 
+trating a string of unrelated proposals piecemeal rather than 
+in the context of negotiations toward a basic agreement, a 
+union may be able to achieve an overall set of arbitration- 
+enforced concessions that exceeds both what it could have 
+obtained through one set of unified negotiations leading to a 
+basic agreement and what an arbitrator would have awarded 
+had all issues been arbitrated together.” bid. 
+
+The prospect of that substantive advantage itself, of 
+course, further reinforces a union’s incentive to deemphasize 
+the role of comprehensive term agreements in favor of seria- 
+tim micro-agreements on individual issues. That is not just a 
+speculative concern. NTEU’s director of negotiations ex- 
+plains in some detail how public-sector unions try to imple- 
+ment this strategy in practice: 
+
+
+Although [compromise] is the “way of life” in American 
+negotiations, it is not ideal[.] * * * Now, however, the 
+union need not suffer as much from a trade-off strategy. 
+As a result of [the D.C. Circuit’s decision in NTEU}, a 
+union can decide to withhold a matter from its term con- 
+tract proposals when it knows the issue will be compro- 
+mised away if bargained with many other matters. The 
+union can hold the matter off until the term agreement 
+is done and then initiate the proposal as part of a sin- 
+gle-issue negotiation where it is not as likely to suffer 
+from a tradeoff among issues. The union could even put 
+forth the proposal as part of the term agreement de- 
+mands, but then pull it off the table with the statement 
+
+
+27 
+
+
+that it reserves the right to raise it later during the life 
+of the term agreement. 
+
+
+Catalyst, supra, at 411-412 (emphasis added). Moreover, as 
+the same union official observes, union-initiated midterm 
+bargaining rights could even deter agency employers from 
+exercising their statutory prerogative (which Congress 
+added to protect the efficient execution of an agency’s mis- 
+sion) “to initiate changes in working conditions during the 
+life of an agreement.” Catalyst, supra, at 413-414 & n.16 
+(discussing 5 U.S.C. 7106, the “Management rights” provi- 
+sion discussed at pp. 19-21, supra). That is so, he writes, be- 
+cause, “[iJn a face-to-face power clash, the union could easily 
+promise the employer that for every change the employer 
+proposed, the union would put forth two.” Catalyst, supra, 
+at 413-414. As the FLRA recognized with some under- 
+statement in JRS I, “(ijt is difficult to envision that Con- 
+gress, with its interest in the achievement of effective and 
+efficient Government,” would ever have intended to create 
+such a regime. 17 F.L.R.A. at 737. 
+
+3. Petitioners argue that the midterm bargaining rights 
+they have asked this Court to reinstate on a nationwide basis 
+would not have the important consequences that public- 
+sector unions and the FLRA itself have foreseen. In par- 
+ticular, they argue that recognition of those rights would not, 
+as the FLRA once warned, threaten “dispersal of the collec- 
+tive bargaining process” and “the continuous expenditure of 
+resources,” JRS J, 17 F.L.R.A. at 736-737; and that recogni- 
+tion of such rights would not, as NTEU’s chief negotiator 
+expects, “have far more impact in the federal sector than the 
+private sector” as each union “seize[s] virtually every issue 
+in order to attract members and survive,” Catalyst, supra, 
+409. 
+
+The FLRA relies on the hypothetical availability of “zip- 
+per” clauses: provisions “through which unions contractually 
+agree to generally waive their right to initiate midterm bar- 
+
+
++ 28 
+
+
+gaining.” Br. 36. But there is no reason to believe that 
+unions would in fact “contractually agree” to negotiate away 
+the rights that the FLRA would grant them. To begin with, 
+neither the FLRA nor any court has even resolved whether 
+unions could ever be forced upon impasse to accept such 
+waivers. See FLRA Br. 36 n.16 (“the Authority has not had 
+that specific question before it”).'’ One union official has ar- 
+gued that, “because the right to initiate mid-term bargaining 
+is a statutory right, the [Impasses Panel], which arbitrates 
+all bargaining disputes, cannot force a union to forfeit it as 
+part of an * * * arbitration award. The union must give it 
+up voluntarily.” Catalyst, supra, at 410-411 (footnote omit- 
+ted).* In any event, even if that view is wrong, and even if 
+
+
+1! Two D.C. Cireuit judges have expressed the view that “zipper” 
+clauses are mandatory subjects of bargaining that may be negotiated to 
+impasse. See FLRA v. IRS, 838 F.2d 567, 568-570 (D.C. Cir. 1988) 
+(Edwards, J., concurring in the denial of rehearing en banc). It is 
+noteworthy, however, that neither petitioner in this case actually em- 
+braces that position or the related proposition that “zipper” clauses could 
+ever be imposed upon impasse. See FLRA Br. 36 & n.16; NFFE Br. 24 
+n.11. Moreover, the FLRA is mistaken in claiming (Br. at 8) that the two 
+judges at issue “endorsed” the midterm bargaining policy at issue here; 
+instead, those judges simply summarized the panel decision in NTEU and 
+expressed disagreement with a particular policy argument for reviewing 
+that decision en bane. See 838 F.2d at 568-570. In fact, in his subsequent 
+opinion for the court in Department of the Navy, supra, Judge Edwards 
+repeatedly affirmed many of the Fourth Circuit’s policy concerns in SSA, 
+see 962 F.2d at 54 & n.3, 55 & n.6, 59 & n.12, while noting only that the 
+panel was “bound by the result reached in NTEU,” id. at 54 n.3. 
+
+
+12 Indeed, the only circumstance in which unions would have any 
+incentive to give up such rights “voluntarily” is where they could use the 
+threat of wasteful and repetitive bargaining itself as leverage to win major 
+substantive concessions from agency employers. NTEU’s long-time 
+negotiator has expressed confidence that a “union can demand a very high 
+price if it wishes to treat this right as a dispensable chip.” Catalyst, 
+supra, at 411; see also id. at 414 (“the union could easily promise the 
+employer that for every change the employer proposed, the union would 
+put forth two”). But if Congress had wanted to give public-sector unions 
+
+
+29 
+
+
+unions could theoretically Ye compelled to accept “zipper” 
+clauses in their contracts, there is no reason to believe that 
+the Impasses Panel would often impose such clauses on non- 
+consenting unions. To the contrary, the FLRA’s enthusias- 
+tic approval of midterm bargaining, as expressed in this case, 
+strongly suggests that neither it nor its subagency would 
+regularly foreclose a union’s ability to take advantage of the 
+midterm bargaining opportunities at issue here. 
+
+The FLRA also contends that any inefficiencies of mid- 
+term bargaining would be limited by that agency’s recently 
+clarified rule (see FLRA Br. 35 n.15; see also pp. 18-19, sw- 
+pra) that “[t}he obligation to bargain midterm extends only 
+to matters not contained in or covered by the term agree- 
+ment.” FLRA Br. 35; see generally Department of the Navy 
+v. FLRA, 962 F.2d 48 (D.C. Cir. 1992); Department of Health 
+& Human Servs., Social Security Admin., 47 F.L.R.A. 1004, 
+1018 (1993) (HHS/SSA). Although that rule would place 
+some limits on midterm bargaining, it would nonetheless 
+leave room for broad midterm supplementation of any collec- 
+tive bargaining agreement. Just as important, so long as the 
+FLRA’s expansive midterm bargaining policy remains in 
+effect, the agency’s “contained in or covered by” rule may 
+itself give union negotiators another powerful incentive to 
+withhold issues from the bargaining table during the nego- 
+tiation of term agreements precisely so that they may pre- 
+serve those issues for future midterm bargaining. See gen- 
+erally Catalyst, supra, at 411-412. 
+
+Moreover, although the FLRA suggests that management 
+can somehow “protect itself against an extended midterm 
+bargaining obligation by ensuring that the term agreement 
+
+
+even more leverage in the federal workplace than this statute already 
+gives them, it would have done so rationally and directly. It would not 
+have given those unions a “dispensable chip” that, if left untraded, would 
+impose substantial costs on the public fisc and impair the efficiency of 
+
+
+public-sector bargaining. 
+
+
+30 
+
+
+is comprehensive in scope” (Br. 35), agency employers could 
+not possibly foresee, much less resolve, the “variety of 
+smaller issues” that public-sector unions would subsequently 
+raise during a contractual term to satisfy their many “nar- 
+row|] constituencies.” Catalyst, supra, at 409. And, even if 
+an employer could foresee all such issues, it generally could 
+not prevent midterm bargaining about any given one of them 
+unless it could persuade the union to cooperate in specifically 
+addressing the issue in term negotiations. See FLRA Br. 
+35-36 & n.15, That may prove difficult if unions follow the 
+lead of one prominent negotiator and “pull [an issue] issue off 
+the table” while “reserv[ing] the right to raise it later during 
+the life of the term agreement.” Catalyst, swpra, at 412. 
+And, although “the services of the Impasses Panel can be 
+invoked” (FLRA Br. 36), the Panel could be expected to con- 
+tinue resolving disputes about the availability of midterm 
+bargaining just as it has resolved them in the past: by in- 
+cluding broad midterm bargaining clauses in term contracts. 
+See Department of Energy v. FLRA, 106 F.3d 1158 (4th Cir. 
+1997) (DOE); see also note 16, infra. 
+
+Finally, even apart from the many substantive concerns 
+about the FLRA’s policy, that policy indisputably encour- 
+ages considerable litigation about whether any given issue 
+raised in midterm bargaining satisfies the newly re- 
+vised—and highly indeterminate—“contained in or covered 
+by” test. See FLRA Br. 35 n.15. As the FLRA itself admits, 
+“it will be difficult” in a range of cases “to determine 
+whether the matter sought to be bargained [midterm] is, in 
+fact, an aspect of matters already negotiated” in an under- 
+lying term agreement. HHS/SSA, 47 F.L.R.A. at 1018; see 
+also id. at 1019 (inquiry requires factfinder to “examine all 
+record evidence”). Such litigation would only exacerbate the 
+
+
+31 
+
+
+already considerable transaction costs of public-sector labor 
+disputes.” 
+
+4. Petitioner NFFE suggests (Br. 28-29) both that the 
+Statute imposes symmetrical obligations on agencies and 
+unions and that there is something asymmetrical about the 
+regime that the FLRA originally adopted in JRS I. Each of 
+those propositions is incorrect. First, as this Court has em- 
+phasized, the Statute does not “confer on the FLRA an un- 
+constrained authority to equalize the economic positions of 
+union and management.” BAT, 464 U.S. at 108. Asa gen- 
+eral matter, other provisions of federal law address the most 
+important issues related to the “economic position” of federal 
+employees, such as wages and job security. See p. 24, supra. 
+
+
+18 Petitioner NFFE claims that midterm bargaining has not yet 
+revolutionized public-sector labor negotiations. See NFFE Br. 26 & n.13. 
+That claim is flawed on several levels. First, its empirical basis is NFFE’s 
+own failure to locate an overwhelming number of reported decisions by 
+the Impasses Panel involving arbitrations of unresolved midterm bar- 
+gaining disputes initiated by unions. bid. That is no basis at all: such 
+decisions often do not specify that a given dispute arose from midterm 
+bargaining rather than from a disputed portion of the negotiations for a 
+basic collective bargaining agreement. Second, it is the threat of compul- 
+sory arbitration by the Impasses Panel that magnifies the importance of 
+midterm bargaining in the public sector; that threat need not be realized 
+in each case for the FLRA’s midterm bargaining policy to have significant 
+harmful consequences in all cases. See, eg., Catalyst, supra at 414 
+(prospect of midterm bargaining would deter agencies from exercising 
+statutory rights because “the union could easily promise the employer 
+that for every change the employer proposed, the union would put forth 
+two”). Third, the Fourth Circuit’s 1992 decision in SSA has placed the 
+FLRA’s midterm bargaining policy in doubt for the past six years; 
+petitioners sought certiorari here precisely to remove the practical 
+constraints that SSA and its progeny have placed on greater proliferation 
+of such bargaining. Finally, and in any event, the underlying question 
+presented here is what Congress intended, and might reasonably have 
+foreseen, in 1978 when it enacted Section 7114(a)(4) of the Statute. The 
+details of subsequent empirical developments have no direct bearing on 
+that inquiry. 
+
+
+32 
+
+
+The ultimate objective of this Statute, therefore, is not 
+absolute symmetry in the bargaining relations of the parties, 
+but the use of collective bargaining to the extent—and only 
+to the extent—that it promotes “the public interest” and, in 
+particular, “an effective and efficient Government.” 5 U.S.C. 
+7101(a) and (b). The midterm bargaining policy at issue here 
+would unmoor public-sector collective bargaining from that 
+underlying statutory objective. 
+
+In any event, the regime that Congress created—the 
+same regime that the FLRA originally adopted in /RS J—is, 
+in fact, entirely equitable as between the parties to collective 
+bargaining. Under any reading of this statute, Congress en- 
+titled agencies to make certain midterm changes to the con- 
+ditions of employment to ensure the successful execution of 
+their substantive missions; if agencies could not make such 
+changes, they could not effectively serve the public interest, 
+which is their reason for existing. Nonetheless, the agency 
+must notify the union of such changes and, upon invitation, 
+bargain about issues related to them. That bargaining duty 
+rests exclusively on the agency. To the extent, therefore, 
+that a correct reading of this statute produces an asymmetri- 
+cal result in bargaining obligations, the asymmetry favors 
+the unions. 
+
+Petitioner NFFE separately argues (Br. 27) that the crea- 
+tion of plenary midterm bargaining rights is necessary to 
+ensure a prompt and satisfactory response to “unanticipated 
+matters” that occur during the term of a collective bargain- 
+ing agreement, such as the discovery of radon in the work- 
+place or “outbreaks of Legionnaire’s disease.” That argu- 
+ment is flawed in several respects. First, the policy concern 
+that NFFE raises here—accommodation of midterm exigen- 
+cies—is much narrower than, and bears no logical relation to, 
+the scope of the m.dterm bargaining rule it seeks. That rule 
+would compel employers to engage in midterm bargaining 
+whenever a union raises an issue that is not “contained in or 
+covered by” the existing collective bargaining agreement, 
+
+
+33 
+
+
+even in the many circumstances in which the issue could 
+have been negotiated at the time the agreement. was 
+reached. The lack of any logical connection between NFFE’s 
+policy arguments and its litigating objective here shows that 
+its remedy, if one were warranted, would lie with Congress: 
+in a narrowly tailored legislative adjustment to an em- 
+ployer’s existing obligation to negotiate only “for the pur- 
+poses of arriving at a collective bargaining agreement.” 5 
+U.S.C. 7114(a)(4). 
+
+In any event, NFFE’s concern about workplace contin- 
+gencies fails even on its own terms. First, federal agencies 
+do not ignore “life-threatening health hazards in the work- 
+place” (NFFE Br. 27); they fix them. See, e.g., 29 U.S.C. 
+668(a)(1) (requiring agencies, “after consultation with repre- 
+~ sentatives of the employees,” to “provide safe and healthful 
+places and conditions of employment”). Issues relating to 
+those remedial measures would be subject to negotiation, 
+whether at the beginning of a new collective bargaining term 
+or, just as important, upon invocation of the specific midterm 
+bargaining rights guaranteed by Section 7106(b)(2) and (3). 
+See pp. 19-21, supra; see also 5 U.S.C. 7106(a)(1) and 
+(a)(2)(D). Those existing bargaining rights are entirely suffi- 
+cient to give federal employees a substantial voice in resolv- 
+ing workplace exigencies. In any event, nothing prevents 
+the parties from anticipating workplace contingencies, and 
+settling upon specific solutions for those contingencies, dur- 
+ing negotiations for a given term agreement. 
+
+
+C. The FLRA’s Position Contradicts The Legislative His- 
+tory And Prior Administrative Practice 
+
+
+The FLRA’s current midterm bargaining policy conflicts 
+not only with specific provisions of the statutory text and 
+with the Statute’s explicit and overarching objective of gov- 
+ernmental efficiency, see 5 U.S.C. 7101(b), but also with the 
+Statute’s legislative history and with longstanding adminis- 
+trative practice. 
+
+
+34 
+
+
+In interpreting the Statute, this Court has placed par- 
+ticular reliance on the regulatory regime governed by Ex- 
+ecutive Order No. 11,491, 5 U.S.C. 7101 note, which compre- 
+hensively addressed public-sector bargaining in the years 
+before enactment of the Statute. See BATF, 464 U.S. at 100- 
+103. Although the FLRA is not “bound by administrative 
+decisions made under the Executive Order regime,” the 
+Statute in many respects “constitutes a strong congressional 
+endorsement of the policy on which the federal labor rela- 
+tions program had been based since its creation in 1962,” and 
+it “does not reflect a dramatic departure from the principles 
+of [that] Executive Order regime.” Jd. at 103 & n.13. In the 
+words of one congressional sponsor, “{wJhat we really do [in 
+enacting the Statute] is to codify the 1962 action of President 
+Kennedy in setting up a basic framework of collective bar- 
+gaining for Federal employees.” Jd. at 103 (quoting 124 
+Cong. Rec. 29,182 (1978) (remarks of Rep. Udall)); see also 
+124 Cong. Rec. 28,796 (1978) (remarks of Rep. Ford) (“I wish 
+that I could say to my friends in organized labor that what 
+we have constructed here is a monumental new break- 
+through for the future of public employee collective bar- 
+gaining, but that would not be true.”); 5 U.S.C. 7135(b) (gen- 
+erally preserving Executive Order regime unless super- 
+. seded by specific provisions). 
+
+As the FLRA itself determined in JRS J, several years 
+atter enactment of the Statute, “an obligation to negotiate 
+anion initiated mid-term bargaining proposals did not exist 
+under the Executive Order.” 17 F.L.R.A. at 736-737 n.7 
+‘emphasis added). The FLRA further observed that, under 
+the Executive Order regime, an agency employer was (as it 
+is now) obligated to bargain during the term of a collective 
+bargaining agreement where the employer “‘chang{es] 
+established personnel policies and practices and matters af- 
+fecting working conditions during the term of an existing 
+agreement.’” Jd. at 736 n.7 (quoting Federal Labor 
+Relations Council, Report and Recommendation on the 
+
+
+35 
+
+
+Amendment of Executive Order 11491, as amended (FLRC 
+Report), reprinted in Labor-Management Relations in the 
+Federal Service 41 (1975))."* In contrast, the FLRA 
+explained, where a union had claimed the broader midterm 
+bargaining rights at issue here, the claim was rejected 
+because, inter alia, the Executive Order did not compel the 
+employer “‘to bargain over changes proposed or requested 
+by the Union during the term of the contract and d[id] not 
+give the exclusive representative any right to demand such 
+bargaining.” Jd. at 736-737 n.7 (quoting Army & Air Force 
+Exchange Service, Case No. 22-6657 (CA), 2 Rulings on Re- 
+quest for Review 561 (1976)). 
+
+If Congress had intended the Statute to reverse that long- 
+standing practice, it would have made that intention clear. In 
+any event, it would not have chosen the language it did 
+choose, which, under any reasonable interpretation, reaf- 
+firms that long standing practice. Although the FLRA itself 
+has never repudiated its historical findings in JRS J (see 
+SSA, 956 F.2d at 1286; cf. FLRA Br. 28 n.12), the FLRA’s 
+appellate counsel now claim (Br. 26-27) that “authoritative 
+support is lacking” for those findings and that this Court 
+should disregard Army & Air Force Exchange Service be- 
+cause it was only a “single unreviewed decision.” But the 
+FLRA’s appellate counsel has cited no authority at all from 
+
+
+'* As the FLRA indicated in JRS J (17 F.L.R.A. at 736 n.7), that 
+passage in the FLRC Report addresses the narrow obligation of 
+employers to bargain over midterm changes to the conditions of em- 
+ployment. Despite the contrary suggestion of amici AFL-CIO et al. (Br. 
+23), the omission of a specific reference to the general midterm bargaining 
+rights sought here is, if anything, additional evidence that the FLRA’s 
+current position is wrong. Amici’s separate reference (ibid.) to a passage 
+in Department of Transp., FAA, A/SLMR No. 517, 5 A/SLMR 344 (1975), 
+is also unavailing. That passage did not address midterm bargaining, but 
+rather whether an arbitration award (regarding parking) was superseded 
+
+
+by the subsequent signing of a new basic collective bargaining agreement 
+(which did not address the subject of the arbitration award). 
+
+
+36 
+
+
+the Executive Order regime to support the F LRA’s current 
+position. The most reasonable conclusion is that the issue 
+was rarely litigated because the FLRA was right the first 
+time—the midterm bargaining rights at issue here “did not 
+exist under the Executive Order” (17 F.L.R.A. at 737 
+n.7)—and unions did not seek to challenge that understand- 
+ing. 
+
+Finally, the FLRA’s current position is inconsistent with 
+the only directly relevant passage in the Statute’s own leg- 
+islative history. The Senate Report accompanying the Sen- 
+ate version of the statute explained: 
+
+
+[The bill] provides that the agency and the labor organi- 
+zation shall negotiate in good faith for the purpose of ar- 
+riving at an agreement. The parties have a mutual duty 
+to bargain not only with respect to those changes in es- 
+tabished personnel policies proposed by management, 
+but also concerning negotiable proposals initiated by ei- 
+ther the agency or the exclusive representative in the 
+context of negotiations leading to a basic collective bar- 
+gaining agreement. Where agency management pro- 
+poses to change established personnel policies, the ex- 
+clusive representative must be given notice of the pro- 
+posed changes and an opportunity to negotiate over 
+such proposals to the extent they are negotiable. 
+
+
+S. Rep. No. 969, 95th Cong., 2d Sess. 104 (1978) (emphasis 
+added). There is nothing “ambiguous” (FLRA Br. 25) about 
+this passage. It specifically describes the two circumstances 
+in which an agency employer’s bargaining duty arises: where 
+management makes “changes” to the conditions of 
+employment, and in “negotiations leading up to a basic 
+collective bargaining agreement.” Not by coincidence, those 
+are precisely the (only) two circumstances in which the 
+Statute itself, under the FLRA’s correct interpretation in 
+IRS I, imposes a bargaining duty on employers. See pp. 11- 
+21, supra. Although Congress chose the House version of the 
+
+
+37 
+
+
+statute, “the Senate version * * * and the version 
+ultimately adopted did not differ substantively with respect 
+to either the nature or the timing of an agency’s duty to 
+negotiate.” SSA, 956 F.2d at 1285 (discussing legislative 
+history). The two versions differed instead on the substance 
+of an employer's bargaining obligation. See ibid. The Senate 
+report is thus a highly relevant indication of Congress’s 
+background assumptions in enacting the Statute. 
+
+D. The FLRA’s Position Is Not Entitled To Chevron Def- 
+
+erence 
+
+
+As demonstrated above, the FLRA’s position on midterm 
+bargaining contradicts the statutory text, the Statute’s 
+overarching purpose of promoting efficiency in government, 
+prior practice under the Executive Order regime, and the 
+only probative evidence appearing in the legislative history. 
+In short, “the intent of Congress is clear,” and “that is the 
+end of the matter.” Chevron U.S.A. Inc. v. Natural Re- 
+sources Defense Council, Inc., 467 U.S. 837, 842 (1984). But 
+even if there were some ambiguity about that intent, the 
+FLRA’s approach would not be entitled to deference. 
+
+First, the FLRA’s approach is inconsistent with the Stat- 
+ute’s own explicit rule of construction. Section 7101(b) pro- 
+vides that “{t)he provisions of this [Statute] should be inter- 
+preted in a manner consistent with the requirement of an 
+effective and efficient Government.” 5 U.S.C. 7101(b). The 
+FLRA is not entitled to deference when it construes a provi- 
+sion of the Statute in a manner directly inconsistent with 
+that statutory objective. See, e.g., HHS v. FLRA, 844 F.2d 
+1087, 1090 (4th Cir. 1988) (en banc). As discussed, that is 
+what the FLRA has done here.” The Chevron principle em- 
+
+
+15 Indeed, in one passage of its brief, the FLRA itself appears to 
+suggest that questions of “effectiveness and efficiency” should play little 
+role in the development of its midterm bargaining policy. Cf. FLRA Br. 
+45 (negotiability standard should not rest on considerations of “effective- 
+
+
+bodies a judicial presumption about implicit congressional 
+delegations of authority to agencies to interpret ambiguous 
+provisions. See generally Pauley v. BethEnergy Mines, Inc., 
+501 U.S. 680, 696 (1991). Application of that general pre- 
+sumption would be inappropriate where it would thwart a 
+clear congressional! policy choice set forth in an express and 
+plainly relevant statutory rule of construction. See also 
+BATF, 464 U.S. at 97 (invalidating FLRA policy because 
+courts “must not ‘rubber-stamp . . . administrative deci- 
+sions that they deem inconsistent with a statutory mandate 
+or that frustrate the congressional policy underlying a 
+statute’”). 
+
+Second, the cause of the FLRA’s abrupt change of posi- 
+tion between JRS I and IRS II was a lower court’s rejection 
+of the former decision. As the Fourth Circuit observed, “the 
+FLRA simply adopted the position taken by the D.C. Cir- 
+cuit” and, in subsequent cases, “adhered to its position in 
+IRS II, without additional discussion or analysis.” SSA, 956 
+F.2d at 1283; see also Department of Commerce, Patent & 
+Trademark Office, 53 F.L.R.A. 539, 552, 554 (1997) (adhering 
+to IRS II without reexamining merits); HHS/SSA, 47 
+F.L.R.A. at 1013 (same); Headquarters, 127th Tactical 
+Fighter Wing, Mich. Air Nat'l Guard, 46 F.L.R.A. 582, 583 
+(1992) (same); Patent & Trademark Office, 45 F.L.R.A. 1090, 
+1091 n.2 (1992) (same), pet’n for enforcement denied, 991 
+F.2d 790 (4th Cir. 1993) (Table). This Court should be 
+circumspect in applying the Chevron principle where, as 
+here, an agency’s reversal of interpretation appears to be 
+attributable more to a lower court’s adverse ruling than to 
+the agency’s own policy choice. See Atchison, T. & S.F. Ry. 
+v. Pena, 44 F.3d 437, 442-443 (7th Cir. 1994) (en bane), affd 
+on other grounds sub nom. Brotherhood of Locomotive 
+Eng’rs v. Atchison, T. & S.F. Ry., 516 U.S. 152 (1996). While 
+
+
+ness and efficiency” because bargaining often “impact|s] on government 
+effectiveness”). 
+
+
+this Court often “carefully consider[{s} the opinions” of the 
+courts of appeals, it “certainly do[es}] not defer to them.” /d. 
+at 443. 
+
+
+Il. THE FLRA MAY NOT USE CONTRACTUAL MID- 
+TERM BARGAINING CLAUSES TO CREATE IN- 
+DIRECTLY A MIDTERM BARGAINING REGIME 
+THAT THE STATUTE HAS REJECTED 
+
+
+As demonstrated above, petitioners’ interpretation of the 
+Statute is wrong not because Congress was “silent” (FLRA 
+Br. 19) on the general availability of midterm bargaining, but 
+because Congress deliberately excluded such bargaining 
+from this statutory scheme. Petitioners nonetheless argue 
+that, even if that is so, the FLRA may still compel individual 
+employers to negotiate about a proposal that would impose 
+precisely the midterm bargaining obligations that the Stat- 
+ute withholds. That argument is inconsistent with both the 
+text and the policy of the Statute. 
+
+In the public sector, declaring a proposal to be a manda- 
+tory subject of bargaining has critical substantive conse- 
+quences that it does not have in the private sector. The duty 
+to bargain in the private sector is a duty to talk about some- 
+thing in good faith, and if the parties reach impasse, neither 
+can force the other to submit to government intervention on 
+the substance of the dispute. See p. 22, supra. In the public 
+sector, by contrast, the duty to bargain about a proposal 
+confronts agency employers with the prospect that the 
+Impasses Panel will impose that proposal on them against 
+their will, as the FLRA freely acknowledges. See FLRA Br. 
+47 n.21 (citing 5 U.S.C. 7119(¢)(5)); see also HHS, 844 F.2d at 
+1089; Department of Defense, Army-Air Force Exchange 
+Serv. v. FLRA, 659 F.2d 1140, 1146 (D.C. Cir. 1981). What 
+petitioners seek, therefore, is not simply a rule compelling 
+agency employers to talk about expansive midterm bar- 
+gaining clauses, but a rule authorizing the FLRA and the 
+Impasses Panel to usher in through the back door the very 
+
+
+40 
+
+
+midterm bargaining regime that Congress, by its plain 
+choice of language, rejected.” 
+
+A. The FLRA ordered the agency employer in this case 
+to bargain about the following midterm bargaining clause: 
+
+
+Union-initiated Bargaining. The Union may request 
+and the Employer will be obliged to negotiate on any 
+negotiable matters not covered by the provisions of this 
+agreement 
+
+
+FLRA Pet. App. 14a. Two features of that proposed clause 
+are significant. First, it is essentially content-neutral. Sec- 
+ond, it is fully coextensive with the scope of the midterm 
+bargaining obligation that petitioners would (erroneous.y) 
+read into the Statute itself. The question here is whether 
+that clause is a mandatory subject of bargaining, subject to 
+binding arbitration upon impasse. Cf. note 19, infra. 
+
+Both petitioners identify Section 7117(a) as the source of 
+an employer’s putative obligation to bargain about such 
+clauses. See FLRA Br. 37; NFFE Br. 30. For present pur- 
+
+
+‘© The FLRA cites only one case in which the Impasses Panel has not 
+resolved a disagreement about a proposed midterm bargaining clause by 
+imposing such a clause on the agency employer. See FLRA Br. 43 n.18; 
+compare DOE, 106 F.3d at 1161. In that case, however, the Impasses 
+Panel rejected such a clause on the theory that it merely “restate[d] rights 
+already governed by law” and was therefore “unnecessary.” See Depart- 
+ment of Health & Human Servs., Social Security Admin., No. 94 F.S.1.P. 
+47, 1994 WL 412309, at *8 (Aug. 3, 1994). The FLRA speculates that if 
+this Court were to “conclude that there is no statutory obligation to 
+bargain midterm, but find that the matter is negotiable,” the Impasses 
+Panel would then “resolve any impasse over midterm bargaining on the 
+merits of the individual case.” Br. 43-44. The FLRA proposes no 
+determinate standards for such an inquiry, however, intimating only that 
+concerns about “effectiveness and efficiency” would play little role. Br. 45. 
+In the end, the FLRA acknowledges that such a holding would create a 
+“potential anomaly,” which it urges this Court to “[{a}void{]” by finding 
+that the Statute itself imposes rights of midterm bargaining. Br. 44 n.19. 
+The “potential anomaly,” however, is entirely of the FLRA’s own making, 
+and the correct way to “avoid” it is to affirm the decision below. 
+
+
+41 
+
+
+poses, we assume that Section 7117(a) affirmatively directs 
+an agency employer, in the FLRA’s words (Br. 37), “to bar- 
+gain over all conditions of employment unless the bargaining 
+proposal is inconsistent with law, a government-wide regula- 
+tion, or an agency regulation for which a compelling need 
+exists.”"’ Even on that assumption, Congress’s deliberate 
+exclusion of any nidterm bargaining obligation precludes, 
+for two separate reasons, petitioners’ attempt to compel em- 
+ployers to bargain about, and face the prospect of binding 
+arbitration on, that very obligation. 
+
+First, the topic of this proposed midterm bargaining 
+clause is not a “condition{] of employment,” as the term is 
+defined in Section 7103(a)(14)."" That provision specifically 
+removes from the scope of the term, and thus from any col- 
+lective bargaining obligation, any “matters” that “are spe- 
+cifically provided for by Federal statute.” 5 U.S.C. 
+7103(a)(14\(C); see generally 5 U.S.C. 7103(a)(12). As dem- 
+
+
+17 Section 7117(a)(1) does not actually say that. It provides that, 
+“[s]ubject to paragraph (2) of this subsection, the duty to bargain in good 
+faith shall, to the extent not inconsistent with any Federal law or any 
+Government-wide rule or regulation, extend to matters which are the 
+subject of any rule or regulation only if the rule or regulation is not a 
+Government-wide rule or regulation.” 5 U.S.C. 7117(a)(1). Section 
+7117(a\(2) provides that “[t}he duty to bargain in good faith shall, to the 
+extent not inconsistent with Federal law or any Government-wide rule or 
+regulation, extend to matters which are the subject of any agency rule or 
+regulation referred to [in a separate provision, not applicable here] only if 
+the Authority has determined under [5 U.S.C. 7117(b)] that no compelling 
+need (as Getermined under regulations prescribed by the Authority) exists 
+for the rule or regulation.” 5 U.S.C. 7117(a)(2). 
+
+18 We assume, for the sake of argument, that the issue of midterm 
+bargaining meets the threshold criterion for a “condition of employ- 
+ment”—that it constitutes a “matter{[] * * * affecting working condi- 
+tions.” 5 U.S.C. 7103(a)(14). That language would seem to focus, however, 
+on primary, substantive matters concerning employment itself, not on 
+every issue relating to the structure of bargaining about those matters. 
+Cf. Fort Stewart Schools, 495 U.S. at 645-646. 
+
+
+42 
+
+
+onstrated in Point I above, Congress did “specifically pro- 
+vide[ ] for” the scope of an agency employer's bargaining ob- 
+ligations. Congress specifically addressed and defined those 
+obligations in Section 7114(a)(4); by restricting them to nego- 
+tiations “for the purposes of arriving at a collective bar- 
+gaining agreement,” it deliberately excluded the general 
+midterm bargaining rights it had included in the corre- 
+sponding provisions of the NLRA; and, when it created mid- 
+term bargaining rights at all in the pubiiec sector, it limited 
+them to the particular circumstance {i which management 
+makes midterm changes to the conditions of employment. 
+See pp. 11-21, supra. In short, Congress repudiated the bar- 
+gaining regime which the FLRA would read into the Statute 
+and which has been replicated in miniature in this midterm 
+bargaining clause. 
+
+Moreover, even if the issue of midterm bargaining were a 
+“condition of employment,” and even if Section 7117(a) could 
+be construed to impose a general obligation to bargain about 
+conditions of employment, that provision also specifically 
+exempts an agency employer from any such obligation if 
+compliance would be “inconsistent with any Federa! 'aw.” 5 
+U.S.C. 7117(a). Adoption of the midterm bargaining clause 
+at issue here would indeed be inconsistent with federal law, 
+because the clause is exactly coextensive with a midterm 
+bargaining policy that Congress rejected for the public sec- 
+tor but embraced for the private sector. Congress’s rejec- 
+tion of that bargaining policy in this context, and its enact- 
+ment instead of the more limited bargaining obligation set 
+forth in Section 7114(a)(4), constitute a deliberate statutory 
+choice,-based on a particular conclusion about the undesir- 
+ability of open-ended midterm bargaining. That statutory 
+choice is as binding on an agency employer as on the FLRA 
+itself. 
+
+In enacting the Statute, Congress was not creating 
+waivable default rules to mediate the rights of private par- 
+ties. Congress was making basic policy decisions for every 
+
+
+43 
+
+
+agency of the government: decisions about governmental 
+efficiency and fiscal responsibility that no agency may 
+“waive.” Just as Congress prohibited individual agencies 
+from committing certain substantive issues (such as their 
+“mission,” “budget,” and “internal security practices”) to the 
+collective bargaining process, e.g. 5 U.S.C. 7106(a)(1), so too 
+did it prohibit individual agencies from committing them- 
+selves to the very regime of open-ended midterm bargaining 
+that Congress itself had deemed inconsistent with “the re- 
+quirement of an effective and efficient Government.” 
+5 U.S.C. 7101(b). Here, respondent could not have “lawfully 
+agree[d]” to a midterm bargaining clause indistinguishable 
+from that regime, and respondent therefore “ha[d] no obliga- 
+tion to negotiate over it.” Overseas Educ. Ass’n v. FLRA, 
+827 F.2d 814, 818 (D.C. Cir. 1987); accord Indiana Air Nat’l 
+Guard v. FLRA, 712 F.2d 1187, 1189 n.1 (7th Cir. 1983)."° 
+
+The FLRA suggests (Br. 39) that its contrary position, 
+which would compel an agency to bargain about such clauses, 
+is somehow necessary to avoid limiting “the universe of bar- 
+gainable matters * * * to preexisting statutory entitle- 
+ments.” That is simply wrong. Countless issues concerning 
+“conditions of employment” arise in the public sector, and a 
+great many of those issues have never been the subject of a 
+statutory policy judgment. That is particularly true of pri- 
+mary issues about substantive workplace conditions, as dis- 
+tinguished from issues concerning the structure of bargain- 
+ing itself, which the Statute resolves in many important re- 
+
+
+19 A proposal is negotiable only if it “is consistent as drafted with 
+applicable law and regulations,” Jndiana Air Nat'l Guard, 712 F.2d at 
+1189 n.1 (emphasis added), and thus “[tJhe fact that the scope of the pro- 
+posal could be narrowed in the bargaining process is immaterial,” 
+Overseas Educ. Ass’n, 827 F.2d at 818. For that reason, this case does not 
+present the question whether a substantially narrower midterm 
+bargaining clause would be negotiable if it did not commit an employer to 
+the open-ended midterm bargaining obligation that Congress deliberately 
+repudiated. 
+
+
+44 
+
+
+spects. Cf. BATF, 464 U.S. at 107 n.17 (speculating, in dicta, 
+that parties could “presumably” bargain about certain travel 
+and per diem payments, which were not required by statute, 
+but which had been historically permitted in some circum- 
+stances and had not been generally disfavored (see id. at 100- 
+101 n.11, 106)). This case presents an issue that the Statute 
+does resolve, and the FLRA lacks authority to seek a con- 
+trary resolution, whether directly (by misinterpreting the 
+Statute’s bargaining provisions) or indirectly (through mid- 
+term bargaining clauses). See id. at 108. 
+
+B. Even absent a midterm change in working conditions, 
+employers and unions are free to engage in midterm bar- 
+gaining on particular issues to the extent both parties agree 
+to do so at the time of the bargaining. Such voluntary nego- 
+tiations do not create any open-ended bargaining obligation 
+at all, much less a miniature replica of the bargaining regime 
+that Congress deemed appropriate only for the private sec- 
+tor. Because such negotiations are wholly volitional for both 
+parties, neither can demand that the other bargain to im- 
+passe or submit to the FLRA’s impasse procedures. See 
+generally Department of Commerce, Patent & Trademark 
+Office, 53 F.L.R.A. 858, 870-875 (1997); see also note 21, in- 
+fra. Just as important, because neither party can force the 
+other to engage in midterm bargaining (except where an 
+agency changes the conditions of employment), and because 
+either can simply walk away from any such bargaining, the 
+mere possibility that such bargaining might occur gives the 
+union no incentive to “hold [a] matter off until the term 
+agreement is done and then initiate the proposal as part of a 
+single-issue negotiation where it is not as likely to suffer 
+from a tradeoff among issues.” Catalyst, supra, at 411. In 
+short, whereas the enforcement of expansive midterm bar- 
+gaining clauses “encourage[s] dispersal of the collective bar- 
+gaining process,” JRS I, 17 F.L.R.A. at 736-737, the prospect 
+of voluntary midterm negotiations on particular topics is en- 
+
+
+45 
+
+
+tirely consistent with the congressional policy judgment un- 
+derlying this statutory scheme. 
+
+The FLRA suggests (Br. 45-46) that, because an agency 
+employer may engage in such negotiations, it must also have 
+the power to commit itself contractually to do so. From that 
+initial premise, the FLRA concludes (ibid.) that the em- 
+ployer must therefore negotiate about whether to make such 
+a contractual commitment; it reasons that “where an agency 
+has discretion under law to act with respect to conditions of 
+employment, it has an obligation to bargain over the exercise 
+of that discretion.” Jbid.” The initial premise, on which the 
+argument rests, is false. Although an agency employer does 
+have discretion to engage in voluntary midterm bargaining 
+on particular issues as they arise, it has no discretion to bind 
+itself in advance to such bargaining in the future on a uni- 
+verse of possible issues. Having no discretion to make such a 
+commitment, the agency cannot be compelled to bargain 
+about it. In drawing its contrary conclusion, the FLRA has 
+conflated two very different things: individualized, voluntary 
+discussions that the parties agree to have when they have 
+them, and an agency’s advance commitment to bargain to 
+impasse whenever a union wishes to address any issue it did 
+not raise in the underlying term negotiations. But that dis- 
+tinction is critical, because, as just discussed, the latter 
+threatens a congressional policy judgment, whereas the for- 
+mer does not. 
+
+
+20° The single lower court decision from which the FLRA (Br. 45-46) 
+and petitioner NFFE (Br. 30-31) would derive the latter proposition—De- 
+partment of the Treasury v. FLRA, 836 F.2d 1381 (D.C. Cir. 1988)— 
+upheld the FLRA’s application of similar reasoning to a particular 
+bargaining issue, but did not hold that the proposition is always valid as a 
+categorical matter. See id. at 1384-1385 (upholding duty to bargain about 
+payment of travel expenses in light of “the past interpretations of [a 
+different federal statute] permitting agencies to pay for travel in this 
+context”). 
+
+
+46 
+
+
+In this context, the FLRA’s negotiability analysis oper- 
+ates only as a device to subvert Congress’s view on a subject 
+comprehensively addressed by the Statute itself: the basic 
+structure of public-sector bargaining. Indeed, the FLRA’s 
+decisions in other contexts comport with a distinction 
+between “contract provisions which establish or define 
+specific conditions of employment,” which are generally 
+mandatory subjects of bargaining, and “provisions restrict- 
+ing or modifying the collective bargaining system provided 
+for in the Statute,” over which an agency may not be forced 
+to bargain. FAA Northwest Mountain Region, 14 F.L.R.A. 
+644, 647-648 (1984); cf. FAA, Washington, D.C., 20 F.L.R.A. 
+273, 287-288 (1985)."" Here, even if individual agency em- 
+ployers had discretion to depart from Congress’s considered 
+rejection of open-ended midterm bargaining commitments 
+(which they do not), the FLRA may not itself systematically 
+short-circuit that judgment throughout the federal 
+government by using the statutory impasse procedures to 
+impose its counterstatutory collective bargaining regime on 
+unwilling agencies. That would “constitute[] an unauthor- 
+ized assumption by the agency of a major policy decision 
+properly made by Congress,” BATF, 464 U.S. at 108 
+(internal quotation marks and brackets omitted), and it 
+would violate the FLRA’s most basic instruction: to 
+
+
+“1 The FLRA suggests (Br. 46 n.20) that an issue must be a topic of 
+mandatory bargaining unless it falls within the scope of an explicit 
+exemption, such as those set forth in the management rights provision of 
+Section 7106(a). But those exemptions focus on primary, substantive 
+conditions of employment, not on the structure of bargaining itself. The 
+inclusion of those exemptions cannot plausibly be read to imply anything 
+about the negotiability of second-order topics of bargaining such as the 
+availability of further bargaining during a contractual term. See FAA 
+Northwest Mountain Region, 14 F.L.R.A. at 648 (“permissive” subjects 
+include not just “those matters which are excepted from the obligation to 
+negotiate by section 7106(b)(1),” but also “those matters which are 
+[otherwise] outside the required scope of bargaining under the Statute”). 
+
+
+47 
+
+
+interpret this statute “in a manner consistent with the 
+
+
+requirement of an effective and efficient Government.” 
+5 U.S.C. 7101(b). 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+FRANK W. HUNGER 
+Assistant Attorney General 
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+JONATHAN E. NUECHTERLEIN 
+
+
+Assistant to the Solicitor 
+General 
+
+
+WILLIAM KANTER 
+ROBERT M. LOEB ao 
+SUSHMA SONI 
+
+
+Attorneys 
+
+
+SEPTEMBER 1998 
+
+

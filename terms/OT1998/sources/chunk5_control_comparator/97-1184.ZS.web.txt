@@ -1,0 +1,50 @@
+Federal Employees v. Department of the Interior, 526 U.S. 86 (1999) (https://www.law.cornell.edu/supct/html/97-1184.ZS.html)
+citeturn17view0 [wordlim: 200] Crawled: 3 weeks ago; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/97-1184.ZS.html","lineno":null}); Total lines: 47
+L0: SUP>【0†*】">
+L1: 
+L2: FEDERAL EMPLOYEES v. DEPARTMENT OF INTERIOR (97-1184)
+L3: 132 F.3d 157, vacated and remanded.
+L4: Syllabus  | Opinion
+L5: [ Breyer ]  | Dissent
+L6: [ O'Connor ]
+L7: --- | --- | ---
+L8: 【1†HTML version】
+L9: 【2†PDF version】  | 【3†HTML version】
+L10: 【4†PDF version】  | 【5†HTML version】
+L11: 【6†PDF version】
+L12: 
+L13: * * *
+L14: 
+L15: Syllabus
+L16: NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+L17: The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+L18: See United States v. Detroit Timber & Lumber Co., 【7†200 U.S. 321】, 337.
+L19: 
+L20: SUPREME COURT OF THE UNITED STATES
+L21: ### NATIONAL FEDERATION OF FEDERAL EMPLOYEES, LOCAL 1309 v. DEPARTMENT OF THE INTERIOR et al.
+L22: #### CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+L23: 
+L24: * * *
+L25: 
+L26: No. 97—1184. Argued November 9, 1998–Decided March 3, 1999^{【0†*】}
+L27: 
+L28: * * *
+L29: As relevant here, the Federal Service Labor-Management Relations Statute (Statute) requires federal agencies and their employees’ unions to “meet and negotiate in good faith for the purposes of arriving at a collective bargaining agreement,” 【8†5 U.S.C. § 7114】(a)(4); and creates the Federal Labor Relations Authority, giving it broad adjudicatory, policymaking, and rulemaking powers to implement the Statute, §§7104, 7105.
+L30: The Authority initially held that §7114(a)(4)’s good-faith-bargaining requirement does not extend to union-initiated proposals during the term of the basic contract. The D. C. Circuit disagreed, and in response, the Authority reversed its position.
+L31: In this suit, a federal employees’ union proposed including in its basic contract with a subagency of the Department of the Interior (Agency) a provision obligating the Agency to negotiate, at the union’s request, about midterm matters not in the original contract. Relying on the Fourth Circuit’s view that union-initiated midterm bargaining is inconsistent with the Statute, the Agency refused to accept, or bargain about, the proposed clause. However, the Authority ordered the Agency to bargain.
+L32: The Fourth Circuit set aside that order, holding that the Statute prohibits such a provision.
+L33: Held: The Statute delegates to the Authority the legal power to determine whether parties must engage in midterm bargaining or bargaining about midterm bargaining. Pp. 5—15.
+L34: (a) The Statute itself does not resolve the midterm bargaining question. Section 7114(a)(4)’s language is sufficiently ambiguous or open on the point as to require judicial deference to reasonable interpretation or elaboration by the agency charged with the Statute’s execution. Such ambiguity is inconsistent both with the Fourth Circuit’s absolute reading that the Statute prohibits midterm bargaining and with the D. C. Circuit’s similarly absolute, but opposite, reading.
+L35: It is perfectly consistent, however, with the conclusion that Congress delegated to the Authority the power to determine whether, when, where, and what sort of midterm bargaining is required. This conclusion is supported by the Statute’s delegation of rulemaking, adjudicatory, and policymaking powers to the Authority and by precedent recognizing the similarity of the Authority’s public-sector and the National Labor Relations Board’s private-sector roles, see Bureau of Alcohol, Tobacco and Firearms v.
+L36: FLRA, 【9†464 U.S. 89】, 97. Pp. 5—13.
+L37: (b) For similar reasons, the Statute also grants the Authority leeway in answering the question whether an agency must bargain endterm about including in the basic labor contract a midterm bargaining clause. The Authority’s judgment that the parties must bargain over such a provision was occasioned by the D. C. Circuit’s holding that the Statute imposes a duty to bargain midterm.
+L38: Since the Statute does not resolve the question of midterm bargaining, nor the related question of bargaining about midterm bargaining, the Authority should have the opportunity to consider these questions aware that the Statute permits, but does not compel, the conclusions it reached. Pp. 13—15.
+L39: 132 F.3d 157, vacated and remanded.
+L40: 
+L41: Breyer, J., delivered the opinion of the Court, in which Stevens, Kennedy, Souter, and Ginsburg, JJ., joined. O’Connor, J., filed a dissenting opinion, in which Rehnquist, C. J., joined, and in which Scalia and Thomas, JJ., joined as to Part I.
+L42: 
+L43: * * *
+L44: ## Notes
+L45: 
+L46: 【10†1.】 * Together with No. 97—1243, Federal Labor Relations Authority v. Department of the Interior et al., also on certiorari to the same court.
+

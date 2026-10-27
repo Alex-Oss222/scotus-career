@@ -1,0 +1,2718 @@
+¢ 
+
+
+JF 
+’ re, 
+
+
+j 
+
+
+ORIGINAL FILED 
+wy) MAR 1 6 1998 
+No. 97-7164 , 
+CLERK 
+IN THE SUPREME COURT OF THE UNITED STATES 
+OCTOBER TERM, 1997 
+FRANCOIS HOLLOWAY, PETITIONER 
+Vv. 
+UNITED STATES OF AMERICA 
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+SETH P. WAXMAN 
+lic 
+JOHN C. KEENEY 
+Acting Assistant Attorney General 
+DEBORAH WATSON 
+Attorney 
+Department of Justice 
+Washi -0 
+(202) 514-2217 
+
+
+e © 
+QUESTION PRESENTED 
+Whether a jury may find that a defendant acted "with the 
+intent to cause death or serious bodily harm" for purposes of the 
+federal carjacking statute, 18 U.S.C. 2119, if it finds that the 
+
+
+defendant intended to cause death or serious harm if the victim 
+
+
+refused to comply with his demands. 
+
+
+(I) 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+OCTOBER TERM, 1997 
+
+
+No. 97-7164 
+FRANCOIS HOLLOWAY, PETITIONER 
+Vv. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES IN OPPOSITION 
+
+
+OPINION BELOW 
+The opinion of the court of appeals (Pet. App. la-23a) is 
+reported at 126 F.3d 62. The opinion of the district court (Pet. 
+App. 25a-32a) is reported at 921 F. Supp. 155. 
+JURISDICTION 
+The judgment of the court of appeals was entered on September 
+16, 1997. The petition for a writ of certiorari was filed on 
+December 12, 1997. The jurisdiction of this Court is invoked under 
+28 U.S.C. 1254(1). 
+STATEMENT 
+Following a jury trial in the United States District Court for 
+
+
+the Eastern District of New York, petitioner was convicted of 
+
+
+2 
+
+conspiracy to operate a "chop shop" in violation of 18 U.S.C. 371; 
+operating a chop shop, in violation of 18 U.S.C. 2322; three counts 
+of carjacking, in violation of 18 U.S.C. 2119; and three counts of 
+using a firearm during and in relation to a crime of violence, in 
+violation of 118 U.S.C. 924(c). He was sentenced to concurrent 
+prison terms of 60 months for conspiracy, 151 months for operation 
+of the chop shop, and 151 months for each count of carjacking; a 
+consecutive term of five years’ imprisonment on the first firearms 
+count; and two additional consecutive 20-year terms on the two 
+remaining firearms counts. The district court also imposed a five- 
+year term of supervised release. The court of appeals affirmed. 
+Pet. App. la-23a. 
+
+1. In September 1994, Teddy Arnold recruited his son, Vernon 
+Lennon, to steal cars to be taken to a Queens, New York "chop shop" 
+for dismantling. Lennon, in turn, recruited petitioner and David 
+Valentine to assist him. The three agreed that they should use a 
+“firearm during their thefts, and Lennon showed the others a .32- 
+caliber revolver for that purpose. Pet. App. 3a. 
+
+On October 14, 1994, petitioner and Lennon followed a 1992 
+Nissan Maxima driven by 69-year-old Stanley Metzger. When Metzger 
+stopped and parked across from his residence, Lennon approached, 
+pointed his gun at Metzger, and demanded Metzger’s car keys. 
+Metzger first gave Lennon his house keys, but Lennon demanded the 
+car keys, telling Metzger "I have a gun. I am going to shoot." 
+Metzger then surrendered his keys and his money, and Lennon drove 
+
+
+away in the Maxima. Pet. App. 3a-4a. 
+
+
+ae ] 
+3 
+
+The following day, Lennon and petitioner followed a 1991 
+Toyota Celica driven by Donna DiFranco. When DiFranco parked, 
+Lennon approached her, pointed his gun at her, and demanded her 
+money and car keys. After DiFranco disengaged the car alarm and 
+unlocked the "club" device that secured the steering wheel, Lennon 
+drove off in her car. Pet. App. 4a. 
+
+That same day, Lennon and petitioner followed a 1988 Mercedes- 
+Benz driven by Ruben Rodriguez until Rodriguez parked near his 
+home. As Lennon and petitioner approached him, Rodriguez retreated 
+to his car. Lennon produced his gun and threatened: "Get out of 
+the car or I’ll shoot." Rodriguez complied, and Lennon demanded 
+his money and car keys. When Rodriguez hesitated, petitioner 
+punched him in the face. Rodriguez surrendered the items and fled 
+on foot. Lennon drove off in the Mercedes, and petitioner followed 
+in another car. Pet. App. 4a. 
+
+Lennon pleaded guilty to several carjacking and robbery 
+charges and testified as a government witness at trial. Lennon 
+testified that his plan was to steal cars without harming the 
+victims, but that he would have used the gun if any of the victims 
+had resisted or given him “a hard time." Pet. App. 5a. 
+
+Petitioner was charged with a variety of offenses. See pages 
+1-2, Supra. With respect to carjacking, the district court in- 
+structed the jury that in order to find petitioner guilty it must 
+find that his “intent in committing the crime [was] to cause death 
+or serious bodily harm." Tr. 336. Over the objection of defense 
+
+
+counsel, the court also instructed the jury that, under a theory of 
+
+
+e © 
+4 
+
+“conditional” intent, it could find petitioner guilty if it found 
+that he “intended to cause death or serious bodily harm if the 
+alleged victims had refused to turn over their cars." Pet. App. 
+6a, lla; Tr. 336-337.’ The jury convicted petitioner on all 
+counts. 
+
+2. The court of appeals affirmed. Pet. App. la-18a. With 
+
+
+respect to the district court’s “conditional intent" instruction, 
+
+
++ The court gave the following instructions (Tr. 336-337): 
+
+
+The defendant's intent in committing the crime must have 
+been to cause death or serious bodily harm. I remind you that 
+intentional conduct is done willfully, with a bad purpose to 
+do something the law forbids, in this case, to cause death or 
+serious bodily harm to the person from whom the car was taken. 
+
+
+It is the defendant's theory of the case that the evi- 
+dence fails to prove that he acted with intent to cause death 
+or serious bodily harm. 
+
+
+Evidence that the defendant intended to use a gun to 
+frighten the victims is not sufficient in and of itself to 
+prove an intent to kill or cause serious bodily harm. It is, 
+however, one of the facts you may consider in determining 
+whether the government has met its burden. 
+
+
+You may also consider the fact that no victim was 
+actually killed or seriously injured when you consider the 
+evidence or lack of evidence as to the defendant’s intent. 
+
+
+In some cases, intent is conditional. That is, a de- 
+fendant may intend to engage in certain conduct only if a 
+certain event occurs. 
+
+
+In this case, the government contends that the defendant 
+intended to cause death or serious body harm if the alleged 
+victims had refused to turn over their cars. If you find be- 
+yond a reasonable doubt that the defendant had such an intent, 
+the government has satisfied this element of the offense. 
+
+
+If you find that the co-defendant, Vernon Lennon, acted 
+with the intent to cause death or serious bodily injury, that 
+is not sufficient. You must find that the defendant shared in 
+poe 7 pas before you can conclude that this element has been 
+satis ° 
+
+
+@ © 
+5 
+
+the court first reviewed the history of 18 U.S.C. 2119. Id. at 8a- 
+lla. It noted that before 1994, Section 2119 required proof that 
+a defendant possessed a firearm in connection with a carjacking, 
+but imposed no explicit intent requirement. In 1994, Congress 
+amended the statute to authorize imposition of the death penalty if 
+a carjacking resulted in death, and to delete the phrase 
+“possessing a firearm." The court remarked that the present 
+language requiring “intent to cause death or serious bodily harm” 
+was inserted late in the legislative process, without recorded 
+explanation. Id. at 9a. The court nonetheless thought it “clear 
+from * * * the legislative history that Congress intended to 
+broaden the coverage of the federal carjacking statute," and it 
+speculated that application of the new intent requirement to cases 
+not involving the death of a victim “was, in all likelihood, an 
+unintended drafting error." Pet. App. 9a-10a. The court 
+“decline(d]," however, “any invitation to redraft the statute,” and 
+instead considered whether the new intent element could be 
+satisfied by proof of “conditional” intent to kill or harm a victim 
+only if it proved necessary to do so in order to effectuate the 
+carjacking. Id. at 10a. 
+
+The court rejected (Pet. App. 12a) petitioner's argument that 
+“conditional” intent involved “no more than a state of mind where 
+death is a foreseeable event.” In the court’s view, "conditional 
+intent requires a much more culpable mental state," because " (a) 
+carjacker who plans to kill or use deadly force on a victim in the 
+
+
+event that his victim fails to comply with his demands has engaged 
+
+
+6 
+in willful and deliberate consideration of his actions." Ibid. 
+Under those circumstances, the court explained, "death is more than 
+merely foreseeable, it is fully contemplated and planned for.” 
+Ibid. 
+
+The court observed that "the inclusion of a conditional intent 
+to harm within the definition of specific intent to harm is a well- 
+established principle of criminal common law" (Pet. App. 13a), 
+supported by state statutory and case law, academic commentary, and 
+the Model Penal Code (see id. at 13a-15a). “Furthermore, and most 
+importantly,” the court concluded that “incorporating conditional 
+intent within the specific intent language of the carjacking 
+statute comports with a reasonable interpretation of the 
+legislative purpose of the statute." Jd. at 15a. Rejecting an 
+interpretation that “would have the federal carjacking statute 
+covering only those carjackings in which the carjacker’s sole and 
+unconditional purpose at the time he committed the carjacking was 
+to kill or maim the victim," the court held instead that "an intent 
+to kill or cause serious bodily harm conditioned on whether the 
+victim selingsiches his or her car is sufficient to fulfill the 
+intent requirement set forth in the federal carjacking statute." 
+Id. at 15a-1l6a.’ 
+
+Judge Miner dissented. Pet. App. 18a-23a. In his view, there 
+
+
+was "no basis in the plain language of [Section 2119] or in the 
+
+
+* The court also rejected petitioner’s further claims that he 
+
+
+had received ineffective assistance of counsel and that the trial 
+court had erred in imposing consecutive sentences with respect to 
+his firearms offenses. Pet. App. l6a-17a. Petitioner does not 
+renew those claims in this Court. 
+
+
+a al 
+
+
+* 
+legislative history for an element of conditional intent." Id. at 
+18a. Rather, Judge Miner concluded that "(t]he intent required is 
+spelled out explicitly in the statute," and that any common-law 
+interpretation of that requirement lay beyond the power of courts 
+applying federal criminal law. Jd. at 23a. He would therefore 
+have reversed petitioner's convictions and remanded for retrial. 
+ibid. 
+ARGUMENT 
+
+Petitioner contends (Pet. 9-16) that in order to prove 
+carjacking in violation of 18 U.S.C. 2119 the government must show 
+that the defendant acted with the "purposeful objective" (Pet. 10) 
+of causing death or serious bodily harm while taking the victim's 
+car, whether or not the victim offered any resistance. This Court 
+has recently denied review in two cases involving the same issue, 
+and there is no reason for a different result here. See Anderson 
+v. United States, 118 S. Ct. 123 (1997); Fraction v. United States, 
+118 S. Ct. 100 (1997); see also Romero v. United States, petition 
+for cert. pending, No. 97-6863 (filed Nov. 18, 1997). 
+
+1. Section 2119 provides for the punishment of any person who 
+“with the intent to cause death or serious bodily harm takes a 
+motor vehicle * * * from the person or presence of another by force 
+and violence or by intimidation.” As the court of appeals pointed 
+out (Pet. App. 7a-9a), Congress added the “intent” language in 1994 
+in place of the phrase “possessing a firearm as defined in Section 
+
+
+921 of this title." See also United States v. Anderson, 108 F.3d 
+478, 481-482, cert. denied, 118 S. Ct. 123 (1997). That change, 
+
+
+— 
+
+
+8 
+
+which accompanied the addition of authorization to impose the death 
+penalty in cases in which death results, was evidently intended to 
+broaden the statute to cover situations where the carjacker uses a 
+knife or other weapon rather than a firearm. See id. at 481-483; 
+Pet. App. 9a-10a. It would be ironic if the amendment were instead 
+interpreted to narrow the coverage of Section 2119 by excluding 
+cases in which a carjacker would prefer to proceed by intimidation, 
+but intends to use actual force and violence if necessary -- cases 
+that obviously fall within the core purpose of the statute. 
+
+The text does not require that result. The "intent" language 
+added in 1994 need not be read to require any more than that the 
+defendant intentionally undertook actions which posed a serious and 
+unjustifiable risk of death or serious bodily harm to the victim. 
+The conduct involved in most carjackings would, of course, easily 
+satisfy that requirement. It would be the rare crime that met 
+Section 2119’s other criteria, but escaped punishment under that 
+provision because of the extraordinary care taken by the defendant 
+to ensure that his victims would sustain no physical harm. 
+
+
+This case, however, did not require the court of appeals to go 
+
+
+that far in interpreting Section 2119's "intent" requirement. See 
+
+
+Pet. App. 12a (distinguishing "conditional intent" from criminal 
+reckiessness or “depraved indifference"). Nothing in the facts of 
+this case suggests a situation in which the defendant intended not 
+to use force under any circumstances, but nonetheless took actions 
+that presented a serious risk that injury or death would result. 
+
+
+The court here held only that Section 2119 covers the conduct of a 
+
+
+9 
+
+defendant if the jury finds that he was prepared to use deadly 
+force, but was spared the necessity of doing so by the victim's 
+acquiescence in his demands. Pet. App. 15a-1l6a; see also United 
+States v. Williams, 1998 WL 50,191 (8th Cir. Feb. 10, 1998); United 
+States v. Romero, 122 F.3d 1334, 1339 (10th Cir. 1997), petition 
+for cert. pending, No. 97-6863 (filed Nov. 18, 1997); Andersen, 108 
+F.3d at 485. 
+
+As the court of appeals explained (Pet. App. 13a-15a), that 
+interpretation of the meaning of "intent" as used in Section 2119 
+is not only well supported by the common-law understanding of 
+"specific" intent, but also "“comports with a reasonable interpre- 
+tation of the legislative purpose of the statute” (id. at 15a).’ 
+As the court observed (jibid.), it is implausible that Congress 
+
+
+intended the federal carjacking prohibition to cover “only those 
+
+
+* There is no force to petitioner’s argument (Pet. 15-16) 
+
+
+that the court below violated due process by "“expand[ing) the 
+principles of criminal liability which exist in the federal courts" 
+Or attempting to create a "federal common law of crimes." The 
+court merely interpreted the word “intent” as Congress used it in 
+a federal criminal statute. The proper interpretation is, of 
+course, informed by the common-law background against which 
+Congress acted (see, e.g., United States v. Wells, 117 S. Ct. 921, 
+927 (1997)), but the exercise remains one of _ statutory 
+construction. Moreover, there is nothing "novel"(Pet. 15) about 
+the concept of "conditional" intent. See, e.g., United States v. 
+Arrellano, 812 F.2d 1209, 1211 n.2, as amended, 835 F.2d 235 (9th 
+Cir. 1987) ("(C)Jonditional intent is still intent. If, for 
+example, a defendant breaks into a woman’s house intending to rape 
+her if she is there, he has committed a burglary whether or not she 
+is in fact there"); United States v. Marks, 29 M.J. 1, 3 (C.M.A. 
+1989); United States v. Dworken, 855 F.2d 12, 18 (ist Cir. 1988) 
+
+
+(attempt and conspiracy); Shaffer v. United States, 308 F.2d 654 
+(Sth Cir. 1962) (conditional intent to do bodily harm in 
+
+
+prosecution for assault under 18 U.S.C. 113), cert. denied, 373 
+U.S. 939 (1963); People v. Connors, 253 Ill. 266, 272-280 (111. 
+1912); see also W. Lafave and A. Scott, imi 
+
+§ 3.5(d), at 312 (1986); Model Penal Code § 2.02(6). 
+
+
+@ ® 
+10 
+
+carjackings in which the carjacker’s sole and unconditional purpose 
+* * * was to kill or maim the victim." See also Williams, 1998 WL 
+50,191, at *3-*4; Romero, 122 F.3d at 1339 ("Congress did not 
+intend for death or serious bodily injury to be a prerequisite to 
+every carjacking conviction."); Anderson, 108 F.3d at 483. That is 
+especially evident in light of the enhanced penalties that Congress 
+expressly provided for crimes that do result in serious injury or 
+dea~h. Ibid.; see 18 .S.C. 2119 (2) and (3). 
+
+: Similarly, a rule requiring “unconditional” intent to kill or 
+harm would make little sense in light of Section 2119's prohibition 
+against taking a vehicle "by force and violence or by intimidation" 
+(emphasis added). That language makes clear that Congress intended 
+to punish crimes in which successful threats obviate any need for 
+the carjacker to resort to actual force; yet those crimes would lie 
+beyond the reach of the statute under petitioner's proposed require- 
+ment of “unconditional” intent to cause death or bodily harm. 
+Indeed, because it would be difficult to prove such an “uncondi- 
+tional” intent in any case in which the carjacker did not in fact 
+do violence to the victim, petitioner’s argument would essentially 
+read the phrase "or by intimidation" out of Section 2119. 
+
+2. As petitioner points out (Pet. 10-11), there is consider- 
+able tension between the reasoning of the decisions in this case, 
+Williams, Anderson and Romero and that of United States v. Ran- 
+dolph, 93 F.3d 656 (9th Cir. 1996). See also Pet. App. l6éa n.4. 
+In Randolph, the Ninth Circuit stated that a “mere Sontitianal 
+
+
+intent to harm a victim if she resists is simply not enough to 
+
+
+9 @ 
+11 
+satisfy § 2119's new specific intent requirement," and that the 
+government must "prove that the causation of ‘death or serious 
+bodily harm’ was the defendant’s actual intent." 93 F.3d at 665. 
+Both Randolph’s reasoning and its result are incorrect. 
+
+Randolph turned, however, not only on erroneous reasoning, but 
+on unusual facts. As the court explained (see 93 F.3d at 658-659), 
+although Randolph pointed a gun at his victim, she was assured from 
+the outset that she would not be harmed if she did as she was told. 
+Randolph dropped the victim off, unharmed, some way out of town, 
+and he Geniad aay complicity in his accomplices’ decision to pick 
+her up again, drive her further away, and then beat her severely 
+before releasing her. Randolph "consistently denied having any 
+intention to kill or to harm [the victim), and insisted that the 
+group’s plan was merely to rob, not to harm anyone." Id. at 659. 
+Indeed, he specifically claimed that, while he brandished a rifle 
+in order to intimidate the victim, "he had no intention of actually 
+using the firearm, even had she resisted." Ibid. 
+
+Randolph's conviction should have been affirmed, either 
+because his conduct posed a sufficient (and sufficiently obvious) 
+risk of injury or death to satisfy the intent element of Section 
+2119, whatever his own hopes for how the crime would proceed, or 
+because the district court that convicted him was entitled to 
+believe, despite his protestations to the contrary, that he was 
+personally prepared to harm or kill his victim had she resisted his 
+demands. Nonetheless, the facts of the case are so unusual that a 
+
+
+court might have concluded that Randolph’s conduct, in contrast to 
+\ 
+
+
+12 
+that of his accomplices, clearly demonstrated an actual intent to 
+avoid harm to his victim — the rare sort of case that might justify 
+acquittal even under a standard requiring only criminal reckless- 
+ness, and certainly would require acquittal under the "conditional 
+intent" standard applied in this case, Williams, Romero and 
+Anderson. 
+
+It is therefore difficult to predict, based solely on the 
+decision in Randolph, how the Ninth Circuit will approach other 
+carjacking cases with more typical facts, like those at issue here. 
+Compare United States v. Hicks, 103 F.3d_837, 842-844 (9th Cir. 
+1996) (upholding admission under pre-amendment language of evidence 
+concerning rape and murder during course carjacking, and stating 
+that new “intent” language would not change the result), cert. 
+denied, 117 S. Ct. 1483 (1997); United States v. Arrellano, 812 
+F.2d 1209, 1211 n.2, as amended, 835 F.2d 235 (9th Cir. 1987) 
+(although conditional intent to kill victim if she refused request 
+for money might support conviction for transporting firearm with 
+intent to commit a felony, "the jury made no finding as to intent, 
+so we are unable to imply any finding as to conditional intent 
+either"). If that court adheres to Randolph and extends its 
+reasoning to the logical extreme, it may be necessary for this 
+Court to grant review in an appropriate case to correct the error. 
+Review would be premature, however, until the Ninth Circuit has had 
+a chance to consider the relevant issues in a case with more 
+
+
+typical facts, and in light of the intervening decisions in this 
+
+
+case, Williams, Anderson and Romero. 
+
+
+13 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be denied. 
+
+
+Respectfully submitted. 
+
+
+MARCH 1998 
+
+
+SETH P. WAXMAN 
+Solic: : 
+
+
+JOHN C. KEENEY 
+Acti Ass; 
+
+
+DEBORAH WATSON 
+Attorney 
+
+
+APPENDIX 
+
+
+| 
+
+
+| | 
+
+
+. . = 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE SECOND CIRCUIT 
+
+
+No. 1877—August Term, 1996 
+(Argued June 25, 1997 Decided September 16, 1997) 
+Docket No. 96-1563 
+
+
+UNITED STATES OF AMERICA, 
+Appellee, 
+
+
+_—V— 
+
+
+TEDDY ARNOLD; CHARLES ROBINSON; DARREL JONES; 
+DAVID VALENTINE; PAUL SCAGLIONE; and JEFFREY DRAKE, 
+
+
+Defendants, 
+
+
+FRANCOIS HOLLOWAY a/k/a ABDU ALI, 
+Defendant-Appellant. 
+
+
+Before: 
+
+
+MCLAUGHLIN and MINER, Circuit Judges, 
+and SCULLIN, District Judge.' 
+
+
+| The Honorable Frederick J. Scullin, Jr. of the United States District Court 
+for the Northern District of New York, sitting by designation. 
+
+
+6593 
+
+
+Appeal from a judgment entered in the United States Dis- 
+trict Court for the Eastern District of New York (Gleeson, J.) 
+convicting defendant, following a jury trial, of conspiracy to 
+operate a “chop shop,” operation of a chop shop, three counts 
+of carjacking, and three counts of using a firearm in the com- 
+mission of a crime of violence. 
+
+
+Affirmed. 
+
+
+Judge Miner dissents in a Separate opinion. 
+
+
+KEVIN J. KEATING, Esq., Law Office of Kevin J. 
+Keating, Garden City, New York, for Defen- 
+dant-Appellant. 
+
+
+DOLAN L. GARRETT, Assistant United States 
+Attorney, Brooklyn, New York (Zachary W. 
+Carter, United States Attorney, Eastern Dis- 
+trict of New York, Brooklyn, New York, of 
+counsel), for Appellee. 
+
+
+SCULLIN, District Judge: 
+
+
+Defendant-Appeilant Francois Holloway appeals from a 
+judgment entered in the United States District Court for the 
+Eastern District of New York (Gleeson, J.), following a jury 
+trial, convicting Holloway of numerous offenses connected 
+with his participation in several carjackings in Queens, New 
+York. Holloway was convicted of one count of conspiracy to 
+operate a “chop shop” in violation of 18 U.S.C. § 371 (count 
+one); one count of Operating a chop shop in violation of 18 
+
+
+6594 
+
+
+U.S.C. § 2322 (count two); three counts of carjacking in vio- 
+lation of 18 U.S.C. § 2119 (counts seven, nine, and eleven); 
+and three counts of using a firearm in the commission of a 
+crime of violence in violation of 18 U.S.C. § 924(c) (counts 
+eight, ten, and twelve). Holloway was sentenced to 60 
+months on count one; 151 months on count two, to run con- 
+currently with count one; 151 months on each of counts 
+seven, nine, and-eleven, to run concurrently with each other 
+and counts one and two; 5 years on count eight, to run con- 
+secutively; and 20 years each on count ten and count twelve, 
+each to run consecutively. Defendant was also sentenced to 
+terms of supervised release and a special assessment of $400. 
+
+
+On appeal, Holloway contends that: (1) the district court 
+erroneously charged the jury on the intent element of the car- 
+jacking statute; (2) his trial counsel rendered constitutionally 
+ineffective assistance; and (3) the trial court improperly 
+imposed consecutive sentences pursuant to Holloway’s 
+firearm convictions. 
+
+
+BACKGROUND 
+
+
+Holloway’s conviction stems from his involvement in a 
+“chop shop” operation located at 115th Drive in Queens, New 
+York. In September 1994, Teddy Arnold recruited his son, 
+Vernon Lennon, to begin stealing cars to be taken to the chop 
+shop for dismantling. Lennon, in turn, recruited two indi- 
+viduals, David Valentine and Holloway, to assist him in his 
+car thefts. The co-conspirators agreed that they should use a 
+firearm during their thefts, and Lennon showed both Valen- 
+tine and Holloway a .32 caliber revolver he intended to use 
+
+
+for that purpose. 
+
+
+The first charged carjacking involving Holloway and 
+Lennon occurred in October 1994. On October 14, Holloway 
+and Lennon followed a 1992 Nissan Maxima driven by sixty- 
+
+
+6595 
+
+
+nine year-old Stanley Metzger. When Metzger stopped and 
+parked across from his residence, Lennon approached 
+Metzger and pointed his revolver at him, demanding his car 
+keys. At first, Metzger gave his house keys to Lennon, who 
+rejected them and demanded his car keys. Metzger testified 
+that Lennon told him, “I have a gun. I am going to shoot.” 
+Thereafter, Metzger surrendered his keys and also his money, 
+and Lennon drove away in the Maxima. 
+
+
+The following day, Lennon and Holloway followed a 1991 
+Toyota Celica driven by Donna DiFranco. When DiFranco 
+parked, Lennon approached her, leveled his gun at her, and 
+demanded her money and her car keys. After DiFranco dis- 
+engaged the car alarm and unlocked her “club” securing the 
+steering wheel, Lennon drove off in her car. 
+
+
+That same day, Holloway and Lennon followed a 1988 
+Mercedes-Benz driven by Ruben Rodriguez until he parked 
+near his home at Jamaica Estates. Both Lennon and Holloway 
+approached the driver this time. Rodriguez, sensing some- 
+thing was wrong, retreated to his car. Lennon produced his 
+gun and threatened, “Get out of the car or I'll shoot.” 
+Rodriguez complied and Lennon demanded his money and 
+car keys. When Rodriguez hesitated, Holloway punched him 
+in the face. Rodriguez surrendered the items and fled on foot, 
+yelling for help. Lennon drove off in the Mercedes, and Hol- 
+loway followed in another car. 
+
+
+At trial, the Government also presented evidence of two 
+additional uncharged carjackings involving Lennon and Hol- 
+loway. One involved the theft of a 1987 Nissan Maxima 
+which was stolen from Betty Eng as she parked in her drive- 
+way on October 12, 1994. The other uncharged carjacking 
+occurred on October 19, 1994. On that day, Holloway and 
+Lennon attempted to steal a 1994 Nissan Sentra from Sara 
+Markett when she parked her car on 193rd Street in Queens. 
+
+
+6596 
+
+
+Lennon threatened Markett, telling her, “Give me your keys 
+or I will shoot you right now.” Thereafter, Markett surren- 
+dered her keys and ran screaming into a nearby hair salon. 
+The theft was foiled by an off-duty police officer, Adam 
+Lamboy, who happened to be in the hair salon at that time. 
+Upon seeing Lennon in Markett’s car, Lamboy yelled, 
+“Police, don’t move.” Lennon made a motion toward his 
+
+
+waist band prompting Lamboy to draw his weapon. Lennon | 
+
+
+then fled to a red Toyota driven by Holloway, and the two 
+escaped. 
+
+
+On November 22, 1994, two of the carjacking victims, 
+Ruben Rodriguez and Sara Markett, identified Holloway as 
+one of the carjackers in a police line-up. Following his iden- 
+tification, Holloway confessed to the police that he had par- 
+ticipated with Lennon in three carjackings involving a silver 
+Mercedes-Benz, a black Nissan Maxima, and a gray Nissan. 
+Immediately prior to trial, Lennon pled guilty to several car- 
+jacking charges and eight automatic teller machine (“ATM”) 
+robberies. Thereafter, Lennon testified at trial as a govern- 
+ment witness. Lennon testified as to the events set forth in 
+the above carjackings, as well as seven additional carjackings 
+in which he participated with Valentine. Lennon testified that 
+his plan was to steal the victims’ cars without harming the 
+victims; however, Lennon also testified that he would have 
+used the gun if one of the victims had given him “a hard 
+time” or had resisted. 
+
+
+The Government also presented testimony at trial from 
+Rodriguez, Metzger, DiFranco, Eng, and Lamboy. These wit- 
+nesses presented factually consistent testimony depicting the 
+various Carjackings as set forth above. With the exception of 
+Rodriguez, none of the victims was injured during the course 
+
+
+of the carjackings, and Rodriguez did not require medical 
+attention. 
+
+
+Ss ? 25 5> 
+
+
+The defense declined to call any witnesses. Over the objec- 
+tion of defense counsel, Judge Gleeson charged the jury on 
+the doctrine of conditional intent, as it applied to the intent 
+element for the carjacking offenses. Judge Gleeson instructed 
+the jury that an intent to cause death or serious bodily harm 
+conditioned on whether the victims surrendered their cars 
+was sufficient to satisfy the specific intent requirement of the 
+statute. As stated, the jury found Holloway guilty on all eight 
+counts charged in the indictment. 
+
+
+Following the verdict, Holloway moved for a new trial pur- 
+suant to Rule 33 of the Federal Rules of Criminal Procedure, 
+or in the alternative, for reconsideration of his unsuccessful 
+Rule 29 motion. See United States v. Holloway, 921 F. Supp. 
+155, 156 (E.D.N.Y. 1996). Holloway argued that the Court 
+erred in charging the jury on conditional intent in light of the 
+carjacking statute’s unambiguous specific intent requirement, 
+which requires a carjacker to have the intent to cause death 
+or serious bodily harm in order to be culpable. 
+
+
+In a decision issued on April 5, 1996, Judge Gleeson 
+denied Holloway’s post-trial motion. On August 16, 1996, 
+Holloway was sentenced, and, on August 28, 1996, judgment 
+of conviction was entered. This appeal followed. 
+
+
+DISCUSSION 
+
+
+Holloway raises three issues on appeal: (1) whether Judge 
+Gleeson erred in instructing the jury on “conditional intent”; 
+(2) whether the performance of Holloway’s trial counsel was 
+constitutionally deficient so as to require reversal and a new 
+trial; and (3) whether Judge Gleeson abused his discretion by 
+sentencing Holloway to consecutive sentences pursuant to 18 
+U.S.C. § 924(c). 
+
+
+6598 
+
+
+© 1 @ 
+
+
+I. Conditional Intent Instruction 
+
+
+Holloway maintains that Judge Gleeson committed 
+reversible error by charging the jury on the doctrine of “con- 
+ditional intent.” Holloway contends that: (1) the federal car- 
+jacking statute clearly and unambiguously requires that a 
+defendant possess a specific intent to cause death or serious 
+bodily harm (hereinafter “specific intent to kill”), and (2) 
+conditional intent, by definition, does not satisfy this require- 
+ment. ; 
+
+
+A. 1994 Amendments to the Carjacking Statute 
+
+
+Holloway argues that the statute, as amended, is clear and 
+unambiguous on its face, thus preventing the trial court, or 
+this Court for that matter, from inquiring into the intent of 
+Congress or ascribing some alternate construction of the 
+statute based on any perceived error in drafting. See Rubin v. 
+United States, 449 U.S. 424, 430, 66 L. Ed. 2d 633, 101 S. 
+Ct. 698 (1981). 
+
+
+Prior to the 1994 Amendments, the federal carjacking 
+statute, 18 U.S.C. § 2119, read as follows: 
+
+
+Whoever, possessing a firearm as defined in section 921 
+of this title, takes a motor vehicle that has been trans- 
+ported, shipped, or received in interstate or foreign com- 
+merce from the person or presence of another by force 
+and violence or by intimidation, or attempts to do so, 
+shall— 
+
+
+(1) be fined under this title or imprisoned not more 
+than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in section 1365 
+of this title, including any conduct that, if the conduct 
+occurred in the special maritime and territorial juris- 
+diction of the United States, would violate section 2241 
+
+
+6599 
+
+
+or 2242 of this title) results, be fined under this title or 
+imprisoned not more that 25 years, or both, and 
+
+
+(3) if death results, be fined under this title or impris- 
+oned for any number of years up to life, or both. 
+
+
+The Violent Crime Control and Law Enforcement Act of 
+1994 amended this statute in the following manner: 
+
+
+(14) CARJACKING. —Section 2119(3) of title 18, United 
+States Code, is amended by striking the period after 
+“both” and inserting “, or sentenced to death.”; and by 
+striking “, possessing a firearm as defined in section 921 
+of this title,” and inserting “, with the intent to cause 
+death or serious bodily harm”. 
+
+
+Pub. L. 103-322, § 60003(a)(14). With these revisions, the 
+statute now reads: 
+
+
+Whoever, with the intent to cause death or serious bod- 
+ily harm takes a motor vehicle that has been transported, 
+shipped, or received in interstate or foreign commerce 
+from the person or presence of another by force and vio- 
+lence or by intimidation, or attempts to do so, shall— 
+
+
+(1) be fined under this title or imprisoned not more 
+than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in section 1365 
+of this title, including any conduct that, if the conduct 
+occurred in the special maritime and territorial juris- 
+diction of the United States, would violate section 2241 
+or 2242 of this title) results, be fined under this ttle or 
+imprisoned not more that 25 years, or both, and 
+
+
+(3) if death results, be fined under this title or impris- 
+oned for any number of years up to life, or both, or sen- 
+tenced to death. 
+
+
+18 U.S.C. § 2119 (1997) (emphasis added). 
+6600 
+
+
+The amendments to the carjacking statute contained in the 
+Violent Crime Control and Enforcement Law Act of 1994 
+came about as an attempt to expand the number of federal 
+crimes subject to the death penalty. See 140 Cong. Rec. 
+E857-03 (statement of Rep. Franks); 140 Cong. Rec. $12421- 
+O01, S$12458 (statement of Sen. Nunn); 139 Cong. Rec. 
+$15295-01, 15301 (statement of Sen. Lieberman). The thrust 
+of the various early versions of the amendments was to add 
+the death penalty as a sentencing option when death resulted 
+from a carjacking, and also, in some versions, to eliminate 
+the firearm requirement. See H.R. 4197, 103d Cong. § 125(h) 
+(1994) (removed firearm requirement and added death 
+penalty); H.R. 3355, 103d Cong. § 203(a)(15) (1993) (version 
+as of October 19, 1993 removed the firearm requirement and 
+added death penalty); H.R. 3355, 103d Cong. § 703(e) (1994) 
+(version as of April 21, 1994 added the death penalty only). 
+Congressional opposition to the amendments coalesced into 
+two camps: those who opposed the death penalty in general, 
+and those who opposed the expansion of federal criminal 
+jurisdiction. See 140 Cong. Rec. $12309-02, $12311 (state- 
+ment of Sen. Leahy contained in Conference Report on H.R. 
+3355); 140 Cong. Rec. H2322-02, H2325 (statement by Rep. 
+Glickman on amendment introduced by Rep. Scott to remove 
+the death penalty addition to the Violent Crime Control Act). 
+
+
+The insertion of the heightened intent requirement at issue 
+here occurred at a relatively late stage in the legislative pro- 
+cess—while the Act was under consideration in Conference 
+Committee in the summer of 1994. See 140 Cong. Rec. 
+H8772-03, H8819, H8872 (Conference Report on H.R. 3355 
+dated August 21, 1994). On September 13, 1994, the Act was 
+signed into law. There is no indication in the Congressional 
+Record as to the purpose of the late-added heightened intent 
+requirement. However, it is clear from a review of legislative 
+history that Congress intended to broaden the coverage of the 
+
+
+6601 
+
+
+® ~ e 
+
+
+federal carjacking statute by the passage of the 1994 amend- 
+ments, and that the application of the heightened intent 
+requirement to all three of the carjacking categories was, in 
+all likelihood, an unintended drafting error. See 139 Cong. 
+Rec. $15295-01, 15301 (statement of Sen. Lieberman) (“This 
+amendment will broaden and strengthen that law so our U.S. 
+attorneys have every possible tool available to them to attack 
+the problem.”); 140 Cong. Ret. E857-03, E858 (extension of 
+remarks by Rep. Franks) (“We must send a message to the 
+criminal that committing a violent crime will carry a severe 
+penalty. This legislation will make an additional 22 crimes 
+including carjacking and drive-by shootings, subject to the 
+death penalty.”). 
+
+
+At least two courts have speculated that Congress probably 
+intended the heightened intent requirement to apply only to 
+cases where the carjacking resulted in death, that is, those 
+cases falling under § 2119(3). See United States v. Anderson, 
+108 F.3d 478, 482-83 (3d Cir. 1997), petition for cert. filed 
+(U.S., June 3, 1997) (No. 96-9338); Holloway, 921 F. Supp. 
+at 158. But see United States v. Randolph, 93 F.3d 656, 660- 
+61 (9th Cir. 1996). In support of this interpretation, these 
+courts point to the initial wording of the 1994 amendment, 
+“Section 2119(3) of title 18, United States Code, is amended 
+by .... ,.” as limiting language for the two specific 
+changes set forth within. See Anderson, 108 F.3d 378-79 
+(quoting Pub. L. No. 103-322, § 60003(a)(14) (emphasis 
+added); see also Holloway, 921 F. Supp. at 158. 
+
+
+Regardless of the actual intent of Congress in adding this 
+amendment, the practical effect of adding this requirement ts 
+to severely limit the scope of conduct covered by the statute. 
+The addition of the heightened intent requirement into the 
+body of the carjacking statute limits federal jurisdiction over 
+all carjacking offenses to only those in which death or seri- 
+ous bodily harm was intended. Notwithstanding that such a 
+
+
+6602 
+
+
+@ 11a @ 
+
+
+result was unintended, the Court declines any invitation to 
+redraft the statute—that is a task better left to the legisla- 
+ture.? Thus, the sole issue this Court must decide is whether 
+the “specific intent to kill,” as now reflected in 18 U.S.C. 
+
+
+§ 2119, encompasses a conditional intent, as defined by 
+Judge Gleeson in his instruction to the jury. 
+
+
+B. Judge Gleeson’s Instruction 
+
+
+In his instruction to the jury, Judge Gleeson charged, in 
+relevant part: 
+
+
+Evidence that the defendant intended to use a gun to 
+frighten the victims is not sufficient in and of itself to 
+prove an intent to kill or cause serious bodily harm. It is, 
+however, one of the facts you may consider in deter- 
+mining whether the government has met its burden. 
+
+
+You may also consider the fact that no victim was 
+actually killed or seriously injured when you consider 
+
+
+the evidence or lack of evidence as to the defendant's 
+intent. 
+
+
+In some cases, intent is conditional. That is, a defen- 
+
+
+dant may intend to engage in certain conduct only if a 
+certain event occurs. 
+
+
+In this case, the government contends that the defen- 
+dant intended to cause death or serious bodily harm if 
+the alleged victims had refused to turn over their cars. If 
+you find beyond a reasonable doubt that the defendant 
+
+
+had such an intent, the government has satisfied this ele- 
+ment of the offense. 
+
+
+We note that since the 1994 amendments there have been several legislative 
+initiatives introduced in Congress that seek to remove the intent portion of the 
+carjacking statute. See The Violent Crime Control and Law Enforcement Act 
+of 1995, S. 3, 104th Cong. § 717 (1995) (titled “Elimination of Unjustified Sci- 
+enter Element for Carjacking”); Omnibus Crime Control Act of 1997, S. 3, 
+
+
+105th Cong. § 807 (1997) (titled “Elimination of Unjustified Scienter Element 
+for Carjacking”). 
+
+
+6603 
+
+
+@ 12a @ 
+
+
+If you find that the co-defendant, Vernon Lennon, 
+acted with the intent to cause death or serious bodily 
+injury, that is not sufficient. You must find that the 
+defendant shared in that intent before you can conclude 
+that this element has been satisfied. 
+
+
+Holloway argues that the above instruction was erroneous 
+because it allowed the jury to convict him based on or 
+mental state than is required by the carjacking statute. Hol- 
+loway contends that the plain meaning of “specific intent * 
+kill” does not include the lesser mental state of “conditiona 
+intent,” because a conditional intent to kill is no more ory 
+state of mind where death is a foreseeable event and, as suc : 
+is equivalent to a mental state of recklessness OF deprave ; 
+indifference. Holloway contends that such a lesser owe 
+state plainly does not satisfy the intent requirement 0 the 
+carjacking statute.’ 
+
+
+The Court agrees that a conditional intent to couse estat 
+serious bodily harm and “reckless indifference both invo = 
+foreseeability; however, conditional intent requires a 
+more culpable mental state. A carjacker who plans to a “¢ 
+use deadly force on a victim in the event that his mes on 
+to comply with his demands has engaged in willful and deli 
+erate consideration of his actions. Under these circumstances, 
+death is more than merely foreseeable, it 1s fully ee 
+plated and planned for. Such a mental state 1s clearly is- 
+tinguishable from the characterization of conditional intent 
+advanced by Holloway, which only has the carjacker aware 
+of a risk of death of which he chooses to disregard. 
+
+
+Court case, 
+Holloway further argues that the Supreme 
+Tison v. Arizona, 481 U.S. 137, 107 S. Ct. 1676 (1987), fore- 
+
+
+3 Holloway cites to Second Circuit precedent which holds that a - a 
+reckless or wanton state of mind cannot constitute @ specific intent to kill. See, 
+e.g., United States v. Kwong, 14 F.3d 189, 194-95 (2d Cir. 1994) 
+
+
+© 13a rd] 
+
+
+closes the inclusion of conditional intent within the scope of 
+an ordinary specific intent to kill. In Tison, co-defendants 
+Raymond and Ricky Tison planned an armed jail break to 
+free their father, Gary Tison, and another inmate from the 
+Arizona State Prison. Jd. at 139. After a successful escape 
+from prison, a flat tire in their getaway car led to the stop- 
+ping and theft of a family’s car in the desert outside of 
+Flagstaff, Arizona. See id. at 140. The defendants witnessed 
+their father brutally execute the family who had been in the 
+car. See id. at 141. The defendants were found guilty of 
+aggravated felony-murder and sentenced to death. See id. at 
+142. In the context of reviewing a collateral attack on the 
+imposition of the death penalty, the Supreme Court found 
+that under the factual circumstances presented, the defen- 
+dants lacked a “specific intent to kill,” and at most had a cul- 
+pable mental state of reckless indifference to human life. Jd 
+
+at 152. Holloway seizes on this language, characterizing con- 
+
+ditional intent as an analogous mental state to that ascribed 
+
+to the defendants in Tison. Holloway argues that, at best, the 
+
+proof shows that he and Lennon shared a conditional intent 
+
+to kill, which only meant that it was foreseeable that death 
+could result from their various carjackings. 
+
+
+The facts of Tison are plainly distinguishable from the case 
+at bar. In Tison some violence was foreseeable to the defen- 
+dants in effecting the jailbreak, however, the murders for 
+which the defendants were convicted were precipitated by a 
+completely unplanned event, the flat tire in the desert. Thus 
+while it may have been foreseeable to them that death would 
+occur in the course of the escape, the murders that flowed 
+from their breakdown in the desert were not the result of 
+willful and deliberate plan. F 
+
+
+Furthermore, the inclusion of a conditional intent to harm 
+within the definition of specific intent to harm is a well- 
+established principle of criminal common law. In his decision 
+
+
+6605 
+
+
+—_— ee ee -_ _-- 
+
+
+. * = 
+
+
+denying Holloway’s Rule 33 motion, Judge Gleeson cited to 
+state criminal law authority as support for his conditional 
+intent charge. See Holloway, 921 F. Supp. at 159 (citing W.R. 
+LaFave and A.W. Scott, Jr., Handbook on Criminal Law § 28 
+at 200 (1972); Model Penal Code § 2.02(6) (American Law 
+Institute); People v. Connors, 253 Ill. 266, 97 N.E. 643 
+(1912); Hairston v. Mississippi, 54 Miss. 689 (1877)). Fol- 
+lowing his decision, the Third Circuit in United States v. 
+Anderson cited to Judge Gleeson’s opinion with approval, 
+finding that “conditional intent” was included within the spe- 
+cific intent required by the carjacking statute. 108 F.3d at 
+483, 485. The Anderson court also cited to additional author- 
+ity confirming this principle of criminal law, including the 
+incorporation of the doctrine of conditional intent into some 
+state penal codes. See Del. Code Ann. tit. 11 § 254 (1996) 
+(“The fact that a defendant's intention was conditional is 
+immaterial unless the condition negatives the harm or evil 
+sought to be prevented by the statute defining the offense.”); 
+18 Pa. Cons. Stat. Ann. 18 § 302(f) (West 1997) (“Require- 
+ment of intent satisfied if intent is conditional—When a par- 
+ticular intent is an element of an offense, the element is 
+established although such intent is conditional, unless the 
+condition negatives the harm or evil sought to be prevented 
+by the law defining the offense.”); Haw. Rev. Stat. § 702-209 
+(1996) (“When a particular intent is necessary to establish an 
+element of an offense, it is immaterial that such intent was 
+conditional unless the condition negatives the harm or evil 
+sought to be prevented by the law prohibiting the offense.”),; 
+see also Shaffer v. United States, 308 F.2d 654, 654-55 (Sth 
+Cir. 1962); People v. Vandelinder, 481 N.W.2d 787, 788-89 
+(Mich. Ct. App. 1992); Commonwealth v. Richards, 293 
+N.E.2d 854, 860 (Mass. 1973). But see State v. Irwin, 285 
+S.E.2d 345, 349 (N.C. Ct. App. 1982). 
+
+
+® sss e 
+
+
+This Court also finds ample persuasive authority sup- 
+porting the inclusion of conditional intent within the scope of 
+the specific intent requirement. See People v. Thompson, 209 
+P.2d 819, 820 (Cal. Ct. App. 1949); People v. Henry, 190 
+N.E. 361, 361-62 (Ill. 1934); Johnson v. State, 605 N.E.2d 
+762, 765 (Ind. Ct. App. 1992); Gregory v. State, 628 P.2d 
+384, 386 (Okla. Crim. App. 1981); see also 40 Am. Jur. 2d 
+Homicide § 571 (1968) (“The question whether an assault 
+accompanied by a threat to kill unless a demand is complied 
+with is an assault with intent to kill or murder has generally 
+been answered in the affirmative. . . .”). Furthermore, and 
+most importantly, incorporating conditional intent within the 
+specific intent language of the carjacking statute comports 
+with a reasonable interpretation of the legislative purpose of 
+the statute. The alternative interpretation would have the fed- 
+eral carjacking statute covering only those carjackings in 
+which the carjacker’s sole and unconditional purpose at the 
+time he committed the carjacking was to kill or maim the vic- 
+tim. Such an interpretation would dramatically limit the reach 
+of the carjacking statute. “It is well-established that ‘in 
+expounding a statute, we must not be guided by a single sen- 
+tence or member of a sentence, but look to the provisions of 
+the whole law, and its object and policy.’ ” Tomka v. Seiler 
+Corp., 66 F.3d 1295, 1313 (2d Cir. 1995) (quoting Pilot Life 
+Ins. Co. v. Dedeaux, 481 U.S. 41, 51, 107 S. Ct. 1549, 1554 
+(1987)). A statute should not be literally applied if it results 
+in an interpretation clearly at odds with the intent of the 
+drafters. See id. While the Court cannot and should not 
+rewrite a poorly drafted statute, it has an obligation to inter- 
+pret a statute so as to give it reasonable meaning. 
+
+
+After reviewing the substantial body of state law address- 
+ing this issue, and the clear legislative purpose of 18 U.S.C. 
+§ 2119, the Court finds that an intent to kill or cause serious 
+bodily harm conditioned on whether the victim relinquishes 
+his or her car is sufficient to fulfill the intent requirement set 
+
+
+6607 
+
+
+® rf ® 
+
+
+forth in the federal carjacking statute.‘ Accord Anderson, 108 
+F.3d at 485. As such, we accept the well-reasoned opinion of 
+the court below, and hold that Judge Gleeson did not err 
+when he instructed the jury on conditional intent. 
+
+
+Il. Ineffective Assistance of Counsel 
+
+
+Holloway’s second ground for appeal is that he received 
+constitutionally ineffective assistance of counsel, requiring 
+the reversal of his conviction and a new trial. Holloway 
+argues that even though his defense counsel relied on a 
+legally sound argument premised on the lack of specific 
+intent, once Judge Gleeson rejected his argument, Holloway’s 
+conviction was a foregone conclusion. Holloway argues that 
+his trial counsel should have presented his specific intent 
+defense, while at the same time vigorously contesting the evi- 
+dence concerning all of the other elements in question. 
+
+
+Claims for ineffective assistance of counsel are analyzed 
+under the framework set forth in Strickland v. Washington, 
+466 U.S. 668, 686 (1984), which requires that a defendant 
+show “(1) that his attorney's performance fell below an 
+‘objective standard of reasonableness,’ and (2) that ‘there is 
+
+
+4 The Ninth Circuit seemingly came to the opposite conclusion in United 
+
+
+States v. Randolph, 93 F.3d 656, 665 (9th Cir. 1996), when it stated, “[t}he 
+mere conditional intent to harm a victim if she resists is simply not enough to 
+satisfy § 2119's new specific intent requirement.” However, in Randolph the 
+only evidence of intent was a threat made by one of the defendants to the vic- 
+tim that “ ‘she would be okay’ if she ‘(did] what was told of her.’ ” Jd. The 
+Ninth Circuit held that “more than a mere threat is required to establish a spe- 
+cific intent to kill or harm.” /d. We agree with the Ninth Circuit that without 
+more, a mere threat of harm 1s not sufficient to establish a specific intent to kill. 
+In fact, Judge Gleeson so charged in his jury instruction. 
+
+We do, however, disagree with the Ninth Circuit's dicta that equated a threat 
+of harm to conditional intent. See id. The court stated, “[the defendant's} threat 
+was tantamount to a conditional intent to harm.” /d. While a threat is certainly 
+evidence of a conditional intent to harm, conditional intent is not equivalem 
+to a threat, it is much more. Conditional intent implies some indication that the 
+defendant means to make good on his threat to harm. An idle threat can never 
+constitute an intent to kill. 
+
+
+6608 
+
+
+yd] 17a © 
+
+
+a reasonable probability that, but for counsel's unprofessional 
+errors, the result of the proceeding would have been differ- 
+ent."" Kieser v. New York, 56 F.3d 16, 18 (2d Cir. 1995) 
+(quoting Strickland, 466 U.S. at 688, 694). 
+
+
+Even if Holloway could establish the first prong of the 
+Strickland test, he has not met his burden on the second 
+prong. The trial counsel's “intent” defense was appropriately 
+directed at the most questionable aspect of the Government's 
+case. Trial counsel's strategy to concede the other elements 
+of the offense was reasonable in light of the overwhelming 
+evidence in the case, i.e., Lennon's testimony that Holloway 
+assisted him in the carjackings, several victims’ identifica- 
+tion of Holloway, and Holloway’s own confession. Hol- 
+loway's assertion that the outcome of the trial would have 
+somehow been different had his trial counsel more vigorously 
+contested this testimony is conclusory and unpersuasive 
+given the record before the Court. As such, Holloway’s 
+appeal in this respect lacks merit. 
+
+
+III. /mposition of Consecutive Sentences 
+
+
+Finally, Holloway contests the imposition of consecutive 
+sentences on his firearm convictions pursuant to 18 U.S.C. 
+§ 924(c). Holloway concedes that this Court has already held 
+in United States v. Mohammed that issuing consecutive sen- 
+tences under the carjacking statute and the firearm statutes 
+based on the same carjacking is constitutionally permissible. 
+27 F.3d 815, 820-21 (2d Cir. 1994). However, Holloway 
+argues that because the trial court lowered the standard of 
+proof for carjacking by allowing a verdict based on condi- 
+tional intent, then the trial court should be precluded from 
+imposing Consecutive sentences based on those offenses. The 
+Court finds this argument to be wholly without merit. 
+
+
+© es @ 
+
+
+CONCLUSION 
+
+
+Based on the foregoing, we affirm the judgment of the dis- 
+trict court. 
+
+
+MINER, Circuit Judge, dissenting: 
+
+
+Because I perceive no basis in the plain language of the 
+statute or in the legislative history for an element of condi- 
+tional intent in the crime under examination here, I respect- 
+fully dissent. 
+
+
+As originally cast, the carjacking legislation established as 
+a federal crime the taking or attempted taking of a motor 
+vehicle having some connection with interstate commerce 
+from the person or presence of another by force, violence or 
+intimidation on the part of one possessing a firearm. See 18 
+U.S.C. § 2119 (prior to 1994 Amendment). Enhanced penal- 
+ties for the infliction of serious bodily injuries or resulting 
+death were provided. See id. § 2119(2), (3). The statute after 
+amendment defines the crime as the taking or attempted tak- 
+ing of a motor vehicle having some connection with inter- 
+state commerce from the person or presence of another by 
+force or violence on the part of one who intends to cause 
+death or serious bodily harm. See id. (as amended). The 
+penalty if death results is further enhanced to include the 
+death penalty. See id. § 2119(3). The distinctions to be made 
+between the original and the amended statute are clear: the 
+firearm possession requirement is deleted; a specific intent 
+element is added; and the penalty provision is expanded. 
+
+
+Despite the foregoing, my colleagues approve the district 
+court’s failure to instruct the jury as the statute requires 
+regarding the specific intent to cause death or serious bodily 
+harm, and further approve the following substituted instruc- 
+
+
+6610 
+
+
+© = © 
+
+
+tion, which allows for conviction on proof of conditional 
+intent: 
+
+
+In this case, the government contends that the defen- 
+dant intended to cause death or serious bodily harm if 
+the alleged victims had refused to turn over their cars. If 
+you find beyond a reasonable doubt that the defendant 
+had such an intent, the government has satisfied this ele- 
+ment of the offense. 
+
+
+(Emphasis added.) What is the provenance of such an instruc- 
+tion? It surely is not the language of the statute itself. It is 
+not even the indictment, for the indictment parrots the 
+statute. The district court therefore was wrong in charging 
+
+
+the jury that the government had advanced a conditional 
+intent contention. 
+
+
+In arriving at their conclusion, my colleagues first turn to 
+the legislative history and properly note that the amendment 
+to the carjacking statute represented an effort to expand the 
+number of crimes subject to the death penalty, including car- 
+jacking where death results. There is also an indication of an 
+intent on the part of Congress to eliminate the firearm 
+requirement. Ultimately, as all agree, the heightened intent 
+requirement was added to the final amending legislation by 
+the Congressional Conference Committee. There is no dis- 
+cernible information on why or how this element was added. 
+
+
+How, then, can it be said that “it is clear from a review of 
+legislative history that Congress intended to broaden the cov- 
+erage of the federal carjacking statute by the passage of the 
+1994 amendments, and that the application of the heightened 
+intent requirement to al] three of the carjacking [penalty] cat- 
+egories was, in all likelihood, an unintended drafting 
+error{?]" Maj. Opn. at 8. No member of Congress has ever 
+referred to “an unintended drafting error,” and the congres- 
+
+
+6611 
+
+
+— es ausce -—— ee — 
+
+
+sional intent may well have been to narrow in some respects, 
+as well as broaden in some respects, the statute's coverage. 
+
+
+The scienter requirement of the amended statute has been 
+interpreted in different ways. While one circuit court thinks 
+that Congress intended the specific intent provision to apply 
+only where the carjacking resulted in death, see United States 
+y. Anderson, 108 F.3d 478, 482 (3d Cir. 1997), another circuit 
+court considers that the purpose of the amendment was to 
+convert the entire general intent offense to a specific intent 
+offense, see United States v. Randolph, 93 F.3d 656, 661 (9th 
+Cir. 1996). But we have no authority to correct an “unin- 
+tentional drafting error” where there is no reason to say that 
+there is an “error” or that the statutory provision inserted is 
+“unintended.” By adding a conditional intent element to cor- 
+rect what the court perceives to be an error, we ignore the 
+teaching of the Supreme Court that “(to] supply omissions 
+transcends the judicial function.” /selin v. United States, 270 
+U.S. 245, 251 (1926), quoted in West Virginia Univ. Hosps., 
+Inc. v. Casey, 499 U.S. 83, 101 (1991). 
+
+
+We do know that since the enactment of the 1994 amend- 
+ment to the carjacking statute, Congress has made at least 
+three attempts to eliminate what was termed the “unjustified 
+scienter element for carjacking.” Omnibus Crime Control Act 
+of 1997, S. 3, 105th Cong. § 807; Violent Crime Control and 
+Law Enforcement Improvement Act of 1995, S. 3, 104th 
+Cong. § 717 (“VCCLEIA"); see Anti-Gang and Youth Vio- 
+lence Control Act of 1997, S. 362, 105th Cong. § 2113 
+(“AGYVCA”). These statutes would eliminate entirely the 
+requirement that the government prove that the defendant 
+possessed the intent to cause death or serious bodily harm. 
+See, e.g., VCCLEIA § 717 (“Section 21 19 of title 18, United 
+States Code, is amended by striking °, with the intent to 
+cause death or serious bodily harm’.”). It is unclear what 
+happened to the earlier attempts to remove the intent element 
+
+
+6612 
+
+
+ ) 21a @ 
+
+
+from § 2119, but the AGYVCA, the most recent effort, 
+
+
+presently appears to be before the Senate Judiciary Com- 
+mittee. 
+
+
+The only discussion we have concerning the attempts to 
+remove the intent element comes from Senator Leahy’s com- 
+ments in introducing the AGYVCA. The Senator explained: 
+
+
+Prior to the enactment of [the Violent Crime Control 
+and Law Enforcement Act), the offense applied only if 
+the defendant possessed a firearm. Section 60003(a)(14) 
+of that law appropriately deleted the firearm require- 
+ment, as had been proposed im the Senate-passed bill, but 
+in conference a new scienter element was added that the 
+defendant must have intended to cause death or serious 
+bodily injury. This unique new element will inappro- 
+priately make carjackings difficult or impossible to pros- 
+
+—ecute in certain situations. . . . The new requirement 
+_ will likely be a fertile [source] of argument for 
+defendants in cases in which no immediate threat of 
+injury occurs, such as where a defendant enters an occu- 
+pied vehicle while it is stopped at a traffic light and 
+physically removes the driver. Even when a weapon is 
+displayed, the defendant may argue that although it was 
+designed to instill fear, he had no intent to harm the vic- 
+tim had the victim in fact declined to leave the car. 
+
+
+143 Cong. Rec. $1659, $ 1661-62 (Feb. 26, 1997) (statement 
+of Sen. Leahy). 
+
+
+Aside from the fact that Senator Leahy’s comments rep- 
+resent the views of only one member of Congress, there is 
+nothing in those comments to indicate that the “scienter ele- 
+ment,” as he calls it, was not intentionally placed in the 
+statute when the 1994 Amendment was enacted. He is saying 
+only that the element should be taken out. But, so far, his col- 
+leagues have not agreed that this should be done. 
+
+
+6613 
+
+
+In this regard, it is of more than passing interest that car- 
+jacking is essentially a state offense, and it may well be the 
+intent of Congress to limit the scope of the federal offense. 
+See generally Geraldine Szott Moohr, The Federal Interest in 
+Criminal Law, 47 Syracuse L. Rev. 1127 (1997). Several 
+states have enacted specific carjacking statutes. See, e.g., Fla. 
+Stat. § 812.133 (1994); Md. Code Ann., Crimes and Punish- 
+ments § 348A (1996); Miss. Code Ann. § 97-3-117 (1994), 
+Va. Code Ann. § 18.2-58.1 (Michie 1996). The common ele- 
+ments of each of these statutes are the taking of a motor vehi- 
+cle by threat ot force or violence. See, ¢.g., S.C. Code Ann. 
+8 16-3-1075(B) (Law Co-op. Supp. 1996) (“A person is 
+guilty of the felony of carjacking who takes, or attempts to 
+take, a motor vehicle from another person by force and vio- 
+lence or by intimidation while the person is operating the 
+vehicle or while the person is in the vehicle.”). Some states 
+also have enacted specific armed carjacking statutes to 
+address carjackings in which a dangerous weapon is used. 
+See, ¢.g., DC. Code Ann. § 22-2903(b)( 1) (1996). 
+
+
+Those states that do not have a specific carjacking statute, 
+such as New York, prosecute carjackings under the state's 
+robbery statute. See, ¢.g., Kansas v. Vincent, 908 P.2d 619, 
+621 (Kan. 1995) (defendant charged with felony murder, con- 
+spiracy to commit robbery and aggravated robbery in relation 
+to a carjacking resulting in death); New York v. Lee, 652 
+N.Y.S.2d 2, 3 (App. Div. Ist Dep't 1996) (defendant charged 
+with first degree robbery in the gunpoint theft of acar). As 
+with the specific carjacking statutes, these robbery statutes 
+apply to thefts involving the use of threat or force. See, €.8-. 
+N.Y. Penal Law § 160.10(3) (McKinney 1997) (“A person is 
+guilty of robbery in the second degree when he forcibly 
+steals property and when. . . [t}he property consists of a 
+motor vehicle. . . .”). Thus, even where there is no specific 
+
+
+6614 
+
+
+® 395 ® 
+
+
+carjacking statute, carjackings can be prosecuted adequately 
+under state law. 
+
+
+Ultimately, my colleagues seem to reject the legislative 
+intent approach, saying that “(nJotwithstanding that such a 
+result was unintended, the Court declines any invitation to 
+redraft the statute —that is a task better left to the ijegisla- 
+ture.” Maj. Opn. at 9. (But that in fact is what they have done 
+here.) The majority opinion goes on to find a conditional 
+intent implicit in the carjacking statute as amended, but there 
+is absolutely no basis for such a construction. The intent 
+required is spelled out explicitly in the statute. The other rea- 
+son assigned for reading conditional intent into the statute— 
+that “the inclusion of a conditional intent to harm within the 
+definition of specific intent to harm is a well-established 
+principle of criminal common law,” Maj. Opn. at 12—is irrel- 
+evant here. There is no federal common law of crimes, see 
+United States v. Hudson & Goodwin, 11 U.S. (7 Cranch) 32, 
+34 (1812), state criminal law supplies no authority for inter- 
+preting a federal criminal statute, and the Model Penal Code, 
+cited in the majority opinion, never has been adopted by 
+Congress. In point of fact, I can find no federal criminal 
+statute that provides conditional intent as an element of the 
+crime defined. Nor is there a general provision in the Federal 
+Criminal Code, as there is in some state criminal codes, that 
+the requirement of intent is satisfied by proof of conditional 
+intent. See, e.g., Haw. Rev. Stat. § 702-209 (1993) (“When a 
+particular intent is necessary to establish an element of an 
+offense, it is immaterial] that such intent was conditional 
+unless the condition negatives the harm or evil sought to be 
+prevented by the law prohibiting the offense.”) 
+
+
+To avoid a clear judicial usurpation of congressional 
+authority, I would reverse and remand for a retrial upon 
+instructions conforming with the foregoing analysis. 
+
+
+6615 
+
+
+@ 24a @ 
+oN MIAN DA TE : EY BRI/n/ 
+
+
+IS-ch- 79 
+GLEE Spn/ 
+UNITED STATES COURT OF APPEALS 
+
+
+FOR THE SECOND CIRCUIT 
+
+
+At a stated term of the United States Court of Appeals for the Second Circuit, held at the United States 
+
+
+Courthouse, Foley Square, in the City of New York, on the sixteenth day of September, one thousand nine hundred 
+and ninety-seven. 
+
+
+PRESENT: JOSEPH M. McLAUGHLIN, 
+
+
+= Alia 
+eagse COLA 5S 
+
+
+ROGER J. MINER, Sel, 
+Circuit Judges, Gy, PET NS ) 
+FREDERICK J. SCULLIN, *( Sep 16 i997) 
+District Judge. *y ho _ ak 
+ited he Sia tier 
+Docket No. 96-1563 al 
+UNITED STATES OF AMERICA, 
+Appellee, 
+Vv. 
+
+
+TEDDY ARNOLD; CHARLES ROBINSON; DARREL JONES; DAVID VALENTINE; PAUL $ 
+and JEFFREY DRAKE, ° CAGLIONE: 
+
+
+Defendants, 
+
+
+francois holloway a/k/a ABOU ALI, 
+Defendant-Appellant. 
+
+
+Appeal from a judgment of the United States District Court for the Eastern District of New York, 
+
+
+This matter came on to be heard on the transcript of record from the United States District Court for the 
+Eastern District of New York, and was argued. 
+
+
+Upon consideration thereof, IT IS ORDERED that the judgment be, and it hereby is, AFFIRMED. 
+
+
+FOR THE COURT: 
+GEORGE LANGE II, Clerk 
+
+
+Beth J. , Administrative Attorney 
+
+
+*The Hon. Frederick J. Scullin, Judge of the United States District Court for the Northern District of New Y 
+sitting by designation. ies = 
+1 * FAM 
+
+
+— ISSUED AS MANDATE ,../-</,. 
+
+
+. 
+
+
+2ND CASE of Level 1 printed in FULL format. 
+
+
+PAGE 15 
+
+
+UNITED STATES OF AMERICA, - against - FRANCOIS HOLLOWAY, 
+also known as “Abdu Ali," Defendant. 
+
+
+95-CR-0078 (JG) 
+
+
+UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF NEW 
+YORK 
+
+
+921 F. Supp. 155; 1996 U.S. Dist. LEXIS 4905 
+
+
+April 5, 1996, Dated 
+COUNSEL: (**1] APPEARANCES: 
+
+
+ZACHARY W. CARTER, United States Attorney, Brooklyn, New York, By: Dolan L. 
+Garrett, Assistant U.S. Attorney. 
+
+
+DANA HANNA, ESQ., Brooklyn, New York, Attorney for Defendant. 
+JUDGES: JOHN GLEESON, United States District Judge 
+
+OPINIONBY: JOHN GLEESON 
+
+OPINION: (#155) MEMORANDUM AND ORDER 
+
+JOHN GLEESON, United States District Judge: 
+
+
+Defendant Francois Holloway, also known as “Abdu Ali," was indicted on 
+February 2, 1995. He was charged with conspiring to operate a “chop shop," in 
+violation of 18 U.S.C. @ 371, operating a chop shop, in violation of 18 U.S.C. @ 
+2322, three counts of carjacking, in violation of 18 U.S.C. @ 2119, (*156) 
+and three counts of using and carrying a firearm during and in relation to the 
+charged carjackings, in violation of 18 U.S.C. @ 924(c). A jury trial was held 
+in December 1995, after which Ali was found guilty of all charges. 
+
+
+Ali now moves for a new trial pursuant to Fed. R. Civ. P. 33, claiming that 
+such relief is required in the interest of justice. In the alternative, he seeks 
+reconsideration of his unsuccessful motion pursuant to Fed. R. Cr. P. 29, which 
+he made at trial. The issue raised by the motion was also the central issue at 
+the trial: what must the government prove [**2) to satisfy the intent element 
+of the carjacking statute, 18 U.S.C. @ 2119? nl 
+
+
+nl Although Ali's motion purports to address all of the charges against hin, 
+none of his arguments addresses Counts One or Two (conspiracy to operate a chop 
+shop and operation of a chop shop, respectively). Even if the challenges raised 
+on this motion had merit, there would be no reason to set aside the jury's 
+verdicts on those counts. 
+
+
+There is no question that the conduct at issue in this case is precisely what 
+Congress and the general public would describe as carjacking, and that 
+
+
+921 F. Supp. 155, *156; 1996 U.S. Dist. LEXIS 4905, **2 
+
+
+PAGE 16 
+
+
+Congress intended to prohibit it in @ 2119. However, carelessness in the 
+legislative process has produced a criminal statute that says something 
+fundamentally different than what Congress obviously meant to say. As a result, 
+Ali advances a cclorable claim that his conduct here -- using a gun to terrorize 
+motorists into giving up their cars -- is no longer prohibited by the carjackinc 
+statute. Indeed, it is likely that a 1994 amendment to the statute, [**3)} 
+which was explicitly intended to broaden the available penalties, in fact placec 
+a large number of “carjackers" beyond its reach. 
+
+
+Ali, however, is not among them. Though colorable, his argument fails for the 
+reasons set forth below, and his motion is denied. 
+
+
+A. The Facts 
+
+
+Vernon Lennon's father, Teddy Arnold, operated a “chop shop" in Queens, New 
+York. Lennon stole cars for his father to chop. His father would tell him what 
+year and model cars he needed, and Lennon would locate such cars and steal then. 
+He did not know how to disable alarms or “hot wire" cars, so Lennon's modus 
+operandi was to take the cars from their owners at gunpoint. Lennon was a team 
+player, always taking another robber with him to help locate the target car and 
+steal it. Since Lennon liked to follow a targeted car, often to the driver's 
+home, before committing the robbery, a teammate was a virtual necessity; if the 
+robbery was successful, there were two cars that had to be driven away. 
+
+
+Lennon has known the defendant Ali (whom Lennon knows as Francois Holloway) 
+since they were boys. In approximately September 1994, he recruited Ali, who 
+would hang around the chop shop, to steal cars with him. Lennon [*#*4} told 
+Ali that Lennon would use a gun to steal the cars, and showed him the gun, a .3;3 
+caliber revolver. Ali agreed to help for a fixed fee per car stolen. 
+
+
+On October 14, 1994, Lennon and Ali stole a 1992 Nissan Maxima. They followec 
+the car to the home of its driver, 69 year-old Stanley Metzger, in Queens. As 
+Metzger got out of his car, Lennon and Ali got out of theirs. Lennon approached 
+Metzger, pointed the gun at him, and demanded the keys. Metzger was apparently 
+not fast enough in complying, so Lennon threatened to shoot him. Metzger handed 
+over the keys, and was then told to hand over his wallet. He did so, and the 
+robbers drove off with his car and his money. 
+
+
+On the next day, October 15, 1994, at approximately 8:00 p.m., Lennon and Ali 
+spotted Donna DiFranco driving a 1991 Toyota Celica at the Whitestone Shopping 
+Center in Queens. They followed her to her friend's house, and Lennon approachec 
+her after she exited her parked car. He pointed a gun at her and demanded her 
+money and her car keys. She complied, and after some fumbling with the car alarn 
+and an anti-theft device, Lennon and Ali took her car. 
+
+
+At approximately 10:00 p.m. on the same day, Lennon and Ali stole another 
+{**5) car, a 1988 Mercedes Benz. They followed the victim, Ruben Rodriguez, tc 
+his home in the Jamaica Estates section of Queens. Both robbers got out of thei) 
+car and approached Rodriguez, who had just stepped out of the Mercedes Benz. 
+Lennon asked Rodriguez if he knew (*157] the location of a particular 
+address. The address was, as Rodriguez put it, “way off base," and he knew 
+"something was up." Rodriguez got back into his car and closed the door. Lennon 
+pulled the gun and told him to get out of the car or he would be shot. Rodrigue: 
+got out of his car, and Lennon demanded his money as well as the keys. Rodrigue: 
+hesitated; his money was in a clutch bag on the passenger's seat, and he felt 
+
+
+: =e 
+
+
+PAGE 17 
+921 F. Supp. 155, *157; 1996 U.S. Dist. LEXIS 4905, **5 
+
+
+he might be killed if he leaned into the car to get it. Frustrated by the delay, 
+the defendant Ali punched Rodriguez in the face. Rodriguez reeled backwards from 
+the punch and used that momentum to begin running away from the robbers, who 
+fled with his car and his money. 
+
+
+On all three occasions, n2 Lennon and Ali intended to leave the victims 
+unharmed. Lennon never fired the gun in any of the carjackings. An experienced 
+criminal, he knew that if he did, he risked a lengthier prison term than he 
+would receive [**6) for simply robbing the car. For each robbery, the plan 
+was to use the firearm only to obtain possession of the car, not to shoot or 
+otherwise harm the victin. 
+
+
+n2 There was also evidence of two uncharged crimes committed by Ali with 
+Lennon: one other successful carjacking and an attempted one that was aborted by 
+the arrival of a police officer on the scene. 
+
+
+However, in all three of the charged carjackings, Lennon was prepared to 
+shoot the victims if their resistance made that necessary. In other words, he 
+intended to kill or seriously injure the victims, but that intent was 
+conditioned on their giving the robbers "a hard time." There was ample evidence 
+from which a rational juror could infer that the defendant Ali shared that 
+conditional intent. 
+
+
+B. The Carjacking Statute And Its 1994 Amendment 
+
+
+In September 1992, Paula Basu, a Maryland woman, had her car stolen from her 
+by two men. The men forced her from her car and drove off. Because her infant 
+daughter was in the car, Basu clung to it as the men ([**7) drove away, and 
+was dragged to her death. 
+
+
+This horrific offense generated a public outcry, and focused attention on 
+legislative efforts to make car robberies a federal crime. Those efforts 
+resulted in the Anti Car Theft Act of 1992, codified at 18 U.S.C. @ 2119. As 
+initially enacted, this new federal offense read as follows: 
+
+
+Whoever, possessing a firearm as defined in section 921 of this title, takes 
+a motor vehicle that has been transported, shipped, or received in interstate or 
+foreign commerce from the person or presence of another by force and violence or 
+by intimidation, or attempts to do so, shall - 
+
+
+(1) be fined under this title or imprisoned not more than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in section 1365 of this title) results, 
+be fined under this title or imprisoned not more than 25 years, or both, and 
+
+
+(3) if death results, be fined under this title or imprisoned for any number of 
+years up to life, or both. 
+
+
+The subsections of the statute obviously related solely to punishment, and were 
+not elements of the offense. They provided for enhanced penalties of up to 25 
+years if serious bodily injury resulted from the offense, {**8) and up to 
+
+
+© <2 ® 
+
+
+921 F. Supp. 155, *157; 1996 U.S. Dist. LEXIS 4905, **8 
+
+
+PAGE 18 
+
+
+life in prison if it resulted in death. 
+
+
+During 1993, Congress was considering extensive new criminal legislation, 
+which included an array of new death penalties. Members of both houses proposed 
+amendments to the newly-minted carjacking statute. The Senate bill proposed an 
+amendment that would provide for the death penalty in cases where a carjacking 
+results in death. S. 942, 103d Cong., ist Sess. (1993). Senator Lieberman 
+proposed a further amendment to this death penalty provision that would 
+eliminate the requirement that such cases involve the use a firearm by the 
+carjacker. In his remarks in support of his proposed amendment, Senator 
+Lieberman observed: 
+
+
+If a carjacking occurs and a death occurs as a result of that, does it reall) 
+matter whether a firearm was used, whether a knife was used, whether physical 
+force was used, or whether a mother, as in the Basu case, was dragged to her 
+death because (*158) she wanted to make every effort to save the life of he: 
+child? 
+
+
+In this case, the very bill I am amending has the death penalty for 
+carjacking. All I am doing here is taking a small but I think significant 
+additional step in saying, if the death penalty is going to ([**9)} be enacted 
+into law for cases of carjacking where death occurs, then we ought not to 
+require that that death has to involve a firearm. If the person in a carjacking 
+is killed as a result of a knife or other weapon or just as a result of the 
+carjacking, then the criminal ought to be subject to death himself. That is why 
+I propose the amendment. 
+
+
+139 Cong. Rec. S$15295, S15301, S15303 (1993) (statement of Sen. Lieberman). 
+
+
+Thus, with respect to carjackings resulting in death, the Senate bill 
+eliminated the firearm requirement and provided for the death penalty. Because 
+such a statute could authorize the death penalty for an accomplice who neither 
+killed a victim nor intended to kill or harm the victim, it would have been 
+subject to attack under the Eighth Amendment. See Enmund v. Florida, 458 U.S. 
+782, 73 L. Ed. 2d 1140, 102 S. Ct. 3368 (1982). Perhaps for that reason, the 
+conference report for the bill modified the Senate death penalty amendment for 
+carjacking by adding an intent requirement -- the “intent to cause death or 
+serious bodily harm." H.R. Rep. No. 103-694, 103d Cong., 2d Sess. (1994). 
+
+
+These combined efforts resulted in the following provision of the Violent 
+Crime Control and Law Enforcement Act [**10) of 1994: 
+
+
+(14) CARJACKING - Section 2119(3) of title 18, United States Code, is amended b 
+striking the period after “both” and inserting ", or sentenced to death."; and 
+by striking ", possessing a firearm as defined in section 921 of this title," 
+and inserting ", with the intent to cause death or serious bodily harm." 
+
+
+Violent Crime Control and Law Enforcement Act of 1994 (the "Act"), Pub L. No. 
+103-322, Title VI, @ 60003(a) (14), 108 Stat. 1796, 1970 (1994). The provision 
+was intended to affect only carjackings resulting in death. That was the sole 
+focus of the legislative debates. Moreover, the provision was included in Title 
+VI of the Act, which was entitled the “Federal Death Penalty Act of 1994." The 
+most powerful evidence of the limited purpose of the amendment is Congress’ 
+
+
+921 F. Supp. 155, *158; 1996 U.S. Dist. LEXIS 4905, **10 
+
+
+PAGE 19 
+
+
+obvious belief that it was amending only a penalty enhancement provision, not 
+the statutory prohibition itself. Specifically, it purported to amend "@ 
+2119(3)," the subsection of the original (and existing) statute that is solely a 
+penalty provision. Indeed, it is the penalty provision applicable to cases in 
+which death results, which cases were, as noted, the only focus of the 
+legislature's ([(*#*11]) attention. 
+
+
+However, the possession-of-a-firearm requirement that the amendment 
+eliminated was not, as the amendment mistakenly assumed, located in 2119(3). In 
+fact, it was not in any of the three penalty provisions; rather, it was an 
+element of the offense itself, a necessary ingredient of all carjacking 
+prosecutions, not just those resulting in death. Thus, in its effort to 
+eliminate the firearm requirement only in cases resulting in death, Congress 
+enacted an amendment that, on its face, eliminates it in all cases. n3 
+
+
+n3 It has been suggested that, notwithstanding the unequivocal language of 
+the amended statute, the firearm requirement has only been eliminated when the 
+carjacking results in death, and still must be proved in cases, like this one, 
+that fall within @ 2119 (a) or (b). M. Michenfelder, The Federal Carjacking 
+Statute: To Be Or Not To Be? An Analysis Of The Propriety Of 18 U.S.C. @ 2119, 
+39 St. Louis U.L.J. 1009 (1995). Perhaps because a firearm was used in this 
+case, however, that strained argument has not been made here, and thus its 
+merits need not be addressed. 
+
+
+{*#12) 
+
+
+Similarly, Congress intended to add a new intent element for cases in which 
+the death penalty is sought. However, notwithstanding the amendment's stated 
+intention to affect only the penalty provisions of @ 2119(3), it added the new 
+element -- “the intent to cause death or serious bodily harm" -- to the first 
+clause of @ 2119, and thus made it applicable to all violations of the statute. 
+
+
+As amended, the statute now reads as follows: 
+
+
+Whoever, with the intent to cause death or serious bodily harm takes a motor 
+vehicle that has been transported, shipped, or received [*159} in interstate 
+or foreign commerce from the person or presence of another by force and violence 
+or by intimidation, or attempts to do so, shall - 
+
+
+(1) be fined under this title or imprisoned not more than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in section 1365 of this title) results, 
+be fined under this title or imprisoned not more than 25 years, or both, and 
+
+
+(3) if death results, be fined under this title or imprisoned for any number of 
+years up to life, or both, or sentenced to death. 
+
+
+In short, the 1994 amendment to the carjacking statute effected fundamental 
+changes that [(**13) Congress never intended. The elimination of the firearm 
+requirement for all cases federalized approximately 14,000 additional cases each 
+year. n4 At the same time that it inadvertently opened the door for all these 
+cases, Congress inadvertently closed it substantially by unintentionally 
+
+
+921 F. Supp. 155, *159; 1996 U.S. Dist. LEXIS 4905, **13 
+
+
+PAGE 20 
+
+
+imposing the specific intent requirement on the entire statute, not just in 
+death penalty cases. n5 
+
+
+-~_--- - -~----+- += = = = = = = = =-Pootnotes- - ---- +, + * * = = = = - = 
+
+
+n4 See Michenfelder, supra note 3, at 1012-13 (35,000 carjackings or 
+attempted carjackings were committed during each of the years 1987-92, and 
+firearms were used 50% of the time). 
+
+
+n5 The government does not contend, as it might have, that the specific 
+intent required by the 1994 amendment is an element only in carjacking cases 
+where death results and the death penalty is sought. For that reason and because 
+I conclude Ali had the specific intent required by the statute in any event, I 
+do not need to address that issue. 
+
+
+Cc. Discussion 
+
+
+Ali urges a literal construction of the amended statute, contending that it 
+(**14) prohibits only those carjackings in which the perpetrators 
+unconditionally intend to kill or seriously injure their victims. Under this 
+reading, the law would not prohibit the crimes committed by Ali and Lennon, 
+where the intent of the carjackers was not to kill or injure people, but to get 
+cars. Indeed, this reading would no doubt insulate from federal prosecution the 
+large majority of carjackings, as carjackers generally do not intend to cause 
+death or serious bodily injury, but in fact hope that the opposite will occur, 
+i.e., that the victim will peaceably give up the car and suffer no harm at all. 
+
+
+Thus, if accepted, Ali's construction of the carjacking statute would 
+drastically narrow its scope. Only those carjackers who intend not only to rob 
+cars, but also to murder or seriously injure another, could be prosecuted. A 
+person who intends to find a Mercedes Benz, shoot the owner and take the car 
+could be prosecuted. A person who intends to find a Mercedes Benz and shoot the 
+owner only if she refuses to give up her car could not, at least if the plan 
+succeeds and the car is taken without the need to fire. 
+
+
+This would be an odd result. The statute would no longer prohibit the 
+(**#15) very crime it was enacted to address except in those unusual 
+circumstances when carjackers also intended to commit another crime -- murder o) 
+a serious assault. Moreover, this result, if accepted, would be the ironic 
+product of legislation that was intended “to broaden and strengthen [the 
+carjacking statute) so our U.S. attorneys (sic) have every possible tool 
+available to them to attack the problem." 139 Cong. Rec. 815295, S15301 (1993) 
+(statement of Sen. Lieberman). 
+
+
+Ali's argument fails because his intent to aid and abet Lennon's use of the 
+firearm if the victims resisted is sufficient. Where a crime is defined to 
+require a particular intention, that element is satisfied even if the requisite 
+intent is conditional, unless the condition negatives the evil sought to be 
+prevented by the statute. W. R. Lafave and A. W. Scott, Jr., Handbook on 
+Criminal Law, @ 28 at 200 (1972). 
+
+
+Although the issue of conditional intent is not raised very often, at least 
+in the federal courts, it is not new. In People v. Connors, 253 Ill. 266, 97 
+
+
+@ 31a 
+
+
+921 F. Supp. 155, *159; 1996 U.S. Dist. LEXIS 4905, **15 
+
+
+PAGE 21 
+
+
+N.E. 643 (Ill. 1912), the defendants held guns to members of a rival labor union 
+and told them to take off their overalls or they would be shot. Although 
+
+[**16) the workers complied, and there was no shooting, the defendants were 
+convicted of assault with an intent to murder. 253 Ill. at 273. In upholding the 
+conviction, the Supreme Court of Illinois held that the crime is “complete where 
+it is shown that the assailant, with the (*160)} present ability to destroy 
+life or do great bodily harm, draws a dangerous weapon on another and threatens 
+to kill him unless the party assailed complies immediately with some unlawful 
+condition or demand. . . . The offense is complete even though commission of the 
+felony is averted by the submission of the assailed party to the unlawful 
+demands made upon him." Id. at 647-48. 
+
+
+Some conditions on intent may bring the conduct out of the reach of the 
+statute. In Hairston v. Mississippi, 54 Miss. 689 (1877), Hairston attempted to 
+remove the personal effects of a laborer from a plantation. When the plantation 
+owner grabbed Hairston's mules to prevent him from removing the property, 
+Hairston pointed a pistol at him and angrily threatened to “'shoot any G-d d--d 
+man who attempts to stop my mules.'" Id. at 692. The plantation owner released 
+the mules, and Hairston was convicted of assaulting him with intent to [*#*17]} 
+murder. The Supreme Court of Mississippi reversed the conviction. Because the 
+plantation owner was trespassing on Hairston's property by grabbing his mules, 
+the threat to shoot was conditioned on a demand Hairston had a right to make, 
+and thus he could not be guilty of the offense. 
+
+
+Here, of course, there can be no doubt that the intent to shoot the victims 
+was conditioned on a demand -- that they turn over their cars -- that Lennon and 
+Ali had no right to make. 
+
+
+Not all instances of conditional intent involve demands by the defendant. A 
+person may break into a house intending to rape its occupant if she is home, or 
+to steal from it only if no one is home. Section 2.02(6) of the Model Penal Code 
+provides as follows: 
+
+
+Requirement of Purpose Satisfied if Purpose Is Conditional. When a particular 
+purpose is an element of an offense, the element is established although such 
+purpose is conditional, unless the condition negatives the harm or evil sought 
+to be prevented by the law defining the offense. 
+
+
+See also United States v. Arrellano, 812 F.2d 1209, 1212 n.2 (9th Cir. 1987). 
+
+
+Viewed under this standard, the conditional nature of Ali's intent obviously 
+does not help ([(**18) him. The evil sought to be prevented by @ 2119 in not 
+“negatived" by the condition, it is the condition. Section 2119 is not a murder 
+or assault statute, it is a car robbery statute. 
+
+
+Ali's argument on this motion relies in part on the premise that there was 
+insufficient evidence from which a juror could find an intent on his part that 
+recalcitrant victims be shot. However, as stated above, there was ample evidence 
+from which a jury could infer that intent. Lennon told Ali that a gun would be 
+used and showed him the gun. Lennon intended to shoot uncooperative victims, and 
+threatened to do so in Ali's presence. Ali himself demonstrated a seriousness of 
+purpose by punching one of the victims in the face simply because he hesitated 
+in handing over his money. Ali makes much of the fact that there is no direct 
+evidence of his intent, but there rarely is such evidence. The jury could 
+readily have inferred it from the circumstances, and Ali thus cannot satisfy 
+
+
+PAGE 22 
+921 F. Supp. 155, *160; 1996 U.S. Dist. LEXIS 4905, **18 
+
+
+his heavy burden of establishing the insufficiency of the evidence. 
+
+
+Finally, Ali's reliance on the rule of lenity is misplaced. Whether 
+conditional intent is sufficient to establish the intent element of the 
+=e offense ([(**19) is not a question of statutory construction, but o; 
+criminal law. 
+
+
+The jury instructions on the element of intent in the carjacking counts 
+included the following: 
+
+
+In some cases, intent is conditional. That is, a defendant may intend to 
+engage in certain conduct only if a certain event occurs. In this case, the 
+government contends that the defendant intended to cause death or seriously 
+bodily harm if the alleged victims had refused to turn over their cars. If you 
+find beyond a reasonable doubt that the defendant had such an intent, the 
+government has satisfied this element of the offense. 
+
+
+If you find that the co-defendant, Vernon Lennon, acted with the intent to 
+cause death or serious bodily injury, that is not sufficient. You must find tha‘ 
+the defendant shared in that intent before you can conclude that this element 
+has been satisfied. {*161)} I remind you that you must consider each count 
+separately. 
+
+
+In view of the foregoing, those instructions, and the charge as a whole, 
+properly permitted the jury, if it accepted the government's evidence, to find 
+Ali guilty of carjacking. 
+
+
+D. Conclusion 
+
+It is likely that many incidents of what both Congress and the general publi 
+would [**20) call carjacking are no longer prohibited by @ 2119. Without 
+doubt, some car robbers threaten death or serious bodily injury, but intend to 
+flee the scene rather than escalate the confrontation if the demand for the car 
+is rebuffed. A defendant with that state of mind may not be subject to 
+prosecution under @ 2119, even if the threat succeeds and he robs the car. 
+
+However, because Ali had the specific intent required by the statute, albeit 
+conditionally, his motion to set aside the verdicts and for a new trial is 
+denied. 
+
+So Ordered. 
+
+JOHN GLEESON, U.S.D.J. 
+Dated: Brooklyn, New York 
+
+
+April 5, 1996 
+
+
+: 335 
+Rebuttal Summations - Garrett 
+
+
+person and presence of another, by force and violence and by 
+intimidation. 
+
+All three of these offenses, Count 7, Count 9, Count ll, 
+call for the government to prove each of the following elements 
+beyond a reasonable doubt. 
+
+First, that the defendant knowingly and willfully took 
+or attempted to take a motor vehicle. 
+
+Second, that the defendant at the time of the taking, 
+intended to cause death or serious bodily harm. 
+
+Third, that the taking of the motor vehicle was 
+accomplished by force and violence or by intimidation. 
+
+Fourth, that the motor vehicle taken was transported, 
+shipped or received in interstate commerce. 
+
+The first of these elements that the defendant knowingly 
+took or knowingly attempted to take a motor vehicle. As I 
+explained before to do something knowingly is to act purposely 
+and voluntarily and not because of a mistake or accident or other 
+innocent reason. 
+
+Now, the defendant need not have been aware of the 
+specific law and rule that his conduct may have violated, but he 
+must act with a specific intent to do whatever it is the law 
+forbids, here take a motor vehicle by force, violence or 
+intimidation. 
+
+The second element the government must prove beyond a 
+reasonable doubt is that the taking was committed with the intent 
+
+
+D.Pereira, OCR 
+
+
+Pie “< 
+
+
+® 9 @ 
+
+
+336 
+Rebuttal Summations - Garrett 
+
+
+to cause death or serious bodily harm. This requires you to make 
+a determination about the defendant’s state of mind at the time 
+of the conduct in question. I’ve already discussed with you the 
+fact that a person’s intent can rarely be proved by direct 
+evidence. You should consider the totality of the circumstances 
+presented by the evidence before you. —_ 
+
+The defendant’s intent in committing the crime must have 
+been to cause death or serious bedily harm. I remind you that 
+intentional conduct is done willfully, with a bad purpose to do 
+something the law forbids, in this case, to cause death or 
+serious bodily harm to the person from whom the car was taken. 
+
+It is the defendant’s theory of the case that the 
+evidence fails to prove that he acted with intent to cause death 
+or serious bodily harm. 
+
+If the government has failed to prove beyond a 
+reasonable doubt that the defendant acted with the intent to kill 
+or cause serious bodily harm to the particular victim, you must 
+find him not guilty of that offense. 
+
+The defendant is entitled to the presumption of 
+innocence with regard to all of the elements of the offense 
+including this element. That is, you must presume that the 
+defendant did not possess the intent to kill or cause serious 
+bodily harm and you must continue to give the benefit of that 
+presumption to the defendant unless and until it is proven beyond 
+a reasonable doubt that the defendant intended to cause death or 
+
+
+D.Pereira, OCR 
+
+
+337 
+Rebuttal Summations - Garrett 
+
+
+serious bodily harm at the time of the events you are 
+
+
+considering. 
+
+
+Evidence that the defendant intended to use a gun to 
+frighten the victims is not sufficient in and of itself to prove 
+an intent to kill or cause serious bodily harm. It is, however, 
+one of the facts you may consider in determining whether the 
+government has met its burden. 
+
+You may also consider the fact that no victim was 
+actually killed or seriously injured when you consider the 
+evidence or lack of evidence as to the defendant’s intent. 
+
+In some cases, intent is conditional. That is, a 
+defendant may intend to engage in certain conduct only if a 
+certain event occurs. 
+
+In this case, the government contends that the defendant 
+intended to cause death or serious body harm if the alleged 
+victims had refused to turn over their euse. If you find beyond 
+a reasonable doubt that the defendant had such an intent, the 
+government has satisfied this element of the offense. 
+
+If you find that the co-defendant, Vernon Lennon, acted 
+with the intent to cause death or serious bodily injury, that is 
+not sufficient. You must find that the defendant shared in that 
+intent before you can conclude that this element has been 
+satisfied. 
+
+Let me also remind you, you must consider each count 
+
+
+separately. 
+
+
+D.Pereira, OCR 
+
+
+338 
+Rebuttal Summations - Garrett 
+
+
+Serious bodily harm is defined to be “bodily injury” 
+which involves substantial risk of death, extreme physical pain, 
+protracted and obvious disfigurement, or protracted loss or 
+impairment of a bodily member, organ, or mental faculty. 
+
+This is to be distinguished from “bodily harm" which 
+means cut, abrasion, bruise, burn, or disfigurement, physical 
+pain or any other injury to the body, no matter how temporary. 
+
+Proof of intent to cause bodily harm as opposed to 
+serious bodily harm is insufficient. 
+
+The third element the government must prove is that the 
+taking of the motor vehicles were accomplished by force or 
+violence or by intimidation. 
+
+The government can meet its burden on this element by 
+proving beyond a reasonable doubt either that the defendant used 
+force or violence or that the defendant acted in an intimidating 
+manner, it need not prove both. The phrase “intimidating manner” 
+means that the defendant said or did something that would make an 
+ordinary person fear bodily harm or for the purpose of causing 
+another person to fear bodily harm. 
+
+However, it is not necessary for the government to prove 
+that the victim was actually frightened in order to establish 
+that the defendant acted in an intimidating manner. Your focus 
+should be on the defendant’s behavior. Although the government 
+does not have to show that the defendant’s behavior caused or 
+
+
+could have caused terror, the government does have to show that 
+
+
+D.Pereira, OCR 
+
+
+r 37a ® 
+
+
+356 
+
+
+written form, part of the charge. 
+
+I understood you to object to sending them the whole 
+charge. That’s why I am proceeding the way I intend to do 
+now. I am afraid by sending, in written form, just part of 
+it, I will undercut the bedrock principle that they should 
+view all my instructions as a whole. 
+
+MR. HANNA: We would respectfully object to this, 
+request that you send in the charge. 
+
+THE COURT: All right. Your request is denied. 
+
+Bring in the jury. 
+
+THE CLERK: All rise. 
+
+(11:30 - jury entered the courtroom). 
+
+THE COURT: Please be seated, everyone. Good 
+
+
+morning, ladies and gentlemen. Everybody made it in okay 
+
+
+eventually. 
+All right. At the end of the day yesterday, I 
+received from you what’s been marked as Jury Note 1: “Need a 
+
+
+copy of the law as stated by the Judge on intent.” 
+
+What I will do now is read to you the portions of the 
+charge I gave you yesterday that relate to intent. There are 
+two segments of the charge that respond to your note. 
+
+Let me remind you at the outset that although I 
+intend to do that, let me remind you not to single out any one 
+instruction, these ones included relating to intent, as alone 
+
+
+stating the law. Rather, you should consider my instructions 
+
+
+D.Pereira, OCR 
+
+
+357 
+
+
+a whole when you deliberate. 
+
+Now I instructed you regarding intent in two 
+respects. First, regarding knowledge, and intent generally as 
+opposed to in the context of the particular counts. Let me 
+reread to you my instructions regarding knowledge and intent 
+generally. 
+
+As a general rule, the law holds persons accountable 
+only for conduct they intentionally engage in. Thus, in 
+describing the various crimes that have been charged to you, I 
+have on occasion explained, before you can find the defendant 
+guilty you must be satisfied that he was acting knowingly and 
+intentionally. 
+
+Let me explain what these terms mean under the law. 
+
+A person acts knowingly if he acts purposely and 
+voluntarily and not because of a mistake or accident or some 
+other innocent reason. A person acts intentionally if he acts 
+willfully with the specific intent to do something the law 
+forbids. 
+
+Now the person need not be aware of the specific law 
+or rule that his conduct may be violating, but he must act 
+with a specific intent do whatever it is the law forbids. 
+
+These issues of knowledge and intent require you to 
+make a determination about a defendant’s state of mind, 
+something that can rarely be proved directly. A wise and 
+
+
+careful consideration of all the circumstances, including the 
+
+
+D.Pereira, OCR 
+
+
+6 ns ® 
+
+
+358 
+
+
+defendant’s actions and omissions, may permit you to make a 
+determination as to a defendant’s state of mind. Indeed, in 
+your everyday affairs, you are frequently called upon to 
+determine a person’s state of mind from his words and actions 
+and unique circumstances. You are asked to do the same thing 
+here. 
+
+Now, I also charged you regarding intent in 
+connection with the specific crimes charged in 7, 9, and 1l. 
+Those are the offenses charging the taking of a motor vehicle 
+by force, violence, or intimidation. 
+
+Just to give you a little bit context, I instructed 
+that there were four elements that must be proved by the 
+government beyond a reasonable doubt before you may find the 
+defendant guilty of any of those crimes. 
+
+Those elements are as follows. 
+
+First, that the defendant knowingly and willfully 
+took or attempted to take a motor vehicle. 
+
+Second, that the defendant, at the time of the 
+taking, intended to cause death or serious bodily harm. 
+
+Third, that the taking of the motor vehicle was 
+accomplished by force and violence or by intimidation. 
+
+And lastly, that the motor vehicle taken was 
+transported, shipped, or received in interstate commerce. 
+
+Now, it strikes us responsive to your note regarding 
+
+
+intent are the instructions regarding the second element, 
+
+
+D.Pereira, OCR 
+
+
+® - ® 
+
+
+359 
+
+
+element of intent. I will reread those to you now. 
+
+The second element the government must prove beyond a 
+reasonable doubt is that the taking of a motor vehicle was 
+committed with the intent to cause death or serious bodily 
+harm. This requires you to make a determination about the 
+defendant’s state of mind at the time of the conduct in 
+question. 
+
+I’ve already discussed with you the fact that a 
+person’s intent can rarely be proved by direct evidence. You 
+should consider the totality of the circumstances presented by 
+the evidence before you. The defendant’s intent in committing 
+the crime must have been to cause death or serious bodily 
+harm. I remind you that intentional conduct is done wilfully 
+with the purpose to do something the law forbids. In this 
+case, to cause death or serious bodily harm to the person from 
+whom the car was taken. 
+
+It is the defendant’s theory in the case that the 
+evidence fails to prove that he acted with indent to cause 
+death or serious bodily harm. If the government has failed to 
+prove beyond a reasonable doubt that the defendant acted with 
+the intent to kill or cause serious bodily harm to the 
+particular victim, you must find him not guilty of that 
+offense. 
+
+The defendant is entitled to the presumption of 
+
+
+innocence with regard to all elements of the offense, 
+
+
+D.Pereira, OCR 
+
+
+© 41a e 
+
+
+360 
+
+
+including this element of intent. That is, you must presume 
+that the defendant did not possess the intent to kill or cause 
+serious bodily harm and you must continue to give the benefit 
+of that presumption to the defendant unless and until it is 
+proven beyond a reasonable doubt that the defendant intended 
+to cause death or serious bodily harm at the time of the 
+offense you are considering. 
+
+Evidence that the defendant intended to use a gun to 
+frighten the victims is not sufficient in and of itself to 
+prove an intent to kill or cause serious bodily harm. It is, 
+however, one of the facts you may consider in determining 
+whether the government has met its burden. You may also 
+consider the fact that no victim was actually killed or 
+seriously injured when you consider the evidence or the lack 
+of evidence on the defendant’s intent. 
+
+In some cases, intent is conditional. That is, a 
+defendant may intend to engage in certain conduct only if a 
+certain event occurs. 
+
+In this case, the government contends that the 
+defendant intended to cause death or serious bodily harm if 
+the alleged victims had refused to turn over their cars. If 
+you find beyond a reasonable doubt that the defendant had such 
+an intent, the government has satisfied this element of the 
+offense. If you find that the co-defendant, Vernon Lennon, 
+
+
+acted with the intent to cause death or serious body injury 
+
+
+D.Pereira, OCR 
+
+
+® 2 e 
+
+
+x 
+
+
+361 
+
+
+that is not sufficient. You must find that the defendant 
+shared in that intent before you can conclude that this 
+element has been satisfied. 
+
+I remind you must consider each count separately. 
+
+Serious bodily harm is defined to be bodily injury 
+which involves substantial risk of death, extreme physical 
+pain, protracted and obvious disfigurement or protracted loss 
+or tnesioonnt of a bodily member, organ, or mental faculty. 
+This is to be distinguished from mere bodily harm, which | 
+means, cut, abrasion, bruise, burn, disfigurement or physical 
+pain or any other injury to the body no matter how temporary. 
+Proof of intent to cause bodily harm is insufficient. 
+
+Those are my instructions to you regarding intent. 
+Hopefully, that answers your question. 
+
+Let me ask you to return to the jury room and resume 
+your deliberations. 
+
+THE CLERK: All rise. 
+
+(10:45 a.m. - Jury deliberations resume. ) 
+
+THE COURT: Please be seated. 
+
+
+(Court in recess awaiting the verdict of the jury.) 
+
+
+D.Pereira, OCR 
+
+

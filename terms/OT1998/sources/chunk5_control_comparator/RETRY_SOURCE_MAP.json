@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZS.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZO.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZC.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-2000.ZX.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZS.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/97-1184.ZO.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/127ORIG.ZO.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  },
+  {
+    "url": "https://www.law.cornell.edu/supct/html/98-1412.ZPC.html",
+    "error": "<urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond>"
+  }
+]

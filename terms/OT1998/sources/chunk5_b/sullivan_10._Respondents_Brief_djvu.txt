@@ -1,0 +1,2840 @@
+‘In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1998 
++ 
+
+
+AMERICAN MANUFACTURERS MUTUAL 
+INSURANCE COMPANY, et al., 
+
+
+Petitioners, 
+
+
+DELORES SCOTT SULLIVAN, et al., 
+
+
+Respondents. 
+o 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+for The Third Circuit 
+
+
+¢ 
+BRIEF OF RESPONDENTS 
+
+> 
+*LORALYN McKINLEY ALAN B. EPSTEIN 
+McKinley and Vonier Jablon Epstein 
+1333 Race Street A Professional Corporation 
+Philadelphia, PA 19107 The Bellevue, Ninth Floor 
+(215) 569-1644 Broad Street at Walnut 
+
+
+Philadelphia, PA 19102-3803 
+
+
+Counsel for Delores Scott (215) 790-0300 
+
+
+Sullivan, William Battle, 
+
+
+Anthony Cancila, Louis Counsel for Charles 
+Baumgartner, and Class Matthews, Christopher 
+Plaintiffs Costello, Lisa Lex, Susan 
+
+
+Hansen, Terrance Ervine, 
+William C. Dillon, and Class 
+Plaintiffs 
+
+
+"Counsel of Record 
+
+
+THOMAS J]. O'BRIEN 
+
+Galfand, Berger, Lurie, Brigham, 
+Jacobs, Swan, Jurewicz & Jensen 
+
+1818 Market Street, 23rd Floor 
+
+Philadelphia, PA 19103 
+
+(215) 665-6814 
+
+Counsel for PhilaPOSH 
+
+
+LINDA M. MARTIN 
+
+Willig, Williams & Davidson 
+1845 Walnut Street, 24th Floor 
+Philadelphia, PA 19103 
+
+(215) 656-3600 
+
+Counsel for Intervenor 
+Philadelphia Federation of Teachers 
+
+
+‘BEST AVAILABLE COPY’ 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether insurance companies were “state actors” 
+when, acting in conjunction with a state agency, they used 
+Statutory provisions authorizing them to stop workers’ com- 
+pensation medical benefits that were disabled workers’ 
+legally exclusive source of medical benefits? 
+
+
+2. Whether due process requires that disabled workers 
+receive prior notice and an opportunity to be heard before 
+their workers’ compensation medical benefits can be 
+indefinitely suspended pending utilization review and admin- 
+istrative hearings? 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+CORSRTAMROTNGEE ... .cccccccusecccuadneccd sbhtosenes ! 
+History and Scope of the Workers’ Compensation Act .... 4 
+
+
+The Operation of the Workers’ Compensation System... 7 
+
+
+Baksalary v. Smith Holds Automatic >upersedeas Uncon- 
+
+
+GIES. oo. cnc cnstcccecndctoviscshpanhounees ds 8 
+Medical Disputes Prior to Act 44...............66655 9 
+Vio Pumas G6 AGS 66. oo. ccccccercctevctqaus Neuse 10 
+District Comst Poecoedings. ... ...cacccscccccccesssece 13 
+The Appellate Proceedings ...............ceesecccees 15 
+
+I. Introduction and Summary of Argument ......... 16 
+
+
+Il. The Third Circuit Correctly Held That the Utiliza- 
+tion Review Provisions Violated Due Process .... 19 
+
+
+Ill. Plaintiffs’ Facial Challenge Renders the Discrete 
+Tests Inapplicable and Directly Implicates the State 
+in the Decision to Stop Medical Benefits ........ 24 
+A. A Totality of the Circumstances Approach Should 
+Be Used to Find State Action Where There Is No 
+Facial Constitutional Challenge................ 31 
+1. Edmonson’s Totality Test................ 31 
+
+
+2. Application of the Totality Test to the 
+Employer's Role in Utilization Review... 33 
+
+
+a. Governmental Assistance and Benefits .. 33 
+b. Traditional Government Function .... 35 
+
+
+*** 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+c. Aggravation by Unique Incidents of 
+Governmental Authority............. 
+
+
+d. The Third Circuit Properly Applied the 
+Edmonson Factors .................. 
+
+
+B. Even If Discrete Tests Are Required, the Third 
+Circuit’s State Action Holding Against the 
+Insurers Should Be Affirmed ............... 
+
+
+2. 
+3. 
+
+
+Conclusion 
+
+
+Joint Participation/Symbiotic Relationship 
+Ber dcasivosenetecnsbodaiccneshe ssa cs 
+
+
+The Public Function Test............... 
+
+
+Government compulsion and Encourage- 
+
+
+“ee eer eeneeneneneeneenrenneeneeeeee eee ee ee ee hh ehhh he ee 
+
+
+38 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Arizona v. California, 460 U.S. 605 (1983)............ 21 
+ADIA Personnel Agency v. Workers Compensation 
+Appeal Board, 137 Pa.Cmwith. 405 (1991) .......... 10 
+Alliance For Community Media v. F.C.C., 10 F.3d 812 
+CE. Gs Fen Kav co vebecsevettlecveun 18, 30, 48, 50 
+Baksalary v. Smith, 579 F. Supp. 218 (E.D. Pa. 1984), 
+appeal denied, 469 U.S. 1146 (1985), aff'd, 772 
+> f Fs fo Serre rrr rT eee 8,9 
+
+
+Baksalary v. Smith, 591 F. Supp. 1218 (E.D. Pa. 1984) 
+04 vans’ su Bae ena iebednen<eepenes 9, 10, 31, 39, 46, 47 
+
+
+Bayless v. Philadelphia National League Club, 472 
+
+
+F. Supp. 625 (1979), aff'd, 615 F.2d 1352 (1980)..... 5 
+Bell v. Burson, 402 U.S. 535 (1971) ..............45..- 21 
+Bible v. Com., Dept. of Labor & Ind., 548 Pa. 247 
+
+COGRPD. cv ccindvntndedsccsWartdiesdisre Rectarstdtons 6 
+Blum v. Yaretsky, 457 U.S. 991 (1982) ......... 18, 43, 47 
+BMW of North America, Inc. v. Gore, 517 U.S. 559 
+
+CURRED 6 ac ccnkuhéewscaecutensevhseededed tee dadeats 25 
+Boddie v. Connecticut, 401 U.S. 371 (1971) ........... 20 
+
+
+Burton v. Wilmington Parking Authority, 365 U.S. 715 
+GRIER co oe daddavencaesssdctdeeteueenen 32, 40, 41, 43, 44 
+
+
+Cleveland Board of Education v. Loudermill, 470 U.S. 
+TES GHSGEs os vchcdidus dibs crbbeaeeestudeeecenviess 21 
+
+
+Cohen v. Cowles Media Co., 501 U.S. 663 (1991)...... 25 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Connecticut v. Doehr, 501 U.S. 1 (1991)....... 20, 21, 23 
+Edmonson v. Leesville Concrete Co., Inc., 500 US. ~ 
+
+SP GON ecles cb bectwanies de dst cevesedteen oes passim 
+Evans v. Newton, 382 U.S. 296 (1966) ............. 29, 31 
+Ex Parte Virginia, 100 U.S. 339 (1879) ............... 24 
+Flage Brothers, Inc. v. Brooks, 436 U.S. 149 (1978) 
+
+b ethine¥l chain share onssunde shavencite 18, 29, 44, 49 
+Fuentes v. Shevin, 407 U.S. 67 (1972).......... 17, 21, 23 
+Gallagher v. Neil Young Freedom Concert, 49 F.3d 
+
+es Ss Medinds chun cd nnedistysdesseee> dec 45 
+Garcia v. San Antonio Metropolitan Transit Authority, 
+
+Rs he ee ede te wees dawn? 45 
+Goldberg v. Kelly, 397 U.S. 254 (1970) ............... 21 
+Goss v. Lopez, 419 U.S. 565 (1975)................... 21 
+— fp OG OR 8 RAEI RAE AS Pee 3 
+Hankee v. Wilkes-Barre/Scranton Int'l Airport, 532 
+
+Sy GT ME clOLGubdi ed Guubesdecarbetuwesdcbecs 6 
+Henderson v. Workers’ Compensation Appeal Board, 
+
+SP Sy EP GHD Sch sbah cdatcb wed sadeecdes 46 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345 
+
+Gs 5b. aw 8605 c dns Wettindes es cxévi dient 18, 47, 49 
+Joint Anti-Facist Refugee Committee v. McGrath, 341 
+
+east Pe GS nb 0 cobb ee hn Seen desevitentesoves 39 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Keller v. Old Lycoming Township, 286 Pa. Super. 339 
+(OGRE)... ccnccicccnsndcvcns debs anaes coeskeseueers 6 
+Krawchuk v. Philadelphia Electric Co., 497 Pa. 115 
+(OGRE) ccvic cd oviaksi-es be chovkssGhsb setae bescnaeurest 4 
+Lebron v. National Railroad Passenger Corp., 513 
+OB. FIG CURSE ow dickesacetecscvsbacitcvsnesbaes 18, 29 
+
+
+Logan v. Zimmerman Brush Co., 455 U.S. 422 (1982) 
+s sate od ddewbens Ob aeaLeenstenvaren 1, 20, 21, 24, 31, 37 
+
+
+Lugar v. Edmondson Oil Co., 457 U.S. 922 (1982) 
+‘eckews ceil cb sadadns deen kee ela 32, 41, 43, 44 
+
+
+Mark v. Borough of Hatboro, 51 F.3d 1137 (3d Cir. 
+
+
+Mathews v. Eldridge, 424 U.S. 319 (1976)... .1, 21, 22, 23, 24 
+
+
+McKeesport Hospital v. Accreditation Council, 24 
+P36 SEP C56 Gee. Ge cks sbeceitorensecsasiaanys 44 
+
+
+Memorial Hospital v. Maricopa County, 415 U.S. 250 
+CORE: coctcsnsdsencedctruvetivvathitar thn 22 
+CODED 0050550 askdeddabavebese h440c0idandeneeee 20, 21 
+Moose Lodge No. 107 v. Irvis, 407 U.S. 163 (1972) .... 47 
+
+
+Mullane v. Central Hanover Bank & Trust Co., 339 
+, ee Es poidcc chcamevnkantetess denen 21 
+
+
+Muskrat v. U.S., 219 U.S. 346 (1911) ......-.-.. 2002 ee. 3 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+NAACP v. Claiborne Hardware Co., 458 U.S. 886 
+SR Kn oh boss baW ubeha Daves beeees bee tee skésobaes 25 
+National Collegiate Athletic Association v. Tarkanian, 
+Ee NS ado ss ones deel oudb Udebensdenes 35 
+New York Times Co. v. Sullivan, 376 U.S. 254 (1964) 
+ieaecbisiws bath Whos ki Wah hed cen beens 16, 17, 24, 25 
+Nixon v. Condon, 286 U.S. 73 (1932)... 16, 17, 18, 25, 29, 31 
+Parratt v. Taylor, 451 U.S. 527 (1981)................ 20 
+Paul v. Watchtower Bible and Tract Society, 819 F.2d 
+ee Sy Aas GGUS ivdde eee cede cheeses deve 24 
+Reitman v. Mulkey, 387 U.S. 369 (1967)........... passim 
+Rendell-Baker v. Kohn, 457 U.S. 830 (1982)........ 18, 49 
+Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555 
+ed hic stab Bal bites eaikeS shaded eWes uhvvegs sie 39 
+Rumph v. SWIF, 964 F. Supp. 180 (E.D. Pa. 1997)...... 2 
+San Francisco Arts and Athletics, Inc. v. United States 
+Olympic Committee, 483 U.S. 522 (1987)............ 46 
+Silas v. Smith, 361 F. Supp. 1187 (E.D. Pa. 1973)...... 46 
+Smith v. Allwright, 321 U.S. 649 (1944)............ 16, 17 
+Sniadach v. Family Finance Corp., 395 U.S. 337 
+inh dhuibicin ike Ghided caked uae da che edes bbb? 4000 17 
+
+
+Stonebraker v. Workers’ Compensation Appeal Board, 
+163 Pa.Cmwith. 468 (1994) ......... 000.6000 0c 22 
+
+
+Tulsa Prof’! Collection Services, Inc. v. Pope, 485 
+Se stn ws Caves ccdcdetsvesetevsadcece passim 
+
+
+Vill 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+United Auto Workers v. Gaston Festivals, Inc., 43 
+P56 SSR Gli Gis... SHR son vc nanveauncsvnesastuses- 4a 
+United States v. “'assic, 313 U.S. 299 (1941).......... 39 
+West v. Atkins, 487 U.S. 42 (1988)................ passim 
+Winterberg v. Transportation Insurance Co., 72 F.3d 
+See Ce GH FOO hc web n naceaeennesiare cus ci sent 5, 6 
+Zinermon v. Burch, 494 U.S. 113 (1990)............. 1, 20 
+STATUTES AND REGULATIONS 
+Federal Rules of Civil Procedure 12(b)(6) .......... 14, 50 
+BB: GBA. 0. Fa cc ciccck Chas Kav desdvcdiwte lee veces 8 
+42 UBL. 8. WAG. s . ccvivcdiccctrevcewisssacscewvinasaue I 
+SA PU. GG FRB E + 0.0.4 c'ivieeic vb vtic vat enaveeess tticune 7 
+ue, * SBP FPP Aerie rr ee l 
+Te Gee Rk... OS Bs 3 vse ca daws arenas euddceu eae 9 
+Te Pe ee, Ge Ee os nw cathens sets bauudeiens 8, 9, 46 
+OF CUE De. SB Gs co vaccriacbeveiahssecrsnasente 5 
+OY eee AE, B Ge cab ni ndcscheriidyesonnedine 5,7 
+ue, YE Re es Pht, ewe 5 
+Te Pee Bam. & Beet e hs coccvvsvivsiedacuevacetiones 5 
+TE POBORARR. GGG 6 ica ot iia tM 10 
+ve,” © Re 8. FRR er ee seer 6, 7 
+OF. POR: BE BOGE 0x on 63 vnckncadseee des passim 
+
+
+a Ee 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES —- Continued 
+
+
+Page 
+Pe ys He bs oh ebC NUNES SO ba wend Ces passim 
+SE RET RET ae Wer IIn Sees 12 
+NT i a ga oh aot 2 ard 7 
+ee 5 oa cs bbe ce cients bce doe ecs 7 
+Aa fe Wao ig a a 7,8 
+NEE Sy PERRIER ae OEE paniaw ee Caen Beer 7 
+rice Fp itatise Pra eaten Syairehe a BBA AAC ne tof prac 7,8 
+kt ae pe IR ST ee rari Pome ye 8 
+Se I Nh Co ok Cbs hatacwoveyedeatend 8, 12 
+pM ERP a me ig seen MLTR aap Ber 5 
+OrHer AUTHORITIES 
+Brest, State Action and Liberal Theory: A Case Note 
+on Flagg Brothers v. Brooks, 130 Pa. L. Rev. 1296 
+SI SARENADES DENS pA Geren ts ery Pee OAR NRE tae ees 17 
+ten Broek, The Disabled and the Law of Welfare, 54 
+Se ae en ee OE Be a aa bude bb budekcives 6 
+Strickland, The State Action Doctrine and the Rehn- 
+quist Court, 18 Hastings Const. L. Q. 587 (1991) 
+eb dR rad eras Oe es Nae Tee ae debe Pou eee i 24, 25, 32 
+Krotoszynski, Back to the Briar Patch: An Argument 
+in Favor of Meta-Analysis in State Action Deter- 
+nO cd es 25 
+
+
+BLACK’S LAW DICTIONARY, 4th Ed. (1951) ........ 13 
+
+
+COUNTERSTATEMENT 
+
+
+This case presents a direct constitutional challenge to the 
+utilization review procedures enacted in 1993 by the Pennsylvania 
+legislature to amend its Workers’ Compensation Act.' Those pro- 
+cedures permitted insurers or self-insured employers (hereafter 
+“Petitioners” or “employers”) to stop or supersede the workers’ 
+compensation medical benefits of thousands of injured workers, in 
+which the workers have an undisputed property interest, without 
+notice and with no pre-deprivation opportunity to be heard. These 
+amendments were part of a legislative package directed at cost 
+containment known commonly as “Act 44”. 
+
+The Respondents in this case, the Plaintiffs below (hereafter 
+“Plaintiffs” or “injured workers”), contended that the state, which 
+administers the benefit program and has exclusive control over the 
+resolution of disputes among the parties, violated their right to due 
+process of law under the Fourteenth Amendment and 42 U.S.C. 
+§ 1983 when it established the procedures contained in § 306 
+(f.1)(5) and (6) of the Act, which delegated to the employers the 
+power and authority to supersede an injured workers’ medical 
+benefits without any pre-deprivation notice or opportunity to be 
+heard. Zinermon v. Burch, 494 U.S. 113 (1990); Logan v. Zimmer- 
+man Brush Co., 455 U.S. 422 (1982); Mathews v. Eldridge, 424 
+U.S. 319 (1976).? Plaintiffs also sued ten named insurance carriers, 
+contending that they were state actors in the context of the statu- 
+tory scheme and therefore liable to plaintiffs for the violation of 
+their due process rights. 
+
+The Third Circuit Court of Appeals found the Commonwealth 
+defendants below constitutionally liable to Plaintiffs for their role 
+in enacting and administering the challenged provisions. It further 
+held that the employers and insurers who use the utilization review 
+
+
+' Pa. Stat. Ann. tit.77, Sec. 1 et seqg., Act of June 2, 1915, P.L. 736. 
+
+
+2 In bringing this challenge, Plaintiffs sued numerous state officials 
+responsible for implementation and administration of the law as well as the 
+ten insurers named as Petitioners in this case, who have assumed the 
+employers’ responsibilities and immunities under the terms of the Act. 
+Plaintiffs also sued the School District of Philadelphia, representing self- 
+insured Pennsylvania employers. 
+
+
+2 
+
+
+provisions to stop an injured worker's vested medical benefits 
+pending resolution of the utilization review and appellate pro- 
+cess, a process which can take months or years to complete, are 
+state actors when they use those provisions.’ In reaching this 
+conclusion, the Third Circuit applied a flexible approach that 
+viewed the decision to invoke utilization review in the context 
+of the overall statutory scheme, and focused on the importance 
+of the public benefit at issue. The court recognized the integral 
+role that the employer plays in delivering this public benefit, 
+and the close systemic relationship between the state and the 
+employers in the context of utilization review, which the court 
+found is a state created and administered mechanism that 
+empowered the employer to supersede the public entitlement. 
+The Third Circuit held that the Commonwealth defendants and 
+the insurers, who are the Petitioners here, were jointly liable to 
+Plaintiffs for the violation of their constitutional rights.* 
+
+
+Although the Commonwealth defendants filed a Condi- 
+tional Cross Petition for Writ of Certiorari as to the Third 
+
+
+* Insurers stand in the shoes of the employers, whose liability they 
+assume, for purposes of the Act. Because there 1s no meaningful distinction 
+between them, most references will be to employers, unless the Petitioners 
+themselves are being discussed. 
+
+
+* Because of the way the Third Circuit disposed of the state action 
+issue, it was not forced to confront the equal protection issue which would 
+have arisen had it decided that the law violated the due process clause but 
+that the private insurers and self-insured employers using the law were not 
+state actors. Pet.App. at 25a. The equal protection problem would arise 
+because it is undisputed that the State Workers’ Insurance Fund (“SWIF"), 
+which provides workers’ compensation coverage not only to public 
+employers in Pennsylvania, but to a wide array of private employers as 
+well, is a state actor. Rumph v. SWIF, 964 F. Supp. 180 (E.D. Pa. 1997). See 
+also Petitioner's Brief, 30 n.15. Under these circumstances an employee 
+whose workers’ compensation coverage is funded through SWIF would be 
+afforded the protections of the due process clause, whereas an employee 
+whose coverage is funded through a private insurer would not. There is no 
+rational basis for such a distinction, and it could not withstand an equal 
+protection challenge. It would also wreak havoc in Pennsylvania's 
+workers’ compensation system. 
+
+
+a ee 
+
+
+3 
+
+
+Circuits’ holding against them, that petition was denied by 
+this Court. Subsequent to the Third Circuit’s decision, the 
+Buréau changed its procedures to ensure that injured workers 
+subject to utilization review are provided with a notice which 
+informs them of their opportunity to submit a written state- 
+ment to the utilization reviewer and that if the review is 
+adverse, their medical benefits may be lost.5 The Plaintiffs’ 
+case against the Commonwealth, therefore, is over and the 
+Commonwealth defendants are not participants in these pro- 
+ceedings. 
+
+Because the due process issue has been resolved through 
+the Third Circuit’s holding against the Commonwealth and 
+the Commonwealth's modification of its procedures, the only 
+issue which requires the Court's decision is whether the Third 
+Circuit properly held that insurers who invoke utilization 
+review and stop the medical benefits of injured workers are 
+state actors. To the extent that the Petitioners seek a ruling on 
+the due process issue, they are requesting an advisory opinion 
+which does not comport with the scope of this Court’s juris- 
+diction under Article III of the United States Constitution.® 
+Muskrat v. United States, 219 U.S. 346 (1911). The insurers 
+are seeking a declaration from this Court that the right to stop 
+the medical benefits of an injured worker, a right no longer 
+
+
+> Joint Appendix, hereafter “Jnt. App.”, at 50. 
+
+
+© The provision challenged in Plaintiffs’ Amended Complaint states: 
+“All payments to providers for treatment provided pursuant to the Act shall 
+be made within thirty (30) days of receipt of such bills and records unless 
+the employer or insurer disputes the reasonableness or necessity of the 
+treatment provided pursuant to paragraph (6)” (relating to utilization 
+review). The Third Circuit struck the “unless” clause from the statute 
+because it allowed the employers to stop a public benefit without notice or 
+an opportunity to be heard. Without the “unless” clause, there is no 
+mechanism left in the statute that would allow the employers to supersede 
+an injured worker's benefits. The Commonwealth is not defending the 
+pre-Sullivan statute, and the Petitioners’ due process position, therefore, 
+raises important mootness questions. Hall v. Beals, 396 U.S. 45. 48 (1969). 
+
+
+4 
+
+
+conferred upon them by Pennsylvania law, would be constitu- 
+tional should the state later decide to restore it.’ Such a 
+request is inappropriate and should be denied. 
+
+
+History and Scope of the Workers’ Compensation Act 
+
+
+The Pennsylvania's Workers’ Compensation Act (hereaf- 
+ter “the Act”), was passed in 1915 to compensate workers for 
+disabilities or death suffered as a result of work-related inju- 
+ries or occupational diseases. Prior to the enactment of the 
+legislation, injured workers and their survivors could litigate 
+claims against their employers for damages, including lost 
+wages, medical costs, pain and suffering and other traditional 
+tort remedies. However, because this was an action in tort, 
+workers who failed to prove employer negligence were left 
+with no remedy at all. See Krawchuk v. Philadelphia Electric 
+Co., 497 Pa. 115 (1981). 
+
+
+The Act reflected a major compromise in the interests of 
+both employers and employees. In exchange for the guarantee 
+
+
+? Petitioners’ due process challenge is incomprehensible as it 
+confuses their request for a prospective advisory ruling with the remedy 
+which should flow from their past use of the unconstitutional procedures. 
+The Third Circuit's ruling as to the state's notice procedures and its 
+requirement that Plaintiffs be given an opportunity to be heard were 
+premised upon the duty of the Commonwealth to provide procedural 
+protections before the deprivation of benefits took place. The Petitioners 
+have not challenged the Third Circuit's holding that the lack of notice and 
+opportunity to be heard in the state’s procedures rendered the statute 
+unconstitutional. See Petitioner's Brief at 30. Having conceded that the 
+lower court's constitutional ruling as to notice and opportunity to be heard 
+were correct, their contention here that the pre-deprivation supersedeas 
+would be constitutional, if it still existed, makes no sense. If the statute was 
+unconstitutional as presented to the Third Circuit, the only issue properly 
+before the Court is whether the Petitioners were state actors when they 
+invoked it. The inquiry as to whether the supersedeas of benefits by them 
+pursuant to the procedures as modified by the state would make them liable 
+for the constitutional violation prospectively has nothing to do with 
+whether they are liable to Plaintiffs for the deprivation which took place 
+under the original statutory provisions, which concededly provided neither 
+notice nor an opportunity to be heard. 
+
+
+5 
+
+
+of payment for wage loss and medical costs from injury 
+regardless of fault, the employee forfeited her constitutional 
+right to sue her employer in tort. Winterberg v. Transportation 
+Insurance Co., 72 F.3d 318 (3d Cir. 1995). Workers’ compen- 
+sation became the exclusive remedy for work related injuries 
+in Pennsylvania. 77 P.S. § 481; Bayless v. Philadelphia 
+National League Club, 472 F. Supp. 625 (E.D. Pa. 1979), 
+aff'd, 615 F.2d 1352 (3d Cir. 1980).* 
+
+In 1974, the Act was amended, making it mandatory for 
+employers to provide workers’ compensation coverage for 
+their employees. Act of Dec. 5, 1974, P.L. 782, 784, Pa. Stat. 
+Ann. tit. 77, § 461, 481(a). Under the Act, employers may 
+satisfy their obligation to insure against their employees’ 
+work-related injuries or occupational diseases in one of three 
+ways: (1) the employer may retain a “private” insurance 
+carrier authorized by the Pennsylvania Insurance Department 
+to sell or issue workers’ compensation insurance in Pennsy|- 
+vania; (2) the employer may insure itself through SWIF, a 
+fund created by the General Assembly and administered by 
+state employees and officers; or (3) the employer may self- 
+insure. Any employer who fails to obtain coverage through 
+one of these methods is subject to fines, imprisonment, or 
+both. /d. at § 501. In the event that an employer cannot 
+procure imsurance coverage, the state, through SWIF, will 
+provide the insurance itself. /d. In the event of insolvency the 
+State provides benefits to injured workers through a state 
+administered security fund. 77 Pa. Stat. Ann. § 1055. 
+
+Thus, the workers’ compensation system is not a private 
+insurance model. Winterberg, 72 F.3d 318, 325, n.4 (3rd Cir. 
+1995) (distinguishing workers’ compensation from private 
+insurance). Although private insurers and employers partici- 
+pate in the provision of benefits, the workers’ compensation 
+system in Pennsylvania is a comprehensive public benefit 
+
+
+® Pursuant to the statute, the insurer not only assumes all of the 
+employer's liability, but also, is “entitled to all of the employer's 
+immunities and protection” under the Act. 77 PS. 501(a)(1). Accordingly, 
+an injured worker cannot sue the insurer for bad faith, a mght he would 
+have outside the context of the Act. 
+
+
+6 
+
+
+mechanism intended to fulfill important constitutional and 
+statutory objectives.? Unlike under private insurance, the 
+injured worker has a statutory right to have the wage and 
+
+
+® The Petitioners vigorously dispute that workers’ compensation 
+benefits in Pennsylvania are public benefits. They cite no legal authority 
+for their contention, and rely upon patently inapt analogies to deny what 
+has been explicitly stated by the Pennsylvania Supreme Court, ie., that 
+workers’ compensation benefits are not a matter of contract, but are 
+provided as a statutory entitlement through the Commonwealth's police 
+power. Bible v. Department of Labor and Industry, 548 Pa. 247 (1997), 
+Hankee v. Wilkes-Barre/Scranton Int'l Airport, 532 Pa. 494 (1992). That 
+workers’ compensation benefits are public benefits as a matter of law is 
+evident from the following: the right to workers’ compensation is 
+guaranteed to all workers in Pennsylvania who are not self-employed, and 
+this guarantee 1s enforced by the state. Workers cannot bargain away their 
+right to workers’ compensation, and they may not opt out in favor of their 
+own privately obtained coverage. A plaintiff aggneved by the conduct of 
+his employer or its insurer cannot drop his coverage and shop for a new 
+carner and he may not procure care for his injuries outside the provisions 
+of the Act. 77 PS. § 531(3\i). He is not a party to any contract other than 
+the one with his employer, moreover, the employer's duty to provide for 
+workers’ compensation does not emanate from a contract or imsurance 
+policy, but from state law, workers’ compensation constitutes a quid pro 
+quo for the right of workers to sue their employers for damages as a result 
+of workplace injuries. It is the exclusive remedy for such injuries. 
+Winterberg, supra. The private resolution of workplace injuries through 
+civil litigation was replaced by a publicly administered Bureau which 
+dictates the level of benefits to be paid, the circumstances under which 
+benefits can be paid, as well as those under which they can be suspended 
+and terminated. The Bureau is an integral participant in the statutory 
+model. Workers’ compensation has been deemed by the Pennsylvania 
+Courts to be a public benefit, equivalent to “a soldier's right to a pension”. 
+Keller v. Old Lycoming Township, 286 Pa. Super. 339, 348 n.6 (1981). See 
+also ten Broek, Disability and the Law of Welfare, 54 Cal.L.Rev. 809, 822 
+(1966) (“governmental discretion as to the amount, character, and 
+conditions of aid, and governmental machinery and technical apparatus 
+brought to bear upon the assessment of individual need, are prime 
+characteristics of the system of public welfare”). 
+
+
+7 
+
+
+medical coverage provided to him or her at no charge. This 
+coverage is guaranteed by the Commonwealth, which vigor- 
+ously enforces the entitlement through the Bureau of 
+Workers’ Compensation (“the Bureau”). 
+
+Conversely, the injured worker has no right to opt out of 
+the workers’ compensation system, in favor of his own pri- 
+vate imsurance coverage or no coverage at all. 77 PS. 
+§ 481(a). Moreover, the injured worker is statutorily prohib- 
+ited from securing medical services for work-related injuries 
+from his own funds. 77 P.S. § 531(3)(i). In addition, the 
+employee has no right to choose the provider of his benefits. 
+The employee is a captive of whatever carrier the employer 
+contracts with, subject to the protections of the Act. 
+
+
+The Operation of The Workers’ Compensation System 
+
+
+The Bureau works hand in hand with employers to pro- 
+vide benefits to injured workers. Whether benefits are paid by 
+the employer directly, through SWIF, or by a commercial 
+insurer, the Bureau is an integral participant in the operation 
+of the statute. It actively enforces the Act's mandates and is 
+authorized to ensure compliance by insurers through the 
+assessment of monetary penalties for violation of its provi- 
+sions. 77 P.S. § 701. Pursuant to its statutory authority, the 
+Bureau has adopted regulations implementing the Act and has 
+imposed numerous reporting requirements upon employers 
+and insurers involved in the system. 34 Pa. Code § 121.1 er 
+seq. For uniformity and ease of administration, the Bureau 
+has developed numerous forms for each of these reporting 
+requirements. Use of these forms is mandatory. 77 PS. 
+§§ 717.1, 711, 731. 
+
+
+The Bureau is more tuan a passive repository for com- 
+pleted forms, however. The mandated documents reflect the 
+legal status of every injured employee. The Bureau not only 
+collects these documents, but reviews them for compliance 
+with the Act. 77 P.S §§ 715, 731. In the event of a dispute 
+between the parties, these documents will provide the basis on 
+which the state ultimately determines the injured worker's 
+entitlement. 77 P.S. § 731. They also provide a foundation for 
+enforcement actions against employers or insurance carriers 
+
+
+which the Bureau determines are in violation of the provi- 
+sions of the Act. 77 P.S. § 991. 
+
+
+Baksalary v. Smith Holds Automatic Supersedeas Uncon- 
+stitutional 
+
+
+From 1984, until the Pennsylvania Legislature passed Act 
+44, which encompasses the utilization review provisions at 
+issue in this case, an employee eligible to receive workers’ 
+compensation benefits'® could not have those benefits stopped 
+without his consent, even temporarily, without an order from 
+a workers’ compensation judge. This was the result of a 
+federal court order in Baksalary v. Smith, 579 F. Supp. 218 
+(E.D. Pa. 1984), appeal denied, 469 U.S. 1146 (1985) aff'd, 
+772 F.2d 893 (3d Cir. 1985). A unanimous three-judge panel''! 
+in Baksalary invalidated a portion of Section 413(a) of the 
+Act, which had provided for the automatic cessation, or 
+supersedeas, of workers’ compensation benefits upon an 
+employer's filing of an affidavit of recovery with the state 
+workers’ compensation authorities, accompanied by a physi- 
+cian’s affidavit, or an affidavit that the worker had returned to 
+work. A supersedeas invoked in this way would remain in 
+effect throughout the litigation over whether the employee's 
+
+
+'© Petitioners imply that the insured workers have obtained their 
+current medical treatment with no screening process and that, therefore, the 
+reasonableness and necessity of the treatment has never been ascertained, 
+to the unfair detriment of the insurers. This is not the case. A person can 
+become entitled to workers’ compensation benefits either by voluntary 
+agreement between the parties or the unilateral acknowledgment by the 
+employer that the injury is compensable. Alternatively, eligibility can be 
+established through a favorable decision by a workers’ compensation judge 
+after extensive hearings. 77 PS. § 717(1), 731, 751. Each of the named 
+plainuffs and each member of the class they seek to represent have become 
+entitled to receive workers’ compensation medical benefits through one of 
+these mechanisms. They are not applicants, but pursuant to the terms of the 
+Act, have been determined eligible for the medical benefits they were 
+receiving at the me those benefits were stopped. 
+
+
+'! Baksalary was decided by a three judge court convened under 28 
+U.S.C. § 2281, repealed Pub. L. 94-381, §§ 1, 2 effective Aug. 12, 1976, 90 
+Stat. 1119. 
+
+
+a ee 
+
+
+right to benefits should be permanently terminated or sus- 
+pended. 
+
+The Baksalary court held that the automatic supersedeas 
+provision contained in Section 413(a) was unconstitutional 
+because it deprived injured workers of a property right in 
+their workers’ compensation benefits without notice or an 
+opportunity to be heard. In reaching that decision, the court 
+held that insurers and self-insured employers were state actors 
+for purposes of the Fourteenth Amendment when they 
+invoked the automatic supersedeas provision of Section 
+413(a). This was based upon the formal and systematic partic- 
+ipation of state personnel which was triggered by the 
+employer's invocation of supersedeas in each case. 
+
+
+The Baksalary decision was followed by a consent decree 
+that eliminated the automatic supersedeas provision of Sec- 
+tion 413(a). Baksalary v. Smith, 591 F. Supp. 1218 (E.D. Pa. 
+1984). Unless an injured worker returned to work with no 
+wage loss, there was no remaining provision in the Act by 
+which an automatic and unilateral cessation of workers’ com- 
+pensation benefits could be achieved. All terminations of 
+benefits, even temporary ones, were required to be preceded 
+by fair notice and a hearing.'? 
+
+Medical Disputes Prior to Act 44 
+
+
+After Baksalary and before the passage of Act 44, all 
+disputes about medical treatment were completely protected 
+from unilateral cessation by an employer or insurer. Disputes 
+as to the reasonableness and necessity of the treatment, (the 
+focus of utilization review), were exclusively resolved by 
+petition filed with the Bureau and assigned to a workers’ 
+compensation judge. There was no provision for supersedeas 
+
+
+'2 The automatic supersedeas invalidated in Baksalary operated upon 
+both wage loss and medical benefits. Where medical benefits were the only 
+issue being contested, § 413(a) did not apply. Such reviews were conducted 
+pursuant to Section 306(f), which specifically prohibited the supersedeas of 
+those benefits while under review, automatically or otherwise. 77 P.S. § 53. 
+
+
+10 
+
+
+of medical treatment pending review.'> Injured workers were 
+given the opportunity to appear at hearings and testify on 
+their own behalf. They had the right to be represented by 
+counsel. They had the opportunity to present medical evi- 
+dence and cross examine the employer's medical expert. With 
+the closing of the record, the Judge would issue a decision 
+containing findings of fact and conclusions of law based on 
+the evidence. If the Judge ultimately decided that the treat- 
+ment was reasonable, the injured worker would continue to 
+receive it without an interruption in service. If not, the insurer 
+would be relieved of the obligation of further payment, and 
+would be reimbursed by a state supersedeas fund for pay- 
+ments which had been made for treatment deemed unreason- 
+able. ADIA Personnel Agency v. Workers Compensation 
+Appeal Board, supra. 
+
+
+The Passage of Act 44 
+
+
+In June 1993, in response to political pressure from 
+employers and insurance carriers about the rising cost of 
+medical treatment, the Pennsylvania General Assembly 
+passed a measure known as Act 44, which set forth provisions 
+for medical cost containment, including the utilization review 
+provisions at issue here. Section 306(f.1)(5), like the provi- 
+sion invalidated in Baksalary, operates upon injured workers 
+whose eligibility to receive workers’ compensation benefits, 
+including medical treatment, has already been established. 77 
+P.S. § 531(5). It provides a mechanism for employers to stop 
+the medical component of those benefits without any showing 
+of medical justification, with no prior notice to the injured 
+
+
+'S The pre-Act 44 Section 306(f(2\(I1), 77 PS. § 531, stated, “The 
+employer shall have the right to petition the department for review of the 
+necessity or frequency of treatment . . . Such a petition shall in no event act 
+as a supersedeas, and during the pendency of any such petition, the 
+employer shall pay all medical bills if the physician or other practitioner of 
+the healing arts files a report or reports as required [by the Act].” See also 
+ADIA Personnel Agency v. Workers Compensation Appeal Board, 137 
+Pa.Cmwith. 405 (1991) (workers’ compensation referee had no authority to 
+order discretionary supersedeas of challenged medical benefits pursuant to 
+Section 306(f)). 
+
+
+—e a or 
+
+
+worker or any opportunity to respond, upon the filing of a 
+request for utilization review with the Bureau and subject to 
+the Bureau's acceptance of the request. The Bureau refers 
+requests for utilization review to Utilization Review Organi- 
+zations (“URO’s”), which are approved, trained and super- 
+vised by the Bureau. The URO’s review the challenged 
+treatment, and determine whether the medical benefits at 
+issue must be paid. 
+
+
+The Bureau serves the dual function of gatekeeper and 
+traffic cop for the utilization review process. Access to the 
+utilization review system can only be invoked by filing a form 
+devised by the Bureau for that purpose. Employers are 
+empowered by the statute, upon approval by the state, which 
+reviews the form to determine if the request is proper and 
+submitted in timely fashion, to stop payments for challenged 
+medical treatment. In order to maintain the supersedeas, the 
+request for utilization review must be accepted by the Bureau. 
+If it is, the supersedeas may extend throughout the review 
+process, which can take months, or even years, to complete. If 
+the request is not approved, the supersedeas is rescinded. 
+There are numerous reasons that a request for utilization 
+review can be rejected by the Bureau.'* The Bureau rejects 
+requests for review twenty per cent of the time. Third Cir. 
+App. at C-50. 
+
+
+Absent a sufficient and proper request to the Bureau for 
+utilization review, the medical benefits at issue must be paid 
+
+
+'4 These include: failure of an insurer or employer to accept liability 
+for the work-related injury; failure to certify proof of service, to sign the 
+request, to identify the type of treatment or procedure to be reviewed, or to 
+provide information needed by the Bureau to process the request; the form 
+is also rejected if there is pendency of the same issue before the peer review 
+authorities by request of a workers’ compensation judge; because the 
+request seeks review of treatment that occurred before August 31, 1993, or 
+seeks review of the relatedness of treatment to a work injury; because it 
+was not preceded by an initial utilization review, where applicable; 
+inconsistency between the provider and the treatment to be reviewed and/or 
+lack of specificity concerning treatment dates. 
+
+
+12 
+
+
+within thirty days of their submission to the insurance com- 
+pany. 77 P.S § 531(5). Otherwise, this obligation can only be 
+extinguished by an order of a workers’ compensation judge or 
+the consent of the injured worker. If an employer or insurer 
+takes a supersedeas which has not been authorized by proper 
+invocation of utilization review, it is subject to penalties 
+pursuant to Section 435 of the Act, 77 PS. § 991. The 
+Bureau’s Compliance Division is also authorized to take 
+action against the non-paying employer. Finally, the 
+employer's obligation to pay can be enforced by a medical 
+provider through a Petition for Fee Review, which can result 
+in an order to pay and the imposition of an interest award 
+against the insurer or employer. 
+
+Upon approval of a request for utilization review, the 
+Bureau assigns the case to a URO and provides notice of the 
+assignment to the injured worker, the insurer, the employer 
+and the medical provider under review, with instructions to 
+the URO and the medical provider. Prior to the Third Circuit's 
+decision in this case, there was no notice to injured workers 
+that their medical benefits might be stopped. In the usual 
+case, the workers would learn from the medical providers that 
+benefits had been stopped, and, in most cases, that treatment 
+would no longer be provided. 
+
+Once the URO receives the assignment, it is required to 
+render a decision within sixty days of the assignment as to 
+whether the challenged treatment is reasonable and necessary. 
+77 PS. § 531(6)(ii)."5 Prior to the Third Circuit’s decision, 
+the injured worker was precluded from any participation in 
+the utilization review, either directly or through counsel. The 
+URO was instructed by the Bureau not to discuss the treat- 
+ment under review with the injured worker or his or her 
+attorney, and could not accept documents or other evidence 
+from the injured worker. The URO is statutorily directed to 
+
+
+'S The statute does not dictate how long the Commonwealth has to 
+make the assignment. Thus, the initial review may be delayed well beyond 
+the sixty days provided in the statute, as some of the named plaintiffs have 
+alleged, See Jnt. App. at 39, | 231 (assignment took 32 days); 4250-1(42 
+days). 
+
+
+13 
+file a copy of its report with the Bureau, which monitors and 
+supervises the performance of the URO’s.'® 
+District Court Proceedings 
+
+
+On January 12, 1995, Plaintiffs filed their initial com- 
+plaint challenging the supersedeas provisions contained in 
+Section 306(f.1)(5).'7 They claimed that those provisions 
+
+
+'© Petitioners deny that medical benefits are at issue at all, 
+characterizing the dispute as one over “bills”, rather than treatment, and by 
+insisting that the Plaintiffs can be fully reimbursed later for any loss they 
+incur now. This mischaracterizes the nature of the benefit delivery system 
+at issue here, which provides benefits to injured workers through the 
+receipt of treatment, and not by way of direct payments to injured workers. 
+In practice, those benefits are furnished through the payment of medical 
+bills submitted by medical providers to the insurance company or 
+employer. Thus, while it may be true in some sense that “bills” are at issue 
+here, those bills are merely the vehicle through which medical benefits are 
+provided under the Act. When the bills are not paid, Plaintiffs’ treatment is 
+ordinarily stopped, and benefits are thereby eliminated. The consequences 
+of this can be severe and permanent. This is particularly true where the 
+length of the deprivation is prolonged, as the Plaintiffs have alleged here. 
+Moreover, it is simply not true that the dispute centers around treatment 
+which has already been delivered. In some cases, where a discrete 
+procedure is involved, this may be the case, but in most cases, like those of 
+the named Plaintiffs, the utilization review was used to supersede not only 
+payment for past treatment, but for ongoing treatment as well. As the 
+named Plaintiffs have alleged, such treatment will not be restored until 
+after the utilization review has been completed, including, if the initial 
+review is adverse to the injured worker, appeals to the workers’ 
+compensation system. 
+
+
+17 Petitioners object to the term “supersedeas” because that term does 
+not appear in the statute. Plaintiffs have used the term throughout this 
+litigation because the challenged rrecvisions permit employers to 
+supersede, or stop, their medical treatmem. Even the Director of the Bureau 
+has referred to it as an “automatic supersedeas”. See Appendix to 
+Plaintiff's Motion for Partial Summary Judgment, Exhibit “F” at 11. 
+Plaintiffs continue to use the term supersedeas because it is most 
+descriptive of what the statute provides. To supersede is to “set aside, 
+render unnecessary, suspend or stay”. BLACK’S LAW DICTIONARY, 4th 
+Ed. (1951). 
+
+
+14 
+
+
+violated their right to due process of law, because they pro- 
+vided for the cessation of workers’ compensation medical 
+benefits pending “utilization review” with no pre-deprivation 
+notice or opportunity to be heard. 
+
+
+The originally named Plaintiffs included seven seriously 
+injured workers whose benefits had been stopped under the 
+supersedeas procedure of 306(f.1)(5), and the Philadelphia 
+Area Project on Occupational Safety and Health (Phila- 
+POSH). They initiated, on behalf of themselves and a class of 
+similarly situated injured workers, a facial challenge to the 
+constitutionality of Sections 306(f.1)(5) and (6) of the Act. 
+
+
+The named defendants included the Commonwealth 
+through four state officials responsible for designing, imple- 
+menting, administering and enforcing the Act, the director of 
+the legislatively created State Workers’ Insurance Fund 
+(SWIF), the School District of Philadelphia, which is a self- 
+insured public employer, and seven of the ten insurance 
+carriers who are Petitioners herein, licensed to write workers’ 
+compensation insurance policies in Pennsylvania. On March 
+30, 1995, the Philadelphia Federation of Teachers was permit- 
+ted to intervene as an additional plaintiff. 
+
+
+On April 10, 1995 the insurers moved under Federal Rule 
+of Civil Procedure 12(b)(6) to dismiss the complaint as to 
+them, alleging that they were not state actors for purposes of 
+the Fourteenth Amendment. On January 24, 1996, the district 
+court entered an order granting the defendant insurance com- 
+panies’ motion to dismiss. 
+
+
+On May 29, 1996, Respondents filed an Amended Com- 
+plaint which added three additional plaintiffs (also Respon- 
+dents herein) and additional constitutional claims.'* The 
+
+
+'§ The Amended Complaint extended Plaintiffs’ challenge to include 
+the utilization review provisions which are contained in Section 
+306(f.1)(6). Plaintiffs also made a due process attack upon the fees 
+imposed in the reconsideration review process, and the lack of standards to 
+govern utilization review and appeals therefrom. The Third Circuit ruled 
+against the Plaintiffs on the latter claim, but remanded for further 
+proceedings on the reconsideration issue. This claim was a systemic one 
+
+
+15 
+
+
+insurers were served with the Amended Complaint, and at the 
+same time dismissed from the case in light of the court's prior 
+state action decision. On June 19, 1996, the Commonwealth 
+defendants filed a motion to dismiss the Amended Complaint. 
+By order dated November 8, 1996, the court dismissed the 
+Commonwealth defendants, finding that Sections 306(f.1)(5) 
+and (6) caused a deprivation of a property interest, but that 
+the provisions were nonetheless constitutional. This left the 
+School District as the sole remaining defendant. The School 
+District filed a Motion for Judgment on the Pleadings based 
+upon the court's finding of constitutionality. This motion was 
+granted on December 16, 1996. This constituted a final order, 
+from which Respondents appealed to the United States Court 
+of Appeals for the Third Circuit. 
+The Appellate Proceedings 
+
+On March 13, 1998, the United States Court of Appeals 
+for the Third Circuit reversed the decisions of the district 
+court and held that the supersedeas provisions of the Act 
+violated the requisites of procedural due process. Citing to the 
+well-worn precedents of this Court, the Third Circuit held that 
+both the lack of adequate pre-deprivation notice and the 
+denial of an injured worker's right to be heard rendered the 
+supersedeas provisions constitutionally infirm.'? 
+
+
+which ran against the Commonwealth defendants. It was settled on August 
+19, 1998 at a meeting of all counsel to the proceedings below. Plaintiffs 
+cannot fathom, therefore, why it is addressed in the School District's brief. 
+It was not raised in any of the Petitions for Certiorari, including the School 
+District's, which was denied by the Court, and is clearly not before the 
+Court for disposition. . 
+19 “(W]e hold that the supersedeas provisions under § 531(5) and (6) 
+violate the dictates of due process by not affording disabled employees 
+notice or an opportunity to be heard before their medical benefits are 
+suspended. To remedy the procedural defects in the statute, at minimum, an 
+employee must be given: (1) timely and reasonable notice of the imminent 
+suspension of the medical benefits and treatment before the suspension 
+takes effect; (2) a description of the reasons why utilization review has 
+been invoked; (3) an opportunity and time to submit a personal! statement :n 
+writing regarding the employee's view of the reasonableness and/or 
+
+
+16 
+
+
+More important to the issues presented here, the Third 
+Circuit held that the insurers were state actors when they 
+invoked the unconstitutional supersedeas provisions in the 
+Act. Relying on Edmonson v. Leesville Concrete Co., 500 
+U.S. 614 (1991)and Tulsa v. Professional Collection Services, 
+Inc. v. Pope, 485 U.S. 478 (1988), the court found that the 
+decision to invoke utilization review was not self-executing, 
+but rather, required the overt assistance of the Bureau. The 
+court held that,” [t}he [Bureau] is intimately involved 
+throughout, and without that involvement the supersedeas 
+could not operate.” Pet. App. at 15a. 
+
+
+I. INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+The Plaintiffs in this case have directly challenged the 
+constitutionality of § 306(f.1)(5) and (6) of the Pennsylvania 
+Workers’ Compensation Act, which delegates to employers 
+the power to stop the medical benefits of injured Pennsylva- 
+nia workers. Because Plaintiffs are making a facial challenge 
+to the constitutionality of the utilization review procedures in 
+the Pennsylvania Act, (a challenge directed equally against 
+the Commonwealth Defendants and the Petitioners), this case 
+falls squarely within a well established line of Supreme Court 
+precedents that have found state action on the part of a private 
+actor or entity without applying the discrete state action 
+“tests” relied upon by Petitioners. Tulsa, supra; Reitman v. 
+Mulkey, 387 U.S. 369 (1967); Smith v. Allwright, 321 U.S. 
+649 (1944); Nixon v. Condon, 286 U.S. 73 (1932); Accord 
+New York Times Co. v. Sullivan, 376 U.S. 254 (1964). In these 
+cases, the challenge to the constitutionality of the state law by 
+necessity places the focus on the state statute and its underly- 
+ing policy, regardless of the identity of the defendant, and 
+requires the court to analyze within the context of the overall 
+Statutory scheme, any act or decision by a private actor or 
+entity who is relying on the challenged law. See, e.g., Tulsa, 
+
+
+necessity of the disputed medical treatments; and (4) a description of the 
+procedures under which the employee can appeal an adverse 
+determination.” Pet. App. at 33a. 
+
+
+17 
+
+
+485 U.S. at 480. In applying this contextual approach to the 
+state action issue, this Court has relied upon the totality of the 
+circumstances, and framed the issue in terms of whether, after 
+passage of a given act, the state’s involvement with the statute 
+(as opposed to that of the private actor or entity) is substantial 
+enough to implicate the protections of the Constitution. Tulsa, 
+485 U.S. at 486. 
+
+
+When a facial challenge is made to the constitutionality 
+of a state law, the first question the Court must address is not 
+whether the private actor or entity invoking the law is a state 
+actor, but rather, whether the challenged provisions of the law 
+are constitutional. See, e.g., Tulsa, supra. Significantly, when 
+the Court has used this approach, and found that the law 
+violates the procedural due process or the equal protection 
+clause, it has invariably found that the private actor or entity 
+invoking or relying on the unconstitutional law is a state 
+actor. Tulsa, supra; Fuentes v. Shevin, 407 U.S. 67 (1972); 
+Sniadach v. Family Finance Corp., 395 U.S. 337 (1969); 
+Reitman v. Mulkey, supra; Smith v. Allwright, supra; Nixon v. 
+Condon, supra; Accord New York Times, Co. v. Sullivan, 
+supra.?° 
+
+
+Pursuant to the above cited line of cases, the Petitioners’ 
+reliance on the unconstitutional provisions of the Pennsylva- 
+nia statute to stop Plaintiffs’ entitlement to medical treatment 
+was clearly state action. In invoking the unconstitutional 
+provisions of the Pennsylvania Act, which delegated to 
+employers the power to terminate a vested state entitlement, 
+Petitioners were not only exercising a state granted power, but 
+also, promoting the state’s policy of cost containment. The 
+purpose and effect of the 1993 Amendments to the Pennsylva- 
+nia Workers Compensation Act was therefore to enlist or 
+“harness the energies of private groups to do indirectly what 
+
+
+20 In cases such as Fuentes and Sniadach the Court did not even feel 
+the need to address the state action question, as the facial attack apparently 
+rendered that unnecessary. See generally Brest, “State Action and Liberal 
+Theory: A Casenote on Flagg Brothers v. Brooks”, 130 Pa. L.Rev. 1296 
+(1982). 
+
+
+[the state] could not [constitutionally] . . . do.[itself]”. Reit- 
+man, 287 U.S. at 383 (Douglas, J., concurring); Cf. Lebron v. 
+National Railroad Passenger Corp., 513 U.S. 374, 397 (1995) 
+(“It surely cannot be that government, state or federal, is able 
+to evade the most solemn obligations imposed in the Constitu- 
+tion by simply resorting to the corporate form.”). In promot- 
+ing the state’s policy, Petitioners represented the state and 
+became its agent. Nixon, 286 U.S. at 89. As the above cited 
+line of cases teaches, “the government’s reliance on the will- 
+ing compliance of private citizens is a factor increasing — not 
+diminishing — the government’s involvement,” thereby ren- 
+dering the private citizen, whose energies were harnessed by 
+the express authorization of the statute, a state actor. Alliance 
+For Community Media v. F.C.C., 10 F.3d 812, 822 n.13 (D.C. 
+Cir. 1993), aff'd in part, reversed in part, 516 U.S. 973 
+(1995). 
+
+
+In stark contrast to the cases involving a direct challenge 
+to the constitutionality of a state statute are those primarily 
+relied upon by Petitioners, which, because they did not 
+involve a direct constitutional challenge, steer the court's 
+focus away from the state and on to the conduct or decision of 
+the private actor or entity.?! Because in these cases the law or 
+regulation relied on by the private actor or entity was not 
+directly challenged as unconstitutional, the state was not 
+directly implicated in the private act or decision. Thus, in 
+order to determine whether the private conduct or act could be 
+deemed “fairly attributable to the state”, the court had to rely 
+on certain guiding principles. Edmonson, supra, 500 U.S. at 
+621-23. While it is Plaintiffs’ position that their facial chal- 
+lenge to the constitutionality of the Pennsylvania Act renders 
+these guiding principles and the decisions that established and 
+utilized them inapplicable to this case, even assuming that 
+they do apply, Plaintiffs contend that the Petitioners both 
+misstated and misapplied the appropriate principles, and that 
+
+
+2! See eg. Rendell-Baker v. Kohn, 457 U.S. 830 (1982); Blum v. 
+Yaretsky, 457 U.S. 991 (1982); Flagg Brothers , Inc. v. Brooks, 436 U.S. 
+149 (1978); Jackson v. Metropolitan Edison Co., 419 U.S. 345 (1974). 
+
+
+19 
+
+
+the Third Circuit's approach was consistent with this Court's 
+most recent state action cases. Indeed, Petitioners’ rigid 
+approach completely ignores the evolution of the doctrine set 
+forth in this Court's most recent state action pronouncements. 
+Id.; West v. Atkins, 487 U.S. 42 (1988). Contrary to this 
+Court's flexible, contextual approach to discerning state 
+action, Petitioners argue for the strict application of discrete 
+tests (public function, symbiotic relationship, state compul- 
+sion), and would require satisfaction of those tests individu- 
+ally before state action could be found. 
+
+
+On numerous occasions this Court has stated that the so- 
+called “tests” espoused by Petitioners are in reality only 
+factors or guiding principles to be considered in the overall 
+analysis as to whether, given all the facts and circumstances 
+of the particular context, state action can be said to exist. 
+Plaintiffs contend that this totality approach is the appropriate 
+one for the Court to continue to employ and that, under it, the 
+insurers are clearly state actors when invoking the utilization 
+review process. In addition, Plaintiffs also contend that even 
+under the more restrictive approach that Petitioners have 
+asked this Court to adopt, the insurers’ role in the utilization 
+review process renders them state actors. 
+
+
+Il. THE THIRD CIRCUIT CORRECTLY HELD THAT 
+THE UTILIZATION REVIEW PROVISIONS VIO- 
+LATED DUE PROCESS 
+
+
+While it is the Plaintiffs’ contention that the due process 
+issue is not appropriately before this Court, the Third Cir- 
+cuit’s due process decision was based on this Court's well 
+established precedent and is virtually unassailable. The court 
+held that the utilization review provisions violated due pro- 
+cess because the statute provided no notice to Plaintiffs prior 
+to the supersedeas of their medical benefits, and offered the 
+injured workers no opportunity to challenge the suspension of 
+their medical benefits until many months (at least) after the 
+deprivation of those benefits had been effected. The court 
+found the lack of pre-deprivation notice to the injured worker 
+
+
+20 
+
+
+to be constitutionally fatal.22 Moreover, the court observed, 
+the notice arrived after the benefits had already been stopped. 
+The court noted the Commonwealth's concession that no 
+notice is afforded to the injured worker under the statute, and 
+concluded that inadequate notice effectively strips an injured 
+worker of his ability or opportunity to protest or minimize 
+unjustified deprivations. The court held that due process 
+requires some sort of opportunity to be heard regarding the 
+basis of the proposed termination before it takes place. 
+
+
+The Third Circuit's holding is a mainstream decision 
+consistent with a well-settled and unbroken line of precedent 
+from this Court, which sets forth two basic tenets of due 
+process. First, “notice reasonably calculated under all the 
+circumstances to apprise interested parties of the pendency of 
+the action” is constitutionally required prior to the depriva- 
+tion of a protected property interest. Memphis Light, Gas & 
+Water Div. v. Craft, 436 U.S. 1, 13 (1978); Second, due 
+process ordinarily requires an opportunity for “some kind of 
+hearing” prior to the deprivation of such an interest. Memphis 
+Light, Gas & Water, supra, 436 U.S at 19, citing, Boddie v. 
+Connecticut, 401 U.S. 371, 379 (1971). See also Logan vy. 
+Zimmerman Brush Co., 455 U.S. 422, 437 (1982). In a case 
+such as this, in which an established state procedure is being 
+challenged, this Court has always required notice and an 
+opportunity to be heard before the deprivation, unless exigent 
+circumstances exist or pre-deprivation process would be 
+demonstrably impracticable. Zinermon v. Burch, 494 U.S. 113 
+(1990); Parratt v. Taylor, 451 U.S. 527 (1981). This is true 
+even if extensive post-deprivation remedies are afforded. 
+Connecticut v. Doehr, 501 U.S. 1 (1991). 
+
+
+22 The Third Circuit found the notice constitutionally defective in 
+many respects: “[It} does not explain that a supersedeas or suspension of 
+one's medical benefits may result nor does it explain what utilization 
+review entails. In addition, i does not inform an employee of any 
+procedures under which the employee can protest the suspension of the 
+medical benefits or contest the merits on which the proposed deprivation is 
+based.” Pet. App.at 23a. 
+
+
+21 
+
+
+This Court has applied these principles in numerous 
+factual contexts to invalidate state laws that failed to provide 
+any notice or opportunity to be heard before the deprivation 
+of a protected liberty or property interest.2> These cases and 
+the due process principles enunciated in them apply to interim 
+deprivations of property as well as to final deprivations. See, 
+e.g., Connecticut v. Doehr, 501 U.S. at 12; Arizona v. Cali- 
+fornia, 460 U.S. 605, 638 n.28 (1983). 
+
+Because no one disputes that the challenged statute per- 
+mitted a recognized property right to be disrupted without any 
+pre-deprivation notice, the Third Circuit's decision that the 
+statute was unconstitutional must stand regardless of how this 
+Court might view the other due process concerns raised by 
+Petitioners. Inadequate notice is enough by itself to render the 
+statute unconstitutional and is enough to support the Third 
+Circuit's due process holding. See, e.g., Memphis Light, 
+supra; Mullane v. Central Hanover Bank and Trust Co., 339 
+U.S. 306, 314 (1950). 
+
+The Third Circuit's determination that the lack of a prior 
+opportunity to be heard renders the statute unconstitutional 
+also must be upheld. Once it is established that pre-depriva- 
+tion process is due, Mathews, supra, defines the extensiveness 
+of the procedures to be afforded. The Third Circuit straight- 
+forwardly applied the three Mathews factors and concluded 
+that the injured workers must be afforded an opportunity to 
+submit a personal statement in writing to the utilization 
+reviewer before his benefits can be stopped. The Court looked 
+first at the private interests involved, including the injured 
+workers’ interest in the relief that medical treatment provides, 
+and the interest of the insurers and employers in not paying 
+for unnecessary and unreasonable medical treatment. While 
+
+
+23 Connecticut v. Doehr, supra (real estate attachment), Cleveland 
+Board of Education v. Loudermill, 470 U.S. 532 (1985) (public 
+employment); Logan v. Zimmerman Brush, supra (cause of action); 
+Memphis Light, Gas & Water Division, supra (utilities); Goss v. Lopez, 419 
+U.S. 565 (1975) (public education); Fuentes v. Shevin, 407 U.S. 67 (1972) 
+(personal property); Bell v. Burson, 402 U.S. 535 (1971) (drivers licenses), 
+Goldberg v. Kelly, 397 U.S. 254 (1970) (welfare benefits) 
+
+
+22 
+
+
+the employers’ interest was pecuniary, the injured workers’ 
+was not. Their interest was considered by the Court to be 
+significant.2* The Court further concluded that the risk of 
+erroneous deprivation was unacceptably high, given the 
+injured workers’ lack of notice and opportunity ic be heard 
+during the utilization review process. Although the review 
+focuses upon the medical records of the treating physician, 
+and the physician must be given the chance to speak with the 
+reviewer, the court was “hard-pressed to believe that the 
+portrait of the employee's illness and treatment . . . [could 
+be] . . . complete without a statement or other input from the 
+injured worker”. Pet. App. at 29a. The governmental irtterest, 
+according to the court, would also be served by permitting the 
+injured worker a pre-termination opportunity to respond. The 
+government has a legitimate interest in containing costs and 
+ensuring that benefits are paid only for reasonable and neces- 
+sary treatment, but has an equally compelling interest in 
+preventing the erroneous termination of benefits to injured 
+workers who have a continuing need for them. On balance, 
+therefore, some sort of pre-deprivation process would be 
+
+
+24 The Petitioner-Insurer's assertion that the Third Circuit failed to 
+take their interest into account was erroneous. The court factored their 
+interest into the Mathews analysis but concluded that it was not as 
+significant as the injured workers’ in light of the purposes and policies of 
+the Act. While the insurers’ interest could be quantified in monetary terms, 
+tumely medical treatment only has value at the time it is needed, and the 
+consequences of delay in this context can lead to medical consequences 
+which can never be rectified through the retroactive payment of money. 
+Pet. App. at 28a; See also Memorial Hospital v. Maricopa County, 415 U.S. 
+250, 259-261 (1974). It should be noted that the Pennsylvania courts have 
+balanced the interests of employers and injured workers and come to the 
+same conclusion as the Third Circuit did. Stonebraker v. Workers’ 
+Compensation Appeal Board, 163 Pa.Cmwith. 468, 475 (1994) (despite 
+employer's economic interest in terminating medical treatment which is 
+not necessary as soon as possible, injured workers should be protected 
+from potentially devastating economic or medical consequences stemming 
+from unwarranted terminations of medical benefits). 
+
+
+23 
+
+
+necessary. Pet. App. at 30a. At a minimum, the Court con- 
+cluded, “the employee should be granted the opportunity to 
+present additional evidence such as his/her personal testimony 
+in writing as to the reasonableness and necessity of the 
+disputed treatment”. Pet. App. at 3la. 
+
+
+The Third Circuit's holding was well within the parame- 
+ters set forth in Mathews. Indeed, the plaintiff in Mathews 
+received far more in the way of pre-deprivation process than 
+did the Sullivan plaintiffs. Moreover, the Petitioners have 
+alleged no exigency which would justify a departure from the 
+fundamental requirements of pre-deprivation process. Neither 
+is impracticability a barrier, as demonstrated by the existence 
+of a system for the predeprivation review of medical benefits 
+prior to the adoption of the utilization review provisions at 
+issue here, and the implementation of prior notice and oppor- 
+tunity to be heard by the Commonwealth defendants follow- 
+ing the Third Circuit's decision. Even in those rare situations 
+in which this Court has approved post-deprivation procedures 
+alone, it has required some assurance against arbitrary and 
+unfounded interference in the enjoyment of the property inter- 
+est. E.g., Connecticut v. Doehr, supra. Here, there is no such 
+assurance. The employer's request for utilization review is 
+not required to be based on any medical criteria whatsoever, 
+or supported by even the slightest indicia of reasonableness. 
+This Court has found on numerous occasions that “one-sided, 
+self-serving, and conclusory submissions” elevate the risk of 
+erroneous deprivation to an unacceptable level. /d., Fuentes v. 
+Shevin, supra, 407 U.S. at 83. 
+
+
+Underlying the Petitioners’ argument is the fundamental 
+complaint that due process was found to attach at all, because 
+what is at issue here, in their view, is not the deprivation of 
+medical benefits, but the timing of payment for treatment 
+already received. Bills, not benefits, is how the Petitioners 
+would like to characterize what is at stake here. Petitioners’ 
+argument grossly mischaracterizes the record and the clear 
+import of a request for utilization review. Medical bills are 
+the vehicle through which medical benefits are delivered to 
+injured workers in Pennsylvania. These benefits are public 
+
+
+24 
+
+
+benefits and the state has exclusive control over the resolution 
+of disputes among the parties in the administration of those 
+benefits. The procedures so utilized must satisfy due process. 
+Logan v. Zimmerman Brush, 455 U.S. at 429 n.S.-Unless the 
+doctor or other medical provider agrees to work for free, once 
+payments stop, so does the treatment. Several of the Plaintiffs 
+in this action have alleged that their ongoing medical treat- 
+ment was stopped once the insurer or employer stopped pay- 
+ing for it on the basis of a utilization review request. They are 
+precluded by law from paying for those services themselves 
+in the interim, and thus, unlike the Plaintiff in Mathews, have 
+no access to substitute services while they await the outcome 
+of utilization review.*5 
+
+
+Ill. PLAINTIFFS’ FACIAL CHALLENGE RENDERS 
+THE DISCRETE TESTS INAPPLICABLE AND 
+DIRECTLY IMPLICATES THE STATE IN THE 
+DECISION TO STOP MEDICAL BENEFITS. 
+
+
+It is a basic proposition that a State acts through its 
+legislative, its executive and its judicial branches. Ex Parte 
+Virginia, 100 U.S. 339, 347 (1879). The enactment of a state 
+law and its enforcement is undisputably state action. Tulsa, 
+485 U.S. at 486-87; New York Times, 376 U.S. at 265; Paul v. 
+Watchtower Bible and Tract Society, 819 F.2d 875, 880 (9th 
+Cir. 1987); Strickland, The State Action Doctrine and the 
+Rehnquist Court, 18 Hastings Const. L. Q. 587, 598, 601-602 
+(1991). When a facial challenge is made to the constitu- 
+tionality of a state law and its enforcement in a particular 
+
+
+25 None of the Petitioners ever challenged the accuracy of this fact in 
+the proceedings below, nor could they, given the explicitness of the law on 
+this point. The fact that one of the named Plaintiffs was forced by a medical 
+provider to pay for her treatment during utilization review does not change 
+the fact that it was illegal for the doctor to demand payment from her. 
+David Weyl, Chief of the Bureau's Cost Containment Division testified 
+emphatically on this point: “If that provider accepts money from the 
+claimant, that provider has violated the law. The workers’ compensation 
+law absolutely prohibits taking money from claimants for any medical 
+treatment that is provided under the Act, period.” Third Cir. App. at B-155. 
+
+
+25 
+
+
+case, this Court has consistently held that the enactment and 
+enforcement of an unconstitutional state law is state action. 
+BMW of North America, Inc. v. Gore, 517 U.S. 559, 573 n.17 
+(1996); Tulsa, 485 U.S. at 488; Cohen v. Cowles Media Co., 
+501 U.S. 663, 668 (1991); NAACP v. Claiborne Hardware 
+Co., 458 U.S. 886, 916 (1982); New York Times, 376 U.S. at 
+265; Krotoszynski, Back to the Briar Patch: An Argument In 
+Favor Of Constitutional Meta-Analysis in State Action Deter- 
+minations, 94 Mich. L. Rev. 302, 315 (1994); Strickland, 
+supra, 18 Hastings Const. L. Q. at 606. 
+
+
+Under these circumstances, and without using the dis- 
+crete state action “tests” relied upon by Petitioners, this Court 
+has imposed liability on private persons who either invoke the 
+unconstitutional law to deprive a person of a constitutional 
+right, See, e.g., New York Times, supra, or rely on authority 
+granted by the unconstitutional law to deprive a person of a 
+constitutional right. See, e.g., Tulsa, supra. In the New York 
+Times line of cases, the enforcement of the unconstitutional 
+law occurs in the context of a judicial proceeding, whereas in 
+cases such as Nixon, Reitman and Tulsa the enforcement of 
+the unconstitutional law is accomplished by a private person 
+or entity pursuant to the terms or authorization of a state 
+Statute or state constitutional amendment. When a court 
+enforces an unconstitutional law there is clearly state action, 
+
+
+- and the private party invoking the unconstitutional law is 
+
+
+liable. New York Times, supra. On the other hand, when the 
+enforcement of the unconstitutional law is accomplished by a 
+private person or entity pursuant to the terms or authorization 
+of a state law this Court has relied on two distinct but related 
+rationales, neither of which requires application of the dis- 
+crete “tests”, to find private entities liable when invoking the 
+unconstitutional law. Pursuant to Tulsa, the private person 
+relying on the unconstitutional law is liable if, after the 
+passage of the act, the state’s involvement with the statute is 
+substantial enough to implicate the protections of the Consti- 
+tution. Tulsa, 485 U.S. at 486. This occurs, and state action is 
+present, “when private parties make use of state procedures 
+with the overt and significant assistance of state officials.” /d. 
+In cases such as Nixon and Reitman, the Court looked to 
+
+
+26 
+
+
+whether the state has delegated a state power or function to a 
+private entity or authorized a private entity to do indirectly 
+what the state could not do directly. Instead of applying 
+discrete tests, the Court focuses on the purpose and impact of 
+the state law and holds the private actor accountable for 
+carrying out the state’s unconstitutional policy. 
+
+
+The Court's decision in Tulsa directly controls this case. 
+That analysis, which would view Petitioners’ decision to 
+invoke utilization review and stop medical benefits in the 
+context of the overall statutory scheme, makes it clear that 
+after passage of the Act the state’s involvement with the 
+statute was substantial, and that in invoking the unconstitu- 
+tional provisions of the Act, Petitioners are liable for the 
+violation of Plaintiffs’ right to procedural due process. 
+
+
+Pennsylvania's involvement with the statutory process of 
+utilization review is not only extensive, but also much more 
+substantial than the state’s involvement with the non-claim 
+statute at issue in Tulsa. Like the non-claim statute involved 
+in Tulsa, under the Pennsylvania Act the employer's request 
+for utilization review is not self-executing. In order to invoke 
+the statutorily created and state-administrated process of utili- 
+zation review, and hence to exercise the state authorized 
+power to stop a state entitlement, the employer must first 
+initiate a legal process. This is done by filing a Request for 
+Utilization Review on a form provided by the state with the 
+Pennsylvania Bureau of Workers’ Compensation, which is a 
+state agency. Under the Act, while the decision to invoke the 
+statutory process is placed in the hands of the employer, the 
+decision to grant utilization review is retained by the state. If 
+a request is improper or the form is incorrectly filed, the state 
+rejects it and the employer's statutory obligation to provide 
+medical benefits continues. Accordingly, without the overt 
+assistance of the state, the employers have no authority under 
+the Act to stop the medical benefit. 
+
+
+In addition to this overt and significant involvement on 
+the part of state officials in the initiation of utilization review, 
+
+
++ —____»¥ —_—_- 
+
+
+27 
+
+
+the statute directly involves the state, on a day by day basis, 
+in the implementation of the workers’ compensation benefit 
+program, and in the enforcement of the employer's decision to 
+seek utilization review. Unlike a private contractual arrange- 
+ment, absent the state’s express authorization, the employers 
+do not have the power or right to deny payment for medical 
+bills that they deem unnecessary or unreasonable. Contrary to 
+the Petitioners’ implication that the nonpayment of disputed 
+bills is an accepted business practice, under the Act they are 
+not operating in a private business sphere, but are delivering 
+public benefits which are constitutionally protected from arbi- 
+trary deprivations. Accordingly, if the employer fails to file 
+for utilization review or is denied utilization review by the 
+Bureau and attempts to avoid payment of a medical bill that 
+the employer deems unreasonable, the statute authorizes the 
+Bureau’s Compliance Division to step in and impose sanc- 
+tions on the employer. Pursuant to the commands of the 
+Statute, the state is therefore involved in policing the 
+employers and in taking aggressive steps to ensure compli- 
+ance with the Act’s terms. 
+
+
+More significantly, an employer’s decision to invoke 
+utilization review does not exist in a vacuum, but rather, 
+requires the state’s involvement for both approval and 
+enforcement of the decision. The decision to invoke utiliza- 
+tion review and to supersede the injured workers’ medical 
+benefits is only the first step in what invariably turns out to be 
+a lengthy legal process — a process that is dictated by the state 
+statute, involves the use of state established procedures, state 
+offices and hearing rooms, and state employees at every step 
+of the proceedings. 
+
+
+First, as mentioned above, the initial request for utiliza- 
+tion review relies on state forms and requires approval by the 
+Bureau, a state agency staffed by state employees. Employers 
+have no access to the URO outside of this state-created 
+structure. Second, under the statute, in order for the 
+employers to maintain their supersedeas of the injured 
+workers’ medical benefits, they must have access to utiliza- 
+tion review, which can only be gained through Bureau permis- 
+sion. The state, through the Bureau, is involved in the 
+
+
+28 
+
+
+approval, training and supervising of the URO’s. In addition, 
+the decision on the reasonableness and necessity of the medi- 
+cal treatment in question must be rendered in accordance with 
+the statute, which requires a written report within sixty days 
+of assignment to the URO. The state both supervises and 
+monitors the URO’s to ensure compliance with the statute. 
+The state therefore plays an active role by setting standards 
+for the URO’s, providing them guidance, and monitoring them 
+to ensure compliance with the statutory requirements. The 
+active role played by the state in relation to the URO’s and 
+their decision making process directly involves the state in 
+the utilization review process. 
+
+
+Third, under the Act, the URO’s decision can be appealed 
+to a workers’ compensation judge, where the injured worker 
+is entitled to a hearing, the right to testify on his behalf, the 
+right to be represented by counsel, and the right to present 
+medical evidence and cross examine the employer’s medical 
+expert. The workers’ compensation judge is a state employee 
+and the hearing takes place in state facilities. When the 
+proceedings reach is stage, the decision by an employer to 
+invoke utilization review directly involves the state. If the 
+workers’ compensation judge rules in favor of the injured 
+worker, it is the state that will revoke the employer’s decision 
+to terminate the treatment. If the workers’ compensation 
+judge upholds the employer’s initial determination to stop the 
+medical benefits, it is the state that will place its imprimatur 
+on that decision, a decision that will have been reached 
+without providing the injured worker any pretermination 
+notice or opportunity to be heard. 
+
+The employers’ power to stop benefits to injured workers 
+therefore emanates from the state and is dependent upon the 
+state’s approval at every key juncture. Without the “overt, 
+significant assistance of state officials”, employers would not 
+be able to initiate or sustain the deprivation challenged in this 
+case. Tulsa, 485 U.S. at 487. 
+
+While Tulsa controls this case, Petitioners are also liable 
+for violation of the injured workers’ right to procedural due 
+process pursuant to a line of cases that has held that a state 
+may not avoid the strictures of the Constitution by delegating 
+
+
+29 
+
+
+to private persons or entities the power or authority to do 
+indirectly what the state cannot do directly.2© See, e.g., Reit- 
+man, supra at 380-381; Cf. Lebron, 513 U.S. at 397. In these 
+circumstances, when the state delegates to private persons or 
+entities a governmental power or function, and the private 
+entity exercises that governmental power or function in a 
+manner that violates a constitutionally protected right, this 
+Court has consistently held that the private person or entity 
+who exercises the governmental power is a state actor. West, 
+487 U.S. at 54; Evans v. Newton, 382 U.S. 296, 299 (1966) 
+(“When private individuals or groups are endowed by the 
+state with powers or functions governmental in nature, they 
+become agencies or instrumentalities of the State and subject 
+to its constitutional limitations.”). 
+
+
+Two controlling principles emerge from these cases. 
+First, in all of the above cited cases, the authority exercised 
+by the private actor or entity was derived directly from a state 
+statute or constitutional amendment. Without this delegation 
+from the state, the private actor or entity would be powerless 
+to act in the manner prescribed by the statute or state constitu- 
+tional amendment. See, e.g., Nixon, 286 U.S. at 85; Reitman, 
+387 U.S. at 379. The power exercised by the private actor or 
+entity is therefore state power. 
+
+
+Second, in most of the cases, there was at least some 
+indication that by delegating to private actors or entities a 
+
+
+26 These cases serve an important purpose in the state action inquiry. 
+Pursuant to the Court’s decision in Tulsa, state action existed because the 
+state played an overt role in the administration of the statute. However, a 
+state could avoid liability under Tulsa by enacting a statute that ceded all 
+state power to the private entity, and in which the state played no role other 
+than enacting the statute. This problem was identified by Justice Stevens 
+dissenting in Flagg Brothers, 436 U.S. at 175. In these circumstances, if the 
+state has delegated a state power or function to a private individual or entity 
+in an attempt to avoid the strictures of the Constitution, the above line of 
+cases would still hold the private actor or entity accountable for exercising 
+a state power or function in a manner that violated the Constitution. This 
+prevents the state from doing indirectly what it constitutionally cannot do 
+directly. 
+
+
+30 
+
+
+state power or function, the state was attempting to evade the 
+strictures of the Constitution, or do indirectly what it consti- 
+tutionally could not do directly. For example in Reitman, the 
+Court placed great weight on the fact that the state supreme 
+court had construed the state constitutional amendment, 
+which was neutral on its face, as authorizing private racial 
+discrimination. /d. at 375-76. The state had delegated a power 
+that allowed private individuals to discriminate based on race, 
+something the state could not have done directly. The Court in 
+Reitman also noted that, in construing the state amendment to 
+determine whether the delegation was an attempt to evade the 
+strictures of the Constitution, the state court correctly 
+analyzed the law in terms of (1) its immediate objective, (2) 
+the context in which the delegation arose, and (3) the ultimate 
+effect or impact of the delegation. /d.; See also Alliance for 
+Community Media v. F.C.C., 10 F.3d at 820. 
+
+
+Applying these principles to the 1993 Amendments, it is 
+clear that Pennsylvania was attempting to evade the strictures 
+of the due process clause by delegating to employers the 
+power to stop or supersede medical benefits without provid- 
+ing pre-deprivation notice or an opportunity to be heard. First, 
+prior to the 1993 Amendments, medical benefits could only 
+be superseded by a state workers’ compensation judge after 
+the injured worker had been provided notice and a hearing on 
+the necessity and reasonableness of the treatment. The 
+Amendments delegated to the employers both the state power 
+to initially determine whether the treatment was reasonable 
+and necessary and to stop treatment on that basis. 
+
+
+Second, the state’s purpose in delegating this power to 
+the employers was clearly to evade the strictures of the due 
+process clause. The record establishes that the 1993 Amend- 
+ments were part of a cost containment package ostensibly 
+enacted in order to reduce workers’ compensation insurance 
+and thereby attract more business to Pennsylvania. However, 
+in enacting these provisions, the state was aware that it could 
+not directly terminate medical benefits without providing 
+notice or an opportunity to be heard. The 1993 Amendments 
+were not passed in a legal vacuum. Prior to their enactment, 
+almost identical provisions in the Pennsylvania Workers’ 
+
+
+31 
+
+
+Compensation Act had been struck down as unconstitutional. 
+Baksalary, supra. \t is clear that the state was attempting to 
+harness the energy of the private insurers to carry out the state 
+policy of cost containment and to do indirectly what the state 
+could not constitutionally do directly. The delegation to the 
+employers of the state power to stop or supersede a state 
+entitlement not only violated the state’s constitutional duty to 
+provide adequate procedural safeguards, Logan, supra, but 
+also made the employers state actors when invoking the 
+unconstitutional procedures. West, supra; Evans, supra; Reit- 
+man, supra, Nixon, supra. The delegation of the state power 
+of supersedeas to the employers makes this case even more 
+compelling than Tulsa. Here, not only was the state substan- 
+tially involved in the utilization review process, but also, in 
+establishing the utilization review process it was clearly try- 
+ing to evade “the most solemn obligations imposed” by the 
+due process clause. Pursuant to this Court’s decision in Tulsa 
+and the above cited delegation cases, Petitioners are clearly 
+State actors. 
+
+
+A. A TOTALITY OF THE CIRCUMSTANCES 
+APPROACH SHOULD BE USED TO FIND 
+STATE ACTION WHERE THERE IS NO 
+FACIAL CONSTITUTIONAL CHALLENGE 
+
+
+1. Edmonson’s Totality Test 
+
+
+Edmonson was this Court’s last major foray into the 
+realm of state action in a case that did not involve a facial 
+challenge to the constitutionality of a state law. The Court's 
+analysis in that case is contrary to the Petitioners’ contention 
+that state action can only be established through the rigid 
+application of formulaic rules. Rather, the Court embarked 
+upon a unified state action analysis which took into account 
+1) the extent to which the actor relies on governmental assis- 
+tance and benefits; 2) whether the actor is performing a 
+traditional governmental function; and 3) whether the injury 
+caused is aggravated in a unique way by the incidents of 
+governmental authority. Edmonson, 500 U.S. at 621-22. 
+
+
+32 
+
+
+Instead of stating a series of discrete tests and applying them 
+separately to determine whether each by itself was satisfied, 
+the Court considered the facts relevant to these principles and 
+weighed them to determine whether, all things considered, the 
+otherwise private actor fairly could be deemed a state actor. 
+Essentially, the Court adopted a “totality of the circum- 
+stances” test. 
+
+
+The approach used by the Court in Edmonson is partic- 
+ularly appropriate to discern state action, which in any given 
+circumstance is necessarily a “fact-bound inquiry.” For, as 
+this Court has indicated on numerous occasions, “only by 
+sifting facts and weighing circumstances can the non-obvious 
+involvement of the State in private conduct be attributed its 
+true significance”. Lugar v. Edmondson Oil Co, 457 U.S. 922, 
+939 (1982). The totality approach relied upon by the Court in 
+Edmonson was not a unique or radical departure from the 
+analysis applied in previous state action cases, and was con- 
+sistent with a number of other decisions in which the Court 
+utilized no specific litmus test, but rather, considered all the 
+facts and circumstances to determine whether the challenged 
+action could be fairly attributed to the state. See, e.g., West, 
+487 U.S. at 55-56; Tulsa, 485 U.S. at 479; see also Burton, 
+365 U.S. at 725-26. 
+
+
+The approach used by the Court in Edmonson, West, and 
+Tulsa, its most recent state action cases, is undoubtedly the 
+most reliable method of analysis for discerning state action. 
+The Court has consistently recognized the complexity of the 
+state action inquiry and the factual subtleties which neces- 
+sarily bear upon the analysis. There is no discrete test which 
+can neatly categorize purportedly private decisions into state 
+action or non-state action pigeonholes. The Petitioners’ plea 
+for the adoption of such a test to resolve the “most trouble- 
+some issue in constitutional law”?’ is overly simplistic and 
+inconsistent with this Court’s most recent pronouncements. It 
+should be rejected. In determining when private conduct can 
+
+
+27 Strickland, 18 Hastings Const. L.Q., supra, at 588. 
+
+
+33 
+
+
+be deemed fairly attributable to the state, each situation must 
+be factually analyzed on its own terms. 
+
+
+2. Application of the Totality Test To The 
+Employer's Role in Utilization Review 
+
+
+Application of the Edmonson totality approach to the 
+utilization review process at issue here demonstrates that the 
+Third Circuit correctly deemed the employers to be state 
+actors. As this Court has instructed, those procedures and the 
+employers’ role in that process must first be viewed in the 
+context of the workers’ compensation system as a whole, with 
+its dense web of interconnections between the state agency 
+and the employers who fulfill the state's obligation to Penn- 
+sylvania’s injured workers. See Pet. App. at 25a. See also 
+West, 487 U.S. at 56 (“Whether a physician is on the state 
+payroll or is paid by contract, the dispositive issue concerns 
+the relationship among the State, the physician, and the pris- 
+oner.”). The interconnections between the state and the 
+employers are so numerous and so strong, that a finding of 
+State action is clearly warranted. 
+
+
+a. Governmental Assistance and Benefits 
+
+
+The extent to which the employers rely upon “govern- 
+mental assistance and benefits” weighs heavily in this case in 
+favor of a finding of state action. The utilization review 
+process is a discrete aspect of the workers’ compensation 
+program, one which is established by state law and adminis- 
+tered directly by the state for the purpose of delivering public 
+benefits to injured workers without regard to fault. The state 
+acts as a giant funnel through which almost every transaction 
+in the system must pass. The state chooses who the system's 
+participants will be and defines the roles that each will play 
+within the system. The state controls all entrances into and 
+exits from the system and supplies all the rules, regulations, 
+forms, physical offices, hearing rooms, and decision makers. 
+It resolves all disputes as to injured worker eligibility and 
+employer obligations. It is a “system which the government 
+alone administers.” Edmonson, 500 U.S. at 622. 
+
+
+34 
+
+
+As in every other context in the Pennsylvania system in 
+which an employer wishes to change the status quo without an 
+injured worker's consent, an employer seeking utilization 
+review must initiate a legal process exclusively administered 
+by the state. Any effort to take a “self-executing” super- 
+sedeas, one which is not premised upon a properly submitted 
+request for utilization review, violates the Act and is subject 
+to penalties by the Bureau. Aside from utilization review and 
+the supersedeas of benefits that it permits, and absent consent 
+by an injured worker, a stoppage of medical benefits can only 
+be effectuated by the direct action of state officials. The 
+request for review is only the first step in the utilization 
+review process which intimately involves the state in the 
+determination of the dispute concerning the injured worker's 
+right to medical treatment through a state established pro- 
+cedure. The private decision to seek utilization review and to 
+stop medical benefits, standing alone, cloaks defendants with 
+no authority to interfere in an injured worker's receipt of 
+‘enefits. The supersedeas cannot be initiated outside of the 
+state's legal framework for utilization review and cannot be 
+maintained without the Bureau's approval. 
+
+Thus, the employer's power over an injured worker's 
+continued receipt of medical benefits does not begin and end 
+with a “private” decision to invoke utilization review, as the 
+Petitioners insist. This is not a situation in which a private 
+decision is self-executing and can be carried out without 
+entanglement or interaction with state procedures, state 
+administrative machinery, and state officials. See, e.g., Tulsa, 
+supra. The employer's power to supersede benefits emanates 
+directly from the state and is dependent upon the state's 
+approval at every key juncture. 
+
+Tulsa reinforces this conclusion. There, the Court 
+rejected the argument that a non-claim statute was self-exe- 
+cuting, and held that an executrix’s statutory duty to file 
+notice to creditors of the estate constituted state action 
+because it involved the “overt, significant involvement of 
+state officials.” Jd. at 486-87. Central to the Court's holding 
+was the fact that, because the legal proceedings triggered the 
+time bar, the legal proceedings themselves substantially 
+
+
+35 
+
+
+involved the state in the notice process and rendered the state 
+and the private party joint actors for purposes of the Four- 
+teenth Amendment. Tulsa, 485 U.S. at 487. Accord National 
+“Collegiate Athletic Association v. Tarkanian, 488 U.S. 179, 
+192 (1988) (state action exists where the “government has 
+created a legal framework for the challenged conduct.”). 
+
+
+Here, the decision to stop benefits, standing alone, has no 
+legal effect without an application for admission to the state's 
+utilization review process and approval by state officials. 
+Like the non-claim statute in Tulsa, the request for utilization 
+review triggers legal proceedings and within the context of 
+those proceedings, “adversely affects” the injured worker's 
+constitutionally protected interest. 485 U.S. at 491. 
+
+
+b. Traditional Government Function 
+
+
+The second factor identified in Edmonson is whether the 
+private actor is engaged in a traditional government function. 
+In the context of the Pennsylvania workers’ compensation 
+system, the provision of medical treatment to injured workers, 
+the power to determine whether medical treatment is reason- 
+able and necessary, and the power to stop or supersede those 
+benefits after a determination that the treatment is not reason- 
+able and necessary, have been exclusively within the province 
+of the state. Injured workers must seek medical care for work 
+related injuries through the state, and only through the state. 
+The system is mandatory. Workers cannot opt-out of the 
+system, pay for their own treatment, sue their employers for 
+the cost of their treatment, nor sue the insurers for their 
+failure to provide treatment. Injured workers have no choice 
+but to rely on the state to fulfill its statutory obligation to 
+them. 
+
+
+The constitutional import of this mandatory and exclu- 
+sive state structure is set forth in West. There, the state was 
+under both a constitutional and statutory obligation to provide 
+medical care to inmates housed in state prisons. To fulfill this 
+obligation, the state contracted with a private doctor to pro- 
+vide for medical care. The Court found the doctor to be a state 
+actor because “in the prison context, medical care is the 
+
+
+36 
+
+
+‘exclusive prerogative of the State’ ”. Thus, the doctor was a 
+“willful participant in joint activity with the State.” /d., 487 
+U.S. at 47. 
+
+
+While Plaintiffs are not prisoners in the sense of West, 
+they are nonetheless captives of the state system. Employers 
+and insurers, like the doctor in West, are participants in a 
+wholly state-created and administered public benefit system 
+which has a legal obligation to provide medical care to 
+beneficiaries who have no alternative source of such care. 
+Employers and insurers, by virtue of their contract with 
+employers, stand in the same relation to the state and the 
+recipient of medical care as did the doctor in West. Here the 
+state guarantees the delivery of medical care to the injured 
+worker by imposing upon the employer the obligation to pay 
+for it, either directly or through a contract of insurance.?* The 
+provision of workers’ compensation benefits in Pennsylvania 
+is, therefore, an exclusive state function.?% 
+
+
+Power over the process of determining the reasonable- 
+ness and necessity of medical treatment has historically been 
+exclusively held by the state. Prior to the enactment of the 
+1993 Amendments, only a workers’ compensation judge could 
+make such a determination. See, infra, at 7-8. An injured 
+worker's right to medical treatment could not be superseded 
+until notice and a hearing had been provided. Indeed, having 
+created a recognized property interest in medical treatment, 
+the state was under a constitutional obligation to ensure that 
+
+
+28 Insurers’ curious effort to distance themselves from employers 
+under the Act, by pointing to their “voluntary” participation in the system 
+and their contractual relation with the employer, is unavailing. Having 
+decided to participate in the system, their obligations under the Act are 
+identical to those of the employers. Their not so subtle threat to withdraw 
+from this participation should they be deemed state actors should have no 
+bearing on the state action analysis. 
+
+29 This is not to say that Petitioners are necessarily state actors for all 
+purposes under the Act. Plaintiffs have never made such a claim and the 
+Court does not have to go that far to find that they are state actors in the 
+context of utilization review. 
+
+
+37 
+
+
+the injured workers’ receipt of that benefit was not inter- 
+rupted without due process. Logan, supra. 
+
+
+Utilization review provides a dramatic departure from 
+this practice. It delegates to employers the state’s power to 
+determine that treatment is unreasonable and unnecessary and 
+to stop benefits on that basis, and thereby abdicates the state’s 
+responsibility to ensure due process in the administration of 
+its public benefit program. The fact that a state delegates to a 
+private party some of its power does not change the govern- 
+mental character of the power exercised. Edmonson, 500 U.S. 
+at 626. When they stop benefits pursuant to utilization review, 
+employers are fulfilling a traditional,*° if not exclusive, gov- 
+ernmental function.?! 
+
+
+3© The insurers’ argument that the provision of workers’ 
+compensation benefits is not a traditional government function because the 
+benefits are paid by the employer or the insurer, and not the state, misses 
+the mark. The benefits are paid as a result of a statutory entitlement which 
+substituted the no-fault compensation system for the forfeiture of the 
+constitutional right of the employee to sue the employer in tort for 
+workplace injuries. The fact that the state chose to fund the system through 
+an employer mandate rather than an employer tax does not change the 
+character of the benefit or its constitutionally protected status. It is the state 
+through its police power which has conferred the benefit, not the employer. 
+The insurers’ analogies to car insurance, therefore, are completely 
+inapposite. Car insurance is a requirement, not an entitlement. Like car 
+insurance, employers are required to carry workers’ compensation 
+insurance. As to them, coverage is not a public benefit but a mandatory 
+duty. Employees, however, stand on a completely different footing. 
+Workers’ compensation coverage for them is an entitlement and once they 
+are deemed eligible, is one in which they have a constitutionally protected 
+property interest which cannot be divested without due process of law. 
+
+
+3! For purposes of the Edmonson analysis, it is not necessary to 
+engage in the debate over whether the public function must be a 
+traditionally exclusive one. Edmonson uses public function as a factor, not 
+a test complete in and of itself, in a totality of the circumstances analysis, 
+predicated upon a public function test, standing on its own, contains an 
+exclusivity requirement. 
+
+
+38 
+
+
+c. Aggravation by Unique Incidents of Gov- 
+ernmental Authority 
+
+
+Every injured worker receiving workers’ compensation 
+benefits is aware that those benefits emanate from the state. 
+Some injured workers’ benefits were determined by a 
+workers’ compensation judge through an adjudicative process 
+in which the full panoply of state authority has been invoked 
+to establish their entitlement. Their right to receive benefits is 
+set forth in a decision by a workers’ compensation judge or a 
+judge from the state’s appellate system, and carries with it the 
+prestige and authority of a court order. Those injured workers 
+whose benefits were decided by agreement are aware that 
+those benefits are more than a matter of their employers’ 
+grace. Each agreement is documented upon a state form which 
+sets forth the parameters of the injured worker's entitlement 
+and is legally binding. Many of those agreements have been 
+specifically approved by a workers’ compensation judge. 
+
+
+The stoppage of benefits without notice or an opportunity 
+to be heard in this context brings with it a betrayal of the trust 
+which emanates from the state’s guarantee of medical cover- 
+age, memorialized in state documents bearing the name of the 
+Commonwealth of Pennsylvania and the Bureau of Workers’ 
+Compensation. The harm caused by the stoppage of benefits 
+through utilization review is aggravated in a unique way by 
+the context in which it occurs. Moreover, it can only occur 
+through a legal framework established by the state itself. 
+When injured workers call the Bureau to find out how their 
+benefits could have been stopped without notice to them or an 
+opportunity to defend themselves, they learn that the state has 
+placed its imprimatur upon the employers’ conduct and that 
+they, as purported beneficiaries of the system, are powerless 
+to rectify this injustice.42 They also learn that the employer 
+
+
+32 Indeed, many claimants, including four of the named Plaintiffs, 
+have had their medical benefits stopped through utilization review directly 
+after a Request for Supersedeas hearing which was held within the context 
+of a petition by their employer to terminate, suspend, or modify their 
+benefits and at which a workers’ compensation judge has denied 
+
+
+39 
+
+
+has been delegated authority to interfere with their state- 
+sanctioned benefits without having to show any factual or 
+medical justification. They are forced into, and then trapped 
+in, a state utilization review process in which they are denied 
+any opportunity to speak in their own defense or to have 
+counsel speak on their behalf. 
+
+
+The injured workers’ loss under these circumstances is 
+clearly aggravated in a unique way by the mantle of govern- 
+mental authority which has been bestowed upon their 
+employer to stop their government entitlement. United States 
+v. Classic, 313 U.S. 299 (1941). The harm goes beyond 
+human suffering, in the form of physical pain and prolonged 
+and exacerbated disability, to the very root of the due process 
+clause itself, which serves not only to prevent mistaken and 
+arbitrary deprivations of property, but to make the individual 
+so deprived feel that his government has treated him fairly. 
+Richmond Newspapers, Inc. v. Virginia, 448 U.S. 555, (1980); 
+Joint Anti-Fascist Refugee Committee v. McGrath, 341 U.S. 
+123, 172 (1951) (Frankfurter, concurring). The deprivation of 
+medical care without notice, with no pre-deprivation oppor- 
+tunity to be heard, and the exclusion of the injured worker 
+from the utilization review process until the appellate stage of 
+review which occurs at the very least, months after the 
+
+
+supersedeas and ordered that benefits be continued. See Jnt. App. at 
+Ti 96-99, 111-113, 147-150, 249-252. Request for supersedeas hearings 
+were put into place by the Consent Decree in Baksalary to replace the 
+automatic supersedeas provision invalidated in that case. That the 
+employer can effectively ignore the judge's decision undermines the 
+constitutional remedy which was devised after ten years of litigation in 
+Baksalary and justifiably shakes a claimant's confidence and respect for 
+the system and for the authority of the workers’ compensation judge who 
+will decide his/her case. A claimant can have little confidence in the 
+fairness of a system in which a supposedly co-equal litigant in the 
+proceedings can vitiate the judge’s decision and revoke the benefits the 
+judge has specifically ordered to continue. 
+
+
+40 
+
+
+medical treatment has been stopped, is inconsistent with these 
+important constitutional principles.*? 
+
+
+d. The Third Circuit Properly Applied the 
+Edmonson Factors 
+
+
+Contrary to the Petitioners’ accusation, the Third Cir- 
+cuit’s decision, which took into account the totality of the 
+circumstances surrounding the insurers’ participation with the 
+state in the provision of workers’ compensation benefits gen- 
+erally, and the supersedeas of those benefits which is at the 
+heart of this case, was in accordance with a coherent theory of 
+state action and completely consistent with this Court's deci- 
+sion in Edmonsen. Far from being miscellaneous irrelevan- 
+cies, as the Petitioners charge, the factual context used by the 
+cOurt was necessary to place the role of the insurers in the 
+state system in its proper perspective. The picture which 
+emerges when all the relevant factors are considered dictate 
+that the Third Circuit's finding of state action be affirmed. 
+
+
+B. EVEN IF DISCRETE TESTS ARE REQUIRED, 
+THE THIRD CIRCUIT’S STATE ACTION 
+HOLDING AGAINST THE INSURERS 
+SHOULD BE AFFIRMED 
+
+
+1. Joint Participation/Symbiotic Relationship Test 
+
+
+The joint participation/symbiotic relationship test was 
+first identified in Burton v. Wilmington Parking Authority, 
+365 U.S. 715 (1961). There, the Court looked to the many 
+interactions between the state and private restaurant owner 
+who leased space in a state owned facility and attributed 
+particular significance to the fact that both the restaurant and 
+
+
+33 Although, since the Third Circuit's Decision, the state has changed 
+its procedures to allow injured workers to submit a personal statement 
+during utilization review, the Petitioners are asking the Court to declare 
+that it would be constitutional, should the state decide to change its 
+procedures, to defer this opportunity until after the benefits have been 
+stopped. 
+
+
+41 
+
+
+the state benefitted economically from the restaurant's deci- 
+sion to practice disc: mination. The state and the restaurant 
+were found to be nt participants in the discriminatory 
+activity, notwithstanaing the fact that the restaurant chose on 
+its own, without consultation with the state, to discriminate 
+on the basis of race. 
+
+
+The Court has applied this analysis to find state action in 
+other contexts as well. In Lugar, for instance, the court found 
+state action in Virginia’s prejudgment attachment procedures. 
+There, a creditor executed an ex parte affidavit alleging a 
+belief that the debtor might dispose of his property in order to 
+defeat his creditors. That decision was a private one, made 
+without consultation with state officials. Acting on this alle- 
+gation, the Clerk of the state court issued a writ as a matter of 
+course which was then executed by the County sheriff. The 
+Court held that private use of state procedures with the help 
+of state officials to accomplish a prejudgment deprivation of a 
+constitutionally protected property interest constitutes state 
+action. The Petitioners’ emphasis on the fact that they decide 
+to invoke utilization review without consultation with the 
+state is as misplaced and irrelevant here as it was in Burton 
+and Lugar. For purposes of establishing a symbiotic relation- 
+ship, the focus is upon the interaction between the state and 
+the employer, the joint motivation underlying the challenged 
+conduct, and the mutual benefit derived by both the state and 
+the employer when the utilization review process is invoked. 
+
+
+Many of the factors set forth in Section III (A)(2)(b), 
+infra, under the first Edmonson principle, are relevant to 
+whether the employers and insurers act in joint participation 
+with, or in a symbiotic relationship with the state, when they 
+invoke utilization review and stop workers’ compensation 
+medical benefits on that basis. The interconnection between 
+the state and the employers in that process is a critical factor 
+in the analysis. No employer may stop benefits without prop- 
+erly invoking the utilization review procedures and enlisting 
+the state to approve its request. Only if that request is granted 
+and the utilization review is permitted can the supersedeas be 
+legally maintained. Thus, this situation is closely akin to the 
+statutory mechanism invalidated in Lugar. Here, while the 
+
+
+42 
+
+
+Bureau employs no sheriffs to assist employers in confiscat- 
+ing the challenged property, the property in dispute, and to 
+which the injured worker presumptively has an entitlement 
+until due process is afforded, is sequestered by the employers 
+with the full knowledge, participation, and imprimatur of 
+state officials. 
+
+There is no dispute that the utilization review procedures 
+at issue here were legislated by the state, at the behest of the 
+employers and their insurers, to contain medical costs in the 
+workers’ compensation system. The state’s policy of cost con- 
+tainment was intended to further its own interest in attracting 
+business to Pennsylvania.** To ensure that its own interest was 
+achieved, the statute ensured that employers and their insurers 
+would derive economic benefit directly from the utilization 
+review provisions, who stand to save money each time they 
+invoke the process, whether or not their challenge to the 
+medical treatment under review is ultimately successful.*5 
+
+The state’s interest is likewise furthered every time an 
+employer invokes the utilization review procedures and stops 
+benefits. Indeed, if employers did not do so, the interests the 
+state sought to advance through the statute would never be 
+realized. So important to the state is the cost savings to the 
+employers, and so intertwined are the state’s and the 
+employers’ interests, that the Bureau maintains an office, 
+staffed by state employees, whose specific purpose is to 
+contain the costs of the employers and their insurers.*° The 
+employer's decision to invoke review in any particular case, 
+
+
+34 See Third Circuit Brief of Commonwealth Appellees, at 16. See 
+also Brief for Petitioners at 44-45. 
+
+
+35 Because injured workers cannot pay for services pending the 
+review, no matter how legitimate their need for continued treatment or how 
+long the initial review and the appellate process might drag on, there is 
+nothing, in most cases, for the employers to reimburse even if the treatment 
+is ultimately deemed to be reasonable and necessary. 
+
+
+36 See Third Circuit Appendix, Deposition of David Weyl, Chief of 
+Bureau’s Cost Containment Unit at B-135, responding to the question, 
+“Whose costs do you contain?”: “We are containing the medical costs 
+incurred by employers and insurers, if they have insurers”. 
+
+
+43 
+
+
+therefore, is inevitably intertwined with the state’s interest, 
+even though the state is not consulted in advance. 
+
+In this situation, therefore, the evidence of joint endeavor 
+by the state and the employers is far stronger than it was in 
+Burton or Lugar. In Burton the state expressed no direct policy 
+interest in the discrimination which was practiced by the res- 
+taurant. It was a passive recipient of the increased business 
+generated by the restaurant owner, but there was no evidence 
+that the state was even aware that the restaurant’s policy 
+existed. The economic benefit derived by the state through the 
+restaurant’s discriminatory conduct was not in furtherance of 
+any expressed policy of the state. The same is true in Lugar, 
+where the state provided the procedural scheme utilized by the 
+defendant with the assistance of state officials, but remained 
+neutral as to whether or not the statute was utilized. 
+
+
+Blum v. Yaretsky is not to the contrary. There, the state was 
+not involved in the utilization review process used to assess 
+and diminish the level of care provided to patients within a 
+private nursing home. Although the utilization review was 
+undertaken in accordance with state regulations, and the state 
+was ultimately notified about the action taken by the nursing 
+home and adjusted the payment to the nursing home accord- 
+ingly, there was absolutely no interaction with the state until 
+the decision to perform utilization review had been made, the 
+review completed, and the ultimate decision as to the appropri- 
+ate level of care determined. The procedures were entirely self- 
+executing, i.e., they were invoked and utilized by the private 
+nursing home without any state involvement. The activity of 
+the nursing home and the state operated in separate, self- 
+contained spheres which touched, but never intersected. Addi- 
+tionally, in Blum there was no challenge to the constitutionality 
+of the procedures themselves. The Plaintiffs in Blum never 
+challenged the reduction of their benefit, only the medical 
+decision by their treating doctors as to the level of care they 
+would receive. 
+
+This case could not be more different. Here, it is not an 
+institutionally internal medical decision which is being chal- 
+lenged, but the state procedure which permits an employer, in 
+accordance with an express state policy of cost containment, to 
+
+
+44 
+
+
+override a private doctor’s medical decision that treatment is 
+reasonable and necessary. Far from being self-executing, the 
+supersedeas of benefits can be invoked only through an estab- 
+lished state procedure which requires interaction between the 
+state and the employer or insurer seeking review. It advances 
+an express policy of the state to benefit both the state and the 
+employers economically. Based on this Court’s decisions in 
+Burton and Lugar there is a symbiotic relationship and joint 
+participation between the state and the employers when bene- 
+fits are stopped under utilization review. 
+
+
+2. The Public Function Test 
+
+
+The facts set forth in the Edmonson public function anal- 
+ysis, see infra, at II1(A)(2)(b), are sufficient in and of them- 
+selves to establish the employers’ liability as state actors under 
+the public function test espoused by Petitioners. The only 
+question remaining is whether the power to stop an injured 
+worker’s benefits pursuant to utilization review is a function 
+which has heretofore been an exclusive state function, or, more 
+to the point, whether exclusivity ought to be relevant to the 
+analysis at all. 
+
+
+Prior to Edmonson, the public function test as articulated 
+by the Court had required that the function delegated to the 
+private party be one traditionally and exclusively performed by 
+the state. See Flagg Brothers, 436 U.S. at 157-160. After 
+Edmonson much debate ensued as to whether or not the public 
+function test still required exclusivity. Edmonson did not use 
+the word “exclusive”, a point which was hotly attacked in the 
+dissent. 500 U.S. at 640. Some courts and commentators since 
+Edmonson have opined that the exclusivity requirement was 
+eliminated from the public function test, e.g., Mark v. Borough 
+of Hatboro, 51 F.3d 1137 (3rd Cir.1995) (Greenberg, concur- 
+ring); McKeesport Hospital v. Accreditation Council, 24 F.3d 
+519 (3rd Cir. 1994) (Becker, concurring), while others have 
+treated the absence of the exclusivity language in Edmonson as 
+a mere oversight on the part of the Court. E.g., United Auto 
+Workers v. Gaston Festivals, Inc., 43 F.3d 902, 906 (4th Cir. 
+
+
+45 
+
+
+1995); Gallagher v. Neil Young Freedom Concert, 49 F.3d 1442 
+(10th Cir. 1995). 
+
+
+As stated previously, this debate fails to perceive that in 
+Edmonson, public function was identified as one of several 
+factors or guiding principles to be utilized in a balancing 
+analysis, not as a “test” which by itself would identify the 
+presence or absence of state action. See infra, III(A)(1). 
+Accordingly, it was not necessary to determine whether, if a 
+public function test standing alone exists after Edmonson, 
+exclusivity would still be required. 
+
+
+Here, the state has had exclusive control over the stoppage 
+of an injured worker’s medical benefits since 1984. Without 
+the consent of an injured worker or an Order of a workers’ 
+compensation judge, those benefits were required to continue. 
+Even if exclusivity is required, therefore, Plaintiffs satisfy the 
+test. ‘3 
+
+
+The Court has stated, however, that a function does not 
+satisfy the exclusivity test unless it is “traditionally” an exclu- 
+sive state function. Petitioners respectfully contend that the 
+exclusivity requirement, as articulated in Flagg Brothers, is not 
+an element which properly belongs in the public function 
+analysis. 
+
+
+This Court has concluded that to identify the attributes of 
+a traditional governmental function is an impossible task. Gar- 
+cia v. San Antonio Metropolitan Transit Authority, 469 U.S. 
+528, 544 (1985).5”? To identify one which has been historically 
+exclusive is even more daunting than the task abandoned by 
+the Court in Garcia. As the Court observed there, it is impossi- 
+ble to consistently apply such a requirement because what is a 
+traditional or exclusively governmental function has changed 
+as our society has developed. 469 U.S. at 543. Particularly 
+since the New Deal, the government has taken responsibility 
+for many functions which were previously performed by the 
+
+
+3? See also Reitman v. Mulkey, 377 U.S. at 378 (characterizing as an 
+“impossible task” the formulation of an infallible test for determining 
+whether the state, in any of its manifestations, has become significantly 
+involved in private discriminations). 
+
+
+46 
+
+
+private sector. To require traditional exclusivity in the public 
+function doctrine would force courts to ignore contemporary 
+experience and would in effect “freeze into law a static con- 
+ception of Government.” San Francisco Arts and Athletics vy. 
+United States Olympic Committee, 483 U.S. 522, 549 n.1 
+(1987) (Brennan, dissenting). This would permit the exclusion 
+from scrutiny of numerous activities in which the state has 
+exclusively occupied a field of endeavor and then delegated 
+that function to a private entity. Constitutional scrutiny could 
+then be evaded by a private entity, despite its acceptance of a 
+power previously exercised only by the state, if it can point to 
+an earlier time in which the function was privately adminis- 
+tered. There would be no limit to how far back a defendant 
+could reach to avoid application of the public function doc- 
+trine. In this age of privatization of traditional governmental 
+duties and responsibilities such a result would be unacceptable, 
+as it would allow the state to avoid the strictures of the 
+Constitution by simply ceding its duty and power to a private 
+entity. If the Court maintains a free-standing public function 
+analysis, and within that test an exclusivity requirement, it 
+should deem exclusivity to be satisfied by evidence that the 
+state exclusively occupied a field of endeavor at the time it 
+delegated the function to the private entity. 
+
+
+Even if the Court continues to require traditional exclu- 
+Sivity as part of the public function analysis, however, it would 
+be inappropriate to apply it to this case. Since 1984 in Pennsyl- 
+vania, the state has exclusively reserved to itself the power to 
+stop an injured worker's medical benefits. Prior to that time, 
+employers were permitted to stop them pursuant to a procedure 
+very like the one at issue here. That provision, however, 
+Section 413 (a) of the Act, was deemed unconstitutional in 
+Baksalary, supra. An inflexible application of the exclusivity 
+requirement would permit employers to avoid scrutiny under 
+the public function doctrine because the state, in the past, 
+permitted them to exercise power unconstitutionally.** Such a 
+
+
+38 The insurers cite to Silas v. Smith, 361 F. Supp. 1187 (B.D. Pa. 
+1973) and Henderson v. Workers’ Compensation Appeal Board, 69 Pa. 613, 
+
+
+47 
+
+
+result should be emphatically rejected, as it would not further 
+the goals of the public function analysis, and would surely 
+produce a constitutional anomaly. 
+
+
+3. Government Compulsion and Encouragement 
+
+
+The third “test” relied upon by the Petitioners is the 
+government compulsion test. This argument is somewhat dis- 
+ingenuous because the Court has never required compulsion 
+to find state action. If the state has provided such significant 
+encouragement, either overt or covert, that the choice exer- 
+cised by the private actor must be deemed in law to be that of 
+the state itself, state action is present. Blum v. Yaretsky, 457 
+U.S. 991, 1004 (1982); Jackson v. Metropolitan Edison Com- 
+pany, supra, 
+
+Plaintiffs do not disagree that state encouragement or 
+compulsion requires more than intensive state regulation. 
+They have never contended that the insurers, who, to be sure, 
+are extensively regulated by the state, are state actors for that 
+reason alone. Blum, supra; Moose Lodge No. 107 v. Irvis, 407 
+U.S. 163 (1972). 
+
+
+In order to escape the appearance of any nexus to the 
+state, Petitioners attempt to place the decision to invoke 
+utilization review in a vacuum, as if it were that decision 
+alone, outside of the state's established system for review of 
+reasonableness and necessity of medical treatment, which 
+causes the harm of which the Plaintiffs complain in this case. 
+
+
+While it is true that the state does not preview each 
+request for utilization review, the statutory scheme clearly 
+encourages the use of the utilization review process and the 
+supersedeas of benefits which it authorizes. The Act prohibits 
+an employer from unilaterally stopping an injured worker's 
+medical benefits except in the context of utilization review. 
+By granting them the power to stop benefits in that unique 
+
+
+452 A.2d 277 (1982), but fail to disclose that both cases were effectively 
+overruled by Baksalary. The consent decree which resulted in that case 
+vested the state with the exclusive mght to stop medical benefits. 
+
+
+48 
+
+
+context, the state is furthering its expressed policy of cost 
+containment. 
+
+This Court has recognized that state encouragement of an 
+ostensibly private decision may take subtle forms. In Reitman, 
+supra, for instance, the Court found state action on the part of 
+an individual who had used a facially neutral state constitu- 
+tional amendment which had the purpose and effect of author- 
+izing, but not mandating, racial discrimination in the housing 
+market. The Court looked to the immediate objective of the 
+legislation, the ultimate effect, and the historical context to 
+determine that the state was using the amendment to encour- 
+age private discrimination, something which it could not do 
+directly. By deputizing private citizens to advance the state's 
+agenda, the individuals who carried that agenda forward 
+through their use of the amendment became state actors. 
+
+The Amendments at issue here, which permit, but do not 
+require, the insurers to stop an injured worker's state entitle- 
+ment to medical benefits without notice or an opportunity to 
+be heard, had the purpose and effect of encouraging the 
+insurers to do indirectly what the state could not do directly, 
+that is, to stop injured workers’ access to medical care with- 
+out pre-deprivation process. The immediate objective of the 
+legislation was to contain costs in the state’s workers’ com- 
+pensation program. To achieve the objective of this express 
+state policy, the state enlisted employers and insurers to 
+advance its purpose. It focused the attention of the employers 
+on the reasonableness and necessity of medical treatment, the 
+direct target of the state's cost containment effort, and permit- 
+ted employers to stop those benefits through the utilization 
+review process, and only that process.*? It imposed no criteria 
+to protect an injured worker from the arbitrary stoppage of his 
+benefits and ensured that the consequences to the employer 
+
+
+3° Thus, here there is even more evidence of state action than was 
+present in Reitman, because there, the individual was free to discriminate 
+on any ground he chose. See Alliance for Community Media v. FCC, 
+supra, (applying Reitman analysis to find government encouragement of 
+suppression of indecent material, something which the government could 
+not do directly, through the acts of private cable operators). 
+
+
+49 
+
+
+for erroneous or unfounded use of the process would be 
+minimal, by precluding an injured worker from securing the 
+challenged treatment pending review.*° In short, by invoking 
+utilization review, the insurer had everything to gain and 
+nothing to lose, a fact which was sure to encourage wide- 
+spread use of the process. Indeed, by January of 1995, when 
+this case was filed, and just sixteen months after the law went 
+into effect, more than 40,000 requests for utilization had been 
+filed. Jnt. App. at 16. 
+
+Unlike this case, in which the state had an express policy 
+of cost containment which it advanced by deputizing 
+employers to stop medical benefits, the cases cited by the 
+Petitioners to avoid a finding of state encouragement or com- 
+pulsion are inapposite. In Jackson, for instance, while the 
+private utility had been granted a monopoly and was a heavily 
+regulated business, the state had no policy, rule, or procedure 
+concerning the termination of services. The state’s regulation 
+of the utility was unrelated to the transaction which gave rise 
+to the constitutional dispute. Accord Rendell-Baker v. Kohn, 
+supre (regulation imposed by the state upon the private 
+school was unrelated to the personnel action which formed 
+the basis of the constitutional challenge). Additionally, the 
+decision to terminate services was self-executing and did not 
+require the participation of state officials. In terminating 
+services, the utility was not exercising any authority or power 
+delegated by the state. 
+
+Likewise, in Flagg Brothers, the only state involvement 
+was the passage of a statute that regulated private conduct. 
+The state provided a mechanism for resolution of private 
+disputes but had no contact whatsoever with the private par- 
+ties who used it. The statute was wholly self-executing and 
+the state was completely neutral as to whether the procedures 
+
+
+“© The insurers’ and the DOJ's observation that the 10% penalties 
+discourage arbitrary use of the process is disingenuous at best, since 10% 
+of nothing is 0. Unless an injured worker can convince her medical 
+provider to treat him gratuitously during the review process, which can 
+take years to complete if appeals are involved, the injured worker is 
+precluded from generating bills which would call for reimbursement. 
+
+
+50 
+
+
+were utilized. It did nothing to encourage the use of those 
+procedures and derived no benefit from their use. 
+
+
+Here the state procedures under challenge were designed 
+to and did in fact encourage the employers to interfere in the 
+injured workers’ property interest in the receipt of medical 
+treatment. The fact that employers voluntarily used those 
+procedures without advance consultation with the state, some- 
+thing upon which the state depends for the advancement of its 
+cost containment agenda, does not diminish the state’s role in 
+the employer’s conduct, but rather, increases it.4' Employers 
+in this context are state actors.4? 
+
+
+CONCLUSION 
+For all the reasons stated herein, Respondents respect- 
+
+
+fully urge the Court to affirm the decision of the Court of 
+Appeals for the Third Circuit. 
+
+
+Respectfully submitted, 
+
+
+*LORALYN McKINLEY ALAN B. EPSTEIN 
+McKinley and Vonier Jablon Epstein 
+
+1333 Race Street A Professional Corporation 
+Philadelphia, PA 19107 The Bellevue, Ninth Floor 
+(215) 569-1644 Broad Street at Walnut 
+Counsel for Delores Scon Philadelphia, PA 19102-3803 
+Sullivan, William Battle, 
+
+Anthony Cancila, Louis Counsel for Charles 
+Baumgartner, and Class Matthews, Christopher 
+Plaintiffs Costello, Lisa Lex, Susan 
+
+
+*Counsel of Record 
+
+
+*! See Reitman, 387 U.S. at 381-87 (Douglas, concurring); see also 
+Alliance Media, supra, \0 F.3d at 822 n.13. 
+
+
+*2 Plaintiffs note that the Petitioners rely upon numerous facts and 
+statistics which were not in the record in the district court. It must be 
+to a motion under 12(b)(6) of Federal Rules of Civil Procedure. Thus, the 
+facts as Plaintiffs have alleged them govern the analysis of this case. 
+
+

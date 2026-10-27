@@ -1,0 +1,955 @@
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. Federal law does not preclude Arizona from impos- 
+ing its transaction privilege tax upon the gross receipts 
+that respondent, Blaze Construction Company, received 
+under its contracts with the Bureau of Indian Affairs to 
+construct and improve roads on Indian reservations lo- 
+
+
+4 ADOR also sought to collect transaction privilege taxes relating 
+to contracts Blaze entered into with tribal housing authorities. J.A. 12. 
+ADOR subsequently agreed, however, “that the receipts from these 
+projects are not subject to the Arizona privilege tax.” See Plaintiff's 
+Statement of Facts in Support of Motion for Summary Judgment, Exh. 
+B, at 1. See also note 16, infra. 
+
+
+cated within the State. States may impose nondiscrimi- 
+natory taxes on federal contractors unless the contractors 
+have been “incorporated into the government structure,” 
+or unless federal law expressly precludes the tax in ques- 
+tion. United States v. New Merico, 455 U.S. 720, 737 
+(1982). 
+
+That rule is fully applicable to state taxes imposed upon 
+federal contractors working on Indian reservations. In 
+cases involving state efforts to tax non-Indians engaging 
+in direct dealings with Tribes or tribal members on a res- 
+ervation, this Court has determined whether federal law 
+preempted the state tax by conducting a “particularized 
+examination of the relevant state, federal, and tribal inter- 
+ests.” Cotton Petroleum Corp. v. New Mexico, 490 U.S. 
+163, 176 (1989) (quoting Ramah Navajo School Bd., Inc. v. 
+Bureau of Revenue, 458 U.S. 832, 838 (1982)). The Court 
+has not, however, previously applied that approach to state 
+taxes imposed upon non-tribal contractors whose contract 
+is with an agency of the United States rather than a 
+Tribe. For four principal reasons, the legality of such 
+state taxes is properly determined under the rule of 
+United States v. New Mezico, rather than under the ap- 
+proach the Court has applied to state taxes “when a tribe 
+undertakes an enterprise under the authority of federal 
+law.” New Mexico v. Mescalero Apache Tribe, 462 U.S. 
+324, 336 (1983). 
+
+First, state taxes upon federal contractors will not un- 
+duly interfere with tribal sovereignty. When the United 
+States is the contracting party, tribal involvement in the 
+making and performance of the contract will be far less 
+substantial than in cases in which a tribal entity is a party 
+to the contract. Second, state taxes imposed upon non- 
+tribal parties who contract with agencies of the United 
+States will generally have an uncertain and indirect effect 
+on tribal interests, because the ultimate effect of such 
+
+
+taxes will depend on the federal agencies’ response to the 
+taxes. Third, state taxes on contractors whose contract is 
+with the United States do not implicate the distinctive 
+concerns that arise when a State attempts to enter into 
+the “comprehensively regulated” area of direct relations 
+between Indians and non-Indians. Central Mach. Co. v. 
+Arizona State Tax Comm'n, 448 U.S. 160, 163 (1980). 
+Fourth, the conclusion that United States v. New Mexico 
+applies to all federal contracts, even those bearing some 
+relation to Indian matters, also has the virtue of simplic- 
+ity. A different approach would require the courts to de- 
+termine the point at which the connection of a contract to 
+Indian matters was sufficient to displace the rule of 
+United States v. New Mexico. 
+
+IL The state tax at issue here does not unduly interfere 
+with important federal policies. Neither the Indian Self- 
+Determination and Education Assistance Act, 25 U.S.C. 
+450 et seq., nor the Buy Indian Act of 1910, § 23, 25 U.S.C. 
+47, reflects a federal policy that is impeded by Arizona’s 
+tax. And although imposition of Arizona’s tax increases 
+the costs of federal contracting, United States v. New 
+Mexico makes clear that a state tax is not preempted by 
+federal law simply because the burden of the tax will 
+ultimately fall on the United States. 
+
+
+ARGUMENT 
+
+
+ARIZONA IS NOT BARRED BY FEDERAL LAW 
+FROM ASSESSING ITS TRANSACTION PRIVI- 
+LEGE TAX AGAINST THE GROSS PROCEEDS 
+RESPONDENT RECEIVES UNDER ITS CON- 
+TRACTS WITH THE BUREAU OF INDIAN AF- 
+FAIRS 
+This case involves the State of Arizona’s transaction 
+privilege tax, which the State imposes upon persons who 
+engage in business in the State. Ariz. Rev. Stat. § 42- 
+
+
+10 
+
+
+1306(A) (West 1991). The issue is whether federal law pre- 
+cludes Arizona from imposing that tax upon Blaze’s gross 
+receipts under its contracts with the BIA to construct and 
+improve roads on Indian reservations located within the 
+State. 
+
+
+I. A NON-TRIBAL MEMBER’S CONSTRUCTION 
+CONTRACTS WITH THE BUREAU OF INDIAN 
+AFFAIRS ARE SUBJECT TO THE GENERAL 
+RULE OF UNITED STATES v. NEW MEXICO 
+THAT A STATE MAY TAX THE PROCEEDS 
+RECEIVED BY A CONTRACTOR UNDER A 
+CONTRACT WITH A FEDERAL AGENCY 
+
+
+A. United States v. New Mexico Establishes A General 
+Rule That A State May Tax A Federal Contractor 
+
+
+States are generally free to impose nondiscriminatory 
+taxes upon federal contractors. United States v. New 
+Mexico, 455 U.S. 720 (1982). In New Mezico, the State 
+sought to impose a gross receipts tax and a use tax on 
+three companies that provided management and construc- 
+tion services to atomic laboratories operated in the State 
+by the Atomic Energy Commission. Id. at 722-723. The 
+taxes were legally incident upon the contractors, but the 
+United States was contractually obligated to reimburse 
+the contractors for their costs, including the taxes at is- 
+sue. /d. at 723, 738. The United States contested the le- 
+gality of the taxes, arguing that its immunity from state 
+taxation precluded New Mexico from imposing its taxes 
+upon certain of the operations of the federal contractors. 
+Id. at 728. 
+
+This Court disagreed. Acknowledging the “confusing 
+nature” of its prior decisions concerning the scope of the 
+federal government’s immunity from state taxation, the 
+Court reiterated the basic principle that “a State may not, 
+consistent with the Supremacy Clause, lay a tax ‘directly 
+
+
+11 
+
+
+upon the United States. New Merico, 455 U.S. at 733 
+(citation omitted; quoting Mayo v. United States, 319 U.S. 
+441, 447 (1943). Conversely, the Court held, immunity 
+from state taxation is not conferred “simply because the 
+tax has an effect on the United States, or even because the 
+Federal Government shoulders the entire economic bur- 
+den of the levy.” Id. at 734. Rather, a conclusion that the 
+Constitution itself confers “tax immunity is appropriate 
+in only one circumstance: when the levy falls on the 
+United States itself, or on an agency or instrumentality 
+so closely connected to the Government that the two can- 
+not realistically be viewed as separate entities, at least 
+insofar as the activity being taxed is concerned.” Id. at 
+735. The Court further noted that Congress could grant 
+broader immunity to federal contractors, by “so expressly 
+providing.” Jd. at 737. Because Congress had not so pro- 
+vided, and because the contractors in question were not so 
+closely connected to the federal government as to have 
+been “incorporated into the government structure,” the 
+Court upheld New Mexico’s taxes. Id. at 737, 738-744. 
+
+Under the rule announced in New Merico, Arizona is 
+entitled to enforce its transaction privilege tax against 
+Blaze. The transaction privilege tax is legally incident 
+upon Blaze, not the BIA. Tower Plaza Invs. Lid. v. 
+DeWitt, 508 P.2d 324, 326 (Ariz. 1973), appeal dismissed, 
+414 U.S. 1118 (1974); Arizona Dep't of Revenue v. Hane 
+Constr. Co., 564 P.2d 932, 934 (Ariz. Ct. App. 1977). There 
+is no suggestion that any provision of federal law ex- 
+pressly provides Blaze with immunity from state taxation 
+with respect to its contracts with the BIA. Blaze’s rela- 
+tionship to the BIA, moreover, is simply that of a typical 
+government contractor, and Blaze therefore cannot be said 
+to have been “incorporated into the government struc- 
+ture” in a way that would confer tax immunity. New 
+Mexico, 455 U.S. at 737. N 
+
+
+12 
+
+
+B. There Is No General Exception To The Rule Of 
+United States v. New Mexico For A Non-Tribal Mem- 
+ber’s Contracts With The Bureau Of Indian Affairs 
+To Construct Roads On Indian Reservations 
+
+
+The Arizona Court of Appeals held that the rule estab- 
+lished by this Court’s decision in New Mexico is inappli- 
+cable to the present case, because the BIA’s contracts 
+with Blaze involved construction on Indian reservations. 
+Pet. App. 5-9. In that context, the court held, the State’s 
+ability to impose its transaction privilege tax turns on ap- 
+plication of “the implied preemption analysis that the 
+United States Supreme Court has repeatedly applied to 
+assertions of state authority over the activities of non-In- 
+dians on Indian reservations.” Pet. App. 5. In our view, 
+however, neither the location of the construction work nor 
+the ultimate purpose of the federal government’s expendi- 
+tures—here, the furnishing of public roads to serve reser- 
+vation communities—renders the general rule of New 
+Mexico inapplicable.” 
+
+
+5 If the BIA entered into a contract with a tribal entity or member 
+to perform work on the tribal reservation, the contractor would not be 
+subject to the state tax. In such a case, the transaction privilege tax 
+would be legally incident “on an Indian tribe or its members inside In- 
+dian country.” Oklahoma Tax Comm'n v. Chickasaw Nation, 515 U.S. 
+450, 458 (1995). “If the legal incidence of [a tax] rests on a tribe or on 
+tribal members for [activity conducted] inside Indian country, the tax 
+cannot be enforced absent clear congressional authorization.” Id. at 
+459. 
+
+Although Blaze is an Indian-owned company incorporated under the 
+laws of the Blackfeet Tribe of Montana, it has properly conceded that, 
+for purposes of state taxation, it should be treated as a non-Indian con- 
+tractor with respect to work that it performs on the reservations of 
+other Tribes. See Washington v. Confederated Tribes of Colville Indian 
+Reservation, 447 U.S. 134, 160-161 (1980) (for purposes of state taxation, 
+Indians residing on reservation of different tribe “stand on the same 
+footing as non-Indians resident on the reservation”); Resp. Br. in Opp. 2 
+
+
+13 
+
+
+1. a. This Court has on many occasions considered the 
+question whether federal law permitted a State to impose a 
+given tax upon non-Indians engaging in direct dealings 
+with a Tribe or tribal members on a reservation. Although 
+the Court’s approach to that question “has varied over the 
+course of the last century,” the Court now treats the 
+question as one of federal preemption. Cotton Petroleum 
+Corp. v. New Mexico, 490 U.S. 163, 173, 176-177 (1989). 
+The Court has emphasized, however, that “questions of 
+pre-emption in [that] area are not resolved by reference to 
+standards of pre-emption that have developed in other ar- 
+eas of law.” Id. at 176. Rather, the preemption analysis in 
+that setting turns on “a particularized examination of the 
+relevant state, federal, and tribal interests.” Ibid. (quot- 
+ing Ramah Navajo School Bd., Inc. v. Bureau of Reve- 
+nue, 458 U.S. 832, 838 (1982)). Specifically, “State juris- 
+diction is preempted by the operation of federal law if it 
+interferes or is incompatible with federal and tribal in- 
+terests reflected in federal law, unless the state interests 
+at stake are sufficient to justify the assertion of state 
+authority.“ New Merico v. Mescalero Apache Tribe, 462 
+U.S. 324, 334 (1983); accord California v. Cabazon Band of 
+Mission Indians, 480 U.S. 202, 216 (1987). Cf. Oklahoma 
+Tax Comm’n v. Chickasaw Nation, 515 U.S. 450, 459 
+(1995) (“But if the legal incidence of the tax rests on non- 
+Indians, no categorical bar prevents enforcement of the 
+tax; if the balance of federal, state, and tribal interests fa- 
+vors the State, and federal law is not to the contrary, the 
+State may impose its levy.”). 
+
+Although the preemption inquiry in cases involving 
+state taxes affecting the relations between the Tribes or 
+
+
+n. I. See also Duro v. Reina, 495 U.S. 676, 686 (1990) (“Exemption from 
+state taxation for residents ofa reservation * * * is determined by 
+tribal membership, not by reference to Indians as a general class.”). 
+
+
+14 
+
+
+individual Indians and non-Indians on a reservation is 
+“sensitive to the particular facts and legislation involved,” 
+Cotton Petroleum, 490 U.S. at 176, it is also informed by 
+certain fundamental principles of general applicability in 
+such cases. 
+
+First, “‘Indian tribes are unique aggregations possess- 
+ing attributes of sovereignty over both their members and 
+their territory.’ Because of their sovereign status, tribes 
+and their reservation lands are insulated in some respects 
+by a ‘historic immunity from state and local control.’” 
+New Mexico v. Mescalero Apache Tribe, 462 U.S. at 382 
+(citation omitted; quoting United States v. Mazurie, 419 
+U.S. 544, 557 (1975), and Mescalero Apache Tribe v. Jones, 
+411 U.S. 145, 152 (1973)). That history of tribal sover- 
+eignty “serves as a necessary ‘backdrop’” to the preemp- 
+tion analysis. Cotton Petroleum, 490 U.S. at 176. 
+
+Second, 
+
+both the tribes and the Federal Government are 
+firmly committed to the goal of promoting tribal self- 
+government, a goal embodied in numerous federal 
+statutes. * * * Congress’ objective of furthering 
+tribal self-government * * * includes Congress’ 
+overriding goal of encouraging “tribal self-sufficiency 
+and economic development.” * * * * Thus, when a 
+tribe undertakes an enterprise under the authority of 
+federal law, an assertion of State authority must be 
+viewed against any interference with the successful 
+accomplishment of the federal purpose. 
+
+
+New Mexico v. Mescalero Apache Tribe, 462 U.S. at 334- 
+336 (footnote omitted; quoting White Mountain Apache 
+Tribe v. Bracker, 448 U.S. 136, 143 (1980)). Cf. Cotton Pe- 
+troleum, 490 U.S. at 176 (In examining the pre-emptive 
+force of the relevant federal legislation, we are cognizant 
+of * * * the broad policies that underlie the legislation.”). 
+
+
+15 
+
+
+Third, State assertions of authority over direct com- 
+mercial relations between Indians and non-Indians must be 
+viewed from the perspective that At hroughout this Na- 
+tion’s history, Congress has authorized ‘sweeping’ and 
+‘comprehensive federal regulation’ over persons who wish 
+to trade with Indians and Indian tribes, * * * [in the] ex- 
+ercise of Congress’ power to ‘regulate Commerce 
+with the Indian Tribes,’ see U.S. Const., Art. I, § 8, el. 3.” 
+Department of Taxation & Fin. v. Milhelm Attea & 
+Bros., 512 U.S. 61, 70 (1994). See also Central Mach. Co. v. 
+Arizona State Tax Comm'n, 448 U.S. 160, 163 (1980) (“In 
+1790, Congress passed a statute regulating the licensing 
+of Indian traders. Act of July 22, 1790, ch. 33, 1 Stat. 137. 
+Ever since that time, the Federal Government has com- 
+prehensively regulated trade with Indians to prevent 
+‘fraud and imposition’ upon them.“). 
+
+
+The Articles of Confederation granted Congress “the sole and ex- 
+clusive right and power of regulating * * * the trade and manage- 
+ment of all affairs with the Indians,” but that grant of authority ex- 
+cepted Indians who were “members of any of the states,” and it was 
+subject to a proviso “that the legislative right of any state, within its 
+own limits, be not infringed or violated.” Worcester v. Georgia, 31 U.S. 
+(6 Pet.) 515, 573 (1831) (M’Lean, J., concurring). The attempt in the 
+proviso to afford the States some authority along with the power of the 
+federal government proved unsatisfactory, because the proviso was 
+invoked by Georgia and North Carolina to treat with the Indians re- 
+garding their land and other objects, and thereby “to annul the power 
+itself.” Id. at 559. Accordingly, with the adoption of the Constitu- 
+tion, Indian relations became the exclusive province of federal law.” 
+County of Oneida v. Oneida Indian Nation, 470 U.S. 226, 234 (1985). 
+
+The relations between Indians and non-Indians are now often gov- 
+erned by federal statutes, Executive Orders, and regulations adopted 
+pursuant to the Indian Commerce Clause or other federal authority 
+(see Williams v. Lee, 358 U.S. 217, 220 n.4 (1959), citing United States 
+v. Kagama, 118 U.S. 375 (1889)), that overlay the sovereignty of the 
+Tribes within their reservations. The preemption analysis under such 
+provisions, however, is informed by the realization that each new 
+
+
+16 
+
+
+Fourth, Ad joubtful expressions are to be resolved in fa- 
+vor of the [Indians,] who are * * * dependent upon [the 
+Nation’s] protection and good faith.” McClanahan v. State 
+Tax Comm 'n, 411 U.S. 164, 174 (1973) (quoting Carpenter 
+v. Shaw, 280 U.S. 363, 367 (1930)). “As a result, ambigui- 
+ties in federal law should be construed generously, and 
+federal pre-emption is not limited to those situations 
+where Congress has explicitly announced an intention to 
+pre-empt state activity.“ Ramah Navajo School Bd., 458 
+U.S. at 838. See also Cotton Petroleum, 490 U.S. at 176- 
+177 (“federal pre-emption is not limited to cases in which 
+Congress has expressly—as compared to impliedly—pre- 
+empted the state activity”; “ambiguities in federal law are, 
+as a rule, resolved in favor of tribal independence”). 
+
+Finally, “(tJhe exercise of state authority which im- 
+poses additional burdens on a tribal enterprise must ordi- 
+narily be justified by functions or services performed by 
+the State in connection with the on-reservation activity.” 
+New Mevxico v. Mescalero Apache Tribe, 462 U.S. at 336. 
+See also Cotton Petroleum, 490 U.S. at 185-186 (in uphold- 
+ing state severance tax on non-Indian oil and gas producer 
+whose operations were located on reservation, Court em- 
+phasizes that State provided services to producer’s opera- 
+tions and regulated operations on reservation; “This is not 
+a case in which the State has had nothing to do with the 
+on-reservation activity, save tax it.”). 
+
+
+federal enactment typically assumes and builds upon the sovereign 
+status and powers of the Indian Tribes, as they have been preserved by 
+the practices and commitments of prior generations, and upon the 
+constitutionally based assumption of control over Indian affairs by the 
+national government, rather than the States. See, %, Mazurie, 419 
+U.S. at 556-557; Williams v. Lee, 358 U.S. at 220. That history is the 
+basis for the “backdrop” of tribal sovereignty and self-governance in 
+the preemption inquiry in cases involving relations between a Tribe or 
+its members on the one hand and nonmembers on the other. 
+
+
+17 
+
+
+2. The Court has applied that preemption analysis to a 
+wide variety of state taxes imposed on non-Indians “doing 
+business with Indian tribes” or tribal members on an In- 
+dian reservation. Cotton Petroleum, 490 U.S. at 176." The 
+Court has also applied that analysis to determine whether 
+federal law preempted other assertions of state authority 
+over interactions between Indians and non-Indians on an 
+Indian reservation. See, e.g., Cabazon Band of Mission 
+Indians, 480 U.S. at 216-220 (State may not regulate gam- 
+ing activities of non-Indians in tribal gaming operation); 
+New Merico v. Mescalero Apache Tribe, 462 U.S. at 328- 
+344 (State could not apply game laws to non-Indians hunt- 
+ing and fishing on tribal lands on reservation). The Court 
+has not, however, previously applied that preemption 
+framework in the circumstances presented by this case, 
+i. e., to a state tax imposed on a non-tribal contractor 
+whose contract is with an agency of the United States it- 
+
+
+See, eg, Milhelm Attea & Bros., 512 U.S. at 73-78 (upholding 
+state regulations designed to enforce taxes on sales of cigarettes to non- 
+Indians on reservation); Cotton Petroleum, 490 U.S. at 176-187 
+(upholding state severance tax on non-Indian oil and gas producer con- 
+ducting operations pursuant to lease with Tribe, where State regulated 
+on-reservation activity and provided services to producer’s operations, 
+and where effect of tax was “indirect” and “insubstantial”); Ramah 
+Navajo School Bd., 458 U.S. at 836-847 (State could not impose gross 
+receipts tax on non-Indian contractor’s construction of tribal school on 
+reservation jirsuant to contract with tribal school board, where federal 
+regulatory scheme was comprehensive, tax would interfere with fed- 
+eral and tribal interests underlying regulatory scheme, and State was 
+unable to justify tax except in terms of general interest in raising 
+revenue); Central Machinery, 448 U.S. at 163-166 (State could not im- 
+pose transaction privilege tax on non-Indian company’s on-reservation 
+sale of farm equipment to tribal enterprise); White Mountain Apache 
+Tribe, 448 U.S. at 141-153 (same, as to motor carrier license and use fuel 
+tax imposed by State upon non-Indian logging company with respect to 
+logging company’s activities on BIA and tribal roads pursuant to con- 
+tracts with Tribe for harvesting of timber from tribal trust lands). 
+
+
+18 
+
+
+self, rather than with a Tribe or tribal entity. For four 
+principal reasons, the question whether federal law pro- 
+hibits such state taxes is properly governed by the ap- 
+proach taken in United States v. New Mexico, rather than 
+by the approach the Court has applied to state taxes “when 
+a tribe undertakes an enterprise under the authority of 
+federal law.” New Meæico v. Mescalero Apache Tribe, 462 
+U.S. at 336 (emphasis added). Accord Blaze Constr. Co. v. 
+Taxation & Revenue Dep’t, 884 P.2d 803, 806 (N. M. 1994) 
+(in case involving Blaze’s contracts with BIA to construct 
+roads on Indian reservations in New Mexico, court holds 
+that “[blecause Blaze * * contracted with a federal 
+government agency rather than with Indian tribes or 
+tribal members, the Indian preemption doctrine is inappli- 
+cable, and Blaze * lis] subject to state taxes, just as 
+any other federal government contractor would be”), cert. 
+denied, 514 U.S. 1016 (1995). 
+
+a. State taxes imposed on non-tribal parties to con- 
+tracts with agencies of the United States do not unduly 
+interfere with tribal sovereignty. When the United States 
+is the contracting party, tribal involvement in fashioning 
+the contract, and in managing the performance of the non- 
+tribal party under the contract, typically is both less di- 
+rect and far less substantial than in cases in which a tribal 
+entity is a party to the contract. 
+
+For example, when the BIA enters into contracts with 
+non-tribal companies to construct or improve Indian res- 
+ervation roads, tribal involvement is primarily consulta- 
+tive. See Transportation Equity Act, § 1115(b)(4), 112 
+Stat. 154-155 (to be codified at 23 U.S.C. 202(d)(2)) (begin- 
+ning in year 2000, funds appropriated for Indian reserva- 
+tion roads shall be allocated among Tribes using formula 
+established by committee including Indian representa- 
+
+
+19 
+
+
+tives); 25 C. F. R. 170.4a (after BIA plans and designs road 
+projects, and recommends projects to Tribe based on 
+needs, Tribe establishes annual priorities for projects, 
+subject to approval by Commissioner of Indian Affairs)’ It 
+is the BIA, not the Tribe, that exercises authority over 
+the contracting and construction process. See generally 
+23 U.S.C. 203, 204. 
+
+By ccatrast, the role played by the Tribe is far greater 
+when the Tribe itself enters into a construction contract 
+or other contract with a non-Indian to furnish goods or 
+
+
+services on the reservation, as the Tribe may do if it as- 
+
+
+sumes responsibility for governmental programs under 
+the Indian Self-Determination and Education Assistance 
+Act, 25 U.S.C. 450 et seg. In that Act, Congress declared 
+its commitment to the “establishment of a meaningful In- 
+dian self-determination policy which will permit an or- 
+derly transition from the Federal domination of programs 
+for, and services to, Indians to effective and meaningful 
+participation by the Indian people in the planning, conduct, 
+and administration of those programs and services.” 25 
+U.S.C. 450a(b). 
+
+As part of that commitment, the Self-Determination Act 
+requires that the Secretary of the Interior, “upon the re- 
+quest of any Indian tribe by tribal resolution, * * * enter 
+into a self-determination contract or contracts with a 
+tribal organization to plan, conduct, and administer pro- 
+grams or portions thereof, including construction pro- 
+
+
+During the years when the construction at issue in the present 
+case was planned and completed, the allocation of appropriated funds 
+among Tribes was determined based on need criteria developed 
+jointly by the Secretary of Transportation and the Secretary of the 
+Interior. 23 U.S.C. 202(e) (1988). See also note 2, supra. 
+
+I the project requires the granting of a right-of-way across In- 
+dian lands, the consent of the Tribe or individual owner is required. 
+See page 4, supra. 
+
+
+20 
+
+
+grams.” 25 U.S.C. 450f(a)(1). In other words, the Self-De- 
+termination Act permits tribal organizations to receive 
+federal funds and use them to assume responsibility for 
+programs that otherwise would have been administered by 
+the Department of the Interior. See, e¢g., 25 C. F. R. 
+900.3(b)(4) (“When an Indian tribe [enters into a self-de- 
+termination] contract[], there is a transfer of responsibil- 
+ity with the associated funding. The tribal contractor is 
+accountable for managing the day-to-day operations of the 
+contracted Federal programs. The contracting tribe 
+thereby accepts the responsibility and accountability to 
+the beneficiaries under the contract with respect to use of 
+the funds and the satisfactory performance of the pro- 
+grams.“).“ 
+
+Although the Secretary of the Interior retains signifi- 
+cant oversight responsibility under the Self-Determina- 
+tion Act, see, eg., 25 C. F. R. 900.131, the Act provides 
+Tribes with a considerable opportunity to exercise their 
+inherent right of self-government and sovereignty over 
+their reservations, and to further self-determination and 
+economic development." State taxes on contracts that a 
+Tribe or tribal organization itself enters into, whether 
+
+
+% When a tribal organization assumes responsibility for a program 
+under a self-determination contract, its role will depend on the nature 
+of the self-determination contract. See generally 25 C.F.R. 900.130. If 
+the tribal organization chooses, its role can be quite extensive, and can 
+include providing or subcontracting for the services of architects and 
+other consultants to design projects, and of construction contractors to 
+complete projects, 25 C. F. R. 900.130(b)(1), (ek) and (c)(3); administer- 
+ing and disbursing funds, 25 C. F. R. 900.130(b\(2) and (e)); directing 
+and monitoring the work of architects, engineers, consultants, contrac- 
+tors, and subcontractors, 25 C. F. R. 900.130(b)(3) and (c)(4); and manag- 
+ing “day-to-day activities of the contract,” 25 C. F. R. 900.130(c)(5). 
+
+See also, e. g., New Mexico v. Mescalero Apache Tribe, 462 U.S. 
+at 336-338 (regulation of non-Indian hunting and fishing on reservation 
+as part of economic development project). 
+
+
+21 
+
+
+pursuant to the Self-Determination Act or otherwise, thus 
+necessarily present a significant risk of interference with 
+tribal sovereignty and self-determination. It is therefore 
+entirely appropriate that such state taxes be scrutinized 
+under the preemption analysis that this Court has applied 
+in that setting, and in comparable settings in which a 
+State attempted to tax the non-Indian party to a contract 
+entered into by a tribal organization “undertak[ing] an en- 
+terprise under the authority of federal law.” New Mexico 
+v. Mescalero Apache Tribe, 462 U.S. at 336. See Ramah 
+Navajo School Bd., 458 U.S. at 834-847 (state tax imposed 
+upon gross receipts of non-Indian contractor selected by 
+tribal school board pursuant to Self-Determination Act).” 
+
+When a State seeks to tax a non-tribal party to a con- 
+tract with an agency of the United States, however, any 
+effect on tribal sovereignty and self-government will be 
+substantially attenuated. In that setting, it is appropriate 
+to apply the bright-line rule adopted by this Court in New 
+Mexico: States may impose taxes on contractors doing 
+business with the United States unless the contractors 
+have been “incorporated into the government structure,” 
+or unless Congress has foreclosed state taxation. 455 U.S. 
+at 737. 
+
+b. When a state tax is imposed on non-tribal parties 
+who contract with agencies of the United States, the ef- 
+
+
+2 See also, e., Cotton Petroleum, 490 U.S. at 166-187 (state sev- 
+erance tax imposed on non-Indian lessee’s production of oil and gas on 
+reservation pursuant to lease with Tribe under Indian Mineral Leasing 
+Act, 25 U.S.C. 396a et seg.) Central Machinery, 448 U.S. at 161-166 
+(state transaction privilege tax imposed on non-Indian company’s on- 
+reservation sale of farm equipment to tribal enterprise); White Moun- 
+tain Apache Tribe, 448 U.S. at 138-153 (state motor carrier license and 
+use fuel taxes imposed upon non-Indian logging company conducting 
+timber operations on reservation pursuant to contract with tribal en- 
+terprise). 
+
+
+fect of the tax on tribal economic interests generally will 
+be uncertain and indirect, and necessarily will be deriva- 
+tive of the effect of the tax on the United States. This 
+case illustrates the point. Although the state taxes in the 
+present case are legally incident upon Blaze, the contracts 
+apparently provided that Blaze’s contract price included 
+all applicable state taxes. J.A. 33. This Court’s cases ap- 
+propriately reflect an awareness of the economic reality 
+that such taxes are passed on to the contracting party. 
+See Ramah Navajo School Bd., 458 U.S. at 844 (although 
+gross receipts tax was legally incident upon non-Indian 
+contractor, “ultimate burden [of tax] falls on the tribal or- 
+ganization”). Cf. White Mountain Apache Tribe, 448 U.S. 
+at 151 & n.15 (although motor carrier license and use fuel 
+taxes were legally incident upon non-Indian contractor, 
+“the economic burden of the taxes will ultimately fall on 
+the Tribe”).” When the contracting party is a tribal en- 
+
+
+* There is no suggestion that the contracts at issue in the present 
+case contained a separate line item reflecting specific state taxes, and 
+it is apparently unclear what assumption Blaze made as to the 
+applicability of the Arizona transaction privilege tax when submitting 
+its bids. It is therefore also unclear whether the costs of the tax were 
+in fact passed along to the BIA by Blaze. Nor is there any indication 
+that Blaze would be obliged to reduce its contract price or otherwise 
+reimburse the BIA if Blaze were to prevail in the present case. 
+Compare Ramah Navajo School Bd., 458 U.S. at 885 (non-Indian 
+contractor “included the state gross receipts tax as a cost of con- 
+struction in [its] bid] paid tax under protest, and agreed that tribal 
+school board would receive any refund); Central Machinery, 448 U.S. at 
+162 (non-Indian seller included transaction privilege tax as separate 
+item when specifying price of farm equipment); White Mountain 
+Apache Tribe, 448 U.S. at 140 (non-Indian contractor paid motor carrier 
+license and use fuel taxes under protest, and Tribe agreed to reimburse 
+contractor for any tax liability). 
+
+Of course, the validity of a state tax on contractors doing business 
+with a Tribe on a reservation does not turn on proof of the precise effect 
+
+
+tity, as in Ramah Navajo School Board and White Moun- 
+tain Apache Tribe, such taxes have a direct effect on ac- 
+tivities conducted and funds disbursed by the tribal entity. 
+
+In contrast, when the contracting party is a federal 
+agency, as in the present case, it is the agency rather than 
+a tribal entity to which the taxes would be passed on. In 
+such circumstances, the ultimate effect of the taxes on 
+tribal interests would depend in the first instance on the 
+federal agency’s response when the costs of the taxes were 
+passed along to it. Because a third party stands between 
+the Tribe and the contractor upon whom the tax is legally 
+incident, any effect of the taxes on tribal interests would 
+be both indirect and less certain.“ That difference 
+
+
+of the state tax with respect to the particular transactions involved in 
+the case. Rather, the inquiry is broader in scope, and focuses on the 
+extent to which the tax “interferes or is incompatible with federal and 
+tribal interests reflected in federal law.” New Merico v. Mescalero 
+Apache Tribe, 462 U.S. at 334. With respect to the latter question, once 
+it becomes clear that a given tax can be imposed upon contractors, the 
+tax presumably will be passed along to the party purchasing services 
+from the contractors. Thus, if this case involved contracts between a 
+Tribe and Blaze, the validity of Arizona’s transaction privilege tax 
+would properly be analyzed on the premise that the costs of the tax 
+would generally be passed on to the Tribe. 
+
+“ In a hearing before the Arizona Department of Revenue, a con- 
+tracting officer for the BIA testified about the effect of Arizona's trans- 
+action privilege tax, as applied to contracts entered into between the 
+BIA and a road-construction contractor. J. A. 24, 88. According to the 
+witness, a five percent state tax would result in “5% fewer roads.” J.A. 
+83. The witness, however, did not explain in any detail the basis for 
+that conclusion. For example, the witness did not indicate whether the 
+BIA would have authority to consider the incidence of state taxation as 
+it allocates highway funds among Tribes. See generally Transporta- 
+tion Equity Act, § 1115(b)(4), 112 Stat. 154-155 (to be codified at 23 
+U.S.C. 202(d)\(2)) (beginning in fiscal year 2000, funds appropriated for 
+Indian reservation roads shall be allocated among Tribes using formula 
+established by committee including Indian representatives; formula 
+
+
+strongly supports the conclusion that the present case 
+should be analyzed under the approach the Court generally 
+applies to state taxes imposed on federal contractors, 
+rather than the approach the Court has applied to state 
+taxes imposed on parties dealing directly with a Tribe or 
+tribal members on a reservation. 
+
+e. When a State seeks to tax a contractor whose con- 
+tract is with a federal agency rather than with a Tribe or 
+individual Indian, the tax necessarily does not implicate 
+the distinctive concerns that historically arise when a 
+State ventures into the “comprehensively regulated” area 
+of direct commercial relations between Indians and non- 
+Indians. Central Machinery, 448 U.S. at 163; see pages 
+15-16 & note 6, supra. Rather, the concern raised by state 
+taxation of federal contractors performing services 
+intended to benefit Indians is the same concern raised by 
+state taxation of federal contractors in any other context: 
+such taxes are passed through to the United States, and 
+therefore increase the federal government’s contracting 
+costs. This Court’s decision in United States v. New 
+Mexico, however, makes clear that the latter concern does 
+not, in itself, provide an adequate basis upon which to 
+
+
+shall be based in part on “cost of road construction in each Bureau of 
+Indian Affairs area”); 23 U.S.C. 202 (authorizing Secretary of Interior 
+and Secretary of Transportation to allocate funds for Indian 
+reservations roads based on need); note 2, supra (discussing criteria for 
+allocation under 23 U.S.C. 202). 
+
+More generally, although the tax at issue in the present case pre- 
+sumably will be passed on by contractors to the BIA, it is much less 
+certain how the BIA would subsequently respond, and how tribal inter- 
+ests would ultimately be affected. In cases such as Ramah Navajo 
+School Board, by contrast, the tax at issue was doubtless passed along 
+to the tribal entity that was the other party to the contract, and it was 
+less certain whether other actions of the federal government might 
+have operated to mitigate the impact of the tax. See 458 U.S. at 842 
+n.6. 
+
+
+invalidate state taxation. 455 US. at 734 (Thus, 
+immunity may not be conferred simply because the tax has 
+an effect on the United States, or even because the 
+
+
+d For the foregoing reasons, when a State seeks to 
+impose a tax on a non-tribal contractor doing business 
+with the United States, the rule established by this 
+Court’s decision in New Mexico properly applies: Whether 
+or not the taxed contract bears some relation to Indian 
+matters, nondiscriminatory state taxes upon federal con- 
+tractors are not preempted by federal law unless the 
+contractor has been “incorporated into the government 
+structure” or Congress has foreclosed state taxation. 455 
+U.S. at 737. That approach also has the virtue of simplie- 
+ity. A different approach, in contrast, would require the 
+courts to establish the point at which the connection of a 
+federal contract to Indian matters is sufficient to displace 
+the rule of New Mezico. A number of possibilities suggest 
+themselves. For example, (1) it might suffice that the con- 
+tract at issue was intended to provide benefits to Indians, 
+in which case New Merico would be inapplicable to a con- 
+tract between the BIA and a private contractor for the 
+construction of an off-reservation BIA office; (2) it might 
+suffice that the contract at issue involved acts to be per- 
+formed on an Indian reservation, in which case New Men- 
+ico would be inapplicable to a contract between the De- 
+partment of Transportation and a non-tribal contractor for 
+the construction of part of an interstate highway that hap- 
+pened to cross a reservation; or (3) it might be necessary 
+for the contract to have both of the foregoing features, as 
+do the contracts in the present case. Uniform application 
+of the rule of New Mexico to all government contracts 
+would pretermit any such inquiry, and therefore would 
+avoid introducing an additional layer of complexity into 
+
+
+cases falling at the intersection between state taxation of 
+federal contractors and state taxation of matters involving 
+Indians. 
+II. THE OTHER GROUNDS FOR PREEMPTION 
+ASSERTED BY RESPONDENT IN THE COURT 
+OF APPEALS ARE WITHOUT MERIT 
+
+
+In the court of appeals, Blaze contended that Arizona’s 
+transaction privilege tax interferes with “three distinct 
+federal policies.” Pet. App. 12. Blaze did not contend, how- 
+ever, that any provision of federal law expressly provides 
+that Arizona may not impose its transaction privilege tax 
+in the circumstances of the present case. Under the rule 
+of New Mexico, Blaze’s contention is necessarily unavail- 
+ing. 455 U.S. at 737. In any event, Blaze’s claims of inter- 
+ference with federal policies are exaggerated. 
+
+A. There is no merit to Blaze’s contention (Pet. App. 
+12-13, 15) that permitting Arizona to impose its transac- 
+tion privilege tax on Blaze’s contracts with the BIA would 
+offend principles reflected in regulations implementing 
+the Self-Determination Act. See 25 C.F.R. 271.4(d) and (e) 
+(1996). According to Blaze, the cited regulations ex- 
+press a federal policy in favor of leaving entirely to Indian 
+tribes, free of sanction, the decision whether to apply for 
+
+
+The cited provisions were in effect at the time of the contracts at 
+issue in the present case, see, ., 25 C.F.R. 271.4 (1986), but were 
+eliminated in 1996 as unnecessary in light of new regulations promu)- 
+gated to implement the Self-Determination Act. See 61 Fed. Reg. 
+49,059, 49,059-49,060 (1996) (new regulations codified at 25 C.F.R. Pt. 
+900 (1997)). In pertinent part, 25 C.F.R. 271.4(d) (1986) provided that 
+“it is the policy of the [BIA] to leave to Indian tribes the initiative in 
+making requests for contracts and to regard self-determination as 
+including the decision of an Indian tribe not to request contracts.” 
+Section 271.4(e) (1986) provided in pertinent part that “{iJt is the policy 
+of the [BIA] not to impose sanctions on Indian tribes with regard to 
+contracting or not contracting.” 
+
+
+27 
+
+
+contracts with the BIA to plan, conduct or administer BIA 
+programs.” Pet. App. 13. Moreover, Blaze argued (ibid.), 
+permitting state taxation of contractors who contract 
+with the BIA, but precluding such taxation as to contracts 
+entered into by a Tribe,” would interfere with that federai 
+policy, by pressuring Tribes to enter into self- 
+determination contracts in order to avoid the effect of 
+state taxation on the availability of federal funds to per- 
+form the services in question. 
+
+Blaze reads far more into the cited regulations than can 
+reasonably be found there. The regulations simply reflect 
+the BIA’s then-current policy of not itself attempting to 
+influence Tribes’ decisions as to whether to enter into 
+self-determination contracts.” Nothing in the regulations 
+
+
+© As the court of appeals indicated (Pet. App. 13), the Arizona De- 
+partment of Revenue conceded that it could not have taxed the con- 
+tracts at issue if they had been entered into by a tribal entity. See 
+Plaintiffs Statement of Facts in Support of Motion for Summary 
+Judgment, Exh. B, at 1 (Arizona Department of Revenue originally 
+sought to collect tax with respect to other contracts Blaze entered into 
+with tribal housing authorities, but subsequently agreeld] that the 
+receipts from these projects are not subject to the Arizona privilege 
+tax”). See also Arizona Transaction Privilege Tax Ruling 95-11 
+(Arizona Tax Ruling), at 3 (Ariz. Dep't of Revenue Apr. 21, 1995), Ariz. 
+St. Tax Rep. (CCH) 1 300-192 (“The gross proceeds derived from con- 
+struction projects performed on Indian reservations by non-affiliated 
+Indian or non-Indian prime contractors are not subject to the imposition 
+of Arizona transaction privilege tax under the following conditions: 1. 
+The activity is performed for the tribe or a tribal entity for which the 
+reservation was established.”). 
+
+7 The new regulations implementing the Self. Determination Act 
+differ in important respects from the earlier regulations cited by the 
+court of appeals. Specifically, the new regulations reflect the view that 
+Tribes should be encouraged, though not required, to enter into self-de- 
+termination contracts. See 25 C.F.R. 900.3(b\(3) (“The rules contained 
+herein are designed to facilitate and encourage Indian tribes to partici- 
+pate in the planning, conduct and administration of those Federal pro- 
+
+
+suggests an affirmative intent to sweep away every prin- 
+ciple of state law that might influence Tribes as they make 
+that choice. 
+
+B. Blaze also contended in the court of appeals (Pet. 
+App. 13-14) that upholding Arizona’s tax would undermine 
+the purposes of the Buy Indian Act, 25 U.S.C. 47. Blaze’s 
+reasoning was as follows: (1) under the Buy Indian Act, the 
+BIA gives preference to Indian-owned contractors when 
+awarding contracts to construct or improve Indian reser- 
+vation roads, Pet. App. 13; (2) the BIA “is not permitted to 
+accord preferences based on bidders’ affiliation with the 
+tribe that controls the reservation where the work would 
+be done,” ibid.; (3) Arizona conceded that its tax could not 
+lawfully have been imposed if the BIA had awarded its con- 
+tracts to contractors who were affiliated with the Tribe on 
+whose reservation the construction was performed, ibid. ;" 
+and (4) if Arizona can impose its tax upon other Indian- 
+owned contractors, but not on tribal contractors, tribal 
+contractors will be able to underbid other Indian-owned 
+contractors, thereby in effect receiving a preference that 
+the BIA is not permitted to confer, id. at 13-14. 
+
+It is not entirely clear that federal law would forbid the 
+BIA from granting a preference based in part on a contrac- 
+tor’s affiliation with the Tribe on whose reservation the 
+
+
+grams serving Indian people.“), 900.3(b)(5) (decision to enter into self 
+determination contract and decision not to do so are “equal expressions 
+of self-determination”), 900.3(b)\(8) (“It is the policy of the Secretary 
+that the contractability of programs under this Act should be encour- 
+aged.”), 900.4(c) (regulations should not be construed as requiring 
+Tribes to enter into self-determination contracts). 
+
+8 See Arizona Tax Ruling, note 16, supra, at 3 (“Arizona’s transac- 
+tion privilege tax does not apply to business activities performed by 
+businesses owned by an Indian tribe, a tribal entity or an individual 
+tribal member if the business activity takes place on the reservation 
+which was established for the benefit of the tribe.”). 
+
+
+C. Finally, Blaze contended (Pet. App. 12) that Ari- 
+zona's tax is “incompatible with the federal and tribal in- 
+
+
+makes clear that a State is not foreclosed from imposing a 
+tax on a federal contractor simply because the tax will 
+likely increase the federal government's contracting 
+costs. 455 U.S. at 734, 735 n.11. 
+
+
+* In the court of appeals, Blaze relied solely upon language in a 
+Senate report. See Resp. C. A. Br. 13 (citing S. Rep. No. 4, 100th Cong. 
+Ist Sess. 83 (1987)). The provision to which that language relates, how- 
+ever, states only that “nothing in this section shall preclude the prefer- 
+ential employment of Indians living on or near a reservation on proj- 
+ects and contracts on Indian reservation roads.” 23 U.S.C. 140(d). The 
+general contract language the BIA uses when requiring its contractors 
+to give an Indian preference provides that the preference is to be given 
+“regardless of tribal affiliation.” 48 C.F.R. 1426.7002(a), 1452.226-70, 
+1452.226-71. When work is to be performed on an Indian reservation, 
+that general contract language may be supplemented “by adding spe- 
+cific Indian preference requirements of the Tribe on whose reservation 
+the work is to be performed.” 48 C. F. R. 1426. 7008 
+
+* When the State imposes a tax on a contractor who contracts di- 
+rectly with a Tribe, the tendency of the tax to deplete tribal resources 
+is a significant though not necessarily dispositive factor in determining 
+whether the state tax is preempted. See Cotton Petroleum, 490 US. at 
+179-180; R mah Navajo School Bd., 458 U.S. at 844 & n.& White Moun- 
+tain Apache Tribe, 448 U.S. at 151 & n.15. 
+
+
+30 

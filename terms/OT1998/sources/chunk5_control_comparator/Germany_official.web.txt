@@ -1,0 +1,109 @@
+Bound Volume 526 (https://www.govinfo.gov/content/pkg/USREPORTS-526/pdf/USREPORTS-526-111.pdf)
+citeturn25view0 [wordlim: 200] Crawled: 2 months ago; Content type: application/pdf; Number of pages: 4; Source: open({"ref_id":"https://www.govinfo.gov/content/pkg/USREPORTS-526/pdf/USREPORTS-526-111.pdf","lineno":null}); Total lines: 106
+L0@P0: 526US1 Unit: $U32 [12-08-00 20:13:42] PAGES PGT: OPIN
+L1@P0: OCTOBER TERM, 1998 111
+L2@P0: Per Curiam
+L3@P0: FEDERAL REPUBLIC OF GERMANY et al.
+L4@P0: v. UNITED STATES et al.
+L5@P0: on application for temporary restraining order or
+L6@P0: preliminary injunction and on motion for leave to
+L7@P0: file a bill of complaint
+L8@P0: No. 127, Orig. (A–736). Decided March 3, 1999
+L9@P0: Plaintiffs moved for leave to file a bill of complaint and for a preliminary
+L10@P0: injunction against the United States and the Governor of Arizona, both
+L11@P0: raised under this Court’s original jurisdiction, seeking, inter alia, enforcement of an ex parte order by the International Court of Justice,
+L12@P0: which directed the United States to prevent Arizona’s execution of a
+L13@P0: German citizen. The action was filed within two hours of an execution
+L14@P0: ordered in January, based upon a sentence imposed in 1984, about which
+L15@P0: Germany learned in 1992.
+L16@P0: Held: Given the tardiness of the pleas and the threshold barriers they
+L17@P0: implicate, this Court declines to exercise its original jurisdiction. It
+L18@P0: appears that the United States has not waived its sovereign immunity,
+L19@P0: and it is doubtful that Art. III, § 2, cl. 2, provides an anchor for an action
+L20@P0: to prevent execution of a German citizen who is not an ambassador or
+L21@P0: consul. Also, a foreign government’s ability here to assert a claim
+L22@P0: against a State is without evident support in the Vienna Convention
+L23@P0: and in probable contravention of Eleventh Amendment principles. See
+L24@P0: Breard v. Greene, 523 U. S. 371, 377.
+L25@P0: Motions denied.
+L26@P0: Per Curiam.
+L27@P0: The motion of the Federal Republic of Germany et al.
+L28@P0: (plaintiffs) for leave to file a bill of complaint and the motion
+L29@P0: for preliminary injunction against the United States of
+L30@P0: America and Jane Dee Hull, Governor of the State of Arizona, both raised under this Court’s original jurisdiction, are
+L31@P0: denied. Plaintiffs’ motion to dispense with printing requirements is granted. Plaintiffs seek, among other relief, enforcement of an order issued this afternoon by the International Court of Justice, on its own motion and with no
+L32@P0-1: opportunity for the United States to respond, directing the526US1 Unit: $U32 [12-08-00 20:13:42] PAGES PGT: OPIN
+L33@P1: 112 FEDERAL REPUBLIC OF GERMANY v. UNITED STATES
+L34@P1: Breyer, J., dissenting
+L35@P1: United States to prevent Arizona’s scheduled execution of
+L36@P1: Walter LaGrand. Plaintiffs assert that LaGrand holds German citizenship. With regard to the action against the
+L37@P1: United States, which relies on the ex parte order of the International Court of Justice, there are imposing threshold
+L38@P1: barriers. First, it appears that the United States has not
+L39@P1: waived its sovereign immunity. Second, it is doubtful that
+L40@P1: Art. III, § 2, cl. 2, provides an anchor for an action to prevent
+L41@P1: execution of a German citizen who is not an ambassador or
+L42@P1: consul. With respect to the action against the State of Arizona, as in Breard v. Greene, 523 U. S. 371, 377 (1998) (per
+L43@P1: curiam), a foreign government’s ability here to assert a
+L44@P1: claim against a State is without evident support in the Vienna Convention and in probable contravention of Eleventh
+L45@P1: Amendment principles. This action was filed within only
+L46@P1: two hours of a scheduled execution that was ordered on January 15, 1999, based upon a sentence imposed by Arizona in
+L47@P1: 1984, about which the Federal Republic of Germany learned
+L48@P1: in 1992. Given the tardiness of the pleas and the jurisdictional barriers they implicate, we decline to exercise our
+L49@P1: original jurisdiction.
+L50@P1: Justice Souter, with whom Justice Ginsburg joins,
+L51@P1: concurring.
+L52@P1: I join in the foregoing order, subject to the qualification
+L53@P1: that I do not rest my decision to deny leave to file the bill of
+L54@P1: complaint on any Eleventh Amendment principle. In exercising my discretion, I have taken into consideration the position of the Solicitor General on behalf of the United States.
+L55@P1: Justice Breyer, with whom Justice Stevens joins,
+L56@P1: dissenting.
+L57@P1: The Federal Republic of Germany et al. (Germany) has
+L58@P1: filed a motion for leave to file a complaint, seeking as relief
+L59@P1: an injunction prohibiting the execution of Walter LaGrand
+L60@P1-2: pending final resolution of Germany’s case against the United526US1 Unit: $U32 [12-08-00 20:13:42] PAGES PGT: OPIN
+L61@P2: Cite as: 526 U. S. 111 (1999) 113
+L62@P2: Breyer, J., dissenting
+L63@P2: States in the International Court of Justice (ICJ)—a case in
+L64@P2: which Germany claims that Arizona’s execution of LaGrand
+L65@P2: violates the Vienna Convention. Germany also seeks a stay
+L66@P2: of that execution “pending the Court’s disposition of the motion for leave to file an original bill of complaint after a normal course of briefing and deliberation on that motion.”
+L67@P2: Motion for Leave to File a Bill of Complaint and for a Temporary Restraining Order or Preliminary Injunction 2 (Motion). The ICJ has issued an order “indicat[ing]” that the
+L68@P2: “United States should take all measures at its disposal to
+L69@P2: ensure that Walter LaGrand is not executed pending the
+L70@P2: final decision in these [ICJ] proceedings.” ¶ 9, id., at 6–7.
+L71@P2: The Solicitor General has filed a letter in which he opposes
+L72@P2: any stay. In his view, the “Vienna Convention does not furnish a basis for this Court to grant a stay of execution,”
+L73@P2: and “an order of the International Court of Justice indicating
+L74@P2: provisional measures is not binding and does not furnish a
+L75@P2: basis for judicial relief.” The Solicitor General adds, however, that he has “not had time to read the materials thoroughly or to digest the contents.” Letter from Solicitor
+L76@P2: General Waxman filed Mar. 3, 1999, with Clerk of this Court.
+L77@P2: Germany’s filings come at what is literally the eleventh
+L78@P2: hour. Nonetheless, Germany explains that it did not file its
+L79@P2: case in the ICJ until it learned that the State of Arizona had
+L80@P2: admitted that it was aware, when LaGrand was arrested,
+L81@P2: that he was a German national. That admission came only
+L82@P2: eight days ago, and the ICJ issued its preliminary ruling
+L83@P2: only today. Regardless, in light of the fact that both the
+L84@P2: ICJ and a sovereign nation have asked that we stay this
+L85@P2: case, or “indicate[d]” that we should do so, Motion 6, I would
+L86@P2: grant the preliminary stay that Germany requests. That
+L87@P2: stay would give us time to consider, after briefing from all
+L88@P2: interested parties, the jurisdictional and international legal
+L89@P2-3: issues involved, including further views of the Solicitor General, after time for study and appropriate consultation.526US1 Unit: $U32 [12-08-00 20:13:42] PAGES PGT: OPIN
+L90@P3: 114 FEDERAL REPUBLIC OF GERMANY v. UNITED STATES
+L91@P3: Breyer, J., dissenting
+L92@P3: The Court has made Germany’s motion for a preliminary
+L93@P3: stay moot by denying its motion to file its complaint and
+L94@P3: “declin[ing] to exercise” its original jurisdiction in light of
+L95@P3: the “tardiness of the pleas and the jurisdictional barriers
+L96@P3: they implicate.” Ante, at 112. It is at least arguable that
+L97@P3: Germany’s reasons for filing so late are valid, and the jurisdictional matters are arguable. Indeed, the Court says that
+L98@P3: it is merely “doubtful that Art. III, § 2, cl. 2, provides an
+L99@P3: anchor” for the suit and that a foreign government’s ability
+L100@P3: to assert a claim against a State is “without evident support
+L101@P3: in the Vienna Convention and in probable contravention of
+L102@P3: Eleventh Amendment principles.” Ante, at 112 (emphasis
+L103@P3: added). The words “doubtful” and “probable,” in my view,
+L104@P3: suggest a need for fuller briefing.
+L105@P3: For these reasons I would grant a preliminary stay.
+

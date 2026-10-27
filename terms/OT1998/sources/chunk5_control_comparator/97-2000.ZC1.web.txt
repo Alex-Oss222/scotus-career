@@ -1,0 +1,39 @@
+AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (https://www.law.cornell.edu/supct/html/97-2000.ZC1.html)
+citeturn16view0 [wordlim: 200] Crawled: yesterday; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/97-2000.ZC1.html","lineno":null}); Total lines: 36
+L0: AMERICAN MFRS. MUT. INS. CO. V. SULLIVAN (97-2000)
+L1: 139 F.3d 158, reversed.
+L2: Syllabus
+L3:  | Opinion
+L4: [ Rehnquist ]  | Concurrence
+L5: [ Ginsburg ]  | Concurrence
+L6: [ Breyer ]  | Other
+L7: [ Opinion of Stevens ]
+L8: --- | --- | --- | --- | ---
+L9: 【0†HTML version】
+L10: 【1†PDF version】  | 【2†HTML version】
+L11: 【3†PDF version】  | 【4†HTML version】
+L12: 【5†PDF version】  | 【6†HTML version】
+L13: 【7†PDF version】  | 【8†HTML version】
+L14: 【9†PDF version】
+L15: 
+L16: * * *
+L17: 
+L18: Breyer, J., concurring
+L19: 
+L20: SUPREME COURT OF THE UNITED STATES
+L21: 
+L22: * * *
+L23: 
+L24: No. 97—2000
+L25: ### AMERICAN MANUFACTURERS MUTUAL INSURANCE COMPANY, et al.,
+L26: PETITIONERS v. DELORES
+L27: SCOTT SULLIVAN et al.
+L28: #### ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+L29: 
+L30: [March 3, 1999]
+L31: 
+L32: Justice Breyer, with whom Justice Souter joins, concurring in part and concurring in the judgment.
+L33: I join Parts I and II of the Court’s opinion and its judgment. I agree with Part III insofar as it rejects respondents’ facial attack on the statute and also points out that respondents “do not contend that they have a property interest in their claims for payment, as distinct from the payments themselves.” Ante, at 20, n. 13.
+L34: I would add, however, that there may be individual circumstances in which the receipt of earlier payments leads an injured person reasonably to expect their continuation, in which case that person may well possess a constitutionally protected “property” interest. See, e.g., Board of Regents of State Colleges v. Roth, 【10†408 U.S.
+L35: 564】, 577 (1972) (“It is a purpose of the ancient institution of property to protect those claims upon which people rely in their daily lives, reliance that must not be arbitrarily undermined”); Perry v. Sindermann, 【11†408 U.S. 593】, 601 (1972); Goldberg v. Kelly, 【12†397 U.S. 254】, 262, and n. 8 (1970); Mathews v. Eldridge, 【13†424 U.S. 319】, 332 (1976).
+

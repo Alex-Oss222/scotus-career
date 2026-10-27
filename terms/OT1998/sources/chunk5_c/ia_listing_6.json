@@ -1,0 +1,1 @@
+{"responseHeader":{"status":0,"QTime":227,"params":{"query":"collection:us-supreme-court AND (text:&quot;98-15443&quot; OR text:&quot;98-15443&quot; OR text__reviews:&quot;98-15443&quot;)","qin":"collection:us-supreme-court AND &quot;98-15443&quot;","fields":"identifier,title","wt":"json","rows":50,"start":0}},"response":{"numFound":0,"start":0,"docs":[]}}

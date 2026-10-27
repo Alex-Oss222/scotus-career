@@ -1,0 +1,442 @@
+{
+  "before_date": "1999-03-16",
+  "before_case": "Jackson v. Benson",
+  "counts": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 6,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 5
+  },
+  "last_counted": {
+    "date": "1999-03-03",
+    "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior",
+    "record": "nffe_and_flra_v_interior_merits_1999-03-03.md",
+    "authors": [
+      "Stone-Zsela"
+    ]
+  },
+  "counted_records": [
+    {
+      "date": "1998-10-05",
+      "case": "United States v. Wright",
+      "record": "united_states_v_wright_merits_1998-10-05.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1998-10-07",
+      "case": "Fraternal Order of Police v. United States",
+      "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1998-10-09",
+      "case": "Hiley v. Barrett",
+      "record": "hiley_v_barrett_merits_1998-10-09.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1998-10-15",
+      "case": "Peoples Rights Organization, Inc. v. City of Columbus",
+      "record": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1998-10-22",
+      "case": "United States v. Franklyn / United States v. Gonzalez",
+      "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-10-29",
+      "case": "United States v. Griffin / United States v. Langley",
+      "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1998-11-03",
+      "case": "Marquez v. Screen Actors Guild, Inc.",
+      "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1998-11-05",
+      "case": "NAACP, Los Angeles Branch v. Jones",
+      "record": "naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-11-10",
+      "case": "Coalition for Economic Equity v. Wilson",
+      "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-11-10",
+      "case": "Pfaff v. Wells Electronics, Inc.",
+      "record": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-11-12",
+      "case": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz",
+      "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1998-11-16",
+      "case": "Wright v. Universal Maritime Service Corp.",
+      "record": "wright_v_universal_maritime_service_corp_merits_1998-11-16.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-11-19",
+      "case": "Dodd v. Hood River County",
+      "record": "dodd_v_hood_river_county_merits_1998-11-19.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1998-11-24",
+      "case": "Wisconsin Right to Life, Inc. v. Paradise",
+      "record": "wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1998-12-01",
+      "case": "AT&T Universal Card Services v. Rembert",
+      "record": "att_universal_card_services_v_rembert_merits_1998-12-01.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1998-12-01",
+      "case": "Minnesota v. Carter and Minnesota v. Johns",
+      "record": "minnesota_v_carter_and_johns_merits_1998-12-01.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1998-12-03",
+      "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati",
+      "record": "equality_foundation_v_cincinnati_merits_1998-12-03.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-12-08",
+      "case": "Knowles v. Iowa",
+      "record": "knowles_v_iowa_merits_1998-12-08.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1998-12-09",
+      "case": "McClellan Federal Credit Union v. Parker",
+      "record": "mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1998-12-14",
+      "case": "Haddle v. Garrison",
+      "record": "haddle_v_garrison_merits_1998-12-14.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1998-12-14",
+      "case": "NYNEX Corp. v. Discon, Inc.",
+      "record": "nynex_corp_v_discon_merits_1998-12-14.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1998-12-16",
+      "case": "City of Cincinnati v. Kruse",
+      "record": "city_of_cincinnati_v_kruse_merits_1998-12-16.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-01-07",
+      "case": "McClellan v. Cablevision of Connecticut, Inc.",
+      "record": "mcclellan_v_cablevision_merits_1999-01-07.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-12",
+      "case": "Buckley v. American Constitutional Law Foundation, Inc.",
+      "record": "buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-01-12",
+      "case": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng",
+      "record": "el_al_israel_airlines_v_tseng_merits_1999-01-12.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-01-13",
+      "case": "City of West Covina v. Perkins",
+      "record": "city_of_west_covina_v_perkins_merits_1999-01-13.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-01-13",
+      "case": "Marcus v. Iowa Public Television",
+      "record": "marcus_v_iowa_public_television_merits_1999-01-13.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-01-14",
+      "case": "State Street Bank & Trust Co. v. Signature Financial Group, Inc.",
+      "record": "state_street_bank_v_signature_financial_group_merits_1999-01-14.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al.",
+      "record": "california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Department of the Army v. Blue Fox, Inc.",
+      "record": "department_of_the_army_v_blue_fox_merits_1999-01-20.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Humana Inc. v. Forsyth",
+      "record": "humana_inc_v_forsyth_merits_1999-01-20.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-01-20",
+      "case": "Lopez v. Monterey County",
+      "record": "lopez_v_monterey_county_merits_1999-01-20.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-01-21",
+      "case": "Citizens for a Constitutional Convention v. Yoshina",
+      "record": "citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "AT&T Corp. v. Iowa Utilities Board",
+      "record": "att_corp_v_iowa_utilities_board_merits_1999-01-25.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "Department of Commerce v. United States House of Representatives",
+      "record": "department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-01-25",
+      "case": "Hughes Aircraft Co. v. Jacobson",
+      "record": "hughes_aircraft_co_v_jacobson_merits_1999-01-25.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-01-28",
+      "case": "Suster v. Marshall",
+      "record": "suster_v_marshall_merits_1999-01-28.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-02-04",
+      "case": "Wright v. Ernst & Young LLP",
+      "record": "wright_v_ernst_and_young_merits_1999-02-04.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-02-11",
+      "case": "Hart v. Gwadosky",
+      "record": "hart_v_gwadosky_threshold_1999-02-11.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-02-17",
+      "case": "Boring v. Buncombe County Board of Education",
+      "record": "boring_v_buncombe_county_board_of_education_merits_1999-02-17.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "date": "1999-02-18",
+      "case": "John Crane, Inc. v. Abate",
+      "record": "john_crane_inc_v_abate_merits_1999-02-18.md",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "date": "1999-02-23",
+      "case": "National Collegiate Athletic Association v. Smith",
+      "record": "national_collegiate_athletic_association_v_smith_merits_1999-02-23.md",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "date": "1999-02-23",
+      "case": "Your Home Visiting Nurse Services, Inc. v. Shalala",
+      "record": "your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-02-24",
+      "case": "Reno v. American-Arab Anti-Discrimination Committee",
+      "record": "reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "date": "1999-02-25",
+      "case": "Minns v. United States",
+      "record": "minns_v_united_states_merits_1999-02-25.md",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Arizona Department of Revenue v. Blaze Construction Co.",
+      "record": "arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Holloway v. United States",
+      "record": "holloway_v_united_states_merits_1999-03-02.md",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "date": "1999-03-02",
+      "case": "Peguero v. United States",
+      "record": "peguero_v_united_states_merits_1999-03-02.md",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "date": "1999-03-03",
+      "case": "American Manufacturers Mutual Insurance Co. v. Sullivan",
+      "record": "american_manufacturers_v_sullivan_merits_1999-03-03.md",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "date": "1999-03-03",
+      "case": "Cedar Rapids Community School District v. Garret F.",
+      "record": "cedar_rapids_v_garret_f_merits_1999-03-03.md",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "date": "1999-03-03",
+      "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior",
+      "record": "nffe_and_flra_v_interior_merits_1999-03-03.md",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    }
+  ],
+  "excluded_records": [
+    "calderon_v_coleman_summary_merits_1998-12-14.md",
+    "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+    "maine_initiative_qualification_admitted_source_1998-12-23.md",
+    "mosley_v_united_states_death_disposition_1998-12-08.md",
+    "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+    "stewart_v_lagrand_certiorari_1999-03-03.md",
+    "united_states_v_louisiana_supplemental_decree_1998-10-13.md"
+  ]
+}

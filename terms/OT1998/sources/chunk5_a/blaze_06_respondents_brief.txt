@@ -1,0 +1,3157 @@
+Supreme Court of the United States 
+
+
+—>- 
+October Term, 1997 
+
+
+STATE OF ARIZONA ex rel. Arizona Department of Revenue, 
+Petitioner, 
+VS. 
+BLAZE CONSTRUCTION COMPANY, INC., 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+Arizona Court of Appeals, Division One 
+
+
+BRIEF FOR RESPONDENT 
+
+
+BRUCE C. SMITH 
+LAT J. CELMINS 
+Counsel of Record 
+MARGRAVE CELMINS, P.C. 
+Attorneys for Respondent 
+7201 East Camelback Road 
+Suite 330 
+Scottsdale, Arizona 85251 
+(602) 994-2000 
+
+
+148047 (800) 274-3321 * (800) 359-6859 
+COUNSEL PRESS 
+
+
+_ ~~ - — ---— a, ee 
+
+
+|BEST AVAILABLE COPY) 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+I. Is Arizona’s taxing scheme invalid as applied to road 
+construction contracts on Indian reservations because the tax 
+impermissibly interferes with an Indian tribe's right to self- 
+government to make decisions regarding its infrastructure on 
+the reservation? 
+
+
+II. Is the imposition of a state transaction privilege (sales) 
+tax on road construction activity for the benefit of Indian tribes 
+and located entirely on Indian reservations pre-empted by federal 
+law when the road construction is financed and regulated by 
+the Bureau of Indian Affairs, the selection of the road 
+construction projects is made by Indian tribes, and the State 
+provides no services or regulatory activities in connection with 
+the activities being taxed? 
+
+
+ii 
+LIST OF PARTIES AND CORPORATIONS 
+
+
+Petitioner is the State of Arizona. The Arizona Department 
+of Revenue was the governmental agency whose name appeared 
+on all pleadings and briefs in the proceedings below. Respondent 
+Blaze Construction Company, Inc. is a Blackfeet corporation 
+and has no parent companies and no nonwholly owned 
+
+
+subsidiaries. 
+
+
+a a 
+
+
+TABLE OF CONTENTS 
+
+
+List of Parties and Corporations .................. 
+
+
+er 
+
+
+Constitutional, Statutory and Regulatory Provisions 
+i GtiteibeseGepnedsbedsceceeseeeseeces 
+
+
+A. Government-to-Government Relations with Indian 
+IRE SG eae aly Shag Noe ares Mae see ae 
+
+
+B. Statutory and Regulatory Guidelines for Road 
+Construction Projects on Reservations ....... 
+
+
+C. Nature of the Construction Projects at Issue 
+
+
+Petes, Base Me pein eA 
+
+
+a oi oo eco ccc eehecs bas 
+
+
+ES Loss bd ck dé Wesdoecucceaeie 
+
+
+12 
+
+
+14 
+
+
+17 
+
+
+ABGUMROEE 20 ccc cccccsccccccccccccccccsscesesees 
+
+
+1. United States v. New Mexico Should Not Apply 
+To Contracts For Indian Reservation Roads. 
+
+
+A. Indian Pre-Emption Analysis Applies to 
+Taxes that Affect Tribal Decisions about 
+Governmental Policy ..............+.. 
+
+
+B. Ramah Navajo Rejected Arizona's Analytical 
+Approach for Cases Involving Tribal 
+DOVETTND oc cc cccctvccccccscncveses 
+
+
+C. Commercial Leasing Cases do not Apply to 
+Cases Involving Tribal Sovereignty. 
+
+
+Il. Arizona’s Tax Should Be Invalidated Because 
+Tribal Road Construction Decisions Are 
+Fundamental Choices About Self-government. 
+
+
+A. Congress Foreclosed Governmental 
+Impediments to Self-Determination Decisions 
+
+
+B. The Tax Affects Tribal Decisons under the 
+Self-Determination Act ................ 
+
+
+Ill. The State Tax Fails Because It Is Pre-empted By 
+PUREE EG. oc ccccsccccsecccsccvcscceess 
+
+
+Page 
+
+
+19 
+
+
+20 
+
+
+25 
+
+
+26 
+
+
+28 
+
+
+29 
+
+
+31 
+
+
+33 
+
+
+Table of Cited Authorities 
+Page 
+Se FR SE oS ce ccccceccsnticcesi 35 
+a. Comprehensive Regulatory Scheme 
+dbdhbwec’ dubhebb¥uecetcececeda 35 
+; 
+b. Effect on Trust Responsibilities ..... 37 
+| DWN is Fikciahesieecates 38 
+Dey EE dv adtihdckaadvetdnctes 39 
+Ill. The Court Of Appeals Decision Does Not Foster 
+EY Nawanedstiedidcdbedeteecsinces 41 
+GY a dale HEU Udne cheese taabsdurdesdsukwaons 44 
+TABLE OF CITED AUTHORITIES 
+Cases Cited: 
+Arizona Dept. of Revenue v. M. Greenberg Constr., 182 
+Ariz. 397, 897 P.2d 699 (Ct. App. 1995) ......... 15 
+Barclays Bank PLC v. Franchise Tax Board, 512 U.S. 
+DAS kndéwedocenees 66 0adatbeteien tars 23 
+Blaze Constr. Co. v. Taxation and Revenue Dept. (No. 
+94-1233), cert. denied, 514 U.S. 1016 (1995) .... 2, 11 
+Boag v. MacDougall, 454 U.S. 364 (1982) ......... 2 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Bryan v. Itasca County, 426 U.S. 373 (1976) ....... 30 
+Cherokee Nation v. Georgia, 5 Pet. (30 U.S.) 1 (1831) 
+owe keudeuesanesdavedss sel dacetoatkeseudenas 22, 37 
+City of Detroit v. Murray Corp., 355 U.S. 489 (1958) 
+conedu cecnsusdebetebeseubckoueneeseeeusneal 20, 41 
+Complete Auto Transit, Inc. v. Brady, 430 U.S. 274 
+GREED  ccucnecvesnnecncncésenkdesessdieesre 23, 42 
+Container Corp. of Am. v. Franchise Tax Board, 463 
+Te. F. SeePrerrrrrrrrrrr 23, 24 
+Cotton Petroleum v. State, 106 N.M. 517, 745 P.2d 1170 
+(Ce. App. 1967) .....cccccccccccccccccesvccess 36, 37 
+Cotton Petroleum Corp. v. New Mexico, 490 U.S. 163 
+COD .kceecadndaneeues ai 18, 21, 24, 34, 36, 37, 39, 40 
+Department of Revenue v. Hane Construction Co., 115 
+Ariz. 243, 564 P.2d 932 (Ariz. Ct. App. 1977) .... 17 
+Department of Taxation and Finance v. Milhelm Attea & 
+Bros., Inc., 512 U.S. 61 (1994) ...... 6.66 c ee eee 24, 34 
+Gila River Indian Community v. Waddell, 91 F.3d 1232 
+CRD BOB 6 iid sw ccttdccccsiteticcedaccete cus 16 
+Graves v. New York, 306 U.S. 466 (1939) .......... 20 
+
+
+| 
+| 
+
+
+vii 
+Table of Cited Authorities 
+
+
+Hoopa Valley Tribe v. Nevins, 881 F.2d 657 (CA9 1989) 
+cert. denied, 494 U.S. 1055 (1990) ............. 39, 40 
+
+
+James v. Dravco Contracting, Inc., 302 U.S. 134 (1937) 
+
+
+Japan Line, Ltd. v. County of Los Angeles, 441 U.S. 434 
+DEE chuuédciaaundeswtnndiaelan mies 22, 23, 24, 42 
+
+
+The Kansas Indians, 5 Wall. (72 U.S.) 737 (1867) ... 40 
+
+
+Kiowa Tribe of Oklahoma v. Manufacturing Technologies, 
+Inc., 118 S. Ce. 1700 (1998) ... 0... cece eee 34 
+
+
+Maricopa & P. R.. Co. v. Territory of Arizona, 156 U.S. 
+
+
+ee EEE v padiiuddodet dads eck ata coknecn 27 
+McClanahan v. Arizona State Tax Comm'n, 411 U.S. 
+I a i oe ha hn ers 23, 27, 30, 40, 41 
+McCulloch v. Maryland, 4 Wheat. (17 U.S.) 316 (1819) 
+Tebsedabdaseebdsnvekbabesraa dechiere cca ks 20, 21 
+Moe v. Salish & ftenai Tribes, 425 U.S. 463 (1976) 
+Vebebiiemiate > camaeeddinbbotinsn ide wickwess., 25 
+Mohave Elec. Cooperative, Inc. v. Byers, 189 Ariz. 292, 
+942 P.2d 451 (Ct. App. 1997) .................. 6 
+
+
+Montana v. Blackfeet Tribe of Indians, 471 U.S. 759 
+SEY deans ixvaevnselanesedsssdudecndcis ces 30 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Montana v. United States, 450 U.S. 565 (1980) ..... 14 
+Montana Catholic Missions v. Missoula County, 200 U.S. 
+
+DOG CRUOED on ccccveccccctuscesccedecovesvess 26 
+Morton v. Mancari, 417 U.S. 535 (1974) ........... 21 
+Morton v. Ruiz, 415 U.S. 199 (1974) .. 2... 6.66666 38 
+New Mexico v. Mescalero Apache Tribe, 462 U.S. 324 
+
+OOD oncctccddectduccd vances uaen 27, 28, 30, 34, 39 
+Oklahoma Tax Comm'n v. Chickasaw Nation, 515 U.S. 
+
+GOD CHGGED oc cvccccsendsusccccvcescces 24, 25, 26, 34 
+Peretz v. United States, 501 U.S. 923 (1991) ........ 6 
+Ramah Navajo School Bd. v. Bureau of Revenue of New 
+
+Mexico, 458 U.S. 832 (1982) ........05 cece eens passim 
+Rice v. Olson, 324 U.S. 786 (1945)... 2... eee nee 28 
+Santa Clara Pueblo v. Martinez, 436 U.S. 49 (1978) 
+
+ads 6ue oe weeds ober eosekes 2hnbksieessial 30 
+Seminole Nation v. United States, 316 U.S. 286 (1942) 
+
+- debidtaudedwceusasweassedked Cicenesuceteate 37 
+Shuttlesworth v. City of Birmingham, 394 U.S. 147 
+
+CODED cavccccvvcédavecdvedsésccpsccsesveseess 2 
+
+
+—_ 
+
+
+ix 
+
+
+Table of Cited Authorities 
+
+Page 
+
+South Dakota v. Yankton Sioux Tribe, 118 S. Ct. 789 
+DE ch dboecdsdin sueveriearieeabedsaeckies 27, 30 
+
+Strate v. A-1 Contractors, 520 U.S. 438, 117 S. Ct. 1404 
+Se AaB kh vdes dednoehos hb bbteaccecibabdsnt. 27 
+Thomas v. Gay, 169 U.S. 264 (1898) .............. 26, 27 
+
+United States v. New Mexico, 455 U.S. 720 (1982), 
+
+oe seveececccccsccees bby 18, 19, WD, 21, 22, 25, 26 
+United States v. Payne, 264 U.S. 446 (1924) ........ 38 
+United States v. Walkingeagle, 974 F.2d 551 (CA 4 1992), 
+
+cert. denied, 507 U.S. 1019 (1993) ............. 16 
+Utah & Northern Ry. Co. v. Fisher, 116 U.S. 28 (1885) 
+
+Da6 0s 6Ob bh nded eed eureasabebed she baciews cake 27 
+Wagoner v. Evans, 170 U.S. 588 (1898) ........... 26 
+Walker v. City of Birmingham, 388 U.S. 307 (1967) .. 2 
+Washington v. Confederated Tribes of the Colville 
+
+Reservation, 447 U.S. 134 (1980) ............ 21, 25, 26 
+Wells v. United States, 318 U.S. 257 (1943) ........ 2 
+White Mountain Apache Tribe v. Bracker, 448 U.S. 136 
+
+DED give husks hbrunses sen edudedkdvetichen chs passim 
+
+
+x 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Williams v. Lee, 358 U.S. 217 (1959) .......0005- 19, 27, 28 
+Worcester v. Georgia, 6 Pet. (31 U.S.) 515 (1832) 
+cecuddkve Wecweureatesetvadeeaqpesnaeeeenawe 42, 43 
+Statutes Cited: 
+Ariz. Rev. Stat. Ann. § 12-348(A)(1) .........+-5-- 44 
+Ariz. Rev. Stat. Ann. § 42-1317(A)(1) ..........---. 23 
+N.M. Stat. Ann. § 7-9-4 (1998) .......--- eee eeees 23 
+Utah Code Ann. § 58-8-104(1) (1996) ............. 23 
+5B UBC. OGG oc cc ccnccacecscvccscncccevcvoers 16 
+PO WBE. BO UOTR o vvcccciccdutsssvceseseseccese 16 
+IO UBL. BRITS on ccccccsvevcccscvcceseseses 16 
+2B UB.C. © THD 0. ccccccccccccccccccncccees 14 
+20 U.S.C. § 7814/c)(2)(B) ... 0... cee cee eee eeeeees 14 
+BD UBS. OTD cco ccccvacsowcccccccsacevacdse re 
+23 U.S.C. § BOBLAMA) ..cccccccccccccccccccreves 4 
+23 U.S.C. § BAAKCMY) .. nc cccccccccscccccccess 2,4 
+
+
+ltl. ay lil Allg 
+
+
+» ee 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Se es EE din c'de sbaccccd saceedawie 4 
+SP ey Kab hdd dndeécbes cvctckesGekaekeus 29 
+Py CL dab tchacddetavctewuddes eddies: 1,4 
+Pe EE. dv dan pods nn cdvebbackineeodees 36 
+SE EE Biv ocuacvivideuracecneansdens 7, 35 
+23 U.S.C. § 204(j) ...... ‘ims edcacncanpadedsices 8, 31 
+EE OE hte aceon us 64 eecduudeeeukaess 15 
+NE I hx ddd dv b0s-cdssdavevedewe nas l 
+RAED Kdcotsv.cnseavddeunecsenva kas 7, 31, 39 
+Sy ED dabvaadcceiecibceacedveedeians 1,9 
+OE (a bn0dsn ckhweckeseakeinckawuds 14, 17 
+sa banc necebce Gtuveedscdeneusows 40 
+TE shabemodseycavddacoonedhbpecens 13 
+IED iced dans pidupeaunssbede sk oda 14 
+
+
+United States Constitution Cited: 
+
+
+Article I, § 8, cl. 3 
+
+
+xi 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Rules Cited: 
+Supreme Court Rule 24.1 2.2.0.6... cece eee ees I 
+Arizona Tax Court Rule 1... 1.1... eee eee eee eee 17 
+Other Authorities Cited: 
+BECHER. Fie OE kndk vc canes ctpccndecsantdsees 36 
+SEE. GR co.cc veand ce recvanccdasepeences 1, 11 
+TE CHE. 6 BESO 6 onde ccvesdasctevvesnvesvess 15 
+73 CPR. 6 UTO0-1FED . .cccccccccsccccessesece’s 1 
+TE SH. BTGOS occ pisvdiewescantwdaceghvessns 8 
+, Fo Be) © PPPrrerrrrer rrr riety 8, 31, 36, 39 
+, Pet MG) | Prrrrrerrrr rere Ree e 1, 11 
+lt BB, | Terr rerrrerrrrerre yy ttc e 14 
+eee te BORED wan bncciccendavesassenecesnien 8 
+, pol BE. Rk. k PP eprrrrrerer iT eye l 
+TE CHE: OTIC AD o.5 ccc ccdsdecctetsecesens ds 6, 32, 38 
+
+
+, tw |) PPT TTPerTiTiTirT ett Tet 1,3 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+25 C.F.R. 
+
+
+xiii 
+
+
+Table of Cited Authorities 
+
+
+Page 
+NEED dde ddeuustuses ddeecieal, 4 
+SPA. s Wa ndocdtdedadecksodites: 30, 35 
+DEE ketincscabacaua vhduneeus 38 
+DE k indinpedecndeedicdseiews 9, 29 
+EE \ou ciicdkhehiabedsssdeeut. 3 
+SPINE: incase weticnieaecoda ecu 9 
+SEN wilde owebinenk chacdewed oeveek l 
+RD Wik coke dalednns cu kecneeelL. 9, 36 
+ee EI 6 ibe can nus ncuehl jek aus 7, 9, 36 
+PU ev bdcidvcabinsnoees 1, 7, 8, 31, 36, 39 
+PEE hauh naksecewdksdac backws Geis 9 
+PE abeckald .8Sads0eeuudednsceews 9 
+DE ba vikiutwde creer ciusbis. ve. 1,9 
+DE is ciks sackWaekoced dommes 9 
+EE Lats bas cccsudvn deus xe 9 
+DUE ik es d vansduhiadscoVoasaseus 9 
+
+
+xiv 
+
+
+Table of Cited Authorities 
+
+
+Page 
+TB CIR BPRS cc cccveccsedcccvventavesses 9 
+BE CHR. BGI ov ccccvasevccssescevenvcests 9 
+TB CIR. BTID ccccccvvccescccccccvscvscses 9 
+Be CH OEE osc vccccveccvivevenievebrers 9 
+23 CEPR. § SERIF... ccccvvescvcsccevecvciess 9 
+BD CH. BGR occcccccccudescvecsccsovess 1, 10, 32 
+2B CHR. BTS kc ciccccvccvccccecsvavessoss 1, 10, 32 
+SE CR, Bee chev dvedsunicckvevecssetas 1, 10, 33 
+TE Cre BT cine cictccivciodvncavencedsas 1, 10, 32 
+BO CI: BGT we cvcccicdchcoscncuncvevesees 10, 32 
+ee ret 1, 10, 33 
+
+
+137 Cong. Rec. E3566 (daily ed. Oct. 28, 1991) ....4, 6, 31 
+
+
+137 Cong. Rec. $7786 (daily ed. June 13, 1991) .... 6 
+137 Cong. Rec. $7787 (daily ed. June 13, 1991) .... 6 
+Rake, Cee. GE Fite ES o0ccdcevubeckbacsetases 15 
+
+
+Arizona Transaction Privilege Tax Ruling 95-11 at 3, 
+Ariz. St. Tax Rep. (CCH) 9 300-192 ............ 10, 38 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Felix S. Cohen, Handbook of Federal Indian Law 224 
+SHEED 0% sanuvnssvecesessdcncdebautwans 30, 37, 38 
+Te Tee. Bae, SGA COU a vide cc dccccvdcivesvads 3, 9, 29 
+Pe es Be Baie Gt voc ccarcvewakensakecet 3 
+ee es ee, Tee OD bos a vindndvedvasecnbece 3 
+SP BOG. Tne, TEAEE COORD on cic vivivcccccsactes 3 
+GOUe TRE TEs GSO ose cde vcsctsccdudeccdt 3 
+Federal Highway Administration, Department of 
+Transportation & Bureau of Indian Affairs, Department 
+of Interior, Indian Reservation Roads Programs 
+Stewardship Plan (July 1996) ........... 4, 5, 7, 8, 9, 39 
+Philip P. Frickey, Marshalling Past and Present: 
+Colonialism, Constitutionalism, and Interpretation in 
+Federal Indian Law, 107 Harv. L. Rev. 381 (1993) 
+TTI TCT TT er Tc rr gee 36, 37 
+H.R. Rep. No. 93-1600, 93rd Cong., 2d Sess. (1974), 
+reprinted in 1974 U.S.C.C.A.N. 7775 ........... > 
+H.R. Rep. 103-653, 103d Cong., 2d Sess. (1994) 
+Cbs aes Ce wend Oy Geuniesiedd bas ewe bene 29 
+Pub. L. 103-413 §§ 202-03, 108 Stat. 4250, 4270-71 
+GOON 6 ecnds sas cacesiccokeeuns 2, 9, 21, 22, 29, 30, 36 
+
+
+xvi 
+
+
+Table of Cited Authorities 
+
+
+Page 
+Pub. L. 105-178 § 1115(b)(4), 112 Stat. 107, 155 (1998) 
+inde oka Séendebarebereedepeceeess 2, 4, 23, 31 
+S. Rep. 103-374, 103d Cong., 2d Sess. (1994) ...... 29 
+Richard Nilsen, Geologic Hub, Cultural Nexus: On Black 
+Mesa, Life on the Rez Comes into Focus, Ariz. Rep. 
+Mh. wns e ca sebeeteceesoedes 12 
+Joseph Story, Commentaries on the Constitution of the 
+United States 380-82 (R. Rotunda & J. Nowak eds. 
+Dat atala cau bubededersessecescucreses 42 
+APPENDIX 
+Appendix A — Relevant Statutes And Regulations 
+DE sista keheeusgeies bese viocecoccvececes la 
+
+
+l 
+
+
+CONSTITUTIONAL, STATUTORY AND 
+REGULATORY PROVISIONS INVOLVED 
+
+
+Article I, § 8, cl. 3 to the United States Constitution provides 
+that “Congress shall have Power . . . To regulate Commerce with 
+foreign nations, and among the several States; and with Indian 
+Tribes.” 
+
+
+The Appendix to the Petition contains selected portions of 
+Federal statutes for highway construction, 23 U.S.C. § 204 (Pet. 
+App. 34), the Bureau of Indian Affairs (BIA) regulations regarding 
+road construction, 25 C.F.R. §§ 170.1-170.9 (Pet. App. 37-39), 
+and the pre-1996 regulations under the Self-Determination and 
+Education Assistance Act, 25 C.F.R. §§ 271.1-271.5. Blaze 
+Construction includes as an Appendix to this brief the significant 
+Statutes and regulations cited herein. Supreme Court Rule 24.1. 
+The statutes include portions of the Self-Determination and 
+Education Assistance Act, 25 U.S.C. §§ 450a, 450h; relevant 
+portions of the “Findings” and “Declaration of Policy” for the 
+Tribal Self-Governance Act of 1994, 108 Stat. 4250, 4270-71 
+(1994), and relevant portions of § 1115 of the Transportation 
+Equity Act for the 21st Century, 112 Stat. 107 (1998). Blaze also 
+includes in its appendix BIA regulations regarding rights-of-way 
+for road construction projects on reservations, 25 C.F.R. §§ 169.3, 
+170.5; and the recent regulations promulgated under the Self- 
+Determination Act, 25 C.F.R. §§ 900.3 (excerpts), 900.115 
+(excerpts), 900.119, 900.124, 900.240, 900.241, 900.244, 
+900.246, and 900.256. 
+
+
+STATEMENT OF THE CASE 
+
+
+Blaze Construction Company, Inc. is a 100% Indian-owned 
+company that is incorporated under the laws of the Blackfeet Tribe. 
+J.A. 12. Between 1986 and 1990, Blaze Construction entered into 
+nineteen contracts with the BIA to construct rural roads located on 
+remote sections of the Navajo, Hopi, Fort Apache, Colorado River, 
+Papago (Tohono O'odham) and San Carlos Apache Indian 
+reservations in Arizona. See generally J.A. 13-21 (description of 
+
+
+2 
+
+
+various projects).' Blaze Construction received $26,038,638.66 
+in revenue for the construction projects. The .4rizona Department 
+of Revenue assessed $1,200,581.54 in transaction privilege taxes 
+on the gross receipts f Blaze Construction for the nineteen 
+construction projects. J.A. 11-12. This case presents the issue of 
+whether state transaction privilege, or simila’ kinds of taxes, are 
+pre-empted by federal law because they conflict with federal 
+regulations and interfere with tribal self-government. 
+
+
+A. Government-to-Government Relations with Indian 
+Tribes 
+
+
+The Federal Government interacts with Indian tribes as 
+sovereign entities. The United States Congress specifically 
+reaffirmed and validated the sovereignty of Indian tribes this year 
+when it passed the Transportation Equity Act for the 21st Century. 
+See Pub. L. 105-178, § 1115(b)(4), 112 Stat. 107, 155 (1998) 
+(amending 23 U.S.C. § 202 by adding subsection (2)(C)(I), which 
+directs Secretary of Interior in promulgating new regulations 
+implementing transportation bill to apply procedures “in a manner 
+that reflects the unique government-to-government relationship 
+between Indian tribes and the United States”); see also Pub. L. 
+103-413 § 202(1), 108 Stat. 4250, 4270-71 (1994) (Congressional 
+finding when enacting Tribal Self-Governance Act of 1994 that 
+“the tribal right of self-governance flows from the inherent 
+sovereignty of Indian tribes and nations”); H.R. Rep. No. 93-1600, 
+93rd Cong., 2d Sess., (1974), reprinted in 1974 U.S.C.C.A.N. 
+
+
+1. Although the record in this case is silent on the issue, Blaze did not 
+include state taxes in its bids for road construction projects that it completed in 
+New Mexico. See Petition for Writ of Certiorari at 7, Blaze Constr. Co. v. Taxation 
+and Revenue Dept. (No. 94-1233), cert. denied, 514 U.S. 1016 (1995). This 
+Court can take judicial notice of the record in other cases that have been before 
+it. See Shuttlesworth v. City of Birmingham, 394 U.S. 147, 157 (1969) (judicial 
+notice of record of conditions of civil rights march in Walker v. City of 
+Birmingham, 388 U.S. 307 (1967)); Wells v. United States, 318 U.S. 257, 260 
+(1943) (judicial notice of prior habeas corpus proceedings) (per curiam), Boag v. 
+MacDougall, 454 U.S. 364, 367 (1982) (Rehnquist, J., dissenting) (taking judicial 
+notice of filings in United States District Court in Arizona). 
+
+
+3 
+
+
+7775, 7780-81 (recognizing tribal sovereignty and power of self- 
+government, and that federal law limits tribal powers, but is not 
+the direct source of tribal power); 25 C.F.R. § 900.3 (statement of 
+C ional policy in Self-D iaation Act seguiations). 
+
+The Executive Branch also interacts with Indian tribes as 
+sovereign governments. On April 29, 1994, President Clinton 
+issued a memorandum entitled “Government-to-Government 
+Relations with Native American Tribal Governments.” 59 Fed. 
+Reg. 22,951 (1994). This memorandum clarifies that federal 
+agencies will “ensure that the Federal Government operates within 
+a government-to-government relationship with federally recognized 
+Native American tribes.” Ibid.; see also Exec. Order No. 13,084, 
+63 Fed. Reg. 27,655 (1998). The head of each executive department 
+and agency must consult with tribes, to the extent permitted by 
+law, prior to taking actions that affect a tribe and must 
+
+
+assess the impact of . . . Government plans, projects, 
+programs, and activities on tribal trust resources and 
+assure that tribal government rights and concerns 
+are considered during the development of such 
+plans, programs, and activities. 
+
+
+59 Fed. Reg. 22,951; see also Exec. Order No. 12,875, 58 
+Fed. Reg. 58,093 (1993) (recognizing the strain the budget 
+places on tribal governments and requiring tribal input on 
+proposed regulations); Exec. Order No. 12,866, 58 Fed. Reg. 
+51,735 (1993) (executive agencies required to obtain views 
+of tribal governments before imposing regulatory requirements 
+on them); Proclamation No. 5049, 48 Fed. Reg. 16,227 (1983) 
+(recognizing government-to-government relationship); 25 
+C.F.R. § 900.3(b)(7) (policy of Secretary to work with tribes 
+on government-to-government basis). These statutes and 
+executive pronouncements are examples of the United States’ 
+continuing trust obligation to Indians. 
+
+
+4 
+
+
+B. Statutory and Regulatory Guidelines for Road 
+Construction Projects on Reservations 
+
+The United States carries out its trust obligations in a variety 
+of ways, including the construction of roads on Indian 
+reservations. 23 U.S.C. § 204; 137 Cong. Rec. E3566 (daily ed. 
+Oct. 28, 1991) (statement of Rep. Miller supporting funding for 
+Indian reservation road under Intermodal Surface Transportation 
+Efficiency Act of 1992 and remarking that the Federal Government 
+has a “fiduciary responsibility” to see that the Indians have a safe 
+and modern infrastructure); 25 C.F.R. § 900.3(a)(2). Until 1983, 
+Congress appropriated money for the construction of Indian roads 
+in the budget for the BIA. In 1983, however, Congress merely 
+shifted the reservation roads program into the Federal Lands 
+Highway Program, which is managed by the Secretary of 
+Transportation. 23 U.S.C. § 204. After money is allocated to the 
+Department of Transportation, it is transferred to the Secretary of 
+the Interior. Jbid. The BIA Area Office monitors and controls funds 
+during each fiscal year. Federal Highway Administration, 
+Department of Transportation & Bureau of Indian Affairs, 
+Department of Interior, Indian Reservation Roads Programs 
+Stewardship Plan 38 (July 1996) (hereinafter “Stewardship Plan’’). 
+The BIA Division of Transportation allocates contract authority 
+and obligations according to the needs formula. /bid. 
+
+
+Each BIA office has a limited budget for road construction 
+projects. At the time that Blaze was building the roads in this case, 
+the BIA had an annual budget of $20 million.’ J.A. 32. This money 
+
+
+2. Starting in fiscal year 2000, money for road construction projects on 
+reservations will be allocated among Indian tribes according to a formula 
+established by the Department of Interior. Pub. L. 105-178, § 1115(b)(4), 112 
+Stat. at 155 (amending 23 U.S.C. § 202 and adding (2)(A)). Under the funding 
+formula, the Secretary must take into consideration the transportation needs of 
+Indian tribes. /bid. (amending 23 U.S.C. § 202 and adding (2)(C)(I)). Congress 
+also created a new rulemaking committee, which is required to consider the 
+challenges faced by Indian tribes, the cost of road construction in each area, the 
+> Min iesietinnen toon onidililliedns tn cuienictnn ih cea 
+access to employment, commerce, health, safety, and educational resources.” 
+Ibid. (amending 23 U.S.C. § 202 and adding (2)(C)(ii)). 
+
+
+5 
+
+
+was not sufficient to meet all of the needs for the design and 
+construction of roads on the reservation. /bid. Eddie Ward said 
+that the roads on the Navajo Reservation, for example, “are in bad 
+shape” and the government does not have enough money to 
+maintain them or upgrade them. J.A. 35. In 1996 the BIA received 
+$26 million per year for road maintenance. Stewardship Plan 5. 
+The BIA estimated, however, that it needed $90 million per year 
+to adequately maintain reservation roads. bid. 
+
+
+Mr. Ward's opinions regarding the condition of roads on the 
+reservations are shared by members of Congress. On June 11, 
+1991, Senator Pete V. Domenici of New Mexico, in proposing an 
+amendment to the Federal Highway Act to increase funding for 
+the Indian road program said: 
+
+
+[T}he 20,000 miles of Indian roads in the United 
+States are without a doubt the worst 20,000 miles 
+under any unit of Government's jurisdiction in the 
+United States. 
+
+
+The surveys would indicate that the Indian people 
+are traveling on non-roads for the most part. Very 
+few of them are up to any kind of standard that we 
+would travel on. Yet the Indian people pay gas tax, 
+they have trucks and cars, and all of the other kinds 
+of things that we have. And we seek for them a better 
+life. 
+
+
+In some cases, we say let us have economic 
+development and some prosperity on Indian land 
+for the Indian people. We all admit without roads 
+there would not be any prosperity for any of us, 
+and how can we expect them to have economic 
+
+
+prosperity and development when they have hardly 
+any roads to travel on? 
+
+
+6 
+
+
+[T]he needs survey that outlines the inadequacy of 
+this system, rating the conditions of these roads, 
+found that only 11 percent of the paved roads and 
+none of the unpaved roads were in good condition. 
+Conversely, 53 percent of the paved roads and a 
+staggering 90 percent of the unpaved roads were 
+rated as poor. 
+
+
+137 Cong. Rec. S7786-87 (daily ed. June 13, 1991); see also 
+137 Cong. Rec. $7787 (daily ed. June 13, 1991) (Statement of 
+Sen. Conrad that roads on reservations are in “abysmal 
+condition”); 137 Cong. Rec. E3566 (daily ed. Oct. 28, 1991) 
+(Statement of Rep. Miller) (“As chairman of the Committee on 
+Interior and Insular Affairs, I have received countless stories of 
+school buses unable to drive to schools because of substandard 
+roads, and of emergency vehicles unable to reach patients in 
+need of medical treatment because of poor road conditions. 
+These are everyday events on Indian reservations. . . .”). 
+
+
+If states are allowed to impose a 5% tax on road construction 
+projects, it means that the Indian tribes will have fewer roads. J.A. 
+33. Based on a $20 million budget, the Indian tribes receive $1 
+million less in road construction if the 5% tax is imposed on 
+contractors. J.A. 33. The State provided no facts below, and 
+
+
+provides none to this Court, that contradict Mr. Ward’s testimony.’ - 
+
+
+3. Arizona contends that Mr. Ward was not competent to provide this 
+testimony. Brief at 5 n.2. Arizona's argument and citation to the record is 
+misplaced. First, at the time of these contracts and when Mr. Ward testified, 
+federal regulations required him to know about and inform Indian tribes about 
+the realities of federal funding. 25 C.F.R. § 271.4(e) (1996). Second, the State 
+waived any arguments to Mr. Ward's testimony by not objecting to it during the 
+hearing itself, in any pleadings filed with the tax court, or in its brief to the 
+Arizona Court of Appeals. J.A. 33 (no objection to testimony during hearing), 
+see Peretz v. United States, 501 U.S. 923, 936 (1991) (waiver of objection to 
+mag: strate presiding over criminal trial); Mohave Elec. Cooperative, Inc. v. Byers, 
+189 Ariz. 292, 301, 942 P.2d 451, 460 (Ct. App. 1997) (failure to object in 
+summary judgment proceedings). Third, Mr. Ward did not testify that he lacked 
+
+(Cont'd) 
+
+
+7 
+
+
+Indian tribes are not mere recipients of federal money. 25 
+U.S.C. § 450a(b); 25 C.F.R. § 900.115(b) (Self-Determination 
+contracts not typical procurement contract). Each tribal government 
+works with the Secretary of the Interior regarding all Indian 
+reservation road proyects proposed for funding. 23 U.S.C. § 204(e); 
+see also 25 U.S.C. § 450a(b) (Indian tribes are afforded “meaningful 
+participation . . . in the planning, conduct and administration of 
+[federal] programs and services”); 25 C.F.R. § 900.119 (before 
+spending any funds for a planning, design, construction or 
+renovation project, the Secretary shall consult with any Indian tribe 
+significantly affected and follow tribal preferences to greatest extent 
+possible), Stewardship Plan 19, 43 (discussing tribal involvement 
+in planning of projects and all of the activities constituting 
+“transportation planning”). 
+
+Projects shall be selected by the Indian tribal 
+government from the transportation improvement 
+program and shall be subject to the approval of the 
+Secretary of the Interior and the Secretary [of 
+
+Transportation). 
+
+
+(Cont'd) 
+
+personal knowledge about the effects of taxation on tnibal roads. Rather. he testified 
+that he did not know whether the Phoenix BIA office provided funding for the 
+Navajo reservation: 
+
+
+a 
+
+
+Do you know if the Navajos have ever gotten some money 
+from the Phoenix area? 
+
+
+2 
+
+
+I heard that we had, but I don’t get involved in that aspect 
+of it either. 
+
+
+So you just aren't as involved in the financing — 
+— no— 
+
+
+— part of it — 
+
+
+,7 9? 
+
+
+— I'm not involved in the financing at all. 
+JA. 54. 
+
+
+23 U.S.C. § 204(j); see also 25 C.F.R. § 170.4a; Stewardship 
+Plan 4; J.A. 35. 
+
+
+The BIA does not have absolute authority to set the priorities 
+for road construction projects. 25 C.F.R. §§ 170.4a; 900.119. The 
+BIA can only “recommend” to an Indian tribe the projects having 
+the greatest need. 25 C.F.R. § 170.4a. Each Indian tribe 
+“establish[es] annual priorities for road construction projects. 
+Subject to the approval of the Commissioner, the annual selection 
+of road projects for construction shall be performed by tribes.” 
+Ibid.; see also Stewardship Plan 4. The BIA works with the 
+Indian tribes to establish long-range transportation plans for 
+Indian reservations. Stewardship Plan 19. To promote 
+coordination and comprehensive planning for road construction 
+projects, the BIA holds public hearings. /bid. § 170.10. One of 
+the main objectives of a public meeting is to “[i}nsure that road 
+locations and designs are consistent with the reservations’ 
+objectives. . . .” Ibid. The BIA ultimately approves the location, 
+type and design of road projects on the Federal-Aid Indian Road 
+System. 25 C.F.R. § 170.4. 
+
+
+Eddie Ward from the BIA office in Albuquerque described 
+how the process works at the local level: 
+
+
+[T]he tribe has a roads committee which sets the 
+priorities. A lot of it has to do with politics, as I 
+mentioned there’s — they set up the priorities on a 
+need out there for those roads. Both — they go to 
+the area’s chapter houses, school bus routes, probably 
+some schools don’t have a paved road going to the 
+schools, so they may make that decision to put it on 
+a priority. And they furnish that priority to the 
+Branch of Roads, and then they make the decision 
+as to the money — whether it’s just going to be a 
+grade and drain project from the outset or a grade 
+and drain and paved, but that decision is made in 
+the Branch of Roads. 
+
+
+J.A. 35. 
+
+
+9 
+
+
+Indian tribes have a first right of refusal to enter into Self- 
+Determination contracts for road construction on reservations. 
+Stewardship Plan 29. If an Indian tribe decides to enter into a 
+construction contract itself, the Department of Interior authorizes 
+(or grants) the money to the tribe. 25 U.S.C. § 450h; J.A. 45-46 
+(testimony of Eddie Ward). A Self-Determination Act contract “is 
+a government-to-government agreement” and is not a typical 
+procurement project. 25 C.F.R. § 900.115(a)-(b). Under the new 
+regulations for Self-Determination Act contracts, the Secretary of 
+the Interior either provides the money as a grant to the tribe, 25 
+C.F.R. § 900.124, or the Secretary approves a schedule for 
+payments based on progress, need and other considerations.‘ [bid. 
+§ 900.132(a). The BIA is forbidden from coercing Indian tribes 
+into making certain decisions regarding road construction projects. 
+It is the express policy of the Federal Government for Self- 
+Determination Act decisions “to permit each Indian tribe to choose 
+the extent of such participation of such tribe in self-governance.” 
+Pub. L. 103-413 § 203(2), 108 Stat. 4250, 4271 (1998) 
+(Declaration of Policy of the Tribal Self-Governance Act of 1994); 
+see also 25 C.F.R. § 900.3(b)(5) (“tribal decisions to contract or 
+not to contract are equal expressions of self-determination”); 
+Proclamation No. 5049, 48 Fed. Reg. 16,227 (1983) (federal 
+government to eliminate “government intervention” that has “stifled 
+local decisionmaking”’). 
+
+
+If an Indian tribe decides to accept a grant and contract for 
+road construction projects itself, the tribe must follow Federal 
+
+
+4. The Self-Determination Act regulations also contain detailed 
+requirements as to what an Indian tribe must do if wants to enter into a construction 
+contract, 25 C.F.R. §§ 900.122, 900.125-.126; methods for resolving disputes, 
+§ 900.123; what must be contained in a tribal budget, § 900.127; funding by the 
+Secretary, § 900.128; methods for determining a fair price, § 900.129; and the 
+role of the Indian tribe and the Secretary during all phases of construction. /bid. 
+§§ 900.130-.131. It should also be pointed out that construction projects are 
+treated differently than other contracts that an Indian tribe can enter into under 
+the Self-Determination Act regulations. See generally ibid. §§ 900.7-900.33 
+(regulations for contract proposals, and review and approval of ceriract 
+proposals). 
+
+
+10 
+
+
+Highway Administration standards for roads. J.A. 46-47. The only 
+difference between the two contracts is “whose name is on the 
+contract.” J.A. 47. In this case, the State of Arizona concedes that 
+if there was a construction contract between an Indian tribe and 
+Blaze Construction, it was not entitled to tax Blaze. Exhibit D to 
+Appellant’s Opening Brief at 14-15 (discussing removal of 
+assessments for contracts between Blaze and tribes); R. 7, Exh. B, 
+at | (decision of Arizona Department of Revenue hearing officer 
+noting that Arizona “agrees that receipts from ... projects 
+[undertaken for tribes or tribal entities”] are not subject to the 
+Arizona Privilege Tax”); Arizona Transaction Privilege Tax Ruling 
+95-11 at 3, Ariz. St. Tax Rep. (CCH) 4 300-192 (gross proceeds 
+from construction projects on Indian reservations not subject 
+imposition of privilege tax if “[t)he activity is performed for the 
+tribe or a tribal entity”). 
+
+
+The Self-Determination Act regulations also make provisions 
+for two scenarios in which the Secretary has to resume responsibility 
+for the contract. An Indian tribe (or tribal organization) may 
+retrocede the contract, i.e., return it to the Secretary, for any reason 
+before the expiration of the term of the contract. 25 C.F.R. 
+§§ 900.240-.241. In some circumstances, it may be necessary for 
+the Secretary to reassume or rescind the construction contract, either 
+in whole or in part. /bid. §§ 900.246-.247. In the event of a 
+retrocession or reassumption of the contract, the Secretary is 
+obligated to provide at least the same level of funding. /bid. 
+§§ 900.244 (retrocession), 900.256 (reassumption).° 
+
+
+In many road construction projects, Indian tribes provide value 
+to a project, even if the BIA enters into contracts with contractors 
+such as Blaze. It may be necessary for an Indian tribe to grant of a 
+
+
+5. While the United States has discussed the new regulations in its brief, 
+Brief for United States as Amicus Curiae in Support of Petitioner 5, 20, it does 
+not take a position on whether a state has the right to tax a construction project if 
+the contract was initially awarded to an Indian tribe, but later retroceded or 
+reassumed to the Secretary. Blaze Construction discusses the implications of the 
+new regulations infra at 32-33. 
+
+
+right-of-way to the BIA for the coustruction of a road. J.A. at 36; 
+see also 25 C.F.R. §§ 169.3, 170.5. When the tribe grants a right- 
+of-way to the BIA, it is providing something of value, even though 
+the BIA does not have to compensate the tribe for the right-of- 
+way. J.A. 36. In some cases, Indian tribes contribute other resources 
+for projects such as water and base materials. See Petition for Writ 
+of Certiorari at 7, Blaze Constr. Co. v. Taxation and Revenue Dept. 
+(No. 94-1233) (New Mexico tribes contributed water and base 
+materials), cert. denied, 514 U.S. 1016 (1995). 
+
+
+C. Nature of the Construction Projects at Issue 
+
+
+The roads built by Blaze Construction serve extremely remote 
+locations located on Indian reservations, and provide access to 
+Indian schools, homes and local government centers. See generally 
+J.A. 13-21. The remote nature of many of these roads, and their 
+importance to the Indians living on the reservations, is shown by a 
+few descriptive examples of the projects. 
+
+
+The “Blue Gap Road Project” involved paving seven miles of 
+road on BIA/Navajo Route 29, as well as pavement of a Chapter 
+House parking lot. J.A. 14-15 (No. 12). The “Blue Gap” project 
+improved access to the Chapter House and to scattered Indian 
+housing in the area. J.A. 15. The road serves as a school bus route 
+for the children. /bid. In the “Blue Gap” area, there are no buildings 
+other than the Chapter House and scattered houses, and it “is located 
+at its closest at least 105 miles by road from the Reservation border. 
+... Ibid. Other road construction projects on the Navajo 
+Reservation were forty-four, sixty, and eighty miles respectively 
+from the reservation border, and they improved access to homes 
+Chapter Houses and schools. J.A. 15-16 (Nos. 13-14, 16). The 
+Red Valley Road project was in such a remote region of the Navajo 
+Reservation that to get to the closest point in Arizona not within 
+the Reservation, one had to travel across unimproved roads°® via 
+
+6. For example, Indian 43 is a highway on the Hopi Reservation. A reporter 
+from the Arizona Republic newspaper described Indian 43 from the Hopi Cultural 
+Center on the Second Mesa to the Navajo Reservation as 20 miles of “rutted, 
+
+(Cont'd) 
+
+
+12 
+
+
+U.S. Route 666 to Gallup, New Mexico and then back to Sanders, 
+Arizona. J.A. 17 (No. 18). 
+
+
+Blaze’s construction projects on the other reservations were 
+similar in character to those on the Navajo Reservation. Blaze 
+provided grading, drainage and pavement for BIA/Hopi Routes 
+17, 503, and 508, and pavement of the parking lot at the Hopi 
+Tribal Government Center. J.A. 18 (No. 20). This project improved 
+access to housing on the Hopi Reservation’ and to the Tribal 
+Government Center. Jbid. Blaze constructed roads on the Parker 
+Colorado River Roads Project to allow farmers to move equipment 
+between irrigated fields. J.A. 18-19 (No. 22). Blaze built roads on 
+the Papago and San Carlos Indian Reservations to provide better 
+access to scattered Indian housing. J.A. 19-20 (Nos. 24-25, 27). 
+Eddie Ward, the BIA official in Albuquerque who administered 
+these contracts, testified that the areas of the reservations in which 
+Blaze built roads are used almost exclusively by Native Americans 
+residing on their respective reservations. J.A. 41. 
+
+
+D. Arizona’s “Involvement” in the Road Projects 
+
+
+Blaze Construction does not own or maintain any offices in 
+Arizona, and holds no contractor’s license from Arizona. J.A. 13 
+(Nos. 3-4). The BIA does not require Blaze to be licensed by 
+Arizona as a prerequisite to being awarded a road construction 
+project. J.A. 13 (No. 4). Blaze Construction only used Federal 
+and State roads to transport equipment from reservation to 
+reservation. J.A. 26-27. Blaze paid fees relating to its use of the 
+Arizona highways during the period of the Assessment, including 
+
+
+(Cont'd) 
+
+corrugated” road. Richard Nilsen, Geologic Hub, Cultural Nexus: On Black 
+Mesa, Life on the Rez Comes into Focus, Ariz. Rep. June 28, 1998, at T6. The 
+road from Second Mesa to Black Mesa is about seventy-five miles long, but 37 
+of those miles are “dusty gravel.” [bid. 
+
+
+7. “The Hopi live in concentrated villages and the out-country is nearly 
+uninhabited.” Richard Nilsen, Geologic Hub, Cultural Nexus: On Black Mesa, 
+Life on the Rez Comes into Focus, Ariz. Rep. June 28, 1998, at T6. 
+
+
+13 
+
+
+the purchase and maintenance of its Arizona motor vehicle license. 
+J.A. 21 (No. 30). Blaze was present in Arizona solely because of 
+its construction activities on Indian reservations. 
+
+
+Arizona admits that it did not provide “direct services to the 
+specific road projects that Blaze performed.” Brief for Petitioner 5. 
+More specifically, the State stipulated that “[o]n the projects under 
+consideration, Blaze was not provided any specific services by 
+Arizona, except Blaze’s use of State roads to transport equipment 
+from reservation to reservation.” J.A. 21 (No. 29).* The State of 
+Arizona takes almost no responsibility for reservation roads after 
+the reservation boundaries. J.A. 38.’ Arizona does maintain some 
+main, arterial roads that pass through Indian reservations, but these 
+roads are not at issue in this case. J.A. 39. Eddie Wood testified 
+that in the twenty-five years he has been visiting the reservations 
+in Arizona, the State has not built any new roads on a reservation. 
+Ibid. In fact, Arizona stipulated that it provided no maintenance 
+
+
+8. This stipulated fact controls this lawsuit, not Arizona's belated arguments 
+that it provided a worker's compensation scheme in the event of an industrial 
+accident. Brief at 7. Arizona does not voluntarily provide a worker's compensation 
+scheme. Rather, Congress imposed the state worker's compensation scheme on 
+contractors. 40 U.S.C. § 290. Indeed, the State worker's compensation scheme 
+is an insurance-based service for which businesses pay premiums. There is no 
+evidence in the record that Blaze did not acquire and pay worker's compensation 
+insurance. 
+
+
+9. The printed copy of the Joint Appendix contains a clerical error. The 
+Joint Appendix omitted a question and incorrectly attributes the testimony of 
+Eddie Ward to “DP,” who is Attorney Daniel Press. The Joint Appendix omitted 
+the following question: 
+
+
+DP: To your knowledge, does — does the State provide any 
+services in the way of roads or houses to the relocatees? 
+
+
+App. D to Appellant's Opening Brief, at 49. Because of the clerical error, the 
+first three words of Mr. Ward's answer are incorrectly quoted in the joint appendix. 
+In the actual transcript, Mr. Ward’s answer starts as follows: “To my knowledge. 
+...." Ibid. However, the remaining portions of Mr. Ward's answer in the joint 
+appendix are accurate. 
+
+
+14 
+
+
+services related to any road at issue. J.A. 21 (No. 33); see also J.A. 
+40; App. B-C to Appellant’s Opening Brief (in response to 
+subpoena for maintenance records, the Arizona Department of 
+Transportation said that the roads were “not State highways and 
+are not maintained or serviced by the State of Arizona”); 25 C.F.R. 
+§ 170.6 (tribal roads maintained by Tribe or Commission of Indian 
+Affairs). Thus, in this case, Arizona played no role in the planning, 
+permitting or development of the road projects. J.A. 21 (No. 31). 
+The State played no role in the formation of the contracts between 
+Blaze and the BIA. /bid. Arizona provided no planning, 
+engineering, construction, inspection or employment services 
+related to the projects. J.A. 21 (No. 32). Tribal employment groups, 
+not the State of Arizona, provided employment services to Blaze."° 
+
+
+E. State Services not Related to Construction Activity 
+
+
+At the tax court level, Arizona relied on educational funds 
+and Blaze’s use of state highways to support its purported right to 
+tax Blaze. The State referenced money it spent on education. R. 7 
+at 4-6 (Statements of Fact 13-21). Under the Johnson-O’ Malley 
+Act, 25 U.S.C. §§ 452-57, the Secretary of the Interior enters into 
+contracts with states to educate Indian children. Federal law allows 
+state schools to apply for grants to provide funding for the education 
+of Indians. 20 U.S.C. § 7814(c)(2)(B). The State’s own study 
+reported that in fiscal year 1993 Arizona received $84,261,241 in 
+federal money for educating Indian children. See Arizona 
+Legislative Council (“ALC”) Study at 33 (Exhibit B to State’s 
+Answering Brief); see generally 20 U.S.C. §§ 7701-10 (describing 
+methodology for calculating Federal Impact Aid, payment of aid 
+to local schools and federal requirement that local school boards 
+
+
+10. If Blaze had a legal dispute with a reservation Indian regarding 
+employment issues, it would have to sue in tribal court. See generally Montana 
+v. United States, 450 U.S. 565-66 (1980) (tribe can exercise civil authority over 
+non-members when a consensual relationship with a tribal member) . If the 
+employee had a dispute with Blaze regarding his or her wages, the local federal 
+court, and not state court, would be the forum for such a dispute. 40 U.S.C. 
+§ 470b(a). 
+
+
+15 
+
+
+adopt policies to ensure adequate consultation of Indian parents 
+and involvement of Indian children in school activities). In it brief, 
+Arizona now refers to the funds it spent in the Chinle District. 
+Brief of Petitioner 5. The State failed to inform the Court about 
+the money that this district received in Federal aid. See, e.g., Arizona 
+Dept. of Revenue v. M. Greenberg Constr., 182 Ariz. 397, 399, 
+897 P.2d 699, 701 (Ct. App. 1995) (in 1987-88, the Chinle District 
+received 48.4% of its money from Federal Impact Aid). 
+
+
+In the courts below, the State also relied on the fact that some 
+state highways pass through Indian Country."' R. 7 at 3-4. A state 
+highway exists on an Indian reservation only because an Indian 
+tribe granted a right of way to the federal government, which in 
+turn, granted a right of way to the State. J.A. 36; 25 U.S.C. 
+§§ 323-38; 25 C.ER. §§ 169.3(a) (grant of right of way to BIA), 
+170.5(b) (BIA grant of right of way to states). Arizona has no 
+inherent, sovereign right to build or maintain state highways on 
+Indian reservations because it was admitted into the Union under 
+the condition that it would not make any claim over property within 
+the boundary of an Indian reservation. Act of June 20, 1910, 36 
+Stat. 557, 569; Ariz. Const., art. XX, ¥ 4 (constitutional provision 
+incorporating Congressional limitation). 
+
+
+If Blaze needed to call the police, it relied on the tribal police. 
+J.A. 26 (testimony of Paul Wood). Arizona does not present 
+evidence to rebut the testimony of Mr. Wood." The record does 
+
+
+11. Inresponse to statements | 3-20, Blaze asked the trial court for additional 
+tuume to develop discovery on the source of the educational funds provided to 
+Anzona, the amount of money the State received from the Federal Government, 
+and the opportunity to depose the affiants. App. A to Appellant's Opening Brief 
+at 1-2. 
+
+
+12. Arizona also mentions in its statement of the case the subject of criminal 
+atatittenemnnan See cetuene fa csteninst inniedietioninthincuenendé 
+be very negligible. First, the people who used the roads are almost exclusively 
+Indians who reside on the reservation. J.A. 41. Second, 85% of the people who 
+worked on the project were Indians. J.A. 22 (No. 34). Consequently, federal or 
+tribal courts are most likely to have jurisdiction over any crimes and lesser 
+
+(Cont'd) 
+
+
+16 
+
+
+not contain any evidence that Arizona provided law enforcement 
+officers for police protection or to assist in traffic control during 
+the construction of the roads. J.A. 21 (No. 33). In fact, Arizona 
+has already admitted that it “provides no. . . regular police services 
+related to any road at issue.” J.A. 21 (No. 33). There are no facts in 
+the record showing the expenditure of state or local funds for law 
+enforcement services on strictly tribal roads such as the ones at 
+issue. Moreover, there is no evidence of an agreement between an 
+Indian tribe and a state or county government to provide law 
+enforcement services on the roads built by Blaze. See Gila River 
+Indian Community v. Waddell, 91 F.3d 1232, 1235 (CA9 1996) 
+(“Police protection at the entertainment events is provided through 
+the non-Indian lessees by state and county police officers specifically 
+invited to work in cooperation with the BIA Law Enforcement 
+Services.”). 
+
+
+Arizona refers to social services and child support enforcement 
+justify its involvement on Indian reservations. Brief for Petitioner 
+6 & nn. 5-6. This is another instance of a factual claim that Arizona 
+did not make to the Arizona Board of Tax Appeals, the Arizona 
+Tax Court, the court of appeals or the Arizona Supreme Court. 
+There is no evidence that State social services or child support 
+enforcement matters involved Blaze or any of its employees on 
+these construction projects. The Federal Government is initially 
+responsible for providing long-term care or social services to 
+Indians. Arizona provides these services because it has a contract 
+
+
+(Cont'd) 
+
+included offenses. See 18 U.S.C. § 661 (federal jurisdiction for theft of personal 
+property over $1,000 and written instruments); 18 U.S.C. § 1152 (tribal jurisdiction 
+over crimes committed by members of the tribe); 18 U.S.C. § 1153(a) (federal 
+jurisdiction for murder, manslaughter, kidnaping, maiming, all types of assault, 
+arson, burglary and robbery); United States v. Walkingeagle, 974 F.2d 551 (CA 
+4 1992) (federal jurisdiction over lesser included offenses), cert. denied, 507 
+U.S. 1019 (1993). Finally, this is not a factual assertion that Arizona raised below. 
+If it had, Blaze would have been able to develop facts showing the extent, if any, 
+of State or county prosecutions of crimes on Indian reservations. Blaze believes 
+that such discovery would have shown negligible State interest in crimes that 
+take place on reservations. 
+
+
+17 
+
+
+with the United States. 25 U.S.C. § 452 (authorizing Secretary of 
+Interior to enter into contracts to provide medical attention and 
+social services to Indians). There are several social services that 
+either Arizona provides to its citizens, but does not provide to 
+Indians. ALC Study at 24 (listing nine Department of Economic 
+Security programs for which there is either no cost to the State or 
+no services provided to Indians). For three other programs, the 
+State only pays for administrative costs for overseeing federal 
+
+
+F. Proceedings Below 
+
+
+The Arizona Board of Tax Appeals ruled that the State “failed 
+to identify any valid interest it has in Appellant's construction 
+activities.” J.A. 9. The Board of Tax Appeals issued a unanimous 
+decision on July 18, 1994 and held that the “competing federal, 
+state and tribal interest at stake in this case compel preemption of 
+Arizona’s transaction privilege tax.” /bid. The State of Arizona 
+appealed the decision of the tax board by filing a complaint with 
+the Tax Court, which is a subdivision of the Maricopa County 
+Superior Court. Rule 1, Rules of Practice for the Arizona Tax 
+Court. The tax court ruled on cross-motions for summary judgment, 
+held that Department of Revenue v. Hane Construction Co., 115 
+Ariz. 243, 564 P.2d 932 (Ariz. Ct. App. 1977), was dispositive 
+and overruled the decision by the Board of Tax Appeals. Pet. 
+App. 29. 
+
+
+Blaze Construction appealed the judgment to the Arizona 
+Court of Appeals. The appellate court overruled Hane 
+Construction because its was not premised on the implied pre- 
+emption analysis mandated by this Court. Pet. App. 11, 25-26. 
+Rather than blind application of United States v. New Mexico, 
+455 U.S. 720 (1982), the Arizona Court of Appeals concluded 
+that pre-emption analysis was appropriate because the decision 
+of this Court in White Mountain Apache Tribe v. Bracker, 448 
+U.S. 136 (1980), is not limited to cases in which there is a contract 
+with an Indian tribe. Pet. App. 7-9. The court of appeals concluded 
+that the various federal statutes governing respondent's 
+construction projects constituted a comprehensive federal 
+
+
+regulatory scheme. Pet. App. 15-16, 24. The court also held that 
+petitioner failed to establish any regulatory interest in the road 
+construction projects and cited the reasoning of this Court in White 
+Mountain and Ramah Navajo School Bd. v. Bureau of Revenue of 
+New Mexico, 458 U.S. 832 (1982). See generally Pet. App.17-18. 
+The appellate court further noted that in Cotton Petroleum Corp. 
+v. New Mexico, 490 U.S. 163 (1989), this Court distinguished its 
+conclusions in White Mountain Apache Tribe and Ramah because 
+the record before it contained evidence of state regulation of oil 
+wells. Pet. App. 17-18. The Arizona Court of Appeals concluded 
+that Arizona's transaction privilege tax was pre-empted by federal 
+law. The Arizona Supreme Court denied Arizona’s petition for 
+review. Pet. App. 27. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+This is a case of first impression for road construction 
+contracts on Indian reservations. The Court must decide if a 
+construction contract between the BIA and a contractor is 
+governed by United States v. New Mexico, 455 U.S. 720 (1982), 
+or if state taxation of the contractor is prohibited because it 
+infringes on the right to tribal self-governance, and is pre-empted 
+by Federal law. Previously, the Court has discussed the tribal 
+decisions, in general, and whether the Indian Self-Determination 
+Act pre-empted the application of state taxes. Those cases did 
+not involve decisions under the Self-Determination Act itself. The 
+Court must now decide whether tribal decisions under Federal 
+self-determination statutes and regulations pre-empt the 
+application of state law. 
+
+
+United States v. New Mexico involved a clash between Federal 
+and state authority. The analytical principles that govern disputes 
+purely between the Federal and state governments do not apply to 
+cases in which a state tax infringes on the way in which Indian 
+tribes decide public policy for their members. When there are 
+disputes between states, the Federal Government and tribal 
+government, the Court should apply the Indian pre-emption 
+analysis, just as it employs a multi-factored pre-emption test to 
+determine if state taxes infringe on foreign commerce. 
+
+
+oe 
+
+
+19 
+
+
+In the instant case, Arizona's tax infringes on the tribal right 
+of self-government and it is pre-empted by federal law. The tax 
+infringes on tribal self-government because tribes always have 
+retained the authority to make their own laws (policy decisions) 
+and be governed by them. White Mountain Apache Tribe v. Bracker, 
+448 U.S. 136, 142 (1980); Williams v. Lee, 358 U.S. 217, 220 
+(1959). Congress and the President have plainly said that the 
+Federal Government does not have the right to interfere or coerce 
+Indian tribes when making decisions on whether to contract or not 
+contract under the Self-Determination Act. Arizona's tax forces 
+tribes into making Self-Determination Act contracts if it wants to 
+maximize the miles of roads built. 
+
+
+The State’s tax is pre-empted because of the comprehensive 
+federal regulations of Self-Determination Act decisions and road 
+construction contracts. Congress and the BIA regulate how money 
+is budgeted to regions and Indian tribes, who sets priorities for 
+road construction projects, the extent of federal and tribal 
+involvement in planning, administration and construction, and 
+whether Indian tribes can take over the projects. Federal law also 
+governs when the BIA can take back the contract. Arizona, on the 
+other hand, has no interest in reservation road construction activities 
+other than taxing them. 
+
+ARGUMENT 
+
+
+I. UNITED STATES v. NEW MEXICO SHOULD NOT 
+APPLY TO CONTRACTS FOR INDIAN RESERVATION 
+ROADS. 
+
+
+The admonishment of Justice Frankfurter bears repeating 
+in the instant case: 
+
+
+The necessity for judicial accommodation between 
+the intersecting interests of the States’ power to tax 
+and the concerns of the Nation in carrying on its 
+government presents problems solutions for which 
+cannot be sought by a formula assuring a bright, 
+straight line of decisions. 
+
+
+20 
+
+
+City of Detroit v. Murray Corp., 355 U.S. 489, 496 (1958) 
+(Frankfurter, J., concurring).'* The State of Arizona and amici 
+in support of petitioner fail to heed this advice, however, and 
+blindly argue that United States v. New Mexico, 455 U.S. 720 
+(1982), applies because Blaze had a contract with the BIA. 
+According to Arizona and its supporters, the rule set forth in 
+United States v. New Mexico provides a “bright-line” rule to 
+apply in all cases, including those involving construction 
+projects on Indian reservations that are entered into after Indian 
+tribes make several policy decisions. 
+
+
+United States v. New Mexico and its predecessors such as James 
+v. Dravco Contracting, Inc., 302 U.S. 134 (1937), are premised 
+on the principle that the Supremacy Clause of the Constitution 
+does not forbid state taxation of a Federal contractor in a typical 
+government construction project. See, e.g., United States v. New 
+Mexico, 455 U.S. at 733; Graves v. New York, 306 U.S. 466, 478 
+(1939). United States v. New Mexico would control here if this 
+were a case in which Blaze just had a contract with the Federal 
+Government for a typical construction project. It did not. Blaze 
+Construction had a contract because six Indian tribes had previously 
+made public policy decisions regarding road construction for the 
+members of their tribes. 
+
+
+A. Indian Pre-Emption Analysis Applies to Taxes that Affect 
+Tribal Decisions about Governmental Policy 
+
+
+The theoretical basis for Justice Frankfurter’s concurring 
+opinions in taxation cases was “our federalism.” United States v. 
+New Mexico, 455 U.S. at 731 (quoting Graves, 306 U.S. at 490 
+(Frankfurter, J., concurring)). Under our federal system, a state 
+must avoid situations in which its taxes interfere with the operation 
+of the federal government. Graves, 306 U.S. at 488 (Frankfurter, 
+J., concurring). Dravco Contracting and United States v. New 
+Mexico cases are judicial resolutions of the clash of federal and 
+state sovereigns. United States v. New Mexico, 455 U.S. at 735 
+(citing McCulloch v. Maryland, 4 Wheat. (17 U.S.) 316, 430 
+
+
+13. In United States v. New Mexico, this Court cited with approval Justice 
+Frankfurter’s concurring opinion. 455 U.S. at 735-36. 
+
+
+21 
+
+
+(1819), regarding clash of two sovereigns). The teaching of United 
+States v. New Mexico is that when there is a two-sovereign dispute, 
+the Supremacy Clause does not prohibit states from imposing taxes 
+on a federal contractor. A contractor is only immune from taxation 
+if Congress grants immunity. 455 U.S. at 737-38. 
+
+
+The important distinction between this case and United States 
+v. New Mexico is the presence of policy decisions by a third 
+sovereign, Indian tribes, which control decisions made by the 
+United States. Indian tribes have a unique status under our 
+Constitution. Morton v. Mancari, 417 U.S. 535, 551 (1974). 
+Indian tribes have inherent sovereignty. Pub. L. 103-413, 108 
+Stat. 4270-71. 
+
+
+This Court has also acknowledged that the presence of Indian 
+tribes involves the interests of three, and not just two, sovereigns: 
+
+
+The principle of Tribal self-government, grounded 
+in notions of inherent sovereignty and in 
+Congressional policies, seeks an accommodation 
+between the interests of the Tribes and the Federal 
+Government on the one hand, and those of the State, 
+on the other. 
+
+
+Washington v. Confederated Tribes of the Colville Reservation, 
+447 U.S. 134, 156 (1980). 
+
+
+This Court has recognized the analytical difference between 
+federal and state conflicts under the Constitution, and those 
+involving relations with Indian tribes. Cotton Petroleum Corp. v. 
+Bureau of Revenue, 490 U.S. 163, 192 (1989). In addressing 
+Cotton Petroleum’s interstate commerce argument, the Court said 
+that the Interstate Commerce Clause “is premised on a structural 
+understanding of the unique role of the States in our constitutional 
+system that is not readily imported to cases involving the Indian 
+Commerce clause.” /bid. Interstate Commerce issues are like United 
+States v. New Mexico cases because both involve a clash of federal 
+and state authority under the Constitution. When a case involves 
+the fundamental interests of Indian tribes to self-governance, 
+
+
+22 
+
+
+however, the dichotomy of federal versus state authority does not 
+transfer because “the central function of the Indian Commerce 
+Clause is to provide Congress with plenary authority to legislate 
+in the field of Indian affairs. . .” bid. 
+
+The analytical approach advanced by Arizona and amici fails 
+because it does not recognize the additional federalism and 
+constitutional concerns that exist when Indian tribes are making 
+political decisions. In fact, Arizona and amici completely avoid 
+the tribal self-government issue or only pay it lip service. The 
+Arizona Court of Appeals recognized the unique status and the 
+political tensions involved when it concluded that United States v. 
+New Mexico was not dispositive of this case. Pet. App. 9 (disagreeing 
+with decision by New Mexico Supreme Court and stating the 
+decision by the New Mexico court “overlooks the focus of Indian 
+law pre-emption analysis on the occurrence of non-Indian activities 
+on an Indian reservation and the consequent potential that state 
+taxation of those activities will conflict with federal or tribal 
+interests”). 
+
+Rather than relying on precedents dealing with federal-state 
+relations, it is more appropriate in this case to apply precedents in 
+which the Court has addressed state taxes that affect the Federal 
+Government's interactions with other sovereigns.'* States have tried 
+to impose non-discriminatory taxes on businesses involved in 
+foreign commerce and this Court has invalidated those taxes 
+because it infringes on the Federal Government's authority to 
+engage in commerce with a sovereign nation. Japan Line, Ltd. v. 
+County of Los Angeles, 441 U.S. 434 (1979). The Court does not 
+just “rubber stamp” the state tax because it is non-discriminatory 
+
+
+14. In Cherokee Nation v. Georgia, 5 Pet. (30 U.S.) 1, 16-19 (1831), the 
+Court recognized that Indian tribes as separate sovereigns, but not “foreign states” 
+in this area, recognizes that Indian tribes are sovereign governments that it 
+interacts with on a government-to-government basis. See, e.g., Pub. L. 103-413 
+§ 202(1), 108 Stat. at 4270-71 (Congressional finding that “the tribal right of 
+self-governance flows from the inherent sovereignty of Indian tribes and nations”). 
+
+
+23 
+
+
+and applies to a private party. The Court carefully examines six 
+factors to determine if the tax offends the Federal Government’s 
+dealings with a third sovereign.'* The factors from the Foreign 
+Commerce Clause cases that are analogous to Indian pre-emption 
+matters are whether the state taxes are fairly related to services 
+provided by the state and whether the state tax impairs federal 
+uniformity in an area in which federal uniformity is essential. 
+Barclays Bank, 512 U.S. 320; Container Corp., 463 U.S. at 186; 
+Japan Line, 441 U.S. at 448. A state tax violates the “one voice” 
+standard if it implicates a foreign policy issue that must be left to 
+the Federal Government or violates a clear federal directive.'* 
+
+
+15. In foreign commerce clause cases the Supreme Court uses the four 
+factors from interstate commerce clause disputes, Complete Auto Transit, Inc. v. 
+Brady, 430 U.S. 274,279 (1977), and employs two additional criteria to determine 
+whether the state tax is constitutional. The six factors are: (1) Does the activity 
+taxed have a “substantial nexus” with the taxing state? (2) Is the tax fairly 
+apportioned? (3) Does the tax discriminate against interstate commerce? (4) Is 
+the tax “fairly related to the services provided by the State?” (5) Does the tax 
+create an “enhanced risk of multiple taxation?” (6) Does the state tax impair 
+federal uniformity in an area in which federal uniformity is essential? Japan 
+Line, Ltd. v. County of Los Angeles, 441 U.S. 434, 446-47 (1979); see also 
+Barclays Bank PLC v. Franchise Tax Board, 512 U.S. 298, 316-17 (1994); 
+Container Corp. of Am. v. Franchise Tax Board, 463 U.S. 159, 185-86 (1983); 
+Complete Auto Transit, 430 U.S. at 279. 
+
+
+16. There also is a need to speak to Indian tribes with “one voice.” 
+particularly under the new transportation bill. The Navajo Reservation is located 
+in Arizona, New Mexico and Utah. McClanahan v. Arizona State Tax Comm'n. 
+411 U.S. 164, 1691973). Under the new transportation bill, the Navajos will 
+receive a set amount of money for its road construction needs. Pub. L. 105-178. 
+§ 1115(b)(4), 112 Stat. a 155. The Navajo leadership will have to determine 
+how to allocate those resources in each state in which it is located. Further 
+complicating this political task is the imposition of different levels of state taxes 
+for construction projects. Ariz. Rev. Stat. Ann. $42-1317(A)(1) (tax rate of 5%); 
+N.M. Stat. Ann. § 7-9-4 (1998) (5% tax rate); Utah Code Ann. § 58-8-104(1) 
+(1996) (gross receipts tax of 0% up to $10 million and .8613% from $10 million 
+to $500 million). If the Navajo tribe enters into the contract itself, these taxes do 
+not apply. If, however, tribe decides to allow the BIA to contract, it has to consider 
+the application of varying rates of taxation, which complicates the sovereign 
+decision on which roads within the reservation should be built, updated or repaired. 
+
+
+24 
+
+
+Container Corp., 463 U.S. at 194. Whether a state tax implicates 
+foreign policy matters is a species of pre-emption analysis. /bid. 
+
+
+The Court applies pre-emption analysis for foreign commerce 
+challenges to state taxes. Japan Line, 441 U.S. at 446-47. Like 
+foreign commerce matters, the Constitution grants to Congress the 
+exclusive authority to regulate affairs with Indian tribes. Art. I, 
+§ 8, cl. 3; Ramah Navajo School Bd. vy. Department of Revenue, 
+458 U.S. 832, 837 (1982) (Federal and tribal interests arise from 
+the broad power of Congress to regulate tribal affairs under the 
+Indian Commerce Clause). When a case involves a clash between 
+the exercise of state authority and Indian sovereignty, the Court 
+does not employ “mechanical or absolute” concepts. Department 
+of Taxation and Finance v. Milhelm Attea & Bros., Inc., 512 U.S. 
+61, 73, (1994). Instead, the Court utilizes the balancing approach 
+set forth in White Mountain Apache Tribe v. Bracker, 448 U.S. 
+136 (1980). Milhelm, Attea, 512 U.S. at 73: see also Oklahoma 
+Tax Comm'n v. Chickasaw Nation, 515 U.S. 450, 459 (1995) (if 
+legal incidence of tax falls on non-Indian for activities on 
+reservation, Court “balance[s] . . . the federal, state and tribal 
+interests” to see if state may impose its tax). There is no analytical 
+reason to reject pre-emption analysis for state taxes that affect the 
+government-to-government relationship between the Federal and 
+tribal governments under the Indian Commerce Clause, and the 
+decision-making process of Indian tribes about reservation 
+infrastructure. See White Mountain Apache Tribe v. Bracker, 448 
+U.S. 136, 149 n.14 (1980) (“For purposes of federal preemption, 
+however, we see no basis, and respondents point to none, for 
+distinguishing between roads maintained by the Tribe and roads 
+maintained by the Bureau of Indian Affairs.”); cf, Cotton Petroleum 
+Corp. v. New Mexico, 490 U.S. 163, 175-76 (1989) (discussing 
+intergovernmental tax immunity, but then adding that the ultimate 
+“question for us to decide is whether Congress has acted to grant 
+the Tribe such immunity, either expressly or by plain implication”). 
+The Court's multi-faceted test is required to resolve federal. tribal 
+and state disputes in cases involving contractors. See Ramah 
+Navajo, supra; Japan Line, supra. 
+
+
+25 
+
+
+B. Ramah Navajo Rejected Arizona’s Analytical Approach 
+for Cases Involving Tribal Sovereignty 
+
+
+The State’s analytical framework has already been considered 
+and rejected by the Court in Ramah Navajo. In that case, New 
+Mexico argued that the “legal incidence” of its gross receipts tax 
+was on the contractor and the case should be controlled by Dravco. 
+See Brief of the State of New Mexico, Ramah Navajo School Bd. 
+v. Department of Revenue at 13-14, 458 U.S. 832 (1982) (No. 80- 
+2162). New Mexico also pointed out that the money for the project 
+came from the Federal Government and would not hinder any 
+value generated by the Tribe. /bid. at 16-17. The Court rejected 
+the simplistic “legal incidence” analysis in Ramah Navajo and 
+should do so in this case as well. 
+
+
+The Court met head on New Mexico’s legal incidence 
+argument. 458 U.S. at 844 n.8. The Court said that the legal 
+incidence test is significant in some situations such as Washington 
+v. Confederated Tribes of Colville Indian Reservation, 447 U.S. 
+134 (1980), and Moe v. Salish & Kootenai Tribes, 425 U.S. 463 
+(1976). Ramah, 458 U.S. at 844 n.8. Even though the legal 
+incidence of New Mexico’s tax was on a New Mexico contractor 
+that did construction work other than that on Indian reservations, 
+the Court refused to allow New Mexico to impose additional 
+burdens on the significant Federal interest in fostering Indian-run 
+educational facilities. [bid. 
+
+
+The position of Arizona, amici States, and amici National 
+Conference of State Legislatures, et al., is, essentially the position 
+of the dissent in Ramah Navajo. The dissent argued that since the 
+legal incidence of the tax was on the contractor, it should be upheld. 
+458 U.S. at 856 (Rehnquist, J., dissenting) (quoting United States 
+v. New Mexico, 455 U.S. at 738). The seven-person majority 
+rejected this argument and applied implied pre-emption analysis. 
+The “legal incidence” test is only crucial for determining the type 
+of analysis to apply to a case. If the legal incidence of tax is on an 
+Indian tribe or a member of the tribe, a state cannot enforce the tax 
+“absent clear congressional authorization.” Chickasaw Nation, 515 
+
+
+26 
+
+
+U.S. at 459. If the legal incidence is on a non-Indian, the Court 
+balances the Federal, tribal and state interests. [bid. 
+
+
+Moreover, Justices Rehnquist and Stevens noted in their dissent 
+in Ramah Navajo that the “legal incidence” analysis from cases 
+such as United States v. New Mexico is different if the issue involves 
+the exercise of tribal sovereignty. Then Justice Rehnquist said, 
+
+
+But apart from those rare instances in which the State 
+attempts to interfere with the residual sovereignty 
+of a tribe to govern its own members, the “tradition 
+of tribal sovereignty” merely provides a ‘backdrop’ 
+against which the pre-emptive effect of federal 
+statutes or treaties must be assessed. 
+
+
+458 U.S. at 838 (Rehnquist, J., dissenting). This case involves 
+one of those “rare instances” alluded to because a state tax has 
+an effect on the sovereign authority that Indian tribes have over 
+road construction projects within their boundaries. 
+
+
+C. Commercial Leasing Cases do not Apply to Cases 
+Involving Tribal Sovereignty. 
+
+
+Arizona and amici National Conference of State Legislatures, 
+et al., claim that this Court applies a categorical approach to taxation 
+issues. Arizona and these amici rely on cases like Washington v. 
+Confederated Tribes of the Colville Reservation, 447 U.S. 134 
+(1980), and Thomas v. Gay, 169 U.S. 264 (1898), and assert that 
+if there is a tax on a non-member of an Indian tribe, state taxation 
+is permissible. Brief for Petitioner 11; Brief of National Conference 
+of State Legislatures et al. 12-13. This line of cases involved taxation 
+of commercial activities of non-members with an Indian tribe and 
+not state taxation that affected governmental, policy decisions of 
+an Indian tribe. Colville, supra (cigarette sales); Montana Catholic 
+Missions v. Missoula County, 200 U.S. 118 (1906) (state taxes on 
+missionaries for cattle grazed on reservation with consent of tribe); 
+Wagoner v. Evans, 170 U.S. 588 (1898) (upholding taxation of 
+cattle grazed on Indian reservation); Thomas v. Gay, 169 U.S. 264 
+(1898) (taxation of cattle of non-Indian lessee not invalid and 
+
+
+27 
+
+
+rejecting argument that taxation of cattle was taxation of the property 
+of the tribe); Maricopa & P. R.. Co. vy. Territory of Arizona, 156 
+U.S. 347 (1895) (upholding territorial taxation of railroad that ran 
+through reservation); Utah & Northern Ry. Co. v. Fisher, 116 U.S. 
+28 (1885) (upholding state taxation of railroad that ran through 
+reservation).'’ Thus, the Thomas line of cases stand for the 
+proposition that states may tax the affairs of non-Indians “in cases 
+in which essential tribal relations were not involved and where the 
+rights of Indians would not be jeopardized. . . .”” McClanahan v. 
+Arizona State Tax Comm'n, 411 U.S. 164, 171 (1973) (quoting 
+Williams v. Lee, 358 U.S. 217, 219-20 (1959), and citing Utah & 
+Northern) (emphasis added); see also Strate v. A-] Contractors, 
+520 U.S. 438, 117 S. Ci. 1404, 1415-16 (1997) (citing Thomas 
+for proposition that tax on non-member lessees too indirect to be 
+tax on tribe, but recognizing that tribes have authority to protect 
+right of self-government and to control their internal relations). 
+Thomas does not apply here because Arizona’s tax unlawfully 
+infringes on the right of Indian tribes to make their own public 
+policy decisions and it interferes with Federal and Tribal interests 
+set forth in Federal law. See, e.g., New Mexico v. Mescalero Apache 
+Tribe, 462 U.S. 324, 334 & n.16 (1983). 
+
+
+17. The railroad cases are also distinguishable because the facts showed 
+that the federal government granted the rights of way to the railroads. Maricopa 
+& PR. Co., 156 U.S. at 351(no evidence of consent and, therefore “to be treated 
+as if obtained without the Indians’ consent”); Utah & N. Ry. Co., 116 U.S. at 32 
+(authority to construct the railroad came from treaty between United States and 
+to construct railroad). The railroad line of cases are examples of cases in which 
+Congress’ plenary authority in this area withdrew certain elements of triba: 
+sovereignty. See South Dakota v. Yankton Sioux Tribe, 118 S. Ct. 789, 798 (1998) 
+(Congress plenary power over Indian tribes includes power to modify or eliminate 
+tribal rights). 
+
+
+28 
+
+
+II. ARIZONA’S TAX SHOULD BE INVALIDATED 
+BECAUSE TRIBAL ROAD CONSTRUCTION 
+DECISIONS ARE FUNDAMENTAL CHOICES ABOUT 
+SELF-GOVERNMENT. 
+
+
+The constitutional grant of authority to Congress 
+
+
+and the “semi-independent position” of Indian tribes 
+[has] given rise to two independent but related 
+barriers to the assertion of state regulatory authority 
+over tribal reservations. 
+
+
+White Mountain Apache Tribe v. Bracker, 448 U.S. 136, 142 
+(1980); see also New Mexico v. Mescalero Apache Tribe, 462 
+U.S. 324, 33333-34 & n.15; Ramah Navajo, 458 U.S. at 837. 
+A state tax is invalid if it unlawfully infringes on the right of an 
+Indian tribe to make its own laws and be governed by them. 
+Mescalero Apache Tribe, 462 U.S. at 334 n.16; Ramah Navajo, 
+458 U.S. at 837; Bracker, 448 U.S. at 142; Williams v. Lee, 
+358 U.S. 217, 220 (1959). The constitutional principle set forth 
+in Bracker, Ramah Navajo, and Williams is that tribal 
+sovereignty includes the right to make public policy decisions 
+that affect the members of an Indian tribe, as well as non- 
+
+
+members who carry out those public policy decisions on Indian 
+
+
+reservations. Arizona and amici States and National Conference 
+of State Legislatures cite no constitutional or statutory authority 
+that allows states to impose new variables into the decision- 
+making process of Indian tribes. They cite no such authority 
+because the founding fathers did not leave to states residual 
+authority to impose legal requirements that affect the political 
+decision by Indian tribes. Williams, 358 U.S. at 220 (question 
+has always been whether state action infringes on the right of 
+Indians to make their own laws and be ruled by them); Rice v. 
+Olson, 324 U.S. 786, 789 (1945) (policy of leaving “Indians 
+free from state jurisdiction and control is deeply rooted in the 
+Nation's history”). 
+
+
+Congress has legislated in this area and said that only Indian 
+tribes have the right to determine the extent of their participation 
+in government contracts. Pub. L. 103-413, § 203(2), 108 Stat. at 
+4271. When Congress passed the Tribal Self-Governance Act of 
+1994, it was reacting to the protests by Indian tribes about 
+restrictions on tribal self-governance. Tribal leaders complained to 
+Congress and it enacted legislation, in part, because the BIA was 
+Substituting its views for those of Congress and Indian tribes. S. 
+Rep. 103-374, 103d Cong., 2d Sess. at 3 (1994). The Senate 
+found that the BIA regulations imposed more restrictive 
+requirements, as well as new obstacles and burdens on tribal self- 
+governance. /bid. The House of Representatives found that the 
+federal bureaucracy had eroded tribal self-government. H.R. Rep. 
+103-653, 103d Cong., 2d Sess. at 6 (1994). Congress responded, 
+passed the Tribal Self-Governance Act of 1994, and prohibited 
+government from placing impediments to tribal decisions on self- 
+government. 
+
+
+It is clear from the legislative history that the policy of Congress 
+is that the decision regarding whether an Indian tribe wants to 
+enter into a contract is a decision that must be made freely by each 
+tribe. Pub. L. 103-413, § 203(2), 108 Stat. at 4271. A tribal decision 
+not to enter into a Self-Determination contract is an expression of 
+the inherent sovereignty of a tribe. Jbid. §§ 202-03, 108 Stat. at 
+4270-71 (findings and declaration of policy). The Federal 
+Government is not allowed to coerce the tribal decision-making 
+process. /bid. § 203(2), 108 Stat. at 4271. The BIA leaves to each 
+tribe the initiative to make requests fur contracts and acknowledges 
+that the decision to not enter into a contract is an “equal expression 
+of self-determination.” 25 C.F.R. § 900.3(b)(5); see also 
+Proclamation No. 5049, 48 Fed. Reg. 16,227 (1983) (Federal 
+Government to eliminate excessive “government intervention” that 
+has “stifled local decisionmaking”). 
+
+
+When this Court interprets Federal statutes, such as the Self- 
+Determination Act, it liberally construes statutes in favor of 
+
+
+30 
+
+
+establishing Indian rights. See generally South Dakota v. Yankton 
+Sioux Tribe, 118 S. Ct. 789,798 (1998); Felix S. Cohen, 
+Handbook of Federal Indian Law 224 (1982 ed) (citing Bryan v. 
+Itasca County, 426 U.S. 373 (1976), and Santa Clara Pueblo v. 
+Martinez, 436 U.S. 49 (1978)). Conversely, the Court narrowly 
+construes statutes when Indian rights are abrogated or limited. 
+Handbook of Federal Indian Law 225. Since the issue is whether 
+Arizona’s tax limits the tribal right of self-determination, the Court 
+should resolve all doubts in favor of free exercise of the right of 
+self-determination. Montana v. Blackfeet Tribe of Indians, 471 
+U.S. 759, 766 (1985); McClanahan, 411 U.S. at 174; 25 CER. 
+§ 900.3(a)(5) (regulations to be liberally construed). 
+
+
+When an Indian tribe exercises its right of self-determination, 
+an assertion of state authority must be viewed against any 
+interference with the assertion of that right. Mescalero Apache Tribe, 
+462 U.S. at 336 (when a tribe undertakes activity authorized by 
+federal law, assertion of state authority must be viewed against 
+interference with successful accomplishment of the federal purpose). 
+Congress has not granted to states the right to affect tribal decisions 
+regarding reservation infrastructure. See Pub. L. 103-413, § 203(2), 
+108 Stat. at 4271. Given Congress’ broad statement to allow Indian 
+tribes to “choose the extent of their participation” and its desire to 
+eliminate governmental obstacles to free choice, the Court should 
+conclude that the Self-Determination Act precludes states from 
+imposing financial factors into the decision-making processes of 
+Indian tribes. See Mescalero Apache Tribe, 462 U.S. at 340 
+(unlikely Congress would have authorized participation in tribal 
+management if it were thought that a state was free to nullify the 
+entire arrangement); Bracker, 448 U.S. at 142-43 (interference with 
+right of self-government is an independent barrier to imposition 
+of state taxes). If the Court allows Arizona's tax in this instance, it 
+will nullify Congress’ express finding that tribes be allowed to 
+“choose the extent of participation” in Self-Determination Act 
+contracts. 
+
+
+31 
+
+
+B. The Tax Affects Tribal Decisons under the Self- 
+Determination Act 
+
+
+Arizona's tax will have a profound effect on the way in which 
+Indian tribes will make Self-Determination decisions. Road 
+construction is a central function of all levels of government. The 
+Federal Government builds and maintains the interstate highway 
+system, as well as roads in national parks and across federal land. 
+States construct and maintain state highways. Counties and 
+
+
+Tribal governments also decide when, where, and how to build 
+roads. See 23 U.S.C. § 204(j); 25 U.S.C. § 450a(b); 25 C_ER. 
+$§ 170.4a, 900.119. These decision are about the basic infrastructure 
+on Indian reservations, which affect tribal economies. Cf 137 Cong. 
+Rec. E3566 (daily ed. Oct. 28, 1991) (statement of Rep. Miller 
+that roads on reservations are part of safe and modern infrastructure). 
+From 1986-90, the time period at issue in this case, Indian tribes 
+prioritized the roads to be built, decided whether the roads should 
+be paved or gravel, and whether to build the roads itself or allow 
+the BIA to let the contract. See, e.g, J.A. 35. Tribal decisions 
+about road construction activities and tribal procurement procedures 
+on reservations are classic examples of an Indian tribe making its 
+own laws and being ruled by them. Bracker, 448 U.S. at 142. 
+
+
+Indian tribes will have to handle their own budgets in fiscal 
+year 2000 under the recently enacted transportation statute. Pub. 
+L. 105-178, § 1115(b)(4), 112 Stat. at 155. Indian tribes will have 
+to prioritize road construction projects. Each tribe has to determine 
+whether it has the resources and expertise to enter into a contract 
+itself, or the resources to hire people who can provide it with the 
+expertise necessary to enter into a Self-Determination Act contract. 
+An Indian tribe also has to factor into the equation whether it truly 
+needs to build, for example, $1 million of roads, or whether it can 
+get by with $950,000 in roads ($1 million minus a 5% transaction 
+privilege tax)."* If a tribe needs all $1 million of roads, it will be 
+forced to enter into Self-Determination contracts. 
+
+18. In its brief, the United States claims that there is no basis for the 
+
+(Cont'd) 
+
+
+32 
+
+
+The record in this case shows how the taxes will affect 
+governmental policy. Arizona has imposed $1.2 million in taxes 
+on Blaze Construction. If these taxes are permitted, they will be 
+included in future bids for road construction projects and will reduce 
+the miles of roads built. J.A. 33. If $1.2 million is removed from 
+the budget, the San Carlos road project could have been completely 
+eliminated. See R.7, Exh. A at 26 (cost of road project 
+$839,688.12). Alternatively, the Navajo Nation could have been 
+forced to make decisions and eliminate certain aspects of the “Blue 
+Gap” project. Ibid. at 26-27 (itemized costs of “Blue Gap” project). 
+In the future, the Navajo government may have to choose whether 
+it will forego paving access to the Chapter House or which cluster 
+of Indian houses will not receive paved roads. Consequently, 
+Arizona's tax is the equivalent of the “power to destroy” 
+governmental decisions by this Nation's Indian tribes. 
+
+Indian tribes must also factor into their thought process the 
+possibility that a contract will be returned to the BIA under 
+reassumption or retrocission, and the effect that this will have on 
+its members. 25 C.F.R. §§ 900.240-.241, 900.246-.247. If the 
+project started out as a $1 million project to be performed by the 
+
+
+(Cont'd) 
+
+testimony of its BIA official, Eddie Ward. Brief of the United States 23 n.14. 
+The Government's statement to this Court is disingenuous. Federal law required 
+BIA officials to know about fiscal constraints and pass that information along to 
+Indian tribes. 25 C.F.R. § 271.4(e) (1996) (duty to inform tribes of realities of 
+funding). Mr. Ward's testimony simply proves that he knows how to carry out 
+his statutory obligations and execute the Government's trust responsibilities. Mr. 
+Ward's statements provide the Court with a description of how the Federal 
+Government works with Indian tribes at the Jocal level. His remarks are proof 
+that local BIA officials know about budgetary constraints, that if a tax has to be 
+paid by a contractor it ts included in a bid submitted to the Government, and that 
+tax has the net effect of reducing the miles of roads built. Moreover, if there was 
+no basis for Mr. Ward's testimony, it was the obligation of counsel for the State 
+of Anzona to either object or show on cross-examination that the testimony 
+lacked foundation, which it did not. See supra n.3. On appeal, this Court cannot 
+presume that there 1s no foundation for the testimony of Mr. Ward. If anyone 
+knows how the Indian road construction statutes and regulations really work, it 
+1s a government official who interprets them every day. 
+
+
+a 
+
+
+33 
+
+
+Indian tribe, then no state transaction privilege taxes apply. 
+Theoretically under its argument, Arizona could assert that it has 
+the right to impose the tax in the event of retrocession or 
+reassumption. Allowing states to tax a contract after retrocession 
+or reassumption is unfair to expectations of Indian tribes and to 
+contractors. Even though the BIA must provide the same level of 
+funding for the project if it is returned, ibid. §§ 900.244, 900.256, 
+there is no provision in the statutes or regulations for any additional 
+funding to take into consideration the imposition of new state taxes 
+after the formation of a construction contract. If the state taxed a 
+contractor and the BIA allowed the new taxes to be factored into 
+the cost of the project, it would mean that the Indian tribe would 
+receive fewer miles of roads than it bargained for when it entered 
+into the Self-Determination Act contract. If the tax were imposed 
+on a contractor and the BIA did not allow the new tax to be 
+included in the cost of the project, it would be unfair to the 
+contractor because it entered into a contract in a situation in which 
+there was no legal obligation to pay state transaction privilege (or 
+8TOSs receipts) taxes, but then would face new taxes if the contract 
+is reassumed by or retroceded to the BIA." 
+
+
+The Court should conclude that Arizona’s tax is pre-empted 
+because it infringes on the free exercise of the sovereign right of 
+Indian tribes to self-governance. 
+
+
+Ill. THE STATE TAX FAILS BECAUSE IT IS PRE- 
+EMPTED BY FEDERAL LAW. 
+
+
+This Court does not presume that the tax is either valid or 
+invalid even though the legal incidence of Arizona’s tax is on Blaze 
+
+
+34 
+
+
+Construction. See Chickasaw Nation, 515 U.S. at 459. Arizona 
+wrongly asserts that a state tax of a non-member of an Indian tribe 
+is not pre-empted by Federal law unless there is a clear statement 
+of Congressional intent. Brief for Petitioner 17. There is no 
+requirement that Congress specifically prohibit taxation of Blaze. 
+Cotton Petroleum, 490 U.S. at 176-77 (“federal pre-emption is 
+not limited to cases in which Congress has expressly — as compared 
+to impliedly — pre-empted the state activity”); Mescalero Apache 
+Tribe, 462 U.S. at 334 (cases reject proposition that pre-emption 
+requires express statement); Bracker, 448 U.S. at 144. 
+Congressional intent is not the sole factor for determining whether 
+state law is pre-empted. Mescalero Apache Tribe, 462 U.S. at 334. 
+This Court must balance the tribal, federal and state interests to see 
+if there is sufficient justification for the assertion of Arizona's tax 
+to determine if it is pre-empted by federal law. Mescalero Apache 
+Tribe, 462 U.S. at 334; Ramah Navajo, 458 U.S. at 838; Bracker, 
+448 U.S. at 143-44, 
+
+
+Cotton Petroleum did not change this Court's implied pre- 
+emption analysis. The Court merely distinguished Bracker and 
+Ramah Navajo because both Arizona and New Mexico did not 
+assert any legitimate regulatory interest to justify its tax and there 
+was comprehensive federal regulation of reservation roads, timber 
+harvesting, and construction of schools. 490 U.S. at 184-85. The 
+Court contrasted the previous two cases from the record before it, 
+which showed that New Mexico regulated oil wells. /bid. at 185- 
+86. Consequently, the Court concluded that “[t}his is not a case in 
+which the State has had nothing to do with the on-reservation 
+activity, save tax it.” /bid. at 186. The continued vitality of Bracker 
+and Ramah Navajo, is shown by the Court's consistent citation to 
+these cases on the standard for implied pre-emption analysis. See 
+Milhelm Attea, 512 U.S. at 73 (Justice Stevens writing for 
+unanimous Court and citing Bracker as main authority and his 
+decision in Cotton Petroleum as “see also” authority), Kiowa Tribe 
+of Oklahoma v. Manufacturing Technologies, Inc., 118 S. Ct. 1700, 
+1708 (1998) (Stevens, J., dissenting) (no citation to Cotton 
+Petroleum, but calling for application of Bracker implied pre- 
+emption analysis for sovereign immunity question). 
+
+
+35 
+
+
+Arizona also argues that federal regulations are not controlling 
+for pre-emption analysis unless the purpose of the regulation 
+“plainly supports policies to protect Indian tribes and their members 
+from impermissible state taxes.” Brief for Petitioner 27. This is not 
+the law. This Court examined federal regulations in Bracker to 
+determine whether Arizona's taxing scheme was pre-empted by 
+federal law. 448 U.S. at 146-48, 151 n.15 (decision based on 
+“pre-emptive effect of the comprehensive federal regulatory 
+scheme’’). Federal regulations must be liberally interpreted in favor 
+of Indians. See, e.g., 25 C.ER. § 900.3(a)(5) (interpretation of 
+Self-Determination Act regulations). 
+
+
+The balance of the Federal, tribal and state interests necessitates 
+the conclusion that Arizona's tax is pre-empted by Federal law. 
+
+
+1. Federal Interests 
+
+
+Blaze Construction respectfully disagrees with the Solicitor 
+General that there is no impingement on the interests of the Federal 
+Government. Brief of United States 26. Arizona's tax interferes in 
+a complex area of law and will affect how local BIA official, such 
+as Eddie Ward, carry out the United States’ trust responsibilities 
+toward Indian tribes. 
+
+
+a. Comprehensive Regulatory Scheme 
+
+
+Congress has regulated by statute all aspects of road 
+construction for Indian reservations. One significant aspect of 
+Congressional regulation is to differentiate the manner in which 
+reservation roads are prioritized and built. Rather than budgeting 
+for a department or a specific project, starting in fiscal year 2000, 
+Congress will appropriate money for each tribe based on a formula 
+established by regulations. Pub. L. 105-178, § 1115(b)(4), 112 
+Stat. at 155. Once that money is allocated, each tribe becomes 
+involved in the process of determining which roads will be built, 
+who will be responsible for the contracts and, perhaps, for awarding 
+the contracts. Each tribe works with the Secretary of the Interior 
+for road projects. 23 U.S.C. § 204(e). The Federal Government 
+cannot spend one dime for planning or construction without first 
+
+
+36 
+
+
+consulting with the affected tribe. 25 C.F.R. § 900.119. Indian 
+tribes select the projects, which are then approved by the Secretary. 
+23 U.S.C. § 204(a); 25 C.F.R. § 170.4a. In contrast, the BIA only 
+has the authority to “recommend” construction projects. 25 C.F.R. 
+§ 170.4a. These detailed road regulations are part of a 
+comprehensive, Federal regulatory scheme. Bracker, 448 U.S. at 
+147-48 (discussing comprehensive nature of road regulations 
+previously published at 25 C.F.R. Part 162). 
+
+
+Congress has also extensively regulated when and how Indian 
+tribes are to enter into contracts under the Self-Determination Act. 
+A tribal decision on whether to enter into a Self-Determination 
+Act contract is not part of the typical procurement process. 25 
+C.F.R. § 900.115(a)-(b). It is a government-to-government 
+agreement. Pub. L. 103-413, §§ 202-03, 108 Stat. at 4270-71. 
+Nowhere in the statutes or regulations does the Federal Government 
+allow states to participate in or influence an Indian tribe’s decision 
+on whether to enter into a Self-Determination Act contract, or at 
+what stage of the construction process a tribe can intervene (e.g., 
+planning or construction).” 
+
+
+20. Blaze Construction acknowledges that in Cotton Petroleum the Court 
+said that the Self-Determination Act did not “express a congressional intent to 
+pre-empt state taxation of oil and gas lessees.” 490 U.S. at 183 n.14. Cotton 
+Petroleum did not, however, involve self-determination for a truly governmental 
+function — infrastructure on reservations that serves members of that Indian 
+tribe. The record in Cotton Petroleum dealt with oil and gas leases with an Indian 
+tribe, which are commercial activities. 
+
+
+Moreover, the Cotton Petroleum case was not a proper case for determining 
+whether the Self-Determination Act had a pre-emptive effect on state taxes. The 
+corporation primarily argued that the case was governed by the traditional 
+commerce clause analysis. There was tension between the contractor and the 
+Jicarilla Apache Tribe. Philip P. Frickey, Marshalling Past and Present: 
+Colonialism, Constitutionalism, and Interpretation in Federal Indian Law, 107 
+Harv. L. Rev. 381, 435 n.233 (1993). The corporation asserted that the burden 
+of state and tribal taxation impermissibly burdened interstate commerce and that 
+the case was not a preemption case. See Cotton Petroleum v. State, luv N.M. 
+
+
+517, 519, 745 P.2d 1170, 1172 (Ct. App. 1987). Given Cotton Petroleum’s belief 
+(Cont'd) 
+
+
+37 
+
+
+The federal scheme for road construction and exercise of choice 
+under the Self-Determination Act is so pervasive that Arizona’s 
+tax is precluded. Bracker, 448 U.S. at 148. 
+
+
+b. Effect on Trust Responsibilities 
+
+
+The United States’ trust responsibilities originate from Chief 
+Justice Marshall's decision in Cherokee Nation v. Georgia, 5 Pet. 
+(30 U.S.) 1, 16 (1831), in which he described the relationship 
+between the United States and Indian tribes as one that “resembles 
+that of a ward to his guardian.” The Government's trust 
+responsibilities apply to the conduct of executive agencies. 
+Handbook of Federal Indian Law 225. Executive agencies must 
+adhere to “moral obligations of the highest responsibility and trust” 
+and “the most exacting fiduciary standards,” Seminole Nation v. 
+United States, 316 U.S. 286, 297 (1942), and are bound to 
+
+
+(Cont'd) 
+
+
+that the case was an interstate commerce issue, it had no incentive to develop a 
+record on the interests of the Jicarilla Apache Tribe and did not develop a record 
+on this point. The business claimed that the impact on the tribe was minimal and 
+not a primary consideration. /bid. at 519, 745 P.2d at 1172. Consequently, the 
+district court found, and the corporation did not seriously disagree, that the taxes 
+“did not impact the Tribe.” /bid. at 521, 745 P.2d at 1174. The Jicarilla Apache 
+Tribe filed an amicus brief with the New Mexico Court of Appeals and argued 
+that the case was governed by the pre-emption analysis employed by this Court 
+in Bracker and Ramah. Ibid. at 519, 745 P.2d at 1172. New Mexico also 
+considered the case governed by the preemption decisions of the Court. When 
+the New Mexico Court of Appeals wrote its decision, it focused most of its 
+attention and analysis on the corporation's commerce clause argument that the 
+state taxes had to be proportional to the amount of benefits conferred. The lower 
+court's preemption analysis was almost an afterthought and was included at the 
+end of the opinion. /bid. at 521-22, 745 P.2d at 1174-75 (“we feel constrained, 
+in light of the Supreme Court's criticism in Ramah, 458 U.S. at 846... , to 
+discuss briefly the contentions made by the state and the Tribe”). When Cotton 
+Petroleum filed its petition for a writ of certiorari, the Jicarilla Apache Tribe 
+asked the Court to deny certiorari. See Brief of the Jicarilla Apache Tribe as 
+Amicus Curiae in Opposition to Appellants at 3, Cotton Petroleum Corp. v. 
+Department of Revenue, 490 U.S. 163 (1989) (No. 87-1327); Frickey, 107 Harv. 
+L. Rev. at 435 n.233. 
+
+
+38 
+
+
+discharge their obligations “with good faith and fairness.” United 
+States v. Payne, 264 U.S. 446, 448 (1924); Handbook of Federal 
+Indian Law 226. The ordinary standards of a private fiduciary 
+apply to executive officials administering federal programs. Morton 
+v. Ruiz, 415 U.S. 199, 236 (1974). 
+
+
+In carrying out these obligations and in complying with 
+Federal law, the BIA officials who administer the road construction 
+funds and interact with Indian tribes will be constrained by the 
+impact of state taxes. For example, assume that Congress allocates 
+$2 million in fiscal 2000 for road construction activities on the 
+Navajo Reservation. The BIA officials know that if the Navajo 
+tribe enters into a Self-Determination Act contract for road 
+construction in Arizona, the $2 million budget will not be reduced 
+by state taxes. See generally Arizona Transaction Privilege Tax 
+Ruling 95-11 at 3, Ariz. St. Tax Rep. (CCH) J 300-192. The BIA 
+officials also know that if the BIA enters into the contract and the 
+state tax applies, there will be 5% fewer miles of roads built. J.A. 
+33. As a trustor for the Indian tribes, the Federal Government is 
+obligated to look out for the best interests of the tribes. To comply 
+with this obligation, the BIA has an obligation to tell the Navajo 
+Nation about the adverse fiscal consequences of a choice not to 
+enter into a Self-Determination Act contract. Cf. 25 C.F.R. 
+§ 271.4(e) (1996) (required to inform tribes of “current realities of 
+funding”). In fact, the BIA’s regulations require the Federal 
+Government to remove “any obstacles” that hinder tribal autonomy 
+and flexibility for road construction projects 25 C.F.R. 
+§ 900.3(b)(1). Arizona’s tax interferes with the Federal 
+Government's participation in its government-to-government 
+dealings with Indian tribes. 
+
+
+2. Tribal Interests 
+
+
+Each Indian tribe has an interest in maintaining its sovereignty 
+and providing proper infrastructure to its members. The State's 
+tax infringes on the tribal right of self determination and affects 
+the number of miles of roads built or maintained by the BIA. 
+
+
+39 
+
+
+Indian tribes have significant contacts with road construction 
+projects even if they do not contract directly with an entity like 
+Blaze Construction. Rather it is the Federal Government that is 
+constrained. The BIA cannot spend any money without consulting 
+with a tribe and following tribal preferences to the extent possible. 
+25 C.F.R. § 900.119. Indian tribes participate in the planning, 
+conduct and administration of federal programs. 25 U.S.C. 
+§ 450a(b). The BIA “recommends” projects, but the Indian tribes 
+set the priorities. 25 C.F.R. § 170.4a. Even if the BIA contracts 
+with an entity like Blaze, the BIA must keep Indian tribes of the 
+ongoing status of construction projects. Stewardship Plan 29. 
+
+
+Some Indian tribes may not have the expertise or resources to 
+manage their own contracts. A large tribe such as the Navajo Nation 
+may have the skills to administer its own contract for road 
+construction, but it may not have the expertise to handle the 
+construction of a medical facility. Similarly, some smaller tribes in 
+Arizona, such as the Havasupai in northern Arizona, may not have 
+the financial resources of larger or wealthier tribes. Congress did 
+not intend for smaller tribes, which often have the greatest needs, 
+or tribes without expertise in an area, to suffer a 5% penalty if 
+they do not enter into a Self-Determination Act contracts. 
+
+
+3. State Interests 
+
+
+The exercise of state authority that imposes additional burdens 
+on an Indian tribe must be justified by functions or services 
+performed by a state in connection with the on-reservation activity. 
+Mescalero Apache Tribe, 462 U.S. at 336, 341-42; Ramah Navajo, 
+462 U.S. at 336. A state must point to more than its general interest 
+in raising revenues. Mescalero Apache Tribe, 462 U.S. at 336: 
+Ramah Navajo, 462 U.S. at 336. The Court has not retreated 
+from the standard that a state’s interest is strongest when there is 
+some regulation of the on-reservation activity.’ See Hoopa Valley 
+
+
+21. Arizona improperly claims that in Cotton Petroleum the Court 
+abandoned any analysis of a State's on-reservation activities to justify taxation. 
+In support of this proposition Arizona cites to page 189 of the Court's opinion. 
+Brief for Petitioner 23 (quoting Cotton Petroleum, 490 U.S. at 189). On page 
+
+(Cont'd) 
+
+
+40 
+
+
+Tribe v. Nevins, 881 F.2d 657, 660 (CA9 1989) (discussing Cotton 
+Petroleum, Ramah Navajo, and Bracker, and invalidating state tax 
+because it because California played no role in the tribe's timber 
+activities), cert. denied, 494 U.S. 1055 (1990); Pet. App. 21-24. 
+
+
+For example, in McClanahan v. Arizona State Tax Comm'n, 
+411 U.S. 164, 173 n.12 (1973), the Court unanimously rejected 
+Arizona's contention that general services it provided to Indians 
+were sufficient to support the State’s right to impose an income 
+tax. Arizona argued then, as it does now, that it was expending tax 
+monies for the education and welfare within the Navajo reservation. 
+Ibid.. see also Brief for Petitioner 6. The Court rejected this argument 
+in McClanahan, pointing out that the Federal Government defrays 
+80% of Arizona’s social security payments to reservation Indians 
+under 25 U.S.C. § 639, and had authorized the expenditure of 
+more than $88 million for rehabilitation programs for Navajos 
+and Hopis living on the reservations. /bid. The Court stated, 
+“ “(C]onferring rights and privileges on these Indians cannot affect 
+their situation, which can only be changed by treaty stipulation, or 
+a voluntary abandonment of their Tribal organization.’ ” /bid. at 
+173 (quoting The Kansas Indians, 5 Wall. (72 U.S.) 737, 757 
+(1867)). 
+
+
+Similarly in Ramah Navajo, the Court rejected New Mexico's 
+argument that services provided to the contractor off the reservation 
+justified the imposition of its gross receipts tax. 458 U.S. at 843- 
+45 & n. 10 (no evidence benefits related to school construction). 
+
+
+(Cont'd) 
+
+189, the Court addressed Cotton Petroleum’s argument that the value of services 
+provided by New Mexico exceeded the costs to the reservation, i.¢., a quid pro 
+quo argument. The Court discussed implied pre-emption analysis in section III 
+and not section IV of the opinion. Arizona also misapplies Cotton Petroleum 
+when it contends that even if state services are still relevant, Blaze Construction 
+and the Arizona Court of Appeals improperly focused on direct services and not 
+“intangibles.” Brief for Petitioners 24. Again, Arizona is not relying on the portion 
+of the opinion addressing pre-emption, but cites to a passage dealing with 
+proportionality of taxes. Arizona's position is a classic example of quoting 
+pronouncements of this Court out of context. 
+
+
+41 
+
+
+New Mexico argued that it spent $390,000 on the Navajo 
+Reservation. New Mexico's Motion to Dismiss or Affirm at 6, 
+Ramah Navajo School Bd. v. Bureau of Revenue, 458 U.S. 832 
+(1982) (No. 80-2162). This Court found that such generalizations 
+were an insufficient basis for the tax. 458 U.S. at 844. The Court 
+has not overruled McClanahan or Ramah. The Arizona Court of 
+Appeals correctly applied the precedents of this Court when 
+weighing the state’s interest and properly found that general money 
+for state education or state highways is insufficient to outweigh 
+the comprehensive federal regulations. Pet. App. 21-25. 
+
+
+In this case, Arizona does not regulate any aspect of road 
+construction projects on Indian reservations. Arizona admits that it 
+did not provide any services for the construction projects, took no 
+responsibility for reservation roads after the reservation boundaries, 
+provided no maintenance for the roads, and did not provide any 
+employment services. J.A. 21, 38-40. The State of Arizona has no 
+interest in the construction or maintenance of roads that almost 
+exclusively serve members of Indian tribes. Arizona’s only interest 
+is in raising revenue. Arizona’s interest is clearly outweighed and 
+pre-empted by the extensive statutes and regulations governing 
+the free exercise of tribal self-determination decisions and federal 
+and tribal interests in road construction projects. See Ramah 
+Navajo, 462 U.S. at 336. 
+
+
+Ill. THE COURT OF APPEALS DECISION DOES NOT 
+FOSTER UNCERTAINTY. 
+
+
+For cases involving disputes between Federal, tribal and state 
+authority, there is no bright-line rule. See City of Detroit v. Murray 
+Corp., 355 U.S. 489, 496 (1958) (Frankfurter, J., concurring). 
+The touchstone in Federal, state and tribal matters is the Constitution 
+and Congress’ plenary authority to regulate intercourse with Indian 
+tribes. See, e.g., McClanahan, 411 U.S. at 168-72. The application 
+of the Indian Commerce Clause balancing test in this case is no 
+different from the tests used by this Court to resolve cases under 
+Interstate and Foreign Commerce Clauses. 
+
+
+42 
+
+
+When this Court analyzes state taxes that are challenged under 
+each provision under Article I, § 8, cl. 3, it does not apply a bright- 
+line test. Instead, the Court applies multi-pronged balancing tests. 
+There is one common denominator in each test: Whether the State 
+can show that the tax is related to services provided by it. Bracker, 
+448 U.S. at 143-44; Japan Line, 441 U.S. at 446-46 (foreign 
+commerce); Complete Auto Transit, 430 U.S. at 279 (interstate 
+commerce). The Foreign and Indian Commerce Clause tests also 
+take into consideration whether the State tax impairs the Federal 
+Government. Bracker, 448 U.S. at 143-44; Japan Line, 441 U.S. 
+at 446-47. 
+
+
+To the extent that certainty is available in this area of law, the 
+Court can only provide it in one of two ways. First, the Court 
+could return to its analysis in Worcester v. Georgia, 6 Pet. (31 
+U.S.) 515 (1832), and the original intent of framers of the 
+Constitution that states have no right to intervene in the internal 
+affairs of Indian tribes.” The Court has repeatedly said that it will 
+not return to this analysis. E.g., Ramah, 458 U.S. at 845-46 
+(rejecting Solicitor General's argument that on-reservation activities 
+are presumptively beyond the reach of the States). 
+
+
+The other option is to continue to employ the implied pre- 
+emption test. The decision by the Arizona Court of Appeals fosters 
+doctrinal certainty for Indian law. The court of appeals’ decision 
+keeps intact the implied pre-emption analysis for all taxing matters. 
+Application of a multi-part balancing test for this case is consistent 
+with the test that the Court applies to non-discriminatory taxes 
+under the Interstate and Foreign Commerce Clauses. The decision 
+by the Arizona Court of Appeals says that whenever a state tax 
+affects issues of tribal self-determination, including road 
+construction contracts, the federal and state courts must balance 
+
+
+22. See, e.g., Joseph Story, Commentaries on the Constitution of the United 
+States 380-82 (R. Rotunda & J. Nowak eds. 1987) (“The constitution has wisely 
+disembarrassed the power of these two limitations, and has thus given to congress, 
+as the only safe and proper depositary, the exclusive power, which belonged to 
+the crown in the ante-revolutionary times; a power indispensable to the peace of 
+the states, and to the just preservation of the rights and territory of the Indians.”). 
+
+
+43 
+
+
+the federal, state and tribal interests. State government will know 
+whether their taxing schemes are permissible, particularly if the 
+government is not involved in any on-reservation regulation of 
+the activity at issue. 
+
+
+Moreover, affirming the decision below allows this Court to 
+explain the doctrinal distinction that it has maintained under its 
+modern pre-emption analysis. There is a fundamental, doctrinal 
+difference between a historically commercial enterprise such as a 
+lease of an oil well or the sale of cigarettes, and a tax that affects 
+tribal decisions about a basic function of government — whether 
+to perform some activity for the health, safety and welfare of its 
+citizens/members and whether to build roads for them. States neither 
+expressly, nor impliedly through taxation, have the right to affect 
+the public policy decisions of Indian tribes 
+
+
+| Arizona's position does not provide doctrinal clarity. Instead 
+it turns the Constitution on its head. Two hundred years ago the 
+founding fathers presumed that states had no authority to regulate 
+non-Indians inside the boundaries of an Indian reservation. See 
+e.g., Worcester, supra. Arizona now wants this Court to presume 
+that States have the authority to tax or regulate those same non- 
+Indians inside the boundaries of an Indian reservation. Arizona 
+wants the Court to do away with the requirement that there be a 
+relationship between taxation and governmental regulation on 
+reservations for Indian Commerce Clause cases, even though states 
+sull must show a correlation between taxes and state regulation for 
+interstate and foreign commerce matters. The Court should reject 
+
+
+Arizona's attempt to overstep its bounds as it has done on many 
+occasions in the past. 
+
+
+44 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Respondent Blaze Construction 
+Company, Inc. requests that the United States Supreme Court affirm 
+the opinion by the Arizona Court of Appeals and remand this case 
+to the Arizona Tax Court for an award of attorney's fees under 
+Arizona law. Ariz. Rev. Stat. Ann. § 12-348(A)(1). 
+
+
+Respectfully submitted, 
+
+
+BRUCE C. SMITH 
+
+LAT J. CELMINS 
+
+Counsel of Record 
+MARGRAVE CELMINS, P.C. 
+Attorneys for Respondent 
+
+7201 East Camelback Road 
+Suite 330 
+
+Scottsdale, Arizona 85251 
+(602) 994-2000 
+
+
+APPENDIX 
+
+
+APPENDIX A — RELEVANT STATUTES AND 
+REGULATIONS INVOLVED 
+
+
+STATUTES 
+25 U.S.C. § 450a. Congressional declaration of policy 
+
+
+(b) The Congress declares its commitment to the 
+maintenance of the Federal Government's unique and continuing 
+relationship with, and responsibility to, individual Indian tribes 
+and to the Indian people as a whole through the establishment 
+of a meaningful Indian self-determination policy which will 
+permit an orderly transition from the Federal domination of 
+programs for, and services to, Indians to effective and 
+meaningful participation by the Indian people in the planning, 
+conduct, and administration of those programs and services. 
+In accordance with this policy, the United States is committed 
+to supporting and assisting Indian tribes in the development of 
+strong and stable tribal governments, capable of administering 
+quality programs and developing the economies of their 
+respective communities. 
+
+
+25 U.S.C. § 450h. Grants to tribal organizations or 
+tribes 
+
+
+(a) Request by tribe for contract or grant by Secretary of 
+the Interior for improving, etc., tribal governmental, contracting, 
+and program planning activities 
+
+
+The Secretary of the Interior is authorized, upon the request 
+of any Indian tribe (from funds appropriated for the benefit of 
+Indians pursuant to section 13 of this title, and any Act 
+subsequent thereto) to contract with or make a grant or grants 
+to any tribal organization for — 
+
+
+2a 
+
+
+Appendix A 
+
+
+(1) the strengthening or improvement of tribal government 
+(including, but not limited to, the development, improvement, 
+and administration of planning, financial management, or merit 
+personnel systems; the improvement of tribally funded programs 
+or activities; or the development, construction, improvement, 
+maintenance, preservation, or operation of tribal facilities or 
+resources); 
+
+
+TRIBAL SELF-GOVERNANCE ACT OF 1994 
+PUB. L. 103-413 
+108 Stat. 4250, 4270-71 (1994) 
+
+
+SEC. 201. SHORT TITLE. 
+
+
+This title may be cited “The Tribal Self-Governance Act of 
+1994”. 
+
+
+SEC. 202. FINDINGS. 
+Congress finds that — 
+
+
+(1) The tribal right of self-governance flows 
+from the inherent sovereignty of Indian tribes and 
+nations; 
+
+
+(2) the United States recognizes a special 
+government-to-government relationship with Indian 
+tribes, including the right of the tribes to self- 
+governance, as reflected in the Constitution, treaties, 
+Federal Statutes, and the course of dealings of the 
+United States with Indian tribes; 
+
+
+(3) although progress has been made, the 
+Federal bureaucracy, with its centralized rules and 
+
+
+3a 
+
+
+Appendix A 
+
+
+regulations, has eroded tribal self-governance and 
+dominates tribal affairs: 
+
+
+* * * 
+
+
+SEC. 203. DECLARATION OF POLICY 
+
+
+It is the policy of this title to permanently establish and 
+implement tribal self-governance — 
+
+
+| (1) to enable the United States to maintain and 
+improve its unique and continuing relationship with, 
+and responsibility to, Indian tribes; 
+
+
+(2) to permit each Indian tribe to choose the 
+
+
+extent of the participation of such tribe in self 
+governance; 
+
+
+** * 
+
+
+TRANSPORTATION EQUITY ACT FOR T 
+CENTURY sehen 
+
+
+Pub. L. 105-178 
+112 Stat. 107, 155 (1998) 
+
+
+An Act to authorize funds for Federal-aid highways, 
+
+
+highway safety programs, and transit programs, and for other 
+purposes. 
+
+
+Be it enacted by the Senate and House of Re i 
+presentatives 
+of the United States of America in Congress assembled, 
+
+
+** * 
+
+
+4a 
+
+
+Appendix A 
+SEC. 1115. FEDERAL LANDS HIGHWAYS PROGRAM. 
+
+
+** * 
+
+
+(b) ALLOCATIONS. — Section 202(d) 
+of such title is amended — 
+
+
+** * 
+
+
+(4) by adding at the end the following: 
+“(2) FISCAL YEAR 2000 AND THEREAFTER.— 
+
+
+“(A) IN GENERAL. — All funds authorized to be 
+appropriated for Indian reservation roads shall be allocated 
+among Indian tribes for fiscal year 2000 and each subsequent 
+fiscal year in accordance with a formula established by the 
+Secretary of the Interior under a negotiated rulemaking 
+procedure under subchapter III of chapter 5 of title 5. 
+
+
+“(B) REGULATIONS. — Notwithstanding sections 563(a) 
+and 565(a) of title 5, the Secretary of the Interior shall issue 
+regulations governing the Indian reservation roads program, 
+and establishing the funding formula for fiscal *155 year 2000 
+and each subsequent fiscal year under this paragraph, in 
+accordance with a negotiated rulemaking procedure under 
+subchapter III of chapter 5 of title 5. The regulations shall be 
+issued in final form not later than April 1, 1999, and shall take 
+effect not later than October 1, 1999. 
+
+
+“(C) NEGOTIATED RULEMAKING COMMITTEE. — 
+In establishing a negotiated rulemaking committee to carry out 
+subparagraph (B), the Secretary of the Interior shall — 
+
+
+Sa 
+
+
+Appendix A 
+
+
+“(i) apply the procedures under subchapter III of chapter 5 
+of title 5 in a manner that reflects the unique government-to- 
+government relationship between the Indian tribes and the 
+United States; and 
+
+
+“(ii) ensure that the membership of the committee includes 
+only representatives of the Federal Government and of 
+geographically diverse small, medium, and large Indian tribes. 
+
+
+“(D) BASIS FOR FUNDING FORMULA.--The funding 
+formula established for fiscal year 2000 and each subsequent 
+
+
+fiscal year under this paragraph shall be based on factors that 
+reflect — 
+
+
+“(i) the relative needs of the Indian tribes, and reservation 
+or tribal communities, for transportation assistance; and 
+
+
+“(ii) the relative administrative capacities of, and challenges 
+faced by, various Indian tribes, including the cost of road 
+construction in each Bureau of Indian Affairs area, geographic 
+isolation and difficulty in maintaining all-weather access to 
+
+
+employment, commerce, health, safety, and educational 
+resources. 
+
+
+“(3) CONTRACTS AND AGREEMENTS WITH INDIAN 
+TRIBES. — 
+
+
+“(A) IN GENERAL. — Notwithstanding any other 
+provision of law or any interagency agreement, program 
+guideline, manual, or policy directive, all funds made available 
+under this title for Indian reservation roads and for highway 
+bridges located on Indian reservation roads to pay for the costs 
+of programs, services, functions, and activities, or portions 
+
+
+6a 
+
+
+Appendix A 
+
+
+thereof, that are specifically or functionally related to the cost 
+of planning, research, engineering, and construction of any 
+highway, road, bridge, parkway, or transit facility that provides 
+access to or is located within the reservation or community of 
+an Indian tribe shall be made available, upon request of the 
+Indian tribal government, to the Indian tribal government for 
+contracts and agreements for such planning, research, 
+engineering, and construction in accordance with the Indian 
+Self-Determination and Education Assistance Act. 
+
+
+FEDERAL REGULATIONS 
+ROAD CONSTRUCTION CONTRACTS 
+
+
+25 C.F.R. § 169.3 Consent of landowners to grants of right- 
+of-way. 
+
+
+(a) No right-of-way shall be granted over and across any 
+tribal land, nor shall any permission to survey be issued with 
+respect to any such lands, without the prior written consent of 
+the tribe. 
+
+
+25 C.F.R. § 170.5 Right-of-way. 
+
+
+(a) The procedure for obtaining permission to survey and 
+for granting any necessary right-of-way are governed by part 
+169 of this chapter. Tribal consent as required under § 169.3(a) 
+may be made by public dedication where proper tribal authority 
+
+‘exists. Before any work is undertaken for the construction of 
+road projects, the Commissioner shall obtain the written consent 
+of the Indian landowners. Where an Indian has an interest in 
+tribal land by virtue of a land use assignment, such consent 
+shall be obtained from both the landholder of the assignment 
+
+
+7a 
+
+
+Appendix A 
+
+
+and the Indian tribe. Right-of-way easements are to be on a 
+form approved by the Commissioner. 
+
+
+CONTRACTS UNDER THE INDIAN SELF- 
+DETERMINATION AND EDUCATION 
+ASSISTANCE ACT 
+
+
+25 C.F.R. § 900.3 Policy statements. 
+
+
+(a) Congressional policy. 
+
+
+** * 
+
+
+~@) Congress has declared its commitment to the 
+maintenance of the Federal government's unique and continuing 
+relationship with, and responsibility to, individual Indian tribes 
+and to the Indian people as a whole through the establishment 
+of a meaningful Indian self-determination policy which will 
+permit an orderly transition from the Federal domination of 
+programs for, and services to, Indians to effective and 
+meaningful participation by the Indian people in the planning, 
+conduct, and administration of those programs and services. 
+In accordance with this policy, the United States is committed 
+to supporting and assisting Indian tribes in the development of 
+strong and stable tribal government, capable of administering 
+
+
+quality programs and developing the economies of their 
+respective communities. 
+
+
+** * 
+
+
+(5) Congress has further declared that each provision of 
+the Act and each provision of contracts entered into thereunder 
+shall be liberally construed for the benefit of the tribes or tribal 
+
+
+Appendix A 
+
+
+organizations to transfer the funding and the related functions, 
+services, activities, and programs (or portions thereof), that are 
+otherwise contractible under the Act, including all related 
+administrative functions, from the Federal government to the 
+contractor. 
+
+
+(b) Secretarial policy. 
+
+
+(1) It is the policy of the Secretary to facilitate the efforts 
+of Indian tribes and tribal organizations to plan, conduct and 
+administer programs, functions, services and activities, or 
+portions thereof, which the Departments are authorized to 
+administer for the benefit of Indians because of their status as 
+Indians. The Secretary shall make best efforts to remove any 
+obstacles which might hinder Indian tribes and tribal 
+organizations including obstacles that hinder tribal autonomy 
+and flexibility in the adm nistration of such programs. 
+
+
+** * 
+
+
+(4) The Secretary recognizes that contracting under the 
+Act is an exercise by Indian tribes of the government-to- 
+government relationship between the United States and the 
+Indian tribes. When an Indian tribe contracts, there is a transfer 
+of the responsibility with the associated funding. The tribal 
+contractor is accountable for managing the day-to-day operations 
+of the contracted Federal programs, functions, services, and 
+activities. The contracting tribe thereby accepts the responsibility 
+
+
+9a 
+
+
+Appendix A 
+
+
+and accountability to the beneficiaries under the contract with 
+respect to use of the funds and the satisfactory performance of 
+the programs, functions, services and activities funded under 
+the contract. The Secretary will continue to discharge the trust 
+responsibilities to protect and conserve the trust resources of 
+Indian tribes and the trust resources of individual Indians. 
+
+
+(5) The Secretary recognizes that tribal decisions to contract 
+Or not to contract are equal expressions of self-determination. 
+
+
+** * 
+
+
+(7) The Secretary is committed to implementing and fully 
+Supporting the policy of Indian self-determination by 
+recognizing and supporting the many positive and successful 
+efforts and directions of tribal governments and extending the 
+applicability of this policy to all operational components within 
+the Department. By fully extending Indian self-determination 
+contracting to all operational components within the Department 
+having programs or portions of programs for the benefit of 
+Indians under section 102(a)(1)(A) through (D) and for the 
+benefit of Indians under section 102(a)(1)(E), it is the Secretary's 
+intent to support and assist Indian tribes in the development of 
+strong and stable tribal governments capable of administering 
+quality programs that meet the tribally determined needs and 
+directions of their respective communities. It is also the policy 
+of the Secretary to have all other operational components within 
+the Department work cooperatively with tribal governments on 
+a government-to-government basis so as to expedite the 
+transition away from Federal domination of Indian programs 
+and make the ideals of Indian self-government and self- 
+determination a reality. 
+
+
+10a 
+
+
+Appendix A 
+
+
+25 C.F.R. § 900.115 How do self-determination construction 
+contracts relate to ordinary Federal procurement contracts? 
+
+
+(a) A self-determination construction contract is a 
+government-to-government agreement that transfers control of 
+the construction project, including administrative functions, to 
+the contracting Indian tribe or tribal organization to facilitate 
+effective and meaningful participation by the Indian tribe or 
+tribal organization in planning, conducting, and administering 
+the construction project, and so that the construction project is 
+responsive to the true needs of the Indian community. The 
+Secretary's role in the conduct of a contracted construction 
+project is limited to the Secretary's responsibilities set out in 
+§ 900.131. 
+
+
+(b) Self-determination construction contracts are not 
+traditional “procurement” contracts. 
+
+
+25 C.F.R. § 900.119 To what extent shall the Secretary 
+consult with affected Indian tribes before spending funds 
+for any construction project? 
+
+
+Before spending any funds for a planning, design, 
+construction, or renovation project, whether subject to a 
+competitive application and ranking process or not, the Secretary 
+shall consult with any Indian tribe or tribal organization(s) that 
+would be significantly affected by the expenditure to determine 
+and to follow tribal preferences to the greatest extent feasible 
+concerning: size, location, type, and other characteristics of 
+
+
+the project. 
+
+
+lla 
+Appendix A 
+
+
+25 C.F.R. § 900.124 May the Indian tribe or tribal 
+organization to use a grant in lieu of a contract? 
+
+
+Yes. A grant agreement or a cooperative agreement may 
+be used in lieu of a contract under Sections 102 and 103 of the 
+Act when agreed to by the Secretary and the Indian tribe or 
+tribal organization. Under the grant concept, the grantee will 
+assume full responsibility and accountability for design and 
+construction performance within the funding limitations. The 
+grantee will manage and administer the work with minimal 
+involvement by the government. The grantee will be expected 
+to have acceptable management systems for finance, 
+procurement, and property. 
+
+
+25 C.F.R. § 900.240 What does retrocession mean? 
+
+
+A retrocession means the return to the Secretary of a 
+
+
+contracted program, in whole or in part, for any reason, before 
+the expiration of the term of the contract. 
+
+
+25 C.F.R. § 900.241 Who may retrocede a contract, in whole 
+or in part? | 
+
+
+An Indian tribe or tribal organization authorized by an 
+Indian tribe may retrocede a contract. 
+
+
+25 C.F.R. § 900.244 Will an Indian tribe or tribal 
+organization’s retrocession adversely affect funding 
+available for the retroceded program? 
+
+
+No. The Secretary shall provide not less than the same level 
+of funding that would have been available if there had been no 
+retrocession. 
+
+
+12a 
+
+
+Appendix A 
+25 C.F.R. § 900.246 What does reassumption mean? 
+
+
+Reassumption means rescission, in whole or in part, of a 
+contract and assuming or resuming control or operation of the 
+contracted program by the Secretary without consent of the 
+Indian tribe or tribal organization. There are two types or 
+reassumption: emergency and non-emergency. 
+
+
+25 C.F.R. § 900.256 Will a reassumption adversely 
+affect funding available for the reassumed program? 
+
+
+No. The Secretary shall provide at least the same level of 
+funding that would have been provided if there had been no 
+reassumption. 
+
+

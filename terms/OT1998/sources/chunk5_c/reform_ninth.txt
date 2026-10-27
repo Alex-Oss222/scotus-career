@@ -1,0 +1,373 @@
+
+
+
+
+
+  
+
+    
+168 F.3d 360
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+  
+
+  
+
+    
+168 F.3d 360
+
+    
+99 Cal. Daily Op. Serv. 1065, 99 Daily Journal
+D.A.R. 1337
+NATIONAL COMMITTEE OF THE REFORM PARTY OF THE UNITED STATES
+OF AMERICA;  Perot '96, Inc.;  Perot Reform
+Committee, Inc.;  Reform Party of
+California;  John Place,
+Plaintiffs-Appellants,
+v.
+DEMOCRATIC NATIONAL COMMITTEE;  Clinton/Gore '96 General
+Committee;  Clinton/Gore '96 Primary, Inc.;  Republican
+National Committee;  Dole For President, Inc.;  State
+Central Committee of the California Democratic Party;  State
+Central Committee of the Republican Party;  Federal Election
+Commission;  Dole/Kemp '96, Defendants-Appellees.
+
+    
+No. 98-15443.
+
+    
+United States Court of Appeals,
+Ninth Circuit.
+
+    
+Argued and Submitted Nov. 4, 1998.
+Decided Feb. 9, 1999.
+
+    
+
+      
+Donald E. Godwin and David J. White, Godwin & Carlton, Dallas, Texas;  Jamin B. Raskin, American University Washington College of Law, Washington, D.C., for the plaintiffs-appellants.
+
+      
+Robin B. Johansen, Remcho, Johansen & Purcell, San Francisco, California, John E. Mueller, Nielsen, Merksamer, Parrinello, Mueller & Naylor, Mill Valley, California;  Lawrence M. Nobel, Richard B. Bader, Vivien Clair, Federal Election Commission, Washington, D.C., for the defendants-appellees.
+
+      
+Appeal from the United States District Court for the Northern District of California;  Vaughn R. Walker, District Judge, Presiding.  D.C. No. CV-97-04048-VRW.
+
+      
+Before:  SCHROEDER and THOMAS, Circuit Judges, and KING,
+1
+ District Judge.
+
+      
+SCHROEDER, Circuit Judge:
+
+    
+
+    
+
+      
+1
+
+      
+This action raises a number of challenges to the two principal federal campaign finance laws:  the Federal Election Campaign Act of 1971 ("FECA"), 2 U.S.C. §§ 431-55, which limits contributions to and spending on federal election campaigns, and the Presidential Election Campaign Fund Act (the "Fund Act"), 26 U.S.C. §§ 9001-13, which funds presidential campaigns according to the percentage of the vote their parties received in the prior election.  Plaintiffs, collectively referred to as the "Reform Party," are the National Committee of the Reform Party, its 1996 Presidential Campaign committees, the Reform Party of California, and John Place, a voter who supported the Reform Party presidential candidate in 1996.  Defendants are the Democratic and Republican National Committees for 1996, the Democratic and Republican presidential campaigns, the Democratic and Republican State Central Committees of California, and the Federal Election Commission (the "FEC" or the "Commission").
+
+    
+
+    
+
+      
+2
+
+      
+The Reform Party's claims fall into three categories.  First, it seeks damages from the Democratic and Republican defendants under California common and statutory law, federal common law, and FECA.  The Reform Party claims that allegedly illegal "issue ads" run by the 1996 Democratic and Republican presidential campaigns caused the Reform Party monetary damages by reducing the number of votes the Reform Party received, thereby reducing the amount of federal funding to which it will be entitled in the 2000 election.  Second, the Reform Party challenges the constitutionality of the statutory composition of the FEC, claiming that 2 U.S.C. § 437c(a)(1), which mandates that no political party may hold more than half the seats on the Commission, violates the Appointments Clause and the principle of separation of powers, and deprives plaintiffs of equal protection, due process, and First Amendment freedom of association rights.  Third, the Reform Party claims that the Fund Act denies it equal protection by providing greater funding to major parties.
+
+    
+
+    
+
+      
+3
+
+      
+On March 2, 1998, the district court dismissed the entire case, ruling that plaintiffs lacked standing to bring some claims and had failed to state a claim upon which relief could be granted for the remaining claims.  Plaintiffs appeal.  We review the dismissal de novo.  See Pareto v. FDIC, 139 F.3d 696, 699 (9th Cir.1998).
+
+    
+
+    
+I. Damages Claims
+
+    
+
+      
+4
+
+      
+The Reform Party claims damages under the California Business and Professions Code and California common law for unfair competition, false advertising, and interference with prospective employment.  It also seeks damages under federal common law for "impairment of political rights," and under FECA for campaign finance violations.
+
+    
+
+    
+
+      
+5
+
+      
+The district court held that California Business and Professions Code sections 17200 et seq.  (prohibiting unfair business practices) and 17500 et seq.  (prohibiting false advertising) do not apply to election campaign practices.  The district court's ruling is supported by O'Connor v. Superior Court of Kern County, 177 Cal.App.3d 1013, 223 Cal.Rptr. 357 (1986).  In O'Connor, a victorious California assembly candidate sued his opponent under California's unfair business practices and false advertising statutes, alleging that the opponent had mailed campaign circulars containing false and derogatory quotes.  The California court rejected the claim as outside the scope of the state statutes.  Although the Reform Party attempts to distinguish O'Connor on the ground that the case was concerned with campaign literature rather than campaign financial practices, the California court broadly held "that the Legislature did not intend California's consumer protection statutes to apply to political election campaigning."  Id. at 357.   There is no contrary California authority.
+
+    
+
+    
+
+      
+6
+
+      
+The Reform Party's claim under California common law fares little better.  The Reform Party relies upon Gold v. Los Angeles Democratic League, 49 Cal.App.3d 365, 122 Cal.Rptr. 732 (1975), in which the California court recognized a claim for lost wages by a political candidate who contended that his opponent had, by false mailings, wrongly interfered with the plaintiff's prospective employment as city controller.  See id. at 739-40.   In this case, however, Ross Perot, the Reform Party's 1996 presidential candidate, is not a plaintiff;  there is no indication that the California Supreme Court would extend the Gold theory to suits by political parties.  Moreover, the claim in Gold was premised on conduct by the defendant that was improper under state tort law.  The Reform Party attempts to base its state law cause of action on the violation of federal campaign statutes.  This is beyond the scope of any claim yet recognized by California's courts or legislature.
+
+    
+
+    
+
+      
+7
+
+      
+The Reform Party also attempts to fashion a federal common law damages claim for what it terms "impairment of political rights."   The Reform Party argues that defendants' alleged campaign finance violations made the votes of Perot supporters less meaningful.  The doctrine upon which the Reform Party relies, however, provides relief for persons who have suffered a direct and wrongful deprivation of their right to vote. See, e.g., Nixon v. Herndon, 273 U.S. 536, 540, 47 S.Ct. 446, 71 L.Ed. 759 (1927) (citizens barred by statute from voting in primary on account of race);  Smith v. Allwright, 321 U.S. 649, 650-51, 64 S.Ct. 757, 88 L.Ed. 987 (1944) (citizen denied ballot for primary nomination on account of race);  Wayne v. Venable, 260 F. 64 (8th Cir.1919) (citizens excluded from polling place by private defendant who threatened election watchers).  Unlike the plaintiffs in all these cases, John Place and other Perot supporters were not prevented from voting.  The claimed diminution of the meaningfulness of their votes is not the kind of deprivation contemplated by the common law doctrine.  For these reasons, the Reform Party has stated no valid claims for damages under state or federal common law.
+
+    
+
+    
+
+      
+8
+
+      
+This brings us to the Reform Party's damages claim for defendants' alleged violation of FECA by making excessive expenditures for issue ads.  As the Reform Party concedes, FECA does not explicitly authorize private suits for damages.  Nor can a private cause of action for damages be implied from the terms of the statute.  The FEC's power to sue violators is the "exclusive civil remedy" for enforcement of the Act, 2 U.S.C. § 437d(e), with the exception that a party may seek judicial review of the agency dismissal of administrative complaints alleging violations of the Act.  See 2 U.S.C. § 437g(a)(8).  The Reform Party contends that the phrase "exclusive civil remedy" means only that the FEC is the sole agency charged with vindicating public rights under the Act, and that private parties may sue to recover damages.  There is little support for this theory in the history or language of the statute.  As the Reform Party points out, before Congress added the word "exclusive" to FECA as part of the 1976 amendments, there was confusion about which agency should enforce the statute.  See Democratic Party v. National Conservative Political Action Comm., 578 F.Supp. 797, 806 & n. 10 (E.D.Pa.1983) (three-judge court), aff'd in part and rev'd in part by Federal Election Comm'n v. National Conservative Political Action Comm., 470 U.S. 480, 105 S.Ct. 1459, 84 L.Ed.2d 455 (1985) (describing purpose of exclusivity provision).  The legislative history thus indicates that Congress added the word "exclusive" to prohibit enforcement suits by other agencies, but it does not support any conclusion that Congress was at the same time approving private suits.  The Supreme Court has noted there is no authority supporting Congress' intention to have anyone other than the government enforce the Act.  See National Conservative, 470 U.S. at 489, 105 S.Ct. 1459.
+
+    
+
+    
+
+      
+9
+
+      
+In addition, because FECA expressly provides a detailed remedial scheme, it would be inappropriate for this court to find an implied cause of action.  See Middlesex County Sewerage Auth. v. National Sea Clammers Ass'n, 453 U.S. 1, 14-15, 101 S.Ct. 2615, 69 L.Ed.2d 435 (1981).  In National Sea Clammers, fishermen sued for damages under the Federal Water Pollution Control Act, claiming that New York City and other local governments had polluted fishing grounds.  The statute provided for government suits for injunctive relief and fines, and for private suits for injunctive relief, but did not mention private suits for damages.  The Court refused to imply such a cause of action, reasoning that given the elaborate enforcement provisions, it could not speculate that Congress had accidentally omitted any remedies.  See id. at 13-18, 101 S.Ct. 2615.   Congress has similarly provided that FECA may be enforced through governmental suits for injunctions and fines, and, under certain circumstances, through private suits for injunctions.  Given all these remedies, we cannot conclude that the omission of private damages suits from FECA was an oversight.
+
+    
+
+    
+
+      
+10
+
+      
+II. Constitutional Challenge to the FEC Party Affiliation Limitation
+
+    
+
+    
+
+      
+11
+
+      
+The Reform Party seeks to invalidate the statutory limitation on who may sit on the Federal Election Commission, the body that administers and enforces both FECA and the Fund Act.  FECA provides that the President appoints the six members of the Commission with the advice and consent of the Senate.  See 2 U.S.C. § 437c(a)(1).  "No more than three members of the [FEC] ... may be affiliated with the same political party."  Id. Although FECA mentions no political party by name, in practice the FEC always has been divided equally between Republican and Democratic members.  The Reform Party contends that the party affiliation provision violates the Appointments Clause and plaintiffs' rights to free speech and equal protection.
+
+    
+
+    
+
+      
+12
+
+      
+We do not reach the merits of the Reform Party's challenge.  Plaintiffs initially must establish that they have Article III standing by showing that they have suffered an injury in fact that is fairly traceable to the challenged provision and that is likely to be redressed by the requested relief.  See Lujan v. Defenders of Wildlife, 504 U.S. 555, 560-61, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992).  Insofar as we understand plaintiffs' claim, it is that the Reform Party is somehow prevented or hindered from obtaining representation on the six-member Commission by the congressional restraint upon the President to appoint no more than three members of the same political party.  The statutory provision, however, is on its face intended to diversify the membership of the Commission and to prevent the party of the President from dominating the Commission.  The Reform Party has not explained how the relief it requests, the invalidation of the party affiliation provision will make minority party representation any more likely.
+
+    
+
+    
+
+      
+13
+
+      
+Our conclusion on this issue is consistent with the D.C. Circuit's holding in FEC v. NRA Political Victory Fund, 6 F.3d 821 (D.C.Cir.1993), cert. granted, 512 U.S. 1218, 114 S.Ct. 2703, 129 L.Ed.2d 832 (1994), cert. dismissed, 513 U.S. 88, 115 S.Ct. 537, 130 L.Ed.2d 439 (1994).  In that case, the National Rifle Association challenged the composition of the FEC as violating the Appointments Clause.  The D.C. Circuit held that the issue was not justiciable because the plaintiff could not show that an invalidation of the bipartisan requirement would redress its grievances.  See id. at 825.   The court also noted that it could not assume "that the bipartisanship requirement has any effect on the Commission's work, for without the statute the President could have appointed exactly the same members."  Id.
+
+    
+
+    
+III. Constitutional Challenge to the Fund Act
+
+    
+
+      
+14
+
+      
+The Reform Party contends that the Fund Act is unconstitutional both on its face and as applied.  The Fund Act funds presidential campaigns according to the percentage of the popular vote the candidate's party received in the prior election.  Parties that received over 25% of the vote are considered "major parties" and receive a full subsidy.  Parties that received between 5% and 25% of the vote are considered "minor parties" and receive a lesser subsidy, proportionate to the number of votes they received in comparison to the major parties.  Parties receiving less than 5% of the vote receive nothing.  See 26 U.S.C. §§ 9002(6)-(7), 9004.  On the basis of the Reform Party's showing in the 1992 presidential election, it received $29 million in federal funds for the 1996 campaign.  The Democratic and Republican Parties each received the full $62 million subsidy.
+
+    
+
+    
+
+      
+15
+
+      
+The money comes with strings attached.  In order to receive funds, parties must agree to limit their total spending to the amount of the subsidy, and candidates must agree to expend no more than $50,000 of their personal funds.  See 26 U.S.C. §§ 9003-04.  Other fundraising restrictions apply regardless of whether a party chooses to receive monies under the Fund Act.  Most importantly for this appeal, FECA limits an individual's contribution to a campaign to $1,000.  See 2 U.S.C. § 441a(a)(1)(A).
+
+    
+
+    
+
+      
+16
+
+      
+The Reform Party's facial challenges to the Fund Act are squarely foreclosed by the Supreme Court's holding in Buckley v. Valeo, 424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976).  In Buckley, political candidates and organizations challenged the constitutionality of the Fund Act on several grounds;  the Court rejected them all and upheld the Act.  The Court disagreed with the plaintiffs' contention that the Act violated the First Amendment, holding that the law "is a congressional effort, not to abridge, restrict, or censor speech, but rather to use public money to facilitate and enlarge public discussion and participation in the electoral process."  Id. at 92-93, 96 S.Ct. 612.   The plaintiffs also argued that the Fund Act violated equal protection by unconstitutionally discriminating against minor parties.  The Court, however, held that the public financing system "does not prevent any candidate from getting on the ballot or any voter from casting a vote for the candidate of his choice;  the inability, if any, of minor-party candidates to wage effective campaigns will derive not from lack of public funding but from their inability to raise private contributions."  Id. at 94-95, 96 S.Ct. 612.   The Reform Party's facial challenges to the Fund Act are based on the identical First Amendment and equal protection arguments that the Supreme Court rejected in Buckley.   We uphold the district court's dismissal of these claims.
+
+    
+
+    
+
+      
+17
+
+      
+The Reform Party also contends that the Fund Act, as applied, can now be shown to discriminate unlawfully.  The Reform Party relies upon the Supreme Court's reservation in Buckley of possible future consideration of an "as applied" challenge.  The Court said:  "[I]n rejecting appellants' [facial] arguments, we of course do not rule out the possibility of concluding in some future case, upon an appropriate factual demonstration, that the public financing system invidiously discriminates against nonmajor parties."  Id. at 97 n. 131, 96 S.Ct. 612.
+
+    
+
+    
+
+      
+18
+
+      
+The term "invidious discrimination" generally refers to treating a class differently in order to harm or repress it.  Thus in J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127, 114 S.Ct. 1419, 128 L.Ed.2d 89 (1994), the Supreme Court described as "invidious" discrimination against female juror candidates that perpetuated outdated sexual stereotypes.  Id. at 130-31, 114 S.Ct. 1419.   Likewise, in Georgia v. McCollum, 505 U.S. 42, 56, 112 S.Ct. 2348, 120 L.Ed.2d 33 (1992) (citing Edmonson v. Leesville Concrete Co., 500 U.S. 614, 629, 111 S.Ct. 2077, 114 L.Ed.2d 660 (1991)), the Court described discrimination against jurors of a particular race as "invidious."   See also Gardner v. California, 393 U.S. 367, 370-71, 89 S.Ct. 580, 21 L.Ed.2d 601 (1969) (denial of court transcript to indigent prisoner constitutes invidious discrimination).
+
+    
+
+    
+
+      
+19
+
+      
+The Court used "invidious" in Buckley in the same sense, i.e., to describe discrimination that tends to harm or repress minority parties.  The Court explained that the plaintiffs in Buckley had made no showing that the $1,000 contribution limit would have a harmful effect "on the initiation and scope of minor-party and independent candidacies."  424 U.S. at 34, 96 S.Ct. 612.   Nor had they shown that the limit would reduce the strength of minority parties to a point "below that attained without any public financing."  Id. at 99, 96 S.Ct. 612.   We conclude that in footnote 131, the Buckley Court was reserving the possibility that in the future, plaintiffs might be able to demonstrate that the fundraising constraints actually harmed or injured the voting strength of minority parties or their ability to field candidates.
+
+    
+
+    
+
+      
+20
+
+      
+The Reform Party has not claimed that the funding system has harmed it in these ways.  Instead it contends that the $1,000 contribution limit, as applied, has made it impossible for it to make up the difference between its public funding and the public funding to major parties.  It argues that because the $1,000 limit has prevented it from receiving and spending as much money as the major parties, the $1,000 limit as applied to contributions to the Reform Party must be unconstitutional.  This is not the kind of claim that the Supreme Court reserved for future consideration as invidious discrimination.  The Supreme Court knew full well when it decided Buckley that minority parties had never had as much money as major parties and would not under the Fund Act.  It said:
+
+    
+
+    
+
+      
+21
+
+      
+Third parties have been completely incapable of matching the major parties' ability to raise money and win elections.  Congress was, of course, aware of this fact of American life, and thus was justified in providing both major parties full funding and all other parties only a percentage of the major-party entitlement.
+
+    
+
+    
+
+      
+22
+
+      
+Id. at 98, 96 S.Ct. 612.
+
+    
+
+    
+
+      
+23
+
+      
+The Court in Buckley was concerned with preserving Congress' objective of preventing large contributors from exerting too much influence on elective office holders.  See id. at 96, 96 S.Ct. 612 ("[E]liminating the improper influence of large private contributions furthers a significant governmental interest.").  The Court expressly recognized that the exclusion of minor parties from the Act's contribution limitations would undermine congressional objectives because it "overlooks the fact that minor-party candidates may win elective office."  Id. at 35, 96 S.Ct. 612.   We therefore conclude that the Reform Party has not stated a claim that the Act has resulted in invidious discrimination as applied to its campaigns.  The effects about which the Reform Party now complains were understood and taken into account by the Supreme Court when it rejected the challenges presented in Buckley.
+
+    
+
+    
+IV. Certification
+
+    
+
+      
+24
+
+      
+Plaintiffs argue that the district court erred in ruling on the challenges to FECA instead of certifying them to an en banc panel of this court.  FECA requires district courts hearing cases brought under 2 U.S.C. § 437h to certify immediately questions about the constitutionality of the statute to an en banc panel of the circuit involved.  See 2 U.S.C. § 437h.  If, however, the plaintiffs lack standing or their claims are frivolous, a district court may dismiss the case without certifying it.  See California Med.  Ass'n v. FEC, 453 U.S. 182, 192 n. 14, 101 S.Ct. 2712, 69 L.Ed.2d 567 (1981);  Whitmore v. FEC, 68 F.3d 1212, 1214 (9th Cir.1995), cert. denied, 517 U.S. 1155, 116 S.Ct. 1543, 134 L.Ed.2d 646 (1996).  Constitutional challenges to FECA are "frivolous" for purposes of certification if "none of the legal points are arguable on their merits."  Whitmore, 68 F.3d at 1215 (citing Goland v. United States, 903 F.2d 1247, 1257-58 (9th Cir.1990)).  Because plaintiffs lack standing to challenge FECA's appointment provision, the district court was correct to dismiss that claim without certifying it.  The Reform Party's other constitutional challenge to FECA-that it unconstitutionally preempts common law remedies-was frivolous because plaintiffs had no common law remedies for FECA to preempt.
+
+    
+
+    
+
+      
+25
+
+      
+The Fund Act contains a similar certification provision:  It requires suits "as may be appropriate to implement or construe" the Fund Act to be heard by a three-judge panel of the district court in accordance with the provisions of 28 U.S.C. § 2284, with direct appeal to the Supreme Court.  See 26 U.S.C. § 9011(b).  A single district court judge should not certify to a three-judge panel constitutional questions that have already been resolved because, as with FECA, the district court may dismiss frivolous or non-justiciable claims.  See Goland, 903 F.2d at 1257.   The Reform Party's constitutional challenge to the Fund Act had been heard and decided by the Supreme Court.  The district court was correct to dismiss the claim without sending it to a three-judge panel.
+
+    
+
+    
+
+      
+26
+
+      
+AFFIRMED.
+
+    
+
+    
+
+      
+
+        
+1
+
+        
+ Honorable Samuel P. King, Senior United States District Judge for the District of Hawaii, sitting by designation
+
+      
+
+    
+
+    
+
+      
+CC∅
+ | Transformed by 
+Public.Resource.Org
+
+    
+
+  
+
+
+

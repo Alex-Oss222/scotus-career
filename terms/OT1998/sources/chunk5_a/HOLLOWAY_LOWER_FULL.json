@@ -1,0 +1,783 @@
+{
+  "id": 943550,
+  "name": "UNITED STATES of America, Appellee, v. Teddy ARNOLD; Charles Robinson; Darrel Jones; David Valentine; Paul Scaglione; and Jeffrey Drake, Defendants, Francois Holloway a/k/a Abdu Ali, Defendant-Appellant",
+  "name_abbreviation": "United States v. Arnold",
+  "decision_date": "1997-09-16",
+  "docket_number": "No. 1877, Docket 96-1563",
+  "first_page": "82",
+  "last_page": "92",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "126 F.3d 82"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "14 F.3d 189",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10523871
+      ],
+      "pin_cites": [
+        {
+          "page": "194-95"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/14/0189-01"
+      ]
+    },
+    {
+      "cite": "27 F.3d 815",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10530454
+      ],
+      "pin_cites": [
+        {
+          "page": "820-21"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/27/0815-01"
+      ]
+    },
+    {
+      "cite": "56 F.3d 16",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11321803
+      ],
+      "pin_cites": [
+        {
+          "page": "18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/56/0016-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "686"
+        },
+        {
+          "page": "2063-64"
+        },
+        {
+          "page": "688, 694"
+        },
+        {
+          "page": "2064-65, 2068"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 41",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6208979
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "51"
+        },
+        {
+          "page": "1554"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0041-01"
+      ]
+    },
+    {
+      "cite": "66 F.3d 1295",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11325995
+      ],
+      "pin_cites": [
+        {
+          "page": "1313"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/66/1295-01"
+      ]
+    },
+    {
+      "cite": "628 P.2d 384",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        10437384
+      ],
+      "pin_cites": [
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/p2d/628/0384-01"
+      ]
+    },
+    {
+      "cite": "605 N.E.2d 762",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "case_ids": [
+        10838401
+      ],
+      "pin_cites": [
+        {
+          "page": "765"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ne2d/605/0762-01"
+      ]
+    },
+    {
+      "cite": "190 N.E. 361",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "361-62"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "356 Ill. 141",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        5804674
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/356/0141-01"
+      ]
+    },
+    {
+      "cite": "209 P.2d 819",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1949,
+      "pin_cites": [
+        {
+          "page": "820"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 Cal.App.2d 780",
+      "category": "reporters:state",
+      "reporter": "Cal. App. 2d",
+      "case_ids": [
+        2253301
+      ],
+      "year": 1949,
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-app-2d/93/0780-01"
+      ]
+    },
+    {
+      "cite": "285 S.E.2d 345",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 N.C.App. 305",
+      "category": "reporters:state",
+      "reporter": "N.C. App.",
+      "case_ids": [
+        8527197
+      ],
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc-app/55/0305-01"
+      ]
+    },
+    {
+      "cite": "293 N.E.2d 854",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "860"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "363 Mass. 299",
+      "category": "reporters:state",
+      "reporter": "Mass.",
+      "case_ids": [
+        288001
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mass/363/0299-01"
+      ]
+    },
+    {
+      "cite": "481 N.W.2d 787",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "788-89"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "192 Mich.App. 447",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2324434
+      ],
+      "year": 1992,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/192/0447-01"
+      ]
+    },
+    {
+      "cite": "308 F.2d 654",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        200991
+      ],
+      "pin_cites": [
+        {
+          "page": "654-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/308/0654-01"
+      ]
+    },
+    {
+      "cite": "54 Miss. 689",
+      "category": "reporters:state",
+      "reporter": "Miss.",
+      "case_ids": [
+        11262881
+      ],
+      "year": 1877,
+      "opinion_index": 0,
+      "case_paths": [
+        "/miss/54/0689-01"
+      ]
+    },
+    {
+      "cite": "97 N.E. 643",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1912,
+      "opinion_index": 0
+    },
+    {
+      "cite": "253 Ill. 266",
+      "category": "reporters:state",
+      "reporter": "Ill.",
+      "case_ids": [
+        3442613
+      ],
+      "year": 1912,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ill/253/0266-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 137",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6211931
+      ],
+      "weight": 13,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "139"
+        },
+        {
+          "page": "1678-79"
+        },
+        {
+          "page": "140"
+        },
+        {
+          "page": "1679"
+        },
+        {
+          "page": "141"
+        },
+        {
+          "page": "1679-80"
+        },
+        {
+          "page": "142"
+        },
+        {
+          "page": "1680"
+        },
+        {
+          "page": "152"
+        },
+        {
+          "page": "1685"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0137-01"
+      ]
+    },
+    {
+      "cite": "93 F.3d 656",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7634480
+      ],
+      "weight": 6,
+      "pin_cites": [
+        {
+          "page": "660-61"
+        },
+        {
+          "page": "665"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/93/0656-01"
+      ]
+    },
+    {
+      "cite": "108 F.3d 478",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7631206
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "482-83"
+        },
+        {
+          "page": "478-79"
+        },
+        {
+          "page": "483, 485"
+        },
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/108/0478-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 424",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716358
+      ],
+      "weight": 3,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "430"
+        },
+        {
+          "page": "701-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0424-01"
+      ]
+    },
+    {
+      "cite": "921 F.Supp. 155",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7770972
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "156"
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/921/0155-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 924",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(c)",
+          "parenthetical": "counts eight, ten, and twelve"
+        },
+        {
+          "page": "(c)"
+        },
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2119",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 5,
+      "pin_cites": [
+        {
+          "parenthetical": "counts seven, nine, and eleven"
+        },
+        {
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2322",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "count two"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 371",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "parenthetical": "count one"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "3 L.Ed. 259",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        572722
+      ],
+      "year": 1812,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/11/0032-01"
+      ]
+    },
+    {
+      "cite": "N.Y. Penal Law \u00a7 160.10",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "pin_cites": [
+        {
+          "page": "(3)",
+          "parenthetical": "McKinney 1997"
+        }
+      ],
+      "opinion_index": 1
+    },
+    {
+      "cite": "652 N.Y.S.2d 2",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "case_ids": [
+        34867,
+        35155
+      ],
+      "pin_cites": [
+        {
+          "page": "3"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad2d/234/0148-01",
+        "/ad2d/234/0140-01"
+      ]
+    },
+    {
+      "cite": "234 A.D.2d 140",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        35155
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ad2d/234/0140-01"
+      ]
+    },
+    {
+      "cite": "258 Kan. 694",
+      "category": "reporters:state",
+      "reporter": "Kan.",
+      "case_ids": [
+        457741
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "parenthetical": "defendant charged with felony murder, conspiracy to commit robbery and aggravated robbery in relation to a carjacking resulting in death"
+        },
+        {
+          "page": "621",
+          "parenthetical": "defendant charged with felony murder, conspiracy to commit robbery and aggravated robbery in relation to a carjacking resulting in death"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/kan/258/0694-01"
+      ]
+    },
+    {
+      "cite": "Fla. Stat. \u00a7 812.133",
+      "category": "laws:leg_statute",
+      "reporter": "Fla. Stat.",
+      "year": 1994,
+      "opinion_index": 1
+    },
+    {
+      "cite": "47 Syracuse L.Rev. 1127",
+      "category": "journals:journal",
+      "reporter": "Syracuse L. Rev.",
+      "year": 1997,
+      "opinion_index": 1
+    },
+    {
+      "cite": "499 U.S. 83",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11318028
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "101"
+        },
+        {
+          "page": "1148"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/499/0083-01"
+      ]
+    },
+    {
+      "cite": "270 U.S. 245",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6139213
+      ],
+      "weight": 3,
+      "year": 1926,
+      "pin_cites": [
+        {
+          "page": "251"
+        },
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/270/0245-01"
+      ]
+    },
+    {
+      "cite": "93 F.3d 656",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7634480
+      ],
+      "pin_cites": [
+        {
+          "page": "661"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/93/0656-01"
+      ]
+    },
+    {
+      "cite": "108 F.3d 478",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7631206
+      ],
+      "pin_cites": [
+        {
+          "page": "482"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/108/0478-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 2119",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "parenthetical": "prior to 1994 Amendment"
+        },
+        {
+          "parenthetical": "as amended"
+        }
+      ],
+      "opinion_index": 1
+    }
+  ],
+  "analysis": {
+    "cardinality": 1584,
+    "char_count": 40711,
+    "ocr_confidence": 0.722,
+    "pagerank": {
+      "raw": 1.5741632908245298e-07,
+      "percentile": 0.6792175914503124
+    },
+    "sha256": "e1ff4a45d73f5f660912f7e38031dcd784df9e1f991fa3f2179922c4963508c1",
+    "simhash": "1:7bd6f5ddf65c075a",
+    "word_count": 6620
+  },
+  "last_updated": "2024-02-27T16:47:39.923771+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: McLAUGHLIN and MINER, Circuit Judges, and SCULLIN, District Judge."
+    ],
+    "parties": [
+      "UNITED STATES of America, Appellee, v. Teddy ARNOLD; Charles Robinson; Darrel Jones; David Valentine; Paul Scaglione; and Jeffrey Drake, Defendants, Francois Holloway a/k/a Abdu Ali, Defendant-Appellant."
+    ],
+    "opinions": [
+      {
+        "text": "SCULLIN, District Judge:\nDefendant-Appellant Francois Holloway appeals from a judgment entered in the United States District Court for the Eastern District of New York (Gleeson, J.), following a jury trial, convicting Holloway of numerous offenses connected with his participation in several carjackings in Queens, New York. Holloway was convicted of one count of conspiracy to operate a \u201cchop shop\u201d in violation of 18 U.S.C. \u00a7 371 (count one); one count of operating a chop shop in violation of 18 U.S.C. \u00a7 2322 (count two); three counts of carjacking in violation of 18 U.S.C. \u00a7 2119 (counts seven, nine, and eleven); and three counts of using a firearm in the commission of a crime of violence in violation of 18 U.S.C. \u00a7 924(c) (counts eight, ten, and twelve). Holloway was sentenced to 60 months on count one; 151 months on count two, to run concurrently with count one; 151 months on each of counts seven, nine, and eleven, to run concurrently with each other and counts one and two; 5 years on count eight, to run consecutively; and 20 years each on count ten and count twelve, each to run consecutively. Defendant was also sentenced to terms of supervised release and a special assessment of $400.\nOn appeal, Holloway contends that: (1) the district court erroneously charged the jury on the intent element of the carjacking statute; (2) his trial counsel rendered constitutionally ineffective assistance; and (3) the trial court improperly imposed consecutive sentences pursuant to Holloway\u2019s firearm convictions.\nBACKGROUND\nHolloway\u2019s conviction stems from his involvement in a \u201cchop shop\u201d operation located at 115th Drive in Queens, New York. In September 1994, Teddy Arnold recruited his son, Vernon Lennon, to begin stealing cars to be taken to the chop shop for dismantling. Lennon, in turn, recruited two individuals, David Valentine and Holloway, to assist him in his car thefts. The co-conspirators agreed that they should use a firearm during their thefts, and Lennon showed both Valentine and Holloway a .32 caliber revolver he intended to use for that purpose.\nThe first charged carjacking involving Holloway and Lennon occurred in October 1994. On October 14, Holloway and Lennon followed a 1992 Nissan Maxima driven by sixty-nine year-old Stanley Metzger. When Metzger stopped and parked across from his residence, Lennon approached Metzger and pointed his revolver at him, demanding his car keys. At first, Metzger gave his house keys to Lennon, who rejected them and demanded his car keys. Metzger testified that Lennon told him, \u201cI have a gun. I am going to shoot.\u201d Thereafter, Metzger surrendered his keys and also his money, and Lennon drove away in the Maxima.\nThe following day, Lennon and Holloway followed a 1991 Toyota C\u00e9lica driven by Donna DiFranco. When DiFranco parked, Lennon approached her, leveled his gun at her, and demanded her money and her car keys. After DiFranco disengaged the car alarm and unlocked her \u201cclub\u201d securing the steering wheel, Lennon drove off in her car.\nThat same day, Holloway and Lennon followed a 1988 Mercedes-Benz driven by Ruben Rodriguez until he parked near his home at Jamaica Estates. Both Lennon and Holloway approached the driver this time. Rodriguez, sensing something was wrong, retreated to his car. Lennon produced his gun and threatened, \u201cGet out of the car or I\u2019ll shoot.\u201d Rodriguez complied and Lennon demanded his money and car keys. When Rodriguez hesitated, Holloway punched him in the face. Rodriguez surrendered the items and fled on foot, yelling for help. Lennon drove off in the Mercedes, and Holloway followed in another car.\nAt trial, the Government also presented evidence of two additional uncharged carjackings involving Lennon and Holloway. One involved the theft of a 1987 Nissan Maxima which was stolen from Betty Eng as she parked in her driveway on October 12, 1994. The other uncharged carjacking occurred on October 19, 1994. On that day, Holloway and Lennon attempted to steal a 1994 Nissan Sentra from Sara Markett when she parked her car on 193rd Street in Queens. Lennon threatened Markett, telling her, \u201cGive me your keys or I will shoot you right now.\u201d Thereafter, Markett surrendered her keys and ran screaming into a nearby hair salon. The theft was foiled by an off-duty police officer, Adam Lamboy, who happened to be in the hair salon at that time. Upon seeing Lennon in Markett\u2019s car, Lam-boy yelled, \u201cPolice, don\u2019t move.\u201d Lennon made a motion toward his waist band prompting Lamboy to draw his weapon. Lennon then fled to a red Toyota driven by Holloway, and the two escaped.\nOn November 22, 1994, two of the carjacking victims, Ruben Rodriguez and Sara Markett, identified Holloway as one of the carjackers in a police line-up. Following his identification, Holloway confessed to the police that he had participated with Lennon in three carjackings involving a silver Mercedes-Benz, a black Nissan Maxima, and a gray Nissan. Immediately prior to trial, Lennon pled guilty to several carjacking charges and eight automatic teller machine (\u201cATM\u201d) robberies. Thereafter, Lennon testified at trial as a government witness. Lennon testified as to the events set forth in the above carjackings, as well as seven additional carjackings in which he participated with Valentine. Lennon testified that his plan was to steal the victims\u2019 cars without harming the victims; however, Lennon also testified that he would have used the gun if one of the victims had given him \u201ca hard time\u201d or had resisted.\nThe Government also presented testimony at trial from Rodriguez, Metzger, DiFranco, Eng, and Lamboy. These witnesses presented factually consistent testimony depicting the various carjackings as set forth above. With the exception of Rodriguez, none of the victims was injured during the course of the carjackings, and Rodriguez did not require medical attention.\nThe defense declined to call any witnesses. Over the objection of defense counsel, Judge Gleeson charged the jury on the doctrine of conditional intent, as it applied to the intent element for the carjacking offenses. Judge Gleeson instructed the jury that an intent to cause death or serious bodily harm conditioned on whether the victims surrendered their cars was sufficient to satisfy the specific intent requirement of the statute. As stated, the jury found Holloway guilty on all eight counts charged in the indictment.\nFollowing the verdict, Holloway moved for a new trial pursuant to Rule 33 of the Federal Rules of Criminal Procedure, or in the alternative, for reconsideration of his unsuccessful Rule 29 motion. See United States v. Holloway, 921 F.Supp. 155, 156 (E.D.N.Y.1996). Holloway argued that the Court erred in charging the jury on conditional intent in light of the carjacking statute\u2019s unambiguous specific intent requirement, which requires a carj acker to have the intent to cause death or serious bodily harm in order to be culpable.\nIn a decision issued on April 5,1996, Judge Gleeson denied Holloway\u2019s post-trial motion. On August 16,1996, Holloway was sentenced, and, on August 28, 1996, judgment of conviction was entered. This appeal followed.\nDISCUSSION\nHolloway raises three issues on appeal: (1) whether Judge Gleeson erred in instructing the jury on \u201cconditional intent\u201d; (2) whether the performance of Holloway\u2019s trial counsel was constitutionally deficient so as to require reversal and a new trial; and (3) whether Judge Gleeson abused his discretion by sentencing Holloway to consecutive sentences pursuant to 18 U.S.C. \u00a7 924(c).\nI. Conditional Intent Instruction\nHolloway maintains that Judge Gleeson committed reversible error by charging the jury on the doctrine of \u201cconditional intent.\u201d Holloway contends that: (1) the federal carjacking statute clearly and unambiguously requires that a defendant possess a specific intent to cause death or serious bodily harm (hereinafter \u201cspecific intent to kill\u201d), and (2) conditional intent, by definition, does not satisfy this requirement.\nA. 1994 Amendments to the Carjacking Statute\nHolloway argues that the statute, as amended, is clear and unambiguous on its face, thus preventing the trial court, or this Court for that matter, from inquiring into the intent of Congress or ascribing some alternate construction of the statute based on any perceived error in drafting. See Rubin v. United States, 449 U.S. 424, 430, 101 S.Ct. 698, 701-02, 66 L.Ed.2d 633 (1981)\nPrior to the 1994 Amendments, the federal carjacking statute, 18 U.S.C. \u00a7 2119, read as follows:\nWhoever, possessing a firearm as defined in section 921 of this title, takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall\u2014\n(1) be fined under this title or imprisoned not more than 15 years, or both,\n(2) if serious bodily injury (as defined in section 1365 of this title, including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) results, be fined under this title or imprisoned not more that 25 years, or both, and\n(3) if death results, be fined under this title or imprisoned for any number of years up to life, or both.\nThe Violent Crime Control and Law Enforcement Act of 1994 amended this statute in the following manner:\n(14) CARJACKING.\u2014Section 2119(3) of title 18, United States Code, is amended by striking the period after \u201cboth\u201d and inserting \u201c, or sentenced to death.\u201d; and by striking \u201c^possessing a firearm as defined in section 921 of this title,\u201d and inserting \u201c, with the intent to cause death or serious bodily harm\u201d.\nPub.L. 103-322, \u00a7 60003(a)(14). With these revisions, the statute now reads:\nWhoever, urith the intent to cause death or serious bodily harm takes a motor vehicle that has been transported, shipped, or received in interstate or foreign commerce from the person or presence of another by force and violence or by intimidation, or attempts to do so, shall\u2014\n(1) be fined under this title or imprisoned not more than 15 years, or both,\n(2) if serious bodily injury (as defined in section 1365 o^ this title, including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) results, be fined under this title or imprisoned not more that 25 years, or both, and\n(3) if death results, be fined under this title or imprisoned for any number of years up to life, or both, or sentenced to death.\n18 U.S.C. \u00a7 2119 (1997) (emphasis added).\nThe amendments to the carjacking statute contained in the Violent Crime Control and Enforcement Law Act of 1994 came about as an attempt to expand the number of federal crimes subject to the death penalty. See 140 Cong. Rec. E857-03 (statement of Rep. Franks); 140 Cong. Rec. S12421-01, S12458 (statement of Sen. Nunn); 139 Cong. Rec. S15295-01, 15301 (statement of Sen. Lieberman). The thrust of the various early versions of the amendments was to add the death penalty as a sentencing option when death resulted from a carjacking, and also, in some versions, to eliminate the firearm requirement. See H.R. 4197, 103rd Cong. \u00a7 125(h) (1994) (removed firearm requirement and added death penalty); H.R. 3355, 103rd Cong. \u00a7 203(a)(15) (1993) (version as of October 19, 1993 removed the firearm requirement and added death penalty); H.R. 3355,103rd Cong. \u00a7 703(e) (1994) (version as of April 21, 1994 added the death penalty only). Congressional opposition to the amendments coalesced into two camps: those who opposed the death penalty in general, and those who opposed the expansion of federal criminal jurisdiction. See 140 Cong. Rec. S12309-02, S12311 (statement of Sen. Leahy contained in Conference Report on H.R. 3355); 140 Cong. Rec. H2322-02, H2325 (statement by Rep. Glickman on amendment introduced by Rep. Scott to remove the death penalty addition to the Violent Crime Control Act).\nThe insertion of the heightened intent requirement at issue here occurred at a relatively late stage in the legislative process\u2014 while the Act was under consideration in Conference Committee in the summer of 1994. See 140 Cong. Rec. H8772-03, H8819, H8872 (Conference Report on H.R. 3355 dated August 21, 1994). On September 13, 1994, the Act was signed into law. There is no indication in the Congressional Record as to the purpose of the late-added heightened intent requirement. However, it is clear from a review of legislative history that Congress intended to broaden the coverage of the federal carjacking statute by the passage of the 1994 amendments, and that the application of the heightened intent requirement to all three of the carjacking categories was, in all likelihood, an unintended drafting error. See 139 Cong. Rec. S15295-01, 15301 (statement of Sen. Lieberman) (\u201cThis amendment will broaden and strengthen that law so our U.S. attorneys have every possible tool available to them to attack the problem.\u201d); 140 Cong. Rec. E857-03, E858 (extension of remarks by Rep. Franks) (\u201cWe must send a message to the criminal that committing a violent crime will carry a severe penalty. This legislation will make an additional 22 crimes including carjacking and drive-by shootings, subject to the death penalty.\u201d).\nAt least two courts have speculated that Congress probably intended the heightened intent requirement to apply only to cases where the carjacking resulted in death, that is, those cases falling under \u00a7 2119(3). See United States v. Anderson, 108 F.3d 478, 482-83 (3d Cir.1997), petition for cert. filed (U.S., June 3, 1997) (No. 96-9338); Holloway, 921 F.Supp. at 158. But see United States v. Randolph, 93 F.3d 656, 660-61 (9th Cir.1996). In support of this interpretation, these courts point to the initial wording of the 1994 amendment, \u201cSection 2119(3) of title 18, United States Code, is amended by ....,\u201d as limiting language for the two specific changes set forth within. See Anderson, 108 F.3d at 478-79 (quoting Pub.L. No. 103-322, \u00a7 60003(a)(14)) (emphasis added); see also Holloway, 921 F.Supp. at 158.\nRegardless of the actual intent of Congress in adding this amendment, the practical effect of adding this requirement is to severely limit the scope of conduct covered by the statute. The addition of the heightened intent requirement into the body of the carjacking statute limits federal jurisdiction over all carjacking offenses to only those in which death or serious bodily harm was intended. Notwithstanding that such a result was unintended, the Court declines any invitation to redraft the statute \u2014 that is a task better left to the legislature. Thus, the sole issue this Court must decide is whether the \u201cspecific intent to kill,\u201d as now reflected in 18 U.S.C. \u00a7 2119, encompasses a conditional intent, as defined by Judge Gleeson in his instruction to the jury.\nB. Judge Gleeson\u2019s Instruction\nIn his instruction to the jury, Judge Gleeson charged, in relevant part:\nEvidence that the defendant intended to use a gun to frighten the victims is not sufficient in and of itself to prove an intent to kill or cause serious bodily harm. It is, however, one of the facts you may consider in determining whether the government has met its burden.\nYou may also consider the fact that no victim was actually killed or seriously injured when you consider the evidence or lack of evidence as to the defendant\u2019s intent.\nIn some eases, intent is conditional. That is, a defendant may intend to engage in certain conduct only if a certain event occurs.\nIn this case, the government contends that the defendant intended to cause death or serious bodily harm if the alleged victims had refused to turn over their cars. If you find beyond a reasonable doubt that the defendant had such an intent, the government has satisfied this element of the offense.\nIf you find that the co-defendant, Vernon Lennon, acted with the intent to cause death or serious bodily injury, that is not sufficient. You must find that the defendant shared in that intent before you can conclude that this element has been satisfied.\nHolloway argues that the above instruction was erroneous because it allowed the jury to convict him based on lesser mental state than is required by the carjacking statute. Holloway contends that the plain meaning of \u201cspecific intent to kill\u201d does not include the lesser mental state of \u201cconditional intent,\u201d because a conditional intent to kill is no more than a state of mind where death is a foreseeable event and, as such, is equivalent to a mental state of recklessness or depraved indifference. Holloway contends that such a lesser mental state plainly does not satisfy the intent requirement of the carjacking statute.\nThe Court agrees that a conditional intent to cause death or serious bodily harm and \u201creckless indifference\u201d both involve foreseeability; however, conditional intent requires a much more culpable mental state. A carjacker who plans to kill or use deadly force on a victim in the event that his victim fails to comply with his demands has engaged in willful and deliberate consideration of his actions. Under these circumstances, death is more than merely foreseeable, it is fully contemplated and planned for. Such a mental state is clearly distinguishable from the characterization of conditional intent advanced by Holloway, which only has the earjacker aware of a risk of death of which he chooses to disregard.\nHolloway further argues that the Supreme Court case, Tison v. Arizona, 481 U.S. 137, 107 S.Ct. 1676, 95 L.Ed.2d 127 (1987), forecloses the inclusion of conditional intent within the scope of an ordinary specific intent to kill. In Tison, co-defendants Raymond and Ricky Tison planned an armed jail break to free their father, Gary Tison, and another inmate from the Arizona State Prison. Id. at 139, 107 S.Ct. at 1678-79. After a successful escape from prison, a fiat tire in their getaway car led to the stopping and theft of a family\u2019s car in the desert outside of Flagstaff, Arizona. See id. at 140, 107 S.Ct. at 1679. The defendants witnessed their father brutally execute the family who had been in the car. See id. at 141, 107 S.Ct. at 1679-80. The defendants were found guilty of aggravated felony-murder and sentenced to death. See id. at 142, 107 S.Ct. at 1680. In the context of reviewing a collateral attack on the imposition of the death penalty, the Supreme Court found that under the factual circumstances presented, the defendants lacked a \u201cspecific intent to kill,\u201d and at most had a culpable mental state of reckless indifference to human life. Id. at 152, 107 S.Ct. at 1685. Holloway seizes on this language, characterizing conditional intent as an analogous mental state to that ascribed to the defendants in Tison. Holloway argues that, at best, the proof shows that he and Lennon shared a conditional intent to kill, which only meant that it was foreseeable that death could result from their various carjackings.\nThe facts of Tison are plainly distinguishable from the case at bar. In Tison some violence was foreseeable to the defendants in effecting the jailbreak, however, the murders for which the defendants were convicted were precipitated by a completely unplanned event, the flat tire in the desert. Thus, while it may have been foreseeable to them that death would occur in the course of the escape, the murders that flowed from their breakdown in the desert were not the result of a willful and deliberate plan.\nFurthermore, the inclusion of a conditional intent to harm within the definition of specific intent to harm is a well-established principle of criminal common law. In his decision denying Holloway\u2019s Rule 33 motion, Judge Gleeson cited to state criminal law authority as support for his conditional intent charge. See Holloway, 921 F.Supp. at 159 (citing W.R. LaFave and A.W. Scott, Jr., Handbook on Criminal Law \u00a7 28 at 200 (1972); Model Penal Code \u00a7 2.02(6) (American Law Institute); People v. Connors, 253 Ill. 266, 97 N.E. 643 (1912); Hairston v. Mississippi, 54 Miss. 689 (1877)). Following his decision, the Third Circuit in United States v. Anderson cited to Judge Gleeson\u2019s opinion with approval, finding that \u201cconditional intent\u201d was included within the specific intent required by the carjacking statute. 108 F.3d at 483, 485. The Anderson court also cited to additional authority confirming this principle of criminal law, including the incorporation of the doctrine of conditional intent into some state penal codes. See DeLCode Ann. tit. 11 \u00a7 254 (1996) (\u201cThe fact that a defendant\u2019s intention was conditional is immaterial unless the condition negatives the harm or evil sought to be prevented by the statute defining the offense.\u201d); 18 Pa. Cons.Stat. Ann. 18 \u00a7 302(f) (West 1997) (\u201cRequirement of intent satisfied if intent is conditional \u2014 When a particular intent is an element of an offense, the element is established although such intent is conditional, unless the condition negatives the harm or evil sought to be prevented by the law defining the offense.\u201d); Haw.Rev. Stat. \u00a7 702-209 (1996) (\u2018When a particular intent is necessary to establish an element of an offense, it is immaterial that such intent was conditional unless the condition negatives the harm or evil sought to be prevented by the law prohibiting the offense.\u201d); see also Shaffer v. United States, 308 F.2d 654, 654-55 (5th Cir.1962); People v. Vandelinder, 192 Mich.App. 447, 481 N.W.2d 787, 788-89 (1992); Commonwealth v. Richards, 363 Mass. 299, 293 N.E.2d 854, 860 (1973). But see State v. Irwin, 55 N.C.App. 305, 285 S.E.2d 345, 349 (1982).\nThis Court also finds ample persuasive authority supporting the inclusion of conditional intent within the scope of the specific intent requirement. See People v. Thompson, 93 Cal.App.2d 780, 209 P.2d 819, 820 (1949); People v. Henry, 356 Ill. 141, 190 N.E. 361, 361-62 (1934); Johnson v. State, 605 N.E.2d 762, 765 (Ind.Ct.App.1992); Gregory v. State, 628 P.2d 384, 386 (Okla.Crim.App.1981); see also 40 Am.Jur.2d Homicide \u00a7 571 (1968) (\u201cThe question whether an assault accompanied by a threat to kill unless a demand is complied with is an assault with intent to kill or murder has generally been answered in the affirmative.... \u201d). Furthermore, and most importantly, incorporating conditional intent within the specific intent language of the carjacking statute comports with a reasonable interpretation of the legislative purpose of the statute. The alternative interpretation would have the federal carjacking statute covering only those carjackings in which the carjacker\u2019s sole and unconditional purpose at the time he committed the carjacking was to kill or maim the victim. Such an interpretation would dramatically limit the reach of the carjacking statute. \u201cIt is well-established that \u2018in expounding a statute, we must not be guided by a single sentence or member of a sentence, but look to the provisions of the whole law, and its object and policy.\u2019 \u201d Tomka v. Seiler Corp., 66 F.3d 1295, 1313 (2d Cir.1995) (quoting Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 51, 107 S.Ct. 1549, 1554, 95 L.Ed.2d 39 (1987)). A statute should not be literally applied if it results in an interpretation clearly at odds with the intent of the drafters. See id. While the Court cannot and should not rewrite a poorly drafted statute, it has an obligation to interpret a statute so as to give it reasonable meaning.\nAfter reviewing the substantial body of state law addressing this issue, and the clear legislative purpose of 18 U.S.C. \u00a7 2119, the Court finds that an intent to kill or cause serious bodily harm conditioned on whether the victim relinquishes his or her car is sufficient to fulfill the intent requirement set forth in the federal carjacking statute. Accord Anderson, 108 F.3d at 485. As such, we accept the well-reasoned opinion of the court below, and hold that Judge Gleeson did not err when he instructed the jury on conditional intent.\nII. Ineffective Assistance of Counsel\nHolloway\u2019s second ground for appeal is that he received constitutionally ineffective assistance of counsel, requiring the reversal of his conviction and a new trial. Holloway argues that even though his defense counsel relied on a legally sound argument premised on the lack of specific intent, once Judge Gleeson rejected his argument, Holloway\u2019s conviction was a foregone conclusion. Holloway argues that his trial counsel should have presented his specific intent defense, while at the same time vigorously contesting the evidence concerning all of the other elements in question.\nClaims for ineffective assistance of counsel are analyzed under the framework set forth in Strickland v. Washington, 466 U.S. 668, 686, 104 S.Ct. 2052, 2063-64, 80 L.Ed.2d 674 (1984), which requires that a defendant show \u201c(1) that his attorney\u2019s performance fell below an \u2018objective standard of reasonableness,\u2019 and (2) that \u2018there is a reasonable probability that, but for counsel\u2019s unprofessional errors, the result of the proceeding would have been different.\u2019 \u201d Kieser v. People of State of New York, 56 F.3d 16, 18 (2d Cir.1995) (quoting Strickland, 466 U.S. at 688, 694, 104 S.Ct. at 2064-65, 2068).\nEven if Holloway could establish the first prong of the Strickland test, he has not met his burden on the second prong. The trial counsel\u2019s \u201cintent\u201d defense was appropriately directed at the most questionable aspect of the Government\u2019s case. Trial counsel\u2019s strategy to concede the other elements of the offense was reasonable in light of the overwhelming evidence in the case, i.e., Lennon\u2019s testimony that Holloway assisted him in the carjackings, several victims\u2019 identification of Holloway, and Holloway\u2019s own confession. Holloway\u2019s assertion that the outcome of the trial would have somehow been different had his trial counsel more vigorously contested this testimony is conclusory and unpersuasive given the record before the Court. As such, Holloway\u2019s appeal in this respect lacks merit.\nIII. Imposition of Consecutive Sentences\nFinally, Holloway contests the imposition of consecutive sentences on his firearm convictions pursuant to 18 U.S.C. \u00a7 924(c). Holloway concedes that this Court has already held in United States v. Mohammed that issuing consecutive sentences under the carjacking statute and the firearm statutes based on the same carjacking is constitutionally permissible. 27 F.3d 815, 820-21 (2d Cir.1994). However, Holloway argues that because the trial court lowered the standard of proof for carjacking by allowing a verdict based on conditional intent, then the trial court should be precluded from imposing consecutive sentences based on those offenses. The Court finds this argument to be wholly without merit.\nCONCLUSION\nBased on the foregoing, we affirm the judgment of the district court.\n. We note that since the 1994 amendments there have been several legislative initiatives introduced in Congress that seek to remove the intent portion of the carjacking statute. See The Violent Crime Control and Law Enforcement Act of 1995, S. 3, 104th Cong. \u00a7 717 (1995) (titled \"Elimination of Unjustified Scienter Element for Carjacking\u201d); Omnibus Crime Control Act of 1997, S. 3, 105th Cong. \u00a7 807 (1997) (tided \"Elimination of Unjustified Scienter Element for Carjacking\u201d).\n. Holloway cites to Second Circuit precedent which holds that proof of a reckless or wanton state of mind cannot constitute a specific intent to kill. See, e.g., United States v. Kwong, 14 F.3d 189, 194-95 (2d Cir.1994).\n. The Ninth Circuit seemingly came to the opposite conclusion in United States v. Randolph, 93 F.3d 656, 665 (9th Cir.1996), when it stated, \u2018\u2018[t]he mere conditional intent to harm a victim if she resists is simply not enough to satisfy \u00a72119's new specific intent requirement.\u201d However, in Randolph the only evidence of intent was a threat made by one of the defendants to the victim that \" \u2018she would be okay' if she '[did] what was told of her.' \u201d Id. The Ninth Circuit held that \"more than a mere threat is required to establish a specific intent to kill or harm.\u201d Id. We agree with the Ninth Circuit that without more, a mere threat of harm is not sufficient to establish a specific intent to kill. In fact, Judge Gleeson so charged in his jury instruction.\nWe do, however, disagree with the Ninth Circuit\u2019s dicta that equated a threat of harm to conditional intent. See id. The court stated, \"[the defendant\u2019s] threat was tantamount to a conditional intent to harm.\u201d Id. While a threat is certainly evidence of a conditional intent to harm, conditional intent is not equivalent to a threat, it is much more. Conditional intent implies some indication that the defendant means to make good on his threat to harm. An idle threat can never constitute an intent to kill.",
+        "type": "majority",
+        "author": "SCULLIN, District Judge:"
+      },
+      {
+        "text": "MINER, Circuit Judge,\ndissenting:\nBecause I perceive no basis in the plain language of the statute or in the legislative history for an element of conditional intent in the crime under examination here, I respectfully dissent.\nAs originally cast, the carjacking .legislation established as a federal crime the taking or attempted taking of a motor vehicle having some connection with interstate commerce from the person or presence of another by force, violence or intimidation on the part of one possessing a firearm. See 18 U.S.C. \u00a7 2119 (prior to 1994 Amendment). Enhanced penalties for the infliction of serious bodily injuries or resulting death were provided. See id. \u00a7 2119(2), (3). The statute after amendment defines the crime as the taking or attempted taking of a motor vehicle having some connection with interstate commerce from the person or presence of another by force or violence on the part of one who intends to cause death or serious bodily harm. See id. (as amended). The penalty if death results is further enhanced to include the death penalty. See id. \u00a7 2119(3). The distinctions to be made between the original and the amended statute are clear: the firearm possession requirement is deleted; a specific intent element is added; and the penalty provision is expanded.\nDespite the foregoing, my colleagues approve the district court\u2019s failure to instruct the jury as the statute requires regarding the specific intent to cause death or serious bodily harm, and further approve the following substituted instruction, which allows for conviction on proof of conditional intent:\nIn this case, the government contends that the defendant intended to cause death or serious bodily harm if the alleged victims had refused to turn over their cars. If you find beyond a reasonable doubt that the defendant had such an intent, the government has satisfied this element of the offense.\n(Emphasis added.) What is the provenance of such an instruction? It surely is not the language of the statute itself. It is not even the indictment, for the indictment parrots the statute. The district court therefore was wrong in charging the jury that the government had advanced a conditional intent contention.\nIn arriving at their conclusion, my colleagues first turn to the legislative history and properly note that the amendment to the carjacking statute represented an effort to expand the number of crimes subject to the death penalty, including carjacking where death results. There is also an indication of an intent on the part of Congress to eliminate the firearm requirement. Ultimately, as all agree, the heightened intent requirement was added to the final amending legislation by the Congressional Conference Committee. There is no discernible information on why or how this element was added.\nHow, then, can it be said that \u201cit is clear from a review of legislative history that Congress intended to broaden the coverage of the federal carjacking statute by the passage of the 1994 amendments, and that the application of the heightened intent requirement to all three of the carjacking [penalty] categories was, in all likelihood, an unintended drafting error[?]\u201d Maj. Opn. at 86. No member of Congress has ever referred to \u201can unintended drafting error,\u201d and the congressional intent may well have been to narrow in some respects, as well as broaden in some respects, the statute\u2019s coverage.\nThe scienter requirement of the amended statute has been interpreted in different ways. While one circuit court thinks that Congress intended the specific intent provision to apply only where the carjacking resulted in death, see United States v. Anderson, 108 F.3d 478, 482 (3d Cir.1997), another circuit court considers that the purpose of the amendment was to convert the entire general intent offense to a specific intent offense, see United States v. Randolph, 93 F.3d 656, 661 (9th Cir.1996). But we have no authority to correct an \u201cunintentional drafting error\u201d where there is no reason to say that there is an \u201cerror\u201d or that the statutory provision inserted is \u201cunintended.\u201d By adding a conditional intent element to correct what the court perceives to be an error, we ignore the teaching of the Supreme Court that \u201c[to] supply omissions transcends the judicial function.\u201d Iselin v. United States, 270 U.S. 245, 251, 46 S.Ct. 248, 250, 70 L.Ed. 566 (1926), quoted in West Virginia Univ. Hosps., Inc. v. Casey, 499 U.S. 83, 101, 111 S.Ct. 1138, 1148, 113 L.Ed.2d 68 (1991).\nWe do know that since the enactment of the 1994 amendment to the carjacking statute, Congress has made at least three attempts to eliminate what was termed the \u201cunjustified scienter element for carjacking.\u201d Omnibus Crime Control Act of 1997, S. 3, 105th Cong. \u00a7 807; Violent Crime Control and Law Enforcement Improvement Act of 1995, S. 3, 104th Cong. \u00a7 717 (\u201cVCCLEIA\u201d); see Anti-Gang and Youth Violence Control Act of 1997, S. 362, 105th Cong. \u00a7 2113 (\u201cAGYVCA\u201d). These statutes would eliminate entirely the requirement that the government prove that the defendant possessed the intent to cause death or serious bodily harm. See, e.g., VCCLEIA \u00a7 717 (\u201cSection 2119 of title 18, United States Code, is amended by striking \u2018, with the intent to cause death or serious bodily harm\u2019.\u201d). It is unclear what happened to the earlier attempts to remove the intent element from \u00a7 2119, but the AGYVCA, the most recent effort, presently appears to be before the Senate Judiciary Committee.\nThe only discussion we have concerning the attempts to remove the intent element comes from Senator Leahy\u2019s comments in introducing the AGYVCA. The Senator explained:\nPrior to the enactment of [the Violent Crime Control and Law Enforcement Act], the offense applied only if the defendant possessed a firearm. Section 60003(a)(14) of that law appropriately deleted the firearm requirement, as had been proposed in the Senate-passed bill, but in conference a new scienter element was added that the defendant must have intended to cause death or serious bodily injury. This unique new element will inappropriately make carjackings difficult or impossible to prosecute in certain situations.... The new requirement ... will likely be a fertile [source] of argument for defendants in cases in which no immediate threat of injury occurs, such as where a defendant enters an occupied vehicle while it is stopped at a traffic light and physically removes the driver. Even when a weapon is displayed, the defendant may argue that although it was designed to instill fear, he had no intent to harm the victim had the victim in fact declined to leave the car.\n143 Cong. Rec. S1659, S1661-62 (Feb. 26, 1997) (statement of Sen. Leahy).\nAside from the fact that Senator Leahy\u2019s comments represent the views of only one member of Congress, there is nothing in those comments to indicate that the \u201cscienter element,\u201d as he calls it, was not intentionally placed in the statute when the 1994 Amendment was enacted. He is saying only that the element should be taken out. But, so far, his colleagues have not agreed that this should be done.\nIn this regard, it is of more than passing interest that carjacking is essentially a state offense, and it may well be the intent of Congress to limit the scope of the federal offense. See generally Geraldine Szott Moohr, The Federal Interest in Criminal Law, 47 Syracuse L.Rev. 1127 (1997). Several states have enacted specific carjacking statutes. See, e.g., Fla. Stat. \u00a7 812.133 (1994); Md.Code Ann., Crimes and Punishments \u00a7 348A (1996); Miss.Code Ann. \u00a7 97-3-117 (1994); Va.Code Ann. \u00a7 18.2-58.1 (Michie 1996). The common elements of each of these statutes are the taking of a motor vehicle by threat of force or violence. See, e.g., S.C.Code Ann. \u00a7 16-3-1075(B) (Law Coop. Supp.1996) (\u201cA person is guilty of the felony of carjacking who takes, or attempts to take, a motor vehicle from another person by force and violence or by intimidation while the person is operating the vehicle or while the person is in the vehicle.\u201d). Some states also have enacted specific armed carjacking statutes to address carjackings in which a dangerous weapon is used. See, e.g., D.C.Code Ann. \u00a7 22-2903(b)(l) (1996).\nThose states that do not have a specific carjacking statute, such as New York, prosecute carjackings under the state\u2019s robbery statute. See, e.g., Kansas v. Vincent, 258 Kan. 694, 908 P.2d 619, 621 (1995) (defendant charged with felony murder, conspiracy to commit robbery and aggravated robbery in relation to a carjacking resulting in death); People v. Lee, 234 A.D.2d 140, 652 N.Y.S.2d 2, 3 (1st Dept.1996) (defendant charged with first degree robbery in the gunpoint theft of a car). As with the specific carjacking statutes, these robbery statutes apply to thefts involving the use of threat or force. See, e.g., N.Y. Penal Law \u00a7 160.10(3) (McKinney 1997) (\u201cA person is guilty of robbery in the second degree when he forcibly steals property and when ... [t]he property consists of a motor vehicle.... \u201d). Thus, eyen where there is no specific carjacking statute, carjackings can be prosecuted adequately under state law.\nUltimately, my colleagues seem to reject the legislative intent approach, saying that \u201c[njotwithstanding that such a result was unintended, the Court declines any invitation to redraft the statute \u2014 that is a task better left to the legislature.\u201d Maj. Opn. at 86. (But that in fact is what they have done here.) The majority opinion goes on to find a conditional intent implicit in the carjacking statute as amended, but there is absolutely no basis for such a construction. The intent required is spelled out explicitly in the statute. The other reason assigned for reading conditional intent into the statute \u2014 that \u201cthe inclusion of a conditional intent to harm within the definition of specific intent to harm is a wellestablished principle of criminal common law,\u201d Maj. Opn. at 88 \u2014 is irrelevant here. There is no federal common law of crimes, see United States v. Hudson & Goodwin, 11 U.S. (7 Cranch) 32, 34, 3 L.Ed. 259 (1812), state criminal law supplies no authority for interpreting a federal criminal statute, and the Model Penal Code, cited in the majority opinion, never has been adopted by Congress. In point of fact, I can find no federal criminal statute that provides conditional intent as an element of the crime defined. Nor is there a general provision in the Federal Criminal Code, \u00e1s there is in some state criminal codes, that the requirement of intent is satisfied by proof of conditional intent. See, e.g., Haw.Rev.Stat. \u00a7 702-209 (1993) (\u201cWhen a particular intent is necessary to establish an element of an offense, it is immaterial that such intent was conditional unless the condition negatives the harm or evil sought to be prevented by the law prohibiting the offense.\u201d)\nTo avoid a clear judicial usurpation of congressional authority, I would reverse and remand for a retrial upon instructions conforming with the foregoing analysis.",
+        "type": "dissent",
+        "author": "MINER, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Kevin J. Keating, Law Office of Kevin J. Keating, Garden City, NY, for Defendant-Appellant.",
+      "Dolan L. Garrett, Assistant United States Attorney, Brooklyn, NY (Zachary W. Carter, United States Attorney, Eastern District of New York, Brooklyn, NY, of counsel), for Appellee."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES of America, Appellee, v. Teddy ARNOLD; Charles Robinson; Darrel Jones; David Valentine; Paul Scaglione; and Jeffrey Drake, Defendants, Francois Holloway a/k/a Abdu Ali, Defendant-Appellant.\nNo. 1877, Docket 96-1563.\nUnited States Court of Appeals, Second Circuit.\nArgued June 25, 1997.\nDecided Sept. 16, 1997.\nKevin J. Keating, Law Office of Kevin J. Keating, Garden City, NY, for Defendant-Appellant.\nDolan L. Garrett, Assistant United States Attorney, Brooklyn, NY (Zachary W. Carter, United States Attorney, Eastern District of New York, Brooklyn, NY, of counsel), for Appellee.\nBefore: McLAUGHLIN and MINER, Circuit Judges, and SCULLIN, District Judge.\n. The Honorable Frederick J. Scullin, Jr. of the United States District Court for the Northern District of New York, sitting by designation."
+  },
+  "file_name": "0082-01",
+  "first_page_order": 130,
+  "last_page_order": 140
+}

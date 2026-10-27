@@ -1,0 +1,946 @@
+COURT OF APPEALS 
+STATE OF ARIZONA 
+
+
+DIVISION ONE 
+STATE OF ARIZONA, ex 
+rel., ARIZONA 1 CA-TX 96-0010 
+DEPARTMENT OF 
+REVENUE, DEPARTMENT T 
+Plaintiff-Appellee, ™ _ 
+
+
+‘ (Filed: Apr. 29, 1997) 
+
+
+BLAZE CONSTRUCTION 
+COMPANY, INC., 
+
+
+Defendant-Appellant. 
+
+
+i ee ee ee de ee ee 
+
+
+Appeal from the Arizona Tax Court 
+Cause No. TX 94-00549 
+
+
+The Honorable William J. Schafer, III, Judge 
+REVERSED AND REMANDED 
+
+
+Grant Woods, The Attorney General 
+by Patrick Irvine, Assistant Attorney General 
+
+
+Attorneys for Appellee Phoenix 
+Margrave, Celmins & Verburg 
+
+by Gary Verburg 
+Attorneys for Appellant Phoenix 
+
+
+EHRLICH, Judge 
+
+
+App. 2 
+
+
+The Arizona Department of Revenue (“ADOR”) 
+assessed delinquent Arizona transaction privilege (con- 
+tracting) taxes against taxpayer Blaze Construction Com- 
+pany. The taxes were computed on Blaze’s gross proceeds 
+from building roads for the United States Bureau of 
+Indian Affairs (“BIA”) on Indian reservations within Ari- 
+zona. Blaze protested the assessment, arguing that federal 
+law pre-empted application of the contracting tax. It pre- 
+vailed in the administrative process. 
+
+
+ADOR then brought an action in the tax court, seek- 
+ing to reinstate the assessment. On cross-motions for 
+summary judgment, ADOR prevailed and Blaze appealed 
+to this court, presenting the following issues: 
+
+
+1. Whether Blaze’s pre-emption claim neces- 
+sarily fails given the absence of any federal stat- 
+ute that expressly pre-empted the imposition of 
+state transaction privilege taxes on the gross 
+proceeds from work performed for BIA; 
+
+
+2. Whether the tax court erred in holding that 
+federal law did not impliedly pre-empt the 
+imposition of the tax; and 
+
+
+3. Whether the tax court erred in denying 
+Blaze’s claim for credit against the assessment in 
+the amount of Arizona contracting taxes paid by 
+its subcontractors and suppliers. 
+
+
+FACTS AND PROCEDURAL HISTORY 
+
+
+Blaze was incorporated under the laws of the Black- 
+feet Tribe of Oregon. Blaze Construction Co. v. Taxation and 
+Revenue Dep't of New Mexico, 884 P.2d 803, 804 (N.M. 
+1994), cert. denied __ U.S. __, 115 S.Ct. 1359 (1995). 
+During the audit period of June 1, 1986, through August 
+
+
+App. 3 
+
+
+31, 1990, under contracts with the BIA, it provided road- 
+paving, grading, drainage, overlayment, marking and 
+bridge-building services at locations on six Indian reser- 
+vations within Arizona, those of the Navajo, Hopi, Fort 
+Apache, Colorado River, Tohono O’Odham and San 
+Carlos Apache Indian Tribes. These reservation roads 
+provided access to Indian villages, Indian residences, 
+tribal governmental buildings and other locations used 
+by tribal members. 
+
+
+Each of the road-improvement projects that Blaze 
+undertook for the BIA was funded with Federal Highway 
+Administration (“FHA”) funds. The authorization for the 
+funding was the Federal Lands Highway Program, 23 
+U.S.C. 204 (1994). That statute authorizes the United 
+States Government to establish a coordinated program for 
+highways on federal lands, including forest highways, 
+public-lands highways, park roads, parkways and Indian 
+reservation roads. 
+
+
+Annually, the BIA’s Branch of Roads is told approxi- 
+mately what it will receive under the program for road 
+construction. Over the period from 1989 to 1992, the 
+annual figure was approximately $18 million for the 
+Navajo area. The Navajo Nation has a roads committee 
+that establishes priorities for roads and road-improve- 
+ment projects. Using the Nation’s priority list, the Branch 
+of Roads decides the scope of each project and the 
+amounts of money to be allocated to each. Similar pro- 
+cedures are presumably followed in the other areas 
+involved in this case. 
+
+
+The Branch of Roads issues a specification package 
+for each project. Based on the package, the BIA’s Design 
+
+
+App. 4 
+
+
+Section advertises for bids. The section maintains daily 
+contact with the FHA concerning funding for the project. 
+Once the FHA authorizes a particular sum for the project, 
+the BIA awards the contract. 
+
+
+Several of Blaze’s contracts with the BIA provided for 
+pre-construction meetings at the BIA’s Phoenix office. 
+Blaze used state roads to transport equipment from reser- 
+vation to reservation in performing its BIA contracts. It 
+paid Arizona motor vehicle registration fees, motor car- 
+rier taxes and use fuel taxes. 
+
+
+The State of Arizona did not participate in planning 
+or developing any of Blaze’s projects on reservations in 
+Arizona. It issued no permits. It provided no inspection 
+services related to employment, construction, quality or 
+safety. It provided no maintenance or regular law- 
+enforcement services on any of the reservation roads on 
+which Blaze worked. The tribes provided all of the 
+employment-referral services for each project. Some 85% 
+of the workers whom Blaze employed on the projects are 
+Indians. 
+
+
+State highway services are funded by appropriations 
+from the Arizona Highway User Revenue Fund, the 
+source for which is Arizona fuel taxes. Ariz. Rev. Stat. 
+Ann. (“A.R.S.”) §§ 28-1502, 28-1557. The state also 
+receives funds through three federal programs for high- 
+way resurfacing, rehabilitation and restoration. It receives 
+no more or less of these funds because the roads to which 
+they pertain pass through Indian reservations. None of 
+the portions of reservation roads on which Blaze worked 
+under contracts with the BIA was among those for which 
+
+
+App. 5 
+
+
+the state was responsible to maintain, repair, resurface, 
+rehabilitate or restore. 
+
+
+On May 21, 1993, ADOR issued a revised assessment 
+of contracting privilege taxes against Blaze for the audit 
+period June 1, 1986, through August 31, 1990. ADOR’s 
+hearing officer and, later, its director, rejected Blaze’s 
+protest on the merits. On administrative appeal, the 
+Board of Tax Appeals vacated the assessment, holding 
+that federal law pre-empted application of the contract- 
+ing privilege tax to Blaze’s BIA contract payments. 
+
+
+ADOR brought a refund action in the tax court pur- 
+suant to A.R.S. § 42-124(B) (Supp. 1996). The court held 
+for ADOR, finding dispositive the decision in Department 
+of Revenue v. Hane Construction Co., 115 Ariz. 243, 564 P.2d 
+932 (App. 1977), and Blaze appealed. 
+
+
+DISCUSSION 
+A. Applicability of Indian Law Pre-emption Analysis 
+
+
+Blaze contends that this case is governed by the 
+implied preemption analysis that the United States 
+Supreme Court has repeatedly applied to assertions of 
+state authority over the activities of non-Indians on 
+Indian reservations. It argues that this Indian law pre- 
+emption analysis precludes the state from imposing con- 
+tracting privilege taxes on the proceeds from Blaze’s BIA 
+contracts. 
+
+
+ADOR’s initial response is that Indian law pre-emp- 
+tion analysis does not apply here at all. It argues that, 
+because Blaze’s contracts were with the BIA and not the 
+affected tribes, a more general rule applies: State taxes 
+
+
+App. 6 
+
+
+will be deemed pre-empted only if they are imposed 
+directly on the federal government or if a federal statute 
+expressly preempts them. See United States v. New Mexico, 
+455 U.S. 720 (1982). Relying on the decision of the New 
+Mexico Supreme Court in Blaze Construction, 884 P.2d 803, 
+ADOR claims that Indian law pre-emption analysis 
+applies only when a state attempts to assert authority 
+over the reservation activities of non-Indians who engage 
+directly in commerce with reservation Indians. 
+
+
+The Supreme Court articulated the modern formula- 
+tion of Indian law pre-emption analysis in White Moun- 
+tain Apache Tribe v. Bracker: 
+
+
+When on-reservation conduct involving 
+only Indians is at issue, state law is generally 
+inapplicable, for the State’s regulatory interest is 
+likely to be minimal and the federal interest in 
+encouraging tribal self-government is at its 
+strongest. [Citations omitted.] More difficult ques- 
+tions arise where, as here, a State asserts authority 
+over the conduct of non-Indians engaging in activity 
+on the reservation. In such cases we have exam- 
+ined the language of the relevant federal treaties 
+and statutes in terms of both the broad policies 
+that underlie them and the notions of sover- 
+eignty that have developed from historical tra- 
+ditions of tribal independence. This inquiry is 
+not dependent on mechanical or absolute con- 
+ceptions of state or tribal sovereignty, but has 
+called for a particularized inquiry into the nature of 
+the state, federal, and tribal interests at stake, an 
+inquiry designed to determine whether, in the speci- 
+fic context, the exercise of state authority would 
+violate federal law. 
+
+
+448 U.S. 136, 144-45 (1980) (emphasis added). 
+
+
+App. 7 
+
+
+This formulation neither suggests nor implies that 
+Indian law pre-emption analysis is inapplicable when the 
+on-reservation activities of non-Indians over which the 
+state seeks to exercise authority do not arise out of direct 
+commercial relations with the tribe or a tribal entity. 
+Moreover, nothing in the Court’s application of that anal- 
+ysis in White Mountain suggests that it implicitly follows 
+any such limitation. The identity of the nominal contract- 
+ing party in fact played no part in the inquiry. The Court 
+stated, for example: 
+
+
+.. . Respondents [including the State of Arizona] 
+seek to apply their motor vehicle license and use 
+fuel taxes on Pinetop [the taxpayer] for opera- 
+tions that are conducted solely on Bureau [of 
+Indian Affairs] and tribal roads within the reser- 
+vation. There is no room for these taxes in the 
+comprehensive federal regulatory scheme. In a 
+variety of ways, the assessment of state taxes 
+would obstruct federal policies. And equally 
+important, respondents have been unable to identify 
+any regulatory function or service performed by the 
+State that would justify the assessment of taxes for 
+activities on Bureau and tribal roads within the 
+reservation. 
+
+
+* a7 + 
+
+
+Respondents’ argument is reduced to a 
+claim that they may assess taxes on non-Indians 
+engaged in commerce on the reservation when- 
+ever there is no express congressional statement 
+to the contrary. That is simply nct the law. In a 
+number of cases we have held that state author- 
+ity over non-Indians acting on trioal reserva- 
+tions is pre-empted even though Congress has 
+offered no explicit statement cn the subject. The 
+
+
+App. 8 
+
+
+Court has repeatedly emphasized that there is a sig- 
+nificant geographical component to tribal sover- 
+eignty, a component which remains highly relevant 
+to the pre-emption inquiry; though the reservation 
+boundary is not absolute, it remains an impor- 
+tant factor to weigh in determining whether 
+state authority has exceeded the permissible 
+limits. 
+Id. at 148-49, 150-51 (emphasis added; citations and foot- 
+note omitted). The Court’s sole reference to a supposed 
+dichotomy between the BIA and the tribe indeed runs 
+contrary to ADOR’s contention here. In a footnote to the 
+
+
+first sentence of the passage quoted immediately above, 
+the Court stated: 
+
+
+In oral argument counsel for respondents 
+appeared to concede that the asserted state taxes 
+could not lawfully be applied to tribal roads and 
+was unwilling to defend the contrary conclusion 
+of the court below, which made no distinction 
+between Bureau and tribal roads under state 
+and federal law. . . . For purposes of federal pre- 
+emption, however, we see no basis, and respon- 
+dents point to none, for distinguishing between 
+roads maintained by the Tribe and roads main- 
+tained by the Bureau of Indian Affairs. 
+
+
+Id. at 148 n.14. 
+
+
+Moreover, neither ADOR nor the New Mexico court's 
+opinion in Blaze Construction attempts to identify reason- 
+ing in any of the Court’s other decisions which would 
+support an exception to Indian law pre-emption analysis 
+founded on the absence of direct commercial relations 
+between the taxpayer and the tribe. Both the New Mexico 
+court and ADOR rely principally on the facts from which 
+
+
+App. 9 
+
+
+those decisions happened to arise and not on their rea- 
+soning. 
+
+
+The New Mexico court in Blaze Construction further 
+relies on the view that equating Indian tribes and the BIA 
+improperly ignores tribal sovereignty. In our opinion, this 
+view does not pertain analytically to the pre-emption 
+question. It overlooks the focus of Indian law pre-emp- 
+tion analysis on the occurrence of non-Indian activities on 
+an Indian reservation and the consequent potential that 
+state taxation of those activities will conflict with federal 
+or tribal interests reflected in federal law. 
+
+
+Even less to the point, ADOR argues that “[s]tate 
+jurisdiction over tribes and tribal members can endanger 
+the very existence of tribes, and courts will act to imple- 
+ment federal policy promoting the existence of tribes.” 
+ADOR forgets that the branch of Indian law pre-emption 
+analysis that we consider here concerns assertions of state 
+authority exclusively over non-Indians, not Indian tribes 
+or their members. 
+
+
+In short, Blaze’s challenge to the imposition of Ari- 
+zona’s transaction privilege tax on the gross proceeds 
+from its contracts with the BIA can be resolved only by 
+reference to Indian law pre-emption analysis as devel- 
+oped by the Supreme Court. 
+
+
+B. Application of Indian Law Pre-emption Analysis 
+
+
+In Hane Construction, the taxpayer lined canals on the 
+Colorado River Indian Reservation in accord with a con- 
+tract with the BIA. 115 Ariz. at 244, 564 P.2d at 933. ADOR 
+assessed contracting taxes against its gross proceeds from 
+
+
+App. 10 
+
+
+the job. Id. On ADOR’s appeal from summary judgment 
+for the taxpayer, this court reversed, holding that a bal- 
+ancing of the rights of the federal government, the state 
+and the reservation Indians revealed no implied federal 
+pre-emption of the Arizona contracting tax as applied. Id. 
+at 244-246, 564 P.2d at 933-935. In the instant case, the tax 
+court found the decision in Hane Construction controlling. 
+
+
+Blaze assails the tax court’s ruling on several 
+grounds. It contends that Hane Construction, which preda- 
+ted White Mountain, necessarily failed to take into account 
+the Indian law pre-emption analysis the Supreme Court 
+adopted in that case and applied in those that followed it. 
+According to Blaze, only the more recent Supreme Court 
+cases have made clear that a state’s assertion of authority 
+over non-Indians on a reservation may be pre-empted 
+despite the absence of an express federal pre-emption 
+provision. Further, argues Blaze, it is only of recent origin 
+that a state must justify burdening federal and tribal 
+interests by showing that it performs an on-reservation 
+regulatory function in connection with the specific activ- 
+ity it attempts to tax. Finally, Blaze contends that, in 
+contrast to the taxpayer in Hane Construction, it has iden- 
+tified a specific federal regulatory scheme that Arizona's 
+contracting tax impedes and specific tribal interests that 
+the tax burdens. 
+
+
+Preliminarily, Hane Construction, which was decided 
+on facts and issues identical to those in this case, had 
+never been disapproved and, therefore, it was binding on 
+the tax court. That court correctly left to the appellate 
+courts the question whether Hane Construction remained 
+good law in light of more recent cases. 
+
+
+App. 11 
+
+
+Unlike the tax court, this court is free to reexamine 
+Hane Construction. Having done so, we agree with Blaze 
+that, no matter how close in point Hane Construction may 
+appear to be to this case, Indian law pre-emption analysis 
+has evolved through too many intervening Supreme 
+Court decisions, and the surrounding legal environment 
+has undergone too many intervening changes, for our 
+resolution of this appeal to rest on Hane Construction 
+alone. Our analysis must consider Indian law pre-emp- 
+tion doctrine at its current level of development. See, e.g., 
+Dep't of Taxation and Finance of New York v. Milhelm Attea & 
+Bros., 512 U.S. 61 (1994); Cotton Petroleum Corp. v. New 
+Mexico, 490 U.S. 163 (1989); Ramah Navajo School Bd. v. 
+Bureau of Revenue of New Mexico, 458 U.S. 832 (1982); 
+White Mountain, 448 U.S. at 136. 
+
+
+As we noted above, to test the validity of the state’s 
+assessment against Blaze, we must engage in “a partic- 
+ularized inquiry into the nature of the state, federal, and 
+tribal interests at stake, an inquiry designed to determine 
+whether, in the specific context, the exercise of state 
+authority would violate federal law.” White Mountain, 448 
+U.S. at 145; accord Milhelm Attea & Bros., 512 U.S. at 61; 
+State ex rel. Dep't of Revenue v. Dillon, 170 Ariz. 560, 564, 
+826 P.2d 1186, 1189-90 (App. 1991). Restated more con- 
+cretely, “State jurisdiction is preempted by the operation 
+of federal law if it interferes or is incompatible with 
+federal and tribal interests reflected in federal law, unless 
+the State interests at stake are sufficient to justify the 
+assertion of State authority.” New Mexico v. Mescalero 
+Apache Tribe, 462 U.S. 324, 334 (1983); accord Arizona Dep't 
+of Revenue v. M. Greenberg Construction Co., 182 Ariz. 397, 
+401, 897 P.2d 699, 703 (App. 1995). 
+
+
+App. 12 
+
+
+The first question we thus face here is whether the 
+state’s imposition of its privilege tax on Blaze’s BIA con- 
+tracting payments “interferes or is incompatible with” 
+any federal or tribal interest reflected in federal law. 
+Mescalero, 462 U.S. at 334. Blaze argues that imposition of 
+the tax interferes with three distinct federal policies. 
+
+
+Blaze compares this case with White Mountain and 
+Ramah Navajo School Bd. and argues that it is legally 
+indistinguishable from either. Like the statutory provi- 
+sions and regulations governing Indian-controlled, on- 
+reservation schools in Ramah, Blaze contends that the BIA 
+regulations concerning construction of reservation roads 
+reserve to that agency complete authority over on-reser- 
+vation road improvement contracting, design, project 
+selection, maintenance, use and policing. Ramah, 458 U.S. 
+832; see generally 25 C.F.R. 170.1 through 170.9 (1996). It 
+argues in addition that safe, passable roads are necessary 
+to the success of the BIA’s federally-mandated efforts to 
+provide shelter, medical services, education and other 
+social services to reservation Indians. Indeed, contends 
+Blaze, the BIA road regulations are the same ones on 
+which the Supreme Court in White Mountain held that 
+Arizona’s motor vehicle fuel and use fuel taxes were 
+federally pre-empted. It urges that the imposition of Ari- 
+zona contracting privilege taxes here is incompatible with 
+the federal and tribal interest in channeling all available 
+funding toward building and improving reservation 
+roads. 
+
+
+Blaze further contends that imposing the Arizona 
+contracting tax on payments under the BIA road- 
+improvement contracts directly conflicts with the BIA’s 
+regulations under the Indian Self-Determination and 
+
+
+App. 13 
+
+
+Education Assistance Act, 25 C.F.R. 271.1 through 271.5 
+(1996). It asserts that, under ADOR’s view of this case, 
+ADOR could not have imposed the state contracting tax 
+on Blaze if the reservations’ tribal authorities rather than 
+the BIA had let the contracts in question. It points out 
+that 25 C.F.R. 271.4(d) and (e) express a federal policy in 
+favor of leaving entirely to Indian tribes, free of sanc- 
+tions, the decision whether to apply for contracts with the 
+BIA to plan, conduct or administer BIA programs. Accord 
+25 C.F.R. 271.1(d). Blaze argues that allowing the imposi- 
+tion of state privilege taxes on non-tribal members under 
+contract with the BIA attaches an undesirable conse- 
+quence to a tribe’s decision not to seek to administer 
+construction programs in the BIA’s place by effectively 
+reducing the road-improvement services that the tribes 
+can receive in return for the available federal funding. 
+
+
+Blaze finally asserts, without contradiction by ADOR, 
+that the BIA limits bidding on reservation-road programs 
+to Indian-owned contractors and is not permitted to 
+accord preferences based on bidders’ affiliation with the 
+tribe that controls the reservation where the work is to be 
+done. See 25 U.S.C. 47 (1994) (the Buy Indian Act). Blaze 
+adds that ADOR has tacitly acknowledged that an Indian 
+contractor living and working on his home reservation 
+could not be subjected to the state contracting privilege 
+tas ee McClanahan v. State Tax Comm'n of Arizona, 411 
+U. 164 (1973). Blaze observes that, if ADOR may thus 
+impose the contracting tax on a non-tribal member like 
+Blaze but not on a competing reservation Indian, then it 
+effectively inserts into the reservation road-improvement 
+process a tribal affiliation preference of the kind that 
+federal policy forbids. Blaze contends that imposition of 
+
+
+App. 14 
+
+
+the state contracting tax on non-tribal members who pro- 
+vide on-reservation services under contract with the BIA 
+therefore conflicts with the BIA’s implementation of the 
+Buy Indian Act. 
+
+
+The unsuccessful taxpayer in Hane Construction made 
+no such specific claims of incompatibility between the 
+state’s contracting tax and provisions of federal law.’ To 
+resolve these claims, we necessarily must go beyond the 
+holding of that case. 
+
+
+ADOR answers Blaze’s contentions by attempting to 
+demonstrate that the applicable federal statutes neither 
+express nor imply any congressional intent to pre-empt 
+state taxation of federal contractors on Indian reserva- 
+tions. It notes that 23 U.S.C. 204, which established the 
+Federal Lands Highway Program, from which the BIA 
+obtains funding for reservation road-improvement pro- 
+jects, expresses an intent that all federal-roads and high- 
+ways be treated under the same uniform policies. ADOR 
+concludes from this expression of intent that Congress 
+must have intended that federal contractors on Indian 
+reservations be subject to state taxation to the same extent 
+as all other federal contractors. 
+
+
+We disagree with this analysis. Because 23 U.S.C. 204 
+makes no mention of state taxation of federal contract 
+
+
+1 In Hane Construction, the court stated: “Although the 
+appellee here has suggested that there are federal regulations or 
+other provisions of law which “expressly conflict with the 
+imposition of the transaction privilege tax in this case, it has 
+called no such specific regulations to our attention.” 115 Ariz. at 
+244, 564 P.2d at 933. 
+
+
+App. 15 
+
+
+proceeds, it does not support the view that Congress 
+intended it to address this state taxation topic. 
+
+
+ADOR denies that the BIA’s reservation-road regula- 
+tions amount to a comprehensive federal scheme into 
+which state taxing authority may not intrude. The 
+Supreme Court’s opinion in White Mountain belies that 
+view. There the Court held that Arizona’s imposition of 
+motor vehicle fuel and use fuel taxes on a company that 
+engaged in logging and hauling on a reservation under 
+contract with the tribe was pre-empted by the applicable 
+federal regulatory scheme. 448 U.S. at 147-48. This 
+scheme included the BIA’s comprehensive regulations 
+governing the harvesting and sale of tribal timber and the 
+Secretary of the Interior’s “detailed regulations govern- 
+ing the roads developed by the Bureau of Indian Affairs. 
+25 C.F.R. Part 162 (1979) [now 25 C.F.R. Part 170 (1995)].” 
+
+
+Further, ADOR does not directly respond to Blaze’s 
+analyses in support of its contention that imposing the 
+Arizona contracting tax in this case conflicts with the Buy 
+Indian Act and with the BIA’s regulations under the 
+Indian Self-Determination and Education Assistance Act. 
+Indeed, ADOR does not address the Self-Determination 
+Act at all. Concerning the Buy Indian Act, ADOR cites 
+Washington v. Confederated Tribes of Colville Indian Reserva- 
+{ , 447 U.S. 134 (1980), and the decision in Dillon, 170 
+Ariz. at 560, 826 P.2d at 1186, for the proposition that 
+federal law permits states to treat non-members of the 
+tribe occupying a reservation as non-Indians and there- 
+fore to tax them. 
+
+
+Again we disagree. The essence of the Buy Indian Act 
+is to impose on the Secretary of the Interior, acting 
+
+
+App. 16 
+
+
+through the BIA, the duty to employ Indian labor as far 
+as practicable and to purchase the products of Indian 
+industry in his discretion. 25 U.S.C. 47. The Colville and 
+Dillon cases concerned on-reservation sales of cigarettes 
+produced off-reservation by non-Indians. In neither case 
+did the court consider how the Buy Indian Act might 
+affect the legality of the state taxes challenged in those 
+cases and ADOR does not attempt to explain how the 
+facts of those cases, in which the BIA played no role at 
+all, might have implicated the Buy Indian Act. 
+
+
+ADOR also disputes Blaze’s contention that Ari- 
+zona’s imposition of the contracting privilege tax in this 
+case adversely affected the reservation tribes’ interests. It 
+argues that Blaze’s assertion that more miles of road 
+would have been built were it not for the tax is specula- 
+tive and unsupported by evidence. ADOR additionally 
+cites Gila River Indian Community v. Waddell, 91 F.3d 1232 
+(9th Cir. 1996), and our decision in M. Greenberg Construc- 
+tion, 182 Ariz. 397, 897 P.2d 699, for the proposition that a 
+state may impose a non-discriminatory tax on a non- 
+Indian with whom the United States Government or a 
+tribe does business, even though the economic burden of 
+the tax may fall on the government or the tribe. ADOR 
+argues that, “even if there was some economic harm to 
+the tribes here, that harm without more is insufficient to 
+defeat the tax.” 
+
+
+Both Gila River, 91 F.3d at 1237, and Greenerg, 182 
+Ariz. at 404, 897 P.2d at 706, on which ADOR relies, based 
+their analyses on language in Cotton Petroleum, 490 U.S. at 
+163. An examination of Cotton Petroleum, however, reveals 
+that ADOR misplaces its reliance on Gila River and Green- 
+berg under the circumstances before us here. 
+
+
+te eS et eee othe 
+
+
+App. 17 
+
+
+In Cotton Petroleum, the Court held that a New Mex- 
+ico tax on on-reservation oil production was not pre- 
+empted under Indian law pre-emption analysis. It found 
+that the state tax was not incompatible with the applica- 
+ble federal statutes, and it distinguished both White 
+Mountain and Ramah on the basis that the federal regula- 
+tory schemes applicable in those cases were comprehen- 
+sive, the economic burden of the taxes fell on the tribes 
+and the taxing authorities had asserted no legitimate 
+regulatory interests that might justify the challenged 
+taxes. However, the Court noted that the state regulated 
+the spacing and mechanical integrity of the reservation 
+oil wells, the production from which was subjected to the 
+challenged tax. 
+
+
+We thus conclude that federal law, even 
+when given the most generous construction, 
+does not pre-empt New Mexico’s oil and gas 
+severance taxes. This is not a case in which the 
+State has had nothing to do with the on-reservation 
+activity, save tax it. Nor is this a case in which an 
+unusually large state tax has imposed a substan- 
+tial burden on the Tribe. It is, of course, reasonable 
+to infer that the New Mexico taxes have at least a 
+marginal effect on the demand for on-reservation 
+leases, the value to the Tribe of those leases, and the 
+ability of the Tribe to increase its tax rate. Any 
+impairment to the federal policy favoring the exploi- 
+tation of on-reservation oil and gas resources by 
+Indian tribes that might be caused by these effects, 
+however, is simply too indirect and too insubstantial 
+to support Cotton's claim of pre-emption. To find 
+pre-emption of state taxation in such indirect 
+burdens on this broad congressional purpose, 
+absent some special factor such as those present in 
+Bracker and Ramah Navajo School Bd., would be to 
+
+
+App. 18 
+
+
+return to the pre-1937 doctrine of intergovern- 
+mental tax immunity. Any adverse effect on the 
+Tribe’s finances caused by the taxation of a pri- 
+vate party contracting with the Tribe would be 
+ground to strike the state tax. Absent more 
+explicit guidance from Congress, we decline to 
+return to this long-discarded and thoroughly 
+repudiated doctrine. 
+
+
+490 U.S. at 186-87 (emphasis added). 
+
+
+In contrast to Cotton Petroleum, Gila River and Green- 
+berg, this is not a case in which Arizona can correctly 
+claim to have had anything to do with the “on-reserva- 
+tion activity,” in this case building and improving reser- 
+vation roads, other than taxing it. The BIA’s road 
+regulations, 25 C.F.R. 170.1 through 170.9, give state offi- 
+cials no automatic role in planning, surveying, designing, 
+constructing, repairing, using or maintaining the BIA 
+roads on Indian reservations. The sole reference to state 
+participation in those processes is in 25 C.F.R. 170.7 
+(1995), which allows the BIA to solicit agreements for the 
+states’ voluntary cooperation in building and maintaining 
+certain roads and bridges, “especially at those locations 
+where road projects serve non-Indian land as well as 
+Indian land.” 
+
+
+The record in this case reveals no such agreement 
+with Arizona. Further, ADOR makes no claim that the 
+state provided regulatory or other services related to 
+improving, maintaining or using any of the reservation 
+roads at issue here. Instead, ADOR’s position is that it 
+need not have provided services directly related to the 
+on-reservation activity subject to taxation to establish a 
+state interest “sufficient to justify the assertion of State 
+
+
+App. 19 
+
+
+authority.” Mescalero Apache Tribe, 462 U.S. at 334. ADOR 
+argues that Arizona’s activities in maintaining and repair- 
+ing major highways that allow access to the BIA roads, its 
+expenditure of significant sums that assist school districts 
+in educating reservation residents? and the general gov- 
+ernmental services it provides to Blaze off the reserva- 
+tions, adequately established such an interest under 
+Indian law pre-emption analysis. It relies on Gila River, 91 
+F.3d at 1232, Salt River Pima-Maricopa Indian Community v. 
+State of Arizona, 50 F.3d 734 (9th Cir.), cert. denied 
+__U.S.__, 116 S.Ct. 186 (1995), and the New Mexico 
+Court’s decision in Blaze Construction, 884 P.2d at 803. 
+
+
+Salt River fails to support the proposition for which 
+ADOR cites it. The contention that the Ninth Circuit 
+rejected in that case was not that the state had to perform 
+a regulatory function or service in connection with the 
+on-reservation activity to acquire an interest sufficient to 
+tax it. The taxpayer’s contention was, instead, that the tax 
+was invalid unless the state provided services to the 
+reservation tribe that were “proportional” to the state 
+taxes generated by the on-reservation activities. 50 F.3d at 
+737-38. Contrary to ADOR’s implication, this contention 
+presupposed nothing about the existence of a direct con- 
+nection between the state’s governmental services and 
+the taxpayer’s on-reservation activities. It promoted 
+instead the view that, to collect the challenged state taxes, 
+the state had to show that it provided the tribe with 
+services of roughly equivalent value in return. The court 
+
+
+2 The state additionally provides considerable funding and 
+many services to public school districts in Arizona, including 
+those wholly or partly on Indian reservations. 
+
+
+App. 20 
+
+
+in Salt River correctly rejected this contention based on 
+language in Part IV of Cotton Petroleum, which addressed 
+the taxpayer’s distinct argument in that case that the tax 
+violated the Due Process and Indian Commerce Clauses 
+of the United States Constitution. Salt River, 50 F.3d at 
+737-738.9 
+
+
+Later on, however, summarily and without explana- 
+tion, a different panel of the Ninth Circuit drew Salt 
+River's analysis of the proportionality contention into its 
+own analysis of a distinct Indian law pre-emption issue. 
+Gila River, 91 F.3d at 1232, 1239. The court in Gila River 
+
+
+3 The Court stated: 
+
+
+... [T]here is no constitutional requirement that the 
+benefits received from a taxing authority by an 
+ordinary commercial taxpayer — or by those living in 
+the community where the taxpayer is located - must 
+equal the amount of its tax obligations. 
+
+fs? 
+
+
+Cotton, in effect, asks us to divest New Mexico of 
+its normal latitude because its taxes have “some 
+connection” to commerce with the Tribe. The 
+connection, however, is by no means close enough. 
+There is simply no evidence in the record that the tax 
+has had an adverse effect on the Tribe’s ability to 
+attract oil and gas lessees. It is, of course, reasonable 
+to infer that the existence of the state tax imposes 
+some limit on the profitability of Indian oil and gas 
+leases — just as it no doubt imposes a limit on the 
+profitability of off-reservation leasing arrangements — 
+but that is precisely the same indirect burden that we 
+rejected as a basis for granting non-Indian contractors 
+an immunity from state taxation. .. . 
+
+
+490 U.S. at 190-91 (citations omitted). 
+
+
+App. 21 
+
+
+presented Salt River’s quotation from the Indian Com- 
+merce Clause discussion in Cotton Petroleum as if the 
+court in Salt River had invoked that language to reject a 
+contention in the tribe’s pre-emption analysis “that there 
+be a direct connection between the state sales tax reve- 
+nues and the services provided to the Tribe... .” Id. at 
+1239. As we observed above, however, the tribe in Salt 
+River made no such contention and the court expressed 
+no view on that point. 
+
+
+The New Mexico Supreme Court employed the same 
+misinterpretation of Cotton Petroleum in Blaze Construc- 
+tion, 884 P.2d at 808-09. This misunderstanding formed 
+the basis on which the court rejected the conclusion of its 
+intermediate appellate court that New Mexico provided 
+insufficient regulatory or other services in connection 
+with Blaze’s on-reservation activities in that state to jus- 
+tify taxing Blaze’s proceeds. 
+
+
+The Court [of Appeals] first erred by hold- 
+ing that the state gross receipts tax was pre- 
+empted because “the State has identified 
+absolutely no interest in the [road-construction] 
+activity.” Id. [871 P.2d at 1371]. As part of the 
+preemption analysis, Bracker and Ramah both 
+held the state must identify a regulatory func- 
+tion or service performed that would justify the 
+tax. Ramah, 458 U.S. at 843-44; Bracker, 448 U.S. 
+at 150. Both cases held that the state’s general 
+interest in raising revenue through taxes was 
+not sufficient justification for imposing the tax. 
+Ramah, 458 U.S. at 845; Bracker, 448 U.S. at 150. 
+However, Cotton Petroleum abandoned the quid 
+pro quo theory of taxation articulated in Bracker 
+and Ramah. In Cotton Petroleum, the Court 
+rejected the corporation’s argument that “tax 
+
+
+App. 22 
+
+
+payments by reservation lessees far exceeded] 
+the value of services provided by the State to the 
+lessees.” 490 U.S. at 189. The Court noted that 
+“the relevant services provided by the State 
+include those that are available to the lessees 
+and the members of the Tribe off the reservation 
+as well as on it.” Id. 
+
+
+* * * 
+
+
+Applying Cotton Petroleum to Blaze and Arco, 
+we conclude that it was irrelevant that the state 
+did not identify specific services or regulatory 
+functions provided in exchange for taxes col- 
+lected. Taxes are not imposed in exchange for 
+services provided. Instead, taxes are a means of 
+distributing the cost of government among the 
+general population, including its Indian citizens. 
+The state thus had an interest in taxing for the 
+common good - i.e., the welfare of its entire 
+populace, Indian and non-Indian alike. We hold 
+that the interest in raising revenue was suffi- 
+cient to justify levying the gross receipts tax on 
+Blaze and Arco. We hold that the Court of 
+Appeals erred by disregarding Cotton Petroleum 
+and holding that state taxes must be directly 
+linked to a state interest in the activity being 
+taxed. 
+
+
+Id. 
+
+
+Contrary to the court’s an

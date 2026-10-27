@@ -1,0 +1,50 @@
+﻿[
+    {
+        "path":  "terms/OT1998/freeze/OT_1998CHUNK5_A_NEUTRAL.md",
+        "sha256":  "A5396400461E6199655FC4F2B626496371EAB55F7BBB9210B786E91A99292569"
+    },
+    {
+        "path":  "terms/OT1998/freeze/OT_1998CHUNK5_A_COMMITMENTS.md",
+        "sha256":  "7E7DC5AD97CC49D444D1D12845B80CE96277B1D6F08E6BC6B385A201EB45C049"
+    },
+    {
+        "path":  "terms/OT1998/freeze/OT_1998CHUNK5_A_RECONCILED.md",
+        "sha256":  "99D47B9B842E92A95EC7CFF0ADD0A40DB43F835CB7857DE7634F36D715648E35"
+    },
+    {
+        "path":  "terms/OT1998/runtime/OT_1998CHUNK5_A_RECONCILED.md",
+        "sha256":  "99D47B9B842E92A95EC7CFF0ADD0A40DB43F835CB7857DE7634F36D715648E35"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/97-9217.ZS.txt",
+        "sha256":  "4E703667A3D13573714CADA37BEA84EFC506CE09C62320EA018354F1483562B6"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/97-9217.ZO.txt",
+        "sha256":  "47D9B44C33BED5CD2E6E6764D23B92CC5CD4FE85E0C8CB23EB505FD0A085115F"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/97-9217.ZC.txt",
+        "sha256":  "2727DD3631C40B964120036B5B60DA147C4E299194BB80E7E6A819623669FA9E"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/97-1536.ZS.txt",
+        "sha256":  "E89C39A4ED4F42250FF3513571009CFB32B9D9E53C43D090BA36C87D8FA06239"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/97-1536.ZO.txt",
+        "sha256":  "63FB00397ABFBFE57E4398D12EB0E15022612605955D296E9FA02FE50CDE880E"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/96-1793.ZS.txt",
+        "sha256":  "5F3D4F12FBD83A1CF312F480C6C8BEDF21B3B3B2B7E04FE3E55EB47D4CD18AE8"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/96-1793.ZO.txt",
+        "sha256":  "66FB5B3746889CE53D412066EF27D213FB555758D0B8BE602114C021528B85AF"
+    },
+    {
+        "path":  "terms/OT1998/sources/chunk5_control_comparator/96-1793.ZD.txt",
+        "sha256":  "16E52418B94A67ACEE7A74E92314E8ED0C1223A861DA1832C1F302F92B16B971"
+    }
+]

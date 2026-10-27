@@ -1,0 +1,2622 @@
+{
+  "id": 22569,
+  "name": "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee; Walter Burnhart LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee",
+  "name_abbreviation": "LaGrand v. Stewart",
+  "decision_date": "1998-01-16",
+  "docket_number": "Nos. 95-99010, 95-99011",
+  "first_page": "1253",
+  "last_page": "1279",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "133 F.3d 1253"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "513 U.S. 947",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333570,
+        1331522,
+        1334212,
+        1332101,
+        1332682,
+        1332075,
+        1334318,
+        1332494,
+        1333267,
+        1335094,
+        1333975,
+        1335160
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0947-12",
+        "/us/513/0947-05",
+        "/us/513/0947-07",
+        "/us/513/0947-04",
+        "/us/513/0947-01",
+        "/us/513/0947-02",
+        "/us/513/0947-08",
+        "/us/513/0947-09",
+        "/us/513/0947-06",
+        "/us/513/0947-11",
+        "/us/513/0947-03",
+        "/us/513/0947-10"
+      ]
+    },
+    {
+      "cite": "515 U.S. 1165",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1563937,
+        1564293,
+        1563877,
+        1564191,
+        1564557,
+        1563760,
+        1563825,
+        1563666,
+        1564403,
+        1563954,
+        1563733,
+        1564442,
+        1564059,
+        1563839
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/515/1165-05",
+        "/us/515/1165-01",
+        "/us/515/1165-03",
+        "/us/515/1165-13",
+        "/us/515/1165-11",
+        "/us/515/1165-06",
+        "/us/515/1165-10",
+        "/us/515/1165-12",
+        "/us/515/1165-08",
+        "/us/515/1165-14",
+        "/us/515/1165-04",
+        "/us/515/1165-02",
+        "/us/515/1165-09",
+        "/us/515/1165-07"
+      ]
+    },
+    {
+      "cite": "513 U.S. 1120",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1335808,
+        1334146,
+        1331587,
+        1334533,
+        1334277,
+        1333351,
+        1330376,
+        1334603,
+        1331340,
+        1330603,
+        1335091,
+        1333429,
+        1335286,
+        1330455,
+        1331513,
+        1333818
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/1120-07",
+        "/us/513/1120-14",
+        "/us/513/1120-13",
+        "/us/513/1120-15",
+        "/us/513/1120-04",
+        "/us/513/1120-02",
+        "/us/513/1120-11",
+        "/us/513/1120-01",
+        "/us/513/1120-10",
+        "/us/513/1120-12",
+        "/us/513/1120-08",
+        "/us/513/1120-03",
+        "/us/513/1120-16",
+        "/us/513/1120-09",
+        "/us/513/1120-05",
+        "/us/513/1120-06"
+      ]
+    },
+    {
+      "cite": "514 U.S. 1026",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339746,
+        1338851,
+        1340420,
+        1339524,
+        1339781,
+        1340298,
+        1340139,
+        1339916,
+        1339821,
+        1339278,
+        1339662,
+        1339471,
+        1339604,
+        1339255,
+        1339352
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/1026-11",
+        "/us/514/1026-05",
+        "/us/514/1026-02",
+        "/us/514/1026-14",
+        "/us/514/1026-08",
+        "/us/514/1026-10",
+        "/us/514/1026-04",
+        "/us/514/1026-06",
+        "/us/514/1026-01",
+        "/us/514/1026-15",
+        "/us/514/1026-03",
+        "/us/514/1026-07",
+        "/us/514/1026-09",
+        "/us/514/1026-12",
+        "/us/514/1026-13"
+      ]
+    },
+    {
+      "cite": "513 U.S. 934",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1330434,
+        1334531,
+        1331299,
+        1332809,
+        1331786,
+        1331884,
+        1334413,
+        1332268,
+        1330668,
+        1335789,
+        1332632,
+        1333209,
+        1333978,
+        1331486
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0934-14",
+        "/us/513/0934-10",
+        "/us/513/0934-05",
+        "/us/513/0934-12",
+        "/us/513/0934-11",
+        "/us/513/0934-13",
+        "/us/513/0934-04",
+        "/us/513/0934-01",
+        "/us/513/0934-07",
+        "/us/513/0934-08",
+        "/us/513/0934-06",
+        "/us/513/0934-02",
+        "/us/513/0934-03",
+        "/us/513/0934-09"
+      ]
+    },
+    {
+      "cite": "493 U.S. 944",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11427200,
+        11427394,
+        11427234,
+        11427112,
+        11427018,
+        11427448,
+        11427353,
+        11427159,
+        11427064,
+        11427289
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0944-05",
+        "/us/493/0944-09",
+        "/us/493/0944-06",
+        "/us/493/0944-03",
+        "/us/493/0944-01",
+        "/us/493/0944-10",
+        "/us/493/0944-08",
+        "/us/493/0944-04",
+        "/us/493/0944-02",
+        "/us/493/0944-07"
+      ]
+    },
+    {
+      "cite": "502 U.S. 895",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6466021,
+        6466949,
+        6466502,
+        6465640,
+        6466602,
+        6465772,
+        6465709,
+        6467052,
+        6465937,
+        6466706,
+        6466099,
+        6466839,
+        6466329,
+        6465852,
+        6466397
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0895-06",
+        "/us/502/0895-14",
+        "/us/502/0895-10",
+        "/us/502/0895-01",
+        "/us/502/0895-11",
+        "/us/502/0895-03",
+        "/us/502/0895-02",
+        "/us/502/0895-15",
+        "/us/502/0895-05",
+        "/us/502/0895-12",
+        "/us/502/0895-07",
+        "/us/502/0895-13",
+        "/us/502/0895-08",
+        "/us/502/0895-04",
+        "/us/502/0895-09"
+      ]
+    },
+    {
+      "cite": "510 U.S. 1191",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        235584,
+        231778,
+        232836,
+        232292,
+        235114,
+        232689,
+        230194,
+        230938,
+        235863,
+        234010
+      ],
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/1191-01",
+        "/us/510/1191-07",
+        "/us/510/1191-09",
+        "/us/510/1191-10",
+        "/us/510/1191-03",
+        "/us/510/1191-08",
+        "/us/510/1191-06",
+        "/us/510/1191-04",
+        "/us/510/1191-02",
+        "/us/510/1191-05"
+      ]
+    },
+    {
+      "cite": "514 U.S. 1071",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1339297,
+        1339621,
+        1340455,
+        1339305,
+        1339083,
+        1340365,
+        1339085,
+        1339758,
+        1339984,
+        1338927,
+        1339893,
+        1338716,
+        1339930,
+        1339164,
+        1338621
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/514/1071-08",
+        "/us/514/1071-09",
+        "/us/514/1071-13",
+        "/us/514/1071-11",
+        "/us/514/1071-01",
+        "/us/514/1071-04",
+        "/us/514/1071-15",
+        "/us/514/1071-06",
+        "/us/514/1071-03",
+        "/us/514/1071-10",
+        "/us/514/1071-02",
+        "/us/514/1071-05",
+        "/us/514/1071-14",
+        "/us/514/1071-07",
+        "/us/514/1071-12"
+      ]
+    },
+    {
+      "cite": "449 U.S. 986",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11813168,
+        11813105,
+        11813043,
+        11812918,
+        11812982,
+        11813278
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0986-05",
+        "/us/449/0986-04",
+        "/us/449/0986-03",
+        "/us/449/0986-01",
+        "/us/449/0986-02",
+        "/us/449/0986-06"
+      ]
+    },
+    {
+      "cite": "513 U.S. 1117",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1335137,
+        1334019,
+        1331589,
+        1330949,
+        1332357,
+        1330821,
+        1331406,
+        1330512,
+        1333809,
+        1331223,
+        1335157,
+        1333687,
+        1332344,
+        1333340
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/1117-03",
+        "/us/513/1117-07",
+        "/us/513/1117-11",
+        "/us/513/1117-14",
+        "/us/513/1117-12",
+        "/us/513/1117-10",
+        "/us/513/1117-13",
+        "/us/513/1117-04",
+        "/us/513/1117-08",
+        "/us/513/1117-01",
+        "/us/513/1117-02",
+        "/us/513/1117-09",
+        "/us/513/1117-05",
+        "/us/513/1117-06"
+      ]
+    },
+    {
+      "cite": "516 U.S. 1143",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        324453,
+        325800,
+        325588,
+        328251,
+        327003,
+        327261,
+        328638
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/1143-02",
+        "/us/516/1143-07",
+        "/us/516/1143-06",
+        "/us/516/1143-01",
+        "/us/516/1143-05",
+        "/us/516/1143-03",
+        "/us/516/1143-04"
+      ]
+    },
+    {
+      "cite": "76 Minn.L.Rev. 521",
+      "category": "journals:journal",
+      "reporter": "Minn. L. Rev.",
+      "year": 1992,
+      "opinion_index": 0
+    },
+    {
+      "cite": "69 Geo.L.J. 851",
+      "category": "journals:journal",
+      "reporter": "Geo. L.J.",
+      "year": 1981,
+      "opinion_index": 0
+    },
+    {
+      "cite": "456 U.S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "134-35",
+          "parenthetical": "\"[T]he burden of justifying federal habeas relief for state prisoners is greater than the showing required to establish plain error on direct appeal.\""
+        },
+        {
+          "page": "1575",
+          "parenthetical": "\"[T]he burden of justifying federal habeas relief for state prisoners is greater than the showing required to establish plain error on direct appeal.\""
+        },
+        {
+          "parenthetical": "\"[T]he burden of justifying federal habeas relief for state prisoners is greater than the showing required to establish plain error on direct appeal.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "518 U.S. 37",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1729821
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "2021-22",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/518/0037-01"
+      ]
+    },
+    {
+      "cite": "433 U.S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "458 U.S. 782",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        636586
+      ],
+      "weight": 3,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/458/0782-01"
+      ]
+    },
+    {
+      "cite": "461 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11298090
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "13-14"
+        },
+        {
+          "page": "1617-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/461/0001-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 311",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 357",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 F.3d 1469",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10515451
+      ],
+      "pin_cites": [
+        {
+          "page": "1475"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/20/1469-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 796",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 915",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "20 F.3d 950",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10513050
+      ],
+      "pin_cites": [
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/20/0950-01"
+      ]
+    },
+    {
+      "cite": "132 L.Ed.2d 865",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 2624",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6466872
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/vet-app/8/2624-01"
+      ]
+    },
+    {
+      "cite": "965 F.2d 952",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10524546
+      ],
+      "pin_cites": [
+        {
+          "page": "960"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/965/0952-01"
+      ]
+    },
+    {
+      "cite": "111 F.2d 454",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "458"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "798 F.2d 374",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1610022
+      ],
+      "pin_cites": [
+        {
+          "page": "376"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/798/0374-01"
+      ]
+    },
+    {
+      "cite": "126 Ariz. 28",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1598713
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "31"
+        },
+        {
+          "page": "487"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/126/0028-01"
+      ]
+    },
+    {
+      "cite": "133 Ariz. 4",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        735458
+      ],
+      "weight": 2,
+      "year": 1982,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/133/0004-01"
+      ]
+    },
+    {
+      "cite": "133 Ariz. 12",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        735361
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/133/0012-01"
+      ]
+    },
+    {
+      "cite": "129 Ariz. 32",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1600769
+      ],
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "35-36"
+        },
+        {
+          "page": "583-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/129/0032-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 759",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058501
+      ],
+      "weight": 3,
+      "year": 1970,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0759-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 802",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 923",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 F.3d 1312",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1840534
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1326-27"
+        },
+        {
+          "page": "1326-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/29/1312-01"
+      ]
+    },
+    {
+      "cite": "131 L.Ed.2d 232",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 1378",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "37 F.3d 504",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1848591
+      ],
+      "pin_cites": [
+        {
+          "page": "508"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/37/0504-01"
+      ]
+    },
+    {
+      "cite": "103 L.Ed.2d 244",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 1178",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "489 U.S. 1046",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12060563,
+        12060495,
+        12060639
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/489/1046-02",
+        "/us/489/1046-01",
+        "/us/489/1046-03"
+      ]
+    },
+    {
+      "cite": "855 F.2d 1388",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10536653
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1421"
+        },
+        {
+          "page": "1421"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/855/1388-01"
+      ]
+    },
+    {
+      "cite": "914 F.2d 1158",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "1170"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "466 U.S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6204802
+      ],
+      "weight": 10,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "698"
+        },
+        {
+          "page": "2069"
+        },
+        {
+          "page": "688"
+        },
+        {
+          "page": "697"
+        },
+        {
+          "page": "688"
+        },
+        {
+          "page": "689"
+        },
+        {
+          "page": "691"
+        },
+        {
+          "page": "687-88"
+        },
+        {
+          "page": "698"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0668-01"
+      ]
+    },
+    {
+      "cite": "21 F.3d 1446",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11328220
+      ],
+      "pin_cites": [
+        {
+          "page": "1451"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/21/1446-01"
+      ]
+    },
+    {
+      "cite": "971 F.2d 55",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10512671
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/971/0055-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 289",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 330",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 F.3d 1374",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10515421
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/10/1374-01"
+      ]
+    },
+    {
+      "cite": "448 U.S. 56",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787607
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0056-01"
+      ]
+    },
+    {
+      "cite": "126 L.Ed.2d 203",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 250",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1993,
+      "opinion_index": 0
+    },
+    {
+      "cite": "510 U.S. 891",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        232673,
+        232997,
+        230662,
+        234471,
+        235179,
+        232621,
+        232303,
+        235282,
+        233076,
+        231797,
+        233079,
+        230584,
+        232029,
+        231838
+      ],
+      "year": 1993,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/0891-04",
+        "/us/510/0891-06",
+        "/us/510/0891-09",
+        "/us/510/0891-02",
+        "/us/510/0891-10",
+        "/us/510/0891-01",
+        "/us/510/0891-11",
+        "/us/510/0891-12",
+        "/us/510/0891-03",
+        "/us/510/0891-14",
+        "/us/510/0891-07",
+        "/us/510/0891-05",
+        "/us/510/0891-13",
+        "/us/510/0891-08"
+      ]
+    },
+    {
+      "cite": "994 F.2d 524",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513755
+      ],
+      "pin_cites": [
+        {
+          "page": "528"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/994/0524-01"
+      ]
+    },
+    {
+      "cite": "581 F.2d 182",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        861828
+      ],
+      "pin_cites": [
+        {
+          "page": "188"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/581/0182-01"
+      ]
+    },
+    {
+      "cite": "107 L.Ed.2d 336",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 S.Ct. 348",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "881 F.2d 878",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11291503
+      ],
+      "pin_cites": [
+        {
+          "page": "882-83"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/881/0878-01"
+      ]
+    },
+    {
+      "cite": "42 F.3d 384",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7415902
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "386"
+        },
+        {
+          "page": "387"
+        },
+        {
+          "page": "386"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/42/0384-01"
+      ]
+    },
+    {
+      "cite": "512 U.S. 594",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39579
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "599-600",
+          "parenthetical": "noting that judges in federal cases must separate the incriminatory portions of statements from other portions for purposes of Rule 804(b)(3"
+        },
+        {
+          "page": "2434-35",
+          "parenthetical": "noting that judges in federal cases must separate the incriminatory portions of statements from other portions for purposes of Rule 804(b)(3"
+        },
+        {
+          "parenthetical": "noting that judges in federal cases must separate the incriminatory portions of statements from other portions for purposes of Rule 804(b)(3"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0594-01"
+      ]
+    },
+    {
+      "cite": "328 U.S. 750",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        377132
+      ],
+      "weight": 3,
+      "year": 1946,
+      "pin_cites": [
+        {
+          "page": "776"
+        },
+        {
+          "page": "1253"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/328/0750-01"
+      ]
+    },
+    {
+      "cite": "507 U.S. 619",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6235767
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "623",
+          "parenthetical": "quoting Kotteakos v. United States, 328 U.S. 750, 776, 66 S.Ct. 1239, 1253, 90 L.Ed. 1557 (1946)"
+        },
+        {
+          "page": "1716",
+          "parenthetical": "quoting Kotteakos v. United States, 328 U.S. 750, 776, 66 S.Ct. 1239, 1253, 90 L.Ed. 1557 (1946)"
+        },
+        {
+          "parenthetical": "quoting Kotteakos v. United States, 328 U.S. 750, 776, 66 S.Ct. 1239, 1253, 90 L.Ed. 1557 (1946)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/507/0619-01"
+      ]
+    },
+    {
+      "cite": "130 L.Ed.2d 797",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 916",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "513 U.S. 1118",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1335681,
+        1333411,
+        1332037,
+        1332902,
+        1333801,
+        1335658,
+        1330352,
+        1332243,
+        1334548,
+        1331125,
+        1335574,
+        1335002,
+        1335803,
+        1333407
+      ],
+      "year": 1995,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/1118-07",
+        "/us/513/1118-14",
+        "/us/513/1118-10",
+        "/us/513/1118-05",
+        "/us/513/1118-01",
+        "/us/513/1118-08",
+        "/us/513/1118-11",
+        "/us/513/1118-03",
+        "/us/513/1118-02",
+        "/us/513/1118-04",
+        "/us/513/1118-13",
+        "/us/513/1118-12",
+        "/us/513/1118-06",
+        "/us/513/1118-09"
+      ]
+    },
+    {
+      "cite": "26 F.3d 1392",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10516200
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1397"
+        },
+        {
+          "page": "1397-98"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/26/1392-01"
+      ]
+    },
+    {
+      "cite": "116 L.Ed.2d 218",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "112 S.Ct. 265",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "933 F.2d 536",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10542242
+      ],
+      "pin_cites": [
+        {
+          "page": "538"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/933/0536-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 683",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12764
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "690",
+          "parenthetical": "\"[W]e have never questioned the power of States to exclude evidence through the application of evidentiary rules that themselves serve the interests of fairness and reliability-even if the defendant would prefer to see the evidence admitted.\""
+        },
+        {
+          "page": "2146",
+          "parenthetical": "\"[W]e have never questioned the power of States to exclude evidence through the application of evidentiary rules that themselves serve the interests of fairness and reliability-even if the defendant would prefer to see the evidence admitted.\""
+        },
+        {
+          "parenthetical": "\"[W]e have never questioned the power of States to exclude evidence through the application of evidentiary rules that themselves serve the interests of fairness and reliability-even if the defendant would prefer to see the evidence admitted.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0683-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28133
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/483/0044-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 14",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167274
+      ],
+      "weight": 3,
+      "year": 1967,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0014-01"
+      ]
+    },
+    {
+      "cite": "442 U.S. 95",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532020
+      ],
+      "weight": 3,
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0095-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957222
+      ],
+      "weight": 7,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "302"
+        },
+        {
+          "page": "1049"
+        },
+        {
+          "page": "302"
+        },
+        {
+          "page": "1049",
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0284-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 479",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6202648
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "485"
+        },
+        {
+          "page": "2532"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0479-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "128 L.Ed.2d 682",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 2125",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "511 U.S. 1119",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1146571
+      ],
+      "weight": 2,
+      "year": 1994,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/1119-01"
+      ]
+    },
+    {
+      "cite": "18 F.3d 662",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10510122
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "668"
+        },
+        {
+          "page": "673"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/18/0662-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 639",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6218483
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "655-56"
+        },
+        {
+          "page": "3058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0639-01"
+      ]
+    },
+    {
+      "cite": "175 Ariz. 549",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1501172
+      ],
+      "weight": 2,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "606"
+        },
+        {
+          "page": "1209"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/175/0549-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183794
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "427"
+        },
+        {
+          "page": "1764"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0420-01"
+      ]
+    },
+    {
+      "cite": "127 L.Ed.2d 647",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 1294",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 F.3d 1180",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10517239
+      ],
+      "pin_cites": [
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/5/1180-01"
+      ]
+    },
+    {
+      "cite": "131 L.Ed.2d 570",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 S.Ct. 1709",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1995,
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 F.3d 411",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "opinion_index": 0
+    },
+    {
+      "cite": "974 F.2d 1075",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10518540
+      ],
+      "pin_cites": [
+        {
+          "page": "1079"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/974/1075-01"
+      ]
+    },
+    {
+      "cite": "111 S.Ct. 2491",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        1108013
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2505"
+        },
+        {
+          "page": "2505",
+          "parenthetical": "no Beck error where instruction does not present jury with \"all-or-nothing choice between the offense of conviction (capital murder) and innocence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0624-01"
+      ]
+    },
+    {
+      "cite": "447 U.S. 625",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187280
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "637"
+        },
+        {
+          "page": "2389"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0625-01"
+      ]
+    },
+    {
+      "cite": "137 Ariz. 278",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        716136
+      ],
+      "weight": 2,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "296",
+          "parenthetical": "Gordon, J., concurring"
+        },
+        {
+          "page": "401",
+          "parenthetical": "Gordon, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/137/0278-01"
+      ]
+    },
+    {
+      "cite": "142 Ariz. 598",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        743380
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "604",
+          "parenthetical": "in banc"
+        },
+        {
+          "page": "695",
+          "parenthetical": "in banc"
+        },
+        {
+          "page": "603"
+        },
+        {
+          "page": "694"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/142/0598-01"
+      ]
+    },
+    {
+      "cite": "148 Ariz. 468",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1471914
+      ],
+      "weight": 2,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "479",
+          "parenthetical": "in banc"
+        },
+        {
+          "page": "732",
+          "parenthetical": "in banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/148/0468-01"
+      ]
+    },
+    {
+      "cite": "78 L.Ed.2d 174",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 199",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1983,
+      "opinion_index": 0
+    },
+    {
+      "cite": "464 U.S. 865",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6401817
+      ],
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/464/0865-01"
+      ]
+    },
+    {
+      "cite": "135 Ariz. 404",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        737478
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/135/0404-01"
+      ]
+    },
+    {
+      "cite": "66 L.Ed.2d 251",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "101 S.Ct. 408",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "126 Ariz. 283",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1598668
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/126/0283-01"
+      ]
+    },
+    {
+      "cite": "935 F.2d 1033",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540658
+      ],
+      "pin_cites": [
+        {
+          "page": "1035"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/935/1033-01"
+      ]
+    },
+    {
+      "cite": "378 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166404
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/378/0347-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 188",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12122537
+      ],
+      "weight": 5,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "191"
+        },
+        {
+          "page": "992"
+        },
+        {
+          "page": "191"
+        },
+        {
+          "page": "992-93"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0188-01"
+      ]
+    },
+    {
+      "cite": "1 L.Ed. 648",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11738091
+      ],
+      "year": 1798,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/3/0386-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 764",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6219216
+      ],
+      "weight": 8,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "780"
+        },
+        {
+          "page": "3102"
+        },
+        {
+          "page": "783"
+        },
+        {
+          "page": "3103"
+        },
+        {
+          "page": "779",
+          "parenthetical": "quoting Walton v. Arizona, 497 U.S. 639, 655-56, 110 S.Ct. 3047, 3058, 111 L.Ed.2d 511 (1990)"
+        },
+        {
+          "page": "3101",
+          "parenthetical": "quoting Walton v. Arizona, 497 U.S. 639, 655-56, 110 S.Ct. 3047, 3058, 111 L.Ed.2d 511 (1990)"
+        },
+        {
+          "parenthetical": "quoting Walton v. Arizona, 497 U.S. 639, 655-56, 110 S.Ct. 3047, 3058, 111 L.Ed.2d 511 (1990)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0764-01"
+      ]
+    },
+    {
+      "cite": "883 F.Supp. 451",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7839955
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "457-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/883/0451-01"
+      ]
+    },
+    {
+      "cite": "883 F.Supp. 469",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7840032
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/883/0469-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "115 L.Ed.2d 1074",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 2910",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "2911"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "501 U.S. 1259",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108032,
+        1108389,
+        1107817,
+        1108277,
+        1108380,
+        1108094
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/1259-03",
+        "/us/501/1259-05",
+        "/us/501/1259-01",
+        "/us/501/1259-02",
+        "/us/501/1259-06",
+        "/us/501/1259-04"
+      ]
+    },
+    {
+      "cite": "98 L.Ed.2d 157",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "108 S.Ct. 206",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1987,
+      "opinion_index": 0
+    },
+    {
+      "cite": "484 U.S. 872",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        602137,
+        600163,
+        601595
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/484/0872-02",
+        "/us/484/0872-03",
+        "/us/484/0872-01"
+      ]
+    },
+    {
+      "cite": "152 Ariz. 483",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1475979
+      ],
+      "weight": 11,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "488-90"
+        },
+        {
+          "page": "1072-73"
+        },
+        {
+          "page": "485"
+        },
+        {
+          "page": "1068"
+        },
+        {
+          "page": "486"
+        },
+        {
+          "page": "1069"
+        },
+        {
+          "page": "488-89"
+        },
+        {
+          "page": "1072"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/152/0483-01"
+      ]
+    },
+    {
+      "cite": "153 Ariz. 21",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1496619
+      ],
+      "weight": 21,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "565-66"
+        },
+        {
+          "page": "36"
+        },
+        {
+          "page": "578",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "30-31"
+        },
+        {
+          "page": "572-73"
+        },
+        {
+          "page": "37"
+        },
+        {
+          "page": "579"
+        },
+        {
+          "page": "36-37"
+        },
+        {
+          "page": "578-79"
+        },
+        {
+          "page": "34"
+        },
+        {
+          "page": "576"
+        },
+        {
+          "page": "26-27"
+        },
+        {
+          "page": "568-69",
+          "parenthetical": "quoting A.R.S. Rule of Evid. 804(b)(3)"
+        },
+        {
+          "page": "36"
+        },
+        {
+          "page": "570"
+        },
+        {
+          "page": "29"
+        },
+        {
+          "page": "571"
+        },
+        {
+          "page": "34-36"
+        },
+        {
+          "page": "576-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/153/0021-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "505 U.S. 333",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480767
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "345-46"
+        },
+        {
+          "page": "2523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0333-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 298",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1333576
+      ],
+      "weight": 3,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "321"
+        },
+        {
+          "page": "864"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0298-01"
+      ]
+    },
+    {
+      "cite": "115 L.Ed.2d 1010",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 2841",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "501 U.S. 1224",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107690,
+        1107787
+      ],
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/1224-01",
+        "/us/501/1224-02"
+      ]
+    },
+    {
+      "cite": "499 U.S. 467",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11319331
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "497",
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        },
+        {
+          "page": "1471-72",
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        },
+        {
+          "parenthetical": "cause is external impediment such as government interference or reasonable unavailability of claim's factual basis"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/499/0467-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209907
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "2645"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0478-01"
+      ]
+    },
+    {
+      "cite": "133 L.Ed.2d 899",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "116 S.Ct. 980",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "77 F.3d 1155",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7645586
+      ],
+      "pin_cites": [
+        {
+          "page": "1158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/77/1155-01"
+      ]
+    },
+    {
+      "cite": "117 F.3d 1094",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11975127
+      ],
+      "weight": 5,
+      "pin_cites": [
+        {
+          "page": "1098-1100"
+        },
+        {
+          "page": "1104"
+        },
+        {
+          "page": "1104-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/117/1094-01"
+      ]
+    },
+    {
+      "cite": "79 L.Ed.2d 246",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "104 S.Ct. 1017",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1984,
+      "opinion_index": 0
+    },
+    {
+      "cite": "465 U.S. 1013",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11353924,
+        11353738,
+        11353816,
+        11353658,
+        11354015
+      ],
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/1013-04",
+        "/us/465/1013-02",
+        "/us/465/1013-03",
+        "/us/465/1013-01",
+        "/us/465/1013-05"
+      ]
+    },
+    {
+      "cite": "387 U.S. 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335008
+      ],
+      "weight": 4,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/387/0136-01"
+      ]
+    },
+    {
+      "cite": "521 F.2d 259",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        616131
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "264",
+          "parenthetical": "considering whether probation condition violated defendant's Fourth Amendment rights"
+        },
+        {
+          "page": "264",
+          "parenthetical": "parenthetical"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/521/0259-01"
+      ]
+    },
+    {
+      "cite": "838 F.2d 371",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1309150
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "374",
+          "parenthetical": "considering whether probation condition violated defendant's First Amendment rights"
+        },
+        {
+          "page": "374",
+          "parenthetical": "parenthetical"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/838/0371-01"
+      ]
+    },
+    {
+      "cite": "312 F.2d 73",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        185866
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "75-76"
+        },
+        {
+          "page": "73",
+          "parenthetical": "parenthetical"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/312/0073-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203715
+      ],
+      "weight": 6,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "581"
+        },
+        {
+          "page": "3333"
+        },
+        {
+          "page": "581"
+        },
+        {
+          "page": "3333"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/473/0568-01"
+      ]
+    },
+    {
+      "cite": "18 F.3d 662",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10510122
+      ],
+      "weight": 8,
+      "pin_cites": [
+        {
+          "page": "681"
+        },
+        {
+          "page": "681"
+        },
+        {
+          "page": "680-81"
+        },
+        {
+          "page": "680"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f3d/18/0662-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2895,
+    "char_count": 94080,
+    "ocr_confidence": 0.7,
+    "pagerank": {
+      "raw": 8.13094400510345e-07,
+      "percentile": 0.9743317081420577
+    },
+    "sha256": "173ba35e0fa5de1f3941ea0e28ee71f37669bcd5bc9d3e31dcb293dd5e7a6a23",
+    "simhash": "1:ee5b9a1afb7e9f4f",
+    "word_count": 15021
+  },
+  "last_updated": "2024-02-27T19:39:05.664270+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: HUG, Chief Judge, and PREGERSON and T.G. NELSON, Circuit Judges."
+    ],
+    "parties": [
+      "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee. Walter Burnhart LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee."
+    ],
+    "opinions": [
+      {
+        "text": "Opinion by Judge T.G. NELSON; Dissent by Judge PREGERSON.\nT.G. NELSON, Circuit Judge:\nArizona death row inmates Walter and Karl LaGrand appeal the district court\u2019s denial of their petitions for writ of habeas corpus. We have jurisdiction of these consolidated appeals pursuant to 28 U.S.C. \u00a7 1291, and we affirm.\nI\nFACTS AND PROCEDURAL HISTORY\nWalter LaGrand (Walter) and Karl LaG-rand (Karl) (collectively \u201cthe LaGrands\u201d) were each convicted of first-degree murder, attempted murder in the first degree, attempted armed robbery and two counts of kidnapping. The Arizona Supreme Court gave this account of the crimes in Walter\u2019s appeal:\nThis case arises from a series of events which occurred during a bungled attempt to rob the Valley National Bank in Mara-\u00f1a, Arizona, on January 7, 1982. That morning Walter and Karl LaGrand drove from Tucson, where they lived, to Mara\u00f1a intending to rob the bank. They arrived in Mara\u00f1a sometime before 8:00 a.m. Because the bank was closed and empty the LaGrands drove around Mara\u00f1a to pass time. They eventually drove to the El Taco restaurant adjacent to the bank. Ronald Schunk, manager of El Taco, testified that he arrived at work at 7:50 a.m. The moment he arrived, a ear -with two men inside drove up to the El Taco. Schunk described the car as white with a chocolate-colored top. The car\u2019s driver, identified by Schunk as Walter LaGrand, asked Schunk when the El Taco opened. Schunk replied, \u201cNine o\u2019clock.\u201d The LaG-rands then left.\nDawn Lopez arrived for work at the bank at approximately 8:00 a.m. When she arrived at the bank she noticed three vehicles parked in the parking lot: a motor home; a truck belonging to the bank manager, Ken Hartsock; and a ear which she did not recognize but which she described as white or off-white with a brown top. Because Lopez believed that Hartsock might be conducting business and desire some privacy she left the parking lot and drove around Mara\u00f1a for several minutes. She returned to the bank and noticed Hartsock standing by the bank door with another man whom she did not recognize. Lopez parked her ear and walked toward the bank entrance where Hartsock was standing. As she passed the LaGrands\u2019 car Walter emerged from the car and asked her what time the bank opened. Lopez replied, \u201cTen o\u2019clock.\u201d Lopez continued walking and went into the bank. When she entered the bank she saw Hart-sock standing by the vault with Karl LaG-rand. Karl was wearing a coat and tie and carrying a briefcase. Karl told her to sit down and opened his jacket to reveal a gun, which was later found by the police to be a toy pistol. Walter then came through the bank entrance and stood by the vault. Lopez testified that Walter then said, \u201cIf you can\u2019t open it this time, let\u2019s just waste them and leave.\u201d Hartsock was unable to open the vault because he had only one-half of the vault combination.\nThe LaGrands then moved Lopez and Hartsock into Hartsoek\u2019s office where they bound their victims\u2019 hands together with black electrical tape. Walter accused Hartsock of lying and put a letter opener to his throat, threatening to kill him if he was not telling the truth. Lopez and Hart-sock then were gagged with bandannas.\nWilma Rogers, another bank employee, had arrived at the bank at approximately 8:10 a.m. Upon arriving Rogers noticed two strange vehicles in the parking lot and, fearing that something might be amiss, wrote down the license plate numbers of the two unknown vehicles. She then went to a nearby grocery store and telephoned the bank. Lopez answered the phone after her gag was removed; her hands remained tied. Karl held the receiver to Lopez\u2019 ear and listened to the conversation. Lopez answered the phone. Rogers asked for Hartsock but Lopez denied that he was there, which struck Rogers as odd because she had seen his truck in the bank parking lot. Rogers then told Lopez that her car headlights were still on, as indeed they were. Rogers told Lopez that if she did not go out to turn her headlights off, then she would call the sheriff. A few minutes later Rogers asked someone else to call the bank and they also were told that Hartsock was not there. Rogers then called the town marshal\u2019s office.\nAfter the first telephone call the LaG-rands decided to have Lopez turn off her headlights. Her hands were freed and she was told to go turn off the lights but was warned that \u201cIf you try to go-if you try to leave, we\u2019ll just shoot him and leave. We\u2019re just going to kill him and leave.\u201d Lopez went to her ear and turned off the lights. Upon her return to the bank her hands were retied. Hartsock was still bound and gagged in the same chair. Lopez was seated in a chair, and turned toward a comer of the room. Lopez testified that soon thereafter she heard sounds of a struggle. Fearing that Hartsock was being hurt, Lopez stood up, broke the tape around her hands and turned to help him. Lopez testified that for a few seconds she saw Hartsock struggling with two men. Karl was behind Hartsock holding him by the shoulders while Walter was in front. According to Lopez, Walter then came toward her and began stabbing her. Lopez fell to the floor, where she could see only the scuffling of feet and Hartsock lying face down on the floor. She then heard someone twice say, \u201cJust make sure he\u2019s dead.\u201d\nThe LaGrands left the bank and returned to Tucson. Lopez was able to call for help. \u25a0 When law enforcement and medical personnel arrived at the bank Hart-sock was dead. He had been stabbed 24 times. Lopez, who had also been stabbed multiple times, was taken to University Hospital in Tucson.\nLaw enforcement personnel quickly identified the LaGrands as suspects. By 3:15 p.m., police had traced the license plate number to a white and brown vehicle owned by the father of Walter\u2019s girl friend, Karen Libby. The apartment where the LaGrands were staying with Karen Libby was placed under surveillance. Shortly thereafter Walter, Karl and Karen Libby left the apartment and began driving. They were followed and soon pulled over. Walter and Karl were then arrested and the car was searched. Karen Libby\u2019s apartment was also searched and a steak knife similar to one found at the bank was seized. Karl\u2019s fingerprint was found at the bank. A briefcase containing a toy gun, black electrical tape, a red bandanna, and other objects was found beneath a desert bush and turned over to the police.\nState v. LaGrand, 153 Ariz. 21, 734 P.2d 563, 565-66 (1987).\nWhen questioned after their apprehension, Walter made no statements, but Karl confessed to the crimes in two different statements. He stated that he had stabbed Hart-sock and Lopez, but that Walter had not stabbed anyone and that Walter had been out of the room at the time. Following a jury trial, both were convicted on all charges. After considering mitigating and aggravating circumstances, the judge sentenced both defendants to death. The Arizona Supreme Court affirmed the convictions and sentences. State v. Karl LaGrand, 152 Ariz. 483, 733 P.2d 1066 (1987); State v. Walter LaGrand, supra. The Supreme Court of the United States denied certiorari. 484 U.S. 872, 108 S.Ct. 206, 98 L.Ed.2d 157 (1987).\nThe LaGrands then filed post-conviction relief petitions in the Arizona Superior Court (trial court) which were denied in 1989. The Arizona Supreme Court denied review as did the United States Supreme Court. 501 U.S. 1259, 111 S.Ct. 2910, 2911, 115 L.Ed.2d 1074 (1991). The LaGrands then filed petitions for writ of habeas corpus pursuant to 28 U.S.C. \u00a7 2254. The district court, in a series of orders, denied relief, LaGrand v. Lewis, 883 F.Supp. 469 (D.Ariz.1995), LaGrand v. Lewins, 883 F.Supp. 451 (D.Ariz.1995), and these timely appeals followed.\nAdditional facts necessary to the discussion of the several issues are contained in the portions of this opinion in which the issues are addressed.\nII\nJOINT ISSUES\nWalter and Karl raise a number of issues jointly, which we discuss prior to reaching their individual claims.\nA. The Pecuniary Gain Factor\nTwo related arguments are advanced relative to the trial court\u2019s finding of expectation of pecuniary gain as an aggravating factor. First, the LaGrands contend that the finding of pecuniary gain was arbitrary or irrational. The trial court\u2019s finding was affirmed by the Arizona Supreme Court in its independent review. That court said:\nWe do not believe the defendant must intend beforehand to kill as well as to rob to satisfy the statute. A.R.S. \u00a7 13-703(F)(5). Nor do we believe that an absence of actual receipt of money or valuables negates a finding of expectation of pecuniary gain as an aggravating circumstance.\nIn this case, the attempted robbery permeated the entire conduct of the defendant. The defendant may have reacted irrationally to the failure or inability of the victim to open the safe but the murder was neither accidental nor unexpected. The reason defendant was there was his expectation of pecuniary gain and the reason he stabbed the victim was because the victim was unable to open the safe, frustrating defendant\u2019s continuing attempt for pecuniary gain. The defendant\u2019s goal of pecuniary gain caused the murder and the murder was in furtherance of his goal. We agree with the trial court\u2019s finding that the defendant\u2019s expectation of pecuniary gain was an aggravating factor.\nState v. LaGrand, 153 Ariz. at 36, 734 P.2d at 578 (footnote omitted).\nLewis v. Jeffers, 497 U.S. 764, 780, 110 S.Ct. 3092, 3102, 111 L.Ed.2d 606 (1990), a ease arising in Arizona, held that federal court review of such a finding by the state court \u201cis limited, at most, to determining whether the state court\u2019s finding was so arbitrary or capricious as to constitute an independent due process or Eighth Amendment violation.\u201d The Court went on to say:\nA state court\u2019s finding of an aggravating circumstance in a particular case-including a de novo finding by an appellate court that a particular offense is \u201cespecially heinous ... or depraved\u201d-is arbitrary or capricious if and only if no reasonable sen-tencer could have so concluded.\nId. at 783, 110 S.Ct. at 3103.\nHere, the sole purpose of the journey to the bank was to rob it. The LaGrands threatened the victims with death in order to obtain entry to the vault. In fact, Walter LaGrand admitted in his trial testimony that he held a letter opener to Ken Hartsock\u2019s neck as a threat. A rational senteneer could have found the existence of the pecuniary gain aggravating factor.\nSecond, the LaGrands argue that the Arizona Supreme Court broadened the definition of pecuniary gain in violation of both the Due Process Clause and the Ex Post Facto Clause of the Constitution. Their basic argument is that the Arizona Supreme Court, in saying that the intent to rob \u201cinfects\u201d all other actions, \u201ceffectively wipes out any requirement to prove the aggravating factor beyond a reasonable doubt.\u201d\nThe Ex Post Facto Clause does not apply to court decisions construing statutes. \u201cThe Ex Post Facto Clause is a limitation upon the powers of the Legislature, see Calder v. Bull, 3 Dall. [U.S.] 386, 1 L.Ed. 648 (1798), and does not of its own force apply to the Judicial Branch of government.\u201d Marks v. United States, 430 U.S. 188, 191, 97 S.Ct. 990, 992, 51 L.Ed.2d 260 (1977).\nIt is the Due Process Clause, rather than the Ex Post Facto Clause, which protects criminal defendants against novel developments in judicial doctrine. See, e.g., Bouie v. Columbia, 378 U.S. 347, 84 S.Ct. 1697, 12 L.Ed.2d 894 (1964). See also United States v. Ruiz, 935 F.2d 1033, 1035 (9th Cir.1991). However, an unforeseeable judicial construction of a statute may run afoul of the Due Process Clause because of the same policy underlying the Ex Post Facto Clause-lack of \u201cfair warning of that conduct which wiU give rise to criminal penalties.\u201d Marks, 430 U.S. at 191, 97 S.Ct. at 992-93.\nThe Arizona statutory scheme was clear in 1982. The felony murder statute provided that robbery or attempted robbery were predicate felonies, and that the statute applied if, \u201cin the course of and in furtherance of such offense or immediate flight from such offense, [the defendant] causes the death of any person.\u201d A.R.S. \u00a7 13-1105(A)(2). The capital punishment statute provided that defendant\u2019s expectation of the receipt of something of pecuniary value was an aggravating factor. A.R.S. \u00a7 13-703(F)(5). So, unless the Arizona Supreme Court had narrowed the clear terms of the statutes to a robber\u2019s benefit prior to the LaGrands\u2019 commission of the murder, there was no due process violation.\nThe eases cited by the LaGrands do not support the result they seek. Two of them, State v. Jordan, 126 Ariz. 283, 614 P.2d 825 (in banc), cert. denied, 449 U.S. 986, 101 S.Ct. 408, 66 L.Ed.2d 251 (1980), and State v. Jeffers, 135 Ariz. 404, 661 P.2d 1105 (in banc), cert. denied, 464 U.S. 865, 104 S.Ct. 199, 78 L.Ed.2d 174 (1983), did not involve reliance on the pecuniary gain factor.\nNor do the other cases cited support their argument. State v. Correll, 148 Ariz. 468, 479, 715 P.2d 721, 732 (1986) (in banc), involved murders committed in order to insure that no one be left to identify the robbers (\u201cThe only motivation for the killings was to leave no witnesses to the robbery.\u201d). State v. Hensley, 142 Ariz. 598, 604, 691 P.2d 689, 695 (1984) (in banc), was much the same (\u201cIn this case, the murders were a part of the overall scheme of the robbery with the specific purpose to facilitate the robbers\u2019 escape.\u201d). There is language in Hensley from an earlier case indicating that \u201can unexpected or accidental death that was not in furtherance of the defendant\u2019s goal of pecuniary gain\u201d would not support a finding of the aggravating circumstance. Id. 142 Ariz. at 603, 691 P.2d at 694 (quoting State v. Harding, 137 Ariz. 278, 296, 670 P.2d 383, 401 (1983) (Gordon, J., concurring), cert. denied, 465 U.S. 1013, 104 S.Ct. 1017, 79 L.Ed.2d 246 (1984)).\nThe LaGrands\u2019 argument seems to be premised on their claim that the killing was not in furtherance of the robbery, but rather came about when Ken Hartsoek kicked Karl during a struggle, and Karl impulsively reacted by stabbing him. However, this argument is contrary to Dawn Lopez\u2019s testimony that she saw both men involved in a struggle with Ken Hartsoek and her testimony that she twice heard at least one of them say \u201cmake sure he\u2019s dead.\u201d Ms. Lopez\u2019s evidence is consistent with a murder committed in order to eliminate witnesses. The LaG-rands\u2019 argument is also contrary to the En-mund finding of the district court: \u201cThe court finds beyond a reasonable doubt that both defendants participated in the actual killing of Mr. Hartsoek and that both defendants intended to kill him.\u201d\nThe Arizona Supreme Court\u2019s decisions in the LaGrand eases were not an unforeseeable departure from its existing jurisprudence, and no due process violation occurred. Poland v. Stewart, 117 F.3d 1094, 1098-1100 (9th Cir.1997).\nB. Consular Notification\nThe LaGrands contend that, as German nationals, they were entitled to contact the German consulate upon being arrested and that the Arizona authorities\u2019 failure to inform them of this right violated their constitutional rights. The Vienna Convention on Consular Relations of 1963, Article 36, TIAS 6820, 21 U.S.T. 77,596 UNTS 261 (Ratified by United States Senate on December 24, 1969) (\u201cThe Treaty\u201d), requires the receiving state (here, the United States) to allow nationals of the sending state (here, Germany) to notify their national consulate after they are arrested. The authorities of the receiving state are required to inform the arrested foreign national \u201cwithout delay of his rights under this sub-paragraph.\u201d Id.\nIt is undisputed that the State of Arizona did not notify the LaGrands of their rights under the Treaty. It is also Undisputed that this claim was not raised in any state proceeding. The claim is thus procedurally defaulted.\nWe may address the merits of a procedurally defaulted claim if the petitioner can show cause for the procedural default and actual prejudice as a result of the alleged violations of federal law. Bonin v. Calderon, 77 F.3d 1155, 1158 (9th Cir.), cert. denied, 516 U.S. 1143, 116 S.Ct. 980, 133 L.Ed.2d 899 (1996). To demonstrate cause, the petitioner must show the existence of \u201csome objective factor external to the defense [which] imped ed counsel\u2019s efforts to comply with the State\u2019s procedural rule.\u201d Murray v. Carrier, 477 U.S. 478, 488, 106 S.Ct. 2639, 2645, 91 L.Ed.2d 397 (1986); see also McCleskey v. Zant, 499 U.S. 467, 497, 111 S.Ct. 1454, 1471-72, 113 L.Ed.2d 517, reh\u2019g denied, 501 U.S. 1224, 111 S.Ct. 2841, 115 L.Ed.2d 1010 (1991) (cause is external impediment such as government interference or reasonable unavailability of claim\u2019s factual basis). Lacking cause and prejudice, we may nonetheless consider procedurally barred claims if failure to do so would result in the conviction or execution of \u201c \u2018one who is actually innocent.\u2019 \u201d Schlup v. Delo, 513 U.S. 298, 321, 115 S.Ct. 851, 864, 130 L.Ed.2d 808 (1995).\nAs to cause, the LaGrands argue ineffective assistance of counsel. In Karl\u2019s ease, he was represented by one lawyer at trial, a second lawyer on appeal, a third lawyer in his state post-conviction relief (PCR) proceeding and present counsel on his federal habeas. Karl has offered no support for his argument that something external to the defense prevented his lawyer from presenting this claim to the state courts, except ineffective assistance of trial counsel. He has not, however, argued, let alone shown, that any external factor prevented his counsel in the state PCR proceeding from presenting' this claim. He has therefore not shown cause.\nWalter, who has had the same lawyer throughout, signed a waiver of his right to present ineffective assistance of counsel claims. We will discuss this waiver in more detail when we reach Walter\u2019s individual claims. The waiver is sufficient to preclude using his lawyer\u2019s ineffective assistance as cause for faffing to present this claim to the state courts. Thus, the LaGrands have failed to demonstrate cause for their procedural defaults in state court.\nThe LaGrands argue that they meet the fundamental miscarriage of justice standard since they are actually innocent of the death penalty. Their basic argument is that the failure to notify them of their right to contact the German consulate \u201ceffectively blocked LaGrands\u2019 ability to gather exculpatory or mitigating evidence.\u201d The Supreme Court has stated, however, that actual innocence of the death penalty must focus on eligibility for the death penalty, and not on additional mitigation. Sawyer v. Whitley, 505 U.S. 333, 345-46, 112 S.Ct. 2514, 2523, 120 L.Ed.2d 269 (1992).\nThe evidence the LaGrands contend they were blocked from obtaining relates to background information concerning their abusive childhoods in Germany and the difficulties that children of mixed marriages encountered in Germany. While this evidence could have related to mitigation, it has no demonstrable connection to the findings of pecuniary gain or that the murder was committed in an especially cruel, heinous or depraved manner. Because the postulated evidence does not go to eligibility for the death penalty, the LaGrands do not substantiate their claim of actual innocence.\nC. The Constitutionality of Arizona\u2019s Felony Murder Statute\nThe LaGrands requested a second-degree murder instruction as a lesser-included offense to the felony murder charge. The trial court denied the request as Arizona felony murder law does not include any lesser-included offenses. State v. LaGrand, 153 Ariz. at 30-31, 734 P.2d at 572-73. The LaGrands challenge the court\u2019s refusal to give the lesser-included instruction on the basis that the ruling was contrary to the teaching of Beck v. Alabama, 447 U.S. 625, 100 S.Ct. 2382, 65 L.Ed.2d 392 (1980), and thus violated the Constitution.\nIn Beck, the Supreme Court considered a unique Alabama statute under which the jury was given only a choice of conviction of capital murder or acquittal. The Supreme Court reversed Beck\u2019s conviction on the basis that the limited choices available to the jury im-permissibly enhanced \u201cthe risk of an unwarranted conviction.\u201d Id. at 637, 100 S.Ct. at 2389. \u201cThe goal of the Beck rule ... is to eliminate the distortion of the factfinding process that is created when the jury is forced into an all-or-nothing choice between capital murder and innocence.\u201d Schad v. Arizona, 501. U.S. 624, 646-47, 111 S.Ct. 2491, 2505, 115 L.Ed.2d 555 (1991).\nIn the instant case, however, the all-or-nothing scenario condemned in Beck did not exist. As to the charge of murder in count one, the jury was told it could return verdicts of guilty of murder in the first degree, murder in the second degree or not guilty. The LaGrands were charged with first-degree murder. The jury was told that the crime could be committed as a felony murder or as premeditated murder. An instruction on second-degree murder was given, as was a possible verdict of second-degree murder as to Count One. The jury was not specifically told that second-degree murder was not a lesser-included offense to felony murder, although a close reading of the instructions could have led the jury to that conclusion.\nThe jury was also given the choice of convicting or acquitting the defendants of attempted first-degree murder, attempted second-degree murder, aggravated assault, armed robbery, robbery and kidnapping in the other counts. In the event the jury had found itself unable to agree on a conviction of first-degree murder, it would not have had to face the choice of simply acquitting the LaG-rands.\nThus, the instructions in the instant case do not implicate the concerns of the Beck doctrine because the LaGrands\u2019 jury was not faced with the \u201call or nothing\u201d choice presented in Beck. See Schad, 501 U.S. at 646-47, 111 S.Ct. at 2505 (no Beck error where instruction does not present jury with \u201call-or-nothing choice between the offense of conviction (capital murder) and innocence\u201d) (quotations omitted).\nD. Inadequate Weighing by the State Courts\nThe LaGrands argue that the state courts did not adequately consider the mitigation evidence presented at the sentencing. They rely on the panel opinion in Jeffers v. Lewis, 974 F.2d 1075, 1079 (9th Cir.1992): \u201c[when] there is' a risk that mitigating evidence in [a] case was not fully considered, [Petitioner\u2019s] sentence of death cannot stand.\u201d\nHowever, this court took the Jeffers case en banc, and affirmed the district court\u2019s denial of the petition. Jeffers v. Lewis, 88 F.3d 411 (9th Cir.1994), cert. denied, 514 U.S. 1071, 115 S.Ct. 1709, 131 L.Ed.2d 570 (1995). There we said, quoting Jeffries v. Blodgett, 5 F.3d 1180, 1197 (9th Cir.1993), cert. denied, 510 U.S. 1191, 114 S.Ct. 1294, 127 L.Ed.2d 647 (1994): \u201c[D]ue process does not require that the senteneer exhaustively document its analysis of each mitigating factor as long as a reviewing federal court can discern from the record that the state court did indeed consider all mitigating evidence offered by the defendant.\u201d Jeffers, 38 F.3d at 418.\nThe LaGrands do not argue that the state courts refused to consider any of their proffered mitigating evidence. They argue that the mitigating circumstances were not considered \u201cfully.\u201d However, the federal courts do not review the imposition of the sentence de novo. Here, as in the state courts\u2019 finding of the existence of an aggravating factor, we must use the rational fact-finder test of Lewis v. Jeffers. That is, considering the aggravating and mitigating circumstances, could a rational fact-finder have imposed the death penalty? The answer is \u201cyes.\u201d\nThe aggravating circumstances of pecuniary gain, a murder committed in an especially heinous, cruel or depraved maimer and prior conviction of a felony involving the use or threat of violence were well supported in the record. While there were mitigating factors, such as the LaGrands\u2019 ages (Walter was 19; Karl, 18), their prior home life and their remorse, a rational senteneer could have nevertheless imposed the death penalty.\nE. District Court\u2019s Upholding of Death Penalty\nThe LaGrands argue that the death penalty should not have been upheld by the district court. They point out that the Supreme Court has said that \u201cthe death penalty can be upheld in only the most egregious cases,\u201d citing Godfrey v. Georgia, 446 U.S. 420, 427, 100 S.Ct. 1759, 1764, 64 L.Ed.2d 398 (1980), and that the death penalty \u201cis reserved for truly exceptional cases,\u201d citing State v. Bible, 175 Ariz. 549, 606, 858 P.2d 1152, 1209 (1993). They argue that this case does not come within the \u201ctruly exceptional\u201d category.\nThe LaGrands in effect ask us to review the Arizona Supreme Court\u2019s determination that the imposition of the death penalty in their case was not disproportionate to the penalty imposed in similar cases. See State v. Walter LaGrand, 153 Ariz. at 37, 734 P.2d at 579; State v. Karl LaGrand, 152 Ariz. at 488-90, 733 P.2d at 1072-73. However, once the Arizona Supreme Court \u201cundertook its proportionality review in good faith and found that [the LaGrands\u2019] sentence was proportional to the sentences imposed\u201d in similar eases, \u201c[t]he Constitution does not require [the federal habeas court] to look behind that conclusion.\u201d Lewis v. Jeffers, 497 U.S. 764, 779, 110 S.Ct. 3092, 3101, 111 L.Ed.2d 606 (1990) (quoting Walton v. Arizona, 497 U.S. 639, 655-56, 110 S.Ct. 3047, 3058, 111 L.Ed.2d 511 (1990)). There is no indication that the Arizona Supreme Court\u2019s proportionality review was conducted in bad faith. The LaGrands\u2019 proportionality claim therefore fails.\nThe LaGrands also contend that the state courts and the federal district court improperly \u201cassumed\u201d the existence of the aggravating factor of \u201ccruel, heinous or depraved,\u201d rather than finding its existence beyond a reasonable doubt. However, the state courts did indeed premise their finding of \u201ccruel, heinous or depraved\u201d upon specific evidence of Hartsock\u2019s physical and mental suffering, the LaGrands\u2019 infliction of gratuitous violence upon and mutilation of Hart-sock, and Hartsock\u2019s position of helplessness. See State v. Walter LaGrand, 153 Ariz. at 36-37, 734 P.2d at 578-79. The state trial court found that this aggravating circumstance had been established beyond a reasonable doubt. See id. at 34, 734 P.2d at 576. Accordingly, this claim also fails.\nF. Lethal Gas as a Method of Execution\nIn Arizona, all condemned prisoners will be executed by means of lethal injection unless those who were sentenced before the Arizona legislature adopted lethal injection affirmatively choose lethal gas as the method to be used in their cases. A.R.S. \u00a7 13-704(B). The LaGrands come within the group having this option under state law. Thus, they would be executed by lethal gas only if they affirmatively choose to do so.\nThe court held in Poland v. Stewart, 117 F.3d 1094, 1104 (9th Cir.1997), that Poland\u2019s claim that lethal gas was an unconstitutional method of execution was not ripe. For the same reasons, the- LaGrands\u2019 claim is not ripe and cannot be considered. Id.\nG. Lethal Injection as a Method of Execution\nThe LaGrands also contend that lethal injection is an unconstitutional method of execution. In support of this claim, they submitted the reports of eyewitnesses to two Arizona executions using lethal injection. One report, published in the Arizona Republic on March 3, 1993, said that John George Brewer \u201cwas pronounced dead at 12:18 a.m., one minute after he received a combination of three drugs injected through a pair of intravenous tubes.\u201d\nA report of the execution of James Dean Clark was published in the same paper on April 15, 1993, but with a different by-line. The report said:\nThen as three lethal drugs surged into his veins at 12:05 a.m., Clark\u2019s chest heaved several times, and his skin turned ashen ____\u25a0 Because it didn\u2019t look like he simply was going to sleep, Clark\u2019s execution was much more gruesome, intense, bizarre and dramatic than I had anticipated. But it was also much easier to watch than I expected, because Clark didn\u2019t appear to suffer nearly as much as Don Eugene Harding, who died in the gas chamber last April.\nThe LaGrands also submitted an affidavit from an observer of the lethal gas execution of Don Harding:\nDon Harding took ten minutes and thirty-one seconds to die. At least eight of those minutes were spent in gross and brutal agony.... Then I will never forget the look on his face when he turned to me several seconds after first having inhaled the fumes. It is an image of atrocity that will haunt me for the rest of my life. Don Harding\u2019s death was slow, painful, degrading and inhumane.... He literally choked and convulsed to death in front of my eyes.\nIn addition to the reports mentioned above, the LaGrands submitted the affidavit of one Michael L. Radelet, prepared for a separate capital ease in Arizona. Radelet, a sociologist who collected reports of \u201cbotched\u201d executions, described what happened in nine executions by lethal injection. They involved either problems in finding a suitable vein or violent reactions to the drugs. None took place in Arizona and none were tied to the protocol used in Arizona.\nThe LaGrands also submitted the affidavit of a doctor on the staff of the College of Medicine at the University of Arizona who reviewed the procedures established for the administration of lethal injection in Arizona. Apparently he did not witness either of the two executions in Arizona by lethal injection. His ultimate conclusion was that the procedures were flawed, but his affidavit is replete with speculation. For example, he states at some length the possible consequences of administering the designated drugs in the wrong sequence. While he states that there may be some risk of this, the two Arizona executions recounted in the other materials show no such problems in actual practice. See Campbell v. Wood, 18 F.3d 662, 668 (9th Cir.) (\u201cThe risk of accident cannot and need not be eliminated from the execution process in order to survive constitutional review.\u201d), cert. denied, 511 U.S. 1119, 114 S.Ct. 2125, 128 L.Ed.2d 682 (1994).\nThe LaGrands\u2019 challenge is similar to that rejected in Poland, 117 F.3d at 1104-05, and the district court did not err in rejecting their challenge to Arizona\u2019s use of lethal injection as a method of execution.\nIll\nWALTER\u2019S INDIVIDUAL CLAIMS\nA. The Exclusion of Karl\u2019s Confession\nKarl made two separate recorded statements in the late hours of January 7 and early hours of January 8. In those statements he assumed sole responsibility for the attack on Ken Hartsock, saying it occurred after Mr. Hartsock kicked him in the leg. He said that Walter did not stab anyone and that Walter was not in the room when he stabbed Mr. Hartsock and Ms. Lopez.\nPursuant to the stipulation of the parties, the trial court ruled that the confessions were voluntary but that they were taken in violation of Miranda v. Arizona, 384 U.S. 436, 86 S.Ct. 1602, 16 L.Ed.2d 694 (1966). This precluded the State from introducing the confessions as evidence in the guilt phase of the trial against Karl. The Miranda stipulation did not, however, preclude Walter from introducing the confessions as part of his defense. Walter thus sought to have the confessions introduced under Arizona Rule of Evidence 804(b)(3), which is identical to Federal Rule of Evidence 804(b)(3). The rule provides as follows:\nRule 804. Hearsay Exceptions; Declar-ant Unavailable\n(b) Hearsay exceptions. The following are not excluded by the hearsay rule if the declarant is unavailable as a witness:\n(b)(3) Statement against interest. A statement which was at the time of its making so far contrary to the declarant\u2019s pecuniary or proprietary interest, or so far tended to subject him to civil or criminal liability ... that a reasonable man in his position would not have made the statement unless he believed it to be true. A statement tending to expose the declarant to criminal liability and offered to exculpate the accused is not admissible unless corroborating circumstances clearly indicate the trustworthiness of the statement.\n153 Ariz. at 26-27, 734 P.2d at 568-69 (quoting A.R.S. Rule of Evid. 804(b)(3)). After considering Walter\u2019s request on four separate occasions, the trial court held the confessions were inadmissible at the guilt phase of the trial.\nOn appeal from the LaGrands\u2019 convictions, the Arizona Supreme Court explained the proper method of determining admissibility under Rule 804(b)(3):\nWe therefore hold that a judge\u2019s inquiry, made to assure himself that the corroboration requirement of Rule 804(b)(3) has been satisfied, should be limited to asking whether evidence in the record corroborating and contradicting the declarant\u2019s statement would permit a reasonable person to believe that the statement could be true. If a judge believes that a reasonable person could [so] conclude ..'. then the judge must admit the statement into evidence.\nState v. Walter LaGrand, 153 Ariz. at 36, 734 P.2d at 570.\nApplying this standard, the Arizona Supreme Court concluded that the trial court\u2019s refusal to admit the statements was not in error:\nEvidence both corroborating and contradicting Karl\u2019s statements exists. The following evidence corroborated Karl\u2019s statements: Karl did have a bruise on his leg as he stated; Lopez testified that she saw Hartsock kick someone; Lopez testified that only one person stabbed her; and Walter testified that he was out of the room when the stabbings occurred. The following evidence contradicted Karl\u2019s statements: Lopez testified that she saw Hartsock struggling with two men; Lopez testified that she was \u201cpositive\u201d that Walter had stabbed her; Lopez testified that after being stabbed by Walter and falling to the floor one brother said to the other twice, \u201cJust make sure he\u2019s dead\u201d; and the forensic consultant who performed an autopsy on Hartsock testified that more than one instrument was used to inflict Hart-sock\u2019s wounds.\nAfter reviewing the above corroborating and contradicting evidence, we do not think that a reasonable person could conclude from the same corroborating and contradictory evidence that Karl\u2019s exculpatory statements could be true. The trial judge properly denied admission of Karl\u2019s statements.\nId. 153 Ariz. at 29, 734 P.2d at 571.\nWalter\u2019s argument here is that exclusion of the confessions violated his Sixth Amendment right to \u201cpresent a complete defense\u201d to the charges against him. California v. Trombetta, 467 U.S. 479, 485, 104 S.Ct. 2528, 2532, 81 L.Ed.2d 413 (1984). He relies on \u201cthe Chambers doctrine\u201d derived from Chambers v. Mississippi, 410 U.S. 284, 93 S.Ct. 1038, 35 L.Ed.2d 297 (1973).\nChambers w\u00e1s convicted of killing a policeman in a small town in Mississippi. Gable McDonald had confessed to killing the officer in a statement to Chambers\u2019 lawyer, but he later repudiated the confession.\nAt trial, Chambers attempted to show he did. not shoot the officer. He also tried to show that McDonald was the shooter. The trial court would not permit Chambers to introduce the testimony of three witnesses to whom McDonald had admitted shooting the officer on the grounds that the proffered testimony was hearsay. Mississippi recognized statements against pecuniary interest, but not statements against penal interest, as an exception to the hearsay rule.\nThe Court reversed Chambers\u2019 conviction, saying:\nThe testimony rejected by the trial court here bore persuasive assurances of trustworthiness and thus was well within the basic rationale of the exception for declarations against interest. That testimony also was critical to Chambers\u2019 defense. In these circumstances, where constitutional rights directly affecting the ascertainment of guilt are implicated, the hearsay rule may not be applied mechanistically to defeat the ends of justice.\nChambers, 410 U.S. at 302, 93 S.Ct. at 1049.\nChambers is but one of several Supreme Court decisions dealing with state rules of evidence used to reject a defendant\u2019s evidence on \u201cmechanistic\u201d grounds. In Green v. Georgia, 442 U.S. 95, 99 S.Ct. 2150, 60 L.Ed.2d 738 (1979), the Court again reversed a conviction where the Georgia courts had rejected hearsay statements on the ground that Georgia did not recognize the penal interest exception to the hearsay rule.\nAn earlier case, Washington v. Texas, 388 U.S. 14, 87 S.Ct. 1920, 18 L.Ed.2d 1019 (1967), involved Texas statutes which prohibited persons charged or convicted as co-participants in a crime from testifying for each other, though they could testify for the State. Washington\u2019s proffer of testimony tended to show that Washington was not the shooter. The evidence was rejected pursuant to the Texas statutes. The Supreme Court reversed the conviction on the grounds that the State\u2019s rule \u201carbitrarily\u201d deprived Washington of his right under .the Sixth Amendment to present witnesses in his defense.\nIn the more recent case of Rock v. Arkansas, 483 U.S. 44, 107 S.Ct. 2704, 97 L.Ed.2d 37 (1987), the Court held that a state could not \u201carbitrarily or disproportionately\u201d prevent a defendant from testifying in her defense by implementing a per se rule prohibiting hypnotically enhanced testimony.\nThese cases, taken together, stand for the proposition that states may not impede a defendant\u2019s right to put on a defense by imposing mechanistic (Chambers) or arbitrary (Washington and Rock) rules of evidence. But they do not stand for the proposition that a defendant must be allowed to put on any evidence he chooses. As the Court said in Chambers:\nNew rights are more fundamental than that of an accused to present witnesses in his own defense. In the exercise of this right, the accused, as is required of the State, must comply with established rules of procedure and evidence designed to assure both fairness and reliability in the ascertainment of guilt and innocence.\n410 U.S. at 302, 93 S.Ct. at 1049 (citations omitted). See also Crane v. Kentucky, 476 U.S. 683, 690, 106 S.Ct. 2142, 2146, 90 L.Ed.2d 636 (1986) (\u201c[W]e have never questioned the power of States to exclude evidence through the application of evidentiary rules that themselves serve the interests of fairness and reliability-even if the defendant would prefer to see the evidence admitted.\u201d).\nHere, Karl LaGrand\u2019s confession was not excluded as a result of rigid application of arbitrary or mechanistic rules of admissibility. Rather, the state courts determined, after analyzing the proffer and the corroborating and contradictory circumstances, that the confession was not sufficiently reliable to warrant its introduction. Thus, the refusal to admit Karl\u2019s confession did not run afoul of the Chambers-Washington-Rock prohibition against arbitrary and mechanistic exclusion of exculpatory evidence.\nWhile Chambers clearly prohibits states from excluding exculpatory evidence by application of rigid or arbitrary exclusionary rules, it is not clear whether the Chambers doctrine implies a requirement of independent federal review of a state court\u2019s determination of reliability. In Lee v. McCaughtry, 933 F.2d 536, 538 (7th Cir.), cert. denied, 502 U.S. 895, 112 S.Ct. 265, 116 L.Ed.2d 218 (1991), the Seventh Circuit suggested that Chambers imposed no such requirement: \u201cOnce a state has brought its rules of evidence into line with constitutional norms, there is little point in case-by-case federal review of evidentiary rulings.\u201d However, the Lee court specifically declined to answer the question whether federal review is required, and instead duplicated the state court\u2019s reliability inquiry and concluded that the refusal to admit the evidence was proper. Id. See also Turpin v. Kassulke, 26 F.3d 1392, 1397 (6th Cir.1994) (reversing district court\u2019s granting of habeas petition after reviewing the testimony excluded by the state trial court and concluding that the evidence was indeed \u201cfundamentally untrustworthy\u201d), cert. denied, 513 U.S. 1118, 115 S.Ct. 916, 130 L.Ed.2d 797 (1995).\nWe need not answer the question here because, even assuming that federal review is required, the Arizona Supreme Court\u2019s con-elusion-that Karl\u2019s statement exculpating Walter was not sufficiently reliable to come in under Rule 804(b)(3)-finds ample support in the record and thus cannot be said to have had \u201csubstantial and injurious effect or influence in determining the jury\u2019s verdict\u201d against Walter LaGrand. Brecht v. Abrahamson, 507 U.S. 619, 623, 113 S.Ct. 1710, 1716, 123 L.Ed.2d 353 (1993) (quoting Kotteakos v. United States, 328 U.S. 750, 776, 66 S.Ct. 1239, 1253, 90 L.Ed. 1557 (1946)).\nKarl LaGrand\u2019s confession included two separate statements: first, that he, Karl LaGrand, stabbed Ken Hartsock, and second, that Walter LaGrand did not stab anyone. Because the \u201cstatements against penal interest\u201d exception to the hearsay rule is premised upon the inherent reliability of statements that tend to incriminate the declarant, federal courts have concluded that a statement that includes both incriminating declarations and corollary declarations that, taken alone, are not inculpatory of the declarant, must be separated and only that portion that is actually incriminating of the declarant admitted under the exception. See Williamson v. United States, 512 U.S. 594, 599-600, 114 S.Ct. 2431, 2434-35, 129 L.Ed.2d 476 (1994) (noting that judges in federal cases must separate the incriminatory portions of statements from other portions for purposes of Rule 804(b)(3) because \u201c[t]he fact that a person is making a broadly self-inculpatory confession does not make more credible the confession\u2019s non-self-inculpatory parts\u201d); Carson v. Peters, 42 F.3d 384, 386 (7th Cir.1994) (\u201cPortions of inculpatory statements that pose no risk to the declarants are not particularly rehable; they are just garden variety hearsay.\u201d); United States v. Porter, 881 F.2d 878, 882-83 (10th Cir.) (if a statement exculpatory to the accused is severable from the statement inculpatory to the declar-ant, each statement must be separately analyzed under Rule 804(b)(3)), cert. denied, 493 U.S. 944, 110 S.Ct. 348, 107 L.Ed.2d 336 (1989); United States v. Lilley, 581 F.2d 182, 188 (8th Cir.1978) (\u201cTo the extent that a statement is not against the declarant\u2019s interest, the guaranty of trustworthiness does not exist and that portion of the statement should be excluded.\u201d).\nIn stating that Walter did not stab anyone, Karl was not further- incriminating himself. The reliability that attends the inculpatory part of his confession does not afford any reliability to that part of the statement that merely exculpates Walter. Accordingly, it was not entitled to the benefit of Rule 804(b)(3)\u2019s exception to the hearsay rule.\nFurther, as noted by the Arizona Supreme Court, direct evidence contradicted Karl\u2019s statement that , Walter was not involved in the stabbing of Ken Hartsock: Mr. Hartsock was stabbed 24 times and all wounds were frontal; the wounds-were consistent with two different instruments having been used; Ms. Lopez, the only eyewitness, testified that Walter was standing in front of Mr. Hartsock while Karl held him from behind; that at least one person said twice, \u201cMake sime he\u2019s dead\u201d; and that Walter stabbed her.\nFinally, under federal case law, a judge ruling on the reliability of Karl\u2019s statement could consider that Walter\u2019s own testimony was not corroborative, see Turpin, 26 F.3d at 1397-98, and that the exculpatory statements of family members are not considered to be highly rehable, United States v. Bobo, 994 F.2d 524, 528 (8th Cir.), cert. denied, 510 U.S. 891, 114 S.Ct. 250, 126 L.Ed.2d 203 (1993).\nIn light of the foregoing, we conclude that even if Chambers requires federal review of the state courts\u2019 determination of reliability, the Arizona courts\u2019 conclusion that the statement was not sufficiently rehable to be admitted was both \u201creasoned and reasonable\u201d and, as such, did not violate Walter LaG-rand\u2019s right to present a complete defense. Carson, 42 F.3d at 387.\nWalter also argues that the standard of \u201cclearly\u201d indicating a statement\u2019s trustworthiness is \u201ctoo onerous a burden.\u201d He argues that Chambers stands for the proposition that the courts can require only a \u201cmore reasonable, minimal [burden].\u201d He rehes mainly on texts and law review articles, being unable to point to cases which specifically hold that Rule 804(b)(3), in either state or federal garb, runs, afoul of a defendant\u2019s due process rights for that reason. This argument fails because, given the inherent unreliability of corollary exculpatory statements, Rule 804(b)(3)\u2019s requirement that such statements be clearly corroborated is entirely legitimate and reasonable.\nWalter also makes a related argument concerning the discriminatory effects of the corroboration requirement of Rule 804(b)(3). This argument springs from the Supreme Court\u2019s statement in Ohio v. Roberts, 448 U.S. 56, 100 S.Ct. 2531, 65 L.Ed.2d 597 (1980), that the Confrontation Clause does not bar introduction of hearsay testimony which bears sufficient indicia of reliability. The Court said that, reliability can be inferred without further corroboration in cases where the evidence falls within a \u201cfirmly rooted hearsay exception.\u201d Id. at 66, 100 S.Ct. at 2539. Otherwise, a \u201cshowing of particularized guarantees of trustworthiness [would] be required.\u201d Id.\nSince the state can introduce a confession without showing clear corroboration, the argument goes, the defendant should be able to do the same. This argument suffers from the same flaw as the preceding one: exculpatory statements such as Karl\u2019s do not come within a \u201cfirmly rooted hearsay exception\u201d as do incriminating statements. See Carson v. Peters, 42 F.3d at 386. In limiting admissible evidence to that found to be reliable, the rule-writers may legitimately impose the burden of offering proof of clearly corroborating circumstances on those offering exculpatory hearsay statements.\nWalter also argues that the state courts\u2019 rejection of Karl\u2019s confessions unconstitutionally interfered with the jury\u2019s fact-finding role. The state\u2019s contention that this claim was not raised in the district court or in state court has merit. In the district court, the argument that the trial court\u2019s ruling invaded the province of the jury was simply a subset of the contention that Chambers required the trial court to admit the evidence. There was not, as there is here, a stand-alone argument of interference with the jury\u2019s function. A decision on this issue is subsumed in the ruling on the \u201cChambers doctrine\u201d and need not be separately addressed.\nWe conclude that there was no constitutional error in the Arizona courts\u2019 decision to exclude under Rule 804(b)(3) Karl LaGrand\u2019s statement that Walter was not involved in the stabbing of Ken Hartsock.\nB. Mr. Burke\u2019s Request to Withdraw\nWalter LaGrand has been represented by Bruce Burke, a Tucson lawyer, throughout all proceedings to date. Prior to appointing him as counsel in Walter\u2019s federal habeas proceeding, the district court required Mr. Burke to discuss possible claims of ineffective assistance of counsel with Walter and then to file a status report with the court.\nIn the status report, Mr. Burke recounted a meeting he had had with Walter in which he had explained the issue of ineffective assistance of counsel, \u201cand [had told him] that such a claim might provide him with an avenue for relief from the death penalty.\u201d Mr. Burke also informed Walter that he knew of no instances in which his own assistance had been ineffective. He further told Walter that the court \u201cwould appoint an additional attorney, or a new attorney, to examine my performance\u201d if Walter desired. Walter told Mr. Burke that \u201che did not want me to take steps which might require me to withdraw as his attorney of record and he did not wish me to seek appointment of a new attorney to consider the issue.\u201d\nAfter Mr. Burke was appointed in federal court, he learned that Karl\u2019s counsel was going to present evidence to the effect that his trial counsel had been ineffective at the sentencing phase of the case. Because Mr. Burke believed that this drew into question his own effectiveness at sentencing, he moved to withdraw as Walter\u2019s counsel.\nThe district court denied the motion on the grounds that Walter had been given an opportunity to change counsel in order to present an ineffective assistance of counsel claim but had waived that right. The court also held that no prejudice had been shown since the claimed failure did not constitute ineffective assistance of counsel.\nWe review the district court\u2019s order for abuse of discretion. United States v. Baker, 10 F.3d 1374 (9th Cir.1993), cert. denied, 513 U.S. 934, 115 S.Ct. 330, 130 L.Ed.2d 289 (1994). Walter\u2019s waiver was not of specific instances of ineffectiveness, but of the employment of new counsel to potentially pursue such claims.\nIn this instance, Walter\u2019s claim that the waiver was not effective because he didn\u2019t know the facts constituting the claim has no merit. When Walter waived the offer of new counsel, he was waiving the benefits of new representation, among which would potentially have been the presentation of this sort of new claim. See United States v. Lowry, 971 F.2d 55 (7th Cir.1992). Since the claim now asserted was well within the waiver, the district court did not abuse its discretion in denying the motion.\nFor the foregoing reasons, we affirm the district court\u2019s denial of Walter\u2019s petition.\nIV\nKARL\u2019S INDIVIDUAL CLAIMS\nA. Ineffective Assistance of Counsel\nA claim of ineffective assistance of counsel presents a mixed question of law and fact which we review de novo. Sanders v. Ratelle, 21 F.3d 1446, 1451 (9th Cir.1994) (citing Strickland v. Washington, 466 U.S. 668, 698, 104 S.Ct. 2052, 2069, 80 L.Ed.2d 674 (1984)).\nUnder Strickland, a petitioner seeking ha-beas relief based on the ineffective assistance of counsel must show: (1) that the counsel\u2019s performance falls \u201cbelow an objective standard of reasonableness,\u201d 466 U.S. at 688, 104 S.Ct. at 2064; and (2) that there is a reasonable probability that, but for counsel\u2019s errors, the result of the proceeding would have been different, id. at 694, 104 S.Ct. at 2068.\nKarl claims that the district court erred on his Strickland ineffectiveness claim: (1) by limiting the scope of the evidentiary hearing; and (2) by finding that Karl\u2019s trial counsel\u2019s performance did not fall below an objective standard of reasonableness.\n1. Scope of Evidentiary Hearing\nIn a capital case, a petitioner is entitled to an evidentiary hearing where there has been no state court evidentiary hearing and the petitioner raises a \u201ccolor-able\u201d claim of ineffective assistance. Smith v. McCormick, 914 F.2d 1158, 1170 (9th Cir.1990). The scope of an evidentiary hearing on a motion under. 28 U.S.C. \u00a7 2254 is committed to the discretion of the district court. United States v. Layton, 855 F.2d 1388, 1421 (9th Cir.1988), cert. denied, 489 U.S. 1046, 109 S.Ct. 1178, 103 L.Ed.2d 244 (1989).\nIn the present case, the district court held an evidentiary hearing on Karl\u2019s ineffective assistance of counsel claim for the limited purpose of determining whether Karl could establish the first prong of the Strickland test. Karl was therefore required to prove that his counsel\u2019s performance was deficient before the court would entertain evidence regarding prejudice.\nKarl argues that the district court\u2019s limitation on the scope of the evidentiary hearing was erroneous for two reasons. First, Karl claims that the two prongs of the Strickland test are interconnected and that they must be considered together.\nNo court has ever held that both prongs of the Strickland test must be examined simultaneously. To the contrary,- the Supreme Court has held that a court is not required to address both components of the Strickland test in deciding an ineffective assistance of counsel claim \u201cif the defendant makes an insufficient showing on one.\u201d Strickland, 466 U.S. at 697, 104 S.Ct. at 2069. Thus, a court need not determine whether defendant was prejudiced by counsel\u2019s alleged deficiencies if it determines that counsel\u2019s performance was not deficient. See id.; Cacoperdo v. Demosthenes, 37 F.3d 504, 508 (9th Cir.1994) (defendant failed to show lack of thorough investigation of law and facts and therefore failed to meet his burden on the first prong of the Strickland test), cert. denied, 514 U.S. 1026, 115 S.Ct. 1378, 131 L.Ed.2d 232 (1995).\nSecond, Karl claims that the district court erred in not allowing him to present expert medical and legal testimony regarding his trial counsel\u2019s performance. Karl alleges that he needed to present expert testimony to show what evidence could and should have been presented by his trial counsel. This claim lacks merit.\nThe district court allowed Karl to present the testimony of five attorneys regarding the standard of care used by Karl\u2019s attorney. These attorneys were all familiar with the ease. Karl has failed to cite any authority, and we have found none, that supports his contention that only outside expert testimony can provide a basis on which to measure counsel\u2019s performance.\nFurthermore, the majority of the proffered expert testimony rejected by the court went to the second prong of the Strickland test, which was not the subject of the hearing. Thus, the district court\u2019s refusal to allow the expert testimony based on its finding that the testimony would not be relevant to the limited scope of the evidentiary hearing was reasonable. See Wade v. Calderon, 29 F.3d 1312, 1326-27 (9th Cir.1994) (upholding district court\u2019s limitation of defendant\u2019s expert evidence where the limitation was \u201creasonably designed to restrict the issue to competence of counsel, on the basis of what was reasonably known by counsel at the time of trial\u201d), cert. denied, 513 U.S. 1120, 115 S.Ct. 923, 130 L.Ed.2d 802 (1995).\nBecause a defendant is required to prove both prongs of the Strickland test before relief can be granted, the district court did not abuse its discretion in limiting the scope of the evidentiary hearing to determine whether defendant met the first prong of the Strickland test. See Layton, 855 F.2d at 1421. Furthermore, the district court\u2019s limitation of Karl\u2019s expert evidence was reasonably designed to restrict the issue of the hearing to the first prong of the Strickland test. Therefore, the district court did not abuse its discretion in refusing the expert medical and legal testimony proffered by Karl. See Wade, 29 F.3d at 1326-27.\n2. Performance of Karl\u2019s Counsel\nThe United States Constitution guarantees that criminal defendants \u201cshall enjoy the right to have the assistance of counsel for [their] defense.\u201d U.S. Const. amend VI. This constitutional right to counsel means that all defendants have the right to effective counsel. McMann v. Richardson, 397 U.S. 759, 771 n. 14, 90 S.Ct. 1441, 1449 n. 14, 25 L.Ed.2d 763 (1970).\nTo establish that he was deprived of his right to the effective assistance of counsel, a defendant must show that his counsel\u2019s performance falls \u201cbelow an objective standard of reasonableness.\u201d Strickland, 466 U.S. at 688, 104 S.Ct. at 2064. This inquiry must focus on \u201cwhether counsel\u2019s assistance was reasonable considering all the circumstances.\u201d Id. at 688, 104 S.Ct. at 2065.\nPrevailing norms of practice ... are guides to determining what is reasonable, but they are only guides. No particular set of detailed rules for counsel\u2019s conduct can satisfactorily take account of the variety of circumstances faced by defense counsel or the range of legitimate decisions regarding how best to represent a criminal defendant.\nId. at 688-89, 104 S.Ct. at 2065.\nA reviewing court\u2019s scrutiny \u201cof counsel\u2019s performance must be highly deferential.\u201d Id. There is a strong presumption that \u201ccounsel\u2019s conduct falls within the wide range of reasonable professional assistance; that is, the defendant must overcome the presumption that, under the circumstances, the challenged action \u2018might be considered sound trial strategy.\u2019 \u201d Id.\nIn deciding whether counsel\u2019s performance was deficient, we must judge the challenged conduct based on the facts of the particular ease, \u201cviewed as of the time of counsel\u2019s conduct.\u201d Id. at 690, 104 S.Ct. at 2066. We must determine whether, \u201cin light of all the circumstances, the identified acts or omissions were outside the wide range of professionally competent assistance,\u201d keeping in mind that \u201ccounsel is strongly presumed to have rendered adequate assistance and made all significant decisions in the exercise of reasonable professional judgment.\u201d Id. \u201c[Strategic choices made after thorough investigation of law and facts relevant to plausible options are virtually unchallengeable.\u201d Id.\nIn analyzing counsel\u2019s performance, \u201c[w]e will neither second-guess counsel\u2019s decisions, nor apply the fabled twenty-twenty vision of hindsight.\u201d Campbell v. Wood, 18 F.3d 662, 673 (9th Cir.), cert. denied, 511 U.S. 1119, 114 S.Ct. 2125, 128 L.Ed.2d 682 (1994). \u201cA fair assessment of attorney performance requires that every effort be made to eliminate the distorting effects of hindsight, to reconstruct the circumstances of counsel\u2019s challenged conduct, and to evaluate the conduct from counsel\u2019s perspective at the time.\u201d Strickland, 466 U.S. at 689, 104 S.Ct. at 2065.\nKarl claims that his counsel\u2019s performance was deficient in numerous ways. We will discuss each claim of ineffectiveness individually.\na. Impulsivity Defense\nKarl claims that his background and his statements to the police indicate that he murdered Hartsock in a moment of rage after being kicked. He argues that this moment of rage and his \u201cnotorious lack of control\u201d showed that he committed this crime on impulse and did not premeditate the crime. Thus, he claims that his attorney acted defi-ciently by failing to thoroughly investigate or pursue a defense of impulsivity on his behalf. The district court held that Karl\u2019s counsel was not ineffective on this issue, see LaGrand v. Lewis, 883 F.Supp. 451, 457-58 (D.Ariz.1995), and we agree.\nIn State v. Christensen, 129 Ariz. 32, 35-36, 628 P.2d 580, 583-84 (1981), the Arizona Supreme .Court recognized that impulsivity could be a viable defense for premeditated murder because it tends to negate the mental element of premeditation. The defendant in Christensen was charged with having committed the premeditated murder of his wife. There was no evidence supporting a claim of felony murder. Therefore, the defendant could be found guilty of first-degree murder only if he was found to have premeditated the murder.\nAs found by the district court, Karl\u2019s counsel was clearly aware of the Christensen impulsivity defense. Prior to his representation of Karl, counsel represented a defendant in a case in which the impulsivity defense and Christensen were discussed. See State v. Ramos, 133 Ariz. 12, 648 P.2d 127 (App.1981), vacated, 133 Ariz. 4, 648 P.2d 119 (1982).\nFurthermore, Karl\u2019s counsel did not ignore evidence of defendant\u2019s impulsivity. Impul-sivity evidence was presented during trial through the testimony of Walter and argued by Karl\u2019s attorney during closing argument. However, counsel apparently made a decision to not pursue the impulsivity defense more fully.\nSuch a decision is supported by the record, which reveals the futility of an impulsivity defense. As the district court stated:\nPrior to Ken Hartsock being stabbed, Walter LaGrand had stated that he was going to kill the bank manager if the bank manager was lying about being unable to open the vault. Before Dawn Lopez was permitted to leave the bank to turn off her headlights, she was told that if she did not return, Ken Hartsock would be killed. The bank manager was stabbed twenty-four times and Dawn Lopez was stabbed at least seven times. After Ken Hartsock was repeatedly stabbed, either [Karl] or Walter LaGrand was \u2022 overheard to say: \u201cJust make, sime he\u2019s dead.\u201d Ms. Lopez testified that she heard both [Karl] and Walter LaGrand make such a statement. This evidence belies a claim of impulsivity.\nLaGrand, 883 F.Supp. at 458.\nKarl\u2019s present counsel have spent much time and effort in gathering further evidence and opinion to support the impulsivity defense. However, fleshing it out further makes it no better. Karl\u2019s presentation does not overcome the presumption of soundness under Strickland. Impulsivity was absolutely no defense to the felony-murder charge, which was the State\u2019s principal claim. In fact, premeditated murder remained in the case only because the trial court rejected the State\u2019s objection to the defendants\u2019 requested instruction on premeditated murder. In addition, pursuit of the impulsivity defense, like the insanity defense, would have necessarily brought Karl\u2019s prior record into the case. Counsel\u2019s performance was not deficient. See Strickland, 466 U.S. at 691, 104 S.Ct. at 2066-67.\nb. Insanity Defense\nKarl claims that his attorney rendered ineffective assistance by failing to pursue an insanity defense. We reject this claim.\nKarl\u2019s counsel researched the possibility of an insanity defense at length. Karl was examined by two doctors, psychologist Dr. Lewis Hertz and psychiatrist Dr. Edward Meshorer. Neither doctor\u2019s reports suggested an insanity defense was available to Karl. Dr. Hertz reported that Karl \u201cknew right from wrong,\u201d negating use of the M\u2019Naught-en test for insanity. Dr. Meshorer\u2019s report, while not addressing the M\u2019Naughten test, gave no indication that an insanity defense would be a viable option for Karl. As the Arizona Supreme Court pointed out: \u201c[N]o evidence of M\u2019Naughten insanity existed.\u201d State v. LaGrand, 152 Ariz. 483, 485, 733 P.2d 1066, 1068 (1987).\nFurthermore, if Karl\u2019s counsel had pursued an insanity defense, Arizona procedure would have opened up Karl\u2019s juvenile record to inspection and exposed his past to scrutiny. See State v. Rodriguez, 126 Ariz. 28, 31, 612 P.2d 484, 487 (1980). As the district court stated:\nHad [Karl\u2019s] counsel opened the door to [Karl\u2019s] past, the jury would have learned of a lengthy and violent criminal history. [Karl\u2019s] presentence reports indicate that less than three months before the events of this case occurred, on two separate occasions [Karl] committed armed robberies and kidnappings at Tucson grocery stores, and had prepared to commit another armed robbery at a third grocery store. When the murder of Ken Hartsock occurred, [Karl] had been released on bail while awaiting trial for armed robbery and kidnapping.\nAs a juvenile, [Karl] was adjudicated delinquent for multiple burglaries, armed robbery and kidnapping.\nLaGrand, 883 F.Supp. at 458.\nBecause there was a lack of evidence supporting an insanity defense, and because pursuing an insanity defense would have made Karl\u2019s lengthy and violent criminal history admissible, counsel\u2019s decision not to pursue the insanity defense was reasonable and did not constitute ineffective assistance.\nc. Suppression of Karl\u2019s Confession\nAfter being arrested, Karl made two confessions to the police wherein he admitted committing the murder and stated that it was done in a moment of rage. Karl\u2019s previous attorney succeeded in having the confessions suppressed on the grounds that the confessions were involuntary and that Karl had not received his Miranda warnings.\nAfter Karl\u2019s trial counsel became the lead counsel, he decided that the confessions would be useful at sentencing. The confessions contained statements that made the murder seem less heinous than the eyewitness testimony of Ms. Lopez. If Karl was convicted of first-degree murder, counsel wanted to use the confessions at sentencing in order to mitigate the sentence. Trial counsel sought reversal of the trial court\u2019s decision of involuntariness. The trial court agreed, and although the statements were inadmissible at trial due to the lack of a Miranda warning, the statements became admissible at sentencing.\nKarl claims that his counsel acted ineffectively because counsel changed strategies on whether or not the confessions should be suppressed. We reject this claim.\nPrevious counsel\u2019s decision to seek suppression of the confessions was reasonable. The confessions, while evidencing impulsivity, also contained statements that were highly incriminating because they tended to place the entire blame for Hartsoek\u2019s death on Karl. Previous counsel believed that Karl was confessing to something that he did not do. Eyewitness testimony contradicted what Karl had confessed to. Thus, previous counsel believed that Karl\u2019s confessions would be harmful to the case and therefore made a decision to seek suppression, an effort in which trial counsel participated.\nTrial counsel\u2019s decision to seek retraction of the trial court\u2019s ruling to the extent that the confessions were involuntary was also reasonable. This enabled counsel to exclude the confessions when they would have been the most damaging \u2014 during the guilt finding phase \u2014 and utilize them at a time when they could prove useful \u2014 during sentencing.\nHowever, Karl claims that the use of the confessions at sentencing was .only useful to Walter and that trial counsel\u2019s decision to have the confessions admissible during sentencing was therefore ineffective. We disagree. The confessions revealed a less egregious crime than that presented by the eyewitness testimony of Ms. Lopez. The sentencing was to be done by the trial judge, who would' have already heard Ms. Lopez\u2019s testimony. Thus, counsel introduced the confessions at the sentencing phase, with the possibility that Karl\u2019s version of the events would offset the testimony of Ms. Lopez. In the absence of the confessions, the sentencer would have no record evidence of Karl\u2019s conduct except that of Ms. Lopez. This use of Karl\u2019s confessions during sentencing was a sound and reasonable strategic decision by Karl\u2019s trial counsel and, as such, does not constitute ineffective assistance.\nd. Interview and Examination of Witnesses\nKarl argues that his counsel acted ineffectively by failing to interview and examine all of the witnesses at trial. We are not persuaded.\nPrior to the time that trial counsel was appointed to represent Karl, all of the witnesses had been interviewed. Trial counsel reviewed the transcripts of these interviews. An investigator had also been working on the ease prior to trial counsel\u2019s appointment, and trial counsel had access to, and reviewed, this investigator\u2019s reports. Trial counsel put in the equivalent of twenty-seven eight-hour days in trial preparation. He personally interviewed the only eyewitness, Ms. Lopez. The fact that trial counsel did not personally interview each witness does not constitute ineffective assistance. See Eggleston v. United States, 798 F.2d 374, 376 (9th Cir.1986) (trial counsel does not need to interview a witness if the witness\u2019s account is fairly known to counsel).\nAt trial, Karl\u2019s trial counsel was very quiet. Of the eighteen witnesses called by the Government, trial counsel cross-examined only two. One of the witnesses cross-examined by trial counsel was Ms. Lopez.\nThe Arizona Supreme Court held:\nAlthough trial counsel here kept an exceedingly low profile, we cannot say that his performance was so deficient as to compromise the adversarial nature of the trial____ Failure to cross-examine most witnesses was not deficient because co-defendant\u2019s counsel did an excellent job of cross-examining them. Counsel did cross-examine Dawn Lopez, -\u00e1nd establish that Karl was kicked. While we normally expect to see more vigorous representation from counsel, particularly in a death penalty case, we cannot say that counsel\u2019s trial performance was ineffective.\nLaGrand, 152 Ariz. at 486, 733 P.2d at 1069. We agree.\nThe trial court\u2019s sequence of examination of witnesses resulted in Walter\u2019s counsel cross-examining each of the State\u2019s witnesses prior to Karl\u2019s trial counsel having that opportunity. All parties agree that Walter\u2019s counsel did an exceptional job cross-examining the witnesses. Thus, there was not much left to cross-examine when Karl\u2019s counsel was allowed to address the witness. If Karl\u2019s counsel repeated the questions asked by Walter\u2019s counsel, any negative answers would simply have been magnified in the jury\u2019s mind. Karl\u2019s counsel made a reasonable decision not to add to the questioning of most of the witnesses.\nThe strategies of respective defense counsel at trial were not nearly as antagonistic as Karl now urges. The evidence against Karl and Walter overlapped. Questions asked by Walter\u2019s counsel often inured to the benefit of Karl. In fact, both brothers had the same interests as against each witness except Ms. Lopez. Walter\u2019s counsel presented expert testimony regarding flaws associated with eyewitness testimony and extensively cross-examined Ms. Lopez regarding prior inconsistent statements, both of which benefited Karl. In addition, Karl\u2019s trial counsel cross-examined Ms. Lopez and attempted to elicit responses from her that would have aided Karl in establishing that his actions were the result of an impulsive reaction rather than premeditation.\nAlthough Karl\u2019s trial counsel\u2019s performance was not perfect, it was not so unreasonable as to overcome the presumption that, \u00fcnder the circumstances, counsel\u2019s conduct was within the wide range of competent professional assistance. Karl\u2019s trial counsel\u2019s performance was therefore not ineffective. See Strickland, 466 U.S. at 687-88, 104 S.Ct. at 2064-65.\ne. Zealous Representation\nKarl claims that the totality of his counsel\u2019s representation was not effective, pointing out that counsel did not give an opening statement, only cross-examined two witnesses, and was inexperienced. In this sense, Karl asserts, his attorney acted as a neutral observer rather than a zealous advocate. But trial counsel was not the \u201cpotted plant\u201d that Karl now paints him as.\nKarl\u2019s counsel filed several pretrial motions, which were joined by Walter\u2019s counsel, as well as joining in motions filed by Walter\u2019s counsel. He persisted in pursuing the psychological test when the first results were inconclusive and finally obtained a usable result when the questions were read to Karl. He examined Ms. Lopez during the hearing on the identification of the defendants, as well as joining in motions filed by Walter\u2019s counsel. Trial counsel also questioned well over half of the available prospective jurors during the individual voir dire.\nTrial counsel\u2019s conduct during trial was not so limited as to be ineffective. First, the failure to give an opening statement did not render trial counsel\u2019s assistance ineffective. Counsel did not waive opening statement, but rather chose to reserve it and wait until he heard all of the state\u2019s evidence before making an opening statement. After the closing of the state\u2019s ease, counsel chose not to put on any witnesses. Trial counsel thus lost the opportunity to give an opening statement. This was a reasonable strategic decision by counsel and did not constitute ineffective assistance. See United States v. Rodriguez-Ramirez, 111 F.2d 454, 458 (9th Cir.1985) (the timing of opening statement, including the decision on whether or not to make one, is a trial tactic and does not constitute a basis for a claim of ineffective assistance).\nKarl argues that trial counsel\u2019s inexperience rendered his assistance ineffective. In considering a claim of ineffective assistance of counsel, it is not the experience of the attorney that is evaluated, but rather, his performance.\nFinally, as stated previously, trial counsel\u2019s decision to cross-examine only two of the State\u2019s witnesses did not constitute ineffective assistance. Most of the testimony applied to both defendants. The witnesses did not, for the most part, distinguish between Walter and Karl. Cross-examination simply because it was permissible would have served no purpose. The one conspicuous exception was Dawn Lopez, and trial counsel did cross-examine her.\nAlthough Karl\u2019s counsel was not very active during the trial, there is nothing to suggest that he was ineffective. Walter\u2019s counsel presented numerous arguments that benefitted both parties equally. Karl\u2019s counsel made a reasonable decision to \u201clay low\u201d and allow Walter\u2019s arguments to represent them both. There was nothing to be gained by repeating the same arguments advanced by another attorney. Although Karl\u2019s counsel chose not to argue every point, his representation did not fall below the reasonably competent performance guaranteed by the Constitution. See Atkins v. Singletary, 965 F.2d 952, 960 (11th Cir.1992) (The Constitution \u201crequires a good deal less than maximum performance.\u201d), cert. denied, 515 U.S. 1165, 115 S.Ct. 2624, 132 L.Ed.2d 865 (1995).\nf. Mitigation\nKarl claims that his counsel failed to competently investigate, prepare and present evidence at the mitigation hearing. We reject this claim.\nThe record shows that Karl\u2019s counsel presented numerous mitigating factors at the sentencing hearing. Counsel called a psychiatrist to testify about Karl\u2019s impulsiveness and introduced a report by a clinical psychologist. Counsel introduced Karl\u2019s confessions into evidence because he thought they presented a less egregious account of the events in the bank than the eyewitness account and because it bolstered Karl\u2019s impulsivity defense.\nFurthermore, Walter\u2019s counsel introduced extensive mitigation evidence which applied equally to both Walter and Karl. Walter\u2019s counsel called Walter and Karl\u2019s sister to present mitigation evidence and her testimony about the nature of the LaGrand family applied equally to Karl and Walter.\nWe cannot say that counsel\u2019s performance fell outside the wide range of reasonable professional assistance. Counsel\u2019s assistance was therefore not ineffective. See Paradis v. Arave, 20 F.3d 950, 959 (9th Cir.1994) (counsel was not ineffective despite defendant\u2019s claim that counsel called only one mitigation witness and failed to develop information regarding defendant\u2019s oppressive upbringing and the fact that he was easily angered), cert. denied, 513 U.S. 1117, 115 S.Ct. 915, 130 L.Ed.2d 796 (1995).\n3. Estoppel\nKarl\u2019s present counsel submitted an affidavit of trial counsel in support of the claim that trial counsel had been ineffective. The affidavit was apparently prepared by present counsel. In response, the Arizona Attorney General\u2019s office sent a copy of the affidavit to the Arizona State Bar, pursuant to obligations under the State Bar\u2019s Ethical Rules, suggesting that Mr. Gerson, Karl\u2019s trial counsel, had admitted a violation of the Ethical Rules requiring competent representation.\nKarl now argues that the State is estopped to continue to contend that trial counsel provided effective representation to Karl. The basic argument is that the State had asserted that trial counsel was incompetent and ineffective.,\nKarl\u2019s claim has no merit. The State has contended throughout all proceedings that trial counsel met the Strickland standard. Its letter to the bar did not say that trial counsel was incompetent and ineffective, but that his admissions demonstrated a violation of the Ethical Rules. If trial counsel, in falling on his sword, had admitted he was ineffective, the Attorney General\u2019s office believed it had a professional obligation under the Ethical Rules to bring it to the bar\u2019s attention. This is not sufficient to estop the State from continuing to contend, as it has throughout, that Karl received adequate representation.\nB. Karl\u2019s Motion for New Counsel\nShortly before trial, the trial court considered and rejected, after inquiry of Karl, his \u201cDeclaration of Conflict Between Attorney and Client\u201d filed some forty-five days prior. The declaration said that trial counsel had failed to come to the prison to visit Karl in order to discuss the defense which the defendant wished to use.\nIn reviewing the rejection of defeh-dant\u2019s request for new counsel, we look at three factors: the timeliness of the request; the adequacy of the trial court\u2019s inquiry; and \u201cwhether the conflict between the defendant and. his attorney was so great that it resulted in a total lack of communication between the defendant and his attorney.\u201d Bland v. California Dep\u2019t of Corrections, 20 F.3d 1469, 1475 (9th Cir.) (citation omitted), cert. denied, 513 U.S. 947, 115 S.Ct. 357, 130 L.Ed.2d 311 (1994).\nHere, Karl\u2019s request was filed forty-five days before trial, so it was timely. The trial court\u2019s inquiry went to the relationship between Karl and his trial counsel, not to the legal competency of trial counsel. See id. at 1476. The inquiry was adequate under the circumstances and did not reveal a total lack of communication between Karl and trial counsel.\nKarl complained of inadequate time in meetings and of gloomy predictions by trial counsel. But the record discloses no total failure of communication. In fact, just moments before considering Karl\u2019s declaration, the trial court inquired about the pending motion for a mental condition examination. Trial counsel said that a decision had been made to withdraw the motion, stating both that \u201cwe\u2019ve\u201d decided and \u201cI\u2019ve\u201d decided to withdraw the motion. The following exchange took place:\nTHE COURT: Who decided?\nMR. GERSON: I did some time ago.\nTHE COURT: Is that what your client wants?\nMR. GERSON: I\u2019ve discussed it with him. He\u2019s not indicated otherwise.\nTHE COURT: Well, unless he speaks up right now, I\u2019m going to assume that you\u2019re speaking for him.\nDEFENDANT KARL LaGRAND: Yes, he\u2019s speaking for me.\nIn Morris v. Slappy, 461 U.S. 1, 103 S.Ct. 1610, 75 L.Ed.2d 610 (1983), the Supreme Court considered a similar claim. The assistant public defender assigned to the case was replaced just before trial because of health problems. Slappy complained that the new public defender did not have enough time to prepare, that his new lawyer had not talked to him much, and that the new lawyer told him he had no defense to the charges. In holding that the trial court properly denied Slappy\u2019s claims, the Supreme Court specifically rejected the argument that the Sixth Amendment guaranteed a defendant a \u201cmeaningful relationship\u201d with his lawyer. Id. at 13-14, 103 S.Ct. at 1617-18.\nKarl also argues that he was entitled to the appointment of a new lawyer to represent him in his request for a change in trial counsel. Karl cites no authority for this novel extension of the right to counsel, and we have found none. Karl had counsel at the time of his request who did not oppose the request. A motion to replace a criminal defendant\u2019s trial counsel admittedly creates a delicate situation for the lawyer, the defendant and the court. But bringing in a new lawyer is not required to protect the defendant\u2019s rights. The obligation of the trial court to inquire is by now well known, and an appropriate inquiry made by the trial judge will disclose whether the relationship has deteriorated to the point that communication has been destroyed. The defendant\u2019s self-interest and his lawyer\u2019s continuing professional obligation are sufficient to enable the trial court to make the necessary determination.\nCONCLUSION\nThe judgment of the district court denying the petitions for writ of habeas corpus is AFFIRMED.\n. The court found that the following aggravating circumstances were proven beyond a reasonable doubt: prior conviction of a felony involving the use or threat of violence on another person, expectation of pecuniary gain, and commission of the crime in an especially heinous, cruel or depraved manner. State v. Walter LaGrand, 153 Ariz. at 34-36, 734 P.2d at 576-77; State v. Karl LaGrand, 152 Ariz. 483, 488-89, 733 P.2d 1066, 1072 (1987). The court considered three mitigating factors: defendants ages (18 and 19), their prior home lives, and their remorse. Id.\n. The LaGrands base most of their arguments here on cases decided after the crime was committed. Those cases would obviously not support their argument that the LaGrands lacked notice of the extent of the statute\u2019s reach at the time of the crime.\n. Enmund v. Florida, 458 U.S. 782, 102 S.Ct. 3368, 73 L.Ed.2d 1140 (1982).\n. For purposes of this opinion, we will assume that such a challenge is properly brought in a Section 2254 action. While the claim is procedurally barred by failure to raise it in state court, we will examine the merits of the claim to determine if the LaGrands could meet the prejudice prong of the cause and prejudice standard of Wainwright v. Sykes, 433 U.S. 72, 97 S.Ct. 2497, 53 L.Ed.2d 594(1977).\n. See also the discussion in Montana v. Egelhoff, 518 U.S. 37, ---, 116 S.Ct. 2013, 2021-22, 135 L.Ed.2d 361 (1996) (plurality opinion).\n. Much of the analysis here relies upon cases in which federal appeals courts were directly reviewing the evidentiary rulings of federal trial courts, rather than collaterally reviewing state court rulings in the context of federal habeas proceedings. The court is mindful of the distinction between direct and collateral review, including the fact that direct review involves application of the abuse of discretion standard, while collateral review falls under the \"substantial and injurious effect\u201d standard announced in Brecht. However, the rules and considerations that guide federal appeals courts on direct review of federal trial court rulings are nonetheless instructive, and in any event, the \"abuse of discretion\u201d standard of review is less deferential than the standard applied to state court rulings in habeas cases. See, e.g., Engle v. Isaac, 456 U.S. 107, 134-35, 102 S.Ct. 1558, 1575, 71 L.Ed.2d 783 (1982) (\"[T]he burden of justifying federal habeas relief for state prisoners is greater than the showing required to establish plain error on direct appeal.\u201d) (internal quotations omitted).\n. Weinstein\u2019s Evidence, \u00b6 804(b)(3)[03]. Peter W. Tague, Perils of the Rule-making Process: The Development, Application and Unconstitutionality of Rule 804(b)(3)\u2019s Penal Interest Exception, 69 Geo.L.J. 851 (1981). Edward J. Imwinkelried, The Constitutionalization of Hearsay: The Extent to Which the Fifth and. Sixth Amendments Permit or Require the Liberalization of the Hearsay Rules, 76 Minn.L.Rev. 521 (1992).\n. The district court\u2019s finding that expert testimony was an inappropriate method for determining the relevant standard of care against which trial counsel\u2019s performance is to be measured was not erroneous. Although the determination of whether counsel has performed deficiently is a mixed question \u00f3f law and fact, see Strickland, 466 U.S. at 698, 104 S.Ct. at 2070, as stated above, there is no requirement that expert testimony of outside attorneys be used to determine the appropriate standard of care.\n. Trial counsel testified during the evidentiary hearing, but he had reviewed very little of the file, and had little or no recollection of why he did anything during his representation of Karl.",
+        "type": "majority",
+        "author": "T.G. NELSON, Circuit Judge:"
+      },
+      {
+        "text": "PREGERSON, Circuit Judge,\ndissenting:\nI dissent because J believe that the LaG-rands\u2019 challenge to Arizona\u2019s lethal gas statute is ripe for review.\nThe LaGrands are condemned prisoners in Arizona. Under Arizona\u2019s death penalty statute, the LaGrands will be executed by lethal injection unless they choose lethal gas. Ariz.Rev.Stat. \u00a7 13-704(B). In their petitions for habeas corpus, the LaGrands argue that execution by lethal gas is cruel and unusual punishment prohibited by the Eighth Amendment.\nBecause the LaGrands have not yet chosen lethal gas as the method of execution, the majority concludes that the LaGrands\u2019s challenge to the lethal gas statute \u201cis not ripe and cannot be considered.\u201d In Campbell v. Wood, 18 F.3d 662 (9th Cir.1994) (en banc), however, we considered \u2014 and rejected \u2014 the mirror image of this theory: namely, that an Eighth Amendment challenge to a \u201cchoice\u201d statute is nonjusticiable because a prisoner can choose a means of execution that renders the controversy moot. We held, in circumstances almost identical to those involved here, that a prisoner\u2019s challenge to Washington\u2019s death penalty statute was justiciable. Id. at 681. I can discern no principled distinction between the present case and Campbell to support their conflicting outcomes.\nMoreover, the majority\u2019s opinion conflicts with established Supreme Court pronouncements on ripeness. In Thomas v. Union Carbide Agricultural Products, 473 U.S. 568, 581, 105 S.Ct. 3325, 3333, 87 L.Ed.2d 409 (1985), the Supreme Court determined that an issue is ripe for adjudication if it is \u201cpurely legal, and will not be clarified by further factual development.\u201d The LaGrands\u2019s claim is a purely legal one, and postponing a determination on the merits will not change the legal basis for decision.\nI. JUSTICIABILITY OF A PRISONER\u2019S CHALLENGE TO A DEATH PENALTY STATUTE\nIn Campbell, Charles Campbell, a condemned prisoner, challenged Washington\u2019s death penalty statute. Campbell, 18 F.3d 662. The statute provided for death by hanging unless the defendant chose lethal injection. Id. at 680 (citing Wash. Rev.Code 10.95.180(1)). Campbell argued that death by hanging was cruel and unusual punishment and that the statute therefore violated the Eighth Amendment. The State of Washington argued that Campbell\u2019s claim was nonjusticiable because he could render the controversy moot by choosing lethal injection instead of hanging. Id. at 681.\nAn en banc panel of this court unanimously rejected the State\u2019s argument. We stated that the \u201cState\u2019s focus on Campbell\u2019s ability to choose lethal injection is misplaced\u201d because the government may not \u201ccloak unconstitutional punishments in the mantle of \u2018choice.\u2019 \u201d Id. at 680-81.\nWe illustrated this principle with several of our earlier decisions. Id. (discussing Dear Wing Jung v. United States, 312 F.2d 73 (9th Cir.1962); United States v. Terrigno, 838 F.2d 371 (9th Cir.1988); and United States v. Consuelo-Gonzalez, 521 F.2d 259 (9th Cir.1975)). In Dear Wing Jung, for instance, we noted that departure from the United States as a condition of suspending a sentence was either cruel and unusual punishment or a denial of due process. We held that the condition did not escape review on the ground that the defendant could choose the constitutional punishment of a prison term: \u201cIt is not enough for the government to answer that such condition merely gave the defendant a \u2018choice.\u2019 For instance, if the condition were that the defendant must join a certain church, that would be an unconstitutional condition upon the sentence.\u201d Dear Wing Jung, 312 F.2d at 75-76.\nLikewise, in Terrigno and Consuelo-Gonzalez, we considered the constitutionality of probation conditions, although in those cases as well, the defendant could have chosen to remain incarcerated. Terrigno, 838 F.2d at 374 (considering whether probation condition violated defendant\u2019s First Amendment rights); Consuelo-Gonzalez, 521 F.2d at 264 (considering whether probation condition violated defendant\u2019s Fourth Amendment rights). In light of these decisions, we held that Cambell\u2019s challenge to hanging was justicia-ble.\nI fail to understand why Campbell\u2019s mere indication that he would elect death by hanging makes his claim more justiciable than the LaGrands\u2019s claim. Campbell\u2019s indication that he would choose death by hanging was not binding and not final. Indeed, Campbell\u2019s \u201cchoice\u201d was not even specifically articulated-he said that he would be silent, which would result, by default, in death by hanging. When viewed in terms of legally binding, final decisions, the posture of the LaGrands\u2019s challenge is identical to that of Campbell.\nFurthermore, the eases relied on in Campbell do not make the distinction that the majority makes. In fact, it appears that the prisoners in those cases-like the prisoners here-had not chosen the unconstitutional method of execution. See Dear Wing Jung, 312 F.2d at 73 (parenthetical); Terrigno, 838 F.2d at 374 (parenthetical); Consuelo-Gonzalez, 521 F.2d at 264 (parenthetical). Nor, apparently, did they \u201cconsistently maintain\u201d that they would remain silent and elect, by default, the challenged method of death. Nevertheless, their claims were justiciable.\nIt is unreasonable to say that we will not decide whether the LaGrands claim is unconstitutional until the LaGrands choose the very method that they are challenging as cruel and unusual. Such a legal system would subject individuals to actual cruel or unusual punishment under an unconstitutional law until someone chooses lethal gas in order to assert a legal challenge against it.\nII. SUPREME COURT LAW ON RIPENESS\nThe majority correctly chose the two-part test of Abbott Laboratories v. Gardner, 387 U.S. 136, 87 S.Ct. 1507, 18 L.Ed.2d 681 (1967) to determine the ripeness of the LaG-rands\u2019s claim. This test requires the court to \u201cevaluate both the fitness of the issues for judicial decision and the hardship to the parties of withholding court consideration.\u201d Id. at 149, 87 S.Ct. at 1515. The majority is mistaken, however, in its conclusion that this case is not ripe under Abbott Laboratories.\nA. Fitness for Judicial Review\nThe majority insists on relying on the doctrine of ripeness as a justification for its delay in addressing the constitutionality of the Arizona death penalty statute. The majority\u2019s decision is inconsistent with the rationale of Abbott Laboratories and Thomas. In Abbott Laboratories, the Court found that where \u201cthe issue tendered is a purely legal one,\u201d the first prong of the ripeness test is satisfied. Id. As was true in Abbott Laboratories, the LaGrands\u2019s challenge presents a purely legal issue: Is Arizona\u2019s death penalty statute constitutional? In Thomas, the Court held that an issue is ripe if the issue \u201cwill not be clarified by further factual development.\u201d Thomas v. Union Carbide Agric. Prods., 473 U.S. 568, 581, 105 S.Ct. 3325, 3333, 87 L.Ed.2d 409 (1985). Because the issue in this case \u201cwill not be clarified by further factual development,\u201d the LaGrands\u2019s challenge is purely legal and is therefore fit for judicial review.\nNo interest is served by delaying the resolution of the LaGrands purely legal claim. Whether or not the LaGrands ultimately chose lethal gas as the method of their execution will have absolutely no effect on the constitutional question that the LaGrands have raised.\nB. Hardship to the Parties\nWithholding court consideration will cause hardship to all parties involved \u2014 including, incidently, this court.\nWhat should the LaGrands do after reading the majority\u2019s opinion? The lesson appears to be that if the LaGrands, like Campbell, \u201cconsistently maintain\u201d that they will elect an arguably unconstitutional method of execution, then the LaGrands can challenge that method. Therefore, the obvious course for the LaGrands is to begin to \u201cconsistently maintain\u201d that they will choose gas. (They need not actually choose gas.) The LaG-rands\u2019s claim will then be ripe and will someday return to our court.\nPostponing review of the LaGrands\u2019s Eighth Amendment challenge will cause hardship to the LaGrands as well. Instead of receiving this court\u2019s deliberate and thoughtful consideration of their challenge, the LaGrands will be forced to present their claim in a \u201clast-minute\u201d habeas petition.\nNor does Arizona gain anything from the majority\u2019s reluctance to address the issue. In fact, the majority\u2019s decision frustrates Arizona\u2019s alleged interest in executing the LaGrands without undue delay by providing another ground for a future \u201clast-minute\u201d appeal.\nFinally, I note the prudential concern in addressing the LaGrands\u2019s claims now. The majority opinion conflicts with the federal policy to resolve habeas petitions as early as possible. The majority\u2019s decision defeats this policy by postponing a decision on the merits until after the LaGrands choose to be executed by lethal gas. Do we want to see the LaGrands\u2019s challenge to lethal gas presented by a flurry of faxes as the hour of execution looms? Do we wish to make an important decision in harried circumstances?\nUnder the majority\u2019s decision, Arizona has successfully accomplished exactly what we feared in Campbell: it has cloaked an unconstitutional punishment in the mantle of \u201cchoice.\u201d Campbell, 18 F.3d at 680. Because the majority has offered no satisfactory explanation why Cambell\u2019s claim was jus-ticiable while the LaGrands\u2019s claim is not, I respectfully dissent.\n. Arizona\u2019s \"choice\" statute at issue provides in part:\n\u00a7 13-704. Method of infliction of sentence of death\nB. A defendant who is sentenced to death for an offense committed before November 23, 1992 shall choose either lethal injection or lethal gas at least twenty days before the execution date. If the defendant fails to choose either lethal injection or lethal gas, the penalty of death shall be inflicted by lethal injection.\nAriz.Rev.Stat. \u00a7 13-704. Nothing in my reading of the statute prevents a prisoner from \"main-taming\u201d that he will choose gas, and then actually choose lethal injection twenty days before his execution date.\nIn fact, nothing in the statute seems to preclude a defendant from actually choosing gas well before the twenty-day mark, and then changing his mind and making lethal injection his final choice.\nThe panel\u2019s ripeness analysis would encourage this choice-changing, which is a traumatizing experience for the defendant and a bureaucratic headache for the judicial system.",
+        "type": "dissent",
+        "author": "PREGERSON, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Carla G. Ryan, Tucson, Arizona, and Lawrence B. Weeks, Coolidge, Arizona, for petitioner-appellant Karl Hinze LaGrand.",
+      "Bruce A. Burke, Tucson, Arizona, for petitioner-appellant Walter LaGrand.",
+      "Paul J. McMurdie, Deputy Attorney General, Phoenix, Arizona, for respondents-ap-pellees."
+    ],
+    "corrections": "",
+    "head_matter": "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee. Walter Burnhart LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, Respondent-Appellee.\nNos. 95-99010, 95-99011.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted March 22, 1996.\nDecided Jan. 16, 1998.\nCarla G. Ryan, Tucson, Arizona, and Lawrence B. Weeks, Coolidge, Arizona, for petitioner-appellant Karl Hinze LaGrand.\nBruce A. Burke, Tucson, Arizona, for petitioner-appellant Walter LaGrand.\nPaul J. McMurdie, Deputy Attorney General, Phoenix, Arizona, for respondents-ap-pellees.\nBefore: HUG, Chief Judge, and PREGERSON and T.G. NELSON, Circuit Judges.\nTerry Stewart is substituted for Samuel A. Lewis, his predecessor, as Director, Arizona Department of Corrections, pursuant to Fed. R.App. P. 43(c)."
+  },
+  "file_name": "1253-01",
+  "first_page_order": 1337,
+  "last_page_order": 1363
+}

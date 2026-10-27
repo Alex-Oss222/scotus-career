@@ -1,0 +1,694 @@
+{
+  "id": 6207085,
+  "name": "WITTERS v. WASHINGTON DEPARTMENT OF SERVICES FOR THE BLIND",
+  "name_abbreviation": "Witters v. Washington Department of Services for the Blind",
+  "decision_date": "1986-01-27",
+  "docket_number": "No. 84-1070",
+  "first_page": "481",
+  "last_page": "493",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "474 U.S. 481"
+    },
+    {
+      "type": "parallel",
+      "cite": "88 L. Ed. 2d 846"
+    },
+    {
+      "type": "parallel",
+      "cite": "106 S. Ct. 748"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1985-030"
+    },
+    {
+      "type": "vendor",
+      "cite": "1986 U.S. LEXIS 49"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "399 U. S. 392",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170136
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "450, n. 66"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/399/0392-01"
+      ]
+    },
+    {
+      "cite": "12 How. 139",
+      "category": "reporters:scotus_early",
+      "reporter": "How.",
+      "case_ids": [
+        3365659
+      ],
+      "year": 1851,
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/53/0139-01"
+      ]
+    },
+    {
+      "cite": "Wash. Rev. Code \u00a774.18.130",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code",
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "parenthetical": "effective June 30,1983"
+        },
+        {
+          "page": "20"
+        },
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "331 U. S. 549",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6158393
+      ],
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "568"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/331/0549-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 349",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541334
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "363-364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0349-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343371
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0825-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 229",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178289
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "248-251"
+        },
+        {
+          "page": "264",
+          "parenthetical": "opinion of Powell, J."
+        },
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0229-01"
+      ]
+    },
+    {
+      "cite": "465 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337057
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "690",
+          "parenthetical": "O'Connor, J., concurring"
+        },
+        {
+          "page": "688",
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0668-01"
+      ]
+    },
+    {
+      "cite": "472 U. S. 38",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1512457
+      ],
+      "weight": 2,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "74"
+        },
+        {
+          "page": "64",
+          "parenthetical": "Powell, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/472/0038-01"
+      ]
+    },
+    {
+      "cite": "473 U. S. 373",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199682
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "382-383"
+        },
+        {
+          "page": "394"
+        },
+        {
+          "page": "396",
+          "parenthetical": "'Where ... no meaningful distinction can be made between aid to the student and aid to the school, 'the concept of a loan to individuals is a transparent fiction' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0373-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "weight": 6,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "761"
+        },
+        {
+          "page": "782-783, n. 38"
+        },
+        {
+          "page": "785"
+        },
+        {
+          "page": "785-786"
+        },
+        {
+          "page": "783"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    },
+    {
+      "cite": "463 U. S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195521
+      ],
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "393"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0388-01"
+      ]
+    },
+    {
+      "cite": "471 U. S. 1002",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6213410,
+        6214275,
+        6213636,
+        6212999,
+        6212718,
+        6213845,
+        6212473,
+        6213213,
+        6214045
+      ],
+      "year": 1985,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/471/1002-05",
+        "/us/471/1002-09",
+        "/us/471/1002-06",
+        "/us/471/1002-03",
+        "/us/471/1002-02",
+        "/us/471/1002-07",
+        "/us/471/1002-01",
+        "/us/471/1002-04",
+        "/us/471/1002-08"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 4,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "612-613"
+        },
+        {
+          "page": "627-628"
+        },
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "689 P. 2d 53",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "55"
+        },
+        {
+          "page": "56"
+        },
+        {
+          "page": "55"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "102 Wash. 2d 624",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137173
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "626"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wash-2d/102/0624-01"
+      ]
+    },
+    {
+      "cite": "Wash. Rev. Code \u00a774.16.181",
+      "category": "laws:leg_statute",
+      "reporter": "Wash. Rev. Code",
+      "weight": 4,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "4"
+        },
+        {
+          "page": "1"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U. S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195521
+      ],
+      "year": 1983,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/463/0388-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "year": 1970,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "330 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "weight": 2,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "16-17"
+        },
+        {
+          "page": "16"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 236",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169056
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "243-244, 248"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/392/0236-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 825",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343371
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "830-832"
+        },
+        {
+          "page": "832"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/413/0825-01"
+      ]
+    },
+    {
+      "cite": "413 U. S. 756",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11343282
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "783-785, n. 39"
+        },
+        {
+          "page": "782-783, n. 38"
+        },
+        {
+          "page": "780-789"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/413/0756-01"
+      ]
+    },
+    {
+      "cite": "463 U. S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195521
+      ],
+      "weight": 9,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "398-399"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "396"
+        },
+        {
+          "page": "397"
+        },
+        {
+          "page": "399"
+        },
+        {
+          "page": "397-400"
+        },
+        {
+          "page": "401"
+        },
+        {
+          "page": "405",
+          "parenthetical": "MARSHALL, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/463/0388-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "689 P. 2d 53",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "56"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "102 Wash. 2d 624",
+      "category": "reporters:state",
+      "reporter": "Wash. 2d",
+      "case_ids": [
+        1137173
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "628-629"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/wash-2d/102/0624-01"
+      ]
+    },
+    {
+      "cite": "465 U. S. 668",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337057
+      ],
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "690",
+          "parenthetical": "O'Connor, J., concurring"
+        }
+      ],
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/465/0668-01"
+      ]
+    },
+    {
+      "cite": "463 U. S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195521
+      ],
+      "year": 1983,
+      "opinion_index": 3,
+      "case_paths": [
+        "/us/463/0388-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1113,
+    "char_count": 24454,
+    "ocr_confidence": 0.701,
+    "pagerank": {
+      "raw": 1.09617018636035e-06,
+      "percentile": 0.9854460626855079
+    },
+    "sha256": "49f2cd28cc83fbcb551484030694acc19343f4d84b301ad00d1ddeeec869d970",
+    "simhash": "1:5b12f70f794f2c2e",
+    "word_count": 3977
+  },
+  "last_updated": "2024-02-27T23:58:05.865775+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "MARSHALL, J., delivered the opinion of the Court, in which BURGER, C. J., and Brennan, White, Blackmun, Powell, Rehnquist, and Stevens, JJ., joined, and in Parts I and III of which O\u2019Connor, J., joined. White, J., filed a concurring opinion, post, p. 490. Powell, J., filed a concurring opinion, in which BURGER, C. J., and Rehnquist, J., joined, post, p. 490. O\u2019CONNOR, J., filed an opinion concurring in part and concurring in the judgment, post, p. 493."
+    ],
+    "parties": [
+      "WITTERS v. WASHINGTON DEPARTMENT OF SERVICES FOR THE BLIND"
+    ],
+    "opinions": [
+      {
+        "text": "Justice Marshall\ndelivered the opinion of the Court.\nThe Washington Supreme Court ruled that the First Amendment precludes the State of Washington from extending assistance under a state vocational rehabilitation assistance program to a blind person studying at a Christian college and seeking to become a pastor, missionary, or youth director. Finding no such federal constitutional barrier on the record presented to us, we reverse and remand.\nf \u2014 {\nPetitioner Larry Witters applied in 1979 to the Washington Commission for the Blind for vocational rehabilitation services pursuant to Wash. Rev. Code \u00a774.16.181 (1981). That statute authorized the Commission, inter alia, to \u201c[pjrovide for special education and/or training in the professions, business or trades\u201d so as to \u201cassist visually handicapped persons to overcome vocational handicaps and to obtain the maximum degree of self-support and self-care.\u201d Ibid. Petitioner, suffering from a progressive eye condition, was eligible for vocational rehabilitation assistance under the terms of the statute. He was at the time attending Inland Empire School of the Bible, a private Christian college in Spokane, Washington, and studying the Bible, ethics, speech, and church administration in order to equip himself for a career as a pastor, missionary, or youth director. App. 7-8.\nThe Commission denied petitioner aid. It relied on an earlier determination embodied in a Commission policy statement that \u201c[t]he Washington State constitution forbids the use of public funds to assist an individual in the pursuit of a career or degree in theology or related areas,\u201d id., at 4, and on its conclusion that petitioner\u2019s training was \u201creligious instruction\u201d subject to that ban. Id., at 1. That ruling was affirmed by a state hearings examiner, who held that the Commission was precluded from funding petitioner\u2019s training \u201cin light of the State Constitution\u2019s prohibition against the state directly or indirectly supporting a religion.\u201d App. to Pet. for Cert. F-6. The hearings examiner cited Wash. Const., Art. I, \u00a7 11, providing in part that \u201cno public money or property shall be appropriated for or applied to any religious worship, exercise or instruction, or the support of any religious establishment,\u201d and Wash. Const., Art. IX, \u00a74, providing that \u201c[a]ll schools maintained or supported wholly or in part by the public funds shall be forever free from sectarian control or influence.\u201d App. to Pet. for Cert. F-4. That ruling, in turn, was upheld on internal administrative appeal.\nPetitioner then instituted an action in State Superior Court for review of the administrative decision; the court affirmed on the same state-law grounds cited by the agency. The State Supreme Court affirmed as well. Witters v. Commission for the Blind, 102 Wash. 2d 624, 689 P. 2d 53 (1984). The Supreme Court, however, declined to ground its ruling on the Washington Constitution. Instead, it explicitly reserved judgment on the state constitutional issue and chose to base its ruling on the Establishment Clause of the Federal Constitution. The court stated:\n\u201cThe Supreme Court has developed a 3-part test for determining the constitutionality of state aid under the establishment clause of the First Amendment. \u2018First, the statute must have a secular legislative purpose; second, its principal or primary effect must be one that neither advances nor inhibits religion . . . ; finally, the statute must not foster \u201can excessive government entanglement with religion.\u201d\u2019 Lemon v. Kurtzman, [403 U. S. 602, 612-613 (1971)]. To withstand attack under the establishment clause, the challenged state action must satisfy each of the three criteria. \u201d Id., at 627-628, 689 P. 2d, at 55.\nThe Washington court had no difficulty finding the \u201csecular purpose\u201d prong of that test satisfied. Applying the second prong, however, that of \u201cprincipal or primary effect,\u201d the court held that \u201c[t]he provision of financial assistance by the State to enable someone to become a pastor, missionary, or church youth director clearly has the primary effect of advancing religion.\u201d Id., at 629, 689 P. 2d, at 56. The court, therefore, held that provision of aid to petitioner would contravene the Federal Constitution. In light of that ruling, the court saw no need to reach the \u201centanglement\u201d prong; it stated that the record was in any case inadequate for such an inquiry.\nWe granted certiorari, 471 U. S. 1002 (1985), and we now reverse.\nII\nThe Establishment Clause of the First Amendment has consistently presented this Court with difficult questions of interpretation and application. We acknowledged in Lemon v. Kurtzman, 403 U. S. 602 (1971), that \u201cwe can only dimly perceive the lines of demarcation in this extraordinarily sensitive area of constitutional law.\u201d Id., at 612, quoted in Mueller v. Allen, 463 U. S. 388, 393 (1983). Nonetheless, the Court\u2019s opinions in this area have at least clarified \u201cthe broad contours of our inquiry,\u201d Committee for Public Education and Religious Liberty v. Nyquist, 413 U. S. 756, 761 (1973), and are sufficient to dispose of this case.\nWe are guided, as was the court below, by the three-part test set out by this Court in Lemon and quoted supra, at 484-485. See Grand Rapids School District v. Ball, 473 U. S. 373, 382-383 (1985). Our analysis relating to the first prong of that test is simple: all parties concede the unmistakably secular purpose of the Washington program. That program was designed to promote the well-being of the visually handicapped through the provision of vocational rehabilitation services, and no more than a minuscule amount of the aid awarded under the program is likely to flow to religious education. No party suggests that the State\u2019s \u201cactual purpose\u201d in creating the program was to endorse religion, Wallace v. Jaffree, 472 U. S. 38, 74 (1985), quoting Lynch v. Donnelly, 465 U. S. 668, 690 (1984) (O\u2019Connor, J., concurring), or that the secular purpose articulated by the legislature is merely \u201csham.\u201d Wallace, supra, at 64 (Powell, J., concurring).\nThe answer to the question posed by the second prong of the Lemon test is more difficult. We conclude, however, that extension of aid to petitioner is not barred on that ground either. It is well settled that the Establishment Clause is not violated every time money previously in the possession of a State is conveyed to a religious institution. For example, a State may issue a paycheck to one of its employees, who may then donate all or part of that paycheck to a religious institution, all without constitutional barrier; and the State may do so even knowing that the employee so intends to dispose of his salary. It is equally well settled, on the other hand, that the State may not grant aid to a religious school, whether cash or in kind, where the effect of the aid is \u201cthat of a direct subsidy to the religious school\u201d from the State. Grand, Rapids School District v. Ball, 473 U. S., at 394. Aid may have that effect even though it takes the form of aid to students or parents. Ibid.; see, e. g., Wolman v. Walter, 433 U. S. 229, 248-251 (1977); Committee for Public Education and Religious Liberty v. Nyquist, supra; Sloan v. Lemon, 413 U. S. 825 (1973). The question presented is whether, on the facts as they appear in the record before us, extension of aid to petitioner and the use of that aid by petitioner to support his religious education is a permissible transfer similar to the hypothetical salary donation described above, or is an impermissible \u201cdirect subsidy.\u201d\nCertain aspects of Washington\u2019s program are central to our inquiry. As far as the record shows, vocational assistance provided under the Washington program is paid directly to the student, who transmits it to the educational institution of his or her choice. Any aid provided under Washington\u2019s program that ultimately flows to religious institutions does so only as a result of the genuinely independent and private choices of aid recipients. Washington\u2019s program is \u201cmade available generally without regard to the sectarian-nonsectarian, or public-nonpublic nature of the institution benefited,\u201d Committee for Public Education and Religious Liberty v. Nyquist, 413 U. S., at 782-783, n. 38, and is in no way skewed towards religion. It is not one of \u201cthe ingenious plans for channeling state aid to sectarian schools that periodically reach this Court,\u201d id., at 785. It creates no financial incentive for students to undertake sectarian education, see id., at 785-786. It does not tend to provide greater or broader benefits for recipients who apply their aid to religious education, nor are the full benefits of the program limited, in large part or in whole, to students at sectarian institutions. On the contrary, aid recipients have full opportunity to expend vocational rehabilitation aid on wholly secular education, and as a practical matter have rather greater prospects to do so. Aid recipients\u2019 choices are made among a huge variety of possible careers, of which only a small handful are sectarian. In this case, the fact that aid goes to individuals means that the decision to support religious education is made by the individual, not by the State.\nFurther, and importantly, nothing in the record indicates that, if petitioner succeeds, any significant portion of the aid expended under the Washington program as a whole will end up flowing to religious education. The function of the Washington program is hardly \u201cto provide desired financial support for nonpublic, sectarian institutions.\u201d Id., at 783; see Sloan v. Lemon, supra; cf. Meek v. Pittenger, 421 U. S. 349, 363-364 (1975). The program, providing vocational assistance to the visually handicapped, does not seem well suited to serve as the vehicle for such a subsidy. No evidence has been presented indicating that any other person has ever sought to finance religious education or activity pursuant to the State\u2019s program. The combination of these factors, we think, makes the link between the State and the school petitioner wishes to attend a highly attenuated one.\nOn the facts we have set out, it does not seem appropriate to view any aid ultimately flowing to the Inland Empire School of the Bible as resulting from a state action sponsoring or subsidizing religion. Nor does the mere circumstance that petitioner has chosen to use neutrally available state aid to help pay for his religious education confer any message of state endorsement of religion. See Lynch v. Donnelly, 465 U. S., at 688 (O\u2019Connor, J., concurring). Thus, while amici supporting respondent are correct in pointing out that aid to a religious institution unrestricted in its potential uses, if properly attributable to the State, is \u201cclearly prohibited under the Establishment Clause,\u201d Grand, Rapids, supra, at 395, because it may subsidize the religious functions of that institution, that observation is not apposite to this case. On the facts present here, we think the Washington program works no state support of religion prohibited by the Establishment Clause.\nf \u2014 H I \u2014 I 1 \u2014 I\nWe therefore reject the claim that, on the record presented, extension of aid under Washington\u2019s vocational rehabilitation program to finance petitioner\u2019s training at a Christian college to become a pastor, missionary, or youth director would advance religion in a manner inconsistent with the Establishment Clause of the First Amendment. On remand, the state court is of course free to consider the applicability of the \u201cfar stricter\u201d dictates of the Washington State Constitution, see Witters v. Commission for the Blind, 102 Wash. 2d, at 626, 689 P. 2d, at 55. It may also choose to reopen the factual record in order to consider the arguments made by respondent and discussed in nn. 3 and 5, supra. We decline petitioner\u2019s invitation to leapfrog consideration of those issues by holding that the Free Exercise Clause\"! requires Washington to extend vocational rehabilitation aid to petitioner regardless of what the State Constitution com- ffi1\" mands or further factual development reveals, and we express no opinion on that matter. See Rescue Army v. Municipal Court, 331 U. S. 549, 568 (1947).\nThe judgment of the Washington Supreme Court is reversed, and the case is remanded for further proceedings not inconsistent with this opinion.\nIt is so ordered.\nIn 1983 the Washington Legislature repealed chapters 74.16 and 74.17 of the Code, enacting in their place a new chapter 74.18. The statutory-revision abolished the Commission for the Blind and created respondent Department of Services for the Blind. See 1983 Wash. Laws, ch. 194, \u00a7 3. We shall refer to respondent for purposes of this opinion as \u201cthe Commission.\u201d\nWashington Rev. Code, ch. 74.18, see n. 1, supra, establishes a requirement that aid recipients be persons who \u201c(1) have no vision or limited vision which constitutes or results in a substantial handicap to employment and (2) can reasonably be expected to benefit from vocational rehabilitation services in terms of employability.\u201d Wash. Rev. Code \u00a774.18.130 (1983) (effective June 30,1983). It has not been established whether petitioner is eligible for aid under the new standard. That determination, however, will have no effect on any claim asserted by petitioner for reimbursement of aid withheld beginning in 1979.\nRespondent offers extensive argument before this Court relating to the practical workings of the state vocational assistance program. Focusing on the asserted practical \u201cnature and operation of that program,\u201d Brief for Respondent 6, respondent asserts that the nature of the program in fact leads to an impermissible \u201csymbolic union\u201d of governmental and religious functions, \u201crequiring] government choices at every step of the rehabilitation process\u201d and \u201cintertwining . . . governmental decisionmaking . . . with decisionmaking by church and school authorities.\u201d Id., at 20. Respondent contends that the program therefore violates the second and third prongs of the Lemon test in a way that \u201chands off\u201d aid, such as that provided pursuant to the GI Bill, does not. Id., at 11.\nThis argument, however, was not presented to the state courts, and appears to rest in large part on facts not part of the record before us. Because this Court must affirm or reverse upon the case as it appears in the record, Russell v. Southard, 12 How. 139, 159 (1851); see also New Haven Inclusion Cases, 399 U. S. 392, 450, n. 66 (1970), we have no occasion to consider the argument here. Nor is it appropriate, as a matter of good judicial administration, for us to consider claims that have not been the subject of factual development in earlier proceedings. On remand, it will be up to the Washington Supreme Court as a matter of state procedural law whether and to what extent it should reopen the record for the introduction of evidence on the issues raised for the first time in this Court.\nThis is not the ease described in Grand Rapids School District v. Ball, 473 U. S. 373, 396 (1985) (\u2018Where ... no meaningful distinction can be made between aid to the student and aid to the school, \u2018the concept of a loan to individuals is a transparent fiction\u2019 \u201d), quoting Wolman v. Walter, 433 U. S. 229, 264 (1977) (opinion of Powell, J.); see also Wolman, supra, at 250.\nWe decline to address the \u201centanglement\u201d issue at this time. As a prudential matter, it would be inappropriate for us to address that question without the benefit of a decision on the issue below. Further, we have no reason to doubt the conclusion of the Washington Supreme Court that that analysis could be more fruitfully conducted on a more complete record.",
+        "type": "majority",
+        "author": "Justice Marshall"
+      },
+      {
+        "text": "Justice White,\nconcurring.\nI remain convinced that the Court\u2019s decisions finding constitutional violations where a State provides aid to private schools or their students misconstrue the Establishment Clause and disserve the public interest. Even under the cases in which I was in dissent, however, I agree with the Court that the Washington Supreme Court erred in this case. Hence, I join the Court\u2019s opinion and judgment. At the same time, I agree with most of Justice Powell\u2019s concurring opinion with respect to the relevance of Mueller v. Allen, 463 U.S. 388 (1983), to this case.",
+        "type": "concurrence",
+        "author": "Justice White,"
+      },
+      {
+        "text": "Justice Powell,\nwith whom The Chief Justice and Justice Rehnquist join, concurring.\nThe Court\u2019s omission of Mueller v. Allen, 463 U. S. 388 (1983), from its analysis may mislead courts and litigants by suggesting that Mueller is somehow inapplicable to cases such as this one. I write separately to emphasize that Mueller strongly supports the result we reach today.\nAs the Court states, the central question in this case is whether Washington\u2019s provision of aid to handicapped students has the \u201cprincipal or primary effect\u201d of advancing religion. Lemon v. Kurtzman, 403 U. S. 602, 612 (1971). See also Committee for Public Education and Religious Liberty v. Nyquist, 413 U. S. 756, 783-785, n. 39 (1973). Mueller makes the answer clear: state programs that are wholly neutral in offering educational assistance to a class defined without reference to religion do not violate the second part of the Lemon v. Kurtzman test, because any aid to religion results from the private choices of individual beneficiaries. Mueller, 463 U. S., at 398-399. Thus, in Mueller, we sustained a tax deduction for certain educational expenses, even though the great majority of beneficiaries were parents of children attending sectarian schools. Id., at 401. We noted the State\u2019s traditionally broad taxing authority, id., at 396, but the decision rested principally on two other factors. First, the deduction was equally available to parents of public school children and parents of children attending private schools. Id., at 397; see Nyquist, supra, at 782-783, n. 38. Second, any benefit to religion resulted from the \u201cnumerous private choices of individual parents of school-age children.\u201d Mueller, supra, at 399.\nThe state program at issue here provides aid to handicapped students when their studies are likely to lead to employment. Aid does not depend on whether the student wishes to attend a public university or a private college, nor does it turn on whether the student seeks training for a religious or a secular career. It follows that under Mueller the State\u2019s program does not have the \u201cprincipal or primary effect\u201d of advancing religion.\nThe Washington Supreme Court reached a different conclusion because it found that the program had the practical effect of aiding religion in this particular case. Witters v. Commission for the Blind, 102 Wash. 2d 624, 628-629, 689 P. 2d 53, 56 (1984). In effect, the court analyzed the case as if the Washington Legislature had passed a private bill that awarded petitioner free tuition to pursue religious studies.\nSuch an analysis conflicts with both common sense and established precedent. Nowhere in Mueller did we analyze the effect of Minnesota\u2019s tax deduction on the parents who were parties to the case; rather, we looked to the nature and consequences of the program viewed as a whole. Mueller, supra, at 397-400. The same is true of our evaluation of the tuition reimbursement programs at issue in Nyquist, supra, at 780-789, and Sloan v. Lemon, 413 U. S. 825, 830-832 (1973). See also Board of Education v. Allen, 392 U. S. 236, 243-244, 248 (1968); Everson v. Board of Education, 330 U. S. 1, 16-17 (1947). This is the appropriate perspective for this case as well. Viewed in the proper light, the Washington program easily satisfies the second prong of the Lemon test.\nI agree, for the reasons stated by the Court, that the State\u2019s program has a secular purpose, and that no entanglement challenge is properly raised on this record. I therefore join the Court\u2019s judgment. On the understanding that nothing we do today lessens the authority of our decision in Mueller, I join the Court\u2019s opinion as well.\nThe Court offers no explanation for omitting Mueller from its substantive discussion. Indeed, save for a single citation on a phrase with no substantive import whatever, ante, at 485, Mueller is not even mentioned.\nCf. Sloan v. Lemon, 413 U. S. 825, 832 (1973):\n\u201cThe State has singled out a class of its citizens for a special economic benefit. Whether that benefit be viewed as a simple tuition subsidy, as an incentive to parents to send their children to sectarian schools, or as a reward for having done so, at bottom its intended consequence is to preserve and support religion-oriented institutions.\u201d\nContrary to the Court\u2019s suggestion, see ante, at 488, this conclusion does not depend on the fact that petitioner appears to be the only handicapped student who has sought to use his assistance to pursue religious training. Over 90% of the tax benefits in Mueller ultimately flowed to religious institutions. Compare Mueller v. Allen, 463 U. S., at 401, with id., at 405 (MARSHALL, J., dissenting). Nevertheless, the aid was thus channeled by individual parents and not by the State, making the tax deduction permissible under the \u201cprimary effect\u201d test of Lemon.\nUnder the Washington Supreme Court\u2019s approach, the government could never provide aid of any sort to one who would use it for religious purposes, no matter what the characteristics of the challenged program. This Court has never taken such an approach. See Walz v. Tax Comm\u2019n, 397 U. S. 664 (1970); Everson v. Board of Education, 330 U. S. 1, 16 (1947).",
+        "type": "concurrence",
+        "author": "Justice Powell,"
+      },
+      {
+        "text": "Justice O\u2019Connor,\nconcurring in part and concurring in the judgment.\nI join Parts I and III of the Court\u2019s opinion, and concur in the judgment. I also agree with the Court that both the purpose and effect of Washington\u2019s program of aid to handicapped students are secular. As Justice Powell\u2019s separate opinion persuasively argues, the Court\u2019s opinion in Mueller v. Allen, 463 U. S. 388 (1983), makes clear that \u201cstate programs that are wholly neutral in offering educational assistance to a class defined without reference to religion do not violate the second part of the Lemon v. Kurtzman test, because any aid to religion results from the private decisions of beneficiaries.\u201d Ante, at 490-491 (Powell, J., concurring) (footnote omitted). The aid to religion at issue here is the result of petitioner\u2019s private choice. No reasonable observer is likely to draw from the facts before us an inference that the State itself is endorsing a religious practice or belief. See Lynch v. Donnelly, 465 U. S. 668, 690 (1984) (O\u2019Connor, J., concurring).",
+        "type": "concurrence",
+        "author": "Justice O\u2019Connor,"
+      }
+    ],
+    "attorneys": [
+      "Michael P. Farris argued the cause and filed briefs for petitioner.",
+      "Timothy R. Malone, Assistant Attorney General of Washington, argued the cause for respondent. With him on the brief were Kenneth 0. Eikenberry, Attorney General, Philip H. Austin, Senior Deputy Attorney General, and David R. Minkel, Assistant Attorney General."
+    ],
+    "corrections": "",
+    "head_matter": "WITTERS v. WASHINGTON DEPARTMENT OF SERVICES FOR THE BLIND\nNo. 84-1070.\nArgued November 6, 1985\nDecided January 27, 1986\nMARSHALL, J., delivered the opinion of the Court, in which BURGER, C. J., and Brennan, White, Blackmun, Powell, Rehnquist, and Stevens, JJ., joined, and in Parts I and III of which O\u2019Connor, J., joined. White, J., filed a concurring opinion, post, p. 490. Powell, J., filed a concurring opinion, in which BURGER, C. J., and Rehnquist, J., joined, post, p. 490. O\u2019CONNOR, J., filed an opinion concurring in part and concurring in the judgment, post, p. 493.\nMichael P. Farris argued the cause and filed briefs for petitioner.\nTimothy R. Malone, Assistant Attorney General of Washington, argued the cause for respondent. With him on the brief were Kenneth 0. Eikenberry, Attorney General, Philip H. Austin, Senior Deputy Attorney General, and David R. Minkel, Assistant Attorney General.\nBriefs of amici curiae urging reversal were filed for the United States by Acting Solicitor General Fried, Acting Assistant Attorney General Willard, Michael C. McConnell, Anthony J. Steinmeyer, and Michael Jay Singer; for the American Jewish Committee by Samuel Rabinove and Richard T. Foltin; for the American Jewish Congress by Marc D. Stem and Ronald A. Krauss; for the Christian Legal Society et al. by Samual Eric Hans Ericsson, Kimberly Wood Colby, and Forest D. Montgomery; for the Rutherford Institute et al. by Larry L. Crain, Guy 0. Farley, Jr., John W. Whitehead, James J. Knicely, Thomas 0. Kotouc, Wendell R. Bird, and William B. Hollberg; and for the National Legal Christian Foundation.\nBriefs of amici curiae urging affirmance were filed for the American Civil Liberties Union et al. by Charles B. Wiggins, Jack D. Novik, Charles S. Sims, and Burt Neubome; for Americans United for Separation of Church and State by Lee Boothby and Walter E. Carson; and for the Anti-Defamation League of B\u2019nai B\u2019rith et al. by Ruti G. Teitel, Justin J. Finger, Jeffrey P. Sinensky, and Steven M. Freeman."
+  },
+  "file_name": "0481-01",
+  "first_page_order": 619,
+  "last_page_order": 631
+}

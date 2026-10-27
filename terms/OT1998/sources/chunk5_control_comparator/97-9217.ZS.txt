@@ -1,0 +1,25 @@
+PEGUERO V. UNITED STATES
+LII
+Supreme Court
+PEGUERO V. UNITED STATES (97-9217)
+142 F.3d 430, affirmed.
+Syllabus
+Opinion
+[ Kennedy ]Concurrence
+[ O'Connor ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+PEGUERO v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+No. 97—9217.  Argued January 11, 1999–Decided March 2, 1999
+After petitioner pleaded guilty to federal drug charges, the District Court sentenced him to prison, but failed to inform him at the sentencing hearing of his right to appeal the sentence.  In a later motion for habeas relief, petitioner alleged that that failure violated the express terms of Federal Rule of Criminal Procedure 32(a)(2).  The District Court rejected petitioner’s claim that any Rule 32 violation, without regard to prejudice, is enough to vacate a sentence, and held that petitioner was not entitled to relief because he actually knew of his right to appeal when he was sentenced.  The Third Circuit affirmed, holding that the Rule 32(a)(2) violation was subject to harmless-error review and that, because petitioner was aware of his right to appeal, the Rule’s purpose had been served.
+Held:  A district court’s failure to advise a defendant of his right to appeal does not entitle him to habeas relief if he knew of his right and hence suffered no prejudice from the omission.  Because Rule 32(a)(2) requires a district court to advise a defendant of any right to appeal his sentence, it is undisputed that the court’s failure to give the required advice was error in this case.  However, as a general rule, a court’s failure to give a defendant advice required by the Federal Rules is a sufficient basis for collateral relief only when the defendant is prejudiced by the error.  See, e.g., United States v. Timmreck, 441 U.S. 780.  Because petitioner had full knowledge of his right to appeal, the fact that the court violated the Rule, standing alone, does not entitle him to collateral relief.  The narrow holding in Rodriquez v. United States, 395 U.S. 327–that when counsel fails to file a requested appeal, a defendant is entitled to resentencing and an appeal without showing that his appeal would likely have merit–is not implicated here because the District Court found that petitioner did not request an appeal.  Pp. 3—7.
+142 F.3d 430, affirmed.
+Kennedy, J., delivered the opinion for a unanimous Court.  O’Connor, J., filed a concurring opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.

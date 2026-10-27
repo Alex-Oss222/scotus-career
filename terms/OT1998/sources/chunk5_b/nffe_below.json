@@ -1,0 +1,287 @@
+{
+  "id": 11886568,
+  "name": "UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Petitioners, v. FEDERAL LABOR RELATIONS AUTHORITY, Respondent, National Federation of Federal Employees Local 1309, Intervenor; FEDERAL LABOR RELATIONS AUTHORITY, Petitioner, National Federation of Federal Employees Local 1309, Intervenor, v. UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Respondents",
+  "name_abbreviation": "United States Department of the Interior v. Federal Labor Relations Authority",
+  "decision_date": "1997-10-31",
+  "docket_number": "Nos. 96-2855, 97-1135",
+  "first_page": "157",
+  "last_page": "162",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "132 F.3d 157"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "4th Cir.",
+    "id": 8954,
+    "name": "United States Court of Appeals for the Fourth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "516 U.S. 284",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        327837
+      ],
+      "weight": 3,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "768-69",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/516/0284-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 3,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "843",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "page": "2781",
+          "parenthetical": "footnote omitted"
+        },
+        {
+          "parenthetical": "footnote omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 7703",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "6 U.S.C. \u00a7\u00a7 706",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(2)(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "29 FLRA 162",
+      "category": "reporters:federal",
+      "reporter": "F.L.R.A.",
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "166"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "760 F.2d 143",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "148"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "17 FLRA 731",
+      "category": "reporters:federal",
+      "reporter": "F.L.R.A.",
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "736"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "106 F.3d 1158",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7653250
+      ],
+      "weight": 12,
+      "pin_cites": [
+        {
+          "page": "1163"
+        },
+        {
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1163-64"
+        },
+        {
+          "page": "1164"
+        },
+        {
+          "page": "1163"
+        },
+        {
+          "parenthetical": "\"For the purpose of this chapter, it shall be an unfair labor practice for an agency - (6) to fail or refuse to cooperate in impasse procedures and impasse decisions as required by this chapter.\""
+        },
+        {
+          "page": "1163"
+        },
+        {
+          "page": "1161"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/106/1158-01"
+      ]
+    },
+    {
+      "cite": "51 FLRA 124",
+      "category": "reporters:federal",
+      "reporter": "F.L.R.A.",
+      "weight": 4,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "127"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "810 F.2d 295",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        4329973,
+        1635501
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/258/0176-01",
+        "/f2d/810/0295-01"
+      ]
+    },
+    {
+      "cite": "956 F.2d 1280",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10520223
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1282"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/956/1280-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C.A. \u00a7 7101",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 7116",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "(a)(1) and (5)"
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 755,
+    "char_count": 18191,
+    "ocr_confidence": 0.671,
+    "pagerank": {
+      "raw": 2.564260187992047e-07,
+      "percentile": 0.8156531519791308
+    },
+    "sha256": "d122f16906d91d108a6654af4ff6784c47876cb27bb9bd852e559904286d0485",
+    "simhash": "1:87e4f1fc51068751",
+    "word_count": 2864
+  },
+  "last_updated": "2024-02-27T22:13:59.120991+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before RUSSELL and MOTZ, Circuit Judges, and PHILLIPS, Senior Circuit Judge."
+    ],
+    "parties": [
+      "UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Petitioners, v. FEDERAL LABOR RELATIONS AUTHORITY, Respondent, National Federation of Federal Employees Local 1309, Intervenor. FEDERAL LABOR RELATIONS AUTHORITY, Petitioner, National Federation of Federal Employees Local 1309, Intervenor, v. UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "Petition for review granted and enforcement denied by published opinion. Senior Judge PHILLIPS wrote the opinion, in which Judge RUSSELL and Judge MOTZ joined.\nOPINION\nPHILLIPS, Senior Circuit Judge:\nThe U.S. Geological Survey, of the Department of the Interior, (\u201cSurvey\u201d) petitions for review of a Federal Labor Relations Authority (\u201cAuthority\u201d) order finding that the Survey committed an unfair labor practice in violation of the Federal Service Labor-Management Relations Act, 5 U.S.C. \u00a7 7116(a)(1) and (5) (1994). The Authority, joined by the National Federation of Federal Employees Local 1309 (\u201cthe Union\u201d) as intervenor, cross-petitions for enforcement of its order which had found a violation in the Survey\u2019s refusal to negotiate over a union-initiated proposal to include in a collective bargaining agreement a requirement that it bargain over union-initiated midterm proposals. We agree, based upon clear circuit precedent, with the Survey, and deny enforcement.\nI.\nThe Federal Service Labor-Management Relations Act (\u201cLabor Act\u201d or \u201cFSLMRA\u201d), 5 U.S.C.A. \u00a7 7101 et seq. (West Supp.1997), establishes a comprehensive federal regulatory scheme for collective bargaining between federal employers and their employees. The Labor Act recognizes the right of federal employees to collectively organize, certify exclusive representatives, and be bargained with in good\u2019 faith. See \u00a7 7114(a)(1), 7116. The Labor Act affirmatively requires federal employers to negotiate in good faith and failure to do so is an unfair labor practice. See \u00a7 7116(a)(5). Federal employees are prohibited by the Act from striking and comparable actions, \u00a7 7116(b)(7), their recourse being by action charging unfair labor practices brought against the Authority. See \u00a7\u00a7 7105(a)(2)(G) & 7118(a)(6)! The duty to bargain in good faith does not, however, extend to matters \u201cinconsistent with any Federal law or any Government-wide rule or regulation.\u201d \u00a7 7117(a)(1).\nWhere both parties negotiate in good faith but fail to reach an agreement, either party may refer the dispute to the Federal Services Impasses Panel (\u201cFSIP\u201d or \u201cImpasses Panel\u201d). See \u00a7 7119(b)(1). The FSIP is a division of the Authority and \u201c[i]f the parties do not arrive at a settlement after assistance by the Panel ... the Panel may ... take whatever action is necessary and not inconsistent with [the Statute] to resolve the impasse.\u201d \u00a7 7119(c)(5)(B)(iii). The Panel\u2019s binding arbitration authority extends to any negotiable proposal. See Social Security Administration v. FLRA, 956 F.2d 1280, 1282 (4th Cir.1992). Though agency heads have the authority to disapprove a provision, disapproval is subject to judicial modification and can constitute an unfair labor practice. See \u00a7\u00a7 7114(c), 7116(a)(6), 7118.\nII.\nThe facts of this proceeding are straightforward and not in dispute. During a regular collective bargaining process between the Union and the Survey, the Union proposed for inclusion in the bargaining agreement the following clause:\nThe Union may request and the Employer will be obligated to negotiate on any negotiable matters not covered by the provisions of this agreement.\nJA 71.\nRelying on our decision in Social Security Administration v. FLRA, 956 F.2d 1280 (4th Cir.1992) [hereinafter SSA ], in which we had held that the Labor Act does not by its terms require federal agencies to participate in union initiated midterm bargaining, the Survey declared this proposal nonnegotiable. The Union then filed a complaint with the Authority alleging, inter alia, that in declining to negotiate the proposal, the Survey committed an unfair labor practice in violation of 5 U.S.C. '\u00a7 7116(a)(1), (5). After waiver of an administrative law judge hearing arid stipulation of the facts, the Authority \u2014 relying on the D.C. Circuit\u2019s opinion in National Treasury Employees Union v. FLRA, 810 F.2d 295 (D.C.Cir.1987) \u2014 ordered the Survey to bargain over the proposal.\nIn rejecting Survey\u2019s reliance on SSA, the Authority opined that: (1) SSA only held that there was no statutory obligation to bargain midterm and \u201cdid not address whether a union could bargain for that right\u201d and (2) in following longstanding principles of the agency, it was an unfair labor practice for an agency to refuse to bargain over a proposal that is \u201csubstantially identical\u201d to one previously found negotiable. See JA 74 (citing U.S. Department of Energy, 51 FLRA 124 (1995)).\nThe Survey continues to rely on SSA and cites our recent decision in United States Dept. of Energy v. FLRA, 106 F.3d 1158 (4th Cir.1997), in support of its refusal to negotiate. Because our decisions in SSA and Energy control decision here and are dispositive of the issue, we agree with the Survey and deny enforcement.\nIII.\nUnderlying the conflicting contentions of the parties in this case is a clear conflict on the issue of union-initiated midterm bargaining proposals between this circuit and the D.C. Circuit. The D.C. Circuit\u2019s position is that taken in 1985 in National Treasury Employees Union v. FLRA, 810 F.2d 295 (D.C.Cir.1987)[hereinafter NTEU], In NTEU, the D.C. Circuit refused to enforce the Authority\u2019s decision in Internal Revenue Service (IRS I), 17 FLRA 731, 736 (1986), that there was no obligation to bargain over union-initiated midterm proposals. Rejecting this position, the D.C. Circuit held that the obligation to bargain midterm was firmly established in the private sector and that failure to impose a comparable obligation in the public sector would undermine the \u201cstatutory \u2018goal of equalizing the positions of labor and management at the bargaining table.\u2019 \u201d Id. at 300 (quoting American Fed\u2019n of Gov\u2019t Employees v. FLRA, 760 F.2d 143, 148 (D.C.Cir.1984)). On remand, the Authority adopted the D.C. Circuit\u2019s position wholesale and concluded that\nthe duty to bargain in good faith imposed by the Statute requires an agency to bargain during the term of a collective bargaining agreement on negotiable union proposals concerning matters which are not contained in the agreement unless the union has waived its right to bargain about the subject matter involved.\nInternal Revenue Service (IRS II), 29 FLRA 162, 166 (1987).\nSome five years later, this court held to the contrary in SSA. Judge Wilkinson\u2019s opinion for the SSA court concluded that the Authority\u2019s mandatory position on midterm bargaining was at odds with the Labor Act. Relying on the statutory language and legislative history, the SSA court held that mandatory midterm bargaining would \u201ccontravene many of the basic purposes\u201d of the Labor Act (id. at 1288) and as a result the Authority\u2019s position was \u201cnot in accordance with law.\u201d Id. at 1290 (quoting 6 U.S.C. \u00a7\u00a7 706(2)(A), 7123(c)).\nThe Authority later had an opportunity to evaluate the reach of SSA in Department of Energy, Washington, D.C., 51 FLRA 124 (1995). In Energy, the affected agency had disapproved a bargaining agreement clause imposed by the Impasse Panel that would have required it to bargain in good faith on union-initiated midterm proposals. In finding the agency disapproval an unfair labor practice, the Authority distinguished SSA because there \u201cthe Fourth Circuit did not address the negotiability of a provision for union-initiated midterm bargaining; the court addressed only whether, apart from any contractual obligations, an agency is required under the Statute to engage in such bargaining.\u201d Id. at 127. Because a midterm bargaining provision was negotiable and consistent with the law, disapproval of the provision imposed by the Panel violated \u00a7\u00a7 7116(a)(1) and (a)(6). Id.\nAn enforcement petition then filed in Energy provided this circuit with the opportunity to pass on the Authority\u2019s attempt to distinguish SSA In United States Department of Energy v. Federal Labor Relations Authority, 106 F.3d 1158 (4th Cir.1997), we refused to enforce the Authority\u2019s order and flatly rejected its position that SSA did not control. While agreeing \u201cthat the question of whether the FSLMRA imposes a statutory duty differs from the question of whether an agency must negotiate with a union regarding the inclusion of a clause in a collective bargaining agreement,\u201d we found the distinction \u201cmore apparent than real.\u201d Id. at 1163. \u201c[N]ot only is union-initiated midterm bargaining not mandated by the FSLMRA, but[it is] also ... contrary to the FSLMRA.\u201d Id. (citation omitted) (emphasis in original). The Energy court explicitly found such proposals nonnegotiable, reasoning that if this type of provision were negotiable it \u201cwould effectively vitiate SSA.\u201d Id. According to the court:\nBecause the Impasses Panel adheres to the position of the Authority that the Department has a statutory duty to engage in midterm bargaining, we cannot envision a case in which the Impasses Panel would fail to impose upon an agency a midterm bargaining clause like the one before us.... Thus, a union could circumvent SSA by the mere expedient of negotiating to impasse on a midterm bargaining provision, essentially requiring an agency to bargain midterm over union proposals despite our determination that such a requirement is contrary to FSLMRA.\nId. at 1163-64.\nIV.\nThis case now requires us to assess whether SSA and Energy similarly require rejection of the Authority\u2019s position that it may order an agency to negotiate over whether it will negotiate over union-initiated midterm proposals.\nA.\nThe first question is the deference we owe to the Authority\u2019s formal position. The basic principle of course is that an agency ruling may-be set aside only if it is \u201carbitrary, capricious, an abuse of discretion or otherwise not in accordance with law.\u201d 5 U.S.C. \u00a7 7703(c). Where the agency ruling is based upon application of a governing statute and \u201cthe statute is silent or ambiguous with respect to the specific issue, the question for the court is whether the agency\u2019s answer is based on a permissible construction of the statute.\u201d Chevron U.S.A. v. Natural Res. Def. Council, 467 U.S. 837, 843, 104 S.Ct. 2778, 2781, 81 L.Ed.2d 694 (1984) (footnote omitted). Here, however, we deal not with the Agency\u2019s interpretation of a statutory provision not previously interpreted by this court, but with its interpretation of our prior interpretation of the relevant statutory provisions. In such a situation, \u201c[ojnce'we have determined a statute\u2019s meaning, we adhere to our ruling under the doctrine of stare decisis, and we assess an agency\u2019s later interpretation of the statute against that settled law.\u201d Neal v. United States, 516 U.S. 284,-, 116 S.Ct. 763, 768-69, 133 L.Ed.2d 709 (1996) (citations omitted).\nB.\nConfronted with this principle governing our judicial review, the Authority seeks to distinguish the issue we decided, as a matter of statutory interpretation, in Energy from that presented here, hence to persuade us that our interpretation in Energy does not bind us here as a matter of stare decisis. Alternatively, it contends that the reasoning in Energy that may seem to reach the issue here is dicta and so should not be thought to bind us. We disagree on both points.\nThe Authority argues that the procedural posture of Energy distinguishes the statutory interpretation issue there from that confronted here. \u201c[Ujnlike the case in Energy v. FLRA, where the obligation to bargain midterm was imposed on the agency, here the Authority has only ordered the Survey to bargain over whether it will entertain union-initiated proposals during the term of the agreement.\u201d Respondent\u2019s brief at 11. The Authority\u2019s argument is, in short, that while Energy involved an Impasses Panel-imposed requirement to bargain midterm, this case involves a requirement to bargain about whether an agency will bargain, and that the distinction is critical in freeing us from our holding in Energy..\nThere is indeed a distinction, but it is not critical. The same practical consequences flowing from the impasse procedures that made the distinction between a statutory requirement and general duty to bargain of no consequence in Energy obtain here. As in Energy, if we adopted the Authority\u2019s position, a \u201cunion could circumvent SSA by the mere expedient of negotiating to impasse on a' midterm bargaining provision\u201d only to have the Impasses Panel mandate the inclusion of such a provision through its binding arbitration authority. Energy, 106 F.3d at 1164. Though an additional step in the analysis' is necessary, there is no conceivable reason why a duty to bargain is different for the purpose at hand from a duty to bargain about whether to bargain. The overriding principle in this circuit remains the same: an agency may not be required to negotiate midterm. While agencies are free to negotiate midterm if they so choose, requiring an agency to negotiate midterm is \u201cinconsistent with the FSLMRA and, consequently, is not negotiable.\u201d Id. at 1163. We therefore reject the Authority\u2019s attempt to distinguish this case, from Energy in the critical respect sought.\nRecognizing the conceptual hurdle erected by Energy\u2019s discussion of the Impasses Panel processes, the Authority contends that this reasoning was dicta. The argument is that the court in Energy went outside the facts before it, misconstrued the basic role of the Impasses Panel, and made a determination that does not accurately reflect the experiences of the Panel or the Authority. It is not certain, according to the Authority, that an Impasses Panel will always impose a midterm bargaining requirement whenever a midterm proposal is made. In fact, on at least one occasion the Impasses Panel has chosen not to impose one. See Department of Health and Human Services, 94 Fed. Serv. Imp. Pan. 47 (Aug. 3, 1994). Moreover, if impasse results and the Panel imposes a requirement to negotiate a union\u2019s proposal, \u201cthe agency head may rely upon this[c]ourt\u2019s Energy v. FLRA decision to guide his or her actions.\u201d Respondent\u2019s brief at 19 (footnote omitted).\nThe Authority\u2019s arguments misconstrue the regulatory implications of an agency head\u2019s failure to follow an Impasses Panel mandate and disregard the explicit holding in Energy. Failure to abide by the binding arbitration authority of the Panel is an unfair labor practice within the meaning of \u00a7 7116(a)(6). See id. (\u201cFor the purpose of this chapter, it shall be an unfair labor practice for an agency \u2014 (6) to fail or refuse to cooperate in impasse procedures and impasse decisions as required by this chapter.\u201d). If an agency head does disapprove a requirement to negotiate (or alternatively to negotiate about whether to negotiate) the agency\u2019s refusal to adhere to the Panel\u2019s resolution would not be a viable alternative because such an action could easily be considered an unfair labor practice.\nAttempts to characterize Energy\u2019s discussion of the Impasses Panel processes as dicta are also unpersuasive as a technical matter. Energy\u2019s description and understanding of the Impasse Panel\u2019s role were central to the court\u2019s disposition. Without this reasoning the court would have been unable to dismiss (as \u201cmore apparent than real\u201d) the distinction between a statutory duty to negotiate and a Panel-imposed obligation to negotiate. See Energy, 106 F.3d at 1163. Dependence upon this reasoning could not have been more clearly expressed: \u201ca clause requiring an agency to engage in union-initiated midterm bargaining is inconsistent with the FSLMRA and, consequently, is not negotiable.\u201d Id.\nIn its efforts to deal with our Energy decision, the Authority advances several policy arguments and complains of the quandary the conflicting holdings of the Fourth and D.C. Circuits create. While we realize the difficulties which the conflicting decisions present, we can only note the obvious: that recourse for resolution must be sought elsewhere.\nV.\nIn light of our decisions in Energy and SSA, we grant the petition for review and deny enforcement of the Authority\u2019s decision.\nSO ORDERED.\n. The clause mandated by the Panel provided:\nThe Employer will be obligated to bargain in good faith on any negotiable Union-initiated proposals concerning matters that are not contained in or covered by the collective bargaining agreement, unless the Union has waived its right to bargain about the subject matter involved.\nUnited States Dept. of Energy v. FLRA, 106 F.3d 1158, 1161 (4th Cir.1997).\n. The Authority argues that even if the Impasses Panel cannot impose a requirement to bargain there is much benefit from an agency negotiating over whether to negotiate. \"Upon resumption of bargaining, the agency may continue the proposal, seek modification of the proposal, or bargain for union concessions in agreeing to the proposal.\u201d Respondent's brief at 18. We agree that there may be times when an agency might choose to voluntarily enter into midterm bargaining. We hold only that they may not be required to do so.",
+        "type": "majority",
+        "author": "PHILLIPS, Senior Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "ARGUED: Sushma Soni, Appellate Staff, Civil Division, United States Department of Justice, Washington, DC, for Petitioners. David Michael Smith, Solicitor, Federal Labor Relations Authority, Washington, DC, for Respondents. Elaine D. Kaplan, National Treasury Employees Union, Washington, DC, for Intervenor. ON BRIEF: Frank W. Hunger, Assistant Attorney General, John F. Daly, Appellate Staff, Civil Division, United States Department of Justice, Washington, DC, for Petitioners. James F. Blandford, Federal Labor Relations Authority, Washington, DC, for Respondents. Gregory O\u2019Duden, General Counsel, National Treasury Employees Union, Washington, DC; Alice Bodley, Beins, Bodley, Axelrod & Kraft, Washington, DC, for Intervenor."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Petitioners, v. FEDERAL LABOR RELATIONS AUTHORITY, Respondent, National Federation of Federal Employees Local 1309, Intervenor. FEDERAL LABOR RELATIONS AUTHORITY, Petitioner, National Federation of Federal Employees Local 1309, Intervenor, v. UNITED STATES DEPARTMENT OF THE INTERIOR, Washington, D.C.; U.S. Geological Survey, Reston, Virginia, Respondents.\nNos. 96-2855, 97-1135.\nUnited States Court of Appeals, Fourth Circuit.\nArgued Oct. 1, 1997.\nDecided Oct. 31, 1997.\nARGUED: Sushma Soni, Appellate Staff, Civil Division, United States Department of Justice, Washington, DC, for Petitioners. David Michael Smith, Solicitor, Federal Labor Relations Authority, Washington, DC, for Respondents. Elaine D. Kaplan, National Treasury Employees Union, Washington, DC, for Intervenor. ON BRIEF: Frank W. Hunger, Assistant Attorney General, John F. Daly, Appellate Staff, Civil Division, United States Department of Justice, Washington, DC, for Petitioners. James F. Blandford, Federal Labor Relations Authority, Washington, DC, for Respondents. Gregory O\u2019Duden, General Counsel, National Treasury Employees Union, Washington, DC; Alice Bodley, Beins, Bodley, Axelrod & Kraft, Washington, DC, for Intervenor.\nBefore RUSSELL and MOTZ, Circuit Judges, and PHILLIPS, Senior Circuit Judge."
+  },
+  "file_name": "0157-01",
+  "first_page_order": 247,
+  "last_page_order": 252
+}

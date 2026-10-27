@@ -1,0 +1,58 @@
+Stewart v. Lagrand, 526 U.S. 115 (1999) (https://www.law.cornell.edu/supct/html/98-1412.ZPC.html)
+citeturn23view0 [wordlim: 200] Crawled: last week; Content type: text/html; Source: open({"ref_id":"https://www.law.cornell.edu/supct/html/98-1412.ZPC.html","lineno":null}); Total lines: 55
+L0: 【0†[ PDF version ]】
+L1: 
+L2: * * *
+L3: 
+L4: Per Curiam
+L5: 
+L6: SUPREME COURT OF THE UNITED STATES
+L7: 
+L8: ### TERRY STEWART, DIRECTOR, ARIZONA DEPARTMENT OF CORRECTIONS,
+L9: et al. v. WALTER LAGRAND
+L10: #### ON APPLICATION TO LIFT RESTRAINING ORDER AND PETITION FOR WRIT OF CERTIORARI TO THE NINTH CIRCUIT
+L11: COURT OF APPEALS
+L12: 
+L13: [March 3, 1999]
+L14: 
+L15: Per Curiam.
+L16: Walter LaGrand and Karl LaGrand were each convicted of first-degree murder, attempted murder in the first degree, attempted armed robbery and two counts of kidnapping. The Arizona Supreme Court gave a detailed account of the crime in Walter LaGrand’s appeal. See State v. LaGrand, 734 P.2d 563, 565-66 (1987). Following a jury trial, both Karl LaGrand and Walter LaGrand were convicted on all charges and sentenced to death. The Arizona Supreme Court affirmed the convictions and sentences. State v.
+L17: LaGrand, 733 P.2d 1066 (1987) (Karl LaGrand); State v. LaGrand, supra (Walter LaGrand). Subsequently, we denied the LaGrands’ petitions for certiorari. See 【1†484 U.S. 872】 (1987).
+L18: The LaGrands then filed petitions for writs of habeas corpus pursuant to 【2†28 U.S.C. § 2254】. Until then, Walter LaGrand had been represented by Bruce Burke, a Tucson lawyer. Before appointing Burke as counsel in the habeas proceeding, however, the District Court required Burke to discuss all possible claims of ineffective assistance of counsel with Walter LaGrand and to file a status report with the court. See LaGrand v. Stewart, 133 F.3d 1253, 1269 (CA9 1998).
+L19: Walter LaGrand informed Burke that he did not desire a new attorney and requested that Burke continue to represent him. Ibid. Nevertheless, after Burke learned that Karl LaGrand was pursuing ineffective assistance of counsel claims, Burke moved to withdraw as counsel. The District Court denied this motion on the ground that “Walter LaGrand entered a waiver of any potential claims of ineffective assistance of counsel and Burke indicated to the Court that he believes no such grounds exist.” LaGrand v.
+L20: Lewis, 883 F. Supp. 451, 456 n. 3 (1995). The Ninth Circuit affirmed, holding that “[w]hen Walter waived the offer of new counsel, he was waiving the benefits of new representation, among which would potentially have been the presentation of this sort of [ineffective assistance claim].” LaGrand v. Stewart, supra, at 1269.
+L21: Among the claims raised in Walter LaGrand’s petition for a writ of habeas corpus was the claim that execution by lethal gas constituted cruel and unusual punishment under the 【3†Eighth Amendment】 to the United States Constitution. The District Court found the claim to be procedurally defaulted because Walter LaGrand had failed to raise it either on direct appeal or in his petition for state post-conviction relief, when the sole method of execution was by way of lethal gas.
+L22: On appeal, the Ninth Circuit did not reach the issue of procedural default because it found the claim was not ripe until and unless LaGrand chose gas as his method of execution. LaGrand v. Stewart, supra, at 1264. The petition for writ of habeas corpus was denied. Id., at 1269.
+L23: In February 1999, Karl LaGrand filed a successive state petition for post-conviction relief raising the claim that execution by lethal gas constituted cruel and unusual punishment. The trial court found the claim moot and precluded due to Karl LaGrand’s failure to raise the claim in prior state court proceedings, and the Arizona Supreme Court denied review. Karl LaGrand again raised the claim in a second federal habeas corpus petition.
+L24: The District Court again found the claim procedurally defaulted and concluded that Karl LaGrand had failed to establish cause and prejudice or a fundamental miscarriage of justice to excuse the default. The District Court denied that petition, but the Court of Appeals reversed.
+L25: The Ninth Circuit held that Karl LaGrand’s lethal gas claim was procedurally barred but found cause and prejudice to excuse the default. The court concluded that Karl LaGrand’s failure to raise the lethal gas claim was excused because there was no legal or factual basis for the claim when he pursued his direct appeal in state court. Prejudice was shown because he was now faced with execution by a method the Ninth Circuit had previously found to be unconstitutional.
+L26: The Ninth Circuit also addressed the State’s argument that Karl LaGrand’s choice of execution method constituted a waiver of his current claim. According to the Ninth Circuit, its precedent dictated that “【3†Eighth Amendment】 protections may not be waived, at least in the area of capital punishment.” See LaGrand v. Stewart, No. 99-99004, at 10—11 (CA9 February 24, 1999).
+L27: As part of its ultimate order, the Court of Appeals stayed Karl LaGrand’s execution and enjoined Arizona “from executing Karl Hinze LaGrand, or anyone similarly situated, by means of lethal gas.” LaGrand v. Stewart, No. 99-99004 (CA9 February 24, 1999). The State filed an application to vacate the stay, which we granted. Subsequently, Karl LaGrand’s lawyers moved to clarify our order to determine whether the Ninth Circuit’s injunction was still in place. We denied this motion.
+L28: At the last moment, Karl LaGrand requested the use of lethal injection, which the State allowed, and the validity of the Ninth Circuit’s injunction was not tested.
+L29: This case followed. Like Karl LaGrand, Walter LaGrand filed a petition for writ of habeas corpus challenging lethal gas as a cruel and unusual form of execution. The District Court declined to follow the Ninth Circuit’s previous opinion in LaGrand v. Stewart, No. 99—99004, (CA9 February 23, 1999), concluding that our lifting of the stay of execution necessarily vacated the merits of the Ninth Circuit’s decision.
+L30: The District Court also denied a certificate of appealability, concluding “that the issue of procedural default of Petitioner’s lethal gas challenge is not debatable among jurists of reason.”
+L31: The Ninth Circuit panel granted a certificate of appealability and proceeded to the merits of the case. It concluded that our order lifting the stay of execution in LaGrand v. Stewart, No. 99—99004 (CA9 February 23, 1999), did not pass upon the merits of the panel’s opinion and concluded that its reasoning remained sound. It then denied the stay of execution but restrained and enjoined the State of Arizona from executing Walter LaGrand by means of lethal gas.
+L32: The State has filed a petition for writ of certiorari and an application to lift the Court of Appeals’ injunction. We now grant the petition for certiorari, summarily reverse the judgment and vacate the Court of Appeals’ injunctive order.
+L33: 
+L34: I
+L35: Walter LaGrand, by his actions, has waived his claim that execution by lethal gas is unconstitutional. At the time Walter LaGrand was sentenced to death, lethal gas was the only method of execution available in Arizona, but the State now provides inmates a choice of execution by lethal gas or lethal injection, see Ariz. Rev. Stat. §13-704(B) (creating a default rule of execution by lethal injection). Walter LaGrand was afforded this choice and decided to be executed by lethal gas.
+L36: On March 1, 1999, Governor Hull of Arizona offered Walter LaGrand an opportunity to rescind this decision and select lethal injection as his method of execution. Walter LaGrand, again, insisted that he desired to be executed by lethal gas. By declaring his method of execution, picking lethal gas over the state’s default form of execution–lethal injection–Walter LaGrand has waived any objection he might have to it. See, e.g., Johnson v. Zerbst, 【4†304 U.S. 458】, 464 (1938).
+L37: To hold otherwise, and to hold that 【3†Eighth Amendment】 protections cannot be waived in the capital context, would create and apply a new procedural rule in violation of Teague v. Lane, 【5†489 U.S. 288】 (1989).
+L38: II
+L39: In addition, Walter LaGrand’s claims are procedurally defaulted, and he has failed to show cause to overcome this bar. See Coleman v. Thompson, 【6†501 U.S. 722】, 750 (1991). At the time of Walter LaGrand’s direct appeal, there was sufficient debate about the constitutionality of lethal gas executions that Walter LaGrand cannot show cause for his failure to raise this claim.
+L40: Arguments concerning the constitutionality of lethal gas have existed since its introduction as a method of execution in Nevada in 1921. See H. Bedau, The Death Penalty in America 16 (1982). In the period immediately prior to Walter LaGrand’s direct appeal, a number of states were reconsidering the use of execution by lethal gas, see Gray v.
+L41: Lucas, 710 F.2d 1048, 1059-61 (CA5 1983) (discussing evidence presented by the defendant and changes in Nevada’s and North Carolina’s methods of execution), and two United States Supreme Court Justices had expressed their views that this method of execution was unconstitutional, see Gray v. Lucas, 463 U. S 1237, 1240-44 (1983) (Marshall, J., joined by Brennan, J., dissenting from denial of certiorari).
+L42: In addition, lethal gas executions have been documented since 1937, when San Quentin introduced it as an execution method, and studies of the effect of execution by lethal gas date back to the 1950s. See Bedau, supra, at 16.
+L43: III
+L44: Walter LaGrand’s alternative argument, that his ineffective assistance of counsel claim suffices as cause, also fails. Walter LaGrand specifically waived the claim that his trial counsel was ineffective, representing to the District Court prior to filing his first federal habeas petition that there was no basis for such claims. See LaGrand v. Lewis, supra, at 456 n. 3; LaGrand v. Stewart, supra, at 1269. In addition, the ineffective assistance claim is, itself, procedurally defaulted.
+L45: The Arizona court held that Walter LaGrand’s ineffective assistance arguments were barred pursuant to a state procedural rule, see State v. LaGrand, No. CR-07426, Minute Entry (Pima County Super. Ct. March 2, 1999), and Walter LaGrand has failed to demonstrate cause or prejudice for his failure to raise these claims on direct review.
+L46: Accordingly, the judgment of the United States Court of Appeals for the Ninth Circuit is reversed and its injunctive order is vacated.
+L47: 
+L48: Justice Souter, with whom Justice Ginsburg and Justice Breyer join, concurring in part and concurring in the judgment.
+L49: I join Part I of the Per Curiam Opinion, on the understanding that petitioner makes no claim that death by lethal injection would be cruel and unusual under the 【3†Eighth Amendment】. I do not reach any issue of the applicability of Teague v. Lane, 【5†489 U.S. 288】 (1989).
+L50: 
+L51: Justice Stevens, dissenting.
+L52: In my opinion the answer to the question whether a capital defendant may consent to be executed by an unacceptably torturous method of execution is by no means clear. I would not decide such an important question without full briefing and argument.
+L53: 
+L54: I, therefore, respectfully dissent.
+

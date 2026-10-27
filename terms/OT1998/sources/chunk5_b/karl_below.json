@@ -1,0 +1,471 @@
+{
+  "id": 11628394,
+  "name": "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, and Dan Vanelli, Warden, SMU II, Arizona State Prison, Florence, Respondents-Appellees",
+  "name_abbreviation": "LaGrand v. Stewart",
+  "decision_date": "1999-02-24",
+  "docket_number": "No. 99-99004",
+  "first_page": "1144",
+  "last_page": "1150",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "173 F.3d 1144"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "170 F.3d 1158",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11590905
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/f3d/170/1158-01"
+      ]
+    },
+    {
+      "cite": "312 F.2d 73",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        185866
+      ],
+      "pin_cites": [
+        {
+          "page": "75-76"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/312/0073-01"
+      ]
+    },
+    {
+      "cite": "18 F.3d 662",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10510122
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/18/0662-01"
+      ]
+    },
+    {
+      "cite": "741 F.2d 240",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        618358
+      ],
+      "pin_cites": [
+        {
+          "page": "244"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/741/0240-01"
+      ]
+    },
+    {
+      "cite": "26 ABAJ 895",
+      "category": "journals:journal",
+      "reporter": "A.B.A. J.",
+      "year": 1940,
+      "pin_cites": [
+        {
+          "page": "897"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6199647
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "752-53"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0745-01"
+      ]
+    },
+    {
+      "cite": "9 F.3d 802",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10513394
+      ],
+      "pin_cites": [
+        {
+          "page": "805"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/9/0802-01"
+      ]
+    },
+    {
+      "cite": "456 U.S. 107",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184186
+      ],
+      "weight": 5,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "130"
+        },
+        {
+          "page": "130"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0107-01"
+      ]
+    },
+    {
+      "cite": "477 U.S. 478",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209907
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "488"
+        },
+        {
+          "page": "488"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0478-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 722",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108153
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "753"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0722-01"
+      ]
+    },
+    {
+      "cite": "115 L.Ed.2d 1074",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 S.Ct. 2911",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1991,
+      "opinion_index": 0
+    },
+    {
+      "cite": "501 U.S. 1259",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1108032,
+        1108389,
+        1107817,
+        1108277,
+        1108380,
+        1108094
+      ],
+      "year": 1991,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/1259-03",
+        "/us/501/1259-05",
+        "/us/501/1259-01",
+        "/us/501/1259-02",
+        "/us/501/1259-06",
+        "/us/501/1259-04"
+      ]
+    },
+    {
+      "cite": "166 Ariz. 132",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1546311
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "1250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/166/0132-01"
+      ]
+    },
+    {
+      "cite": "32 P.2d 18",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1934,
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Ariz. 424",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        5061826
+      ],
+      "year": 1934,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/43/0424-01"
+      ]
+    },
+    {
+      "cite": "147 F.3d 1158",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1358934
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1160"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/147/1158-01"
+      ]
+    },
+    {
+      "cite": "136 L.Ed.2d 204",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 285",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "519 U.S. 918",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11659363
+      ],
+      "year": 1996,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/519/0918-01"
+      ]
+    },
+    {
+      "cite": "865 F.Supp. 1387",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7849286
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1404"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/865/1387-01"
+      ]
+    },
+    {
+      "cite": "77 F.3d 301",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7637229
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "302-03"
+        },
+        {
+          "page": "301"
+        },
+        {
+          "page": "308"
+        },
+        {
+          "page": "308-09"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/77/0301-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 2244",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "142 L.Ed.2d 343",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "119 S.Ct. 422",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1998,
+      "opinion_index": 0
+    },
+    {
+      "cite": "133 F.3d 1253",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        22569
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1257"
+        },
+        {
+          "page": "1264"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/133/1253-01"
+      ]
+    },
+    {
+      "cite": "153 Ariz. 21",
+      "category": "reporters:state",
+      "reporter": "Ariz.",
+      "case_ids": [
+        1496619
+      ],
+      "weight": 2,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ariz/153/0021-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 841,
+    "char_count": 17549,
+    "ocr_confidence": 0.584,
+    "pagerank": {
+      "raw": 7.568316454158617e-08,
+      "percentile": 0.44875956088559604
+    },
+    "sha256": "dc782709f78ea2bd1a6bb1ac5618ed09b1fc1dc7b8f8c73bd9b29d16f46ec9e3",
+    "simhash": "1:bb53c3280af07fcd",
+    "word_count": 2940
+  },
+  "last_updated": "2024-02-27T18:25:13.135624+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: HUG, Chief Judge, PREGERSON, and T.G. NELSON, Circuit Judges."
+    ],
+    "parties": [
+      "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, and Dan Vanelli, Warden, SMU II, Arizona State Prison, Florence, Respondents-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "ORDER\nThe Order and Opinion filed on February 24,1999, is amended as follows:\nReplace the last paragraph on page 12, continuing on to page 13, with the following:\nA further word concerning the death warrant is in order. The warrant parallels the statute in giving LaGrand a choice of the method of execution.\nA.R.S. 13.704B provides:\nB. A defendant who is sentenced to death for an offense committed before November 23, 1992 shall choose either lethal injection or lethal gas at least twenty days before the execution date. If the defendant fails to choose either lethal injection or lethal gas, the penalty of death shall be inflicted by lethal injection.\nThe petitioner did choose execution by lethal gas twenty days prior to the execution date. The State acknowledged at oral argument that the petitioner could not change his mind. Thus, execution under the existing warrant would require execution by lethal gas. Since we have held the method chosen by LaGrand to be unconstitutional, the death warrant must be reissued in a form that does not require execution by lethal gas.\nOPINION\nT.G. NELSON, Circuit Judge:\nKarl LaGrand, an Arizona death row inmate, appeals the district court\u2019s order denying his second petition for writ of habeas corpus. For the reasons which follow, we affirm in part and reverse in part.\nI. Procedural History\nKarl LaGrand and his brother Walter LaGrand were convicted of murder for the 1982 murder of a bank employee in the course of a robbery. For a description of the crime and prior proceedings see State v. LaGrand, 153 Ariz. 21, 734 P.2d 563 (1987), and LaGrand v. Stewart, 133 F.3d 1253 (9th Cir.), cert. denied, \u2014 U.S. -, 119 S.Ct. 422, 142 L.Ed.2d 343 (1998).\nIn the prior case, the district court denied all of LaGrand\u2019s claims, and this court affirmed. See 133 F.3d at 1257. Following denial of certiorari by the Supreme Court, a death warrant was issued, scheduling the execution for February 24, 1999. LaGrand thereafter filed a number of different proceedings in the courts of Arizona. The Arizona state courts have denied all relief to LaGrand. LaGrand then filed a request with this court for leave to file a second or successive habeas corpus petition, pursuant to 28 U.S.C. \u00a7 2244(b). That request was denied by a separate order in case number 99-70180, issued concurrently with this opinion. LaGrand also filed a separate habeas petition in district court which is the subject of this opinion.\nII. Issues Other Than Lethal Gas\nThe issues raised in the second petition in the district court paralleled the issues sought to be presented in the second or successive (\u201cSOS\u201d) petition. The district court decided that it had jurisdiction of the claim relating to the use of lethal gas as a method of execution and denied the claim on the merits. As to all the other claims, the district court stated either that it lacked jurisdiction in the absence of an order from this court authorizing the filing of an SOS petition, or that for other reasons the claims were not cognizable. The district court\u2019s decision on all the claims except the lethal gas claim is affirmed, for the reasons given in our order entered in case number 99-70180.\nIII. Lethal Gas\nA. California\nThe use of lethal gas as a method of execution has been extensively litigated in California since 1992. In that year, plaintiff David Fierro and others filed a class action pursuant to 42 U.S.C. \u00a7 1983 challenging lethal gas as an unconstitutional method of execution. One of the plaintiffs was Robert Alton Harris, whose execution was scheduled to take place four days after the case was filed. Harris\u2019 participation resulted in a number of stays of execution, all subsequently vacated by the Supreme Court. See Fierro v. Gomez (\u201cFierro II\u201d), 77 F.3d 301, 302-03 (9th Cir.1996), for the history of the litigation.\nThe Fierro case was ultimately tried before the district court in 1993. After the trial, the court entered an order holding that lethal gas, as employed pursuant to the \u201cprotocol\u201d governing its use in California, constituted a cruel and unusual method of execution and enjoined its use as a means of execution. 865 F.Supp. 1387 (N.D.Cal.1994).\nOn appeal by the State, we affirmed. See Fierro II, 77 F.3d at 301. After our decision, the California statute governing executions was amended to provide lethal injection as the primary method of execution. Inmates sentenced to death before the effective date of the act were given the option of choosing lethal gas as the method of execution in their cases. See Cal.Penal Code \u00a7 3604(b). The Supreme Court vacated our decision in Fierro II and remanded with instructions to reconsider our decision in light of the statutory change. Gomez v. Fierro, 519 U.S. 918, 117 S.Ct. 285, 136 L.Ed.2d 204 (1996).\nIn response to the Supreme Court\u2019s order, we held that the case was not ripe for decision, since no inmate in California was then subject to execution by lethal gas, at least in the absence of an affirmative choice by an inmate to have lethal gas used in his or her execution. Fieiro v. Terhune (\u201cFierro III\u201d), 147 F.3d 1158, 1160 (9th Cir.1998). We remanded to the district court with instructions to vacate its judgment, giving the district court the authority to reinstate its judgment when presented with a ripe claim. Id.\nB. Arizona\nThe Arizona experience somewhat parallels that of California. The use of lethal gas was the only authorized method of execution from the 1930s until 1992. The first case challenging the use of lethal gas in Arizona was the 1934 case of Hernandez v. State, 43 Ariz. 424, 32 P.2d 18 (1934). The Arizona Supreme Court upheld the constitutionality of the use of lethal gas in that case, as it did again in 1987 in State v. Williams, 166 Ariz. 132, 800 P.2d 1240 (1987). In the latter case, it noted that Williams\u2019 claim had \u201cbeen uniformly rejected on the federal level.\u201d Id., 800 P.2d at 1250.\nThe Arizona legislature amended the statute in 1992 to make lethal injection the designated method of execution, with those inmates who were sentenced to death prior to the amendment having the option of choosing lethal gas as the method of exe-ration to be used in his or her case. Ariz. Rev.Stat. \u00a7 13-704(B).\nC. Karl LaGrand\u2019s Claim\nKarl LaGrand committed the crimes of which he was convicted in 1982. He was sentenced to death in 1984, and his direct appeal was concluded in 1987. The first post-conviction relief proceedings were completed in Arizona Superior Court in 1989. The Arizona Supreme Court denied review, as did the United States Supreme Court. See LaGrand v. Arizona, 501 U.S. 1259, 111 S.Ct. 2911, 115 L.Ed.2d 1074 (1991).\nAt no time in the direct appeal or the first PCR petition did LaGrand argue the unconstitutionality of the use of lethal gas as a method of execution. The claim was raised for the first time in the habeas corpus petition filed in 1992, and amended in 1993. The district court rejected the claim as unexhausted, and this court held the claim was not ripe for decision. See 133 F.3d at 1264.\n1. Procedural Default\nLaGrand recently presented his lethal gas claim to the Arizona Superior Court, which rejected it as waived. LaGrand argues here that since our previous decision was that the claim was not ripe, it can now be heard because it is now admittedly ripe. LaGrand\u2019s argument fails to account for the procedural default declared by the state court. The state court\u2019s decision appears sound as a matter of state law. There was no ripeness impediment to LaGrand\u2019s presentation of the lethal gas claim at any time during his state court efforts in the 1980s. At that time, lethal gas was the only method of execution authorized for use in Arizona. The fact that the claim is now ripe for decision in this court is no answer to the procedural default declared by the state courts.\nWhen LaGrand presented this claim to the district court in the present habeas petition, it rejected the claim on the basis that it was procedurally barred, and that LaGrand had not shown cause and prejudice to excuse the procedural default. This is the only place where we disagree with the district court\u2019s analysis.\n2. Cause and Prejudice\nAs the district court said, cause exists if the petitioner can show that \u201csome objective factor external to the defense impeded counsel\u2019s efforts to comply with the state\u2019s procedural rule.\u201d Coleman v. Thompson, 501 U.S. 722, 753, 111 S.Ct. 2546, 115 L.Ed.2d 640 (1991). As the district court also noted, such objective factors can \u201cinclude interference by officials which makes compliance with the state\u2019s procedural rule impractical, a showing that the factual or legal basis for a claim was not reasonably available to counsel, and constitutionally ineffective assistance of counsel.\u201d District Court Order at 11 (citing Murray v. Carrier, 477 U.S. 478, 488, 106 S.Ct. 2639, 91 L.Ed.2d 397 (1986)).\nIn 1984 and the years following, LaG-rand\u2019s counsel was facing a statutory scheme which was upheld in 1934 in Hernandez, and in 1987 in Williams. Moreover, no reported case anywhere had held lethal gas to be unconstitutional and there was no reason to believe that any court would hold to the contrary.\nThe State characterizes LaGrand\u2019s position as one of futility, and points to cases which hold that the futility of presenting an objection at trial cannot be cause for failing to make the objection. The futility doctrine as an excuse for not presenting a claim to the state court has met with disfavor in the Supreme Court and here. See Engle v. Isaac, 456 U.S. 107, 130, 102 S.Ct. 1558, 71 L.Ed.2d 783 (1982); Noltie v. Peterson, 9 F.3d 802, 805 (9th Cir.1993). But we believe the portion of Engle v. Isaac quoted by the district court sets out the point in the analysis where we diverge from the district court: \u201cIf a defendant perceives a constitutional claim and believes it may find favor in the federal courts, he may not bypass the state courts simply because he thinks they will be unsympathetic to the claim.\u201d 456 U.S. at 130, 102 S.Ct. 1558.\nAs pointed out above, there was no reason to believe that any court, anywhere, would be sympathetic to the claim that lethal gas was an unconstitutional method of execution. According to the information given to us by the parties, there was no available factual information concerning the painful nature of lethal gas execution, until the 1992 execution of Don Harding in Arizona, and the contemporaneous California executions relied on by the district court in Fierro. This is clearly a claim for which the factual or legal basis was not reasonably available at the time that LaG-rand pursued his direct appeal in state court. See Murray, 477 U.S. at 488, 106 S.Ct. 2639.\nThe State\u2019s argument-that LaGrand should have raised this plainly futile issue on direct appeal-is a reversal of the legitimate argument we often see in response to a claim of ineffective assistance of counsel, that a lawyer need not raise every conceivable claim in order to do an adequate job. As the Court said in Jones v. Barnes, 463 U.S. 745, 103 S.Ct. 3308, 77 L.Ed.2d 987 (1983):\nThere can hardly be any question about the importance of having the appellate advocate examine the record with a view to selecting the most promising issues for review- A brief that raises every colorable issue runs the risk of burying good arguments-those that, in the words of the great advocate John W. Davis, \u201cgo for the jugular,\u201d-in a verbal mound made up of strong and weak contentions.\nId. at 752-53, 103 S.Ct. 3308 (quoting Davis, The Argument of an Appeal, 26 ABAJ 895, 897 (1940)).\nIn a legal landscape which was worse than bleak, the claim that lethal gas was unconstitutional was not reasonably available to LaGrand\u2019s counsel in the 1980s. Therefore, he has shown cause for not raising this claim prior to his first habeas petition.\nThe question of prejudice is easily resolved. LaGrand is now faced with execution by an allegedly unconstitutional means. This surely qualifies as prejudice, defined as actual harm resulting from the claimed constitutional error. See Magby v. Wawrzaszek, 741 F.2d 240, 244 (9th Cir.1984).\nIV. Waiver\nFinally, the State argues that LaGrand\u2019s voluntary choice of lethal gas as a method of execution constitutes a waiver of his claim that the use of lethal gas is unconstitutional. This argument is foreclosed by the law of the circuit that Eighth Amendment protections may not be waived, at least in the area of capital punishment. We said in Campbell v. Wood, 18 F.3d 662 (9th Cir.1994) (en banc):\n[This court has] rejected the argument that the government may cloak unconstitutional punishments in the mantle of \u201cchoice.\u201d\nId. at 680 (citing Dear Wing Jung v. United States, 312 F.2d 73, 75-76 (9th Cir.1962)).\nLaGrand has not waived his ability to challenge the constitutionality of lethal gas as a method of execution.\nV. Fierro as Applied to LaGrand\nLaGrand argues, and the State concedes, that the Arizona method of using lethal gas to execute inmates is substantially similar to that used in California.\nThe Fierro district court found, following an eight day bench trial:\nInmates who are put to death in the gas chamber at San Quentin do not become immediately unconscious upon the first breath of lethal gas. An inmate probably remains conscious anywhere from 15 seconds to one minute, and there is a substantial likelihood that consciousness, or a waxing and waning of consciousness, persists for several additional minutes. During this time, inmates suffer intense, visceral pain, primarily as a result of lack of oxygen to the cells. The experience of \"air hunger\u201d is akin to the experience of a major heart attack, or to being held under water. Other possible effects of the cyanide gas include tetany, an exquisitely painful contraction of the muscles, and painful build-up of lactic acid and adrenaline. Cyanide-induced cellular suffocation causes anxiety, panic, terror, and pain.\n77 F.3d at 308 (quoting Fierro v. Gomez, 865 F.Supp. 1387, 1404 (N.D.Cal.1994)).\nEven though the district court\u2019s decision was vacated pursuant to our order, see 147 F.3d 1158, no court has ever said the district court was wrong. In our own review of the district court decision, we said:\nIn short, we hold that the district court\u2019s extensive factual findings concerning the level of pain suffered by an inmate during execution by lethal gas are not clearly erroneous. The district court\u2019s findings of extreme pain, the length of time this extreme pain lasts, and the substantial risk that inmates will suffer this extreme pain for several minutes require the conclusion that execution by lethal gas is cruel and unusual. Accordingly, we conclude that execution by lethal gas under the California protocol is unconstitutionally cruel and unusual and violates the Eighth and Fourteenth Amendments.\n77 F.3d at 308-09.\nCounsel for the State has candidly admitted that if the question of Arizona\u2019s use of lethal gas went to trial, the record would be no different than it was in Fier-ro. There appears to be no reason to put the parties to the ritual of creating a new record in this case to parallel Fierro. We already know what conclusion is compelled by that record.\nA further word concerning the death warrant is in order. The warrant parallels the statute in giving LaGrand a choice of the method of execution.\nA.R.S. 13.704B provides:\nB. A defendant who is sentenced to death for an offense committed before November 23, 1992 shall choose either lethal injection or lethal gas at least twenty days before the execution date. If the defendant fails to choose either lethal injection or lethal gas, the penalty of death shall be inflicted by lethal injection.\nThe petitioner did choose execution by lethal gas twenty days prior to the execution date. The State acknowledged at oral argument that the petitioner could not change his mind. Thus, execution under the existing warrant would require execution by lethal gas. Since we have held the method chosen by LaGrand to be unconstitutional, the death warrant must be reissued in a form that does not require execution by lethal gas.\nIT IS HEREBY ORDERED that the state respondents, their agents, servants and employees be, and hereby are, restrained and enjoined from executing Karl Hinze LaGrand pursuant to the existing death warrant, and are further temporarily restrained and enjoined from executing Karl Hinze LaGrand, or anyone similarly situated, by means of lethal gas. This order shall be effective immediately, and shall remain in effect until the district court has entered a permanent injunction.\nThe decision of the district court is AFFIRMED in part and REVERSED in part. The case is REMANDED to the district court with instructions to enter a permanent injunction consistent with this opinion.\nThe motion for stay of execution is GRANTED to the extent it is encompassed in the above order.\n. This was the second amendment. An earlier amendment had added lethal injection as an alternate method of execution. See Fierro II at 303.",
+        "type": "majority",
+        "author": "T.G. NELSON, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Carla G. Ryan, Tucson, Arizona, for the petitioner.",
+      "Paul J. McMurdie, Assistant Attorney General, Phoenix, Arizona, for the respondents."
+    ],
+    "corrections": "",
+    "head_matter": "Karl Hinze LaGRAND, Petitioner-Appellant, v. Terry STEWART, Director, Arizona Department of Corrections, and Dan Vanelli, Warden, SMU II, Arizona State Prison, Florence, Respondents-Appellees.\nNo. 99-99004.\nUnited States Court of Appeals, Ninth Circuit.\nSubmitted Feb. 23, 1999.\nFiled Feb. 24, 1999.\nSee also: 170 F.3d 1158.\nCarla G. Ryan, Tucson, Arizona, for the petitioner.\nPaul J. McMurdie, Assistant Attorney General, Phoenix, Arizona, for the respondents.\nBefore: HUG, Chief Judge, PREGERSON, and T.G. NELSON, Circuit Judges."
+  },
+  "file_name": "1144-01",
+  "first_page_order": 1242,
+  "last_page_order": 1248
+}

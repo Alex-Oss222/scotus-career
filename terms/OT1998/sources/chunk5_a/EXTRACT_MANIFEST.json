@@ -1,0 +1,146 @@
+[
+  {
+    "source": "minns_02_appendices.txt",
+    "characters": [
+      0,
+      65265
+    ],
+    "copy": "extract_01_minns_02_appendices.txt",
+    "sha256": "48afffffa534de09fdcc53e293429101cbc2d44bc27753609c9ed3ff3f149382"
+  },
+  {
+    "source": "minns_01_petition_for_writ_of_certiorari.txt",
+    "characters": [
+      3500,
+      25488
+    ],
+    "copy": "extract_02_minns_01_petition_for_writ_of_certiorari.txt",
+    "sha256": "471cefc4d1384e527d08fdf736f2e3982e2df3071cca6c4f0e3dfa76fc550be6"
+  },
+  {
+    "source": "holloway_04_joint_appendix.txt",
+    "characters": [
+      64456,
+      106400
+    ],
+    "copy": "extract_03_holloway_04_joint_appendix.txt",
+    "sha256": "3e118e8a8c55c963de45cf4f9635bc9cd3aebd6cf0ab45d58dd944ae70cd02e9"
+  },
+  {
+    "source": "holloway_05_petitioners_brief.txt",
+    "characters": [
+      0,
+      57840
+    ],
+    "copy": "extract_04_holloway_05_petitioners_brief.txt",
+    "sha256": "65a0b59cdc8d10c521bcbcccb5c87f6150143505cfc2286597a2b39b052b0599"
+  },
+  {
+    "source": "holloway_06_respondents_brief.txt",
+    "characters": [
+      9493,
+      67621
+    ],
+    "copy": "extract_05_holloway_06_respondents_brief.txt",
+    "sha256": "79252d4f2bbd8ad64482f9a94bafa50e33a70099589b8e4319fd223acab026e3"
+  },
+  {
+    "source": "peguero_04_joint_appendix.txt",
+    "characters": [
+      223926,
+      229893
+    ],
+    "copy": "extract_06_peguero_04_joint_appendix.txt",
+    "sha256": "a88f72f34e61328ccce55f1a16479c70c3bd0541438fa63cf0d8ec95d6b43ecd"
+  },
+  {
+    "source": "peguero_06_respondents_brief.txt",
+    "characters": [
+      12500,
+      15757
+    ],
+    "copy": "extract_07_peguero_06_respondents_brief.txt",
+    "sha256": "7d3de6784f8ecff3f7761b9963268bd2d6894887f616d7b88d592c84e22d3b70"
+  },
+  {
+    "source": "blaze_02_petition_for_writ_of_certiorari.txt",
+    "characters": [
+      32161,
+      74000
+    ],
+    "copy": "extract_08_blaze_02_petition_for_writ_of_certiorari.txt",
+    "sha256": "782718e566316ac6a893b4b7b2803b0f1f0e4d59a0d88705746133734a245670"
+  },
+  {
+    "source": "blaze_08_amicus_curiae_brief.txt",
+    "characters": [
+      18500,
+      64617
+    ],
+    "copy": "extract_09_blaze_08_amicus_curiae_brief.txt",
+    "sha256": "55671895952b2b8c52dd7972b1c2faea16849f2bb9c01335fe67d70a9668d9b6"
+  },
+  {
+    "source": "cedar_02_petition_for_writ_of_certiorari.txt",
+    "characters": [
+      37427,
+      47000
+    ],
+    "copy": "extract_10_cedar_02_petition_for_writ_of_certiorari.txt",
+    "sha256": "5d55baf9f3467e249765d09ddeff10fe04a5887480ab2175742301224e9743d3"
+  },
+  {
+    "source": "cedar_06_petitioners_brief.txt",
+    "characters": [
+      43567,
+      61146
+    ],
+    "copy": "extract_11_cedar_06_petitioners_brief.txt",
+    "sha256": "9d272f69a411d036dd26e7d006d55985d3a6e7228bb56efc304976ea066da8a5"
+  },
+  {
+    "source": "cedar_07_respondents_brief.txt",
+    "characters": [
+      88156,
+      98352
+    ],
+    "copy": "extract_12_cedar_07_respondents_brief.txt",
+    "sha256": "4d03d3472a2c6c3a73c7266c72626134d5b77d56e6ccde2b0dff918b030ae1d9"
+  },
+  {
+    "source": "cedar_09_amicus_curiae_brief.txt",
+    "characters": [
+      23336,
+      25626
+    ],
+    "copy": "extract_13_cedar_09_amicus_curiae_brief.txt",
+    "sha256": "1e4d46a7765bcd9ae060c086b0380a54e4ee97fb2a698e41ab51fe43c01eea18"
+  },
+  {
+    "source": "lombard_authority.txt",
+    "characters": [
+      49457,
+      77538
+    ],
+    "copy": "extract_14_lombard_authority.txt",
+    "sha256": "37886ea01ea4476738909a85d021505456f2817fb468fbeac418a808ed83050d"
+  },
+  {
+    "source": "johnson_authority.txt",
+    "characters": [
+      23290,
+      47237
+    ],
+    "copy": "extract_15_johnson_authority.txt",
+    "sha256": "1b2aba41ebced947a6646dbe2b865477e26d607611b9f23202feea36ca9da051"
+  },
+  {
+    "source": "gaubert_authority.txt",
+    "characters": [
+      36335,
+      45565
+    ],
+    "copy": "extract_16_gaubert_authority.txt",
+    "sha256": "ad346891790a77b2c79b9e15431e98748c5b9da03d7525005092379c71e91e0a"
+  }
+]

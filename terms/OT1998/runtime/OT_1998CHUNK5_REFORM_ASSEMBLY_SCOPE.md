@@ -1,0 +1,7 @@
+# Reform Party - form and compatibility before assignment
+
+The form is one signed lead opinion after the supplied post-grant merits submission, with four parts and a short scope concurrence. Parts I and II reject the facial and pleaded as-applied funding-parity theory and the distinct contribution-cap gap theory. Part III affirms dismissal of affiliation standing without prejudice. Part IV explains only the antecedent statutory limits on a tribunal remand. The separate damages and certification judgments remain unreviewed and undisturbed. This structure follows the actual granted issues and distinct legal grounds, not assignment counts.
+
+All eight reconciled Associates join every part. The [clean scope validation](../freeze/OT_1998CHUNK5_REFORM_SCOPE_VALIDATION.md) confirms that this formal limitation preserves their commitments. Stone's approved position supports Parts I-III, including the actual cap-gap argument, but expressly reserves the separate certification questions. He does not join Part IV and preserves that scope qualification in a concurrence. No independent anticorruption holding, general validation of a dollar limit, new ground or fallback is attributed to him. No non-Stone commitment changes.
+
+The Chief is in each judgment coalition and assigns the single lead. The eight Associates can carry every proposition; Stone cannot carry the full lead. No division of authorship is necessary. The fresh opinion-table recount and selection follow this form determination.

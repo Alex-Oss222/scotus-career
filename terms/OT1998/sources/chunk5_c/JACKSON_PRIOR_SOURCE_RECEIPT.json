@@ -1,0 +1,73 @@
+[
+  {
+    "name": "WITTERS",
+    "url": "https://static.case.law/us/474/cases/0481-01.json",
+    "date": "1986-01-27",
+    "opinions": [
+      [
+        "majority",
+        "Justice Marshall",
+        15632
+      ],
+      [
+        "concurrence",
+        "Justice White,",
+        584
+      ],
+      [
+        "concurrence",
+        "Justice Powell,",
+        5178
+      ],
+      [
+        "concurrence",
+        "Justice O\u2019Connor,",
+        1043
+      ]
+    ]
+  },
+  {
+    "name": "MUELLER",
+    "url": "https://static.case.law/us/463/cases/0388-01.json",
+    "date": "1983-06-29",
+    "opinions": [
+      [
+        "majority",
+        "Justice Rehnquist",
+        31789
+      ],
+      [
+        "dissent",
+        "Justice Marshall,",
+        27271
+      ]
+    ]
+  },
+  {
+    "name": "NYQUIST",
+    "url": "https://static.case.law/us/413/cases/0756-01.json",
+    "date": "1973-06-25",
+    "opinions": [
+      [
+        "majority",
+        "Mr. Justice Powell",
+        76678
+      ],
+      [
+        "concurring-in-part-and-dissenting-in-part",
+        "Mr. Chief Justice Burger,",
+        14333
+      ],
+      [
+        "dissent",
+        "Mr. Justice Rehnquist,",
+        14707
+      ],
+      [
+        "dissent",
+        "Mb. Justice White,",
+        20060
+      ]
+    ]
+  }
+]

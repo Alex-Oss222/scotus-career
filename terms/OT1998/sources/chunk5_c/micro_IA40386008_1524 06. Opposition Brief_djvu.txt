@@ -1,0 +1,1370 @@
+Supreme Court, U.S. 
+FILED 
+
+
+| SEP 30 1998 
+- CLERK 
+
+
+No. 98-376 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1997 
+
+
+WARNER JACKSON, ET AL., PETITIONERS, 
+Vv. 
+
+
+JOHN T. BENSON, ET AL., RESPONDENTS. 
+
+
+On Petition for Writ of Certiorari 
+to the Supreme Court of Wisconsin 
+
+
+BRIEF FOR MILLER RESPONDENTS 
+AND REPRESENTATIVE ANNETTE “POLLY” 
+WILLIAMS IN OPPOSITION 
+
+
+RICHARD P. HUTCHISON MICHAEL W. MCCONNELL 
+Landmark Legal Foundation __ Counsel of Record 
+
+3100 Broadway, Ste. 515 ALAN E. UNTEREINER 
+Kansas City, Missouri 64111 STEFFEN N. JOHNSON 
+
+
+(816) 931-5559 ELIZABETH A. CLARK 
+Mayer, Brown & Platt 
+KEVIN C. POTTER 190 South LaSalle St. 
+Brennan, Steil, Basting Chicago, Illinois 60603 
+& MacDougall (312) 782-0600 
+
+
+22 East Mifflin St., Ste. 400 
+Madison, Wisconsin 53703 
+(608) 251-7770 
+
+
+Counsel for Miller Respondents 
+
+
+~ QUESTION PRESENTED 
+
+
+Whether the Establishment Clause permits a State to 
+enact an experimental educational program for the benefit of 
+low-income children in its most economically depressed city, 
+under which eligible children are provided up to their per 
+capita share of the state education fund to pay the costs of 
+attending the accredited school of their choice, whether it is 
+public or private, secular or religious. 
+
+
+Page 
+QUESTION FRRSUN ERE. wi bs ek Ve ee ees i 
+SIATEMENT GF THOCAGE 6b ee EN COLE 1 
+A. Factual Backgrounds ....... 6 6 we es 1 
+B. PROCOUGIIEN TIONOW 6 5 6 eee es z 
+REASONS FOR DENYING THE PETITION ..... 12 
+A. The Wisconsin Supreme Court Correctly 
+Distinguished Nyquist ........... 13 
+B. The Decision Below Is Consistent With 
+This Court’s Precedents Upholding Pro- 
+grams That Are Neutral And Indirect 16 
+C. If Adopted, Petitioners’ Argument Would 
+Create Needless Conflict Between The 
+Establishment Clause And Other Parts Of 
+The First Amendment ........... 21 
+D. Petitioners’ Argument That Certiorari 
+Should Be Granted To Advance The 
+“National Policy Debate” Should Be 
+DN a ss Ee 24 
+CARPE AR 86a ARE ee eer ge ees 26 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+iil 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: Page 
+Agostini v. Felton, 117 S. Ct. 1997 (1997) ....... passim 
+Bowen v. Kendrick, 487 U.S. 589 (1988) ........ 14 
+Church of Lukumi Babalu Aye v. City of Hialeah, 508 
+
+ee EE es ET Ne ee Rees 22 
+Committee for Public Education v. Nyquist, 413 U.S. 
+
+Ne ES Rs MARR ey Be Sag gnaiviare Pee Sar irge en passim 
+
+
+Davis v. Grover, 480 N.W.2d 460 (Wis. 1992) . . . 1, 2, 4, 25 
+Employment Division v. Smith, 494 U.S. 872 (1990) . 23 
+
+
+Everson v. Board of Education, 330 U.S. 1 (1947) .. . 9, 23 
+Hobbie v. Unemployment Appeals Comm’n, 480 U.S. 
+
+SE MRR eee is ke Wises a ae ws 22 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345 
+
+DR et ys ea oa oe Re ee 23 
+Jimmy Swaggart Ministries v. Board of Equalization, 
+
+ee ee EEE, kk. CG Be ie oh eS 22 
+Lamb’s Chapel v. Center Moriches Sch. Dist., 508 U.S. 
+
+I os ig ee pie hike ee mca 23, 24 
+Lemon v. Kurtzman, 403 U.S. 602 (1971) .... 8, 9, 11 
+Mueller v. Allen, 463 U.S. 388 (1983) ....... passim 
+
+
+Peter v. Wedl, 1998 WL 612747 (8th Cir. Sept. 15, 
+RN ee rs a's sa eas Re ee so 23 
+
+
+Pierce v. Society of Sisters, 268 U.S. 510 (1925) ... 20 
+
+
+~— 
+
+
+iv 
+
+
+Rosenberger v. Rector & Visitors of Univ. of Virginia, 
+259. U0. S99 GO) 6 ee a 14, 17, 21, 23, 24 
+
+
+School District of Grand Rapids v. Ball, 473 U.S. 373 
+os _ | RRR ES AACE cM ee ate eee a 21 
+
+
+Sherbert v. Verner, 374 U.S. 398 (1963) ........ 22 
+Texas Monthly, Inc. v. Bullock, 489 U.S. 1 (1989) .. 17 
+Washington v. Glucksberg, 117 S. Ct. 2258 (1997) .. 25 
+
+
+Widmar v. Vincent, 454 U.S. 263 (1981) ... 14, 23, 24 
+Witters v. Washington Dep’t of Servs., 474 U.S. 481 
+COD ee 5s 4 10, 14, 17, 18, 19, 21 
+Zobrest v. Catalina Foothills Sch. Dist., 509 U.S. 1 
+GENE othe ee ae ee ira 14, 17, 20, 21, 24 
+Statutes: 
+Re Se: Oe ke RA oa ek ae ee 3 
+es es Se EC aw eke or a ee ko eae 5, 6 
+SO SR os es wk wae en ee a 6 
+Miscellaneous: 
+
+
+Anthony S. Bryk et al., CATHOLIC SCHOOLS AND THE 
+CONE Geee Ce ose ok pa wea ee 25 
+
+
+John E. Chubb & Terry M. Moe, POLITICS, MARKETS, AND 
+AMERICA’S SCHOOLS (Brooking Inst. 1990) ... 24, 25 
+
+
+eT 
+
+
+Vv 
+
+
+James S. Coleman et al., HIGH SCHOOL ACHIEVEMENT: 
+PUBLIC, CATHOLIC, AND PRIVATE SCHOOLS CoM- 
+CANN TIGRE) Oc kee a ea RCS ORD 24, 25 
+
+
+James S. Coleman & Thomas Hoffer, PUBLIC AND PRI- 
+VATE HIGH SCHOOLS: THE IMPACT OF COMMUNITIES sai 
+
+
+CID BO POC ES GENES 25 
+Funk & Wagnalls, NEW INTERNATIONAL DICTIONARY OF THE 
+
+ENGLISH LANGUAGE (1987) .....--+- +e ee: 3 
+Charles Glenn, CHOICE OF SCHOOLS IN SIX NATIONS 
+
+(U.S. Dep’t of Educ. 1989) .....-----+++:> 25 
+Carol Innerst, Idiosyncracies of a School Choice Icon, WASH. 
+
+TIMES, Sept. 24, 1995, atB3 ......----++-:-: 3 
+Donald Lambro, Liberal Embraces Vouchers, WASH. TIMES, 
+
+April 2, 1990, at AS... 2.2... ee eee eee 3 
+
+
+MILWAUKEE PUBLIC SCHOOLS, INDICATORS OF EDUCATIONAL 
+EFFECTIVENESS (1990)... 0.2 eee eee ees 2 
+
+
+ic a ctr. 
+
+
+BRIEF FOR MILLER RESPONDENTS 
+AND REPRESENTATIVE ANNETTE “POLLY” 
+WILLIAMS IN OPPOSITION 
+
+
+The question in this case is whether the Establishment 
+Clause of the First Amendment is a bar to one of the most 
+important experiments in educational reform now underway in 
+the Nation. Under the Milwaukee Parental Choice Program (the 
+“Program” or “MPCP”), some of the poorest urban families in 
+the country are offered the option of attending the accredited 
+school of their choice, whether it is public or private, secular or 
+religious. Their per capita share of the state education fund is 
+made available to pay the cost of attendance. The Wisconsin 
+Supreme Court upheld the constitutionality of the Program. We 
+believe that decision should not be disturbed. 
+
+
+STATEMENT OF THE CASE 
+
+
+A. Factual Background 
+
+
+Respondent Annette “Polly” Williams is a State Repre- 
+sentative for the 10th District of Wisconsin, representing inner- 
+city Milwaukee, and was the primary legislative sponsor ofthe 
+Milwaukee Parental Choice Program. Respondents Marquelle 
+Miller, Cynthia Miller, Angela Gray, Zachary Gray, Shon 
+Richardson, George Richardson, Latrisha Henry, Faye Henry, 
+Reigne Barrett, Valerie Barrett, Candice Williams, Senton 
+Williams, Clintrai Giles, and Sharon Giles (collectively, “Miller 
+respondents”) are children and parents of children who reside in 
+Milwaukee and wish to participate in the Program. Respondents 
+were granted leave to intervene as defendants in these consoli- 
+dated actions. 
+
+
+Because they lack the financial wherewithal to pay for any 
+alternative, the Miller respondents have no choice but to receive 
+their education in the Milwaukee Public Schools (“MPS”), one 
+of the most troubled school systems in the Nation. See generally 
+Davis v. Grover, 480 N.W.2d 460, 469 (Wis. 1992). During 
+the 1993-94 school year, for instance, dropout rates among 
+
+
+2 
+
+
+MPS students in grades 9-12 reached 15 percent each year— 
+seven times the rate among students in Wisconsin as a whole. 
+Wis. J.A. 170-174. In fact, only 48 percent of students who 
+enter the Milwaukee Public Schools as freshmen ultimately 
+graduate (ibid.), and of those who do finish, some 36 percent 
+squeak by with a “D” average. Davis, 480 N.W.2d at 470. This 
+is despite the fact that spending in the Milwaukee Public Schools 
+exceeds $7600 per pupil—well above national averages. Not 
+surprisingly, there is a strong correlation between dropping out 
+of school and future dependence upon public assistance (or 
+worse). As the Wisconsin Supreme Court recently observed, 
+“{h]jigh school dropouts comprise 75 percent of the prison 
+population and 80 percent of the families receiving Aid for 
+Families with Dependent Children. Only 55 percent of the male 
+dropouts under age thirty have jobs and only 20 percent have 
+full-time jobs.” Jbid. In short, “[t]he consequences of school 
+dropouts and inadequate education are shocking.” Jbid. 
+
+
+These problems are particularly pronounced for members 
+of racial minority groups. For example, while MPS students 
+generally score below the national average on basic skills tests, 
+“minority students score dramatically below the average.” 
+Davis, 480 N.W.2d at 470. And while MPS students’ grade- 
+point average (on a 4.0 scale) generally is 1.60, the average for 
+African-American students is just 1.31. See MILWAUKEE 
+PUBLIC SCHOOLS, INDICATORS OF EDUCATIONAL EFFECTIVE- 
+NESS (1990). Given that some two-thirds of MPS students are 
+racial minorities, Milwaukee’s high dropout rates have a 
+disproportionate racial impact as well. See Wis. J.A. 170-174. 
+
+
+The troubled condition of Milwaukee’s public education 
+system was not lost on Wisconsin Democratic Representative 
+Annette “Polly” Williams, a respondent herein whose district 
+includes many of the families that are caught in the embattled 
+Milwaukee Public Schools. Representative Williams came to 
+understand school choice as a tool of “empowerment of low- 
+
+
+3 
+
+
+income families and specifically black empowerment.” See 
+Carol Innerst, Jdiosyncracies of a School Choice Icon, WASH. 
+TIMES, Sept. 24, 1995, at B3. See also Donald Lambro, 
+Liberal Embraces Vouchers, WASH. TIMES, April 2, 1990, at 
+A8. In 1989, with support from Governor Tommy Thompson, 
+Representative Williams—dubbed the “Rosa Parks of School 
+Choice” !—introduced legislation entitled the Milwaukee Parental 
+Choice Program. Shortly thereafter, the legislature enacted it. 
+
+
+The original Program permitted up to 1.5 percent of MPS 
+students to use their share of the state education fund to attend 
+any public or private secular’ school in Milwaukee, provided the 
+school satisfied certain requirements such as compliance with 
+state and federal antidiscrimination law (42 U.S.C. § 2000d), 
+satisfaction of various performance criteria, and submission to 
+financial and performance audits. Pet. App. 5a-6a. In order to 
+qualify for the Program, a student had to be a member of a 
+family whose income did not exceed 1.75 times the federal 
+poverty level, and either to be enrolled in the Milwaukee Public 
+Schools, attending a private school under the Program, or not 
+enrolled in school during the previous year. Jd. at 5a. Each 
+eligible student received assistance equal to the state aid to 
+which the MPS would have been entitled under state aid 
+
+
+' Innerst, supra. 
+
+
+2 In this brief, we will use the terms “secular” and “religious” 
+rather than the terms “nonsectarian” and “sectarian.” The term 
+“sectarian” is typically pejorative, carrying the connotation of 
+“bigoted.” Funk & Wagnalls, NEW INTERNATIONAL DICTIONARY 
+OF THE ENGLISH LANGUAGE 1137 (1987) (defining “sectarian” as 
+“[pjertaining to a sect; bigoted”). The dictionary notes that both 
+“sect” and “denomination” refer to “an organized body of 
+believers distinct in doctrine or practice,” but that “sect is an 
+opprobrious and denomination an honorable term for the same 
+body.” Ibid. We believe that neutral terminology is more fitting. 
+
+
+4 
+
+
+distribution formulae had the student attended a public school. 
+Under the original plan, the State made payments directly to 
+participating schools. Jd. at 6a. 
+
+
+In Davis v. Grover, 480 N.W.2d 460 (Wis. 1992), a group 
+of plaintiffs (some of whom are petitioners here) challenged the 
+original Program on various state constitutional theories. The 
+Wisconsin Supreme Court sustained the original Program 
+against all claims. 
+
+Low-income parents in the community regarded the 
+original Program as a tremendous success. During the 1994-95 
+school year, the Program enabled approximately 800 students to 
+attend approximately one dozen secular private schools. By 
+1995-96, the Program grew to include roughly 1600 pupils 
+attending roughly 17 secular schools. Pet. App. 7a. By the time 
+of the injunction that suspended implementation of the amended 
+Program, some 4000 MPS students had applied to attend private 
+schools under the Program—far more than the number allowed 
+under the Program’s original terms, and more than Milwaukee’s 
+secular private schools could accommodate. 
+
+
+In response to this groundswell of interest, the legislature 
+extended the Program in 1995 to encompass private religious 
+schools and increased tenfold—to 15 percent—the number of 
+MPS students allowed to participate. Pet. App. 7a.’ As a result 
+of these changes, “[t]he amended MPCP, in conjunction with 
+existing state educational programs, gives participating parents 
+the choice to send their children to a neighborhood public | 
+school, a different public school within the district, a specialized 
+public school, a private nonsectarian school, or a private 
+
+
+> The State also repeaied the original Program’s limitation that no 
+more than 65 percent of a private school’s enrollment consist of 
+MPCP participants. Pet. App. 8a. 
+
+
+Re Nana SME STR eR MTT E eee eT Mare ere eA ETE ETT 
+
+
+5 
+
+
+sectarian school.” Jd. at 26a.‘ In short, “[t]he amendments to 
+the program greatly expand[ed] not only the number of students 
+who are allowed to participate, but also the number of private 
+schools in the City of Milwaukee which may now accept 
+students in the program.” Jd. at 65a. 
+
+
+When the legislature amended the Program to include 
+religious schools, it also made a number of related changes to 
+reduce the potential for entanglement. For example, the 
+legislature eliminated the special audit and performance evalua- 
+tion requirements in the original Program. Pet. App. 7a. 
+Consistent with state law prior to enactment of the Program, 
+however, “[pJarticipating private schools [remained] subject to 
+performance, reporting, and auditing requirements, as well as 
+to applicable nondiscrimination, health, and safety obligations.” 
+Id. at 29a-30a. 
+
+
+The legislature also modified the payment mechanism used 
+in the Program. Under the provisions of the original legislation, 
+the State distributed aid directly to participating schools. 
+Following the 1995 amendments, the State cuts a check to the 
+parents (or guardians) of eligible students, who in turn are 
+required to “restrictively endorse the check for the use of the 
+private school.” Wis. Stat. § 119.23(4). Moreover, a separate 
+amendment established an “upper limit” on the amount of per- 
+student assistance that the State will provide to each parent. 
+Pet. App. 65a. Whereas state assistance to private schools 
+formerly was tied solely to levels of MPS per-student aid, the 
+State now will pay only the lesser of MPS per-student aid or the 
+private school’s “operating and debt service cost per pupil that 
+
+
++ As noted by the court below, “[t]he participating private schools 
+must select on a random basis the students attending their schools 
+under the amended program, except that they may give preference 
+to siblings already accepted in the schools” if demand outstrips the 
+number of spaces in the school. Pet. App. 25a. 
+
+
+6 
+
+
+is related to educational programming.” Wis. Stat. § 119.23(4). 
+See Pet. App. 7a-8a. 
+
+
+Finally, the 1995 amendments included an “opt-out” 
+provision that prohibits participating private schools from 
+requiring “a pupil attending the private school under [the 
+Program] to participate in any religious activity if the pupil’s 
+parent or guardian submits to the pupil’s teacher or the private 
+school’s principal a written request that the pupil be exempt 
+from such activities.” Wis. Stat. § 119.23(7)(c); see Pet. App. 
+8a, 25a. 
+
+
+The Miller respondents are economically disadvantaged 
+parents and children who have experienced first hand the 
+difficulties of obtaining an academically and personally satisfy- 
+ing education in the Milwaukee Public Schools. For both 
+religious and nonreligious reasons, they desire to enroll in 
+religious schools under the amended Program. Respondent 
+Cynthia Miller, for example, believes that a religious educa- 
+tional environment will be “more orderly and disciplined” than 
+the environment in her son Marquelle’s MPS school. Wis. J.A. 
+306, ¢ 4. Respondent Valerie Barrett echoes the Millers’ 
+concerns, and seeks to enroll her children in religious schools 
+because “public schools, and even nonsectarian private schools, 
+do not provide [her] children with the educational environment” 
+and “moral base” that would best facilitate their “curricul[ar] 
+and academic achievement.” /d. at 310-311, ¢ 4. The Miller 
+respondents, of course, are but a handful of the many thousands 
+of families who otherwise would have no alternative to the 
+MPS, and who depend on the Milwaukee Parental Choice 
+Program to obtain an education that satisfies their needs and 
+aspirations. As a result of this lawsuit, these families have been 
+kept waiting more than three years for the Program to become 
+a reality. 
+
+
+B. Proceedings Below 
+
+
+In August 1995, shortly after the Program’s enactment, 
+petitioners filed these two lawsuits in Wisconsin state court, 
+alleging that the Program violates the Establishment Clause of 
+the United States Constitution as well as various provisions of 
+the Wisconsin Constitution. The trial court consolidated the 
+actions, and two groups of private parties—including the Miller 
+respondents—were granted leave to intervene on the side of the 
+state defendants. 
+
+
+The Wisconsin Supreme Court assumed original jurisdiction 
+over ft’ - matter and stayed further proceedings in the trial court. 
+After preliminarily enjoining implementation of the Program, an 
+equally divided court dismissed the suit and lifted the stay on 
+proceedings in the trial court. Three justices held that petition- 
+ers failed to demonstrate a constitutional violation under either 
+the Establishment Clause or the Wisconsin Constitution, and 
+three justices voted to invalidate the Program solely on state 
+constitutional grounds. See Pet. App. 190a-191a. No member 
+of the court held that the Program violated the Establishment 
+Clause. Ibid. 
+
+
+Upon return to the trial court, the parties filed cross 
+motions for summary judgment. Principally citing Article I, 
+§ 18 of the Wisconsin Constitution, Wisconsin’s own religion 
+clause, the court granted petitioners’ motion for summary 
+judgment and invalidated the amended Program. Pet. App. 
+188a. Like the three dissenting justices on the Wisconsin 
+
+
+5 Petitioners NAACP, et al., filed a subsequent lawsuit, in which 
+they raised the additional claim that the Program violates the equal 
+protection provisions of the Fourteenth Amendment and Wisconsin 
+Constitution. Those claims were rejected by the court below (see 
+Pet. App. 52a-56a) and are not raised in the Petition. Pet. 6 n.2. 
+
+
+8 
+
+
+Supreme Court, however, the trial court rested its decision on 
+
+
+Relying solely upon Article I, § 18 of the Wisconsin 
+Constitution, the court of appeals affirmed the trial court’s 
+decision. The court rejected the State’s argument that federal 
+Establishment Clause jurisprudence controlled its analysis of the 
+Wisconsin Constitution, stating that it is “settled law” that 
+Article I, § 18 “goes significantly further than the First Amend- 
+ment in its prohibition of state support or benefit for religion.” 
+Pet. App. 75a. Citing “recent Wisconsin precedents which more 
+rigorously analyze the religious benefit issue,” the court of 
+appeals ultimately “conclu[ded] that the amended program 
+violates Article I, section 18 of the Wisconsin Constitution 
+because it directs the payment of money from the state treasury 
+for the benefit of religious seminaries.” Jd. at 89a, 85a. 
+
+
+The Supreme Court of Wisconsin reversed. The court 
+relied on the three-part test of Lemon v. Kurtzman, 403 U.S. 
+602, 612-614 (1971), under which a law violates the Establish- 
+ment Clause if it lacks a secular purpose, has a primary effect 
+of either advancing or inhibiting religion, or leads to an 
+excessive entanglement of church and state. The court noted that 
+Lemon has been subject to criticism, but explained that “[uJntil 
+a majority of the Supreme Court directly holds otherwise, * * * 
+we continue to apply the Lemon test.” Pet. App. 14a n.5. 
+
+
+The court had no difficulty concluding that “the purpose of 
+the state legislation is secular in nature.” Pet. App. 14a. “The 
+purpose of the program,” the court explained, “is to provide 
+low-income parents with an opportunity to have their children 
+educated outside of the embattled Milwaukee Public School 
+system.” Jd. at 14a-15a. “The propriety of providing educa- 
+tional opportunities for children of poor families in the state,” 
+the court added, “goes without question.” Jd. at 15a. 
+
+
+9 
+
+
+Turning to Lemon’s second prong—the effects prong—-the 
+court derived its analysis from “the cumulative criteria devel- 
+oped over the years and appl[ied] to a wide range of educational 
+assistance programs challenged as violative of the Establishment 
+Clause.” Pet. App. 16a. The court carefully traversed this 
+Court’s modern establishment decisions, beginning with Everson 
+v. Board of Education, 330 U.S. 1 (1947), and culminating in 
+Agostini v. Felton, 117 S. Ct. 1997 (1997), and reasoned that 
+those cases 
+
+
+establish{] the general principle that state educational 
+assistance programs do not have the primary effect of 
+advancing religion if those programs provide public 
+aid to both sectarian and nonsectarian institutions 
+(1) on the basis of neutral, secular criteria that neither 
+favor nor disfavor religion; and (2) only as a result of 
+numerous private choices of the individual parents of 
+school-age children. 
+
+
+Pet. App. 25a. “The amended MPCP,” the court held, “is 
+precisely such a program.” /bid. 
+
+
+First, “eligibility for benefits under the amended MPCP is 
+determined by ‘neutral, secular criteria that neither favor nor 
+disfavor religion.’” Pet. App. 25a (citing Agostini, 117 S. Ct. 
+at 2014). Program beneficiaries are “selected on a random 
+basis” from among children who “reside in Milwaukee, attend 
+public schools (or private schools in grades K-3) and meet 
+certain income requirements.” bid. Moreover, “beneficiaries 
+are eligible for an equal share of per pupil public aid regardless 
+of the school they choose to attend.” Jd. at 26a. Thus, the court 
+below explained that “[a] student qualifies for benefits under the 
+amended MPCP not because he or she is a Catholic, a Jew, a 
+Moslem, or an atheist; it is because he or she is from a poor 
+family and is a student in the embattled Milwaukee Public 
+Schools.” Jd. at 27a. 
+
+
+10 
+
+
+Similarly, “[p]articipating private schools are also selected 
+on a religious-neutral basis and may be sectarian or nonsectar- 
+ian.” Pet. App. 25a. In short, the court held, because students 
+and their families may choose from “a wide range of school 
+choices—mainly public, but some private or religious” (id. at 
+26a n.16), the Program “provides a neutral benefit to beneficia- 
+ries selected on religious-neutral criteria” and “neither leads to 
+‘religious indoctrination’ nor ‘creates [a] financial incentive for 
+students to undertake sectarian education.’” Jd. at 27a (citations 
+omitted). 
+
+
+Second, the court explained that “[a]ny aid provided under 
+the amended MPCP that ultimately flows to sectarian private 
+schools * * * does so ‘only as a result of genuinely independent 
+and private choices of aid recinients.’” Pet. App. 27a (quoting 
+Witters v. Washington Dep’t of Servs., 474 U.S. 481, 487 
+(1986)). The court rejected the argument that the Program was 
+invalid merely because “the State sends the checks directly to 
+the participating private school and the parents must restrictively 
+endorse the checks to the private schools.” Jd. at 28a. The 
+important point, the court held, is that “[a]s with the programs 
+in Mueller and Witters, not one cent flows from the State to a 
+sectarian private school under the amended MPCP except as a 
+result of the necessary and intervening choices of individual 
+parents.” Jbid. In this regard, the court observed that the 
+Program “places on equal footing options of public and private 
+school choice, and vests power in the hands of parents to choose 
+where to direct the funds allocated for their children’s benefit.” 
+Ibid. 
+
+
+The court considered and rejected petitioners’ argument 
+that Committee for Public Education v. Nyquist, 413 U.S. 756 
+(1973), requires invalidation of the Program under Lenon’s 
+second prong. Pet. App. 18a-19a & n.9. The court explained 
+that there are “significant distinctions” between the amended 
+
+
+11 
+
+
+Program and the program invalidated in Nyquist. Id. at 19a 
+n.9. Most importantly, the court stated (ibid.): 
+
+
+In Nyquist, each of the facets of the challenged pro- 
+gram directed aid exclusively to private schools and 
+their students. The MPCP, in contrast, provides a 
+neutral benefit to qualifying parents of school-age 
+children in Milwaukee Public Schools. Unlike the 
+program in Nyquist, the only financially-qualified 
+Milwaukee students excluded from participation in the 
+amended MPCP are those_in the fourth grade or 
+higher who are already attending private schools. The 
+amended MPCP, viewed in its surrounding context, 
+merely adds religious schools to a range of pre-exist- 
+ing educational choices available to MPS children. 
+This seminal fact takes the amended MPCP out of the 
+Nyquist construct and places it within the framework 
+of neutral education assistance programs. 
+
+
+Finally, the court concluded that the Program “will not 
+create an excessive entanglement between the State and 
+religion.” Pet. App. 29a. The court noted that the Program’s 
+performance, reporting, and auditing requirements, as well as 
+applicable nondiscrimination, health, and safety obligations, 
+“already exist” under prior law and “do not create excessive 
+entanglement merely because they are part of the amended 
+MPCP’s requirements.” Jd. at 29a-30a. The court went on to 
+conclude that “[t]he program does not involve the State in any 
+way with the schools’ governance, curriculum, or day-to-day 
+affairs.” Id. at 30a. Thus, the “‘[rjoutine regulatory interac- 
+tion’” required by the Program does not entail “the authority to 
+impose a ‘comprehensive, discriminating, and continuing state 
+surveillance’ over the participating sectarian private schools” or 
+even “approach the level of constitutionally impermissible 
+involvement.” Jd. at 29a, 30a (citations omitted). 
+
+
+12 
+
+
+Because the court concluded that the Program did not 
+violate the Establishment Clause, it was required to consider 
+petitioners’ state constitutional challenges. The court rejected 
+those challenges as well, with two justices dissenting and 
+adopting by reference the court of appeals’ analysis as their 
+own. Pet. App. 58a. No court or judge during the entire course 
+of this litigation has reached the conclusion that the Program 
+violates the Establishment Clause of the First Amendment.° 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+The petition for certiorari rests almost entirely on the 
+claim that the decision below is in “direct and irreconcilable 
+conflict” with Committee for Public Education v. Nyquist, 413 
+U.S. 756 (1973). Pet. 10, 11, 13. But the Wisconsin Supreme 
+Court carefully considered Nyquist and correctly concluded that 
+it is distinguishable. Pet. App. 18a-19a. Indeed, petitioners’ 
+assertion that this case “is on all fours with Nyquist” (Pet. 12), 
+and accordingly that “this is an open-and-shut case” (id. at 15), 
+is based on a misreading of Nyquist and a misunderstanding of 
+the nature of the Milwaukee Parental Choice Program. Perhaps 
+more significantly, if the court below had followed petitioners’ 
+mistaken notion of Establishment Clause doctrine, it would have 
+created a conflict with a long line of this Court’s cases recogniz- 
+ing the legitimac’y of government programs that aid religious 
+and secular institutions on a neutral and evenhanded basis 
+through the independent choices of private individuals. And it 
+would have set the Establishment Clause on a collision course 
+with other clauses of the First Amendment, which not only do 
+not command, but positively forbid, discrimination against 
+
+
+® On September 1, 1998, the day after the Petition for Certiorari 
+was filed, the Wisconsin Supreme Court issued an order granting 
+the motion of respondents Parents for School Choice to withdraw 
+a motion for clarification of certain state law issues. We agree with 
+petitioners that this order does not affect this Court’s jurisdiction. 
+
+
+nritennieneneaahinaenaenetaaseaeittieaaeamraeeiaeeiaiiiaiaaamield 
+
+
+13 
+
+
+individuals or groups on the basis of their religious character or 
+speech. 
+
+
+Petitioners’ policy arguments are equally unavailing. 
+Fundamentally, those arguments are based on the assumption 
+that the purpose of the state’s education fund is to benefit public 
+schools, rather than to educate children. The First Amendment 
+was not written to protect the exclusive emoluments of the 
+public school system, which did not even exist at the time of the 
+Framing. The people of Wisconsin are entitled to experiment 
+with the theory that competition and choice will improve the 
+previously dismal performance of schools available to the 
+children of inner-city Milwaukee. If the court below had 
+blocked the Parental Choice experiment in the name of a rigid 
+and outmoded interpretation of the federal Constitution, this case 
+might indeed be certworthy. But the sole consequence of the 
+decision below is to allow one State to engage in a promising 
+experiment in educational reform, for the benefit of some of the 
+neediest children in America, in a manner entirely consistent 
+with the values of pluralism, diversity, and choice that are 
+enshrined in the First Amendment. The Program may well 
+succeed in improving the educational opportunities of these 
+children, in which case other States will probably follow 
+Wisconsin’s lead. It may fail, in which case we will have 
+learned from the experience. But there is no reason for this 
+Court to stop the experiment before it has had a fair test. 
+
+
+A. The Wisconsin Supreme Court Correctly Distinguished 
+Nyquist 
+
+
+Committee for Public Education v. Nyquist, 413 U.S. 756 
+(1973), involved a small program of tax benefits and tuition 
+grants for the benefit of low-income parents whose children 
+attended nonpublic schools. Jd. at 765-767. The Court held that 
+this program violated the Establishment Clause. The opinion 
+
+
+14 
+
+
+contains dicta, ignored or repudiated in later cases,’ that conflict 
+with the reasoning of the court below. The holding in Nyquist, 
+however, rested on the fact that the program was targeted 
+exclusively to students attending nonpublic schools. /d. at 780- 
+783 & n.38. The Court differentiated between programs in 
+which aid flows to “all schoolchildren” and those in which aid 
+is restricted to students who choose to attend private schools, a 
+class predominantly made up of religious schools. Jd. at 782-783 
+n.38. See Mueller v. Allen, 463 U.S. 388, 398 (1983) (emphasis 
+in original) (explaining Nyquist on the ground that the tuition 
+grants in Nyquist were “provided only to parents of children in 
+nonpublic schools”). 
+
+
+This shows why petitioners’ claim of an irreconcilable 
+conflict with Nyquist is unfounded. As petitioners concede, the 
+Milwaukee Parental Choice Program “‘provide[s] public aid to 
+
+
+’ Language in the Nyquist opinion implied that no program of 
+assistance to education may be extended to nonpublic schools “[i]n 
+the absence of an effective means of guaranteeing that the state aid 
+derived from public funds will be used exclusively for secular, 
+neutral, and nonideological purposes.” 413 U.S. at 780. That 
+language was needlessly broad for decision of the Nyquist case, 
+which involved a program of assistance directly exclusively to 
+private schools. As we explain in detail below, subsequent cases 
+make clear that this restriction does not apply to programs in 
+which the aid is given on the basis of neutral criteria and is made 
+“available only as a result of numerous, private choices of 
+individual parents of school-age children.” Mueller v. Allen, 463 
+U.S. 388, 399 (1983); see also Widmar v. Vincent, 454 U.S. 263, 
+273-275 (1981); Witters v. Washington Dep't of Servs., 474 U.S. ) 
+481, 488 (1986); Zobrest v. Catalina Foothills Sch. Dist., 509 
+U.S. 1, 8 (1993); Rosenberger v. Rector & Visitors of Univ. of 
+Virginia, 515 U.S. 819, 839 (1995); Cf. Bowen v. Kendrick, 487 
+U.S. 589 (1988) (where grants are made on a discretionary basis, 
+grantees must use the funds exclusively for secular purposes). 
+
+
+Le ae Die ANC a RN 
+
+
+: 
+
+
+ae 
+
+
+15 
+
+
+both sectarian and nonsectarian institutions * * * on the basis of 
+neutral, secular criteria that neither favor nor disfavor 
+religion.’” Pet. 13 (quoting Pet. App. 25a). Under the Program, 
+the state’s per capita subsidy for education goes to whatever 
+school the student and her family choose—public, secular 
+private, or religious private—on a wholly neutral basis.® If they 
+choose to attend a private school, their per capita subsidy is 
+made available to them to pay for that school: if they choose to 
+attend a public school, their per capita subsidy goes to the MPS. 
+That was not true in Nyquist, where the tuition reimbursement 
+program was available only to families with children in 
+nonpublic schools. 413 U.S. at 782-783 n.38. 
+
+
+Petitioners relegate discussion of this crucial distinction to 
+a single footnote. Pet. 13-14 n.10. The footnote reads in its 
+entirety: 
+
+
+Although, as the Wisconsin Supreme Court noted, the 
+New York voucher program “directed aid exclusively 
+to private schools and their students,” App. 19a n.9, 
+the same is true here: the Amended MPCP also 
+provides aid “exclusively to private schools and their 
+students”; indeed, the very point of the Program is to 
+enable low-income students in Milwaukee to enroll in 
+private schools instead of remaining in the Milwaukee 
+Public Schools. 
+
+
+Petitioners’ description of the Milwaukee Program is flatly 
+incorrect. In truth, as a result of the 1995 amendments, 
+
+
+* Moreover, the Program must be viewed in context, as one of a 
+number of provisions of Wisconsin education law that “give[] 
+participating parents the choice to send their children to a 
+neighborhood public school, a different public school within the 
+district, a specialized public school, a private nonsectarian school, 
+or a private sectarian school.” Pet. App. 26a. 
+
+
+16 
+
+
+Wisconsin now directs its state aid neutrally to all eligible 
+students attending accredited schools in Milwaukee, without 
+discriminating one way or the other. The “very point” of the 
+Program was not merely “to enable low-income students in 
+Milwaukee to enroll in private schools” (Pet. 14 n.10); it was 
+to give them a choice. 
+
+
+Petitioners do not explain their reasoning. But it must be 
+based on timing. If, when the State first started to subsidize 
+education sometime in the last century, it had enacted a program 
+that allocated aid to accredited schools of the students’ choice, 
+identical to the Milwaukee Parental Choice Program, petitioners 
+could never contend the benefits were “directed exclusively” to 
+private schools. The fact that the Wisconsin system of 
+educational finance was enacted in two steps—first exclusively 
+to public schools and later to students at all accredited 
+schools—cannot logically make a difference. 
+
+
+In sum, to the extent that the petition relies on a supposed 
+conflict between the decision of the Wisconsin Supreme Court 
+and this Court’s Nyquist decision, it has failed to provide a 
+reason for the Court to grant certiorari. 
+
+
+B. The Decision Below Is Consistent With This Court’s 
+Precedents Upholding Programs That Are Neutral And , 
+Indirect 
+
+
+Moreover, as the court below recognized (Pet. App. 19a), 
+Nyquist cannot be read in isolation from other cases setting forth 
+this Court’s establishment jurisprudence. This is particularly true 
+where, as here, the Court’s decisions have evolved over time, 
+both as to general doctrine and as to specific results. See 
+Agostini v. Felton, 117 S. Ct. 1997 (1997) (holding that some 
+school aid precedents had been undermined by later decisions). : 
+The Wisconsin Supreme Court properly considered precedents 
+rendered after Nyquist and correctly concluded that they 
+supported the constitutionality of the Program. In reaching that 
+
+
+aE | 
+
+
+renee " <ee 
+
+
+17 
+
+
+conclusion, the court relied principally on Mueller v. Allen, 463 
+U.S. 388 (1983); Witters v. Washington Dep’t of Servs., 474 
+U.S. 481 (1986): Zobrest v. Catalina Foothills Sch. Dist. , 509 
+U.S. 1 (1993); Rosenberger v. Rector & Visitors of Univ. of 
+Virginia, 515 U.S. 819 (1995): and Agostini, supra. See Pet. 
+App. 19a-28a. The court’s analysis of those precedents cannot 
+be faulted. As the late Justice Brennan stated, summarizing 
+modern Establishment Clause doctrine, when a “subsidy is 
+conferred upon a wide array of nonsectarian groups as well as 
+religious organizations in pursuit of some legitimate secular end, 
+the fact that religious groups benefit incidentally does not 
+deprive the subsidy of the secular purpose and primary effect 
+mandated by the Establishment Clause.” Texas Monthly, Inc. v. 
+Bullock, 489 U.S. 1, 14-15 (1989) (plurality opinion). 
+
+
+Perhaps the clearest precedent in support of the decision 
+below is Witters. In Witters, the Court unanimously held that 
+public funds could be used to pay the tuition of a student at a 
+Bible college for training for the ministry, pursuant to a 
+program of vocational assistance for the blind. Justice 
+Marshall’s opinion for the Court identified three aspects of the 
+program as “central to our inquiry” (474 U.S. at 487), and 
+these factors still stand as this Court’s most pertinent statement 
+of the meaning of the Establishment Clause in this context. 
+
+
+First, Justice Marshall noted that funding goes to the 
+recipient institution only through the choice of the individual 
+student. “Any aid provided under Washington’s program that 
+ultimately flows to religious institutions does so only as a result 
+of the genuinely independent and private choices of aid 
+recipients.” 474 U.S. at 487. Second, he noted that 
+“Washington’s program is ‘made available generally without 
+regard to the sectarian-nonsectarian, or public-nonpublic nature 
+of the institution benefitted,’ and is in no way skewed towards 
+religion.” Jd. at 487-488 (quoting Nyquist, 413 U.S. at 782-783 
+n.38). Third, he stressed that the Washington program “creates 
+
+
+18 
+
+
+no financial incentive for students to undertake sectarian 
+education.” Jd. at 488. Their benefits are neither “greater [nJor 
+broader” if they “apply their aid to religious education” than if 
+they choose to attend educational programs at public or cther 
+secular institutions. Jbid. “[T]he fact that aid goes to individuals 
+means that the decision to support religious education is made 
+by the individual, not by the State.” Ibid. 
+
+
+With reference to these factors, the present case is on all 
+fours with Witters. Petitioners concede that any aid provided 
+under the Wisconsin program that ultimately flows to religious 
+institutions does so only as a result of the genuinely independent 
+and private choices of parents in Milwaukee. Pet. 13. 
+Moreover, the Program makes aid available without regard to 
+the religious-nonreligious, or public-nonpublic nature of the 
+school chosen by the families involved. See ibid. (quoting App. 
+25a; ellipses in original) (the Program “‘provide[s] public aid to 
+both sectarian and nonsectarian institutions * * * on the basis of 
+neutral, secular criteria that neither favor nor disfavor 
+religion’”). Finally, the Milwaukee Parental Choice Program, 
+like the vocational assistance program in Witters, “creates no 
+financial incentive for students to undertake sectarian 
+education.” 474 U.S. at 488. The state aid that is allocated for 
+the benefit of each child eligible to participate in the Program is 
+neither “greater [njor broader” if students “apply their aid to 
+religious education” than if they attend a public school or a 
+private secular school. bid. Whatever accredited school they 
+attend, the state will pay their equal per-student share.? As 
+Justice Marshall concluded in Witters, “the fact that aid goes to 
+
+
+° Under some circumstances (where the cost of nonpublic 
+education is less than the per-student allotment), students attending 
+nonpublic schools will receive less aid than their public school 
+counterparts. Under no circumstances may they receive more. 
+
+
+19 
+
+
+individuals means that the decision to support religious 
+education is made by the individual, not by the State.” Jbid. 
+
+
+Justice Marshall also stated that “nothing in the record 
+indicates that * * * any significant portion of the aid expended 
+under the Washington program as a whole will end up flowing 
+to religious education,” noting that Mr. Witters was apparently 
+the only recipient of aid under the program who used his aid for 
+religious education. 474 U.S. at 488. As Justice Powell pointed 
+out in his concurrence, however, reliance on this factor was 
+inconsistent with Mueller v. Allen, 463 U.S. 388 (1983). 474 
+U.S. at 490-491 & n.3 (Powell, J., joined by Burger, C.J., and 
+Rehnquist, J.). Five Justices agreed with Justice Powell on this 
+point. See id. at 490 (White, J., concurring); id. at 493 
+(O’Connor, J., concurring). 
+
+
+In any event, this Court has recently repudiated the 
+suggestion that “the constitutionality of an aid program depends 
+on the number of sectarian school students who happen to 
+receive the otherwise neutral aid.” Agostini, 117 S. Ct. at 2013. 
+The relative number of students choosing religious and secular 
+education under the Wisconsin program, which petitioners stress 
+(Pet. 3-4), is therefore irrelevant. Nevertheless, we would note 
+that, under the Program, well over 85 percent of state education 
+funds in Milwaukee will go to nonreligious schools, since only 
+15 percent of the students are permitted to use their share of the 
+educational fund to attend nonpublic schools, and a significant 
+portion of them will choose secular schools. 
+
+
+Thus, if the Court below had heeded petitioners’ legal 
+argument and had struck down the Milwaukee Parental Choice 
+Program in order to avoid a spurious conflict with Nyquist, it 
+would have created a true conflict with Witters. 
+
+
+In its most recent decision regarding public aid to 
+education, this Court articulated “three primary criteria we 
+currently use to evaluate whether government aid has the effect 
+
+
+20 
+
+
+of advancing religion: it does not result in governmental 
+indoctrination; define its recipients by reference to religion; or 
+Create an excessive entanglement.” Agostini, 117 S. Ct. at 2016. 
+It is telling that petitioners do not even refer to these three 
+criteria, preferring to cite inapposite cases more than 20 years 
+old. See Pet. 14 n.11. Under these criteria, there can be little 
+doubt that the court below was correct in upholding the 
+Wisconsin program. Since no governmental employees are 
+engaged in providing education under the Program (outside of 
+the public schools), there is no danger of “governmental 
+indoctrination.” Any “indoctrination” (i.e., education in the 
+moral and religious traditions of the family) is the result of a 
+constitutionally protected parental choice of private education. 
+See Pierce v. Society of Sisters, 268 U.S. 510 (1925). The 
+Program does not define its recipients by reference to religion. 
+The criteria for participation are entirely neutral and objective, 
+based on income, and students attending all accredited schools 
+are eligible without reference to the religious or secular 
+character of the school. Finally, petitioners do not appear to 
+claim that the Program entails excessive entanglement. No new 
+regulatory requirements are imposed on the school, beyond 
+those already applicable under prior law. See Pet. App. 29a- 
+30a. 
+
+
+Again, if the Court below had heeded petitioners’ legal 
+argument and had struck down the Parental Choice Program in 
+order to avoid a spurious conflict with Nyquist, it would have 
+created a true conflict with this Court’s most recent articulation 
+of applicable constitutional standards in Agostini. 
+
+
+For similar reasons, petitioners’ position would create 
+conflicts with other controlling precedents: Mueller, supra 
+(upholding a tax credit that could be used for educational 
+expenses, including tuition for nonpublic schools); Zobrest, 509 
+
+
+U.S. at 8 (upholding provision of sign language interpreter for 
+student attending a religious school, on the ground that 
+
+
+21 
+
+
+“government programs that neutrally provide benefits to a broad 
+Class of citizens defined without reference to religion are not 
+readily subject to an Establishmeii Clause challenge just because 
+sectarian institutions may also receive an attenuated financial 
+benefit”); Rosenberger, supra (upholding grant of student 
+activity funds to religious student groups on a neutral basis). '° 
+
+
+It is revealing that petitioners’ only claim of conflict with 
+lower courts (Pet. 15 & n.12) is based on four state supreme 
+‘court decisions from 1955, 1973, and 1974, long before 
+Mueller, Witters, Zobrest, Rosenberger, and Agostini clarified 
+the law. This serves to confirm that the position taken by 
+petitioners is an anachronism, unsupported by decisions in the 
+last quarter century. 
+
+
+C. If Adopted, Petitioners’ Argument Would Create _ 
+Needless Conflict Between The Establishment Clause 
+And Other Parts Of The First Amendment 
+
+
+A further reason to reject petitioners’ construction of the 
+Establishment Clause is that it would compel discrimination 
+against students on the basis of the religious teaching at the 
+school of their choice. According to petitioners, the state may 
+not defray the cost of an education (however effective it may be 
+in objective educational terms) unless there is an “effective 
+means of guaranteeing that the state aid derived from public 
+
+
+° Petitioners suggest that the Parental Choice Program closely 
+resembles the Community Education Program held unconstitutional 
+in the portion of School District of-Grand Rapids v. Ball, 473 U.S. 
+373 (1985), not overruled in Agostini. Pet. 18-19. But in that 
+program, the nature, extent, and distribution of the aid was 
+determined by the Director of the program, a public official—not 
+by the independent choices of students and their families. 473 
+U.S. at 377. The Community Education Program thus was neither 
+indirect nor necessarily neutral—the two key features of the 
+Milwaukee Parental Choice Program for constitutional purposes. 
+
+
+22 
+
+
+funds wiould] be used exclusively for secular, neutral, and 
+nonideological purposes.” Pet. 12 (quoting Nyquist, 413 U.S. 
+at 780). In practical terms, this means that the state must 
+discriminate against otherwise eligible schools on the basis of 
+the religious content of their teaching. 
+
+
+Petitioners’ position is at odds with the fundamental logic 
+of the Free Exercise Clause, which prohibits discrimination on 
+the basis of religion. Church of Lukumi Babalu Aye v. City of 
+Hialeah, 508 U.S. 520, 532 (1993) (“[a]t a minimum, the 
+protections of the Free Exercise Clause pertain if the law at 
+issue discriminates against some or all religious beliefs”); 
+Employment Division v. Smith, 494 U.S. 872, 877 (1990) 
+(under the Free Exercise Clause, the government may not 
+“impose special disabilities on the basis of religious views or 
+religious status”); Jimmy Swaggart Ministries v. Board of 
+Equalization, 493 U.S. 378, 390 (1990) (to “single out” 
+religious activity “for special and burdensome treatment” would 
+violate the Free Exercise Clause); Hobbie v. Unemployment 
+Appeals Comm’n, 480 U.S. 136, 148 (1987) (Stevens, J., 
+concurring) (the Free Exercise Clause “protect[s] religious 
+observers against unequal treatment”). To deny an otherwise 
+neutral and generally available benefit to an individual on the 
+basis of her exercise of religion is presumptively 
+unconstitutional—the equivalent of imposing a fine for engaging 
+in the religious practice. See Sherbert v. Verner, 374 U.S. 398, 
+404 (1963). The course proposed by petitioners thus raises 
+serious risks of creating a constitutional problem where none 
+now exists. 
+
+
+To make matters worse, petitioners’ position would also 
+create serious constitutional doubts under the Free Speech 
+Clause. The religious activity that takes place in religious 
+schools is, after all, speech. Teaching is speech. And the 
+government may not exclude individuals or groups from the 
+benefits extended to similarly situated persons on the basis of 
+
+
+23 
+
+
+the religious viewpoint of their speech. Rosenberger v. Rector 
+& Visitors of Univ. of Virginia, 515 U.S. 819, 830 (1995): 
+Lamb’s Chapel v. Center Moriches Sch. Dist., 508 U.S. 384 
+(1993); Widmar v. Vincent, 454 U.S. 263 (1981). 
+
+
+In short, petitioners would put the Establishment Clause on 
+a Collision course with other provisions of the Constitution. See 
+Peter v. Wedl, 1998 WL 612747 (8th Cir. Sept. 15, 1998) 
+(holding, under Free Exercise, Free Speech, and Equal 
+Protection Clauses, that the state may not provide assistance to 
+Students attending secular private schools while refusing to 
+provide comparable assistance to students attending religious 
+private schools). That is an especially improbable reading of 
+related provisions of the same Amendment. It makes far more 
+sense to interpret cognate provisions harmoniously and 
+consistently. 
+
+
+The principles espoused by the court below—“neutrality” 
+and “indirection”—are central to such a harmonious 
+interpretation. If the state dispenses benefits for a secular 
+purpose, on the basis of neutral and objective criteria, then it 
+cannot be said that the government favors, endorses, or induces 
+religious choices. And if the aid flows to religious institutions 
+only as a result of numerous choices made by individuals, then 
+any religious effect cannot be attributed to the government. Cf. 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345, 357 (1974) 
+(holding that a private party’s “exercise of the choice allowed 
+by state law” does not constitute state action “where the 
+initiative comes from it and not from the state”). As the Court 
+explained in Witters, “the fact that aid goes to individuals means 
+that the decision to support religious education is made by the 
+individual, not by the State.” 474 U.S. at 488. By contrast, the 
+doctrinal gymnastics petitioners employ as they bob and weave 
+among this Court’s precedents bear no relation to any 
+discernible purpose of the First Amendment. If the 
+Establishment Clause is interpreted—as it was .a Everson, Allen, 
+
+
+24 
+
+
+Wak, Widmar, Mueller, Witters, Zobrest, Lamb’s Chapel, and 
+
+Rosenberger—to permit neutral treatment of religious choices 
+
+through indirect aid to religious institutions, then conflicts with 
+
+the Free Exercise Clause and the Free Speech Clause are 
+leila 
+
+
+D. Petitioners’ Argument That Certiorari Should Be 
+Granted To Advance The “National Policy Debate” 
+Should Be Rejected 
+
+
+Petitioners repeatedly sound the refrain that the Parental 
+Choice Program will “divert millions of tax dollars from the 
+Milwaukee Public Schools” to be used for private schools. Pet. 
+3, 5, 20. This choice of words is highly revealing. It suggests 
+that petitioners view the state education fund as serving the 
+purpose of subsidizing a particular set of schools. We believe, 
+and the Wisconsin legislature evidently agreed, that the purpose 
+of the education fund is to provide the best possible education 
+for the children of the State. If state taxpayers’ money is being 
+used for that purpose, it is not being “diverted.” 
+
+
+Educational choice raises legitimate issues of educational 
+policy, about which reasonable people disagree. The premise of 
+the Wisconsin program is that, when the educational system has 
+manifestly failed the children, as it has in Milwaukee, it is time 
+to explore alternatives. Supporters of educational choice believe 
+that the past policy, in which the public school establishment 
+was given a protected monopoly over the education fund, has 
+stifled innovation and created a sclerotic, unresponsive, 
+inefficient bureaucracy—with poor, minority, and inner-city 
+children bearing the brunt of the system’s inadequacies. See 
+generally John E. Chubb & Terry M. Moe, POLITICS, 
+MARKETS, AND AMERICA’S SCHOOLS (Brooking Inst. 1990); 
+James S. Coleman et al., HIGH SCHOOL ACHIEVEMENT: PUBLIC, 
+CATHOLIC, AND PRIVATE SCHOOLS COMPARED (1982). 
+Researchers predict that introducing choice and competition will 
+enable parents to obtain a superior education for their children 
+
+
+25 
+
+
+and stimulate improvements for the entire system. See Chubb & 
+Moe, supra, at 185-229; Coleman, supra, at 122-178; James S. 
+Coleman & Thomas Hoffer, PUBLIC AND PRIVATE HIGH 
+SCHOOLS: THE IMPACT OF COMMUNITIES 57-96 (1987); 
+Anthony S. Bryk et al., CATHOLIC SCHOOLS AND THE COMMON 
+Goop 55-78 (1993) (summarizing research data). " 
+
+
+To be sure, the argument for educational choice is at 
+present primarily predictive and theoretical, since there has 
+never been a comprehensive program of educational choice in 
+any city in America.” But as the Wisconsin legislature 
+recognized, it is a promising source of hope for genuine reform 
+of elementary and secondary education in Milwaukee. The great 
+virtue of the decision below is that it will allow the theory to be 
+tested under the real-world conditions of inner-city Milwaukee, 
+where educational reform is desperately needed. Cf. Washington 
+v. Glucksberg, 117 S. Ct. 2258, 2292-2293 (1997) (Souter, J., 
+concurring) (explaining why courts should permit legislative 
+experimentation when dealing with “emerging” issues where 
+effects and consequences are “currently unknown”). 
+
+
+'' Even in the short run, children in public schools (as well as 
+those who choose to attend private schools) will benefit 
+economically from the Milwaukee Parental Choice Program. Since 
+the per-student amount of state aid is less than 40% of the average 
+total cost of educating a student in the Milwaukee Public Schools, 
+Davis v. Grover, 480 N.W.2d 460, 476-477 (Wis. 1992), the 
+immediate effect of the Program is that the remaining 60%—now 
+over $4500 per student per year—will have the effect of increasing 
+the per-pupil spending in the public schools. 
+
+
+'? Educational choice is the norm in other western democracies. 
+See Charles Glenn, CHOICE OF SCHOOLS IN SIX NATIONS (U.S. 
+Dep't of Educ. 1989) (describing the systems in France, the 
+Netherlands, Belgium, Britain, Canada, and West Germany). 
+
+
+26 
+
+
+Petitioners worry that educational choice plans will “spread 
+like wildfire.” Pet. 20 (citation omitted). Much as we applaud 
+the sentiment, we think the prediction is premature. If the 
+Milwaukee experiment works, other States will no doubt follow. 
+But the Milwaukee experiment may not work, in which case we 
+will have learned from the experience. Either way, there is no 
+proper basis for judicial intervention. Petitioners should save 
+their policy arguments for the legislature. This Court should not 
+endorse their effort to put an end to the experiment— 
+nationwide—before it is given a fair chance to succeed. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be denied. 
+Respectfully submitted. 
+
+RICHARD P. HUTCHISON MICHAEL W. MCCONNELL 
+Landmark Legal Foundation Counsel of Record 
+3100 Broadway, Ste. 515 ALAN E. UNTEREINER 
+Kansas City, Missouri 64111 STEFFEN N. JOHNSON 
+(816) 931-5559 ELIZABETH A. CLARK 
+
+Mayer, Brown & Platt 
+
+KEVIN C. POTTER 190 South LaSalle St. 
+
+Brennan, Steil, Basting Chicago, Illinois 60603 
+& MacDougall (312) 782-0600 
+
+
+22 East Mifflin St., Ste. 400 
+Madison, Wisconsin 53703 
+(608) 251-7770 
+
+
+Counsel for Miller Respondents 
+
+
+SEPTEMBER 1998 
+
+

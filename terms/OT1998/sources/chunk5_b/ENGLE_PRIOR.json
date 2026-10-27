@@ -1,0 +1,2932 @@
+{
+  "id": 6184186,
+  "name": "ENGLE, CORRECTIONAL SUPERINTENDENT v. ISAAC",
+  "name_abbreviation": "Engle v. Isaac",
+  "decision_date": "1982-04-05",
+  "docket_number": "No. 80-1430",
+  "first_page": "107",
+  "last_page": "151",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "456 U.S. 107"
+    },
+    {
+      "type": "parallel",
+      "cite": "71 L. Ed. 2d 783"
+    },
+    {
+      "type": "parallel",
+      "cite": "102 S. Ct. 1558"
+    },
+    {
+      "type": "vendor",
+      "cite": "1982 U.S. LEXIS 94"
+    },
+    {
+      "type": "vendor",
+      "cite": "SCDB 1981-076"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "U.S.",
+    "id": 9009,
+    "name": "Supreme Court of the United States"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "453 U. S. 911",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11724739,
+        11724681,
+        11724458,
+        11724629,
+        11724506,
+        11724570
+      ],
+      "opinion_index": -1,
+      "case_paths": [
+        "/us/453/0911-06",
+        "/us/453/0911-05",
+        "/us/453/0911-01",
+        "/us/453/0911-04",
+        "/us/453/0911-02",
+        "/us/453/0911-03"
+      ]
+    },
+    {
+      "cite": "405 U. S. 1064",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11782562,
+        11782405,
+        11782789,
+        11782633,
+        11782287,
+        11782482,
+        11782354,
+        11782709,
+        11782234
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/1064-06",
+        "/us/405/1064-04",
+        "/us/405/1064-09",
+        "/us/405/1064-07",
+        "/us/405/1064-02",
+        "/us/405/1064-05",
+        "/us/405/1064-03",
+        "/us/405/1064-08",
+        "/us/405/1064-01"
+      ]
+    },
+    {
+      "cite": "423 U. S. 1061",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6496704,
+        6496256,
+        6496352,
+        6496166,
+        6496616,
+        6496970,
+        6496074,
+        6496880,
+        6496788,
+        6496538,
+        6497051,
+        6496445
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/423/1061-08",
+        "/us/423/1061-03",
+        "/us/423/1061-04",
+        "/us/423/1061-02",
+        "/us/423/1061-07",
+        "/us/423/1061-11",
+        "/us/423/1061-01",
+        "/us/423/1061-10",
+        "/us/423/1061-09",
+        "/us/423/1061-06",
+        "/us/423/1061-12",
+        "/us/423/1061-05"
+      ]
+    },
+    {
+      "cite": "444 U. S. 950",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11402080,
+        11401955,
+        11402276,
+        11402216,
+        11402313,
+        11402124,
+        11401934,
+        11402255,
+        11402174,
+        11401982
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0950-04",
+        "/us/444/0950-02",
+        "/us/444/0950-09",
+        "/us/444/0950-07",
+        "/us/444/0950-10",
+        "/us/444/0950-05",
+        "/us/444/0950-01",
+        "/us/444/0950-08",
+        "/us/444/0950-06",
+        "/us/444/0950-03"
+      ]
+    },
+    {
+      "cite": "442 U. S. 140",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1532023
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "147-154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/442/0140-01"
+      ]
+    },
+    {
+      "cite": "496 F. 2d 1303",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        180471
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/496/1303-01"
+      ]
+    },
+    {
+      "cite": "414 U. S. 1139",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11850978,
+        11851044,
+        11850949,
+        11851003,
+        11850907
+      ],
+      "year": 1974,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/414/1139-03",
+        "/us/414/1139-05",
+        "/us/414/1139-02",
+        "/us/414/1139-04",
+        "/us/414/1139-01"
+      ]
+    },
+    {
+      "cite": "473 F. 2d 943",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        275449
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/473/0943-01"
+      ]
+    },
+    {
+      "cite": "349 F. Supp. 149",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5701103
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "heat of passion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/349/0149-01"
+      ]
+    },
+    {
+      "cite": "450 F. 2d 799",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        793728
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "inducement"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/450/0799-01"
+      ]
+    },
+    {
+      "cite": "409 U. S. 885",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6350055,
+        6351404,
+        6350253,
+        6351221,
+        6351030,
+        6350840,
+        6350622,
+        6350463
+      ],
+      "year": 1972,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0885-01",
+        "/us/409/0885-08",
+        "/us/409/0885-02",
+        "/us/409/0885-07",
+        "/us/409/0885-06",
+        "/us/409/0885-05",
+        "/us/409/0885-04",
+        "/us/409/0885-03"
+      ]
+    },
+    {
+      "cite": "454 F. 2d 572",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        746775
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "alibi"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/454/0572-01"
+      ]
+    },
+    {
+      "cite": "321 A. 2d 880",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "intoxication"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "457 Pa. 380",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        477729
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "intoxication"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/457/0380-01"
+      ]
+    },
+    {
+      "cite": "268 A. 2d 89",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "insanity"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "440 Pa. 1",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1932311
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "insanity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/440/0001-01"
+      ]
+    },
+    {
+      "cite": "271 A. 2d 497",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of malice"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "441 Pa. 17",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1933870
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of malice"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/441/0017-01"
+      ]
+    },
+    {
+      "cite": "403 U. S. 940",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12041983,
+        12042132,
+        12042014,
+        12042071
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0940-01",
+        "/us/403/0940-04",
+        "/us/403/0940-02",
+        "/us/403/0940-03"
+      ]
+    },
+    {
+      "cite": "86 Nev. 720",
+      "category": "reporters:state",
+      "reporter": "Nev.",
+      "case_ids": [
+        4843845
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "insanity"
+        },
+        {
+          "parenthetical": "insanity"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nev/86/0720-01"
+      ]
+    },
+    {
+      "cite": "461 S. W. 2d 9",
+      "category": "reporters:state_regional",
+      "reporter": "S.W.2d",
+      "case_ids": [
+        10137405
+      ],
+      "year": 1970,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/sw2d/461/0009-01"
+      ]
+    },
+    {
+      "cite": "248 A. 2d 242",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that due process forbids requiring defendant to prove \"lawful excuse\" for possession of housebreaking tools"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Conn. Supp. 28",
+      "category": "reporters:state",
+      "reporter": "Conn. Supp.",
+      "case_ids": [
+        1767091
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "holding that due process forbids requiring defendant to prove \"lawful excuse\" for possession of housebreaking tools"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn-supp/28/0028-01"
+      ]
+    },
+    {
+      "cite": "393 U. S. 253",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11313549
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating and remanding lower court decision for reconsideration in light of Stump"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0253-01"
+      ]
+    },
+    {
+      "cite": "393 U. S. 1001",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11401231,
+        11401199,
+        11401172,
+        11401301,
+        11401271
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/1001-03",
+        "/us/393/1001-02",
+        "/us/393/1001-01",
+        "/us/393/1001-05",
+        "/us/393/1001-04"
+      ]
+    },
+    {
+      "cite": "398 F. 2d 111",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        2143476
+      ],
+      "weight": 2,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "122"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/398/0111-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 646",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714558
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "665-666",
+          "parenthetical": "MARSHALL, J., concurring in part and dissenting in part"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0646-01"
+      ]
+    },
+    {
+      "cite": "401 U. S. 667",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714690
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "675-702",
+          "parenthetical": "separate opinion of Harlan, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0667-01"
+      ]
+    },
+    {
+      "cite": "646 F. 2d 355",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218149
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "364",
+          "parenthetical": "Poole, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/0355-01"
+      ]
+    },
+    {
+      "cite": "425 U. S. 501",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6179579
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "515",
+          "parenthetical": "Powell, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/425/0501-01"
+      ]
+    },
+    {
+      "cite": "76 Harv. L. Rev. 441",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "452"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "428 U. S. 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178753
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0465-01"
+      ]
+    },
+    {
+      "cite": "38 U. Chi. L. Rev. 142",
+      "category": "journals:journal",
+      "reporter": "U. Chi. L. Rev.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "145"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "594 F. 2d 581",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512721
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0581-01"
+      ]
+    },
+    {
+      "cite": "594 F. 2d 592",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512653
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/594/0592-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2953.21",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "372 N. E. 2d 804",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "807, 808"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Ohio St. 2d 91",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1800647
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/53/0091-01"
+      ]
+    },
+    {
+      "cite": "447 U. S. 231",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6183056
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "234, n. 1"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/447/0231-01"
+      ]
+    },
+    {
+      "cite": "451 U. S. 454",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6187407
+      ],
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "468, n. 12"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0454-01"
+      ]
+    },
+    {
+      "cite": "455 U. S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306412
+      ],
+      "weight": 2,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "547-548, n. 17"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0509-01"
+      ]
+    },
+    {
+      "cite": "343 U. S. 790",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11341724
+      ],
+      "year": 1952,
+      "pin_cites": [
+        {
+          "parenthetical": "rule requiring accused to prove insanity beyond a reasonable doubt does not violate due process"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/343/0790-01"
+      ]
+    },
+    {
+      "cite": "619 F. 2d 327",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1376852
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/619/0327-01"
+      ]
+    },
+    {
+      "cite": "637 F. 2d 449",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1353912
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/637/0449-01"
+      ]
+    },
+    {
+      "cite": "476 Pa. 288",
+      "category": "reporters:state",
+      "reporter": "Pa.",
+      "case_ids": [
+        1736844
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/pa/476/0288-01"
+      ]
+    },
+    {
+      "cite": "600 F. 2d 448",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1453086
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/600/0448-01"
+      ]
+    },
+    {
+      "cite": "451 U. S. 1028",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6376864,
+        6376612,
+        6376420
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/1028-03",
+        "/us/451/1028-02",
+        "/us/451/1028-01"
+      ]
+    },
+    {
+      "cite": "632 F. 2d 605",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1417679
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/632/0605-01"
+      ]
+    },
+    {
+      "cite": "642 F. 2d 161",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1197078
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/642/0161-01"
+      ]
+    },
+    {
+      "cite": "31 U. Fla. L. Rev. 385",
+      "category": "journals:journal",
+      "reporter": "U. Fla. L. Rev.",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "415-416"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "78 Colum. L. Rev. 655",
+      "category": "journals:journal",
+      "reporter": "Colum. L. Rev.",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "672-673"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "11 Akron L. Rev. 717",
+      "category": "journals:journal",
+      "reporter": "Akron L. Rev.",
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "758-759"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "88 Yale L. J. 1325",
+      "category": "journals:journal",
+      "reporter": "Yale L.J.",
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "1366-1379"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "619 F. 2d 668",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1376820
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "670-671"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/619/0668-01"
+      ]
+    },
+    {
+      "cite": "634 F. 2d 724",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1304217
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "726"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/634/0724-01"
+      ]
+    },
+    {
+      "cite": "369 U. S. 541",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169814
+      ],
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "554-555"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0541-01"
+      ]
+    },
+    {
+      "cite": "334 U. S. 728",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6159137
+      ],
+      "weight": 2,
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "731"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/334/0728-01"
+      ]
+    },
+    {
+      "cite": "379 N. E. 2d 228",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ohio St. 2d 251",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1801620
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/55/0251-01"
+      ]
+    },
+    {
+      "cite": "381 N. E. 2d 184",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "55 Ohio St. 2d 261",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1801630
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/55/0261-01"
+      ]
+    },
+    {
+      "cite": "366 N. E. 2d 1378",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Ohio App. 2d 105",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        1480479
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-2d/51/0105-01"
+      ]
+    },
+    {
+      "cite": "337 N. E. 2d 818",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "44 Ohio Misc. 87",
+      "category": "reporters:state",
+      "reporter": "Ohio Misc.",
+      "case_ids": [
+        6692661
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-misc/44/0087-01"
+      ]
+    },
+    {
+      "cite": "646 F. 2d 1122",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218066
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/1122-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.12",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.11",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.02",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "391 U. S. 234",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1767371
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "237-240"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/391/0234-01"
+      ]
+    },
+    {
+      "cite": "405 U. S. 504",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722821
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "506-507, n. 2"
+        },
+        {
+          "page": "516"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0504-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.03",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "pin_cites": [
+        {
+          "parenthetical": "A"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2903.01",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "48, 50"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "132 N. E. 158",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "159-160"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "103 Ohio St. 1",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        964085
+      ],
+      "year": 1921,
+      "pin_cites": [
+        {
+          "page": "7-8"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/103/0001-01"
+      ]
+    },
+    {
+      "cite": "33 Ohio St. L. J. 351",
+      "category": "journals:journal",
+      "reporter": "Ohio St. L.J.",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "420",
+          "parenthetical": "suggesting that legislators intended to change traditional rule"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "330 N. E. 2d 674",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "676",
+          "parenthetical": "noting that \"self-defense is an affirmative defense, which must be established by a preponderance of the evidence\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "43 Ohio St. 2d 28",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1796082
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "30",
+          "parenthetical": "noting that \"self-defense is an affirmative defense, which must be established by a preponderance of the evidence\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/43/0028-01"
+      ]
+    },
+    {
+      "cite": "431 U. S. 145",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1639
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0145-01"
+      ]
+    },
+    {
+      "cite": "384 U. S. 436",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046400
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0436-01"
+      ]
+    },
+    {
+      "cite": "412 U. S. 218",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172008
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "263-265",
+          "parenthetical": "Powell, J., concurring"
+        },
+        {
+          "page": "262",
+          "parenthetical": "concurring opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0218-01"
+      ]
+    },
+    {
+      "cite": "373 U. S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11716366
+      ],
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "24-25",
+          "parenthetical": "dissenting opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/373/0001-01"
+      ]
+    },
+    {
+      "cite": "276 N. E. 2d 243",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Ohio St. 2d 45",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1791207
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/28/0045-01"
+      ]
+    },
+    {
+      "cite": "290 N. E. 2d 921",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "923",
+          "parenthetical": "\"one who kills in self-defense does so without the mens rea that otherwise would render him culpable of the homicide\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "32 Ohio App. 2d 284",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        6706443
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "286-287",
+          "parenthetical": "\"one who kills in self-defense does so without the mens rea that otherwise would render him culpable of the homicide\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-2d/32/0284-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2901.21",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "\"generally, an offense is not committed unless a person . . . has a certain guilty state of mind at the time of his act or failure [to act]\""
+        },
+        {
+          "page": "(A)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "432 U. S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178111
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0197-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 684",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541415
+      ],
+      "weight": 5,
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0684-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "364"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "451 U. S. 906",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200709,
+        6201446,
+        6200877,
+        6200278,
+        6200505
+      ],
+      "year": 1981,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/451/0906-03",
+        "/us/451/0906-05",
+        "/us/451/0906-04",
+        "/us/451/0906-01",
+        "/us/451/0906-02"
+      ]
+    },
+    {
+      "cite": "642 F. 2d 451",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "635 F. 2d 575",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1347916
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/635/0575-01"
+      ]
+    },
+    {
+      "cite": "646 F. 2d 1129",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218206
+      ],
+      "weight": 4,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1134"
+        },
+        {
+          "page": "1135"
+        },
+        {
+          "page": "1135"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/646/1129-01"
+      ]
+    },
+    {
+      "cite": "432 U. S. 233",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178254
+      ],
+      "weight": 5,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "244, n. 8"
+        },
+        {
+          "page": "247",
+          "parenthetical": "Powell, J., concurring in judgment"
+        },
+        {
+          "page": "246-248",
+          "parenthetical": "Powell, J., concurring in judgment"
+        },
+        {
+          "page": "243"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/432/0233-01"
+      ]
+    },
+    {
+      "cite": "372 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "435"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "438 U. S. 911",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769230
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0911-01"
+      ]
+    },
+    {
+      "cite": "364 N. E. 2d 1364",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Ohio St. 2d 112",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1800392
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/51/0112-01"
+      ]
+    },
+    {
+      "cite": "364 N. E. 2d 1354",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Ohio St. 2d 95",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1800387
+      ],
+      "weight": 3,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/51/0095-01"
+      ]
+    },
+    {
+      "cite": "340 N. E. 2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "45 Ohio App. 2d 24",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        1476357
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-2d/45/0024-01"
+      ]
+    },
+    {
+      "cite": "166 N. E. 2d 379",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1960,
+      "opinion_index": 0
+    },
+    {
+      "cite": "170 Ohio St. 471",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        1744873
+      ],
+      "year": 1960,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/170/0471-01"
+      ]
+    },
+    {
+      "cite": "351 N. E. 88",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "351 N. E. 2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "weight": 4,
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Ohio St. 2d 103",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1798896
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/47/0103-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2901.05",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "weight": 4,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "(A)"
+        },
+        {
+          "page": "(A)",
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "(A)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "22 Ohio St. 90",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        887121
+      ],
+      "year": 1872,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/22/0090-01"
+      ]
+    },
+    {
+      "cite": "117 N. E. 12",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "year": 1917,
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 Ohio St. 36",
+      "category": "reporters:state",
+      "reporter": "Ohio St.",
+      "case_ids": [
+        953806
+      ],
+      "year": 1917,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st/96/0036-01"
+      ]
+    },
+    {
+      "cite": "298 N. E. 2d 582",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1973,
+      "opinion_index": 0
+    },
+    {
+      "cite": "35 Ohio St. 2d 95",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        2338963
+      ],
+      "year": 1973,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/35/0095-01"
+      ]
+    },
+    {
+      "cite": "433 U. S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 17,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "97",
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "94-97",
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "page": "78"
+        },
+        {
+          "page": "78-79"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "89-90"
+        },
+        {
+          "page": "87"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    },
+    {
+      "cite": "419 U. S. 522",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176665
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0522-01"
+      ]
+    },
+    {
+      "cite": "439 U. S. 461",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11330944
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "462",
+          "parenthetical": "per curiam"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/439/0461-01"
+      ]
+    },
+    {
+      "cite": "84 Harv. L. Rev. 1",
+      "category": "journals:journal",
+      "reporter": "Harv. L. Rev.",
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "159"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "200 S. E. 2d 248",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "252, 256-258",
+          "parenthetical": "dissenting opinions"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Ga. 113",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1129478
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "118, 125-128",
+          "parenthetical": "dissenting opinions"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/231/0113-01"
+      ]
+    },
+    {
+      "cite": "213 S. E. 2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Ga. 724",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1136500
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/233/0724-01"
+      ]
+    },
+    {
+      "cite": "191 S. E. 2d 857",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "858-859",
+          "parenthetical": "dissenting opinion"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "229 Ga. 399",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1125295
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "dissenting opinion"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/229/0399-01"
+      ]
+    },
+    {
+      "cite": "356 N. E. 2d 725",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "self-defense"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "48 Ohio App. 2d 197",
+      "category": "reporters:state",
+      "reporter": "Ohio App. 2d",
+      "case_ids": [
+        6708917
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "self-defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-app-2d/48/0197-01"
+      ]
+    },
+    {
+      "cite": "362 A. 2d 629",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1976,
+      "opinion_index": 0
+    },
+    {
+      "cite": "278 Md. 197",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1884502
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/278/0197-01"
+      ]
+    },
+    {
+      "cite": "349 A. 2d 300",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of malice; further describing in detail that due process requires prosecution to negate most affirmative defenses, including self-defense"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "28 Md. App. 640",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "case_ids": [
+        2315639
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of malice; further describing in detail that due process requires prosecution to negate most affirmative defenses, including self-defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md-app/28/0640-01"
+      ]
+    },
+    {
+      "cite": "345 A. 2d 436",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "alibi"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "276 Md. 178",
+      "category": "reporters:state",
+      "reporter": "Md.",
+      "case_ids": [
+        1881323
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "alibi"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/md/276/0178-01"
+      ]
+    },
+    {
+      "cite": "218 S. E. 2d 612",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "self-defense"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "234 Ga. 827",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1138713
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "self-defense"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/234/0827-01"
+      ]
+    },
+    {
+      "cite": "387 A. 2d 194",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8051666
+      ],
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/387/0194-01"
+      ]
+    },
+    {
+      "cite": "349 A. 2d 1",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8054213
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "extreme emotional distress"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/349/0001-01"
+      ]
+    },
+    {
+      "cite": "393 F. Supp. 577",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3792726
+      ],
+      "year": 1975,
+      "pin_cites": [
+        {
+          "parenthetical": "maintenance of reasonable procedures"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/393/0577-01"
+      ]
+    },
+    {
+      "cite": "284 N. W. 2d 718",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "407 Mich. 196",
+      "category": "reporters:state",
+      "reporter": "Mich.",
+      "case_ids": [
+        1953124
+      ],
+      "year": 1979,
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich/407/0196-01"
+      ]
+    },
+    {
+      "cite": "216 N. W. 2d 71",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of intent"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "51 Mich. App. 710",
+      "category": "reporters:state",
+      "reporter": "Mich. App.",
+      "case_ids": [
+        2100863
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "absence of intent"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mich-app/51/0710-01"
+      ]
+    },
+    {
+      "cite": "330 A. 2d 422",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        12025151
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "mental disease"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/330/0422-01"
+      ]
+    },
+    {
+      "cite": "422 U. S. 1002",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9441,
+        9507,
+        9667,
+        9669,
+        9577,
+        9484
+      ],
+      "year": 1975,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/1002-06",
+        "/us/422/1002-05",
+        "/us/422/1002-02",
+        "/us/422/1002-01",
+        "/us/422/1002-04",
+        "/us/422/1002-03"
+      ]
+    },
+    {
+      "cite": "211 S. E. 2d 300",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "authority to sell narcotic drugs"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "233 Ga. 347",
+      "category": "reporters:state",
+      "reporter": "Ga.",
+      "case_ids": [
+        1136565
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "authority to sell narcotic drugs"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ga/233/0347-01"
+      ]
+    },
+    {
+      "cite": "519 P. 2d 1073",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Cal. 3d 910",
+      "category": "reporters:state",
+      "reporter": "Cal. 3d",
+      "case_ids": [
+        2299835
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "parenthetical": "en banc"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/cal-3d/10/0910-01"
+      ]
+    },
+    {
+      "cite": "427 A. 2d 414",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1980,
+      "opinion_index": 0
+    },
+    {
+      "cite": "179 Conn. 576",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        1950099
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/179/0576-01"
+      ]
+    },
+    {
+      "cite": "301 A. 2d 547",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "possession of license to deal in drugs"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "163 Conn. 52",
+      "category": "reporters:state",
+      "reporter": "Conn.",
+      "case_ids": [
+        696593
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "parenthetical": "possession of license to deal in drugs"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/conn/163/0052-01"
+      ]
+    },
+    {
+      "cite": "488 P. 2d 322",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "lack of malice aforethought or presence of legal justification"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "53 Haw. 110",
+      "category": "reporters:state",
+      "reporter": "Haw.",
+      "case_ids": [
+        1444824
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "lack of malice aforethought or presence of legal justification"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/haw/53/0110-01"
+      ]
+    },
+    {
+      "cite": "4 Wheat. 316",
+      "category": "reporters:scotus_early",
+      "reporter": "Wheat.",
+      "case_ids": [
+        4702
+      ],
+      "year": 1819,
+      "pin_cites": [
+        {
+          "page": "407, 415"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/17/0316-01"
+      ]
+    },
+    {
+      "cite": "344 U. S. 443",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300626
+      ],
+      "year": 1953,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/344/0443-01"
+      ]
+    },
+    {
+      "cite": "441 U. S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780484
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "423-424"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/441/0418-01"
+      ]
+    },
+    {
+      "cite": "392 U. S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169495
+      ],
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "295"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/392/0293-01"
+      ]
+    },
+    {
+      "cite": "405 U. S. 278",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722188
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "280"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/405/0278-01"
+      ]
+    },
+    {
+      "cite": "407 U. S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9137384
+      ],
+      "weight": 2,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "204",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/407/0203-01"
+      ]
+    },
+    {
+      "cite": "357 U. S. 513",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6164109
+      ],
+      "year": 1958,
+      "pin_cites": [
+        {
+          "page": "525"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/357/0513-01"
+      ]
+    },
+    {
+      "cite": "394 U. S. 217",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170433
+      ],
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "237",
+          "parenthetical": "Black, J., dissenting"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/394/0217-01"
+      ]
+    },
+    {
+      "cite": "404 U. S. 270",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172479
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "275-276"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/404/0270-01"
+      ]
+    },
+    {
+      "cite": "391 F. Supp. 1177",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3786771
+      ],
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "1179-1180",
+          "parenthetical": "same"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f-supp/391/1177-01"
+      ]
+    },
+    {
+      "cite": "226 N. E. 2d 104",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "108"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "10 Ohio St. 2d 175",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1788184
+      ],
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "180-181"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ohio-st-2d/10/0175-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2958.21",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "(A)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "401 U. S. 646",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714558
+      ],
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "653"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/401/0646-01"
+      ]
+    },
+    {
+      "cite": "428 U. S. 465",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178753
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "490"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/428/0465-01"
+      ]
+    },
+    {
+      "cite": "594 F. 2d 581",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        512721
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "589-591",
+          "parenthetical": "construing scope of Ohio postconviction remedy"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/594/0581-01"
+      ]
+    },
+    {
+      "cite": "455 U. S. 509",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11306412
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "518-519"
+        },
+        {
+          "page": "510",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/455/0509-01"
+      ]
+    },
+    {
+      "cite": "646 F. 2d 1122",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1218066
+      ],
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "1124"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/f2d/646/1122-01"
+      ]
+    },
+    {
+      "cite": "432 U. S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178111
+      ],
+      "year": 1977,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/432/0197-01"
+      ]
+    },
+    {
+      "cite": "421 U. S. 684",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541415
+      ],
+      "weight": 2,
+      "year": 1975,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/421/0684-01"
+      ]
+    },
+    {
+      "cite": "397 U. S. 358",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12054393
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "371",
+          "parenthetical": "concurring opinion"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/397/0358-01"
+      ]
+    },
+    {
+      "cite": "28 U. S. C. \u00a7 2254",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(b)"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "432 U. S. 233",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178254
+      ],
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "242-244"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/432/0233-01"
+      ]
+    },
+    {
+      "cite": "372 U. S. 391",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1765582
+      ],
+      "weight": 2,
+      "year": 1963,
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/372/0391-01"
+      ]
+    },
+    {
+      "cite": "364 N. E. 2d 1354",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1977,
+      "opinion_index": 2
+    },
+    {
+      "cite": "51 Ohio St. 2d 95",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1800387
+      ],
+      "year": 1977,
+      "opinion_index": 2,
+      "case_paths": [
+        "/ohio-st-2d/51/0095-01"
+      ]
+    },
+    {
+      "cite": "351 N. E. 2d 88",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "opinion_index": 2
+    },
+    {
+      "cite": "47 Ohio St. 2d 103",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1798896
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/ohio-st-2d/47/0103-01"
+      ]
+    },
+    {
+      "cite": "Ohio Rev. Code Ann. \u00a7 2901.05",
+      "category": "laws:leg_statute",
+      "reporter": "Ohio Rev. Code Ann.",
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "(A)",
+          "parenthetical": "effective Jan. 1, 1974"
+        }
+      ],
+      "opinion_index": 2
+    },
+    {
+      "cite": "433 U. S. 72",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6177021
+      ],
+      "weight": 17,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "86-87"
+        },
+        {
+          "page": "87, 90-91"
+        },
+        {
+          "page": "99-100, n. 1"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "88"
+        },
+        {
+          "page": "89"
+        },
+        {
+          "page": "90"
+        },
+        {
+          "page": "91"
+        },
+        {
+          "page": "103-104"
+        }
+      ],
+      "opinion_index": 2,
+      "case_paths": [
+        "/us/433/0072-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 2695,
+    "char_count": 92745,
+    "ocr_confidence": 0.771,
+    "pagerank": {
+      "raw": 1.3507396088421037e-05,
+      "percentile": 0.999738594798384
+    },
+    "sha256": "6f123546dcf56ef628dcd8c85e5ac3ec08a1716d4cf7f5c4eaacfa8c6273b22c",
+    "simhash": "1:ea40868ec687bc89",
+    "word_count": 15206
+  },
+  "last_updated": "2024-02-27T23:59:17.948966+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "O\u2019Connor, J., delivered the opinion of the Court, in which Burger, C. J., and White, Powell, and Rehnquist, JJ., joined. Blackmun, J., concurred in the result. Stevens, J., filed an opinion concurring in part and dissenting in part, post, p. 136. Brennan, J., filed a dissenting opinion, in which Marshall, J., joined, post, p. 137."
+    ],
+    "parties": [
+      "ENGLE, CORRECTIONAL SUPERINTENDENT v. ISAAC"
+    ],
+    "opinions": [
+      {
+        "text": "Justice O\u2019Connor\ndelivered the opinion of the Court.\nIn Wainwright v. Sykes, 433 U. S. 72 (1977), we held that a state prisoner, barred by procedural default from raising a constitutional claim on direct appeal, could not litigate that claim in a \u00a7 2254 habeas corpus proceeding without showing cause for and actual prejudice from the default. Applying the principle of Sykes to these cases, we conclude that respondents, who failed to comply with an Ohio rule mandating contemporaneous objections to jury instructions, may not challenge the constitutionality of those instructions in a federal habeas proceeding.\nI\nRespondents\u2019 claims rest in part on recent changes in Ohio criminal law. For over a century, the Ohio courts required criminal defendants to carry the burden of proving self-defense by a preponderance of the evidence. See State v. Seliskar, 35 Ohio St. 2d 95, 298 N. E. 2d 582 (1973); Szalkai v. State, 96 Ohio St. 36, 117 N. E. 12 (1917); Silvus v. State, 22 Ohio St. 90 (1872). A new criminal code, effective January 1, 1974, subjected all affirmative defenses to the following rule:\n\u201cEvery person accused of an offense is presumed innocent until proven guilty beyond a reasonable doubt, and the burden of proof is upon the prosecution. The burden of going forward with the evidence of an affirmative defense is upon the accused.\u201d Ohio Rev. Code Ann. \u00a7 2901.05(A) (1975).\nFor more than two years after its enactment, most Ohio courts assumed that this section worked no change in Ohio\u2019s traditional burden-of-proof rules. In 1976, however, the Ohio Supreme Court construed the statute to place only the burden of production, not the burden of persuasion, on the defendant. Once the defendant produces some evidence of self-defense, the state court ruled, the prosecutor must disprove self-defense beyond a reasonable doubt. State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (syllabus by the court). The present actions arose because Ohio tried and convicted respondents after the effective date of \u00a7 2901.05(A), but before the Ohio Supreme Court\u2019s interpretation of that statute in Robinson.\nOn December 16, 1974, an Ohio grand jury indicted respondent Hughes for aggravated murder. At trial the State showed that, in the presence of seven witnesses, Hughes shot and killed a man who was keeping company with his former girlfriend. Prosecution witnesses testified that the victim was unarmed and had just attempted to shake hands with Hughes. Hughes, however, claimed that he acted in self-defense. His testimony suggested that he feared the victim, a larger man, because he had touched his pocket while approaching Hughes. The trial court instructed the jury that Hughes bore the burden of proving this defense by a preponderance of the evidence. Counsel for Hughes did not specifically object to this instruction.\nOn January 24, 1975, the jury convicted Hughes of voluntary manslaughter, a lesser included offense of aggravated murder. On September 24, 1975, the Summit County Court of Appeals affirmed the conviction, and on March 19, 1976, the Supreme Court of Ohio dismissed Hughes\u2019 appeal, finding no substantial constitutional question. Neither of these appeals challenged the jury instruction on self-defense.\nOhio tried respondent Bell for aggravated murder in April 1975. Evidence at trial showed that Bell was one of a group of bartenders who had agreed to help one another if trouble developed at any of their bars. On the evening of the murder, one of the bartenders called Bell and told him that he feared trouble from five men who had entered his bar. When Bell arrived at the bar, the bartender informed him that the men had left. Bell pursued them and gunned one of the men down in the street.\nBell defended on the ground that he had acted in self-defense. He testified that as he approached two of the men, the bartender shouted: \u201cHe\u2019s got a gun\u201d or \u201cWatch out, he\u2019s got a gun.\u201d At this warning, Bell started shooting. As in Hughes\u2019 case, the trial court instructed the jury that Bell had the burden of proving self-defense by a preponderance of the evidence. Bell did not object to this instruction and the jury convicted him of murder, a lesser included offense of the charged crime.\nBell appealed to the Cuyahoga County Court of Appeals, but failed to challenge the instruction assigning him the burden of proving self-defense. The Court of Appeals affirmed Bell\u2019s conviction on April 8, 1976. Bell appealed further to the Ohio Supreme Court, again neglecting to challenge the self-defense instruction. That court overruled his motion for leave to appeal on September 17, 1976, two months after it construed \u00a7 2901.05(A) to place the burden of proving absence of self-defense on the prosecution. See State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 88.\nRespondent Isaac was tried in September 1975 for felonious assault. The State showed that Isaac had severely beaten his former wife\u2019s boyfriend. Isaac claimed that the boyfriend punched him first and that he acted solely in self-defense. Without objection from Isaac, the court instructed the jury that Isaac carried the burden of proving this defense by a preponderance of the evidence. The jury acquitted Isaac of felonious assault, but convicted him of the lesser included offense of aggravated assault.\nTen months after Isaac\u2019s trial, the Ohio Supreme Court decided State v. Robinson, supra. In his appeal to the Pickaway County Court of Appeals, Isaac relied upon Robinson to challenge the burden-of-proof instructions given at his trial. The court rejected this challenge because Isaac had failed to object to the jury instructions during trial, as required by Ohio Rule of Criminal Procedure 30. This default waived Isaac\u2019s claim. State v. Glaros, 170 Ohio St. 471, 166 N. E. 2d 379 (1960); State v. Slone, 45 Ohio App. 2d 24, 340 N. E. 2d 413 (1975).\nThe Supreme Court of Ohio dismissed Isaac\u2019s appeal for lack of a substantial constitutional question. On the same day, that court decided State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977), and State v. Williams, 51 Ohio St. 2d 112, 364 N. E. 2d 1364 (1977), vacated in part and remanded, 438 U. S. 911 (1978). In Humphries the court ruled that every criminal trial held on or after January 1, 1974, \u201cis required to be conducted in accordance with the provisions of [Ohio Rev. Code Ann. \u00a72901.05].\u201d 51 Ohio St. 2d, at 95, 364 N. E. 2d, at 1355 (syllabus by the court). The court, however, refused to extend this ruling to a defendant who failed to comply with Ohio Rule of Criminal Procedure 30. Id., at 102-103, 364 N. E. 2d, at 1359. In Williams, the court declined to consider a constitutional challenge to Ohio\u2019s traditional self-defense instruction, again because the defendant had not properly objected to the instruction at trial.\nAll three respondents unsuccessfully sought writs of ha-beas corpus from Federal District Courts. Hughes\u2019 petition alleged that the State had violated the Fifth and Fourteenth Amendments by failing to prove guilt \u201cas to each and every essential element of the offense charged\u201d and by failing to \u201cso instruct\u201d the jury. The District Judge rejected this claim, finding that Ohio law does not consider absence of self-defense an element of aggravated murder or voluntary manslaughter. Although the self-defense instructions at Hughes\u2019 trial might have violated \u00a7 2901.05(A), they did not violate the Federal Constitution. Alternatively, the District Judge held that Hughes had waived his constitutional claim by failing to comply with Ohio\u2019s contemporaneous objection rule. Since Hughes offered no explanation for his failure to object, and showed no actual prejudice, Wainwright v. Sykes, 433 U. S. 72 (1977), barred him from asserting the claim. Hughes v. Engle, Civ. Action No. C 77-156A (ND Ohio, June 26, 1979).\nBell\u2019s petition for habeas relief similarly alleged that the trial judge had violated due process by instructing \u201cthe jury that the accused must prove an affirmative defense by a preponderance of the evidence.\u201d The District Court acknowledged that Bell had never raised this claim in the state courts. Observing, however, that the State addressed Bell\u2019s argument on the merits, the District Court ruled that Bell\u2019s default was not a \u201cdeliberate bypass.\u201d See Fay v. Noia, 372 U. S. 391 (1963). Although the court cited our opinion in Wainwright v. Sykes, supra, it did not inquire whether Bell had shown cause for or prejudice from his procedural waiver. The court then ruled that Ohio could constitutionally burden Bell with proving self-defense since it had not defined absence of self-defense as an element of murder. Bell v. Perini, No. C 78-343 (ND Ohio, Dec. 26, 1978).\nBell moved for reconsideration, urging that \u00a7 2901.05(A) had in fact defined absence of self-defense as an element of murder. The District Court rejected this argument and then declared that the \u201creal issue\u201d was whether Bell was entitled to retroactive application of State v. Robinson. Bell failed on this claim as well since Ohio\u2019s decision to limit retroactive application of Robinson \u201csubstantially furthered] the State\u2019s legitimate interest in the finality of its decisions.\u201d App. to Pet. for Cert. A59. Indeed, the District Court noted that this Court had sanctioned just this sort of limit on retroactivity. See Hankerson v. North Carolina, 432 U. S. 233, 244, n. 8 (1977). Bell v. Perini, No. C 78-343 (ND Ohio, Jan. 23, 1979).\nIsaac\u2019s habeas petition was more complex than those submitted by Hughes and Bell. He urged that the Ohio Supreme Court had \u201crefuse[d] to give relief [to him], despite its own pronouncement\u201d that State v. Robinson would apply retroactively. In addition, he declared broadly that the Ohio court\u2019s ruling was \u201ccontrary to the Supreme Court of the United States in regard to proving self-defense.\u201d The District Court determined that Isaac had waived any constitutional claims by failing to present them to the Ohio trial court. Since he further failed to show either cause for or actual prejudice from the waiver, see Wainwright v. Sykes, supra, he could not present his claim in a federal habeas proceeding. Isaac v. Engle, Civ. Action No. C-2-78-278 (SD Ohio, June 26, 1978).\nThe Court of Appeals for the Sixth Circuit reversed all three District Court orders. In Isaac v. Engle, 646 F. 2d 1129 (1980), a majority of the en banc court ruled that Wainwright v. Sykes did not preclude consideration of Isaac\u2019s constitutional claims. At the time of Isaac\u2019s trial, the court noted, Ohio had consistently required defendants to prove affirmative defenses by a preponderance of the evidence. The futility of objecting to this established practice supplied adequate cause for Isaac\u2019s waiver. Prejudice, the second prerequisite for excusing a procedural default, was \u201cclear\u201d since the burden of proof is a critical element of factfinding, and since Isaac had made a substantial issue of self-defense. 646 F. 2d, at 1134.\nA majority of the court also believed that the instructions given at Isaac\u2019s trial violated due process. Four judges thought that \u00a7 2901.05(A) defined the absence of self-defense as an element of felonious and aggravated assault. While the State did not have to define its crimes in this manner, \u201cdue process require[d] it to meet the burden that it chose to assume.\u201d 646 F. 2d, at 1135. A fifth judge believed that, even absent \u00a7 2901.05(A), the Due Process Clause would compel the prosecution to prove absence of self-defense because that defense negates criminal intent, an essential element of aggravated and felonious assault. A sixth judge agreed that Ohio had violated Isaac\u2019s due process rights, but would have concentrated on the State\u2019s arbitrary refusal to extend the retroactive benefits of State v. Robinson, to Isaac.\nRelying on the en banc decision in Isaac, two Sixth Circuit panels ordered the District Court to release Bell and Hughes unless the State chose to retry them within a reasonable time. Bell v. Perini, 635 F. 2d 575 (1980); Hughes v. Engle, judgt. order reported at 642 F. 2d 451 (1980). We granted certiorari to review all three Sixth Circuit judgments. 451 U. S. 906 (1981).\nHH\nA state prisoner is entitled to relief under 28 U. S. C. \u00a7 2254 only if he is held \u201cin custody in violation of the Constitution or laws or treaties of the United States.\u201d Insofar as respondents simply challenge the correctness of the self-defense instructions under Ohio law, they allege no deprivation of federal rights and may not obtain habeas relief. The lower courts, however, read respondents\u2019 habeas petitions to state at least two constitutional claims. Respondents repeat both of those claims here.\nA\nFirst, respondents argue that \u00a72901.05, which governs the burden of proof in all criminal trials, implicitly designated absence of self-defense an element of the crimes charged against them. Since Ohio defined its crimes in this manner, respondents contend, our opinions in In re Winship, 397 U. S. 358 (1970); Mullaney v. Wilbur, 421 U. S. 684 (1975); and Patterson v. New York, 432 U. S. 197 (1977), required the prosecution to prove absence of self-defense beyond a reasonable doubt. A plurality of the en banc Sixth Circuit seemed to accept this argument in Isaac\u2019s appeal, finding that due process required the State \u201cto meet the burden that it chose to assume.\u201d 646 F. 2d, at 1135.\nA careful review of our prior decisions reveals that this claim is without merit. Our opinions suggest that the prosecution\u2019s constitutional duty to negate affirmative defenses may depend, at least in part, on the manner in which the State defines the charged crime. Compare Mullaney v. Wilbur, supra, with Patterson v. New York, supra. These decisions, however, do not suggest that whenever a State requires the prosecution to prove a particular circumstance beyond a reasonable doubt, it has invariably defined that circumstance as an element of the crime. A State may want to assume the burden of disproving an affirmative defense without also designating absence of the defense an element of the crime. The Due Process Clause does not mandate that when a State treats absence of an affirmative defense as an \u201celement\u201d of the crime for one purpose, it must do so for all purposes. The structure of Ohio\u2019s Code suggests simply that the State decided to assist defendants by requiring the prosecution to disprove certain affirmative defenses. Absent concrete evidence that the Ohio Legislature or courts understood \u00a7 2901.05(A) to go further than this, we decline to accept respondents\u2019 construction of state law. While they attempt to cast their first claim in constitutional terms, we believe that this claim does no more than suggest that the instructions at respondents\u2019 trials may have violated state law.\nB\nRespondents also allege that, even without considering \u00a72901.05, Ohio could not constitutionally shift the burden of proving self-defense to them. All of the crimes charged against them require a showing of purposeful or knowing behavior. These terms, according to respondents, imply a degree of culpability that is absent when a person acts in self-defense. See Committee Comment to Ohio Rev. Code Ann. \u00a7 2901.21 (1975) (\u201cgenerally, an offense is not committed unless a person . . . has a certain guilty state of mind at the time of his act or failure [to act]\u201d); State v. Clifton, 32 Ohio App. 2d 284, 286-287, 290 N. E. 2d 921, 923 (1972) (\u201cone who kills in self-defense does so without the mens rea that otherwise would render him culpable of the homicide\u201d). In addition, Ohio punishes only actions that are voluntary, Ohio Rev. Code Ann. \u00a7 2901.21(A)(1) (1975), and unlawful, State v. Simon, No. 6262, p. 13 (Ct. App. Montgomery County, Ohio, Jan. 16, 1980), modified on reconsideration (Jan. 22, 1980). Self-defense, respondents urge, negates these elements of criminal behavior. Therefore, once the defendant raises the possibility of self-defense, respondents contend that the State must disprove that defense as part of its task of establishing guilty mens rea, voluntariness, and unlawfulness. The Due Process Clause, according to respondents\u2019 interpretation of Winship, Mullaney, and Patterson, forbids the States to disavow any portion of this burden.\nThis argument states a colorable constitutional claim. Several courts have applied our Mullaney and Patterson opinions to charge the prosecution with the constitutional duty of proving absence of self-defense. Most of these decisions adopt respondents\u2019 reasoning that due process commands the prosecution to prove absence of self-defense if that defense negates an element, such as purposeful conduct, of the charged crime. While other courts have rejected this type of claim, the controversy suggests that respondents\u2019 second argument states at least a plausible constitutional claim. We proceed, therefore, to determine whether respondents preserved this claim before the state courts and, if not, to inquire whether the principles articulated in Wainwright v. Sykes, 433 U. S. 72 (1977), bar consideration of the claim in a federal habeas proceeding.\nIII\nNone of the respondents challenged the constitutionality of the self-defense instruction at trial. They thus violated Ohio Rule of Criminal Procedure 30, which requires contemporaneous objections to jury instructions. Failure to comply with Rule 30 is adequate, under Ohio law, to bar appellate consideration of an objection. See, e. g., State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977); State v. Gordon, 28 Ohio St. 2d 45, 276 N. E. 2d 243 (1971). The Ohio Supreme Court has enforced this bar against the very due process argument raised here. State v. Williams, 51 Ohio St. 2d 112, 364 N. E. 2d 1364 (1977), vacated in part and remanded, 438 U. S. 911 (1978). We must determine, therefore, whether respondents may litigate, in a federal ha-beas proceeding, a constitutional claim that they forfeited before the state courts.\nA\nThe writ of habeas corpus indisputably holds an honored position in our jurisprudence. Tracing its roots deep into English common law, it claims a place in Art. I of our Constitution. Today, as in prior centuries, the writ is a bulwark against convictions that violate \u201cfundamental fairness.\u201d Wainwright v. Sykes, 433 U. S., at 97 (Stevens, J., concurring).\nWe have always recognized, however, that the Great Writ entails significant costs. Collateral review of a conviction extends the ordeal of trial for both society and the accused. As Justice Harlan once observed, \u201c[b]oth the individual criminal defendant and society have an interest in insuring that there will at some point be the certainty that comes with an end to litigation, and that attention will ultimately be focused not on whether a conviction was free from error but rather on whether the prisoner can be restored to a useful place in the community.\u201d Sanders v. United States, 373 U. S. 1, 24-25 (1963) (dissenting opinion). See also Hankerson v. North Carolina, 432 U. S., at 247 (Powell, J., concurring in judgment). By frustrating these interests, the writ undermines the usual principles of finality of litigation.\nLiberal allowance of the writ, moreover, degrades the prominence of the trial itself. A criminal trial concentrates society\u2019s resources at one \u201ctime and place in order to decide, within the limits of human fallibility, the question of guilt or innocence.\u201d Wainwright v. Sykes, supra, at 90. Our Constitution and laws surround the trial with a multitude of protections for the accused. Rather than enhancing these safeguards, ready availability of habeas corpus may diminish their sanctity by suggesting to the trial participants that there may be no need to adhere to those safeguards during the trial itself.\nWe must also acknowledge that writs of habeas corpus frequently cost society the right to punish admitted offenders. Passage of time, erosion of memory, and dispersion of witnesses may render retrial difficult, even impossible. While a habeas writ may, in theory, entitle the defendant only to retrial, in practice it may reward the accused with complete freedom from prosecution.\nFinally, the Great Writ imposes special costs on our federal system. The States possess primary authority for defining and enforcing the criminal law. In criminal trials they also hold the initial responsibility for vindicating constitutional rights. Federal intrusions into state criminal trials frustrate both the States\u2019 sovereign power to punish offenders and their good-faith attempts to honor constitutional rights. See Schneckloth v. Bustamonte, 412 U. S. 218, 263-265 (1973) (Powell, J., concurring).\nIn Wainwright v. Sykes, we recognized that these costs are particularly high when a trial default has barred a prisoner from obtaining adjudication of his constitutional claim in the state courts. In that situation, the trial court has had no opportunity to correct the defect and avoid problematic retrials. The defendant\u2019s counsel, for whatever reasons, has detracted from the trial\u2019s significance by neglecting to raise a claim in that forum. The state appellate courts have not had a chance to mend their own fences and avoid federal intrusion. Issuance of a habeas writ, finally, exacts an extra charge by undercutting the State\u2019s ability to enforce its procedural rules. These considerations supported our Sykes ruling that, when a procedural default bars state litigation of a constitutional claim, a state prisoner may not obtain federal habeas relief absent a showing of cause and actual prejudice.\nRespondents urge that we should limit Sykes to cases in which the constitutional error did not affect the truthfinding function of the trial. In Sykes itself, for example, the prisoner alleged that the State had violated the rights guaranteed by Miranda v. Arizona, 384 U. S. 436 (1966). While this defect was serious, it did not affect the determination of guilt at trial.\nWe do not believe, however, that the principles of Sykes lend themselves to this limitation. The costs outlined above do not depend upon the type of claim raised by the prisoner. While the nature of a constitutional claim may affect the calculation of cause and actual prejudice, it does not alter the need to make that threshold showing. We reaffirm, therefore, that any prisoner bringing a constitutional claim to the federal courthouse after a state procedural default must demonstrate cause and actual prejudice before obtaining relief.\nB\nRespondents seek cause for their defaults in two circumstances. First, they urge that they could not have known at the time of their trials that the Due Process Clause addresses the burden of proving affirmative defenses. Second, they contend that any objection to Ohio\u2019s self-defense instruction would have been futile since Ohio had long required criminal defendants to bear the burden of proving this affirmative defense.\nWe note at the outset that the futility of presenting an objection to the state courts cannot alone constitute cause for a failure to object at trial. If a defendant perceives a constitutional claim and believes it may find favor in the federal courts, he may not bypass the state courts simply because he thinks they will be unsympathetic to the claim. Even a state court that has previously rejected a constitutional argument may decide, upon reflection, that the contention is valid. Allowing criminal defendants to deprive the state courts of this opportunity would contradict the principles supporting Sykes.\nRespondents\u2019 claim, however, is not simply one of futility. They further allege that, at the time they were tried, they could not know that Ohio\u2019s self-defense instructions raised constitutional questions. A criminal defendant, they urge, may not waive constitutional objections unknown at the time of trial.\nWe need not decide whether the novelty of a constitutional claim ever establishes cause for a failure to object. We might hesitate to adopt a rule that would require trial counsel either to exercise extraordinary vision or to object to every aspect of the proceedings in the hope that some aspect might mask a latent constitutional claim. On the other hand, later discovery of a constitutional defect unknown at the time of trial does not invariably render the original trial fundamentally unfair. These concerns, however, need not detain us here since respondents\u2019 claims were far from unknown at the time of their trials.\nIn re Winship, 397 U. S. 358 (1970), decided four and one-half years before the first of respondents\u2019 trials, laid the basis for their constitutional claim. In Winship we held that \u201cthe Due Process Clause protects the accused against conviction except upon proof beyond a reasonable doubt of every fact necessary to constitute the crime with which he is charged.\u201d Id., at 364. During the five years following this decision, dozens of defendants relied upon this language to challenge the constitutionality of rules requiring them to bear a burden of proof. In most of these cases, the defendants\u2019 claims countered well-established principles of law. Nevertheless, numerous courts agreed that the Due Process Clause requires the prosecution to bear the burden of disproving certain affirmative defenses. In light of this activity, we cannot say that respondents lacked the tools to construct their constitutional claim.\nWe do not suggest that every astute counsel would have relied upon Winship to assert the unconstitutionality of a rule saddling criminal defendants with the burden of proving an affirmative defense. Every trial presents a myriad of possible claims. Counsel might have overlooked or chosen to omit respondents\u2019 due process argument while pursuing other avenues of defense. We have long recognized, however, that the Constitution guarantees criminal defendants only a fair trial and a competent attorney. It does not insure that defense counsel will recognize and raise every conceivable constitutional claim. Where the basis of a constitutional claim is available, and other defense counsel have perceived and litigated that claim, the demands of comity and finality counsel against labeling alleged unawareness of the objection as cause for a procedural default.\nC\nRespondents, finally, urge that we should replace or supplement the cause-and-prejudice standard with a plain-error inquiry. We rejected this argument when pressed by a federal prisoner, see United States v. Frady, post, p. 152, and find it no more compelling here. The federal courts apply a plain-error rule for direct review of federal convictions. Fed. Rule Crim. Proc. 52(b). Federal habeas challenges to state convictions, however, entail greater finality problems and special comity concerns. We remain convinced that the burden of justifying federal habeas relief for state prisoners is \u201cgreater than the showing required to establish plain error on direct appeal.\u201d Henderson v. Kibbe, 431 U. S. 145, 154 (1977); United States v. Frady, post, at 166.\nContrary to respondents\u2019 assertion, moreover, a plain-error standard is unnecessary to correct miscarriages of justice. The terms \u201ccause\u201d and \u201cactual prejudice\u201d are not rigid concepts; they take their meaning from the principles of comity and finality discussed above. In appropriate eases those principles must yield to the imperative of correcting a fundamentally unjust incarceration. Since we are confident that victims of a fundamental miscarriage of justice will meet the cause-and-prejudice standard, see Wainwright v. Sykes, 433 U. S., at 91; id., at 94-97 (Stevens, J., concurring), we decline to adopt the more vague inquiry suggested by the words \u201cplain error.\u201d\nIV\nClose analysis of respondents\u2019 habeas petitions reveals only one colorable constitutional claim. Because respondents failed to comply with Ohio\u2019s procedures for raising that contention, and because they have not demonstrated cause for the default, they are barred from asserting that claim under 28 U. S. C. \u00a7 2254. The judgments of the Court of Appeals are reversed, and these cases are remanded for proceedings consistent with this opinion.\nSo ordered.\nJustice Blackmun concurs in the result.\nTitle 28 U. S. C. \u00a7 2254(a) empowers \u201c[t]he Supreme Court, a Justice thereof, a circuit judge, or a district court\u201d to \u201centertain an application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court only on the ground that he is in custody in violation of the Constitution or laws or treaties of the United States.\u201d This statutory remedy may not be identical in all respects to the common-law writ of habeas corpus. See Wainwright v. Sykes, 433 U. S., at 78.\nSee, e. g., State v. Rogers, 43 Ohio St. 2d 28, 30, 330 N. E. 2d 674, 676 (1975) (noting that \u201cself-defense is an affirmative defense, which must be established by a preponderance of the evidence\u201d), cert. denied, 423 U. S. 1061 (1976). But see State v. Matthews, No. 74AP-428, p. 9 (Ct. App. Franklin County, Ohio, Dec. 24, 1974) (\u00a7 2901.05(A) \u201cevinces a legislative intent to change the burden of the defendant with respect to affirmative defenses\u201d); 1 O. Schroeder & L. Katz, Ohio Criminal Law and Practice \u00a72901.05, p. 14 (1974) (\u201cThe provisions of 2901.05(A) follow the modern statutory trend in this area, requiring the accused to raise the affirmative defense, but leaving the burden of persuasion upon the prosecution\u201d); Student Symposium: The Proposed Ohio Criminal Code\u2014Reform and Regression, 33 Ohio St. L. J. 351, 420 (1972) (suggesting that legislators intended to change traditional rule).\nIn Ohio, the court\u2019s syllabus contains the controlling law. See Haas v. State, 103 Ohio St. 1, 7-8, 132 N. E. 158, 159-160 (1921).\nTwo years after Robinson, the Ohio Legislature once again amended Ohio\u2019s burden-of-proof law. The new \u00a7 2901.05(A), effective November 1, 1978, provides:\n\u201cEvery person accused of an offense is presumed innocent until proven guilty beyond a reasonable doubt, and the burden of proof for all elements of the offense is upon the prosecution. The burden of going forward with the evidence of an affirmative defense, and the burden of proof, by a preponderance of the evidence, for an affirmative defense, is upon the accused.\u201d Ohio Rev. Code Ann. \u00a7 2901.05(A) (Supp. 1980) (emphasis added).\nThis amendment has no effect on the litigation before us. Thoughout this opinion, citations to \u00a7 2901.05(A) refer to the statute in effect between January 1, 1974, and October 31, 1978.\nSee Ohio Rev. Code Ann. \u00a7 2903.01 (1975):\n\u201c(A) No person shall purposely, and with prior calculation and design, cause the death of another.\n\u201c(B) No person shall purposely cause the death of another while committing or attempting to commit, or while fleeing immediately after committing or attempting to commit kidnapping, rape, aggravated arson or arson, aggravated robbery or robbery, aggravated burglary or burglary, or escape.\n\u201c(C) Whoever violates this section is guilty of aggravated murder, and shall be punished as provided in section 2929.02 of the Revised Code.\u201d\nHughes\u2019 counsel did register a general objection \u201cto the entire Charge in its entirety\u201d because \u201c[w]e are operating now under a new code in which many things are uncertain.\u201d App. 48. Counsel\u2019s subsequent remarks, however, demonstrated that his objection concerned only the proposed definitions of \u201cAggravated Murder, Murder and Voluntary Manslaughter.\u201d Id., at 48, 50.\nVoluntary manslaughter is \u201cknowingly causing] the death of another\u201d while under \u201cextreme emotional stress brought on by serious provocation reasonably sufficient to incite [the defendant] into using deadly force.\u201d Ohio Rev. Code Ann. \u00a7 2903.03 (A) (1975).\nHughes was sentenced to 6-25 years in prison. The State\u2019s petition for certiorari indicated that Hughes has been \u201cgranted final releas[e] as a matter of parole.\u201d Pet. for Cert. 6. This release does not moot the controversy between Hughes and the State. See Humphrey v. Cady, 405 U. S. 504, 506-507, n. 2 (1972); Carafas v. LaVallee, 391 U. S. 234, 237-240 (1968).\nSee State v. Hughes, C. A. No. 7717 (Ct. App. Summit County, Ohio, Sept. 24, 1975); State v. Hughes, No. 75-1026 (Ohio, Mar. 19, 1976).\nOhio defines murder as \u201cpurposely caus[ing] the death of another.\u201d Ohio Rev. Code Ann. \u00a7 2903.02(A) (1975). Bell received a sentence of 15 years to life imprisonment.\nState v. Bell, No. 34727 (Ct. App. Cuyahoga County, Ohio, Apr. 8, 1976).\nState v. Bell, No. 76-573 (Ohio, Sept. 17, 1976).\nSee Ohio Rev. Code Ann. \u00a7 2903.11 (1975):\n\u201c(A) No person shall knowingly:\n\u201c(1) Cause serious physical harm to another;\n\u201c(2) Cause or attempt to cause physical harm to another by means of a deadly weapon or dangerous ordnance as defined in section 2923.11 of the Revised Code.\n\u201c(B) Whoever violates this section is guilty of felonious assault, a felony of the second degree.\u201d\nOhio Rev. Code Ann. \u00a7 2903.12 (1975) describes aggravated assault:\n\u201c(A) No person, while under extreme emotional stress brought on by serious provocation reasonably sufficient to incite him into using deadly force shall knowingly:\n\u201c(1) Cause serious physical harm to another;\n\u201c(2) Cause or attempt to cause physical harm to another by means of a deadly weapon or dangerous ordnance as defined in section 2923.11 of the Revised Code.\n\u201c(B) Whoever violates this section is guilty of aggravated assault, a felony of the fourth degree.\u201d\nThe judge sentenced Isaac to a term of six months\u2019 to five years\u2019 imprisonment. According to the State\u2019s petition for certiorari, Isaac has been released from jail. This controversy is not moot, however. See n. 7, supra.\nState v. Isaac, No. 346 (Ct. App. Pickaway County, Ohio, Feb. 11, 1977).\nAt the time Hughes and Bell were tried, this Rule stated in relevant part:\n\u201cNo party may assign as error any portion of the charge or omission therefrom unless he objects thereto before the jury retires to consider its verdict, stating specifically the matter to which he objects and the grounds of his objection. Opportunity shall be given to make the objection out of the hearing of the jury.\u201d\nShortly before Isaac\u2019s trial, Ohio amended the language of the Rule in minor respects:\n\u201cA party may not assign as error the giving or the failure to give any instructions unless he objects thereto before the jury retires to consider its verdict, stating specifically the matter to which he objects and the grounds of his objection. Opportunity shall be given to make the objection out of the hearing of the jury.\u201d\nBoth versions of the Ohio Rule closely parallel Rule 30 of the Federal Rules of Criminal Procedure.\nState v. Isaac, No. 77-412 (Ohio, July 20, 1977).\nThe latter analysis paralleled the reasoning of the panel that originally decided the case. See Isaac v. Engle, 646 F. 2d 1122 (1980).\nFour members of the court dissented from the en banc opinion. Two judges would have found no constitutional violation and two would have barred consideration of Isaac\u2019s claims under Wainwright v. Sykes, 433 U. S. 72 (1977).\nOne judge dissented from this decision, indicating that Wainwright v. Sykes, supra, barred Bell\u2019s claims.\nThe State suggests that the ineffectiveness of this claim demonstrates that respondents suffered no actual prejudice from their procedural default. We agree that the claim is insufficient to support habeas relief, but do not categorize this insufficiency as a lack of prejudice. If a state prisoner alleges no deprivation of a federal right, \u00a7 2254 is simply inapplicable. It is unnecessary in such a situation to inquire whether the prisoner preserved his claim before the state courts.\nDefinition of a crime\u2019s elements may have consequences under state law other than allocation of the burden of persuasion. For example, the Ohio Supreme Court interpreted \u00a7 2901.05(A) to require defendants to come forward with some evidence of affirmative defenses. State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976). Defendants do not bear the same burden with respect to the elements of a crime; the State must prove those elements beyond a reasonable doubt even when the defendant introduces no evidence. See, e. g., State v. Isaac, 44 Ohio Misc. 87, 337 N. E. 2d 818 (Munic. Ct. 1975). Moreover, while Ohio requires the trial court to charge the jury on all elements of a crime, e. g., State v. Bridgeman, 51 Ohio App. 2d 105, 366 N. E. 2d 1378 (1977), vacated in part, 55 Ohio St. 2d 261, 381 N. E. 2d 184 (1978), it does not require explicit instructions on the prosecution\u2019s duty to negate self-defense beyond a reasonable doubt. State v. Abner, 55 Ohio St. 2d 251, 379 N. E. 2d 228 (1978).\nWe have long recognized that a \u201cmere error of state law\u201d is not a denial of due process. Gryger v. Burke, 334 U. S. 728, 731 (1948). If the contrary were true, then \u201cevery erroneous decision by a state court on state law would come [to this Court] as a federal constitutional question.\u201d Ibid. See also Beck v. Washington, 369 U. S. 541, 554-555 (1962); Bishop v. Mazurkiewicz, 634 F. 2d 724, 726 (CA3 1980); United States ex rel. Burnett v. Illinois, 619 F. 2d 668, 670-671 (CA7 1980).\nIn further support of the claim that, \u00a72901.05 aside, due process requires the prosecution to prove absence of self-defense, respondent Bell maintains that the States may never constitutionally punish actions taken in self-defense. If fundamental notions of due process prohibit criminalization of actions taken in self-defense, Bell suggests, then absence of self-defense is a vital element of every crime. See Jeffries & Stephan, Defenses, Presumptions, and Burden of Proof in the Criminal Law, 88 Yale L. J. 1325, 1366-1379 (1979); Comment, Shifting the Burden of Proving Self-Defense \u2014 With Analysis of Related Ohio Law, 11 Akron L. Rev. 717, 758-759 (1978); Note, The Constitutionality of Affirmative Defenses After Patterson v. New York, 78 Colum. L. Rev. 655, 672-673 (1978); Note, Burdens of Persuasion in Criminal Proceedings: The Reasonable Doubt Standard After Patterson v. New York, 31 U. Fla. L. Rev. 385, 415-416 (1979).\nE. g., Tennon v. Ricketts, 642 F. 2d 161 (CA5 1981); Holloway v. McElroy, 632 F. 2d 605 (CA5 1980), cert. denied, 451 U. S. 1028 (1981); Wynn v. Mahoney, 600 F. 2d 448 (CA4), cert. denied, 444 U. S. 950 (1979); Commonwealth v. Hilbert, 476 Pa. 288, 382 A. 2d 724 (1978). See also Comment, 11 Akron L. Rev., supra n. 22; Note, 78 Colum. L. Rev., supra n. 22.\nE. g., Carter v. Jago, 637 F. 2d 449 (CA6 1980); Baker v. Muncy, 619 F. 2d 327 (CA4 1980). See also Leland v. Oregon, 343 U. S. 790 (1952) (rule requiring accused to prove insanity beyond a reasonable doubt does not violate due process).\nJustice Brennan accuses the Court of misreading Isaac\u2019s habeas petition in order to create a procedural default and \u201cexpatiate upon\u201d the principles of Sykes. Post, at 137-138, 142-144. It is immediately apparent that these charges of \u201cjudicial activism\u201d and \u201crevisionism\u201d carry more rhetorical force than substance. Our decision addresses the claims of three respondents, and Justice Brennan does not dispute our characterization of the petitions filed by respondents Bell and Hughes. If the Court were motivated by a desire to expound the law, rather than to adjudicate the individual claims before it, the cases of Bell and Hughes would provide ample opportunity for that task. Instead, we have attempted to decide each of the controversies presented to us.\nJustice Brennan, moreover, clearly errs when he suggests that Isaac\u2019s habeas petition \u201cpresented exactly one claim,\u201d that the \u201cselective retroactive application of the Robinson rule denied him due process of law.\u201d Post, at 137, 139. Isaac\u2019s memorandum in support of his habeas petition did not adopt such a miserly view. Instead, Isaac relied heavily upon Mullaney v. Wilbur, 421 U. S. 684 (1975); Patterson v. New York, 432 U. S. 197 (1977); and Hankerson v. North Carolina, 432 U. S. 233 (1977), cases explaining that, at least in certain circumstances, the Due Process Clause requires the prosecution to disprove affirmative defenses. See App. to Brief in No. 78-3488 (CA6), pp. 26, 28-31. Nor did the District Judge construe Isaac\u2019s petition in the manner suggested by JUSTICE Brennan. Rather, he believed that Isaac raised \u201cthe federal constitutional question of whether, under Ohio law, placing the burden of proving the affirmative defense of self-defense upon the defendant violates the defendant\u2019s due process right to have the State prove each essential element of the crime beyond a reasonable doubt.\u201d App. to Pet. for Cert. A41. Similarly, all but one of the Sixth Circuit Judges who considered Isaac\u2019s case en banc thought that Isaac raised more claims than the one isolated by Justice Brennan. Even the panel opinion invoked by Justice Brennan, post, at 142, n. 10, rejected the notion that Isaac presented only one claim. 646 F. 2d, at 1127. Isaac\u2019s own brief to this Court, finally, recites a long list of claims. Although he alludes to the argument featured by Justice Brennan, he also maintains that his jury was misinstructed \u201c[a]s a matter of federal constitutional law,\u201d Brief for Respondent Isaac 15, and that Mullaney v. Wilbur and Hankerson v. North Carolina control his claims. Brief for Respondent Isaac 2, 3, 13-15. Under these circumstances, it is incomprehensible that Justice Brennan construes Isaac\u2019s habeas petition to raise but a single claim.\nIt appears to us, moreover, that the claim touted by Justice Brennan formed no part of Isaac\u2019s original habeas petition. While Isaac\u2019s petition and supporting memorandum referred to the Ohio Supreme Court\u2019s decision in State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354 (1977), Isaac did not discuss that decision\u2019s distinction between bench and jury trials, the distinction that Justice Brennan finds so interesting. Post, at 138-139. Instead, the focus of his argument was that \u201c[i]f a state declares disproving an affirmative defense (once raised) is an element of the state\u2019s case, then to require a defendant to prove that affirmative defense violates due process and full retroactive effect must be accorded to defendants tried under the erroneous former law.\u201d App. to Brief in No. 78-3488 (CA6), p. 30. Thus, Isaac reasoned that once Robinson interpreted absence of self-defense as an \u201celement of the state\u2019s case,\u201d Mullaney imposed a constitutional obligation upon the State to carry that burden. If Ohio did not apply Robinson retroactively to all defendants \u201ctried under the erroneous former law,\u201d Isaac concluded, it would violate Mullaney. Ohio\u2019s failure to apply Robinson retroactively to him violated due process, not because Ohio had applied that decision retroactively to other defendants, but because \u201c[t]he instruction at his trial denied him due process under Mullaney.\u201d App. to Brief in No. 78-3488 (CA6), pp. 26-27. This argument parallels the ones we discuss in text.\nIt is, of course, possible to construe Isaac\u2019s confused petition and supporting memorandum to raise the claim described by Justice Brennan. Many prisoners allege general deprivations of their constitutional rights and raise vague objections to various state rulings. A creative appellate judge could almost always distill from these allegations an unexhausted due process claim. If such a claim were present, Rose v. Lundy, 455 U. S. 509 (1982), would mandate dismissal of the entire petition. In this case, however, the District Judge did not identify the claim that Justice Brennan proffers. Under these circumstances, we are reluctant to interpolate an unexhausted claim not directly presented by the petition. Rose v. Lundy does not compel such harsh treatment of habeas petitions.\nWhile respondent Bell does not deny his procedural default, he argues that we should overlook it because the State did not raise the issue in its filings with the District Court. In some cases a State\u2019s plea of default may come too late to bar consideration of the prisoner\u2019s constitutional claim. E. g., Estelle v. Smith, 451 U. S. 454, 468, n. 12 (1981); Jenkins v. Anderson, 447 U. S. 231, 234, n. 1 (1980). In this case, however, both the District Court and Court of Appeals evaluated Bell\u2019s default. Bell, moreover, did not make his \u201cwaiver of waiver\u201d claim until he submitted his brief on the merits to this Court. Accordingly, we decline to consider his argument.\nIn Isaac\u2019s own case, the Ohio Court of Appeals refused to entertain his challenge to the self-defense instruction because of his failure to comply with Rule 30. The Ohio Supreme Court subsequently dismissed Isaac\u2019s appeal for lack of a substantial constitutional question. It is unclear whether these appeals raised a constitutional, or merely statutory, attack on the self-defense instruction used at Isaac\u2019s trial. If Isaac presented his constitutional argument to the state courts, then they determined, on the very facts before us, that the claim was waived.\nRelying upon State v. Long, 53 Ohio St. 2d 91, 372 N. E. 2d 804 (1978), respondents argue that the Ohio Supreme Court has recognized its power, under Ohio\u2019s plain-error rule, to excuse Rule 30 defaults. Long, however, does not persuade us that the Ohio courts would have excused respondents\u2019 defaults. First, the Long court stressed that the plain-error rule applies only in \u201cexceptional circumstances,\u201d such as where, \u201cbut for the error, the outcome of the trial clearly would have been otherwise.\u201d Id., at 96, 97, 372 N. E. 2d, at 807, 808. Second, the Long decision itself refused to invoke the plain-error rule for a defendant who presented a constitutional claim identical to the one pressed by respondents.\nAs we recognized in Sykes, 433 U. S., at 78-79, the problem of waiver is separate from the question whether a state prisoner has exhausted state remedies. Section 2254(b) requires habeas applicants to exhaust those remedies \u201cavailable in the courts of the State.\u201d This requirement, however, refers only to remedies still available at the time of the federal petition. See Humphrey v. Cady, 405 U. S., at 516; Fay v. Noia, 372 U. S. 391, 435 (1963). Respondents, of course, long ago completed their direct appeals. Ohio, moreover, provides only limited collateral review of convictions; prisoners may not raise claims that could have been litigated before judgment or on direct appeal. See Ohio Rev. Code Ann. \u00a7 2953.21(A) (1975); Collins v. Perini, 594 F. 2d 592 (CA6 1979); Keener v. Ridenour, 594 F. 2d 581 (CA6 1979). Since respondents could have challenged the constitutionality of Ohio\u2019s traditional self-defense instruction at trial or on direct appeal, we agree with the lower courts that state collateral relief is unavailable to respondents and, therefore, that they have exhausted their state remedies with respect to this claim.\nSee 3 W. Blackstone, Commentaries *129\u2014*138; Secretary of State for Home Affairs v. O\u2019Brien, [1923] A. C. 603.\nArt. I, \u00a79, cl. 2.\nJudge Henry J. Friendly put the matter well when he wrote that \u201c[t]he proverbial man from Mars would surely think we must consider our system of criminal justice terribly bad if we are willing to tolerate such efforts at undoing judgments of conviction.\u201d Friendly, Is Innocence Irrelevant? Collateral Attack on Criminal Judgments, 38 U. Chi. L. Rev. 142, 145 (1970).\nJustice Powell, elucidating a position that ultimately commanded a majority of the Court, similarly suggested:\n\u201cNo effective judicial system can afford to concede the continuing theoretical possibility that there is error in every trial and that every incarceration is unfounded. At some point the law must convey to those in custody that a wrong has been committed, that consequent punishment has been imposed, that one should no longer look back with the view to resurrecting every imaginable basis for further litigation but rather should look forward to rehabilitation and to becoming a constructive citizen.\u201d Schneckloth v. Bustamonte, 412 U. S. 218, 262 (1973) (concurring opinion) (footnote omitted).\nSee also Stone v. Powell, 428 U. S. 465 (1976).\nJudge Friendly and Professor Bator suggest that this absence of finality also frustrates deterrence and rehabilitation. Deterrence depends upon the expectation that \u201cone violating the law will swiftly and certainly become subject to punishment, just punishment.\u201d Rehabilitation demands that the convicted defendant realize that \u201che is justly subject to sanction, that he stands in need of rehabilitation.\u201d Bator, Finality in Criminal Law and Federal Habeas Corpus for State Prisoners, 76 Harv. L. Rev. 441, 452 (1963); Friendly, supra n. 31, at 146.\nDuring the last two decades, our constitutional jurisprudence has recognized numerous new rights for criminal defendants. Although some habeas writs correct violations of long-established constitutional rights, others vindicate more novel claims. State courts are understandably frustrated when they faithfully apply existing constitutional law only to have a federal court discover, during a \u00a72254 proceeding, new constitutional commands.\nIn an individual case, the significance of this frustration may pale beside the need to remedy a constitutional violation. Over the long term, however, federal intrusions may seriously undermine the morale of our state judges. As one scholar has observed, there is \u201cnothing more subversive of a judge\u2019s sense of responsibility, of the inner subjective conscientiousness which is so essential a part of the difficult and subtle art of judging well, than an indiscriminate acceptance of the notion that all the shots will always be called by someone else.\u201d Bator, supra n. 32, at 451. Indiscriminate federal intrusions may simply diminish the fervor of state judges to root out constitutional errors on their own. While this concern cannot detract from a federal court\u2019s duty to correct a \u201cmiscarriage of justice,\u201d Sykes, 433 U. S., at 91, it counsels some care in administering \u00a7 2254.\nCounsel\u2019s default may stem from simple ignorance or the pressures of trial. We noted in Sykes, however, that a defendant\u2019s counsel may deliberately choose to withhold a claim in order to \u201csandbag\u201d \u2014 to gamble on acquittal while saving a dispositive claim in case the gamble does not pay off. See 433 U. S., at 89-90.\nSee Estelle v. Williams, 425 U. S. 501, 515 (1976) (Powell, J., concurring) (footnote omitted) (the policy disfavoring inferred waivers of constitutional rights \u201cneed not be carried to the length of allowing counsel for a defendant deliberately to forgo objection to a curable trial defect, even though he is aware of the factual and legal basis for an objection, simply because he thought objection would be futile\u201d); Myers v. Washington, 646 F. 2d 355, 364 (CA9 1981) (Poole, J., dissenting) (futility cannot constitute cause if it means simply that a claim was \u201cunacceptable to that particular court at that particular time\u201d), cert, pending, No. 81-1056.\nIn fact, the decision to withhold a known constitutional claim resembles the type of deliberate bypass condemned in Fay v. Noia, 372 U. S. 391 (1963). Since the cause-and-prejudice standard is more demanding than Fay\u2019s deliberate bypass requirement, see Sykes, supra, at 87, we are confident that perceived futility alone cannot constitute cause.\nThe State stressed at oral argument before this Court that it does not seek such a ruling. Instead, Ohio urges merely that \u201cwhen the tools are available to construct the argument, . . . you can charge counsel with the obligation of raising that argument.\u201d Tr. of Oral Arg. 8-9.\nSee Mackey v. United States, 401 U. S. 667, 675-702 (1971) (separate opinion of Harlan, J.); Williams v. United States, 401 U. S. 646, 665-666 (1971) (MARSHALL, J., concurring in part and dissenting in part); Hankerson v. North Carolina, 432 U. S., at 246-248 (Powell, J., concurring in judgment).\nEven before Winship, criminal defendants and courts perceived that placing \u00e1 burden of proof on the defendant may violate due process. For example, in Stump v. Bennett, 398 F. 2d 111, cert. denied, 393 U. S. 1001 (1968), the Eighth Circuit ruled en banc that an Iowa rule requiring defendants to prove alibis by a preponderance of the evidence violated due process. The court, moreover, observed: \u201cThat an oppressive shifting of the burden of proof to a criminal defendant violates due process is not a new doctrine within constitutional law.\u201d 398 F. 2d, at 122. See also Johnson v. Bennett, 393 U. S. 253 (1968) (vacating and remanding lower court decision for reconsideration in light of Stump); State v. Nales, 28 Conn. Supp. 28, 248 A. 2d 242 (1968) (holding that due process forbids requiring defendant to prove \u201clawful excuse\u201d for possession of housebreaking tools).\nSee, e. g., State v. Commenos, 461 S. W. 2d 9 (Mo. 1970) (en banc) (intent to return allegedly stolen item); Phillips v. State, 86 Nev. 720, 475 P. 2d 671 (1970) (insanity), cert. denied, 403 U. S. 940 (1971); Commonwealth v. O\u2019Neal, 441 Pa. 17, 271 A. 2d 497 (1970) (absence of malice); Commonwealth v. Vogel, 440 Pa. 1, 268 A. 2d 89 (1970) (insanity), overruled, Commonwealth v. Rose, 457 Pa. 380, 321 A. 2d 880 (1974); Smith v. Smith, 454 F. 2d 572 (CA5 1971) (alibi), cert. denied, 409 U. S. 885 (1972); United States v. Braver, 450 F. 2d 799 (CA2 1971) (inducement), cert. denied, 405 U. S. 1064 (1972); Wilbur v. Robbins, 349 F. Supp. 149 (Me. 1972) (heat of passion), aff\u2019d sub nom. Wilbur v. Mullaney, 473 F. 2d 943 (CA1 1973), vacated, 414 U. S. 1139 (1974), on remand, 496 F. 2d 1303 (CA1 1974), aff\u2019d, 421 U. S. 684 (1975); State v. Cuevas, 53 Haw. 110, 488 P. 2d 322 (1971) (lack of malice aforethought or presence of legal justification); State v. Brown, 163 Conn. 52, 301 A. 2d 547 (1972) (possession of license to deal in drugs), overruled on other grounds, State v. Whistnant, 179 Conn. 576, 427 A. 2d 414 (1980); In re Foss, 10 Cal. 3d 910, 519 P. 2d 1073 (1974) (en banc) (entrapment); Woods v. State, 233 Ga. 347, 211 S. E. 2d 300 (1974) (authority to sell narcotic drugs), appeal dism\u2019d, 422 U. S. 1002 (1975); State v. Buzynski, 330 A. 2d 422 (Me. 1974) (mental disease); People v. Jordan, 51 Mich. App. 710, 216 N. W. 2d 71 (1974) (absence of intent), disapproved on other grounds, People v. Johnson, 407 Mich. 196, 284 N. W. 2d 718 (1979); Commonwealth v. Rose, 457 Pa. 380, 321 A. 2d 880 (1974) (intoxication); Retail Credit Co. v. Dade County, 393 F. Supp. 577 (SD Fla. 1975) (maintenance of reasonable procedures); Fuentes v. State, 349 A. 2d 1 (Del. 1975) (extreme emotional distress), overruled, State v. Moyer, 387 A. 2d 194 (Del. 1978); Henderson v. State, 234 Ga. 827, 218 S. E. 2d 612 (1975) (self-defense); State v. Grady, 276 Md. 178, 345 A. 2d 436 (1975) (alibi); Evans v. State, 28 Md. App. 640, 349 A. 2d 300 (1975) (absence of malice; further describing in detail that due process requires prosecution to negate most affirmative defenses, including self-defense), aff\u2019d, 278 Md. 197, 362 A. 2d 629 (1976); State v. Robinson, 48 Ohio App. 2d 197, 356 N. E. 2d 725 (1975) (self-defense), aff\u2019d, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976). See also Trimble v. State, 229 Ga. 399, 401-402 191 S. E. 2d 857, 858-859 (1972) (dissenting opinion) (alibi), overruled, Patterson v. State, 233 Ga. 724, 213 S. E. 2d 612 (1975); Grace v. State, 231 Ga. 113, 118, 125-128, 200 S. E. 2d 248, 252, 256-258 (1973) (dissenting opinions) (insanity).\nSeveral commentators also perceived that Winship might alter traditional burdens of proof for affirmative defenses. E. g., W. LaFave & A. Scott, Handbook on Criminal Law \u00a7 8, pp. 46-51 (1972); The Supreme Court, 1969 Term, 84 Harv. L. Rev. 1, 159 (1970); Student Symposium, 33 Ohio St. L. J., supra n. 2, at 421; Comment, Due Process and Supremacy as Foundations for the Adequacy Rule: The Remains of Federalism After Wilbur v. Mullaney, 26 U. Maine L. Rev. 37 (1974).\nEven those decisions rejecting the defendant\u2019s claim, of course, show that the issue had been perceived by other defendants and that it was a live one in the courts at the time.\nRespondent Isaac even had the benefit of our opinion in Mullaney v. Wilbur, 421 U. S. 684 (1975), decided three months before his trial. In Mullaney we invalidated a Maine practice requiring criminal defendants to negate malice by proving that they acted in the heat of passion. We thus explicitly acknowledged the link between Winship and constitutional limits on assignment of the burden of proof. Cf. Lee v. Missouri, 439 U. S. 461, 462 (1979) (per curiam) (suggesting that defendants who failed, after Taylor v. Louisiana, 419 U. S. 522 (1975), to object to the exclusion of women from juries must show cause for the failure).\nRespondents argue at length that, before the Ohio Supreme Court\u2019s decision in State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (1976), they did not know that Ohio Rev. Code Ann. \u00a7 2901.05(A) changed the traditional burden of proof. Ohio\u2019s interpretation of \u00a7 2901.05(A), however, is relevant only to claims that we reject independently of respondents\u2019 procedural default. See supra, at 119-121; n. 25, supra.\nRespondents resist this conclusion by noting that Hankerson v. North Carolina, 432 U. S., at 243, gave Mullaney v. Wilbur, the opinion explicitly recognizing Winship\u2019s effect on affirmative defenses, \u201ccomplete retroactive effect.\u201d Hankerson itself, however, acknowledged the distinction between the retroactive availability of a constitutional decision and the right to claim that availability after a procedural default. Justice White\u2019s majority opinion forthrightly suggested that the States \u201cmay be able to insulate past convictions [from the effect of Mullaney] by enforcing the normal and valid rule that failure to object to a jury instruction is a waiver of any claim of error.\u201d 432 U. S., at 244, n. 8. In these cases we accept the force of that language as applied to defendants tried after Winship.\nSince we conclude that these respondents lacked cause for their default, we do not consider whether they also suffered actual prejudice. Respondents urge that their prejudice was so great that it should permit relief even in the absence of cause. Sykes, however, stated these criteria in the conjunctive and the facts of these cases do not persuade us to depart from that approach.\nRespondents bolster their plain-error contention by observing that Ohio will overlook a procedural default if the trial defect constituted plain error. Ohio, however, has declined to exercise this discretion to review the type of claim pressed here. See n. 27, supra. If Ohio had exercised its discretion to consider respondents\u2019 claim, then their initial default would no longer block federal review. See Mullaney v. Wilbur, supra, at 688, n. 7; Ulster County Court v. Allen, 442 U. S. 140, 147-154 (1979). Our opinions, however, make clear that the States have the primary responsibility to interpret and apply their plain-error rules. Certainly we should not rely upon a state plain-error rule when the State has refused to apply that rule to the very sort of claim at issue.\nThe Court establishes in this case and in United States v. Frady, post, p. 152, that \u201cto obtain collateral relief based on trial errors to which no contemporaneous objection was made, a convicted defendant must show both (1) \u2018cause\u2019 excusing his . . . procedural default, and (2) \u2018actual prejudice\u2019 resulting from the errors of which he complains.\u201d Post, at 167-168. I joined Frady because the Court applied the prejudice prong of the cause- and-prejudice standard in an appropriate fashion, concluding that the erroneous instruction did not \u201c[infect the] entire trial with error of constitutional dimensions,\u201d post, at 170, and \u201c[perceiving] no risk of a fundamental miscarriage of justice in this case,\u201d post, at 172. Like the prejudice prong, the cause prong has some relation to the inquiry I believe the Court should undertake in habeas corpus cases. See Rose v. Lundy, 455 U. S. 509, 547-548, n. 17 (Stevens, J., dissenting). The failure to object generally indicates that defense counsel felt that the trial error was not critical to his client\u2019s case; presumably, therefore, the error did not render the trial fundamentally unfair.\nIn these cases, however, the Court applies the cause prong without relating its application to the fairness of respondents\u2019 trials. Indeed, the Court categorically rejects respondents\u2019 argument \u201cthat their prejudice was so great that it should permit relief even in the absence of cause,\u201d noting that Wainwright v. Sykes, 433 U. S. 72, stated the cause-and-prejudice standard in the conjunctive. Ante, at 134, n. 43. I would not apply that standard, as the Court does in this case, to bar habeas corpus relief simply as a matter of procedural foreclosure.",
+        "type": "majority",
+        "author": "Justice O\u2019Connor"
+      },
+      {
+        "text": "Justice Stevens,\nconcurring in part and dissenting in part.\nA petition for a writ of habeas corpus should be dismissed if it merely attaches a constitutional label to factual allegations that do not describe a violation of any constitutional right. In Part II-A of its opinion, the Court seems to agree with this proposition. See ante, at 119-121. The Court nevertheless embarks on an exposition of the procedural hurdles that must be surmounted before confronting the merits of an allegation that \u201cstates at least a plausible constitutional claim.\u201d Ante, at 122. Those rules, the Court states, \u201cdo not depend upon the type of claim raised by the prisoner.\u201d Ante, at 129. Yet, the Court concludes, they will not bar relief for \u201cvictims of a fundamental miscarriage of justice.\u201d Ante, at 135.\nIn my opinion, the Court\u2019s preoccupation with procedural hurdles is more likely to complicate than to simplify the processing of habeas corpus petitions by federal judges. In these cases, I would simply hold that neither of the exhausted claims advanced by respondents justifies a collateral attack on their convictions. I agree with the Court\u2019s rejection of the claim that the enactment of \u00a72901.05 imposed a constitutional burden on Ohio prosecutors to prove the absence of self-defense beyond a reasonable doubt. It seems equally clear to me that, apart from \u00a72901.05, the Constitution does not require the prosecutor to shoulder that burden whenever willfulness is an element of the offense, provided, of course, that the jury is properly instructed on the intent issue. Nothing in the Court\u2019s opinion persuades me that the second theory is any more \u201cplausible\u201d than the first.\nI would reverse on the merits the judgment of the Court of Appeals.\nA third claim is that respondents were deprived of due process and equal protection of the laws because the Ohio Supreme Court refused to apply retroactively to their convictions its disapproval of the challenged jury instruction. The Court declines to address this claim on the ground that it was not expressly raised in the habeas corpus petition. Ante, at 124, n. 25. I am not sure whether it can be said that the claim has not been raised, but in any event I find the claim unpersuasive.",
+        "type": "concurring-in-part-and-dissenting-in-part",
+        "author": "Justice Stevens,"
+      },
+      {
+        "text": "Justice Brennan,\nwith whom Justice Marshall joins, dissenting.\nToday\u2019s decision is a conspicuous exercise in judicial activism \u2014 particularly so since it takes the form of disregard of precedent scarcely a month old. In its eagerness to expatiate upon the \u201csignificant costs\u201d of the Great Writ, ante, at 126-128, and to apply \u201cthe principles articulated in Wainwright v. Sykes, [433 U. S. 72 (1977)],\u201d ante, at 123, to the cases before us, the Court demonstrably misreads and reshapes the habeas claim of at least one of the state prisoners involved in this action. Respondent Isaac presented exactly one claim in his habeas petition. That claim did not even exist until after Isaac was denied relief on his last direct appeal. As a result, Isaac could not have \u201cpreserved\u201d his claim in the state courts: He simply committed no \u201cprocedural default,\u201d and the Court is thus clearly wrong to apply Sykes to his claim in order to relegate it to the dustbin. Moreover, the Court does so by ignoring the holding only last month in Rose v. Lundy, 455 U. S. 509 (1982): namely, that a habeas petition that contains any unexhausted claims must be dismissed by the habeas court. The Court then compounds its error when it attempts to articulate the \u201cprinciples\u201d of Sykes: In purporting to give content to the \u201ccause\u201d standard announced in that case, the Court defines \u201ccause\u201d in a way supported neither by Sykes nor by common sense. I dissent from both of these errors, which are discussed in turn below.\nHH\nRespondent Isaac was indicted m May 1975; he was convicted after a jury trial and sentenced during the following September. While his conviction was on appeal in the Ohio Court of Appeals, the Ohio Supreme Court decided State v. Robinson, 47 Ohio St. 2d 103, 351 N. E. 2d 88 (July 1976), which construed Ohio Rev. Code Ann. \u00a7 2901.05(A) (effective Jan. 1, 1974) to require the prosecution to bear the burden of persuasion, beyond a reasonable doubt, with respect to an affirmative defense of self-defense raised by the defendant. The Ohio Court of Appeals affirmed Isaac\u2019s conviction in February 1977. The Ohio Supreme Court dismissed Isaac\u2019s appeal in July 1977. On the same day, the Ohio Supreme Court decided State v. Humphries, 51 Ohio St. 2d 95, 364 N. E. 2d 1354. That case declared Robinson retroactive to the effective date of \u00a7 2901.05(A), but only partially: It held that in order to gain the retroactive benefits of the Robinson decision, a defendant tried before a jury must have preserved his claim by objection at trial to the allocation of the affirmative-defense burden of proof, while a bench-trial defendant could have made the same objection as late as in the Court of Appeals, and the objection would still have been preserved. 51 Ohio St. 2d, at 102-103, 364 N. E. 2d, at 1359.\nIsaac filed his habeas petition in the United States District Court for the Southern District of Ohio in March 1978. The asserted ground for relief was \u201cdenial of due process of law,\u201d in that\n\u201c[t]he trial court charged petitioner had the burden of proving self-defense. After conviction and during the first appeal the Ohio Supreme Court declared the instructions to be prejudicial error under Robinson. This case was immediately raised to the Appellate Court. They held any error was waived. The Ohio Supreme Court then held Robinson retroactive. Petitioner had raised retroactivity in its leave to appeal and was denied leave to appeal the same day Humphries was decided declaring retroactivity. The Ohio Supreme Court refuses to give relief despite its own pronouncement. The holding of the court is contrary to the Supreme Court of the United States in regard to proving self-defense.\u201d\nIsaac\u2019s memorandum in support of his habeas petition made it plain that his claim was that Humphries\u2019 selective retroactive application of the Robinson rule denied him due process of law. It is obvious, of course, that it was simply impossible to make this claim before Humphries was decided, in July-1977, on the same day that Isaac\u2019s direct appeals in the state court system were finally rejected.\nOhio Rev. Code Ann. \u00a7 2958.21(A) (1975) provides for post-conviction relief under certain circumstances:\n\u201cAny person convicted of a criminal offense . . . claiming that there was such a denial or infringement of his rights as to render the judgment void or voidable under the Ohio Constitution or the Constitution of the United States, may file a verified petition at any time in the court which imposed sentence, stating the grounds for relief relied upon, and asking the court to vacate or set aside the judgment or sentence or to grant other appropriate relief.\u201d\nBy applying the doctrine of res judicata to postconviction petitions, the Ohio Supreme Court has allowed relief under this procedure only under limited circumstances: Constitutional issues can be raised under \u00a7 2953.21(A) only when they could not have been raised at trial or on appeal. State v. Perry, 10 Ohio St. 2d 175, 180-181, 226 N. E. 2d 104, 108 (1967); see Keener v. Ridenour, 594 F. 2d 581, 589-591 (CA6 1979) (construing scope of Ohio postconviction remedy); Riley v. Havener, 391 F. Supp. 1177, 1179-1180 (ND Ohio 1974) (same). But Isaac\u2019s claim is manifestly of the sort that could not have been raised at trial or on appeal, for the claim only came into existence on the day that Isaac\u2019s last appeal was rejected. Consequently, state postconviction remedies are available to Isaac and have not been exhausted.\nI draw three conclusions from the foregoing account, all of which to my mind follow ineluctably from the undisputed facts of this case. . First, Isaac\u2019s habeas petition should have been dismissed for his failure to exhaust available state remedies. See Picard v. Connor, 404 U. S. 270 (1971), where we emphasized that\n\u201cthe federal claim must be fairly presented to the state courts. . . . Only if the state courts have had the first opportunity to hear the claim sought to be vindicated in a federal habeas proceeding does it make sense to speak of the exhaustion of state remedies.\u201d Id., at 275-276.\nIn the present case, petitioner Engle responded to Isaac\u2019s petition by raising the issue of Isaac\u2019s failure to exhaust. Therefore the Court of Appeals clearly erred, under Picard and our whole line of exhaustion precedents, in granting ha-beas relief to Isaac instead of requiring exhaustion. The proper disposition of Isaac\u2019s case is thus to reverse and remand with instructions to dismiss on exhaustion grounds. The Court\u2019s failure to order such a disposition is incomprehensible: Barely a month ago this Court emphatically reaffirmed the exhaustion doctrine, and indeed extended it, announcing a requirement of \u201ctotal exhaustion\u201d for habeas petitions. Rose v. Lundy, 455 U. S. 509 (March 3, 1982). But today the Court finds the nostrum of \u201ccause and prejudice\u201d more attractive, and so Rose v. Lundy is not applied. Sic transit gloria Lundy! In scarcely a month, the bloom is off the Rose.\nMy second conclusion is that Isaac simply committed no \u201cprocedural default\u201d in failing to raise at trial or on direct appeal the claim that appears in his habeas petition. That claim did not exist at any time during Isaac\u2019s trial or direct appeal. Thus the essential factual predicate for an application of Wainwright v. Sykes, 433 U. S. 72 (1977), is completely absent in Isaac\u2019s case. Sykes involved a habeas petitioner who had failed to object in a timely manner to the admission of his confession at trial. Id., at 86-87. Given that factual predicate, Sykes addressed the question of whether federal habeas review should be barred absent a showing of \u201ccause\u201d for the procedural default of failing to object, and a further showing of \u201cprejudice\u201d resulting from the admission of the confession. Id., at 87, 90-91. But in the case before us, respondent Isaac could not have made any objection, timely or otherwise, at trial or on appeal. Thus the application of Sykes is completely and manifestly erroneous in this case.\nMy last conclusion is that the Court is so intent upon applying Sykes to Isaac\u2019s case that it plays Procrustes with his claim. In order to bring Isaac\u2019s claim within the ambit of Sykes, the Court first characterizes his petition as \u201ccomplex,\u201d ante, at 117, and \u201cconfused,\u201d ante, at 124, n. 25. Then, without ever quoting the claim as it actually appeared in Isaac\u2019s petition, the Court delineates a \u201ccolorable constitutional claim\u201d nowhere to be found in the petition. As the Court recasts it, Isaac\u2019s claim is as follows:\n\u201c[T]he crim[e] charged against [Isaac] require[s] a showing of purposeful or knowing behavior. These terms, according to [Isaac], imply a degree of culpability that is absent when a person acts in self-defense. . . . Self-defense, [Isaac] urge[s], negates [essential] elements of criminal behavior. Therefore, once the defendant raises the possibility of self-defense, [Isaac] contend[s] that the State must disprove that defense as part of its task of establishing guilty mens rea, voluntariness, and unlawfulness. The Due Process Clause, according to [Isaac\u2019s] interpretation of Winship, Mullaney, and Patterson, forbids the States to disavow any portion of this burden.\u201d Ante, at 121-122.\nThis new-modeled claim bears no resemblance to the claim actually made by Isaac in his habeas petition. See supra, at 139. But by virtue of this exercise in juristic revisionism, the Court puts itself in position to find that \u201cIsaac\u2019s\u201d claim was \u201cforfeited before the state courts,\u201d ante, at 125 \u2014 no difficult task, since the claim is wholly imagined by the Court itself \u2014 thus enabling the Court to reach its clearly sought goal of deciding \u201cwhether the principles articulated in Wainwright v. Sykes, 433 U. S. 72 (1977), bar consideration of the claim in a federal habeas proceeding.\u201d Ante, at 123. Unsurprisingly, the Court\u2019s bottom line is that Isaac\u2019s Active claim is indeed barred by Sykes. In short, the Court reshapes respondent Isaac\u2019s actual claim into a form that enables it to foreclose all federal review, when as plainly pleaded the claim was unexhausted, thus calling for the dismissal of Isaac\u2019s petition for habeas relief. The Court\u2019s analysis is completely result-oriented, and represents a noteworthy exercise in the very judicial activism that the Court so deprecates in other contexts.\nII\nFor the reasons stated above, I conclude that in its unseemly rush to reach the merits of Isaac\u2019s case, the Court has ignored settled law respecting the exhaustion of state remedies. But lest it be thought that my disagreement with today\u2019s decision is confined to that point alone, I turn to the Court\u2019s treatment of the merits of the cases before us. I continue to believe that the \u201cdeliberate bypass\u201d standard announced in Fay v. Noia, 372 U. S. 391 (1963), is the only sensible rule to apply in habeas cases such as respondents\u2019. I adhere to my dissent in Wainwright v. Sykes, supra, in which I termed the \u201ccause-and-prejudice\u201d standard adopted in that case \u201ca mere house of cards whose foundation has escaped any systematic inspection.\u201d 433 U. S., at 99-100, n. 1. The Court has now begun to furnish its house of cards \u2014 and the furniture is as jerry-built as the house itself.\nA\nSykes did not give the terms \u201ccause\u201d and \u201cprejudice\u201d any \u201cprecise content,\u201d but promised that \u201clater cases\u201d would provide such content. Id., at 91. Today the nature of that content becomes distressingly apparent. The Court still refuses to say what \u201ccause\u201d is: And I predict that on the Court\u2019s present view it will prove easier for a camel to go through the eye of a needle than for a state prisoner to show \u201ccause.\u201d But on the other hand, the Court is more than eager to say what \u201ccause\u201d is not: And in doing so, the Court is supported neither by common sense nor by the very reasons offered in Sykes for adoption of the \u201ccause-and-prejudice\u201d standard in the first place.\nAccording to the Court, \u201ccause\u201d is not demonstrated when the Court \u201ccannot say that [habeas petitioners] lacked the tools to construct their constitutional claim,\u201d ante, at 133, however primitive those tools were and thus however inchoate the claim was when petitioners were in the state courts. The Court concludes, after several pages of tortuous reasoning, ante, at 130-133, and nn. 36-42, that respondents in the present cases did indeed have \u201cthe tools\u201d to make their constitutional claims. This conclusion is reached by the sheerest inference: It is based on citations to other cases in other jurisdictions, where other defendants raised other claims assertedly similar to those that respondents \u201ccould\u201d have raised. Ante, at 131-133, and n. 40. To hold the present respondents to such a high standard of foresight is tantamount to a complete rejection of the notion that there is a point before which a claim is so inchoate that there is adequate \u201ccause\u201d for the failure to raise it. In thus rejecting in-choateness as \u201ccause,\u201d the Court overlooks the fact that none of the rationales used in Sykes to justify adoption of the cause-and-prejudice standard can justify today\u2019s definition of \u201ccause.\u201d\nSykes adopted the cause-and-prejudice standard in order to accord \u201cgreater respect\u201d to state contemporaneous-objection rules than was assertedly given by Fay v. Noia, supra. 433 U. S., at 88. The Court then offered a number of reasons why contemporaneous-objection rules should be given such greater respect:\n(1) \u201cA contemporaneous objection enables the record to be made with respect to the constitutional claim when the recollections of witnesses are freshest, not years later in a federal habeas proceeding.\u201d Ibid.\n(2) A contemporaneous objection \u201cenables the judge who observed the demeanor of those witnesses to make the factual determinations necessary for properly deciding the federal constitutional question.\u201d Ibid.\n(3) \u201cA contemporaneous-objection rule may lead to the exclusion of evidence objected to, thereby making a major contribution to finality in criminal litigation.\u201d Ibid.\n(4) The Fay v. Noia rule \u201cmay encourage \u2018sandbagging\u2019 on the part of defense lawyers, who may take their chances on a verdict of not guilty in a state trial court with the intent to raise their constitutional claims in a federal habeas court if their initial gamble does not pay off.\u201d 433 U. S., at 89.\n(5) A contemporaneous-objection rule \u201cencourages the result that [criminal trials] be as free of error as possible.\u201d Id., at 90.\nNone of these rationales has any force in the present case. The first three reasons are valid, if at all, only in the particular context of objections to the admission of evidence, such as were at issue in Sykes. As for the \u201csandbagging\u201d rationale, dutifully repeated by today\u2019s Court, ante, at 129, n. 34, that was fully answered in my Sykes dissent: That argument still \u201coffends common sense,\u201d and does not become less offensive by sententious repetition. And the final reason \u2014 relied on again today, ante, at 127\u2014is plainly irrelevant to a case involving inchoate constitutional claims. Such claims are ex hypothesis so embryonic that only the extraordinarily foresighted criminal defendant will raise them. It is completely implausible to expect that the raising of such claims will predictably \u2014 or even occasionally \u2014 make trials more \u201cfree of error.\u201d\nB\nThe Court justifies its result today with several additional reasons \u2014 or, rather, sentiments in reasons\u2019 clothing. We are told, ante, at 126-127, that \u201cthe Great Writ entails significant costs. Collateral review of a conviction extends the ordeal of trial for both society and the accused.\u201d But we are not told why the accused would consider it an \u201cordeal\u201d to go to federal court in order to attempt to vindicate his constitutional rights. Nor are we told why society should be eager to ensure the finality of a conviction arguably tainted by un-reviewed constitutional error directly affecting the truth-finding function of the trial. I simply fail to understand how allowance of a habeas hearing \u201centails significant costs\u201d to anyone under the circumstances of the cases before us.\nIn a similar vein, we are told, ante, at 127, that \u201c[w]e must also acknowledge that writs of habeas corpus frequently cost society the right to punish admitted offenders.\u201d I for one will acknowledge nothing of the sort. Respondents were all convicted after trials in which they allege that the burden of proof respecting their affirmative defenses was imposed upon them in an unconstitutional manner. Thus they are not \u201cadmitted\u201d offenders at all: If they had been tried with the assertedly proper allocation of the burden of proof, then they might very well have been acquitted. Further, it is sheer demagoguery to blame the \u201coffender\u201d for the logistical and temporal difficulties arising from retrial: If the writ of habeas corpus has been granted, then it is at least as reasonable to blame the State for having prosecuted the first trial \u201cin violation of the Constitution or laws ... of the United States,\u201d 28 U. S. C. \u00a7 2254(a).\nFinally, we are told that\n\u201cthe Great Writ imposes special costs on our federal system\u201d; that \u201c[fjederal intrusions into state criminal trials frustrate both the States\u2019 sovereign power to punish offenders and their good-faith attempts to honor constitutional rights,\u201d ante, at 128; and that \u201c[s]tate courts are understandably frustrated when they faithfully apply existing constitutional law only to have a federal court discover, during a \u00a7 2254 proceeding, new constitutional commands.\u201d Ante, at 128, n. 33.\nOnce again, the Court drags a red herring across its path. I hope that the Court forgets only momentarily that \u201cthe States\u2019 sovereign power\u201d is limited by the Constitution of the United States: that the \u201cintrusion\u201d complained of is that of the supreme law of the land. But it must be reason for deep concern when this Court forgets, as it certainly does today, that \u201cit is a constitution we are expounding, ... a constitution intended to endure for ages to come, and, consequently, to be adapted to the various crises of human affairs.\u201d It is inimical to the principle of federal constitutional supremacy to defer to state courts\u2019 \u201cfrustration\u201d at the requirements of federal constitutional law as it is interpreted in an evolving society. Sykes promised that its cause-and-prejudice standard would \u201cnot prevent a federal habeas court from adjudicating for the first time the federal constitutional claim of a defendant who in the absence of such an adjudication will be the victim of a miscarriage of justice.\u201d 433 U. S., at 91. Today\u2019s decision, with its unvarnished hostility to the assertion of federal constitutional claims, starkly reveals the emptiness of that promise.\nC\nFinally, there is the issue of the Court\u2019s extension of the Sykes standard \u201cto cases in which the constitutional error . . . affectfs] the truthfinding function of the trial.\u201d Ante, at 129. The Court concedes, ibid., that Sykes itself involved the violation of the habeas petitioner\u2019s Miranda rights, and that although \u201cthis defect was serious, it did not affect the determination of guilt at trial.\u201d But despite the fact that the present cases admittedly do involve a defect affecting the determination of guilt, the Court refuses to limit Sykes and thus bars federal review: \u201cWe do not believe . . . that the principles of Sykes lend themselves to this limitation.\u201d Ante, at 129. In so holding, the Court ignores the manifest differences between claims that affect the truthfinding function of the trial and claims that do not.\nThe Court proclaimed in Stone v. Powell, 428 U. S. 465, 490 (1976), that \u201cthe ultimate question of guilt or innocence . . . should be the central concern in a criminal proceeding.\u201d A defendant\u2019s Fourth Amendment rights, see Stone, or his Miranda rights, see Sykes, may arguably be characterized as \u201ccrucially different from many other constitutional rights,\u201d Kaufman v. United States, 394 U. S. 217, 237 (1969) (Black, J., dissenting), in that evidence procured in violation of those rights has not ordinarily been rendered untrustworthy by the means of its procurement. But a defendant\u2019s right to a trial at which the burden of proof has been constitutionally allocated can never be violated without rendering the entire trial result untrustworthy. \u201cIn all kinds of litigation it is plain that where the burden of proof lies may be decisive of the outcome,\u201d Speiser v. Randall, 357 U. S. 513, 525 (1958), and petitioners in the present cases concede as much, Brief for Petitioners 22. As Justice Harlan noted in In re Winship, 397 U. S. 358 (1970):\n\u201cIf, for example, the standard of proof for a criminal trial were a preponderance of the evidence rather than proof beyond a reasonable doubt, there would be a smaller risk of factual errors that result in freeing guilty persons, but. a far greater risk of factual errors that result in convicting the innocent.\u201d Id., at 371 (concurring opinion).\nWhere, as here, the burden was placed on respondents, rather than on the prosecution, to prove their affirmative defenses by a preponderance of the evidence, the risk of convicting the innocent is even greater than in Justice Harlan\u2019s example. And if this allocation of the burden of proof was erroneous, then that error constitutes a denial of due process of intolerable proportions. We have recognized the truth of this proposition in numerous precedents. In Ivan V. v. City of New York, 407 U. S. 203 (1972), we held our earlier decision in Winship to be fully retroactive, stating:\n\u201c\u2018Where the major purpose of a new constitutional doctrine is to overcome an aspect of a criminal trial that substantially impairs its truth-finding function and so raises serious questions about the accuracy of guilty verdicts in past trials, the new rule has been given complete retroactive effect. Neither good-faith reliance by state or federal authorities on prior constitutional law or accepted practice, nor severe impact on the administration of justice has sufficed to require prospective application in these circumstances.\u2019 Williams v. United States, 401 U. S. 646, 653 (1971). See Adams v. Illinois, 405 U. S. 278, 280 (1972); Roberts v. Russell, 392 U. S. 293, 295 (1968).\u201d 407 U. S., at 204 (emphasis added).\nIn sum, this Court has heretofore adhered to the principle that \u201c[i]n the administration of criminal justice, our society imposes almost the entire risk of error upon itself,\u201d because \u201cthe interests of the defendant are of such magnitude.\u201d Addington v. Texas, 441 U. S. 418, 423-424 (1979). In the context of the cases before us today, this principle means that a habeas claim that a mistake was made in imposing that risk of error cannot be cavalierly dismissed as just another \u201ctype of claim raised by the prisoner,\u201d ante, at 129. In my view, the Sykes standard is misguided and insupportable in any context. But if it is to be suffered to exist at all, it should be limited to the arguable peripheries of the trial process: It should not be allowed to insulate from all judicial review all violations of the most fundamental rights of the accused.\nI dissent.\nApp. 2; App. to Brief in No. 78-3488 (CA6), pp. 2, 3-4.\nApp. 6.\nId., at 13.\nApp. to Brief in No. 78-3488 (CA6), p. 18.\nId., at 21 (emphasis added).\nId., at 25: \u201c[T]he Ohio Supreme Court denied [Isaac] leave to appeal on the same day it decided State v. Humphries, . . . which declared its ruling in Robinson to be retroactive to January 1, 1974. . . . [Isaac] submits to make Robinson retroactive, and then to refuse to give him the benefits of retroactivity violates the due process guarantees of the Fourteenth Amendment. . .\nId., at 35-36.\n\u201cA rigorously enforced total exhaustion rule will encourage state prisoners to seek full relief first from the state courts, thus giving those courts the first opportunity to review all claims of constitutional error. As the number of prisoners who exhaust all of their federal claims increases, state courts may become increasingly familiar with and hospitable toward federal constitutional issues.\u201d 455 U. S., at 518-519.\nThe Court notes, ante, at 123-124, n. 25, that Isaac added citations to Mullaney v. Wilbur, 421 U. S. 684 (1975), and Patterson v. New York, 432 U. S. 197 (1977), in his memorandum in support of his habeas petition. The Court apparently holds that these citations somehow save Isaac\u2019s petition from dismissal. But that holding is flatly contrary to the explicit holding of Rose, that \u201cthe exhaustion rule in 28 U. S. C. \u00a7\u00a7 2254(b), (c) requires a federal district court to dismiss a petition for a writ of habeas corpus containing any claims that have not been exhausted in the state courts.\u201d 455 U. S., at 510 (emphasis added).\nRecognizing this flat contradiction, the Court suggests that the claim \u201ctouted\u201d by me \u201cformed no part of Isaac\u2019s original habeas petition.\u201d Ante, at 124, n. 25. This suggestion is clearly belied by the plain language of Isaac\u2019s habeas petition, which the Court never quotes, but which is quoted in full supra, at 139. That language speaks for itself, far more clearly and eloquently than the Court\u2019s unsuccessful attempt to reconstruct it.\nThe panel opinion of the United States Court of Appeals for the Sixth Circuit in Isaac\u2019s case reached this same conclusion. The panel correctly read Isaac\u2019s petition as presenting the question of \u201cwhether the decision of the Supreme Court of Ohio to withhold from petitioner the benefits of Section 2901.05(A), as established in State v. Robinson, for failure to comply with Ohio\u2019s contemporaneous objection rule was a deprivation of due process.\u201d 646 F. 2d 1122, 1124 (1980). As to this question, the panel accurately concluded that \u201cWainwright v. Sykes, supra, is not applicable to . . . [Isaac\u2019s] petition.\u201d Id.., at 1127.\nThe full text of Isaac\u2019s claim appears supra, at 139. It is plain that the Court\u2019s claims of \u201ccomplexity\u201d and \u201cconfusion\u201d are merely a smokescreen, behind which the Court feels free to reshape Isaac\u2019s claim.\nIt does bear some resemblance to Isaac\u2019s claim as construed by the plurality opinion of the Court of Appeals en banc below. 646 F. 2d, at 1133-1136. But the plurality\u2019s construction was simply incorrect, and this Court should correct such errors, not perpetuate them.\n433 U. S., at 103-104, and n. 5:\n\u201cUnder the regime of collateral review recognized since the days of Brown v. Allen [344 U. S. 443 (1953)], and enforced by the Fay bypass test, no rational lawyer would risk the \u2018sandbagging\u2019 feared by the Court.\n\u201c5 In brief, the defense lawyer would face two options: (1) He could elect to present his constitutional claims to the state courts in a proper fashion. If the state trial court is persuaded that a constitutional breach has occurred, the remedies dictated by the Constitution would be imposed, the defense would be bolstered, and the prosecution accordingly weakened, perhaps precluded altogether. If the state court rejects the properly tendered claims, the defense has lost nothing: Appellate review before the state courts and federal habeas consideration are preserved. (2) He could elect to \u2018sandbag.\u2019 This presumably means, first, that he would hold back the presentation of his constitutional claim to the trial court, thereby increasing the likelihood of a conviction since the prosecution would be able to present evidence that, while arguably constitutionally deficient, may be highly prejudicial to the defense. Second, he would thereby have forfeited all state review and remedies with respect to these claims (subject to whatever \u2018plain error\u2019 rule is available). Third, to carry out his scheme, he would now be compelled to deceive the federal habeas court and to convince the judge that he did not \u2018deliberately bypass\u2019 the state procedures. If he loses on this gamble, all federal review would be barred, and his \u2018sandbagging\u2019 would have resulted in nothing but the forfeiture of all judicial review of his client\u2019s claims. The Court, without substantiation, apparently believes that a meaningful number of lawyers are induced into option 2 by Fay. I do not. That belief simply offends common sense.\u201d\nMcCulloch v. Maryland, 4 Wheat. 316, 407, 415 (1819).\nWe later relied on Ivan V. in holding that our decision in Mullaney v. Wilbur, 421 U. S. 684 (1975), must be applied retroactively. Hankerson v. North Carolina, 432 U. S. 233, 242-244 (1977).",
+        "type": "dissent",
+        "author": "Justice Brennan,"
+      }
+    ],
+    "attorneys": [
+      "Simon B. Karas, Assistant Attorney General of Ohio, argued the cause for petitioners. With him on the briefs were William J. Brown, Attorney General, and Richard David Drake, Assistant Attorney General.",
+      "James R. Kingsley, by appointment of the Court, 453 U. S. 911, argued the cause and filed a brief for respondent Isaac. Richard L. Aynes argued the cause for respondents Bell and Hughes. With him on the brief for respondent Bell were Kathleen S. Aynes and J. Dean Carro. Messrs. Aynes and Carro filed a brief for respondent Hughes."
+    ],
+    "corrections": "",
+    "head_matter": "ENGLE, CORRECTIONAL SUPERINTENDENT v. ISAAC\nNo. 80-1430.\nArgued December 8, 1981\nDecided April 5, 1982\nO\u2019Connor, J., delivered the opinion of the Court, in which Burger, C. J., and White, Powell, and Rehnquist, JJ., joined. Blackmun, J., concurred in the result. Stevens, J., filed an opinion concurring in part and dissenting in part, post, p. 136. Brennan, J., filed a dissenting opinion, in which Marshall, J., joined, post, p. 137.\nSimon B. Karas, Assistant Attorney General of Ohio, argued the cause for petitioners. With him on the briefs were William J. Brown, Attorney General, and Richard David Drake, Assistant Attorney General.\nJames R. Kingsley, by appointment of the Court, 453 U. S. 911, argued the cause and filed a brief for respondent Isaac. Richard L. Aynes argued the cause for respondents Bell and Hughes. With him on the brief for respondent Bell were Kathleen S. Aynes and J. Dean Carro. Messrs. Aynes and Carro filed a brief for respondent Hughes.\nTogether with Perini, Correctional Superintendent v. Bell, and Engle, Correctional Superintendent v. Hughes, also on certiorari to the same court (see this Court\u2019s Rule 19.4).\nBriefs of amici curiae urging reversal were filed by Solicitor General McCree, Assistant Attorney General Jensen, and Deputy Solicitor General Frey for the United States; and by J. Stanley Needles for the Ohio Prosecuting Attorneys Association.\nBriefs of amici curiae urging affirmance were filed by Gregory L. Ayers for the Ohio Criminal Defense Lawyers Association; and by John B. Midgley for the Institutional Legal Services Project."
+  },
+  "file_name": "0107-01",
+  "first_page_order": 179,
+  "last_page_order": 223
+}

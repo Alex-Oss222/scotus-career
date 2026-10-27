@@ -1,0 +1,45 @@
+{
+    "stage":  "Historical reconciliation",
+    "case":  "Jackson v. Benson, No. 98-376",
+    "cutoff":  "1999-03-16",
+    "coverage":  "Complete JACKSON_COMMITMENTS; C_NEUTRAL Jackson section; complete C_JACKSON_FOCUSED; C_COMPARATOR_SAFE Jackson section; complete exact statute and supplied integrated-curriculum excerpt; Wisconsin opinion paragraphs 111-115 only for remedy. Complete Sullivan current public copy was read in preceding authorized reconciliation work and retained. No renewed complete read of Wisconsin opinion or original prior writings is claimed.",
+    "exclusions":  "No present-case Stone supplement, raw comparator, combined brief, Record, private continuity, assignment material, or top-level restricted material.",
+    "historical_supreme_court_merits_comparator":  false,
+    "new_neutral_facts":  false,
+    "commitment_changes":  false,
+    "git_commit_claim":  false,
+    "files":  [
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_JACKSON_COMMITMENTS.md",
+                      "sha256":  "6FEF775666372574C135B0551889AE1F33A91EA1EBEB35821E6FF08E6E4CAC9F"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_C_NEUTRAL.md",
+                      "sha256":  "C8E39CA154170E6E33C56321838A7AC07E120279E65582E09FE8C90DA8B81ED9"
+                  },
+                  {
+                      "path":  "terms/OT1998/freeze/OT_1998CHUNK5_C_COMPARATOR_SAFE.md",
+                      "sha256":  "DCF2557D772F3D9819ADBCEAEC3F99805B32246E160680D3E10478284E0E4642"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/OT_1998CHUNK5_C_JACKSON_FOCUSED.md",
+                      "sha256":  "B771D1B763AEF09C5CBB901DD4663CE54007BAE274980AAE30589094E89C49AD"
+                  },
+                  {
+                      "path":  "terms/OT1998/entering-law/american_manufacturers_v_sullivan_merits_1999-03-03.md",
+                      "sha256":  "B676848C503659AFEDDC68063F425EFC0F835BB574161759009ED561AAE100E1"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_c/jackson_statute_exact.txt",
+                      "sha256":  "3D46868269CCA426F2A32401B6B63E3AD715E9347B6E3573FB5DB74ECD1E02B9"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_c/jackson_integrated_curriculum_exact.txt",
+                      "sha256":  "F649A461C0289FC212666439CAE58657B264EA5F2AE63BBCD17183CB63A866C7"
+                  },
+                  {
+                      "path":  "terms/OT1998/sources/chunk5_c/jackson_wisconsin_exact.txt",
+                      "sha256":  "A12CC2199331FA2F857D266A913558EF8745A6FB24EBC0239EE90A243E2EE0A9"
+                  }
+              ]
+}

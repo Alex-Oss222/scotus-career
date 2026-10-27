@@ -1,0 +1,2688 @@
+G p FILED 
+No. 97-2000 ) WY 10 I 
+MEFICE OF THE CLERK 
+——“—IOUEME COURT, U.S. 
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+AMERICAN MANUFACTURERS MUTUAL INSURANCE 
+COMPANY, ET AL., PETITIONERS 
+
+
+v. 
+
+
+DELORES SCOTT SULLIVAN, ET AL., RESPONDENTS 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Third Circuit 
+
+
+BRIEF FOR PETITIONERS 
+ROBERT MCL. BOOTE MICHAEL W. MCCONNELL 
+BuRT M. RUBLIN Counsel of Record 
+Ballard Spahr Andrews & ALAN E. UNTEREINER 
+Ingersoll, LLP STEFFEN N. JOHNSON 
+1735 Market Street SHARON SWINGLE 
+Philadelphia, PA 19103 Mayer, Brown & Platt 
+(215) 665-8500 190 South La Salle Street 
+Chicago, IL 60603 
+Counsel for All Petitioners (312) 782-0600 
+Except Donegal Mut. Ins. Co. 
+Counsel for All Petitioners 
+ROBERT E. KELLY, JR. 
+Duane, Morris, Heckscher LLP 
+305 N. Front Street 
+Harrisburg, PA 17108 SP eh 
+(717) 237-5500 5\ 7 
+
+
+Counsel for Donegal Mut. Ins. Co. 
+
+
+QUESTIONS PRESENTED 
+
+
+Under Pennsylvania’s Workers’ Compensation Act, 77 Pa. 
+Stat. Ann. § 531(5) and (6), workers’ compensation insurers are 
+permitted to withhold payments to health care providers during a 
+utilization review to determine whether a particular medical 
+treatment was reasonable and necessary. The questions presented 
+are: 
+
+1. Whether private companies providing workers’ 
+compensation insurance to private employers become “state actors” 
+for purposes of the Due Process Clause when they elect to use a 
+
+2. Whether the Due Process Clause requires workers’ 
+compensation insurers to pay disputed medical bills prior to a 
+determination that the medical treatment was reasonable and 
+
+
+necessary. 
+
+
+ii 
+
+
+RULE 24.1(b) AND 29.6 STATEMENT 
+
+
+Pursuant to Rule 24.1(b), petitioners state that in addition to 
+here (also defendants in the court below) include Commercial 
+Union Insurance Company, Continental Casualty Company, 
+Donegal Mutual Insurance Company, Hartford Fire Insurance 
+Company (misidentified in the Third Circuit caption as “Hartford 
+Mutual Insurance Company”), Insurance Company of North 
+America (misidentified in the Third Circuit caption as “CIGNA 
+Corporation”), United States Fidelity and Guaranty Company 
+(misidentified in the Third Circuit caption as “USF&G Insurance 
+Company”), and Zurich Insurance Company (misidentified in the 
+Third Circuit caption as “Zurich American Insurance Company”).” 
+
+Defendants below who are respondents here are the School 
+District of Philadelphia, the Pennsylvania Secretary of Labor and 
+Industry, the Director of the Pennsylvania Bureau of Workers’ 
+Compensation, the Pennsylvania Insurance Commissioner, the 
+. Pennsylvania Treasurer, and the Director of the State Workers’ 
+Insurance Fund. 
+
+
+In addition to Delores Scott Sullivan, the individual plaintiffs 
+in this putative class action include William Battle, Louis 
+Baumgartner, Anthony Cancila, Christopher Costello, William C. 
+Dillon, by his guardian and next friend Pauline Dillon, Terrence 
+Ervine, Lisa Lex, Charles Matthews, and Susan Hansen. The 
+organizational plaintiffs are the Philadelphia Area Project on 
+Occupational Safety and Health and the Philadelphia Federation of 
+Teachers. All of the plaintiffs below are respondents here. 
+
+
+Pursuant to Rule 29.6, a list of all parent companies and 
+nonwholly owned subsidiaries of each of the corporate petitioners 
+is contained in the Petition for a Writ of Certiorari at ii-iii. United 
+States Fidelity and Guaranty Company has two additional non- 
+wholly owned subsidiaries: JNO Industrial, Inc. and Octagon 
+Services, L.L.C. 
+
+
+The parties stipulated below to a substitution of Insurance Company 
+of North America for CIGNA Corporation. 
+
+
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED ..........--- ee eeuues i 
+RULE 24.1(6) AND 29.6 STATEMENT ............. ii 
+TABLE OF AUTHORITIES .........-- cc eeuccees vi 
+nT (tte ca beneseceseceocters oes l 
+DT. cits eke debe ese eseeeeo eels 1 
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED ........ 2... eues l 
+ae ee Eid sc ln's o bls 6 aW~ 080 0 cos 1 
+A. Pennsylvania’s Workers’ Compensation Statute 
+And Its 1993 Cost-Containment Initiatives ...... 2 
+B. Proceedings In The District Court............ 6 
+C. Proceedings In The Court of Appeals ......... % 
+INTRODUCTION AND SUMMARY OF 
+SE ee eee eS ere 10 
+CT . ccccc tk Widnnwee a taseececes 11 
+
+
+I. PRIVATE INSURANCE COMPANIES DO NOT 
+BECOME STATE ACTORS BY INITIATING UTILI- 
+ZATION REVIEW OR WITHHOLDING PAYMENTS 
+TO HEALTH CARE PROVIDERS ............ 11 
+A. A Private Insurer’s Decision To Initiate Utilization 
+
+Review Or To Withhold Payments To Health Care 
+Providers Does Not Transform The Insurer Into An 
+a Se 14 
+
+
+2. The Private Insurers Are Not Acting Under 
+Se Se eee ee 20 
+
+
+iv v 
+
+
+TABLE OF CONTENTS — Continued TABLE OF CONTENTS — Continued 
+Page Page 
+3. Pennsylvania's Ministerial Role In The Utiliza- 4. The Government's Interest ............ at 
+tion Process Does Not Place The State's 
+Semteeee” Gn Tho Pie teen’ CEP Seated acacsenree 45 
+Conduct Nor Does It Make The State A Joint C. Withholding Of Payment Pending Resolution Of 
+Participant With The Insurers .......... 22 Coverage Issues Comports With Traditional Practice 
+4. The Pri ' Are Not Fulfilling Under State And FederallLaw ............. 47 
+Constitutional Obligations Of The State 25 EE ‘> coat oa ite edhe widthe ass oe sod ay 6a 50 
+
+
+ll. AN INSURER’S WITHHOLDING OF PAYMENT TO 
+HEALTH CARE PROVIDERS FOR DISPUTED 
+MEDICAL TREATMENT DURING UTILIZATION 
+REVIEW DOES NOT VIOLATE THE EMPLOYEE'S 
+RIGHT TO DUE PROCESS ..............+-. 29 
+
+
+A. Workers’ Compensation Beneficiaries Have Not 
+Payment Of Their Health Care Providers’ Bills .. 32 
+
+
+1. Employees Have No Right To Challenge The 
+Procedures Used To Determine The Eligibility 
+Of Their Health Care Providers For Payment 32 
+
+
+2. Procedures For Determining The Reasonable- — 
+ness And Necessity Of Health Care Services 
+
+
+Are More Analogous To An Initial Application 
+For Benefits Than To A Termination Of Eligi- 
+DP path uuhees saan es ¢ 35 
+
+
+B. The Procedures Involved In This Case Easily Satisfy 
+Due Process Under The Mathews Balancing Test . 38 
+
+
+TP 9° RRR irre a 39 
+
+
+3. The Value Of The Additional Safeguard .... 42 
+
+
+vi 
+TABLE OF AUTHORITIES 
+
+CASES 
+Adickes v. S.H. Kress & Co., 398 U.S. 144 (1970) ........ 20 
+Anaioem Valiay Plant 1 Us 308 (1968) 2 16 
+Andrews v. Federal Home Loan Bank, 998 F.2d 214 
+
+GG. WHEE Co ake co cad rekccns cadctene cis 25 
+Barnes v. Lehman, 861 F.2d 1383 (Sth Cir. 1988) ........ 17 
+Bigelow v. Virginia, 421 U.S. 809 (1975) ............. 45 
+Blake v. Wilson, 112 A. 126 (Pa. 1920) ................ 2 
+Blum v. Yaretsky, 457 U.S. 991 (1982) ..........455. passim 
+Brock v. Roadway Express, Inc., 481 U.S. 252 (1987) ...... 38 
+Burnham v. Superior Court, 495 U.S. 604 (1990) ......... 48 
+pues US. 71 asl) _— iy Tae, 16, 28 
+Cisneros v. Alpine Ridge Grp., 508 U.S. 10 (1993) ........ 34 
+Civil Rights Cases, 109 U.S. 3 (1883) .............. 11, 12 
+Connecticut v. Doehr, 501 U.S. 1 (1991) ............ 38, 47 
+ste cts Be re 7 ase. 
+Davis v. Metro. Hous. Auth., 751 F.2d 180 
+
+GhGE. WED nee iousbwhs co MeV rCKNS. 34 
+Dillard v. Industrial Comm'n, 416 U.S. 783 (1974) ....... 19 
+Edmonson v. Leesville Concrete Co., 500 U.S. 
+
+gai pag ty hye (ne lantern ge 14, 18, 24 
+Estelle v. Gamble, 429 U.S. 97 (1976) ...... 2.25.45. 25 
+Eu v. San Francisco County Democratic Cent. Comm. , 
+
+Sp a SE oe ee cok bes le ke tan 12 
+
+
+Evans v. Newton, 382 U.S. 296 (1966) ............545. 18 
+
+
+vii 
+
+
+FDIC v. Mallen, 486 U.S. 230 (1988) ..............5. 43 
+Flagg Brothers, Inc. v. Brooks, 436 U.S. 149 (1978) 15, 16, 18, 22 
+
+
+a v. Workers’ Compensation Comm'n, 
+1 WL 93843 (4th Cir. Mar. 5, 1996), aff'g 
+
+
+878 F. Supp. 852 (E.D. Va. 1995) ............... 17 
+CeorBtn Cie 1896), cent, denied, 119 §. Ct 746 (1997 Pod oa: 
+Georgia v. McCollum, 505 U.S. 42 (1992) ............. 25 
+Gilbert v. Homar, 117 S. Ct. 1807 (1997) ..... 2.0.0... 38 
+Goldberg v. Kelly, 397 U.S. 254 (1970) ............. passim 
+Gregory v. Town of Pittsfield, 470 U.S. 1018 (1985) ....... 37 
+Grenz v. EBI/Orion , Inc., 1992 WL 158158 
+
+on en oe ek ow eu eis 17 
+Heckler v. Ringer, 466 U.S. 602 (1984) ............... 46 
+Fens? A 2d es Commer Ct 19 Hi = pectheh 17 
+Honda Motor Co. v. Oberg, $12 U.S. 415 (1994) ...... 47, 49 
+Hudgens v. NLRB, 424 U.S. 507 (1976) .............. 16 
+Wop. SIS US. 337 (198 a, ole de 12 
+Hurtado v. California, 110 U.S. 516 (1884) .......... 48, 49 
+Jackson v. Metropolitan Edison Co., 419 U.S. 345 
+
+re: ees ee eee ee ee passim 
+Lassiter v. Department of Soc. Servs., 452 U.S. 18 (1981) ... 38 
+Lochner v. New York, 198 U.S. 45 (1905) ............. 13 
+Logan v. Zimmerman Brush Co., 455 U.S.422 (1982) ...... 38 
+
+v. Edmondson Oil Co., 457 U.S. 922 
+
+8S es eS b 6 BS VCE ee OOS HE passim 
+
+Lyng v. Payne, 476 U.S. 926 (1986) ............0005. 37 
+
+
+vill 
+Marsh v. Alabama, 326 U.S. 501 (1946) ..... 2... 6665. 16 
+Mathews v. Eldridge, 424 U.S. 319 (1976) ........... passim 
+Missouri Pac. Ry. Co. v. Humes, 115 U.S. 512 (1885) _ . . . 48, 49 
+Mote 8 N28 116 (Pa, Commu, Ch 1051) ee eRe 4, 38 
+Moose Lodge No. 107 v. Irvis, 407 U.S. 163 (1972) ....... 26 
+MWS US (is How) 272 (1850) ne “7 
+SE en eee oe 2 0. is 
+Parham v. J.R., 442 U.S. 584 (1979) 20 6 ees 45 
+Peer v. Griffeth, 445 U.S. 970 (1980) .............45. 37 
+Peterson v. City of Greenville, 373 U.S. 244 (1963) ....... 20 
+Rendell-Baker v. Kohn, 457 U.S. 830 (1982) .......... passim 
+Rust v. Sullivan, 500 U.S. 173 (1991) .......... sae 12 
+Santosky v. Kramer, 455 U.S. 745 (1982) ....... 2.6665. 38 
+Schall v. Martin, 467 U.S. 253 (1984) .. 2... ow eee 48 
+Schweiker v. McClure, 456 U.S. 188 (1982) ...........4. 46 
+Shelley v. Kramer, 334 U.S. 1 (1948) ........... 11, 16, 24 
+Silas v. Smith, 361 F. Supp. 1187 (E.D. Pa. 1973) .. ..... 20 
+Smith v. Allwright, 321 U.S. 649 (1944)... 2.2 ........ 18 
+
+
+Stanescu v. Aetna & Cas. Ins. Co., 1996 Wi 466648 
+2d Cir. Aug. 16, 1996), cert. denied, 117 5. Ct. 1697 
+
+
+RR ee area he eae ee 17 
+Swann v. Gastonia Hous. Auth., 502 F. Supp. 362 
+
+ER 6 ee a4 
+Tulsa Collection Servs., Inc. v. Pope, 
+
+i err rn 22, 24 
+
+
+ix 
+
+
+Ome US. 715 (1990) — 0 A) me Dea ae 45, 46 
+Walters v. National Ass'n of Radiation Survivors, 
+
+GUO. PUB nc ccc ccc cccdunecss 37, 45, 47 
+Washington v. Glucksberg, 117 S. Ct. 2258 (1997) ... 47, 48, 50 
+West v. Atkins, 487 U.S. 42 (1987) ..........0..00.. 25 
+STATUTES AND REGULATIONS 
+Ne S628. eA ok ora ex 49 
+Nee Ne sd bard atthe i 
+NE SEES ER TE Te, COE 34 
+BN ee ee oe 34 
+Nasi ccd, Suausrk Dacemmvees 7 
+a gut 49 
+34 Pa. Code §127.208(e) ..................... 4, 5, 21 
+ee es 4 
+Ln ae ae 5, 21 
+oe eee EST ee a eae ey ae 42 
+ie bee 42 
+ENN iad ir in Se) Saws ob ad 6 
+Ph I EG. Sk ERENT grew ok 22-23 
+SE See es: Ce eS 4 
+34 Pa. Code §127.404(o)(d) .. 0... eee ee, 36 
+eS). ee ee. ae 36 
+Ce ee ee oat 36 
+eS a ee See 4, 22 
+
+
+A I ii ink Cedi eliedidcuds cas passim 
+
+
+Code $127.467 20... cece cet ee tee eee reeee 5 77 Pa, Stat. Ann. § 717.1(a) ... 6... ee eee eee. 5, 21, 42 
+c.  PPer rr  oRECE TESTE kA. 5 77 Pa. Stat. Ann. § 774 2.0... cece eee eee eens 17 
+, Code GIZTATO 0. cece cece ewer eeeees 36 77 Pa. Stat. Ann. §971(0) . «1. eee ee eee eee 17 
+: Cee IRD 6.50 ON TERS 5, 43 ss ne edb bh cae Rabe eds 4, 30, 38 
+, Cole GTFATD 6. sc BENS EL A 36 OF te PATS. eT AG cee 3 
+c. | 2 SP eee ie 5 eee er ee eee 3 
+
+Civil Ri Act of 1964, Pub. L. No. 88-352, 
+p CORD GESP ATER «ee eee secre cession t ven se tien . ee eu dl Lim ws 16 
+25) oe 
+: Code §131.41 ce ct oe Ge € O49 S16 Ee OPEV Cr om 1 Civil . Act of 1968, Pub. al No. 90-284, 
+CT Pre rer Cre PS 17 82 Stat. 81 (1968) ..... S Hated a ica elal s base wore 16 
+MISCELLANEOUS 
+> ©. St . Serrerrrrrrerrre ter se l 
+D. BALLANTYNE & C. TELLES, WORKERS’ COMPENSATION IN 
+5 ek, Be Bo ioc vn cons cen tiadWalemeeeen 6 eee ae SS 23 
+eG | erg er es 435 1 tak icinbeii Ghedaaiin Wiekeiandl’ Ginaaienicnins be 
+, eS  erererere rr rr rr 42 PUNY CIP ok 0.9 tree's Hh dneeeniew ss. 3, 40 
+Fe Danzon, Tort Liability: A Mi Managed Care?, 
+ee ee OS gg chain eo eae nee 2 eet. Lea STUD Ll ” ppg vnieieaee a 
+. Stat —Ann. § 501(a(1) seeé 6s © AWD 6 ee Oe OS 2 Dep't of Labor & Industry Workers’ Compensation Medical 
+we 8) Re ererrrrey Cee oe 35 Cost Containment, PENNSYLVANIA BULLETIN 4875 
+es te Steins Vad eS © © 8 fe er ee 43 
+Stat. Ann. §531(1) .. 6 1 eee eee eee eee 3, 35, 40 S. ECCLESTON & C. YEAGER, WORKERS COMPENSATION 
+. © St) Serer re 4,6 RESEARCH INSTITUTE, MANAGED CARE AND MEDICAL 
+Cost CONTAINMENT IN WORKERS’ COMPENSATION, 
+Stat. Ann. § S31(3MHHI) wee ee eee 6 A NATIONAL INVENTORY, 1997-1998 (1997) ..... 31, 48, 49 
+Feldstein, et al., Private Cost Containment: The of 
+
+ts hee DU... s cw ck eee passim ee. a, Se a 
+
+Se S00 Pr so rede ce e 1 and Expenditures, 318 NEW ENG. J. MED. 1310 (1988) ... 39 
+Dc weve CRUDE OAabes 5, 36 Friendly, Some Kind of Hearing, 123 U. Pa. L. Rev. 1267 
+
+Stat. Ann. § 53161)... ...--. lan tay liens aticbestetralygle tte damn 45 
+a eed ueews 6 oe ee een 5, 21, 38 
+
+. Stat. Ann. § 531(6ii) . . . . Kelly & Kellie, App P of Medical Care, 
+
+ee. lll Ry ee eee 21, 41 14 ARCH. PATHOL. LAB. MED. 1119 (1990) ......... 39 
+
+"oe 6 | |, Wepre ra ese ee 42 Leape, Practice Guidelines and Standards: An Overview, 
+
+
+QUALITY REVIEW BULLETIN 42 (Feb. 1990) 
+
+
+J. LOCKE, SECOND TREATISE OF GOVERNMENT [1690] 
+
+
+(5. PO MEEEED.. « 06665 ch cated NNER 
+Mar Rethintine Constitutional Rights : 
+ares 
+(1985) sobveeeeersed ee hes rae eee tds ewe oN 
+Pa. LEGIS. J. — HOUSE (Dec. 11, 1991) ...........0555, 
+PA. LEGIS. J. — SENATE (JUNE 16, 1993) ..........05555. 
+
+
+Sense Out of Chaos 
+yf ye 7 U. PLA. L. REV. 737 
+
+
+Schwarzchild, Value Pluralism and the Constitution: In 
+Defense of the State Action Doctrine 1988 Sup. Cr. 
+
+
+T Daetne wey enh me mf et bp al 
+Compensation Time for Re-evaluation and 
+Re-direction, 9 NO. 7 HEALTH LAW 16 (1997) ........ 
+L. TRIBE, GCE: ace eee eR 
+U.S. CHAMBER OF COMMERCE, 1997 ANALYSIS OF WORKERS’ 
+eS ere Ee ei eee 
+—_— tants. The Expansion of Libliy for 
+and M. yar tir 
+L. REV. oo DEERE Gs POS © Fi Re © 
+
+
+Wickizer, The Effect of Utilization Review on Hospital 
+Use and , in REVIEW, REGULATE OR REFORM: 
+WHAT WORKS TO CONTROL WORKERS’ COMPENSATION 
+GE Ne Ch 6 ek i a et ie a ew 08 5 
+
+
+Letter from Tin L. Wisecarver, President, Pennsylvania 
+Suckes Ieuneel Se of 
+Labor & . Commonwealth of P, = 
+
+
+eae eee a oe ee ee oe er ea a ee a a Se ar a 
+
+
+Compensation Bureau, to Richard Himler, 
+Director, Bureau of Workers’ Compensation, f 
+coe 
+
+
+Industry, 
+Oct. 29, 1998), posted at < /Iwww.li 
+anny Bim Yost > eg f 
+
+
+Workers vey 
+pm ng us. (PA_ 
+Governor/wcleg3. html > 
+
+
+Letter from sation Rating Bureau, 1 President, Pennsylvania 
+
+
+BRIEF FOR PETITIONERS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-40a) is 
+reported at 139 F.3d 158. The opinion of the district court 
+dismissing the claims against the private insurers for lack of state 
+action (Pet. App. 41a-6la) is reported at 913 F. Supp. 895. The 
+district court’s subsequent opinion dismissing the complaint and 
+holding that the Pennsylvania statute does not violate procedural 
+due process (Pet. App. 62a-82a) is unreported. 
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on March 
+13, 1998. The petition for a writ of certiorari was timely filed on 
+June 11, 1998, and granted on September 29, 1998. This Court’s 
+jurisdiction rests on 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+INVOLVED 
+
+
+The Fourteenth Amendment to the United States Constitution 
+provides in relevant part that “[njo State shall * * * deprive any 
+person of life, liberty, or property, without due process of law.” 
+The pertinent provisions of the Pennsylvania Workers’ Compensa- 
+tion Act (77 Pa. Stat. Ann. § 1 ef seq.) and relevant regulations are 
+set forth at Pet. App. 83a-103a. 
+
+
+STATEMENT 
+
+
+This case involves a constitutional challenge to actions of 
+private insurance companies taken pursuant to Pennsylvania’s 
+workers’ compensation law. Pennsylvania authorizes a workers’ 
+compensation insurer who believes that medical care provided to an 
+injured worker may be unreasonable or unnecessary to obtain 
+“utilization review” — an evaluation of the treatment by an 
+independent medical professional — and to withhold payment to 
+health care providers for the disputed care until review is com- 
+pleted. The Third Circuit held that when an insurance company 
+initiates this procedure and withholds payment, it “become[s] an 
+arm of the State,” subject to the restrictions imposed by the 
+Fourteenth Amendment. Pet. App. 15a. It also held that the 
+private insurers violate the Due Process Clause by withholding 
+payment pending the outcome of utilization review. 
+
+
+2 
+
+
+A. Pennsylvania’s Workers’ Compensation Statute And Its 
+1993 Cost-Containment Initiatives 
+
+
+Workers’ compensation is a system under which employers are 
+obligated to pay for medical care (and partial wage replacement) for 
+employees who sustain work-related injuries or contract occupa- 
+tional diseases. Pet. App. 13a-14a; U.S. CHAMBER OF COMMERCE, 
+1997 ANALYSIS OF WORKERS’ COMPENSATION LAWS, at vi. It is 
+a no-fault substitute for the prior system of compensation under the 
+common law of tort. See Blake v. Wilson, 112 A. 126, 128 (Pa. 
+1920). 
+here, is typical. Like most States, Pennsylvania makes workers’ 
+compensation coverage both mandatory and “exclusive * * * of any 
+and all other liability.” 77 Pa. Stat. Ann. § 481(a). The law 
+in tort and replaces it with an administrative procedure aimed at 
+facilitating the prompt resolution of disputes between employers (or 
+their insurers) and employees. The vast majority of claims are 
+resolved through voluntary agreement. See D. BALLANTYNE & C. 
+TELLES, WORKERS’ COMPENSATION IN PENNSYLVANIA, at xix 
+(1991). Disputes are adjudicated by workers’ compensation judges, 
+with a right of appeal to the Workers’ Compensation Appeal Board 
+(“Board”) and then to the Pennsylvania courts. The Bureau of 
+Workers’ Compensation (“Bureau”), a part of the Department of 
+Labor and Industry, administers the system and enforces compli- 
+ance with workers’ compensation laws. 
+
+To ensure that employers can meet their financial obligations, 
+Pennsylvania requires them to “obtain insurance — either through 
+a private insurance carrier or through the State Workmen's 
+Insurance Fund,” a state-conducted insurer — “or to self-insure.” 
+Pet. App. 3a. If the employer contracts with an insurer for 
+coverage, the insurer “assume[s} the employer’s liability” to pay 
+workers’ compensation benefits. 77 Pa. Stat. Ann. § 501(a)(1). 
+Private insurers are not required to sell workers’ compensation 
+insurance and are free to decide which employers to underwrite. 
+All features of workers’ compensation insurance coverage that are 
+not dictated by law are determined by contract. Moreover, “no 
+
+
+3 
+
+
+aspect of the workers’ compensation system is financed with public 
+tax dollars.” D. BALLANTYNE & C. TELLES, supra, at 15.' 
+
+
+This case involves the procedures for resolving disputes over 
+reimbursement of providers for medical care rendered to injured 
+employees. The law requires insurers or self-insured employers’ 
+to pay only for “reasonable” and “necessary” medical care and 
+services. 77 Pa. Stat. Ann. § 531(1), (5). Prior to 1993, however, 
+insurers had no effective means to limit payments to such care. 
+The “spiraling costs of medical treatment for work-related injuries” 
+(Pet. App. 3a) became a “significant problem{] in the Pennsylvania 
+system.” D. BALLANTYNE & C. TELLES, supra, at 30. Between 
+1983 and 1991, workers’ compensation medical costs increased by 
+240%. See D. BALLANTYNE, REVISITING WORKERS’ COMPENSA- 
+TION IN PENNSYLVANIA, at 67 (1997). By 1993, the State 
+Workmen's Insurance Fund was on the verge of bankruptcy. PA. 
+Leais. J. — SENATE 1044 (June 16, 1993) (statement of Sen. 
+Fisher). Employers had just been subjected to a 24% rate increase 
+in insurance premiums. /d. at 1048 (statement of Sen. Mellow). 
+In an effort to control these costs, the Pennsylvania legislature 
+
+
+Act 44 authorizes an insurer who receives a bill for medical 
+care that it believes is unreasonable or unnecessary to obtain 
+utilization review. 77 Pa. Stat. Ann. § 531(5). Insurers are 
+
+
+4 
+
+
+made to health care providers, even if the treatment is later 
+determined to be unreasonable or unnecessary. Pet. App. 27a; see 
+Moats v. Workmen's Compensation Appeal Bd., 588 A.2d 116, 118 
+(Pa. Commw. Ct. 1991). Insurers and self-insured employers are 
+entitled to reimbursement for excessive payments from a special 
+fund, but the fund is financed entirely from assessments levied on 
+the insurers and self-insured employers themselves. 77 Pa. Stat. 
+Ann. § 999. 
+
+
+Under the Act, employees are permitted to go to the providers 
+of their choice after the first 90 days of treatment for a job-related 
+injury. 77 Pa. Stat. Ann. § 531(1)(i). Providers submit bills for 
+treatment of the injured employee directly to the insurer. /d. § 
+§31(5). An insurer has thirty days either to pay the bill or to file 
+for utilization review, which tolls the payment deadline for disputed 
+treatment. Jbid.; 34 Pa. Code §§ 127.208(e)-(f), 127.403. Utiliza- 
+tion review is initiated by submitting to the Bureau an original and 
+eight copies of a one-page form. 34 Pa. Code § 127.452(a); J.A. 
+5. The decision to obtain utilization review is made independently 
+of the Bureau, which neither encourages nor discourages utilization 
+review but “simply provides the forms” for initiating the process. 
+C.A. App. B199-B200; see also Pet. App. 3a. 
+
+
+The Bureau conducts no substantive review of the form to 
+determine whether utilization review is appropriate; requests are 
+reviewed solely for facial adequacy. Pet. App. 5a. If the request 
+is incomplete or facially defective, the Bureau rejects it and sends 
+the requester a form letter identifying the basis for rejection. /bid. ; 
+C.A. App. C23. If the request is complete and appears on its face 
+to satisfy the formal criteria for utilization review, it is forwarded 
+to a utilization review organization (“URO”) selected randomly 
+from a list of approved UROs. Pet. App. 6a; 34 Pa. Code § 
+127.453. 
+
+
+Next, the Bureau notifies the employee, the insurer, and the 
+health care provider that a request for utilization review has been 
+received and forwarded to the URO. Pet. App. 6a; 34 Pa. Code 
+§ 127.453. The current notice informs the employee that a deter- 
+mination that treatment is not reasonable or necessary “may result 
+in these treatments not being paid.” J.A. 50. The employee is also 
+informed that he or she may “submit a written personal statement” 
+
+
+provider of the treatment under ”" 77 Pa. Stat. Ann. § 
+531(6)i). The reviewer is required to give the provider an 
+Opportunity to discuss treatment decisions, and must initiate 
+
+
+and 
+find treatment to be reasonable and necessary if the “ ’s 
+
+
+6 
+
+
+employee for treatment determined to be unreasonable or unneces- 
+sary. 34 Pa. Code § 127.211(0). 
+
+The statute includes within the definition of “medical services” 
+not only “services rendered by physicians” but also the services of 
+“any * * * physical therapist, psychologist, [or] chiropractor.” 77 
+Pa. Stat. Ann. §§ 29 (defining “health care provider”), 531(1)i), 
+531(3\iii). Treatment by non-physician providers generates a dis- 
+proportionate number of the disputes over the reasonableness and 
+necessity of care.‘ Of the ten individual plaintiffs in this case, for 
+example, one worker was receiving twice-weekly chiropractic 
+sessions more than six years after his injury (J.A. 28); one was 
+undergoing “aquatic therapy” (id. at 30); one was still receiving 
+after his injury, and nearly twelve years after he had returned to 
+work (and who was running his own business) (id. at 35-36); and 
+one was receiving psychological and biofeedback therapy (id. at 
+42). The Third Circuit stated that procedural safeguards are 
+“particularly” pertinent to recipients “of unorthodox, naturopathic, 
+or non-traditional” treatments “such as * * * acupuncture or 
+chiropractic manipulation.” Pet. App. 31a. 
+
+
+B. Proceedings In The District Court 
+
+
+Plaintiffs in this putative class action (respondents here) are ten 
+individuals who were or are employed in Pennsylvania and two 
+organizations thet represent Pennsylvania employees. Pet. App. 9a 
+& nn.7-8.° The private defendants (petitioners here) are American 
+
+
+* For example, approximately 37% of requests for utilization review 
+involve care provided by chiropractors, while only 17% involve care 
+provided by family doctors or general practitioners. Letter from Timothy 
+L. Wisecarver, President, Pennsylvania Compensation Rating Bureau, to 
+Richard Himler, Director, Bureau of Workers’ Compensation, Dep't of 
+Labor & Industry, Commonwealth of Pennsylvania (Oct. 29, 1998), 
+posted at <http://www.li.state.pa.us/wcletter.html > . 
+
+
+* The proposed plaintiff class “consists of more than 40,000 workers’ 
+compensation recipients” who “have been, or will be in the future, 
+receiving medical benefits pursuant to the Pennsylvania Worker's 
+Compensation [Act]” and whose benefits have been or will be suspended 
+
+
+7 
+
+
+Manufacturers Mutual Insurance Company and seven other private 
+insurance companies that write workers’ compensation policies in 
+Pennsylvania. Plaintiffs also named as defendants the School 
+District of Philadelphia and various state officials, who are also 
+respondents here.* Plaintiffs’ amended complaint requested that the 
+court certify a defendant class of all insurance companies and self- 
+review procedure and withheld reimbursement for medical care 
+during the pendency of that review. J.A. 16. 
+
+Plaintiffs alleged that Act 44’s utilization review procedures 
+violate due process and 42 U.S.C. § 1983 because they permit the 
+deprivation of “medical benefits” without “advance notice and prior 
+opportunity to be seen and heard * * *.” J.A. 43. They sought 
+declaratory and injunctive relief, restoration of benefits, and 
+compensatory as well as punitive damages. 
+
+
+The insurers moved to dismiss on the ground that, as private 
+companies, they are not state actors and thus cannot be sued for 
+violations of the Due Process Clause or for action under color of 
+state law (42 U.S.C. § 1983). After limited discovery, the district 
+court granted their motion. Pet. App. 4la-6la. It explained that 
+the government’s involvement in the private insurers’ decision to 
+at 59a. The State did not promote, support, or encourage the 
+decision of an insurer to obtain utilization review of disputed 
+treatment in a particular case, and the State took no action to 
+influence a utilization reviewer's determination whether disputed 
+the State merely provided private actors with a remedy for 
+
+The state officials who remained as defendants subsequently 
+moved to dismiss on the ground that the Pennsylvania statute does 
+
+
+during utilization review. J.A. 12-13, 16. 
+
+
+* For a complete list of parties, see page ii, supra. On October 5, 
+1998, this Court denied petitions for certiorari filed by the School District 
+of Philadelphia (No. 97-2030) and various officials of the Commonwealth 
+of Pennsylvania (No. 98-161). 
+
+
+motion, Pet. App. 62a-81a, after evaluating the process provided 
+by the statute under the balancing test set forth in Mathews v. 
+Eldridge, 424 U.S. 319, 335 (1976). The court concluded that 
+while an injured employee’s interest in continued receipt of medical 
+benefits was “significant” (Pet. App. 70a), it was less substantial 
+than the interest at stake in Goldberg v. Kelly, 397 U.S. 254 
+(1970), because eligibility is “not based on financial need,” and 
+because the employee “may have access to additional income 
+sources such as wage replacement.” Pet. App. 70a. In addition, 
+the court noted, the availability of full retroactive relief — as well 
+as 10% interest to the provider and litigation costs to the worker — 
+“lessens the potential harm to the individual employees.” Ibid. 
+The court observed that “nothing in the statute even requires that 
+the medical provider stop giving the challenged treatment.” /d. at 
+70a n.4. It also took note of the government interest in controlling 
+the “high costs of medical treatment, and the corresponding high 
+cost of insurance” in Pennsylvania. /d. at 75a. Balancing all of 
+nia law does not violate due process. ¥ 
+
+
+C. Proceedings In The Court Of Appeals 
+
+
+A panel of the Third Circuit reversed the district court's 
+rulings on both state action and due process issues. Pet. App. la- 
+40a. In holding that the private insurers are state actors, the court 
+of appeals emphasized that the workers’ compensation system is 
+mandatory in nature, abolishes the common law rights of employers 
+and employees, and provides “the exclusive remedy available to an 
+injured worker” in Pennsylvania. /d. at 13a-14a. The court also 
+stressed that, “[iJn creating and executing this system of 
+entitlements, the Commonwealth has enacted a complex and 
+interwoven regulatory web enlisting the Bureau, the employ..s, and 
+the insurance companies.” /d. at 14a. Pennsylvania 
+
+
+extensively regulates and controls the Workers’ Compensation 
+when they act under the construct of the Workers’ Compensa- 
+tion system, they are providing public benefits which honor 
+State entitlements. In effect, they become an arm of the State, 
+
+
+a 
+
+
+fulfilling a uniquely governmental obligation under an entirely 
+State-created, self-contained public benefit system. 
+
+
+Id. at 14-15a. The Pennsylvania law thus creates a “relationship” 
+between the State and the insurer that “more than suffices to satisfy 
+the constitutional requisites under the tests — varied though they 
+may be — for state action.” Jd. at 19a. 
+
+
+Turning to the due process issue, the Third Circuit held that 
+the notice provided to employees that payments might be withheld 
+i be given an ity to 
+
+Sak TT lies slau ahs a pelandlianin od enonedn of 
+challenged care to the utilization reviewer. Pet. App. 21a-33a. 
+Petitioners have not challenged those holdings in this Court. See 
+Pet. 22 n.12. The Third Circuit also evaluated whether payments 
+for disputed medical services could be withheld pending utilization 
+review, a question it characterized as whether employees were 
+entitled to “a pre-deprivation opportunity to respond to the 
+proposed termination of their medical benefits” under the Mathews 
+The Third Circuit acknowledged that Pennsylvania has a 
+legitimate interest in “containing the rising costs of medical care 
+and insurance payments,” and observed that “cost containment is 
+the purpose” behind the State’s enactment of the law authorizing 
+insurers to withhold payments to medical providers during utiliza- 
+tion review. Pet. App. 29a-30a. It rejected the district court’s 
+conclusion, however, that the risk of erroneous deprivation was 
+slight because utilization review involved the narrow question of 
+medical reasonableness or necessity, decided solely on the basis of 
+“unbiased, objective, and trustworthy” medical records. Jd. at 28a. 
+It also rejected the contention that in applying the Mathews test it 
+was required to “consider the conflicting private interest of the 
+insurance companies.” Jd. at 27a. “On balance,” the court 
+explained, “we are not convinced that any governmental interest 
+outweighs the [employees’] private interest” in uninterrupted 
+payment of providers. Jd. at 30a. The employee’s interest could 
+be adequately protected, the court held, only if insurers were 
+required to pay the disputed bills until workers are given “an 
+opportunity and time to submit a personal statement in writing” to 
+
+
+10 
+
+
+ihe utilization review organization “regarding the employee's view 
+of the reasonableness and/or necessity of the disputed medical 
+treatments.” /d. at 33a. 
+
+Accordingly, the Third Circuit declared unconstitutional the 
+statutory provision permitting suspension of payment, which 
+provides: 
+
+All payments to providers for treatment provided pursuant to 
+
+this act shall be made within thirty (30) days of receipt of such 
+
+bills and records unless the employer or insurer disputes the 
+reasonableness or necessity of the treatment provided pursuant 
+to paragraph (6) * * *. 
+
+
+77 Pa. Stat. Ann. § 531(5) (emphasis added). Pet. App. 24a. The 
+court reasoned that the italicized language — the provision it 
+deemed offensive — was severable, and struck it from the statute. 
+Id. at 25a. Under the Third Circuit's holding, therefore, the statute 
+requires an insurer to pay provider bills within thirty days of 
+receipt even if it seeks utilization review of the treatment. 
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+The question in this case is whether the Due Process Clause is 
+violated when private workers’ compensation insurer=, acting solely 
+on their own business judgment, delay payment of disputed claims 
+during the approximately two-month period it takes to determine 
+whether the claims are valid. Such decisions take place in the 
+thousands every month, in the context of almost every kind of 
+insurance. Indeed, analogous decisions — to delay payment of a 
+disputed contractual obligation until the dispute has been settled — 
+are commonplace in every kind of business. 
+
+Under the decision below, these routine business judgments 
+have been declared to “satisfy the constitutional i requisites” for 
+“state action.” Pet. App. 19a. The practical consequence of this 
+holding is to allow a federal court to cast aside Pennsylvania's 
+
+
+carefully considered legislative reforms of workers’ compensation 
+law and to substitute its own notions of how to balance the risks 
+
+
+between insurers and health care providers. Equally remarkably, 
+the court of appeals held that delaying the payment of a doctor’s 
+bill deprives the patient of due process of law. The practical 
+consequence of that holding is to require insurers to pay medical 
+
+
+11 
+
+
+claims before they can be examined for possible fraud and abuse. 
+That is a recipe for disaster in the health care financing system. 
+
+We will demonstrate below that both aspects of the Third 
+Circuit’s decision are in error. In Part I, we will show that the 
+unilateral business decisions of private insurance companies do not 
+constitute “state action” under any coherent theory, and that the 
+contrary holding below is a product of a loose and undisciplined 
+approach that is squarely at odds with at least three of this Court’s 
+decisions. In Part II, we will show that the individual plaintiffs 
+have not suffered any “deprivation” sufficient to support the due 
+process holding, and that even if they had, the procedures here are 
+fully adequate to satisfy due process. 
+
+ARGUMENT 
+
+
+I. PRIVATE INSURANCE COMPANIES DO NOT BE- 
+COME STATE ACTORS BY INITIATING UTILIZATION 
+REVIEW OR WITHHOLDING PAYMENTS TO 
+HEALTH CARE PROVIDERS 
+
+
+The very language of the Fourteenth Amendment — “[njo 
+State shall * * * deprive any person of life, liberty, or property 
+without due process of law” — bespeaks its applicability to 
+governmental bodies and not to private persons. Consistent with 
+this language, this Court has always maintained, ever since the 
+issue first arose in the Civil Rights Cases, 109 U.S. 3 (1883), that 
+“‘the action inhibited by the first section of the Fourteenth 
+Amendment is only such action as may fairly be said to be that of 
+the States.’” Blum v. Yaretsky, 457 U.S. 991, 1002 (1982) 
+(quoting Shelley v. Kramer, 334 U.S. 1, 13 (1948)). In short, the 
+Fourteenth Amendment “erects no shield against merely private 
+conduct.” Shelley, 334 U.S. at 13. 
+
+
+In all state action cases, the question posed is whether 
+constitutional norms designed to limit governmental power are 
+applicable to an arguably nongovernmental party. This distinction 
+between public and private lies at the very heart of liberal theory. 
+See generally J. LOCKE, SECOND TREATISE OF GOVERNMENT 44-73 
+[1690] (T. Reardon, ed. 1952). More specifically, the state action 
+doctrine serves three important functions. First, in some contexts, 
+the state action doctrine protects the federal structure of government 
+
+
+12 
+
+
+by limiting the scope of federal authority to its proper role in 
+enforcing constitutional provisions directed at the States. See Civil 
+Rights Cases, 109 U.S. 3 (1883). 
+
+Second, in some contexts, the state action doctrine is a 
+recognition of the fact that many constitutional norms are liberty- 
+enhancing when applied to the government yet liberty-infringing 
+when applied to private parties. Compare Hurley v. Irish-American 
+Gay, Lesbian and Bisexual Group, 515 U.S. 557, 572-73 (1995) 
+(because parade organizers were private parties, the obligation of 
+speech neutrality that would otherwise have attached to a public 
+parade had to yield to free speech rights of organizers), with Rust 
+v. Sullivan, 500 U.S. 173, 193-94 (1991) (free speech claim 
+rejected because the speakers were, in effect, communicating the 
+government’s own message and not their own). See also Corpora- 
+tion of Presiding Bishop of Church of Jesus Christ of Latter-Day 
+Saints v. Amos, 483 U.S. 327, 339 (1987) (application of religious 
+nondiscrimination requirement to a religious body would interfere 
+with religious freedom); Eu v. San Francisco County Democratic 
+Cent. Comm., 489 U.S. 214, 224-25 (1989) (application of political 
+neutrality requirements to political party would interfere with 
+political advocacy). Procedural due process norms — those at issue 
+here — make sense as applied to the government but would be 
+highly disruptive if applied to a family or a business. 
+
+Third — and most directly pertinent here — the state action 
+doctrine polices the boundary between judicial and legislative 
+authority. See Lugar v. Edmondson Oil Co., 457 U.S. 922, 936-37 
+(1982). Because constitutional norms (applicable to the govern- 
+ment) are directly enforceable by the judiciary, a finding of “state 
+action” has the effect of transferring regulatory authority from the 
+legislature to the courts. Where the constitutional principle is 
+procedural due process and the supposed “state actors” are 
+insurance companies, a finding of state action renders any aspect of 
+their business that can be characterized as “procedural” in nature 
+(which is much, since processing claims is at the heart of the 
+business) subject to judicial review — and the regulatory framework 
+established by statute becomes vulnerable to judicial second- 
+guessing. 
+
+
+13 
+
+
+In this case, for example, the effect of the “state action” 
+holding was to empower a panel of federal appellate judges to 
+second-guess the details of Pennsylvania’s statutory scheme for 
+regulation of the workers’ compensation insurance business, and to 
+overturn the balance the legislature struck between workers, health 
+manifest in the experience of this Court with economic substantive 
+due process (see Lochner v. New York, 198 U.S. 45 (1905)), such 
+transfers of authority from legislatures to courts are inconsistent 
+with the democratic spirit of our institutions, and frequently result 
+in bad policy as well. Not only are federal judges ill-equipped to 
+make informed judgments about the insurance business (and 
+others), but stare decisis makes constitutional litigation an inflexible 
+and dangerous tool for routine regulatory decisionmaking. 
+Constitutional rulings must be relatively fixed, and are not easily 
+changed or corrected in response to experience. Decisions such as 
+who should bear the risk of error when a provider is suspected of 
+giving unnecessary or unreasonable care require an exercise of 
+policy judgment on the basis of empirical experience, and should 
+not be set in constitutional concrete. For this reason, it is vitally 
+important that the limits of state action doctrine be observed, lest 
+broad areas of economic and social activity be placed under the 
+superintendence of constitutional courts rather than accountable 
+legislatures. See Marshall, Diluting Constitutional Rights: Rethink- 
+ing “Rethinking State Action,” 80 NW. U. L. REV. 558 (1985); 
+Schwarzchild, Value Pluralism and the Constitution: In Defense of 
+the State Action Doctrine, 1988 Sup. CT. REV. 129. 
+
+
+Unfortunately, the line between state and private action is not 
+always easy to draw. This Court’s decisions mandate careful and 
+rigorous attention to the factual and legal context. The Third 
+Circuit itself complained that courts faced with state action issues 
+“have employed various tests and standards that have been anything 
+but a model of clarity.” Pet App. 13a. Having recognized the 
+problem, however, the Third Circuit essentially threw up its hands, 
+resorting to a undisciplined mode of analysis that opens the door to 
+a dangerous expansion of state action doctrine. 
+
+
+14 
+
+
+A. A Private Insurer’s Decision To Initiate Utilization Review 
+Or To Withhold Payments To Health Care Providers Does 
+Not Transform The Insurer Into An Arm Of The State 
+
+
+The analytical framework for deciding when the conduct of a 
+private entity “allegedly causing the deprivation of a federal right 
+[is] fairly attributable to the State” is set out in Lugar v. Edmond- 
+son Oil Co., 457 U.S. 922, 937 (1982): 
+
+
+First, the deprivation must be caused by the exercise of some 
+right or privilege created by the State or by a rule of conduct 
+imposed by the State or by a person for whom the State is 
+responsible. * * * Second, the party charged with the depriva- 
+tion must be a person who may fairly be said to be a state 
+actor. 
+
+
+The first factor under Lugar serves to exclude cases where the 
+private entity acts in violation of state law. Id. at 940. The second 
+Lugar factor measures the “something more” — beyond mere state 
+authorization — that is required in order for the conduct of private 
+entities to be transformed into state action. Jd. at 937, 939. This 
+“something more,” which the Court has “articulated [in] a number 
+of different factors or tests in different contexts,” is critically 
+important because it ensures that “private parties” do not “face 
+constitutional litigation whenever they seek to rely on some state 
+rule governing their interactions with the community surrounding 
+them.” Jbid. These “factors or tests” are thus the heart of the 
+state action analysis. 
+
+
+In marked contrast to the rigorous analysis this Court has used 
+in its state action decisions, the Third Circuit offered a vague set 
+of truths, half-truths, and irrelevancies in support of its conclusion 
+that private companies making decisions pursuant to private 
+contracts of insurance with private employers are “state actors. 
+The appellate court stated that Pennsylvania’s workers’ compensa- 
+tion system is “a complex and interwoven regulatory web” (Pet. 
+App. 14a), and a “‘system which the government alone adminis- 
+ters’” (id. at 15a (quoting Edmonson v. Leesville Concrete Co, 500 
+U.S. 614, 622 (1991))); that the system is “mandatory” and 
+“exclusive,” thus assertedly making workers’ compensation 
+
+
+payments a “public benefit(]” (id. at 14a-15a); and that the “right 
+
+
+15 
+
+
+to invoke the supersedeas, or to stop payments, is a power that 
+traditionally was held in the hands of the State” (id. at 15a). 
+
+
+Under no coherent theory of state action could these miscella- 
+neous factors lead to the conclusion that an insurer who temporarily 
+withholds payments from health care providers or initiates the 
+process of utilization review “may fairly be said to be a state 
+actor.” Lugar, 457 U.S. at 937. Unfortunately, the Third Circuit 
+did not think it necessary to offer a coherent theory. Having cited 
+these various factors, the court simply concluded that this “rela- 
+tionship more than suffices to satisfy the constitutional requisites 
+under the tests — varied though they may be — for state action.” 
+Pet. App. 19a. It then emphasized that its holding is “expressly 
+limit{ed]” to the “unique context” of this case, ibid., as if that 
+could substitute for a clear explanation of why the facts of this case 
+fit within established principles of state action doctrine. 
+
+Contrary to the Third Circuit’s suggestion, this Court’s cases 
+delineating what is required (beyond state authorization of private 
+conduct) for the conduct of private entities to be regarded as state 
+action in fact fall into defined doctrinal categories with distinct and 
+different definitions. See Flagg Brothers, Inc. v. Brooks, 436 U.S. 
+149, 158, 159 (1978) (examining in turn various discrete “line{s} 
+of cases” and noting that the scope of the Court’s “exclusive public 
+function” cases involving elections is “carefully defined”). The 
+definitions of state action under each category are not mere 
+ingredients to be thrown together in a doctrinal stew, with a pinch 
+of salt substituting for a lack of garlic or coriander. The Third 
+Circuit’s decision dramatically relaxes the requirements needed to 
+find state action by authorizing federal judges to “mix and match” 
+factors from various doctrinal categories that would not suffice, 
+individually, to show state action under any of those categories. 
+This Court should reject the Third Circuit's eclectic approach and 
+reaffirm the distinctive and separate nature of its “public function,” 
+“state compulsion,” and “joint action” cases. Cf. Lugar, 457 U.S. 
+at 939 (declining to resolve whether these tests are “actually 
+
+
+16 
+
+
+different in operation or simply different ways of characterizing” 
+the state action inquiry).’ 
+
+As we explain below, the conduct of private insurance 
+companies that is challenged in this lawsuit — withholding 
+payments to health care providers and initiating utilization review 
+
+
+’ Between the 1940s and late 1960s, this Court significantly expanded 
+the state action doctrine in a series of cases, many of which involved 
+claims of racial discrimination. See, ¢e.g., Shelley v. Kramer, 334 U.S. 
+1 (1948) (state action exists when state court enforces racially restrictive 
+covenants); Marsh v. Alabama, 326 U.S. 501 (1946) (arrest by policeman 
+in company-owned town constitutes state action); Burton v. Wilmington 
+Parking Auth., 365 U.S. 715, 725 (1961) (restaurant's refusal to serve 
+black customer constituted state action where the state had “so far 
+insinuated itself into a position of interdependence with” the restaurant 
+that they “must be recognized as joint participant(s] in the challenged 
+activity”). As one commentator has observed, the “need to expand the 
+state action doctrine” during 1940-1970 was the result, in part, of the 
+“absence of means other than the fourteenth amendment to attack racial 
+injustice.” Schneider, State Action — Making Sense Out of Chaos — An 
+Historical Approach, 37 U. PLA. L. REV. 737, 741 (1985). In the 1960s, 
+however, Congress passed a variety of civil rights statutes prohibiting 
+racial discrimination in employment, education, public accommodations, 
+housing, and other areas, making an expansive state action doctrine 
+unnecessary. See, ¢.g., Civil Rights Act of 1964, Pub. L. No. 88-352, 
+78 Stat. 241 (1964); Civil Rights Act of 1968, Pub. L. No. 90-284, 82 
+Stat. 81 (1968). 
+
+
+Beginning in the early 1970s, this Court returned to a more restrictive 
+approach to state action, which has continued to this day. For example, 
+the Court overruled a decision that had extended the rule of Marsh v. 
+Alabama, 326 U.S. 501 (1946), to a privately owned shopping center. 
+See Flagg Brothers, 436 U.S. at 159-60. Compare Hudgens v. NLRB, 
+424 U.S. 507, 514-21 (1976), with Amalgamated Food Employees Union 
+Local 590 v. Logan Valley Plaza, 391 U.S. 308, 316-20 (1968). And in 
+Jackson v. Metropolitan Edison Co., the Court made clear that its “public 
+function” theory of state action was limited to those situations where a 
+to the State.” 419 U.S. 345, 352 (1974) (emphasis added); see aiso 
+Rendell-Baker v. Kohn, 457 U.S. 830, 842 (1982). The decision below 
+is in a sense a throwback to an earlier era, but without the pressing 
+justification that underlay this Court’s decisions during that time. 
+
+
+way 
+State’s “participation” does not amount to the provision of “such 
+significant encouragement, either overt or covert, that the [in- 
+surer’s] choice must in law be deemed to be that of the State.” 
+Blum v. Yaretsky, 457 U.S. 991, 1004 (1982). Nor has the State 
+
+
+v. Aetna Life & Cas. Ins. Co., 1996 WL 466648 (2d Cir. Aug. 16, 
+1996), cert. denied, 117 S. Ct. 1697 (1997); Fleming v. Workers’ 
+Compensation Comm'n, 1996 WL 93843 (4th Cir. Mar. 5, 1996) 
+(per curiam), aff'g 878 F. Supp. 852 (E.D. Va. 1995); Grenz v. 
+EBI/Orion Group, Inc., 1992 WL 158158 (9th Cir. July 9, 1992); 
+Barnes v. Lehman, 861 F.2d 1383 (Sth Cir. 1988); see also 
+Henderson v. Workmen's Compensation Appeal Bd., 452 A.2d 277, 
+278-80 (Pa. Commw. Ct. 1982). The Third Circuit was thus 
+wrong to conclude that there was state action in this case. 
+
+
+1. The Private Insurers Are Not Performing An Exclusive 
+Public Function 
+
+
+In analyzing the state action issue, the Third Circuit declared, 
+without citation to state law or other authority, that “[t}he right to 
+invoke the supersedeas, or to stop payments, is a power that 
+traditionally way held in the hands of the State.” Pet. App. 15a." 
+
+
+* The Third Circuit repeatedly but erroneously used the term 
+“supersedeas” to denote the company's decision to delay payment of a 
+disputed claim (Pet. App. 15a; see also id. at 2a, 13a). This term is not 
+used in the relevant statutory provision, 77 Pa. Stat. Ann. § 531(5). 
+Under Pennsylvania law, the term “supersedeas” is used to refer to an 
+order by a workers’ compensation judge suspending the obligation to pay 
+an award. See, ¢.g., 77 Pa. Stat. Ann. §§ 774, 971(b); 34 Pa. Code §§ 
+131.41, 131.43. But no such order is needed when an insurer initiates 
+utilization review under Section 531(5), nor is any judge involved at this 
+stage. Instead, Section 531(5) merely sets a 30-day deadline in which the 
+
+
+The court of appeals also characterized the provision of workers’ 
+compensativs: benefits as a “uniquely governmental obligation.” 
+Ibid. To the extent that it was suggesting that the private insurance 
+companies qualify as state actors because they perform an exclusive 
+public function, the Third Circuit seriously misapprehended the 
+scope of the “public function” doctrine. 
+
+In Jackson v. Metropolitan Eisen Co., this Court made clear 
+that the “public function” doctrine applies only when a private 
+entity exercises powers that have been “traditionally exclusively 
+reserved to the State.” 419 U.S. 345, 352 (1974) (emphasis 
+added); accord Rendell-Baker v. Kohn, 457 U.S. 830, 842 (1982); 
+Flagg Brothers, 436 U.S. at 157-58. Examples include the conduct 
+of elections, see Smith v. Allwright, 321 U.S. 649 (1944), the 
+selection of juries, see Leesville Concrete, 500 U.S. 614, the 
+management of municipal parks, see Evans v. Newton, 382 U.S. 
+296 (1966), and the power of eminent domain, see Jackson, 419 
+U.S. at 353. 
+
+Neither the provision of workers’ compensation benefits in 
+general nor the decision to delay payment of questionable bills in 
+a particular case is typically a governmental function at all — let 
+alone an “exclusive” governmental function. As explained above 
+(at 2), workers’ compensation systems are simply a substitute for 
+the tort system — different procedures and rules for determining 
+the employer's liability to its workers for workplace injuries. To 
+be sure, the underlying workers’ compensation liability of the 
+employer, which is the subject of the insurance, is imposed by the 
+the payment, or the insurer an arm of the State. Tort liability is 
+also imposed by state law, but that does not make tort liability 
+insurers state actors. Valid tort claims would have an equal claim 
+
+
+insurer must pay for medical expenses, but then tolls the deadline if the 
+insurer elects to initiate utilization review. There is no “supersedeas.” 
+
+
+19 
+
+
+to be described as “protected entitlements,” yet no one would say 
+that insurance payments to a tort victim are “public benefits.”° 
+
+
+It is no answer to say, as did the Third Circuit, that private 
+insurance companies are carrying out an exclusive public function 
+because workers’ compensation benefits are a “uniquely govern- 
+mental obligation.” Pet. App. 15a. The premise of that argument 
+is erroneous: Pennsylvania does not have any obligation to provide 
+workers’ compensation benefits itself; rather, it imposes that 
+obligation on private parties. No taxes or legislative appropriations 
+are involved; the entire system is financed through premiums paid 
+by private employers. See Dillard v. Industrial Comm'n, 416 U.S. 
+783, 798 (1974) (workers’ compensation funds “are private, not 
+public”). Contrary to the Third Circuit's suggestion, the workers’ 
+compensation system is more accurately viewed as a mandatory 
+term of the private employment contract between employer and 
+employee, not unlike the minimum wage. An employer's unilateral 
+decision to reduce a worker’s wages to $1 per hour might be a 
+violation of the minimum wage law, or of the labor contract, but 
+it would not be a violation of constitutional due process. In any 
+event, this Court rejected a virtually identical argument in Jackson. 
+There, the utility customer argued that the electric company was 
+providing an “essential public service required to be supplied” and 
+thus was performing a public function. 419 U.S. at 352. This 
+Court responded that “while the Pennsylvania statute imposes an 
+obligation to furnish service on regulated utilities, it imposes no 
+such obligation on the State.” Id. at 353 (emphasis added). 
+
+
+* The Third Circuit also stated, somewhat ambiguously, that workers’ 
+compensation benefits are a “constitutionally protected entitlement.” Pet. 
+App. 14a. The right to receive workers’ compensation benefits is not 
+conferred by the federal or Pennsylvania constitution, but rather by 
+Pennsylvania statute. If the Third Circuit meant merely to say that 
+workers’ compensation benefits represent a “property interest” subject to 
+some due process protection, thal statement puts the cart before the horse 
+(appearing, as it does, in the Third Circuit's threshold discussion of state 
+action). Whether the Constitution confers avy protection on workers vis- 
+a-vis the actions of private insurers hinges on whether those insurers 
+qualify as state actors; the Third Circuit's reliance on this factor was thus 
+
+
+20 
+
+
+Nor is the withholding of payments to a health care provider 
+for medical care an exclusive public function. It is a routine aspect 
+of claims processing for insurance carriers of all kinds. Indeed, it 
+is a remarkable notion, to say the least, that a private insurance 
+company’s withholding of payments to a private party (the health 
+care provider) under a contract with another private entity (the 
+employer) pending resolution of a dispute over the entitlement of 
+a private, third-party beneficiary under the contract (the employee) 
+amounts to a traditional public function. Petitioners, after all, are 
+private companies that have voluntarily entered into private 
+contracts of insurance with private employers. As one court has 
+explained: 
+
+What is here involved is a contractual (although sanctioned by 
+
+statute) claim to benefits which the other party to the contract 
+
+disputes. As such, this interest is indistinguishable from the 
+interest of the recipient of funds in any commercial situation 
+in which periodic payments are terminated pending resolution 
+of the underlying dispute. 
+Silas v. Smith, 361 F. Supp. 1187, 1192 (E.D. Pa. 1973) (three- 
+judge court). 
+2. The Private Insurers Are Not Acting Under State 
+Compulsion 
+
+In a separate line of cases, this Court has made clear that “a 
+State is responsible for the discriminatory act of a private party 
+when the State, by its law, has compelled the act.” Adickes v. S.H. 
+Kress & Co., 398 U.S. 144, 170 (1970); see also Peterson v. City 
+of Greenville, 373 U.S. 244, 248 (1963) (“When the State has 
+commanded a particular result, it has saved to itself the power to 
+determine that result and thereby ‘to a significant extent’ has 
+“become involved’ in it.”). This “state compulsion” test (Lugar, 
+457 U.S. at 939) cannot possibly be satisfied here. 
+
+As the district court explicitly found, the decision to withhold 
+payment of disputed medical bills is made entirely by the insurers, 
+with no hint of coercion by the State. Pet. App. 59a. Even the 
+court of appeals acknowledged that “[t}he Act does not require — 
+but permits — suspension of medical benefits.” Jd. at 5a. 
+Similarly, the State in no way compels petitioners to initiate the 
+
+
+21 
+
+
+utilization review process. See id. at 3a (“The decision to invoke 
+utilization review is made independently by the employer or 
+insurer.”). Indeed, the Commonwealth does not even encourage 
+insurers to withhold payment or initiate utilization review in any 
+particular case. See id. at 59a (the State “takes no substantive step 
+to promote, support or encourage the decision of the insurer” to 
+withhold payments). On the contrary, Pennsylvania law requires 
+the insurer to pay for the cost of utilization review regardless of its 
+outcome. Jd. at 8a; 77 Pa. Stat. Ann. § 531(6)iii). In addition, 
+if the URO determines that the disputed medical care was reason- 
+able and necessary, the insurer must not only pay the bill immedi- 
+ately but must also pay 10% annual interest on the amount 
+withheld. 34 Pa. Code. § 127.208(e), (g); 77 Pa. Stat. Ann. § 
+717.1(a). In light of these disincentives, the statute cannot be said , 
+to “encourage” insurers to invoke utilization review — any more 
+
+
+Even if the State’s workers’ compensation scheme did 
+encourage insurers to withhold payments to health care providers 
+and to initiate utilization review, moreover, that would not suffice 
+to convert the insurers’ choices into the choices of the State. In 
+Blum v. Yaretsky, 457 U.S. 991 (1982), this Court refused to find 
+state action in the choice of a private entity pursuant to a statutory 
+authorization that encouraged the authorized actions. See Rendell- 
+Baker, 457 U.S. at 841 (noting that “[bjoth [the] state and federal 
+regulations” in Blum “encouraged the nursing homes to transfer 
+patients to less expensive facilities when appropriate”). Because 
+sion, there is no state action under this line of authority. '° 
+
+
+i 
+iif 
+
+
+22 
+
+
+Thus, there is neither compulsion nor encouragement in this 
+case. There is instead only State authorization — enough, in other 
+words, to satisfy the first Lugar factor, but not the second. As this 
+Court has repeatedly held, the “[p)rivate use of state-sanctioned 
+remedies or procedures does not rise to the level of state action.” 
+Tulsa Professional Collection Servs., Inc. v. Pope, 485 U.S. 478, 
+485 (1988); see also Flagg Brothers, 436 U.S. at 161 n.11, 164. 
+That principle is controlling here. 
+
+3. Pennsylvania’s Ministerial Role In The Utilization 
+Review Process Does Not Place The State’s “Impri- 
+matur” On The Private Insurers’ Conduct Nor Does It 
+Make The State A Joint Participant With The Insurers 
+
+
+In finding state action, the Third Circuit also relied on the fact 
+that an insurer seeking utilization review must first file a one-page 
+form with the Bureau of Workers’ Compensation, which will be 
+disapproved if it fails to include all of the required information. 
+According to the court of appeals, this means that “[tJhe insurers 
+have no power to deprive or terminate such benefits without the 
+permission and participation of the Commonwealth” (Pet. App. 
+15a) and that “the Commonwealth is intimately involved in any 
+decision by an insurer to * * * suspend medical payments.” Jbid. 
+This argument rests on a mischaracterization of the Bureau’s role 
+as well as a mistaken view of what is required to convert private 
+conduct into state action under this Court’s “joint action” cases. 
+
+
+Contrary to the Third Circuit's apparent view, the requirement 
+of filing a form is an inconsequential detail in the regulatory 
+scheme. The Bureau’s role in processing the form (including 
+forwarding the form, if properly completed, to a randomly selected 
+URO) is purely ministerial.'' As the Third Circuit itself stated, the 
+
+
+'' When the Bureau receives a request for utilization review, Bureau 
+staff check it to ensure that the form contains all of the information 
+requested: the name and address of the employee, employer, provider, 
+and insurance carrier; the employee's social security number; the date of 
+the employee's injury; the provider’s specialty or area of practice; the 
+treatment procedure to be reviewed; the date or dates of treatment to be 
+reviewed; and an explanation why utilization review is being requested. 
+34 Pa. Code § 127.452(a); C.A. App. B34. Bureau staff also confirm 
+
+
+The state takes no substantive step to promote, support, or 
+encourage the decision of the insurer; and after the decision is 
+made, the state takes no action which influences the ultimate 
+substantive determination as to whether benefits are payable or 
+it merely provides a remedy, albeit complete with authorized 
+forms and regulations. The state’s acceptance and routing of 
+forms completed in accordance with its instructions, in 
+
+
+The Third Circuit’s statement that the State is “intimately involved 
+in any decision by an insurer” to withhold payments (id. at 15a) is 
+thus a gross exaggeration, at best." 
+
+Pennsylvania's wholly ministerial role in accepting and routing 
+the one-page form required to initiate utilization review falls well 
+
+
+that the date of treatment is on or after the effective date of the statute, 
+34 Pa. Code § 127.402; C.A. App. C33; that another party or workers’ 
+compensation judge has not already requested utilization review of the 
+same treatment, C.A. App. C32; that the procedure for which review is 
+requested matches the provider named, id. at C16; that the form, on its 
+face, requests review of the reasonableness or necessity of medical 
+treatment, id. at B98-B99; and that the insurer has accepted liability for 
+a job-related injury, id. at C25-C27. 
+
+
+2 We hasten to add, however, that even if the Commonwealth engaged 
+in a substantive evaluation of the merits of the request for utilization 
+review, that would not transforin the insurer’s invocation of utilization 
+review into state action. When the government limits, restricts, or 
+regulates private action, it does not become responsible for that action. 
+
+
+24 
+
+
+short of the “overt, significant assistance” of state officials that is 
+required for a finding of state action under this Court’s “joint 
+action” cases. Tulsa Professional, 485 U.S. at 486. For example, 
+in Shelley v. Kramer, this Court found state action in the state 
+court’s enforcement of racially restrictive covenants entered into by 
+private parties, but only because such enforcement was pursuant to 
+state policy and placed the imprimatur of the State on the private, 
+discriminatory conduct. 334 U.S. at 18-19." There is nothing 
+approaching such an imprimatur here. Most decisively, in Blum v. 
+Yaretsky, this Court expressly rejected the argument that there was 
+state action because New York required nursing home physicians 
+to “complete patient care assessment forms and file them with state 
+Medicaid officials.” 457 U.S. at 1006-07, 1010. “We cannot 
+say,” the Court explained, “that the State, by requiring completion 
+of a form, is responsible for the physician’s decision.” Jd. at 1006- 
+07. 
+
+
+Nor is the Third Circuit correct in stating (Pet. App. 15a) that 
+there is “little difference between the approval required here and 
+that necessary for utilizing a peremptory challenge * * * or for 
+employing a nonclaim statute with the assistance of the probate 
+court” as in Leesville Concrete, 500 U.S. 614, or Tulsa Profes- 
+sional, 485 U.S. 478. In those cases, a private party would be 
+powerless to obtain the desired result without the intervention of the 
+State. Private citizens do not empanel juries, and private citizens 
+cannot cut off the claims of their creditors. Delay in paying 
+disputed claims, by contrast, is a common insurer practice, 
+
+
+'S Shelley arguably should be understood as resting on the fact that 
+restrictions on alienation were generally disfavored under the common 
+law of Missouri, and could be enforced only when the state court 
+concluded that enforcement would be reasonable and consistent with 
+public policy. For that reason, the State’s decision to enforce the 
+restrictive agreements amounted to a declaration that public policy was 
+served by segregation. See L. TRIBE, CONSTITUTIONAL CHOICES 260 
+(1985). 
+
+
+2s 
+
+
+permitted under private insurance contracts." It is a self-help 
+remedy, and can be accomplished without any involvement of the 
+State at all. The requirement of filing a form is a (modest) 
+limitation on the insurer’s natural freedom of action; it is not a 
+form of encouragement, assistance, or joint participation by the 
+State. 
+
+
+4. The Private Insurers Are Not Fulfilling Constitutional 
+Obligations Of The State 
+
+
+Finally, the Third Circuit purported to draw support for its 
+state action holding from this Court’s decision in West v. Atkins, 
+487 U.S. 42 (1987). Pet. App. 16a-17a. That reliance, however, 
+was entirely misplaced. In West, this Court held that a physician 
+under contract with the State to provide medical care to inmates at 
+a State prison hospital was acting under color of state law even 
+
+
+though he was not officially an “employee” of the State. The 
+principle of the case is that the State may not evade a constitutional 
+
+
+responsibility by contracting it out to a private party. The Third 
+Circuit, however, interpreted West as permitting the court to engage 
+in a loose examination of the “relationship” between the State and 
+private parties and the “function” of the private party in deciding 
+the state action question. /d. at 16a-17a, 19a. 
+
+That analysis overlooks the fact that West obviously turned on 
+a factor not present here: the State had delegated one of its 
+constitutional duties — provision of adequate medical care to 
+inmates (see Estelle vy. Gamble, 429 U.S. 97, 104 (1976); West, 
+487 U.S. at 54-57) — to a private party. Put differently, the 
+physician’s “function” and “relationship” the Court was referring 
+to in West was his role as the State’s delegate in discharging its 
+constitutional obligations. Both this Court and the Courts of 
+Appeals have recognized that West turned on this point and have 
+rejected arguments to apply it outside that context. See Georgia v. 
+McCollum, SOS U.S. 42, 52-53 (1992); George v. Pacific-CSC 
+
+
+“ See, e.g., 1 A. WINDT, INSURANCE CLAIMS AND DISPUTES: 
+REPRESENTATION OF INSURANCE COMPANIES AND INSUREDS, § 2.22, at 
+7S (3d ed. 1995) (insurers may “withhold payment” of disputed portions 
+of wlaims pending resolution of “dispute[s] as to the existence of coverage 
+for a portion of the insured’s claim”). 
+
+
+26 
+
+
+Work Furlough, 91 F.3d 1227, 1232 (9th Cir. 1996), cert. denied, 
+117 S. Ct. 746 (1997); Andrews v. Federal Home Loan Bank, 998 
+F.2d 214, 218 (4th Cir. 1993). 
+
+
+B. The Third Circuit’s Holding Is At Odds With This Court’s 
+Recent Decisions Involving Heavily Regulated Businesses 
+Finally, the Third Circuit’s decision should be reversed 
+
+because it squarely conflicts with key precedents of this Court, 
+
+including Jackson v. Metropolitan Edison Co., 419 U.S. 345 
+
+(1974), Rendell-Baker v. Kohn, 457 U.S. 830 (1982), and Blum v. 
+
+Yaretsky, 457 U.S: 991 (1982). In Jackson, this Court held that 
+
+the termination of electric service by a privately owned and 
+
+though the utility was heavily regulated by the State, enjoyed “at 
+least a partial monopoly in the providing of electrica! service within 
+its territory,” and acted in terminating services pursuant to 
+
+authority granted under a state-approved tariff. 419 U.S. at 354, 
+
+358. A private utility’s “exercise of the choice allowed by state 
+
+law” does not constitute state action, the Court explained, “where 
+
+the initiative comes from it and not from the State.” Jd. at 357. 
+
+The Court flatly rejected the contention that the utility was a state 
+
+actor because it was “subject to extensive state regulation.” Jd. at 
+
+350. “The mere fact that a business is subject to state regulation,” 
+
+the Court reasoned, does not make it a state actor, even if “the 
+
+regulation is extensive and detailed, as in the case of most public 
+utilities.” Jbid. Accord Blum, 457 U.S. at 1011; Moose Lodge 
+
+No. 107 v. Irvis, 407 U.S. 163, 176-77 (1972). 
+
+
+The Court in Jackson concluded there was no state action even 
+though the utility company’s termination decision was authorized 
+by a general tariff that had been filed with the state public utility 
+commission. The Court reasoned that there was “no * * * 
+eS ee en ree eee 
+utility customer] compla?:s.” 419 U.S. at 357. For the govern- 
+ment to allow a private par’ to take some action is not the same as 
+the government forcing or instigating that action. The Court 
+explained: 
+
+The nature of governmental regulation of private utilities is 
+
+
+such that a utility may frequently be required by the state 
+regulatory scheme to obtain approval for practices a business 
+
+
+27 
+
+
+regulated in less detail would be free to institute without any 
+approval from a regulatory body. Approval by a state utility 
+commission of such a request from a regulated utility, where 
+the commission has not put its own weight on the side of the 
+proposed practice by ordering it, does not transmute a practice 
+initiated by the utility and approved by the commission into 
+“state action.” 
+
+
+Ibid. (emphasis added). 
+In Rendell-Baker, this Court held that the decision of an 
+
+
+extensively regulated private school for maladjusted high school 
+students to discharge staff — allegedly in response to public 
+criticism of the school leveled by the staff and without due process 
+— Was not state action even though the school received “virtually 
+all of [its] income * * * from governmental funding,” obtained its 
+students through referrals from public schools and other public 
+entities, and was required to comply with numerous educational 
+requirements that applied to public schools. 457 U.S. at 840, 843. 
+The Court observed at the outset that the school was not unlike 
+many private corporations “whose business depends primarily on 
+contracts” to provide services to the government, and explained that 
+the “[a]cts of such private contractors do not become acts of the 
+government by reason of their significant or even total engagement 
+in performing public contracts.” Jd. at 840-41. Next, the Court 
+rejected the argument that the schools were state actors because 
+they were subject to detailed and extensive regulation. The Court 
+not only reaffirmed the holding of Jackson that extensive regulation 
+is insufficient to transform a private business into a state actor, but 
+also suggested that much of the regulation to which the private 
+school was subject was irrelevant to the state action question, 
+because “the decisions to discharge” the staff “were not compelled 
+or even influenced by any state regulation.” Jd. at 841. 
+
+
+The Court also rejected the argument that the school qualified 
+as a state actor because it served a “public function,” explaining 
+that while “the education of maladjusted high school students is a 
+public function, * * * that is only the beginning of the inquiry.” 
+457 U.S. at 842. Under its cases, the Court explained, a private 
+entity will be deemed a state actor only for carrying out a public 
+function that is the “exclusive province of the State”; the mere fact 
+
+
+28 
+
+
+that the State had elected to pay for such education does not suffice. 
+a state actor because it had a “symbiotic relationship” with the 
+State. Id. at 842-43 (distinguishing Burton v. Wilmington Farking 
+Auth. , 365 U.S. 715 (1961)). 
+
+
+Finally, in Blum the Court held that the decisions of private 
+(but heavily regulated) nursing homes to discharge or transfer 
+residents who were Medicaid recipients did not qualify as state 
+action. The nursing homes were required by federal law to 
+establish a utilization review committee (“URC”) to determine on 
+an ongoing basis whether the care provided to each patient was 
+medically necessary. 457 U.S. at 994-95. If a URC determined 
+that a patient needed a less intensive level of care, it was obligated 
+to file a form containing information about its decision with the 
+State, and the resident was transferred (without notice or an 
+opportunity to be heard) to a facility with a lower level of care. Jd. 
+at 995. In holding that there was no state action, the Court again 
+focused narrowly on the “specific conduct of which the plaintiff 
+complains” — the decision to transfer or discharge — and con- 
+cluded that this conduct was not something for which the govern- 
+ment was responsible. Jd. at 1004, 1008, 1010. 
+
+
+Reversal of the decision below follows a fortiori from Blum. 
+Blum involved administration of a public program (Medicaid); this 
+case involves a private contract of insurance to cover the ‘egal 
+liability of private employers. Blum involved a utilization review 
+program in which nursing homes were required to inform the State 
+if a patient’s level of care became medically inappropriate; in this 
+case the State merely authorizes utilization review but leaves it up 
+to insurers whether and when to invoke it. If the actions of nursing 
+homes administering a public program are not subject to constitu- 
+tional constraints, workers’ compensation insurers cannot possibly 
+be deemed state actors. 
+
+For state action purposes, there is no analytical difference 
+between the withholding of insurance payments under Pennsylvania 
+law and the termination of electric service in Jackson, the discharge 
+of staff in Rendell-Baker, or the reduction or termination of care 
+through patient discharges or transfers in Blum. The Pennsylvania 
+statute does nothing more than permit private parties to withhold 
+
+
+29 
+
+
+payments to health care providers during utilization review — 
+something they are fully capable of doing without state assistance. 
+The insurer’s filing of a form with the State, and the State’s 
+forwarding a properly completed form to a utilization review 
+organization, are purely formal steps in the process. 
+
+
+The Third Circuit sought to distinguish Jackson, Blum, and 
+Rendell-Baker on the ground that those cases “do not * * * involve 
+a comprehensive statutory scheme similar to that present in this 
+case.” Pet. App. 18a. But that statement is at odds with the 
+essential holdings of Jackson and Blum. Both the public utility 
+regulation in Jackson and the Medicaid regulation in Blum were as 
+extensive as, if not more so than, insurer regulation in Pennsylva- 
+nia. For example, insurers, unlike public utilities, are neither 
+granted monopoly status nor required by the State to provide 
+universal service. The crux of Jackson and Blum is their holding 
+that extensive regulation — whatever its precise nature — does not 
+transform private enterprises into state actors unless it compels or 
+enforces the specific conduct at issue. That is an eminently 
+sensible conclusion: where state legislators have crafted a compre- 
+hensive regulatory scheme, judicial second-guessing of particular 
+components of that scheme is rarely either necessary or desirable. 
+For the court below to dismiss Jackson, Blum, and Rendell-Baker 
+on the ground that they did not involve a “comprehensive statutory 
+scheme” was tantamount to rejecting this Court’s holdings. Unless 
+this Court is prepared to overrule those decisions — and the 
+plaintiffs have never suggested that course — the decision below 
+must be reversed. 
+
+
+Il. AN INSURER’S WITHHOLDING OF PAYMENT TO 
+HEALTH CARE PROVIDERS FOR DISPUTED MEDI- 
+CAL TREATMENT DURING UTILIZATION REVIEW 
+DOES NOT VIOLATE THE EMPLOYEE’S RIGHT TO 
+DUE PROCESS 
+
+
+The second issue before this Court is whether the Due Process 
+Clause permits an insurer (assuming it is a state actor) to delay 
+payment of a medical bill for approximately two months while an 
+independent utilization review organization determines whether the 
+medical care for which the bill was submitted was reasonable and 
+
+
+30 
+
+
+necessary." In the lower court, plaintiffs also successfully 
+challenged certain features of the utilization review process itself, 
+but petitioners have not sought review of those portions of the 
+Third Circuit’s decision. See pages 4-5 & n.3, supra; Pet. 22 
+n.12. The only issue before the Court is the constitutionality of the 
+portion of 77 Pa. Stat. Ann.§ 531(5) that permits insurers to 
+withhold payment for disputed medical care pending the outcome 
+of utilization review. 
+
+Under Pennsylvania law, workers who have been injured on 
+the job are entitled to “reasonable and necessary” medical treatment 
+(which may include such unorthodox care as chiropractic manipula- 
+tion, acupuncture, biofeedback therapy, physical therapy, and 
+aquatic therapy). After the first ninety days following their initial 
+treatment for injury, they obtain these services from the health care 
+provider of their choice. The provider sends the bill directly to the 
+workers’ compensation insurance carrier, which is required to pay 
+the bill within thirty days — unless the carrier questions the 
+
+
+'S Petitioners urge this Court to reach the Third Circuit's due process 
+holding even if it rules in petitioners’ favor on state action. The State 
+Workmen’s Insurance Fund conceded before the Third Circuit that it is 
+a state actor when it requests utilization review and withholds payment 
+for disputed treatment pending its outcome, Pet. App. 12a, and the 
+School District’s status as a state actor has yet to be resolved. No. 97- 
+2030 Pet. 5-6. Thus, the State Workmen’s Insurance Fund, and possibly 
+the School District, continue to be bound by the Third Circuit's due 
+process ruling. If this Court were to rule in petitioners’ favor on the 
+state action issue but leave undisturbed the Third Circuit’s due process 
+ruling, public employers and insurers would be subject to an entirely 
+different set of rules for obtaining utilization review than are private 
+insurers, a highly disruptive result within the context of this integrated 
+regulatory scheme. 
+
+
+Furthermore, if not reversed, the Third Circuit’s due process holding 
+as applied to state actors will likely cause substantial injury to private 
+insurers. Public insurers or self-insuring public employers that are 
+required to pay for unreasonable or unnecessary care pending utilization 
+review are entitled to reimbursement from a special fund, which is 
+maintained by annual assessments on all workers’ compensation insurers. 
+77 Pa. Stat. Ann. § 999. Thus, the petitioners could ultimately bear 
+much of the cost imposed by the Third Circuit’s due process holding. 
+
+
+We will offer three separate but related reasons why. First, the 
+
+
+providers will be paid — or more precisely, when their providers 
+will be paid. Second, even if the individual plaintiffs could be said 
+to have suffered a deprivation, the process provided easily passes 
+
+
+” See S. ECCLESTON & C. YEAGER, WORKERS’ COMPENSATION 
+RESEARCH INSTITUTE, MANAGED CARE AND MEDICAL COST 
+CONTAINMENT IN WORKERS’ COMPENSATION, A NATIONAL INVENTORY, 
+1997-1998, at 18-19, 72 (1997). 
+
+
+32 
+
+
+muster under the three-part test of Mathews, 424 U.S. at 335. 
+Third, to the extent that the due process balance takes its bearings 
+from longstanding tradition and the practices of other states, it was 
+extraordinary for the court below to hold unconstitutional a practice 
+that accords with common law practice and is currently in use in 
+the vast majority of the states. 
+
+
+A. Workers’ Compensation Beneficiaries Have Not Suffered A 
+
+
+“Deprivation” When Insurers Delay Payment Of Their 
+
+Health Care Providers’ Bills 
+
+A delay in payment pending utilization review cannot be 
+characterized as a deprivation of the employee's property interest. 
+Employees do not have the right to challenge the procedures used 
+to determine the eligibility of third party providers, such as health 
+care providers, for payment — even if employees suffer serious 
+indirect consequences from such a determination. In addition, 
+determination of the reasonableness and necessity of particular 
+which is to receive reasonable and necessary medical care. It is 
+more analogous to a decision about an initial application for 
+benefits (which does not require interim payments under Mathews) 
+than to a termination of eligibility for benefits. 
+
+
+1. Employees Have No Right To Challenge The Proce- 
+dures Used To Determine The Eligibility Of Their 
+Health Care Providers For Payment 
+
+
+This case was brought by or on behalf of injured workers 
+entitled to medical treatment as part of their workers’ compensation 
+benefits. Yet the gravamen of the employees’ case is that their 
+health care providers have not been promptly paid for services 
+the effect of this delay in payment is that the medical providers will 
+terminate their medical treatment. Pet. App. 27a. In Section 
+11.B.2, we will demonstrate that this assertion is factually incorrect. 
+But a more fundamental objection to the plaintiffs’ claim is that the 
+Due Process Clause, as interpreted in Goldberg and its progeny, 
+provides protection only for persons whose own legal entitlements 
+are directly subject to revocation. It does not give them any right 
+to challenge the procedures applicable to third-party providers. 
+
+
+Notably, the O'Bannon Court rejected the argument that the 
+likelihood of injury resulting from decertification of the nursing 
+home gave patients a constitutional right to participate in decertifi- 
+cation proceedings. Although Justice Blackmun argued in his 
+liberty interest where challenged procedures would cause them a 
+“high risk of death or serious illness,” 447 U.S. at 803, the 
+majority opted instead for a bright-line distinction between direct 
+and indirect beneficiaries. Jd. at 787. Direct beneficiaries, who 
+
+
+34 
+
+
+injury. /d. at 784 n.16, 787. Despite this proximate but indirect 
+link between decertification and injury to the patients, the Court 
+held that the patients had no due process interest in certification. 
+Id. at 790. 
+
+O'Bannon thus presented an entirely different type of claim 
+than that in Goldberg. In Goldberg, the claimant's own eligibility 
+for benefits was at stake. In O'Bannon, the legal rights of a third 
+party were directly at issue, and the effect on the claimant was 
+indirect (even if powerful). 
+
+This Court's analysis in O'Bannon governs this case. Just as 
+the patients in O'Bannon sought to challenge the decertification of 
+force them to move, plaintiffs in this case seek to challenge the 
+delay in payment to their health care providers out of fear that the 
+providers will no longer provide them treatment. In both cases, the 
+claimants are only indirectly affected by application of rules that are 
+imtended to regulate the practices of their nursing homes or health 
+care providers — here, in order to prevent excessive costs for 
+unreasonable and ummecessary medical treatment. Under 
+O'Bannon, therefore, plaintiffs have no protected interest in their 
+providers’ bill payment dispute, regardless of the practical conse- 
+quences to the employees ."” 
+
+
+"Section 8, the federal low-income housing assistance program, 42 
+U.S.C. § 1437f, contains a similar dual regulatory scheme. Under 
+Section 8, the federal government makes payments directly to landlords 
+on behalf of eligible tenants. See Cisneros v. Alpine Ridge Grp., 508 
+U.S. 10, 12 (1993). Im order to become and remain qualified as a 
+Section 8 provider, a landlord must meet “housing quality standards for 
+decent, safe, and sanitary housing.” 42 U.S.C. § 1437f(0)(5). The 
+lower courts have consistently held that tenants have a constitutionally 
+protected interest in continued eligibility for Section 8. See Davis v. 
+Mansfield Metro. Hous. Auth., 751 F.2d 180, 184 (6th Cir. 1984), and 
+cases cited therein. No court has ever held, however, that tenants have 
+a mght to notice and an opportunity to be heard before their landlord is 
+disqualified for failure to maintain “decent, safe, and sanitary housing” 
+— despite the fact that the latter determination will result in the 
+termination of rental payments on behalf of the tenant. Ai least one court 
+has recognized that such a claim would be barred by O'Bannon. See 
+
+
+§§ 431, 531. An employee’s eligibility for workers’ compensation 
+benefits does not mean, however, that the insurer must pay for any 
+and all health care provided to the employee. Pennsylvania law 
+expressly limits an employee's entitlement to reimbursement of the 
+provider for medical care and services that are both “reasonable 
+and necessary.” /d. § 531(1), (5). 
+
+Administration of the workers’ compensation system thus 
+requires two separate steps: first, determining whether an em- 
+ployee is eligible for workers’ compensation benefits; second, 
+
+
+Swann v. Gastonia Hous. Auth., 502 F. Supp. 362, 366 (W.D. N.C. 
+1980). 
+
+
+that (state action issues aside) this case would bear a resemblance 
+to Mathews ."* 
+
+
+The second step — determining the reasonableness and 
+necessity of a particular medical treatment — is unrelated to the 
+employee's overall eligibility for workers’ compensation benefits. 
+Each of the individual plaintiffs in this case remained eligible for 
+continued benefits at all times after suffering a job-related injury, 
+and nothing in the utilization review procedures could adversely 
+affect their continued eligibility. In order to invoke utilization 
+review, an insurer must concede the employee’s eligibility for 
+workers’ compensation benefits. 34 Pa. Code §§ 127.404(b)-(d), 
+127.405(c), 127.479. A utilization reviewer is not permitted to 
+consider issues that bear on the employee's eligibility, such as 
+whether the patient's injury or disease is job-related or whether the 
+patient's disability still exists. Jd. §§ 127.406, 127.470. The only 
+question at issue in the decision to request utilization review, and 
+in the utilization review itself, is whether a particular medical 
+treatment falls within the scope of the provider's right to reimburse- 
+ment for reasonable and necessary medical expenses. 
+
+
+ble to this case. In Goldberg, the named plaintiffs had met the 
+criteria to receive and had been receiving financial aid under Aid 
+to Families with Dependent Children and/or Home Relief. 397 
+U.S. at 256 & n.2. Similarly, in Mathews, the plaintiff had been 
+
+
+'* Even a challenge to an employee’s overall eligibility for workers’ 
+compensation benefits would not appear to require the full panoply of 
+procedural protections mandated in Goldberg. The challenge would be 
+more similar to the termination of disability benefits at issue in Mathews 
+than the termination of welfare benefits in Goldberg because, as the 
+district court noted, eligibility for workers’ compensation benefits is not 
+based on financial need and an injured employee may have other sources 
+of income. Pet. App. 69a-70a. 
+
+
+37 
+
+
+found eligible for Social Security disability benefits and had been 
+receiving those benefits for nearly four years. 424 U.S. at 323-24. 
+In both cases, the government sought to change — to terminate — 
+these previously established legal rights of the claimant, and the 
+Court was accordingly required to decide what procedures were 
+constitutionally mandated before an aid recipient could be divested 
+of those rights. See id. at 332; Goldberg, 397 U.S. at 260. 
+
+
+In this case, by contrast, there has not been (indeed, could not 
+be) a prior determination that the claimant was entitled to any 
+particular medical service. That is an issue that generally can be 
+resolved only retrospectively,"® and only with reference to the 
+particular course of treatment. Utilization review thus does not 
+result in the loss of a vested right, but is an initial determination of 
+whether the particular service falls within the scope of the worker's 
+entitlement. It is more closely analogous to an initial application 
+for a benefit.” The employee has no vested entitlement to provider 
+payment for a particular medical service until it is first determined 
+to be “reasonable and necessary.” As a consequence, there is no 
+right to due process because there has been no deprivation of a 
+protected right by virtue of the insurer's withholding of payment. 
+
+
+The flaw in the plaintiffs’ logic is plain when one considers 
+what would happen if Pennsylvania modified its procedures for 
+reimbursement. Pennsylvania could provide that no bills are to be 
+reimbursed until a utilization reviewer determines that the bill is for 
+
+
+'* Although Act 44 provides for prospective and concurrent utilization 
+review, 77 Pa. Stat. Ann. § 531(6)(i), an insurer does not know prior to 
+submission of a bill whai medical services are being provided unless the 
+provider or employee has asked for pre-approval of a particular course 
+of treatment. 
+
+
+* This Court has never decided whether “applicants for benefits, as 
+distinct from those already receiving them, have a legitimate claim of 
+entitlement protected by the Due Process Clause * * *.” Lyng v. Payne, 
+476 U.S. 926, 942 (1986); see also Walters v. National Ass'n of 
+Radiation Survivors, 473 U.S. 305, 312, 320 n.8 (1985); Gregory v. 
+Town of Pittsfield, 470 U.S. 1018, 1021 (1985) (O’Connor, J., dissenting 
+from denial of certiorari); Peer v. Griffeth, 445 U.S. 970, 970 (1980) 
+
+
+(Rehnquist, J., dissenting from denial of certiorari). 
+
+
+38 
+
+
+reasonable and necessary medical care. Pennsylvania could set a 
+60-day limit for making this decision, the same length of time given 
+under current law for an insurer to deny reimbursability and for 
+utilization review to take place. 77 Pa. Stat. Ann. §§ 531(5), 
+(6\ii). An argument that due process required the payment of bills 
+during this 60-day period, before any determination of the reason- 
+ableness or necessity of the medical care at issue, would be 
+frivolous. Yet in substance, this hypothetical procedure is identical 
+to the actual Pennsylvania system, with the sole exception that 
+insurers are required to pay undisputed bills within 30 days. This 
+demonstrates that plaintiffs have not been subjected to deprivation 
+of any legal right. 
+
+
+B. The Procedures Involved In This Case Easily Satisfy Due 
+Process Under The Mathews Balancing Test 
+
+
+Even if one were to ignore the foregoing analysis and assume, 
+contrary to law, that an insurer’s decision to withhold payment 
+deprives an employee of a protected right, due process does not 
+require insurers to pay bills for disputed treatment pending the 
+results of utilization review. In determining whether procedures 
+are constitutional, the Court traditionally considers the private 
+interests that will be affected, including the interests of both the 
+party subject to official action and the party seeking the action;”' 
+the risk of an erroneous deprivation and the probable value, if any, 
+of additional procedural safeguards; and the government’s interest. 
+Connecticut v. Doehr, 501 U.S. 1, 10-11 (1991); Brock v. 
+Roadway Express, Inc., 481 U.S. 252, 263 (1987); Mathews v. 
+Eldridge, 424 U.S. 319, 335 (1976). The Court must also consider 
+the brief duration of any deprivation, which weighs in favor of 
+constitutionality. Gilbert v. Homar, 117 S. Ct. 1807, 1813 (1997) 
+(in performing Mathews balancing, “account must be taken of ‘the 
+length’ and ‘finality of the deprivation’” in determining what 
+process is due) (quoting Logan v. Zimmerman Brush Co., 455 U.S. 
+422, 434 (1982)); Santosky v. Kramer, 455 U.S. 745, 758 (1982). 
+
+
+*! The Third Circuit simply ignored the private interests of Pennsylvania 
+workers’ compensation insurers in retaining the statutory right to deny 
+reimbursement for disputed care pending utilization review. See Pet. 23- 
+24; Pet. Reply Br. 7. 
+
+
+39 
+
+
+On balance, these factors strongly support the conclusion that 
+permitting the insurer to withhold payment for disputed treatment 
+pending the outcome of utilization review comports with “funda- 
+mental fairness.” Lassiter v. Department of Soc. Servs., 452 U.S. 
+18, 24 (1981). 
+
+1. The Insurer’s Interest 
+
+The insurer has a substantial private interest in not paying for 
+unnecessary or unreasonable medical treatment pending the outcome 
+of utilization review. Under Pennsylvania law, an insurer is not 
+permitted to recoup payments for unreasonable or unnecessary care. 
+Moats v. Workmen’s Compensation Appeal Bd., 588 A.2d 116, 118 
+(Pa. Commw. Ct. 1991). Although insurers may seek reimburse- 
+ment for excessive payments from a special fund, the fund is 
+financed entirely from assessments levied on the insurers (and self- 
+insured employers) themselves. 77 Pa. Stat. Ann. § 999. Thus, 
+insurers — and ultimately employers and consumers — bear the 
+cost of all payments for unnecessary and unreasonable treatment. 
+
+Utilization review — or some equivalent procedure — is 
+essential for the prevention of fraud and abuse in the workers’ 
+compensation medical care system. Utilization review developed 
+in response to academic studies demonstrating that “a significant 
+fraction of medical care is inappropriate and unnecessary.” Leape, 
+Practice Guidelines and Standards: An Overview, QUALITY REVIEW 
+BULLETIN 42, 42 (Feb. 1990); see also Kelly & Kellie, Appropri- 
+ateness of Medical Care, 114 ARCH. PATHOL. LAB. MED. 1119, 
+1119 & nn.1-9 (1990). Traditional fee-for-service plans give 
+
+
+2 One study found that utilization review reduced total medical 
+expenditures by 8.3%. See Feldstein, ef al., Private Cost Containment: 
+The Effects of Utilization Review [*»2rams on Health Care Use and 
+Expenditures, 318 NEW ENG. J. MED. 1310, 1312, 1314 (1988); see also 
+Wickizer, The Effect of Utilization Review on Hospital Use and 
+Expenditures, in REVIEW, REGULATE OR REFORM: WHAT WORKS TO 
+CONTROL WORKERS’ COMPENSATION Costs 108, 133 (1994) (summari- 
+zing studies of hospital utilization review under federal benefit programs 
+and concluding that utilization review “reduces hospital inpatient days by 
+somewhere between 5 and 10 percent”). The Pennsylvania Compensation 
+Rating Bureau has recently estimated the “net direct savings attributable 
+
+
+40 
+
+
+health care providers a financial incentive to provide medical care 
+and services that do not improve patient health. See, e.g., Walsh, 
+The Legal Attack on Cost Containment Mechanisms: The Expansion 
+of Liability for Physicians and Managed Care Organizations, 31 J. 
+MARSHALL L. REV. 207, 214 (1997); Danzon, Tort Liability: A 
+Minefield for Managed Care?, 26 J. LEGAL STUD. 491, 493 (1997) 
+(“Customary care under traditional insurance reflects severe moral 
+hazard and hence overuse of costly services.”). 
+
+The incentive to overuse medical services is heightened in the 
+workers’ compensation context, where medical insurance features 
+that are used to discourage overutilization — such as employee-paid 
+deductibles, co-payments, or dollar or duration limitations — are 
+barred by state law requiring a workers’ compensation insurer to 
+pay the full cost of reasonable and necessary medical services. 77 
+Pa. Stat. Ann. § 531(1), (5). As a result, “[p}roviders have shifted 
+costs from increasingly restrictive group health payers to less 
+restrictive workers’ compensation payers, primarily by providing 
+more intensive and longer duration services to workers’ compensa- 
+tion patients.” Tracy, The Importation of Managed Care to the 
+Workers’ Compensation System: Time for Re-evaluation and Re- 
+direction, 9 NO. 7 HEALTH LAW 16, 17 (1997); see also PA. LEGIS. 
+J. — HOUSE, at 2020 (Dec. 11, 1991) (statement of Rep. Murphy, 
+advocating adoption of medical cost-containment for workers’ 
+compensation because “the place where the health care costs are 
+now moving to is to workers’ compensation” in response to cost- 
+containment in other health care programs). To make matters 
+worse, employees may have an incentive to continue receiving 
+medical care (regardless of its medical efficacy) in order to delay 
+clearance to return to work, a particular problem in Pennsylvania 
+since one-third of injured workers receive wage replacement 
+benefits that are greater than their actual pre-injury wages. See D. 
+BALLANTYNE, supra, at 25. Similarly, by consuming additional 
+
+
+to utilization review before the Sullivan decisions at approximately $32 
+million per year,” with even larger “indirect” effects. Letter from 
+Timothy L. Wisecarver, President, Pennsylvania Compensation Rating 
+Bureau, to Richard Himler, Director, Bureau of Workers’ Compensation, 
+Dep’t of Labor & Industry, Commonwealth of Pennsylvania (Oct. 29, 
+1998), posted at <http://www.li.state.pa.us/wcletter.html > . 
+
+
+41 
+
+
+medical care and services, a worker may become eligible for a 
+
+
+Even under the current system, it is financially infeasible for 
+insurers to invoke utilization review in every instance of unreason- 
+able or unnecessary care, because the insurer must pay the cost of 
+utilization review. 77 Pa. Stat. Ann. § 531(6)(iii). If the insurer 
+is required to pay all bills received before the conclusion of 
+utilization review of a particular course of treatment, the direct 
+benefit of review will disappear, since the insurer is not permitted 
+to recoup reimbursement later determined to have been wrongful. 
+Requiring payment of bills pending the outcome of utilization 
+review thus substantially reduces the financial incentive for medical 
+providers to limit themselves to reasonable and necessary care. 
+
+2. The Employee’s Interest 
+
+The employee has an interest in timely reimbursement to his 
+or her provider for reasonable and necessary medical care.” 
+Because the medical care has already been provided, the em- 
+ployee’s interest is attenuated,” but it stands to reason that greater 
+uncertainty about payment could affect future treatment. Contrary 
+to the arguments of plaintiffs and the assumption of the court 
+below, however, a delay in payment is far from equivalent to a 
+termination of medical care. 
+
+
+In light of the incentives of the system, an insurer will 
+withhold payments only when it has reason to believe that the 
+utilization reviewer, a neutral medical professional in the provider's 
+own specialty, will conclude that the treatment was contrary to 
+accepted medical protocols and when the amount saved by this 
+determination will be greater than the cost of the utilization review. 
+
+
+® As discussed above, this interest, being indirect, is not legally 
+sufficient to give the claimant a right to challenge the procedures under 
+O'Bannon v. Town Court Nursing Ctr., 447 U.S. 773 (1980). See pages 
+32-35, supra. In this section, we show why plaintiffs’ claim would fail 
+even if it could survive that threshold difficulty. 
+
+* The real party in interest is the medical provider, but no one would 
+argue that the provider’s due process rights are violated by the relatively 
+brief delay in payment at issue here. 
+
+
+42 
+
+
+By the same token, a health care provider who believes that the 
+care he or she is providing is medically necessary has every 
+financial incentive — in addition to any ethical and professional 
+obligations — to continue care, since a provider whose treatment 
+decisions are upheld on utilization review is entitled to full 
+retroactive payment with 10% annual interest. 77 Pa. Stat. Ann. 
+§ 717.1(a); 34 Pa. Code § 127.210. Thus, a provider will likely 
+stop treatment during the pendency of utilization review only if he 
+or she expects an adverse review.” This inference is borne out by 
+the actual experience of the named plaintiffs: at least five of the 
+ten individual plaintiffs continued to receive disputed treatment 
+months or even years after a request for utilization review. See 
+J.A. 29, 30, 34, 36, 38. Moreover, even if the provider does 
+discontinue treatment, the worker (who remains eligible for care) 
+can go to another provider. If that provider provides reasonable 
+and necessary care, the worker may be better off for the change. 
+Finally, a patient who wishes to continue receiving a certain form 
+of treatment even if it is found to be unreasonable or unnecessary 
+can pay out-of-pocket to do so, as at least one of the named 
+plaintiffs chose to do. See id. at 42. All these factors serve to 
+protect the employee's interest in continued care. 
+3. The Value Of The Additional Safeguard 
+
+
+Obviously, employees (and their health care providers) would 
+prefer to receive immediate payment for all treatment, without any 
+scrutiny whatsoever. But for purposes of the due process balance, 
+the proper question is to what extent requiring immediate payment 
+will reduce the number of cases in which an injured worker's 
+reasonable and necessary medical treatments have been erroneously 
+terminated as a result of the delay in payment. Respondents have 
+provided no reason to believe that that number is substantial, and 
+there is every reason to believe that it is not. 
+
+
+* Under 77 Pa. Stat. Ann. § 531(7), a provider is prohibited from 
+“balance billing” an employee — attempting to collect the difference 
+between the amount billed and the amount reimbursed by the insurer — 
+for medical services determined to be unreasonable or unnecessary. See 
+also 34 Pa. Code § 127.211 (“Balance billing prohibited”). 
+
+
+43 
+
+
+payments must pay the entire cost of the review (regardless of its 
+
+
+outcome) and must pay the entire bill, with 10% interest, if it is 
+
+
+found to be necessary and reasonable, in a proceeding in which the 
+insurer bears the burden of proof (see 34 Pa. Code § 127.471(b)). 
+In light of these incentives, it is likely that insurers will invoke the 
+procedure only when they have very strong reasons to think that 
+their view of the treatment will prevail. In fact, according to 
+statistics compiled by the State, 69.14% of the requests for 
+utilization review through early 1998 were found to involve medical 
+care that was wholly or partially unreasonable or unnecessary. 
+Letter from Timothy L. Wisecarver, President, Pennsylvania 
+Compensation Rating Bureau, to Richard Himler, Director, Bureau 
+of Workers’ Compensation, Dep't of Labor & Industry, Common- 
+wealth of Pennsylvania (July 1, 1998), posted at <http://www.li. 
+state.pa.us/wcletter.html > .* The great likelihood that a denial of 
+reimbursement by an insurer will be upheld on utilization review 
+supports the conclusion that no additional procedures are required. 
+See FDIC v. Mallen, 486 U.S. 230, 242 (1988) (permissible length 
+of delay before post-deprivation hearing depends on “likelihood that 
+the interim decision may have been mistaken”). 
+
+Moreover, it stands to reason that the cases in which the 
+treatment is reasonable and necessary are the cases in which it is 
+most likely that the providers would continue to provide services in 
+the expectation that they will receive full retroactive payment with 
+interest. Requiring immediate payment of disputed bills would 
+therefore be tremendously costly and would greatly increase the 
+incidence of health care fraud and abuse by providers, without 
+significantly reducing the number of cases in which workers are 
+deprived of necessary and reasonable medical services. 
+
+
+** A copy of the July 1, 1998 Wisecarver letter was also lodged with the 
+Office of the Clerk of the Supreme Court by amicus curiae American 
+Insurance Ass'n ef al., simultaneous with the filing of their Brief in 
+Support of the Petition for Certiorari, and is included as an Appendix to 
+that Brief. 
+
+
+44 
+
+
+4. The Government’s Interest 
+
+The government has substantial interests in permitting insurers 
+to withhold payment for disputed treatment pending utilization 
+review. As a regulator, the government has an interest in contain- 
+ing costs for Pennsylvania employers and insurers that participate 
+in the workers’ compensation program, in order to ensure the 
+economic health of the business community and encourage in-state 
+investment. Act 44 was “intended to greatly curtail the escalating 
+medical costs associated with work-related injuries and illnesses.” 
+Dep't of Labor & Industry, Workers’ Compensation Medical Cost 
+Containment, PENNSYLVANIA BULLETIN 4875 (Vol. 25, No. 45, 
+Nov. 11, 1995). Medical payments dropped 25% in the year after 
+Act 44 was enacted, and as of 1996 employers had received 
+average rate reductions of 18%. Workers’ Compensation Reform, 
+posted at <http://www.state.pa.us./PA_Exec/ Governor/wcleg3. 
+html > . 
+
+
+This governmental interest goes beyond the interest of 
+intividerd tanumene ebtisadios tk neuhiies eee 
+able or unnecessary medical bills. The existence of an effective 
+utilization review mechanism serves both as a deterrent to fraudu- 
+lent and abusive claims and as a source of guidance and information 
+to providers about what services are properly regarded as medically 
+reasonable and necessary (and thus reimbursable). The Pennsylva- 
+nia Compensation Rating Bureau has estimated these “indirect” 
+effects of utilization review as “potentially much greater than the 
+direct effects of these decisions” because “many more claims may 
+be affected by such precedents [set by utilization reviews] than are 
+required to establish them.” Letter from Timothy L. Wisecarver, 
+President, Pennsylvania Compensation Rating Bureau, to Richard 
+Himler, Director, Bureau of Workers’ Compensation, Dep't of 
+Labor & Industry, Commonwealth of Pennsylvania (Oct. 29, 1998), 
+posted at <http://www.li.state.pa.us/wcletter.html>. If insurers 
+receive no direct benefit from undertaking utilization review 
+(because, under the decision below, they have to pay the bill for the 
+disputed treatment before the review takes place and cannot obtain 
+recoupment), they are far less likely to do so. This negates the 
+indirect benefits of utilization review for the entire system. Since 
+the Third Circuit’s decision, the number of utilization review 
+requests has declined by almost 60%. Ibid. 
+
+
+45 
+
+
+The government's interest in cost containment is entitled to 
+great weight. See Parham v. J.R., 442 U.S. 584, 604-05 (1979) 
+(State “obviously has a significant interest in confining the use of 
+its costly mental health facilities to cases of genuine need”); 
+Mathews v. Eldridge, 424 U.S. 319, 348 (1976) (noting govern- 
+ment and public interest “in conserving scarce fiscal and adminis- 
+trative resources”). As the Court recognized in Mathews, requiring 
+interim benefit payments to a recipient who ultimately is found to 
+be undeserving “may in the end come out of the pockets of the 
+deserving since resources available for any particular program of 
+social welfare are not unlimited.” 424 U.S. at 348; see also 
+Friendly, Some Kind of Hearing, 123 U. Pa. L. REV. 1267, 1276 
+
+
+(1975). 
+
+In addition, the government has significant interests in 
+controlling the medical care given to Pennsylvania residents. This 
+interest encompasses both a parens patriae interest in protecting 
+employees from unreasonable or unnecessary medical procedures, 
+see Walters v. National Ass'n of Radiation Survivors, 473 U.S. 
+305, 323 (1985); Parham, 442 U.S. at 605, and a regulatory 
+interest in ensuring that medical care provided to Pennsylvania 
+residents complies with professional standards, see, e.g., Bigelow 
+v. Virginia, 421 U.S. 809, 827 (1975) (state has a “legitunate 
+interest in maintaining the quality of medical care provided within 
+its borders”). 
+
+5. The Interest Balance 
+
+
+The balancing of interests in this case weighs decisively in 
+favor of permitting an insurer briefly to withhold payment for 
+disputed treatment pending the results of utilization review. The 
+minor risk of an erroneous delay in payment for treatment that is 
+reasonable and necessary, and the consequent possibility that a 
+provider will discontinue reasonable and necessary treatment 
+because of this delay, is greatly outweighed by the interests of the 
+private insurer and government in permitting suspension of payment 
+for disputed care. 
+
+A comparison with this Court’s treatment of similar regulatory 
+systems is instructive. In United States Department of Labor v. 
+Triplett, 494 U.S. 715 (1990), for example, this Court upheld the 
+constitutionality of federal regulations governing attorneys’ fees in 
+
+
+46 
+
+
+black hung benefit cases under which an attorney was not permitted 
+to accept any fees unless and until the claimant was successful in 
+applying for benefits and all appeals had been resolved. Jd. at 717. 
+In applying the Mathews balancing test, the Court emphasized that 
+delaying payment of fees until the conclusion of administrative 
+proceedings and possible judicial review protected the employer, 
+the insurance carrier, and the Black Lung Disability Trust Fund 
+“from a depletion that would leave other claimants without a source 
+of compensation.” Jd. at 722. The Court further noted that 
+requiring payment of fees to an attorney “immediately upon success 
+at every level, subject to recovery in the event the judgment in 
+favor of the claimant is reversed at a higher level, would impose 
+upon the payor the onerous task of seeking to obtain a refund.” 
+Ibid.*” Thus, the Court concluded, the delay in payment of fees 
+was fully consonant with due process. /d. at 726. 
+
+
+In Heckler v. Ringer, 466 U.S. 602, 619 (1984), this Court 
+held that Medicare recipients challenging the denial of payment for 
+
+
+requested surgery because of fear that the Secretary will not find 
+the surgery ‘reasonable and necessary’ and thus will refuse to 
+reimburse them,” id. at 626 — then surely the extremely brief 
+delay in payment at issue in this case is likewise permissible. 
+And in Schweiker v. McClure, 456 U.S. 188 (1982), this 
+
+
+issue in McClure, health care providers who treated patients 
+enrolled in Medicare Part B were required to submit bills to a 
+private insurance carrier. Jd. at 190-91. The carrier reviewed the 
+bill and, if it found that the treatment was not medically necessary, 
+
+
+* This reasoning applies a fortiori to this case, since workers’ 
+compensation insurers are precluded by law from recovering erroneous 
+payments to medical providers. See page 3-4, supra. Thus, seeking a 
+refund would be not only “onerous” but impossible. 
+
+
+47 
+
+
+denied payment subject to subsequent administrative review. /d. at 
+191. There was absolutely no hint in the Court’s opinion that any 
+delay in payment resulting from this procedure might violate due 
+process. As the Court noted, “[a}ppellees simply have not shown 
+
+
+that the procedures prescribed by Congress and the Secretary are 
+not fair * * *.” dd. at 200. 
+
+
+process permits the withholding of payment for disputed medical 
+services pending the outcome of utilization review. Just as the 
+attorneys in Triplett and the physicians in Ringer and McClure were 
+required to bear the substantial burden of a delay in payment 
+pending a final determination that payment should be made, so 
+must health care providers under Pennsylvania’s workers compensa- 
+tion system assume the modest risk that payment for reasonable and 
+necessary services will be briefly delayed. But that risk is vastly 
+outweighed by the risk on the other side — that the workers’ 
+compensation system would be required to pay for fraudulent, 
+no hope of recovery. Requiring payment for disputed treatment 
+pending utilization review is a classic example of a scenario in 
+which “the marginal gains from affording an additional procedural 
+safeguard * * * [are] outweighed by the societal cost of providing 
+such a safeguard.” Walters, 473 U.S. at 320-21. 
+
+
+C. Withholding Of Payment Pending Resolution Of Coverage 
+Issues Comports With Traditional Practice Under State 
+And Federal Law 
+The conclusion that due process permits the suspension of 
+
+payment for disputed medical treatment pending review is but- 
+
+tressed by an examination of the “[hjistorical and contemporary 
+practices” of other States. See Doehr, 501 U.S. at 16. As this 
+
+Court has emphasized “from its first due process cases, traditional 
+
+practice provides a touchstone for constitutional analysis.” Honda 
+
+Motor Co. v. Oberg, 512 U.S. 415, 430 (1994). The Court 
+
+reiterated this principle just two Terms ago in Washington v. 
+
+Glucksberg, 117 S. Ct. 2258 (1997), stating that “in all due-process 
+
+cases,” the “Nation’s history, legal traditions, and practices * * * 
+
+
+48 
+
+
+direct and restrain our exposition of the Due Process Clause.”* Id. 
+at 2262, 2268 (citations omitted). Where a practice enjoys the 
+support of a large majority of the States, and the imprimatur of 
+long experience, this Court has been extremely reluctant to strike 
+it down under the Due Process Clause. See, e¢.g., Schall v. 
+Martin, 467 U.S. 253, 266-67 (1984); Glucksberg, 117 S. Ct. at 
+2269; Burnham v. Superior Court, 495 U.S. 604, 615 (1990) 
+(plurality opinion). 
+
+Interpreted against “th[e] backdrop of history, tradition, and 
+practice” (see Glucksberg, 117 S. Ct. at 2267), there can be no 
+question that the challenged Pennsylvania scheme is constitutional. 
+To begin with, reasonable delay to permit evaluation of disputed 
+claims is a common insurer practice — and one permitted by 
+private insurance contracts as enforced under the common law. See 
+note 14, supra. Respondents’ claim is equivalent to suggesting that 
+the Constitution requires insurers (if state actors) to pay disputed 
+claims before an independent decisionmaker determines whether 
+they are covered by the governing contract. That has never been 
+the law in any jurisdiction, much less a requirement of the 
+
+Nor is Pennsylvania law inconsistent with modern practice 
+under other States’ laws. To the contrary, of the 41 States (and the 
+District of Columbia) whose statutes or regulations specifically 
+address the subject, at least 39 (including Pennsylvania) permit 
+insurers to withhold disputed claims during the pendency of 
+utilization review or the resolution of various disputes regarding the 
+scope of treatment or amount of compensation. See S. ECCLESTON 
+& C. YEAGER, WORKERS COMPENSATION RESEARCH INSTITUTE, 
+MANAGED CARE AND MEDICAL COST CONTAINMENT IN WORKERS’ 
+COMPENSATION, A NATIONAL INVENTORY, 1997-1998, at 18-19 
+
+
+* Glucksberg was a substantive due process case, but it specifically 
+made this point with reference to “all due-process cases.” 117 S. Ct. at 
+2262. Indeed, the emphasis on practice and tradition arose in this Court's 
+earliest due process cases, which were procedural in nature. Murray's 
+Lessee v. Hoboken Land & Improvement Co., 59 U.S. (18 How.) 272, 
+277 (1856); Missouri Pac. Ry. Co. v. Humes, 115 U.S. 512, 521 (1885); 
+Hurtado vy. California, 110 U.S. 516, 535 (1884). 
+
+
+49 
+
+
+(1997).” Likewise, numerous States authorize unilateral suspension 
+of payments for other reasons, such as when an employee returns 
+to work, refuses to submit to reasonable medical examination, or 
+declines to attend vocational rehabilitation or counseling. See Pet. 
+15 n.6 (collecting statutory authorities). Courts in at least five of 
+the remaining ten States go even further, holding that insurers (or 
+employers) may withhold payment without penalty whenever there 
+exists a good faith belief that no payment is due. See id. at 24-25 
+(collecting authorities). The law in Pennsylvania thus accords with 
+the “settled usages and modes of proceeding” in nearly all of the 
+other States. Hurtado v. California, 110 U.S. 516, 528 (1884). 
+
+
+At the federal level, the Longshore and Harbor Workers’ 
+Compensation Act, 33 U.S.C. § 901 ef seq., permits insurers that 
+voluntarily initiate benefits to injured workers subsequently to 
+challenge the reasonableness or necessity of the workers’ medical 
+care. Federal regulations authorize the insurers to withhold 
+payment and request government review of controverted treatment 
+(20 C.F.R. § 702.233), and they are not required to give workers 
+an opportunity to be heard before doing so. Jbid. Thus, viewed 
+in light of both federal and state law, the subject statute involves 
+not the slightest “deviation from established procedures,” much less 
+one “result{ing] in constitutional infirmity.” Oberg, 512 U.S. at 
+430. To the contrary, our national “experience favors this 
+legislation as the most efficient mode of preventing, with the least 
+inconvenience,” the expenditure of insurance funds for treatment 
+that ultimately is determined to be unreasonable or unnecessary. 
+See Missouri Pac. Ry. Co., 115 U.S. at 523. 
+
+
+The nearly uniform practice of over 40 States and the federal 
+government cannot be dismissed as unthinking or arbitrary. Our 
+Nation’s democratically elected officials are far better positioned 
+than federal judges — who possess limited expertise and informa- 
+
+
+The exceptions are North Carolina, where bills over $2,000 need not 
+be paid until after receipt of approval by the Industrial Commission, and 
+Oklahoma, where the Oklahoma Workers’ Compensation Court makes 
+case-by-case determinations on payment of disputed bills. S. ECCLESTON 
+& C. YEAGER, supra, at 219, 232. Thus, even these ex. ptions are more 
+apparent than real. 
+
+
+50 
+
+
+tion, are less accountable to the people, and whose rulings lack the 
+flexibility to adapt to changing circumstances — to determine fair 
+procedures for resolving insurance claim disputes, the allocation of 
+risk of mistake or fraud, and the efficacy of cost containment 
+strategies. See Gilucksberg, 117 S. Ct. at 2293 (Souter, J., 
+concurring) (“Not only do [legislatures] have more flexible 
+mechanisms for factfinding than the Judiciary, but their mechanisms 
+include the power to experiment, moving forward and pulling back 
+as facts emerge within their own jurisdictions.”). Indeed, given the 
+Third Circuit's conclusion that Pennsylvania workers’ ae hen 
+law is a “complex and interwoven regulatory web” (Pet. App. 
+14a), the court should not have substituted its own intuitions 
+regarding the interests of workers, employers, insurers, and health 
+care providers for the considered policy judgment of Pennsylvania's 
+elected officials, and that of virtually every other State in the 
+Union. 
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. The 
+court of appeals held that the so-called “‘unless’ clause” of 77 Pa. 
+Stat. Ann. § 531(5) is unconstitutional, and severed it from the 
+remainder of the statute, leaving insurers under the obligation to 
+pay all bills within 30 days even if they are seeking utilization 
+review. Pet. App. 25a. If this Court reverses on the state action 
+and due process questions, or on the due process question-alone, 
+that judgment should be reversed in its entirety. If this Court 
+reverses on the state action question without reaching the due 
+process question, the judgment below should be reversed as applied 
+to private insurers and employers, leaving them free to withhold 
+payments during the pendency of utilization review, as permitted 
+under 77 Pa. Stat. Ann. § 531(5). 
+
+
+Respectfully submitted. 
+
+
+ROBERT MCL. BOOTE 
+BURT M. RUBLIN 
+Ballard Spahr Andrews & 
+Ingersoll, LLP 
+
+1735 Market Stree 
+
+
+Philadelphia, PA 19103 
+(215) 665-8500 
+
+
+Counsel for All Petitioners 
+
+
+Except Donegal Mut. Ins. Co. 
+
+
+ROBERT E. KELLY, JR. 
+
+
+51 
+
+
+Duane, Morris, Heckscher, LLP 
+
+
+305 N. Front Street 
+
+
+Harrisburg, PA 17108 
+(717) 237-5500 
+
+
+Counsel for Donegal Mut. Ins. Co. 
+
+
+NOVEMBER 1998 
+
+
+MICHAEL W. MCCONNELL 
+Counsel of Record 
+
+ALAN E. UNTEREINER 
+STEFFEN N. JOHNSON 
+SHARON SWINGLE 
+Mayer, Brown & Platt 
+190 South La Salle Street 
+
+
+Chicago, IL 60603 
+(312) 782-0600 
+
+
+Counsel for All Petitioners 
+
+

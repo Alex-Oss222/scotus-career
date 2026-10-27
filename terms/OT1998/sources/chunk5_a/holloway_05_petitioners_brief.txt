@@ -1,0 +1,1663 @@
+‘ 
+
+
+No. 97-7164 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term, 1997 
+* 
+
+
+FRANCOIS HOLLOWAY, also known as ABDU ALI, 
+
+
+Petitioner, 
+
+
+UNITED STATES OF AMERICA, 
+Respondent. 
+a 
+
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Second Circuit 
+
+
+— e sn 
+
+
+BRIEF FOR THE PETITIONER 
+* 
+
+
+Kevin J. KeatinG 
+Counsel of Record 
+
+666 Old Country Road 
+Suite 501 
+
+Garden City, NY 11530 
+516-222-1099 
+
+
+Davip G. SECULAR 
+319 Broadway 
+New York, NY 10007 
+212-267-2224 
+
+July 2, 1998 
+
+
+————————"——"ahDDDDBSBJBW@B@@FHHWa||!——————=| 
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+
+
+Whether the specific intent to cause physical harm or 
+death contained as an essential element in the carjacking 
+statute encompasses an intent which is only conditional. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+QUESTION PRESENTED. .....00.scteusssneneunawae i 
+TABLE OF AUTHORITIES .....vccesessusunceeneaen ili 
+OPINIONS BELOW........:s000ceeeneese anes eee 1 
+STATEMENT OF THE BASIS FOR JURISDICTION.... 1 
+STATUTES INVOLVED .....c0csctcdceus venue enenee 2 
+STATEMENT OF THE CASE... .scasnessustuseuens 3 
+Summary of Argument .......0s.cenceesuemeeeene 12 
+ARGUMENT ...... 00000000000 0ned00s keene 13 
+
+
+PETITIONER’S CONVICTION MUST BE 
+REVERSED BECAUSE THE REQUIREMENT OF 
+AN INTENT TO CAUSE SERIOUS BODILY HARM 
+OR DEATH CONTAINED IN THE CARJACKING 
+STATUTE CANNOT BE INTERPRETED TO 
+ENCOMPASS CONDITIONAL INTENT .......... 
+
+
+I. The Statutory Language of the Carjacking Stat- 
+ute is Clear and Unequivocal................ 
+
+
+Il. The Legislative History Does Not Support the 
+Court's Interpretation of the Statute ......... 
+
+
+III. Persuasive Policy Reasons Do Not Exist to 
+Expand the rip sg Stated Mens Rea 
+Requirement of the Statute .................. 
+
+
+IV. The District Court Erroneously Instructed The 
+Jury on The Elements of the Concept of Condi- 
+tional Intent... .ocissccecsdct ent anne eeeneen 
+
+
+V. Fundamental Principles of Lenity Require that 
+the Statute be Applied in Accordance with its 
+Express Language ........ssscecessnccseceves 
+
+
+CONCLUSION ...cccscvcsvnccsntets ouenennene mE 
+
+
+13 
+
+
+14 
+
+
+19 
+
+
+23 
+
+
+28 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Arave v. Creech, 507 U.S. 463 (1993) ................. 30 
+Bifulco v. United States, 447 U.S. 381 (1980).......... 31 
+Caminetti v. United States, 242 U.S. 470 (1917) ....... 17 
+Cheeks v. United States, 498 U.S. 192 (1991).......... 18 
+Connecticut Nat'l Bank v. Germain, 503 U.S. 249 
+CU Ce a eek eV dcececuccasceecoeccceses 16 
+Dowling v. United States, 473 U.S. 207 (1985)......... 17 
+Hughey v. United States, 495 U.S. 411 (1990)...... 20, 32 
+Liparota v. United States, 471 U.S. 419 (1985)...... 17, 18 
+Morissette v. United States, 342 U.S. 246 (1952)....17, 18 
+People v. Goetz, 497 N.E.2d 41 (N.Y. 1986) ........... 30 
+Perrin v. United States, 444 U.S. 37 (1979)............ 16 
+Ratzlaf v. United States, 510 U.S. 135 (1994).......... 19 
+Rubin v. United States, 449 U.S. 424 (1981)........... 16 
+Staples v. United States, 511 U.S. 600 (1994).......... 18 
+United States v. American Trucking Ass'ns, 310 U.S. 
+eee ee ec ike dee baseseontocvercs 16 
+United States v. Anderson, 108 F.3d 478 (3d Cir.), 
+cert. denied, 118 S. Ct. 123 (1997)...............45. 12 
+United States v. Bailey, 444 U.S. 394 (1980)........... 19 
+United States v. Bass, 404 U.S. 336 (1971) ............ 32 
+United States v. Craft, 1996 U.S. Dist. LEXIS 18964, 
+1996 WL 745527 (E.D. Pa. Dec. 23, 1996).......... 12 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+United States v. Dworken, 855 F.2d 12 (1st Cir. 
+Secs ks dub db ednenceddebuasucd wale kaeoies -29, 30 
+United States v. Hudson, 11 U.S. (7 Cranch) 32 
+SED a 300k 00.60404606 44 dn due bekeddedndecdenees cia. 17 
+United States v. Kozminski, 487 U.S. 931 (1988)....... 17 
+United States v. Lake, 972 F. Supp. 328 (D.V.1. 1997)... .. 12 
+United States v. R.L.C., 503 U.S. 291 (1992) .......... 31 
+United States v. Randolph, 93 F.3d 656 (9th Cir. 
+Ses cndcescnbdavakdcoteuscne peueeseurse 12, 15 
+United States v. Rivera-Gomez, 67 F.3d 993 (1st Cir. 
+SOEs 66 kc cbdene chusakdse dobbs bwienteenc asus 15 
+United States v. Romero, 122 F.3d 1334 (10th Cir. 
+Sec bn é ceseeuehae as Gancadnende lest ice 12 
+United States v. United States Gypsum Co., 438 U.S. 
+Se Sees auiviwendusedunccckGienaon cde 18, 19 
+United States v. Wiltberger, 18 U.S. (5 Wheat.) 76 
+CEs eoewe¥ébwednden sdadhateeestaitete ease 17 
+iS OO VER See Geek wee Ce saccptawccpaccate wa 30 
+
+
+Srarutes AND Lecistative History 
+
+
+Violent Crime Control and Law Enforcement Act of 
+1994, Pub. L. No. 103-322, 108 Stat. 1796, 1970 ...15, 22 
+
+
+Anti Car Theft Act, Pub. L. No. 102-519, 106 Stat. 
+
+
+GOIE s.s win's tedkaecekdindne dukes etic ot aeons 2 14 
+B06. 6 i os. akcaes ei 1 
+BURL AG Fs 1, 3, 4, 10, 33 
+6 US0.4 06... nthe oe 1, 2, 3, 14 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+ee ad Ue iw de bd a chcebekdewadheeudkdnetur heat? i. 3 
+ee as Oe CE Sauin da cuadodeccasicendcadee seeiece 1 
+139 Cong. Rec. $15,302 (daily ed. Nov. 8, 1993) 
+Sn Gir es MR. cob uccahidnvhbwkies cos 23 
+139 Cong. Rec. $15,524-26 (daily ed. Nov. 10, 1993) 
+SOE OE ts NI. voc oka cudncdwkcdéasdiees 23 
+139 Cong. Rec. $5821 (daily ed. May 12, 1993) 
+(statement of Sen. Lieberman) .................... 20 
+140 Cong. Rec. E858 (daily ed. May 5, 1994) (state- 
+GS Se GS. I sb renrs vckedenadivsaccdesnces 21 
+140 Cong. Rec. H2325-26 (daily ed. Apr. 14, 1994) 
+Gee GU, Cs GS Weideeecscccsivosueseans. 23 
+ee SS eee 21 
+Ornerk AUTHORITIES 
+Model Penal Code § 2.01(2)(a) ..................00-- 28 
+es ee NN OO Rn kd nccnacessetechws 29 
+
+
+Larry Alexander & Kimberly D. Kessler, Mens Rea 
+and Inchoate Crimes, 87 J]. Crim. L. & Criminol- 
+SE TE Cade cenvanvdndbabahecdslechaxdidins 25 
+
+
+Paul A. Robinson & Jane A. Grall, Element Analysis 
+in Defining Criminal Liability: The Model Penal 
+Code and d 35 Stan. L. Rev. 681 (1983)....... 29 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the Second Circuit Court of Appeals 
+(J.A. 48-73) is reported at 126 F.3d 82. The opinion of the 
+United States District Court for the Eastern District of 
+New York (J.A. 32-47) is reported at 921 F. Supp. 155. 
+
+
+e 
+
+
+STATEMENT OF THE BASIS FOR JURISDICTION 
+
+
+Petitioner appeals from an order of the United States 
+Court of Appeals for the Second Circuit filed on Septem- 
+ber 16, 1997, (the mandate was issued on October 7, 1997) 
+which affirmed, in a majority opinion, the judgment of 
+the United States District Court, Eastern District of New 
+York (Gleeson, J.) entered on August 28, 1996, upon a jury 
+verdict convicting petitioner of conspiracy to operate (18 
+U.S.C. § 371) and the operation of a chop shop (18 U.S.C. 
+§ 2322), three separate counts of carjacking (18 U.S.C. 
+§ 2119); and three separate counts of the use of a firearm 
+during a crime of violence (18 U.S.C. § 924(c)(1)). 
+
+
+Petitioner was sentenced to 60 months on his convic- 
+tion of conspiracy, concurrent sentences of 151 months on 
+his convictions for operating a chop shop and his convic- 
+tion for the three carjacking counts and consecutive 5, 20 
+and 20 year sentences on his convictions under three 
+separate § 924(c) counts. 
+
+
+The jurisdiction of the Court is invoked under 28 
+U.S.C. § 1254(1). The petition for certiorari was granted 
+on April 27, 1998. 
+
+
+STATUTES INVOLVED 
+
+
+In 1992, 18 U.S.C. § 2119 stated: 
+
+
+Whoever, possessing a firearm as defined in 
+section 921 of this Title, takes a motor vehicle 
+that has been transported, shipped, or received 
+in interstate or foreign commerce from the per- 
+son or presence of another by force and violence 
+or by intimidation, or attempts to do so shall - 
+
+
+(1) be fined under this title or imprisoned 
+not more than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in 
+section 1365 of this title, including any conduct 
+that, if the conduct occurred in the special mar- 
+itime and territorial jurisdiction of the United 
+States, would violate section 2241 or 2242 of this 
+title) results, be fined under this title or 
+imprisoned not more than 25 years, or both, and 
+
+
+(3) if death results, be fined under this title 
+or imprisoned for any number of years up to life 
+or both. 
+
+
+The Violent Crime Control and Law Enforcement Act 
+of 1994 amended the statute in the following manner: 
+
+
+(14) CARJACKING - Section 2119(3) of 
+Title 18, United States Code is amended by strik- 
+ing the period after “both” and insert'ng, “or 
+sentenced to death.”; and by striking, ‘ possess- 
+ing a firearm as defined in Section 921 of this 
+Title,” and inserting, “with the intent to cause 
+death or serious bodily harm”. 
+
+
+18 U.S.C. § 2119 now reads: 
+
+
+Whoever, with the intent to cause death or 
+serious bodily harm takes a motor vehicle that 
+
+
+has been transported, shipped, or received in 
+interstate or foreign commerce from the person 
+or the presence of another by force, and violence 
+or by intimidation, or attempts to do so, shall - 
+
+
+(1) be fined under the title or imprisoned 
+not more than 15 years, or both, 
+
+
+(2) if serious bodily injury (as defined in 
+section 1365 of this title, including any conduct 
+that, if the conduct occurred in the special mar- 
+itime and territorial jurisdiction of the United 
+States, would violate Section 2241 or 2242 of this 
+title) results, be fined under this title or 
+imprisoned not more than 25 years, or both, and 
+
+
+(3) if death results, be fined under this title 
+or imprisoned for any number of years up to 
+life, or both, or sentenced to death. 
+
+
+¢ 
+
+
+STATEMENT OF THE CASE 
+Proceedings in the District Court 
+
+
+Petitioner, FRANCOIS HOLLOWAY, a/k/a ABDU 
+ALI, was indicted in the Eastern District of New York for 
+the crimes of conspiracy to operate (18 U.S.C. § 371) and 
+the operation of a chop shop (18 U.S.C. § 2322) (Counts 1 
+and 2 of the indictment filed against him and several 
+other codefendants), three separate counts of carjacking 
+(18 U.S.C. § 2119) (Counts 7, 9, and 11 of the indictment); 
+and three separate counts of the use of a firearm during a 
+crime of violence (18 U.S.C. § 924(c)(1)) (Counts 8, 10 and 
+12 of the indictment). J.A. 4-6, 8-10. 
+
+
+During petitioner’s jury trial, the primary witness 
+against petitioner was the cooperating co-defendant Ver- 
+non Lennon. Lennon testified pursuant to a cooperation 
+agreement with the government which involved a plea of 
+guilty to two counts of the instant indictment, a single 
+carjacking count and a 924(c) count. (107-08). 
+
+
+Lennon testified that in 1994 he observed petitioner 
+frequenting a chop shop where a codefendant Arnold 
+dismantled cars. (96). Lennon related that pursuant to the 
+request of his father, he began stealing cars which were to 
+be taken to the chop shop for dismantling. 
+
+
+Lennon testified that at one time he had a conversa- 
+tion with petitioner in which he informed the latter that 
+he carried a gun during his robberies of vehicles and 
+even displayed his .32 caliber revolver to petitioner. He 
+also related that both petitioner and Lennon were told to 
+steal specific vehicles by Arnold. (103-04). 
+
+
+Lennon related that the crimes he committed with 
+petitioner included the carjacking of a Toyota Celica 
+(Count 11), a Mercedes Benz (Count 9), and a Maxima 
+(Count 7). (115). 
+
+
+Lennon described the taking of the Maxima. (Count 
+7). He related that he and petitioner followed the vehicle 
+and, after observing the driver exit the car, Lennon 
+approached him and pointed a gun, whereupon the vic- 
+tim dropped the keys. Lennon retrieved the keys and 
+drove the vehicle to the chop shop location. During the 
+crime, petitioner remained seated in a waiting vehicle 
+
+
+! Parenthetical references are to the trial transcript. 
+
+
+which he had driven to the location with Lennon. 
+Although Lennon indicated that he was prepared to use 
+the gun if the victim “had tried something”, there was no 
+
+
+actual intent to cause anyone serious injury during the 
+event. (118-20). 
+
+
+Lennon also described the taking of the Mercedes 
+Benz. (Count 9). In the course of this event, Lennon 
+pointed a gun at the driver of the car, who had exited his 
+vehicle, whereupon Lennon threatened to shoot him if he 
+did not relinquish his keys. Lennon was accompanied by 
+petitioner who struck the owner of the car in the face 
+when he hesitated by backing away from the twosome. 
+Lennon then took the Mercedes while petitioner followed 
+behind in another vehicle. The victim did not suffer an 
+injury which required medical treatment. There was no 
+other conduct or words spoken in the course of this 
+incident which manifested an intent to cause serious 
+bodily injury. (120-27). 
+
+
+Lennon also testified concerning the theft of the 
+Toyota Celica during which he and petitioner approached 
+a driver and Lennon demanded her keys. The driver 
+abandoned the vehicle while leaving the keys inside the 
+car. Consequently, Lennon was able to steal the auto- 
+mobile without even displaying a firearm during the 
+crime. (130-34). (Count 11). 
+
+
+Lennon never testified that either he or petitioner 
+possessed an unconditional intent to harm any of the 
+drivers of the stolen vehicles. In fact, the desired objec- 
+tive was to steal the vehicle without having to harm the 
+victim. (135-40). The government never challenged Len- 
+non’s assertions that the intent to cause harm was 
+
+
+entirely conditioned upon resistance which never mate- 
+rialized. 
+
+
+Lennon testified that, with all of his car robberies, his 
+plan was the same. He would display a gun in an effort to 
+scare his victims into relinquishing their keys to their 
+vehicle. He never intended to shoot his victims and the 
+objective was to leave the owners of the vehicles 
+unharmed. Although he was prepared to use his gun if 
+the circumstances warranted its use, such circumstances 
+never arose in any of the robberies in which he and 
+petitioner were involved. (144-53). 
+
+
+Lennon also conceded that it was always he, not 
+petitioner, who possessed a weapon during the carjack- 
+ings. Lennon never testified that he informed petitioner 
+that the gun was loaded. (158). 
+
+
+The government presented testimony from the vic- 
+tims of the carjackings, including Ruben Rodriguez. 
+Rodriguez testified that he was struck in the face during 
+the carjacking of his Mercedes. Rodriguez confirmed that 
+he did not receive any medical treatment and that no 
+shots were fired when he fled. (51-55). 
+
+
+The Rule 29 Motion 
+
+
+Following the presentation of the government's case, 
+defense counsel moved for a dismissal of all carjacking 
+and gun counts charged in the indictment (Counts 7 
+through 12), on the ground that the government failed to 
+present legally sufficient proof that petitioner acted with 
+the statutorily required specific intent to cause death or 
+
+
+serious bodily harm to any of the victims of the carjack- 
+ings. Defense counsel argued that the cooperating wit- 
+ness testified that, during the commission of the thefts, it 
+was never his intent to cause death or serious bodily 
+harm. Moreover, he maintained that a “conditional 
+intent” to cause harm had the carjackings been resisted 
+failed to establish the specific intent element of the crime. 
+
+
+Defense counsel also argued that the concept of con- 
+ditional intent was not provided for in the carjacking 
+statute nor was it recognized under federal law. 
+
+
+Finally, defense counsel asserted that even if the con- 
+cept of conditional intent was adopted by the court, there 
+was no evidence that petitioner shared such a conditional 
+intent with Lennon. Counsel argued that the absence of 
+proof that Lennon ever communicated his intention to 
+hurt a victim who resisted his carjacking efforts to peti- 
+tioner and the complete lack of evidence that petitioner 
+independently harbored such an intent compelled the 
+court to grant the Rule 29 motion. (223-227). 
+
+
+The government opposed defense counsel’s motion 
+and argued that the concept of conditional intent is valid 
+and that, on this level of culpability, the government 
+presented sufficient evidence to warrant the case going to 
+a jury. (228). 
+
+
+The Court denied the Rule 29 motion and ruled that 
+conditional intent was applicable to the facts of the case. 
+The court held that an intent to inflict death or serious 
+bodily harm, should it become necessary, was sufficient 
+to establish the specific intent required by the statute. 
+(234). 
+
+
+The Court’s Charge facts you may consider in determining whether 
+
+
+the government has met its burden. 
+The court rejected all defense arguments in opposi- 
+
+
+tion to the theory of conditional intent and instructed the 
+jury on the concept as follows: 
+
+
+You may also consider the fact that no vic- 
+tim was actually killed or seriously injured 
+
+
+The defendant's intent in committing the 
+crime must have been to cause death or serious 
+bodily harm. I remind you that intentional con- 
+duct is done willfully, with a bad purpose to do 
+something the law forbids, in this case, to cause 
+death or serious bodily harm to the person from 
+whom the car was taken. 
+
+
+It is the defendant's theory of the case that 
+the evidence fails to prove that he acted with 
+intent to cause death or serious bodily harm. 
+
+
+If the government has failed to prove 
+beyond a reasonable doubt that the defendant 
+acted with the intent to kill or cause serious 
+bodily harm to the particular victim, you must 
+find him not guilty of that offense. 
+
+
+The defendant is entitled to the presump- 
+tion of innocence with regard to all of the ele- 
+ments of the offense including this element. 
+That is, you must presume that the defendant 
+did not possess the intent to kill or cause serious 
+bodily harm and you must continue to give the 
+benefit of that presumption to the defendant 
+unless and until it is proven beyond a reason- 
+able doubt that the defendant intended to cause 
+death or serious bodily harm at the time of the 
+events you are considering. 
+
+
+Evidence that the defendant intended to use 
+a gun to frighten the victims is not sufficient in 
+and of itself to prove an intent to kill or cause 
+serious bodily harm. It is, however, one of the 
+
+
+when you consider the evidence or lack of evi- 
+dence as to the defendant's intent. 
+
+
+In some cases, intent is conditional. That is, a 
+defendant may intend to engage in certain conduct 
+only if a certain event occurs. 
+
+
+In this case, the government contends that the 
+defendant intended to cause death or serious bodily 
+harm if the alleged victims had refused to turn over 
+their cars. If you find beyond a reasonable doubt that 
+the defendant had such an intent, the government 
+has satisfied this element of the offense. 
+
+
+If you find that the co-defendant, Vernon 
+Lennon, acted with the intent to cause death or 
+serious bodily injury, that is not sufficient. You 
+must find that the defendant shared in that 
+intent before you can conclude that this element 
+has been satisfied. 
+
+
+Let me also remind you, you must consider 
+each count separately.” J.A. 19-21 (emphasis 
+added). 
+
+
+During deliberations, the jury sent out a note that 
+stated they needed a copy of the law on intent. J.A. 23. In 
+responding to the note, the court once again instructed 
+the jury on its concept of conditional intent. J.A. 27-31. 
+
+
+The Verdict 
+
+
+Appellant was found guilty of all eight counts 
+charged against him in the indictment. 
+
+
+10 
+
+
+The Post Verdict Motion 
+
+
+On April 5, 1996, the district court denied peti- 
+tioner’s renewal of his Rule 29 motion, made pursuant to 
+Rule 33 of the Federal Rules of Criminal Procedure. In a 
+written opinion, the court adhered to its original decision 
+sustaining the government’s proof on the basis of the 
+concept of conditional intent. J.A. 32-47. 
+
+
+The Sentence 
+
+
+At sentencing, on August 16, 1996, the court sen- 
+tenced petitioner to a sentence of 60 months on his con- 
+viction under the conspiracy to operate a chop shop 
+count; concurrent sentences of 151 months on his convic- 
+tion under the chop shop and carjacking counts; and 
+consecutive sentences totaling an additional 45 years on 
+his convictions under the § 924(c) counts. 
+
+
+A timely notice of appeal was filed. Petitioner is 
+currently serving his sentence in the custody of the 
+Bureau of Prisons. 
+
+
+The Second Circuit Court of Appeals Decision 
+
+
+On September 16, 1997, the Second Circuit Court of 
+Appeals upheld petitioner’s conviction and, in a majority 
+opinion, held that the court’s instruction on conditional 
+intent was correct. 
+
+
+The circuit court found that the concept of cordi- 
+tional intent to harm is included within the definition of 
+specific intent. Notwithstanding the absence of any pre- 
+cedent in federal law, the majority relied on state law and 
+the Model Penal Code (which has never been adopted by 
+
+
+11 
+
+
+the federal courts) as support for finding conditional 
+intent to be included within the concept of specific intent. 
+
+
+Finally, although the majority stated that it was not 
+attempting to rewrite a poorly drafted statute, the court 
+wrote, “Furthermore, and most importantly, incorporat- 
+ing conditional intent within the specific intent language 
+of the statute comports with the reasonable interpretation 
+of the legislative purpose of the statute.” J.A. 63. 
+
+
+In a carefully worded dissenting opinion, Judge 
+Miner found no basis in the plain language of the statute 
+or in its legislative history to support expanding the 
+mental culpability required for the commission of the 
+crime of carjacking to include conditional intent. J.A. 
+67-73. Judge Miner reasoned that the language of the 
+statute was clear and unambiguous. Further, Judge Miner 
+found that the Congressional record failed to contain 
+sufficiently persuasive information to support a conclu- 
+sion that the heightened intent requirement added by the 
+1994 amendment to the crime was an “unintended draft- 
+ing error.” J.A. 69. Moreover, Judge Miner wrote that 
+even .f the heightened intent requirement was an inad- 
+vertent legislative mistake, the Supreme Court has long 
+held that “to supply omissions (to a statute) transcends 
+the judicial function.” Id. (quoting Iselin v. United States, 
+270 U.S. 245, 251 (1926)). 
+
+
+Finally, Judge Miner stressed that there exists no 
+basis in federal law which permits the expansion of speci- 
+fic intent to include the concept of conditional intent. The 
+two are clearly different states of mind. Thus, despite 
+assertions to the contrary, in finding that the carjacking 
+statute encompassed the conditional intent to cause 
+
+
+12 
+
+
+serious injury or death, the majority effectively redrafted 
+the law. 
+
+
+The opinion and holding «f the Second Circuit con- 
+flicted with the holding of the Ninth Circuit in United 
+States v. Randolph, 93 F.3d 656 (9th Cir. 1996). The Third 
+Circuit in United States v. Anderson, 108 F.3d 478 (3d Cir.), 
+cert. denied, 118 S. Ct. 123 (1997), and the Tenth Circuit in 
+United States v. Romero, 122 F.3d 1334 (10th Cir. 1997), 
+have upheld the concept of conditional intent and 
+applied it to the crime of carjacking. In United States v. 
+Lake, 972 F. Supp. 328 (D.V.1. 1997), the district court 
+adopted the concept of conditional intent and in United 
+States v. Craft, 1996 U.S. Dist. LEXIS 18964, 1996 WL 
+745527 (E.D. Pa. Dec. 23, 1996), the district court rejected 
+the theory. 
+
+
+On April 27, 1998, this Court granted certiorari. 
+
+
+Summary of Argument 
+
+
+Petitioner contends that both the Second Circuit 
+Court of Appeals and the Eastern District Court commit- 
+ted reversible error when they interpreted the carjacking 
+statute to encompass a conditional intent to cause serious 
+bodily harm or death. The statute passed by Congress in 
+1994 expressly added the requirement of an intent to 
+cause serious bodily harm or death as an element of the 
+crime. Petitioner contends that the plain language of the 
+statute must be interpreted in accordance with its terms. 
+Moreover, although neither legislative history or public 
+policy can be relied on to support a different conclusion, 
+both the legislative history and public policy support 
+petitioner's argument. 
+
+
+13 
+
+
+In addition, petitioner also contends that the concept of 
+conditional intent has no basis in federal criminal law and 
+cannot be applied to petitioner’s case. Furthermore, peti- 
+tioner contends that the instructions provided to the jury on 
+conditional intent were unconstitutionally defective. 
+
+
+Finally, even if the Court were to find some support 
+for the proposition that the carjacking statute encom- 
+passes a conditional intent to cause serious bodily harm 
+or death, principles of lenity would require the Court not 
+to enforce such an interpretation against the petitioner. 
+
+
+° 
+
+
+ARGUMENT 
+
+
+PETITIONER’S CONVICTION MUST BE REVERSED 
+BECAUSE THE REQUIREMENT OF AN INTENT TO 
+CAUSE SERIOUS BODILY HARM OR DEATH CON- 
+TAINED IN THE CARJACKING STATUTE CANNOT BE 
+INTERPRETED TO ENCOMPASS CONDITIONAL 
+INTENT 
+
+
+The issue before the Court is whether the express 
+definition of intent contained in a criminal statute can be 
+expanded and replaced by a reduced level of mental 
+culpability. Because such an exercise necessarily requires 
+judicial intervention into the reach of an unequivocally 
+worded statute, it cannot be allowed. 
+
+
+In deciding the meaning and reach of a federal crimi- 
+nal law, a number of irrefutable guidelines have emerged. 
+First and foremost the language of a statute is examined. 
+Thus, in this case where the statute provides that the 
+defendant must possess a specific intent to cause death or 
+serious bodily harm as an element of the offense, there is 
+
+
+14 
+
+
+no room for debate concerning the mens rea required for 
+conviction. 
+
+
+The ruling of the Second Circuit failed to adhere to 
+this fundamental tenet. Its decision holding that the fed- 
+eral carjacking statute encompasses a conditional intent 
+to cause serious bodily harm or death must be reversed 
+because: (1) the holding patently contravenes the plain 
+and unequivocal language of the carjacking statute; (2) 
+the decision introduces an entirely novel concept of men- 
+tal culpability into federal criminal law; (3) the legislative 
+history of the carjacking statute provides no support for 
+introducing the concept of conditional intent into the 
+statute; (4) persuasive policy reasons simply do not exist 
+to expand the reach of an essentially unambiguous crimi- 
+nal statute; (5) longstanding principles of lenity require 
+this Court not to construct the statute against petitioner; 
+and (6) the district court erroneously instructed the jury 
+on the concept of conditional intent. 
+
+
+I. The Statutory Language of the Carjacking Statute is 
+Clear and Unequivocal 
+
+
+In 1992, Congress passed the Anti Car Theft Act, Pub. 
+L. No. 102-519, 106 Stat. 3384, which read as follows: 
+
+
+Whoever, possessing a firearm . . . takes a motor 
+vehicle . . . from the person or presence of 
+another by force and violence or by intimida- 
+tion, or attempts to do so, shall. . . . (3) if death 
+results, be fined under this title or imprisoned 
+for any number of years up to life, or both. 
+(Codified at 18 U.S.C. § 2119.) 
+
+
+15 
+
+
+During 1993, an amendment to the statute was 
+adopted by Congress and the statute now reads as fol- 
+lows: 
+
+
+Whoever, with the intent to cause death or 
+serious bodily harm .. . takes a motor 
+vehicle . . . from the person or the presence of 
+another by force, and violence or by intimida- 
+tion, or attempts to do so, shall. . . . (3) if death 
+results, be fined under this title or imprisoned 
+for any number of years up to life, or both, or 
+sentenced to death.” 
+
+
+The language of the amended statute is neither com- 
+plex nor difficult to grasp. Indeed, there is simply no 
+mystery as to the statute. As amended, the statute elimi- 
+nated the requirement that a weapon be possessed and 
+added the element that the perpetrator have the intent to 
+cause death or serious bodily harm. Although no longer 
+requiring that the perpetrator possess a firearm, the 
+added requirement that the perpetrator possess the intent 
+to cause death or serious bodily harm transformed the 
+statute from a general intent crime into a specific intent 
+offense. United States v. Randolph, 93 F.3d 656 (9th Cir. 
+1996); United States v. Rivera-Gomez, 67 F.3d 993 (1st Cir. 
+1995). In addition, the statute provides for the imposition 
+
+
+2 The law was enacted in the following provision of the 
+Violent Crime Control and Law Enforcement Act of 1994, Pub. 
+L. No. 103-322, 108 Stat. 1796, 1970: 
+
+
+“(14) CARJACKING -— Section 2119(3) of Title 18, 
+United States Code, is amended by striking the period 
+after “both” and inserting, “or sentenced to death”; 
+and by striking, “possessing a firearm as defined in 
+section 921 of this title”, and inserting, “with the 
+intent to cause death or serious bodily harm.” 
+
+
+16 
+
+
+of the death penalty where the crime results in the death 
+of a person. 
+
+
+It is beyond cavil that the first canon of statutory 
+construction is “a legislature says in a statute what it 
+means and means in a statute what it says.” Connecticut 
+Nat'l Bank v. Germain, 503 U.S. 249, 253-54 (1992). Thus, a 
+court has no choice but to apply a statute in accordance 
+with its terms. Indeed, unless a literal reading of a statute 
+would “lead to absurd or futile results” or completely 
+frustrate the obvious Congressional intent, the words of a 
+statute must be taken as the final expression of its pur- 
+pose. United States v. American Trucking Ass'ns 310 U.S. 
+534, 543 (1940). 
+
+
+Thus, the Court has held that when the words of a 
+statute are unambiguous, this first canon of statutory 
+construction is also the last. Rubin v. United States, 449 
+U.S. 424, 430 (1981). Judicial inquiry is complete when the 
+provisions of a statute and the elements of a crime are 
+readily discernible and easily understood. Rubin v. United 
+States, supra. “Unless otherwise defined, [statutory] 
+words will be interpreted as taking their ordinary, con- 
+temporary, common meaning.” Perrin v. United States, 444 
+U.S. 37, 42 (1979). 
+
+
+These rules of construction simply leave no room to 
+interpret the amendments to the 1994 carjacking statute 
+in any manner other than their obvious and unequivocal 
+terms. The law contains no omissions or gaps or lack of 
+clarity as to the intent element. Indeed, any attempt to 
+manipulate the language of the statute or to expand upon 
+it can only be viewed as an attempt to alter a law enacted 
+
+
+17 
+
+
+by Congress to better suit the taste of the presiding 
+tribunal. Caminetti v. United States, 242 U.S. 470 (1917). 
+
+
+It is also incontestable that the elements of a criminal 
+offense are created by the legislature, particularly in the 
+case of federal crimes, which are solely creatures of stat- 
+ute. Liparota v. United States, 471 U.S. 419, 424 (1985); 
+United States v. Hudson, 11 U.S. (7 Cranch) 32, 34 (1812). 
+Thus, when Congress has expressly defined the mental 
+state required for the commission of a crime, the statute 
+must be interpreted in accordance with its unequivocal 
+language. Cf. Liparota v. United States, 471 U.S. at 424. 
+
+
+In all cases where the Court has grappled with the 
+mens rea required by a criminal statute, the rule of first 
+priority has always been that federal crimes are defined 
+by Congress. Therefore, as long as Congress acts within 
+its constitutional power, the Court “must give effect to 
+Congress’ expressed intention concerning the scope of 
+conduct prohibited.” United States v. Kozminski, 487 U.S. 
+931, 939 (1988); see also Dowling v. United States, 473 U.S. 
+207, 213-14 (1985); United States v. Wiltberger, 18 U.S. (5 
+Wheat.) 76, 95 (1820). The courts “should not enlarge the 
+reach of enacted crimes by constituting them from any- 
+thing less than the incriminating components contem- 
+plated by the words used in the statute.” Morissette v. 
+United States, 342 U.S. 246, 263 (1952). 
+
+
+In determining the issue of mental culpability, the 
+Court has never expanded the concept of intent beyond 
+the clear language of the statute. Accordingly, while the 
+Court has required a higher level of mens rea than the 
+language of the law expressly required, the Court has 
+never required a lower level of mens rea than required by 
+
+
+18 
+
+
+a statute. Staples v. United States, 511 U.S. 600 (1994); 
+Cheeks v. United States, 498 U.S. 192 (1991); Liparota v. 
+
+
+United States, 471 U.S. 419 (1985); United States v. United ~ 
+
+
+States Gypsum Co., 438 U.S. 422 (1978); Morissette v. United 
+States, 342 U.S. 246 (1952). 
+
+
+In holding that government has the burden of pro- 
+ving intent, notwithstanding the absence of an express 
+mens rea element in the statute, the Court has consis- 
+tently stressed that “Congress will be presumed to have 
+legislated against the background of our traditional legal 
+concepts which render intent a critical factor, and 
+‘absence of contrary direction will be taken as satisfaction 
+with widely accepted definitions, not as a departure from 
+them.’ ” United States v. United States Gypsum Co., 438 U.S. 
+422, 437 (1978) (quoting Morissette v. Lnited States, 342 
+U.S. 246, 263-(1952)). 
+
+
+In petitioner’s case, the amended statute expressly 
+provides (rather than omits) a standard of mens rea 
+which has a widely accepted application in federal crimi- 
+nal law. The government attempts to minimize this clear 
+expression of Congressional will by advocating the cre- 
+ation of a conditional concept of mens rea. But condi- 
+tional intent is not contained in the language of the 
+statute, is a novel standard of mens rea in federal law and 
+has no basis in the precedents established by the Court. 
+
+
+In ruling on the meaning of the intent element within 
+federal criminal statutes, the Court has never recognized 
+the concept of conditional intent. Indeed, both general 
+and specific intent are clearly recognized as the state of 
+mind actually possessed by the perpetrator at the time of 
+
+
+ov 
+
+
+19 
+
+
+commission of the crime. Intent, whether general or spec- 
+ific, is never defined as a possible state of mind which 
+could emerge in the future upon the existence of a condi- 
+tional state of affairs. Consequently, the Court has always 
+defified intent in an unconditional manner. United States 
+v. Bailey, 444 U.S. 394 (1980); United States v. United States 
+Gypsum Co., 438 U.S. 422 (1978). 
+
+
+In sum, there is no precedent of the Court in which 
+the expressly stated and traditionally understood mens 
+rea language contained in a statute has been expanded to 
+include the novel concept of conditional intent. The ele- 
+ment of specific intent contained in the carjacking statute 
+articulates a state of mind which could not be more 
+clearly and unambiguously set forth. A specific intent to 
+cause serious bodily harm thus speaks for itself and 
+allows only for the single interpretation that serious 
+bodily harm or death is the conscious intention and 
+design of the perpetrator. By refusing to adhere to the 
+language of the statute and introducing a novel condi- 
+tional intent standard of culpability, the district court 
+committed error which requires the reversal of peti- 
+tioner’s conviction. 
+
+
+Il. The Legislative History Does not Support the 
+Court’s Interpretation of the Statute 
+
+
+The language of the carjacking statute is unequivocal. 
+Therefore, the legislative history of the statute need not 
+be evaluated, as there is no confusion as to its meaning. 
+Ratzlaf v. United States, 510 U.S. 135, 148 (1994) (“we do 
+not resort to legislative history to cloud a statutory text 
+that is clear”). Furthermore, if it is necessary to resort to 
+
+
+20 
+
+
+legislative history to interpret a statute, that interpreta- 
+tion should err in favor of the defendant. As the Court 
+said in Hughey v. United States, 495 U.S. 411, 422 (1990), 
+“longstanding principles of lenity, which demand resolu- 
+tion of ambiguities in criminal statutes in favor of the 
+defendant, preclude our resolution of the ambiguity 
+against petitioner on the basis of general declarations of 
+policy in the statute and legislative history.” (Internal 
+citations omitted). Although the Court should not use the 
+legislative history to resolve any “ambiguity against (the) 
+petitioner,” in this case the scant legislative history fully 
+supports petitioner. 
+
+
+As there was no textual support for the lower court’s 
+ruling that conditional intent satisfied the intent element 
+of the statute, the court was reduced to quoting legisla- 
+tive history to support its erroneous holding. In particu- 
+lar, the lower court quoted Sen. Lieberman who said, “We 
+need to broaden (the Carjacking) law that we adopted 
+last year to cover all carjackings, not simply armed car- 
+jackings, and to provide prosecutors with the option of 
+seeking the death penalty if an innocent person dies.” 139 
+Cong. Rec. $5821 (daily ed. May 12, 1993). But these 
+remarks were made on behalf of a different crime bill, S. 
+942, which was introduced a year earlier than the one at 
+issue in this case. Not only did that bill have no language 
+regarding intent, but it was never passed by either House 
+of Congress. Therefore, the comments of Sen. Lieberman 
+are totally irrelevant to the Congressional intent behind 
+the specific intent element embodied in the enacted car- 
+jacking statute. Similarly, Representative Franks’ com- 
+ment that the crime bill “will make an additional 22 
+
+
+ae rT 
+
+
+a ee ee es 
+
+
+ee 
+
+
+21 
+
+
+crimes including carjacking and drive-by shootings, sub- 
+ject to the death penalty,” 140 Cong. Rec E858 (daily ed. 
+May 5, 1994), also provides no support for the lower 
+court’s holding regarding conditional intent, because the 
+intent element had not yet been added to the statute. 
+
+
+Although this Court cannot use the comments of 
+legislators speaking about bills that were never passed as 
+guidance for Congress’ intent, it can use the language of 
+the bills that the individual houses passed as some guid- 
+ance. Neither the Senate version of the crime bill (S. 
+1607), nor the House version of the crime bill (H.R. 3555) 
+contained the intent element. Rather the intent element 
+was added after the House and Senate met to reconcile 
+their differences regarding the crime bill. The first men- 
+tion of the intent language was in the committee report 
+which stated that the Senate agrees to “the addition of an 
+intent standard for carjacking.” H.R. Rep. No. 103-694, at 
+418 (1994). 
+
+
+Because this report came out of committee, a written 
+record of any debate which led to its introduction does 
+not exist. The fact that the language encompassing a 
+heightened intent requirement was utilized instead of the 
+proposed Senate bill which contained no language con- 
+cerning intent, however, can only be interpreted to mean 
+that a narrowing of the scope of the initially proposed 
+amended law was desired by Congress. 
+
+
+Although it is clear that Congress meant to add a 
+heightened intent standard to the carjacking statute, the 
+Second Circuit believed that Congress mistakenly added 
+the intent requirement to non-death penalty cases 
+
+
+22 
+
+
+because the amendment to the carjacking statute begins 
+by stating that “Subsection (3) of Section 2119(3) of title 
+18 (the punitive provision of the statute providing for the 
+death penalty) is amended.” 108 Stat. at 1970. But the 
+Second Circuit noted that Congress actually added the 
+intent element and withdrawal of the firearms require- 
+ment to the main text of the statute and not “Subsection 
+(3).” J.A. 58. 
+
+
+This curious fact, however, lends no support for 
+metamorphisizing the concept of specific intent into con- 
+ditional intent. Although the Second Circuit correctly 
+noted that it should “decline(s) any invitation to redraft 
+the statute — that is a task better left to the legislature,” 
+id., it then did precisely that by redrafting the statute to 
+include conditional intent. 
+
+
+Moreover, if the Second Circuit was correct that Con- 
+gress’ purpose was to only add a specific intent require- 
+ment to the death penalty section of the statute then the 
+circuit court's utilization of conditional intent as a proxy 
+for specific intent is patently illogical. It is preposterous 
+to presume that Congress would introduce the concept of 
+conditional intent into death penalty legislation without: 
+(a) supplying any statutory language to that effect; (b) 
+having any discussion taking place as to its existence; or 
+(c) having any dialogue or debate regarding the constitu- 
+tionality of permitting such a state of mind to be used as 
+the basis for the execution of a defendant. 
+
+
+In sum, there is simply nothing in the legislative 
+history of the amended carjacking statute which provides 
+any support for expanding the law by changing the intent 
+requirement to include conditional intent. Therefore, the 
+
+
+23 
+
+
+decision of the Second Circuit and the district court to 
+alter and revise the meaning and language of the statute 
+cannot be sustained. 
+
+
+III. Persuasive Policy Reasons Do Not Exist to Expand 
+the Expressly Stated Mens Rea Requirement of the 
+Statute 
+
+
+There are compelling policy reasons for concluding 
+that in adding the heightened intent requirement to the 
+main text of the carjacking statute, Congress intended to 
+impose a significant limitation on the scope of the law. 
+The elimination of the firearm element of the carjacking 
+statute would have broadened federal jurisdiction to all 
+35,000 carjackings occurring each year if some additional 
+limitation was not placed on the elements of the offense. 
+In light of the concerns of Senator Biden and other legis- 
+lators that the elimination of the firearm requirement was 
+further diluting the already attenuated federal nexus of 
+this traditional state crime, the addition of the require- 
+ment that the perpetrator intend to cause serious physical 
+injury or death as part of the statutory definition of the 
+offense advances important federalism principles. 139 
+Cong. Rec. $15,302 (daily ed. Nov. 8, 1993) (statement of 
+Sen. Biden); see also 139 Cong. Rec. $15,524-26 (daily ed. 
+Nov. 10, 1993) (statement of Sen. Leahy); see also 140 
+Cong. Rec. H2325-26 (daily ed. Apr. 14, 1994) (statement 
+of Rep. Scott). 
+
+
+Although as previously noted, Senator Lieberman 
+and Representative Franks made statements during the 
+legislative process in support of legislation which would 
+
+
+ee ee ES ee ne Te 
+
+
+24 
+
+
+have amended the carjacking statute in a virtually unlim- 
+ited manner, the remarks of the legislators did not 
+address the heightened intent statute which was ulti- 
+mately enacted into law. Thus, it can hardly be argued 
+that the public policy goals underlying the statute are 
+best served by stretching the statute to federalize all 
+carjackings. 
+
+
+Congress has never enacted a criminal statute con- 
+taining an express or implied conditional intent provi- 
+sion. It is only when a defendant contemplates conduct in 
+the future that his purposes can be conditional because 
+the purposes that accompany a completed criminal act, 
+however conditional they once were, become uncondi- 
+tional at the point of the crime’s commission. Thus, what- 
+ever a carjacker’s purposes and intentions might have 
+been had his crime been resisted, it is only the purpose 
+and intent he possessed when the act was actually com- 
+mitted which is at issue in determining his culpability for 
+the completed crime.* 
+
+
+In a completed crime, any conditionality of a defen- 
+dant’s original purpose is immaterial because those pur- 
+poses have become either unconditional or non-existent 
+upon the commission of the crime. Any intention he 
+would have possessed if other conditions were present, at 
+
+
+3 Petitioner was convicted of carjacking notwithstanding 
+the complete absence of proof that he ever intended to cause 
+serious bodily harm to anyone when he and his accomplice 
+forcibly obtained their vehicles. Indeed, the proof at trial 
+established that the defendant’s true desire and purpose in 
+perpetrating the crimes which they actually committed was to 
+obtain the vehicles they acquired without having to harm their 
+victims. J.A. 36. 
+
+
+25 
+
+
+best, can only be a subject of prosecution in the case of an 
+inchoate crime, such as solicitation or an incomplete 
+attempt. Larry Alexander & Kimberly D. Kessler, Mens 
+Rea and Inchoate Crimes, 87 J. Crim. L & Criminology 1138 
+(1997). 
+
+
+The government in its opposition to the petition for 
+certiorari argued that a conditional intent should apply, 
+however, to the particular crime of carjacking because of 
+the statute’s prohibition against taking a vehicle “by force 
+and violence or by intimidation.” The government con- 
+tends that because it would be difficult to prove such an 
+unconditional intent in any case in which the carjacker 
+did not in fact do violence to the victim, petitioner’s 
+argument would essentially read the phrase “or by intim- 
+idation” out of the statute. 
+
+
+The government's argument misconstrues the logical 
+and straight-forward statute which Congress chose to 
+enact. The intent to cause serious bodily harm or death 
+defines the state of mind which a defendant must possess 
+while taking a victim's vehicle. The taking of the vehicle 
+by force and violence or by intimidation quite obviously 
+describes the conduct which the statute prohibits. It is 
+simply incorrect to contend that requiring the govern- 
+ment to prove that a perpetrator possessed the specific 
+intent to cause serious bodily harm or death at the time of 
+the taking of the vehicle reads intimidation out of the 
+statute. For example, a defendant who fires a shot at the 
+driver of a vehicle and misses and who consequently 
+succeeds in taking the vehicle by virtue of the intimidat- 
+ing impact of such behavior has certainly manifested an 
+intent to cause serious bodily harm. Likewise, a perpetra- 
+tor who threatens a driver in order to take the driver's 
+
+
+26 
+
+
+car and then shoots the driver after obtaining the car has 
+taken the vehicle by intimidation as well as exhibiting a 
+specific intent to cause serious bodily harm and will be 
+liable under the statute. 
+
+
+In short, the government's argument implicitly rests 
+on the specious premise that the infliction of actual injury 
+constitutes the only evidentiary basis upon which a jury 
+could find a specific intent to cause serious bodily harm. 
+Rather than constituting the only evidence of an intent to 
+cause serious harm, although probative, actual injury 
+merely represents one of several potential pieces of evi- 
+dence which are probative of the perpetrator’s intent. 
+
+
+The government's argument that conditional intent is 
+necessary because the statute includes acts of intimida- 
+tion is therefore untenable. The contention that intimida- 
+tion can only encompass conditional intent is simply 
+flawed. 
+
+
+If the decision of the Second Circuit is affirmed and 
+conditional intent is accepted as a proxy for a specific 
+intent to cause death or serious bodily harm then, in 
+effect, the federal carjacking statute has been made coex- 
+tensive with analogous state statutes. But making federal 
+carjacking statutes coextensive with existing state law 
+statutes contravenes the expressed Congressional desire 
+to impose some limitation on the intervention of the 
+federal courts into traditional state law crimes. 
+
+
+Interpreting the statute to require a showing of a 
+specific intent to seriously harm a person would confine 
+the law to those persons who set out to take a vehicle 
+
+
+4 a emily me lly 
+ee ies 
+
+
+27 
+
+
+from their victims with a specific intent of harming their 
+victims. The only individuals who would escape prosecu- 
+tion under the federal law would be those offenders who 
+had no intention of harming anyone and only desired to 
+steal an automobile. Any criminal who intends to seri- 
+ously injure his victim is within the reach of the statute. 
+On the other hand, the carjacker who only intended to 
+seize a vehicle without harming the victim of the crime 
+could still, of course, be prosecuted in state court. 
+
+
+If conditional intent is accepted, however, partic- 
+ularly in light of the elimination of the firearm require- 
+ment of the offense, the only carjacking which would not 
+be subject to federal prosecution would be the situation 
+where a carjacker could show that even if the victim had 
+resisted the perpetrator, the perpetrator would not have 
+inflicted any harm. Because such a scenario could only 
+realistically be shown to exist if the victim resisted and 
+the carjacker decided not to commit his crime, condi- 
+tional intent would essentially read the specific intent to 
+cause serious bodily harm right out of the statute. 
+
+
+In sum, it is far more consistent with both the pur- 
+pose of the statute and public policy to interpret the 
+amended carjacking statute as a law which was enacted 
+to permit federal intervention only into those carjackings, 
+armed and unarmed, where the perpetrator possessed an 
+actual intent to cause serious bodily harm or death. The 
+heightened intent requirement properly confines car- 
+jackers who did not intend to inflict serious injury on 
+their victims to the jurisdiction of the state courts. Thus, 
+in addition to the language and legislative history of the 
+statute, the interests of public policy and the principles of 
+
+
+28 
+
+
+federalism are best served by refusing to distort the scope 
+of the law. 
+
+
+IV. The District Court Erroneously Instructed The Jury 
+on The Elements of the Concept of Conditional 
+Intent 
+
+
+The Second Circuit cited the Model Penal Code for its 
+contention that conditional intent satisfied the intent ele- 
+ment of the carjacking statute. But the Model Penal Code 
+also addresses the need for the prosecution to establish 
+the defendant’s awareness of the circumstances which 
+trigger his conditional intent or his hope that such cir- 
+cumstances will exist. The district court did not, however, 
+require the prosecution to establish the defendant's 
+awareness. 
+
+
+The Model Penal Code states that: 
+
+
+A person acts purposely with respect to a mate- 
+rial element of an offense when: 
+
+
+1) if the element involves the nature of his 
+conduct or a result thereof, it is his conscious 
+object to engage in conduct of that nature or to 
+cause such a result; and 
+
+
+2) if the element involves the attendant cir- 
+cumstances, he is aware of the existence of such 
+circumstances or believes or hopes that they 
+exist. 
+
+
+Model Penal Code § 2.01(2)(a). 
+
+
+Thus, under this definition, in addition to the object 
+or result of a defendant's conduct, the Model Penal Code 
+also requires as an element of acting purposely that the 
+
+
+29 
+
+
+prosecution prove knowledge of the existence of the cir- 
+cumstances underlying the crime. In addition, Model 
+Penal Code 2.02(7) provides that “when knowledge of the 
+existence of a particular fact is an element of the offense, 
+such knowledge is established if a person is aware of a 
+high probability of its existence, unless he actually 
+believes that it does not exist.” See United States v. 
+Dworken, 855 F.2d 12, 18-19 (1st Cir. 1988) (holding that 
+liability under a conditional intent theory would only 
+attach if a defendant “reasonably believed” that the con- 
+ditions would obtain). 
+
+
+In petitioner's case, the district court claimed that it 
+was following the Model Penal Code but failed to address 
+the issue of knowledge and belief regarding whether 
+resistance would be encountered in the course of the 
+carjacking. 
+
+
+Thus, the jury was never charged on the question of 
+whether petitioner had even a reasonable belief that in 
+carrying out the charged carjackings he would be met by 
+such resistance that he would have to resort to inflicting 
+serious bodily harm or death upon one of his victims. 
+Consequently, even in the event this Court accepts the 
+government’s theory of conditional intent, the trial 
+court’s failure to charge the jury on the issue of the 
+defendant's belief as to the existence of the conditions 
+which was the prerequisite for his intent to cause serious 
+bodily harm requires the reversal of petitioner’s convic- 
+tion. See also Paul A. Robinson & Jane A. Grall, Element 
+Analysis in Defining Criminal Liability: The Model Penal 
+Code and Beyond 35 Stan. L. Rev. 681 (1983). 
+
+
+30 
+
+
+In addition, the issue of the defendant's awareness of 
+the existence of the conditions which trigger the condi- 
+tional intent is a two part objective/subjective test. As a 
+threshold issue, the government must establish that there 
+is a high probability i.e. a reasonable belief that the defen- 
+dant’s offense will be met by resistance. United States v. 
+Dworken, 855 F.2d 12 (1st Cir. 1988). Once this is proven, 
+the prosecution still has the burden of proving that the 
+defendant subjectively believed that resistance is likely. 
+Since the probability of the conditions are an essential 
+element of the defendant’s mens rea, his subjective belief 
+is certainly at issue. Cf., Arave v. Creech, 507 U.S. 463, 473 
+(1993); see also People v. Goetz, 497 N.E.2d 41 (N.Y. 1986) 
+(the words “reasonably believe” embody elements which 
+are subjective (i.e., what the actor believes) as well as 
+objective (i.e., whether a reasonable person could have 
+had these beliefs)). 
+
+
+The district court’s charge to the jury was thus 
+flawed in two essential respects. First, the court failed to 
+charge the jury that the government was required to 
+prove beyond a reasonable doubt that, viewed objec- 
+tively, there was a probability of resistance. Second, the 
+court also failed to instruct the jury on the government's 
+burden to prove beyond a reasonable doubt that peti- 
+tioner subjectively believed in the high probability of his 
+conduct being met by resistance which would elicit his 
+otherwise dormant intent to cause serious bodily harm. 
+Therefore, the court’s defective instructions requires the 
+reversal of petitioner’s conviction. In re Winship, 397 U.S. 
+358, 364 (1970). 
+
+
+In sum, the district court failed to comprehensively 
+develop the guidelines and essential principles of the 
+
+
+31 
+
+
+theory of conditional intent and failed to properly 
+instruct the jury on this novel concept. Thus, the jury 
+could not properly apply conditional intent to the facts of 
+the case. Thus, even if the total absence of conditional 
+intent from the language of the statute is somehow over- 
+looked, the district court’s failure to provide the jury with 
+essential tools to enable them to meaningfully apply the 
+concept requires the reversal of petitioner’s conviction. 
+
+
+V. Fundamental Principles of Lenity Require that the 
+
+
+Statute be Applied in Accordance with its Express 
+Language 
+
+
+Even if this Court were to reject all of petitioner’s argu- 
+ments concerning the completely unambiguous language 
+and meaning of the carjacking statute, the legislative history 
+which clearly supports the petitioner's arguments and the 
+public policy reasons why the Court should not adopt condi- 
+tional intent, the rule of lenity would still require the Court 
+to reverse petitioner’s conviction. 
+
+
+The government, by proposing a concept of mens rea 
+which has never previously existed in federal criminal 
+law and arguing that a specific intent to cause serious 
+bodily harm instead means a conditional intent to cause 
+such injury, has at best created ambiguity in the statute. 
+Because “(t]he Court has emphasized that the touchstone 
+of lenity is statutory ambiguity,” Bifulco v. United States, 
+447 U.S. 381, 387 (1980) (internal quotation omitted); and 
+that once a statutory ambiguity is shown “that conclusion 
+should end the matter,” United States v. R.L.C., 503 U.S. 
+291, 307 (1992) (Scalia, J., concurring); the government's 
+expansive interpretation of the carjacking statute cannot 
+be permitted to stand. 
+
+
+32 
+
+
+Moreover, if the legislature wishes to impose a level 
+of culpability which goes beyond a specific intent to 
+cause serious harm than the Court should leave it to 
+Congress to speak “in language that is clear and defi- 
+nite.” United States v. Bass, 404 U.S. 336, 347 (1971) (quot- 
+ing United States v. Universal C.I.T. Credit Corp., 344 U.S. 
+218, 222 (1952)). 
+
+
+Finally, “longstanding principles of lenity, which 
+demand resolution of ambiguities in criminal statutes in 
+favor of the defendant. . . preclude [the Court's] resolu- 
+tion of the ambiguity against petitioner on the basis of 
+general declarations of policy in the statute and legisla- 
+tive history.” Hughey v. United States, 495 U.S. 411, 421 
+(1990) (internal citation omitted). Therefore, the Court 
+should reverse petitioner’s conviction. 
+
+
+CONCLUSION 
+
+
+The language of the amended carjacking statute, its 
+legislative history, longstanding concepts of federal crim- 
+inal jurisprudence, public policy, and principles of lenity 
+all lead to the same result. The intent to cause death or 
+serious bodily harm element of the amended carjacking 
+statute requires the government to prove beyond a rea- 
+sonable doubt that a defendant possesses an intent to 
+cause death or serious bodily harm. The government's 
+failure to present such proof and the district court’s deci- 
+sion not to instruct the jury regarding such a requirement 
+
+
+— 
+
+
+ee re eee 
+
+
+33 
+
+
+compels the reversal of petitioner’s convictions of all 
+carjacking and § 924(c) counts. 
+
+
+Respectfully submitted, 
+
+
+Kevin Keatinc, Eso. 
+Counsel of Record 
+
+666 Old Country Road 
+Garden City, NY 11530 
+(516) 222-1099 
+
+
+Davip G. SECULAR 
+319 Broadway 
+
+New York, NY 10007 
+(212) 267-2224 
+
+
+July 2, 1998 
+
+
