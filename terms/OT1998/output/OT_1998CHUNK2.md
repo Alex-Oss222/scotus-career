@@ -602,14 +602,15 @@ After stopping Knowles for speeding, the officer issued a citation and then sear
 
 The search and dependent judgment cannot stand on the citation-search theory. The Court returns for application of the corrected constitutional rule and ordinary, properly available remedial law; no alternative search justification is established here. Stone-Zsela separately would direct suppression of the search's fruits and further proceedings on the remaining admissible record. No acquittal, release, replacement sentence or civil liability is ordered.
 
-#### Opinions
+#### Opinion Topology
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous constitutional rule and reversal | Actual-custody requirement, application and preserved independent search grounds. |
-| Opinion concurring in part and concurring in the judgment | Stone-Zsela | Unjoined | Joins Part I and reversal; would give an express suppression instruction | Suppression of this search's fruits and proceedings on the remaining admissible record. |
+| Opinion of the Court, Part II | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Court, eight, on the remedial formulation | Return for ordinary properly available remedial law without an automatic evidence-item disposition. |
+| Opinion concurring in part and concurring in the judgment | Stone-Zsela | No other Justice joins | Joins Part I and reversal; would give an express suppression instruction | Suppression of this search's fruits and proceedings on the remaining admissible record. |
 
-O'Connor also addresses the remand in Part II. Stone-Zsela's separate opinion joins Part I and the reversal and seeks an express suppression instruction.
+All eight Associate Justices join both parts. Stone-Zsela joins Part I only and states his more specific remedy separately.
 
 #### Controlling Propositions and Authority
 
@@ -617,7 +618,7 @@ O'Connor also addresses the remand in Part II. Stone-Zsela's separate opinion jo
 
 **Operative rule:** Issuing a traffic citation without a custodial arrest does not authorize the full search incident to arrest; unexercised authority to make an arrest cannot substitute for the custody that triggers that exception. A full search requires an independently applicable recognized basis, and the citation, general roadside risk and observed speeding supply none for this search; supported exit orders, protective measures, consent searches and searches based on independent probable cause retain their own conditions and scope.
 
-**Authority:** Part I of the Court's opinion has all nine Justices' direct support.
+**Authority:** Part I of the Court's opinion has all nine Justices' direct support. Part II's ordinary-remedial-law return has the eight Associates' support; Stone-Zsela would require the specific suppression stated in his concurrence.
 
 **Controlling explanation:** Chimel ties arrest-related search to officer protection and preservation of evidence. Robinson permits a categorical full search after a qualifying lawful custodial arrest without a new necessity showing in every case. Belton addresses the automobile setting of such an arrest; none converts every citation into custody.
 
@@ -626,6 +627,14 @@ The officer chose to issue the speeding citation before searching. Transport and
 Iowa correctly emphasizes that danger can remain at roadside and that the officer had authority to arrest. Those considerations may support recognized limited precautions, not transfer the full arrest-search category to an encounter lacking its predicate. Whren preserves independent limits on an intrusion beyond the initial stop; Robinette distinguishes lawful traffic business from later detention or consent. Maryland v. Wilson's limited exit-direction authority is not automatic frisk or search authority. Ricci likewise distinguishes enforcement power from justification for an added restraint without deciding a general prohibition on arrest for this offense.
 
 A Terry frisk requires supported reasonable suspicion that the person is armed and dangerous. A Michigan v. Long protective vehicle search requires its own reasonable belief, based on specific facts, that the person is dangerous and may gain immediate control of weapons, and remains limited to areas where a weapon may be hidden. Voluntary consent and the automobile exception retain their independent predicates. None supplies an established justification for this search. The Court neither assumes every stop safe nor imposes least restrictive means, and it leaves Robinson's rule intact for actual qualifying custody.
+
+##### II. The dependent judgment returns under the corrected constitutional rule
+
+**Operative rule:** The citation-search theory cannot sustain this search or the dependent judgment, which is reversed and remanded for proceedings under the corrected constitutional rule and ordinary, properly available remedial law. No alternative justification is established here, and the Court orders no acquittal, release, replacement sentence, civil relief or universal exclusion rule for traffic encounters.
+
+**Authority:** Part II has the eight Associate Justices' direct support. Stone-Zsela joins reversal and remand but would add the express suppression direction stated in his separate opinion.
+
+**Controlling explanation:** The question decided concerns the asserted authority for this search. Rejecting that authority removes the ground sustaining the judgment and requires reversal. The receiving court must apply that determination in further proceedings; it cannot sustain the search merely by repeating the citation rationale. The Court establishes no alternative search ground or new remedial exception and makes no automatic disposition of every evidence item. Stone-Zsela would give a more specific instruction to suppress the fruits and proceed on the remaining admissible record. His additional direction is not part of the eight-Justice remand formulation.
 
 #### Precedent Treatment
 
@@ -655,7 +664,7 @@ The [reported chronology and record, 525 U.S. 113](https://www.law.cornell.edu/s
 
 #### Mandate, Remedy, and Stage
 
-The case returns to the Iowa courts for proceedings under the corrected search rule and ordinary properly available remedial law. The citation-search rationale no longer supports the search or dependent judgment; no alternative justification is established by this decision. The receiving court may not sustain the search by repeating the citation rationale. This disposition establishes no new remedial exception, makes no automatic disposition of every evidence item and creates no universal exclusion rule for traffic encounters. No acquittal, release, replacement sentence, civil remedy or additional Supreme Court event is directed.
+The case returns to the Iowa courts for proceedings under the corrected search rule and ordinary properly available remedial law. The citation-search rationale no longer supports the search or dependent judgment; no alternative justification is established by this decision. No acquittal, release, replacement sentence, civil remedy or additional Supreme Court event is directed.
 
 **End of entry: Knowles v. Iowa, Merits decision, December 8, 1998.**
 
@@ -1070,8 +1079,3 @@ The case returns to the Second Circuit for proceedings on the surviving §1 comp
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| Knowles v. Iowa, No. 97-7597 | The Render Input's Opinion Topology row for Part II lists Stone-Zsela among the joiners and contains the malformed name `BreyerI` while describing an eight-Justice opinion. The following topology paragraph and Holdings instead say that all eight Associate Justices join Part II and Stone-Zsela joins Part I only. Part II's joinder and authority attribution are withheld pending correction of that conflict; its existence and authorship, the unaffected unanimous judgment, Part I, separate concurrence, and independently supplied remand terms are rendered. |
