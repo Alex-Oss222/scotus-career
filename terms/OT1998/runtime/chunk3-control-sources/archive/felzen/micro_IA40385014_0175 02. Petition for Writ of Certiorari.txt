@@ -1,0 +1,2679 @@
+rE Be 
+D217 3B°wrd4 
+— 
+pay 
+No. 
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1997 
+po 
+CALIFORNIA PUBLIC EMPLOYEES’ RETIREMENT SYSTEM 
+and FLORIDA STATE BOARD OF ADMINISTRATION, 
+Petitioners, 
+Vv. 
+PAUL FELZEN, et al., 
+Respondents. 
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+MARK C. HANSEN 
+Counsel of Record 
+NEIL M. GORSUCH 
+KELLOGG, HUBER, HANSEN, 
+Topp & Evans, P.L.L.C. 
+1301 K Street, N.W. 
+Suite 1000 West 
+Washington, D.C. 20005 
+(202) 326-7900 
+Counsel for Petitioners 
+WILSON - Erzs Printinc Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+
+QUESTIONS PRESENTED 
+1. Whether a nonparty shareholder who appears, in re- 
+sponse to notice provided under Federal Rule of Civil 
+Procedure 23.1, to present objections to a proposed dis- 
+missal or settlement of a derivative action may appeal an 
+adverse decision even though the shareholder has not been 
+formally made a party to the action. 
+2. Whether « court of appeals may apply only prospec- 
+tively a decision reversing settled precedents concerning 
+its jurisdiction, where retroactive application would per- 
+manently foreclose appeal by a party who had reasonably 
+relied on the prior precedents. 
+(i) 
+
+if 
+PARTIES TO THE PROCEEDINGS BELOW 
+TABLE OF CONTENTS 
+Page 
+Tho SoBaping Sunes ie SERINE SD SHEEN WSN 
+QUESTIONS PRESENTED 222 
+eeoneooen 
+i 
+of 
+a 
+S: 
+wee nae 
+’ 2 wr a so ’ Retirement System 
+PARTIES TO THE PROCEEDINGS BELOW .......... 
+ii 
+ifornia 
+ic 
+Employees’ 
+Retir 
+Florida State Board of Administration 
+PARENT COMPANIES AND NONWHOLLY OWNED 
+Paul Felzen 
+EE 
+ii 
+Louise Laskin Trust 
+TABLE OF AUTHORITIES .....c.....cccccccccccccceeeesecees-s 
+iv 
+Sandra Esner 
+Dwayne O. Andreas 
+EE 
+LE Re 
+1 
+Ralph Bruce 
+da 
+te 
+1 
+John H. er 
+ts 
+2 
+ryt cg se: ston 
+STATEMENT OF THE CASE... 
+2 
+James 
+R. Randall 
+A. Background 
+and Prior Proceedings... 
+4 
+ee Andreas 
+B. The Decision Below 00000000 
+oe eeeeeeeeeesee 
+8 
+O. Glenn Webb 
+REASONS FOR GRANTING THE PETITION ... 
+i 
+Martin Andreas 
+I. THE SEVENTH CIRCUIT’S DECISION CE- 
+Margaretta Rockefeller 
+MENTS A CIRCUIT SPLIT OF SIGNIFICANT 
+F. Ross Johnson 
+IMPORTANCE TO ALL SHAREHOLDER DE- 
+Ray A. Goldberg 
+RIVATIVE SUITS, REFLECTS CONFUSION 
+Gaylord O. Coan 
+AMONG THE LOWER COURTS OVER THIS 
+John K Venter 
+COURT'S DECISION IN MARINO v. ORTIZ, 
+Shreve M. Archer, Jr. 
+Sat GF ULB S21 FO EnccUnsoe 
+M. Brian Mulroney 
+: 
+AGE 
+: 
+SHAREHOLDER 
+PARTICIPATION, 
+AND 
+Robert S. Strauss _ 
+IGNORES TRADITIONAL COMMON LAW 
+Archer Daniels Midland Company 
+AND FEDERAL PRACTICE... 
+11 
+PARENT COMPANIES AND 
+Il. THE seventE CIRCUIT’S DECISION TO 
+NWHOLLY OWNED SUBSIDIARIES 
+APPL 
+RULING 
+RETROACTIVELY 
+Hee 
+CREATES 
+ANOTHER 
+CIRCUIT 
+SPLIT, 
+California Public Employees’ Retirement System and 
+RAISES 
+SIGNIFICANT 
+QUESTIONS 
+OF 
+Florida State Board of Administration are governmental 
+FEDERAL LAW, AND IS BASED ON A MIS- 
+pension funds that have no parent companies or subsidi- 
+TAKEN PREMISE THAT WRONGLY 
+IN- 
+aries that have issued shares to the public. 
+SULATES FROM APPELLATE SCRUTINY 
+A PLAINLY COLLUSIVE SETTLEMENT IN 
+ONE OF THE MOST SIGNIFICANT SHARE- 
+HOLDER DERIVATIVE SUITS... 
+23 
+CONCLUSION 
+30 
+(iii) 
+
+iv 
+TABLE OF AUTHORITIES 
+Cases 
+Page 
+Ace Heating & Plumbing Co. v. Crane Co., 453 
+¢ f Sf 
+Ss REPS peers 
+12 
+Allen v. Wright, 468 U.S. 737 (1984) —..... 
+28 
+Angoff v. Goldfine, 270 F.2d 185 (1st Cir. 1959)... 
+21 
+Baldwin-United Corp., In re, 770 F.2d 328 (2d Cir. 
+PSA 
+ae ae RRR 
+Ma ta! tae ANA 
+20 
+Baylor v. United States Dep't of Hous. 
+& Urban 
+Dev., 913 F.2d 223 (5th Cir. 1990) . 
+12 
+Bell Atlantic Corp. v. Bolger, 2 F.3d 1304 (8d Cir. 
+ES 
+ae ean 
+EL eT passim 
+Bennett v. Spear, 117 S. Ct. 1154 (1997) ....... patina 
+27 
+Budinich v. Becton Dickinson & Co., 486 U.S. 196 
+SS 
+aes a 
+eae ee 3, 10, 29, 30 
+Carlough v. Amchem Prods., Inc., 5 F.3d 707 (3d 
+es I aie 
+te tenatitatintinininina 
+tinal 
+atti dla 
+12 
+Cement Antitrust Litig., In re, 688 F.2d 1297 (9th 
+Cir. 1982), aff'd sub nom. Arizona v. United 
+States District Court, 459 U.S. 1191 (1983)... 
+12 
+Chevron Oil Co. v. Huson, 404 U.S. 97 (1971) ....28, 29, 30 
+Christianson v. Colt Indus. Operating Corp., 486 
+U.S. 800 (1988) 
+........ suvsitintiecbtapansctitieatantntaiinianatidinadins 
+10 
+Class Plaintiffs v. City of Seattle, 955 F.2d 1268 
+(9th Cir.), cert. denied, 506 U.S. 953 (1992)... 
+20 
+Cohen v. Young, 127 F.2d 721 (6th Cir. 1942)... 
+15 
+Commercial Sec. Bank v. Walker Bank & Trust 
+Co., 456 F.2d 1352 (10th Cir. 1972) 0... 
+20 
+Craftsman Fin. & Mortgage Co. v. Brown, 64 
+F. Supp. 168 (S.D.N.Y. 1945) . 
+15 
+Croyden Assocs. v. Alleco, Inc., 969 F.2d 675 (8th 
+Cir. 1992), cert. denied, 507 U.S. 908 (1993)...... 
+12 
+Daily Income Fund, Inc. v. Foz, 464 U.S. 523 
+6 
+Se ET 
+Ee NETS 
+SE, SN 
+14 
+Dietrich Corp. v. King Resources Co., 596 F.2d 422 
+RN 
+na ES 0 
+sli Pa rR 
+Ot 
+21 
+Dosier v. Miami Valley Broadcasting Corp., 656 
+F.2d 1295 (9th Cir. 1981) ...............cccccccccccccccceeeeee 
+12 
+EEOC v. Pan American World Airways, Inc., 897 
+F.2d 1499 (9th went cert. denied, 498 U.S. 815 
+(1990) .. 
+fie 
+susenstenepedialidaabicis 
+20 
+v 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Farmland Dairies v. Commissioner of New York 
+State Dep't of Agric. & Markets, 847 F.2d 1038 
+(2d Cir. 1988) _.... 
+16 
+Fields v. Blum, 629 F.2d 825 (2d Cir. 1980) fe le 
+21 
+Firestone 
+Tire & Rubber Co. v. Risjord, 449 U.S. 
+«EERE 
+REISS ae SSN AP ETE SO 3, 10, 24, 25 
+General Ins. Co. of Am. v. Eastern Consolidated 
+Utils., Inc., 126 F.3d 215 (3d Cir. 1997) —........... 
+21 
+General Tire & Rubber Co. Sec. Litig., In re, 726 
+F.2d 1075 (6th Cir.), cert. denied, 469 U.S. 858 
+AP 
+Bi sag 
+cme 
+eA Le Ny AS 
+0 TT 
+14 
+George v. Camacho, 119 F.3d 1393 
+(9th Cir. 
+AE 
+A RIE Rect ate TN el AEE ES 
+passim 
+Gottlieb v. Wiles, 11 F.3d 1004 (10th Cir. 1993)... 
+8,12 
+Grand Jury Proceedings, In re, 654 F.2d 268 (3d 
+Cir.), cert. denied, 454 U.S. 1098 (1981)... 
+20 
+Guthrie v. Evans, 815 F.2d 626 (11th Cir. 1987)... 
+12 
+Hal Roach Studios, Inc. v. Richard Feiner & Co., 
+896 F.2d 1542 (9th Cir. 1989) 
+20 
+Harper 
+v. Virginia Dep’t of Taxation, 509 U.S. 86 
+(Ra 
+aa 
+ED ala Ie RE SN eas SPR, 23, 28, 29 
+Hozworth 
+v. Blinder, Robinson 
+& Co., 903 F.2d 186 
+RISER 
+ele 
+A 
+i ek a 
+20 
+James v. Home Constr. Co. of Mobile, Inc., 689 
+TD RU SO 
+es 
+21 
+James B. Beam Distilling Co. v. Georgia, 501 U.S. 
+set 
+Bee 
+ES 
+Sie lee 
+ee ie ee 
+28 
+Jones v. Caddo Parish Sch. Bd., 735 F.2d 923 (9th 
+TR 
+Hae ag 
+al 
+te AEE a tL 
+16 
+Lipscomb v. Wise, 643 F.2d 319 (5th Cir. 1981). 
+21 
+Loran v. Furr’s/Bishop’s Inc., 988 F.2d 554 (5th 
+tye 
+A tea 
+ance 
+EE RR a IS te 
+12 
+Marino 
+v. Ortiz, 484 U.S. 301 (1988) ... passim 
+Marshall v. Holiday Magic, Inc., 550 F.2d 1173 
+gee 
+a 
+cama oe 
+A 
+a 
+Rael ie 
+12 
+Northern Pipeline Constr. Co. v. Marathon Pipe 
+Line Co., 468 U.S. 50 (1982) _............................... 
+27 
+Norwood v. Slammons, 788 F. Supp. 1020 (W.D. 
+Ark. 1991) 
+21 
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+Page 
+PaineWebber Inc. Ltd. Partnerships Litig., In re, 
+94 F.3d 49 (2d Cir. 1996) 20 
+12 
+Papilsky v. Berndt, 466 F.2d 251 (2d Cir.), cert 
+denied, 409 U.S. 1977 (1972) 00... 
+2,14 
+Petersen v. Douglas County Bank & Trust Co., 967 
+F.2d 1186 (8th Cir. 1992) 00 
+21 
+Pettyjohn v. Shalala, 23 F.3d 1572 (10th Cir. 
+RR RA el Raid 
+ly a 
+ST lat aCe 
+25 
+Pittsburgh & Lake Erie R.R. Co. Sec. & Antitrust 
+Litig., In re, 543 F.2d 1058 (3d Cir. 1976) .......... 
+15 
+Port Drum Co. v. Umphrey, 852 F.2d 148 (5th Cir. 
+RRR 
+age Ser ee iat, A 
+nh 
+OR 
+21 
+Preston v. United States, 284 F.2d 514 (9th Cir. 
+RRR 
+tithe Pe om SN NO ei 
+21 
+Price v. Pelka, 690 F.2d 98 (6th Cir. 1982) _........... 
+21 
+Ragsdale v. Turnock, 941 F.2d 501 (7th Cir. 1991), 
+cert. denied, 502 U.S. 1035 (1992) — 0. 
+16 
+Rosenbaum v. MacAllister, 64 F.3d 1439 (10th Cir. 
+RIE 
+6 PS 
+SE AP 
+Ae ti Gil cA 
+12 
+SEC 
+v. Wencke, 783 F.2d 
+829 (9th Cir.), cert. 
+denied, 479 U.S. 818 (1986) ..... 
+20 
+Security Ins. Co. v. Schipporeit, Inc., 69 F.3d 1377 
+FRR 
+as tan ie te cate Pil ileal 
+14 
+Sertic v. Cuyahoga, Lake, Geauga & Ashtabula 
+Counties Carpenters Dist. Council of United 
+Bhd. of Carpenters & Joiners, 459 F.2d 579 (6th 
+RR 
+PRS 
+a 
+a 
+at ogc h OF 
+12 
+Shores 
+v. Sklar, 844 F.2d 1485, vacated 
+on other 
+grounds, 855 F.2d 722 (11th Cir. 1988) 
+12 
+Shults v. Champion Int’l Corp., 35 F.3d 1056 (6th 
+ARBRE 
+AS a cl FERS fe AD 
+12 
+Snyder v. Smith, 736 F.2d 409 (7th Cir.), cert. de- 
+nied, 469 U.S. 1087 (1984) — 2. 10, 26 
+Stepak v. Tracinda Corp., Civil Action No. 8457, 
+1989 WL 100884 (Del. Ch. Aug. 18, 1989), ap- 
+peal refused, 567 A.2d 424 (Del. 1989) 
+.. 
+15 
+Thompson 
+v. Freeman, 
+648 F.2d 1144 (8th ‘Cir. 
+SEEEEEDD 
+aucuuteinatuicsasinenciaiaatieisninad teamaiaeetaieidieliaattahttinineentaine 
+20 
+Tryforos v. Icarian Dev. Co., 518 F.2d 1258 (7th 
+Cir. 1975), cert. denied, 423 U.S. 1091 (1976) ....8, 
+9, 12 
+vii 
+TABLE OF AUTHORITIES—Continued 
+Page 
+United Airlines, Inc. v. McDonald, 432 U.S. 385 
+| 
+22 
+United States v. Bertoli, 994 F.2d 1002 (3d Cir. 
+en 
+21 
+United States v. International Bhd. of Teamsters, 
+981 F.2d 177 (2d Cir. 1991) ...............-------------- 
+20 
+United States v. Tippett, 975 F.2d 713 (10th Cir. 
+| 
+TA 
+21 
+United States Catholic Conference 
+v. Abortion 
+Rights Mobilization, Inc., 487 U.S. 72 (1988)... 
+21 
+United States ex rel. 
+Lowiiana ». 
+Jack, 244 US. 
+OO yE————————————EE 
+19 
+Walker v. City of Mesquite, 858 F.2d 1071 (5th 
+| as 12, 13 
+Webcor Elecs. v. Whiting, 101 F.R.D. 461 (D. Del. 
+I os ccecrcetegneanstanecenenmpenantdampnramnstanasentet 
+een 
+8, 16 
+Wolf v. Barkes, 348 F.2d 994 (2d Cir.), cert. de- 
+nied, 382 U.S. 941 (1965) ...........---------ne 
+ene 
+15 
+Constitution, Statutes and Rules 
+fe 
+eae 
+ee 
+27 
+| fle Ue) 
+| l) ) 
+1 
+Ol) 4) 
+22 
+Fed. R. App. P.: 
+I 
+i 
+eral 
+litera enatideienimninnnlietndan 
+2 
+0) 
+| en 21, 22 
+Fed. R. Civ. P.: 
+7 Pe 
+es Se re ea 
+19 
+i 
+|) xz 
+passim 
+LE) ETE 
+ee Se 13, 14 
+ID 
+ss csociantenonestnnsitanemenntennatitenmmncctsnmantietss 
+13 
+a 
+9 
+Other Materials 
+Frederic Calvert, Observations on Suits in Equity 
+(William Benning, 2d ed. 1846) .~....................... 
+18 
+John C. Coffee, Jr., Understanding the Plaintiff's 
+Attorney: The Implications of Economic Theory 
+for Private Enforcement of Law Through Class 
+and Derivative Actions, 86 Colum. L. Rev. 669 
+(1986) 
+.... 
+5,14 
+
+viii 
+TABLE OF AUTHORITIES—Continued 
+Page 
+Timothy A. Duffy, The Appealability of Class Ac- 
+tion Settlements by Unnamed Parties, 60 U. Chi. 
+aa ie 
+ee cael 13, 18 
+10 Federal Procedure, Lawyers Edition (1994)... 
+8 
+5 James W. Moore, Moore’s Federal Practice (3d 
+IR 
+Re eR 
+A ibe 
+I 
+ee 
+x 
+Note, Control Over Settlement of Shareholder’s 
+Suit, 54 Harv. L. Rev. 833 (1941)... 
+15 
+Richard A. Posner, Economic Analysis of Law (4th 
+RS 
+Ae tebe 
+RS, 
+eA 
+TSC 
+14 
+Roberta Romano, The Shareholder Suit: Litigation 
+Without Foundation?, 7 J.L. Econ. & Org. 55 
+SED wdtaindnentednintediinciniacitedintantie 
+cette ah ae 6,14 
+Joseph Story, Commentaries on Equity Pleadings 
+(Little, Brown, 2d ed. 1840) 000 
+18 
+Charles A. Wright, et al., Federal Practice and 
+Procedure: 
+Vol. 7C (2d ed. 1986 & Supp. 1997) 
+2, 8, 15 
+\. ) '. 
+0 
+& 
+Secu 
+eeee. 18, 20, 21 
+IN THE 
+Supreme Court of the United States 
+OcToBER TERM, 1997 
+No. 
+CALIFORNIA PuBLIC EMPLOYEES’ RETIREMENT SYSTEM 
+and FLoRIDA STATE BOARD OF ADMINISTRATION, 
+- 
+Petitioners, 
+PAUL FELZEN, et al., 
+Respondents. 
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+PETITION FOR A WRIT OF CERTIORARI 
+California Public Employees’ Retirement System (“Cal- 
+PERS”) 
+and Florida 
+State Board of Administration 
+(“SBA”) petition for a writ of certiorari to review the 
+judgment of the United States Court of Appeals for the 
+Seventh Circuit. 
+OPINIONS BELOW 
+The opinion of the court of appeals (Pet. App. 1a-10a) 
+is reported at 134 F.3d 873. The trial court’s judgment 
+and order approving the derivative suit settlement (Pet. 
+App. 11la-15a) is not reported. 
+JURISDICTION 
+The judgment of the court of appeals was entered on 
+January 21, 1998. The jurisdiction of this Court is in- 
+voked pursuant to 28 U.S.C. § 1254(1). 
+
+2 
+RULES INVOLVED 
+The judgment of the court of appeals involves Federal 
+Rule of Civil Procedure 23.1 and Federal Rule of Appel- 
+late Procedure 3. These provisions are set forth at Pet. 
+App. 18a-21a. 
+STATEMENT OF THE CASE 
+This case presents two distinct circuit splits, both of 
+which were expressly acknowledged by the Seventh Cir- 
+cuit. As Judge Easterbrook wrote for the panel, “[cJourts 
+have disagreed for several decades” over whether nonparty 
+shareholders must formally intervene in order to appeal a 
+derivative suit settlement. 
+Pet. App. 2a. Reversing prior 
+Seventh Circuit decisions on point, and disagreeing with 
+the Third and Tenth Circuits, the panel held that formal 
+intervention 
+is an indispensable prerequisite to appeal. 
+The panel also noted courts are in open “disagree[ment]” 
+over whether decisions overruling jurisdictional precedents 
+must always be applied retroactively. 
+Jd. at 10a. Again 
+departing from prior Seventh Circuit law and contradict- 
+ing the holdings of other circuits, the panel held that such 
+decisions must be applied retroactively. 
+The Seventh Circuit’s prohibition of appeals by non- 
+party shareholders eliminates a critical safeguard against 
+collusive derivative suit settlements that benefit only plain- 
+tiffs’ attorneys and defendant.’ 
+The court’s view that it 
+1 See 7C Charles A. Wright, et al., Federal Practice and Proce- 
+dure § 1839, at 175 (2d ed. 1986) (nonparty shareholder participa- 
+tion “is intended to discourage the private settlement of a derivative 
+claim under which a shareholder-plaintiff and his attorney person- 
+ally profit to the exclusion of the corporation and the other share- 
+holders”) ; Papilsky v. Berndt, 466 F.2d 251, 258 (2d Cir.) (Non- 
+party shareholder participation “is essential in these situations to 
+ensure that the [resolution] of the derivative suit is in the best 
+interests of the corporation and the absent stockholders. More spe- 
+cifically, notice and court approval of settlements under Rule 23.1 
+discourage private settlements under which the plaintiff-stockholder 
+and his attorney profit to the exclusion of the corporation and non- 
+party stockholders.”) 
+(citations omitted), 
+cert. denied, 409 U.S. 
+1077 (1972) ; see additional authorities cited at note 14, infra. 
+3 
+was required to apply its decision retroactively ignored 
+the important policies that encourage litigants to rely on 
+settled law. Here, petitioners conformed their conduct to 
+settled Seventh Circuit precedents only to have their ap- 
+peal dismissed because the panel decided thereafter to 
+change the law.” 
+These two holdings are also wrong as a matter of law. 
+The Seventh Circuit reasoned that Marino v. Ortiz, 484 
+U.S. 301 (1988) (per curiam), requires nonparty share- 
+holder intervention. 
+But this Court in Marino suggested 
+only that complete strangers to a class action should inter- 
+vene before being permitted to appeal; it nowhere indi- 
+cated that persons who are already privies to the proceed- 
+ings—such as class members under Rule 23 or share- 
+holders under Rule 23.1—need do so. In fact, nonparty 
+privies are routinely permitted to appeal adverse decisions 
+affecting their interests. 
+The court of appeals suggested that Firestone Tire & 
+Rubber Co. v_ Risjord, 449 U.S. 368, 379 (1981), and 
+Budinich v. Becton Dickinson & Co., 486 U.S. 196, 203 
+(1988), require retroactive application of its decision to 
+limit its appellate jurisdiction because “a court may not 
+in any case, even in the interest of justice, extend its juris- 
+diction where none exists.” Pet. App. 9a (citation omit- 
+ted). But those decisions involve statutory limits on judi- 
+cial authority. The Court did not decide that purely dis- 
+cretionary, self-imposed restrictions on jurisdiction, such 
+as the one imposed by the panel below, must be applied 
+retroactively. Indeed, courts creating new and purely pru- 
+dential rules narrowing their jurisdiction can and should 
+apply such rules in a manner that is equitable. 
+2 See, e.g., George v. Camacho, 119 F.3d 1393, 1397 (9th Cir. 
+1997) (en banc) (“The consequence of such a holding would be that 
+litigants who complied with our rules 
+. 
+. 
+. would lose their rights 
+to appeal, 
+. 
+. 
+. a result that would appear to be unconscionable to 
+most reasoning persons whether learned in the law or not.’’). 
+
+4 
+A. Background 
+and Prior Proceedings 
+At midnight on June 27, 1995, more than a hundred 
+Federal Bureau of Investigation (“FBI”) agents raided 
+ADM corporate headquarters and the homes of ADM top 
+executives. 
+The next day, ADM issued a press release 
+announcing that three separate federal grand juries were 
+investigating whether the company’s officers had conspired 
+with rivals to fix artificially high prices for citric acid, high 
+fructose corn syrup, and lysine. The evidence the govern- 
+ment amassed proved overwhelming: the FBI had obtained 
+audio tapes, video tapes, and documents establishing that 
+ADM executives had conspired with at least three foreign 
+companies to set prices and production quotas. On Octo- 
+ber 15, 1996, ADM pleaded guilty to criminal antitrust 
+charges and paid a $100 million criminal fine, the largest 
+criminal antitrust fine ever imposed and the subject of 
+national media attention. Settling three civil antitrust law- 
+suits filed by ADM competitors cost the company another 
+$90 million. 
+Petitioners CalPERS and SBA are two of the largest 
+public pension funds in the United States. They have com- 
+bined assets of nearly $200 billion and are among the 
+largest shareholders of ADM stock. SBA owns over 1.7 
+million ADM shares; CalPERS owns over 2.9 million 
+shares. 
+In response to the demands of institutional shareholders 
+like CalPERS and SBA and waves of negative publicity, 
+ADM commissioned a report to propose new, more strin- 
+gent corporate governance measures. 
+Much of ADM’s 
+troubles, in the view of shareholders and the public, lay 
+in the personal, professional, familial, and financial connec- 
+tions between the members of the company’s board charged 
+with management oversight. 
+Indeed, in October 1995, 
+CalPERS awarded ADM a grade of “F” for its lack of 
+corporate governance principles. 
+The report ADM eventually issued and adopted in 
+January 1996, however, did little to alleviate shareholder 
+5 
+concern. 
+For instance, while it required (for the first 
+time) that ADM’s board include at least a majority of 
+independent members, even persons having obvious and 
+substantial financial ties to ADM could qualify under the 
+new rules as “independent.” To remedy that defect and 
+avoid a return to the corporate cronyism that resulted in 
+ADM’s criminal plea, CalPERS and SBA submitted a 
+shareholder proposal that no one with personal or finan- 
+cial ties to the company could serve as an “independent” 
+director. They modeled their proposal on accepted stand- 
+ards for corporate independence developed by the Council 
+of Institutional Investors (the “Council”).’ The Council 
+is an association of more than one hundred corporate, 
+public, and union pension funds devoted to addressing 
+their members’ investment concerns and promoting respon- 
+sible corporate governance 
+rules and procedures. 
+Al- 
+though vehemently opposed by management, the share- 
+holders’ proposal still won 41.6 percent of the vote at the 
+1996 shareholder meeting. 
+Unsurprisingly, in the wake of the federal criminal probe 
+and continuing publicity, plaintiffs’ lawyers dashed to the 
+courthouse to file shareholder derivative actions against 
+ADM directors.* Various actions were filed in two states, 
+and all were eventually consolidated in the Central District 
+of Illinois. The consolidated suit alleged that ADM direc- 
+tors had breached their fiduciary duties to stockholders by 
+failing to supervise company employees properly, and 
+sought recovery of the $190 million the company had 
+’ The Council’s independence standards have been adopted by most 
+or many of the nation’s largest companies. 
+The Council is a de- 
+liberative organization that adopts policies only based on essentially 
+unanimous votes among its institutional shareholder members. 
+*“(A]vailable empirical evidence suggests that [derivative] ac- 
+tions regularly follow in the wake of prior proceedings by the SEC 
+or other governmental agencies.” John C. Coffee, Jr., Understanding 
+© 
+the Plaintiff's Attorney: The Implications of Economic Theory for 
+Private Enforcement of Law Through Class and Derivative Actions, 
+86 Colum. L. Rev. 669, 673 n.9 (1986). 
+
+6 
+been forced to pay in criminal fines and civil settlements. 
+Indeed, plaintiffs’ attorneys touted in writing to the Coun- 
+cil that “a primary goal of our litigation is to recover for 
+ADM as much of the wasted $190 million as is realisti- 
+cally and reasonably possible.” Objections of CalPERS 
+and SBA to Proposed Settlement of Derivative Action 
+(July 2, 1997), Exh. A at 2 (attaching letter). 
+Plaintiffs’ counsel, however, did almost nothing to prose- 
+cute the case. Nearly two years after filing, they still had 
+not fully litigated defendants’ motion to dismiss. By their 
+own admission, they had also neglected to seek any mean- 
+ingful discovery. In fact, plaintiffs’ lawyers focused what 
+little energy they expended on settlement with the insur- 
+ance company for ADM’s executives. 
+In the resulting 
+agreement 
+(“Settlement”), reached on May 29, 1997, 
+plaintiffs’ attorneys agreed to release “any and all causes 
+of action” against ADM and the director defendants in 
+return for a mere $8 million settlement fund—less than 
+4.3 percent of the sought-after $190 million. 
+The parties then went on to allocate the fund exclu- 
+sively to pay attorneys’ fees. Half was earmarked for pay- 
+ing the attorneys bringing suit.° The other half was desig- 
+nated for payment of future legal fees incurred by ADM 
+in attempting to reform itself.° Not one dime was returned 
+to the corporation for shareholders who lost $190 million 
+in value as a result of their fiduciaries’ misconduct. 
+5 The parties signed a so-called “free sailing provision” under 
+which defendants agreed not to oppose a fee petition seeking to 
+direct $3.92 million, or 49 percent of the fund, to plaintiffs’ counsel 
+(plus interest, coming out of the remaining 51 percent). The aver- 
+age fee award in shareholder derivative suits where no monetary 
+settlement is made (effectively the case here) is $287,000. Roberta 
+Romano, The Shareholder Suit: Litigation Without Foundation?, 
+7 J.L. Econ. & Org. 55, 63 (1991). Even in cases where monetary 
+settlements are made to shareholders, fee awards average no more 
+than 24 percent of the settlement amount. /d. 
+® Adding to the conflict of interest, plaintiffs’ attorneys remained 
+eligible under the settlement to earn these fees as well. 
+. 
+The Settlement also endorsed the “reform” measures 
+voluntarily adopted by ADM a year earlier. Though plain- 
+tiffs crowed that they had “extracted” concessions beyond 
+ADM’s self-imposed reforms, fine-print details revealed 
+the opposite; for instance, plaintiffs did almost nothing to 
+address the question of director independence, the single 
+most important reform measure and the one that had 
+nearly passed at the previous shareholder meeting over 
+management opposition. 
+After executing the Settlement, and without notice to 
+shareholders, the parties appeared before the district court 
+and obtained an order on May 30, 1997, tentatively ap- 
+proving their agreement. Pursuant to the last sentence in 
+Rule 23.1, the district court at that point invited “[a]ny 
+shareholder of record of ADM” to “appear and show 
+cause, if he, she or it has any [reason] why the proposed 
+settlement of the derivative claims 
+. 
+. 
+. should or should 
+not be entered thereon.” Order Preliminarily Approving 
+Settlement and Providing for Notice at 3 (May 30, 1997).? 
+The court set a deadline of July 3, 1997, for written ob- 
+ean and scheduled a final settlement hearing for July 
+In response to the court’s invitation, petitioners filed 
+written objections, accepted by the district court, and 
+appeared at the July 7 hearing. 
+Petitioners asked the 
+court to reject the Settlement on the ground that the cash 
+benefit to plaintiffs’ lawyers was disproportionately high 
+and the corporate governance “concessions” provided no 
+material benefit to shareholders beyond what ADM had 
+itself adopted a year earlier. 
+Alternatively, petitioners 
+asked the court to order the parties to show cause why 
+corporate governance provisions should not be revised to 
+require truly independent directors. 
+Nevertheless, at the 
+7 Rule 23.1 provides in pertinent part that “[t]he action shall not 
+be dismissed or compromised without the approval of the court, and 
+notice of the proposed dismissal or compromise shall be given to 
+shareholders or members in such manner as the court directs.” 
+
+8 
+conclusion of the hearing the district court approved the 
+Settlement. Petitioners appealed to the Seventh Circuit. 
+B. The Decision Below 
+The panel refused to hear petitioners’ appeal, left them 
+unable ever to appeal the collusive ADM settlement, over- 
+ruled several circuit cases in the process, and expressly 
+recognized that its decision created two direct conflicts 
+with the considered decisions of other circuits. 
+1. In Tryforos v. Icarian Development Co., 518 F.2d 
+1258 (7th Cir. 1975), cert. denied, 423 U.S. 1091 (1976), 
+then-Judge Stevens held that “(t]he law is clear that a 
+non-party shareholder who appears, pursuant to a Rule 
+23.1 notice, to present objections to a proposed dismissal 
+or settlement of a derivative action may appeal an adverse 
+decision even though he has not been formally made a 
+party to the action.” Jd. at 1263 n.22. This view has been 
+endorsed by other circuits. See, e.g., Bell Atlantic Corp. 
+v. Bolger, 2 F.3d 1304 (3d Cir. 1993) (Scirica, J.); 
+Gottlieb v. Wiles, 11 F.3d 1004, 1011 (10th Cir. 1993) 
+(McKay, C.J.). 
+It has been approved by leading com- 
+mentators.2 And some courts have even expressed dis- 
+pleasure at shareholder motions to intervene. 
+See, @.g., 
+Webcor Elecs. v. Whiting, 101 F.R.D. 461, 463 (D. Del. 
+1984) (complaining that motion to intervene was “super- 
+fluous procedural question” since nonparty objector al- 
+ready had standing to appeal). 
+With Tryforos as direct on-point authority guarantee- 
+ing nonparty objectors’ right to appeal, and with so many 
+other authorities in concurrence, petitioners did not seek 
+8 See, e.g., TC Wright, supra, § 1839, at 182 (2d ed. 1986 & Supp. 
+1997) (“objector to the settlement may appeal the court’s approval 
+of the compromise”) ; 5 James W. Moore, Moore’s Federal Practice 
+€ 23.1.10[3] (3d ed. 1997) (same); 10 Federal Procedure, Lawyers 
+Edition § 25:184, at 260 (1994) (“nonparty shareholder who ap- 
+pears, pursuant to an FRCP 23.1 notice, to present objections to a 
+proposed dismissal or settlement of a derivative action may appeal 
+an adverse decision without having been formally made a party to 
+the action’). 
+9 
+leave to intervene in the trial court. The Seventh Circuit 
+panel, however, expressly overruled Tryforos, disagreed 
+oa the Third ro decision in Bell Atlantic, and held 
+ormal interven 
+to be an absolute 
+uisite t 
+peal. Pet. App. la-4a.° 
+ners 
+The panel based its ruling almost entirely on a gloss 
+of inessential language from this Court's intervening per 
+curiam opinion in Marino, There the Court commented 
+that it is “better practice” to require nonparties to inter- 
+vene formally before allowing them to appeal. 484 U.S. 
+at 304. From that single aside, the court of appeals in- 
+ferred that both nonparty class members under Rule 23 
+and nonparty shareholders under Rule 23.1 must always 
+intervene in order to appeal. 
+The panel stated that its conclusion 
+required it to over- 
+rule Tryforos and split with other salem osouar decisions. 
+Pet. App. 6a-7a (acknowledging that Third Circuit “has 
+held, despite Marino, that a shareholder need not become 
+a party in order to appeal from the final decision in 
+derivative litigation”); id. at 2a (“{cJourts have disagreed 
+for several decades about whether class members (and 
+shareholders, their counterparts in derivative actions under 
+Rule 23.1) must intervene”); id. at 4a (“we now for- 
+mally overrule... any .. 
+. case in this circuit... 
+that permits non-parties to appeal”). 
+2. The court of appeals next turned to the question 
+whether to apply its decision retroactively to = s 
+The court acknowledged that retroactive application of 
+its intervention requirement would preclude petitioners 
+from ever appealing the ADM settlement—and would do 
+so despite the fact that they had followed all proper pro- 
+cedures under settled Seventh Circuit law at the time they 
+appealed. /d. at 7a-10a. 
+* Pursuant to Seventh Circuit Rule 40(e), the panel 
+: 
+overruled 
+- 
+prior precedent by circulating its opinion to all circuit judges in 
+active service prior to its release. Pet. App. 10a. 
+
+10 
+The court concluded that it was bound to apply its 
+new intervention requ-ement to CalPERS and SBA, un- 
+fairness notwithstanding, because of language in Fire- 
+stone (and subsequently reiterated in Budinich and Chris- 
+tianson v. Colt Industries Operating Corp., 486 U.S. 800, 
+818 (1988)): “A court lacks discretion to consider the 
+merits of a case over which it is without i: isdiction, and 
+thus, by definition, a jurisdictional ruling may never be 
+made prospective only.” Firestone, 449 U.S. at 379. Be- 
+cause 
+this case “concern{ed] 
+jurisdiction[al]” 
+prerequi- 
+sites to appeal, Judge Easterbrook reasoned, the court's 
+new rule had to be applied retroactively to bar the appeal 
+of CalPERS and SBA. Pet. App. 8a-9a. 
+The panel acknowledged that this second holding also 
+overruled a Seventh Circuit precedent (Snyder v. Smith, 
+736 F.2d 409 (7th Cir.), cert. denied, 469 U.S. 1037 
+(1984)) 
+and created another direct circuit split—this 
+time with the Ninth Circuit’s decision in George v. Ca- 
+macho, 119 F.3d at 1399. 
+Pet. App. 10a (“overrul[ing] 
+Snyder and disagree[ing] with George”). 
+Just last year 
+the Ninth Circuit, sitting en banc, held that nothing in 
+Firestone or its progeny required retroactive application 
+of new jurisdictional rules where such application would 
+bar appellants from ever raising their issues on appeal. 
+George, 119 F.3d at 1399. Until this case, the Seventh 
+Circuit had taken the same view, stating that Firestone 
+“did not address the issue of whether an appellate court 
+must dismiss the appeal where a party who relies on a 
+jurisdictional ruling is, under a subsequent decision, fore- 
+closed from ever raising his issues in the appellate court.” 
+Snyder, 736 F.2d at 415. 
+ll 
+REASONS FOR GRANTING THE PETITION 
+I. THE SEVENTH CIRCUIT'S DECISION CEMENTS 
+A CIRCUIT SPLIT OF SIGNIFICANT IMPOR- 
+TANCE TO ALL SHAREHOLDER DERIVATIVE 
+SUITS, REFLECTS CONFUSION AMONG THE 
+LOWER COURTS OVER THIS COURT'S DECISION 
+IN MARINO v, ORTIZ, UNDERMINES 
+THE PUR- 
+POSE AND DESIGN OF RULE 231 TO ENCOUR- 
+AGE 
+SHAREHOLDER 
+PARTICIPATION, 
+AND 
+IGNORES TRADITIONAL COMMON LAW AND 
+FEDERAL PRACTICE 
+As Judge Easterbrook noted, the lower federal courts 
+are irreconcilably split over whether nonparty shareholders 
+must intervene as parties in order to appeal adverse judg- 
+ments. 
+Pet. App. 2a. This split has substantial conse- 
+quences for all nonparty shareholders and the vitality of 
+the shareholder derivative suit process itself. 
+It leaves 
+objecting shareholders uncertain of their rights, effectively 
+prevents any shareholder appeals in the Seventh Circuit, 
+and invites 
+forum shopping. 
+The Seventh Circuit reasoned that its ruling was com- 
+pelled by this Court’s per curiam decision in Marino v. 
+Ortiz, 484 U.S. 301 (1988). 
+But Judge Easterbrook 
+acknowledged that the Third Circuit disagrees. 
+Pet. App. 
+6a-7a (conceding disagreement with Third Circuit's view 
+of Marino). 
+The Third Circuit’s view is correct. 
+The 
+court’s decision below undermines the purposes of Rule 
+23.1, diverges from traditional common law and federal 
+practice, and finds no support in Marino, which dealt only 
+with the right of complete outsiders to contest a class 
+action settlement between willing class members and the 
+defendants. 
+A. The panel below virtually invited certiorari, noting 
+at the outset of its opinion that “[cJourts have disagreed 
+for several decades about whether class members (and 
+shareholders, their counterparts in derivative actions under 
+Rule 23.1) must intervene as parties in order to appeal 
+from adverse decisions.” Pet. 
+App. 2a. Resolution 
+of 
+
+12 
+lower court disputes over questions of federal law is a 
+central function of this Court's certiorari jurisdiction. 
+Nor can the split of authority be reconciled. The Third, 
+Tenth, and (until now) Seventh Circuits have all ap- 
+proved nonparty shareholder appeals. See, e.g., Bell At- 
+lantic Corp. v. Bolger, 2 F.3d 1304; Gottlieb v. Wiles, 11 
+F.3d 1004; Rosenbaum 
+v. MacAllister, 64 F.3d 1439 
+(10th Cir. 1985); Tryforos v. Icarian Dev. Co., 518 
+F.2d 1258. 
+The Seventh Circuit now demands formal 
+intervention, in express “disagree[ment]” with these courts. 
+Pet. App. 7a.” 
+The fracture has been compounded by a lone para- 
+graph in Marino. See Pet. App. la-2a. Some courts, like 
+‘© This same split is mirrored in the context of Federal Rule of 
+Civil Procedure 23 class actions. Several circuits hold that nonparty 
+class members need not intervene before appealing. See, e.g., In re 
+PaineWebber Inc. Ltd. Partnerships Litig., 94 F.3d 49 (2d Cir. 
+1996); Carlough v. Amchem Prods., Inc., 56 F.3d 707, 713-14 (3d 
+Cir. 1993); Ace Heating & Plumbing Co. v. Crane Co., 453 F.2d 
+30, 32 (3d Cir. 1971) ; Shults v. Champion Int'l Corp., 35 F.3d 1056 
+(6th Cir. 1994); Sertic v. Cuyahoga, Lake, Geauga & Ashtabula 
+Counties Carpenters Dist. Council of United Bhd. of Carpenters 
+& Joiners, 459 F.2d 579 (6th Cir. 1972); In re Cement Antitrust 
+Litig., 688 F.2d 1297, 1809 (9th Cir. 1982), aff'd sub nom. Arizona 
+v. United States District Court, 459 U.S. 1191 (1983); Dosier v. 
+Miami Valley Broadcasting Corp., 656 F.2d 1295, 1299 (9th Cir. 
+1981) ; Marshall v. Holiday Magic, Inc., 560 F.2d 1173, 1176 (9th 
+Cir. 1977). 
+Others hold that intervention is required. 
+See, e.g., Loran v. 
+Furr’s/Bishop's Inc., 988 F.2d 554, 554 (5th Cir. 1993) (“[Wle 
+have no jurisdiction to consider an appeal by a class member who 
+has not attempted to intervene as a named party.”); Baylor v. 
+United States Dep't of Hous. & Urban Dev., 913 F.2d 223, 225 (5th 
+Cir. 1990); Walker v. City of Mesquite, 868 F.2d 1071, 1073-74 
+(5th Cir. 1988) ; Croyden Assocs. v. Alleco, Inc., 969 F.2d 675 (8th 
+Cir. 1992), cert. denied, 507 U.S. 908 (1993); Shores v. Sklar, 844 
+F.2d 1485, 1491, vacated on other grounds, 855 F.2d 722 (11th Cir. 
+1988); Guthrie v. Evans, 815 F.2d 626, 628 (11th Cir. 1987). 
+Whatever result the Court reaches in this case in the context 
+of Rule 23.1 shareholder derivative suits will also provide much- 
+needed guidance to the lower courts in the context of Rule 23 class 
+actions. 
+; 
+' : 2 3 
+* 
+affected class); Gottlieb, 11 F.3d at 1011 (adopting Bell 
+Atlantic)." The intercircuit dispute over the effect of 
+dous practical consequences for all nonparty shareholders 
+and the integrity of the shareholder derivative suit process. 
+In some courts, nonparty shareholders have an absolute 
+right to appeal any collusive settlement. 
+In others, like 
+the Seventh Circuit, their ability to appeal now turns on 
+a purely discretionary decision by the trial court.” The 
+1! See also 15A Wright, supra, § 3902.1, at 122 (2d ed. 1992) 
+(“The justification for recognizing 
+appeal standing in some 
+of these 
+[nonparty] cases is so compelling as to justify putting aside any 
+formal requirement of intervention, though the ‘better practice’ is 
+to seek intervention in the district court.”) 
+(quoting Marino) ; 
+Timothy A. Duffy, The Appealability of Class Action Settlements by 
+Unnamed Parties, 60 U. Chi. L. Rev. 933, 946 (1993) (“[Llower 
+courts have not taken Marino as proffering an unqualified command ; 
+they have decided that a non-party may sometimes appeal without 
+prior intervention.”). 
+‘2 Disagreement 
+over Marino has also contributed to the split of 
+authority over intervention in the Rule 23 class action context. See, 
+e.g., Walker, 868 F.2d at 1074 (Fifth Circuit refusing nonparity 
+class member appeal because of Marino); Croyden, 969 F.2d at 
+679-80 (same holding in Eighth Circuit). Thus, clarifying Marino’s 
+meaning here will also contribute to resolving the class action split. 
+Under Rule 24(b), “permissive intervention” is expressly left 
+to the “discretion” 
+of the trial court. Fed. 
+R. Civ. P. 24(b). Even 
+if intervention here is considered “of right” under Rule 24(a) (2), 
+the district court is still granted wide discretionary power to 
+determine whether “the applicant is so situated that the disposi- 
+tion of the action may as a practical matter impair or impede” 
+its rights, and whether the applicant’s interests are already 
+
+14 
+federal courts rarely disagree over a question so central 
+to the administration of justice as the right to appellate 
+review for an entire class of persons. 
+A key procedural safeguard against collusion and abuse 
+is also at stake in the lower court's split. In all derivative 
+litigation, strong economic incentives tempt plaintiffs’ coun- 
+sel and defendants to “structure a settlement such that the 
+plaintiffs’ attorneys’ fees are disproportionate to any re- 
+lief obtained for the corporation.” Bell Atlantic, 2 F.3d 
+at 1310. Courts and commentators have long considered 
+participation by nonparty shareholders in the judicial set- 
+tlement review process to be a key procedural counter- 
+measure for exposing and preventing such corruption.” 
+“adequately represented” by the parties. Fed. R. Civ. P. 24(a)(2). 
+See also Security Ins. Co. v. Schipporeit, Inc., 69 F.3d 1377, 1380 
+(7th Cir. 1995) (deciding whether to permit intervention “of right” 
+requires trial court to apply four-part balancing test). Worse still, 
+some courts have suggested that objecting shareholders’ interests 
+are necessarily “adequately protected” by party shareholders 
+in 
+Rule 23.1 suits. See, e.g., In re General Tire & Rubber Co. Sec. 
+Litig., 726 F.2d 1075, 1087 (6th Cir.), cert. denied, 469 U.S. 858 
+(1984). 
+4 See also id. at 1309 n.8 & 1310 n.10 (citing, inter alia, Richard 
+A. Posner, Economic Analysis of Law § 21.9, at 570 (4th ed. 
+1992) (plaintiffs’ attorney “will be tempted to offer to settle with 
+defendant for a small judgment and a large legal fee, and such 
+an offer will be attractive to the defendant provided the sum 
+of the two figures is less than the defendant’s net expected loss 
+from going to trial”); Romano, 7 J.L. Econ. & Org. at 57 (combina- 
+tion of differential indemnification rights, insurance policy exclu- 
+sions, plaintiffs’ counsel’s interest in fees, and individual defend- 
+ants’ risk aversion creates powerful and potentially perverse incen- 
+tives to settle) ; Coffee, 86 Colum. L. Rev. at 677 (derivative suits 
+“are uniquely vulnerable to collusive settlements that benefit plain- 
+tiff’s attorneys rather than their clients’) 
+). 
+5 See, e.g., Daily Income Fund, Inc. v. For, 464 U.S. 523, 532 
+n.7 (1984) (“[T]he provision requiring notice and court approval 
+of settlements [is] also intended to prevent shareholders from suing 
+in place of the corporation in circumstances where the action would 
+disserve the legitimate interests of the company or its sharehold- 
+ers.”); Papilsky, 466 F.2d at 258 (“[n]lotice is essential in these 
+situations to ensure that the [resolution] of the derivative suit is 
+15 
+Replacing nonparty shareholders’ longstanding right to ap- 
+peal a settlement on the merits with a discretionary chance 
+to appeal reduces their ability to serve that monitoring 
+function. 
+It also raises 
+the costs (and thus reduces 
+the 
+likelihood) 
+of their participation. Simply 
+to provide their 
+views on the fairness of a settlement, nonparty sharehold- 
+ers are faced with the substantial added financial burden 
+of litigating an intervention motion (and possibly an ap- 
+peal of the district court’s denial of leave to intervene). 
+in the best interests of the corporation and the absent stockhold- 
+ers”) (citations omitted); Wolf v. Barkes, 348 F.2d 994, 996 n.2 
+(2d Cir.) (Friendly, J.) (that ensuring nonparty oversight and 
+participation “was the objective” of the Rule “is indicated by the 
+[1937] Advisory Committee’s citation of McLaughlin, Capacity of 
+a Plaintiff-Stockholder to Terminate a Stockholder’s Suit, 46 Yale 
+L.J. 421, 430 (1936),” in its commentary to what was then Rule 
+23(c), now Rule 23(e)), cert. denied, 382 U.S. 941 (1965); Bell 
+Atlantic, 
+2 F.3d at 1310 (“objectors play an important role by 
+giving courts access to information on the settlement’s merits’’) ; 
+In re Pittsburgh & Lake Erie R.R. Co. Sec. & Antitrust Litig., 
+543 F.2d 1058, 1069-70 (3d Cir. 1976) 
+(holding that nonparties 
+may appeal where their “equity is being diluted,” since their “dis- 
+tinctive interests are as worthy of consideration and protection as 
+[party] shareholders”); Cohen v. Young, 127 F.2d 721 (6th Cir. 
+1942) (nonparty shareholder participation key “in order that the 
+court may have the benefit of that broader information which 
+comes from receiving advice as to the views of all parties con- 
+cerned”); Craftsman Fin. & Mortgage Co. v. Brown, 64 F. Supp. 
+168, 178 (S.D.N.Y. 1945) (nonparty shareholder participation key 
+to remedy the “evil” of “private settlements under which the plain- 
+tiff stockholder and his attorney got the sum paid in settlement, 
+and the corporation got nothing”); Stepak v. Tracinda Corp., Civil 
+Action No, 8457, 1989 WL 100884, at *1 (Del. Ch. Aug. 18, 1989) 
+(objectors’ “ardent[] resist{ance] [to] the settlement” persuaded 
+court “to look more closely at the proposal than would ordinarily 
+be the case”; as a result of objector participation, court concluded 
+there was “no reasonable likelihood that the proposed settlement 
+would be approved as fair and reasonable”), appeal refused, 567 
+A.2d 424 (Del. 1989) (Table); 7C Wright, supra, § 1839, at 175 
+(nonparty shareholder participation “is intended to discourage the 
+private settlement of a derivative claim under which a shareholder- 
+plaintiff and his attorney personally profit to the exclusion of the 
+corporation 
+and the other shareholders”) ; Note, Control 
+Over Set- 
+tlement of Shareholder’s Suit, 54 Harv. L. Rev. 888 (1941). 
+
+16 
+They are faced, too, with all the costs and inconveniences 
+associated with party status, including wide-ranging auto- 
+matic disclosure obligations and the obligation to respond 
+to interrogatories, appear for deposition, and answer vir- 
+tually unlimited demands for documents. 
+Increasing bar- 
+riers to (and costs of) nonparty participation concomi- 
+tantly increases the parties’ incentives to collude—as well 
+as the likelihood that flawed settlements will survive judi- 
+cial scrutiny.” 
+Resolution of this split is important for other reasons. 
+Under current law, whether intervention is required differs 
+from jurisdiction to jurisdiction, leaving shareholder liti- 
+gants uncertain of their appellate rights and the procedures 
+they need to follow to preserve those rights. 
+Failing to 
+bring a formal motion to intervene is a fatal error in 
+some courts; in others, such a motion is treated as an 
+unwelcome and wasteful formalism. 
+Cf. Webcor Elecs., 
+101 F.R.D. at 463; see p. 8, supra. 
+Further, in cir- 
+cuits where nonparties can appeal only after intervening, 
+they are typically notified of their right to object and 
+participate only after the parties have reached a tentative 
+settlement. 
+See note 7, supra. 
+Yet, settled law in the 
+Seventh Circuit and elsewhere strongly disfavors interven- 
+tion after a tentative settlement is reached.” 
+As a prac- 
+tical matter, the intervention requirement makes appeal of 
+'® Many commentators have already called on Congress for aboli- 
+tion of derivative suits as too prone to collusion. See Pet. App. 6a 
+(citing articles). This view is also expressed in the panel's decision 
+below. Jd. 
+'T Worse still, even when shareholders carefully follow all applica- 
+ble law in jurisdictions that do not require intervention, they risk 
+being whipsawed 
+(like petitioners here) by the court of appeals 
+reversing itself, changing sides in the ongoing split, and foreclos- 
+ing a shareholder appeal that was proper under prior law. 
+18 See, e.g., Farmland Dairies v. Commissioner of New York State 
+Dep't of Agric. 
+& Markets, 847 F.2d 1038, 1043-44 (2d Cir. 1988); 
+Jones 
+v. Caddo Parish Sch. Bd., 735 F.2d 923 (5th Cir. 1984); 
+Ragsdale v. Turnock, 941 F.2d 501, 504 (7th Cir. 1991), cert. denied, 
+502 U.S. 1035 (1992). 
+17 
+a flawed derivative settlement highly unlikely, if not im- 
+possible. 
+Finally, shareholder derivative suits are amenable to 
+jurisdiction almost anywhere in the United States (plain- 
+tiffs’ attorneys can usually find a shareholder willing to 
+serve as plaintiff in the jurisdiction of choice). The cur- 
+rent, chaotic state of the law encourages a perverse form 
+of forum shopping. Those seeking quick, quiet (and collu- 
+sive) derivative settlements that benefit them—and not the 
+company—will have a strong incentive to file where inter- 
+vention is required and where appellate review of any 
+collusive settlement is therefore unlikely. 
+C. The Seventh Circuit’s shareholder intervention man- 
+date is wrong as a matter of law. Its error directly affects 
+the quality of the judicial oversight and review process in 
+the many derivative actions handled by the federal courts. 
+Under Rule 23.1, nonparty shareholders are entitled to 
+appear and contest any proposed settlement; unlike purely 
+private suits, intervention is not required for nonparties 
+to participate in the trial court. 
+Rule 23.1 was deliber- 
+ately drafted in this manner to encourage maximum non- 
+party shareholder participation. 
+“[O]bjectors play an im- 
+portant role by giving courts access to information on the 
+settlement’s merits.” Bell Atlantic, 2 F.3d at 1310; Papil- 
+sky, 466 F.2d at 258 (shareholder participation is “essen- 
+tial in these situations to ensure that the [resolution] of 
+the derivative suit is in the best interests of the corpora- 
+tion and the absent stockholders”); see also authorities 
+cited at note 15, supra. 
+The Seventh Circuit’s newly fashioned rule is incon- 
+sistent with the purposes of Rule 23.1. 
+It raises the costs 
+for nonparties to participate, reduces their ability to ap- 
+peal, and creates new incentives to collude. It also reduces 
+the likelihood that the court of appeals will have all the 
+information necessary to assess the fairness of a settle- 
+ment. 
+The Third Circuit expressly refused to mandate 
+intervention for just these reasons. 
+Bell Atlantic, 2 F.3d 
+
+18 
+at 1310 (Rule’s goal of preventing collusive settlements 
+“cautions against creating obstacles to challenging deriva- 
+tive action settlement agreements”). 
+See also Gottlieb, 
+11 F.3d at 1011 (same); Duffy, 60 U. Chi. L. Rev. at 
+951 (requiring intervention is inconsistent with “the rule 
+that encourages settlement to a reasonable degree, and 
+also encourages fair settlements”). 
+The Seventh Circuit's decision is also in tension with 
+common law practice. See generally Duffy, 60 U. Chi. L. 
+Rev. at 942. English legal scholar Fredric Calvert argued 
+as early as 1846 that the British common law had already 
+provided unnamed class members the right to appeal for 
+over 
+a hundred 
+years. 
+See id. at 940-41 
+(discussing 
+Frederic Calvert, Observations on Suits in Equity 38 (Wil- 
+liam Benning, 2d ed. 1846)). 
+And Calvert himself de- 
+fended this right at length: “[T]he privilege of appeal [in 
+class action suits] ought to be given in such a manner 
+as to induce the readiest acquiescence in the system of 
+representation during the earlier part of the suit; for which 
+reason every individual ought, as it appears to me, to... 
+have the power of appealing, whether he has been a suitor 
+. or by some other person as his representative.” 
+I/d. 
+In America, Joseph Story reiterated Calvert’s position in 
+his Commentaries on Equity Pleadings, arguing that, where 
+affected individuals are too numerous to appear in court, 
+“they may come in under the decree, and take the benefit 
+of it, or show it to be erroneous, or entitle themselves to a 
+rehearing.” 
+/d. at 941 (quoting Joseph Story, Commen- 
+taries on Equity Pleadings 96 ‘Little, Brown, 2d ed. 
+1840)). 
+The Seventh Circuit rested its ¢ cision not on any dis- 
+agreement over the importance of nonparty oversight, any 
+different view about Rule 23.1’s purpose, or any contrary 
+understanding of common law practice. 
+Instead, it con- 
+cluded that three sentences from Marino controlled: 
+The rule that only parties to a lawsuit, or those that 
+properly become parties, may appeal an adverse judg- 
+ment, is well settled. The Court of Appeals suggested 
+19 
+that there may be exceptions to this general rule, pri- 
+marily “when the nonparty has an interest that is 
+affected by the trial court’s judgment.” We think the 
+better practice is for such a nonparty to seek inter- 
+vention for purposes of appeal... . 
+484 U.S. at 304 (citations omitted). 
+The Seventh Circuit’s single-minded reliance on Marino 
+is misplaced. 
+First, the quoted language is unnecessary to Marino’s 
+per curiam holding. 
+It discusses only “better practice,” 
+and does not set out an exceptionless rule for all cases. 
+Other courts and leading commentators have recognized 
+this point. See, e.g., Bell Atlantic, 2 F.3d at 1307; note 
+11, supra. 
+Second, the nonparties seeking to appeal in Marino 
+were not even members of the class at issue, but outsiders 
+with no right to participate in trial court proceedings under 
+Rule 23. They were white police officers seeking to chal- 
+lenge a class action settlement between black officers and 
+the police authorities. 
+Nothing in Marino addressed the 
+appellate rights of nonparties who are members of the 
+class whose rights are directly affected by any judgment 
+entered in the case, and who have an express right under 
+the federal rules to participate in trial court proceedings 
+without intervention. 
+Bell Atlantic, 2 F.3d at 1308 n.6. 
+The lone case cited in the pertinent passage in Marino 
+confirms this conclusion. 
+United States ex rel. Louisiana 
+v. Jack, 244 U.S. 397 (1917), cited in Marino, 484 U.S. 
+at 304, involved a land dispute between a state agency 
+and a landowner; the State of Louisiana sought to partici- 
+pate in the proceedings. The Court held the State not a 
+proper party and explained that “it has long been the 
+law” that “partlies] and priv[ies] to the record” may ap- 
+peal an adverse decision, though even to this rule the 
+Court acknowledged some “exceptions.” 244 U.S. at 402 
+(emphasis added). There is no doubt that nonparty share- 
+
+20 
+holders are at least “privy to the record” in derivative 
+suits.”” 
+Third, if Marino held that “only parties to a lawsuit, 
+or those that properly become parties, may appeal” (484 
+U.S. at 304), much settled law would have to be over- 
+turned. Nonparties affected by trial court judgments are 
+treated by the federal courts as “de facto” parties and 
+permitted to appeal without intervention in a “surprising 
+range” of circumstances. 
+ISA Wright, supra, § 3902.1, 
+at 102." 
+For instance, federal courts routinely permit 
+nonparty appeals from judgments that bind the nonparty 
+by name. 
+/d. at 122 (citing cases).**" They permit non- 
+party witnesses held in contempt for refusing discovery to 
+appeal on claims of privilege, lack of personal jurisdic- 
+tion, and other matters. 
+See 154. Wright, § 3902.1, at 
+' The Seventh Circuit virtually conceded as much, 
+Pet. App. 7a 
+(“The third circuit conceived of the question as whether the share- 
+holder has standing, which is misleading. 
+Standing means injury 
+in fact, and a reduction 
+in the market price of one’s stock is 
+injury.”). 
+*” See id. at 122 (collecting examples and commenting that “Non- 
+parties need not always go through a formal intervention procedure 
+to achieve standing to appeal. 
+Appeals have been permitted on 
+showings that range from easy cases in which a nonparty is for- 
+mally addressed by a court order through less clear cases in which 
+a nonparty is significantly affected.” 
+). 
+2! See also United States v. International Bhd. of Teamsters, 931 
+F.2d 177, 183-84 (2d Cir. 1991); Im re Baldwin-United Corp., 770 
+F.2d 328, 335 (2d Cir. 1985); Horworth v. Blinder, Robinson & 
+Co., 903 F.2d 186, 194 n.12 (3d Cir. 1990); In re Grand Jury Pro- 
+ceedings, 654 F.2d 268, 270-71 (3d Cir.), cert. denied, 454 U.S, 1098 
+(1981); Thompson v. Freeman, 648 F.2d 1144, 1147 n.5 (8th Cir. 
+1981); Class Plaintiffs v. City of Seattle, 955 F.2d 1268, 1277-78 
+(9th Cir.), cert. denied, 506 U.S. 953 (1992) ; EEOC v. Pan American 
+World Airways, Inc., 897 F.2d 1499, 1504 (9th Cir.), cert. denied, 
+498 U.S. 815 (1990); Hal Roach Studios, Inc. v. Richard Feiner 
+& Co., 896 F.2d 1542, 1546-47 (9th Cir. 1989); SEC v. Wencke, 
+783 F.2d 829, 834 (9th Cir.), cert. denied, 479 U.S. 818 (1986): 
+Commercial Sec. Bank v. Walker Bank & Trust Co., 456 F.2d 1352. 
+1364 (10th Cir. 1972). 
+21 
+124." They regularly allow attorneys and expert wit- 
+nesses to appeal district court denials of fees. See 15A 
+Wright, § 3902.1, at 126 & n.45.* And nonparties obli- 
+gated to reimburse the defendant for amounts paid under 
+the trial court’s judgment are also heard on a routine 
+basis. See 1SA Wright, § 3902.1, at 127 & n.47.* There 
+is nothing in Marino to suggest that its reference 
+to “better 
+practice” was intended to sweep away such a vast body 
+of federal law. Nor is there any basis in Marino or the 
+Seventh Circuit's decision to justify denying injured non- 
+party shareholders the right to appeal when these other 
+nonparties are routinely heard. 
+Beyond Marino, the only other authority the Seventh 
+Circuit cited for terminating nonparty shareholder appeals 
+is Federal Rule of Appellate Procedure 3(c). 
+Pet. App. 
+2a. 
+Rule 3(c), the panel emphasized, provides that “[a] 
+notice of appeal must specify the party or parties taking 
+the appeal by naming each appellant in either the caption 
+or the body of the notice of appeal.” (emphasis added). 
+= See also United States Catholic Conference v. Abortion Rights 
+Mobilization, Inc., 487 U.S. 72, 76 (1988) ; General Ins. Co. of Am. 
+v. Eastern Consolidated 
+Utils., Inc., 126 F.3d 215, 218 (3d Cir. 
+1997); United States 
+v. Bertoli, 994 F.2d 1002, 1012 
+(3d Cir. 
+1993) ; Port Drum Co. v. Umphrey, 852 F.2d 148, 150 n.2 (5th Cir. 
+1988); Petersen v. Douglas County Bank & Trust Co., 967 F.2d 
+1186, 1188 (8th Cir. 1992); Norwood v. Slammons, 788 F. Supp. 
+1020, 1024 (W.D. Ark. 1991). 
+33 See also Angoff v. Goldfine, 270 F.2d 185, 186 (1st Cir. 1959) ; 
+Lipscomb v. Wise, 643 F.2d 319, 320-21 (5th Cir. 1981); Price v. 
+Peika, 690 F.2d 98, 102 (6th Cir. 1982); Preston v. United States, 
+284 F.2d 514, 515 n.1 (9th Cir. 1960); United States v. Tippett, 
+975 F.2d 713, 718 (10th Cir. 1992); Dietrich Corp. v. King Re- 
+sources Co., 596 F.2d 422, 424 (10th Cir. 1979); James v. Home 
+Constr. Co. of Mobile, Inc., 689 F.2d 1357, 1359 (11th Cir. 1982). 
+See also Fields v. Blum, 629 F.2d 825, 827 (2d Cir. 1980) 
+(order enjoining reduction of welfare benefits by city official could 
+be appealed by state, since state was legally required to reimburse 
+city for payments and controlled both the activities complained of 
+and the conduct of local officials). 
+
+22 
+Because no party is taking the appeal here, the Seventh 
+Circuit reasoned, it must be improper under Rule 3(c). Jd. 
+This is far too thin a reed on which to rest such a 
+weighty result. 
+The Seventh Circuit's reading of Rule 
+3(c) would bar not just nonparty shareholder appeals, but 
+all nonparty appeals, a distinctly unlikely result given 
+longstanding acceptance of such appeals. See notes 21-24, 
+supra. 
+Besides, Rule 3(c) hardly purports to delineate 
+what matters are inherently eligible or ineligible for ap- 
+peal. That is the domain of Article III jurisprudence and 
+28 U.S.C. § 1291, neither of which purports to restrict 
+appellate jurisdiction to parties alone.” On its face, Rule 
+3(c) is concerned only with the formal “content[s] of the 
+notice of appeal.” It simply ensures that sufficient infor- 
+mation appears on the face of the notice for the court of 
+appeals to discern the issues and litigants before it.” 
+The Seventh Circuit also ignored further language in 
+Rule 3(c), which provides that 
+[ijn a class action, whether or not the class has been 
+certified, it is sufficient for the notice to name one 
+person qualified to bring the appeal as the representa- 
+tive of the class. 
+Fed. R. App. P. 3(c). 
+This Court has itself held that 
+Rule 3(c) permits Federal Rule of Civil Procedure 23 
+class members to appeal if the named plaintiff chooses not 
+to do so. 
+United Airlines, Inc. v. McDonald, 432 U.S. 
+385 (1977). 
+Intervention 
+is nowhere discussed in the 
+Rule as a prerequisite to such appeals. 
+Finally, there is no indication that Rule 3(c)’s drafters 
+ever intended it to preclude any nonparty appeals. To the 
+*5In fact, section 1291 never mentions the words “party” or 
+“parties” anywhere in its text. See Pet. App. 22a. 
+26“(c) Content of the Notice of Appeal.—aA notice of appeal 
+must specify the party or parties taking the appeal by naming each 
+appellant in either the caption or the body of the notice of appeal. 
+An attorney representing more than one party may 
+fulfill this 
+requirement by describing those parties with such terms as ‘all 
+plaintiffs,’ 
+‘the defendants,’ 
+‘the plaintiffs A, B, et al.,’ or ‘all 
+defendants except X.’...” 
+Fed, R. App. P. 3(c). 
+23 
+contrary, the 1967 Advisory Committee Notes indicate 
+that the Rule “merely restate[s], in modified form, provi- 
+sions now found in the civil and criminal rules . 
+. 
+. and 
+decisions under the present rules which dispense with 
+literal compliance in cases in which it cannot fairly be 
+exacted should control interpretation of these rules.” 28 
+U.S.C. App. at 589 (emphasis added). 
+The 1979 Ad- 
+visory Committee Notes reemphasize the same point. /d. 
+at 590 (“so long as the function of notice is met by the _ 
+filing of a paper indicating an intention to appeal, the 
+substance of the rule has been complied with”). 
+In all 
+events, contrary to the Seventh Circuit’s opinion, a non- 
+party shareholder can strictly comply with the Rule’s lan- 
+guage simply by “specify[ing]” that no party is taking the 
+appeal, and “naming each [nonparty] appellant in either 
+the caption or the body of the notice of appeal.” 
+Il. THE SEVENTH CIRCUIT'S DECISION TO APPLY 
+ITS RULING RETROACTIVELY CREATES 
+AN- 
+OTHER CIRCUIT SPLIT, RAISES SIGNIFICANT 
+QUESTIONS OF FEDERAL LAW, AND IS BASED 
+ON A MISTAKEN PREMISE THAT WRONGLY IN- 
+SULATES 
+FROM 
+APPELLATE 
+SCRUTINY 
+A 
+PLAINLY COLLUSIVE SETTLEMENT IN ONE OF 
+THE MOST SIGNIFICANT SHAREHOLDER DE- 
+RIVATIVE SUITS 
+In Harper v. Virginia Department of Taxation, 509 
+U.S. 86 (1993), Chief Justice Rehnquist and Justice 
+O'Connor commented 
+that “[t]his Court's 
+retroactivity 
+jurisprudence has become somewhat chaotic 
+in recent 
+years.” Id. at 113 (O'Connor, J., & Rehnquist, C.J., dis- 
+senting). 
+This case raises a question arising from the 
+Court’s “somewhat 
+chaotic” 
+retroactivity jurisprudence 
+that has split the courts of appeals. 
+It is a question, as 
+well, that the Seventh Circuit wrongly resolved in a man- 
+ner that permanently insulates from appellate scrutiny a 
+derivative settlement 
+affecting millions of shareholders 
+nationwide in an egregious case of criminal corporate 
+behavior. All of these factors further compel this Court's 
+review. 
+
+24 
+A. In the decision below, the Seventh Circuit took the 
+position that Firestone Tire & Rubber Co. v. Risjord, 449 
+U.S. at 379, and its progeny forbid courts from giving 
+purely prospective effect to any new rule “concern{ing] 
+jurisdiction.” 
+Pet. App. 8a-9a. 
+Accordingly, the court 
+applied its new rule retroactively against petitioners, dis- 
+missing their appeal on the ground that they had not 
+complied with the court’s newly formulated intervention 
+requirement. The court did so after acknowledging that 
+petitioners had fully complied with settled Seventh Circuit 
+appellate procedures at the time they appealed, and that 
+retroactive application meant they would never be able to 
+obtain appellate review of the ADM settlement. 
+/d. at 
+7a-10a. 
+Judge Easterbrook noted that the panel's holding is in 
+direct conflict with the Ninth Circuit’s recent en banc 
+decision in George v. Camacho, 
+119 F.3d 1393. 
+Pet. 
+App. 10a (conceding “disagree{ment] with George”).” 
+Like petitioners here, the appellant in George had relied 
+on settled circuit authority (namely, precedent holding 
+that litigants in the Northern Mariana Islands are afforded 
+a seven-day extension for filing notices of appeal). 
+119 
+F.3d at 1395-96. 
+As here, the Ninth Circuit concluded 
+that its prior holding was erroneous. 
+/d. But, unlike here, 
+the Ninth Circuit refused to apply its new jurisdictional 
+ruling retroactively to an appellant who had faithfully 
+followed existing circuit law at the time of her appeal. /d. 
+The Ninth Circuit considered Firestone but, unlike the 
+Seventh Circuit, found nothing in it mandating retro- 
+activity: 
+What underlay the Court’s decision in Firestone was 
+the need to ensure that litigants would not engage in 
+piecemeal litigation, clogging the circuit courts with 
+interlocutory appeals. 
+.. 
+. 
+Applying the rule retro- 
+actively clearly advanced that objective by postponing 
+consideration of pending interlocutory appeals until 
+27 The majority in George included Chief Judge Hug and Judges 
+Browning, Fletcher, Pregerson, Reinhardt, Thompson, and Hawkins. 
+are 
+Id. at 1397-98. The majority was joined in this 
+case 
+The Tenth Circuit in Pettyjohn v. Shalala, 23 F.3d 
+1572 (1994), has also held, in conflict with the decision 
+here, that nothing in Firestone requires retroactivity in 
+of whether an appellate court must dismiss the appeal 
+where a party who relies on a jurisdictional ruling is, 
+under a subsequent decision, foreclosed from ever raising 
+his issues in the appellate court,” 736 F.2d 
+at 415). 
+B. Though the courts of appeals sharply differ over 
+Firestone’s scope, they agree that the issue dividing them 
+raises important questions for the administration of justice 
+and access to the federal courts. 
+If the Ninth and Tenth Circuits (and the Seventh Cir- 
+cuit in Snyder) are correct and courts may apply juris- 
+dictional rulings only prospectively, the Seventh Circuit 
+has set itself on a course that will systematically deny 
+28 These dissenters simply took issue with whether the appellant 
+in George had in fact relied on the court’s prior decision or had 
+simply been neglectful. 
+119 F.3d at 1410. There is no question in 
+this case, and no suggestion in the record, that petitioners have 
+acted in any neglectful fashion. 
+
+26 
+substantive 
+review to valid appeals; litigants relying on 
+settled law overturned 
+in their own cases will be barred 
+from ever arguing their issues on appeal. This result is 
+obviously inequitable to an entire class of litigants, and it 
+directly undercuts the judiciary’s 
+strong interest 
+in pro- 
+moting reliance on settled law. som 
+119 F.3d 
+at 1397 
+(“The consequence 
+of such a holding would 
+be that 
+liti- 
+gants who complied with our rules . . 
+. would 
+lose their 
+rights to appeal, . 
+. 
+. a result that would appear to be 
+in the law or not.”); Snyder, 736 F.2d 
+at 415 (such a 
+holding would be “obviously unfair”; “‘it would be in- 
+equitable for an appellate court to decline to hear the 
+appeal’”) (citation omitted). 
+This result also creates a bizarre incentive for litigants 
+to file every conceivable paper and motion—even those 
+already expressly ruled wasteful and superfluous—-solely 
+as an insurance policy against a possible change in law. 
+George, 119 F.3d at 1404 (“Rules are intended to provide 
+certainty and to guide parties’ actions. Making a [juris- 
+dictional] rule . 
+. 
+. retroactive [in all cases] is inconsistent 
+with both of these objectives.”) (footnote omitted). 
+By contrast, if the Seventh Circuit is right and Firestone 
+mandates retroactive application of all new jurisdictional 
+rules, the Ninth Circuit has lawlessly arrogated power to 
+hear appeals over which it has no valid jurisdiction. Indeed, 
+the Seventh Circuit below chided the Ninth Circuit on 
+precisely these grounds.” 
+C. As a result of the Seventh Circuit's decision, law- 
+yers will keep all of the meager $8 million ADM settle- 
+ment; the company and its millions of shareholders will 
+receive no meaningful reforms and not one dime from 
+2% “The proposition that ‘a court may not in any case, even in 
+the interest of justice, extend its jurisdiction where none exists’ 
+requires us to overrule Snyder and disagree with George. Jurisdic- 
+tion means adjudicatory power. 
+Equitable considerations are alto- 
+gether irrelevant when a court lacks adjudicatory power.” 
+Pet. 
+App. 10a (citation omitted). 
+27 
+fiduciaries guilty of gross abuses of trust. All of this will 
+take place, moreover, without any appellate review and as 
+a result of a clear error of law. 
+The Seventh Circuit rested its decision on the premise 
+that, once a court has determined that it lacks jurisdiction, 
+it is powerless to reach the merits of the case no matter 
+how inequitable 
+that may be. “[A] court may not in any 
+case, even in the interest of justice, extend its jurisdiction 
+where 
+none exists.” Pet. App. 10a (internal quotation 
+marks omitted ). 
+That premise, however, is unsupported. The Seventh 
+Circuit plainly did have “adjudicatory power” to hear peti- 
+tioners’ appeal. The panel never suggested that it lacked 
+Statutory or constitutional authority to entertain nonparty 
+shareholder appeals. Nothing in the language of 28 U.S.C. 
+§ 1291 or practice under that section even hints that ap- 
+peals are limited to formal parties. See Pet. App. 22a 
+(text of section 1291); notes 21-24, supra (documenting 
+longstanding practice of permitting nonparty appeals 
+in 
+federal appellate courts). Nothing in the Federal Rules of 
+Appellate Procedure precludes nonparty shareholder ap- 
+peals. See Point LC, supra. And it is beyond dispute that 
+petitioners, among ADM’s largest shareholders, have stand- 
+ing under Article III.” 
+Given the undisputed presence of constitutional and 
+Statutory “adjudicatory authority,” the Seventh Circuit's 
+ruling below can most generously 
+be described as a pru- 
+dential decision. 
+It reflects a policy decision akin to the 
+judicially created prudential standing doctrine,” not any 
+% Judge Easterbrook himself conceded that petitioners have con- 
+stitutional standing in the course of criticizing the Third Circuit's 
+decision in Bell Atlantic. 
+See note 19, supra (quoting Pet. App. 
+6a-7a). 
+™ See, e.g., Bennett v. Spear, 117 S. Ct. 1154, 1161 (1997) 
+(“In 
+addition to the immutable requirements of Article ITI, ‘the federal 
+judiciary has also adhered to a set of prudential principles that bear 
+on the question of standing.’ Like their constitutional counterparts, 
+these ‘judicially self-imposed limits on the exercise of federal juris- 
+
+28 
+outside constraint on the courts’ authority. There 
+was no 
+reason why the court of appeals could not have at least 
+considered whether to apply this purely prudential rule 
+prospectively. 
+The court’s suggestion that it lacked “ad- 
+judicatory power” to weigh such an option lacks any basis 
+in law or common sense. 
+In any event, even if the court of appeals’ “jurisdic- 
+tional” ruling had affected the power of the court under 
+statutory or constitutional law, its decision still could not 
+be squared with Northern Pipeline Construction Co. v. 
+Marathon Pipe Line Co., 458 U.S. 50 (1982). There the 
+Court held Congress's grant of jurisdiction to bankruptcy 
+courts unconstitutional. 
+Nonetheless, the Court applied 
+Chevron Oil Co. v. Huson, 404 U.S. 97 (1971). The 
+Court concluded that, because its ruling “could produce 
+substantial inequitable results,” id. at 106-07, it should 
+apply 
+its decision only prospectively; 
+the bankruptcy 
+courts—though determined 
+to lack any constitutional 
+power—were thus allowed to retain cases already pending 
+before them. 458 U.S. at 88-89 (plurality opinion); id. 
+at 91-92 (Rehnquist, J., concurring in the judgment). If 
+the bankruptcy courts could properly hear pending cases 
+over which they had no constitutional authority, the Sev- 
+enth Circuit’s conclusion that it is “powerless” to apply 
+Chevron Oil's balancing test is hardly convincing. 
+The 
+Seventh Circuit did not address Northern Pipeline in its 
+opinion.” 
+diction’ are ‘founded in concern about the proper—and properly 
+limited—role of the courts in a democratic society,’ but unlike their 
+constitutional counterparts, they can be modified or abrogated by 
+Congress.”) 
+(citations omitted); Allen v. Wright, 468 U.S. 737, 
+750-51 (1984) (same). 
+% The Seventh Circuit also suggested that Chevron Oil, 404 U.S. 
+97, had itself been “overruled” by Harper, 509 U.S. 86, and James 
+B. Beam Distilling Co. v. Georgia, 501 U.S. 529 (1991). 
+Pet. App. 
+8a. But this is simply not so. The splintered decisions in Harper 
+and Beam held only that when a court decides to apply a new rule 
+of law retroactively to the parties before it, it must also apply that 
+same rule retroactively to all cases still open on direct review; selec- 
+tively applying the new rule only to litigants at hand while retain- 
+29 
+The Seventh Circuit rested instead on one of Firestone’s 
+recent progeny, Budinich v. Becton Dickinson & Co., 486 
+U.S. 
+at 203. There the Court did apply a new rule of law 
+retroactively even though doing so meant, as here, “that 
+the losing party could never appeal.” Pet. App. 9a. Be- 
+cause the Supreme Court there applied a jurisdictional 
+ruling retroactively in the face of potentially inequitable 
+consequences, the court of appeals reasoned that “Budi- 
+nich . 
+. 
+. washes away the distinction we drew in Snyder” 
+and any suggestion that the court of appeals remains em- 
+powered to consider prospective decisionmaking in cases 
+“concern[ing] jurisdiction.” /d. 
+The Seventh Circuit's reliance on Budinich is mistaken 
+for three reasons. First, and most significantly, the Court 
+in Budinich was called upon to render a decision concern- 
+ing the court of appeals’ statutory authority under 28 
+U.S.C, § 1291." Its decision to apply its ruling 
+i 
+the courts’ statutory jurisdiction retroactively has no bear- 
+ing on the question whether the panel below was bound 
+to apply its prudential decision retroactively. 
+Second, because Budinich announced no new rule of 
+aw, it was not eligible for purely prospective application. 
+See Harper, 509 U.S. at 111 (Kennedy, J., concurring) 
+(a decision cannot be made nonretroactive unless it “over- 
+rulfes] clear past precedent on which litigants may have 
+relied” or “decid{es] an issue of first impression whose 
+resolution was not clearly foreshadowed”). Instead, as the 
+Ninth Circuit has pointed out, Budinich merely reaffirmed 
+what “should have been apparent from the Court's previ- 
+ous decisions”—namely 
+that a judgment is final and ap- 
+pealable under section 1291 after adjudication on the 
+ing the old rule for all other pending cases is not permitted. Noth- 
+ing in these decisions “overruled” a court's ability to consider under 
+eS 
+ee AOR ee a 
+ee 
+*§ 486 U.S. at 199 (“The question before us . 
+. 
+. is whether a 
+decision on the merits is a ‘final decision’ as a matter of federal 
+law under § 1291 when the recoverability or amount 
+of attorney’s 
+fees for the litigation remains to be determined.”). 
+
+30 
+merits and does not await determination of attorneys’ fees. 
+George, 119 F.3d at 1398; id. (Budinich “did not change 
+the applicable law”; it “did not conflict with or overrule 
+any previously established law; nor did it subject Budinich 
+to a rule that was different from the rule in effect at the 
+time he acted”). 
+Third, even supposing Budinich had effected a change 
+in law, the petitioner in Budinich relied on no existing 
+authority and ignored multiple warning signals from the 
+Supreme Court that her position was wrong. 
+Whatever 
+“inequitable results” under a Chevron Oil analysis might 
+conceivably flow from retroactive application against the 
+petitioner in Budinich simply cannot be compared to those 
+in this case. See George, 119 F.3d at 1398 (applying rule 
+prospectively after Chevron Oil test and distinguishing 
+Budinich because, as here, “the new rule [in Budinich] 
+did not wipe out any rights [the petitioner] had estab- 
+lished under a former version of the rule” ).™* 
+CONCLUSION 
+The petition for a writ of certiorari should be granted. 
+Respectfully submitted, 
+MARK C, HANSEN 
+Counsel of Record 
+NEIL M. GoRSUCH 
+KELLOGG, HUBER, HANSEN, 
+Topp & EVANS, P.L.L.C. 
+1301 K Street, N.W. 
+Suite 1000 West 
+Washington, D.C. 20005 
+(202) 326-7900 
+April 21, 1998 
+Counsel for Petitioners 
+*% See also id, at 1410 (Kozinski & O’Scannlain, JJ., dissenting) 
+(“A fair and sensible solution would be to give the benefit of the 
+error to anyone who actually relied on it. 
+.. 
+. This would balance 
+appellees’ interest in finality with the reliance interest of those 
+appellants who followed our misstatement in [the prior case].”). 
+
+APPENDICES 
+
+la 
+APPENDIX A 
+UNITED STATES COURT OF APPEALS 
+SEVENTH CIRCUIT 
+No. 97-2829 
+PAUL FELZEN, Trustee of Louise Laskin 
+Trust—1991, and SANDRA ESNER, 
+Plaintiffs-A ppellees, 
+Vv. 
+DwayNeE O. ANDREAS, ef al., 
+Defendants, 
+CALIFORNIA PUBLIC EMPLOYEES’ RETIREMENT SYSTEM 
+and FLORIDA STATE BOARD OF ADMINISTRATION, 
+Objectors-A ppellants. 
+Submitted Sept. 19, 1997 
+Decided Jan. 21, 1998 
+Before POSNER, Chief Judge, and FLAUM and EAS- 
+TERBROOK, Circuit Judges. 
+EASTERBROOK, Circuit Judge. 
+“The rule that only parties to a lawsuit, or those that 
+properly become parties, may appeal an adverse judgment, 
+is well settled. The Court of Appeals suggested that there 
+may be exceptions to this general rule, primarily ‘when the 
+nonparty has an interest that is affected by the trial court’s 
+judgment.’ We think the better practice is for such a non- 
+
+2a 
+party to seek intervention for purposes of appeal; denials 
+of such motions are, of course, appealable.” Marino v. 
+Ortiz, 484 U.S. 301, 304, 108 S.Ct. 586, 587-88, 98 
+L.Ed.2d 629 (1988) 
+(citations omitted). 
+With these 
+words the Supreme Court held that a person adversely af- 
+fected by the settlement of a class action may appeal from 
+the consent decree based on that settlement only if he has 
+intervened as a party. See also Fed. R.App. P. 3(c): “A 
+notice of appeal must specify the party or parties taking 
+the appeal by naming each appellant in either the caption 
+or the body of the notice of appeal.” (Emphasis added. ) 
+Following Marino we held that a class member in an ac- 
+tion under Fed. R. Civ. P. 23 who has not become a party 
+may not appeal from an order granting summary judg- 
+ment to the defendant. 
+Jn re Brand Name Prescription 
+Drugs Antitrust Litigation, 115 F.3d 456 (7th Cir.1997). 
+Today we consider another proposed exception to the rule 
+stated in Marino. 
+Courts have disagreed for several decades about whether 
+class members 
+(and shareholders, their counterparts in 
+derivative actions under Rule 23.1) must intervene as par- 
+ties in order to appeal from adverse decisions. 
+See Com- 
+ment, The Appealability of Class Action Settlements by 
+Unnamed Parties, 60 U.Chi.L.Rev. 933 (1993). 
+Until 
+Marino this circuit permitted class members and stock- 
+holders to appeal, whether or not they had intervened, pro- 
+vided they had informed the district court of their objec- 
+tions to the decision that disadvantaged them. 
+See Re- 
+search Corp. v. Asgrow Seed Co., 425 F.2d 1059 (7th 
+Cir.1970) (class action); Tryforos v. Icarian Development 
+Co., 518 F.2d 1258, 1263 n. 22 (7th Cir.1975) (share- 
+holders’ derivative suit). We held in Brand Name Pre- 
+scription Drugs that in light of Marino and In re VMS 
+Limited Partnership Securities Litigation, 976 F.2d 362 
+(7th Cir.1992), Asgrow Seed is no longer authoritative. 
+115 F.3d at 458. But two shareholders who have appealed 
+from the district court’s approval of a settlement in this 
+3a 
+derivative action ask us to apply Tryforos notwithstanding 
+intervening precedent and the language of Rule 3(c). 
+Tryforos did not analyze the question now before us— 
+whether shareholders who are not parties to a Rule 23.1 
+- 
+action nonetheless may appeal—but stated that their right 
+to so do is “clear”. 
+Footnote 22 in Tryforos cites one 
+case from the 1940s that permits such appeals, but that 
+opinion did not give reasons. 
+(7ryforos also cites one dis- 
+trict court opinion 
+from the 1960s, an odd reference 
+for a 
+rule of appellate jurisdiction.) An unexplained practice 
+does not offer shelter from a later opinion of the Supreme 
+Court holding that only parties may appeal, and withdraw- 
+ing from the appellate courts any exception-making power. 
+The two shareholder-appellants offer a number of argu- 
+ments in support of appeal without intervention that boil 
+down to a claim that erroneous decisions should be re- 
+versed, but arguments of this stripe do not justify omitting 
+the step of intervening 
+as a party. A court 
+of appeals is 
+not an ombudsman. 
+Suppose the settlement of a deriva- 
+tive action induces the corporation to fire its CEO, or to 
+curtail its purchases of fax machines, or to choose a differ- 
+ent law firm. The affected employees, vendors, and law- 
+yers could not appeal just because they believed the settle- 
+ment improvident or the judge’s action in approving it 
+legally erroneous. Only parties may appeal. So too with 
+shareholders, who have no more right to speak for the 
+firm or control its litigation decisions than bondholders or 
+banks or landlords, all of whom have contractual interests 
+that may be affected by litigation. It may be, as appellants 
+stress, that some district judges would not be receptive to 
+attempts to intervene for the purpose of appeal, but the 
+Supreme Court spoke to this in Marino when observing 
+that a denial of a motion to intervene is itself appealable. 
+According 
+to appellants, 
+Brand Name Prescription 
+Drugs did not actually jettison the approach of Asgrow 
+Seed even for class actions. 
+The question at issue in 
+Brand Name Prescription Drugs was whether class mem- 
+
+4a 
+bers (other than the named representatives) could appeal 
+from an order granting summary judgment, while Asgrow 
+Seed and today’s case involve an appeal from an order 
+approving a settlement. VMS Limited Partnership, while 
+dismissing the appeal at hand, remarked in a footnote that 
+the decision did not disturb Asgrow Seed. 976 F.2d at 
+368 n. 8. That is technically so; neither VMS Limited 
+Partnership nor Brand Name Prescription Drugs involved 
+an appeal from an order approving a settlement. But the 
+distinction is inconsequential for purposes of Rule 3(c), 
+the rationale of Marino, and the rationale of Brand Name 
+Prescription Drugs: 
+that the court should not “fragment 
+the control of the class action” (115 F.3d at 457) by 
+allowing class members to usurp the role of the class rep- 
+resentative without persuading the district judge that the 
+representative is unfit or unfaithful, or that subclasses 
+should be created. 
+See also Shults v. Champion Interna- 
+tional Corp., 35 F.3d 1056, 1060-61 
+(6th Cir.1994); 
+Gottlieb 
+v. Wiles, 11 F.3d 1004, 1010-12 (10th Cir. 
+1993). Lest doubt linger, we now formally overrule As- 
+grow Seed and any other case in this circuit (including 
+Armstrong v. Board of School Directors, 616 F.2d 305, 
+327-28 (7th Cir.1980), and Patterson v. Stovall, 528 F.2d 
+108, 109_n. 1 (7th Cir.1976)) that permits non-parties to 
+appeal from a decision of any kind in a class action. 
+Well, then, is a shareholders’ derivative action under 
+Rule 23.1 different from a class action under Rule 23 in a 
+way that permits appeal by nonparties? Not so far as Rule 
+3(c) or Marino is concerned. 
+Although there are differ- 
+ences between class actions and derivative suits, these cut 
+against the appellants’ position. 
+All class members are 
+identical in entitlement to litigate; which injured persons 
+become the representatives, and which the “mere” class 
+members, is to a degree fortuitous and to a degree depend- 
+ent on the entrepreneurial activity of the class counsel. 
+It 
+is the fact that each class member has a real grievance 
+with the defendant that sets up at least an equitable argu- 
+ment for a class member who wants to appeal. But in a 
+Sa 
+shareholders’ derivative action, the individual investor is 
+not an injured party and is not entitled to litigate. A de- 
+rivative suit is brought by an investor in the corporation's 
+(not the investor’s) right to recover for injury to the cor- 
+poration. Frank v. Hadesman & Frank, Inc., 83 F.3d 158 
+(7th Cir.1996); Kagan v. Edison Brothers Stores, Inc., 
+907 F.2d 690 (7th Cir.1990). The corporation obtains 
+the damages; the investor-plaintiffs just get the ball rolling 
+after the fashion of a qui tam action. Only when the cor- 
+poration’s board defaults in its duty to protect the inter- 
+ests of the investors is this step permitted, and even then 
+many states permit the board to regain control of the liti- 
+gation following a special investigation. 
+See Kamen v. 
+Kemper Financial Services, Inc., 500 U.S. 90, 111 S.Ct. 
+1711, 114 L.Ed.2d 152 (1991); American Law Institute, 
+Principles of Corporate Governance: 
+Analysis and Rec- 
+ommendations §§7.01, 7.03, 7.05 (1992). 
+If in the 
+course of managing or settling derivative litigation inves- 
+tors receive new injury, they do so only because the cor- 
+poration becomes worse off—but loss to the corporation 
+does not permit stockholders to sue directly. See Mid-State 
+Fertilizer Co. v. Exchange National Bank, 877 F.2d 1333 
+(7th Cir.1989). 
+Once again the corporation holds the 
+legal claim, and it acts through the board of directors. 
+Stockholders may replace the board if dissatisfied with its 
+performance, but they may not displace the board in liti- 
+gation. So it cannot be surprising that stockholders other 
+than the named plaintiffs are not treated as parties in de- 
+rivative litigation—their citizenship is ignored when de- 
+termining diversity, see Smith v. Sperling, 354 U.S. 91, 77 
+S.Ct. 1112, 1 L.Ed.2d 1205 (1957), and they are not 
+allowed to opt out. Corporate management may affect the 
+interests of stockholders without notifying them or obtain- 
+ing their consent; by investing in stock, they placed their 
+funds at the management's disposal and obtained, in ex- 
+change, the right to choose future managers. Shareholders 
+have no more the attributes of parties when managers set- 
+tle derivative litigation than when managers settle antitrust 
+
+6a 
+litigation. 
+(This particular derivative suit arose out of 
+claims that managers of Archer Daniels Midland Co. con- 
+spired with rival sellers and thus exposed the firm to crim- 
+inal and treble-damages liability for conspiracy in restraint 
+of trade.) 
+Rule 23.1 provides for notice to shareholders only in 
+the event of dismissal or settlement, so that other investors 
+may contest 
+the faithfulness 
+or honesty of the self- 
+appointed plaintiffs; we do not doubt that this monitoring 
+is often useful and that intervention to facilitate an appeal 
+could be justified. Many thoughtful students of the subject 
+conclude, with empirical support, that derivative actions 
+do little to promote sound management and often hurt the 
+firm by diverting the managers’ time from running the 
+business while diverting the firm’s resources to the plain- 
+tiffs’ lawyers without providing a corresponding benefit. 
+Janet Cooper Alexander, Do the Merits Matter? A Study 
+of Settlements in Securities Class Actions, 43 Stan. L.Rev. 
+497 (1991); Reinier Kraakman, Hyun Park & Steven 
+Shavell, When are Shareholder Suits in Shareholder Inter- 
+ests?, 82 Geo. L.J. 1733 (1994); Roberta Romano, The 
+Shareholder Suit: Litigation Without Foundation?, 7 J.L. 
+Econ. & Org. 55 (1991); Mark L. Cross, Wallace N. 
+Davidson & John H. Thornton, The Impact of Directors’ 
+and Officers’ Liability Suits on Firm Value, 56 J. Risk & 
+Insurance 128 (1989); Daniel R. Fischel & Michael Brad- 
+ley, The Role of Liability Rules and the Derivative Suit 
+in Corporate Law: A Theoretical and Empirical Analysis, 
+71 Cornell L.Rev. 261 (1986). 
+The two shareholder- 
+appellants in this case believe that the modest settlement, 
+half of which will be paid to counsel, exemplifies this prob- 
+lem. 
+Their failure to become parties prevents us from 
+considering this contention, for the possibility that a dis- 
+trict court’s judgment is erroneous does not dispense with 
+the need for an appeal by a party. 
+One court of appeals has held, despite Marino, that a 
+shareholder need not become a party in order to appeal 
+7a 
+from the final decision in derivative litigation. Bell Atlan- 
+tic Corp. v. Bolger, 2 F.3d 1304, 1307-10 (3d Cir.1993). 
+The third circuit conceived of the question as whether the 
+shareholder has standing, which is misleading. Standing 
+means injury in fact, and a reduction in the market price 
+of one’s stock is injury. 
+Parties are a subset of injured 
+persons. Equating injury with party status is exactly the 
+approach disapproved by Marino. 
+The 
+third 
+circuit 
+thought that shareholders in derivative actions should be 
+treated like class members in class actions, and it per- 
+mitted the shareholders to appeal because it permits class 
+members to appeal. 2 F.3d at 1309-10; see also Carlough 
+v. Amchem Products, Inc., 5 F.3d 707, 714 (3d Cir. 
+1993). One does not follow from the other; for reasons 
+we have discussed, shareholders have the weaker claim. 
+But in this circuit, which requires class members to inter- 
+vene if they want to appeal, similar treatment of share- 
+holders is ordained. We overrule Tryforos to the extent 
+it permits non-party shareholders to appeal in actions 
+under Rule 23.1, and we disagree with the conclusion of 
+Beli Atlantic. 
+Appellants tell us that they relied on Asgrow Seed and 
+Tryforos when deciding not to intervene as parties and 
+implicitly ask us to defer the effect of any decision to over- 
+rule their holdings. But “[a] court lacks discretion to con- 
+sider the merits of a case over which it is without jurisdic- 
+tion, and thus, by definition, a jurisdictional ruling may 
+never be made prospective only.” Firestone Tire & Rubber 
+Co. v. Risjord, 449 U.S. 368, 379, 101 S.Ct. 669, 676, 66 
+L.Ed.2d 571 (1981). 
+Notwithstanding Firestone, the ninth circuit recently 
+refused, on equitable grounds, to apply to pending cases 
+a decision overruling a jurisdictional precedent. George v. 
+Camacho, 119 F.3d 1393 (9th Cir.1997) 
+(en banc). 
+George stated that despite the sweep of its language Fire- 
+stone should be confined to situations in which the disap- 
+pointed appellant has some later opportunity to present 
+
+the claims to the court of appeals. A panel of this court 
+reached the same conclusion in Snyder v. Smith, 736 F.2d 
+409, 415 (7th Cir.1984): 
+“In [Firestone], the court of 
+appeals held that an order denying a motion to disqualify 
+counsel was not appealable prior to final judgment but, 
+because its holding was contrary to precedent, it deter- 
+mined the merits of the order. The Supreme Court held 
+that when an appellate court finds an order interlocutory 
+and nonappealable, the court must dismiss the appeal. The 
+Court did not address the issue of whether an appellate 
+court must dismiss the appeal where a party who relies on 
+a jurisdictional ruling is, under a subsequent decision, 
+foreclosed from ever raising his issues in the appellate 
+court. Thus, Firestone does not require this couit to dis- 
+miss the appeal.” When deciding whether to dismiss an 
+appeal in light of new precedent, we concluded in Snyder, 
+a court of appeals should look not to Firestone but to 
+Chevron Oil Co. v. Huson, 404 U.S. 97, 92 S.Ct. 349, 
+30 L.Ed.2d 296 (1971), which gives a dominant role to 
+equitable interests such as reliance on precedent. 
+Cases decided by the Supreme Court since Snyder re- 
+quire us to proceed differently. Chevron has been over- 
+ruled. 
+Harper v. Virginia Department of Taxation, 509 
+U.S. 86, 113 S.Ct. 2510, 125 L.Ed.2d 74 (1993); James 
+B. Beam Distilling Co. v. Georgia, 501 U.S. 529, 111 
+S.Ct. 2439, 115 L.Ed.2d 481 (1991). The second court 
+no longer considers whether application of the new rule 
+would be inequitable or undermine reliance interests. 
+In- 
+stead, when a court “applies a rule of federal law to the 
+parties before it, that rule is the controlling interpretation 
+of federal law and must be given full retroactive effect in 
+all cases still open on direct review and as to all events, 
+regardless of whether such events predate or postdate 
+[the] announcement of the rule.” Harper, 509 U.S. at 97, 
+113 S.Ct. at 2517. 
+This language holds out the option 
+of announcing a rule with wholly prospective force, inap- 
+plicable to the parties in the case that announces the rule. 
+But a second line of cases, including Firestone, withholds 
+9a 
+the option of complete prospectivity when the rule con- 
+cerns jurisdiction. Seven years after Firestone (and four 
+years after Snyder) a litigant asked the Supreme Court 
+to make a ruling prospective in order to prevent a “sig- 
+nificant change in the law” from knocking out appellate 
+jurisdiction. 
+The Court declined. 
+Budinich 
+v. Becton 
+Dickinson & Co., 486 U.S. 196, 203, 108 S.Ct. 1717, 
+1722, 100 L.Ed.2d 178 (1988) (citing and quoting from 
+Firestone). 
+Budinich, like Snyder, George, and the case 
+now at hand, involved an appeal from a final judgment; 
+the holding in Budinich meant that the losing party could 
+never appeal, a conclusion that washes away the distinc- 
+tion we drew in Snyder. Later the same Term, the Court 
+reiterated the point in language equally pertinent today: 
+Our agreement with the [court of appeals’) conclu- 
+sion that it lacked jurisdiction, compels us to disap- 
+prove of its decision to reach the merits anyway “in 
+the interest of justice.” 822 F.2d at 1559. “Courts 
+created by statute can have no jurisdiction but such 
+as the statute confers.” Sheldon v. Sill, 49 U.S. (8 
+How.) 441, 449, 12 L.Ed. 1147 (1850). See also 
+Firestone Tire & Rubber Co. v. Risjord, 449 U.S. 
+368, 379-380, 101 S.Ct. 669, 676, 66 L.Ed.2d 571 
+(1981). ... The age-old rule that a court may not 
+in any case, even in the interest of justice, extend its 
+jurisdiction where none exists has always worked in- 
+justice in particular cases. 
+Parties often spend years 
+litigating claims only to learn that their efforts and 
+expense were wasted in a court that lacked juris- 
+diction. 
+. 
+.. Such situations inhere in the very nature 
+of jurisdictional lines, for as our cases aptly illustrate, 
+few jurisdictional lines can be so finely drawn as to 
+leave no room for disagreement on close cases. 
+See, 
+e.g., K Mart Corp. v. Cartier, Inc., 485 U.S. 176, 
+108 S.Ct. 950, 99 L.Ed.2d 151 (1988); United 
+States v. Hohri, 482 U.S. 64, 107 S.Ct. 2246, 96 
+L.Ed.2d 51 (1987). 
+
+10a 
+Christianson 
+v. Colt Industries Operating Corp., 486 
+U.S. 800, 818, 108 S.Ct. 2166, 2178, 100 L.Ed.2d 811 
+(1988). The proposition that “a court may not in any 
+case, even in the interest of justice, extend its jurisdic- 
+tion where none exists” requires us to overrule Snyder and 
+disagree with George. 
+Jurisdiction means adjudicatory 
+power. Equitable considerations are altogether irrelevant 
+when a court lacks adjudicatory power. 
+Cf. Landgraf v. 
+USI Film Products, 511 U.S. 244, 274, 114 S.Ct. 1483, 
+1501-02, 128 L.Ed.2d 229 (1994) 
+(pointing out that 
+statutes repealing grants of jurisdiction apply to pending 
+cases, notwithstanding reliance interests); Yang v. INS, 
+109 F.3d 1185 (7th Cir.1997). 
+If the shareholders had 
+appealed to the House of Lords, that tribunal would have 
+dismissed the appeal out of hand. 
+An appeal by non- 
+parties is no different in effect. 
+Because this opinion overrules some of our decisions 
+and creates a conflict among the circuits, it was circulated 
+before release to all judges in active service. See Circuit 
+Rule 40(e). No judge favored hearing the case en banc. 
+The appeal is dismissed for want of jurisdiction. 
+lla 
+APPENDIX B 
+[Filed July 7, 1997] 
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT OF ILLINOIS 
+No. 95-2279 
+PAUL FELZEN, TRUSTEE OF Louise LASKIN TRrusT—1991 
+AND SANDRA ESNER, 
+we. 
+Plaintiff, 
+DwayNE O. ANDREAS, RALPH BRUCE, JOHN H. DANIELS, 
+Howarp G. BuFFETT, LOwELL W. ANDREAS, JAMES 
+R. RANDALL, MicHaget D. ANnpreas, H.D. HALE, O. 
+GLENN WEBB, MARTIN ANDREAS, MARGARETTA ROCKE- 
+FELLER, F. Ross JOHNSON, Ray A. GOLDBERG, JOHN 
+K. VANIER, SHREVE M. ARCHER, Jr., M. BRIAN MUL- 
+RONEY. AND ROBERT S. STRAUSS, 
+Defendant. 
+and 
+ARCHER DANIELS MIDLAND COMPANY, 
+a Delaware corporation, 
+Nominal Defendant. 
+FINAL JUDGMENT AND ORDER OF DISMISSAL 
+This matter having come before the court for hearing, 
+pursuant to the order of this court, dated May 30, 1997, 
+on the application of the parties for approval of the settle- 
+ment set forth in the stipulation of settlement, dated as of 
+May 29, 1997 (the “stipulation”) and due and adequate 
+notice having been given to the shareholders of Archer 
+- 
+
+12a 
+Daniels Midland Company, and the court having consid- 
+ered all papers filed and proceedings had herein and other- 
+wise being fully informed in the premises and good cause 
+appearing therefore, IT IS HEREBY ORDERED, AD- 
+JUDGED AND DECREED that: 
+1. This court has jurisdiction over the subject matter 
+of this action and over all parties to this action. 
+2. The definitions of terms in the stipulation are incor- 
+porated herein as though fully set forth in this judgment. 
+3. The notice given to the shareholders of Archer Dan- 
+iels Midland Company, including the individual notice to 
+current shareholders who could be identified through rea- 
+sonable effort, of the settlement and other matters set forth 
+in the stipulation was the best notice practicable under the 
+circumstances. The notice provided due and adequate no- 
+tice of the proceedings and of the matters set forth therein, 
+including the proposed settlement, to all persons entitled 
+to notice, and the notice fully satisfied the requirements of 
+Rule 23.1 of the Federal Rules of Civil Procedure and the 
+requirements of due process. 
+4. Pursuant to Rule 23.1 of the Federal Rules of Civil 
+Procedure, this court hereby approves the settlement set 
+forth in the stipulation and finds that the settlement is, in 
+all respects, fair, reasonable and adequate to Archer Dan- 
+iels Midland company (“ADM”) and its shareholders. 
+5. The court hereby dismisses this action against the 
+company (as defined in the stipulation) and the individual 
+defendants (as defined in the stipulation) with prejudice 
+and without costs (except as otherwise provided in the 
+Stipulation). 
+6. The court hereby dismisses without prejudice 
+all 
+claims in this action directed against Michael D. Andreas 
+(as defined in the stipulation), which claims shall become 
+the sole property of the company. 
+7. Upon the effective date, each and every settled claim 
+is and shall be deemed to be conclusively released. 
+“Set- 
+13a 
+tled claims” shall mean any and all causes of action, suits, 
+demands, claims, matters and issues, whether known or 
+unknown, which have been, could have been, or in the 
+future might be asserted, advanced or alleged in this ac- 
+tion or in the action pending in the Delaware Court of 
+Chancery captioned Jn re Archer Daniels Midland Com- 
+pany Derivative Litigation, Consolidated No. 14403 (the 
+Delaware Action) or in any court or arbitration proceed- 
+ing (including, without limitation, any claims, actions or 
+demands arising under any federal or state law relating to 
+alleged fraud, breach of any duty, negligence, recklessness, 
+violations of federal or state securities laws, violations of 
+federal or state antitrust laws or otherwise) by or on be- 
+half of the company (as defined in the stipulation), by any 
+shareholder of said company derivatively on its behalf, or 
+by any named plaintiff in this action or the Delaware 
+Action (as defined in the stipulation) on their own behalf 
+or on behalf of any record or beneficial holder of the stock 
+of the company (as defined in the stipulation), whether 
+individual, class, derivative, representative, legal, equitable, 
+or any other type in any other capacity, which claims have 
+arisen, could have arisen, arise now or hereafter arise out 
+of, or relate in any manner to the allegations, transactions, 
+matters or occurrences, representations, acts or omissions, 
+or any series thereof, involved, set forth, referred to, or 
+related to any of the pleadings in this action or the Dela- 
+ware action (as defined in the stipulation) against the com- 
+pany (as defined in the stipulation) and/or any of the in- 
+dividual defendants (as defined in the stipulation), pro- 
+vided, however, that settled claims shall not include any 
+claims which the company may have against Andreas (as 
+defined in the stipulation) or Wilson (as defined in the 
+stipulation), which claims shall be reserved to the com- 
+pany in the sole discretion of the company’s board of di- 
+rectors. 
+8. Upon the effective date, the company (as defined in 
+the stipulation) and each of the director defendants (as 
+
+l4a 
+defined in the stipulation) shall be deemed to have, and 
+by operation of this judgment shall have, fully, finally, and 
+forever released, relinquished and discharged the plaintiffs 
+and counsel to the plaintiffs, each only in his or her ca- 
+pacity as such, from all claims arising out of, relating to, 
+or in connection with the institution, prosecution, assertion 
+or resolution of this action or the settled claims. 
+9. Upon the effective date, ADM shall be deemed to 
+have, and by operation of this judgment shall have, fully, 
+finally and forever discharged 
+all settled claims. 
+Any 
+claims which ADM has against the excluded persons, or 
+which ADM may have against Andreas or Wilson are ex- 
+pressly reserved to the company in the sole discretion of 
+the company’s board of directors. 
+10. Upon the effective date, ADM shall be deemed to 
+have, and by operation of this judgment shall have, fully, 
+finally, and forever discharged any elaims which it may 
+have against the individual defendants for reimbursement 
+of any costs or fees advanced for them (or on their be- 
+half) for defense of the settled claims. 
+11. Without affecting the finality of this judgment in 
+any way, this court retains continuing jurisdiction over 
+(a) implementation of this settlement; (b) the claims 
+against the defendants in this action until the effective date 
+(as defined in the stipulation) and until each and every 
+act agreed to be performed by the parties to the stipulation 
+shall have been performed pursuant to the stipulation; (c) 
+all parties to this action for the purpose of enforcing and 
+administering the stipulation and the releases contained 
+therein; and (d) any other matter related or ancillary 
+thereto. 
+12. In the event that the settlement does not become 
+effective in accordance with the terms of the stipulation, 
+then this judgment shall be rendered null and void and 
+shall be vacated and, in such event, subject to Section F, 
+15a 
+paragraph 2 of the stipulation, all orders entered and re- 
+— delivered in connection therewith shall be null and 
+void. 
+ENTER this 7th day of July, 1997. 
+/s/ Harold A. Baker 
+HAROLD A. BAKER 
+United States District J udge 
+
+16a 
+APPENDIX C 
+[Filed July 7, 1997] 
+UNITED STATES DISTRICT COURT 
+CENTRAL DISTRICT OF ILLINOIS 
+No. 95-2279 
+PAUL FELZEN, TRUSTEE OF 
+Louis LAskKIn Trust 1991, et al., 
+Plaintiff, 
+vs. 
+DWAYNE O. ANDREAS, ef al., 
+Defendants. 
+ORDER AWARDING ATTORNEYS’ FEES 
+AND REIMBURSEMENT OF EXPENSES 
+This matter coming to be heard before the United States 
+District Court for the Central District of Illinois 
+(the 
+“district court”), on the 7th day of July, 1997, and the 
+court having considered all papers filed herein and the 
+proceedings conducted herein, having found the settlement 
+of the present litigation to be fair, reasonable and ade- 
+quate, and otherwise being fully informed in the premises 
+hereof, it is hereby ordered, adjudged and decreed 
+as 
+follows: 
+1. The court finds that it has jurisdiction over the sub- 
+ject matter hereof, all parties hereto, and all matters relat- 
+ing to the present litigation. 
+2. All of the capitalized terms used herein shall have 
+the same meaning as set forth in the stipulation of settle- 
+ment dated May 29, 1997, (the “stipulation”), which was 
+17a 
+filed herein on May 30, 1997, as part of an agreed motion 
+for preliminary approval of the settlement (Dkt. #60). 
+3. The fees, expenses, and interest thereon, as awarded 
+herein, shall be paid as directed herein from the settlement 
+proceeds, and subject to the terms, conditions, and obliga- 
+tions of the stipulation, and in particular paragraph V.C. 
+of said stipulation. 
+4. Considering: 
+the results accomplished; the contri- 
+bution of the various plaintiff attorneys; the complexity of 
+the actions; the fee arrangements in similar litigation; a 
+lodestar analysis; and the cap on fees and expenses nego- 
+tiated between the parties plaintiff and defendant; the 
+court hereby awards gross fees and expenses to the plain- 
+tiffs’ attorneys in the amount of 49 percent of the settle- 
+ment proceeds ($3,920,000.00).* These fees and expenses 
+shall be divided 60 percent to the federal 
+action 
+or 
+$2,352,000, and 40 percent or $1,568,000 to the Dela- 
+ware actions. These awards shall include pro-rata interest 
+earned thereon, which interest shall continue to accrue 
+until said award from the Settlement Proceeds is paid to 
+the attorneys representing the various plaintiffs in the fed- 
+eral and Delaware actions. 
+ENTER this 7th day of July, 1997. 
+/s/ Harold A. Baker 
+HAROLD A. BAKER 
+United States District 
+Judge 
+1 Cf. Florin v. Nationsbank of Georgia, 34 F.3d 560, passim (7th 
+Cir. 1994); In Re Matter of Continental Illinois Securities Litiga- 
+tion, 962 F.2d 566, passim (7th Cir. 1992). 
+(setting fees from a 
+common fund). 
+
+18a 
+APPENDIX D 
+Federal Rule of Civil Procedure 23.1. Derivative Actions 
+by Shareholders 
+In a derivative action brought by one or more share- 
+holders or members to enforce a right of a corporation or 
+of an unincorporated association, the corporation or asso- 
+ciation having failed to enforce a right which may prop- 
+erly be asserted by it, the complaint shall be verified and 
+shall allege (1) that the plaintiff was a shareholder or 
+member at the time of the transaction of which the plain- 
+tiff complains or that the plaintiff's share or membership 
+thereafter devolved on the plaintiff by operation of law, 
+and (2) that the action is not a collusive one to confer 
+jurisdiction on a court of the United States which it would 
+not ctnerwise have. The complaint shall also allege with 
+particularity the efforts, if amy, made by the plaintiff to 
+obtain the action the plaintiff desires from the directors or 
+comparable authority and, if necessary, from the share- 
+holders or members, and the reasons for the plaintiff's 
+failure to obtain the action or for not making the effort. 
+The derivative action may not be maintained if it appears 
+that the plaintiff does not fairly and adequately represent 
+the interests of the shareholders or members similarly sit- 
+uated in enforcing the right of the corporation or associa- 
+tion. The action shall not be dismissed or compromised 
+without the approval of the court, and notice of the pro- 
+posed dismissal or compromise shall be given to share- 
+holders or members in such manner as the court directs. 
+19a 
+APPENDIX E 
+Federal Rule 
+of Appellate Procedure 3. Appeal 
+as of 
+Right—How Taken 
+(a) Filing the Notice of Appeal. An appeal permitted 
+by law as of right from a district court to a court of ap- 
+peals must be taken by filing a notice of appeal with the 
+clerk of the district court within the time allowed by 
+Rule 4. At the time of filing, the appellant must furnish 
+the clerk with sufficient copies of the notice of appeal to 
+enable the clerk to comply promptly with the requirements 
+of subdivision (d) of this Rule 3. Failure of an appellant 
+to take any step other than the timely filing of a notice 
+of appeal does not affect the validity of the appeal, but is 
+ground only for such action as the court of appeals deems 
+appropriate, which may include dismissal of the appeal. 
+Appeals by permission under 28 U.S.C. § 1292(b) and 
+appeals in bankruptcy must be taken in the manner pre- 
+scribed by Rule 5 and Rule 6 respectively. 
+(b) Joint or Consolidated Appeals. 
+If two or more 
+persons are entitled to appeal from a judgment or order 
+of a district court and their interests are such as to make 
+joinder practicable, they may file a joint notice of appeal, 
+Or may join in appeal after filing separate timely notices 
+of appeal, and they may thereafter proceed on appeal as a 
+single appellant. Appeals may be consolidated by order 
+of the court of appeals upon its own motion or upon mo- 
+tion of a party, or by stipulation of the parties to the 
+several appeals. 
+(c) Content of the Notice of Appeal.—aA notice of ap- 
+peal must specify the party or parties taking the appeal by 
+naming each appellant in either the caption or the body 
+of the notice of appeal. An attorney representing more 
+than one party may fulfill this requirement by describing 
+those parties with such terms as “all plaintiffs,” “the de- 
+fendants,” “the plaintiffs A, B, et al.,” or “all defendants 
+except X.” A notice of appeal filed pro se is filed on 
+
+Sus eeibee aiaher 06 
+can tea dears tata 
+it is sufficient for the notice to name one person qualified 
+to bring the appeal as representative of the class. A no- 
+tice of appeal also must designate the judgment, order, or 
+part thereof appealed from, and must name the court to 
+which the appeal is taken. An appeal will not be dis- 
+missed for informality of form or title of the notice of 
+appeal, or for failure to name a party whose intent to 
+appeal is otherwise clear from the notice. Form 1 in the 
+Appendix of Forms is a suggested form for a notice of 
+appeal. 
+(d) Serving the Notice of Appeal.—The clerk of the 
+district court shall serve notice of the filing of a notice of 
+appeal by mailing a copy to each party’s counsel of record 
+(apart from the appellant’s), or, if a party is not repre- 
+sented by counsel, to the party’s last known address. The 
+clerk of the district court shall forthwith send a copy of 
+the notice and of the docket entries to the clerk of the 
+court of appeals named in the notice. The clerk of the 
+district court shall likewise send a copy of any later doc- 
+ket entry in the case to the clerk of the court of appeals. 
+When a defendant appeals in a criminal case, the clerk of 
+the district court shall also serve a copy of the notice of 
+appeal upon the defendant, either by personal service or 
+by mail addressed to the defendant. The clerk shall note 
+on each copy served the date when the notice of appeal 
+was filed and, if the notice of appeal was filed in the man- 
+ner provided in Rule 4(c) by an inmate confined in an 
+institution, the date when the clerk received the notice of 
+appeal. The clerk’s failure to serve notice does not affect 
+the validity of the appeal. Service is sufficient notwith- 
+standing the death of a party or the party’s counsel. The 
+clerk shall note in the docket the names of the parties to 
+whom the clerk mails copies, with the date of mailing. 
+21a 
+(e) Payment of Fees,—Upon the filing of any separate 
+or joint notice of appeal from the district court, the appel- 
+lant shall pay to the clerk of the district court such fees 
+as are established by statute, and also the docket fee pre- 
+scribed by the Judicial Conference of the United States, 
+the latter to be received by the clerk of the district court 
+on behalf of the court of appeals. 
+
+22a 
+APPENDIX F 
+28 U.S.C. § 1291. 
+Final decisions of district courts 
+The courts 
+of appeals (other than the United States 
+Court of Appeals for the Federal Circuit) shall have ju- 
+risdiction of appeals from all final decisions of the district 
+courts of the United States, the United States District 
+Court for the District of the Canal Zone, the District 
+Court of Guam, and the District Court of the Virgin Is- 
+lands, except where a direct review may be had in the 
+Supreme Court. 
+The jurisdiction of the United States 
+Court of Appeals for the Federal Circuit shall be limited 
+to the jurisdiction described 
+in sections 1292(c) and (d) 
+and 1295 of this title. 

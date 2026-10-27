@@ -1,0 +1,2724 @@
+                                                Court, US.
+
+                  (‘) ~ FILED 98 65GC7 I 2119%
+
+Supreme                                                  OFFICE OF THE CLERK
+
+                           In the
+
+                  Court of the United States
+
+                       Ocroser Term, 1998
+
+STATE STREET      BANK AND TRUST COMPANY,
+    SIGNATURE       PETITIONER,
+                          v.
+
+                  FINANCIAL GROUP, INC.,
+                   RESPONDENT.
+
+ON A PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+
+            FOR THE FEDERAL CIRCUIT
+
+PETITION FOR A WRIT OF CERTIORARI
+
+October 21, 1998  W1LuiaM L. Patron
+                     Counsel of Record
+
+                  James L. SIcEL
+                  James S. DeGraw
+                  Mark D. MEREDITH
+
+                     Ropes & Gray
+                     One International Place
+                     Boston, MA 02110
+                     (617) 951-7000
+
+                                       and
+                  Maurice E. GAUTHIER
+                  WituraM E. HILTon
+
+                     SAMUELS, GAUTHIER & STEVENS
+                     225 Franklin Street
+                     Boston, MA 02110
+                     (617) 426-9180
+
+                     Counsel for Petitioner
+
+Blanchard Press, Inc., Boston, Mass — Law Printers (617) 426-6600
+————  A  Or lll  AlaI  A  AIO I  a  ee
+                                       i
+
+                             Question Presented
+
+   Whether the computer application of a mathematical
+algorithm to produce a useful result, without more, is suffi-
+cient to satisfy the patentable subject matter requirements of
+35 U.S.C. § 101.
+ee
+
+                                        .
+
+                                Rule 29.6 Listing
+
+                 Pursuant to Rule 29.6 of the Rules of the Supreme Court
+              of the United States, State Street Bank and Trust Company
+              states that it has one parent, State Street Corporation, and
+              that, as to nonwholly owned subsidiaries, State Street has a
+              sixty percent interest in Advanced Investment Technology,
+              Inc., and through a wholly owned subsidiary, it has a seventy-
+              five percent interest in King Street Advisors, Ltd., a fifty per-
+              cent interest in European Financial Data Services, Ltd., and
+              a fifty percent interest in State Street Mansion House Invest-
+              ment Management Services, Ltd.
+          iii
+
+          TABLE OF CONTENTS
+
+                                   Page
+
+Cummtiees Peteettes 6 iF es eee’.        i
+
+BROS      Ses rani ee oe ae er     ii
+
+a         CRT RS RR tePee eee iv
+
+EE        ea) Ye ee ee             l
+
+PII UT G0 8a 6 65 3 eas ows oc POCVE So tiebaton 2
+
+Constitutional and Statutory Provisions Involved ..... 2
+
+I         EN Ss, sc a wok sade steeds co's dewes 2
+
+Reasons for Granting the Writ..................... 5
+
+ee        ere leds so dlc do build b Ubisee ova d's 1]
+
+Appendix
+
+Federal Circuit Opinion ...................-+.-. A-1
+
+Memorandum and Order of District Court........ A-18
+
+ee                           a weak waded A-45
+                              iv
+
+                TABLE OF AUTHORITIES
+
+Cases
+
+                                                        Page
+
+In re Alappat,
+
+33 F.3d 1526 (Fed. Cir. 1994) ............... 3, 5
+
+Diamond v. Chakrabarty,
+
+og                        erree ree 5-6, 8, 10
+
+Diamond v. Diehr,
+
+Poe                |                  5-6, 8, 9-10
+
+Gottschalk v. Benson,
+
+       gg       Ge. re                5-6, 7, 8-9, 10
+
+Graham v. John Deere Co.,
+
+Se              ID 5 nn vss bc wkc wa whcrcesssae 10-11
+
+Hughes Aircraft Co. v. U.S.,
+
+       148 F.3d 1384 (Fed. Cir. 1998)................ 7
+
+In re Johnson,
+
+580 F.9d 1070 (C.C.P.A. 1970) ................ 7
+
+Parker v. Flook,
+
+oe              SOE re                5-6, 8, 9, 10, 11
+
+In re Richman,
+
+— ff & FF otek ©: aeerrrrrerr S )
+
+In re Walter,
+
+618 F.28 768 (C.C.P.A. WBO) ... 2. ec cc ccsees 7
+
+Statutes and Regulations
+
+ea                        aks, ns ga Wa ow dad, eee we  4
+
+Te i WED co ob ccs cs kad Covdedeueekenean 2
+
+NE                 n visa vaas«sWeuers 2-3, 5, 6-7, 8-10
+
+I                 oes 5 ok 2 thw oA ee RRR              7
+
+ee I               Co its aga rye at cavek see iene 7
+61 Fed. Reg. 7478 (Feb. 28, 1996) ................. 5
+Miscellaneous
+                                                                                Page
+
+Teresa Riordan, Patents; An appeals court says a math-
+   ematical formula can be patented, if it is a money-
+   maker, New York Times, August 3, 1998, at D2, Col. 4 6
+
+Scott Thurm, Online: A Flood of Web Patents Stirs Dis-
+   pute Over Tactics, Wall Street Journal, October 9,
+
+   ccaniop Moi Bice. te... EREREEE OEEOD EET Oe Oe
+Robert C. Scheinfeld & Parker H. Bagley, State Street:
+
+   Virtually Anything is Patentable, New York Law
+  Journal, September 23, 1998, at 3 ...............
+                   In the
+Supreme Court of the United States
+
+                            Ocroser Term, 1998
+
+           No. -
+
+STATE STREET BANK AND TRUST COMPANY,
+                          PETITIONER,
+
+SIGNATURE               v.   INC.,
+
+           FINANCIAL GROUP,
+            RESPONDENT.
+
+ON A PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+
+            FOR THE FEDERAL CIRCUIT
+
+PETITION FOR A WRIT OF CERTIORARI
+
+   The petitioner State Street Bank and Trust Company (“State
+Street”) respectfully prays that a writ of certiorari issue to review
+the judgment and opinion of the United States Court of Appeals
+for the Federal Circuit, entered on July 23, 1998.
+
+                      Opinions Below
+
+   The opinion of the United States Court of Appeals for the
+Federai Circuit is reported at 149 F.3d 1368, 47 U.S.P.Q.2d
+1596 (Fed. Cir. 1998), and is reprinted in the Appendix hereto,
+p. A-l, infra.
+
+   The Memorandum and Order of United States District Court
+for the District of Massachusetts (Saris, D.J.) is reported at 927
+F. Supp. 502, 38 U.S.P.Q.2d 1530 (D. Mass. 1996) and is
+reprinted in the Appendix hereto, p. A-18, infra.
+                                       2
+
+                                Jurisdiction
+
+   The judgment for the United States Court of Appeals for
+the Federal Circuit was entered on July 23, 1998. The
+Supreme Court has jurisdiction pursuant to 28 U.S.C.
+§ 1254(1).
+
+       Constitutional and Statutory Provisions Involved
+
+   Article I, Section 8, clause 8, of the Constitution of the
+United States provides:
+
+      The Congress shall have Power ...
+
+         To promote the Progress of Science and useful
+      Arts, by securing for limited Times to Authors and
+      Inventors the exclusive Right to their respective
+      Writings and Discoveries... .
+
+      35 U.S.C. § 101 provides:
+
+         Whoever invents or discovers any new and useful
+      process, machine, manufacture, or composition of
+      matter, or any new and useful improvement
+      thereof, may obtain a patent therefor, subject to the
+      conditions and requirements of this title.
+
+                           Statement of the Case
+
+   This case arises out of a declaratory judgment action
+brought by petitioner in the United States District Court for
+the District of Massachusetts seeking to invalidate a patent for
+a computerized accounting system capable of managing
+mutual fund investment structures. Faced with a claimed
+invention that involves nothing more than the inputting, cal-
+culating, outputting and storing of numbers for a partnership
+accounting system, the District Court properly declared
+                                        3
+
+ United States Patent No. 5,193,056 (the “’056 patent”) invalid
+ under 35 U.S.C. § 101 for lack of patentable subject matter
+ and granted State Street summary judgment. In doing so, the
+District Court carefully examined the claims and specification
+of the patent in light of the pertinent law.
+
+    In its review of this case, the Federal Circuit pronounced
+a new and sweepingly broad rule of sufficiency for subject
+matter patentability of algorithms: That Court required only
+that “to be patentable [subject matter] an algorithm must be
+applied in a ‘useful’ way.” 149 F.3d at 1373, 47 U.S.P.Q.2d
+at 1601 (emphasis added). Accordingly, since any algorithm
+with even the most minimal commercial significance Passes
+muster under this utility test, the Federal Circuit reversed and
+remanded this case to the District Court, holding that the
+computerized calculation of data “. . . into a final share price,
+constitutes a practical application of a mathematical
+
+algorithm, formula, or calculation, because it produces ‘a
+
+useful, concrete and tangible result... .’” 149 F.3d at 1373,
+47 U.S.P.Q.2d at 1601 (quoting In re Alappat, 33 F.3d 1526,
+1544 (Fed. Cir. 1994) (en banc)).
+
+   The subject matter of this case is not complex. The inven-
+tion claimed is a data processing system based on a software
+accounting program. The particular invention claimed in the
+056 patent is related to a multi-tiered or, in Signature Finan-
+cial Group, Inc.’s (“Signature”) words, “Hub and Spoke”
+financial services configuration.
+
+      In essence, a Hub and Spoke arrangement is an
+      investment structure whereby mutual funds
+      (“Spokes”) pool their assets in an investment port-
+      folio (“Hub”) organized as a partnership. “This
+      financial services configuration involves an entity
+      that is treated as a partnership for federal income
+      tax purposes and that holds the investment portfolio
+      ... and funds that invest as partners in the partner-
+     ship portfolio.” 056 Patent, col. 1.
+                                       4
+
+927 F. Supp. at 504, 38 U.S.P.Q.2d at 1532-33 (emphasis
+added).' The claimed invention of the ’056 patent is not the
+Hub and Spoke concept per se, that is, it is not the concept
+of having mutual funds pool assets like a partnership. Rather,
+it pertains to a data processing system for this type of invest-
+ment structure that
+
+      calculates and stores data representing: the percen-
+      tage share that each Spoke fund holds in the Hub
+      portfolio; any daily activity affecting the portfolio’s
+      assets; allocations of gains, losses and expenses to
+      each of the Spoke member funds; and tracking and
+      updating data that are used to determine aggregate
+      year-end income, gains, losses, and expenses for
+      accounting and tax purposes.
+
+927 F. Supp. at 505, 38 U.S.P.Q.2d at 1533.
+   The only specific structure described in the ’056 patent’s
+
+specification corresponding to any of the claim’s means is a
+personal computer programmed with software that is capable
+of storing data on a floppy disk. 927 F. Supp. at 505-06, 38
+U.S.P.Q.2d at 1533 (citing 056 patent, col. 6). Any computer
+will do.
+
+   The District Court’s analysis led to an inevitable conclusion:
+The ’056 patent fails to claim any patentable subject matter.
+The reason why was and is plain: “Quite simply, [the 056
+patent] involves no further physical transformation or reduc-
+tion *han inputting numbers, calculating numbers, outputting
+numbers, and storing numbers.” 927 F. Supp. at 515, 38
+U.S.P.Q.2d at 1541. Following appropriate precedent and
+principles, the District Court correctly concluded that regard-
+less of the presence or absence of computers, manipulating
+and recording numbers is insufficient to make the subject
+matter patentable.
+
+   ' The italicized language highlights the fact that in this mutual fund con-
+text the patent’s claims are so broad that any computerized system that is
+designed to carry out the accounting functions called for by the applicable
+Internal Revenue Service Regulations (generally, 26 CFR 1.704-1) would
+infringe the patent.
+                                        5
+
+    In its Memorandum and Order, the District Court analyzed
+ the ’056 patent under various perspectives the law provides
+ for considering whether claimed inventions like Signature’s
+ are directed to patentable subject matter. This included a
+ review of 1) this Court’s decisions in Gottschalk v. Benson,
+ 409 U.S. 63 (1972); Parker v. Flook, 437 U.S. 584 (1978); and
+ Diamond v. Diehr, 450 U.S. 175 (1981); 2) applicable Federal
+ Circuit precedent; 3) the PTO Examination Guidelines for
+
+ Computer-Related Inventions, 61 Fed. Reg. 7478 (Feb. 28,
+
+ 1996) (“Guidelines”); and 4) the business methods exceptions
+to § 101. See 927 F. Supp. at 508-16, 38 U.S.P.Q.2d at
+ 1535-42.
+
+   Under each perspective, the District Court reached the
+same conclusion: 43 a whole, the ’056 patent claims nothing
+directed to patentable subject matter. Rather, “like other
+accounting methods, it is designed to manipulate and record
+
+numbers,” and thus is nothing more than an unpatentable
+
+abstract idea. 927 F. Supp. at 514, 38 U.S.P.Q.2d at 1541.
+   In writing for the Federal Circuit, Judge Rich rejected the
+
+District Court’s rationale and found that “[t]he question of
+
+whether a claim encompasses statutory subject matter should
+ ... focus ... on the essential characteristics of the subject
+
+matter, in particular, its practical utility.” 149 F.3d at 1375,
+
+47 U.S.P.Q.2d at 1602. That is, the touchstone of patentable
+subject matter under § 101 is now, according to the Federal
+
+Circuit, whether, without more, the claimed invention
+
+“produces a ‘useful, concrete and tangible result.’” Id.
+(quoting Alappat, 33 F.3d at 1544).
+
+   Subsequent to the issuance of its opinion in this case, the
+Federal Circuit granted State Street’s motion for a stay of
+mandate pending the filing of this Petition for Certiorari.
+
+App. A-45.
+
+                   Reasons for Granting the Writ
+
+   The decision of the Federal Circuit directly conflicts with
+the principles of this Court’s holdings in Gottschalk v. Benson,
+409 U.S. 63 (1972), Parker v. Flook, 437 U.S. 584 (1978),
+                                       6
+
+Diamond v. Diehr, 450 U.S. 175 (1981), and Diamond v.
+Chakrabarty, 447 U.S. 303 (1980). Indeed, the opinion of the
+Federal Circuit has effectively overruled binding decisions of
+this Court and adopted an interpretation of Section 101 of the
+Patent Act that is contrary to the understanding that has
+prevailed since the origin of the statute.
+
+   The question presented is of significant national impor-
+tance. Since every computerized numerical manipulation that
+has any possibility of commercial significance produces a
+“useful, concrete and tangible result,” the practical conse-
+quences of the Federal Circuit’s decision are of an
+unprecedentedly broad scope. The patentability of mathemat-
+ical formulae or algorithms has fundamental implications for
+all aspects of economic life. These implications extend to
+manufacturers and consumers, to companies as well as
+individuals. The decision of the Federal Circuit has created
+confusion and imposed costs in areas that heretofore have
+flourished without the burdens of the patent system.?
+
+       1. Section 101 of Title 35 reads:
+
+         Whoever invents or discovers any new and useful
+       process, machine, manufacture, or composition of
+       matter, or any new and useful improvement
+      thereof, may obtain a patent therefor, subject to the
+      conditions and requirements of this title.
+
+   * The ramifications of the Federal Circuit's decision for the business com-
+munity have been the subject of considerable commentary. See, e.g., Teresa
+Riordan, Patents; An appeals court says a mathematical formula can be
+patented, if it is a moneymaker, New York Times, August 3, 1998, at D2,
+Col. 4 (citing “the very broad, very sweeping” nature of the decision); Scott
+Thurm, Online: A Flood of Web Patents Stirs Dispute Over Tactics, Wall
+Street Journal, October 9, 1998, at Bl, Col. 3 (describing the decision as
+making it easier to obtain patent protection on World Wide Web business
+methods and referencing fears of the consequences). See also Robert C.
+Scheinfeld & Parker H. Bagley, State Street: Virtually Anything is Patent-
+able, New York Law Journal, September 23, 1998, at 3 (The Federal Cir-
+cuit’s decision “stands for the proposition that any method, including a busi-
+ness method (and even one accomplished without the aid of a computer),
+constitutes statutory subject matter if it has practical utility....”).
+                                        7
+
+The statute provides four categories of subject matter to which
+a claim may be directed and receive patent protection so long
+as other requirements such as novelty (35 U.S.C. § 102) and
+non-obviousness (35 U.S.C. § 103) are met. In the present case
+the claims are cast as “means plus function” or machine
+claims. But, as the Federal Circuit recognized, which of the
+four categories — process, machine, manufacture, or compo-
+sition of matter — a claim is directed to is “of little relevance”
+for purpeses of § 101 analysis. 149 F.3d at 1372, 47
+U.S.P.Q.2d at 1600; see also In re Walter, 618 F.2d 758, 768
+(C.C.P.A. 1980) (refusing to find labels determinative for
+§ 101 analysis); In re Johnson, 589 F.2d 1070, 1077 (C.C.P.A.
+1979) (noting that “the form of the claim is often an exercise
+in drafting”). Drafting artifice is not determinative. As this
+Court observed in Benson, quoting the President’s Commis-
+sion on the Patent System:
+
+       Direct attempts to patent programs have been
+       rejected on the ground of nonstatutory subject
+       matter. Indirect attempts to obtain patents and
+       avoid the rejection, by drafting claims as a process,
+      or a machine or components thereof programmed
+      in a given manner, rather than as a program itself,
+      have confused the issue further and should not be
+      permitted.
+
+409 U.S. at 72. The quoted language from Benson, as well
+as its holding, make clear this Court’s position that the loading
+of a useful program onto a computer is insufficient, without
+more, to qualify it as patentable subject matter. In its decision
+in this case, the Circuit Court has simply ignored that posi-
+tion. Referring to the opinion of the Court below, Judge
+Clevenger of that Court recently stated that “as [the Federal
+Circuit] recently held [in State Street], virtually anything is
+patentable [subject matter]. Hughes Aircraft Co. v. U.S.,
+148 F. 3d 1384, 1385 (Fed. Cir. 1998) (Clevenger, J., dis-
+senting) (emphasis added).
+                                       8
+
+   Although the statute has been broadly construed to extend
+to “anything under the sun that is made by man,” Diamond
+v. Chakrabarty, 447 U.S. 303, 309 n.6 (1980), there have
+always been limits foreclosing “a purely literal reading of
+§ 101.” Flook, 437 U.S. at 589. “The laws of nature, physical
+phenomena, and abstract ideas have been held not patent-
+able.” Chakrabarty, 447 U.S. at 309. More specifically,
+Chakrabarty expressly recognized the applicability of these
+limits in the consideration of patent claims for mathematical
+algorithms. Confirming the continuing soundness of Flook,
+the Court in Chakrabarty stated: “That case applied our prior
+precedents to determine that a ‘claim for an improved method
+of calculation, even when tied to a specific end use, is
+unpatentable subject matter under § 101.’” 447 U.S. at 315
+(quoting Flook, 437 U.S. at 595 n.18, emphasis added).
+
+   2. In the case of mathematical formulae or algorithms,
+this Court has established the parameters of patentable subject
+matter in Benson, Flook, and Diehr — decisions which the
+Federal Circuit has ignored or effectively overruled.
+
+   Benson involved “a method of programming a general-
+purpose digital computer to convert signals from binary-coded
+decimal form into pure binary form.” 408 U.S. at 65. Solving
+the conversion problem required use of an “algorithm,” that
+is, “a generalized formulation for programs to solve mathe-
+matical problems of converting one form of numerical
+representation to another.” Id. Noting that ideas are not
+patentable, the Court held the claimed invention nonstatutory
+because “[t]he mathematical formula involved ... ha[d] no
+substantial practical application except in connection with a
+digital computer, which means ... the patent would wholly
+pre-empt the mathematical formula and in practical effect
+would be a patent on the algorithm itself.” Id. at 71-72.
+Plainly, the issue of utility vel non was not dispositive in
+Benson.
+
+   In Benson, the Court found that the “[t]ransformation and
+reduction of an article ‘to a different state or thing’ is the clue
+to the patentability of a process claim that does not include
+                                       9
+
+particular machines.” Id. at 70. Transforming one set of
+numbers into another set using a mathematical formula con-
+figured on a general purpose computer failed to satisfy this
+test. The useful and computer implemented algorithm found
+to be non-patentable subject matter in Benson would certainly
+not have been so found under the Federal Circuit’s rationale.
+Accordingly that rationale should be reviewed — and rejected
+by this Court.
+
+   Parker v. Flook, 437 U.S. 584 (1978) also addressed the
+patentability of a mathematical algorithm run on a general-
+purpose computer and, once again, the Court held the process
+unpatentable. In this instance, the claimed invention updated
+alarm limits for catalytic conversion processes. Id. at 585. The
+Court recognized that “[a]n ‘alarm limit’ is a number,” just
+as a percentage or a profit or a price is a number. Id.
+
+   The fact that the patent in Flook was directed to an
+algorithm tied to a specific end use in the form of alarm limits
+was of no consequence. Citing the unpatentability of the
+Pythagorean theorem for surveying purposes as an example,
+the Court found that “‘if a claim is directed essentially to a
+method of calculating, using a mathematical formula, even
+if the solution is for a specific purpose, the claimed method
+is nonstatutory.’” Id. at 595 (quoting In re Richman, 563 F.2d
+1026, 1030 (C.C.P.A. 1977)). To clarify, the Court stated
+“our holding today is that a claim for an improved method
+of calculation, even when tied to a specific end use, is
+unpatentable subject matter under § 101.” Id. at 595 n.18
+(emphasis added). Therefore, despite the obvious utility of
+alarm limits, the Court found that the claimed invention
+simply calculated numbers and did not satisfy § 101 require-
+ments. Once again, just as with Benson, the Federal Circuit's
+approach would lead to a result opposite to that reached by
+this Court in Flook and should therefore be reviewed and
+reversed by this Court.
+
+   In Diamond v. Diehr, 450 U.S. 175 (1981), the Court held
+that a process for curing synthetic rubber employing a well-
+known mathematical equation and a digital computer was
+                                      10
+
+patentable. Otherwise statutory subject matter did not be-
+come nonstatutory simply because it employed a “mathemat-
+ical formula, computer program, or digital computer.” Jd. at
+187.
+
+   Viewing the claims as a whole, the Diehr Court found that
+the patent did more than merely claim a mathematical equa-
+tion. Id. at 188. Indeed, steps in the process also included
+installing rubber in a press, closing the mold, monitoring the
+temperature of the mold, recalculating cure times, and
+opening the press at the correct time. Jd. at 187. Citing
+Benson, the Court found the invention to be within the scope
+of § 101, noting that the claims “involve{d] the transformation
+of an article, in this case raw, uncured synthetic rubber, into
+a different state or thing.” Id. at 184.
+
+   Since the “invention” in the instant case is an algorithm for
+accounting software that merely calculates numbers, it is not
+patentable subject matter. See Benson; Flook. The Federal
+Circuit purported to read both Diehr and Chakrabarty as
+justifying its excessively expansive result. But neither do. As
+explained abow:, Diehr involved a process for the physical
+transformatior. of a product. Nothing in that case suggested
+that, by itselc, the mere utility of an algorithm is sufficient
+for it to pass muster under § 101. Further, as noted above,
+Chakrabarty expressly confirmed the continuing vitality of
+Flook, with which the Federal Circuit’s pronouncement is in
+direct conflict.
+
+   3. The exclusively utilitarian concept embraced by the
+Federal Circuit implies that, from now on, scientific prin-
+ciples and laws of nature that should be available to everyone
+will be patentable subject matter if they produce a useful
+result. Under the Federal Circuit opinion, contrary to this
+Court’s admonition in Flook, 437 U.S. at 590, the
+Pythagorean theorem would be patentable subject matter
+whenever it is applied to any useful end. It requires little
+imagination to envision the mischief that may follow.*
+
+   3 It is no answer to leave to litigation, with its attendant costs and uncer-
+tainty, the testing of validity of patents issued under the Federal Circuit's
+                                       1]
+
+    In this computer age, no area of economic life will be
+
+ untouched by the Federal Circuit’s expansion of patentable
+subject matter. The impact on innovation in areas that have
+flourished without the patent system cannot be predicted with
+confidence. It is, finally, unwise and unfair to now subject
+to the burdens of the patent system activities that have long
+been outside its ambit. If such a fundamental change is to be
+made, it is Congress that should do so. See Flook, 437 U.S.
+at 595. Certainly, it ought not to occur without review by
+this Court.
+
+                                        Conclusion
+
+    For the foregoing reasons, the petition for a writ of cer-
+
+tiorari should be granted.
+
+                                   Respectfully submitted,
+
+                                       WiLuiaM L. Patron
+
+                                      Counsel of Record
+
+                                      James L. Sicer
+                                      James S. DeGraw
+                                      Mark D. MEREDITH
+
+                                      Ropes & Gray
+
+                                          Maurice E. GAuTHIER
+                                          WiLuiAM E. HILton
+
+                                              Samuels, Gauthier ¢> Stevens
+
+expanded view of the boundary established by § 101. This will serve only
+to “debilitate the patent system.” Graham v. John Deere Co., 383 U.S. 1,
+18 (1967).
+A-l
+
+United States Court of Appeals for the Federal Circuit
+
+96-1327
+
+ STATE STREET BANK & TRUST          CO.,
+               PLAINTIFF-APPELLEE,  INC.,
+                           v.
+
+SIGNATURE FINANCIAL GROUP,
+              DEFENDANT-APPELLANT.
+
+   William L. Patton, Ropes & Gray, of Boston, Mas-
+
+sachusetts, argued for plaintiff-appellee. With him on the
+brief were James L. Sigel and James S. DeGraw. Also on the
+
+brief was Maurice E. Gauthier, Samuels, Gauthier, Stevens
+
+& Reppert.
+
+   Steven L. Friedman, Dilworth, Paxson, Kalish & Kauffman
+
+LLP, of Philadelphia, Pennsylvania, argued for defendant-
+appellant. With him on the brief were Steven J. Henry, Wolf,
+
+Greenfield & Sacks, P.C., of Boston, Massachusetts; and
+
+Philip G. Koenig, Pittas Koenig, of Winchester, Massa-
+
+chusetts.
+   William T. Ellis, Foley & Lardner, of Washington, D.C.,
+
+for amicus curiae Information Technology Industry Council.
+
+With him on the brief were Harold C. Wegner, Richard L.
+Schwaab, and Mary Michelle Kile. Of counsel was John F.
+Cooney, Venable, Baetjer, Howard & Civiletti, LLP.
+
+   Robert C. Scheinfeld, Baker & Botts, L.L.P., of New York,
+New York, for amicus curiae Mastercard International
+Service. With him on the brief was Lawrence T. Kass. Of
+counsel on the brief for amicus curiae VISA International
+Service Association were Laurie S. Hane, Donald S. Chisum,
+and Alan L. Durham, Morrison & Foerster LLP, of Palo Alto,
+California.
+
+Appealed from: U.S. District Court for the District of Massa-
+
+chusetts
+
+Judge Patti B. Saris
+A-2
+
+United States Court of Appeals for the Federal Circuit
+
+96-1327
+
+ STATE STREET BANK & TRUST           CO.,
+                PLAINTIFF-APPELLEE,  INC.,
+                           v.
+
+SIGNATURE FINANCIAL GROUP,
+              DEFENDANT-APPELLANT.
+
+DECIDED: Jury 23, 1998
+
+Berore RICH, PLAGER, anp BRYSON, Circuit Judges.
+RICH, Circuit Judge.
+
+   Signature Financial Group, Inc. (Signature) appeals from
+the decision of the United States District Court for the District
+of Massachusetts granting a motion for summary judgment in
+favor of State Street Bank & Trust Co. (State Street), finding
+U.S. Patent No. 5,193,056 (the "056 patent) invalid on the
+ground that the claimed subject matter is not encompassed
+by 35 U.S.C. § 101 (1994). See State Street Bank & Trust Co.
+v. Signature Financial Group, Inc., 927 F. Supp. 502, 38
+USPQ2d 1530 (D. Mass. 1996). We reverse and remand
+because we conclude that the patent claims are directed to
+statutory subject matter.
+
+                             BACKGROUND
+
+   Signature is the assignee of the ‘056 patent which is entitled
+“Data Processing System for Hub and Spoke Financial
+Services Configuration.” The '056 patent issued to Signature
+on 9 March 1993, naming R. Todd Boes as the inventor. The
+056 patent is generally directed to a data processing system
+(the system) for implementing an investment structure which
+was developed for use in Signature’s business as an adminis-
+trator and accounting agent for mutual funds. In essence, the
+system, identified by the proprietary name Hub and Spoke® ,
+facilitates a structure whereby mutual funds (Spokes) pool
+                                     A-3
+
+their assets in an investment portfolio (Hub) organized as a
+partnership. This investment configuration provides the
+administrator of a mutual fund with the advantageous combi-
+nation of economies of scale in administering investments cou-
+pled with the tax advantages of a partnership.
+
+   State Street and Signature are both in the business of acting
+as custodians and accounting agents for multi-tiered partner-
+ship fund financial services. State Street negotiated with Sig-
+nature for a license to use its patented data processing system
+described and claimed in the 056 patent. When negotiations
+broke down, State Street brought a declaratory judgment
+action asserting invalidity, unenforceability, and noninfringe-
+ment in Massachusetts district court, and then filed a motion
+for partial summary judgment of patent invalidity for failure
+to claim statutory subject matter under § 101. The motion was
+granted and this appeal followed.
+
+                               DISCUSSION
+
+   On appeal, we are not bound to give deference to the dis-
+trict court’s grant of summary judgment, but must make an
+independent determination that the standards for summary
+judgment have been met. Vas-Cath, Inc. v. Mahurkar, 935
+F.2d 1555, 1560, 19 USPQ2d 1111, 1114 (Fed. Cir. 1991).
+Summary judgment is properly granted where there are no
+genuine issues of material fact and the moving party is entitled
+to judgment as a matter of law. Fed. R. Civ. P. 56(c). The
+substantive issue at hand, whether the 056 patent is invalid
+for failure to claim statutory subject matter under § 101, is
+a matter of both claim construction and statutory construc-
+tion. “{W]e review claim construction de novo including any
+allegedly fact-based questions relating to claim construction.”
+Cybor Corp. v. FAS Techs., 138 F.3d 1448, 1451, 46 USPQ2d
+1169, 1174 (Fed. Cir. 1998) (in banc). We also review statu-
+tory construction de novo. See Romero v. United States, 38
+F.3d 1204, 1207 (Fed. Cir. 1994). We hold that declaratory
+judgment plaintiff State Street was not entitled to the grant
+of summary judgment of invalidity of the 056 patent under
+“  A-4
+
+§ 101 as a matter of law, because the patent claims are
+directed to statutory subject matter.
+
+   The following facts pertinent to the statutory subject matter
+issue are either undisputed or represent the version alleged by
+
+the nonmovant. See Anderson v. Liberty Lobby, Inc., 477
+
+U.S. 242, 255 (1986). The patented invention relates generally
+to a system that allows an administrator to monitor and record
+the financial informatior. flow and make all calculations
+necessary for maintaining a partner fund financial services
+configuration. As previously mentioned, a partner fund finan-
+cial services configuration essentially allows several mutual
+funds, or “Spokes,” to pool their investment funds into a single
+
+portfolio, or “Hub,” allowing for consolidation of, inter alia,
+
+the costs of administering the fund combined with the tax
+advantages of a partnership. In particular, this system pro-
+vides means for a daily allocation of assets for two or more
+Spokes that are invested in the same Hub. The system deter-
+mines the percentage share that each Spoke maintains in the
+Hub, while taking into consideration daily changes both in
+the value of the Hub’s investment securities and in the con-
+comitant amount of each Spoke’s assets.
+
+   In determining daily changes, the system also allows for the
+allocation among the Spokes of the Hub’s daily income,
+expenses, and net realized and unrealized gain or loss, cal-
+culating each day’s total investments based on the concept of
+a book capital account. This enables the determination of a
+true asset value of each Spoke and accurate calculation of allo-
+cation ratios between or among the Spokes. The system addi-
+tionally tracks all the relevant data determined on a daily
+basis for the Hub and each Spoke, so that aggregate year end
+income, expenses, and capital gain or loss can be determined
+for accounting and for tax purposes for the Hub and, as a
+result, for each publicly traded Spoke.
+
+   It is essential that these calculations are quickly and
+accurately performed. In large part this is required because
+each Spoke sells shares to the public and the price of those
+shares is substantially based on the Spoke’s percentage interest
+                                     A-5
+
+in the portfolio. In some instances, a mutual fund adminis-
+trator is required to calculate the value of the shares to the
+nearest penny within as little as an hour and a half after the
+market closes. Given the complexity of the calculations, a
+computer or equivalent device is a virtual necessity to perform
+the task.
+
+   The ’056 patent application was filed 11 March 1991. It ini-
+tially contained six “machine” claims, which incorporated
+means-plus-function clauses, and six method claims.
+According to Signature, during prosecution the examiner con-
+templated a § 101 rejection for failure to claim statutory sub-
+ject matter. However, upon cancellation of the six method
+
+claims, the examiner issued a notice of allowance for the
+
+remaining present six claims on appeal. Only claim 1 is an
+independent claim.
+
+   The district court began its analysis by construing the claims
+to be directed to a process, with each “means” clause merely
+
+representing a step in that process. However, “machine”
+
+claims having “means” clauses may only be reasonably viewed
+as process claims if there is no supporting structure in the
+written description that corresponds to the claimed “means”
+
+elements. See In re Alappat, 33 F.3d 1526, 1540-41, 31
+
+USPQ2d 1545, 1554 (Fed. Cir. 1994) (in banc). This is not
+the case now before us.
+
+   When independent claim 1 is properly construed in accor-
+dance with § 112, § 6, it is directed to a machine, as demon-
+strated below, where representative claim 1 is set forth, the
+subject matter in brackets stating the structure the written
+description discloses as corresponding to the respective
+“means” recited in the claims.
+
+       1. A data processing system for managing a financial
+
+             services configuration of a portfolio established as
+             a partnership, each partner being one of a plurality
+             of funds, comprising:
+             (a) computer processor means [a personal com-
+
+                   puter including a CPU] for processing data;
+                                                         A-6
+
+                         (b) storage means [a data disk] for storing data on
+
+                                      a storage medium;
+
+                         (c) first means [an arithmetic logic circuit con-
+
+                                      figured to prepare the data disk to magneti-
+                                      cally store selected data] for initializing the
+
+                                          storage medium;
+
+                         (d) second means [an arithmetic logic circuit con-
+
+                                      figured to retrieve information from a specific
+
+                                          file, calculate incremental increases or de-
+
+                                      creases based on specific input, allocate the
+                                      results on a percentage basis, and store the
+                                      output in a separate file] for processing data
+                                      regarding assets in the portfolio and each of the
+                                      funds from a previous day and data regarding
+
+                                          increases or decreases in each of the funds, [sic,
+
+                                      funds’] assets and for allocating the percentage
+                                      share that each fund holds in the portfolio;
+
+                         (e) third means [an arithmetic logic circuit con-
+
+                                      figured to retrieve information from a specific
+
+                                          file, calculate incremental increases aud
+
+                                      decreases based on specific input, allocate the
+                                      results on a percentage basis and store the
+                                      output in a separate file] for processing data
+                                      regarding daily incremental income, expenses,
+                                      and net realized gain or loss for the portfolio
+                                      and for allocating such data among each fund;
+
+                         (f) fourth means [an arithmetic logic circuit con-
+
+                                      figured to retrieve information from a specific
+
+                                          file, calculate incremental increases and
+
+                                      decreases based on specific input, allocate the
+                                      results on a percentage basis and store the
+                                      output in a separate file] for processing data
+                                      regarding daily net unrealized gain or loss for
+                                      the portfolio and for allocating such data
+                                      among each fund; and
+                             (g) fifth means [an arithmetic logic circuit con-
+                                      figured to retrieve information from specific
+
+ee ereeeAne en eA
+            A-7
+
+files, calculate that information on an
+
+aggregate basis and store the output in a
+
+separate file] for processing data regarding
+
+aggregate year-end income, expenses, and cap-
+
+ital gain or loss for the portfolio and each of
+
+the funds.
+
+Each claim component, recited as a “means” plus its function,
+
+is to be read, of course, pursuant to § 112, § 6, as inclusive
+
+of the “equivalents” of the structures disclosed in the written
+
+description portion of the specification. Thus, claim 1,
+
+properly construed, claims a machine, namely, a data
+
+processing system for managing a financial services configura-
+
+tion of a portfolic established as a partnership, which machine
+
+is made up of, at the very least, the specific structures dis-
+
+closed in the written description and corresponding to the                          -
+
+means-plus-function elements (a)-(g) recited in the claim. A
+
+“machine” is proper statutory subject matter under § 101. We
+
+note that, for the purposes of a § 101 analysis, it is of little
+
+relevance whether claim 1 is directed to a “machine” or a
+
+“process,” as long as it falls within at least one of the four
+
+enumerated categories of patentable subject matter,
+
+“machine” and “process” being such categories.                                  ——
+
+This does not end our analysis, however, because the court
+
+concluded that the claimed subject matter fell into one of two
+
+alternative judicially-created exceptions to statutory subject
+
+matter.' The court refers to the first exception as the “mathe-
+
+matical algorithm” exception and the second exception as the
+
+“business method” exception. Section 101 reads:
+
+Whoever invents or discovers any new and useful
+
+process, machine, manufacture, or composition of
+
+matter, or any new and useful improvement
+
+   ' Indeed, although we do not make this determination here, the judicially
+
+created exceptions, i.e., abstract ideas, laws of nature, etc., should be
+applicable to all categories of statutory subject matter, as our own precedent
+suggests. See Alappat, 33 F.3d at 1542, 31 USPQ2d at 1556; see also In
+re Johnson, 502 F.2d 765, 183 USPQ 172 (CCPA 1974) (Rich, J., dissenting).
+e e e ek ee e
+
+                                                            A-8
+
+                                thereof, may obtain a patent therefor, subject to the
+
+                             conditions and requirements of this title.
+                       The plain and unambiguous meaning of § 101 is that any
+                       invention falling within one of the four stated categories of
+                       statutory subject matter may be patented, provided it meets
+                       the other requirements for patentability set forth in Title 35,
+                       i.e., those found in §§102, 103, and 112, § 2.?
+
+                          The repetitive use of the expansive term “any” in § 101
+                      shows Congress’s intent not to place any restrictions on the
+                       subject matter for which a patent may be obtained beyond
+                       those specifically recited in § 101. Indeed, the Supreme Court
+                       has acknowledged that Congress intended § 101 to extend to
+                       “anything under the sun that is made by man.” Diamond v.
+
+                         Chakrabarty, 447 U.S. 303, 309 (1980); see also Diamond v.
+
+                       Diehr, 450 U.S. 175, 182 (1981).* Thus, it is improper to read
+                       limitations into § 101 on the subject matter that
+
+                              * As explained in In re Bergy, 569 F.2d 952, 960, 201 USPQ 352, 360
+                           (CCPA 1979) (emphases and footnote omitted):
+
+                                      The first door which must be opened on the difficult path
+                                   to patentability is § 101.... The person approaching that door
+                                   is an inventor, whether his invention is patentable or not... .
+                                   Being an inventor or having an invention, however, is no
+                                   guarantee of opening even the first door. What kind of an inven-
+                                   tion or discovery is it? In dealing with the question of kind, as
+                                   distinguished from the qualitative conditions which make the
+                                   invention patentable, § 101 is broad and general; its language
+                                   is: “any *** process, machine, manufacture, or composition of
+                                   matter, or any *** improvement thereof.” Section 100(b) fur-
+                                   ther expands “process” to include “art or method, and *** a
+                                   new use of a known process, machine, manufacture, composi-
+                                       tion of matter, or material.” If the invention, as the inventor
+                                   defines it in his claims (pursuant to § 112, second paragraph),
+                                   falls into any one of the named categories, he is allowed to pass
+                                   through to the second door, which is § 102; “novelty and loss
+                                   of right to patent” is the sign on it. Notwithstanding the words
+                                       “new and useful” in § 101, the invention is not examined under
+                                   that statute for novelty because that is not the statutory scheme
+                                   of things or the long-established administrative practice.
+                              * The Committee Reports accompanying the 1952 Act inform us that
+                           Congress intended statutory subject matter to “include anything under the
+                           sun that is made by man.” S. Rep. No. 82-1979 at 5 (1952); H.R. Rep.
+                           No. 82-1923 at 6 (1952).
+                                     A-9
+
+may be patented where the legislative history indicates that
+Congress clearly did not intend such limitations. See
+
+Chakrabarty, 447 U.S. at 308 (“We have also cautioned that
+
+courts ‘should not read into the patent laws limitations and
+conditions which the legislature has not expressed.’”’ (citations
+omitted)).
+
+           The “Mathematical Algorithm” Exception
+
+   The Supreme Court has identified three categories of sub-
+ject matter that are unpatentable, namely “laws of nature,
+natural phenomena, and abstract ideas.” Diehr, 450 U.S. at
+185. Of particular relevance to this case, the Court has held
+that mathematical algorithms are not patentable subject
+matter to the extent that they are merely abstract ideas. See
+
+Diehr, 450 U.S. 175, passim; Parker v. Flook, 437 U.S. 584
+
+(1978); Gottschalk v. Benson, 409 U.S. 63 (1972). In Diehr,
+the Court explained that certain types of mathematical subject
+matter, standing alone, represent nothing more than abstract
+ideas until reduced to some type of practical application, i.e.,
+“a useful, concrete and tangible result.” Alappat, 33 F.3d at
+1544, 31 USPQ2d at 1557.‘
+
+   Unpatentable mathematical algorithms are identifiable by
+showing they are merely abstract ideas constituting disem-
+bodied concepts or truths that are not “useful.” From a prac-
+tical standpoint, this means that to be patentable an algorithm
+must be applied in a “useful” way. In Alappat, we held that
+data, transformed by a machine through a series of mathemat-
+ical calculations to produce a smooth waveform display on a
+rasterizer monitor, constituted a practical application of an
+
+abstract idea (a mathematical algorithm, formula, or calcula-
+
+tion), because it produced “a useful, concrete and tangible
+result” — the smooth waveform.
+
+   * This has come to be known as the mathematical algorithm exception.
+This designation has led to some confusion, especially given the Freeman-
+Walter-Abele analysis. By keeping in mind that the mathematical algorithm
+is unpatentable only to the extent that it represents an abstract idea, this
+confusion may be ameliorated.
+                                    A-10
+
+   Similarly, in Arrythmia Research Technology Inc. v.
+Corazonix Corp., 958 F.2d 1053, 22 USPQ2d 1033 (Fed. Cir.
+1992), we held that the transformation of electrocardiograph
+signals from a patient’s heartbeat by a machine through a
+series of mathematical calculations constituted a practical
+application of an abstract idea (a mathematical algorithm,
+
+formula, or calculation), because it corresponded to a useful,
+
+concrete or tangible thing — the condition of a patient’s heart.
+
+   Today, we hold that the transformation of data,
+
+representing discrete dollar amounts, by a machine through
+a series of mathematical calculations into a final share price,
+constitutes a practical application of a mathematical
+
+algorithm, formula, or calculation, because it produces “a
+
+useful, concrete and tangible result” — a final share price
+momentarily fixed for recording and reporting purposes and
+even accepted and relied upon by regulatory authorities and
+in subsequent trades.
+
+   The district court erred by applying the Freeman-Walter-
+Abele test to determine whether the claimed subject matter
+was an unpatentable abstract idea. The Freeman-Walter-
+Abele test was designed by the Court of Customs and Patent
+Appeals, and subsequently adopted by this court, to extract
+and identify unpatentable mathematical algorithms in the
+
+aftermath of Benson and Flook. See In re Freeman, 573 F.2d
+
+1237, 197 USPQ 464 (CCPA 1978) as modified by In re
+Walter, 618 F.2d 758, 205 USPQ 397 (CCPA 1980). The test
+has been thus articulated:
+
+      First, the claim is analyzed to determine whether
+      a mathematical algorithm is directly or indirectly
+
+       recited. Next, if a mathematical algorithm is found,
+
+      the claim as a whole is further analyzed to deter-
+      mine whether the algorithm is “applied in any
+      manner to physical elements or process steps,” and,
+
+       if it is, it “passes muster under § 101.”
+
+In re Pardo, 684 F.2d 912, 915, 214 USPQ 673, 675-76 (CCPA
+1982) (citing In re Abele, 684 F.2d 902, 214 USPQ 682
+                                     A-1l
+
+(CCPA 1982)).5
+
+   After Diehr and Chakrabarty, the Freeman-Walter-Abele
+test has little, if any, applicability to determining the presence
+of statutory subject matter. As we pointed out in Alappat, 33
+F.3d at 1543, 31 USPQ2d at 1557, application of the test could
+
+be misleading, because a process, machine, manufacture, or
+
+composition of matter employing a law of nature, natural
+phenomenon, or abstract idea is patentable subject matter
+even though a law of nature, natural phenomenon, or abstract
+
+idea would not, by itself, be entitled to such protection.® The
+
+   * The test has been the source of much confusion. In In re Abele, 684
+F.2d 902, 214 USPQ 682 (CCPA 1:82), the CCPA upheld claims applying
+“a mathematical formula within the context of a process which encompasses
+significantly more than the algorithm alone.” Jd. at 909. Thus, the CCPA
+apparently inserted an additional consideration — the significance of addi-
+tions to the algorithm. The CCPA appeared to abandon the application of
+the test in In re Taner, 681 F.2d 787, 214 USPQ 678 (CCPA 1982), only
+to subsequently “clarify” that the Freeman-Walter-Abele test was simply
+not the exclusive test for detecting unpatentable subject matter. In re Meyer,
+688 F.2d 789, 796, 215 USPQ 193, 199 (CCPA 1982).
+
+   ® See e.g. Parker v. Flook, 437 U.S. 584, 590 (1978) (“[A] process is not
+unpatentable simply because it contains a law of nature or a mathematical
+algorithm.”); Funk Bros. Seed Co. v. Kale Inoculant Co., 333 U.S. 127,
+130 (1948) (“He who discovers a hitherto unknown phenomenon of nature
+has no claim to a monopoly of it which the law recognizes. If there is to
+be invention from such a discovery, it must come from the application of
+the law to a new and useful end.”); Mackay Radio ¢& Tel. Co. v. Radio
+
+Corp. of Am., 306 U.S. 86, 94 (1939) (“While a scientific truth, or the
+mathematical expression of it, is not a patentable invention, a novel and
+useful structure created with the aid of knowledge of scientific truth may
+be.”).
+
+       [When a claim containing a mathematical formula implements
+       or applies that formula in a structure or process which, when
+       considered as a whole, is performing a function which the
+       patent laws were designed to protect (e.g., transforming or
+       reducing an article to a different state or thing), then the claim
+       satisfies the requirements of § 101.
+
+Diehr, 450 U.S. at 192; see also In re Iwahashi, 888 F.2d i370, 1375, 12
+USPQ2d 1908, 1911 (Fed. Cir. 1989); Taner, 681 F.2d at 789, 214 USPQ
+at 680. The dispositive inquiry is whether the claim as a whole is directed
+to statutory subject matter. It is irrelevant that a claim may contain, as
+part of the whole, subject matter which would not be patentable by itself.
+“A claim drawn to subject matter otherwise statutory does not become
+                                     A-12
+
+test determines the presence of, for example, an algorithm.
+
+Under Benson, this may have been a sufficient indicium of
+
+nonstatutory subject matter. However, after Diehr and
+Alappat, the mere fact that a claimed invention involves
+inputting numbers, calculating numbers, outputting
+
+numbers, and storing numbers, in and of itself, would not
+
+render it nonstatutory subject matter, unless, of course, its
+operation does not produce a “useful, concrete and tangible
+result.” Alappat, 33 F.3d at 1544, 31 USPQ2d at 1557.’ After
+all, as we have repeatedly stated,
+
+      every step-by-step process, be it electronic or chem-
+
+       ical or mechanical, involves an algorithm in the
+
+      broad sense of the term. Since § 101 expressly
+      includes processes as a category of inventions which
+      may be patented and § 100(b) further defines the
+      word “process” as meaning “process, art or method,
+      and includes a new use of a known process,
+
+       machine, manuiacture, composition of matter, or
+
+      material,” it follows that it is no ground for holding
+      a claim is directed to nonstatutory subject matter to
+      say it includes or is directed to an algorithm. This
+      is why the proscription against patenting has been
+      limited to mathematical algorithms... .
+In re Iwahashi, 888 F.2d 1370, 1374, 12 USPQ2d 1908, 1911
+(Fed. Cir. 1989) (emphasis in the original).*
+
+nonstatutory simply because it uses a mathematical formula, computer pro-
+gram or digital computer.” Diehr, 450 U.S. at 187.
+
+   7 As the Supreme Court expressly stated in Diehr, its own holdings in
+Benson and Flook “stand for no more than these long-established principles”
+that abstract ideas and natural phenomena are not patentable. Diehr, 450
+U.S. at 185 (citing Chakrabarty, 447 U.S. at 309 and Funk Bros., 333 U.S.
+at 130.).
+
+   § In In re Pardo, 684 F.2d 912 (CCPA 1982), the CCPA narrowly limited
+“mathematical algorithm” to the execution of formulas with given data. In
+the same year, in In re Meyer, 688 F.2d 789, 215 USPQ 193 (CCPA 1982),
+the CCPA interpreted the same term to include any mental process that
+can be represented by a mathematical algorithm. This is also the position
+taken by the PTO in its Examination Guidelines, 61 Fed. Reg. 7478, 7483
+
+(1996).
+                                     A-13
+
+   The question of whether a claim encompasses statutory sub-
+ject matter should not focus on which of the four categories
+of subject matter a claim is directed to’ — process, machine,
+manufacture, or composition of matter—but rather on the
+essential characteristics of the subject matter, in particular,
+its practical utility. Section 101 specifies that statutory subject
+matter must also satisfy the other “conditions and require-
+
+ments” of Title 35, including novelty, nonobviousness, and
+
+adequacy of disclosure and notice. See In re Warmerdam, 33
+F.3d 1354,1359, 31 USPQ2d 1754, 1757-58 (Fed. Cir. 1994).
+
+For purpose of our analysis, as noted above, claim 1 is directed
+
+to a machine programmed with the Hub and Spoke software
+and admittedly produces a “useful, concrete, and tangible
+result.” Alappat, 33 F.3d at 1544, 31 USPQ2d at 1557. This
+
+renders it statutory subject matter, even if the useful result
+
+is expressed in numbers, such as price, profit, percentage,
+cost, or loss.
+
+                  The Business Method Exception
+
+   As an alternative ground for invalidating the '056 patent
+
+under § 101, the court relied on the judicially-created, so-
+
+called “business method” exception to statutory subject
+matter. We take this opportunity to lay this ill-conceived
+exception to rest. Since its inception, the “business method”
+exception has merely represented the application of some
+general, but no longer applicable legal principle, perhaps
+arising out of the “requirement for invention” — which was
+eliminated by § 103. Since the 1952 Patent Act, business
+
+methods have been, and should have been, subject to the same
+
+legal requirements for patentability as applied to any other
+process or method.'®
+
+  * Of course, the subject matter must fall into at least one category of statu-
+tory subject matter.
+
+   © As Judge Newman has previously stated,
+       [The business method exception] is . .. an unwarranted encum-
+       brance to the definition of statutory subject matter in section
+       101, that [should] be discarded as error-prone, redundant, and
+       obsolete. It merits retirement from the glossary of section
+                                         A-14
+
+    The business method exception has never been invoked by
+ this court, or the CCPA, to deem an invention unpatentable.!!
+ Application of this particular exception has always been
+ preceded by a ruling based on some clearer concept of Title
+ 35 or, more commonly, application of the abstract idea excep-
+ tion based on finding a mathematical algorithm. Illustrative
+
+ is the CCPA’s analysis in In re Howard, 394 F.2d 869, 157
+ USPQ 615 (CCPA 1968), wherein the court affirmed the
+ Board of Appeals’ rejection of the claims for lack of novelty
+- and found it unnecessary to reach the Board’s section 101
+ ground that a method of doing business is “inherently
+ unpatentable.” Id. at 872, 157 USPQ at 617."
+
+    Similarly, In re Schrader, 22 F.3d 290, 30 USPQ2d 1455
+ (Fed. Cir. 1994), while making reference to the business
+ method exception, turned on the fact that the claims
+ implicitly recited an abstract idea in the form of a mathemat-
+ ical algorithm and there was no “transformation or conversion
+ of subject matter representative of or constituting physical
+ activity or objects.” 22 F.3d at 294, 30 USPQ2d at 1459
+ (emphasis omitted.)'*
+
+         101.... All of the “doing business” cases could have been
+         decided using the clearer concepts of Title 35. Patentability does
+         not turn on whether the claimed method does “business” instead
+          of something else, but on whether the method, viewed as a
+         whole, meets the requirements of patentability as set forth in
+         Sections 102, 103, and 112 of the Patent Act.
+  In re Schrader, 22 F.3d 290, 298, 30 USPQ2d 1455, 1462 (Fed. Cir. 1994)
+  (Newman, J., dissenting).
+     '! See Rinaldo Del Gallo, III, Are ‘Methods of Doing Business’ Finally
+  out of Business as a Statutory Rejection?, 38 IDEA 403, 435 (1998).
+      '2 See also Dann v. Johnston, 425 U.S. 219 (1976) (the Supreme Court
+  declined to discuss the section 101 argument concerning the computerized
+  financial record-keeping system, in view of the Court’s holding of patent
+  invalidity under section 103); In re Chatfield, 545 F.2d 152, 157, 191 USPQ
+  730, 735 (CCPA 1976); Ex parte Murray, 9 USPQ2d 1819, 1820 (Bd. Pat.
+  App. & Interf. 1988) (“[T]he claimed accounting metnod [requires] no more
+  than the entering, sorting, debiting and totaling of expenditures as necessary
+  preliminary steps to issuing an expense analysis statement....”) states
+  grounds of obviousness or lack of novelty, not of non-statutory subject
+
+   matter.
+
+     '3 Any historical distinctions between a method of “doing” business and
+  the means of carrying it out blur in the complexity of modern business
+                                     A-15
+
+   State Street argues that we acknowledged the validity of
+the business method exception in Alappat when we discussed
+Maucorps and Meyer:
+
+      Maucorps dealt with a business methodology for
+      deciding how salesmen should best handle respec-
+      tive customers and Meyer involved a ‘system’ for
+      aiding a neurologist in diagnosing patients. Clearly,
+      neither of the alleged ‘inventions’ in those cases falls
+      within any § 101 category.
+Alappat, 33 F.3d at 1541, 31 USPQ2d at 1555. However,
+closer scrutiny of these cases reveals that the claimed inven-
+tions in both Maucorps and Meyer were rejected as abstract
+ideas under the mathematical algorithm exception, not the
+business method exception. See In re Maucorps, 609 F.2d 481,
+484, 203 USPQ 812, 816 (CCPA 1979); In re Meyer, 688 F.2d
+789, 796, 215 USPQ 193, 199 (CCPA 1982).
+   Even the case frequently cited as establishing the business
+method exception to statutory subject matter, Hotel Security
+Checking Co. v. Lorraine Co., 160 F. 467 (2d Cir. 1908), did
+not rely on the exception to strike the patent.'5 In that case,
+
+systems. See Paine, Webber, Jackson & Curtis v. Merrill Lynch, 564 F.
+Supp. 1358, 218 USPQ 212 (D. Del. 1983), (holding a computerized system
+of cash management was held to be statutory subject matter.)
+
+   4 Moreover, these cases were subject to the Benson era Freeman-Walter-
+Abele test — in other words, analysis as it existed before Diehr and Alappat.
+
+   'S See also Loew's Drive-In Theatres v. Park-In Theatres, 174 F.2d 547,
+552 (1st Cir. 1949) (holding that the means for carrying out the system of
+transacting business lacked “an exercise of the faculty of invention”); In re
+Patton, 127 F.2d 324, 327-38 (CCPA 1942) (finding claims invalid as failing
+to define patentable subject matter over the references of record.); Berardini
+v. Tocci, 190 F. 329, 332 (C.C.S.D.N.Y. 1911); In re Wait, 73 F.2d 982,
+983 (CCPA 1934) (“[S]urely these are, and always have been, essential steps
+in all dealings of this nature, and even conceding, without holding, that
+some methods of doing business might present patentable novelty, we think
+such novelty is lacking here.”); In re Howard, 157 USPQ 615, 617 (CCPA
+1968) (“[W]e therefore affirm the decision of the Board of Appeals on the
+ground that the claims do not define a novel process ... [so we find it]
+unnecessary to consider the issue of whether a method of doing business
+is inherently unpatentable.”). Although a clearer statement was made in
+In re Patton, 127 F.2d 324, 327, 53 USPQ 376, 379 (CCPA 1942) that-a
+                                    A-16
+
+the patent was found invalid for lack of novelty and “inven-
+tion,” not because it was improper subject matter for a patent.
+The court stated “the fundamental principle of the system is
+as old as the art of bookkeeping, i.e., charging the goods of
+the employer to the agent who takes them.” Id. at 469. “If
+at the time of [the patent] application, there had been no
+system of bookkeeping of any kind in restaurants, we would
+be confronted with the question whether a new and useful
+system of cash registering and account checking is such an art
+as is patentable under the statute.” Id. at 472.
+
+   This case is no exception. The district court announced the
+precepts of the business method exception as set forth in
+several treatises, but noted as its primary reason for finding
+the patent invalid under the business method exception as
+follows:
+
+      If Signature’s invention were patentable, any finan-
+      cial institution desirous of implementing a multi-
+      tiered funding complex modelled (sic) on a Hub and
+      Spoke configuration would be required to seek Sig-
+      nature’s permission before embarking on such a
+      project. This is so because the ‘056 Patent is claimed
+      [sic] sufficiently broadly to foreclose virtually any
+      computer-implemented accounting method neces-
+      sary to manage this type of financial structure.
+927 F. Supp. 502, 516, 38 USPQ2d 1530, 1542 (emphasis
+added). Whether the patent’s claims are too broad to be
+patentable is not to be judged under § 101, but rather under
+§§102, 103 and 112. Assuming the above statement to be cor-
+rect, it has nothing to do with whether what is claimed is
+statutory subject matter.
+   In view of this background, it comes z . no surprise that in
+the most recent edition of the Manual of Patent Examining
+Procedures (MPEP) (1996), a paragraph of § 706.03(a) was
+deleted. In past editions it read:
+
+system for transacting business, separate from the means for carrying out
+the system, is not patentable subject matter, the jurisprudence does not
+require the creation of a distinct business class of unpatentasbubljeect
+matter.
+                                      A-17
+
+       Though seemingly within the category of process or
+       method, a method of doing business can be rejected
+       as not being within the statutory classes. See Hotel
+       Security Checking Co. v. Lorraine Co., 160 F. 467
+       (2nd Cir. 1908) and In re Wait, 24 USPQ 88, 22
+       CCPA 822 (1934).
+MPEP § 706.03(a) (1994). This acknowledgment is buttressed
+by the U.S. Patent and Trademark 1996 Examination Guide-
+lines for Computer Related Inventions which now read:
+      Office personnel have had difficulty in properly
+      treating claims directed to methods of doing busi-
+      ness. Claims should not be categorized as methods
+      of doing business. Instead such claims should be
+      treated like any other process claims.
+Examination Guidelines, 61 Fed. Reg. 7478, 7479 (1996). We
+agree that this is precisely the manner in which this type of
+claim should be treated. Whether the claims are directed to
+subject matter within § 101 should not turn on whether the
+claimed subject matter does business instead of something else.
+
+                             CONCLUSION
+   The appealed decision is reversed and the case is remanded
+to the district court for further proceedings consistent with
+this opinion.
+
+                 REVERSED and REMANDED.
+                 A-18
+
+UNITED STATES DISTRICT COURT
+  DISTRICT OF MASSACHUSETTS
+
+STATE STREET     BANK AND TRUST COMPANY,
+     SIGNATURE       PLAINTIFF,
+                           v.
+
+                 FINANCIAL GROUP, INC.,
+                    DEFENDANT.
+
+CIVIL ACTION NO. 94-11344-PBS
+
+MEMORANDUM AND ORDER
+
+SARIS, U.S.D.J.  March 26, 1996
+
+                 I. Introduction
+
+   Plaintiff, State Street Bank and Trust Company (“State
+Street”) brings this action against Defendant, Signature
+Financial Group, Inc. (“Signature”), seeking a declaratory
+judgment that Signature’s patent for a computerized
+accounting system for managing a mutual fund investment
+structure is invalid and unenforceable.' After hearing, the
+Court ALLOWS Plaintiff's motion for partial summary judg-
+ment and DISMISSES Defendant’s counter-claims.
+
+                             II. Background
+
+   State Street and Signature are companies, which, among
+other things, act as administrators and accounting agents of
+
+   ' The Complaint seeks the following declaratory judgments: invalidity
+(Count I), noninfringement (Count II), unenforceability by reason of ine-
+quitable conduct (Count III), and unenforceability by reason of misuse
+(Count IV). Signature has filed two counter-claims: that State Street has
+committed an unfair and deceptive trade practice in violation of M.C.L.
+c. 93A by bringing the present declaratory judgment action in an attempt
+to maintain market share and malign Defendant (Count I), and its own
+declaratory judgment that an agent of State Street had entered into a
+binding oral licensing agreement with Signature regarding the data
+processing system allegedly protected by State Street’s patent (Count II).
+                                      A-19
+
+ mutual funds. Signature owns U.S. Patent No. 5,193,056
+
+ (“’056 Patent”), entitled “Data Processing System for Hub and
+ Spoke Financial Services Configuration,” issued on March 9,
+ 1993, by assignment of the inventor, R. Todd Boes. As the
+ patent summary states, the claimed “invention provides a data
+ processing system and method for monitoring and recording
+
+ the information flow and data, and making all calculations,
+
+ necessary for maintaining a partnership portfolio and partner
+ fund (Hub and Spoke) financial services configuration.” In
+ order to assess the scope and nature of the claimed invention,
+ it is first necessary to discuss briefly the financial configuration
+ which the data processing system is designed to service.
+
+ A. Hub and Spoke Configuration
+
+    The invention relates to a newly-developed financial invest-
+ ment vehicle, which State Street terms a “multi-tiered fund
+
+complex” and Signature calls by its own proprietary mark,
+a “Hub and Spoke” configuration. In essence, a Hub and
+Spoke arrangement is an investment structure whereby
+mutual funds (“Spokes”) pool their assets in an investment
+portfolio (“Hub”) organized as a partnership. “This financial
+services configuration involves an entity that is treated as a
+partnership for federal income tax purposes and that holds the
+investment portfolio ... and funds that invest as partners in
+the partnership portfolio.” ’056 Patent, col. 1. Enabling
+mutual funds to pool their assets in this manner provides for
+economies of scale with regard to the costs of fund administra-
+tion and has beneficial tax consequences.
+
+   This complex financial structure, however, creates its own
+
+set of administrative challenges. As a partnership, the Hub
+portfolio assesses all economic gains and losses with respect
+to the Spoke funds on a pro rata basis. Because each of the
+Spokes are themselves investment vehicles, which are subject
+to constant changes in assets as individual investors add or
+withdraw funds and market prices fluctuate, the partnership
+interest of the Spokes in the Hub constantly varies. Admin-
+                                    A-20
+
+istering this structure requires a daily allocation of income,
+capital gains, and expenses or investment losses. The daily
+allocations are made on the basis of the Spoke funds’ percen-
+tage share in the total assets of the Hub portfolio.
+
+B. The Claimed Invention
+
+   Signature’s invention is directed to a data processing system
+for administering this Hub and Spoke configuration. The dis-
+closure provides extensive flowcharts and a detailed descrip-
+tion of the invention’s preferred embodiment. The system is
+operated by means of a personal computer, software capable
+of performing the various functions described in the claims
+and detailed in the preferred embodiment and flowcharts,
+data storage means such as a floppy disk, and display means
+such as printed output and a computer screen.
+
+   Specifically, the invention calculates and stores data
+representing: the percentage share that each Spoke fund holds
+in the Hub portfolio; any daily activity affecting the port-
+folio’s assets; allocations of gains, losses and expenses to each
+of the Spoke member funds; and tracking and updating data
+that are used to determine aggregate year-end income, gains,
+losses, and expenses for accounting and tax purposes.
+
+   The invention is claimed in means-plus-function language
+as an apparatus.” Of the six claims, only the first is inde-
+pendent:
+
+   (1) A data processing system for managing a financial
+services configuration of a portfolio established as a partner-
+ship, each partner being one of a plurality of funds, com-
+
+prising:
+
+   * The use of means-plus-function langauge results in construction of the
+claim as an apparatus (i.e., machine) rather than a method (i.e., process),
+even if no discrete devices or structures are described in the claim itself.
+See U.S.C. § 112, para. 6. Structure is imparted to the apparatus claims
+by reference to devices or apparatus disclosed in the specification. See In
+re Donaldson Co., 16 F.3d 1189, 1192-94 (Fed. Cir. 1994) (en banc).
+                                      A-21
+
+            (a) computer processor means for processing data:
+           (b) storage means for storing data on a storage
+        medium;
+           (c) first means for initializing the storage medium;
+           (d) second means for processing data regarding assets
+       in the portfolio and each of the funds from a previous
+       day and data regarding increases or decreases in each of
+       the funds, assets and for allocating the percentage share
+       that each fund holds in the portfolio;
+          (e) third means for processing data regarding daily
+       incremental income, expenses, and net realized gain or
+       loss for the portfolio and for allocating such data among
+        each fund;
+          (f) fourth means for processing data regarding daily
+       net unrealized gain or loss for the portfolio and for
+       allocating such data among each fund; and
+          (g) fifth means for processing data regarding aggregate
+       year-end income, expenses. and capital gain or loss for
+       the portfolio and each of the funds.
+The specification discloses the specific structure, circuitry or
+other devices by which the invention operates as follows:
+       The portfolio/fund accountant makes use of a personal
+       computer 44 programmed with software 50. One
+      example of software 50 is the “HandS” (a service mark
+      of Signature Financial Group, Inc.) computer program.
+      The personal computer 44 used by portfolio/fund
+      accountant is capable of producing printed output 46 and
+      storing data on data disk 52, which preferably is a floppy
+      disk, although other types of storage media may be used.
+‘056 Patent, col. 6 (numbers are references to flowcharts
+included in specification).
+   By way of patent prosecution history, the patent examiner
+apparently pondered whether to deny patentability on
+statutory-subject matter grounds but after consultation with
+other examiners determined that the claimed invention was
+directed to statutory subject matter. The patent application
+originally included both apparatus and method claims. The
+                                    A-22
+
+six apparatus claims were determined to be patentable, while
+the six method claims (phrased identically to the apparatus
+claims except for the absence of means-plus-function language
+as used in claim one quoted above) were rejected. Indeed,
+throughout the patent specification, there are numerous refer-
+ences to the invention as a “data processing system and
+method,” even though the claims themselves state only an
+apparatus. ’056 Patent, col. 4-5. The record does not disclose
+why the method claims were not successfully prosecuted.
+
+   Signature admits that it informed State Street that any data
+processing system designed to perform book accounting for a
+multi-tiered fund arranged in a Hub and Spoke configuration
+likely would infringe the 056 Patent. Answer { 12. State
+Street serves as the custodian and accounting agent for several
+multi-tiered fund complexes and had negotiated with Signa-
+ture for a license for its patented data processing system.
+When negotiations broke down, State Street brought the
+present declaratory judgment action seeking to invalidate Sig-
+nature’s patent.
+
+                               III. Analysis
+
+   State Street alleges that Signature’s patent is not drawn to
+statutory subject matter under 35 U.S.C. § 101 because the
+invention claims an unpatentable mathematical algorithm as
+defined by established Supreme Court precedent. Signature
+counters that its data processing system is a computer-
+implemented invention that is patentable both under recent
+Federal Circuit precedent and guidelines for patent examiners
+issued by the U.S. Patent and Trademark Office (“PTO”).
+
+   The core issue on summary judgment is whether computer
+software that essentially performs mathematical accounting
+functions and is configured to run on a general purpose (i.e.,
+personal) computer is patentable under 35 U.S.C § 101.
+“{T]Jhe question whether computer-related inventions driven
+by mathematically-based software deserve the market pro-
+tection afforded under federal patent law has vexed both
+                                       A-23
+
+  theorists and practitioners since computers entered the mar-
+  ketplace some thirty years ago.” John A. Burtis, Towards a
+  Rational Jurisprudence of Computer-Related Patentability in
+  Light of In re Alappat, 79 MINN. L. REV. 1129, 1129 (1995).
+  It is into this jurisprudential quagmire that the Court must
+  dive.
+
+  A. Summary | Judgment
+
+     Unlike the question presented in this case, the standards for
+ summary judgment are familiar and well defined. “Summary
+ judgment is appropriate when ‘the pleadings, depositions,
+
+  answers to interrogatories, and admissions on file, together
+
+ with the affidavits, if any, show that there is no genuine issue
+ as to any material fact and that the moving party is entitled
+ to judgment as a matter of law.’” “Barbour v. Dynamics
+~ Research Corp., 63 F.3d 32, 36 (1st Cir. 1995) (quoting Fed.
+ R. Civ. P. 56(c)). “To succeed [in a motion for summary judg-
+ ment], the moving party must show that there is an absence
+ of evidence to support the nonmoving party’s position.”
+
+ Rogers v. Fair, 902 F.2d 140, 143 (lst Cir. 1990); see also
+ Celotex Corp. v. Catrett, 477 U.S. 317, 325 (1986).
+
+    “Once the moving party has properly supported its motion
+ for summary judgment, the burden shifts to the non-moving
+ party, who ‘may not rest on mere allegations or denials of his
+ pleading, but must set forth specific facts showing there is a
+ genuine issue for trial.’” Barbour, 63 F.3d at 37 (quoting
+ Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 256 (1986)).
+ “There must be ‘sufficient evidence favoring the nonmoving
+ party for a jury to return a verdict for that party. If the evi-
+ dence is merely colorable or is not significantly probative,
+ summary judgment may be granted.’” Rogers, 902 F.2d at
+ 143 (quoting Anderson, 477 U.S. at 249-50) (citations and
+ footnote in Anderson omitted). The Court must “view the
+ facts in the light most favorable to the non-moving party,
+ drawing all reasonable inferences in that party’s favor.” Bar-
+bour, 63 F.3d at 36.
+
+    The standard for summary judgment here is no different
+                                      A-24
+
+ from that traditionally employed by courts as “summary judg-
+
+ ment is as appropriate in a patent case as any other.” Avia
+ Group Int Inc. v. L.A. Gear Calif., Inc., 853 F.2d 1557,
+
+ 1561 (Fed. Cir. 1988). Moreover, “whether a claim is directed
+ to statutory subject matter is a question of law,” Arrythmia
+ Research Technology, Inc. v. Corazonix Corp., 958 F.2d
+1053, 1055 (Fed. Cir. 1992), that is particularly amenable to
+ decision on summary judgment.
+
+    To prevail on its motion for summary judgment, State
+
+ Street must overcome a statutory presumption favoring the
+
+ validity of Signature’s "C56 Patent. See 35 U.S.C. § 282;
+ Checkpoint Systems, inc. v. United States Intl Trade
+ Comm'n, 54 F.3d 756, 761 (Fed. Cir. 1995) (“A patent is pre-
+ sumed valid [,and] the presumption of validity ... places the
+ burden of going forward and of persuasion on the party
+ asserting invalidity.”).
+
+ B. General Principles of Subject-Matter Patentability
+
+       Section 101 of Title 35 of the U.S. Code provides:
+       Whoever invents or discovers any new and useful process,
+
+         machine, manufacture, or composition of matter, or any
+
+       new and useful improvement thereof, may obtain a
+       patent therefor, subject to the conditions and require-
+       ments of this title.
+ Thus, the statute sets out four categories of subject matter —
+
+ process, machine, manufacture, and composition of matter —
+
+ that are entitled to patent protection provided that the other
+ requirements of patentability (i.e., novelty and non-
+ obviousness under 35 U.S.C. §§ 102-103) are satisfied.
+ Although § 101 has been broadly construed to “include any-
+ thing under the sun that is made by man,” Diamond v.
+ Chakrabarty, 447 U.S. 303, 309-10 (1980) (quoting legislative
+ history of 1952 recodification), “[t]his is not to suggest that
+ § 101 has no limits or that it embraces every discovery.” Id.
+ “To include some things [in § 101] is to exclude others.” In
+
+ re Warmerdam, 33 F.3d 1354; 1358 (Fed. Cir. 1994).
+                                      A-25
+
+    “An idea is itself not patentable, but a new device by which
+ it may be made practically useful is.” Rubber-Tip Pencil Co.
+ v. Howard, 87 U.S. (20 Wall.) 498, 507 (1874). Over time,
+ the Supreme Court further explained this limit to subject
+ matter patentability:
+
+       The laws of nature, physical phenomena, and abstract
+
+        ideas have been held not patentable. Thus, a new
+
+       mineral discovered in the earth or a new plant found in
+       the wild is not patentable subject matter. Likewise, Ein-
+
+       stein could not patent his celebrated law that E = mc*;
+
+       nor could Newton have patented the law of gravity. Such
+
+       discoveries “are manifestations of ... nature, free to all
+
+       men and reserved exclusively to none.”
+Chakrabarty :47 U.S. at 309 (quoting Funk Bros. Seed Co.
+v. Kalo Inne ulant Co., 333 U.S. 127, 130 (1948)) (citations
+
+omitted). Therefore, “[while a scientific truth, or the mathe-
+
+matical expression of it, is not patentable invention, a novel
+and useful structure created with the aid of scientific truth
+may be.” Mackay Radio & Telegraph Co., Inc. v. Radio
+
+Corp. of America, 306 U.S. 86, 92-94 (1939).
+   The reason for this rule is simple, “[p]henomena of nature,
+
+though just discovered, mental processes, and abstract
+intellectual concepts are not patentable, as they are the basic
+tools of scientific and technological work.” Gottschalk v.
+Benson, 409 U.S. 63, 67 (1972). Granting a patent monopoly
+on the use of a scientific principle, rather than on its particular
+practical application, would impede rather than “promote the
+Progress of Science and useful Arts.” U.S. Const. Art. I, cl.
+8 (patent and copyright clause).
+
+   This distinction between abstract idea and patentable sub-
+ject matter, however, is more easily stated than applied. For
+example, while the capacity of electricity to be used as a mode
+
+of communication is not itself patentable, the specific
+
+manifestation of that idea in Morse’s electric telegraph was
+
+held patentable. See O'Reilly v. Morse, 56 U.S. (15 How.) 62,
+
+117 (1853). Similarly, a mathematical equation is not itself
+
+patentable, but its use in a computer-automated synthetic
+                                    A-26
+
+rubber curing process was held statutory subject matter. See
+Diamond v. Diehr, 450 U.S. 175, 185-88 (1981) (holding
+patentable computer-implemented rubber curing process
+because inventors’ “process admittedly employs a well-known
+mathematical equation, but [the inventors] do not seek to pre-
+empt use of that equation. Rather, they seek only to foreclose
+from others the use of that equation in conjunction with all
+the other steps in their claimed process.”).
+
+   The determination of patentability of computer software is
+particularly difficult because a computer program directs the
+computer to perform mathematical functions (i.e., process
+data) to achieve a desired result. See Jur Strobos, Stalking the
+Elusive Patentable Software, 6 HARV. J.L. & TECH. 363,
+377 (1993) (“A computer program is nothing more than a
+series of mathematical steps conducted by a machine com-
+posed of electronic switches and storage sites.”); cf. David L.
+Stewart, Patenting of Software — Proposed Guidelines and
+the Magic Dividing Line that Disappeared, 77 J. PAT. &
+TRADEMARK OFF. SOC’Y 681, 684-88 (1995) (mathematics
+are nothing more than a symbolic language for expressing
+abstract relationships); Random House Unabridged Dic-
+tionary 1186 (2d ed. 1993) (defining mathematics as “the syn-
+thetic treatment of magnitude, relationships between figures
+and forms, and relations between quantities expressed symbol-
+ically.”).
+
+C. The Supreme Court Trilogy
+
+   A trilogy of Supreme Court opinions grapples with the
+scope of patent protection to afford computer software. The
+
+first, Gottschalk v. Benson, 409 U.S. 63, 65 (1972), involved
+
+an attempt to patent “a method of programming a general-
+purpose digital computer to convert signals from binary-coded
+decimal form into pure binary form.” The mathematical
+procedures in Benson could be carried out “in existing com-
+puters long in use, no new machinery being necessary.” Id.
+at 67. Such conversion was achieved through what the Court
+                                      A-27
+
+ termed an algorithm, defined as “[a] procedure for solving a
+ given type of mathematical problem.” Jd. The Court held that
+ the claimed process was not statutory:
+
+        It is conceded that one may not patent an idea. But in
+       practical effect that would be the result if the formula
+        ... Were patented in this case. The mathematical for-
+       mula involved here has no substantial practical applica-
+       tion except in connection with a digital computer, which
+       means that ...the patent would wholly pre-empt the
+       mathematical formula and in practical effect would be
+       a patent on the algorithm itself.
+ Id. at 71-72. Allowing a patent on a computer program that
+simply converts one set of numbers into anothe: would
+preempt the mathematical formula on which the software was
+based. Thus, the Court held the patent invalid.
+   Although the Court stopped short of holding that a com-
+puter software program was never patentable, it held the
+“transformation and reduction of an article ‘to a different
+state or thing’ is the clue to the patentability of a process
+
+claim, that does not include particular machines.” Jd. at 256.
+
+The processing of numbers by means of a mathematical equa-
+tion via a general purpose computer was not sufficient to
+satisfy this requirement.
+
+   In the second case, Parker v. Flook, 437 U.S. 584 (1978),
+
+the Court similarly held unpatentable a process for updating
+“alarm limits” for the catalytic conversion of hydrocarbons.
+Unlike Benson, here the patent was directed to a mathemat-
+ical formula or algorithm tied to a specific post-solution
+activity (i.e., adjusting alarm limits at which chemical reac-
+tions become unstable). Flook, 437 U.S. at 586-87. The Court
+held:
+
+      The notion that post-solution activity, no matter how
+
+      conventional or obvious in itself, can transform an
+
+      unpatentable principle into a patentable process exalts
+      form over substance. A competent draftsman could
+      attach some form of post-solution activity to almost any
+
+      mathematical formula; the Pythagorean theorem would
+                                    A-28
+
+       not have been -patentable, or partially patentable,
+
+      because a patent application contained a final step
+
+       indicating that the formula, when solved, could be use-
+
+      fully applied to existing surveying techniques.
+Id. at 590. Notwithstanding any field-of-use limitation, the
+claimed invention merely calculated numerical values.
+Adopting the reasoning of the Court of Customs and Patent
+Appeals (“C.C.P.A.”) (the Federal Circuit’s predecessor), the
+Court held “‘if a claim is directed essentially to a method of
+calculating, using a mathematical formula, even if the solu-
+tion is for a specific purpose, the claimed method is nonstatu-
+tory.’” Id. at 595 (quoting In re Richman, 563 F.2d 1026,1030
+(C.C.P.A. 1977)). “Very simply”, the Court noted, “[OJur
+holding today is that a claim for an improved method of calcu-
+lation, even when tied to a specific end use, is unpatentable
+subject matter under § 101.” Id. at 594 n.18.
+
+   The final installment in the trilogy is Diamond v. Diehr,
+450 U.S. 175 (1981), where the Court held that a process for
+curing synthetic rubber that employed a computer was
+patentable. The process involved a well-known mathematical
+formula coupled with constant measurement of temperature
+inside a mold; a computer calculated ongoing changes in tem-
+perature and automatically terminated the curing process at
+the proper point with a degree of precision theretofore
+unknown in the art.
+
+   The Court distinguished Benson and Flook by demon-
+strating that the claimed process in Diehr involved more than
+calculating abstract numerical values. 450 U.S. at 188 (for-
+mula for computing an alarm limit was nonpatentable
+because it was “simply a number.”). Rather, the claimed
+process “involve[d] the transformation of an article, in this
+
+case raw, uncured synthetic rubber, into a different state or
+
+thing.” Id. at 184. This element of physical transformation,
+hinted at in Benson and Flook, was made explicit in Diehr:
+
+      We recognize, of course, that when a claim recites a
+      mathematical formula (or scientific principle or
+      phenomenon of nature), an inquiry must be made into
+                                      A-29
+
+        whether the claim is seeking patent protection for that
+        formula in the abstract. A mathematical formula as such
+        is not accorded the protection of our patent laws, and
+        this principle cannot be circumvented by attempting to
+        limit the use of the formula to a particular technological
+        environment.... On the other hand, when a claim con-
+       taining a mathematical formula implements or applies
+
+        that formula in a structure or process which, when consi-
+
+       dered as a whole, is performing a function which the
+       patent laws were designed to protect (e.g., transforming
+       or reducing an article to a different state or thing), then
+       the claim satisfied the requirements of § 101.
+ 450 U.S. at 191-92 (citations to Benson and Flook omitted and
+ emphasis added). The Court clarified that a claim does not
+ become eligible for patent protection simply because all pos-
+ sible uses of the mathematical formula are not preempted. Jd.
+
+ at 192, n.14.
+
+    In dissent, Justice Stevens took the position that the “broad
+question whether computer programs should be given patent
+protection involves policy considerations that this Court is not
+
+authorized to address.” Id. at 216-17. In this confusing area,
+
+he urged that his concerns would better be addressed by:
+       (1) an unequivocal holding that no program-related
+       invention is a patentable process under § 101 unless it
+       makes a contribution to the art that is not dependent
+      entirely on the utilization of a somputer, and (2) an une-
+      quivocal explanation that the term “algorithm” as used
+      in this case, as in Benson and Flook, is synonymous with
+      the term “computer program.”
+
+450 U.S. at 219. This suggestion was consistent with Justice
+
+Douglas’ earlier statement in Benson, where, writing for the
+
+majority, he urged Congress to clarify this murky issue
+through legislation. 409 U.S. at 72-73 (quoting President’s
+Commission on the Patent System (1966)). Unfortunately,
+
+however, the Supreme Court has not re-visited this question
+
+since Diehr and Congress has yet to legislate in this area.
+                                                              A-30
+
+                            Critical commentators have interpreted the Supreme
+                         Court's trilogy as establishing preemption and physical trans-
+                         formation as the twin touchstones of patent protection for
+                         computer software. See Lawrence Kass, Computer Software
+                         Patentability and the Role of Means-Plus-Function Format in
+                         Computer Software Claims, 15 PACE L. REV. 787 (1995)
+                         (“The Supreme Court elaborated on the Benson proscription
+                         against patenting pure mathematical algorithms in Parker v.
+                         Flook and Diamond v. Diehr, which collectively circum-
+                         scribed what may be termed a ‘physicality requirement’ for
+                         processes that contain mathematical algorithms.”); Strobos,
+                         supra, at 387 (“These two ... requirements for software
+                         patentability, are hereinafter referred to as the ‘preemption’
+                         and ‘transformation’ inquiries, respectively.... The first
+                         addresses preemption of human use of this equation by ‘head
+                         and hand.’ The second addresses whether the particular
+                         claimed use is a process with a product, or a transformation
+                         and reduction of a particular entity, such as input data, to
+                         a different state, rather than an idea or ‘patent protection for
+                         that formula in the abstract.’”) (quoting Diehr, 450 U.S. at
+                         184, 187, 190).
+
+                         D. The Freeman-Walter-Abele Test and Subsequent Federal
+                              Circuit Precedent
+
+                            The C.C.P.A. devised a two-part test, also followed by its
+                         successor, the Federal Circuit, to implement the principles
+                         elucidated above. See In re Alappat, 33 F.3d 1526, 1545 (Fed.
+                         Cir. 1994) (noting this two-part analysis is not sole means of
+                         determining whether a computer-implemented invention is
+                         patentable but that it remains a useful analytic tool). Gleaned
+                         from three cases,? the analysis is known as the Freeman-
+                         Walter-Abele test, which the Federal Circuit has recently
+                         described as follows:
+
+                                 > See In re Abele, 684 F.2d 902 (C.C.P.A. 1982); In re Walter, 618 F.2d
+                              758 (C.C.P.A. 1980); In re Freeman, 573 F.2d 1237 (C.C.P.A. 1978).
+
+a
+A-31
+
+It is first determined whether a mathematical algorithm
+is recited directly or indirectly in the claim. If SO, it is
+next determined whether the claimed invention as a
+whole is no more than the algorithm itself; that is,
+whether the claim is directed to a mathematical
+algorithm that is not applied to or limited by physical
+elements or process steps. Such claims are nonstatutory.
+However, when the mathematical algorithm is applied
+to one or more elements of an otherwise statutory process
+claim, ... the requirements of section 101 are met.
+In re Schrader, 22 F.3d 290, 292 (Fed. Cir. 1994) (quoting
+Arrhythmia, 958 F.2d at 1058). To be patentable under this
+test, an invention must “comprise an otherwise statutory
+process whose mathematical procedures are applied to phys-
+ical process steps.” Arrhythmia, 958 F.2d at 1059.
+Signature seeks to avoid application of this test, however,
+by arguing that its patent claims a machine rather than a
+process, and a machine is explicitly statutory under § 101.
+Consistent with this position, the Federal Circuit recently held
+that computer software becomes physical apparatus when run
+on a general purpose computer. See Alappat, 33 F.3d at 1545
+(“We have held that [] programming creates a new machine,
+because a general purpose computer in effect becomes a spe-
+cial purpose computer once it is programmed to perform par-
+ticular functions pursuant to instructions from program soft-
+ware.”); In re Lowry, 32 F.3d 1579, 1583 (Fed. Cir. 1994)
+(data structures designed to permit computer to run more effi-
+ciently “impart a physical organization on the information
+stored in memory”). Therefore, computer software configured
+to run on a general purpose computer, if claimed in means-
+plus-function patent language, is considered a new machine
+Or apparatus as a matter of patent interpretation.
+As the Federal Circuit also recognized, however, this issue-
+
+is not determinative. Regardless of whether the claim is
+drafted as process or apparatus, the Federal Circuit held that
+the mathematical algorithm/physical transformation test for
+statutory subject matter under § 101 applies even to “true
+A-32  ss
+
+apparatus” claims. Alappat, 33 F.3d at 1542. The C.C.P.A.
+also adopted this view:
+
+      Labels are not determinative in § 101 inquiries. “Benson
+      applies equally whether an invention is claimed as an
+      apparatus or process, because the form of the claim is
+      often an exercise in drafting.” In re Johnson, 589 F.2d
+      1070, 1077 (C.C.P.A. 1978) .... Moreover, that the
+      claimed computing system may be a ‘machine’ within
+      ‘the ordinary sense of the word,’ ... is irrelevant.
+
+In re Maucorps, 609 F.2d 481, 485 (C.C.P.A. 1979). The
+
+analysis of the patentability of claimed subject matter there-
+fore does not hinge on whether the claim is drafted in means-
+plus-function language.‘
+
+   As repeated thrice by the Supreme Court and echoed by
+the Federal Circuit and the C.C.P.A., the best clue to patent-
+ability remains the mathematical algorithm/physical transfor-
+mation test. See, e.g., Alappat, 33 F.3d at 1540-45 (holding
+that claimed apparatus — a “rasterizer” — that employs
+mathematical algorithm to enable oscillator to convert dis-
+crete wave form data samples into output illumination data
+for display on screen is statutory); Arrhythmia, 958 F.2d at
+1058-61 (claimed process and apparatus that relate to
+improved means of electronically measuring heart activity are
+statutory; “resulting output is not an abstract number, but is
+a signal related to the patient’s heart activity.”); In re
+
+   ‘ A short illustration will suffice to bring this point home. A portion of
+the process claim in Benson read, “(t]he method of converting signals from
+binary coded decimal form into binary which comprises the steps of ...
+(1) storing the binary coded decimal signals in a reentrant shift register. . . .”
+409 U.S. at 73. Recast in means-plus-function language, this identical claim
+would read, “[an apparatus for] converting signals from binary coded
+decimal form into binary [, comprising:] (1) [means for] storing the binary
+coded decimal signals.” The specification would disclose a reentrant shift
+register as the necessary data storage means. By Signature’s reasoning, this
+purely semantic change would permit a patent on the Benson algorithm.
+The Supreme Court’s holding there did not turn on such semantic differ-
+ences, and neither will the holding of this Court.
+                                     A-33
+
+ Iwahashi, 888 F.2d 1370 (Fed. Cir. 1989) (holding statutory
+ device that transforms human voice data). Although the Fed-
+eral Circuit’s developing precedent is not crystal clear on this
+point,* this test remains the best guidepost for determining the
+patentability of computer software.
+
+    Accordingly, in Schrader, the Federal Circuit declined to
+
+afford patent protection for a linear computer program
+applied to solving business problems. 22 F.3d at 292. There,
+the claimed invention involved a novel way of conducting
+auctions by specifying a method of competitive bidding on a
+plurality of related items, such as contiguous tracts of land
+or the like, so as to maximize sales revenue or profit to the
+seller. The court upheld the rejection of the claimed process
+on the ground it was a non-statutory mathematical algorithm.
+Contrasting claims that “involved the transformation or con-
+version of subject matter representative of or constituting
+physical activity or objects,” as in Arrhythmia, the court held
+that the entering of bids in a record was non-patentable “data
+gathering” and calculating bids to maximize sales revenue
+simply involved processing one set of numbers into another.
+Schrader, 22 F.3d at 293; accord Alappat, 33 F.3d at 1526
+(suggesting that a “business methodology for deciding how
+
+salesmen should best handle respective customers ... [does
+not] fall{] within any § 101 category.”) (citing Maucorps); In
+re Grams, 888 F.2d 835, 840 (Fed. Cir. 1989) (pre-solution
+
+data gathering steps do not impart patentability to invention
+claiming mathematical algorithm); cf. In re Trovato, 42 F.3d
+
+   * Several commentators have lamented that the Federal Circuit has not
+clearly defined the scope of subject matter patentability in this complex
+area. See Burtis, supra, at 1152 (noting that post-Alappat “[t]his area of
+law cries out for a new approach, faithful to Supreme Court precedent yet
+not unnecessarily constrained by a wealth of inconsistent lower court doc-
+trines.”); Ronald S. Laurie & Joseph K. Siino, A Bridge Over Troubled
+Waters? The PTO’s Proposed Examination Guidelines for Computer-
+Implemented Inventions and the Federal Circuit's View(s) on Software
+Patentability, 415 PLI/Pat 103, 103 (1995) (“[T]he [Federal Circuit cases
+dealing with software patentability] collectively represent a range of legal
+perspectives, and defy attempts at full reconciliation, although individual
+facts affecting patentability can be identified.”).
+                                    A-34
+
+1376, 1380-83 (Fed. Cir. 1994) (holding non-statutory appa-
+ratus that calculates numerical values representing shortest
+distance between two points in “physical task space”),
+vacated, 60 F.3d 807(Fed. Cir. 1995) (en banc) (for recon-
+sideration in light of new patent guidelines).
+
+E. The PTO Examination Guidelines
+
+   Recently issued PTO guidelines support this computer soft-
+ware patentability paradigm. On February 28, 1996, Exami-
+nation Guidelines for Computer-Related Inventions (“Guide-
+lines”) were published in the Federal Register and formally
+will become effective on March 29, 1996. 61 Fed. Reg. 7478
+(1996). The Guidelines are designed to assist patent examiners
+in reviewing applications during patent prosecution and are
+intended to be consistent with Supreme Court and Federal
+Circuit precedent. Id. at 7479.
+
+   Although published in the Federal Register, the “Guidelines
+do not constitute substantive rulemaking and hence do not
+have the force and effect of law.” Id. In its order vacating
+the initial panel decision in Trovato, however, the Federal
+Circuit sitting en banc recently suggested that the Guidelines
+may be persuasive authority. 60 F.3d at 807.° Given that the
+expertise of patent examiners is statutorily recognized, see
+Interconnect Planning Corp. v. Feil, 774 F.2d 1132, 1139
+
+(Fed. Cir. 1985), the Court finds that a brief discussion of
+
+the Guidelines is helpful here.
+   As a threshold matter, the PTO provided a framework for
+
+analyzing claims that encompass “any machine or manufac-
+ture embodiment of a process” as follows:
+
+      If a product claim encompasses any and every computer
+      implementation of a process, when read in light of the
+      specification, it should be examined on the basis of the
+      underlying process.
+
+   * Dissenting from the en banc opinion, Judges Nies and Michel argued
+that Trovato should not be read as “an advisory opinion endorsing the pro-
+posed guidelines.” 60 F.3d at 808.
+                                      A-35
+
+ Guidelines, 61 Fed. Reg. at 7482. In other words, when deter-
+
+ mining whether computer sottware is patentable, the manner
+ in which it is claimed is not itself determinative, particularly
+ when the claim language is so broad that any and all means
+ of implementing the claimed functions on a computer would
+
+ be covered by the patent. The PTO, and this Court, must look
+
+ beyond the claim drafting to determine what functions the
+ invention performs. If the underlying process performed by
+the software is non-statutory, a machine claim for the same
+invention is non-statutory. Id. at 7482-83.
+
+    The Guidelines state that “a process that merely manipu-
+lates an abstract idea or performs a purely mathematical
+algorithm is non-statutory despite the fact that it might inher-
+ently have some usefulness.” Jd. at 7484. Incorporating the
+physical transformation test heretofore described in detail, the
+Guidelines also provide:
+
+       If the ‘acts’ of a claimed process manipulate only
+       numbers, abstract concepts or ideas, or signals
+       representing any of the foregoing, the acts are not being
+       applied to appropriate subject matter. Thus, a process
+      consisting solely of mathematical operations, i.e., con-
+      verting one set of numbers into another set of numbers,
+      does not manipulate appropriate subject matter and thus
+
+        cannot constitute a statutory process.
+
+Id. (emphasis added). The Guidelines point out that a claimed
+process “that consists solely of mathematical operations is non-
+statutory whether or not it is performed on a computer.” Id.
+However, a process will receive statutory protection if it is
+limited to a practical application of the abstract idea or
+mathematical algorithm in the technological arts (i.e., involve
+some species of physical transformation of input data). Id.”
+
+   * The examples given in the Guidelines demonstrate the diffuculty in
+applying these general principles and were helpful to this Court only when
+referring to particular cases.
+                                    A-36
+
+F. The 056 Patent Analyzed
+
+   With the foregoing in mind, the Court will analyze the 056
+Patent to determine whether Signature’s claimed invention,
+a data processing system, is drawn to statutory subject matter.
+
+            1. Step One: Mathematical Algorithm Test
+
+   The first step in determining whether the '056 Patent is
+drawn to statutory subject matter is deciding whether it
+recites, directly or indirectly, a mathematical algorithm,
+which the Supreme Court in Benson described as “a procedure
+for solving a given type of mathematical problem.” 409 U.S.
+at 65; see also Schrader, 22 F.3d at 293; Arrhythmia, 958 F.2d
+at 1056 n.3. Under this broad definition, any series of mathe-
+matical operations or calculations recite a mathematical
+algorithm. Cf. Alappat, 33 F.3d at 1542-43 & nn. 18-20
+(analyzing Supreme Court trilogy and noting that opinions use
+terms interchangeably).®
+
+   Although the ’056 Patent claims do not directly recite a
+mathematical formula, the data processing system is an
+apparatus specifically designed to solve a mathematical
+problem. Indeed, the specification is quite clear in this regard:
+“The present invention provides a data processing system and
+method for monitoring and recording the information flow
+and data, and making all calculations, necessary for main-
+taining_a partnership portfolio and partner fund (Hub and
+
+   ® This Court recognizes that the Federal Circuit in Alappat cautioned
+against relying exclusively on the mathematical algorithm test. 33 F.3d at
+1542-43 (mathematical algorithm exception simply short-hand expression of
+principle “that certain types of mathematical subject matter, standing
+alone, represent nothing more than abstract ideas ....”). Therefore, the
+Court parses the '056 Patent not only to determine whether it states a mathe-
+matical algorithm but also to judge “whether the claim ... goes beyond
+simply manipulating ‘abstract ideas’ or ‘natural phenomena.’” War-
+merdam, 33 F.2d at 1360. The mathematical algorithm test is only the first
+step in this inquiry.
+                                     A-37
+
+Spoke) financial services configuration.” ’056 Patent col.4
+(emphasis added). The specification also is replete with flow
+charts that describe the numerous data processing steps. Most
+importantly, the claims themselves recite calculating data as
+a function of the machine. Id. at col. 13-15 (claims 3-6).
+
+   These calculations, among others, include: (1) daily
+allocating the assets of two or more funds that are invested
+in the partnership portfolio; (2) determining each fund’s per-
+centage share in the partnership entity, taking into considera-
+tion incremental changes in the portfolio’s investment securi-
+ties and the amount of each fund’s assets; (3) allocating to each
+fund the portfolio’s daily income, expenses, and net unrealized
+gain or loss; and (4) tracking and storing this information for
+calculating annual tax information. Interpreted in light of the
+specification, the ‘056 Patent claims recite means for solving
+a series of mathematical problems.
+
+   This conclusion gains support from the Federal Circuit’s
+decision in Schrader. There, the patent claimed a method for
+grouping bids at a competitive auction in order to maximize
+revenue for the seller. 22 F.3d at 291-92. The Court held that
+“(t]he claim language ... describes the solving of a mathe-
+matical problem: determining the optimal combination of
+bids.” Id. at 293. The C.C.P.A. reached the same conclusion
+in earlier cases. See Maucorps, 609 F.2d at 486 (“[A]ppellants’
+claimed invention as a whole comprises each and every means
+for carrying out a solution technique for a set of equations
+wherein one number is computed from a set of numbers.”);
+In re Gelnovatch, 595 F.2d. 32, 41 n.7 (C.C.P.A. 1979)
+(“Appellants’ process as a whole comprises a solution tech-
+nique for a set of equations wherein sets of numbers are com-
+puted from other sets of numbers.”). An invention that inputs,
+processes, and outputs numbers must by definition perform
+mathematical operations.
+
+           2. Step Two: Physical Transformation Test
+
+  The second step under the Freeman-Walter-Abele test is
+                                     A-38
+
+determining whether the claimed invention is applied to or
+limited by physical elements or process steps. Regardless of
+
+whether the invention performs mathematical operations, if
+
+it transforms or reduces subject matter to a different state or
+thing, it is statutory under § 101. While not conclusive, the
+clue is physical transformation. The Court holds that Signa-
+ture’s data processing system fails this physicality test.
+
+   The inve:ion claimed by the ’056 Patent is unlike the
+computer-implemented inventions that the Federal Circuit
+has deemed statutory in the past. Alappat held patentable a
+device for transforming numerical values to display smooth
+waveform data on an oscilloscope. Through mathematical
+operations that could be performed on a computer, the
+“rasterizer” permitted an oscilloscope to operate in a manner
+theretofore not possible and thus was “a specific machine to
+produce a useful, concrete, and tangible result.” 33 F.3d at
+1544. At least as described in the majority opinion, the phys-
+ical transformation (i.e., discrete waveform data samples into
+anti-aliased pixel illumination data to be displayed on a dis-
+play means) went beyond manipulation of mathematical con-
+structs. But see Id. at 1564 (Archer, C.J., dissenting) (arguing
+that “rasterizer is simply the mathematical conversion of
+data” which should not be patentable) (emphasis in original).
+
+   Similarly, Arrhythmia involved an invention that enabled
+a certain type of human heart activity to be measured,
+processed, and displayed electronically. Although mathemat-
+ical calculations were part of the process, the invention “was
+properly viewed as a method of analyzing electrocardiograph
+signals in order to determine a specified heart activity.” 958
+F.2d at 1059. “[T]he number obtained is not a mathematical
+
+abstraction; it is a measure in microvolts of a specified heart
+activity, an indicator of the risk of ventricular tachycardia.”
+
+Id. at 1060. This transformation also was sufficiently physical
+to warrant patent protection. See also Abele, 684 F.2d at
+908-909 (holding patentable invention involving physical
+transformation of x-ray data for display on CAT scan); In re
+                                     A-39
+
+Taner, 681 F.2d 787, 790 (C.C.P.A. 1982) (holding statutory
+computer-implemented method of seismic exploration).°
+
+   Signature’s invention does not involve this type of transfor-
+
+mation. Rather, like other accounting methods, it is designed
+
+to manipulate and record numbers. Unlike the electrocardio-
+graph in Arrhythmia and the CAT scan in Abele, Signature’s
+data processing system does not “involve[] the transformation
+or conversion of subject matter representative of or con-
+stituting physical activity or objects.” Schrader, 22 F.3d at
+
+294. And, unlike the rasterizer in Alappat, the invention does
+
+not physically convert the data upon which it operates into
+a new and totally different form. A change of one set of
+
+numbers into another, without more, is insufficient to confer
+
+patent protection. The invention does nothing other than
+
+present and solve a mathematical algorithm and, therefore,
+
+is not patentable. Cf. Abele, 684 F.2d at 904 (requiring inven-
+tion to do more than “present and solve a mathematical
+algorithm” to be statutory).
+
+   Consistent with this Court’s conclusion, the Federal Circuit
+
+recently held non-statutory a computer-implemented inven-
+tion that compiled, processed and stored business data. As
+previously noted, in Schrader, the patent application claimed
+a method for grouping bids at auction to maximize sales
+revenue for the auctioneer. The court held that “there is
+nothing physical about bids per se. Thus, the grouping or
+regrouping of bids cannot constitute a physical change, effect,
+
+   * Even in Lowry, which involved the patentability of “data structures”
+under §§ 102-103, the court based its decision in part on the fact that these
+mathematical constructs worked a “physical” change upon the computer
+itself that increased its operational efficiency. 32 F.3d at 1583. Here the
+invention does not claim data structures. Moreover, because Lowry does
+not include a discussion of subject matter patentability under § 101, it is
+of little assistance in the present matter. In addition, a different panel of
+the Federal Circuit held data structures to be unpatentable under § 101.
+See Warmerdam, 33 F.3d at 1360.
+                                    A-40
+
+or result.” 22 F.3d at 293-94. An additional step of recording
+the compiled bid data was insufficient to confer patentability
+because “the step of entering data into a ‘record’ is implicit
+in any application of a mathematical algorithm.” Id. at 294.
+Citing the Supreme Court in Flook and the Federal Circuit
+in In re Grams, the court noted that both pre-solution data
+gathering activity and insignificant post-solution activity (i.e.,
+recording data) “in a claim involving the solving of a mathe-
+matical algorithm could not impart patentability to the
+claim.” Schrader, 22 F.3d at 294 (citing Flook, 437 U.S. at
+590; In re Grams, 888 F.2d 835, 840 (Fed. Cir. 1989)).
+
+   The C.C.P.A. reached the same conclusion on similar facts.
+In Maucorps, the claims were drawr to an apparatus for
+determining the optimum number of t..nes a salesman should
+visit a client over a given length of time. 609 F.2d at 484-85.
+The sales model was held unpatentable because the “claimed
+invention as a whole comprises each and every means for car-
+rying out a solution technique for a set of equations wherein
+one number is computed from a set of numbers.” Id. at 486.
+As noted by the Alappat Court, the business methodology in
+Maucorps clearly did not fall within any § 101 category.
+
+Alappat, 33 F.3d at 1541.
+   Signature’s data processing system similarly does not fall
+
+within § 101’s enumeration of patentable subject matter. Like
+the business-related systems in Schrader and Maucorps, the
+056 Patent claims an invention that essentially performs
+mathematical calculations on data gleaned from pre-solution
+activity and stores and displays the results. As with Schrader’s
+bids, the fact that those numbers represent financial con-
+structs, such as the Hub and Spoke configuration, does not
+save Signature’s patent. The claims do not recite any sig-
+nificant pre- or post-solution activity. Neither does the inven-
+tion measure physical objects or phenomena as in Arrhythmia
+or Abele nor does it physically convert data into a different
+form as in Alappat.
+
+   “In all instances, this critical question must be answered:
+‘What did applicants invent?” Grams, 888 F.2d at 839
+                                     A-4]
+
+(quoting Abele, 684 F.2d at 907). At bottom, the invention
+is an accounting system for a certain type of financial invest-
+ment vehicle claimed as means for performing a series of
+mathematical functions. Quite simply, it involves no further
+physical transformation or reduction than inputting numbers,
+calculating numbers, outputting numbers, and _ storing
+numbers. The same functions could be performed, albeit less
+efficiently, by an accountant armed with pencil, paper, calcu-
+lator, and a filing system. “The dispositive issue is whether
+the claim[s] as a whole recite[] sufficient physical activity to
+constitute patentable subject matter.” Schrader, 22 F.3d at
+294 n.9. The Court holds that Signature’s data processing
+system does not.
+
+G. The Business Methods Exception
+
+   The Court’s decision comports with another doctrinal
+exclusion from subject matter patentability known as the
+“business methods exception.” Numerous patent treatises
+recite the long-established principle that “business ‘plans’ and
+‘systems’ are not patentable, even though they may not be
+dependent upon the aesthetic, emotional, or judgmental reac-
+tions of a human.” 1 Donald S. Chisum, Patents: A Treatise
+on the Law of Patentability, Validity and Infringement
+§ 1.03[5] at 1-75 (1990); see also 1 Ernest Bainbridge Lip-
+scomb III, Walker on Patents § 2:17 at 171 (3d ed. 1984) (“[A]
+‘system’ or method of transacting business is not an ‘art,’ [i.e.,
+process} nor does it come within any other designation of
+patentable subject matter ... apart from the physical means
+of conducting the system.”); 1 Peter D. Rosenberg, Patent
+Law Fundamentals § 6.02[3] at 6-82 (2d ed. 1995) (“Whereas
+an apparatus or system capable of performing a business func-
+tion may comprise patentable subject matter, the law remains
+that a method of doing business whether or not generated by
+an apparatus or system does not constitute patentable subject
+matter.”).
+                                    A-42
+
+   As established by a series of older cases, business methods
+
+are unpatentable abstract ideas. See Loew’s Drive-In
+
+Theatres, Inc. v. Park-In Theatres, Inc., 174 F.2d 547, 552
+
+(1st Cir.) (equating methods of doing business with abstract
+idea doctrine), cert. denied, 338 U.S. 822 (1949); Hotel Secu-
+rity Checking Co. v. Lorraine Co., 160 F. 467, 469 (2d Cir.
+1908) (same). Recent decisions, while not holding explicitly
+on these grounds, recognize the continued validity of that
+rule. See Alappat, 33 F.3d at 1541 (suggesting that “business
+methodology” is not § 101 subject matter); Grams, 888 F.3d
+at 837 (listing “methods of doing business” as among
+categories of non-patentable subject matter); Ex parte
+Murray, 9 U.S.P.Q.2d 1819, 1820 (PTO Bd. of Patent App.
+& Int. 1988) (declaring non-statutory bank accounting
+
+system). But see Paine, Webber, Jackson & Curtis, Inc. v.
+
+Merrill Lynch, Pierce, Fenner & Smith, Inc., 564 F. Supp.
+1358, 1369 (D. Del. 1983) (holding patentable computerized
+system of combining package of popular financial services
+because invention did not recite Benson algorithm); Schrader,
+22 F.3d at 297 (Newman, J. dissenting) (urging that the
+method of doing business exception be “described as error-
+prone, redundant and obsolete.”)
+
+   If Signature’s invention were patentable, any financial
+
+institution desirous of implementing a multi-tiered funding
+complex modelled on a Hub and Spoke configuration would
+be required to seek Signature’s permission before embarking
+on such a project. This is so because the 056 Patent is claimed
+sufficiently broadly to foreclose virtually any computer-
+implemented accounting method necessary to manage this
+type of financial structure. Indeed, during licensing negotia-
+tions, Signature informed State Street that any data processing
+system designed to perform book accounting for a multi-tiered
+fund based on a partnership portfolio configuration would
+infringe the 056 Patent. See Answer 12.
+
+   In effect, the 056 Patent grants Signature a monopoly on
+its idea of a multi-tiered partnership portfolio investment
+
+structure; patenting an accounting system necessary to carry
+                                    A-43
+
+on a certain type of business is tantamount to a patent on the
+business itself. Because such abstract ideas are not patentable,
+either as methods of doing business or as mathematical algo-
+rithm, the 056 Patent must fail.
+
+                   IV. Signature’s Counter-Claims
+
+   Signature has made two counterclaims under M.G.L. c.
+93A: (1) a damages claim against State Street for bringing
+what Signature alleges to have been frivolous litigation and
+falsely claiming that its patent was invalid (Count I); and (2)
+a declaration that State Street is bound by an oral licensing
+agreement over use of the data processing system (Count II).
+
+   The Court sua sponte may decide issues relating to the scope
+of its subject-matter jurisdiction. See Fed. R. Civ. P. 12(h)(3)
+(“Whenever it appears by suggestion of the parties or other-
+wise that the court lacks jurisdiction of the subject matter,
+the court shall dismiss the action.”). Signature claims that the
+Court has jurisdiction over these counter-claims pursuant to
+28 U.S.C. §§ 1338(b), 1367, and 2201. Sections 2201 and
+1338(b) are provisions enabling the Court to grant declaratory
+relief and granting jurisdiction to assert claims of unfair com-
+petition “when joined with a substantial and related claim”
+under the patent laws. Section 1367 governs the Court’s exer-
+cise of supplemental jurisdiction.
+
+   The Court’s decision granting State Street’s motion for sum-
+mary judgment necessarily also disposes of the first of Signa-
+ture’s counter-claims. Certainly, no unfair trade practice
+claim can be maintained based on the frivolity of State Street’s
+declaratory judgment action once State Street’s requested
+
+relief has been granted. Therefore, this first counter-claim is
+
+dismissed.
+   This ruling dispenses with all claims over which the Court
+
+had original jurisdiction. Subject matter jurisdiction was
+predicated solely on the federal patent claims, and there is
+no diversity jurisdiction as the parties both have their prin-
+ciple place of business in Massachusetts. Thus, the second
+                                    A-44
+
+counterclaim is before this Court solely under its supplemental
+jurisdiction. Section 1367 provides that this Court “may
+decline to exercise supplemental jurisdiction over a claim .. .
+if ... the district court has dismissed all claims over which
+it has original jurisdiction.” 28 U.S.C. § 1367(c)(3).
+
+   Whether declaratory relief should be accorded to Signature
+based on the validity of an alleged oral license agreement is
+a question best presented to a state court. At this early stage
+in the proceedings, when neither party has briefed or
+presented evidence on this state claim, considerations of judi-
+cial economy dictate that the counter-claim be dismissed
+without prejudice. See McIntosh v. Antonino, 71 F.3d 29, 33
+n.3 (1st Cir. 1995) (holding that when district court appropri-
+ately grants summary judgment on federal claim, it may
+dismiss remaining supplemental claims if no legitimate federal
+
+question exists).'®
+
+                        V. Conclusion and Order
+
+   For the foregoing reasons, the Court holds that the 056
+Patent is directed to non-statutory subject matter under § 101
+and is therefore invalid. Acc«rdingly, State Street’s motion for
+partial summary judgment (Docket 44-1) is ALLOWED. Also
+for the reasons stated above, Signature’s counter-claims are
+hereby DISMISSED — the second one involving the alleged
+oral licensing system — without prejudice.
+
+/s/ PATTI B. SARIS
+United States District Judge
+
+   ‘© As neither party has briefed this issue, the Court would entertain a
+motion for reconsideration as to this disposition of the counter-claims.
+                              A-45
+
+NOTE: Pursuant to Fed. Cir. R. 47.6, this order
+ is no. citable as precedent. It is a public order.
+
+United States Court of Appeals for the Federal Circuit
+                               96-1327
+
+STATE STREET BANK AND TRUST COMPANY,
+                         PLAINTIFF-APPELLEE,
+                                       V.
+
+      SIGNATURE FINANCIAL GROUP, INC.,
+                      DEFENDANT-APPELLANT.
+
+                                 ON MOTION
+Before RICH, Circuit Judge.
+
+                                  ORDER
+
+   State Street Bank and Trust Company moves to stay
+issuance of the mandate pending a petition for certiorari to
+
+the Supreme Court. Signature Financial Group, Inc. opposes.
+
+   Upor consideration thereof,
+   IT IS ORDERED THAT:
+
+   State Street’s motion te stay issuance of the mandate is
+
+granted. Within 14 days of the grant or denial of State Street's
+petition, State Street must notify the court. In the event the
+Supreme Court denies the petition, the clerk of this court will
+issue the mandate.
+
+28 Aug. ‘98                                 /s/ Giles S. Rich
+Date                                        Giles S. Rich
+                                            Circuit Judge
+ce: William L. Patton, Esq,
+     Steven L. Friedman, Esq.                            :
+     William T. Ellis, Esq.
+
+     Robert C. Scheimfeld, Esq.
+     Laurie S. Hane, Esq.
+

@@ -1,0 +1,2770 @@
+                                  la
+
+UNITED STATES COURT OF APPEALS
+
+            FOR THE SECOND CIRCUIT
+
+Nos. 331, 857—August Term, 1996
+
+(Argued November 20, 1996  Decided June 13, 1997)
+
+Docket Nos. 96-7447, 96-7619
+
+TSUI  YUAN TSENG,
+
+                           Plaintiff-Appellant-
+                                Cross-Appellee,
+
+      aa ¥ ao
+
+EL AL ISRAEL AIRLINES, LTD.,
+
+                                Defendant-Appellee-
+                                      Cross-Appellant.
+
+Before:
+
+                      NEWMAN, Chief Judge,
+      CARDAMONE and ALTIMARI, Circuit Judges.
+
+   Appeal from a judgment entered in the United States
+District Court for the Southern District of New York
+(Stanton, J.), following a bench trial, finding in favor of
+plaintiff on her claim of property damage and awarding
+                                   2a
+
+her $1,034.90, but dismissing plaintiff's claims for per-
+sonal injury for failure to establish an injury cognizable
+under Article 17 of the Warsaw Convention.
+
+   Affirmed in part, reversed in part, and remanded.
+
+   ROBERT H. SILK, New York, New York
+         (Silk, Bunks, & Suckle, P.C., New York,
+         New York, of counsel), for Plaintiff-
+         Appellant.
+
+   DIANE WESTWOOD WILSON, New York,
+
+          New York (Debra A. Shields, Condon &
+         Forsyth, New York, New York, of coun-
+         sel), for Defendant-Appellee.
+
+CARDAMONE, Circuit Judge:
+
+   We have two issues to resolve on this appeal. One
+
+relates to the meaning of the term “accident” under Arti-
+cle 17 of the Warsaw Convention. The second, and by
+far more elusive, is whether a plaintiff denied a remedy
+for alleged injuries under the Convention because it does
+not apply may then pursue a claim for the same injuries
+in state court. The Supreme Court has not answered this
+question, and our search for the correct answer is some-
+what reminiscent of Sir Galahad’s search for the “Holy
+
+Grail.” But unlike that Crusader who, pressing on, left
+the plain and climbed the height,' we must toil in the
+
+'  So pass I hostel, hall, and grange;
+
+   By bridge and ford, by park and pale.
+3a  -
+
+valley, examining the Convention’s language, its draft-
+ing history, decisional law and the thoughts of scholarly
+commentators.
+
+   Plaintiff Tsui Yuan Tseng (plaintiff or appellant)
+appeals from a judgment entered in the United States
+District Court for the Southern District of New York
+(Stanton, J.) that awarded her $1,034.90 for damages
+
+against defendant E! Al Israel Airlines, Ltd. (E! Al) for
+loss of her baggage, but dismissed her personal injury
+claim against the same defendant for failure to establish
+a cognizable injury.
+
+   Tseng alleged that El Al caused her to suffer personal
+injuries when it subjected her to a security search prior
+to her boarding an El Al flight from New York to Tel
+Aviv, Israel, and that the airline damaged and/or lost
+some of her personal belongings while searching her
+luggage. The district court ruled that the carrier's con-
+duct constituted an “accident,” giving rise to liability
+under Article 17 of the Warsaw Convention,? but that
+Tseng was barred from recovery because the only
+injuries she alleged were psychological and emotional,
+not physical.
+
+                         BACKGROUND
+
+   Tseng, a New York resident employed by Beth Israel!
+Medical Center, went on May 22, 1993 to John F.
+
+                             All-arm'd I ride, whate’'er betide,
+                                  Until I find the Holy Grail.
+
+        Alfred Lord Tennyson, Sir Galahad, in The Poetic and Dramatic Works
+        of Alfred Lord Tennyson 101, 101 (WJ. Rolfe ed., Cambridge ed.
+        Houghton, Mifflin & Co. 1898).
+
+    2 Convention for Unification of Certain Rules Relating to International
+
+         Transportation by Air, concluded Oct. 12, 1929, 49 Stat. 3000, T.S. No.
+        876 (1934), reprinted in 49 U.S.C. § 40105 note.
+                                      4a
+
+Kennedy International Airport in New York where she
+was scheduled to take El Al Flight LY-008 to Tel Aviv.
+Upon arrival, she proceeded to El Al’s terminal, pre-
+sented her ticket and U.S. passport to an El Al security
+guard, entered the terminal building and proceeded to a
+security area, where she was asked routine questions
+regarding her destination. Based upon her responses,
+which the security guard considered illogical—no expla-
+nation of why they were considered so is in the record—
+Tseng was classified as a “high risk” passenger.
+
+   Pursuant to the airline’s security procedures, plaintiff
+was taken to a private room where she was subjected to
+a security search for explosives or detonating devices.
+The term “security search” refers to an intrusive search
+of a passenger's body initiated after a routine check by
+metal detector and questioning have led airline person-
+nel to deem a passenger a security risk. Tseng was told
+to remove her shoes, jacket and sweater, and then
+instructed to lower her blue jeans to mid-hip level. A
+female security guard proceeded to search Tseng’s entire
+body manually, including her breasts and groin area. The
+search, conducted outside Tseng’s clothing, lasted 15
+minutes. Security guards also searched Tseng’s baggage.
+The security search of Tseng and her baggage conformed
+to El Al procedures, which had been adopted pursuant to
+Federal Aviation Administration regulations.
+
+   Following the search, El Al decided that Tseng did not
+present a security risk after all and she was permitted to
+board her flight. Plaintiff testified that, as a result of
+defendant's search, she “was really sick and very upset”
+during the course of the flight, and “emotionally trau-
+matized and disturbed” throughout her month-long trip
+to Israel and thereafter. Subsequently, she underwent
+ medical and psychiatric treatment; but, at no time did
+                                         Sa
+
+Tseng claim she suffered any physical injury as a result
+of the bodily search.
+
+   During the flight plaintiff was unable to locate several
+personal items she had in her carry-on bag, and, upon
+arriving in Tel Aviv, she was missing, among other
+things, $1000 in cash and a diamond Rolex watch. Tseng
+did not inquire about the lost items during her flight or
+upon landing in Tel Aviv. However, while at the Tel Aviv
+airport she did inquire about her camera, which had been
+confiscated at JFK to be X-rayed. When plaintiff arrived
+at her hotel, she telephoned the airline’s Tel Aviv office
+to inquire about the camera and the other missing items.
+She testified that an E] Al representative informed her
+that she must take care of the matter in New York, and
+
+that the airline was “not interested in [her] missing
+items.” On July 1, 1993, having returned from her trip,
+
+Tseng provided written notice to El Al’s New York
+office that several items that accompanied her to the E]
+Al Terminal for departure on her trip were either miss-
+ing or damaged.
+
+   Since she did not obtain a satisfactory response, plain-
+tiff initiated the action giving rise to this appeal by fil-
+ing a complaint in May 1994 in the New York State
+Supreme Court for New York County. The complaint
+alleged a state law personal injury claim arising from the
+assault and false imprisonment; it also asserted a prop-
+erty claim relating to her lost and/or damaged property.
+El Al removed the case to federal court pursuant to 28
+U.S.C. § 1441(d), because El Al is a “foreign state”
+within the meaning of 28 U.S.C. § 1603(a), which pro-
+vides that “[a} ‘foreign state’. . . includes a political
+subdivision of a foreign state or an agency or instru-
+mentality of a foreign state-”
+                                             6a
+
+   In federal court, El Al argued that plaintiff’s action
+was governed by the Warsaw Convention. The district
+court agreed, ruling it applicable because the airline’s
+search of plaintiff constituted an “accident” within the
+meaning of Article 17. In applying the Convention, the
+trial court found the carrier liable under Article 18 for
+the loss and damage to Tseng’s carry-on and checked
+baggage, and awarded her $1,034.90. The property loss
+award was calculated under Articles 22(2) and (3) of the
+Convention, which limit recovery for checked baggage
+to 250 francs per kilogram of baggage, and limit recov-
+ery for carry-on baggage to 5000 francs per person.
+These amounts have been converted to $20 per kilogram,
+or $9.07 per pound, for checked baggage and $400
+per passenger for carry-on luggage. See 14 C.F.R.
+§ 221.176(a); Warsaw Convention Liability Limitations,
+39 Fed. Reg. 1526 (1974). Because the weight of Tseng’s
+baggage could not be determined, the district court used
+the maximum weight allowed by El Al for checked bag-
+gage—70 pounds—to make its calculation. Tseng’s per-
+sonal injury claim was dismissed because she failed to
+show a physical injury as required by Article 17.
+
+   Plaintiff appeals the dismissal of her personal injury
+claim and El Al cross-appeals from the property damage
+award. We affirm, in part, and reverse, in part, and
+remand to the district court for further proceedings.
+
+                              DISCUSSION
+
+   We are presented with two issues of considerable
+import. First, we must determine whether the security
+search of a passenger initially suspected of presenting a
+possible risk of terrorism but who is later determined not
+to present a danger constitutes an “accident” within the
+                                              7a
+
+ meaning of Article 17 of the Warsaw Convention. Sec-
+ ond, if the answer to the first question is “no,” we must
+ then determine whether the Convention provides the
+exclusive avenue for recovery of injuries sustained dur-
+ ing international air travel even in cases where the terms
+of the Convention do not apply and it does not therefore
+subject the carrier to liability for damages.
+
+    Because there are a number of decisions setting forth
+the basic structure of the Convention—a comprehensive
+overview of it is set forth in Jn re Air Disaster at
+
+Lockerbie, Scotland, 928 F.2d 1267, 1270-71 (2d Cir.
+
+ 1991) [Lockerbie I]|—we discuss it only insofar as nec-
+essary to the resolution of the issues before us.
+
+                                I Article 17
+
+                    A. Definition of “Accident”
+
+   Tseng maintains it was error to dismiss her personal
+injury claims for want of a cognizable injury. The dis-
+trict court ruled that a security search of a passenger
+based upon suspicion of circumstances that turned out
+not to involve any danger constitutes an accident, sub-
+jecting the carrier to liability under Article 17. Carrier
+liability for personal injuries sustained by passengers
+engaged in international air travel is governed by Arti-
+cle 17 of the Convention, which states:
+
+         The carrier shall be liable for damage sustained in
+      the event of the death or wounding of a passenger or
+      any other bodily injury suffered by a passenger, if
+      the accident which caused the damage so sustained
+      took place on board the aircraft or in thé course of
+      any of the operations of embarking or disembarking.
+                                         8a
+
+      Article 17 applies where (1) an accident has occurred,
+  in which (2) a passenger suffered death, wounding, or
+~ any other bodily injury, and (3) the accident occurred
+  either on board the aircraft or in the course of embarking
+  or disembarking from the plane. See Eastern Airlines,
+  Inc. v. Floyd, 499 U.S. 530, 535-36 (1991). All three of
+  these requirements must be met to invoke Article 17 lia-
+  bility. If a passenger satisfies the requirements for Arti-
+  cle 17 liability, the amount of that liability was once
+
+  limited to $75,000, see In re Air Disaster at Lockerbie
+  Scotland, 37 F.3d 804, 812 (2d Cir. 1994), but 77 inter-
+  national carriers recently agreed to eliminate the $75,000
+  liability cap and impose strict liability up to 100,000
+  Special Drawing Rights (SDRs), roughly equivalent to
+  $145,000, see International Air Transport Association
+  Intercarrier Agreement on Passenger Liability, approved
+  by D.O.T. Order 96-11-6, 1996 WL 656334 (D.O.T. Nov. -
+   12, 1996). See DOT Approval Allows Liability Limits to
+  be Abolished, Air Safety Wk., Nov. 18, 1996. However,
+  a plaintiff may not recover for purely psychic injuries.
+  See Floyd, 499 U.S. at 552.
+
+      Although the Convention does not define the term
+  “accident,” the Supreme Court describes it as “an unex-
+  pected or unusual event or happening that is external to
+  the passenger.” Air France v. Saks, 470 U.S. 392, 405
+  (1985). Yet “not every identifiable incident or occur-
+  rence during a flight is an accident within the-meaning
+  of Article 17 even if the incident or occurrence gives
+  rise to an injury.” Quinn v. Canadian Airlines Int'l Ltd.,
+   No. 35558/91U, 1994 Ont. C. J. LEXIS 1695, at *10 (Ct.
+   Just. May 30, 1994) (air turbulence not an accident); see
+   Pflugv. Egyptair Corp., 961 F.2d 26, 28-29 (2d Cir.
+   1992) (hijacking is an accident).
+                                          9a
+
+   Thus, “accident” does not include those typical events
+that a passenger may be presumed to have accepted, that
+is to say, those injuries occurring in the normal operation
+of the aircraft or the airline are not injuries caused by
+“accidents” under Article 17. See Saks, 470 U.S. at 406:
+Abramson v. Japan Airlines Co., Ltd., 739 F.2d 130, 133
+(3d Cir. 1984); Salerno v. Pan American World Airways,
+Inc., 606 F. Supp. 656, 657 (S.D.N.Y. 1985). Rather, it is
+only those unexpected “risks characteristic of air travel”
+that may occur during flight or in the course of embark-
+ing or disembarking and that are external to the pas-
+senger which may be called “accidents.” See Curley v.
+
+American Airlines, Inc., 846 F. Supp. 280, 283 (S.D.N.Y.
+
+1994); see also Daniel Goedhuis, National Airlegisla-
+
+tions and the Warsaw Convention 200-01 (1937). A “risk
+
+characteristic of air travel” is one that is to some extent
+unique to air travel, or to which carriage by air is pecu-
+liarly susceptible. See Martinez Hernandez v. Air
+France, 545 F.2d 279, 284 (1st Cir. 1976) (“[W]e think
+
+the risk of a random attack such as [a terrorist attack
+
+inside the baggage claim area] is not a risk characteris-
+tic of travel by aircraft, but rather is a risk of living in a
+
+world such as ours.”).
+
+   At the time of the Convention’s drafting, the delegates
+to the Warsaw conference understood “accident” to
+apply primarily to air disasters such as plane crashes.
+See Day v. Trans World Airlines, Inc., 528 F.2d 31, 37-
+
+38 (2d Cir. 1975); Second International Conference on
+Private Aeronautical Law: Minutes 52 (Robert C. Horner
+& Didier Legrez trans., 1975) [hereinafter Minutes]
+
+(“[OJne can classify aircraft accidents in three cate-
+gories: those which arise out of errors of piloting; those
+which arise out of defect in the functioning of the air-
+craft{;] and those which are designated as being the
+                                      10a
+
+result of an Act of God, which is the majority of
+cases.”).
+
+   “Since 1929, the risks of aviation have changed dra-
+matically in ways unforeseeable by the Warsaw
+framers.” Day, 528 F.2d at 37. As a result, courts regu-
+larly have viewed as “accidents” such events as terror-
+ist attacks, see, e.g., id. at 37-38, hijacking, see, e.g.,
+Pflug, 961 F.2d at 29; Haddad v. La Compagnie
+Nationale Air France SA [1981] E.C.C. 207 (CA Paris
+1979), and bomb threats, see, e.g., Margrave v. British
+Airwcys, 643 F. Supp. 510, 512 (S.D.N.Y. 1986);
+Salerno, 606 F. Supp. at 657. On the other hand, the term
+has been held not to apply in instances such as death of
+a passenger by natural causes, see, e.g., Walker v. East-
+ern Air Lines, Inc., 785 F. Supp. 1168, 1170 (S.D.N.Y.
+1992), fights between passengers, see, e.g., Price v.
+British Airways, No. 91 Civ. 4947, 1992 WL 170679, at
+*3 (S.D.N.Y. July 7, 1992), routine repressurization of
+the aircraft, see, e.g., Warshaw v. Trans World Airlines,
+Inc., 442 F. Supp. 400, 413 (E.D. Pa. 1977), or injuries
+resulting from intoxication, see, e.g., Padilla v. Olympic
+Airways, 765 F. Supp. 835, 838 (S.D.N.Y. 1991).
+
+   Given the near absolute liability now imposed by the
+Convention once an accident is found to have occurred,
+we invoke its provisions with some degree of care, read-
+ing its terms strictly and construing them narrowly. See
+McCarthy v. Northwest Airlines, Inc., 56 F.3d 313, 316
+(Ist Cir. 1995) (Article 17 shouldbe read parsimo-
+niously because “there are sound policy reasons to con-
+fine . . . liability to the letter of the text, narrowly
+construed.”).
+                                              lla
+
+               B. Security Search Not an “Accident”
+
+    We turn now to consider whether the security search
+ of Tseng was an accident under Article 17. Several rea-
+ sons lead us to part from the district court, which
+thought it was. In the first place, being subjected to a
+personal search is a distasteful but common incident of
+international air travel. As such, it cannot be considered
+“unexpected” or “unusual,” regardless of a passenger’s
+subjective reaction to it. Or, as we just stated, not every
+incident occurring during a flight or in the process of
+embarking or disembarking is an “accident” within the
+meaning of Article 17. As one commentator explained:
+
+       the passenger . . . is aware of the typical events
+       related to an air carriage (turbulence, bad-weather,
+       flashes of lightning onto the plane’s hull, changes in
+      cabin pressure, dry air in the cabin, so called ‘air
+      pockets’, more or less ‘hard’ landings, etc.) and can-
+      not realistically exclude the possibility of such occur-
+      rences happening on his flight, so he accepts them.
+
+Elmar Giemulla et al., Warsaw Convention art. 17, para.
+
+12 (Bernd Wickert-Kénig trans., 1995).
+
+   Security clearance of one degree or another is part of
+every passenger’s experience. And, a search of a pas-
+senger may not be said today to be an atypical event in
+international air travel. Each passenger must routinely
+submit to a metal detector and interrogation. Not infre-
+quently, these initial procedures lead to additional mea-
+sures, such as the use of a metal detecting wand or a
+security search. These events are an anticipated aspect of
+international travel. Whether appellant expected to be
+subjected to a security search is not a relevant consid-
+eration because she reasonably should have been aware
+that she might be.
+                                            12a
+
+   A second reason that the subject search was not an
+“accident” is because it was part of the airline’s normal
+procedure. Every air carrier is required by Federal Avi-
+ation Administration regulations to have in place secu-
+rity procedures to prevent terrorist attacks and to deny
+transport to anyone who does not consent to be searched
+upon request. See 14 C.F.R. § 129.25(b), (g)(1)-(2). As
+part of these security procedures, carriers are required to
+screen all passengers and baggage prior to boarding. See
+49 U.S.C. § 44901(a) (requiring screening of passen-
+gers); 49 U.S.C. § 44906 (applying standards to foreign
+air carriers); 14 C.F.R. § 108.9(a). In accordance with
+these requirements, E] Al conducts security searches of
+passengers daily. For example, in 1993 it conducted two
+to four security searches a day. Hence, as in Saks, this
+Case appears simply to involve Tseng’s personal reaction
+to the routine operating procedures of the defendant air-
+line.
+
+   A further reason we cannot conclude that this incident
+was an “accident” within the terms of the Convention is
+because the Convention does not aim to derogate from
+the efforts of international air carriers to prevent vio-
+lence and terrorism, efforts which are widely recognized
+and encouraged in the law. See, e.g., 49 U.S.C.
+§ 44901(a); 49 U.S.C. § 44906; Day, 528 F.2d at 34, 37
+n.18 (recognizing the goal of accident prevention); 14
+C.F.R. § 108.9(a) (screening utilized to “prevent or deter
+the carriage aboard airplanes of any explosive, incen-
+diary, or a deadly or dangerous weapon”).
+
+   Inherent in any effort to detect malefactors is the risk
+that innocent persons will be subjected to scrutiny and
+inconvenience. Cf. Anderson v. Creighton, 483 U.S. 635,
+641 (1987) (“[I]t is inevitable that law enforcement offi-
+cials will in some cases reasonably but mistakenly con-
+                                         13a
+
+clude that probable cause is present... .”). This is
+especially true in airports, where security personnel have
+only brief interaction with passengers, and must rely on
+such investigative tools as risk profiles, as was the case
+here, because there is insufficient time to conduct a more
+extensive investigation. The inconvenience and embar-
+rassment to the individual passenger of being erro-
+neously searched, therefore, is the price passengers pay
+for the degree of airline safety so far afforded them. To
+this end, courts have recognized that airport security
+officials are to some extent freed from the exacting
+requirements typically attached to governmental
+searches of individuals. See, e.g., United States v. Bell,
+464 F.2d 667, 675 (2d Cir. 1972) (Friendly, C.J., con-
+curring); New York v. Waring, 174 AD2d 16, 19 (App.
+Div. 2d Dep't), appeal denied, 79 NY2d 1009 (1992). To
+suppose the drafters of the Convention aimed to impose
+close to absolute liability on air carriers for searches that
+disclosed no danger seems to us highly unlikely.
+
+   Our final reason deals with appellant's misapprehen-
+sion regarding two Articles of the Convention. Tseng
+appears to assert that El] Al’s conduct is “wilful mis-
+conduct” covered under Article 25 and therefore the car-
+rier’s actions cannot constitute an “accident” within the
+meaning of Article 17. Plaintiff's view is based upon a
+misunderstanding of the Convention. The two articles
+are not mutually exclusive; rather the finding of an
+“accident” under Article 17 is a prerequisite to the impo-
+sition of any liability for the personal injuries of a pas-
+senger. See Saks, 470 U.S. at 396; MacDonald vy. Air
+Canada, 439 F.2d 1402, 1404 (1st Cir. 1971). Article 25
+simply describes a subset of “accidents” that are more
+egregious and to which a greater degree of culpability
+attaches.
+                                     l4a
+
+   In sum, from the above authorities, we derive the fol-
+lowing: a carrier is liable in damages for an accident on
+board the aircraft or in the course of embarking or dis-
+embarking that causes the death or wounding or any
+other bodily injury of a passenger. An “accident” is an
+unexpected or unusual event that is external to the pas-
+senger; but, “accident” does not include those typical
+occurrences that a passenger is presumed to accept as a
+characteristic risk of air travel. As a consequence, we
+hold that even though the event of which plaintiff com-
+plains occurred during the course of her embarkation on
+defendant's airplane, there was no accident and she suf-
+fered no bodily injury. Hence, under the terms of Article
+17 of the Warsaw Convention, E] Al may not be held
+liable in damages to her.
+
+              II The Exclusivity of the Convention
+
+               A. State Cause of Action Lies When
+                         Convention Inapplicable
+
+   Having ruled that the search of Tseng does not con-
+stitute an “accident,” we now must determine whether
+the Convention provides the exclusive remedy for per-
+sonal injuries sustained in the course of international air
+travel, such that Tseng is precluded from pursuing her
+state law claims for false imprisonment and battery. This
+is an issue the district court did not decide because it
+determined the Convention was applicable. The Supreme
+Court has twice declined to address the exclusivity of
+the Convention where its terms are inapplicable. See
+Floyd, 499 U.S. at 553; Saks, 470 U.S. at 408.
+
+    In Lockerbie I we stated in dictum that “a plaintiff
+plainly may institute” “a state cause of action when the
+claim does not arise under the Warsaw Convention.” 928
+                                          15a
+
+F.2d at 1273. With the issue now squarely before us, we
+reaffirm that proposition and hold that state law claims
+
+are not precluded by the Warsaw Convention where the
+event or occurrence giving rise to the injury is found to
+be outside the Convention.
+
+                            1. Convention’s Text
+
+   Support for this view is found in the text of the treaty
+and in the context in which the words in it are used. See
+Floyd, 499 U.S. at 534 (noting that treaty interpretation
+should begin with the text), Saks, 470 U.S. at 396-97
+(same); see also Vienna Convention on the Law of
+Treaties art. 31, open for signature May 23, 1969, U.N.
+Doc. A/CONF. 39/27 (1969), reprinted in 63 Am. J. Int’!
+
+L. 875, 885 (1969). The exclusivity provision of the
+
+Convention is found in Article 24, which provides:
+
+          (1) In the cases covered by articles 18 and 19 any
+
+      action for damages, however founded, can only be
+      brought subject to the conditions and limits set out
+      in this convention.
+
+         (2) In the cases covered by article 17 the provi-
+      sions of the preceding paragraph shall also apply,
+      without prejudice to the questions as to who are the
+      persons who have the right to bring suit and what
+      are their respective rights.
+
+The provision clearly states that resort to local law is
+precluded only where the incident is “covered” by Arti-
+cle 17, meaning where there has been an accident, either
+on the plane or in the course of embarking or disem-
+barking, which led to death, wounding or other bodily
+injury, see Floyd, 499 U.S. at 535-36. To extend the
+scope of the Convention’s exclusivity beyond that which
+it expressly provides would require rewriting Article 24
+                                     16a
+
+or Article 17, a task only the signatories to the Con-
+vention may undertake. See Saks, 470 U.S. at 406; see
+also Brink's Ltd. v. South African Airways, 93 F.3d 1022,
+1027 (2d Cir. 1996) (the task of interpretation begins
+with the “literal language” of the treaty), cert. denied,
+117 S. Ct. 959 (1997).
+
+                          2. Drafting History
+
+   The plain meaning of Article 24 is also supported by
+reference to the drafting history, or travaux prepara-
+toires, of the Convention. “[T]reaties are construed more
+liberally than private agreements, and to ascertain their
+meaning we may look beyond the written words to the
+history of the treaty, the negotiations, and the practical
+construction adopted by the parties.” Choctaw Nation of
+Indians v. United States, 318 U.S. 423, 431-32 (1943);
+see also Vienna Convention, supra, art. 32, reprinted in
+63 Am. J. Int’! L. at 885 (it is appropriate to use sup-
+plementary materials to “confirm the meaning resulting
+from” a contextual reading of the treaty’s plain lan-
+
+guage).
+
+   The travaux preparatoires indicate that national law
+was intended to provide the passenger’s remedy where
+the Convention did not expressly apply. During the con-
+ference, the Czechoslovakian delegation proposed an
+additional article that read: “In the absence of provisions
+in the present Convention, the provisions of laws and
+national rules relative to carriage in each State shall
+apply.” Minutes, supra, at 176. The intent of the pro-
+posed article was set forth in its proviso: “Provided that
+ the case which arises was not provided for in the Con-
+ vention, it’s the common law which is applicable.” /d.
+ However, the Czechoslovakian delegation was satisfied
+ that its concern was addressed and withdrew its proposal
+                                              17a
+
+ when the title of the Convention was amended to refer to
+ the unification of “certain rules,” thereby indicating “the
+
+special nature of the Convention.” /d. (emphasis added);
+
+see id. at 188. Other delegates assumed it beyond ques-
+tion that the Convention was nonexclusive where it did
+not apply. For example, when asked what law would be
+applicable to cases excluded from the Convention under
+Article 34 (experimental trials exception), the French
+delegate exclaimed that “[nJaturally” the common law
+would apply. Jd. at 85-86.
+
+     B. Other Decisional Law and Scholarly Comment
+
+   Moreover, a number of courts and commentators have
+concluded that the Convention provides the exclusive
+remedy only where its provisions expressly apply. See,
+¢.g., Schroeder v. Lufthansa German Airlines, 875 F.2d
+613, 618 (7th Cir. 1989) (court reached plaintiff's state
+law claims after determining that the Convention was
+not implicated); Abramson, 739 F.2d at 134 (“if [the
+Convention] does not apply, it leaves liability to be
+established according to traditional common law rules”):
+
+Martinez Hernandez, 545 F.2d at 284; Tandon v. United
+
+Air Lines, 926 F. Supp. 366, 370-71 (S.D.N.Y. 1996):
+Beaudet v. British Airways, PLC, 853 F. Supp. 1062,
+
+1072 (N.D. Ill. 1994) (state law negligence claim not
+
+pre-empted where Convention is inapplicable); Levy v.
+American Airlines, No. 90 Civ. 7005, 1993 WL 205857,
+at *5 (S.D.N.Y. June 9, 1993), aff'd, 22 F.3d 1092 (2d
+
+Cir. 1994); Walker, 785 F. Supp. at 1173 (S.D.N.Y.); Fis-
+cher v. Northwest Airlines, Inc., 623 F. Supp. 1064, 1066
+
+(N.D. Ill. 1985) (denying motion to dismiss state law
+claims, but dismissing Convention claims); Rolnick v. El
+
+Al Israel Airlines, Ltd., 551 F. Supp. 261, 264 (E.D.N-Y.
+
+1982) (permitting pursuit of state law claim after finding
+                                        18a
+
+passenger's slip on escalator not to have been within the
+Convention); Giemulla et al., supra, Warsaw Convention
+art. 1, para. 35 (“Where the Convention is not applica-
+ble, national law will be applied.”); Lawrence B. Gold-
+
+hirsch, The Warsaw Convention Annotated: A Legal
+
+Handbook 62 (1988) (“Where there is no ‘accident’ the
+Warsaw Convention is probably inapplicable and the
+passenger may proceed to use local law to prove a
+claim.”); René H. Mankiewicz, The Liability Regime of
+the International Air Carrier: A Commentary on the Pre-
+sent Warsaw System 2, 13 (1981); Luis F. Ras, Warsaw's
+Wingspan Over State Laws: Towards a Streamlined Sys-
+tem of Recovery, 59 J. Air L. & Com. 587, 589 (1994).
+But see Potter v. Delta Air Lines, Inc., 98 F.3d 881, 885
+(Sth Cir. 1996) (“The Convention’s goals of uniformity
+and certainty would be frustrated were we to allow Mrs.
+Potter to assert her state law claims, even where the
+Convention does not provide her a remedy.”); Salazar v.
+Mexicana Airlines, 20 Av. Cas. (CCH) 917,114, at
+9 17,115 (W.D. Tex. 1986) (same); Sidhu v. British-Air-
+ways plc [1997] 1 All E.R. 193, 207 (H.L. 1996) (U.K.)
+(same).
+
+                 C. Contrary Arguments Refuted
+
+   Two arguments have been advanced in support of the
+proposition that the Convention is wholly exclusive. We
+reject both. The first is a structural argument advanced
+in Great Britain. See Sidhu [1997] 1 All E.R. at 205-07.
+In the view of the English courts, Article 17 is intended
+to provide exhaustively for the circumstances under
+which a carrier may be held liable. See id. at 207.
+According to the House of Lords, the purpose of Article
+ 17 is “to prescribe the circumstances, that is to say the
+ only circumstances, in which a carrier will be liable in
+ damages to the passenger for claims arising out of his
+                                          19a
+
+ international carriage by air.” Jd. Interpreted in this fash-
+ ion, the English courts read Article 24’s reference to
+ “eases covered under article 17” to mean those cases
+ within the Convention not covered by Articles 18 (bag-
+gage) and 19 (delay), rather than to distinguish between
+incidents of personal injury that are or are not within the
+
+provisions of the Convention. See id.
+
+   We recognize that a construction of the Convention by
+our sister signatories is “entitled to considerable
+weight,” Saks, 470 U.S. at 404, but remain unpersuaded
+to follow the course laid out in Sidhu. For one thing, the
+Convention is not an exhaustive set of rules and guide-
+lines dealing with international air travel, as is evident
+from its formal title. As one commentator explained,
+“the Convention was not intended to govern the entire
+relationship between air carriers and passengers. . . ,
+and does not propose to unify all such rules.” Ras, War-
+saw's Wingspan, supra, at 589; see Mankiewicz, The
+Liability Regime, supra, at 13, 91.
+
+   For another, neither the text nor the travaux prepara-
+toires reveal an aim to provide in an exhaustive way for
+the liability of the carrier for all personal injuries. It is
+widely accepted that one of the two primary purposes of
+the Convention was to shield carriers from financial
+catastrophe following in the wake of a major accident.
+See MacDonald v. Air Canada, 439 F.2d at 1405:
+Andreas F. Lowenfeld & Allan I. Mendelsohn, The
+United States and the Warsaw Convention, 80 Harv. L.
+
+Rev. 497, 499 (1967). To that end, the Convention lim-
+
+its airline liability for accidents. But the Tonvention
+does not purport to insulate carriers from the ordinary
+risks of doing business, such as keeping their facilities
+in good repair. An injury to a passenger caused, for
+example, by a failure of a carrier to keep its walkways in
+                         20a
+
+a safe condition is hardly the type of catastrophic inci-                  =
+
+dent that would likely force even a fledgling airline out
+
+of business, and cannot be assumed to have been within
+
+the contemplation of the drafters of the Convention.
+
+   Given the self-described limitation of the Convention,
+it seems illogical to extend its scope beyond that for
+which it explicitly provides.’ It is not tenable to believe
+
+the Convention meant to address the more ordinary type
+
+of personal injury without some express statement in the
+text to that effect. Such reading would lead to the absurd
+result of allowing carriers to escape liability for their
+negligence—or even their intentional torts—so long as
+the event giving rise to the injury was not an accident
+occurring on an airplane or in the course of embarking
+or disembarking as narrowly circumscribed by the def-
+inition of Article 17’s meaning.
+
+   For example, it is generally accepted that a passenger
+
+injured while riding an escalator in the airline terminal
+does not have recourse under Article 17. See, e.g.,
+McCarthy, 56 F.3d at 317 (passenger’s slip on escalator
+not in the course of embarking or disembarking); Abu
+
+Hamdeh v. American Airlines, Inc., 862 F. Supp. 243,
+
+3 The intention of the drafters appears perfectly plain: gaps left in the
+
+regulation of international air carriage would be filled in by subsequent
+
+agreements. This point was made in a request by the French delegation
+
+to the conference:                                                         O eee
+
+   Considering that the Warsaw Convention provides only for certain
+difficulties relating to air carriage and that international air naviga-
+tion raises many other questions that it would be desirable to provide
+
+for by international agreements,
+
+   Expresses the wish:
+
+   That, through the offices of the French Government, which has
+taken the initiative of the convening of these confereaces, that there
+be convened subsequently, new conferences which will pursue the
+work of unification.
+
+Minutes, supra, at 182.
+
+                                                                           e
+                                              2la
+
+ 247-48 (E.D. Mo. 1994) (same); Rolnick, 551 F. Supp. at
+ 264 (same). Were we to read Article 17 to provide the
+ exclusive remedy for personal injury, a carrier would not
+ be liable for injuries caused by the malfunctioning of an
+ escalator, notwithstanding the fact that it may have reck-
+ lessly disregarded its duty to keep it in proper repair.
+ Beyond the inequity of forcing the passenger to bear the
+cost of an airline’s negligence, safeguarding an airline
+from this sort of liability removes the incentive for it to
+maintain its premises properly—an important goal of
+domestic tort law. See W. Page Keeton et al., Prosser
+and Keeton on the Law of Torts § 4, at 25 (Sth ed. 1984)
+
+(“When the decisions of the courts become known. and
+
+defendants realize that they may be held liable, there is
+of course a strong incentive to prevent the occurrence of
+
+the harm.”); cf. Day, 528 F.2d at 34 (airlines are in bet-
+
+ter position to assess risks and prevent accidents).
+
+   The second argument advanced in support of holding
+the Convention wholly exclusive is that permitting state
+
+law claims under any circumstances contravenes the
+
+Convention’s goal of uniformity. See Potter, 98 F.3d at
+885. This argument is flawed in two respects. First,
+while uniformity is certainly one of the two primary
+goals of the Convention, such a goal has not always been
+found feasible in all areas of international travel. Sec-
+ond, even where possible, uniformity cannot justify
+altering the operating structure of the Convention. See
+Zicherman, 116 S. Ct. at 636 (rejecting application of
+
+general maritime law to all Convention cases regardless
+of whether maritime law would naturally apply). We
+
+have read Zicherman to instruct specifically that the
+Convention expresses no compelling interest in unifor-
+mity that would warrant us in supplanting an otherwise
+
+applicable body of law, here state law. See Pescatore v.
+                                     22a
+
+Pan American World Airways, Inc., 97 F.3d 1, 11 (2d
+Cir. 1996). Even to accept the argument that uniformity
+should prevail where the Convention does not apply does
+not support the ultimate proposition that the Convention
+must therefore provide the exclusive remedy, because
+uniformity could be achieved equally as well by allow-
+ing recovery outside the Convention, under a uniform
+body of law. Of course, once the Convention is ruled
+inapplicable the carrier may, in a liability suit against it
+under domestic law, interpose all the defenses available
+to it under that law.
+
+                      D. Passengers’ Interests
+
+   Finally, excluding state law claims where the Con-
+vention does not apply is inconsistent with the Con-
+vention’s goal of protecting passengers. Underlying the
+desire for uniformity and limited liability for the carrier
+was a desire to balance the interests of the passenger and
+the carrier. See Lockerbie J, 928 F.2d at 1271. In return
+for certainty and limited liability, the carriers accepted
+presumed fault when the Convention applied, so that
+passengers or their survivors could obtain recovery in
+situations where it might be difficult to prove a carrier's
+negligence. See id.
+
+   Over the past several decades, international air trans-
+portation has transformed from a fragile, fledgling
+industry into one that is well established and financially
+secure. In recognition of the increasing strength of the
+airline industry, the balance has properly shifted away
+from protecting the carrier and toward protecting the
+passenger, see Day, 528 F.2d at 37, evidenced by the
+recent intercarrier agreement abandoning the Conven-
+tion’s liability cap and imposing strict liability up to
+$145,000.
+                                              23a
+
+    Reading the Convention to preclude recovery for
+ injuries sustained outside the_scope of the Convention
+ would undermine the notion of balancing the interests of
+ the carrier and the passenger. Under such a scheme, the
+ carrier would be disproportionately favored by being
+ absolved from liability for its tortious conduct, except
+ under certain limited circumstances. The passenger
+ would be forced to bear the cost of injury, despite the
+airline being in a better position to distribute the costs of
+such injuries and to prevent them from occurring. See
+
+ Keeton, Law of Torts, supra, § 4, at 24 (Tort law tends to
+
+place the burden on the corporation, “who by means of
+rates, prices, taxes or insurance are best able to dis-
+tribute” risks and losses.). It is highly doubtful that such
+a skewing of interests was in the contemplation of the
+original drafters of the Convention, and such an inter-
+pretation is clearly at odds with the current goals of the
+Convention. Consequently, we hold that where the Con-
+vention is inapplicable, a plaintiff may seek recourse
+under state law.
+
+                             CONCLUSION
+   We have reviewed El Al’s cross-appeal concerning the
+district court’s findings and conclusions embodied in its
+judgment regarding Tseng’s baggage claim and find it to
+be without merit. Accordingly, the judgment is reversed
+with respect to Tseng’s personal injury claim and
+affirmed with respect to her baggage claim. Plaintiff’s
+personal injury cause of action is remanded to the dis-
+trict court, which, should it determine it proper to exer-
+cise pendent jurisdiction, may then resolve Tseng’s
+outstanding state law claims in accordance with this
+opinion.
+                           24a
+
+UNITED STATES DISTRICT COURT
+SOUTHERN DISTRICT OF NEW YORK
+
+             94 Civ. 3385 (LLS)
+
+        Tsu! YUAN TSENG,           Plaintiff,
+              —against—          Defendant.
+
+EL AL ISRAEL AIRLINES, LTD.,
+
+                  MEMORANDUM AND ORDER
+
+   Plaintiff Tsui Yuan Tseng claims defendant El Al Israel Air-
+lines, Ltd. (“El Al”), which searched her person and bags as
+she was boarding a flight, subjected her to assault, false
+imprisonment, physical and mental abuse and humiliation,
+and the loss of and damage to her property.
+
+   The case was tried to the court on March 7, 8, and 11, 1996.
+From my observation of the witnesses and exhibits, I find the
+preponderance of the credible evidence establishes the fol-
+lowing facts. All Agreed Findings in the Consent Pretrial
+Order are found as facts, and are supplemented by the find-
+ings below.
+
+                                   FACTS
+    On May 22, 1993, Ms. Tseng went to El Al's terminal at
+ John F. Kennedy International Airport in Queens, New York
+ to take a flight to Tel Aviv. While awaiting check-in she was
+ queried about her reasons for the trip, asked to wait, and then
+                                             25a
+
+ taken to a small room with a few chairs and a table, where she
+ was searched.
+
+    At the instruction of a uniformed man and woman, she put
+her luggage (a suitcase, a carry-on bag and her purse) on the
+table and unlocked it. The man and woman took out the con-
+tents of her luggage and put-her things into small baskets,
+which they took into another room into which she was not
+allowed to follow.
+
+   The woman then told Ms. Tseng to take off her jacket,
+Sweater, shoes, and belt, and to loosen and lower her blue
+jeans to just below her hip. The woman proceeded to search
+her, first by feeling her body by hand outside her clothes from
+head to toe, and then with an electronic security wand.
+
+   After an hour or so, they stuffed her things messily back
+into her luggage. She was then escorted to her plane. They
+told her to leave her suitcase there, and that it would be put
+on the plane.
+
+   During the flight, she felt sick, upset, and nervous, and had
+a headache. She glanced a few times in her carry-on bag, but
+its contents were so disorganized that she could not find any-
+thing.
+
+   At her hotel in Tel Aviv, she opened her suitcase, carry-on
+bag, and purse. She sorted through the messy contents and
+discovered that many of her clothes were stained and dam-
+aged, and that several items were missing, including a Rolex
+watch, a jade ring, some of her clothes, and a thousand dollars
+in cash. She called El Al’s office in Tel Aviv, and was told
+that they could not do anything about the losses in Israel and
+to wait until she was back in the United States and then report
+
+them.
+
+   She returned to the United States on or about June 20,
+1994. Around the end of June, she went to see her doctor for
+treatment of headaches, upset stomach, ringing in her ears,
+nervousness and sleeplessness, all of which had bothered her
+since she was searched. She also brought to El Al, in person,
+a letter dated July 1, 1994, complaining about her search and
+detention and listing the items that were missing and dam-
+aged.
+                                        26a
+
+      El Al claims she was searched because her reasons for her
+   trip appeared “illogical,” but it is unable (for lack of memory
+’ and records) to specify how. It urges, and I accept, that the
+   actual method of search of her person conformed to their
+   usual practice.
+
+                                 DISCUSSION
+
+  A. BODILY INJURY
+
+      The parties dispute whether the Warsaw Convention applies
+   to plaintiff's claims that she suffered injury as a result of her
+   detention and search by El Al. In particular, they dispute
+   whether her claimed injuries resulted from an “accident”
+   within the meaning of Article 17 of the Convention, which
+   states:
+
+          The carrier shall be liable for damage sustained in the
+          event of the death or wounding of a passenger or any
+          other bodily injury suffered by a passenger, if the acci-
+          dent which caused the damage so sustained took place on
+          board the aircraft or in the course of any of the opera-
+          tions of embarking or disembarking.
+
+      Air France v. Saks, 470 U.S. 392, 105 S. Ct. 1338 (1985),
+   dealt with the definition of “accident” in Article 17. The
+   Supreme Court concluded that “liability under Article 17 of
+   the Warsaw Convention arises only if a passenger's injury 1s
+   caused by an unexpected or unusual event or happening that
+   is external to the passenger,” and stated further that “This def-
+   inition should be flexibly applied after assessment of all the
+   circumstances surrounding a passenger's injuries.” 470 U.S.
+   at 405, 105 S. Ct. at 1345. In Shen v. Japan Airlines, 1994
+   WL 167989 (S.D.N.Y.), aff'd, 43 F.3d 1459 (2d Cir. 1994),
+    this court applied the Warsaw Convention to the detention,
+    search, and confinement of passengers by Japan Airlines.
+    Id. at *2.
+                                             27a
+
+    Plaintiff argues that El Al's actions were not an “accident”
+but wilful misconduct, and therefore not covered by the
+Convention.
+
+   The record in this case does not support the proposition that
+the search of the plaintiff was wilful misconduct. The actual
+
+techniques for carrying out the search were those prescribed
+
+by El Al’s procedures, and are reasonable in light of the need
+
+for discovering small dangerous objects, if the prospective
+
+passenger appears to pose a threat.
+   There is no evidence that the plaintiff actually posed such
+
+a threat, and there is no evidence explaining why she was
+selected to be searched. Although El Al’s records state that
+her story was illogical, no reason is given why El Al per-
+sonnel thought so.
+
+   It may have been a mistake. There may have appeared a
+basis for El Al’s suspicions, although they ultimately proved
+groundless. However, there is no evidence and no basis for
+inferring that it was anything more than a mistake. Even if
+such a mistake can be characterized as misconduct, there is
+no basis for inferring that it was wilful. Accordingly, I find
+that it was not such wilful misconduct as might take the
+case outside the Convention's limitations of liability under
+
+Article 25.'
+
+   Occasional personal searches are recognized incidents of
+international air travel. The evidence shows that they occur
+two to four times a day at El Al alone, which averages over
+
+1,000 times per year for that single airline.
+   Using the flexible application prescribed by the Supreme
+
+Court, such a routine search, applied erroneously to plaintiff
+in the course of embarking on the aircraft, is fairly accurately
+
+            The Convention, in Article 25(1), provides:
+
+            The carrier shall not be entitled to avail himself of the provisions of
+            this convention which exclude or limit his liability, if the damage
+            is caused by his wilful misconduct or by such default on his part as.
+            in accordance with the law of the court to which the case is sub-
+            mitted, is considered to be equivalent to wilful misconduct.
+                                     28a
+
+characterized as an accident; that is to say, an unexpected or
+unusual event or happening external to the passenger.
+
+   Accordingly, the Warsaw Convention applies.
+
+   Under the Convention, the case is governed by Eastern Air-
+
+lines, Inc. v. Floyd, 499 U.S. 530, 111 S. Ct. 1489 (1991), in
+which the Supreme Court squarely considered and squarely
+disallowed any recovery for psychic or psychosomatic injury
+
+unaccompanied by bodily injury. 499 U.S. at §52, 111 S. Ct.
+
+at 1502.
+   Here, the plaintiff sustained no bodily injury. Her body was
+
+not injured by the woman who searched her by feeling the
+surface of her body outside her clothing with her hands, and
+by using an electronic security wand to detect metal objects.
+
+On the contrary, all of her personal injuries are attributable to
+
+her shock and outrage at the way she was treated. Although
+ her injuries may have had physical manifestations, those are
+ the types of psychic or psychosomatic injuries barred by
+
+ Floyd and not the “bodily injury” for which compensation is
+
+ available under Article 17 of the Convention.
+    The Convention precludes recovery on such claims under
+
+ state law. Article 24 of the Convention provides:
+        (1) In the cases covered by articles 18 and 19 any
+               action for damages, however founded, can only be
+               brought subject to the conditions and limits set out
+               in this convention.
+
+        (2) In the cases covered by article 17 the provisions of
+
+              the preceding paragraph shall also apply. . . .
+
+  See In re Air Disaster at Lockerbie, Scotland, 928 F.2d 1267
+  (2d Cir.) (“the Warsaw Convention preempts state law causes
+  of action arising under it”), cert. denied, 502 U.S. 920, 112
+  S. Ct. 331 (1991).
+
+     Accordingly, Ms. Tseng’s claims for personal injuries are
+  dismissed.
+"B. BAGGAGE
+
+    The Convention also applies to plaintiff's claims for dam-
+ ages to her checked and carry-on luggage.
+
+    “With respect to checked baggage, Article 18 provides for
+ the strict liability of carriers for loss or damage sustained
+ while under the control of the carrier.” Republic National
+ Bank of New York v. Eastern Airlines, Inc., 815 F.2d 232, 236
+ (2d Cir. 1987). Ms. Tseng’s suitcase was under El Al’s control
+ when the items in her suitcase were lost and damaged, so
+ El Al is liable for that damage and loss.
+
+    For claims of damage to carry-on baggage, the Convention
+ imposes liability on the carrier if the damage is the result of
+ an accident. See Baker v. Lansdell Protective Agency, Inc.,
+ 590 F. Supp. 165, 167 (S.D.N.Y. 1984). The items in Ms.
+ Tseng’s carry-on baggage were lost and damaged as the result
+ of the search, which was an accident, so El Al is liable for the
+ damage to and loss of items in that carry-on baggage.
+
+ 1. Notice
+
+    The parties dispute whether El Al escapes liability for the
+ loss of and damage to items in plaintiff's baggage under the
+ Convention's requirement that plaintiff give prompt notice to
+ it of the loss.
+
+    Article 26 of the Convention provides, in pertinent part:
+
+        (2) In case of damage, the person entitled to delivery
+               must complain to the carrier forthwith after the dis-
+              covery of the damage, and at the latest, within 3
+              days from the date of receipt in the case of baggage
+               and 7 days from the date of receipt in the case of
+               goods. .
+
+        (3) Every complaint must be made in writing upon the
+               document of transportation or by separate notice in
+               writing dispatched within the times aforesaid.
+
+ Although Article 26 of the Convention on its face requires
+ written notice to the carrier only when there is “damage” to
+                                     30a
+
+baggage, notice is also required when items in baggage are
+lost, because “delivery of a package or container with part of
+its contents missing is damage and requires notice.” Denby v.
+Seaboard World Airlines, Inc., 575 F. Supp. 1134, 1141
+(E.D.N.Y. 1983), rev'd on other grounds, 737 F.2d 172 (2d
+Cir. 1984).
+
+   At the time of plaintiff's flight, El Al had extended the time
+
+for passengers to give written notice to the carrier from three
+days, as provided above in Article 26 of the Convention, to
+seven days, as provided by Rule 55(E)(1) of El Al's tariff,
+which provides in pertinent part:
+
+       No action shall lie in the case of damage to baggage
+       unless the person entitled to delivery complains to an
+       office of carrier forthwith after the discovery of the dam-
+       age, and at the latest, within seven (7) days from the date
+       of receipt... .
+
+ That tariff was approved by the Civil Aeronautics Board,
+
+ see International Passenger Rules and Fares Tariff, NTA (A)
+
+ No. 324, 9C.A.B. No. 530, Rule 55(E), and governs here. See
+ Tishman & Lipp, Inc. v. Delta Air Lines, 413 F.2d 1401, 1403
+
+ (2d Cir. 1969) (“Tariffs filed with the Civil Aeronautics Board
+
+ if valid, are conclusive and exclusive, and the rights and lia-
+ bilities between airlines and their passengers are governed
+ thereby”).
+
+     Ms. Tseng submitted to El Al written notice of her damage
+ in a letter dated July 1, 1993, which was 39 days after her
+ flight to Tel Aviv. There is no evidence that she submitted
+  written notice of the damage to El Al during the seven days
+  after her flight.
+
+     Article 26(4) of the Convention provides
+         Failing complaint within the times aforesaid, no action
+         shall lie against the carrier, save in the case of fraud on
+         his part.
+                                             3la
+
+   Accordingly, Ms. Tseng’s claims for damage to her baggage
+are barred by the notice requirement of Article 26, unless
+
+there is “fraud” on the part of El Al.
+
+   In Denby v. Seaboard World Airlines, Inc., 737 F.2d 172 (2d
+Cir. 1984), the Second Circuit stated that the fraud exception
+“ “is not of a restrictive nature,’ ” but includes “any inten-
+tional acts by the carrier or its agents which significantly
+decrease the likelihood of the shipper’s giving notice during
+the brief period allowed.” 737 F.2d at 183 (quoting N. Matte,
+Treatise on Air-Aeronautical Law 425 (1981)).
+
+   Ms. Tseng, after discovering at her hotel that items in her
+baggage were damaged and missing, promptly made a tele-
+
+phone call to El Al. An agent of El Al told her that they could
+
+not do anything about it and that she should talk to them back
+in the United States. That statement by El Al “significantly
+decreased the likelihood” that she would give written notice
+
+of her damage to El Al during the brief period allowed.
+
+Accordingly, the fraud exception to the notice requirement
+applies in this case, and the notice requirement does not bar
+her claim for damage to her baggage.
+
+2. Liability Limitations
+
+   Article 22(1) of the Convention limits the liability of a car-
+rier for checked baggage “to a sum of 250 francs per kilo-
+gram”, unless the passenger has made “a special declaration
+of value” of the baggage at the time it was delivered to the air
+carrier and “has paid a supplementary sum if the case so
+requires.” By Order of the Civil Aeronautics Board this limit
+of liability has been converted to $20.00 per kilogram, or
+
+$9.07 per pound. See C.A.B. Order 74-1-16, 39 Fed. Reg.
+
+1526 (1974).
+
+   There has been no evidence showing how much Ms. Tseng’s
+suitcase weighed. Where the weight of a passenger's baggage
+is not noted on the baggage check, the weight may be based
+on the maximum allowable weight as set forth in the airline's
+
+tariff. Republic National Bank v. Eastern Airlines, 639
+32a
+
+F. Supp. 1410, 1411 (S.D.N.Y. 1986), aff'd, 815 F.2d 232 (2d
+Cir. 1987).
+
+   At the time of Ms. Tseng’s flight, Rule 115(Q) of El Al's
+tariff provided:
+
+(1) No article will be accepted for  transportation
+if it exceeds the following maximum  quantity/size/
+
+weight:
+
+(a) If the maximum outside linear dimensions
+      exceed 80 inches or if the article weighs more
+      than 70 pounds (32 kilograms).
+
+That tariff was approved by the Civil Aeronautics Board. See
+International Passenger Rules and Fares Tariff, NTA (A) No.
+324, 9C.A.B. No. 530, Rule 115(Q). Because the maximum
+
+weight of any article cf baggage that Ms. Tseng could have
+checked with El Al is 70 pounds, El Al’s liability for her
+
+checked suitcase is limited to $9.07 per pound times 70
+
+pounds, which is $634.90.
+
+   The Convention, in Article 22(3), also limits El Al’s lia-
+
+bility for “objects of which the passenger takes charge him-
+self’—that is, unchecked or carry-on luggage—to “a sum of
+5,000 francs per passenger.” Because the Civil Aeronautics
+Board has converted 250 francs to 20 dollars, see C.A.B.
+Order 74-1-16, 39 Fed. Reg. 1526 (1974), 5,000 francs is con-
+
+verted to 400 dollars.
+   Therefore, the Convention limits’? El Al’s liability for the
+
+damage sustained to the plaintiff's baggage to $634.90 for her
+
+checked baggage and $400.00 for her unchecked baggage.
+The evidence shows that the monetary value of the damage to
+
+and loss of items in her checked and unchecked baggage,
+
+     é The evidence does not establish that the loss of and damage to the
+
+items in plaintiff's luggage constituted such willful misconduct as might take
+the case outside the Convention's limitations of liability under Article 25. See
+
+Chukwuma v. Groupe Air France, Inc., 767 F. Supp. 43, 48 (S.D.N.Y. 1991)
+(to presume willful misconduct “solely on the basis of the fact that some of
+his luggage was lost or stolen” is “a presumption that would severely under-
+cut Article 22’s limitation of liability”), aff'd, 962 F.2d 2 (2d Cir. 1992).
+                                     33a
+respectively, exceeded those amounts. Accordingly, plaintiff
+is entitled to recover for the damage to her baggage in the
+amount of $1034.90.
+
+                             CONCLUSION
+
+   Because the Warsaw Convention precludes recovery for
+
+emotional injury or for the physical manifestations of such
+injury, plaintiff's claims seeking such recovery are dismissed.
+
+   For her claims of damage to and loss of items in her bag-
+gage, plaintiff is entitled to damages in the amount of
+$1034.90, plus prejudgment interest according to law.
+
+   The Clerk is directed to enter judgment accordingly. So
+ordered.
+
+Dated:  New York, New York
+        March 13, 1996
+
+                            Louis L. STANTON
+                            Louis L. STANTON
+
+                                   U.S.D.J.
+—
+
+                34a
+
+     HOUSE OF LORDS
+   ON 12 DECEMBER 1996
+
+   ABNETT (KNOWN AS SYKES)    (APPELLANT)
+
+                         —Y—
+
+   BRITISH AIRWAYS PLC
+                     (RESPONDENTS) (SCOTLAND)
+
+   SIDHU  AND OTHERS  (A.P.)
+
+                              (APPELLANTS)
+
+          —
+
+   BRITISH AIRWAYS PLC
+
+                              (RESPONDENTS)
+
+   Lord Browne-Wilkinson, Lord Jauncey of Tullichettle,
+     Lord Mustill, Lord Steyn, Lord Hope of Craighead
+
+            OPINIONS OF THE LORDS OF APPEAL FOR
+                          JUDGMENT IN THE CAUSE
+
+   LoRD BROWNE-WILKINSON
+   My Lords,
+
+      For the reasons given in the speech to be delivered by my
+   noble and learned friend, Lord Hope of Craighead, which I
+                                              35a
+
+ have read in draft and with which I agree, I would dismiss
+ both these appeals.
+
+ LORD JAUNCEY OF TULLICHEITLE
+
+ My Lords,
+    For the reasons given in the speech to be delivered by my
+
+ noble and learned friend, Lord Hope of Craighead, which I
+ have read in draft and with which I agree, I too would dismiss
+ both these appeals.
+
+ LORD MUSTILL
+ My Lords,
+
+    For the reasons given in the speech to be delivered by my
+ noble and learned friend, Lord Hope of Craighead, which I
+ have read in draft and with which I agree, I too would dismiss
+both these appeals.
+
+ LORD STEYN
+My Lords,
+
+   For the reasons given in the speech to be delivered by my
+noble and learned friend, Lord Hope of Craighead, which I
+have read in draft and with which I agree, I would dismiss
+both these appeals.
+
+LORD HOPE OF CRAIGHEAD
+My Lords,
+
+   The question in these two appeals is whether the Warsaw
+Convention as amended at The Hague, 1955, as set out in the
+Schedule | to the Carriage by Air Act 1961, provides the
+exclusive cause of action and sole remedy for a passenger
+who claims against the carrier for loss, injury and damage
+sustained in the course of, or arising out of, international car-
+riage by air.
+
+   In both cases claims were made against the respondents,
+British Airways Plc., by passengers who had been travelling
+on a scheduled international flight from the United Kingdom
+to Malaysia via Kuwait. The flight left London Heathrow for
+                                        36a
+Kuala Lumpur on | August 1990. It landed in Kuwait for
+refuelling on 2 August 1990, about five hours after Iraqi
+forces had begun to invade Kuwait at the commencement of
+what became known as the Gulf War. The passengers and
+crew were all taken prisoner by the Iraqis. They were
+detained initially at Kuwait Airport, then at Kuwait City and
+thereafter in Baghdad. The appellants, who were subsequently
+released and returned to the United Kingdom, claimed dam-
+ages against the respondents for the consequences of their
+captivity. Their claims for personai injury were made at com-
+mon law, as it was accepted that they had no remedy in this
+regard under article 17 of the Convention.
+
+   Mrs. Judith Helen Abnett, to whom I shall refer as “the pur-
+suer.” raised her action in the Court of Session in Scotland.
+She was resident in England where the respondent's principal
+place of business is situated. and she had purchased her ticket
+there. But the respondents also have a place of business in
+Edinburgh, which the pursuer contended was sufficient to
+confer jurisdiction on the Scottish courts at common law. She
+based her claim on article 19 of the Convention under which
+the carrier is liable for damage occasioned by delay and,
+ alternatively, at common law for breach of an implied con-
+ dition of the contract that the respondents would take rea-
+ sonable care for her safety. When the case came before the
+ Lord Ordinary, Lord Marnoch, for debate on the procedure
+ roll he was invited to dismiss the action on various grounds.
+ One of these was that the Scottish courts had no jurisdiction,
+ having regard to article 28 of the Convention. After a careful
+ review of the wording of that article and of various authori-
+ ties which were cited to him from the United States of Amer-
+ ica, France and Nigeria, he held that the Scottish courts did
+ have jurisdiction and no appeal has been taken against his
+ decision on this point. He also held that the pursuer’s case for
+ damage occasioned by delay under article 19 of the Conven-
+ tion was irrelevant, and that the Convention excluded
+  recourse to any common law remedy by a passenger who suf-
+  fered injury in the course of or arising out of an international
+  flight. On 20 December 1993 he repelled the respondents’
+                                             37a
+
+ plea in law to the jurisdiction of the Court of Session, but he
+ sustained their second and third pleas in law and dismissed
+ the action as irrelevant, 1996 S.L.T. 529. The pursuer
+reclaimed on the single question as to whether her claim at
+common law had been excluded by the Convention. On 28
+April 1995 an Extra Division (Lord Allanbridge, Lord May-
+field and Lord Clyde), who had the advantage of the judgment
+of the Court of Appeal in the English action which supported
+the view which had been taken by Lord Marnoch, refused her
+reclaiming motion: 1996 S.L.T. 529, 538-547. The pursuer
+has now appealed against this decision to your Lordships’
+House.
+
+   Miss Kiran Sidhu, Miss Harjinder Sidhu and Mr. Ravinder
+Sidhu, to whom I shall refer as “the plaintiffs,” raised their
+action in the Brentford County Court. In their particulars of
+claim they alleged that the loss and damage which they had
+suffered was caused by the respondent's negligence. Their
+proceedings were issued on 30 July 1993, which was outside
+the two year time limit allowed by article 29 of the Conven-
+tion but inside the three year time limit which was otherwise
+applicable. No claim was made by them under any of the pro-
+visions of the Convention: The respondents applied for an
+order that their action be dismissed as it was time barred by
+article 29. When their application came before Judge Marcus
+Edwards they also submitted that the Convention provided the
+exclusive remedy in respect of claims for damages arising out
+of international carriage by air of persons and baggage for
+reward. On 28 February 1994 the judge, who was referred to
+Lord Marnoch’s decision in the pursuer’s case, held for the
+Same reasons as those given by Lord Marnoch that the plain-
+tiffs had no rights save under the Convention. He also held
+that their right to damages, if any, was extinguished by arti-
+cle 29 of the Convention two years after 2 August 1990, and
+
+he dismissed their claims. On 27 January 1995 the Court of
+
+Appeal (Leggatt, Swinton Thomas and Otton L.JJ.) (unre-
+ported), Court of Appeal (Civil Division) TranscripNto. of
+1995, dismissed the plaintiffs’ appeal against the order which
+had been made by Judge Marcus Edwards. The plaintiffs’
+                                            38a
+
+appeal to this House against the order made by the Court of
+Appeal was heard together with the pursuer’s appeal against
+the interlocutor of the Extra Division of the Court of Session.
+
+THE FACTS
+   The pursuer and the plaintiffs were all fare paying pas-
+
+sengers on the same flight, BA.149, which left London
+Heathrow for Kuala Lumpur at about 6.15 p.m. on | August
+1990. The flight was scheduled to travel to Kuala Lumpur by
+way of Kuwait and Madras. It was due to arrive at Kuwait in
+the early hours of the following day, 2 August 1990. Accord-
+ing to the pusuer’s pleadings in the Scottish action, relations
+between Iraq and Kuwait had been deteriorating for some
+days prior to the departure of the flight from Heathrow. She
+avers that the respondents knew or ought to have known that
+the passengers would be at severe risk if the aircraft were to
+land in Kuwait after hostilities had been commenced against
+ Kuwait by Iraq. The same point is made by the plaintiffs in
+their particulars of claim, where they refer to the respondents’
+negligence in landing their aeroplane in Kuwait when they
+ knew or ought to have known of the hostile situation between
+ Iraq and Kuwait and the possibility that war might break out
+ and Kuwait be invaded by Iraq. In the event the invasion of
+ Kuwait by Iraq began at about 11.15 p.m. on | August 1990.
+ About four hours later, at about 3.00 a.m. on 2 August 1990,
+ the respondents’ aircraft landed at Kuwait airport for
+ refuelling. The passenger. »«scmbarked into the transit lounge
+ at the airport terminal. While they were in the terminal the
+ airport was attacked by Iraqi aircraft and taken over by Iraqi
+ soldiers. The airport was closed, and the passengers and crew
+ of flight BA.149 were detained by the Iraqis and later
+ removed to Baghdad.
+
+    The pusuer avers that she was detained by Iraqi forces for
+ a period of about a month. She claims to have suffered psy-
+ chological injury due to the stress resulting from her captiv-
+  ity and the pain of separation from her family. She also claims
+  that she was off work on a number of occasions as a result of
+  the psychological consequences. She claims damages of
+                                         39a
+
+£100,000 on the ground that the respondents were in breach
+of an implied condition of her contract with them that they
+would take reasonable care for the safety of their passengers,
+in respect that they allowed their aircraft to land at Kuwait
+when they knew or ought to have known that the passengers
+were exposed to risk due to the invasion. Her alternative
+claim for damages caused by delay under article 19 of the
+Convention was, as I have said, held by Lord Marnoch to be
+irrelevant and no further issue arises on that point. She made
+no claim against the respondents under article 17 of the
+Convention.
+
+   The plaintiffs state that they were detained by the Iraqi
+forces until about 21 August 1990. In their particulars of
+injuries they allege that they suffered physical and psycho-
+logical injuries. These included mental injury comprising
+stress and anxiety and poss*ble permanent psychological dam-
+age as a result, and bodily injury comprising loss of weight,
+eczema and excessive menstrual bleeding. They also claim for
+loss of baggage amounting to £2,562.93 as special damages.
+Their action has been based entirely on negligence at common
+law. The negligence relied on in their particulars falls under
+three heads: landing their aircraft in Kuwait when the respon-
+dents knew or ought to have known of the hostile situation
+between Kuwait and Iraq and the possibility that war might
+break out and Kuwait be invaded; flying their aircraft into a
+war zone or war Situation; and failing to divert their aircraft
+to a safer airport for refuelling when they knew or ought to
+have known that Kuwait airport was at risk of being attacked
+or invaded. They make no claim against the respondents under
+article 17 of the Convention.
+
+THE ISSUE
+
+   Although there are some differences of detail between the
+two actions—the pursuer claims only for psychological injury,
+while the plaintiffs claim also for bodily injury and loss of
+baggage, and the pursuer’s claim is for breach of contract
+while the plaintiffs’ claim is in negligence—the issue of law
+which arises in both of these appeals is the same. It is whether
+                                        40a
+
+the Warsaw Convention as amended at The Hague, 1955 pro-
+vides the exclusive cause of action and remedy in respect of
+claims for loss, injury and damage sustained in the course of,
+or arising out of, international carriage by air. If the answer to
+that question is in the affirmative, it is accepted that the
+claims which have been brought in each case for damages at
+common law for personal injury must be dismissed. It is not
+disputed that the plaintiffs’ claim for loss of baggage must be
+dismissed also, on the additional ground that it was brought
+outwith the period of two years referred.to in ar‘icle 29 of the
+Convention after which the right to damages under the Con-
+vention is extinguished. It is common ground, for reasons to
+which I shall return later, that neither the pursuer nor the
+plaintiffs have any claim against the respondents under arti-
+cle 17 of the Convention in respect of their personal injuries.
+
+THE PROVISIONS OF THE CONVENTION
+
+   I shall have something to say later about the background to
+the Convention. At this stage it 1s necessary to identify the
+
+statutory provisions which are relevant to this case. These are
+
+to be found in the Carriage by Air Act 1961, by which effect
+was given to the Convention concerning international carriage
+by air known as “The Warsaw Convention as Amended at The
+Hague, 1955,” so that it might have the force of law in the
+United Kingdom in relation to any carriage by air to which
+the Convention applied, and the rules contained in the Con-
+vention were enabled to be applied, with or without modifi-
+cation, in other cases and in particular to non-international
+carriage by air not governed by the Convention. Force of law
+to the Convention in regard to international carriage by air is
+given by section 1(1) of the Act read together with Schedule
+1, in which the provisions of the Convention are set out. Part
+
+I of the Schedule sets out the English text of the Convention,
+
+and Part II sets out the French text. Section 1(2) provides
+that, if there is an inconsistency between the text in English
+
+and Part I of Schedule | and the text in French in Part II of
+that Schedule, the text in French shall prevail.
+                                             4la
+
+   The headnote to the English text in Part I of Schedule |
+describes the Convention as being “for the Unification of Cer-
+tain Rules relating to International Carriage by Air.” There
+then follow five chapters, headed respectively Chapter I—
+“Scope—Definitions;” Chapter II—“Documents of Carriage;”
+Chapter I1I—“Liability of the Carrier;” Chapter 1V—“Pro-
+
+visions Relating to Combined Carriage;” and Chapter V—
+
+“General and Final Provisions.”
+   In Chapter I, article 1(1) is in these terms:
+
+       “(1) This Convention applies to all international carriage
+       of persons, baggage or cargo performed by aircraft for
+       reward. It applies equally to gratuitous carriage by air-
+       craft performed by an air transport undertaking.”
+
+Article 1(2) of this chapter contains a definition of the expres-
+sion “international carriage” which need not be quoted, as it
+is common ground that the present case is concerned with
+international carriage by air because the place of departure
+and the place of destination were both situated within the ter-
+ritories of High Contracting Parties.
+
+   Among the documents of carriage for which rules are pro-
+vided by Chapter II is the passenger ticket. Article 3(1) of
+section | of this chapter is in these terms:
+
+      “(1) In respect of the carriage of passengers a ticket
+      shall be delivered containing:
+
+         (a) an indication of the places of departure and des-
+      tination;
+
+         (b) if the places of departure and destination are
+      within the territory of a single High Contracting Party,
+      one or more agreed stopping places being within the ter-
+      ritory of another State, an indication of at least one such
+      stopping place;
+
+         (c) a notice to the effect that, if the passenger’s jour-
+      ney involves an ultimate destination or stop in a country
+      other than the country of departure, the Warsaw Con-
+      vention may be applicable and that the Convention gov-
+      erns and in most cases limits the liability of carriers for
+                                        42a
+
+      death or personal injury and in respect of loss of or dam-
+
+      age to baggage.”
+
+   The only other chapter which contains provisions relevant
+to this case is Chapter III, which is headed “Liability of the
+Carrier.” The articles comprised in this chapter are those
+numbered from 17 to 30, of which the following is a brief
+summary. Article 17 is concerned with the carrier's liability
+for death or injury suffered by a passenger. Article 18 is con-
+cerned with the carrier's liability for destruction or loss of or
+damage to registered baggage or cargo. Article 19 provides
+that the carrier is liable for damage occasioned by delay in the
+carriage by air of passengers, baggage or cargo. These pro-
+visions must be read together with article 24, which provides
+that. in the cases covered by these articles, any action for
+damages, however founded, can only be brought subject to the
+conditions and limits set out in the Convention. Article 20
+provides: “The carrier is not liable if he proves that he and his
+servants or agents have taken all necessary measures to avoid
+the damage or that it was impossible for him or them to take
+such measures.” Article 21 deals with cases where the dam-
+age was caused or contributed to by the injured person's neg-
+
+ligence. Article 22 makes provision for the limitation of the
+liability of the carrier for each passenger and for registered
+
+ baggage and cargo, and article 23 provides: “Any provision
+ tending to relieve the carrier of liability or to fix a lower limit
+ than that which is laid down by the Convention shall be null
+ and void. . . .” Article 25 provides that these limits of lia-
+ bility shall not apply if the damage results from an act or
+ omission of the carrier, his servants or agents done with intent
+ to cause damage or recklessly. Article 25, 25A, 26 and 27
+ contain various ancillary provisions. Article 28, which deals
+ with jurisdiction, restricts the places where an action for dam-
+ ages may be brought, and provides that “questions of proce-
+ dure shall be governed by the law of the court seised of the
+ case.” Article 29 provides that the right to damages shall be
+ extinguished if the action is not brought within two years.
+                                         43a
+
+Lastly, article 30 deals with the case where the Cafriage is to
+be performed by various successive carriers.
+
+   As I shall require to examine the wording of articles 17, 18,
+23 and 24 more closely at a later Stage, it is convenient now
+to set out the full terms of these articles. They are as follows:
+
+      Article 17:
+         “The carrier is liable for damage sustained in the event
+
+      of the death or wounding of a passenger or any other
+      bodily injury suffered by a passenger, if the accident
+      which caused the damage so sustained took place on
+      board the aircraft or in the course of any of the opera-
+      tions of embarking or disembarking.”
+
+      Article 18:
+
+         “(1) The carrier is liable for damage sustained in the
+      event of the destruction or loss of, or of damage to, any
+      registered baggage or any cargo, if the occurrence which
+     caused the damage so sustained took place during the
+     Carriage by air.
+
+         (2) The carriage by air within the meaning of the pre-
+     ceding paragraph comprises the period during which the
+     baggage or cargo is in charge of the carrier, whether in
+     an aerodrome or on board an aircraft, or, in the case of a
+     landing outside an aerodrome, in any place whatsoever.
+
+        (3) The period of the carriage by air does not extend
+
+     to any carriage by land, by sea or by river performed
+     outside an aerodrome. If, however, such a Carriage takes
+     place in the performance of a contract for carriage by air,
+     for the purpose of loading, delivery or transshipment,
+     any damage is presumed, subject to proof to the contrary,
+     to have been the result of an event which took place dur-
+     ing the carriage by air.”
+
+     Article 23:
+
+    “(1) Any provision tending to relieve the carrier of lia-
+    bility or to fix a lower limit than that which is laid down
+    in this Convention shall be null and void, but the nullity
+                                        44a
+
+      of any such provision does not involve the nullity of the
+      whole contract, which shall remain subject to the pro-
+      visions of this Convention.
+      (2) Paragraph (1) of this article shall not apply to pro-
+      visions governing loss or damage resulting from the
+      inherent defect, quality or vice of the cargo carried.”
+
+       Article 24:
+
+      “(1) In the cases covered by articles 18 and 19 any
+      action for damages, however founded, can only be
+      brought subject to the conditions and limits set out in
+      this Convention.
+      (2) In the cases covered by article 17 the provisions of
+      the preceding paragraph also apply, without prejudice to
+      the questions as to who are the persons who have the
+       right to bring suit and what are their respective rights.”
+
+THE COMPETING ARGUMENTS
+   The issue between the parties is confined to a single but
+
+important point which depends for its answer on the inter-
+pretation of the Convention. Much of the background is com-
+mon ground. As both cases are being dealt with on a
+preliminary issue of law, the facts have not been investigated.
+The respondents made it clear that they were not to be taken
+as admitting that all the allegations which have been made
+against them are true. But they were content that the issue of
+law should be dealt with on the pursuer’s pleadings in the
+Scottish action and on the particulars of claim in the English
+action. For their part the pursuer and the plaintiffs accept that
+their claims against the respondents arise out of international
+carriage by air. Their apprehension by the Iraqis took place in
+the terminal at Kuwait, but they accept that they were still in
+the course of international carriage by air at that point
+
+because they were still in transit to their ultimate destination
+
+ in Malaysia. The breaches of duty which they allege all relate
+ to decisions taken while the aircraft was in the air between
+ London and Kuwait. It is, however, also common ground
+                                             45a
+
+ between the parties that neither the pursuer nor the plaintiffs
+ have a claim against the respondents under article 17 of the
+Convention.
+
+    I do not think that it is necessary to explore the reasons
+why the view has been taken that article 17 does not provide
+a remedy in this case. It is sufficient to say that two particu-
+lar reasons were given for this view in the course of the hear-
+ing before the Inner House in the Court of Session. First, it
+was said that no “accident” causing the damage took place on
+board the aircraft. Secondly, it was said that the injury sus-
+tained by the pursuer—the stress resulting from her captivity
+and the pain of separation from her family, absence from
+work and loss of income due to the psychological conse-
+quences of the captivity—did not fall within the scope of
+“bodily injury” for the purposes of article 17. In the English
+action the plaintiffs conceded in the Court of Appeal that no
+accident causing damage took place on board the aircraft or
+in the course of disembarkation. In their case bodily injury is
+alleged, but it was submitted on their behalf that liability for
+damage to the person under article 17 only arises in the event
+of any bodily injury suffered by a passenger and that psy-
+chological damage, which was the principal basis for their
+claim, probably did not come within that category. It was sug-
+gested to your Lordships in the course of the argument that
+the phrase “bodily injury” in article 17 ought now to be con-
+strued as including psychological damage, especially if it
+were shown to have a physiological basis by medical evi-
+dence. But that point does not arise for decision in this case
+and it was not fully argued. I prefer to express no opinion
+upon it.
+
+   It should be recorded also that all parties were agreed that,
+if a passenger had a claim under article 17 against the carrier,
+
+there was no concurrent common law remedy. It is common
+
+ground therefore that a passenger who has a claim for bodily
+
+injury caused by an accident which took place on board the
+
+aircraft, or in the course of any of the operations of embark-
+ing or disembarking, cannot maintain a separate claim at com-
+mon law for any loss, injury or damage not covered by article
+46a
+
+17 of the Convention. That seems to follow inevitably from
+the provisions of article 24(2), which declares that in the
+cases covered by article 17 any action of damages, however
+founded, can only be brought subject to the conditions and
+limits set by the Convention.
+
+   So the stark issue which is before us in this appeal is
+whether a passenger who has sustained damage in the course
+of international carriage by air due to the fault of the carrier,
+but who has no claim against the carrier under article 17 of
+the Convention, is left without a remedy.
+
+THE APPROACH TO CONSTRUCTION
+
+   I now turn to the material which we were invited to con-
+sider in reaching our decision as to how we should decide this
+issue. Some of this material is plainly relevant, some of it
+plainly is not and some of it will require consideration and
+analysis in order to decide whether it is of any assistance to
+us in this case. The following catalogue provides the starting
+point.
+
+(i) THE CARRIAGE BY AIR ACT 1961  .
+
+   Mr. Webb took us through various provisions in the statute
+which he said could be relied on as indicating that the inten-
+tion was that the Convention should provide the exclusive
+remedy. Similar arguments were considered in the courts
+below. For my part I do not think that the wording of the
+statute Can assist us one way or the other. What we are con-
+cerned with in this case is the meaning to be given to the Con-
+vention. This must depend upon the wording and structure of
+the Convention itself. All that need to be taken from the Act
+for present purposes is that, in terms of section 1(1), the Con-
+vention as set out in Schedule | to the Act has the force of
+law in the United Kingdom in relation to any carriage by air
+to which the Convention applies; and that, in terms of section
+1(2), if there is any inconsistency between the text in English
+in Part | of Schedule | and the text in French in Part II of that
+Schedule, the text in French shall prevail.
+                                               47a
+
+  (ii) THE ENGLISH TEXT OF THE CONVENTION
+
+     This plainly is the primary source to which we must turn
+  for a solution to the point raised in this case. It may be con-
+  venient, however, to record at this point that all parties were
+  agreed, as they were in the courts below, that the Convention
+  should receive a purposive construction. This point was fully
+  explored in Fothergill v. Monarch Airlines Ltd. [1981] A.c.
+  251, where the question at issue arose under article 26(2) of
+  the Convention. It does not need to be elaborated upon in this
+ case. It is now well established that a purposive approach
+ Should be taken to the interpretation of international con-
+ ventions which have the force of law in this country. As Lord
+ Diplock said, at p. 279, one must give a purposive construc-
+ tion to the Convention looked at as a whole. The observations
+
+ of Greene L.J. in Grein v. Imperial Airways Ltd. [1937] 1
+
+ K.B. 50, 74-76, to which I shall return later, are to the same
+ effect.
+
+(iii) THE TRAVAUX PREPARATOIRES
+
+    Here again the parties were in agreement. Reference was
+ made in the courts below to the negotiating history of the
+Convention, and in particular to the minutes of the Interna-
+tional Conference on Private Aeronautical Law at Warsaw
+from 4 to 12 October 1929. We also were referred to various
+passages from these minutes in the course of the argument.
+The question whether it is legitimate to resort to material of
+this kind was discussed in Fothergill v. Monarch Airlines
+Ltd., and it is unnecessary to go over this ground again. It is
+sufficient to say that cautious use may be made of this mate-
+rial, the availability to the public of which is not in doubt. But
+it will only be helpful if, after Proper analysis, it clearly
+points to a definite h i o n w ten t t h i e on po o i n nt th a e t p i a s r s t ue of sh t o h u e ld del b e e ga r t e e s s ol a v s ed t . o
+                                         48a
+
+(iv) DECISIONS BY THE COURTS IN THE UNITED
+       KINGDOM
+
+   The only cases to which we were referred as having any
+possible bearing on the issue which we have to decide in this
+case were Grein v. Imperial Airways Ltd. [1937] 1 K.B. 50,
+74-76 and Gatewhite v. Iberia Lineas Aereas de Espafia S.A.
+[1990] | Q.B. 326. The issue which was raised in Grein v.
+Imperial Airways Ltd. was a different one from that which
+arises here. It was whether a passenger who met his death
+while travelling by aeroplane on a return ticket between Lon-
+don and Antwerp—Belgium not being a High Contracting
+Party—was engaged on “international carriage” within the
+meaning of the Convention. But Greene L.J., at pp. 74-76,
+made some observations about the approach to be taken to the
+construction of the Convention which are helpful in the pre-
+sent case. The Gatewhite case arose out of a contract for the
+carriage of goods by air. The question was whether the owner
+of goods not named as the consignor or consignee on the air
+waybill was entitled to sue the carrier for damages to the
+goods while in transit. I shall return to this case later in order
+to see what help it can give to us in the present case.
+
+(v) DECISIONS BY FOREIGN COURTS
+
+   Much of the discussion in the Court of Session, both in the
+Outer House before the Lord Ordinary, Lord Marnoch, and in
+the Extra Division, was taken up with an examination of deci-
+sions of various courts in the United States. We were referred
+to the cases mentioned in the courts below and to several
+other cases from the same source. We were also referred to a
+recent decision in the Tribunal de Grande Instance de Paris
+arising out of the same incident as the claims which are being
+made in the present case. Parties were agreed that we might
+have regard to this material for such assistance as it might
+give. Clearly, much must depend upon the status of each court
+and of the extent to which the point of issue has been sub-
+jected to careful analysis. Material of this kind, where it is
+found to be of the appropriate standing and quality, may be of
+some help in pointing towards an interpretation of the Con-
+
+a i a  aa
+                                           49a
+
+  vention which has received general acceptance in other coun-
+  tries. But the value of the material will be reduced if the deci-
+  sions conflict with each other or if no clear line of approach
+  appears from them after they have been analysed.
+  (vi) EUROPEAN CONVENTION OF HUMAN RIGHTS
+
+     Mr. Clive Nicholls for the plaintiffs submitted that it would
+ be inconsistent with the obligations of the United Kingdom
+ under various articles of the European Convention of Human
+ Rights if a construction were to be placed on article 17 of the
+ Warsaw Convention which excluded the claim which they
+ were seeking to make in this case. Your Lordships had no hes-
+ itation in rejecting that argument. The provisions of the Euro-
+ pean Convention have no bearing on the interpretation of
+ international conventions such as the Warsaw Convention on
+ carriage by air—and there are many other examples—which
+ are concerned with commerce between countries and which
+ seek, by a process of compromise, to achieve uniformity
+ across international frontiers in the application of trade law.
+
+    It must also be observed that, while some parties to the
+ Warsaw C onvention are parties to the European Convention
+of Human Rights, some—notably the United States of Amer-
+ica—are not. We cannot assume that the principles expressed
+in the European Convention are common to all those countries
+who are parties to the Warsaw Convention. Thus we would
+risk introducing an element of distortion into the debate, in
+conflict with the broad aim of uniformity of interpretation
+between states, if we were to rely on the European Conven-
+tion as an aid to the construction of the Warsaw Convention
+in the present case. In T. v. Secretary of State for the Home
+Department [1996] 2 W.L.R. 766, 793A. Lord Lloyd of
+Berwick said that in a case concerning an international con-
+vention it was obviously desirable that decisions in different
+jurisdictions should, so far as possible, be kept in line with
+each other. As Dicey & Morris, The Conflict of Laws, 12th
+ed. (1993), p. 9, observe:
+
+       “The purpose of an international convention is to har-
+       monise the laws of all contracting states on the particu-
+                                        50a
+
+      lar topic dealt with by the Convention. It is therefore
+       very important that the interpretation of the Convention
+       should be the same, so far as possible, in all contracting
+       states.”
+
+(vii) ANALYSIS OF THIS MATERIAL
+
+   It follows from what I have just said that no analysis is
+
+required of the 1961 Act or of the European Convention of
+
+Human Rights. I turn therefore immediately to the Convention
+
+itself, which is the primary source to which we must look for
+
+a solution to the question we have to decide.
+
+(a) THE ENGLISH TEXT OF THE CONVENTION
+
+   I can confine myself to the English text, because all parties
+were agreed that, except in one respect with which I can deal
+briefly, there was for present purposes no material difference
+between it and the French text.
+
+   The Convention describes itself as a “Convention for the
+Unification of Certain Rules relating to International Carriage
+by Air.” The phrase “Unification of Certain Rules” tells us
+two things. The first, the aim of the Convention is to unify the
+rules to which it applies. If this aim is to be achieved, excep-
+tions to these rules should not be permitted, except where the
+Convention itself provides for them. Second, the Convention
+is concerned with certain rules only, not with all the rules
+relating to international carriage by air. It does not purport to
+provide a code which is comprehensive of all the issues that
+may arise. It is a partial harmonisation, directed to the par-
+ticular issues with which it deals.
+
+    These issues are identified in the principal chapter head-
+ ings, which are those to Chapters II, III] and I1V—“Documents
+ of Carriage,” “Liability of the Carrier” and “Provisions Relat-
+ ing to Combined Carriage.” Nothing is said in this Conven-
+ tion about the liability of passengers to the carrier, for
+ example. Nor is anything said about the carrier's obligations
+ of insurance, and in particular about compulsory insurance
+ against third party risks. It is clear from the content and struc-
+                                               Sla
+
+  ture of the Convention that it is a partial harmonisation only
+  of the rules relating to international Carriage by air. That is
+  sufficient to give content to the phrase “Certain Rules.” I do
+  not find in that phrase an indication that, in regard to the
+  issues with which the Convention does purport to deal, its
+  provisions were intended to be other than comprehensive.
+
+     The principal search for indications of an intention one way
+ or the other about exclusivity of provision in regard to the
+ carrier's liability must be conducted within the provisions of
+ Chapter III. But before I come to this chapter there are two
+ provisions in the earlier chapters which are worth noting as
+ being of some value. First, Article 1(1) states that the Con-
+ vention applies to “all international carriage of persons, bag-
+ gage or cargo performed by aircraft for reward.” The word
+ “all” is important, simply because it is so ali-embracing. It
+ indicates that the framers of the Convention were looking to
+ solutions, no doubt by a process of adjustment and compro-
+ mise, which could be regarded as acceptable for universal
+ application in all cases. The other provision is article 3(1)(c),
+ which requires that the ticket to be delivered to the passenger
+ must Contain among other things
+
+       “a notice to the effect that, if the Ppassenger’s journey
+       involves an ultimate destination or stop in a country
+       other than the country of departure, the Warsaw Con-
+       vention may be applicable and that the Convention gov-
+       erns and in most cases limits the liability of carriers for
+       death or personal injury and in respect of loss of or dam-
+       age to baggage.”
+
+   This provision was relied on to some extent by Lord Clyde,
+1996 S.L.T. 529, 545]. He said that the words used here
+would seem quite absoluteb [sic]—the qualification that the
+limits apply “in most cases” presumably covering such excep-
+tions as are contained in article 25, which deals with cases
+where the carrier, his servants or agents have caused inten-
+tional damage or acted recklessly. It is here that the French
+text may be important. The relevant part of the provision is
+Stated there in these terms:
+                                     52a
+
+       “(c) . . . leur transport peut étre régi par la Convention
+
+      de Varsovie qui, en général, limite la responsabilité du
+
+      transporteur en cas de mort ou de lésion corporelle, ainsi
+
+      qu’en cas de perte ou d’avarie des bagages.”
+
+   The word “governs” which is to be found in the English
+text is an accurate translation of the word “régi” in the French
+text. But the English version does not follow the French
+wording precisely—the phrase “peut étre régi” is not, as such,
+reproduced. So on balance I am inclined not to attach sig-
+nificance to this provision, which in any event is dealing only
+with the wording of a notice on the passenger's ticket and not
+with the substance of the rules about the carrier's liability.
+
+   Turning to Chapter III itself, the chapter heading expresses
+its subject matter in the words “Liability of the Carrier.” In
+contrast to the title to the Convention itself, which uses the
+expression “Certain Rules,” we find here a phrase which is
+unqualified. My understanding of the purpose of this chapter
+therefore, from what we have seen so far, is that it is designed
+to set out all the rules relating to the liability of the carrier
+which are to be applicable to all international carriage of per-
+sons, baggage or cargo by air to which the Convention
+applies.
+
+   Chapter III begins by setting out the three primary rules.
+These are the rules relating to the carriage of passengers, to
+the carriage of registered baggage or cargo and to delay in the
+carriage by air of passengers, baggage or cargo. While article
+19 is unqualified—it states simply that the carrier is liable for
+damage occasioned by delay in the carriage by air—the other
+two articles are qualified, because the liability which they
+create applies only in the events described and only if certain
+other conditions are satisfied: see articles 20 and 21. This,
+however, is not in itself a reason for regarding these provi-
+sions as non-exclusive remedies. One has to look further into
+the details of the chapter in order to grasp the whole context
+in which these carefully defined liabilities have been devised.
+
+    Articles 20 and 21 enable the carrier to avoid liability in
+ whole or in part. They contain nothing of significance for pre-
+                                               53a
+
+  sent purposes. Article 22 however is important, because it
+  limits the liability of the carrier. It does so in terms which
+ enable the limitation of liability to be applied generally to all
+ cases where the carrier is liable in the carriage of persons and
+ of registered baggage and cargo. Article 22(1) begins simply
+ with the words “In the carriage of persons.” Article 22(2)(a)
+ begins with the words “In the carriage of registered baggage
+ and of cargo.” The intention which emerges from these words
+ is that, unless he agrees otherwise by special contract—for
+ which provision is made elsewhere in the article—the carrier
+ can be assured that his liability to each passenger and for each
+ package will not exceed the sums stated in the article. This
+ has obvious implications for insurance by the carrier and for
+ the cost of his undertaking as a whole. Article 22(4) makes
+ provision for the award, in addition, of the whole or part of
+ the costs of the litigation. But this is subject to the ability of
+ the carrier to limit his liability for costs by an offer in writing
+ to the plaintiff. The effect of these rules would, I think, be
+ severely distorted if they could not be applied generally to all
+cases in which a claim is made against the carrier.
+
+    Articles 23 and 24 also are provisions which seem to have
+been designed to apply generally, and to indicate that the pos-
+sibility of exceptions to the rules laid down in Chapter III was
+not being contemplated. Article 23 states that any provision
+tending to relieve the carrier of liability or to fix a lower limit
+than that which is laid down in the Convention shall be null
+and void. It then goes on to state that the nullity of any such
+Provision does not involve the nullity of the whole contract,
+which is to remain subject to the provisions of the Conven-
+tion. The generality of effect is to be found in the opening
+words, since the article applies to “any provision” which
+tends to relieve the carrier of liability or to fix a lower limit
+than that laid down by the Convention. I think that the
+purpose of this provision is clear. It is to protect the passen-
+ger or other person dealing with the carrier against provisions
+of the kind which it describes. Contracting out of liability
+in contracts of carriage is, of course, now widely regulated
+by statute. But no doubt in the early 1920’s, when what
+                                     54a
+
+became the Warsaw Convention was being negotiated, carri-
+ers engaged in international carriage by air were free to con-
+tract on whatever terms they cared to select, controlled only
+by the demands of the marketplace in which they were oper-
+ating. To surrender freedom of contract on this issue was an
+important concession on the part of carriers, which made
+sense only in the context of the entire set of rules by which
+
+their conduct was to be regulated.
+   The counterpart of what was plainly a compromise is to be
+
+found in the following article, article 24. This Article pro-
+vides that in the cases covered by articles 18 and 19 and by
+
+article 17 respectively—these cases are dealt with separately
+in two different paragraphs—“any action of damages, how-
+ever founded, can only be brought subject to the conditions
+and limits set” by the Convention. It should be noted in pass-
+ing that paragraph (2) of the article states that this rule is to
+apply to the cases covered by article 17 “without prejudice to
+the questions as to who are the persons who have the right to
+bring suit and what are their respective rights.” As Professor
+Rene H Mankiewicz has pointed out in his article, “The Judi-
+cial Diversification of Uniform Private Law Conventions—
+The Warsaw Convention’s Days in Court” (1972) 21 I.C.L.Q.
+718, 741 no one could expect states to be prepared to amend
+
+their laws relating to these questions, which are basic to the
+
+laws of tort and contract and therefore of a wide reaching sig-
+nificance, for the sole purpose of unifying and accommo-
+dating all matters relating to the law of the air carrier's
+
+liability.
+    The structure of these two provisions seems to me therefore
+
+to be this. On the one hand the carrier surrenders his freedom
+
+to exclude or to limit his liability. On the other hand the pas-
+
+ senger or other party to the contract is restricted in the claims
+ which he can bring in an action of damages by the conditions
+ and limits set out in the Convention. The idea that an action
+ of damages may be brought by a passenger against the carrier
+ outside the Convention in the cases covered by article 17—
+ which is the issue in the present case—seems to be entirely
+ contrary to the system which these two articles were designed
+
+ to create.
+                                       SSa
+
+    The reference in the opening words of article 24(2) to “the
+ cases covered by articles 17” does, of course, invite the ques-
+ tion whether article 17 was intended to cover only those cases
+ for which the carrier is liable in damages under that article.
+ The answer to that question may indeed be said to lie at the
+ heart of this case. In my opinion the answer to it is to be
+
+ found not by an exact analysis of the particular words used
+
+ but by a consideration of the whole purpose of the article. In
+ its context the purpose seems to me to be to prescribe the cir-
+ cumstances—that is to say, the only circumstances—in which
+ a carrier will be liable in damages to the passenger for claims
+ arising out of his international cariiage by air.
+
+    The phrase “the cases covered by article 17” extends there-
+ fore to all claims made by the passenger against the carrier
+ arising out of international carriage by air, other than claims
+ for damage to his registered baggage which must be dealt
+with under article 18 and claims for delay which must be
+
+dealt with under article 19. The words “however founded”
+
+which appear in article 24(1) and are applied to passenger's
+claims by article 24(2) support this approach. The intention
+seems to be to provide a secure regime, within which the
+restriction on the carrier's freedom of contract is to operate.
+
+Benefits are given to the passenger in return, but only in
+
+clearly defined circumstances to which the limits of liability
+set out by the Convention are to apply. To permit exceptions,
+whereby a passenger could sue outwith the Convention for
+losses sustained in the course of international carriage by air,
+would distort the whole system, even in cases for which the
+Convention did not create any liability on the part of the car-
+rier. Thus the purpose is to ensure that, in all questions relat-
+ing to the carrier's liability, it is the provisions of the
+Convention which apply and that the passenger does not have
+access to any other remedies, whether under the common law
+or otherwise, which may be available within the particular
+country where he chooses to raise his action. The carrier does
+not need to make provision for the risk of being subjected to
+such remedies, because the whole matter is regulated by the
+
+Convention.
+                                         56a
+
+   Only two other articles may be mentioned in this analysis:
+articles 28 and 29. These restrict the places in which “an
+action for damages” must be brought, and provide that “the
+right to damages” shall be extinguished if an action is not
+brought within two years. Here again it seems that a balance
+has been struck in the interests of uniformity of treatment and
+of certainty. I see no sign in the generality with which these
+provisions have been expressed of a recognition that there
+may be some actions of damages arising from the interna-
+tional carriage of passengers by air which are not subject to
+these rules. It would be largely destructive of the system
+which this chapter seems to have been designed to lay down
+if a passenger were to be able, for example, to maintain a
+claim of damages for non-bodily injury, for loss of or damage
+to the personal possessions which he had with him inside the
+aircraft or for economic loss, outside the conditions and lim-
+its set by the Convention while maintaining a claim under the
+Convention for the bodily injury. No doubt it was for this rea-
+son that it was conceded that, if he had a claim under article
+17, the passenger would not be able to maintain any other
+claim against the carrier arising out of the same incident. But
+it seems to me that, by parity of reasoning, the same approach
+must be taken to cases arising out of international carriage by
+air where he has no claim under article 17 at all.
+
+(b) THE TRAVAUX PREPARATOIRES
+
+   We were shown a copy, in the English translation, of the
+Minutes of the Second International Conference on Private
+Aeronautical Law, 4 to 12 October 1929 at Warsaw. Attached
+to these minutes are copies of the documents submitted to the
+conference. These comprise (a) a preliminary draft of the
+Convention prepared by the International Technical Com-
+mittee of Legal Aeronautical Experts (C.1.T.E.J.A.), together
+with a report on the preliminary draft by Mr. Henri De Vos in
+name of the committee and (b) proposals of amendments
+submitted to the Warsaw Conference by a preparatory com-
+mittee and by various delegations to the conference. The first
+conference had been held in Paris in 1925, so the material
+                                               S7a
+
+  which was before the conference in Warsaw in 1929 was the
+  product of four years work by the committee.
+
+    I do not think that it would be profitable for me to attempt
+
+  to summarise this material. There are various passages in the
+  minutes where the delegates are recorded as expressing views
+  about the object of the Convention. For example, Sir Alfred
+  Dennis on behalf of Great Britain, said at p. 85, that the
+  object of the Convention was to ensure uniformity of law,
+  and, at p. 213, he said that what became article 24(1) touched
+ the very substance of the Convention because it excluded
+ resort to the common law. Similar observations are attributed
+ to the Soviet delegate, Mr. Sabanin., at p. 40 and to the French
+ delegate, Mr. Ripert, at p. 47. At p. 49, Mr. De Vos referred to
+ various questions relating to the carrier’s liability as being
+ connected to each other, as they constituted “the parts of a
+ whole which is the system of liability.” But these are mere
+ straws in the wind which emerged during several days of
+ detailed discussion to which many delegates contributed. I do
+ not find a sufficiently clear and consistent expression of
+ views here about the objects of the Convention on the point
+ which is at issue in this case to enable me to say that the
+ answer to the problem is to be found in the minutes. The most
+ that can be said is that I have not found anything in these
+ minutes or in the accompanying material which contradicts
+the impression which I have already formed on reading the
+Convention.
+
+    There is one particular point arising from the minutes how-
+ever on which I think I should comment. It relates to the
+phrase “Certain Rules” in the title to the Convention. The title
+in the preliminary draft did not contain this phrase. In their
+proposals, however, the delegates from Czechoslovakia had
+proposed an amendment to Chapter IV of the draft to the
+effect that there should be inserted in it an article which
+would have provided that, in the absence of a stipulation in
+the Convention, the provisions of laws and national rules
+relating to carriage in each state should be applicable. The
+effect of that amendment, if introduced, would have been to
+enable the common law to apply when liability could not be
+established under the Convention. There was a brief discus-
+                                                              58a
+                          sion of this amendment during the sixth session of the con-
+                        ference on 9 October: see p. 176 of the minutes. When the
+                        proposal was drawn to the attention of the delegates the head
+                        of the Italian delegation, Mr. Giannini, said that, following a
+                           suggestion made by the German delegation, they were going
+                           to propose adopting as a title for the Convention the words
+                           “Convention relating to certain rules for the unification of pri-
+                           vate aeronautical law.” He added that, given that this title
+                           indicated the special character of the Convention, the
+                           Czechoslovak delegation no longer insisted on its amendment.
+                           The Czechoslovak proposal was then withdrawn without fur-
+                           ther discussion. A proposal by the Yugoslav delegation that
+                           the Berne Convention should be applied for cases not pro-
+                           vided for by the Convention was also withdrawn.
+
+                              Mr. Nicholls suggested that the meaning to be given to the
+                           words “Certain Rules” in the title should reflect the text of
+                           the withdrawn Czechoslovakian amendment. In my opinion,
+                           however, the circumstances in which the Czechoslovak del-
+                           egation agreed to withdraw their proposal are not sufficiently
+                           explored in the minutes to enable us to take that meaning
+                           from these words. Nor indeed is it sufficiently clear what the
+                           scope was of the amendment which that delegation had orig-
+                            inally proposed. In an earlier discussion, noted at p. 85 of the
+                           minutes, both the British and the Soviet delegates had
+                           expressed concern at the insertion of a clause which would
+                            have opened gaps in the Convention, as its object was to
+                            ensure uniformity. It may be that all the Czechoslovak dele-
+                            gates were seeking to do was to insert a clause in order to
+
+                          clarify the position in regard to chapters of law relating to
+
+                            international carriage by air with which the Convention was
+                            not attempting to deal. Their agreement to the substitution of
+                            the words “Certain Rules” in the title can easily be explained
+                            if that was the only purpose which their amendment was
+                            intended to serve.
+
+                          (c) DECISIONS BY THE COURTS IN THE UNITED
+                                 KINGDOM
+
+                                As I said earlier, the only United Kingdom cases to which
+
+                          we were referred were Grein v. Imperial Airways Ltd. [1937]
+
+EREeC e rcaT ne cece
+                                      59a
+
+ 1 K.B. 50, 74-76, in which Greene L.J. made certain obser-
+ vations about the approach to construction of the Convention
+ and Gatewhite v. Iberia Lineas Aereas de Espafia S.A. [1990]
+ 1 Q.B. 326, in which Gatehouse J. held that, in the absence of
+ express provision in the Convention excluding the owner’s
+ right of action, the owner of goods damaged or lost by a car-
+rier was entitled to sue in his own name in accordance with
+
+the lex fori and accordingly that the plaintiffs were entitled to
+
+damages to be assessed at common law.
+
+    In Grein v. Imperial Airways Ltd. Greene L.J. made obser-
+vations, at pp. 74-76, about the general objects of the Con-
+vention, the desirability of an international code for air
+carriage, and the need to approach the Convention with a
+proper appreciation that it was one of the main objects-of the
+Convention to secure the removal of various difficulties
+which might otherwise have arisen by means of a uniform
+international code. These observations are helpful as they sup-
+port the approach which I have taken in my reading of the
+Convention. But there is nothing in the facts of the case or the
+particular decision arrived at which is relevant to the issue in
+this case.
+
+   In Gatewhite v. Iberia Lineas Aereas de Espafia S.A. the
+defendants had argued that, as that was a case of international
+carriage of cargo by air, it was governed by the Convention
+and that the plaintiffs had no claim under it as only the con-
+signor or the consignee had a right of action against the car-
+rier. The judge rejected this argument. He said, at p. 331G
+that it was remarkable that nowhere did the Convention
+expressly exclude the right of the owner of goods to sue the
+carrier for damage to or loss of the goods and that the limi-
+tation of this right to consignor or consignee alone arose, if at
+all, by implication. Having examined various decisions from
+other jurisdictions which were directed to this issue he was
+attracted by the reasoning in Tasman Pulp & Paper Co. Ltd. v.
+Brambles J.B. O’Loghlen Ltd. [1981] 2 N.Z.L.R. 225. It
+seemed to him that, as the Convention did not expressly deal
+with the position by excluding the owner's right of action,
+although it could so easily have done so, the lex fori could fill
+the gap: see p. 334G.
+                                     60a
+
+  Lord Marnoch in the Outer House of the Court of Session,
+1996 S.L.T. 529, 537B was able to distinguish the Gatewhite
+case on the ground that it was dealing with a quite separate
+aspect of the Convention. Lord Clyde in the Inner-House, at
+p. 546E, said that the area of title to sue was one in which the
+Convention was not necessarily exhaustive. This decision,
+however, does not sit easily with the idea that the object of
+the Convention, in the areas with which it deals, was to pro-
+vide uniformity of application internationally. As Shawcross
+and Beaumont, Air Law, VII (188) have observed, the rule in
+civil law countries is that only a party to a contract of car-
+riage, or a principal for whom he was acting, is regarded as
+the appropriate plaintiff. In common law countries the proper
+plaintiff is the owner of the goods, whose right to sue depends
+on his interest in the goods, not on the fact that he may also
+be a party to the contract. It would seem to be more consistent
+with the purpose of the Convention to regard it as providing
+a uniform rule about who can sue for goods which are lost or
+damaged during carriage by air, with the result that the owner
+who is not a party to the contract has no right to sue in his
+
+own name.
+    We were not asked to review the Gatewhite case in detail
+
+however, and as the point was not fully argued I would not
+
+wish to cast further doubt on the decision which Gatehouse J.
+
+reached. It is sufficient for present purposes to say that | am
+ not persuaded that we should apply his reasoning to the ques-
+
+tion which is before us here, which is not concerned with the
+
+ question of standing or title to sue but with the question
+ whether a person who has an undoubted title to sue under the
+ Convention can pursue a claim outside the Convention where
+
+ the Convention itself does not provide him with a remedy.
+
+ (d) DECISIONS BY THE FOREIGN COURTS
+
+    Much of the discussion in both the Outer House and the
+ Inner House in the Court of Session was taken up with a
+ detailed examination of various cases on this topic from the
+ United States of America. All the judges in that court were of
+ the view however that, in the end, no clear guidance was
+                                             6la
+
+available from this source to enable them to rely on this mate-
+rial in reaching their decision in the present case. Lord
+
+Marnoch observed, 1996 S.L.T. 529, 536C-D, that the
+
+Supreme Court had on two occasions in recent times found it
+either unnecessary or inappropriate to consider the question
+whether the Convention provided an exclusive course of
+action for injuries sustained during international air trans-
+portation: Air France v. Saks (1985) 470 U.S. 392; and East-
+ern Airlines Inc. v. Floyd (1991) 499 U.S. 530. The result of
+his review was that there was no clear or very consistent line
+of reasoning in these cases to guide him in this area of inter-
+national air law. Lord Mayfield, 1996 S.L.T. 529, 544C said
+that it was impossible to draw any clear conclusion as to the
+state of U.S. law, and Lord Clyde expressed the same view, at
+p. 547J, having observed earlier that it was pointless and per-
+haps impertinent to subject all these cases to critical analysis.
+Lord Allanbridge was able to find support in some of the
+cases for the view which he had already reached on his exam-
+ination of the Convention. But in the end he agreed, at p.
+542L with the observations of Leggatt L.J. in Sidhu v. British
+Airways Plc. in the Court of Appeal that, in view of the con-
+flicting nature of these authorities and the fact that the
+Supreme Court had twice refrained from addressing the pre-
+
+sent problem, it was necessary to reach a conclusion in this
+case without any definite aid from the United States. As Leg-
+gatt L.J. said in his judgment, it appears that the point is not
+settled in the United States as between circuits and even in
+
+some instances within the same circuit. From his considera-
+tion of the cases cited to him he was not prepared to say
+
+where the preponderance of current opinion lies in the United
+States.
+
+   I do not think that I can usefully add much to these obser-
+vations. One could, of course, attempt to prepare an analysis
+of the various cases which were cited to us in order to show
+why Metz v. K.L.M. Royal Dutch Airlines, (1979) 15 Avi. 17,
+843, Abramson v. Japan Airlines Co. Ltd. (1984) 739 F. 2d
+
+130, Fischer v. Northwest Airlines, (1985) 623 F. Supp. 1064
+
+and Walker v. Eastern Airlines, (1991) 23 Avi. 17, 904, which
+
+favour the position of the pursuer and the plaintiffs in this
+                                        62a
+
+case, should be rejected in the light of the contrary view
+
+expressed in Finkelstein v. Trans World Airlines Inc. (1978)
+
+15 Avi. 17, 379 and Saloom (George) v. British Airways,
+(unreported), 22 February 1993, U.S. District Court, South-
+ern District of California, Western Region. The Saloom case
+is of particular interest, as the claims which the court held
+were governed exclusively by the Convention and could not
+be made out on the facts arose out of the same incident as that
+with which we are concerned in this case. There are dicta in
+some other cases, notably Boehringer-Mannheim Diagnostics
+
+Inc. v. Pan American Airways Inc. (1984) 737 F. 2d 456,
+
+which support the general view that the Convention provides
+the sole cause of action where a passenger seeks to establish
+a claim against an air carrier and is the exclusive remedy. But,
+as Lord Clyde pointed out, 1996 S.L.T. 529, 547C, these gen-
+eral observations are of little value unless they are based on
+a clear and precise understanding of what matters are gov-
+erned by the Convention. I am not confident, with great
+respect to the many American judges who have participated
+in this debate, that that has always been the case. I believe
+that it would be unwise to attempt to reconcile all these dicta,
+or to try to subject each of the various decisions to analysis in
+order to extract from them a view which one could be confi-
+dent would be regarded as authoritative.
+
+   In any event, as Mr. Webb pointed out, the United States is
+
+only one jurisdiction among many. Although the volume of
+ litigation in that country on aviation matters is substantial and
+ the jurisprudence which has been developed is an important
+ source of information on aviation law generally, views formed
+ there cannot be assumed to be the same as those formed in
+ other jurisdictions which are party to the Convention. Some
+ of the cases in the United States may also be influenced by
+ the question whether the claim for damages was properly to
+ be litigated in the State courts rather than the Federal courts.
+ Lord Diplock in Fothergill v. Monarch Airlines Ltd. [1981]
+ A.C. 251, 284C drew attention to the factors on which the
+ persuasive value of the decisions of a foreign court must
+
+ depend. These include the reputation and status of the court,
+
+ and the extent to which the decision is binding upon courts of
+                                              63a
+
+ co-ordinate and inferior jurisdiction in that country. As mat-
+ ters have developed it will ultimately be for che Supreme
+ Court of the United States of America to offer guidance to the
+ American judges on this issue, and at this stage I do not think
+ that we should attempt to enter into the difficult debate as to
+ how the balance of view is likely to be resolved when the
+ matter is dealt with by that court.
+
+    As for the French case to which we were referred, I think
+ that it also must be regarded as being of no persuasive value
+ in the present case. In Ismail A. Mohamed v. British Airways,
+ (unreported), 8 November 1995, 65 passengers and their close
+ relatives, who were all French nationals, claimed damages
+ from British Airways for the consequences of the same events
+ as those which have given rise to the claims which are before
+us in these appeals. The Tribunal de Grande Instance de Paris
+reached the view on the facts that the damages claimed were
+not linked with disembarkation operations as such, and that
+they could not be linked to those risks inherent in aerial nav-
+igation as provided by the Warsaw Convention. In these cir-
+cumstances the court felt free to determine the law applicable,
+on the view that the consequential damages claimed were not
+covered by the field of application of the Convention. French
+law was applied, and the plaintiffs were found entitled to
+damages unrestricted by the limits set by article 22 of the
+Convention.
+
+   That, however, was a decision at first instance, and we were
+told that it is now under appeal. The copy of the judgment
+with which we have been provided, in an English translation,
+does not contain a close analysis of the Convention, nof is
+there any reference to previous decisions on the issue in the
+French courts or elsewhere. The reasons given do not disclose
+a detailed examination of the issues raised by the defence. It
+is reasonably clear however that the case proceeded upon a
+different view from that which has been taken in the present
+case, where it is conceded that the claims can properly be
+regarded as arising out of international carriage of passengers
+by air.
+CONCLUSION
+
+   I believe that the answer to the question raised in the pre-
+sent case is to be found in the objects and structure of the
+Convention. The language used and the subject matter with
+which it deals demonstrate that what was sought to be
+achieved was a uniform international code, which could be
+applied by the courts of all the High Contracting Parties with-
+out reference to the rules of their own domestic law. The Con-
+vention does not purport to deal with all matters relating to
+contracts of international carriage by air. But in those areas
+with which it deals—and the liability of the carrier is one of
+them—the code is intended to be uniform and to be exclusive
+also of any resort to the rules of domestic law.
+
+   An answer to the question which leaves claimants without
+a remedy is not at first sight attractive. It is tempting to give
+way to the argument that where there is a wrong there must be
+a remedy. That indeed is the foundation upon which much of
+our own common law has been built up. The broad principles
+which provide the foundation for the law of delict in Scotland
+and of torts in the English common law have been developed
+upon these lines. No system of law can attempt to compensate
+persons for all losses in whatever circumstances. But the
+assumption is that, where a breach of duty has caused loss, a
+remedy in damages ought to be available.
+
+   Alongside these principles, however, there lies another
+great principle, which is that of freedom of contract. Any per-
+son is free, unless restrained by statute, to enter into a con-
+tract with, another on the basis that his liability in damages is
+excluded or limited if he is in breach of contract. Exclusion
+and limitation clauses are a common feature of commercial
+contracts, and contracts of carriage are no exception. It is
+against that background, rather than a desire to provide reme-
+dies to enable all losses to be compensated, that the Con-
+vention must be judged. It was not designed to provide
+remedies against the carrier to enable all losses to be com-
+pensated. It was designed instead to define those situations in
+which compensation was to be available. So it set out the lim-
+its of liability and the conditions under which claims to estab-
+                                                65a
+
+   lish that liability, if disputed, were to be made. A balance was
+  struck, in the interests of certainty and uniformity.
+
+      All the obvious cases in which the carrier ought to accept
+  liability were provided for. But, as one of the French dele-
+
+  gates to the Warsaw Convention, Mr. Ripert, observed (Min-
+
+  utes p. 73) when the definition of the period of carriage was
+  being discussed, there are an infinite variety of cases not all
+  of which can be put in the same formula. No doubt the domes-
+  tic courts will try, as carefully as they may, to apply the word-
+  ing of article 17 to the facts to enable the passenger to obtain
+ a remedy under the Convention. But it is conceded in this
+ case that no such remedy is available. The conclusion must be
+ therefore that any remedy is excluded by the Convention, as
+ the set of uniform rules does not provide for it. The domestic
+ courts are not free to provide a remedy according to their own
+ law, because to do this would be to undermine the Conven-
+ tion. It would lead to the setting alongside the Convention of
+ an entirely different set of rules which would distort the oper-
+ ation of the whole scheme.
+
+    The Convention is, of course, tightly drawn on these mat-
+ters. This has been done in the interests of the carrier, whose
+exposure to these liabilities without the freedom to contract
+out of them was a principal consequence of the system which
+it laid down. Were remedies outside the Convention to
+become available, it would encourage litigation in other cases
+to restrict its application still further in the hope of obtaining
+a better remedy, against which the carrier would have no pro-
+tection under the contract. I am in no doubt that the Con-
+vention was designed to eliminate these difficulties. I see no
+escape from the conclusion that, where the Convention has
+not provided a remedy, no remedy is available.
+
+   For these reasons I would dismiss both appeals.
+

@@ -1,0 +1,89 @@
+Page 81     TITLE 5—GOVERNMENT ORGANIZATION AND EMPLOYEES                                                       § 703
+
+            HISTORICAL AND REVISION NOTES                                 judgment or decree may be entered against the
+                                                                          United States: Provided, That any mandatory or
+Derivation  U.S. Code                      Revised Statutes and Statutes  injunctive decree shall specify the Federal offi-
+                                                           at Large       cer or officers (by name or by title), and their
+(a) ............. 5 U.S.C. 1009 (intro-                                   successors in office, personally responsible for
+                         ductory clause).  June 11, 1946, ch. 324, § 10   compliance. Nothing herein (1) affects other lim-
+                                              (introductory clause), 60   itations on judicial review or the power or duty
+                                              Stat. 243.                  of the court to dismiss any action or deny relief
+                                                                          on any other appropriate legal or equitable
+   In subsection (a), the words ‘‘This chapter applies, ac-               ground; or (2) confers authority to grant relief if
+cording to the provisions thereof,’’ are added to avoid                   any other statute that grants consent to suit ex-
+the necessity of repeating the introductory clause of                     pressly or impliedly forbids the relief which is
+former section 1009 in sections 702–706.                                  sought.
+
+   Subsection (b) is added on authority of section 2 of                   (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L.
+the Act of June 11, 1946, ch. 324, 60 Stat. 237, as amend-                94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
+ed, which is carried into section 551 of this title.
+                                                                                             HISTORICAL AND REVISION NOTES
+   In subsection (b)(1)(G), the words ‘‘or naval’’ are
+omitted as included in ‘‘military’’.                                      Derivation  U.S. Code                 Revised Statutes and Statutes
+                                                                                                                                at Large
+   In subsection (b)(1)(H), the words ‘‘functions which by                .................. 5 U.S.C. 1009(a).
+law expire on the termination of present hostilities,                                                           June 11, 1946, ch. 324, § 10(a),
+within any fixed period thereafter, or before July 1,                                                              60 Stat. 243.
+1947’’ are omitted as executed. Reference to the ‘‘Selec-
+tive Training and Service Act of 1940’’ is omitted as                        Standard changes are made to conform with the defi-
+that Act expired on Mar. 31, 1947. Reference to the                       nitions applicable and the style of this title as outlined
+‘‘Sugar Control Extension Act of 1947’’ is omitted as                     in the preface to the report.
+that Act expired on Mar. 31, 1948. References to the
+‘‘Housing and Rent Act of 1947, as amended’’ and the                                                        AMENDMENTS
+‘‘Veterans’ Emergency Housing Act of 1946’’ have been
+consolidated as they are related. The reference to                           1976—Pub. L. 94–574 removed the defense of sovereign
+former section 1641(b)(2) of title 50, appendix, is re-                   immunity as a bar to judicial review of Federal admin-
+tained notwithstanding its repeal by § 111(a)(1) of the                   istrative action otherwise subject to judicial review.
+Act of Sept. 21, 1961, Pub. L. 87–256, 75 Stat. 538, since
+§ 111(c) of the Act provides that a reference in other                                SECTION REFERRED TO IN OTHER SECTIONS
+Acts to a provision of law repealed by § 111(a) shall be
+considered to be a reference to the appropriate provi-                       This section is referred to in title 2 sections 501, 502;
+sions of Pub. L. 87–256.                                                  title 7 section 2143; title 16 section 839f; title 18 sections
+                                                                          843, 3625; title 19 section 1677c; title 25 section 954; title
+   Standard changes are made to conform with the defi-                    28 section 2631; title 41 section 422; title 42 section 5405;
+nitions applicable and the style of this title as outlined                title 50 App. sections 16, 2412.
+in the preface to the report.
+                                                                          § 703. Form and venue of proceeding
+                           REFERENCES IN TEXT
+                                                                             The form of proceeding for judicial review is
+   Sections 1891–1902 of title 50, appendix, referred to in               the special statutory review proceeding relevant
+subsec. (b)(1)(H), were omitted from the Code as exe-                     to the subject matter in a court specified by
+cuted.                                                                    statute or, in the absence or inadequacy thereof,
+                                                                          any applicable form of legal action, including
+                                  AMENDMENTS                              actions for declaratory judgments or writs of
+                                                                          prohibitory or mandatory injunction or habeas
+   1994—Subsec. (b)(1)(H). Pub. L. 103–272 substituted                    corpus, in a court of competent jurisdiction. If
+‘‘subchapter II of chapter 471 of title 49; or sections’’ for             no special statutory review proceeding is appli-
+‘‘or sections 1622,’’.                                                    cable, the action for judicial review may be
+                                                                          brought against the United States, the agency
+                             CROSS REFERENCES                             by its official title, or the appropriate officer.
+                                                                          Except to the extent that prior, adequate, and
+   Atomic Energy Community Act of 1955, administra-                       exclusive opportunity for judicial review is pro-
+tive review only, see section 2309 of Title 42, The Public                vided by law, agency action is subject to judicial
+Health and Welfare.                                                       review in civil or criminal proceedings for judi-
+                                                                          cial enforcement.
+            SECTION REFERRED TO IN OTHER SECTIONS
+                                                                          (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 392; Pub. L.
+   This section is referred to in title 2 sections 501, 502;              94–574, § 1, Oct. 21, 1976, 90 Stat. 2721.)
+title 7 sections 1508, 2143; title 16 section 839f; title 18
+sections 843, 3625; title 20 section 1683; title 25 section                                  HISTORICAL AND REVISION NOTES
+954; title 30 section 956; title 41 section 422; title 42 sec-
+tions 5405, 6105, 6976; title 50 App. section 2412.
+
+§ 702. Right of review                                                    Derivation  U.S. Code                 Revised Statutes and Statutes
+                                                                                                                                at Large
+   A person suffering legal wrong because of                              .................. 5 U.S.C. 1009(b).
+agency action, or adversely affected or ag-                                                                     June 11, 1946, ch. 324, § 10(b),
+grieved by agency action within the meaning of                                                                     60 Stat. 243.
+a relevant statute, is entitled to judicial review
+thereof. An action in a court of the United                                  Standard changes are made to conform with the defi-
+States seeking relief other than money damages                            nitions applicable and the style of this title as outlined
+and stating a claim that an agency or an officer                          in the preface to the report.
+or employee thereof acted or failed to act in an
+official capacity or under color of legal author-                                                           AMENDMENTS
+ity shall not be dismissed nor relief therein be
+denied on the ground that it is against the                                  1976—Pub. L. 94–574 provided that if no special statu-
+United States or that the United States is an in-                         tory review proceeding is applicable, the action for ju-
+dispensable party. The United States may be
+named as a defendant in any such action, and a
+

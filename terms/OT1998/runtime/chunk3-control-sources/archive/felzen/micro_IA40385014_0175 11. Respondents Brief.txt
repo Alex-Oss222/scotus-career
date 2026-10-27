@@ -1,0 +1,1214 @@
+~~ 
+AY 
+No. 971732 
+IN THE 
+Supreme Court of the United = 
+OCTOBER TERM, 1998 
+i 
+— 
+— 
+California Public Employees’ Retirement System 
+and Florida State Board of Administration, 
+8 
+Petitioners, 
+Paul Felzen, et al., 
+Respondents. 
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+BRIEF FOR RESPONDENTS 
+PAUL FELZEN AND SANDRA ESNER 
+TERRY ROSE SAUNDERS 
+Counsel of Record 
+LAW OFFICES OF 
+TERRY ROSE SAUNDERS 
+30 North LaSalle Street 
+Chicago, IL 60602 
+Of Counsel: 
+(312) 346-4456 
+HENRY P. MONAGHAN 
+ROBERT M. ROSEMAN 
+435 West 116th Street 
+SPECTOR & ROSEMAN, P.C. 
+New York, NY 10027 
+1818 Market Street 
+(212) 854-2644 
+Philadelphia, PA 19103 
+(215) 864-2400 
+Counsel for Respondents 
+Paul Felzen and Sandra Esner 
+Midwest Law Printing Co., Chicago 60610, (312) 321-0220 
+— 
+eye + 
+— — 
+BEST AVAILABLE COPY! 
+
+i 
+QUESTION PRESENTED 
+Whether a nonparty shareholder who appears, in 
+response to notice provided under Federal Rule of Civil 
+Procedure 23.1, to present objections to a proposed dis- 
+missal or settlement of a derivative action, may appeal 
+an adverse decision even though the shareholder has 
+not been formally made a party to the action. 
+
+ii 
+TABLE OF CONTENTS 
+PAGE 
+QUESTION PRESENTEUPDPBFDit tdb 
+i 
+TABLE OF AUTHORITIES VE. 
+iii 
+SUMED 
+EEI 
+6006s cdecstantévanbseeee 
+1 
+STATEMENT OF THE CASE ................ 
+1 
+SUMMARY OF ARGUMENT ................ 
+8 
+e 
+das seen 
+13 
+I. Only Parties Can Appeal and Objectors 
+Age Wet FONG. 
+66 ccc acveaesanexane 
+13 
+KA 
+Ki.... 
+15 
+B. Ancillary or Non Caption Parties .... 
+17 
+G. Beate Caw 
+„ ²⅛˙W- 
+21 
+„„ „„„b„„„„„%„%„%„% 
+/ „% 
+22 
+„„““ 
+aan 
+22 
+B. An Intervention Requirement Does 
+Not Promote Collusive Settlements 
+or Impose Undue Burdens ......... 
+25 
+e 
+nee 
+27 
+iii 
+TABLE OF AUTHORITIES 
+Cases 
+PAGE 
+Amchem Prods. Inc. v. Windsor, 
+r 
+è ... 
+25 
+Blake v. District Court, 
+S 
+MD 
+. occ 
+cc ceecces 
+20 
+Blossom v. The Milwaukee Railroad, 
+r 
+„ he 0 
+18 
+In re Brand Name Prescription Drugs 
+Antitrust Litigation, 115 F.3d 456 
+FS 
+ö. 
+1, 2, 9 
+Burks v. Lasker, 441 U.S. 471 (1970) 
+15 
+Chase National Bank v. City of Norwalk, 
+Ee 
+16 
+Christian v. R. Hoe, 
+63 F.9d 318 (94 Cir. 10600: 
+eee 19 
+Cohen v. Beneficial Indus. Loan Corp., 
+r 55 es 24 
+Cohen v. Young, 
+127 F.3d 721 (6th Cir. 1942) ............. 
+16 
+Daily Income Fund, Inc. v. Fox, 
+e 
+„ 
+15, 22 
+Grant v. United States, 227 U.S. 7401913 
+17 
+Hanna v. Plummer, 380 U.S. 460 (1965) ....... 
+22 
+
+iv 
+Holden v. Burlington Northern, Inc., 
+665 F. Supp. 1398 (D. Minn. 1987) 
+........ 
+23 
+Johnson v. Manhattan Railway Co., 
+ee Ws 
+ener 
+19, 20 
+Kamen v. Kemper Fin. Servs., Inc., 
+L 12, 15, 19 
+Kingsport Press, Inc. v. Brief English 
+Systems, Inc., 54 F. 2d 497 
+r 
+Ü“oůaa cectnessands 
+19 
+Kneeland v. American Loan & Trust Co., 
+D 
+owe araccdoekounh 
+nasser 18 
+Lexecon, Inc. v. Milberg Weiss Bershad 
+Hynes & Lerach, 118 S. Ct. 956 (1999) 
+20 
+Marino v. Ortiz, 484 U.S. 301 (1989) passim 
+Martin v. Wilks, 490 U.S. 755 (1989) 
+.... 11, 16, 25 
+Matsushita Elec. Indus. Co. v. Epstein, 
+Ge Ge 
+ED so docacchabuceubaiue 
+21 
+Mitchell v. Lay, 
+48 F.2d 79 (9th Cir. 1988170. 
+19 
+Ross v. Bernhard, 396 U.S. 531 (1970) 
+..... 
+12, 24 
+Phillips Petroleum Co. v. Shutts, 
+472 U.S. 797 (19880) 
+11, 13, 16, 26 
+Sheldon v. Sill, 49 U.S. 441 (1850) ........... 
+22 
+v 
+Steel Co. v. Citizens for u Better Environment, 
+118 S. Ct. 1003 (199) 
+20 
+United States v. Dion, 476 U.S. 734 (1986) ..... 
+21 
+United States v. Nixon, 418 U.S. 683 (1974) .... 
+18 
+Walker v. Armco Steel Co., 
+466 UB. T4O (IGSS) . ö 
+22 
+West v. Randall, 
+29 F. Cas. 718 (C. C. D. 
+R. I. 1820) .......... 
+10 
+Statutes and Rules 
+r,... 
+1, 9, 14, 17, 25 
+r.... 
+„. . „ „ „ „ 
+„ „„.. 
+17, 20 
+L 
+20 
+LI 
+21, 25 
+Federal Rules of Appellate Procedure: 
+| 
+Pr errrrrr 
+TT rire TTS passim 
+Federal Rules of Civil Procedure: 
+rennen eine 
+nens 
+11, 16 
+eee 
+ee 22 
+
+Rules of the Supreme Court 
+of the United States: 
+...en 9, 11, 14, 17 
+. 
+9, 11, 12, 14, 17, 21 
+Miscellaneous 
+Jonathan R. Macey & Geoffrey P. Miller, 
+The Plaintiff's Attorney s Role in Class 
+Action and Derivative Litigation: Economic 
+Analysis and Recommendations for 
+Reform, 58 U. CHI. 
+L. REV. 1(1991) ......... 
+Henry P. Monaghan, Antisuit Injunctions 
+and Preclusion Against Absent 
+Nonresident Class Members, 
+98 COLUM.L.REV. 1148 (1998) ............ 
+Robert L. Stern, et al., SUPREME COURT 
+PRACTIOR (7th o6. 1906) 
+. 
+ccc ccccccces 
+Patrick Woolley, Rethinking the Adequacy 
+of Adequate Representation, 
+VO Cea. BUR CRE) . 
+1 
+JURISDICTION 
+The Court 
+of Appeals entered its judgment 
+on Janu- 
+ary 21, 1998. The petition for a writ of certiorari, filed 
+on April 21, 1998, was granted on September 29, 1998. 
+Petitioners invoke the jurisdiction of this Court under 
+28 U.S.C. § 1254(1). 
+STATEMENT OF THE CASE 
+The facts relevant to this petition are simply stated. 
+Respondents, shareholders in Archer Daniels Midland 
+Company (“ADM”), brought this derivative suit in the 
+United States District Court in Illinois, alleging that 
+ADM’s directors had violated duties owed to the corpo- 
+ration. A settlement was reached, and pursuant to 
+Fed.R.Civ.P. 23.1, notice of the proposed settlement was 
+given to all the shareholders. Petitioners filed written 
+objections to the settlement and appeared at the set- 
+tlement approval hearing in opposition to the proposed 
+settlement. At the conclusion of the hearing, the district 
+court rejected their objections, approved the settlement 
+and entered judgment. 
+Petitioners never sought to intervene in the district 
+court. One week after the district court hearing, how- 
+ever, they filed a notice of appeal to the Court of Ap- 
+peals for the Seventh Circuit as objectors “entitled to 
+appeal.” App. 348-49. Respondents moved to dismiss the 
+appeal in light of Seventh Circuit precedent squarely 
+holding that nonparty class members who do not seek 
+to intervene to become parties may not appeal from dis- 
+trict court orders. In re Brand Name Prescription Drugs 
+Antitrust Litigation, 115 F.3d 456 (7th Cir. 1997) 
+(Posner, C. J.). The Brand Name Drugs decision relied 
+
+on this Court’s holding in Marino v. Ortiz, 484 U.S. 
+301, 304 (1988), and made clear that Marino barred 
+objectors who were not name plaintiffs in representa- 
+tive actions from appealing district court orders. Brand 
+Name Prescription Drugs, 115 F.3d at 457. In this case, 
+the Court of Appeals (Posner, C. J., and Flaum and 
+Easterbrook, JJ.) dismissed petitioners’ appeal, holding 
+that petitioners as nonparty objectors were not entitled 
+to appeal. The panel’s opinion was circulated to the 
+judges of the Seventh Circuit, and no judge favored 
+hearing the case en banc. Petitioners sought certiorari 
+from this Court, which the Court granted on the limited 
+issue whether Rule 23.1 objectors who do not intervene 
+can nonetheless appeal. 
+Despite the apparent simplicity of these facts and the 
+straightforward nature of the legal issue raised by this 
+Court’s grant, petitioners’ brief is laced with personal 
+attacks upon the conduct of plaintiffs and their counsel. 
+This attack is entirely irrelevant to the issue upon 
+which the writ issued. Petitioners understand that full 
+well. Apparently, they hope that by casting aspersion 
+on plaintiffs’ counsel’s conduct, this Court will somehow 
+forgive petitioners’ failure to seek to intervene. Perhaps 
+we need say no more on this score. But we are un- 
+willing to have the Court proceed on the basis of doubts 
+about plaintiffs’ counsel’s conduct. The record in this 
+case, including affidavits and the district court’s find- 
+ings, makes clear that petitioners’ charges are unwar- 
+ranted. 
+Paul Felzen and Sandra Esner are individual share- 
+holders of ADM. They brought this derivative action in 
+the United States District Court for the Northern Dis- 
+trict of Illinois in July 1995 on behalf of ADM and its 
+shareholders against 17 ADM directors after the federal 
+government’s investigation of illegal price-fixing at 
+ADM was disclosed. Plaintiffs were concerned that the 
+ADM board, long criticized as being dominated by 
+Chairman Dwayne Andreas, whose son was being in- 
+vestigated for price-fixing, would not respond appro- 
+priately to the criminal investigation. The case was 
+subsequently transferred to the United States District 
+Court for the Central District of Illinois. Other individ- 
+ual shareholders brought similar derivative actions in 
+Delaware State Court. 
+Petitioners are two ADM shareholders who own less 
+than one percent of the Company’s common stock. Al- 
+though aware of this litigation and apprised of settle- 
+ment discussions months before the case was settled, 
+petitioners did not seek to participate in the litigation 
+or make their objections to the proposed settlement 
+known to plaintiffs’ counsel until after the parties to 
+the derivative actions had entered into a settlement 
+agreement. 
+Plaintiffs’ counsel prosecuted this lawsuit for nearly 
+two years during which time they reviewed all the 
+documents ADM produced for various civil antitrust 
+litigations, filed amended and supplemented pleadings 
+and briefed successive motions to dismiss and discovery 
+motions. The motions were set for hearing when the 
+parties agreed to discuss settlement. Plaintiffs’ counsel 
+agreed to discuss settlement not only because of the 
+risks of this litigation and derivative litigation in gen- 
+eral but, more importantly, because they and ADM 
+shareholders believed that the reat long term value to 
+ADM would come through corporate governance reforms 
+
+4 
+that could be obtained only through settlement, but not 
+through litigation. The primary interest of ADM share- 
+holders, including large institutional shareholders, was 
+to make ADM’s board more independent and less sub- 
+ject to management control.' 
+In late 1996 and early 1997, plaintiffs’ counsel met 
+with and spoke by telephone to large institutional 
+investors, including petitioner CalPERS, amicus, the 
+Council of Institutional Investors (“CII”), the Carpen- 
+ters Pension Fund, the Teamsters Pension Fund, and 
+an official responsible for New York City’s pension fund 
+investments, to solicit their views and input with re- 
+spect to the litigation and settlement negotiations. CII 
+declined to become involved because a legal action was 
+“politically sensitive,” and CII members did not always 
+agree on solutions or with “shareholder activism” in 
+general. App. 329. 
+Plaintiffs’ counsel met with CalPERS’ general counsel 
+in San Francisco in February 1997 to discuss the vari- 
+ous corporate governance measures that ADM was will- 
+ing to implement as part of the settlement of the 
+action. Additionally, plaintiffs’ counsel specifically ad- 
+vised that ADM was unwilling to adopt all of the pro- 
+visions of the CII definition of independence as part of 
+a settlement of this case. CalPERS’ counsel commented 
+that a somewhat weaker definition of “independence” 
+was “okay” because the CII definition was intended to 
+Shareholder proposals 
+iring 
+a majority of independent 
+board members and 
+ial 
+voting were defeated at 
+ADM’s annual meeting of shareholders in 1996, but had each 
+received more than 40% of the votes at ADM’s annual meet- 
+Ing. 
+establish a starting point for negotiations. She then 
+commended plaintiffs’ counsel for informing institu- 
+tional investors of their settlement negotiations and 
+said she would speak to FSBA. App. 330-31. At no time 
+before, during, or after this February 1997 meeting did 
+CalPERS (or FSBA) offer any suggestions or communi- 
+cate to plaintiffs’ counsel any dissatisfaction with the 
+terms of the settlement plaintiffs were negotiating, 
+until one month after the settlement was publicly an- 
+nounced and a few days before CalPERS and FSBA 
+filed their written objections to the settlement in July 
+1997.” 
+Petitioners acknowledge that a settlement that pro- 
+motes board independence can provide “significant 
+value” to ADM and its shareholders. App. 321. They 
+attack the settlement, however, because it permits 
+board members who have non-material relationships to 
+ADM to be classified as independent; it incorporates the 
+reforms ADM’s Corporate Governance Committee had 
+recommended; it provides for allegedly excessive at- 
+torneys’ fees in light of the benefits conferred; and 
+because they believe—incorrectly—that all claims are 
+to be released. 
+The settlement is the result of five months of negotia- 
+tions among counsel for plaintiffs, the defendant di- 
+rectors and ADM. The settlement is also the result of 
+* Plaintiffs’ counsel called CalPERS’ general counsel after the 
+settlement agreement was signed. No one from CalPERS 
+returned 
+the call. However, shortly after the district court pre- 
+liminarily approved the settlement, 
+the CII resurfaced 
+and de- 
+— 
+— 
+1 — 
+CIl's definition of an independent director. App. 331-32. 
+
+6 
+separate negotiations among counsel for the plaintiffs 
+in the Delaware State Court action and defendants 
+which led to certain additions and modifications to the 
+settlement. The settlement incorporates ADM’s Corpo- 
+rate Governance Committee’s recommendations, which 
+had been approved but not implemented, and further 
+imposes new requirements on ADM—to amend its by- 
+laws to reflect the changes in board requirements and 
+to change the composition and role of key board com- 
+mittees. App. 119, 128-133. The reforms over all have 
+been described by Columbia University Law School Pro- 
+fessor John C. Coffee, Jr., with whom plaintiffs’ counsel 
+consulted during settlement negotiations, as “more or 
+less the state of the art in American corporate gover- 
+nance” and “significant steps to facilitate board inde- 
+pendence and to end the apparent managerial domina- 
+tion of the ADM board.” App. 226, 229. Professor Coffee 
+also noted that CII’s definition of an “independent” 
+director did not reflect “the prevailing view” and had 
+not been adopted by many public corporations with 
+model corporate governance standards. App. 327.“ 
+The settlement requires the director defendants to 
+pay $8 million from their $10 million insurance cover- 
+age to the corporation, more than half of which is to be 
+used to pay the cost of implementing the settlement’s 
+reforms, including education, training and legal compli- 
+Despite their position at the settlement ry ye hearing 
+petitioners did not resubmit their proposal for defining 
+di 
+rector independence to a vote of the ADM shareholders. 
+7 
+ance. App. 118, 128-33.* Moreover, the newly constitut- 
+ed Audit Committee has been delegated new responsi- 
+bilities for legal compliance oversight which, according 
+to Professor Coffee, are “of special value” to ADM. App. 
+226. ADM does not release all claims, but rather 
+retains all claims that it may have against Michael D. 
+Andreas, Terrance Wilson and Mark Whitacre, the only 
+three ADM officials whom the government prosecuted 
+for price-fixing. App. 117-18.° Thus the fee award re- 
+flects the value placed on the overall settlement, in- 
+cluding corporate governance reforms. Petitioners do 
+not disagree that such reforms have value, but disagree 
+with the valuation in this case.“ 
+* Petitioners’ suggestion (Br. 6 n.7) that plaintiffs’ counsel 
+may have a conflict because the Audit Committee could engage 
+them as “outside independent counsel” is preposterous. 
+° Plaintiffs’ counsel did not meet with the insurance carrier. 
+The defendants’ counsel, however, did meet with the carrier to 
+discuss, among other things, respondents’ insistence that 
+claims against Michael Andreas not be released. If ADM fails 
+to take appropriate action to pursue any claims it has against 
+Andreas, Wilson 
+or Whitacre, 
+a shareholder, 
+including 
+CalPERS or FSBA, may bring a derivative action against 
+ADM’s Board at the time. 
+® Plaintiffs’ financial expert, R. Alan Miller, valued the set- 
+tlement at $158 million. 
+249. The fee is a small percent- 
+age of this number. 
+The fee, less expenses, represented a 
+n 1.3 of the then lodestar of the 
+Delaware and 
+Illinois 
+plaintiffs. App. 169, 219. Like CalPERS, 
+the Delaware plaintiffs’ 
+attorneys requested a fee that did not 
+take into account the value of the corporate governance re- 
+forms. They referred to situations where the settlement did 
+not, as it does in this case, provide both for a monetary 
+payment to the corporation by its directors and a non-mone- 
+tary corporate benefit. See Pet. Br. 9 n.10. 
+
+8 
+When petitioners appeared at the settlement hearing 
+in July 1977, they alluded to the potential for collusion 
+in derivative and class action settlements. They admit- 
+ted, however, that they had no evidence of collusion, 
+App. 338, and the district court judge made an express 
+finding that there was “no basis for claims of collusion. 
+Just none. These people have dealt with each other 
+professionally and at arm’s length.” App. 347. The dis- 
+trict court did have evidence—the written record—of 
+the history of the litigation, the reasons for the settle- 
+ment and the value of the settlement. Based on this 
+record, briefs and oral arguments, the district court 
+approved the settlement as fair, reasonable and ade- 
+quate. Pet. App. 12a.’ Citing expert affidavits as to the 
+value of the corporate governance reforms, the district 
+court awarded plaintiffs attorneys’ fees and expenses 
+totaling $3,920,000. Pet. App. 17a. One week later, 
+petitioners filed their notice of appeal from the district 
+court’s final judgment and orders. 
+SUMMARY OF ARGUMENT 
+1. In Marino v. Ortiz, 484 U.S. 301, 304 (1988), this 
+Court said: 
+The rule that only parties to a lawsuit, or those 
+that properly become parties, may appeal an 
+adverse judgment, is well settled. The Court of 
+Appeals suggested that there may be exceptions 
+to this general rule, primarily “when the non- 
+party has an interest that is affected by the 
+In addition to the written evidentiary record and oral argu- 
+ments, 
+plaintiffs’ financial expert, R. Alan Miller, was present 
+for the — 
+trial court’s judgment.” We think the better 
+practice is for such a nonparty to seek interven- 
+tion for purposes of appeal; denials of such 
+motions are, of course, appealable. 
+Relying upon this language, Fed.R.App.P. 3(c), and its 
+own earlier decision in Brand Name Prescription 
+Drugs, the court below held that Fed. 
+R. Civ. P. Rule 
+23.1 objectors who had not sought to intervene could 
+not appeal from a district court's final judgment ap- 
+proving a derivative suit settlement. In this Court, 
+petitioners and their amici advance a wide range of 
+arguments seeking reversal. Some are plainly irrele- 
+vant. The repeated emphasis (Pet. Br. 13-16, 33-34) on 
+the alleged importance of the objectors’ “monitoring” 
+function surely cannot magically transform “objectors” 
+into “parties”. Other arguments appear in a contradic- 
+tory fashion. The various briefs inform the Court both 
+that an intervention requirement is a meaningless for- 
+mality, and that such a requirement is so burdensome 
+as to deter the appearance of objectors. 
+2. Like this Court’s Rules 12 and 14, Rule 3(c) re- 
+flects the principle that only parties may appeal. See 
+also 28 U.S.C. §1254(1), which directly governs this 
+proceeding and which restricts petitioners to “any 
+party”. Accordingly, petitioners must demonstrate party 
+status. Although petitioners and their principal amicus, 
+the United States, vary in expositional style, both in 
+In re Brand Name Prescription Drugs Antitrust Litigation, 
+115 F.3d 456 (7th Cir. 1997). There, the court, relying upon 
+Marino, held that objectors in a class action who had not inter- 
+vened could not appeal. The court below believed that Brand 
+Name’s reasoning applied a fortiori in a derivative context. 
+(Pet. App. 4a-6a) 
+
+10 
+the end draw upon two sources: Rule 23.1 and the 
+decisions allowing persons not named in the pleading 
+captions to appeal—“quasi parties” in the government’s 
+terminology’ or, more appropriately, “ancillary parties”. 
+Petitioners insist that they are de facto parties by 
+virtue of responding to a Rule 23.1 notice (Br. 19), and 
+also that they fall within the case law permitting non- 
+named parties to appeal. Br. 25-27. Similarly, the 
+government argues that Rule 23.1 “quasi-party prece- 
+dents do furnish support for appealability” (Br. 16), 
+which is reflected by the language of Rule 23.1 itself. 
+Br. 12-15. 
+But reliance upon either Rule 23.1 or the “quasi 
+party” doctrine is misplaced. 
+(a) Rule 23.1. (pp. 15-17, infra). The government ac- 
+knowledges that at common law some courts held that 
+nonparty shareholders had no right to notice of a 
+derivative action settlement. Br. 19-20. Rule 23.1 alters 
+that legal landscape, providing stockholders with a 
+right to notice of the proposed settlement and court 
+approval, which in practice carry with them a right to 
+appear for the purpose of objecting. In a Rule 23.1 
+proceeding, however, an objector does not participate as 
+a party. The shareholder cannot dictate litigation strat- 
+egy, settle the litigation, or represent the corporation 
+on any issue in the litigation. He can only object. Noth- 
+ing in Rule 23.1’s language or history remotely suggests 
+that the Rule was also intended implicitly to confer 
+appeal rights in addition to the two rights that it con- 
+fers upon shareholders. 
+The term 
+i party appears in Justice 
+8 opinion 
+in 
+West v. 
+, 29 F.Cas. 718, 722-23 (C.C. D. 1 1820). 
+11 
+(b) Ancillary or Non Caption Parties. (pp. 17-20, 
+infra). Neither Rule 3(c) nor this Court’s Rule 12 
+defines “party” but, as the case law and this Court’s 
+Rule 14(b) make clear, this term properly includes per- 
+sons other than those listed in the pleading captions. 
+The decisions of this Court demonstrate that “ancillary” 
+parties can be grouped into three general categories. 
+First, where the appellant is himself the direct object of 
+a judicially enforceable order, such as an injunction or 
+a contempt citation. Second, where the court purports 
+directly to affect legally established rights or duties of 
+named persons, such as determining ownership rights. 
+As Marino v. Ortiz makes clear, however, the judicial 
+order must do more than simply disadvantage the 
+would-be appellant. See also Martin v. Wilks, 490 U.S. 
+755 (1989). Rather, the order must operate directly 
+upon the rights or duties of named or identifiable per- 
+sons. Third, where (as Marino v. Ortiz makes plain) the 
+appellant has unsuccessfully sought to intervene in the 
+proceeding. 
+Neither of the first two categories is applicable here. 
+Rule 23.1 provides for the issuance of a notice, not a 
+summons. (Compare Fed.R.Civ.P. Rule 4). Objectors are 
+not “summoned” to the court, any more than are absent 
+class members who receive a comparable notice under 
+Rule 23(e). Phillips Petroleum Co. v. Shutts, 472 U.S. 
+797, 808-811 (1985). Shareholders can ignore the notice, 
+and if they do, their own legal rights are not affected. 
+The government’s unsupported argument that the ob- 
+jecting stockholder under Rule 23.1 asserts a “personal 
+right” (Br. 16) is wrong. A Rule 23.1 proceeding itself 
+concerns only the rights of the corporation and all of its 
+stockholders, not the rights of or losses suffered by indi- 
+
+12 
+vidual stockholders. Kamen v. Kemper Fin. Servs., Inc., 
+500 U.S. 90, 95 (1991). 
+(c) State Law. An amicus contends that state law 
+governs the party status of objectors. (pp. 21-22, infra). 
+This issue is not “fairly included” within the question 
+presented (Rule 14.1(a) of the Rules of this Court), and, 
+in any event, is implausible. 
+3.(a) The distinction between the status of objectors 
+and intervenors has much to commend it. (pp. 22-25, 
+infra). A requirement that an objector move to inter- 
+vene neither reflects a meaningless formality nor 
+creates an unwarranted obstacle. In a derivative suit, 
+the shareholder plaintiff fights for the right to speak 
+for the corporation and then to proceed with the 
+corporation’s claims. Ross v. Bernhard, 396 U.S. 531, 
+538 (1970). An intervenor assumes at least some re- 
+sponsibilities and makes some commitments. An ob- 
+jector, by contrast, makes no commitments and as- 
+sumes no responsibilities. Objectors are not all cut from 
+the same bolt of cloth. Some undertake serious work; 
+others appear in a more or less desultory fashion. In- 
+tervention proceedings thus serve as a screening device 
+to deter frivolous or “hold up” appellate challenges to a 
+settlement. If the distinction between objectors and par- 
+ties is to be altered, it is for Congress to determinate, 
+or for the rule-making process. 
+(b) Petitioners’ argument that appealability without 
+intervention is necessary to prevent collusion is merit- 
+less. (pp. 25-27, infra). It assumes not only that a 
+district court will rubber-stamp a “collusive settlement” 
+in the face of cogent, well-founded objections and deny 
+a well-founded motion to intervene, but also that the 
+13 
+court of appeals will not carefully review the district 
+court’s decisions. If this is truly the situation, it will 
+make no difference whether a nonparty could appeal 
+without seeking to intervene. Either way, the ultimate 
+appeal would be futile. Petitioners’ additional argument 
+that an intervention requirement would subject them to 
+burdens, e.g., discovery, is, at best, speculative, as the 
+Court noted of similar claims in Phillips Petroleum Co. 
+v. Shutts, 472 U.S. at 810 n.2, and in any event is ir- 
+relevant. 
+ARGUMENT 
+This case has had extensive briefing with respect to 
+the meaning and content of Rule 23.1, and this Court’s 
+ancillary party cases. We see no reason to duplicate 
+that elaborate and meticulous discussion. Rather our 
+submission emphasizes the points that we think are 
+most salient. They reduce to two: only parties can ap- 
+peal and objectors 
+are not parties. 
+I. Only Parties Can Appeal and Objectors Are Not 
+Parties. 
+“The rule that only parties to a law suit, or those that 
+become parties, may appeal an adverse judgment, is 
+well settled.” Marino v. Ortiz, 484 U.S. at 304. Peti- 
+tioners’ statement that federal courts “routinely permit 
+nonparty appeals” 
+in a wide variety of circumstances 
+(Br. 25-26) 
+is wrong. It rests upon the implicit assump- 
+tion that only the persons actually named in the cap- 
+tion of the pleadings are properly considered “parties”. 
+This is, as we shall show, an error. The authorities ac- 
+tually cited by petitioners and the government involve 
+
+14 
+situations in which the courts properly viewed persons 
+not named in the captions as ancillary parties. But they 
+provide no assistance to petitioners. Petitioners are 
+objectors. Objectors are not parties. Objectors are just 
+that: objectors. 
+Rule 3(c) clearly embodies the background premise 
+that only a “party or parties” can appeal. Marino v. 
+Ortiz, 484 U.S. 301, 304; see also 28 U.S.C. §1254(1). 
+Like this Court’s Rule 12, Rule 3(c) itself does not de- 
+fine that term. The case law recognizes that the term 
+“party or parties” properly embraces more than the 
+persons named in the pleading caption. As does this 
+Court’s Rule 14. 10b).“ But as Rule 12 makes clear (to 
+say nothing of 28 U.S.C. §1254(1)), this Court is con- 
+cerned with the rights of parties. Only parties may peti- 
+tion for certiorari, Rule 12.4, and “all parties to the pro- 
+ceeding in the Court below are deemed parties 
+Rule 12.6. 
+To establish their right to appeal to the court of 
+appeals or to this Court, petitioners must establish that 
+they are parties. They cannot do so. Rule 23.1 does not 
+help them and neither do the cases treating persons not 
+named in the pleading caption as parties. 
+1% Rule 14.1 provides: 
+A petition for a writ of certiorari shall contain, in the 
+order indicated: 
+(b) A list of all parties to the proceeding in the court 
+whose judgment is sought to be reviewed (unless 
+the caption of the case contains the names of all 
+the parties), and a list of parent companies 
+and 
+nonwholly owned subsidiaries as required by Rule 
+29.6. 
+15 
+A. Rule 23.1. 
+Rule 23.1 can only be understood against the back- 
+ground of a derivative suit. A derivative suit is, in 
+essence, two suits. Daily Income Fund, Inc. v. Fox, 464 
+U.S. 523, 529 n.4 (1984). The first is an effort by a 
+shareholder to establish the authority to speak for the 
+corporation, when the corporation has failed to enforce 
+a right it has. The second, once the authority is estab- 
+lished, consists of the shareholder’s efforts, in the 
+language of Rule 23.1, “to enforce the right of a cor- 
+poration.” See Kamen v. Kemper Fin. Servs., Inc., 500 
+U.S. 90, 95-96 (1991). In a derivative action, a share- 
+holder has an economic interest, the value of his 
+shares, but the shareholder brings the proceeding solely 
+in the interests of the corporation and its shareholder 
+owners. In discharging that obligation, a derivative 
+plaintiff 
+may seek to settle or dismiss the case. In such 
+circumstances, Rule 23.1 gives shareholders two rights: 
+the right to notice and the right to court approval. 
+These are valuable rights designed to prevent abuse. 
+But these rights do not confer party status upon the 
+objector. If the district 
+court rejected a settlement, an 
+objector could not force the corporation to adopt a dif- 
+ferent settlement and could not prosecute or dismiss 
+the case. Objectors bear none of the rights and respon- 
+sibilities of a party. Indeed, they have no rights what- 
+soever if the district court dismisses the case involun- 
+tarily. Burks v. Lasker, 441 U.S. 471, 485-86 n.16 
+(1978). If objectors seek greater rights, they must move 
+to intervene under Rule 24. Unless they do so, objectors 
+remain objectors, not parties. 
+Petitioners seek to avoid this obvious difficultly by 
+insisting they were “summoned” to appear in district 
+
+16 
+court. They thereby seek to assimilate their status to 
+that of a civil defendant. Under Fed.R.Civ.P. 4, a 
+summons issues only to defendants and certain plain- 
+tiffs joined as such under Fed.R.Civ.P. 19. See Chase 
+Nat’l Bank v. City of Norwalk, 291 U.S. 431, 441 
+(1934), cited with approval in Martin v. Wilks, 490 U.S. 
+at 763. Rule 23.1 authorizes the issuance of a notice, 
+not a summons.” That notice imposes no legal obliga- 
+tion upon the shareholder. The shareholder can ignore 
+it, and if he does, none of his own legal rights is deter- 
+mined. Petitioners’ effort to assimilate their status to 
+that of a defendant is no more convincing than it was 
+when made in Phillips Petroleum Co. v. Shutts, 472 
+U.S. 797, 808-811 (1995). There, this Court rejected an 
+attempt by nonresident class members to analogize 
+their status for purposes of in personam jurisdiction to 
+that of a nonresident defendant. The Court stressed the 
+many differences between the two and stated that, in 
+reality, the class member “is not required to do any- 
+thing”. Id. at 810. See also Henry P. Monaghan, Anti- 
+suit Injunctions and Preclusion Against Absent Nonres- 
+ident Class Members, 98 COLUM.L.REV. 1148, 1162- 
+1173 (1998) (discussing this aspect of Shutts). The same 
+is true here. 
+In 
+the Question Presented in their brief on the merits, peti- 
+tioners restate the 
+as follows: “Whether 
+a shareholder 
+who, pursuant to Federal Rule of Civil Procedure 23.1, 72 
+moned to appear in federal district court and 
+t objec- 
+tions to a proposed dismissal or settlement of a derivative 
+action must also intervene pursuant tc Federal Rule of Civil 
+Procedure 24 in order to appeal an adverse decision.” 
+The government, relying 
+on Cohen v. Young, 127 F.2d 721, 
+724 (6th Cir. 1942), seems to endorse 
+the “summons” argu- 
+ment. Br. 6. 
+17 
+Petitioners, however, undercut their “summons” argu- 
+ment, for the key fact upon which they rely is not 
+simply the existence of the Rule 23.1 notice to share- 
+holders, but the fact that they responded to the court’s 
+“invitation”. Br. 19. But their acceptance of the court’s 
+“invitation” cannot transform a Rule 23.1 “objector” into 
+a “party.” See, for example, Grant v. United States, 227 
+U.S. 74, 79 (1913). An objector appears in court solely 
+in the interest of the corporation, but as an objector. 
+The language of Rule 23.1 does not confer party status 
+on him. Of course, petitioners do not want any burdens 
+that party status brings. They are really asking for the 
+status of “super parties”, that is to say, to have all the 
+rights of a party in gaining access to the appellate 
+court, but without shouldering any of the responsibili- 
+ties. Rule 23.1 does not afford them this luxury. 
+B. Ancillary or Non Caption Parties. 
+As we have noted, neither Rule 3(c) nor this Court’s 
+Rule 12 defines “party”, but as the case law and this 
+Court’s Rule 14(b) make clear, this term properly 
+includes persons other than those listed in the pleading 
+captions.” The government insists that use of the 
+category of ancillary party “should be sparing indeed”. 
+Br. 16. This Court's“ decisions support grouping “ancil- 
+lr ber 51291 does not mention a 
+party requirement. But 28 —— 
+1254(1) does. Moreover, it 
+. 
+1) provides this Court with 
+lees 
+jriediction than 
+$1291 
+gives 
+tothe cour of 
+appeals 
+on 
+1 
+4 
+tioners rely almost — 1 on lower court 
+and 
+the views of a treatise. See Br. 25-26. By contrast, the govern- 
+(continued...) 
+
+18 
+lary” parties into three general categories. First, where 
+the appellant is himself the direct object of a judicially 
+enforceable order, such as an injunction or a contempt 
+citation. United States v. Nixon, 418 U.S. 683 (1974). 
+Second, where the court purports directly to affect 
+legally established rights or duties of named persons. 
+E. g., Kneeland v. American Loan & Trust Co., 136 U.S. 
+89, 94 (1890); Blossom v. The Milwaukee Railroad, 68 
+U.S. 655, 655-56 (1863). In these circumstances, the 
+judicial order must do more than simply disadvantage 
+the would-be appellant, as Marino v. Ortiz, 484 U.S. 
+301, makes plain. Rather, it must operate directly upon 
+the rights or duties of named persons. Third, where the 
+appellant has unsuccessfully sought to intervene in the 
+proceeding. Id. 
+Neither of the first two categories is applicable here. 
+As discussed above, objectors are not “summoned” to 
+the court, any more than are absent class members in 
+a Rule 23 proceeding who receive a comparable notice 
+under Rule 23(e). Shareholders can ignore the notice, 
+and if they do, their own legal rights are not affected. 
+The government’s unsupported argument that the 
+objecting stockholder under Rule 23.1 asserts a “person- 
+al right” (Br. 16) is quite misleading. As we have noted, 
+as a stockholder, the objector may have an economic 
+interest sufficient to satisfy art. III, but a Rule 23.1 
+proceeding concerns only the rights of the corporation, 
+continued) 
+ment confines its discussion to the decisions of this Court. Br. 
+16-18. In this brief, like the government, we focus on the de- 
+cisions of this Court. 
+— 
+— 
+19 
+not losses suffered by individual stockholders. Kamen 
+v. Kemper Fin. Servs., Inc., 500 U.S. at 95. 
+Petitioners’ reliance (Br. 21) upon this Court’s deci- 
+sion in Johnson v. Manhattan Railway Co., 289 U.S. 
+479, 495 (1933) is misplaced. Johnson arose in unusual 
+circumstances: a bitter jurisdictional clash between a 
+senior circuit judge, sitting in the district court, and the 
+district judges over appointment of equity receivers. So 
+far as relevant here, this Court rejected a collateral 
+attack upon a proceeding in which the senior circuit 
+judge had entered an order continuing the appointment 
+of a temporary receiver. In a paragraph explaining why 
+the second proceeding was a collateral and not a direct 
+attack on the order entered by the circuit judge, this 
+Court said the new litigants could have appeared before 
+the circuit judge to oppose the continuance of the 
+receivership. The Court then added that, “had the 
+receivership been continued without giving effect to 
+[their] objections they would have been entitled to 
+appeal.” This statement 
+is viewed in isolation, 
+is 
+dictum, and it was certainly not a matter upon which 
+the Court focused. None of the four circuit opinions the 
+Court cited supports the statement, even in the receiv- 
+ership context.“ Moreover, on the very next page of the 
+In Christian v. R. Hoe, 
+63 F.2d 218 (2d Cir. 1933), for 
+example, the appellant 
+owned shares and a note. He did not 
+as a shareholder. Rather, oo „ 7 1 
+be 
+and in behalf of other note ho 
+In Mitchell v. Lay, 
+48 F.2d 79, 84-85 (9th Cir. 1931), a judgment 
+had been en- 
+tered against the appellant. “The j 
+t therein rendered 
+was as to him final and a 
+le as such.” Id. at 85. In 
+Kingsport Press, Inc. v. Brief English Systems, Inc., 54 F.2d 
+497 (2d Cir. 1931), a creditor was allowed to appeal an order 
+(continued...) 
+
+20 
+Court’s opinion, the Court discusses the intervention 
+rights the litigants would have had in the proceeding 
+before the circuit judge. Id. at 496. Thus Johnson does 
+not hold that an objector could appeal without seeking 
+intervention. It is best read as recognizing a right of 
+appeal when the litigants actually intervened in the 
+proceeding before the senior circuit judge. 
+Whatever role the Johnson statement may have in 
+the reorganization and receivership context, however, 
+it cannot be extended to a Rule 23.1 proceeding. To do 
+so would be inconsistent with the language and policy 
+of the Rule. Moreover, such an extension would be 
+inconsistent with the statutes and rules governing the 
+subject matter jurisdiction of the courts of appeals and 
+of this Court. This Court has emphasized just recently 
+the imperative nature of the obligation that lower 
+federal courts observe statutory and constitutional re- 
+strictions on subject matter jurisdiction. Steel Co. v. 
+Citizens for a Better Environment, 118 S.Ct. 1003, 
+1012-16 (1998). See also Lexecon, Inc. v. Milberg Weiss 
+Bershad Hynes & Lerach, 118 S.Ct. 956 (1998). 
+(continued) 
+appointing a receiver. There vas much discussion of the law 
+governing the appointment ol a receiver on the application of 
+a simple contract creditor, but no issues of appellate jurisdic- 
+tion were discussed. Finally, in Blake v. District Court, 59 
+F.2d 78 (9th Cir. 1932), a percentage holder of oil and gas 
+leases sought appellate relief under the All Writs Act. 28 
+U.S.C. §1651(a). Relief was denied because the petition was an 
+improper end run around the statute governing appeals to the 
+court of appeals (28 U.S.C. §1291), and petitioner should have 
+participated in the district court proceeding. 
+— — 
+21 
+C. State Law. 
+The amicus brief submitted by Professors Hamermesh 
+and McManamon contends that, in derivative actions, 
+state law provides the controlling rule of decision as to 
+whether an objector may appeal without intervention. 
+The claim seems to be that Rule 23.1 “incorporates” 
+this “substantive” provision of Delaware law. Br. 13. If 
+it does not, the professors insist, Rule 3(c) would be 
+invalid under the Enabling Act, 28 U.S.C. §2072, be- 
+cause it “abridge[d] . 
+. 
+la] substantive right”. Br. 12. 
+This issue was not raised by the petition for certiorari 
+and it cannot be said to be “fairly included” within the 
+grant.“ What is more an amicus ordinarily has no 
+standing to enlarge the question presented by petition- 
+er. United States v. Dion, 476 U.S. 734, 746 (1986). 
+Most importantly, the issue was not even considered by 
+the court below. Matsushita Elec. Indus. Co. v. Epstein, 
+516 U.S. 367, 379 n.5 (1996). If the issue raised by the 
+amicus brief were thought to be pertinent, the writ 
+should be dismissed as improvidently granted because 
+the issue is not presented by this record. See Robert L. 
+Stern, et al., SUPREME COURT PRACTICE 259 (7th ed. 
+1993) (collecting cases). 
+Suffice it for our purposes to say that on its face the 
+professors’ analysis seems implausible." 
+1% Rule 14.1(a) of this Court’s rules states that, “Only the 
+questions set out in the petition, or fairly included therein, 
+will be considered by the Court.” 
+To the extent that Rule 3(c)—or its background premise 
+that only parties can appeal—excludes 
+certain persons from an 
+appeal, it is surely well within the constitutional authority of 
+(continued...) 
+
+22 
+II. Intervention Is an Important Requirement. 
+A. Intervention Serves a Meaningful Function. 
+Requiring that a shareholder who wants to appeal 
+first seek to intervene has the beneficial effect of 
+deterring frivolous or obviously self-interested appeals. 
+Objectors come in all sizes and shapes. Some make a 
+substantial commitment of time and energy; others do 
+not. Should one shareholder be able to delay implemen- 
+tation of a settlement for a year or more by simply 
+filing a technical objection, by sending a bare-boned 
+opposition letter to the court, or by arguing that the 
+settlemer is not what he would have done? Suppose 
+that three shareholders desire different and conflicting 
+7 (continued) 
+Congress to so provide. That was settled long ago. In Sheldon 
+v. Sill, 49 U.S. 441 (1850), this Court sustained an exclusion 
+of assignees from a district court’s diversity jurisdiction. The 
+Court there recognized that the jurisdiction of the inferior 
+federal courts is prescribed by Congress. Jd. at 448-49. And, of 
+course, the histories of diversity and federal question jurisdic- 
+tion are replete with the exclusion of certain categories of 
+would-be litigants without regard to the content of state law. 
+The claim that failure to follow Delaware “substantive” law 
+would render Rule 3(c) inconsistent with the Enabling Act is 
+also incorrect. A federal rule that said that a non intervening 
+objector is not a party is clearly procedural in nature, within 
+the teachings of this Court’s cases. Hanna v. Plummer, 380 
+U.S. 460, 469-74 (1965); Walker v. Armco Steel Corp., 446 U.S. 
+740, 750-53 (1980). Congress could, of course, absorb state law 
+on this point. See, for example, Fed.R.Civ.P. 17(b). But the 
+amicus briefs provide no evidence that it has done so here. 
+Quite to the contrary. So far as “party status” is concerned, 
+Rule 23.1’s “contemporaneous ownership” requirement imposes 
+restrictions on derivative suit plaintiffs as a matter of federal 
+policy wholly irrespective of the content of state corporate law. 
+Daily Income Fund, Inc. v. Fox, 464 U.S. at 531 n.6. 
+23 
+results. Under Rule 23.1, these shareholders may be 
+entitled to file an objection and even appear to have 
+their day in court. But that is all that it is. Without a 
+more substantial commitment, they should not be 
+accorded a further opportunity to hold up implementa- 
+tion of a settlement to which the parties have agreed 
+and which a district court has approved. Petitioners’ 
+assertion that their procedure would not increase the 
+number of appeals (Br. 37-38) is wide of the mark. 
+Quantity is not the issue. A requirement of intervention 
+will at least help to deter meritless or self-interested 
+appeals with all of their attendant costs and delays." 
+There is another policy advanced by an intervention 
+requirement: certainty as to when the litigation is over. 
+If no objector moves to intervene and the district court 
+approves the settlement and enters judgment, the 
+parties can be certain that the litigation is at an end. 
+Of 
+course, as has been recognized, objectors are not immune 
+from self-interest or ignorance. Patrick Woolley, Rethinking 
+the Adequacy of Adequate Representation, 75 TEX.L.REV. 571, 
+618 (1997) (“By filing or threatening to file an objection to the 
+settlement a class member may be able to ‘extort’ a set- 
+tlement”); Jonathan R. Macey and Geoffrey P. Miller, The 
+Plaintiff's Attorney’s Role in Class Action and Derivative 
+Litigation: Economic Analysis and Recommendations for 
+Reform, 58 U. CHI.L. REV. 1, 46 (1991) (Objectors are often 
+either disgruntled plaintiffs’ lawyers or uninformed class mem- 
+bers). For a discussion of the self-interest and obstruction that 
+objectors may bring to the proceedings, see Holden v. Bur- 
+lington Northern, Inc., 665 F. Supp. 1398, 1428-31 (D. Minn. 
+1987). In this case, the instituti 
+investor amici argue that, 
+although they may lack the time and resources to monitor 
+litigation (Br. 10-15), they should have the right to appeal if 
+the district court judge does not agree with their views, no 
+matter how uninformed and incorrect. 
+
+24 
+Intervention simply reflects the dual nature of a 
+derivative action. A derivative action permits a share- 
+holder to “step into the corporation’s shoes and to seek 
+in its right the restitution he could not demand in his 
+own.” Cohen v. Beneficial Indus. Loan Corp., 337 U.S. 
+541, 548 (1949). Intervention properly focuses the court 
+and the parties on the threshold issue in a derivative 
+action, that is, whether the plaintiff, including the 
+intervening plaintiff, has the right to sue on behalf of 
+the corporation. Ross v. Bernhard, 396 U.S. 531, 538 
+(1970). When properly viewed in the context of what a 
+derivative suit is about, intervention is quite obviously 
+not a meaningless formality or an unwarranted obsta- 
+cle. Because only a shareholder who speaks for the 
+interests of the corporation is entitled to litigate and, 
+therefore, to appeal, it is logical to require that the 
+shareholder first make a showing either that the named 
+plaintiff does not adequately represent the interests of 
+the corporation and all its shareholders, and that the 
+objector does, Rule 24(a); or, at least, that the objecting 
+shareholder seeks to represent the interests of the 
+corporation in objecting to the settlement and has a 
+claim in common with the main action, Rule 24(b). This 
+threshold issue is also one that the court of appeals 
+should be able to focus on first, regardless of which way 
+the district court rules in what has become a dispute 
+over which shareholder best represents the interests of 
+all and should be heard on behalf of the corporation. 
+This case is not the appropriate vehicle for deciding 
+the policy argument of petitioners and their amici that 
+objectors can play an important role in settlement 
+proceedings so long as they are allowed to proceed 
+without more. If Rule 23.1 or Fed.R.App.P. 3(c) is to be 
+rewritten, see Martin v. Wilks, 490 U.S. 755, 767 
+(1989), then the rulemaking process that 28 U.S.C. 
+92072 provides for should be invoked. Amchem Prods., 
+Inc. v. Windsor, 117 S.Ct. 2231, 2248 (1997). If jurisdic- 
+tional statutes, for example 28 U.S.C. 612540), are to 
+be amended, Congress must undertake that task. 
+Rulemaking, whether under the auspices of Congress or 
+the Court, will allow the full consideration of the 
+potentials for abuse that exist if any shareholder who 
+objects—even by sending a letter—to any part of any 
+settlement can appeal and delay for a year or more 
+implementation of a settlement that other shareholders 
+have accepted. 
+B. An Intervention Requirement Does Not Pro- 
+mote Collusive Settlements or Impose Undue 
+Burdens. 
+Petitioners argue that appeals by nonparty objectors 
+are necessary to prevent collusive or unfair settlements. 
+They express great concern that district court judges 
+charged with the responsibility for deciding whether a 
+settlement is fair or adequate will be misinformed or 
+uninformed. Assuming for argument’s sake that peti- 
+tioners are correct about the state of affairs without 
+objectors, this argument further assumes that federal 
+district court judges will abandon their responsibilities 
+as guardians of the class and will rubber stamp a 
+“collusive settlement” in the face of cogent, well-founded 
+objections. Petitioners totally discount the possibility 
+
+that district courts consider and respond appropriately 
+to valid objections.” 
+Of course, all of petitioners’ expressed concerns could 
+readily be addressed by a motion to intervene. If de- 
+nied, objectors could appeal this denial just as they 
+could appeal the approval of the settlement. Petitioners, 
+however, argue, inconsistently, that district courts will 
+deny motions to intervene—a result that could, of 
+course, be appealed—or that the courts may instead 
+grant these motions, subjecting them to the burdens, 
+risks and responsibilities that parties have, but that 
+petitioners are unwilling to assume. The fear of discov- 
+ery is speculation, as this Court has already observed 
+of similar fears, see Phillips Petroleum Co. v. Shutts, 
+472 U.S. at 810 n.2, and would appear totally illusory 
+in the case of an intervention for purposes of appeal. 
+Similarly, any additional pleading burdens are certainly 
+not unduly harsh for someone who seeks the time and 
+attention of a court of appeals. It is also an obligation 
+commensurate with the ability of the objecting share- 
+holder to delay the implementation of a settlement. 
+Finally, the argument that not all objectors can inter- 
+vene, if correct, would not justify a different approach. 
+If an objector cannot be a party under Rule 23.1 and, 
+therefore, could not intervene, it is appropriate to fore- 
+‘© Petitioners provide no statistics on the total number of set- 
+tlements that district courts have rejected. The sampling of 
+appeals they do present (Br. — 
+75 ——— 
+„ 
+than are approved 
+and 
+on appeal. The suggestion of certain institutional 
+investor amici (Br. 17) that lower court 
+di 
+are re- 
+lated to the threat of an appeal is pure 
+tion. 
+27 
+close an appeal, because this shareholder by definition 
+cannot represent the interests of the corporation. 
+CONCLUSION 
+For the reasons stated, this Court should affirm the 
+judgment of the Court of Appeals for the Seventh 
+Circuit. 
+Respectfully submitted, 
+TERRY ROSE SAUNDERS 
+Counsel of Record 
+LAW OFFICES OF 
+TERRY ROSE SAUNDERS 
+30 North LaSalle Street 
+Chicago, IL 60602 
+Of Counsel: 
+(312) 346-4456 
+HENRY P. MONAGHAN 
+ROBERT M. ROSEMAN 
+435 West 116th Street 
+SPECTOR & ROSEMAN, P.C. 
+New York, NY 10027 
+1818 Market Street 
+(212) 854-2644 
+Philadelphia, PA 19103 
+(215) 864-2400 
+Counsel for Respondents 
+Paul Felzen and Sandra Esner 
+December 7, 1998 

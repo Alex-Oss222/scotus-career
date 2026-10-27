@@ -1,0 +1,61 @@
+{
+  "records": 12,
+  "assignment_recounts": 11,
+  "freeze_identity_pairs": 10,
+  "relative_links": 661,
+  "errors": [],
+  "frozen_sha256": [
+    [
+      "OT_1998CHUNK3_A_COMMITMENTS.md",
+      "8433a268de907504ae9576f517e7c5dc39153fcc3d4483cfd5a724cb03f6cb33"
+    ],
+    [
+      "OT_1998CHUNK3_A_RECONCILED.md",
+      "0412a4984cff540f081e5e871157309b5eaad710bd0ab9435eb01c9a9124b168"
+    ],
+    [
+      "OT_1998CHUNK3_B_COMMITMENTS.md",
+      "e45814331db7ac49b6296b7194f015b431fc3c1bf29e3731ae5bf90c80b6c0fd"
+    ],
+    [
+      "OT_1998CHUNK3_B_RECONCILED.md",
+      "5bf36fea86a2e3f3f63a25c9244ced932f813fef50f9d43ba398ae67a1dfb8d5"
+    ],
+    [
+      "OT_1998CHUNK3_C_COMMITMENTS.md",
+      "a7fd2ddb58f9a57971a20e45f45070c6926c5a8d8ef3f66aa78b09db6db6af8b"
+    ],
+    [
+      "OT_1998CHUNK3_C_RECONCILED.md",
+      "889074786a1090dcb29749034cb1e0ebb3b2c913c92be8227709a066243f85a9"
+    ],
+    [
+      "OT_1998CHUNK3_FELZEN_REFRESH_COMMITMENTS.md",
+      "10b393632c54354c57c5ba5f5061e534aeea9813490e99e3064812679860eaad"
+    ],
+    [
+      "OT_1998CHUNK3_FELZEN_REFRESH_RECONCILED.md",
+      "c5d38eba486f9eda5c43ec0c708482308eb1f83868a51679b02f9a5da50de128"
+    ],
+    [
+      "OT_1998CHUNK3_MARCUS_COMMITMENTS.md",
+      "c5514c31fe9b48704f4cf466b28f22660ce947759a0d6c4796e0621cb9665606"
+    ],
+    [
+      "OT_1998CHUNK3_MARCUS_RECONCILED.md",
+      "9122bb02821ae6a56fba60d2da3960864904e97933dbd8f84a17fb215ce6d7ca"
+    ]
+  ],
+  "counts_after_chunk": {
+    "Stone-Zsela": 3,
+    "Stevens": 4,
+    "O'Connor": 4,
+    "Scalia": 4,
+    "Kennedy": 4,
+    "Souter": 3,
+    "Thomas": 3,
+    "Ginsburg": 4,
+    "Breyer": 3
+  },
+  "git_verification": "Not attempted; operator prohibition."
+}

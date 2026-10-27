@@ -1,0 +1,1548 @@
+| 
+| 
+) 
+FILED 
+No. 97-1230 
+SEP 11 1998 
+OFFICE OF THE CLERK 
+In The 
+SUPREME COURT, U.S. 
+Supreme Court of the United States 
+October Term, 1997 
+¢ 
+CITY OF WEST COVINA, 
+Petitioner, 
+LAWRENCE PERKINS; CLARA PERKINS; 
+APRIL PERKINS, a minor, by and through 
+LAWRENCE PERKINS, 
+Respondents. 
+SI 
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Ninth Circuit 
+¢ 
+RESPONDENTS’ BRIEF ON THE MERITS 
++ 
+Patrick S. SMITH 
+Counsel of Record 
+Kiass, HetMAn & Ross 
+11766 Wilshire Boulevard, Suite 200 
+Los Angeles, California 90025-6538 
+(310) 277-2224; Fax (310) 470-1080 
+Aitorneys for Respondents 
+COCKLE LAW BRIEF PRINTING CO., 
+(800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+BEST AVAILABLE COPY 
+
+QUESTIONS PRESENTED 
+Whether due process requires that the written notice 
+left by police officers when taking property from 
+a 
+resi- 
+dence pursuant to a search warrant include the informa- 
+tion necessary 
+to enable an innocent property owner 
+to 
+utilize the state procedure for return of the property 
+Whether due process requires that the written notice 
+left by police officers, under the circumstances presented 
+in the record, also include the information necessary 
+to 
+enable the property 
+owner 
+to identify 
+the procedure to 
+obtain return 
+of the seized property 
+
+ii 
+PARTIES TO THE PROCEEDING 
+Petitioner’s Brief on the Merits accurately lists the 
+parties to the proceeding in the Courts below. However, 
+the issues presented do not involve April Perkins, the 
+minor. 
+TABLE OF CONTENTS 
+Page 
+CUES ERIS PRESENTED nn cc ccccsccscccaccsceces 
+i 
+PARTIES TO THE PROCEEDING .................. 
+il 
+PUG GS WOU GPR s ces ckcccccchecscecsins 
+1 
+Ses, PENNE 
+Ses 
+Gb cbddeWebetsebbsbucékecdnbbaes 
+1 
+Sb PR 
+a candor as i. cccubnwheesdedds 
+deed bunevasanns 
+| 
+i PE SEO cn cecesceteadtcaudeceaecteus 
+7 
+SUMMARY OF ARGUMENT................200005- 
+8 
+SEE db nbdael souk void senddaess ncasweeedelas 
+12 
+I. WHERE PROPERTY IS TAKEN DURING THE 
+EXECUTION OF A SEARCH WARRANT, DUE 
+PROCESS REQUIRES THAT NOTICE TO AN 
+INNOCENT PROPERTY OWNER MUST PRO- 
+VIDE NOT ONLY NOTICE THAT PROPERTY 
+HAS BEEN SEIZED, BUT ALSO BASIC INFOR- 
+MATION REQUIRED TO GUARANTEE MEAN- 
+INGFUL ACCESS TO POSTDEPRIVATION 
+PEE 
+\ ha tiad Sawecsdduceenyodcapa: 
+deumens 
+12 
+A. 
+This Court Has Previously Recognized the 
+Need for Notice of Remedies 
+in Post- 
+deprivation Contexts .................055- 
+13 
+B. 
+In this Context, More Information than Just 
+the Notice of the Seizure Is Required to 
+Sy Ce PUD sé tcpernsstanendesanee: 
+16 
+Il. THE TRADITIONAL NOTICE TEST SET OUT 
+IN MULLANE AND FURTHER DEVELOPED IN 
+MATHEWS ESTABLISHES THAT THE NOTICE 
+GIVEN TO RESPONDENTS WAS INSUFFI- 
+CIENT TO SATISFY DUE PROCESS........... 
+18 
+
+iv 
+TABLE OF CONTENTS — Continued 
+Page 
+A. 
+The Mullane Standard..................... 
+18 
+DD. GRAS &. DOT, coc ctewectndsscicctces. 
+21 
+1. The Private Interest at Stake .......... 
+22 
+2. The Risk of Erroneous Deprivation and 
+The Probable Value of Additional Pro- 
+cedural Safeguards .................... 
+22 
+3. The Burden Imposed on the Govern- 
+GBs oc viva scvadesecessuscicnysecescées 
+25 
+4. 
+Balancing the Mathews Factors......... 
+28 
+Ill. 
+NEITHER CALIFORNIA STATUTES NOR CASE 
+LAW PROVIDE SUFFICIENT NOTICE OF THE 
+INFORMATION NECESSARY TO ACCESS THE 
+POSTDEPRIVATION PROCEDURE ............ 
+32 
+IV. 
+THE NOTICE SUPPLIED BY PETITIONER 
+BREAKS SHARPLY FROM THE TRADITIONAL 
+FORM OF NOTICE SUPPLIED BY LAW 
+ENFORCEMENT AGENCIES THROUGHOUT 
+CS GOED inde ees cdevekecevhnreseass 
+cus 37 
+V. 
+IN THE ALTERNATIVE, SHOULD THE COURT 
+DETERMINE THAT THE NOTICE REQUIRE- 
+MENTS OF THE COURT OF APPEALS WENT 
+TOO FAR, THE FINDING THAT THE NOTICE 
+WAS INADEQUATE IS PRINCIPLED AND JUS- 
+TIFIES THE AFFIRMATION OF THE OPINION 
+WITH MODIFICATIONS TO THE NOTICE 
+ED ch idatnccuccncunepesticbecate. 
+39 
+CIEE 
+o vewadcvebdcisancanidessishancésake- 
+4) 
+v 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Anderson National Bank v. Luckett, 321 U.S. 233 
+NS 
+0 600 
+WN eKetuN dhe ecedendusivesd 32, 33, 35, 36 
+Boddie v. Connecticut, 401 U.S. 371 (1971)............ 30 
+Bragg v. Weaver, 251 U.S. 57 (1919)............... 14, 19 
+Cafeteria Workers v. McElroy, 367 U.S. 886 (1961)..... 21 
+Green v. Lindsey, 456 U.S. 444 (1982)................. 24 
+Hudson v. Palmer, 468 U.S. 517 (1984)...... 9, 16, 18, 19 
+Logan v. Zimmerman Brush Co., 455 U.S. 422 (1982) 
+cep Snbageatuabapehencenets coeeswbes sigur 16, 30, 37, 39 
+Martel v. County of Los Angeles, 56 F.3d 993 (9th 
+PED a. chi bb bbe were wn Se nes CeksNs debe de ceeUeee> 8 
+Mathews v. Eldridge, 424 U.S. 319 (1976)......... passim 
+Medina v. California, 505 U.S. 437 (1992)............. 21 
+Memphis Light, Gas & Water Div. v. Craft, 436 U.S. 1 
+Deb 
+scawenncdnnecéonke cavystnes 
+10, 20, 30, 31, 32 
+Morrissey v. Brewer, 408 U.S. 471 (1961).............. 39 
+Mullane v. Central Hanover Bank & Trust Co., 339 
+SE Se GED ch bb inucchseesenes 
+te os 9, 12, 18, 19, 30 
+North Laramie Land Co. v. Hoffman, 268 U.S. 276 
+DEN sudaduddapusdddadsdtudbioendh 
+acne 32, 33, 34, 36 
+Parratt v. Taylor, 451 U.S. 527 (1981)........... 9, 16, 18 
+People v. Icenogle, 164 Cal.App.3d 620, 210 
+GE Ge GUID pa wacksvesabanstevsendocaceuds 33 
+
+vi 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Reetz v. Michigan, 118 U.S. 505 (1903) .... 32, 33, 34, 36 
+Schroeder v. City of New York, 371 U.S. 208 (1962) 
+.ecoswbe avaaebesddrenbindeed hand insavaeneue 13, 19, 21 
+Texaco v. Short, 454 U.S. 516 (1982).................. 33 
+Vitek v. Jones, 445 U.S. 480 (1980) ................... 37 
+STATUTES 
+ENE ED 6s enadeed sisnceadeanecess 
+wii oe 11, 38 
+PEE ED ov o.w's os 
+06s Weckn uubdalee ad otecuk 38 
+oo ft ey 
+en y Pe Tee peels a 1 
+POEy Gee SRG aonb iciecibhiad beds Su tidcdadbaddsesuen 33 
+STATEMENT OF THE CASE 
+A. 
+Introduction. 
+At issue in these proceedings is the constitutional 
+adequacy of notice given to Respondents after the seizure 
+of property from their home during the execution of a 
+search warrant. Pet.App. Al7. Pursuant to a policy of the 
+City of West Covina, their police officers, after having 
+served a search warrant on Respondents’ unoccupied 
+residence, left a form “Search Warrant: Notice of Service” 
+document which provided only limited information 
+regarding the seizure of the property. J.A. 76-77. The 
+officers left the notice pursuant to a standard practice, 
+custom, or policy of the City. Pet.App. Al3. The docu- 
+ment gave notice that, on May 21, 1993, the residence had 
+been searched by the West Covina Police Department, 
+pursuant to a warrant signed by Judge Oki on May 20, 
+1993. The notice also identified the name and phone 
+number of the lead detectives. Pet.App. A17-18. The offi- 
+cers also left an inventory of the property taken. Penal 
+Code 1535. The officers did not, however, leave a copy of 
+the search warrant (which includes the identifying search 
+warrant number), as most other states and federal law 
+require. Neither did the officers leave any other informa- 
+tion which would allow the Respondents to identify their 
+property. As a consequence, Respondents were denied an 
+opportunity for a hearing to seek return of their property. 
+B. 
+Facts 
+1. Respondents live at 531 Balham Street in the City 
+of West Covina, the location of the execution of the search 
+warrant. Lawrence and Clara Perkins purchased their 
+
+home in 1990, for approximately $100,000.00. Lawrence is 
+currently a machine operator at United Stationers and has 
+been employed there since 1985. J.A. 103. Clara also a 
+machine operator, has worked at Stanley Hardware for 
+over 22 years. J.A. 127. Their daughter, April Perkins, is 
+ten years old and in the fourth grade. Prior to the time of 
+the events which led to the procurement and execution of 
+the warrant, the Perkins had a boarder, Marcus Marsh, 
+stay in their home. After Mr. Marsh had moved out, and 
+completely unknown to the Perkins family, he became the 
+subject of a murder investigation, which led to the search 
+of the Perkins’ home. Excerpts of Record before the Court 
+of Appeals, C.R. 19 at pp. 13-21 and 27:23 to 28:1. All of 
+the events relevant to the procurement 6f the warrant 
+occurred after the time Marsh had moved out of the 
+residence. However, because Marsh had previously iden- 
+tified the Perkins’ household as his place of residence, the 
+police department procured a search warrant for that and 
+other locations in furtherance of its investigation. 
+Excerpts of Record before the Court of Appeals, C.R. 19 at 
+pp. 13-21 and 23-25. 
+2. The search of the Perkins’ home occurred on the 
+morning of May 21, 1993, after Respondents had taken 
+their daughter to school and left for work. During the 
+search of the home, in a locked bedroom, separate from 
+the bedroom previously occupied by Marsh, officers 
+found and seized a 12-gauge shotgun registered to Law- 
+rence Perkins, numerous other items of personal prop- 
+erty, Lawrence Perkins’ adoption papers, and $2,469.00 in 
+cash ~ money saved by the family for a trip by Mrs. 
+Perkins, her child and grandchildren (from a previous 
+marriage) to visit Mrs. Perkins’ mother in Alabama. J.A. 
+= 
+84; 109-110; 128. In that same bedroom, telephone directo- 
+ries were found in the name of Lawrence Perkins and 
+Clara Perkins. J.A. 84. No items were found which linked 
+Marcus Marsh to the bedroom. Most of the items were 
+seized pursuant to the terms of the warrant; the money 
+was seized under the plain-view doctrine. 
+Later that day, Mr. Perkins returned from work to 
+find his home in disarray. Upon investigation, Mr. 
+Perkins found the form “Search Warrant: Notice of Ser- 
+vice” and receipt for property taken left by the officers. 
+J.A. 106-107. Mr. Perkins immediately called the one tele- 
+phone number listed on the notice. J.A. 113. The number 
+connected with Petitioner’s police station, and Mr. 
+Perkins spoke with Detective Ferrari to set up an appoint- 
+ment. Id. When the family went to the station, however, 
+they were informed that Detective Ferrari had already 
+left for the day and would not be back until the following 
+Monday. J.A. 114. 
+3. On that following Monday, the family returned to 
+the station and met with Detective Ferrari. J.A. 115. At 
+that meeting, according to Respondents, Detective Fer- 
+rari, stated that, while no one in Respondents’ home 
+(presumably the family) was implicated, his house was 
+potentially “involved” in a robbery and homicide investi- 
+gation. J.A. 116. The detective and Respondents spoke 
+about the service of the warrant, at which time Mr. 
+Perkins requested that his property be returned to him. 
+Id. 
+The record is unclear as to the specific order of 
+events; however, at some point, Respondents showed 
+Ferrari proof of ownership of the property, and Ferrari 
+
+indicated he had no objection to its return. At some point, 
+Respondents went back to the police station to speak with 
+the property department representative at the direction of 
+Detective Ferrari. J.A. 117. At the station, Perkins was 
+told by the “guy that [he] was supposed to talk to,” that 
+Detective Ferrari “wanted to see [him].” J.A. 117; 131; 
+104-05. During this conversation, the detective asked 
+Respondents to testify against Marsh regarding a conver- 
+sation Respondents allegedly had with Marsh at their 
+kitchen table. If they cooperated, Ferrari said, Perkins 
+“would get his stuff back.” J.A. 117; 119. Ferrari “never 
+did [tell Perkins] what the discussion was [purportedly] 
+about.” J.A. 119. 
+The record is confusing on these points, because Fer- 
+rari appeared to be operating under the assumption that 
+Respondents knew something about the crime, when, in 
+fact, they did not. According to Respondents, the Detec- 
+tive was, at best, simply not providing the factual infor- 
+mation (the search warrant number or case name) he 
+needed to access the courts, or, at worst, taking advan- 
+tage of Respondents’ persistence by attempting to 
+leverage information from them for the Marsh criminal 
+investigation after giving false information to lure him 
+back to the police station. J.A. 117-121, 103-104. Ferrari, at 
+some point, however, did tell Lawrence Perkins to go to 
+the court to get an order releasing the property. J.A. 123. 
+Perkins later complained to Lt. Schimanski about Detec- 
+tive Ferrari. Lt. Schimanski told Perkins that Ferrari “had 
+no right telling [him] that [he] could come get [his] 
+belongings. J.A. 104. 
+Overall, the record shows that Perkins talked to the 
+detectives in the case on several occasions, J.A. 103-05; 
+113-16, and appeared at least twice at the police station, 
+J.A. 39; 113-16, once with proof of ownership, J.A. 130, 
+the second time, he thought, to get his property back. Id. 
+After Respondents established ownership over the prop- 
+erty, confirmed that they knew nothing about the events 
+that led to the procurement of the warrant, and verified 
+they had no information to the police, the detectives 
+informed Perkins of his need to get a “court order.” J.A. 
+122-124. Mr. Perkins, thereafter, went to the courthouse to 
+attempt to obtain the return of his wrongfully seized 
+property. J.A. 122. 
+4. 
+At the courthouse, Perkins talked to various 
+courthouse personnel. J.A. 123-124. When he encountered 
+difficulty, Perkins sought “further information” from the 
+detectives. According to Ferrari, after a “second meet- 
+ing,” Mr. Perkins “continued to call back because he had 
+some problems with getting a court order.” J.A. 130-31. 
+Perkins was unable to get on calendar before a judge to 
+seek return of his property. In fact, Ferrari corroborates 
+Respondents’ testimony that Mr. Perkins was hitting suc- 
+cessive dead-ends. Ferrari states that Mr. Perkins was 
+told that he could not get into court without a number 
+related to the Search Warrant. J.A. 39-40; 122-124; 77-78. 
+Ferrari stated that Mr. Perkins twice went to court; he 
+remembers that Mr. Perkins “initially came back” and 
+said he could find no case filed at the court. J.A. 130-131. 
+Subsequently, and after he had been back to court, 
+Respondents told Ferrari that they had tried to contact 
+Judge Oki, but he was on vacation. Id. Perkins tried to see 
+other judges but was told he cculd not “get on calendar” 
+without the warrant, case number, or other identifying 
+information. J.A. 124-132. 
+
+According to Ferrari, there was no case number, 
+because no case had been filed, and no available search 
+warrant number, because the warrant had been sealed. 
+].A. 39-40. 
+During this time, it is established that the problems 
+Respondents encountered were a result of their not hav- 
+ing the necessary information, i.e., the search warrant 
+number, or case name or number, to even be allowed by 
+the clerk’s office to get into the courtroom. J.A. 131-132, 
+123-124.' Mr. Perkins’ efforts were not thwarted for lack 
+of effort, but because he was not given notice of the 
+necessary information with which to seek recovery of his 
+property, much less notice of the procedure to be 
+invoked. J.A. 122-124. 
+Eventually, almost a year after the incident, Respon- 
+dents’ property was returned to them, but only after 
+Petitioner filed a Request for Return of Property utilizing 
+' Defendant Ferrari claims that “to his knowledge” the 
+warrant number was available to the public. This weak and 
+speculative evidence of a belief is insufficient in light of Mr. 
+Perkins’ testimony and the testimony of Jeffrie Madland. J.A. 
+77-78. Ferrari has testified that he provided (Mr. Perkins] with 
+the number of the search warrant which he could use in 
+identifying the search warrant with Judge Oki when he 
+requested the return of his property. J.A. 46. This testimony is 
+consistent with Perkins’ statement that Ferrari gave him 
+numbers on a couple of occasions, which turned out to be 
+wrong. J.A. 123. However, Ferrari's declaration is inconsistent 
+with his testimony that the search warrant was sealed. Further, 
+the testimony of Respondents’ witness supports Perkins’ claim 
+that he would be unable to get his property back from the court 
+without the proper information which was only in the custody 
+of Petitioner and the court. J.A. 77-78. 
+the previously unidentified case number assigned the 
+criminal filing against Marcus Marsh and the previously 
+sealed search warrant number. That criminal case was not 
+filed until February 9, 1994, nearly nine months after the 
+seizure.? 
+C. 
+Procedural History 
+The District Court granted summary judgment on 
+Petitioner's claim that there existed an adequate post- 
+deprivation procedure for the return of unlawfully seized 
+property and that Respondents waived the remainder of 
+their due process claim by not invoking the statutory 
+procedure for return of property. Pet.App. E.* The Ninth 
+2 The filing date of the criminal action is not a part of the 
+record at this time. Respondents request that the court take 
+judicial notice of this fact. 
+* Contrary to the assertion in Petitioner's Brief on the 
+Merits, Respondents’ procedural due process claim was alleged. 
+The district court considered the Motion to Amend by 
+Respondents, and ruled, that “the Due Process issue 
+is 
+bifurcated and not part of this phase of the trial.” Pet.App. D2. 
+Moreover, on the limited remand order by the Ninth Circuit 
+requesting “clarification of the status of the bifurcated claim,” 
+the district court was given the opportunity “to conduct such 
+further proceedings as it may deem necessary to determine the 
+status of the due process claim. ...” Pet.App. D2. On remand, 
+the district court, confirmed that the claim was viably alleged 
+when it stated that “such claim in fact was not resolved during 
+the prior proceedings ...” Pet.App. E2. The district court then 
+ruled on the merits of the claim. Pet.App. E. 
+Respondents should not be prejudiced by the court’s 
+decision not to issue a written order granting the motion to 
+amend. This particular district court enforces a procedure 
+widely known as the “rocket docket,” which sometimes 
+
+Circuit affirmed the District Court’s ruling on the ade- 
+quacy of the postdeprivation remedy but reversed the 
+District Court’s finding that Respondents’ waived their 
+due process claim. The Court of Appeals found that the 
+notice provided by the City was constitutionally inade- 
+quate, “in circumstances such as those presented by this 
+record.” The Court of Appeals found that the notice 
+denied the Perkins’ family basic information with which 
+to obtain return of their erroneously retained property. 
++ 
+SUMMARY OF ARGUMENT 
+Notice is a fundamental component of due process, 
+regardless of the pre or postdeprivation character of a 
+case. The United States concedes that notice is required 
+under the circumstances presented in the record. The 
+Petitioner does not. The case law amply supports the 
+mandate of notice in a postdeprivation context. Where 
+there is no opportunity for a predeprivation hearing or 
+notice, the necessity of adequate postdeprivation notice is 
+compelling. The notice must include the fact of the sei- 
+zure, the key information about the seizure to access the 
+procedure for securing return of property, and the means 
+for securing the return of property. The need for notice of 
+the seizure itself is fundamental, as the United States 
+concedes. The need for the basic information to identify 
+the property is also clear, for without it, the postdepriva- 
+tion procedure is meaningless. Finally, the need for notice 
+sacrifices formality for efficiency. See Martel v. County of Los 
+Angeles, 56 F.3d 993 (9th Cir. 1995). 
+of the means of securing return of property is as compel- 
+ling as the need for predeprivation notice, in the circum- 
+stances such as those presented in this record. The 
+imposition of a duty to provide this fundamental notice is 
+consistent with the relevant line of Court precedent and 
+merely defines notice in a postdeprivation context, with- 
+out expanding or creating any new federal due process 
+rights. 
+The Parratt-Hudson line of cases requires that, in 
+cases where there is no need for predepvivation notice 
+and a hearing, due process is satisfied orly if a meaning- 
+ful postdeprivation remedy is available 
+Notice, most 
+often, will affect the meaningfulness of that postdepriva- 
+tion remedy. By providing notice of only the seizure of 
+property itself, the Petitioner deprived Respondents of 
+the information necessary to implement the procedure for 
+return of property and, therefore, rendered the process 
+meaningless. 
+Moreover, a fundamental flaw of the Petitioner’s and 
+Amici'’s position is their assumption that there was no 
+impending hearing affecting the disposition of the 
+Respondent's property. This erroneous assumption led to 
+inadequate notice being given to Respondents. The gov- 
+ernment, once it retained, as opposed to seized, the prop- 
+erty, was engaging in nonrandom and authorized conduct 
+which renders the Petitioner’s position against notice 
+unsupportable. 
+The traditional notice test set out in Mullane v. Central 
+Hanover Bank & Trust Co., 339 U.S. 306 (1950), and 
+expounded upon in Mathews 
+v. Eldridge, 424 U.S. 319 
+(1976), involves the balancing of the governmental and 
+_ 
+
+10 
+private interests. This balance establishes that the notice 
+provided to Respondents was insufficient and favors 
+requiring the Petitioner to correct its form of notice. The 
+burden involved in correcting the notice, which would 
+have avoided the increased risk of erroneous deprivation 
+of property, was minimal. The Petitioner already pro- 
+vided a document entitled “Search Warrant: Notice of 
+Service” at the residence. A simple modification would 
+satisfy due process. Additionally, there were other feas- 
+ible and customary alternatives available to correct the 
+form of notice chosen. 
+Reliance on Memphis Light, Gas & Water Div. v. Craft, 
+436 U.S. 1 (1978), is appropriate in that the Court 
+addressed the necessity for notice in that case. Notice is a 
+broad due process concept, the discussion of which is 
+relevant in any context. Additionally, since there was an 
+impending hearing looming, and any emergency 
+in 
+retaining the property no longer exist-', the Mathews 
+balancing test, applied in Memphis 
+ <ht, was appro- 
+priately utilized. This court has ex, aged the Mathews 
+balancing test in many types of due process cases, and it 
+remains a useful guide. 
+None of the California statutes or cases cited by the 
+Petitioner or Amici provide adequate notice to Respon- 
+dents on the record of this case. Respondents were unable 
+to access the procedure for return of property because 
+they were not given the information needed to identify 
+the property before the state court. No statute or case 
+could have provided this factual information. Therefore, 
+the maxim that one is charged with the knowledge of the 
+law, is inapplicable to this case. With regard to the notice 
+of procedures for the return of property, the cases cited in 
+11 
+support of Petitioner's position are irrelevant and distin- 
+guishable form the facts as presented in the record. 
+The notice supplied by the Petitioner is qualitatively 
+inferior to that provided by the federal government and 
+the majority of other states. Fed.R.Crim.P. 41, upon which 
+most state statutes are modeled, requires that the law 
+enforcement authority is to leave a copy of the search 
+warrant at the residence searched. Had Petitioner com- 
+plied with a similar mandate, it is likely that Respondents 
+would have been able to retrieve their property under the 
+appropriate procedures. The federal statute and similar 
+state statutes betray Petitioner's position. Those agencies 
+have adopted laws which satisfy due process; the notice 
+provided here falls below that standard. 
+Finally, since due process is flexible and subject to 
+the dictates of each particular situation, Respondents rec- 
+ognize that reasonable minds can differ in balancing the 
+competing interests. However, respectfully, all reasonable 
+minds would conclude that due process requires notice 
+which includes the search warrant number, case name, or 
+case number, the lack of which prevented the Perkins 
+family from obtaining not only a meaningful hearing on 
+their request, but also the actual return of their property. 
+This principled holding should be affirmed by this Court. 
+The requirement that the Petitioner give notice of the 
+identification of the procedure is also supported by the 
+record and Court cases. Without compromising that posi- 
+tion, Respondents assert, alternatively, that the court 
+should affirm the holding that the notice was less than 
+
+12 
+due process required, but does not necessarily require 
+detailed notice of the procedure. 
+¢ 
+ARGUMENT 
+I. WHERE PROPERTY IS TAKEN DURING THE EXE- 
+CUTION OF A SEARCH WARRANT, DUE PRO- 
+CESS REQUIRES THAT NOTICE TO AN 
+INNOCENT PROPERTY OWNER MUST PROVIDE 
+NOT ONLY NOTICE THAT PROPERTY HAS BEEN 
+SEIZED, BUT ALSO BASIC INFORMATION 
+REQUIRED TO GUARANTEE MEANINGFUL 
+ACCESS TO POSTDEPRIVATION REMEDIES. 
+Petitioner asserts that due process requires no notice 
+in a postdeprivation hearing case.* Pet.Brief at 14-24. 
+Petitioner cites no cases that support this assertion; rather 
+the assertion is supported in the negative, i.e., that all the 
+cases which address “notice” are predeprivation hearing 
+cases, and, therefore, so it is argued, no notice is required 
+in postdeprivation hearing cases. 
+Petitioner 
+is wrong 
+Notice is a fundamental component of due process 
+regardless of when the hearing occurs. The United States 
+agrees.° 
+* Petitioner states that “all that was required to satisfy 
+procedural due process in this case was the availability of an 
+adequate postdeprivation procedure for the return of seized 
+property.” Pet.Brief at 20. 
+° The United States concedes that notice is required in this 
+postdeprivation context. The Solicitor General's brief 
+recognizes that “(t]he Due Process Clause requires notice that is 
+sufficient to make the opportunity for a hearing meaningful. 
+Mullane, 339 U.S., at 314.” United States Brief at 11. 
+13 
+A. 
+This Court Has Previously Recognized the 
+Need for Notice of Remedies in Postdepriva- 
+tion Contexts. 
+In Schroeder v. City of New York, 371 U.S. 208 (1962), 
+the City of New York, through its water board, instituted 
+a condemnation proceeding whereby water was to be 
+diverted from a river some 25 miles upstream from the 
+plaintiff's property. The notice of condemnation proceed- 
+ing was instituted not for a hearing on the right to object 
+to the diversion, but on the City’s “intention to make 
+application to such court for appointment of commission- 
+ers of appraisal.” Id. at 209. Under the statute, regardless 
+of the plaintiff's right to appear at the hearing on the 
+appointment of appraisers, 
+a landowner had three years 
+within which to file a claim for damages with the city. 
+The plaintiff filed the action alleging a due process 
+violation claiming that she did not receive notice of the 
+“condemnation proceedings” and, hence, did not file a 
+claim for damages within the three-year period. The 
+Court held that the posting of notices up and down the 
+river, but not on Plaintiff's property, was inadequate. 
+More importantly, however, was the Court's response to 
+the asserted defense that the Plaintiff had notice of the 
+diversion of the water by the change in volume of the 
+river flow: the Court held that 
+knowledge of a change in appearance of the 
+river is far short of notice that the city had 
+diverted the river and that the appellant had a 
+right to be heard on a claim for compensation for 
+damages resulting from the diversion. 
+
+14 
+Id. at 214 (emphasis added). Although the statement was 
+in response to an issue regarding notice of the depriva- 
+tion itself, the Court was clear that notice of the right to 
+be heard on the “claim for compensation” should be 
+included, even though the right to be heard could occur 
+up to three years after the deprivation. Accordingly, the 
+Court held that notice of the deprivation and notice of the 
+right to be heard is required, even though the claim need 
+not be filed for three years. 
+Similarly, in Bragg v. Weaver, 251 U.S. 57 (1919), the 
+Court considered whether a condemnation statute that 
+provided for postdeprivation notice and remédies 
+“denie[d] to the owner the due process of law guaranteed 
+by the Fourteenth Amendment.” 
+I/d. at 58. The munici- 
+pality had taken dirt from a landowner’s property to 
+repair an adjacent public highway. The landowner, 
+among other things, contended that the statute was 
+fatally defective, because “the proceedings may be car- 
+ried from inception to conclusion without any notice to 
+the owner, and therefore without his having an oppor- 
+tunity to [have a hearing].” Id. at 61. This Court quoted 
+the statute in question as providing for postdeprivation 
+notice either in person, through the landowner’s presence 
+at the compensation hearing, or by written notice thirty 
+days thereafter. Implied in the Court’s ruling that the 
+statute was not fatally defective under the Due Process 
+Clause is the assumption that, had the statute not pro- 
+vided for this postdeprivation notice, then the scheme 
+would have been unconstitutional. Accordingly, at least 
+15 
+some deprivations of property, which require no prede- 
+privation hearing, do require postdeprivation notice.® 
+The need for postdeprivation notice here is even 
+more compelling. In a condemnation case, the munici- 
+pality has the right to take specifically identified property 
+and keep it. In this case, although Petitioner had the right 
+to take property, the property is not specifically identi- 
+fied, and some of the property seized was even not iden- 
+tified in the warrant. Second, the right to keep property 
+seized by eminent domain has long been established. The 
+right to hold property seized pursuant to a warrant, 
+however, is contingent upon a number of factors includ- 
+ing whether the municipality appropriately identified the 
+property seized as being within the terms of the warrant 
+and whether the property was, in fact, otherwise related 
+to any criminal activity. Third, in the circumstances pre- 
+sented in the record, Petitioner was put on notice that the 
+property it had taken was, in fact, being erroneously 
+detained. Fourth, if a condemnation case requires notice 
+of a right to a hearing on compensation, then this case, a 
+fortiori, requires notice, since here, unlike a condemnation 
+case, the appropriateness of the deprivation itself was 
+still at issue, and, in fact, was conceded by the City to be 
+erroneous. 
+* Respondents assert that these are not cases which come 
+within a “limited exception” as advanced by the United States, 
+Brief at p.26, since there was ample time within which the 
+aggrieved party could determine her remedies in the 
+postdeprivation time period. 
+
+16 
+B. 
+In this Context, More Information than Just the 
+Notice of the Seizure Is Required to Satisfy 
+Due Process. 
+This Court has broadly held that constitutional due 
+process is flexible, demanding particular protections in 
+particular situations. Mathews v. Eldridge, 424 U.S., at 334. 
+Put another way, the Court must determine “what pro- 
+cess was [the Perkins’] due.” Logan v. Zimmerman Brush 
+Co., 455 U.S. 422, 428 (1982). 
+This Court has recognized that some takings, while 
+not requiring a predeprivation hearing, may still satisfy 
+due process. In those circumstances, the government 
+must provide a meaningful postdeprivation remedy. 
+Those cases involve “either the necessity of quick action 
+by the State or the impracticability of providing any 
+meaningful predeprivation process, when coupled with 
+the availability of some meaningful means by which to 
+assess the propriety of the State’s action at some time 
+after the initial taking, can satisfy the requirements of 
+procedural due process.” Parratt v. Taylor, 451 U.S. 527. 
+539 (1981) (emphasis added). 
+In addressing the requirements of due proc 
+how- 
+ever, Petitioner cites to Parratt and Hudson » Palmer. 468 
+U.S. 517 (1984), as support for its position that no notice 
+whatsoever is required. The Parratt-Hudson line % cases 
+does not stand for the proposition that notice “s not 
+required in a postdeprivation context as the Petitioner 
+asserts. The Petitioner's use of these cases is misplaced, 
+since they never specifically address the issue of notice in 
+a postdeprivation context. However, these cases do indi- 
+cate that due process is not satisfied in a postdeprivation 
+17 
+context if the government fails to provide a remedy 
+which is “meaningful” in both theory and practice. Id. at 
+533. 
+A prerequisite, then, to satisfying due process in a 
+postdeprivation case is the existence of a “meaningful” 
+remedy. Very often, however, notice will dictate the 
+meaningfulness of the remedy. In practice, the inadequate 
+notice provided by the Petitioner rendered an otherwise 
+adequate state remedy meaningless. Respondents could 
+not even get into court to have a hearing which, by all 
+accounts, would have been a pro forma proceeding to 
+grant the return of property. The search warrant was 
+sealed, there was no case number as no case was filed 
+until February of 1994, there was no listing under the 
+name of Lawrence Perkins or Marcus Marsh; and there 
+was no listing by address. Petitioner had no policy or 
+custom to provide the needed information to the Perkins’ 
+family. The only seemingly useful information was the 
+direction to call a number “for further information.” This 
+notification proved to be illusory, however, as the officers 
+had no further useful information. 
+Also misplaced is the Petitioner's argument that the 
+Mathews v. Eldridge analysis already has dictated that a 
+search warrant case precludes a predeprivation hearing 
+and has no further application. This argument is off the 
+mark. This case is to be examined not at the time of the 
+initial seizure, but, later, at the time of the retention of the 
+property. At that point, it was not impracticable to pro- 
+vide Respondents with notice of the search warrant 
+number, basic factual information, or of the governmental! 
+policies and procedures vis a vis the retention of property. 
+
+18 
+If the prerequisite of Parratt is a “meaningful” oppor- 
+tunity for a hearing, then, to the extent that Respondents 
+could not get their property back because of the lack of 
+information in the notice, the Parratt line of cases support 
+a constitutional demand 
+for this information 
+to be 
+included in the notice. 
+Also, the Parratt-Hudson line of cases concerned ran- 
+dom and unauthorized conduct by the government 
+resulting in the permanent and immediate deprivation of 
+property. Here, the actions of the government were nei- 
+ther. This is a case, not where notice is impracticable 
+because of the random and unauthorized nature of the 
+deprivation, but because of the emergency in taking cus- 
+tody of the property. As such, once the taking has 
+occurred, the emergency no longer exists, but the prop- 
+erty is now being retained by the government. Conse- 
+quently, to the extent that there exists an adequate 
+postdeprivation remedy, the government no longer has 
+an excuse for not providing adequate notice, especially 
+where the notice is critical to insuring the meaningfulness 
+of the procedures provided by the state. 
+Il. THE TRADITIONAL NOTICE TEST SET OUT IN 
+MULLANE AND FURTHER DEVELOPED 
+IN 
+MATHEWS ESTABLISHES THAT THE NOTICE 
+GIVEN TO RESPONDENTS WAS INSUFFICIENT 
+TO SATISFY DUE PROCESS. 
+A. 
+The Mullane Standard 
+The starting point for due process analysis has been 
+reiterated by the Court on many occasions. After a court 
+has determined that there has been a deprivation of a 
+protectable interest, the minimum requirement of due 
+19 
+process must be notice and an opportunity to be heard. 
+Mullane v. Central Hanover Bank & Trust Co., 339 U.S., at 
+313. Due process requires that the notice impart informa- 
+tion to make the opportunity for a hearing meaningful, 
+regardless of when the hearing is to occur. Mullane, 339 
+U.S., at 314; Schroeder, id.; Bragg, id.; Hudson, id. Notice, 
+under the circumstances reflected in the record, is satis- 
+fied only when it advises the person that the property has 
+been seized, and imparts basic information, or the means 
+to access that information, to enable the individual to 
+employ publicly available laws and the procedures 
+enacted thereunder, i.e., the motion for return of property. 
+J.A. 81. The Court of Appeals’ decision recognizes that 
+the meaningfulness of the remedy is dependent on the 
+notice. 
+Here, Petitioner’s notice imparted the following 
+information: On May 21, 1993, Respondents’ home was 
+searched and property seized by Petitioner pursuant to a 
+warrant issued by Judge Oki of the Citrus Municipal 
+Court on May 20, 1993; for “further information,” call a 
+detective at (818) 814-8510. 
+While the one-page notice appears to provide infor- 
+mation needed to access the remedy, the record reveals 
+the contrary. The notice, after it is distilled, is limited to 
+who took the property and under whose authority. This is 
+“skeletal” information. Even the location whereat to 
+appear to move to get the property back was lacking in 
+the notice. Nevertheless, Perkins tried to fill in the gaps 
+in the notice. He called the number for further informa- 
+tion and was eventually told to go to court. At court, 
+Respondents were unable to appear before a judge; their 
+inability to obtain the necessary information prevented 
+
+20 
+them from getting on calendar to make their rea jest. The 
+record reveals that neither Respondents nor the court 
+(because Respondents did not have the necessary infor- 
+mation) could identify the warrant in question. The infor- 
+mation that Respondents needed was in the possession of 
+Petitioner but not included in the notice. Without the 
+search warrant number, case name, or case number, the 
+opportunity for a hearing was rendered meaningless. 
+Further, Petitioner created the illusion that Respon- 
+dents would be given the necessary information 
+by pro- 
+viding a telephone number to call for further information. 
+This portion of the notice was limited in its meaningful- 
+ness. Nevertheless, the ability to access a postdeprivation 
+remedy should not hinge upon the assistance of someone 
+who has an interest in trying to leverage information 
+from the person whose property has been seized.’ 
+Petitioner’s notice requires that the individual do just 
+that — contact the very person whose interest it is to not 
+necessarily provide the information. 
+ee 
+7 A minority of this Court has suggested that a form notice 
+which provides a telephone number to an adequately staffed 
+information center, might satisfy the notice requirements of due 
+process. Memphis Light, Gas & Water Div. v. Craft, 436 U.S. 1 
+(1978) (Stevens, J., dissenting). Under the circumstances of this 
+case, however, the phone was not adequately staffed in that the 
+person who answered did not have an interest in providing the 
+information without trying to leverage it. A finding of adequate 
+notice in the leaving of a phone number, would, as stated above, 
+make access to a remedy hinge upon the willingness of a 
+detective to be forthright and not take advantage of his position. 
+Se 
+ee 
+ee 
+21 
+B. Mathews v. Eldridge. 
+Petitioner proposes a purely mechanical analysis for 
+this case in requesting that the Court deny the right to 
+notice in all postdeprivation hearing cases. However, as 
+this court has stated, “[d]ue process, unlike some legal 
+rules, is not a technical conception with a fixed content 
+unrelated to time, place, and circumstance.” Cafeteria 
+Workers 
+v. McElroy, 367 U.S. 886, 895 (1961) (internal 
+quotations omitted). As such, the “notice required will 
+vary with the circumstances and conditions.” Schroeder, 
+371 U.S., at 212. In evaluating what notice due process 
+requires under the circumstances and conditions of this 
+case, “(t]he balancing of equities that Mathews v. Eldridge 
+outlines remains a useful guide in due process cases.” 
+Medina v. California, 505 U.S. 437, 453 (1992) (O’Connor, J., 
+concurring).® 
+The Court, while sometimes limiting the application 
+of this balancing test, has broadly stated, without strict 
+limitation, that Mathews “articulate[s] a three factor test 
+for evaluating procedural due process claims. ...” Id., at 
+443. Under Mathews, in order to identify “the specific 
+dictates of due process [notice, in this case],” the Court is 
+to consider, in the particular case, (1) the private interest 
+at stake, (2) the risk if an erroneous deprivation along 
+with the value of additional notice, and (3) the burden 
+imposed on the government by the additional notice. Id., 
+at 335. 
+8 Medina recognizes that the Mathews balancing test has 
+been applied in the resolution of due process issues other than a 
+predeprivation due process case. 
+
+22 
+1. 
+The Private Interest at Stake 
+The list of property seized and retained by Petitioner 
+is listed in the Property Receipt. J.A. 84. While the list 
+includes a number of items, the primary items are the 
+$2,469.00 and the family’s shotgun. Obviously, the private 
+interest at stake is significant, especially given the fact 
+that the money was saved by a working class family for u 
+trip from Los Angeles to Alabama to visit Mrs. Perkins’ 
+mother, a trip, incidentally, that never was able to occur. 
+The private interest in such personal property is undenia- 
+bly important. 
+2. The Risk of Erroneous Deprivation and The 
+Probable Value of Additional Procedural 
+Safeguards 
+There is no question that Respondents had an interest 
+in the property at issue; the proof of ownership was 
+submitted and the detective had no objection to the 
+return of the property. The lack of information in the 
+notice prevented Respondents from getting on calendar 
+for the pro forma adjudication of their interest. 
+It is apparent in the record that the notice did not 
+provide information that would identify under what 
+search warrant or case the property was seized. Notice of 
+the deprivation was provided but not any information 
+that would allow an individual to identify under what 
+warrant the property was held or how to obtain this 
+needed information. The risk, as a general matter, is 
+ee 
+eee 
+23 
+substantial if one cannot identify the warrant. The impen- 
+ding specter of an unknown criminal filing, increases the 
+risk of erroneous deprivation substantially, since, without 
+the ability to adjudicate one’s interest, the tendency of 
+law enforcement and the courts would be to link the 
+property to the illegal activity of the subject of the search 
+warrant. 
+In the event no criminal filing occurs or is 
+delayed, notice of the procedure for return of property is 
+more critical because of the uncertainty of its status. The 
+criminal court has the power to order the property 
+destroyed or confiscated in the criminal case either after 
+trial or through a plea and sentence bargain. The defen- 
+dant, in a plea bargain, also has an interest in releasing 
+the property to the government as part of a deal. The risk 
+to Respondents, as evidenced in the record, is no less, 
+given that the Petitioner was seeking to seize firearms 
+and other items related to gang activity. Moreover, with- 
+out input at the court from Respondents, the money 
+could easily be used as evidence against Marsh or by 
+Marsh, therefore, interfering with Respondents’ interest 
+in it. 
+The increased value of additional procedural safe- 
+guards (further notice) in avoiding the risk of loss is 
+substantial in the record. Including in the notice already 
+provided information allowing Respondents to employ 
+the procedural remedy allows for access to the courts for 
+adjudicating their interest, thereby eliminating the risk of 
+an erroneous retention or use in a criminal proceeding. 
+As a general matter, the “value” of the additional notice 
+is not necessarily judged by the success of retrieving the 
+property, but by the providing of notice sufficient to 
+
+24 
+enable one to obtain a hearing; here, however, Respon- 
+dents’ rights to the property is unquestioned. Further, the 
+additional safeguards are judged as to their reasonable- 
+ness, which “must be tested with reference to the exis- 
+tence of ‘feasible and customary’ alternatives to the form 
+of notice chosen.” Green v. Lindsey, 456 U.S. 444, 454 
+(1982). Here “feasible and customary” alternatives were 
+a” vilable. 
+(i) 
+Petitioner could leave a copy of the warrant. It is 
+customary among the majority of states and the federal 
+government, pursuant to statutory mandates, to leave a 
+copy of the warrant at the residence searched. United 
+States brief, fn. 1. California’s customary practice 1s 
+inconsistent with the Federal Rules of Criminal Procedure 
+and the bulk of the other 49 states. Providing a copy of 
+the document has been determined to be not only feas- 
+ible, but also mandatory in these jurisdictions. 
+(ii) 
+To the extent that Petitioner claims that the 
+search warrant was “sealed” and, therefore, not feasible 
+to leave at the home, there exist additional alternatives. 
+The search warrant can be redacted of information which 
+Petitioner believes may compromise the investigation. 
+The search warrant number and other necessary informa- 
+tion can be included on the “Search Warrant: Notice of 
+Service” document. 
+(iii) 
+Petitioner can notify the court of the officers’ 
+belief of the erroneous nature of the retention, so that a 
+hearing would be set up or an order signed returning the 
+property. This would avoid the danger of divulging 
+important information. 
+ee 
+ee 
+Se 
+Se 
+ae 
+ee 
+at 
+25 
+(iv) 
+Notice of the procedure or reference to the 
+appropriate Penal Code sections and local rules along 
+with the necessary information would have provided 
+Respondents with a starting point from which to make 
+application to the court. This would have avoided further 
+burden to the Petitioner, by relieving it of providing 
+piecemeal information to Respondents in each returned 
+call. 
+3. The Burden Imposed on the Government. 
+Since Petitioner already leaves a document at the 
+location, and, since most every other state in the Union 
+requires the leaving of a copy of the search warrant, the 
+requirement that Petitioner leave >.>‘ ce imparting key 
+information to employ the procee 1: © 
+< the return of the 
+property is clearly minimal. Peti:.mer need only adopt 
+the procedure employed by the federal government 
+- 
+providing a copy of the warrant. Alternatively, Petitioner 
+would not be required to create any new procedures, only 
+the modifications of existing forms. 
+The information provided by Petitioner in the notice 
+or search warrant would not burden the government with 
+the necessity of providing legal advice. The form would 
+only need the warrant number, the case number, or the 
+means to identify this information or the warrant, if it is 
+not available or sealed. Giving notice that the Respondent 
+needed to file a written request with the court is not legal 
+advice. No legal judgments need be made in the giving of 
+notice. This Court has demanded in other cases that 
+municipalities provide more notice than that which the 
+Court of Appeals demanded here. Applying these notice 
+
+26 
+requirements to a postdeprivation context does not trans- 
+form it into legal advice. The attempts by Petitioner and 
+Amici to paint a confusing and burdensome picture of the 
+Petitioner’s obligation to provide notice is an overstate- 
+ment without support in the record. The fundamental due 
+process requirement of notice, as defined by the Ninth 
+Circuit is that Respondents must be given key informa- 
+tion and basic directions as to what course to take to 
+retrieve their admittedly wrongfully held property. This 
+basic, fundamental, and rudimentary information allows 
+the aggrieved party to initiate the procedure for the 
+return of property. To assert that this information, some- 
+how, constitutes legal advice to the recipient of the notice 
+illogically expands the parameters of the practice of law. 
+The alleged fear of prosecution for the unauthorized 
+practice of law only magnifies the absurdity of this posi- 
+tion. 
+The suggestion that the notice would be overly bur- 
+densome and would “vary from time to time and court to 
+court” and require monitoring of court procedures is 
+unfounded. There is nothing in the record to suggest that 
+there is any variation in the law in California much less 
+among the nation. In fact, the record is to the contrary. 
+California’s procedure is governed by state law, not by 
+any local ordinances; uniformity of notice, therefore, 
+would be preserved. Additionally, according to the 
+United States, there exists a tradition, history, and prac- 
+tice among the fifty states and the federal government 
+which is evidence of a constitutional practice. Notice 
+which imparts the basic information necessary to access 
+the property return procedure, therefore, would not vary 
+from court to court. Moreover, the indication is that Rule 
+27 
+41, at least, has not changed since 1917, thereby eliminat- 
+. ing the possibility that the procedure would vary from 
+time to time. United States brief at 14. Finally, the sub- 
+stance of the notice is basic enough that there would exist 
+no realistic variations. In fact, only the Petitioner would 
+have to change its notice requirements, by falling into 
+line with the rest of the nation and provide a copy of the 
+warrant, depending on the Court's holding in this case. 
+The substance of the notice is also not so specific as to 
+require the minute detail fancifully envisioned in the 
+briefs, whereby the municipality would have to give 
+notice of everything from the grade of paper to the font- 
+size of the type. 
+Moreover, this requirement does not expose the 
+municipality to untold liability as amici asserts. Amici 
+have presented no evidence that such a prediction will 
+occur under the facts which are the basis of the Perkins’ 
+claim. This prediction is extremely unlikely. This court 
+has found in other circumstances that due process man- 
+dates notice more detailed than the Court of Appeals 
+dictated in this case. There is no proffer of evidence 
+indicating such an overwhelming burden occurring in 
+similar such cases. 
+* Respondents believe the cases stron 
+ve 
+gly support that due 
+process requires the Petitioner provide information on how to 
+initiate the return procedure. Nevertheless, Respondents are 
+mindful of the Court's desire for restraint. See, Section V. supra. 
+
+28 
+4. Balancing the Mathews Factors. 
+In weighing these factors, the record shows that the 
+private property interest, personal items taken from a 
+residence, and money saved by the family, is not an 
+insignificant interest. The fact that the money was saved 
+for a family trip to visit Mrs. Perkins’ mother in Alabama, 
+gives the interest much more significance. 
+The burden imposed on Petitioner is quite minimal, 
+since it requires only the modification of an existing 
+notice already left at the location. Petitioner also can 
+leave a copy of the search warrant which also would have 
+provided the information needed by Respondents in 
+accessing the procedure. The only burden to which Peti- 
+tioner can point is the addition of information in the 
+notice form. This is not a significant burden at all, since 
+the Petitioner provides notice already. 
+Initially, at a minimum, the search warrant could be 
+provided or the notice should be amended to provide the 
+essential information necessary to invoke the procedure 
+for return of property. This involves the minimal burden 
+of complying with the dictates set forth by the federal 
+government and most other states by requiring that the 
+search warrant be left at the location. Otherwise, Peti- 
+tioner need only modify the notice to include the search 
+warrant number, the case name or number, or other 
+means of identifying the court file. The notice could 
+easily state that the document can be submitted to the 
+clerk of the court for identification of the court file. This 
+is a minimal burden justified by the value to individuals 
+29 
+in accessing the procedure for a meaningful hearing and 
+to avoid the risk of erroneous deprivation. 
+The additional text in the “Search Warrant: Notice of 
+Service,” would include information to the recipient of 
+the procedure for contesting the seizure, i.e., that the 
+aggrieved party must seek a court order, and provide 
+“any additional information required for initiating that 
+procedure in the appropriate court.” Since there exists no 
+indicated variation in the laws, Petitioner need only 
+advise of the need to file a written notice to request the 
+property be returned promptly. Further, there is no indi- 
+cation that these laws have changed at all, such that the 
+municipality would be required to monitor court pro- 
+cedures. This is a mandate which is rationally re!ated to 
+the municipality's obligation to notify an individual of 
+the seizure itself. The burden of adding information 
+about the procedure for obtaining return of the admit- 
+tedly erroneously retained property is minimal given the 
+uniformity and consistency of the laws over time and 
+place. 
+The basic foundation and essence of due process is 
+the providing of adequate notice to the person whose 
+property interests are put in jeopardy. Mathews v. Eldridge, 
+424 U.S., at 348. Because they were deprived of the notice 
+of the right to seek return of the property, and the notice of 
+the means by which to achieve such, Respondents were 
+prevented from accessing a hearing on their property. 
+Moreover, this Court has specifically held that “the 
+Due Process Clauses protect civil litigants who seek 
+recourse in the courts, either as defendants hoping to 
+protect their property or as plaintiffs attempting to 
+
+30 
+redress grievances.” Logan v. Zimmerman Brush Co., 455 
+U.S., at 429. Logan reaffirmed a long line of cases uphold- 
+ing the fundamental nature of this right. In Boddie v. 
+Connecticut, 401 U.S. 371 (1971), “the Court established 
+that, at least where interests of basic importance are 
+involved, ‘absent a countervailing state interest of over- 
+riding significance, persons forced to settle their claims of 
+right and duty through the judicial process must be given 
+a meaningful opportunity to be heard.’ ” Logan, 455 U.S., 
+at 430, fn. 5, citing Boddie, 401 U.S., at 377. “[H]aving 
+made access to the courts an entitlement or a necessity, 
+the State may not deprive someone of that access unless 
+the balance of state and private interests favors the gov- 
+ernment scheme.” Id. As Justice Blackmun noted, “(t]he 
+Court’s cases involving the right of access to court's 
+provides an analogous method of analysis. ... 
+” Id. 
+Additionally, in Memphis Light, Gas, & Water Div. v. 
+Craft, 436 U.S. 1 (1978), this Court dealt with a similar set 
+of circumstances with regard to evaluating the substance 
+of particular notice. While this is a predeprivation case, 
+the Court found that the notice to the customers was 
+insufficient to satisfy Due Process, because it deprived 
+them of a meaningful opportunity for a hearing. As the 
+Court of Appeals quoted, 
+[T]he notification procedure, while adequate to 
+apprise the [piaintiffs] of the threat of termina- 
+tion of service, was not “reasonably calculated” 
+to inform them of the availability of “an oppor- 
+tunity to present their objections” to their bills. 
+Mullane v. Central Hanover Trust Co., 339 U.S. 
+306, 314 (1950). The purpose of notice under the 
+Due Process Clause is to apprise the effected 
+individual of, and permit adequate preparation 
+31 
+for, an impending “hearing.” Notice in a case of 
+this kind does not comport with constitutional 
+requirements when it does not advise the cus- 
+tomer of the availability of a procedure for pro- 
+testing a proposed termination of utility service 
+as unjustified. As no such notice was given 
+respondents — despite “good faith efforts” on 
+their part —- they were deprived of the notice 
+which was their due. 
+Memphis Lights, 435 U.S., at 14-15 (footnotes omitted). The 
+Court can set aside the predeprivation aspect of Memphis 
+Light, and utilize its thoughtful analysis of notice. The 
+attempts by Petitioner to distinguish Memphis Light from 
+this case ignore this court's willingness to utilize the 
+balancing test to determine the dictates of due process. 
+Additionally, the Petitioners and Amici seem to 
+ignore the fact that there was an impending hearing 
+within the meaning of Mathews. Specifically, tne prosecut- 
+ing agency charged Marcus Marsh in a criminal proceed- 
+ing. While in most cases, the criminal action will occur 
+sooner, such an action, at any time, threatens the status of 
+the seized property. This impending hearing necessitates 
+notice to the party whose property «ould potentially be 
+affected. Also, the retention of the property, as opposed to 
+its initial seizure, was no longer the subject of an emer- 
+gency and it was not impracticable for the government to 
+provide notice of a hearing. Even under the Petitioner’s 
+limited construction of Mathews, the balancing test 
+applies. Since there is no emergency or impracticability, 
+there is no impediment to providing a hearing ort the 
+retention. Nevertheless, Respondents do not advocate 
+that Mathews requires a hearing, since the state has an 
+
+32 
+adequate procedure. The Mathews balancing factors do, 
+however, dictate that the Petitioner provide notice. 
+Even without an impending hearing, there appears 
+no logical impediment to bifurcating the Court’s discus- 
+sion in Memphis Light as to the adequacy of notice. In the 
+predeprivation hearing cases, notice is critical to guaran- 
+teeing the right of an opportunity for a meaningful hear- 
+ing. Notice, in this case, is also necessary to provide an 
+opportunity for a meaningful hearing. If notice is 
+required in both contexts, the analysis of Memphis Light is 
+controlling when judging the adequacy of the notice. 
+Ill. 
+NEITHER CALIFORNIA STATUTES NOR CASE 
+LAW PROVIDE SUFFICIENT NOTICE OF THE 
+INFORMATION NECESSARY TO ACCESS THE 
+POSTDEPRIVATION PROCEDURE. 
+1. Respondents were unable to get their property 
+back because they were not provided with the search 
+warrant number, case name, or case number or how to 
+obtain it. This basic information was needed to access 
+their state remedy under California law. Since the Califor- 
+nia statutes and case law could never provide the specific 
+factual information needed by Respondents, the statutory 
+notice cases of North Laramie Land Co. v. Hoffman, 268 U.S. 
+276 (1925), Reetz v. Michigan, 118 U.S. 505 (1903), and 
+Anderson National Bank v. Luckett, 321 U.S. 233 (1944), do 
+not apply.!° 
+10 “[A)}n unfair and irrational exercise of state power vannot 
+be transformed into a rational exercise merely by invoking [the] 
+legal maxim or prescription . 
+. . that each citizen may be charged 
+33 
+Each of the parties in these three cases possessed the 
+basic information to employ the procedures under state 
+law. North Laramie Land Company knew the parcel 
+number of their lot; Reetz had a state license number; and 
+the Luckett depositors knew their account numbers. 
+Respondents did not have comparable information; they 
+were not provided the search warrant number, case name, 
+or case number needed to advise the clerk’s office or the 
+court. Even if Respondents had been given a hearing, 
+they would have needed this information to identify the 
+property. 
+2. 
+With regard to the notice of procedures, while 
+California law may provide for an adequate procedure, in 
+this context, statutory notice is simply nonexistent.!! The 
+cases relied upon to support the contention that the stat- 
+ute provides adequate notice are distinguishable. In North 
+Laramie Land Co., the Court held that “[a] landowner who 
+had notice of the initiation of the proceedings for the 
+opening of the road published in accordance with the 
+statute, which notice as we have seen under the decisions 
+of this court is constitutionally sufficient, would have 
+with knowledge of the law.” Texaco v. Short, 454 U.S., at 544, 102 
+S.Ct., at 800 (Brennan, J., dissenting). 
+'! The statute relied upon by Petitioner and Amici does not 
+provide instructions regarding any procedure for obtaining a 
+hearing on property. California Penal Code section 1536 provides 
+only a jurisdictional basis for the return of property. The statute, 
+unlike those in North Laramie Land Co., Reetz, and Luckett, gives 
+no notice as to what postdeprivation procedure may be invoked 
+by a property owner. The procedure is set out in case law, and is 
+referred to as a “nonstatutory” motion for return of property. 
+See People v. Icenogle, 164 Cal. App.3d, 620, 623, 210 Cal.Rptr. 575 
+(1985). 
+
+34 
+experienced no practical difficulty in ascertaining when 
+the board of county commissioners took final action and 
+by filing notice of appeal to the district court within 
+thirty days thereafter, he could have secured the full 
+hearing to which he is constitutionally entitled. Having 
+failed to adopt such procedure, the plaintiff cannot com- 
+plain of a denial of due process of law.” North Laramie 
+Land Co. v. Hoffman, 268 U.S. 276, 287 (1925). Notice of a 
+hearing, consequently, was already provided and the land 
+company was put on notice that the hearing was to take 
+place; the land company waived its right to complain by 
+not making any effort to take advantage of a procedure 
+already in effect. Furthermore, the Court held that the 
+principle that property owners are charged with knowl- 
+edge of the laws affecting their property has “special 
+force” only in tax and condemnation cases. Id. at 283. 
+In Reetz v. Michigan, 118 U.S. 505, 509 (1903), the 
+Court imputed knowledge of a statute to a doctor, regard- 
+ing how to appeal the denial of his license to practice 
+medicine, when he had already utilized the statute in 
+filing his initial application. The Court held that “[t]he 
+statute was sufficient notice,” and upheld his conviction 
+for practicing medicine without a license. Again, and 
+similar to North Laramie, the Court imputed knowledge of 
+a statute to a person whose property was such that the 
+court would expect him to understand that “[s]Juch stat- 
+utes are universally in force and are general in their 
+application, facts of which the land owner [or profes- 
+sional licensee] must take into account in providing for 
+the management of his property [or professional license] 
+and safeguarding his interest in it.” North Laramie, 268 
+U.S., at 283. 
+35 
+ing property such as land or a professiona! 
+the ownership necessarily and obviously include 
+limitations, duties, and other obligations. 
+To the 
+contrarn 
+the owner of personal property would not be 
+expected & 
+have any knowledge of the laws regarding 
+return 
+of 
+property seized pursuant to a search warrant. 
+See also 
+Anderson National Bank v. Luckett, 321 U.S. 233, 237 (1944) 
+(Bank depositor or investor deemed to know that myriad 
+laws and regulations govern use, control, and abandon- 
+ment of such property). 
+Thus, in each of these cases, the claimants failed to 
+take advantage of procedures available to them under 
+state law regarding property interests which anyone 
+would expect them to understand existed. Laramie Land 
+Co. bought and held real property; it should understand 
+the general outline of eminent domain procedures. Reetz 
+went to medical school and knew he was required to 
+obtain and maintain a license to practice medicine, his 
+chosen profession. The Luckett depositors, who invested 
+their money in banks, should understand that abandon- 
+ment of their investments may have adverse conse- 
+quences. 
+In contrast, the Perkins family possessed personal 
+property in their home, and had no reason to expect that 
+there existed a set of government regulations regarding 
+how to retrieve their property, much less that the govern- 
+ment would somehow become involved in its seizure, 
+such that they would be expected to have a generalized 
+knowledge of the non-statutory procedures governing 
+return of seized property. 
+
+36 
+Moreover, unlike the Perkins family, the claimants in 
+these cases had the necessary procedural information 
+with which to seek action, yet failed to utilize that infor- 
+mation. In North Laramie, the land company neglected to 
+exercise all of its rights under the statute; in fact, the land 
+company knew that the proceedings were occurring, even 
+obtaining an extension from the board for filing its claim, 
+but failed to act. In Reetz, the claimant knew all about the 
+licensing procedures, having been licensed previously 
+and having applied for a renewed license only to be 
+denied. He failed to act on his appeal. In Anderson, the 
+claimants abandoned their property altogether. In this 
+case, Respondents did not neglect to exercise their rights, 
+did not fail to act, and did not abandon their property. 
+Respondents did what they were supposed to do but 
+were denied entry to the court, because they were not 
+provided the information needed to employ the pro- 
+cedure for the return of their property. 
+Finally, Petitioner was put on notice that the property 
+it had seized was not related to any criminal activity. Had 
+the municipality in North Laramie recognized that it had 
+wrongfully condemned the land, it would have taken 
+action to undo it. Had the State of Michigan recognized 
+that it had wrongfully denied Reetz his license, it would 
+have taken action to issue him one, sua sponte. Had the 
+government realized it had wrongfully forfeited a pur- 
+portedly abandoned bank account, it would have restored 
+the funds. The idea that the government can come into 
+someone’s home, take private property, admit that the 
+property is not related to any crime, and then require the 
+citizen to wade through the mire of non-statutory pro- 
+cedures for return of property without basic information 
+Ne 
+ane 
+37 
+provided in the notice is repugnant to the Due Process 
+Clause and the Fourth Amendment. 
+While the Due Process Clause may not require affir- 
+mative action on the part of Petitioner, the egregiousness 
+of the retention, and the complications encountered by 
+Respondents in pursuing their remedies magnifies the 
+need for notice in this case, without reaching out to establish 
+some broad rule of application.'2 
+IV. 
+THE NOTICE SUPPLIED BY PETITIONER 
+BREAKS SHARPLY FROM THE TRADITIONAL 
+FORM OF NOTICE SUPPLIED 
+BY LAW 
+ENFORCEMENT AGENCIES THROUGHOUT 
+THE COUNTRY 
+The United States argues the fact that all the other 
+states and the federal government provide certain notice 
+is important evidence that due process has been satisfied. 
+By the same token “[eJach of our cases has recognized, 
+either explicitly or implicitly, that because minimum pro- 
+cedural requirements are a matter of federal law, they are 
+not diminished by the fact that the State may have speci- 
+fied its own procedure that it may deem adequate for 
+determining the preconditions to adverse official action.” 
+Logan v. Zimmerman Brush Co., 455 U.S., at 432, citing Vitek 
+v. Jones, 445 U.S. 480, 491 (1980) (internal quotes and 
+brackets omitted). There are compelling reasons why this 
+'2 Respondent recognizes that some inconvenience to the 
+citizen is acceptable given the interests of law enforcement. 
+However, the circumstances here reveal that Respondents were 
+stymied in their efforts, not just inconvenienced. 
+
+38 
+evidence is unpersuasive in support of Petitioner's posi- 
+tion. 
+Petitioner gave notice which would not have com- 
+plied with Fed.R.Crim.P. 41(d) or any other similar state 
+statute. Rule 41 requires that the agency “taking property 
+under the warrant shall give 
+to the person from whom or 
+from whose premises the property was taken a copy of the 
+warrant and a receipt for the property taken or shall leave 
+the copy and receipt at the place from which the property 
+was taken.” Fed.R.Crim.P. 41(d).'* Petitioner did leave a 
+receipt for the property but not a copy of the warrant. 
+Had Respondents received a copy of the warrant, 
+Respondents would have had information that would 
+have allowed them to appear at the courthouse and to 
+provide the court clerk with the key information to allow 
+the case to be put on a judge's calendar for resolution. 
+The copy of the warrant has the warrant number listed. 
+].A. 92. Petitioner’s practice is not consistent with the 
+history and practice in the other states and the federal 
+government. 
+This evidence is, at best, weak because of its dis- 
+similarity to Petitioner’s practice, at worst, wholly irrele- 
+vant to the point sought to be proved. Conversely, the 
+history and practice of other states and the federal gov- 
+ernment is evidence of the unconstitutionality of Peti- 
+— 
+tioner’s notice, since the other statutory schemes are 
+evidence of what does comply with due process. 
+13 The Court will recognize that the majority of the state 
+statues are modeled after the Federal Rule of Criminal 
+Procedure 41. 
+39 
+V. 
+IN THE ALTERNATIVE, SHOULD THE COURT 
+DETERMINE THAT THE NOTICE REQUIRE- 
+MENTS OF THE COURT OF APPEALS WENT TOO 
+FAR, THE FINDING THAT THE NOTICE WAS 
+INADEQUATE IS PRINCIPLED AND JUSTIFIES 
+THE AFFIRMATION OF THE OPINION WITH 
+MODIFICATIONS TO THE NOTICE REQUIRE- 
+MENTS 
+Due process requires “an opportunity 
+.. 
+. 
+[for a 
+hearing] granted at a meaningful time and in a meaning- 
+ful manner,” Logan v. Zimmerman Brush Co., 455 U.S., at 
+437, “is flexible and calls for such procedural protections 
+as the situation demands.” Morrissey v. Brewer, 408 U.S. 
+471, 481 (1961). If the Court's balancing of the competing 
+governmental and private interests differs in substance 
+from that of Respondents and the Court believes that due 
+process does not require any notice of the procedures, the 
+Court should affirm the holding of the Court of Appeals 
+as its central holding is fundamentally correct - that “the 
+notice given Perkins did not meet the requirements of 
+due process.” Pet.App. A23. At a minimum, due process 
+requires that the notice provide “information required for 
+initiating that procedure in the appropriate court. In cir- 
+cumstances such as those presented by this record, the 
+notice must include the search warrant number, or, if that 
+is not available or the record is sealed, the means of 
+identifying the court file.” Pet.App. A22. 
+The holding of the case, that notice was insufficient, 
+is a principled ruling and finds ample support in the 
+record and case law, as described above. Nevertheless, 
+should the Court determine that notice of the procedures 
+is not required to satisfy due process, this court can and 
+
+40 
+should, in the alternative, still find that the notice was 
+lacking but limit the procedural notice requirements. The 
+flexibility of due process and the requirement of “mean- 
+ingfulness” demands affirmation. 
+¢ 
+CONCLUSION 
+For the reasons stated herein, Respondents pray that 
+the decision of the Court of Appeals be affirmed in its 
+entirety, or in the alternative, affirmed, but modified, and 
+that they be awarded costs. 
+DATED: 
+September 11, 1998 
+Respectfully submitted, 
+Patrick S. SMITH, 
+* 
+Counsel of Record 
+Kiass, He_Man & Ross 
+11766 Wilshire Boulevard, Suite 200 
+Los Angeles, California 90025-6538 
+(310) 277-2224; Fax (310) 470-1080 
+Attorneys for Respondents 

@@ -1,0 +1,1864 @@
+      it)j  Supreme Court, U. 4
+            FILED
+
+        9 7 1642 aR 619%
+
+      No.
+
+                                                           913 —
+
+In the Supreme Court of the United States
+
+      OCTOBER TERM, 1997
+
+   THE UNITED STATES DEPARTMENT OF THE ARMY,
+                              PETITIONER
+
+                                                    v.
+
+                             BLUE Fox, INc.
+
+       ON PETITION FOR A WRIT OF CERTIORARI
+      TO THE UNITED STATES COURT OF APPEALS
+
+                    FOR THE NINTH CIRCUIT
+
+   PETITION FOR A WRIT OF CERTIORARI
+
+            SETH P. WAXMAN
+              Solicitor General
+                Counsel of Record
+
+            FRANK W. HUNGER
+
+              Assistant Attorney General
+
+            EDWIN S. KNEEDLER
+              Deputy Solicitor General
+
+            JEFFREY A. LAMKEN
+
+              Assistant to the Solicitor
+                General
+
+            BARBARA C. BIDDLE
+
+            MARY K. DOYLE
+
+              Attorneys
+
+              Department of Justice
+              Washington, D.C. 20530-0001
+
+              (202) 514-2217
+
+—  —  LOO LLLET LE LITER ELECT EE OE ELLIO TOOL  LTE
+
+                                                                  *
+                      QUESTION PRESENTED
+
+   The Administrative Procedure Act provides that
+any person “suffering legal wrong because of agency
+action” or “adversely affected or aggrieved by agency
+
+action within the meaning of a relevant statute, is
+
+entitled to judicial review thereof.” 5 U.S.C. 702. As
+amended in 1976, Section 702 also waives the govern-
+ment’s sovereign immunity for such suits that seek
+relief other than “money damages.” Respondent in
+this case, a subcontractor on a federal project, was
+not paid the full amount due to it from the prime con-
+tractor, and could not collect the full amount due from
+a surety because the prime contractor had not posted
+a payment bond required by federal law. The question
+presented is:
+
+   Whether 5 U.S.C. 702 permits respondent to bring
+an action in federal district court for an “equitable
+lien” against the government to recover the amounts
+owed to respondent by the primary contractor.
+        TABLE OF CONTENTS
+
+—                                    .                Page
+
+c                                                          1
+                                                           1
+Statutory provision involved                . . .. .       2
+                                                           2
+111—ů                                                    11
+                                                         29
+Reasons for granting the petition . . ..                 la
+                                                        19a
+„                                    „„„ͤ„              21a
+                                                        32a
+778                                  .                  a
+
+1.                            .
+
+BITRE © —————————————
+
+88 ———————————
+
+E12                           ᷑ .
+
+        TABLE OF AUTHORITIES
+
+Cases:
+
+Active Fire Sprinkler Corp. v. United States Postal
+
+Serv., 811 F.2d 747 (2d Cir. 1987) . .                22
+
+Aetna Cas. & Surety Co. v. United States,
+
+71 F.3d 476 (2d Cir. 1995)                            9, 16, 17
+
+Arvanis v. Noslo Fug Consultants, Inc., 739 F.2d
+
+1287 (7th Cir. 1984), cert. denied, 469 U.S. 1191
+
+  K                                                   22, 25, 26
+Automatic Sprinkler Corp. of Am. v. Darla
+
+Envtl. Specialists, 53 F.3d 181 (7th Cir. 1995) .... 25, 26
+
+Block v. North Dakota, 461 U.S. 273 (1983) ........... 27
+
+Bowen v. Massachusetts, 487 U.S. 879 (1988) ...... 8, 11,
+
+                                            12, 13, 15, 19
+
+Buchanan v. Alexander, 45 U.S. (4 How.) 20
+
+88      —————— ——7—ßtĩ—qik̈                           23
+
+City of Houston v. HUD, 24 F.3d 1421 (D.C. Cir.
+
+169689 ————————                                       17, 18
+
+Deulin Lumber & Supply Corp. v. United States,
+
+488 F.2d 88 (4th Cir. 1973)                           25
+
+Dia Navigational Co. v. Pomeroy, 34 F.3d 1255
+
+8       ee                                  11, 15, 16, 17
+
+                              (III)
+                      IV                                                                     V
+
+Cases— Continued:                                            Page    Cases Continued:
+
+Eaglz-Picher Indus., Inc. v. United States,                          United States v. Ansonia Brass & Copper Co.,
+
+901 F.2d 1530 (10th Cir. 1990)               .                   21  ü                          ͤͤU——             K —
+                                                                 23
+Equitable Surety Co. v. McMillan, 234 U.S. 448                   18  United States v. Mitchell, 463 U.S. 206 (1983)
+
+—                  —                                             2⁵  United States v. Mottaz, 476 U.S. 834 (1986) .........
+                                                                 22
+FDIC v. Meyer, 510 U.S. 471 (1994)                               23  United States v. MunsTre ustyCo., 332 U.S. 234
+                                                             16, 17
+Hardaway Co. v. United States Army Corps of                      23  „rc
+                                                                 22
+Engers, 980 F.2d 1415 (11th Cir.), cert. denied, 510                 United States v. Sherwood, 312 U.58S4 . (1941)
+                                                                 13
+I                                .                               25  United States v. Smith, 324 F.2d 622 (5th Cir.
+                                                                 21
+Henningsen v. United States Fidelity & Guaranty                  12  United States v. Testan, 424 U.3S92 (.1976) ..........
+                                                                     Wabash Valley Power Ass'n v. Rural Electrification
+Nee                   ee                                         21   Admin., 903 F.2d 445 (7th Cir. 1990)qq
+                                                                 18  Westbay Steel, Inc. v. United States, 970 F.2d 648
+Hill v. American Surety Co., 200 U.S. 197 (1906) ....            22   i
+                                                                 21
+Hubbard v. Administrator, EPA, 982 F.2d                          25
+
+L                                   T 11, 14, 15,
+
+J.W. Bateson Co. v. United States, 434 U.S. 586
+
+ü                  .                                                      080800 ———————————————————
+
+Kennedy Elec. Co. v. United States Postal Serv.,                     Constitaundtstiatoutnes:                                  §uaGsnuUee
+
+508 F. 2d 594 (10th Cir. 197/40)                                        U.S. Const. Art. I, § 9,Cl. 7 (Appropriations            24
+                                                                                                                                 24
+Maryland Dep't of Human Resources v. Department                        Act ofApr. 29, 1941, ch.81,55Stat. 147                    24
+                                                                       Act ofJune 3,1955, Pub. L.No. 60,69Stat. 83 ..........
+of Health & Human Servs., 763 F.2d 1441                                Act of Nov. 2,1966, Pub. L.No. 89-719, Tit. I,
+
+L                                                                        yt. See OR
+                                                                       Act of Oct. 21, 1976, Pub. L. No. 94-574, § 1,
+McMann v. Northern Pueblos Enters., Inc.,
+
+594 F.2d 784 (10th Cir. 1979)
+
+Merritt v. United States, 267 U.S. 338 (1925) .........
+
+Mitchell v. United States, 930 F.2d 893 (Fed. Cir.
+
+| —————— a
+
+North Star Alaska Hous. Corp. v. United States,
+
+9 F.3d 1430 (1993) (en banc), on remand, 14 F.3d 36
+
+(9th Cir.), cert. denied, 512 U.S. 1220 (1994) ...........
+
+Office of Personnel Management v. Richmond,                          108 Stat. 3243:
+
+GED DE, GEG GED /                                                    e                                                         5
+
+Pearlman v. Reliance Ins. Co., 371 U.S. 132                          4e, 108 Stat. 38                                          24
+
+„ —.               ̃ ⁵ͤ“Uw᷑̃/½ͤ                                      Administrative Procedure Act (Act of June 11, 1946),
+
+Sharp v. Weinberger, 798 F.2d 1521 (D.C. Cir.                        ch. 324, 60 Stat. 237, 5 U.S.C. 551 et seg.
+
+128                                                                  § 10(a), 60 Stat. 243:
+
+United Elec. Corp. v. United States, 647 F.2d 1082                   EE                                           ene ee       2
+
+(Ct. Cl.), cert. denied, 454 U.S. 863 (1981) ..............          es ̃ —                  —                                 passim
+                            VI                                          In the Supreme Court ofthe United States
+
+Statutes—Continued:                                          Page                               OCTOBER TERM, 1997
+
+g 10(a)-(c), 60 Stat. 243:                                                                             No.
+                                                                            THE UNITED STATES DEPARTMENT OF THE ARMY,
+    114. .                                                          6
+                                                                   12                                  PETITIONER
+    Sf                                        ——
+                                                                    6                                                     v.
+§ 10(e), 60 Stat. 243:
+                                                                   16                             BLUE Fox, INc.
+    SK               —————                                         16
+                                                                   17               ON PETITION FOR A WRIT OF CERTIORARI
+Federal Tort Claims Act:                                      23,24                TO THE UNITED STATES COURT OF APPEALS
+
+111 certttenrennennteteectieeemevapenien                     4, 5, 24                           FOR THE NINTH CIRCUIT
+                                                                4, 24
+BD Iͤĩ                  .....                                       5          PETITION FOR A WRIT OF CERTIORARI
+                                                                    5
+Dire...———                                                         24      The Solicitor General, on behalf of the United
+                                                                    4   States Department of the Army, respectfully peti-
+Heard Act, ch. 280, § 1, 28 Stat. 278...                           18   tions for a writ of certiorari to review the judgment of
+                                                                    6
+Miller Act (Act of Aug. 24, 1935), ch. 642, 49 Stat.               22   the United States Court of Appeals for the Ninth Cir-
+                                                                        cuit in this case.
+, 40 U.S.C. n of 809. ........000.cccesccecereessseseees
+                                                                                               OPINIONS BELOW
+GS A Fa rcectennettsinincencctistinascnnnescacvsnecessses                 The opinofithoe cnourt of appeals (App., infra, la-
+                                                                        18a)is reportedat 121 F.3d 1357. The opinion of the
+OR                        eee                                           district court (App., infra, 2la-3la) is unreported, but
+                                                                        can be fouant d1996 WL 293363.
+12                        öö⸗•⸗ꝛäeö  p ——
+                                                                                                  JURISDICTION
+12211                                —                    —               The judgment of the court of appeals was entered on
+                                                                        August 25, 1997. A petition for rehearing was denied
+Small Business Act, § &a), 15 U.S.C. 687a)                              on November 7, 1997. App., infra, 19a-20a. By orders
+                                                                        dated January 27, 1998, and February 26, 1998, Justice
+Ze                                                                      O’Cexo tendn ed n the o timerwithin whitocfihle a
+
+I.                        A                                                                             (1)
+
+1K              AA
+
+Miscellaneous:
+
+Administrative Procedure Act Amendments of 1976:
+
+Hearings Before the Subcomm. on Administrative
+
+Practice and Procedure of the Senate Comm.
+
+on the Judiciary, 94th Cong., 2d Sess. (1976) ........... 27
+
+D. Dobbs, Handbook on the Law of Remedies (1973) .. 13
+
+H.R. Rep. No. 97, 58d Cong., Ist Sess. (1893) ............ 23
+
+H.R. Rep. No. 1656, 94th Cong., 2d Sess. (1976) ........     3,
+
+                                                          21, 26, 27
+
+S. Rep. No. 996, 94th Cong., 2d Sess. (1976)                 3, 19, 26
+
+Sovereign Immunity: Hearing Before the Subcomm.
+
+on Administrative Practice and Procedure of the
+
+Senate Comm. on the Judiciary, 91st Cong., 2d Sess.
+
+9.5                                                          3, 21
+
+P. Strauss et al., Gellhorn and Byses Administrative
+
+Law: Cases and Comments (9th ed. 1995) .............. 14
+                                 2                                                             3
+
+petition for a writ of certiorari to and including April     waive the United States’ sovereign immunity. Conse-
+6, 1998. The jurisdiction of this Court is invoked           quently, for decades the federal courts continued to
+under 28 U.S.C. 1254(1).                                     develop and apply a highly complex—and sometimes
+                                                             unsatisfactory—body of law concerning the applica-
+           STATUTORY PROVISION INVOLVED                      tion of sovereign immunity to suits challenging
+                                                             agency action. See H.R. Rep. No. 1656, 94th Cong., 2d
+      The Administrative Procedure Act, 5 U.S.C. 702,        Sess. 4-8 (1976) (1976 House Report); S. Rep. No. 996,
+provides in pertinent part as follows:                       94th Cong., 2d Sess. 4-7 (1976) (1976 Senate Report).
+                                                             As then Assistant Attorney General Antonin Scalia
+         A person suffering legal wrong because of           explained to Congress, by the 1970s, In jo one c[{ould]
+     agency action, or adversely affected or aggrieved       read the significant Supreme Court cases on sover-
+     by agency action within the meaning of a relevant       eign immunity * * * without concluding that the
+     statute, is entitled to judicial review thereof. An     field is a mass of confusion.” 1976 House Report at 6;
+     action in a court of the United States seeking          1976 Senate Report at 5.
+     relief other than money damages and stating a
+     claim that an agency or an officer or employee             In 1970, the Administrative Conference of the
+     thereof acted or failed to act in an official capacity  United States and the Administrative Law Section of
+     or under color of legal authority shall not be dis-     the American Bar Association proposed that Con-
+     missed nor relief therein be denied on the ground       gress simplify judicial challenges to agency action by
+     that it is against the United States or that the        amending 5 U.S.C. 702 to waive the United States’
+     United States is an indispensable party. * * *          immunity to suits other than those seeking “money
+     Nothing herein (1) affects other limitations on         damages.” See Sovereign Immunity: Hearing Be-
+     judicial review or the power or duty of the court       fore the Subcomm. on Administrative Practice and
+     to dismiss any action or deny relief on any other       Procedure of the Senate Comm. on the Judiciary,
+     appropriate legal or equitable ground; or (2) con-      91st Cong., 2d Sess. 3 (1970) (introductory comments
+     fers authority to grant relief if any other statute     of Sen. Kennedy). Six years later, the proposal was
+     that grants consent to suit expressly or impliedly      enacted into law. Act of Oct. 21, 1976, Pub. L. No. 94-
+     forbids the relief which is sought.                     574, § 1, 90 Stat. 2721. Thus, 5 U.S.C. 702 in its cur-
+                                                             rent form continues to declare that persons suffering
+                             STATEMI NT                      legal wrong or aggrieved by agency action within the
+
+   1. As enacted in 1946, Section 10(a) of the Admin-        meaning of a relevant statute are entitled to judicial
+istrative Procedure Act (APA) entitled any “person           review thereof. Now, however, it also provides that
+suffering legal wrong because of agency action, or           suits challenging agency action and “seeking relief
+adversely affected or aggrieved by agency action             other than money damages” shall not be dismissed on
+within the meaning of a relevant statute,” to judicial       the ground that the suit is against the United States
+review of that action. Act of June 11, 1946, ch 324, 60      or that the United States is an indispensable party.
+Stat. 243 (codified at 5 U.S.C. 702 (1970)). As origi-       See 5 U.S.C. 702.
+nally enacted, however, the APA did not expressly
+                                    4                                                                5
+
+   2. In 1993, petitioner—the United States Depart-                 tor must post a “performance bond * * * for the
+ment of the Army (Army)—contracted with Verdan                      protection of the United States” against defaults by
+Technology, Ine. (Verdan), to install a telephone                   the contractor. 40 U.S.C. 270a(a)(1). Second, it must
+switching system at an Army depot in Umatilla, Ore-                 post a payment bond * * for the protection of all
+gon. The final, modified contract price of $432,392.13              persons supplying labor and material,” 40 U.S.C.
+included the cost of constructing a facility to house               270a(a)(2); the payment bond in effect guarantees
+the switching system and installation and testing of                payment by the prime contractor to subcontractors
+the telephone equipment.“ Verdan, in turn, hired re-                and suppliers on the federal project.’
+spondent Blue Fox, Inc., as a subcontractor on the
+project. In return for respondent’s agreement to                       b. Although the Army’s original solicitation re-
+construct a concrete block building to house the                    quired the contractor to furnish payment and per-
+telephone system and to install certain safety and
+support systems, Verdan agreed to pay respondent                    formance bonds if the contract price exceeded $25,000,
+$186,347.80. App., infra, 3a-4a, 21a-22a.                           the Army later treated the contract as a services
+                                                                    contract for which no bond was required. App., infra,
+   a. Under the Miller Act, 40 U.S.C. 270a et se., a                22a. As a result, the Army’s amended solicitation
+contractor like Verdan that performs “construction,                 deleted any mention of a bond requirement, and Ver-
+alteration, or repair of any public building or public              dan did not post the Miller Act bonds. Id. at 3a, 22a.
+work of the United States” generally must post two                  Respondent asserts that it was unaware that the
+types of bonds. 40 U.S.C. 270a(a). First, the contrac-              bonds had not been posted until after it completed per-
+                                                                    formance under its subcontract. /bid.
+   See App., infra, 2a-3a, 2la-22a. The contract between the
+Army and Verdan was a product of Small Business Administra-            Verdan paid respondent $139,761.66 of the
+tion (SBA) efforts through Section 8(a) of the Small Business       $186,347.80 owed on its subcontract, leaving $46,586.14
+Act, 15 U.S.C. 637(a). Under that provision, SBA has estab-         unpaid. App., infra, 4a, 22a-23a. Respondent notified
+lished a business development program for firms determined to       the Army that it had not been fully paid. Jd. at 4a, 23a.
+be socially and economically disadvantaged. Through the Sec-        After receiving those notices, the Army made two
+tion 8(a) program, SBA contracts with government agencies to        additional disbursements to Verdan, totaling
+provide certain services or supplies, and then in turn subcon-      $86,132.33. Id. at 4a-5a. The Army later terminated
+tracts those contracts to eligible firms. App., infra, 2a. In this  its contract with Verdan for various defaults, includ-
+case, the Army awarded the telephone switching contract to          ing failure to adhere to the contractual delivery
+SBA, and SBA in turn subcontracted with Verdan. Id. at 2a-          schedule. Id. at 23a. At the time the Army termi-
+3a, 2la-22a. SBA, the Army, and Verdan signed a tripartite
+agreement under which SBA subcontracted with Verdan for                2 As originally enacted, the Miller Act required that bonds
+performance on the contract, and then delegated responsibility      be obtained on contracts exceeding $2,000. Act of Aug. 24,
+for administering the contract to the Army. Id. at 3a. Thus,
+the Army was responsible for paying the contract amount—            1935, ch. 642, 49 Stat. 793. In 1978, that figure was increased to
+$432,392.13—to Verdan, and SBA did not receive any funds in         $25,000. Act of Nov. 2, 1978, Pub. L. No. 95-585, 92 Stat. 2484.
+connection with the contract. /bid.
+                                                                    In 1994, after the events underlying this suit took place, the
+                                                                    amount was increased to $100,000. Act of Oct. 13, 1994, Pub. L.
+                                                                    No. 103-355, Tit. IV, § 4104(b)(1), 108 Stat. 3342.
+                                 6                                                                   7
+
+nated the contract with Verdan, approximately                      directing payment of those funds to it, plus attorney’s
+$84,910.52 remained undisbursed on the contract.                   fees and interest. Id. at 39a-40a. Respondent also
+Ibid. That $84,910.52 had been designated for certain              sought an injunction to prevent the Army from
+installation and testing tasks that were among those               paying any more money on the contract or the follow-
+that Verdan had failed to complete. Id. at 23a.                    on contract with Dynamic until respondent’s unpaid
+                                                                   bill was satisfied. Jd. at 40a.“ Respondent did not
+   The Army then modified an existing contract it had              move for preliminary relief, however, and the Army
+with Dynamic Concepts, Inc. (Dynamic), so that Dy-                 eventually paid Dynamics all of the funds remaining
+namic would complete the Umatilla project. App.,                   from the Verdan contract, plus additional funds, once
+infra, 5a, 23a. Pursuant to that modification, the                 Dynamics completed its work. Id. at 5a n.3, 1la-12a.
+Army paid Dynamic $126,772.78. The Army used the
+undisbursed balance of $84,910.52 from the Verdan                     4. On May 24, 1996, the district court granted
+contract, plus approximately $42,000 from subsequent               summary judgment in the Army’s favor. App., infra,
+fiscal year funds, to pay for completion of the project.           3la. The APA, the court observed, waives the govern-
+Ibid.                                                              ment’s immunity only with respect to relief other
+                                                                   than money damages. “(T]he question is whether [re-
+   3. Respondent filed suit against Verdan for breach              spondent] seeks money damages for a loss suffered, or
+of contract and, in January of 1995, obtained default              whether [respondent] seeks funds to which it is
+judgments against Verdan and its officers. See App.,               entitled by statute.” Jd. at 28a. Respondent premised
+infra, 23a-24a. Respondent, however, alleges that it               its suit on the allegation that the Army had erred or
+will not be able to collect on its judgment against                acted unlawfully in failing to require Verdan to post a
+Verdan. Id. at 35a-36a. Accordingly, in May of 1995,               Miller Act bond. Jbid. But even if the Miller Act
+respondent filed suit against the Army, seeking to                 required that a bond be posted, the district court
+recover from it the $46,586.14 that Verdan owed on                 reasoned, the “Army had no contractual obligation or
+the subcontract.’ Predicating jurisdiction on 28                   statutory obligation to pay [respondent]. The Miller
+U.S.C. 1331 and the APA, 5 U.S.C. 702-704, 706, App.,              Act neither places a duty on the government to insure
+infra, 34a, respondent sought an “equitable lien” on               that a bond is furnished, nor places the government
+any funds from the Verdan contract not paid to                     and the subcontractor in privity of contract.” Id. at
+Verdan, or on any funds available or appropriated for              29a. As a result, the relief respondent was seeking
+completion of the Umatilla project, and an order                   did not constitute enforcement of a statutory obliga-
+                                                                   tion. Instead, the court concluded, it constituted an
+   Although respondent also named SBA as a defendant, the          award of the “money damages [respondent] suffered
+district court granted summary judgment in SBA’s favor be-
+cause there was never an identifiable res under SBA’s control         In the alternative, respondent sought an injunction order-
+to which an equitable lien could attach. App., infra, 3la. That
+ruling was affirmed on appeal. Id. at 12a-14a; see also id. at 5a  ing the Army to pay $46,586.14 to SBA, App., infra, 39a, pre-
+n.3. Because there are no adverse legal rulings pending against
+SBA, the United States Department of the Army is the sole          sumably on the theory that SBA would in turn pay the money
+                                                                   to respondent. See note 1, supra.
+petitioner.
+                                 8                                                           9
+
+when Verdan failed to pay [respondent] in full,” and       immunity existed, became enforceable upon immunity
+“(t]he waiver of sovereign immunity provided by the        being waived.”). Second, the court examined whether
+APA does not apply to the claim of [respondent]            a claim for an equitable lien constituted “equitable
+against the Army.” Id. at 30a.                             relief.” Id. at 9a-l1la. Based on its understanding of
+                                                           the nature of equitable liens, the court of appeals
+   5. a. Respondent appealed and a divided panel of the    concluded that “equitable liens are properly charac-
+Ninth Circuit reversed in relevant part. App., infra,      terized as equitable remedies.” Id. at 10a.
+la-18a. The majority acknowledged that the APA
+could provide the necessary waiver of sovereign im-           Because it concluded that Section 702 waives the
+munity only if respondent sought relief other than         United States’ immunity for all equitable actions, and
+money damages. Id. at 6a. Nonetheless, relying on          that a claim to an equitable lien is an equitable action,
+the distinction between money damages and specific         the court of appeals held that a suit for an equitable
+relief set forth in Bowen v. Massachusetts, 487 U.S.       lien falls within the scope of the waiver of immunity
+879 (1988), the majority concluded that the monetary       in Section 702. As the court of appeals described its
+relief respondent sought constituted specific relief       holding: “Since the APA waives immunity for equi-
+and not money damages. According to the Ninth              table actions, the district court had jurisdiction under
+Circuit:                                                   the APA” to consider a claim for an equitable lien.
+                                                           App., infra, 8a; see id. at 10a (“[SJuch equitable liens
+     Here, [respondent] seeks an equitable lien only       are properly characterized as equitable remedies,
+     for the very thing to which it is entitled under      rather than money damages.”); id. at la (“(W]e hold
+     the contract. [Respondent] does not seek any          that the Administrative Procedure Act permits [an]
+     consequential damages to compensate losses suf-       equitable lien claim against the Army because an
+     fered beyond the contract price. Therefore, the       action for specific performance for the payment of
+     district court had jurisdiction to consider its       money is not an action for money damages.”).
+     claim under the APA.
+                                                              The court of appeals also rejected the district
+App., infra, Ta.                                           court’s conclusion that a monetary remedy could be
+   Expanding on that analysis, the court of appeals        available as “specific relief” only where the plaintiff
+                                                           seeks to enforce a statutory right to payment. App.,
+analyzed the issue before it in two steps. First, turn-    infra, 7a-Sa. Citing Aetna Casualty & Surety Co. v.
+ing to the scope of the waiver of immunity in Section
+702, the court read Bowen as holding that Section 702      United States, 71 F.3d 475 (2d Cir. 1995), the court
+waives the United States’ immunity against actions         held that “there is no requirement in Bowen or the
+for “specific relief,” which the court read as synony-     APA that the specific relief requested be statutorily
+mous with “equitable relief.” See App., infra, 8a          granted. That is, a party need not rely upon a statute
+(The APA waives immunity for equitable ac-                 in order to obtain federal court jurisdiction [over a
+tions.”); see also id. at 10a (“Any equitable rights held  claim for monetary relief] under the APA.” App.,
+by subcontractors as against [the government entity]       infra, 8a.
+which may have been unenforceable where sovereign
+                                   10                                                         11
+
+   b. Judge Rymer dissented. App., infra, 14a-18a.        “has none.” Ibid. Although the Army should not have
+“Never before,” she observed, “has a court held that a    approved the Verdan contract without Verdan’s
+subcontractor may sue an agency of the United             posting of an adequate surety bond—and the absence
+States, which has not agreed to be sued, for contract     of the bond is what “caused [respondent’s] loss”—
+monies that the prime contractor should have paid to      requiring the Army to pay money to respondent was
+the subcontractor but didn’t.” Jd. at 14a. For decades,   simply one way of giving respondent the “money
+she pointed out, courts had uniformly rejected sub-       damages” remedy that the APA proscribes. Id. at
+contractor claims against the government. Tbid.           l6a-17a.
+No matter how you slice [respondent’s} claim,” she
+explained, “it seeks funds from the treasury to com-            REASONS FOR GRANTING THE PETITION
+pensate for the Army’s failure to require Verdan to
+post a bond,” and “the law is well settled that this may     The court of appeals’ conclusion that the APA
+not be done unless the contracting agency has agreed      waives the government’s sovereign immunity for a
+to be sued.” Id. at 14a-15a.                              subcontractor’s claim for monies that a federal
+                                                          contractor should have paid, but did not pay, is
+   Congress, Judge Rymer further explained, had           unprecedented. The Ninth Circuit’s decision miscon-
+chosen to protect subcontractors through the Miller       strues the language of 5 U.S.C. 702 and misreads this
+Act by requiring prime contractors to post payment        Court’s decision in Bowen v. Massachusetts, 487 U.S.
+bonds. App., infra, 15a. But where such bonds were        879 (1988), in a manner that conflicts with the deci-
+not posted, she noted, “neither the Federal Tort          sions of the District of Columbia Circuit in Hubbard
+Claims Act, the Miller Act, nor the Tucker Act,           v. Administrator, EPA, 982 F.2d 531 (1992) (en banc),
+waives sovereign immunity to permit a subcontractor       and the Third Circuit in Dia Navigational Co. v.
+to sue the United States directly in its own right for    Pomeroy, 34 F.3d 1255 (1994). The decision below also
+monies the subcontractor should have received, but        has substantial adverse consequences for the United
+did not receive, from the prime contractor.” /bid.        States. Broadly construed, it erroneously allows the
+                                                          APA to be used to justify monetary recovery against
+   Turning to the majority’s conclusion that the APA      the government for tort-type or contract-type in-
+waived immunity for equitable actions, Judge Rymer        juries whenever the requested remedy can be labeled
+explained that, “in the absence of an agency waiver,      “equitable.” And it essentially nullifies longstanding
+subcontractors cannot achieve ‘by indirection a result    precedents that have refused to allow unpaid sub-
+that they could not reach directly under the Miller       contractors to recover from the government sums
+Act.’” App., infra, 16a (citation omitted). “Unlike the   owed by their contractors.
+
+majority,” she observed, “I don’t think it matters that      A. “It is axiomatic that the United States may not
+the right asserted is equitable.” Id. at 17a. What        be sued without its consent.and that the existence of
+                                                          consent is a prerequisite for jurisdiction.” United
+matters, she continued, is that the waiver contained      States v. Mitchell, 463 U.S. 206, 212 (1983). Moreover,
+in Section 70o2f the APA can be applied only if “the      when the government does consent to be sued, “the
+government has a duty which can be specifically
+enforced.” Id. at 16a. In this case, the government
+                                 12                               Id. at 895 (quoting Maryland Dep't of Human Re-
+                                                                  sources v. Department of Health & Human Servs.,
+terms of [the] waiver of sovereign immunity define                763 F.2d 1441, 1446 (D.C. Cir. 1985) (Bork, J.) (quoting
+the extent of the court’s jurisdiction,” United States            in turn D. Dobbs, Handbook on the Law of Remedies
+v. Mottaz, 476 U.S. 834, 841 (1986), and such a waiver            135 (1973))).
+must be strictly construed, United States v. Sher-
+wood, 312 1.5 584, 590 (1941).                                       Applying that analysis, the Court in Bowen held
+                                                                  that Massachusetts’ suit was not for “money dam-
+   The APA, i: 5 U.S.C, 702, provides a limited waiver
+of sovereign immunity. It entitles parties to “judi-              money
+cial revioe f “wage”ncy action” if the action causes              the failure of the Federal Government to pay as man-
+them “legal wrong,” or “adversely affect[s]” or “ag-              dated; rather, it is a suit seeking to enforce the
+grievelsf' them “within the meaning of a relevant                 statutory mandate itself, which happens to be one for
+statute.” And it waives the government’s immunity to              the payment of money.” 487 U.S. at 900.
+such a suit if the suit seeks relief “other than money
+damages.” 5 U.S.C. 702.°
+
+   1. In Bowen v. Massachusetts, 487 U.S. 879 (1988),
+this Court considered the meaning of the phrase
+“money damages” in Section 702. There, the Secre-
+tary of Healtahnd Human Services had issued a final
+order refusing to reimburse the State of Massachu-
+setts for certain expenusndeersits Medicaid Pro-
+gram, and the State brought suit seekiton“gset
+aside” that order. Rejecting the United States’ con-
+tention that the State’s suit was for “money dam-
+ages,” the Court explained that suits for “money
+damages” stand in contradistinction to suits which
+are in the natuorfe“an equitable action for specific
+relief.” 487 U.S. at 893; see also id. at 897 (legislative
+history shows that phrase “money damages” was used
+
+   ® Section 702 also provides additional exceptions to the
+waiver. For example, it provides that “[njothing herein
+confers authority to grant relief if any other statute that
+grants consent to suit expressly or impliedly forbids the relief
+
+which is sought.” See note 16, infra. Further, 5 U.S.C. 704
+
+provides for review under the APA only when no other statute
+provides a plaintiff with an adequate remedy. See e..
+Mitchell v. United States, 980 F.2d 898, 896-897 (Fed. Cir.
+
+1991).
+                                    14                                             15
+
+   2. The D.C. Circuit has construed Bowen to re-           statute entitling the plaintiff to compensation from
+quire plaintiffs seeking monetary relief under the
+APA to show not merely that the relief they seek can        the goverfornthme teimendt uring which he was not
+be deemed “equitable,” but that Congress expressed a
+clear intent to award them the funds to which they          a government employee—even if the act of denying
+claim an entitlement. See Hubbard v. Administra-
+tor, EPA, 982 F.2d 531 (D.C. Cir. 1992) (en banc); see      him a job was wrongful—the D.C. Circuit declared
+also P. Strauss et al., Gellhorn and Byse’s Adminis-
+trative Law: Cases and Comments 1112 (9th ed. 1995)         that “Bowen’s holding         does nothingfor
+(Bowen “has itself been narrowly interpreted by the
+courts of appeals, particularly the D.C. Circuit,”          [plaintiff's] cause. [Plaintiff's] basic claim is not for
+citing Hubbard). Thus, in Hubbard the D.C. Circuit
+held that “back pay” is not availian banlAePA suit          enforceofmaenynltegal manthd at a thetEPe A pay
+challenging an agency decision to deny the plaintiff
+employment. Rejecting analysis indistinguishable            him a sum of money; rather, it is to force the EPA to
+from that employed by the Ninth Circuit below, the
+D.C. Circuit declared that what may qualify as an           offer him the job it denied him.” Idat.536.
+‘equitable remedy’ * * * is not synonymous with
+specific relief.” 982 F.2d at 537; see ibid. (The fact      The Third Circuit in Dia Navigational Co. v.
+that cases in many contexts attach the ‘equitable’
+label to back pay in no way contradicts the basic con-      Pomeroy, 34 F.3d 1255 (1994), adopted a similar
+clusion that back pay is still essentially a compen-
+satory device.”); see also id. at 539 (Randolph, J.,        interpretation of Bowen. Rejecting the plaintiff's
+joined by R.B. Ginsburg, J., concurring) (“[{TyJhe line
+section 702 draws is not between actions at law and         claim that it was entitled to monetary relief despite
+suits in equity.”).
+                                                            the absence of a statutory entitlement, the court of
+   Instead, the D.C. Circuit held, monetary relief can
+be considered “specific relief” only if it gives the        appeals explained that “[tJhe crucial distinction”
+plaintiff the very thing to which he would otherwise
+be entitled from the government. 982 F.2d at 537            betweaesnuit for specific relai nd eonf e for money
+(relief is “specific” if it gives the plaintiff “the thing
+to which he was entitled”); id. at 538 (Whether we or       damages is that the former seekls] funtodwhisch a
+someone else call a remedy restitutionary, equitable
+                                                            statute allegedly entitles” the plaintiff, while the
+or anything else, it fits within § 702’s waiver only if it
+                                                            latter demands money for the  losses. . suffered
+gives the plainthteispfecfific thitn o wghich he was
+originally entitled.”). Noting the absence of any           by virtue of’ the agency’s failure to do that which it
+
+                                                            was required to do.” Id. at at 1267 (quoting Bowen,
+
+                                                            487 U.S. at 901). Thus, in Dia itself, the Third Cir-
+
+                                                            cuit upheld the plaintiff’s right to seek an injunction
+
+                                                            against an allegedly unlawful INS policy, but held
+
+                                                            that any claim for recovery of costs incurred as a
+
+                                                            result of that policy was barred by sovereign im-
+
+                                                            munity. Explaining why the entire suit could not be
+
+                                                            characterized as one for specific relief, the court of
+
+                                                            appeals observed:
+
+                                                            [Tjhere is no statutory entitlement to these
+                                                            funds. Instead, Congress has explicitly given the
+                                                            INS the authority to promulgate regulations as it
+                                                            deems necessary * * As we view this case,
+                                                            the wrong that [plaintiff] has suffered is not the
+                                                            denial of money to which [the statute] entitles it,
+                                 16                                                                  17
+
+     but rather the INS's failure to follow the appro-              contrary. See Dia, 34 F.3d at 1267 (claim is for
+     priate procedures in implementing [the statute].                           relief rather than money damages if it
+      An award of money in these circumstances could
+     only be characterized as a substitute for what                 “seek[s] funds to which a statute allegedly entitles”
+      ought to have been done, and therefore would                  the plaintiff); Hubbard, 982 F.2d at 536 (rejecting
+      constitute money damages. As such, [plaintiff's]              plaintiff's claim for back pay because his “basic claim
+      claim is barred by the doctrine of sovereign                  is not for enforcement of any legal mandate that the
+      immunity.                                                     EPA pay him a sum of money“).
+
+34 F.3d at 1267.                                                    Cireuit affirmed the dismissal, holding that the claim was
+   The Ninth Circuit here, in conflict with Dia and                 barred by the FTCA’s exception for claims arising in respect of
+                                                                    the assessment or collection of taxes, 28 U.S.C. 2680(c). It
+Hubbard, erroneously interpreted Section 702 and                    reversed the district court’s denial of the motion to amend,
+Bowen as declaring that the United States lacks                     however, reasoning that since the surety sought an injunction
+sovereign immunity from any suit seeking “equita-                   to force the government to perform an asserted legal obliga-
+ble” rather than “legal” relief. See App., infra, 8a-9a,            tion, the claim was not precluded by the APA’s bar to claims
+10a; pages 8-9, supra. The Ninth Circuit further                    for money damages. 71 F.3atd479. It also refused to limit the
+held that monetary relief can be considered specific                holding of Bowen to cases where the duty to pay arises from a
+relief—and thus not money damages—even if not                       statute. Ibid. The case returned to district court, and we have
+based on a statute that mandates the money payment.                 been informed that proce thee re dhavie n beeg n ss tayed pend-
+App., infra, 8a (“there is no requirement in Bowe). or              ing the outcome of related bankruptcy proceedings.
+the APA” that the right to the money “be statutorily
+granted“). Dia and Hubbard are both to the                             The Ninth Cireuit's decision beal lsooconw flicts with the
+                                                                    D.C. Cireuit's decision in Cityof Houston v. HUD, 24 F.3d
+   The Ninth Circuit’s reasoning is, by contrast, indistin-         1421, 1428 (1994). The Ninth Circuit held that the government
+guishable from that adopted by the dissenting opinion in            is liable to responevdenetnhotugh the funds for which
+Hubbard. See 982 F.2d at 548 (Edwards, J., dissenting) (“Our        respondent sought an equitable lien already had been spent.
+conclusion that a back pay award to Hubbard would constitute        See App., infra, lla-12a (“The fact that the Army has since
+equitable relief largely disposes of any question regarding         paid out the monies to which the lien attached does not thwart
+sovereign immunity.”).                                              {responeqduiteabnle tli'ensc} laim. * * * The Army cannot
+
+   The court of appeals below relied upon Aetna Casualty &
+Surety Co. v. United States, 71 F.3d 475 (2d Cir. 1995), as
+support for this holding. App., infra, 8a. In Aetna, a surety
+sought damages under the Federal Tort Claims Act (FTCA),
+28 U.S.C. 1346(b), 2671 et seq., for the government's failure to
+offset, for the surety’s benefit, a special tax refund the govern-
+ment owed to the surety’s principal. The district court con-
+cluded it lacked jurisdiction and refused to allow the surety to
+ame itsn comd plaint to asseanrtAPA claim. The Second
+                                   18                                             19
+
+   3. The D.C. Circuit’s and Third Circuit’s reading               must—as in all other contexts—locate an Act of
+of Bowen and 5 U.S.C. 702 is consistent with Section
+702’s terms and this Court’s precedents.                           Congress entitling the plaintiff to that relief. That
+
+   a. In Office of Personnel Management v. Rich-                   principle is consistent with Bowen, which held that
+mond, 496 U.S. 414, 432 (1990), this Court reiterated
+that “funds may be paid out [of the Treasury] only on              relief was available under the APA only because the
+the basisofa judgment based on a substantive right to
+compensation based on the express terms of a specific              relief “enforce[d] [a] statutory mandate  which
+statute.” That principle (which is so often articu-
+lated in the context of the Tucker Act, 28 U.S.C. 1491,            happen[ed] to be one for the payment of money.” 487
+see United States v. Testan, 424 U.S. 392, 401-402
+(1976)) has frequently been applied to bar suits for a             U.S. at 900; see also 1976 Senate Report at 19 (“The
+money judgment in the absence of a specific statutory
+provision providing for payment. See FDIC v. Meyer,                committee does not believe that enactment of [the
+510 U.S. 471, 484 (1994) (agency’s sue-and-be-sued
+clause does not, in and of itself, allow a claim for               proposed waiver of immunity in Section 702], which is
+money without an entitlement from a source of
+substantive law); see also City of Houston v. HUD, 24              procedural in nature and clarifies the jurisdiction of
+F.3d 1421, 1428 (D.C. Cir. 1994) (Appropriations
+Clause and Section 702’s ban on actions for “money                 Federal courts while marginally expanding it, will
+damages” collectively bar suits for monies obligated
+to other grantees or for which the appropriation has               require additional appropriation of funds to either the
+expired).
+                                                                   judiciary or the agencies.”).
+   The interpretation of Section 702 and Bowen
+adopted by the D.C. and Third Circuits properly                    The Ninth Circuit’s decision thus cannot be recon-
+respects this longstanding rule. Simply put, before
+the courts may order the payment of funds from the                 ciled with the fundamental principle that the courts
+Treasury as specific relief under the APA, they
+                                                                   may order the payment of funds from the Treasury
+tute money damages rather than specific relief, and so would
+not be authorized by APA Section 702.” 24 F.3d at 1428.            only on the basis of an Act of Congress entitling the
+
+   The Court explained that the purpose of the Appropria-          plaintiff to those funds. Without appropriate atten-
+
+tions Clause, Art. I, § 9, Cl. 7, is to “assure that public funds  tion to the scope of the waiver provided by Section
+
+will be spent according to the letter of the difficult judgments   702, the Ninth Circuit below required the payment of
+reached by Congress as to the common good and not according
+to the individual favor of Government agents or the individual     funds from the Treasury to respondent based on its
+pleas of litigants.” Richmond, 495 U.S. at 428.
+                                                                   own view of appropriate principles of equity, regard-
+
+                                                                   less of whether Congress has, by law, provided for
+
+                                                                   such a payment. Nothing in 5 U.S.C. 702 or Bowen
+
+                                                                   authorizes such a dramatic expansion of access to the
+
+                                                                   federal fisc.
+
+                                                                   b. The Ninth Circuit’s decision also misapplies the
+
+                                                                   distinction between “money damages” and “specific
+
+                                                                   relief” set forth in Bowen. Under Bowen, the money
+
+                                                                   damages awards that the APA prohibits are those
+
+                                                                   awards “given to the plaintiff to substitute for a suf-
+
+                                                                   fered loss”; in contrast, the “specific remedies” per-
+
+                                                                   mitted by the APA “are not substitute remedies at
+
+                                                                   all, but attempt to give the plaintiff the very thing to
+
+                                                                   which he was entitled.” 487 U.S. at 895.
+                                 20                                                           21
+
+   Here, an equitable lien against government funds        thing to which it is entitled under the contract,” i.e.,
+constitutes a “substitute for a suffered loss” rather      payment on its contract. App., infra, 7a. But the con-
+than “specific relief” in the form of the “very thing to   tract to which the Ninth Circuit refers was between
+which [respondent] was entitled.” Although the             respondent and Verdan, and thus entitled respondent
+Ninth Circuit majority did not identify the “agency        to payment from Verdan, not from the government.
+action” that allegedly caused respondent to suffer         See Merritt v. United States, 267 U.S. 338 (1925) (no
+“legal wrong” or “adversely affected” respondent           claim against the United States under contract
+within the meaning of a relevant statute, 5 U.S.C.         absent privity between United States and plaintiff).“
+702—and therefore did not even identify what agency        By requiring the government to pay when respondent
+action was being subjected to judicial review—the one      was entitled to payment only from Verdan, the Ninth
+government action it did identify was the Army’s           Circuit provided precisely the sort of “substitute”
+failure to require the posting of a payment bond that      remedy barred as money damages under the APA.“
+would have protected respondent from Verdan’s
+default. But if requiring the posting of a bond is the        % Even if respondent did have a contractual relationship
+duty the Army allegedly breached, the lien respon-         with petitioner, respondent still would not be able to obtain the
+dent seeks cannot be “specific relief“ and must be         relief it seeks under the APA. It is well established that claims
+money damages—because it does not give respondent          for equitable relief based upon a contract are not cognizable
+“the very thing to which [it] was entitled,” i.e., a bond  under the APA because such relief is “impliedly forbid{den]”
+from a qualified surety. Instead, the relief respondent    by the Tucker Act, and therefore barred by the final sentence
+seeks would provide a “substitute” remedy for that         of 5 U.S.C. 702. 1976 House Report at 13; see, e. g., North Star
+bond—that is, money damages—in the form of pay-            Alaska Hous. Corp. v. United States, 9 F.3d 1430, 1432 (1993)
+ment from the government. As the dissent below             (en banc) (APA does not afford district courts jurisdiction over
+                                                           equitable claims against the government based on contract
+observed, “no matter how you slice [respondent]’s          rights, as opposed to statutory rights), on remand, 14 F.3d 36
+claim, it seeks funds from the treasury to compensate      (9th Cir.), cert. denied, 512 U.S. 1220 (1994); Zelman v. Gregg,
+for the Army’s failure to require Verdan to post a         16 F.3d 445, 448 (Ist Cir. 1994) (“equitable relief cannot be
+                                                           obtained on contract claims against the government”); Eagle-
+bond.” App., infra, 14a (Rymer, J., dissenting). Re-       Picher Indus., Inc. v. United States, 901 F.2d 1530, 1532 (10th
+spondent can identify no statute that entitles it to       Cir. 1990) (APA’s waiver of sovereign immunity “does not
+payment from the government in such circumstances.         extend to actions founded upon a contract with the United
+Because the government had no money-payment                States”); Wabash Valley Power Ass n v. Rural Electrification
+“duty which can be specifically enforced,” respon-         Admin., 903 F.2d 445, 452 (7th Cir. 1990) (effort to obtain
+dent’s suit for a monetary award was not a suit            specific performance of promise allegedly made by an agency
+seeking “specific relief.” Jd. at 16a (Rymer, J. dis-      not within district court’s jurisdiction); Sharp v. Weinberger,
+senting).                                                  798 F.2d 1521, 1523 (D.C. Cir. 1986) (Scalia, J.) (“The sole
+                                                           remedy for an alleged breach of contract by the federal gov-
+  The Ninth Circuit’s contrary conclusion does not         ernment is a claim for money damages.”).
+withstand scrutiny. According to the majority, “[re-
+spondent] seeks an equitable lien only for the very           n The cases upon which the Ninth Circuit relied do not
+                                                           support the proposition that respondent’s claim is within the
+   4. That respondent does not have an enforceable                                                 23
+right to payment against the government is particu-
+larly clear in the »resent context. As the district                  The history of the Miller Act makes that clear as
+court recognized, th’s case arises from the prime                 well. For more than a century, Congress and the
+contractor’s failure to post the payment bond re-                 courts had recognized that subcontractors have no
+quired by the Miller Act. The Miller Act, however,                enforceable rights against the government and cannot
+does not give subcontractors any rights against the               obtain workers’ or materialmen’s liens on federal
+government. To the contrary, the plain terms of the               property if they are not paid.” As this Court declared
+Miller Act impose “no affirmative obligations on the              in United States v. Munsey Trust Co., 332 U.S. 234,
+government,” Arvanis v. Noslo Eng’g Consultants,                  241 (1947), “nothing is more clear than that laborers
+Inc., 739 F.2d 1287, 1288 (7th Cir. 1984), cert. denied,          and materialmen do not have enforceable rights
+469 U.S. 1191 (1985); the only obligations it creates             against the United States for their compensation.”
+are imposed on the prime contractor.
+                                                                    To provide relief from the harsh effects of that rule
+scope of the APA’s waiver of immunity. For example, in nei-       without sacrificing the government’s immunity to
+                                                                  suit, Congress in 1894 enacted the Heard Act, ch. 280,
+ther Pearlman v. Reliance Insurance Co., 371 U.S. 132 (1962),     § 1, 28 Stat. 278." Under the Heard Act, any person
+                                                                  entering into a formal contract with the United
+nor Henningsen v. United States Fidelity & Guaranty Co., 208      States for the construction or repair of a public build-
+                                                                  ing or public works was required to execute the
+U.S. 404 (1908), was the United States a defendant, so the issue  “usual penal bond, with good and sufficient sureties,”
+
+of sovereign immunity did not arise. The United States had           2 See, e. g., Hill v. American Surety Co., 200 U.S. 197, 203
+agreed to part with the funds, and the Cou wasraskt ed to
+decide only which private litigant had a superior entitlement.    (1906) (“As against the United States, no lien can be provided
+The remaining cases cited by the court of appeals, Wright v.
+United States Postal Service, 29 F.3d 1426 (9th Cir. 1994);       upon its public buildings or grounds.”); Buchanan v. Alexan-
+Kennedy Electric Co. v. United States Postal Service, 508 F. 2d   der, 45 U.S. (4 How.) 20, 21 (1845) (money retained by the gov-
+954 (10th Cir. 1974); and Active Fire Sprinkler Corp. v. United   ernment for the benefit of its employees may not be reached by
+States Postal Service, 811 F.2d 747 (2d Cir. 1987), involved      employees’ creditors unless Congress specifically authorizes it);
+suits against the United States Postal Service pursuant to the    see also H.R. Rep. No. 97, 53d Cong., Ist Sess. (1893) (finding
+Postal Service’s sue-and-be-sued clause, 39 U.S.C. 401(1).        that “there is no law now in existence for the protection of
+Unlike the waiver in 5 U.S.C. 702, the waiver in Section 401(1)   mechanics and material-men in this class of cases, as it is
+is not limited by the nature of the relief sought; accordingly,   contrary to allow mechanics’ or material-men’s liens on public
+whether or not the relief sought in those cases constituted       buildings or public works”).
+“money damages” was irrelevant. In any event, both Active
+Fire Sprinkler and Wright are inconsistent with the decision         8 Hill, 200 U.S. at 203 (The Heard Act was passed to
+below, as they recognize the general rule that unpaid             mitigate the rule against creating liens on public property and
+subcontractors cannot sue the government directly for the         “substitute[s] the obligation of a bond for the security which
+sums that their contractors should have, but did not, pay them.   might otherwise be obtained by attaching a lien to the property
+See Active Fire Sprinkler, 811 F.2d at 754 & n.6; Wright, 29      of an individual.“). Accord United States v. Ansonia Brass &
+F.3d at 1430-1431.                                                Copper Co., 218 U.S. 452, 471 (1910); Equitable Surety Co. v.
+                                                                  McMillan, 234 U.S. 448, 455 (1914); J.W. Bateson Co. v. United
+                                                                  States, 434 U.S. 586, 589 (1978).
+                 24
+
+and to “promptly make payments to all persons sup-            In light of the plain terms and history of the Miller
+                                                           Act, courts of appeals have universally rejected at-
+plying him or them labor and materials in the prose-       tempts by unpaid subcontractors to seek recovery
+                                                           from the government, whether those claims were
+eution of the work provided for in such contract.”         asserted under the FTCA,” the Tucker Act,” or
+                                                           general equitable principles. Thus, in Automatic
+Ibid. An unpaid subcontractor was authorized to            Sprinkler Corp. of America v. Darla Environ-
+                                                           mental Specialists, 53 F.3d 181 (7th Cir. 1995), an
+“bring suit in the name of the Uni Statt es e ford his or  unpaid subcontractor brought an action against the
+                                                           United States to recover monies that the government
+their use and benefit against said contractor and          had retained on a contract with the dissolved con-
+                                                           tractor. Rejecting the claim on sovereign immunity
+sureties *       Provided, [t]hat such action and its      grounds, the Seventh Circuit held:
+
+prosecutions shall involve the United States in no              The principle of governmental immunity is sim-
+                                                                 ple: anyone who seeks money from the Treasury
+expense.” Ibid.                                                 needs a statute authorizing that relief.
+
+In 1935, Congress repealed the Heard Act and                  „ See Hardaway Co. v. United States Army Corps of
+                                                           Engers, 980 F.2d 1415 (11th Cir.), cert. denied, 510 U.S. 820
+replaced it with the Miller Act, ch. 642, 49 Stat. 793,    (1993) (no FTCA claim by subcontractor for government’s
+                                                           alleged negligent failure to investigate assets of surety);
+40 U.S.C. 270a et seg. The Miller Act, like the Heard
+                                                           Westbay Steel, Inc. v. United States, 970 F.2d 648 (9th Cir.
+Act, requires contractors on specified federal con-        1992) (no FTCA claim for negligent approval of bond sureties
+                                                           and no jurisdiction under FTCA to award an equitable lien);
+tracts to post a payment bond to protect subcontrac-       Arvanis, 739 F.2d at 1292 (rejecting FTCA claim based on
+                                                           government’s failure to require Miller Act bond as attempt “to
+tors. 40 U.S.C. 270a(a). And the Miller Act, also like     achieve by indirection a result that [subcontractors] could not
+                                                           reach directly under the Miller Act”); McMann v. Northern
+the Heard Act, affords unpaid subcontractors the           Pueblos Enters., Inc., 594 F.2d 784, 785-786 (10th Cir. 1979)
+                                                           (same); Devlin Lumber & Supply Corp. v. United States, 488
+right to sue on the payment bond “in the name of           F. 2d 88, 89 (4th Cir. 1973) (per curiam) (same); United States
+                                                           v. Smith, 324 F.2d 622, 624-625 (5th Cir. 1963) (same).
+the United States for the use of the person suing,” 40
+                                                              5 See United Elec. Corp. v. United States, 647 F.2d 1082,
+U.S.C. 270b(b), without creating any rights in the         1084 (Ct. Cl.) (subcontractors without contractual relationship
+                                                           with government cannot sue under Tucker Act, and Miller Act
+subcontractor vis-a-vis the government. Indeed, Sec-       is not money-mandating statute for Tucker Act purposes),
+                                                           cert. denied, 454 U.S. 863 (1981).
+tion 270b(b) expressly states that “[tJhe United
+
+States shall not be liable for the payment of any costs
+
+or expenses of any such suit.“ While Congress has
+
+amended the Miller Act periodically, and has author-
+
+ized specific agencies to waive Miller Act require-
+
+ments under certain circumstances, see e.g., Act of
+
+Apr. 29, 1941, ch. 81, 55 Stat. 147; Act of June 3, 1955,
+
+Pub. L. No. 60, 69 Stat. 83; Act of Nov. 2, 1966, Pub. L.
+
+No. 89-719, Tit. I, § 105, 80 Stat. 1139; Act of Nov. 2,
+
+1978, Pub. L. No. 95-585, 92 Stat. 2484; Act of Oct. 13,
+
+1994, Pub. L. No. 103-355, Tit. IV, §4104(b)(2), 108
+
+Stat. 3342, Congress has never altered the settled
+
+rule that subcontractors do not have enforceable
+
+rights against the United States for f ids that their
+
+contractors failed to pay them.
+     Automatic Sprhi as nn ot k poinl ted e to r such a   nature” and thus will       “require additional
+     statute; none exists.                                                       only conflwiitch tdesci-
+                                                          agencies.”).”
+Id. at 182. Summarizing the relevant law, the court
+explained that “‘when a prime contractor on a federal        B. The decision
+construction project fails to obtain a Miller Act
+payment bond and then defaults without paying his                                        new
+subcontractors .. . the hapless subcontractor, not        unavailable monetary relief against the government.
+the United States,’ is left holding the bag.” Jd. at 182  If plaintiffs need show only that the relief they seek—
+(quoting Arvanis, 739 F.2d at 1288); see also ibid.       be it quantum meruit, restitution, or whatever—is
+(“Subcontractors must look exclusively to the gen-        usually considered “equitable” in order to bring suit
+eral contractors (and the bonds) for payment. They
+cannot obtain liens on the federal projects and build-       % Sec702tdoi es o not n confer “authority to grant relief if
+ings, and they cannot collect directly from the           any other statute that grants consent to suit expressly or
+Treasury.”).                                              impliedly forbids the relief which is sought.” See, e. g., Block v.
+
+   The Ninth Circuit’s decision in this case—which        Antonin Scalia explained to Congress before it enacted the
+holds that subcontractors may, under the APA, seek        waiov f ie mmurnity now contained in Section 702: “Because
+compensation from the government for funds owed to        existing statutes have been enacted against the backdrop of
+the subcontractor by the prime contractor—cannot be       sovereign immunity, [Section 702’s exclusion of actions where
+reconciled with this otherwise clear and uniform body     another statute ‘impliedly forbid{s)’ them] will probably mean
+of law. App., infra, 14a (Rymer, J., dissenting)          that in most if not all cases where statutory remedies already
+(“Never before has a court held that a subcontractor      exist, these remedies will be exclusive; that is no distortion, but
+may sue an agency of the United States, which has         simply an accurate reflection of the legislatiinvteent in these
+not agreed to be sued, for contract monies that the       particular areas in which the Congress has focused on the issue
+prime contractor should have paid to the subcontrac-      of relief.” Administrative Procedure Act Amendments of 1976:
+tor but didn’t.”). Nor can it be reconciled with the      Hearings Before the Subcomm. on Administrative Practice and
+purpose of the APA, which was to leave in place           Procedure of the Senate Comm. on the Judiciary, 94th Cong.,
+limitations on monetary recovery against the United       2d Sess. 105 (1976). Here, Congress enacted the Miller Act
+States. See 1976 House Report at 11 (“limitations on      against the backdrop of sovereign immunity. And it created an
+the recovery of money damages contained in the            alternative remedy to suit against the government, consenting
+                                                          to suit by unpaid subcontractionrtshe name of the United
+Federal Tort Claims Act, the Tucker Act, or similar       States against the payment bond posted by the defaulting
+statutes [are to be] unaffected” by the waiver of         contractor. Under these circums thetraemendycce reaste, d by
+immunity provided in Section 702); 1976 Senate            the Miller Act is “exclusive,” and the attempt to create an al-
+Report at 19 (waiver of immunity is “procedural in        ternative remedy against the government through the APA is
+                                                          “impliedly forbididen]“ within the meaning of Section 702.
+for money under the APA, the APA will be used to        and subcontracting. Revibey wthis Court therefore
+remedy tort-type injuries in circumstances in which     is warranted.
+
+the FTCA itself limits relief, or contract-type                                    CONCLUSION
+
+remedies in circumstances where the Tucker Act             The petition for a writ of certiorari should be
+doe as swell. In the instant case, Hubbarda,nd Dia,
+the plaintiffs attempted to invoke this Court's         granted.
+decision in Bowen to seek funds previously unavail-        Respectfully submitted.
+able from the government. In contrast, Bowen itself
+concerned only which court should hear the statutory                                                  SESTolHicitPor. WAGXMAN
+entitlement claim, and created no new entitlement to
+money. See, e.g., U.S. Br. at 38-46, Bowen v. Massa-                                                 FRANK W. HUNGER
+chusetts, No. 87-712; see also id. at 34-35. The D.C.
+Circuit in Hubbard and the Third Circuit in Dia—in                                                   EDDWeIpuNty S. SKolNicEitEorDLEGR
+conflict with the Ninth Circuit’s decision below—
+properly rejected the plaintiffs’ attempts to impose                                                 JEFFREY A. LAMKEN
+new monetary liability on the federal government                                                        Assistant to the Solicitor
+under the APA.                                                                                           General
+
+   Moreover, in the specific context of subcontractors                                               BARBARA C. BIDDLE
+on government projects, the decision below has sig-                                                  MARY K. DOYLE
+nificant adverse consequences for the government. It
+essentially nullifies longstanding precedent that                                                  Attorneys
+previously refused to allow unpaid subcontractors to
+recover from the government, under the Miller Act,      APRIL 1998
+
+the FTCA, or the Tucker Act, the sums that their
+contractors owed, but did not pay, them. As this case
+makes clear, even where the project money has all
+been paid out, government agencies now for the first
+time must be concerned with whether new money will
+have to be found to pay unpaid subcontractors. Such
+an unprecedented—and unpredictable—financial bur-
+den on the United States Treasury in the absence of
+an Act of Congress consenting to such relief is
+fundamentally inconsistent with the Appropriations
+Clause of the Constitution and the statutory frame-
+work that has long governed government contracting
+                              APPENDIXA
+         UNITED STATES COURT OF APPEALS
+
+                  FOR THE NINTH CIRCUIT
+
+                              No. 96-35648
+
+                 BLUE Fox INC., AWASHINGTON
+            CORPORATION, PLAINTIFF-APPELLANT
+
+                                                 v.
+
+              SMALL BUSINESS ADMINISTRATION;
+ THE UNITED STATES ARMY, DEFENDANTS-APPELLEES
+
+            Argued and Submitted: July 10, 1997
+                     Decided: Aug. 25, 1997
+
+   Before: FERGUSON, REINHARDT, and RyMeEr, Cir-
+cuit Judges.
+
+   FERGUSON, Circuit Judge:
+   Blue Fox appeals from a summary judgment in
+favor of the Small Business Administration and the
+Department of the Army. Blue Fox was a subcontrac-
+tor which worked on a construction project at an
+Army Depot. After the prime contractor failed to pay
+Blue Fox in full, Blue Fox sought an equitable lien
+against funds held by the Army and Small Business
+Administration which has since been distributed to
+the prime contractor. Contrary to the district court,
+we hold that the Administrative Procedure Act per-
+mits Blue Fox’s equitable lien claim against the
+Army because an action for specific performance for
+the payment of money is not an action for money
+damages. We affirm the district court’s decision that
+
+                             (Ja)
+                                2a                                                        3a
+
+a lien cannot be enforced against the Small Business     delegated responsibility for administering the con-
+Administration because that agency never possessed       tra bacck tto the Army. Thus, Verdan was to be paid
+nor controlled the contract fund.                        directly by the Army. The SBA did not receive any
+                                                         funds in connection with the contract, the total
+             I. FACTUAL BACKGROUND                       amount of which was $432,392.13.
+
+   Section 8(a) of the Small Business Act, 15 U.S.C.        The original solicitation issued by the Army re-
+§ 637(a), established a business development program     quired the contractor to furnish payment and per-
+for firms deemed to be socially and economically dis-    formance bonds if the contract exceeded $25,000.
+advantaged. The purpose of the (a) program is to         However, the Army later amended the solicitation,
+help small businesses owned and controlled by so-        deleting the bond requirements. Defendants now con-
+cially and economically disadvantaged individuals and    cede that the Verdan contract was subject to the
+economically disadvantaged Indian tribes “to compete     Miller Act, 40 U.S.C. §§ 270a-270d.' However, SBA
+on an equal basis in the mainstream of the American      did not grant an exemption to Verdan from Miller Act
+economy.” 13 C. F. R. § 124.1(a). This is accomplished   bond requirements under 13 C.F.R. § 124.305 (1990),
+by setting aside certain government procurement          which enumerated requirements concerning SBA
+contracts to be awarded by the Administrator of the      control of contract funds and notice to subcontractors
+SBA to firms determined by the SBA to be socially        in the event that SBA granted an exemption to the
+and economically disadvantaged. The Small Business       Miller Act bond requirement.?
+Act also authorizes SBA to provide financial assis-
+tance to support such small business concerns with          1 The Miller Act provides that before any contract exceed-
+regard to costs and technical and management assis-      ing $25,000 for the construction, alteration, or repair of any
+tance. 13 C. F. R. § 124.1(b).                           public building or public work of the United States is awarded
+                                                         to a contractor, that contractor shall furnish both a payment
+   In September, 1993, pursuant to Section & a) of the   bond and a performance bond “for the protection of the United
+Small Business Act, 15 U.S.C. § 637(a), the United       States.” 40 U.S.C. § 270a. The purpose of the Act “is to pro-
+States Department of the Army awarded a contract to      tect those who would have materialmen’s and workmen’s liens
+the United States Small Business Administration.         under state law if they were not working on a structure ex-
+The contract involved the installation and testing of a  empt as a federal public work or building.” United Bonding
+telephone switching system and the construction of a     Ins. Co. v. Catalytic Constr. Co., 583 F.2d 469, 473 (9th Cir.
+facility to house the switching system at the            1976).
+Umatilla Army Depot, Oregon. SBA agreed to
+furnish the supplies and services requested by the          2 13 C.F.R. § 124.305 (1990) outlined the conditions upon
+Army by subcontracting with Verdan Technology,           which the SBA could exempt an S(a) participant from any
+Inc.                                                     payment and performance bonds required by the Miller Act.
+                                                         Subsection (d) of that section lists several precautions that were
+  The Army, SBA, and Verdan then signed a tripar-        to be taken to secure payment to subcontractors. For example:
+tite agreement. Under the terms of the contract, SBA
+                                   da                                                               5a
+
+   Verdan entered into a subcontract with Blue Fox,                   On January 3, 1995, the Army terminated the con-
+Inc., whereby Blue Fox agreed to construct a con-                  tract for default because Verdan failed to adhere to
+crete block building to house the switching system                 the contract’s delivery schedule and to submit re-
+and install several other specific items of the con-               quired contractor Data Requirement Lists. In its
+tract. The total cost of the work to be performed by               notice of intention to terminate the contract, the
+Blue Fox was $186,347.80.                                          Army indicated that one of its “most severe items of
+                                                                   concern” was Verdan’s failure to pay Blue Fox.
+   Blue Fox did not know until it had completed its
+performance under the contract that Verdan had not                    After the termination of the Verdan contract, the
+furnished a payment or performance bond. Verdan                    Army chose Dynamic Concepts, Inc. to finish the
+failed to pay Blue Fox its full contract price—the sum             uncompleted portion of the work, under an existing
+of $46,586.14 remained due. Blue Fox informed the                  contract between the Army and Dynamic. This con-
+Army and SBA in writing on May 26, 1994, and again                 tract did not include the SBA as a party. The modi-
+on June 15, 1994, that it had not been fully paid. The             fication contract with Dynamic was for $126,772.78
+Army disbursed a total of $86,132.33 to Verdan be-                 and was partially funded with the undisbursed balance
+tween July 5, 1994 and October 11, 1994.                           on the Verdan contract, 884,910.52.
+
+      (2) There must be established a special bank account in         Blue Fox obtained a default judgment in the Tribal
+      an institution insured by the Federal Deposit Insurance      Court of the Yakima Indian Nation against Verdan
+      Corporation (FDIC), into which the procuring agency will     and its officers. Blue Fox asserts that it is unlikely
+      deposit all payments relating to the performance of the      to collect on these judgments because existing liens
+      contract, or, in the alternative, the procuring agency, at   against Verdan precede Blue Fox’s judgment and the
+      its option, shall provide for direct disbursement of con-    judgment exceeds the officers’ individual net worths.
+      tract proceeds to suppliers, subcontractors, laborers and
+      others.                                                         In this litigation, the district court denied Plain-
+                                                                   tiffs motion for summary judgment and granted
+      (3) All disbursements from any special bank account es-      Defendant’s motion for summary judgment. The
+      tablished shall be subject to the approval and counter sig-  court held that it did not have jurisdiction over Blue
+      nature by SBA.
+                                                                      The Army did not authorize payment to Dynamic for its
+      (4) The S(a) contractor must notify persons supplying it     work in completing the project until July 27, 1995, two months
+      with materials or labor in writing that the contract is      after Blue Fox filed this action in district court, asking inter
+      exempt from the Miller Act’s bonding requirements and        alia, that the court enjoin Defendants ofm paying any further
+      must also notify such suppliers in writing that SBA will     moneys or making any payments from funds available or ap-
+      not be liable for payment for materials or labor. The 8(a)   propriated for a follow-on contract for completion of the
+      contractor must obtain a written acknowledgment .. .         Umatilla Army Depot Electronic Switching System project,
+      and such acknowledgment(s) must be in SBA’s possession       until Plaintiff's unpaid bill is satisfied.
+      prior to award of the contract where practicable, and, in
+      all instances prior to payment of invoices.
+                                 6a                                                             7a
+
+Fox’s claim against the Army because the Adminis-              damages, 5 U.S.C. § 702, we think, normally re-
+trative Procedure Act did not constitute a waiver of           fers to a sum of money used as compensatory
+sovereign immunity in this case. Additionally, the             relief. Damages are given to the plaintiff to
+court held that it could not grant an equitable lien           substitute for a suffered loss, whereas specific
+against SBA because there had been no res in SBA’s             remedies ‘are not substitute remedies at all, but
+possession and control to which an equitable lien              attempt to give the plaintiff the very thing to
+could attach.                                                  which he was entitled.“ D. Dobbs, Handbook on
+                                                               the Law of Remedies 135 (1973). Thus, while in
+                           II. DISCUSSION                      many instances an award of money is an award of
+                                                               damages, ‘[o]ccasionally a money award is also a
+   We review questions involving principles of sover-          specie remedy.’ Jd. Courts frequently describe
+eign immunity de novo. United States v. Woodley, 9             equitable actions for monetary relief under a
+F.3d 774, 781 (9th Cir. 1993). A grant of summary              contract in exactly those terms.”
+judgment is reviewed de novo. Bagdadi v. Nazar, 84
+F.3d 1194, 1197 (9th Cir. 1996).                          Bowen, 487 U.S. at 895, 108 S.Ct. at 2732. Here, Blue
+                                                          Fox seeks an equitable lien only for the very thing to
+      A. Equitable Lien Claim Against the Army            which it is entitled under the contract. Blue Fox does
+                                                          not seek any consequential damages to compensate
+   The district court held that Blue Fox’s suit against   losses suffered beyond the contract price. Therefore,
+the Army is barred by the doctrine of sovereign im-       the district court had jurisdiction to consider its
+munity. However, sovereign immunity against fed-          claim under the APA.
+eral agencies has been waived as to suits “seeking
+relief other than money damages,” under the Admin-                           1. APA Waiver Not Limited
+istrative Procedure Act, 5 U.S.C. § 702 (“APA”). The                             to Statutory Rights
+Supreme Court has held that monetary relief is
+available under the APA when it takes the form of            The district court erred in assuming that because
+specific relief rather than compensatory damages.         Blue Fox sought monetary relief and its right was
+Bowen v. Massachusetts, 487 U.S. 879, 893, 108 S.Ct.      not statutorily derived, such relief constituted
+2722, 2731, 101 L.Ed.2d 749 (1988). In Bowen, the         “money damages” and was excluded from the waiver
+Supreme Court quoted from Judge Bork’s opinion in         of sovereign immunity contained in the Administra-
+Maryland Department of Human Resources v.                 tive Procedure Act. The district court characterized
+Department of Health and Human Services, 763 F.2d         the issue as a choice between an action for damages or
+1441, 1446 (D.C. Cir. 1985), to explain the scope of the  an action for payment of money to which Blue Fox
+APA waiver of immunity for suits seeking other than       was statutorily entitled. Because the Miller Act does
+money damages:                                            not provide a remedy for subcontractors against the
+                                                          goverrment, the district court held that nonstatutory
+      “We begin with the ordinary meaning of the          remedies were barred and the APA could not apply to
+     words Congress employed. The term ‘money
+                                 8a                                                        9a
+
+waive immunity. However, there is no requirement          court had jurisdiction under the APA. Below we
+in Bowen or the APA that the specific relief re-          reconstruct a brief history of the right asserted by
+quested be statutorily granted. That is, a party need     Blue Fox in order to trace its roots in equity.
+not rely upon a statute in order to obtain federal court
+jurisdiction under the APA. See Aetna Casualty            The Suretyship Cases—Equitable Right of
+and Surety Co. v. United States, 71 F.3d 475 (2nd Cir.    Subrogation
+1995) (APA waived sovereign immunity against sub-
+rogation claim because surety’s right to subrogation,        In Henningsen v. United States Fidelity & Guar-
+arising by operation of law, was equitable and there-     anty Co., 208 U.S. 404, 28 S.Ct. 389, 52 L.Ed. 547
+fore included in APA waiver). Although Bowen itself       (1908), the Court held that a surety had an equitable
+was concerned with funds to which Massachusetts           right of subrogation against the United States be-
+was entitled by statute, there is nothing in that         cause it had “paid the laborers and material-men, and
+opinion that suggests the APA’s waiver of immunity        thus released the contractor from his obligations to
+is limited to suits brought under another statute.        them, and to the same extent released the Govern-
+Thus, the district court erred in assuming that           ment from all equitable obligations to see that the
+because Blue Fox was not entitled to relief under the     laborers and supplymen were paid.” Jd. at 410, 28
+Miller Act, its equitable lien claim was impermissible    S.Ct. at 391. The surety’s right of subrogation was
+under the APA.                                            found to be superior to that of a bank which had loaned
+                                                          money to the contractor to finish the project because
+             2. An Equitable Lien Claim is Not            the surety was bound by contract to pay the sub-
+                     an Action for Damages                contractor.
+
+   This circuit has recognized subcontractors’ equita-       The equitable right of subrogation by a surety has
+ble rights against the government where the subcon-       been extended in a number of cases. See e.g. Pearl-
+tractor was not paid by the prime contractor, the         man v. Reliance Ins. Co., 371 U.S. 132, 83 S.Ct. 232, 9
+government had notice, and the government did not         L.Ed.2d 190 (1962) (Miller Act does not alter surety’s
+pay the subcontractor or withhold payment to the          equitable right of subrogation which arose out of
+prime contractor. Wright v. United States Postal          surety’s payment of laborers and materialmen in
+Service, 29 F.3d 1426 (9th Cir. 1994). The Army has       accordance with bond agreement); Aetna Casualty, 71
+conceded that Blue Fox would have an equitable lien       F.3d 475 (APA waived sovereign immunity against
+claim, i.e. a non-damages claim, if 1 private party,      subrogation claim because surety’s right to subroga-
+rather than a government agency had contracted with       tion, arising out of payments to coal mine employees
+Verdan. The fact that the Army is the defendant does      suffering from black lung disease, was equitable and
+not change the nature of the claim, but only requires     therefore included in APA waiver).
+analysis of the Army’s immunity. Since the APA
+waives immunity for equitable actions, the district
+                                  10a                            lla
+
+Extension to Equitable Rights in Subcontractors          33 29 F.3d at 1430 (quoting Active Fire, 811 F.2d
+
+   The Henningsen line of cases decree that the          at  ).
+doctrine of subrogation is an equitable one. Blue Fox
+does not assert a right of subrogation against the          The Army claims the Postal Service cases are
+Army. However, following the suretyship cases,           inapposite because they rely on the Postal Reorgani-
+courts have recognized subcontractors’ equitable         zation Act, 39 U.S.C. § 401(a) (1982), which authorized
+rights against government agencies in situations         the U.S. Postal Service to “sue and be sued,” and
+where a surety who paid the subcontractor would          therefore did not speak to the ability of subcontrac-
+have had a equitable right of subrogation against the
+government. See e.g. Wright, 29 F.3d 1426; Active        tors to sue under the APA. However, the Postal
+Fire Sprinkler Corp. v. United States Postal Ser-
+vice, 811 F.2d 747 (2d Cir. 1987); Kennedy Electric Co.  Service Cases are relevant because although the
+v. United States Postal Service, 508 F.2d 954 (10th      waiver of sovereign immunity is found in the Postal
+Cir. 1974). The question presented in this appeal is     Reorganization Act, they recognize non-Miller Act
+whether these equitable rights are enforceable under     claims against federal agencies for equitable liens as
+the APA.                                                 equitable in nature. Since such equitable liens are
+                                                         not actions for “money damages,” they are allowed by
+   In Wright, we held that subcontractors could insti-   the APA’s waiver of sovereign immunity as well.‘
+tute actions to establish equitable liens against the
+U.S. Postal Service. It was clear in Wright that such            3. Equitable Lien Attached Upon Notice
+equitable liens are properly characterized as equita-                to Army of Blue Fox’s Non Payment
+ble remedies, rather than money damages. In recog-
+nizing that the Miller Act’s provision of a remedy to       “An equitable lien can be established and enforced
+sue on the bond did not preclude the assertion of an     only if there is some property which is subject to the
+equitable lien, we quoted approvingly from a Second      lien.” Restatement of Restitution § 161, comment e
+Circuit case that presented a similar question:          (1937). Blue Fox gave notice to the Army on May 26,
+
+     ‘Prior to the waiver of immunity, subcontractors    1994 and June 15, 1994 that it had not been fully paid.
+     possessed an equitable right. . . but apparently
+     lacked a remedy due to immunity. Any equitable      The Army subsequently paid Verdan $86,132.33 before
+     rights held by subcontractors as against [the]
+      USPS, which may have been unenforceable               In Active Fire, the court noted that there was a long line
+     where sovereign immunity existed, became            of cases that characterize the Miller Act as the only remedy for
+     enforceable upon immunity being waived.’            subcontractors in a government building contract. Active Fire,
+                                                         811 F.2atd754. The government’s brief similarly emphasizes
+                                                         broad language from Arvanis v. Noslo Eng Consultants, Inc.,
+                                                         739 F. 2d 1287, 1288 (7th Cir. 1984) (if prime contracftaiolsrto
+                                                         obtain a payment bond, the subcontractor, rather than the gov-
+                                                         ernment, is “left holding the bag“) Howenvone e orf , these
+                                                         cases considered an equitable lien theory, and as we have previ-
+                                                         ously recognized, “Nothing in the Miller Act evinces a legisla-
+                                                         tive intent to limit remedies available to subcontractors.”
+                                                         Wrig2h9 tF.3,d at 1431.
+                                 12a                       13a
+
+terminating the contract. Thus, at the time the            role to the small business which is awarded a contract
+Army received notice from Blue Fox, it retained            with a governmental agency.“ However, in this case,
+funds to which the equitable lien attached. The fact       the SBA delegated nearly all responsibility for the
+that the Army has since paid out the monies to which       contract administration to the Army, and abdicated
+the lien attached does not thwart Blue Fox’s equita-       any protective role toward Verdan and the subcon-
+ble lien claim. In the suretyship context, the Federal     tractors. Thus, while the SBA ordinarily would have
+Claims Court has noted:                                    at least constructive possession of contract funds to
+                                                           which an equitable lien could attach, SBA’s delega-
+      where the government has on hand contract funds      tion of responsibility to the Army, another govern-
+      owing for work done and is alerted . . . to the      ment agency which itself may be held liable, requires
+      possibility of unpaid materialmen’s claims . . . it  a different result.
+      may not dispense those funds to the contractor—
+      at least not without running the distinct risk of       Blue Fox argues that the SBA had the opportunity,
+      having to pay twice.
+                                                           authority, and duty to intervene, and therefore should
+Transamerica Premier Ins. Co. v. U.S., 32 Fed. Cl.
+308, 314 (1994). The Army cannot escape Blue Fox’s         be liable for an equitable lien. Blue Fox correctly ob-
+equitable lien by wrongly paying out funds to the          serves that SBA was largely responsible for the
+prime contractor when it had notice of Blue Fox’s          Army’s withdrawal of its Miller Act requirement in
+unpaid claims.                                             the tripartite contract.“ In addition, SBA did not con-
+                                                           form to regulations in place at the time of the con-
+             B. Equitable Claim Against SBA                tract which would have required the SBA to admin-
+
+   The district court granted the SBA’s motion for         5 “It is the declared policy of the Congress that the Govern-
+summary judgment because it found that, as the
+Army had sole possession and control over the con-         ment should aid, counsel, assist, and protect, insofar as is possi-
+tract and made all payments to Verdan, there was no
+res or fund which the SBA controlled or possessed.         ble, the inteor f semalsl-btusisness concerns.  15 U.S.C.
+Because an equitable lien may only exist where there
+is a res to which it attaches, and because SBA did not     § 631(a), DeclaraotfiPoolincy.
+have possession or control of any contract funds, we
+affirm the district court.                                 ® Blue Fox provided evidence of the SBA’s conscious avoid-
+
+   This is a somewhat atypical case. The Small Busi-       ance of the Miller Act requirements in the form of notes of
+ness Act provides opportunities for socially and eco-
+nomically disadvantaged businesses through SBA re-         telephone converswaitthiniothensSBA. The notes recordeda
+cruitment, support, and loans. 15 U.S.C. § 636. Thus,
+the SBA usually plays a protective and supportive          conversation between officers of the SBA and the Army in
+
+                                                           which they discussed the need for a bond and the fact that
+
+                                                           “Verdan doesn’t have the experience to get a bond in this
+
+                                                           area.” The Army official explained that she was advised by
+
+                                                           “Ms. Witty, out of the SBA office,” that “in order to protec co
+
+                                                           the government’s interest, [they should] require that Verdan
+
+                                                           show the government evidence that their sub[contractor] had
+
+                                                           bonded the construction portion of the contract.” However,
+
+                                                           neither party has claimed that Blue Fox was ever required to
+
+                                                           acquire a bond on the construction portion of the contract.
+                                   14a                                                      15a
+
+ister a special bank account upon the waiver of Miller   well settled that this may not be done unless the con-
+Act requirements. Although these actions show            tracting agency has agreed to be sued, I dissent.
+SBA’s responsibility and culpability for the harm
+Blue Fox suffered in this case, the fact remains that       Congress chose to protect those who work on gov-
+SBA did not have possession of a res to which an         ernment property (who would otherwise have materi-
+equitable lien could attach. Thus, although we agree     almen’s and workmen’s liens for work on non-govern-
+with Blue Fox that SBA did not fulfill its statutory     ment property) primarily through the Miller Act, by
+duties, an equitable lien theory cannot provide Blue     requiring contractors to furnish a payment and per-
+Fox with relief against the SBA.                         formance bond, instead of by permitting subcontrac-
+                                                         tors to enforce liens through an overarching waiver
+                             CONCLUSION                  of sovereign immunity. The Miller Act gives subcon-
+                                                         tractors the right to sue on the bond “in the name of
+   For the foregoing reasons, the district court deci-   the United States for the use of the person suing.”
+sion is REVERSED IN PART and AFFIRMED IN PART            40 U.S.C. § 270b(b). But neither the Federal Tort
+and REMANDED for further proceedings consistent          Claims Act, the Miller Act, nor the Tucker Act,
+with this opinion. Blue Fox is entitled to its costs on  waives sovereign immunity to permit a subcontractor
+appeal.                                                  to sue the United States directly in its own riglit for
+                                                         monies the subcontractor should have received, but
+   RyMER, Circuit Judge, concurring in part and
+dissenting in part:                                      did not receive, from the prime contractor. See West-
+                                                         bay Steel, Inc. v. United States, 970 F.2d 648, 650-51
+   Never before has a court held that a subcontractor
+may sue an agency of the United States, which has        (9th Cir. 1992) (FTCA); Arvanis v. Noslo Eng’g Con-
+not agreed to be sued, for contract monies that the      sultants, Inc., 739 F.2d 1287, 1289-90 (7th Cir. 1984)
+prime contractor should have paid to the subcontrac-
+tor but didn’t. It has been the law for decades that     (Miller Act); United Elec. Corp. v. United States, 227
+subcontractors cannot enforce a lien on government
+property unless the government has waived sovereign      Ct. Cl. 236, 647 F.2d 1082, 1087 (1981) (Tucker Act). As
+immunity. Yet, the majority now says that a district     Judge Easterbrook recently observed for the Seventh
+court has jurisdiction to consider a subcontractor’s     Circuit, “[WJhen a prime contractor on a federal
+claim for an equitable lien under the Administrative     construction project fails to obtain a Miller Act pay-
+Procedure Act, because it is not an action for money     ment bond and then defaults without paying his
+damages but “an action for specific performance for      subcontractors .. . the hapless subcontractor, not
+the payment of money.” Maj. op. at 1358. However, no     the United States, is left holding the bag.“ Auto-
+matter how you slice Blue Fox’s claim, it seeks funds    matic Sprinkler Corp. v. Darla Envt'l Specialists,
+from the treasury to compensate for the Army’s fail-     Inc., 53 F.3d 181, 182 (7th Cir. 1995). Whether felici-
+ure to require Vertod posa t anbond. Since the law is
+                                                         tous or not, this has been the conventional wisdom for
+                                                         at least fifty years. See United States v. Munsey
+
+                                                         Trust Co., 332 U.S. 234, 241, 108 Ct.Cl. 765, 67 S.Ct.
+                                  16a                                                           17a
+
+1599, 1602, 91 L. Ed. 2022 (1947) (“[NJothing is more     precisely what caused Blue Fox’s loss—or, put an-
+clear than that laborers and materialmen do not have      other way, gave rise to its asserted equitable lien
+enforceable rights against the United States for their    against the retainage—in this case. Unlike the ma-
+compensation.”).                                          jority, I don’t think it matters that the right asserted
+
+   For sure, we indicated in Wright v. United States      is equitable, see Pearlman v. Reliance Ins. Co., 371
+Postal Service, 29 F.3d 1426 (9th Cir. 1994, that equi-
+table liens may be enforced, like other remedies avail-   U.S. 132, 141, 83 S.Ct. 232, 236, 9 L.Ed.2d 190 (1962),
+able to subcontractors may be pursued, when there is      because equitable rights held by subcontractors be-
+a specific waiver of immunity as there is, for example,   come enforceable only when immunity is waived by
+for the Postal Service, in the Postal Reorganization      the contracting agency. See Wright, 29 F.3d at 1428;
+Act, 39 U.S.C. § 401(1). However, in the absence of an    Active Fire, 811 F.2d at 754; United Elec. Corp., 647
+agency waiver, subcontractors cannot achieve “by
+indirection a result that they could not reach directly   F.2d at 1086. Otherwise, the Miller Act provides the
+under the Miller Act.” Westbay, 970 F.2d at 651
+(quoting Arvanis, 739 F.2d at 1292); cf. Wright, 29       remedy available to subcontractors for contractor
+F.3d at 1428 (specific waiver in Postal Reorganization    defaults.
+Act); Active Fire Sprinkler Corp. v. United States
+Postal Service, 811 F.2d 747, 754 (2d Cir. 1987) (same);        As the Seventh Circuit has remarked:
+J.C. Driskill, Inc. v. Abdnor, 901 F.2d 383, 386 (4th
+Cir. 1990) (waiver of sovereign immunity under Small            The result is . . . unjust. A subcontractor who
+Business Act not broad enough to support an equita-             fulfills his part of the bargain should not suffer
+ble lien claim by a subcontractor against the SBA).             because the prime contractor defaulted, and the
+                                                                government contracting officer had not insisted
+   This is just what the majority has managed to                on compliance with the Miller Act. We agree that
+allow. It reasons that the APA waiver recognized in             there is a practical problem (how widespsread we
+Bowen v. Massachusetts, 487 U.S. 879, 108 S.Ct. 2722,           do not know) that is not addressed by the Miller
+101 L.Ed.2d 749 (1988), is not limited to statutory             Act, but that is a problem that can only be ad-
+rights, but whether that is so or not is beside the            dressed, and redressed, by Congress.
+point unless the government has a duty which can be
+specifically enforced. Here, it has none. Under the       Arvanis, 739 F.2d at 1293. Because Congress has not
+Miller Act there is no question the Army should not       waived the Army’s sovereign immunity, I dissent
+have approved the Verdan contract without ensuring        from Part IIA of the majority opinion, and because
+that there was an adequate surety bond, but its           even assuming Congress has waived the SBA’s
+failure to do so is not actionable. Westbay, 970 F.2d at  immunity to be sued for an equitable lien’ there is no
+650 (citing authorities). The absence of a bond is
+                                                             Compare Driskill, 901 F.2d at 386 (subcontractor cannot
+                                                          sue SBA for equitable lien), with ATC Petroleum, Inc. v. Sand-
+                                                          ers, 860 F.2d 1104, 1113 (D.C. Cir. 1988) (subcontractor can sue
+                                                          the SBA for an equitable lien).
+                                   18a                                                               19a
+fund to which Blue Fox can lay claim, I concur in the
+result of Part IIB.”                                                          UNITED STATES COURT OF APPEALS
+                                                                                       FOR THE NINTH CIRCUIT
+   2 As the SBA never possessed contract funds, there has
+                                                                                               No. 93-35648
+never been a res to which an equitable lien might attach. In
+my view, that is dispositive of the legal issue before us, and so I                   D.C. No. CV 95-00612-HJF
+do not join the majority’s discussion of the SBA’s culpability.
+                                                                           BLUE Fox, INC., A WASHINGTON CORPORATION,
+                                                                                           PLAINTIFF-APPELLANT
+
+                                                                                                                  v.
+
+                                                                                  SMALL BUSINESS ADMINISTRATION;
+                                                                                       THE UNITED STATES ARMY,
+                                                                                         DEFENDANTS-APPELLEES
+
+                                                                                            [Filed: Nov. 7, 1997]
+
+                                                                                                         ORDER
+
+                                                                        Before: FERGUSON, REINHARDT, and RyMER, Cir-
+                                                                     cuit Judges.
+
+                                                                       Judge Ferguson and Judge Reinhardt have voted to
+                                                                     deny the petition for rehearing. Judge Rymer has
+                                                                     voted to grant the petition.
+
+                                                                       Judge Ferguson has recommended rejection of the
+                                                                     en bane suggestion. Judge Reinhardt has voted to
+                                                                     deny the suggestion. Judge Rymer has voted to
+                                                                     accept the suggestion.
+
+                                                                       The full court has been advised of the suggestion
+                                                                     for rehearing en banc and no judge of this court has
+                                20a                                                          21a
+
+requested a vote on the suggestion for rehearing en                                      APPENDIXC
+bane. Fed. R. App. P. 35.
+                                                             IN THE UNITED STATES DISTRICT COURT
+  The petition for rehearing is denied and the sugges-               FOR THE DISTRICT OF OREGON
+tion for rehearing en banc is rejected.
+                                                                             Civil No. 95-612-FR
+
+                                                             BLUE Fox, INC., AWASHINGTON CORPORATION,
+                                                                                      PLAINTIFF
+
+                                                                                                         .
+
+                                                                   THE UNITED STATES SMALL BUSINESS
+                                                                ADMINISTRATION; AND THE UNITED STATES
+                                                                 DEPARTMENT OF THE ARMY, DEFENDANTS
+
+                                                                             Filed: May 24, 1996]
+
+                                                                                           OPINION
+
+                                                           FRYE, Judge:
+                                                           The matters before the court are the plaintiffs
+                                                        motion for summary judgment (#18) and the defen-
+                                                        dants’ motion for summary judgment (#26).
+
+                                                                               UNDISPUTED FACTS
+                                                           On September 29, 1993, pursuant to Section 8(a) of
+                                                        the Small Business Act, 15 U.S.C. § 637(a), the defen-
+                                                        dant, the United States Department of the Army (the
+
+                                                        Army), awarded a contract, No. DAEA08-93-C-0056, to
+                                                        the defendant, the United States Small Business
+                                                        Administration (the SBA). The SBA in turn awarded
+                                                        the contract to Verdan Technology, Inc. (Verdan), an
+                                                        eligible Section 8(a) contractor. Under the terms of
+                                                        the contract between the SBA and Verdan, Verdan
+22a  K                                                                                   23a
+
+agreed to upgrade the telecommunications capability      due on its contract with Blue Fox. Blue Fox informed
+of the Army Depot in Umatilla, Oregon. The contract      the Army and the SBA in writing on May 26, 1994, and
+between the SBA and Verdan had two phases: (1) the       again on June 15, 1994, that it had not been paid.
+construction of a building to house telephone switch-
+ing equipment; and (2) the installation, testing and        On January 3, 1995, the Army terminated its con-
+putting on-line of the equipment.                        tract with Verdan and the SBA because of Verdan’s
+                                                         failure to adhere to the delivery schedule contained in
+   Verdan entered into a subcontract with the plain-     the contract and to submit Contractor Data Require-
+tiff, Blue Fox, Inc. (Blue Fox), whereby Blue Fox        ment lists. At the time that the Army terminated its
+agreed to construct a 20 x 25 foot concrete              contract with Verdan, it had disbursed $348,000.00 to
+block building in which to house the switching           Verdan. Of that amount, $269,481.35 was disbursed to
+system; to install a cable vault underneath the          Verdan for site preparation and the construction of
+building; and to provide all of the electrical systems,  the housing facility. No funds were held back or
+the fire suppression/detection systems, the air          retained under the contract.
+conditioning/heating systems, and the structural
+details of the concrete block building. The cost of the     At the time that the Army terminated its contract
+work to be performed by Blue Fox was $186,347.80.        with Verdan, Verdan had not completed the project:
+This sum represented 43% of all of the funds received    specifically, it had not entered the subscribing data
+by Verdan from the SBA.                                  base into the new telephone switch, completed the
+                                                         testing of the switch, or finished the “cutting over” to
+   Although the Army designated the contract be-         the new switch. The Army subsequently modified an
+tween the Army and the SBA under Standard Indus-         existing services contract that it had with Dynamic
+                                                         Concepts, Inc. so that Dynamics Concepts, Inc. would
+trial Classification Code 4813, Telephone Communica-     complete the contract that Verdan had failed to com-
+tions, the Army treated the contract as a service con-   plete for $126,772.78. The modification of the Dy-
+tract, rather than a construction contract. Because      namic Concepts, Inc. contract was partially funded
+the Army treated the contract as a service contract      with the undisbursed balance of the Verdan contract,
+rather than a construction contract, Verdan was not      which was $84,910.52. This $84,910.52 was intended to
+required to furnish, and it did not furnish, a payment   pay for the installation and the testing of the tele-
+or performance bond as required by the Miller Act, 40    phone switch. The installation and the testing of the
+U.S.C. § 270a(a)(2), for contracts for the construction  telephone switch had not been performed at the time
+of public buildings. Blue Fox did not know until it had  that the Army terminated its contract with Verdan.
+completed its performance under the contract that
+Verdan had not furnished a payment or performance           On January 15, 1995, Blue Fox obtained a default
+bond. Pursuant to the terms of the contract, the         judgment in the Tribal Court of the Yakima Indian
+Army made all payments directly to Verdan. Verdan        Nation against Verdan and its officers, Gary C. An-
+did not pay Blue Fox the sum of $46,586.14, which was
+                                24a                                       25a
+
+drews and William J. Reubel, Jr. Blue Fox has not        own or possess any property to which a lien may
+                                                         attach.
+collected on this judgment.
+                                                         APPLICABLE STANDARD
+   Blue Fox brings this claim against the Army and
+the SBA seeking an equitable lien upon the funds re-       Summary judgment is appropriate where “there is
+tained by the Army and the SBA under the Verdan
+contract and/or upon any funds available or appropri-    no genuine issue as to any material fact and . . . the
+ated for a follow-up contract for the completion of the  moving party is entitled to a judgment as a matter of
+electronic switching system project of the Umatilla      law.” Fed. R. Civ. P. 56(c). The initial burden is on
+Army Depot to secure payment of $46,586.14 to Blue       the moving party to point out the absence of any genu-
+Fox. Blue Fox alleges that the Verdan contract was       ine issue of materiafalct. Ontc he ienitial burdenis
+subject to the Miller Act; that, as a person supplying   satisthefbiurdeendsh,ifts to the opponteo dnemton-
+labor and materials on that contract, Blue Fox was       strate through the production of probative evidence
+entitled to the protection of a Miller Act payment       that there remains an issue of fact to be tried.
+bond; that no Miller Act payment bond was furnished
+under the Verdan contract; and that the Army and the     Celotex Corp. v. Catrett, 477 U.S. 317, 323 (1986). On
+SBA violated the Miller Act by failing to insure that a
+bond was in place to protect Blue Fox.                   a motion for summary judgment, all reasonable doubt
+
+   Blue Fox moves the court for summary judgment,        as to the existence of a genuine issue of fact should be
+and the Army and the SBA move the court for sum-         resolved against the moving party. Hector v. Wiens,
+mary judgment.                                           533 F.2d 424932,(9th Cir. 1976).
+
+             CONTENTIONS OF THE PARTIES                  ANALYSIS AND RULING   —
+
+   Blue Fox contends that because the Army and the       1. Jurisdiction
+SBA failed to provide a payment bond for the protec-
+tion of Blue Fox as required by the Miller Act, this        Jurisdiction is an issue in this case becausBleue
+court should grant summary judgment in favor of          Fox brings a claim against the United States. Such
+Blue Fox and impose an equitable lien upon the prop-     suits are generally barred by the application of the
+erty of the Army and the SBA to the extent of the        doctrine of sovereign immunity. Blue Fox contends
+amount owed to Blue Fox.                                 that this court has jurisdiction to hear its claim for
+                                                         an equitable lien against the Army and the SBA
+   The government contends that the claim by Blue        under 28 U.S.C. § 1331; the Small Business Act, 15
+Fox against the Army is barred by the doctrine of
+sovereign immunity, and that the claim against the       U.S.C. § 634(b)(1); and the Administrative Procedures
+SBA must be dismissed because the SBA does not           Act, 5 U.S.C. §§ 702-704, 706. Because this is a court
+                                                         of limited jurisdiction, before examining the merits of
+
+                                                         the claim, the court will determine whether this
+                                                         court has jurisdiction to determine this dispute.
+                     26a                                                                                27a
+
+A. Jurisdiction Over the Claim Against the Army                    damages. The SBA contends that the relief available
+                                                                   to Blue Fox is restricted to the Army’s performance
+Absent a waiver, the doctrine of sovereign immu-                   of any legal duty it had under the Miller Act and does
+                                                                   not include monetary compensation which is a substi-
+nity protects the federal government and its agencies              tute for the suffered loss. Blue Fox contends that
+                                                                   this court has jurisdiction under the APA because
+from suit. Loeffler v. Frank, 486 U.S. 549, 554 (1988);            Blue Fox is seeking an equitable lien, not money dam-
+                                                                   ages. Both parties cite Bowen v. Massachusetts, 487
+FDIC v. Meyer, U.S.       114 S.Ct. 996, 1000 (1994).              U.S. 879 (1988), in support of their positions.
+
+28 U.S.C. § 1331 does not, of itself, constitute a waiver             In Bowen, the Secretary of Health and Human Ser-
+                                                                   vices refused to reimburse the State of Massachu-
+of sovereign immunity. North Side Lumber Co. v.                    setts for certain expenditures that it made under the
+                                                                   Medicaid program. The State of Massachusetts chal-
+Block, 753 F.2d 1482, 1484 n. 3 (9th Cir. 1985), cert.             lenged this order, alleging that the sovereign
+                                                                   immunity of the United States had been waived under
+denied, 474 U.S. 919 (1985) (citing Kester v. Camp-                the APA. The court found for the State of Massachu-
+                                                                   setts and ordered the federal government to pay the
+bell, 652 F.2d 13, 15 (9th Cir. 1981), cert. denied, 454           State of Massachusetts the monies which had been
+
+U.S. 1146 (1982)). The Administrative Procedures                   wrongfully withheld. On appeal, the court held that
+
+Act (APA) allows a suit to be brought against the                  the district court lacked jurisdiction to enter a money
+                                                                   judgment against the Secretary of Health and Human
+United States where the complainant seeks relief                   Services. The matter was appealed to the United
+                                                                   States Supreme Court. The Court ruled that the
+other than money damages. The APA provides, in                     complaint was not barred by the APA’s prohibition
+                                                                   against suits for money judgments. The Court
+pertinent part:                                                    reasoned that the State of Massachusetts had not
+                                                                   sought damages owed by reason of the failure of the
+        A person suffering legal wrong because of                  Secretary of Health and Human Services to perform a
+     agency action, or adversely affected or aggrieved             statutory duty, but was a suit to compel the perform-
+     by agency action within the meaning of a relevant             ance of a duty. The suit was held to be within the
+     statute, is entitled to judicial review thereof. An           purview of the APA, even though it involved the pay-
+     action in a court of the United States seeking                ment of money. 487 U.S. at 899-900.
+     relief other than money damages and stating a
+     claim that an agency or an officer or employee                   The test applied by the United States Supreme
+    thereof acted or failed to act in an official capacity
+     or under color of legal authority shall not be dis-           Court in Bowen to determine whether a suit is for
+     missed nor relief therein be denied on the ground
+     that it is against the United States or that the
+     United States is an indispensable party. . . .
+
+5 U.S.C. § 702 (emphasis added).
+
+   The government contends that the claim against
+the Army is barred because Blue Fox seeks money
+
+   ’ 28 U.S.C. § 1331 provides that t he district courts shall
+have original jurisdiction of all civil actions arising under the
+Constitution, laws, or treaties of the United States.”
+                                28a                                                          29a
+
+money damages and therefore not waived by the                   Thus, if the contract for the installation of the
+doctrine of sovereign immunity is whether the dam-           telephone switching system in the Umatilla Army
+ages sought are a substitute for a suffered loss (i.e.,      Depot was “for the construction.. of any public
+compensation) or an attempt to obtain the very thing         building,” Verdan was required to furnish the gov-
+to which the plaintiff is entitled. The former is an         ernment with a payment bond for the protection of
+action for money damages, while the latter is a suit         subcontractors.
+for specific relief. Id. at 895.
+                                                                The Army classified the Verdan contract as one for
+   Here, the question is whether Blue Fox seeks              services, rather than one for construction, so that the
+money damages for a loss suffered, or whether Blue           requirements of the Miller Act would not apply. Blue
+Fox seeks funds to which it is entitled by statute. In       Fox contends that the contract should have been
+other words, Blue Fox must allege and prove that it          designated as a contract for construction, and Verdan
+was entitled under the Miller Act to reimbursement           should have been required to furnish a bond, but that
+from the Army for the payments that were not made            the Army and the SBA deleted any requirement for
+by Verdan to Blue Fox in order for this court to have        Verdan to furnish a bond and designated the contract
+jurisdiction over Blue Fox’s claim against the Army.         as one for services because Verdan was unable to
+                                                             obtain a bond. While a substantial portion of the con-
+   The Miller Act states, in relevant part:                  tract included construction, the contracting agency
+                                                             determined that the contract was primarily a service
+        Before any contract, exceeding $25,000 in            contract, and that it therefore did not fall under the
+     amount, for the construction, alteration, or repair     Miller Act. This court agrees with that determina-
+     of any public building or public work of the United     tion.
+     States is awarded to any person, such person shall
+     furnish to the United States the following bonds,          Even if the Miller Act applied to the contract, the
+     which shall become binding upon the award of the        Army had no contractual obligation or statutory obli-
+     contract to such person, who is hereinafter desig-      gation to pay Blue Fox. The Miller Act neither
+     nated as “contractor”:                                  places a duty on the government to insure that a bond
+                                                             is furnished, nor places the government and the
+            (2) A payment bond with a surety or sure-        subcontractor in privity of contract. See Fanderlik-
+          ties satisfactory to such officer for the protec-  Locke Co. v. United States ex rel. M. B. Morgan, 285
+          tion of all persons supplying labor and mate-      F.2d 939 (10th Cir. 1960), cert. denied, 365 U.S. 860
+          rial in the prosecution of the work provided for   (1961).
+          in said contract for the use of each such
+          person. .                                             The United States Court of Appeals for the Sev-
+                                                             enth Circuit addressed this issue in Arvanis v. Noslo
+40 U.S.C. § 270a(a).
+                                 30a                                                31a
+
+ Eng Consultants, Inc., 739 F.2d 1287, 1288 (7th Cir.        2. Claim Against the SBA
+
+  1984):                                                     Blue Fox seeks an order against the SBA establish-
+       The [Miller Act] places no affirmative obligation
+       on the government, and says absolutely nothing        ing an equitable lien against the amount remaining on
+       about what happens when the contractor fails to
+       furnish the bond. The Act grants a very narrow        the Dynamic Concepts, Inc. contract and directing
+       and specific right to those in appellants’ position:
+       the right to sue on the bond (if there happens to     the SBA to pay to Blue Fox from those funds the
+       be one) “in the name of the United States for the
+                                                             amount of $46,586.14.
+      use of the person suing.” 40 U.S.C. § 270b(b). . . .
+                                                             The SBA received no funds under the Verdan con-
+      There is clearly no waiver of sovereign immunity
+      here. There does seem to be a gap in the statute;      tract and has no authority to obtain funds from the
+      there is no provision for the contingency that
+      both the contractor and the government contract-       contract between the Army and Dynamic Concepts,
+      ing officer will ignore the bonding requirement.
+      However, this is not a gap that we can fill with a     Inc. The Army terminated the Verdan contract, 4nd
+      remedy—especially in view of the very narrow
+      remedy actually granted by the statute.                this termination included both Verdan as the subcon-
+   The relief sought by Blue Fox is the money dam-
+ages it suffered when Verdan failed to pay Blue Fox          tractor and the SBA as the prime contractor. There
+in full. The waiver of sovereign immunity provided by
+the APA does not apply to the claim of Blue Fox              is no res or identifiable property in the possession or
+against the Army.
+   The court concludes that it does not have jurisdic-       under the control of the SBA to which an equitable
+tion to determine the claim of Blue Fox against the
+Army. The motion of the Army for summary judg-               lien may attach.                                    .
+ment is granted.
+   B. The SBA                                                The motion of the SBA for summary judgment is
+   The SBA is unique in that the “sue and be sued”
+provisions of the Small Business Act, 15 U.S.C.              granted.
+§ 634(b)(1), provide an independent basis for jurisdic-
+tion by this court over the SBA. Jurisdiction is                               CONCLUSION
+proper over the SBA in this case.
+                                                                The motion of Blue Fox for summary judgment
+                                                             (#18) is denied. The motion of the Army and — SBA
+                                                             for summary judgment (#26) is granted. Judgment
+                                                             will be entered in favor of the Army and the SBA.
+
+                                                             DATED this 24 day of May, 1996.
+
+                                                                                         /s/ HELJE. N FRYE
+
+                                                                                               HELEN J. FRYE
+                                                                                               United States
+
+                                                                                                 District Judge
+                                32a                                                              33a
+
+                                APPENDIX D                                                       APPENDIXE
+     IN THE UNITED STATES DISTRICT COURT
+                                                                      IN THE UNITED STATES DISTRICT COURT
+             FOR THE DISTRICT OF OREGON                                       FOR THE DISTRICT OF OREGON
+
+                      Civil No. 95-612-FR                                           Civil No. CV 95-612-FR
+                                                                      BLUE Fox, INC., A WASHINGTON CORPORATION,
+      BLUE Fox, INC., A WASHINGTON CORPORATION,
+                                PLAINTIFF                                                      PLAINTIFF
+
+                                                  U.                                                               V.
+
+             THE UNITED STATES SMALL BUSINESS                                THE UNITED STATES SMALL BUSINESS
+         ADMINISTRATION; AND THE UNITED STATES                            ADMiNISTRATION; AND THE UNITED STATES
+           DEPARTMENT OF THE ARMY, DEFENDANTS
+                                                                            DEPARTMENT OF THE ARMY, DEFENDANTS
+                      Filed: May 24, 1996]
+                                                                              (Suit for Equitable Lien on Federal
+                              JUDGMENT                                                 Construction Project)
+Ix 18 HEREBY ORDERED AND ADJUDGED that
+judgment is entered in favor of the defendants and                                       INTRODUCTION
+against the plaintiff.                                                                               1.
+
+   DATED this 24 day of May, 1996.                                  This is a suit for an equitable lien by an unpaid
+                                                                  subcontractor on a federal construction project.
+                             /s/ HELEJ.NFRYE
+                                                                                               PARTIES
+                                                  HELEN J. FRYE                                      2.
+                                               United States
+                                                                     Plaintiff is a Washington Corporation engaged in
+                                                  District Judge  the construction industry.
+
+                                                                                                      3.
+                                                                     Defendant United States Small Business Admini-
+                                                                  stration (“SBA”) is an agency of the United States
+                                                                  Government. Defendant United States Department
+                                     34a                                                  35a
+
+of the Army (“Army”) is an agency of the United           cable vault underneath the new building, and provide
+States Government.                                        all electrical, fire suppression/detection systems, air
+
+                       JURISDICTION                       conditioning/heating systems, and structural details
+                                                          of the new building.
+                                 4.
+                                                                                           8
+   Jurisdiction over Defendant SBA is based on the
+Federal Question Statute, 28 USC § 1331, the Small          On October 14, 1993, Verdan and Plaintiff entered
+Business Act, 15 USC § 634(b)(1), and the Administra-     into a written subcontract agreement. Under this
+tive Procedure Act [,] 5 USC §§ 702-704 and 706.          subcontract, Plaintiff agreed to perform the construc-
+                                                          tion portion of Contract Number DAEA08-93-C-0056,
+                                   5.                     including the construction work described in para-
+                                                          graph 7 above, for a total price of $185,522.80. A subse-
+  Jurisdiction over Defendant Army is based on the        quent change order increased the price to $186,347.80.
+Federal Question Statute, 28 USC § 1331, and the          Plaintiffs subcontract price represented approxi-
+Administrative Procedure Act [,] 5 USC §§ 702-704         mately 43% of the $430,879.00 total price of the con-
+and 706.                                                  tract between Defendant SBA and Verdan.
+
+                             FACTS                                                            9.
+
+                                 6.                          Plaintiff satisfactorily completed all work under
+
+   On or about September 29, 1993, pursuant to Sec-       the subcontract. However, Verdan failed to pay
+tion S(a) of the Small Business Act, 15 USC § 637(a),
+Defendant Army awarded Contract Number DAEA08-            Plaintiff $46,586.14 which is still owing for construc-
+93-C-0056 to Defendant SBA. Defendant SBA in turn         tion work performed by Plaintiff at the Umatilla
+awarded the contract to Verdan Technology, Inc.           Army Depot.
+(“Verdan”), an eligible 8(a) contractor.
+                                                                                             10.
+                                   7.
+                                                             On or about January 3, 1995, Defendant Army is-
+   Under Contract Number DAEA08-93-C-0056, Ver-           sued a modification to Contract Number DAE A08-93-
+dan was required to install a Government Furnished
+Equipment (GFE) AT&T Definity 61 Electronic               C-0056 terminating Verdan’s contract for default.
+Switching System (ESS) at Umatilla Army Depot,
+Oregon. Item 0001 of the contract required construc-      Said termination relates to Verdan’s failure to com-
+tion of a 20 foot by 25 foot (500 square foot) concrete   plete Item 0002 of the contract, and is unrelated to ;
+block building with concrete foundation and gable roof    work provided by Plaintiff.
+in which to house the switching system. The con-
+tractor was also required to install a 6 foot by 20 foot                                     11.
+
+                                                             On January 17, 1995, Plaintiff obtained a default
+                                                          judgment in the Tribal Court of the Yakima Indian
+
+                                                          Nation against Verdan Technologies, Inc., and its of-
+                                   36a                                                           37a
+
+  ficials William J. Reubel, Jr. and Gary C. Andrews,                                        15.
+  Tribal Court Case No. C-94-77. Plaintiff has collected
+no part of said judgment. Existing liens against               By failing to ensure that a bond was in place to
+  Verdan Technologies, Inc., in the amount of $248,000      protect Plaintiff, Defendant SBA and Defendant
+  precede Plaintiff's judgment. Existing liens against      Army each violated the Miller Act 40 ,USC
+  William J. Reubel, Jr. and Gary C. Andrews far
+  exceed said individuals’ net worths.                      § 270a(a)(2).
+
+                  FIRST CLAIM FOR RELIEF                                                       16.
+                            (Equitable Lien)
+                                     12.                       Plaintiff was unaware, until approximately June 15,
+                                                            1994, that no Miller Act bond was in place for its pro-
+     Contract Number DAEA08-93-C-0056 was subject           tection. On the contrary, Plaintiff had believed such a
+  to the Miller Act, 40 USC § 270a(a)(2). Said statute      bond was in place, in part due to Verdan’s insistence
+  provides, in relevant part, that “[bJefore any contract   that Plaintiff put up a bond to protect lower tier sub-
+  for the construction, alteration or repair of any public  contractors and suppliers.
+  building or public work of the United States is
+  awarded to any person, such person shall furnish to                                          17.
+
+  the United States the following bonds. . (2) A               On June 15, 1994, Plaintiff promptly informed both
+                                                            Defendant Army and Defendant SBA in writing that
+  payment bond . . . for the protection of all persons      Plaintiff was an unpaid subcontractor, and requested
+  1 labor and material in the prosecution of the            that Verdan’s payment be suspended or reduced until
+  work.                                                     Plaintiff was fully paid.
+
+                                     13.                                                     18.
+     Plaintiff was a “person{} supplying labor and mate-
+ rial in the prosecution of the work. . . .” within the        Despite Plaintiff's request, Defendant Army fully
+ meaning of 40 USC S 270a(a)(2). As such, Plaintiff         paid Verdan for that portion of Contract Number
+ — entitled to the protection of a Miller Act payment       DAE A08-93-C-0056 performed by Plaintiff.
+     nd.
+                                                                                               19.
+                                    14.
+    Notwithstanding the requirements of 40 USC                 As a result of the failure of Defendant Army and
+                                                            Defendant SBA to ensure that a Miller Act payment
+ § 270a(a(2), no Miller Act payment bond was fur-           bond was furnished, Plaintiff has been unable to col-
+                                                            lect the $46,586.14 Verdan failed to pay.
+ nished under Contract Number DAE A08-93-C-0056 to
+ protect Plaintiff.                                                                         20.
+
+                                                               An equitable lien should therefore be placed upon
+                                                            retained funds under Contract Number DAEA08-93-
+                                 38a                        d. for an Order                    the paymentto
+
+ C-0056 to secure payment to Plaintiff of $46,586.14,       Plaintiff from said funds in the amount of $46,586.14,
+ plus interest and attorneys fees.
+                                                            plus interest and attorneyf’eess;
+                                    21.
+    In the alternative, an equitable lien should be placed  e. for a money judgment of $46,586.14;
+ on any funds available or appropriated for a follow-on
+ contract for completion of the Umatilla Army Depot         f. for Plaintiff's costs under 28 USC
+ Electronic Switching System project.
+                                                            § 2412(a)(1);
+                                 22.                               g. for interest on $46,586.14 from May 24, 1994
+    Defendants should also be enjoined from paying any
+further moneys under Contract Number DAEA08-93-             until paid under the Prompt Payment Act, 31 USC §
+C-0056, or making any payments from funds available
+or appropriated for a follow-on contract for completion     3902 and the Contract Disputes Act, 41 USC § 611;
+of the Umatilla Army Depot Electronic Switching
+System project, until Plaintiff’s unpaid bill is satis-     h. For Plaintiff's attorney’s fees under the
+fied.
+   WHEREFORE, Plaintiff prays for relief as follows:        Equal Access to Justice Act, 5 USC § 504 and 28 USC
+   1. Against Defendant Small Business Administra-
+tion:                                                       § 2412(b), and the Verdan-Blue Fox subcontract;
+
+        a. for an Order declaring that an equitable lien       2. Against Defendant Department of the Army:
+                                                                   a. for an Order declaring that an equitable lien
+exists for Plaintiff’s benefit, up to $46,586.14, plus
+                                                            exists for Plaintiff’s benefit, up to $46,586.14, plus
+interest and attorney’s fees, on retained funds under       interest and attorney’s fees, on retained funds under
+Contract Number DAE A08-93-C-0056;                          Contract Number DAE A08-93-C-0056;
+
+        b. for an Order directing payment to Plaintiff              b. for an Order directing payment to Plaintiff
+
+from said retained funds in the amount of $46,586.14,       from said retaifnunedsdin the amount of $46,586.14,
+                                                            plus interest and attorney’s fees;
+plus interest and attorney’s fees;
+                                                                    e. in the alternative, if no retained funds exist,
+        e. in the alternative, if no retained funds exist,  for an Order declaring that an equitable lien exists
+                                                            for Plaintiff's benefit, up to $46,586.14, plus interest
+for an Order declaring that an equitable lien exists        and attornfeeesy, ’onsall funds availoraabpplroperi-
+                                                            ated for a follow-on contract for completion of the
+for Plaintiff's benefit, up to $46,586.14, plus interest    Umatilla Army Depot Electronic Switching System
+
+and attorney’s fees, on all funds available or appropri-      roject,
+ated for a follow-on contract for completion of the
+Umatilla Army Depot Electronic Switching System             ies for an Order directing the payment to
+project;
+                                                            Plaintiff from said funds in the amount of $46,586.14,
+                                                            plus interest and attorneys fees;
+
+                                                                    e. in the alternative, for an injunction order-
+                                                            ing Defendant Army to pay to Defendant SBA, its
+                                                            prime contractor under Contract Number DAEA08-
+                                                            93-C-0056, $46,586.14,
+40a
+
+        f. for an injunction enjoining Defendants from
+paying any further moneys under Contract Number
+DAEA08-93-C-0056, or making any payments from
+funds available or appropriated for a follow-on con-
+tract for completion of the Umatilla Army Depot
+Electronic Switching System project, until Plain-
+tiff’s unpaid bill is satisfied;
+
+       g. for Plaintiff's costs under 28 USC
+§ 2412(a)(1);
+
+        h. for interest on $46,486.14 from May 24, 1994
+until paid under the Prompt Payment Act, 31 USC §
+3902 and the Contract Disputes Act, 41 USC § 611;
+
+        i. For Plaintiff's attorney’s fees under the
+Equal Access to Justice Act, 5 USC § 504 and 28 USC
+§ 2412(b), and the Verdan-Blue Fox subcontract;
+
+   8. For such other and further relief which may be
+equitable and just.
+
+   Respectfully submitted this 11th day of May, 1995.
+
+     i                  ING
+
+THOMAS F. SPAULDING, OSB #85003
+
+Attorney for Plaintiff
+

@@ -1,0 +1,19 @@
+[
+  {
+    "file": "tryforos-openjurist.html",
+    "url": "https://openjurist.org/518/f2d/1258/tryforos-v-icarian-development-company-s-a",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "tryforos-cap.json",
+    "url": "https://static.case.law/f2d/518/cases/1258-01.json",
+    "bytes": 43187,
+    "sha256": "e2950464d4876ecb308a6c397fe2dd5c009b9d205f542999bb3a5f741bddc661"
+  },
+  {
+    "file": "johnson.pdf",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-289/pdf/USREPORTS-289-479.pdf",
+    "bytes": 2639864,
+    "sha256": "d30baea7a383f73c32cdc3c14e120453e99f8ff38815e9ad4a83ef3be25a0765"
+  }
+]

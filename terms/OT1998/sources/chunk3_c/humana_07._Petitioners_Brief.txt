@@ -1,0 +1,805 @@
+                              a  ed
+
+                  No. 97-303         OFFICE OF THE C RK|
+
+                                In THE
+
+Supreme Court Of Che United States
+
+                     OCTOBER TERM, 1997
+
+                    HUMANA INC. AND
+  HUMANA HEALTH INSURANCE OF NEVADA, INC.,
+
+                                                      Petitioners,
+
+                                                Vv.
+
+           MARY FORSYTH, MARIETTA CADE,
+      WILLIE ANDREWS, MARY LOU BUEHLER,
+
+        HELEN STAVES, RANDOLPH BRATTON,
+            AND SEAAR UTOLGE LASS, INC.,
+                                                        Respondents.
+
+            On Writ of Certiorari to the United States
+               Court of Appeals for the Ninth Circuit
+
+  BRIEF ON THE MERITS OF PETITIONERS
+
+Of Counsel        JAWM . CE OLBES RT, III
+Robert N. Eccles  O'MEL&VMEYEN RS YLLP
+Linda J. Smith    400 South Hope Street
+Neil K. Gilman    Los Angeles,CA 90071
+Jordan McCollum   (213) 669-6000
+
+Coy, Sree Lie     Counsel ofRecord for Petitioner
+                                QUESTION PRESENTED
+               Whether the application of a federal statute -- here the
+               Racketeer Influenced and Corrupt Organizations Act
+                ("RICO")-- to the business of insurance would
+               “invalidate, impair orsuper statse leawdregeula”ting the
+               same conduct in contravention of the McCarran-
+               Ferguson Act where the state and federal statutory
+               prohibitions are parallel, but the remedies provided are
+               materially different.
+
+e sa= a iee .e
+
+iet itia
+ + «
+                                                                                     iii
+                                                                      TABLE OF CONTENTS
+
+       PARTIES TO THE PROCEEDING BELOW                                                                                          Page
+                                                                 QUESTION PRESENTED ...........0c000.
+      1. Humana Inc. ("Humana") and Humana Health
+Insurance of Nevada, Inc. ("Humana Insurance"), petitioners      PARTIES TO THE PROCEEDING BELOW ...... ii
+herein, were defendants in the district court and appellees in
+the court of appeals. Humana Insuisraawhn ollc y oewned          TABLE GP AUTOOORITIMS ow wc wee Vv
+subsidofiaHurmayna. There are no other parent
+corporations of petitioners and no nonwholly owned               REPORT OF OPINIONS BELOW ............. l
+subsidiaries; but, by reason of certain contractual obligations
+undertaken in connection with the acquisition of Humana’s        Oe   ee                  2
+former hospital operations subsequent to the events at issue
+herein, Columbia/HCA Healthcare Corporation is                   ee                       ee 2
+beneficially interested in the outcome of this litigation.
+                                                                 STATEMENT OF THE CASE .............. 3
+     2. Mary Forsyth, Marietta Cade, Willie Andrews,
+Mary Lou Buehler, Helen Staves, Randolph Bratton and             A. Summary of Material Facts and Allegations .... 3
+Searle Auto Glass, Inc., respondents here, were plaintiffs in
+the district court and appellants in the court of appeals.       B. Pertinent Procedural History ............. 5
+They were certified by the district court pursuant to Rule 23
+of the Federal Rules of Civil Procedure as representatives of    SUMMARY OF ARGUMENT .............. 8
+the classes described herein.
+
+                                                                 TEC  A waked was teem eeeeee ees 11
+
+                                                                 A. The “Inverse Preemption” Analysis Underpinning
+                                                                      the Decision Below Is Inappropriate for Application
+                                                                      of the McCarran-Ferguson Act............ 15
+TABLE OF CONTENTS - Continued                                CASES  TABLE OF AUTHORITIES               Page(s)
+                                                       Page
+                                                                                             .
+
+B. RICO’s Materia lly Different Remedies "Impair or          Amalgamated Ass'n of Street Elec. Ry. &
+                                                             Motor Coach Employees v. Lockridge,
+     Supersede” Nevada's Otherwise Parallel Insurance
+                                                               403 U.S. 274 (1971) ecooeseedecdbesesnvecees 23
+    ROW. .-0 od wva cme dee eee ase ds eres 20
+                                                             Ambrose v. Blue Cross & Blue Shield,
+1. The Language of the McCarran-FergusoAnct
+     Compels the Conclusion That It Bars RICO’S                891 F. Supp. 1153 (E.D. Va. 1995),
+    ApplTi o thc e Ba usint essiofoInsn urance .... 20         aff'd mem., 95 F.3d 41 (4th Cir. 1996) ...... 9, 25
+
+2. The History and Purpose of the McCarran-                  American Int'l Group, Inc. v. Superior
+                                                               Court, 285 Cal. Rptr. 765 (Ct.
+                                                               Cs Sata Ss660s aes leh cickwh 0 6% 24
+
+Ferguson Act Further Support the Conclusion                  Barnett Bank, N.A. v. Nelson,
+                                                               Oe ee
+That It Bars RICO’s Application to the Business                                                        ee 18, 20
+
+re                                               25
+
+CR  gs wach beta Cece ees avers 27                           Cipollone v. Liggett Group, Inc..,
+
+                                                             er     Es:  die 0 wlacraWiendle « 9, 16
+
+APPENDIX                                                     Community Communications Co. v. Boulder,
+     FULL TEXT OF McCARRAN-FERGUSON ACT la
+                                                             ee     EE 2 o'o y 0-0 be 6-0 Miia Mk 0 6 UH 15
+
+                                                             Crystal Bay Gen. Improvement Dist. v.
+                                                              Aetna Cas. & Sur. Co.,
+                                                              713 F. Supp. 1371 (D. Nev. 1989) ........... 7
+
+                                                             Department of Treasury v. Fabe,
+
+                                                             4      & fd eese Pe passim
+                          vi                                                  vii
+
+         TABLE OF AUTHORI-TCIonEtinSued                                 TABLE OF AUTHORI-TCIontEinSued
+                                                        Page(s)
+                                                                 CASES                                       Page(s)
+CASES
+
+Doe v. Norwest Bank Minnesota, N.A.,                             H.J. Inc. v. Northwestern Bell Tel. Co..,
+
+  107 F.3d 1297 (8th Cir. 1997) ..........  passim               0      RS Pe ee ee ee 24
+
+Everson v. Blue Cross & Blue Shield,                             Kenty v. Bank One, Columbus, N.A.,
+  898 F. Supp. 532 (N.D. Ohio 1994) .......... 25
+                                                                 Fk fT le Se       ee                       ee 9, 25
+
+Forsyth v. Humana, Inc..,                                        Lecv.kAeetnayCas. & Sur. Co.,
+  114 F.3d 1467 (9th Cir. 1997) ........... passim                 590 A.2d 1255 (Pa. Super. Ct. 1991) ......... 24
+
+Forsyth v. Humana, Inc.,                                         LeDuc v. Kentucky Cent. Life Ins. Co.,
+  99 F.3d 1504 (9th Cir. 1996) ............2.4-. 2                 814 F. Supp. 820 (N.D. Cal. 1992) .......... 25
+
+Forsyth v. Humana, Inc..,                                        Mackey v. Nationwide Ins. Cos..,
+  827 F. Supp. 1498 (D. Nev. 1993) ....... 2, 6, 24                724 F.2d 419 (4th Cir. 1984) ............... 9
+
+Garcia v. United States,                                         Merchants Home Delivery Serv., Inc. v.
+       EE nko ce cccvectivcsess 17, 20                             Frank B. Hall & Co.,
+CP                                                                 50 F.3d 1486 (9th Cir. 1995) ...........  6, 9, 13
+
+Garner v. Teamsters,                                             NAACP v. American Family Mut. Ins. Co..,
+  SP PED ¢ oocdevesccestostéeve’ 14
+                                                                 Ee) of Le A       eee                       8, 21
+
+Gregory v. Ashcroft,                                             NationwidMuet. Ins. Co. v. Cisneros,
+                                                                   52 F.3d 1351 (6th Cir. 1995),
+. Bre  |.                 Ser orrreaercear.n & 15
+                                                                   cert. denied, 516 U.S. 1140 (1996) ........... 8
+Group Life & HealtIhns. Co.
+
+v. Royal Drug Co.,        pc ce receded dtecseepa 19
+SES
+                                           Page(s)           TABLE OF AUTHORITIES - Continued
+                                                                                                                    Page(s)
+CASES
+                                                    CASES
+
+Paul v. Virginia,                                   United States v. South-Eastern
+  75 U.S. (8 Wall.) 168 (1869) ...........4..4. 11
+                                                    Underwriters Ass'n,
+
+                                                    ES                              SS a ee ee  11
+
+Rice v. Santa Fe Elevator Corp.,
+
+ee     or eee ee                           14       Villafane-Neriz v. FDIC,
+
+                                                    fb he     Oe                    ea          eee 8
+
+Richhart v. Metropolitan Life Ins. Co.,             Wexco Inc. v. IMC, Inc.,
+  No. 89-1725, 1990 U.S. Dist. LEXIS 3597             820 F. Supp. 194 (M.D. Pa. 1993) .......... 25
+  (E.D. Pa. March 30, 1990) ..........2000. 25
+
+Sabo v. Metropolitan Life Ins. Co.,        8, 19    STATUTES
+  137 F.3d 185 Gd Cir. 1996) .........2.-
+                                                    ee ee
+San Diego Bldg. Trades Council v.Garmon,                                 ED 6 6S wb Gad io cide 6st 2
+
+2 Fe   | eSar ae 14, 22, 23
+
+                                                    on.                             hee eioeeeees 2
+
+SEC v. National Securities, Inc..,
+
+fe     | ee ee ee eee 19                            Employee Retirement Income Security Act
+                                                      of 1974, 29 U.S.C. §§ 1001-1461 (1994) ....... 5
+
+Senich v. Transamerica Premier Ins. Co.,            McCarran-Ferguson Act,
+  766 F. Supp 339 (W.D. Pa. 1990) ........... 25       Sp ee ae ED CEDED Cbs o'weodi'n6oe 2,17
+
+Silkwood v. Kerr-McGee Corp.,                       Nevada Revised Statutes
+  GR Ws Se ns 0 FEL 04 OV eA FO 13
+                                                      §§ 686A.020-686A.040 (1997) ............. 24
+         TABLE OF AUTHORITIES - Continued                            TABLE OF AUTHORITIES - Continued
+                                                            Page(s)
+                                                                     OTHER AUTHORITIES                 Page(s)
+STATUTES
+                                                                     on ee eae cs ww we 26
+Nevada Revised Statutes
+   §§ 686A.290-686A.291 (1997) ............. 24
+
+Nevada Revised Statutes § 686A.310 (1997) ...... 7                   WEBSTER’S NEW INTERNATIONAL DICTIONARY (2d ed.
+
+                                                                     PES ceva VST KANO ORE REDOX? & Paw eS 20, 21
+
+Nevada Revised Statutes § 689B.061 (1997) ...... 4
+
+Nevada Revised Statutes
+
+hm  Re oer               ee 23
+
+Racketeer Influenced and Corrupt Organizations
+  Act, 18 U.S.C. §§ 1961-1968 (1994) ......... 3
+
+Sherman Act, 15 U.S.C. §§ 1-7 (1994) ....... 5, ll
+
+OTHER AUTHORITIES
+
+De A, De, Ge 6 CO A. Bb -0 5-60 ES ote passim
+
+The Federalist No. 45 (James Madison)
+   (Clinton Rossiter ed. 1961) .............2.- 15
+
+H.R. Rep. No. 79-68 (1945) ............005 26
+
+OXFORD ENGLISH DICTIONARY (1933) .......... 20
+                           In The
+SUPREME COURT OF THE UNITED STATES
+
+                    October Term, 1997
+
+        No. 97-303
+
+Humana      Humana Inc.   and         Inc.,
+        Health Insurance  of Nevada,  Petitioners,
+
+'       v.
+
+      Mary Forsyth, Marietta Cade,
+   Willie AndrMare y w LousBu, ehler,
+
+     Helen Staves, Randolph Bratton,
+        and Searle Auto Glass, Inc.,
+                                                   Respondents.
+
+On Writ of Certiorari to the United States
+  Court of Appeals for the Ninth Circuit
+
+BRIEF ON THE MERITS OF PETITIONERS
+
+              REPORT OF OPINIONS BELOW
+
+     The opinion of the court of appeals is reported as
+Forsyth v. Humana, Inc., 114 F.3d 1467 (9th Cir. 1997).
+That opinion withdraws and supersedes an earlier opinion of     The civil remedy provisions of RICO, 18 U.S.C. §§ 1961-
+the same court reported as Forsyth v. Humana, Inc.,99 F.3d      1968 are also implicbyatthisecdase. The full text of the
+1504 (9th Cir. 1996). The opinion of the district court is      McCarran-Ferguson Act is set forth in the Appendix hereto.
+reported as Forsyth v. Humana, Inc., 827 F. Supp. 1498 (D.      The pertinent provisions of RICO are set forth in Appendix
+Nev. 1993). The decisions of the court of appeals and the       C to the Petition for Writ of Certiorari.
+district court are found as Appendices A and B, respectively,
+to the Petition for writ of Certiorari.                                          STATEMENT OF THE CASE
+
+                          JURISDICTION                            A. Summary of Material Facts and Allegations.
+
+     The decision under review was entered by the court of           This action arises out of disputes respecting the
+appeals on May 23, 1997. That decision granted in part a        administration and interpretation of employee group health
+timely motion for rehearing filed by petitioners here           insurance policies sold by Humana Insurance in the mid-
+respecting an earlier decision entered by the court of appeals  1980’s in the State of Nevada. These policies contained a
+on November 5, 1996. This Court has jurisdiction to review      “co-payment” provision pursuant to which patients covered
+the decision at issue by writ of certiorari pursuant to 28      by the policies were obligated to pay all charges up to a
+U.S.C. §§ 1254(1) and 2101(c).                                  specified deductible and to pay 20% of charges above the
+                                                                deductible (up to a specified annual maximum). Humana
+                      STATUTES AT ISSUE                         Insurance was responsible for the remaining 80%. Joint
+                                                                App. at JA-117.
+      This case addresses principally the interpretation of
+section 2(b) of the McCarran-Ferguson Act, 15 U.S.C.                 Among other coverages, the policies covered treatment
+§ 1012(b), which provides, in pertinent part:                   at certain Nevada hospitals, incla huospditai l onwng ed by
+                                                                Humana, Humana Hospital-Sunrise ("Sunrise"). Appendix A
+      "No Act of Congress shall be construed to                 to Petition for Writ of Certiorari at 2a. (114 F.3dat 1472.)
+      invalidate, impoa r si uper rsede any law enacted by      Humana Insurance negotiated discounts with Sunrise for
+     any State for the pui,ose of regulating the business       hospital services provided to its policy beneficiaries,
+     of insurance . . . unless such Act specifically relates    substantially reducing the costs on many procedures.
+      to the business of insurance....”                         Record, CR 804, Vol. 8, Nos. 8-10. In administering the
+                                                                co-payment feature of the policies, Humana Insurance
+                                                                credited those discounts entirely to its 80% obligation.
+Policy beneficiaries continued to be billed for their 20% of        RICO (the “Co-Payor RICO Claim").?  Joint App. at
+the undiscounted hospital charge. Record, CR 804, Vol. 9,
+No. 28.                                                             JA-126-JA 131.
+
+      In amendments to its insurance law effective in 1988,            B. Pertinent Procedural History.
+Nevada prohibited this practice and required that the benefits
+of such discounts be applied, pro rata, to an insured’s co-              Petitioners moved the district court for summary
+payment obligation. See Nev. Rev. Stat. § 689B.061                  judgment on the Co-Payor RICO claim on the ground, inter
+(1997). Humana Insurance complied with that chanign elaw            alia, that the application of RICO to the claim processingat
+and has calculated co-payment obligations accordingly since         issue was barred by section 2 of the McCarran-Ferguson
+its enactment. Record, CR 804, Vol. 3, No. 13.                      Act.
+
+     Respondents, on their own behalf and on behalf of a                 The district court held that RICO was subject to the
+                                                                    limitations of the McCarran-Ferguson Act, that the conduct
+class of policy beneficiaries who made co-payments,’ have           alleged was part of the business of insurance and that the
+                                                                    conduct was subject to Nevada’s comprehensive regulatory
+alleged that Humana Insurance misrepresented to its insureds        scheme governing the business of insurance in that state
+the pertinent facts regarding its method of accounting for          which reserves to the Nevada Commissioner of Insurance
+discounts during the period when those discounts were               “exclusive jurisdiction” in regulating the trade practices of
+credited solely to its 80% obligation. Respondents have
+further alleged that these misrepresentations were made in          ? In addition to this claim for relief, respondenatlsso
+the various mailings sent by Humana Insurance to its                asserted three additcilaoimns abellow: (1) a claim under
+insureds regarding their co-payment obligations, or in              the Employee Retirement Income Security Act of 1974
+telephone conversations with insureds, and that these               ("ER'SA"), 29 U.S.C. §§ 1001-1461; (2) a claim under
+commu consn titui te mc ultipa le t predii cateoactn s ofs mail or  the Sherman Act, 15 U.S.C. §§ 1-7; and (3) a RICO claim
+wire fraud, giving rise to a claim for civil remedies under         for a class of the employers who bought the policies (the
+                                                                    "Premium Payor Class"). As noted in the Petition for
+' This class --termetdhe "Co-Payor Class" -- was                    Writ of Certiorari (p.4 n.1 and p.5 n.2), the opinions
+certified by the district court for purposes of prosecuting         below address all three claims, but only the Co-Payor
+this claim on July 9, 1991. Record, CR 364.                         RICO claim is at issue here.
+provisions addressing, and prohibiting, deceptive conduct in    RICO and Nevada insurance law did not create a conflict
+the sale or administroaftpoiliocnies. AppendiBxto
+                                                               between federal and state law sufficient to preclude
+Petition for Writ of Certiorari at 91a-97a. (827 F. Supp.at
+                                                               plaintiffs’ RICO claim.* Appendix A to Petition for Writ of
+1520-21.) The district ceurt also concluded that application   Certioart 2a5ar-2i6a. (114 F.a3t 1d480.)
+of RICO to those practices would impair Nevada’s regulatory
+                                                                     Petitioners sought review of this decibsyicerotionrari,
+scheme because RICO’s civil penalties-- principally its
+                                                               presenting as the sole question for review whether the Ninth
+treble damage provision- far exceed the penalties
+proscribed by the State of Nevada for the same conduct.        Circuit erred in concluding that the material differences in
+Appendix B to Petition for Writ of Certiorari at 95a. (827
+F. Sup at p 1521.-22.) On this reasothne diistnricgt c,ourt    * In discussing Nevada remedies, the Ninth Circuit recites
+granted summary judgment on the Co-Payor RICO claim.           in the decision below that Nevada law affords no private
+                                                               remedy to insureds for deceptive claims processing
+     On appeal, the Ninth Circuit reversed the district court  practices by insurers, a proposition that the United States
+on this issue. The court of appeals agreed with the district   questioantsp. 19 of the Brief of the United States as
+court’s determination that the conduct at issue was the        Amicus Curiae, filed in connection with the petition for
+                                                               certiorari. In fact, the applicable Nevada statute changed
+business of insurance, that Nevada regulated the conduct and   during the relevant time period. Prior to 1987, Nev. Rev.
+                                                               Stat. 686A.310, contained no provision for a private cause
+that RICO was subject to the limitations of the McCarran-      of action. In a 1987 amend Nevm adaean ddet d s, ubpart
+Ferguson Act. AppeA n tod Petiitioxn forWrit of Certiorari     (2) to this statute, expressly granting such a private cause
+                                                               of action. The federal district court for the District of
+at 22a-25a. (114 F.3d at 1479-80.)° The couofrapt peals        Nevada has held that this amendment simply reaffirmed
+                                                               existing law and that a private cause of action existed by
+did not agree, however, that the application of RICO would     implication even prior to the amendment -- see Crystal Bay
+impair Nevada's regulatsochreyme. Relyupoin n itsgthen         Gen. ImprovemeDnitst. v. AetCasn. &aSur. Co., 713 F.
+recent decision in Merchants Home Delivery Serv., Inc. v.      Supp. 1371, 1376-77 (D. Nev. 1989) -- but there is no
+Frank B. Hall & Co., 50 F.3d 1486 (9th Cir. 1995), the         reported Nevada decision to that effect, and such a
+court of appeals held that the disparity in remedies between
+                                                               reserving to the Commissioner “exclusive jurisdiction"
+ > The Ninth Circuit's affirmance on these three points is
+
+ not within the question presented and, hence, is not at
+
+ issue here and will not be addressed further in this brief.
+remedies between RICO and Nevada law did not implicate              Inc. v. FrankB. Hall& Co., supra, 50 F.3d at 1492. The
+the McCarran-FergusoAcnt. On June22, 199thi8s C,ourt                circuits finding McCarran-Ferguson preclusion have not
+issued the writ requested.                                          constrained their analysis by the special restrictive rules
+                                                                    applicable to implied federal preemption. Instead, these
+                 SUMMOFAARR GUY MENT                                courts have examined the question of whether the McCarran-
+                                                                    Ferguson Act applies to RICO using generally applicable
+     As noted in the Petition for Writ of Certiorari, the           prin of sc tatui torypinl terpe retas tion. °
+decision below is one of numerous conflicting decisions of
+the several circuits respecting the interpretation of the                The “inverse” preemption analysis embraced by the
+McCarra Actnge- neraF lly,eanr d og f itu s aps plico abiln ity to  Ninth Circuit below is logically flawed. The restrictive
+RICO specifically. That split among the circuits is reflective      implied federal preemption rules of construction are
+of a basic difference in jurisprudential approaches to the          predicated upon principles of federalism and reflect the
+issaut heand. The Ninth Circuit, like other circuits rejecting      strong presumptthiaot nthe laws of the states are to be
+the proposition that the McCarran-FeArctgpursecolundes              preserved, despite overlfaedepralpleigisnlag tion. See, e.g.,
+the application of RICO to the business of insurance, uses an       Cipollone v. Liggett Group, Inc., 505 U.S. 504, 516 (1992).
+“inverse preemption” analysis that applies to theMcCarran-          The McCarran-Ferguson Act does not involve federal
+Ferguson analythse istsrict “direct conflruliescthtat”are           interference in state regulation, but rather Congress’
+frequently applied in cases involving implied federal               voluntary withdrawal from a field seen best left to the states.
+preempoftstiatoe lnaw.° MercHohmeaDeln ivet ry s Serv.,
+                                                                    * Doe v. NorBwankeMs innetsota, N.A., 107 F.3d 1297,
+* This test for McCarran-Ferguson Act preclusion was                1305-08 (8th Cir. 1997); Kenty v. Bank One, Columbus,
+first espoused by the Seventh Circuit in NAACP v.                   N.A., 92 F.3d 384, 391-93 (6th Cir. 1996); Ambrose v.
+American Family Mutual Insurance Co., 978 F.2d 287,                 Blue Cross & Blue Shield, 891 F. Supp. 1153, 1159,
+296-97 (7th Cir. 1992), a case that did not involve RICO.           1165-68 (E.D. Va. 1995), aff'd mem., 95 F.3d 41 (4th
+Other decisions embracing it include Sabo v. Metropolitan           Cir. 1996) (unpublished memorandum). The Fourth
+                                                                    Circuit’s affirmance of Ambrose appears to reject its
+Life Insurance Co., 137 F.3d 185, 194-95 (3d Cir. 1998);            earlier and arguably contrary dictum in Mackey v.
+Villafane-Neriz v. FDIC, 75 F.3d 727, 735-36 (ist Cir.              Nationwide Insurance Cos., 724 F.2d 419 (4th Cir. 1984).
+ 1996); and Nationwide Mutual Insurance Co. v. Cisneros,
+52 F.3d 1351, 1360-63 (6th Cir. 1995), cert. denied, 516
+U.S. 1140 (1996).
+                                   10                                    11
+                                                                  ARGUMENT
+Adoption of an “inverse preemption” analysis has the
+perverse result of applying a rule of construction created out         The McCarran-Ferguson Act was the congressional
+                                                                  response to this Court’s decision in United States v. South-
+of a concern for states’ rights to circumscribe a statute that    Eastern Underwriters Ass'n, 322 U.S. 533 (1944), which
+is intended to foster those same rights.                          Overturned a long-standing presumption that the sale of
+                                                                  insurance was not commerce and, hence, was not reached by
+     The ordinary rules of statutory interpretation should be     federal law regulating interstate commerce. See, ¢.g.,
+applied to theMcCarran-FergusoAcnt. Under those rules,            Paulv. Virginia, 75 U.S. (8 Wall.) 168, 183 (1869). Asa
+the McCarran-Ferguson Act must be interpreted as                  consequence of South-Eastern, state laws on insurance,
+precluding the application of RICO to the business of             which had been thought to be the exclusive source of
+insurance. The language and history of the statute bespeak        regulation, were threatened with eclipse by federal law
+a broad preclusionary intent, not limited to “direct conflicts,”  which, if applicable at all, becomes ascendant under the
+but intended to withdraw Congress from the field absent an        supremacy clause. The McCarran-Ferguson Act was
+express congrsetatsemesntitoothne caontlrary. A federal           specini tenf deditoc prea venl t tl hat y result. Departmentof
+statute that imposes materially different remedies or             Treasuryv.Fab5e08,U.S. 49501 0 (, 1993).
+procedures than does an otherwise parallel state law
+effectively renders superfluous the state legislative decisions        The federal legislation at issue in South-Eastern was the
+respecting those remedies or procedures. Accordinglyt,he          Sherman Act, 15 U.S.C. §§ 1-7. Not surprisingly,
+application of such a statute to the business of insurance        therefore, most of the congresdebsatie oonntahelAct
+would “invalidate, impair or supersede” state law in              centered on its effect on the antitrust laws, which proved to
+derogation of theMcCarran-AFcteevrengifuthse ofedneral            be the most contentious aspect of the legislation.’ The
+law and the state law were parallel with respect to their
+substantive prohibitions.
+
+                                                                  ” The remarks of Senator Pepper are  illustrative:
+
+                                                                  "I do not oppose State regulation whicishnot
+
+                                                                  inconswiithsthte eopenrattion of the Sherman
+
+                                                                  Antitrust Act and the ClaytoAnct. On mattersof
+
+                                                                  taxation, general regulation, and all that sort of thing,
+                                   12                                                               13
+
+McCarraAnct-isF notelir mitegd u to tsheoantn itrust laws,      Circuits apply a broad rule ofMcCarran-Ferguson preclusion
+however, and provides a rule of general applicabiltiotayll      derived from the breadth of the language of the statute. On
+federal legislation, except for the statutes enumerated in      their reading of the Act, those circuits have concluded that
+section 4 of the Act and federal legislation related            material differences between state and federal law on
+                                                                remedies alone may result in preclusion of the federal law.
+specifitociansulralncye.* On this issue, there appears to be    See, e.g., Doe v. NorBwankeMisnnet sota, N.A., supra, 107
+                                                                F.3d at 1307-08. In contrast, the Ninth Circuit, and the
+no disagreement among the circuits, and the Ninth Circuit       circuits that share its view, apply a narrow rule derived from
+expressly acknowledged below that theMcCarran-Ferguson          an "inverse preemption" analysis that reasons that McCarran-
+Act would preclude the application of RICO to the insurance     Ferguson preclusion of federal law in deference to state law
+practices at issue if RICO could be said to invalidate, impair  is analogous to implied federal preemption of state law and
+or supersede Nevada law regulating the conduct.                 should be governed by the same rules. On this reasoning,
+AppeAntdo Pietixtion for Writ ofCertioraatr2i2a. (114           these circuits require a “direct conflict" between state and
+F.a3t 1d 480.)                                                  federal law, a conflict that they do not find in differences in
+                                                                the procedures or remedies provided by state and federal
+     Where the circuits diverge is on the issue of the test to  law. See, e.g., Merchants Home Delivery Serv., Inc. v.
+                                                                Frank B. Hall & Co., supra, 50 F.3d at 1492.
+apply in making the “invalidate, impair or supersede”
+                                                                  The conclusion reached by the Ninth Circuit and the others
+determination. The Eighth, Sixth and (apparently) Fourth        adopting this analysis is not free from doubt even if the
+
+      I think the States should regulate, but I :hink that now  “inverse preemption” analysis used were otherwise
+     that insurance has been brought, by the decision of the
+     Supreme Court, up to the bar of the Clayton Act and        appropriate. In concluding that even material differences in
+     the Sherman Act, we should not give the insurance          procedures or remedies would not be a “direct conflict”
+     companies immunity from the applicability of those         sufficient for implied federal preemption, the Ninth Circuit
+                                                                relies on Silkwood v. Kerr-McGee Corp., 464 U.S. 238
+       acts.”                                                   (1984). In Silkwood, however, this Court made note of the
+                                                                fact that the legislative history of the federal statute in
+91 Cong. Rec. 1444 (1945).                                      question showed a congressional intent to preserve the state
+                                                                tort remedies at issue. 464 U.S. at 251-56. This Court has
+* This Court itself applied the McCarran-Ferguson Act to
+
+the bankruptcy laws in Department of Treasury v. Fabe,
+supra, 508 U.S. at 493, 508-510.
+                                   14                                                                15
+
+elsewhere found a difference in remedies to be sufficient             - The "Inverse Preemption" Analysis Underpinning _
+state interfewriteh nfecdeeral law to require preemption.                the Decision Below IsInapprofporrAippalictateion
+E.g., Garner v. Teamsters, 346 U.S. 485, 498-99 (1953);                  of the McCarran-Ferguson Act.
+San Diego Bldg. Trades Council v.Garmon, 359 U.S. 236,
+247 (1959). Moreover, if a federal preemption analysis                One can hardly quarrel with the observation that
+were to be adopted for application of the McCarran-              McCarra pren clus- ionFofefer derag l lu aw s hasoann effect
+Ferguson Act, the “field” preemption of Rice v. Santa Fe         that is analogous to federal preemption of state law. It does
+Elevator Corp. ,331 U.S. 218 (1947) would appear to be the       not follow, however, that the two must, or should, be
+better analogy given the statutory structure and legislative     gove by r thensae me d rules. Given that the “direct conflict”
+history that demonstrates the congressional intent to leave the  test has no basis in the language of the statute, whether
+entire field of insurance regulation to the states.*             federal preemption rules should apply to a McCarran-
+                                                                 Ferguson analysis depends upon whether application of those
+     The principal flaw in the Ninth Circuit’s reasoning         rules would foster the goals of the Act. Examinatoifotnhat
+belioswnot, however, in the manner in which the court            question -- which is not addressed in the decisions of the
+applied the law of implied federal preemption. Rather, it is     Ninth Circuit or of the other circuits sharing its view --
+in the determination that those rules properly apply to the      quickly leads to the conclusion that the application of rules
+McCarran-Ferguson Act at all. As will be discussed in the        governing issues of federal preemption fosters not merely
+balance of this brief, they do not. The ordinraulresyof          different goals than the McCarran-Ferguson Act, but totally
+statutory interpretation apply and they compel the opposite      contrary goals.
+of the determination reached by the Ninth Circuit below.
+                                                                      The restrictive rules governing federal preemption are
+* The remarks of RepreseGnwytnnae, toinevofethe                  predicated upon principles of federalism. |Community
+principal proponents of the Act in the House of                  Communications Co. v. Boulder, 455 U.S. 40, 61 (1982)
+Representatives, most clearly make the point:                    (Rehnquist, J., dissenting). They reflect the structuofroeur
+                                                                 Constitution, in which the powers of the federal government
+   "What we are trying to do is to make it clear to the          “are few and defined [while those] which are to remain in
+   States and to the insurance companies that we are as far      the State governments are numerous and indefinite.”
+   as possible removing ourselves from the field.“               Gregory v. Ashcroft, 501 U.S. 452, 458 (1991) (quoting The
+91 Cong. Rec. 1090 (1945).                                       Federalist No. 45, at 292-93 (James Madison) (Clinton
+                                                                 Rossiter ed. 1961)). A strong presumption is applied that
+                                   16                                              17
+
+state laws are to be preserved if possible, despite overlapping   U.S. at 500.     Use of an “inverse preemption” analysis
+federal legislation. E.g., Cipollone v. Liggett Group, Inc.,      frustrates, not  fosters, the purposes of the McCarran-
+                                                                  Ferguson Act.
+supra, 505 U.S. at 516.
+                                                                       Use of an “inverse preemption” analysis is also
+     Simply put, the goal served by the rules of implied          inconsistent with the language and history of the Act. An
+federal preemption is deference to the sovereignty of the         “inverse preemption” test necessarily limits the preclusive
+states. When these rules are applied in the “invercsasee”of       effect of the McCarran-Ferguson Act to circumstances in
+McCarran-Ferguson preclusion, as the Ninth Circuit does,          which, but for the Act, the federal statute in question would
+their effect is itself inverted, with the rules now fosterintghe  prete he smtatp e st te™*e. Such a limitwoauldtriedoucenthe
+goal of deference to federal sovereignty.                         “invalidate, inpeii »r oupersede" formulation of the Act to
+                                                                  simply “invalidate,” \.aving “impair or supersede” without
+     No federalist principle requires such a rule since           meaning or effect in violation of the interpretive principle
+McCarran-Ferguson preclusion is a voluntary relinquishment
+of power by Congress and not a result forced upon the             that, when words are used in the disjunctive, each must be
+federal government by a clash of sovereignties. Under the
+supremacy clause, federal law prevails in such a clash in any     given its separate meaning. Garcia v. United States, 469
+event, a circumstance that further illustrates the                U.S. 70, 73 (1984).
+inappropriateness of using a principle of interpretation
+intended to protect the subservient sovereign. While the          | An “inverse preemption" analysis also includes -
+states can do nothing about federal laws that preempt their       indeed, is predicated upon -- the presumption that all federal
+own, Congress need only state that a federal statute applies      legislation applies to the business of insurance. Only where
+to insurance to avoid the preclusive effect of the McCarran-      it can be showtnhat it is impossitbo lapeply federal law
+
+Ferguson Act.                                                     without directly conflicting with state law would the
+
+      More to the point, limiting McCarran-Ferguson               applicaotfifeodenral law be preclbuy dthee dAct. The
+preclusion by applying a rule of strict deference to federal
+                                                                  structure of the McCarran-Ferguson Act is not consistent
+sovereignty would run directly contrary to the goals of the
+                                                                  with such a presusimncp e ttheiAcot pnlaces upon Congress
+Act, which this Court itself has characterized as restoring       the burden of deciding whether it wants legislation to apply
+ "the supremacy of the States in the realm of insurance           to insurance and imposes the presumption that it does not
+ regulation." Department of Treasury v. Fabe, supra, 508          “unless such Act specifically relates to the business of
+                                                                  insurance.” 15 U.S.C. § 1012(b) (1994). That this structure
+                                                                  reflects a congressional intent that the opposite presumption
+                                 18                                                              19
+
+app-l-yi.e., that federal law be presumed inapplicableto          "[Tyhe starting point in a case involving
+insurance -- is made unambigcleuaroiun lsegilsly ative            construction of theMcCarran-FerAcgt,ulsikoenthe
+history quoted and relied upon by this Court in Fabe:             starting point in any case involving the meaning of
+                                                                  @ statute, is the language of the statute itself.”
+     "What we have in mind is that the insurance            Departmenotf Treasury v. Fabe, sup 508rU.a S. a,t 500,
+     business, being interstate commerce, if we merely      quoting Group Life & Health Ins. Co. v. RoyDrauglCo.,
+     enact a law relating to interstate commerce, or if     440 U.S. 205, 210 (1979) (emphasis added)." It is this
+     there is a law now on the statute books relating in    traditional approach that should be applied here as well, and
+     some way to interstate commerce, it would not          that approach requires reversal of the decision under review.
+     apply to insurance. We wanted to be sure that the
+     Congress, in its wisdom, would act specifically with    * Contrary to the suggestion of the Third Circuit in
+     reference to insurance in enacting the law."           Sabov.Metropolitan Life Insurance Co., supra 137 F.3d
+                                                            at 194, SECv. National Securities, Inc., 393 U.S. 453
+Department of Treasury v. Fabe, supra, 508 U.S. at 507 n.7  (1969) does notprovide support fora restrictive approach
+(quoting 91 Cong. Rec. 1487 (1945) (statement of            toMcCarran-FAcetringteurprsetoatinon. As the Eighth
+Sen. Ferguson).                                             Circuit corrneotced tinlDyoe v.NorBwankeMisnnet sota,
+                                                            N.A., supra, 107 F.3d at 1307, National Securities is
+     This Court has had numerous occasions to address the   inapposite because this Court’s decision there turned on
+inter of op ther r pre ovit siona s otf ti he o McCanrran-  the issue of whether sale or issuance of securities was the
+Act over the years, most recently in Barnett Bank, N.A. v.  “business of insurance” and on the fact that the state and
+Nelson, 517 U.S. 25 (1996). On each occasion, it has        federal statutes at issue were regulating different conduct
+approached the issue using the ordinary rules of statutory  and were intended to protect entirely different interests.
+ interpretation:
+
+° Representative Gwynne made similar remarks in the
+                            ti
+House:
+... ho act of Congress governing interstate
+commerce shall apply to insurance unless the act
+
+specifically so states.”
+
+91 Cong. Rec. 1090 (1945).
+                                20                                                                  21
+
+  B. RICO’s Materially Different Remedies "Impair or            INTERNATIONAL DICTIONARY 2533 (2d Ed. 1934). Any
+                                                                federal statute that lessens the force or significance of a state
+        Supersede" Nevada’s Otherwise Parallel Insurance
+        Law.                                                    Statute, or renders that statute superfluous, “impairs or
+
+     1. The Language of the McCarran-Ferguson Act               supersedes” that state statute. Such a result can follow as
+           Compels the Conclusion ThaIttBars RICO’S             readily from a disparity in state and federal remedies as from
+          ApplToithc e Bua sinet ss i of o Insun rance.         a disparity in substantive prohibitions.
+
+     The critical interpretive question presented is the             A regulatory scheme necessarily has three components:
+meaning of “invalidate, impair or supersede” as used in the     (i) substantive prohibitions or mandates; (ii) remediefsor
+Act. Inter mustpber ginewitt h ta he wt ordi s to hemsn elves,  non-compliance; and (iii) procedural means for determining
+as this Court has often cautioned. All of the words must be     compandlimi posia ng n thecree medies. Each of these three
+considered, Garcia v. United States, sup469rU.a S. , at 73,     components is found in the law of Nevada regulating
+and the words must be given their ordinary English meaning.     insurance and in that of all the other states as well. Each of
+Barnett Bank, N.A. v. Nelson, supra, 517 U.aSt 3.8-39.          these components was the subject of legislative consideration
+                                                                by Nevada and the other states, and nothing in the
+     As already noted, “invacl oulid d beaeqt uate ed ”with     McCarraActnli- mitF s te he pr recg lusiu onas ry o effn ect of
+“preempt” and limited to the narrow circumstance of a           that Act to only the first of these three components. Byits
+conflict between state end federal law so severe as to qualify  terms, the Act also precludes the application of any federal
+for federal preembupt tfoi r tohenAct. ‘“Impair" and            Statute (other than those specifically related to insurance) that
+“supersede” cannot be so constrained, and Congress could        “impairs” or “supersedes” state law governing the remedies
+not have intended so restrictive a meaning when the Act was     or enforcement procedures included in state insurance
+passed. As reflected in the leading dictionaries of the time,   regulation.
+“impair” is to “make worse, less valuable, or weaker;” or
+"to diminish in quantity, value, excellence, or strength."           It is not a sufficient response to this point to suggest, as
+
+OXFORD ENGLISH DICTIONARY 72 (1933); WEBSTER’S NEW              have some courts, that a disparity in remedies may be
+
+INTERNATIONAL DICTIONARY 1246 (2d Ed. 1934).                    supportive of state law if the more potent federal remedies
+"Supersede” is "to make unnecessary or superfluous,” or “to     offer a greater chance “that a state norm will be
+                                                                vindicated ...." NAACP v. American Family Mut. Ins.
+force out of use as_ inferior.” WEBSTER’S NEW                   Co., supra, 978 F.2atd295. The McCarran-FergusoAnct
+
+                                                                does not contain any provision for balancing a federal
+                                   22                                    23
+
+statute’s impairment of state law on remedies against that      meee  ;      ‘                                             m
+federal statute’s supposed enhancement of the state law’s
+substantive prohibitions or mandates.                           prohibitions and to jist as much protection from state
+                                                                interference. As the Cart has observed in the context of the
+     Nor is there any basis for assuming, as this argument      federal labor laws, for example:
+implicitly does, that state legislative decisions regarding
+remedies and procedures are less reflective of policy choices   “It was precisely the realization that disparities in
+                                                                remedies and adminics oultd prroa ducte isubostanntial
+than are the decisions on substantive prohibitions.”            conflict, in the practical sense of the term, between the
+                                                                relevant state and federal regulatory schemes and that
+Indeed, such anassumption is contrary towell-established        this Court could not effectively and responsibly
+                                                                superintend on a case-by-case basis the exertion of state
+     The doctrines of exhaustion of administrartemievdiees      power over matters arguably governed by the National
+and primary jurisdiction, for example, are grounded in the      Labor Relations Act that impelled the somewhat broader
+recognition that a legislative determination to have disputes   formulation of the pre-emption doctrine in Garmon."
+determined by administrative bodies with accumulated
+experience and expertise in the applicable area of the law can  AmalgAa ss'm n a of t Stre eetdElec. Ry. & Motor Coach
+                                                                Employees v. Lockridge, 403 U.S. 274, 294-95 (1971); see
+be as significant as the decision to enact the substantive      San Diego Bldg. Trades Council v. Garmon, supra, 359
+
+regulations themselves. See, e.g., San Diego Bldg. Trades       U.Sat.245.
+Council v. Garmon, supra 359 U.S. at 244-45. As regards
+the scope of the remedies themselves, this Court has                 Why should the decisions of the Nevada legislature
+recognized that congressional determinations as to the          respecting remedies under its insurance law be given less
+                                                                digtnhaniCotngryess’ decisions on remedies under the labor
+appropriate remedy are entitled to as much respect as the       laws, partwhi ere c it ius pl lainathar t Nl evady a has, in fact,
+
+ 2 The Brief for the United States As Amicus Curiae, filed      made a policy decision against adopting the very remedies at
+
+ in connection with the Court’s consideration of the petition   issue, as evidenced by its own “little KICO” statute. Nev.
+ for certiorari, makes this argument explicitly at page 16,
+ note 10. No authority is cited, however, to support the        Rev. Stat. § 207.350-207.520 (1997). As the district court
+
+ argument.                                                      noted below, Nevada's statute allows the same treble damage
+
+                                                                remedy as RICO. Nev. Rev. Stat. § 207.470. The
+
+                                                                enumeration of predicate acts (contained in § 207.360)
+                                   24                                                              25
+
+includes provisions of Nevada's insurance law prohibiting         (1989) (RICO’s civil remedies are “drastic"). For this
+fraud by the insured (§§ 686A.290 and 686A.291) but not           reason every reported case that examines the question of
+the provisions prohibiting fraud by the insurer, (e.g.,           whether RICO impairs or supersedes state law -- other than
+§§ 686A.020, 686A.030 and 686A.040), evidencing an                the decisions adopting the restrictive “inverse preemption”
+intent by the legislature that RICO remedies not appltoythe       analysis -- reaches the conclusion that it does. See Doe v.
+cond herue act t issue. AppBe to Pn etitd ion i for x Writ of     NorBwankeMisnnet sota, N.A., supra, 107 F.3d at 1306-08;
+Certiorari at 95a, n.33. (827 F. Supp. at 1522 n.33.)
+                                                                  Kenty v. Bank One, Columbus, N.A., supra, 92 F.3d at 392:
+     Good reasons exist for rejecting draconian remedies.         Ambrosev. Blue Cross & Blue Shield, supra, 891 F. Supp.
+Such remedies may, for example, drive up the cost of
+premiums for other policy holders or, in an extreme case,         at 1165-68; Everson v. Blue Cross & Blue Shield, 898 F.
+render a carrier insolvent or otherwise impair its ability to
+honor its coverage obligations to its policy holders. Whether     Supp. 532, 544 (N.D. Ohio 1994); Wexco Inc. v. IMC, Inc..,
+the state’s reasons for its decision regarding remedies are       820 F. Supp. 194, 203-04 (M.D. Pa. 1993): LeDucv.
+good or bad is beside the point, however. Whatevetrhe             Kentucky Cent. Life Ins. Co., 814 F. Supp. 820, 829 (N.D.
+reasons, the McCarran-Ferguson Act requires that the              Cal. 1992); Richhart v. MetropoliLitfeaInns. Co., No. 89-
+                                                                  1725, 1990 U.S. Dist. LEXIS 3597, at *6-7 (E.D. Pa.
+decision be respected.”                                           March 30, 1990); Senich v. Transamerica Premier Ins. Co..
+                                                                  766 F. Supp 339, 341 (W.D. Pa. 1990).
+      This is not to say that trivial disparities in remedies or
+                                                                       2. The History and Purpose of the McCarran-
+procedures need result in McCarran-Ferguson preclusion, but
+the disparities between RICO’s remedies and those                          Ferguson Act Further Support the Conclusion That
+traditionally found in the law are hardly trivial. See H.J.
+Inc. v. Northwestern Bell Tel. Co., 492 U.S. 229, 233                        it Bars RICO’s Application to the Business of
+                                                                             Insurance.
+‘8 It is telling that the views of the state courts that have
+                                                                       The interpretation that disparity in remedies and
+considered the issue are in accord that a disparity in
+remedies does impair or supersede state law. See                  procedures “impairs or supersedes” state law also finds
+
+American Int’! Group, Inc. v. Superior Court, 285 Cal.            support in the purpose and history of theMcCarran-Ferguson
+Rptr. 765, 767-68 (Ct. App. 1991); Leckey v. Aetna Cas.           Act. As already noted, the Act was a response to South-
+ & Sur. Co., 590 A.2d 1255, 1260 (Pa. Super. Ct. 1991).           Eastern and an attempt, with limits, to turn the clock back
+
+                                                                  to the time when the states were the sole regulators of the
+                                   26                                                               27
+
+business of insurance. What conduct was allowed or              Except for the exemption from the antitrust laws provided by
+prohibited was exclusively the province of the states, and so   the Act-- ironically its main application to date-- the
+too were the remedies afforded for violation of the norms set
+by the states. As both the Senate and House reports on the      debates show a nearly unanimous sentiment to leave the
+bill that was to become the Act noted: “From its beginning
+the business of insurance has been regarded as a local          business of insurance entirely to the States.
+matter, to be subject to and regulated by the laws of the             In sum, the language, purpose and history of the
+several States.” S. Rep. No. 79-20, at 1 (1945); H.R. Rep.
+No. 79-68, at 1 (1945). The purpose of the Act was              McCarran-Ferguson Act all demonstrate a congressional
+restoration of that state control, and there is nothing in the  intent that the preclusive effect of the Act be broadly
+Act or its history that suggests that Congress did not intend   applied. None support the distinction between remedies and
+that control to include control over remedies.                  substantive prohibitions that the Ninth Circuit has embraced,
+
+     The debates on the floor of Congress are consistent with   and without which the decision below cannot stand.
+this interpretation. Various remarks of Senators Ferguson                                  CONCLUSION
+and Pepper and of Representative Gwynne have already been
+noted above. There are many others to the same effect.’              For the foregoing reasons, the decision of the United
+                                                                States Court of Appeals for the Ninth Circuit should be
+' Apt examples can be found at: 91 Cong. Rec. 481               reversed insofar as that decision addressed the Co-Payor
+(1945) (statement of Sen. Ferguson): ". . . Congress did        RICO claims. This action should be remanded with
+not want at the present time to take upon itself the
+responsibility of interfering with the taxation of insurance    it [future federal legislation] shall not apply unless
+or the regulation of insurance.”); 91 Cong. Rec. 483            Congress specifically says in an act that it shall apply to
+(1945) (statement of Sen. O’Mahoney): "Section 2(b) . . .       the business of insurance, which we are now trying to
+[is] a sort of catch-all provision to take into consideration   return to the States?"); and 91 Cong. Rec. 1442 (1945)
+other acts of Congress [other than the antitrust laws]          (statement of Sen. McCarran): ". . . we give to the States
+which might affect the insurance industry, but of which we
+did not have knowledge at the time."); 91 Cong. Rec. 485        no more powers than those they previously had [before
+(1945) (statement of Sen. Revercomb) (defending the Act         South-Eastern], and we take none from them.”").
+against amendment): “Why not let the provision stand that
+                                   28
+
+instructions that the court of appeals should 2*irm the
+summary judgment granted on that claim by the district court
+in favor of petitioners.
+
+August 6, 1998  Respectfully submitted,
+
+                JAMES W. COLBERT, Iii
+                O’MELVENY & MYERS LLP
+
+                Counsel of Record for
+
+                Petitioners
+Appendix
+  McCarran-Ferguson Act, 15 U.S.C. §§ 1011-1015
+§ 1011. Declaraotfipoolnicy
+
+  Congress hereby declares that the continued regulation
+and taxation by the several States of the business of
+insurance is in the public interest, and that silence on the
+part of the Congress shall not be construed to impose any
+barrier to the regulation or taxation of such business by
+the several States.
+
+§ 1012. Regulation by State law; Federal law relating
+    specifically to insurance; applicabioflcierttyain
+     Fedlawe s ar fteraJul ne 30, 1948
+
+(a) State regulation
+  The business of insurance, and every person engaged
+
+therein, shall be subject to the laws of the several States
+which relate to the regulation or taxation of such business.
+
+(b) Federal regulation
+
+No Act of Congress shall be construed to invalidate,
+
+impair, or supersede any law enacted by any State for the
+
+nS  ene Oe Sera Y SENN, or which
+
+imposes a fee or tax upon such business, unlesuschsAct
+
+qpecifiialiy alates t thebashante ofasecadee: Provided,
+
+That aftJuener30, 1948, the Act of July 2, 1890, as
+
+amended, known as the Sherman Act, and the Act of
+
+Octobe1r5, 1914, as amended, known as the Clayton Act,
+
+and the Act of Septembe2r6, 1914, known as the Federal
+
+Trade Commission Act, as amended [15 U.S.C. 41 et
+                                   2a                                                          3a
+
+seq.], shall be applicable to the business of insurance to    Marine Act, 1920 [46 App. U.S.C. 861 et seq. and 911 et
+the extent that such business is not regulated by State Law.
+                                                              seq.]
+§ 1013. SuspenusntiiloJnune 30, 1948, of application
+     of certain Federal laws; Sherman Act applicable to       § 1015. "State" defined
+     agreements to, or acts of, boycott, coercion, or
+     intimidation                                               As used in this chapter, the term "State" includes the
+                                                              several States, Alaska, Hawaii, Puerto Rico, Guam, and
+   (a) Until June 30, 1948, the Act of July 2, 1890, as       the Distorf i Colcumt bia.
+amended, known as the Sherman Act, and the Act of
+October 15, 1914, as amended, known as the Clayton Act,
+and the Act of Septembe2r6, 1914, known as the Federal
+Trade CommissioAnct [15 U.S.C. 41 et seq.], and the
+Act of June 19, 1936, knownas the Robinson-Patman
+Anti-Discrimination Act, shall not apply to the business of
+insurance or to acts in the conduct thereof.
+
+   (b) Nothing contained in this chapter shall render the
+said Sherman Act inapplicable to any agreement to
+boycott, coerce, or intimidate, or act or boycott, coercion,
+or intimidation.
+
+§ 1014. Effect on other laws
+
+   Nothing contained in this chapter shall be construedto
+affect in any manner the application to the business of
+insuofr theaAcn t oc f Je uly 5, 193 as 5 ame, nded, known
+as the National Labor Relations Act [29 U.S.C. 151 et
+seq.], or the Act of June 25, 1938, as amended, known as
+the Fair Labor Standards Act of 1938 [29 U.S.C. 201 et
+seq.], or the Act of June 5, 1920, known as the Merchant
+

@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 380,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;97-1642&quot; OR text:&quot;97-1642&quot; OR text__reviews:&quot;97-1642&quot;) OR (text:&quot;Blue Fox&quot; OR text:&quot;Blue Fox&quot; OR text__reviews:&quot;Blue Fox&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;97-1642&quot; OR &quot;Blue Fox&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385014_0172",
+        "title": "Department of Army v. Blue Fox, Inc., 525 U.S. 255 (1999) (No. 97-1642)"
+      }
+    ]
+  }
+}

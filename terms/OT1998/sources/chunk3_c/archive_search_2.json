@@ -1,0 +1,52 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 221,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;97-303&quot; OR text:&quot;97-303&quot; OR text__reviews:&quot;97-303&quot;) OR (text:Humana OR text:Humana OR text__reviews:Humana))",
+      "qin": "collection:us-supreme-court AND (&quot;97-303&quot; OR &quot;Humana&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 8,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385011_1273",
+        "title": "General Hospitals of Humana, Inc. v. Arkansas Statewide Health Coordinating Council, 467 U.S. 1205 (1984) (No. 83-1493)"
+      },
+      {
+        "identifier": "micro_IA40386013_0560",
+        "title": "Saenz v. Humana Health Plan of Texas, Inc., 521 U.S. 1104 (1997) (No. 96-1618)"
+      },
+      {
+        "identifier": "micro_IA40386010_0807",
+        "title": "Bekker v. Humana Health Plan, Inc., 532 U.S. 972 (2001) (No. 00-1294)"
+      },
+      {
+        "identifier": "micro_IA40385018_0729",
+        "title": "Humana Inc. v. Bowen, 474 U.S. 1055 (1986) (No. 85-431)"
+      },
+      {
+        "identifier": "micro_IA40385018_0442",
+        "title": "Heckler v. Humana of Aurora, Inc., 474 U.S. 863 (1985) (No. 85-53)"
+      },
+      {
+        "identifier": "micro_IA40386013_1445",
+        "title": "Forsyth v. Humana Inc., 522 U.S. 996 (1997) (No. 97-504)"
+      },
+      {
+        "identifier": "micro_IA40386013_1727",
+        "title": "General Practice Associates, Inc. v. Humana Inc., 522 U.S. 1050 (1998) (No. 97-802)"
+      },
+      {
+        "identifier": "micro_IA40385014_0116",
+        "title": "Humana Inc. v. Forsyth, 525 U.S. 299 (1999) (No. 97-303)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "cannon": {
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-441/pdf/USREPORTS-441-677.pdf",
+    "sha256": "512fcbe6c20fa722e4926f11bb21b90f66d882399dde61c1740c2684604bb55e",
+    "pages": 73,
+    "chars": 183621
+  },
+  "marino": {
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-484/pdf/USREPORTS-484-301.pdf",
+    "sha256": "f46596bf031eb80c2829a500b08d27c4efa9bdbf1ade95983925aff7ae01f9e5",
+    "pages": 4,
+    "chars": 8643
+  },
+  "kamen": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep500/usrep500090/usrep500090.pdf",
+    "sha256": "45db74893f39f178e7c4abe88cf040662c0a2ac7c0de7c1bd45af5e72a334f6c",
+    "pages": 20,
+    "chars": 43958
+  }
+}

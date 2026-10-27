@@ -1,0 +1,884 @@
+~ ED 
+G|,. Fie 
+
+
+; 
+
+
+No. 98-657 NOV 19 1595 
+
+
+OFFICE OF THE CLERK 
+sacs SUPREME COURT, U.S. 
+Supreme Court of the & tStates 
+October Term, 1998 
+« 
+STATE STREET BANK AND TRUST COMPANY, 
+Petitioner, 
+V. 
+
+
+SIGNATURE FINANCIAL GROUP, INC., 
+
+
+Respondent. 
+* 
+On Petition For A Writ Of Certiorari 
+
+
+To The United States Court Of Appeals 
+For The Federal Circuit 
+
+
+* 
+
+
+BRIEF IN OPPOSITION 
+¢ 
+
+
+STEVEN L. FRIEDMAN 
+Counsel of Record 
+
+THomas S. BIEMER 
+DitwortH Paxson LLP 
+3200 The Mellon Bank Center 
+1735 Market Street 
+Philadelphia, PA 19103 
+(215) 575-7140 
+
+
+and 
+
+
+STEVEN J. HENRY 
+Wotr, GREENFIELD & Sacks, P.C. 
+Federal Reserve Plaza 
+600 Atlantic Avenue 
+Boston, MA 02210 
+(617) 720-3500 
+
+
+Counsel for Respondent 
+
+
+Date: November 19, 1998 
+
+
+COCKLE LAW BRIEF PRINTING CO., (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTION PRESENTED 
+
+
+Whether the definition of patentable subject matter in 
+35 U.S.C. § 101, which includes “any new and useful 
+
+. machine,” encompasses a data processing machine 
+that produces a useful, concrete, and tangible result. 
+
+
+PARTIES TO THE PROCEEDING AND 
+DISCLOSURE UNDER SUP.CT.R. 29.6 
+
+
+The petition accurately lists the parties to the pro- 
+ceeding. Respondent Signature Financial Group, Inc., a 
+corporate defendant, has no parent companies, subsid- 
+iaries or affiliates that have issued shares to the public. 
+
+
+ill 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+SUPRERIE PUMMINREEEPS scores cctcscvccnccani meses i 
+PARTIES TO THE PROCEEDING AND DISCLOSURE 
+i PMs csc cncscccstpescssce mies il 
+pm. ee iii 
+TABLE OF AUTHORITIES .................... peas Tae 
+Deremeeeeree © BOM CASE. 2.2 ccc cece cess. 1 
+REASONS FOR DENYING THE PETITION......... 5 
+
+
+The Question Presented by State Street Is Hypo- 
+thetical and Was Not Determinative of the Federal 
+ge mumeee 5 
+
+
+The Federal Circuit’s Decision Properly Applied 
+the Statute and This Court’s Holdings ........... 7 
+
+
+State Street’s “Impact Statement” Directly Contra- 
+dicts the Policies of the Patent Act .............. 12 
+
+
+CL UG Varin ee oben bb i's s 0a s 0 ea0'e wees 16 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Arrhythmia Research Technology, Inc. v. Corazonix 
+Corp., 958 F.2d 1053, 22 USPQ 2d 1033 (Fed. Cir. 
+Ds ins his Koko Oh as eds ed to ead eee 10, 11 
+Blanchard v. Sprague, 3 F.Cas. 648 (C.C.D. Mass. 
+| ere nner Tre Teor) eet s Myre ees 15 
+
+
+Diamond v. Chakrabarty, 447 U.S. 303 (1980). .8, 9, 10, 13 
+Diamond v. Diehr, 450 U.S. 175 (1981) ....7, 8, 9, 10, 11 
+Funk Bros. Seed & Co. v. Kalo Inoculant Co., 333 U.S. 
+
+
+ay eS ere ee ee, 9 
+Gottschalk v. Benson, 409 U.S. 63 (1972)............... 9 
+In re Alappat, 33 F.3d 1526, 31 USPQ 2d 1545 (Fed. 
+
+ee. OE 2 4 eee neere “Se SP. eK 
+In re Bergy, 597 F.2d 952, 201 USPQ 352 (CCPA | 
+
+PE asic haa sine rch cn Cseaee SRR ke etd 15 
+In re Donaldson Co., 16 F.3d 1189, 29 USPQ 2d 1845 
+
+Aces ee Oe GUNES seg snus 6 eakes Kee asus seaase 2 
+In re Iwahashi, 888 F.2d 1370, 12 USPQ 2d 1908 
+
+Oe I oe ha ap ecw eae uw 11 
+In re Warmerdam, 33 F.3d 1354, 31 USPQ 2d 1754 
+
+i, ae Be welt ptce Cadeea ch ous skh a ben An Geen A 11 
+Parmer v. Fiook, 457 US. SB4 C8978) «.. <a oak cccswccuscss 9 
+
+
+CONSTITUTIONS, STATUTES AND REGULATIONS 
+
+
+Ce RN, Mee, ey Oe OO i in coe vcwscnnuvabekieenans 8 
+ee See ae ee dard eake sends cone cndeees passim 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+AUR ee ae a ee ea 
+$6 SES Uo iris Raw 
+SA Se 6 ee ee ee 
+Oe ee i ee ea ee 
+WUE OO Whos oh ek SG a 
+61 Fed. Men. 708 11996) ©. eS. 
+
+
+LEGISLATIVE MATERIALS 
+
+
+S. Rep. No. 1979, 82d Cong., 2d Sess. 5 (1952) .. 
+
+
+H.R. Rep. No. 1923, 82d Cong., 2d Sess. 6 (1952) 
+
+
+OTHER AUTHORITIES 
+
+
+A.J. Haitling, L. Druffel, F. Hilbing, Introduction to 
+Computer Programming: A Problem Solving 
+RCT RWIS os 55 6 64 DVR Sees de Raed Rand 
+
+
+Slind-Flor, Patents For Financial Programs OK, Nat’] 
+
+
+ree ame ee ee ee ere ee 
+
+
+Tam, What's Next? Getting Patents For Cold Calls?, 
+Wall St. j.. Nov. 2, 1950, 46 1, GOL. 7 2. 6. cncan, 
+
+
+wied 5 3 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioner advances a single assertion — that the sub- 
+ject matter claimed in United States Patent No. 5,193,056 
+(the “ ‘056 Patent”) is the equivalent of abstract mathema- 
+tics and, therefore, not directed to patentable subject mat- 
+ter under 35 U.S.C. § 101. The Federal Circuit, however, 
+properly recognized that the claims of the ‘056 Patent, 
+when construed in accordance with 35 U.S.C. § 112, { 6, 
+are directed to one of the explicitly enumerated catego- 
+ries of statutory subject matter contained in § 101 - 
+namely, a new and useful machine. State Street Bank and 
+Trust Company v. Signature Financial Group, Inc., 149 F.3d 
+1368, 1372, 47 USPQ 2d 1596, 1599-1600 (Fed. Cir. 1998).! 
+The Federal Circuit also properly rejected the argument 
+that a new and useful machine is abstract mathematics. 
+149 F.3d at 1373-74, App. A to Petition at A-5 to A-7. In 
+reaching its conclusion, the Federal Circuit applied the 
+plain language of § 101 and the teachings of this Court to 
+conclude that a claim directed to a new machine that 
+produces a useful, concrete and tangible result is statu- 
+tory subject matter. 
+
+
+The patented invention relates generally to a new 
+form of investment structure developed by Signature 
+Financial Group, Inc. (“Signature”). Importantly, State 
+Street Bank & Trust Company (“State Street”) concedes 
+that the claimed invention is not the financial concept per 
+se, but rather a data processing system capable of admin- 
+istering the structure. See Petition at p. 4. In short, this 
+
+
+1 Cites to the Federal Circuit’s Opinion in State Street will 
+include a citation to the Appendix filed with the Petition for 
+Writ of Certiorari (“Petition”). 
+
+
+new and useful tool allows an administrator to monitor 
+and record the financial information flow and make all 
+calculations necessary to administer the financial services 
+configuration. State Street, 149 F.3d at 1371, App. A to 
+Petition at A-4. 
+
+
+In determining that the ‘056 Patent is directed to 
+statutory subject matter, the Federal Circuit logically 
+began by construing the claims. 149 F.3d at 1371, App. A 
+to Petition at A-5. The claims are drafted in means plus 
+function format as permitted by 35 U.S.C. § 112, { 6. 
+When read in reference to the detailed specification and 
+figures, the data processing system includes a personal 
+computer programmed with software that executes 
+instructions to perform the various functions required for 
+administering the financial services configuration. For 
+example, claim 1 recites in clauses (a) through (g) specific 
+structural elements, including a computer processor 
+means and a storage means. State Street, 149 F.3d at 1371, 
+App. A to Petition at A-5 to A-6. 
+
+
+The Federal Circuit explicitly rejected the district 
+court’s analysis, advanced here by State Street, that the 
+claims could be viewed as directed to a process, with 
+each “means” clause merely representing a step in the 
+process. Id. Rather, when independent claim 1 is properly 
+construed in accordance with 35 U.S.C. § 112,] 6 and the 
+holdings of two en banc decisions of the Federal Circuit,? 
+
+
+2 See In re Alappat, 33 F.3d 1526, 1541, 31 USPQ 2d 1545, 1554 
+(Fed. Cir. 1994) (en banc) (when claims include means-plus- 
+function elements, § 112, | 6 must be applied in § 101 analysis); 
+In re Donaldson Co., 16 F.3d 1189, 1193, 29 USPQ 2d 1845, 1848 
+(Fed. Cir. 1994) (en banc) (under § 112, { 6, means-plus-function 
+
+
+it is directed to a machine with the subject matter in the 
+brackets representing the structure disclosed in the writ- 
+ten description that corresponds to the respective 
+“means” recited in the claims: 
+(1) A data processing system? for managing a 
+financial services configuration of a portfolio 
+
+
+established as a partnership, each partner being 
+one of a plurality of funds, comprising: 
+
+
+(a) computer processor means [a personal 
+computer including a CPU] for processing data; 
+
+
+(b) storage means [a data disk] for storing 
+data on a storage medium; 
+
+
+elements must be construed in light of the corresponding 
+structure described in the patent’s specification). 
+
+
+3 A “data processing system” is defined in the art as “a 
+device [a computer] capable of accepting data from some 
+external source, processing the data in accordance with a set of 
+prescribed operations, and outputting the results to some 
+extcrnal recipient. In accordance with this definition, you might 
+say that a computer is a machine that processes information and 
+can be viewed as in Figure 1-1.” 
+
+
+FIGURE 1-1 
+
+
+Data Processing System 
+
+
+Raw Data 
+L 
+Data Processing Operation 
+
+
+1 
+
+
+Useful Information 
+
+
+A.J. Haitling, L. Druffel, F. Hilbing, Introduction to Computer 
+Programming: A Problem Solving Approach, at pp. 2-3 (1983). 
+(Emphasis added.) 
+
+
+(c) first means [an arithmetic logic circuit 
+configured to prepare the data disk to magnet- 
+ically store selected data] for initializing the 
+storage medium; 
+
+
+(d) second means [an arithmetic logic cir- 
+cuit configured to retrieve information from a 
+specific file, calculate incremental increases or 
+decreases based on specific input, allocate the 
+results on a percentage basis, and store the out- 
+put in a separate file] for processing data 
+regarding assets in the portfolio and each of the 
+funds from a previous day and data regarding 
+increases or decreases in each of the funds [sic, 
+funds’] assets and for allocating the percentage 
+share that each fund holds in the portfolio; 
+
+
+(e) third means [an arithmetic logic circuit 
+configured to retrieve information from a speci- 
+fic file, calculate incremental increases and 
+decreases based on specific input, allocate the 
+results on a percentage basis and store the out- 
+put in a separate file] for processing data 
+regarding daily incremental income, expenses, 
+and net realized gain or loss for the portfolio 
+and for allocating such data among each fund; 
+
+
+(f) fourth means [an arithmetic logic cir- 
+cuit configured to retrieve information from a 
+specific file, calculate incremental increases and 
+decreases based on specific input, allocate the 
+results on a percentage basis and store the out- 
+put in a separate file] for processing data 
+regarding daily net unrealized gain or loss for 
+the portfolio and for allocating such data among 
+each fund; and 
+
+
+(g) fifth means [an arithmetic logic circuit 
+configured to retrieve information from specific 
+files, calculate that information on an aggregate 
+
+
+basis, and store the output in a separate file] for 
+processing data regarding aggregate year-end 
+income, expenses and capital gain or loss for the 
+portfolio and each of the funds. 
+
+
+149 F.3d at 1371-72, App. A to Petition at A-5 to A-7 
+(bracketed information added by the Federal Circuit.) 
+
+
+Once the claims were properly construed as a 
+machine, the Federal Circuit correctly concluded that the 
+clairns were directed to statutory subject matter. First, 
+Judge Rich,4 writing for a unanimous panel, noted that a 
+“machine” is proper statutory subject under the plain 
+terms of § 101. 149 F.3d at 1372, App. A to Petition at A-7. 
+Next, he examined whether the claimed subject matter 
+fell into any of the narrow, judicially-created exceptions. 
+In holding that it did not, the Federal Circuit applied the 
+fundamental principles announced by this Court’s hold- 
+ings on § 101 together with its own substantial body of 
+precedent. 
+
+
++ 
+
+
+REASONS FOR DENYING THE PETITION 
+
+
+The Question Presented by State Street Is 
+Hypothetical and Was Not Determinative of the 
+Federal Circuit’s Decision 
+
+
+State Street’s entire argument for certiorari is based 
+upon a flawed reading of the Federal Circuit’s decision. 
+State Street’s arguments all .ncorrectly presume that the 
+Federal Circuit held that the computer application of a 
+
+
+* It should be noted that Judge Rich was the co-author of 
+the Patent Act of 1952. 
+
+
+mathematical algorithm to produce a useful result, with- 
+out more, satisfies the requirements of § 101. Because this 
+fundamental premise is inaccurate, the petition for writ 
+of certiorari should be denied. 
+
+
+The Federal Circuit’s holding itself is crystal clear. 
+First, the Federal Circuit held that when the claims of the 
+‘056 Patent are properly construed, they are directed to a 
+new “machine” and not a “process.” State Street, 149 F. 3d 
+at 1371-72, App. A to Petition at A-5 to A-7. Next, the 
+Federal Circuit explained why this particular new 
+machine is patentable subject matter under § 101. 
+
+
+Today, we hold that the transformation of data, 
+representing discrete dollar amounts by a 
+machine through a series of mathematical calcu- 
+lations_into a final share price, constitutes a 
+practical application of a mathematical algo- 
+rithm, formula, or calculation, because it pro- 
+duces “a usefui, concrete and tangible result” — 
+a final share price momentarily fixed for record- 
+ing and reporting purposes and even accepted 
+and relied upon by regulatory authorities and in 
+subsequent trades. 
+
+
+149 F.3d at 1373, App. A to Petition at A-10 (emphasis 
+added). 
+
+
+The Federal Circuit’s holding is specific and remarka- 
+bly non-controversial: the application of an algorithm - 
+the executing software interacting with a general purpose 
+computer - as part of a new and useful machine - the 
+data processing system - capable of administrating a 
+particular financial services configuration, is patentable 
+subject matter. Rather than challenge the specific holding, 
+State Street distorts selected dicta to create an issue that 
+
+
+was not before the Federal Circuit. Consequently, the 
+question posed by State Street is solely an academic ques- 
+tion and granting the writ would bring before this Court 
+a hypothetical issue that the Federal Circuit did not 
+decide. 
+
+
+The Federal Circuit’s Decision Properly Applied 
+the Statute and This Court’s Holdings 
+
+
+The Federal Circuit properly concluded that a new 
+and useful machine that solves a practical problem by 
+producing a concrete and tangible result is patentable 
+subject matter under § 101. The Federal Circuit correctly 
+distinguished abstract scientific principles that are not 
+patentable —- a mathematical formula standing alone - 
+from claims that apply a scientific principle or algorithm 
+to otherwise statutory subject matter to produce a new 
+and useful result - a new machine capable of administer- 
+ing a financial services configuration. The Federal Cir- 
+cuit’s decision was instructed by the language of the 
+statute and this Court’s decisions. 
+
+
+As this Court has explained, an analysis of patentable 
+subject matter begins wiih the statute. Diamond v. Diehr, 
+450 U.S. 175, 182 (1981). Section 101 reads: 
+
+
+Whoever invents or discovers any new and use- 
+ful process, machine, manufacture or composi- 
+tion of matter, or any new and useful 
+improvement thereof, may obtain a patent there- 
+for, subject to the conditions and requirements 
+of this title. 
+
+
+35 U.S.C. § 101. This Court noted that the statute con- 
+tained a simple, concise legislative mandate that a patent 
+
+
+may issue for “any new and useful process, machine, 
+manufacture or composition of matter.” Diehr, 450 U.S. at 
+182. 
+
+
+Noting the broad nature of the statute, this Court 
+observed that Congress intended § 101 to include “any- 
+thing under the sun that is made by man.” Diamond v. 
+Chakrabarty, 447 U.S. 303, 309 (1980) (quoting S. Rep. No. 
+1979, 82d Cong., 2d Sess. 5 (1952); H.R. Rep. No. 1923, 
+82d Cong., 2d Sess., 6 (1952)). This Court further recog- 
+nized that, by casting statutory subject matter in broad 
+terms, Congress was fulfilling its duty under the United 
+States Constitution. Chakrabarty, 447 U.S. at 315 (“The 
+subject-matter provisions of the patent law have been cast 
+in broad terms to fulfill the constitutional and statutory 
+goal of promoting ‘the Progress of Science and the useful Arts’ 
+with all that means for the social and economic benefits 
+envisioned by Jefferson.”) (quoting U.S. Const. Art. L, § 8, 
+cl. 8.) (emphasis added). In recognition of these princi- 
+ples, the Federal Circuit explicitly reiterated this Court’s 
+warning in construing § 101: “Thus, it is improper to read 
+limitations into § 101 on the subject matter that may be 
+patented where the legislative history indicates that Con- 
+gress clearly did not intend such limitations.” State Street, 
+149 F.3d at 1373, App. A to Petition at A-8 to A-9; see also 
+Diehr, 450 U.S. at 182 (“[I]n dealing with the patent laws, 
+we have more than once cautioned that ‘courts should 
+not read into the patent laws limitations and conditions 
+which the legislature has not expressed.’ ”). 
+
+
+State Street’s entire argument violates these funda- 
+mental tenets. State Street does not challenge the Federal 
+Circuit’s finding that the claims of the ‘056 Patent are 
+directed to a new and useful machine that produces a 
+
+
+re re me 
+
+
+concrete and tangible result. Rather, State Street contends 
+that this particular new and useful machine is not patent- 
+able subject matter. In short, if this Court adopts State 
+Street’s argument, then the language in the statute - “any 
+new and useful . .. machine” - would not be applied to 
+any new and useful machine. Rather, this Court would be 
+creating a brand new statutory exception not justified by 
+the plain terms of the statute or legislative history. 
+
+
+The Federal Circuit recognized that this Court has 
+identified only three categories “of subject matter that are 
+unpatentable, namely ‘laws of nature, natural phenom- 
+ena, and abstract ideas.’ “5 State Street, 149 F.3d at 1373, 
+App. A to Petition at A-9 (quoting Diehr, 450 U.S. at 185). 
+This Court explained the rationale behind this narrow 
+limitation: 
+
+
+“TA] new mineral discovered in the earth or a 
+new plant found in the wild is not patentable 
+subject matter. Likewise, Einstein cculd not pat- 
+ent his celebrated law that E=mc?, nor could 
+Newton have patented the law of gravity. Such 
+discoveries are manifestations of . . . nature, free 
+to all men and reserved exclusively to none.” 
+
+
+Diehr, 450 U.S. at 185 (quoting Chakrabarty, 447 U.S. at 
+309.) 
+
+
+5 State Street emphasizes this Court’s holdings in Parker v. 
+Flook, 437 U.S. 584 (1978) and Gottschalk v. Benson, 409 U.S. 63 
+(1972). But in Diehr, this Court explained that those decisions 
+“stand for no more than these long-established principles” that 
+abstract ideas and natural phenomena are not patentable. Diehr, 
+450 U.S. at 185 (citing Chakrabarty, 447 U.S. at 309 and Funk Bros. 
+Seed & Co. v. Kalo Inoculant Co., 333 U.S. 127, 130 (1948)). 
+
+
+10 
+
+
+In applying that rationale to mathematical algo- 
+rithms, this Court recognized that a mathematical for- 
+mula may describe a law of nature, a scientific truth or an 
+abstract idea. Importantly, this Court also recognized that 
+mathematics may be used to describe steps of a statutory 
+method or elements of a statutory machine. Id. at 188; see 
+also Arrhythmia Research Technology, Inc. v. Corazonix Corp., 
+958 F.2d 1053, 1056, 22 USPQ 2d 1033, 1035 (Fed. Cir. 
+1993). The crucial distinction, properly recognized and 
+applied by Judge Rich below, is whether each claim, 
+when viewed as a whole, recites a mathematical formula 
+either in the abstract or as part of an invention, such as a 
+machine, within § 101. Id. at 192; see also In re Alappat, 33 
+F.3d at 1545, 31 USPQ 2d at 1558 (“a computer .. . is 
+apparatus, not mathematics.”). 
+
+
+Measuring the claims of the ‘056 Patent against the 
+plain text of § 101 and the fundamental principles in 
+Diehr and Chakrabarty, the Federal Circuit concluded that 
+the claims are directed to patentable subject matter. In 
+reaching its conclusion, the Federal Circuit recognized 
+the crucial distinction between abstract science that is not 
+patentable subject matter — pure mathematics — and 
+applied science to achieve a particular, useful result — 
+programming a computer to create a new machine to 
+solve a particular problem. State Street, 149 F.3d at 
+1373-74, App. A to Petition at A-9 to A-10. 
+
+
+State Street attempts to avoid this distinction by 
+improperly focusing solely on the part of the claim that 
+can be expressed as an algorithm while ignoring other 
+parts of the claim — such as the “computer processor 
+means” and the “storage means” —- that clearly define 
+apparatus to implement a specific functionality. State 
+
+
+11 
+
+
+Street’s approach was rejected by this Court in Diehr: “It 
+is inappropriate to dissect the claims into old and new 
+elements and then to ignore the presence of the old 
+elements in the [§ 101] analysis.” 450 U.S. at 188. As the 
+Federal Circuit correctly observed, the focus in any statu- 
+tory subject matter analysis must be on the “claim as a 
+whole.” Diehr, 450 U.S. at 192; Alappat, 33 F.3d at 1543, 31 
+USPQ 2d at 1557. When the claims of the ‘056 Patent are 
+viewed as a whole, they are clearly directed to a new and 
+useful machine capable of solving a practical problem by 
+producing a tangible and concrete result. According to 
+the plain terms of the statute and this Court’s teachings, 
+such claims are statutory. 
+
+
+The Federal Circuit also examined its own substantial 
+body of established precedent to reach the result below. 
+Specifically, the Federal Circuit examined its precedent 
+since Diehr in 1981 and applied the holdings and logic in 
+those cases to the technology and claims involved in the 
+‘056 Patent.® State Street, 149 F.3d at 1373-75, App. A to 
+Petition at A-10 to A-13. That precedent clearly confirmed 
+that claims directed to an admittedly new and useful 
+machine capable of producing a concrete and tangible 
+result to solve a practical problem meet the requirements 
+of § 101. 
+
+
+© The decisions analyzed included, inter alia, In re Alappat, 
+33 F.3d 1526, 31 USPQ 2d 1545 (Fed. Cir. 1994) (en banc); In re 
+Warmerdam, 33 F.3d 1354, 31 USPQ Za 1754 (Fed. Cir. 1994); 
+Arrhythmia Research Technology Inc. v. Corazonix Corp., 958 F.2d 
+1053 (Fed. Cir. 1992); and In re Iwahashi, 828 F.2d 1370, 12 USPQ 
+2d 1908 (Fed. Cir. 1989). 
+
+
+12 
+
+
+State Street also makes passing reference to the so- 
+called “business method exception” as a basis for its 
+conclusion that the claims are not directed to statutory 
+subject matter. Petition at p. 5. The Federal Circuit, how- 
+ever, correctly took the “opportunity to put this ill-con- 
+ceived exception to rest.” State Street, 149 F.3d at 1375, 
+App. A to Petition at A-13. Judge Rich noted that the 
+business method exception “has never been invoked by 
+[the Federal Circuit], or the CCPA, to deem an invention 
+unpatentable” and that the U.S. Patent and Trademark 
+Office Guidelines specifically reject use of the exception. 
+149 F.3d at 1375-77, App. A to Petition at A-14 to A-17 
+(citing Examination Guidelines, 61 Fed. Reg. 7478, 7479 
+(1996)). 
+
+
+State Street’s “Impact Statement” Directly 
+Contradicts the Policies of the Patent Act 
+
+
+State Street argues that it would be “unwise and 
+unfair to now subject to the burdens of the patent system 
+activities that have long been outside its ambit” and that 
+if “such a fundamental change is to be made, it is Con- 
+gress that should do so.”” Petition at p. 11. State Street 
+
+
+7 State Street’s inference that the Federal Circuit’s decision 
+is a drastic, unwanted change in the industry is refuted by the 
+facts. At the time of the decision, there were already over 20,000 
+financial-instrument patents that had issued. See Victoria Slind- 
+Flor, Patents For Financial Programs OK, the National Law 
+Journal, Aug. 10, 1998, at p. 1, col. 1. Indeed, the ease with which 
+the financial services industry has embraced the patent system 
+is demonstrated by the fact that a unit of State Street recently 
+received a patent for a data processing system that helps select 
+stocks and construct portfolios. See Pui-Wing Tam, What's Next 
+
+
+13 
+
+
+has it exactly backwards. Congress has already provided 
+in § 101 that “any new and useful . . . machine” is 
+patentable. As this Court has recognized, it would be 
+inappropriate for the Court to entertain argument regard- 
+ing whether it would be “unwise and unfair” to limit 
+otherwise statutory subject matter on policy grounds: 
+
+
+The choice we are urged to make is a matter of 
+high policy for resolution within the legislative 
+process after the kind of investigation, examina- 
+tion, and study that legislative bodies can pro- 
+vide and courts cannot. That process involves 
+the balancing of competing values and interests, 
+which in our democratic system is the business 
+of elected representatives. Whatever their val- 
+idity, the contentions now pressed on us should 
+be addressed to the political branches of the 
+Government, the Congress and the Executive, 
+and not to the courts. 
+
+
+Chakrabarty, 447 U.S. at 317. 
+
+
+A computer is a well-known piece of apparatus that 
+is patentable under § 101 just like any other tool or 
+machine. When that machine is programmed to perform a 
+particular useful function that produces a concrete and 
+tangible result, it becomes a new and useful machine. See 
+Alappat, 33 F.3d at 1545, USPQ 2d at 1557. State Street, 
+unable to avoid this logical conclusion, attacks the patent 
+system itself and diverts the analysis to theoretical dan- 
+gers of patent protection in the financial services indus- 
+try. In short, State Street argues that the financial services 
+industry is somehow different from all other industries 
+
+
+Getting Patents For Cold Calls, Wall Street Journal, Nov. 2, 1998, at 
+C1, col. 1. 
+
+
+14 : 
+
+
+and should be sheltered from imagined harm caused by 
+aliowing inventors in this industry to obtain patents. This 
+argument concludes that no innovation, no matter how 
+novel, unique, unobvious and useful, warrants patent 
+protection if it affects the financial services industry. 
+
+
+This conclusion, however, would directly undermine 
+the policy behind the Patent Act. As explained by the 
+Federal Circuit, the incentives offered by patent protec- 
+tion have served this country well as an engine for foster- 
+ing innovation: 
+
+
+Law and public policy intertwine in embracing 
+new fields in the scope of section 101. Patent 
+law has nicely fostered technological advance in 
+the United States, for its principles are partic- 
+ularly suited to a free market system: it requires 
+neither governmental intrusion nor federal 
+funds to provide the incentive for industrial 
+innovation; the innovation incentive is the direct 
+consequence of the patent grant. I know of no 
+major technological advance, no new industry 
+or evolving technology, that has not participated 
+in the patent system. It is estimated that 85-90% 
+of the world’s technology is disclosed only in 
+patent documents. Justice Story’s words at the 
+threshold of our nation’s industrialization have 
+been reinforced by experience: 
+
+
+Patents for inventions are now treated as a 
+just reward to ingenious men, and as highly 
+beneficial to the public, not only by holding 
+out suitable encouragement to genius and 
+talents and enterprise; but as ultimately 
+securing to the whole community great 
+advantages from the free communication of 
+secrets, and processes, and machinery, 
+which may be most important to all the 
+
+
+15 
+
+
+great interests of society, to agriculture, to 
+commerce and to manufactures, as well as 
+to the cause of science and art. 
+
+
+Alappat, 33 F.3d at 1570-71, 31 USPQ 2d at 1579 (quoting 
+Blanchard v. Sprague, 3 F.Cas. 648, 650 (C.C.D. Mass. 
+1839)). The Federal Circuit’s decision is squarely in line 
+with public policy. 
+
+
+State Street’s argument that Congress should act to 
+extend patent protection to computer-implemented 
+inventions in the financial services industry is invalid. 
+Congress has purposely acted by choosing the broad 
+language of § 101. This Court should not read limitations 
+into the statute where none are present or intended. 
+Chakrabarty, 447 U.S. at 308. Indeed, if an entire industry 
+or technology is to be carved out of § 101, it is Congress 
+that must do so. Id. at 317. 
+
+
+Finally, State Street’s contention that the practical 
+consequences of the decision “are of an unprecedently 
+broad scope” is a litigant’s exaggeration. Petition at p. 6. 
+The Federal Circuit’s decision addressed only the narrow 
+issue of patentable subject matter under § 101. Section 
+101 is merely “ ‘[t]he first door which must be opened on 
+the difficult path to patentability[.]’ ” State Street, 149 F.3d 
+at 1372 & n. 2, App. A to Petition at A-8 & n. 2. (quoting In 
+re Bergy, 597 F.2d 952, 960, 201 USPQ 352, 360 (CCPA 
+1979)). Of course, to secure a patent, the claimed inven- 
+tion must also meet the other requirements of Title 35, 
+including §§ 102 (novelty), 103 (nonobviousness) and 112, 
+11 1 and 2 (enablement and particularity). These provi- 
+sions are more than adequate to guard against the theo- 
+retical dangers raised by State Street. 
+
+
++ 
+
+
+16 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the petition for a writ of 
+certiorari should be denied. 
+
+
+Respectfully submitted, 
+
+
+STEVEN L. FRIEDMAN 
+Counsel of Record 
+
+THomas S. BIEMER 
+
+DitwortH Paxson LLP 
+
+
+STEVEN J. HENRY 
+Wotr, GREENFIELD & Sacks, P.C. 
+
+

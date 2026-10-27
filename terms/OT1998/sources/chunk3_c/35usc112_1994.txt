@@ -1,0 +1,183 @@
+§ 112  TITLE 35—PATENTS                                        Page 24
+
+tions filed in the United States on or after that effec-       540, 60 Stat. 427, as amended [section 1051 et seq. of
+tive date, with provisions relating to earliest filed pat-     Title 15, Commerce and Trade]; the Atomic Energy Act
+ent application, see section 534(b)(1), (3) of Pub. L.         of 1954, Pub. L. 83–703, 68 Stat. 919, as amended [section
+103–465, set out as a note under section 154 of this title.    2011 et seq. of Title 42, The Public Health and Welfare];
+                                                               and the National Aeronautics and Space Act, Pub. L.
+              EFFECTIVE DATE OF 1982 AMENDMENT                 85–568, 72 Stat. 426 (1958), as amended [section 2451 et
+                                                               seq. of Title 42]. In cases involving the Atomic Energy
+   Amendment by Pub. L. 97–247 effective six months            Act of 1954 [section 2011 et seq. of Title 42] or the Na-
+after Aug. 27, 1982, see section 17(c) of Pub. L. 97–247, set  tional Aeronautics and Space Act [section 2451 et seq.
+out as an Effective Date note under section 294 of this        of Title 42], determinations of relief shall be made by
+title.                                                         a Board of Patent Interferences. In other cases deter-
+                                                               minations shall be made by the Commissioner of Pat-
+EMERGENCY RELIEF FROM POSTAL SITUATION AFFECT-                 ents and Trademarks.
+   ING PATENT, TRADEMARK, AND OTHER FEDERAL
+   CASES                                                          ‘‘SEC. 3 [Regulations]. The Commissioner of Patents
+                                                               and Trademarks may establish regulations for admin-
+   Pub. L. 92–34, June 30, 1971, 85 Stat. 87, as amended by    istering this Act.’’
+Pub. L. 93–596, § 3, Jan. 2, 1975, 88 Stat. 1949, provided
+that:                                                                                       CROSS REFERENCES
+
+   ‘‘SECTION 1 [Claim and verified statement for benefit          Fees, see sections 41 and 42 of this title.
+of earlier filing date; prior art; evidence of entitled fil-      Provisions of this chapter applicable to applications
+ing date in any proceedings]. (a) A patent or trademark        for reissue of patents, see section 251 of this title.
+application shall be considered as having been filed in
+the United States Patent and Trademark Office on the                       SECTION REFERRED TO IN OTHER SECTIONS
+date that it would have been received by the Patent
+and Trademark Office except for the delay caused by               This section is referred to in section 119 of this title.
+the emergency situation affecting the postal service
+which began on March 18, 1970, and ended on or about           § 112. Specification
+March 30, 1970, if a claim is made for the benefit of an
+earlier date in accordance with subsections (b) and (c)           The specification shall contain a written de-
+of this section. Patents issued with earlier filing dates      scription of the invention, and of the manner
+afforded by this section shall not be effective as prior       and process of making and using it, in such full,
+art under subsection 102(e) of title 35 of the United          clear, concise, and exact terms as to enable any
+States Code as of such earlier filing dates.                   person skilled in the art to which it pertains, or
+                                                               with which it is most nearly connected, to make
+   ‘‘(b) No patent or trademark application, patent, or        and use the same, and shall set forth the best
+trademark registration shall be entitled to an earlier         mode contemplated by the inventor of carrying
+filing date under this section unless a verified state-        out his invention.
+ment by the applicant or owner of record claiming the
+filing date to which the application is believed to be en-        The specification shall conclude with one or
+titled is filed in the Patent and Trademark Office with-       more claims particularly pointing out and dis-
+in six months after enactment of this Act [June 30,            tinctly claiming the subject matter which the
+1971]. Such statement shall be maintained in the file of       applicant regards as his invention.
+the application in the Patent and Trademark Office
+and shall be referred to in the patent or trademark reg-          A claim may be written in independent or, if
+istration when practicable.                                    the nature of the case admits, in dependent or
+                                                               multiple dependent form.
+   ‘‘(c) When a statement filed under subsection (b) of
+this section appears unreasonable or defective on its             Subject to the following paragraph, a claim in
+face, or when the filing date of the patent or trademark       dependent form shall contain a reference to a
+application, patent, or trademark registration is called       claim previously set forth and then specify a
+into question or is material in any inter partes pro-          further limitation of the subject matter
+ceeding in the Patent and Trademark Office or any pro-         claimed. A claim in dependent form shall be
+ceeding in the courts, the applicant or owner of such          construed to incorporate by reference all the
+application, patent, or trademark registration may be          limitations of the claim to which it refers.
+required to present evidence establishing the filing
+date to which the application is entitled. The filing             A claim in multiple dependent form shall con-
+date to which the application is entitled shall be deter-      tain a reference, in the alternative only, to more
+mined on the basis of such evidence and any evidence           than one claim previously set forth and then
+introduced by an opposing party. The evidence shall be         specify a further limitation of the subject mat-
+presented as directed by the Commissioner of Patents           ter claimed. A multiple dependent claim shall
+and Trademarks in proceedings in the Patent and                not serve as a basis for any other multiple de-
+Trademark Office or as directed by the courts in pro-          pendent claim. A multiple dependent claim shall
+ceedings in the courts.                                        be construed to incorporate by reference all the
+                                                               limitations of the particular claim in relation to
+   ‘‘SEC. 2 [Delayed fees or actions, excusal; relief re-      which it is being considered.
+quest; date; applicability to Federal laws; determina-
+tion of relief]. (a) Except for the filing of a patent or         An element in a claim for a combination may
+trademark application, if any action is taken or any fee       be expressed as a means or step for performing
+is paid in the United States Patent and Trademark Of-          a specified function without the recital of struc-
+fice later than the end of a time period specified in the      ture, material, or acts in support thereof, and
+statutes set forth in subsection (b) of this section for       such claim shall be construed to cover the cor-
+taking such action or paying such fee, and no provision        responding structure, material, or acts described
+exists in law for excusing such delay, the delay may be        in the specification and equivalents thereof.
+excused if it is determined that it was caused by the
+emergency situation affecting postal service which             (July 19, 1952, ch. 950, 66 Stat. 798; July 24, 1965,
+began on March 18, 1970 and ended on or about March            Pub. L. 89–83, § 9, 79 Stat. 261; Nov. 14, 1975, Pub.
+30, 1970. Relief under this section must be requested by       L. 94–131, § 7, 89 Stat. 691.)
+a verified statement filed in the Patent and Trademark
+Office by the patent or trademark applicant or owner                             HISTORICAL AND REVISION NOTES
+within six months after enactment of this Act [June 30,
+1971].                                                            Based on Title 35, U.S.C., 1946 ed., § 33 (R.S. 4888,
+                                                               amended (1) Mar. 3, 1915, ch. 94, § 1, 38 Stat. 958; (2) May
+   ‘‘(b) This section is applicable to title 35, United        23, 1930, ch. 312, § 2, 46 Stat. 376).
+States Code, ‘Patents’; the Trademark Act of 1946, ch.
+Page 25  TITLE 35—PATENTS                                      § 115
+
+   The sentence relating to signature of the specifica-        than two months from the sending of a notice
+tion is omitted in view of the general requirement for         thereof. Drawings submitted after the filing
+a signature in section 111.                                    date of the application may not be used (i) to
+                                                               overcome any insufficiency of the specification
+   The last sentence is omitted for inclusion in the           due to lack of an enabling disclosure or other-
+chapter relating to plant patents.                             wise inadequate disclosure therein, or (ii) to
+                                                               supplement the original disclosure thereof for
+   The clause relating to machines is omitted as unnec-        the purpose of interpretation of the scope of any
+essary and the requirement for disclosing the best             claim.
+mode of carrying out the invention is stated as gener-
+ally applicable to all types of invention (derived from        (July 19, 1952, ch. 950, 66 Stat. 799; Nov. 14, 1975,
+Title 35, U.S.C., 1946 ed., § 69, first defense).              Pub. L. 94–131, § 8, 89 Stat. 691.)
+
+   The clause relating to the claim is made a separate                           HISTORICAL AND REVISION NOTES
+paragraph to emphasize the distinction between the de-
+scription and the claim or definition, and the language           Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4889,
+is modified.                                                   amended Mar. 3, 1915, ch. 94, § 2, 38 Stat. 958).
+
+   A new paragraph relating to functional claims is               The requirement for signature in the corresponding
+added.                                                         section of existing statute is omitted; regulations of
+                                                               the Patent Office can take care of any substitute. A re-
+                                  AMENDMENTS                   dundant clause is omitted.
+
+   1975—Pub. L. 94–131 substituted provision authorizing                                         AMENDMENTS
+the writing of claims, if the nature of the case admits,
+in dependent or multiple dependent form for prior pro-            1975—Pub. L. 94–131 substituted provisions respecting
+vision for writing claims in dependent form, required          drawings requiring necessary-for-understanding draw-
+claims in dependent form to contain a reference to a           ings and submission of drawings within prescribed time
+claim previously set forth and then specify a further          period and limiting use of drawings submitted after fil-
+limitation of the subject matter claimed, substituted          ing date of application for prior provision requiring the
+text respecting construction of a claim in dependent           applicant to furnish a drawing when the nature of the
+form so as to incorporate by reference all the limita-         case admitted it.
+tions of the claim to which it refers for prior text for
+construction of a dependent claim to include all the                         EFFECTIVE DATE OF 1975 AMENDMENT
+limitations of the claim incorporated by reference into
+the dependent claim, and inserted paragraph respecting            Amendment by Pub. L. 94–131 effective Jan. 24, 1978,
+certain requirements for claims in multiple dependent          and applicable on and after that date to patent applica-
+form.                                                          tions filed in the United States and to international ap-
+                                                               plications, where applicable, see section 11 of Pub. L.
+   1965—Pub. L. 89–83 permitted a claim to be written in       94–131, set out as an Effective Date note under section
+independent or dependent form, and if in dependent             351 of this title.
+form, required it to be construed to include all the lim-
+itations of the claim incorporated by reference into the                                    CROSS REFERENCES
+dependent claim.
+                                                                  Annexation of drawings to issued patent, see section
+              EFFECTIVE DATE OF 1975 AMENDMENT                 154 of this title.
+
+   Amendment by Pub. L. 94–131 effective Jan. 24, 1978,           Design patents, see section 171 of this title.
+and applicable on and after that date to patent applica-
+tions filed in the United States and to international ap-                  SECTION REFERRED TO IN OTHER SECTIONS
+plications, where applicable, see section 11 of Pub. L.
+94–131, set out as an Effective Date note under section           This section is referred to in section 111 of this title.
+351 of this title.
+                                                               § 114. Models, specimens
+              EFFECTIVE DATE OF 1965 AMENDMENT
+                                                                  The Commissioner may require the applicant
+   Amendment by Pub. L. 89–83 effective three months           to furnish a model of convenient size to exhibit
+after July 24, 1965, see section 7(a) of Pub. L. 89–83, set    advantageously the several parts of his inven-
+out as a note under section 41 of this title.                  tion.
+
+                             CROSS REFERENCES                     When the invention relates to a composition
+                                                               of matter, the Commissioner may require the
+   Amendment introducing new matter in disclosure,             applicant to furnish specimens or ingredients for
+see section 132 of this title.                                 the purpose of inspection or experiment.
+
+   Amendments generally, see section 251 et seq. of this       (July 19, 1952, ch. 950, 66 Stat. 799.)
+title.
+                                                                                 HISTORICAL AND REVISION NOTES
+   Annexation of specification to issued patent, see sec-
+tion 154 of this title.                                           Based on Title 35, U.S.C., 1946 ed., § 34, part (R.S. 4890
+                                                               and 4891).
+   Description of plant patents, see section 162 of this
+title.                                                            The change in language in the second paragraph
+                                                               broadens the requirement for specimens.
+   Disclaimer, see section 253 of this title.
+   Reissue of defective patents, see section 251 of this       § 115. Oath of applicant
+title.
+                                                                  The applicant shall make oath that he be-
+            SECTION REFERRED TO IN OTHER SECTIONS              lieves himself to be the original and first inven-
+                                                               tor of the process, machine, manufacture, or
+   This section is referred to in sections 41, 111, 119, 120,  composition of matter, or improvement thereof,
+157, 162, 282 of this title.                                   for which he solicits a patent; and shall state of
+                                                               what country he is a citizen. Such oath may be
+§ 113. Drawings                                                made before any person within the United
+                                                               States authorized by law to administer oaths,
+   The applicant shall furnish a drawing where                 or, when, made in a foreign country, before any
+necessary for the understanding of the subject
+matter sought to be patented. When the nature
+of such subject matter admits of illustration by
+a drawing and the applicant has not furnished
+such a drawing, the Commissioner may require
+its submission within a time period of not less
+

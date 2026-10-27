@@ -1,0 +1,2249 @@
+No. 98-1642 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1998 
+THE UNITED STATES DEPARTMENT OF THE ARMY, 
+Petitioner, 
+vs. 
+BLUE FOX, INC., 
+Respondent. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Ninth Circuit 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+THOMAS F. SPAULDING 
+Counsel of Record 
+DAVID A. WEBSTER 
+SPAULDING, COX & 
+SCHAEFFER, LLP 
+Attorneys for Respondent 
+1205 N.W. 25th Avenue 
+Portland, Oregon 97210-2497 
+(503) 222-3815 
+
+
+QUESTION PRESENTED 
+
+
+Is a subcontractor’s suit to enforce an equitable lien against 
+the United States a suit for “money damages” within the 
+meaning of the Administrative Procedure Act, 5. U.S.C. § 
+702, and this Court’s decision in Bowen v. Massachusetts, 
+487 U.S. 879 (1988). 
+
+
+TABLE OF CONTENTS 
+Page 
+IE III oa ccncecnscccccccesecesorcoretscrsnsscesscennconenaveenneesnnstens i 
+I ii 1. 0 ccnciscscnssvesscoscebatbestnastenenbmncseenenisetanen il 
+Table of Authorities.................:.ccsscsscsscssssssessesseesessesseenenenes iii 
+TEs cass sindncdncosntvcocesnesssonevenseinnreetinntenwemnsenten l 
+Summary Of Argument ...............ssssesssseeseseneseesnsenerersensnnnnnes 5 
+Respondent's Equitable Lien Action Presents A 
+Claim “Other Than Money Damages” For Which 
+5 U.S.C. 702 Waives 
+UII sii ieiiies sadbcieipslis dutanasedcnaligeemineranemenqnececsenenees 10 
+A. Respondent Seeks To Enforce Equitable 
+Rights Which Arise By Operation of 
+AI cachicnsitjnediontciiicishanitnensigdseisscatencearerneneteee 10 
+B. Section 702 Waives Immunity For Equitable 
+Liens, Which Are Not "Money 
+BIT iissit dnsertbccrtcvevesenbsatinscocnnmemseseastnannesessese 12 
+1. An Equitable Lien Is Historically Distinct 
+From Damage ..........:s-essssserssereeeneenneneeennes 13 
+2. An Equitable Lien Falls Outside Bowen's 
+Definition of "Damages" ..................cs00e0 16 
+3. Petitioner Fails to Demonstrate That an 
+Equitable Lien is "Damages"..................-0+++ 17 
+a. Dissipation of Contract Monies Did Not 
+Create a "Money Damages” 
+I adil nlints deshbbiesiesbeeiismsedateenncctannecenaccescece 18 
+b. Petitioner's Remaining "Damages" 
+use seman tmamamalal 
+C. The Appropriations Clause Does Not Bar 
+TION cclusieistiibblieiieitaithiatibiaundsnjalecqeimimammnecceinensanets 25 
+D. Section 702 Is Not Limited To Claims Enforcing 
+Statutory Mandates. ...........:ccssssesesseeseeeceesnenees 29 
+1. Nothing in the APA, Its Legislative 
+History, nor in Bowen Is So 
+
+
+ws 
+I  dieccctneslinissceshiltneniiadhcicespentinttnnncecentnnenhe 29 
+2. An Equitable Lien Is Distinguishable 
+RSE EES Sa 31 
+II. Respondent’s Suit Seeks Judicial Review of 
+I Fe cercttenescestiersmeneneennistdticticbatibimaiitiaes 33 
+III. Relief Under Section 702 Is Not Impliedly Forbidden 
+a Sy cca dhheiinctesitissiibbeedctinetiilininkecasemsnmet 36 
+A. The Tucker Act Does Not Impliedly 
+Forbid Enforcement of an Equitable 
+Sli creslcsnscociniinsatinniiticiiasditlingsatciaitbinicseanineseenevenass 36 
+B. The Miller Act Does Not Impliedly Forbid 
+Enforcement of an Equitable Lien................ 39 
+Cre ecicacestieniciniabstsebiarethesinstinslinesiemsemnasatsionsensntel 43 
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Active Fire Sprinkler Corp. v. United States Postal Serv., 811 
+
+
+F.2d 747 (2d Cir. 1987)...........cccccceeee- 6, 11, 12, 21, 40, 42 
+Aetna Cas. & Sur. Co. v. United States, 71 F.3d 475 
+
+UE Cictntcecscnandiktilchsicitalibaliidiiinidbtisdaiineiccninsene 30 
+Argonaut Ins. Co. v. United States, 434 F.2d 1362 
+
+SE RE Pe eS er NT Se 24 
+Armstrong v. United States, 364 U.S. 40 (1960)......16, 20, 38 
+
+
+Balboa Ins. Co. v. United States, 775 F.2d 1158 
+Tae a OS SO 24 
+
+
+Bausch & Lomb Optical Co. v. United States, 78 Ct. Cl. 584, 
+cert. demied, 292 U.S. 645 (1934) .......ccccccccccccecesceseeeees 24 
+
+
+Block v. North Dakota, 461 U.S. 273 (1983) .....0...-s0-s0e0 43 
+
+
+Bowen v. Massachusetts, 487 U.S. 879 (1988). .........-+-. _passim 
+Blue Fox, Inc. v. SBA, 121 F.3d 1357 (1997) 
+
+(No. 96-35648)....... se 4 
+Cannon v. Univ. of Chicago, 441 U.S. 677 (1979) ......cc0cec-0e0 41 
+Chrysler v. Brown, 441 U.S. 281 (1979) .......cceccceeveneeeeeeenenees 36 
+City of Houston v. HUD, 24 F.3d 1421 
+
+Ge. Ch, GI ccetcntinstemriinntitterntnrammemennemnen 21,22 
+Clews v. Jamieson, 182 U.S. 461 (1901)..........-cccesnsreerenenees 15 
+Curriden v. Middleton, 232 U.S. 633 (1914) .........cceceeereees 16 
+Curtis v. Loether, 415 U.S. 189 (1974) ........ccccccccesereeseneerens 15 
+
+
+Edelman v. Federal Housing Administration, 
+ee FO Ge 27 
+
+
+Erickson Air Crane Co. of Washington, Inc. v. United States, 
+731 F.2d 810 (Fed. Cir. 1984) .0...........cccccscereeeeeeseeeeeeeees 38 
+
+
+H. Herfurth, Jr., Inc., v. United States, 89 Ct. Cl. 122 
+CRG ecccecesscarastintniteiacsiicmenttiteenbiinniptintniiinamnenarcenen 42 
+
+
+Harrisonville v. W.S. Dickey Clay Mfg. Co., 
+28D GS. 306 Ge cto bterennn 21 
+
+
+Henningsen v. United States Fidelity & Guar. Co., 
+SE Ue, Ge Ge etenticteneenieeemenenremen 5, 10, 11 
+
+
+Home Indem. Co. v. United States, 376 F.2d 890 
+OER, Ch, Ci cerecqensctinnninttiditetniencmecininanenmenenmnse 19 
+
+
+v 
+
+Houston v. Ormes, 252 U.S. 469 (1920) ........ccccc0000 15, 20, 38 
+Hubbard v. Administrator, EPA, 982 F.2d 531 
+
+ee ee SD achidednaiettidienicciinccnpenteinteceneni 31, 32, 33 
+Illinois Brick Co. v. Illinois, 431 U.S 720 (1977) 2.0.2... 30 
+In Re Pyramid Industries, Inc., 210 B.R. 445 
+
+EE EE ES ee ee 25 
+Indian Towing Co. v. United States, 350 U.S. 61 
+
+Gn cnncndihstsiadidaihiclesidicncieicbcchinideepataincialitiincememmnmiecged 43 
+Jaffee v. United States, 592 F.2d 712 (3rd Cir. 1979).......... 35 
+Katz v. Cisneros, 16 F.3d 1204 (Fed. Cir. 1994)........... 37, 38 
+Kennedy Elec. Co., Inc. v. United States Postal Serv., 
+
+508 F.2d 954 (10th Cir. 1974)... eeccceeeees 6, 12, 41, 42 
+Lujan v. Defenders of Wildlife, 497 U.S. 871 ™ 
+
+EATER REE SSO) ee Oe 36 
+Maryland Casualty Co. v. United States, Ct. Cl. 
+
+RE EE ss 42 
+Maryland Dept of Human Resources v. HHS, 
+
+FES F268 1441 (D.C. Cit. 1965S) ...<cccecceccccccscesscesesees 30, 41 
+Megapulse, Inc. v. Lewis, 672 F.2d 959 
+
+ES tt ae ee er ee 39 
+Mellon v. Orinoco Iron Co., 266 U.S. 121 (1924) .......cc00000. 20 
+
+
+Mertens v. Hewitt Associates, 508 U.S. 248 
+
+
+vi 
+
+
+National Leased Housing Ass'n v. United States, 
+
+
+105 F.3d 1423 (Fed. Cir. 1997) ........ccccccccccceeseeseeseeeeenees 38 
+Newark Ins. Co. v. United States, 169 F. Supp. 955 
+
+Fa a Ee ectrenenitnninnetinsinininsinintiinstuentiniieienenanneee 19 
+North Side Lumber Co. v. Block, 753 F.2d 1482 
+
+CU Ce, CED ceccentctcncrncsiitbincsiiitiitiiliitnlinamanictlsiniaiiseritliinst 39 
+OPM v. Richmond, 496 U.S. 414 (1990) 8, 26, 28, 29 
+Peariman v. Reliance Ins. Co., 371 U.S. 132 
+
+GD ricnestrasispancencsetintrcstitinpsstininiistiitintion; 5, 11, 37, 40, 42 
+Perkins v. Lukens Steel Co., 310 U.S. 113 (1940)............000+ 27 
+Porter v. Lee, 328 U.S. 246 (1945) .........ccccccceeceeseescesceseeneees 21 
+Porter v. Warner Holding Co., 328 U.S. 395 (1946)........... 21 
+Prairie State Bank v. United States, 164 U.S. 227 
+
+GS cnashadatirercisenmnscinnrncinssstniaguniininnitnienniteiliminesiainee 10 
+Presbyterian Church v. United States, 870 F.2d 518 
+
+BG Be iercccccscsescenistiinhediinttitiitiacittiptbicapiinins 35, 36 
+Scanwell Laboratories, Inc. v. Shaffer, 424 F.2d 859 
+
+I Gs Fe ceieittctininccientiaatiibchieisttititicsctnniincadhiienen 27 
+Schmoll v. United States, 63 F. Supp. 753, 
+
+105 Ct. CL. 415 (1946)..........ceccescsecssesesserecsesesererseenessesere 
+
+
+Society of Shakers v. Watson, 68 F. 730, 
+15 C.C.A. 632, 37 U.S. App. 141 (1895)...........-.cccccee 15 
+
+
+Texas & N.O.R. Co. v. Northside Belt Ry. Co., 
+REI ETS TL eT 21 
+
+
+vii 
+
+
+Transamerica Premier Ins. Co., v. United States, 
+
+
+32 Fed. Cl. 308-314 (1994) .......cccccccsccscescessesseneeseernesenes 19 
+Tull v. United States, 481 U.S. 412 (1987) 
+IL TPE cccden sicecnnsdeaphtninicnsamninenptyarninstnccenpeneationge 15 
+United Elec. Corp. v. United States, 647 F.2d 1082 
+(Ct. Cl.), cert. denied, 454 U.S. 863 (1981)..............00+0. 27 
+United States v. Alabama, 313 U.S. 274 (1941)............000000 20 
+United States v. King, 305 U.S. 1 (1969) ........cccccccsessereesensees 38 
+United States v. Kubrick, 444 U.S. 111 (1979) ..........cc-ccseees 43 
+United States v. Munsey Trust Co., 332 U.S. 234 
+I aici acitisiieisiastiidcihdabnimpplepintiiandipltnaimiineterines 11,41 
+United States v. Testan, 424 U.S. 392 (1976) .......ccccccceeeeee 29 
+United States Fidelity & Guar. Co. v. United States, 
+475 F.2d 1377 (Ct. Cl. 1973)........ccccccoseserserseseceercessoees 27 
+Weinberger v. Romero-Barcelo, 456 U.S. 305 
+I ssi siiilcincly lenis dltiingthahisipiaiaashibeiabatirasaievieceeee 21 
+
+
+West. Va. Ass'n of Community Health Ctrs. v. Heckler, 
+734 F.2d 1570 (D.C. Cir. 1984) .......cccccscecseseeerererseeeeees 23 
+
+
+Westbay Steel, Inc. v. United States, 970 F.2d 648 
+IY IIIT id sciinnsesjcensitiidimiensinnianistisndapetinsibercensescccesasee 25 
+
+
+Constitution and Statutes: 
+Art. I, § 9, Cl. 7 (Appropriations Clause)..............:0sssssesss 24 
+inistrative Procedure Act, 5 U.S.C. 551 
+et seq.: 
+14 costthintistensdanidetiiaiaiisasdlendeunnctetesiiaatnnts 34 
+Fe Ce nits tacincinsssiecinsustiiestactacttinitinninatiinnaiinialtsia 34 
+Ss Shes cvincerictsictincitntiitithineitibuandgiaiie 8, 34, 35 
+De FN tlcibcibeetictrtccstiibecenshelitdtientnanssni 6, 9, 12, 35, 36 
+Federal Court Administration Act of 1992 
+28 U.S.C. 1292(A)M4)(A) .....ccccccccescesceesesseessesesseeseenseneees 37 
+Postal Reorganization Act, 39 U.S.C. 401 .0........ccccccccsseeseees ll 
+
+
+Pub. L. No. 101-510, 104 Stat. 1485 (1990) 
+31 U.S.C. 1551, et seq.: 
+
+
+FO ae Pe ctcticncsnimnncicscenntcectentnteseentecnentssnccnssenntee 22 
+
+DE CEES, BE i sevcctncectnsssosscnsareitthevinsesventeteenensbsccnsioeese 22 
+
+FO Ces WN satencninecdinseccdnscntsiitntunecesesinenenecnescscsennsees 23 
+Pub. L. No. 104-53, 109 Stat. 514, 535 (1995) 
+
+BE CE. Free cictiscnrstctcnnictsditiaviscestvssestenseretescorsssonese 26 
+Small Business Act, 15 U.S.C. 637(8) .......ccccccscesesesseseeeeneoees l 
+Tucker Act, ch. 359, 24 Stat. 505: 
+
+BO BBL, CED UGIEEP ccccesctcctssetsrenictcssceresesscesevsccsieinnn 31, 38 
+BD CHER GF CDR ID cccccccsnviccseinesnttndiduaniceciensisstecdbiniinnsineitiicnasts 3 
+Rule Cited: 
+
+
+Bh Se FRI BB cecenenicctsstiisnitteciinnseanistmnassibasencecetteemacmnesses 33 
+
+
+ix 
+
+Other Authorities: 
+18 Comp. Gen 285, 292 (1938)......ccccccssssersrseseseees seoapenecueaes 27 
+B-190144, Comp Gen. 176, 178 (1977)......ccccccccsssecseseeseeees 28 
+D. Dobbs, Handbook on the Law of Remedies 
+
+Epo Pee ochensdestecsenincciscbsaencalesbshsontnnesecbatetetecenenescscesccoevesonts 17 
+D. Dobbs, Law of Remedies 
+
+CB OB Fe Povesettocescscccscessescssesecscccecs 13, 14, 15, 17, 24, 32 
+
+H.R. Rep. No. 1656, 94th Cong., 2d. Sess. 9 
+
+Rear Tip ecenivssnnentecsoteatasssitbciiientibieneanctedatanpsesesresrocee 30, 35, 41 
+McClintock, McClintock on Equity (2d ed. 1948) ......... 13, 16 
+Pomeroy, Equity Jurisprudence (Sth ed. 1941).............. 13, 15 
+Restatement of the Law, Restitution § 161 (1937).............. 13 
+Restatement (Third) of Suretyship and Guaranity................ 16 
+S. Rep. No. 996, 94th Cong., 2d. Sess. 8 (1976)............ 30, 41 
+
+
+United States General Accounting Office, Principles of 
+Federal Appropriations Law (1994) .000..........ccces0e0e 23, 27 
+
+
+l 
+STATEMENT 
+
+
+In September, 1993, pursuant to Section 8(a) of the 
+Small Business Act, 15 U.S.C. § 637(a), the United States 
+Department of the Army awarded a contract to the United 
+States Small Business Administration. Pet. App. 2a. The 
+contract involved the installation and testing of a telephone 
+switching system and the construction of a facility to house 
+the switching system at the Umatilla Army Depot, Oregon. 
+Id. SBA agreed to furnish the supplies and services requested 
+by the Army by subcontracting with Verdan Technology, Inc. 
+Id. 
+
+
+Verdan subcontracted the construction portion of its 
+contract to Respondent Blue Fox. Pet. App. 4a. The total 
+cost of the work to be performed by Blue Fox was 
+$186,347.80. Jd. Blue Fox did not know until it had 
+completed its performance under the contract that Verdan had 
+not furnished a payment bond. /d. Verdan failed to pay Blue 
+Fox its full contract price -- the sum of $46,586.14 remained 
+due. /d. Blue Fox informed the Army and SBA in writing 
+on May 26, 1994, and again on June 15, 1994, that it had not 
+been fully paid. /d. In its June 15, 1994 letter to the Army, 
+Respondent requested “suspension or reduction of payment be 
+administered by your agency.” J.A. 33.' Nevertheless, the 
+Army subsequently disbursed a total of $86,132.33 to Verdan 
+between July and October, 1994. /d. 
+
+
+‘The Progress Payments clause of the Verdan contract permitted the 
+Contracting Officer to “reduce or suspend progress payments” aller 
+finding on substantial evidence that any of several performance 
+deficiencies had occurred, including “delinquen{cy] in payment of the 
+costs of performing this contract in the ordinary course of business.” 
+Clause 1.74 52.232-0016 I, page I-16, Exhibits to Plaintiff's Motion for 
+Summary Judgment, Tab A, p. 96. 
+
+
+2 
+
+
+On January 3, 1995, the Army terminated Verdan’s 
+contract for default. Pet. App. Sa. In its notice of intention 
+to terminate the contract, the Army indicated that one of its 
+“most severe items of concern” was Verdan's failure to pay 
+Blue Fox. /d. After termination of the Verdan contract, the 
+Army chose Dynamic Concepts, Inc. to finish the 
+uncompleted portion of the work, under an existing contract 
+between the Army and Dynamic. The modification contract 
+with Dynamic was for $126,772.78 and was partially funded 
+with the undisbursed balance on the Verdan contract, 
+$84,910.52. Jd. The Army did not authorize payment to 
+Dynamic for its work in completing the proyect until July 27, 
+1995, two months after Blue Fox filed suit in district court, 
+asking inter alia, that the court enjoin the Army and SBA 
+from paying any further monies or making any payments from 
+funds available or appropriated for a follow-on contract for 
+completion of the Umatilla Army Depot Electronic Switching 
+System project, until Blue Fox’s unpaid bill is satisfied. /d. 
+
+
+The original solicitation issued by the Army required 
+the contractor to furnish payment and performance bonds if 
+the contract exceeded $25,000. Pet. App. 3a, Choate Aff. 
+par. 6 (J.A. 59); Sawyer Aff. par. 6 (J.A. 63). On July 22, 
+1993, the Army's Contracting Specialist, Elizabeth Faler, 
+spoke with the Army Judge Advocate General's Office, in 
+regard to the bond requirement on the project. According to 
+Ms. Faler’s Memorandum of the conversation, she was told 
+that “only VERDAN could get the bonds and that we did not 
+have a contract with VERDAN’s subs. She was very adamant 
+about the subject." The following day, Ms. Faler spoke with 
+SBA’s Ms. Witty. Ms. Faler wrote that “I related what the 
+Department of the Army Judge Advocate’s Office had said. 
+She [Ms. Witty] completely disagreed with their 
+recommendations.” Among other reasons given to Ms. Faler, 
+Ms. Witty felt that Verdan would not qualify for a bond 
+“because of its lack of experience in construction.” J.A. 45 
+
+
+3 
+
+
+Ms. Witty recommended that the Army remove the Bond 
+requirement...” J.A. 46. On August 5, 1993, the Army 
+amended the solicitation, deleting the bond requirements. 
+Sawyer Aff. par. 6 (J.A. 63). 
+
+
+Under 13 CFR § 124.305 (1990), the SBA was 
+empowered to exempt an 8(a) participant from Miller Act 
+bonding requirements where SBA determines that the 8(a) 
+concern is unable to obtain the requisite bonds. To protect 
+subcontractors, these regulations required, inter alia, that 
+disbursement of contract proceeds be made through a special 
+bank account, so that payment can be made directly to 
+subcontractors, 13 CFR § 124.305(d)(2), and that the 8(a) 
+concern provide written notification to subcontractors 
+informing them that the primary contractor is not furnishing 
+a Miller Act bond. 13 CFR § 124.305(d)(4). Nothing in the 
+record evidences compliance with these regulations in 
+connection with deleting the Miller Act bond requirements. 
+Blue Fox never received the notice required by 13 CFR § 
+124.305. Lumly Aff. par. 12 (J.A.26). In its opinion, the 
+Ninth Circuit emphasized “SBA’s conscious avoidance of the 
+Miller Act requirements” in the form of notes of telephone 
+conversations within the SBA,” and “between officers of the 
+SBA and the Army....” Pet. App. 13a, n.6. 
+
+
+When Plaintiff asked the Army, in an Interrogatory, to 
+explain why no bond was furnished, the Army answered as 
+follows: 
+
+ANSWER: The reason is not clear from the record. 
+
+It may have been because the contract was classified 
+
+under Standard Industrial Classification (SIC) Code 
+
+4813, telephone coinmunications, and that government 
+
+personnel did not require the payment bond because 
+
+the primary SIC code was determined to be 4813, a 
+
+non-construction SIC code. It may also have been 
+
+because the government believed it could waive the 
+
+
+4 
+Miller Act requirements. 
+
+
+Excerpts of Record at 29-30, Ble Fox, Inc. v. SBA, \21 F.3d 
+1357 (1997) (No. 96-35648). 
+
+
+In dismissing the case, the district court concluded, sua 
+sponte, that the Miller Act did not apply to the Verdan 
+contract. Pet. App. 29a. In its brief however, the government 
+conceded before the district court that the Miller Act was 
+applicable. ("The Army and the SBA conceded before the 
+district court that the contract at issue was subject to the 
+Miller Act. The Defendants again concede that the Verdan 
+contract was subject to the Miller Act."). Appellees Opening 
+Brief, at 11. The Ninth Circuit agreed that the Miller Act 
+applied to the Verdan contract. Pet. App. 3a. 
+
+
+5 
+SUMMARY OF THE ARGUMENT 
+
+
+The equitable rights of unpaid subcontractors to 
+construction balances are long-recognized in this Court's 
+decisions. Ninety years ago, in Henningsen v. United States 
+Fidelity & Guar. Co., 208 U.S. 404, 410 (1908), this Court 
+stated that the government had “equitable obligations to see 
+that the laborers and supplymen were paid." This Court 
+reaffirmed that recognition in Pearlman v. Reliance Insurance 
+Co., 371 U.S. 132, 141 (1962), stating that “laborers and 
+materialmen had a right to be paid out of the fund...” 
+
+
+In this suit, Respondent Blue Fox, Inc., an unpaid 
+federal subcontractor, seeks to declare and enforce such 
+equitable rights. For years, the federal courts have permitted 
+sureties On government contracts to enforce related rights. 
+Thus, in Pearlman, this Court upheld a surety's right to 
+reimbursement from remaining contract monies, reasoning that 
+the surety, having paid the laborers and materialmen, was 
+entitled to the benefit of the rights of the persons it paid. /d. 
+at 141. If the surety's right to reimbursement rests on the 
+rights of the subcontractors it paid, it stands to reason that the 
+subcontractors themselves should be able to assert those rights 
+where there is no surety. 
+
+
+Nevertheless, unpaid subcontractors traditionally have 
+been unable to sue the government directly. Although 
+sympathetic to their plight, courts were helpless to act, 
+because of the bar of sovereign immunity. Absent sovereign 
+immunity, however, the obstacle to enforcement no longer 
+exists. Thus, when sovereign immunity is waived, unpaid 
+subcontractors can directly enforce equitable rights to 
+remaining contract monies. Ap, lying this rationale, at least 
+three circuit courts of appeal have permitted unpaid 
+subcontractors to bring equitable lien actions against an 
+agency of the government whose immunity Congress waived. 
+
+
+6 
+
+
+See Active Fire Sprinkler Corp. v. United Siates Postal Serv., 
+811 F.2d 747, 756 (2d Cir. 1987); Kennedy Electric Co., Inc. 
+v. United States Postal Serv., 508 F.2d 954 (10th Cir. 1974), 
+W right v. United States Postal Serv., 29 F 3d 1426 (9th Cir. 
+1994). 
+
+
+The Administrative Procedure Act waives sovereign 
+immunity over Respondent's claim here. In 1976, Congress 
+amended the APA to add what this Court has described as “an 
+important part of a major piece of legislation..." Bowen v. 
+Massachusetts, 487 U.S. 879, 896 (1988). In that amendment, 
+Congress “eliminate[d] the sovereign immunity defense in all 
+equitable actions for specific relief against a Federal agency. 
+.. ." Bowen, 487 U.S. at 898-900. Congress did so by 
+stating that "[a]n action in a court of the United States 
+seeking relief other than money damages * * * shall not be 
+dismissed nor relief therein be denied on the ground that it is 
+against the United States ..." 5 U.S.C. 702 
+
+
+The issue in this case is whether direct subcontractor 
+enforcement of Peariman rights seeks relref “other than money 
+damages.” For several reasons, this Court should conclude 
+that enforcement of an equitable lien does moi present a 
+money damages claim. First, an equitable lien is historically 
+distinct from damages. It is a charge, or security interest, on 
+specific property. As its name implies, it is an equitable 
+remedy, and thus stands in contradistinction to damages, a 
+traditional legal remedy. Second, as specific relief, the 
+equitable lien fits squarely within this Court's definition in 
+Bowen of relief “other than money damages." 5 U.S.C. 702. 
+The equitable lien does not substitute for a loss, instead it 
+gives the claimant the “very thing" to which it is entitled. 
+Bowen, 487 U.S. at 896. This is especially apparent as 
+regards equitable liens on construction balances; the lien is 
+limited to retained funds, if any, held by the owner 
+Damages, by contrast, would provide a judgment executable 
+
+
+> 
+
+
+against the owner's general assets. Third, the equitable lien 
+is limited. Respondent is not asking for the government to 
+pick up the tab whenever the prime contractor was supposed 
+to pay, but did not. That would be damages. Rather, 
+Respondent seeks to be paid from remaining funds, if any. If 
+no funds remain, then there is nothing to lien. In this regard, 
+Respondent seeks nothing more than the ability--which 
+sureties have had for decades--to enforce payment from 
+remaining contract monies. The plain language of Section 
+702 gives Respondent that right. 
+
+
+Try as it might, Petitioner is unable to demonstrate 
+that an equitable lien constitutes damages. Applying Buwen's 
+test, Petitioner argues that giving Blue Fox money would 
+substitute for its loss. But Petitioner's substitutionary 
+arguments are directed toward theories Respondent is noi 
+advancing. Blue Fox does not seek to impose liability for 
+deleting the Miller Act bond requirement, however lawless 
+that may have been. Nor does Respondent seek money as a 
+substitute for what Verdan failed to pay; under that theory, 
+Blue Fox should be made whole, irrespective of the content 
+of the fund. Finally, Petitioner argues that the liened fund 
+"no longer exists,” and an award of money from elsewhere 
+must be damages. But that overlooks settled law that the 
+government has the obligation as stakeholder to pay the 
+proper party; it runs the risk of paying twice when 
+disregarding valid claims. Moreover, the government cannot 
+pay out money after a party has filed suit to enjoin transfer. 
+Pending lawsuits cannot be so easily disposed of 
+
+
+Perhaps recognizing that an equitable lien differs from 
+damages, Petitioner directs attention away from the 
+unambiguous language of the statute, and toward an 
+Appropriations Clause argument. But payment of an 
+equitable lien does not raise an Appropriations Clause issue. 
+First, an equitable lien is payable from the contract balance, 
+
+
+thus a new appropriation is not called for. Second, 
+Petitioner's reliance on this Court's decision in OPM v. 
+Richmond, 496 U.S. 414 (1990) is misplaced. In Richmond, 
+a statute forbade payments to persons in Mr. Richmond's 
+income level. Invoking the Appropriations Clause, this Court 
+refused to force the government to pay a claimant otherwise 
+statutorily ineligible. By contrast, no statute prohibits the 
+government from paying Respondent here. On the contrary, 
+Congress (through its accounting arm the General Accounting 
+Office) has encouraged such payments. So has the Court of 
+Claims. Third, since a lienable fund has been identified, this 
+case does not present the broader appropriations issues 
+Petitioner suggests. This Court need not decide here all the 
+types of equitable claims section 702 allows. 
+
+
+Petitioner also argues that the APA was never intended 
+to permit this type of suit. The government complains that 
+neither the Ninth Circuit nor Respondent ever identified the 
+precise “agency action” being challenged, However, until its 
+brief on the merits to this Court, the Army never asked for an 
+explanation. Since this Court ordinarily does not consider 
+issues not raised or resolved below, Petitioner's “agency 
+action” argument should not be considered. In any event, the 
+Army's failure to honor Blue Fox's request for “suspension or 
+reduction” in payments to Verdan, falls squarely within the 
+definition of “agency action” as contained in 5 USC. 
+551(13). Even if it did not, APA review would be proper. 
+Congress intended Section 702 to waive immunity for 
+challenges to al/ illegal governmental conduct, not just that 
+falling within the technical definition of “agency action” in 
+the APA. 
+
+
+Petitioner also argues that, in any event, the Tucker 
+Act impliedly forbids the Section 702 waiver. But the plain 
+language of section 702 states that “Nothing herein * * * 
+confers authority to grant relief if any other statute shat grants 
+
+
+9 
+
+
+consent to suit expressly or impliedly forbids the relief which 
+is sought.” 5 U.S.C. 702 (emphasis added). This exception 
+does not apply because the Tucker Act does not grant consent 
+to Respondent's suit. Respondent asserts equitable rights 
+arising from federal common law. The Tucker Act does not 
+permit that kind of suit. The Army also argues that even if 
+the Tucker Act does not impliedly forbid this action, the 
+Miller Act does. However, this argument was raised and 
+reyected in Pearlman, and several lower courts since. This 
+Court should reject it again. 
+
+
+Finally, Petitioner stresses throughout the poor track 
+record to date of subcontractors suing the government. But 
+because immunity has been waived, those authorities -- no 
+matter how extensive or well-settled earlier -- no longer bar 
+federal court jurisdiction. Congress intended to give citizens 
+the right to challenge in court the legality of governmental 
+conduct that adversely affects its interests. Blue Fox should 
+be treated no differently solely by virtue of its status as 
+subcontractor 
+
+
+10 
+ARGUMENT 
+
+
+L RESPONDENT'S EQUITABLE LIEN ACTION 
+PRESENTS A CLAIM “OTHER THAN MONEY 
+DAMAGES” FOR WHICH § U.S.C. 702 WAIVES 
+IMMUNITY 
+
+
+A. Respondent Seeks To Enforce Equitable Rights 
+
+
+This suit seeks to declare and enforce equitable rights. 
+The nghts of unpaid laborers and materialmen to payment 
+from unexpended contract balances are long-recognized in this 
+Court’s decisions. To understand the nature of these rights -- 
+and why they are not “money damages”-- it is useful to first 
+consider this Court's decisions upholding the equitable 
+subrogation rights of sureties under federal contracts. Those 
+decisions depend and rely on the well-established equitable 
+— of subcontractors to impose liens upon prime contract 
+
+ds. 
+
+
+In Prairie State Bank v. United States, 164 U.S. 227 
+(1896), this Court held that a surety, who completed a project 
+following the contractor’s default, bad a right to moneys 
+retained by the government superior to that of a bank which 
+lent money to the defaulting contractor. The Court based its 
+decision on the doctrine that a surety who completes a 
+contract has an “equitable right” to indemnification out of a 
+retained fund. Prarie State Bank, supra, at 231. In 
+Henningsen v. United States Fidelity & Guar. Co., 208 U.S. 
+404 (1908), the Court extended the Prairie State Bank holding 
+to provide that a surety who satisfied the claims of unpaid 
+laborers and materialmen had an equitable right to retained 
+moneys. In holding that the surety’s equity was superior to 
+that of a competing lender, the Court specifically noted that 
+the government had “equitable obligations to see that the 
+
+
+laborers and supplymen were paid.” Henningsen, supra, at 
+410. 
+
+
+In United States v. Munsey Trust Co., 332 US. 234, 
+241 (1947), this Court refused to protect a surety’s 
+subrogation claim to retained moneys held by the government, 
+against the government's own claim to offset money it was 
+owed. However, just 15 years later, in Pearlman v. Reliance 
+Ins. Co., 371 U.S. 132 (1962), this Court reaffirmed a surety 's 
+rights to equitable subrogation. The Peariman Court rejected 
+an argument that Prairie State Bank and Henningsen had been 
+overruled by Munsey. In so holding, Mr. Justice Black 
+reiterated that “the laborers and materialmen had a right to be 
+paid out of the fund...” /d. at 141. 
+
+
+On Pearlman's authority, the lower courts now 
+routinely authorize equitable liens under which unpaid 
+subcontractors --in the absence of any implied or express 
+contract with the owner-- are paid out of unexpended contract 
+balances. As the Amicus Brief for the Surety Association of 
+America states, “If a surety has a claim to contract funds by 
+virtue of its subrogation to the rights of a subcontractor whom 
+it paid, logically the subcontractor can assert the rights itself 
+if there is no surety.” See Brief Amicus Curiae of The Surety 
+Assoc. of America [Supp. Neither Party] at 12 and authorities 
+cited therein. Indeed, the surety's lien could not exist without 
+the subcontractor’s lien from which it is derived. See A clive 
+Fire Sprinkler Corp. v. United States Postal Serv., 8\\ F.2d 
+747, 756 (2d Cir. 1987) (“[a]ny rights held by the sureties 
+were founded upon the rights of the unpaid laborers and 
+
+
+supp: 5.”). 
+
+
+Applying this rationale, at least three circuit courts of 
+appeal have permitted unpaid subcontractors to directly 
+enforce equitable liens against the United States Postal 
+Service (“USPS”) under the authority of 39 U.S.C. 401, which 
+
+
+12 
+
+
+permits the Postal Service to sue and be sued. See Active 
+Fire Sprinkler Corp., supra, at 754 (“[a}ny equitable rights 
+held by subcontractors as against USPS, which may have 
+been unenforceable where sovereign immunity existed, 
+became enforceable upon immunity being waived.”), Kennedy 
+Elec. Co.. Inc. v. United States Postal Serv., $08 F.2d 954 
+(10" Cir. 1974); Wright v. United States Postal Serv., 29 F.3d 
+
+
+1426 (9 Cir. 1994). 
+
+
+Because the contracting party here is the United States, 
+5 U.S.C. 702 waives sovereign immunity. The United States, 
+like the U.S.P.S., may now be charged with subcontractor 
+equitable liens. Petitioner argues, however, that [blecause 
+Respondent's suit seeks ‘money damages’ it 1s outside the 
+scope of the waiver of immunity in 5 U.S.C. 702. First 
+Argument Heading, Pet. Br. 13. The issue thus is whether an 
+equitable lien seeks “money damages” under Section 702. 
+
+
+B. Section 702 Waives Immunity For Equitable Liens, 
+Which Are Not "Money Damages" 
+
+
+The plain language of Section 702 waives immunity 
+for Respondent’s claim. In relevant part, 5 US.C. 702 
+
+
+provides: 
+
+
+An action in a court of the United States seeking 
+relief other than money damages and stating a claim 
+that an agency or an officer or employee thereof acted 
+or failed to act in an official capacity or under color 
+of legal authority shall not be dismissed nor relief 
+therein be denied on the ground that it is against the 
+United States or that the United States is an 
+
+
+indispensable party. 
+
+
+5 U.S.C. § 702 (emphasis added). 
+
+
+13 
+
+
+This statutory mandate could not be more clear: Congress 
+has declared that immunity bars damages ciaims on/y. Thus, 
+unless Respondent seeks money damages, sovereign immunity 
+has been waived. 
+
+
+1. An Equitable Lien is Historically Distinct From 
+Damages 
+
+“An equitable lien is a charge which will be enforced 
+in equity against specific property, though there is no valid 
+lien at law,” McClintock, McClintock on Equity, § 118, 319 
+(2d ed. 1948) [hereinafter McClintock]; see also Restatement 
+of the Law, Restitution § 161 (1937) (“[{w]here property of 
+one person can by a proceeding in equity be reached by 
+another as security for a claim on the ground that otherwisc 
+the former would be unjustly enriched, an equitable lien 
+arises.”); see also Pomeroy, Equity Jurisprudence, Section 
+1233 (Sth ed. 1941) [hereinafter Pomeroy] ({a}n equitable lien 
+“is simply a right of a special nature over the thing, which 
+constitutes a charge or encumbrance upon the thing, so that 
+the very thing itself may be proceeded against in an equitable 
+action, and either sold or sequestered under a judicial decree, 
+and its proceeds in the one case, or its rents and profits in 
+the other, applied upon the demand of the creditor in whose 
+favor the lien exists.”) (emphasis in original). 
+
+
+“The term ‘equitable lien’ is used in at least two fairly 
+disparate senses. In one sense it may refer to a lien created 
+by express or at least implied-in-fact agreement of the 
+p. ties....” 1 D. Dobbs, Law of Remedies 601 (2d ed. 1993) 
+[hereinafter 1 D. Dobbs]. “The equitabie lien when imposed, 
+not as a matter of contract, but to prevent unjust enrichment, 
+is essentially a special, and limited, form of the constructive 
+trust.” /d. See also McClintock, supra, at 319 (“[e]quitable 
+liens fall naturally into two distinct groups: Those created to 
+give effect to an intention of the parties to secure payment of 
+
+
+14 
+
+
+an obligation * * * and those created by the court, regardless 
+of the intent of the parties, as a remedial device to protect a 
+party against some inequitable loss.”). 
+
+
+It is this second type of equitable lien, the “special, 
+and limited, form of the constructive trust” which Respondent 
+seeks to enforce here. 1 D. Dobbs, supra, at 5. Although 
+both the equitable lien and the constructive trust are 
+restitutionary devices, there is a distinction: 
+
+
+The lien is imposed for reasons that, in principle, are 
+the same as those that warrant the constructive trust 
+and it works in substantially the same way. [footnote 
+omitted] The difference is that restitution is measured 
+differently. Where the constructive trust gives a 
+complete title to the plaintiff, the equitable lien only 
+gives him a security interest in the property, which he 
+can then use to satisfy a money claim. Thus an 
+equitable lien may be ‘foreclosed’, so that the 
+property that has been subjected to the lien is 
+subjected to a forced sale and the proceeds of that 
+sale applied to payment of the plainuff's claim. 
+[footnote omitted] This results in only a money 
+payment to the plaintiff and obviously does not carry 
+with it the advantages of recovering specific property. 
+On the other hand, it operates like the constructive 
+trust in affording a preference over other creditors and 
+in utilizing the rules for following property into its 
+product. 
+
+
+Id. (emphasis added); see also 2 D. Dobbs, Law of Remedies 
+5 (2d ed. 1993) [hereinafter 2 D. Dobbs] (“a constructive trust 
+is an order that the defendant transfer an identified fund or 
+property to the plaintiff, in specie. [footnote omitted) An 
+“equitable lien is a lien placed upon specific funds or property 
+to secure the plaintiff's rights to restitution in money.” 
+
+
+15 
+
+
+[footnote omitted] ). 
+
+
+ii Since an equitable lien provides restitution, it is 
+distinct from damages. See 3 D. Dobbs, Law of Remedies 9 
+(2d ed. 1993) [hereinafter 3 D. Dobbs] (“{rJestitutionary 
+recoveries are based on the defendant's gain, not on the 
+plaintiff's loss. Restitution is thus distinct from damages, 
+which measures compensation for loss rather than 
+disgorgement of the defendant's gain.”). Thus, this Court has 
+held that actions to disgorge improperly gained profits, Curtis 
+v. Loether, 415 U.S. 189, 197 (1974), and to return funds 
+rightfully belonging to another, Tu// v. United States, 48| 
+USS. 412, 424 (1987) are equitable actions, even though the 
+relief they seek is monetary, because they are restitutionary 
+in nature. See also Mertens v. Hewitt Associates, 508 US. 
+248, 255 (1993) (listing restitution as an example of “a 
+remedy traditionally viewed as ‘equitable’.”). 
+
+
+Even though the equitable lien deals exclusively with 
+the payment of money, it is a peculiarly equitable remedy. 
+See Houston v. Ormes, 252 US. 469, 474 (1920) 
+(recognizing an equitable lien as “an equitable right in the 
+fund”); see also 2 D. Dobbs, supra, at 8 (“[t]he constructive 
+trust and equitable lien are equitable remedies.”); see also 
+Pomeroy, supra, § 1234 (referring to the equitable lien: 
+“There is perhaps no doctrine which more strikingly shows 
+the difference between the legal and the equitable... ” 
+quoting Society of Shakers v. Watson, 68 F. 730, 15 C.C.A. 
+632, 37 U.S. App. 141.); see also Clews v. Jamieson, 182 
+U.S. 461, 479 (1901) (1895) (“[t}he fact that the relief 
+demanded is a recovery of money only is not important in 
+deciding the question as to the jurisdiction of equity”, quoting 
+Pomeroy, supra, § 158 (constructive trust)). 
+
+
+‘ The equitable lien thus stands in contradistinction to 
+damages,” an historically legal remedy. See Mertens, 508 
+
+
+16 
+
+
+U.S. at 255 (“[mJoney damages are, of course, the classic 
+form of /egal relief”) (emphasis in original); see also Curmiven 
+v. Middleton, 232 U.S. 633, 636 (1914) (“[t}he relief sought 
+is simply a decree for damages * * * so that although the 
+word restitution is used there is no attempt to rescind, to 
+follow a specific fund or to establish a trust. Being a suit for 
+damages the proper remedy is an action at law.”). 
+
+
+2. An Equitable Lien Falls Outside Bowen's 
+Definition Of Damages 
+
+
+In Bowen, the state of Massachusetts sought to compel 
+the Secretary of Health and Human Services to make 
+reimbursement for certain Medicaid-related expenditures. 
+This Court determined the relief to be “other than money 
+damages,” and upheld Section 702 jurisdiction. The Court 
+drew a distinction between damages, which are given to 
+substitute for a suffered loss, and specific remedies, which 
+“are not substitute remedies at all, but an attempt to give the 
+plaintiff the very thing to which he was entitled.” Bowen, 
+487 US. at 895. In so holding, the Court stated that "(t]he 
+fact that a judicial remedy may require one party to pay 
+money to another is not a sufficient reason to characterize the 
+relief as ‘money damages.” /d., at 893. 
+
+
+Applying Bowen's test for damages, the equitable lien 
+does not “substitute” for a loss. /d., at 895. Rather, as "a 
+charge which will be enforced in equity against specific 
+property,” McClintock, supra, § 118 at 319, the claimant is 
+given “the very thing to which it ts entitled." Bowen, 487 
+U.S. at 895. See also Armstrong v. United States, 364 US. 
+40, 44 (1960) (recognizing that subcontractors holding liens 
+"were entitled to resort to the specific property for the 
+satisfaction of their claims."). Granted, the equitable lien 
+results in the payment of money. See Resiatemeni (Third) 
+of Suretyship and Guaranty, p. ||, cmt. b ("Where the 
+
+
+17 
+
+
+equitable lien is on a fund, for example a bank deposit, it is 
+enforced by a direction to pay the claimant out of the fund."). 
+However, "(t]he fact that a judicial remedy may require one 
+party to pay money to another is not a sufficient reason to 
+characterize the relief as 'money damages. Bowen, 487 US. 
+at 893. See also 3 D. Dobbs, supra, at 9 ("[i]f the theory for 
+the claims is ‘restitution’ based upon the defendant's unjust 
+enrichment, then the recovery is not ‘damages’ even if, in 
+dollar amount, it is equivalent to a compensatory damages 
+recovery ."). 
+
+
+Moreover, in the case of equitable liens on 
+construction balances, the lien is limited to retained funds, if 
+any, held by the owner, see 3 D. Dobbs 471, supra, and 
+cannot exceed the amount of funds held by the landowner. 
+Id. Thus, if insufficient funds remain, the subcontractor is 
+out of luck; he is not made “whole,” since the lien “is not a 
+claim against the landowner's general assets." /d. In such 
+situations, the unpaid subcontractor is left uncompensated. 
+This stands in distinction to “damages,” where the claimant 
+receives a compensatory award enforceable by execution or 
+garnishment. D. Dobbs, Handbook on the Law of Remedies, 
+Sections 1.3, 10-11; 3.1, 135 (1973) [hereinafter D. Dobbs). 
+This limitation also underscores that the claimant is awarded 
+specific relief, in a defined fund. 
+
+
+3. Petitioner Fails To Demonstrate That An 
+Equitable Lien Is "Damages" 
+
+
+Petitioner apparently does not dispute Respondent's 
+characterization of the equitable lien as a limited security 
+device. See Br. in Opp 7, n. 6 (where Respondent 
+demonstrates that the lien does not extend to the landowner's 
+general assets, and cannot exceed the landowner's retained 
+funds). | Nevertheless, Petitioner argues that Blue Fox's 
+contract was with Verdan, not the Army, and “by requiring 
+
+
+the government to pay when Verdan did not, the Ninth 
+Circuit provided precisely the sort of ‘substitute’ performance 
+barred as money damages under the APA.” Pet. Br. 28. That 
+misreads Blue Fox's theory, however, because it denies the 
+existence of the equitable rights which Henningsen, Pearlman 
+and its progeny recognize as inhering in retained funds for the 
+subcontractor's benefit. Absent that body of law, ordering 
+that the Army pay as a “substitute” for Verdan's failure to pay 
+perhaps could be compensation for a loss. But, under that 
+theory, liability would extend to the government's (or owner's) 
+general assets, and would remedy the subcontractor's full loss, 
+even where no contract balance remained. The existence of 
+those limitations makes crystal clear that the equitable lien ts 
+not "money damages." 
+
+
+a. Dissipation of Contract Monies Did Not 
+Create a "Money Damages" Claim 
+
+
+Apparently conceding the power of this distinction, 
+Petitioner asserts that the “very fund" to which the lien 
+attached “no longer exists." Pet. Br. 30, n. 13. Asa 
+consequence, Petitioner argues that Respondent seeks a 
+"substitute remedy" barred as “money damages" under 
+Bowen. This argument fails for several reasons. 
+
+
+First, federal courts have consistently held that, when 
+
+
+*Noting that Respondent's Complaint sought interest, Petitioner states 
+that “[p]resumably the interest was intended to compensate plainull tor 
+the lost use of the funds.” Pet. Br. 28, n. 11. However, if the fund is 
+the “very thing” to which a claimant is entitled, so should the expanded 
+fund due to interest. As Professor Dobbs states, “[t}he trust or lien may 
+attach to the fund or account even if the fund has grown through 
+dividends or interest or identifiable earnings or savings. [footnotes 
+omitted]. Because the fund is the plaintiff's its product is the plainuff's 
+in the same way that when the plaintiff owns the cow he also owns the 
+
+
+calf." 1 D. Dobbs, supra, at 5, n.5. 
+
+
+19 
+
+
+the government pays out funds while on notice of a surety's 
+claim of lien, it does so at its peril. See Newark Ins. Co. v. 
+United States, 169 F. Supp. 955, 957 (Cr. Cl. 1959) ("[s]urely 
+a stakeholder, caught in the middle between two competing 
+claimants, cannot, if effect, decide the merits of their claims 
+by the mere physical act of delivering the stake to one of 
+them."); Home Indem. Co. v. United States, 376 F.2d 890 
+(Ct. Cl. 1967) (“the Government had no right as a stakeholder 
+to settle the question unilaterally by paying the fund to the 
+contractor."); Transamerica Premier Ins. Co., v. United States, 
+32 Fed. Cl. 308-314 (1994) ("where the government has on 
+hand contract funds owing for work done and is alerted . . .to 
+the possibility of unpaid materialmen's claims. . . it may not 
+dispense those funds to the contractor--at least not without 
+running the distinct risk of having to pay twice."). See also 
+Brief Amicus Curiae of The Surety Assoc. of America 
+(Supporting Neither Party] at 18-19, Part D. ("The Army 
+Could Not Decide the Competing Claims of Blue Fox and 
+Verdan by Paying the Wrong Party), and authorities cited 
+therein.’ Petitioner's argument is inconsistent with these 
+settled authorities.* 
+
+
+*See also the Army attorney's concession (to the Ninth Circuit: (“once 
+the government's on notice, then if the government goes ahieud and 
+pays contract funds to the defaulting general contractor, then they run 
+the risk of paying twice."). Ses Br in Opp. 21-22, n. 23, quoting 
+Transcript of Oral Argument by Government Counse! (lodged with the 
+Supreme Court Clerk), (hereinafter Transcript] at 7-8. 
+
+“Potitioner seeks to distinguish Prairie Strate Bank, Henningsen and 
+Pearlman as “contests between private parties over funds as to which 
+the United States has disclaimed any ownership, and had transferred 
+out of the Treasury.” Pet. Br. 37. However, as Nework Ins. Co. and 
+its progeny demonstrate, the United States becomes a “stakeholder” of 
+any funds which are due and payable under the contract once on notice 
+of liens to remaining funds. _. See Amicus 
+Brief of the Surety Assoc. of America (Supp. Neither Party] at 6-7 and 
+authorities cited therin. That result should not turn on the pysical 
+presence of the funds, inside or outside the Treasury. As this Court has 
+
+
+20 
+
+
+Second, there is no reasoned basis to limit this 
+doctrine to sureties. Indeed, the Second Circuit has enforced 
+this rule in the distinct case of an unpaid subcontractor. As 
+the court stated: 
+
+
+One might argue that because Active never sought an 
+injunction preventing USPS from making any 
+payments pending the disposition of this lawsuit it is 
+effectively estopped from arguing that its position has 
+eroded over time. This argument must fail. When 
+USPS became aware of Active's claim, it was placed 
+on notice of the possibility of a recovery against it. 
+It also should have recognized the risk that it faced if 
+
+
+acknowledged in other circumstances, private claimants may hold an 
+equitable interest on monies in the Treasury. See Houston v. Ormes, 
+252 U.S. 469, 474 (1920) (recognizing an equitable lien for attorneys 
+fees upon a $1,200 fund, held in the Treasury, appropriated to pay the 
+attorney's client), Mfellon v. Orinoco Iron Co., 266 US. 121 (1924) 
+(recognizing claimant's equitable mght in a $56,250 fund, held in the 
+Treasury, which was received by the Secretary of State from Venezuela 
+in satisfaction of claimant's claim). Nor does the fact that the 
+government continued to possess the liened funds serve to invalidate 
+the unpaid subcontractor’s hen. Thus, in Armsirong v. United States, 
+364 U.S. 40, 46 (1960), the Court held that conveyance to the 
+government of a defaulting contractor's tle to boat hulls did not 
+invalidate subcontractors’ prior liens. As the Court stated, “[a}fter 
+transfer to the United States, the liens were still valid, United States v. 
+Alabama, 313 U.S. 274, 281-282 (1941), but they could not be 
+enforced because of the sovereignty of the Government and its property 
+from suit [footnote omitted].” Similarly, in United States v. Alabama, 
+supra, the Court recognized that Alabama had a valid ta. hen, albert 
+unenforceable, in land held by the United States. As the Court stated, 
+“we perceive no reason why the United States, albeit protected with 
+respect to proceedings against it without its consent, should stand, so 
+far as the existence of the liens is concerned, in any different position 
+from that of other purchasers of lands in Alabama who take 
+conveyances on and after the specified tax date.” United States v. 
+Alabama, supra, at 282. 
+
+
+2! 
+
+
+it paid the money out to other parties. USPS cannot 
+complain that Active did not try to prevent it from 
+taking that risk. 
+
+
+Active Fire Sprinkler Corp., 811 F.2d at 757.° 
+
+
+Third, this result is especially compelling as to funds 
+paid out after Blue Fox filed suit to enjoin transfer.° This 
+Court has held that a party cannot "moot" a case through such 
+conduct. See Porter v. Lee, 328 U.S. 246, 251 (1945) ("[iJt 
+has long been established that where a defendant with notice 
+in an injunction proceeding completes the acts sought to be 
+enjoined the court may by mandatory injunction restore the 
+Status quo."), accord Porter v. Warmer Holding Co., 328 US. 
+395, 399, n.2 (1946); Texas & N.O.R. Co. v. Northside Belt 
+Ry. Co., 276 U.S. 475, 479 (1928). Restoring the siatus quo, 
+on these facts, would provide Respondent the “very thing” to 
+which it is entitled) Bowen, 487 US. at 895. 
+
+
+*Thus, it is no answer to assert that Respondent never sought 
+preliminary relief. Pet. Br. 30,n. 13. An injunction “is not a remedy 
+which issues as of course...” Weinberger v. Romero-Barcelo, 456 
+U.S. 305, 310 (1981) quoting Harmsonville v. WS. Dickey Clav Mfg. 
+Co., 289 U.S. 334, 337-339 (1933). The district court would have 
+denied preliminary relief in any event, since it eventually dismissed the 
+case for lack of jurisdiction. Pet. App. 30a ("The court concludes that 
+it does not have jurisdiction to determine the claim of Blue Fox against 
+the Army.”). Even if an injunction had issued, it would have dissolved 
+upon dismissal, and the Army could have “paid out the monies to 
+which the lien attached,” Pet. App. | 2a, at that point. 
+
+
+*In its Complaint, Blue Fox prayed inter alia “for an injunction 
+enjoining Defendants from paying any further moneys under Contract 
+Number DAEA08-93-C-0056 (the Verdan contract}, or making any 
+payments from funds available or appropriated for a follow-on contract 
+for completion of the Umatilla Army Depot Electronic Switching 
+System project, until Plaintiff's unpaid bill is satisfied.” Pet. App. 40a. 
+
+
+22 
+
+
+Fourth, the holding in City of Houston v. HUD, 24 
+F.3d 1421, 1428 (D.C. Cir. 1994) does not change this result. 
+In that case, because funding had lapsed, the court found that 
+“an award of monetary relief from any other source ... would 
+constitute money damages.” City of Houston, supra, at 
+1428. However, City of Houston involved expired budget 
+authority; the court found that the case “was mooted by the 
+expiration of the relevant appropriation..." /d. at 1426. 
+Here, however, no appropriation “lapse” has been alleged, let 
+alone identified by Petitioner. In any event, the court's 
+statement that “unobligated funds revert back to the 
+Treasury,” /d. at 1426, appears inconsistent with current law, 
+under which unobligated balances retain their fiscal identity 
+in an expired account for five years.’ In any event, Congress 
+
+
+"See Pub. L. No. 101-510, 104 Stat. 1485 (1990) (relevant law 
+beginning at 1675), codified at 31 U.S.C. 1551-1557 
+
+
+31 USC. 1552(a) provides: 
+
+
+On September 30th of the Sth vear after the 
+period of availability for obligation of a fixed 
+appropriation account ends, the account shall be 
+closed and any remaining balance (whether obligated 
+or unobligated) in the account shall be canceled and 
+thereafter shall not be available for obligation or 
+
+
+expenduure for any purpose. 
+31 USC. 1553(a) provides: 
+
+
+After the end of the period of availability tor 
+obligation of a fixed appropnation account and betore 
+the closing of that account under section 1552(a) of 
+this title, the account shall retain its fiscal-) ear 
+identity and remain available for recording, adjusting 
+and liquidating obligations properly chargeable to that 
+account. ° 
+
+
+Thus, these balances remain with the federal agencies and are available 
+
+
+23 
+
+
+has provided that lawsuits and “rights of action” remain 
+unaffected by any provision of law requiring return of expired 
+balances to the general fund of the Treasury." Thus, the 
+$84,910.52, transferred to DCI for completion of the Verdan 
+contract work and “other work,” remains subject to 
+Respondent's lien.’ 
+
+
+to liquidate obligations and effect adjustments. See generally, United 
+States General Accounting Office, Principles of Federal Appropriation 
+Law, 5-57 et seq (1994). 
+
+*31 U.S.C. 1502(b) provides: 
+
+
+A provision of law requiring that the balance 
+of any appropriation or fund be returned to the 
+general fund of the Treasury at the end of a definite 
+period does not affect the status of lawsuits or rights 
+of action involving the mght to an amount payable 
+from the balance. 
+
+
+See also West. Va. Ass'n of Community Health Cirs. v. Heckler, 734 
+F.2d 1570, 1576 (D.C. Cir. 1984) (“an equitable doctrine has been 
+fashioned by the federal courts in recent years to permit funds to be 
+awarded to a deserving plaintiff even after the statutory lapse date. as 
+long as the lawsuit was instituted on or before that date {citation 
+omitted] The doctrine has been likened to the equitable principles of 
+constructive trust and equitable lien [citation omitted] *), see also 
+Principles of Federal Appropriations Law, supra, 5-71 (“As long as the 
+suit is filed prior to the expiration date, the court acquires the necessary 
+jurisdiction and has the equitable power to ‘revive’ expired budget 
+authority, even where preservation is first directed at the appellate 
+level.”). 
+
+
+*Respondent’s suit was filed May 11, 1995. JA. I. On July 27, 1995, 
+the Army issued “Modification P0006 to the DCI contract. _ for 
+$126,772.78." Choate Aff., par. 13, JA. 61, J.A. 41. “The Army paid 
+for this modification by transferring the $84,910.52 left on the Verdan 
+contract to the DCI contract. The balance was paid from other 
+sources.” Choate Aff. par. 14, J.A. 61. Since suit was filed more than 
+two months prior to transfer, the $84,910.52 remains subject to Blue 
+Fox's lien. 
+
+
+24 
+
+
+Lastly, payment to inferior claimants should not 
+deplete the fund so as to prevent payments of available and 
+appropriated funds to authorized recipients. Even assuming 
+arguendo that the specific liened fund “no longer exists,” that 
+would be so only because the current state of bookkeeping 
+entries’ reflects authorized payments to Verdan and DCI. 
+Once a reviewing court determines that continued payment to 
+the prime contractor was arbitrary and capricious, or an abuse 
+of discretion,'' those payments should not be considered 
+authorized. See also Bausch & Lomb Optical Co. v. United 
+States, 78 Ct. Cl. 584, 607, cert. denied, 292 U.S. 645 (1934) 
+("Agents and officers of the Government have no authority to 
+give away the money or property of the United States, either 
+directly or under the guise of a contract that obligates the 
+Government to pay a claim not otherwise enforceable against 
+
+
+it."). 
+
+
+'© As Professor Dobbs has remarked, “It 1s sometimes said that money 
+has no earmarks, meaning that specific momes cannot ordinurily be 
+identified as the plaintiff's. But most of what passes for ‘moncy’ today 
+is nothing more than a bookkeeping allocation in any event, and the 
+law generally treated bookkeeping entries--accounts--as identitied 
+monies in many circumstances..." 2 D. Dobbs, supra, at 13, n.10. 
+''Where liens are asserted by sureties, the courts allow government 
+officials discretion in deciding whether to continue paying the prime 
+contractor, where work remains. See Balboa Ins. Co. v. United Siates, 
+775 F.2d 1158, 1164-1165 (Fed. Cir. 1985) (articulating eight actors to 
+consider “in determining whether the Government has exercised 
+reasonable discretion in distributing funds"). The reviewing court 
+decides if the determination \vas arbitrary and capricious, or an abuse 
+of discretion. /d., see also Argonaut Ins. Co. v. United States, 434 
+F.2d 1362, 1368 (CtCl. 1970), see also Br. Am. Surety Assoc. of 
+
+
+America at 6-7, and authorities therein. 
+
+
+25 
+
+
+b. Petitioner's Remaining "Damages" 
+Claim = 
+
+
+Petitioner's remaining’ discussion of Bowen's 
+damages/specific relief distinction misses the mark, as it is 
+directed at relief which Respondent is nor seeking. For 
+example, Petitioner asserts that “money damages" would 
+result if the Army's liability stemmed from its failure to 
+ensure that a Miller Act bond was posted. Pet. Br. 24; 27-28. 
+But that misreads Respondent's claim. The rights Blue Fox 
+asserts are mot based upon the failure to ensure that a bond 
+was in place. Granted, Respondent pleaded that Petitioner 
+failed to ensure that a Miller Act payment bond was 
+furnished. Pet. App. 37a That failure, including the 
+government's “comscious avoidance of the Miller Act 
+requirements,” Pet. App. 13a, n.6, enters into the equitable 
+equation. Cf. Jn Re Pyramid Industries, Inc., 210 B.R. 445, 
+456 (N.D. Ill. 1997) ("[wJhere the United States has failed to 
+insure the proper protection to subcontractors directed by the 
+Statute, the equities favor the unpaid subcontractors...."). It is 
+not, however, the source of Respondent's rights. Thus, cases 
+refusing Federal Tort Claims Act relief to unpaid 
+subcontractors are inapplicable. Pet. Br 26,n. 9.'* Similarly, 
+Respondent's theory is mot that the Miller Act implies a 
+private Night of action. Thus, Petitioner's observation that 
+the Miller Act imposes no substantive obligation to pay 
+federal funds to subcontractors” (Pet. Br. 25) is also beside 
+the point. 
+
+
+: 
+One such case supports Respondent's position that an equitablo lien is 
+not money damages. See Westbay Sieel, Inc. v. United States, 970 
+F.2d 648, 651 (Sth Cir. 1992) (Since FTCA only permits money 
+ae ee eee 
+
+
+26 
+C. The Appropriations Clause Does Not Bar Relief 
+
+
+Enforcement of Respondent's equitable lien does not 
+raise an Appropriations Clause issue. The Appropriations 
+Clause, U.S. Const. art. I, § 9, cl. 7 provides: "No Money 
+shall be drawn from the Treasury, but in Consequence of 
+Appropriations made by Law * * * " Relying on that 
+Clause, this Court in OPM v. Richmond, 496 U.S. 414, 432 
+(1990), refused to apply the doctrine of equitable estoppel to 
+require the government to make payments to a claimant 
+otherwise statutorily ineligible. In Richmond, to award 
+respondent the relief he requested would be to force the 
+government, because of misstatements by a benefits eligibility 
+counselor, to pay the respondent funds that Congress had 
+specifically rendered unavailable to persons at his income 
+level. Congress had amended the statute to deny eligibility 
+to persons in Mr. Richmond's position. For the agency to pay 
+Mr. Richmond would violate specific statutory prohibitions. 
+Id., at 432 ("[h]ere, the relevant statute by its terms excludes 
+respondent's claim....") (emphasis added). Richmond thus 
+stands for the proposition that federal courts may not force 
+federal agencies to overreach their statutory authority in 
+paying relief out of the public fisc. 
+
+
+The instant case stands in stark contrast to Richmond. 
+Here, no statute prohibits the government from paying 
+unexpended contract monies to an unpaid subcontractor. To 
+the contrary, voluntary payments to subcontractors have been 
+encouraged both by the courts and the General Accounting 
+Office.’ The Court of Claims has repeatedly urged the 
+
+
+''When GAO was established by the Budget and Accounting Act of 1921, 
+the Comptroller General was given broad claim settlement jurisdiction. 
+“Except as provided in this chapter or another law, the Comptroller 
+General shall settle all claims of or against the United States government.” 
+31 U.S.C. 3702(a). Pub. L. No. 104-53, 109 Stat. 514, 535 (1995) 
+
+
+27 
+
+
+government, where possible, to voluntarily pay its 
+subcontractors because it has an obligation (albeit 
+unenforceable in the Court of Claims) to do so. See (/nited 
+Elec. Corp. v. United States, 647 F.2d 1082, 1087 (Ct. Cl.), 
+cert. denied, 454 U.S. 863 (1981) (“[a]s we have done before, 
+we stress that the United States may choose to make 
+payment.").'* 
+
+
+transferred the claims settlement function of the General Accounting 
+Office to the Office of Management and Budget effective June 30, 1996. 
+For seventy-five years, the Comptroller General issued decisions on claims 
+against the United States. The settlement function included determination 
+of whether an appropriation is legally available for making payment 18 
+Comp. Gen 285, 292 (1938). These cuses have value us precedent and 
+include decisions authorizing payment to sureties and subcontractors See 
+Principles of Federal Appropriations Law, supra, pp. 12-89 w 12-99 
+(1994). 
+
+“The Court of Claims has remarked that a subcontractor lacks standing 
+to sue the government. See United Eleciric Corp. v. United States, 647 
+F.2d 1082, 1087 (Ct. Cl.), cert. demed, 454 U.S. 863 (1981) (“United has 
+no standing to sue the United States for recovery of its compensation", 
+United States Fidelity & Guar. Co. v. United States, 475 F 2d 1377, 1382 
+(Ct. Cl. 1973) (“the Court declines to grant the subcontractors’ standing 
+to sue for the amount retained by the Government under the contract *) 
+However, Petitioner has not raised a standing argument here, apparently 
+because the APA clearly provides standing to bring sunt Thus a 
+parallel exists to cases involving disappointed bidders under federal 
+contracts. It was once settled that an unsuccessful bidder had no standing 
+to challenge the legality of the bidding procedure. Perkins v. Lukens 
+Steel Co., 310 US. 113 (1940), Edelman v. Federal Housing 
+Administration, 382 F.2d 594, 597 (2d Cir. 1967) ("Bidding procedures 
+are for the public benefit generally and confer no private rights on the 
+bidder.") However, in Scanwell Laboratories, Inc. v. Shaffer, 424 F.2d 
+859 (D.C. Cir. 1970), the court stated that “[t}he law of standing was 
+greatly modified by the passage of the Administrative Procedure Act 
+{citing 5 U.S.C. 702 (Supp. IV 1965-68)]," Scanwell, supra, at 865, and 
+upheld a disappointed bidder's standing to challenge an award of 
+government contract as arbitrary and capricious. In terms of standing, it 
+makes little sense to define the class of those injured by arbitrary or 
+capricious government action to include disappointed bidders, but exclude 
+
+
+28 
+
+
+More importantly, the General Accounting Office-- 
+Congress's own accounting arm--has approved payments from 
+unexpended contract balances to both sureties and unpaid 
+subcontractors. See B-190144, Comp Gen. 176, 178 (1977) 
+("[w]e recognize, however, that Wilson [the unpaid 
+subcontractor] may have an equitable claim to the cortract 
+retainage of $7,033. * * * Therefore, we recommend that the 
+Navy take steps to assure that the rights of all parties are 
+adequately determined prior to any payment from the contract 
+retainage."). See also Id. at B-218813, April 9, 1986 
+("{a]ithough there is no privity of contract between the United 
+States and the subcontractors so as to warrant settlement of 
+their claims by the Government, both this Office and the 
+courts have recognized that the Government has 4a 
+nonenforceable equitable obligation to see that subcontractors 
+
+
+are paid.")."° 
+
+
+Petitioner nevertheless argues that the Appropriations 
+Clause requires a “substantive right to compensation based on 
+the express terms of a specific statute” before money can be 
+paid to Respondent. Pet. Br. 17 quoting Richmond, 496 US. 
+at 432. Petitioner's argument, however, seeks to extend 
+Richmond's \anguage far beyond its facts. Richmond said 
+nothing whatsoever about payment from unexpended federal 
+
+
+unpaid subcontractors. Indeed, as Blue Fox's current plight aptly 
+demonstrates, subcontractors’ interests are even more directly affected by 
+lawless governmental conduct. 
+
+‘Seven if this Court determines that payment lo Respondent is “money 
+damages,” Respondent would still be entitled to injunctive relief with 
+prospective effect. See Am. Br. for the Surety Assoc. of America at 23- 
+28. For the reasons and authorities stated therein, the district court had 
+jurisdiction in any event to enter an order preserving the contract balance 
+for any reason other than project completion and payment of Blue Fox. 
+This would include preservation of the contract balance pending a request 
+for claim settlement advice from the General Accounting Office (or its 
+successor, the Office of Management and Budget.) 
+
+
+29 
+
+
+contract balances. Nor did Richmond interpret Section 702, 
+it said nothing about what constitutes relief “other than 
+money damages.” To the contrary, Richmond concerned 
+money damages entitlement. Indeed, Richmond's insistence 
+
+on a substantive right to compensation based on the express 
+terms of a specific statute" relies for its very support "on our 
+leading case on jurisdiction over claims against the 
+Government, United States v. Testan, 424 U.S. 392 (1976).” 
+Richmond, 496 U.S. at 432. Tesian, of course, sets the rules 
+for determining whether money damages are available in the 
+Court of Federal Claims. This provides little help in resolving 
+what constitutes relief other than money damages. 
+
+
+D. Section 702 Is Not Limited To Claims Enforcing 
+Statutory Mandates 
+
+
+1. Nothing in the APA, Its Legislative History, nor 
+in Bowen, Is So Limiting 
+
+
+Petitioner argues that Bowen claims should be limited 
+to those seeking to enforce a statutory entitlement to money. 
+See Pet. Br. 23. ("[T]he claim [in Bowen], the Court 
+explained, merely sought ‘to enforce the statutory mandate 
+itself, which happens to be one for the payment of money. 
+[Bowen,] 487 U.S. at 900. The same cannot be said of 
+respondent's suit here."). However, nothing in Bowen, the 
+APA, or its legislative history supports such a restriction. 
+
+
+| To be sure, the claimant in Bowen sought to enforce 
+rights to money created by a statute. At issue, however, was 
+the government's request that this Court "substitute the words 
+‘monetary relief’ for the words ‘money damages’ actually 
+selected by Congress.” Bowen, 487 U.S. at 896. The Bowen 
+Court rejected that argument and, in the process, rejected 
+Petitioner's current argument as well. Quoting the legislative 
+
+
+30 
+
+
+history, the Court stated that Congress intended to “eliminate 
+the sovereign immunity defense in all equitable actions for 
+specific relief against a Federal agency or officer acting in an 
+official capacity.” quoting Maryland Dep't of Human 
+Resources v. HHS, 763 F.2d 1441, 1444 (D.C. Cir. 1985), 
+quoting in turn H.R. Rep. No. 1656, 94th Cong., 2d. Sess. 9 
+(1976); S. Rep. No. 996, 94th Cong., 2d Sess. 8 (1976), US. 
+Code Cong. & Admin. News 1976, p. 6129 (emphasis in 
+original). Bowen, 487 US. at 898-900. “That sweeping 
+declaration strongly suggests that Congress intended to 
+authorize equitable suits for specific monetary relief as we 
+have defined that category.” /d.'° 
+
+
+As in Bowen, the government again seeks to replace 
+the words “money damages," actually selected by Congress, 
+with limiting words more to its liking. However, since 
+Congress included no limitation for claims enforcing a 
+"money-mandating statute,” this Court should decline 
+Petitioner's request to re-write the statutory text. As the 
+Bowen Court stated, “only the most compelling reason could 
+justify a revision of a statutory text that is this unambiguous.” 
+Id. at 896. Petitioner has provided none here. As the Ninth 
+Circuit correctly concluded, therefore (and as Petitioner's 
+attorney conceded to that panel), see Br. in Opp. 9-11, there 
+is no requirement in Bowen or the APA that the specific 
+relief requested be statutorily granted." Pet. App. 8a. Accord 
+Aetna Cas. & Sur. Co., 71 F.3d at 479 (2d Cir. 1995) ("[w]e 
+see no reason why the duty to pay money should not be 
+equally enforceable under the APA regardless whether the 
+
+
+In the ten years since Bowen was decided, Congress has left its holding 
+undisturbed, signaling its agreement with this Court's decision. Bowen's 
+stare decisis value is strong. See /ilinois Brick Co. v. lilinois, 431 U.S 
+720, 736 (1977) ("we must bear in mind that considerations of stare 
+decisis weigh heavily in the area of statutory consiruction, where Congress 
+is free to change this Court's interpretation of its legislation.”). 
+
+
+31 
+
+
+duty arises by statute, regulation, or operation of law.").'’ 
+
+
+2. An Equitable Lien Is Distinguishable From Back 
+Pay 
+
+
+For several reasons, Petitioner's reliance on Hubbard 
+v. Administrator, EPA, 982 F.2d 531 (D.C. Cir. 1992) (en 
+banc) is misplaced.'* 
+
+
+First, Petitioner's Hubbard discussion misreads the 
+holding below. Petitioner states that, in part, "the Ninth 
+Circuit read Section 702 as distinguishing between ‘law’ and 
+‘equity."" However, any such distinction is not apparent in 
+the opinion. Rather, the court applied Bowen's test for 
+determining whether a claimant seeks relief “other than 
+money damages” under Section 702. Pet. App. 7a. Finding 
+
+
+'’Moreover, to limit Bowen as Petitioner suggests would further blur the 
+line separating district court and Court of Federal Claims jurisdiction 
+Obviously, the “money mandating statute” which Petitioner posits as the 
+sine qua non of monetary relief under Section 702, would also be an “Act 
+of Congress” upon which Tucker Act jurisdiction could be based. See 28 
+U.S.C. 1491(a)(1) ("The United States Court of Federal Clans shall have 
+jurisdiction to render judgment upon any claim founded either upon the 
+Constitution, or any Act of Congress or any regulation of an executive 
+department, or upon any express or implied contract with the United 
+States, or for liquidated or unliquidated damages in cases not sounding in 
+tort.") Under Petitioner's proposed limitation, district court jurisdiction 
+under Section 702 would necessarily overlap Court of Federal Claims 
+jurisdiction. It is unlikely that Congress intended such a result 
+
+'*In Hubbard, the plaintiff, whom EPA had wrongfully failed to hire, 
+requested backpay along with instatement as part of an equitable 
+remedy. A split panel of the D.C. Circuit concluded that back pay fell 
+within the waiver of immunity for “relief other than money damages” 
+in 5 U.S.C. 702. The en bane court found that Hubbard could not 
+receive backpay “because Congress had not expressed an unequivocal 
+intent to waive sovereign immunity for such relief.” Hubbard, 982 
+F.2d at 532. 
+
+
+32 
+
+
+that "Blue Fox seeks an equitable lien only for the very thing 
+to which it is entitled..." (i.e, specific relief), the court 
+properly determined that Section 702 waives immunity. /d 
+Thus, much of Petitioner's Hubbard discussion is inapposite. 
+See, e.g., Pet. Br. 31 (the line [Section 702 draws is not 
+between actions at law and suits in equity.’ Hubbard, 982 
+F.2d at 539 (Randolph, J., joined by R.B. Ginsburg, J., 
+concurring). * * * (‘What may qualify as an “equitable 
+remedy" * * * is not synonymous with specific relief.’)"). 
+
+
+Second, Hubbard dealt with entitlement to backpay, a 
+traditional compensatory remedy. ("(BJack pay for someone 
+in Hubbard's position has traditionally been understood at 
+common law as ‘damages,’ not ‘specific relief." Hubbard, 982 
+F.2d at 533. However, an equitable lien is not damages. See 
+2 D. Dobbs, supra, at 5 ("[a]n equitable lien is a lien placed 
+upon specific funds or property to secure the plainuff's mghts 
+to restitution in money." [footnote omitted]; 3 D. Dobbs, 
+supra, at 9 ("[rJestitutionary recoveries are based on the 
+defendant's gain, not on the plaintiff's loss. Restitution is 
+thus distinct from damages, which measures compensation for 
+loss rather than disgorgement of the defendant's gain"). 
+
+
+Third, unlike Hubbard, Blue Fox invested time and 
+materials. In Hubbard, however, the plainuff never performed 
+any work. His claim was for “loss of income attributable to 
+Hubbard's being denied the job....". Hubbard, 982 F.2d at 
+$33. The court noted the result may well have been different 
+had the plaintiff performed work for which he was not paid. 
+("We do not suggest that back pay must always be viewed as 
+money damages and can never be properly categorized as 
+specific relief. If Hubbard had been hired by the EPA and 
+worked for the agency for a year without being paid, his legal 
+claim might well be viewed differently. In that case, the 
+money that Hubbard had a right to receive in exchange for 
+his labor might well be the very thing that was taken from 
+
+
+33 
+him.") Id. at 533, n.4 ."° 
+
+
+Lastly, the existence of a lienable fund distinguishes 
+the backpay case. In the case below, the court merely 
+redirected existing funds to the unpaid subcontractor, based 
+
+
+upon longstanding equitable rights. No such fund 
+= . gh uch fund existed in 
+
+
+IL RESPONDENT'S SUIT SEEKS JUDICIAL REVIEW 
+OF AGENCY ACTION 
+
+
+| Petitioner argues that an equitable lien action is not 
+subject to APA review. According to Petitioner, the waiver 
+of immunity in the 1976 amendment to the APA "is limited 
+to the traditional forms of action that seek ‘judicial review’ of 
+
+
+‘agency action,” Pet. Br. 42, which exclude equitable lien 
+actions. This argument fails. 
+
+
+First, this argument was not raised below. Petitioner 
+correctly notes that neither the Ninth Circuit nor Respondent 
+“attempted to explain how assertion of an ‘equitable lien’ 
+claim is a suit for ‘judicial review. Pet. Br. 43. However, 
+until its brief on the merits to this Court, Petitioner never 
+raised that point. Thus, this argument is not properly before 
+the Court. See S. Ct. Rule 14.1(a) ("only the questions set 
+out in the Petition or fairly included therein will be 
+considered by the Court.) See also Youakim v. Miller, 425 
+U.S. 231, 234 (1976) ("[o}rdinarily, this Court does not 
+
+
+In lik 
+n like manner, the focus of Judge Randolph's concurring opinion (in 
+
+
+which then Circuit Judge R.B. Ginsburg joined) was that Hubbard lost 
+the opportunity to earn wages (as opposed to the wages themselves) 
+The concurring opinion's first sentence summarized its rationale “If 
+Hubbard prevails, the Government will have to pay him money to 
+make up for the wages he never earned.” (emphasis added). . 
+
+
+34 
+
+
+decide questions not raised or resolved in the lower 
+courts.").”° 
+
+
+Second, Blue Fox does seek review of “agency action" 
+as defined in the APA. The Army is an “agency.” 
+Respondent alleges “agency action." That action includes 
+the Army's continued payment of contract funds ($86,132.33 
+to Verdan (J.A. 34) and $84,910.53 to DCI (JA. 61), after 
+Blue Fox requested "suspension or reduction of payment ..by 
+your agency." (J.A. 33)). This constitues "relief*” as defined 
+
+
+*°tn its Petition for Certiorari, the Army set out the following question: 
+“Whether 5 U.S.C. 702 permits respondent to bring an action in federal 
+district court for an ‘equitable lien’ against the government to recover the 
+amounts owed to respondent by the primary contractor.” Pet. for Cert. | 
+Petitioner did state that “the Nenth Circuit majority did not dently the 
+‘agency action’ that allegedly caused respondent to suffer ‘legal wrong’ of 
+‘adversely affected’ respondent within the meaning of the relevant statute, 
+5 U.S.C. 702 -- and therefore did not even idently what agency achon 
+was being subjected to judicial review --." Pet for Cert. 20. However, 
+Petitioner did not raise the argument that Section 702's waiver “is limited 
+to the traditional forms of action that seek ‘judicial review’ of ‘agency 
+action.” Pet. Br. 42. 
+2'5 U.S.C. 551(1) provides. 
+“For the purpose of this subchapter-- 
+
+(1) ‘agency’ means each authority of the Government of the 
+United States, whether or not it is within or subject to review by 
+another agency, but does not include * * *°" 
+225 U.S.C. 551 (13) provides: 
+
+“agency action’ includes the whole or a part of un agency 
+rule, order, license, sanction, relief, or the equivalent or den! thereof, 
+or failure to act, * 
+
+
+235 U.S.C. 551(11) provides: 
+
+“relief includes the whole or a part of an agency-- 
+(A) grant of money, assistance, license, authority, exemption, 
+exception, privilege, or remedy, 
+(B) recognition of a claim, right, immunity, privilege, exemption, or 
+exception, or 
+
+
+35 
+
+
+in5 U.S.C. 551(11). The Army's “fail{ure] to act" constituted 
+“agency action.” 5 U.S.C. 551(13). Having thus “sufferjed] 
+legal wrong because of agency action,” Respondent is 
+“entitled to judicial review thereof." 5 U.S.C. 702. Thus, 
+Petitioner's argument is not applicable to these facts. 
+
+
+Third, in any event, Section 702 waives sovereign 
+immunity in a// non-damages actions seeking relief from 
+official misconduct, even if not technically defined in Section 
+551(13).* After an exhaustive review of the legislative 
+history to the 1976 Amendments to the APA, the court came 
+to just this conclusion in Presbyterian Church v. United 
+States, 870 F.2d 518 (9th Cir. 1989). The court noted that 
+
+
+(C) taking of other action on the application or petition of and 
+beneficial to, a person.” 
+
+
+“This conclusion is reinforced by the fact that, in passing the 1976 
+amendment to the APA, Congress intended to waive sovereign immunity 
+in so-called “nonstatutory” cases. Cf Jaffee v. United States, $92 F 2d 
+712, 718 (3rd Cir. 1979) (stating that legislative history w the 1976 
+Amendment to the APA “notes that acts of the older executive 
+departments, such as the Department of Detense, are subject to judicial 
+review only through ‘nonstatutory’ suits under (SJection 1331 _{t}hese 
+suits are called ‘nonstatutory’ because they are not brought under the 
+statutes that specially provide for review of agency action. See H.R. Rep. 
+No. 94-1656, 94th Cong., 2d Sess. 5, reprinted in [1976] U.S. Code Cong. 
+& Admin. News, pp. 6121, 6125. In these instances, judicial review 1s 
+available, if at all, through actions involving matters which arise ‘under 
+the Constitution, Laws, or treaties of the United States’ as provided in 
+[Section 1331(a) of title 28. /d.") To limit Section 702 review to only 
+“agency action” as defined in Section 551(13) would be inconsistent with 
+Congress’ desire to grant judicial review of the conduct of the older 
+executive agencies. Moreover, the fact that Congress intended to allow 
+“nonstatutory” review also makes it less likely that it intended that there 
+be a statutory prerequisite to the issuance of specific monetary relief 
+
+
+36 
+
+
+"{nJothing in the language of the amendment suggests that the 
+waiver of sovereign immunity is limited to claims challenging 
+conduct falling in the narrow definition of ‘agency action.” 
+Id. at $25. Moreover, referring to the legislative history, the 
+Court stated that Congress intended to do away with the need 
+for fictions with which to circumvent sovereign immunity. 
+As the Court stated, “Congress’ plain intent in amending § 
+702 was to waive sovereign immunity for all such suits, 
+thereby eliminating the need to invoke the Young fiction.” 
+Id. at $26.° See also Chrysler v. Brown, 441 US. 281 
+(1979) (decision to disclose trade secret information is 
+“agency action” under Section 10 of the APA."). 
+
+
+ill. RELIEF UNDER SECTION 702 IS NOT 
+IMPLIEDLY FORBIDDEN BY OTHER 
+STATUTES 
+
+
+A. The Tucker Act Does Not Impliedly Forbid 
+Enforcement Of An Equitable Lien 
+
+
+Petitioner argues that the Tucker Act “impliedly 
+forbids” the relief Respondent seeks. The government relies 
+for support upon the final sentence of Section 702. “Nothing 
+herein * * * confers authority to grant relief if any other 
+statute that grants consent to suit expressly or impliedly 
+forbids the relief which is sought." 5 U.S.C. 702 
+
+
+However, the Tucker Act does not grant consent /o 
+
+
+Petitioner states that ‘he Presbyterian Church ruling is inconsistent 
+with this Court's decision in Lujan v. Defenders of Wildlife, 497 U.S 
+871 (1990). Pet. Br. 43-44, 2.23. However, Luan did not reach the 
+
+
+issue Petitioner raises. As the Court stated, “[ajs for the ‘agency action’ 
+
+
+requirement, we think that each of the affidavits can be read, as the 
+Court of Appeals believed, to complain of a particular ‘agency action 
+as that term is defined in [SJection 551." /d. at 885 
+
+
+37 
+
+
+Respondent's suit. In Katz v. Cisneros, 16 F.3d 1204 (Fed. 
+Cir. 1994), the Federal Circuit rejected Petitioner's very 
+argument, in the context of a developer's action to compel 
+HUD to perform calculation of contract rents in accordance 
+with regulations As here, the government argued that the 
+Tucker Act impliedly forbade the relief. However, in finding 
+no implied preclusion, the court stated: 
+
+
+The prerequisite to this prohibition, however, is that 
+the statute which forbids the relief sought ‘grants 
+consent to suit, 5 U.S.C. § 702, in this case that some 
+relief be available in the Court of Federal Claims 
+under the Tucker Act. But, as we have discussed, no 
+relief is available in the Court of Federal Claims here 
+because the case challenges the interpretation of law 
+which controls payment to Hollywood Associates It 
+is not a contract case. Hollywood Associates does not 
+seek declaratory relief in the performance of a 
+contract, but seeks judicial interpretation of a federal 
+regulation. 
+
+
+Id. at 1209; see also id. at 1210 ("[{t}his analysis also answers 
+the question whether the Tucker Act impliedly forbids relief 
+under the APA. It does not because it does not cover this 
+situation."). 
+
+
+Similarly, the Tucker Act “does not cover 
+[Respondent's] situation.” /d There are several reasons why 
+this is so. First, Respondent seeks to enforce rights which 
+arise by operation of law. See Pearlman, 371 US. at 132. 
+
+
+“Under the Federal Court Administration Act of 1992, 28 USC 
+1292(d)4A) the United States Court of Appeals for the Federal Circuit 
+was given exclusive jurisdiction of appeals from a district court granting 
+or denying a motion to transfer an action to the Unted States Court of 
+Federal Claims. 
+
+
+38 
+
+
+n.12 ("[t]he right of subrogation is not founded on contract. 
+It is a creature of equity."); see also Ormes, 252 US. at 474 
+(1920); Armstrong, 364 US. at 46 (liens of federal 
+subcontractors “attached by operation of law"). As such, its 
+claim does not fall within the Tucker Act, since it is not 
+"founded either upon the Constitution, or any Act of Congress 
+or any regulation of an executive department, or upon any 
+express or implied contract with the United States, or for 
+liquidated or unliquidated damages in cases not sounding in 
+tort,” 28 US.C. 1491(a)(1).”’ 
+
+
+Respondent's suit, like Kaiz, “is not a contract case. 
+Katz, \6 F.3d at 1209. Since Respondent does not have a 
+contract with the United States, it lacks privity of contract, 
+“an indispensable prerequisite for standing to sue in the Court 
+of Federal Claims under the Tucker Act." National Leased 
+Housing Ass'n v. United States, \0S F.3d 1423, 1435 (Fed. 
+Cir. 1997); see also Erickson Air Crane Co. of Washington. 
+Inc. v. United States, 731 F.2d 810, 813 (Fed. Cir. 1984) 
+(privity of contract does not exist between the government 
+and its subcontractors).~* 
+
+
+Nevertheless, Petitioner states that “If the prime 
+
+
+2” Respondent does not allege an implied in law contract under the 
+
+
+Tucker Act. Thus, the authorities cited at page 49 of Petuoner’s Bret 
+
+
+are inapposite. Those cases restrict the Tucker Act jurisdiction ot 
+Court of Federal Claims (or its predecessor courts) to exclude clams 
+based upon a contract implied in law. They say nothing about the 
+reach of Section 702's waiver of sovereign immunity for claims “other 
+than money damages” in federal district courts. 
+
+
+**in any event, the remedy Respondent seeks -- an equitable lien -- 1s 
+beyond the Court of Federal Claims’ jurisdiction which, with exceptions 
+not here applicable is limited to claims for money damages. United States 
+v. King, 305 U.S. |, 4 (1969) (cases seeking relief other than money 
+damages from the Court of Claims have never been ‘within its 
+
+
+jurisdiction.’ quoting The Declaratory Judgment Act, 28 USC 2201 ) 
+
+
+39 
+
+
+contractor, which iS in privity with the government, cannot 
+enforce its right to payment by seeking ‘specific performance’ 
+under the APA, it should follow a fonion’ that a 
+subcontractor, which is not in privity, cannot do so either.” 
+Pet. Br. 48-49. That argument, however, misreads the 
+premise for impliedly precluding contractors from APA relief 
+If aggreived by government action, contractors have a 
+damages remedy in the Court of Federal Claims.” As the 
+court stated in Megapulse, Inc. v. Lewis, 672 F.2d 959, 967 
+(D.C. Cir. 1982), “to allow suit against the United States 
+under the APA in actions actually based on contract would 
+create such inroads into the restrictions of the Tucker Act that 
+it would ultimately result in the demise of the Court of 
+Claims." However, where --as here-- the source of rights is 
+other than contract, district court jurisdiction 1s proper. /d. at 
+971. ("It Is clear to us that Megapulse has not brought a 
+contract action or an otherwise disguised claim for monetary 
+relief. be ° . This action was properly brought under the APA 
+
+and injunctive relief, preliminary or permanent, is available in 
+the district court."). North Side Lumber Co. v. Block, 753 
+F.2d 1482, 1486 (9th Cir. 1985) (mo Tucker Act implied 
+preclusion of timber contractors’ claim based upon extra- 
+contractual statutory obligations). 
+
+
+B. The Miller Act Does Not impliedly Forbid Enf. 
+Of An Equitable Lien : ee, 
+
+
+Petitioner argues that “[t]o the extent the Tucker Act 
+does not bar relief, the Miller Act does." Pet. Br. 49, n.27 
+However, that argument has been considered and rejected by 
+at least three circuit courts of appeal. This Court should 
+
+
+72” . 
+An alternative forum is available before agency boards of contract 
+me under the Contract Disputes Act of 1978, 41 US.C. 601 et seq. 
+the Court of Federal Claims, the boards’ jurisdiction does not extend 
+to granting genera! equitable relief. 
+
+
+40 
+reject it as well. 
+
+
+In Active Fire Sprinkler, the government argued that 
+the incorporation of a Miller Act remedy into the Postal 
+Reorganization Act, 39 USC. 410(b)(4)(B) evidences 
+Congress's intent that the Miller Act provide the only remedy 
+for subcontractors, laborers and suppliers." Active Fire 
+Sprinkler, 8\\ F.2d at 752. Relying on Pearlman, the court 
+rejected that argument, stating “the Miller Act does not 
+evidence an intent to eliminate any rights that subcontractors 
+might possess.” /d. at 753. That Congress did not impliedly 
+preclude subcontractor rights is apparent in the following 
+language from Pearlman: 
+
+
+It is argued that the Miller Act [footnote omitted] 
+changed the law as declared in the Praine Bank and 
+Henningsen cases. We think not. Certainly no 
+language of the Act does, and we have been pointed 
+to no legislative history that indicates such a purpose 
+The suggestion is, however, that a congressional 
+purpose to repudiate the equitable doctrine of the two 
+cases should be implied from the fact that the Miller 
+Act required a public contract surety to enecets aed 
+bonds instead of the one formerly required. 
+Neither this slight difference in the new and the old 
+Acts nor any other argument presented persuades us 
+that Congress in passing the Miller Act intended to 
+repudiate equitable principles so deeply imbedded in 
+our commercial practices, our economy, and our law 
+as those spelled out in the Prairie Bank and 
+Henningsen cases. 
+
+
+Pearlman, 37\ US. at 139-40. See also Wrghi, 29 F.3d at 
+1431 ("[s]ince the plain language of the Miller Act relates 
+only to the creation of a remedy for subcontractors as against 
+sureties, as we construe it, it does not limit {the 
+
+
+41 
+
+
+subcontractor]'s rights vis-a-vis the government herein."). 
+Accord Kennedy Elec., 508 at 957. 
+
+
+Petitioner cites several cases stating that subcontractors 
+cannot sue the government. But those precedents are nothing 
+more than sovereign immunity bars. Because immunity has 
+been waived, those authorities--no matter how extensive or 
+well-settled earlier-- no longer bar federal court jurisdiction.’ 
+
+
+This Court's statement in United States v. Munsev Trust Co., 432 
+U.S. 234, 241 (1947) that "[njothing is more clear than that laborers 
+and materialmen do not have entorceable rights against the United 
+
+
+States for their compensation” should not prevent jurisdiction of this 
+case 
+
+
+First, irrespective of the state of the law in 1947. Congress in 
+1976 “eliminate[d] the sovereign immunity defense in all equitable 
+actions for specific relief against a Federal agency or otficer acting in 
+an official capacity.” Bowen, 487 US. at 898-900, quoting \/arvland 
+Dep't of Human Resources v. HHS, 763 F 2d 1441, 1444 (DC Cir 
+1985), quoting in turn H.R. Rep. No. 1656, 94° Cong. , 2d Sess. 9 
+(1976), S. Rep No. 996, 94" Cong., 2d Sess. 8 (1976), US Code 
+Cong. & Admin. News 1976, p. 6129 (emphasis in original) As 
+Bowen noted, there is a “well-settled presumption that Congress 
+understands the state of existing law when it legislates, see eg Cannon 
+v. Univ. of Chicago, 441 US. 677, 697 (1979)." Bowen, supra, at 696 
+Presumably aware that sovereign immunity barred subcontractor suits, 
+
+
+Congress said nothing in Section 702 to exclude such suits from its 
+reach. 
+
+
+Second, in Pearlman, Mr. Justice Black took pains to 
+distinguish Munsey. 
+
+
+"The point at issue in that case (\/unsey| was whether 
+the United States while holding a fund like the one in 
+this case could offset against the contractor a claim 
+bearing no relationship to the contractor's claim there 
+at issue. We held that the Government could exercise 
+the well-established common-law right of debtors to 
+offset claims of their own against their creditors This 
+
+
+42 
+
+
+Congress, of course, is free to waive sovereign immunity on 
+terms of its choice. And it did so broadly in the 1976 
+amendment to Section 702. In what this Court termed “an 
+important part of a major piece of legislation,” Bowen, 487 
+US. at 896. Congress unequivocally eliminated sovereign 
+immunity as a defense in lawsuits against the United States, 
+except for claims seeking “money damages.” That Congress 
+has removed the “technical obstacle" of sovereign immunity 
+is beyond dispute. /d. This Court should therefore reject 
+
+
+was all we held. The opinion contained statements 
+which some have interpreted [footnote omitted] as 
+meaning that we were abandoning the established 
+legal and equitable principles of the Praine Bank and 
+Henningsen cases under which sureties can indemnity 
+themselves against losses. * * * We hold that 
+Munsey left the rule in Praine Bank and Henningsen 
+undisturbed ~ 
+
+
+Pearlman, 371 US. at 140-141 (emphasis added) 
+
+
+Third, at least three circuit courts have permitted 
+subcontractors to directly sue the United States Postal Service. See 
+W right, 29 F.3d at 1426, Active Fire Spnnkler, 81) F.2d at 752-753, 
+Kennedy Elec., 508 F.2d at 954. If the Munsey quote accurately 
+reflected current law, then those decisions would all be in error. 
+
+
+Fourth, \funsey cited as its exclusive support three Court of 
+Claims decisions under the Tucker Act. See H. Herfurth, Jr.. Inc., ¥ 
+United States, 89 Ct. Cl. 122 (1939), Schmoll v. Umited States, 63 F 
+Supp. 753, 105 Ct. Cl. 415, 455 (1946), Marvland Casualiy Co. v 
+United States, 100 Ct. Cl. $13, 53 F. Supp 436, 440 (1944) This ts 
+not such a such a suit. See infra, 37-38 
+
+
+Finally, whether Munsey was correctly decided, even under 
+then-applicable law, has been the subject of debate among scholars 
+See Am. Br. For the Surety Assoc. of America at 9, n.8 and authorities 
+cited therein 
+
+
+43 
+
+
+Petitioner's argument to construe Section 702 narrowly. See 
+Block v. North Dakota, 461 U.S. 273, 293-294 (1983) 
+(O'Connor, J., dissenting) ("[a]lthough it is indeed true that 
+the Court construes waivers of sovereign immunity strictly, 
+that principle of statutory construction is no more than an aid 
+in the task of determining congressional intent. In a close 
+case, it may help the Court choose between two equally 
+plausible constructions. It cannot, however, grant the Court 
+authority to narrow judicially the waiver that Congress 
+intended.") See also United Siates v. Kubrick, 444 US. 111, 
+118 (1979); Indian Towing Co. v. United States, 350 U.S. 61, 
+69 (1955) ("[o]f course, when dealing with a statute [the 
+FTCA] subjecting the Government to liability for potentially 
+great sums of money, this Court must not promote profligacy 
+by careless construction. Neither should it as a self- 
+
+
+~ constituted guardian of the Treasury import immunity back 
+
+
+into a statute designed to limit it.") 
+[V. CONCLUSION 
+
+
+For the foregoing reasons, and those stated in its Brief 
+
+
+in Opposition, Respondent respectfully requests that this Court 
+affirm the judgment below 
+
+
+Respectfully submitted, 
+
+
+THOMAS F. SPAULDING 
+Counsel of Record 
+
+DAVID A. WEBSTER _ 
+SPAULDING, COX & 
+SCHAEFFER, LLP 
+
+Attorneys for Respondent 
+
+1205 N.W. 25th Avenue 
+Portland, Oregon 97210-2497 
+(503) 222-3815 
+
+

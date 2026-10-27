@@ -1,0 +1,20 @@
+[
+  {
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title42/html/USCODE-1994-title42.htm",
+    "sha256": "3dc5be36c5bef7dd3c6f61ad35cc42863ace254370b39875cfe2744ac760f2a4",
+    "bytes": 48533265,
+    "retained": "bounded section HTML and text for titles 42 and 47; title 28 index only was not used"
+  },
+  {
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title47/html/USCODE-1994-title47.htm",
+    "sha256": "ea11592742c4778e05f0759dc268353f0a34ea1bfbdbfb48dbd9b411a4d0f877",
+    "bytes": 1943768,
+    "retained": "bounded section HTML and text for titles 42 and 47; title 28 index only was not used"
+  },
+  {
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28.htm",
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743",
+    "bytes": 44172,
+    "retained": "bounded section HTML and text for titles 42 and 47; title 28 index only was not used"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 492,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;97-475&quot; OR text:&quot;97-475&quot; OR text__reviews:&quot;97-475&quot;) OR (text:Tseng OR text:Tseng OR text__reviews:Tseng))",
+      "qin": "collection:us-supreme-court AND (&quot;97-475&quot; OR &quot;Tseng&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 4,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386006_1000",
+        "title": "Yili Tseng v. Florida A&M University, 563 U.S. 961 (2011) (No. 10-1108)"
+      },
+      {
+        "identifier": "micro_IA40386002_1508",
+        "title": "Tseng Fu Lin v. City of Goldsboro, 519 U.S. 822 (1996) (No. 95-2040)"
+      },
+      {
+        "identifier": "micro_IA40385014_0124",
+        "title": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng, 525 U.S. 155 (1999) (No. 97-475)"
+      },
+      {
+        "identifier": "micro_IA40386002_1471",
+        "title": "Tseng v. Commissioner, 519 U.S. 820 (1996) (No. 95-1998)"
+      }
+    ]
+  }
+}

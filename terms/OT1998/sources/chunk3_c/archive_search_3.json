@@ -1,0 +1,44 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 483,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:&quot;98-871&quot; OR text:&quot;98-871&quot; OR text__reviews:&quot;98-871&quot;) OR (text:&quot;State Street Bank&quot; OR text:&quot;State Street Bank&quot; OR text__reviews:&quot;State Street Bank&quot;) OR (text:&quot;Signature Financial&quot; OR text:&quot;Signature Financial&quot; OR text__reviews:&quot;Signature Financial&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;98-871&quot; OR &quot;State Street Bank&quot; OR &quot;Signature Financial&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 6,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386003_1052",
+        "title": "State Street Bank & Trust Co. v. Signature Financial Group, Inc., 525 U.S. 1093 (1999) (No. 98-657)"
+      },
+      {
+        "identifier": "micro_IA40385603_1270",
+        "title": "State Street Bank & Trust Co. v. Banco Espanol de Credito, 390 U.S. 1013 (1968) (No. 1155)"
+      },
+      {
+        "identifier": "micro_IA40386007_1151",
+        "title": "Inversiones Errazuriz Limitada, Fka Inversiones Errazuriz S. A. v. State Street Bank & Trust Co, 543 U.S. 1177 (2005) (No. 04-753)"
+      },
+      {
+        "identifier": "micro_IA40386005_1457",
+        "title": "United States v. Hughes Aircraft Co., 119 S. Ct. 1112 (1999) (No. 98-871)"
+      },
+      {
+        "identifier": "micro_IA40386016_1677",
+        "title": "State Street Bank & Trust Co. v. Summers (Nos. 06-602, 06-439)"
+      },
+      {
+        "identifier": "micro_IA40386016_1527",
+        "title": "Summers v. State Street Bank & Trust Co. (Nos. 06-439, 06-602)"
+      }
+    ]
+  }
+}

@@ -1,0 +1,572 @@
+| Supreme Court, U. 8. 
+
+
+D F I I. E 
+an 
+A JUN 10 1998 
+No. 97-1642 
+ͤu— NR ——— 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1997 
+
+
+THE UNITED STATES DEPARTMENT OF THE ARMY, 
+PETITIONER 
+
+
+v. 
+
+
+BLUE Fox, INC. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Aetna Casualty & Surety Co. v. United States, 
+71 F.3d 475 (2d Cir. 1995) 
+
+Atchison, T. & S. F. Ry. v. Scarlett, 300 U.S. 
+471 (1937) 
+
+Block v. North Dakota, 461 U.S. 273 (1983) 
+
+Bowen v. Massachusetts, 487 U.S. 879 (1988) 
+
+City of Houston v. HUD, 24 F.3d 1421 (D.C. 
+Cir. 1994) 
+
+Department of the Army v. FLRA, 
+(D.C, Cir. 1995) 
+
+Dia Navigation Co. v. Pomeroy, 34 F.3d 1255 
+(3d Cir. 1994) 
+
+FDIC v. Meyer, 510 U.S. 471 (1994) 
+
+Finn v. United States, 123 U.S. 227 (1887) 
+
+Hen ningsen v. U.S. Fide lity & Guaranty Co., 
+208 U.S. 404 (1908) 
+
+
+Hitchcock v. United States, 27 
+
+
+Hubbard V. Administrator. EPA, 982 F. 2d oe 
+(D.C. Cir. 1992) 
+OPM v. Richmond, 496 U.S. 414 (1990) 
+
+
+Munro v. United States, 303 U.S. 36 (1938) 
+
+
+Patsy v. Board of Regents, 457 U.S. 496 (1982) .... 
+
+
+Pearlman v. Reliance Ins. Co., 371 U.S. 132 
+(1962) 
+
+Prairie State Bank v. United States, 164 U.S. 
+227 (1896) 
+
+
+Stevens v. Departme nt of Treasury, 500 U.S. 1 
+
+
+(1991) 
+
+
+Tucson Airport Auth. v. General Dynamic Corp., 
+136 F.3d 641 (9th Cir. 1998) 
+United States v. Testan, 
+
+
+United States v. Williams, 
+
+
+Constitution and statutes: Page 
+U.S. Const. Art. I, § 9, Cl. 7 (Appropriations 
+GG 2. 4-5. 78 
+Administrative Procedure Act, 5 U.S.C. 702 ....... passim 
+Little Tucker Act, 28 U.S.C. 13460) 2) . 9 
+Miller Act, 40 U.S.C, 270a- 270d . . . . . 4 
+Ln ccs: cccvevicorsescesscescocecessncssccscsssese 3 
+
+
+In the Supreme Court of the United States 
+OcTOBER TERM, 1997 
+
+
+No. 97-1642 
+
+
+THE UNITED STATES DEPARTMENT OF THE ARMY, 
+PETITIONER 
+
+
+v. 
+BLUE Fox, INc. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+REPLY BRIEF FOR THE PETITIONER 
+
+
+The question presented in this case is whether 5 U.S.C. 
+702, which waives the United States’ immunity to suits 
+challenging “agency action” except suits for “money dam- 
+ages,” permits a party to seek a monetary award from the 
+government simply because the relief can be characterized 
+as “equitable” rather than “legal” in nature. Because the 
+decision below answers that question in the affirmative, it 
+conflicts with decisions of the District of Columbia and 
+Third Cireuits construing Section 702, and with numerous 
+other decisions holding that a subcontractor cannot re- 
+cover directly from the government. Given the substantial 
+federal and fiscal interests implicated by those conflicts, 
+this Court should grant certiorari to resolve them. 
+
+A. Respondent does not dispute that the Ninth Circuit 
+below read 5 U.S.C. 702 and this Court’s decision in 
+Bowen v. Massachusetts, 487 U.S. 879 (1988), as declaring 
+that the United States has waived its immunity to suits 
+seeking monetary awards whenever the cause of action or 
+remedy can be characterized as “equitable” in nature. 
+Pet. App. 8a-9a (“Since the APA waives immunity for 
+equitable actions, the district court had jurisdiction under 
+the APA.”); id. at 10a (“[SJuch equitable liens are properly 
+
+
+(1) 
+
+
+characterized as equitable remedies, rather than money 
+damages.”); see Pet. 8-9. Nor does respondent deny that 
+the D.C. Cireuit, in Hubbard v. Administrator, EPA, 982 
+
+
+F 2d 531 (1992), rejected precisely that position. Id. at 537 
+(“What may qualify as an ‘equitable remedy’ * is not 
+synonymous with specific relief” permitted by 5 U.S.C. 
+702.); id. at 589 (Randolph, J., joined by R. B. Ginsburg, J. 
+concurring) (IT e line section 702 draws is not between 
+actions at law and suits in equity.”); see Pet. 15-16. 
+
+Likewise, respondent does not deny that the Ninth Cir- 
+cuit in this case—following Aetna Casualty and Surety 
+Co. v. United States, 71 F.3d 475, 479 (2d Cir. 1995)—held 
+that 5 U.S.C. 702 permits monetary awards against the 
+government in the absence of any statutory right to pay- 
+ment. Pet. App. 7a-8a (“there is no requirement in Bowen 
+or the APA” that the right to the money “be statutorily 
+granted”). In contrast, consistent with the Appropriations 
+Clause of the Constitution, Art, I, § 9, Cl. 7, and this 
+Court's decision in OPM v. Richmond, 496 U.S. 414 (1990), 
+the D.C. Cireuit and the Third Circuit have held that a 
+money judgment is permitted by Section 702 only if the 
+suit seeks to enforce a statute entitling the plaintiff to 
+money from the government. See Pet. 14-15, 18 (citing 
+Dia Navigation Co. v. Pomeroy, 34 F.3d 1255, 1267 (3d Cir. 
+1994), and Hubbard, 982 F.2d at 536). 
+
+1. Respondent attempts to reconcile the decision below 
+with Hubbard by relying on a footnote in which Hubbard 
+suggests that, if the Hubbard plaintiff had sought pay- 
+ment for work performed as an employee of the United 
+States—rather than “back pay” for wrongful denial of em- 
+ployment—his claim might have constituted a suit for 
+“specific relief” rather than a “money damages” action 
+barred by Section 702. Br. in Opp. 13 (quoting 982 F.2d at 
+533 n.4). Respondent thus argues that the decision below 
+is consistent with Hubbard because respondent, like the 
+hy pothetical employee addressed in the Hubbard footnote, 
+“earned its money, by performing work for which it was 
+never paid.” /bid. 
+
+
+| 
+. 
+| 
+
+
+ages” barred by 5 U.S.C. 702 whenever the cause of action 
+or remedy can be characterized as “equitable” rather than 
+“legal.” See Hubbard, 982 F.2d at 537. Moreover, respon- 
+dent’s claim would fail under Hubbard because t, 
+
+
+Aa-) (“Each [federal] employee * * is entitled to 
+basic pay in accordance with the General Schedule.” (em- 
+phasis added)); ef. United States v. Testan, 424 U.S. 392, 
+402 (1976) (federal employee “is entitled” by statute “to the 
+emoluments of his position,” but not to pay for a promotion 
+he did not receive). 
+
+Respondent's attempted reconciliation also fails be- 
+cause, in conflict with Hubbard, the decision below funda- 
+mentally misapplies Bowen's distinction between the 
+“specific relief” that 5 U.S.C. 702 permits and the “money 
+damages” awards it prohibits. Pet. 14-15, 19-21. Following 
+Bowen, 487 U.S. at 895, the D.C. Circuit has recognized 
+that relief is “specific” and thus not “money damages” 
+only if it gives the plaintiff “the very thing to which [he is] 
+entitled” from the government, i.e., it forces the govern- 
+ment to fulfill the specific legal duty to the plaintiff that 
+the government breached. Because it he only ‘entitle- 
+ment’ that the [government] deprived” the Hubbard plain- 
+tiff of “was the job offer he [otherwise] would have re- 
+ceived” from the government, the D.C. Circuit held that 
+“{ijJnstatement is the specific relief for that deprivation,” 
+as “it gives [plaintiff] ‘the very thing’ he was owed.” 982 
+F.2d at 533. Back pay, in contrast, constitutes “money 
+damages” because it is a substitute remedy that compen- 
+
+
+4 
+
+
+sates the plaintiff for a consequential “loss of income 
+attributable” oy action. Ibid. 
+
+In this case, the “only ‘entitlement’ that the [Army] 
+deprived” respondent of (if any) was the posting of a bond 
+under the Miller Act, 40 U.S.C. 270a-270d; respondent's 
+contractual right to payment ran against the prime con- 
+tractor, not the Army. Pet. 20-21. Consequently, a suit 
+for “specific relief” to obtain “the very thing to which [re- 
+spondent} was entitled” from the Army could demand only 
+that which the Miller Act mandated, i.e., that the Army 
+require the posting of a bond from a qualified surety. 
+Because the Ninth Circuit instead awarded respondent 
+monetary relief against the Army, its decision cannot be 
+reconciled with Hubbard. See also Department of the 
+Army v. FLRA, 56 F3d 273, 276 (D.C. Cir. 1995) (success- 
+ful challenge to agency action for failure to provide 
+required notice entitles employees only to “specific relief” 
+in the form of proper notice, since “proper notice,” not 
+greater compensation, “was the thing to which * * * 
+employees were entitled”). 
+
+2. Respondent’s effort to reconcile this case with the 
+Third Cireuit's decision in Dia Navigation Co. v. Pome- 
+roy, 34 F.3d 1255, 1267 (1994) (see Pet. 15-17), fares no 
+better. Respondent is correct that, under Dia, Section 702 
+might be read as authorizing monetary relief when neces- 
+sary to enforce a statute or an agency regulation creating 
+a right to payment from the government. Br. in Opp. 14-15 
+(quoting Aetna, 71 F.3d at 479); see Dia, 34 F.3d at 1267. 
+But it does not follow that the Third Circuit would permit 
+monetary awards based solely on equitable claims, as the 
+Ninth Circuit did below. To the extent agency regulations 
+requiring monetary payments may be judicially enforced 
+consistent with 5 U.S.C. 702 and the Appropriations 
+
+
+See also 982 F.2d at 539 (Randolph, J., joined by R.B. Ginsburg, 
+J., concurring) (“The suffered loss here is not wages, but the chance to 
+earn them. Money substitutes for that loss. The back-pay award Hub- 
+bard seeks therefore constitutes ‘money damages’ within the meaning 
+of 5 U.S.C. § 702.”). 
+
+
+payments despite the exhaustion of project funds, see Pet. 
+App. 1la-12a, conflicts with the D.C. Circuit’s decision in 
+City of Houston v. HUD, 24 F.3d 1421, 1428 (1994). See 
+Pet. 17 n.8. Instead, respondent relies on a waiver argu- 
+ment that is, as discussed below, without merit. 
+
+B. Respondent’s remaining arguments in opposition to 
+certiorari are also without merit. 
+
+1. Although respondent concedes that the Army con- 
+sistently has argued that this suit is barred by 5 U.S.C. 
+702, respondent contends that the Army, during oral argu- 
+ment before the Ninth Circuit, waived some of the specific 
+points made in the petition. Br. in Opp. 9-11, 19-22 & nn.10, 
+12, 23. The contention lacks substance for two reasons. 
+
+
+2 Respondent also suggests that there is no conflict because this 
+case, unlike Hubbard and Dia, deals with subcontractors. See Br. in 
+Opp. 3, 6. Respondent, however, fails to explain why that distinction 
+makes a difference. In this case, Dia, and Hubbard, the question was 
+whether a suit for a monetary recovery is consistent with 5 U.S.C. 702. 
+The Ninth Circuit below answered that question in the affirmative, 
+desp e absence of a statutory right to payment, simply because the 
+reme could be given an “equitable” label. In Dia and Hubbard, the 
+Thir. and D.C. Circuits rejected that argument, and held that the 
+United States is immune to suits seeking money in the absence of a 
+statutory entitlement to specific funds. The differing identities of the 
+plaintiffs does not make the conflict less palpable or worthy of review. 
+
+
+First, the immunity of the United States cannot be 
+S can be waived only by an Act 
+
+See, e.g., Munro v. United States, 303 U.S. 
+— 41 (1938); Finn v. United States, 123 U.S. 227, 232-233 
+(1887); see also Block v. North Dakota, 461 U.S. 273, 280 
+(1983) (waiver of immunity must be enacted by Congress). 
+In fact, sovereign immunity is sufficiently “jurisdigtional 
+in nature,” FDIC v. Meyer, 510 U.S. 471, 475 (1994), that 
+the issue itself—and thus a fortiori individual arguments 
+in support thereof—can be raised for the first time on 
+appeal. See Finn, 123 U.S. at 232; ef. Patsy v. Board of 
+Regents, 457 U.S. 496, 516 n.19 (1982) (sovereign immunity 
+“sufficiently partakes of the nature of a jurisdictional bar 
+that it may be raised by the State for the first time on 
+appeal” (internal quotation marks omitted)). 
+
+Second, review of the entire argument transcript re- 
+veals that—despite respondent's selective quotations—no 
+waiver occurred. The Army never conceded that Section 
+702 permits monetary awards ‘after project funds are 
+exhausted: and it did not concede that Section 702 would 
+
+
+i 
+
+
+The portion of the transcript quoted by respondent (Br. in Opp. 21- 
+23 & n.23) addresses the fact that, as a matter of substantive lien law, 
+the payment of funds to one party does not eliminate the lien in favor 
+of another. Regardless of what substantive lien law provides, the 
+Army has consistently maintained that Section 702 precludes such liens 
+from being imposed on government funds once project funds are 
+exhausted. Indeed, immediately after the exchange cited by respon- 
+dent (Br. in Opp. 21-22 n.23), the Ninth Circuit panel inquired why the 
+equitable lien rule, which permits liability after fund depletion, does 
+not control this case. Counsel for the government responded: “This is 
+different because all of the money that was due to the general 
+contractor * * las] paid * * *. Verdan did not have a right to 
+any] money [and] neither did the subcontractor, Blue Fox.” Tr. S. The 
+discussion continued: “Court: * * * I thought your answer was going 
+to be because of the immunity issue. Government Counsel: Well, that 
+is my point. The plaintiff, Blue Fox, did not have any right to any 
+money in the hands of the government.” Tr. 8-9; see also Tr. 2. That 
+position is consistent with the law in other circuits. See, eg., City of 
+Houston, 24 F.3d at 1428 (because suit under 5 U.S.C. 702 must seek 
+the “very thing” to which the plaintiff is entitled, exhaustion of the 
+
+
+7 
+
+
+permit an award here in the absence of a statutory entitle- 
+ment.“ Moreover, the Ninth Circuit—far from finding 
+
+
+. pre- 
+sented to the Ninth Circuit but actually decided by it, they 
+are properly before this Court. See United States v. 
+Williams, 504 U.S. 36, 40-45 (1992) (review proper if the 
+issue was presented or reached by the court below); 
+Stevens v. Department of Treasury, 500 U.S. 1, 8 (1991) 
+(rejecting waiver argument because the court of appeals 
+“decided the * * * issue”).° 
+
+
+specific funds to which the plaintiff claims an entitlement precludes the 
+entry of a monetary award; funds from any other source would de a 
+“substitute” remedy and thus “money damages”). 
+
+4 Respondent concedes that the Army’s Ninth Circuit brief argued 
+this point with clarity, insisting that Section 702 does not permit the 
+imposition of monetary liability in the absence of a money-payment 
+mandating statute. Br. in Opp. 11 n.11 (quoting Gov't C.A. Br. as 
+asserting that “a claimant may avail itself of § 702 when it seeks funds 
+to which it is entitled by statute, as apposed to funds which cover the 
+losses suffered because the agency failed to do what it was required to 
+do“). Although the oral argument transcript is not a model of clarity 
+with respect to this issue, the Army never abandoned the position it 
+took in its brief. See Tr. 2-3 (Now, if there wlere] a statute, for 
+example, such as in Bowen, there the State of Massachusetts 
+had a right to the particular fund because of a statutory entitlement.”). 
+At most, the attorney conceded that other cases had permitted mone- 
+tary relief in favor of sureties under a subrogation theory, see Tr. 7 
+of these cases that have been cited by the plaintiff involve 
+sureties.”), but he clearly insisted that those cases were inapplicable 
+here, Tr. 7, 8, 9-10. 
+
+5 Respondent also appears to suggest (Br. in Opp. 11 n.11) that any 
+arguments based on the Appropriations Clause are not properly before 
+the Court. The proper construction of 5 U.S.C. 702 is before the Court, 
+however, and it must be construed in a way that is consistent with the 
+
+
+8 
+
+
+2. Citing decisions of this Court involving subrogation 
+and materialmen’s liens, Br. in Opp. 4-6 & nn.1-3, respon- 
+dent implies that this Court already has authorized re- 
+covery against the government in these circumstances. 
+Respondent also suggests that review by this Court could 
+adversely affect those doctrines, and thus commercial 
+relations as well. See id. at 17-19. Those submissions are 
+baseless. None of the Court’s lien or subrogation deci- 
+sions has any bearing on the waiver of immunity contained 
+in 5 U.S.C. 702, as they deal exclusively with contests 
+between private parties where the government had 
+disavowed any right to the claimed funds; they thus 
+nowhere hold “that laborers and materialmen ha[ve] any 
+right against the United States.” Pearlman v. Reliance 
+Ins. Co., 371 U.S. 132, 143 (1962) (Clark, J., concurring).° 
+
+
+Appropriations Clause. Pet. 18-19. Respondent's further suggestion 
+(Br. in Opp. 16) that the Appropriations Clause is not implicated 
+because there is no statutory prohibition against the judgment in its 
+favor reverses the controlling rule. The Appropriations Clause pro- 
+hibits any disbursement of funds from the Treasury except as affirma- 
+tively authorized by “the express terms of a specific statute.” Rich- 
+mond, 496 U.S. at 432; see, eg., City of Houston, 24 F.3d at 1428 
+(where appropriated funds are already exhausted, monetary award 
+would be barred by Section 702 as “money damages”). 
+
+® As explained in the certiorari petition (at 21-22 n.11), sovereign 
+immunity issues did not arise in Pearlman, supra, and Henningsen v. 
+United States Fidelity & Guaranty Co., 208 U.S. 404 (1908), because 
+the government was not a defendant; it had disavowed any claim to 
+the money and paid it over voluntarily. Nor does Prairie State Bank 
+v. United States, 164 U.S. 227 (1896) (cited at Br. in Opp. 4, 18), help 
+respondent. That case arose in the Court of Claims—which was author- 
+ized to award money damages against the United States—and in- 
+volved voluntary relinquishment of funds by the United States in any 
+event. See 164 U.S. at 228-230; Hitchcock v. United States, 27 Ct. Cl. 
+185, 201 (1892); see also id. at 211 (Nott, J., dissenting) (“These cases 
+involve no question of liability on the part of the Government [and 
+instead] relate simply to the distribution of the fund * * * the Gov- 
+ernment * * * brought into court by bill of interpleader.”). Respon- 
+dent’s further reliance on lower court cases involving subroge.on by 
+sureties (Br. in Opp. 16 n.18) is likewise misplaced; those cases too 
+arose in contexts where money damages awards are permitt d, such as 
+
+
+9 
+
+
+Likewise, the question before the Court in this case has 
+no bearing on the law of equitable liens and subrogation in 
+other settings. We may assume, arguendo, that, under 
+circumstances like those present here, courts would 
+permit an action against a private defendant.’ Because 
+the defendant in this case is a government agency, 
+however, respondent can obtain no rights against the 
+agency with respect to agency funds absent a waiver of 
+immunity and a substantive right to payment. As we have 
+explained, 5 U.S.C. 702 does not provide the requisite 
+waiver of sovereign immunity (see Pet. 18-21), and the 
+Miller Act does not give subcontractors the substantive 
+right to recover money directly from the government (see 
+Pet. 22-27). The Court’s resolution of this case therefore 
+is unlikely to have any (much less a sweeping) effect on 
+equitable lien or subrogation law in other settings. 
+
+3. The Ninth Circuit’s decision, in contrast, has 
+sweeping repercussions for government contracting and 
+the national fisc. Pet. 27-28. Although subcontractors 
+have attempted to bring suit against the United States for 
+decades, it long has been settled that sovereign immunity 
+precludes such actions. See Pet. 22-27 (citing cases from 
+this Court, the Court of Claims, as well as the Fourth, 
+Fifth, Seventh, Ninth, Tenth, and Eleventh Circuits). The 
+decision below thus conflicts not only with the decisions of 
+the D.C. Cireuit and Third Circuit in Hubbard and Dia, 
+see pp. 1-5, supra, but also with longstanding precedent 
+specifically relating to subcontractors on government con- 
+
+
+in the Court of Federal Claims (or its predecessors), or in United States 
+District Court under the Little Tucker Act, 28 U.S.C. 1346(a)(2). 
+
+
+7 Respondent argues (Br. in Opp. 19-21) that, because an equitable 
+lien would be enforceable against a private party, the lien must be 
+“specific relief” rather than “money damages” under Section 702. The 
+argument is without merit. Sovereign immunity and the Miller Act 
+preclude any doctrine (equitable or otherwise) from giving respondent 
+rights in agency funds vis-a-vis the agency itself; and they likewise 
+bar judicial enforcement of respondent's claim to such a right. Neither 
+respondent's claim to Army funds, nor its effort to enforce that claim, 
+falls within the waiver of immunity in 5 U.S.C. 702. 
+
+
+10 
+
+
+tracts. See Pet. App. 14a (“Never before has a court held 
+that a subcontractor may sue an agency of the United 
+States, which has not agreed to be sued, for contract 
+monies that the prime contractor should have paid to the 
+subcontractor but didn’t.” (Rymer, J., dissenting)). 
+
+It is no answer to assert (Br. in Opp. 16) that the United 
+States can avoid liability by requiring Miller Act bonds 
+when the law so demands. If it had been Congress’s desire 
+that the government avoid “money damages” awards only 
+through perfect legal compliance, Congress would have ab- 
+rogated sovereign immunity entirely. Section 702, of 
+course, does no such thing. Moreover, it is far from clear 
+that the Ninth Circuit’s decision can be limited to the 
+Miller Act context. See Tucson Airport Auth. v. General 
+Dynamic Corp., 136 F.3d 641, 645 (9th Cir. 1998) (following 
+decision below in a case not involving the Miller Act). 
+Indeed, to the extent that the decision below permits suits 
+to be brought to remedy tort-type injuries whenever the 
+relief or action can be characterized as “equitable,” it 
+exposes the United States to liability that previously had 
+been limited or nonexistent. Pet. 27-28. Because the impo- 
+sition of such an unprecedented and unpredictable finan- 
+cial burden on the United States Treasury is fundamen- 
+tally inconsistent with the terms and intent of Section 
+702—and because the Ninth Circuit’s decision imposing 
+that burden conflicts with the decisions of other courts of 
+appeals—review by this Court is warranted. 
+
+
+n 
+
+
+For the foregoing reasons and those stated in the 
+petition, it is respectfully submitted that the petition for a 
+writ of certiorari should be granted. 
+
+
+SETH P. WAXMAN 
+
+
+Solicitor General 
+
+
+JUNE 1998 
+
+

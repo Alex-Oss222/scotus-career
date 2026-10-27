@@ -1,0 +1,95 @@
+Page 19  TITLE 35—PATENTS                                         § 102
+
+throughout the revised title. The present statutes use               (e) the invention was described in a patent
+the phrase ‘‘invention or discovery’’ and derivatives.            granted on an application for patent by another
+                                                                  filed in the United States before the invention
+   Paragraph (b) is noted under section 101.                      thereof by the applicant for patent, or on an
+   Paragraphs (c) and (d) are added to avoid the use of           international application by another who has
+long expressions in various parts of the revised title.           fulfilled the requirements of paragraphs (1), (2),
+                                                                  and (4) of section 371(c) of this title before the
+§ 101. Inventions patentable                                      invention thereof by the applicant for patent, or
+
+   Whoever invents or discovers any new and use-                     (f) he did not himself invent the subject mat-
+ful process, machine, manufacture, or composi-                    ter sought to be patented, or
+tion of matter, or any new and useful improve-
+ment thereof, may obtain a patent therefor, sub-                     (g) before the applicant’s invention thereof the
+ject to the conditions and requirements of this                   invention was made in this country by another
+title.                                                            who had not abandoned, suppressed, or con-
+                                                                  cealed it. In determining priority of invention
+(July 19, 1952, ch. 950, 66 Stat. 797.)                           there shall be considered not only the respective
+                                                                  dates of conception and reduction to practice of
+                  HISTORICAL AND REVISION NOTES                   the invention, but also the reasonable diligence
+                                                                  of one who was first to conceive and last to re-
+   Based on Title 35, U.S.C., 1946 ed., § 31 (R.S. 4886,          duce to practice, from a time prior to concep-
+amended (1) Mar. 3, 1897, ch. 391, § 1, 29 Stat. 692, (2) May     tion by the other.
+23, 1930, ch. 312, § 1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450,
+§ 1, 53 Stat. 1212).                                              (July 19, 1952, ch. 950, 66 Stat. 797; July 28, 1972,
+                                                                  Pub. L. 92–358, § 2, 86 Stat. 502; Nov. 14, 1975, Pub.
+   The corresponding section of existing statute is split         L. 94–131, § 5, 89 Stat. 691.)
+into two sections, section 101 relating to the subject
+matter for which patents may be obtained, and section                               HISTORICAL AND REVISION NOTES
+102 defining statutory novelty and stating other condi-
+tions for patentability.                                             Paragraphs (a), (b), and (c) are based on Title 35,
+                                                                  U.S.C., 1946 ed., § 31 (R.S. 4886, amended (1) Mar. 3, 1897,
+   Section 101 follows the wording of the existing stat-          ch. 391, § 1, 29 Stat. 692, (2) May 23, 1930, ch. 312, § 1, 46
+ute as to the subject matter for patents, except that             Stat. 376, (3) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212).
+reference to plant patents has been omitted for incor-
+poration in section 301 and the word ‘‘art’’ has been re-            No change is made in these paragraphs other than
+placed by ‘‘process’’, which is defined in section 100.           that due to division into lettered paragraphs. The in-
+The word ‘‘art’’ in the corresponding section of the ex-          terpretation by the courts of paragraph (a) as being
+isting statute has a different meaning than the same              more restricted than the actual language would suggest
+word as used in other places in the statute; it has been          (for example, ‘‘known’’ has been held to mean ‘‘publicly
+interpreted by the courts as being practically synony-            known’’) is recognized but no change in the language is
+mous with process or method. ‘‘Process’’ has been used            made at this time. Paragraph (a) together with section
+as its meaning is more readily grasped than ‘‘art’’ as            104 contains the substance of Title 35, U.S.C., 1946 ed.,
+interpreted, and the definition in section 100(b) makes           § 72 (R.S. 4923).
+it clear that ‘‘process or method’’ is meant. The re-
+mainder of the definition clarifies the status of proc-              Paragraph (d) is based on Title 35, U.S.C., 1946 ed.,
+esses or methods which involve merely the new use of              § 32, first paragraph (R.S. 4887 (first paragraph), amend-
+a known process, machine, manufacture, composition                ed (1) Mar. 3, 1897, ch. 391, § 3, 29 Stat. 692, 693, (2) Mar.
+of matter, or material; they are processes or methods             3, 1903, ch. 1019, § 1, 32 Stat. 1225, 1226, (3) June 19, 1936,
+under the statute and may be patented provided the                ch. 594, 49 Stat. 1529).
+conditions for patentability are satisfied.
+                                                                     The section has been changed so that the prior for-
+                             CROSS REFERENCES                     eign patent is not a bar unless it was granted before the
+                                                                  filing of the application in the United States.
+   Design patents, see section 171 et seq. of this title.
+   Issue of patent generally, see section 151 et seq. of             Paragraph (e) is new and enacts the rule of Milburn v.
+this title.                                                       Davis-Bournonville, 270 U.S. 390, by reason of which a
+   Plant patents, see section 161 et seq. of this title.          United States patent disclosing an invention dates
+                                                                  from the date of filing the application for the purpose
+§ 102. Conditions for patentability; novelty and                  of anticipating a subsequent inventor.
+      loss of right to patent
+                                                                     Paragraph (f) indicates the necessity for the inventor
+   A person shall be entitled to a patent unless—                 as the party applying for patent. Subsequent sections
+   (a) the invention was known or used by others                  permit certain persons to apply in place of the inventor
+in this country, or patented or described in a                    under special circumstances.
+printed publication in this or a foreign country,
+before the invention thereof by the applicant for                    Paragraph (g) is derived from Title 35, U.S.C., 1946
+patent, or                                                        ed., § 69 (R.S. 4920, amended (1) Mar. 3, 1897, ch. 391, § 2,
+   (b) the invention was patented or described in                 29 Stat. 692, (2) Aug. 5, 1939, ch. 450, § 1, 53 Stat. 1212),
+a printed publication in this or a foreign coun-                  the second defense recited in this section. This para-
+try or in public use or on sale in this country,                  graph retains the present rules of law governing the de-
+more than one year prior to the date of the ap-                   termination of priority of invention.
+plication for patent in the United States, or
+   (c) he has abandoned the invention, or                            Language relating specifically to designs is omitted
+   (d) the invention was first patented or caused                 for inclusion in subsequent sections.
+to be patented, or was the subject of an inven-
+tor’s certificate, by the applicant or his legal                                                    AMENDMENTS
+representatives or assigns in a foreign country
+prior to the date of the application for patent in                   1975—Par. (e). Pub. L. 94–131 inserted provision for
+this country on an application for patent or in-                  nonentitlement to a patent where the invention was de-
+ventor’s certificate filed more than twelve                       scribed in a patent granted on an international applica-
+months before the filing of the application in                    tion by another who has fulfilled the requirements of
+the United States, or                                             pars. (1), (2), and (4) of section 371(c) of this title before
+                                                                  the invention thereof by the applicant for patent.
+
+                                                                     1972—Subsec. (d). Pub. L. 92–358 inserted reference to
+                                                                  inventions that were the subject of an inventors’ cer-
+                                                                  tificate.
+
+                                                                                EFFECTIVE DATE OF 1975 AMENDMENT
+
+                                                                     Amendment by Pub. L. 94–131 effective Jan. 24, 1978,
+                                                                  and applicable on and after that date to patent applica-
+

@@ -1,0 +1,4378 @@
+Supreme Court, U.S. 
+
+
+\F, FILED 
+
+
+97.308 AUG | 8 1997 
+
+
+No. OFFICE OF THE CLERK 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1996 
+
+
+HUMANA INC., and 
+HUMANA HEALTH INSURANCE OF NEVADA, INC., 
+Petitioners, 
+
+
+Vv. 
+
+
+MARY FORSYTH, MARIETTA CADE, 
+WILLIE ANDREWS, MARY LOU BUEHLER, 
+HELEN STAVES, RANDOLPH BRATTON, 
+AND SEARLE AUTO GLASS, INC., 
+Respondents. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Ninth Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Of Counsel: 
+ROBERT N. ECCLES JAMES W. COLBERT, III 
+RICHARD G. PARKER O'Melveny & Myers LLP 
+LINDA J. SMITH 400 South Hope Street 
+O'Melveny & Myers LLP Los Angeles, CA 90071 
+
+(213) 669-6000 
+DENNIS L. KENNEDY 
+Lionel Sawyer & Collins Counsel of Record for Petitioners 
+
+
+QUESTION PRESENTED 
+
+
+Whether the application of a federal statute -- here the 
+Racketeer Influenced and Corrupt Organizations Act 
+("RICO") -- to the business of insurance would 
+"invalidate, impair or supersede” state law regulating the 
+same conduct in contravention of the McCarran- 
+Ferguson Act where the state and federal statutory 
+prohibitions are parallel, but the remedies provided are 
+materially different. 
+
+
+ii 
+
+
+PARTIES TO THE PROCEEDING BELOW 
+
+
+1. Humana Inc. ("Humana") and Humana Health 
+Insurance of Nevada, Inc. ("Humana Insurance"), petitioners 
+herein, were defendants in the district court and appellees in 
+the court of appeals. Humana Insurance is a wholly owned 
+subsidiary of Humana. There are no other parent 
+corporations of petitioners and no nonwholly owned 
+subsidiaries; but, by reason of certain contractual obligations 
+undertaken in connection with the acquisition of Humana’s 
+former hospital operations subsequent to the events at issue 
+herein, Columbia/HCA Healthcare Corporation is 
+beneficially interested in the outcome of this litigation. 
+
+
+2. Mary Forsyth, Marietta Cade, Willie Andrews, 
+Mary Lou Buehler, Helen Staves, Randolph Bratton and 
+Searle Auto Glass, Inc., respondents here, were plaintiffs in 
+the district court and appellants in the court of appeals. 
+They were certified by the district court pursuant to Rule 23 
+of the Federal Rules of Civil Procedure as representatives of 
+the classes described herein. 
+
+
+TABLE OF CONTENTS 
+Page 
+
+QUESTION PRESENTED ................. 
+PARTIES TO THE PROCEEDING BELOW...... i 
+TABLE OF AUTHORITIES ................ V 
+REPORT OF OPINIONS BELOW ............. 
+WINS Cos cS he kc alv cdac'dee 2 
+iii h cv ieed ceeds 2 
+STATEMENT OF THE CASE .............. 2 
+A. Jurisdiction Below ................-. 2 
+B. Pertinent Facts and Procedural History ..... 3 
+REASONS FOR GRANTING THE WRIT ....... 6 
+ETDS Soe os Cae oe dans sg 10 
+
+
+TABLE OF CONTENTS (continued) 
+
+
+Appendix A 
+Opinion of the Court of Appeals for the 
+Ninth Circuit (Decided May 23, 1997) ...... 
+Appendix B 
+Memorandum Decision and Order of the 
+District Court (Decided July 21, 1993) ...... 
+Appendix C 
+Relevent Statutory Provisions (McCarran- 
+Ferguson Act, 15 U.S.C. § 1012(b); 
+
+
+Racketeer Influenced and Corrupt Organizations 
+Act, 18 U.S.C. §§ 1962, 1964) ........... 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+Ambrose v. Blue Cross & Blue Shield, 891 
+
+
+F. Supp. 1153 (E.D. Va. 1995), aff'd mem., 
+95 F.3d 41 (4th Cir. 1996) .......... 
+
+
+Doe v. Norwest Bank Minnesota, 107 F.3d 
+TT a os 5 oe oa ke 
+
+
+Kenty v. Bank One, Columbus N.A., 92 F.3d 
+SRO Gs GS US See ce clweeeesc ete 
+
+
+Merchants Home Delivery Service, Inc. v. 
+Frank B Hall & Co., 50 F.3d 1486 (9th 
+Cir.), cert. denied _U.S. _, 116 S. Ct. 
+
+
+a re oe 
+NAACP v. American Family Mut. Ins. Co., 978 
+
+
+F.2d 287 (7th Cir. 1992), cert. denied, 508 
+Gulls BOP GENER cc cccetedecessens 
+
+
+Nationwide Mut. Ins. Co. v. Cisneros, 52 F.3d 
+1351 (6th Cir. 1995), cert. denied, _ U.S. 
+4 GE Gs SUP NEED os cos besece 
+
+
+SEC v. National Securities, Inc., 393 U.S. 453 
+ge RRs Re sar ie sh 
+
+
+Senich v. Transamerica Premier Ins. Co., 766 
+F. Supp. 339 (W.D. Pa. 1990) ........ 
+
+Villafane-Neriz v. FDIC, 75 F.3d 727 (ist 
+DL vice aédbnd bees abet cc 
+
+
+Wexco Inc. v. INC, Inc., 820 F. Supp. 194 
+ae SU BU coe cnctbaneveepes 
+
+
+6, 8 
+
+
+TABLE OF AUTHORITIES (continued) 
+
+
+STATUTES 
+
+
+Sherman Act, 15 U.S.C. § 1 ef seg. ...... 
+McCarran-Ferguson Act, 15 U.S.C. § 1012(b) 
+Racketeer Influenced and Corrupt 
+
+
+Organizations Act, 18 U.S.C. §§ 1961-1968 
+28 U.S.C. §§ 1254(1) and 2101(c) ....... 
+Se ee Ge 6b 6 Wie wedabieceees 
+
+
+Employee Retirement Income Security Act of 
+1974, 29 U.S.C. § 1001 et seg. ....... 
+
+
+Page(s) 
+
+
+2 
+
+
+In The 
+SUPREME COURT OF THE UNITED STATES 
+October Term, 1996 
+
+
+Humana Inc., and 
+Humana Health Insurance of Nevada, Inc., 
+Petitioners, 
+
+
+v. 
+
+
+Mary Forsyth, Marietta Cade, 
+Willie Andrews, Mary Lou Buehler, 
+Helen Staves, Randolph Bratton, 
+and Searle Auto Glass, Inc., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the United States 
+Court of Appeals for the Ninth Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+REPORT OF OPINIONS BELOW 
+
+The opinion of the court of appeals is reported as 
+Forsyth v. Humana, Inc., 114 F.3d 1467 (9th Cir. 1997). 
+That opinion withdraws and supersedes an earlier opinion of 
+the same court reported as Forsyth v. Humana, Inc., 99 F.3d 
+1504 (9th Cir. 1996). The opinion of the district court is 
+reported as Forsyth v. Humana, Inc., 827 F. Supp. 1498 (D. 
+Nev. 1993). The decisions of the court of appeals and the 
+
+
+district court are found as Appendices A and B hereto 
+respectively. 
+JURISDICTION 
+
+The decision for which review is sought was entered by 
+the court of appeals on May 23, 1997. That decision 
+granted in part a timely motion for rehearing filed by 
+petitioners here respecting an earlier decision entered by the 
+court of appeals on November 5, 1996. This Court has 
+jurisdiction to review the decision at issue by writ of 
+certiorari pursuant to 28 U.S.C. §§ 1254(1) and 2101(c). 
+
+STATUTES AT ISSUE 
+
+This petition addresses principally the interpretation of 
+section 2(b) of the McCarran-Ferguson Act, 15 U.S.C. 
+§ 1012(b), which provides, in pertinent part: 
+
+
+"No Act of Congress shall be construed to 
+invalidate, impair or supersede any law enacted by 
+any State for the purpose of regulating the business 
+of insurance . . . unless such Act specifically relates 
+to the business of insurance." 
+
+
+The civil remedy provisions of RICO, 18 U.S.C. §§ 1961- 
+1968 are also implicated by this petition. The full texts of 
+all pertinent statutory provisions are set forth in Appendix C 
+hereto. 
+
+
+STATEMENT OF THE CASE 
+A. Jurisdiction Below. 
+
+
+The district court had jurisdiction pursuant to 28 U.S.C. 
+§ 1331. 
+
+
+B. Pertinent Facts and Procedural History. 
+
+This action arises out of disputes respecting the 
+administration and interpretation of employee group health 
+insurance policies sold by Humana Insurance in the mid- 
+1980’s in the State of Nevada. These policies contained a 
+"co-payment" provision pursuant to which patients covered 
+by the policies were obligated to pay all charges up to a 
+specified deductible and to pay 20% of charges above the 
+deductible (up to a specified annual maximum). Humana 
+Insurance was responsible for the remaining 80%. 
+
+
+Among other coverages, the policies covered treatment 
+at certain Nevada hospitals, including a hospital owned by 
+Humana, Humana Hospital-Sunrise ("Sunrise"). Humana 
+Insurance negotiated discounts with Sunrise for hospital 
+services provided to its policy beneficiaries, substantially 
+reducing the costs on many procedures. In administering the 
+co-payment feature of the policies, Humana Insurance 
+applied those discounts to its 80% obligation. Policy 
+beneficiaries continued to be billed for their 20% of the 
+undiscounted hospital charge. 
+
+
+On this nucleus of facts, plaintiffs have asserted three 
+claims for relief: (1) a claim under the Employee 
+Retirement Income Security Act of 1974 ("ERISA"), 29 
+U.S.C. § 1001 ef seq.; (2) a claim under the Sherman Act, 
+15 U.S.C. § 1 et seq.; and (3) a RICO claim. These claims 
+are urged on behalf of two classes certified by the district 
+court -- a class of the employers who bought the policies (the 
+"Premium Payor Class") and a class of the employees who 
+made co-payments under the policies (the "Co-Payor Class"). 
+
+
+The opinions below address all three claims,’ but only the 
+RICO claim is at issue here. 
+
+The RICO claim is predicated upon the allegation 
+(denied by petitioners and not yet tried below) that Humana 
+Insurance concealed or misrepresented its discount 
+arrangements with Sunrise in various mailings, telephone 
+calls and television or radio advertisements directed at both 
+classes. The purpose of these alleged acts of mail and wire 
+fraud, according to plaintiffs, was to defraud the employer 
+members of the Premium Payor Class into purchasing the 
+policies and to defraud the employee members of the Co- 
+Payor Class into making excessive co-payments. Humana 
+and Humana Insurance moved the district court for summary 
+judgment on this RICO claim on the grounds, inter alia, that 
+the application of RICO to the insurance practices at issue 
+was barred by section 2 of the McCarran-Ferguson Act. 
+
+
+The district court held that RICO was subject to the 
+limitations of the McCarran-Ferguson Act, that the conduct 
+alleged was part of the business of insurance and that the 
+conduct was subject to Nevada’s comprehensive regulatory 
+
+
+' The district court granted summary judgment on all 
+claims. The Ninth Circuit affirmed the district court’s 
+grant of summary judgment on the ERISA claim and 
+reversed the grant of summary judgment on the Sherman 
+Act claim. While petitioners believe that the latter ruling 
+was erroneous, they do not urge that the issue as currently 
+framed by the Ninth Circuit decision satisfies the criteria 
+for review set forth in this Court’s Rule 10. 
+
+
+et ee ete eds Poe 
+
+
+CeO AROO AD vet Oe. PO ine poe — 
+
+
+ee ee ee eee ees ee 
+
+
+scheme governing the business of insurance in that state 
+
+
+which reserves to the Nevada Commissioner of Insurance 
+
+
+“exclusive jurisdiction” in regulating the trade practices of 
+the insurance industry. Appendix B at 9la-97a. (827 F. 
+Supp. at 1520-21.) The district court also concluded that 
+application of RICO to those practices would impair 
+Nevada’s regulatory scheme because RICO’s civil 
+penalties -- principally its treble damages provision -- far 
+exceed the penalties proscribed by the State of Nevada for 
+the same conduct: “For this Court to allow Plaintiffs to 
+pursue the harsher RICO penalties for behavior which the 
+Nevada Legislature apparently did not deem worthy of such 
+penalties, would be tantamount to allowing Congress to 
+intercede in an area expressly left to the states under the 
+McCarran-Ferguson Act." Appendix B at 95a. (827 
+F.Supp. at 1521-22.) On this reasoning, the district court 
+granted summary judgment on the RICO claim.’ 
+
+
+On appeal, the Ninth Circuit reversed the district court 
+on this issue. The court of appeals agreed with the district 
+court’s determination that the conduct at issue was the 
+business of insurance, that Nevada regulated the conduct and 
+that RICO was subject to the limitations of the McCarran- 
+
+
+? The district court also granted summary judgment on the 
+RICO claim as to the Premium Payor Class on the 
+alternative ground that the members of that class could not 
+show a causal nexus between the alleged predicate acts and 
+the damages claimed. Appendix B at 86a-90a. (827 
+F.Supp. at 1518-20.) This ruling was affirmed by the 
+Ninth Circuit. Appendix A at 26a-28a. (114 F.3d at 
+1481-82.) 
+
+
+Ferguson Act. Appendix A at 22a-25a. (114 F.3d at 1479- 
+80.) The court of appeals did not agree, however, that the 
+application of RICO would impair Nevada’s regulatory 
+scheme. Relying upon its recent decision in Merchants 
+Home Delivery Service, Inc. v. Frank B. Hall & C., 50 
+F.3d 1486 (9th Cir.), cert. denied __U.S. __, 116 S.Ct. 
+418 (1995), the court of appeals held that the disparity in 
+remedies between RICO and Nevada insurance law did not 
+create a conflict between federal and state law sufficient to 
+preclude plaintiffs’ RICO claim. Appendix A at 25a-26a. 
+(114 F.3d at 1480.) 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+Review by this Court is necessary to resolve a conflict 
+between the circuits on the question presented by this 
+petition. As noted, the Ninth Circuit has concluded that the 
+McCarran-Ferguson Act does not preclude the application of 
+federal law to the business of insurance where the federal 
+and state statutes are parallel in their prohibitions, even 
+though the consequences of violation of the federal statute 
+are materially greater than those for violation of the state 
+statute. The Sixth and Eighth Circuits have reached 
+precisely the opposite conclusion, with both holding, as the 
+district court did here, that application of the treble damages 
+remedy allowed by RICO would conflict with the decision of 
+the state legislatures to impose lesser penalties and, hence, 
+impair the state regulatory scheme. Doe v. Norwest Bank 
+Minnesota, 107 F.3d 1297, 1306-08 (8th Cir. 1997); Kenty 
+y. Bank One, Columbus N.A., 92 F.3d 384, 392-93 (6th Cir. 
+1996). In addition, although it has published no opinion 
+explaining its reasoning, the Fourth Circuit has upheld a 
+
+
+district court ruling that the McCarran-Ferguson Act bars 
+application of RICO to the business of insurance, affirming 
+per curiam a decision to that effect in the Eastern District of 
+Virginia. Ambrose v. Blue Cross & Blue Shield, 891 F. 
+Supp. 1153, 1165-68 (E.D. Va. 1995), aff’d mem. , 95 F.3d 
+41 (4th Cir. 1996).° 
+
+
+The Ninth Circuit is alone among the Circuits in holding 
+that RICO’s remedies do not create a conflict with less 
+draconian state laws. The Sixth and Seventh Circuits have, 
+however, upheld the application of federal statutes whose 
+remedies differ less significantly than do RICO’s from the 
+state laws that they parallel. Nationwide Mut. Ins. Co. v. 
+Cisneros, 52 F.3d 1351, 1363 (6th Cir. 1995), cert. denied, 
+__ U.S. _, 116 S.Ct. 973 (1996) (Fair Housing Act);* 
+NAACP y. American Family Mut. Ins. Co., 978 F.2d 287, 
+295-97 (7th Cir. 1992), cert. denied, 508 U.S. 907 (1993) 
+(Fair Housing Act). 
+
+
+* Dist. ict court decisions to the same effect may also be 
+found in the Third Circuit. Wexco Inc. v. INC, Inc., 820 
+F. Supp. 194, 203-06 (N.D. Pa. 1993); Senich v. Trans- 
+america Premier Ins. Co., 766 F. Supp. 339, 341-42 
+(W.D. Pa. 1990). 
+
+
+* In Kenty v. Bank One, supra, 92 F.3d at 392, the Sixth 
+Circuit distinguished its holding there that the McCarran- 
+Ferguson Act bars the application of RICO from its earlier 
+decision in Cisneros respecting the Fair Housing Act by 
+noting that the differences between that statute and the 
+parallel state law were principally procedural -- i.e., the 
+availability vel non of trial by jury -- rather than 
+substantive. 
+
+
+The disparity among the treatments afforded to this issue 
+by the circuits reflects the paucity of guidance to be found in 
+the prior decisions of this Court. As the Eighth Circuit 
+noted in Doe v. Norwest Bank, supra, 107 F.3d at 1307, this 
+Court has addressed the question of the degree of conflict 
+necessary to trigger the McCarran-Ferguson Act only in SEC 
+v. National Securities, Inc., 393 U.S. 453 (1969), and that 
+decision involved federal and state statutes intended to 
+protect entirely different interests. The issue here 
+presented has never been addressed by this Court. 
+
+
+The need for further guidance from this Court is 
+apparent. The fact that four circuits have had to address the 
+relationship between RICO and McCarran-Ferguson in the 
+last two years itself attests to the significance of the question. 
+It is also a clear predictor of the direction that future 
+litigation will take in circuits that adopt the views of the 
+Ninth Circuit. The attractiveness of RICO’s remedies will 
+assure that an ever increasing volume of insurance litigation 
+will find its way to federal court for decision under federal 
+law. Moreover, the issue presented is of broader reach than 
+the specific question of whether McCarran-Ferguson 
+precludes RICO claims. At issue is the question of whether 
+the remedies provided by state laws regulating insurance are 
+to be viewed as part of the substantive law of the state so as 
+to preclude the application of amy federal statute providing 
+materially different remedies for the same conduct. 
+
+
+* The First Circuit found a similar difference in the 
+intended protections of Puerto Rican insurance law and the 
+Federal Deposit Insurance Act. Villafane-Neriz v. FDIC, 
+75 F.3d 727, 736 (ist Cir. 1996). 
+
+
+That resolution of this issue should favor the Eighth, 
+Sixth and Fourth Circuits, and not the Ninth Circuit’s 
+approach, is well argued in the Eighth Circuit’s recent 
+decision: 
+
+"We find the latter line of cases more persuasive in the 
+RICO context. As one court has noted, ‘the remedies 
+available under RICO are among the most severe ever 
+enacted in a federal civil statute.’ The state of 
+Minnesota has determined that its insurance market can 
+best be regulated by the Commissioner’s pursuit of fines 
+and injunctive relief. Congress has expressed its 
+intention to leave the regulation of the business of 
+insurance to the states unless a federal statute expressly 
+addresses that subject or the application of a general 
+federal statute would not invalidate, supersede, or 
+impair a state statute. Were the question presented 
+here, we might agree with the Sixth and Seventh 
+Circuits that the federal civil rights statutes do not 
+impair state insurance regulation. But Voyager [the 
+insurance company defendant] makes a compelling case 
+that the extraordinary remedies of RICO would 
+frustrate, and perhaps even supplant, Minnesota’s 
+carefully developed scheme of regulation. We do not 
+read the term ‘impair’ so narrowly as to permit the 
+conclusion that the McCarran-Ferguson Act does not 
+apply in the circumstances presented here.” (Citations 
+and footnote omitted.) 
+
+
+10 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, this petition for writ of 
+certiorari should be granted. 
+
+
+August 18, 1997 Respectfully submitted 
+
+
+JAMES W. COLBERT, III 
+O'MELVENY & MYERS LLP 
+
+
+Counsel of Record for 
+Petitioners 
+
+
+Appendix C 
+Relevent Statutory Provisions (McCarran- 
+Racketeer Influenced and Corrupt O: 
+and Corrupt Organizations 
+
+
+Act, 18 U.S.C. §§ 1962, 1964) 
+
+
+la 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+No. 94-16548 
+Opinion of the Court of Appeals for the Ninth Circuit 
+
+
+(Decided May 23, 1997) 
+
+
+MARY FORSYTH; MARRIETTA CADE; WILLIE 
+ANDREWS; MARY LOU BUEHLER; HELEN STAVES; 
+RANDOLPH BRATTEN; and SEARLE AUTO GLASS, 
+INC., d/b/a Best Glass Company, 
+Plaintiffs-Appellants, 
+
+
+Vv. 
+
+
+HUMANA, INC., a Delaware corporation; HUMANA 
+HEALTH INSURANCE OF NEVADA, INC., a Nevada 
+
+
+corporation; and DOES I through X, inclusive, 
+Defendants-Appellees. 
+
+
+May 23, 1997 
+
+
+Will Kemp, J. Randall Jones, Harrison, Kemp & Jones, 
+Chtd., Las Vegas, NV, W.B. Markovits, Markovits & 
+Greiwe, Cincinnati, Ohio, for the plaintiffs-appellants. 
+David N. Frederick, Las Vegas, Nevada and Robert N. 
+Eccles, O’Melveny & Myers, 
+
+
+Washington D.C., for the defendants-appellees. 
+
+
+2a 
+
+
+JUDGES: Before: J. Clifford Wallace and David R. 
+Thompson, Circuit Judges, and Gordon Thompson, Jr., 
+District Judge. * Opinion by Judge D. Thompson; Partial 
+Concurrence and Partial Dissent by Judge Wallace. 
+
+
+* The Honorable Gordon Thompson, Jr., United States 
+District Court Judge for the Southern District of California, 
+sitting by designation. 
+
+THOMPSON, Circuit Judge: 
+
+
+There are two groups of plaintiffs in this case: (1) the 
+employer purchasers of group health insurance policies 
+issued by Humana Health Insurance of Nevada (Premium 
+Payors); and (2) the employee beneficiaries of those policies 
+who made coinsurance payments for health care received 
+(Co-Payors). 
+
+
+The Co-Payors received hospital care from Humana 
+Hospital-Sunrise (Sunise Hospital), an acute care facility 
+which is owned and operated by defendant Humana, Inc. 
+Under its insurance agveements with the Co-Payors, Humana 
+Health Insurance of Nevada (Humana Insurance) was 
+obligated to pay 80% of the employees’ hospital charges 
+over and above a designated deductible amount; the 
+Co-Payors were to pay the remaining 20%. Unknown to the 
+plaintiffs, Humana Insurance negotiated a discount with 
+Sunrise Hospital. Because of this discount, Humana 
+Insurance ultimately paid significantly less than its 80% 
+share of Sunrise Hospital’s charges and the Co-Payors paid 
+significantly more than their 20% co-payment share. 
+
+
+The Co-Payors contend Humana Insurance breached its 
+contract with them, and violated the Employee Retirement 
+
+
+3a 
+
+
+Income Security Act (ERISA), 29 U.S.C. § 1001, et seq., 
+by failing to pass along to them the Sunrise Hospital 
+discounts in the form of reduced co-payments. The 
+Co-Payors also contend the defendants violated ERISA by 
+breaching fiduciary duties, engaging in prohibited 
+groups of plaintiffs contend that the defendants violated 
+section 2 of the Sherman Act, 15 U.S.C. § 2, and engaged 
+in a scheme to defraud in violation of the Racketeer 
+
+
+Influenced and Corrupt Organizations Act (RICO), 18 
+U.S.C. §§ 1961-1968. 
+
+
+The district court granted summary judgment in favor of 
+the defendants, rejecting all of the plaintiffs’ claims except 
+the Co-Payors’ ERISA benefits breach of contract claim. 
+This appeal followed. 
+
+
+We have jurisdiction under 28 U.S.C. § 1291. We 
+affirm the district court’s summary judgment on the ERISA 
+claims, reverse the district court’s summary judgment on the 
+Sherman Act antitrust claims, and affirm in part and reverse 
+in part summary judgment on the RICO claims. 
+
+
+I 
+FACTS 
+
+
+The plaintiffs contracted for health insurance, through 
+employee benefit plans, with Humana Insurance during the 
+period of 1985 through 1988. Pursuant to an agreement 
+made in 1984 between Humana Insurance and Sunrise 
+Hospital, Humana Insurance would receive a discount for its 
+portion of the hospital charges incurred by its insureds. 
+Unaware of this discount, the plaintiffs continued to pay 
+
+
+4a 
+
+
+their required premiums and undiscounted co-payments. As 
+a result, Humana Insurance ended up paying less than 80% 
+of the hospital’s charges for health care services, the 
+Co-Payors paid more than 20% of these charges, and the 
+Premium Payors paid the same premiums despite the reduced 
+cost to Humana Insurance of the health care services. 
+
+The plaintiffs assert that Humana Insurance concealed 
+the discount deal by writing checks to Sunrise Hospital for 
+80% of the billed charges. Sunrise Hospital would then remit 
+the clandestine discount to Humana Insurance through 
+monthly intercompany transfers, in what the plaintiffs 
+characterize as a “classic kickback scheme." 
+
+II 
+PROCEDURAL HISTORY 
+
+The plaintiffs filed this action in the district court on 
+March 29, 1989, alleging both state and federal claims. Six 
+months later, the court granted the defendants’ motion, 
+pursuant to Federal Rule of Civil Procedure 12(b)(6), to 
+dismiss the state law claims because those claims were 
+
+
+preempted by ERISA. 
+
+The plaintiffs filed a first amended complaint on October 
+27, 1989. Following another round of motions, the district 
+court upheld the sufficiency of the plaintiffs’ ERISA claims, 
+some of the RICO claims and the antitrust claims, and 
+certified the two classes of plaintiffs, Premium Payors and 
+Co-Payors. At the district court’s direction, the plaintiffs 
+filed a second amended complaint. 
+
+
+Sa 
+
+
+_ The second amended complaint asserted three claims for 
+relief: (1) an ERISA claim by the Co-Payor class against 
+Humana Insurance alleging breach of fiduciary duty, 
+prohibited transactions and retention of excessive 
+compensation; (2) an antitrust claim under section 2 of the 
+Sherman Act by both classes of plaintiffs alleging the 
+defendants had monopolized or attempted to monopolize the 
+market for acute care facilities in Clark County, Nevada; and 
+(3) a RICO claim by both classes of plaintiffs alleging 
+Humana Insurance marketed and administered its policies 
+through repeated acts of mail and wire fraud. 
+
+
+Again, the defendants moved for summary judgme 
+July 21, 1993, adateiznetnaeticmins ae 
+district court granted the motion in its entirety (“the July 21, 
+1993 judgment"), but gave the plaintiffs leave to file a third 
+amended complaint to assert on behalf of the Co-Payor class 
+an ERISA benefits breach of contract claim against Humana 
+Insurance under 29 U.S.C. § 1132(a)(1)(B). 
+
+
+The plaintiffs filed a third amended complaint. In that 
+complaint they asserted only one claim, a breach of contract 
+claim under ERISA in which they alleged that the Co-Payor 
+class was entitled to benefits under 29 U.S.C. 
+§ 1132(a)(1)(B), because Humana Insurance had not properly 
+allocated the discount it received from Sunrise Hospital. 
+
+The Co-Payor class moved for summary judgment on 
+this claim; Humana Insurance also moved for summary 
+judgment as to the proper measure of damages. The district 
+court granted both motions on June 3, 1994 (the "June 3, 
+1994 judgment”), finding liability on the breach of contract 
+claim, but limiting damages to the excess charges the 
+
+
+6a 
+
+
+Co-Payor plaintiffs paid, and specifying the methodology for 
+calculating the damages for these class members. Following 
+further submissions by the parties, the district court entered 
+an order on July 29, 1994 approving and adopting a schedule 
+of damage awards by which the Co-Payors were to be 
+reimbursed the amounts they had been overcharged on their 
+co-payments. 
+
+
+On July 1, 1994, before the district court determined the 
+damage awards, the plaintiffs filed a notice of appeal from 
+the district court’s June 3, 1994 judgment. The plaintiffs 
+voluntarily dismissed that appeal after we determined that the 
+June 3, 1994 judgment was not a final, appealable order. 
+Thereafter, the plaintiffs filed a timely notice of appeal 
+which brings this case before us. 
+
+
+The defendants have moved to dismiss this appeal in its 
+entirety, or in the alternative to limit the appeal to the sole 
+claim asserted in the plaintiffs’ third amended complaint. In 
+the defendants’ words, their motiou to dismiss raises two 
+jurisdictional issues: "(1) whether plaintiffs’ voluntary 
+dismissal of an earlier appeal from the June 3{, 1994] 
+Judgment precludes review of that judgment here; and (2) 
+whether plaintiffs’ failure to preserve in their Third 
+Amended Complaint claims dismissed by the district court’s 
+earlier Order of July 21, 1993, precludes review of that 
+ruling in this appeal.” 
+
+On the merits, the defendants dispute the plaintiffs’ 
+various claims of error, and ask us to affirm the district 
+court across the board. We first consider the motion to 
+dismiss or limit the appeal. 
+
+
+Ta 
+
+
+Il 
+MOTION TO DISMISS OR LIMIT APPEAL 
+
+
+The plaintiffs’ voluntary dismissal of their premature 
+appeal from the June 3, 1994 judgment does not preclude 
+review of that judgment in this appeal. The June 3, 1994 
+judgment was not a final, appealable order when it was 
+entered because the district court had not then determined the 
+amount of damages. See Brown v. United States Postal 
+Serv., ®<2 F.2d 884, 886 (9th Cir. 1988). We deny the 
+mMcivon © /\ismiss the appeal in its entirety. 
+
+The defendants’ contention that the appeal should be 
+limited to the ERISA benefits breach of contract claim 
+asserted in the third amended complaint presents a more 
+complicated question. The plaintiffs did not reallege in that 
+complaint any of the claims previously dismissed by the 
+district court. The question is whether this omission 
+precludes our review of the district court’s dismissal of the 
+previously asserted claims. 
+
+It is the law of this circuit that a plaintiff waives all 
+claims alleged in a dismissed complaint which are not 
+realleged in an amended complaint. London v. Coopers & 
+Lybrand, 644 F.2d 811, 814 (9th Cir. 1981); Sacramento 
+Coca-Cola Bottling Co. v. Chauffeurs, Teamsters and 
+Helpers Local 150, 440 F.2d 1096, 1098 (9th Cir.), cert. 
+denied, 404 U.S. 826, 30 L. Ed. 2d 54, 92 S. Ct. 57 
+(1971); Loux v. Rhay, 375 F.2d 55, 57 (9th Cir. 1967). This 
+rule is premised on the notion that the “amended complaint 
+supersedes the original, the latter being treated thereafter as 
+non-existent." Loux, 375 F.2d at 57. If a plaintiff fails to 
+
+
+8a 
+
+
+include dismissed claims in an amended complaint, the 
+plaintiff is deemed to have waived any error in the ruling 
+dismissing the prior complaint. London, 644 F.2d at 814; 
+Sacramento Coca-Cola, 440 F.2d at 1098; Loux, 375 F.2d 
+
+
+at 57. 
+
+
+We have declined, however, to extend the London rule 
+to amended complaints that follow summary judgment. See 
+USS-POSCO Indust. v. Contra Costa County Bldg. & Const. 
+Trades Council, 31 F.3d 800, 812 (9th Cir. 1994). The 
+rulings challenged by the plaintiffs in this appeal are rulings 
+on summary judgment. As such, the claims which the court 
+dismissed pursuant to these rulings have not been waived by 
+the plaintiffs’ failure to reallege them in the third amended 
+complaint. Jd. The defendants’ motion to limit the issues in 
+this appeal to the claim asserted in the plaintiffs’ third 
+amended complaint is therefore denied. To the extent, 
+however, that the plaintiffs seek review of the district court's 
+earlier dismissal of their state law claims pursuant to Federal 
+Rule of Civil Procedure 12(b)(6), such claims were waived 
+by the failure to reallege them after the Rule 12(b)(6) 
+dismissal. London, 644 F.2d at 814. 
+
+
+IV 
+MERITS 
+
+
+A. Standard of Review 
+
+
+We review a grant of summary judgment de novo. 
+Warren v. City of Carlsbad, 58 F.3d 439, 441 (9th Cir. 
+1995), cert. denied, 134 L. Ed. 2d 209, 116 S. Ct. 1261 
+(1996). We must determine, viewing the evidence in the 
+light most favorable to the nonmoving party, whether there 
+
+
+9a 
+
+
+B. ERISA 
+
+
+had no standing to bring their ERISA claim under 29 U.S.C. 
+§ 1132(a)(3) for breach of fiduciary duty. The court 
+determined that the remedy provided by ERISA for the 
+Co-Payors’ harm was a benefits claim for breach of contract 
+pursuant ty section 1132(a)(1)(B) and not a claim for breach 
+of fiduciary duty under section 1132(a)(3). 
+
+its decision in Varity Corp. v. Howe, 134 L. Ed. 2d 130, 
+116 S. Ct. 1065 (1996). The Court held that an individual 
+beneficiary may bring suit against a plan administrator for a 
+breach of fiduciary duty under 29 U.S.C. § 1132(a)(3). 
+Previous case law in this circuit had allowed such an action 
+only in very limited circumstances not present in this case. 
+See, e.g., Amalgamated Clothing & Textile Workers Union 
+v. Murdock, 861 F.2d 1406 (9th Cir. 1988); Waller v. Blue 
+Cross of California, 32 F.3d 1337 (9th Cir. 1994). The 
+opinion in Varity Corp. expands what we previously viewed 
+as permissible actions under section 1132(a)(3), but not to 
+the extent necessary to accommodate the Co-Payors’ claim 
+in this case. 
+
+In Varity Corp. the Court emphasized that section 
+1132(a)(3) is a “catchall” provision which provides relief 
+only for injuries that are not otherwise adequately provided 
+for. 116 S. Ct. at 1078. 
+
+
+The Supreme Court thus interpreted the statute to allow 
+individual relief for a breach of fiduciary duty in an ERISA 
+action only where no other adequate relief is available. 
+
+
+The Court distinguished Massachusetts Mut. Life Ins. v. 
+Russell, 473 U.S. 134, 144, 87 L. Ed. 2d 96, i05 S. Ct. 
+3085 (1985), which had interpreted section 1132(a)(2) to 
+allow recovery for breach of fiduciary duty only where the 
+relief is sought on behalf of the entire plan. Other than the 
+fact that it had interpreted a different subsection of the 
+statute, one of the factors which distinguished Russell was 
+that another remedy, section 1132(a)(1), already provided 
+specific relief for the sort of injury suffered in that case. 
+
+
+In the present case, the Co-Payors seek to recover 
+individual relief under section 1132(a)(3) for Humana 
+Insurance’s breach of fiduciary duty. But the Co-Payors have 
+already won a judgment for damages under section 
+1132(a)(1) for the injuries they suffered as a result of the 
+defendant’s actions. The district court determined, and we 
+agree, that the Co-Payors are entitled to recover, in the form 
+of damages pursuant to their claim under section 1132(a)(1), 
+all amounts they were forced to pay over and above their 
+contractual co-payment obligation. 
+
+
+In these circumstances, Varity Corp. does not authorize 
+equitable relief under the catchall provision of section 
+
+
+lla 
+
+
+1132(a)(3). Equitable relief under section 1132(a)(3) is not 
+“appropriate” because section 1132(a)(1) provides an 
+adequate remedy in this case. 
+
+We affirm the district court’s summary judgment against 
+the Co-Payors on their breach of fiduciary duty claim under 
+section 1132(a)(3) of ERISA. We also affirm the district 
+court’s summary judgment in favor of the Co-Payors on their 
+benefits breach of contract claim under section 1132(a)(1) of 
+ERISA and the district court’s computation of damages set 
+forth in its July 29, 1994 order. 
+
+
+C. Antitrust 
+
+
+The plaintiffs sought approximately $ 181 million in 
+attempted monopolization under section 2 of the Sherman 
+Act, 15 U.S.C. §2.' The district court concluded the 
+plaintiffs failed to produce evidence in support of this claim 
+sufficient to survive a motion for summary judgment. 
+
+
+' Title 15 U.S.C. @ 2 provides: 
+
+
+Every person who shal] monopolize, or attempt to 
+monopolize, or combine or conspire with any other person 
+Or persons, to monopolize any part of the trade or 
+commerce among the several States, or with foreign 
+nations, shall be deemed guilty of a felony, and, on 
+conviction thereof, shall be punished by fine not exceeding 
+$ 10,000,000 if a corporation, or, if any other person, $ 
+350,000, or by imprisonment not exceeding three years, or 
+by both said punishments, in the discretion of the court. 
+
+
+12a 
+
+
+not provided sufficient evidence in support of their claim of 
+asserted, the exercise of market power, or antitrust injury. 
+
+
+To prevail on a claim of monopolization under section 
+2 of the Sherman Act, a plaintiff must demonstrate: “(1) 
+possession of monopoly power in the relevant submarket; (2) 
+willful acquisition or maintenance of that power; and (3) 
+causal antitrust injury." Pacific Express, Inc. v. United 
+Airlines, Inc., 959 F.2d 814, 817 (9th Cir.), cert. denied, 
+506 U.S. 1034, 121 L. Ed. 2d 686, 113 S. Ct. 814 (1992). 
+
+
+Monopoly power, for the purpose of section 2 of the 
+Sherman Act, is "the power to control prices or exclude 
+competition.” United States v. Grinnell Corp. , 384 U.S. 563, 
+571, 16 L. Ed. 2d 778, 86 S. Ct. 1698 (1966) (quoting 
+United States v. E. I. du Pont de Nemours & Co., 351 U.S. 
+377, 391, 100 L. Ed. 1264, 76 S. Ct. 994 (1956)). A 
+plaintiff may demonstrate market power either by direct 
+evidence or by circumstantial evidence. Rebel Oil Co. v. 
+Atlantic Richfield Co., 51 F.3d 1421, 1434 (9th Cir.), cen 
+denied, 133 L. Ed. 2d 424, 116 S. Ct. 515 (1995). Direct 
+proof of market power may be shown by evidence of 
+showing “is direct proof of the injury to competition which 
+a competitor with market power may inflict, and thus, of the 
+actual exercise of market power.” Id. 
+
+The plaintiffs submitted evid that S ise Hospital 
+routinely charged higher prices than other hospitals while 
+reaping high profits. With no accompanying showing of 
+restricted output, however, the plaintiffs have failed to 
+present direct evidence of market power. 
+
+
+13a 
+
+
+The more common method of establishing monopoly 
+plaintiff  - *(1) define the relevant market, (2) show that the 
+defendam »wns a dominant share of that market, and (3) 
+show that there are significant barriers to entry and show 
+that existing competitors lack the capacity to increase their 
+output in the short run." 
+
+
+It is impossible to determine market share without first 
+defining the relevant market. Jd. at 1434. Definition of the 
+relevant market cannot be performed with mathematical 
+accuracy; it is simply the recognition of a field in which 
+meaningful competition is said to exist. See United States v. 
+Continental Can Co., 378 U.S. 441, 449, 12 L. Ed. 2d 953, 
+84 S. Ct. 1738 (1964). We have previously defined the 
+relevant market as the group of sellers or producers who 
+have the “actual or potential ability to deprive each other of 
+significant levels of business." Thurman Indus., Inc. v. Pay 
+'N Pak Stores, Inc., 875 F.2d 1369, 1374 (9th Cir. 1989). 
+“The definition of the relevant market is a factual inquiry for 
+the jury, and the court may not weigh evidence or judge 
+witness credibility." Rebel Oil, 51 F.3d at 1435. See also 
+Thurman Indus., 875 F.2d at 1374. 
+
+
+The district court held the relevant market was the 
+general acute care hospit=' market in Clark County, Nevada, 
+which consisted of seven facilities in addition to Sunrise 
+Hospital. The plaintiffs contend the district court arrived at 
+this conclusion by weighing competing evidence. The 
+plaintiffs argue the relevant market is smaller than the 
+market found by the district court. They contend there are 
+two distinct submarkets which the defendants monopolized 
+
+
+14a 
+
+
+or attempted to monopolize: (1) the acute care hospitals 
+actually used by Humana insureds; and (2) the major 
+for-profit acute care hospitals in Clark County, Nevada. "A 
+submarket exists if it is sufficiently insulated from the larger 
+market so that supply and demand are inelastic with the 
+larger market." Morgan, Strand, Wheeler & Biggs v. 
+Radiology, Lid., 924 F.2d 1484, 1490 (9th Cir. 1991). 
+
+
+In support of their first contention that the relevant 
+submarket is the acute care hospitals actually used by 
+Humana insureds, the plaintiffs submitted an affidavit 
+indicating that 75% to 85% of Humana insureds used 
+Sunrise Hospital, and that this high proportion was achieved 
+through contractual disincentives such as higher deductibles 
+and co-payments for other hospitals, and noncontractual 
+disincentives such as delaying or denying payment to other 
+hospitals which made it difficult for Co-Payors touse them. 
+
+
+We reject the plaintiffs’ attempt to limit the relevant 
+market to acute care hospitals used by Humana insureds. The 
+plaintiffs used Sunrise Hospital and obtained medical care 
+from few other hospitals because of contractual provisions in 
+their insurance policies. This tie-in defeats the plaintiffs’ 
+argument for a submarket consisting only of those hospitals 
+Humana insuveds actually used. See Eastman Kodak Co. v. 
+Image Technical Services, Inc., 504 U.S. 451, 490-91, 119 
+L. Ed. 2d 265, 112 S. Ct. 2072 (Scalia, J., dissenting) 
+(1992). To succeed in the face of the contractual tie-in 
+created by the insurance policies, the plaintiffs would have 
+to make a showing of monopoly power in the health 
+insurance market, and there is no evidence of this. See id.; 
+
+
+1Sa 
+
+
+Jefferson Parish Hosp. Dist. 2 v. Hyde, 466 U.S. 2, 13-14, 
+80 L. Ed. 2d 2, 104 S. Ct. 1551 (1984). 
+
+
+hospitals, Boulder City Hospital 
+(Boulder City), Community Hospital of North Las Vegas 
+(Community), St. Rose De Lima Hospital (St. Rose), 
+
+
+evidence that UMC charged patients 15 to 20 percent less 
+than Sunrise Hospital. Yet, because UMC was considered a 
+hospital for the indigent, patients with a choice, such as 
+those with insurance, eschewed UMC in favor of the larger 
+ne een Oe Sigeenay lower prise at 
+
+
+We recognize “the scope of the relevant market is not 
+governed by the presence of a price differential." Twin City 
+Sportserv., Inc. v. Charles O. Finley & Co., 512 F.2d 1264, 
+1274 (9th Cir. 1975). But when demand for the commodity 
+of one producer shows no relation to the price for the 
+commodity of another producer, it supports the claim that 
+the two commodities are not in the same relevant market. 
+
+
+16a 
+
+
+There was also evidence that Boulder City, St. Rose, 
+Community, and Women’s were considered "niche" hospitals 
+that did not offer the range of services available at Sunrise 
+Hospital. This, alone, is not enough. Specialty shops which 
+offer only a limited range of goods are generally considered 
+in the same market with larger, more diverse, “one-stop 
+shopping” centers. Thurman Indust., 875 F.2d at 1374-77. 
+However, the plaintiffs also submitted documentary 
+evidence, including an expert’s affidavit and testimony 
+before the Nevada legislature, which tended to support their 
+contention that these specialty hospitals did not, in fact, 
+compete with Sunrise Hospital. 
+
+
+We have not recounted the evidence submitted by the 
+defendants, but it was substantial. Were we to weigh the 
+evidence we might be inclined to find that the plaintiffs 
+failed to establish their alleged submarket. On a motion for 
+summary judgment, however, this would be inappropriate. 
+
+
+We conclude the evidence the plaintiffs presented was 
+sufficient to withstand the defendants’ motion for summary 
+judgment as to the plaintiffs’ second asserted relevant 
+market. 
+
+
+The additional issues of monopoly power and the 
+maintenance of monopoly power depend upon a resolution of 
+the relevant market question. Rebel Oil, 51 F.3d at 1434. 
+Whether the defendants engaged in anticompetitive behavior 
+is dependent upon resolution of these issues. See Pacific 
+Express, 959 F.2d at 818. 
+
+
+The same may be said of the plaintiffs’ section 2 claim 
+for attempted monopolization. To prevail on such a claim, a 
+
+
+17a 
+
+
+plaintiff must demonstrate four elements: (1) specific intent 
+to control prices or destroy competition; (2) predatory or 
+anticompetitive conduct directed toward accomplishing that 
+purpose; (3) a dangerous probability of success; and (4) 
+causal antitrust injury. Rebel Oil, 51 F.3d at 1433. 
+
+
+The plaintiffs’ claim of attempted monopolizatio 
+not directly addressed by the district court. Resolution of this 
+issue, like the claim of actual monopolization, is dependent 
+upon a definition of the relevant market. Without such a 
+determination, we cannot assess whether challenged activity 
+was anticompetitive. In sum, the determination of all these 
+subsidiary issues depends on the determination of the 
+question of the relevant market; and there is a genuine 
+dispute of material fact as to that. 
+
+
+The plaintiffs should also survive summary judgment on 
+the issue of causal antitrust injury. To survive summary 
+judgment, the plaintiffs were required to offer some evidence 
+demonstrating “the existence of an ‘antitrust injury, which is 
+to say injury of the type the antitrust laws were intended to 
+prevent and that flows from that which makes defendant’s 
+acts unlawful.’" Atlantic Richfield vy. USA Petroleum, 495 
+U.S. 328, 334, 109 L. Ed. 2d 333, 110 S. Ct. 1884 (1990) 
+(quoting Brunswick Corp. v. Pueblo Bowl-O-Mat, 429 U.S. 
+477, 489, 50 L. Ed. 2d 701, 97 S. Ct. 690 (1977)). 
+
+
+Here, the plaintiffs presented evidence that, as a result 
+of Humana’s anticompetitive behavior, they paid higher 
+copayments and premiums than they would have paid in a 
+competitive market. This evidence, while it shows that the 
+plaintiffs paid high copayments and premium payments 
+because of the kickback scheme, does not explain how the 
+
+
+18a 
+
+
+scheme reduced competition in the relevant market. We 
+conclude, therefore, that the plaintiffs did not demonstrate 
+that they suffered antitrust injury resulting from the kickback 
+scheme. See Atlantic Richfield, 495 U.S. at 344 (observing 
+that "the antitrust injury requirement ensures that a plaintiff 
+can recover only if the loss stems from a 
+competition-reducing aspect or effect of the defendant's 
+behavior. ”). 
+
+The plaintiffs presented other evidence, however, that 
+Humana engaged in impermissibly anticompetitive conduct 
+in three ways: (a) Sunrise (the Humana-owned hospital) was 
+the only area hospital certified to provide Level III neonatal 
+care, but refused to provide Level III care under separate 
+contract; (b) Sunrise diverted indigent or low-paying critical 
+care patients to other area hospitals; and (c) Humana 
+threatened physicians who did not support its monopoly. 
+
+
+This conduct describes antitrust violations. The plaintiffs 
+presented evidence that Sunrise required customers who 
+wanted to buy Level III neonatal care to also buy other 
+neonatal services. Such a practice could constitute an 
+anticompetitive tying arrangement. See Datagate, Inc. v. 
+Hewlett-Packard Co., 60 F.3d 1421, 1423 (9th Cir. 1995) 
+(describing a tying arrangement as a “device used by a 
+competitor with market power in one market . . . to extend 
+its market power into an entirely distinct market."). 
+Sunrise’s alleged policy of funneling indigent and low-paying 
+patients to competitors raises a factual question whether such 
+conduct increased the operating cost of those competitors by 
+imposing on them the cost of caring for indigent patients. 
+See Multistate Legal Studies, Inc. v. Harcourt Brace 
+
+
+19a 
+
+
+Jovanovich Legal and Professional Publications, Inc., 63 
+F.3d 1540, 1553 (10th Cir. 1995) (stating that monopolist’s 
+practice of scheduling courses to conflict with competitor’s 
+courses could raise competitor's costs, and therefore, “would 
+qualify as anticompetitive conduct"); Premier Electrical 
+Constr. Co. v. Nat’l Electrical Contractors Ass’n, 814 F.2d 
+358, 368 (7th Cir. 1987) (observing that, when defendant 
+“raised its rivals’ costs," it "raised the market price to its 
+own advantage. "); see generally T. Krattenmaker & S. 
+Salop, Anticompetitive Exclusion: Raising Rivals’ Costs to 
+Achieve Power Over Price, 96 Yale L.J. 209, 235-262 
+em: Finally, the plaintiffs presented evidence that 
+lumana’s alleged practice of threatening icians who 
+disagreed with their monopoly limited -asmead by 
+preventing physicians from referring patients to hospitals 
+other than Sunrise. See Potters Medical Center vy. City 
+Hospital Ass’n, 800 F.2d 568, 575 (6th Cir. 1986) (holding 
+that hospital’s alleged conduct in restricting privileges of 
+physicians “could state a monopolization claim."). 
+
+
+_ According to the plaintiffs’ evidence, these 
+anticompetitive practices enabled Sunrise to, and it did, 
+charge higher prices for hospital services. These higher 
+prices translated into higher copayments and premium 
+payments. Such an increase in consumer prices caused by the 
+asserted conduct would constitute antitrust injury of the type 
+the antitrust laws were designed to prevent. See Blue Shield 
+of Virginia v. McCready, 457 U.S. 465, 73 L. Ed. 2d 149, 
+102 S. Ct. 2540 (1982) (holding that individual health care 
+plan subscriber could sue health care provider for antitrust 
+injury resulting from provider’s alleged boycott of 
+psychologists); Reiter v. Sonotone Corp., 442 U.S. 330, 
+
+
+20a 
+
+
+341, 60 L. Ed. 2d 931, 99 S. Ct. 2326 (1979) (holding that 
+consumers of retail goods and services have standing to sue 
+under the antitrust laws when they suffer a price increase 
+resulting from anticompetitive conduct). 
+
+
+We conclude, therefore, that the plaintiffs are entitled to 
+survive summary judgment on the issue of antitrust injury. 
+In calculating the plaintiffs’ antitrust damages, the jury will 
+be faced with the difficult task of separating the antitrust 
+damages from the damages resulting from Humana’s 
+kickback scheme. Complex antitrust cases, however, 
+invariably involve complicated questions of causation and 
+damages. See Potters Medical Center, 800 F.2d at 576 
+(observing that speculative nature of damages are "often the 
+case in complex antitrust litigation and should not in itself 
+foreclose antitrust standing."). 
+
+
+We reverse the district court’s summary judgment in 
+favor of the defendants on the plaintiffs’ antitrust claim. 
+
+
+D. RICO 
+
+
+Both the Premium Payor and the Co-Payor classes 
+alleged that during the period from 1985 through 1988, in 
+violation of the civil RICO statute, 18 U.S.C. § 1964(e):? 
+
+
+2 Title 18 U.S.C. @ 1964(c) provides: 
+
+
+Any person injured in his business or property by reason 
+of a violation of section 1962 of this chapter may sue 
+therefor in any appropriate United States district court and 
+shall recover threefold the damages he sustains and the 
+cost of the suit, including a reasonable attorney’s fee. 
+
+
+2la 
+
+
+(1) Humana, Inc. and Humana Insurance acted as members 
+of an “association in fact" enterprise, or alternatively, that 
+Humana, Inc., a person within the meaning of 18 
+U.S.C.§ 1961(3), associated with Humana Insurance, an 
+enterprise within the meaning of 18 U.S.C. § 1961(4); (2) 
+Humana Inc. and Humana Insurance entered into a secret 
+agreement to give Humana Insurance an excessive discount 
+for hospital charges incurred by its insureds; (3) Humana 
+Inc. and Humana Insurance concealed and misrepresented 
+this agreement in numerous mailings, television and radio 
+aid eae calls; and (4) such acts were 
+to Premium Payor class into purchasi 
+policies tnd Gn Ci-Payer dems lam paylad entessies 
+co-payments. 
+
+The district court granted the defendants’ motion for 
+summary judgment because it found the plaintiffs’ RICO 
+claims were barred by the McCarran-Ferguson Act. 
+Additionally, the district court determined that the Premium 
+Payors’ RICO claim failed because the Premium Payors 
+failed to demonstrate a direct relationship between the 
+alleged injurious conduct and the injury asserted (excessive 
+premiums), or any “’concrete financial injury,’ for the 
+purposes of RICO." The district court also held the 
+defendants were “entitled to summary judgment on the 
+Co-Payor class’s RICO claim to the extent that the Co-Payor 
+class [sought] damages in excess of the amount that could 
+have been recovered under a proper interpretation of the 
+co-payment provision." 
+
+
+22a 
+
+
+1. The McCarran-Ferguson Act 
+
+
+The MFA, 15 U.S.C. § 1011, ef seqg., was enacted, in 
+part, to allow states to regulate the business of insurance free 
+from inadvertent preemption by federal statutes of general 
+applicability. Merchants Home Delivery Serv., Inc. v. Frank 
+B. Hall & Co., 50 F.3d 1486, 1488-89 (9th Cir.), cert 
+denied, 116 S. Ct. 418, 133 L. Ed. 2d 335 (1995). Section 
+
+
+2(b) of the MFA provides in pertinent part: 
+
+
+No Act of Congress shall be construed to invalidate, 
+impair, or supersede any law enacted by any State 
+for the purpose of regulating the business of 
+insurance . . . unless such Act specifically relates to 
+the business of insurance. 
+
+
+We have adopted a four-part test to determine when 
+section 2(b) of the MFA precludes the application of a 
+federal statute to preempt state insurance law. Merchants 
+Home, 50 F.3d at 1489. The MFA precludes such 
+preemption by a federal statute if: "(1) the statute does not 
+specifically relate’ to the business of insurance, (2) the acts 
+challenged under the statute constitute the business of 
+insurance, (3) the state has enacted a law or laws regulating 
+the challenged acts, and (4) the state law would be 
+superseded, impaired or invalidated by the application of the 
+federal statute.” Jd. All four factors must be satisfied. Jd. 
+Only the first factor is not disputed in this case - the parties 
+concede RICO does not specifically relate to the business of 
+insurance. 
+
+With regard to the second factor, the crux of the 
+plaintiffs’ claim is that Humana Insurance misrepresented 
+
+
+23a 
+
+
+how premiums would be calculated, leading the Premium 
+Payors to believe a discount from Sunrise Hospital would 
+lower their premium rates, and that the defendants 
+overcharged the Co-Payors by billing them for 20% of the 
+undiscounted cost of their hospital care. 
+
+The plaintiffs argue these allegedly fraudulent acts 
+cannot be part of the business of insurance because "fraud is 
+not a legitimate aspect of risk management.” In Merchants 
+Home we rejected such an argument and we do so again. It 
+is useless “to point to a practice forbidden by federal law . 
+. . and observe that this practice is not itself insurance.” Jd. 
+at 1490 (quoting NAACP v. American Family Mut. Ins. Co., 
+978 F.2d 287, 294 (7th Cir. 1992), cert. denied, 508 U.S. 
+907, 124 L. Ed. 2d 247, 113 S. Ct. 2335 (1993)). Such an 
+interpretation would “read the McCarran-Ferguson Act out 
+of existence” because “any practice which violated any 
+federal statute would, by definition, not be the "business of 
+insurance,’ resulting in all federal statutes applying to the 
+business of insurance with their "full rigor.’" Id. 
+
+
+Merchants Home. There, the plaintiff asserted RICO claims 
+for fraudulent insurance practices by the defendant. Id. at 
+1488. The plaintiff alleged three types of fraudulent 
+practices: (1) overcharging for premiums on actual policies; 
+(2) collecting premiums on fictitious policies; and (3) 
+collecting money from the insured to pay uninsured claims 
+which the insurer did not actually pay. Id. We held 
+overcharging for premiums was part of the “business of 
+insurance,” though collection of premiums on nonexistent 
+
+
+24a 
+
+
+uninsured claims were not part of such business. Jd. at 1490. 
+Consistent with Merchants Home, we conclude the 
+challenged practices in this case of Humana Insurance 
+overcharging premiums and not reducing co-payments is the 
+"business of insurance” for the purpose of the MFA. 
+
+The third factor in the preemption analysis is whether 
+the state has enacted a law or laws regulating the challenged 
+acts. We agree with the district court that the Nevada Act 
+was enacted to regulate the acts challenged by the plaintiffs. 
+
+
+In 1971, Nevada adopted the Trade Practices and 
+Frauds; Financing of Premiums Act (Act), N.R.S. 
+§ 686A.010, et seq. The purpose of the Act was: 
+
+to regulate trade practices in the business of 
+
+insurance in accordance with the intent of Congress 
+
+as expressed in the [MFA], 15 U.S.C. §§ 1011 to 
+
+1015 inclusive, by defining, or providing for the 
+
+determination of, all such practices in this state 
+
+which constitute unfair methods of competition or 
+unfair or deceptive acts or practices and by 
+prohibiting the trade practices so defined or 
+determined. 
+
+N.R.S. § 686A.010. 
+
+
+Under the Act, the Nevada Commissioner of Insurance 
+is granted “exclusive jurisdiction" to regulate the trade 
+practices of the business of insurance. N.R.S. § 686A.015. 
+The Act specifically prohibits the dissemination of false or 
+
+
+misleading information relating to the sale of policies or 
+
+
+benefits. N.R.S. §§ 686A.030 & 686A.040. The plaintiffs’ 
+
+
+2Sa 
+
+
+remedies does not alter our finding that it regulates the 
+challenged acts. The third factor is satisfied. 
+
+Applying the fourth factor, we consider whether the 
+application of RICO would invalidate, impair, or otherwise 
+supersede Nevada's legislation. In Merchants Home, we 
+addressed, for the first time, the question whether a federal 
+Statute invalidated, impaired, or superseded a state law under 
+section 2(b) of the MFA. Merchants Home, 50 F.3d at 1492. 
+As in the present case, the state law in Merchants Home 
+provided for only administrative remedies, but the federal 
+law (RICO) provided for a private right of action. Jd. We 
+held the application of the federal statute, although it 
+“prohibited” acts which were also prohibited under the 
+State's insurance law, did “not ‘invalidate, impair, or 
+supersede’ the state’s laws under §2(b) of the 
+McCarran-Ferguson Act.” Jd. 
+
+
+Here, as in Merchants Home, there is some symmetry 
+between RICO’s private right of action and Nevada's 
+administrative scheme. RICO permits an injured plaintiff to 
+recover for fraudulent practices which the Nevada 
+does not create a conflict between federal and state law. Id. 
+Accordingly, the fourth factor is not present. The MFA does 
+not preclude the plaintiffs’ RICO claims.’ 
+
+
+* The district court cannot be faulted for ruling to the 
+contrary. It did not have the benefit of Merchants Home, 
+decided in 1995, when it rendered its summary judgment 
+in this case. 
+
+
+26a 
+
+
+produced enough evidence in support of their RICO claims 
+to survive summary judgment. 
+
+2. Premium Payors’ Claim 
+
+To state a claim under RICO, 18 U.S.C. § 1962(c), a 
+plaintiff must demonstrate: (1) the conduct; (2) of an 
+enterprise; (3) through a pattern; (4) of racketeering 
+activity.* Sun Sav. and Loan Ass'n v. Dierdorff, 825 F.2d 
+187, 191 (9th Cir. 1987). Racketeering activity is amy act 
+indictable under various provisions of 18 U.S.C. § 1961 and 
+includes the predicate acts alleged in this case of mail fraud 
+and wire fraud under 18 U.S.C. §§ 1341 and 1343. Id. Mail 
+fraud under section 1341 requires the showing of a scheme 
+to defraud involving use of the United States mails with the 
+specific intent to defraud. Schreiber Distributing Co. v. 
+Serv-Well Furniture Co., 806 F.2d 1393, 1399-1400 (9th 
+Cir. 1986). Wire fraud under section 1343 requires the same 
+showing, but involves use of United States wires. Id. at 
+1400. 
+
+
+to demonstrate the requisite causal connection between the 
+
+
+* Title 18 U.S.C. @ 1962(c) provides: 
+
+
+It shall be unlawful for any person employed by or 
+associated with any enterprise engaged in, or the activities 
+of which affect, interstate or foreign commerce, to conduct 
+or participate, directly or indirectly, in the conduct of such 
+enterprise's affairs through a pattern of racketeering 
+activity or collection of unlawful debt. 
+
+
+27a 
+
+
+alleged predicate acts and the asserted damages. The court 
+also held the class failed to demonstrate “concrete financial 
+
+To maintain a claim under RICO, a plaintiff must show 
+not only that the defendant's violation was a “but for” cause 
+of his injury, but that it was the proximate cause as well. 
+Imagineering, Inc. v. Kiewit Pacific Co., 976 F.2d 1303, 
+1311 (9th Cir. 1992), cert. denied, 507 U.S. 1004, 123 L. 
+Ed. 2d 266, 113 S. Ct. 1644 (1993). This requires a 
+showing of a direct relationship between the injurious 
+conduct alleged and the injury asserted. Id. The plaintiff 
+must show a concrete financial loss. Jd. 
+
+
+In the present case, the Premium Payor class had to 
+establish that they relied on misrepresentations in buying 
+their insurance policies, and that these misrepresentat.ons 
+directly caused them a concrete financial loss. They contend 
+their claim is simple. Humana, Inc. and Humana Insurance 
+represented to them, through mailings, television and radio 
+commercials, and phone calls, that cost savings would be 
+passed along to them in the form of reduced premiums. They 
+relied on these representations in choosing Humana 
+Insurance as their insurance carrier. The hospital discount 
+Humana Insurance received from Sunrise Hospital was a 
+form of cost saving, yet it was not incorporated into 
+not reflect these discounts, the Premium Payors contend they 
+suffered a financial loss. 
+
+
+The district court found no evidence in the record to 
+support the Premium Payors’ contention that the defendants 
+fraudulently represented how premiums would be calculated. 
+
+
+28a 
+
+
+The class argues the myriad advertisements and promotions 
+did just that. We disagree. The transcript of commercials 
+submitted by the class fails to support their argument. The 
+commercials simply state that because Humana Insurance can 
+“control costs” the employers and employees can save 
+
+
+statements as “puffery." The statements were too general to 
+be interpreted as defining any calculation of insurance 
+premiums. 
+
+The class also submitted Humana Insurance’s annual 
+reports. Statements in the reports suggested patients were 
+encouraged to attend Humana hospitals "where savings could 
+be shared with employers and their employees through lower 
+premiums.” Like the advertisements, this statement did not 
+make a specific representation as to how the premiums 
+would be calculated sufficient to support a cause of action 
+for fraud. 
+
+
+Because we conclude the Premium Payor class failed to 
+come forward with any evidence that the defendants 
+misrepresented how the insurance premiums would be 
+calculated, we do not reach the question of causation. The 
+district court did not err in granting summary judgment 
+against the Premium Payors on their RICO claim. 
+
+3. Co-Payors’ Claim 
+
+
+The Co-Payors alleged the failure to disclose the Sunrise 
+Hospital discount in the notice of coinsurance obligations 
+sent to them induced them to make inflated co-payments. 
+The Co-Payors were thus allegedly injured by the 
+
+
+29a 
+
+
+defendants’ fraudulent failure to reduce their co-payment 
+bills in accordance with the agreed ratio of 80% to 20%. 
+
+
+Although these facts presented at least a triable issue of 
+fact on the Co-Payors’ RICO claim, the district court 
+dismissed the claim as barred by the McCarran-Ferguson 
+Act. As we have previously stated, the McCarran-Ferguson 
+Act does not preclude a RICO claim in this case. The district 
+court correctly held, however, that the Co-Payors failed to 
+present any evidence of financial harm resulting from the 
+misrepresentations, except for the amounts they overpaid as 
+a result of the nondisclosure of the discount. Therefore, we 
+affirm the district court’s partial summary judgment in favor 
+of the defendants as to any claim by the plaintiffs for RICO 
+damages in excess of these overpayments. 
+
+
+E. Motion To Amend 
+
+
+The plaintiffs contend the district court erred in not 
+granting them leave to amend their complaint. The plaintiffs 
+sought leave to add three additional claims: (1) a RICO 
+conspiracy claim; (2) a claim for obstruction of justice under 
+18 U.S.C. § 1503; and (3) their previously dismissed state 
+law claims. 
+
+
+We review for abuse of discretion a district court's 
+denial of a motion to amend. DCD Programs, Lid. v. 
+Leighton, 833 F.2d 183, 186 (9th Cir. 1987). 
+
+
+Leave to amend pleadings “shall be freely given when 
+justice so requires.” Fed. R. Civ. P. 15(a). We apply this 
+rule with “extreme liberality." Morongo Band of Mission 
+Indians v. Rose, 893 F.2d 1074, 1079 (9th Cir. 1990). The 
+following factors guide a court’s determination of whether a 
+
+
+30a 
+
+
+motion to amend should be granted: (1) undue delay; (2) bad 
+faith; (3) futility of amendment; and (4) prejudice to the 
+opposing party. Hurn v. Retirement Fund Trust of Plumbing, 
+Etc., 648 F.2d 1252, 1254 (9th Cir. 1981). Of these 
+elements, only the futility issue is relevant in this case. 
+
+
+Because the plaintiffs’ state law claims are preempted by 
+ERISA, leave to amend to reassert the state law claims 
+would be futile. The obstruction of justice claim under 18 
+U.S.C. § 1503 is also futile because 18 U.S.C. § 1503 is a 
+criminal statute that does not provide for a private cause of 
+action. Hanna v. Home Ins. Co., 281 F.2d 298, 303 (Sth 
+Cir. 1960), cert. denied, 365 U.S. 838, 5 L. Ed. 2d 747, 81 
+S. Ct. 751 (1961); Odell v. Humble Oil & Refining Co., 201 
+F.2d 123, 127 (10th Cir.), cert. denied, 345 U.S. 941, 97 L. 
+Ed. 1367, 73 S. Ct. 833 (1953). With regard to the 
+proffered RICO conspiracy claim, however, in light of our 
+determination that the Co-Payor class’s RICO claim is not 
+barred by the MFA, we conclude the Co-Payor class should 
+be allowed to amend its complaint to assert this claim. 
+
+
+Vv 
+CONCLUSION 
+
+
+The district court’s grant of summary judgment is 
+affirmed as to the ERISA issues, reversed and remanded as 
+to the Sherman Act antitrust issues, affirmed as to the 
+Premium Payor class’s RICO claim, and affirmed as to 
+partial summary judgment on the Co-Payor class’s RICO 
+claim. In addition, we grant the Co-Payor class leave to 
+amend its RICO claim to allege a RICO conspiracy. The 
+
+
+3la 
+
+
+plaintiffs shall recover from the defendants one-half of the 
+plaintiffs’ cost of appeal. 
+
+
+AFFIRMED IN PART, REVERSED IN PART, AND 
+REMANDED. 
+
+
+WALLACE, Circuit Judge, concurring and dissenting: 
+
+
+I concur with the majority in large measure, but its 
+analysis of the antitrust claims in part IV.C. is so troubling 
+that I cannot agree. Although reasonable minds can differ, 
+in this complex economic terrain, I am inclined to the 
+position that the district court did not err in concluding that 
+Forsyth’s evidence for a submarket of for-profit hospitals 
+was insufficient to survive summary judgment. The 
+majority's analysis of this issue displays a subtle but 
+important error of market definition theory. I would affirm. 
+
+Forsyth contends that Humana monopolized or attempted 
+to monopolize a market for major for-profit acute care 
+hospitals in Clark County, Nevada. The district court held 
+that Forsyth failed to establish the existence of a separate 
+market for for-profit hospitals within the general Clark 
+County hospital market. In holding that there is a genuine 
+factual dispute on this issue, the majority points to two 
+categories of evidence submitted by Forsyth. The first 
+depends on a faulty inference about cross-price elasticity of 
+demand, and the second is insufficient to avoid summary 
+judgment. 
+
+_As evidence for the existence of a separate market, the 
+majority states that although "UMC charged patients 15 to 
+20 percent less than Sunrise Hospital, . . . patients with a 
+choice, such as those with insurance, eschewed UMC in 
+
+
+32a 
+
+
+favor of the larger for-profit hospitals despite the 
+significantly lower price at UMC." The majority interprets 
+this consumer behavior as evidence that demand for 
+for-profit hospitals is not responsive to the price charged by 
+non-profit hospitals; "when demand for the commodity of 
+one producer shows no relation to the price for the 
+commodity of another producer, it supports the claim that 
+the two commodities are not in the same relevant market." 
+
+
+The majority’s test refers to the economic concept of 
+cross-price elasticity of demand, which is a useful tool for 
+evaluating whether products compete in the same market. 
+Cross elasticity of demand measures the percentage change 
+in the quantity which consumers demand of one product in 
+response to a percentage change in the price of another. 
+
+When the cross-price elasticity of demand for good 
+
+i with respect to the price of good j is positive, an 
+
+increase in [the price of] j causes the demand for 
+
+good i to rise; in that case, the goods are substitutes 
+
+(as fuel oil and coal). Conversely, if the cross-price 
+
+elasticity is negative, the goods are complements (as 
+
+cigars and matches). 
+
+
+2A Phillip E. Areeda, et al., Antitrust Law 105 (rev. ed. 
+1995). A high cross elasticity of demand indicates that 
+products are close substitutes, and should probably be treated 
+as part of the same market. A low or zero cross elasticity of 
+demand is evidence that products do not compete in the same 
+relevant market. 
+
+
+By focusing on this relationship between the demand for 
+one commodity and the price of another, the majority 
+
+
+33a 
+
+
+attempts to avoid the common but fallacious assumption that 
+expensive products automatically compete in a separate 
+market from inexpensive ones. See Twin City Sportservice v. 
+Charles O. Finley & Co., 512 F.2d 1264, 1274 (9th Cir. 
+1975) ("the scope of the relevant market is not governed by 
+the presence of a price differential"). The majority reasons 
+that if "patients with » choice” prefer Sunrise hospital even 
+though it is more expensive, then demand for Sunrise "shows 
+no relation" to the prices charged at UMC and the other 
+“indigent” hospitals. 
+
+That inference causes me to depart from the majority. 
+We cannot conclude that demand for Sunrise "shows no 
+relation” to the prices at UMC without some evidence of 
+how demand for Sunrise responds to a change in the prices 
+at UMC. Cross elasticity of demand measures a dynamic 
+relationship between two variables: the quantity demanded of 
+product i, and the price of product j. That is, by economic 
+formulation, 
+
+
+Eij d = - 
+
+
+(change in) Pj /Pj 
+2A Areeda, Antitrust Law at 105. Cross elasticity cannot be 
+calculated or approximated without information about the 
+quantity demanded of i at (at least) two different prices of j. 
+The record does not reflect that Forsyth introduced any such 
+evidence, and without it the majority’s inference is 
+inappropriate. 
+
+
+34a 
+
+
+The following example may help in making my point. 
+Suppose that Ford and Chevrolet each sell a light truck. The 
+Ford has four-wheel drive, and costs $ 2000 more than the 
+Chevrolet, which does not have four-wheel drive. Both 
+trucks sell equally well. If Chevrolet cuts the price of its 
+truck in half and Ford’s sales are unaffected, we might infer 
+that the two vehicles are in different relevant markets. But 
+the majority would interpret the simple fact that some 
+consumers buy the Ford, notwithstanding the price 
+differential, as evidence that the trucks do not compete. That 
+reasoning, it seems to me, is faulty. 
+
+
+If four-wheel drive is worth about $ 2000 to most 
+consumers, for example, small changes in the price of the 
+Ford could have a dramatic impact on demand for the 
+Chevrolet. If the availability of the Chevrolet significantly 
+limits the rational pricing strategies for Ford, then the two 
+trucks “compete” in the sense that matters for antitrust 
+market definition. Ford could not exact monopoly profits by 
+raising the price of its truck, because it would lose too many 
+customers to Chevrolet. See Rebel Oil v. Atlantic Richfield, 
+51 F.3d 1421, 1434 (9th Cir.) ("If the sales of other 
+producers substantially constrain the price-increasing ability 
+of the monopolist or hypothetical cartel, these other 
+producers must be included in the market."), cert. denied, 
+133 L. Ed. 2d 424, 116 S. Ct. 515 (1995). 
+
+
+The majority also points to certain documentary 
+evidence, including an expert’s affidavit and testimony 
+before the Nevada legislature, which tended to support 
+Forsyth’s contention that the “niche” hospitals did not 
+compete with Sunrise. “Niche” sellers are generally 
+
+
+35a 
+
+
+considered to be in the same market with larger, mee. 
+Industries v. Pay ’N Pak Stores, 875 F.2d 1369, 1374-77 
+(9th Cir. 1989). I do not believe that the district judge erred 
+in concluding that Forsyth’s evidence on this point was 
+insufficient to create a triable issue of fact. 
+
+
+36a 
+
+
+APPENDIX B 
+
+
+Memorandum Decision and Order of the District Court 
+(Decided July 21, 1993) 
+
+
+MARY FORSYTH, MARRIETTA CADE; WILLIE 
+ANDREWS; MARY LOU BUEHLER; HELEN STAVES; 
+RANDOLPH BRATTON; and SEARLE AUTO GLASS, 
+INC., doing business as BEST GLASS COMPANY, 
+Plaintiffs, 
+v. 
+
+
+HUMANA, INC., a Delaware corporation; 
+HUMANA HEALTH INSURANCE OF 
+NEVADA, INC., a Nevada corporation; and 
+DOES I through X, inclusive, Defendants. 
+
+
+CV-S-89-249-PMP (LRL) 
+
+
+UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF NEVADA 
+
+
+July 21, 1993, Decided 
+
+
+J. Randall Jones, John Field, Jones, Jones, Close & 
+Brown, Las Vegas, NV, Will Kemp, Harrison Kemp, Chtd., 
+Las Vegas, NV, Stanley M. Chesley, Waite, Schneider, 
+Bayless & Chelley, L.P.A., Cincinnati, OH, John J. 
+
+
+Cummings, Richard M. Martin, Jr., W.B. Markovitis, 
+Cummings, Cummings & Dudenhefer, New Orleans, LA, 
+Wendell H. Gauthier, Gauthier & Murphy, Metairie, LA, B. 
+Robert Blakey, Notre Dame Law School, Notre Dame, IN, 
+
+
+for plaintiffs. 
+
+
+company to pay the other 80%. The liability of an insured 
+ae ae One “personal expense limit" which was the 
+sageniieen of the tamah health Gate ennenste. 
+
+
+In 1984, Humana Insurance and Sunrise Hospital entered 
+into an agreement where’ Humana Insurance would pay 
+Sunrise Hospital a discount. amount for that portion of the 
+hospital charges for which it was responsible. However, the 
+portion of the charges paid by the insureds was not 
+discounted but was still based on the usual and customary 
+rates. Plaintiffs assert that Humana Insurance failed to pass 
+
+
+38a 
+
+
+along the discounts it had arranged for itself to its insureds 
+either in the form of reduced premiums or reduced 
+co-payments. 
+
+Previous Orders of this Court have granted Plaintiffs’ 
+Motions for Class Certification, thereby permitting both a 
+Premium Payor Class and a Co-Payor Class to maintain this 
+action. By their Second Amended Complaint (#370), filed 
+August 12, 1991, Plaintiffs assert three claims for relief. 
+Plaintiffs’ First Claim for Relief is brought by the Co-Payor 
+Class which consists of employees who obtained health 
+insurance benefits under an employee benefit plan as defined 
+under the Employment Retirement Income Security Act 
+(ERISA), 29 U.S.C. § 1001, ef seq. There Plaintiffs allege 
+that Defendants breached fiduciary duties owed to the 
+Co-Payor Class under ERISA; engaged in transactions 
+prohibited by ERISA; and retained excessive compensation. 
+Plaintiffs’ Second Claim for Relief alleges a violation of 
+Section 2 of the Sherman Act, 15 U.S.C. § 2 and is brought 
+on behalf of the Co-Payor Class and Premium Payor Class, 
+which consists of individuals or entities paying all or a 
+portion of the Humana-Insurance premiums during the period 
+1985 to 1988. Plaintiffs’ Third Claim for Relief, brought on 
+behalf of both the Co-Payor Class and Premium Payor Class, 
+alleges that Defendants engaged in a scheme to defraud in 
+violation of the Racketeer Influenced and Corrupt 
+Organizations Act, 18 U.S.C. §§ 1961-1968. 
+
+
+Before the Court is a Motion for Summary Judgment 
+(#804), filed on June 22, 1993, by Defendants Humana and 
+Humana Insurance. On July 7, 1992, Defendants filed a 
+
+
+39a 
+
+
+August 7, 1992, which was followed by an Errata (#822) 
+filed on August 12, 1992. Defendants filed their Reply 
+
+
+(#841) accompanied by a Supplemental Affidavit (#842) 
+October 19, 1992. s 
+
+
+Additionally, the parties have filed the following 
+supplementary motions: 
+
+
+(1) supplement to Plaintiffs’ Opposition (#834), filed 
+September 30, 1992. ' 23 
+
+
+(2) Second supplement to Plaintiffs’ Opposition (#849), filed 
+on November 16, 1992. 
+
+
+(3) Defendants’ Supplemental Memorandum (#868), filed on 
+February 22, 1993. Plaintiffs filed a Third Supplement and 
+Opposition (#890) on May 17, 1993. On June 2, 1993, 
+
+
+(5) Plaintiffs’ Fourth Supplement to Opposition (#896), filed 
+with 1993. Defendants filed a Response (#909), on 
+, 1993. 
+
+
+(6) Defendants’ Third Supplemental Memorandum (#901), 
+filed on June 23, 1993. Plaintiffs filed a Response to 
+Defendants’ ee ee ee 
+(#908) on July 1, 1993. 
+
+
+(7) Plaintiffs’ Response to (#895) and Fifth Supplement to 
+Opposition (#902), filed on June 25, 1993. 
+
+
+40a 
+
+
+(8) Defendants’ Supplemental Memorandum of Points and 
+Authorities (#903), filed on June 29, 1993. 
+
+
+(9) Defendants’ Fourth Supplemental Memorandum (#910), 
+filed on July 2, 1993. 
+
+
+On July 7, 1993, this Court heard oral argument on 
+Defendants’ Motion for Summary Judgment and its 
+progeny. 
+
+I. STANDARD OF REVIEW 
+
+
+Pursuant to Federal Rule of Civil Procedure 56, 
+summary judgment is proper “if the pleadings, depositions, 
+answers to interrogatories, and admissions on file, together 
+with the affidavits, if any, show that there is no genuine 
+issue as to any material fact and that the moving party is 
+entitled to a judgment as a matter of law. 
+
+
+burden of showing the absence of a genuine issue of material 
+fact. See Adickes v. S. H. Kress & Co., 398 U.S.144, 26 L. 
+Ed. 2d 142, 90 S. Ct. 1598 (1970); Zoslaw v. MCA Distrib. 
+Corp., 693 F.2d 870, 883 (9th Cir. 1982). Once the 
+movant’s burden is met by presenting evidence which, if 
+uncontroverted, would entitle the movant to a directed 
+verdict at trial, the burden then shifts to the respondent to set 
+forth specific facts demonstrating that there is a genuine 
+issue for trial. Anderson v. Liberty Lobby, Inc., 477 U.S. 
+242, 250, 91 L. Ed. 2d 202, 106 S. Ct. 2505 (1986). If the 
+factual context makes the respondent’s claim implausible, 
+than would otherwise be necessary to show that there is a 
+genuine issue for trial. Celotex Corp. v. Catrett, 477 U.S. 
+
+
+4la 
+
+
+317, 323-24, 91 L. Ed. 2d 265, 106 S. Ct. 2548 (1986); 
+Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 
+574, 586-87, 106 S. Ct. 1348, 89 L. Ed. 2d 538 (1986); 
+California Arch. Bldg. Prods. v. Franciscan Ceramics, 818 
+F.2d 1466, 1468 (9th Cir. 1987), cert. denied, 484 U.S. 
+1006, 98 L. Ed. 2d 650, 108 S. Ct. 698 (1988). 
+
+
+If the party seeking summary judgment meets this 
+burden, then summary judgment will be granted unless there 
+is significant probative evidence tending to support the 
+opponent's legal theory. First National Bank of Arizona v. 
+Cities Service Co., 391 U.S. 253, 290, 88 S. Ct. 1575, 
+1593, 20 L. Ed. 2d 569 (1968); Commodity Futures Trading 
+Commission v. Savage, 611 F.2d 270 (9th Cir. 1979). 
+Parties seeking to defeat summary judgment cannot stand on 
+their pleadings once the movant has submitted affidavits or 
+other similar materials. Affidavits that do not affirmatively 
+demonstrate personal knowledge are insufficient. British 
+Airways Bd. v. Boeing Co., 585 F.2d 946, 952 (9th Cir. 
+1978), cert. denied, 440 U.S. 981, 60 L. Ed. 2d 241, 99S. 
+Ct. 1790 (1979). Likewise, “legal memoranda and oral 
+argument are not evidence and do not create issues of fact 
+capable of defeating an otherwise valid motion for summary 
+judgment.” Jd. 
+
+A material issue of fact is one that affects the outcome 
+of the litigation and requires a trial to resolve the differing 
+versions of the truth. See Admiralty Fund v. Hugh Johnson 
+& Co., 677 F.2d 1301, 1305-06 (9th Cir. 1982); Admiralty 
+Fund v. Jones, 677 F.2d 1289, 1293 (9th Cir. 1982). 
+
+
+All facts and inferences drawn must be viewed in the 
+light most favorable to the responding party when 
+
+
+42a 
+
+
+determining whether a genuine issue of material fact exists 
+for summary judgment purposes. Poller v. CBS, Inc., 368 
+U.S. 464, 7 L. Ed. 2d 458, 82 S. Ct. 486 (1962). After 
+drawing inferences favorable to the respondent, summary 
+judgment will be granted only if all reasonable inferences 
+defeat the respondent’s claims. SEC v. Seaboard Corp., 677 
+F.2d 1297, 1298 (9th Cir. 1982). 
+
+
+The trilogy of Supreme Court cases cited above 
+establishes that “summary judgment procedure is properly 
+regarded not as a disfavored procedural shortcut, but rather 
+as an integral part of the Federal Rules as a whole, which 
+are designed "to secure the just, speedy and inexpensive 
+determination of every action.’" Celotex Corp., 477 U.S. at 
+327, quoting Fed. R. Civ. P. 1). See also Avia Group Int'l, 
+Inc. v. L.A. Gear Cal., 853 F.2d 1557, 1560 (Fed. Cir. 
+
+
+1988). 
+Il. ERISA 
+
+A. Facts & Procedural History 
+
+In their First Claim for Relief, Plaintiffs’ Co-Payor 
+Class seeks approximately $ 85 million in damages against 
+Defendant Humana Insurance for violation of its fiduciary 
+duties under ERISA. 
+
+At the heart of this entire case is a provision within the 
+Humana Care Plus Policy under which members of the 
+Co-Payor Class were insured. This provision states that the 
+employee insured would pay 20% of all covered charges 
+incurred while in a hospital up to a certain amount (usually 
+$ 5,000), and that Humana Insurance would be responsible 
+for the remaining 80%. See Opposition (#820), Exhibit 85 
+
+
+43a 
+
+
+at 7-1 (Humana Insurance master group health insurance 
+policy HCP-84-NV-1).' From 1984 to 1988, Humana 
+Insurance obtained substantial discounts, allegedly between 
+40% and 96%, from Sunrise for services rendered to the 
+insureds in the Co-Payor Class. Errata (#822) at 49-50, 
+Exhibit #39; Opposition (#820), Exhibits 38, 40. Instead of 
+sharing these discounts with the insureds by reducing the 
+amount of co-payments due, Humana Insurance only applied 
+the discount to the amount for which they would have been 
+responsible under the policy. Motion for Summary Judgment 
+(#804) at 10-12. 
+
+
+Based on these actions, the Co-Payor Class asserts that 
+Humana Insurance breached several of its fiduciary duties 
+under ERISA including: 
+
+
+(1) Humana Insurance engaged in a transaction involving the 
+plan on behalf of a party, Sunrise, whose interests were 
+adverse to those of the health benefits plans and/or its 
+participants or beneficiaries in violation of 29 U.S.C. 
+§ 1106()(2); 
+
+(2) Humana Insurance dealt with plan assets in its own 
+interest or for its own account by erroneously interpreting 
+the individual i ~ - 
+
+based on gross charges and effectuating the co-payment 
+
+
+' Accordingly, in addition to any premiums which were 
+paid to Humana Insurance by the employer or employee, 
+the employee insured would ultimately be responsible for 
+up to $ 1,000 (20% of $ 5,000) before Humana would 
+absorb 100% of covered hospital charges. Errata (#822) at 
+123-125. 
+
+
+44a 
+
+
+billings through contract administration in violation of 29 
+U.S.C. § 1106(b)(1); 
+
+
+(3) Humana Insurance received consideration (e.g. the 
+discounts) from Sunrise involving the assets of the plan in 
+violation of 29 U.S.C. § 1106(b)(3); 
+
+
+(4) Humana Insurance did not act in the sole interest of the 
+insureds in interpreting the insurance contracts in violation 
+of 29 U.S.C. § 1104(1)(A)(i); 
+
+(5) Humana Insurance failed to discharge its duties with 
+respect to the plan in accordance with the documents and 
+instruments governing the plan in violation of 29 U.S.C. 
+§ 1104(1)(D). 
+
+
+See Errata (#822) at 173-193. 
+
+
+On September 26, 1989, this Court denied Defendant 
+Humana Insurance’s Motion to Dismiss (#13) the Co-Payor 
+Class’ claim for breach of fiduciary duty. In denying 
+Humana Insurance’s Motion, this Court held, citing 
+Sixty-Five Security Plan v. Blue Cross and Blue Shield, 583 
+F. Supp. 380, 387 (S.D.N.Y. 1984), aff'd on reh’g, 588 F. 
+Supp. 119 (1984), that given the discretion of Humana 
+Insurance to negotiate reimbursement rates on behalf of the 
+health benefit plans, Humana Insurance should be considered 
+a fiduciary under ERISA. Order (#79) at 9. This Court 
+further held that the plain meaning of the contract language 
+indicated that the insureds should have paid 20% of the net 
+hospital charge and not the gross charge, and consequently, 
+by failing to distribute the negotiated discount among the 
+Co-Payor Class, Humana Insurance may have violated its 
+fiduciary duties. Jd. at 10. Finally, this Court found that 
+
+
+45a 
+
+
+Humana Insurance’s failure to reduce its insurance premiums 
+did not constitute a breach of fiduciary duty and that the 
+establishment of co-payment rates was distinguishable from 
+the fiduciary duties imposed in the approval or denial of 
+insurance Claims. Jd. at 6-9, 10. 
+
+
+On July 9, 1991, this Court entered a second Order 
+
+
+violation of 29 U.S.C. § 1106(b). Order (#364) at 4. This 
+Court went on to hold that Plaintiffs were not asserting a 
+claim for benefits’, but instead were "seeking recovery for 
+having overpaid hospital stays, because Humana Insurance 
+as fiduciary should have acted in their interest and assured 
+that Plaintiffs were not paying based on a ’fraudulent’ rate." 
+Id. at 6. In addition, in rejecting Humana Insurance’s 
+St nn could nt sesert a claim for beeach 
+iary relief in their individual i 
+mie Capacity, this Court 
+This case presents a unique situation in that the 
+whole plan was affected by the alleged breach by 
+Humana Insurance, but there was only monetary 
+harm to individual participants and beneficiaries if 
+
+
+* In the Order, this Court defined a "claim for benefits” 
+as a situation where “an insured puts in a claim and the 
+insurance Company denies it." Order (#364) at 6. 
+
+
+46a 
+
+
+and when they were required to pay copayments. 
+
+The only meaningful remedy is recovery by these 
+
+§ 1132(a)(3) permit such recovery. Id. at 14.° 
+
+In support of the instant Motion for Summary Judgment 
+on Plaintiffs’ ERISA claim, Defendant Humana Insurance 
+advances three alternative arguments: (1) Plaintiffs are 
+precluded from bringing a claim for breach of fiduciary duty 
+since they are seeking relief to benefit only themselves (e.g., 
+the Co-Payor Class) and not the plan as a whole*; (2) 
+
+
+> In so doing this Court primarily relied upon a broad 
+interpretation of Amalgamated Clothing & Textile Workers 
+Union v. Murdock, 861 F.2d 1406 (9th Cir. 1988) and 
+distinguished the holdings of Massachusetts Mutual Life 
+Ins. Co. v. Russell, 473 U.S. 134, 87 L. Ed. 2d 96, 105 
+S. Ct. 3085 (1985) and Sokol v. Bernstein, 803 F.2d 532 
+
+
+(9th Cir. 1986). 
+
+
+* Defendant Humana Insurance claims that the total 
+number of insureds who had a co-payment obligation to 
+Humana Hospital Sunrise as a percentage of the number of 
+total insureds was 11.68% (16,412/140,487), whereas the 
+total number of insureds whose co-payment obligation 
+would have declined if their coinsurance was calculated on 
+the discounted amount as a percentage of the number of 
+total insureds was 9.54% (13,049/140,487). Plaintiffs state 
+that the 9.54% is not supported by the evidence, but do 
+concede that not all employees covered under the various 
+health plans were hospitalized at Humana Hospital 
+Sunrise. Opposition (#820), Exhibit 93; Errata (#822) at 
+207, n.404. 
+
+
+47a 
+
+
+Humana Insurance did not act as a fiduciary in entering into 
+the discount arrangement with Sunrise; and (3) if a claim for 
+breach of fiduciary duty is allowed, monetary relief should 
+be limited to recovery of the allegedly excessive coinsurance 
+payments. Motion for Summary Judgment (#804) at 14-35. 
+
+
+Plaintiffs respond that: (1) this Court has already 
+correctly ruled that regardless of the fact that only the 
+Co-Payor Class was financially injured by Humana 
+Insurance's discounting scheme, since all the insureds were 
+affected” by the scheme, the Co-Payor Class may properly 
+pursue a constructive trust for Humana Insurance’s alleged 
+violations of fiduciary duty; (2) this Court correctly ruled 
+that Humana Insurance was rendered a fiduciary by 
+negotiating a discount with Humana Hospital Sunrise since 
+such an act constituted discretion in the administration of a 
+plan; and (3) under ERISA, damages for Humana 
+Insurance’s alleged breach of fiduciary duty should be 
+measured by the sum of the total discount received by 
+Humana Insurance from Sunrise and not simply the 
+percentage of the discount that Humana Insurance should 
+have shared under the terms of the insurance contract. 
+
+
+B. Discussion 
+
+
+1. May the Co-Payor Class Assert a Claim for 
+Breach of Fiduciary Duty? 
+
+
+Notwithstanding this Court’s Order (#364) of July 9, 
+1991, Humana Insurance once again asserts that the 
+Co-Payor Class may not pursue its claims for breach of 
+fiduciary duty, as the class seeks monetary relief on behalf 
+of themselves as individuals and not on behalf of their 
+
+
+48a : 
+
+
+respective employee benefit plans. In support of its position, 
+Humana Insurance cites two recent Ninth circuit cases, 
+Horan v. Kaiser Steel Retirement Plan, 947 F.2d 1412 (9th 
+Cir. 1991) and Williams v. Caterpillar, Inc., 944 F.2d 658 
+(9th Cir 1991), as new authority upon which this Court 
+should rely to reverse its earlier decision. Although it does 
+not appear that either of these cases charts new waters in the 
+rough seas of ERISA interpretation, these decisions do 
+present a forceful argument for reconsidering this Court’s 
+earlier interpretation of Russell, Sokol, and Murdock. See 
+Order (#364) at 7-14. 
+
+
+To begin, this Court reaffirms its earlier interpretation 
+of Russell to the effect that the substantive remedies afforded 
+by 29 U.S.C. § 1109 are limited, and that § 1109 does not 
+allow for the recovery of extra-contractua] damages by 
+individual beneficiaries. See Order (#364) at 8-9; Russell, 
+473 U.S. at 142-144. In coming to this conclusion, the 
+Supreme Court in Russell specifically found that even though 
+ERISA requires plan fiduciaries to serve the interests of 
+participants and beneficiaries, § 1109 provides remedies for 
+breach of fiduciary duties only on behalf of the plan, and not 
+the individual beneficiary.° Jd. Subsequently, the Ninth 
+
+
+> More specifically, the Supreme Court stated: 
+
+
+A fair contextual reading of (@ 1109) makes it 
+abundantly clear that its draftsmen were primarily 
+concerned with the possible misuse of plan assets, and 
+with remedies that would protect the entire plan, rather 
+than with the rights of an individual beneficiary... . 
+[Tyhe entire text of (@ 1109) persuades us that Congress 
+
+
+49a 
+
+
+Circuit adopted the reasoning used in Russell to foreclose the 
+availability of extra-contractual damages under 29 U.S.C. 
+§ 1132(a)(3). See Sokol, 803 F.2d at 534-537. In doing so, 
+the Ninth Circuit emphasized, just as the Supreme Court did 
+in Russell, that the remedies allowed under § 1132(a)(3) are 
+limited and that § 1132(a)(3) “emphasizes the protection of 
+the plan, not the direct protection of the beneficiaries.” Jd. 
+at 536-537.° 
+
+
+The two recent cases cited by Defendant Humana 
+Insurance, Horan and Williams, restate the interpretation of 
+Russell and Sokol summarized above. For example, in 
+holding that Plaintiffs in Horan could not bring a claim for 
+breach of fiduciary duty under § 1132(a)(3), the Ninth 
+Circuit stated: 
+
+
+An individual beneficiary may bring a fiduciary 
+breach claim, but must do so for the benefit of the 
+plan. An individual beneficiary may not pursue a 
+fiduciary breach claim to recover benefits or 
+remedies beyond those provided by a plan. Any 
+
+
+2 aaa authorize any relief except for the plan 
+itsey. 
+
+
+Russell, 473 U.S. at 142, 144 (emphasis added). 
+
+
+* This Court also recognizes that the position adopted by 
+the Ninth Circuit in Sokol directly contradicts Justice 
+William Brennan's interpretation of @ 1132(a)(3) found in 
+his concurring opinion in Russell. See Order (#364) at 9: 
+Russell (Brennan, J., concurring) at 153-155; Sokol, 803 
+F.2d at 534-538. 
+
+
+section 1132(a)(3) which allows recovery of ‘other 
+appropriate equitable relief.’ Section 1 132(a)(3) also 
+does not provide an action for an individual 
+beneficiary to recover extra-contractual remedies. 
+Under Russell and Sokol, the plaintiffs fail to 
+present a fiduciary breach claim if the only remedy 
+sought is for their own benefit, rather than for the 
+benefit of the Plan as a whole. 
+
+
+Horan 947 F.2d at 1417-18 (citations omitted). Similarly, in 
+Williams the Ninth Circuit recognized that “the Supreme 
+Court has held that equitable relief under ERISA is limited 
+to relief protecting the integrity of the plan as a whole and 
+does not extend to individual plan participants.” Williams, 
+944 F.2d at 665. 
+
+
+In this Court's previous Order (#364) of July 9, 1991, 
+it found that, based on Murdock and § 1132(a)(3), the only 
+“meaningful remedy” in this case would be to allow the 
+Co-Payor Class to sue Humana Insurance for breach of 
+fiduciary duty. See Order (#364) at 14. In light of the 
+
+
+Sla 
+
+
+First, it is undisputed that the members of the Co-Payor 
+Class are seeking approximately $ 85 million in damages in 
+their individual capacity for various breaches of fiduciary 
+duty pursuant to § 1132(a)(3). As set forth in Sokol, Horan, 
+and Williams, however, § 1132(a)(3) does not allow 
+individual beneficiaries to sue for a breach of fiduciary 
+en took oun baba. Soe Moron 947 F.24 u 140048 
+Williams, 944 F.2d at 665; Sokol, 803 F.2d at 536-537. 
+
+Second, this Court’s previous reliance on Murdock as 
+authority for allowing the Co-Payor Class to seek damages 
+under § 1132(a)(3) must be acknowledged as tenuous. 
+Although the Court in Murdock did allow plan beneficiaries 
+(and not the plan itself) to benefit from a constructive trust 
+funded with the ill-gotten profits of the plan administrator. 
+the Court in Murdock also limited its ruling two the 
+“circumstances of this case." Murdock, 861 F.2d at 1417. 
+These circumstances included the fact that (1) the ERISA 
+plan which had been defrauded no longer existed, (2) under 
+the terms of the plan (which were altered by the errant 
+fiduciary) any damages paid to the plan would have simply 
+reverted to the wrongdoer, and (3) the damages to be 
+received for the breach of fiduciary duty were to be put into 
+& constructive trust in favor of all plan participants. Jd. at 
+1408-09, 1417. 
+
+
+Here, although Defendants’ conduct as alleged by 
+Plaintiffs is clearly questionable, the level of impropriety 
+
+
+52a 
+
+
+alleged is less severe than that which occurred in Murdock.’ 
+The injury in Murdock was directed primarily against the 
+benefit plans purportedly affected by Humana Insurance's 
+breach of fiduciary duty still exist, and, most importantly, 
+this Court's prior Order (#364) would afford relief only to 
+a select group of beneficiaries. Upon reconsideration and 
+based on these distinctions, this Court finds that Murdock 
+does not provide persuasive authority to support this Court's 
+earlier interpretation of § 1132(a)(3).* 
+
+
+” In Murdock, the fiduciary used plan assets to further a 
+"greenmail” scheme to benefit his own individual assets. 
+After the scheme was successful (with both the plan and 
+the fiduciary making substantial profits as a result), the 
+fiduciary then amended the plan so that any excess funds 
+would revert to the administrator. With the plan so 
+changed, the fiduciary then paid all beneficiaries the value 
+of their vested interests under the plan and retained all 
+excess monies for himself (e.g. the profits made by the 
+plan based on the use of its assets in the greenmail 
+scheme). Murdock, 861 F.2d at 1408-1409. 
+
+
+"® In the July 9, 1991 Order (#364), this Court also cited 
+Cull v Sumyiorno Bank, 881 F.24 626, 631-32 (th Cir. 
+1989) for the proposition that the Russell decision should 
+ast be auusuaty coustund, This Chast saw oupmntis Ont 
+*"ERISA grants no private right of action by a beneficiary 
+qua beneficiary; rather it accords beneficiaries the right to 
+sue on behalf of the entire plan if a fiduciary breaches the 
+plan's terms.’* Id. at 632, n. 13 (citing Sokol). See also 
+
+
+53a 
+
+
+Finally, this court also recognizes that a claim for 
+breach of fiduciary duty is neither the only nor the most 
+appropriate remedy for the wrongs asserted by the Co-Payor 
+Class. After careful consideration of the facts and the injury 
+alleged by the Co-Payor Class in this case, it is clear that the 
+crux of the current dispute rests on the reasonableness of 
+Humana Insurance’s interpretation of the co->yment 
+provision in the insurance contract. Such a claim is more 
+appropriately brought pursuant to 29 U.S.C. § 1132(a)(1)(B) 
+which allows a beneficiary to seek benefits due under the 
+terms of the plan. See e.g., Eaton v. Blue Cross and Blue 
+Shield of Alabama, 681 F. Supp. 759, 760-62 (S.D. Ala. 
+1988). Accordingly, this Court finds that the cause of action 
+provided by ERISA to compensate the Co-Payor Class for 
+the questionable conduct of Humana Insurance is a claim for 
+benefits pursuant to § 1132(a)(1)(B) and not a claim for 
+breach of fiduciary duty under §1109 or § 1132(a)(3).’ 
+
+
+Murdock, 861 F.2d at 1417. 
+
+
+* This Court also recognizes that in its Motion for 
+Summary Judgment (#804), Humana Insurance concedes 
+that such a claim is proper, and has stipulated that to the 
+extent the Co-Payor Class would be required to exhaust 
+their administrative remedies prior to bringing a claim for 
+benefits, such a requirement would be waived. See Motion 
+for Summary Judgment (#804) at 22. In addition, this 
+Court finds that to avoid any unjust enrichment on the part 
+of Humana Insurance, Plaintiffs would be entitled 
+individually to obtain prejudgment interest for any relief 
+provided under @ 1132(a)(1)(B). Rivera v. Benefit Trust 
+Life Ins. Co., 921 F.2d 692 (7th Cir. 1991); Short v. 
+
+
+S4a 
+
+
+In sum, based on the holdings in Horan, Williams and 
+Sokol, the limited precedential value of Murdock, and the 
+availability of a more appropriate remedy pursuant to 
+§ 1132(a)(1)(B), this Court finds that the Co-Payor Class 
+should not be allowed to pursue claims against Humana 
+Insurance for breach of fiduciary duty. Accordingly, this 
+Court hereby modifies its earlier Order (#364) of July 8, 
+1991, and will grant Humana Insurance’s Motion for 
+Summary Judgment as to the first claim for relief set forth 
+in Plaintiffs’ Second Amended Complaint (#370). Plaintiffs 
+Co-Payor Class will be permitted, however, to file a Third 
+§ 1132/>)(1)B). 
+
+
+2. Damages 
+
+
+This Court also finds that even if it were to allow 
+Plaintiffs’ Co-Payor Class to seek a claim for breach of 
+fiduciary duty, Humana Insurance would still be entitled to 
+partial summary judgment on the issue of damages. 
+
+Plaintiffs argue that “equity and poetic justice” require 
+that Humana Insurance pay to the beneficiaries the entire 
+discount it obtained from Sunrise.” Errata (#822) at 126. In 
+
+
+Central States, S.E. & S.W. Areas Pension Fund, 729 
+F.2d 567, 576 (8th Cir. 1984); see also Blanton v. 
+Anzalone, 760 F.2d 989, 992-93 (9th Cir. 1985). 
+
+
+© The following discussion regarding the proper manner 
+in which to calculate damages is applicable to a theory of 
+liability predicated upon both @ 1132(a)(1)(B) and breach 
+of fiduciary duty. Thus, although this Court has 
+
+
+SSa 
+
+
+calculations are incorrect, and that the appropriate measure 
+of damages in this case would be simply a refund of the 
+overcharged co-payment. See Reply (#841) at 22-27. 
+
+
+Section 1109%(a) provides that: 
+
+Any person who is a fiduciary with respect to 
+plan who breaches any of the responsibilities, 
+obligations, or duties imposed upon fiduciaries by 
+this subchapter shall be personally liable to make 
+
+
+not affect the measure of damages to be awarded to 
+Plaintiffs. Using the example provided by Plaintiffs, 
+assume the following: 
+
+
+(1) Gross hospital charge = $ 5,000. 
+
+(2) Amount paid by insured = $ 1,000 (.20 X $ 5,000). 
+(3) Amount paid by Humana Insurance after taking an 
+89% discount = $ 550 (.89 X 
+
+$ 5,000). 
+
+(4) Total amount paid to Sunrise = $ 1,550 ($ 1,000 + $ 
+550). 
+
+
+Insurance's breach of fiduciary duty would be to require it 
+to “disgorge the entire ‘secret’ discount” obtained by 
+Humana Insurance from Sunrise. Based on their statement 
+that “disgorgement of the unilateral discounts actually 
+requires Humana Insurance to pay 80% of the gross 
+charges,” this amount would presumably be $ 3,450 ($ 
+4,000 (.80 X $ 5,000) - $ 550). See Errata (#822) at 
+123-26. 
+
+
+56a 
+
+
+good to such plan any losses to the plan resulting 
+from such breach, and to restore to such plan any 
+profits of such fiduciary which have been made 
+through use of assets of the plan by the fiduciary, 
+and shall be subject to such other equitable or 
+remedial relief as the court may deem appropriate, 
+including the removal of such fiduciary. 
+Similarly, under § 1132(a)(3), a “beneficiary” may seek 
+"other appropriate equitable relief" to redress breaches of 
+fiduciary duty or to enforce the provisions or terms of the 
+plan. 
+
+
+"Where there has been a breach of fiduciary duty, 
+ERISA grants to the Courts broad authority to fashion 
+remedies for redressing the interests of participants and 
+beneficiaries.” Donovan v. Mazzola, 716 F.2d 1226, 1235 
+(9th Cir. 1983), cert. denied, 464 U.S. 1040, 79 L. Ed. 2d 
+169, 104 S. Ct. 704 (1984). Notwithstanding this, any loss 
+or profit which is disgorged as a result of a breach of 
+fiduciary duty must have a causal connection with the 
+breach. Leigh v. Engle, 727 F.2d 113, 137 (7th Cir. 1984). 
+Uncertainties in the determination of damages, however, 
+should be resolved against the wrongdoer. Kim v. Fujikawa, 
+871 F.2d 1427, 1431 (9th Cir. 1989); Leigh, 727 F.2d at 
+138-39. 
+
+
+Plaintiffs argue that they are entitled to the entire 
+discount yielded by Sunrise as this amount constitutes the 
+ill-gotten profits Humana Insurance obtained as a result of its 
+that their calculation ignores the facts of the case and has no 
+"causal connection” to the breach. 
+
+
+S7a 
+
+
+To illustrate this, assume, as Plaintiffs do, that on a 
+gross hospital charge of $ 5,000, the insured beneficiary paia 
+$ 1,000 in co-payments and Humana Insurance paid $ 550 
+on its obligation. The net amount received oy Sunrise equals 
+$ 1,550, and the wet discount given by the hospital amounts 
+to $ 3,450." Assuming Plaintiffs are correct in their 
+interpretation of the co-payment provision that the insureds 
+were responsible for 20% of the net charges and not the 
+gross charges,” the amount which should have been paid by 
+the insureds is $ 310 (.20 X $ 1,550). Therefore, since the 
+insured paid $ 1,000 rather than the $310 which was 
+required under the contract, the insured overpaid, and 
+Humana Insurance profited, $ 690. 
+
+
+As illustrated above, it is clear that the amount asserted 
+by Plaintiffs, or $ 3,450, is not a true measure of Humana 
+Insurance's “ill-gotten profit." To adopt this figure would 
+ignore the reality that the gross hospital charge ($ 5,000) 
+was never in fact paid and would contradict Plaintiffs’ 
+interpretation of the co-pay provision that the 20/80 split 
+should apply only on the net hospital charge ($1,550). 
+Accordingly, since Plaintiffs’ measure of damages fails to 
+
+
+"Note that the net discount given on the hospital bill is 
+69% ($ 3,450/$ 5,000) and the net discount given on the 
+portion of the bill for which Humana Insurance was 
+responsible is 86.25% ($ 3,450/$ 4,000) Accordingly, 
+Plaintiffs’ assertion that Humana Insurance received an 
+89% discount is inaccurate. See supra, n. 10; Errata 
+(#822) at 124-125. 
+
+
+2 See Second Amended Complaint (#370) at 8. 
+
+
+58a 
+
+
+establish a "causal connection” between the actual profits 
+obtained by Humana Insurance and its breach of fiduciary 
+duty, their calculation of damages must be rejected. 
+
+
+The proper measure of damages would be to restore the 
+trust beneficiaries to the position they would have occupied 
+but for the breach of trust. Donovan v. Bierwirth, 754 F.2d 
+1049, 1056 (2nd Cir. 1985). Applying this remedy to the 
+facts of the present situation, Humana Insurance would be 
+required to disgorge the amount of the discount which it 
+should have paid under the proper interpretation of the 
+co-pay provision. Using the hypothetical insured described 
+by Plaintiffs, this would amount to $ 690. In so doing, the 
+primary purpose of § 1109(a) to “undo” the harm caused by 
+the breach of fiduciary duty would be realized. The interests 
+of the beneficiaries would be furthered by removing the 
+fiduciary’s ill-gotten profits, and consistent with the holding 
+in Leigh, only those profits which are "causally connected" 
+with Humana Insurance’s breach of fiduciary duty would be 
+disgorged. See Leigh, 727 F.2d at 138-139; Bierwirth, 754 
+F.2d at 1056.” 
+
+
+‘3 Ip their Fourth Supplemental Opposition (#896) 
+Plaintiffs argue that the recent United States Supreme 
+Court case Mertens v. Hewitt Assocs., 124 L. Ed. 2d 161, 
+113 S. Ct. 2063, 61 U.S.L.W. 4510 (1993), stands for the 
+proposition that this Court has the ability to create a trust 
+composed of all discounts yielded by Sunrise to Humana 
+Insurance as a remedy for Humana Insurance’s alleged 
+breach of fiduciary duty. This Court disagrees. The 
+primary holding of Mertens is that "appropriat: equitable 
+relief" under @ 1132(a)(3) does not permit compensatory 
+
+
+ad 
+
+
+carr ot 
+
+
+OO SO EE oh ae RRR eet pig mE) 
+
+
+at NR eee et + ne 
+
+
+59a 
+
+
+Accordingly, even if the Co-Payor Class could assert a 
+claim for breach of fiduciary duty under the present facts, 
+partial summary judgment would still be appropriate in this 
+case with respect to Plaintiffs’ excessively broad view of 
+"ill-gotten profits." 
+
+Leave to Amend Plaintiffs’ Complaint. 
+
+
+In their Opposition, Plaintiffs argue that in the “unlikely 
+event that this Court completely reverses itself and rules that 
+ERISA offers no remedy to Plaintiffs," this Court should 
+allow Plaintiffs to reinstate their state law claims. Errata 
+(#822) at 95, n.2. This Court disagrees. 
+
+
+First, under this Order, Plaintiffs are not without an 
+ERISA remedy. The Co-Payor Class properly may file an 
+Amended Coinplaint to state a claim under § 1132(a)(1)(B). 
+See supra at 17. Moreover, Plaintiffs’ state law claims 
+(which would apply to Plaintiffs’ recent proposed claim 
+
+
+losses for breaches of fiduciary duty, but rather only 
+traditional forms of equitable relief such as injunction, 
+mandamus, and restitution of ill-gotten profits. 61 
+U.S.L.W. at 4513-14. Such a holding does not aid 
+Plaintiffs because, as discussed above, Plaintiffs’ argument 
+that the entire discount yielded by Sunrise to Humana 
+Insurance are Humana Insurance’s “ill-gotten profits” is 
+erroneous. 
+
+
+“ In light of this Court’s findings regarding the 
+Co-Payor Class’ inability to pursue a claim for breach of 
+fiduciary duty, this Court need not address Defendants’ 
+second argument that Humana Insurance was not a 
+fiduciary when it negotiated the discount with Sunrise. 
+
+
+60a 
+
+
+under Nevada’s RICO statute, N.R.S. § 207.470) are 
+preempted by ERISA. See Order (#79) at 14-15; Olson v. 
+General Dynamics Corp., 960 F.2d 1418, 1420-23 (9th Cir. 
+1991), cert. denied, 119 L. Ed. 2d 588, 112 S. Ct 2968 
+(1992); Kanne v. Connecticut General Life Ins. Co., 867 
+F.2d 489, 493-494 (9th Cir. 1988), cert. denied, 492 U.S. 
+906, 106 L. Ed. 2d 566, 109 S. Ct. 3216 (1980). 
+
+
+Finally, as this Court has indicated previously, given the 
+procedural history of this case which has seen three 
+extensive rounds of dispositive motions, to allow the parties 
+to address new theories of liability would strain the letter and 
+spirit of Fed. R. Civ. P. 15(a). 
+
+
+Accordingly, Plaintiffs’ request to reinstate their prior 
+state law claims was properly denied in this Court’s October 
+13, 1992 Order (#840), and will not be reconsidered here. 
+
+
+Il. ANTITRUST 
+A. Facts 
+
+
+Plaintiffs’ Second Claim for Relief seeks approximately 
+$ 181 million in damages against Defendants Humana and 
+Humana Insurance for monopolization or attempted 
+monopolization under section 2 of the Sherman Act, 15 
+U.S.C. § 2. The "Antitrust Class” consists of individual 
+employees and employers who allegedly paid excessive 
+policy premiums and co-payments to Humana and Humana 
+Insurance between 1985 and 1988. See Second Amended 
+Complaint (#370) at 11, P 41; 17, P 51. 
+
+
+6la 
+
+
+In their opposition, Plaintiffs argue that Humana and 
+Humana Insurance monopolized or attempted to monopolize 
+two independent submarkets including: (1) Clark County 
+for-profit acute care hospitals; and (2) those hospitals used 
+by Humana Insurance’s insureds. Errata (#822) at 290-292. 
+
+
+As proof of this actual or attempted monopolization, the 
+Humana made “supracompetitive” or “monopoly” profits. '* 
+Plaintiffs maintain that with regard to the for-profit acute 
+care hospital submarket, Sunrise had "60% of the licensed 
+beds" and derived "58.6% of the total gross patient revenues 
+excluding medicare and medicaid patients" during the 
+relevant time period. Jd. at 305. Also, with respect to the 
+submarket of hospitals used by Humana Insurance’s 
+
+
+In support of the assertion that Humana made 
+supracompetitive” profits, Plaintiffs allege that: (1) 
+Nevada hospitals have the highest profit margins in the 
+country and that Sunrise was the most profitable hospital 
+in Nevada; (2) Sunrise was the most profitable hospital in 
+the Humana organization; (3) Notwithstanding the fact that 
+Sunrise’s market share decreased during the relevant time 
+period, its net operating revenue during this period 
+increased; and (4) During 1988 when Nevada’s cost 
+containment statute was in place, Sunrise’s operating 
+margin was excessive compared to other hospitals 
+nationally. Errata (#822) at 278-81. 
+
+
+62a 
+
+
+insureds, Plaintiffs allege that Sunrise enjoyed an 80% share 
+within this market. Jd.”* 
+
+Plaintiffs.claim that in order to maintain or enhance its 
+monopolistic position, Defendants acted anti-competitively in 
+several ways, including: (1) Humana refused to unbundle 
+level III neonatal care to other health care plans; (2) Humana 
+improperly diverted critical care patients to other hospitals; 
+(3) Humana threatened to revoke physician office space if 
+they did not admit patients to Sunrise; (4) the discount 
+arrangement between Humana and Humana Insurance 
+allowed Sunrise to understate hospital profits and avoid 
+regulatory cost containment while misleading its insureds; (5) 
+Humana threatened physicians and lawmakers who 
+challenged its practices; and (6) Humana Insurance 
+improperly tied use of its insurance policy with treatment at 
+Sunrise. Errata (#822) at 283-290. 
+
+Finally, with regard to the antitrust injury suffered by 
+the Antitrust Class, Plaintiffs allege that, as a result of 
+Defendants’ monopolistic activity, its members were forced 
+to pay excessive co-payments and insurance premiums. 
+Errata-(#822) at 276-77, 308-311. 
+
+B. Discussion 
+
+1. Elements of a Section 2 Claim 
+
+
+‘6 The only evidence that Plaintiffs submit in support of 
+this allegation of market share is a December 7, 1984 
+memo which states that "non-Humana usage was 19%" for 
+Humana insurance insureds. Errata (#822) at 305; Exhibit 
+132. 
+
+
+63a 
+
+
+In order to prevail on a claim of monopolization under 
+Section 2 of the Sherman Act, a plaintiff must demonstrate: 
+(1) possession of monopoly power in the relevant market; (2) 
+willful acquisition or maintenance of that power; and (3) 
+causal antitrust injury. Oahu Gas Service, Inc. v. Pacific 
+Resources, Inc., 838 F.2d 360, 363 (9th Cir. 1988), cert. 
+pes 488 U.S. 870, 102 L. Ed. 2d 149, 109 S. Ct. 180 
+
+
+To establish a Section 2 claim for an attempt to 
+monopolize, a plaintiff must demonstrate four elements: (1) 
+specific intent to control prices or destroy competition; (2) 
+predatory or anti-competitive conduct directed toward 
+accomplishing that purpose; (3) a dangerous probability of 
+success; and (4) causal antitrust injury. McGlinchy v. Shell 
+Chemical Co., 845 F.2d 802, 811 (9th Cir. 1988). 
+
+
+questions of fact, whereas questions of whether specific 
+conduct is anti-competitive or whether a party has standing 
+to assert a violation of the Sherman Act are questions of law. 
+Austin v. Blue Cross and Blue Shield of Alabama, 903 F.2d 
+1385, 1387 (11th Cir. 1990); Oahu, 838 F.2d at 363, 368. 
+
+
+2. The Need for Market Analysis 
+
+
+As an initial matter, Plaintiffs argue that they need not 
+formally define a “relevant market," as Humana and 
+Humana Insurance made "supracompetitive profits" during 
+the relevant time period, and that this alone adequately 
+demonstrates market power. Errata (#822) at 278-283. Such 
+an argument is without merit. 
+
+
+64a 
+
+
+First, by definition, any allegatiomyn that Defendants made 
+“excessive” profits necessarily re@quires that Plaintiffs 
+compare the profit performance of Humana with that of its 
+competitors. See Kinter, Federal Antigitrust Law, § 12.10, at 
+361 (1980). To argue, as Plaintiffs; do, that Defendants’ 
+profits were “excessive” without knowywing what the relevant 
+market was or who its competitors Welere renders any antitrust 
+analysis vacuous. 
+
+
+Second, although prior Ninth Cirircyit law has held that 
+a detailed market analysis is not unififormly fatal to a claim 
+under the Sherman Act, in order to avoid such an analysis a 
+plaintiff must be able to demonstrate ththat the anti-competitive 
+acts alleged actually resulted in detrimental effects on 
+competition. Bhan v. NME Hosp., : Inc., 929 F.2d 1404, 
+1413 (9th Cir.), cert. denied, 116 L. | Ed. 2d 639, 112 S. Ct. 
+617 (1991); , 
+Lid.24, 924 F.2d 1484, 1489 n.3 (9thth Cir. 1991); Thurman 
+Industries, Inc. v. Pay 'N Pak Stores.s, tnc., 875 F.2d 1369, 
+1373 (9th Cir. 1989); Oltz v. StS. Peter’s Community 
+Hospital, 861 F.2d 1440, 1448 (9th CCir. 1988) (no need for 
+detailed market analysis where evidenace clearly demonstrated 
+competitive harm to patient markeet in Helena through 
+increase of price and decrease. in competition for 
+anesthesiological services). In the pres:sent case, Plaintiffs rely 
+on conclusory allegations that Deferndants made excessive 
+profits and do not explain how thes¢e profits have resulted 
+from anti-competitive conduct. See Efrrata (#822) at 278-83. 
+Such allegations clearly do not deemonstrate a definable 
+
+
+65a 
+
+
+market or demonstrate market power which would obviate 
+the need of a proper market analysis."” 
+
+
+Finally, even though courts have allowed proof of 
+excessive profits to be used as evidence of market power, 
+such proof may be misleading and subject to various 
+interpretations. See Kinter, § 12.10: Areeda & Turner, 
+Antitrust Law, § 507-516 (1978). As such, citing excessive 
+Profits without a more detailed analysis of the meaning of 
+such profits is unsatisfactory proof of market power. Telerate 
+Systems, Inc. v. Caro, 689 F. Supp. 221, 238 (S.D.N_Y. 
+1988). 
+
+
+° This Court also recognizes that the Ninth Circuit’s 
+decisions on this point have been called into doubt by the 
+United States Supreme Court’s recent decision, Spectrum 
+Sports, Inc. v. McQuillan, 122 L. Ed. 2d 247, 113 S. Ct. 
+884 (1993). Spectrum Sports held that an inquiry into 
+market definition and market power is a prerequisite for a 
+claim of attempted monopolization under @ 2 of the 
+Sherman Act. Jd. at 891-92. Even without regard to 
+Spectrum Sports, however, it is clear that Plaintiffs have 
+not satisfied Ninth Circuit precedent which limits the 
+necessity of a market analysis. 
+
+
+66a 
+
+
+Under Section 2, “defining the relevant market is 
+indispensable to a monopolization claim." Thurman 
+Industries, Inc., 875 F.2d at 1373. A market is typically 
+defined as the pool of goods or services that qualify as 
+economic substitutes because they enjoy reasonable 
+interchangeability of use and cross-elasticity of demand. 
+Morgan, 924 F.2d at 1489; Thurman, 875 F.2d at 1373. The 
+determination of a market usually requires an inquiry into 
+the nature of the product and the geographic areas of 
+effective competition. Oahu, 838 F.2d at 364. "For antitrust 
+identification of the field of competition; the group or groups 
+of sellers or producers who have actual or potential ability 
+to deprive each other of significant levels of business,” while 
+“a geographic market is an area of effective competition 
+where buyers can turn for alternate sources of supply.” 
+Morgan, 924 F.2d at 1489-90; see also Bhan, 669 F. Supp. 
+998, 1018-19 (E.D.Cal. 1987), affirmed, 929 F.2d 1404 (9th 
+Cir.), cert. denied, 116 L. Ed. 2d 639, 112 S. Ct. 617 
+(1991) (another consideration in defining product market 
+may be production dimension which is the ability of 
+competing firms to easily supply a good or service if one 
+firm limits its output). Finally, the plaintiff has the burden 
+of proving the scope of the relevant market. Jd. at 1019. 
+
+
+4. Plaintiffs’ Relevant Markets 
+
+
+Defendants monopolized or attempted to monopolize. These 
+include: (1) those hospitals used by Humana Insurance 
+insureds; and (2) all major for-profit acute care hospitals in 
+Clark County, Nevada. Errata (#822) at 290-292. Plaintiffs, 
+
+
+67a 
+
+
+however, fail to present sufficient evidence to support these 
+
+
+a. Hospitals Used by Humana Insurance 
+Insureds 
+
+
+With regard to those hospitals used by Humana 
+Insurance insureds, Plaintiffs offer no facts to support such 
+a market definition other than to refer to a recent United 
+States Supreme Court decision Eastman Kodak Co. v. Image 
+
+
+* Even if this Court were to accept the argument that 
+the hospitals used by Humana Insurance insureds could 
+constitute a relevant submarket, Plaintiffs fail to address: 
+(1) the fact that Humana insureds were able to (and did) 
+easily switch health insurance policies; (2) the fact that 
+under the Humana policy, Plaintiffs were not precluded 
+from choosing hospitals other than Sunrise; and (3) what 
+Reply (#841) at 72-75. Failure to address these facts 
+
+clearly precludes finding the existence of Plaintiffs’ 
+
+
+b. Major For-Profit Acute Care Hospitals 
+
+
+The second market which Plaintiffs maintain Defendants 
+monopolized or attempted to monopolize is that of major 
+for-profit acute care hospitals in Clark County. This market 
+allegedly consists of three hospitals, including Sunrise, valley 
+Hospital ("Valley"), and Desert Springs Hospital ("Desert 
+Springs"), and excludes Clark County’s five remaining acute 
+care hospitals, Boulder City Hospital ("Boulder City"), 
+Community Hospital of North Las Vegas ("Community"), 
+St. Rose De Lima Hospital ("St. Rose"), University Medical 
+Center ("UMC"), and Women’s Hospital ("Women’s"). 
+Errata (#822) at 291. In support of this market definition, 
+Plaintiffs assert the following facts: 
+
+
+(1) Only Sunrise, Valley, Desert Springs, and University 
+Medical Center ("UMC") have a comparable range of 
+hospital services; 
+
+
+Further, to the extent Plaintiffs rely on the Kodak 
+decision to support a claim for an illegal tying 
+arrangement between Humana and Humana Insurance, 
+such a claim is without merit as the undisputed facts 
+indicate that Humana Insurance never possessed sufficient 
+market share to exercise market power within the group 
+health insurance market. See Reply (#841), Exhibit N, 
+Supplemental Affidavit of Barry C. Harris at 16-22 
+(Humana Insurance’s share of Clark County residents 
+covered by commercial health insurance was the following 
+- 1984/4%, 1985/18%, 1986/24%, 1987/17%, 
+1988/15 %); Barry v. Blue Cross of California, 805 F.2d 
+866, 870-74 (9th Cir. 1986); Ezpeleta v. Sisters of Mercy 
+Hospital Corp., 800 F.2d 119, 121-122 (7th Cir. 1986). 
+
+
+(2) Humana Insurance contracted with Boulder C 
+Community jl ts aes aor bs Gatien esnctints te 0 
+insurance program; 
+
+
+More specifically, on May 20, 1987 
+ified: y , Donald Stewart 
+
+
+care have found a niche in the market. For the most 
+the larger hospitals do not compete against them. og 
+
+
+That will change with this bill. By forcing a rollback of 
+our billed charges and a deep reduction in revenue per 
+admission, the state will prevent us from being the kind of 
+hospital we want to be, and force us and other large 
+hospitals into markets we currently avoid. 
+
+
+70a 
+
+
+(4) UMC did not compete in the same market since it 
+charged lower prices for its services and, being a non-profit 
+county hospital, was perceived to be the "indigent" hospital 
+in Clark County;” 
+
+Errata (#822) at 290-305. 
+
+
+In analyzing Plaintiffs’ second alleged market, the 
+primary issue to be decided is whether Plaintiffs have 
+presented sufficient evidence to support their allegation that 
+the relevant service market for antitrust purposes consists of 
+
+
+*” Plaintiffs also allege that physicians who practiced at 
+Valley often did not admit its patients to UMC. See Errata 
+(#822) at 299. Even if this fact is true, this Court fails to 
+see how it helps to establish that UMC and Sunrise were 
+
+
+not competitors. 
+
+
+consumers in the market in which Sunrise competes 
+
+
+regularly seek care at hospitals throughout Clark 
+See Motion for Summary Judgement (#804) at 64-72. 
+
+
+Supplemental Affidavit of Harold M. Ting, at Exhibit 4. 
+
+
+= See, €.8., Morgan, 924 F.2d at 1488-89 (radi 
+services Constitute relevant market); Oltz, 861 F.2d at 
+1446-48 (patient anesthesiological services constitute 
+
+
+72a 
+
+
+monopolization of specific hospital services such as open 
+heart surgery or renal dialysis, etc. See Errata (#822) at 297. 
+The antitrust injury alleged by Plaintiffs in this case is the 
+actual or attempted monopolization of the general acute care 
+hospital market in Clark County. See Errata (#822) at 
+313-315. Given that Boulder City, Community, St. Rose, 
+and Women’s all offer a variety of hospital services within 
+this market, these hospitals have the ability to deprive 
+Sunrise of significant levels of business and therefore, must 
+be considered to be competitors of Sunrise. See Reply (#841) 
+at 99-105; Errata (#822) at 296-97; Morgan, 924 F.2d at 
+1489 (competitors are “the group or groups of sellers or 
+producers who have actual or potential ability to deprive 
+each other of significant levels of business"); Thurman, 875 
+F.2d at 1374-1377 (specialty stores selling same products as 
+more comprehensive home centers within same competitive 
+market); see also United States v. Rockford Memorial Corp. , 
+898 F.2d 1278, 1284 (7th Cir. 1990), cert. denied, 498 U.S. 
+920, 111 S. Ct. 295, 112 L. Ed. 2d 249 (1990); Weiss v. 
+York Hosp., 745 F.2d 786, 826 (3rd. Cir. 1984), cert. 
+denied, 470 U.S. 1060, 84 L. Ed. 2d 836, 105 S. Ct. 1777 
+(1985); United States v. Carilion Health Service, 707 F. 
+Supp. 840, 847 (W.D. Va. 1989), aff'd, 892 F.2d 1042 (4th 
+Cir. 1990). 
+
+
+Plaintiffs further allege that Boulder City, Community, 
+and St. Rose are not competitors of Sunrise because these 
+three hospitals are also preferred providers under the 
+Humana insurance policy. Although it is true that to Humana 
+Insurance insureds, having preferred provider status at 
+Boulder City, Community, and St. Rose made these hospitals 
+more competitive with Sunrise and with each other, the 
+
+
+73a 
+
+
+simple fact remains that the acute care hospital service 
+market in Clark County does not serve only Humana 
+Insurance insureds. See supra at n. 18 (Humana Insurance’s 
+percentage of Clark County residents with medical insurance 
+was 15% to 24% during relevant time period). Accordingly, 
+of any relationship which they might have had with Humana 
+Insurance, any argument raised by Plaintiffs that these 
+hospitals did not compete in the same market as Sunrise must 
+be rejected.” 
+
+
+* Plaintiffs also rely on the affidavit of Victor Brewer 
+and the testimony of Donald Stewart to support their 
+argument that the smaller hospitals did not compete in the 
+same market as Sunrise. With regard to Victor Brewer’s 
+affidavit, except for his statement regarding physician 
+overlap between Community and Sunrise, the statements 
+contained therein are conclusory allegations insufficient to 
+raise a question of material fact. See Errata (#822), 
+Exhibit 112. As to Donald Stewart's testimony, apart from 
+being in the context of trying to sway the Nevada 
+legislature from further regulating the hospital industry, 
+ek ioe en ae 
+though er hospitals in Clark County partici in 
+the same marketplace as the smaller hospitals’ they chose 
+not to focus their marketing resources on pursuing this 
+share of the market. See supra at n.19. Furthermore, to 
+the extent that Stewart’s statements could be inferred to 
+support Plaintiffs’ conclusion that Sunrise did not seek to 
+compete vigorously against the smaller hospitals in Clark 
+County, this statement alone does not raise a material 
+question of fact with regard to whether these smaller 
+hospitals acted as a competitive constraint on the same 
+
+
+74a 
+
+
+Finally, Plaintiffs argue that UMC should not be 
+considered a competitor of Sunrise because UMC charged 
+lower prices than other hospitals, and because it is a 
+non-profit county hospital, UMC was perceived to be the 
+"indigent" hospital. This Court finds such arguments 
+unpersuasive. 
+
+First, the facts in this case reveal that during the 
+relevant time period UMC offered a wide range of acute care 
+hospital services and had contracts for these services with 
+nearly all managed care plans in Nevada. See Motion for 
+Summary Judgment (#804) at 74-76; Exhibit #120; Exhibit 
+#122; Exhibit #123; Exhibit #125 at 51-60. In addition, 
+UMC competed with Sunrise for beds under Certificate of 
+Need applications, attempted to recruit doctors from other 
+Las Vegas hospitals, upgraded its facilities and equipment, 
+and advertised to improve its public image. Jd. at 77-78; 
+Exhibit #122; Exhibit #125 at 60-62; Exhibit #129; Exhibit 
+#131; Exhibit #133; see also Supplemental Affidavit of 
+Harold M. Ting (#842), Exhibit 8 (UMC’s 1989-1990 
+marketing plan which identifies Sunrise as a competitor). 
+Such factors clearly demonstrate that UMC was a significant 
+competitor for patients in Clark County’s acute care hospital 
+market. 
+
+
+With regard to Plaintiffs’ pricing argument, as the Ninth 
+Circuit has recognized before, “the scope of the relevant 
+market is not governed by the presence of a price differential 
+between competing products.” Twin City Sportserv., Inc. v. 
+
+
+general acute care hospital services offered by the larger 
+hospitals. 
+
+
+75a 
+
+
+Charles O. Finley & Co., 512 F.2d 1264, 1274 (9th Cir. 
+1975). This is particularly so where, as here, the pricing for 
+hospital services commonly is subject to discounting through 
+third-party payors, and where other factors such as location, 
+physician affiliation, and the perceived quality of the 
+institution are more likely to affect competition than price. 
+See Motion for Summary Judgment (#804), Exhibit #8, 
+Affidavit of Harold M. Ting at 9; Exhibit #120, at 17. 
+Although it is no doubt true that being perceived as an 
+“indigent hospital” negatively affected UMC’s ability to 
+attract commercially-insured patients, the facts also Clearly 
+demonstrate that this did not deter UMC from actively 
+pursuing and providing services to them. See supra at 34-35: 
+Reply (#841), Supplemental Affidavit of Barry C. Harris, 
+Exhibit N, at 14-16; Supplemental Affidavit of Harold M. 
+Ting, Exhibit Z, at 17-21; see also Rockford Memorial 
+Corp., 717 F. Supp. at 1284-85 (N.D. Ill. 1990): Nonprofit 
+Hospital Mergers: Proceed With Caution, 20 Cumb. L. Rev. 
+719, 720-28 (1989-90) (describing generally the market 
+forces which cause nonprofit hospitals to compete with 
+for-profit hospitals). To argue that UMC, the second largest 
+acute care hospital in Clark County, was entirely removed 
+from the competitive market for hospital services because it 
+was perceived by some as a “county hospital” which also 
+served indigent patients simply ignores the competitive 
+reality of the Clark County hospital market. 
+
+This Court concludes that, based on the record in this 
+case, the Antitrust Class has failed to properly establish 
+either of its proposed submarkets. To the extent a relevant 
+competitive market is defined by the parties, this market 
+would be the general acute care hospital service market in 
+
+
+76a 
+
+
+Clark County consisting of Boulder City, Community, 
+Desert Springs, St. Rose, Sunrise, UMC, Valley, and 
+Women’s hospitals. 
+
+
+5. Monopoly Power Within the Relevant Market 
+Once a relevant market is established, the inquiry shifts 
+to whether the alleged monopolist exercised or had the 
+potential to exercise market power. Although no single factor 
+has been held determinative, the evaluation of market power 
+usually depends on an evaluation of market share and 
+barriers to entry. See Oahu, 838 F.2d at 366. A helpful 
+framework for evaluating market share which has been used 
+repeatedly by courts was articulated by Judge Learned Hand 
+in United States v. Alum. Co. of America, 148 F.2d 416, 424 
+(2d Cir. 1945), where he found that a ninety percent market 
+share is enough to constitute a monopoly, a sixty percent 
+market share is doubtful, and “certainly thirty-three percent 
+is not." Id.; Syufy Enterprises v. American Multicinema, 
+Inc., 793 F.2d 990, 995 (9th Cir. 1986), cert. denied, 479 
+U.S. 1031, 93 L. Ed. 2d 830, 107 S. Ct. 876 (1987); Rebel 
+Oil Co., v. Atlantic Richfield Co., 808 F. Supp. 1464, 1468 
+(D. Nev. 1992); see also Barry, 805 F.2d at 874; Areeda & 
+Turner, Antitrust Law, § 518.3 at 522-523 (1991 Supp.). In 
+addition, declining market share may reflect the absence of 
+market power. Output as opposed to capacity is a more 
+accurate measure of market share, and excess capacity, if it 
+can be reasonably be determined, may limit the exercise of 
+market power. Oahu, 838 F.2d at 366; Carilion, 707 
+F. Supp. at 848-49; Areeda & Turner, Antitrust Law, 
+§§ 520(a), 521(e) (1991 Supp.). 
+
+
+Tila 
+
+
+In determining the market share of hospitals, facts that 
+need to be examined include the percentage shares of patient 
+days and admissions of the various competitors. Facts which 
+are relevant to hospital capacity include the number of 
+licensed beds within the hospitals as well as their respective 
+occupancy percentages. An examination of these facts in the 
+present case reveal the following: 
+
+
+(1) Patient Days - Sunrise’s market share of Clark County 
+hospital patients in terms of patient days was 35% in 1985, 
+33% in 1986, 32% in 1987, and 32% 37 in 1988;* 
+
+
+(2) Admissions - Sunrise’s market share of Clark County 
+hospital patients in terms of admissions was 34% in 1985, 
+32% in 1986, 30% in 1987, and 30% in 1988; 
+
+(3) Number of Licensed Beds - Sunrise’s percentage of 
+licensed beds in Clark County was 36% in 1985, 35% in 
+1986, 35% in 1987, and 35% in 1988;” 
+
+
+(4) Occupancy Percentage - Sunrise’s capacity utilization of 
+all beds was 52% in 1985, 48% in 1986, 52% in 1987, and 
+53% in 1988 compared to a Clark County average utilization 
+
+
+* See Motion for Summary Judgement (#804), Exhibit 
+7, Affidavit of Barry C. Harris at Exhibit 2a; Reply 
+(#841), Supplemental Affidavit of Barry C. Harris at 
+Exhibit 1. 
+
+
+oe, 
+
+
+%* Reply (#841), Supplemental Affidavit of Barry C. 
+Harris at Exhibit 1. 
+
+
+78a 
+
+
+rate of 53% in 1985, 44% in 1986, 56% in 1987, and 58% 
+in 1988.” 
+
+
+As can be seen from the above: figures, throughout the 
+relevant time period, Sunrise had appproximately one third of 
+Although it is true that at the timee in question, Nevada's 
+Certificate of Need requirements accted as a potential entry 
+barrier to new participants, the eviddence also demonstrates 
+excess bed capacity at existing hospitals. This excess 
+might have realized from such reguilations.” 
+
+Accordingly, this Court further finds that Plaintiffs have 
+failed to establish that Defendants haad the ability to exercise 
+monopoly power within Clark Couinty’s acute care hospital 
+market during the relevant time petriod. See Thurman, 875 
+F.2d, at 1377-80; Barry, 805 F.2cd at 874; Bhan, 669 F. 
+
+
+27 See Motion for Summary Judgrment (#804), Exhibit 7, 
+Affidavit of Barry C. Harris at Exmnibit 4. Also included in 
+his exhibit are the individual utilization rates of the various 
+individual hospitals in Clark Countyy. These rates are 
+approximately 40% to 60% during the relevant time 
+period. 
+
+
+28 In fact, an argument could be mmade that the Nevada's 
+Certificate of Need requirements actually injured Sunrise’s 
+competitive position since of the 245 additional beds which 
+were licensed between 1979 and 1988, only 16 of these 
+were given to Sunrise. See Reply ((#242), Supplemental 
+Affidavit of Harold M. Ting, Exhilbit Z, at Exhibit 5. 
+
+
+79a 
+
+
+Supp. at 1022-23.% Using only Desert Springs, Sunrise, 
+Valley, and UMC as the competitive market, in total patient 
+days Humana had market shares of 40% in 1985, 38% in 
+1986, 36% in 1987, and 36% in 1988 and in admissions 
+Humana had market shares of 38% in 1985, 39% in 1986, 
+36% in 1987, and 35% in 1988. See Opposition (#820), 
+Exhibit 107 (data relating to inpatient days and admissions 
+for Desert Springs, Sunrise, Valley, and UMC). 
+6. Antitrust Injury 
+
+Finally, even if this Court could find that Plaintiffs have 
+adequately defined a relevant competitive market and have 
+shown Defendants monopolized or attempted to monopolize 
+that market, this Court would nevertheless have to conclude 
+that Plaintiffs have not adequately demonstrated antitrust 
+injury. Although Plaintiffs claim that they have suffered 
+antitrust injury as a result of paying excessive premiums 
+and/or co-payments, such monetary losses relate, if at all, to 
+Defendant Humana Insurance’s allegedly erroneous 
+interpretation of the health insurance contract, and not the 
+alleged anti-competitive acts of Sunrise (e.g. the diversion of 
+critical care patients and refusal to unbundle level III 
+neonatal services). This, coupled with the fact that Plaintiffs 
+were only indirect purchasers of hospital services whose 
+
+
+* Even if this Court were to assume that the smaller 
+hospitals in Clark County were not within the same 
+competitive market as Sunrise, such a fact does not alter 
+the conclusion that Sunrise did not have sufficient market 
+share within Clark County to exercise market power 
+
+
+premiums and co-payments were undoubtedly subject to a 
+number of other influences (e.g. competition in the health 
+insurance market, state regulation, etc.) external to the cost 
+of hospital services, clearly demonstrates that Plaintiffs’ 
+Antitrust Class has not suffered “antitrust injury.” C7. 
+Austin, 903 F.2d at 1390-93. 
+
+C. Conclusion 
+
+
+In light of Plaintiffs’ failure to adequately demonstrate 
+the alleged submarkets, the fact that Defendants could not 
+exercise market power, and the failure of Plaintiffs to 
+demonstrate antitrust injury, Defendants are entitled to 
+[V. RICO 
+
+A. Overview 
+
+The Third and final Claim for Relief alleged by 
+Plaintiffs in their Second Amended Complaint is a violation 
+of RICO pursuant to 18 U.S.C. § 1964(c) brought by 
+Plaintiffs Co-Payor Class and Premium Payor Class. In 
+support of this claim, both classes of Plaintiffs assert that 
+during 1985 to 1988: (1) Humana and Humana Insurance 
+acted as members of an “association in fact" enterprise or, 
+alternatively, that Humana, a person within the meaning of 
+18 U.S.C. § 1964(3), associated with Humana Insurance, an 
+enterprise within the meaning of 18 U.S.C. § 1961(4); (2) 
+that Humana and Humana insurance entered into a secret 
+agreement to discount amounts owed by Humana Insurance 
+for hospital charges incurred by Humana Insurance insureds; 
+(3) Humana and Humana Insurance concealed and/or 
+misrepresented this agreement to Plaintiffs in the numerous 
+
+
+8la 
+
+
+mailings, telephone calls, and _ television/radio 
+advertisements; and (4) that such acts (a) were intended to 
+they would not have otherwise purchased, and (b) defrauded 
+Second Amended Complaint (#370) at 18, 22-23; Errata 
+(#822) at 103-109, 221-223, 251-253. 
+
+
+In support of their Motion for Summary Judgment 
+(#804), Defendants Humana and Humana Insurance assert 
+
+
+the following arguments: 
+
+
+(1) Plaintiffs cannot prove that the alleged misrepresentations 
+and/or omissions of Defendants were intended to defraud 
+them since (a) it is uncisputed that the Humana Insurance 
+policy mirrored other health plans in place during the 
+relevant time period and, (b) the discount arrangement was 
+disclosed to Nevada regulators. Motion for Summary 
+Judgment (#804) at 98-116; 
+
+(2) New precedent requires this Court to reverse its prior 
+ruling that Humana is a “person” distinct from Humana 
+Insurance, the “enterprise,” under 18 U.S.C. § 1962(c). 
+Motion for Summary Judgment (#804) at 131-136; 
+
+
+(3) The Premium Payor Class cannot show that they suffered 
+RICO injuries, or even assuming they could, that these 
+injuries were proximately caused by Defendants’ actions. 
+Motion for Summary Judgment (#804) at 116-126; (4) Under 
+RICO, the only damages which the Co-Payor Class is 
+entitled to recover is the amount of excess co-payments 
+which the class paid as a result of Defendants’ allegedly 
+improper interpretation of the policy. Motion for Summary 
+
+
+82a 
+
+
+Judgment (#804) at 126-131; (5) The McCarran-Ferguson 
+Act Precludes Plaintiffs’ RICO cause of action. Motion for 
+
+
+Summary Judgment (#804) at 136-146. 
+B. Requirements of RICO, 18 U.S.C. § 1962(c) 
+
+
+Liability pursuant to 18 U.S.C. § 1962(c) requires a 
+Plaintiff to demonstrate (1) the conduct (2) of an enterprise 
+(3) through a pattern (4) of racketeering activity. Sun 
+Savings and Loan Assoc. v. Dierdorff, 825 F.2d 187, 191 
+(9th Cir. 1987). "Racketeering activity” is any act indictable 
+under various provisions of Title 18 of the United States 
+Code, see 18 U.S.C. § 1961, and includes the predicate acts 
+alleged in this case of mail fraud and wire fraud pursuant to 
+18 U.S.C. §§ 1341, 1343. Id. 
+
+In order to commit mail fraud under § 1341, Plaintiffs 
+must demonstrate that: "(1) the defendants formed a scheme 
+or artifice to defraud: (2) the defendants used the United 
+States mails or caused a use of the United States mails in 
+furtherance of the scheme; and (3) the defendants did so with 
+the specific intent to deceive or defraud." Schreiber 
+Distributing v. Serv-Well Furniture Co., 806 F.2d 1393, 
+1400 (9th Cir. 1986). Similarly, in order to commit wire 
+fraud pursuant to § 1343, Plaintiffs must show: “(1) the 
+formation of a scheme or artifice to defraud; (2) the use of 
+the United States wires or causing a use of the United States 
+wires in furtherance of the scheme; and (3) specific intent to 
+deceive or defraud.” Jd. 
+
+
+Under these provisions, fraud refers to "’(1) a false 
+representation (2) in reference to a material fact (3) made 
+with knowledge of its falsity (4) and with the intent to 
+
+
+83a 
+
+
+deceive.’” United States v. Bonallo, 858 F.2d 1427, 1433 
+(9th Cir. 1988). A failure to disclose or concealment may 
+also serve a basis for a fraudulent scheme under mail and 
+wire fraud statutes; however, such nondisclosure must arise 
+from a failure to comply with an independent statutory or 
+fiduciary duty. California Arch. Bldg. Prods. v. Franciscan 
+Ceramics, 818 F.2d 1466, 1472 (9th Cir. 1987), cert. 
+denied, 484 U.S. 1006, 98 L. Ed. 2d 650, 108 S. Ct. 698 
+(1988); United States v. Dowling, 739 F.2d 1445, 1449 (9th 
+Cir. 1984), rev'd on other grounds, 473 U.S. 207, 87 L. Ed. 
+2d 152, 105 S. Ct. 3127 (1985). 
+
+
+C. Plaintiffs’ Failure to Demonstrate Intent to Defraud 
+
+
+The first argument raised by Defendants in support of 
+their Motion for Summary Judgment (#804) on Plaintiffs’ 
+RICO claims is that there is no evidence to suggest that 
+Defendants had “specific intent to deceive or defraud” the 
+Plaintiffs. More specifically, Defendants contend that insofar © 
+as the development of the policy in question is concerned: 
+
+
+(1) during the period in question, the health care industry 
+was just beginning to experiment with preferred provider 
+arrangements, and no industry standards were in place 
+
+ing how co-pe , Sittin siete , 
+(2) that the policy in question was simply modeled after one 
+developed and already in place in Florida; (3) Medicare 
+employs an analogous system for the payment of 
+co-payments; (4) confidentiality clauses were common in the 
+industry for such discount arrangements to ensure the 
+protection of proprietary information; and (5) that only 
+9.54% of all Humana Insurance insureds resulted in paying 
+
+
+84a 
+
+
+higher co-payments if the discount given Humana Insurance 
+would have been shared. 
+Motion for Summary Judgment (#804) at 99-108. 
+
+
+Defendants further assert that various parties other than 
+Defendants were aware of the co-payment arrangement, that 
+Defendants disclosed the discount arrangement to Nevada 
+regulators at various times between 1984 and 1986, and that 
+on June 6, 1986, while at hearings before the Nevada 
+Department of Insurance ("DOI"), Defendants directly 
+informed DOI officials that bills issued to insureds did not 
+reflect any discounts received by Humana Insurance from 
+Humana. Motion for Summary Judgment (#804) at 110-116. 
+
+
+Plaintiffs respond that notwithstanding any disclosures 
+made by Defendants to third parties, Defendants failed to 
+disclose the co-payment scheme to Plaintiffs directly, and 
+even had attempted to conceal it. According to Plaintiffs, 
+Defendants’ Motion for Summary Judgment (#804) raises a 
+material question of fact regarding whether Defendants had 
+the requisite “intent” required under the mail and wire fraud 
+statutes. See Errata (#822) at 146, 219-221. 
+
+In determining whether Defendants satisfy the "intent" 
+requirement of the mail and wire fraud statutes, Plaintiffs 
+must demonstrate that the fraud was active and not merely 
+constructive. United States v. Bohonus, 628 F.?. 1167, 
+1172 (9th Cir. 1980), cert. denied, 447 U.S. 928, 65 L. Ed. 
+2d 1122, 100 S. Ct. 3026 (1980). Specific intent may be 
+shown by examining the scheme to determine whether it 
+"was reasonably calculated to deceive persons of ordinary 
+prudence and comprehension.” Sun Savings, 825 F.2d at 
+
+
+85a 
+
+
+196; Schreiber, 806 F.2d at 1400; Bohonus, 628 F.2d at 
+1172; see also United States v. Green, 745 F.2d 1205, 1209 
+(9th Cir. 1984), cert. denied, 474 U.S. 925, 88 L. Ed. 2d 
+266, 106 S. Ct. 259 (1985) (specific intent to defraud means 
+to deczive or mislead, and does not include situations where 
+act involved was the result of ignorance, mistake, or 
+accident). 
+
+
+Notwithstanding the facts asserted by Defendants, 
+viewing all inferences in favor of Plaintiffs as this Court 
+must do, it is clear that a material question of fact exists as 
+to whether Defendants’ interpretation of the co-payment 
+prvvision, which was furthered through the use of United 
+States mails or wires, was specifically intended to mislead or 
+deceive Plaintiffs or whether it was the result of ignorance, 
+mistake, or accident. Accordingly, Defendants Motion for 
+Summary Judgment (#804) on this ground must be denied. 
+
+
+D. Peison/Enterprise Distinction 
+
+
+Plaintiffs next allege that Humana and Humana 
+Insurance acted as members of an “association in fact" 
+enterprise or, alternatively, that Humana, a person within the 
+meaning of 18 U.S.C. § 1964(3), associated with Humana 
+Insurance, an enterprise within the meaning of 18 U.S.C. 
+§ 1961(4), to defraud Plaintiffs. As this Court recognized in 
+its July 9, 1991 Order (#364), such allegations satisfy the 
+“person/enterprise” requirements of U.S.C. § 1962(c). See 
+River City Markets v. Fleming Foods West, 960 F.2d 1458, 
+1460-62 (9th Cir. 1992); U.S. v. Feldman, 853 F.2d 648, 
+656-59 (9th Cir. 1988), cert. denied, 489 U.S. 1030, 103 L. 
+Ed. 2d 222, 109 S. Ct. 1164 (1989); of. Glessner v. Kenny, 
+952 F.2d 702, 710-14 (3rd Cir. 1991). Accordingly, 
+
+
+86a 
+
+
+Defendants are not entitled to summary judgment on this 
+ground. 
+E. RICO Damages for the Premium Payor Class 
+
+
+The third argument asserted by Defendants in support of 
+summary judgment is that the Premium Payor Class has not 
+demonstrated the requisite causal nexus between the RICO 
+damages they seek and the fraud alleged as a predicate act. 
+This Court agrees. 
+
+At the outset, the Premium Payor Class notes that the 
+nondisclosure of the discounting arrangement between 
+Humana and Humana Insurance induced its members into 
+obtaining Humana Insurance policies. Errata (#822) at 
+221-222. The Premium Payor Class then asserts that 
+numerous television and direct mail advertisements promised 
+that employers and employees would “share in reduced 
+hospital costs through premium reductions.” Errata (#822) at 
+104, 222, 235.% The damages which the Premium Payor 
+
+
+%© The language from the advertisements to which the 
+Premium Payor Class refer is as follows: 
+
+
+(1) "Tap Dance” commercial: "Because we can control 
+costs, both you and your company can save a great deal of 
+money without the song and dance;" 
+
+(2) "Mumbo Jumbo" commercial: "We can save you 
+and your company money without insurance mumbo 
+jumbo; " 
+
+(3) "Cuts" commercial: "Humana is a hospital company, 
+so we can control costs, 
+saving employers and employees money." 
+
+
+87a 
+
+
+Class contend they have suffered as a result of these actions 
+is “the difference in the actual price of the insurance product 
+that they purchased (the premiums actually paid) and what 
+the premiums should have been if premiums were calculated 
+to include the discounts that Humana Insurance was 
+receiving.” Errata (#822) at 222. 
+
+
+In Imagineering, Inc. v. Kiewit Pacific Co., 976 F.2d 
+1303 (9th Cir. 1992), cert. denied, 123 L. Ed. 2d 266, 113 
+S. Ct. 1644 (1993), the Ninth Circuit clarified the 
+requirements of proximate causation and recoverable 
+damages under RICO. With respect to the issue of proximate 
+causation, the Court in Imagineering stated: 
+
+
+In order to maintain a cause under RICO then, the 
+plaintiff must show not only that the defendant’s 
+violation was a “but for" cause of his injury, but 
+that it was the proximate cause as well. This 
+requires that there must be a direct relationship 
+between the injury asserted and the injurious 
+conduct alleged. . . . One principle underlying this 
+requirement is that the less direct the injury is, the 
+more difficult it becomes to ascertain the amount of 
+a plaintiff's damages attributable to the violation, as 
+distinct from other, independent factors. 
+
+
+Id. at 1311, citing Holmes v. Securities Investor Protection 
+Corp., 117 L. Ed. 2d 532, 112 S. Ct. 1311, 1317-18 (1992). 
+Consistent with this view of proximate cause, the Court in 
+
+
+Errata (#822) at 33; Reply (#841) at 35. 
+
+
+88a 
+
+
+Imagineering held that not all injuries are compensable under 
+RICO, but rather only those which are proven by a “concrete 
+financial loss." Jd. at 1310; see also Oscar v. University 
+Students Co-operative Ass’n, 965 F.2d 783, 785 (9th Cir. 
+1992) (en banc), cert. denied, 121 L. Ed. 2d 581, 113 S. 
+Ct. 655 (1992). 
+
+
+The claim by the Premium Payor Class that Humana 
+Insurance’s advertising campaign misrepresented that its 
+members would "share in reduced hospital costs through 
+premium reductions,” is without merit. The advertisements 
+to which Plaintiffs refer are nothing more than puffery and 
+plainly do not contain any representations which would 
+indicate how insurance premiums would be calculated. As 
+such, this alleged predicate act cannot be viewed as the 
+proximate cause of the Premium Payor Class’ asserted RICO 
+injury. See, e.g., Berent v. Kemper Corp., 973 F.2d 1291, 
+1295-96 (6th Cir. 1992). 
+
+
+The Premium Payor Class also argues that had its 
+members known how Humana Insurance would calculate 
+co-payments under its policy, they would not have purchased 
+Humana polices. This argument is problematic for several 
+reasons. 
+
+
+First, as stated by Defendants, the logical injury which 
+would follow from a "fraudulent inducement” would be that 
+the Premium Payor Class could have obtained comparable 
+policies elsewhere for less and instead chose Humana as 
+their insurance carrier. See Reply (#841) at 36-37. Plaintiffs 
+do not present any evidence in this regard. See Errata (#822) 
+at 227-236. 
+
+
+89a 
+
+
+Plaintiffs argue instead that they did not get the benefit 
+of what they bargained for: an insurance policy under which 
+co-payments would be calculated with consideration of any 
+hospital discounts received. See Errata (#822) at 224. 
+Plaintiffs may be correct, although there is no evidence in 
+the record to demonstrate that they are. Unlike the Co-Payor 
+Class, however, the members of the Premium Payor Class 
+never incurred a hospital bill or made a co-payment. Its 
+members simply paid the premiums they had previously 
+agreed to pay *ssuming that any hospital discounts obtained 
+by Humana Insurance would be reflected in their co-payment 
+determinations. Accordingly, even though it is clear that the 
+members of the Premium Payor class could have potentially 
+been defrauded by Defendants’ calculation of co-payments, 
+under the undisputed facts, no such injury actually occurred. 
+
+
+Plaintiffs’ additional argument that their “injury” arose 
+from the fact that Sunrise’s discount to Humana Insurance 
+should have been included in calculating their initial 
+premiums must be rejected for two reasons. First, although 
+this argument enables Plaintiffs to state a more direct injury, 
+it completely ignores the fact that the fraud which 
+supposedly induced Plaintiffs to purchase the Humana policy 
+involved representations about how co-payments were to be 
+determined. Nothing in the record suggests that the 
+Defendants fraudulently represented how they would 
+calculate premiums.** Even if Humana Insurance did err in 
+
+
+** Indeed, Plaintiffs indirectly acknowledge this point in 
+their Opposition when they admit that their argument is 
+not that "Defendants’ fraud *caused’ Defendants to charge 
+improper premiums." See Errata (#822) at 224. 
+
+
+90a 
+
+
+its calculation of the initial premiums, this error was 
+independent of the predicate acts which Plaintiffs have 
+alleged throughout this litigation. 
+
+
+Second, Plaintiffs’ argument ignores other factors, such 
+as the price of competing insurance products, that were used 
+to determine the price of premiums paid by the Premium 
+Payor Class. See Errata (#822) at 228. Assuming that simply 
+deducting the cost of the discounts in Defendants’ actuarial 
+formula would lead to a fair market price that the Premium 
+Payor Class would have paid for the Humana policy ignores 
+the competitive realities of the group health insurance 
+market. 
+
+
+Accordingly, given the failure of the Premium Payor 
+Class to adequately demonstrate a “direct relationship 
+between the injury asserted and the injurious conduct 
+alleged” or a “concrete financial injury" for purposes of 
+RICO, Defendants are entitled to summary judgment. 
+Imagineering, 976 F.2d at 1311. 
+
+
+F. RICO Damages for the Co-Payor Class 
+
+
+This Court previously has analyzed how to calculate the 
+damages incurred by the Co-Payor Class which would be 
+causally connected to Defendants’ alleged breach of fiduciary 
+duties under ERISA. See supra at 1507-09. This Court finds 
+that the reasoning of the Ninth Circuit in Imagineering and 
+Oscar regard.ig the requirements of proximate cause and 
+concrete financial injury applies with equal force in the 
+context of damages available under RICO. Accordingly, 
+Defendants are entitled to summary judgment on the 
+Co-Payor Class’ RICO claim to the extent that the Co-Payor 
+
+
+9la 
+
+
+Class seeks damages in excess of the amount that they could 
+have recovered under a proper interpretation of the 
+co-payment provision. 
+
+G. McCarran-Ferguson Act Exception 
+
+
+Finally, Defendants argue that the McCarran-Ferguson 
+Act precludes Plaintiffs from pursuing their RICO claim. 
+This Court agrees. 
+
+
+Section § 1012(b) of the McCarran-Ferguson Act 
+provides: 
+
+No Act of Congress shall be construed to invalidate, 
+
+impair or supersede any law enacted by any State 
+
+for the purpose of regulating the business of 
+
+insurance, . . . unless such Act specifically relates 
+
+to the business of insurance. . . . 
+
+
+15 U.S.C. § 1012(b). 
+
+
+The purpose of this provision is to impose a 
+clear-statement rule “that state laws enacted ’for the purpose 
+of regulating the business’ do not yield to conflicting federal 
+statutes unless a federal statute specifically requires 
+otherwise.” United States Dept. of the Treasury v. Fabe, 124 
+L. Ed. 2d 449, 113 S. Ct. 2202, 61 U.S.L.W. 4579, 4583 
+(1993) (citation omitted). 
+
+
+In order to determine if Section 2(b) precludes 
+application of a particular federal statute, a court must apply 
+the following four part test: (1) is the federal statute one 
+which specifically relates to the business of insurance; (2) 
+does the complained of activity constitute the business of 
+insurance; (3) has the state enacted laws for the purpose of 
+
+
+92a 
+
+
+regulating the complained of activity; and (4) would the 
+application of the federal statute invalidate, impair, or 
+supersede the state legislation. See LeDuc v. Kentucky 
+Central Life Ins. Co., 814 F. Supp. 820, 826-27 (N.D. Cal. 
+1992); Thacker v. New York Life Ins. Co., 796 F. Supp. 
+1338, 1341 (E.D. Cal. 1992). 
+
+
+There can be no dispute that RICO does not specifically 
+relate to the business of insurance. See LeDuc, 814 F. Supp. 
+at 827; Thacker, 796 F. Supp. at 1341. 
+
+
+It is equally clear that Plaintiffs’ complained of activities 
+constitute the "business of insurance." The crux of the RICO 
+claim brought by the Premium Payor Class is that 
+nondisclosure of the discount arrangement between Humana 
+and Humana Insurance in advertisements and other 
+communications fraudulently induced its members into 
+purchasing the Humana Insurance policies. See Second 
+Amended Complaint (#370) at 18-23. The gravamen of the 
+RICO claim brought by the Co-Payor Class is that 
+nondisclosure of the discount arrangement between Humana 
+and Humana Insurance fraudulently induced its members into 
+paying excessive co-payments. Jd. Since these alleged acts 
+directly relate to the purchase and execution of Humana 
+Insurance policies, they fall squarely within the meaning of 
+the “business of insurance." See Fabe, 61 U.S.L.W. at 4582 
+("the actual performance of an insurance contract falls within 
+’the business of insurance’. . . to hold otherwise would be 
+mere formalism.”); WEXCO, Inc. v. IMC, Inc., 820 F. 
+Supp. 194 (M.D. Pa. 1993); LeDuc, 814 F. Supp. at 828; 
+but see, Thacker, 796 F. Supp. at 1342. Accordingly, 
+
+
+93a 
+
+
+Defendants also satisfy the second prong of the 
+McCarran-Ferguson test. 
+
+
+In evaluating whether Nevada has enacted laws 
+governing the activities complained of in Plaintiffs’ RICO 
+Claims, it is not necessary that a state have a specific statute 
+banning a particular practice. The inquiry is whether the 
+State involved has adopted a regulatory scheme which 
+Feinstein v. Nettleship Co. of Los Angeles, 714 F.2d 928, 
+933 (9th Cir. 1983), cert denied, 466 U.S. 972, 80 L. Ed. 
+2d 820, 104 S. Ct. 2346 (1984); WEXCO, 820 F. Supp. at 
+197. 
+
+
+In 1971, Nevada adopted the Trade Practices and 
+Frauds; Financing of Premiums Act ("Act"), N.R.S. 
+§ 686A.010, et seg. This Act was designed to regulate the 
+business of insurance as recognized in the 
+McCarran-Ferguson Act “by defining, or providing for the 
+determination of, all such practices in this state which 
+constitute unfair methods of competition or unfair or 
+deceptive acts or practices and by prohibiting the trade 
+practices so defined and determined." N.R.S. § 686A.010. 
+Under this Act, Nevada recognized that the Commissioner of 
+Insurance “has exclusive jurisdiction” in regulating the trade 
+practices of the business of insurance. N.R.S. § 686A.015. 
+Furthermore, the Act specifically prohibits the dissemination 
+of false or misleading information relating to the sale of 
+policies or the benefits obtained thereto, N.R.S. 
+$§ 686A.030, 686A.040, and those violating the Act are 
+subject to enforcement of its provisions by the 
+Commissioner. N.R.S. §§ 680A.200, 686A.160, 686A. 170, 
+
+
+94a 
+
+
+and 686A.310. These statutes and others requiring the 
+approval of forms used by insurers, N.R.S. §§ 687B.120, 
+687B.130, clearly demonstrate an attempt by Nevada to 
+regulate the conduct complained of in this case through the 
+adoption of a comprehensive regulatory scheme.” 
+Accordingly. tis Court finds that the third prong of 
+McCarran-Ferguson test is also satisfied. See also WEXCO, 
+820 F. Supp at 197; LeDuc, 814 F. Supp. at 829; Thacker, 
+796 F. Supp at 1341-42. 
+
+
+Finally, under the McCarran-Ferguson test, this Court 
+must consider whether the application of RICO would 
+invalidate, impair, or otherwise supersede Nevada 
+legislation. As acknowledged by Plaintiffs in their Opposition 
+(#822), the Nevada Commissioner of Insurance, in enforcing 
+the Act, can prohibit unfair trades practices, impose fines, 
+and withdraw approval of insurance plans. See Opposition 
+(#822) at 270-274; N.R.S. §§ 686A.160, 686A.170, 
+686A. 187, and 687B.130. As Plaintiffs contend, the State of 
+Nevada does not proscribe the same harsh penalties which 
+would be available under RICO (e.g. treble damages and 
+attorney’s fees) for Defendants’ violation of unfair trade 
+practices. See Errata (#822) at 270-274. As recognized by 
+the courts in WEXCO and LeDuc, however, this is the very 
+
+
+* In fact, Plaintiffs tacitly admit that Humana 
+Insurance’s fraudulent activity was covered by the existing 
+Nevada statutory scheme when they argue that Humana 
+Insurance “cavalierly ignored” these “general legal 
+requirements,” thus requiring the Nevada legislature to 
+pass in 1987 the more rigorous requirements of sharing 
+discounts under AB 289. See Opposition (#822) at 271. 
+
+
+95a 
+
+
+reason why the fourth prong of the McCarran-Ferguson test 
+is met. See WEXCO 820 F. Supp. at 198; LeDuc, 814 F. 
+Supp at 829; but see Thacker, 796 F. Supp at 1343. For this 
+Court to allow Plaintiffs to pursue the harsher RICO 
+apparently did not deem worthy of such penalties, would be 
+tantamount to allowing Congress to intercede in an area 
+expressly left to the states under the McCarran-Ferguson 
+of the McCarran-Ferguson analysis is satisfied.” 
+
+
+*° At oral argument, Plaintiffs for the first time argued 
+that since Defendants’ conduct could arguably be 
+sanctioned under Nevada’s RICO statute, N.R.S. @ 
+207.470, the harsh remedies afforded by the federal RICO 
+
+
+statute cannot be seen to displace or supersede existing 
+
+
+As recognized earlier in this Order, Plaintiffs could not 
+pursue a Nevada RICO claim in this case given the fact 
+that ERISA preempts such a claim. See supra at _. 
+Beyond this, it is clear that in adopting the Act, the 
+Nevada legislature intended the Insurance Commissioner to 
+have “exclusive jurisdiction” over fraudulent insurance 
+practices. See N.R.S. @ 686A.015. This, combined with 
+fraud on the part of the insured and not by the insurer as a 
+possible predicate act under N.R.S. @ 207.470, 
+demonstrates an intent of the Nevada legislature to limit 
+the amount of damages recoverable against an insurer for 
+fraud. See N.R.S. @@ 207.360(30), 680A.200, 
+686A. 160, 686A.170, 686A.290, 686A.291, and 
+686A.310. 
+
+
+96a 
+
+
+This Court, therefore, concludes that the RICO claims 
+alleged by the Premium Payor Class and the Co-Payor Class 
+are barred by the McCarran-Ferguson Act. In doing so, the 
+between the McCarran-Ferguson Act and ERISA as posing 
+a preemptive “Catch-22," with McCarran-Ferguson 
+precluding Plaintiffs’ federal RICO claim and ERISA barring 
+Plaintiffs’ state RICO claim. The result is not entirely 
+anomalous, however, given that Congress has occupied the 
+field through ERISA by which certain well-defined remedies 
+have been provided and others excluded. 
+
+
+V. ORDERS 
+
+
+IT IS THEREFORE ORDERED that Defendants’ 
+Motion for Summary Judgment (#804) is Granted to the 
+extent that Judgment is hereby entered in favor of 
+Defendants and against Plaintiffs as to Plaintiffs’ First, 
+
+IT IS FURTHER ORDERED that Plaintiffs’ Co-Payor 
+Class only shall have to and including August 24, 1993, 
+within which to file a Third Amended Complaint seeking 
+relief on Plaintiffs’ First Claim for Relief pursuant to 29 
+U.S.C. § 1132(a)(1)(B), consistent with Part II of this 
+Memorandum Decision. 
+
+
+DATED: July 21, 1993 
+
+
+PHILIP M. PRO 
+United States District Judge 
+
+
+97a 
+
+
+APPENDIX C 
+(Relevant Statutory Provisions) 
+
+
+McCarran-Ferguson Act, 15 U.S.C. § 1012(b): 
+
+
+No Act of Congress shall be construed to invalidate, 
+impair, or supersede any law enacted by any State 
+for the purpose of regulating the business of 
+insurance, or which imposes a fee or tax upon such 
+business, unless such Act specifically relates to the 
+business of insurance: Provided, That after June 
+30, 1948, the Act of July 2, 1890, as amended, 
+known as the Sherman Act, and the Act of October 
+15, 1914, as amended, known as the Clayton Act, 
+and the Act of September 26, 1914, known as the 
+Federal Trade Commission Act, as amended [15 
+U.S.C. 41 et seq.], shall be applicable to the 
+business of insurance to the extent that such 
+business is not regulated by State Law. 
+
+
+Racketeer Influenced and Corrupt Organizations Act, 18 
+U.S.C. § 1962: 
+
+
+(a) It shall be unlawful for any person who has 
+received any income derived, directly or indirectly, 
+from a pattern of racketeering activity or through 
+collection of an unlawful debt in which such person 
+has participated as a principal within the meaning of 
+section 2, title 18, United States Code, to use or 
+invest, directly or indirectly, any part of such 
+income, or the proceeds of such income, in 
+acquisition of any interest in, or the establishment 
+or operation of, any enterprise which is engaged in, 
+
+
+98a 
+
+
+or the activities of which affect, interstate or foreign 
+commerce. A purchase of securities on the open 
+market for the purposes of investment, and without 
+the intention of controlling or participating in the 
+control of the issuer, or of assisting another to do 
+so, shall not be unlawful under this subsection if the 
+securities of the issuer held by the purchaser, the 
+members of his immediate family, and his or their 
+accomplices in any pattern or racketeering activity 
+or the collection of an unlawful debt after such 
+purchase do not amount in the aggregate to one 
+percent of the outstanding securities of any one 
+class, and do not confer, either in law or in fact, 
+the power to elect one or more directors of the 
+issuer. 
+
+
+(b) It shall be unlawful for any person through a 
+pattern of racketeering activity or through collection 
+of an unlawful debt to acquire or maintain, directly 
+or indirectly, any interest in or control of any 
+enterprise engaged in , or the activities which 
+affect, interstate or foreign commerce. 
+
+
+(c) It shall be unlawful for any person employed by 
+or associated with any enterprise engaged in, or the 
+activities which affect, interstate or foreign 
+commerce, to conduct or participate, directly or 
+indirectly, in the conduct of such enterprise’s affairs 
+through a pattern of racketeering activity or 
+collection of unlawful debt. 
+
+
+99a 
+
+
+(d) It shall be unlawful for any person to conspire 
+to violate any of the provisions of subsection (a), 
+(b), (c) of this section. 
+
+
+Racketeer Influenced and Corrupt Organizations Act, 18 
+U.S.C. § 1964: 
+
+
+(a) The district courts of the United States shall 
+have j isdicti to t and trai iolati 
+
+of section 1962 of this chapter by issuing 
+appropriate orders, including, but not limited to: 
+ordering any person to divest himself of any 
+interest, direct or indirect, in any enterprise; 
+
+
+(b) The Attorney General may institute proceedings 
+under this section. Pending final determination 
+thereof, the court may at any time enter such 
+restraining orders or prohibitions, or take such 
+other actions, including the acceptance of 
+satisfactory performance bonds, as it shall deem 
+proper. 
+
+(c) Any person injured in his business or property 
+by reason of a violation of section 1962 of this 
+
+
+100a 
+
+
+chapter may sue therefor in any appropriate United 
+States district court and shall recover threefold the 
+damages he sustains and the cost of the suit, 
+including a reasonable attorney’s fee. 
+
+(d) A final judgment or decree rendered in favor of 
+the United States in any criminal proceeding 
+brought by the United states under this chapter shall 
+estop the defendant from denying the essential 
+allegations of the criminal offense in any subsequent 
+civil proceeding brought by the United States. 
+
+
+DC1-294741.V1 
+
+

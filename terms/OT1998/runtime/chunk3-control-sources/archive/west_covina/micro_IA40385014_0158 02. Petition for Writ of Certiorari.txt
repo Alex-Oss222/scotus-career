@@ -1,0 +1,3155 @@
+rT 4 ong 
+OFFICE OF THE CLERK 
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1997 
+CITY OF WEST COVINA, 
+Petitioner, 
+vs. 
+LAWRENCE PERKINS; CLARA PERKINS; 
+APRIL PERKINS, a minor, by and through 
+LAWRENCE PERKINS, 
+Respondents. 
+ON PETITION FOR WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+PETITION FOR WRIT OF CERTIORARI 
+PRISCILLA F. SLOCUM 
+Counsel of Record 
+FRANSCELL, STRICKLAND, ROBERTS & LAWRENCE 
+225 South Lake Avenue, Penthouse 
+Pasadena, California 91101 
+(818) 304-7830 
+Attorneys for Petitioner 
+Lawyers Brief Service « Appellate 
+Brief Printers « (213) 613-1013 + (714) 720-1510 
+
+angman. 
+— 
+hin 
+pe 
+QUESTIONS PRESENTED 
+1. Whether the procedural component of the Fourteenth 
+Amendment’s Due Process Clause requires a police 
+department to provide legal advice and guidance 
+concerning how to pursue post-deprivation judicial 
+remedies for the return of property seized during the 
+execution of a search warrant. 
+2. Whether the balancing test set forth in Mathews 
+v. 
+Eldridge, 424 U.S. 319, 96 S. Ct. 893, 47 L. Ed. 2d 18 
+(1976) should be used by federal courts to expand 
+procedural rights in the context of post-deprivation 
+remedies. 
+
+a i. 
+LIST OF PARTIES (Rule 14.1(b)) 
+The petitioner and defendant City of West Covina is 
+the only defendant from the proceedings below involved 
+in this Petition. Other defendants who are not parties to 
+this Petition include defendants Ferrari, Melnyk, 
+Shimanski, Aldecoa, O’Brien, Nalian and Heieck, and 
+the City of Los Angeles. 
+- iii - 
+TABLE OF CONTENTS 
+QUESTIONS PRESENTED ............... 
+i 
+cog) 
+) .. Se 
+ee 
+ii 
+og: 
+7. |e . 
+iv 
+TABLE OF AUTHORITIES .............++.. vi 
+GP ET 
+ccc tcc eee eeeses 
+l 
+te i 
+ae a a ee 
+l 
+CONSTITUTIONAL/STATUTORY PROVISIONS .. 
+2 
+REASONS FOR GRANTING THE WRIT ....... 
+6 
+I. THE COURT OF APPEALS ERRONEOUSLY 
+CREATED A NEW NOTICE REQUIREMENT 
+IN POST-DEPRIVATION PROCEDURAL DUE 
+PROCESS CASES IN A MANNER THAT 
+CONFLICTS WITH THIS COURT'S 
+DECISIONS AND DECISIONS IN OTHER 
+| rrr 
+eee eee 
+6 
+Il. 
+THE QUESTION PRESENTED IS 
+os 
+|) re 
+ee 15 
+GEM 
+wk ccm rnwcnceccncescs 
+. 
+&@ 
+
+-iv- 
+LIST OF APPENDICES 
+APPENDIX A 
+OPINION, Ninth Circuit Court of Appeals, 
+a 
+re ee ae ee 
+APPENDIX B 
+Memorandum Order, U.S. District Court, 
+Central District of California, 
+PP 
+am b 66 didebddesns 
+cmona 
+APPENDIX C 
+JUDGMENT, U.S. District Court, 
+Central District of California, 
+SE 
+ae 
+a arene 
+APPENDIX D 
+NINTH CIRCUIT REMAND ORDER 
+WATE BE wh kliceee kre 
+APPENDIX E 
+Memorandum Order, U.S. District Court, 
+Central District of California, 
+Pe aes GE ooh 
+& caer cécatanencrt 
+APPENDIX F 
+ORDER DENYING REHEARING, 
+Ninth Circuit Court of Appeals, 
+Filed October 22,1997 ..............-.. 
+APPENDIX H 
+42 U.S.C. § 1983, as amended by 
+Act of Oct. 19, 1996, 110 Stat. 3853 
+(West Supp. 1997) ..... 
+5. eee ee eees Hl 
+APPENDIX I 
+California Penal Code section 1536 
+......... Il 
+APPENDIX J 
+California Penal Code section 1540 ......... Ji 
+
+- vi - 
+TABLE OF AUTHORITIES 
+Cases 
+Albright v. Oliver, 510 U.S. 266, 
+114 S.Ct. 807, 127 L.Ed.2d 114 (1994) ..... 
+16-17 
+Barnett v. Centoni, 31 F.3d 813 (9th Cir. 1994) 
+.... 8 
+Carlo v. City of Chino, 
+IGS F.36 493 (Oth Cir. 1997)... 
+wc ccc 
+20 
+Decker v. Hillsborough County Attorney's Office, 
+i 
+¢ j 
+- 
+a BnEES 
+iD deeer eaters 8 
+Dixon v. Love, 431 U.S. 105, 
+97 S. Ct. 1723, 
+es 
+ne 7 
+Easter House v. Felder, 
+910 F.2d 1387 (7th Cir. 1990) .......... 9,10-11 
+Economic Dev. Corp. v. Stierheim, 
+782 F.2d 952 (11th Cir. 1986) .............. 
+11 
+Graham v. Connor, 490 U.S. 386, 
+109 S. Ct. 1865, 
+he 
+RR 
+rae a ce 8 16 
+Hudson v. Palmer, 468 U.S. 517, 
+104 S. Ct. 3194, 
+82 L. Ed. 2d 393 (1984) ...... 
+10,11,13,16,18,19 
+Mathews 
+v. Eldridge, 424 U.S. 319, 
+96 S. Ct. 893, 
+G7. BE. BOT CIGAD 
+. nce 
+5,7,12,15,19 
+- Vii - 
+Memphis Light, Gas, & Water Div. v. Craft, 
+436 U.S. 1, 98 S. Ct. 1554, 
+56 L. Ed. 2d 30 (1978) .......... 
+5,7,12,13,15 
+Murphy v. Collins, 
+26 F.3d 541 (Sth Cir. 1994) ........5 
+2 ce ees & 
+New Alaska Dev. Corp. v. Guetschow, 
+869 F.2d 1298 (9th Cir. 1989) ..........545. & 
+Parratt v. Taylor, 451 U.S. 527, 
+101 S.Ct. 1908, 
+68 L.Ed.2d 420 (1981)........ 
+4, 8-9, 11, 16-19 
+v. Board of Education 
+of Whitley C 
+4 
+844 F.2d 1268 (6th Cir. 1988) 
+............. x 
+United States v. An Article 
+of Device "Theramatic", 
+715 F.2d 1339 (9th Cir. 1983) 
+........... 
+8-9 
+Texaco, Inc. v. Short, 
+454 U.S. 516, 102 S. Ct. 781, 
+, ) em  @ 
+by 
+fc. 
+- 
+es 
+14 
+Vicory v. Walton, 
+721 F.2d 1062 (6th Cir. 1983), 
+cert. denied, 469 U.S. 834 (1984) 
+......... 9,18 
+Zinermon v. Burch, 494 U.S. 113, 
+110 S. Ct. 975, 
+OR 
+8 Tre 8 
+
+~ Vili - 
+Statutes and Rules 
+California Penal Code 
+OM Ravibieds'r 
+bdbodek ccc ceme 
+3,4,11 
+Pee “ts ahanensteaabiate ewan 4,11 
+Statutes 
+SP 
+EE o's 6 tok cee vase 
+wl 
+ee 2 
+SPUN 
+S vs cass eee tareed yoke 
+oes 2 
+We eee I 
+Sb ts bs vo Wickens 2,6,9-11,15,17-19 
+Rules 
+U.S. Supreme Court Rule 13.4................ 2 
+U.S. Supreme Court Rule DAUD 
+0s even 
+eae 
+ii 
+-1- 
+PETITION FOR WRIT OF CERTIORARI 
+OPINIONS BELOW 
+The opinion of the Court of Appeals for the Ninth 
+Circuit was reported at 113 F.3d 1004 (9th Cir. 1997), was 
+filed on May 9, 1997, and is reprinted zi Appendix A. 
+The United States District Court of the Central District 
+of California’s unreported memorandum order postponing 
+and bifurcating the respondent’s procedural due process 
+claim was filed on May 10, 1994, and is reprinted at 
+Appendix B. 
+The United States District Court of the Central District 
+of California’s unreported memorandum order granting 
+petitioner City of West Covina’s motion for summary 
+judgment on the procedural due process claim was filed on 
+June 25, 1996, and is reprinted 
+at Appendix D. 
+JURISDICTION 
+Petitioner City of West Covina respectfully prays that 
+a writ of certiorari issue to review the judgment and 
+opinion of the United States Court of Appeals for the Ninth 
+Circuit, entered on May 9, 1997. (App. A 1.) 
+The United States District Court of the Central District 
+of California’s 
+Judgment was filed on August 3, 1994, and 
+is reprinted 
+here as Appendix C. On May 23, 1997, 
+petitioner filed a timely petition for rehearing and 
+suggestion for rehearing en banc in the Ninth Circuit. On 
+October 
+22, 1997, the Ninth Circuit denied the petition for 
+rehearing, and rejected the suggestion for rehearing en 
+banc. 
+(App. Fl.) One active judge requested a vote on 
+whether to rehear the matter en banc, but the matter failed 
+to receive a majority of the votes of the nonrecused active 
+judges. (Id.) 
+
+- 2. 
+The petition is filed within 90 days of the entry of such 
+denial pursuant to 28 U.S.C. § 2101 (c) and U.S. Supreme 
+Court Rule 13.4. The jurisdiction of this Court to review 
+the judgment of the Ninth Circuit is invoked under 28 
+U.S.C. section 1254(1). 
+CONSTITUTIONAL/STATUTORY PROVISIONS 
+The following statutory and constitutional provisions 
+relevant to this petition are set forth in appendices as 
+follows: 
+1. Fourteenth Amendment of the United States 
+Constitution, Section 1 at Appendix G 
+2. 42 U.S.C. Section 1983 at Appendix H 
+3. California Penal Code section 1536 at Appendix I 
+4. California Penal Code section 1540 at Appendix J 
+STATEMENT 
+Plaintiffs and Respondents Clara and April Perkins sued 
+the City of West Covina (hereinafter "City") and various 
+detectives and officers of the City of West Covina, alleging 
+various Fourth Amendment violations arising out of the 
+execution of a search warrant, and seizure of a "starter 
+pistol" and $2,469.00 in cash. 
+On May 10, 1994, the district court granted summary 
+adjudication in favor of the individual officers with respect 
+to several of respondents’ 
+Fourth Amendment claims 
+against the individual 
+officers, and granted summary 
+adjudication in favor of the City insofar as it sought to 
+state a claim against the City for the police officer’s search 
+of respondents’ residence. 
+(App. B 4.) 
+However, the 
+oe 
+BB! 
+Be 
+Sek 
+Beier 
+ea 
+i 
+‘ 
+’ 
+iis 
+district court postponed ruling on an unalleged procedural 
+due process claim that the post-deprivation judicial remedy 
+for return of the seized property was inadequate, and 
+ordered further briefing. (App. B 6-7.) Respondent never 
+filed an amended complaint adding this unalleged claim, 
+and the district court did not rule on this claim prior to 
+entry of the final judgment. 
+Judgment was entered in favor of all these defendants 
+on August 4, 1994, and respondent appealed on August 31, 
+1994. (App. C 1). On April 30, 1996, the Ninth Circuit 
+remanded the case to the district court to clarify and 
+resolve the procedural due process issue. (App. D 1.) 
+On remand, 
+the 
+district 
+court 
+granted summary 
+judgment in favor of the City, holding that respondent 
+waived any claim concerning the adequacy of the post- 
+deprivation judicial remedy provided by Penal Code section 
+1536, which provides that 
+All property or things taken on a warrant must be 
+retained by the officer in his custody, subject to the 
+order of the court to which he is required to return 
+the proceedings before him, or of any other court in 
+which the offense in respect to which the property 
+or things taken is triable. 
+The court reasoned that the waiver rule applied because 
+"*the evidence shows at most that the respondent made one 
+trip to the Municipal Court, was advised that there was no 
+file in his name and ceased any efforts to obtain an order 
+returning his property. 
+He filed nothing, he made no 
+inquiry about the procedures... ."" (App. E7.) 
+The district court also refused to excuse respondents’ 
+failure to avail themselves of this judicial/statutory remedy 
+on the grounds that the City failed to give "notice" of the 
+remedy. 
+(App. E 7.) The court found that respondent 
+"was told that he had to get a court order to get his 
+property back, he was tcld what court and what judge to go 
+to, and he was given the date of the warrant and of the 
+
+«és 
+search." (App. E 7.) Therefore, "[t}he City’s failure to 
+give Perkins formal notice of the procedure did not render 
+that procedure “inadequate to the point that it [wals 
+meaningless or nonexistent." 
+(Id.) 
+On appeal, a two-judge majority of the Ninth Circuit 
+Court of Appeals reversed summary judgment in favor of 
+the City, and directed the district court to enter summary 
+judgment in favor of respondents. 
+The court of appeals 
+determined that under Parratt 
+v. Taylor, 451 U.S. 527, 
+539, 101 S. Ct. 1908, 1915, 68 L. Ed. 2d 420 (1981), 
+there was "no requirement of a prior hearing before the 
+seizure Of possessions under the search warrant." 
+The 
+court also found that California Penal Code sections 1536, 
+1540, 
+and 
+state 
+mandamus 
+proceedings, 
+provided 
+"adequate" post-deprivation judicial remedies to recover the 
+property. 
+(App. A 17; App. J, K.) 
+The court of appeals acknowledged that respondents 
+were told by a City police officer that they had to obtain a 
+court 
+order 
+for 
+the 
+return 
+of the 
+property, 
+and 
+acknowledged that the officers executing the warrant left a 
+note at the search site which stated: 
+To Whom it May Concern: 
+l. 
+These premises have been searched by peace 
+officers of the West Covina Police Department 
+pursuant to a search warrant issued on 5-20-93, by 
+the Honorable Dan Oki, judge of the Municipal 
+Court, Citrus Judicial District. 
+2. 
+The search was conducted on 5-21-93. 
+A 
+list of the property seized pursuant to the search 
+warrant is attached. 
+3. 
+If you wish further information, you may 
+contact Det. Ferrari or Det. Melnyk at [telephone 
+number]. 
+aia 
+(App. A 4-5.) The form also listed "Lt. Schimanski"’s 
+name and his telephone number. 
+(App. A 5.) 
+The court of appeals also acknowledged that "the search 
+warrant was listed in a public document with the court 
+clerk by the address where the search occurred, along with 
+the number of the search warrant." (App. A 6.) 
+Nonetheless, the court held that petitioner violated 
+respondents’ procedural due process rights by failing to 
+provide adequate post-deprivation "notice" of this judicial 
+remedy which, according to the court, was required under 
+is 
+Li 
+W. 
+iv. Vv 
+, 436 U.S. 1, 
+98 S. Ct. 1554, 56 L. Ed. 2d 30 (1978), and the balancing 
+test set forth in Mathews 
+v. Eldridge, 424 U.S. 319, 96S. 
+Ct. 893, 47 L. Ed. 2d 18 (1976). 
+(App. A 17-20.) 
+Specifically, the City violated respondents’ rights by failing 
+to include in the note left at the search site "the availability 
+of a judicial remedy should he wish to claim his property," 
+or to "provide some guidance for invoking that remedy." 
+(App. A 18.) The court held that, at minimum, the "note" 
+left on the premises must not only include the information 
+which was provided in this particular case, but also the 
+following: 
+the notice must 
+inform 
+the recipient of the 
+procedure for contesting the seizure or retention of 
+the property taken, along with any additional 
+information required for initiating that procedure in 
+the appropriate court. 
+In circumstances such as 
+those presented by this record, the notice must 
+include the search warrant number or, if it is not 
+available or the record is sealed, the means of 
+identifying the court file. 
+It also must explain the 
+need for a written motion or request to the court 
+stating why the property should be returned. 
+(App. A 22.) 
+At the same time, however, the court of appeals 
+acknowledged that the trial court has exclusive authority 
+
+oe 
+over the procedures for obtaining the release of seized 
+property: 
+"[o]fficers seizing property do so on behalf of the 
+court for use in a judicial proceeding, and they 
+must 
+respond 
+to court 
+orders 
+to release 
+the 
+property. (Citation). The officers have no right in 
+the property or in its possession, and have no 
+authority over it except as the court may order." 
+(Citation [emphasis added].) 
+(App. A 16.) 
+REASONS FOR GRANTING THE PETITION 
+This Court should grant the Petition for Certiorari. The 
+court of appeals creation of a new procedural right to 
+“notice” in the form of legal advice concerning post- 
+deprivation judicial remedies is not only erroneous, but also 
+inconsistent with decisions of this Court and decisions in 
+numerous circuit courts of appeals. 
+Moreover, 
+by 
+imposing section 1983 liability under this new procedural 
+right over and above that provided by admittedly adequate 
+State law remedies, the published decision raises serious 
+concerns relating to principles of comity and federalism. 
+I. THE COURT OF APPEALS ERRONEOUSLY 
+CREATED A NEW NOTICE REQUIREMENT 
+IN POST-DEPRIVATION PROCEDURAL DUE 
+PROCESS CASES IN A MANNER THAT 
+CONFLICTS 
+WITH 
+THIS 
+COURT’S 
+DECISIONS AND DECISIONS IN OTHER 
+CIRCUITS. 
+| 
+This Court’s decisions, as well as the decisions in other 
+circuits, 
+have recognized 
+two different 
+Categories of 
+sa 
+procedural due process claims, and have articulated a 
+framework 
+for 
+determining 
+whether 
+the 
+particular 
+procedures 
+at issue provide due process. 
+In "pre- 
+deprivation” 
+cases, 
+a 
+public 
+entity 
+(usually, 
+an 
+administrative agency) has authorized certain procedures to 
+be followed before a deprivation can occur. 
+In this 
+category of cases, the Court employs the balancing test set 
+forth in Mathews 
+v. Eldridge, supra, to determine whether 
+the "notice" given and the procedures made available 
+provide an meaningful opportunity to be heard prior to the 
+deprivation of a property or liberty interest. Mathews 
+v. 
+Eldridge, 424 U.S. at 341-349, 96 S. Ct. at 905-910 
+(weighing the disability claimant’s interest in continued 
+disability benefits, the fairness and reliability of existing 
+pre-termination procedure, the probable value of additional 
+procedural safeguards, and the burden of such additional 
+safeguards, due process does not require an evidentiary 
+hearing prior to the discontinuance’ 
+of disability benefits); 
+is 
+Li 
+W 
+iv. V 
+, 436 U.S. 1, 
+16-19, 98 S. Ct. 1554, 1564-65 (Mathews factors require, 
+municipal utility company to provide notice of internal 
+procedures for protesting the proposed termination of utility 
+services before termination); Dixon 
+v. Love, 431 U.S. 105, 
+112-115, 97 S. Ct. 1723, 1727-29, 52 L. Ed. 2d 172 
+(1977) (no evidentiary hearing required under Mathews 
+factors prior to revocation of license for outstanding traffic 
+tickets because respondent has opportunity for full judicial 
+hearing in the underlying traffic convictions). 
+However, this Court, as well as other circuit courts, 
+also recognize a second category of cases which involve 
+"post-deprivation" judicial or statutory remedies to correct 
+a deprivation that has already occurred. In these cases the 
+analysis set forth in Mathews 
+v. Eldridge, supra, has been 
+applied 
+in determining 
+whether 
+some 
+form of pre- 
+deprivation notice and hearing is required, and the court 
+has determined that "the value of predeprivation safeguards 
+
+[e.g., notice and an opportunity to be heard before the 
+deprivation] 
+-- is negligible in preventing the kind of 
+deprivation at issue." Zinermon 
+v. Burch, 494 U.S. 113, 
+129, 110 
+S. Ct. 975, 985, 108 
+L. Ed. 2d 100 (1990); 
+see 
+also Decker v. Hillsborough County Attorney's Office, 845 
+F.2d 17 (1st Cir. 1988) (state’s failure to return a criminal 
+defendant's property to him immediately upon his acquittal 
+did not constitute deprivation of property without due 
+process 
+because 
+the 
+state 
+statute 
+provided 
+judicial 
+procedures through which to assert his property right); 
+Murphy 
+v. Collins, 26 F.3d 541, 543 (Sth Cir. 1994) (no 
+procedural du~ process violation where prisoner's property 
+confiscated in violation of the prison’s procedures because 
+prisoner could pursue a tort action for conversion); Ramsey 
+vy. Board of Education of Whitley County, 844 F.2d 1268 
+(6th Cir. 1988) (no procedural due process violation where 
+school district unilaterally reduced teacher's compensation 
+for sick leave days because teacher could pursue breach of 
+contract action); Barnett 
+v. Centoni, 31 F.3d 813, 816 (9th 
+Cir. 1994) (no procedural due process violation where a 
+state inmate’s prison status was downgraded in a 
+disciplinary action because California law provided an 
+adequate 
+post-deprivation 
+remedy 
+for 
+any 
+property 
+deprivation); New 
+Alaska 
+Dev. Corp. v. 
+Guetschow, 869 
+F.2d 1298, 1305 (9th Cir. 1989) (the availability of "post- 
+deprivation state iaw remedies provides all the process due” 
+for a court-appointed receiver's alleged misappropriation of 
+funds in a divorce proceeding). 
+In post-deprivation cases, the available judicial or 
+Statutory remedies are not inadequate simply because 
+recovery might be difficult, time-consuming, speculative, 
+or uncertain). Parratt 
+v. Taylor, 451 U.S. at 543-44, 101 
+S. Ct. at 1917 (since the state tort remedy was available at 
+the time of the plaintiff's loss and he failed to use it, he 
+failed to state a procedural due process claim); United 
+States v. An Article of Device "Theramatic", 715 F.2d 
+1339, 1342-43 (9th Cir. 1983) (rejecting plaintiff's claim 
+that a post-seizure judicial hearing was inadequate because 
+it put the “burden on defendant to request a hearing"); 
+Easter 
+House y. Felder, 910 F.2d 1387, 1405-06 (7th Cir. 
+1990); Vicory 
+vy. Walton, 721 F.2d 1062, 1065-66 (6th 
+Cir. 1983), cert. denied, 469 U.S. 834 (1984) ("in section 
+1983 damage suits for deprivation of property without 
+procedural due process the plaintiff must plead and prove 
+that 
+state 
+remedies 
+for 
+redressing 
+the 
+wrong 
+are 
+inadequate"). 
+All of these decisions hold that the availability of 
+adequate post-deprivation judicial or statutory remedies 
+satisfies the procedural component of the Due Process 
+Clause if the remedies provide the aggrieved party with an 
+adequate mechanism to correct a deprivation that has 
+already occurred. None of these cases even remotely 
+suggest that due process requires a municipality, who has 
+no authority over the property in question or the procedures 
+necessary to invoke these remedies, to provide advance 
+legal advice or information concerning how to pursue the 
+remedies after a deprivation has occurred but before an 
+aggrieved party invokes the judicial remedy. 
+In Parratt 
+v. Taylor, 451 U.S. 527, 101 S. Ct. 1908, 
+1917, prison officials lost a prisoner's personal property. 
+Auer balancing the relevant interests, this Court determined 
+that the normal “predeprivation notice and opportunity to 
+be heard" was "pretermitted," and that the state tort claims 
+act provided an adequate post-deprivation remedy. (Id. at 
+538-539, 541, 543-44, 101 S. Ct. 1914, 1916-17.) 
+This 
+Court rejected plaintiff's claim that the state tort claims 
+remedy for unlawful destruction of property was inadequate 
+because "it provides only for an action against the State as 
+opposed 
+to 
+its individual employees, 
+it contains 
+no 
+provisions for punitive damages, and there is no right to a 
+trial by jury." 
+451 U.S. at 543-44, 101 S. Ct. at 1917. 
+The court reasoned thus: 
+
+- 10 - 
+Although the state remedies may not provide the 
+respondent with all the relief which may have been 
+available if he could have proceeded under § 1983, 
+that does not mean that the state remedies are not 
+adequate 
+to satfy the requirements 
+of due process. 
+Id. at 543, 101 S. Ct. at 1915. Since the state tort remedy 
+was available at the time of the plaintiff's loss and he failed 
+to use it, he failed to state a procedural due process claim. 
+Id. 
+Similarly, in Hudson v. Palmer, 468 U.S. 517, 104 S. 
+Ct. 3194, 82 L. Ed. 2d 393 (1984) a prisoner alleged that 
+during the search of his cell, a prison guard deliberately 
+and 
+maliciously 
+destroyed 
+some 
+of the 
+prisoner's 
+possessions. 
+This Court determined that correctional 
+officers were not in a position to provide a predeprivation 
+procedure, and that under Virginia law, the prisoner’s right 
+to sue the correctional officer under state law for 
+conversion or detinue provided all the process that was 
+due. 
+Id. at 534-35, 104 S. Ct. at 3204. 
+The Court 
+rejected plaintiff's argument that state law remedies should 
+be deemed inadequate because they were "far from certain 
+and complete,” observing that the fact that an injured party 
+"might not be able to recover under [state law] remedies 
+the full amount which he might receive in a section 1983 
+action is not . 
+. 
+. determinative of the adequacy of the state 
+remedies. (Citation)" 468 U.S. 
+at 535, 104 S. Ct. at 3204- 
+05. 
+Similarly, in Easter 
+House v. Felder, 910 F.2d 1387, 
+1405-06 (7th Cir. 1990), plaintiff, a daycare provider, sued 
+a state licensing agency and its employees for allegedly 
+depriving them of a property interest because of the 
+agency's delay in renewing the provider's daycare license. 
+The court held that various post-deprivation 
+tort remedies 
+provided all the process that was "due" 
+even though "the 
+state road to recovery" might be a "lengthy and speculative 
+process": 
+-ll- 
+We note that almost all litigation, whether 
+conducted in a state or federal forum, may be 
+Id. at 1406; see also, Economic 
+Dev. Corp. v. Stierheim, 
+782 F.2d 952, 955-56 (llth Cir. 1986) (state law tort 
+remedies provide all the process that is due even if relief 
+under section 1983 would be greater). 
+As the majority acknowledges, under California law the 
+authority over these judicial remedies is vested exclusively 
+in the court system. (App. 
+A 16.) As such, the judicial 
+remedies are indistinguishable from the category of judicial 
+or statutory remedies available to civil rights plaintiffs in 
+cases such as Parratt v. Taylor, supra, Hudson v. Palmer, 
+supra, and numerous decisions in the circuit courts of 
+Despite these decisions, the court of appeals essentially 
+concluded that a municipality's failure to provide adequate 
+advice at the search site concerning how to pursue the 
+judicial remedies available under California Penal Code 
+sections 1536 and 1540 rendered the judicial remedy too 
+burdensome. 
+Clearly, the decision is based on the same 
+argument repeatedly rejected by this Court and other circuit 
+courts, 
+namely, 
+that 
+a post-deprivation 
+remedy 
+is 
+
+-12- 
+inadequate 
+if the remedy 
+is burdensome, 
+lengthy, 
+uncertain, or speculative. 
+Moreover, the analysis set forth in Mathews v. 
+Eldridge, supra, and applied in Memphis Light, Gas, & 
+Water 
+Div. v. Craft, supra, provides 
+no support for this 
+expansion of procedural rights in the context of post- 
+deprivation remedies. In Memphis Light, this Court held 
+that @ municipal utility agency subject to control by the 
+municipality 
+had a constitutional duty to provide "notice" 
+of available internal administrative procedures for disputing 
+utility bills prior to discontinuance of gas and electricity. 
+436 U.S. at 
+4, 14-15, 98 
+S. Ct. at 1557, 1563. 
+Two 
+critical facts, absent in the present 
+case, were essential to 
+this Court's determination. 
+First, the municipal utility had 
+authority 
+over the "res" 
+in question, namely, the 
+distribution of utility services deemed to be "essential" to 
+the health and well-being 
+of customers. Id. at 4, 19-20, 98 
+S. Ct. at 1537, 1559, 1565. 
+Second, the municipal utility 
+had deve 
+di 
+suai ceeutinieda tued etamnaes on m7 
+98 
+S. Ct. at 1563, n. 16. Pursuant 
+to that authority, the 
+utility developed detailed 
+internal procedure 
+for the 
+resolution of disputed bills prior to a proposed termination. 
+Id. at 5, n. 4, 13, 98 
+S. Ct. at 1559, n. 4, 1562 ("*The 
+billing of customers, the determination as to when a final 
+notice 
+is sent, and the termination of service [are] governed 
+by policies, rules and regulations adopted and approved by 
+the Board of Commissioners of MLG&W.’ (Citation)."). 
+In other words, the municipal utility’s duty to provide such 
+procedures 
+and its authority over the distribution of the 
+property at issue gave rise to a constitutional duty to 
+provide adequate "notice" of its internal administrative 
+procedure prior to a termination of /ife-essential utility 
+services. 
+In the present case, state law does not impose a duty on 
+municipalities to provide procedures for the return of 
+-13- 
+seized property, but imposes that duty on the court. 
+Moreover, 
+a municipality 
+has no authority over the 
+disposition of property seized pursuant to a search warrant 
+and, unlike the property in Memphis Light, supra, such 
+property 
+is not “essential” to well-being 
+and health of the 
+aggrieved party. As the court of appeals acknowiedged, 
+California courts have exclusive authority over such 
+property, and policing agencies cannot release property it 
+except 
+by court order. (App. A 16.) While a municipality 
+may have information that might be helpful to pursue these 
+remedies, it does not follow that it has a constitutional duty 
+to provide that information after a deprivation has already 
+occurred and before an aggrieved party seeks to invoke the 
+remedy. Cf. Hudson 
+v. Palmer, 468 U.S. at 534 (rejecting 
+argument that "because an agent of the state who intends to 
+deprive a person of his property can provide predeprivation 
+process, then as a matter of due process he must do so. ") 
+Because the court of appeals ignored these critical 
+distinctions altogether, it is unsurprising 
+that the court also 
+erroneously assumed that a municipality--rather than the 
+courts or respondents’ counsel--was required to provide 
+information concerning how to invoke and pursue this 
+judicial remedy.’ 
+' 
+Petitioners note that although respondents 
+argued that they were not given "notice" of the relevant 
+judicial remedies, the court of appeals--not the 
+respondents--articulated this new theory based on the 
+analysis set forth in Memphis Light, supra, a decision 
+that was neither cited nor briefed by the parties. Asa 
+result, the two-judge majority articulated a new 
+procedural right without the benefit of an adversarial 
+perspective that could have been presented had the court 
+requested additional briefing, further oral argument, or 
+granted the petition for rehearing and suggestion for 
+
+-14- 
+For example, the court of appeals chastised the police 
+department 
+for failing to 
+mention the availability of any procedure for 
+protesting the seizure of his property, let alone the 
+existence 
+of a formal judicial procedure 
+for 
+obtaining return. 
+It did not provide essential 
+information necessary to invoke that procedure: the 
+search warrant number, the method for obtaining 
+the number from the municipal court (such as the 
+need to furnish the court with the address searched), 
+or the necessity of a written request for return of 
+the property. 
+(App. 
+A 19.) 
+Two erroneous assumptions underlie this conclusion. 
+First, as the court of appeals acknowledges, the police 
+department advised respondent and his counsel of this 
+judicial remedy," but respondents failed to pursue it 
+through the court system. (App. A 5; E 3.) However, it 
+is largely irrelevant whether or not respondents were 
+informed by the police department what their judicial 
+remedies were--the judicial remedies are provided by law, 
+and respondents are presumed to know the law. Texaco, 
+~tnc-v- Short, 454 U.S. 516, 533, 102 S. Ct. 781, 793- 
+794, 70 L. Ed. 2d 738 (1982) ("It 
+is well established that 
+persons Owning property within a State are charged with 
+knowledge of relevant statutory provisions affecting the 
+control or disposition of such property 
+.") 
+Second, the court of appeals references "a number of 
+telephone calls [made by respondents] to the city’s police 
+station . 
+. 
+. and a trip to the municipal 
+court." (App. A 
+19.) 
+The majority appears to conclude that the police 
+department had a constitutional duty to inform respondents 
+of the court’s procedures for obtaining 
+the release of the 
+rehearing 
+en banc. 
+-15- 
+property. 
+(App. A 22 ("the notice must inform the 
+recipient of the procedure for contesting the seizure or 
+retention of the property taken") Unfortunately, the court 
+of appeals’ conclusion ignores the fact that a police 
+department has no authority over how these judicial 
+procedures operate. 
+Moreover, nothing in the record supports the court’s 
+conclusion. 
+Respondent failed to introduce any evidence 
+concerning what the proper court procedures were for 
+invoking and pursuing this remedy, or what information 
+they lacked which was necessary to pursue this remedy. 
+(App. E 6 ("there is no evidence either way about whether 
+one must have the warrant number in order to obtain a 
+court order releasing scized property"). 
+A municipality has no authority over court procedures 
+governing the return of lawfully seized property, anymore 
+than a municipality has control over the means through 
+which a tort action can be prosecuted. 
+Nonetheless, the 
+court of appeals, on pain of section 1983 liability, has 
+imposed 
+an on-going 
+constitutional 
+duty on 
+police 
+to research, monitor, and identify potential 
+weaknesses in these court procedures relating to the return 
+of seized property, and to provide information concerning 
+these court procedures after a deprivation has occurred but 
+before the remedy is invoked by an aggrieved party. This 
+result not only ignores this Court’s decisions relating to 
+post-deprivation remedies--which place the burden on an 
+aggrieved party to avail himself of "adequate" 
+post- 
+deprivation judicial or statutory remedies--but also finds no 
+support in Memphis Light, supra. 
+Il. 
+THE QUESTION PRESENTED IS IMPORTANT. 
+The two-judge majority’s use of the Mathews analysis 
+to create new "procedural" rights in the area of post- 
+
+= 
+& 
+deprivation remedies is also inconsistent with this Court’s 
+continued efforts to prevent federal courts from converting 
+the Fourteenth Amendment into "a font of tort law to be 
+superimposed upon whatever systems may already be 
+administered y the States." 
+Parratt_v. Taylor, 451 
+U.S. at 544, 101 S. Ct. 1917. 
+Understandably concerned with principles of comity and 
+federalism, this Court has attempted to curtail efforts by 
+federal courts to expand substantive and procedural rights 
+under the Due Process Clause. 
+Efforts 
+to expand 
+substantive rights under the Fourteenth Amendment were 
+rebuked by this Court in Graham 
+v. Connor, 490 U.S. 
+386, 109 S. Ct. 1865, 104 L. Ed. 2d 443 (1989), and 
+Albright 
+v. Oliver, 510 U.S. 266, 114 S. Ct. 807, 127 L. 
+Ed. 2d 114. 
+In these decisions, the Court expressed 
+concern over the constitutionalization of state law by the 
+creation of additional "substantive" due process rights over 
+and above those rights that are already protected under 
+specific provisions of the Bill of Rights. 490 U.S. at 394- 
+395, 109 S. Ct. at 1870-1871; 510 U.S. at 273-74, 114 S. 
+Ct. at 813. 
+Similarly, this Court has rebuked efforts to expand 
+procedural rights in cases such as Parratt 
+v. Taylor, supra, 
+and Hudson v. Palmer, supra, where a state has eliminated 
+the need for federal protection by providing adequate post- 
+deprivation judicial or statutory remedies. 
+In Parratt 
+v. 
+Taylor, the Court relied on principles of comity and 
+federalism to reject a prison inmate’s argument that he had 
+a right to predeprivation procedures even though the state 
+provided an adequate tort remedy to compensate him for 
+the loss of his property interest: 
+To accept respondent’s argument that the conduct of 
+state officials in this case constituted a violation of 
+the Fourteenth Amendment would necessarily result 
+in turning every alleged injury which may have 
+been inflicted by a state official . 
+. 
+. into a violation 
+~~ - 
+of the Fourteenth Amendment cognizable under § 
+1983. 
+It is hard to perceive any logical stopping 
+place to such a line of reasoning. 
+Presumably, 
+under this rationale any party who is involved in 
+nothing more than an automobile accident with a 
+~ state official could allege a constitutional violation 
+under § 1983. Such reasoning "would make of the 
+Fourteenth Amendment a font of tort law to be 
+superimposed upon whatever systems may already 
+be administered by the States. (Citation)." 
+Id. at 544, 101 S. Ct. 1917. 
+More recently, members of this Court in Ante. 
+Oliver, 
+supra, 
+recognized 
+the 
+importance 
+o 
+principles. 
+In Albright 
+v. Oliver, justices Kennedy and 
+Thomas found that the availability of an alternative state 
+remedy for malicious prosecution precluded a claim under 
+the Due Process Clause for initiation of criminal charges 
+without probable cause, reasoning thus: 
+The commonsense teaching of Parratt is that some 
+questions of property, contract, and tort law are 
+best resolved by state legal systems without resort 
+to the federal courts, even when a state actor is the 
+alleged wrongdoer. As we explained in Parratt, the 
+contrary approach ‘would almost necessarily result 
+in turning every alleged injury which may have 
+been inflicted by a state official acting under ‘color 
+of law’ 
+into 
+a 
+violation 
+of the 
+Fourteenth 
+Amendment cognizable under § 1983 
+. 
+. 
+. 
+. The 
+Parratt 
+principle 
+respects the delicate balance 
+between state and federal courts and comports with 
+the design of § 1983, a statute that reinforces a 
+lega! tradition in which protection for persons and 
+their rights is afforded by common law and the laws 
+of the states, 
+as well as by the Constitution. 
+(Citation. ) 
+510 U.S. at 283, 114 S. Ct. at 818-19. 
+
+- 18 - 
+Vicory_v. Walton, 721 F.2d 1062, 1063 (6th Cir. 
+1983), cert. denied, 469 U.S. 834 (1984) provides a 
+persuasive 
+analysis of the principles 
+of comity and 
+federalism that have informed this Court’s efforts to 
+contain 
+efforts 
+to 
+constitutionalization 
+of state 
+law 
+remedies. 
+In Vicory v. Walton, plaintiffs, owners of a 
+mobile 
+trailer 
+seized 
+for 
+purposes 
+of 
+a 
+criminal 
+investigation and trial sued the City for retaining the trailer 
+without due process of law. 
+The court of appeals held that 
+state tort remedies provided all the process that was due. 
+Id. at 1065. 
+Foreshadowing this Court’s decision in Hudson 
+vy. 
+Palmer, supra, the court of appeals rejected plaintiff's 
+claim that the Parratt rule did not apply to “intentional” 
+conduct. 
+The court reasoned that "the principle being 
+applied does not turn on the question of whether the 
+claimed constitutional tort affecting property is caused by 
+intentional conduct or negligent conduct,” but reflects the 
+Supreme Court’s basic determination 
+to limit federal 
+hearings “in procedural due process cases that can be 
+corrected in state court." Id. at 1065. Therefore, 
+[sjo long as a state’s damage remedies are not 
+shown to be inadequate in theory or practice---that 
+is, SO long as there is no systemic problem with the 
+state's Corrective process---we see no purpose to be 
+served by further complicating section 1983 liability 
+for damages 
+in property 
+cases by distinctions 
+grounded in different types of intent, negligence and 
+strict liability. 
+Similarly, in the present case respondents simply failed 
+to present any evidence of a "systemic" problem with 
+California’s judicial remedy for the return of lawfully 
+seized property. Nonetheless, the court of appeals created 
+a new procedural due process right to legal advice based on 
+respondents’ 
+inability 
+or unwillingness 
+in this single 
+instance to obtain the necessary information and relief after 
+-19- 
+one visit to the court. Respondents’ counsel simply failed 
+to take the legal steps necessary to pursue this post- 
+deprivation judicial remedy. 
+In light of these decisions, it is unlikely that this Court 
+intended the analysis set forth in Mathews v. Eldridge, 
+supra, to be used to expand procedural rights where the 
+only evidence of "inadequacy" of a post-deprivation judicial 
+remedy is an aggrieved party’s initial difficulty in pursuing 
+the remedy 
+in court. The creation 
+of this new "notice" 
+element to assess the adequacy of post-deprivation judicial 
+and statutory remedies not only intrudes into state’s 
+authority in the area of law enforcement, but also promises 
+to intrude into other areas which have traditionally been 
+regulated by the states. 
+Sy 
+dts araiibiater dius: Gn 
+Stlath Cleves Gen tneent 0 
+burden on police departments to research court procedures- 
+-which may vary from time to time and from court to 
+court--concerning the precise manner in which property 
+obtained under a valid search warrant may be recovered. 
+To avoid section 1983 liability, municipalities must fashion 
+some sort of "notice" in the form of legal advice, update 
+the required legal advice by monitoring court processes for 
+any relevant changes 
+in procedure, 
+and provide the 
+necessary information after a deprivation has occurred but 
+before an aggrieved party pursues the judicial remedy. 
+Moreover, the Ninth Circuit’s rationale promises to 
+pave the way for further federal intrusion into areas which 
+traditionally have been relegated to the states. It takes little 
+imagination to predict the Ninth Circuit’s next step, 
+namely, to require public agencies--who have no authority 
+or control over existing state law judicial and statutory 
+remedies recognized in cases such as 
+ Parratt, supra, 
+Hudson, supra, and numerous other circuit court decisions- 
+
+- 20 - 
+-to provide legal advice and information concerning how to 
+pursue these remedies.’ 
+CONCLUSION. 
+The petition should be granted. 
+DATED: 
+January 19, 1998 
+Respectfully submitted, 
+PRISCILLA F. SLOCUM 
+FRANSCELL, STRICKLAND, 
+ROBERTS & LAWRENCE 
+Attorneys for Petitioner 
+City of West Covina 
+— 
+. 
+Having been thwarted by this Court’s efforts 
+to expand federal rights under the substantive component 
+of the Due Process Clause, it appears that some members 
+of the Ninth Circuit are now attempting to expand federal 
+rights under the procedural component of the Due 
+Process Clause. 
+In Carlo v. City of Chino, 105 F.3d 
+493 (9th Cir. 1997), the Ninth Circuit created a new 
+avenue for constitutionalizing state law. The court of 
+appeals, in an opinion authored by Judge Boochever, 
+held that a violation of a state criminal procedure statute- 
+-which requires a police officer to provide a detainee 
+with immediate post-booking telephone calls and on pain 
+of criminal prosecution--gives rise to section 1983 
+liability under the "procedural" component of the Due 
+Process Clause. The decision is currently pending before 
+this Court in a Petition for Certiorari. 
+Hector Guerra v. 
+Mary 
+Ann Carlo, No.97-715. 
+
+APPENDIX A 
+
+Ferrari; Detective Melnyk, 
+Defendants-Appellees. 
+Appeal from the United States District Court _ 
+for the Central District of California 
+Stephen 
+V. Wilson, District 
+Judge, Presiding 
+Argued and Submitted 
+March 7, 1996 
+Submission Withdrawn April 30, 1996 
+Resubmitted September 30, 1996---Pasadena, California 
+Filed 
+May 9, 1997 
+Before: William C. Canby, Jr., Robert Boochever, and 
+Edward Leavy, Circuit Judges. 
+Opinion by Judge Boochever; Partial Concurrence and 
+Partial Dissent by Judge Leavy 
+
+-A 2- 
+COUNSEL 
+Patrick S. Smith, Klass, Helman 
+& Ross, Los Angeles, 
+California, for the plaintiffs-appellants. 
+S. Frank Harrell, Franscell, Strickland, Roberts & 
+Lawrence, Santa Ana, California, for the defendants- 
+appellees. 
+OPINION 
+BOOCHEVER, Circuit Judge: 
+Lawrence, Clara, and April Perkins appeal the 
+district court's grant of summary judgment on their 42 
+U.S.C. § 1983 suit against 
+the city of West Covina, and 
+the court’s grant of qualified immunity to individual 
+police officers. City detectives searched Perkins’ home 
+in connection with a murder investigation involving a 
+former boarder. Perkins had difficulty 
+securing the 
+recovery of his property seized during the search, 
+including 
+cash and a starter pistol. 
+Perkins claims the individual officers violated his 
+clearly established Fourth and Fourteenth Amendment 
+rights during the search. He also claims that the city’s 
+notice of the procedure for retrieving the property, and 
+the procedure itself, were inadequate, and therefore 
+violated his right to due process. We affirm the district 
+court’s grant of summary judgment to the individual 
+defendants on the ground of qualified immunity. We 
+reverse the summary judgment in favor of the City, 
+however, because we conclude that the City’s policy 
+A> 
+violated due process by failing to notify Perkins of the 
+means of retrieving his seized property. 
+FACTS 
+On May 
+8, 1993, Julio Alberto Clark was shot to 
+death at the home of Lashaun McDuffy in West Covina, 
+California. When West Covina police searched 
+McDuffy’s residence, they found evidence linking 
+McDuffy’s boyfriend, Marcus Marsh (a.k.a. Marcus 
+Winter) ("Marsh"), to the murder. They also found 
+evidence of gang activity, a vial of rock cocaine, and 
+$994.00 in cash. 
+McDuffy gave the police Marsh's telephone 
+number, which the police traced to the home of the 
+plaintiffs and appellants 
+in this case, Lawrence, Clara, 
+and April (a minor child) Perkins, at 531 Balham Avenue 
+in La Puente, California. 
+Another officer confirmed 
+the 
+address with Marsh’s probation officer, and documents 
+found in Marsh's car contained the same address. Marsh 
+had rented a room from Perkins, although Perkins later 
+stated that at the time of the search Marsh had moved 
+out. 
+On May 20, 1993, Citrus Municipal Court Judge 
+Dan Thomas Oki signed a search warrant authorizing a 
+search of "all rooms, attics, basements, garages, and 
+other parts therein" of four addresses, including Perkins’ 
+home. The warrant authorized a search for "any 
+evidence of street gang membership or affiliation with a 
+street gang," and "any firearms of the following caliber, 
+9MM. 
+In addition. 
+. .any and all firearms for which the 
+person in possession of said firearms cannot tender proof 
+of ownership at the time of service." 
+
+-A 4- 
+West Covina detectives David Melnyk, Michael 
+Ferrari, Dan Nalian, and Lieutenant 
+John Schimanski 
+searched 
+the Perkins’ home 
+on May 21. No one was 
+home, and Detective Nalian later stated that he and the 
+other officers did not know which was Marsh's bedroom. 
+During the search, the officers seized gang photos (some 
+depicting Marsh), paperwork belonging to Marsh, and an 
+address book belonging to Lawrence Perkins. They also 
+seized a twelve-gage shotgun and various kinds of 
+ammunition. 
+From the closet in a locked southwest 
+bedroom, the officers seized a starter pistol and $2,469 
+in cash. Detective Ferrari testified that he reasoned it 
+was evidence within the scope of the search warrant 
+because the detectives had recovered narcotics and cash 
+from McDuffy’s house, and Detective Nalian stated that 
+he considered the cash “evidence that Marcus Marsh, and 
+perhaps other residents of the house were involved in 
+illegal drug and gang related criminal activity." 
+The house was left in disarray, with damage to 
+the doors and some personal items. The officers left a 
+form entitled "Search Warrant: Notice of Service" ("the 
+notice"). The notice stated: 
+To Whom it May Concern: 
+l. 
+These premises have been searched 
+by peace officers of the West Covina 
+Police Department pursuant to a search 
+warrant issued on 5-20-93, by the 
+Honorable Dan Oki, judge of the 
+Municipal Court, Citrus Judicial District. 
+-A 5- 
+2. 
+The search was conducted 
+on 5-21- 
+93. A list of the property seized pursuant 
+to the search warrant is attached. 
+3. 
+If you wish further information, 
+you may contact Det. Ferrari or Det. 
+Melnyk at [telephone number]. 
+The form also listed the name "Lt. Schimanski" 
+and his telephone number. 
+It did not include the search 
+warrant number. 
+Lawrence 
+Perkins ("Perkins") called Detective 
+Ferrari that day; Detective Ferrari told him to call back a 
+few days later. Perkins called back and came in to talk 
+to Detective Ferrari, who told him that he had no 
+objection to releasing the money, but Perkins would need 
+to get a court order to get the property returned. Perkins 
+testified, and Detective 
+Ferrari denied, that Detective 
+Ferrari said he would help Perkins get the property back 
+if Perkins would testify against Marsh. 
+Perkins attempted to obtain the court order. 
+About a month after the search, Perkins went to Citrus 
+Municipal Court and asked to see Judge Oki, but was 
+told Judge Oki was on vacation. He attempted 
+to get 
+another judge to release the property, but Perkins was 
+informed that there was nothing under his name, and that 
+he needed the number of the search warrant, or a case 
+number 
+in Marsh's case. 
+Although Detective Ferrari 
+believed he gave Perkins the search warrant number, 
+Perkins testified that it was the wrong number. Perkins 
+also testified that he was unable to get the correct 
+warrant number at the court because the warrant was 
+sealed and no file number was assigned. There 
+was no 
+
+-A 6- 
+case number for Marsh because charges had not yet been 
+filed. The search warrant, however, was listed in a 
+public document with the court clerk by the address 
+where the search occurred, along with the number of the 
+search warrant. 
+Perkins was apparently unaware of this, 
+and no city employee informed him of the method for 
+obtaining the number. 
+Perkins, Clara Perkins, and April Perkins filed 
+suit in district court on November 19, 1993, against the 
+city of West Covina, Detectives Ferrari and Melynk, 
+Lieutenant Schimanski, and Los Angeles County. The 
+complaint alleged that the individual defendants violated 
+the Perkins’ Fourth and Fourteenth Amendment rights 
+under 42 U.S.C. § 1983 by their "arbitrary intrusion. 
+. 
+.into the security of plaintiffs’ privacy” and their search 
+without probable cause. 
+The complaint also alleged that 
+the city and county maintained "an official policy and 
+custom of permitting the occurrence of the types of 
+wrongs set forth hereinabove and hereafter," including 
+failing properly to train officers, encouraging arrests 
+without probable cause, procuring unlawful search 
+warrants, and failing to investigate police misconduct, in 
+violation of Monell v. Department of Social Serv., 436 
+U.S. 658 (1978). The complaint asked for general and 
+special damages, pain and suffering, punitive damages, 
+and attorney fees. The city answered, asserting qualified 
+immunity on behalf of the individual defendants, among 
+other affirmative defenses. 
+The parties filed cross-motions for summary 
+judgment in March 1994. The district court ordered 
+defendants to file supplemental briefs regarding the 
+procedure for obtaining release of seized monies. 
+At 
+A 9 
+about the same time, the city filed a motion for the 
+return of the property. 
+On May 12, 1994, the district court granted 
+summary judgment for the city on the Perkins’ Monell 
+claim, and for all defendants on the claim that the 
+warrant lacked probable cause. The court postponed a 
+ruling on the qualified immunity of the individual 
+officers. 
+The court also postponed a ruling on a claim 
+against the city for failing to return the Perkins’ seized 
+property. 
+Finding that "the City had a procedure for the 
+return of unlawfully seized property; plaintiff needed 
+only to obtain a court order. 
+But, the City’s procedure 
+for the return of unlawfully seized property may be 
+entirely inadequate in practice--plaintiff claims he could 
+not obtain the court order," the district court suggested 
+that these facts might be the basis of a due process claim 
+not raised in the complaint, and asked for further 
+briefing. 
+Trial was scheduled for June 14. The city 
+returned the property (with the exception of the starter 
+pistol, which had been reported stolen) on June 24, 
+1994, more than a year after it was seized. 
+On July 8, the district court granted summary 
+judgment on all remaining claims in favor of the city and 
+the detectives. 
+(The county and Lieutenant Schimanski 
+had been dismissed.) The order did not address the 
+question whether the city’s notice and procedure for 
+recovery of seized property violated due process. 
+
+-A 8- 
+Perkins appealed. 
+After oral argument, we 
+remanded to the district court for determination of the 
+due process issue. 
+After supplemental briefing, the 
+district court granted summary judgment for the city, 
+holding that Perkins had waived his due process 
+challenge to the city’s procedures by failing to invoke a 
+state statute providing for the return of improperly seized 
+property, and that Perkins received adequate notice. 
+DISCUSSION 
+l. 
+Qualified immunity 
+A law enforcement officer is 
+entitled to qualified immunity in a § 1983 
+action if the district court determines that, 
+in light of clearly established principles 
+governing the conduct in question at the 
+time of the challenged conduct, the officer 
+could reasonably have believed that the 
+conduct was lawful. 
+. 
+. 
+. First, the district 
+court must determine whether the law 
+governing the official’s conduct was 
+clearly established at the time the 
+challenged conduct occurred. 
+The second 
+step then asks whether, under that clearly 
+established law, a reasonable officer could 
+have believed the conduct was lawful. 
+{1} 
+Mendoza v. Block, 27 F.3d 1357, 1360 (9th Cir. 
+1994) (as amended) (citations omitted). 
+The plaintiff 
+bears the burden of showing that the right allegedly 
+violated was clearly established at the time of the alleged 
+misconduct. Romero v. Kitsap County, 931 F.2d 624, 
+627 (9th Cir. 1991). 
+"[T]he law in question must be 
+sufficiently clear that the unlawfulness of the action 
+0m) 
+al 
+cnn 
+ahi 
+mares 
+incest 
+iM 
+Metis 
++ 
+te 
+-A 9- 
+would have been apparent to a reasonable official." 
+Chew v. Gates, 27 F.3d 1432, 1447 (9th Cir. 1994), 
+cert. denied, 115 S. Ct. 1097 (1995). 
+This court reviews 
+de novo the district court’s decision on qualified 
+immunity. 
+Elder v. Holloway, 114 S. Ct. 1019, 1023 
+(1994). 
+[2] Perkins claims that the officers who searched 
+his home acted unreasonably in seizing the currency and 
+the starter pistol because neither was mentioned in the 
+warrant, Claiming "The general rule . 
+. 
+. is: if something 
+is not described in the warrant, it cannot be seized." 
+This is not an accurate statement of clearly established 
+law at the time of the search. 
+Instead, it was clearly 
+established in 1993 that during a search, officers may 
+seize an item not described in the warrant if they are in a 
+lawful position to view the item, the item reasonably 
+appears to be contraband, and the discovery of the item 
+is inadvertent. 
+United States v. Washington, 797 F.2d 
+1461, 1468 (9th Cir. 1986) (as amended). 
+This "plain 
+view" doctrine applies to the seizure of an item not listed 
+in the warrant. 
+Arizona v. Hicks, 480 U.S. 321, 326 
+(1987). 
+[3] Perkins does not seriously dispute that the 
+"plain view" rule was clearly established at the time of 
+the search. He implies, however, that the officers were 
+not in a “lawful position" because they were in the 
+southwest bedroom, which Perkins asserts was his and 
+Clara Perkins’ room. 
+Yet the officers stated that they 
+did not now whose room was whose when they entered 
+the house, and the warrant authorized them to search all 
+rooms. 
+Perkins does not suggest that the discovery of 
+the cash and pistol was other than inadvertent. 
+
+-A 10- 
+[4] Perkins also argues that, in light of clearly 
+established law, the items "did not reasonably appear to 
+be contraband." 
+At the time of the search, it was clearly 
+established that for a "plain view" seizure to be lawful, 
+the officer must have probable cause to believe there is a 
+nexus between the seized items and criminal activity. 
+Washington, 797 F.2d at 1469. The criminal activity 
+need not be that described in the warrant. 
+/d. at 1468 
+(under search warrant related to drugs, permissible to 
+seize items in plain view which reasonably appear to be 
+related to prostitution). 
+A. 
+The cash 
+The officers found the cash in the bedroom closet 
+where they were searching for weapons and the other 
+items listed in the warrant. 
+Detective Ferrari stated that 
+because he knew that Marsh lived part time at 
+McDuffy’s residence and the search there had uncovered 
+gang photos, cash, and drugs, and because ammunition 
+was found at Perkins’ home as well, it seemed likely that 
+the cash was evidence of criminal activity, perhaps drug 
+trafficking. He also noted that because Perkins’ house 
+was humble, the presence of a large amount of cash was 
+less consistent with noncriminal behavior. 
+Detective 
+Melnyk testified that his experience also led him to 
+believe the cash was evidence of illegal activity. 
+[5] A large amount of cash may be evidence of 
+intent to possess or distribute drugs. Several circuits had 
+so held before the search in this case. 
+See, e.g., United 
+States v. Garcia, 983 F.2d 1160, 1165 (1st Cir. 1993) 
+($1,308); United States v. Slater, 971 F.2d 626, 637 
+(10th Cir. 1992) ($2,400). This circuit followed suit 
+shortly after. 
+United States v. Soyland, 3 F.3d 1312, 
+-A 1l- 
+1315 (9th Cir. 1993)($4,600), cert. dismissed, 115 S. Ct. 
+32 (1994). Perkins cites, and we have found, no 
+authority to the contrary. We conclude that the law was 
+clearly established that large amounts of cash may be 
+evidence of drug activity. We now consider whether the 
+officers acted reasonably in the light of that rule. 
+[6] In each of the cases cited above drugs were 
+also discovered. 
+In this case the officers found no drugs 
+in Perkins’ home. 
+Nevertheless, they had other reasons 
+to connect the money to illegal activity: The discovery of 
+drugs and cash at McDuffy’s house, Marsh’s relationship 
+with McDuffy, Marsh’s gang record, and the relatively 
+large amount of cash relative to the Perkins family’s 
+apparent financial situation. Although--as was the case 
+here--a large bundle of cash may turn out to be 
+innocently earned, that does not mean that the detectives 
+could not reasonably believe otherwise. 
+We hold that, in light of the law clearly 
+established at the time of the search, the detectives could 
+reasonably believe their seizure of a large amount of cash 
+was lawful. 
+B. 
+The starter pistol 
+It was clearly established in 1993, at the time of 
+the search of Perkins’ home, that a starter pistol is not 
+- automatically a firearm or deadly weapon. 
+In United 
+States v. Dishman, 486 F.2d 727 (9th Cir. 1973), this 
+circuit held that carrying a starter pistol that would 
+require retooling to convert it into an operating weapon 
+likely to cause great bodily harm was not carrying a 
+"deadly or dangerous weapon" per se, as described in air 
+safety law. 
+/d. at 732. We added, however, that "[o]f 
+
+-A 12- 
+course, the situation would be different if use were made 
+of a starter pistol on an airplane." /d. Under those 
+circumstances, its "use" might convert it into a 
+dangerous weapon. 
+/d. at 731-32. 
+The officers in this case do not claim that this 
+particular starter pistol was a deadly weapon. 
+Instead, 
+an 0% 
+or present at the search (but not individually 
+namec* submitted an affidavit stating that gang members 
+sometimes brandish starter pistols during the commission 
+of crimes, then claim that they had not intention to harm. 
+[7] Perkins cites no authority clearly establishing 
+that a starter pistol could never be a firearm. Even 
+considering that some starter pistols would not fall into 
+that classification, it is reasonable to seize a starter pistol 
+in plain view when an officer has a reason to believe that 
+it has been or could be used in criminal or gang activity 
+to frighten a victim. 
+See, e.g., United States v. 
+Dzielinski, 914 F.2d 98, 102 (7th Cir. 1990) (display of 
+starter pistol during bank robbery justified upward 
+departure at sentencing for apparent possession of 
+dangerous weapon). 
+We affirm the district court’s finding of qualified 
+immunity. 
+Il. 
+The due process claim against the city 
+[8] In order to succeed in the claim against the 
+city, Perkins must show "that the [c]ity adhered to a 
+‘policy, practice or custom’ that caused [him] to be 
+deprived of [his] constitutional rights." Pierce v. 
+Multnomah County, 76 F.3d 1032, 1039 (9th Cir.) 
+(citing Monell), cert. denied, 117 S. Ct. 506 (1996). 
+-A 13- 
+[9] Although Perkins alleged in the complaint that 
+West Covina had an official policy of permitting such 
+wrongs as the execution of searches using unlawful 
+warrants, he neither alleged nor produced facts in 
+support of this claim. On appeal, he claims that the city 
+policy that violated his constitutional rights was the 
+failure to provide a reasonable procedure for the 
+recovery of property seized pursuant to a search warrant, 
+or alternatively, the failure to provide him with adequate 
+notice of the procedure for recovery of the seized 
+property. The city does not dispute that the procedure 
+for obtaining the release of property and the practice of 
+leaving a form written notice at a search site constitute 
+city policy for which it is responsible under Monell. 
+We review de novo the district cous» «© 
+= of 
+summary judgment on the due process cla” 
+-nited 
+States v. $874,938.00 U.S. Currency, 999 F.2d 1323, 
+1325 (9th Cir. 1993) (per curiam). 
+A. 
+Procedure for return 
+[10] The Fourteenth Amendment to the United 
+States Constitution provides that no state shall "deprive 
+any person of . 
+. 
+. property, without due process of 
+law." 
+“The Fourteenth Amendment places procedural 
+constraints on the actions of government that work a 
+deprivation of interests enjoying the status of ‘property’ 
+within the meaning of the Due Process Clause." 
+Memphis Light, Gas & Water Div. v. Craft, 436 U.S. 1, 
+9 (1978). Those procedural constraints require that the 
+property’s owner “be given notice and an ‘opportunity to 
+be heard at a meaningful time and in a meaningful 
+manner.’" 
+Schneider v. County of San Diego, 28 F.3d 
+89, 92 (9th Cir. 1994) (as amended) (quoting Brock v. 
+
+-A 14- 
+Roadway Express, Inc., 481 U.S. 252, 261 (1987)), cert. 
+denied, 115 S. Ct. 1112 (1995). Although Perkins 
+regained his property more than a year later, even “a 
+temporary, nonfinal deprivation of property is 
+nonetheless a ‘deprivation’ in the terms of the Fourteenth 
+Amendment." Fuentes v. Shevin, 407 U.S. 67, 85 
+(1972). 
+[11] Procedural due process generally requires a 
+hearing prior to deprivation, but a limited number of 
+“extraordinary situations” justify postponing 
+notice and 
+the opportunity for a hearing until after the seizure of the 
+property. 
+/d. at 90-91. Those situations 
+involve seizures 
+that are necessary to an important public interest; present 
+a special need for prompt action; and utilize legitimate 
+force which the government strictly controls. /d. 
+at 91. 
+There is thus no requirement of a prior hearing before a 
+seizure of possessions under a search warrant: 
+First, a search is generally issued to serve 
+a highly important governmental need-- 
+e.g., the apprehension 
+and conviction of- 
+criminals--rather 
+than the mere; private 
+advantage 
+of a private party in an 
+economic transaction. 
+Second, a search 
+warrant is generally issued in situations 
+demanding 
+prompt action. The danger 
+is 
+all too obvious that a criminal will destroy 
+or hide evidence of fruits of his crime if 
+-A 15- 
+warrants and that no warrant will be issued 
+without a prior showing of probable cause. 
+Id. at 93-94 n.30. 
+In such situations, 
+either the necessity of quick action by the 
+State or the impracticality 
+of providing any 
+coupled with the availability 
+of some 
+meaningful 
+means by which to assess the 
+propriety of the State’s action at some time 
+after the initial taking . 
+. 
+. satisf[ies] the 
+requirements 
+of procedural due process. 
+Parratt v. Taylor, 451 U.S. 527, 539 (1981). 
+The city claims that the California Penal Code 
+affords adequate post-deprivation process. Section 1536 
+of the Code provides: 
+[A]ll property or things taken on a 
+warrant must be retained by the officer in 
+his custody, subject 
+to the order of the 
+court to which he is required to return the 
+proceedings 
+before him, or of any other 
+court in which the offense in respect to 
+which the property or things taken is 
+triable. 
+[12] "Case law clearly establishes that both during 
+and after the pendency of a criminal action, section 1536 
+empowers the court to entertain a summary proceeding 
+by ‘nonstatutory’ motion, for the release 
+of property 
+seized under a search warrant." People v. Icenogle, 210 
+Cal. Rptr. 575, 577 (Ct. App. 1985). (In this case, the 
+- given any prior notice. Third, 
+the Fourth 
+Amendment 
+guarantees that the State will 
+not issue search warrants merely upon the 
+conclusory application of a private party. 
+It guarantees 
+that the State will not 
+abdicate control over the issuance of 
+
+-A 16- 
+motion filed by the city to obtain the release of Perkins’ 
+property was such a “nonstatutory” motion, citing § 
+1536.) Officers seizing property do so on behalf of the 
+court for use in a judicial proceeding, and they must 
+respond to court orders to release the property. /d. The 
+officers have no right in the property or in its possession, 
+and have no authority over it except as the court may 
+order. Oziel v. Superior Court, 273 Cal. Rptr. 196, 201- 
+02 (Ct. App. 1990). 
+[13] Perkins argues that a "nonstatutory" motion 
+under § 1536 was not an adequate remedy. He claims 
+his money could not have been released, because it was 
+never introduced into evidence in a criminal case. The 
+court has control over seized property, however, even 
+when as in this case, the property is never used in the 
+underlying criminal proceedings: "’[E]ven as to property 
+not yet offered or received in evidence . 
+. 
+. judicial 
+control still exists.’*" 
+/d. (quoting Gershenhorn v. 
+Superior Court, 38 Cal. Rptr. 576, 579 (Ct. App. 
+1964)). 
+[14] California Penal Code § 1540 provides: 
+PROPERTY, WHEN TO BE 
+RESTORED FROM PERSON FROM 
+WHOM IT WAS TAKEN. 
+If it appears 
+that the property taken is not the same as 
+that described in the warrant, or that there 
+is no probable cause for believing the 
+existence of the grounds on which the 
+warrant was issued, the magistrate must 
+cause it to be restored to the person from 
+whom it was taken. 
+| 
+| 
+Hi 
+-A 17- 
+Because one may secure a determination whether the 
+property should be returned "immediately after the 
+seizure . 
+. 
+. under section{] . 
+. 
+. 1540 of the Penal 
+Code,” this and other remedies such as mandamus 
+"satisfy the requirements 
+of due 
+process... 
+. The 
+purpose of section[{] 1540 is to provide one whose 
+property is seized with a speedy remedy in a readily 
+accessible court." Aday v. Superior Court, 362 P.2d 47, 
+53-54 (Cal. 1961). A motion to return is “expressly 
+authorized" under the statute, Gershenhorn, 38 Cal. 
+Rptr. at 578, and "[t}he determination may be had in 
+advance of the trial of the criminal action which 
+ordinarily follows the seizure." People v. Bonanza 
+Printing Co., 76 Cal. Rptr. 379, 381 (Ct. App. 1969). 
+This motion is separate from a “nonstatutory" motion 
+under § 1536. Buker v. Superior Court, 102 Cal. Rptr. 
+494, 497 (Ct. App. 1972). 
+[15] Perkins thus had available to him 
+postdeprivation procedure for the return of his property-- 
+a “nonstatutory" motion under § 1536, and a § 1540 
+motion. We agree with the California Supreme Court 
+that "[t]hese various remedies satisfy the requirements of 
+due process." Aday, 362 P.2d at 54. 
+B. 
+Notice 
+[16] Due process notice "must be of such nature 
+as reasonably to convey the required information." 
+Mullane v. Central Hanover Trust Co., 339 U.S. 306, 
+314 (1950). The "notice" left at Perkins’ home simply 
+informed him that his home had been searched by the 
+West Covina police department, with the date of the 
+search warrant and the issuing judge and court, the date 
+of the search, a list of the property seized, and the names 
+
+-A 18- 
+and telephone numbers of several officers of the police 
+department to contact for "more information." The issue 
+is whether due process required more: that the police 
+notify Perkins of the availability of a judicial remedy 
+should he wish to claim his property, and provide some 
+guidance for invoking that remedy. 
+The Supreme Court faced a similar issue in 
+Memphis Light. The plaintiffs, who were subject to 
+multiple billing by the utility company, were unable to 
+clear up the disputed charges despite visits to the 
+company’s offices, and their gas and electric service was 
+terminated several times. The company had a procedure 
+for the resolution of disputed bills, 436 U.S. at 6 n.4, 
+but the notice of termination sent to the plaintiffs simply 
+stated that payment was overdue and service would be 
+cut off by a certain date; "No mention was made of a 
+procedure for the disposition of a disputed claim." 
+/d. at 
+13. The Court held that the notice was insufficient to 
+satisfy due process: 
+[The] notification procedure, while 
+adequate to apprise the [plaintiffs] of the 
+threat of termination of service, was not 
+"reasonably calculated" to inform them of 
+the availability of "an opportunity to 
+present their objections” to their bills. 
+Mullane v. Central Hanover Trust Co., 
+supra, at 314. The purpose of notice 
+under the Due Process Clause is to apprise 
+the affected individual of, and permit 
+adequate preparation for, an impending 
+"hearing." Notice in a case of this kind 
+does not comport with constitutional 
+requirements when it does not advise the 
+. 
+| 
+: 
+| 
+| 
+° 
+; 
+: 
+$ 
+. 
+; 
+i 
+{ 
+= 
+-A 19- 
+customer of the availability of a procedure 
+for protesting a proposed termination of 
+utility service as unjustified. As no such 
+notice was given respondents--despite 
+"good faith efforts" on their part--they 
+were deprived of the notice which was 
+their due. 
+Memphis Light, 435 U.S. at 14-15 (footnotes omitted). 
+[17] Here, the notice left at Perkins’ home did not 
+mention the availability of any procedure for protesting 
+the seizure of his property, let alone the existence of a 
+formal judicial procedure for obtaining return. 
+It did not 
+provide essential information necessary to invoke that 
+procedure; the search warrant number, the method for 
+obtaining the number from the municipal court (such as 
+the need to furnish the court with the address searched), 
+or the necessity for a written request for return of the 
+property. The notice was “skeletal,” like the notice that 
+the Memphis Lights court found unconstitutional. /d. at 
+15 n.15. 
+The city charges Perkins with the responsibi 
+ity 
+.for his own confusion. 
+It cites his failure to persist and 
+to unearth the proper remedy and the method of its 
+invocation. 
+But Perkins, like the Memphis Light 
+plaintiffs, made a number of telephone calls and at least 
+two trips to the city’s police station, one with his 
+daughter, and a trip to the municipal court. 
+While the 
+police told him he needed a "court order," there is no 
+evidence that they explained how to go about getting the 
+correct warrant number, or pointed out the need for a 
+written request. 
+Perkin’s efforts, though unavailing, 
+were "good faith" efforts in light of the sketchy written 
+
+-A 20- 
+notice and the confusing and inaccurate information he 
+received on his calls and visits. See id. at 17 n.19 
+(plaintiff's trips to utility office and some explanation by 
+employees does not undermine holding that notice was 
+inadequate); Schneider, 28 F.3d at 93 (notice citing 
+incorrect statute number violated due process). Nor is it 
+any answer that the city eventually released the property. 
+It did so on its own motion, and only long after Perkins 
+had filed this suit. A delayed response to a lawsuit after 
+a plaintiff has resorted to litigation under 42 U.S.C. § 
+1983 is not evidence that due process was afforded. 
+"[D]ue process is flexible and calls for such 
+procedural protections as the particular situation 
+demands." Morrisey v. Brewer, 408 U.S. 471, 481 
+(1972). Seizure of property pursuant to a search warrant 
+occurs "to thousands of [people] of various levels of 
+education, experience, and resources" who should be 
+clearly informed of the procedure for retrieving their 
+property if it is not needed for the criminal proceedings. 
+See Memphis Light, 436 U.S. at 15 n.15. People who 
+are not suspected of criminal activity and whose property 
+is seized are in particular need of detailed notice. As in 
+this case, they may be uninvolved in the alleged criminal 
+activity pursuant to which the government has seized 
+their property without a predeprivation hearing. The 
+"situation demands" written notice of how to retrieve the 
+property. See Aguchak v. Montgomery Ward Co., 520 
+P.2d 1352 1357 (Alaska 1974) (due_process requires that 
+written notice to legally unsophisticated and indigent 
+defendants be more substantial, detailed, and easily 
+understood). We find the written notice given by the 
+West Covina Police Department was constitutionally 
+inadequate. 
+nh 
+PP 
+ae 
+Pos 
+hE 
+eT 
+Awe 
+-A 21- 
+[18] The dissent concedes that "in circumstances 
+requiring a predeprivation hearing, notice of such a 
+hearing or process is necessary." See Parratt, 451 U.S. 
+at 538 (where established procedures under state law 
+authorize deprivation of property, due process requires 
+predeprivation notice and hearing). Nevertheless, the 
+dissent argues that when the state may take property 
+without predeprivation notice or hearing, due process 
+does not require any notice of the procedures for the 
+return of the property. 
+But surely when there is no 
+opportunity for predeprivation notice for hearing, the 
+necessity of adequate postdeprivation notice of the means 
+of securing the return of property is at least as 
+compelling. 
+The remaining issue is what notice was due in this 
+case. To identify the specific dictates of due process, we 
+must consider (1) the private interest affected by the 
+official action; (2) the risk of an erroneous deprivation of 
+such an interest through the procedures used, and the 
+value of additional safeguards; and (3) the government’s 
+interest, "including the function involved and the fiscal 
+and administrative burdens that the additional or 
+substitute procedural requirement would entail." 
+Mathews v. Eldridge, 424 U.S. 319, 334-35 (1976). 
+The private interest in this case is in the 
+possession and use of personal property, surely a 
+significant interest. 
+The risk of erroneous deprivation, 
+especially in the emergency situations often underlying 
+search warrants, is substantial. By contrast, the 
+administrative and fiscal burden of providing adequate 
+written notice is slight. The city already leaves a 
+standard form of "notice" at the premises searched. 
+The 
+only burden involved is the formulation of 
+
+-A 22- 
+constitutionally adequate wording by including the 
+relevant information on the notice. 
+[19] It is not our function to specify the exact 
+phrasing of an adequate notice. 
+In cases where property 
+is taken under California law, however, the notice should 
+include the following: as on the present notice, the fact 
+of the search, its date, and the searching agency; the date 
+of the warrant, the issuing judge, and the court in which 
+he or she serves; and the persons to be contacted for 
+further information. 
+In addition, the notice must inform 
+the recipient of the procedure for contesting the seizure 
+or retention of the property taken, along with any 
+additional information required for initiating that 
+procedure in the appropriate court. 
+In circumstances 
+such as those presented by this record, the notice must 
+include the search warrant number or, if it is not 
+available or the record is sealed, the means of identifying 
+the court file. 
+It also must explain the need for a written 
+motion or request to the court stating why the property 
+should be returned. 
+The detailed implementation of these general 
+requirements is left to the appropriate government 
+agency. 
+All that is necessary is that the notice be 
+reasonably calculated to inform people of the means by 
+which they may be able to secure the prompt return of 
+their seized property. 
+Ill. 
+Perkins’ right to trial 
+Perkins argues that summary judgment violates 
+his right to trial. This issue is frivolous. Summary 
+adjudication of a case with no material issues of fact does 
+not deprive a party of the right to trial. 
+See, e.g., Pease 
+-A 23- 
+v. Rathbun-Jones Engineering Co., 243 U.S. 273, 278 
+(1917). Summary Judgment is an integral part of the 
+federal rules, which are designed to ensure the just, 
+speedy, and inexpensive determination of every issue. 
+Celotex Corp. v. Catrett, 477 U.S. 317, 327 (1986) 
+(quotations omitted). Because it determines only 
+questions of law, summary judgment does not deprive 
+the nonmoving party of its right to a jury trial. See /tel 
+Capital Corp. v. Cups Coal Co., 707 F.2d 1253, 1261 
+(11th Cir. 1983). 
+CONCLUSION 
+We affirm in part and reverse in part. We affirm 
+the district court’s grant of summary judgment to the 
+individual defendants on the grounds of qualified 
+immunity. Because we find the notice given Perkins did 
+not meet the requirements of due process, we reverse the 
+summary judgment in favor of the city and remand to the 
+district court for the grant of summary judgment to 
+Perkins on this issue, and for such further proceedings as 
+may be necessary. 
+Each party shall bear their own costs. 
+LEAVY, Circuit Judge, concurring in part and dissenting 
+in part: 
+I concur in all of Judge Boochever’s opinion 
+except section II.B. I dissent from that section because I 
+do not believe that due process requires "that the police 
+notify Perkins of the availability of a judicial remedy 
+should he wish to claim his property; and provide some 
+guidance for invoking that remedy." By imposing a duty 
+on the police officers to advise Perkins on matters of 
+
+-A 24- 
+state law, the opinion adds a due process requirement 
+that has support neither in the case law nor in the Due 
+Process Clause. 
+I would agree that in circumstances requiring a 
+predeprivation hearing, notice of such a hearing or 
+process is necessary. The Supreme Court’s standard of 
+"notice reasonably calculated, under all the 
+circumstances, to apprise interested parties of the 
+pendency of the action," Mullane v. Central Hanover 
+Bank & Trust Co., 339 U.S. 306, 314 (1950), has been 
+developed and applied in the context of predeprivation 
+procedures. See e.g., Mullane, (publication notice of 
+proceeding to settle trust funds accounts found to be 
+inadequate); Memphis Light, Gas & Water Div. v. Craft, 
+436 U.S. 1 (1978) (notice of dispute resolution 
+procedures prior to terminating utility service held to be 
+inadequate); Greene v. Lindsey, 456 U.S. 444 (1982) 
+(posted notice of eviction found to be constitutionally 
+inadequate); Schneider v. County of San Diego, 28 F.3d 
+89 (9th Cir. 1994), cert. denied, 115 S.Ct. 1112 (1995) 
+(due process violation where seizure notice did not state 
+that abandoned vehicles would be destroyed). These 
+requirements are inapplicable where, as here, Perkins’ 
+property was rightfully seized pursuant to a search 
+warrant without need for a predeprivation proceeding. 
+Because Perkins’ property was lawfully seized, 
+due process requires "the availability of some meaningful 
+means by which to assess the propriety of the State’s 
+action at some time after the initial taking." Parratt v. 
+Taylor, 451 U.S. 527, 539 (1981). The majority 
+concede that the postdeprivation procedures provided 
+under California law "satisfy the requirements of due 
+process 
+. 
+. 
+. and conform with the requirements laid 
+-A 25- 
+down by the Supreme Court of the United States." 
+Perkins’ property was rightfully seized and held by the 
+police, and California law provides a means for him to 
+obtain return of his property. 
+I cannot agree that due 
+process requires the City of West Covina to advise 
+Perkins of his remedies. 
+As the majority points out, Perkins brought this 
+action in November 1993. In June 1994, Perkins’ 
+property was returned upon motion of the city. Surely 
+the majority does not intend to allow recovery for 
+deprivation of Perkins’ property while he and his lawyer 
+failed to seek its return. The Due Process Clause does 
+not require the City of West Covina to provide legal 
+advice to Perkins or any other person with a claim 
+against the city. 
+
+APPENDIX B 
+
+te ea 
+a 
+Tate 
+= 
+Sa 
+; 
+v. 
+THE CITY OF WEST COVINA, et al. 
+Defendants. 
+CV 93-7084 SVW (CTx) 
+ORDER 
+TO ALL PARTIES AND THEIR ATTORNEYS OF 
+RECORD: 
+Introduction 
+Presently before the Court is a civil rights action 
+stemming from an allegedly unlawful search and seizure 
+
+-B 2- 
+in violation of plaintiffs’ Fourth Amendment rights. The 
+parties have filed cross motions for summary judgment. 
+Statement 
+of Facts 
+Lawrence Perkins, Clara Perkins and April 
+Perkins ("plaintiffs") reside at 531 Balham Street in West 
+Covina. On May 21, 1993, their home was searched by 
+police officers of the City of West Covina (the "City"). 
+Among the officers present at the search were defendants 
+Detective Ferrari, Detective Melnyk, Lieutenant 
+Schimanski, Detective Aldecoa and Detective O’Brien 
+(the “individual defendants"). 
+On May 18, 1993, an individual named Julio 
+Alberto Clark had been shot to death at the residence of 
+Lashaun McDuffy. The police searched McDuffy’s 
+residence. They found evidence linking McDuffy’s 
+boyfriend Marcus Marsh (a.k.a. Marcus Winter) to the 
+murder. They also found a vial of cocaine and $994.00 
+in cash. 
+‘ 
+McDuffy provided the police with Marsh’s 
+telephone number. This number was traced to plaintiffs’ 
+address, where Marsh had been boarding. On May 20, 
+1993, the Honorable Dan Thomas Oki signed a search 
+warrant ordering the search of plaintiffs’ house. The 
+warrant authorized a search for "any evidence of street 
+gang activity” as well as "[aJny evidence of firearms of 
+the following caliber: 9mm." 
+During the search, the police confiscated 
+suspected gang clothing, paperwork belonging to Marsh 
+and an address book belonging to Mr. Perkins. 
+Furthermore, the police seized several guns and various 
+types of ammunition. The parties dispute whether the 
+police seized a pager as well. 
+After the search, the house was left in disarray. 
+Several items were destroyed, including a clock radio, a 
+flight bag, a smoke detector, a pair of binoculars, a 
+-B 3- 
+swimming pool and a waterbed cabinet. The officers 
+confiscated $2,469.00 in cash and a starter pistol. 
+Several days later, Mr. Perkins contacted 
+Detective Ferrari seeking return of the confiscated cash. 
+According to Mr. Perkins, Detective Ferrari told Mr. 
+Perkins that the cash would only be released if Mr. 
+Perkins implicated Marsh. After Mr. Perkins refused to 
+comply, Detective Ferrari stated that the cash could only 
+be released 
+with a court order. Detective Ferrari denies 
+he told Mr. Perkins that he would release the cash if Mr. 
+Perkins implicated Marsh. He does admit, however, that 
+he told Mr. Perkins to obtain a court order. 
+Mr. Perkins attempted to obtain the order, but 
+was informed that he could not do so without the number 
+of the search warrant or, in the alternative, a case 
+number for the case against Marsh. The warrant number 
+could not be obtained because the warrant was sealed and 
+no file number had been assigned, and there was no case 
+number in the case against Marsh because charges had 
+not been filed. Approximately one year later, the City 
+returned the cash to Mr. Perkins. 
+. 
+Discussion 
+W 
+vi 
+me oy h and 
+Sei 
+As a general rule, a municipality is not liable 
+under 42 U.S.C. § 1983 on the basis of respondeat 
+superior. Instead, the municipality will only be held 
+liable if plaintiff shows that the violation resulted from 
+an unconstitutional policy, practice or custom. See 
+Monell v. 
+Department 
+of Social Serv., 98 S.Ct. 2018 
+(1978); accord St. Louis v. Praprotnik, 108 S.Ct. 915, 
+926 (1988). 
+In order to prevail, plaintiff need not 
+produce evidence of a written policy. Instead, plaintiff 
+may produce evidence of a long and frequent pattern of 
+constitutional deprivations, or, plaintiff may prove that 
+
+-B 4- 
+the unconstitutional action was taken by an individual 
+with policy making authority. Monell, 98 S. Ct. at 
+2036. Furthermore, a custom or practice may be 
+inferred where governmental officials act in deliberate 
+indifference in refusing to sanction an employee for 
+engaging in unconstitutional conduct. McRorie 
+v. 
+Shimoda, 795 F.2d 780 (9th Cir. 1986) (where plaintiff 
+alleged that he was deprived of his liberty rights by 
+prison guards, the appellate court overruled the dismissal 
+of prison wardens as defendants, finding that plaintiff 
+should have the opportunity to amend his complaint to 
+state that wardens were aware of and were deliberately 
+indifferent to the violations); accord Thompson 
+v. City of 
+Los Angeles, 885 F.2d 1439 (9th Cir. 1989). 
+In the present case, plaintiff has offered no 
+evidence that unreasonable searches are condoned by the 
+City of West Covina. Nor has plaintiff produced 
+evidence of a pattern of unreasonable searches. 
+Finally, 
+plaintiff has failed to offer evidence that the City policy- 
+making officials were aware of, but were deliberately 
+indifferent, to the officers’ conduct. 
+Accordingly, the Court must GRANT the City’s 
+motion for summary adjudication insofar as it seeks to 
+state a claim against the City for the police officers’ 
+search of plaintiffs’ residence. 
+Fail 
+Rel 
+Seized P 
+Plaintiffs’ claim against the City for failure to 
+return his property after the City discovered that it was 
+wrongfully seized presents a more difficult question. 
+The Court postpones ruling on this issue pending further 
+briefing by the parties. 
+Immediately after the seizure of the cash, Mr. 
+Perkins sought to get it back. No City official objected 
+to the return; in fact, Detective Ferrari instructed Mr. 
+Perkins to obtain a court order. 
+But, when Mr. Perkins 
+-B 5- 
+tried to obtain the . »urt order, he was told that he 
+needed a search waj.ant number or a case number. 
+Because the warra’ had been sealed, he claims he could 
+not obtain the warrant number; because no charges had 
+been fileu against Marsh, there was no case number. 
+In 
+other words, although no one openly objected to the 
+return of Mr. Perkin’s money, and although the City had 
+a "procedure" which Mr. Perkins could follow to get it 
+back, Mr. Perkins could not follow the procedure. 
+As the undisputed facts currently stand, it seems 
+unlikely that there is a Monell claim against the City for 
+the unlawful seizure of the property. As discussed 
+above, the City may only be held liable for the seizure if 
+plaintiff proves that the City has a custom or policy of 
+permitting such seizures, or that the officials v-2re 
+deliberately indifferent in failing to sanction the 
+individuals responsible for the unlawful seizure. 
+Plaintiff 
+has presented no evidence which would establish such a 
+practice. In fact, the evidence establishes that the City 
+of West Covina has an established procedure to remedy 
+unlawful seizures -- plaintiff may obtain a Court order 
+upon a showing that the property was seized without 
+probehle cause.’ 
+' 
+Although plaintiffs’ theory of Monell liability is 
+difficult to understand, plaintiff may be arguing that the 
+City’s failure to return plaintiffs’ property amounted to a 
+ratification of the unlawful seizure. 
+If this is plaintiffs’ 
+theory, the Court finds it dubious, for it shows nothing 
+more than an inefficient bureaucratic process. The mere 
+failure to timely return property seized without probable 
+cause is not tantamount to a policy which encourages 
+such seizure; and accordingly should not make the City 
+responsible for the officers’ Fourth Amendment 
+
+-B 6- 
+On the other hand, the Court does find that the 
+facts, as currently presented by plaintiff, may form the 
+basis of a Due Process challenge, a cause of action not 
+currently raised by plaintiff's complaint. The evidence 
+shows that the City had a procedure for the return of 
+unlawfully seized property; plaintiff needed only to 
+obtain a court order. 
+But, the City’s procedure for the 
+return of unlawfully seized property may be entirely 
+inadequate in practice -- plaintiff claims he could not 
+obtain the court order. The failure of a government 
+body to provide adequate procedures for the return of 
+unlawfully seized property may amount to a violation of 
+plaintiffs’ right to Procedural Due Process.? See e.g. 
+violations. 
+However, if this is plaintiffs’ t sory, and 
+plaintiffs have authority which supports the use of such a 
+theory in establishing liability under Monell, plaintiffs 
+should bring this to the Court's attention in further 
+briefing. 
+Notwithstanding the seal of the warrant, it would 
+seem that a procedure should exist for obtaining the 
+warrant number. 
+If such a procedure existed and made 
+available to plaintiff, and plaintiff simply failed to take 
+advantage of it, then it would seem inappropriate for 
+plaintiff to now claim that his right to procedural due 
+process has been violated. 
+The parties should discuss the existence of such a 
+procedure, and whether plaintiff could have followed 
+such a procedure to obtain the return of his cash. The 
+Court is aware that defendant has filed the supplemental 
+affidavit of Detective Ferrari in which Detective Ferrari 
+states that "to my knowledge” plaintiff could have 
+-B 7- 
+Matthews 
+v. Eldridge, 424 U.S. 319 (1976); Hudson 
+v. 
+Palmer, 104 S.Ct. 3194, 3204 (1984) (finding that 
+intentional deprivation of prisoners property did not 
+amount to deprivation of due process rights where there 
+was meaningful post-deprivation remedy). 
+In light of these observations, the parties should 
+submit further briefs addressing the following issues: 
+(1) 
+If plaintiffs intend to argue that the City is 
+liable for the officer’s Fourth Amendment violations on a 
+..vhell theory, plaintiff should further explain its basis 
+for arguing that the City has a policy or custom of 
+endorsing unlawful seizures. The parties should address 
+the following questions: What evidence establishes that 
+policy-making officials endorsed, ratified or were 
+deliberately indifferent to the allegedly unlaw seizure? 
+How can it be argued that the City’s policy regarding the 
+return of seized property amounts to a custom or practice 
+of encouraging unlawful seizure of property? 
+(2) If plaintiffs intend to amend the complaint to 
+include a Procedural Due Process challenge, plaintiff 
+should discuss whether, in the present circumstances, the 
+City’s policy for the return of seized property complied 
+with the requirements of the Due Process Clause. 
+The 
+parties should address the following questions: 
+In the 
+present circumstances, how could plaintiffs’ have 
+obtained timely return of their property? Did plaintiffs 
+have any means of discovering the proper means of 
+obtaining the timely return of their property? In light of 
+precedent, what procedure is mandated by the Due 
+Process Clause for ensuring the timely return of 
+unlawfully seized property? 
+obtained the number from the Court Clerk. 
+This 
+Statement is without adequate foundation. 
+
+-B 8- 
+Individual Defendants 
+ch Without 
+bable 
+i 
+The Court finds that, as a matter of law, the 
+magistrate had probable cause to issue the warrant for 
+the search of plaintiffs house. Furthermore, plaintiff has 
+produced no evidence that the officers failed to comply 
+with the knock-notice requirements. 
+Accordingly, the Court GRANTS defendants 
+motion for summary adjudication insofar as plaintiff 
+stated a claim for search without probable cause and 
+failure to comply with the knock notice requirements. 
+Unlawful Search 
+Plaintiffs have produced evidence that, in 
+searching plaintiffs’ residence, the individual defendants 
+destroyed numerous items including a clock radio, a 
+flight bag, a smoke detector, a pair of binoculars, a 
+swimming pool and a waterbed cabinet. 
+Plaintiff has 
+also produced receipts establishing that replacement of 
+the property would cost several hundred dollars. 
+The individual defendants, searched the residence 
+for guns and gang paraphernalia, have failed to offer any 
+explanation as to why destruction of plaintiffs’ property 
+was reasonable. 
+Instead, defendants argue that the 
+destruction was de minimis, and that, even if it were 
+substantial, it cannot be the basis of a constitutional 
+violation because it was, at worst, due to the negligence 
+of the officers. 
+Both arguments are spurious. 
+Defendants have failed to cited any Ninth Circuit 
+precedent for the proposition that there is a de minimis 
+exception to the Fourth Amendment. 
+Instead, defendants 
+have pointed to a case from the District of Alabama 
+which states that "unreasonable conduct in some 
+instances may not be actionable 
+. 
+. 
+. where injury is too 
+. 
+minor. 
+. ." Williams v. Alford, 647 F.Supp. 1386, 
+1390 n. 3 (M.D. Ala. 1986). The holding of Williams, 
+-B 9- 
+which involved a finding following a court trial rather 
+than a summary judgment, is inapposite to the present 
+case. Plaintiff claimed that the officers had unreasonably 
+destroyed his property. 
+The court, weighing the 
+evidence presented by plaintiff, found that he failed to 
+meet his burden of proof because he produced no 
+evidence of property damage other than "“conclussory 
+allegations." The Court expressly found: 
+Based upon the evidence, this Court finds that this 
+particular search was not unreasonable in light of 
+the fact that officers acted pursuant to a warrant, 
+nal 
+Ww 
+, and the door 
+to plaintiff's house was repaired. 
+Id. 1389 (emphasis added). 
+In the present case, plaintiff 
+has produced more than a "mere allegation" of damage 
+to personal property. 
+He has presented photographs as 
+well as receipts establishing significant damage. A trier 
+of fact may choose to reject that evidence, but the Court 
+cannot do so at this stage of the proceedings. 
+In short, reasonable trier of fact could conclude 
+that the destruction of plaintiffs’ property was 
+intentional, significant and entirely unrelated to the 
+officers’ search objectives. 
+Accordingly, summary 
+judgment is DENIED. 
+lawful 
+Seizure 
+Both parties have moved for summary judgment 
+in regards to the seizure of the cash and the starter 
+pistol. 
+Defendants argue that the seizure was legal under 
+the plain view doctrine: 
+not only did they have lawful 
+access to the cash, but they had probable cause to believe 
+that it was evidence of drug dealing. At the very least, 
+defendants argue, they should be granted qualified 
+immunity. 
+Plaintiffs, on the other hand, argue that no 
+
+-B 10- 
+reasonable officer could believe that he had probable 
+ceuse to seize the cash. 
+The Court disagrees with both positions. 
+Several 
+cases have upheld the seizure of cash as evidence of drug 
+dealing. See e.g., U.S. v. Garcia 983 F.2d 1160 (1st 
+Cir. 1993); U.S. v. Vargas, 945 F.2d 426 (1st Cir. 
+1991); U.S. v. Cooper, 942 F.2d 1200 (7th Cir. 1991); 
+U.S. v. Gordils, 982 F.2d 64 (2nd Cir. 1992). 
+However, all of these cases involved far greater sums of 
+money than the present case. More importantly, in all of 
+these the officers performing the search had discovered 
+drugs at the premises searched along with the cash. 
+In support of defendants’ argument for qualified 
+immunity, defendants add several facts which, defendants 
+argue, establish that a reasonable officer could have 
+believed that there was probable cause to seize the cash. 
+See Act UP!/Portland v. Bagley, 988 F.2d 868 (9th Cir. 
+1993). 
+Specifically, defendants claim that they found 
+evidence of drug dealing at McDuffy’s residence prior to 
+the search of plaintiff's residence and that they found 
+pagers and guns at plaintiffs residence 
+The Court cannot rely on these additional facts 
+for several reasons. 
+First, only very small amount of 
+drugs was seized at the McDuffy residence; and 
+defendants have presented no evidence which links this 
+finding to Marsh.’ Second, plaintiffs dispute the fact 
+that pagers were seized at their residence. 
+Third, 
+plaintiffs argue that the layout of their house was such 
+that a reasonable officer searching the house would have 
+> 
+Importantly, the search warrant was obtained after 
+the search of the McDuffy residence. 
+It was written in 
+very broad terms, but had no mention of drugs 
+whatsoever. 
+-B 11- 
+known that the cash belonged to them and had no 
+connection with Marsh. 
+The Court therefore postpones a ruling of 
+qualified immunity pending jury resolution of the 
+foregoing factual issues. Both plaintiffs’ and defendants’ 
+motions for summary adjudication are hereby DENIED 
+insofar as they apply to the allegedly unlawful seizure of 
+plaintiffs’ cash. 
+Conclusion 
+The City of West Covina’s motion for summary 
+adjudication is GRANTED insofar as plaintiffs have 
+stated a claim against the City for the unlawful search of 
+plaintiffs’ residence. The Court declines to presently 
+rule on the City’s motion insofar as plaintiff has stated a 
+claim for failure to return illegally seized property. The 
+parties should submit further briefs by May 23, 1994. 
+The individual defendants’ motion for summary 
+adjudication is GRANTED insofar as plaintiffs have 
+stated a claim for search without probable cause and 
+failure to comply with the knock-notice requirement. 
+The individual defendants’ motion for summary judgment 
+is DENIED insofar as plaintiffs have stated a claim for 
+unreasonable search and seizure. 
+Plaintiffs’ motion for summary judgment is 
+DENIED. 
+IT IS SO ORDERED. 
+DATED: May 9, 1994 
+/s/ 
+V. Wi 
+STEPHEN V. WILSON 
+UNITED STATES DISTRICT JUDGE 
+
+APPENDIX C 
+
+v. 
+THE CITY OF WEST COVINA, et al. 
+Defendants. 
+CV 93-7084 SVW (CTx) 
+JUDGMENT 
+1. 
+Based upon the speeial/s/svw 
+verdict of the 
+jury, dated 
+June 28, 1994, it is hereby ORDERED, 
+ADJUDGED, and DECREED that JUDGMENT BE 
+ENTERED in favor of defendants Nalian, Heieck, 
+Aldecoa, and O’Brien on all claims. 
+
+C2- 
+2. 
+Claims against the City of West Covina, 
+seeking to impose 42 USC § 1983 liability based upon 
+Monell v. 
+Department 
+of Social Services, 436 U.S. 658 
+(1978) were dismissed pursuant to this Court’s Order 
+dated July 1, 1994. 
+3. 
+Claims against all other individual 
+defendants, including Ferreri, Melnyk, and Schimanski, 
+were dismissed during trial, with prejudice. 
+IT IS SO ORDERED. 
+DATED:_August 2, 1994 
+/s/ 
+Stephen 
+V. Wilson 
+STEPHEN V. WILSON 
+JUDGE OF THE U.S. DISTRICT COURT 
+Prepared by: 
+Jeff Giordano 
+FRANSCELL, STRICKLAND, ROBERTS & 
+LAWRENCE 
+Attorneys for Defendanf 
+CITY OF WEST COVINA, DETECTIVE MICHAEL 
+FERRARI, DETECTIVE DAVID MELNYK, 
+DETECTIVE DAN NALIAN, DETECTIVE DARIO 
+ALDECOA, DETECTIVE JAMES O’BRIEN, 
+DETECTIVE WAYNE HEIECK and LT. JOHN 
+SCHIMANSKI 
+ee 
+eee 
+ee aA, 
+Pee 
+(SEAL 
+uatr? 
+
+APPENDIX D 
+
+-Di1- 
+NOT FOR PUBLICATION 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+FILED 
+April 30, 1996 
+U.S. Court of Appeals 
+By Cathy A. Catterson, Clerk 
+LAWRENCE PERKINS; CLARA PERKINS; APRIL 
+PERKINS, a minor, by and through her Guardian 
+ad 
+Litem, Lawrence Perkins, 
+Plaintiffs-Appellants, 
+v. 
+THE CITY OF WEST COVINA, et al. 
+Defendants-Appellants. 
+No. 94-56365 
+DC No. CV93-7084 SVW 
+ORDER 
+Before: CANBY, BOOCHEVER, and LEAVY, Circuit 
+Judges. 
+At the district court’s suggestion, Perkins filed 
+supplemental 
+briefing dated May 23, 1994, regarding his 
+claim that the city of West Covina violated 42 U.S.C. § 
+
+-D2- 
+1983 and due process by failing to provide a reasonable 
+procedure for the recovery of property seized pursuant to 
+a search warrant. 
+Defendants also filed supplemental 
+briefs on the issue. On June 9, Perkins filed an ex parte 
+motion to shorten time for hearing a motion to amend his 
+complaint to include the due process issue, or, in the 
+alternative, to include it in the pre-trial order. 
+Defendants filed an opposition. 
+On June 22, 1994, the first day of trial, the 
+district court ruled "the Due Process issue is bifurcated 
+and not part of this phase of trial." The court’s later 
+order, dated July 1, 1994, and filed July 6, 1994, 
+granted West Covina’s motion for summary judgment on 
+Perkins’ § 1983 claim that the city condoned unlawful 
+seizures of property. The court did not address, 
+however, the procedural due process claim. The final 
+judgment states that "Claims against the City of West 
+Covina, seeking to impose 42 U.S.C. § 1983 liability 
+based upon Monell v. 
+Department 
+of Social Services, 
+436 U.S. 658 (1978) were dismissed pursuant to this 
+Court’s order dated July 1, 1994." 
+We therefore remand to the district court for sixty 
+(60) days for clarification of the status of the bifurcated 
+claim that West Covina violated due process by failing to 
+provide adequate post-deprivation procedure for the 
+recovery of seized property. 
+For this purpose, the 
+district court is authorized to conduct such further 
+proceedings as it may deem necessary to determine the 
+status of the due process claim and, if the district court 
+deems it feasible during the limited remand, to decide it. 
+The district court is instructed, upon conclusion of its 
+proceedings within the time prescribed for this remand, 
+to advise this panel of the disposition of the due process 
+claim in question, or of the fact that it remains pending. 
+4. 
+Submission of this case is withdrawn pending 
+further order of the court. 
+
+APPENDIX E 
+
+———— 
+ee 
+~~ 
+-E 1- 
+UNITED STATES DISTRICT 
+COURT 
+CENTRAL DISTRICT OF CALIFORNIA 
+LAWRENCE PERKINS; CLARA PERKINS; APRIL 
+PERKINS, a minor by and through her Guardian ad 
+Litem, Lawrence Perkins, 
+Plaintiffs, 
+v. 
+THE CITY OF WEST COVINA, et al. 
+Defendants. 
+CV 93-7084 SVW 
+(9th Cir. No. 94-56365) 
+ORDER GRANTING DEFENDANTS’ MOTION FOR 
+SUMMARY JUDGMENT 
+
+-E 2- 
+On April 
+30, 1996, the Ninth Circuit remanded 
+this case to this Court for sixty days “for clarification of 
+the status of the bifurcated claim that West Covina 
+violated due process by failing to provide an adequate 
+post-deprivation 
+procedure for the recovery of seized 
+property.” The Ninth Circuit directed this Court to 
+"conduct such further proceedings as it may deem 
+necessary to determine the status of the due process 
+claim and, if the district court deems it feasible during 
+the limited remand, to decide it." 
+Accordingly, 
+the Court issued an Order stating 
+that such claim in fact was not resolved during the prior 
+proceedings, and the Court invited defendants to file a 
+motion to summary judgment to attempt to resolve the 
+claim during the limited remand. Defendants 
+filed such 
+a motion, plaintiffs filed a cross-motion 
+for summary 
+judgment, and a hearing was held on June 24, 1996. 
+The Court has considered the arguments made by the 
+parties and, for the following reasons, 
+grants defendants’ 
+motion and denies plaintiffs’ 
+motion. 
+I. 
+Background 
+The facts are as follows: 
+On May 21, 1993, 
+some property belonging to plaintiff Lawrence Perkins 
+("Perkins") was seized from his home by West Covina 
+police officers during a search pursuant to a warrant. 
+The seized property included a quantity of cash and a 
+gun. (Perkins was never prosecuted, and his property 
+was not introduced in evidence in the prosecution of the 
+individual whom the police had been after when they 
+searched Perkins’ home.) The police left a form called 
+"Search Warrant: Notice of Service” in Perkins’ home 
+after the search and seizure. 
+Def. Exh. 2. This notice 
+stated: 
+“If you wish further information, you may 
+contact Det. Ferrari" or another detective, and gave their 
+phone number. It also identified 
+the searching agency 
+-E 3- 
+(West Covina Police), gave the date of the warrant and 
+of the search (May 20, 1993 
+and May 21, 1993), and 
+identified the issuing court and judge (Dan Oki of the 
+Citrus Municipal Court). Shortly after discovering his 
+inquired about how to get his property back. Another 
+detective informed Perkins that he needed a court order. 
+Perkins 
+Depo. 205:22-206:1. 
+Then, about a month after the search, Perkins 
+went to the Citrus Municipal Court to try to get his 
+property back. Perkins Depo. 206:5-208:2. He 
+attempted to see Judge Oki, but was told that Oki was on 
+vacation. He then attempted to get another judge to 
+release his property, but was told the court had nothing 
+under 
+his name. Perkins did not submit any kind of 
+written request, fill out any form, go back to the court 
+on any other occasion, or make any other inquires in any 
+manner. 
+Id. 
+After this action had been pending for a few 
+months, the City filed a request for release of Perkins’ 
+property, which a superior court judge signed on June 
+21, 1994. Perkins received his property (except for a 
+starter pistol which the police retained because it had 
+been reported 
+stolen) on June 24, 1994. 
+II. 
+Discussion 
+Perkins contends that California law did not 
+provide him with an adequate means of obtaining the 
+return of the seized property. 
+If he is correct, 
+he wins. 
+If not, he loses. Wood y. 
+Ostrander, 
+879 F.2d 583, 588 
+(9th Cir. 1989) ("Parratt 
+v. Taylor, 451 U.S. at 541-44, 
+101 S. Ct. at 1916-17, and its progeny hold that a 
+deprivation of liberty or property is not cognizable under 
+§ 1983 when 
+a state’s post-deprivation remedies are 
+adequate to protect a victim’s procedural due process 
+rights.") The fact that procedures provided by state law 
+
+-E 4 
+might be lengthy or speculative, uncertain or incomplete, 
+does not mean they are inadequate under Parratt. Easter 
+House 
+v. Felder, 910 F.2d 1387, 1406 (7th Cir. 1990) 
+(en banc) (citing Hudson v. Palmer, 468 U.S. 533, 104 
+S. Ct 3194 (1984)).' This is a difficult 
+standard for a 
+plaintiff 
+to meet: state procedures 
+are constitutionally 
+adequate “unless the remedy which an injured party may 
+pursue in state court can readily be characterized as 
+inadequate to the point that it is meaningless or non- 
+existent and, thus, in no way can be said to provide the 
+due process relief guaranteed by the Fourteenth 
+Amendment." Id. at 1406. 
+Critical to this case is the rule that "[a] person 
+cannot state a claim for denial of procedural rights when 
+he has elected to forego a complete hearing." Correa 
+v. 
+Nampa School Dist. No. 131, 645 F.2d 814, 817 (9th 
+Cir. 1981); Riggins v. Bd. of Regents of Univ. of 
+Nebraska, 790 F.2d 707. 711 (8th Cir. 1986) ("A state 
+cannot be held to have violated due process requirements 
+when it has made procedural protection available and the 
+plaintiff has simply refused to avail himself of them 
+[sic]"); Weinrauch 
+v. Park City, 751 F.2d 357, 360 
+(10th Cir. 1984) ("Having ignored the available 
+procedures, [plaintiff] is in no position to argue that they 
+are unconstitutional"). The rationale behind this waiver 
+rule 
+is aptly illustrated 
+by this case: when 
+the plaintiff 
+doesn’t invoke the procedure, it is quite difficult for the 
+court to determine how the procedure works or doesn’t 
+work, and thus to rule on its adequacy. 
+' Plaintiffs argue that due process required that 
+Perkins be afforded a pre-deprivation hearing before his 
+property could be seized pursuant to the search warrant. 
+The Court rejects this contention. 
+-E 5- 
+Here, defendants 
+argue that a constitutionally 
+ee Cee eae cae derived from 
+Cal. Penal Code § 1536. That section provides: 
+All property or things taken on a warrant 
+must be retained by the officer in his 
+custody, subject to the order of the court 
+to which he is required to return the 
+proceedings 
+before him, or of any other 
+court in which the offense in respect to 
+which the property or things taken is 
+triable. 
+In light of this section, police officers are not permitted 
+to return seized property on their own. Rather, property 
+may be released only pursuant to a court order. Section 
+1536 has thus been held to allow claimants to request the 
+appropriate 
+court to release their property. Such a 
+request is known as a "non-statutory 
+summary 
+proceeding" or motion. See People v. Icenogle (Reiner), 
+164 Cal. App. 3d 620, 210 Cal. Rptr. 575 (Ct. App. 2 
+Dist. 1985).? 
+? Plaintiffs misread Icenogle. In that case, a former 
+criminal defendant was trying to get back $5680 seized 
+from 
+his home. Before he filed a § 1536 motion, 
+though, the police had given the money to the federal 
+authorities 
+and it had been forfeited. The trial court 
+ordered the police to return the seized cash or to pay 
+Icenogle the same amount in cash. The court 
+of appeal 
+reversed, holding that since the trial court no longer had 
+possession of the res, its order amounted to an award of 
+damages which was not authorized in a criminal 
+proceeding. 210 Cal. Rptr. 
+at 577. Plaintiffs 
+say that 
+the claimant in Icenogle was in the same position as 
+Perkins, and that Icenogle shows there is no procedure 
+
+-E 6- 
+Perkins argues that this prucedure was not 
+available to him because he did not know the number of 
+the warrant pursuant to which his property was seized. 
+Unfortunately for Perkins, there is no evidence either 
+way about whether one must have the warrant number in 
+order to obtain a court order releasing seized property. 
+Defendants assert that it is not necessary, that as long as 
+the claimant can sufficiently identify the property he 
+seeks (i.e., by providing the date of the warrant, the 
+name of the seizing agency and officer, and the identity 
+of the issuing court and judge, all of which information 
+was in Perkins’ possession), the court will release it. 
+Plaintiffs want the Court simply to assume that if Perkins 
+had filed a request with the court, it would have been 
+denied because he did not have the warrant number. 
+But 
+there is no evidence to support that speculation. 
+Hence the wisdom and necessity of the waiver 
+rule: plaintiff bears the burden of showing the procedure 
+to be inadequate, and if he does not invoke the 
+procedure, he significantly handicaps the Court’s ability 
+to determine its adequacy. The Court believes that the 
+waiver rule is fatal to plaintiffs’ claim. 
+available to get seized property back. 
+Plaintiffs are 
+mistaken. 
+In this case, the state trial court continued to 
+have jurisdiction to order the release of the property (as 
+evidenced by the fact that it did exactly that when the 
+City requested it to). The fact that the property was not 
+introduced into evidence or marked as an exhibit has 
+nothing whatever to do with whether the property 
+remained "subject to the order of the court" under 
+§ 1536. See id. ("this is not an instance where the 
+property at stake was in the possession of the court and 
+thus was subject to a motion for release"). 
+-E 7- 
+Perkins was told he needed a court order. He 
+was told which court and judge to go to. It is not 
+unreasonable to require him to submit some kind of 
+written request in an attempt to test the adequacy of the 
+procedure. Plaintiffs’ counsel says "Lawrence Perkins 
+tried desperately to get his property returned." Oppos. 
+at 2. But that is an egregious mischaracterization 
+of the 
+evidence. As defendants 
+say in their reply, "[t}he 
+evidence shows at most that the plaintiff made one trip to 
+the Municipal Court, was advised that there was no file 
+in his name and ceased any efforts to obtain an order 
+returning 
+his property. He filed nothing, 
+he made no 
+inquiry about the procedures... ." Reply 
+at 1. 
+Plaintiffs argue that Perkins’ failure to invoke that 
+§ 1536 procedure should be excused because he was not 
+given notice of it. But he was told that he had to get a 
+court order to get back his property, he was told what 
+court and what judge to go to, and he was given the date 
+of the warrant and of the search. The Court believes 
+that Perkins was given all of the information he needed 
+in order to submit an informal written request to the 
+court having jurisdiction over his property. The City’s 
+failure to give Perkins formal notice of the procedure did 
+not render that procedure "inadequate to the point that it 
+[wa]s mncaningieee or non-existent." Easter House, 
+Supra. 
+* Defendants also argue that state law provided two 
+additional adequate remedies: a writ of mandate 
+and an 
+action for conversion. 
+In view of the Court’s holding 
+that plaintiff 
+has failed to show that the § 1536 procedure 
+was constitutionally inadequate, the Court expresses no 
+opinion as to these other two alleged procedures. 
+
+-E 8- 
+Ill. 
+Conclusion 
+| 
+Even assuming arguendo that Perkins had no 
+means of obtaining the warrant number, the procedure 
+derived from § 1536 for release of property by court 
+order was not such a clearly inadequate remedy as to 
+excuse Perkins’ obligation to attempt it. Since he did not 
+do so, thus depriving the Court of the ability to evaluate 
+its adequacy, the Court holds that plaintiffs have failed to 
+prove that state law did not provide a constitutionally 
+adequate remedy for the return of seized property. The 
+Court therefore GRANTS defendants’ motion for 
+summary judgment dismissing plaintiffs’ procedural due 
+process claim, and DENIES plaintiffs’ cross-motion for 
+summary judgment on such claim. 
+In accordance with 
+the limited remand order, the Court will serve this Order 
+upon the Ninth Circuit panel hearing the appeal in this 
+action in order to advise it of the disposition of plaintiffs’ 
+procedural due process claim. 
+IT IS SO ORDERED. 
+DATED: 
+June 24, 1996 
+/s/ 
+V. Wi 
+STEPHEN V. WILSON 
+UNITED STATES DISTRICT JUDGE 
+
+APPENDIX F 
+
+es 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+LAWRENCE PERKINS; CLARA PERKINS; APRIL 
+PERKINS, a minor, by and through her Guardian ad 
+Litem, Lawrence Perkins, 
+Plaintiffs-Appellants, 
+v. 
+THE CITY OF WEST COVINA, et al. 
+Defendants-Appellants. 
+No. 94-56365 
+DC No. CV93-7084 SVW 
+ORDER 
+Before: CANBY, BOOCHEVER, and LEAVY, Circuit 
+Judges. 
+The panel, as constituted above, has unanimously 
+voted to deny the petition for rehearing. Judge Canby, 
+Boochever and Leavy, so recommended to vote to reject 
+the suggestion 
+for rehearing en banc. 
+
+-F2.- 
+The full court has been advised of the suggestion 
+for rehearing en banc. An active judge requested a vote 
+on whether to rehear the matter en banc. The matter 
+failed to receive a majority of the votes of the 
+nonrecused active judges in favor of en banc 
+consideration. 
+Fed. R. App. P. 35. 
+The petition for rehearing is denied and the 
+suggestion for rehearing en banc is rejected. 
+
+APPENDIX G 
+
+Gi1- 
+Fourteenth 
+Amendment of the United States 
+Constitution, Section 1 
+"All persons born or naturalized in the United States, and 
+subject to the jurisdiction thereof, are citizens of the 
+United States and of the State wherein they reside. No 
+State shall make or enforce any law which shall 
+the privileges or immunities of citizens of the United 
+States; nor shall any State deprive any person of life, 
+liberty, or property, without due process of law; nor 
+deny to any person within its jurisdiction the equal 
+protection 
+of the laws." 
+
+APPENDIX H 
+
+-H 1- 
+The Civil Rights Act of 1871, 42 U.S.C. § 1983, as 
+amended 
+by Act of Oct. 19, 1996, 110 Stat. 3853. 
+"Every person who, under color of any statute, 
+ordinance, regulation, custom, or usage, of any State or 
+Territory or the District of Columbia, subjects, or causes 
+to be subjected, any citizen of the United States or other 
+person within the jurisdiction thereof to the deprivation 
+of any rights, privileges, or immunities 
+secured by the 
+Constitution 
+and laws, shall be liable to the party injured 
+in an action 
+at law, suit 
+in equity, or other proper 
+proceeding for redress, except that in any action brought 
+against a judicial officer for an act or omission taken in 
+such officer’s judicial capacity, injunctive relief shall be 
+be granted unless a declaratory decree was violated or 
+declaratory 
+relief was unavailable. For the purposes 
+of 
+this section, any Act of Congress applicable exclusively 
+to the District of Columbia shall be considered to be a 
+statute of the District of Columbia." 
+
+ae 
+: 
+pare 
+——- 
+ee 
+oe 
+ee 
+oe 
+a 
+ee 
+
+rt 
+California 
+Penal Code section 1536 (West 1985) 
+"§ 1536. 
+Disposition 
+of property taken; retention 
+subject to order of court in which 
+offense triable 
+All property or things taken on a warrant must be 
+retained by the officer in his custody, subject to the order 
+of the court to which he is required to return the 
+proceedings before him, or of any other court in which 
+the offense in respect to which the property or things 
+taken 
+is triable." 
+
+APPENDIX J 
+
+e) 
+-J 1- 
+California Penal Code section 1540 (West 1985) 
+"§ 1540. 
+Restoration 
+of property; property not 
+described in warrant; no probable cause 
+PROPERTY, 
+WHEN TO BE RESTORED TO 
+PERSON FROM WHOM IT WAS TAKEN. If it 
+appears that the property taken is not the same as that 
+described in the warrant, or that there is no probable 
+cause for believing the existence of the grounds on which 
+the warrant was issued, the magistrate must cause it to be 
+restored to the person from whom it was taken." 

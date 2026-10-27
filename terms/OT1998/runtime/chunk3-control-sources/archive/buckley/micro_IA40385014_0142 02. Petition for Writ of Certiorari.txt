@@ -1,0 +1,5008 @@
+FILED 
+( 
+97 930 
+DE - 41997 
+No. 
+OFFICE 
+OF THE CLERK 
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1997 
+VICTORIA BUCKLEY, Colorado Secretary of State, 
+Petitioner, 
+vs. 
+AMERICAN CONSTITUTIONAL LAW 
+FOUNDATION, INC.; DAVID AITKEN; 
+JON BARAGA; CRAIG ELEY; JACK HAWKINS; 
+LONNIE HAYNES; ALDEN KAUTZ; and BILL ORR, 
+individually und as guardian of 
+WILLIAM DAVID ORR, 
+Respondents. 
+PETITION FOR WRIT OF CERTIORARI 
+to the United States Court of Appeals 
+for the Tenth Circuit 
+GALE A. NORTON* 
+Attorney General 
+MARTHA PHILLIPS ALLBRIGHT 
+Chief Deputy Attorney General 
+MAURICE G. KNAIZER 
+Deputy Attorney General 
+State Services Section 
+Attorneys for Petitioner 
+1525 Sherman Street, 5th Floor 
+Denver, Colorado 80203 
+Telephone: 
+(303) 866-5228 
+FAX: (303) 866-5671 
+*Counsel of Record 
+18 pP 
+
+QUESTION PRESENTED FOR REVIEW 
+Whether the State of Colorado may constitutionally 
+regulate the process of circulating initiative petitions by 
+requiring 
+that: 
+(1) petition circulators 
+who verify the 
+signatures of petition signers must be registered electors; (2) 
+petition circulators must wear identification badges; and (3) 
+proponents of an initiative must file reports disclosing the 
+amounts paid to circulators and the identity of petition circu- 
+lators. 
+
+TABLE OF CONTENTS 
+PAGE 
+QUESTION PRESENTED FOR REVIEW........ 
+i 
+PT 
+CoM SLUG ape cevactcecs 
+| 
+Meer 
+Eh eUP Eb 
+cscs ccc cece 
+2 
+CONSTITUTIONAL 
+AND 
+STATUTORY 
+PROVISIONS INVOLVED ............. 
+2 
+STATEMENT OF THE FACTS ............. 
+2 
+STATEMENT OF THE CASE .............. 
+4 
+REASONS FOR GRANTING THE PETITION .... 
+6 
+1. 
+REQUIRING CIRCULATORS TO BE 
+REGISTERED 
+ELECTORS 
+HAS 
+LITTLE, 
+IF ANY, EFFECT UPON 
+PROTECTED SPEECH. 
+......... 
+8 
+II. 
+DISCLOSURE OF THE IDENTITY, 
+STATUS AND AMOUNT PAID TO 
+CIRCULATORS IS CONSTITUTION- 
+i 
+Mia geen eee cceececs 
+12 
+
+TABLE OF AUTHORITIES 
+CASES 
+Arizonans for Official English v. Arizona, 
+520 U.S. __, 117 S. Ct. 1055, 
+gg 
+TR a SS 
+Bernbeck v. Moore, 126 F.3d 1114 
+RS 
+ES rer Wa 
+ar a 
+Buckley v. Valeo, 424 U.S. 1 (1976) 
+.... 
+Carrera Place, Lid. v. Arapahoe County 
+Board of Equalization, 761 P.2d 197, 
+PPG Us ccce 
+ee eaveaci 
+Dunn v. Blumstein, 405 U.S. 330 (1972) . . 
+Fishman v. Schaffer, 429 U.S. 1325 (1976) 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) 
+. 
+Grosjean v. American Press Co., 
+i PP 
+os peecscsese 
+Igneri v. Moore, 898 F.2d 870 
+ee 
+ob oa 
+b oid O00 
+Loonan v. Woodley, 882 P.2d 1380 
+ee 
+ic 
+ne os ae b% 
+© 
+Marsten v. Lewis, 410 U.S. 679 (1973) . 
+. 
+. 
+McIntyre v. Ohio Elections Comm'n, 
+yf 
+} l  Oa 
+PAGE 
+
+TABLE OF AUTHORITIES 
+CASES 
+PAGE 
+Meyer v. Grant, 486 U.S. 414 (1988) .......... 4.6 
+Minnesota State Ethical Practices Bd. v. 
+National Rifle Ass'n, 761 F.2d 509 
+I 
+a 
+a 
+les A 
+ea 
+a 12 
+Riley v. National Federation of the 
+Blind of North Carolina, 487 U.S. 
+WE 
+Cte dain 
+2 Oy O00 6-0 ere 4 0'0r  we 12 
+Romer v. Evans, 517 U.S. __, 
+116 S. Ct. 1620, 134 L. Ed. 855 (1996) ...... 
+8 
+Rosario v. Rockefeller, 
+Do 
+ony o' 44s kc wes bun és 10 
+Storer v. Brown, 415 U.S. 724 (1974) 
+.......... 
+7 
+Sugarman v. Dougall, 413 U.S. 634 (1973) ....... 10 
+Timmons v. Twin Cities Area New Party, 
+117 S. Ct. 1364, 137 L. Ed. 2d 589 
+ys 
+4's ve 
+0 wh 
+ee 
+0 OED 
+ee wh 
+d bw 
+7 
+CONSTITUTIONS 
+GO 
+ee 
+ae: 2,3 
+ey a OS | nc ow wb we 6 
+ee mS 
+Se, Gs Gs 
+Uk 
+oo SO Waloh eb eee eae 
+2 
+vi 
+TABLE OF AUTHORITIES 
+CONSTITUTIONS 
+PAGE 
+OE 
+Schnee 
+i wankeeveed es 1,2 
+ee GO GREE. Bee 6 
+EE OO 
+eS PH 
+l 
+STATUTES 
+ee es 
+EE 
+WW co ba Wh cle pie bita ces 
+2 
+NE: 
+6.0 nis 's.> cB 
+es CU LON Seb 
+ews 
+2 
+SET, BE 
+he's BOS EE 
+Hee 
+10 
+1913 Colo. Sess. Laws 310 ... 2... 
+eee eee 
+3 
+Colo. Rev. Stat. § 1-2-101 (1997) ............. 
+3 
+Colo. Rev. Stat. § 1-2-105(2) (1997) ........... 
+9 
+Colo. Rev. Stat. § 1-2-202 (1997) ............. 10 
+Colo. Rev. Stat. § 1-2-207 (1997) ............. 10 
+Colo. Rev. Stat. § 1-2-212 (1997) ............. 10 
+Colo. Rev. Stat. § 1-2-213 (1997) ............. 10 
+Colo. Rev. Stat. § 1-40-111(2) (1997). .......... 
+7 
+Colo. Rev. Stat. § 1-40-112 (1997) ........... 1,2 
+Colo. Rev. Stat. § 1-40-112(1) (1997). .......... 
+5 
+vii 
+
+TABLE OF AUTHORITIES 
+STATUTES 
+PAGE 
+Colo. Rev. Stat. § 1-40-112(2) (1997). ........., 4,5 
+Colo. Rev. Stat. § 1-40-121 (1997) ........... 1,2 
+Colo. Rev. Stat. § 1-40-121(1) (1997)... ......., 4,5 
+Colo. Rev. Stat. § 1-40-121(2) (1997) .......... 4,5 
+OTHER AUTHORITIES 
+David B. Magleby, "Let The Voters Decide? 
+An Assessment of the Initiative and 
+Referendum Process” 66 Colo. L. Rev. 
+Se 
+SO 
+oS 
+as wna 
+Ck ob 
+ah aed 
+6 
+Vili 
+No. 
+IN THE SUPREME COURT OF THE UNITED STATES 
+October Term, 1997 
+VICTORIA BUCKLEY, Colorado Secretary of State, 
+Petitioner, 
+vs. 
+AMERICAN CONSTITUTIONAL LAW 
+FOUNDATION, INC.; DAVID AITKEN; 
+JON BARAGA; CRAIG ELEY; JACK HAWKINS; 
+LONNIE HAYNES; ALDEN KAUTZ; and BILL ORR, 
+individually and as guardian of 
+WILLIAM DAVID ORR, 
+Respondents. 
+PETITION FOR WRIT OF CERTIORARI 
+to the United States Court of Appeals 
+for the Tenth Circuit 
+Victoria Buckley, Colorado Secretary of State, petitions 
+for a writ of certiorari to review the judgment of the Court 
+of Appeals for the Tenth Circuit in this case, holding 
+portions of Colo. Const. art. V, § 1(6), Colo. Rev’. Stat. 
+§ 1-40-112 (1997), and Colo. Rev. Stat. § 1-40-121 (1997) 
+unconstitutional 
+under the First and Fourteenth Amendments 
+to the United States Constitution. 
+OPINION BELOW 
+The opinion of the Tenth Circuit Court of Appeals is 
+reported at 120 F.3d 1092 (10th Cir. 1997) (Pet. App. A). 
+The District Court opinion is reported at 870 F. Supp. 995 
+(D. Colo. 1994) (Pet. App. B). 
+
+JURISDICTION 
+The jurisdiction of this Court is invoked pursuant to 28 
+U.S.C. §§ 1254(1) and 2101. 
+The opinion of the Tenth 
+Circuit Court of Appeals was issued on July 28, 1997 (Pet. 
+App. A-1). 
+A petition for rehearing and a suggestion for 
+rehearing en banc were filed on August 8, 1997. 
+The 
+petition and the suggestion were denied on September 8, 
+1997. 
+(Pet. App. C.) 
+CONSTITUTIONAL 
+AND 
+STATUTORY 
+PROVISIONS INVOLVED 
+U.S. Const. amend. I; Colo. Const. art. V, § 1(6); 
+Colo. Rev. Stat. § 1-40-112 (1997), and Colo. Rev. Stat. 
+§ 1-40-121 
+(1997). 
+The texts of these provisions are 
+included in Pet. App. D. 
+STATEMENT OF THE FACTS 
+In 1910, Colorado passed a constitutional amendment, 
+Colo. 
+Const. 
+art. 
+V, §1, authorizing 
+citizen-initiated 
+legislation. 
+The amendment provided that at least eight 
+percent of legal voters must sign a petition to propose a 
+measure; that each signer must be a qualified elector; that 
+each signer’s residence and the date of signing must be 
+included; and that each circulator must be a qualified elector. 
+A qualified elector was a person who was over the age of 
+twenty-one, was a citizen of the United States, and “resided 
+in the state twelve months immediately preceding the election 
+at which he offers to vote and in the county, city, town, 
+ward or precinct, such time as may be prescribed by law." 
+Colo. Const. art. VII, § 1, 1921 Compiled Laws of Colo- 
+rado. 
+A qualified elector was not required to register in 
+order to sign a petition. 
+In 1913, the Colorado General Assembly passed the 
+statute implementing the initiative process. 1913 Colo. Sess. 
+Laws 310. 
+It required that each petition contain a warning 
+that it is a felony for anyone to sign a petition under a false 
+name, knowingly to sign his or her name more than once for 
+the same measure, or to sign a petition when he or she was 
+not a qualified elector. 
+It also established a procedure by 
+which qualified electors could protest the determination that 
+the petition was insufficient. 
+Criminal penalties were 
+imposed for willful violation of the initiative code. 
+In 1980, the voters amended Colo. Const. art. V, § 1 in 
+two important respects. 
+First, the amendment required that 
+persons who sign and circulate a petition must be registered 
+electors, rather than qualified electors.' 
+As noted in the 
+comments from the General Assembly ballot analysis, the 
+amendment placed greater responsibility upon the circulator 
+to determine whether the individuals signing the petitions are 
+eligible to sign (Pet. App. E-9).* Second, the number of 
+signatures required to place a measure on the ballot was 
+reduced from 8% to 5% of the total votes cast for the Secre- 
+tary of State at the previous election. 
+The reduction in the 
+number of required signatures and the extension of the dead- 
+line to file petitions were designed to offset the requirement 
+that signers and circulators must be registered electors. (Pet. 
+App. E-10.) 
+'A person may be registered if he is eighteen years of age, is 
+a United States citizen, and has been a resident of Colorado for at 
+least 30 days prior to the election. 
+Colo. Rev. Stat. § 1-2-101 
+(1997). 
+*The General Assembly's ballot analysis provides important 
+insight into the public’s understanding of the amendment when it 
+was passed. 
+Carrera Place, Lid. v. Arapahoe County Board of 
+Equalization, 761 P.2d 197, 203 (Colo. 1988). 
+3 
+
+In 1988, 
+this Court declared 
+unconstitutional 
+the 
+prohibition against payment of petition circulators. Meyer v. 
+Grant, 486 U.S. 414 (1988). Subsequently, Colorado exper- 
+ienced a surge in the use of paid petition circulators and in 
+the number of complaints of abuses committed by circula- 
+tors. 
+(Pet. App. F-5.) In order to limit the possibility of 
+fraud and to enhance public confidence in the initiative 
+process, the Colorado General Assembly instituted two re- 
+forms. 
+First, the circulators must display identification 
+badges. 
+The badges disclose the name of each circulator, 
+the status as paid or volunteer circulators, and, if paid, the 
+name and telephone number of the person or entity employ- 
+ing the circulator. 
+Colo. Rev. Stat. § 1-40-112(2) (1997). 
+In addition, the proponents of a petition must sign and 
+file reports with the Secretary of State setting forth the 
+names of the proponents, the name, residential and business 
+address of each of the paid circulators, the name of the 
+proposed ballot measure for which petitions are being circu- 
+lated by paid circulators, and the amount of money paid and 
+owed to each paid circulator for petition circulation during 
+the month in question. 
+Colo. Rev. Stat. § 1-40-121(2) 
+(1997). A final report must identify circulators who were 
+paid. Colo. Rev. Stat. § 1-40-121(1) (1997). 
+STATEMENT OF THE CASE 
+The Respondents are, respectively, a public interest 
+organization, and individual Colorado residents. They chal- 
+lenge several procedures governing the circulation and 
+submission 
+of initiative 
+petitions. 
+In particular, 
+the 
+Respondents contested the disqualification of petitions circu- 
+lated by non-registered 
+voters’, 
+the disqualification of 
+petitions which are circulated by persons without badge 
+identification,’ the filing of monthly reports by proponents 
+of petitions which are circulated by paid circulators,’ and 
+the disclosure of the identity of circulators in the final 
+reports.° 
+The district court concluded that the requirement that 
+circulators must be registered electors 
+is constitutional, 
+holding that the existence and scope of the initiative and 
+referendum are dictated by the Colorado electorate. 
+"The 
+people are the source of the power and they may exercise 
+their sovereign authority to limit the scope of that power so 
+long as there is no discriminatory classification." (Pet. App. 
+B-22.) However, the district court declared unconstitutional 
+the requirement that each circulator wear a badge disclosing 
+the circulator’s name and status as paid or volunteer. 
+The 
+court concluded that the badge identification requirements 
+caused a decrease in the pool of available circulators, but did 
+not advance a compelling state interest. 
+(Pet. App. B-22.) 
+The district court also concluded that the required disclosures 
+of the name and business and residential address of each said 
+circulator was unconstitutional. 
+The District Court found 
+that "[wjhat is of interest is the payor, not the payees.” 
+(Pet. App. B-22-24.) 
+Finally, the district court concluded that the monthly 
+reporting requirement was unconstitutional because "(p)repa- 
+*See Colo. Const. art. V, § 1(6) and Colo. Rev. Stat. § 1-40- 
+112¢1) (1997). 
+*See Colo. Rev. Stat. § 1-40-112(2) (1997). 
+*See Colo. Rev. Stat. § 1-40-121(2) (1997). 
+*See Colo. Rev. Stat. § 1-40-121(1) 1997). 
+5 
+
+ration of monthly reports 
+is burdensome and involves 
+additional expense 
+to those supporting an initiative or 
+referendum petition.” (Pet. App. B-24.) 
+On appeal, the Tenth Circuit Court of Appeals affirmed 
+the district court's decision in all respects, except that it 
+further declared unconstitutional the requirement that a 
+circulator be a registered elector. 
+The Tenth Circuit ruled 
+that the requirement unconstitutionally bars persons who are 
+not registered voters from participating in core political 
+speech. 
+(Pet. App. A-29). 
+REASONS FOR GRANTING THE PETITION 
+The use of the initiative and referendum process has 
+grown considerably during the last two decades. 
+David B. 
+Magleby, “Let The Voters Decide? An Assessment of the 
+Initiative and Referendum Process" 66 Colo. L. Rev. 13, 26- 
+28 (1995).” 
+Indeed, this Court has recently reviewed 
+regulations affecting participation by citizens in the initiative 
+process. McIntyre v. Ohio Elections Comm'n, 514 U.S. 334 
+(1995); Meyer v. Grant, 486 U.S. 414 (1988). While these 
+cases have analyzed circumstances which directly and Clearly 
+impacted the free speech rights of circulators and other 
+participants in the initiative process, neither the permissible 
+extent of procedural restrictions, Fishman v. Schaffer, 429 
+U.S. 1325, 1326-28 (1976), nor the "larger circumstances” 
+under which a State may "require the speaker to disclose its 
+interest 
+by disclosing 
+its identity” 
+has been defined. 
+McIntyre v. Ohio Elections Comm'n, 514 U.S. at 358 
+(Ginsburg. J., concurring). 
+"Twenty-seven states have a form of the initiative and referen- 
+dum. Magleby, supra, at 22. 
+This Court has long recognized that the States may 
+exercise “substantial regulation of elections if they are to be 
+fair and honest and if some sort of order, rather than chaos, 
+is to accompany the democratic process". 
+Storer v. Brown, 
+415 U.S. 724, 730 (1974). 
+States have a strong interest in 
+protecting 
+the stability, 
+integrity and fairness 
+of their 
+political systems. Timmons v. Twin Cities Area New Party, 
+117 S. Ct. 1364, 1373, 1374, 137 L. Ed. 2d 589 (1997). 
+The Tenth Circuit Court of Appeals secognized that 
+petition circulators perform administrative functions on 
+behalf of the State of Colorado which may be regulated. To 
+enhance the process, Colorado may impose upon petition cir- 
+culators appropriate qualifications, including limits regarding 
+age, residency and citizenship. (Pet. App. A-29-30.) Colo- 
+rado may also demand that each circulator sign an oath at the 
+time that the circulator submits the petition. The oath may 
+include the circulator’s address. 
+(Pet. App. A-27-28). 
+In 
+addition, the identity of each circulator, including the circu- 
+lator’s address, is disclosed when the proponents submit the 
+petitions for verification by the Secretary. (Pet. App. A-34.) 
+The Respondents did not contest the statutory provision 
+which provides that the affidavit of the circulator of the 
+petition presented to the Secretary of State must include the 
+circulator’s name and residential address. 
+Colo. Rev. Stat. 
+§ 1-40-111(2) (1997). Despite acknowledging the important 
+ministerial role played by circulators, the Tenth Circuit 
+Court of Appeals ruled that Colorado may not require each 
+circulator to affirm his age, residency or citizenship by regis- 
+tering to vote prior to circulating petitions. 
+Moreover, 
+Colorado now may not require circulators or proponents to 
+disclose the identity of circulators prior to the time that 
+petitions are submitted. 
+The issue in this case is when, not whether, information 
+must be disclosed. Colorado maintains that the identity and 
+status of the circulator can be disclosed when the circulation 
+5 
+
+process begins. 
+The Tenth Circuit Court of Appeals con- 
+cluded that the circulator could not be identified until after 
+the petitions are submitted. 
+Initiatives are assuming a more prominent, and, in some 
+instances, a more contentious, role in American politics. Cf. 
+Arizonans for Official English v. Arizona, 520U.S. __, 117 
+S. Ct. 1055, 137 L. Ed. 170 (1977); Romer v. Evans, 517 
+U.S. __, 116 S. Ct. 1620, 134 L. Ed. 855 (1996). 
+This 
+case is important because the line between appropriate regu- 
+lation of the initiative process and prohibited regulation 
+directly affecting the discussion of political issues is unclear. 
+Thus, this case presents an opportunity to provide necessary 
+guidance so that States can develop procedures which will 
+ensure the integrity of the initiative process, while preserving 
+the right of free speech.° 
+I. 
+REQUIRING 
+CIRCULATORS 
+TO BE 
+REGISTERED ELECTORS HAS LITTLE, 
+IF ANY, EFFECT UPON PROTECTED 
+SPEECH. 
+The Tenth Circuit Court of Appeals recognized that 
+obtaining signatures is an integral part of placing a measure 
+on the ballot and that Colorado "has a strong, often compel- 
+ling, interest in preserving the integrity of its electoral 
+system.” (Pet. App. A-27). 
+The Tenth Circuit Court of 
+Appeals further acknowledged 
+that circulators play an 
+"important role" (Pet. App. A-27) in the process because 
+they are “entrusted with personal responsibility to prevent 
+irregularities in the petition process." (Pet. App. A-28). 
+‘The issue is not limited to Colorado. 
+Recently, the Eighth 
+Circuit Court of Appeals declared unconstitutional a Nebraska 
+statute under which a circulator must also be a registe.ed elector. 
+Bernbeck v. Moore, 126 F.3d 1114 (8th Cir. 1997). 
+Colorado may impose certain restrictions on circulators 
+to ensure that they will properly execute their election 
+functions. 
+Circulators must be eighteen years of age. 
+"(b)ecause maturity is reasonably related to Colorado's 
+interest in preserving the integrity of ballot issue elections. ° 
+Colorado could also impose a residency requirement. 
+(Pet. 
+App. A-29-30.) 
+Registration is litte more than an oath taken by a 
+qualified elector in which the circulator swears that he is 
+eighteen, a citizen of the United States and a resident of 
+Colorado. 
+Colo. Rev. Stat. § 1-2-105(2) (1997). 
+It is 
+minimal assurance that the circulators meet these unobjec- 
+tionable qualifications. However, the Tenth Circuit Court of 
+Appeals eviscerated 
+Colorado's 
+ability 
+to enforce 
+the 
+residency and age restrictions by eliminating the requirement 
+that circulators must be registered electors. 
+The Tenth 
+Circuit's conclusion is based on the erroneous assumption 
+that registration “bars persons who are not registered voters 
+from circulating petitions, excluding that group of persons 
+from participating in core political speech." (Pet. App. A-29) 
+(emphasis added). 
+The Tenth Circuit's analysis is flawed because it incor- 
+rectly assumes that the registration requirement creates an 
+insurmountable 
+barrier to the circulation of petitions. At the 
+time 
+of trial, approximately 1.9 million persons were regis- 
+tered io vote in Colorado; that is, they were 18 years of age, 
+a citizen of the United States and a resident of the State for 
+30 days (Pet. App. G-1). Registering 
+to vote is a simple 
+process which does not unduly limit the right to participate 
+in the election process or add to the qualifications needed to 
+participate 
+in the political process. 
+Marsten v. Lewis, 410 
+
+U.S. 679 (1973) (per curiam); Dunn v. Blumstein, 405 U.S. 
+330, 346 (1972).” 
+The registration requirement differs little from proce- 
+dures which the Court has deemed constitutional. 
+Rosario 
+v. Rockefeller, 410 U.S. 752 (1973). In Rosario, this Court 
+concluded that a time deadline imposed for registering to 
+vote in a party eri ary did not present a constitutional 
+impediment. 
+In particular, the Court noted that the voters 
+merely could take advantage of the available opportunities to 
+register. 
+/d. at 757. 
+Here the Tenth Circuit Court of Appeals disregarded the 
+voice of the people of the State of Colorado. The District 
+Court correctly noted that the Colorado electorate chose to 
+impose the registration, implicitly acknowledging that the 
+circulator assumes a public role which can be regulated. 
+This Court has long recognized “the authority 
+of the People 
+of the States to determine the qualifications of their most 
+important government officials," Gregory v. Ashcroft, 501 
+U.S. 452, 463 (1991), and reiterated that scrutiny “will not 
+be so demanding where we deal with matters resting firmly 
+within a state’s constitutional prerogative". 
+/d. at 469 
+(quoting Sugarman v. Dougall, 413 U.S. 634, 647 (1973)). 
+The Tenth Circuit's analysis ignored this Court’s mandate 
+et to the voters of Colo- 
+*At the time that Marsten and Dunn were decided, most 
+persons registered at the local clerk and recorder’s offices. 
+Recently, the Congress liberalized voting procedure so that 
+persons could register at any place where federal benefits are 
+obtained. 42 U.S.C. § 1973gg. In addition, Coloradans 
+are able 
+to register at the county clerk's office by affidavit, by federal 
+postcard, at branch offices, and at driver's license facilities. Colo. 
+Rev. Stat. §§ 1-2-202, -207, -212, and -213 (1997). 
+10 
+Il. DISCLOSURE 
+OF 
+THE 
+IDENTITY, 
+STATUS AND AMOUNT PAID TO CIR- 
+CULATORS IS CONSTITUTIONAL. 
+Both the district court and the Tenth Circuit declared 
+unconstitutional 
+the disclosure 
+of the identity of each 
+circulator prior to the filing of the petitions with the 
+Secretary of State, and of 
+the paid status of circulators. The 
+foundation of the Tenth Circuit's analysis is the assertion 
+that the “[cJirculating a petition is akin to distributing a 
+handbill." (Pet. App. A-35). The analogy must be rejected. 
+A petition is much more than a handbill. It is, in 
+essence, a preliminary ballot which determines whether a 
+measure has adequate support to qualify for the ballot at the 
+general election. Loonan v. Woodley, 
+882 P.2d 1380, 1386 
+(Colo. 1994). The circulator collects the votes and presents 
+them to Secretary of State to be validated and counted. The 
+signers depend upon the circulators to collect and submit the 
+signatures. The Tenth Circuit itself recognized 
+that “circu- 
+lators are, in effect, entrusted with personal responsibility to 
+prevent irregularities 
+in the petition process.” (Pet. App. A- 
+28.) The circulators 
+are fiduciaries for the petition signers. 
+Disclosing the circulator’s name and status as a paid or 
+volunteer circulator on a badge is not intrusive; it is neces- 
+sary. A signer should have easy access to the name of the 
+person who will be submitting the signer’s signature for 
+review. 
+Similarly, the monthly reports and the disclosure of the 
+paid status of circulators are also constitutionally 
+unobjec- 
+tionable. Given the circulator’s status as a guarantor of the 
+integrity of the process, both signers and members of the 
+public in general should be allowed to know whether, and 
+how much, circulators are being paid to advance an initia- 
+tive. 
+Such disclosure allows citizens insight into the 
+motivation of the individuals purporting to represent the 
+ll 
+
+voters, thereby increasing public confidence. 
+(Pet. App. B- 
+23.) By enhancing their ability to determine the source of 
+initial support for the measure, citizens 
+can assess whether 
+the measure has such significant grassroots support that 
+people are willing to volunteer their time.'® As this Court 
+has noted, "an informed public opinion is the most potent of 
+all restraints upon misgovernment." 
+Grosjean v. American 
+Press Co., 297 U.S. 233, 250 (1935). Cf. Riley v. National 
+Federation of the Blind of North Carolina, 487 U.S. 781, 
+800 n.11 (1988) (disclosure of identity and paid status consti- 
+tutional). 
+CONCLUSION 
+For the above-stated reasons, the Petition for Writ of 
+Certiorari should be granted. 
+GALE A. NORTON* 
+Attorney General 
+MARTHA PHILLIPS ALLBRIGHT 
+Chief Deputy Attorney General 
+“Disclosure requirements have been sustained in a number of 
+contexts, even when the strict scrutiny standard has been applied. 
+This Court has affirmed their use in candidate elections. Buckley 
+v. Valeo, 424 U.S. 1, 64 (1976). Minnesota requires the disclo- 
+sure of the name, address, occupation and place of business of 
+each person who contributes $100 or more for or against ballot 
+questions. Minnesota 
+State Ethical Practices Bd. v. National Rifle 
+Ass'n, 761 F.2d 509, 512 (8th Cir. 1985). New York requires 
+political party chairpersons to disclose certain financial assets. 
+Igneri v. Moore, 
+898 F.2d 870 (2d Cir. 1990). 
+12 
+MAURICE G. KNAIZER 
+Deputy Attorney General 
+State Services Section 
+Attorneys for Petitioner 
+1525 Sherman Street, Sth Floor 
+Denver, Colorado 80203 
+Telephone: 
+(303) 866-5228 
+FAX: (303) 866-5671 
+*Counsel of Record 
+13 
+
+APPENDIX A 
+120 F.3d 1092 
+97 CJ C.A.R. 1520 
+(Cite as; 120 F.3d 1092) 
+AMERICAN CONSTITUTIONAL LAW FOUNDATION, 
+INC.; David Aitken; Jon Baraga; Craig C. Eley; Jack 
+Hawkins; Lonnie Haynes; Alden Kautz; Bill Orr, 
+individually and as the Parent and Guardian of William 
+David Orr, 
+Plaintiffs-Appellants, 
+v. 
+Natalie MEYER, individually and as Secretary of State for 
+the State of Colorado; Douglas Brown, individually and as 
+Director of Legislative Legal Services for the State of 
+Colorado, 
+Defendants- Appellees. 
+AMERICAN CONSTITUTIONAL LAW FOUNDATION, 
+INC.; David Aitken; Jon Baraga; Craig C. Eley; Jack 
+Hawkins; Lonnie Haynes; Alden Kautz; William David 
+Orr; Bill Orr, individually and as the Parent and Guardian 
+of William David Orr, 
+Plaintiffs-Appellees, 
+v. 
+Natalie MEYER, individually and as Secretary of State for 
+the State of Colorado; Douglas Brown, individually and as 
+Director of Legislative 
+Legal Services for the State 
+of 
+Colorado, 
+A-l 
+
+Defendants-Appellants. 
+Nos. 94-1576, 94-1581. 
+United States Court of Appeals, 
+Tenth Circuit. 
+July 28, 1997. 
+Nonprofit public interest organization and individuals who 
+regularly participated in Colorado’s initiative and referendum 
+petition process brought § 1983 action against state officials, 
+challenging statutes regulating petition process. The United 
+States District Court for the District of Colorado, Richard P. 
+Matsch, Chief Judge, 870 F.Supp. 995, upheld certain sta- 
+tutes and struck others. 
+Parties cross-appealed. 
+The Court 
+of Appeals, Briscoe, Circuit Judge, held that: (1) Colorado 
+statute requiring initiative and referendum petition circulators 
+to be registered electors unconstitutionally impinged on free 
+expression; (2) Colorado statute requiring circulators for 
+initiative and referendum petitions to wear personal identi- 
+fication badges unconstitutionally infringed on circulators’ 
+First Amendment rights; and (3) provisions of Colorado 
+statute requiring disclosure of information regarding paid 
+circulators of initiative and referendum petitions violated 
+First Amendment. 
+Affirmed in part and reversed in part. 
+{1] STATUTES k343 
+361k343 
+Under Colorado system allowing citizens to place issues on 
+ballot by petition, general assembly has exclusive authority 
+to determine whether law is necessary for immediate preser- 
+vation of public peace, health, or safety, and thus whether 
+referendum is unavailable on that basis. 
+West’s C.R.S.A. 
+Const. Art. 5, § 1(2, 3). 
+[2] STATUTES k303 
+A-2 
+361k303 
+Under Cuolorado law, when general assembly attaches "safety 
+clause" to a law, referendum on that law is precluded, 
+although right of initiative remains. West's C.R.S.A. Const. 
+Art. 5, § 1(3). 
+{2] STATUTES k343 
+361k343 
+Under Colorado law, when general assembly attaches "safety 
+clause" to a law, referendum on that law is precluded, 
+although right of initiative remains. West's C.R.S.A. Const. 
+Art. 5, § 1(3). 
+[3] STATUTES k302 
+361k302 
+Colorado Constitution grants general assembly authority to 
+adopt legislation designed to prevent fraud, mistake, or other 
+abuses in petition process for initiative and referendum. 
+West’s C.R.S.A. Const. Arts. 5, 7, §§ 1(2), 11. 
+[3] STATUTES k342 
+361k342 
+Colorado Constitution grants general assembly authority to 
+adopt legislation designed to prevent fraud, mistake, or other 
+abuses in petition process for initiative and referendum. 
+West’s C.R.S.A. Const. Arts. 5, 7, §§ 1(2), 11. 
+[4] STATUTES k306 
+361k306 
+Under Colorado’s initiative and referendum process, petition 
+circulators 
+assume 
+personal 
+responsibility 
+to 
+prevent 
+irregularities in process. 
+West’s C.R.S.A. §§ 1-40-111(2), 
+1-40-132(1). 
+[4] STATUTES k346 
+361k346 
+
+Under Colorado's initiative and referendum process, petition 
+circulators 
+assume 
+personal 
+responsibility 
+to 
+prevent 
+irregularities in process. 
+West's C.R.S.A. §§ 1-40-111(2), 
+1-40-132(1). 
+[5] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Degree of scrutiny that Court of Appeals would apply in 
+reviewing manner in which Colorado regulated its initiative 
+and referendum petition process depended upon extent to 
+which challenged laws burdened challengers’ 
+First and 
+Fourteenth Amendment rights, notwithstanding challengers’ 
+claims that regulations were subject to exacting scrutiny on 
+ground that they significantly burdened political speech. 
+U.S.C.A. Const.Amends. 1, 14. 
+{5} CONSTITUTIONAL LAW k90.1(1.2) 
+92k90.1(1.2) 
+Degree of scrutiny that Court of Appeals would apply in 
+reviewing manner in which Colorado regulated it: initiative 
+and referendum petition process depended upon extent to 
+which challenged laws burdened challengers’ 
+First and 
+Fourteenth Amendment rights, notwithstanding challengers’ 
+claims that regulations were subject to exacting scrutiny on 
+ground that they significantly burdened political speech. 
+U.S.C.A. Const.Amends. 1, 14. 
+[5] CONSTITUTIONAL LAW k274.2(1) 
+92k274.2(1) 
+Degree of scrutiny that Court of Appeals would apply in 
+reviewing manner in which Colorado regulated its initiative 
+and referendum petition process depended upon extent to 
+which challenged laws burdened challengers’ 
+First and 
+Fourteenth Amendment rights, notwithstanding challengers’ 
+claims that regulations were subject to exacting scrutiny on 
+ground that they significantly burdened political speech. 
+U.S.C.A. Const.Amends. 1, 14. 
+A-4 
+[6] ELECTIONS k5 
+144k5 
+General rule is that states have power to regulate their 
+elections and access to their ballots. 
+[7] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Strict scrutiny was not warranted in review, under First 
+Amendment, of Colorado statute imposing six-month dead- 
+line for submission of initiative and referendum petitions, 
+given that deadline did not impose significant burden on 
+ability of organized proponents to place measure on ballot. 
+U.S.C.A. Const.Amend. 1; West's C.R.S.A. § 1-40-108(1). 
+[8] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Colorado statute requiring that initiative and referendum 
+petitions be filed six months after titles, submission clause, 
+and summary are fixed was reasonable, nondiscriminatory 
+ballot access regulation and did not violate First and Four- 
+teenth Amendments; reouirement did not significantly burden 
+ability of organized proponents to place measure on ballot, 
+and served state’s interests in preserving election integrity, 
+maintaining orderly ballot, and limiting voter confusion. 
+U.S.C.A. Const.Amends. 1, 14. 
+[8] CONSTITUTIONAL LAW k274.2(1) 
+92k274.2(1) 
+Colorado statute requiring that initiative and referendum 
+petitions be filed six months after titles, submission clause, 
+and summary are fixed was reasonable, nondiscriminatory 
+ballot access regulation and did not violate First and Four- 
+teenth Amendments; requirement did not significantly burden 
+ability of organized proponents to place measure on ballot, 
+and served state’s interests in preserving election integrity, 
+maintaining orderly ballot, and limiting voter confusion. 
+U.S.C.A. Const.Amends. 1, 14. 
+A-5 
+
+[8] STATUTES k302 
+361k302 
+Colorado statute requiring that initiative and referendum 
+petitions be filed six months after titles, submission clause, 
+and summary are fixed was reasonable, nondiscriminatory 
+ballot access regulation and did not violate First and Four- 
+teenth Amendments; requirement did not significantly burden 
+ability of organized proponents to place measure on ballot, 
+and served state’s interests in preserving election integrity, 
+maintaining orderly ballot, and limiting voter confusion. 
+U.S.C.A. Const.Amends. 1, 14. 
+[8] STATUTES k342 
+361k342 
+Colorado statute requiring that initiative and referendum 
+petitions be filed six months after titles, submission clause, 
+and summary are fixed was reasonable, nondiscriminatory 
+ballot access regulation and did not violate First and Four- 
+teenth Amendments; requirement did not significantly burden 
+ability of organized proponents to place measure on ballot, 
+and served state’s interests in preserving election integrity, 
+maintaining orderly ballot, and limiting voter confusion. 
+U.S.C.A. Const.Amends. 1, 14. 
+[9] CONSTITUTIONAL LAW k91 
+92k91 
+With regard to determination of whether state election law 
+violates 
+First and Fourteenth Amendment associational 
+rights, when burden on plaintiff's rights is not significant and 
+does not warrant strict scrutiny, state’s asserted regulatory 
+interests need only be sufficiently weighty to justify limi- 
+tation imposed on plaintiff's rights, and court’s inquiry does 
+not require elaborate, empirical verification of weightiness 
+of state’s asserted justifications. 
+U.S.C.A. Const.Amends. 
+1, 14. 
+[9] CONSTITUTIONAL LAW k274.1(2.1) 
+A-6 
+92k274.1(2.1) 
+With regard to determination of whether state election law 
+violates 
+First and Fourteenth Amendment associational 
+rights, when burden on plaintiff's rights is not significant and 
+does not warrant strict scrutiny, state's asserted regulatory 
+interests need only be sufficiently weighty to justify limi- 
+tation imposed on plaintiff's rights, and court’s inquiry does 
+not require elaborate, empirical verification of weightiness 
+of state's asserted justifications. 
+U.S.C.A. Const.Amends. 
+1, 14. 
+[10] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90. 1(1.2) 
+Strict scrutiny was 
+not warranted 
+in review of First 
+Amendment challenge to Colorado statute requiring initiative 
+and referendum petition circulators to execute affidavits 
+averring validity of collected signatures, given lack of 
+evidence in the record supporting challengers’ claim that 
+affidavit 
+requirement 
+significantly 
+burdened 
+political 
+expression by decreasing pool of available circulators. 
+U.S.C.A. Const. Amend. 1; West’s C.R.S.A. Const. Art. 
+5, § 1(6); West’s C.R.S.A. § 1-40-111(2). 
+[11] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90.1(1.2) 
+Colorado statute requiring initiative and referendum petition 
+circulators to execute affidavits averring validity of collected 
+signatures did not violate First Amendment, given responsi- 
+bility that circulators bore in ensuring integrity of elections 
+involving ballot issues and that affidavit requirement was 
+reasonable, 
+nondiscriminatory 
+restriction. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Const. Art. 5, § 1(6); 
+West’s C.R.S.A. §§ 1-40-111(2), 1-40-116(a). 
+{11] STATUTES k302 
+361k302 
+A-7 
+
+Colorado statute requiring initiative and referendum petition 
+circulators to execute affidavits averring validity of collected 
+signatures did not violate First Amendment, given responsi- 
+bility that circulators bore in ensuring integrity of elections 
+involving ballot issues and that affidavit requirement was 
+reasonable, 
+nondiscriminatory _ restriction. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Const. Art. 5, § 1(6); 
+West's C.R.S.A. §§ 1-40-111(2), 1-40-116(a). 
+{11] STATUTES k342 
+361k342 
+Colorado statute requiring initiative and referendum petition 
+circulators to execute affidavits averring validity of collected 
+signatures did not violate First Amendment, given responsi- 
+bility that circulators bore in ensuring integrity of elections 
+involving ballot issues and that affidavit requirement was 
+reasonable, 
+nondiscriminatory 
+restriction. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Const. Art. 5, § 1(6); 
+West's C.R.S.A. §§ 1-40-111(2), 1-40-116(a). 
+[12] ELECTIONS kS 
+144k5 
+State has strong, often compelling, interest in preserving 
+integrity of its electoral system. 
+[13] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Colorado statute requiring initiative and referendum petition 
+circulators to be registered electors was reviewable under 
+First Amendment, even though petition process was not right 
+guaranteed by Federal Constitution, inasmuch as Colorado's 
+choice 
+to reserve right did not leave state free to condition 
+its use by impermissible First Amendment activity; it was 
+irrelevant that restriction was based upon constitutional 
+provision enacted by petition. U.S.C.A. Const.Amend. 1; 
+West's C.R.S.A. § 1-40-112(1). 
+A-8 
+[14] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90.1(1.2) 
+Exacting scrutiny was warranted in First Amendment chal- 
+lenge to Colorado statute requiring initiative and referendum 
+petition circulators 
+to be registered 
+electors, 
+in that 
+registration requirement had discriminatory effect by barring 
+nonregistered 
+voters from circulating petitions, thereby 
+excluding that group of persons from participating in core 
+political speech, and limited number of voices to convey 
+proponent’s message, 
+restricting 
+audience 
+and making 
+collection 
+of required number of signatures 
+to place measure 
+on ballot less likely. 
+U.S.C.A. Const.Amend. |, West's 
+C.R.S.A. § 1-40-112(1). 
+[15] CONSTITUTIONAL LAW k213.1(1) 
+92k90(1) 
+Under equal protection analysis, classifications that impinge 
+upon exercise of fundamental right are subject to most exact- 
+ing scrutiny. U.S.C.A. Const.Amend. 14. 
+[16] CONSTITUTIONAL LAW k90(1) 
+92k90(1) 
+When statute allows some people to speak but not others, 
+principles of equal protection and free speech are inter- 
+twined. U.S.C.A. Const.Amends. |, 14. 
+[16] CONSTITUTIONAL LAW k225.1 
+92k225.1 
+When statute allows some people to speak but not others, 
+principles of equal protection and free speech are inter- 
+twined. U.S.C.A. Const.Amends. 1, 14. 
+[17] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90.1(1.2) 
+Colorado statute requiring initiative 
+and referendum petition 
+circulators to be registered electors was not narrowly tailored 
+to serve compelling state interest and thus unconstitutionally 
+A-9 
+
+impinged on free expression; state's asserted interest in 
+ensuring that circulators were residents so that regulatory 
+system could 
+be more easily policed could be more precisely 
+achieved by simply imposing residency requirement for 
+circulators. 
+U.S.C.A. Const.Amend. 1; West's C.R.S.A. 
+§ 1-40-112(1). 
+[17] STATUTES k302 
+361k302 
+Colorado statute requiring initiative and referendum petition 
+circulators to be registered electors was not narrowly tailored 
+to serve compelling state interest and thus unconstitutionally 
+impinged 
+on free expression; state's asserted interest in 
+ensuring that circulators were residents so that regulatory 
+system could be more easily policed could be more precisely 
+achieved by simply imposing residency requirement for 
+circulators. 
+U.S.C.A. Const.Amend. 1; West's C.R.S.A. 
+§ 1-40-112(1). 
+[17] STATUTES k342 
+361k342 
+Colorado 
+statute requiring initiative 
+and referendum petition 
+circulators to be registered electors was not narrowly tailored 
+to serve compelling state interest and thus unconstitutionally 
+impinged 
+on free expression; state’s asserted interest in 
+ensuring that circulators were residents so that regulatory 
+system could be more easily policed could be more precisely 
+achieved by simply imposing residency requirement for 
+circulators. 
+U.S.C.A. Const.Amend. 1; West's C.R.S.A. 
+§ 1-40-112(1). 
+[19] CONSTITUTIONAL LAW k82(2) 
+92k82(2) 
+Neither Fourteenth Amendment nor Bill of Rights is for 
+adults alone. U.S.C.A. Const.Amends. 1-10, 14. 
+[19] CONSTITUTIONAL LAW k210(1) 
+A-10 
+92k210(1) 
+Neither Fourteenth Amendment nor Bill of Rights is for 
+adults alone. U.S.C.A. Const.Amends. 1-10, 14. 
+[20] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+While political candidacy is not fundamental right, voting is. 
+[21] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90.1(1.2) 
+Maturity was reasonably related to Colorado's interest in 
+preserving integrity of ballot issue elections, and therefore 
+Colorado statute placing age restriction on circulators for 
+initiative and referendum 
+petitions was valid political speech 
+regulation 
+under 
+First 
+Amendment. 
+U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. § 1-40-112(1). 
+[21] STATUTES k302 
+361k30 
+Maturity was reasonably related to Colorado's interest in 
+preserving integrity of ballot issue elections, and therefore 
+Colorado statute placing age restriction on circulators for 
+initiative and referendum petitions was valid political speech 
+regulation 
+under 
+First 
+Amendment. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. § 1-40-112(1). 
+(21] STATUTES k342 
+361k342 
+Maturity was reasonably related to Colorado's interest in 
+preserving integrity of ballot issue elections, and therefore 
+Colorado statute placing age restriction on circulators for 
+initiative and referendum petitions was valid political speech 
+regulation 
+under 
+First 
+Amendment. 
+U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. § 1-40-112(1). 
+[22] CONSTITUTIONAL LAW k90. 1(1.2) 
+92k90. 1(1.2) 
+A-ll 
+
+Exacting scrutiny applied in review of First Amendment 
+challenge 
+to Colorado 
+statute 
+requiring circulators 
+for 
+initiative 
+and referendum 
+petitions 
+to wear 
+personal 
+identification 
+badges; 
+badge 
+requirement 
+could 
+chill 
+circulation and placed severe 
+restriction on 
+First and 
+Fourteenth Amendment rights. U.S.C.A. Const. Amends. 1, 
+14; West's C.R.S.A. § 1-40-112(2). 
+[22] CONSTITUTIONAL LAW k274.2(1) 
+92k274.2(1) 
+Exacting scrutiny applied in review of First Amendment 
+challenge to Colorado 
+statute requiring circulators 
+for 
+initiative 
+and 
+referendum 
+petitions 
+to wear 
+personal 
+identification 
+badges; 
+badge 
+requirement 
+could 
+chill 
+circulation and placed severe 
+restriction on First and 
+Fourteenth Amendment rights. U.S.C.A. Const. Amends. 1, 
+14; West's C.R.S.A. § 1-40-112(2). 
+[23] CONSTITUTIONAL LAW k90.1(1) 
+92k90. 1(1) 
+First Amendment affords broadest protection to political 
+expression to assure unfettered interchange of ideas for 
+bringing about of political and social changes desired by 
+people. U.S.C.A. Const.Amend. 1. 
+[24] CONSTITUTIONAL LAW k90.1(1.1) 
+92k90.1(1.1) 
+Petition circulation is core political expression for First 
+Amendment purposes. U.S.C.A. Const.Amend. 1. 
+[25] CONSTITUTIONAL LAW k90.1(1.2) 
+92k90. 1(1.2) 
+Colorado statute requiring circulators for initiative and 
+referendum 
+petitions to wear personal identification badges 
+unconstitutionally infringed on circulators’ First Amendment 
+rights; requirement imposed broad intrusion that discouraged 
+truthful, accurate speech by those unwilling to wear badge 
+A-12 
+and applied without regard to character or strength of 
+individual's interest in anonymity, and state had available 
+other means to combat circulation fraud that were more 
+narrowly 
+tailored 
+to 
+serve 
+its 
+interests. 
+U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. § 1-40-112(2). 
+[25] STATUTES k302 
+361k302 
+Colorado statute requiring circulators for initiative and 
+referendum 
+petitions to wear personal identification badges 
+unconstitutionally 
+infringed on circulators’ First Amendment 
+rights; requirement imposed broad intrusion that discouraged 
+truthful, accurate speech by those unwilling to wear badge 
+and applied without regard to character or strength of 
+individual's interest in anonymity, and state had available 
+other means to combat circulation fraud that were more 
+narrowly 
+tailored 
+to 
+serve 
+its 
+interests. 
+U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. § 1-40-112(2). 
+[25] STATUTES k342 
+361k342 
+Colorado statute requiring circulators for initiative and 
+referendum petitions to wear personal identification badges 
+unconstitutionally 
+infringed on circulators’ First Amendment 
+rights; requirement imposed broad intrusion that discouraged 
+truthful, accurate speech by those unwilling to wear badge 
+and applied without regard to character or strength of 
+individual's interest in anonymity, and state had available 
+other means to combat circulation fraud that were more 
+narrowly 
+tailored 
+to serve 
+its 
+interests. 
+U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. § 1-40-112(2). 
+[26] CONSTITUTIONAL LAW k90(1) 
+92k90(1) 
+First Amendment does not permit state to sacrifice speech 
+for efficiency. U.S.C.A. Const.Amend. 1. 
+A-13 
+
+[27] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Although 
+state has every right to take strong measures 
+to 
+prevent dishonest activities by petition circulators, state may 
+do so only by measures tailored to attack those problems 
+within clearly recognized areas. U.S.C.A. Const.Amend. 1. 
+[28] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Court of Appeals would apply exacting scrutiny to Colorado 
+Statute imposing disclosure requirements on paid circulators 
+of initiative and referendum petitions that was challenged as 
+violative of First Amendment. 
+U.S.C.A. Const.Amend. 1; 
+West's C.R.S.A. § 1-40-121. 
+[29] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Provisions of Colorado 
+statute 
+requiring disclosure of 
+information regarding paid circulators of initiative and 
+referendum 
+petitions, 
+including names, 
+addresses, 
+and 
+amount paid, and compelling detailed monthly disclosures 
+were not narrowly tailored to serve Colorado’s asserted 
+interests in enabling signers to determine whether there was 
+grassroots support for a measure and to discourage fraud, 
+and 
+therefore 
+violated 
+First Amendment. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Const. Art. 5, § 1(2, 3); 
+West's C.R.S.A. §§ 1-40-109(1), 1-40-110, 1-40-118, 1-40- 
+121(1, 2), 1-40-130 to 1-40-132. 
+[29] STATUTES k302 
+361k302 
+Provisions of Colorado 
+statute 
+requiring disclosure 
+of 
+information regarding paid circulators of initiative and 
+amount paid, and compelling detailed monthly disclosures 
+were not narrowly tailored to serve Colorado’s asserted 
+interests in enabling signers to determine whether there was 
+A-14 
+grassroots support for a measure and to discourage fraud, 
+and 
+therefore 
+violated 
+First Amendment. 
+ U.S.C.A. 
+Const.Amend. 1; West's C.R.S.A. Const. Art. 5, § 1(2, 3); 
+West's C.R.S.A. §§ 1-40-109(1), 1-40-110, 1-40-118, 1-40- 
+121(1, 2), 1-40-130 to 1-40-132. 
+[29] STATUTES k342 
+361k342 
+Provisions of Colorado 
+statute 
+requiring disclosure 
+of 
+information regarding paid circulators of initiative and 
+referendum 
+petitions, 
+including names, 
+addresses, 
+and 
+amount paid, and compelling detailed monthly disclosures 
+were not narrowly tailored to serve Colorado's asserted 
+interests 
+in enabling signers to determine whether there was 
+grassroots support for a measure and to discourage fraud, 
+and therefore 
+violated 
+First Amendment. 
+ U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Const. Art. 5, § 1(2, 3); 
+West's C.R.S.A. §§ 1-40-109(1), 1-40-110, 1-40-118, 1-40- 
+121(1, 2), 1-40-130 to 1-40-132. 
+[30] FEDERAL COURTS k613 
+170Bk613 
+Court of Appeals would not consider argument that statute 
+requiring 
+petition 
+circulators 
+to 
+sign 
+affidavits 
+was 
+unconstitutionally vague based on threat of civil penalty 
+when challengers failed to address civil penalty in opening 
+brief and did not appear to have raised issue before district 
+court. 
+[30] FEDERAL COURTS k915 
+170Bk915 
+Court of Appeals would not consider argument that statute 
+requiring 
+petition 
+circulators 
+to 
+sign 
+affidavits 
+was 
+unconstitutionally vague based on threat of civil penalty 
+when challengers failed to address civil penalty in opening 
+brief and did not appear to have raised issue before district 
+court. 
+A-15 
+
+[31] CONSTITUTIONAL LAW k274.2(1) 
+92k274.2(1) 
+Colorado statute requiring that circulators of initiative and 
+referendum petitions read and understand law governing 
+circulation was not unconstitutionally vague, in that statute, 
+as 
+interpreted by Colorado Supreme Court, 
+explicitly 
+endorsed lay circulator’s own interpretation of understanding 
+and did not invest law enforcement officers with sweeping, 
+unrestrained 
+discretion 
+in 
+enforcement. 
+U.S.C.A. 
+Const.Amend. 14; West's C.R.S.A. §§ 1-40-111(2), 1-40- 
+130(1). 
+[31] STATUTES k302 
+361k302 
+Colorado statute requiring that circulators of initiative and 
+referendum petitions read and understand iaw governing 
+circulation was not unconstitutionally vague, in that statute, 
+as 
+interpreted by Colorado Supreme Court, 
+explicitly 
+endorsed lay circulator’s own interpretation of understanding 
+and did not invest law enforcement officers with sweeping, 
+unrestrained 
+discretion 
+in 
+enforcement. 
+U.S.C.A. 
+Const.Amend. 14; West’s C.R.S.A. §§ 1-40-111(2), 1-40- 
+130(1). 
+[31] STATUTES k342 
+361k342 
+Colorado statute requiring that circulators of initiative and 
+referendum petitions read and understand law governing 
+circulation was not unconstitutionally vague, in that statute, 
+as 
+interpreted by Colorado Supreme Court, 
+explicitly 
+endorsed lay circulator’s own interpretation of understanding 
+and did not invest law enforcement officers with sweeping, 
+unrestrained 
+discretion 
+in 
+enforcement. 
+U.S.C.A. 
+Const.Amend. 14; West’s C.R.S.A. §§ 1-40-111(2), 1-40- 
+130(1). 
+[32] FEDERAL COURTS k386 
+A-16 
+170Bk386 
+In reviewing Colorado statute challenged as unconstitution- 
+ally vague, Court of Appeals had to read statute as it had 
+been interpreted by Colorado's highest court. 
+[33] CRIMINAL LAW k13.1(1) 
+110k13.1(1) 
+"“Vagueness doctrine” 
+requires that penal statute define 
+criminal offense with sufficient definiteness that ordinary 
+people can understand what conduct is prohibited and in 
+manner that does not encourage arbitrary and discriminatory 
+enforcement. U.S.C.A. Const.Amend. 14. See publication 
+Words and Phrases for other judicial constructions and 
+definitions. 
+[34] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Right to circulate initiative and referendum petitions is not 
+unenumerated 
+right 
+protected 
+by Ninth 
+Amendment. 
+U.S.C.A. Const.Amend. 9. 
+[35] CONSTITUTIONAL LAW k82(8) 
+92k82(8) 
+Colorado general assembly's attachment of safety clause to 
+Senate 
+bill regulating 
+state’s 
+initiative and referendum 
+petition process did not unconstitutionally restrict access to 
+ballot, even though it precluded referendum challenge to bill, 
+inasmuch as challengers remained free under initiative power 
+to 
+propose 
+any 
+measure 
+by 
+petition. 
+U.S.C.A. 
+Const.Amends. 
+1, 14; West’s C.R.S.A. Const. Art. 5, 
+§ 1(2). 
+[35] STATUTES k303 
+361k303 
+Colorado general assembly's attachment of safety clause to 
+Senate 
+bill regulating 
+state’s 
+initiative and referendum 
+petition process did not unconstitutionally restrict access to 
+A-17 
+
+ballot, even though it precluded referendum challenge to bill, 
+inasmuch as challengers remained free under initiative power 
+to 
+propose 
+any 
+measure 
+by 
+petition. 
+U.S.C.A. 
+Const.Amends. 
+1, 14; West's C.R.S.A. Const. Art. 5, 
+§ 1(2). 
+(35] STATUTES k343 
+361k343 
+Colorado general assembly's attachment of safety clause to 
+Senate 
+bill regulating 
+state’s 
+initiative and referendum 
+petition process did not unconstitutionally restrict access to 
+ballot, even though it precluded referendum challenge to bill, 
+inasmuch as challengers remained free under initiative power 
+to 
+propose 
+any 
+measure 
+by 
+petition. 
+U.S.C.A. 
+Const.Amends. 
+1, 14; West's C.R.S.A. Const. Art. 5, 
+§ 1(2). 
+*1095 Neil D. O'Toole, of Dallas, Holland, & O'Toole, 
+P.C., Denver, CO, for plaintiffs. 
+Bill Orr, Denver, CO, pro se. 
+Maurice G. Knaizer, Deputy Attorney General (Gale A. 
+Norton, Attorney General, with him on brief), Denver, CO, 
+for defendants. 
+Before BRISCOE, SETH [FN*], and LUCERO, Circuit 
+Judges. 
+FN* The late Honorable Oliver Seth, United States Senior 
+Circuit Judge, heard oral argument in this case but did not 
+participate in the final decision. 
+The practice of this court 
+permits the remaining two panel judges, if in agreement, to 
+act aS a quorum in resolving the appeal. 
+United States v. 
+Wiles, 106 F.3d 1516 (10th Cir. 1997). 
+*1096 BRISCOE, Circuit Judge. 
+A-18 
+Plaintiffs brought this 42 U.S.C. § 1983 action challenging 
+portions of Senate Bill 93-135, which regulates Colorado's 
+initiative and referendum petition process. 
+Plaintiffs argued 
+S.B. 93-135 imposed restrictions that violated their rights 
+under the First, Ninth, and Fourteenth Amendments to the 
+United States Constitution. 
+Plaintiffs appeal the district 
+court’s decision to uphold portions of S.B. 93-135, and 
+defendants appeal the court’s decision 
+to strike down 
+portions of $.B. 93-135. We agree with the district court's 
+decision in all regards, except for its ruling upholding the 
+requirement set forth in C.R.S.A. 
+1-40-112(1) that the 
+circulator be a registered elector. 
+We affirm in part and 
+reverse in part. 
+[1}{2] Colorado allows its citizens to place issues on the 
+ballot by petition. Colo. Const. art. V, § 1(1). The petition 
+process consists of the initiative and the referendum. Colo. 
+Const. art. V, § 1(2) & (3). A referendum is unavailable 
+with respect to laws “necessary for the immediate preser- 
+vation of the public peace, health, or safety." Colo. Const. 
+art. V, § 1(3). 
+Under the Colorado system, the general 
+assembly has exclusive authority to determine whether a law 
+is “necessary for the immediate preservation of the public 
+peace, health, or safety.” Van Kleeck v. Ramer, 62 Colo. 4, 
+156 P. 1108, 1110 (1916). Thus, when the general assembly 
+attaches a “safety clause” to a law, a referendum on the law 
+is precluded, although the right of initiative remains. 
+See 
+Cavanaugh v. Dept. of Social Services, 644 P.2d 1, 4n. 6 
+(1982). 
+[3] The Colorado Constitution grants the general assembly 
+the authority to adopt legislation “designed to prevent fraud, 
+mistake, or other abuses" in the petition process. Committee 
+for Better Health Care v. Meyer, 830 P.2d 884, 893 
+(Colo. 1992) (en banc) (citing Colo. Const. art. V, § 1(2), 
+A-19 
+
+which provides petitions shall be filed "in such form as may 
+be prescribed pursuant to law,” and Colo. Const. art. VII, 
+§ 11, which grants general authority to regulate elections and 
+elective franchise). 
+The manner in which petitions may be 
+circulated and by whom, and how they may be signed and 
+by whom are regulated by C.R.S.A. §§ 1-40-101 et seq. 
+(West Supp.1996). 
+Senate Bill 93-135 rearranged and 
+amended the article to "properly safeguard, protect, and 
+preserve inviolate” the people's initiative and referendum 
+power. C.R.S.A. § 1-40-101. 
+Prior to circulation, proponents of a ballot issue must submit 
+a draft petition to the directors of the legislative council and 
+the office of legal services 
+for review and comment. 
+C.R.S.A. § 1-40-105(1). 
+A public hearing is held within 
+two weeks of submission. 
+Id. Following the hearing, the 
+draft is presented to the title board, which prepares a title, 
+submission clause, and summary. 
+C.R.S.A. § 1-40-106. 
+The proponents then have six months to file the petition with 
+the Secretary of State. C.R.S.A. 1-40-108(1). 
+Unless the 
+petition contains the number of signatures required by the 
+Colorado Constitution, 
+it is of no effect when 
+filed. 
+C.R.S.A. § 1-40-109(1). 
+[4] Petition circulators 
+collect the signatures and sign 
+affidavits in which they aver, among other things, that each 
+signer was a registered elector and was not paid to sign the 
+petition. 
+C.R.S.A. § 1-40-111(2). 
+Circulators assume 
+personal 
+responsibility 
+to prevent 
+irregularities 
+in the 
+process. 
+Loonan 
+v. Woodley, 882 P.2d 1380, 
+1388 
+(Colo. 1994) (en banc). 
+If any circulator is found to have 
+violated any provision of the article, the section of the 
+petition circulated by that person “shall be deemed void.” 
+C.R.S.A. § 1-40-132(1). 
+Plaintiff American Constitutional Law Foundation, Inc., is 
+a non-profit, public-interest organization that supports direct 
+A-20 
+democracy. The remaining plaintiffs are various individuals 
+who, with the exception of William David Orr (a minor who 
+desires to circulate petitions regarding educational vouchers) 
+and Bill Orr (a qualified but unregistered elector), regularly 
+participate in the *1097 petition process as proponents and 
+circulators. 
+At the time of trial, Jon Baraga was circulating 
+the Colorado Hemp Initiative and was also the statewide 
+petition coordinator for the Hemp Initiative. 
+Along with several other plaintiffs, including American 
+Constitutional Law Foundation, Baraga sought to repeal S.B. 
+93-135 by referendum. 
+Plaintiffs had agreed to devote their 
+resources 
+in a joint effort, but the Secretary of State 
+informed them by letter that a referendum on S.B. 93-135 
+was precluded because it contained a safety clause. 
+Plaintiffs brought suit claiming various portions of Article 40 
+violated the First and Fourteenth Amendments by restricting 
+circulation to six months, requiring all circulators to sign an 
+affidavit, restricting the right to circulate by age and voter 
+registration, requiring all circulators to wear identification 
+badges, requiring proponents to disclose the names of all 
+paid circulators and the amounts they were paid, and attach- 
+ing a safety clause to S.B. 93-135. 
+They also asserted 
+vagueness and Ninth Amendment claims. 
+The court struck 
+down the badge requirement and portions of the disclosure 
+requirement after concluding they unduly burdened the First 
+and Fourteenth Amendments. The court rejected plaintiffs’ 
+remaining claims. 
+II. 
+[5] We turn to plaintiffs’ First Amendment issues. 
+Plaintiffs 
+argue the manner in which Colorado regulates the petition 
+process is subject to exacting scrutiny because it significantly 
+burdens political speech. 
+They rely heavily on Meyer v. 
+Grant, 486 U.S. 414, 108 S.Ct. 1886, 100 L.Ed.2d 425 
+A-21 
+
+(1988), in which proponents challenged a Colorado law mak- 
+ing it unlawful to pay any consideration for the circulation 
+of initiative or referendum petitions. Meyer acknowledged 
+"circulation of a petition involves the type of interactive 
+communication concerning political change that is appropri- 
+ately described as ‘core political speech.’ " Id. at 421-22, 
+108 S.Ct. at 1891-92. The Court applied exacting scrutiny 
+to strike down the challenged law, concluding it restricted 
+political expression by limiting the number of voices 
+conveying the proponents’ message and making it less likely 
+the proponents would gather the required number of signa- 
+tures to place their issue on the ballot. 
+Id. at 422-23, 108 
+S.Ct. at 1892-93. 
+Plaintiffs reason that because S.B. 93-135 restricts the 
+manner in which citizens may circulate petitions, the instant 
+case 
+is indistinguishable from Meyer. 
+They also cite 
+Citizens Against Rent Control v. City of Berkeley, 454 U.S. 
+290, 102 S.Ct. 434, 70 L.Ed.2d 492 (1981), First Nat. Bank 
+of Boston v. Bellotti, 435 U.S. 765, 98 S.Ct. 1407, 55 
+L.Ed.2d 707 (1978), and Buckley v. Valeo, 424 U.S. 1, 96 
+S.Ct. 612, 46 L.Ed.2d 659 (1976), as controlling authority. 
+Each case, including Meyer, involved restrictions on expen- 
+ditures to disseminate information on political issues. 
+No 
+such restrictions are involved here. 
+[6] A successful petition results in a question being submitted 
+to the voters. 
+Thus, the petition process is a ballot access 
+vehicle, as well as an avenue for political expression. 
+Unlike plaintiffs, we do not read Meyer to require that Colo- 
+rado maintain a petition process that, in essence, allows 
+unregulated access to the ballot. 
+Indeed, such a reading 
+would conflict with the general rule that states have the 
+power to regulate their elections and access to their ballots. 
+See, e.g., Timmons v. Twin Cities Area New Party, - 
+U.S. ----, ---- , 117 S.Ct. 1364, 1366, 137 L.Ed.2d 589 
+(1997) ( "States may enact reasonable regulations of parties, 
+A-22 
+elections, and ballots to reduce election-and campaign-related 
+disorder."); Storer v. Brown, 415 U.S. 724, 730, 94 S.Ct. 
+1274, 1279, 39 L.Ed.2d 714 (1974) (recognizing need for 
+substantial regulation of elections if they are to be fair, 
+honest, and orderly). 
+Cf. Tashjian v. Republican Party of 
+Connecticut, 479 U.S. 208, 217, 107 S.Ct. 544, 549, 93 
+L.Ed.2d 514 (1986) (explaining “the Constitution grants to 
+the States a broad power to prescribe the "Times, Places, and 
+Manner of holding Elections for Senators and Representa- 
+tives,’ Art. I, § 4, cl. 1, which power is matched by state 
+control over the election process for state offices”). 
+"Common sense, as well as constitutional law, compels the 
+conclusion that government must play an active role in 
+ing 
+elections." *1098 Burdick v. Takushi, 504 U S. 
+428, 433, 112 S.Ct. 2059, 2063, 119 L.Ed.2d 245 (1992). 
+The Supreme Court has upheld “generally-applicable and 
+evenhanded restrictions that protect the integrity of the 
+electoral process itself." Anderson v. Celebrezze, 460 U.S. 
+780, 788 n. 9, 103 S.Ct. 1564, 1570, 75 L.Ed.2d 547 
+(1983). 
+At least one other circuit has extended similar 
+deference to regulations governing initiative petitions. 
+See 
+Taxpayers United for Assessment Cuts v. Austin, 994 F.2d 
+291, 297 (6th Cir. 1993) (applying a more relaxed standard 
+to “nondiscriminatory, content-neutral limitations on the 
+[people's] ability to initiate legislation"); cf. Biddulph v. 
+Mortham, 89 F.3d 1491, 1501 n. 10 (11th Cir. 1996) (find- 
+ing balancing of state interest against voter burden used in 
+candidate-access cases not needed in initiative-access cases 
+in upholding state initiative regulations against challenges of 
+non-discriminatory burdensomeness). Colorado has a strong 
+interest in ensuring both candidate elections and ballot issues 
+are run fairly, efficiently, and honestly. 
+See Timmons, --- 
+U.S. at ----, 117 S.Ct. at 1357 ("States certainly have an 
+interest in protecting the integrity, fairness, and efficiency of 
+their ballots and election processes. "). 
+A-23 
+
+To subject every petition regulation to exacting scrutiny 
+would tie Colorado's hands in seeking to assure equitable 
+and efficient elections on ballot issues. Timmons discussed 
+a flexible standard for evaluating the constitutionality of laws 
+regulating the electoral process: 
+When deciding whether a state election law 
+violates First and Fourteenth Amendment asso- 
+ciational rights, this Court must weigh the 
+character and magnitude of the burden the 
+State's rule imposes on those rights against the 
+interests the State contends justify that burden, 
+and consider the extent to which the State's 
+concerns make the burden necessary. 
+Regu- 
+lations imposing severe 
+burdens must be 
+narrowly tailored and advance a compelling 
+state 
+interest. 
+Lesser burdens, 
+however, 
+trigger less exacting 
+review, and a State's 
+important regulatory interests will usually be 
+enough to justify reasonable, nondiscrimin- 
+atory restrictions. 
+--- 
+U.S. at ----, 
+117 S.Ct. 
+at 1366 (internal citations 
+omitted). 
+Thus, the rigorousness of our inquiry depends 
+upon the extent to which the challenged law burdens 
+plaintiffs’ First and Fourteenth Amendment rights. 
+Plaintiffs challenge five restrictions--(1) the C.R.S.A. § 1- 
+40- 108(1) requirement that proponents file a petition with the 
+secretary of state within six months of the date that the titles, 
+submission clause, and summary have been fixed; (2) the 
+C.R.S.A. § 1-40-111(2) requirement that circulators sign 
+affidavits averring, essentially, that they have complied with 
+Colorado law; (3) the C.R.S.A. § 1-40-112(1) restriction 
+allowing petitions to be circulated only by registered electors 
+at least eighteen years old; (4) the C.R.S.A. § 1-40-112(2) 
+requirement that all circulators wear badges identifying 
+A-24 
+themselves 
+by name and as either paid or volunteer; and (5) 
+the C.R.S.A. § 1-40-112(1) and (2) disclosure requirement 
+regarding paid circulators. 
+[7}(8}] C.R.S.A. § 1-40-108(1) provides, in part, that "[njo 
+petition for any ballot issue shall be of any effect unless filed 
+with the secretary of state within six months from the date 
+that the title, submission clause, and summary have been 
+fixed and determined.” The gist of plaintiffs’ argument is 
+that the six-month limit is arbitrary and excludes some 
+measures from being placed on the ballot. Defendants argue 
+the deadline is necessary to preserve an orderly ballot and, 
+in any Case, is not as onerous as other limits approved by the 
+Supreme Court, cf. American Party of Texas v. White, 415 
+U.S. 767, 786-87, 94 S.Ct. 1296, 1308-09, 39 L.Ed.2d 744 
+(1974) (upholding Texas law allowing access to ballot if 
+minor party candidate files petition within 55 days of general 
+primary election). 
+The six-month deadline is a neutral ballot access regulation. 
+By definition, 
+ballot access 
+restrictions 
+prevent 
+some 
+measures from being placed on the ballot. However, this 
+feature 
+is insufficient by itself to require strict scrutiny. Cf. 
+Burdick, 504 U.S. at 433, 112 S.Ct. at 2063 (noting "the 
+mere fact that a State’s system ‘creates barriers ... tending 
+to limit the field of candidates from which voters might 
+choose ... does not of itself compel close scrutiny’ "). The 
+court found, *1099 and the record indicates, that by planning 
+and proper preparation of the ballot, title proponents enjoy 
+ample time to circulate petitions. 
+[9] Although some measures might fare better under a longer 
+Or indeterminate period, the current deadline 
+is not a 
+significant burden on the ability of organized proponents to 
+place a measure on the ballot. 
+“[T]he State’s asserted 
+regulatory interests [need only be] ‘sufficiently weighty to 
+justify the limitation’ imposed on the [Plaintiffs’] rights." 
+A-25 
+
+Timmons, --- U.S. at ----, 117 S.Ct. at 1366. Our inquiry 
+does not require “[e]laborate, empirical verification of 
+weightiness” of the State’s asserted justifications. 
+Id. 
+Defendants 
+assert several interests: preserving 
+the integrity 
+of the state’s elections, maintaining an orderly ballot, and 
+limiting 
+voter confusion. The regulation 
+here advances these 
+interests by establishing a reasonable window in which 
+proponents must demonstrate support for their causes. The 
+six-month 
+deadline is a reasonable, nondiscriminatory ballot 
+access regulation; it does not offend the First and Fourteenth 
+Amendments. 
+{10} C.R.S.A. § 1-40-111(2) requires circulators to sign 
+specifically described affidavits and is “generally-applicable" 
+(Celebrezze, 460 U.S. at 788 n. 9, 103 S.Ct. at 1570 n. 9). 
+It provides: 
+To each petition section shall be attached a 
+signed, notarized, and dated affidavit executed 
+by the registered elector who circulated the 
+petition section, which shall include his or her 
+printed name, the address at which he or she 
+the city or town, the county, and the date he 
+or she signed the affidavit; that he or she has 
+read and understands 
+the laws governing the 
+circulation of petitions; that he or she was a 
+registered elector at the time the section of the 
+petition was circulated and signed by the listed 
+electors; that he or she circulated the section 
+of the petition: that each signature thereon was 
+affixed in the circulator’s presence; that each 
+signature thereon is the signature of the person 
+whose name it purports to be; that to the best 
+of the circulator’s knowledge and belief each 
+of the persons signing the petition section was, 
+at the time of signing, a registered elector; and 
+A-26 
+that he or she has not paid or will not in the 
+future pay and that he or she believes that no 
+other person has paid or will pay, directly 
+or 
+indirectly, any money or other thing of value 
+to any signer for the purpose of inducing or 
+causing such signer to affix his or her signa- 
+ture to the petition. 
+The secretary 
+of state 
+Shall not accept for filing any section of a 
+petition that does not have attached thereto the 
+notarized affidavit required by this section. 
+Any signature added to a section of a petition 
+after the affidavit has been executed shall be 
+invalid. 
+Section 1-40-111(2) is rooted in the Colorado Constitution, 
+which requires circulators to sign affidavits averring that the 
+signatures collected are valid. Colo. Const. art. V, § 1(6). 
+Plaintiffs argue § 1-40-111(2) is unduly burdensome and 
+unconstitutionally vague. We address their vagueness argu- 
+ment in part III of this opinion. There is little, if anything, 
+in the record to support plaintiffs’ claim that the affidavit 
+requirement [FN 
+1] significantly burdens political expression 
+by decreasing the pool of available circulators. 
+Hence, 
+exacting scrutiny is not required. 
+FN1. 
+We review here only the requirement that the 
+circulator execute the affidavit. We separately consider 
+and strike down the requirement reflected in the content 
+of the affidavit that the circulator be a registered 
+elector. 
+[11}{12] A state has a strong, often compelling, interest in 
+preserving 
+the integrity of its electoral 
+system. 
+See 
+Timmons, --- U.S. at ----, 117 $.Ct. at 1366. 
+Circulators 
+play an important role in ballot issue elections--they are 
+solely responsible for gathering the number and type of 
+signatures required to place an issue on the ballot. 
+Indeed, 
+A-27 
+
+as we have previously noted, circulators are, in effect, 
+entrusted with personal responsibility to prevent irregularities 
+in the petition process. 
+See Loonan, 882 P.2d at 1388; 
+Committee on Better Health Care, 830 P.2d at 894; 
+C.R.S.A. 
+§ 1-40-116(a). 
+The affidavits 
+“ensure that 
+circulators, who possess various degrees of interest in a 
+particular initiative, *1100 exercise special care to prevent 
+mistake, 
+fraud, 
+or abuse 
+in the process of obtaining 
+thousands 
+of signatures of only registered electors throughout 
+the state." Loonan, 882 P.2d at 1388-89. 
+Given the 
+responsibility circulators bear in ensuring the integrity of 
+elections involving ballot issues, and given the fact that the 
+affidavit requirement is a reasonable, nondiscriminatory 
+restriction, we conclude plaintiffs’ challenge fails. 
+[13] Section 1-40-112(1) prescribes who may circulate: "No 
+section of a peti*'on for any initiative or referendum measure 
+shall be circulated by any person who is not a registered 
+elector and at least eighteen years of age at the time the 
+section is circulated." The district court held 1-40-112(1) 
+was unreviewable because the petition process is not a right 
+granted by the United States patspomsae 
+pg od Pan 
+rejected that 
+, explaining even 
+g 
+initiativ> 
+oy wr 
+oc 
+gers is not guaranteed by the United 
+States Constitution, Colorado's choice to reserve it does not 
+leave the state free to condition its use by impermissible 
+restraints on First Amendment activity. 
+828 F.2d at 1456. 
+Cf. Taxpayers United for Assessment Cuts, 994 F.2d at 295 
+(concluding although federal Constitution does not require a 
+state to create initiative procedure, if it does, it cannot 
+impose restrictions 
+that violate Constitution); Henry v. 
+Connolly, 910 F.2d 1000, 1004 (Ist Cir.1990) (same). 
+Furthermore, it is irrelevant that the statutory restriction is 
+based upon a constitutional provision enacted by petition. 
+The voters may no more violate the United States Consti- 
+tution by enacting a ballot issue than the general assembly 
+A-28 
+may by enacting legislation. 
+Cf. Citizens Against Rent 
+Control, 454 U.S. at 295, 102 S.Ct. at 436. 
+[14][{15]{16) Plaintiffs argue, essentially, that 1-40-112(1) is 
+discriminatory. 
+Under an equal protection analysis, classi- 
+fications that impinge upon the exercise of a fundamental 
+right are subject to the most exacting scrutiny. 
+See, e.g., 
+Clark v. Jeter, 486 U.S. 456, 461, 108 S.Ct. 1910, 1914, 
+100 L.Ed.2d 465 (1988). 
+Plaintiffs do not bring an equal 
+protection claim; nevertheless, when a statute allows some 
+people to speak but not others, the principles of equal 
+protection and free speech are intertwined. 
+Rotunda & 
+Nowak, Treatise on Constitutional Law: Substance and Pro- 
+cedure 2d § 20.11, p. 48. Cf. Police Department of City of 
+Chicago v. Mosley, 408 U.S. 92, 94-95, 92 S.Ct. 2286, 
+2289-90, 33 L.Ed.2d 212 (1972). 
+The registration requirement has a discriminatory effect. 
+It 
+bars persons who are not registered voters from circulating 
+petitions, thereby excluding that group of persons from 
+participating in core political speech. See Meyer, 486 U.S. 
+at 421-22, 108 S.Ct. at 1891-92. 
+Colorado acknowledges 
+there are at least 400,000 qualified but unregistered voters in 
+the state. 
+The mandatory exclusion of unregistered circu- 
+lators also limits the number of voices to convey the 
+proponent’s message, limiting the audience the proponents 
+can reach and making it less likely they will be able to 
+gather the required number of signatures to place a measure 
+on the ballot. Cf. Meyer, 486 U.S. at 422-23, 108 S.Ct. at 
+1892-93. Consequently, we apply exacting scrutiny. 
+[17] Colorado fails to identify a compelling state interest to 
+which its registration requirement is narrowly tailored. The 
+State attempts to justify the registration requirement by 
+arguing it has a compelling interest in ensuring circulators 
+are residents so the regulatory system may be more easily 
+policed (the secretary's authority to issue subpoenas to 
+A-29 
+
+circulators does not extend beyond Colorado's borders) and 
+circulators who violate the law may be more easily prose- 
+cuted. Even if we assume the state's potentially compelling 
+interest in preserving the integrity of its elections requires all 
+circulators to be residents, a question we need not decide, 
+the registration requirement is not narrowly tailored to 
+ensure 
+that circulators are residents. 
+Clearly, a large 
+number of Colorado residents are not registered voters. The 
+state’s asserted interest could be more precisely achieved by 
+simply imposing a residency requirement for circulators. 
+Because Colorado's requirement that circulators be registered 
+voters is not narrowly tailored to a compelling state interest, 
+we find it unconstitutionally impinges on free expression and 
+reverse the district court. 
+*1101 [18][19]}[20}[21] Section 1-40-112(1) also places an 
+age restriction on circulation. We are mindful that "neither 
+the Fourteenth Amendment nor the Bill of Rights is for 
+adults alone.” In re Gault, 387 U.S. 1, 13, 87 S.Ct. 1428, 
+1436, 18 L.Ed.2d 527 (1967). We also recognize, however, 
+that age commonly is used as a proxy for maturity. 
+See, 
+e.g., U.S. Const. art I, § 2, P 2 (establishing age require- 
+ment for election to House of Representatives); § 3, P 3 
+(Senate); art. II, § 1, P 4 (President). 
+Cf. U.S. Const. 
+amend. XXVI (extending vote to eighteen-year-olds). 
+Not 
+surprisingly, Colorado places age restrictions on voting and 
+candidacy. 
+Colo. Const. 
+art. 5, §4 (establishing age 
+requirement for members of General Assembly); art. 7, § 1 
+(establishing age requirement for voters). While candidacy 
+is not a fundamental right, voting is. Cf. Burdick, 504 U.S. 
+at 433, 112 S.Ct. at 2063 (voting); Bullock v. Carter, 405 
+U.S. 134, 142-43, 92 S.Ct. 849, 855-56, 31 L.Ed.2d 92 
+(1972) (candidacy). 
+Subject to the Twenty-sixth Amend- 
+ment, it seems states generally may place an age requirement 
+on the right to vote without having to satisfy exacting 
+scrutiny. 
+Cf. Hill v. Stone, 421 U.S. 289, 297, 95 S.Ct. 
+1637, 1642, 44 L.Ed.2d 172 (1975) (examining challenge 
+A-30 
+unrelated to age). 
+Plaintiffs have not demonstrated that 
+persons under eighteen have a stronger interest in circulating 
+than they do in voting. 
+The age requirement is a neutral 
+restriction that imposes only a temporary disability--it does 
+not establish an absolute prohibition but merely postpones 
+the opportunity 
+to circulate. 
+Exacting scrutiny 
+is not 
+required. 
+Because maturity is reasonably related to Colo- 
+rado’s interest in preserving the integrity of ballot issue 
+elections, plaintiffs’ First Amendment challenge fails. 
+Cf. 
+Stiles v. Blunt, 912 F.2d 260, 267 (8th Cir. 1990) (maturity 
+and life experience significant factors in setting minimum 
+age for candidates), cert. denied 499 U.S. 919, 111 S.Ct. 
+1307, 113 L.Ed.2d 241 (1991). 
+[22] Section 1-40-112(2) requires each circulator to wear a 
+personal identification badge: 
+"(a) All circulators who are not to be paid for 
+circulating petitions concerning ballot issues 
+shall display 
+an 
+identification 
+badge 
+that 
+includes the words "VOLUNTEER CIRCU- 
+LATOR" in bold-faced type which is clearly 
+legible and the circulator’s name. 
+(b) All circulators who are to be paid for 
+circulating petitions concerning ballot issues 
+shall 
+display 
+an 
+identification 
+badge 
+that 
+includes the words "PAID CIRCULATOR" in 
+bold-faced type which is clearly legible, the 
+circulator’s name, and the name and telephone 
+number 
+of the 
+individual 
+employing 
+the 
+circulator." 
+A violation of 1-40-112(2) could result in the signatures 
+collected by a circulator being declared void, C.R.S.A. 1-40- 
+132, and possibly even criminal prosecution, C.R.S.A. 1-40- 
+130(2). The district court held that 1-40-112(2) infringes the 
+A-31 
+
+right to anonymous political expression and struck it down 
+in its entirety. 
+The court found the badge requirement 
+discourages people from circulating because people are 
+reluctant to wear badges, especially when they advocate 
+unpopular causes. 
+Defendants attempt to avoid exacting scrutiny. 
+First, they 
+argue the badge requirement has been upheld by the Supreme 
+Court, citing footnotes from Riley v. National Federation of 
+the Blind of North Carolina, 487 U.S. 781, 799 n. ll, 108 
+S.Ct. 2667, 2679, 101 L.Ed.2d 669 (1988), and Martin v. 
+City of Struthers, 319 U.S. 141, 148 n. 14, 63 S.Ct. 862, 
+865, 87 L.Ed. 1313 (1943). 
+Riley invalidated a North 
+Carolina law restricting the manner in which professional 
+fundraisers could solicit charitable contributions, and Martin 
+invalidated a city ordinance prohibiting knocking on the door 
+or ringing the doorbell of any residence for the purpose of 
+distributing literature. 
+Neither case addressed a law similar 
+to 1-40-112(2) and neither held that a state may condition 
+political expression on the wearing of an identification 
+badge. Further, the footnotes on which defendants rely are 
+dicta. 
+See, e.g. Riley, 487 U.S. at 803, 108 S.Ct at 2681 
+(Scalia, 
+J., concurring) 
+(noting footnote 
+11 addresses 
+situation not before Court). 
+{23}{24] Second, defendants argue exacting scrutiny 
+Is 
+unwarranted because there is no constitutionally protected 
+right to circulate anonymously. However, "[t}he First "1102 
+Amendment affords the broadest protection to ve political 
+expression in order ‘[t]o assure [the] unfettered interchange 
+of ideas for the bringing about of political and social changes 
+desired by the people.’” Buckley, 424 U.S. at 14, 96 S.Ct. 
+at 632 (quoting Roth v. United States, 354 U.S. 476, 484, 
+77 S.Ct. 1304, 1308, 1 L.Ed.2d 1498 (1957)). 
+It is also 
+clear that circulation is core political expression. 
+Meyer, 
+486 U.S. at 421-22, 108 S.Ct. at 1891-92. 
+The Supreme 
+Court has protected anonymous political expression and 
+A-32 
+association. 
+See, e.g., McIntyre v. Ohio Elections Com’n. 
+514 U.S. 334, 115 S.Ct. 1511, 131 L.Ed.2d 426 (1995) 
+(invalidating law restricting anonymous election-related hand 
+billing); Talley v. California. 362 U.S. 60, 63, 80 S.Ct. 
+536, 538, 4 L.Ed.2d 559 (1960) (invalidating law prohibiting 
+distribution of “any handbill 
+in any place under any 
+circumstances” unless it contains names and addresses of 
+those who prepared, distributed, or sponsored it); Bates v. 
+City of Little Rock, 361 U.S. 516, 80 S.Ct. 412, 4 L.Ed.2d 
+480 (1960) (striking down ordinance 
+that organization 
+disclose its membership list); NAACP v. Alabama, 357 U.S. 
+449, 78 S.Ct. 1163, 2 L.Ed.2d 1488 (1958) (overturning 
+civil contempt for failing to disclose membership list). The 
+Court protects anonymity because "fear of reprisal might 
+deter perfectly peaceful discussions of public matters of 
+importance.” Talley, 362 U.S. at 65, 80 S.Ct. at 539. As 
+the Court has explained, our nation’s tradition of anonymous 
+political expression "is perhaps best exemplified by the 
+secret ballot, the hard-won right to vote one’s conscience 
+without fear of retaliation.” McIntyre, 514 U.S. at 342, 115 
+S.Ct. at 1517. 
+On the other hand, the Court also has upheld disclosure 
+requirements that deprive some speakers of anonymity. 
+Buckley, 424 U.S. at 60-84, 96 S.Ct. at 654-65 (upholding 
+disclosure requirements of Federal Election Campaign Act 
+of 1971). 
+Cf. First Nat. Bank of Boston, 435 U.S. at 792 
+n. 32, 98 S.Ct. at 1424 n. 32 (noting source of corporate 
+political advertising may be required as means of disclosure). 
+Although exhaustive, the disclosures examined in Buckley 
+are not akin to the identification 
+badges at issue here. The 
+disclosures in Buckley were limited to candidate elections, 
+were triggered only where the speaker spent money, and 
+were further removed from the moment of speech. Even in 
+Buckley, however, the Court acknowledged that "significant 
+encroachments on First Amendment rights of the sort that 
+compelled disclosure imposes cannot be justified by a mere 
+A-33 
+
+showing of some legitimate governmental interest.” Buckley, 
+424 U.S. at 64, 96 S.Ct. at 656. Thus, the Court subjected 
+the disclosure requirements to exacting scrutiny. 
+Id. at 64- 
+69, 96 S.Ct. at 656-58. To the extent defendants attempt to 
+avoid 
+exacting 
+scrutiny, 
+their 
+second 
+argument 
+is 
+unpersuasive. 
+Third, defendants argue circulators have only a diminished 
+interest in anonymity because they sign affidavits that are 
+attached to the petition, which is available to the public. See 
+§ 1-40-118(1). 
+Information contained on an identification 
+badge is much more accessible than information attached to 
+a filed petition and, unlike the affidavit requirement, the 
+badge requirement forces circulators to reveal their identities 
+at the same time they deliver their political message. 
+The 
+badge requirement operates when the reaction to their mes- 
+sage may be the most intense, emotional, and unreasoned. 
+Thus, as opposed to the affidavit requirement, the badge 
+requirement deprives circulators of their anonymity at the 
+precise moment their interest in anonymity is greatest. The 
+record amply supports the court’s finding that the badge 
+requirement 
+chills 
+circulation. 
+It places 
+a "severe" 
+restriction 
+on 
+First and Fourteenth Amendment 
+rights 
+requiring exacting scrutiny. 
+{25](26}[27] Defendants argue the badge requirement serves 
+a compelling interest, aiding the state’s efforts to prevent 
+fraud by enabling the public to identify individuals who 
+make false or fraudulent statements while circulating. Thus, 
+defendants essentially argue the badges enable the state to 
+pursue more efficiently individuals who engage in miscon- 
+duct. 
+Although the state has a compelling interest 
+in 
+preserving the integrity of its elections (see, e.g., Eu v. San 
+Francisco Democratic Com., 489 U.S. 214, 231, 109 S.Ct. 
+1013, 1024, 103 L.Ed.2d 271 (1989)), "the First Amend- 
+ment does not permit the State to sacrifice speech for 
+efficiency” *1103 (Riley, 487 U.S. at 795, 108 S.Ct. at 
+A-34 
+a 
+ORG 
+BAP 
+A Ge 
+OOO 
+eS 
+Anan 
+PPh 
+er 
+Pr” 
+#2 
+FM 
+r 
+y 
+2676). Additionally, “the risk of fraud or corruption, or the 
+appearance thereof, is more remote at the petition stage of an 
+initiative than at the time of balloting." Meyer, 486 U.S. at 
+427, 108 S.Ct. at 1894. Therefore, "[a]lthough the State has 
+every right to take strong measures to prevent ... dishonest 
+activities by petition circulators, the State may do so only by 
+measures tailored to attack those problems within clearly 
+recognized areas permitted by the Supreme Court.” Grant, 
+828 F.2d at 1454. 
+Ohio claimed 
+the same 
+general 
+interest 
+in identifying 
+individual instances of misconduct in McIntyre, 514 U.S. 
+334, 115 S.Ct. 1511, 131 L.Ed.2d 426. 
+In McIntyre, the 
+petitioner challenged an Ohio law prohibiting, among other 
+things, distribution of any publication designed to promote 
+the adoption or defeat of a ballot issue unless the publication 
+contained the name of the person who was responsible for it. 
+The purpose of the law was to identify persons who distri- 
+buted materials containing false statements. 
+The Court 
+applied exacting scrutiny and invalidated the law because it 
+was not narrowly tailored to serve Ohio's asserted interest in 
+preventing fraud. 
+Circulating a petition is akin to distributing a handbill. 
+In 
+both instances, an individual identifies himself or herself 
+with a specific viewpoint by personally disseminating it. 
+Just as those who distribute handbills have a strong interest 
+in remaining anonymous, so do circulators. As the Supreme 
+Court has explained: 
+Anonymity is a shield from the tyranny of the 
+majority. 
+It thus exemplifies the purpose 
+behind the Bill of Rights, and of the First 
+Amendment in particular: to protect unpopular 
+individuals from retaliation--and their ideas 
+from suppression--at the hand of an intolerant 
+society. The right to remain anonymous may 
+A-35 
+
+be abused when it shields fraudulent conduct. 
+But political speech by its nature will some- 
+times have unpalatable consequences, and, in 
+general, our society accords greater weight to 
+the value of free speech than to the dangers of 
+its misuse. 
+McIntyre, 514 U.S. at 356, 115 S.Ct. at 1524 (internai 
+citation omitted). 
+Defendants argue the badge requirement is the type of 
+"limited 
+identification requirement" 
+MclIntyre suggested 
+might be constitutional. Defendants rely on Buckley, which 
+upheld compelled disclosure of certain expenditures and their 
+uses in candidate elections. Requiring circulators to identify 
+themselves against their will is more intrusive than simply 
+disclosing an expenditure. 
+Whereas contributing to a 
+campaign is only a generalized demonstration of support, 
+circulating a petition, and the advocacy it entails, more 
+clearly identifies the circulator with the precisely defined 
+point of view he or she is personally encouraging others to 
+support. 
+Spending money to advance an unpopular view- 
+point is a more detached form of support and is less likely 
+to precipitate retaliation than circulating a petition. 
+Cf. 
+McIntyre, 514 U.S. at 354, 115 S.Ct. at 1523 (distinguishing 
+expenditure from distributing handbill). 
+As previously noted, defendants argue the badge requirement 
+is necessary to enable the state to identify and punish fraud. 
+Section 1-40-112(2) is not narrowly tailored to serve the 
+state’s asserted 
+interest. 
+Conditioning circulation upon 
+wearing 
+an identification badge 
+is a broad 
+intrusion, 
+discouraging truthful, accurate speech by those unwilling to 
+wear a badge, and applying regardless of the character or 
+strength of an individual's interest in anonymity. Addition- 
+ally, the badges are but one part of the state’s comprehensive 
+scheme to combat circulation fraud. 
+Article 40 provides 
+A-36 
+other tools that are much more narrowly tailored to serve the 
+State's interest. 
+See C.R.S.A. 
+§§ 1-40-130, 
+1-40-131 
+(criminalizing 
+certain 
+conduct); 
+1-40-132 
+(authorizing 
+secretary of state to void a petition). 
+See also C.R.S.A. 
+§§ 1-40-110 (requiring every page to contain a warning to 
+potential signers); 1-40-118 (providing for written protest). 
+Although requiring circulators to wear identification badges 
+may enhance the state’s ability to impose other penalties, it 
+does not follow, and it is unestablished, that the badges are 
+a necessary component of the state's arsenal. Cf. Burson v. 
+Freeman, 504 U.S. 191, 199, 112 S.Ct. 1846, 1851, 119 
+L.Ed.2d 5 (1992) (explaining that “[t]o survive strict scru- 
+tiny ... a State *1104 must do more than assert a compelling 
+state interest--it must demonstrate that its law is necessary to 
+serve the asserted interest"). 
+Because we find the badge requirement unconstitutionally 
+infringes on circulators’ 
+First Amendment rights by its 
+identification requirements, and because plaintiffs’ arguments 
+and evidence focus entirely on this element of the badge 
+requirement, we express no opinion regarding whether the 
+additional requirements that the badge disclose whether the 
+circulator is paid or a volunteer, and if paid, by whom, 
+would pass constitutional muster standing alone. 
+[28}[29] Section 1-40-121 places disclosure requirements on 
+paid circulators and is “generally-applicable" (Celebrezze, 
+460 U.S. at 788 n. 9, 103 S.Ct. at 1570 n. 9). It provides 
+as follows: 
+(1) The proponents of the petition shall file 
+with the official who receives filings under the 
+"Campaign Reform Act of 1974", article 45 of 
+this title, for the election the name, address, 
+and county of voter registration of all circu- 
+lators who were paid to circulate any section 
+of the petition, the amount paid per signature, 
+A-37 
+
+and the total amount paid to each circulator. 
+The filing shall be made at the same time the 
+petition is filed with the secretary of state. 
+Any payment 
+made to circulators is an expen- 
+diture under article 45 of this title. 
+(2) The proponents of the petition shall sign 
+and file monthly reports with the secretary of 
+state, due ten days after the last day of each 
+month in which petitions are circulated on 
+behalf of the proponents by paid circulators. 
+Monthly reports shall set forth the following: 
+(a) The names of the proponents; 
+(b) The name and the residential and business 
+addresses 
+of each of the paid circulators; 
+(c) The name of the proposed ballot measure 
+for which petitions are being circulated by 
+paid circulators; 
+and 
+(d) The amount of money paid and owed to 
+each paid circulator for petition circulation 
+during the month in question. 
+The court invalidated 1-40-121(1) 
+to the extent it Loaner 
+proponents 
+of a petition 
+to provide “the name, address, 
+Seay of vette tatheneatien of Gh Candas wn Guan gal 
+to circulate any section of the petition" in reporting the 
+amounts 
+paid to circulators. 
+The court invalidated 1-40- 
+121(2) in its entirety. 
+We apply exacting scrutiny. 
+See 
+Buckley, 424 U.S. at 64, 96 S.Ct. at 656. 
+Section 1-40-121 is a broad disclosure provision. It compels 
+disclosure of the name of a paid circulator regardless of the 
+amount he or she received to circulate. The State analogizes 
+A-38 
+1-40-121 to the Federal Election Campaign Act of 1971 dis- 
+closure provision upheld in Buckley. Buckley acknowledged 
+that “compelled disclosure, in itself, can seriously infringe 
+on privacy of association and belief guaranteed by the First 
+Amendment.” Id. at 64, 96 S.Ct. at 656. However, Buckley 
+identified three interests “sufficiently important to outweigh" 
+the infringement on the “privacy of association and belief 
+guaranteed by the First Amendment." Id. at 64, 96 S.Ct. at 
+656. 
+First, campaign finance disclosure informs voters of 
+the candidate's place in the political spectrum and alerts 
+them “to the interests to which a candidate is most likely to 
+be responsive.” Id. at 67, 96 S.Ct. at 657. 
+Second, “dis- 
+closure requirements deter actual corruption and avoid the 
+appearance of corruption." Id. Third, "disclosure require- 
+ments are an essential means of gathering the data necessary 
+to detect violations of the contribution limitations." Id. at 68, 
+96 S.Ct. at 658. 
+Unlike 
+the statute in Buckley, 1-40-121 imposes 
+no monetary 
+threshold—a circulator must be identified by name and 
+address regardless of whether he or she received 10 cents 
+or 
+$10,000. 
+Cf. Brown v. Socialist Workers '74 Campaign 
+Committee, 459 U.S. 87, 93, 103 S.Ct. 416, 420, 74 
+L.Ed.2d 250 (1982). 
+The statutes at issue in Buckley and 
+Brown are dissimilar from 1-40-121 for another reason--they 
+regulate candidate elections but 1-40-121 does not. 
+Cf. 
+Brown, 459 U.S. at 89 n. 2, 103 S.Ct. at 419 n. 2 and 
+Buckley, 424 U.S. at 63, 96 S.Ct. at 655 with C.R.S.A § 1- 
+40-121. Section 1-40-121 applies only to the circulation of 
+initiative and referendum petitions. None 
+of the three 
+interests the Court found sufficient in Buckley are relevant 
+here. The first and third *1105 are inapplicable because 1- 
+40-121 addresses expenditures, 
+not contributions. 
+The 
+second is inapplicable 
+because “quid pro quo” concerns 
+are 
+not present here. Cf. Bellotti, 435 U.S. at 790, 98 S.Ct. at 
+1423 (explaining “[rjeferenda are held on issues, not on 
+candidates 
+for public office. 
+The risk of corruption 
+A-39 
+
+perceived in cases involving candidate elections ... simply is 
+not present in a popular vote on a public issue."). 
+Defendants’ attempts to analogize 1-40-121 to Buckley are 
+unpersuasive. 
+Defendants argue 1-40-121 survives even exacting scrutiny 
+because 
+it is necessary 
+to enable signers to determine 
+whether there is “grassroots” support 
+for a measure and to 
+discourage fraud. 
+Neither 1-40-121(1) nor 1-40-121(2) is 
+narrowly tailored to serve these interests. 
+The court struck down 1-40-121(1) to the extent it compels 
+disclosure of information specific to each paid circulator. 
+Much like requiring identification badges, compelling the 
+disclosure of the identities of every paid circulator chills paid 
+circulation, a constitutionally protected exercise. 
+Although 
+the fact that disclosure is made at the time the proponents 
+file the petition lessens the burden of the disclosure, the law 
+fails exacting scrutiny because the interests asserted by the 
+state either already are or can be protected by less intrusive 
+measures. 
+Cf. Grant, 828 F.2d at 1452 (Colorado's ban on 
+paid circulators failed exacting scrutiny because interests 
+Colorado asserted either were or could be protected by less 
+intrusive measures). 
+Defendants’ first asserted interest, informing 
+the electorate 
+whether a measure has grassroots support, is directly and 
+specifically protected by the constitutional requirement that 
+to reach the ballot an initiative or referendum petition must 
+be signed "by registered electors in an amount equal to at 
+least five percent of the total number of votes cast for all 
+candidates for the office of secretary of state at the previous 
+general election.” Colo. Const. 
+art. V, § 1(2) & (3); 
+C.R.S.A. § 1-40-1091). 
+As limited by the court, 1-40- 
+121(1) requires proponents to disclose the amount spent per 
+signature and, thus, the total amount paid to circulators. To 
+the extent the amount of money spent has some correlation 
+A-40 
+to the level of grassroots support, this information allows 
+voters to compare the level of support enjoyed by different 
+issues. Requiring proponents to provide a detailed roster of 
+all who were paid to circulate compromises the expressive 
+rights of paid circulators, but sheds little light on the relative 
+merit of the ballot issue. 
+Defendants’ second asserted interest, discouraging fraud, 
+also is protected by a battery of more narrowly tailored 
+measures. 
+See C.R.S.A. §§ 1-40-130, -131 (criminalizing 
+certain misconduct during circulation); 1-40-132 (authorizing 
+secretary of state to void petition). See also C.R.S.A. § 1- 
+40-110 (requiring every page to contain warning to potential 
+signers); § 1-40-118 (providing for written protest). 
+The 
+State has made no showing that these mechanisms are 
+inadequate. 
+Cf. Colorado Republican Federal Campaign 
+Committee v. Federal Election Com’n, --- U.S. ----, ----, 
+116 S.Ct. 2309, 2317, 135 L.Ed.2d 795 (1996). Defendants 
+have not shown the disclosure is necessary to discourage 
+fraud. 
+Section 1-40-121(2) compels detailed monthly disclosures. 
+The court invalidated it in its entirety. Defendants assert the 
+same two interests: grassroots support and fraud. Compel- 
+ling detailed monthly disclosures while the petition is being 
+circulated chills speech by forcing paid circulators 
+to 
+surrender the anonymity enjoyed by their volunteer counter- 
+parts. 
+In that the disclosures are contemporaneous with 
+circulation, 1-40-121(2) is more akin to the badge require- 
+ment than 1-40-121(1). 
+Section 1-40-121(2) is a broad 
+intrusion only loosely related to the interests it is purported 
+to serve. Like 121(1), 121(2) fails exacting scrutiny because 
+it is not narrowly tailored to serve either of defendants’ 
+asserted interests. 
+Il. 
+A-4l 
+
+[30}](31] 
+Plaintiffs 
+argue 
+1-40-111(2), 
+which 
+requires 
+circulators 
+to sign specifically 
+described 
+affidavits, 
+is 
+unconstitutionally vague. 
+Failure to comply with 1-40- 
+111(2) may result in criminal prosecution. C.R.S.A. § 1-40- 
+130(1). Plaintiffs’ opening brief on *1106 appeal addresses 
+only the chilling effect resulting from the threat of criminal 
+prosecution. 
+Their reply brief, however, expands the 
+discussion to include the civil penalty set forth in 1-40- 
+132(1). Because their opening brief did not address the civil 
+penalty, and because this argument does not appear to have 
+been before the district court, we will not consider it. 
+In Grayned v. City of Rockford, 408 U.S. 104, 108-09, 92 
+S.Ct. 2294, 2298-99, 33 L.Ed.2d 222 (1972), the Court 
+explained, generally, as follows: 
+It is a basic principle of due process that an 
+enactment is void for vagueness if its prohi- 
+bitions are not clearly defined. 
+Vague laws 
+offend 
+several 
+important 
+values. 
+First, 
+because we assume that man is free to steer 
+between lawful and unlawful conduct, we 
+insist that laws give the person of ordinary 
+intelligence a reasonable opportunity to know 
+what is prohibited, so that he may act accord- 
+ingly. Vague laws may trap the innocent by 
+not providing fair warning. 
+Second, if arbi- 
+trary and discriminatory enforcement is to be 
+prevented, laws must provide explicit stan- 
+dards for those who apply them. A vague law 
+impermissibly delegates basic policy matters to 
+policemen, judges, and juries for resolution on 
+an ad hoc and subjective basis, with the atten- 
+dant dangers of arbitrary and discriminatory 
+application. Third, but related, where a vague 
+statute “abut(s) upon sensitive areas of basic 
+First Amendment freedoms," it "operates to 
+A-42 
+; 
+; 
+: 
+- 
+} 
+7 
+‘ 
+3 
+: 
+- 
+inhibit 
+the exercise 
+of (those) freedoms.” 
+Uncertain meanings inevitably lead citizens to 
+“steer far wider of the unlawful zone" ... than 
+if the boundaries of the forbidden areas were 
+clearly marked. 
+Plaintiffs argue, essentially, that 1-40-111(2) is so difficult 
+to understand that it inhibits circulation and, therefore, abuts 
+upon political expression. 
+They specifically attack the 
+requirement that circulators "read and understand" the law 
+governing circulation. 
+[32] We must read the statute as it has been interpreted by 
+Colorado’s highest court. 
+United States v. Gaudreau, 860 
+F.2d 357, 361 (10th Cir. 1988). In Loonan v. Woodley, 882 
+P.2d 1380 (Colo.1994) (en banc), the Colorado Supreme 
+Court considered and rejected a vagueness challenge directed 
+at the "read and understand” requirement. Plaintiffs argued, 
+in part, that the requirement was vague because lay circula- 
+tors had no way to determine whether their "understanding" 
+was legally sufficient. 
+Loonan dismissed their argument, 
+explaining as follows: 
+Under the statute, a circulator may be penal- 
+ized only for signing the affidavit without 
+"reasonably believing that the statements made 
+in the affidavit are true." § 1-40-130(1)(d). 
+Understanding 
+[the law governing circula- 
+tion] ... 
+requires nothing more than that a 
+circulator believe that he or she knows what a 
+circulator can and cannot do. This prohibition 
+would ensnare only those circulators who 
+made no attempt to understand their duties. 
+The "read and understand" language mandated 
+in 
+the 
+circulator’s 
+affidavit 
+accordingly 
+provides fair notice of the prohibition because 
+A-43 
+
+it accommodates the subjective belief of the 
+circulator. 
+882 P.2d at 1390. 
+[33] The vagueness doctrine “requires that a penal statute 
+define the criminal offense with sufficient definiteness that 
+ordinary people can understand what conduct is prohibited 
+and in a manner that does not encourage arbitrary and 
+discriminatory enforcement." Kolender v. Lawson, 461 U.S. 
+352, 357, 103 S.Ct. 1855, 1857, 75 L.Ed.2d 903 (1983). 
+We are mindful of the special concerns that attach when a 
+criminal law is alleged to impinge upon a First Amendment 
+right. See, e.g., NAACP v. Button, 371 U.S. 415, 433, 83 
+S.Ct. 328, 338, 9 L.Ed.2d 405 (1963); Gaudreau, 860 F.2d 
+at 360. 
+Nevertheless, in light of Loonan, we conclude the 
+statute is sufficiently definite because it “explicitly endorses 
+the lay circulator’s own interpretation of ‘understanding,’ " 
+Loonan, 882 P.2d at 1390, and does not, as plaintiffs seem 
+to argue, invest law enforcement officers with sweeping, 
+unrestrained discretion. 
+IV. 
+[34] The Ninth Amendment provides that "[t]he enumeration 
+in the Constitution, of certain rights, shall not be construed 
+to deny *1107 or disparage others retained by the people." 
+U.S. Const. amend. [X. Plaintiff Bill Orr, appearing pro se, 
+argues the right to circulate 
+initiative and referendum 
+petitions is an unenumerated right protected by the Ninth 
+Amendment. 
+He implicitly argues it is incorporated in the 
+Fourteenth Amendment. He points to no controlling author- 
+ity in support. 
+His argument is unpersuasive. 
+V. 
+A-44 
+[35] The general assembly attached a safety clause to S.B. 
+93-135. 
+Plaintiffs moved at pretrial to preliminarily enjoin 
+S.B. 93-135, arguing the general assembly unconstitutionally 
+attached the safety clause. 
+The court denied the motion. 
+We affirmed, explaining in part as follows: "Although the 
+attachment of the safety clause to SB 93-135 precludes a 
+referendum challenge, it does not unconstitutionally restrict 
+plaintiffs’ access to the ballot. Plaintiffs remain free, under 
+the initiative power reserved to the people by the Colorado 
+Constitution, art. V, § 1(2), to propose any measure by 
+petition.” 
+American 
+Constitutional 
+Law Foundation 
+v. 
+Meyer, 33 F.3d at 63. We remain convinced, for substan- 
+tially the same reasons stated in our earlier order, that 
+plaintiffs’ arguments against the constitutionality of the Safety 
+Clause are without merit. 
+AFFIRMED IN PART and REVERSED IN PART. 
+END OF DOCUMENT 
+A-45 
+
+APPENDIX B 
+Copyright (c) West Publishing Co. 1996 
+No claim to 
+original U.S. Govt. works. 
+870 F. Supp. 995, American Constitutional Law Foundation, 
+Inc. v. Meyer, (D.Colo. 1994) 
+*995 
+870 F.Supp. 995 
+AMERICAN 
+CONSTITUTIONAL 
+LAW 
+FOUNDATION, INC., David Aitkens, Jon 
+Baraga, Craig Eley, Jack Hawkins, Lonnie 
+Haynes, Alden Krautz, Bill Orr, indivi- 
+dually and as the Parent and Guardian of 
+William David Orr, Plaintiffs, v. Natalie 
+MEYER, individually, and as Secretary of 
+State for the State of Colorado, Defendant. 
+Civ. A. No. 93-M-1467. 
+United States District Court, 
+D. Colorado. 
+Nov. 23, 1994. 
+Public interest organization and Colorado residents 
+brought action for declaratory and injunctive relief from 
+restrictions on circulation and submissions of petitions to 
+propose state laws and constitutional amendments. 
+The 
+District Court, Matsch, Chief Judge, held that: (1) provision 
+compelling circulators to wear identification badges was 
+unconstitutional burden on political liberty; 
+(2) requiring 
+circulators to be registered voters eligible to vote on measure 
+which is subject of petition was valid; (3) requiring monthly 
+reports on paid circulators was invalid restriction on core 
+political speech; 
+(4) requiring petitions to be circulated 
+within six-month period was not undue restriction; 
+and (5) 
+B-1 
+
+state had compelling need for names and addresses of 
+circulators in affidavit attesting to validity of signatures. 
+So ordered. 
+1. 
+CONSTITUTIONAL LAW k90.1(1) 
+92 
+---- 
+92V 
+Personal, Civil and Political Rights 
+92k90 
+Freedom of Speech and of the Press 
+92k90.1 
+Particular Expressions and Limitations 
+92k90.1(1) 
+—_In general. 
+D.Colo. 1994. 
+Governmental infringements on political speech undergo 
+strict scrutiny to determine if they are substantially related to 
+compelling governmental interest and are so narrowly drawn 
+as to be least restrictive means of furthering that interest. 
+U.S.C.A. Const.Amend. 1. 
+2. 
+ELECTIONS k24 
+144 
+---- 
+| 
+1441 
+Right of Suffrage and Regulation Thereof in 
+General 
+144k23 
+Power to Regulate Conduct of Election 
+144k24 
+In general. 
+D.Colo. 1994. 
+State’s interest in fair, honest, and orderly elections 
+justifies some burdens on political liberty. 
+3. CONSTITUTIONAL LAW k9.5) 
+la 
+921 
+Establishment and Amendment of Constitutions 
+92k4 
+Amendment and Revision of State 
+Constitutions 
+92k9 
+Submission to Popular Vote 
+92k9(.5) 
+In general. 
+[See headnote text below] 
+B-2 
+3. 
+CONSTITUTIONAL LAW k90. 1(1) 
+92. 
+---- 
+92V 
+Personal, Civil and Political Rights 
+92k90 
+Freedom of Speech and of the Press 
+92k90. 1 
+Particular Expressions and Limitations 
+92k90.1(1) 
+In general. 
+{See headnote text below] 
+3. 
+STATUTES k302 
+361 
+—s---- 
+361IX 
+Initiative 
+361k302 
+Constitutional and statutory provisions. 
+D.Colo. 1994. 
+Compelling circulators of petitions to propose laws and 
+constitutional amendments in Colorado to wear identification 
+badges burdened core political speech, supporting application 
+of strict 
+scrutiny 
+standard, 
+since 
+identification 
+badge 
+requirement made it more difficult to find circulators for fear 
+of recrimination, retaliation, and harassment. 
+U.S.C.A. 
+Const.Amend. 1; West’s C.R.S.A. Sec. 1-40-112(2). 
+4. 
+CONSTITUTIONAL LAW k9(.5) 
+92. 
+—=C---- 
+921 
+Establishment and Amendment of Constitutions 
+92k4 
+Amendment and Revision of State 
+Constitutions 
+92k9 
+Submission to Popular Vote 
+92k9(.5) 
+In general. 
+[See headnote text below] 
+4. 
+CONSTITUTIONAL LAW k90. 1(1) 
+ae 
+92V 
+Personal, Civil and Political Rights 
+92k90 
+Freedom of Speech and of the Press 
+92k90. 1 
+Particular Expressions and Limitations 
+B-3 
+
+92k90.1(1) 
+In general. 
+{See headnote text below] 
+4. 
+CONSTITUTIONAL LAW k274.1(2.1) 
+92 
+---- 
+92XII 
+Due Process of Law 
+92k274.1 
+Freedom of Speech, Press, Assembly, and 
+Petition, Deprivation of in General 
+92k274.1(2) Particular Applications 
+92k274.1(2.1) In general. 
+[See headnote text below] 
+4. 
+STATUTES k302 
+921 
+Establishment and Amendment of Constitutions 
+361k302 
+Constitutional and statutory provisions. 
+D.Colo. 1994. 
+Requiring circulators of petitions to propose laws and 
+constitutional amendments in Colorado to wear identification 
+badges did not serve compelling state need, either to deter 
+dishonest circulators or to demonstrate grassroots support, 
+and restriction was not narrowly drawn to further those 
+needs, making requirement unconstitutional under First and 
+Fourteenth Amendments. 
+U.S.C.A. Const.Amends. 1, 14; 
+West’s C.R.S.A. Sec. 1-40-112(2). 
+5. 
+STATUTES k306 
+361 
+---- 
+3611X 
+Initiative 
+361k306 
+Circulation. 
+D.Colo. 1994. 
+Criminal penalties for violations of laws governing 
+initiative and referendum petitions are sufficient to deter 
+dishonest circulators. 
+West's C.R.S.A. Sec. 1-40-130. 
+B-4 
+6. 
+CONSTITUTIONAL LAW k91 
+ peeers 
+92V 
+Personal, Civil and Political Rights 
+92k91 
+Right of assembly and petition. 
+[See headnote text below] 
+6. 
+STATUTES k301 
+361 
+_—s---- 
+3611X 
+Initiative 
+361k301 
+Initiative in general. 
+[See headnote text below] 
+6. 
+STATUTES k341 
+361_—s---- 
+361X 
+Referendum 
+361k341 
+Referendum in general. 
+D.Colo. 1994. 
+Restricting 
+participation 
+in petitioning 
+process 
+to 
+registered electors was not subject to any level of scrutiny 
+under First Amendment; State citizens were free to exercise 
+their sovereign authority to limit scope of initiative and 
+referendum power, so long as limitation did not involve 
+discriminatory classification. 
+U.S.C.A. Const.Amend. 
+1: 
+West’s C.R.S.A. Sec. 1-40-112(1). 
+| 
+7. a LAW k91 
+92V 
+Personal, Civil and Political Rights 
+92k91 
+Right of assembly and petition. 
+[See headnote text below] 
+7. STATUTES k302 
+361 
+---- 
+361IX 
+Initiative 
+B-5 
+
+361k302 
+Constitutional and statutory provisions. 
+D.Colo. 1994. 
+Requirement that political committees supporting or 
+opposing statewide issue file statement of organization with 
+state and report contributions received and expenditures 
+made by each committee 
+was valid measure to prevent fraud 
+and educate electorate on source of support for measure, 
+though provision must be modified to eliminate requirement 
+for disclosure of names and addresses of paid circulators. 
+U.S.C.A. 
+Const.Amend. 
+1; 
+West's 
+C.R.S.A. 
+Sec. 
+1-40-121(1). 
+8. 
+CONSTITUTIONAL LAW k90.1(1) 
+- 
+cm 
+92V 
+Personal, Civil and Political Rights 
+92k90 
+Freedom of Speech and of the Press 
+92k90.1 
+Particular Expressions and Limitations 
+92k90.1(1) 
+In general. 
+[See headnote text below] 
+8. 
+STATUTES k302 
+361 
+---- 
+3611X 
+Initiative 
+361k302 
+Constitutional and statutory provisions. 
+D.Colo. 1994. 
+Statute requiring petition proponents to file monthly 
+reports on paid circulators was invalid restriction on core 
+political speech; 
+state failed to demonstrate how monthly 
+reports were necessary to meet stated objectives of pre- 
+venting fraud if final report is required when petition is 
+submitted to designated election official. 
+West’s C.R.S.A. 
+Sec. 1-40-121(2). 
+9. 
+STATUTES k302 
+si 
+— 
+361IX 
+Initiative 
+361k302 
+Constitutional and sta 
+iS] 
+D.Colo. 1994. 
+uc 
+. 
+Statute requiring that petitions be circulated within 
+six-month period was not unreasonable burden on rights of 
+proponents of petition or voting public, considering impor- 
+tance of fixing proper title for legitimate objective of voter 
+education and fairness. West's C.R.S.A. Sec. 1-40-108(1). 
+10. CONSTITUTIONAL LAW k9(.5) 
+- 
+921 
+Establishment and Amendment of Constitutions 
+92k4 
+Amendment and Revision of State 
+Constitutions 
+92k9 
+Submission to Popular Vote 
+92k9(.5) 
+In general. 
+[See headnote text below] 
+10. STATUTES k302 
+361s 
+---- 
+361IX 
+Initiative 
+361k302 
+Constitutional 
+and 
+isi 
+D.Colo. 1994. 
+seed cess 
+State had compelling 
+need *995 
+for names and 
+addresses of circulators of petitions proposing laws and 
+constitutional — in affidavit by circulators to 
+was sufficiently narrowly drawn 
+to be constitutional: 
+primary purpose of affidavit requirement was to provide 
+opportunity for adequate hearing on sufficiency of signatures 
+for petition and for other matters relevant to placing measure 
+on ballot. West's C.R.S.A. Sec. 1-40-111(2). 
+11. CONSTITUTIONAL LAW k9(.5) 
+-— 
+92I 
+Establishment 
+and Amendment of Constitutions 
+B-7 
+
+92k4 
+Amendment and Revision of State 
+Constitutions 
+92k9 
+Submission to Popular Vote 
+92k9(.5) 
+In general. 
+{See headnote text below] 
+11. STATUTES k302 
+361 
+---- 
+3611X 
+Initiative 
+: 
+361k302 
+Constitutional and statutory provisions. 
+D.Colo. 1994. 
+* 
+Circulator affidavit requirement for petitions to propose 
+laws 
+and 
+constitutional 
+amendments was not 
+un- 
+constitutionally vague; 
+statute simply required circulator to 
+attest that section he or she circulated, not other circulators 
+sections, complied with initiative statute. 
+West's C.R.S.A. 
+Sec. 1-40-116(1). 
+*997 
+Neil D. O'Toole, Dallas, Holland & O'Toole, 
+P.C., Denver, CO, for plaintiffs. 
+Bill Orr, pro se. 
+Maurice Knaizer, State of Colo., Asst. Atty. Gen., 
+Denver, CO, for defendant. 
+MEMORANDUM OPINION AND ORDER 
+MATSCH, Chief Judge. 
+This is an action for declaratory and injunctive relief 
+under 
+42 U.S.C. Sec. 1983 from restrictions 
+regarding the 
+circulation and submission of petitions to propose laws and 
+constitutional amendments in the State of Colorado. The 
+principal contention is that the challenged requirements 
+B-8 
+restrict freedoms protected by the First and Fourteenth 
+Amendments to the United States Constitution. 
+The plaintiff, American Constitutional Law Foundation, 
+Inc., is a non-profit, public-interest organization supportive 
+of this form of direct democracy. The individual plaintiffs, 
+excepting William David Orr, have participated in the 
+petitioning process. 
+Jack Hawkins worked in support of 
+petitions described 
+as the Colorado’s 
+Safe Workplace 
+Initiative and Worker’s Choice of Care. 
+Jon Baraga has 
+been the state coordinator for the Colorado Hemp Initiative. 
+William David Orr, a minor, wants to circulate petitions. 
+All of the plaintiffs have shown sufficient commitment to 
+continuing efforts to address the Colorado electorate through 
+petitions for the Initiative and referendum to establish 
+standing to bring this action and to make the issues 
+justiciable within the jurisdiction provided by 28 U.S.C. Sec. 
+1343. 
+The legal questions have been presented within the 
+context of an evidentiary record submitted in support of 
+cross motions for summary judgment and at a trial to the 
+court. There are no material factual disputes. 
+COLORADO LAW 
+The focus of the plaintiffs’ pleadings is an act of the 
+General Assembly of the State of Colorado identified as 
+Senate Bill 93-135, amending and relocating provisions 
+concerning the initiative and referendum in Article 40 of 
+Title 1 of the Colorado Revised Statutes. In the pre-trial 
+order, the plaintiffs summarized their claims that this 
+legislation violates protections found in the First, Ninth and 
+Fourteenth Amendments to the United States Constitution in 
+the following ways: 
+A) Non-registered voter prohibition on petition circu- 
+lation. 
+B-9 
+
+B) Prohibiting circulators under the age of 18 to circu- 
+late. 
+C) Restricting circulating petitions to an arbitrarily set 
+time period of six months. 
+D) Prohibiting circulation of petitions without badge 
+identification. 
+E) Mandating certain requirements for paid circulators. 
+F) The affidavit circulator provisions are vague so as to 
+make competent compliance impossible. 
+G) The disclosure provisions on paid circulators are 
+unconstitutionally burdensome. 
+Pre-trial Order of June 1, 1994. 
+a 
+t 
+umoly 
+ify 
+Some of the provisions in $.B. 93-135 simp 
+recod 
+the existing law in Colorado and some repeat 2p erecnyer 
+in the Colorado Constitution. 
+A brief historical review 0 
+the development of direct democracy in Colorado is neces- 
+sary to achieve an appropriate perspective on the plaintiffs 
+contentions. 
+In 1910, voters in Colorado approved an amendment 
+- a 
+Section 1 of Article V of the “998 Constitution 0 
+State of Colorado, establishing the initiative and agy= 
+1910 Colo.Sess.Laws 11. 
+The initial paragraph of 
+: 
+amendment provides the premise for this reservation 0 
+legislative power in these words: 
+i 
+islati 
+shall be 
+Section 1. The legislative power of the State 
+vested in the General Assembly consisting of a Senate 
+and House of Representatives, both to be elected by the 
+people, but the people reserve to themselves the power 
+B-10 
+to propose laws and amendments to the Constitution and 
+to enact and reject the same at the polls independent of 
+the General Assembly, and also reserve power at their 
+Own option to approve or reject at the polls any act, 
+item, section or part of any act of the General 
+Assembly. 
+An exception to the power of the referendum was made 
+for “laws necessary for the immediate preservation of the 
+public peace, health or safety." 
+As will be discussed, the 
+Colorado General Assembly has routinely used this exception 
+to avoid review of legislation by referendum by adopting a 
+“safety clause" in each enactment. This organic act required 
+that petitions be signed by qualified electors who must 
+provide their residence addresses and the dates of signing. 
+It also required the attachment of an affidavit of some 
+qualified elector verifying the signatures. 
+While this section of the constitution was self-executing, 
+the Colorado General Assembly has, from time to time, 
+legislated additional requirements. 
+Thus, in 1913, the 
+General Assembly enacted H.B. No. | directing that each 
+initiative and referendum petition bear a warning that it is a 
+felony for anyone to sign with any name other than his or 
+her own, or to knowingly sign more than one petition, or to 
+sign when not a qualified elector. 
+1913 Colo.Sess.Laws 
+310. 
+That act required that the signers must include the 
+street and number of their residences; 
+it repeated 
+the 
+provision for an attesting affidavit by a qualified elector: 
+it 
+established a format for petitions and it directed that each 
+petition designate not less than three nor more than five 
+representatives of the signers. 
+Provision was made for a 
+protest and a hearing on the sufficiency of the petition. The 
+legislation also imposed requirements for the ballot title and 
+publication 
+of arguments for and against the measure. 
+B-i1 
+
+In 1919, the Colorado General Assembly enacted S.B. 
+No. 141 establishing a procedure to fix a ballot title for an 
+initiated measure and limiting the time for circulation to six 
+months from the date that the title and submission clauses 
+have been provided. 
+1919 Colo.Sess.Laws 436. 
+In 1941, the General Assembly enacted H.B. No. 947. 
+It prohibited the payment of “any money or other thing of 
+value in consideration of or as an inducement to the cir- 
+culation of any 
+initiative 
+or referendum 
+petition" and 
+established a criminal penalty for such conduct. 
+1941 
+Colo.Sess.Laws 480. 
+That provision came before the 
+Colorado Supreme Court in Urevich v. Woodard, 667 P.2d 
+760 (Colo. 1983), in the context of circulation of an initiative 
+petition by ACORN, 
+a non-profit organization whose 
+circulators were to solicit financial contributions to the 
+organization 
+in exchange 
+for payment 
+to them 
+of 2 
+percentage of the contributions they collected. 
+The court 
+narrowly construed the prohibiting language to avoid a 
+conflict with Articl: V Section 1 of the Colorado Constitu- 
+tion and held that ACORN’s method of petition circulation 
+and solicitation of contributions did not violate the statute. 
+In the opinion for the unanimous court, Justice Rovira noted 
+the provision in Article II, Section 2 of the Colorado 
+Constitution that the people of the State of Colorado “have 
+the sole and exclusive right of governing themselves" and 
+observed that the reservation of the power to initiate leg- 
+islation in Article V, Section 1 is a right “of the first order." 
+After also noting that the Colorado Supreme Court had 
+previously recognized the authority of the legislature to enact 
+legislation regarding the exercising of this reserved power, 
+he wrote: 
+The balance between the legislative power of the 
+general assembly and the legislative power oi . 
+2 people 
+has been 
+struck 
+in favor 
+of the people 
+in the 
+fundamental charter of our state. No statute passed by 
+B-12 
+the general assembly can be permitted to alter this 
+allocation of power. 
+Id. at 762-3. 
+| 
+*999 
+Legislation changing those persons authorized to 
+circulate petitions from qualified electors to registered voters 
+was enacted in 1971. That statute was ruled unconstitutional 
+in Colorado Project-Common Cause v. Anderson, 178 Colo. 
+1, 495 P.2d 220 (1972) because it was inconsistent with 
+Article V, Section 
+1. 
+Chief Justice Pringle wrote the 
+opinion for the unanimous court, saying: 
+It is axiomatic that there are more citizens of this 
+state who have the qualifications to register than there 
+are those who actually register. The statutory require- 
+ment that the signing and circulating of petitions must 
+be by registered electors rather than permitting qualified 
+electors to carry on these functions 
+is therefore 
+a 
+limitation not authorized by the constitution and is 
+impermissible. 
+Id. 495 P.2d at 222. 
+The statutory prohibition of payment to circulators 
+enacted in 1941 was challenged under Federal law in 1984. 
+That statute was held to be a violation of the First and 
+Fourteenth Amendments to the United States Constitution by 
+the Tenth Circuit Court of Appeals in Grant v. Meyer, 828 
+F.2d 1446 (10th Cir. 1987), affirmed by a unanimous opinion 
+of the Supreme Court in Meyer v. Grant, 486 U.S. 414, 108 
+rw 1886, 100 L.Ed.2d 425 (1988). See discussion_infra, 
+p. 
+7. 
+The requirement that only registered electors could sign 
+and circulate petitions was again imposed in 1980 through an 
+amendment to Article V, Section 
+1 of the Colorado 
+Constitution, 
+pursuant 
+to 
+a referendum 
+approved 
+by 
+Colorado voters. 
+To be a registered elector in Colorado, a 
+B-13 
+
+person must be at least 18 years old, a citizen of the United 
+States and a resident of Colorado for at least 25 days before 
+an election. C.R.S. Sec. 1-2-101 (Supp. 1994). 
+A significant change made by S.B. 93-135, Is an 
+amendment to C.R.S. 1-40-112(2) (Supp. 1994) adding a 
+requirement 
+that petition circulators 
+wear 
+identification 
+badges as follows: 
+(a) All circulators who are not to be paid for circulating 
+petitions concerning 
+ballot 
+issues 
+shall display an 
+identification badge that includes the words "VOLUN- 
+TEER CIRCULATOR" 
+in bold-faced type which is 
+clearly legible and the circulator’s name. 
+(b) All circulators who are to be paid for circulating 
+petitions concerning 
+ballot 
+issues 
+shall display an 
+identification badge that includes the words "PAID 
+CIRCULATOR" in told-faced type which is clearly 
+legible, the circulator’s name, and the name and tel- 
+ephone number 
+of the 
+individual 
+employing 
+the 
+circulator. 
+S.B. 93-135 also imposed reporting requirements on the 
+proponents of a petition when paid circulators are used. 
+C.R.S. Sec. 1-40-121 (Supp. 1994) provides, in relevant part, 
+(1) The proponents of the petition shall file with the 
+official who receives 
+filings under the “Campaign 
+Reform Act of 1974” for the election the name, address, 
+and county of voter registration of all circulators who 
+were paid to circulate any section of the petition, the 
+amount paid per signature, and the total amount paid to 
+each circulator. 
+The filing shall be made at the same 
+time the petition is filed with the designated election 
+official... 
+B-14 
+(2) The proponents of the petition shall sign and file 
+monthly reports with the designated election official. 
+due ten days after the last day of each month in which 
+petitions are circulated on behalf of the proponents by 
+paid circulators. 
+Monthly reports shall set forth the 
+following: 
+(a) the names of the proponents; 
+(b) the name and the residential and business addresses 
+of each of the paid circulators: 
+(c) the name of the proposed ballot measure for which 
+petitions are being circulated by paid circulators; 
+and 
+(d) the amount of money paid and owed to each paid 
+circulator for petition circulation during the month in 
+question. 
+To obtain access to the ballot at general elections under 
+the statutory and constitutional law in effect in Colorado at 
+the time of trial, proponents of an initiated measure must 
+submit a draft of the proposal to the State Legislative 
+Council and the Legislative Legal Services Office for review 
+and comment. 
+C.R.S. Sec. 1-40-105(1) (Supp.1994). The 
+draft then goes to the title board, which *1000 prepares a 
+title, submission 
+clause, 
+and summary. 
+C.R.S. 
+Sec. 
+1-40-106 (Supp. 1994). The title board’s first meeting can be 
+no earlier than the first Wednesday in December. 
+C.R.S. 
+Sec. 1-40-106(1). No petition for an initiative measure can 
+be circulated before the title, submission clause and summary 
+have been fixed. 
+C.R.S. Sec. 1-40-108(1) (Supp. 1994). 
+This process can be delayed by a motion for rehearing 
+before the title board filed by any registered elector and the 
+dispute can be taken to the Colorado Supreme Court. 
+C.R.S. Sec. 1-40-107(2) (Supp.1994). 
+Petitions must be 
+filed with the Secretary of State within six months after the 
+B-15 
+
+number of petition signatures must be equal in number to at 
+least five percent of the total number of persons voting for 
+all candidates for the Office of Secretary of State in the 
+previous general election. 
+Colo. Const. Art. 
+V, Sec. 1 
+(Supp.1994). The petitions must be filed with the Secretary 
+of State at least three months prior to the election at which 
+they are to be voted upon. 
+Id. 
+THE UNITED STATES CONSTITUTION 
+In Meyer v. Grant, 486 U.S. 414, 108 S.Ct. 1886, 100 
+L.Ed.2d 425 (1988), the Supreme Court concluded that the 
+circulation of an initiative petition involved 
+interactive 
+communication characterized 
+as 
+"core 
+political speech" 
+within the protection of the First Amendment, applicable to 
+the states under the Fourteenth Amendment. 
+The court 
+identified the invalid aspects of the statutory prohibition of 
+payment of circulators in these words: 
+The refusal to permit appellees to pay petition circula- 
+tors restricts political expression in two ways: 
+First, it 
+limits the number of voices who will convey appellees’ 
+message and the hours they can speak, and, therefore, 
+limits the size of the audience they can reach. Second, 
+it makes it less likely that appellees will garner the 
+number of signatures necessary to place the matter on 
+the ballot, thus limiting their ability to make the matter 
+the focus of statewide discussion. 
+Id. at 422-423, 108 
+S.Ct. at 1892. 
+The burden of the state to justify such a restriction was 
+described in the following paragraph: 
+We agree with the Court of Appeals’ conclusion that the 
+statute trenches upon an area in which the importance of 
+First Amendment protections is “at its zenith." 
+For 
+B-16 
+3EST AVAILABLE COPY 
+that reason, the burden that Colorado must overcome to 
+justify this criminal law is well-nigh insurmountable. 
+Id. at 425, 108 S.Ct. at 1894. 
+{1} It is familiar 
+learning 
+that governmental 
+in- 
+fringements on political speech undergo strict scrutiny to 
+determine if they are substantially related to a compelling 
+governmental interest and are so narrowly drawn as to be the 
+least restrictive means of furthering that interest. Buckley v. 
+Valeo, 424 U.S. 1, 64, 96 S.Ct. 612, 656, 46 L.Ed.2d 659 
+(1976); NAACP v. Alabama, 357 U.S. 449, 463, 78 S.Ct. 
+1163, 1172, 2 L.Ed.2d 1488 (1958). 
+[2] The Supreme Court has not applied the strict 
+scrutiny standard to all legislation affecting the right to vote 
+and the freedom of association with others for political 
+purposes. 
+The state's interest in fair, honest and orderly 
+elections has been recognized as a justification for some 
+burdens on political liberty. 
+In Storer v. Brown, 415 U.S. 
+724, 94 §.Ct. 1274, 39 L.Ed.2d 714 (1974), Justice White 
+wrote of the difficulty in establishing a rule of general 
+application. 
+In Anderson v. Celebrezze, 460 U.S. 780, 103 
+S.Ct. 
+1564, 75 L.Ed.2d 547 (1983), an Ohio statute 
+imposing an early filing deadline on independent candidates 
+for President was invalidated by a divided court as an undue 
+burden when balanced against the state’s interests in voter 
+education, political stability and equal treatment with partisan 
+candidates. 
+In Norman v. Reed, 502 U.S. 279, 112 S.Ct. 
+698, 116 L.Ed.2d 711 (1992), the Court again divided over 
+limitations on ballot access by a newly formed political 
+party. 
+Justice White addressed the problem of articulating a 
+test for constitutionality again in Burdick v. Takushi, 
+--- 
+U.S. ----, 112 S.Ct. 2059, 119 L.Ed.2d 245 (1992), writing 
+for the majority in affirming a prohibition of 
+*1001 
+write-in candidates in Hawaii. 
+There, he wrote: 
+B-17 
+
+Election laws will invariably impose some burden 
+upon individual voters. 
+Each provision of a code, 
+"whether it governs the registration and qualifications of 
+voters, the selection and eligibility of candidates, or the 
+voting process self, inevitably affects--at least to some 
+degree--the individual's right to vote and his right to 
+associate with others for political ends." 
+Anderson v. 
+Celebrezze, 460 U.S. 780, 788, 103 S.Ct. 1564, 1570, 
+75 L.Ed.2d 547 (1983). Consequently, to subject every 
+voting regulation to strict scrutiny and to require that 
+the regulation be narrowly 
+tailored 
+to advance 
+a 
+compelling state interest, as petitioner suggests, would 
+tie the hands of States seeking to assure that elections 
+are operated equitably and efficiently. 
+See Brief for 
+Petitioner 32-37. 
+Accordingly, the mere fact that a 
+State’s system "creates barriers ... tending to limit the 
+field of candidates from which voters might choose ... 
+does not of itself compel close scrutiny." 
+Bullock v. 
+Carter, 405 U.S. 134, 143, 92 S.Ct. 849, 856, 31 
+L.Ed.2d 92 (1972); Anderson, supra, 460 U.S. at 788, 
+103 S.Ct. 
+at 1569-1570; 
+McDonald 
+v. Board of 
+Election Comm’ nrs of Chicago, 394 U.S. 802, 89 S.Ct. 
+1404, 22 L.Ed.2d 739 (1969). 
+Instead, as the full Court agreed in Anderson, 
+supra, 460 U.S. at 788-789, 103 S.Ct. at 1560-1570; 
+id.. at 808, 817, 
+103 S.Ct. 
+at 1580, 1584-1585 
+(Rehnquist, J., dissenting), a more flexible standard 
+applies. 
+A court considering a challenge to a state 
+election law must weigh "the character and magnitude 
+of the asserted injury to the rights protected by the First 
+and Fourteenth Amendments that the plaintiff seeks to 
+vindicate" against “the precise interests put forward by 
+the State as justifications for the burden imposed by its 
+rule," taking into consideration "the extent to which 
+those interests make it necessary to burden the 
+plaintiff's rights." 
+Id., at 789, 103 S.Ct. at 1570; 
+B-18 
+Tashjian [v. Republican Party of Connecticut] . Supra, 
+479 U.S. 
+[208] at 213-214, 
+107 S.Ct. 
+1544) at 
+547-548 (93 L.Ed.2d 514]. 
+| 
+Under this standard, the rigorousness of our inquiry 
+into the propriety of a state election law depends upon 
+the extent to which a challenged regulation burdens First 
+and Fourteenth Amendment rights. 
+Thus, as we have 
+recognized when those rights are subjected to “severe” 
+advance ao interest poet 
+ata 
+igs 
+of compelling importance." 
+Norman v. Reed, 502 U.S. 279, ----, 112 S.Ct. 698. 
+705, 116 L.Ed.2d 711 (1992). 
+But when a state 
+election law provision 
+imposes 
+only 
+“reasonable, 
+Fourteenth Amendment rights of voters, “the State's 
+important regulatory imter2sts are generally sufficient to 
+justify” the restrictions. Anderson, supra, 
+460 U.S. at 
+788, 103 S.Ct. at 1570; see also id., at 788-789, n. 9 
+103 S.Ct. at 1570, n. 9. 
+We apply this standard in 
+considering petitioner's challenge to Hawaii's ban on 
+write-in ballots. 
+The Tenth Circuit Court of Appeal 
+stip aiiefalninnn lover adeeuten onnoneecteon 
+statute imposing a deadline for independent candidates to file 
+nominating petitions which was characterized as a slight 
+burden upon the rights of voters. 
+Hagelin for President 
+Committee v. Graves, 25 F.3d 956 (10th Cir. 1994). 
+. Under the guidance of these cases, the analysis 
+of the 
+claims in this case must proceed by defining the character of 
+the rights affected, the extent of the injury to those rights 
+and then the nature and magnitude of the ompeting interests 
+of the state. 
+: 
+THE PLAINTIFFS’ CLAIMS 
+B-19 
+
+(3] The plaintiffs have adequately demonstrated that 
+compelling circulators to wear identification badges inhibits 
+participation 
+in the petitioning 
+process. 
+Jon Baraga 
+recounted harassment that he personally experienced while 
+circulating a hemp initiative petition and testified that the 
+identification badge requirement made it more difficult to 
+find circulators because of a fear of recrimination, retaliation 
+and harassment. 
+The plaintiff Hawkins testified that he 
+found that potential circulators were not willing to wear 
+*1002 personal identification badges required by this statute. 
+The plaintiffs have shown that this requirement burdens core 
+political speech. The strict scrutiny standard applies. 
+[4}[5] The defendant contends that the requirement is 
+justified because it serves two compelling state interests: (1) 
+The badges allow the public to identify the petition circulator 
+in the event a complaint 
+is filed; and, (2) the badges 
+demonstrate to the public whether or not there is grassroots 
+support for an initiative. 
+The defendant has presented some anecdotal evidence of 
+circulators misrepresenting 
+the effects of law changes 
+proposed by their petitions and the inability of the observers 
+to report these incidents because they could not identify 
+those circulators. Assuming that such misstatements 
+could 
+be considered sufficient for prosecution, the state's interest 
+in pursuing these matters is insufficient under the strict 
+scrutiny standard. 
+Misstating the expected consequences of 
+changes in the law is not uncommon in the political process. 
+Inaccuracies in political discourse do not necessarily rise to 
+the level of calculated falsehood or criminal fraud. 
+See 
+Garrison v. Louisiana, 379 U.S. 64, 74, 85 S.Ct. 209, 
+215-16, 13 L.Ed.2d 125 (1964). 
+The defendant's concern 
+that some circulators may use deliberate falsehoods to obtain 
+signatures does not justify this burden on all circulators. 
+The current criminal penalties for violations of the laws 
+governing initiative and referendum petitions are sufficient 
+B-20 
+to deter dishonest circulators. 
+C.R.S. 
+(Supp. 1994). Therefore, the state's nocd Rn 
+public discussion of governmental issues is not so compelling 
+as to warrant the identification of those who choose to speak 
+in support of change. 
+Moreover, 
+a prohibition 
+of 
+anonymous distribution of campaign literature was ruled 
+invalid in Wilson v. Stocker, 819 F.2d 943 (10th Cir. 1987). 
+There, the Court relied on Talley v. California, 362 U.S. 
+60, 80 S.Ct. 536, 4 L.Ed.2d 559 (1960), voiding an 
+ordinance banning all anonymous handbills. 
+The Court 
+recognized the historical importance of anonymity in political 
+speech 
+under 
+certain 
+circumstances. 
+The 
+types 
+of 
+controversy generated by such initiatives as the Hemp 
+Initiative present such circumstances. 
+The relationship of the badges to the demonstration of 
+grassroots support is not made on the record. Here, 
+as in 
+pa A Meyer, the State's interest in a demonstration of 
+sufficient support is met by the requirement of a percenta 
+of the votes cast in 
+the previous election for 
+Secretary of 
+State. Grant v. Meyer, supra, 828 F.2d at 1455. 
+The 
+badge identification 
+requirement substantially affects the 
+number of potential circulators which translates into a 
+corresponding decrease in the amount of protected political 
+speech. The state's articulated interests are not compelling 
+and the restriction has not been narrowly drawn to further 
+those interests. 
+Accordingly, the badge requirement is a 
+violation of the First and Fourteenth Amendments and is 
+therefore unconstitutional. 
+[6] S.B. 93-135 requires that circulators be 
+registered 
+electors who are 
+eligible to 
+vote on 
+the 
+measure which is 
+the 
+subject 
+of the petition. It also requires the circulators 
+to be 
+at least 18 years of age at the time of the circulation. 
+C.R.S. Sec. 1-40-112(1) 
+(Supp. 1994). Nothing 
+in the record 
+Suggests any statewide ballot issues as to which the 
+qualifying phrase “who are eligible to vote on the measure” 
+B-21 
+
+would be a restriction beyond the requirement of 
+registration. The record does show that the requirement of 
+registration 
+limits the number of persons available to 
+circulate 
+and sign these petitions and, accordingly, restricts 
+core political speech. 
+However, the source of this re- 
+quirement is not S.B. 93-135; 
+it is the constitutional 
+amendment adopted by the people in 1980. There is nothing 
+in the United States Constitution that requires that any state 
+provide for the initiative or referendum. The people are the 
+source of the power and they may exercise their sovereign 
+authority to limit the scope of that power so long as there is 
+no discriminatory classification. 
+The Colorado electorate 
+chose to restrict participation in the petitioning process (0 
+registered electors. This decision is not subject to any level 
+of scrutiny by this court in the context of this case. 
+*1003 The claim of the minor plaintiff, William David 
+Orr, that because he is under 18 years of age he ts 
+eliminated from participation in political speech as a circu- 
+lator is answered by this restriction to registered electors. 
+As 
+previously acted, qualified voters in 
+Coloeado aust 0s a8 
+least 18 years old, and the requirement of being a qualift 
+elector goes back to the original provision for the initiative 
+made in the constitutional amendment adopted in 1910. 
+There is, therefore, no need to justify the age requirement as 
+a separate limitation. 
+The report 
+ired by the provision in S.B. 93-135, 
+cana al CRS. Sec. 1-40-121(1) (Supp. 1994), is an 
+extension of the requirements contained in the Colorado 
+Campaign Reform Act of 1974, C.R.S. Sec. 1-45-101,_¢t 
+seq. 
+The Campaign Reform Act requires political 
+committees supporting or opposing a statewide issue to file 
+a statement of organization with the state and requires the 
+filing by the campaign treasurer of reports of all 
+contributions received and expenditures made by or on 
+behalf of such a political committee. C.R.S. Secs. 1-45-106 
+B-22 
+& 108 (Supp.1994). 
+These reports must be submitted 1] 
+days before and 30 days after the election. 
+Id. S.B. 93-135 
+added a requirement that proponents of a petition, at the time 
+of filing, must disclose the names, addresses and county of 
+voter registration of all circulators paid to circulate any 
+section of the petition together with the amount paid for each 
+signature and the total amount paid to each circulator. 
+C.R.S. Sec. 1-40-121(1) (Supp.1994). 
+This requirement 
+prevents anonymity of the circulators and thus exposes them 
+to intimidation, harassment and retribution in the same 
+manner as the badge requirement. 
+The legislative history shown in the record and the 
+evidence presented at the trial show that since_Meyer v. 
+Grant the circulation of initiative petitions has become a 
+business and the proponents of several petitions, particularly 
+those seeking authorized gambling, have hired contractors to 
+do the circulation. 
+Given 
+the business of 
+circulation for hire, there is an 
+interest in compelling disclosure by the proponents of the 
+persons or entities being hired, not only to prevent fraud but 
+to give the public information concerning who the principal 
+Proponents are and what kind of financial resources may be 
+available to them. 
+What may appear to be grassroots 
+support might in actuality 
+be well financed special interests 
+with hidden agenda. 
+That legitimate interest, however. is 
+not significantly advanced by disclosure of the names and 
+addresses 
+of each person paid to circulate any section of the 
+petition. What is of interest is the payor, not the payees. 
+The final report is a ballot access requirement. Jt serves 
+the same purposes 
+as the Campaign Reform Act--the 
+prevention of fraud and the education of the electorate as to 
+the source of support for the measure submitted through this 
+process. 
+Upon elimination of the provision requiring 
+B-23 
+
+identification of the circulators, the burden on the proponents 
+is slight. This requirement, as modified, is valid. 
+[8] The statute also requires petition proponents to a 
+monthly 
+reports 
+on 
+paid circulators. 
+C.R.S. 
+1-40-121(2) (Supp. 1994). As noted above, to the extent the 
+monthly report requirement includes the name and residential 
+and business addresses of each of 
+the paid circulators, it is 
+constitutionally invalid. 
+The other requirements of the 
+monthly reports are the names of the proponents, the name 
+of des gregennd Gabel canes Or en ee 
+ee 
+circulated by paid circulators and the amount of money pa 
+and owed to each paid circulator for petition circulation 
+during the month in question. 
+Preparation of the monthly 
+reports is burdensome and involves an additional expense to 
+those supporting an initiative or referendum petition. 
+The 
+testimony presented shows that the monthly reports affect the 
+circulation process and therefore the amount of core political 
+speech. The state has failed to demonstrate how the monthly 
+reports meet the stated objectives of preventing fraud as 
+compared with the final report to be filed when the petitions 
+are submitted to the designated election official. 
+The 
+monthly reports are restrictions on core political speech and 
+are invalid. 
+(9] The plaintiffs assert and have presented evidence - 
+support 
+their contention that the Tequirement that 
+petitions be *1004 
+circulated within a six month period, 
+C.R.S. Sec. 1-40-108(1) 
+(Supp. 1994), is an undue restriction 
+on core political speech. While it does, indeed, affect 
+quantity of such speech, 
+the primary purpose 
+is 
+' 
+preparation of an orderly ballot. 
+The defendant has pre 
+sented evidence of successful circulations and there have 
+been many initiated measures on the election ballots in 
+Colorado as demonstrated in defendants’ Exhibits H and I. 
+Testimony of witnesses who successfully placed measures 
+on 
+the ballot shows that with planning and a proper preparation 
+B-24 
+of the ballot title, there are at least four months for active 
+solicitation of signatures and that has been adequate. 
+Viewing this issue as a ballot access measure and con- 
+sidering the importance of fixing a proper title for the 
+legitimate objective of voter education and fairness, the court 
+finds and concludes that the six month limitation is not an 
+unreasonable burden on the rights of either the proponents of 
+the petition or of the voting public. 
+[10] The plaintiffs have made a general challenge to the 
+requirement of an affidavit by the circulators enacted in S.B. 
+93-135 and now appearing in the code as 1-40-111(2) 
+(Supp. 1994) which provides as follows: 
+(2) To each petition section shall be attached a 
+signed, notarized, and dated affidavit executed by the 
+registered elector who circulated the petition section, 
+which shall include his or her printed name, the address 
+at which he or she resides, including the street name 
+and number, the city or town, the county, and the date 
+he or she signed the affidavit; 
+that he or she has read 
+and understands the laws governing the circulation of 
+petitions; that he or she was a registered elector at the 
+time the section of the petition was circulated and 
+signed by the listed electors; 
+that he or she Circulated 
+the section of the petition; 
+that each signature thereon 
+was affixed in the circulator’s presence; 
+that each 
+signature thereon is the signature of the person whose 
+name it purports 
+to be; that to the best of the 
+circulator’s knowledge and belief each of the persons 
+Signing the petition section was, at the time of signing, 
+a registered elector; and that he or she has not paid or 
+will not in the future pay and that he or she believes 
+that no other person has so paid or will pay, directly or 
+indirectly, any money or other thing of value to any 
+signer for the purpose of inducing or causing such 
+signer to affix his or her signature to the petition. 
+B-25 
+
+This is a recognition of the central function of the 
+circulator in preventing fraud and insuring accuracy in the 
+petition signing process. 
+The requirement that the attesting 
+circulator include his or her name and residential address 
+raises the same concerns as the monthly reports by the 
+proponents and to some extent the identification badge 
+requirement. The difference is that the affidavit requirement 
+has the primary purpose of providing the opportunity for an 
+adequate hearing on the sufficiency of the signatures for the 
+petition and for other matters relevant to placing the measure 
+on the ballot. 
+Here, then, the identification must be 
+considered in terms of the state's power to regulate ballot 
+access. 
+There is a compelling necessity to be able to 
+summon circulators to provide testimony at a hearing on 
+challenges to the validity of the signatures and for other 
+matters relevant to the petitioning process. 
+There is a qualitative difference between requiring name 
+and residence identification on an affidavit for the sections 
+of the petition circulated by the identified individual and the 
+inclusion of his or her name and address in monthly reports 
+or on badges displayed on the street. 
+That difference is a 
+matter of access. 
+Those who may seek this identifying 
+information for such purposes as retaliation or harassment 
+will have considerably greater difficulty in finding these 
+names 
+and addresses in the masses of papers filed with the 
+petitions as compared with the monthly reports and the 
+identification badges. 
+Even assuming a strict scrutiny 
+standard, the court finds that the state’s compelling need for 
+the names and addresses of the circulators is justified and 
+this requirement 
+is sufficiently 
+narrowly drawn 
+to be 
+constitutional. 
+[11] The plaintiffs also argue that the circulator affidavit 
+requirement, as it is reiterated in C.R.S. Sec. 1-40-116(1) 
+(Supp. 1994), is unconstitutionally vague because it requires 
+circulators to aver, without personal knowledge, that all 
+B-26 
+circulators have complied *1005. with C.R.S. Sec. 1-40-10] 
+et_seq. 
+While not artfully drafted, this section is not 
+unconstitutionally vague. The general reference to circulator 
+affidavits in Sec. 1-40-116 is controlled by the specific 
+affidavit requirements in C.R.S. Sec. 1-40-111(2), supra. 
+See C.R.S. Sec. 2-4-205 (1980 Repl.Vol. 
+1B). 
+Section 
+!-40-111(2) simply requires that the circulator attest that he 
+or she has circulated a section of the petition in compliance 
+with the initiative statute. The statute does not require each 
+circulator to attest to the validity of the other circulators’ 
+sections of the petition. 
+The plaintiffs have contended that the Ninth Amendment 
+to the United States Constitution has been violated by these 
+limitations on the reserved power of the initiative and 
+referendum. 
+That amendment provides: 
+The enumeration in the Constitution, of certain rights, 
+shall not be construed to deny or disparage others 
+retained by the people. 
+That broad language has seldom been used by the courts 
+as a basis for invalidating legislation. 
+It is not applicable 
+here because 
+the rights enumerated by the First and 
+Fourteenth Amendments are adequate to the determination of 
+the issues presented in this case. 
+As previously noted, the Colorado General Assembly 
+has routinely used a "safety clause,” providing that its 
+legislative enactments 
+are necessary 
+for the immediate 
+preservation of peace, health and safety to avoid a petition 
+for a referendum and the inclusion of such a clause in S.B. 
+93-135 prevented a referendum on it. This court previously 
+denied the plaintiffs’ motion for a preliminary injunction 
+based on a claim of invalidity of that legislative statement. 
+In Part, that decision rested on the conclusion that the 
+plaintiffs were free under the initiative power to propose any 
+B-27 
+
+measure by petition. They could have initiated a repeal of 
+S.B. 93-135. 
+There is a more fundamental reason to reject 
+the request that this court invalidate a safety clause in any 
+legislative enactment. 
+It is the doctrine of separation of 
+powers. 
+No matter how routinely the General Assembly 
+may attach such clauses in legislative measures, before any 
+court can invalidate that provision in any particular bill, that 
+court 
+must 
+make 
+a determination 
+that 
+the 
+particular 
+legislation could not possibly have any relevance to the 
+immediate preservation of the public peace, health or safety. 
+That is a political question which no court is empowered to 
+answer. 
+The safety clause in S.B. 93-135 was a valid 
+provision in that legislation. 
+Upon the foregoing, it is 
+ORDERED that judgment will enter declaring that the 
+following provisions of the Colorado Revised Statutes are 
+invalid because they are in violation of the First and Four- 
+teenth Amendments to the United States Constitution, and 
+ordering that the defendant Secretary of State of the State of 
+Colorado is permanently enjoined from enforcing those 
+provisions: 
+C.R.S. Sec. 1-40-121(1) (Supp.1994) to the 
+extent that it requires the proponents of a petition for the 
+initiative or referendum to provide "the name, address, and 
+county of voter registration of all circulators who were paid 
+to circulate any section of the petition" and the names of 
+circulators in reporting the amounts paid to circulators; 
+C.R.S. Sec. 1-40-121(2) (Supp.1994) in its entirety, and 
+C.R.S. Sec. 1-40-112(2) (Supp. 1994) in its entirety. 
+All 
+other claims of the plaintiffs shall be dismissed. 
+The 
+plaintiffs shall have to and including December 5, 1994, 
+within which to file any claim for attorney's fees under 42 
+‘U.S.C. Sec. 1988. 
+B-28 
+APPENDIX C 
+UNITED STATES COURT OF APPEALS 
+TENTH CIRCUIT 
+AMERICAN 
+CONSTITUTIONAL 
+LAW FOUNDATION, INC.: DAVID 
+AITKEN; JON BARAGA: CRAIG C. 
+ELEY; JACK HAWKINS: LONNIE 
+HAYNES; ALDEN KAUTZ: BILL 
+ORR, individually and as the Parent 
+A 
+Guardian of WILLIAM DAVID 
+Plaintiffs-Appellants/ 
+Cross - Appellees, 
+Vv. 
+NATALIE MEYER, individually and 
+as Secretary of State for the State of 
+Colorado; DOUGLAS BROWN, indi- 
+vidually and as Director of Legislative 
+Legal 
+Services 
+for 
+the 
+State 
+of 
+Colorado, 
+Defendants-Appellees/ 
+Cross - Appellants. 
+Nos. 94-1576 
+94-1581 
+
+Before BRISCOE and LUCERO, Circuit Judges. 
+APPENDIX D 
+CONSTITUTIONS AND STATUTES 
+This matter comes on for consideration of appellant's 
+petition for rehearing and suggestion for rehearing en banc. 
+U. 
+S. 
+Const., 
+Amend. 
+1 Congress 
+shall 
+make 
+no 
+law...abridging freedom of speech... 
+Upon consideration whereof, the petition for rehearing 
+is denied by the panel that rendered the decision. 
+Colo. Const. art. V, § 1 
+In accordance 
+with Rule 35(b), Federal Rules of 
+(6) 
+The petition shall consist of 
+Appellate Procedure, the suggestion for rehearing en banc 
+sheets having such general form printed 
+was transmitted to all of the judges of the court who are in 
+Or written at the top thereof as shall be 
+regular active service. 
+No member of the panel and no 
+designated or prescribed by the secretary 
+judge in regular active service on the court having requested 
+of state; such petition shall be signed by 
+that the court be polled on rehearing in banc, Rule 35, 
+registered electors in their own proper 
+Federal Rules of Appellate Procedures, the suggestion for 
+persons only, to which shall be attached 
+rehearing en banc is denied. 
+the residence address of such person and 
+the date of signing the same. To each of 
+Entered for the Court 
+such petitions, which may consist of one 
+Or more 
+sheets, 
+shall be attached 
+an 
+PATRICK FISHER, Clerk 
+affidavit of some registered elector that 
+each signature thereon is the signature of 
+By: /s/ 
+the person whose name it purports to be 
+Deputy Clerk 
+and that, to the best of the knowledge and 
+belief of the affiant, each of the persons 
+signing said petition was, at the time of 
+signing, 
+a registered 
+elector. 
+Such 
+petition so verified shall be prima facie 
+evidence that the signatures thereon are 
+genuine and true and that the persons 
+signing the same are registered electors. 
+Section 1-40-112, C.R.S. (1997) 
+Circulators-requirements. 
+(1) 
+No 
+section of a petition for any initiative or 
+referendum measure shall be circulated by 
+C-2 
+D-1 
+
+any person who is not a registered elector 
+and at least eighteen years of age at the 
+time the section is circulated. 
+(2) (a) All circulators who are not 
+to 
+be 
+paid 
+for 
+circulating 
+petitions 
+concerning ballot issues shall display an 
+identification 
+badge 
+that 
+includes 
+the 
+words "VOLUNTEER CIRCULATOR" 
+in bold-faced type which is clearly legible 
+and the circulator’s name. 
+(b) All circulators who are to be 
+paid for circulating petitions concerning 
+ballot issues shall display an identification 
+badge that includes the words "PAID 
+CIRCULATOR" in bold-faced type which 
+is clearly legible, the circulator’s name, 
+and the name and telephone number of 
+the individual employing the circulator. 
+Section 1-40-121, C.R.S. (1997) 
+Receiving 
+money 
+to 
+circulate 
+petitions - filing. (1) The proponents of 
+the petition shall file with the official who 
+receives 
+filings under the "Campaign 
+Reform Act of 1974", article 45 of this 
+title, for the election the name, address, 
+and county of voter registration of all 
+circulators who were paid to circulate any 
+section of the petition, the amount paid 
+per signature, and the total amount paid 
+to each circulator. 
+The filing shall be 
+made at the same time the petition is filed 
+with the secretary of state. Any payment 
+D-2 
+made to circulators 
+is an expenditure 
+under article 45 of this title. 
+(2) The proponents of the petition 
+shall sign and file monthly reports with 
+the secretary of state due ten days after 
+the las day of each month 
+in which 
+petitions are circulated on behalf of the 
+proponents by paid circulators. 
+Monthly 
+reports shall set for the following: 
+(a) 
+The 
+names 
+of 
+the 
+proponents; 
+(b) The name and the residential 
+and business addresses of each of the paid 
+circulators; 
+(c) The name of the proposed 
+ballot measure for which petitions are 
+being circulated by paid circulators; and 
+(d) The amount of money paid 
+and owed to each paid circulator 
+for 
+petition circulation during the month in 
+question. 
+
+APPENDIX E 
+LEGISLATIVE COUNCIL 
+OF THE 
+COLORADO GENERAL ASSEMBLY 
+AN ANALYSIS OF 
+1980 BALLOT PROPOSALS 
+Research Publication No. 248 
+1980 
+E-1 
+
+{LETTERHEAD OF LEGISLATIVE COUNCIL] 
+LETTER OF TRANSMITTAL 
+August 7, 1980 
+This analysis of measures to be decided at the 1980 
+general 
+election 
+has been prepared 
+by the Colorado 
+Legislative Council as a public service to members of the 
+General Assembly and to the general public purusant [sic] to 
+section 2-3-303, Colorado Revised Statutes 1973. 
+Four proposed constitutional amendments and two 
+statutory measures are analyzed in this publication. The first 
+four measures are proposed amendments to the constitution. 
+Amendments | and 2 were referred by the General Assembly 
+and amendments 3 and 4 are initiated measures. If approved 
+by the voters, these four constitutional amendments could 
+only be revised by a vote of the electors at a subsequent 
+general election. 
+The statutory proposals, amendments 5 and 6, are both 
+initiated measures. 
+If approved by the voters, these items 
+may be changed by the General Assembly. 
+Initiated mea- 
+sures may be placed on the ballot by petition of the qualified 
+electors. Initiated measures require the signature of not less 
+than eight percent 
+of the qualified electors. 
+The provisions of each proposal are set forth, with 
+general comments on their application and effect. Careful 
+attention has been given to arguments both for and against 
+the various proposals in an effort to present both sides of 
+each issue. 
+While all arguments for and against the 
+proposals may not have been included, major arguments 
+have been set forth, so that each citizen may decide for 
+himself the relative merits of each proposal. 
+E-2 
+It should be emphasized that the Legislative Council 
+takes no position, pro or con, with respect to the merits of 
+these proposals. 
+In listing the ARGUMENTS FOR and the 
+ARGUMENTS AGAINST, the council is merely putting 
+forth the arguments commonly offered by proponents of each 
+proposal. 
+The quantity or quality of the FOR and 
+AGAINST paragraphs listed for each proposal is not to be 
+interpreted as an indication or inference of council sentiment. 
+Respectfully submitted, 
+/s/ Senator Fred Anderson 
+Chairman 
+Colorado Legislative Council 
+E-3 
+
+Lp. 1) 
+Ballot 
+An Amendment to article V and XIX of the consti- 
+Title: 
+tution of the state of Colorado, concerning the 
+initiative and referendum process, and providing 
+that an elector must be registered in order to sign a 
+petition for an initiated or referred measure and that 
+the proposed initiated measures shall be submitted 
+to the legislative research and drafting offices of the 
+general assembly for review and comment at a 
+meeting open to the public before a ballot title is 
+fixed. 
+Provision of the Proposed Constitutional 
+Amendment 
+The proposed amendment to the Colorado Constitution 
+would: 
+— 
+Require that any person signing a statewide or 
+municipal 
+initiative 
+or referendum 
+petition must be a 
+“registered elector,” that is, the signer must be registered to 
+vote at the next general election. [Existing law requires that 
+any person signing such a petition must be a "qualified 
+elector" or a “legal voter," which are equivalent terms and 
+refer to a person who is eligible to register to vote but need 
+not be registered. ] 
+— 
+Change the number of signatures needed to propose 
+an amendment 
+to the state constitution or statutes by 
+initiative from eight percent to five percent of the total votes 
+cast for the Secretary of State a the previous election. 
+— 
+Require that the legislative research and drafting 
+offices to comment on the original drafts of all initiative 
+measures at a meeting open to the public, but prohibit the 
+General Assembly from establishing deac 1s for the 
+submission of an original draft of an initiative or requiring 
+E-4 
+changes in any initiative proposed for submission to the 
+voters. 
+— 
+Add additional language providing that the form of 
+petitions would be prescribed pursuant to law. 
+— 
+Clarify that the General Assembly is prohibited 
+from proposing amendments to more than six articles of the 
+Colorado Constitution at any one general election. 
+— 
+Eliminate conflicting language contained in Article 
+XIX, Section 2, Colorado Constitution, 
+requiring 
+that 
+proposed amendments to the Colorado Constitution submitted 
+by the General Assembly be published in full in not more 
+than one newspaper of general circulation in each county for 
+four successive weeks prior to the election. [Another article 
+of 
+the 
+constitution 
+contains 
+language 
+requiring 
+the 
+publication of proposed constitutional amendments in two 
+issues of two newspapers of opposite political faiths. ] 
+[p. 2] 
+The first power reserved to the people under Article 
+V, Section 1, Colorado Constitution, is the initiative. Under 
+the initiative provision, the qualified electors of Colorado 
+may petition to place a proposed 
+state 
+law or 
+state 
+constitutional amendment before the voters at a general 
+election. 
+The second power reserved to the people is the 
+referendum, which involves two separate procedures: 1) the 
+General Assembly may refer proposed changes in the statutes 
+to a vote at a general election; and 2) the referendum also 
+establishes a procedure whereby measures, 
+or sections 
+thereof, adopted by the General Assembly which are not 
+necessary to immediate preservation of the public peach, 
+health, and safety may be submitted to a vote at the polls 
+upon petition. 
+For all practical purposes, referendum by 
+petition is obsolete because nearly all bills enacted by the 
+E-5 
+
+General Assembly contain a "safety clause” stating that the 
+measure is necessary for the immediate preservation of the 
+public peace, health and safety. 
+When a safety clause is 
+utilized, the legislation is not subject to a referendum. 
+Presently, 
+the Colorado 
+Constitution 
+requires 
+that 
+signers of initiative or referendum petitions be qualified 
+electors or legal voters. 
+Based on Colorado Supreme Court 
+decisions, qualified elector and legal voter are equivalent 
+terms. 
+A qualified elector means every person who on the 
+date of the next ensuing election has attained the age of 
+eighteen years, is a citizen of the Umiied States, and has 
+resided in this state and a certain precinct thirty-two days 
+immediately preceding the election. 
+In order to vote in a 
+general election, a qualified elector must first register with 
+the county clerk. 
+Briefly, registration includes affirming 
+citizenship, residency, and signing the registration form. In 
+sum, all legally registered electors are qualified electors, but 
+not all qualified electors are registered electors. 
+In 1978, the number of registered electors in Colorado 
+numbered 1,345,006, compared to an estimated 1.8 million 
+qualified electors. Thus registered electors constitute a much 
+smaller pool of potential signers of initiative measures. The 
+amendment, however, would reduce the number of signa- 
+tures needed for a statewide initiative from eight percent to 
+five percent of the total votes cast for Secretary of State at 
+the previous election. 
+Based on 1978 data, about 62,200 
+signatures of qualified electors are needed on statewide 
+initiative petitions—an estimated 3.4 percent of all qualified 
+electors. 
+The proposal would reduce 
+the number of 
+signatures required to about 38,800 -- an estimated 2.9 
+percent of all registered electors. 
+Although fewer persons 
+would be eligible to sign petitions, the relative number of 
+signatures required would be smaller. 
+The initiative and referendum are applicable to cities 
+and towns, including home rule municipalities. The proposal 
+would require that signatures of not more than 10 percent of 
+the registered electors of a city or town would be needed for 
+a referendum and not more than 15 percent for an initiative 
+measure. 
+Under current law these maximum signature 
+requirements are applicable to qualified electors rather than 
+registered electors. 
+Public hearing on initiative proposals. 
+The proposed 
+amendment would require that the original text of any 
+proposed initiative must be submitted to the legislative 
+research and drafting offices for review and comment. Both 
+offices are agencies of the Colorado General Assembly. The 
+review and comment by the two agencies would be presented 
+to the proponents of an initiative at a meeting open to the 
+public. The proponents could disregard any or all comments 
+made by the legislative staff agencies and would not be 
+required to amend, modify, or alter any measure prior to 
+petition circulation and placement on the ballot. 
+The review and comment procedure proposed by the 
+amendment would revise the current statutory procedure 
+provided for proponents of statewide initiatives pursuant to 
+section 
+1-40-101, 
+Colorado Revised Statutes of 1973. 
+Presently, comments made to proponents must be kept 
+confidential until the time the ballot title is established. 
+A 
+purpose of the existing comment procedure is to assist the 
+proponents of an initiative in developing technically [p. 3] 
+inform the public, as well as proponents, of the potential 
+impact of the original draft of any proposed initiative. 
+Limitation on articles proposed for amendment by the 
+General Assembly. 
+While people may initiate amendments 
+to the Colorado Constitution under Article V, a separate 
+article also authorizes the General Assembly to submit 
+proposed constitutional amendments to the Colorado voters 
+E-7 
+
+for their consideration. The Colorado Constitution currently 
+provides that the General Assembly may 
+not propose 
+amendments to more than six articles of the constitution in 
+any One session. 
+The General Assembly is organized on a 
+biennial or two-year bases, but convenes in regular sessions 
+annually. 
+The amendment would 
+limit each General 
+Assembly to proposing amendments to not more than six 
+articles. In past general elections, the General Assembly has 
+not offered amendments to more than six articles of the 
+Colorado Constitution. 
+As recently as the general elections 
+in 1974, 1970, and 1954, the General Assembly did offer 
+amendments to six articles. 
+The Colorado Constitution 
+contains 25 articles. 
+The amendment would clarify the 
+number of articles that the General Assembly could propose 
+to amend at any one election, but it would not restrict the 
+number of changes proposed for any six articles. 
+Popular Arguments For 
+1) 
+The present procedure in which any qualified 
+elector may be eligible to sign an initiative petition makes 
+any challenge of the signatures on an initiative petition 
+impractical because there is no official record of qualified 
+electors. 
+Without an inordinate expense of time and 
+resources, it is impossible for a citizen, organization, or 
+even the Secretary of State to actually determine the validity 
+of the 62,200 signatures now required to place an initiative 
+petition on the statewide ballot. The likelihood of fraud in 
+the petition process would be greatly reduced by requiring 
+the signatures of registered electors. 
+If a question arises as 
+to the authenticity of legality of the signatures gathered on 
+any petition, verification could be easily made by comparing 
+the signatures and residences on the petition with the names 
+and residences of all registered electors as shown in the 
+registration books of the county clerks and recorders. 
+2) 
+The amendment would place greater responsibility 
+on the part of those person circulating petitions to determine 
+whether the individual signing the petition is eligible to sign 
+the petition. 
+The proponents would have access to public 
+records of registered electors and would ascertain the validity 
+of their petitions prior to filing, thus reducing any possibility 
+of challenge by those persons opposing the petition. 
+3) 
+The amendment would reduce 
+the number of 
+signatures needed to place an initiative measure on the ballot 
+and provide more time in the summer preceeding [sic] the 
+election for the collection of signatures. 
+For the 1980 
+general election, for example, sponsors of statewide initiative 
+measures must obtain in excess of 62,000 signatures in order 
+to place an initiative measure on the statewide ballot. 
+If the 
+proposed amendment were 
+in effect, 
+less than 39,000 
+signatures would be required. 
+The amendment would also 
+extend the date for collection of signatures by changing the 
+final day for filing signatures from early July to early 
+August. 
+The increase in the number of days allowed for 
+circulation of signatures at this time is important because 
+voter interest increases with the proximity of the election. 
+Furthermore, 
+many 
+initiative 
+matters 
+involve 
+items 
+considered by the General Assembly, and would be allowed 
+for proponents to determine whether a particular measure 
+will be enacted into law by the General Assembly before 
+attempting to initiate a measure. 
+{[p. 4] 
+4) The requirement that the review and comments 
+of the legislative agencies be presented to the proponents of 
+a proposed initiative at a meeting open to the public is a 
+significant improvement over the current practice which 
+provides for a confidential meeting with proponents. 
+An 
+open public meeting would help assure that all relevant 
+questions and issues surrounding the proposals are raised at 
+the proper time -- before the circulation of the petition for 
+signatures. At present, very little information is available to 
+E-9 
+
+persons 
+signing 
+petitions 
+other 
+than 
+that provided by 
+sponsors and circulators of the petitions. 
+Public disclosure 
+from the beginning would enhance the likelihood of an 
+electorate which is essential 
+to a constructive 
+initiative 
+process. 
+Popular Arguments Against 
+1) 
+The initiative and referendum are two fundamental 
+exercises 
+of political 
+power 
+provided 
+by the 
+state 
+constitution. 
+Any attempt to amend the initiative process 
+should enhance rather than limit the ability of all adult 
+citizens to petition for a change in the laws. The proposed 
+amendment would mean that nearly 500,000 Coloradoans 
+[sic], 18 years of age and older, would not be eligible to 
+sign an initiative or referendum petition simply because they 
+are not registered to vote. 
+The current 
+initiative and 
+referendum process may encourage these individuals to 
+participate in governmental decision making. 
+2) 
+There is no need to tighten the integrity of the 
+signature gathering process or initiated petitions. 
+Every 
+petition warns potential signers that it is a felony to sign a 
+petition more than once or to sign a petition knowing that he 
+or she is not a qualified elector. 
+Each petition states the 
+conditions that must be met to be a qualified elector. 
+In 
+those instances in which signatures of qualified electors are 
+challenged, the courts may resolve the matter. 
+Rather than 
+ensure the integrity of petitions by requiring that signers by 
+registered electors, the amendment would create uncertainly 
+for both potential signers and circulators 
+of petitions 
+regarding whether an individual was a registered elector. 
+3) The amendment would require that original drafts 
+of the text of initiated proposals must be submitted to 
+legislative 
+staff 
+agencies 
+for 
+review 
+and 
+comment. 
+Comments are to be rendered at a public hearing following 
+E-10 
+full and timely notice. Substantial publicity probably would 
+be given to a proposal at this time. 
+However, the original 
+draft of an initiative may be changed prior to the time the 
+measure is circulated for signatures. 
+Thus the information 
+made available to the public at the proposed hearing may not 
+reflect the actual language of the final petition or the 
+language that would be considered by those signing petitions 
+Or voting on the measure at the general election. 
+Giving 
+publicity to the original draft language of a proposed 
+measure would be unfair to initiative proponents, especially 
+if significant revisions are made before a final draft measure 
+is submitted for public consideration. 
+4) 
+Colorado’s initiative process as not resulted in an 
+unreasonable number of statewide measures appearing ont he 
+ballot. 
+During the 1970s, the total number of statewide 
+initiated measures submitted to the people at each election 
+was: 1970-zero; 1972-seven; 1974-four; 1976-six; and 1978- 
+one. In considering these 18 proposals, the voters approved 
+six and defeated 12. At the general election in November of 
+1980, 
+only four 
+statewide 
+initiated 
+measures 
+will 
+be 
+considered. This would seem to indicate that the process has 
+not been abused. 
+E-11 
+
+APPENDIX F 
+HOUSE OF REPRESENTATIVES 
+STATE OF COLORADO 
+REPORTER'S TRANSCRIPT 
+Senate Bill 93-135 
+April 7, 1993 
+Pursuant to notice to all parties in interest, the above- 
+referenced matter came on for hearing on second reading 
+before the Colorado House of Representatives, Denver, 
+Colorado, on Wednesday, April 7, 1993, at the approximate 
+hour of 9:20 a.m. 
+** * 
+{[p. 5] 
+So now we are back to what our current law is. 
+Individuals may carry as many as they desire. 
+Those were 
+the key provisions that were 
+in that 
+committee amendment. 
+Now, Madam Chairman, 
+if I may move on to a 
+discussion of the bill since we have already adopted that 
+amendi. -nt. 
+CHAIRWOMAN KREUTZ: 
+Okay. 
+The bill as 
+amended. 
+Representative Fleming. 
+REPRESENTATIVE FLEMING: 
+Thank you, Madam 
+Chairman. 
+F-1 
+
+CHAIRWOMAN KREUTZ: 
+Is there discussion? 
+(No response. ) 
+REPRESENTATIVE FLEMING: May I proceed? 
+CHAIRWOMAN KREUTZ: 
+Yes. _ Representative 
+Fleming. 
+REPRESENTATIV®é FLEMING: 
+Senate 
+Bill 135 
+basically is--is a draft--drarted to address some problems that 
+we have been seeing occurring in our initiative and petition 
+process out there. 
+Last year, on the ballot, we exceeded the State of 
+California in the number of these initiatives on the ballot. 
+And along with that came--as--as we go through the process 
+and have more and more issues on our ballot, we are seeing 
+some problems arise. And that’s what 135 [p. 6] is brought 
+before you to resolve. 
+It’s to address some of those 
+concerns. 
+It will inform the public in a more timely manner what 
+issues will be on the ballot at the general election in odd 
+years. 
+It will cut costs by approximately $10,513 per--per 
+petition. 
+And how we expect to do that is through the 
+procedure of allowing for random sampling, a process which 
+is being used in a number of states. 
+It reduces the taxpayers’ costs while speeding up the 
+decision for the proponents. 
+If after the random sample, it appears that less than 90 
+percent or more than a hundred percent of the required 
+Signatures have been submitted, the Secretary of State will 
+announce the results of sufficiency. If you have less than 90 
+percent, you do not make the ballot. If you have more than 
+F-2 
+110, you do. If you are in that range of between 90 percent 
+and 110 percent of the required signatures submitted, the 
+Secretary of State will check all signatures. 
+The process will be streamlined, allowing protests to go 
+directly to court. This again will save time and thousands of 
+dollars. 
+Requires the proponents who pay circulators to report to 
+the Secretary of State the paid circulators’ names and 
+addresses. 
+{[p. 7] 
+The bill includes enabling legislation again for those 
+local governmental entities so that the process of placing a 
+measure on their ballots is clear. 
+The amendment reorganizes the statutory provisions that 
+govern initiative and referendum procedure. And one of the 
+major features of this measure is that all decisions and filing 
+times are tied to the Constitution. This--by doing so, in this 
+way if we are amended again, no additional legislation will 
+be needed to implant--to implement the will of the people. 
+Basically, the bill assures that the people of the State of 
+Colorado will continue to have full access to the ballot 
+through a clear and simple process. 
+What I'd like to do now is, there has been an awful lot 
+of--of misinformation that has been passed about out there, 
+and I'd like to go through some of those items and tell you 
+what is not in the bill. 
+There are no new fees in the bill. That provision 
+is 
+removed. The cure process remains in place and intact as 
+placed--as in the original language of the--the measure 
+passed by Representative 
+Duke a few years back. 
+F-3 
+
+Again, the persons carrying petitions now may carry as 
+many of the petitions as they so desire. 
+The six months’ 
+process for passing petitions remains intact. The time clock 
+starts ticking at the point of--the [p. 8] title--title setting 
+board has set the title. 
+Six months, that is current law, is 
+present. 
+Those are a lot, I think, of the major concerns that--that 
+you all have been hearing about. 
+Those--those are the 
+provisions that have not been changed that follow current 
+law. Many of the concerns that you have seen in the printed 
+material raised before you are really not with the proposal of 
+135. They are with current law. They are with a measure 
+that was passed, I believe, in 1989 and has been current law 
+since then. 
+And many of the objections you've seen in the printed 
+material refer to that current, existing law. 
+We're doing 
+very little to change many of those provisions in this bill. 
+With that, I'd just like to make a couple more points 
+and then I'll close and let others who have comments to 
+make, 
+make them. 
+The burden of proof issue. This bill does nothing 
+to 
+change the burden of proof. What we do change is the 
+process and the role the Secretary of State plays. You 
+know, any matter litigated in this nation requires the 
+proponents by at least a preponderance of the evidence to 
+show the validity of their position. 
+This statute continues 
+that tradition. The burden of proof has been, always has 
+been, and continues to be [p. 9] on the proponents. We 
+simply change a process here. 
+With that, there’s many other discussions regarding the 
+time lines. The time lines in the statute and the Constitution 
+are designed to assure that the process gives sufficient time 
+F-4 
+for reflection and modification but doesn’t drag on forever 
+if the measure doesn't have the support of the community. 
+A balance 
+is struck between expeditious hearings and 
+sufficient time to do the task right. 
+And the issue of destruction of petitions. 
+Again, I 
+would submit to you is--is an area where we again look at 
+containing fraud. 
+That is the--the two main things we're 
+attempting to do with 135, is to put together a clear timely 
+process to allow the initiatives to make it to the ballot; those 
+that have followed the process in the proper form. 
+And 
+secondly, to constrain fraud in this state. 
+Last election cycle, there were nine warrants issued for 
+fraud out there. We have only been able to serve on four 
+because unfortunately, we had no identification as to where 
+to find those other five individuals. And let me tell you, we 
+did hear sufficient testimony in committee that fraud was 
+occurring. 
+One striking piece of testimony I recall was a gentleman 
+who himself was head of a petition drive. He had hired 
+and 
+paid those circulators out there. He had [p. 10] paid the--the 
+circulators. The petitions were handed back to him. He was 
+told he had some 32,000-plus signatures. When he sat down 
+and counted them himself, he only found he had 26,000. So 
+his own paid circulators had--had frauded him. 
+These are the kinds of comments and letters and 
+concerns and testimony we heard in the Business Affairs and 
+Labor Committee. 
+That is why we have put in here the 
+process for identifying who the circulators are, having them 
+record--be identified by a name and an address so that when 
+indeed there is this attempt to defraud the public out there, 
+we have a way of--of prosecuting these individuals. 
+
+No one here is attempting to limit the process. We just 
+want it to be a clear and well defined process and one that 
+is fraud free. 
+And I have for you another example of--of fraud which 
+as we go on here in the debate, perhaps I'll have an 
+opportunity to--to show you. I don’t know where it is. I've 
+a photograph of a gentleman in--sitting on a park bench--here 
+he is--in Boulder County. And what this sign says is, "Keep 
+gambling out of Boulder County." 
+Incidentally, this is an exhibit. And it is dated and was 
+presented for some of the legal proceedings that have been 
+going on. 
+And as we all know, there were no gambling [p. 11] 
+initiatives on the ballot regarding Boulder County last year. 
+And this is how this individual attempted to gather 
+signatures. 
+Folks, this is fraud. He is frauding the public 
+by advertising that, you know, he’s got a petition here that’s 
+going to keep gambling out of Boulder while he’s sitting in 
+the middle of Boulder. 
+These are the kinds of things that this bill is designed to 
+address. 
+With that, Madam Chairman, I will shut up and let 
+others have a turn. 
+I would just ask for your favorable 
+consideration. 
+F-6 
+APPENDIX G 
+DAVIDSON - REDIRECT 
+[p. 159, ll. 1-25] 
+Now, has there been an increase in the number of 
+initiatives over the past two years--four years, I’m 
+sorry, starting from 1990? 
+There has been an increase. 
+And I’m talking about citizen-initiated-- 
+That’ s-- 
+--measures. 
+That’s correct. 
+And if my recol'ection is correct, there were three 
+citizen-initiated members--measures in 1990? 
+That’s correct. 
+And there were ten in 1992? 
+That is also correct. 
+Okay. And four have been certified this year already? 
+That is correct. 
+How many registered electors are there in the State of 
+Colorado presently? 
+1.8--it’s almost 1.9 million. 
+G-1 
+
+Okay. And do you know how many qualified electors 
+there are? 
+There's 2--as of 1990--I mean, excuse me, 1992, there 
+was 2.6, I believe. 

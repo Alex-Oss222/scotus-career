@@ -9,7 +9,7 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 - **Edition:** October 26, 2026
 
 
-24 current-term Court events completed, with the latest dated 1998-12-14. 104 scheduled items remain open (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 117 open inventory items in total. No chunk 1 or chunk 2 matter remains stopped. Records control. The [manifest](manifest.md) and [ledger](ledger.md) identify durable Records and pending events. The opening setting remains preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md).
+36 current-term Court events completed, with the latest dated 1999-01-20. 92 scheduled items remain open (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 105 open inventory items in total. No chunk 1, chunk 2 or chunk 3 matter remains stopped. Records control. The [manifest](manifest.md) and [ledger](ledger.md) identify durable Records and pending events. The opening setting remains preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md).
 
 ## Completed Events and Admitted Sources
 
@@ -39,6 +39,18 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 | 1998-12-14 | Calderon v. Coleman | The petition for a writ of certiorari is granted on the presented effect question. The Court vacates the judgment insofar as it sustains commutation-based relief from the death sentence and remands for further proceedings. The grant's vote is not disclosed. The merits judgment and doctrinal joins are stated separately below. | [record](../records/calderon_v_coleman_summary_merits_1998-12-14.md) |
 | 1998-12-14 | Haddle v. Garrison | The Eleventh Circuit's judgment is reversed, and the case is remanded. | [record](../records/haddle_v_garrison_merits_1998-12-14.md) |
 | 1998-12-14 | NYNEX Corp. v. Discon, Inc. | The Second Circuit's judgment is vacated in the specified §1 per se and derivative §2 respects, and the case is remanded for further proceedings under the proper standards. | [record](../records/nynex_corp_v_discon_merits_1998-12-14.md) |
+| 1998-12-16 | City of Cincinnati v. Kruse | The Court affirms the Sixth Circuit's judgment invalidating Cincinnati's mandatory candidate-expenditure ceiling. | [record](../records/city_of_cincinnati_v_kruse_merits_1998-12-16.md) |
+| 1999-01-07 | McClellan v. Cablevision of Connecticut, Inc. | The Court reverses in part and remands on the implied federal damages question. | [record](../records/mcclellan_v_cablevision_merits_1999-01-07.md) |
+| 1999-01-12 | Buckley v. American Constitutional Law Foundation, Inc. | The Court affirms the reviewed invalidations, with the component votes and limits below. | [record](../records/buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md) |
+| 1999-01-12 | El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng | The Second Circuit's judgment on the personal-injury branch is reversed, and the case is remanded for a conforming judgment restoring dismissal of that claim. | [record](../records/el_al_israel_airlines_v_tseng_merits_1999-01-12.md) |
+| 1999-01-13 | City of West Covina v. Perkins | The judgment requiring individualized instructions about published return procedures is reversed, and the case is remanded for further proceedings consistent with this opinion. | [record](../records/city_of_west_covina_v_perkins_merits_1999-01-13.md) |
+| 1999-01-13 | Marcus v. Iowa Public Television | The judgment rejecting the common selection-policy claim and its derivative equitable relief is affirmed. | [record](../records/marcus_v_iowa_public_television_merits_1999-01-13.md) |
+| 1999-01-13 | Roberts v. Galen of Virginia, Inc. | The judgment on the appealed EMTALA stabilization claim is reversed, and the case is remanded for further proceedings consistent with this opinion. | [record](../records/roberts_v_galen_of_virginia_merits_1999-01-13.md) |
+| 1999-01-14 | State Street Bank & Trust Co. v. Signature Financial Group, Inc. | The Federal Circuit's eligibility-based reversal is reversed. Issued claims 1–6 are ineligible under §101, and the case is remanded for proceedings consistent with that determination. | [record](../records/state_street_bank_v_signature_financial_group_merits_1999-01-14.md) |
+| 1999-01-20 | California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al. | The judgment dismissing the institutions' appeal is affirmed. | [record](../records/california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md) |
+| 1999-01-20 | Department of the Army v. Blue Fox, Inc. | The Ninth Circuit's judgment permitting the Army lien claim is reversed, and the case is remanded with instructions to dismiss that claim for lack of an applicable waiver of sovereign immunity. | [record](../records/department_of_the_army_v_blue_fox_merits_1999-01-20.md) |
+| 1999-01-20 | Humana Inc. v. Forsyth | The Ninth Circuit's judgment is affirmed on the McCarran-Ferguson question insofar as it permits the surviving Co-Payor RICO overpayment claim to proceed. | [record](../records/humana_inc_v_forsyth_merits_1999-01-20.md) |
+| 1999-01-20 | Lopez v. Monterey County | The dismissal is reversed and the case remanded; the dependent tenure-order disposition is set aside to the extent stated below. | [record](../records/lopez_v_monterey_county_merits_1999-01-20.md) |
 
 ## Current Law
 
@@ -208,6 +220,78 @@ The pleaded vertical supplier switch cannot proceed as a per se group boycott on
 
 Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/nynex_corp_v_discon_merits_1998-12-14.md#holdings).
 
+### City of Cincinnati v. Kruse — 1998-12-16
+
+The existing distinction between contributions and expenditures governs this municipal ceiling. Cincinnati cannot enforce the challenged limit. No general contribution, disclosure or voluntary-financing rule changes, and the decision creates no compulsory empirical-testing requirement or categorical ruling on every measure addressing officeholder time.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/city_of_cincinnati_v_kruse_merits_1998-12-16.md#holdings).
+
+### McClellan v. Cablevision of Connecticut, Inc. — 1999-01-07
+
+The asserted implied section 531(e) damages route is unavailable. The substantive statutory restrictions remain, while any other relief depends on its actual independent authority. The decision neither validates the exclusion nor establishes a general immunity from suit, and it changes no received securities or other existing private action.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/mcclellan_v_cablevision_merits_1999-01-07.md#holdings).
+
+### Buckley v. American Constitutional Law Foundation, Inc. — 1999-01-12
+
+Registration cannot be used to exclude otherwise qualified resident-adult circulators; personal names cannot be compelled on the challenged solicitation badge; and the reviewed final and monthly individual-disclosure packages cannot be enforced. Governing law preserves distinct authority for lawful administration, verification, fraud controls, sponsor and aggregate disclosures. The independent validity and remedial treatment of unreviewed badge and monthly fields remain outside this judgment. No fractured-opinion or narrowest-ground synthesis is needed: each Court holding has at least six direct joins, and the badge holding has eight.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md#holdings).
+
+### El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — 1999-01-12
+
+Within Article 17's actual personal-injury field, a claimant cannot obtain local damages merely because the Convention's accident or bodily-injury condition is unsatisfied. Domestic law continues to supply losses and beneficiaries where permitted by Zicherman, subject to treaty liability conditions. Outside-field occurrences, baggage questions outside this review, and Article 25's full operation on proved willfulness remain unresolved here.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/el_al_israel_airlines_v_tseng_merits_1999-01-12.md#holdings).
+
+### City of West Covina v. Perkins — 1999-01-13
+
+An owner with timely notice of the seizure and custodian has no federal entitlement to personalized instruction about adequate, reasonably ascertainable published return procedures. Meaningful notice, actual access and a distinct supported obstruction claim remain separate questions. The ruling changes the Ninth Circuit's instruction requirement while leaving Good's civil real-property protection and California's separate return routes intact. It resolves no independent immunity, warrant-validity, damages or title question.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/city_of_west_covina_v_perkins_merits_1999-01-13.md#holdings).
+
+### Marcus v. Iowa Public Television — 1999-01-13
+
+Forbes continues to govern genuinely selective public-broadcast debates. Iowa's supported contextual editorial judgment satisfies that rule without a new universal formula or procedural prerequisite, while viewpoint, pretext, actual-comparator and forum-boundary review remain required. The committee-specific Article III holding permits review of this common policy challenge; it does not keep all former candidates' individual demands alive. The affirmed denial of the common forum claim defeats its derivative equitable relief, including the guide-correction request only in that capacity.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/marcus_v_iowa_public_television_merits_1999-01-13.md#holdings).
+
+### Roberts v. Galen of Virginia, Inc. — 1999-01-13
+
+EMTALA stabilization litigation proceeds without an additional improper-purpose element. The statutory determination, treatment or lawful-transfer conditions, direct personal harm, causation, permitted remedies and limitations period retain their independent force. Screening, stabilization and the separate state-law agency claim remain distinct. The judgment changes no general medical-negligence rule and awards no relief beyond reversal and remand of the appealed stabilization disposition.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/roberts_v_galen_of_virginia_merits_1999-01-13.md#holdings).
+
+### State Street Bank & Trust Co. v. Signature Financial Group, Inc. — 1999-01-14
+
+Section 101 neither excludes inventions because they serve business nor establishes eligibility because they produce useful financial values. Courts must construe and assess the actual complete combination under the inherited calculation/application distinction. These six issued combinations are ineligible; that result establishes no categorical answer for all software, data structures or commercial inventions. Other patent requirements and the retained judicial/factual allocation continue to operate separately.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/state_street_bank_v_signature_financial_group_merits_1999-01-14.md#holdings).
+
+### California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al. — 1999-01-20
+
+Rule 23.1 continues to protect the opportunity to object to disposition of a derivative action, but an otherwise nonparty shareholder must use the intervention route to obtain the party status required for this settlement appeal. The contrary settlement-appeal proposition in Tryforos no longer governs this setting. Actual-party review and review of a genuine intervention denial remain distinct lawful routes. The decision neither converts notice into constitutionally adequate representation nor weakens the protection of independent rights against unsupported nonparty preclusion. It leaves the settlement undisturbed without deciding its merits or creating a new intervention or collateral proceeding.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md#holdings).
+
+### Department of the Army v. Blue Fox, Inc. — 1999-01-20
+
+Courts must identify the claimant's actual entitlement and the operation of the requested remedy before treating a monetary demand as specific relief under §702. A private-debt substitute does not become authorized merely through an equitable lien, a named project account, notice or the Government's failure to obtain a required bond. A genuine identified-property claim, enacted payment mandate, properly founded Tucker Act claim, recovery against an actual Miller Act surety or another unequivocal waiver remains governed by its own requirements. None is awarded here.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md#holdings).
+
+### Humana Inc. v. Forsyth — 1999-01-20
+
+The McCarran-Ferguson inquiry compares the operation of the federal claim with the State's actual protected policy and administration. Neither overlap nor greater federal recovery alone bars the federal claim; actual conflict or frustration can do so even without a literal contradiction. On the relationship established here, the surviving Co-Payor RICO claim complements Nevada's fraud prohibition without displacing an exclusive state mechanism. No retrospective Nevada cause of action or broader RICO entitlement is created.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/humana_inc_v_forsyth_merits_1999-01-20.md#holdings).
+
+### Lopez v. Monterey County — 1999-01-20
+
+The County's obligation to preclear administered changes is unchanged. State compulsion, delay and attachment of a related ordinance do not dispense with it. The actual scope of the 1983 approval remains to be determined. Prospective nonuse must be enforced, with any genuinely judicial temporary plan meeting every stated necessity, authority, legal-compliance and duration limit. The dependent tenure question returns for lawful reconsideration without automatic reinstatement or a selected replacement system.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/lopez_v_monterey_county_merits_1999-01-20.md#holdings).
+
 ## Material Published Noncontrolling Positions
 
 ### United States v. Wright — 1998-10-05
@@ -339,6 +423,62 @@ His concurrence concerns this search's fruits, not a universal remedy for every 
 **Ginsburg, concurring in part and dissenting in part.** She joins the Chapman rule for this defined capital-selection error but concludes that the State cannot establish noncontribution beyond a reasonable doubt on the existing record. The misleading account could turn explanations of violent behavior into reasons to doubt the nondeath option; the convictions emphasized in aggravation also restricted commutation. She considers the corrective direction and the substantial independent institutional-danger case, but neither establishes that the misinformation made no contribution. The charge first purported to explain life without parole through inaccurate information and then directed the jury to disregard that subject. The District Court's contextual explanation of that conflict supports its judgment. Her conclusion does not depend on a universal rule against corrective instructions, a specific parole question, New's excluded proffer or later habeas mitigation. Her O'Neal reservation of a universal Chapman extension remains, and her Roy position does not require express findings on every capital factor. She would affirm conditional sentence relief rather than require another application of the same substantive inquiry.
 
 [Published opinion topology](../entering-law/calderon_v_coleman_summary_merits_1998-12-14.md#opinion-topology).
+
+### Buckley v. American Constitutional Law Foundation, Inc. — 1999-01-12
+
+**Thomas, concurring in the judgment.** Thomas agrees that every reviewed restriction is invalid but applies traditional strict scrutiny to the direct speech and severe associational burdens. Registration reduces the Meyer-protected speaker pool without a narrowly fitted traceability justification. The personal-name badge directly intrudes on core political speech and fails narrow tailoring even assuming a compelling anti-fraud interest. The reports' effect on circulation is more attenuated; compelled disclosure independently burdens association and belief. Singling out paid circulators poorly fits general identification, and the need to expose each individual's identity and compensation has not been demonstrated. Monthly exposure is considered separately from final reporting. As an alternative, the challenged packages also fail Buckley's more forgiving substantial-relationship test. He does not displace Buckley's surviving disclosure holdings, adopt the Court's entire method, invalidate retained reports or decide reserved fields.
+
+**O'Connor, joined by Breyer, concurring in part and dissenting in part.** They join Part II's complete personal-name-badge explanation: direct intrusion into political conversation requires narrow tailoring, and the retained affidavit and enforcement tools defeat this demand on this record. They would sustain registration and the challenged final and monthly reports. Under Anderson–Burdick, readily available enrollment provides an administrable connection to the formal petition process without the severe burden found by the Court; Meyer does not make every qualification equivalent to a ban on paid circulators. Reports are indirect financial-disclosure burdens rather than badges worn during persuasion. Identifying payees and individual disbursements can permit checking campaign activity beyond aggregate sums, and contemporaneous monthly information can expose abuse before the vote. They find the relationship sufficient even under more demanding disclosure review. They acknowledge the excluded unregistered speakers and possible exposure costs, but reach different applications. They propose no automatic admission rule, universal minimum scrutiny or independent disposition of reserved fields.
+
+[Published opinion topology](../entering-law/buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md#opinion-topology).
+
+### El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — 1999-01-12
+
+**Justice Stevens, dissenting.** Stevens reads Article 24's reference to Article 17 as covering injuries arising from an accident. He agrees that an accident causing only psychic injury remains governed by the Convention and cannot support a separate local recovery. He disagrees that the same displacement follows for a nonaccident: the text does not clearly extinguish local remedies for that residual category. Saks separates the event from the injury, Floyd leaves independent local claims open, and Zicherman's limited domestic supplementation does not settle the distinction. Uniformity cannot extend the treaty beyond the class its language identifies. Taking the Second Circuit's nonaccident determination as the premise of this review, without independently approving it, he would leave local proceedings available. He would award no treaty recovery and decides no battery, false imprisonment, loss or local defense.
+
+[Published opinion topology](../entering-law/el_al_israel_airlines_v_tseng_merits_1999-01-12.md#opinion-topology).
+
+### City of West Covina v. Perkins — 1999-01-13
+
+**Justice Scalia, joined by Justice Thomas, concurring in the judgment.** The concurrence agrees that officials need not give personalized instruction about generally available return law and that the missing warrant number does not sustain the judgment on this record. It withholds assent to the Court's use of civil procedural-due-process decisions as the source of notice requirements when officers execute a criminal search warrant. Mullane's notice setting and Good's civil real-property seizure do not, without further analysis, establish the duties attending execution of a criminal warrant. That source objection does not require approval of secrecy or obstruction, a finding that the Fourth Amendment affirmatively commands a particular inventory, or a holding that it displaces every later due-process protection. The concurrence leaves the constitutional source, timing and detailed content of any separate notice obligation unresolved and joins the limited reversal and remand.
+
+[Published opinion topology](../entering-law/city_of_west_covina_v_perkins_merits_1999-01-13.md#opinion-topology).
+
+### Marcus v. Iowa Public Television — 1999-01-13
+
+**Justice Stevens, joined by Justices Souter and Ginsburg, dissenting in part.** The dissent joins the committee-based jurisdictional holding and the nonpublic-forum classification, including the permission for reasonable selection and the prohibition of viewpoint discrimination. It maintains the standards objection stated in the Forbes dissent: allocation of a government-provided candidate platform requires sufficiently definite and reviewable restraints on selection. Iowa's fairness policies and illustrative factors describe professional judgment, but Instruction 15 still leaves officials to decide which candidacies interest the audience without adequate operative limits. The dissent accepts the adverse findings about viewpoint motive. Its objection is that sincere discretion and absence of hostility do not cure inadequate standards under Cornelius, Shuttlesworth and Rosenberger. The candidates' assertions about missing information, publicity and comparisons show why meaningful review matters; the dissent does not treat those assertions as findings of equal electoral significance or discrimination.
+
+The dissent would vacate rejection of the committee's common policy claim and remand for consideration under adequately constrained selection standards. It would return the program-guide request for consideration of its connection to permissible equitable relief and any continuing injury the relief could redress, without establishing an independent guide claim or an entitlement to correction. It would order neither automatic ballot-based admission, a universal numerical threshold, a replacement 1996 broadcast, compulsory future programming nor damages. These views remain noncontrolling; they do not change the operative Forbes rule.
+
+[Published opinion topology](../entering-law/marcus_v_iowa_public_television_merits_1999-01-13.md#opinion-topology).
+
+### Roberts v. Galen of Virginia, Inc. — 1999-01-13
+
+
+
+[Published opinion topology](../entering-law/roberts_v_galen_of_virginia_merits_1999-01-13.md#opinion-topology).
+
+### State Street Bank & Trust Co. v. Signature Financial Group, Inc. — 1999-01-14
+
+**Chief Justice Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees that the business-method exclusion and the useful-result sufficiency rule are too broad. Benson and Flook show that a useful computation is not enough; Diehr requires the integrated application to be examined as a whole. Section 112 prevents treating the issued machine claims simply as cancelled methods. He would require the lower court to determine the actual corresponding structure and decide whether the integrated system claims a practical machine application or effectively the accounting mathematics itself. Correcting the appellate test does not, in his view, justify automatically reinstating the District Court's categorical approach. He would vacate and remand that inquiry under Markman without turning every technical finding into a universally de novo issue. He decides neither ultimate validity nor infringement and preserves the separate requirements of novelty, nonobviousness and disclosure.
+
+[Published opinion topology](../entering-law/state_street_bank_v_signature_financial_group_merits_1999-01-14.md#opinion-topology).
+
+### California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al. — 1999-01-20
+
+**Justice Stevens, joined by Justices Souter, Ginsburg and Breyer, dissenting.** The dissent would recognize a confined appellate role for a shareholder who responds to the Rule 23.1 settlement notice, appears, presents objections, and has those objections heard and rejected in the disposition of the corporate claim. The procedural role, rather than mere ownership, financial exposure, receipt of notice or potential binding effect, supplies status to seek review of that disposition. It does not make the objector a plaintiff controlling prosecution or give a nonappearing shareholder a right to appeal.
+
+Tryforos, which Justice Stevens authored as a circuit judge, supplies the direct distinction between objecting to disposition and undertaking prosecution. Its footnote expressly includes proposed settlements, although the actual objection there concerned dismissal with prejudice and the corporation's lack of service. Marino presents a serious contrary example because its objectors were heard too. The dissent distinguishes their adverse personal interests in another action from the Rule 23.1 shareholder's defined role concerning disposition of the represented corporate claim. Izumi involved an undisturbed intervention denial and a different presented question; it does not foreclose deciding that this recognized role supplies limited status. Johnson offers an equity analogy linking invitation, appearance, objection and appeal, but its adjacent intervention discussion and receivership setting prevent treating it as a universal nonintervention rule. Richards protects independent nonparty rights without itself creating appellate status.
+
+The dissent would reverse only the status dismissal and remand for further appellate proceedings subject to ordinary preservation and appeal requirements. It would not invalidate the settlement, find collusion or inadequate representation, permit new claims, promise success on the objections or establish reviewability or entitlement on every fee contention. It proposes no independent prospective-only ruling, reopening, tolling or automatic late intervention. Its limited representative-objector rule does not control the judgment.
+
+[Published opinion topology](../entering-law/california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md#opinion-topology).
+
+### Lopez v. Monterey County — 1999-01-20
+
+None. The Chief joins Parts I, II and IV and the stated prospective-nonuse and electorate propositions of Part III. He agrees in rejection of the collateral-designation defense and the dependent-tenure disposition without adding grounds.
+
+[Published opinion topology](../entering-law/lopez_v_monterey_county_merits_1999-01-20.md#opinion-topology).
 
 ## Prior-term published positions retained for continuity
 
@@ -507,18 +647,92 @@ The case returns to the Second Circuit for proceedings on the surviving §1 comp
 
 [Public mandate](../entering-law/nynex_corp_v_discon_merits_1998-12-14.md#procedure-after-action).
 
+### City of Cincinnati v. Kruse — 1998-12-16
+
+Merits review is complete. The affirmed judgment continues to bar enforcement of the challenged ceiling. Ordinary proceedings implementing that judgment remain governed by its terms; no further Supreme Court return or new nonroutine act is ordered.
+
+[Public mandate](../entering-law/city_of_cincinnati_v_kruse_merits_1998-12-16.md#procedure-after-action).
+
+### McClellan v. Cablevision of Connecticut, Inc. — 1999-01-07
+
+The case returns to the lower courts. The asserted implied federal damages route cannot support relief; any remaining claim must satisfy its own authorization and procedural requirements. Supplemental jurisdiction and the reserved viewer questions remain for lawful consideration without a directed outcome.
+
+[Public mandate](../entering-law/mcclellan_v_cablevision_merits_1999-01-07.md#procedure-after-action).
+
+### Buckley v. American Constitutional Law Foundation, Inc. — 1999-01-12
+
+The reviewed invalidations and corresponding injunctive protection remain in force. The Court orders no replacement system or further Supreme Court proceeding. The lower judgment and ordinary remedial law govern any remaining implementation of unreviewed fields; their independent constitutional validity is not decided.
+
+[Public mandate](../entering-law/buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md#procedure-after-action).
+
+### El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — 1999-01-12
+
+The case returns for a conforming judgment dismissing the personal-injury claim. The baggage judgment remains in place. No accident-classification inquiry or new willfulness hearing is ordered.
+
+[Public mandate](../entering-law/el_al_israel_airlines_v_tseng_merits_1999-01-12.md#procedure-after-action).
+
+### City of West Covina v. Perkins — 1999-01-13
+
+The case returns to the lower courts with directions to reject the additional individualized-instruction theory. Any properly preserved distinct claim remains governed by its own procedural posture and proof. The decision does not establish obstruction, entitlement to the reported stolen pistol, a damages award or invalidity of the original seizure.
+
+[Public mandate](../entering-law/city_of_west_covina_v_perkins_merits_1999-01-13.md#procedure-after-action).
+
+### Marcus v. Iowa Public Television — 1999-01-13
+
+The Eighth Circuit judgment rejecting the common forum claim and derivative relief stands. No new broadcast, particular future appearance or corrective guide statement is required. The decision does not create an independently live individual claim or resolve a separate guide cause of action.
+
+[Public mandate](../entering-law/marcus_v_iowa_public_television_merits_1999-01-13.md#procedure-after-action).
+
+### Roberts v. Galen of Virginia, Inc. — 1999-01-13
+
+The case returns to the lower courts for further proceedings on the stabilization claim under the statutory requirements without the additional improper-motive element. The Court expresses no view on the factual truth or legal dispositiveness of the hospital's alternative defenses. The separate state-law disposition remains undisturbed.
+
+[Public mandate](../entering-law/roberts_v_galen_of_virginia_merits_1999-01-13.md#procedure-after-action).
+
+### State Street Bank & Trust Co. v. Signature Financial Group, Inc. — 1999-01-14
+
+The case returns for proceedings consistent with §101 invalidity of issued claims 1–6 and for the remaining consequences concerning the other claims and counterclaims. The remand does not reopen eligibility for a mandatory new evidentiary inquiry or determine those other matters on their merits.
+
+[Public mandate](../entering-law/state_street_bank_v_signature_financial_group_merits_1999-01-14.md#procedure-after-action).
+
+### California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al. — 1999-01-20
+
+The Seventh Circuit's dismissal stands. The settlement remains undisturbed as a consequence of that dismissal, without a Supreme Court determination of its substantive fairness or fee terms. No case is remanded for merits review, and no intervention application or other proceeding is ordered or deemed pending. An appropriate actual-party appeal or review of an actual intervention denial remains governed by its own lawful requirements.
+
+[Public mandate](../entering-law/california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md#procedure-after-action).
+
+### Department of the Army v. Blue Fox, Inc. — 1999-01-20
+
+The case returns for dismissal of the Army lien claim for want of an applicable waiver. The rejected SBA branch remains undisturbed. No fund is reconstructed and no alternative claim or surety is created by the remand.
+
+[Public mandate](../entering-law/department_of_the_army_v_blue_fox_merits_1999-01-20.md#procedure-after-action).
+
+### Humana Inc. v. Forsyth — 1999-01-20
+
+The case returns to the remaining proceedings contemplated by the Ninth Circuit's judgment, with the Co-Payor claim and related amendment instruction subject to ordinary RICO requirements and defenses. Rejected Premium Payor claims and the proved-overpayment injury limitation remain unchanged. Further liability and any authorized remedy require ordinary adjudication.
+
+[Public mandate](../entering-law/humana_inc_v_forsyth_merits_1999-01-20.md#procedure-after-action).
+
+### Lopez v. Monterey County — 1999-01-20
+
+The judgment of dismissal is reversed and the case remanded to implement the November 6, 1996 mandate. The dependent disposition of the judicial-term-extension order is set aside insofar as based on the rejected exemption. The District Court must identify the actual reach of the 1983 submission, prevent prospective use of the remaining unprecleared operative changes and apply the confined judicial-remedy rule. No officeholder outcome, completed-election consequence, damages award, new deadline or automatic Supreme Court return is directed.
+
+[Public mandate](../entering-law/lopez_v_monterey_county_merits_1999-01-20.md#procedure-after-action).
+
 ## Prospective events and material dependencies
 
 Use the [manifest](manifest.md) for all remaining scheduled and carried matters. A scheduled date supplies no filing, argument, vote or disposition. Same-day independent matters use the common entering-law baseline; Section 8 assignments follow alphabetical case order on that date. Later historical actions never enter by scheduling alone. Del Monte Dunes remains a reconciliation-only item against its completed June 16, 1997 judgment. The four Breard-related applications were denied; their separate petitions remain as listed above. No execution or new stay is inferred.
 
-NAACP, Los Angeles Branch v. Jones, No. 97-1840, completed Supreme Court review on November 5, 1998. Its lower-court standing remand creates no additional Supreme Court event or scheduled return. The next scheduled inventory event is City of Cincinnati v. Kruse, No. 98-454, on 1998-12-16, in OT_1998CHUNK3; that schedule supplies no prospective holding.
+NAACP, Los Angeles Branch v. Jones, No. 97-1840, completed Supreme Court review on November 5, 1998. Its lower-court standing remand creates no additional Supreme Court event or scheduled return. The next scheduled inventory event is Citizens for a Constitutional Convention v. Yoshina on 1999-01-21, in OT_1998CHUNK4; that schedule supplies no prospective holding.
 
 
 ## Blockers and Revalidation Needs
 
-All twelve chunk 2 matters are completed, with no unresolved substantive blocker.
+All twelve chunk 3 matters are completed, with no unresolved substantive blocker. Earlier chunk completions remain effective.
 
 Carter and Coleman received fresh neutral source review and separately frozen renewed modeling and reconciliation before assembly. Their original freezes remain preserved as superseded stage artifacts; only the effective handoffs identified in the current Records or pending-matter receipt supply commitments. No carryover is closed by silence or passage of a date. Git provenance verification and repository commitment remain reserved to the operator. The no-Git adapter defers only the stock checker's Git-object predicate; the [chunk validation receipt](../freeze/OT_1998CHUNK2_VALIDATION.md) records the completed checks and that limit.
+
+Chunk 3 preserved physical neutral/model, reconciliation and assembly boundaries. Marcus received a clean independent preflight after excluded procedural information reached the first preparer. Felzen received fresh neutral preparation and fresh modeling after source review identified material own-writing authorities; a later appendix exposure was isolated and discarded before the clean replacement packet. Only FELZEN_REFRESH_COMMITMENTS and FELZEN_REFRESH_RECONCILED supply the operative Felzen commitments. Original stage artifacts remain preserved. [Chunk 3 validation](../freeze/OT_1998CHUNK3_VALIDATION.md) records source limits, checks, no-Git limitations and the pre-existing Knowles topology issue left for operator review. None changes a prior adjudication.
 
 ## Source and Research Cutoff
 

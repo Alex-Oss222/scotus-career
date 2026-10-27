@@ -1,0 +1,1978 @@
+In THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+JANE M. ROBERTS, 
+Guardian for Wanda Y. Johnson, 
+Petitioner, 
+V. 
+GALEN OF VIRGINIA, INC., 
+d/b/a University of Louisville Hospital, 
+Respondent. 
+Writ of Certiorari 
+to the 
+RECEIVED 
+Ra DELIVERE_pijited 
+States Court of Appeals 
+for the Sixth Circuit 
+SEP 2 2 iS: 
+OFFICE OF THE CLERK 
+SUPREME COURT, 
+U.S. 
+EF OF RESPONDENT 
+BRYAN TODD THOMPSON 
+CARTER G. PHILLIPs * 
+THOMAS S. CALDER 
+JACQUELINE GERSON COOPER 
+MILLICENT A. TANNER 
+SIDLEY & AUSTIN 
+DINSMORE & SHOHL LLP 
+1722 Eye Street, N. W. 
+2000 Meidinger Tower 
+Washington, D.C. 20006 
+Louisville, KY 40202 
+(202) 786-8000 
+(502) 585-2450 
+Counsel for Respondent 
+| 
+September 22, 1998 
+*Counsel of Record 
+WILSON 
+Kras Printing Co., Inc. - 789-0096 - WASHINGTON, D.C. 20001 
+Tp 
+i 
+j 
+igs 
+| 
+b 
+= DLW AVAILAOLE 
+Hl 
+
+QUESTION PRESENTED 
+Whether a patient may recover under the Emergency 
+Medical Treatment and Active Labor Act, 42 U.S.C. 
+§ 1395dd, where she was appropriately screened by re- 
+spondent’s emergency room as having an emergency med- 
+ical condition consisting of life-threatening trauma 
+in- 
+juries, admitted 
+to the hospital where the emergency 
+condition was stabilized, treated for over two months, 
+and then transferred to a skilled nursing facility for re- 
+habilitation services while taking antibiotics for a urinary 
+tract infection or possible pneumonia. 
+(i) 
+
+QUESTION PRESENTED. ..... 
+TABLE OF AUTHORITIES ................... 
+INTRODUCTION .... 
+TABLE OF CONTENTS 
+SEE 
+EEE EEE «4k 
+STATEMENT OF THE Cas 
+Procedural History 
+SUMMARY OF ARGUMENT 
+I. EMTALA DOES NOT FUNDAMENTALLY 
+II. 
+ALTER THE CONSTITUTIONAL BALANCE 
+BETWEEN FEDERAL AND STATE RELA- 
+TIONS BY CREATING A FEDERAL STAND- 
+ARD OF CARE FOR MEDICAL DIAGNOSIS 
+AND TREATMENT FOR ALL PATIENTS 
+ALTHOUGH THE COURT OF APPEALS’ MO- 
+TIVE TEST LACKS A CLEAR STATUTORY 
+ANCHOR, THE COURT SHOULD CONSIDER 
+ALTERNATIVE GROUNDS FOR AFFIRM- 
+ANCE THAT WILL REINFORCE THE UNI- 
+FORM RULE IN THE COURTS OF APPEALS 
+THAT EMTALA SHOULD BE CONSTRUED 
+NARROWLY TO PRESERVE STATE LAW 
+REGULATING THE QUALITY OF MEDICAL 
+ee ee 
+(iii) 
+21 
+
+iv 
+TABLE OF CONTENTS—Continued 
+III. THE JUDGMENT BELOW SHOULD BE AF- 
+FIRMED BECAUSE RESPONDENT WAS 
+UNDER 
+NO DUTY TO STABILIZE 
+MS. 
+JOHNSON SINCE HER TREATING PHYSI- 
+CIANS DID NOT HAVE ACTUAL KNOWL- 
+EDGE THAT SHE WAS SUFFERING FROM 
+AN EMERGENCY MEDICAL CONDITION 
+AT THE TIME THEY ORDERED 
+HER 
+IV. THE JUDGMENT BELOW SHOULD BE AF- 
+FIRMED BECAUSE EMTALA DOES NOT 
+APPLY TO TREATMENT AND DISCHARGE 
+DECISIONS OCCURRING AFTER 
+A PA- 
+TIENT’S INITIAL SCREENING AND STA- 
+BILIZING TREATMENT 
+— 2 
+TT 
+* 
+TABLE 
+OF AUTHORITIES 
+Page 
+Atascadero State Hosp. v. Scanlon, 473 US. 234 
+(1989) 
+ae 
+22 
+28 
+34 
+Batley v. United States, 616 US. 187 (1996) 
+Blonder-Tongue 
+Labs., Ine. v. University 
+of [linois 
+Found., 
+402 U.S. 313 (1971) 
+Brooks v. Maryland Gen. Hosp., Inc., 996 F.2d 708 
+(4th Cir. 1998) 
+sab 
+2, 44 
+Bryan v. Rectors and Visitors of Univ. of Va., 
+% 
+F.3d 349 (4th Cir. 1996) 
+1, 41, 42, 44, 45 
+Cipollone v. Liggett Group, Inc. 505 US. 504 
+— 
+22 
+Cleland v. Bronson Health Care Group, Ine. 917 
+F.2d 266 (6th Cir. 1990) 
+— 
+2. 
+14, 24, 36 
+Collins 
+v. DePaul Hoep., 963 F.2d 308 (10th Cir. 
+1992) ........ 
+— 
+. 41,48 
+Correa 
+v. Hospital 
+San Franciscc, 69 F.8d 1184 
+r ... 
+4. 24 
+Dandridge v. Williams, 
+897 U.S. 471 (1976) 4 
+34 
+Eberhardt v. City of Los Angeles, 62 F.3d 1253 
+(9th Cir. 1995) 
+1, 4, 24, 
+36 
+Edmonds ¥. Compagnie Generale Transatlantique, 
+443 U.S. 256 (1979) 
+30 
+Gatewood v. Washington Healthcare Corp., 933 
+F. 2d 1087 (D.C. Cir. 19917 
+. 4, 24, 86, 37, 44 
+Gregory v. Asheroft, 501 U.S. 452 (1991) 
+22 
+Hillsborough County v. Automated Med. Labs., 
+Inc., 
+471 U.S. 707 (1985) — 
+1 
+23 
+Holcomb v. Monahan, 30 F.3d 116 (lit Cir. 
+RE 
+5 PS Ee SP 
+a 
+4, 25, 
+36 
+Marshall v. East Carroll Parish Hosp., 134 F.3d 
+ee 
+snnesiecshndinientnnentibibenties 4, 24, 36 
+Medtronic, Inc. v. Lohr, 518 U.S. 470 (19968) 
+23 
+Owens v. Bellevue Hosp. Ctr., No. 95-9016, 1996 
+WL 184227 (2d Cir. Mar. 25, 
+1999) 
+25 
+Platt v. Union Pac. R. R. Co., 
+99 U.S. 48 (1878) 
+28 
+Repp 
+v. Anadarko Mun. Hosp., 
+43 F.3d 519 (10th 
+ERROR 
+SES 
+RNC 
+as Sea 
+or 
+4, 25 
+Rice v. Santa Fe Elevator Corp., 381 U.S. 218 
+(1947) 
+on 
+22 
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+Silkwood v Kerr-McGee 
+Corp., 464 U.S. 238 
+(1984) 
+Summers 
+v. Baptist 
+Med. Ctr. Arkadelphia, 91 F.3d 
+13 
+—— ters 
+eeere? 4, 24, 36, 37 
+United States v. Bass, 404 U.S. 386 (1971) 16, 22, 30 
+United States v. Nordic Village, Inc., 503 U.S. 30 
+Gere... 
+28 
+Urban 
+by and Through Urban 
+v. King, 
+48 F.3d 523 
+(10th Cir. 1994) ............ 
+36, 87, 39 
+Vance v. Terrazas, 444 U.S. 252 (1980)): 
+34 
+Vickers v. Nash Gen. Hosp., 
+Inc., 78 F.3d 139 (4th 
+Cir. 1998) 
+4. 24, 36, 37, 38 
+Washington v. Yakima Indian Nation, 439 U.S. 468 
+＋— 
+— Oe Rk Sa 
+34 
+Will v. Michigan Dept. — 491 U.S. 58 
+——— 
+21 
+LEGISLATIVE HISTORY 
+131 Cong. Rec. 28,568 (19889) 
+80 
+131 Cong. Rec. H9503 (daily ed. Oct. 28, 1985) 
+(statement 
+of Rep. Bilirakis) ............ 
+44 
+131 Cong. Rec. $13,904 (daily ed. Oct. 28, 1985) 
+(statement of Sen. Kennedy) 
+5 
+131 Cong. Rec. $13,904 (daily ed. Oct. 23, 1985) 
+(statement of Sen. Dole) —................0............. 
+44 
+H.R. Rep. No. 99-241, pt. 1, at 27 (1985), reprinted 
+in 1986 U.S. 
+C. C. A. N. 42, 606 000. 19, 43 
+H.R. Rep. No. 100-531, at 7 (1989) 
+5 
+STATUTES 
+PON 
+TEE 
+DSR 
+ee ee a 
+ress passim 
+In THE 
+Supreme Court of the United States 
+OcToBer TERM, 1998 
+No. 97-53 
+JANE M. ROBERTS, 
+Guardian for Wanda Y. Johnson, 
+- 
+Petitioner, 
+GALEN OF VIRGINIA, INC., 
+d/b/a University of Louisville Hospital, 
+Respondent. 
+On Writ of Certiorari 
+to the 
+United States Court of Appeals 
+for the Sixth Circuit 
+BRIEF OF RESPONDENT 
+INTRODUCTION 
+The Emergency Medical Treatment and Active Labor 
+Act, 42 U.S.C. §1395dd (“EMTALA”), has spawned 
+an extraordinary 
+number of federal appellate court deci- 
+sions. What is particularly striking is the number of those 
+cases in which the courts of appeals have affirmed judg- 
+ments in favor of the hospital, but felt compelled to 
+do so on the basis of „4 
+lower court. 
+1 See, ¢.g., Bryan 
+v. Rectors 
+and Visitors of Univ. of Va., 
+95 
+F.3d 349, 350-51 (4th Cir. 1996) 
+; Eberhardt v. City of Los Angeles, 
+
+2 
+The reason for this unusual phenomenon is not par- 
+ticularly difficult to ascertain: 
+the lower courts are strug- 
+gling with the inherent tension between the language of 
+the statute—which at best only inartfully addresses the 
+core 
+concern 
+that 
+animated 
+Congress's 
+passage 
+of 
+EMTALA, viz., to prevent the practice of patient dump- 
+ing”—and the absence of any proof that Congress meant 
+to supersede the States’ traditional plenary authority over 
+medical malpractice. Thus, the lower courts have grasped 
+at a variety of limiting principles, some of which have 
+more support in the statute than others. 
+In this case the Sixth Circuit has accomplished what 
+is unquestionably the correct result. It is utterly counter- 
+intuitive to imagine that Congress meant for EMTALA to 
+apply to a transfer occurring months after a patient's 
+admission to a hospital simply because the patient was 
+suffering from a urinary tract infection at the time the 
+patient was transported to a skilled nursing facility, which 
+was plainly competent to treat this relatively minor con- 
+dition. However, the Sixth Circuit reached this result by 
+selecting a theory that, while conceptually consistent with 
+Congress’s desire to proscribe patient transfers that are 
+made for financial or other non-medical reasons, is not 
+supported by the language and structure of the statute. 
+The Sixth Circuit, following 
+its own prior precedent, 
+identified petitioner’s failure to prove that the transfer 
+decision was prompted by an improper motive as an ele- 
+ment of the EMTALA cause of action. After 
+a careful 
+review of the language and structure of the statute, re- 
+spondent cannot defend the court of appeals’ rationale. 
+That should not, however, be the end of the Court's 
+inquiry. 
+This is the first case this Court has agreed to 
+62 F.3d 1258, 1257 (9th Cir. 1995); Brooks v. Maryland Gen. Hosp., 
+Inc., 996 F.2d 708, 709-10 (4th Cir. 1998) ; Gatewood v. Washington 
+Healthcare Corp., 983 F.2d 1087, 1040-41 (D.C. Cir. 1591) , Cleland 
+v. Bronson Health Care Group, Inc., 917 F.2d 266, 268 (6th Cir. 
+1990). 
+3 
+review arising under EMTALA. Moreover, 
+the United 
+States, in its amicus brief, has put forth a strikingly 
+provocative argument, i.c., EMTALA creates a federal 
+malpractice standard that applies in this case and 
+petitioner’s claim should be llowed to go to trial on the 
+question whether respondent failed to comply with that 
+federal standard of care. In sum, the United States has 
+addressed 
+this case with a much broader brush than peti- 
+tioner and has urged the Court to adopt a sweeping 
+interpretation of EMTALA. 
+Respondent urges the Court to follow the unanimous 
+decisions of the courts of appeals that have held that 
+EMTALA is not a feceral malpractice statute. 
+More- 
+over, this case remains a suitable vehicle for the Court 
+to recognize that there are significant limitations on the 
+scope of a hospital's duties under EMTALA. 
+At a min- 
+imum, the Court should consider the consensus opinicn 
+of the courts of appeals that a transfer or discharge by 
+a hospital upon physician’s orders, if the physician lacks 
+courts unanimously hold that actual knowledge is required. 
+In this case, it is undisputed that the medical personnel 
+at the hospital believed that petitioner’s condition was 
+stabilized at the time she was transferred. Certainly, 
+no 
+physician at the hospital perceived that respondent’s med- 
+ical condition constituted any type of “emergency.” Thus, 
+the question whether a physician's actual knowledge is 
+an element of the plaintiff's claim is an important one 
+that the Court should resolve in this case, where the evi- 
+dence is uncontested that the patient's treating physicians 
+did not consider her infection to constitute a serious 
+of 
+not apply to treatment and discharge decisions occurring 
+after a patient’s initial screening and stabilizing treatment. 
+
+applies to every discharge or transfer decision.’ 
+In sum, respondent realizes 
+that the Court granted the 
+petition in this case with an intention to resolve merely 
+the issue of whether a requirement of proof of illicit 
+motive is an element of an EMTALA claim. To be sure, 
+the Court can set aside the judgment on that basis. If 
+the Court goes no further, then it probably will not sig- 
+nificantly impede the vital progress the lower courts have 
+made in confining EMTALA to its limited purpose of 
+2 By identifying two alternative grounds for affirmance in this 
+case, respondent does not mean to suggest that they are the only 
+possible limiting principles for EMTALA. 
+The courts of appeals 
+have identified 
+several others. For example, several courts of ap- 
+peals apply a “disparate treatment” test to determine whether a 
+patient received appropriate screening under EMTALA. Under this 
+test, a hospital violates EMTALA’s screening obligation only when 
+it fails to apply its screening procedures uniformly to all patients 
+who are similarly situated. 
+See, e.g., Marshall v. East Carroll 
+Parish Hosp., 1384 F.3d 319, 822-23 (6th Cir. 1998); Summers v. 
+Baptist Med. Ctr. Arkadelphia, 91 F.3d 1132, 1138 (8th Cir. 1996) ; 
+Viekers v. Nash Gen. Hosp., Inc., 78 F.3d 139, 148-45 (4th Cir. 
+1996); Correa v. Hospital San Francisco, 69 F.3d 1184, 1192 (ist 
+Cir. 1995); Eberhardt v. City of Los Angeles, 62 F.3d 1253, 1257- 
+58 (9th Cir. 1995); Holeomb v. Monahan, 30 F.3d 116, 117 (11th 
+Cir. 1994); Repp v. Anadarko Mun. Hosp., 43 F.3d 519, 521-22 
+(10th Cir. 1994); Gatewood v. Washington Healthcare Corp., 933 
+F.2d 1037, 1041 (D.C. Cir. 1991). 
+In an appropriate case, application of the “disparate treatment” 
+test—or other limiting principles—might be appropriate. 
+That 
+issue was not litigated here because the parties agree that respond- 
+ent provided an appropriate medical screening in this case. In 
+contrast, the two alternative grounds proposed by respondent were 
+raised and hence are legitimately 
+posed here. 
+i 
+the judgment 
+below is 
+fully consistent with other courts of appeals’ interpreta- 
+tions of this statute and thus there are alternative grounds 
+routinely face EMTALA claims whenever a medical mal- 
+practice action is asserted for allegedly negligent treat- 
+ment arising in the hospital setting. 
+STATEMENT OF THE CASE 
+Statutory Background 
+Congress enacted EMTALA to prevent hospitals from 
+“dumping patients,” that is, from transferring patients 
+upon physician’s orders to other institutions for economic 
+or other non-medical reasons. 
+The problem of patient 
+dumping became acute in the 1980s for two reasons. 
+First, the number of Americans who lacked health in- 
+surance grew rapidly from the late 1970’s through the 
+mid-1980’s. 
+H.R. Rep. No. 100-531, at 7 (1988). 
+Sec- 
+ond, by reforming the Medicare payment system in 1983, 
+Congress eliminated the ability of hospitals to pass on to 
+the government the costs of caring for indigent patients. 
+Id. Given these systemic incentives for hospitals not to 
+admit indigent or uninsured patients, Congress concluded 
+that federal legislation was necessary because “28 States 
+[had] no” laws that would “ensure that no emergency 
+patient is denied emergency care because of inability to 
+pay.” 131 Cong. Rec. S 13,904 (daily ed. Oct. 23, 1985) 
+(statement of Sen. Kennedy). 
+The Act responds to the patient-dumping problem by 
+requiring hospitals to provide patients for whom treat- 
+ment is requested in an emergency room with (a) an 
+appropriate medical screening examination, and with either 
+
+(b) stabilizing treatment of the emergency medical con- 
+dition or (c) an appropriate transfer to another medical 
+facility for such treatment. 
+42 U.S.C. §§ 1395dd(a), 
+(b), (c). The Act provides for multiple methods of 
+enforcement, and thus Congress did not look to private 
+individuals as the primary enforcers of its ban on patient 
+dumping. First, the Secretary of Health and Human Serv- 
+ices can impose civil money penalties on participating 
+hospitals and physicians who negligently violate any re- 
+quirement of the Act. 42 U.S.C. § 1395dd(d)(1). Any 
+physician who commits a violation that is “gross and 
+flagrant or is repeated” also can be excluded by the Sec- 
+retary from participation in Medicare and state health 
+care programs. 42 U.S.C. § 1395dd(d)(1)(B). 
+Second, 
+any individual who suffers harm as a direct result of a 
+violation by a participating hospital can bring a private 
+civil action to recover damages for personal injury that 
+are available under state law. 
+42 U.S.C. § 1395dd(d) 
+(2)(A). Third, a medical facility, such as a transferee 
+hospital, that suffers a financial loss as a direct result of 
+a violation by a participating hospital also can bring a 
+civil action to recover damages that are available under 
+state law. 42 U.S.C. § 1395dd(d)(2)(B). The relevant 
+provisions of EMTALA are reprinted in the appendix to 
+the petition for certiorari. 
+Pet. App. A55-A66. 
+Factual Background 
+Wanda Johnson was severely injured when she was 
+struck by a motor vehicle on May 9, 1992. 
+She was 
+taken to the emergency room of Humana Hospital Uni- 
+versity of Louisville (“Humana”), which is a teaching 
+hospital affiliated with the University of Louisville. 
+Pur- 
+suant to an arrangement with the Commonwealth of Ken- 
+tucky, the City of Louisville and Jefferson County, Ken- 
+tucky, Humana is obligated to provide emergency and 
+other treatment to all individuals who request it, regard- 
+less of ability to pay. 
+This arrangement continues the 
+- 
+University of Louisville’s historic role of ministering to 
+indigent patients as a public 
+service in the course of its teaching programs. 
+Indeed, 
+Humana is the primary facility in the Louisville area that 
+provides emergency care to indigent individuals. 
+Humana’s emergency room physicians diagnosed Ms. 
+Johnson as having life-threatening injuries, and admitted 
+her to the hospital. 
+Ms. Johnson was diagnosed 
+and 
+treated for multiple fractures to her pelvis, right leg and 
+four vertebrae 
+of her spine. She also suffered 
+a serious 
+head injury. During surgery Ms. Johnson’s spleen was 
+removed and she was connected to a ventilator. Her con- 
+dition was stabilized and she continued to be treated by 
+the hospital for over two months, during that time she 
+was removed from the ventilator. 
+By July, Ms. Johnson was “pretty much on a steady 
+course of showing improvement.” J.A. 117 (Deposition 
+of Walid Abou-Jaoude, M.D. 
+(“Abou-Jaoude Dep.”), 
+R. 67, at 17). 
+Indeed, she was “stable” throughout 
+July and was moved to a “step-down unit“ within the 
+hospital (a unit that involves “less intensive” care) a 
+couple of weeks before her discharge. 
+Id. at 116-18 
+(Abou-Jaoude Dep. at 15, 17). 
+Ms. Johnson suffered 
+recurrent pneumonia and urinary tract infections during 
+her stay at Humana as a result of being on a ventilator 
+and having a chronic indwelling catheter, but these con- 
+ditions were successfully treated with antibiotics and did 
+not cause her health to become unstable. 
+Abou-Jaoude 
+Dep. at 14-15, 17-18. 
+When Ms. Johnson’s doctors—who 
+are independent 
+contractors and not employees of Humana—made the 
+medical determination that she was “stable enough to be 
+transferred” and “making progress,” they instructed the 
+The Joint Appendix is cited as “J.A. ——.” The Appendix to 
+the Petition for Certiorari is cited as “Pet. App. ——.” Deposition 
+transcripts and other record matcrials are identified by their docket 
+number 
+in the record. 
+
+social workers and discharge planners at Humana 
+to 
+search for a suitable place for her at a skilled nursing 
+home so that she could continue her recovery and receive 
+rehabilitation therapy. 
+J.A. 118-20 (Abou-Jaoude Dep. 
+at 19-21) and Abou-Jaoude Dep. at 18, 22; see also Dep- 
+osition of Frank Miller, M.D. (“Miller Dep.”), R. 53, 
+at 26 (the decision to discharge a patient from Humana 
+hospital is always a medical decision made by physicians). 
+These efforts were complicated by “a long-standing short- 
+age of nursing home beds in Kentucky.” J.A. 137 (Affi- 
+davit of Nancy Fred (Fred. Aff.) 43). They also were 
+complicated by the fact that repeated attempts to involve 
+Ms. Johnson’s family in the discharge planning process 
+proved unsuccessful. 
+Nancy Fred, the social worker in 
+charge of Ms. Johnson’s discharge plan, repeatedly tried 
+to contact Ms. Johnson’s family because she recognized 
+that it was “real important” to “reach the next of kin” 
+and keep them apprised of the progress of the discharge 
+plan. 
+J.A. 25, 35 (Deposition of Nancy Fred (“Fred 
+Dep.”), R. 10, at 30, 42). 
+However, Ms. Johnson’s 
+mother “didn’t seem to want to be involved in any deci- 
+sions.” J.A. 35 (Fred Dep. at 42). Similarly, Ms. John- 
+son’s husband could not be located by Ms. Fred, or in- 
+deed by other family members, at relevant decision points. 
+J.A. 19, 34-35 (Fred Dep. at 25, 42). Because “every- 
+body else had absconded or eliminated themselves,” Ms. 
+Fred communicated with Ms. Johnson’s aunt, petitioner 
+Jane Roberts, as “the only family member left that [the 
+hospital] could contact.” 
+J.A. 35-36 (Fred Dep. at 42- 
+43). 
+In late July, Ms. Johnson was accepted for admission 
+at Crestview Health Care Center (“Crestview”), a state- 
+licensed skilled nursing home in Indianapolis, Indiana. 
+Ms. Fred had expanded her search into Indiana, which 
+is just across the river from Louisville, because 
+of the 
+shortage of facilities in Kentucky. 
+J.A. 137 (Fred Aff. 
+¢ 3). Humana determined 
+that Crestview was an appro- 
+9 
+priate placement for Ms. Johnson based on Ms. Fred’s 
+discussions with Jo Anna Nolte, a representative of Crest- 
+view, who stated that Crestview “was a skilled nursing 
+facility, certified by the state certification agency; that they 
+had the therapies that Mrs. Johnson could benefit from to 
+work toward her rehabilitation,” including speech therapy, 
+physical therapy, and occupational therapy. 
+J.A. 31-32 
+(Fred Dep. at 36-37); see also Deposition of Jo Anna 
+Nolte (“Nolte Dep.”), R. 18, at 61 (Crestview was 
+certified by the State of Indiana to provide skilled nursing 
+care, including to patients who required “heavy care”); 
+Fred Dep. at 49 (Humana’s “main consideration” was 
+that the receiving facility be “certified for skilled nurs- 
+ing”). Ms. Fred also spoke “several times with Randy 
+Gross, who was the director/administrator at Crestview.” 
+Id. at 38-39. She also discussed the prospective transfer 
+with Dr. Abou-Jaoude, who Amade] sure [Crestview] 
+was a skilled nursing facility.“ J. A. 121-22 (Abou-Jaoude 
+Dep. at 29-30); J.A. 38-39 (Fred Dep. at 54-56).* 
+Ms. Fred attempted to contact Ms. Johnson’s husband 
+to discuss the potential transfer to Crestview, but was 
+unsuccessful. 
+J.A. 25-26, 34-35 (Fred Dep. at 31, 41- 
+42). She then contacted petitioner, Ms. Johnson’s aunt, 
+who did not object to the transfer. 
+J.A. 34-36 (Fred 
+Dep. at 41-43). 
+If petitioner had opposed the transfer, 
+Humana] wouldn't have discharged [Ms. Johnson] to 
+that facility.” J.A. 36 (Fred Dep. at 43). 
+Ms. Nolte testified that Ms. Fred told her that “she was getting 
+a lot of pressure to discharge [Ms. Johnson] due to they knew they 
+weren’t going to get paid for this person.” J.A. 42 (Nolte Dep. at 
+23) ; see also Nolte Dep. at 48 (Ms. Fred indicated that the alleged 
+pressure was from the hospital, not from Ms. Johnson’s physicians). 
+Ms. Fred denies that she made any such statements to Ms. Nolte, 
+and has stated that she “was under no pressure from any depart- 
+ment of the hospital or physician to locate a nursing home place- 
+ment for Wanda Johnson for financial reasons.” J. 
+A. 137-38 (Fred 
+Aff. 7] 5-7). 
+
+10 
+Ms. Johnson was “stable” during the two weeks prior 
+to her discharge and certainly suffered from no emergency 
+medical condition. 
+J.A. 123 (Abou-Jaoude Dep. at 37). 
+She developed a fever the day before the transfer, just as 
+she had several times during her stay in the hospital, and 
+her doctors performed their “routine workup,” which in- 
+cluded a chest x-ray, urinalysis, and blood work. 
+J. A. 
+126-27 (Abou-Jaoude Dep. at 48-49). Because the urin- 
+alysis was cloudy and she had an elevated white blood 
+cell count, the doctors suspected that she had yet another 
+urinary tract infection. 
+Id. They also suspected that she 
+might have another bout of pneumonia based on a bron- 
+chial specimen. 
+J. A. 128 (Abou-Jaoude Dep. at 50-51). 
+They put her on Bactrim, a broad spectrum antibiotic, 
+which treats urinary tract infections and had been used 
+successfully to treat Ms. Johnson’s pneumonia previously. 
+Id. According to Dr. Abou-Jaoude, none of Ms. John- 
+son’s doctors ever considered delaying the transfer be- 
+cause of the suspected urinary tract infection. 
+J.A. 130 
+(Abou-Jaoude Dep. at 53). 
+Ms. Johnson was transferred to Crestview on July 24, 
+1992. 
+All of her doctors concluded that she was suffi- 
+ciently stable to warrant transfer on that date. J.A. 131 
+(Affidavit 
+of David 
+Richardson, 
+M.D. 
+(“Richardson 
+Aff.”) €5); J. A. 133 (Affidavit of Walid Abou-Jaoude, 
+M.D. (“Abou-Jaoude Aff.“) € 4); J.A. 135 (Affidavit of 
+Brian Harbrecht, M.D. (“Harbrecht Aff.“) € 4). Of even 
+greater importance in connection with this case, it was 
+plain that “she did not have an emergency medical con- 
+dition on the date of her transfer.” J.A. 103 (Miller Dep. 
+at 30). Moreover, the undisputed evidence in this case 
+is that urinary tract infections are routinely treated at 
+skilled nursing facilities, including Crestview, and even 
+can be treated on an outpatient basis. See, e.g.. J. A. 83. 
+84 (Deposition of Kambiz T. Karimi, M.D., R. 89, at 
+16): JA. 87 (Deposition of Taiseer 
+Shatara, M.D. 
+(“Shatara Dep.”), R. 90, at 20) (Crestview was capable 
+11 
+ol managing a patient with a urinary tract infection and 
+could modify antibiotic therapy if necessary); J. A. 110 
+Deposition 
+of John W. Stuy, M.D., Mar. 28, 1995 
+( 
+(“Stuy Dep.”), R. 88, at 25). The discharge summary 
+that Dr. Abou-Jaoude 
+prepared for Ms. Johnson identi- 
+fied all 
+tions that she was taking, including 
+i 
+tract infection. 
+J.A. 124-25 (Abou- 
+Jaoude 
+Dep. at 46-47); Ex. 4 to Abou-Jaoude 
+Dep., 
+At the time of Ms. Johnson's discharge, her applica- 
+tion for social security disability, including Kentucky 
+Medicaid, was pending before the state agency. 
+J.A. 39 
+(Fred Dep. 55-56); J. A. 137 (Fred Aff. ¢4). The phy- 
+sician who signed the discharge papers, however, was 
+unaware of her financial status. 
+J.A. 133 (Abou-Jaoude 
+Aff. 45). Indeed, physicians at Humana Hospital “are 
+typically not aware of a patient's payment source at the 
+time of discharge.” J. A. 135 (Harbrecht Aff. 45); J.A. 
+104 (Miller Dep. at 31-32). Moreover, as was true of 
+Ms. Johnson, Humana Hospital often does not know a 
+patient’s ultimate ability to pay at the time of discharge 
+because insurance coverage issues, public assistance ap- 
+plications, and lawsuits can take months to resolve, par- 
+ticularly in accident cases. 
+Id., see also Deposition of 
+John Nord, R. 47, at 15-16 (it can take up to two years 
+for a Medicaid application to be approved). 
+Accord- 
+ingly, the undisputed evidence is that Ms. Johnson’s fi- 
+nancial situation played no part in her physicians’ med- 
+ical decision to transfer her to a skilled nursing facility. 
+JA. 131 (Richardson Aff. J 6); J.A. 133 (Abou-Jaoude 
+Aff. ¢ 6); JA. 135 (Harbrecht Aff. € 6). 
+Ms. Johnson arrived at Crestview at approximately 5:30 
+p.m. on July 24, and was assessed by Charna Treser, the 
+licensed practical nurse on duty. At approximately 6:00 
+p.m., Ms. Treser called Dr. Taiseer Shatara, M.D.. who 
+authorized Ms. Johnson’s admission based on the infor- 
+mation provided by Ms. Treser and the physician’s con- 
+
+12 
+clusion “that [Ms. Johnson] was stable and that she was 
+an appropriate 
+candidate for nursing home placement.” 
+J.A. 88 (Shatara Dep. at 21); see also J.A. 85 (Shatara 
+Dep. 
+at 17) (“{BJased on the information 
+that was given 
+to me at the time, I felt that the patient was stable 
+enough”). Ms. Johnson also was seen that night by 
+Lynnette Ferguson, Crestview’s 
+director of nursing, who 
+noted that Ms. Johnson had an elevated temperature of 
+100.5 degrees at the time of her arrival, but did not con- 
+sider this unusual for a new admission. Deposition 
+of Lyn- 
+nette Ferguson (“Ferguson Dep.”), R. 19, at 24-25, 56. 
+Ms. Ferguson concluded that Ms. Johnson was an appro- 
+priate patient to be cared for at Crestview. Id. 
+at 52. When 
+Ms. Treser completed her shift at 11:00 p.m., she re- 
+corded on her chart “that there were no signs or symp- 
+toms of distress for Ms. Johnson.” 
+J.A. 59 (Deposition 
+of Charna Treser (“Treser Dep.”), 
+R. 92, at 69. 
+According to Ms. Johnson’s chart, her temperature was 
+next taken at 9:10 a.m. on July 25, at which time it was 
+105 degrees. Ferguson Dep. at 56. Ms. Ferguson con- 
+tacted one of Crestview’s doctors because of the elevated 
+temperature and because Ms. Johnson was experiencing 
+respiratory distress. Id. at 26. The doctor instructed 
+her 
+to send Ms. Johnson to the emergency room of Midwest 
+Hospital (“Midwest”) for an evaluation. 
+Id. at 26-27. 
+Ms. Johnson was admitted to Midwest and remained 
+there for several months. The physician 
+who admitted her, 
+Dr. John W. Stuy, opined that the cause of her deteriora- 
+tion while at Crestview was ſelither the urinary tract in- 
+fection 
+that she was treated for was not covered, was 
+not sensitive to the antibiotic that she was sent on 
+Dir 12 
+fection.” 
+J. A. 112 (Stuy Dep. at 
+Dr. Stuy con- 
+ceded that Ms. Johnson's 1 “substanti 
+worse” when she was admitted 
+to 
+to 
+Midwest Hospital th 
+when she had been discharged 
+from Humana under 
+sician’s orders. Stuy Dep. at 76, 91-92. H 
+He also con- 
+. 
+condition 
+was not stable. The complaint 
+does not allege 
+she 
+also alleged that Humana violated the due process and 
+equal protection clauses of the United States and Ken- 
+tucky constitutions and was liable under state law for the 
+negligence 
+of Ms. Johnson’s doctors. The Secretary 
+of 
+Health and Human Services did not seek any civil money 
+
+under 
+to arrange a transfer for Ms. Johnson because of her 
+financial status. 
+Id. at A37-A39. 
+The court relied on 
+the Sixth Circuit’s decision in Cleland v. Bronson Health 
+Care Group, Inc., 917 F.2d 266, 271 (6th Cir. 1990), 
+for its conclusion that “the presence of an improper 
+motive [is] an essential element in a claim 
+r 
+relief 
+under [EMTALA].” Pet. App. A37. The court granted 
+Humana’s motion for summary judgment on the consti- 
+tutional and state law negligence claims. 
+Humana moved for reconsideration 
+on the EMTALA 
+claim, arguing that there was no genuine issue of material 
+fact as to causation because, irrespective of any improper 
+motive on the part of the hospital, the decision to dis- 
+charge Ms. Johnson was made by physicians who were 
+not aware of her financial 
+status. The motion 
+for recon- 
+sideration was granted and the court entered judgment 
+for Humana on the EMTALA claim. 
+Pet. App. A48- 
+A52. 
+B. Petitioner appealed the district court’s ruling on the 
+EMTALA and state law negligence claims and the Sixt 
+Circuit affirmed. 
+Pet. App. Al-A25. 
+The court noted 
+that there was a genuine issue of material fact as to 
+whether Ms. Johnson was stable when transferred. 
+Id. at 
+Al13. 
+However, it held that the district court “properly 
+interpreted the Cleland holding as requiring that a plain- 
+tiff prove a hospital acted with an improper motive in 
+order to recover under the EMTALA.” 
+Id. at A10. 
+Al- 
+though Cleland involved a claim of inappropriate screen- 
+ing, the court held that proof of improper motive is re- 
+quired “to make a case of inappropriate screening or im- 
+proper discharge under EMTALA. 
+Id. 
+at A11-A12 
+(emphasis added). 
+Applying the improper motive test 
+SUMMARY 
+OF ARGUMENT 
+A. The first sentence of the United States’ brief (U.S. 
+Br. 1) accurately describes what this case is about: 
+“concerns the requirements for establishing liability under 
+the Emergency Medical 
+Treatment 
+and Labor 
+Act 
+(EMTALA), 42 U.S.C. § 1395dd.” The United States, 
+however, offers a theory of EMTALA liability that ex- 
+tends well beyond the narrow question directly posed by 
+the Sixth Circuit's holding that EMTALA liability requires 
+— 
+a federally-defined 
+“objective standard of medical] care,” 
+i 
+which the federal courts should assess the ade- 
+i : i 
+11 1 8 
+: 
+; i : 
+10 7 / i ; 
+for medical malpractice,” (Pet. App. A12) is to 
+its opinion merely “represents a disagreement 
+ision” 
+and is thus “of little import.” 
+i Z f 
+cs 9 
+U 
+the government's 
+apparent view of the statute, 
+once a patient is brought into the hospital for an emer- 
+gency condition, the hospital assumes a federal duty under 
+EMTALA to ensure the stability of the patient’s “medical 
+
+cal because, if Congress has created a “federal malprac- 
+tice statute” regulating all 
+by hospitals pursu- 
+ant to physician’s orders, then the 
+government has 
+asserted extraordinary authority to regulate the practice 
+of medicine in the hospital setting. This is the type of 
+arrogation of power by the federal 
+t in an area 
+traditionally regulated by the States where this Court has 
+insisted that Congress evince its intention in 
+age that 
+admits of but one conclusion. 
+See, e.g., United 
+States v. 
+Bass, 404 U.S. 336, 349 (1971). 
+that EMTALA is not what the Solicitor General asserts 
+it is. The language, structure and history of this statute 
+reveal that it is not a revolutionary enactmer 
+to the 
+contrary, it imposes discrete and relatively narrow duties 
+and is intended to interfere as little as possible with the 
+operation of state law. See 42 U.S.C. § 1395dd(f). 
+B. For these reasons, the Court should reject the gov- 
+ernment’s suggestion that EMTALA must be read expan- 
+sively. Nevertheless, simply rejecting the government's 
+case squarely presen 
+alternative arguments for af- 
+firmance that have been adopted by other courts of ap- 
+peals. This Court should address those alternative argu- 
+ments for affirmance in order to spare patients and hos- 
+
+18 
+structure and history of EMTALA, the Court should 
+apply it in this case as an alternative ground to affirm. 
+Second, there is no question that the hospital in this 
+case properly screened Ms. Johnson 
+and fully treated the 
+emergency condition caused 
+by her tragic accident. The 
+issue then is whether EMTALA imposes any continuing 
+duties on the hospital once the emergency treatment has 
+been completed. Under the law in the Fourth and Tenth 
+Circuits, 
+it is clear that the hospital’s duties under 
+EMTALA lapsed well before her transfer pursuant to 
+physician’s orders to a skilled nursing facility and that 
+state tort law became the sole source of potential liability. 
+Again, this alternative basis for affirmance is grounded 
+in the language and purpose of the Act and thus the 
+Court should apply it here rather than prolong a lawsuit 
+that has no merit. 
+Review of these alternative arguments is particularly 
+warranted given the government’s position that it has 
+broad authority to regulate hospital treatment decisions 
+under federal standards. If that interpretation is 
+and respondent believes strongly that it is—then the 
+Court should act promptly before the bureaucratic ma- 
+chinery of the Department of Health and Human Services 
+undertakes to enforce its vision of EMTALA. 
+At a 
+minimum, the Court should make clear that it was not 
+Congress’s expressed intent in enacting EMTALA to oc- 
+cupy the field of medical malpractice in the emergency 
+hospital setting. 
+ARGUMENT 
+It is common ground among the parties and their re- 
+spective amici that the immediate focus of Congress in 
+enacting EMTALA was to prevent the practice of patient 
+dumping. Congress was rightly offended that some hos- 
+pitals would turn individuals away without providing 
+any initial examination or without providing immediate 
+treatment when indicated for reasons having nothing to 
+do with the patient’s medical condition. 
+See H.R. Rep. 
+19 
+No. 99-241, pt. 1, at 27 (1985), reprinted in 1986 
+U.S. 
+C. C. A. N. 42, 605. Respondent 
+is acutely aware of 
+the problems that animated Congress’s action because the 
+University of Louisville Hospital has for years been the 
+transferee 
+hospital for hundreds, if not thousands, 
+of 
+patients that other hospitals refused to admit and to treat. 
+As in this case, respondent has always admitted all 
+pa- 
+tients, screened them, treated them, and w 
+in 
+judgment of the treating physicians the time was right, 
+arranged for the patients’ discharge or their transfer to 
+other, more appropriate treatment settings. 
+Where the parties disagree is in determining just how 
+broadly Congress in enacting EMTALA imposed duties 
+on essentially all of the nation’s hospitals.“ The United 
+States asserts broadly that “the hospital’s duty is to pro- 
+vide sufficient treatment ‘to stabilize the medical condi- 
+tion.“ 
+of the patient. U.S. Br. 11. This is a duty in the 
+context of this case that apparently extends months after 
+the patient is admitted to the hospital and has received 
+extraordinary medical care. 
+Moreover, this duty appar- 
+ently applies to a discharge decision made by physicians 
+who unanimously agree that the patient no longer faces 
+a medical emergency. 
+The unmistakable effect of this 
+argument is that federal law overlays and effectively 
+supersedes state law with respect to much, if not most, 
+medical treatment decisions arising out of an emergency 
+r 
+ty 
+Without question, Congress has the authority to achieve 
+this objective under its Commerce and Spending powers, 
+but it is difficult to read 42 U.S.C. § 139 5dd (b) (1). 
+which is the only portion of this statute directly at issue 
+here, to accomplish the sweeping effect the United States 
+proposes. The statute is limited by its terms to the situa- 
+5The Solicitor General suggests that EMTALA applies to 99 
+percent of all hospitals. U.S. Br. 2 n. 1. Respondent does not doubt 
+the accuracy of that estimate. 
+
+20. 
+tion where an individual “comes 
+to a hospital” 
+and the 
+hospital, after a mandatory 
+screening examination, actu- 
+ally “determines” that “an emergency medical condition” 
+exists. In that precise circumstance EMTALA requires 
+the individual’s medical condition to be “stabilize[d]” 
+through medical treatment. 
+this language cannot be read to include an 
+element of “motive” as a requirement for liability, neither 
+can it be stretched as the United States would read it to 
+include a roving commission to the Department of Health 
+and Human Services to seek out transfers and discharges 
+of patients that failed to meet a “federal” standard 
+of 
+care, even though the physicians believed that there was 
+no serious, much less emergency, condition present in the 
+patient and even though the patient had been admitted 
+and treated at the hospital for more than two months. 
+What makes the United States’ effort to read so much 
+into this statute particularly troublesome is its failure even 
+to acknowledge the serious violence to principles of fed- 
+eralism that is embodied in its approach. The cavalier 
+suggestion that these concerns are “of little import“ (U.S. 
+Br. 13) seems hollow given the lack of clear evidence of 
+congressional intent, which this Court requires before as- 
+suming that traditional state regulation will be superseded 
+by federal authority. 
+Accordingly, 
+respondent begins where 
+the Solicitor 
+General declines to tread—an analysis of the relevance 
+of the fundamental canon of statutory construction that 
+requires clear intent by Congress before the Court radi- 
+cally alters the “balance of power” in an area, like medi- 
+cal malpractice, that has historically been the exclusive 
+preserve of the States. Then, respondent will show that 
+the United States’ argument does serious harm to those 
+principles and thus should be rejected. Respondent next 
+will examine the Sixth Circuit’s well-meaning, but ulti- 
+mately unsupportable effort to maintain the proper bal- 
+ance of power between 
+emergency care setting. Respondent will offer two alter- 
+native rationales that the Court should consider, both of 
+which would have been employed by more than one 
+other court of appeals and both of which would unques- 
+tionably warrant affirmance of the judgment in this case. 
+By entertaining these two arguments, the Court will pro- 
+vide important guidance to the federal courts and prevent 
+EMTALA from allowing every run-of-the-mill malprac- 
+tice action arising in the hospital setting from becoming 
+a lawsuit 
+in federal court. 
+I. EMTALA DOES NOT FUNDAMENTALLY ALTER 
+THE CONSTITUTIONAL BALANCE BETWEEN 
+FEDERAL AND STATE RELATIONS BY CREAT- 
+ING A FEDERAL STANDARD OF CARE FOR 
+MEDICAL DIAGNOSIS AND TREATMENT FOR 
+ALL PATIENTS WHO ENTER A HOSPITAL’S 
+EMERGENCY ROOM. 
+A. When construing 
+a federal 
+statute 
+such as 
+EMTALA, ordinarily it is appropriate to start with the 
+language and structure 
+of the statute, and then construe 
+that language using other traditional tools of statutory 
+interpretation. 
+In this case, however, it is important to 
+take a step back and consider some first principles be- 
+cause Congress was not writing EMTALA on a blank 
+slate. Rather, Congress undertook to legislate in an area 
+—the physician-patient relationship—that traditionally has 
+been regulated exclusively by state law. Accordingly, this 
+case implicates fundamental principles of federalism that 
+must be examined in order to put the task of interpreting 
+EMTALA into its proper context. 
+This Court has long followed the “ordinary rule of 
+statutory construction that if Congress intends to alter the 
+‘usual constitutional balance between the States and the 
+Federal Government,’ it must make its intention to do so 
+‘unmistakably clear in the language of the statute. Will 
+v. Michigan Dept. of State Police, 491 U.S. 58, 65 
+
+22 
+(1989), quoting Atascadero State Hospital v. Scanlon, 
+473 U.S. 234, 242 (1985). 
+This principle, which is 
+deeply rooted in concepts of federalism, is “nothing more 
+than an acknowledgment that the States retain substantial 
+sovereign powers under our constitutional scheme, powers 
+with which Congress does not readily interfere.” Gregory 
+v. Ashcroft, 501 U.S. 452, 461 (1991). Although Con- 
+gress may alter the balance of federal-state power, “it is 
+incumbent upon the federal courts to be certain of Con- 
+gress’ intent before finding that federal law overrides” 
+state sovereignty. Atascadero, 473 U.S. at 243.° 
+The Court has applied this clear statement requirement 
+in determining whether Congress intended to expand the 
+role of the federal government vis-a-vis the States in an 
+area of traditional state responsibility. 
+In United States 
+v. Bass, 404 U.S. 336 (1971), for example, the Court 
+narrowly construed the scope of a federal criminal statute 
+because the broad reading would have “render[ed] tradi- 
+tionally local criminal conduct a matter for federal en- 
+forcement.” 
+Jd. at 350. The Court invoked the prin- 
+ciple that “unless Congress conveys its purpose clearly, 
+it will not be deemed to have significantly changed the 
+federal-state balance” in an area of traditional state con- 
+cern such as criminal jurisdiction. Id. at 349. The Court 
+explained that in traditionally sensitive areas, such as 
+legislation affecting the federal balance, the requirement 
+of a clear statement assures that the legislature has in fact 
+6 This clear statement rule is consistent with the principle used 
+in preemption cases that where intrusion into an area of traditional 
+state responsibility is involved, the Court will narrowly construe 
+the preemption provision to go no further than necessary to effectu- 
+ate the federal purposes. See, e.g., Cipollone v. Liggett Group, Inc., 
+505 U.S. 504, 518 (1992) (plurality) (“[Wle must construe these 
+provisions in light of the presumption against the pre-emption of 
+state police power regulations.”); Rice v. Santa Fe Elevator Corp., 
+331 U.S. 218, 230 (1947) (this Court start Is] with the assumption 
+that the historic police powers of the States were not to be super- 
+seded by the Federal Act unless that was the clear and manifest 
+purpose of Congress“) 
+23. 
+faced, and intended to bring into issue, the critical mat- 
+ters involved 
+in the judicial decision.” Id. 
+As this Court has recognized, tort law, like criminal 
+law, is a classic area of traditional state responsibility. 
+See, e.g., Silkwood v. Kerr-McGee Corp., 
+464 U.S. 238, 
+248 (1984) (acknowledging “the States’ sow yy Hed 
+au- 
+thority to provide tort remedies to their citizens“). More- 
+over, the primacy of the States in addressing matters of 
+public health and safety repeatedly has been 
+by this Court. See, e.g., Medtronic, Inc. v. Lohr, 518 
+U.S. 470, 475 (1996) (noting “the prominence of the 
+States in matters of public health and safety”); Hills- 
+borough County v. Automated Med. Labs., Inc., 471 
+U.S. 707, 719 (1985) (“[{T]he regulation of health and 
+safety matters is primarily, and historically, a matter of 
+local concern”). Accordingly, because Congress drafted 
+EMTALA against the backdrop of a well-established 
+body 
+of state tort law governing medical malpractice, the stat- 
+ute should only be read to expand the role of the federal 
+government vis-a-vis the States in the area of the physi- 
+cian-patient relationship if the clear statement requirement 
+is satisfied. Indeed, given the Court’s consistent adherence 
+to the clear statement requirement, it should 
+be 
+that Congress was aware when it drafted EMTALA that 
+any intent to “federalize” the area of medical malpractice 
+law had to be clearly and unambiguously expressed in 
+the statutory language. 
+B. The clear statement requirement provides 
+the back- 
+ground against which the Court must evaluate the United 
+States’ provocative position that EMTALA “imposes an 
+objective standard of care” for medical diagnosis and 
+treatment, which requires a hospital to diagnose, treat 
+and stabilize a “medical condition” once a patient is ad- 
+mitted for emergency 
+care. U.S. Br. 11; see also id. at 12 
+(Congress chose to address the problem of patient dump- 
+ing “through imposition of a substantive standard of medi- 
+cal care”). The essential 
+flaw in the United States’ argu- 
+
+not 
+unanimously 
+(and 
+tically) been rejected by 
+pd a ep Mor flap seme 
+See Gatewood V. 
+1184, 1192 (ist Cir. 1995), cert. denied, 517 US. — 
+(1996) (“EMTALA does not create a cause of action or 
+i 
+is” 
+Hosp.., 
+misdiagnosis”); Marshall v. East Carroll Parish 
+| 
+134 F.3d 319, 322 (5th Cir. 1998) (“We agree with the 
+jective standard of care”); Summers v. Baptist Med. 
+oe Arkadelphia, 91 F.3d 1132, 1137 (8th Cir. 1996) 
+(“[E]very court that has considered EMTALA has dis- 
+claimed any notion that it creates a general federal cause 
+of action for medical eee 
+in 
+emamgsety ssome 
+Eberhardt v. City of Los Angeles, 62 F.3d 1253, 
+— 
+(9th Cir. 
+1995) 
+(Tre 
+statutory 
+language 
+of 
+EMTALA clearly declines to impose on hospitals a na 
+tional standard of care in screening patients”); Repp v. 
+25 
+Anadarko Mun. Hosp., 43 F.3d 519, 522 (10th Cir. 
+1994) (Aae believe that the language of section 
+1395dd(a) precludes the adoption of a standard tanta- 
+mount to a federal malpractice statute”); Holcomb v. 
+Monahan, 30 F.3d 116, 117 (11th Cir. 1994) * 
+1395dd(a) is not designed to redress a 
+nosis by the hospital; no federal W are 
+created”). See also, Owens v. Bellevue Hosp. Ctr., No. 
+95-9016, 1996 WL 134227 (2d Cir. Mar. 25, 1996) 
+(unpub. ) (“EMTALA is not intended to provide a fed- 
+eral remedy for medical malpractice”). 
+The suggestion 
+by the government that these rulings “merely represent] 
+a disagreement with Congress’s decision” and therefore 
+are “of little import” should be rejected in this Court. 
+U.S. Br. 13. 
+The text of EMTALA contains no “clear statement” 
+that Congress intended to create a substantive federal 
+standard of care for the diagnosis and treatment of pa- 
+hospital under physician's orders. To the contrary, the 
+language 
+of 42 U.S.C. 
+§ 1395dd(b) (1) is extremely nar- 
+row. It does not purport to impose duties on the hospitals 
+in general. 
+The statute’s duties are triggered only by 
+having an individual “come{] to a hospital.” Even then, 
+the federal statute does not purport to impose broad re- 
+sponsibilities on the facility. 
+Under subsection 
+(a) a 
+screening examination is required, but there is no dispute 
+that a proper examination 
+was made when Ms. -Johnson 
+“[came] to the emergency department” in critical con- 
+dition. But the statute does not pointedly impose upon the 
+hospital a duty to ascertain the patient’s condition and 
+treat it non-negligently. 
+Instead, no treatment obligation 
+arises at all unless and until the hospital actually “de- 
+termines” that “an emergency medical condition” exists. 
+Only then is there a duty to provide “such treatment as 
+may be required to stabilize the medical condition.” Of 
+course, the condition that must be stabilized is not some 
+
+i716 
+61 
+J52 
+117214247777 a 
+e 
+15 
+145 
+145 
+1 
+11% 
+2 
+f 
+„ 
+fl 
+15 
+1110 
+116111. 
+fe 
+1 
+1 
+he 
+1172 
+1 
+1174 
+Ai 
+i 
+Hp 
+. 
+117 
+ATA 
+1575 
+i
+e
+St 
+LF 
+111 
+HE 
+hele 
+Hei 
+5 
+fe 
+z 
+115 
+Hi 
+1 
+i 
+1 
+Habit 
+Hep 
+: 14 uN e Be 
+21 
+371 
+„„ 
+427 
+1 e 
+Mi tl 
+
+assumption that Congress intended each of its terms to 
+have meaning.” Bailey v. United States, 516 U.S. 137, 
+145 (1995). 
+See also United States v. Nordic Village, 
+fashion that every word has some operative effect”); Platt 
+v. Union Pac. R. 
+R. Co., 99 U.S. 48, 58 (1878) (“[TThe 
+admitted rules of statutory construction declare that a 
+7 The United States concedes that EMTALA’s private right of 
+clear that a private suit based on an asserted violation of Section 
+i 
+12 : 
+EMTALA's 
+provision, 
+which provides that 
+“(t]he provisions of this section do not preempt any State 
+or local law requirement, except to the extent that the 
+requirement directly conflicts with a requirement of this 
+section.” 42 U.S.C. § 1395dd(f). 
+This preemption pro- 
+i te i 17 i il 
+sistent with an 
+mentally to alter the federal-state balance by creating a 
+federal standard of care that parallels or overlays exist- 
+ing state standards 
+of care. At the very least, this provi- 
+sion provides further evidence that the “clear statement” 
+rule is not satisfied 
+in this case. 
+EMTALA does not set forth any standard of care with “unmistak- 
+able” clarity. 
+
+likely”); Bass, 404 U.S. at 350 (“[T]he legislative his- 
+tory provides scanty basis for concluding that Congress 
+faced these serious questions and meant to affect the fed- 
+eral-state balance”). 
+To the extent the snippets quoted by the government 
+offer any useful insights, they support respondent’s posi- 
+tion that EMTALA is a gap-filling statute, i. 
+e., the law 
+merely imposes duties that were not imposed under state 
+law at the time. Thus, Senator Durenberger characterized 
+the problem in terms of a hospital turnſ ing] its back on 
+an emergency 
+medical situation.” 131 Cong. Rec. 28,568 
+(1985). 
+Similarly, Senator Dole described the hospital’s 
+duty as a “responsibility 
+of providing an adequate first 
+response to a medical crisis. Id. at 28,569. There is 
+nothing in these expressions of intent by the bill’s floor 
+manager and co-sponsor to indicate that EMTALA would 
+be a federal malpractice law that enforces continuing 
+diagnosis and treatment responsibilities months after a 
+patient’s admission and regardless of whether the attend- 
+ing physicians’ professional judgment is unquestionably 
+that the patient no longer suffers from an emergency 
+medical condition. 
+Those are matters thoroughly regu- 
+lated by state law and, contrary to the Solicitor-General’s 
+suggestion, EMTALA does not clearly supersede the 
+States’ common law in these areas. 
+Respondent therefore urges the Court to follow the 
+unanimous decisions of the courts of appeals that have 
+held that EMTALA does not fundamentally alter the 
+| | 
+: : 
+cern by implementing a federal standard of care for hos- 
+that 
+EMTALA as a federal negligence or malpractice statute 
+for hospitals would have enormous practical consequences. 
+It effectively would convert every common law malprac- 
+tice claim against a hospital concerning emergency med- 
+ical treatment into an EMTALA 
+that could be 
+ate 
+the already sizable 
+docket of court of appeals decisions involving civil suits 
+under EMTALA, most of which involved situations where 
+the Secretary of Health and Human Services did not 
+choose to pursue administrative sanctions and the courts 
+ultimately dismissed the claims on the ground that they 
+simply were malpractice claims that should be raised 
+under state law. In sum, if the United States’ position 
+were to Prevail, hospitals would be uniquely subject to 
+malpractice claims in federal court, even where essentially 
+the same claims could be brought and historically have 
+Interpreting EMTALA 
+as a negligence statute also 
+would dramatically change its nature and scope, and di- 
+ical judgments made by hospitals and physicians, 
+If 
+however, EMTALA imposes a federal Standard of care 
+
+THE COURT SHOULD CONSIDER ALTERNATIVE 
+GROUNDS FOR AFFIRMANCE THAT WILL RE- 
+INFORCE THE UNIFORM RULE IN THE COURTS 
+OF APPEALS THAT EMTALA SHOULD BE CON- 
+STRUED NARROWLY TO PRESERVE STATE LAW 
+REGULATING THE QUALITY OF MEDICAL CARE 
+IN HOSPITALS. 
+If this Court rejects the United States’ position, the 
+question remains as to how a hospital’s duties under 
+EMTALA should be defined to ensure that the statute 
+does not become a vehicle for raising mere malpractice 
+claims in federal court. 
+That was certainly the goal of 
+the Sixth Circuit both in this case and in Cleland, and to 
+that end, the court of appeals incorporated a “motive” 
+test as part of the private cause of action under EMTALA. 
+Under this view a hospital could be liable only if its 
+refusal to provide a screening examination or to provide 
+appropriate medical care to stabilize a patient’s emergency 
+condition were improperly motivated, either by concerns 
+for the patient’s indigence or by “prejudice against the 
+race, sex, or ethnic group of the patient; distaste for the 
+patient’s condition (e.g., AIDS patients); personal dislike 
+or antagonism between the medical personnel and the 
+33 
+patient; disapproval of the patient’s occupation; 
+i 
+ical or cultural opposition.” Pet. 
+Ao mse 
+ing Cleland, 917 F.2d at 272). 
+alata 3 
+not require proof of motive. Instead, the language 
+statute, albeit not a model of 
+clarity, is 
+coche) in at. 
+jective terms that are inconsistent with implying a sub- 
+jective motive standard. The legislative history does not 
+‘learly support this approach and the Secretary of HHS 
+* rejected the interpretation. The principal argument 
+supports this rule is that Congress did not intend to 
+supersede ‘state law when it enacted EMTALA and a 
+€ requirement prese 
+maxim 
+8 
+rves state law to the 
+um 
+The court’s goal is lauda 
+i 
+ion 
+i 
+— acpi tenes, ay Santa, 
+8 Congress adopted and no good purpose 
+pt 
+beste by attempting to defend that interpre- 
+— A for reasons that follow, it is abso- 
+the summary judgment entered in re- 
+tially the same reason this case w 
+ppropriate 
+ö 
+ime 
+as 
+view—a split in the circuit courts of — on * 
+ring legal issue of federal law. Accordingly, nothing — 
+conti 
+ad 
+1 
+vents, ‘nis Court from considering both of these issues 
+8 This Court repeatedly has held 
+revai 
+y 
+that the 
+defend its judgment on any ground properly pores yeh ge Bota 
+
+significan 
+argued by the 
+For the Court to vacate and remand 
+on the motive issue 
+will hardly achieve anything because the court of appeals, 
+which clearly is in search of a limiting principle for 
+EMTALA, will almost certainly adopt one of the two 
+a 
+certainly would have no opposition to either request. 
+More broadly, there are few statutes that have gen- 
+erated nearly so many court of appeals decisions all in 
+search of limiting principles to ensure that EMTALA 
+does not become a litigation-creating machine. Each of 
+those courts has struggled to discern a textually- based 
+rationale for accomplishing Congress’s objective of end- 
+ing the practice of patient dumping without divesting 
+States of their traditional regulatory authority. 
+or not that ground was relied upon, rejected, or even considered by 
+the District Court or the Court of Appeals.” Washington v. Yakima 
+Indian Nation, 439 U.S. 463, 476 n.20 (1979). Respondent properly 
+raised both of the proposed alternative grounds in the courts below. 
+See infra, nn. 9 & 12. In any event, the Court has inherent au- 
+thority to consider issues that were not presented in the petition 
+for certiorari and not raised in the courts below. Vance v. Terrazas, 
+444 U.S. 252, 258-59 n.5 (1980); Dandridge v. Williams, 397 US. 
+471, 475-76 n.6 (1976). 
+stances posed by this case 1 
+. 
+t 
+now, the courts of appeals have derived at least two limit. 
+Several 
+courts of appeals, includin 
+the court below 
+have held that EMTALA does not impose a duty on hos. 
+pitals to stabilize a patient under 42 U.S.C. 8 1395dd (b) 
+or to stabilize a patient prior to transfer under 42 USC. 
+
+36 
+§ 1395dd(c), unless the treating physicians have actual 
+knowledge that the patient has an emergency medical con- 
+dition that is in an unstable state. See Marshall 
+v. East 
+Carroll Parish Hosp., 134 F.3d 319, 325 (Sth Cir. 1998); 
+Vickers v. Nash Gen. Hosp., Inc., 78 F.3d 139, 145 
+(4th Cir. 1996); Summers v. Baptist Med. Ctr. Arkadel- 
+phia, 91 F.3d 1132, 1140 (8th Cir. 1996); Eberhardt v. 
+City of Los Angeles, 62 F.3d 1253, 1259 (9th Cir. 1995); 
+Urban by and Through Urban v. King, 43 F.3d 523, 525- 
+27 (10th Cir. 1994); Holcomb v. Monahan, 30 F.3d 116, 
+117 (11th Cir. 1994); Gatewood v. Washington Healthcare 
+Corp., 933 F.2d 1037, 1041 (D.C. Cir. 1991); Cleland 
+v. Bronson Health Care Group, Inc., 917 F.2d 266, 271 
+(6th Cir. 1990) (“If the emergency nature of the con- 
+dition is not detected, the hospital cannot be charged with 
+failure to stabilize a known emergency condition”). This 
+argument has clear support in the plain language of the 
+statute, is consistent with the concerns that Congress ar- 
+ticulated in the legislative history, and properly distin- 
+actions under EMTALA from actions under state 
+malpractice and negligence statutes. 
+Because the undis- 
+puted evidence in this case is that Ms. Johnson’s treat- 
+ing physicians unanimously concluded that she was stable 
+and did not have an emergency medical condition at the 
+time of her transfer, this theory provides a clear alterna- 
+tive ground for affirming the judgment below.“ 
+®This argument was properly preserved in the courts below. 
+Respondent argued to the district court in its motion for summary 
+judgment that [a] necessary prerequisite of the hospital’s duty 
+to stabilize is the hospital’s knowledge of the patient’s emergency 
+medical condition, gleaned from the medical screening.” Memoran- 
+dum in Support of Defendant Galen of Virginia, Inc. d/b/a Uni- 
+versity of Louisville Hospital’s Motion for Partial Summary Judg- 
+ment (“Respondent’s Summary Judgment Memorandum”), R. 63, 
+at 7 (citing Cleland). See also id. (“Plaintiff's burden is to show 
+that the Hospital knew that Ms. Johnson had an emergency medical 
+condition on the date of her discharge in order to show that the 
+Hospital breached its duty to stabilize prior to her transfer to a 
+nursing home”); id. at 8 (“The hospital’s duty to stabilize arises 
+37 
+The duty to stabilize a patient under 42 U.S.C. 
+§ 1395dd(b) applies when an individual comes to a hos- 
+pital “and the hospital determines that the individual has 
+emergency 
+medical condition.” 
+(emphasis added). 
+2 
+couding: afl 
+Gide.atemuers lenaesee’ to 
+that the duty to stabilize a patient cannot arise unless the 
+treating physicians at the hospital actually diagnose or 
+detect the emergency medical condition, i. 
+e., unless the 
+hospital has actual knowledge of the medical emergency. 
+See Vickers, 78 F.3d 
+at 145; Summers, 91 F.3d at 1140; 
+Urban, 43 F.3d at 526; Gatewood, 933 F.2d at 1041. 
+Once the hospital becomes aware of an emergency con- 
+dition, however, the stabilization duty is unequivocally 
+triggered and the hospital is required to act on its knowl- 
+edge by stabilizing 
+the patient. 
+If the hospital 
+fails to 
+lize 
+a known emergency condition, i. e., the hospital 
+acts in conscious disregard of its knowledge of an emer- 
+gency medical condition, then EMTALA’s stabilization 
+requirement 
+is violated. Similarly, 
+because the transfer 
+requirements 
+of 42 U.S.C. §§ 1395dd(c) 
+apply only when 
+a patient “has an emergency medical condition which has 
+not been stabilized” within the meaning of § 1395dd(b), 
+te transfer requirements are not triggered unless, the 
+hospital has actual knowledge of an emergency conditi 
+that requires stabilization. 
+on 
+—.— —— in Vickers explained that this reading of the 
+ory language properly distinguishes a claim under 
+SMPALA fron smalanic dan 
+only after it ascertains from the initial screening that an individual 
+has an ep medical condition“) (emphasis in original). 
+Respondent 
+raised this same argument 
+on a 
+In 
+i 
+Cireuit brief, respondent quoted the holding of — 
+28 
+v. Nash Gen. Hosp., 78 F.3d 139, 145 (4th Cir. 1996), that “‘a 
+hospital must actually perceive the seriousness of the medical 
+condition and nevertheless fail to act to stabilize it.“ 
+Brief of 
+Appellee, at 15. Respondent then argued that in this case 
+Johnson’s treating physicians ‘perceived’ that Johnson was stable, 
+sew that the transfer to Crestview was appropriate.” 
+Id. 
+
+On its face, [42 U.S.C. § 1395dd(b)) takes 
+the ac- 
+hospitals 
+to 
+for 
+not 
+have 
+would 
+claims 
+actual 
+“as a given” 
+EMTALA 
+identifies the critical distinction between EMTALA and 
+state 
+ce actions. Under the plain language 
+of the 
+statute, 
+ALA imposes a duty on hospitals to treat 
+patients when a physician “determines” or has actual 
+knowledge that the patient has an emergency condition, 
+the patient has an emergency condition. 
+This interpretation of the statutory language is most 
+consistent with the anti-dumping concerns that motivated 
+Congress to enact the statute. 
+If the physician actually 
+knew that the patient had an emergency medical condi- 
+tion, and acted in disregard of that knowledge by refusing 
+to stabilize the patient, then the hospital engaged in 
+“dumping” and violated EMTALA. 
+If, instead, the phy- 
+sician did not know but arguably “should have known” 
+of the emergency medical condition, this may be a mat- 
+ter for state malpractice law, but is not “dumping” and 
+hence does not constitute a violation of EMTALA. 
+In 
+short, Congress addressed 
+its concerns 
+about 
+patient 
+“dumping” by enacting a statute that provides a cause of 
+action against hospitals when physicians refuse to treat 
+patients whom they know have emergency medical condi- 
+tions, not when they merely make mistakes and fail to 
+diagnose such conditions in the first instance. 
+10 The actual knowledge requirement imposed by a majority of 
+the courts 
+of appeals is consistent 
+with the fact that Congress 
+re- 
+quired “negligence” for the imposition of administrative sanctions 
+155 i ii f f 
+111 : i 5 : ? 
+75 i i i i 
+K | 
+4735 
+2781 
+1155 
+1711 
+Jag rift Ht i 
+tee 
+knowledge requirement does not create an incentive for 
+physicians to “deliberately fail to diagnose emergency 
+medical conditions in an effort to avoid liability under 
+medical screenings. 
+Id. at 527. In addition, physicians 
+and hospitals can be held liable under state malpractice 
+laws if physicians fail properly to diagnose patients. 
+Id. 
+an emergency medical condition and fails to act on this knowledge. 
+For purposes of determining whether administrative 
+sanctions 
+against individual physicians and/or hospitals are appropriate, how- 
+ever, Congress reasonably concluded that carelessness would be an 
+appropriate inquiry. In any event, it is difficult to draw comparisons 
+between the administrative sanctions and private right of action 
+provisions of EMTALA because 
+ne 
+, 
+they were designed to address 
+
+an 
+* 
+Miller 
+MD 
+Aff.”) 4 4) See also J. A. 103 ( 
+Dep 
+“ 
+opinion, 
+did not have an emer- 
+Dep. e cosdition os date of her transfer”). 
+b the courts below that a genuine issue of mate- 
+11 The ae riya 4 
+to whether Ms. Johnson's condition was 
+vial fact exists 
+regard 
+least 
+“ 
+time of her transfer is legally irrelevant for at 
+is what the physician’s actual 
+tion whether Ms. Johnson’s condition was in fact stable is simply 
+not relevant to any legal issue under EMTALA. 
+12 This argument was properly preserved in the courts below. 
+Respondent argued in the district court in its motion for summary 
+judgment that “EMTALA applies first and foremost to a patient 
+who comes to the hospital seeking treatment for an emergency 
+medical condition.” Respondent’s Summary Judgment Memorandum, 
+
+et 4 5 12 “ii in 
+ai] 1 5 oe 111 eilt 
+ey 
+‘SSB 
+i a 
+5 J > 
+Id. at 352; see also id. (“The stabilization requirement 
+is thus defined . 
+. 
+without any reference to the patient's 
+long-term care within the system”). The court explained 
+that 
+at 4; id. (“Congress’ purpose in enacting EMTALA was to ensure 
+‘that patients with medical emergencies would receive emergency 
+cure (quoting Thornton v. Southwest Detroit Hosp., 895 F.2d 
+1131, 1182 (6th Cir. 1990)) (emphasis added). Respondent cited the 
+same language from Thornton in its brief on appeal. 
+Brief of 
+Appellee, at 8. 
+43 
+ew.yone agrees EMTALA was not intended to 
+preempt. 
+a patient under 42 U.S.C. 
+§ 1395dd(b) applies 
+only when 
+x individual “comes to a hospital and the hospital deter- 
+mines that the individual has an emergency 
+medical con- 
+15 ef =§ 5 1 Hh 
+: = 8 
+i 
+* : 11 ö 
+5 1 1 
+treatment 
+and discharge decision that 
+is made 
+hospital setting simply because the patient hap- 
+to have been admitted initially into an emergency 
+75 3 
+Fit! 
+
+race, religion, sex or national origin”) (statement of Rep. 
+Bilirakis) (emphasis added). 
+This reading of EMTALA is consistent with principles 
+of federalism because it proceeds from the notion that 
+but instead was meant to fill a gap in state tort law, which 
+generally does not impose on hospitals an obligation to 
+treat patients in the first instance. As the Bryan court 
+noted, 
+EMTALA’s “core purpose is to get patients into the 
+system who might otherwise go untreated 
+and be left with- 
+out a remedy because traditional medical malpractice law 
+affords no claim for failure to treat.” 95 F.3d at 351. 
+See also Gatewood, 933 F.2d at 1041 (EMTALA “is not 
+intended to duplicate preexisting legal protections, but 
+rather to create a new cause of action, generally unavail- 
+able under state tort law, for what amounts to failure to 
+treat”); Brooks v. Maryland Gen. Hosp., Inc., 996 F.2d 
+708, 710 (4th Cir. 1993) (Congress enacted EMTALA 
+to require hospitals to provide universal emergency care 
+because “[u]nder traditional state tort law, hospitals are 
+under 
+no legal duty to provide 
+this care”). 
+This reading of EMTALA also is consistent with prin- 
+of 
+notion that 
+ALA 
+on hospitals 
+to provide long-term care to patients based on an as-yet- 
+to-be developed national standard of care. As the Bryan 
+court reasoned: 
+Under 
+in 
+a 
+— — 
+Ree Amo 
+EMTALA obligates the hospital to do much more 
+than merely provide immediate, emergency stabiliz- 
+the standards embodied in the state law of medical 
+rr 
+men 
+years according to a 
+novel, federal 
+of care derived from the stat - 
+95 F.3d at 351. The test applied by the Fourth and Tenth 
+Circuits limits the federal cause of action to decisions con- 
+cerning the initial screening and treatment of patients with 
+possible emergency conditions. It avoids “federalization” 
+of the entire panoply of treatment and discharge decisions 
+made by physicians caring for patients in hospitals, which 
+include difficult and complex decisions concerning the 
+transfer of patients, such as Ms. Johnson, who have severe 
+and chronic conditions that can only be improved by re- 
+habilitation 
+in non-hospital settings. 
+Under 
+the standard applied by the Fourth 
+and Tenth 
+Circuits, the judgment below plainly was correct. There 
+is no dispute in this case that Ms. Johnson's physicians 
+properly diagnosed the life-threatening 
+trauma injuries that 
+she presented in the emergency room, promptly admitted 
+her to the hospital, and stabilized those injuries during her 
+two month hospital 
+stay. The uncontradicted testimony of 
+her doctors is that she was “stable” throughout July and 
+was moved to a “step-down unit” within the hospital. J. A. 
+116-18 (Abou-Jaoude Dep. at 15, 17); see also id. at 123 
+
+46 
+Johnson 
+was “stable” during the two weeks prior to 
+8 Moreover, Ms. Johnson's doctors or 
+procedures to transfer her to a skilled nursing facility to 
+gin the rehabilitation process because they concluded that 
+she was “stable” and “making progress.” 
+J.A. 118-20 
+(Abou-Jaoude Dep. at 19-21) and Abou-Jaoude Dep. at 
+18, 22. Indeed, petitioner has never disputed that Ms. 
+Johnson's initial injuries were stabilized during her two- 
+month hospital stay. Petitioner’s claim is that Ms. John- 
+son developed a new infection prior to her transfer that 
+rendered 
+her unstable. 
+Under the test employed 
+by the 
+Fourth and Tenth Circuits, however, that new complica- 
+tion is irrelevant because EMTALA does not apply to the 
+treatment and transfer decisions made by Ms. Johnson's 
+physicians after her initial emergency condition was sta- 
+bilized. Accordingly, 
+under that test, the summary judg- 
+ment plainly was appropriate. 
+* 
+* 
+* 
+* 
+this case had arisen in any Circuit (other than the 
+6660 ch 
+DAEVALA ba tooo toe 
+decided, the outcome would have been exactly the same as 
+the decision below. That is, the hospital would have been 
+awarded summary judgment and the patient would have 
+been left to assert whatever state law malpractice claim she 
+has. Of course, the reasoning of the other courts would 
+have been markedly different. Those courts would have 
+held that the undisputed lack of actual knowledge by the 
+hospital and its physicians of any emergency medical con- 
+dition at the time of transfer and the undisputed provi- 
+distri 
+'s 
+finding 
+that there was a genuine issue of 
+4 fact — 
+Ress Roun Me Johnson was stabilized at the time 
+of her trensfer to Crestview was based on conflicting testimony 
+concerning the effects of the new infection that she acquired 
+the 
+day before 
+the transfer. See Pet. App. A29-A36. Under 
+the test 
+articulated in Bryan and Collins, however, that finding is irrelevant 
+because EMTALA did not apply to the treatment and transfer deci- 
+sions made by Ms. Johnson’s physicians at that time. See supra, 
+n. 11. 
+sion of treatment to stabilize the emergency medical con- 
+dition for which Ms. Johnson was initially admitted to 
+the hospital required dismissal of Ms. Johnson’s claims 
+under EMTALA. 
+The Sixth Circuit reached the same ultimate judgment, 
+but by a path that cannot be located within the language 
+of the statute. Respondent urges the Court to do more 
+than simply inform the court of appeals of the error of its 
+way, and instead, take advantage of this case as an Oppor- 
+tunity to make clear that EMTALA is not a radical sta- 
+tute that effectively supersedes state malpractice law for 
+all patients who arrive at a hospital’s emergency room. 
+The Court should hold that EMTALA fills the gap in 
+state law by creating a physician-patient relationship that 
+imposes upon hospitals limited duties to respond to the 
+known needs of a patient’s immediate emergency condi- 
+tion and then looks to state law exclusively to govern the 
+physician-patient relationship thereafter. 
+By taking this 
+approach, the Court will accomplish much more than 
+merely eliminating an aberrational rule of law that ap- 
+plies only in four States, which is what petitioner urges the 
+Court to do. Instead, the Court can provide critical guid- 
+ance that will spare both hospitals (and physicians) and pa- 
+tients the need to expend scarce resources litigating the 
+metes and bounds of EMTALA and spare federal courts 
+the burden they now assume of being inundated with 
+routine medical malpractice cases masquerading as fed- 
+eral statutory causes of action. 
+The argument of the United States as amicus curiae 
+nudges the Court to go beyond the limited objectives of 
+petitioner. Respondent thus urges the Court to recognize 
+the provocative nature of the government’s submission 
+and to reject it by entertaining and adopting respondent’s 
+alternative theories in support of the judgment below. 
+
+48 
+CONCLUSION 
+For the foregoing reasons, the judgment oi we court of 
+appeals 
+should be affirmed. 
+— 
+Respectfully submitted, 
+BRYAN TODD THOMPSON 
+CARTER G. PHILLIPs * 
+THOMAS S. CALDER 
+JACQUELINE GERSON COOPER 
+MILLICENT A. TANNER 
+SRY & AUSTIN 
+DINSMORE & SHOHL LLP 
+1722 Eye Street, N.W. 
+2000 Meidinger Tower 
+Washington, D.C. 20006 
+Louisville, KY 40202 
+(202) 736-8000 
+(502) 585-2450 
+Counsel for Respondent 
+September 22, 1998 
+*Counsel of Record 
