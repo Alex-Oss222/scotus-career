@@ -1,11 +1,6 @@
 # OT_1998CHUNK4 Render Input
 
-**October Term:** 1998. **Completed events:** 9. **Chronological range:** 1999-01-21 through 1999-02-24.
-
-**Stopped matters:**
-- Department of Commerce v. United States House of Representatives; Clinton v. Glavin: Stone must supply the House-standing disposition. His approved text discusses that threshold without deciding it and directs merits reversal; the fallback cannot replace that choice with jurisdictional dismissal. No final companion judgment is entered.
-- Suster v. Marshall: Stone must revalidate his disposition against the expenditure-only grant; his approved transfer-restriction relief concerns a ruling outside this review.
-- Hart v. Gwadosky: Stone must revalidate his merits disposition after the verified December 23 qualification removed the claimed ballot-access injury; no supported recurring injury supplies the missing mootness or merits choice.
+**October Term:** 1998. **Completed events:** 12. **Chronological range:** 1999-01-21 through 1999-02-24.
 
 <!-- source-record: citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md -->
 ## Event
@@ -293,6 +288,106 @@ The reviewed lower opinions, their amended rehearing text, the Act and the actua
 
 ---
 
+<!-- source-record: department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md -->
+## Event
+
+Department of Commerce v. United States House of Representatives, No. 98-404; Clinton v. Glavin, No. 98-564. Argued November 30, 1998; decided January 25, 1999. Direct appeals under Pub. L. 105-119, §209(e)(1), from three-judge District Courts: District of Columbia, 11 F. Supp. 2d 76 (August 24, 1998), and Eastern District of Virginia, 19 F. Supp. 2d 543 (September 24, 1998). Both courts entered summary judgment and permanent injunctions against using statistical sampling for interstate House apportionment, without deciding the constitutional challenge. The appeals concern each action's independent standing, the relationship between 13 U.S.C. §§141 and 195, and the Enumeration Clause's application to the proposed nonresponse follow-up and Integrated Coverage Measurement methods. Postal Vacancy Check sampling is outside the challenge.
+
+## Participation
+
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+## Public Action
+
+The Glavin judgment is reversed, its injunction is vacated, and that case is remanded. The House judgment and injunction are vacated, and that action is remanded with instructions to dismiss without prejudice for lack of standing.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Glavin, No. 98-564 | Reverse the statutory judgment and vacate the injunction, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Remand for proceedings consistent with permission to use the two proposed methods; the presented categorical and design-level constitutional objections supply no surviving injunction. |
+| House, No. 98-404 | Vacate the judgment and permanent injunction; remand for dismissal for lack of standing, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens, Breyer | Dismiss without prejudice for want of Article III standing; enter no merits judgment in this action. |
+
+All nine find standing in Glavin through Hofmeister's sufficiently supported threatened loss of representation. Stevens and Breyer would reach the House merits and reverse its statutory judgment rather than direct jurisdictional dismissal. The House disposition rests on its own lack of standing, not mootness from an independently surviving Glavin prohibition. No injunction against the President or new enforcement term is ordered.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Lead opinion, an Opinion of the Court in Parts I, II, III-A and IV and a plurality in Part III-B | Souter | Part I: all other Justices. Part II: O'Connor, Scalia, Kennedy, Thomas and Ginsburg. Part III-A: Stone-Zsela, Stevens, Ginsburg and Breyer. Part III-B: Stone-Zsela, Stevens and Ginsburg. Part IV: Stone-Zsela, Stevens, Ginsburg and Breyer. | Announces both judgments | I: Glavin standing. II: House standing and jurisdictional disposition. III-A: the two proposed methods are statutorily permissible. III-B: broader permission/duty construction. IV: constitutional rule, this explained design and Glavin relief. |
+| Opinion concurring in part and concurring in the Glavin judgment, and dissenting in part in the House appeal | Breyer | Stevens as to the House-standing portion only | Supports Glavin reversal on narrower statutory grounds; opposes House jurisdictional dismissal | Statutory supplementation ground is Breyer's alone; institutional standing portion is joined by Stevens. Breyer joins lead Parts I, III-A and IV, but not II or III-B. |
+| Opinion concurring in part and dissenting in part | O'Connor | Scalia, Kennedy and Thomas as to its text-and-structure ground; Kennedy also joins its legislative-history corroboration | Joins lead Parts I and II; would affirm Glavin's statutory judgment and injunction | §195's retained apportionment restriction; no constitutional validity holding. |
+| Opinion concurring in part and dissenting in part | Scalia | Kennedy and Thomas | Joins lead Parts I and II and the text-and-structure portion of O'Connor's dissent | Supplementary constitutional doubt supports the restrictive statutory reading; no holding that sampling violates the Constitution. |
+
+Stone-Zsela agrees in the House judgment without joining Part II or adding a ground. Stevens joins lead Parts I, III-A, III-B and IV and the House-standing portion of Breyer's separate opinion. No other separate writing is filed.
+
+## Holdings
+
+### I. A supported threat to personal representation permits Glavin review
+
+**Holding and operative rule:** A voter may challenge an announced census method before the final apportionment when summary-judgment evidence sufficiently supports a concrete threat to that voter's representation, causally attributable to the method and likely redressable by relief against responsible officials. Hofmeister's Indiana representation claim meets that standard; neither statutory authorization alone nor an unsupported prediction would suffice.
+
+**Authority:** Souter's Part I, joined by all eight other Justices, controls.
+
+**Controlling explanation:** The Court holds that Weber's comparison of Bureau projections and measured differential undercounts identifies a particular marginal Indiana seat at risk. Wetrogan's updated projections and Thompson's objections concerning redesigned methods, uncertainty and overseas personnel qualify the forecast but do not eliminate the supported threat attributable to sampling. *Lujan* requires evidence appropriate to summary judgment, not merely pleading a possible injury; it does not require certainty of the eventual allocation. *Franklin* connects representation injury to relief directed at census officials without requiring a completed census before prevention may be sought. Section 209 makes the plan reviewable and provides expedition, but does not manufacture injury. The Court adopts no finding of conceded or certain seat loss and need not decide county-funding, intrastate-districting or feared invalid-census/reversion theories. Each would require its own personal and causal showing.
+
+### II. The House has not established its own institutional injury
+
+**Holding and operative rule:** Statutory authorization for the House to sue does not establish Article III injury where the asserted harm is disagreement with the lawfulness of a future census methodology, without withheld information or a demonstrated present impairment of institutional power. This House action must be dismissed without prejudice, and its judgment and injunction vacated.
+
+**Authority:** Souter's Part II, joined by O'Connor, Scalia, Kennedy, Thomas and Ginsburg, supplies six controlling rationale votes. Stone-Zsela supplies a seventh judgment vote only. Stevens and Breyer dissent from this component.
+
+**Controlling explanation:** The Court holds that the authorized House is a different plaintiff from the individual legislators in *Raines*, which distinguishes authorization from the existence of a concrete constitutional injury. The House will receive an apportionment report; the dispute concerns the legality of its preparation, not the withholding of particular information for an established use. *Akins* protects actual deprivation of statutorily required electoral information and does not convert every methodology dispute into informational injury. The House retains 435 seats, while the composition theory concerns later electorates and membership without present nullification of its votes or demonstrated impairment of concrete work. The House's continuing identity and statutory authorization therefore do not cure the missing injury. The Court adopts no categorical bar on institutional suits and reserves actual information refusals, subpoena enforcement, property injury and complete vote nullification for their own records. Standing in Glavin cannot be transferred to this separate plaintiff.
+
+### III. The two proposed sampling methods are statutorily permissible
+
+**Holding and operative rule:** Sections 141 and 195 permit the proposed nonresponse follow-up and Integrated Coverage Measurement methods, as components of the actual enumeration effort described in this record, to contribute to the population tabulation used for interstate House apportionment. The Act does not require the Secretary to select these methods, and the statutory injunction against their use cannot stand.
+
+**Authority:** Souter's Part III-A has five direct joins: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. The shared proposition concerns these two designs, not every possible sampling plan. Part III-B's general construction has only Stone-Zsela, Stevens, Souter and Ginsburg; Breyer supplies a distinct, narrower statutory explanation in his separate opinion.
+
+**Controlling explanation:** The Court holds that the statute allows the challenged methods in the described census. That conclusion has five votes, but the five do not adopt a common general construction of the apportionment exception. The plurality reads the exception as removing a duty while preserving discretion; Breyer permits the methods because they supplement the actual enumeration effort. Their distinct grounds are set out below. Neither the general discretion theory nor Breyer's proposed ban on replacing enumeration with a sample census becomes a majority holding. The common permission does not establish a fixed percentage safe harbor, compel sampling when feasible for apportionment, or dispose of a materially different design. Section 141(e)(2)'s separate mid-decade restriction is not the §195 exception and remains undisturbed.
+
+### IV. The Constitution permits this explained use of statistical supplementation
+
+**Holding and operative rule:** The Enumeration Clause requires a genuine population-counting effort reasonably related to enumeration and population-based representation, rather than an exclusively headcount method. The proposed follow-up and coverage-measurement design satisfies that requirement on its explained geographic and methodological record; materially different, unsupported, discriminatory or unauthorized implementation remains reviewable.
+
+**Authority:** Souter's Part IV is joined by Stone-Zsela, Stevens, Ginsburg and Breyer and controls with five votes. O'Connor, Scalia, Kennedy and Thomas resolve Glavin on statutory prohibition and do not decide constitutional validity.
+
+**Controlling explanation:** The Court holds that an actual enumeration may combine direct collection with reasoned statistical correction of its limitations. *Franklin* rejects a literal physical-presence requirement without itself deciding sampling. *Wisconsin* supplies the reasonable-relationship standard, respect for an explained methodological choice and the need to examine geographic accuracy and uncertainty; its reservation left this question open. The plan combines initial collection, tract-based follow-up and coverage measurement directed at differential omissions. Its explanation distinguishes random block error from systematic bias, examines state and congressional-district accuracy, and addresses aggregation and uncertainty. The challengers correctly observe that better national totals alone would not establish better representation. The actual geographic explanation meets that objection sufficiently to establish the required reasonable relationship; the Court does not find that every State or district will improve or that error is impossible. Neither conventional enumeration nor statistical supplementation receives automatic superiority. The decision requires no particular census method, fixes no permissible error rate, and gives no advance approval to unexplained later changes. The presented constitutional objections therefore supply no basis to preserve the Glavin injunction or require a remand for those same objections.
+
+## Precedent Treatment
+
+- *Lujan v. Defenders of Wildlife* is applied at the summary-judgment stage: a supported threatened personal injury is required; legislative authorization cannot replace it.
+- *Franklin v. Massachusetts* is applied to representation injury, the official remedial chain and rejection of a literal physical-presence rule. Its actual-reasons review remains distinct from constitutional reasonableness, and no presidential APA or coercive-relief question is decided.
+- *Raines v. Byrd* is applied by distinguishing the authorized institution from individual legislators while independently requiring concrete injury. Its reservation of institutional suits is preserved; this particular House claim fails.
+- *Federal Election Commission v. Akins* is distinguished: actual withheld information for a concrete electoral use differs from disagreement over lawful preparation of a future report. Its informational-injury rule remains effective.
+- *Wisconsin v. City of New York* is applied to explained census choice, geographic accuracy and uncertainty. Its reserved constitutional sampling question is answered for these methods; its reasonable-relationship standard is unchanged, and neither it nor this decision commands adjustment.
+- *Steel Co. v. Citizens for a Better Environment*, *NAACP, Los Angeles Branch v. Jones* and *Wisconsin Right to Life v. Paradise* are applied to decide each plaintiff's actual threshold before contested merits. No jurisdiction is assumed to obtain either docket's result.
+
+## Law After Decision
+
+As of January 25, 1999, the two proposed apportionment methods are permitted by the Census Act and satisfy the Enumeration Clause on this design and explanation. Five Justices support that statutory permission and the constitutional rule, but only four adopt the general permission-versus-duty interpretation of §195. No controlling prohibition on every replacement sample census or general percentage safe harbor is established. The six-Justice House-standing rationale requires an institution's own concrete injury and leaves other institutional claims open. Review of actual implementation, geographic reliability and compliance with independent statutory limits survives. No sampling mandate or new exemption from judicial review results.
+
+## Separate Writings
+
+**Souter's statutory plurality, joined by Stone-Zsela, Stevens and Ginsburg (Part III-B).** Section 141(a)'s express sampling authorization, together with §141(b)'s use of that tabulation for apportionment, leaves discretion to sample. Section 195 removes apportionment from the command to authorize sampling when the Secretary considers it feasible; it does not prohibit sampling. The exception retains work because the Secretary need not sample for apportionment even when feasible. The retained language and earlier statutory setting are substantial contrary arguments, but do not turn a changed command into an unexpressed prohibition. Section 209 provides review and unsampled preparations, not substantive authorization. The plurality recognizes neither a duty to sample nor immunity for unconstitutional methods. This general statutory construction has four votes.
+
+**Breyer's separate opinion.** Breyer agrees that these methods are lawful, but reads §195 to distinguish replacing enumeration with a sample census from supplementing an actual enumeration effort to correct its omissions. Integrated Coverage Measurement compares and adjusts the initial count. Nonresponse follow-up requires separate analysis because it estimates remaining housing units: direct information from at least ninety percent of a tract's housing units, practical collection difficulty and the Secretary's explained accuracy-and-cost judgment keep this design within permissible supplementation, though it approaches the discretionary boundary. The denominator is housing units, not all persons. Breyer adopts neither a fixed percentage safe harbor nor a cost exception to an express prohibition, and declines Part III-B's broader reading. He joins the constitutional holding. In the House portion, joined by Stevens, he finds a concrete continuing institutional function concerning the apportionment report and lawful representation. Their *Raines* positions distinguish interference with constitutional work from personal legislative disappointment, and *Akins* connects an information entitlement to actual use. Authorization alone is insufficient, but the House's legal continuity permits protection of this function before the membership changes. They would reverse the House judgment on the merits rather than dismiss its action.
+
+**O'Connor's partial concurrence and dissent.** O'Connor, Scalia, Kennedy and Thomas read §195's specific retained apportionment restriction to qualify §141(a)'s general methods language. The 1976 change to a feasibility-qualified sampling command expanded required use elsewhere without removing that boundary; §141(b)'s report requirement creates no contrary grant. They accept that an exception from a command is not invariably a prohibition but find the continuous statutory structure decisive here. O'Connor and Kennedy also accept legislative-history corroboration; Scalia and Thomas do not join that ground. All four would affirm the Glavin statutory judgment and injunction as to the challenged apportionment methods, without deciding constitutional validity, banning all statistical work or treating feasibility as an unconditional duty.
+
+**Scalia's partial concurrence and dissent, joined by Kennedy and Thomas.** These Justices additionally find serious constitutional doubt concerning the ordinary historical meaning of enumeration and Congress's long practice, supporting the available restrictive statutory construction. *Franklin*'s residence ruling and *Wisconsin*'s express reservation did not resolve that doubt. This is a supplementary construction argument, not a constitutional holding, an assertion that every estimate is forbidden or a literal census-day physical-presence rule. They join O'Connor's text-and-structure ground, not her legislative-history discussion.
+
+## Procedure After Action
+
+Glavin returns to the Eastern District of Virginia following reversal of its statutory judgment and vacatur of its injunction. No injunction survives on the rejected categorical statutory or constitutional objections, and the same design-level constitutional challenge is resolved. The House judgment and injunction are vacated and its action returns to the District of Columbia with instructions to dismiss without prejudice for lack of standing. No specific census, automatic hearing, new deadline, presidential injunction or further Supreme Court event is ordered. A materially different implementation dispute must present its own lawful claim and controversy.
+
+## Source Notes
+
+The two district-court opinions supply the reviewed statutory judgments. Glavin's appendix supplies its actual order; the House appellee brief quotes the House order at jurisdictional appendix 67a, supporting its apportionment scope and its Department, Secretary, Bureau and Director addressees. The latter is a published quotation of the order, not an independently reproduced original. The statutory appendix supplies §§141, 195 and 209. Weber, Wetrogan and Thompson provide the competing forecast evidence; the Bureau's 1997 plan and 1998 submissions provide the design and geographic-accuracy explanation. Those submissions are assessed as evidence and explanation, not as conceded future census results. No eventual 2000 allocation, universal accuracy improvement or later implementation event is found.
+
+---
+
 <!-- source-record: hughes_aircraft_co_v_jacobson_merits_1999-01-25.md -->
 ## Event
 
@@ -398,6 +493,71 @@ The original complaint, Joint Appendix pp. 19–32, supplies the six claims and 
 
 ---
 
+<!-- source-record: suster_v_marshall_merits_1999-01-28.md -->
+## Event
+
+Suster v. Marshall, No. 98-737. Decided January 28, 1999, after plenary post-grant merits consideration; no separate oral-argument date is established. On writ of certiorari to the Sixth Circuit, 149 F.3d 523, July 30, 1998. The question is whether the mandatory $75,000 common-pleas expenditure ceiling in former Canon VII(C)(6)(d) survives the First Amendment expenditure rule because the candidates seek judicial office. Review concerns preliminary protection under the former canon, with continuing disciplinary exposure and reelection interests. The later population-based canon and state-law count remain for proceedings below. The distinct nonjudicial-account transfer ruling is outside the grant.
+
+## Participation
+
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at merits submission and decision.
+
+## Public Action
+
+The judgment affirming the preliminary expenditure injunction is affirmed within the scope of review.
+
+## Judgment & Remedy
+
+**Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The preliminary injunction continues for plaintiffs, plaintiff-intervenors and their respective opponents under the October 22, 1996 consent extension, including Maloney's later protection. It is not a final statewide decree. The amended-canon and state-law remands remain intact. The transfer ruling is left undisturbed outside the grant; its merits are not adjudicated.
+
+## Opinion Topology
+
+Breyer delivers the opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. No separate opinion is filed.
+
+## Holdings
+
+### Judicial-campaign expenditures and the preliminary protection
+
+**Holding and operative rule:** A mandatory ceiling on the total amount of judicial-campaign advocacy receives the demanding First Amendment review applicable to campaign expenditures. Ohio's interest in impartial adjudication and its appearance does not justify this source-independent $75,000 ceiling on the present record; the candidates' likelihood of success supports the existing preliminary expenditure injunction at its actual, consent-extended scope.
+
+**Authority:** Breyer's opinion for the unanimous Court supplies the complete rule, application and remedial limits. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join every controlling proposition.
+
+**Controlling explanation:** The Court holds that the judicial office's distinctive function does not remove campaign advocacy from the expenditure rule. Buckley v. Valeo distinguishes the quantity of a candidate's expression from a donor's contribution. City of Cincinnati v. Kruse applies that distinction to a source-independent total ceiling while reserving materially different institutional restrictions. The Court now considers judicial impartiality directly: judges must decide cases impartially, and public confidence in that function is a weighty interest. The lower court's suggestion that corruption is the only interest worthy of consideration is not adopted.
+
+The asserted interest nevertheless does not establish this ceiling's necessary fit. The record concerns contribution influence, adjudicative commitments and bias; the total limit also forbids further personally financed and qualifications-related advocacy without identifying the corresponding danger. That a candidate can communicate adequately below the ceiling does not explain why additional advocacy may be prohibited. A concern about interested donors does not make every expenditure a contribution restriction. Colorado Republican preserves that transaction-specific distinction rather than immunizing transfers or other financial arrangements.
+
+Separate contribution, solicitation, disclosure and recusal measures address different dangers. Their relevance does not establish that every such measure is valid or invariably sufficient, and no proof of a completed bribe or compulsory empirical waiting period is required. The candidates' continuing exposure under the old canon gives the preliminary protection practical legal effect despite the completed election and amendment. The amended canon remains for consideration below on its own text and record. The Court affirms the confined preliminary protection; it neither enters a final statewide decree nor adjudicates the separate transfer ruling.
+
+**Application and limits:** Protection continues for the plaintiffs, plaintiff-intervenors and their respective opponents under the October 22, 1996 consent extension, including Maloney's later preliminary protection. It does not extend to every Ohio judicial candidate. The removed $18,750 primary sublimit and its separate consent decree are outside this decision. Ordinary recusal and disqualification, distinct ethics restrictions and lawful donor-contribution controls are undisturbed. The state-law remand is preserved, and no new general preliminary-injunction test is adopted.
+
+## Precedent Treatment
+
+- *Buckley v. Valeo*, 424 U.S. 1, is applied to the direct restraint on the quantity of campaign expression. Its expenditure/contribution distinction remains controlling; the judicial-office setting does not supply an exemption from demanding expenditure review.
+- *City of Cincinnati v. Kruse*, December 16, 1998, is applied to this source-independent ceiling after separately examining the judicial-impartiality interest it reserved. Its rule against justifying a total speech cutoff by sufficient remaining speech remains effective, and its reservation of materially different institutional restrictions survives.
+- *Colorado Republican Federal Campaign Committee v. Federal Election Commission*, June 26, 1996, is applied for its distinction between political expression and actual candidate-resource transactions. Its actual-connection requirements and limitations remain intact; neither its party-specific transfer exemption nor its treatment of coordinated activity supplies a ruling on Ohio's unreviewed transfer canon.
+
+## Law After Decision
+
+As of January 28, 1999, the demanding expenditure rule applies to mandatory judicial-campaign spending ceilings. Judicial impartiality and its appearance receive independent consideration, but do not justify the challenged source-independent $75,000 limit on this record. The existing preliminary injunction stands at its actual scope. The Court makes no final adjudication of the amended canon, no statewide decree, no decision on the nonjudicial-account transfer restriction and no general invalidation of judicial ethics or contribution rules.
+
+## Separate Writings
+
+No separate opinion is filed.
+
+## Procedure After Action
+
+The existing preliminary expenditure protection remains in force at its consent-extended scope. The amended-canon challenge and the state-law count continue below under the existing remands. No new hearing, deadline, transfer ruling or final statewide decree is ordered. The removed primary sublimit and its separate consent decree are untouched.
+
+## Source Notes
+
+The Sixth Circuit opinion, 149 F.3d 523, is reproduced at Appendix A-1–A-26 of the original petition, [No. 98-737](https://archive.org/details/micro_IA40386003_1128), whose source caption is Marshall v. Suster. It supplies the old ceiling, the intervention and consent-extension history, continuing exposure and the amended-law and state-law remands. The January 28 date is the assigned merits consideration date. The revised canon's exception cross-reference is not fully reproduced in the presented excerpt; the Court enters no final judgment on that provision. No donor-specific transfer determination is made.
+
+---
+
 <!-- source-record: wright_v_ernst_and_young_merits_1999-02-04.md -->
 ## Event
 
@@ -472,6 +632,94 @@ The case returns through the Second Circuit for proceedings on the preserved Jan
 ## Source Notes
 
 The [Second Circuit opinion, 152 F.3d 169](https://law.resource.org/pub/us/case/reporter/F3/152/152.F3d.169.97-9241.html), supplies the allegations and lower procedural history; the [petition record](https://archive.org/details/micro_IA40386003_1171) supplies the presented primary-liability question. The [1998 Rule 10b-5 text](https://www.govinfo.gov/content/pkg/CFR-1998-title17-vol3/pdf/CFR-1998-title17-vol3-sec240-10b-5.pdf) supplies the applicable regulation. The alleged accounting error, approval, correction, and price decline are not findings of fraud. The question is stated in substance; no verbatim grant quotation or argument date is supplied.
+
+---
+
+<!-- source-record: hart_v_gwadosky_threshold_1999-02-11.md -->
+## Event
+
+Hart v. Gwadosky, No. 98-676. Threshold decision after post-grant consideration, February 11, 1999. On writ of certiorari to the Maine Supreme Judicial Court, reviewing Hart v. Secretary of State, 1998 ME 189, 715 A.2d 165, decided July 28, 1998. No oral-argument date is supplied. The granted question concerns whether Maine may require initiative-petition circulators to reside in the State; the Court first considers the effect of the initiative's subsequent qualification.
+
+The Law Court sustained the residence requirement and expressly reserved registration. Its original qualification dispute involved a 4,622-signature shortfall after the factual-residency remand. On December 23, 1998, the Secretary accepted 47,406 signatures against a new 42,101 threshold and found the resubmitted petition valid for submission to the Legislature. The rejection categories overlap. The new administrative qualification, rather than arithmetic from the original shortfall, supplies the present posture.
+
+## Participation
+
+All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court vacates the reviewed judgment as moot and remands for such proceedings as state law provides.
+
+## Judgment & Remedy
+
+**Vacated and remanded, 9–0.** The federal controversy is moot. The Maine Supreme Judicial Court's reviewed judgment is vacated, and the cause is remanded for such proceedings as state law provides.
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The mandate does not direct dismissal of the state action under Article III. Residence, registration and signature validity are not decided. Administrative qualification remains undisturbed; no new counting or ballot-certification order issues.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Nine-Justice threshold rationale and unanimous nonmerits disposition | Qualification-based mootness, absence of a supported surviving injury or recurrence, and nonreach of the constitutional merits. |
+| Opinion of the Court, Part II | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | Eight-Justice equitable rationale; unanimous vacatur and bounded state remand | Distinct equitable judgment treatment and preservation of Maine's state-law procedural authority. Stone-Zsela agrees only in this remedial judgment. |
+
+No separate writing is filed. No fractured-decision synthesis is needed: each controlling proposition has a direct majority.
+
+## Holdings
+
+### I. Qualification ends this federal controversy
+
+**Holding and operative rule:** A challenge seeking relief from an initiative's failure to qualify becomes moot when the initiative qualifies and the claimant shows neither a surviving redressable injury nor a reasonable expectation of renewed exposure to the challenged restriction. The exception for a dispute capable of repetition yet evading review requires both duration too short for complete review and reasonably expected renewed exposure of the same claimant; the continuing existence of an election rule alone does not satisfy it.
+
+**Authority:** Part I of O'Connor's Opinion of the Court is joined by all eight other Justices. These nine directly support the claimant-specific mootness holding and its application.
+
+**Controlling explanation:** The Court holds that the December 23 qualification removed the ballot-access injury presented for review. The Secretary accepted 47,406 signatures against the new threshold of 42,101 and found the petition valid for legislative consideration. The determination also states that previously accepted signatures already exceeded the new threshold. Petitioners' asserted future harm concerned further collection to secure this same November 1999 effort; acceptance removes that need. The record supplies no further initiative plan, surviving individual-capacity damages claim or other collateral injury redressable by the requested federal ruling.
+
+*Spencer v. Kemna* requires a concrete continuing injury and both elements of the recurrence exception. *Norman v. Reed*, *Chandler v. Miller* and *Libertarian Party of Illinois v. Rednour* preserved review because their records established continuing electoral consequences or actual future exposure. They establish no general exception for election disputes. The persistence of Maine's rules and petitioners' repeated work on this measure do not supply the missing post-qualification injury. Nor does possible legislative rejection revive a circulation obstacle the initiative has already overcome. *Arizonans for Official English* prevents treating a general declaratory request against an official-capacity defendant as an unpleaded surviving damages claim.
+
+*DeFunis v. Odegaard* requires the Court to resolve federal mootness even when reviewing a state judgment. *Buckley v. American Constitutional Law Foundation* reserved residency and supplies neither a residency holding nor jurisdiction here. The Court reaches no residence, registration or signature-validity merits. Qualification is not enactment, a completed election, repeal of the restrictions or a finding that petitioners will never circulate another initiative.
+
+### II. Equitable vacatur leaves state proceedings to Maine
+
+**Holding and operative rule:** When a changed qualification threshold removes this controversy while petitioners continue seeking qualification and review, section 2106 permits equitable vacatur of the reviewed constitutional judgment and remand for proceedings allowed by state law. Vacatur is justified here by those circumstances, rather than by an automatic entitlement whenever review becomes moot; Article III does not require an order directing dismissal of the state action.
+
+**Authority:** Part II of O'Connor's Opinion of the Court is joined by Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; those eight Associates directly support its equitable rationale. Stone-Zsela agrees in the vacatur and bounded state remand without joining Part II's additional equitable explanation.
+
+**Controlling explanation:** The Court holds that mootness and the proper treatment of the judgment require separate decisions. *U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership* preserves a just disposition under section 2106 while rejecting automatic vacatur; its settlement rule is not a bar to relief whenever a litigant continues trying to obtain the practical benefit sought. The gubernatorial election changed the qualifying threshold. Petitioners' resubmission pursued qualification while seeking review; it was neither a settlement, consent to the adverse constitutional judgment nor abandonment of review. *Kentucky Right to Life v. Stengel* supports clearing a constitutional merits determination that intervening circumstances prevent the reviewing loser from obtaining review of, subject to the actual equities.
+
+Leaving the judgment intact is a substantial alternative because this is a state proceeding and petitioners voluntarily resubmitted. But the external threshold change and continued pursuit of review justify vacating the reviewed judgment here. *DeFunis* supplies the bounded state-remand form. *Arizonans* concerned lower federal judgments and does not require importing its federal-action dismissal direction into Maine's courts. Maine determines the status of the remaining pleadings under its own law.
+
+The judgment is vacated and the cause remanded for such proceedings as state law provides. This neither declares the judgment void when entered nor reopens abandoned factual-residency challenges. The administrative qualification remains undisturbed. The Court orders no new signature count, validates no otherwise defective signature and determines no future legislative or electoral outcome.
+
+## Precedent Treatment
+
+- **Spencer v. Kemna, March 3, 1998:** Applied to continuing personal injury and both requirements of the recurrence exception; neither is relaxed for this election dispute.
+- **Norman v. Reed, January 14, 1992:** Distinguished because its continuing party-qualification consequences are absent here; its supported-election-continuity rule remains intact.
+- **Chandler v. Miller, April 15, 1997:** Distinguished because its uncontested future candidacy supplied renewed exposure; no comparable further initiative plan is established here.
+- **Libertarian Party of Illinois v. Rednour, September 21, 1998:** Distinguished at its continuing nomination-classification scope; completion of one election and disappearance of this initiative's qualification injury present different circumstances.
+- **Arizonans for Official English v. Arizona, March 3, 1997:** Applied to the need for an actual surviving claim and the unavailability of a manufactured official-capacity damages residue; its direction to dismiss a federal action is not extended to a state action.
+- **U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership, November 8, 1994:** Applied to equitable section 2106 relief; no automatic-vacatur rule or new settlement exception is adopted.
+- **Kentucky Right to Life v. Stengel, September 14, 1998:** Applied to separate jurisdictional mootness from equitable judgment treatment after changed circumstances; its independent live-claim rulings are unaffected.
+- **DeFunis v. Odegaard, 416 U.S. 312:** Applied to federal mootness on review of a state judgment and remand for appropriate state proceedings; state-law authority is not displaced by Article III.
+- **Buckley v. American Constitutional Law Foundation, January 12, 1999:** Its express reservation of residence requirements is preserved. Its Colorado registration holding is neither extended to Maine residency nor reconsidered.
+
+## Law After Decision
+
+The continuing-injury and equitable-vacatur requirements remain in force. This qualified initiative supplies no live federal controversy on the presented record, and the reviewed constitutional judgment is vacated. Maine's authority over further state proceedings is preserved. Residence and registration restrictions, signature validity and the initiative's later legislative or electoral fate remain undecided. Buckley's residence reservation is unchanged.
+
+## Separate Writings
+
+No separate writing is filed.
+
+## Procedure After Action
+
+Supreme Court review is complete. The cause returns to the Maine Supreme Judicial Court for such proceedings as state law provides. The mandate neither requires dismissal of the state action nor orders a new signature count, certification, hearing or return to this Court. The December 23 administrative qualification remains effective on its own terms.
+
+## Source Notes
+
+The [original docket collection](https://archive.org/details/micro_IA40386003_1070) preserves the petition and appended lower-court orders, and the respondent's opposition with the signed December 23, 1998 qualification determination at Appendix 9a–11a. The determination establishes acceptance for legislative consideration, not enactment or a completed election. The questions are stated at the supplied post-grant scope; no oral-argument date is supplied. The described claims concern qualification and declaratory relief against the Secretary in his official capacity; no surviving individual-capacity damages claim or concrete further initiative plan is established.
 
 ---
 
