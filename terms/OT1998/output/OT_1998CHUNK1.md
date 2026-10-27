@@ -12,6 +12,7 @@
 | 1998-10-22 | United States v. Franklyn / United States v. Gonzalez | Consolidated merits decision | Both judgments affirmed; no further proceedings ordered. |
 | 1998-10-29 | United States v. Griffin / United States v. Langley | Consolidated merits decision | Both judgments affirmed; no remand ordered. |
 | 1998-11-03 | Marquez v. Screen Actors Guild, Inc. | Merits decision | Affirmed on the two reviewed questions; separate enforcement and notice proceedings continue below. |
+| 1998-11-05 | NAACP, Los Angeles Branch v. Jones | Reasoned threshold decision | Vacated and remanded for an actual standing determination; neither constitutional merits question reached. |
 | 1998-11-10 | Coalition for Economic Equity v. Wilson | Merits decision | Vacated and remanded for confined preliminary relief and further proceedings. |
 | 1998-11-10 | Pfaff v. Wells Electronics, Inc. | Merits decision | Invalidity judgment affirmed for the reviewed patent claims; no additional proceedings ordered. |
 | 1998-11-12 | Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz | Merits decision | Reversal of summary judgment affirmed; private-action elements remain for further proceedings. |
@@ -960,6 +961,73 @@ The Ninth Circuit's judgment on the two reviewed questions stands. Proceedings o
 
 ---
 
+### NAACP, Los Angeles Branch v. Jones, No. 97-1840
+
+Reasoned threshold decision, November 5, 1998
+
+#### Chronology and Posture
+
+On writ of certiorari to the Ninth Circuit after full merits briefing. No argument date is established. The judgment under review is *NAACP, Los Angeles Branch v. Jones*, 131 F.3d 1317 (9th Cir. 1997), decided December 16, 1997, No. 96-56455, affirming dismissal of the constitutional challenge.
+
+The presented questions concern whether privately financed judicial elections deny less wealthy voters and candidates equal protection under the wealth-primary theory and whether reimbursement for an optional candidate statement in a mailed sample ballot violates the First or Fourteenth Amendment. The antecedent issue is whether the court below could assume disputed Article III standing before deciding those merits. The plaintiffs seek prospective declaratory and injunctive relief; they expressly exclude an indigent-candidate claim, and the state-law claims were not preserved.
+
+All nine Justices participated at submission and decision.
+
+#### Judgment
+
+**Vacated and remanded, 9–0.**
+
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+This single threshold disposition applies to both the wealth-primary/public-financing claim and the optional candidate-statement charge. All nine agree that neither merits component is reached; there is no affirmance or rejection of either constitutional claim. No injunction, campaign funding, free publication or damages award issues.
+
+#### Opinion of the Court
+
+Justice Scalia delivered the opinion of the Court, joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine join the jurisdictional rule, the inquiry appropriate to the litigation stage, the limits and the nonreach of both merits components. No separate writing issues.
+
+#### Controlling Propositions and Authority
+
+##### Actual Article III standing before contested constitutional merits
+
+**Operative rule.** A federal court may not assume disputed Article III standing to decide these contested constitutional claims about judicial-election financing and optional candidate statements. It must determine, with support appropriate to the litigation stage, whether the plaintiffs have a concrete and particularized, actual or imminent injury fairly traceable to the challenged conduct and likely to be redressed by the prospective relief they seek; the Ninth Circuit's merits judgment is vacated so that determination can be made on the actual pleadings and appropriate record.
+
+**Authority.** The opinion of the Court, joined in full by all nine Justices, controls this rule, its explanation and the remand limits below.
+
+**Controlling explanation.** The Court holds that the disputed jurisdictional question must be answered before these constitutional merits. *Citizens for a Better Environment v. Steel Co.* forbids deciding contested merits on assumed Article III power. *Lujan v. Defenders of Wildlife* supplies personal injury, fair traceability and likely redress, with support suited to the litigation stage; *Bennett v. Spear* applies those requirements at pleading without demanding proof appropriate only at a later stage. The District Court found no injury in fact as to the county defendants, but the Ninth Circuit expressly assumed standing to reject the constitutional theories. An unsuccessful claim to free publication or public financing does not itself establish an absence of factual injury, just as a claimed constitutional entitlement does not itself establish standing.
+
+The apparent weakness of a subsidy claim supplies no jurisdictional shortcut. *Libertarian Party of Florida v. Smith*, which examined the actual burden of a different election subsidy, does not settle these plaintiffs' standing or this optional-statement charge. *Norton v. Mathews* and *Secretary of the Navy v. Avrech* retain the confined settings, preserved in *Steel Co.*, in which other controlling decisions had already disposed of the merits; no such controlling resolution of this distinct dispute is established. The Court prescribes no exhaustive order among all nonmerits questions.
+
+The available account identifies a former candidate and prospective relief but does not establish every material allegation in the complaint. The Court therefore neither invents a future candidacy nor treats an allegation omitted from that account as absent from the complaint. This uncertainty supports remand for an actual determination, not a finding that standing exists or a direction to dismiss every plaintiff. Both constitutional merits questions remain open if jurisdiction is established.
+
+#### Limits and Questions Not Reached
+
+The lower courts must determine standing on the actual pleadings and appropriate record before any merits ruling. The Court orders no particular evidentiary hearing, standing discovery, document production or amendment entitlement. It neither approves the optional charge nor requires campaign financing or free publication. No indigent-candidate claim is decided, and the unpreserved state-law claims are not revived. No finding of racial intent or viewpoint discrimination, new future-candidacy allegation, ballot-access ruling or rule for a compulsory filing fee is supplied. Merits arguments about the wealth-primary theory and optional printing costs are not alternative holdings.
+
+#### Precedent Treatment
+
+- *Citizens for a Better Environment v. Steel Co.*, June 2, 1997: applied to prohibit assumed disputed Article III standing as a basis for these contested constitutional merits; its nonexhaustive treatment of threshold sequencing remains intact. Its direction to dismiss on the different completed-injury record is not transferred here.
+- *Lujan v. Defenders of Wildlife*, 504 U.S. 555 (1992): applied for personal injury, traceability, redressability and support appropriate to the litigation stage; its summary-judgment evidentiary demand is not imposed on these pleadings, and its noncontrolling absent-agency application is not enlarged.
+- *Bennett v. Spear*, March 19, 1997: applied for stage-appropriate pleading of causal and remedial links; its supported ongoing injury does not establish injury in this different complaint.
+- *Norton v. Mathews*, 427 U.S. 524 (1976): preserved at its already-controlled-merits setting; it supplies no permission to assume standing for this unresolved constitutional dispute.
+- *Secretary of the Navy v. Avrech*, 418 U.S. 676 (1974): likewise preserved at its distinct already-controlled-merits setting; the Court does not extend that exception to perceived merits simplicity.
+- *Libertarian Party of Florida v. Smith*, September 21, 1998: distinguished because its actual-burden review of a different subsidy resolves neither this standing question nor the optional-statement merits. Its election-law limits remain unchanged.
+
+#### Law After Decision
+
+Effective November 5, 1998, the existing Article III elements, stage-appropriate support requirements and prohibition on assumed jurisdiction govern this remand without alteration. This application creates no election-finance holding, public-subsidy entitlement, categorical fee immunity or new standing-proof requirement. The Ninth Circuit's vacated merits judgment supplies no resolution of the parties' constitutional claims; those claims may be addressed only if jurisdiction is established. The Court establishes no mandatory sequence for all nonmerits issues and changes none of the preserved exceptions for merits already disposed of by other controlling decisions.
+
+#### Source Notes
+
+The [published Ninth Circuit opinion](https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html), including footnotes 3-4, supplies the District Court's threshold dismissals and the appellate assumption of standing. It identifies former candidacy and prospective relief without establishing the complaint's complete continuing- or impending-injury allegations. That limitation supports the bounded remand; it proves neither standing nor a missing allegation. The optional statement's cost-reimbursement mechanism is background, not a statutory holding. No precise argument or submission date is established, and the questions are stated in substance rather than quoted from a grant order.
+
+#### Mandate, Remedy, and Stage
+
+The Supreme Court's review is complete. The judgment of the Ninth Circuit is vacated, and the case returns to that court for an actual standing determination on the pleadings and appropriate record, with further lower-court proceedings as ordinary law permits. If jurisdiction is established, the constitutional merits remain open; this mandate directs no merits outcome. No hearing, amendment, new production requirement, filing deadline or future Supreme Court return is ordered.
+
+**End of entry: NAACP, Los Angeles Branch v. Jones, reasoned threshold decision, November 5, 1998.**
+
+---
+
 ### Coalition for Economic Equity v. Wilson, Ninth Circuit Nos. 97-15030 and 97-15031
 
 Merits decision, November 10, 1998
@@ -1196,8 +1264,3 @@ The Third Circuit's reversal of summary judgment remains in effect, and the liti
 
 ---
 
-## Workflow Blockers
-
-| Case or matter | Exact blocker |
-|---|---|
-| NAACP, Los Angeles Branch v. Jones, No. 97-1840 | Stone's threshold position requires renewed approval after confirmation that the lower court assumed disputed Article III standing; the approved supplement contains no conditional position for that corrected posture. |
