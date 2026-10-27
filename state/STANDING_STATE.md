@@ -53,7 +53,7 @@ The order effective August 3, 1994 governs at the OT1998 opening.
 
 ## 4. Docket of Cases Brought Up
 
-Fourteen matters remain pending before the Court. Two additional matters are reserved for OT1998. The thirty-three sim-granted cases in the OT1998 inventory are granted and to be heard on the merits.
+Fourteen matters remain pending before the Court. Two additional matters are reserved for OT1998. The forty-two sim-granted cases in the OT1998 inventory are granted and to be heard on the merits.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
@@ -73,172 +73,45 @@ Fourteen matters remain pending before the Court. Two additional matters are res
 | *New Jersey v. New York*, No. 120, Original | Original action; exceptions to the Special Master's report and supplement, with no lower-court judgment. | Carried from OT1997; decree proceedings remain open. | Recommitted to the Special Master for a conforming proposed decree; original action retained for consideration and entry of the decree. | *New Jersey v. New York*, Decision Record, May 26, 1998. |
 | Davenport; full caption and docket not supplied | Court below and judgment not supplied. | User reservation for OT1998. | Reserved for OT1998; review stage and action date not supplied. | OT1997 case index; final Term Continuity Note. |
 | Jean; full caption and docket not supplied | Court below and judgment not supplied. | User reservation for OT1998. | Reserved for OT1998; review stage and action date not supplied. | OT1997 case index; final Term Continuity Note. |
-| *NAACP, Los Angeles Branch v. Jones*, No. 97-1840 | Ninth Circuit, 131 F.3d 1317 (1997). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 16. |
-| *Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz*, No. 97-1768 | Third Circuit (en banc), 135 F.3d 266 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 17. |
-| *Boring v. Buncombe County Board of Education*, No. 97-1835 | Fourth Circuit (en banc), 136 F.3d 364 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 25. |
-| *Dodd v. Hood River County*, No. 98-54 | Ninth Circuit, 136 F.3d 1219 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 29. |
-| *Wisconsin Right to Life, Inc. v. Paradise*, No. 98-118 | Seventh Circuit, 138 F.3d 1183 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 39. |
-| *AT&T Universal Card Services v. Rembert*, No. 98-352 | Sixth Circuit, 141 F.3d 277 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 40. |
-| *Jackson v. Benson*, No. 98-376 | Wisconsin Supreme Court, 218 Wis. 2d 835, 578 N.W.2d 602 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 41. |
-| *McClellan Federal Credit Union v. Parker*, No. 98-618 | Ninth Circuit, 139 F.3d 668 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 42. |
-| *City of Cincinnati v. Kruse*, No. 98-454 | Sixth Circuit, 142 F.3d 907 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 49. |
-| *McClellan v. Cablevision of Connecticut, Inc.*, Second Circuit No. 97-7156 | Second Circuit, 149 F.3d 161 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 52. |
-| *In re Sealed Case*, No. 98-93 | D.C. Circuit, 148 F.3d 1073 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 57. |
-| *Marcus v. Iowa Public Television*, No. 98-710 | Eighth Circuit (en banc), 150 F.3d 924 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 59. |
-| *Citizens for a Constitutional Convention v. Yoshina*, No. 98-671 | Ninth Circuit, 140 F.3d 1218 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 61. |
-| *Russell v. Burris*, Nos. 98-397; 98-399 | Eighth Circuit, 146 F.3d 563 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 63. |
-| *Redmon v. United States*, No. 98-243 | Seventh Circuit (en banc), 138 F.3d 1109 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 67. |
-| *Suster v. Marshall*, No. 98-737 | Sixth Circuit, 149 F.3d 523 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 68. |
-| *Wright v. Ernst & Young LLP*, No. 98-783 | Second Circuit, 152 F.3d 169 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 75. |
-| *Hart v. Gwadosky*, No. 98-676 | Maine Supreme Judicial Court, 1998 ME 189, 715 A.2d 165. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 76. |
-| *John Crane, Inc. v. Abate*, No. 98-873 | Maryland Court of Special Appeals, 121 Md. App. 590 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 77. |
-| *Minns v. United States*, No. 98-903 | Fourth Circuit, 155 F.3d 445 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 85. |
-| *Gable v. Patton* / *Patton v. Gable*, Nos. 98-897; 98-1072 | Sixth Circuit, 142 F.3d 940 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 87. |
-| *Reno v. Goncalves*, No. 98-835 | First Circuit, 144 F.3d 110 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 88. |
-| *National Committee of the Reform Party of the United States v. Democratic National Committee*, Ninth Circuit No. 98-15443 | Ninth Circuit, 168 F.3d 360 (1999). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 91. |
-| *Brower v. Washington*, No. 98-1510 | Washington Supreme Court (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 92. |
-| *Barnes v. American Tobacco Co.*, No. 98-1489 | Third Circuit, 161 F.3d 127 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 97. |
-| *Amendola v. Miller*, Eleventh Circuit No. 97-8888 | Eleventh Circuit, No. 97-8888; judgment not verified in the supplied sources. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 101. |
-| *Schleifer v. City of Charlottesville*, No. 98-1146 | Fourth Circuit, 159 F.3d 843 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 102. |
-| *Brooks v. Barnes*, No. 98-1521 | Eleventh Circuit, 158 F.3d 1230 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 103. |
-| *City of Dallas v. Dallas Fire Fighters Association*, No. 98-966 | Fifth Circuit, 150 F.3d 438 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 107. |
-| *Bruneau v. South Kortright Central School District*, No. 98-1541 | Second Circuit, 163 F.3d 749 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 113. |
-| *Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.*, No. 98-1440 | Tenth Circuit, 150 F.3d 1293 (1998). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 119. |
-| *Maine Green Party v. Maine*, First Circuit No. 98-1309 | First Circuit, 173 F.3d 1 (1999). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 120. |
-| *American Airlines, Inc. v. Tice*, No. 98-1704 | Seventh Circuit, December 17, 1998. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 126. |
-
-### Questions in the OT1998 sim-granted cases
-
-As stated in the OT1998 case index, in case-index order.
-
-**NAACP, Los Angeles Branch v. Jones** (OT1998 case index No. 16, chunk 2)
-
-1. Whether privately financed judicial elections that require costly campaigns deny less wealthy voters and candidates equal protection under the wealth-primary theory.
-
-**Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz** (OT1998 case index No. 17, chunk 2)
-
-1. Whether NASDAQ market makers who fill customer orders at the national best bid and offer when better prices are available may be liable under Rule 10b-5 for breaching an implied duty of best execution.
-
-**Boring v. Buncombe County Board of Education** (OT1998 case index No. 25, chunk 3)
-
-1. Whether a public-school teacher's selection and production of a school play is personal speech protected from the school's control.
-
-**Dodd v. Hood River County** (OT1998 case index No. 29, chunk 3)
-
-1. Whether issue preclusion bars landowners who reserved their federal takings claim while litigating in state court, as Williamson County required, from relitigating facts decided there.
-
-**Wisconsin Right to Life, Inc. v. Paradise** (OT1998 case index No. 39, chunk 4)
-
-1. Whether an advocacy group facing possible political-committee registration and private enforcement suits may bring a pre-enforcement challenge to Wisconsin's campaign finance law.
-
-**AT&T Universal Card Services v. Rembert** (OT1998 case index No. 40, chunk 4)
-
-1. When credit-card debt incurred by an insolvent debtor is nondischargeable for actual fraud under § 523(a)(2)(A), including whether each card use represents an intent to repay.
-
-**Jackson v. Benson** (OT1998 case index No. 41, chunk 5)
-
-1. Whether including religious schools in Milwaukee's private-school choice program violates the Establishment Clause.
-
-**McClellan Federal Credit Union v. Parker** (OT1998 case index No. 42, chunk 5)
-
-1. Whether a Chapter 7 debtor may keep collateral by continuing to pay without reaffirming the debt or redeeming the property.
-
-**City of Cincinnati v. Kruse** (OT1998 case index No. 49, chunk 5)
-
-1. Whether a city may cap total campaign spending by council candidates on interests Buckley did not consider, including officeholder fundraising time and public confidence.
-
-**McClellan v. Cablevision of Connecticut, Inc.** (OT1998 case index No. 52, chunk 6)
-
-1. Whether the Cable Act's bar on operator editorial control over public-access channels implies a private damages action.
-
-**In re Sealed Case** (OT1998 case index No. 57, chunk 6)
-
-1. Whether Rule 501 recognizes a Secret Service protective-function privilege against grand jury testimony, and whether it would be absolute or qualified.
-
-**Marcus v. Iowa Public Television** (OT1998 case index No. 59, chunk 6)
-
-1. Whether a state broadcaster may exclude ballot-qualified minor-party congressional candidates from its debates as not newsworthy.
-
-**Citizens for a Constitutional Convention v. Yoshina** (OT1998 case index No. 61, chunk 7)
-
-1. Whether a state court's post-election ruling that blank ballots counted against the constitutional convention question violated due process or the First Amendment.
-
-**Russell v. Burris** (OT1998 case index No. 63, chunk 7)
-
-1. Whether Arkansas's campaign contribution limits for statewide, judicial, and other offices violate the First Amendment.
-
-**Redmon v. United States** (OT1998 case index No. 67, chunk 7)
-
-1. Whether warrantless inspection of garbage containers at the boundary of a home's curtilage falls within California v. Greenwood.
-
-**Suster v. Marshall** (OT1998 case index No. 68, chunk 7)
-
-1. Whether a State may cap spending in judicial campaigns, and whether judicial elections justify expenditure limits Buckley forbids elsewhere.
-
-**Wright v. Ernst & Young LLP** (OT1998 case index No. 75, chunk 8)
-
-1. Whether an outside auditor may be primarily liable under § 10(b) for an issuer's statement it approved privately but was not publicly attributed with.
-
-**Hart v. Gwadosky** (OT1998 case index No. 76, chunk 8)
-
-1. Whether a State may require initiative-petition circulators to be residents of the State.
-
-**John Crane, Inc. v. Abate** (OT1998 case index No. 77, chunk 8)
-
-1. Whether a state mass asbestos trial resolving common issues for about 1,300 plaintiffs through five plaintiff-selected cases and category-based verdict forms satisfies due process.
-
-**Minns v. United States** (OT1998 case index No. 85, chunk 9)
-
-1. Whether the Feres doctrine bars claims by servicemembers' children for birth defects allegedly caused by vaccines and pesticides given to their fathers during the Gulf War.
-
-**Gable v. Patton / Patton v. Gable** (OT1998 case index No. 87, chunk 9)
-
-1. Whether Kentucky's public-financing trigger is practically coercive, and whether its 28-day pre-election contribution ban may reach a candidate's own funds.
-
-**Reno v. Goncalves** (OT1998 case index No. 88, chunk 9)
-
-1. Whether AEDPA and IIRIRA withdrew § 2241 habeas jurisdiction over a criminal alien's challenge, and whether AEDPA § 440(d) applies to § 212(c) applications pending at enactment.
-
-**National Committee of the Reform Party of the United States v. Democratic National Committee** (OT1998 case index No. 91, chunk 10)
-
-1. Whether the presidential public-funding formula and the major-party composition of the Federal Election Commission unconstitutionally disadvantage an established minor party.
-
-**Brower v. Washington** (OT1998 case index No. 92, chunk 10)
-
-1. Whether a referendum special election whose costs a private party reimbursed, held on a compressed schedule, denied equal protection or burdened opponents' speech.
-
-**Barnes v. American Tobacco Co.** (OT1998 case index No. 97, chunk 10)
-
-1. Whether a class of smokers seeking medical monitoring may be certified under Rule 23(b)(2) despite individual issues of addiction, causation, and limitations.
-
-**Amendola v. Miller** (OT1998 case index No. 101, chunk 11)
-
-1. Whether Georgia's requirement that minor-party U.S. House candidates submit signatures equal to 5% of registered voters unconstitutionally burdens ballot access.
-
-**Schleifer v. City of Charlottesville** (OT1998 case index No. 102, chunk 11)
-
-1. Whether Charlottesville's juvenile nighttime curfew violates minors' liberty, parental authority, or the vagueness doctrine.
-
-**Brooks v. Barnes** (OT1998 case index No. 103, chunk 11)
-
-1. Whether Georgia's majority-vote runoff requirement violates Voting Rights Act § 2 or the Fourteenth and Fifteenth Amendments.
-
-**City of Dallas v. Dallas Fire Fighters Association** (OT1998 case index No. 107, chunk 11)
-
-1. Whether Dallas's race- and sex-conscious fire-department promotions rest on a sufficient remedial predicate and are adequately tailored.
-
-**Bruneau v. South Kortright Central School District** (OT1998 case index No. 113, chunk 12)
-
-1. Whether Title IX's enforcement scheme, including its implied private action, displaces § 1983 suits, including equal protection claims.
-
-**Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.** (OT1998 case index No. 119, chunk 12)
-
-1. How the PBGC's Chapter 11 claims for unfunded pension benefits are valued and whether its claims for missed minimum contributions receive tax or administrative priority.
-
-**Maine Green Party v. Maine** (OT1998 case index No. 120, chunk 12)
-
-1. Whether a State may condition continued party status on 5% of the presidential vote, as applied to a party organized only locally.
-
-**American Airlines, Inc. v. Tice** (OT1998 case index No. 126, chunk 13)
-
-1. Whether nonparties to an earlier age-discrimination suit may be bound by its judgment through virtual representation.
+| *United States v. Wright*, 11th Cir. No. 95-8397 | Eleventh Circuit, No. 95-8397. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 1. |
+| *Fraternal Order of Police v. United States*, D.C. Cir. No. 97-5304 | D.C. Circuit, No. 97-5304. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 2. |
+| *Hiley v. Barrett*, 11th Cir. No. 97-9006 | Eleventh Circuit, No. 97-9006. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 3. |
+| *Peoples Rights Organization, Inc. v. City of Columbus*, 6th Cir. Nos. 96-3468; 96-3495 | Sixth Circuit, Nos. 96-3468; 96-3495. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 5. |
+| *United States v. Franklyn* / *United States v. Gonzalez*, 2d Cir. Nos. 97-1392; 97-1427 | Second Circuit, Nos. 97-1392; 97-1427. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 6. |
+| *United States v. Griffin* / *United States v. Langley*, 4th Cir. Nos. 96-4803; 96-4805 | Fourth Circuit, Nos. 96-4803; 96-4805. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 7. |
+| *NAACP, Los Angeles Branch v. Jones*, No. 97-1840 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 9. |
+| *Coalition for Economic Equity v. Wilson*, 9th Cir. Nos. 97-15030; 97-15031 | Ninth Circuit, Nos. 97-15030; 97-15031. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 11. |
+| *Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz*, No. 97-1768 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 12. |
+| *Dodd v. Hood River County*, No. 98-54 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 14. |
+| *Wisconsin Right to Life, Inc. v. Paradise*, No. 98-118 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 15. |
+| *AT&T Universal Card Services v. Rembert*, No. 98-352 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 17. |
+| *Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati*, 6th Cir. Nos. 94-3855; 94-3973; 94-4280 | Sixth Circuit, Nos. 94-3855; 94-3973; 94-4280. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 18. |
+| *McClellan Federal Credit Union v. Parker*, No. 98-618 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 21. |
+| *City of Cincinnati v. Kruse*, No. 98-454 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 25. |
+| *McClellan v. Cablevision of Connecticut, Inc.*, 2d Cir. No. 97-7156 (lower-court docket; no separate Supreme Court number supplied) | Second Circuit, No. 97-7156 (lower-court docket; no separate Supreme Court number supplied). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 26. |
+| *Marcus v. Iowa Public Television*, No. 98-710 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 31. |
+| *State Street Bank & Trust Co. v. Signature Financial Group, Inc.*, Fed. Cir. No. 96-1327 | Federal Circuit, No. 96-1327. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 32. |
+| *Citizens for a Constitutional Convention v. Yoshina*, No. 98-671 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 37. |
+| *Suster v. Marshall*, No. 98-737 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 41. |
+| *Wright v. Ernst & Young LLP*, No. 98-783 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 42. |
+| *Hart v. Gwadosky*, No. 98-676 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 43. |
+| *Boring v. Buncombe County Board of Education*, No. 97-1835 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 44. |
+| *John Crane, Inc. v. Abate*, No. 98-873 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 45. |
+| *Minns v. United States*, No. 98-903 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 49. |
+| *Gable v. Patton* / *Patton v. Gable*, Nos. 98-897; 98-1072 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 58. |
+| *Jackson v. Benson*, No. 98-376 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 59. |
+| *National Committee of the Reform Party of the United States v. Democratic National Committee*, 9th Cir. No. 98-15443 (lower-court docket; no separate Supreme Court number supplied) | Ninth Circuit, No. 98-15443 (lower-court docket; no separate Supreme Court number supplied). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 60. |
+| *Brower v. Washington*, No. 98-1510 (simulation review); Washington No. 65992-3 | Washington, No. 65992-3. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 66. |
+| *Barnes v. American Tobacco Co.*, No. 98-1489 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 72. |
+| *In re Sealed Case*, No. 98-93 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 73. |
+| *Brooks v. Barnes*, No. 98-1521 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 76. |
+| *Russell v. Burris*, Nos. 98-397; 98-399 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 78. |
+| *Redmon v. United States*, No. 98-243 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 82. |
+| *Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.*, No. 98-1440 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 83. |
+| *Maine Green Party v. Maine*, 1st Cir. No. 98-1309 (lower-court docket; no separate Supreme Court number supplied) | First Circuit, No. 98-1309 (lower-court docket; no separate Supreme Court number supplied). | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 90. |
+| *Reno v. Goncalves*, No. 98-835 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 98. |
+| *Bruneau v. South Kortright Central School District*, No. 98-1541 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 99. |
+| *American Airlines, Inc. v. Tice*, No. 98-1704 (simulation review); lower-court Nos. 97-1888 and 97-2027 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 106. |
+| *Schleifer v. City of Charlottesville*, No. 98-1146 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 110. |
+| *Valdespino v. Alamo Heights Independent School District*, 5th Cir. No. 98-50227 | Fifth Circuit, No. 98-50227. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 114. |
+| *City of Dallas v. Dallas Fire Fighters Association*, No. 98-966 | Not stated in the OT1998 case index. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 115. |
