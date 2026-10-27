@@ -231,13 +231,13 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-27.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Grant the State’s request to lift the gas-specific injunction and, on the established summary-review submission, reverse the Ninth Circuit on independently unexcused procedural default; reject automatic substantive waiver merely from statutory method selection.
-* **Stone's Remedy and Remand Position:** Vacate the Ninth Circuit’s injunction and reverse its judgment to the extent it excuses the default on this record. Enter no categorical holding that lethal gas is constitutional or that all method-selection choices surrender Eighth Amendment protection. Referral of the application supplies no merits grant by itself; the separate certiorari disposition must be stated.
+* **Stone's Controlled Judgment or Disposition:** DENY the State's application to lift the gas-specific injunction and oppose summary reversal. Choosing among statutory methods of execution is not a knowing waiver of an Eighth Amendment objection to the chosen method, and the record does not establish that the later gas-related ineffective-assistance claim was subject to an adequate, independent and unexcused state bar, so the procedural-default ground on which Stone would otherwise rest is unavailable on this record. He joins Stevens in dissent from any vacatur or summary disposition.
+* **Stone's Remedy and Remand Position:** The existing gas-only protection should remain on its actual terms pending proper consideration with full briefing; the default question, including any applicable exception and its relation to the earlier representation-choice proceedings, should be decided on a developed record. Enter no categorical holding that lethal gas is constitutional or that method selection surrenders Eighth Amendment protection. The separate certiorari disposition is stated separately.
 
 ## C. ISSUE POSITIONS
 
@@ -256,19 +256,19 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised position stated below was user-approved 2026-10-27.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm optional public-financing and nonparticipant-trigger components on this record; affirm invalidation of applying the final 28-day ban to candidate personal funds, with ordinary third-party contribution restrictions separately reserved.
-* **Stone's Remedy and Remand Position:** Affirm optional public-financing and nonparticipant-trigger components on this record; affirm invalidation of applying the final 28-day ban to candidate personal funds, with ordinary third-party contribution restrictions separately reserved.
+* **Stone's Controlled Judgment or Disposition:** Reach the merits and AFFIRM: affirm the optional public-financing and nonparticipant-trigger components on this record, and affirm invalidation of applying the final 28-day ban to candidate personal funds, with ordinary third-party contribution restrictions separately reserved. On the continuing-controversy question, Stone finds that Gable, a past candidate who asserts he will not run again under the same restrictions, shows a concrete personal deterrent injury tied to his own electoral participation; the Registry's report that he did not file for the 1999 primary is consistent with that deterrence rather than a finding that it ended. He joins Stevens, Ginsburg and Breyer on the threshold and, if the Court vacates and remands on it, dissents.
+* **Stone's Remedy and Remand Position:** No threshold remand is needed; the judgment below should be affirmed on both granted components. If the Court remands on the continuing-controversy question, Stone would state his merits views in dissent; they do not control the remand.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Public funds matching opponent expenditures
 
-* **Threshold and Merits Reach:** Reach the presented question within the established review posture and the stated preservation limits.
+* **Threshold and Merits Reach:** Reach both presented questions. Gable's asserted continuing deterrence from candidacy under the same restrictions is a sufficient personal stake at this stage; the new dispute over his 1999 filing does not defeat it.
 * **Question Stone Resolves:** Distinguish voluntary use of public resources from a coercive penalty on nonparticipants.
 * **Stone's Legal Position:** Offering more funding to a willing publicly financed candidate does not itself cap the opponent’s spending or prohibit independent speech, absent credible practical coercion beyond competitive effects. In contrast, forbidding a candidate to deploy personal funds late in the campaign directly restrains self-financed speech at the moment its value is greatest. The statute’s personal-fund and third-party contribution paths may be severable.
 * **Stone's Proposed Holding:** Distinguish voluntary use of public resources from a coercive penalty on nonparticipants.
@@ -277,7 +277,7 @@
 
 ### Issue 2: Twenty-eight day restriction on personal funds
 
-* **Threshold and Merits Reach:** Reach the presented question within the established review posture and the stated preservation limits.
+* **Threshold and Merits Reach:** Reach both presented questions. Gable's asserted continuing deterrence from candidacy under the same restrictions is a sufficient personal stake at this stage; the new dispute over his 1999 filing does not defeat it.
 * **Question Stone Resolves:** Candidate’s own political resources are not conventional donor contributions; separate this application.
 * **Stone's Legal Position:** Offering more funding to a willing publicly financed candidate does not itself cap the opponent’s spending or prohibit independent speech, absent credible practical coercion beyond competitive effects. In contrast, forbidding a candidate to deploy personal funds late in the campaign directly restrains self-financed speech at the moment its value is greatest. The statute’s personal-fund and third-party contribution paths may be severable.
 * **Stone's Proposed Holding:** Candidate’s own political resources are not conventional donor contributions; separate this application.
