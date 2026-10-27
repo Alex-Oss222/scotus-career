@@ -52,11 +52,11 @@ A genuine qualification defect may resolve the case without finally classifying 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>), matter M067.
+* Local case record: OT_1998CHUNK7.md, matter M067.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Bragdon v. Abbott — 1998-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23344>).
-* Reusable rule: [Actual disability and substantial limitation of reproduction](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2870>).
-* Reusable rule: [Objective assessment of an ADA direct threat](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2886>).
+* [Bragdon v. Abbott — 1998-06-25.](../../../state/HOLDINGS.md).
+* Reusable rule: [Actual disability and substantial limitation of reproduction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Objective assessment of an ADA direct threat](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 555](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=590). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -97,7 +97,7 @@ A genuine qualification defect may resolve the case without finally classifying 
 * **Historical Opinion Structure:** Souter, J., delivered the opinion for a unanimous Court with respect to Parts I and III, and the opinion of the Court with respect to Part II, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Thomas, and Ginsburg, JJ., joined. Thomas, J., filed a concurring opinion, post, p. 578.
 * **Historical Holding:** Monocular vision requires individualized proof, natural compensation must be considered, and the employer could rely on the binding federal standard without participating in an experimental waiver program.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 555](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=590). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 555](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=590). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK7.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -146,13 +146,13 @@ Unjustified segregation may warrant appropriate placement or a genuine implement
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>), matter M068.
+* Local case record: OT_1998CHUNK7.md, matter M068.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Pennsylvania Department of Corrections v. Yeskey, 524 U.S. 206 — June 15, 1998.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23393>).
-* [Bragdon v. Abbott — 1998-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23344>).
-* Reusable rule: [State prisons within ADA Title II](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2838>).
-* Reusable rule: [Actual disability and substantial limitation of reproduction](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2870>).
-* Reusable rule: [Objective assessment of an ADA direct threat](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2886>).
+* [Pennsylvania Department of Corrections v. Yeskey, 524 U.S. 206 — June 15, 1998.](../../../state/HOLDINGS.md).
+* [Bragdon v. Abbott — 1998-06-25.](../../../state/HOLDINGS.md).
+* Reusable rule: [State prisons within ADA Title II](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Actual disability and substantial limitation of reproduction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Objective assessment of an ADA direct threat](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 581](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=616). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -185,7 +185,7 @@ Unjustified segregation may warrant appropriate placement or a genuine implement
 * **Historical Opinion Structure:** Ginsburg, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, and III–A, in which Stevens, O’Connor, Souter, and Breyer, JJ., joined, and an opinion with respect to Part III–B, in which O’Connor, Souter, and Breyer, JJ., joined. Stevens, J., filed an opinion concurring in part and concurring in the judgment, post, p. 607. Kennedy, J., filed an opinion concurring in the judgment, in which Breyer, J., joined as to Part I, post, p. 608. Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia, J., joined, post, p. 615.
 * **Historical Holding:** Unjustified isolation is discrimination, and community placement is required when professionals deem it appropriate, the person does not oppose it, and the modification is reasonable without fundamental alteration.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 581](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=616). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 581](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=616). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK7.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -239,11 +239,11 @@ Effective treatment may leave no substantial limitation on this record without e
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>), matter M069.
+* Local case record: OT_1998CHUNK7.md, matter M069.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Bragdon v. Abbott — 1998-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23344>).
-* Reusable rule: [Actual disability and substantial limitation of reproduction](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2870>).
-* Reusable rule: [Objective assessment of an ADA direct threat](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2886>).
+* [Bragdon v. Abbott — 1998-06-25.](../../../state/HOLDINGS.md).
+* Reusable rule: [Actual disability and substantial limitation of reproduction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Objective assessment of an ADA direct threat](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 516](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=551). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -286,7 +286,7 @@ Effective treatment may leave no substantial limitation on this record without e
 * **Historical Opinion Structure:** O'Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined. Stevens, J., filed a dissenting opinion, in which Breyer, J., joined, post, p. 525.
 * **Historical Holding:** Medication is considered at the disability threshold, and inability to satisfy one commercial-driving requirement did not establish substantial limitation in working or a broad regarded-as disability.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 516](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=551). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 516](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=551). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK7.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -335,12 +335,12 @@ The correct statutory standard may require remand without a present punitive awa
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>), matter M070.
+* Local case record: OT_1998CHUNK7.md, matter M070.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:6046>).
-* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:20673>).
-* Reusable rule: [Statutory temporal reach and new consequences for completed conduct](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:575>).
-* Reusable rule: [The 1991 Civil Rights Act’s new liabilities and jury election](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2390>).
+* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](../../../state/HOLDINGS.md).
+* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](../../../state/HOLDINGS.md).
+* Reusable rule: [Statutory temporal reach and new consequences for completed conduct](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [The 1991 Civil Rights Act’s new liabilities and jury election](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 526](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=561). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -373,7 +373,7 @@ The correct statutory standard may require remand without a present punitive awa
 * **Historical Opinion Structure:** O’Connor, J., delivered the opinion of the Court, Part I of which was unanimous, Part II–A of which was joined by Stevens, Scalia, Kennedy, Souter, Ginsburg, and Breyer, JJ., and Part II–B of which was joined by Rehnquist, C. J., and Scalia, Kennedy, and Thomas, JJ. Rehnquist, C. J., filed an opinion concurring in part and dissenting in part, in which Thomas, J., joined, post, p. 547. Stevens, J., filed an opinion concurring in part and dissenting in part, in which Souter, Ginsburg, and Breyer, JJ., joined, post, p. 547.
 * **Historical Holding:** Punitive damages require malice or reckless indifference to federally protected rights, not an additional egregiousness element, and agency principles include a good-faith compliance limitation on vicarious liability.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 526](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=561). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK7.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK7.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 526](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=561). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK7.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -427,16 +427,16 @@ A valid direct-violation application, a properly fitted preventive rule and any 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>), matter M071.
+* Local case record: OT_1998CHUNK8.md, matter M071.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [City of Boerne v. Flores — 1997-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2174>).
-* [City of Boerne v. Flores — 1997-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:26241>).
-* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7949>).
-* Reusable rule: [RFRA review of prospective enforcement](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6187>).
-* Reusable rule: [Congruent and proportional Fourteenth Amendment enforcement](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11421>).
-* Reusable rule: [IGRA State-action authorization and unresolved amenability](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:7016>).
-* Reusable rule: [Prospective officer enforcement of IGRA negotiations](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:10117>).
-* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11330>).
+* [City of Boerne v. Flores — 1997-06-25.](../../../state/HOLDINGS.md).
+* [City of Boerne v. Flores — 1997-06-25.](../../../state/HOLDINGS.md).
+* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [RFRA review of prospective enforcement](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Congruent and proportional Fourteenth Amendment enforcement](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [IGRA State-action authorization and unresolved amenability](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Prospective officer enforcement of IGRA negotiations](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 627](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=662). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -479,7 +479,7 @@ A valid direct-violation application, a properly fitted preventive rule and any 
 * **Historical Opinion Structure:** Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined. Stevens, J., filed a dissenting opinion, in which Souter, Ginsburg, and Breyer, JJ., joined, post, p. 648.
 * **Historical Holding:** The historical Court held that Article I could not abrogate immunity and that the Patent Remedy Act was not valid § 5 legislation under its congruence-and-proportionality analysis.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 627](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=662). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 627](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=662). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK8.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -533,16 +533,16 @@ Resolve statutory abrogation, constitutional amenability and waiver separately b
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>), matter M072.
+* Local case record: OT_1998CHUNK8.md, matter M072.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [City of Boerne v. Flores — 1997-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2174>).
-* [City of Boerne v. Flores — 1997-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:26241>).
-* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7949>).
-* Reusable rule: [RFRA review of prospective enforcement](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6187>).
-* Reusable rule: [Congruent and proportional Fourteenth Amendment enforcement](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11421>).
-* Reusable rule: [IGRA State-action authorization and unresolved amenability](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:7016>).
-* Reusable rule: [Prospective officer enforcement of IGRA negotiations](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:10117>).
-* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11330>).
+* [City of Boerne v. Flores — 1997-06-25.](../../../state/HOLDINGS.md).
+* [City of Boerne v. Flores — 1997-06-25.](../../../state/HOLDINGS.md).
+* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [RFRA review of prospective enforcement](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Congruent and proportional Fourteenth Amendment enforcement](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [IGRA State-action authorization and unresolved amenability](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Prospective officer enforcement of IGRA negotiations](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 666](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=701). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -585,7 +585,7 @@ Resolve statutory abrogation, constitutional amenability and waiver separately b
 * **Historical Opinion Structure:** Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Thomas, JJ., joined. Stevens, J., filed a dissenting opinion, post, p. 691. Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined, post, p. 693.
 * **Historical Holding:** The historical Court held the Commerce Clause insufficient for abrogation and rejected constructive waiver based on commercial activity.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 666](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=701). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 666](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=701). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK8.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -639,12 +639,12 @@ A state-forum immunity holding would not erase the federal duty or every lawful 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>), matter M073.
+* Local case record: OT_1998CHUNK8.md, matter M073.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7949>).
-* Reusable rule: [IGRA State-action authorization and unresolved amenability](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:7016>).
-* Reusable rule: [Prospective officer enforcement of IGRA negotiations](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:10117>).
-* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11330>).
+* [Seminole Tribe of Florida v. Florida, 517 U.S. 44 — March 27, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [IGRA State-action authorization and unresolved amenability](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Prospective officer enforcement of IGRA negotiations](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Judicial effect of a staged IGRA enforcement decision](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Official U.S. Reports, 527 U.S. 706](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf) at 711–712 identifies the separate state filing and 715 A.2d 172 judgment. Its historical Seminole explanation is procedural background, not the simulation’s governing rule.
@@ -690,7 +690,7 @@ A state-forum immunity holding would not erase the federal duty or every lawful 
 * **Historical Opinion Structure:** Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Thomas, JJ., joined. Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined, post, p. 760.
 * **Historical Holding:** The historical Court recognized constitutional state sovereign immunity in state court beyond the Eleventh Amendment and held Article I insufficient to subject a nonconsenting State to the FLSA action.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 706](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=741). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 706](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=741). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK8.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -739,10 +739,10 @@ A failed limited-fund or adequacy predicate defeats this certification without p
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>), matter M074.
+* Local case record: OT_1998CHUNK8.md, matter M074.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Amchem Products, Inc. v. Windsor — 1997-06-25.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:9904>).
-* Reusable rule: [Certification of settlement-only classes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:1762>).
+* [Amchem Products, Inc. v. Windsor — 1997-06-25.](../../../state/HOLDINGS.md).
+* Reusable rule: [Certification of settlement-only classes](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 815](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=850). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -775,4 +775,4 @@ A failed limited-fund or adequacy predicate defeats this certification without p
 * **Historical Opinion Structure:** Souter, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Thomas, and Ginsburg, JJ., joined. Rehnquist, C. J., filed a concurring opinion, in which Scalia and Kennedy, JJ., joined, post, p. 865. Breyer, J., filed a dissenting opinion, in which Stevens, J., joined, post, p. 865.
 * **Historical Holding:** The class failed the traditional limited-fund prerequisites and adequate-representation requirements; the mandatory settlement could not stand.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 815](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=850). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK8.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK8.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 815](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=850). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK8.md. The primary opinion was consulted within the verification scope recorded above.

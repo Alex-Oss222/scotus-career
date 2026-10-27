@@ -45,11 +45,11 @@ An elements construction requires a verdict satisfying predicate unanimity and t
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK5.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK5.md>), matter M050.
+* Local case record: OT_1998CHUNK5.md, matter M050.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Gaudin — June 19, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16313>).
-* [Rutledge v. United States, 517 U.S. 292 — March 27, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16768>).
-* Reusable rule: [Included narcotics agreements and duplicate CCE convictions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:4614>).
+* [United States v. Gaudin — June 19, 1995.](../../../state/HOLDINGS.md).
+* [Rutledge v. United States, 517 U.S. 292 — March 27, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Included narcotics agreements and duplicate CCE convictions](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 526 U.S. 813](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=925). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -82,7 +82,7 @@ An elements construction requires a verdict satisfying predicate unanimity and t
 * **Historical Opinion Structure:** Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Scalia, Souter, and Thomas, JJ., joined. Kennedy, J., filed a dissenting opinion, in which O’Connor and Ginsburg,J J . , joined, post, p. 825.
 * **Historical Holding:** The statute makes the individual predicate violations elements of the continuing series, requiring jury unanimity on each.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 526 U.S. 813](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=925). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK5.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK5.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 526 U.S. 813](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=925). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK5.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -155,23 +155,23 @@ A surviving review channel permits adjudication of the statutory eligibility que
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M051.
+* Local case record: OT_1998CHUNK6.md, matter M051.
 * The identified appellate opinion was checked. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Thunder Basin Coal Co. v. Reich, 510 U.S. 200 — 1994-01-19.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:28728>).
-* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:6046>).
-* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:20673>).
-* [Rivers v. Roadway Express, Inc., 511 U.S. 298 — 1994-04-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:20711>).
-* [Felker v. Turpin, 518 U.S. 651 (1996) — June 28, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:8666>).
-* [Felker v. Turpin, 518 U.S. 651 (1996) — June 28, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:17067>).
-* [Lindh v. Murphy — 1997-06-23.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:9834>).
-* [MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218 — 1994-06-17.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:28894>).
-* [NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co. — January 18, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:35663>).
-* Reusable rule: [Mine Act channeling and meaningful judicial review](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:542>).
-* Reusable rule: [Statutory temporal reach and new consequences for completed conduct](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:575>).
-* Reusable rule: [The 1991 Civil Rights Act’s new liabilities and jury election](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2390>).
-* Reusable rule: [Second or successive state-custody habeas applications](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:1383>).
-* Reusable rule: [Supreme Court original habeas after an authorization-review bar](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:1406>).
-* Reusable rule: [Limited modification authority and mandatory tariff filing](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:10798>).
+* [Thunder Basin Coal Co. v. Reich, 510 U.S. 200 — 1994-01-19.](../../../state/HOLDINGS.md).
+* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](../../../state/HOLDINGS.md).
+* [Landgraf v. USI Film Products, 511 U.S. 244 — 1994-04-26.](../../../state/HOLDINGS.md).
+* [Rivers v. Roadway Express, Inc., 511 U.S. 298 — 1994-04-26.](../../../state/HOLDINGS.md).
+* [Felker v. Turpin, 518 U.S. 651 (1996) — June 28, 1996.](../../../state/HOLDINGS.md).
+* [Felker v. Turpin, 518 U.S. 651 (1996) — June 28, 1996.](../../../state/HOLDINGS.md).
+* [Lindh v. Murphy — 1997-06-23.](../../../state/HOLDINGS.md).
+* [MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218 — 1994-06-17.](../../../state/HOLDINGS.md).
+* [NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co. / Ludwig v. Variable Annuity Life Insurance Co. — January 18, 1995.](../../../state/HOLDINGS.md).
+* Reusable rule: [Mine Act channeling and meaningful judicial review](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Statutory temporal reach and new consequences for completed conduct](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [The 1991 Civil Rights Act’s new liabilities and jury election](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Second or successive state-custody habeas applications](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Supreme Court original habeas after an authorization-review bar](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Limited modification authority and mandatory tariff filing](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Goncalves v. Reno, First Circuit opinion](https://law.justia.com/cases/federal/appellate-courts/F3/144/110/589616/). Verification: The opinion header gives May 15, 1998. Its opening and procedural history distinguish district-court habeas review of statutory eligibility from the agency’s eventual discretionary waiver determination.
@@ -222,7 +222,7 @@ A surviving review channel permits adjudication of the statutory eligibility que
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Judge Lynch wrote for a unanimous panel that also included Judge Stahl and Senior Judge Campbell. The court held that § 2241 survived, rejected retroactive application of § 440(d) to pending applications, and declined to follow the Attorney General's contrary interpretation.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. The court of appeals held that the 1996 immigration amendments did not clearly eliminate § 2241 review of the pure legal claims and that § 440(d) did not govern former § 212(c) applications pending at AEDPA's enactment.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** Reported First Circuit opinion at 144 F.3d 110; Solicitor General's petition in No. 98-835; Supreme Court Order List of March 8, 1999. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). Verification scope: The opinion header gives May 15, 1998. Its opening and procedural history distinguish district-court habeas review of statutory eligibility from the agency’s eventual discretionary waiver determination. [Goncalves v. Reno, First Circuit opinion](https://law.justia.com/cases/federal/appellate-courts/F3/144/110/589616/).
+* **Historical Sources:** Reported First Circuit opinion at 144 F.3d 110; Solicitor General's petition in No. 98-835; Supreme Court Order List of March 8, 1999. Local source: OT_1998CHUNK6.md. Verification scope: The opinion header gives May 15, 1998. Its opening and procedural history distinguish district-court habeas review of statutory eligibility from the agency’s eventual discretionary waiver determination. [Goncalves v. Reno, First Circuit opinion](https://law.justia.com/cases/federal/appellate-courts/F3/144/110/589616/).
 
 ---
 
@@ -280,12 +280,12 @@ Student argues Title IX creates a spending-condition damages channel but does no
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK13.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK13.md>), matter M122.
+* Local case record: OT_1998CHUNK13.md, matter M122.
 * The identified appellate opinion was checked. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Kinman v. Omaha Public School District — May 27, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22632>).
-* [Gebser v. Lago Vista Independent School District, 524 U.S. 274 — June 22, 1998.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23707>).
-* Reusable rule: [Compensatory remedies for intentional Title IX discrimination](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2230>).
-* Reusable rule: [Teacher harassment and recipient responsibility under Title IX](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2635>).
+* [Kinman v. Omaha Public School District — May 27, 1997.](../../../state/HOLDINGS.md).
+* [Gebser v. Lago Vista Independent School District, 524 U.S. 274 — June 22, 1998.](../../../state/HOLDINGS.md).
+* Reusable rule: [Compensatory remedies for intentional Title IX discrimination](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Teacher harassment and recipient responsibility under Title IX](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 * [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/163/749/494550/)
@@ -340,7 +340,7 @@ Student argues Title IX creates a spending-condition damages channel but does no
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: No historical Supreme Court merits opinion exists. The actual historical lower-court opinion, where identified, is the factual/procedural comparator only.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/163/749/494550/) Local source: [OT_1998CHUNK13.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK13.md>). Verification scope: Published record confirms sixth-grade peer harassment, a defense jury verdict and the distinct Title IX and section 1983 questions. [Bruneau, Second Circuit opinion](https://law.justia.com/cases/federal/appellate-courts/F3/163/749/494550/).
+* **Historical Sources:** [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/163/749/494550/) Local source: OT_1998CHUNK13.md. Verification scope: Published record confirms sixth-grade peer harassment, a defense jury verdict and the distinct Title IX and section 1983 questions. [Bruneau, Second Circuit opinion](https://law.justia.com/cases/federal/appellate-courts/F3/163/749/494550/).
 
 ---
 
@@ -389,11 +389,11 @@ Failure to use an available ordinary review step may establish default, subject 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M052.
+* Local case record: OT_1998CHUNK6.md, matter M052.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Lonchar v. Thomas, 517 U.S. 314 — April 1, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7998>).
-* Reusable rule: [No delay-based substitute for statutory habeas dismissal](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:1223>).
-* Reusable rule: [Interim protection necessary for required habeas process](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:1241>).
+* [Lonchar v. Thomas, 517 U.S. 314 — April 1, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [No delay-based substitute for statutory habeas dismissal](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Interim protection necessary for required habeas process](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 526 U.S. 838](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=950). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -426,7 +426,7 @@ Failure to use an available ordinary review step may establish default, subject 
 * **Historical Opinion Structure:** O'Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, and Thomas, JJ., joined. Souter, J., filed a concurring opinion, post, p. 849. Stevens, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined, post, p. 850. Breyer, J., filed a dissenting opinion, in which Stevens and Ginsburg, JJ., joined, post, p. 862.
 * **Historical Holding:** Exhaustion requires one complete round of the State’s established appellate review process, including an available discretionary petition to the State’s highest court.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 526 U.S. 838](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=950). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 526 U.S. 838](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=950). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -474,7 +474,7 @@ Tribe and United States argue gas trapped within coal is physically and legally 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK12.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK12.md>), matter M112.
+* Local case record: OT_1998CHUNK12.md, matter M112.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
 * Governing statutory and surviving authority is identified issue by issue above; no unverified historical post-divergence holding is adopted as simulated law.
 * Public opinion references (verification scope is stated above):
@@ -513,7 +513,7 @@ Tribe and United States argue gas trapped within coal is physically and legally 
 * **Historical Opinion Structure:** Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Scalia, Souter, and Thomas,J J . , joined. Ginsburg, J., filed a dissenting opinion, post, p. 880. Breyer, J., took no part in the consideration or decision of the case.
 * **Historical Holding:** Historical 526 U.S. 865 (1999), reversed Tenth Circuit; Kennedy opinion, Breyer nonparticipation, Ginsburg dissent.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 526 U.S. 865](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=977). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK12.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK12.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 526 U.S. 865](https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf#page=977). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK12.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -569,18 +569,18 @@ After identifying materiality as an element, apply the correct error classificat
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M053.
+* Local case record: OT_1998CHUNK6.md, matter M053.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Gaudin — June 19, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16313>).
-* [Sullivan v. Louisiana, 508 U.S. 275 (1993) — June 1, 1993.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:5470>).
-* [Sullivan v. Louisiana, 508 U.S. 275 (1993) — June 1, 1993.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:14314>).
-* [California v. Roy — November 4, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:6413>).
-* [California v. Roy — November 4, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:15816>).
-* [United States v. Wells — February 26, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:3855>).
-* [United States v. Wells — February 26, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:17241>).
-* [Johnson v. United States — 1997-05-12.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:17713>).
-* Reusable rule: [A vitiated jury reasonable-doubt standard is structural error](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:3551>).
-* Reusable rule: [Preserved protected-silence and personal-intent errors on federal habeas review](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:3431>).
+* [United States v. Gaudin — June 19, 1995.](../../../state/HOLDINGS.md).
+* [Sullivan v. Louisiana, 508 U.S. 275 (1993) — June 1, 1993.](../../../state/HOLDINGS.md).
+* [Sullivan v. Louisiana, 508 U.S. 275 (1993) — June 1, 1993.](../../../state/HOLDINGS.md).
+* [California v. Roy — November 4, 1996.](../../../state/HOLDINGS.md).
+* [California v. Roy — November 4, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Wells — February 26, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Wells — February 26, 1997.](../../../state/HOLDINGS.md).
+* [Johnson v. United States — 1997-05-12.](../../../state/HOLDINGS.md).
+* Reusable rule: [A vitiated jury reasonable-doubt standard is structural error](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Preserved protected-silence and personal-intent errors on federal habeas review](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Official U.S. Reports, 527 U.S. 1](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf) Reported facts, charges, instructions, objections and the two questions: 527 U.S. 4–8; harmlessness arguments: id. at 15–19. Historical reasoning is comparison, not binding simulated law.
@@ -624,7 +624,7 @@ After identifying materiality as an element, apply the correct error classificat
 * **Historical Opinion Structure:** Rehnquist, C. J., delivered the opinion for a unanimous Court with respect to Parts I and III, and the opinion of the Court with respect to Parts II and IV , in which O'Connor, Kennedy, Thomas, and Breyer, JJ., joined. Stevens, J., filed an opinion concurring in part and concurring in the judgment, post, p. 25. Scalia, J., filed an opinion concurring in part and dissenting in part, in which Souter and Ginsburg, JJ., joined, post, p. 30.
 * **Historical Holding:** Omission of an element is subject to Chapman harmless-error review and may be harmless when the element was uncontested and supported by overwhelming evidence.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 1](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=36). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 1](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=36). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -672,7 +672,7 @@ A standardless trigger may invalidate the operative ordinance without defining t
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M054.
+* Local case record: OT_1998CHUNK6.md, matter M054.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
 * Governing statutory and surviving authority is identified issue by issue above; no unverified historical post-divergence holding is adopted as simulated law.
 * [Official U.S. Reports, 527 U.S. 41](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=76). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
@@ -707,7 +707,7 @@ A standardless trigger may invalidate the operative ordinance without defining t
 * **Historical Opinion Structure:** Stevens, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, and V , in which O’Connor, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined, and an opinion with respect to Parts III, IV , and VI, in which Souter and Ginsburg, JJ., joined. O’Connor, J., filed an opinion concurring in part and concurring in the judgment, in which Breyer, J., joined, post, p. 64. Kennedy,J . ,post, p. 69, and Breyer,J . ,post, p. 70, filed opinions concurring in part and concurring in the judgment. Scalia, J., filed a dissenting opinion, post, p. 73. Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia, J., joined, post, p. 98.
 * **Historical Holding:** The ordinance was impermissibly vague because it failed to provide notice and meaningful enforcement standards for otherwise innocent presence and dispersal.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 41](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=76). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 41](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=76). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -755,12 +755,12 @@ A genuinely applicable exception or adequate constitutional guarantees could per
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M055.
+* Local case record: OT_1998CHUNK6.md, matter M055.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [White v. Illinois, 502 U.S. 346 (1992) — January 15, 1992.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:12794>).
-* [Williamson v. United States, 512 U.S. 594 — 1994-06-27.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:15620>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Assertion-specific declarations against penal interest](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:3964>).
+* [White v. Illinois, 502 U.S. 346 (1992) — January 15, 1992.](../../../state/HOLDINGS.md).
+* [Williamson v. United States, 512 U.S. 594 — 1994-06-27.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Assertion-specific declarations against penal interest](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 116](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=151). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -793,7 +793,7 @@ A genuinely applicable exception or adequate constitutional guarantees could per
 * **Historical Opinion Structure:** Stevens, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I and VI, in which Scalia, Souter, Thomas, Ginsburg, and Breyer, JJ., joined, the opinion of the Court with respect to Part II, in which Scalia, Souter, Ginsburg, and Breyer, JJ., joined, and an opinion with respect to Parts III, IV , and V , in which Souter, Ginsburg, and Breyer, JJ., joined. Breyer, J., filed a concurring opinion, post, p. 140. Scalia, J., post, p. 143, and Thomas, J., post, p. 143, filed opinions concurring in part and concurring in the judgment. Rehnquist, C. J., filed an opinion concurring in the judgment, in which O’Connor and Kennedy, JJ., joined, post, p. 144.
 * **Historical Holding:** A custodial accomplice confession shifting blame is not within a firmly rooted exception and lacked adequate particularized guarantees of trustworthiness; its admission violated confrontation.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 116](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=151). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 116](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=151). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -842,11 +842,11 @@ Use of the wrong standard requires correction and any necessary reconsideration 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M056.
+* Local case record: OT_1998CHUNK6.md, matter M056.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Allentown Mack Sales & Service, Inc. v. NLRB — 1998-01-26.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:32141>).
-* Reusable rule: [Objective doubt before polling an incumbent union](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:8509>).
-* Reusable rule: [Whole-record agency review under the announced substantive standard](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11000>).
+* [Allentown Mack Sales & Service, Inc. v. NLRB — 1998-01-26.](../../../state/HOLDINGS.md).
+* Reusable rule: [Objective doubt before polling an incumbent union](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Whole-record agency review under the announced substantive standard](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 150](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=185). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -879,7 +879,7 @@ Use of the wrong standard requires correction and any necessary reconsideration 
 * **Historical Opinion Structure:** Breyer, J., delivered the opinion of the Court, in which Stevens, O’Connor, Scalia, Souter, and Thomas, JJ., joined. Rehnquist, C. J., filed a dissenting opinion, in which Kennedy and Ginsburg, JJ., joined, post, p. 170.
 * **Historical Holding:** The APA governs review of PTO factfinding, including substantial-evidence review for formal adjudicatory records.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 150](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=185). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 150](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=185). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -933,10 +933,10 @@ Airline argues shared interests and counsel and essentially same legal issue jus
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK14.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK14.md>), matter M126.
+* Local case record: OT_1998CHUNK14.md, matter M126.
 * The identified appellate opinion was checked. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Richards v. Jefferson County, 517 U.S. 793 — June 10, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:8357>).
-* Reusable rule: [Constitutional authority to bind absent litigants](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:947>).
+* [Richards v. Jefferson County, 517 U.S. 793 — June 10, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Constitutional authority to bind absent litigants](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 * [caselaw.findlaw.com](https://caselaw.findlaw.com/court/us-7th-circuit/1179423.html)
@@ -982,7 +982,7 @@ Airline argues shared interests and counsel and essentially same legal issue jus
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: No historical Supreme Court merits opinion exists. The actual historical lower-court opinion, where identified, is the factual/procedural comparator only.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [caselaw.findlaw.com](https://caselaw.findlaw.com/court/us-7th-circuit/1179423.html) Local source: [OT_1998CHUNK14.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK14.md>). Verification scope: Caption, lower appeal numbers, December 17 decision, twelve plaintiffs, ADEA posture and separate affirmance of venue ruling. [Tice, 162 F.3d 966](https://caselaw.findlaw.com/court/us-7th-circuit/1179423.html).
+* **Historical Sources:** [caselaw.findlaw.com](https://caselaw.findlaw.com/court/us-7th-circuit/1179423.html) Local source: OT_1998CHUNK14.md. Verification scope: Caption, lower appeal numbers, December 17 decision, twelve plaintiffs, ADEA posture and separate affirmance of venue ruling. [Tice, 162 F.3d 966](https://caselaw.findlaw.com/court/us-7th-circuit/1179423.html).
 
 ---
 
@@ -1031,12 +1031,12 @@ A failure of justification permits relief for the described advertisements witho
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M057.
+* Local case record: OT_1998CHUNK6.md, matter M057.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Rubin v. Coors Brewing Co. — April 19, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:25203>).
-* [Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, 512 U.S. 136 — 1994-06-13.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:24599>).
-* [44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484 — May 13, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:25704>).
-* [United States v. Edge Broadcasting Co., 509 U.S. 418 (1993) — June 25, 1993.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:24382>).
+* [Rubin v. Coors Brewing Co. — April 19, 1995.](../../../state/HOLDINGS.md).
+* [Ibanez v. Florida Department of Business and Professional Regulation, Board of Accountancy, 512 U.S. 136 — 1994-06-13.](../../../state/HOLDINGS.md).
+* [44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484 — May 13, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Edge Broadcasting Co., 509 U.S. 418 (1993) — June 25, 1993.](../../../state/HOLDINGS.md).
 * [Official U.S. Reports, 527 U.S. 173](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=208). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -1069,7 +1069,7 @@ A failure of justification permits relief for the described advertisements witho
 * **Historical Opinion Structure:** Stevens, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined. Rehnquist, C. J., filed a concurring opinion, post, p. 196. Thomas, J., filed an opinion concurring in the judgment, post, p. 197.
 * **Historical Holding:** The restriction failed commercial-speech review because its exemptions and inconsistent operation prevented a direct and materially effective fit with the Government’s stated interests.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 173](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=208). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 173](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=208). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -1118,10 +1118,10 @@ If later review provides an effective correction and the order lacks the require
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>), matter M058.
+* Local case record: OT_1998CHUNK6.md, matter M058.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Digital Equipment Corp. v. Desktop Direct, Inc., 511 U.S. 863 — 1994-06-06.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:6535>).
-* Reusable rule: [Private settlement rights and collateral-order appeals](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:661>).
+* [Digital Equipment Corp. v. Desktop Direct, Inc., 511 U.S. 863 — 1994-06-06.](../../../state/HOLDINGS.md).
+* Reusable rule: [Private settlement rights and collateral-order appeals](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 527 U.S. 198](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=233). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -1154,4 +1154,4 @@ If later review provides an effective correction and the order lacks the require
 * **Historical Opinion Structure:** Thomas, J., delivered the opinion for a unanimous Court. Kennedy, J., filed a concurring opinion, post, p. 210.
 * **Historical Holding:** A Rule 37 sanction against counsel is not an immediately appealable collateral order because it is not sufficiently separate and can be effectively reviewed after final judgment.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 527 U.S. 198](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=233). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK6.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK6.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 527 U.S. 198](https://www.supremecourt.gov/opinions/boundvolumes/527bv.pdf#page=233). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK6.md. The primary opinion was consulted within the verification scope recorded above.

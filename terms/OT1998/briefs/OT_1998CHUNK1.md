@@ -56,24 +56,24 @@ Resolve commerce and arms independently; evaluate each count and the sentence se
 
 ## E. SOURCES
 
-* Local case record: [M130_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M130_OT_1998_RESEARCH.md>), matter M130.
+* Local case record: M130_OT_1998_RESEARCH.md, matter M130.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Lopez — April 26, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1284>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [United States v. Kirk — 1998-02-14.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2323>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7389>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21531>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* [Koon v. United States; Powell v. United States, 518 U.S. 81 — June 13, 1996](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:13232>).
-* [Stinson v. United States, 508 U.S. 36 (1993) — May 3, 1993.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:14182>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Lopez — April 26, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Kirk — 1998-02-14.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Koon v. United States; Powell v. United States, 518 U.S. 81 — June 13, 1996](../../../state/HOLDINGS.md).
+* [Stinson v. United States, 508 U.S. 36 (1993) — May 3, 1993.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Original opinion](https://law.justia.com/cases/federal/appellate-courts/F3/117/1265/534724/); [official limited-rehearing opinion](https://media.ca11.uscourts.gov/opinions/pub/files/19958397.MAN.pdf)
@@ -136,7 +136,7 @@ Resolve commerce and arms independently; evaluate each count and the sentence se
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Kravitch authored the original opinion. Cox authored the rehearing opinion; Kravitch dissented on sentencing. The original non-sentencing portions remained in force.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Original opinion](https://law.justia.com/cases/federal/appellate-courts/F3/117/1265/534724/); [official limited-rehearing opinion](https://media.ca11.uscourts.gov/opinions/pub/files/19958397.MAN.pdf) Local source: [M130_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M130_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Original opinion](https://law.justia.com/cases/federal/appellate-courts/F3/117/1265/534724/); [official limited-rehearing opinion](https://media.ca11.uscourts.gov/opinions/pub/files/19958397.MAN.pdf) Local source: M130_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -196,26 +196,26 @@ Standing and the proper third-party scope come first. The court may sustain the 
 
 ## E. SOURCES
 
-* Local case record: [M133_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M133_OT_1998_RESEARCH.md>), matter M133.
+* Local case record: M133_OT_1998_RESEARCH.md, matter M133.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Lopez — April 26, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1284>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [Printz v. United States; Mack v. United States — June 27, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2194>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [United States v. Kirk — 1998-02-14.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2323>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7389>).
-* [Printz v. United States; Mack v. United States — June 27, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:10072>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21531>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* [United Food & Commercial Workers Union Local 751 v. Brown Group, Inc., 517 U.S. 544 — May 13, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:8155>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Temporary state-executive records assistance under federal direction](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:7051>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Lopez — April 26, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Printz v. United States; Mack v. United States — June 27, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Kirk — 1998-02-14.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [Printz v. United States; Mack v. United States — June 27, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United Food & Commercial Workers Union Local 751 v. Brown Group, Inc., 517 U.S. 544 — May 13, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Temporary state-executive records assistance under federal direction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [August opinion and rehearing notation](https://law.justia.com/cases/federal/appellate-courts/F3/152/998/543945/); [official rehearing decision](https://www.govinfo.gov/content/pkg/USCOURTS-caDC-97-05304/pdf/USCOURTS-caDC-97-05304-1.pdf)
@@ -278,7 +278,7 @@ Standing and the proper third-party scope come first. The court may sustain the 
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Stephen F. Williams wrote for the panel of Williams, D.H. Ginsburg and Randolph. No historical Supreme Court merits opinion is assigned.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [August opinion and rehearing notation](https://law.justia.com/cases/federal/appellate-courts/F3/152/998/543945/); [official rehearing decision](https://www.govinfo.gov/content/pkg/USCOURTS-caDC-97-05304/pdf/USCOURTS-caDC-97-05304-1.pdf) Local source: [M133_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M133_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [August opinion and rehearing notation](https://law.justia.com/cases/federal/appellate-courts/F3/152/998/543945/); [official rehearing decision](https://www.govinfo.gov/content/pkg/USCOURTS-caDC-97-05304/pdf/USCOURTS-caDC-97-05304-1.pdf) Local source: M133_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -344,27 +344,27 @@ Decide the surviving commerce, equal-protection, substantive-due-process, ex-pos
 
 ## E. SOURCES
 
-* Local case record: [M132_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M132_OT_1998_RESEARCH.md>), matter M132.
+* Local case record: M132_OT_1998_RESEARCH.md, matter M132.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Lopez — April 26, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1284>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [Printz v. United States; Mack v. United States — June 27, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2194>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [United States v. Kirk — 1998-02-14.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2323>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7389>).
-* [Printz v. United States; Mack v. United States — June 27, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:10072>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21531>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21811>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Carlton, 512 U.S. 26 — 1994-06-13.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34112>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Temporary state-executive records assistance under federal direction](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:7051>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Lopez — April 26, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Printz v. United States; Mack v. United States — June 27, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Kirk — 1998-02-14.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [Printz v. United States; Mack v. United States — June 27, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Carlton, 512 U.S. 26 — 1994-06-13.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Temporary state-executive records assistance under federal direction](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [District-court opinion](https://law.justia.com/cases/federal/district-courts/FSupp/968/1564/1948100/); [appellate opinion](https://hallapproved.com/us/cases/ca11/1998/7071256/)
@@ -428,7 +428,7 @@ Decide the surviving commerce, equal-protection, substantive-due-process, ex-pos
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Per curiam appellate opinion; panel: Hatchett, Hull and District Judge Lenard. Richard C. Freeman wrote the district-court order.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [District-court opinion](https://law.justia.com/cases/federal/district-courts/FSupp/968/1564/1948100/); [appellate opinion](https://hallapproved.com/us/cases/ca11/1998/7071256/) Local source: [M132_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M132_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [District-court opinion](https://law.justia.com/cases/federal/district-courts/FSupp/968/1564/1948100/); [appellate opinion](https://hallapproved.com/us/cases/ca11/1998/7071256/) Local source: M132_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -475,9 +475,9 @@ Both moving sovereigns urge entry of the same coordinate decree. The material co
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>), matter M075.
+* Local case record: OT_1998CHUNK9.md, matter M075.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Louisiana (Alabama and Mississippi Boundary Case), 507 U.S. 7 (1993) — February 22, 1993.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:37062>).
+* [United States v. Louisiana (Alabama and Mississippi Boundary Case), 507 U.S. 7 (1993) — February 22, 1993.](../../../state/HOLDINGS.md).
 * Public opinion references (verification scope is stated above):
 
 * [supreme.justia.com](https://supreme.justia.com/cases/federal/us/525/1/)
@@ -516,7 +516,7 @@ Both moving sovereigns urge entry of the same coordinate decree. The material co
 * **Historical Opinion Structure:** Supplemental decree on joint motion, with no new divided merits opinion. The coordinate schedule is printed in 525 U.S. 1 and is preserved in the downloaded official volume.
 * **Historical Holding:** Historical supplemental decree entered on joint motion, 525 U.S. 1 (1998), without a separate merits opinion or recorded divided vote.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law. This is a procedural or implementing event, not a new merits holding.
-* **Historical Sources:** [Official U.S. Reports, 525 U.S. 1](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=184). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 525 U.S. 1](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=184). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK9.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -576,23 +576,23 @@ Assess concrete threatened possession and each distinct definition and exception
 
 ## E. SOURCES
 
-* Local case record: [M131_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M131_OT_1998_RESEARCH.md>), matter M131.
+* Local case record: M131_OT_1998_RESEARCH.md, matter M131.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) — June 12, 1992.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:4230>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:7389>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [Love v. Pepersack — December 11, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21531>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21811>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* Reusable rule: [Concrete personal interests and procedural citizen-suit standing](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:203>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [Lujan v. Defenders of Wildlife, 504 U.S. 555 (1992) — June 12, 1992.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Love v. Pepersack — December 11, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Concrete personal interests and procedural citizen-suit standing](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Published appeal and cross-appeal](https://law.justia.com/cases/federal/appellate-courts/F3/152/522/543912/)
@@ -646,7 +646,7 @@ Assess concrete threatened possession and each distinct definition and exception
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Suhrheinrich wrote the majority, joined by Contie; Merritt dissented, favoring delayed review and narrowing constructions.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Published appeal and cross-appeal](https://law.justia.com/cases/federal/appellate-courts/F3/152/522/543912/) Local source: [M131_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M131_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Published appeal and cross-appeal](https://law.justia.com/cases/federal/appellate-courts/F3/152/522/543912/) Local source: M131_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -706,24 +706,24 @@ Apply the actual §922(o) mechanism; assess timely preservation and actual discr
 
 ## E. SOURCES
 
-* Local case record: [M134_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M134_OT_1998_RESEARCH.md>), matter M134.
+* Local case record: M134_OT_1998_RESEARCH.md, matter M134.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Lopez — April 26, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1284>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [United States v. Kirk — 1998-02-14.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2323>).
-* [Koon v. United States; Powell v. United States, 518 U.S. 81 — June 13, 1996](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:13232>).
-* [United States v. Watts / United States v. Putra — January 6, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16261>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Relevant-conduct sentencing and a later distinct prosecution](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:4255>).
-* Reusable rule: [Guidelines departure classification and appellate review](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:4465>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Lopez — April 26, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Kirk — 1998-02-14.](../../../state/HOLDINGS.md).
+* [Koon v. United States; Powell v. United States, 518 U.S. 81 — June 13, 1996](../../../state/HOLDINGS.md).
+* [United States v. Watts / United States v. Putra — January 6, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Relevant-conduct sentencing and a later distinct prosecution](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Guidelines departure classification and appellate review](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Consolidated opinion](https://law.justia.com/cases/federal/appellate-courts/F3/157/90/578137/)
@@ -777,7 +777,7 @@ Apply the actual §922(o) mechanism; assess timely preservation and actual discr
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Jacobs wrote for a panel including Magill and District Judge Korman. The opinion addresses commerce, jury selection, ineffective assistance and Gonzalez’s sentencing; it does not decide a Second Amendment claim.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Consolidated opinion](https://law.justia.com/cases/federal/appellate-courts/F3/157/90/578137/) Local source: [M134_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M134_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Consolidated opinion](https://law.justia.com/cases/federal/appellate-courts/F3/157/90/578137/) Local source: M134_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -831,20 +831,20 @@ Separate statutory proof from constitutional adequacy. Connecticut manufacture c
 
 ## E. SOURCES
 
-* Local case record: [M135_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M135_OT_1998_RESEARCH.md>), matter M135.
+* Local case record: M135_OT_1998_RESEARCH.md, matter M135.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [United States v. Lopez — April 26, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1284>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:1695>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2260>).
-* [United States v. Kirk — 1998-02-14.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:2323>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:16734>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21600>).
-* [United States v. Rybar — November 24, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:22753>).
-* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:34284>).
-* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:2904>).
-* Reusable rule: [Commerce connection, mechanism, and class-wide effects](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6954>).
-* Reusable rule: [Firearm registration supporting making-and-transfer taxes](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9646>).
-* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:12040>).
+* [United States v. Lopez — April 26, 1995.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Kirk — 1998-02-14.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* [United States v. Rybar — November 24, 1997.](../../../state/HOLDINGS.md).
+* [United States v. Hale, judgment below 978 F.2d 1016 — February 12, 1996.](../../../state/HOLDINGS.md).
+* Reusable rule: [Confrontation and firmly rooted spontaneous-declaration and medical-treatment exceptions](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Commerce connection, mechanism, and class-wide effects](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Firearm registration supporting making-and-transfer taxes](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Personal arms protection, incorporation and necessary acquisition](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [User-identified opinion](https://hallapproved.com/us/cases/ca4/1998/993999/)
@@ -890,7 +890,7 @@ Separate statutory proof from constitutional adequacy. Connecticut manufacture c
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: Hall, Wilkins and Williams comprised the panel, according to the user-supplied identification. The companion appellants were William Lumas Griffin and George David Langley, Jr.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [User-identified opinion](https://hallapproved.com/us/cases/ca4/1998/993999/) Local source: [M135_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M135_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [User-identified opinion](https://hallapproved.com/us/cases/ca4/1998/993999/) Local source: M135_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -944,7 +944,7 @@ The facial representation claim may fail without approving enforcement practices
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK1.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK1.md>), matter M001.
+* Local case record: OT_1998CHUNK1.md, matter M001.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
 * Governing statutory and surviving authority is identified issue by issue above; no unverified historical post-divergence holding is adopted as simulated law.
 * [Official U.S. Reports, 525 U.S. 33](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=217). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
@@ -987,7 +987,7 @@ The facial representation claim may fail without approving enforcement practices
 * **Historical Opinion Structure:** O’Connor, J., delivered the opinion for a unanimous Court. Kennedy, J., filed a concurring opinion, in which Thomas, J., joined, post, p. 52.
 * **Historical Holding:** A union does not act arbitrarily merely by using statutory union-security language whose lawful meaning is fixed by federal law, and a federal court may resolve statutory questions necessary to a fair-representation claim.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 525 U.S. 33](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=217). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK1.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK1.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 525 U.S. 33](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=217). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK1.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -1040,7 +1040,7 @@ Challengers contend that private funding and optional statement charges exclude 
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>), matter M080.
+* Local case record: OT_1998CHUNK9.md, matter M080.
 * The identified appellate opinion was checked. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
 * Governing statutory and surviving authority is identified issue by issue above; no unverified historical post-divergence holding is adopted as simulated law.
 * Public opinion references (verification scope is stated above):
@@ -1088,7 +1088,7 @@ Challengers contend that private funding and optional statement charges exclude 
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: No historical Supreme Court merits opinion exists. The actual historical lower-court opinion, where identified, is the factual/procedural comparator only.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [caselaw.findlaw.com](https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html) Local source: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>). Verification scope: Published record confirms pleading-stage review of the optional candidate-statement charge; no indigent-candidate claim was presented. [NAACP v. Jones, Ninth Circuit opinion](https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html).
+* **Historical Sources:** [caselaw.findlaw.com](https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html) Local source: OT_1998CHUNK9.md. Verification scope: Published record confirms pleading-stage review of the optional candidate-statement charge; no indigent-candidate claim was presented. [NAACP v. Jones, Ninth Circuit opinion](https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html).
 
 ---
 
@@ -1136,12 +1136,12 @@ A prototype prerequisite would require reconsideration of invalidity; an offer-p
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK1.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK1.md>), matter M002.
+* Local case record: OT_1998CHUNK1.md, matter M002.
 * The historical header, event date and reported disposition were checked against the official U.S. Reports volume. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Markman v. Westview Instruments, Inc., 517 U.S. 370 — April 23, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:36115>).
-* [Warner-Jenkinson Co. v. Hilton Davis Chemical Co. — March 3, 1997.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:36248>).
-* Reusable rule: [Judicial claim construction and the retained infringement jury function](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11916>).
-* Reusable rule: [Element-specific patent equivalents and prosecution-history surrender](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:11951>).
+* [Markman v. Westview Instruments, Inc., 517 U.S. 370 — April 23, 1996.](../../../state/HOLDINGS.md).
+* [Warner-Jenkinson Co. v. Hilton Davis Chemical Co. — March 3, 1997.](../../../state/HOLDINGS.md).
+* Reusable rule: [Judicial claim construction and the retained infringement jury function](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Element-specific patent equivalents and prosecution-history surrender](../../../state/STANDARDS_AND_TESTS.md).
 * [Official U.S. Reports, 525 U.S. 55](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=239). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records.
 
 # SECTION II: STONE POSITION SUPPLEMENT
@@ -1174,7 +1174,7 @@ A prototype prerequisite would require reconsideration of invalidity; an offer-p
 * **Historical Opinion Structure:** Stevens, J., delivered the opinion for a unanimous Court.
 * **Historical Holding:** The on-sale bar applies when, before the critical date, the invention is the subject of a commercial offer for sale and is ready for patenting, which may be shown by reduction to practice or enabling drawings or descriptions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Official U.S. Reports, 525 U.S. 55](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=239). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: [OT_1998CHUNK1.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK1.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Official U.S. Reports, 525 U.S. 55](https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf#page=239). The dated header and reported opinion structure were checked against this primary source; complete underlying docket and grant papers are separate records. Local source: OT_1998CHUNK1.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -1234,16 +1234,16 @@ A facial declaration that every affirmative measure must remain available is not
 
 ## E. SOURCES
 
-* Local case record: [M127_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M127_OT_1998_RESEARCH.md>), matter M127.
+* Local case record: M127_OT_1998_RESEARCH.md, matter M127.
 * Published lower-court opinions were checked for identity, record and posture. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Adarand Constructors, Inc. v. Peña — June 12, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:5624>).
-* [Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:11549>).
-* [Kelley v. Board of Trustees of the University of Illinois — May 22, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21218>).
-* [Adarand Constructors, Inc. v. Peña — June 12, 1995.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21314>).
-* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:21811>).
-* [Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:23487>).
-* Reusable rule: [Race-conscious local public-contracting preferences](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6657>).
-* Reusable rule: [Sex-conscious public-contracting preferences](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:6673>).
+* [Adarand Constructors, Inc. v. Peña — June 12, 1995.](../../../state/HOLDINGS.md).
+* [Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21.](../../../state/HOLDINGS.md).
+* [Kelley v. Board of Trustees of the University of Illinois — May 22, 1995.](../../../state/HOLDINGS.md).
+* [Adarand Constructors, Inc. v. Peña — June 12, 1995.](../../../state/HOLDINGS.md).
+* [Romer v. Evans, 517 U.S. 620 — May 20, 1996.](../../../state/HOLDINGS.md).
+* [Engineering Contractors Association of South Florida v. Metropolitan Dade County — 1998-09-21.](../../../state/HOLDINGS.md).
+* Reusable rule: [Race-conscious local public-contracting preferences](../../../state/STANDARDS_AND_TESTS.md).
+* Reusable rule: [Sex-conscious public-contracting preferences](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 [Published opinion and rehearing writings](https://law.justia.com/cases/federal/appellate-courts/F3/122/692/523826/)
@@ -1297,7 +1297,7 @@ A facial declaration that every affirmative measure must remain available is not
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: O’Scannlain wrote for Leavy and Kleinfeld. Schroeder dissented from denial of rehearing en banc, joined by Pregerson, Norris and Tashima; Norris wrote separately with those judges joining; Hawkins commented separately. Reinhardt was recused from those historical appellate proceedings.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant. No historical Supreme Court merits decision exists. The lower-court reasoning above is historical context and does not supersede the governing simulated decisions.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [Published opinion and rehearing writings](https://law.justia.com/cases/federal/appellate-courts/F3/122/692/523826/) Local source: [M127_OT_1998_RESEARCH.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/additions/research/M127_OT_1998_RESEARCH.md>). The primary opinion was consulted within the verification scope recorded above.
+* **Historical Sources:** [Published opinion and rehearing writings](https://law.justia.com/cases/federal/appellate-courts/F3/122/692/523826/) Local source: M127_OT_1998_RESEARCH.md. The primary opinion was consulted within the verification scope recorded above.
 
 ---
 
@@ -1345,10 +1345,10 @@ Customers argue accepting an order implied a best-reasonably-available-execution
 
 ## E. SOURCES
 
-* Local case record: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>), matter M081.
+* Local case record: OT_1998CHUNK9.md, matter M081.
 * The identified appellate opinion was checked. Questions are faithful issue statements, not certified verbatim petition or grant text. No historical disposition is transferred into simulated law.
-* [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164 — 1994-04-19.](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/HOLDINGS.md:35495>).
-* Reusable rule: [Culpable affirmative assistance to a securities fraud](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/STANDARDS_AND_TESTS.md:9028>).
+* [Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., 511 U.S. 164 — 1994-04-19.](../../../state/HOLDINGS.md).
+* Reusable rule: [Culpable affirmative assistance to a securities fraud](../../../state/STANDARDS_AND_TESTS.md).
 * Public opinion references (verification scope is stated above):
 
 * [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/135/266/507548/)
@@ -1385,4 +1385,4 @@ Customers argue accepting an order implied a best-reasonably-available-execution
 * **Historical Opinion Structure:** No historical Supreme Court merits opinion or vote is supplied. The lower-court decision is context only. Source-reported lower-court opinion information: No historical Supreme Court merits opinion exists. The actual historical lower-court opinion, where identified, is the factual/procedural comparator only.
 * **Historical Holding:** No Supreme Court merits holding is assigned to this simulated grant.
 * **Historical Authority:** Historical comparison only. The real-world outcome and separate writings do not become governing simulated law.
-* **Historical Sources:** [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/135/266/507548/) Local source: [OT_1998CHUNK9.md](<C:/Users/alexl/OneDrive/Desktop/Different LLM/Political LLM/SUPREME COURT/SUPREME COURT/1998/OT_1998_RECONCILIATION/sources/OT_1998CHUNK9.md>). Verification scope: January 30, 1998 en banc opinion and its account of 1992–94 trading, alternative quotation systems and alleged proprietary trading. [Newton / Kravitz, 135 F.3d 266](https://law.justia.com/cases/federal/appellate-courts/F3/135/266/507548/).
+* **Historical Sources:** [law.justia.com](https://law.justia.com/cases/federal/appellate-courts/F3/135/266/507548/) Local source: OT_1998CHUNK9.md. Verification scope: January 30, 1998 en banc opinion and its account of 1992–94 trading, alternative quotation systems and alleged proprietary trading. [Newton / Kravitz, 135 F.3d 266](https://law.justia.com/cases/federal/appellate-courts/F3/135/266/507548/).
