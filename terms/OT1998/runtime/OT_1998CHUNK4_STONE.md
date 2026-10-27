@@ -40,13 +40,13 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised disposition stated below was user-approved 2026-10-27.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reverse the judgments prohibiting the proposed sampling methods and vacate the injunctions; resolve any remaining House-specific jurisdictional question without treating consolidation as standing.
-* **Stone's Remedy and Remand Position:** Remand for proceedings consistent with §§141 and 195 permitting sampling. No injunction survives solely on the rejected categorical statutory or constitutional prohibitions.
+* **Stone's Controlled Judgment or Disposition:** In Clinton v. Glavin, REVERSE the judgment prohibiting the proposed sampling methods and vacate the injunction: §195 does not forbid sampling for apportionment, and the Enumeration Clause does not require a headcount-only method. In the House matter, VACATE the injunction and REMAND with instructions to dismiss for lack of standing: the House identifies no institutional injury of its own, and its standing may not be inferred from the individual plaintiffs' representation claim or from consolidation. Stone joins the Justices who would so dispose of the House matter.
+* **Stone's Remedy and Remand Position:** Glavin is remanded for proceedings consistent with §§141 and 195 permitting sampling; no injunction survives on the rejected categorical statutory or constitutional prohibitions. The House action is dismissed for want of standing, and no merits ruling is entered in it.
 
 ## C. ISSUE POSITIONS
 
@@ -171,13 +171,13 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised disposition stated below was user-approved 2026-10-27.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Affirm the plaintiff-specific preliminary injunction against the judicial expenditure ceiling; vacate the refusal of preliminary relief on the transfer claim and remand for source- and coordination-specific analysis under the ordinary preliminary-relief requirements.
-* **Stone's Remedy and Remand Position:** Preserve the existing preliminary protection against the expenditure ceiling. Require separate examination of the transfer restriction and the remaining requirements for provisional relief; do not enter final statewide invalidation or automatically authorize every transfer.
+* **Stone's Controlled Judgment or Disposition:** AFFIRM the plaintiff-specific preliminary injunction against the judicial expenditure ceiling, the only ruling the grant brings up. The separate ruling on transfers from prior nonjudicial campaigns is outside the grant and is left undisturbed; Stone's Issue 2 view is his own and is not adjudicated.
+* **Stone's Remedy and Remand Position:** The existing preliminary protection against the expenditure ceiling, with its consent-based coverage of the named plaintiffs, intervenors and their opponents, stands; no final statewide invalidation is entered and nothing is decided about the transfer restriction.
 
 ## C. ISSUE POSITIONS
 
@@ -230,19 +230,19 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved. The revised disposition stated below was user-approved 2026-10-27.
 * **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
 
 ## B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Reverse Maine Supreme Court’s approval of a categorical residence requirement and remand to determine the number of signatures and available state remedy.
-* **Stone's Remedy and Remand Position:** Reverse Maine Supreme Court’s approval of a categorical residence requirement and remand to determine the number of signatures and available state remedy.
+* **Stone's Controlled Judgment or Disposition:** VACATE AND REMAND as moot. The December 23, 1998 qualification of the initiative for legislative consideration removed the ballot-access injury on which the federal claim rests, and the record shows no concrete recurring injury to these petitioners. Stone joins the Justices who would vacate the Maine Supreme Judicial Court's judgment and remand for such proceedings as state law provides.
+* **Stone's Remedy and Remand Position:** The judgment approving the residence requirement does not stand as a federal ruling; no Article III command dismissing the state action is entered, and the residency and signature-counting questions are not decided.
 
 ## C. ISSUE POSITIONS
 
 ### Issue 1: Circulator residency as speech barrier
 
-* **Threshold and Merits Reach:** Reach the presented question within the established review posture and the stated preservation limits.
+* **Threshold and Merits Reach:** Not reached: the federal claim is moot after the December 23, 1998 qualification; the views stated in this issue are Stone's own and are not adjudicated.
 * **Question Stone Resolves:** Assess residency separately from voter-registration status; use available enforcement alternatives.
 * **Stone's Legal Position:** Petition circulation is core political advocacy, and excluding nonresidents reduces the pool of willing messengers even where the sponsor can still use resident workers. State may demand affidavits, local agents for service, accurate addresses, perjury penalties and investigative cooperation. A residence-only bar is a poor proxy for those enforceability ends and Maine has not demonstrated that less suppressive verification is ineffective. The three-year window reduces urgency but does not defeat the direct speech restriction.
 * **Stone's Proposed Holding:** Assess residency separately from voter-registration status; use available enforcement alternatives.
@@ -251,7 +251,7 @@
 
 ### Issue 2: Ballot remedy and invalid signatures
 
-* **Threshold and Merits Reach:** Reach the presented question within the established review posture and the stated preservation limits.
+* **Threshold and Merits Reach:** Not reached: the federal claim is moot after the December 23, 1998 qualification; the views stated in this issue are Stone's own and are not adjudicated.
 * **Question Stone Resolves:** Correctly count only valid signatures; do not assume enough remain to qualify.
 * **Stone's Legal Position:** Petition circulation is core political advocacy, and excluding nonresidents reduces the pool of willing messengers even where the sponsor can still use resident workers. State may demand affidavits, local agents for service, accurate addresses, perjury penalties and investigative cooperation. A residence-only bar is a poor proxy for those enforceability ends and Maine has not demonstrated that less suppressive verification is ineffective. The three-year window reduces urgency but does not defeat the direct speech restriction.
 * **Stone's Proposed Holding:** Correctly count only valid signatures; do not assume enough remain to qualify.
