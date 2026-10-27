@@ -53,7 +53,7 @@ The order effective August 3, 1994 governs at the OT1998 opening.
 
 ## 4. Docket of Cases Brought Up
 
-Fourteen matters remain pending before the Court. Two additional matters are reserved for OT1998. The forty-two sim-granted cases in the OT1998 inventory are granted and to be heard on the merits.
+Fourteen matters remain pending before the Court. The forty-two sim-granted cases in the OT1998 inventory are granted and to be heard on the merits.
 
 | Case or matter | Court below and judgment | Why on the docket | Stage at opening | Source |
 |---|---|---|---|---|
@@ -71,8 +71,6 @@ Fourteen matters remain pending before the Court. Two additional matters are res
 | *In re Breard*, No. 97-8660 | Original habeas petition; no lower-court judgment under appellate review. | Carried from OT1997; original habeas petition left pending. | Original habeas petition pending. | *Breard v. Greene and related applications*, A-767, Decision Record, April 14, 1998. |
 | *Republic of Paraguay v. Gilmore*, No. 125, Original | Original action; no lower-court judgment under review. | Carried from OT1997; leave-to-file request left pending. | Motion for leave to file an original complaint pending. | *Breard v. Greene and related applications*, A-771, Decision Record, April 14, 1998. |
 | *New Jersey v. New York*, No. 120, Original | Original action; exceptions to the Special Master's report and supplement, with no lower-court judgment. | Carried from OT1997; decree proceedings remain open. | Recommitted to the Special Master for a conforming proposed decree; original action retained for consideration and entry of the decree. | *New Jersey v. New York*, Decision Record, May 26, 1998. |
-| Davenport; full caption and docket not supplied | Court below and judgment not supplied. | User reservation for OT1998. | Reserved for OT1998; review stage and action date not supplied. | OT1997 case index; final Term Continuity Note. |
-| Jean; full caption and docket not supplied | Court below and judgment not supplied. | User reservation for OT1998. | Reserved for OT1998; review stage and action date not supplied. | OT1997 case index; final Term Continuity Note. |
 | *United States v. Wright*, 11th Cir. No. 95-8397 | Eleventh Circuit, No. 95-8397. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 1. |
 | *Fraternal Order of Police v. United States*, D.C. Cir. No. 97-5304 | D.C. Circuit, No. 97-5304. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 2. |
 | *Hiley v. Barrett*, 11th Cir. No. 97-9006 | Eleventh Circuit, No. 97-9006. | Sim-granted lower-court case in the OT1998 inventory. | Granted — to be heard on the merits. | User instruction; OT1998 case index No. 3. |
