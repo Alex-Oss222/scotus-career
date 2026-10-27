@@ -179,7 +179,7 @@ The search and dependent judgment cannot stand on the citation-search theory. Th
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
 | Opinion of the Court, Part I | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Unanimous constitutional rule and reversal | Actual-custody requirement, application and preserved independent search grounds. |
-| Opinion of the Court, Part II | O'Connor | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, BreyerI | Court, eight, on the remedial formulation | Return for ordinary properly available remedial law without an automatic evidence-item disposition. |
+| Opinion of the Court, Part II | O'Connor | Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Court, eight, on the remedial formulation | Return for ordinary properly available remedial law without an automatic evidence-item disposition. |
 | Opinion concurring in part and concurring in the judgment | Stone-Zsela | No other Justice joins | Joins Part I and reversal; would give an express suppression instruction | Suppression of this search's fruits and proceedings on the remaining admissible record. |
 
 All eight Associate Justices join both parts. Stone-Zsela joins Part I only and states his more specific remedy separately.
