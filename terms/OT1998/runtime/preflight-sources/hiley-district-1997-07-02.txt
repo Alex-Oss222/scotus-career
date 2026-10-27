@@ -1,0 +1,264 @@
+ORDER
+RICHARD C. FREEMAN, Senior District Judge.This action, is before the court on: (1) plaintiffs’ motion for a preliminary injunction [# 3 — 1, as amended by #5-1]; (2) defendants’ motions to dismiss [# 7-1 and # 13-1]; (3) defendant USA’s motion to exceed the
+*1568
+page limitation [# 8 — 1]; and (4) plaintiffs’ motion to exceed the page limitation [# 14-1].BackgroundOn September 30, 1996, President Clinton signed into law, as part of the Omnibus Consolidated Appropriations Act of 1997, amendments to the criminal provisions of the Gun Control Act of 1968, 18 U.S.C. § 1921,
+et seq.
+[the Act].
+1
+Central Act to this action is the amendment that makes it unlawful for “any person ... who has been convicted of a misdemeanor crime of domestic violence”
+2
+to ship, transport, possess, or receive firearms in or affecting commerce. 18 U.S.C. § 922(g)(9).
+3
+This amendment, which is codified at § 922(g)(9), applies to all individuals who have been convicted of a domestic violence misdemeanor, including federal, state, and local law enforcement officers, and subjects individuals who knowingly violate the law to a fine, imprisonment, or both. 18 U.S.C. § 924(a)(2). Plaintiffs challenge the constitutionality of this amendment. They base their challenge on the following set of facts.On August 8, 1990, plaintiff William S. Hiley became employed by defendant Fulton County as a deputy sheriff As a deputy sheriff, Hiley was issued a firearm by the Sheriffs Department, and the possession and ability to use that firearm was a requirement of his employment. Sometime thereafter, Hiley became a member of plaintiff National Association of Government Employees [NAGE], an employee organization and the majority union representative for non-supervisory peace officers who are members of Local 423 in Fulton County. Then, in August 1995, Hiley pleaded “no contest” to a misdemeanor battery that involved a domestic violence charge and was sentenced to a 12-month term of non-reporting probation. Immediately thereafter, Hiley informed the Sheriffs Department of his conviction. The Sheriffs Department did not discipline Hiley for his conviction.After passage of § 922(g)(9), the Bureau of Alcohol, Tobacco and Firearms [ATF] issued an Open Letter to all state and local law enforcement officials to explain the prohibition set forth in that section. Warren Aff, Attachment 3. In its letter, ATF explained that law enforcement officers previously convicted of a misdemeanor crime of domestic violence who continued to possess firearms would be violating the law and might therefore be subject to criminal penalties.
+Id.
+ATF thus suggested that state and local officials, “determine if any employee who is authorized to carry a firearm is subject to [the prohibition of § 922(g)(9) ] and what appropriate action should be taken.”
+Id.Subsequently, by letter dated January 10, 1997, defendant Jacqueline H. Barrett, Sheriff of Fulton County, notified Hiley that he was dismissed “for cause” from his position as deputy sheriff, effective at the close of business January 14, 1997. Hiley Aff, Attachment A. The Sheriffs letter stated that “[i]f an employee authorized to cany a County-issued firearm and ammunition is affected by [§ 922(g)(9) ], the employee may not possess any firearm- or ammunition” and “must return any County-issued firearm and ammunition in accordance with Departmental policy.”
+Id.
+The letter noted Hile/s misdemeanor conviction and advised him that it justified his termination.
+Id.Hiley appealed his termination with the Fulton County Personnel Board, and plaintiffs commenced this action: Through this
+*1569
+litigation, plaintiffs seek preliminary and permanent injunctive relief enjoining the enforcement of § 922(g)(9) against any NAGE member on the grounds that § 922(g)(9) is unconstitutional. Since the commencement of this action, Fulton County has rescinded Hiley’s termination and has reassigned him to a position as a detention officer, which, presumably, does not require Hiley to possess a firearm. Hiley’s reinstatement and reassignment resulted from a settlement agreement entered into by Hiley, Barrett, and Fulton County. In connection therewith, Hiley has dismissed with prejudice his claims against defendants Barrett and Fulton County.Motion to DismissIn their motion to dismiss, defendants challenge plaintiffs’ ability to demonstrate that the court has subject matter jurisdiction over this action. Specifically, defendants argue that the doctrines of standing and ripeness preclude the court’s review of plaintiffs’ claims. Defendants also contend that plaintiffs fail to state a claim upon which relief can be granted.1. StandingAs the Supreme Court has explained, “the question of standing is whether the litigant is entitled to have the court decide the merits of the dispute or of particular issues.”
+Warth v. Seldin,
+422 U.S. 490, 498, 95 S.Ct. 2197, 2205, 45 L.Ed.2d 343 (1975). Thus, before the court may consider the merits of plaintiffs’ claims, plaintiffs must demonstrate that the facts alleged present the court with a “ease or controversy” within the meaning of Article III of the United States Constitution.
+Id.
+A demonstration of three factors is necessary to satisfy the constitutional requisites for standing; (1) that the plaintiff has suffered an actual or threatened injury; (2) that the injury is fairly traceable to the challenged conduct of the defendant; and (3) that the injury is likely to be redressed by a favorable ruling.
+Valley Forge Christian College v. Americans United for Separation of Church and State Inc.,
+454 U.S. 464, 471-72, 102 S.Ct. 752, 758, 70 L.Ed.2d 700 (1982).
+4a. HileyDefendants argue that Hiley fails to satisfy the constitutional requirements for standing. In his complaint,
+5
+Hiley alleges that he has been injured as a consequence of the enactment of § 922(g)(9) because he has been dismissed as a deputy sheriff.
+6
+This claim of lost employment meets the standing requirement that Hiley suffer an actual or threatened, and not abstract, injury.
+See, e.g., Stehney v. Perry,
+101 F.3d 925, 930 (3d Cir. 1996) (finding loss of employment to constitute sufficient injury for standing purposes). And although Hiley has been reassigned to the position of detention officer and is thus not completely without employment, the court finds that Hiley’s alleged preclusion from employment as a deputy sheriff constitutes sufficient injury for the purposes of standing.The court also finds that Hiley has satisfied the causation requirement for standing. Although Hiley’s termination is two steps removed from the prohibition set out in § 922(g)(9), the court finds that Hiley has
+*1570
+shown the requisite “logical nexus” between his injury and the challenged action.
+7
+See Linda R.S. v. Richard D.,
+410 U.S. 614, 617-19, 93 S.Ct. 1146, 1149, 35 L.Ed.2d 536 (1973). ■ In finding this nexus, the court notes that the Sheriffs Department did not remove Hiley from his position as deputy sheriff when it learned of his misdemeanor conviction in 1995; it took such action only after § 922(g)(9) made it unlawful for Hiley to possess a firearm legally. Indeed, Barrett’s letter to Hiley explained that his termination was justified in light of § 922(g)(9) and his conviction in August 1995. Because the Sheriffs Department allegedly has a longstanding policy that a sworn deputy sheriff have the physical and legal ability to carry a firearm, the court sees little room for determining that Hiley’s termination was not fairly traceable to the enactment of § 922(g)(9). Hiley thus sits in a position quite different from the examples provided by defendants in which the nexus between the alleged injuries and challenged conduct was found to be attenuated.
+See, e.g., San Diego County Gun Rights Committee v. Reno,
+98 F.3d 1121, 1130 (9th Cir. 1996) (holding that plaintiffs failed to demonstrate that their alleged economic injury was traceable to the Crime Control Act because “any finding that the Crime Control Act had a significant impact on the increase in prices of weapons would be tantamount to sheer speculation”).Lastly, the court turns to the requirement that plaintiffs injury be redressable by a favorable decision. At first blush, it might appear that Hiley is unable to satisfy this requirement because a finding that § 922(g)(9) is unconstitutional does not necessarily lead to his reinstatement to the position of deputy sheriff. Barrett and Fulton County have, however, agreed to reinstate Hiley to his position as deputy sheriff if he prevails on the merits of this suit. Plaintiff has thus demonstrated that it is “likely, as opposed to merely speculative” that his injury will be redressed by a decision in his favor.
+Lujan v. Defenders of Wildlife,
+504 U.S. 555, 559-61, 112 S.Ct. 2130, 2136, 119 L.Ed.2d 351 (1992).
+See also Village of Arlington Heights v. Metropolitan Housing Development Corp.,
+429 U.S. 252, 264-66, 97 S.Ct. 555, 563, 50 L.Ed.2d 450 (1977) (finding standing because there was a “substantial probability” that plaintiffs injury would be redressed by a favorable ruling).The court is convinced that Hiley’s personal stake in the outcome of this litigation will provide the concrete adverseness necessary to define the issues related to his challenge of the enactment of § 922(g)(9). Accordingly, defendants’ motions to dismiss, as they relate to Hiley’s standing, are denied.b. NAGEIn this litigation, NAGE seeks standing to assert the claims of its members who are similarly situated to Hiley. Although a party is generally barred from resting its claim on the legal rights or interests of third parties,
+Warth,
+at 498-500, 95 S.Ct. at 2205, an association, such as NAGE, has standing to bring suit on behalf of its members if: (1) its members would otherwise have standing to sue in their own right; (2) the interests it seeks to protect are germane to the organization’s purpose; and (3) neither the claim asserted nor the relief requested requires the participation of individual members in the lawsuit.
+Hunt v. Washington State Apple Advertising Commission,
+432 U.S. 333, 342-44, 97 S.Ct. 2434, 2441, 53 L.Ed.2d 383 (1977).Defendants contest NAGE’s ability to meet the first prong of the
+Hunt
+test. Specifically, defendants argue that NAGE may not bring these claims because it cannot demonstrate that Hiley or any other member would have standing to assert their claims themselves. This argument is unavailing. As discussed in the preceding section, Hiley does have standing to challenge the constitutionality of § 922(g)(9). In addition, NAGE
+*1571
+has submitted the affidavit of another of its members who, like Hiley, was terminated from his position as deputy sheriff after the enactment of § 922(g)(9) because he had earlier pleaded “no contest” to a misdemeanor violation involving a charge of domestic violence. This showing is all that is required of NAGE.
+See Warth,
+at 509-13, 95 S.Ct. at 2211-12 (“The association must allege that its members, or any one of them, are suffering immediate or threatened injury as a result of the challenged action of the sort that would make out a justiciable case had the members themselves brought suit”). And although not challenged by defendants, the court notes that NAGE meets the other two prongs of the
+Hunt
+test. First, as an organization with a primary purpose of representing its members in their labor relations with respect to them governmental employment, the interest NAGE seeks to protect — namely, the employment of its members as deputy sheriffs— is germane to its stated purposes. Second, there is no evidence that the participation of NAGE’s individual members in this litigation will be necessary. In this regard, it is significant that plaintiffs raise pure questions of law and seek only injunctive relief.
+See United Food and Commercial Workers Union Local 751 v. Brown Group. Inc.,
+— U.S. ---, ---, 116 S.Ct. 1529, 1531, 134 L.Ed.2d 758 (1996) (“individual participation is not normally necessary when an association seeks prospective or injunctive relief for its members”);
+Int’l Union, United Automobile, Aerospace and Agricultural Implement Workers of America v. Brock,
+477 U.S. 274, 287, 106 S.Ct. 2523, 2532, 91 L.Ed.2d 228 (1986) (holding that third precondition for associational standing was met where “[n]either [the] claims nor the relief sought required the District Court to consider the individual circumstances of any aggrieved ... member”). For these reasons, defendants’ motions to dismiss, as they relate to NAGE’s standing, are also denied.2. RipenessHaving determined that plaintiffs are the proper
+paHies
+to bring this action, the court now turns to the question of ripeness, which focuses on whether this is the correct
+time
+for plaintiffs to bring this action.
+See Wilderness Society v. Alcock,
+83 F.3d 386, 390 (11th Cir. 1996). The ripeness doctrine is meant “to ' prevent the courts, through avoidance of premature adjudication, from entangling themselves in abstract disagreements.”
+Abbott Laboratories v. Gardner,
+387 U.S. 136, 148, 87 S.Ct. 1507, 1515, 18 L.Ed.2d 681 (1967). In order to assess whether an action is premature, courts are required to evaluate: (1) “the fitness of the issues for judicial decision;” and (2) “the hardship to the parties of withholding court consideration.”
+Id.Defendants argue that plaintiffs’ claims are not fit for judicial decision. In support of this argument, they point out that Hiley’s administrative appeal has not been completed and contend that it is not yet clear whether § 922(g)(9) will ultimately apply to Hiley or to any other member of NAGE. The evidence before the court, however, suggests otherwise. First, Hiley’s administrative remedies appear to be at an end. Hiley’s dismissal, upon which he based his appeal, has been rescinded, and thus Hiley has withdrawn his appeal. Second, § 922(g)(9) has already been applied to two of NAGE’s members; neither Hiley nor Maurice Moultrie, who likewise lost his position as deputy sheriff, can legally carry a firearm and, as a result, can no longer serve as deputy sheriffs.
+8
+Finally, the court notes that an adjudication of the merits of plaintiffs’ claims does not' depend on further factual development because plaintiffs have presented the court with an issue that is almost purely legal — i.e., whether § 922(g)(9) can be used to deprive law enforcement officers of their ability to carry a firearm. The court thus finds that plaintiffs’ claims áre “sufficiently mature” and that the issues relevant to the action are “sufficiently defined and concrete” so as “to permit effective, decision
+*1572
+making by the court.”
+Cheffer v. Reno,
+55 F.3d 1517, 1524 (11th Cir. 1995) (finding claims unripe because “[t]he parties do not raise a purely legal issue which we can decide in the abstract without further factual development”).
+9
+Accordingly, defendants’ motions to dismiss, to the extent they, are based on the doctrine of ripeness, are denied.3. Failure to State a ClaimIn addition to their challenge of the court’s subject matter jurisdiction, defendants assert that plaintiffs’ action should be dismissed under Fed.R.Civ.P. 12(b)(6) for failure to state a claim upon which relief may be granted. In deciding a Rule 12(b)(6) motion to dismiss, the court accepts the facts as pleaded in the complaint and construes them in the light most favorable to the plaintiff.
+Parr v. Woodmen of The World Life Insurance Co.,
+791 F.2d 888, 889-90 (11th Cir. 1986). Defendants can only succeed with their motion if “it appears beyond doubt that the plaintiff can prove no set of facts in support of his claim.”
+Bracewell v. Nicholson Air Services, Inc.,
+680 F.2d 103, 104 (11th Cir. 1982).Plaintiffs have set forth six theories to challenge the constitutionality of § 922(g)(9). The court analyzes these theories below and finds each of them inadequate as a matter of law.a. Commerce ClausePlaintiffs first assert that Congress exceeded its authority under the Commerce Clause with the enactment of § 922(g)(9) and that § 922(g)(9) is thus unconstitutional. In making this assertion, plaintiffs rely on the Supreme Court’s decision of
+United States n Lopez,
+514 U.S. 549, 115 S.Ct. 1624, 131 L.Ed.2d 626 (1995), in which the Court held that Congress exceeded its authority under the Commerce Clause by regulating the mere possession of a gun. Plaintiffs’ reliance on this decision is, however, misplaced. Section 922(g)(9), unlike the statute at issue in
+Lopez,
+contains a jurisdictional element, which requires the government to demonstrate that the firearm was possessed “in or affecting commerce” or received after having “been shipped or transported in interstate or foreign commerce.” This element is fatal to plaintiffs’ facial challenge to the constitutionality of § 922(g)(9).
+See, e.g., United States v. McAllister,
+77 F.3d 387, 390 (11th Cir.) (upholding the constitutionality of § 922(g)(1), which makes it unlawful for felons to possess a firearm, because it contained a jurisdictional element),
+cert. denied,
+— U.S. ---, 117 S.Ct. 262, 136 L.Ed.2d 187 (1996);
+United States v. Turner,
+77 F.3d 887, 889 (6th Cir. 1996) (noting that every court of appeals “has held that the jurisdictional element of § 922(g) provides the requisite nexus with interstate commerce that § 922(q), [the statute at issue in
+Lopez,]
+lacked”). Accordingly, defendants are entitled to dismissal of plaintiffs’ claims to the extent that those claims are brought under the Commerce Clause.b. Equal ProtectionPlaintiffs next assert that § 922(g)(9) violates the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution by: (1) irrationally distinguishing between persons convicted of misdemean- or crimes of domestic violence and persons convicted of other types of misdemeanor crimes of violence; (2) irrationally allowing felons, but not domestic violence misdemeanants, to possess a firearm once their civil rights have been restored under the laws of the relevant state; and (3) discriminating against domestic violence misdemeanants who are law enforcement officers.
+10*1573
+The court begins by noting that rational basis review is the appropriate level of scrutiny for plaintiffs’ equal protection claims because plaintiffs’ claims involve neither a suspect class nor a fundamental right.
+11
+See Price v. Tanner,
+855 F.2d 820, 823 n. 7 (11th Cir. 1988). Thus, § 922(g)(9) satisfies the equal protection requirement “if any state of facts reasonably may be conceived to justify it.”
+McGowan v. Maryland,
+366 U.S. 420, 426, 81 S.Ct. 1101, 1105, 6 L.Ed.2d 393 (1961). Legislation subject to rational basis review is presumptively constitutional.
+Id,Without doubt, Congress has selectively classified domestic violence misdemeanants as a group of individuals who should be restricted in their access to firearms. However, “an individual’s right to equal protection of the laws ... does not deny [Congress] ... the power to treat different classes of persons in different ways.”
+Johnson v. Robison,
+415 U.S. 361, 374, 94 S.Ct. 1160, 1169, 39 L.Ed.2d 389 (1974) (internal quotations omitted). “In assessing an equal protection challenge, a court is called upon only to measure the basic validity of the legislative classification.”
+Personnel Administrator of Massachusetts v. Feeney,
+442 U.S. 256, 272, 99 S.Ct. 2282, 2292, 60 L.Ed.2d 870 (1979). The court does not doubt that limiting the ability of a domestic violence misdemeanant to possess a firearm is reasonably related to Congress’ purpose of protecting public safety by keeping firearms out of the hands of potentially dangerous or irresponsible persons. As the sponsor of § 922(g)(9), Senator Lautenberg explained that “the presence of a gun dramatically increases the likelihood that domestic violence will escalate into murder.” 142 Cong. Rec. S11227 (daily ed. Sept. 25,1996) (statement of Sen. Lautenberg). Congress thus concluded that the class of individuals who have been convicted of a misdemeanor involving domestic violence should not be allowed to possess a firearm.Plaintiffs seem to concede that prohibiting domestic violence misdemeanants from possessing firearms is rationally related to a legitimate purpose and instead argue that Congress’ focus on only domestic violence misdemeanants is irrational because the growing problem of crime is such that
+all
+misdemeanants should be subject to the prohibition against possessing firearms. The court need not, however, engage in a debate as to whether Congress should have cast its net wider when it enacted § 922(g)(9) because equal protection principles are not violated when legislative reform “take[s] one step at a time, addressing itself to the phase of the problem which seems most acute to the legislative mind.”
+Williamson v. Lee Optical of Oklahoma, Inc.,
+348 U.S. 483, 489, 75 S.Ct. 461, 465, 99 L.Ed. 563 (1955).
+See also Federal Communications Commission v. Beach Communications, Inc.,
+508 U.S. 307, 316, 113 S.Ct. 2096,. 2102, 124 L.Ed.2d 211 (1993) (“the legislature must be allowed leeway to approach a perceived problem incrementally”).
+12Plaintiffs also base their equal protection challenge on an apparent anomaly that results from the application of the Act to domestic violence misdemeanants as op
+*1574
+posed to felons.
+13
+Under the Act, felons may possess a firearm, notwithstanding the- provisions of § 922(g)(1) which prohibits such possession, if their conviction “has been . expunged, or set aside or for which a person has been pardoned or has had civil rights restored.”
+14
+. 18 U.S.C. § 921(a)(20). Similarly, domestic violence misdemeanants may be allowed to possess a firearm if their conviction “has been expunged or set aside, or is an offense for which the person has been pardoned or has had civil rights restored (if the law of the applicable jurisdiction provides for the loss of civil rights under such an offense).” 18 U.S.C. § 921(a)(3S). Plaintiffs contend that because many jurisdictions, including Georgia, do not deprive misdemeanants of their civil rights, the statute produces an anomaly whereby certain felons may be able to possess firearms, but domestic violence misdemeanants will not. ■Because of the variances among the laws of the states, the anomaly with which plaintiffs are concerned may very well come to pass. Nonetheless, courts have rejected equal protection challenges to the gun control laws that rest on anomalies resulting from differing state regimens.
+See, e.g., United States v. Collins,
+61 F.3d 1379, 1383 (9th Cir.) (rejecting claim that § 922(g)(1) violates the equal protection guarantee of the Fifth Amendment even though non-uniform state laws are used to determine whether a felons’ civil rights have been restored),
+cert. denied,
+— U.S. —, 116 S.Ct. 543, 133 L.Ed.2d 446 (1995);
+United States v. Phelps,
+17 F.3d 1334, 1345 (10th Cir. 1994) (holding that § 921(a)(20) does not violate the Equal Protection. Clause even though civil rights restoration statutes vary among the states);
+United States v. Phetchanphone,
+863 F.Supp. 1543, 1548 (D.Utah 1994) (holding that Congress acted rationally when it decided to use state law to determine when restoration of rights had occurred). As the Second Circuit has explained, in the context of §§ 921(a)(20) and 922(g)(1):The very decision to have restoration triggered by events governed by state law insured anomalous results. The several states have considerably different laws governing pardon, expungement, and forfeiture and restoration of civil rights. Furthermore, states have drastically different policies as to when and under what circumstances such discretionary acts of grace should be extended. The anomaly McGrath complains of [that those who never lost their civil rights may be treated more harshly than those that temporarily did so] is but one of innumerable anomalies that § 921(a)(20) will produce. They are .the inevitable consequence of making access to the exemption depend on the differing laws and policies of the several states.‡ ‡ ‡ ‡ ‡Congress superimposed a patchwork of state law over a broad piece of federal legislation in a manner bound to produce anomalous results.... The scheme is nonetheless a rational one, notwithstanding its imperfections.McGrath v. United States,
+60 F.3d 1005, 1009 (2d Cir. 1995),
+cert. denied,
+— U.S. ---, 116 S.Ct. 929, 133 L.Ed.2d 857 (1996). Under the same rationale, the fact that some states remove a felon’s civil rights but do not remove those of a misdemeanant does not make the statute irrational.Plaintiffs seek to avoid the result dictated above by relying on
+Galioto v. Dep’t of Treasury,
+602 F.Supp. 682 (D.N.J. 1985),
+vacated as moot,
+477 U.S. 556, 106 S.Ct. 2683, 91 L.Ed.2d 459 (1986). In
+Galioto,
+the court examined an equal protection challenge to § 922(g)(4), which made it permanently unlawful for individuals with a history of mental illness to possess a firearm, and determined that there was no logical justification for allowing felons the opportunity to possess a firearm — i.e., through a pardon, restoration of civil rights, etc. — but never allowing former mental patients a similar opportunity.
+*1575
+The case at bar, however, differs significantly from
+Galioto
+because Congress has not disallowed domestic violence misdemeanants the opportunity to cure their inability to possess a firearm. Rather, Congress has provided domestic violence misdemeanants with the same mechanisms available to felons.
+Compare
+18 U.S.C. § 921(a)(20)
+with
+18 U.S.C. § 921(a)(33). As discussed above, the fact that states’ laws differ, with some failing to divest a misdemeanant of his or her civil rights such that they cannot be restored, does not render § 922(g)(9) unconstitutional.
+15Finally, the court must reject plaintiffs’ equal protection claim that § 922(g)(9) impermissibly discriminates against law enforcement officers who have been convicted of a misdemeanor crime of domestic violence. Although the ultimate effect of this facially neutral statute may be to bar certain domestic violence misdemeanants of a career that requires the ability to possess a firearm legally, “[w]hen the basic classification is rationally based, uneven effects upon particular groups within a class are ordinarily of no constitutional concern.”
+Feeney,
+at 272, 99 S.Ct. at 2292. Such uneven effects may, however, be unconstitutional if they can be traced to a discriminatory purpose.
+Id. at 272-74, 99 S.Ct. at 2293. Here, there is no evidence, and in fact plaintiffs have not alleged, that Congress sought to discriminate against law enforcement officers when it enacted § 922(g)(9).As the above discussion demonstrates, plaintiffs cannot state a claim that § 922(g)(9) violates their rights to equal protection. Accordingly, defendants are entitled to dismissal of plaintiffs’ claims to the extent that those claims are brought as an equal protection challenge.c. Due ProcessThe preceding discussion obviates the need to discuss in any detail plaintiffs’ allegation that § 922(g)(9) deprives Hiley, and will deprive other members of NAGE, of employment in violation of their rights to substantive due process.
+16
+Plaintiffs’ substantive due process claims, because they do not implicate a fundamental right, are reviewed under the rational basis test.
+TRM, Inc. v. United States,
+52 F.3d 941, 945 (11th Cir. 1995). As the court concluded above, § 922(g)(9) is rationally related to a .legitimate governmental purpose. Accordingly, § 922(g)(9) survives plaintiffs’ due process challenge, and defendants are entitled to dismissal of plaintiffs’ claims to the extent that those claims are brought under the Due Process Clause.
+17d. Ex Post FactoThe United States Constitution prohibits Congress from passing an ex post facto law. U.S. Const, art. I, § 9, cl. 3. “To fall within the
+ex post facto
+prohibition, a law must be retrospective — that is, ‘it must apply to events occurring before its enactment’— and it ‘must disadvantage the offender affected by it’ by altering the definition of criminal conduct or increasing the punishment for the crime.”
+Lynce v. Mathis,
+— U.S. ---, ---, 117 S.Ct. 891, 896, 137 L.Ed.2d 63 (1997) (quoting
+Weaver v. Graham,
+450 U.S. 24, 28-29, 101 S.Ct. 960, 964, 67 L.Ed.2d 17 (1981)). Plaintiffs’ claim that § 922(g)(9) vio
+*1576
+lates the Ex Post Facto Clause fails because § 922(g)(9) is not retrospective.Plaintiffs’ argument that § 922(g)(9) is retrospective is based on the fact that § 922(g)(9) prohibits an individual convicted of a misdemeanor crime of domestic violence from possessing a'firearm even if the individual’s conviction occurred
+prior
+to the effective date of § 922(g)(9). Defendants counter this argument by pointing out that the activity prohibited by § 922(g)(9) is the post-enactment possession of a firearm,
+not
+the preenactment misdemeanor crime of domestic violence. Defendants’ argument comports ■with the decision of
+United States v. Brady,
+26 F.3d 282 (2d Cir.),
+cert. denied,
+513 U.S. 894, 115 S.Ct. 246, 130 L.Ed.2d 168 (1994) In Brady, the Second Circuit addressed an ex post facto challenge to § 922(g)(1) whereby a defendant argued that his 1951 felony conviction could not serve as a an element of the offense prohibited by 'that section of the gun control laws. In rejecting defendant’s challenge, the court held:Regardless of the date of [defendant’s] pri- or conviction, the crime of being a felon in possession of a firearm was not committed until after the effective date of the statute .... by [the date of defendant’s conviction under § 922(g)(1), defendant] had more than adequate notice that it was illegal for him to possess a firearm because of his status as a convicted felón, and he could have conformed his conduct to the requirements of the law. Therefore, the Ex Post Facto clause was hot violated by the use of a 1951 felony conviction as a predicate for a violation of § 922(g).Brady,
+26 F.3d at 291.
+Cf. Landgraf v. USI Film Products,
+511 U.S. 244, 269 n. 24, 114 S.Ct. 1483, 1499 n. 24, 128 L.Ed.2d 229 (1994) (“[A] statute ‘is not made retroactive merely because it draws upon antecedent facts for its operation.’”) (quoting
+Cox v. Hart,
+260 U.S. 427, 434-37, 43 S.Ct. 154, 157, 67 L.Ed. 332 (1922));
+United States v. Allen,
+886 F.2d 143, 146 (8th Cir. 1989) (“So long as the actual crime for which a defendant is being sentenced occurred after the effective date of the new statute, there is no ex post facto violation.”). Finding defendants’ argument and the
+Brady
+opinion persuasive, the court holds that because § 922(g)(9) does not criminalize conduct that occurred prior to its effective date, it is not retrospective and thus not violative of the Ex Post Facto Clause.
+18
+Accordingly, defendants are entitled to dismissal of plaintiffs’ claims to the extent that those claims are brought under the Ex Post Facto Clause.e. Bill of AttainderPlaintiffs next allege that § 922(g)(9), as applied to them, imposes punishment in violation of the Bill of Attainder Clause of the United States Constitution.
+19
+In order to determine whether § 922(g)(9) inflicts forbidden punishment on plaintiffs, the court must evaluate: “(1) whether the challenged statute falls within the historical meaning of legislative punishment; (2) whether the statute, ‘viewed in terms of the type and severity of burdens imposed, reasonably can be said to further nonpunitive legislative purposes;’ and (3) whether the legislative record ‘evinces a congressional in
+*1577
+tent to punish.’ ”
+Selective Service System v. Minnesota Public Interest Research Group,
+468 U.S. 841, 852, 104 S.Ct. 3348, 3355, 82 L.Ed.2d 632 (1984) (quoting
+Nixon,
+at 471-79, 97 S.Ct. at 2805-08). Using these criteria, the court concludes that § 922(g)(9) is not a bill of attainder.Historically, bills of attainder imposed the death penalty; lesser punishments were imposed by bills of pains and penalties, which were defined to include imprisonment, banishment, and the punitive confiscation of property.
+Id.
+The Bill of Attainder Clause outlaws these penalties when imposed on a specified individual or group,
+id.,
+and also outlaws a legislative bar to participation by certain individuals or groups in specific employments or professions.
+See, e.g., United States v. Brown,
+381 U.S. 437, 85 S.Ct. 1707, 14 L.Ed.2d 484 (1965) (holding that law barring Communist Party members from office in labor unions violated the Bill of Attainder Clause). Section 922(g)(9) makes it unlawful for a group of persons — domestic violence misdemeanants — to possess a firearm. As such, it does not fall within the historical meaning of legislative punishment. The fact that § 922(g)(9) may indirectly operate as a bar on certain individuals, such as Hiley, from pursuing a career in which the ability to possess a firearm is necessary is not sufficient to deem the statute a bill of attainder.
+See, e.g., De Veau v. Braisted,
+363 U.S. 144, 80 S.Ct. 1146, 4 L.Ed.2d 1109 (1960) (rejecting a bill of attainder challenge to a statute the effect of which barred convicted felons from working on the New York and New Jersey waterfront).
+20The court thus turns to the next inquiry; namely, whether § 922(g)(9) can reasonably be said to further nonpunitive legislative purposes. Congress’ general purpose in enacting federal gun control legislation is “to curb crime by keeping ‘firearms out of the hands of those not legally entitled to possess them because of age, criminal background or incompetency.’ ”
+Huddleston v. United States,
+415 U.S. 814, 824, 94 S.Ct. 1262, 1268, 39 L.Ed.2d 782 (1974) (quoting S. Rep No. 1501, 90th Cong., 2d Sess., 22 (1968) U.S.Code Cong. & Admin.News 4410). With respect to § 922(g)(9) specifically, the legislative history demonstrates that Congress’ purpose was to protect victims of domestic violence from further harm. 142 Cong. Ree. § 11227 (daily ed. Sept. 25, 1996) (statement of Sen. Lautenberg). In light of Congress’ well-defined goals, the court can only find that § 922(g)(9) reasonably furthers nonpunitive legislative purposes.Finally, the court notes that there is no evidence in the legislative record or elsewhere that Congress enacted § 922(g)(9) with the intent of punishing domestic violence misdemeanants, and plaintiffs have not alleged any such intent. The court thus holds that § 922(g)(9) does not violate the Bill of Attainder Clause. Accordingly, defendants are entitled to dismissal of plaintiffs’ claims to the extent that those claims are brought undér the theory that § 922(g)(9) is a bill of attainder.f. Tenth AmendmentLastly, plaintiffs allege that § 922(g)(9) violates the Tenth Amendment to the United States Constitution by usurping powers reserved to the states. Earlier in this Order, the court determined that § 922(g)(9) did not violate the Commerce Clause.
+See supra
+at p. 1572. Because § 922(g)(9) is a valid exercise of Congress’ commerce authority, it cannot violate the Tenth Amendment.
+21
+See, e.g., Collins,
+61
+*1578
+F.3d at 1384 (rejecting claim that section 922(g)(1) violates the Tenth Amendment “[b]ecausethe statute is a valid exercise of Congress’ commerce authority”);
+Cheffer, 55
+F.3d at 1520 (“Because the Access Act is within Congress’ Commerce Clause power, it does not violate the Tenth Amendment.”). Accordingly, defendants are entitled to dismissal of plaintiffs’ claims to the- extent that those claims are brought under the Tenth Amendment.Preliminary InjunctionAs explained, above, defendants are entitled to dismissal of plaintiffs’ complaint on the grounds that it fails to state á claim upon which relief can be granted. It is thus unnecessary to address the merits of plaintiffs’ motion for a preliminary injunction, which is denied as moot.ConclusionAccordingly, defendants’ motions to dismiss [# 7-1 and #. 13-1] are. DENIED in part and GRANTED in part as set forth in the body of this Order. Plaintiffs’ motion for a preliminary injunction [# 3-1, as amended by # 5-1] is DENIED AS MOOT. The motions to exceed the page limitation [#8-l and # 14-1] are GRANTED. The Clerk is DIRECTED to DISMISS this action and to CLOSE the file.1. The amendments became effective immediately.
+2. The Act defines "misdemeanor crime of domestic violence” as any misdemeanor that has as an element the use or attempted use of physical force or the threatened use of a deadly weapon committed by the victim’s current or former domestic partner, parent, or guardian. 18 U.S.C. § 921(a)(33)(A).
+3. The Act also makes it unlawful for the following groups of people to ship, transport, possess, or receive firearms in or affecting commerce: felons; fugitives from justice; persons unlawfully using or addicted to controlled substances; persons adjudicated as mental defectives; persons who have been committed to a mental institution; illegal aliens; persons dishonorably discharged from the armed services; persons who have renounced their citizenship; and persons subject to a court order that restrains them from harassing, stalking, or threatening an intimate partner or child of such partner.
+See
+18 U.S.C. § 922(g)(1) — (8).
+4. The Supreme Court has also identified three prudential concerns that militate against judicial action: (1) assertion of a third party’s rights; (2) allegation of a generalized grievance rather than a particularized injury to the complaining party; and (3) assertion of an injury outside the zone of interests of the statutory or constitutional provision.
+Valley Forge,
+454 U.S. at 474-76, 102 S.Ct. at 760. Defendant has not argued, and the court does not believe, that the issues raised in this action implicate these concerns. Accordingly, the court limits its discussion to the constitutional requirements for standing.
+5. When the issue of standing forms the basis for a motion to dismiss, the court accepts the allegations in the complaint as true and construes the complaint in favor of plaintiff.
+Warth,
+422 U.S. at 500-01, 95 S.Ct. at 2206.
+6.The parties spend a considerable amount of time discussing preenforcement challenges to criminal statutes. Hiley, however, has not alleged that he has been injured by a threat of prosecution; he alleges only that he has been injured because of his dismissal as a deputy sheriff. For this reason, the court does not find the parties’ discussion regarding whether Hiley can show a reasonable threat of prosecution under § 922(g)(9) to be relevant.
+7. Defendants appear to argue that the enactment of § 922(g)(9) is not the cause of Hiley’s injury because § 922(g)(9) does not mandate his termination from employment. By this logic, however, a plaintiff seeking standing would be required to prove proximate causation. Such a showing is not necessary.
+Smith v. Block,
+784 F.2d 993, 995 (9th Cir. 1986). Indeed, ”[t]he fact that the harm to petitioners may have resulted indirectly does not in itself preclude standing.”
+Warth,
+422 U.S. at 504, 95 S.Ct. at 2208.
+8. The court is completely unpersuaded by defendants’ arguments that because Hiley, or any other individual who has been convicted of a crime, may seek a pardon of his conviction from Georgia's Board of Pardon and Paroles, his claims are not ripe for review. Likewise, the court is unpersuaded that Hiley's claims are not ripe because he has a slim chance of challenging his conviction on the grounds that he should have been afforded first offender status.
+9. The parties have not asked the court to analyze whether they will suffer hardship if the court declines to consider plaintiffs' claims. Nonetheless, the court notes that without judicial review members of NAGE who are subject to the prohibition of § 922(g)(9) will not have the opportunity to reclaim their jobs as deputy sheriffs.
+10. Plaintiffs seem to have erred in bringing this claim under the Fourteenth Amendment because the Fourteenth Amendment only applies to the states, not the federal government. The parties have addressed this claim, however, because an equal protection claim could be stated against the federal government through the Fifth Amendment, which places the same limits on the exercise of federal power as the Fourteenth Amendment places on state power.
+See Buckley v. Valeo,
+424 U.S. 1, 92-94, 96 S.Ct. 612, 670, 46
+*1573
+L.Ed.2d 659 (1976). The court thus addresses this claim as if it were brought pursuant to the Fifth Amendment.
+11. Plaintiffs originally sought to have § 922(g)(9) reviewed under the strict scrutiny standard on the grounds that the statute infringes on Hiley’s "fundamental” right to bear arms and has deprived Hiley of his employment as a deputy sheriff However, as defendants point out, it is well established that individuals do not have a fundamental right to receive or possess firearms,
+see Lewis v. United States,
+445 U.S. 55, 65 n. 8, 100 S.Ct. 915, 921 n. 8, 63 L.Ed.2d 198 (1980), and that individuals do not have a fundamental'right to public employment.
+See Personnel Administrator of. Massachusetts v. Feeney,
+442 U.S. 256, 272-74, 99 S.Ct. 2282, 2293, 60 L.Ed.2d 870 (1979). Plaintiffs, apparently recognizing the merits of defendants' contention, have abandoned their request for strict scrutiny review.
+12. Plaintiffs also contend, but have not alleged, that § 922(g)(9) is irrational because it operates to diminish public safety by reducing the number of law enforcement officers able to patrol the streets. Nothing supports this contention, and as defendants point out, Congress could rationally determine that it is more dangerous for domestic violence misdemeanants to possess firearms than for the public to face a temporary (and hopefully minuscule) reduction in officers.
+13. For simplicity, the court refers to individuals "who ha[ve] been convicted in any court of a crime punishable by imprisonment for a term .exceeding one year” as felons. 18 U.S.C. § 922(g)(1) (prohibiting such individuals from possessing a firearm).
+14. Civil rights are described by most courts as the rights to vote, to serve on a jury, and to hold . public office.
+See, e.g., United States v. Indelicato,
+97 F.3d 627, 629-30 (1st Cir. 1996), cert.
+denied, --- U.S.
+---, 117 S.Ct. 1013, 136 L.Ed.2d 890 (1997).
+15. Plaintiffs also seek to rely on
+United States v. Indelicato,
+97 F.3d 627 (1st Cir. 1996),
+cert. denied,
+— U.S. ---, 117 S.Ct. 1013, 136 L.Ed.2d 890 (1997). In that case, the First Circuit interpreted “restored” under § 921(a)(20) to include those individuals whose civil rights had never been removed.
+(Indelicato,
+it should be noted, did not involve an equal protection challenge.) Such an interpretation would, however, be nonsensical in the context of § 921(a)(33) for it would have the effect of prohibiting very few domestic violence misdemeanants from possessing a firearm.
+16. Originally, plaintiffs also brought this claim under a theory that their procedural due process rights were violated. That claim has since been abandoned.
+17. Of course, to the extent plaintiffs seek to base their due process claim on an allegation that defendant Barrett arbitrarily deprived plaintiffs of an interest in employment, their claim must fail.
+See McKinney v. Pate,
+20 F.3d 1550, 1560 (11th Cir. 1994) (holding that substantive due process claims are not cognizable when they arise from non-legislative violations of non-fundamental, state-created property rights, such as employment rights).
+18. Because § 922(g)(9) is not retrospective, the court need not address plaintiffs' argument that because Hiley will no longer be employed by Fulton County as a deputy sheriff, § 922(g)(9) imposes an additional punishment on him for his misdemeanor crime of domestic violence. A discussion of this argument is, however, necessary to plaintiffs' challenge under the Bill of Attainder Clause. As set forth below, the court determines that § 922(g)(9) does not impose punishment in violation of the Bill of Attainder Clause. This determination may provide an alternative basis for rejecting plaintiffs' challenge under the Ex Post Facto Clause, but the extent to which the same test is employed to determine what constitutes "punishment” under the two clauses is not clear.
+See, e.g., Artway v. Attorney General of State of New Jersey,
+81 F.3d 1235, 1263 (3d Cir. 1996) (examining whether Megan's Law imposed "punishment” in violation of the Ex Post Facto, Bill of Attainder, and Double Jeopardy Clauses under a single test that was developed by the court in an "attempt[ ] to harmonize a body of doctrine that has caused much disagreement in the federal and state courts”).
+19. A bill of attainder is "a law that legislatively determines guilt and inflicts punishment upon an identifiable individual without provision of the protections of a judicial trial.”
+Nixon v. Administrator of General Services,
+433 U.S. 425, 468-70, 97 S.Ct. 2777, 2803, 53 L.Ed.2d 867 (1977). Bills of attainder are prohibited by Article I, § 9, clause 3 of the Constitution.
+20. In
+De Veau,
+the challenged law did not directly forbid such employment; rather, it forbade certain unions employing former felons from collecting dues. 363 U.S. at 144-46, 80 S.Ct. at 1147. In upholding the law, the Court explained that "[t]he question in each case where unpleasant consequences are brought to bear upon an, individual for prior conduct, is whether the legislative aim was to punish that individual for past activity, or whether the restriction of the individual comes about as a relevant incident to a regulation of a present situation,” and determined "that New York sought not to punish ex-felons, but to devise what was felt to be a much-needed scheme of regulation of the waterfront, and for the effectuation of that scheme it became important whether individuals had previously been convicted of a felony.”
+Id. at 160, 80 S.Ct. at 1155.
+21. The Tenth Amendment provides that "[t]he powers not delegated to the United States by the Constitution, nor prohibited by it to the States, are reserved to the States respectively, or to the people.” U.S. Const, amend. X.

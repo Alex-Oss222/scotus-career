@@ -1,0 +1,9 @@
+# Franklyn — relevant-conduct completeness validation
+
+Final QA identified an omitted express condition in the standalone Part V rule: section 1B1.3(a)(1)'s offense connection applies to both the actor/aiding route in (A) and the joint-activity route in (B). The attributed conduct must occur during the offense of conviction, in preparation for it, or while attempting to avoid detection or responsibility for it. The [official archived 1995 Chapter 1 text](https://www.ussc.gov/guidelines/2015-guidelines-manual/archive/1995-ch1web) confirms that shared condition and the distinct scope of subsection (B).
+
+The completed description of the matching ammunition, coordinated possession and supported assistance already concerns the same offense episode. Making that existing condition explicit adds no earlier or later conduct, new finding, alternative sentencing ground or factual assumption. The rule still requires actual assistance for (A), and agreed scope, furtherance and reasonable foreseeability for (B). Neither presence nor foreseeability alone suffices.
+
+The rule and its application were clarified before final chunk validation, with no change to any frozen commitment, Justice's vote or ground, opinion author, sentence or remedy. The exact effective public copy was refreshed. The earlier source-copy hash in Griffin's frozen handoffs truthfully identifies the version actually read at those stages; the clarification concerns sentencing Part V only, and the commerce holding on which Griffin relies is byte-unchanged. Griffin assembly must identify that nonmaterial chronological refresh.
+
+This receipt is internal. It creates no new Court action or post-mandate event, changes no completed prior Run and asserts no Git operation. The Public Projection contains only the completed rule and application.

@@ -1,0 +1,42 @@
+# Fraternal Order of Police — reconciled non-Stone commitments
+
+**Event:** D.C. Circuit No. 97-5304; October 7, 1998 post-grant merits review of the August 28, 1998 judgment.
+
+**Reconciliation:** All eight Associates retain the frozen commitments: reach the developed official-use claim through the chief members; sustain the challenged section 925(a)(1) exclusion against the presented equality and arms objections; reverse the judicial extension of that exception and remand for a consistent judgment. The complete component analysis, competing paths, statutory qualifications and reservations in `freeze/FOP_COMMITMENTS.md` and `freeze/FOP_NEUTRAL_SUPPLEMENT.md` are incorporated without alteration. No author, Stone vote or final Court judgment is assigned.
+
+**Separation and durability:** The FOP neutral packet, supplement and commitments were physically frozen before the FOP comparator was read. No private Stone material, combined brief or later lower-court opinion was read. The October 5 Wright Public Projection was received only through `entering-law/WRIGHT_EFFECTIVE.md`. This handoff's identical frozen copy is authoritative for assembly; no Git operation is used.
+
+## Comparator and effective law
+
+There is no historical Supreme Court merits comparator, alignment or opinion for this lower-court grant. No Justice-specific historical departure can be attributed to the eight Associates. The lower-court judges' authorship does not inform assignment.
+
+The comparator identifies a historical rehearing grant on November 12, 1998 and a later decision dated April 16, 1999. Both follow this event's October 7, 1998 cutoff and are excluded from the decision's premises, law, reasons and procedural state. Neither vacates the August 28 judgment in this proceeding, confirms a Supreme Court vote, nor supplies a missing legislative or record fact. The later opinion was not opened. The operative judgment remains the original reversal and official-use extension.
+
+The government’s collective-only arms premise differs concretely from entering Love, Hale, Rybar and Wright law. Every Associate’s own Hale, Rybar and Wright joins support personal invocation and a distinct inquiry into the restriction. Their frozen FOP conclusions preserve that distinction: neither official work alone nor absence of an employment entitlement extinguishes the arms right. The narrower ground sustains refusal of this particular government-issuance exception for the qualifying conviction category, with the supported conduct-based public-safety justification. It does not decide every private-possession application or establish a universal scrutiny tier. Wright's machinegun remand rested on an unperformed, expressly reserved arms application; its holding expressly disclaims automatic remand and supplies no requirement to invent an individual officer's private-possession claim here.
+
+Beach, both distinct Heller components, Romer and United Food/Brown Group were checked in the supplied entering-law slices. Their qualifications remain intact: ordinary equality review requires a rational relation to the actual disadvantage; the official supply route and newly covered domestic-violence category provide the frozen rationale, not a bare public-safety label. No assumption that all States prohibit every felon from carrying official arms is required. The gap-filling defense remains analytical, not a statement that the government actually briefed it or Congress made a particular finding. Hunt's third condition is not generally waived by United Food's WARN-specific authorization.
+
+## Per-Justice confirmation
+
+Each row confirms all components stated above and adopts only the frozen grounds and limits.
+
+| Justice | Sufficient grounds retained | Material join limits |
+|---|---|---|
+| Stevens | United Food supports real member injury and this prospective representative claim; his Hale/Rybar/Wright joins preserve personal invocation; his Heller and Romer joins require the supplied connection between the actual disadvantage and closing the newly addressed access route. | No unexplained lower-offense penalty, categorical arms exclusion or automatic rationality for any public-safety assertion. |
+| O'Connor | Her Love/Hale writings and Wright join support the distinct arms application; United Food, Beach, both Heller components and Romer permit the fitted but imperfect official-use classification. | No collective-only theory, required repair of every older exemption, or conclusion about every private weapon or offender. |
+| Scalia | United Food supplies the injury distinction; Beach and his Heller family-participation join permit relevant generalizations; Hale/Rybar/Wright preserve personal protection with lawful regulation. | Personal-holder status alone supplies neither an absolute official-use entitlement nor an adopted scrutiny tier; section 925(a)(1) does not exempt every privately held weapon of an official. |
+| Kennedy | United Food and his Rybar writing support standing and personal invocation; his Heller family-participation opinion and Romer join permit the particular relevant distinction. | The felony comparator requires the given explanation; no comprehensive arms-disability rule or demand for perfect state/federal uniformity. |
+| Souter | His United Food opinion preserves concrete member injury; his Heller and Romer writings require a relation to the actual unequal burden, supplied here by the new category and official supply route; Hale/Rybar/Wright preserve personal invocation. | Labels or generic crime costs are insufficient; no universal legislative immunity or required finding of animus. |
+| Thomas | His Beach opinion permits conceivable legitimate grounds while retaining Moreno/Cleburne; United Food and Love/Hale/Rybar/Wright support the bounded standing and arms results. | No denial of the individual right, blanket governmental-use exclusion from coverage, or judicial invention of a statutory exemption. |
+| Ginsburg | United Food and Romer support actual injury and fit; her later Hale/Rybar/Wright joins govern the personal-right premise despite her original Love disagreement. | Preserve the conviction-relief qualifications and properly presented individual claims; this targeted access restriction is not Romer's blanket foreclosure. |
+| Breyer | United Food and Romer support representative review and a relevant classification; Hale/Rybar/Wright separate personal invocation from permissible regulation. | Practical gap-filling must connect to this access route and covered conduct; no universal state-law factual claim or generic social-cost rationale. |
+
+## Scope, remedy and source limits
+
+Standing is limited to the developed official-use equality controversy through the chiefs' operational injury and conditional supply exposure, using Hunt, Craig and Barrows. It supplies no universal third-party exception or private-possession injury. The ordinary merits-submission premise establishes no argument date; no case-specific nonparticipation is shown.
+
+The complete statutory qualifications in the frozen supplement remain operative, including firearms and ammunition, section 922(d)'s knowledge or reasonable-cause requirement, section 922(g)'s distinct commerce language, the qualifying offense and relationship definition, counsel and jury-where-entitled protections, conviction-relief exclusions and their express firearms reservation, and the separate section 922(p) limit in section 925(a)(1). No funded section 925(c) process, administrative denial or entitlement to relief is assumed. No formulation may make the disability literally relief-free.
+
+The remand does not expand or remove an exemption after the constitutional objections fail. Section 928 does not itself select extension as a remedy. Whether never-lost civil rights count as restored remains unresolved. Undeveloped Commerce, Tenth Amendment and broader private-possession theories are neither decided nor revived through a generic remand. No individual conviction history, weapon configuration or rehabilitation evidence is invented.
+
+The original official opinion and date-eligible Code text provide the supported scope; the former's state-law descriptions remain source recitations, not independent findings by this stage. No unresolved material source blocker remains for the frozen bounded disposition. The absent Supreme Court comparator and excluded future lower-court history are limits, not litigant default or a reason to replace the modeled commitments.

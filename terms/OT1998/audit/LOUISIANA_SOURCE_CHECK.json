@@ -1,0 +1,10 @@
+{
+  "official_reporter_pages": "525 U.S. 1\u201332",
+  "source": "https://www.supremecourt.gov/opinions/boundvolumes/525bv.pdf",
+  "proposal_source": "https://www.justice.gov/osg/brief/original-us-v-louisiana-motion-entry-supplemental-decree",
+  "reporter_coordinate_tokens": 1961,
+  "proposal_coordinate_tokens": 1961,
+  "ordered_coordinate_tokens_identical": true,
+  "map_visually_reviewed": true,
+  "meaning": "Source identity check only; no Court action entered."
+}

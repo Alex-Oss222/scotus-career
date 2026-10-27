@@ -1,0 +1,30 @@
+# OT1998 chunk 1 — NAACP provisional Associate commitments
+
+**Boundary:** Independent neutral/model context. No matter-specific comparator, Stone supplement or historical Supreme Court outcome supplied. The new neutral receipt records the actual lower court's standing assumption; no hidden factual premise is added. No Git operation. Research cutoff November 5, 1998. Opening law through September 28 applies provisionally pending chronological confirmation of effective OT1998 additions.
+
+## Proposed threshold action
+
+Vacate the Ninth Circuit judgment and remand for a genuine Article III determination on the existing pleadings and appropriate record, without deciding the wealth-primary or optional-statement merits. The Ninth Circuit expressly assumed standing after the District Court found no injury in fact; the current source account does not settle a concrete continuing or impending injury supporting the prospective relief sought. The appellate court must separate personal injury and likely redress from whether the Constitution ultimately requires funding or cost-free publication. This is not a holding that every plaintiff lacks standing, an order for a new evidentiary hearing, an entitlement to amend, or a command to finance campaigns.
+
+## Independent commitments and material comparison
+
+| Associate | Commitment and date-eligible support | Strongest competing path and join limit |
+|---|---|---|
+| Stevens | Vacate for standing determination. Lujan's general injury requirements and the binding Steel Co. rule require a real jurisdictional basis; his statutory-first position in Steel Co. did not authorize deciding a contested constitutional merits claim on assumed power. | Smith, his September 21 opinion, and Buckley make the subsidy claim weak. But Smith requires examining actual burden and does not decide this pamphlet or these plaintiffs' jurisdiction. Will not convert failure of a constitutional theory into absence of factual injury. |
+| O'Connor | Same, under her Steel Co. Part I join and sequencing reservation plus Lujan. | Norton/Avrech remain confined already-controlled cases; the distinct optional-speech claim and actual standing dispute are not established as one. No universal sequence for all nonmerits issues. |
+| Scalia | Same, under his Steel Co. Parts I–II and Lujan. A former candidate and generalized financial disadvantage cannot be supplemented with invented prospective exposure. | Merits are not a shortcut merely because financial-equality arguments appear unsuccessful. No finding that the full complaint lacks allegations simply because a report omits them. |
+| Kennedy | Same, under his Steel Co. Part I join with nonexhaustive reservation and his Smith join. | Government funding remains reviewable, but the threshold issue must actually be answered before resolving the disputed pamphlet burden. |
+| Souter | Same, bound by Steel Co.; his statutory-first Steel Co. position and Smith join do not identify a statutory ground disposing of this constitutional action. | Could reject general public-financing entitlement once jurisdiction exists; rejects an advisory merits disposition now. |
+| Thomas | Same, under his Steel Co. joins and Lujan's personal-injury discipline. | A broad no-subsidy rule cannot supply jurisdiction. No merits disposition through a conclusory frivolousness label. |
+| Ginsburg | Same; her Steel Co. statutory-first position did not establish general hypothetical jurisdiction, and her Smith join preserved election-specific burden review. | An alleged publication charge can be a real injury even if lawful. The lower court must distinguish injury from entitlement. |
+| Breyer | Same; his Steel Co. Part II join requires actual redress of supported continuing/imminent injury, and his Smith join supplies no resolution of this pleading issue. | Practical merits simplicity does not establish the existing exception; joins a confined remand rather than universal sequencing for all threshold questions. |
+
+## Alternative paths and present limits
+
+The strongest merits route would affirm: the First and Fourteenth Amendments protect voting, candidacy and speech against actual restrictions but do not generally promise equal campaigning resources; Buckley distinguishes subsidy from ballot exclusion. A uniform actual-cost charge for an optional means of communication differs from Harper's fee on voting and Bullock/Lubin's exclusionary filing fees. Smith nevertheless requires examining the real burden and precise allocation interest, and does not immunize viewpoint discrimination. These observations identify live merits questions; they are not adopted holdings in the threshold disposition.
+
+Immediate dismissal for lack of standing would treat former candidacy and generalized financial disadvantage as the whole pleaded case. The published source is insufficient for that stronger characterization: it reports the District Court's jurisdictional result and appellate assumption but does not reproduce every material allegation. Remand to resolve the actual pleading question is therefore the supported narrower disposition. It supplies no mandatory hearing, production demand, new claim, future candidacy or presumption of standing.
+
+**Compatible scope:** All eight Associates support vacatur and bounded remand on the stated jurisdictional ground. They do not approve fees, order funding, decide the absent indigent claim, reopen state claims or adjudicate unverified future injury. No separate writing is needed merely to repeat shared limits. Any assembly proposal reaching merits must first supply a supported Article III ground; a material new jurisdictional fact returns to clean neutral/model stages.
+
+**Sources:** Frozen neutral packet and supplement; OTHER slice, Citizens for a Better Environment v. Steel Co. and both Smith entries; Smith's public opinion in OT1997/output/OT_1997CHUNK13.md; Lujan, Bennett, Bell v. Hood, Norton and Avrech at their preserved scope. Lower opinion: https://caselaw.findlaw.com/court/us-9th-circuit/1257053.html . No original complaint or unreported future-candidacy allegation is claimed read.

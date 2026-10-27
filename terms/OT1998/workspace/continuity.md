@@ -1,7 +1,5 @@
 # OT1998 Term Continuity Note
 
-**Status:** Opening projection, before the first OT1998 event. Records control over this projection.
-
 ## Scope and Chronology Cursor
 
 The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchronized [doctrinal Holdings volumes](../../../state/holdings/), [Standards and Tests](../../../state/STANDARDS_AND_TESTS.md), and [Standing State](../../../state/STANDING_STATE.md). Their common publication fields are:
@@ -10,39 +8,170 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 - **Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
 - **Edition:** October 26, 2026
 
-Standing State identifies the opening term as 1998. The divergence point is October 7, 1991. No OT1998 event or source change has been completed. The completed chronology cursor remains **1998-09-28**; opening the workspace does not advance it. The first scheduled item is **United States v. Wright**, Eleventh Circuit No. 95-8397, on **1998-10-05**, in chunk 1. Its scheduled date is not a completed decision.
 
-The [manifest](manifest.md) covers the 128 indexed tasks plus 13 additional undated carryovers, without duplicating the New Jersey decree matter. The [ledger](ledger.md) is empty. No current-term change has been applied.
-
-### Latest completed events from earlier terms
-
-| Earlier term | Latest completed date | Latest completed Court event or same-day group | Source |
-|---|---|---|---|
-| OT1991 | 1992-07-17 | Benten v. Kessler, application to vacate stay | [Close dossier](../../OT1991/close/TERM_CLOSE_DOSSIER.md) |
-| OT1992 | 1993-07-26 | DeBoer v. DeBoer, A-64, application | [Close dossier](../../OT1992/close/TERM_CLOSE_DOSSIER.md) |
-| OT1993 | 1994-06-30 | McFarland; Holder; Johnson v. De Grandy and companions; Madsen; Bagwell; Tuilaepa / Proctor | [Close dossier](../../OT1993/close/TERM_CLOSE_DOSSIER.md) |
-| OT1994 | 1995-06-29 | Sweet Home; Rosenberger; Pinette; Chabad-Lubavitch; Miller / Johnson / Abrams | [Close dossier](../../OT1994/close/TERM_CLOSE_DOSSIER.md) |
-| OT1995 | 1996-07-01 | Pennsylvania v. Labron / Kilgore; United States v. Winstar | [Close dossier](../../OT1995/close/TERM_CLOSE_DOSSIER.md) |
-| OT1996 | 1997-09-15 | Harrison v. Eddy Potash, merits | [Close dossier](../../OT1996/close/TERM_CLOSE_DOSSIER.md) |
-| OT1997 | 1998-09-28 | Ino Ino; Lucas v. Johnson; Newton County Wildlife; SEC v. First Jersey; McKenzie v. BellSouth | [Close dossier](../../OT1997/close/TERM_CLOSE_DOSSIER.md) |
-
-Listing members of a same-day group does not establish a sequence. The established Holder-to-De Grandy and Pinette-to-Chabad coordination remains part of prior-term continuity.
+Completed through **1998-11-12**. 11 Court events; no current-term admitted source. The [manifest](manifest.md) and [ledger](ledger.md) identify durable records and pending events. The opening setting is preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md). Records control over this projection.
 
 ## Completed Events and Admitted Sources
 
-None in OT1998. The opening calendar and the user's inventory decisions are not Court events or Admitted Source Records. No correction to an adjudication has been made.
+| Effective date | Matter | Disposition | Canonical Record |
+|---|---|---|---|
+| 1998-10-05 | United States v. Wright | The judgment is affirmed in part, vacated in part and remanded. The Court issues a signed opinion after merits briefing, preserving the separate conviction and sentencing grounds stated below. | [record](../records/united_states_v_wright_merits_1998-10-05.md) |
+| 1998-10-07 | Fraternal Order of Police v. United States | The Court reverses the judgment extending the official-use exception and remands, unanimously. | [record](../records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md) |
+| 1998-10-09 | Hiley v. Barrett | The Court affirms the judgment dismissing the surviving federal constitutional action, unanimously, on the separate grounds stated below. | [record](../records/hiley_v_barrett_merits_1998-10-09.md) |
+| 1998-10-13 | United States v. Louisiana (Texas Boundary Case) | The joint motion is granted. The Court enters the unsigned supplemental decree, including paragraphs 1-5 and the complete coordinate schedule, with its accompanying illustrative map. | [record](../records/united_states_v_louisiana_supplemental_decree_1998-10-13.md) |
+| 1998-10-15 | Peoples Rights Organization, Inc. v. City of Columbus | The Court announces its signed merits decision affirming in part, reversing in part and remanding. | [record](../records/peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md) |
+| 1998-10-22 | United States v. Franklyn / United States v. Gonzalez | The Court announces its signed decision affirming both consolidated judgments. | [record](../records/united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md) |
+| 1998-10-29 | United States v. Griffin / United States v. Langley | The Court announces its unanimous signed decision affirming both judgments. | [record](../records/united_states_v_griffin_and_langley_merits_1998-10-29.md) |
+| 1998-11-03 | Marquez v. Screen Actors Guild, Inc., No. 97-1056. | The judgment of the Ninth Circuit is affirmed on the two questions presented. | [record](../records/marquez_v_screen_actors_guild_merits_1998-11-03.md) |
+| 1998-11-10 | Coalition for Economic Equity v. Wilson | The judgment is vacated and the case remanded for confined preliminary protection and further proceedings consistent with the separate constitutional and statutory holdings. | [record](../records/coalition_for_economic_equity_v_wilson_merits_1998-11-10.md) |
+| 1998-11-10 | Pfaff v. Wells Electronics, Inc., No. 97-1130. | The Federal Circuit's invalidity judgment on the reviewed patent claims is affirmed. | [record](../records/pfaff_v_wells_electronics_merits_1998-11-10.md) |
+| 1998-11-12 | Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768. | The Third Circuit's judgment reversing summary judgment is affirmed. | [record](../records/merrill_lynch_v_kravitz_merits_1998-11-12.md) |
 
 ## Current Law
 
-No OT1998 holding, order, admitted source, or doctrinal change has been entered. The published baseline supplies all prior controlling law, with its proposition-level authority, exceptions, precedent treatment, remedies, current force, and unresolved questions intact. The doctrinal volumes and Standards and Tests are complementary authorities; this note creates no substitute test or synthesis.
+### United States v. Wright — 1998-10-05
 
-The November 26, 1997 amendment to 18 U.S.C. section 3626 in Pub. L. 105-119, section 123 is already included in the completed OT1997 baseline. It is not admitted again or treated as an OT1998 event. Its exact text, temporal limits, and the Rouse treatment remain available in the [admitted source's public projection](../../OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md#public-projection) and the published trackers. A missing historical predicate is not supplied by scheduling a later case.
+Effective October 5, 1998, the commerce and registration rules are applied without expansion, and the personal arms guarantee remains independent of militia affiliation. The validity of this machinegun restriction under that guarantee remains for the required application; the Court adopts neither a comprehensive scrutiny tier nor a categorical automatic-weapons exception. The registration conviction remains affirmed on grounds independent of that unresolved application.
 
-Del Monte Dunes remains governed by its completed June 16, 1997 judgment. The reconciliation-only inventory slot supplies no replacement judgment, new holding, or authorization to alter that adjudication.
+The decision supplies the controlling section 3E1.1 application that a nonfrivolous legal challenge unrelated to admitted factual guilt alone cannot disqualify an otherwise deserving defendant. Genuine acceptance remains an individualized determination, and a legally compromised sentence cannot be sustained by an appellate characterization that does not establish an independent lawful ground. The narrow Ninth Amendment ruling rejects this asserted independent exemption without establishing a general theory of unenumerated rights. Stone-Zsela's proposed burden-and-fit framework and affirmative machinegun application are not the Court's law.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/united_states_v_wright_merits_1998-10-05.md#holdings).
+
+### Fraternal Order of Police v. United States — 1998-10-07
+
+Effective October 7, 1998, the developed official-use exclusion survives the equality and personal-arms challenges, and the judicial extension of section 925(a)(1) is reversed. The Court applies existing associational-standing and rationality doctrine to this uniform official-supply controversy and sustains a conduct-linked restriction without creating a universal arms-disability test. All statutory conviction safeguards, relief exclusions and governmental-channel qualifications remain operative. Private-possession applications, individual classification and restoration disputes, never-lost civil rights, and any properly preserved unresolved commerce or commandeering ground remain outside this decision's merits holding.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/fraternal_order_of_police_v_united_states_merits_1998-10-07.md#holdings).
+
+### Hiley v. Barrett — 1998-10-09
+
+Effective October 9, 1998, section 922(g)(9) survives the presented facial commerce challenge through the identified relationship between prohibited supply to qualifying recipients and their possession, with enacted interstate conditions retained. This is a distinct application of necessary inclusion beyond the machinegun-stock cases, not a universal historical-movement rule.
+
+The three preserved equality theories and the substantive employment claim fail on their separate grounds. The prospective conduct rule survives the Ex Post Facto challenge, and the distinct attainder inquiry finds no legislative punishment here. The direct rule commands no state administration on the presented record. Personal arms protection remains governing, while abandoned claims, a genuinely different private-possession application, individual qualification and restoration disputes, and criminal notice or mental-state questions remain unadjudicated. Stone-Zsela's additional personal-right application and never-lost-rights interpretation are noncontrolling.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/hiley_v_barrett_merits_1998-10-09.md#holdings).
+
+### United States v. Louisiana (Texas Boundary Case) — 1998-10-13
+
+Effective October 13, 1998, the complete attached coordinate line controls the described Texas-United States submerged-land boundary and is fixed against later coastline movement. The prior entitlement, Mexico and Texas-Louisiana bounds, and every section 5 exception remain operative. The May 5, 1969 description no longer keeps that federal-state line ambulatory. Other States' boundary phases remain unchanged; the map is illustrative and retained jurisdiction permits lawful implementation without a new general coastal rule.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/united_states_v_louisiana_supplemental_decree_1998-10-13.md#holdings).
+
+### Peoples Rights Organization, Inc. v. City of Columbus — 1998-10-15
+
+Effective October 15, 1998, the two undefined handgun-modification branches remain invalid, together with any attempted independent reliance on them through restoration or parts references. The other challenged definitions survive the stated categorical vagueness theories only under the Court's express constructions and the enacted fault conditions. All actual elements and distinct thresholds remain necessary; personal possession alone does not establish liability.
+
+The two former-city-registration exceptions and the distinct NFA and inert-object magazine alternatives survive the presented ordinary equality challenges. No new registry, individual exemption adjudication or substantive assault-weapon ruling is created. Love's personal protection remains governing. A materially different construction or prosecution cannot claim validation from this decision. Ohio severability and conforming relief remain for the lower courts.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md#holdings).
+
+### United States v. Franklyn / United States v. Gonzalez — 1998-10-22
+
+Effective October 22, 1998, the machinegun-stock rule sustains Franklyn's section 922(o) conviction without adding interstate travel as an element. The distinct supply-and-recipient method sustains Gonzalez's section 922(g)(1) ammunition conviction, with its enacted nexus separately satisfied. No substantive arms application is decided.
+
+The actual ultimate discrimination finding and the independent Strickland prejudice inquiry sustain Franklyn's two convictions against the jury-selection claims. Gonzalez's supported attribution, discharge and total-history determinations survive at their stated scopes, with the offender-characteristic nonreach and evidentiary safeguards intact. His 63-month sentence is affirmed; the decision creates no new enhancement, sentencing fact, universal attribution rule or categorical permission for neighborhood-, education-, employment- or drug-status departures.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md#holdings).
+
+### United States v. Griffin / United States v. Langley — 1998-10-29
+
+Effective October 29, 1998, the sections 922(d)(1) and 922(g)(1) supply-and-recipient mechanism governs these two local pistol possessions. The constitutional basis, the enacted nexus and evidence proving that nexus remain separate inquiries. No contemporaneous movement or individual direct-effect element is added, while proof beyond a reasonable doubt remains necessary for each firearm.
+
+Both convictions stand on the expert testimony concerning both Connecticut-manufactured pistols and their separate North Carolina possession. The decision supplies no new arms claim, universal approval of every status restriction, recipient mental-state rule, replacement jury charge or sentencing holding.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/united_states_v_griffin_and_langley_merits_1998-10-29.md#holdings).
+
+### Marquez v. Screen Actors Guild, Inc., No. 97-1056. — 1998-11-03
+
+Statutory membership language may be used in a collective-bargaining agreement without reproducing all its legal qualifications, but the union remains bound by those qualifications in its conduct. The drafting rule supplies no safe harbor against supported notice, collection or enforcement claims.
+
+A statutory administration dispute remains initially with the Board unless the operative facts independently support a judicial representation claim requiring resolution of that statutory issue. The two distinct routes retain their own predicates; neither the duty label nor an unrelated pending claim supplies the missing judicial basis.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/marquez_v_screen_actors_guild_merits_1998-11-03.md#holdings).
+
+### Coalition for Economic Equity v. Wilson — 1998-11-10
+
+The racial political-process rule applies to a supported selective relocation of authority over otherwise lawful remedies despite a substantive preference label. It does not require a program, permanently invalidate every part of Proposition 209, or displace the existing constitutional standards for racial and sex classifications. The sex challenge remains distinct. Title VII permission alone supplies no blanket preemption; concrete federal duties retain their force. Preliminary relief must track the supported injury and preserve severable lawful operation.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/coalition_for_economic_equity_v_wilson_merits_1998-11-10.md#holdings).
+
+### Pfaff v. Wells Electronics, Inc., No. 97-1130. — 1998-11-10
+
+Courts applying the then-effective on-sale bar must separately determine whether a commercial offer in the United States and enabling readiness existed more than one year before the patent application in the United States. A prototype is one way to establish readiness; enabling drawings or descriptions are another. Neither commercial purpose alone nor later successful development supplies a missing precritical-date condition.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/pfaff_v_wells_electronics_merits_1998-11-10.md#holdings).
+
+### Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768. — 1998-11-12
+
+A customer's claim may proceed on evidence of a broker's own knowingly false best-execution undertaking. Neither a published quotation benchmark nor industry custom categorically forecloses that claim. Practical execution circumstances and the full requirements of private fraud remain essential. The Court leaves the broader primary-recklessness question unresolved, and no new execution regulation or automatic price guarantee follows.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/merrill_lynch_v_kravitz_merits_1998-11-12.md#holdings).
 
 ## Material Published Noncontrolling Positions
 
-There are no current-term published noncontrolling positions. Earlier published positions retain their stated noncontrolling scope and must be read from the relevant prior-term public renders when material to a case; Standing State carries none. The first firearms sequence requires the date-eligible public Rybar writings and applicable prior arms and Commerce Clause law.
+### United States v. Wright — 1998-10-05
+
+**Chief Justice Stone-Zsela, concurring in the judgment in part and dissenting in part, unjoined.** He would affirm both convictions and vacate the sentence. He proposes an arms inquiry requiring the strongest justification for a prohibition that destroys ordinary lawful armed self-defense and a substantial, demonstrable fit for other serious burdens. The inquiry asks what protected conduct is foreclosed, how severely, and whether the government's actual justification fits that burden. Public safety is weighty but cannot substitute for that examination. Dangerous uses, demonstrably dangerous persons and unusually hazardous weapon functions call for attention to the reasons for the restriction's scope. History informs protection and permissible regulation without becoming a closed catalogue. *Love* establishes the personal holder and incorporation; *Hale* and *Rybar* reject affiliation-based exclusion and military-utility immunity. Those decisions did not already adopt his proposed tier of review.
+
+He would sustain the one machinegun count on the admitted completed .223 automatic weapon: repeated fire from one trigger function presents rapid, difficult-to-control discharge beyond ordinary semiautomatic operation. Restricting additions to civilian automatic-weapon stock directly addresses that function while leaving ordinary defensive arms available. The post-1986 scope and existing-stock exception inform the burden; military labels do not decide it. The completed weapon independently supports his count-specific affirmance, without a ruling on all disassembled receivers or conversion parts. He reads *Rybar* to require the previously missing arms analysis, which the Court may perform on an adequate record, rather than a return in every case. His affirmative disposition depends on the plea or charge independently establishing that completed-weapon basis. He adopts no universal numerical magazine limit, militia exclusion, categorical military-weapon immunity or comprehensive prohibited-arms list.
+
+For the separate pipe-bomb count, he concludes that registering explosive destructive devices does not extinguish ordinary defensive keeping; *Hale* supports keeping registration separate. He rejects the commerce objection because removing possession would permit acquisition, retention and recirculation of prohibited stock under *Hale*, *Rybar* and *Kirk*, while preserving *Lopez*'s limit on generalized crime costs and declining a rule based merely on out-of-state manufacture. He rejects an unlimited Ninth Amendment exemption from these fitted restrictions.
+
+On sentencing, he agrees that the quoted remarks mix sincerity with the erroneous affiliation premise and do not establish that an independent lawful finding controlled. The section 3E1.1 commentary forecloses denial solely for the reserved legal challenge. Resentencing must evaluate actual remorse, candor and conduct without treating that legal defense as factual nonacceptance. He would order no automatic adjustment and would not resolve credibility on appeal. His proposed disposition entails no acquittal, return of weapons or new trial. He does not join the Court's opinion.
+
+### Hiley v. Barrett — 1998-10-09
+
+**Chief Justice Stone-Zsela, concurring in the judgment, unjoined.** He agrees with the entire affirmance on his stated grounds without joining the Court's opinion. He preserves a distinct personal-right and classification ground. *Love* protects persons but does not make adjudicated violent conduct irrelevant. The force, attempted-force or deadly-weapon predicate within a domestic relationship, together with counsel and jury-where-entitled protections and the statute's relief provisions, connects the disability to preventing armed recurrence. A misdemeanor label and armed employment do not eliminate that connection. Hiley's particular predicate is treated as qualifying here; no new conviction is invented.
+
+He would not rewrite retained civil rights as restored rights merely because state systems differ or some misdemeanors caused no initial rights loss. That statutory position goes beyond the Court's decision to leave the never-lost-rights construction unresolved. His personal-right discussion supplies his alternative ground for rejecting the preserved classification challenge; it does not adjudicate a separately preserved arms cause or revive procedural due process. He approves no disarmament based on any misdemeanor, an allegation or a nonviolent status, and leaves a genuinely different as-applied record open.
+
+He retains jurisdiction because successful federal relief would restore Hiley's armed-deputy assignment, while respecting the local settlement. His reasoning preserves the identified supply-and-possession mechanism, the distinct rejection of a state-administration command, and the prospective, nonpunitive character of this restriction. He would neither issue a criminal judgment, order reinstatement, reopen settled claims nor decide a future prosecution's notice defense or a claimed breach of the settlement.
+
+### United States v. Louisiana (Texas Boundary Case) — 1998-10-13
+
+No separate writing issues.
+
+### Peoples Rights Organization, Inc. v. City of Columbus — 1998-10-15
+
+**Justice Stevens, concurring in part and dissenting in part, unjoined.** He joins the Court's threshold, fault, definition and noncity-exception analyses and its common severability principles. He would affirm invalidity of both former-city-registration selectors. His Nordlinger objection to entrenched ownership and family preferences and his Heller and Romer positions require a meaningful relation to an impartial public purpose. Lawful pre-existing owners who registered and those unable to identify the invalid old duty are alike in the ownership reliance invoked here. Owners first covered by the replacement ordinance had no meaningful opportunity to enter the only registry. For him those defects disconnect the closed registry from the claimed protection, even though actual registration occurred. A clear prospective cutoff or an opportunity for all covered prior owners would present a different case. He does not require universal grandfathering, invalidate the independent NFA or inert-object exceptions, or design a replacement scheme.
+
+**Chief Justice Stone-Zsela, concurring in the judgment in part and dissenting in part, unjoined.** He would affirm the Sixth Circuit's relief against all five challenged definition categories and both former-city-registration distinctions, while sustaining the remaining NFA magazine exception. Smolak and Walker's actual possession, closed registration window and threatened prosecution justify present review; P.R.O. seeks common relief for similarly situated members. No advisory judgment about a wholly hypothetical weapon is warranted.
+
+In his view, the rifle definition does not choose among actual magazine possession, commercial availability and merely possible manufacture; the shotgun definition does not select a measuring shell length. Undefined modification and inaccessible original handgun-design history compound the handgun defect. Restoration and parts provisions inherit those uncertainties and add uncertain assembly conditions. Criminal exposure without a clear culpability safeguard makes those defects consequential for ordinary owners and grants enforcement discretion the text does not constrain. The City's conflicting suggested knowledge standard cannot rewrite the ordinance. He therefore does not adopt the Court's default-fault and definition constructions. Love reinforces intelligible notice for protected keeping but establishes neither a right to every listed weapon nor a judicially chosen capacity limit.
+
+He rejects grandfathering based on success in guessing an invalid 1989 registration duty. That objection reaches section 2323.31(B)(3) and the matching city clause in section 2323.32(B)(2). NFA registration instead supplies an independent, intelligible reliance basis. Its broader coverage than magazines individually used with the registered firearm survives ordinary rationality under Romer without exact tailoring. He also agrees with the judgment sustaining the separate related inert-object magazine exception, adding no ground on that component. He would implement the declaratory and injunctive relief for the invalid provisions, preserve separable valid exceptions, and enact neither damages nor a fresh registry. He decides no unpresented substantive arms claim and joins no part of the Court's opinion.
+
+### United States v. Franklyn / United States v. Gonzalez — 1998-10-22
+
+**Chief Justice Stone-Zsela, concurring in the judgment, unjoined.** He agrees that the consolidated judgments should be affirmed while keeping each appellant's issues separate. Franklyn's completed automatic weapon falls within the national stock restriction: without the possession rule, prohibited new stock could be retained and circulated beyond transfer enforcement. Hale, Rybar and Kirk therefore supply the fitted mechanism, without a new interstate-travel element or a general claim that local violence affects national productivity. He supplies no Second Amendment ruling.
+
+He regards the late strike objection, made after the venire members had been excused, as a genuine preservation problem because the ordinary opportunity for immediate correction was lost. His counsel analysis also depends on the reported alternative determination actually crediting the prosecutor's explanations in context. Hernandez permits respect for that supported ultimate finding; neutral wording alone would not suffice. On that finding, earlier objection would not probably have produced a different outcome and Strickland prejudice is unproved. If the actual transcript showed only facial neutrality, the alternative ground could not substitute for a missing ultimate determination. He preserves that condition and supplies no missing juror explanation.
+
+For Gonzalez's sentence, jointly undertaken conduct and foreseeability must connect the machinegun and discharge to him; physical proximity alone cannot do so. The ammunition and coordinated episode supply the reported basis. Actual discharge adds danger not exhausted by the possession calculation, supporting section 5K2.6. Separately, prior weapons and drug conduct insufficiently reflected in the initial criminal-history score can support section 4A1.3 if the selected category is explained. Koon permits respect for the contextual decision while forbidding an unexplained increase or repeated punishment for an already-counted factor. He adds no factual finding, increases no sentence and adopts no automatic rule for all ammunition offenders.
+
+He also agrees with the dispositions of Gonzalez's separate section 922(g) commerce objection and the other-trial-evidence and within-range-selection components, adding no grounds on those components. No new trial or resentencing follows from the reported record. He joins no part of the Court's opinion.
+
+### United States v. Griffin / United States v. Langley — 1998-10-29
+
+No separate writing issues; all nine Justices join the complete opinion.
+
+### Marquez v. Screen Actors Guild, Inc., No. 97-1056. — 1998-11-03
+
+No separate writing is filed. The common opinion preserves the limits concerning actual deception, notice, enforcement and statutory jurisdiction.
+
+### Coalition for Economic Equity v. Wilson — 1998-11-10
+
+O'Connor, joined by Scalia, Kennedy and Thomas, agrees that voluntary-action permission does not establish blanket Title VII preemption, but would affirm vacatur of the preliminary injunction. The dissent treats Proposition 209 as a statewide substantive restriction on officials' classifications, leaving ordinary antidiscrimination protection available. Crawford preserves the State's choice to withdraw optional policies; lawful remedies under Hopwood and Engineering Contractors are not compulsory policies. Hunter concerned unequal access to ordinary racial protection, and Seattle concerned specially displaced desegregation authority. In the dissent's view, those decisions do not entrench every optional preference-making power at a subordinate governmental level. The reciprocal sex provision likewise does not establish the asserted facial denial of equal protection. This position preserves scrutiny of actual unequal administration, binding federal obligations and properly presented later applications, and does not declare every affirmative measure unconstitutional.
+
+### Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768. — 1998-11-12
+
+**Chief Justice Stone-Zsela, concurring; no joins.** The Chief Justice joins the Court's knowing-deception holding and affirmance. He would also hold that reckless, materially misleading acceptance of customer orders under the existing best-execution undertaking can constitute primary § 10(b) and Rule 10b-5 fraud when every ordinary private-action requirement is proved. Acceptance communicates an intention to honor that undertaking; an actionable false representation need not be confined to a defendant's express statement. His broader culpability position goes beyond the sufficient ground the Court adopts and does not become the Court's rule.
+
+He agrees that best execution depends on terms reasonably available under contemporary market conditions, that industry custom informs but does not conclusively resolve culpability, and that later SEC rules cannot create retroactive liability. Later market studies may corroborate evolving feasibility without supplying a retroactive legal command. He would leave knowing or reckless falsity, reliance and actual damage for case-specific proof. Neither breach of fiduciary duty alone, execution at the national best bid and offer nor the existence of a better price automatically establishes fraud, and the concurrence recognizes no reliance presumption from price disparity.
+
+## Prior-term published positions retained for continuity
+
+Earlier published positions retain their stated noncontrolling scope and must be read from the relevant prior-term public renders when material to a case; Standing State carries none. The first firearms sequence requires the date-eligible public Rybar writings and applicable prior arms and Commerce Clause law.
 
 In Rybar (November 24, 1997), Stone-Zsela's published dissent would affirm the possession convictions based on the restriction's fit to the distinctive sustained-fire risk and expansion of civilian stocks of the identified completed automatic weapons. His application is noncontrolling, adopts no categorical dangerous- or military-arms exclusion, and does not equate those weapons with ordinary semiautomatics. It supplies no result for receivers, conversion components, or accessories. The [published entry](../../OT1997/output/OT_1997CHUNK1.md#united-states-v-rybar-third-circuit-no-95-3185) preserves the full grounds and limits. The Court's separate weapon-and-restriction inquiry and the remand remain controlling; Commerce authority does not decide the arms claim.
 
@@ -50,7 +179,10 @@ In Home Builders (June 8, 1998), O'Connor's published dissent, joined by Scalia,
 
 Later current-term decisions enter only when actually completed and effective. No private position, provisional commitment, or historical comparator is incorporated here.
 
+
 ## Current Procedure and Institution
+
+## Court, participation, and institutional practice
 
 ### Court and seniority
 
@@ -96,9 +228,11 @@ The order effective August 3, 1994 governs at the OT1998 opening.
 
 **Referral of applications, effective October 7, 1991; signed explanations and certification, effective October 2, 1995.** By the Court's internal practice adopted at the opening of October Term 1991, an application for a stay, injunction, or other interim relief in a matter on the Term's inventory is referred by the Circuit Justice to the full Court and decided by the participating Justices under the participating-majority rule. The order issues in the Court's name and recites the presenting Circuit Justice ("presented to Justice ___ and by him or her referred to the Court"). From October 2, 1995, referral does not prevent the Circuit Justice, or the substitute the term-effective Rules designate, from taking a necessary temporary action in his or her own name while the Court considers the application. Each action is explained in short signed writings, including the Circuit Justice's own explanation at final disposition, whether prevailing or dissenting, and a statement by each participating Justice in each Court action deciding relief, and is certified for issuance by the Chief Justice or the Chief's substitute, as Engine §10 provides. A Justice may participate in a referred application from the date of the judicial oath. An application not on the Term's inventory remains subject to ordinary Circuit Justice practice.
 
-### Pending matters and next acts
+No additional case-specific nonparticipation is established by the opening setting. The fact that all nine seats are occupied does not establish participation in a particular event; that depends on the supported argument or submission and decision facts.
 
-All 14 carried pending matters are preserved below. The 42 supplied grants are already granted and appear in the scheduled manifest; no new grant action is recorded.
+## Term-opening carryovers and current pending procedure
+
+The term-opening docket contained 14 carried pending matters and 42 already-granted cases scheduled for merits consideration. New Jersey v. New York is the carried matter also scheduled in chunk 8 on May 17, 1999. The other 13 have no assigned continuation date.
 
 | Case or matter | Stage at opening | Next act or material condition | Source |
 |---|---|---|---|
@@ -123,22 +257,18 @@ The four Breard-related emergency applications were denied on April 14, 1998. No
 
 Lower-court remands from completed decisions do not create additional Supreme Court events. Alaska and New Jersey retain their specifically recorded decree stages; Bryan County retains its reargument stage. New Jersey's March 31 proposal and May 30 Designated Survey remain proposals, not a final decree or operative undefined injunction. No date or filing for an unscheduled continuation is invented.
 
-### Prospective chronology
 
-Process dated events in effective-date order. Preserve the inventory's order within a date for navigation; uncoordinated same-day events share the law effective before the entire date group. Recording or assigning one first supplies no law to a peer. A genuine coordinated dependency must be established explicitly. The groups crossing chunk boundaries are **May 17, 1999 (chunks 7 and 8)**, **June 14, 1999 (chunks 9 and 10)**, and **June 22, 1999 (chunks 10 and 11)**.
+## Prospective events and material dependencies
 
-The 42 plus-marked matters are already granted under Standing State section 4; their dates are supplied scheduling assignments, not new grant actions. Other dates retain the case index's reported-date provenance without importing a historical Court disposition. Germany's original leave request and emergency application, and Stewart v. LaGrand's injunction application and separate summary review, require component-specific treatment at Run. No distinct Court action may disappear inside a bundled inventory row.
+Use the [manifest](manifest.md) for all remaining scheduled and carried matters. A scheduled date supplies no filing, argument, vote or disposition. Same-day independent matters use the common entering-law baseline; Section 8 assignments follow alphabetical case order on that date. Later historical actions never enter by scheduling alone. Del Monte Dunes remains a reconciliation-only item against its completed June 16, 1997 judgment. The four Breard-related applications were denied; their separate petitions remain as listed above. No execution or new stay is inferred.
+
+NAACP, Los Angeles Branch v. Jones, No. 97-1840, remains a granted proceeding with no Court disposition or mandate entered. The next scheduled inventory event is Wright v. Universal Maritime Service Corp., No. 97-889, on November 16, 1998, in chunk 2; that schedule supplies no prospective holding.
+
 
 ## Blockers and Revalidation Needs
 
-No unresolved tracker-synchronization, roster, allotment, or inventory-coverage conflict prevents opening. The case-index source-set statement is resolved in favor of the repository trackers. The 13 additional pending matters lack assigned OT1998 dates and continuation packets; they remain open and cannot be silently resolved. The specific identity and procedural limits are in the manifest and pending table above.
-
-Run must refresh entering law and validate the relevant neutral record, participation, review scope, chronology, and material premises before modeling. No merits readiness or Stone position approval is certified by Open. Runtime exports are generated at Run; their present absence is expected. The eleven supplied briefs are checked mechanically for parseability only, without introducing their controlled sections into these opening projections.
-
-The user's October 27, 2026 removal of Davenport and Jean is an inventory decision only; neither reservation is restored from superseded prior-term workspace language. No Court disposition is attributed to that decision.
+All eleven completed chunk 1 Records have no unresolved substantive blocker. NAACP, Los Angeles Branch v. Jones remains stopped: Stone's threshold position requires renewed approval after confirmation that the lower court assumed disputed Article III standing; the approved supplement contains no conditional position for that corrected posture. Engine section 4 requires that revalidation. No Court vote, assignment or disposition is entered for the stopped matter. The precise internal receipt is [pending revalidation](../audit/NAACP_PENDING_REVALIDATION.md). No carried proceeding is closed by silence or passage of a deadline. Git provenance verification and commitment remain reserved to the operator; ledger order is explicitly provisional while Git is prohibited.
 
 ## Source and Research Cutoff
 
-This opening projection uses repository authorities and the user's October 27, 2026 inventory instructions. The legal and procedural baseline is processed through September 28, 1998. This task performed no new external-event research and admits no post-cutoff filing, execution, compliance, rule change, or institutional event. A future scheduled date is not a research cutoff or proof that its event occurred.
-
-Sources for continuation are the identified published trackers, Composition, Engine, supplied case index, and dated prior public sources relevant to a carried stage. The prior-term endpoint table identifies the close dossiers used to validate chronology. [Opening validation](../audit/OPENING_VALIDATION.md) states the actual checks and limitations. Runtime splitting, entering-law selection, modeling, reconciliation, and assembly remain tasks for Run.
+Opening authorities and current Records supply the legal state; each event records its own research cutoff. No source through a later date is asserted for an earlier event. Current-term public reading copies are mechanically derived from Records. The full signed opinions and noncontrolling positions remain as identified by their Records, whether or not selected for public discussion.

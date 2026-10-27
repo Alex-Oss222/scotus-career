@@ -1,0 +1,88 @@
+{
+  "operation": "check-term",
+  "term": "OT1998",
+  "source_tool": "tools/check_term.py",
+  "source_sha256": "dee6b399543294b42ff7eb82f19f2218ea6d6a134e7c177da605b96e30311375",
+  "git_commands_executed": false,
+  "deferred_repository_provenance": true,
+  "helper_substitution": "git_object_exists",
+  "subprocesses": [
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\holdings_volumes.py",
+      "check",
+      "--root",
+      "C:\\Users\\alexl\\Projects\\scotus-career"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK1.md",
+      "--check"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK2.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK3.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK4.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK5.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK6.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK7.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK8.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK9.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK10.md",
+      "--parse-only"
+    ],
+    [
+      "C:\\Users\\alexl\\AppData\\Local\\Programs\\Python\\Python314\\python.exe",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\tools\\split_chunk.py",
+      "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\briefs\\OT_1998CHUNK11.md",
+      "--parse-only"
+    ]
+  ],
+  "deferred_items": [],
+  "tool_exit_code": 0,
+  "result": "passed_non_git_scope_only",
+  "output": ""
+}

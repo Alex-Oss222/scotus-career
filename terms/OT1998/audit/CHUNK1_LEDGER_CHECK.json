@@ -1,0 +1,28 @@
+{
+  "operation": "rebuild-ledger",
+  "term": "OT1998",
+  "source_tool": "tools/rebuild_ledger.py",
+  "source_sha256": "c75678a6a71c544049d64d7f279aaf750cceb125fd26a5bbc401956c0d2ee8ad",
+  "git_commands_executed": false,
+  "deferred_repository_provenance": true,
+  "helper_substitution": "git_added",
+  "subprocesses": [],
+  "deferred_items": [
+    "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+    "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+    "hiley_v_barrett_merits_1998-10-09.md",
+    "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+    "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+    "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+    "pfaff_v_wells_electronics_merits_1998-11-10.md",
+    "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+    "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+    "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+    "united_states_v_wright_merits_1998-10-05.md"
+  ],
+  "provisional_order": "effective date, then Record filename; not Git commitment order",
+  "tool_exit_code": 0,
+  "metadata_relabeling": "Generated note and provenance/order headers disclose the deferred Git checks.",
+  "result": "passed_non_git_scope_only",
+  "output": "C:\\Users\\alexl\\Projects\\scotus-career\\terms\\OT1998\\workspace\\ledger.md: 11 records\n"
+}

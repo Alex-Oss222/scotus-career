@@ -1,0 +1,54 @@
+# Griffin / Langley — reconciled non-Stone commitments
+
+**Status:** Historical reconciliation complete for the October 29, 1998 merits event. All eight Associate commitments on C, I and S remain unchanged at their frozen scope. No material new premise, unsupported departure or unresolved source gap requires return to neutral preflight or modeling. No opinion assignment or Stone position is supplied.
+
+**Scoped provenance:** The case's physically frozen neutral packet, supplement and commitments were read before the exact case-only comparator. No combined comparator, private Stone material, raw Decision Record, control/audit file or locked directory was accessed. The full authorized Franklyn effective Public Projection was read as published entering law. Its separate public writing is not a private supplement and supplies no additional controlling rationale. No repository command was used. The original frozen inputs remain untouched.
+
+**Verified SHA256 inputs:**
+
+- `freeze/GRIFFIN_NEUTRAL.md`: `5BE96B20950172730CA1F11C39580628A124F9DF6DA7FED91E4B73D8805A3A16`.
+- `freeze/GRIFFIN_NEUTRAL_SUPPLEMENT.md`: `889EF49811CA25D4715442B5AAA07872492F5E4A82B53443C561FDD17E5B6BA3`.
+- `freeze/GRIFFIN_COMMITMENTS.md`: `FA39A1B51C21BC48C39142381AB4A6709073F64CD86B4B8D564E5A0BCAD3DB51`, confirmed before comparator exposure.
+- `runtime/GRIFFIN_COMPARATOR_SCOPED.md`: `624D62B3684C6DDDD809B00A59BE5ED1725B667AE6ECC2272B1E96531F3FD564`.
+- `entering-law/FRANKLYN_EFFECTIVE.md`: `8BAED28F97EB4A6C96D4CEE941D0155EF66F338B10C9382796BA800636CC7D37`.
+
+The complete frozen C/I/S propositions, alternatives, Justice-specific grounds, reservations and remedies are incorporated by reference without alteration. The approved neutral split's original opening-law description is qualified by its frozen supplement and the completed effective-law refresh. Applicable Engine sections 3, 7 and 14 govern this reconciliation. Previously authorized BASE commerce and Jackson materials and the actual Franklyn public holding supply the relevant legal checks; this context does not claim to have independently reread every preceding effective copy.
+
+## Actual historical comparison
+
+The scoped comparator supplies no historical Supreme Court merits judgment, vote, opinion or Justice-specific alignment. It identifies the Fourth Circuit's unpublished per curiam affirmance of January 22, 1998, Nos. 96-4803 and 96-4805, with a notice that the opinion is not binding circuit precedent. That lower-court judgment is the review posture and comparison context. It is neither a substitute for governing law nor a source of Supreme Court votes or authorship. Its historical submission date is not the submission or argument date of this Court's October 29 event.
+
+The frozen proposed dispositions agree with that lower-court outcome, but agreement does not establish a historical vote match. The legally material comparison is between the grounds: the adopted Lopez rule requires a constitutionally adequate connection independent of an object's former interstate movement; effective Franklyn Part II supplies the precise convicted-recipient supply connection; and the enacted nexus and proof remain separate. The frozen commitments preserve those distinctions. There is no Supreme Court alignment from which any Associate departs, so no historical-departure line is warranted.
+
+## Component reconciliation
+
+| Component | Reconciled result and sufficient ground | Alternative and limit |
+|---|---|---|
+| C — Commerce authority, each conviction | All eight reject the commerce challenge and affirm. Effective Franklyn Part II directly recognizes the section 922(d)(1) supply restriction and corresponding section 922(g)(1) recipient restriction as a fitted anti-evasion mechanism for qualifying convicted recipients, covering firearms and ammunition. Each supported local pistol possession falls within that same recipient/weapon relationship. | Manufacture outside the State alone cannot establish universal federal power over every later possession. The independent supply-and-recipient connection answers that objection here. Burglary, generalized danger and crime costs supply no alternative connection. The machinegun-stock holdings alone do not decide this different provision, and the supplier's knowledge condition is not imported as the complete recipient-offense culpability rule. |
+| I — Requested additional nexus instruction, each defendant | All eight affirm rejection of the reported demand for a direct interstate effect beyond out-of-state manufacture. Bass and Scarborough's retained statutory construction does not impose a contemporaneous or individually substantial effect, and Lopez does not add one once the class has the required independent constitutional connection. The prosecution still must prove the enacted nexus beyond a reasonable doubt. | Adding a new direct-effect condition through constitutional avoidance is unnecessary given the valid mechanism and would change the retained statutory requirement. This disposition addresses only the described legal demand; it neither approves a verbatim replacement charge nor resolves an unidentified defect in the instructions actually given. |
+| S — Separate motions for acquittal | All eight affirm denial of each motion. Under Jackson, the testimony that both pistols were manufactured in Connecticut, together with each defendant's possession in North Carolina, permits a rational jury to find beyond a reasonable doubt that each pistol crossed a state boundary. Precise shipment date, carrier, seller or a personal crossing by either defendant is unnecessary. | Constitutional authority over the class does not prove the element. Proof concerning one pistol cannot substitute for proof concerning the other. The verified account supplies testimony about both; no expert-qualification, authentication or contrary-evidence defect is invented. Gonzalez's ammunition stipulation establishes no fact in these appeals. |
+
+## Justice-specific conclusions and join barriers
+
+Ginsburg authored effective Franklyn, and Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer joined its entire opinion. Each thus has a direct date-eligible commitment to the precise Part II mechanism and to the separate statutory nexus. That prior public agreement supports C without predetermining I or S. The surviving statutory construction and rational-jury inquiry independently support the latter components.
+
+| Justice | Reconciled C/I/S commitment and retained individual limit |
+|---|---|
+| Stevens | Affirms all three. His Hale/Rybar/Kirk/Wright joins and direct Franklyn join support fitted inclusion without an individual substantial-effect requirement. He joins no provenance-only constitutional rule or general firearms police power, and no new arms claim is decided. |
+| O'Connor | Affirms all three. Her Hale writing, Lopez and subsequent mechanism joins, and direct Franklyn join support the actual supply connection and separation of power from statutory proof. The added instruction must enforce an enacted element, not create one because criminal conduct occurred. |
+| Scalia | Affirms all three. His Lopez/Hale/Kirk/Wright and Franklyn joins support the identified mechanism and refusal to invent an element. The words affecting commerce are not a universal constitutional cure, and the real element still requires proof beyond reasonable doubt. |
+| Kennedy | Affirms all three. His Rybar/Wright writings and Franklyn join support the defined regime without transaction-specific constitutional proof. Generic aggregation, burglary and dangerousness cannot replace the actual convicted-recipient supply relationship. |
+| Souter | Affirms all three. His earlier mechanism joins and direct Franklyn join require a real counterpart relationship, not labels. Jackson permits the supported interstate inference without an invented transport record or elimination of the statutory burden. |
+| Thomas | Affirms all three. His Lopez/Hale/Kirk/Wright and Franklyn joins support the particular mechanism while preserving the enacted nexus. Neither the machinegun holdings nor remote movement automatically settles constitutional validity; this specific supply rule supplies the additional ground. |
+| Ginsburg | Affirms all three. Her Franklyn Part II directly states the relevant constitutional relationship and preserves independent proof. The expert account concerns each pistol; another defendant's evidence, arms holdings or statutory class coverage cannot supply missing offense proof. |
+| Breyer | Affirms all three. His earlier machinegun-case joins and direct Franklyn join support necessary coverage of an actual regime. Practical enforcement and generic crime costs alone do not establish power; the record supplies no basis for the additional individual-effect instruction or an evidentiary hearing. |
+
+No Justice's ground or join barrier changes after comparison. All eight can join C, I and S at their expressly limited levels of generality; the commitments require no separate writing. This conclusion does not assign authorship or import the lower panel's per curiam form.
+
+## Source limits and assembly handoff
+
+The cutoff remains October 29, 1998. The frozen neutral packet records scoped preflight verification of the [full unpublished lower opinion](https://hallapproved.com/us/cases/ca4/1998/993999/). The model disclosed unsuccessful direct retrieval and relied on that validated account. This reconciliation likewise relies on the frozen, verified account and does not claim a separate recovery or full reading of that source, the trial transcript or the proposed charge. The referenced research copy outside this task's authorized inputs was not opened.
+
+The missing verbatim charge does not obscure the precise additional legal condition described in the verified opinion. The source establishes testimony addressing both pistols and three separate appellate issues; no further record premise is needed for these bounded grounds. Missing research access supplies neither litigant default nor a new-trial entitlement. A materially different preserved charge objection, a supported defect in either pistol's evidence or a new source conflict would require return through the affected neutral and modeling stages, rather than an assembly patch.
+
+All eight Associates support affirmance of Griffin's judgment and Langley's separate judgment against C, I and S. No acquittal, new trial, instruction mandate, sentencing recalculation or remand follows. No unpresented Second Amendment, conviction-exclusion, possession-knowledge, weapon-classification or sentencing question is adjudicated. Their agreement supplies no final Court tally or Stone position; assembly must test the approved position against these frozen grounds and limits.

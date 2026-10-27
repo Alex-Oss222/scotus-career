@@ -1,0 +1,93 @@
+{
+  "scope": "Explicit named-roster/count arithmetic only; legal compatibility, controlling status, partial-join scope, participation, and Marks require separate review",
+  "records": [
+    {
+      "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 4,
+      "checked_opinion_rows": 2
+    },
+    {
+      "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 3,
+      "checked_opinion_rows": 1
+    },
+    {
+      "record": "hiley_v_barrett_merits_1998-10-09.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 10,
+      "checked_opinion_rows": 2
+    },
+    {
+      "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "errors": [],
+      "unaudited": [
+        "No recognized explicit vote table; review public judgment prose and any component tables manually"
+      ],
+      "checked_vote_rows": 0,
+      "checked_opinion_rows": 1
+    },
+    {
+      "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "errors": [],
+      "unaudited": [
+        "No recognized explicit vote table; review public judgment prose and any component tables manually"
+      ],
+      "checked_vote_rows": 0,
+      "checked_opinion_rows": 2
+    },
+    {
+      "record": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 14,
+      "checked_opinion_rows": 3
+    },
+    {
+      "record": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "errors": [],
+      "unaudited": [
+        "No recognized explicit vote table; review public judgment prose and any component tables manually"
+      ],
+      "checked_vote_rows": 0,
+      "checked_opinion_rows": 1
+    },
+    {
+      "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 9,
+      "checked_opinion_rows": 2
+    },
+    {
+      "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 6,
+      "checked_opinion_rows": 1
+    },
+    {
+      "record": "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "errors": [],
+      "unaudited": [
+        "table ['writing', 'author', 'joined by', 'scope'], row 1: author is not one explicit Justice or an unsigned opinion",
+        "No recognized explicit vote table; review public judgment prose and any component tables manually"
+      ],
+      "checked_vote_rows": 0,
+      "checked_opinion_rows": 1
+    },
+    {
+      "record": "united_states_v_wright_merits_1998-10-05.md",
+      "errors": [],
+      "unaudited": [],
+      "checked_vote_rows": 6,
+      "checked_opinion_rows": 2
+    }
+  ],
+  "errors": 0,
+  "unaudited_items": 5
+}

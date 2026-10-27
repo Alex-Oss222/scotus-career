@@ -1,0 +1,93 @@
+UNPUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 96-4803
+WILLIAM LUMAS GRIFFIN,
+Defendant-Appellant.
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 96-4805
+GEORGE DAVID LANGLEY, JR.,
+Defendant-Appellant.
+Appeals from the United States District Court
+for the Middle District of North Carolina, at Greensboro.
+Frank W. Bullock, Jr., Chief District Judge.
+(CR-96-93, CR-96-95)
+Submitted: August 19, 1997
+Decided: January 22, 1998
+Before HALL, WILKINS, and WILLIAMS, Circuit Judges.
+_________________________________________________________________
+Affirmed by unpublished per curiam opinion.
+_________________________________________________________________
+COUNSEL
+J. Clark Fischer, RANDOLPH & FISCHER, Winston-Salem, North
+Carolina; Nils E. Gerber, Winston-Salem, North Carolina, for Appel-
+
+lants. Walter C. Holton, Jr., United States Attorney, Clifton T. Barrett,
+Assistant United States Attorney, Winston-Salem, North Carolina, for
+Appellee.
+_________________________________________________________________
+Unpublished opinions are not binding precedent in this circuit. See
+Local Rule 36(c).
+_________________________________________________________________
+OPINION
+PER CURIAM:
+William L. Griffin and George D. Langley, Jr., appeal their convic-
+tions for possession of a firearm by a convicted felon, in violation of
+18 U.S.C.A. § 922(g)(1) (West Supp. 1997). In this consolidated
+appeal, they challenge the constitutionality of§ 922(g), the district
+court's denial of a requested jury instruction, and the denial of a
+motion for acquittal. We affirm.
+Griffin and Langley were apprehended after breaking and entering
+into a restaurant in Burlington, North Carolina. Each wore a shoulder
+holster containing a pistol. Each had previously been convicted of a
+crime punishable by imprisonment exceeding one year. The jury
+found both guilty. Griffin was sentenced to 211 months imprisonment
+followed by five years supervised release. Langley was sentenced to
+181 months imprisonment followed by five years supervised release.
+Relying on United States v. Lopez, 514 U.S. 549 (1995), Appel-
+lants challenge the constitutionality of 18 U.S.C.A.§ 922(g), asserting
+that the enactment of the statute exceeded Congress' Commerce
+Clause authority. Having recently rejected the identical argument in
+United States v. Wells, 98 F.3d 808, 811 (4th Cir. 1996), we find
+Appellants' argument to be without merit.
+Next, Appellants contend that the district court erred in refusing to
+instruct the jury that, following the Supreme Court's decision in
+Lopez, the government is required to prove that the defendants' pos-
+                                2
+
+session of the firearms had a direct impact on interstate commerce,
+greater than the fact that the firearms originated in a state other than
+North Carolina. We disagree. In Wells, we specifically held that the
+existence of the statute's jurisdictional element-- requiring the gov-
+ernment to prove that the firearm was "shipped or transported in inter-
+state or foreign commerce" -- "satisfies the minimal nexus required
+for the Commerce Clause." Wells, 98 F.3d at 811 (citing Scarborough
+v. United States, 431 U.S. 563, 575 (1977) (finding predecessor to
+§ 922(g) within the bounds of the Commerce Clause)); see also
+United States v. Smith, 101 F.3d 202, 215 (1st Cir. 1996) (holding
+proof of minimal nexus to interstate commerce still sufficient for
+§ 922(g) conviction after Lopez), cert. denied, 117 S. Ct. 1345 (1997);
+United States v. Lewis, 100 F.3d 49, 50-53 (7th Cir. 1996) (same).
+Consequently, we hold that an adequate interstate nexus exists if the
+firearm was shipped or transported in interstate or foreign commerce.
+See also United States v. Verna, 113 F.3d 499, 502 (4th Cir. 1997)
+(holding that plaintiff's § 922(g) conviction must be sustained if there
+was sufficient evidence that the firearm had been"shipped or trans-
+ported in interstate . . . commerce"). Accordingly, the district court
+did not err in refusing Appellants' requested jury instruction.
+Finally, Appellants argue that the district court should have granted
+their motions for acquittal because the Government did not prove ade-
+quate interstate nexus. The Government offered the testimony of a
+firearms expert that each weapon was manufactured in Connecticut.
+This evidence satisfies that element of the offense.
+We affirm the convictions of Griffin and Langley. We dispense
+with oral argument because the facts and legal contentions are ade-
+quately presented in the materials before the court and argument
+would not aid the decisional process.
+AFFIRMED
+                                3

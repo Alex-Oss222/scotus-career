@@ -1,0 +1,381 @@
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+United States Court of Appeals
+FOR THE DISTRICT OF COLUMBIA CIRCUIT
+Argued May 15, 1998       Decided August 28, 1998
+No. 97-5304
+Fraternal Order of Police,
+Appellant
+v.
+United States of America,
+Appellee
+Appeal from the United States District Court
+for the District of Columbia
+(No. 97cv00145)
+William J. Friedman, IV argued the cause and filed the
+briefs for appellant.
+Robert M. Loeb, Attorney, U.S. Department of Justice,
+argued the cause for appellee.  With him on the brief were
+Frank W. Hunger, Assistant Attorney General, Wilma A.
+Lewis, U.S. Attorney, and Mark B. Stern, Attorney, U.S.
+Department of Justice.
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 1 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+Before:  Williams, Ginsburg and Randolph, Circuit Judges.
+Opinion for the Court filed by Circuit Judge Williams.
+Williams, Circuit Judge:  The Fraternal Order of Police, an
+association of law enforcement officers, brought suit challeng-
+ing certain provisions of the 1996 amendments to the Gun
+Control Act of 1968, 18 U.S.C. s 921 et seq.  The Order
+alleged that these provisions exceeded Congress's power un-
+der the Commerce Clause, and also that they ran afoul of the
+Second, Fifth, and Tenth Amendments.  The district court
+granted summary judgment for the government.  Finding
+that the Order has standing to raise its claim under the equal
+protection component of Fifth Amendment due process, see
+Bolling v. Sharpe, 347 U.S. 497, 499 (1954), and finding merit
+in that claim, we reverse.
+* * *
+As relevant here, the essence of the 1996 amendments was
+to (1) extend a pre-existing criminalization of firearms posses-
+sion by persons convicted of domestic violence felonies to
+persons convicted of domestic violence misdemeanors;  and (2)
+to withhold from the misdemeanants--but not the felons--an
+exception for firearms issued for the use of any state or
+locality (the so-called "public interest exception").  The Gun
+Control Act, now as before, also applies to anyone who
+supplies a person with a firearm in the face of this and
+related proscriptions.
+The amendments bringing about this change are as follows:
+Section 922(d)(9) of Title 18 makes it illegal to provide a
+firearm to any person "convicted in any court of a misde-
+meanor crime of domestic violence";  s 922(g)(9) prohibits
+such misdemeanants from possessing or receiving firearms.
+Section 922(g)(9) limits its scope to possession in or affecting
+interstate commerce, or firearms transported in interstate
+commerce;  s 922(d)(9) contains no similar limitation.  Relief
+from the disability thus imposed is governed in part by
+s 925(a)(1), which provides that the prohibitions of s 922
+generally do not apply to firearms issued for the use of "any
+State or any department, agency, or political subdivision
+thereof."  Section 925(a)(1) explicitly excludes ss 922(d)(9)
+and 922(g)(9) from this public interest exception.
+Sections 922(d)(9) and (g)(9) thus forbid the states to arm
+those members of their police forces, militias, or National
+Guards who possess disabling misdemeanor convictions;  they
+criminalize both the officers' acceptance of the states' fire-
+arms and the provision of the firearms by any person, includ-
+ing (presumably) any state's representative.  The disability
+operates regardless of the date of the conviction.  So the new
+bans can be expected to affect a significant number of current
+police officers.  The Joint Appendix contains several newspa-
+per articles recounting instances in which officers were re-
+quired to turn in their guns, and it was in view of this
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 2 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+prospect--though not solely on behalf of members directly
+threatened with the firearm disability--that the Order
+brought suit.
+* * *
+The threshold question on appeal is whether the Order has
+standing to pursue its claims.  We find it necessary to
+address only the standing claim based on the interests of
+members who are chief law enforcement officers ("CLEOs").
+Although the Order's briefs make vague allusions to some
+legal theories that would entail broader relief than is suitable
+for the Equal Protection claim brought by the Order on
+behalf of the CLEOs, they fail to develop such theories.  So
+there is no need to assess the standing possibly underlying
+such inchoate claims.
+For a party to establish the sort of "case" or "controversy"
+over which Article III creates federal jurisdiction, it must
+satisfy the now familiar tripartite requirements of "(1) an
+injury in fact, (2) a causal relationship between the injury and
+the challenged conduct, and (3) a likelihood that the injury
+will be redressed by a favorable decision."  United Food and
+Commercial Workers Union Local 751 v. Brown Group, Inc.,
+517 U.S. 544, 551 (1996).  An association such as the Order,
+which alleges no injury to itself as an organization, may,
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 3 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+according to Hunt v. Washington State Apple Advertising
+Comm'n, 432 U.S. 333 (1977), sue on behalf of its members if
+it can show that "(a) its members would otherwise have
+standing to sue in their own right;  (b) the interests it seeks
+to protect are germane to the organization's purpose;  and (c)
+neither the claim asserted nor the relief requested requires
+the participation of individual members in the lawsuit."  Id.
+at 343.  The first of these elements ensures the presence of a
+case or controversy and is constitutional in nature.  See
+Warth v. Seldin, 422 U.S. 490, 511 (1975).  It is the only one
+the government contests and the only one with respect to
+which we can see any difficulty.
+Several CLEOs allege that enforcement of the 1996 amend-
+ments conflicts with their obligations under state law.  Al-
+though there is no indication that this is true in the hard core
+sense of federal law requiring any CLEO to do something
+state law forbids (or vice versa), it seems true in the broader
+practical sense that if a CLEO complies with the domestic
+violence misdemeanor provisions, he will find himself, in any
+enforcement activity requiring firearms, unable to use officers
+who fall under the federal ban, even where in his judgment it
+is highly desirable or even critical to use such officers.  The
+government presents no reason to think that this interference
+should not qualify as an Article III injury, and we can see
+none.
+There remains the issue of whether the CLEOs would have
+"prudential standing," i.e., whether the interests they seek to
+advance are "arguably within the zone of interests to be
+protected or regulated by the statute or constitutional guar-
+antee in question."  Ass'n of Data Processing Service Orgs. v.
+Camp, 397 U.S. 150, 153 (1970).1  As to the equal protection
+__________
+1 Whether a prudential defect in a member's standing translates
+to a constitutional defect in the association's is a nice question.
+Superficially, one might conclude that it would, since the cases treat
+the first element of the Washington Apple test as (entirely) consti-
+tutional.  See, e.g., United Food and Commercial Workers, 517
+U.S. at 554-55.  But since this constitutional character stems from
+the case or controversy requirement, see id., and prudential defects
+claim (the only claim it is necessary to reach), of course, the
+CLEOs are not members of the class that the statute is said
+to illegally disadvantage--law officers convicted of domestic
+violence misdemeanors, who are barred from the benefits of
+the public interest exception (as opposed to law officers
+convicted of domestic violence felonies, who are not).  But
+where a person is effectively used by the government to
+implement a discriminatory scheme, he may, as we held in
+Lutheran Church-Missouri Synod v. FCC, 141 F.3d 344, 350
+(D.C. Cir. 1998), "attack that scheme by raising a third
+party's constitutional rights."  There we followed Barrows v.
+Jackson, 346 U.S. 249, 259 (1953), which allowed a white
+homeowner to invoke the equal protection rights of non-
+Caucasian third parties in resisting the petitioner's effort to
+enforce a racially restrictive covenant, and Craig v. Boren,
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 4 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+429 U.S. 190, 194-97 (1976), which allowed a licensed beer
+vendor to invoke the equal protection claims of males aged 18
+to 21 who were barred from beer purchase by a statute that
+allowed purchases by females of that age.
+Although neither Barrows nor Craig is crystal clear as to
+just when a person whose injury qualifies under Article III
+may invoke the interests of a third party, the Court in Craig
+seemed to embrace the proposition asserted in a student law
+review note, namely, that he should be able to assert those
+third-party rights that would be infringed by his compliance.
+See 429 U.S. at 195, citing Note, Standing to Assert Constitu-
+tional Jus Tertii, 88 Harv. L. Rev. 423, 432 (1974).  As any
+CLEO who gave a firearm to a law enforcement officer who
+had been convicted of a domestic violence misdemeanor would
+be liable himself under s 922(d)(9), his compliance (i.e., not
+supplying the officer with the gun) would indeed defeat the
+right-holder's interest.  Thus CLEOs have standing to assert
+the equal protection rights of police officers--members or
+not--threatened with deprivation of their firearms;  the pres-
+__________
+do not affect the existence of a case or controversy, it seems more
+likely that a member's lack of prudential standing translates to a
+similar prudential failing for the association.
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 5 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+ence of CLEOs as members gives the Order standing to
+makes these claims as well.
+* * *
+Equal protection analysis is substantially identical under
+the Fifth Amendment and the Fourteenth.  See Adarand
+Constructors, Inc. v. Pena, 515 U.S. 200, 227 (1995).  Usually
+the outcome turns largely on the level of scrutiny to be
+applied.  If a law neither burdens a fundamental right nor
+targets a suspect class, courts must uphold the legislative
+classification so long as it bears a rational relation to some
+legitimate end.  See, e.g., Heller v. Doe, 509 U.S. 312, 319
+(1993).  Laws that fall into either of the above categories,
+however, are subjected to strict scrutiny.  See, e.g., City of
+Cleburne v. Cleburne Living Center, 473 U.S. 432, 439-40
+(1985) (discussing tiers of scrutiny).  The Order concedes that
+persons convicted of domestic violence misdemeanors are not
+a suspect class but asserts that the 1996 amendments impinge
+on a fundamental right--the right to bear arms guaranteed
+by the Second Amendment.  The government responds that
+the Second Amendment right does not belong to individuals,
+but exists only in relation to "the preservation or efficiency of
+a well regulated militia," United States v. Miller, 307 U.S.
+174, 178 (1939), and that the 1996 amendments do not restrict
+state militias.
+Analysis of the character of the Second Amendment right
+has recently burgeoned.  See, e.g., Akhil Reed Amar, The
+Bill of Rights 257-67 (1998);  David C. Williams, Civic Repub-
+licanism and the Citizen Militia:  The Terrifying Second
+Amendment, 101 Yale L.J. 551, 572-86 (1991);  compare
+Hickman v. Block, 81 F.3d 98, 101-03 (9th Cir. 1996), with
+United States v. Gomez, 92 F.3d 770, 774 n.7 (9th Cir. 1996).
+Despite the intriguing questions raised, we will not attempt to
+resolve the status of the Second Amendment right, for we
+find that the 1996 amendments fall into the narrow class of
+provisions that fail even the most permissive, "rational basis,"
+review.  See, e.g., City of Cleburne, 473 U.S. 432.
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 6 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+Section 925 extends the "public interest" exception to all
+sources of the firearm disability except domestic violence
+misdemeanors.  It thus allows the states to arm police offi-
+cers convicted of violent felonies, and even crimes of domestic
+violence so long as those crimes are felonies, while withhold-
+ing this privilege with respect to domestic violence misde-
+meanors.  No reason is offered for imposing the heavier
+disability on the lighter offense.  The government's brief
+argues that a special focus on domestic violence as compared
+to other misdemeanors is rational, and we agree.  The defect
+is the neglect of more severe crimes of domestic violence,
+about which the government says nothing.
+A conceivable justification comes to mind.  As a law sur-
+vives rational basis review if it is rational under any "reason-
+ably conceivable state of facts," Heller v. Doe, 509 U.S. 312,
+320 (1993) (citation omitted), we address this despite the
+government's having failed to mention it.  Most states appear
+to bar convicted felons from possessing guns.  See, e.g., Cal.
+Penal Code s 12021(a)(1) (felon's possession of firearm is
+felony);  North Carolina Stat. s 14-415.1 (same) Oklahoma
+Stat. Title 21 s 1283 (same);  Rhode Island Gen. Laws
+s 11-47-5 (same);  Texas Penal Code s 46.04 (same);  Wis-
+consin Stat. s 941.29 (same);  Wyoming Stat. s 6-8-102
+(same).  Few--perhaps only New York--provide any public
+interest exception.  See N.Y. Penal L. s 265.20 (exempting
+New York military, police officers, and peace officers).  The
+government might therefore argue that federal law has
+stepped in merely to fill a practical gap:  concluding that all
+persons guilty of domestic violence should be barred from
+possession of firearms, without regard to public interest, but
+noting that the states have satisfactorily addressed the issue
+except for the misdemeanor offender, Congress has taken
+care of this neglected problem.  But this analysis would allow
+a rougher notion of justice than even "rational basis" review
+allows.
+The problem is that the states' laws are neither sufficiently
+consistent, nor sufficiently severe, to make this a rational
+approach.  New Hampshire, for example, requires three felo-
+nies for the prohibition to attach.  See N.H. Stat. Title XII
+s 159:3-a.  Vermont does not prohibit gun possession by
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 7 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+felons who are convicted but never incarcerated.  McGrath v.
+United States, 60 F.3d 1005, 1007 (2d Cir. 1995).  As we have
+noted, at least New York seems to offer a public interest
+exception.  And while the laws of most states do bar felons
+from possessing firearms even in the public interest, many
+states have disabilities of limited duration, and the duration
+varies from state to state.  See, e.g., Maine Rev. Stat. Title 15
+s 393 (application for permit allowed after five years);  North
+Dakota Stat. s 62.1-02-01 (ten years);  South Dakota Stat.
+s 22-14-15 (fifteen years).  Once these periods have expired,
+firearm rights are restored.  The resulting anomalies flow
+well beyond those normally arising from federalism.  The
+worse offenders may enjoy some restoration of lost rights
+under state law, while the lesser face an implacable bar.
+The government notes, following up its point that Congress
+may distinguish between crimes of domestic and violence and
+other crimes, that a legislature does not violate the equal
+protection clause merely because it approaches an issue "one
+step at a time, addressing itself to the phase of the problem
+which seems most acute to the legislative mind."  Williamson
+v. Lee Optical of Oklahoma, Inc., 348 U.S. 483, 489 (1955).
+But this aspect of equal protection law is of little help for
+Congress's decision to impose a more severe regime on
+domestic violence misdemeanants than on domestic violence
+felons.  Whatever precise elements may influence a state's
+classification of offenses between those two categories, what
+is uniform and undisputed is that the presence of some
+aggravating circumstance (or perhaps the absence of a miti-
+gating one) is necessary to establish a felony.  Of course
+Congress may take "one step at a time."  But here, while
+incorporating state law (and judgments thereunder) into its
+scheme, it has stepped most harshly on those persons the
+states have systematically deemed less culpable.
+We note, finally, that the treatment of domestic violence
+misdemeanants intersects with certain anomalies in Con-
+gress's provision for deferring to state law on restoration of
+civil rights.  For the purposes of the firearm disability gener-
+ally, 18 U.S.C. s 921(a)(20) provides that convictions for
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 8 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+which civil rights have been restored do not trigger the
+disability.  See United States v. Bost, 87 F.3d 1333, 1335
+(D.C. Cir. 1996) (discussing state restoration of rights).  An
+equivalent provision, s 921(a)(33)(B)(ii), allows state restora-
+tion of civil rights to lift the federal disability from domestic
+violence misdemeanants.  But few states (if any) deprive such
+misdemeanants of civil rights.  With no deprivation, there can
+be no "restoration" in the ordinary sense of the term.  See
+McGrath, 60 F.3d at 1007-10 (holding that felon whose civil
+rights were not revoked could not argue that they had been
+restored).  Thus the plain text of the statute seems to put
+misdemeanants who have never lost their rights in a worse
+situation than felons whose rights are restored, often by
+automatic operation of state law.  See, e.g., United States v.
+Caron, 77 F.3d 1, 2-4 (1st Cir. 1996) (holding that individual-
+ized restoration of civil rights is not required to lift firearm
+disability).
+This anomalous consequence of the "civil rights restored"
+provision is not confined to domestic violence misdemeanors.
+Any conviction that triggers the disability but does not de-
+prive the convict of civil rights will produce a similar result.
+Thus misdemeanors carrying a sentence of more than two
+years (which count as qualifying convictions under
+s 921(a)(20)), or felonies not accompanied by revocation of
+civil rights, will also activate the federal disability with no
+prospect of relief via restoration of civil rights.
+The First Circuit has responded to this discrepancy by
+holding that the "civil rights restored" provision of
+s 921(a)(20) protects those who have never been deprived of
+civil rights.  See United States v. Indelicato, 97 F.3d 627,
+630-31 (1st Cir. 1996).  That case involved a person convicted
+of a misdemeanor for which state law provided a maximum
+term of two and a half years, i.e., a felony for purposes of
+s 921(a)(20).  But its reasoning applies to s 921(a)(33)(B)(ii)
+equally, and in that context cuts much more deeply.  So far
+as we know, no state responds to a domestic violence misde-
+meanor conviction by revoking the right to vote, hold office,
+or serve on a jury.  (These are the civil rights on which the
+statute focuses.  See Bost, 87 F.3d at 1335.)  If failure to
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 9 of 10
+
+<<The pagination in this PDF may not match the actual pagination in the printed slip opinion>>
+revoke is treated as restoration, then ss 922(g)(9) and (d)(9)
+become entirely without effect:  no conviction for a domestic
+violence misdemeanor would trigger the federal disability,
+since no such misdemeanor would qualify under s 921(a)(33).
+On the other hand, if the absence of any initial deprivation
+renders the restoration provisions inapplicable, then
+s 921(a)(33)(B)(ii), expressly inserted to provide for restora-
+tion in the case of domestic violence misdemeanors, is itself
+without effect.  Because we find ss 922(g)(9) and (d)(9) in
+violation of equal protection requirements independently, we
+need not address the interpretive and other issues posed by
+the "restoration" provisions.
+* * *
+This brings us to the question of remedy.  The Order
+makes various alternative requests, one of which is that we
+hold s 925 inoperative.  Section 928 of the Gun Control Act
+explicitly provides that the invalidation of one provision shall
+not affect the remainder of the Act.  We think the most
+appropriate remedy is consequently to hold that s 925 is
+unconstitutional insofar as it purports to withhold the public
+interest exception from those convicted of domestic violence
+misdemeanors.  The government may not bar such people
+from possessing firearms in the public interest while it impos-
+es a lesser restriction on those convicted of crimes that differ
+only in being more serious.  Of course we do not decide
+whether a broader revocation of the public interest excep-
+tion--for example, from all those convicted of any crime of
+domestic violence--would be constitutional.
+So ordered.
+ 
+USCA Case #97-5304      Document #378065            Filed: 08/28/1998      Page 10 of 10

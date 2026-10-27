@@ -1,0 +1,218 @@
+United States Court of Appeals,
+Eleventh Circuit.
+No. 95-8397.
+UNITED STATES of America, Plaintiff-Appellee,
+v.
+Donald W. WRIGHT, Defendant-Appellant.
+Jan. 28, 1998.
+Appeal from the United States District Court for the Northern District of Georgia. (No. 1:94-CR-
+274-1-ODE), Orinda D. Evans, Judge.
+Before COX, Circuit Judge, and KRAVITCH and CLARK, Senior Circuit Judges.
+OPINION ON REHEARING.
+COX, Circuit Judge:
+The court sua sponte grants rehearing as to the sentencing issue (and only as to the
+sentencing issue) addressed in its previous opinion, published at 117 F.3d 1265 (11th Cir.1997).
+Part II.D of that opinion, 117 F.3d at 1275-77, is accordingly vacated, and the following put in its
+stead.
+Donald Wright was convicted following a plea of guilty to one count of possessing machine
+guns in violation of 18 U.S.C. § 922(o ) and one count of possessing unregistered destructive devices
+in violation of 26 U.S.C. § 5861(d).  Wright requested, and the Government recommended as part
+of a plea bargain, that the district court adjust Wright's offense level downward for acceptance of
+responsibility under U.S.S.G. § 3E1.1. The court refused to do so.  Wright asserts that the district
+court's refusal to adjust his offense level downward improperly penalized him for the constitutional
+
+     1These challenges, which rest on the Second and Ninth Amendments, are fully addressed in
+the court's previous opinion, 117 F.3d at 1268.  
+challenges he has asserted.1  We reject that contention for two reasons.
+ First, as we read the record, the district court's refusal rested mainly on the finding of fact
+that Wright's demeanor did not evince remorse.  In determining whether a defendant is entitled to
+an acceptance of responsibility adjustment, a district court may properly consider "the offender's
+recognition of the wrongfulness of his conduct, his remorse for the harmful consequences of that
+conduct, and his willingness to turn away from that conduct in the future."  United States v.
+Scroggins, 880 F.2d 1204, 1215 (11th Cir.1989).  In this case, the court observed from Wright's
+demeanor that
+within Mr. Wright's own frame of reference, he is sincere in a lot of the things that he said,
+but I just do not think Mr. Wright believes that he was a member of a militia whose mission
+was to protect the citizens of the state of Georgia against threats from outside.  I think Mr.
+Wright believes that he was a member of a group that was prepared to respond to whatever
+they perceived to be a threat or a problem.  I'm not convinced by his testimony that they
+believed that they were carrying out the law as opposed to being ready to resist it.
+(R.3 at 23.)  These observations amount to factual findings that at the time of sentencing Wright was
+not remorseful and did not think that his conduct was wrong.  These findings are entitled to great
+deference and alone support the denial of a downward adjustment.  See United States v. Hromada,
+49 F.3d 685, 689 (11th Cir.1995) ("A district court occupies the unique position to evaluate whether
+a defendant has accepted responsibility for his acts;  its determination is entitled to great deference
+on appeal.").
+ Second, even if the district court's conclusion rested exclusively on Wright's challenges to
+the constitutionality of his convictions, the district court's refusal to reduce Wright's offense level
+was permissible.  "Our case law permits a district court to deny a defendant a reduction under §
+3E1.1 based on conduct inconsistent with acceptance of responsibility, even when that conduct
+
+     2Nothing herein should be construed as modifying those portions of the previous opinions
+addressing issues other than the sentencing issue.  
+includes the assertion of a constitutional right."  United States v. Smith, 127 F.3d 987, 989 (11th
+Cir.1997) (en banc);  see United States v. Henry, 883 F.2d 1010, 1011 (11th Cir.1989) (holding that
+denial of § 3E1.1 reduction is not "impermissible punishment" for exercising Fifth or Sixth
+Amendment rights);  see also United States v. McDonald, 935 F.2d 1212, 1222 (11th Cir.1991)
+(rejecting defendant's contention that § 3E1.1 "infringe[s] on his right to appeal because he was
+unable to express acceptance of responsibility for his deeds at the sentencing hearing while he
+anticipated bringing this appeal");  United States v. Jones, 934 F.2d 1199, 1200 (11th Cir.1991)
+("[T]he court's consideration, at sentencing, of the defendants' denial of culpability at trial does not
+impermissibly punish the defendant for exercising his constitutional right to stand trial.").
+For these reasons, we affirm Wright's sentence.2
+REHEARING GRANTED IN PART;  OPINION VACATED IN PART;  AFFIRMED.
+KRAVITCH, Senior Circuit Judge, dissenting:
+The majority holds that the district court based its refusal to grant Wright a downward
+adjustment for acceptance of responsibility upon a finding that Wright did not show remorse, and
+the majority holds that, even if the district court denied the downward adjustment because Wright
+asserted a legal challenge to his conviction, the district court did not err.  Based upon the record, I
+cannot conclude that the district court denied Wright a downward adjustment because of a
+consideration of permissible factors such as his lack of remorse or insincerity, or even because of
+consideration of those factors along with Wright's legal challenges to the constitutionality of his
+indictment.  Rather, I interpret the record to show that the district court denied the downward
+adjustment solely because it did not accept Wright's counsel's purely legal argument, which was
+
+based upon facts that Wright truthfully had admitted.  Because I believe that the majority has
+misinterpreted the record and, more importantly, has misapplied the law, I respectfully dissent.
+I.
+Wright admitted immediately upon arrest that he possessed the machineguns, then led the
+agents to the location of these weapons, and subsequently consented to the search of his residence
+that resulted in the discovery of an additional machinegun and the three pipe bombs.  After filing
+a motion to dismiss the indictment on constitutional grounds, Wright timely pleaded guilty to the
+offenses charged.  Wright thus truthfully admitted the conduct comprising the offenses of conviction
+and did so at the time of his arrest, when he pleaded guilty, and at the time of sentencing.  He also
+cooperated with law enforcement authorities and assured the district court that he had not possessed
+any weapons since his arrest.  It is apparent from these facts that Wright presented "significant
+evidence" of acceptance of responsibility.  See U.S.S.G. § 3E1.1, comment. (nn.1 & 3).
+It was within the authority of the district court to conclude that this evidence was
+"outweighed by conduct of the defendant that is inconsistent with such acceptance of responsibility."
+See U.S.S.G. § 3E1.1, comment. (n.3).  In my view, however, the district court in this case did not
+rely upon permissible considerations in concluding that Wright's conduct was inconsistent with
+acceptance of responsibility.  After listening to Wright testify at the sentencing hearing, the district
+court stated:
+This is a hard issue.  I think within Mr. Wright's own frame of reference, he is sincere in a
+lot of the things that he said, but I just do not think Mr. Wright believes that he was a
+member of a militia whose mission was to protect the citizens of the State of Georgia against
+threats from the outside.  I think Mr. Wright believes that he was a member of a group that
+was prepared to respond to whatever they perceived to be a threat or a problem.  I'm not
+convinced by his testimony that they believed that they were carrying out the law as opposed
+to being ready to resist it.  So, I will overrule the defendant's objection on the point regarding
+acceptance of responsibility.
+(R3:23). Unlike the majority, I read these remarks to indicate that the district court denied Wright
+
+a downward adjustment solely because it did not find his constitutional challenge meritorious.  The
+district court apparently (and correctly) understood the Second Amendment to protect only the
+possession and use of firearms that is reasonably related to an official state militia.  The district court
+further concluded that an official militia must be designed to protect the citizens of Georgia from
+outside threats and to carry out the law of Georgia and that Wright had made no showing that he
+belonged to such a group.  Wright, in contrast, believed that the Second Amendment protected his
+conduct, and that belief formed the basis of his constitutional challenge to his conviction.
+Contrary to the majority's suggestion, the district court made no finding that the defendant
+testified untruthfully about his militia involvement or that the defendant failed to show remorse.
+Rather, before listening to Wright's testimony at the sentencing hearing, the district court stated:
+I think what really bothers me in this case is that Mr. Wright has put forward through
+counsel an assertion that he believed he was entitled to possess all of these weapons, and
+apparently the pipe bombs as well because he thought he was a member of a militia, and,
+therefore, he thought he was constitutionally able to have these things.  And that assertion
+that he is making through counsel to me is not credible, and that's what bothers me....  It
+appears to me that what has happened is counsel has identified some of the publications that
+seem to be consistent with the idea of defending one's countrymen, and you [counsel] have
+attempted to assert an argument building on his possession of those items.
+(R3:5-6). The district court thus believed that Wright's legal claim that his conduct was protected
+by the Second Amendment lacked merit.
+II.
+Despite the multi-faceted nature of the acceptance of responsibility determination, see
+U.S.S.G. § 3E1.1, comment. (n.1);  United States v. Calhoon, 97 F.3d 518, 531 (11th Cir.1996), and
+the wide latitude afforded sentencing courts under this section, there are limits to a district court's
+discretion in deciding whether to grant a downward adjustment for acceptance of responsibility.
+Although, as we recently made clear, a "district court may consider the nature of [the defendant's
+legal challenges to his conviction] along with the other circumstances in the case when determining
+
+     1The original panel had held that "[t]o the extent that the court denied Smith a reduction for
+acceptance of responsibility because Smith's counsel objected to the presentence report on legal
+grounds, the court erred."  Smith I, 106 F.3d at 352.  
+whether a defendant should receive a sentence reduction for acceptance of responsibility," United
+States v. Smith, 127 F.3d 987, 989 (11th Cir.1997) (en banc) ("Smith "), an otherwise deserving
+defendant cannot be denied a reduction under § 3E1.1 solely because he asserts a legal challenge to
+his conviction that is unrelated to factual guilt.
+In Smith, we held that a panel of this court had gone "too far" in concluding that "it is
+impermissible [for a district court] to consider [a] challenge to the legal propriety of a sentence" in
+denying a reduction in offense level for acceptance of responsibility.  127 F.3d at 989 (quoting
+United States v. Smith, 106 F.3d 350, 352 (11th Cir.1997) (as amended) ("Smith I ")).  The original
+panel had erred, we concluded, in deciding that a district court categorically may not consider a
+defendant's legal challenge to a presentence report.1  Because "frivolous legal challenges could
+suggest to the district court that the defendant has not accepted responsibility for his conduct" and
+because Smith's challenges to the probation officer's initial presentence report amounted to factual
+rather than legal contentions, Smith, 127 F.3d at 989, we concluded that the district court had
+properly considered Smith's challenges in determining whether he should receive a sentence
+reduction pursuant to § 3E1.1, id.  We did not hold in Smith, nor has this circuit ever held, however,
+that a district court may rely only upon a defendant's legal challenge, such as a constitutional
+challenge to the statute defining the criminal conduct or a challenge to the applicability of the statute
+to his conduct, see U.S.S.G. § 3E1.1 comment. (n.2), in deciding not to grant a downward
+adjustment for acceptance of responsibility.  Indeed, the defendant in Smith had challenged the
+factual predicate to his conviction, rather than its legal basis, see Smith, 127 F.3d at 989 ("These
+objections were factual, not legal, and amounted to a denial of factual guilt."), and thus the Smith
+
+court could not have held that a solely legal challenge by a defendant to his conviction may serve
+as a valid basis upon which to deny a downward adjustment for acceptance of responsibility.
+Indeed, because such a holding would create constitutional infirmities in the Sentencing
+Guidelines, other circuits have concluded that legal challenges alone cannot form the basis for a
+denial of a downward adjustment for acceptance of responsibility.  See United States v. Purchess,
+107 F.3d 1261, 1267 (7th Cir.1997) (concluding that "district court should not deny the reduction
+for acceptance of responsibility because the defendant challenges a legal conclusion drawn from the
+facts the defendant admits");  United States v. Fells, 78 F.3d 168, 172 (5th Cir.) (holding that district
+court erred in denying reduction for defendant who "freely admitted all the facts but challenged their
+legal interpretation"), cert. denied, --- U.S. ----, 117 S.Ct. 134, 136 L.Ed.2d 82 (1996);  United States
+v. Broussard, 987 F.2d 215, 224 (5th Cir.1993) (holding that district court erred in denying
+acceptance of responsibility adjustment when defendant admitted ownership of guns found in home
+and went to trial only to argue that statute did not apply to uncontested facts), overruled on other
+grounds by J.E.B. v. Alabama, 511 U.S. 127, 114 S.Ct. 1419, 128 L.Ed.2d 89 (1994);  see also
+U.S.S.G. § 3E1.1, comment. (n.2) (stating that defendant who does not plead guilty may nevertheless
+clearly demonstrate acceptance of responsibility if he goes to trial in order "to make a constitutional
+challenge to a statute or a challenge to the applicability of a statute to his conduct");  cf.  United
+States v. Peery, 977 F.2d 1230, 1234 (8th Cir.1992) (affirming district court's refusal to grant
+adjustment for acceptance of responsibility because defendant contested factual guilt).
+The other cases cited by the majority to support its conclusion that the district court did not
+err in denying a departure for acceptance of responsibility based upon Wright's "challenges to the
+constitutionality of his convictions" are inapposite.  In United States v. Henry, 883 F.2d 1010, 1011
+(11th Cir.1989), the court held that the acceptance of responsibility provision of the Sentencing
+
+     2United States v. McDonald, 935 F.2d 1212, 1222 (11th Cir.1991), also cited by the majority
+to support its conclusion that a district court may refuse to grant a downward departure based
+solely upon the defendant's legal challenges, merely followed Henry in rejecting the defendant's
+claim that "the sentencing guidelines infringe[d] his right to appeal."  
+Guidelines does not violate the Fifth or Sixth Amendment, even though the provision may result in
+an unpleasant choice for a criminal defendant between taking the stand to assert his innocence and
+receiving a lesser sentence for acceptance of responsibility.  See United States v. McDonald, 935
+F.2d 1212, 1222 (11th Cir.1991) (describing the choice as "either forcing [the defendant] to confess
+to his own perjury or to forego taking the stand at trial to take advantage of [section 3E1.1]").  The
+court's conclusion that the very existence of the provision in the Guidelines does not
+unconstitutionally "chill[ ] the right of a defendant to defend himself" at trial, Henry, 883 F.2d at
+1011, however, in no way suggests that a district court may refuse to grant a reduction in sentence
+for acceptance of responsibility solely because the defendant challenged the constitutionality of his
+conviction.2
+The majority's reliance upon United States v. Jones, 934 F.2d 1199 (11th Cir.1991), likewise
+is misplaced.  As the portion of the opinion cited by the majority makes clear, the court in Jones
+ruled that the district court properly refused to grant a departure for acceptance of responsibility
+where the defendants challenged the factual basis of their guilt.  See Jones, 934 F.2d at 1200
+(referring to the district court's consideration of "the defendants' denial of culpability at trial")
+(emphasis added).  Indeed, in Jones, in sharp contrast to the case before us, the defendants "ceased
+their criminal activity only after they were arrested[,] ... maintained that they were innocent[,] ...
+challenged the credibility of the Government's witnesses [at trial,] and urged the jury to find them
+not guilty."  Id. The portion of the opinion cited by the majority merely demonstrates that the Jones
+court followed Henry in concluding that section 3E1.1 "does not impermissibly punish the defendant
+
+for exercising his constitutional right to stand trial."  Jones, 934 F.2d at 1200 (citing Henry, 883 F.2d
+at 1012).  Moreover, unlike the majority opinion in the case before us, the court in Jones was careful
+to limit the authority of the district court to refuse to grant downward departures for acceptance of
+responsibility.  See Jones, 934 F.2d at 1200 ("[A] district court may not refuse to grant a reduction
+under section 3E1.1 solely because a defendant has chosen to proceed to trial....").
+III.
+Because the asserted legal argument did not relate to Wright's factual guilt, see Smith, 127
+F.3d at 989, and because, based upon the sentencing colloquy, the district court does not seem to
+have relied upon any basis other than Wright's legal challenges to the constitutionality of his
+indictment, I would conclude that the district court erred in denying Wright a downward adjustment
+for acceptance of responsibility.  I therefore would remand the case to the district court for
+reconsideration of this issue.
+Accordingly, I respectfully DISSENT.
+                                                                              

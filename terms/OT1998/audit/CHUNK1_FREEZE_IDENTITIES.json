@@ -1,0 +1,146 @@
+[
+  {
+    "case": "Wright",
+    "stage": "COMMITMENTS",
+    "source": "WRIGHT_COMMITMENTS.md",
+    "sha256": "e65228e68e438749b0eaf4b20093a3093cb77cddf16c33c86e7e8eb1a234253e"
+  },
+  {
+    "case": "Fraternal Order of Police",
+    "stage": "COMMITMENTS",
+    "source": "FOP_COMMITMENTS.md",
+    "sha256": "95dc9f7d33cfd06c00712ef9139d92618fc19c4f9d92ed90308a98e4497a154d"
+  },
+  {
+    "case": "Hiley",
+    "stage": "COMMITMENTS",
+    "source": "HILEY_COMMITMENTS.md",
+    "sha256": "0145e9c97cdfedfa8027939cc6dc34cdf6393ef4a51eb25586e18f71b89cc12c"
+  },
+  {
+    "case": "Louisiana",
+    "stage": "COMMITMENTS",
+    "source": "OT_1998CHUNK1_LOUISIANA_COMMITMENTS.md",
+    "sha256": "16dfd81402acfbc8721dca96be60c2083e93bcc2f01d1e6d350b2daa167de4a9"
+  },
+  {
+    "case": "Peoples Rights Organization",
+    "stage": "COMMITMENTS",
+    "source": "PEOPLES_RIGHTS_COMMITMENTS.md",
+    "sha256": "13df4be2efdc9802d1c2740f9c85a1686db092ecc2cad1146ed46862baba0ada"
+  },
+  {
+    "case": "Franklyn / Gonzalez",
+    "stage": "COMMITMENTS",
+    "source": "FRANKLYN_COMMITMENTS.md",
+    "sha256": "896199151afd4c363bcf812931ea8353cd2487e3078b9a917697568549f692fd"
+  },
+  {
+    "case": "Griffin / Langley",
+    "stage": "COMMITMENTS",
+    "source": "GRIFFIN_COMMITMENTS.md",
+    "sha256": "fa39a1b51c21bc48c39142381ab4a6709073f64cd86b4b8d564e5a0bcad3db51"
+  },
+  {
+    "case": "Marquez",
+    "stage": "COMMITMENTS",
+    "source": "MARQUEZ_COMMITMENTS.md",
+    "sha256": "d94c238370a36b227a5af7a962a411431c5f447cabb2ed4a0c44f9354aba86cc"
+  },
+  {
+    "case": "NAACP",
+    "stage": "COMMITMENTS",
+    "source": "OT_1998CHUNK1_NAACP_COMMITMENTS.md",
+    "sha256": "930fc6e17d5f384624e72ff85e037890e99438b545d413eff24d0390ba2e7da7"
+  },
+  {
+    "case": "Coalition",
+    "stage": "COMMITMENTS",
+    "source": "OT_1998CHUNK1_COALITION_COMMITMENTS.md",
+    "sha256": "5c1ea64181c8d489a6ed29778dde711681753c64cae02ad2fe79720007980586"
+  },
+  {
+    "case": "Pfaff",
+    "stage": "COMMITMENTS",
+    "source": "OT_1998CHUNK1_PFAFF_COMMITMENTS.md",
+    "sha256": "032c05ffd02162b9d69f93bc805f118f8f562a6d2c5e090c8533770de64aa9b0"
+  },
+  {
+    "case": "Kravitz",
+    "stage": "COMMITMENTS",
+    "source": "OT_1998CHUNK1_KRAVITZ_COMMITMENTS.md",
+    "sha256": "faf22b30bf527f5e28b4a215c395c41e73855de69d949548e057415e62a45342"
+  },
+  {
+    "case": "Wright",
+    "stage": "RECONCILED",
+    "source": "WRIGHT_RECONCILED.md",
+    "sha256": "0248d6b5db78072ea93e7517b37c8edc4ef8f939c738ad697b3292ef51339ebe"
+  },
+  {
+    "case": "Fraternal Order of Police",
+    "stage": "RECONCILED",
+    "source": "FOP_RECONCILED.md",
+    "sha256": "334e11cfc87a8d4a20dc0958719610fcbb1f905a8c34ffdebf341d8544deb438"
+  },
+  {
+    "case": "Hiley",
+    "stage": "RECONCILED",
+    "source": "HILEY_RECONCILED.md",
+    "sha256": "ee3f23b9b18d7e774f0cfe7120b80c2ebb1c48fb0b5970ffcfb8aaea92104164"
+  },
+  {
+    "case": "Louisiana",
+    "stage": "RECONCILED",
+    "source": "OT_1998CHUNK1_LOUISIANA_RECONCILED.md",
+    "sha256": "2c0d3c4f65989f940dd672cefe52b7894fa7d2643a564e6abaa87244054792cf"
+  },
+  {
+    "case": "Peoples Rights Organization",
+    "stage": "RECONCILED",
+    "source": "PEOPLES_RIGHTS_RECONCILED.md",
+    "sha256": "1da56e5dda0d7e58829dc66bd7b6b09d4306ce733a5778d95e94e55da67c36b5"
+  },
+  {
+    "case": "Franklyn / Gonzalez",
+    "stage": "RECONCILED",
+    "source": "FRANKLYN_RECONCILED.md",
+    "sha256": "ee8f45c29a7077a534285ba8cf4e550fbca18487239e7d123a9ff5949aad4e8b"
+  },
+  {
+    "case": "Griffin / Langley",
+    "stage": "RECONCILED",
+    "source": "GRIFFIN_RECONCILED.md",
+    "sha256": "34a590406affe49556265fd6327f2aacb7318cb8977721e832442b16ae02682c"
+  },
+  {
+    "case": "Marquez",
+    "stage": "RECONCILED",
+    "source": "MARQUEZ_RECONCILED.md",
+    "sha256": "141d25abf34ddb1100f2ec4b9e7dbb40baccf1addd46f1b157d2ed67fb3fe7f3"
+  },
+  {
+    "case": "NAACP",
+    "stage": "RECONCILED",
+    "source": "OT_1998CHUNK1_NAACP_RECONCILED.md",
+    "sha256": "aec34660c2984b01e8b5bc39924aa02e573ee676c8118044210f87519d2508ef"
+  },
+  {
+    "case": "Coalition",
+    "stage": "RECONCILED",
+    "source": "OT_1998CHUNK1_COALITION_RECONCILED.md",
+    "sha256": "d2c87739b4c4a0e334783779cc479b7340c4cb10342c9bbdb04ebc3d7a6aa4c7"
+  },
+  {
+    "case": "Pfaff",
+    "stage": "RECONCILED",
+    "source": "OT_1998CHUNK1_PFAFF_RECONCILED.md",
+    "sha256": "913506cfb254e8b213fb1196f8076be35f33187c7589f85914ead089a6b501f3"
+  },
+  {
+    "case": "Kravitz",
+    "stage": "RECONCILED",
+    "source": "OT_1998CHUNK1_KRAVITZ_RECONCILED.md",
+    "sha256": "8ddc6dc0b78db1778eb592782631f2a89e69220d68ee809abc616a3943bdafff"
+  }
+]

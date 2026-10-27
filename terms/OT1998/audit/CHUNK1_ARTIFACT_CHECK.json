@@ -1,0 +1,67 @@
+{
+  "records": [
+    {
+      "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "sha256": "7f36b6653179cc3a8f9c54d2a3f8340dfc51709252ce16b2ac3c939e1f8056e8",
+      "public_projection_sha256": "29518bf730194d3f336ec03b5d785386b17321376ebce822da9456c7e0081cc7"
+    },
+    {
+      "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "sha256": "8b9c4873e12611ed3fd37d9970ab84d396b6b48a0ae269c5cf03a36061c4588e",
+      "public_projection_sha256": "c38c309cf9d87d4344ce651835f9c254d0fddeb16ca93943c634471768bc92ea"
+    },
+    {
+      "record": "hiley_v_barrett_merits_1998-10-09.md",
+      "sha256": "0606c7df7ef0dee7541ac026688d2c8eb24ac4fd0f85ccb91e789b59995b6eb6",
+      "public_projection_sha256": "887cac7834c76a6474e82b962f72d738792ef32825f6f6cd868a071452723fcd"
+    },
+    {
+      "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "sha256": "f13a115ce956679d935d598d8dfcf39599970521f0034cab191f0a2d89acaf08",
+      "public_projection_sha256": "180b9f88e0ec23d50422dcd096a94b8ce19eb4a1df74b692a98b6bf3d844b92f"
+    },
+    {
+      "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "sha256": "e4a20e8c879bc23650aa94c816bfb7c5233308ceb47e8e0387da90d6e63cfba4",
+      "public_projection_sha256": "31e4dba57a8103845e5a41771e4809717768129974520cdb0a1abd4ecfdc1dc7"
+    },
+    {
+      "record": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "sha256": "210bd47eacab4b51d3813bcb5883118835b22986cc308020629667937fce3bdb",
+      "public_projection_sha256": "a9afd2615a23e20f86abe026485a0dc841281a2494cd68ba44c607e5748e3518"
+    },
+    {
+      "record": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "sha256": "9a1fc3120cf2749e6f7a19761105d8fb15fe3079e0568d3642fc24e1c85048fb",
+      "public_projection_sha256": "7ae99871bb3aa550f7e68dd8f160f9d5744d8cc0845e248002d5b8b997fcb3e2"
+    },
+    {
+      "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "sha256": "5e60ac107140293273fc4f73c85c6816b41d550836178fc648d84ea767d32127",
+      "public_projection_sha256": "53acffeda3ea07b611adbfdf74119a29072da95aa7e01c9f11443cd87a88f367"
+    },
+    {
+      "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "sha256": "7776e250af8f03cdf028060377925e3da109b987d49e20b3831cec8edfd87e88",
+      "public_projection_sha256": "d138c4df0773c619bd25535d9f2ad439f0af01c051382c446c775316a4acbad7"
+    },
+    {
+      "record": "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "sha256": "437722ce15b5fdf06397ec9f48e3694f415c06bc60cd4db5a9a4ffbc558ba465",
+      "public_projection_sha256": "1885157bbe8fb95722ed4ad5f7e1a9051c34946075368059bfc259ecba38bcf4"
+    },
+    {
+      "record": "united_states_v_wright_merits_1998-10-05.md",
+      "sha256": "e0f2b0cc24d7edea93920f0e204d35a79c0e42694afd4f4e22e42000f1fd0b30",
+      "public_projection_sha256": "4717390084d1842188d70b22f5a16fc95a960121d681ffc68ee42e0881e515ff"
+    }
+  ],
+  "errors": [],
+  "manual_review": [
+    "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md: inspect public workflow vocabulary ['approval']",
+    "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md: inspect public workflow vocabulary ['approval']",
+    "united_states_v_griffin_and_langley_merits_1998-10-29.md: inspect public workflow vocabulary ['approval']",
+    "united_states_v_wright_merits_1998-10-05.md: inspect public workflow vocabulary ['approval']"
+  ],
+  "scope": "Canonical Records and their bounded Public Projections; no Git or locked-directory access."
+}
