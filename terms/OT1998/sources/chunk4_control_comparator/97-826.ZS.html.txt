@@ -1,0 +1,122 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+AT&T Corp. v. Iowa Utilities Bd., 525 U.S. 366 (1999)
+
+
+
+
+
+
+SUP>*">
+
+
+
+
+
+
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+AT&T CORP. v. IOWA UTILITIES BD. (97-826)
+Nos. 97—826 (first judgment), 97—829 (first judgment), 97—830, 97—831 (first judgment), 97—1075, 97—1087, 97—1099, and 97—1141, 120 F.3d 753, reversed in part, affirmed in part, and remanded; Nos. 97—826, 97—829, and 97—831 (second judgments), 124 F.3d 934, reversed in part and remanded. SyllabusOpinion
+[ Scalia ]Other
+[ Souter ]Other
+[ Thomas ]Other
+[ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+AT&T CORP. et al. v. IOWA UTILITIES BOARD et al.
+
+
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+ 
+No. 97—826.  Argued  October 13, 1998–Decided January 25, 1999*
+ 
+
+
+
+
+The Telecommunications Act of 1996 (1996 Act) fundamentally restructures local telephone markets, ending the monopolies that States historically granted to local exchange carriers (LECs) and subjecting incumbent LECs to a host of duties intended to facilitate market entry, including the obligation under 47 U.S.C. § 251(c) to share their networks with competitors.  A requesting carrier can obtain such shared access by purchasing local telephone services at wholesale rates for resale to end-users, by leasing elements of the incumbent’s network “on an unbundled basis,” and by interconnecting its own facilities with the incumbent’s network.  After the FCC issued regulations implementing the 1996 Act’s local-competition provisions, incumbent LECs and state commissions filed numerous challenges, which were consolidated in the Eighth Circuit.  Among other things, that court held that the FCC lacked jurisdiction to promulgate its rules regarding pricing, dialing parity, exemptions for rural LECs, the proper procedure for resolving local-competition disputes, and state review of pre-1996 interconnection agreements; that, in specifying the network elements available to requesting carriers under Rule 319, the FCC reasonably implemented the Act’s requirement that it consider whether access to proprietary elements was “necessary” and whether lack of access to nonproprietary elements would “impair” an entrant’s ability to provide local service, see §251(d)(2); that, in Rule 319, the FCC reasonably interpreted the statutory definition of “network element,” see §153(29); that the “all elements” rule, which effectively allows competitors to provide local phone service relying solely on the elements in an incumbent’s network, is consistent with the 1996 Act; that Rule 315(b), which forbids incumbents to separate already-combined network elements before leasing them to competitors, must be vacated because it requires access to those elements on a bundled rather than an unbundled, i.e., physically separated, basis; and that the FCC’s “pick and choose” rule, which enables a carrier to demand access to any individual interconnection, service, or network element arrangement on the same terms and conditions the LEC has given anyone else in an approved §252 agreement without having to accept the agreement’s other provisions, must be vacated because it would deter the “voluntarily negotiated agreements” that the 1996 Act favors.
+
+
+Held:
+
+
+    1.  The FCC has general jurisdiction to implement the 1996 Act’s local-competition provisions.  Since Congress expressly directed that the Act be inserted into the Communications Act of 1934, and since the 1934 Act already provides that the FCC “may prescribe such rules and regulations as may be necessary in the public interest to carry out the provisions of this Act,” 47 U.S.C. § 201(b), the FCC’s rulemaking authority extends to implementation of §§251 and 252.  Section 152(b) of the Communications Act, which provides that “nothing in this chapter shall be construed to apply or to give the Commission jurisdiction with respect to . . . intrastate communications service . . . ” does not change this conclusion because the 1996 Act clearly applies to intrastate matters.  The Eighth Circuit erred in reaching respondents’ challenge to the FCC’s claim that §208 gives it authority to review agreements approved by state commissions under the local-competition provisions, because that claim is not ripe.  See Toilet Goods Assoc. v. Gardner, 387 U.S. 158.  Pp. 9—19. 
+
+
+      2.  The FCC’s rules governing unbundled access are, with the exception of Rule 319, consistent with the 1996 Act.  Pp. 19—28.
+
+
+          (a)  Given the breadth of §153(29)’s “network element” definition–i.e., “features, functions, and capabilities … provided by means of” a facility or equipment used in the provision of a telecommunications service–it is impossible to credit the incumbents’ argument that a “network element” must be part of the physical facilities and equipment used to provide local phone service.  It was therefore proper for Rule 319 to include operator services and directory assistance, operational support systems, and vertical switching functions such as caller I.D., call forwarding, and call waiting within the features and services that must be provided to competitors.  Pp. 19—20.
+
+
+          (b)  However, since the FCC did not adequately consider the §251(d)(2) “necessary and impair” standards when it gave requesting carriers blanket access to network elements, Rule 319 is vacated.  The rule implicitly regards the “necessary” standard as having been met regardless of whether carriers can obtain requested proprietary elements from a source other than the incumbent, and regards the “impairment” standard as having been met if an incumbent’s failure to provide access to a network element would decrease the quality, or increase the cost, of the service a requesting carrier seeks to offer, compared with providing that service over other unbundled elements in the incumbent LEC’s network.  The FCC cannot, consistent with the statute, blind itself to the availability of elements outside the incumbent’s network.  In addition, the FCC’s assumption that any increase in cost (or decrease in quality) imposed by denial of a network element renders access to that element “necessary,” and causes the failure to provide that element to “impair” the entrant’s ability to furnish its desired services, is simply not in accord with the ordinary and fair meaning of those terms.  Section 251(d)(2) requires the FCC to determine on a rational basis which network elements must be made available, taking into account the 1996 Act’s objectives and giving some substance to the “necessary” and “impair” requirements.  Pp. 20—25.
+
+
+          (c)  The FCC reasonably omitted a facilities-ownership requirement.  The 1996 Act imposes no such limitation; if anything, it suggests the opposite, by requiring in §251(c)(3) that incumbents provide access to “any” requesting carrier.  P. 25.
+
+
+          (d)  Rule 315(b), which forbids incumbents to separate already-combined network elements before leasing them to competitors, reasonably interprets §251(c)(3), which establishes the duty to provide access to network elements on nondiscriminatory rates, terms, and conditions and in a manner that allows requesting carriers to combine such elements.  That section forbids incumbents to sabotage elements that are provided in discrete pieces, but it does not say, or even remotely imply, that elements must be provided in that fashion.  Pp. 25—28.
+
+
+      3.  Because the “pick and choose” rule tracks the pertinent language in §252(i) almost exactly, it is not only a reasonable interpretation of that section, it is the most readily apparent.  Pp. 28—30.
+
+Nos. 97—826 (first judgment), 97—829 (first judgment), 97—830, 97—831 (first judgment), 97—1075, 97—1087, 97—1099, and 97—1141, 120 F.3d 753, reversed in part, affirmed in part, and remanded; Nos. 97—826, 97—829, and 97—831 (second judgments), 124 F.3d 934, reversed in part and remanded.
+
+    Scalia, J., delivered the opinion of the Court, Parts I, III—A, III—C, III—D, and IV of which were joined by Rehnquist, C. J., and Stevens, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ., Part II of which was joined by Stevens, Kennedy, Souter, and Ginsburg, JJ., and Part III—B of which was joined by Rehnquist, C. J., and Stevens, Kennedy, Thomas, Ginsburg, and Breyer, JJ.  Souter, J., filed an opinion concurring in part and dissenting in part.  Thomas, J., filed an opinion concurring in part and dissenting in part, in which Rehnquist, C. J., and Breyer, J., joined.  Breyer, J., filed an opinion concurring in part and dissenting in part.  O’Connor, J., took no part in the consideration or decision of these cases.
+
+
+Notes
+
+1. *  Together with AT&T Corp. et al. v. California et al. (see this Court’s Rule 12.4), No. 97—829, MCI Telecommunications Corp. v. Iowa Utilities Board et al., MCI Telecommunications Corp. v. California et al. (see this Court’s Rule 12.4), No. 97—830, Association for Local Telecommunications Services et al. v. Iowa Utilities Board et al., No. 97—831, Federal Communications Commission et al. v. Iowa Utilities Board et al., Federal Communications Commission et al. v. California et al. (see this Court’s Rule 12.4), No. 97—1075, Ameritech Corp. et al. v. Federal Communications Commission et al., No. 97—1087, GTE Midwest Inc. v. Federal Communications Commission et al., No. 97—1099, U S West, Inc. v. Federal Communications Commission et al., and No. 97—1141, Southern New England Telephone Co. et al. v. Federal Communications Commission et al., also on certiorari to the same court. 
+
+ 

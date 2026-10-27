@@ -1,0 +1,2168 @@
+Supreme Court, U_S. 
+FILED 
+
+
+APR 3 096 
+
+
+90 } 
+
+
+In THe 
+Supreme Court of the United States 
+OCTOBER TERM, 1997 
+
+
+AT&T CorpP., ET AL., 
+Petitioners, 
+
+
+Vv. 
+Iowa UTILITIES BOARD, ET AL., 
+
+
+Respondents. 
+
+
+AT&T CorpP., ET AL., 
+Petitioners, 
+
+
+V. 
+
+
+CALIFORNIA, ET AL., 
+Respondents. 
+
+
+And Related Petitions 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+BRIEF FOR RESPONDENT COMPETITION 
+POLICY INSTITUTE IN SUPPORT OF PETITIONER 
+
+
+JOHN D. WINDHAUSEN, JR. GLENN B. M ANISHIN * 
+COMPETITION POLICY INSTITUTE CHRISTY C. K UNIN 
+1156 15th Street, NW BLUMENFELD & COHEN 
+Washington, DC 20005 1615 M Street, NW 
+(202) 835-0202 Suite 700 
+Washington, DC 20036 
+(202) 955- 6300 
+Counsel for *- 
+Respondent 
+
+
+April 3, 1998 *Counsel of Record 
+BEST AVAILABLE COPY! 
+
+
+QUESTIONS PRESENTED 
+
+
+l. Whether the Eighth Circuit erred in holding 
+that the Federal Communications Commission (“FCC”) 
+lacked jurisdiction under the Communications Act of 1934, 
+47 U.S.C. § 151 et seg. (as amended), to promulgate the 
+“interconnection” pricing rules of its First Report and Order 
+implementing the landmark Telecommunications Act of 
+1996. 
+
+
+2. Whether the court of appeals properly found 
+that the FCC’s “rebundling” rules for “unbundled network 
+elements” under section 251(c)(3) of the Act, 47 U.S.C § 
+251(c)(3), are consistent with the plain meaning of the 
+statute. 
+
+
+3. Whether in prescribing rule 51.315(b), 47 
+C.F.R. § 51.315(b), the FCC appropriately exercised its ad- 
+ministrative authority by construing the nondiscrimination 
+requirements of the Act to prohibit incumbent local tele- 
+phone companies from disassembling already combined 
+network elements before leasing them to competing local 
+carriers. 
+
+
+ii 
+LIST OF PARTIES AND AFFILIATES 
+
+
+The parties to the proceedings in the Eighth Circuit 
+are listed in Pet. App. at la-4a, 73a-79a, 92a. 
+
+
+Pursuant to Supreme Court Rule 29.6, Respondent in 
+Support of Petitioner states as follows: 
+
+
+The Competition Policy Institute (“CPI”) is an 
+independent, non-profit organization that advocates state and 
+federal policies to promote competition in tele- 
+communications and energy services in ways that benefit 
+consumers. CPI is advised by a committee of consumer 
+representatives from around the country and receives its 
+funding primarily from new entrants in the market for local 
+telephone service. CPI has no parent companies, sub- 
+sidiaries, or affiliates. 
+
+
+TABLE OF CONTENTS 
+
+Page 
+QUES TIONS PRESENTED ......cscsescsesesesesccesescsosesceseesssesteres i 
+LIST OF PARTIES AND AFFILIATES ...........c.:ccccccceeceeoees ii 
+Se vcneectinneiastcsdincaiintictashtnenen vi 
+PTT scitics siinenieticininioneimmensiieninsidibelaeiesietiel l 
+Fe ioectiguiannininaninicnesittinabiitiitaeetimnsiniianpitiidls 2 
+STATUTORY PROVISIONS INVOLVED...........0.ccccccccc0e. 2 
+SEA TEIGINE OP THES CAGE ooncccecccecscoscccccsesecencsenscnessveseees 2 
+SUMMARY OF ARGUMENT..........:.:.:.::cssssssssssssseeseceseceees 9 
+TT caenienprierientatedanitertapasiiasitbinaticninideindaiataaaiaien talc 11 
+
+
+I. THE COURT OF APPEALS’ DECISION IS 
+INCONSISTENT WITH THE 1996 ACT’S 
+MODEL OF SHARED JURISDICTIONAL 
+AUTHORITY BETWEEN THE FCC AND 
+STATES FOR INTERCONNECTION PRIC- 
+
+
+A. Congress Established a Unique Regulatory 
+Structure and a National Policy Framework 
+
+
+B. The Local Competition Provisions of the 
+Act Contemplate Shared Federal/State 
+RE Sa RR ER RE A aera ee tae 15 
+
+
+iv Vv 
+
+
+TABLE OF CONTENTS—Continued TABLE OF CONTENTS—Continued 
+Page Page 
+1. Sections 251 and 252 Create a “New 1. The Eighth Circuit Erred in Concluding 
+Model” of Jurisdictional Authority for That the Services at Issue Were 
+FEE OE A 15 “Intrastate” Under Section 2(b)................... 30 
+
+
+2. The Eighth Circuit Improperly Read 
+Section 252’s Pricing Language in 
+Isolation from the Rest of the Statute.......... 18 
+
+3. The Structure of the 1996 Act Confirms 
+
+
+2. The Eighth Circuit Failed to Recognize 
+the Significant Role Preserved for the 
+States By the 1996 Act..........ccecscccsscosssessesees 32 
+
+
+Ill. THE COURT OF APPEALS CORRECTLY 
+
+
+Federal/State Jurisdiction ..............0:-sssse000 21 UPHELD THE FCC’S INTERPRETATION 
+OF THE ACT’S “REBUNDLING” PRO- 
+WAS REQUIRED | VISIONS, BUT ON REHEARING IMPROP- 
+
+? ny san 70 "Ts fOCs ormneen. ERLY STRUCK DOWN THE FCC’S RULE 
+TATION OF PRICING JURISDICTION PROHIBITING DISASSEMBLY 0-000 33 
+UNDER THE 1996 ACT ..cccsccscssvesssssveseesssesesssneeeen 24 A. The Eighth Circuit Correctly Concluded 
+A. The Eighth Circuit Erred in Concluding That That the FCC’s Rebundling Rule Complies 
+
+the Act “Plainly” Leaves All Pricing with the Plain Meaning of the Act..................... 33 
+
+
+Jurisdiction to the States...............cccceeeeeeeens 24 1. The FCC's Rebundling Decisions Must 
+
+1. The Act’s Language Is Ambiguous with Be Upheld In Light of the Plain 
+Regard to Jurisdiction Over Pricing........... 24 Language of Section 251(C)(3).......ccccc0000-. 34 
+
+2. The FCC Reasonably Interpreted the 2. The Cross-Petitioners Inappronriately 
+Ambiguous Statute ..................-ssesseseeeneeeees 25 Ask This Court to Substitute Its Judg- 
+
+3. The Eighth Circuit Erred in Concluding ment for That of the Expert Agency.... eines 37 
+That Section 25] Creates Only a Timing | B. The Eighth Circuit Erred in Overturning 
+I ea pceessenssinietecnnscinantniahieapnemenieimninsie 27 on Rehearing the FCC’s “Disassembly” 
+
+B. Congress Did Not Alter the Agency’s | ARETE en A 38 
+
+General Authority To Implement Its ) 
+
+reins: BRRIOD wccccscctesscseeescrremntneneavimenane 28 RRR SIE eT a cee Oe Te 4] 
+
+
+C. The Court of Appeals Incorrectly Applied 
+the “Fence” of Section 2(b) to Overturn 
+
+
+= 
+
+
+CASES 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+Allied-Bruce Terminix Companies v. Dobson, 513 
+
+hb | eee 20 
+Asgrow Seed Co. v. Winterboer, 513 U.S. 179 
+
+(Se 20 
+Blum v. Stenson, 456 U.S. 886 (1984)..........ccccccccccceeees 36 
+California v. FCC, 567 F.2d 84 (D.C. Cir. 1977), 
+
+cert. denied, 434 U.S. 1010 (1978) ...........00000+ 26, 31 
+Chevron USA Inc. v. Natural Resources Defense 
+
+Council, 467 U.S. 837 (1984)........cccccceeeeeenenes passim 
+Computer & Communications Indus. Ass'n v. FCC, 
+
+693 F.2d 198 (D.C. Cir. 1982) .0.....ccccccccccceeeeenes 17, 40 
+Consumer Product Safety Comm'n v. GTE Sylvania, 
+
+ye 35 
+EEOC v. Commercial Office Products Co., 486 U.S. 
+
+Se 28 
+Hubbard v. U.S., 115 S. Ct. 1754 (1995) .....cccccccceeeeeeees 20 
+Illinois Bell Tel. Co. v FCC, 883 F.2d 104 (D.C. 
+
+Ch, Bi ccarcccennensnsticennninrescaccnpennnensen 17,31 
+
+
+Kokoszka v. Bedford, 417 U.S. 642 (1974)..13, 18, 25-26 
+Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355 
+
+
+CRIED ccacccsnccenscesceeanssnnuinccssetionenstesnsnssqsssnveenenes 12, 20 
+Mobil Oil Corp. v. Higginbotham, 436 U.S. 618 
+{ee 38 
+
+
+National Ass'n of Reg. Util. Comm'rs v. FCC, 737 
+F.2d 1095 (D.C. Cir. 1984), cert. denied, 469 
+
+
+Bee 17, 30 
+National Ass'n of Reg. Util. Comm'rs v. FCC, 880 
+
+if) ) 8 ee 17 
+National Broadcasting Co. v. United States, 319 
+
+Fy a 25 
+
+
+ee ee ee 
+
+
+ee ee as 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+
+National RR Passenger Corp. v. Boston & Maine 
+
+Corp. , 503 U.S. 407 (1992) .......ccccc-cseeseesereeseeeeeeceee 25 
+North Carolina Util. Comm'n v. FCC, 552 F.2d 
+
+ey I Oia cstiicsieticidsnniitbinedadlntseealpeesis 17 
+North Carolina Util. Comm'n v. FCC, 537 F.2d 787 
+
+ey SOT ctinicutshictcineicteedtinitpceiliinistbainsdieatnnisitietnansing 17 
+Orthopaedic Hosp. v. Belshe, 103 F.3d 1491 (9th 
+
+ERE Sr ee Le Oe Oe a 15 
+Public Serv. Comm'n of Maryland v. FCC, 909 F.2d 
+
+ATER SUS Ge eee 30 
+Public Utils. Comm'n of Texas v. FCC , 886 F.2d 
+
+ey as ee Ce icbaiiniinietetalidichindnntactinctnodrcenteres 30 
+Reno v. ACLU, 117 S. Ct. 2329 (1997) .....ccccccccceeceeeeees 12 
+Smith v. Illinois, 282 U.S. 133 (1930) .....ccccccccccceees 15, 31 
+
+
+Tennessee Valley Auth. v. Hill, 437 U.S. 153 (1978)....38 
+Unexcelled Chemical Corp. v. United States, 345 
+
+
+ps ee aI iiiatceiteiiniaiiieiietitlaailipancabntbacinisciamsetaied 36 
+United States v. American Trucking Ass ‘ns , 310 
+Se PT ihnichionsstndinntinnnibesditbimsiecsiteimsiibnseiaund 35 
+
+
+United States v. AT&T, 552 F. Supp. 131 (D.D.C. 
+1982), aff'd mem. sub nom. Maryland v. United 
+States , 460 U.S. 1001 (1983)........:cccccccccesceeseeeeeeceeeee 3 
+United States v. LaBonte, 117 S. Ct. 1673 (1997)......... 19 
+
+
+STATUTES AND LEGISLATIVE MATERIALS 
+
+
+Telecommunications Act of 1996 , Pub. L. No. 104- 
+104, 110 Stat. 56 (pertinent provisions codified 
+
+
+RF ie Od Be ctcriecsersccsenstcsertecentatseoneen passim 
+H.R. Conf. Rep. No. 104-458, 104th Cong., 2d 
+SY GENE Siig MO cintdcaicdecirccsenhaptetennnsiianetnes 2-3, 4, 12 
+
+
+H.R. Rep. No. 104-204, 104th Cong., Ist Sess. (July 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+
+H.R. Rep. No. 104-204, 104th Cong., Ist Sess. (July 
+
+BO, BOR cccecerctensescectsevtiommnuiinatinnatimmetsiincrmsnianion 4,12 
+2B UGC. BFE EAI) nccccceccnascssessnesnssesseesscasveressapennsennsine 8 
+BB UB. © BAGECE) eceresresncccssessssvasensccsrnesvonieiecssssensnsescsens 2 
+GT UBB 6 BBD cecesecssnsensecvectncsessecescessecsenmeansesamisnemansneate 4 
+G7 UBL. © BERG cerccecnssnvecsescenssescersnsiestmeenstannevenpinesets 30 
+GF UBL. 6 BEIT deccovcccscnssvevsscsesnctnrscnsteanptacsentvees 10, 15 
+BF UBC. © BBG) cccccrcecsescsncesceovecennssessccessonansinensonsinenees 29 
+BT UBC. © FRB) caceccsssscvsrenssssrrscsecasssarsscosceqnersennmnaseet 29 
+BF UDG. © FA cccecescescecenccesenccsissitsresassepeentinstngnapsamimeenes 17 
+OF UGA. © TIS ccccccccsnsecesenssssnevnecnncensonnsensersensanasensi passim 
+GT UGC. © BB GRII ED ccccsccsccsesssstnssesccnnsseesesntsnemeenrtioorenses 22 
+BT UBS. © ZO BED ceceveceeccscsscencsscssesssssetnesovine 11, 13, 26 
+47 UBC. § ZSUGS NZD). .cncorccoccsvesccscesseccecceses 5, 19, 22 26 
+GF CEB, 6 BER wcecectsccscssncsemescssermamsnennsasen passim 
+G7 UBS. 6 ZEEE IAD crcccctsevescsecsevsesscssssssscsstnesssnavansees 5 
+GF ULB, 6 Bib cccsecscesesccnsanscesceseseusetionnensspiccinecienien 16 
+ATS Foal py. | | RE passim 
+GT PEEK. 0 Zag cescscancsnsseperccrcenesnsorscininniantnesinatitantions passim 
+BF UB. B ZAIIIED) evccccnctcsccecnsncsnnssnesnesremasssnsanstinaces 22 
+G7 CBR. © Ti cnasensassonssnesnemecesemenemeieennsindnne 23, 25 
+GT BBLS. © ZI cccncvttesscccsszsntectitestnsnseereemmnscninne 6, 22 
+BOE Ries B Fe ecccsncsscemicccatntcnitincslapccenennmnseeneaton 13,22 
+GF ile 1 I Picccenncsctescsccscvinecremesinageianengian passim 
+BT USC, 6 Ba occccsccccrssnsssestnsenenssecsseenssnesenaquasesiions 22 
+47 GB BL.. BF rvseccremncssccetnorcssscsenernness 6, 11, 22, 37 
+BF UBL. G Fite ccccepccqrocessecsectosssrrersmimeapsssviapssetnnnecen 16 
+SF UL... 6 EN cccnesecetenpsansevieneneccimnmnenmmeves 23 
+G7 DBA: S Fe ircctcrcceteccncsccpsnessesmecnmasignencnn 22 
+OF CRE, © A ercscnceccstiiitininipsotrmensectintgametnonavinie 6 
+G7 UE.” B Fe ceteesenstinrenstnsinecenienccccsstsorsapesinarttnionies 6 
+BP ULL. © Ze cccteccceecencssanesictnsnmninsteinappeapmee 6, 14 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+a es St ttiatectniectacivthatneenebcciertgsensenshaniesiat 17, 22 
+A en ict craire nicinetinsea in deenpeiasliddacinatieseaaiasins 37 
+SB et ct celesditentincheseldnentintentonsuntontecdinnasummeeenuensenes 6 
+eo cnisi crsccernieshspsenstbatnaanennenpiuntes 6 
+SF Sees tt eartinsderdiecncnritienieiirscibensitabenniceeenivtinimanistians 17 
+Pe Se A a iisidinsnigubetictsiatbisedidepenttiniinmasecsetsenicnens 28 
+ADMINISTRATIVE PROVISIONS 
+FF Gr el ea ee ictcncanstinnttrnnccnasietsninnmaneins 8, 38-39, 4] 
+First Report and Order, /mplementation of the Local 
+Competition Provisions in the 
+Telecommunications Act of 1996, 11 FCC Red. 
+eee ee ndacchsitonicbiateneadsnmneduicenssendaibentennenes passim, 
+Second Report and Order, /mplementation of the 
+Local Competition Provisions in the 
+Telecommunications Act of 1996, 11 FCC Red. 
+I iitindnnncditeiesnrmietenisiacaieiumiietbeniateeericoecs 3 
+
+
+Notice of Proposed Rulemaking, /mplementation of 
+the Local Competition Provisions of the 
+Telecommunications Act of 1996, 11 FCC Red. 
+Ene I CO 4 
+Second Computer Inquiry, 77 F .C.C.2d 384 (1980), 
+aff'd sub nom., Computer & Communications 
+Industry Ass'n v. FCC, 693 F.2d 198 (D.C. Cir. 
+
+
+AES eS ee an ene nD 40 
+OTHER MATERIALS 
+Bonbright, James C. et al., PRINCIPLES OF PUBLIC 
+LE See eee 21 
+FUNK & WAGNALLS STANDARD DICTIONARY (1978)....... 20 
+
+
+WEBSTER’S NINTH NEw COLLEGIATE DICTIONARY 
+
+
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1997 
+
+
+AT&T Corp., ET AL., 
+Petitioners, 
+Vv. 
+Iowa UTILITIES BOARD, ET AL., 
+Respondents. 
+
+
+AT&T CorpP., ET AL., 
+Petitioners, 
+V. 
+CALIFORNIA, ET AL., 
+Respondents. 
+
+
+And Related Petitions 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+BRIEF FOR RESPONDENT COMPETITION 
+POLIcy INSTITUTE IN SUPPORT OF PETITIONER 
+
+
+The Competition Policy Institute (“CPI”) submits this 
+brief in support of petitioners FCC, AT&T, MCI and ALTS 
+for review of the judgment of the United States Court of 
+Anpeals for the Eighth Circuit in these cases. 
+
+
+OPINIONS BELOW 
+
+
+The principal opinion of the Court of Appeals for the 
+Eighth Circuit in Jowa Utilities Board v. FCC (Pet. App. 1. 
+
+
+67a),'! as amended by the court’s order on rehearing (Pet. 
+App. 69a-72a), is reported at 120 F.3d 753. The Federal 
+Communications Commission (“FCC”) order reviewed by 
+the Eighth Circuit—First Report and Order, /mplementation 
+of the Local Competition Provisions in the Telecom- 
+munications Act of 1996 (excerpts of which are reproduced 
+at Pet. App. 131a-337a)—is reported at 11 FCC Red. 15,499 
+
+
+(1996). 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals in Jowa Utilities 
+Board was entered on July 18, 1997. A subsequent order in 
+that case, granting rehearing in part and denying rehearing 
+part, was issued on October 14, 1997. Pet. App. 69a-72a. 
+This Court has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+The most relevant portions of the Communications 
+Act of 1934, as amended by the Telecommunications Act of 
+1996, appear at Pet. App. 93a-130a. 
+
+
+STATEMENT OF THE CASE 
+
+
+On February 8, 1996, the Telecommunications Act of 
+1996 (“the Act” or “the 1996 Act”), Pub. L. No. 104-104, 
+TI0 Stat. 56 (pertinent provisions codified at 47 U.S.C. §§ 
+251-76), was signed into law. This landmark legislation, the 
+first comprehensive revision of the Communications Act 
+since its enactment in 1934, was designed by Congress to 
+“open{] a// telecommunications markets to competition.” 
+
+
+| References to “Pet. App.” are to the Appendix filed by 
+petitioner AT&T in No. 97-826. 
+
+
+H.R. Conf. Rep. No. 104-458, 104th Cong., 2d Sess. 1, 113 
+(Jan. 31, 1996) (“Conf. Rep.”) (emphasis added). The 
+Federal Communications Commission (“FCC”) was directed 
+to implement the critical local telephone competition 
+provisions of the 1996 Act. 47 U.S.C. § 251(d)(1). The 
+petitions before this Court seek review of the Eighth Circuit 
+decisions vacating and upholding certain FCC regulations 
+implementing the 1996 Act. See Implementation of the 
+Local Competition Provisions in the Telecommunications 
+Act of 1996, 11 FCC Red. 15,499 (1996) (“First Report and 
+Order”) (excerpts printed at Pet. App. 131a-337a); Jmple- 
+mentation of the Local Competition Provisions in the 
+Telecommunications Act of 1996, 11 FCC Red. 19,332 
+(1996) (“Second Report and Order”) (excerpts printed at Pet. 
+App. 338a-353a). 
+
+
+1. Prior to passage of the 1996 Act, little if any 
+competition had developed in local telecommunications 
+markets. As a result of the antitrust settlement in United 
+States v. AT&T, 552 F. Supp. 131 (D.D.C. 1982), aff'd mem. 
+sub nom. Maryland v. United States, 460 U.S. 1001 (1983), 
+competition developed rapidly in the market for long- 
+distance services. The AT&T settlement was founded on the 
+theory that local telephone service was a “natural 
+monopoly.” Nearly fifteen years later, local telephone 
+companies (referred to as “local exchange carriers”) continue 
+to retain monopolistic control over the provision of local 
+telecommunications services. Consequently, telephone cus- 
+tomers virtually never have a choice of providers for local 
+phone service, preventing consumers from obtaining the 
+many benefits attending competitive markets. These local 
+monopolies are largely regulated by state public utility 
+commissions and the FCC. Earlier tliis decade, some states 
+sought to bring the benefits of competition to their local 
+telecommunications markets, but these efforts were hindered 
+
+
+by the opposition of incumbent local exchange carriers and 
+the lack of a national policy framework. See Jmplementation 
+of the Local Competition Provisions of the Telecom- 
+munications Act of 1996, Notice of Proposed Rulemaking, 
+CC Docket No. 96-98, FCC 96-182, 11 FCC Red. 14,171, 
+§ 5 (April 19, 1996). 
+
+
+2. With the 1996 Act, Congress established a 
+“national policy framework” designed to bring the benefits 
+of competition to local telephone consumers throughout the 
+country. Conf. Rep. at 1, 13. Congress amended Title II of 
+the Communications Act of 1934, 47 U.S.C. § 151 ef seq., to 
+establish baseline federal policies to allow local competition 
+to develop nationwide. In order to ensure consistency and 
+uniformity in implementation of this national policy 
+framework, the FCC was charged with ensuring that the 
+Act’s requirements were met. At the same time, in order to 
+reflect the particularities of service at the local level, state 
+commissions were also given a substantial role under the 
+Act. This balanced regulatory approach ensures the devel- 
+opment of a uniform national policy that rationally accounts 
+for differing conditions at the local level. 
+
+
+There are three different means of competitive entry 
+into local telecommunications services permitted under the 
+1996 Act. 47 U.S.C. § 251. Each mode of entry will attract 
+a different kind of competitor, thus maximizing the 
+likelihood of producing competitive local markets “as 
+quickly as possible.” H.R. Rep. No. 104-204, 104th Cong., 
+Ist Sess. 89 (July 24, 1995) (“H. Rep.”). First, competing 
+local carriers can “interconnect” their own networks with the 
+facilities of the existing, incumbent local carriers. _Inter- 
+connection is especially important to facilities-based 
+competitors, who are unlikely in the short run to have 
+constructed local telephone networks connecting every 
+single customer. Second, because local telecommunications 
+
+
+2 buat 
+
+
+2 ah Sms eRe 
+
+
+Po RO RRS re GA me ie im, Ne tan, Ye 
+
+
+competition will not develop if new entrants are required to 
+build their own facilities before initiating service, the Act 
+entitles competitors to enter the local market by leasing 
+pieces of the existing local exchange networks, referred to as 
+“unbundled network elements” (switches, local telephone 
+“loops,” directory assistance, etc.), from incumbent carriers. 
+Third, consistent with the FCC’s traditional rules governing 
+telecommunications services, other carriers are authorized t. 
+“resell” services of the incumbent local exchange carrier, 
+thus allowing new competitors to offer a complete array of 
+services immediately upon entry into the local telephone 
+marketplace. 
+
+
+The principal provisions of the Act promoting local 
+telephone competition are sections 251 and 252. Section 251 
+establishes specific obligations of incumbent local exchange 
+carriers with respect to each mode of local telephone entry: 
+interconnection, unbundled network elements and resale. 
+Interconnection and “access to network elements on an 
+unbundled basis” must both be offered to all competing 
+telecommunications carriers on rates, terms and conditions 
+that are “just, reasonable, and nondiscriminatory.” 47 U.S.C. 
+§§ 251(c)(2)(D), (c)(3). Incumbents are “required to offer 
+for resale at wholesale rates any telecommunications 
+service” sold to end user customers. Jd § 251(c)(4)(A). To 
+enforce these obligations, the FCC is required to “establish 
+regulations” implementing “the requirements of this 
+section.” /d § 251(d)(1). And to facilitate the rapid move- 
+ment of local markets towards competitive entry, Congress 
+directed the FCC to “complete all actions necessary” to 
+promulgate these implementing regulations “within 6 
+months.” /d. 
+
+
+Section 252 sets forth the procedures that competitors 
+and individual incumbent carriers must follow in order to 
+meet the core requirements of section 251. 47 U.S.C. § 252. 
+
+
+Carriers must first negotiate an “interconnection agreement,” 
+and where negotiations fail to result in an expeditious 
+agreement, state commissions are directed to arbitrate 
+interconnection disputes. State commission resolution of 
+issues presented for arbitration by the carriers must meet the 
+requirements of section 251 and the FCC’s implementing 
+regulations. 47 U.S.C. § 252(c)(1). State commissions are 
+charged with responsibility to “determine,” consistent with 
+the requirements of section 251, rates for interconnection, 
+unbundled elements and resale. 47 U.S.C. §§ 252(d)(1), 
+(d)(3). Section 252(d) provides that these rates are to be 
+based on the “cost” of the service. In the event that a state 
+commission does not fulfill its statutory role, the FCC is 
+directed to assume these responsibilities. 47 U.S.C. § 
+252(e)(5). Once interconnection agreements are approved, 
+they are subject to review by the federal courts, but not state 
+courts, to determine if the requirements of sections 251 and 
+252 have been met. 47 U.S.C. §§ 252(e)(4), (e)(6). 
+
+
+Finally, in section 271 of the Act, Congress provided 
+the former Bell Companies, called Regional Bell Operating 
+Companies, with an incentive for opening their local 
+markets. Once a regional company demonstrates that it has 
+successfully complied with the requirements of section 271, 
+the FCC is directed to permit the incumbent to provide long- 
+distance services if it concludes (with the advice of the 
+Department of Justice) that such long-distance entry is in the 
+“public interest.” 47 U.S.C. § 271. The FCC is directed to 
+review such petitions to determine if they satisfy a specified 
+fourteen-point checklist that references, inter alia, the 
+requirements of sections 251 and 252. 47 USC. § 
+271(c2\(B). In addition, the FCC must fill in where state 
+commissions fail to carry out their statutory role and must 
+ensure that the requirements of sections 251 and 252 are met 
+
+
+prior to approval of a Regional Bell Operating Company’s 
+petition to provide long-distance services. 
+
+Thus, Congress distributed jurisdictional respon- 
+sibility for ensuring the development of local competition 
+between both state and federal regulatory agencies. The 
+FCC must implement section 251’s requirements, the states 
+must review, arbitrate and approve interconnection agree- 
+ments, and the federal courts are charged with judicial 
+review of those state-approved agreements. 
+
+
+3. On August 8, 1996, the FCC met the six-month 
+statutory deadline to implement the requirements of section 
+251 and issued its First Report and Order. This order 
+provided substantial detail and guidelines for implementation 
+of the Act’s requirements. Among the regulations enacted 
+by the FCC was the establishment of pricing guidelines for 
+setting rates for interconnection, unbundled network 
+elements and resale. The FCC’s rules defined the basic 
+costing and pricing methodology to be used for determining 
+whether rates for interconnection and unbundling were “just, 
+reasonable, and nondiscriminatory” as required by sections 
+251(c\(2) and 251(c)(3). Likewise, the Commission estab- 
+lished a methodology for determining resale rates under 
+section 251(c)(4). 
+
+
+The FCC also defined the “network elements” that 
+incumbent carriers are required to unbundle pursuant to 
+section 251(c)(3). In establishing unbundling rules, the FCC 
+implemented regulations to ensure that incumbent carriers 
+allow competitors to combine, or “rebundle,” network 
+elements. Specifically, the FCC held that incumbent carriers 
+must allow competitors to combine leased elements to 
+provide finished telecommunications services. These regula- 
+tions also prohibit discriminatory behavior by the incumbent 
+in providing access to its network as required by section 
+
+
+251(c)(3). The FCC ruled that in order to prevent discrim- 
+ination and anticompetitive conduct by incumbent carriers, 
+incumbents may not break apart already combined network 
+elements before leasing them to competing local carriers. 47 
+C.F.R. § 51.315(b). This ensures that incumbents cannot 
+retard competitive local entry by imposing on their 
+competitors the cost and delay of integrating network 
+elements that are already combined in the incumbent’s own 
+telecommunications network. 
+
+4. Petitions for judicial review of the FCC’s First 
+Report and Order were filed by incumbent carriers in several 
+federal courts and consolidated and assigned by lottery to the 
+United States Court of Appeals for the Eighth Circuit. See 
+28 U.S.C. § 2112(a)(3). These petitions challenged a 
+number of rules, including the FCC’s pricing rules and the 
+agency’s requirements with respect to rebundling and 
+disassembly of unbundled network elements. 
+
+On July 18, 1997, the Eighth Circuit issued its 
+decision. Without reaching the merits of the FCC’s pricing 
+rules, the court of appeals found that these rules exceeded the 
+agency’s jurisdiction on the ground that section 252 gives 
+state commissions exclusive authority to set prices for 
+interconnection, unbundled elements and resale. Pet. App. 
+lla-12a. On rehearing, the Eighth Circuit invalidated the 
+FCC’s rule 51.315(b), which it had initially left intact, 
+holding that the Act entitles an incumbent carrier to 
+disconnect previously combined elements. /d. 
+
+
+5. Following the Eighth Circuit’s decisions, petitions 
+for certiorari were filed by numerous parties seeking review 
+of the judgment. Cross Petitions were filed by several 
+opposing carriers requesting review of certain other aspects 
+of the Eighth Circuit’s ruling. This Court accepted certiorari 
+
+
+and consolidated all the petitions and cross petitions seeking 
+review of the court of appeals’ judgment. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+In enacting the Telecommunications Act of 1996, 
+Congress affirmatively sought to alter the status quo by 
+establishing a “national policy framework” to accelerate the 
+development of local telephone competition. The new reg- 
+ulatory scheme fashioned by Congress expressly recognizes 
+the unique character of interconnection, unbundling and 
+resale, and thus eschews reliance on the interstate/intrastate 
+jurisdictional allocation traditionally used for regulation of 
+telecommunications services. 
+
+Because the local telephone network encompasses 
+the exclusive jurisdiction either of the FCC or state public 
+utility commissions, the 1996 Act contemplates shared 
+federal/state responsibility for implementing measures to 
+open local telephone markets to competition. Thus, section 
+251 directs the FCC to “establish regulations” implementing 
+the requirements for interconnection, including pricing. 
+Section 252, on the other hand, directs state commissions to 
+arbitrate interconnection agreements and to “determine” the 
+prices for interconnection, unbundled network elements and 
+resale based on the “cost” of the service. This shared re- 
+sponsibility over pricing is fully consistent with Congress’s 
+desire for a nationwide policy to promote competition at the 
+local level “as quickly as possible.” 
+
+The best way the local telecommunications comp- 
+etition envisioned by Congress can occur on a national basis 
+is with a single definition of “cost” that is implemented 
+uniformly for individual states and local exchange carriers 
+nationwide. The states continue to have a substantial role in 
+
+
+10 
+
+
+furthering and maintaining the national policy of local 
+competition, circumscribed by the Act’s requirements and 
+the FCC’s implementing regulations. 
+
+The Eighth Circuit’s decision to grant complete 
+pricing authority to the states is based on several errors: (1) 
+it ignores the explicit language and structure of the Act 
+giving the FCC authority over rates; (2) it incorrectly 
+assumes that interconnection, unbundled network elements 
+and resale are solely “intrastate” services; (3) it improperly 
+substitutes the Eighth Circuit’s interpretation of the 1996 Act 
+for that of the FCC, thereby ignoring this Court’s rulings on 
+deference to administrative agencies; and (4) it incorrectly 
+applies section 2(b) of the Communications Act, 47 U.S.C. § 
+152(b)(1), in a manner that conflicts with the authority 
+affirmatively granted the FCC under section 251. Because 
+section 251 authorizes the FCC to “establish regulations” for 
+interconnection, unbundled network elements and resale— 
+including definitions of “just and reasonable” rates under 
+sections 251(c)(2)-(3) and wholesale rates under section 
+251(c\4)—neither section 252 nor section 2(b) is a 
+jurisdictional barrier to promulgation by the FCC of rules 
+defining interconnection “cost” for purposes of state “de- 
+termination” of interconnection rates in arbitrations. 
+
+
+The Eighth Circuit properly concluded that the 
+definitions of unbundled network elements, and the FCC’s 
+rule allowing competitors to “rebundle” network elements, 
+fall within the Commission’s statutory jurisdiction in light of 
+the clear statutory jurisdiction for the agency to promulgate 
+unbundling rules. However, the court of appeals erred in 
+overturning on rehearing the provisions of the First Report 
+and Order prohibiting incumbents from disassembling 
+already combined unbundled network elements. The FCC's 
+rule is a reasonable interpretation of the statutory language 
+that is entitled to deference by the appellate court. 
+
+
+1] 
+
+
+ARGUMENT 
+
+
+I. THE COURT OF APPEALS’ DECISION IS 
+INCONSISTENT WITH THE 1996 ACT’S 
+MODEL OF SHARED JURISDICTIONAL 
+AUTHORITY BETWEEN THE FCC AND 
+STATES FOR INTERCONNECTION PRICING 
+
+
+The 1996 Act creates a model of regulatory juris- 
+diction that is specially fashioned to meet the congressional 
+goal of a rapid transition to competitive local telecom- 
+munications under a national policy framework. Section 251 
+requires the FCC to “establish regulations” to “implement{ }” 
+the provisions governing interconnection, unbundling and 
+resale, including the requirement that rates be “just, reas- 
+onable, and nondiscriminatory.” 47 U.S.C. §§ 251(c)(2), 
+(c)(3), (d)(1). Section 252 provides that state commissions 
+are to “determinfe]” interconnection prices, based on the 
+“cost” of the respective service, in resolving interconnection 
+arbitrations. 47 U.S.C. §§ 252(d)(1), (d)(3). Congress clear- 
+ly intended that both the FCC and the states would have 
+authority over pricing issues. By allowing section 252 to 
+supersede section 251, the Eighth Circuit rendered meaning- 
+less the affirmative “rates” provisions of the latter. The court 
+of appeals’ judgment therefore accords exclusive authority 
+over pricing to the states in a manner that cannot be squared 
+either with the language and structure of the Act or with the 
+congressional objective of establishing a national policy 
+framework to promote local telephone competition. 
+
+
+A. Congress Established a Unique Regulatory 
+Structure and a National Policy Framework to 
+Open Local Telephone Markets to Competition 
+In overturning key facets of the FCC’s First Report 
+and Order, the Eighth Circuit did not reach the substantive 
+
+
+12 
+
+
+merits of the FCC’s pricing rules, but rather based its 
+decision on the erroneous conclusion that the FCC lacked 
+jurisdiction to promulgate any pricing rules. Specifically, 
+the court held that the traditional interstate/intrastate 
+jurisdictional allocation originally enacted in 1934, see 
+Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355 (1986), 
+also applies to sections 251 and 252 of the 1996 Act. Pet. 
+App. 22a-23a. Consequently, the Eighth Circuit failed to 
+recognize that the language, structure and purpose of the 
+1996 Act create new shared federal/state regulatory 
+responsibilities for opening local telephone markets to 
+competition. 
+
+This dual regulatory approach is readily apparent 
+when the statutory provisions of the Act are read as a whole. 
+Yet, rather than discern the congressional scheme, the Fight 
+Circuit simply parsed certain statutory sections in apart 
+The resulting decision is not only contrary to 
+principles of statutory interpretation and judicial deference, 
+but undermines the overall scheme and function of the Act. 
+
+
+There is no question that Congress intended to 
+establish a new “pro-competitive, de-regulatory national 
+policy framework” for the communications industry. Conf. 
+Rep. at 1, 113 (emphasis added). Nor is there any 
+disagreement that the central goal of the Act was to create 
+“competition as quickly as possible.” H. Rep. at 89. Thus, 
+the Act’s “major components * * * were designed to 
+promote competition in the local telephone service market. 
+Reno v. ACLU, 117S. Ct. 2329, 2337-38 (1997). In an effort 
+to jump start competition, Congress directed federal and state 
+regulators to work together to implement the provisions 
+governing access by competitors to the local telephone 
+network. In other words, the “national policy framework of 
+the Act contemplates shared federal and state responsibility 
+
+
+13 
+
+
+for introducing competition through interconnection, 
+unbundling and resale. 
+
+
+As discussed more fully in Section 1.B, Congress’s 
+intent to create a shared system of federal and state 
+responsibility for opening local markets to competition is 
+evident when the local competition provisions of the Act are 
+viewed as a whole. 
+
+
+When interpreting a statute, the court will 
+not look merely to a particular clause in 
+which general words may be used, but will 
+take in connection with it the whole statute . 
+. . and the objects and policy of the law, as 
+indicated by its various provisions, and give 
+to it such a construction as will carry into 
+execution the will of the legislature. 
+
+
+Kokoszka v. Bedford, 417 U.S. 642, 650 
+(1974). 
+
+
+The Eighth Circuit violated this well-settled principle of 
+Statutory construction by viewing the language of section 
+252(d) (states “determine” interconnection rates) in isolation 
+from the balance of the 1996 Act. 
+
+
+As directed by the Act, the FCC “establishes 
+regulations” necessary to implement local competition under 
+section 251. 47 U.S.C. §251(d)(1). Section 251 includes 
+provisions requiring that rates be “just, reasonable, and 
+nondiscriminatory” 47 U.S.C. §§ 251(c)(2), (c\(3). The 
+FCC then hands off responsibility to the states, pursuant to 
+section 252, to examine and “determin{je]” the specific rates, 
+terms and conditions actually incorporated in individual 
+interconnection agreements. 47 U.S.C. § 252(d). State cor,- 
+missions thus implement both rate and non-rate provisions of 
+Act, in accordance with section 251 and the FCC's 
+regulations, in the context of carrier-specific interconnection 
+
+
+14 
+
+
+arbitrations. Requiring compliance with FCC rules is 
+essential to maintain a national policy framework. This dual 
+regulatory approach allows the FCC to establish uniform 
+national rules that ensure compliance with section 251’s 
+requirements, while permitting states to set specific prices 
+that take into account the particular “costs” of each local area 
+and incumbent local carrier and to approve the actual inter- 
+connection agreements. 
+
+
+Consequently, the Eighth Circuit’s insistence on 
+maintaining traditional intrastate/interstate jurisdictional 
+roles thwarts the congressional goal of opening local markets 
+to competition in a nationally consistent fashion. Granting 
+exclusive interconnection pricing authority to the states on 
+grounds that unbundling and interconnection are “fundamen- 
+tally intrastate,” Pet. App. 22a-23a, as the Eighth Circuit 
+reasoned, in fact strips the FCC of any ability to ensure 
+consistent, uniform application of section 251’s requirements 
+in the hundreds of interconnection agreement arbitrations 
+supervised by state commissions. Under the Eighth Circuit’s 
+decision, the “national policy framework” and uniformity 
+sought by Congress can only be achieved through Supreme 
+Court review of federal section 252(e)(6) actions challenging 
+state arbitration proceedings.? This highly unusual approach 
+to statutory interpretation—in essence delegating to state 
+regulatory commissions the ability to interpret a federal 
+statute—cannot be assumed in the absence of some 
+affirmative manifestation by Congress. The law is clear that 
+state commissions are due no deference when interpreting a 
+
+
+2 See 47 U.S.C. § 252(e)(6)(“In any case in which a State 
+commission makes a determination under this section, any party 
+aggrieved by such determination may bring an action in an appropriate 
+federal district court to determine whether the agreement or statement 
+meets the requirements of section 251 and this section.”). 
+
+
+15 
+
+
+federal statute. E.g., Orthopaedic Hosp. v. Belshe, 103 F.3d 
+1491, 1495-96 (9th Cir. 1996). 
+
+
+B. The Local Competition Provisions of the Act 
+Contemplate Shared Federal/State Authority 
+
+
+1. Sections 251 and 252 Create a “New 
+Model” of Jurisdictional Authority for 
+Interconnection 
+
+
+Sections 251 and 252, read together, clearly establish 
+that Congress sought to eschew the traditional intra- 
+state/interstate jurisdictional regulatory scheme in favor of a 
+new, shared jurisdictional model that would more rapidly 
+permit the development of local competition on a consistent 
+national basis. Indeed, the first line of the legislative history 
+of section 251 makes explicit reference to a “new model” of 
+interconnection. Conf. Rep. at 121. Consequently, and 
+deliberately, neither section 251 nor section 252 ever refers 
+to unbundling, interconnection or resale as either “intrastate” 
+or “interstate,” the traditional line of jurisdictional 
+demarcation under the original 1934 Act. See Smith vy. 
+Illinois, 282 U.S. 133 (1930); 47 U.S.C. § 152(b)(1). 
+
+
+Congress chose <his “new model” because the unique 
+character of interconnection, unbundled network elements 
+and resale defies reliance on traditional interstate/intrastate 
+jurisdictional allocation. The same copper telephone 
+“loops,” whether made available via interconnection, 
+unbundling or resale, will be used by competing carriers to 
+provide both intrastate and interstate telecommunications 
+services. Nothing in the Act limits their use; nothing 
+requires carriers to purchase some unbundled network 
+elements for interstate services and another set of unbundled 
+elements for intrastate services. Instead of dividing 
+telephone facilities and regulation along intrastate and 
+
+
+16 
+
+
+interstate lines, as under the 1934 Act (which limited the 
+FCC to regulating “interstate” communications), sections 
+251 and 252 establish joint jurisdiction over unbundling, 
+interconnection and resale because those services and 
+facilities will be used on an intrastate and interstate basis. 
+
+
+The omission of any reference to “intrastate” or 
+“interstate” interconnection services is significant. Under 
+sections 251 and 252, both state and federal regulators 
+undertake responsibilities that they could not have performed 
+under the traditional 1934 Act regime. Thus, for example, 
+the FCC establishes rules to implement unbundling, 
+interconnection and resale for incumbent local exchange 
+carriers, regardless of whether these services or facilities are 
+used for intrastate or interstate purposes. 47 U.S.C. § 251(d). 
+Likewise, states must approve interconnection agreements 
+that apply to provision of services for both intrastate and 
+interstate communications, 47 U.S.C. § 252(e), and must 
+“determine” prices for both intrastate and interstate use of 
+interconnection, unbundled network elements, and resale. 
+
+
+The Eighth Circuit held that state commissions enjoy 
+exclusive jurisdiction over prices for unbundled network 
+elements, interconnection and resale. In the court of appeals’ 
+view, the FCC lacks jurisdiction to set pricing because it 
+assumed that interconnection is “fundamentally intrastate.” 
+Pet. App. 22a. Yet the court failed to examine the con- 
+sequences of its assumption, namely that pricing under the 
+Act, if left solely to state commissions, gives state com- 
+missions jurisdiction over interstate communications 
+services. There is no authority anywhere in the Act or its 
+legislative history for the proposition that states can regulate 
+interstate services. Indeed, the Communications Act else- 
+where grants the FCC exclusive jurisdiction to regulate inter- 
+state telecommunications services. And where interstate and 
+intrastate services are inextricably mixed, as here, the courts 
+
+
+17 
+
+
+have long permitted FCC preemption of state regulatory 
+authority. See North Carolina Util. Comm'n v. FCC, 552 
+F.2d 1036, 1045 (4th Cir. 1977)(“NCUC II’); accord Illinois 
+Bell Tel. Co. v FCC, 883 F.2d 104, 116 (D.C. Cir. 1989); 
+Computer & Communications Indus. Ass'n v. FCC, 693 F.2d 
+198, 215-16 (D.C. Cir. 1982); National Ass'n of Reg. Util. 
+Comm'rs v. FCC, 737 F.2d 1095, 1114-15 (D.C. Cir. 1984), 
+cert. denied, 469 U.S. 1227 (1985). See, e.g. North Caro- 
+lina Util. Comm'n v. FCC, 537 F.2d 787, 791-94 (4th Cir. 
+1976); National Ass'n of Reg. Util. Comm'rs v. FCC, 880 
+F.2d 422, 431 (D.C. Cir. 1989). 
+
+
+Congress’s omission of any “intrastate” or 
+“interstate” language in sections 251 and 252 was deliberate. 
+Other provisions of the Act demonstrate that where Congress 
+wanted to maintain the interstate and intrastate jurisdictional 
+scheme, it did so. For instance, in the Act’s provisions 
+concerning pay-per-call services, see 47 U.S.C. § 228, and 
+payphone compensation, see 47 U.S.C. § 276, Congress 
+explicitly stated that the provisions would apply to all 
+“interstate and intrastate” calls. Likewise in section 254, 
+Congress explicitly maintained the intrastate/interstate dis- 
+tinction for universal service, and fashioned new regulatory 
+rules for determinations concerning those jurisdictional 
+parameters. See 47 U.S.C. § 254(f). 
+
+
+These differences demonstrate unequivocally that 
+Congress could and did maintain the distinction between 
+interstate and intrastate services where it intended such 
+distinctions to be preserved. Congress’s failure to use such 
+traditional language in the 1996 Act’s central provisions on 
+interconnection confirms Congress’s expressed intent to 
+fashion a “new model” of shared regulatory jurisdiction. See 
+Conf. Rep. at 121. The court of appeals’ failure to consider 
+the language and structure of sections 251 and 252, in 
+context, is thus the fatal flaw in its hoiding that section 
+
+
+18 
+
+
+252(d) accords exclusive interconnection pricing to state 
+commissions. 
+
+
+2. The Eighth Circuit Improperly Read Section 
+252’s Pricing Language in Isolation from the 
+Rest of the Statute 
+
+
+The court of appeals erred in failing to construe 
+section 252’s pricing language in harmony with the rest of 
+the statute. See Kokoszka, 417 U.S. at 650. Looking solely 
+at section 252, the Eighth Circuit reasoned that 
+
+
+subsection 252(d) refers exclusively to the 
+determinations by state commissions of the 
+just and reasonable rates, and it provides 
+Statutory standards for the state commissions 
+to follow when setting the rates, thus 
+negating any need for additional FCC 
+standards or guidelines. Pet. App. 14a 
+(emphasis added). 
+
+
+Accordingly, the court held that the FCC’s pricing rules 
+supplant state commissions’ ability to “establish” or “deter- 
+mine” rates as directed in section 252(d). Pet. App. 2la 
+n.19. This logic is incorrect. 
+
+
+The Eighth Circuit’s conclusion “that the Act plainly 
+grants the state commissions, not the FCC, the authority to 
+determine the rates involved in the implementation of the 
+local competition provisions of the Act,” Pet. App. l4a 
+(emphasis added), is wrong. The court of appeals’ opinion 
+fails to address the critical issue of whether the FCC’s rules 
+prevent the state commissions from “determining” or 
+“establishing” rates under section 252(d). The fact that “the 
+Act directly and straightforwardly assigns to the states the 
+authority to set prices regarding the local competition 
+provisions of the Act in subsection 252(c\(2) and 252(d),” 
+
+
+7 oS a a 
+
+
+a 
+
+
+19 
+
+
+Pet. App. 17a, in no way precludes the FCC from 
+establishing a uniform federal pricing methodology. 
+
+
+The methodology set out in the FCC’s First Report 
+and Order effectively implements the requirements of 
+section 251 that access to interconnection and unbundled 
+network elements be provided “on rates, terms and 
+conditions that are just reasonable, and nondiscriminatory, in 
+accordance with the terms and conditions of the agreement 
+and the requirements of this section and section 252,” 47 
+U.S.C. §§ 251(c)(2)(D), (c)(3) (emphasis added). By 
+defining “based on cost,” the FCC’s rules that ensure that 
+States make rate determinations based on a single, uniform 
+costing methodology. See, e.g., First Report and Order 4§ 
+618, 625. This methodology does not “determine” or 
+“establish” the actual rates, id. 4 618, but rather leaves the 
+rate-making function to states, which are best positioned to 
+make such fact- and record-dependent determinations. 
+
+
+Interpreting the 1996 Act to Support this sort of 
+bifurcated pricing jurisdiction is consistent with the common 
+usage of the language employed by Congress. Under section 
+251, the FCC is required to “implement” the provisions of 
+the Act. In contrast, under section 252, state commissions 
+must “establish” or “determine” rates for interconnection and 
+unbundled network elements. First Report and Order © 618. 
+The Eighth Circuit’s reading of the statute equates 
+“determine” with “implement,” implying that Congress 
+wanted states to define the pricing standards, as well as set 
+actual interconnection prices, under section 252. Yet this 
+approach turns the common meaning of the statutory 
+language on its head.? 
+
+
+3 This Court has repeatedly looked to dictionary definitions 
+where statutory ambiguities require it to discern Congress’s intent. See, 
+
+
+20 
+
+
+Dictionaries define these terms very differently. 
+Implement is defined as “[t]o carry into effect; fulfill; 
+accomplish . . . [t]o provide what is needed for; supplement.” 
+FUNK & WAGNALLS STANDARD DICTIONARY 635 (1978). 
+Determine is defined as “to fix conclusively or 
+authoritatively” or “to settle. or decide by choice of 
+alternatives or possibilities” or “to fix the form, position or 
+character of beforehand” or “to bring about as a result” or “to 
+find out or come to a decision about by investigation, 
+reasoning, or calculation.” WEBSTER’s NINTH NEw COLLE- 
+GIATE DICTIONARY 346 (1984); accord, FUNK & WAGNALLS 
+STANDARD DICTIONARY 349 (1978)(“to settle or decide, as an 
+argument, question or debate. . . . to ascertain or fix, as after 
+thought or observation. .. . to cause to reach a decision. . . . 
+to regulate; fix or decide causally.”). Establish is defined as 
+“to settle or fix firmly; make stable or permanent.” Jd. at 434. 
+Thus, the terms “determine” and “establish” both connote the 
+setting or fixing of particular rates, or selecting actual 
+values.* By authorizing the FCC to “implement” the Act’s 
+pricing provisions, Congress must therefore have intended 
+that the agency “supplement” the bare-bones language of the 
+
+
+e.g., United States v. LaBonte, 117 S. Ct. 1673 (1997)(Thomas, J.) 
+(defining “maximum” sentencing guidelines); Allied-Bruce Terminix 
+Companies v. Dobson, 513 U.S. 265 (1995)(Breyer, J.)(defining what 
+“involves” and “affects” commerce); Hubbard v. U.S., 514 U.S. 695 
+(1995 (Stevens, J.)(defining what “shows” congressional intent); Asgrow 
+Seed Co. v. Winterboer, 513 U.S. 179 (1995)\Scalia, J.\(definition of 
+“marketing”). 
+
+4 Because it permits states to decide what the statutory “cost” 
+standard for interconnection prices means in the context of arbitration 
+proceedings, the Eighth Circuit’s interpretation essentially equates “de- 
+termine” with “define.” However, define is a much broader term, mean- 
+ing “to determine or identify the essential qualities or meaning of” or “to 
+discover or set forth the meaning of” or “to make distinct, clear or de- 
+tailed in outline.” WEBSTER’S NINTH NEW COLLEGIATE DICTIONARY 
+334 (1984); accord FUNK & WAGNALLS STANDARD DICTIONARY 336 
+(1978 (“to state the meaning of (a word or phase)”). 
+
+
+This bifurcated approach to pricing also reflects 
+Congress's desire to promote some degree of national 
+uniformity. The statutory “standards” referred to by the 
+Eighth Circuit are not self-executing; without regulations 
+interpreting and defining the statutory lauguage, the pricing 
+standards alone are imprecise. The term “based on cost” in 
+section 252(d)—the pricing standard for interconnection and 
+
+
+3. The Structure of the 1996 Act Confirms 
+
+
+Congress’s New Model of Shared Fed- 
+eral/State Jurisdiction 
+
+
+The structure of sections 251 and 252 reveals a strong 
+and significant interrelationship. Throughout section 251, 
+
+
+* James C. Bonbright et al., PRINCIPLES OF PUBLIC UTILITY 
+RATES 109 (1988)(“*Cost’ like ‘value’ is a word of many meanings, with 
+the result that people who disagree, not just on minor details but on major 
+principles of ratemaking policy, all may subscribe to some version of the 
+principle of service at cost.”) 
+
+
+22 
+
+
+there are cross-references to section 252, see, e.g., 47 U.S.C. 
+§§ 251(c\(1), (cX2\D), (cX3), and section 252 likewise 
+cross-references the requirements in section 251. See, e.g., 
+47 U.S.C. §§ 252(a\(1), (c)(1), (d)(1)-(3), (eX 2B), (f). For 
+instance, unbundled network elements must be priced at 
+“just, reasonable, and nondiscriminatory rates” that are “in 
+accordance with . . . the requirements of section 252.” 47 
+U.S.C. § 251(c)(3). It is clear from these cross-references 
+that Congress intended both federal and state commissions to 
+have a role under the !ocal competition provisions of the Act. 
+
+
+Consequently, even though the mandate for states to 
+“determine” interconnection prices in section 252(d) does 
+not require such prices to be set “in accordance with” section 
+251, Pet. App. 13a-14a, it does provide that states are to 
+“determin{e]” prices “for purposes of” section 251’s “just, 
+reasonable, and nondiscriminatory” rates requirement. 47 
+U.S.C. § 252(d).° Furthermore, section 252(c)(1) requires 
+that states “ensure” that their interconnection arbitration 
+decisions “meet the requirements of section 251, including 
+the regulations prescribed by the Commission.” 47 U.S.C. § 
+
+
+© The Eighth Circuit found it significant that section 252(d) 
+does not contain any reference to the FCC’s section 251 rules. Pet App. 
+13a. Yet section 252(d) itself is constrained by section 252(c), which 
+does contain explicit references to both section 251 and the FCC’s rules. 
+A state does not always determine the prices; if the parties to a negotia- 
+tion agree on prices, the state reviews the agreement under section 
+252(eM2MA). 47 U.S.C. § 252(e 2A). States only step forward to 
+“determine” prices if the parties cannot agree and ask the state to arbi- 
+trate. Section 252(c) states that “in resolving by arbitration . . . any open 
+issues . . . a State commission shall (1) ensure that such resolution and 
+conditions meet the requirement of section 251, including the regulations 
+prescribed by the Commission.” 47 U.S.C. § 252(c\ emphasis added). 
+“[A]ny open issues” includes pricing issues. See section 252(c)(2). 
+Thus, the cross-reference in section 252(c) to the FCC’s rules also 
+applies to state determinations of “cost” under section 252(d), and state 
+cost decisions must, accordingly, be consistent with the FCC’s section 
+251 rules. 
+
+
+23 
+
+
+252(c)( 1). In light of these express interrelationships be- 
+tween sections 251 and 252, the Court cannot infer that 
+Congress intended to create ‘a pricing-specific exception to 
+the requirement that state implementation of decisions must 
+comply with the req:irements of section 251 and the FCC’s 
+rules. While Congress could have been more expansive in 
+Congress's intent that both federal and state agencies 
+participate in pricing decisions, regardless of “interstate” or 
+“Intrastate” use of interconnection, unbundling, and resale. 
+
+Interpreting the statutory language of sections 25] 
+and 252 to establish shared jurisdiction over opening local 
+telephone markets to competition is consistent with the 
+Congressional purpose of establishing a national communi- 
+cations policy framework for local competition. See infra, 
+Section I.B. Competitors need to know what the rules are 
+before rolling out service; states have experience holding 
+hearings and conducting cost studies for telecommunications 
+services. Thus, by permitting the FCC to set generic pricing 
+requirements for “just and reasonable rates,” while author- 
+izing states to “determine” prices in specific arbitration 
+proceedings, Congress efficiently allocated work to the 
+agency best equipped to implement the 1996 Act most 
+expeditiously. 
+
+
+24 
+
+
+ll. THE EIGHTH CIRCUIT WAS REQUIRED TO 
+DEFER TO THE FCC’S INTERPRETATION OF 
+PRICING JURISDICTION UNDER THE 1996 
+ACT 
+
+
+A. The Eighth Circuit Erred in Concluding That the 
+1996 Act “Plainly” Leaves All Pricing Juris- 
+diction to the States 
+The 1996 Act does not expressly state precisely ho 
+
+jurisdiction over its pricing provisions for interconnection 
+and unbundled elements will be allocated. The Eighth 
+Circuit acknowledged that it must defer to agency 
+of a statute or are reasonable constructions of ambiguous 
+statutes,” Pet. App. 8a (citing Chevron USA Inc. v. Natural 
+Resources Defense Council, 467 U.S. 837, 842-45 (1984)), 
+but incorrectly concluded that the grant of section 251 
+rulemaking authority “plainly” did not extend to pricing 
+methodologies for interconnection. Pet App. 14a. The 
+Eighth Circuit likewise improperly found that section 251’s 
+rulemaking provisions are solely time constraints, not sub- 
+stantive grants of regulatory authority. Pet. App. 10a. Based 
+on this erroneous substitution of its own statutory 
+interpretation for that of the agency, the Eighth Circuit 
+concluded that “the FCC exceeded its jurisdiction in 
+promulgating the price rules regarding local telephone 
+service.” Pet. App. 9a-10a. 
+
+
+1. The Act’s Language is Ambiguous with 
+Regard to Jurisdiction Over Pricing 
+
+
+While the 1996 Act clearly sets forth that both the 
+FCC and state commissions have a role over pricing, the Act 
+does not plainly provide how this joint responsibility shall be 
+implemented. Section 251 indicates an FCC role, requiring 
+the FCC to “complete all actions necessary to establish 
+
+
+25 
+
+
+regulations to implement the requirements” of section 251, 
+including the “just and reasonable rates” requirements in 
+sections 251(c\(2) and (c\(3). 47 USC § 251(d)\(1). 
+Section 252 indicates a state role, directing states to 
+
+
+that either the FCC or the states have exclusive jurisdiction 
+for setting interconnection prices. Thus, in the absence of 
+express language, the Court must examine the language, 
+structure and purpose of Act to discern congressional intent, 
+Kokoszka, 417 U.S. at 650, and should defer to the agency’s 
+interpretations if they are a “reasonable construction” of the 
+statute. Chevron, 467 U.S. at 842-45. 
+
+
+2. The FCC Reasonably Interpreted the Am- 
+biguous Statute 
+
+It is a “dominant, well-settled principle of federal 
+law” for courts to grant “[jJudicial deference to reasonable 
+interpretations by an agency of a statute that it administers.” 
+National RR Passenger Corp. v. Boston & Maine Corp. , 503 
+U.S. 407, 417 (1992); see Chevron, 467 U.S. at 842-43. The 
+FCC’s promulgation of interconnection pricing rules is a fair 
+reading of ambiguous Statutory language. Pursuant to 
+section 251(d)(1), the FCC was directed by Congress to 
+“establish regulations to implement the requirements” of 
+section 251. 47 U.S.C. § 251(d)(1). Congress did not limit 
+the FCC’s implementation authority only to particular 
+enumerated subsections, as it could and would have if it 
+intended the result adopted by the Eighth Circuit. 
+
+
+include rules for setting “just and reasonable” rates for 
+interconnection, unbundled network elements and resale that, 
+
+
+26 
+
+
+in light of the additional “cost” standard of section 252(2), 
+meet the requirements of both sections 251 and 252. Indeed, 
+section 251(c)(2)(D) states that interconnection prices must 
+be “just, reasonable, and nondiscriminatory in accordance 
+with . . . the requirements of this section and section 252.” 
+47 U.S.C. § 251(c\(2)D)emphasis added); 47 U.S.C. § 
+251(c\3\(same). It would therefore have been foolhardy, 
+and perhaps unlawful, for the FCC to define a methodology 
+for “just and reasonable” interconnection rates without acting 
+in harmony with the “based on cost” standard of section 252. 
+
+Section 251(d)(1), like a “necessary and proper” 
+clause, is an affirmative grant of authority to develop rules 
+for all of section 251, including “rates, terms, and 
+conditions.” See 47 U.S.C. §§ 251(c)(2), (c\(3). Contrary to 
+the court of appeals’ reasoning, the fact that the Act does not 
+specifically state that the Commission is authorized to 
+promulgate pricing rules, see Pet. App. | la, is irrelevant; 
+section 251 gives express authority to the FCC to promulgate 
+all rules necessary to “implement” its terms consistent with 
+section 252. This is precisely what the FCC did in setting 
+pricing guidelines in the First Report and Order. 
+
+The FCC’s interpretation is reasonable because 
+Congress could not have intended that the agency be allowed 
+to define “just and reasonable” interconnection rates in a way 
+that conflicts with the section 252 standard that states must 
+apply in arbitrations. Indeed, the FCC’s guidelines ensure 
+that the Act is implemented such that congressional 
+intention, policy and objectives are fulfilled. See Kokoszka, 
+417 U.S. at 650. Had the FCC failed to refer to section 252 
+that could, and likely would, have led to inconsistent results. 
+California v. FCC, 567 F.2d 84, 86 (D.C. Cir. 1977)(federal 
+policy must supersede individual state policies where incon- 
+sistent state policies are likely to result.) The FCC’s pricing 
+guidelines are the only way to ensure this congressional 
+
+
+27 
+
+
+intent is realized. Thus, the Eighth Circuit's conclusion that 
+“nowhere in section 251 is the FCC authorized specifically 
+to issue rules governing the rates for interconnection, 
+unbundled access, and resale, and the transport and 
+termination of telecommunications traffic,” Pet. App. 12a, 
+fails to comport not only with Congress's directives to the 
+agency in section 251, but also with the clear and 
+uncontested congressional intent to create a uniform national 
+policy framework for opening local markets to competition. 
+
+
+3. The Eighth Circuit Erred in Concluding that 
+Section 251 Creates Only a Timing Con- 
+straint 
+
+
+The Eighth Circuit’s jurisdictional analysis rests on a 
+faulty reading of a key portion of section 251. The court of 
+appeals concluded “that subsection 251(d)(1) operates 
+primarily as a time constraint, directing the Commission to 
+complete expeditiously its rulemaking regarding only the 
+areas in section 251 where Congress expressly called for the 
+FCC’s involvement.” Pet. App. 12a. 
+
+
+This conclusion is wrong for two reasons. First, 
+section 251(d)(1) requires the FCC “within 6 months after 
+the enactment of the [1996 Act],” ‘to “complete all actions 
+necessary to establish regulations to implement the 
+requirements” of section 251, including the pricing 
+requirements of section 25l(c). 47 US.C. § 252(d)(1). 
+Nothing in this language limits the provision to the 
+procedural issue of timing alone. By its terms, section 
+251(d)(1) is both a six-month deadline and a substantive 
+
+
+- of authority to implement the provisions of section 
+
+
+Second, even if section 251(d)(1) can be read as 
+“primarily” a procedural clause, it is sufficiently ambiguous 
+
+
+28 
+
+
+that the Eighth Circuit should have deferred to the agency's 
+conclusion that section 251(d)(1) is an affirmative grant of 
+rulemaking authority.? Chevron, 467 U.S. at 843-45. The 
+
+court of appeals did not (and could not) conclude that the 
+rulemaking provision is only a timing constraint, because 
+without the directive in section 251(d)(1), there would have 
+been no agency obligation to promulgate regulations for the 
+Act’s non-price provisions (many of which the Eighth 
+Circuit upheld). Furthermore, the six-month limitation can 
+just as easily be seen as an implementation of the 
+congressional goal to introduce local telephone competition 
+“as quickly as possible,” by requiring the FCC to rapidly 
+fashion a “national policy framework” fleshing out the 
+statutory language, as an implicit constraint on federal 
+jurisdiction. Finally, in section 251, Congress did “expressly 
+call{] for the Commission’s involvement” in interconnection 
+pricing. The Eighth Circuit’s flawed “plain meaning” 
+analysis begs the real question of the scope and extent of that 
+involvement. 
+
+
+B. Congress Did Not Alter the Agency’s General 
+Authority To Implement Its Enabling Statute 
+
+
+The FCC always has enjoyed general rulemaking 
+authority to issue rules implementing the Communications 
+Act of 1934. Under section 201(b) of the Communications 
+Act, the FCC has authority to “prescribe such rules and 
+regulations as may be necessary in the public interest to 
+carry out the provisions of this Act.” 47 U.S.C. § 201(b); see 
+
+
+7 Chevron deference extends to agency interpretations of 
+jurisdictional provisions. See EEOC v. Commercial Office Products Co., 
+486 U.S. 107, 115-16 (1988) (upholding EEOC interpretation of the 
+jurisdictional provisions in § 706 of the Civil Rights Act of 1964 under 
+Chevron standard of review). 
+
+
+ae me oe amet ml 
+
+
+29 
+
+
+also 47 U.S.C. §§ 154(D, 303(r); National Broadcasting Co. 
+v. United States, 319 U.S. 190, 219 (1943). This authority 
+extends to all of “the provisions of” the Act. 47 U.S.C. § 
+201(b). Thus, the Eighth Circuit’s decision marks the first 
+time that a court has held that, despite section 201(b), the 
+FCC lacks authority to implement key substantive provisions 
+of the federal telecommunications law. 
+
+
+| Rather than create a wholly separate statute when it 
+created the local competition provisions of the 1996 Act, 
+Congress chose to amend Title II of the Communications 
+Act. Congress could have, but did not, limit the Commis- 
+sion’s authority under section 201(b) to implement the 
+provisions of the Act. Thus, the provisions of the 19S. . .ct, 
+as part of Title II, fall squarely within the Commission’s 
+section 201(b) rulemaking authority, giving the FCC 
+independent authority to implement the provisions of 
+sections 251 and 252 the Act. 
+
+
+Furthermore, the Eighth Circuit's interpretation 
+would lead to administrative inefficiency. Under the court of 
+appeals’ view, the FCC cannot adopt rules to enforce a 
+provision of the Communications Act unless the provision 
+specifically authorizes the agency to engage in rulemaking. 
+A section of the Communications Act with no reference to 
+FCC rules would be enforceable only by the courts. This 
+result, which essentially bypasses the FCC, ignores the basic 
+function of administrative agencies under our constitutional 
+system of separation of powers. The untoward consequence 
+of the Eighth Circuit’s reasoning is thus to throw into 
+question hundreds of agency enabling statutes where 
+Congress has granted general, but not section-specific, 
+rulemaking powers, and to encourage Congress to “micro- 
+manage” legislation that is best left to administrative 
+agencies to interpret and apply in light of rapidly changing 
+
+
+30 
+
+
+real-world considerations the legislature cannot be expected 
+to know or predict. 
+
+
+C. The Court of Appeals Incorrectly Applied the 
+“Fence” of Section 2(b) to Overturn Congress’s 
+Intent 
+
+
+1. The Eighth Circuit Erred in Concluding That 
+the Services at Issue Were “Intrastate” 
+Under Section 2(b) 
+
+
+Section 2(b) of the Communications Act provides 
+that “nothing in this [Act] shall be construed to apply or give 
+the Commission jurisdiction with respect to * * * charges, 
+classifications, practices, services, facilities or regulations for 
+or in connection with intrastate communication service.” 47 
+U.S.C. § 152(b). The Eighth Circuit concluded that this 
+provision “is hog tight, horse high and bull strong,” and bars 
+the FCC from “intruding on the states’ intrastate turf.” Pet. 
+App. 23a. This conclusion is erroneous. 
+
+
+Section 2(b)’s limitation of FCC action applies only 
+to “intrastate” services. Louisiana Pub. Serv. Comm'n vy. 
+FCC, 476 U.S. 335, 373 (1986). Ignoring the considerable 
+federal caselaw on this point, the Eighth Circuit assumed, 
+without record or legislative history support, that 
+interconnection and unbundled elements are intrastate 
+services and facilities subject to section 2(b). Pet. App. 15a. 
+This assertion is untrue, since “[t]he same loop that connects 
+a telephone subscriber to the local exchange necessarily 
+connects that subscriber into the interstate network as well.” 
+NARUC v. FCC, 737 F.2d at 1113.8 The court of appeals’ 
+
+
+8 Accord Public Serv. Comm'n of Maryland v. FCC, 909 F.2d 
+1510, 1515 (D.C. Cir. 1990); Public Utils. Comm'n of Texas v. FCC, 886 
+F.2d 1325, 1333 (D.C. Cir. 1989); JIlinois Bell Tel. Co. v. FCC, 883 F.2d 
+
+
+Pat OAR ee OE ie. Jeet eee eaten etka le OE eo 
+
+
+a ib tades 
+
+
+31 
+
+
+judgment must fail because its entire analysis is based on the 
+faulty premise that interconnection is a traditional “local” 
+telephone service subject to state public utility commission 
+jurisdiction under Smith vy. Illinois, 282 U.S. 133, 148 (1930). 
+
+
+The Eighth Circuit simply assumes, with pure ipse 
+dixit reasoning, that because of the word “local” (as in “local 
+exchange carriers”), the FCC’s pricing rules must apply only 
+to intrastate services. 
+
+[T]he prices that incumbent local exchange 
+
+carriers may charge their new competitors 
+
+for interconnection, unbundled access, and 
+
+resale—the service and facilities that will 
+
+enable competitors to provide competing 
+
+local telecommunications services—as well 
+
+as the rates for the transport and termination 
+
+of telecommunication traffic qualify as 
+
+“charges . . . for or in connection with 
+
+intrastate communications service.” Pet. 
+
+App. 15a (emphasis in original). 
+
+Yet this assumption is inappropriate for determining jurisdic- 
+tion. As other courts have repeatedly held, “‘the key issue[] 
+... is the nature of the communications which pass through 
+the facilities, not the physical location of the lines.” 
+California v. FCC, 567 F.2d 84, 86 (D.C. Cir. 1977), cert. 
+denied, 434 U.S. 1010 (1978) (citation omitted). There are 
+no limits on a carrier’s use of interconnection, unbundled 
+network elements and resale. In any event, there is no record 
+substantiation for the Eighth Circuit’s conclusion, and the 
+court should not have acted as a fact-finder on this point. To 
+the contrary, interconnection, network elements, and resale 
+
+
+104, 115 (D.C. Cir. 1989). 
+
+
+32 
+
+
+will be used—and in fact are already being used—for both 
+intrastate and interstate telecommunications services. 
+
+
+2. The Eighth Circuit Failed to Recognize the 
+Significant Role Preserved for the States by 
+the 1996 Act 
+
+
+Contrary to the Eighth Circuit’s view, the shared 
+federal/state jurisdiction scheme in the 1996 Act preserves a 
+significant and important role for state regulatory 
+commissions. Allowing the FCC to define costing standards 
+for purposes of section 252(d) does not make state 
+commissions into ministerial actors. Rather, it reflects a 
+recognition that rate-setting determinations are complex and 
+highly evidence-dependent. Thus, the Act places these 
+decisions in the purview of state commissions, which have 
+far more experience in ratemaking proceedings than the 
+FCC. In order to make specific rate “determinations,” state 
+commissions must sift through a vast amount of cost data in 
+order to ensure that the rates set are cost-based. 
+
+
+There is nothing in the FCC’s rules that requires a 
+state commission to attach a pre-ordained number to 
+interconnection rates. Establishing a costing methodology, 
+in this case a forward-looking pricing model, does not dictate 
+specific interconnection, network element or resale prices for 
+state commission adoption. For instance, the FCC’s rules 
+allow states to determine cost of capital, depreciation and 
+other factors to “plug into” the forward-looking pricing 
+model, because the financial state of carriers and the costs of 
+providing service will sometimes vary from state to state. 
+
+
+In setting “proxy” rates, of course, the FCC actually 
+prescribed particular rates for unbundled network elements 
+and interconnection to be used as “default” prices if a state 
+commission were unable to undertake the full cost analysis 
+
+
+33 
+
+
+necessary to determine rates within the prescribed statutory 
+timeframe for arbitrations. First Report and Order § 619. In 
+this respect, the FCC overstepped its authority because it 
+actually “established” or “determined” prices by setting 
+actual proxy rates for use in lieu of state-determined rates. 
+This issue is moot, however, because the proxy rates applied 
+only where states could not adopt costing methodologies to 
+set prices within the Act’s time constraint on state- 
+supervised interconnection arbitrations. Thus, the FCC’s use 
+of proxies is not a ground for affirming the court of appeals. 
+
+
+Ill. THE COURT OF APPEALS CORRECTLY 
+UPHELD THE FCC’S INTERPRETATION OF 
+THE ACT’S “REBUNDLING” PROVISIONS, 
+BUT ON REHEARING IMPROPERLY STRUCK 
+
+
+DOWN THE FCC’S RULE PROHIBITING 
+DISASSEMBLY 
+
+
+A. The Eighth Circuit Correctly Concluded That 
+the FCC’s Rebundling Rule Complies with the 
+Plain Meaning of the Act 
+
+
+It is undisputed that section 251 grants the FCC 
+authority to promulgate federal unbundling rules. See 47 
+U.S.C. § 251(d)(1). Rather, the issue raised by incumbent 
+carriers? before this Court is whether the FCC’s implemen- 
+tation of section 251 contravenes the Act’s requirement that 
+incumbent local exchange carriers “shall provide such 
+
+
+9 Conditional Cross-Petition of Regional Bell Companies, 
+Ameritech Corp. v. FCC, No. 97-1075 (question |); Conditional Cross- 
+Petition, GTE v. Midwest, Inc. v. FCC, No. 97-1087 (question 1); Condit- 
+ional Cross-Petition of USWest, US West, Inc. v. FCC, No. 97-1099 
+(question 1); Conditional Cross-Petition of the Mid-Sized Local 
+Exchange Carriers, The Southern New Eng!and Telephone Co. v. FCC, 
+No. 97-1141 (question 1). 
+
+
+34 
+
+
+unbundled network elements in a manner that allows 
+requesting carriers to combine such elements in order to 
+provide telecommunications service.” 47 U.S.C. § 251(c)(3) 
+(emphasis added). The FCC’s rule 51.315(b) allows a 
+competing carrier to combine leased network elements to 
+provide a full retail, or “finished,” telecommunications 
+service. First Report and Order § 356. As the Eighth 
+Circuit concluded, this “rebundling” rule comports with 
+Congress’s expressed intent and should be upheld. Pet. App. 
+54a. 
+
+
+1. The FCC's Rebundling Decisions Must Be 
+Upheld In Light of the Plain Language of 
+Section 251(c)(3) 
+
+
+Where a statute is clear by its language, courts will 
+defer to an administrative agency’s implementing inter- 
+pretation that is consistent with the statute. Chevron, 467 
+U.S. at 842-43. Because section 251(c)(3) expressly contem- 
+plates that competing carriers may “combine” unbundled 
+network elements leased from incumbent local carriers in 
+order to “provide . . . telecommunications service,” 47 
+U.S.C. § 251(c)(3), on this point the court of appeals 
+correctly deferred to the FCC. Pet. App. 55a-56a. The 
+agency’s interpretation is compelled by the 1996 Act, while 
+the arguments of the Cross Petitioners seek to add language 
+that does not exist in the 1996 Act. 
+
+
+Nothing in the language or structure of the Act 
+precludes the FCC’s rule. Cross Petitioners each assert that 
+competing carriers should not be permitted to offer “finished 
+services” through leased unbundled elements without 
+providing any facilities of their own. See generally US West 
+Petition at 5-6; Ameritech Petition at 14-22. They argue that 
+section 251(c\(3)’s requirement to provide “nondiscrim- 
+inatory access to unbundled network elements at any 
+
+
+35 
+
+
+technically feasible point” is inconsistent with the FCC’s 
+rule, reasoning this language would become a “fiction” if no 
+facilities are provided by the competitor. Ameritech Cross- 
+Petition at 18; accord US West Petition at 5. 
+
+
+The crucial flaw in this argument is that section 251 
+merely ensures that the requested access be provided 
+wherever a requesting carrier seeks such access so long as it 
+is “technically feasible.” 47 U.S.C. § 251(c\(3). Had 
+Congress intended to limit competitors to unbundled 
+elements only in conjunction with their own facilities, as 
+Cross Petitioners insist, then Congress could, and would, 
+have included such a restriction expressly. Congress did not, 
+and therefore this restriction cannot be read into the text.!° 
+
+Likewise, permitting competitors to provide finished 
+services through combinations of leased network elements in 
+no way obviates the distinctive entry modes established in 
+the Act. See supra pp. 4-5. Cross Petitioners contend that 
+the FCC’s rule undermines the “incentive” for facilities- 
+based entry. See Ameritech petition at 15; US West Petition 
+at 4-5. Yet, despite incumbent carriers’ protests, very real 
+and substantial distinctions still exist between the use of 
+network elements to provide telecommunications services 
+and entry through resale, and each mode of entry retains its 
+own advantages and disadvantages. For instance, carriers 
+reselling incumbents’ services are left offering only the 
+services that are already provided to local customers. On the 
+other hand, by purchasing unbundled network elements. 
+
+
+10 Consumer Product Safety Comm'n v. GTE Sylvania, | 
+447 US. 102, 108 (1980) (holding that when Congress explicitly states 
+Se Win nat Language man exdinarily be regarded as conclusive”); see 
+United States v. American Trucking Ass ‘ns, 310 U.S. 534, 543 
+(1940) (“There is, of course, no more persuasive evidence of the purpose 
+of a statute than the words by which the legislature undertook to give 
+expression to its wishes.”). 
+
+
+36 
+
+
+competitors are free to enhance or embellish the service 
+offering, provide different service packages and distinguish 
+their offerings from those of the incumbents to provide 
+customers with a variety of service alternatives. As the 
+Eighth Circuit also found, “unbundled access has several 
+disadvantages that preserve resale as a meaningful 
+alternative.” Pet. App. 56a. 
+
+Cross Petitioners’ reliance on isolated phrases in the 
+legislative history to suggest a congressional “preference” 
+for one form of entry over another similarly fails. See, e.g., 
+Ameritech Cross-Petition at 18-19. First, reliance on 
+legislative history when the statutory language is clear is 
+unnecessary and improper.'! The statutory language is clear. 
+Second, contrary to the incumbent carrier assertions, neither 
+the Act nor the legislative history exhibits a congressional 
+bias toward facilities-based competition. See Ameritech 
+Cross-Petition at 18-19. Rather, Congress created several 
+avenues for entry into the local market. As the Eighth 
+Circuit recognized, it is not correct to presume that “the 
+Act’s exclusive goal is facilities-based competition.” Pet. 
+App. 59a. Therefore, even if the FCC's rebundling rule 
+would suppress development of facilities-based competition, 
+Cross Petitioners’ remedy must come through a congres- 
+sional amendment, not from this Court. 
+
+
+'! See Blum v. Stenson, 456 U.S. 886, 896 (1984) (“We look 
+first to the statutory language and then to the legislative history if the 
+statutory language is unclear.”); Unexcelled Chemical Corp. v. United 
+States, 345 U.S. 59, 63 (1953\concluding that investigation of legis- 
+lative history is improper where “the words Congress used . . . are too 
+precise for extended argument”). 
+
+
+37 
+
+
+2. The Cross-Petitioners Inappropriately Ask 
+This Court to Substitute Its Judgment for 
+That of the Expert Agency 
+The Cross Petitioners’ principal argument for 
+prohibiting rebundling has no basis in the statutory language. 
+Cross Petitioners complain that rebundling elements allows 
+competitors to “capture” their most “profitable customers 
+without providing service more efficiently or investing one 
+cent in competitive network facilities.” Ameritech Cross- 
+Petition at 15; see GTE Cross-Petition at 16. Even if true, 
+win sa sana th demnagnsne mate ene nineeoant 
+ourt. 
+
+
+When competitors enter the market through access to 
+network elements, the 1996 Act requires that incumbents 
+charge prices that are “based on cost.” 47 U.S.C. § 
+252(d)(1). Resale services are to be priced at a discount off 
+the incumbent's retail prices that reflects the costs that will 
+be “avoided” by the incumbent carrier. 47 U.S.C. § 
+252(d\(3). In the competitive market envisioned by 
+Congress, prices for telecommunications services will be 
+driven toward costs. Consequently, as competition develops 
+and prices move toward cost, the retail offerings of 
+incumbents would also move toward cost.'2 Corres- 
+pondingly, as retail rates decline, wholesale rates for resale 
+of incumbent services would likewise decline toward cost. 
+Clearly, over time with the development of competition, 
+these rates would converge with those paid for use of 
+unbundled network elements. Thus, to the extent a price 
+
+
+!2 Incumbents contend that movement of prices toward costs in 
+the retail] environment would undermine the policy goal of universal 
+service. E.g, Ameritech Petition at 23. However, Congress provided 
+that the FCC address this issue separately in section 254. 47 U.S.C. § 
+254. Thus, any demonstrable failure of local rates to recover costs would 
+be appropriately recovered through universal service reform. 
+
+
+38 
+
+
+differential persists between the use of unbundled elements 
+and resale, that differential represents residual monopoly 
+profits that do not reflect the true costs of service or prices 
+that would occur in a competitive local telephone market- 
+place. 
+
+
+Without any hook to the language of the 1996 Act, 
+the incumbent local carriers are asking this Court to 
+substitute another policy rationale for the will of Congress. 
+See Tennessee Valley Auth. v. Hill, 437 U.S. 153, 194 (1978) 
+(“Our individual appraisal of the wisdom or unwisdom of a 
+particular course consciously selected by the Congress is to 
+be put aside in the process of interpreting a statute.”). The 
+intent of Congress to allow rebundling of unbundled ele- 
+ments is unmistakable; to overturn the FCC’s rule would be 
+to allow the judiciary to rewrite section 251 in derogation of 
+Congress's expressed goals.'* 
+
+
+B. The Eighth Circuit Erred in Overturning on Re- 
+hearing the FCC’s “Disassembly” Rule 
+51.315(b) 
+
+Section 251 requires that incumbents provide 
+“nondiscriminatory access” to unbundled network elements 
+“in a manner that allows requesting carriers to combine such 
+elements in order to provide” telecommunications service. 
+47 U.S.C. § 251(c)(3). In promulgating rule 51.315(b), the 
+FCC concluded that the “nondiscrimination” requirement 
+bars incumbent carriers from pulling apart previously joined 
+network elements for the purpose of imposing anti- 
+competitive costs on new entrants that request access to 
+those elements. First Report and Order § 293; 47 C.F.R. § 
+
+
+'3 See Mobil Oil Corp. v. Higginbotham, 436 U.S. 618, 626 
+(1978\(“[W]e have no authority to substitute our views for those 
+expressed by Congress in a duly enacted statute.”). 
+
+
+39 
+
+
+51.315(b). The agency held that the ability of requesting 
+carriers to “rebundle” elements did not preclude this 
+requirement, since it is one “manner” in which competitors 
+could “combine” elements. On rehearing, however, the 
+Eighth Circuit found that the statutory language precluded 
+the FCC’s interpretation and vacated the rule. Pet. App. 52a- 
+53a. This holding is not supported by the language of the 
+Act and must be reversed. 
+
+
+First, as the FCC correctly determined, to permit 
+incumbent carriers to break apart elements that competitors 
+purchase would be discriminatory and anticompetitive, in 
+contravention of the statutory requirement that incumbent 
+local carriers must provide unbundled elements in a 
+nondiscriminatory manner. The Eighth Circuit’s opinion 
+never addresses this critical statutory requirement. As the 
+FCC found, local carriers do not pull apart network elements 
+to provide them to their own retail operations. See First 
+Report and Order 4 296. Rather, typically they simply 
+provide service using the existing, combined elements. /d. 
+Further, there is no technical reason to disassemble elements 
+that will just be recombined. /d Thus, the FCC’s rule 
+51.315(b) prevents incumbents from imposing the un- 
+necessary cost and delay on their competitors that is not 
+imposed on its own provision of service, and is necessary to 
+meet the statutory requirement of nondiscrimination. 
+
+
+Second, while section 251 clearly grants expansive 
+access to unbundled network elements, 47 U.S.C. 
+§ 251(c)(3), the statute does not directly address the specific 
+“manner” in which those elements must be provided. When 
+implementing this requirement, as directed by section 
+251(d), the FCC therefore determined that section 251 
+requires incumbent local carriers to recombine network 
+elements. That determination must receive deference as a 
+reasonable interpretation of an ambiguous statute, and the 
+
+
+40 
+
+
+reviewing court is precluded from substituting its own policy 
+goals for those of the FCC. Chevron, 467 U.S. at 843-44. 
+The Eighth Circuit violated this well-settled precept of 
+judicial review when it overturned the FCC’s recombination 
+rule based on its differing statutory interpretation. 
+
+The Eighth Circuit purported to rely on the plain 
+language of section 251, stating that the Act requires 
+competitors, not incumbents, to “combine” elements. See 
+Pet. App. 53a. The statutory language does not, however, 
+preclude competitors from “combining” elements through 
+the incumbent.'4 Because the FCC’s rule did not directly 
+conflict with section 251, the Eighth Circuit was bound to 
+uphold it. Chevron, 467 U.S. at 843-44. 
+
+
+Moreover, as discussed supra, Section II.B, the FCC 
+has generic rulemaking authority under the Communications 
+Act to require carriers to combine network elements, so long 
+as such a requirement is not inconsistent with the statutory 
+language.'5 As discussed above, this language is essential to 
+implement the nondiscrimination requirements of the Act 
+and does not in fact “collapse” the “careful distinctions 
+Congress has drawn” between market entry through 
+unbundled network elements and resale. See supra, pp. 4-5. 
+
+
+14 The Eighth Circuit’s observation that the incumbent carriers 
+do not wish to combine elements is irrelevant to this analysis. Pet. App. 
+52a-53a. By that reasoning, most of the requirements of the Act, which 
+are aimed at breaking the incumbents’ local monopoly, would be over- 
+turned. Under settled principles of judicial review, however, the court is 
+precluded from substituting its judgment for that of the expert agency, 
+unless the agency’s rules conflict with the statutory language. Chevron, 
+467 U.S. at 842-43. No such conflict exists, and incumbent intransigence 
+does not raise such a conflict. 
+
+1S See Second Computer Inquiry, 77 F .C.C.2d 384, 442-444 
+(1980), aff'd sub nom., Computer and Communications Industry Ass'n v. 
+FCC, 693 F.2d 198 (D.C. Cir. 1982)(establishing unbundling 
+requirements under its general statutory authority). 
+
+
+41 
+
+
+Thus, the Eighth Circuit erred in vacating the FCC’s rule 
+51.315(b), and must be reversed. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed in part as to the FCC’s pricing rules and rule 
+51.315(b), and affirmed in part as to the FCC’s “rebundling” 
+rule. 
+
+
+Respectfully submitted, 
+JOHN D. WINDHAUSEN, Jr. GLENN B. MANISHIN* 
+COMPETITION POLICY INSTITUTE Curisty C. KuNIN 
+1156 15th Street, NW BLUMENFELD & COHEN 
+Washington, DC 20005 1615 M Street, NW 
+(202) 835-0202 Suite 700 
+Washington, DC 20036 
+(202) 955- 6300 
+Counsel for 
+Respondent 
+
+
+* Counsel of Record 
+April 3, 1998 
+
+

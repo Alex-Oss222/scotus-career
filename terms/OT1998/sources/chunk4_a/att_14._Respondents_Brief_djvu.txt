@@ -1,0 +1,2049 @@
+Nos. 97-826, 97-829, 97-830 & 97-831 FILED 
+8 1998 
+
+
+IN THE : 
+Supreme Court of the United Of THE CLERK 
+
+
+OCTOBER TERM, 1997 
+
+
+FEDERAL COMMUNICATIONS COMMISSION 
+and the UNITED STATES OF AMERICA, 
+a Petitioners, 
+Iowa UTILITIES BOARD, ef ai., 
+Respondents. 
+
+
+AND RELATED PETITIONS 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+CONSOLIDATED BRIEF FOR RESPONDENTS 
+UNITED STATES TELEPHONE ASSOCIATION AND 
+THE RURAL TELEPHONE COALITION 
+
+
+GARY M. EPSTEIN 
+
+MAUREEN E. MAHONEY * 
+
+RICHARD P. BREss 
+
+JAMES H. BARKER 
+
+LATHAM & WATKINS 
+
+1001 Pennsylvania Ave., N.W. 
+
+Suite 1300 
+
+Washington, D.C. 20004-2505 
+
+(202) 637-2200 
+
+Counsel for United States 
+Telephone Association and 
+Rural Telephone Coalition 
+
+
+* Counsel of Record 
+(Other Counsel listed on inside 
+cover) 
+
+
+WILSON - Eres Printinc Co.. Inc. - 789-0096 - WasHINGTON. D.C. 20001 ", 
+
+
+oy ae 
+] ot Bea ij. | 
+
+
+L. MARIE GUILLORY 
+
+2626 Pennsylvania Avenue, N.W. 
+
+Washington, D.C. 200387 
+
+(202) 298-2300 
+
+Counsel for National Telephone Cooperative Association 
+
+
+MARGOT SMILEY HUMPHREY 
+KOTEEN & NAFTALIN, LLP 
+1150 Connecticut Avenue, N.W. 
+Suite 1000 
+
+Washington, D.C. 20036 
+
+(202) 467-5700 
+
+
+Counsel for National Rural Telecom Association 
+
+
+LAWRENCE E. SARJEANT 
+LINDA KENT 
+
+KEITH TOWNSEND 
+
+1401 H Street, N.W. 
+Suite 600 
+
+Washington, D.C. 20006 
+(202) 326-7371 
+
+
+Counsel for United States Telephone Association 
+
+
+Lisa M. ZAINA 
+
+21 Dupont Circle, N.W. 
+
+Suite 700 
+
+Washington, D.C. 20036 
+
+(202) 659-5990 
+
+Counsel for the Organization for the Promotion and 
+Advancement of Small Telecommunications Companies 
+
+
+LIST OF PARTIES AND AFFILIATES 
+
+
+The parties to the proceedings in the Eighth Circuit are 
+listed in Pet. App. at la-4a, 73a-79a and 92a. 
+
+
+Pursuant to Rule 29.6 of the Supreme Court Rules, 
+the Rural Telephone Coalition (“RTC”) and United 
+States Telephone Association (“USTA”) respectfully sub- 
+mit these disclosure statements. 
+
+
+RTC is comprised of the National Rural Telecom Asso- 
+ciation (“NRTA”), the National Telephone Cooperative 
+Association (“NTCA”), and the Organization for the Pro- 
+motion and Advancement of Small Telecommunications 
+Companies (“OPASTCO”). Each of the associations in 
+the RTC is a non-profit trade association representing the 
+interest of facilities-based local exchange and exchange ac- 
+cess providers. These companies are full members of the 
+associations. Some of the associations also have interna- 
+tional members who provide local exchange services in 
+other jurisdictions, and associate members consisting of 
+consultants, manufacturers, and other parties with interests 
+in the local exchange carrier industry. Neither the RTC 
+nor any of the associations have any parent companies, 
+subsidiaries, or affiliates for whom disclosure is required 
+by Rule 29.6. 
+
+
+USTA is a non-profit trade association representing the 
+interest of facilities-based local exchange and exchange 
+access providers. These companies are its full members. 
+USTA also has international members who provide local 
+exchange services in other jurisdictions, and associate 
+members including consultants, manufacturers, banks and 
+investors, and other parties with interests in the local ex- 
+change carrier industry. USTA has no parent companies, 
+subsidiaries, or affiliates for whom disclosure is required 
+by Rule 29.6. 
+
+
+TABLE OF CONTENTS 
+
+
+LIST OF PARTIES AND AFFILIATES 
+
+
+TABLE OF AUTHORITIES ...0................--cccecsssosssesseenee 
+
+
+STATEMENT OF THE CASE ............ 
+A. The Statutory Framework .. 
+B. The FCC’s Implementation of the 1996 Act... 
+C. The Decision of the Eighth Circuit 
+
+
+SUMMARY OF THE ARGUMENT ............ 
+
+
+ARGUMENT 
+
+
+I. THE LANGUAGE AND STRUCTURE OF 
+THE 1996 TELECOMMUNICATIONS ACT 
+ESTABLISH THAT THE FCC IMPERMISSI- 
+BLY DISPLACED THE STATES’ AUTHOR- 
+ITY TO IMPLEMENT THE STATUTORY 
+PROVISIONS AT ISSUE _ _ 
+
+
+A. The Text Of Sections 251(f) And 252 
+Plainly Establishes That The FCC Has Ex- 
+ceeded Its Authority _....... = 
+
+
+B. The Eighth Circuit’s Rejection Of The FCC’s 
+Authority To Adopt Mandatory Rules Im- 
+plementing Sections 251(f) And 252 Is 
+Firmly Grounded In Other Provisions Of 
+The Act .. 
+
+
+C. The FCC’s Rules Cannot Be Upheld On The 
+Basis Of Chevron 
+
+
+Il. THE EIGHTH CIRCUIT’S INTERPRETA- 
+TION DOES NOT UNDERMINE THE POLI- 
+OL 
+
+
+CONCLUSION ..... 
+
+
+(iii) 
+
+
+ou oem F 
+
+
+18 
+16 
+
+
+17 
+
+
+17 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+AT&T Communications of the Mountain States, 
+61 Pub. Util. Rep. 4th 102 (Wy. 1984) ............. 
+Adams Fruit Co. v. Barrett, 494 U.S. 638 (1999).. 
+Air Line Pilots Ass’n Int'l v. Civil Aeronautics 
+Bd., 494 F.2d 1118 (D.C. Cir. 1974) —.......... oa ss 
+In re All Telephone Cos. Operating in Alabama, 
+No. 24472 (LEXIS, Pub. Util. Rep. 4th, slip 
+0) eS 
+Amos v. Maryland Dep’t of Public Safety & Cor- 
+rectional Servs., 126 F.3d 606 (4th Cir. 1997)... 
+Bowen v. American Hospital Ass'n, 476 U.S. 610 
+es 
+Chevron U.S.A., Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 887 (1984) ........................ 
+Crandon v. United States, 494 U.S. 152 ( 1990). Se 
+Gregory v. Ashcroft, 501 U.S. 452 (1991) ............. 
+Implementation of the Telecommunications Act of 
+1996, 168 Pub. Util. Rep. 4th 89 (Pa. P.U.C. 
+| ES re ee 
+lowa Utils. Bd. v. FCC, 120 F.3d 753 (8th Cir. 
+1997) .......... Ea a ee ee 
+Lechmere, Inc. v. NLRB, 502 U.S. 527 (1992) _...... 
+Louisiana Public Serv. Comm'n v. FCC, 476 U.S. 
+ & ea 
+Martin v. OSHRC, 499 U.S. 144 (1991) ................. 
+In re Mountain States Tel. & Tel. Co., Pub. Util. 
+Rep. 1916B, 169 (Co. P.U.C. 1915) 
+New Castle v. Bell Tel. Co., Pub. Util. Rep. 1921B, 
+GY TEES SE 
+Northwestern Bell Tel. Co., 71 Pub. Util. Rep. 
+OG EEE ae 
+Public Service Commission v. Mountain States Tel. 
+& Tel. Co., Pub. Util. Rep. 1924C, 545 (Mont. 
+7 REDS RE eS 
+Rapaport v. United States Dep't of Treasury, 
+Office of the Thrift Supervision, 59 F.3d 212 
+(D.C. Cir. 1995), cert. denied, 516 U.S. 1073 
+0 
+
+
+Page 
+
+
+3 co 
+
+
+BSS 8 8 SF =F 
+
+
+SSB So a 
+
+
+_ 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+
+Russello v. United States, 464 U.S. 16 (1983)... 20 
+Smiley v. Citibank (South Dakota), N.D., 517 U.S. 
+
+735 (1996) 28 
+
+
+In re U.S. West Communications, Inc., Docket No. 
+P-421, 1997 WL 634623 (Minn. P.U.C. June 24, 
+ETE TES Ae Cae 81 
+United States v. Bass, 404 U.S. 836 (1971)... .... 28 
+
+
+STATUTES AND REGULATIONS 
+
+
+I ae 10, 25, 26, 28 
+I i TE 5 
+8 AES TS BS IES 81 
+A TTS SL ES a Tie a 5 
+i i ee a m 
+i EEE Te EB TE wae 
+pL Ee a ee ee et 18 
+4S TT a a Se a ir SL 5, 6, 30 
+SSS SRE SS Oe 18 
+She Se es a 2 10, 25 
+IES SE A IR Mee) 18 
+ST See cee passim 
+fp Se ea ee 12 
+ee ee OD vccncttnsctecetcnccitesccmintinndaectinn 12 
+| AT Ne ae eee ae Taet 18 
+ST SS ee me eae passim 
+I a a passim 
+pe SL 0 YS \ eee 6, 31 
+pe 138, 18, 19 
+pe 6, 10, 14, 18, 20 
+og ee ee 6 
+47 U.S.C. § 251 (f) (2) (A) (ii) * 81 
+oe Te) LD) ee n 6 
+LE OT oe Oe ee 18 
+TE A TE 26 
+i i 19 
+TET SE me RT a passim 
+SSR a me ene passim 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+gb RY, ae ee 7 
+4 ss BE ee ee 7, 20, 21 
+RF EB) : | ee aaa 7 
+Gr Ee BD CD ccececccesenstncccecnccstenesescnsccessocscescenee 14, 21 
+Ge Tere BED CD ccccececcnntcccnncscessescsecsscnsmsescscstseeme 83 
+Cy ID cn visnrrrsuntmnnteandentionbiigaiiiied 4, 25 
+ae ED icndicsritarienintaiiaetnnigininciianinnammeiauts 25 
+47 U.S.C. § 253(d) ................. aE eas Ne 25 
+er ED vncerrcnncgetinmntietamanatinans ois 4, $1 
+EES Sy SELES SE SRN 12 
+gE RE Se! 8, 12, 15, 22, 23 
+gS PS SE a PLN 15, 23 
+RL eee ae $1 
+BN ee Se es $1 
+gt 6 a ea Se ES SN 2, 31 
+8 EE SSE TS ae Re 2 
+ls Se otecccecccnticicrntsanmiteicetnetensinaiianaiin 9, 31 
+gk A | FP | ere ee een $1 
+LEGISLATIVE MATERIALS 
+John C. Panzar and Steven S. Wildman, “Competi- 
+tion in the Local Exchange: Appropriate Policies 
+to Maintain Universal Service in Rural Areas” 
+(Northwestern Univ. 1993), attached to Na- 
+tional Comms. Infrastructure (Part 3), Hear- 
+ings Before the Subcomm. on Telecomms. and 
+Finance of the House Comm. on Energy and 
+Commerce, 108d Cong. (Feb. 8-10, 1994) (testi- 
+mony of Lawrence C. Ware, Rural Tel. Coali- 
+ERS ARE RS ES ROE aS Re 4,6 
+
+
+H.R. Rep. No. 81-246 (1949) 
+
+
+Oe ee eee 
+
+
+3 
+H.R. 1555, 104th Cong. § 242 (1995) ...................... 20 
+
+H.R. Rep. No. 104-204, pt. 1 (1995), reprinted in 
+WEBS WEGBTR. BD onccecccececcssserssensesssenizccesosssserne 5 
+S. 652, 104th Cong. § 251(i) (1995) 0... 20 
+ae 5 
+
+
+S. Rep. No. 104-23 (1995) ........... 
+
+
+vii 
+TABLE OF AUTHORITIES—Continued 
+
+
+OTHER AUTHORITY 
+
+
+Petition for Reconsideration by Public Service 
+Commission of Wisconsin, In re Implementation 
+of the Local Competition Provisions of the Tele- 
+communications Act of 1996, CC Docket No. 96- 
+98 (Sept. 30, 1996) 
+
+
+Roy Neel, President, United States Telephone As- 
+sociation, Mn Bane Presentation on State of 
+
+
+Local Competition before the FCC (Jan. 29, 
+1998) .............. 
+
+
+In THE 
+Suprene Court of the United States 
+
+
+OCTOBER TERM, 1997 
+
+
+Nos. 97-826, 97-829, 97-830 & 97-831 
+
+
+FEDERAL COMMUNICATIONS COMMISSION 
+and the UNITED STATES OF AMERICA, 
+
+
+7 Petitioners, 
+
+
+Iowa UTILITIES BOARD, et al., 
+Respondents. 
+
+
+AND RELATED PETITIONS 
+
+
+On Petition for a Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+CONSOLIDATED BRIEF FOR RESPONDENTS 
+UNITED STATES TELEPHONE ASSOCIATION AND 
+THE RURAL TELEPHONE COALITION 
+
+
+STATEMENT OF THE CASE 
+
+
+Respondent United States Telephone Association 
+(“USTA”) is a non-profit trade association that repre- 
+sents the interests of more than 1,000 facilities-based local 
+exchange and exchange access providers, most of which 
+are small and mid-sized local exchange carriers (“LECs’). 
+Respondent Rural Telephone Coalition (“RTC”) is an 
+alliance composed of three national trade associations, 
+the National Rural Telecom Association (“NRTA”), the 
+National Telephone Cooperative Association (“NTCA”) 
+and the Organization for the Promotion and Advancement 
+
+
+2 
+
+
+of Small Telecommunications Companies (“OPASTCO”), 
+which together represent the interests of more than 850 
+small and rural incumbent LECs. 
+
+
+In the Court of Appeals, USTA and RTC joined with 
+other parties to challenge the validity of Federal Com- 
+munications Commission (“FCC” or “Commission”) rules 
+governing the price and other central terms of intercon- 
+nection agreements that must be reviewed and approved 
+by State commissions. USTA and the RTC also sep- 
+arately challenged the validity of two FCC rules of special 
+significance to small and rural carriers: (1) 47 C.F.R. 
+§ 51.405, which required State commissions to apply 
+restrictive standards of proof when determining whether 
+small and rural carriers should be relieved of undue bur- 
+dens imposed by the Act; and (2) 47 C.F.R. § 51.303, 
+which required State commissions to review and approve 
+all interconnection agreements adopted by carriers prior to 
+the effective date of the 1996 Act. 
+
+
+The Eighth Circuit vacated both of these regulations 
+based upon its conclusion that the text of 47 U.S.C. 
+§ 251(f) and 47 U.S.C. § 252(a)—which assign States 
+the responsibility for making exemption determinations 
+and reviewing interconnection agreements—also vest States 
+with exclusive jurisdiction to establish the rules governing 
+these State proceedings. The Commission and the other 
+Petitioners have now sought review of these rulings as 
+part of their broad-based challenge to the decision of the 
+Eighth Circuit. See FCC Br. at (1) (question 1); AT&T 
+Br. at (i) (question 1); MCI Br. at (i) (question 2); 
+ALTS Br. at (i) (question 2); see also FCC Br. at 19, 
+26 n.9. Petitioners nevertheless fail to provide this Court 
+with any background concerning these regulations or the 
+statutory provisions they implement. That background is 
+presented here.’ 
+
+
+1 This brief only addresses the Eighth Circuit’s decision with 
+respect to the two referenced rules of special concern to small 
+
+
+3 
+
+
+A. The Statutory Framework 
+
+
+Throughout much of this century, States have adopted 
+specially tailored policies designed to maintain the invest- 
+ment incentives of the small and rural carriers that pro- 
+vide service to remote areas.* Providing service to rural 
+areas has presented challenging policy issues for many 
+decades because the high cost associated with the delivery 
+of rural service makes it difficult for telephone companies 
+to offer customers affordable rates or to provide investors 
+with attractive rates of return. Small carriers that have 
+made the substantial investment in rural markets are 
+obligated to serve their entire local exchange service areas 
+as “carriers of last resort.” As a consequence, these small 
+businesses are particularly vulnerable to “cream skimming” 
+by new entrants that target only high-volume business 
+users in the rural territories. See, e.g., H.R. Rep. No. 
+81-246, at 8 (1949) (observing that telephone companies 
+were “running their lines down the highways into the most 
+profitable areas and relegating farmers in the less profit- 
+able service areas perpetually to a nontelephone hinter- 
+land”). Left unchecked, the loss of even one or two high- 
+volume customers in a rura’ market will drive up the 
+costs of serving the rural LECs remaining residential 
+
+
+LECs. USTA and RTC join the arguments set forth in the briefs 
+of the Regional Bell Companies and GTE (the “Large LECs”) and 
+the Mid-Sized Local Exchange Carriers (the “Mid-Sized LECs”) 
+with respect to the other rules at issue in this case. 
+
+
+2 See, e.g., AT&T Communications of the Mountain States, 61 
+Pub. Util. Rep. 4th 102, 118 (Wy. 1984) (noting that universality 
+of basic service has been “accomplished in Wyoming through years 
+of concerted effort by utilities and this commission”); North- 
+western Bell Tel. Co., 71 Pub. Util. Rep. 1, 11 (S.D. P.U.C. 1947) 
+(stating that “it has been the general policy of this Commission 
+to encourage the extension of exchange service into every com- 
+munity and household of the state”); In re Mountain States Tel. 
+& Tel. Co., Pub. Util. Rep. 1916B, 169, 171 (Co. P.U.C. 1915) (re- 
+quiring defendant telephone company to “make every effort to serve 
+all communities within the State”). 
+
+
+4 
+
+
+customers and/or diminish the economic viability of the 
+rural service providers.* State commissions, the FCC, 
+Congress, and economists have long recognized that the 
+efficiency and public policy justifications for introducing 
+competition have been far less apparent in rural markets 
+than in densely populated urban areas where vast econ- 
+omies of scale and lower cost service are possible.‘ 
+
+
+1. In enacting the Telecommunications Act of 1996, 
+Congress fundamentally changed the nature of competi- 
+tion in the markets for local telecommunications services 
+by removing many competitive barriers to entry. But Con- 
+gress did not renounce decades of special policies de- 
+signed to enable small companies to provide service and 
+update their networks in rural areas, or the significance 
+of the States’ role in fostering the success of these rural 
+ventures. Congress’s decision to rely upon the States to 
+develop competition policies tailored to the rural markets 
+is reflected throughout the 1996 Act. See 47 U.S.C. 
+§ 253(a), (f) (adopting general rule that States may not 
+bar the entry of any telecommunications competitor, ex- 
+cept that States may limit competitive entry “in a service 
+area served by a rural telephone company” in certain 
+
+
+3Cf. Public Service Commission v. Mountain States Tel. & Tel. 
+Co., Pub. Util. Rep. 1924C, 545, 560-61 (Mont. P.S.C. 1924) (not- 
+ing that without following policy of averaging rates over cus- 
+tomers of high- and low-cost areas “[i]t is entirely conceivable 
+that ...a great many of the smaller communities of the state, and 
+possibly all of the rural districts, would be cut off entirely from 
+telephone service by prohibitive rates”) (citing New Castle v. Bell 
+Tel. Co., Pub. Util. Rep. 1921B, 378, 380 (Pa. P.U.C. 1921) (same). 
+
+
+* See, e.g., John C. Panzar and Steven S. Wildman, “Competition 
+in the Local Exchange: Appropriate Policies to Maintain Universal 
+Service in Rural Areas,” at 4-8 (Northwestern Univ. 1993) 
+(“Panzar”), attached to National Comms. Infrastructure (Part 3), 
+Hearings Before the Subcomm. on Telecomms. and Finance of the 
+House Comm. on Energy and Commerce, 103d Cong. (Feb. 8-10, 
+1994) (testimony of Lawrence C. Ware, Rural Tel. Coalition). 
+
+
+5 
+
+
+circumstances); 47 U.S.C. § 214(e)(2) (permitting the 
+States to determine whether it would promote the “public 
+interest” to provide universal service funding to more than 
+one telecommunications carrier in a rural market); 47 
+U.S.C. § 251(f) (authorizing State commissions to termi- 
+nate exemptions and grant suspensions and modifications 
+of the competition provisions of the Act for small and 
+rural carriers).° 
+
+
+Section 251(f) provides the States with two central 
+mechanisms to relieve small and rural telephone com- 
+panies of undue competitive burdens. Section 251(f)(1) 
+first exempts “rural telephone compan{ies]”* from the 
+obligations imposed by Section 251(c) on incumbent 
+carriers to offer competitors interconnection with their 
+facilities and unbundled network elements.’ States are 
+given express authority to administer this exemption. 
+Section 251(f) directs a carrier seeking interconnection 
+with a rural LEC to “submit . . . its request to the State 
+
+
+5 See also Implementation of the Telecommunications Act of 1996, 
+168 Pub. Util. Rep. 4th 89, 96 n.12 (Pa. P.U.C. 1996) (observ- 
+ing that “the interrelationship of [Sections 253(f), 214(e)(2) 
+and 251(f)] is designed to protect rural telephone companies from 
+‘cream skimming’ practices by competing carriers,” and that 
+“Tbjecause of their small size and limited number of commer- 
+cial customers, potential ‘cream skimming’ practices create greater 
+exposure for rural telephone companies” ). 
+
+
+* The definition of a “rural telephone company” is established in 
+47 U.S.C. § 153(37). 
+
+
+7 Congress adopted this exemption provision in order to create a 
+“level playing field, particularly when a company or a carrier to 
+which this subsection applies faces competition from a telecommuni- 
+cations carrier that is a large global or nationwide entity that has 
+financial or technological resources that are significantly greater 
+than the resources of the company or carrier.” S. Rep. No. 104-23, 
+at 22 (i995) (“Senate Report”); see also H.R. Rep. No. 104-204, 
+pt. 1, at 74 (1995), reprinted in 1996 U.S.C.C.A.N. 10, 40 (rural 
+exemption necessary to avoid “significant costs associated with 
+seeking a modification or waiver before the Commission”). 
+
+
+6 
+
+
+commission,” and the State commission is authorized to 
+terminate the exemption if it “determin[es]” that the “re- 
+quest [for interconnection] is not unduly economically 
+burdensome,” is “technically feasible,” and is otherwise 
+“consistent” with certain universal service provisions of 
+Section 254. 47 U.S.C. § 251(f)(1)(A). The Act does 
+not authorize the FCC to conduct any proceedings relat- 
+ing to the rural exemption. See 47 U.S.C. § 251(f). 
+
+
+Section 251(f)(2) also vests States with authority to 
+grant discretionary relief to any LEC (including a rural 
+telephone company) that has “fewer than 2 percent of the 
+Nation’s subscriber lines installed in the aggregate nation- 
+wide” (referred to herein as “small companies”). These 
+companies “may petition a State commission” for a sus- 
+pension or modification of any requirement imposed by 
+Sections 251(b) or (c). 47 U.S.C. § 251(f)(2). Con- 
+gress accordingly afforded the State commission power to 
+exempt (in whole or in part) small carriers from all of 
+the special competitive obligations imposed on incumbent 
+LECs under the 1996 Act. And this section vests the 
+State commission with authority to grant relief if “[it] 
+determines” that such relief “is consistent with the public 
+interest, convenience, and necessity,” and that it is neces- 
+sary to avoid a “significant adverse economic impact on 
+users of telecommunications services generally,” an “un- 
+due economic[] burden{],” or a “technically infeasible” 
+request made by a carrier. 47 U.S.C. § 251(f)(2)(A), 
+(B). The FCC is not authorized to conduct suspension 
+and modification proceedings under any circumstance. 
+See 47 U.S.C. § 251(f) (2). 
+
+
+2. The 1996 Act also preserved State responsibility for 
+regulating rural carriers’ agreements with larger, non-com- 
+peting LECs. For many years, rural telephone carriers 
+have depended upon “co-carrier” relationships with larger 
+companies to provide efficient service to rural subscribers. 
+See Panzar at 34. Such joint arrangements between non- 
+
+
+- 
+
+
+competing LECs have served to reduce modernization costs 
+and preserve revenues for universal service. For example, 
+Extended Area Service (“EAS”) arrangements between 
+rural LECs and their neighboring large LECs enable rural 
+and urban subscribers to call each other without incurring 
+long distance charges. The prices of shared service com- 
+ponents for rural LECs under such agreements are gener- 
+ally lower than prices made available to requesting carriers 
+in a competitive marketplace. See id. at 41. 
+
+
+Rural carriers entered into hundreds of agreements of 
+this type prior to the effective date of the 1996 Act, and 
+one of the questions at issue in this case is how these 
+agreements are affected by the terms of the Act. As de- 
+scribed in the briefs of the large and mid-sized LECs, 
+Sections 251 and 252 of the Act seek to introduce com- 
+petition through reliance on private party negotiations and 
+State commission review and approval of interconnection 
+agreements. Section 252(a)(1) provides that an incum- 
+bent local exchange carrier “may negotiate and enter into 
+a binding agreement with the requesting telecommunica- 
+tions carrier” upon receipt of a “request for interconnec- 
+tion, services, or network elements pursuant to section 
+251.” 47 U.S.C. §252(a)(1). Section 252(e) in turn 
+provides that “[a}ny interconnection agreement adopted 
+by negotiation or arbitration” under Sections 251 or 252 
+“shall be submitted for approval to the State commission.” 
+47 US.C. §252(e)('). The Act does not clearly say 
+whether State commissions must require agreements “nego- 
+tiate[d] and enter[ed] into” before the effective date of the 
+Act to be submitted to them for review and approval, 
+although it clearly does provide that an agreement which 
+was “negotiated” before the enactment date but executed 
+afterwards must be submitted. 47 U.S.C. § 252(a)(1). 
+
+
+B. The FCC's Implementation of the 1996 Act 
+
+
+There is no dispute that Congress authorized States to 
+adopt implementing regulations to fulfill their obligations 
+to conduct exemption and suspension proceedings under 
+
+
+Section 251(f) and interconnection agreement approval 
+proceedings under Section 252. See 47 U.S.C. § 261(b) 
+(stating that “[nJothing in this part shall be construed to 
+prohibit any State commission . . . from prescribing regu- 
+lations . . . in fulfilling the requirements of this part [in- 
+cluding Section 251(f) and Section 252(a)], if such regu- 
+lations are not inconsistent with the provic‘ors of this 
+part”), The FCC confirmed this reading in its order by 
+acknowledging that “we expect that states will interpret 
+the uirements of section 251(f) through rulemaking 
+and adjudicative proceedings.” J.A. at 193. Although the 
+FCC initially acknowledged that “states alone” had au- 
+thority to make determinations under Section 251(f), J.A. 
+at I, the FCC nevertheless changed its mind (without 
+explaining why), and decided to prevent States from adopt- 
+ing their own interpretations of central terms of Section 
+251(f) and Section 252(a) through rulemaking or adjudi- 
+cations. The Commission instead adopted “national rules” 
+and directed States to render exemption and suspension 
+decisions that “conform to our rules.” J.A. at 435-36. 
+
+
+The national rule promulgated under Section 251(f) 
+sought to dramatically circumscribe the State commissions’ 
+discretion to tailor competitive policies to the special char- 
+acteristics of their rural markets, and sought to compel 
+State commissions to adhere to an unduly restrictive inter- 
+pretation of the standards for relief established under Sec- 
+tion 251(f). First. Rule 51.405 disnlaced the three pre- 
+requisites for terminating an exemption established under 
+Section 251(f)(1)—technical feasibility, undue economic 
+burden, and consistency with universal service provisions— 
+with a single “embellishe[d]” standard, Pet. App. at 28a, 
+that required termination of any exemption absent proof 
+that the request would impose an “undue economic bur- 
+den.” * Second, the FCC determined that an “economic 
+
+
+* Although the FCC protested in the Eighth Circuit that it did 
+not really intend to displace the other prerequisites for termination 
+
+
+burden” warranting relief could not include any “eco- 
+nomic burden that is typically associated with efficient com- 
+petitive entry.” 47 C.F.R. §51.405(c), J.A. at 1124. 
+Third, once a bona fide request is made by a requesting 
+carrier, the FCC’s rule assigned the burden of proof to 
+the rural telephone company, based on the Commission’s 
+unsupported premise that “it is appropriate to place the 
+burden of proof on the party seeking relief from otherwise 
+applicabie requirements.” J.A. at 196. 
+
+
+The national rule promulgated under Section 252(a) 
+required State commissions to review and approve hun- 
+dreds of preexisting agreements between non-competing. 
+neighboring LECs, including FAS agreements. The FCC 
+interpreting the language of Sections 252(a) and (e) to 
+require such approval, despite its acknowledgment that 
+such agreements “were negotiated under very different cir- 
+cumstances, and may not provide a reasonable basis for 
+interconnection agreements under the 1996 Act.” J.A. at 
+30. 
+
+
+C. The Decision of the Eighth Circuit 
+
+
+The Eighth Circuit vacated the FCC’s pricing regula- 
+tions because they “exceeded” the FCC’s jurisdiction. 
+Towa Utils. Bd. v. FCC, 120 F.3d 753, 794 (8th Cir. 
+1997); Pet. App. at 10a. That determination was based 
+upon an analysis of the text of the provisions governing 
+the States’ authority to regulate pricing in local exchange 
+markets. Pet. App. at 9a-24a. The Eighth Circuit also 
+vacated the FCC’s nonprice rules where the text of the 
+1996 Act demonstrated a congressional intent to give the 
+States exclusive jurisdiction to implement those sections 
+of the Act. 
+
+
+of a rural exemption, the terms of its rule expressly provided 
+otherwise. See 47 C.F.R. § 51.405(c), J.A. at 1124 (“In order to 
+
+
+justify continued exemption . . . an incumbent LEC must offer 
+evidence .. . . [of] undue economic burden ... .”). 
+
+
+10 
+
+
+1. The Eighth Circuit vacated the FCC’s rules govern- 
+ing State rural exemption, suspension and modification 
+proceedings because the “plain meaning of subsection 251 
+(f)(1) (governing exemptions) and 251(f)(2) (govern- 
+ing suspensions and modifications) indicates that the state 
+commissions have the exclusive authority to make these 
+determinations.” Pet. App. at 28a. The court emphasized 
+that “nothing in either of these provisions, or in the Act 
+generally, provides the FCC with the power to prescribe 
+the governing standards for such determinations.” Jd. In 
+contrast to the “repeated and exclusive” references to 
+State commission determinations in Section 251(f), the 
+Court of Appeals found absolutely “no indication that 
+State commissions must follow FCC standards” in con- 
+ducting exemption, suspension or modification inquiries. 
+Id. 
+
+The court found that this conclusion was further con- 
+firmed by the fact that Congress had rejected both a Senate 
+bill and a House bill giving the FCC concurrent jurisdic- 
+tion with State commissions to administer these provisions. 
+Id. at 29a. The court held that it would be “unreason- 
+able to infer from subsection 251(d) or the other general 
+rulemaking provisions cited by the FCC that Congress 
+intended to put the Commission—the agency it decided 
+to exclude from the exemption process—in a position to 
+dictate the substantive standards governing the exemption 
+process.” Jd. at 29a-30a. 
+
+
+After resolving the issue based on the language of Sec- 
+tion 251(f) alone, the Court of Appeals found that Section 
+2(b) provided an additional ground for its decision.’ Id. 
+at 30a. The court reasoned that “determinations of 
+
+
+* Section 2(b) of the Act provides that “nothing in this chapter 
+shall be construed to apply or to give the [FCC] jurisdiction with 
+respect to .. . charges, classifications, practices, services, facilities, 
+or regulations for or in connection with intrastate communication 
+service.” 47 U.S.C. § 152(b). 
+
+
+il 
+
+
+whether small or rural LECs should receive exemptions, 
+modifications, or suspensions” of interconnection duties 
+qualify as “practices or regulations” which are made “in 
+connection with intrastate communication service” within 
+the meaning of Section 2(b). Jd. The court declined to 
+address respondents’ substantive challenges to the regu- 
+lation in light of its jurisdictional holding. /d. 
+
+2. The Eighth Circuit also vacated the FCC’s rule re- 
+quiring State commissions to review and approve all pre- 
+existing interconnection agreements. The Eighth Circuit 
+determined that “[nJothing” in Section 252 “can be read 
+to authorize the FCC to issue regulations regarding which 
+interconnection agreements must be submitted for state ap- 
+proval.” Pet. App. at 35a. The court emphasized that 
+Section 252 “establishes the procedures and standards that 
+State commissions must follow when approving and arbi- 
+trating agreements under the Act.” Jd. (emphasis in 
+original ). 
+
+Acknowledging the FCC’s “grasp for some sort of statu- 
+torily-based jurisdiction over these interconnection agree- 
+ments,” id. at 36a, the Court of Appeals nevertheless con- 
+cluded that “section 2(b) forecloses the ability of the Com- 
+mission to determine which interconnection agreements 
+must be submitted for State commission approval.” Id. at 
+35a (citation omitted). The Court of Appeals concluded 
+that this issue must be resolved by State commissions. /d. 
+
+
+3. The Eighth Circuit also rejected the FCC’s attempt 
+to compel States to conform their decisions to its “national 
+rules” for an additional reason. As the Eighth Circuit 
+explained, the FCC’s order “purport[ed] to preempt any 
+State policy that conflicts with an FCC regulation promul- 
+gated pursuant to section 251.” Pet. App. at 36a. Even 
+if the FCC had some “residual authority to prescribe and 
+enforce regulations to implement the requirements of sec- 
+tion 251” beyond “the six areas in [Section 251] where 
+Congress expressly called for the FCC’s participation,” id. 
+at 37a, the court found that the FCC exceeded that au- 
+
+
+12 
+
+
+thority. The court held that two sections of the Act di- 
+rectly addressing the issue of preemption—Section 251 
+(d)(3) and Section 261—expressly “constrain[] the FCC’s 
+authority” to adopt binding national rules. /d. at 37a. The 
+court explained that Section 251(d)(3) provides that the 
+FCC cannot preempt State commission orders establishing 
+interconnection obligations so long as they are “consistent 
+with the requirements of section 251” and do not “substan- 
+tially prevent the implementation of the requirements of 
+Section 251 and the purposes of Part Ii.” /d. The Eighth 
+Circuit found that “[t}his provision does not require all 
+State commission orders to be consistent with all of the 
+FCC’s regulations promulgated under section 251,” because 
+it is “entirely possible for a State interconnection or access 
+regulation . . . to vary from a specific FCC regulation 
+and yet be consistent with the overarching terms of sec- 
+tion 251.” /d. at 38a. It found further support for that 
+conclusion in Section 261(b), which authorizes States to 
+adopt rules that are “not inconsistent with the provisions 
+of this part” to “fulfill[] the requirements of this part,” 
+but which does not provide that such rules must conform 
+to FCC regulations. /d. at 39a. 
+
+
+On the basis of these sections of the Act, the court con- 
+cluded that the FCC could not preempt State authority 
+based solely on the theory that it had concurrent jurisdic- 
+tion to adopt rules under Sections 251 and 252. The FCC 
+could only adopt rules with preemptive force—the author- 
+ity it purported to exercise here—based upon legally sup- 
+portable findings that divergent State rulings would contra- 
+vene “the requirements of [Section 251]” or would “sub- 
+stantially prevent implementation of the requirements of 
+. . « Section [251] and the purposes of [Part II].” 47 
+U.S.C. § 251(d)(3)(B)-(C); Pet. App. at 37a. The FCC 
+made no such findings in its order, and the court rejected 
+the agency’s view that “an inconsistency between a state 
+rule and a Commission regulation under section 251 is 
+
+
+13 
+
+
+sufficient for the FCC to preempt the state rule” as an “un- 
+reasonable interpretation of the Act.” Pet. App. at 40a. 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The 1996 Act fundamentally changed the telecommuni- 
+cations industry by eliminating many barriers to entry and 
+imposing unprecedented requirements to stimulate com- 
+petition. Congress nevertheless recognized that it was pre- 
+mature to introduce such sweeping changes into the 
+sparsely populated rural markets served by small telephone 
+companies who, along with their customers, could be un- 
+fairly burdened by the entry of virtually unregulated com- 
+petitors seeking to serve only the more profitable segments 
+of the rural market. Congress addressed this issue by af- 
+fording small carriers relief from many of the most onerous 
+competitive burdens associated with the new law, and en- 
+trusted the responsibility for administering this relief to 
+the agencies in the best position to assess the special issues 
+presented in rural markets—State commissions that have 
+been helping to preserve and promote the mission of small 
+and rural telephone companies for most of this century. 
+The Eighth Circuit properly determined that the rules 
+adopted by the FCC to implement the sections of the Act 
+addressing these small carrier issues represent an imper- 
+missible attempt to exercise jurisdiction reserved to the 
+States, and undermine the scheme of cooperative fed- 
+eralism that Congress sought to establish. 
+
+
+I. The FCC originally conceded that Congress expressly 
+delegated authority to the States to “prescrib[e] regula- 
+tions” to implement Section 251(f), and initially concluded 
+in the NPRM that “the states alone have authority to 
+make [such] determinations.” J.A. at 11. The text of 
+Section 251 confirms that the FCC had it right the first 
+time. When Congress wanted the FCC to adopt regula- 
+tions to govern issues in State commission proceedings, it 
+expressly said so. See, e.g., 47 U.S.C. § 251(f)(1)(B) 
+(when States terminate an exemption, they are required 
+
+
+14 
+
+
+to enter orders establishing a schedule for compliance 
+“that [are] consistent in time and manners with Com- 
+mission regulations”). The legislative history further con- 
+firms that reading. The bills passed by both the House and 
+Senate gave the FCC a role in conducting proceedings 
+designed to afford relief to small companies. Both ver- 
+sions were rejected in conference, however, and the states 
+were given sole authority to conduct exemption, suspen- 
+sion and modification proceedings for all small carriers. 
+See 47 U.S.C. § 251(f)(1)-(2). 
+
+
+The FCC similarly lacked statutory authority to adopt 
+a rule requiring States to review and approve (or disap- 
+prove) all interconnection agreements that predated the 
+passage of the Act—an interpretation that would have re- 
+quired State commissions to review hundreds (and per- 
+haps thousands) of preexisting agreements between small 
+carriers and their neighboring LECs. The language of Sec- 
+tion 252, however, establishes that Congress only afforded 
+the FCC authority to oversee the process of approving pri- 
+vate agreements in the event a State commission refuses to 
+act. 47 U.S.C. § 252(e)(5). It is therefore manifestly 
+unreasonable to conclude that Congress gave the FCC au- 
+thority to dictate how State commissions should construe 
+their statutory responsibilities with respect to the review 
+of preexisting agreements that involve “almost exclusively 
+... local intrastate telecommunication services.” Pet. App. 
+at 35a. 
+
+Other provisions of the Act further confirm congres- 
+sional intent to leave these interpretive issues to the State 
+commissions. Although the FCC claims that “Congress 
+divided responsibility between the FCC and the state com- 
+missions along the lines of legislative and adjudicatory 
+function,” that theory cannot be reconciled with three 
+other sections of the Act that expressly address the allo- 
+cation of rulemaking authority between the FCC and the 
+States. FCC Br. at 37 (emphasis in original). First, 
+Section 261 of the Act authorizes States to adopt “regu- 
+
+
+_——_ 
+
+
+15 
+
+
+lations” to fulfill their responsibilities under the Act, and 
+those State regulations do not have to conform to Com- 
+mission regulations. Compare 47 U.S.C. §261(b) (au- 
+thorizing implementing regulations by States that are not 
+“inconsistent with the provisions of this part”) with 47 
+U.S.C. §261(c) (authorizing “additional” state regula- 
+tions beyond those adopted to “fulfill” State responsibili- 
+ties under the Act, but only if they are consistent with 
+“the Commission’s regulations”). Second, Section 251 
+(d)(3) strictly limited the FCC’s authority to preempt 
+State regulations or orders concerning the LECs’ “inter- 
+connection obligations” when “prescribing {its own] regu- 
+lations.” Yet the FCC rules at issue plainly exceed that 
+authority by “prescribing . . . regulations” that would 
+“preclude the enforcement” of State rules and orders that 
+are “consistent with the requirements and . . . purposes” 
+of the Act, and the FCC made no contrary finding. 47 
+U.S.C, § 251(d)(3). Third, confirmation of the Eighth 
+Circuit’s interpretation of the FCC’s authority is also 
+found in Section 2(b) of the Communications Act, which 
+forecloses the assertion of FCC jurisdiction over intra- 
+State service issues in the absence of an unambiguous 
+grant of authority. Nothing in the Act can even plausibly 
+be read as an unambiguous grant of authority to the FCC 
+over these intrastate service issues. As the FCC’s own 
+order recognizes, Sections 251 and 252 “do not contain 
+an explicit grant of intrastate authority.” J.A. at 448. 
+
+
+Il. The Eighth Circuit’s interpretation does not under- 
+mine the policies of the Act. The FCC has offered no 
+evidence—and there is none—that the Eighth Circuit’s 
+decision has disrupted the State processes for deciding the 
+small carrier issues (or any other issues for that matter). 
+The federal scheme is working better without the FCC's 
+mandatory directives to State commissions on these small 
+company issues because it has allowed States needed flexi- 
+bility—that the FCC’s rules denied—to interpret the Act 
+
+
+16 
+
+
+in light of the State commissions’ knowledge and exper- 
+tise regarding the status of local competition in their states. 
+
+
+The FCC places substantial reliance on its claim that 
+the Eighth Circuit's interpretation of the FCC’s jurisdic- 
+tion frustrates congressional intent by preventing “a single 
+court of appeals” from “resolv[ing]” the “most funda- 
+mental issues arising” under the 1996 Act. FCC Br. at 
+40. But there is no reason to conclude that Congress 
+’ shared the Commission’s view that this was a paramount 
+goal of the Act. To the contrary, the terms of the Act 
+make clear that Congress was content to allow these statu- 
+tory issues to be resolved through State proceedings 
+conducted over time. Nothing in the statute required the 
+FCC to adopt any interpretations of Sections 251(f) or 
+252(a), and Congress did not even grant federal district 
+courts jurisdiction to conduct direct review of State com- 
+mission determinations issued under Section 251(f). This 
+Court should accordingly conclude, as the Eighth Circuit 
+did, that Congress adopted a program that permits States 
+to develop reasonable interpretations of the Act in the 
+course of conducting the proceedings Congress assigned 
+to them. It did not authorize the FCC to short circuit that 
+important State role in the new regulatory scheme. 
+
+
+ARGUMENT 
+
+
+The FCC’s attempt to command the States to render 
+decisions that “conform to [its] rules” was properly re- 
+jected by the Eighth Circuit. J.A. at 435-36. Contrary 
+to the FCC’s claims, there is a very “coherent textual basis 
+for attributing to the Commission jurisdiction to implement 
+some, but not all, of the core federal standards of the loca! 
+competition provisions.” FCC Bi. at 15. The language of 
+the Act firmly supports the Court of Appeals’ conclusion 
+that the FCC had no authority to displace (or severely 
+circumscribe) the States’ responsibility to implement the 
+relief afforded to small carriers under Section 251(f). or 
+to compel State commissions to review thousands of pre- 
+
+
+17 
+
+
+existing carrier agreements under Section 252(a), with no 
+discretion to evaluate whether they warrant submission. 
+Nothing about this reading of the Act “raise[s] immense 
+obstacles to effective implementation” of congressional pol- 
+icies. FCC Br. at 39. To the contrary, it promotes them. 
+
+
+I. THE LANGUAGE AND STRUCTURE OF THE 1996 
+TELECOMMUNICATIONS ACT ESTABLISH THAT 
+THE FCC IMPERMISSIBLY DISPLACED THE 
+STATES’ AUTHORITY TO IMPLEMENT THE 
+STATUTORY PROVISIONS AT ISSUE 
+
+
+The FCC looks far and wide to support its claim that 
+“Congress directed [it] to create a national framework 
+for individual state commissions to apply” when conduct- 
+ing proceedings under Section 251(f) and Section 252. 
+FCC Br. at 15; id. at 30 (stating that Section 271— 
+which has nothing whatsoever to do with the rural exemp- 
+tion provision—“is powerful evidence that Congress meant 
+to authorize the Commission to create a national regula- 
+tory framework that the state commissions would apply 
+in adjudicating particular carrier-to-carrier disputes under 
+Sections 251 and 252”). Several provisions of the Act 
+explicitly address the respective roles of the FCC and 
+the State commissions in the implementation of Section 
+251(f) and Section 252. It is those express provisions 
+which plainly establish that Congress withheld authority 
+from the FCC to tell State commissions how to conduct 
+and decide the matters Congress entrusted to them. 
+
+
+A. The Text Of Sections 251(f) And 252 Plainly Estab- 
+lishes That The FCC Has Exceeded Its Authority 
+
+
+1. The FCC contends that Congress required it to 
+adopt rules implementing “core federal standards” for the 
+1996 Act’s local competition provisions, including the “cri- 
+teria by which rural carriers may claim exemption from” 
+
+
+18 
+
+
+interconnection requirements under Section 251(f). FCC 
+Br. at 18-19. In fact, few provisions in the 1996 Act more 
+clearly illustrate Congress’s plan to grant the States primary 
+authority to implement important sections of the 1996 Act 
+governing competition in intrastate markets. Th Court of 
+Appeals correctly concluded that the “plain .<aning” of 
+subsections 251(f)(1) and (2) “indicates that the state 
+commissions have the exclusive authority to make [rural 
+exemption] determinations.” Pet. App. at 28a. 
+
+
+The FCC contends that it is unreasonable to infer that 
+Congress “divest[ed] [the] Commission of any role in im- 
+plementing [the] ‘rural exemption’ provision of Section 
+251(f)” based on the fact that Congress “assigned the 
+state commissions some role in implementing” the Act. 
+FCC Br. at 26 n.9 (emphasis in original). A review of 
+Section 251(f), however, hardly supports the view that 
+Congress just gave State commissions “some” role in im- 
+plementing Section 251(f)—-States were given the sole 
+role. As the Eighth Circuit found, subsection 251(f)(1) 
+(B) “explictly provides [that], ‘The State commission shall 
+conduct an inquiry for the purpose of determining whether 
+to terminate the exemption under subsection paragraph 
+(A).’” Pet. App. at 28a (emphasis added). The court 
+emphasized that there are “[rjepeated and exclusive ref- 
+erences to such state commission determinations . . . con- 
+tained throughout subsection 251(f),” while “[iJn con- 
+trast, there is no indication that state commissions must 
+follow FCC standards in conducting these inquiries.” /d. 
+
+
+As the Eighth Circuit further found, Congress “is 
+capable of clearly expressing its desire to grant the FCC 
+authority . . . when it wishes to do so,” and it did so in a 
+number of instances. Pet. App. at 14a."° Yet Congress 
+
+
+1° Under the statute, the FCC is specifically authorized to issue 
+regulations under subsections 251(b)(2) (number portability), 
+251(c)(4)(B) (limitations on resale), 251(d)(2) (unbundled net- 
+work elements), 251(e) (numbering administration), 251(g) (con- 
+
+
+19 
+
+
+did not direct State commissions conducting exemption, 
+suspension, and modification proceedings to make those 
+determinations in conformity with Commission regulations. 
+Instead, Congress indicated that States were only required 
+to enter orders establishing “an implementation schedule” 
+for compliance “that is consistent in time and manner with 
+Commission regulations” once they have concluded that 
+the termination of an exemption is warranted. 47 U.S.C. 
+§ 251(f)(1)(B); see Pet. App. at 29a. The fact that 
+Congress only directed State commissions to adhere to 
+specified Commission regulations “[u]pon termination of 
+[an] exemption” negates any inference that Congress im- 
+pliedly authorized the FCC to adopt other rules governing 
+a State commission’s resolution of requests pertaining to 
+exemptions under Section 251(f). 47 U.S.C. § 251 
+(f)(1)(B).™ 
+
+
+The FCC’s claim that Congress intended rural exemp- 
+tion determinations to be governed by federal regulations 
+is further undermined by the fact that Congress expressly 
+rejected versions of Section 251(f) which gave the FCC 
+concurrent jurisdiction with State commissions to admin- 
+ister the exemption and waiver provisions for small local 
+
+
+tinued enforcement of exchange access), and 251(h)(2) (treatment 
+of comparable carriers as incumbents). Pet. App. at 12a n.10, 29a 
+n.23. 
+
+
+™ Indeed, the interpretation of the 1996 Act that the FCC has 
+advocated would render this language of Section 251(f)(1)(B) 
+superfluous. Under the Commission’s reading of the Act, all of 
+the State commission’s determinations under Section 251(f) must 
+“comply with the Commission’s regulations.” J.A. at 455. But if 
+the FCC already possesses broad authority to adopt regulations 
+implementing Section 251(f) as it alleges—regulations which the 
+States would be obligated to apply in resolving requests for relief 
+under that section—it would have been completely unnecessary for 
+Congress to direct the States to adopt an implementation schedule 
+that conformed to Commission regulations. It is apparent, there- 
+fore, that Congress simply did not authorize the Commission to 
+adopt any other regulations implementing Section 251(f). 
+
+
+20 
+
+
+exchange carriers. The Senate bill provided that the Com- 
+mission or a State could provide small companies with 
+relief from the obligations of Section 251. See S. 652, 
+104th Cong. § 251(i) (1995); Senate Report at 22. The 
+House bill gave State commissions authority to administer 
+exemption and waiver provisions for rural telephone com- 
+panies, but also gave the FCC authority to grant waivers 
+for any local exchange carrier with fewer than 500,000 
+access lines installed. See H.R. 1555, 104th Cong. § 242 
+(e)-(g) (1995). Both of these bills were rejected in 
+conference, and the States were given exclusive authority 
+to conduct exemption, suspension and modification pro- 
+ceedings for all small carriers. See 47 U.S.C. § 251(f) 
+(1)-(2). The FCC’s effort to claim dual jurisdiction to 
+control the resolution of exemption proceedings in State 
+commissions after Congress deliberately excluded the FCC 
+from the process was correctly rejected by the Court of 
+Appeals. See Pet. App. at 29a; Russello v. United States, 
+464 U.S. 16, 23 (1983) (declining to adopt an interpre- 
+tation at odds with changes in the language of a bill). 
+
+
+The language and history of Section 251(f) makes its 
+intent plain. Congress determined that State agencies are 
+better situated to evaluate the special concerns of rural 
+areas, and to administer provisions designed to shield small 
+companies operating in their jurisdictions from unduly 
+harmful effects of the new obligations. Under these cir- 
+cumstances, it is unreasonable to infer that Congress 
+nevertheless meant to put the FCC—the agency it decided 
+to exclude from the exemption process—in a position to 
+dictate the substantive standards that States should apply 
+in their own agency proceedings (let alone to rewrite the 
+statutory standard). 
+
+
+2. Subsections 252(a) and (e) of the Act require 
+interconnection agreements to be approved by State com- 
+missions. In its pursuit of increased competition at any 
+cost, the FCC determined that States must review and 
+
+
+21 
+
+
+approve (or disapprove) all interconnection agreements 
+that predated the passage of the Act. The FCC reached 
+this conclusion even though the State of Wisconsin, for 
+example, had interpreted Section 252(a) to exclude agree- 
+ments executed before the effective date, and explained the 
+unwarranted burdens the FCC’s interpretation would im- 
+pose on State commissions. Petition for Reconsideration 
+by Public Service Commission of Wisconsin, In re Imple- 
+mentation of the Local Competition Provisions of the Tele- 
+communications Act of 1996, CC Docket No. 96-98 
+(Sept. 30, 1996). Under this interpretation, hundreds 
+upon hundreds of contracts negotiated under “very differ- 
+ent” competitive circumstances, J.A. at 30, must be re- 
+viewed by State commissions. The Eighth Circuit cor- 
+rectly vacated the rule based upon its finding that State 
+commissions—not the FCC—were given authority to in- 
+terpret the scope of their own obligations under this 
+section. 
+
+
+As set forth in the Eighth Circuit's opinion, the FCC’s 
+jurisdiction to adopt regulations implementing the 1996 
+Act is limited in scope. Section 252 of the 1996 Act 
+establishes the process and standards that States must fol- 
+low when arbitrating and approving intercounection agree- 
+ments. The FCC’s role under this section is extremely 
+circumscribed— indeed, it is limited only to stepping in to 
+oversee the arbitration process in the event that a State 
+commission refuses to act. See 47 U.S.C. § 252(e)(5). 
+The text and structure of Section 252 cannot reasonably 
+be read to confer upon the FCC the authority to imple- 
+ment regulations specifying the obligations of intercon- 
+nectors to submit their agreements for approval under sub- 
+sections 252(a) and (e). As the court found, these agree- 
+ments “almost exclusively involve local intrastate telecom- 
+munication services,” Pet. App. at 35a, where Congress 
+has traditionally relied upon State commissions to regulate — 
+competition. The fact that Congress has established lim- 
+ited standards to guide the exercise of the States’ discre- 
+tion does not mean that the FCC is the final arbiter of 
+
+
+22 
+
+
+how the States should implement those standards. The 
+Eighth Circuit correctly determined that Congress assigned 
+that role to the States. 
+
+
+B. The Eighth Circuit’s Rejection Of The FCC’s Au- 
+thority To Adopt Mandatory Rules Implementing 
+Sections 251(f) And 252 Is Firmly Grounded In 
+Other Provisions Of The Act 
+
+
+In an effort to find some justification for its blanket 
+preemption of the States’ authority to interpret the sections 
+of the Act they alone must administer, the FCC claims 
+that “Congress divided responsibility between the FCC 
+and the state commissions along lines of legislative and 
+adjudicatory function.” FCC Br. at 37 (emphasis in orig- 
+inal). According to the Commission, Congress wanted it 
+to make the rules, and wanted the State commissions to 
+apply them. That division of responsibility is not, of 
+course, reflected in the language of Section 251(f) or 
+Section 252(a), and it is contradicted by three other sec- 
+tions of the Act that expressly address the allocation of 
+authority between the FCC and the States. 
+
+
+1. The FCC does not even attempt to reconcile its 
+theory concerning Congress’s division of responsibility with 
+Section 261 of the Act. That section plainly establishes 
+that Congress did not relegate State commissions to an 
+adjudicatory role. Instead, it authorized States to adopt 
+“regulations” to fulfill their responsibilities under the Act, 
+including Sections 251(f) and 252(a), and provided that 
+the States’ implementing regulations need not conform to 
+Commission regulations. Section 261(b) is explicit: 
+“tnjothing in this part shall be construed to prohibit any 
+State commission . . . from prescribing regulations . . . in 
+fulfilling the requirements of this part [including Section 
+251(f) and Section 252(a)], if such regulations are not 
+inconsistent with the provisions of this part.” 47 U.S.C. 
+§ 261(b) (emphasis added). Nor can the FCC reason- 
+ably contend that State commission regulations are “incon- 
+
+
+23 
+
+
+inconsistent with regulations adopted by the Commission. 
+Any such construction is foreclosed by the language of the 
+very next subsection, Section 261(c). That section ex- 
+Pressly requires States to conform their rules 
+
+mission's regulations” if they seek to adopt “additional” 
+regulations beyond those enacted under Section 261(b) to 
+“fulfill[] the requirements of this part.” 47 U.S.C. § 
+(b), (c). If Congress truly had intended to conform 
+
+
+1996 to FCC regulations, it would have said so explicitly ° 
+as it did in Section 261(c). Instead, Congress clearly 
+granted the States the autonomy to implement the Act in 
+the first instance, and not merely to “apply” a pre- 
+ordained, FCC-defined “framework” as the agency sug- 
+gests. FCC Br. at 9. 
+
+
+_ Although the Commission unsuccessfully attempted to 
+distinguish the application of Section 261 before the Eighth 
+Circuit, see Pet. App. at 39a, the Commission does not 
+even mention the provision here. Nevertheless, Section 
+261(b) contains an explicit recognition that the States 
+have authority to “prescrib[e] regulations” to “fulfill[{] the 
+requirements of this part.”"* The FCC’s attempt to im- 
+pose binding regulations that States must follow in exemp- 
+tion, suspension and modification proceedings, or with re- 
+spect to Section 252(a) carrier agreement filings, accord- 
+ingly cannot be reconciled with the Act. 
+
+
+2. Section 251(d)(3) further confirms that State com- 
+missions are not obligated to implement Section 251(f) 
+and Section 252(a) in accordance with national regula- 
+tions adopted by the FCC. Under that section, Congress 
+prohibited the FCC from “prescribing . . . regulations” 
+that would “preclude the enforcement” of any State “regu- 
+
+
+“The FCC itself recognized in its order that “we expect that 
+states will interpret the requirements of section 251(f) through 
+rulemaking and adjudicative proceedings.” J.A. at 193. 
+
+
+24 
+
+
+lation, order or policy” establishing “access and intercon- 
+nection obligations of local exchange carriers which is 
+“consistent with the requirements and . . . purposes of 
+the Act. 47 U.S.C. § 251(d)(3). Yet that is exactly 
+what the Commission has sought to do by establishing a 
+uniform national rule governing any “order” issued by 
+the State in Section 251(f) and Section 252 proceedings 
+which “establish{] the . . . obligations of local exchange 
+carriers.” Id. 
+
+The Eighth Circuit correctly observed that Section 251 
+(d)(3)’s requirement of “consisten|{cy] with the require- 
+ments of section 251” does not necessarily mean “con- 
+sisten{[cy] with all of the FCC’s regulations promulgated 
+under section 251.” Pet. App. at 37a. The Court of Ap- 
+peals recognized that, given the specific way the text of the 
+provision is drafted, “[i}t is entirely possible for J state 
+interconnection or access regulation, order or policy to 
+vary from a specific FCC regulation and yet be consistent 
+with the overarching terms of section 251.” Jd. at 38a. 
+The FCC responds in conclusory fashion, claiming that it 
+is “illogical to presume that Congress withheld” a bindings 
+“interpretive role”’—apparently with respect to every Issue 
+that aris.s in Section 251(f) and Section 252 proceedings 
+—“froru the agency to which it gave preemptive author- 
+ity.” CC Br. at 23 n.7. 
+
+
+That reading makes no sense. Congress clearly knows 
+how to draft a preemption provision. And if Congress 
+had intended to permit the FCC to preempt categorically 
+any “regulation, order, or policy of a State commission” 
+establishing “access and interconnection obligations,” it 
+would have simply said so. Instead, Congress dramatically 
+circumscribed whatever rulemaking authority the FCC has 
+by prohibiting the FCC from “preclud[ing] the enforce- 
+ment of any [State commission] regulation, order, or 
+policy” when “prescribing [its own] . . . regulations to 
+implement the requirements of this section,” except in 
+
+
+25 
+
+
+limited circumstances.” 47 U.S.C. § 251(d). As 
+Court of Appeals found, Section 251(d}(3) emphatically 
+“does not support the FCC’s view” i» at “state rules must 
+conform to the Commission’s regulativns.” Pet. App. at 
+39a (emphasis added). 
+
+
+3. Confirmation of the Eighth Circuit's interpretation 
+of the FCC’s authority is also found in Section 2(6) of 
+the Communications Act."* As the Court of Appeals 
+explained, “determinations of whether small or rural LECs 
+should receive exemptions, modifications, or suspensions 
+of such duties also qualify as practices or regulations ‘for 
+or in connection with intrastate telecommunications serv- 
+ice’ that are outside of the FCC’s jurisdiction by the 
+operation of section 2(b).” Pet. App. at 30a (quoting 47 
+U.S.C. § 152(b)). And the court was also correct in 
+concluding that Section 2(b) “forecloses the ability of the 
+Commission to determine which interconnection agree- 
+ments” governing intrastate service “must be submitted 
+for state commission approval.” Jd. at 35a. The flaws in 
+the FCC’s analytical efforts to avoid the straightforward 
+operation of Section 2(b) are set forth fully in the briefs 
+of the large and midsized LECs. Their arguments apply 
+equally to the small and rural company issues addressed 
+here, and Respondents USTA and RTC accordingly join 
+those briefs. Here we emphasize two points. 
+
+
+The limited scope of the FCC’s preemptive authority is also 
+confirmed by 47 U.S.C. § 253(d). Even under that section. which 
+explicitly provides for FCC preemption »* state regulations that 
+function as barriers to entry, the FCC cannot preempt a state 
+regulation erecting barriers to entry in violation of Section 253(a) 
+
+
+or (b) without first providing notice and the opportunity for 
+comment. 
+
+
+™ That provision of the Act provides that “nothing in this chap- 
+ter shall be construed to apply or to give the [FCC] jurisdiction 
+with respect to . . . charges, classifications, practices, services, fa- 
+cilities, or regulations for or in connection with intrastate commu- 
+nication service.” 47 U.S.C. § 152(b). 
+
+
+26 
+
+
+First, the Commission's contention that Section 2(b) is 
+inapplicable because the Congress has “straightforward- 
+[ly]” subjected competition in local telecommunications 
+markets to federal regulation, FCC Br. at 33-34 (citing 
+Louisiana Public Serv. Comm'n v. FCC, 476 U.S. 355, 
+377 (1986)), is without merit. Nothing in the Act can 
+even plausibly be read as an unambiguous grant of au- 
+thority to the FCC over intrastate service Issues, as the 
+FCC itself has recognized. See J.A. at 448 (acknowledg- 
+ing that Sections 251-252 “do not contain an explicit 
+grant of intrastate authority”); J.A. at 7-8 (observing 
+that States historically have regulated competition in local 
+service areas). Instead, Congress has straightfor- 
+ward[ly]” preserved State authority by giving State com- 
+missions—not the FCC—responsibility for implementing 
+small company policies established by the Act. 
+
+
+Second, the FCC’s suggestion that the consideration 
+of the conditions that rural carriers face in particular 
+local markets, or the policy merits of filing hundreds of 
+thousands of EAS and other locally-oriented carrier-to- 
+carrier agreements, is “inextricably” both interstate and 
+intrastate in character, FCC Br. at 35, is simply wrong. 
+The exemption, suspension and modification proceedings 
+under Section 251(f), for example, determine the extent to 
+which competitive obligations should be imposed on small 
+and rural carriers to provide “telephone exchange service 
+in [a local] area.” See 47 U.S.C. § 251(h)(1). The FCC 
+has conceded that “telephone exchange service” is a “local, 
+intrastate service.” J.A. at 449. There accordingly can 
+be no question that the rule at issue represented the asser- 
+tion of FCC “jurisdiction with respect to... classifica- 
+tions, practices, . . . or regulations for or in connection 
+with intrastate communication service,” within the mean- 
+ing of Section 2(b). 47 U.S.C. § 152(b); see Louisiana, 
+476 U.S. at 370 (noting that “this provision fences off 
+
+
+27 
+
+
+from FCC reach or regulation intrastate matters—indeed, 
+including matters ‘in connection with’ intrastate service”). 
+C. The FCC’s Rules Cannot Be Upheld On The Basis 
+
+Of Chevron 
+
+
+The FCC’s appeal to Chevron deference, see FCC Br. 
+at 42 (citing Chevron U.S.A., Inc. v. Natural Resources 
+Defense Council, Inc., 467 U.S. 837 (1984)); see also 
+FCC Br. at 17, is unavailing. As a threshold matter, 
+Chevron has no role to play when the agency’s interpreta- 
+tion does not reflect a reasonable reading of congressional 
+intent, see Lechmere, Inc. v. NLRB, 502 U.S. 527, 539 
+(1992), and the FCC’s reading of its authority to inter- 
+pret Sections 251(f) and 252(a) assuredly was not. 
+
+
+In addition, the application of Chevron makes little 
+sense where, as here, the FCC shares responsibility for 
+administration of the statute with other governmental 
+bodies. See Bowen v. American Hospital Ass'n, 476 U.S. 
+610, 642 n.30 (1986) (where administration of a statute 
+is shared among agencies, there “is not the same basis 
+for deference predicated on expertise” as in other con- 
+texts); Rapaport v. United States Dep't of Treasury, Office 
+of the Thrift Supervision, 59 F.3d 212, 216 (D.C. Cir. 
+1995) (no Chevron deference where Congress delegated 
+Statutory responsibility to at least three other agencies), 
+cert. denied, 516 U.S. 1073 (1996). The deference af- 
+forded under Chevron is based upon the premise that 
+Congress would have wanted courts to defer to reason- 
+able interpretations advanced by the agency given re- 
+sponsibility for implementing the statute. See Adams 
+Fruit Co. v. Barrett, 494 U.S. 638, 649 (1990) (observ- 
+ing that a “precondition” to Chevron deference is a con- 
+gressional delegation of administrative authority); cf. 
+Crandon v. United States, 494 U.S. 152, 177 (1990) 
+(Scalia, J. concurring) (rejecting Chevron deference 
+where statute “is not administered by any agency but by 
+the courts”). Chevron deference is accorded to agencies 
+“because of a presumption that Congress, when it left 
+
+
+28 
+
+
+ambiguity in a statute meant for implementation by an 
+agency, understood that the ambiguity would be resolved, 
+first and foremost, by the agency.” Smiley v. Citibank 
+(South Dakota), N.D., 517 U.S. 735, 740-41 (1996). 
+But Section 261(b) clearly establishes that the States have 
+such implementing and interpretive authority under Sec- 
+tion 251(f) and 252(a), and Congress unquestionably 
+circumscribed the FCC’s authority to displace that power. 
+
+
+Under these circumstances, where the States in fact 
+possess the “historical familiarity and policymaking ex- 
+pertise” with respect to local rural service issues and 
+intrastate carrier-carrier agreements, Martin v. OSHRC, 
+499 U.S. 144, 153 (1991), it would be at least as reason- 
+able—in fact more reasonable—to afford deference to the 
+States’ interpretations of these provisions.’* There certainly 
+is no language of delegation anywhere in the 1996 Act 
+that supports the notion that the FCC’s views should 
+trump those of the States, or of the courts, on this ques- 
+tion. Given the breadth and intrusiveness of the FCC’s 
+proposed rules, deference to the Commission is not appro- 
+priate. Cf. Gregory v. Ashcroft, 501 U.S. 452, 464 
+(1991) (before interpreting statute to accord “state- 
+displacing weight” to federal law, it “must be absolutely 
+certain that Congress intended such an exercise”); United 
+States v. Bass, 404 U.S. 336, 349 (1971) (requiring 
+“clear statement” by Congress in “traditionally sensitive 
+areas, such as legislation affecting the federal balance’); 
+Amos v. Maryland Dep’t of Public Safety & Correctional 
+Servs., 126 F.3d 606-07 (4th Cir. 1997) (declining to 
+defer to federal administrative agency’s interpretations of 
+ambiguous federal statute, “however reasonable,” where 
+there are “enormous” implications for the “balance of 
+power between Federal Government and the States”). 
+
+
+15 Indeed, as the Large LECs explain, the very presumption writ- 
+ten into the text of the Communications Act on these intrastate 
+matters is that they are completely “fence[d] off” from the FCC's 
+reach. Louisiana, 476 U.S. at 370; 47 U.S.C. § 152(b). 
+
+
+29 
+
+
+Il. THE EIGHTH CIRCUITS INTERPRETATION 
+DOES NOT UNDERMINE THE POLICIES OF 
+THE ACT 
+
+
+The FCC attempts to bolster the weaknesses in its 
+textual arguments with broad assertions that competition 
+in “local telephone markets” is being “impede[{d],” FCC 
+Br. at 39, because the FCC has not been granted carte 
+blanche to dismantle the framework of cooperative fed- 
+eralism that Congress intended with respect to the imple- 
+mentation of Sections 251-252. Contrary to the FCC’s 
+claims, Congress did “leave room”—indeed, plainly in- 
+tended—to give 50 State commissions latitude to define 
+the precise contours of determinations related to rural 
+telephone company exemptions, suspensions, and modifi- 
+cations, and the filing of co-carrier agreements, in the 
+context of competition issues and conditions now arising 
+in their local market. There is no practical reason to 
+revisit the wisdom of Congress’s choice. 
+
+
+1. Contrary to the FCC’s assertions, the Section 251- 
+252 framework of private party negotiation and State com- 
+mission arbitration crafted by Congress has been working 
+well since the Act’s passage to foster the emergence of 
+local exchange competition. To date, thousands of local 
+interconnection agreements have been signed since the 
+Act’s passage, with new competitors emerging each day in 
+local telephone markets. See Roy Neel, President, United 
+States Telephone Association, En Banc Presentation on 
+State of Local Competition before the FCC (Jan. 29, 
+1998) (observing that by November 1997, incumbent 
+LECs had signed more than 2,400 voluntary agreements 
+with 280 local service competitors). That process would 
+be even more effective if the FCC had not decided, in the 
+most intrusive manner possible, to inject itself into the 
+private party negotiation and State commission arbitration 
+processes. Congress intended private parties first, and then 
+the States, to be the impetus for the development of local 
+
+
+30 
+
+
+competition. Congress did not invite the FCC to introduce 
+more than 700 pages of binding federal guidance into 
+
+
+Congress’s “pro-competitive, de-regulatory” program. 
+
+
+2. The FCC also has offered no evidence that the 
+Eighth Circuit's decision has disrupted the State processes 
+for deciding the small carrier issues discussed herein. As 
+a practical and policy matter, Congress’s deference to the 
+States with respect to local interconnection matters gen- 
+erally, and with respect to rural exemption and intercon- 
+nection agreement filing issues in particular, makes perfect 
+sense. The State commissions are the agencies with the 
+specific knowledge and expertise regarding the status of 
+local competition in their States, and the particular car- 
+riers that are either incumbent, emerging and/or at risk 
+when local competition is introduced. 
+
+
+Two examples illustrate the fact that Congress’s scheme 
+is working better without the FCC’s mandatory directives 
+to State commissions on these small company issues. The 
+Alabama Public Service Commission recently considered 
+the “finzucial and technical limitations of [Alabama’s] 
+smal) LECs”; found that the interconnection obligations 
+imposed by subsections 251(b) and (c) would impose 
+undue economic burdens; and temporarily suspended those 
+obligations pending further review of “the effects of com- 
+petitive entry” on Alabama’s rural carriers. In re All 
+Telephone Cos. Operating in Alabama, No. 24472 
+(LEXIS, Pub. Util. Rep. 4th, slip op.) (Oct. 8, 1996). 
+Significantly, that determination was based upon a reason- 
+able interpretation of the Act without reference to the 
+FCC’s “embellishe[d]” and restrictive standard of proof 
+for rural exemption, suspension and modification proceed- 
+ings, Pet. App. at 28a, which otherwise could have under- 
+mined Alabama’s ability to shape competition policy in 
+accordance with the needs of its small carriers and their 
+customers.” 
+
+
+16 Congress established that State commissions could not termi- 
+nate an exemption or deny a suspension or modification, when the 
+
+
+— ~*~ 
+
+
+31 
+
+
+Similarly, some State commissions have been assessing 
+what types of agreements should be filed under Section 
+252(a) pursuant to their own reasonable interpretations 
+of the Act. Minnesota, for example, has commenced a 
+proceeding to determine whether EAS agreements, which 
+are of enormous importance to small and rural carriers, 
+in fact represent the type of agreements that should be 
+subject to Section 252(a) filing and approval require- 
+ments. See In re U.S. West Communications, Inc., No. 
+P-421, 1997 WL 634623 (Minn. P.U.C. June 24, 1997). 
+Under the FCC’s mandatory rules, that inquiry would 
+have been foreclosed because the FCC determined that all 
+preexisting agreements, including EAS agreements, had 
+to be filed with State commissions. See J.A. at 1111 (text 
+of 47 C.F.R. § 51.303). 
+
+
+The actions unfolding in the States illustrate the problem 
+with the FCC’s emphasis on the alleged practical and 
+policy need for “nationally consistent interpretations” re- 
+garding local competition issues. FCC Br. at 40. Con- 
+
+
+imposition of certain obligations under Section 251 would be “un- 
+duly economically burdensome.” See 47 U.S.C. § 251(f)(1)(A) and 
+(2)(A)(ii). This was the standard that Alabama applied. Section 
+51.405(c) and (d) of che FCC’s new rules, however, would have 
+required proof of an “undue economic burden” other than an “eco- 
+nomic burden that is typically associated with efficient competitive 
+entry.” 47 C.F.R. §51.405(c), (d) (emphasis added). Under this 
+new “efficient competitive entry” standard—which appears nowhere 
+in the statutory text—State commissions such as Alabama would 
+have been required to disregard losses that would threaten the 
+viability of a rural telephone company if such losses would be attrib- 
+utable to the entry of a more efficient competitor seeking to serve 
+part of a rural market. The FCC’s interpretation completely ig- 
+nores the fact that Congress understood the need to give States 
+substantial latitude to mitigate the impact of the Act on rural 
+telephone companies and their customers. See, eg., 47 U.S.C. 
+§§ 253(f), 214(e); see also 47 U.S.C. § 613(d)(3), (e) (defining 
+an “undue burden” in another section of the Communications Act 
+to include any “significant difficulty or expense”); Air Line Pilots 
+Ass'n Int'l v. Civil Aeronautics Bd., 494 F.2d 1118, 1125 (D.C. Cir. 
+1974) (interpreting similar phrase in statute creating small car- 
+rier exemption from economic regulatory provisions of the Federal 
+
+
+Aviation Act to reflect intent to keep small carriers “economically 
+viable”). 
+
+
+32 
+
+
+gress’s point in crafting the Section 251-252 regime in fact 
+was (and is) just the opposite: except for certain discrete 
+matters where federal involvement is required by the Act, 
+local competition determinations should be market-specific, 
+not “nationally uniform.” ” 
+
+
+3. The FCC places substantial reliance on the claim 
+that the Eighth Circuit's interpretation of the FCC’s juris- 
+diction frustrates congressional intent by preventing “a 
+single court of appeals” from “resolv[ing]” the “most fun- 
+damental issues arising” under the 1996 Act “soon after 
+the Act’s enactment.” FCC Br. at 40. But there is no 
+reason to conclude that Congress shared the Commission’s 
+view that this rulemaking proceeding should culminate in 
+uniform national rules—even if Congress had given the 
+Commission concurrent juisdiction to address these issues. 
+
+
+There is no dispute that Congress expected States to 
+adopt interpretive rules when conducting rural exemption 
+and interconnection proceedings, and that Congress did 
+not require the FCC to adopt rules on the statutory ques- 
+tions at issue here. Congress was accordingly content to 
+allow these issues to be resolved through State proceedings 
+conducted over time. In addition, as the Eighth Circuit 
+held, Congress did not allow the FCC to establish na- 
+tionally uniform standards which categorically preempt 
+contrary State rules. The Eighth Circuit rejected the 
+FCC’s view that its rules can “preempt-.any [different] state 
+policy” as “untenable.” Pet. App. at 36a. As discussed 
+supra at 1.B., the FCC’s assertion that State decisions im- 
+plementing Section 251 and 252 must conform to FCC 
+regulations, even where Congress did not say so, is re- 
+futed by Sections 261(b) and 251(d)(3). Nor did Con- 
+gress create a scheme where federal district courts would 
+
+
+17 This does not mean, of course, that States cannot follow the 
+FCC’s implementation approaches on rural exemption or LEC-LEC 
+agreement filing issues, provided that such approaches are consistent 
+with the Act. Indeed, various States have done so. But Congress 
+clearly intended the States to implement the Act in accordance with 
+their individual assessment of local market conditions, irrespective 
+of whether the FCC might take a divergent position. 
+
+
+33 
+
+
+“supply nationally consistent interpretations” for all of the 
+provisions construed by the FCC in its rules, as the FCC 
+contends. FCC Br. at 40. Congress did not grant federal 
+courts jurisdiction to conduct direct review of State com- 
+mission determinations issued under Section 251(f) (ex- 
+cept insofar as such issues might arise in connection with 
+review of State commission arbitration orders). Compare 
+47 U.S.C. § 252(e)(6) with 47 U.S.C. § 251(f). 
+
+
+There is accordingly no reason to presume that Congress 
+thought that all central issues of statutory interpretation 
+arising under Sections 251 and 252 should be adjudicated 
+in a single federal court proceeding. Instead, this Court 
+should find that Congress adopted a program that permits 
+States to develop reasonable interpretations of the Act in 
+the course of conducting the proceedings Congress as- 
+signed to them. Short-circuiting that process in the name 
+of litigation expediency undermines the State’s role in the 
+statutory scheme without any justification in the text of the 
+Statute. 
+
+CONCLUSION 
+
+
+For the reasons set forth, respondents respectfully re- 
+quest this Court to affirm the decision of the Court of 
+Appeals. 
+
+Respectfully submitted, 
+
+
+GARY M. EPSTEIN 
+
+MAUREEN E. MAHONEY * 
+
+RICHARD P. BRESS 
+
+JAMES H. BARKER 
+
+LATHAM & WATKINS 
+
+1001 Pennsylvania Ave., N.W. 
+
+Suite 1300 
+
+Washington, D.C. 20004-2505 
+
+(202) 637-2200 
+
+Counsel for United States 
+Telephone Association and 
+Rural Telephone Coalition 
+
+
+Dated: May 18, 1998 * Counsel of Record 
+(Other Counsel listed next page) 
+
+
+34 
+
+
+L. MARIE GUILLORY 
+
+2626 Pennsylvania Avenue, N.W. 
+Washington, D.C. 20087 
+
+(202) 298-2300 
+
+
+Counsel for National Telephone Cooperative Association 
+
+
+MARGOT SMILEY HUMPHREY 
+KOTEEN & NAFTALIN, LLP 
+1150 Connecticut Avenue, N.W. 
+Suite 1000 
+
+Washington, D.C. 20036 
+
+(202) 467-5700 
+
+
+Counsel for National Rural Telecom Association 
+
+
+LAWRENCE E. SARJEANT 
+
+LINDA KENT 
+
+KEITH TOWNSEND 
+
+1401 H Street, N.W. 
+
+Suite 600 
+
+Washington, D.C. 20005 
+
+(202) 326-7371 
+
+Counsel for United States Telephone Association 
+
+
+LISA M. ZAINA 
+
+21 Dupont Circle, N.W. 
+Suite 700 
+
+Washington, D.C. 20086 
+(202) 659-5990 
+
+
+Counsel for the Organization for the Promotion and 
+Advancement of Small Telecommunications Companies 
+
+

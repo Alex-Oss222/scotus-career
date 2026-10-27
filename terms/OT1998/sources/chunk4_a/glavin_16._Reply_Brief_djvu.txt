@@ -1,0 +1,808 @@
+nfo 
+Nos. 98-404 and 98-564 
+
+
+IN THE 
+
+
+Supreme Court of the Hnited States 
+October Term, 1998 
+
+
+UNITED STATES DEPARTMENT 
+OF COMMERCE, ET AL., 
+
+
+Appellants, 
+v. 
+
+
+UNITED STATES HOUSE OF 
+REPRESENTATIVES, ET AL., 
+
+
+Appellees. 
+
+
+On Appeal From The United States District Court 
+For The District Of Columbia 
+
+
+REPLY BRIEF FOR APPELLEES RICHARD A. 
+GEPHARDT, DANNY K. DAVIS, JUANITA 
+MILLENDER-McDONALD, LUCILLE ROYBAL- 
+ALLARD, LOUISE M. SLAUGHTER, and BENNIE G. 
+THOMPSON SUPPORTING APPELLANTS 
+
+
+J. Gerald Hebert Paul M. Smith* 
+
+800 Parkway Terrace Donald B. Verrilli, Jr. 
+Alexandria, VA 22302 Marc A. Goldman 
+(703) 684-3585 JENNER & BLOCK 
+
+
+601 Thirteenth Street, N.W. 
+Washington, D.C. 20005 
+(202) 639-6000 
+
+
+*Counsel of Record 
+
+
+Se 
+
+
+TABLE OF CONTENTS 
+
+
+TABLE OF AUTHORITIES 
+
+
+L. THE PLAIN LANGUAGE OF THE CENSUS 
+ACT PERMITS SAMPLING ................... 
+
+
+Il. APPELLEES’ NON-TEXTUAL ARGUMENTS 
+ARE EVASIVE AND ULTIMATELY 
+
+
+UNPERSUASIVE .. 
+
+
+A. Neither Congress Nor the Census Bureau 
+Had, Prior to 1976, Evinced a Long-Standing 
+Aversion to Sampling ................... 
+
+
+B. Appellees, While Relying on Suppused 
+Indicia of Legislative Intent, Never Claim 
+that Congress A ffirmatively Intended to 
+Bar the Use of Statistical Adjustments to 
+Increase the Accuracy of the Census ....... 
+
+
+CONCLUSION .......... 
+
+
+TABLE OF AUTHORITIES 
+CASES Page 
+
+American Textile Manufacturers Institute, Inc. 
+
+v. Donovan, 452 U.S. 490 (1981) ........... 4 
+Citizens to Preserve Overton Park, Inc. v. Volpe, 
+
+ik kai a ewciccecccces 4 
+Estate of Cowart v. Nicklos Drilling Co., 
+
+te  cccieckaveadceedcoecs 8 
+
+
+Franklin v. Massachusetts, 505 U.S. 788 (1992)... 6 
+Louisiana Public Service Commission v. FCC, 
+
+
+EE ED Lo dwackueaeccoecocces 5 
+Stone v. Immigration & Naturalization Service, 
+sed in uns ccceasece 13 
+Wisconsin v. City of New York, 517 U.S. 1} 
+DC chekisee tv eeined iabph scceceecce 6 
+STATUTES 
+a a a e'kd bes 00s tv'gedeeueead 6 
+oes wey 5 ove 0 ocicee senes passim 
+ME es ae cdcbesactegeaseers 7 
+I Sak cs bibcted veeneees passim 
+LEGISLATIVE MATERIALS 
+
+
+Act of Aug. 31, 1964, Pub. L. No. 88- 530, 
+Se 12 
+
+Bureau of the Census, U.S. Dep’t of Commerce, 
+Report to Congress -- The Plan for Census 2000 
+SPEER sicarescvenctevecses 2, 9, 15 
+
+
+Page 
+H.R. Rep. No. 85-1043 (1957) ................ 12 
+H.R. Rep. No. 88-373 (1964) .............005. 12 
+
+
+H.R. 8871, 95th Cong. § 144 (1977), reprinted 
+in The Census Reform Act: Hearings Before 
+the Subcomm. on Census and Population of 
+the House Comm. on Post Office and Civil 
+Service, 95th Cong. (1977) ...........44.. 12 
+H.R. 10386, 95th Cong. § 143 (1977), Amendment 
+of Title 13, United States Code, Relating to 
+Census: Hearings on H.R. 7911 Before the 
+House Comm. on Post Office and Civil Service, 
+
+
+CED ops ccchephencbewtdcees 12 
+S. Rep. No. 85-698 (1957), reprinted in 1957 
+ED cin dpocceswsedteeeecs 12 
+S. Rep. No. 88-1474 (1964), reprinted in 1964 
+I tee ds cise keh ecus 12 
+MISCELLANEOUS 
+
+
+Evarts B. Greene & Virginia D. Harrington, 
+American Population Before the Federal 
+
+
+a 9 
+James H. Cassedy, Demography in Early America 
+Win cick enous dicen Kedseeseeettce 9 
+
+
+IN THE 
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 98-404 and 98-564 
+
+
+UNITED STATES DEPARTMENT 
+OF COMMERCE, et ai., 
+Appellants, 
+
+
+Vv. 
+
+
+UNITED STATES HOUSE OF 
+REPRESENTATIVES, et ai., 
+
+
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the District of Columbia 
+
+
+REPLY BRIEF OF APPELLEES 
+RICHARD A. GEPHARDT, DANNY K. DAVIS, 
+JUANITA-MILLENDER-MCDONALD, 
+LUCILLE ROYBAL-ALLARD, LOUISE M. 
+SLAUGHTER, AND BENNIE G. THOMPSON 
+SUPPORTING APPELLANTS 
+
+
+This Court should allow the Census Bureau to proceed 
+with its planned methodology for conducting the 2000 Census. 
+Use of this methodology, which will substantially increase 
+accuracy of the census and reduce the undercount of groups that 
+have traditionally been excluded, is plainly acceptable under 
+
+
+2 
+
+
+the only harmonious interpretation of the Census Act, as well 
+as under the Constitution. 
+
+
+Appellees devote the bulk of their arguments on the merits 
+to the claim that the Census Act precludes the Census Bureau 
+from using sampling in the 2000 Census. Although appellees 
+also make a nominal effort to argue that the use of sampling is 
+unconstitutional, appellees gloss over the many arguments in 
+the opening briefs that clearly demonstrate the fallacy of this 
+claim. Similarly, although appellees argue that the Census 
+Bureau’s planned methodology may actually decrease accuracy 
+and increase political manipulability, they cannot actually rely 
+on these arguments -- which are erroneous in any case -- given 
+that they are making a facial challenge to the use of sampling, 
+they never contested accuracy as a basis for their claim in the 
+court below, and they are defending grants of summary 
+judgment.' Intervenors will therefore focus this reply on the 
+primary issue before this Court: whether the Census Bureau’s 
+planned methodology is permissible under the Census Act. 
+Because the answer is yes, this Court should reverse. 
+
+
+' Appellees Glavin er al. spend significant effort trying to demonstrate that 
+one of the two types of sampling the Census Bureau plans to use, sampling 
+for nonresponse follow-up, decreases accuracy. Glavin Br. 2-3, 41-42. But 
+appellees are challenging both types of sampling the Bureau plans to use. 
+Moreover, sampling for nonresponse follow-up does help ensure accuracy 
+effectiveness of the next phase of the process. Bureau of the Census, U.S. 
+Dep't of Commerce, Report to Congress -- The Plan for Census 2000, JA 
+89-90 (rev. Aug. 1997). And by allowing the Bureau to save significant 
+money, it enables the Bureau to undertake the Dual System Estimation 
+process and thereby enhance accuracy overall. 
+
+
+es 
+
+
+I. THE PLAIN LANGUAGE OF THE CENSUS ACT 
+PERMITS SAMPLING. 
+
+
+Appellees fail to refute intervenors’ showing that the most 
+harmonious reading of the Census Act allows the Census 
+Bureau to proceed with its planned methodology for the 2000 
+Census. This failure is fatal. Because the language of the Act, 
+properly interpreted, points to a single correct interpretation, 
+appellees’ analysis of legislative “intent,” based on history, 
+presumptions, and legislative silence, is irrelevant. Moreover, 
+it is flawed on its own terms. 
+
+
+Read together, sections 141 and 195 of the Census Act 
+plainly permit sampling for purposes of apportionment. 
+Appellees do not deny that on its face section 141 of the Act 
+authorizes sampling for all purposes in the decennial census 
+including apportionment, which is, after all the central purpose 
+of the decennial census; indeed, appellees Glavin ef ai. 
+forthnightly acknowledge that “[s]tanding alone, this provision 
+would authorize the Secretary to sample for all purposes 
+encompassed by the ‘decennial census of population,’ including 
+determining the population number to be used for congressional 
+apportionment.” Br. 26. 
+
+
+Appellees also acknowledge the obligation to read 
+different statutory sections harmoniously. See, e.g., id. at 27. 
+Yet appellees, while arguing that the best interpretation of 
+section 195 standing alone is that it prohibits sampling for 
+purposes of apportionment, do not contend that this is the only 
+possible reading of the text. Nor do they seriously contest that 
+intervenors’ interpretation is the more harmonious one. Under 
+that interpretation, the Census Bureau is required to use 
+sampling, if feasible, outside of the context of apportionment 
+
+
+4 
+
+
+and is allowed to use sampling within the context of 
+apportionment. As a result, sections 141 and 195 both have 
+meaning and there is no need to read a gaping exception into 
+section 141 with respect to sampling used for apportionment 
+purposes.’ Appellees’ interpretation, in contrast, creates such 
+a gaping exception. Section 141’s authorization of the use of 
+sampling in the decennial census is read as not extending to 
+
+
+' Appellees Glavin ef al. argue that intervenors’ interpretation fails to give 
+meaning to the “except” clause in section 195. They assert that if the except 
+clause did not exist, the Bureau would nonetheless have discretion to 
+determine whether to use sampling for apportionment -- which intervenors 
+assert is the purpose of the except clause. Glavin Br. 27-28; cf House Br. 
+34 (“the feasibility standard established in § 195 would surely be broad 
+enough to permit the Secretary to insist upon the use of the method that will 
+produce the most accurate population figures practicable”) (quotation 
+omitted). This is nonsense. As appellees themselves acknowledge, “Section 
+195 limits the Secretary’s discretion concerning the circumstances in which 
+
+
+non-apportionment sampling may be used” by requiring use of such 
+sampling, if feasible, Glavin Br. 29; in the absence of the except clause, this 
+
+
+same limitation would apply to sampling for apportionment purposes. 
+
+
+Thus, absent the “except” clause, the Bureau would at least arguably be 
+obliged to use sampling for apportionment, so long as a reasonable case 
+could made that sampling was accurate, even if the Bureau was not yet 
+confident that sampling was the best method. The term “feasible” would 
+provide the Bureau some discretion to refrain from using sampling, but not 
+nearly as much as existed once Congyess exempted apportionment from the 
+requirement altogether. Citizens to Preserve Overton Park, Inc. v. Volpe, 
+401 U.S. 402, 411 (1971) (“the requirement that there be no ‘feasible’ 
+alternative route admits of little admunistrative discretion”); American 
+Textile Mfrs. Inst., Inc. v. Donovan, 452 U.S. 490, 508-09 (1981) (holding 
+that a requirement conditioned on feasibility was conditioned on whether it 
+was capable of being done). In creating the exception, Congress intended 
+to make absolutely clear that the Census Bureau had discretion not to sample 
+even if it thought that sampling was “capable of” producing data that could 
+be used for apportionment. 
+
+
+5 
+
+
+apportionment, the core purpose of the decennial census.’ 
+Under appellees’ interpretation, therefore, section 195 is not 
+simply redundant with section 141 rendering it “of no 
+substantive import,” as the House acknowledges to be true, 
+House Br. 30, it takes back some of the authority to sample 
+that section 141 explicitly provides. As a result, unless it is not 
+“reasonably possible” to read section 195 as intervenors 
+suggest, intervenors’ harmonious interpretation, not appellees’ 
+discordant one, is correct. Louisiana Pub. Service Comm'n v. 
+FCC, 476 U.S. 355, 370 (1986); Gephardt Br. 17-18 (citing 
+cases). 
+
+
+Appellees insist that intervenors’ harmonious 
+interpretation must be rejected because section 195 
+unambiguously prohibits sampling for apportionment purposes. 
+But appellees do not argue that the /anguage of section 195 
+unambiguously prohibits sampling. Appellees instead rely on 
+legislative silence to argue that the meaning of the Census Act 
+is not plain, see House Br. § II.A., and they then argue that 
+because the meaning is not plain, this Court must rely on the 
+same inferences, presumptions and legislative silence to 
+interpret the Act, see House Br. 38. Such an effort to 
+“bootstrap” a non-textual statutory interpretation should not be 
+countenanced. 
+
+
+As intervenors showed in their opening brief, ordinarily the 
+except/shall structure contained in section 195 does not 
+
+
+> Appellees point out that under each parties’ interpretation, section 195 
+limits the discretion granted by section 141, by requiring the use of 
+sampling, if feasible, outside the context of apportionment. House Br. 29, 
+Glavin Br. 29. But the fact that the two sections are not entirely harmonious 
+
+
+outside the context of apportionment does not justify interpreting them as 
+flatly inconsistent within the context of apportionment. 
+
+
+6 
+
+
+constitute a prohibition, especially in a statutory context. 
+Gephardt Br. 20-22. Appellees offer little to refute this. 
+Instead, they respond that the language of section 195 does not 
+clearly enough allow sampling to be read in its ordinary way 
+given that “it is exceedingly unlikely” that Congress would 
+have given the Census Bureau authority to sample in light of 
+the statutory and historical context, and there is no “plausible 
+alternative explanation of why Congress would have excepted 
+apportionment from § 195's mandate” other than that it 
+intended to prohibit sampling for apportionment. House Br. 
+32-34; see id. at 38 (describing “[t}he absence of plain language 
+to support [intervenors’] argument”) (emphasis added). 
+Appellees are incorrect with respect to their assessment as to 
+what Congress was likely to have done and their evaluation of 
+the historical context, but more important, none of these 
+assessments of “likeliness” and “plausibility” show that section 
+195 unambiguously prohibits sampling. As a result, this Court 
+should read section 195 as allowing sampling for 
+apportionment purposes, because only that interpretation makes 
+section 195 harmonious with section 141. Indeed, such an 
+interpretation of section 195 is the only reasonable one, because 
+rather than relying on an assessment of what Congress was 
+likely to have done with respect to sampling, it relies on what 
+Congress did do in section 141. Any claims of “obliqueness” 
+or “ambiguity” are eliminated when the two sections are read 
+together. 
+
+
+* Contrary to the claim of appellees Glavin et al., Br. 37-38, the fact that 
+the “shall” in section 195 is cabined by the phrase “if feasibie” is not 
+relevant for determining the meaning of the exception. For example, the 
+sentence “except for federal holidays, law clerks shall, if feasible, report to 
+work on Monday through Friday” leaves the clerks discretion to come to 
+work on federal holidays despite the use of the phrase “if feasible” in the 
+“mandatory” part of the sentence. 
+
+
+7 
+
+
+Moreover, appellees’ assessment of “plausibility” is simply 
+incorrect. Appellees argue that in light of the constitutional 
+significance of apportionment and the existence of standards 
+governing the use of sampling outside the apportionment 
+context, it is implausible that Congress would have delegated 
+unfettered discretion to the Census Bureau to use sampling in 
+the apportionment context. House Br. 32-33. But the 
+discretion delegated by the Census Act is not unfettered -- it is 
+fettered by the constitutional requirement of reasonable 
+accuracy, Wisconsin v. City of New York, 517 U.S. 1, 20 
+(1996), and the statutory requirement that the census produce 
+a tabulation of the “whole number of persons in each state.” 2 
+U.S.C. § 2a; Franklin v. Massachusetts, 505 U.S. 788, 819-20 
+(1992) (explaining that section 141 is not standardless, because 
+section 2a “embodies a duty to conduct a census that is accurate 
+and that fairly accounts for the crucial representational rights 
+that depend on the census and the apportionment.”) (Stevens, 
+J., concurring in the judgment, joined by Blackmun, J., 
+Kennedy, J., Souter, J.). And, in any event, it is perfectly 
+plausible that a Congress that believed that the Census Bureau 
+should be required to use sampling, if feasible, outside the 
+context of apportionment, including, for example, to gather 
+population figures in the mid-decade census, would have 
+determined that the Census Bureau should at least be allowed 
+to use sampling in the apportionment context.’ The special 
+constitutional status of the census (and continuing doubts about 
+the accuracy of existing sampling techniques for apportionment 
+
+
+° The plausibility of such a delegation of authority is not in any way 
+undercut by the fact that section 181 only allows the Census Bureau to use 
+sampling to gather annual population data if it first determines that sampling 
+will produce reliable data. House Br. 33. Congress chose to supply such 
+standards with respect to the gathering of annual population figures, becaus* 
+the Constitution and section 2a did not already supply such standards, as 
+they do with respect to apportionment. 
+
+
+purposes) simply explain why Congress did not require, if 
+feasible, the use of sampling for apportionment. 
+
+
+Because it is perfectly plausible on its face that section 195 
+simultaneously requires that the Census Bureau use sampling, 
+if feasible, outside the context of apportionment, and provides 
+discretion to use sampling in the context of apportionment, 
+section 195 -- even considered alone -- cannot be read to 
+prohibit sampling for purposes of apportionment. The only 
+examples appellees provide in which an exemption from a 
+mandate reflects an unexpressed prohibitory intent are ones in 
+which the nature of the mandate on its face makes it 
+implausible that the speaker intended to establish anything but 
+a prohibition in the excepted area. A woman who directs a 
+servant to take all of her clothes to the cleaners except one 
+particular item of clothing (e.g., a wedding dress) has clearly 
+considered which of her clothes should be taken to the cleaner 
+and which should not; there is simply no plausible reason why 
+she would allow the servant to determine whether to take the 
+remaining item to the cleaner. In contrast, because it is 
+plausible on its face that Congress would want to leave the 
+expert Census Bureau discretion to use sampling for 
+apportionment, section 195 cannot be read as prohibiting the 
+Bureau from doing so. 
+
+Il. APPELLEES’ NON-TEXTUAL ARGUMENTS ARE 
+
+EVASIVE AND ULTIMATELY UNPERSUASIVE. 
+
+
+Appellees ask this Court to depart from the best reading of 
+the language of the Census Act based on assertions about 
+congressional “intent” supposedly grounded in the history of 
+the census and the Census Act. But this approach, in addition 
+to being wrong in principle, see, e.g., Estate of Cowart v. 
+Nicklos Drilling Co., 505 U.S. 469, 475-78 (1992), is 
+
+
+9 
+
+
+unpersuasive on its own terms because appellees overstate the 
+evidence supporting their interpretation, while making only 
+passing reference in footnotes to facts that contradict their 
+view. 
+
+
+A. Neither Congress Nor the Census Bureau Had, 
+Prior to 1976, Evinced a Long-Standing 
+Aversion to Sampling. 
+
+
+First, appellees attempt to show that the 1976 
+Amendments, if interpreted to allow sampling, would have 
+been an abrupt departure from two centuries of contrary 
+practice. That is a vast overstatement. The legislation in the 
+19th and early 20th century prescribing methods for census 
+taking did not constitute a conscious rejection of accuracy- 
+enhancing sampling techniques, because those techniques were 
+simply not known. Gephardt Br. 29-30.° This was still true in 
+1957 when Congress exempted apportionment from its 
+
+
+. The forms of demographic estimation known to the Framers were nothing 
+like the scientific statistical methodologies that the Census Bureau plans to 
+employ in the year 2000. Colonial population estimation “rested 
+substantially upon an elaborate fabric of educated guesses.” James H. 
+Cassedy, Demography in Early America 72 (1969). In particular, 
+“Jefferson’s method of obtaining his summary figures is confusing and 
+apparently not accurate ... .” Evarts B. Greene & Virginia D. Harrington, 
+American Population Before the Federal Census of 1790, at 142 n.10 
+(1932). And even if Jefferson’s technique had been accurate, Jefferson had 
+no way of knowing this to be so and no reason to expect that it would be 
+accurate if applied more generally. Nonscientific estimation methods lack 
+the certainty and reliability of modern statistical sampling methodologies, 
+which permit rates of error to be measured and thus controlled. See Report 
+to Congress, JA 116-17. It is little wonder, then, that until recently 
+Congress required the census to be taken primarily by inquiry at each 
+household, because until recently no reliable method existed that could more 
+accurately ascertain the size and distribution of the American populace. 
+
+
+10 
+
+
+authorization to the Census Bureau to use sampling; Congress 
+was concerned only with long-form type sampling aimed at 
+efficiency rather than increased accuracy. Jd. at 8-9, 33-35. It 
+was not until the 1970s that broad-based sampling techniques 
+designed to increase the accuracy of the census became 
+prominent. By that time a smaller scale version of sampling -- 
+imputation -- had already been used and implicitly accepted for 
+over thirty years, two other forms of sampling had been used to 
+increase the accuracy of the 1970 census and praised in a 
+congressional report, and Congress had already adopted a 
+significant number of innovations in the census designed to 
+increase accuracy, or conferred discretion on the Census 
+Bureau to do so. Jd. at 5, 30-31 & n. 21.’ Moreover, just 
+before it amended the Census Act in 1976, Congress held 
+hearings in which it discussed the use of statistical techniques, 
+including sampling, to increase the accuracy of the census, 
+without any Members expressing doubt as to the desirability of 
+using such techniques when they were fully developed. /d. at 
+32. Thus, it is entirely plausible -- indeed logical -- to infer 
+that Congress in 1976 decided to make clear by amending the 
+Census Act that the Census Durem had the discretion to use 
+these new techniques. 
+
+
+’ While admitting that “Congress has delegated the Secretary greater 
+authority over the course of time,” the House contends that a few of the 
+1976 amendments actually limited the Secretary’s discretion somewhat. 
+House Br. 37 n. 50. But this hardly undermines the argument that the grant 
+of discretion to the Secretary to use sampling for apportionment was 
+consistent with a long-standing historical trend. Indeed, this trend was 
+evidenced in the 1976 legislation itself in areas that include, but also go 
+beyond, sampling. Thus, section 141(a) and (d), for example, give the 
+Secretary broad-based authority to conduct the decennial and mid-decade 
+censuses “in such form and content as he may determine.” Moreover, the 
+House does not deny the existence of a second historical trend towards 
+adoption of innovations designed to enhance accuracy. 
+
+
+11 
+
+
+Appellees fail in their attempt to minimize the significance 
+of this historical evidence. They argue that the use of statistical 
+imputation since 1940 is somehow consistent with the 
+existence of a continued congressional aversion to sampling, 
+because imputation was only used as a last resort to fill in the 
+gaps left by a headcount. House Br. 50 n. 69. But this does not 
+alter the fact that from 1940 onward statistical imputation was 
+viewed as a reasonable means of enhancing the accuracy of the 
+census. Moreover, the statistical techniques planned for the 
+2000 Census are in many respects quite similar to statistical 
+imputation in that they are used to adjust the results of an 
+inaccurate headcount. See Glavin Br. 2-3 (“The Department 
+will simply estimate the number and demographic composition 
+of these unknown persons by imputing to them the population 
+and demographic characteristics of the nearest nonresponding 
+households.”) (emphasis added and deleted). 
+
+
+Appellees similarly attempt to deflate the importance of 
+the sampling techniques used in 1970 by contending that they 
+made the Census Bureau “uneasy.” House Br. 37, n. 51. But 
+regardless of the uneasiness of the Bureau about the arguable 
+illegality of these techniques at the time, these techniques were 
+ones that a congressional report expressly endorsed and 
+suggested expanding, making it plausible, indeed likely, that 
+Congress decided to make clear the legality of these techniques 
+and other similar ones in 1976. The House suggests that 
+Congress may have forgotten that these techniques had been 
+used in 1970 by the time it enacted the 1976 amendments. /d. 
+at 43. But it is reasonable to presume that a Congress that had 
+issued a report praising these techniques, and that had 
+continuing responsibility for overseeing the Census Bureau, 
+understood the fairly extensive use of sampling that had 
+occurred in the census a mere six years earlier. Certainly, in 
+assessing whether it is plausible that Congress in 1976 
+
+
+12 
+
+
+conferred discretion on the Census Bureau to use sampling for 
+apportionment, the history of the 1970 census is more relevant 
+than the 1790 or 1800 censuses on which appellees rely. 
+
+
+Appellees also argue, in a variant of their claim that the 
+dog did not bark, that the history of congressional acceptance 
+of innovations designed to increase the accuracy of the census 
+and/or confer increased discretion on the Census Bureau is 
+irrelevant, because prior innovations were only adopted after 
+extensive congressional debate, whereas there was little debate 
+on the use of sampling for apportionment in 1976. House Br. 
+37, n.50. But apart from the fact that this Court has correctly 
+expressed caution as to the value of legislative silence as a 
+means of inferring congressional intent, Gephardt Br. 27-28, 
+appellees are simply incorrect that prior innovations always 
+engendered substantial controversy. For example, appellees do 
+not dispute that the Census Act, as currently worded, allows the 
+Census Bureau to adjust the results of a headcount by using 
+birth and death statistics and that 1976 congressional hearings 
+evidenced some support in Congress for such an adjustment, id. 
+at 23; yet Congress never at any point explicitly discussed 
+whether to confer such authority on the Census Bureau. 
+Similarly, when Congress in 1957 conferred authority on the 
+Census Bureau to use sampling outside the apportionment 
+context, it did so with only minimal discussion in the 
+legislative history and no apparent controversy. S. Rep. No. 
+85-698, (1957), reprinted in 1957 U.S.C.C.A.N. 1706, 1708; 
+H.R. Rep. No. 85-1043 (1957); Amendment of Title 13 United 
+States Code, Relating to Census: Hearings on H.R. 7911 
+Before the House Comm. on Post Office and Civil Service, 85th 
+Cong. (1957). And in 1964, when Congress conferred on the 
+Census Bureau authority to conduct the census by mail, it also 
+did so without controversy, although with somewhat more 
+extended discussion. It did not, however, discuss the many 
+
+
+13 
+
+
+ways in which the Census Bureau could potentially have used 
+its newfound discretion beyond adoption of a mail out census. 
+Act of Aug. 31, 1964, Pub. L. No. 88-530, 78 Stat. 737 (1964); 
+S. Rep. No. 88-1474 (1964), reprinted in 1964 U.S.S.C.A.N. 
+3308; H.R. Rep. No. 88-373 (1964). Finally, in 1977, when 
+Congress considered (and ultimately rejected) requiring 
+development and use of statistical techniques to correct for the 
+undercount, there was very little mention in hearings of this 
+proposed requirement. H.R. 8871, 95th Cong. § 144 at 137 
+(1977) (introduced on August 7, 1977 by Cong. William 
+Lehman and Patricia Schroeder), reprinted in The Census 
+Reform Act: Hearings Before the Subcomm. on Census and 
+Population of the House Comm. on Post Office and Civil 
+Service, 95th Cong., at 137 (1977); H.R. 10386, 95th Cong. 
+§ 143 (1977) (introduced on December 15, 1977 by Cong. 
+Lehman, Schroeder, Solarz, and Howard). Thus, it is quite 
+plausible that Congress deliberately adopted without significant 
+debate or controversy amendments that had as one of their 
+intended effects allowing the Census Bureau to use sampling 
+for apportionment. 
+
+
+Indeed, there is no other explanation for Congress’s 
+amendment of section 141(a) to add language authorizing 
+sampling in the decennial census. As appellees admit, under 
+their interpretation, the 1976 amendment to section 141(a) 
+provided the Census Bureau no new authority to use sampling 
+in conducting the decennial census despite the addition of this 
+specific language. House Br. 30. Appellees argue that the 
+purpose of the amendment was simply to clarify some 
+ostensible ambiguity that existed in prior grants of authority to 
+use sampling outside the context of apportionment. /d. at 30. 
+But appellees do not explain what ostensible ambiguity was 
+being clarified. App«'lees also assert that because language 
+added to section 141(d) did not have any substantive import, 
+
+
+14 
+
+
+and this language was identical to the language added to section 
+141(a), it can be inferred that Congress did not intend its 
+amendment to section 141(a) to have any substantive import. 
+But the language in section 141(d) was added after the 
+language in section 141(a), in order to make it parallel to the 
+latter section. See Gephardt Br. 19 n.10. Thus, the redundancy 
+of the language in section 141(d) fails to overcome the 
+presumption that Congress intended its amendment of section 
+141(a) “to have real and substantial effect.” Stone v. 
+Immigration & Naturalization Serv., 514 U.S. 386, 397 (1995). 
+
+
+B. Appellees, While Relying on Supposed Indicia 
+of Legislative Intent, Never Claim that 
+Congress Affirmatively Intended to Bar the Use 
+of Statistical Adjustments to Increase the 
+Accuracy of the Census. 
+
+
+The second flaw in appellees’ intent argument is that, 
+while relying on evidence of intent outside the statutory text, 
+appellees can produce not the slightest indication of a 
+conscious legislative intent, in 1957 or 1976, to bar the use of 
+sampling to adjust the census to make it more accurate. 
+Indeed, the historical evidence suggests that Congress long 
+approved of such techniques in the form of imputation and the 
+1970 statistical adjustments. 
+
+
+Appellees address the issue of congressional intent to bar 
+statistical adjustments only in a single footnote in the House 
+brief. House Br. 36 n.49. In that footnote, the House never 
+even claims that Congress ever opposed statistical adjustments 
+like those at issue here. Instead, it offers two unpersuasive 
+arguments for ignoring this flaw in its position. First, it claims 
+that the sampling plans for 2000 go beyond “adjustment.” /d. 
+That is just wrong. The Census Bureau in 2000 plans to mail 
+
+
+15 
+
+
+census forms to every household in the nation, just as it has in 
+the past. Report to Congress, JA 59-62, 77-78. The Bureau 
+will also provide census forms in public places such as 
+shopping malls, and will publicize a toll-free telephone number 
+for those who wish to respond by phone. /d. at 77-78. This is 
+a headcount, and the Bureau’s planned use of sampling is 
+designed to adjust this initial headcount. There is simply no 
+basis for arguing that a headcount requires a certain number of 
+attempts to contact each household; at some point, the census 
+has always stopped trying to contact nonresponding 
+households. At a minimum, the second half of the Bureau’s 
+proposed method -- the ICM follow-up survey -- is an 
+“adjustment” method under any theory, and could be separately 
+upheld on that basis. 
+
+
+Second, the House argues that intervenors’ “special plea 
+for sampling-based adjustment” is not grounded in the plain 
+text of the Act, which either allows the Census Bureau to use 
+sampling or does not. House Br. 36 n.49. But intervenors are 
+not making a “special plea for sampling-based adjustment.” 
+Intervenors’ argument is that on its face the present version of 
+the Census Act categorically allows sampling when reasonably 
+accurate. It is appellees who argue for a departure from the 
+best reading of the text based on a psychoanalysis of 
+congressional intent. Intervenors have simply explained that if 
+this Court is to adopt that kind of approach, it would be odd to 
+reach a result that all parties seem to agree Congress never 
+intended, based on the fact that the plain language of the statute 
+-- using the single term “sampling” -- does not support a 
+distinction between types of sampling. The way to avoid this 
+conundrum is to resist the invitation to reject the best reading 
+of the statutory text, and to conclude that the Act authorizes the 
+Secretary (subject to constitutional and other constraints) to 
+
+
+16 
+
+
+proceed with the carefully developed methodology that he, in 
+his expert judgment, has determined is best. 
+
+
+CONCLUSION 
+The judgments below should be reversed. 
+
+
+Respectfully submitted, 
+J. Gerald Hebert Paul M. Smith 
+800 Parkway Terrace Donald B. Verrilli, Jr. 
+Alexandria, VA 22302 ~ Marc A. Goldman 
+(703) 684-3585 JENNER & BLOCK 
+
+
+601 Thirteenth Street, N.W. 
+
+
+Washington, D.C. 20005 
+(202) 639-6000 
+
+
+November 17, 1998 
+
+

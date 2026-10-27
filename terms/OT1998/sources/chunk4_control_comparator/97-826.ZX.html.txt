@@ -1,0 +1,126 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+AT&T Corp. v. Iowa Utilities Bd., 525 U.S. 366 (1999)
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+AT&T CORP. v. IOWA UTILITIES BD. (97-826)
+Nos. 97—826 (first judgment), 97—829 (first judgment), 97—830, 97—831 (first judgment), 97—1075, 97—1087, 97—1099, and 97—1141, 120 F.3d 753, reversed in part, affirmed in part, and remanded; Nos. 97—826, 97—829, and 97—831 (second judgments), 124 F.3d 934, reversed in part and remanded. SyllabusOpinion
+[ Scalia ]Other
+[ Souter ]Other
+[ Thomas ]Other
+[ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+Opinion of  Souter, J.
+
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+
+
+Nos. 97—826, 97—829, 97—830, 97—831, 97—1075, 97—1087, 97—1099,
+and 97—1141
+
+
+
+
+
+
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+
+ [January 25, 1999]
+
+
+
+
+
+
+    Justice Souter, concurring in part and dissenting in part.
+
+
+
+     I agree with the Court’s holding that the Federal Communications Commission has authority to implement and interpret the disputed provisions of the Telecommunications Act of 1996, and that deference is due to the Commission’s reasonable interpretation under Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984).  I disagree with the Court’s holding that the Commission was unreasonable in its interpretation of 47 U.S.C. § 251(d)(2) (1994 ed., Supp. II), which requires it to consider whether competitors’ access to network elements owned by Local Exchange Companies (LECs) is “necessary” and whether failure to provide access to such elements would “impair” competitors’ ability to provide services.  Ante, at 17. Because I think that, under Chevron, the Commission reasonably interpreted its duty to consider necessity and impairment, I respectfully dissent from Part III—B of the Court’s opinion.
+
+
+
+      The statutory provision in question specifies that in determining what network elements should be made available on an unbundled basis to potential competitors of the LECs, the Commission “shall consider” whether “access to such network elements as are proprietary in nature is necessary,” §251(d)(2)(A), and whether “the failure to provide access” to network elements “would impair the ability of the telecommunications carrier seeking access to provide the services that it seeks to offer,” §251(d)(2)(B).  The Commission interpreted “necessary” to mean “prerequisite for competition,” in the sense that without access to certain proprietary network elements, competitors’ “ability to compete would be significantly impaired or thwarted.”  In re Implementation of the Local Competition Provisions in the Telecommunications Act of 1996, ¶282, 11 FCC Rcd 15,499, 15641—15642 (1996) (First Report & Order).  On this basis, it decided to require access to such elements unless the incumbent LEC could prove both that the requested network element was
+proprietary and that the requesting competitor could offer the same service through the use of another, nonproprietary element offered by the incumbent LEC.  Id., ¶283, at 15642.
+
+
+
+      The Commission interpreted “impair” to mean “diminished in value,” and explained that a potential competitor’s ability to offer services would diminish in value when the quality of those services would decline or their price rise, absent the element in question. Id., ¶285, at 15643.  The Commission chose to apply this standard “by evaluating whether a carrier could offer a service using other unbundled elements within an incumbent LEC’s network,” ibid., and decided that whenever it would be more expensive for a competitor to offer a service using other available network elements, or whenever the service offered using those other elements would be of lower quality, the LEC must offer the desired element to the competitor, ibid.
+
+
+
+      In practice, as the Court observes, ante, at 18, the Commission’s interpretation will probably allow a competitor to obtain access to any network element that it wants; a competitor is unlikely in fact to want an element that would be economically unjustifiable, and a weak economic justification will do.  Under Chevron, the only question before us is whether the Commission’s interpretation, obviously favorable to potential competitors, falls outside the bounds of reasonableness.  
+
+
+
+      As a matter of textual justification, certainly, the Commission is not to be faulted.  The words “necessary” and “impair” are ambiguous in being susceptible to a fairly wide range of meanings, and doubtless can carry the meanings the Commission identified.  If I want to replace a light bulb, I would be within an ordinary and fair meaning of the word “necessary” to say that a stepladder is “necessary” to install the bulb, even though I could stand instead on a chair, a milk can, or eight volumes of Gibbon.  I could just as easily say that the want of a ladder would “impair” my ability to install the bulb under the same circumstances.  These examples use the concepts of necessity and impairment in what might be called their weak senses, but these are unquestionably still ordinary uses of the words.
+
+
+
+      Accordingly, the Court goes too far when it says that under “the ordinary and fair meaning” of “necessary” and “impair,” ante, at 18, “[a]n entrant whose anticipated annual profits from the proposed service are reduced from 100% of investment to 99% of investment … has not ipso facto been ‘impair[ed] … in its ability to provide the services it seeks to offer’; and it cannot realistically be said that the network element enabling it to raise profits to 100% is ‘necessary,’ ” ante, at 18—19.  A service is surely “necessary” to my business in an ordinary, weak sense of necessity when that service would allow me to realize more profits, and a business can be said to be “impaired” in delivery of services in an ordinary, weak sense of impairment when something stops the business from getting the profit it wants for those services.
+
+
+
+      Not every choice of meaning that falls within the bounds of textual ambiguity is necessarily reasonable, to be sure, but the Court’s appeal to broader statutory policy comes up short in my judgment.  The Court says, with some intuitive plausibility, that “the Act requires the FCC to apply some limiting standard, rationally related to the goals of the Act, which it has simply failed to do.”  Ante, at 17.  In the Court’s eyes, the trouble with the Commission’s interpretation is that it “allows entrants, rather than the Commission, to determine” necessity and impairment, ante, at 18, and so the Court concludes that “if Congress had wanted to give blanket access to incumbents’ networks on a basis as unrestricted as the scheme the Commission has come up with, it would not have included §251(d)(2) in the statute at all.”  Ante, at 19.  
+
+
+
+      The Court thus judges the reasonableness of the Commission’s rule for implementing §251(d)(2) by asking how likely it is that Congress would have legislated at all if its point in adopting the criteria of necessity and impairment was to do no more than require economic rationality, and the Court answers that the Commission’s notion of the congressional objective in using the ambiguous language is just too modest to be reasonable.  The persuasiveness of the Court’s answer to its question, however, rests on overlooking the very different question that the Commission was obviously answering when it adopted Rule 319. As the Court itself notes, ante, at 17—18, the Commission explicitly addressed the consequences that would follow from requiring an entrant to satisfy the necessity and impairment criteria by showing that alternative facilities were unavailable at reasonable cost from anyone except the incumbent LEC.  First Report & Order ¶283, 11 FCC Rcd, at 15642.  To require that kind of a showing, the Commission said, would encourage duplication of facilities and personnel, with obvious systemic costs.  Ibid.  The Commission, in other words, was approaching the task of giving reasonable interpretations to “necessary” and “impair” by asking whether Congress would have mandated economic inefficiency as a limit on the objective of encouraging competition through ease of market entry.  The Commission concluded, without any apparent implausibility, that the answer was no, and proceeded to implement the necessity and impairment provisions in accordance with that answer.  
+
+
+
+      Before we conclude that the Commission’s reading of the statute was unreasonable, therefore, we have to do more than simply ask whether Congress would probably have legislated the necessity and impairment criteria in their weak senses.  We have to ask whether the Commission’s further question is an irrelevant one, and (if it is not), whether the Commission’s answer is reasonably defensible.  If the question is sensible and the answer fair, Chevron deference surely requires us to respect the Commission’s conclusion.  This is so regardless of whether the answer to the Commission’s question points in a different direction from the answer to the Court’s question; there is no apparent reason why deference to the agency should not extend to the agency’s choice in responding to mutually ill-fitting clues to congressional meaning.  This, indeed, is surely a classic case for such deference, the statute here being infected not only with “ambiguity” but even “self-contradiction.”  Ante, at 25.  I would accordingly respect the Commission’s choice to give primacy to the question it chose.
+
+ 

@@ -1,0 +1,94 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+NATIONAL COLLEGIATE ATHLETIC ASSN. V. SMITH
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+NATIONAL COLLEGIATE ATHLETIC ASSN. V. SMITH (98-84) 
+139 F.3d 180, vacated and remanded. Syllabus
+ Opinion
+ [ Ginsburg ]HTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+NATIONAL COLLEGIATE ATHLETIC
+ASSOCIATION v. SMITH
+
+CERTIORARI TO THE UNITD STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+ 
+No. 98—84.  Argued January 20, 1999–Decided February 23, 1999
+ 
+
+
+
+
+The National Collegiate Athletic Association (NCAA) has adopted rules governing the intercollegiate athletics programs of its member colleges and universities.  Among these rules is the Postbaccalaureate Bylaw, which allows a postgraduate student-athlete to participate in intercollegiate athletics only at the institution that awarded her undergraduate degree.  Respondent Smith played intercollegiate volleyball for two seasons at St. Bonaventure University.  After she graduated from St. Bonaventure, Smith enrolled in postgraduate programs at Hofstra University and the University of Pittsburgh.  She sought to play intercollegiate volleyball at those schools, but the NCAA denied her eligibility on the basis of its postbaccalaureate restrictions.  At Smith’s request, Hofstra and the University of Pittsburgh petitioned the NCAA to waive the restrictions, but, each time, the NCAA refused.  Smith filed this lawsuit pro se, alleging, among other things, that the NCAA had violated Title IX of the Education Amendments of 1972, which proscribes sex discrimination in “any education program or activity receiving Federal financial assistance,” 20 U.S.C. § 1681(a).  The NCAA moved to dismiss on the ground that the complaint failed to allege that the NCAA is a recipient of federal financial assistance.  In opposition, Smith argued that the NCAA governs the federally funded intercollegiate athletics programs of its members, that these programs are educational, and that the NCAA benefited economically from its members’ receipt of federal funds.  Concluding that the alleged connections between the NCAA and federal financial assistance to member institutions were too attenuated to sustain a Title IX claim, the District Court dismissed the suit.  Smith then moved for leave to amend her complaint to allege that the NCAA receives federal assistance through other recipients and operates an educational activity that benefits from such assistance.  The District Court denied the motion as moot.  Reversing that denial, the Third Circuit held that the NCAA’s receipt of dues from federally funded member institutions would suffice to bring the NCAA within the scope of Title IX.
+
+
+Held:  Dues payments from recipients of federal funds do not suffice to subject the NCAA to suit under Title IX.  Pp. 5—10.
+
+
+    (a)  The Third Circuit’s decision is inconsistent with the governing statute, regulation, and this Court’s decisions.  Title IX defines “program or activity” to include “all of the operations of … a … postsecondary institution … any part of which is extended Federal financial assistance,” §1687(2)(A), and provides institution-wide coverage for entities “principally engaged in the business of providing education” services, §1687(3)(A)(ii), and for entities created by two or more covered entities, §1687(4).  Thus, if any part of the NCAA received federal financial assistance, all NCAA operations would be subject to Title IX.  This Court has twice considered when an entity qualifies as a recipient of federal financial assistance.  In Grove City College v. Bell, 465 U.S. 555, 563—570, the Court held that a college qualifies as a recipient when it enrolls students who receive federal funds earmarked for educational expenses.  The Court found “no hint” that Title IX distinguishes between direct institutional assistance and aid received by a school indirectly through its students.  Id., at 564.  Later, in Department of Transp. v. Paralyzed Veterans of America, 477 U.S. 597, the Court held that §504 of the Rehabilitation Act of 1973–which prohibits discrimination based on disability in substantially the same terms that Title IX uses to prohibit sex discrimination–does not apply to commercial airlines by virtue of the Government’s program of financial assistance to airports.  The Court concluded that §504 covers those who receive the aid, not those who simply benefit from it.  Id., at 607.  In declining to apply Paralyzed Veterans’ “recipient” definition on the ground that it was inconsistent with 34 CFR § 106.2 a Title IX regulation issued by the Department of Education, the Third Circuit failed to give effect to the regulation in its entirety.  Section 106.2(h) defines “recipient” to include any entity “to whom Federal financial assistance is extended directly or through another recipient and which operates an education program or activity which receives or benefits from such assistance.”  The first part of this definition makes clear that Title IX coverage is not triggered when an entity merely benefits from federal funding.  Thus, the regulation accords with the teaching of Grove City and Paralyzed Veterans: Entities that receive federal assistance, whether directly or through an intermediary, are recipients within the meaning of Title IX; entities that only benefit economically from federal assistance are not.  The Third Circuit’s decision is inconsistent with this precedent.  Unlike the earmarked student aid in Grove City, there is no allegation that NCAA members paid their dues with federal funds earmarked for that purpose.  While the Third Circuit dispositively and, this Court holds, erroneously relied on the NCAA’s receipt of dues from its members, the Third Circuit also noted that the relationship between the NCAA and its members is qualitatively different from that between the airlines and airport operators at issue in Paralyzed Veterans–the NCAA is created by, and composed of, schools that receive federal funds, and the NCAA governs its members with respect to athletic rules.  These distinctions do not bear on the narrow question here decided: An entity that receives dues from recipients of federal funds does not thereby become a recipient itself.  Pp. 5—8.
+
+
+      (b)  The Court does not address the alternative grounds urged by respondent and the United States for bringing the NCAA under Title IX: (1) that the NCAA directly and indirectly receives federal financial assistance through the National Youth Sports Program; and (2) that, when a recipient cedes controlling authority over a federally funded program to another entity, the controlling entity is covered by Title IX regardless whether it is itself a recipient.  Those issues were not decided below; their resolution in the first instance is left to the lower courts on remand.  See, e.g., Roberts v. Galen of Va., Inc., 525 U.S. ___, ___.  Pp. 9—10.
+
+
+139 F.3d 180, vacated and remanded. 
+
+
+    Ginsburg, J., delivered the opinion for a unanimous Court.
+
+ 
+
+
+
+

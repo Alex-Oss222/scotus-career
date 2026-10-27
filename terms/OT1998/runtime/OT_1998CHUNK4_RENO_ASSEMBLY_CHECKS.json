@@ -1,0 +1,38 @@
+{
+  "record": "reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md",
+  "checks": "passed",
+  "blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "controlling_explanation_words": {
+    "I-A. The withdrawal reaches the named acts in these pending proceedings": 215,
+    "I-B. The individual-relief exception does not grant jurisdiction": 99,
+    "II. The proposed factual transfer does not make this final-order channel adequate": 290,
+    "III-A. Access, statutory defenses, constitutional merits and interim protection are distinct": 295,
+    "III-B. A confined construction preserves a capable constitutional forum": 281,
+    "IV. Retained jurisdiction requires separate reconsideration of each injunction": 282
+  },
+  "historical_departures": 8,
+  "exact_audit_copy": true,
+  "kernel_public_holdings_identity": true,
+  "local_file_links_resolve": true,
+  "public_workflow_terms": false,
+  "source_hashes": {
+    "terms/OT1998/freeze/OT_1998CHUNK4_RENO_REVIEW_COMMITMENTS.md": "a29b9d7e1c62494cd1e71e473137fe229e381eb0cb952caf44de8045c47db895",
+    "terms/OT1998/runtime/OT_1998CHUNK4_RENO_REVIEW_COMMITMENTS.md": "a29b9d7e1c62494cd1e71e473137fe229e381eb0cb952caf44de8045c47db895",
+    "terms/OT1998/freeze/OT_1998CHUNK4_RENO_REVIEW_RECONCILED.md": "a27b01c084c7cafac92c7cca79144bd46118bad79e08b56ace4c622a5ce2706f",
+    "terms/OT1998/runtime/OT_1998CHUNK4_RENO_REVIEW_RECONCILED.md": "a27b01c084c7cafac92c7cca79144bd46118bad79e08b56ace4c622a5ce2706f",
+    "terms/OT1998/freeze/OT_1998CHUNK4_RENO_CHRONOLOGY_REVALIDATION.md": "03364c6947e65eed663afe36c358db6462e60e18f4999ac07dc10c1d0eb52f21",
+    "tmp/ot1998_chunk4_RENO_stone.md": "21377f22089cc8b39c8be4f5dad5a5ac7277e6e4119beb9654e39eed20494aaa"
+  }
+}

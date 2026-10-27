@@ -1,0 +1,51 @@
+[
+  {
+    "extract": "yoshina_lower_amended.txt",
+    "source": "yoshina_1._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "start_character": 55843,
+    "end_character_exclusive": 89696,
+    "source_sha256": "907a9a95cf19066476b8ce8da700de70175c1e3ed31c28e4e5be05c8201bbff2"
+  },
+  {
+    "extract": "hughes_lower_and_corrections.txt",
+    "source": "hughes_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "start_character": 61483,
+    "end_character_exclusive": 160478,
+    "source_sha256": "3ebb7f96df38c6c9568ed9230f8a6702ab2d91cb4fa9a7449ec17538fda1bc4a"
+  },
+  {
+    "extract": "att_lower_and_rehearing.txt",
+    "source": "att_03._Appendix_djvu.txt",
+    "start_character": 4005,
+    "end_character_exclusive": 144290,
+    "source_sha256": "c6b5381375955fe3cefa189c78880d984776a0e70883b9f0a3e797e880c790ef"
+  },
+  {
+    "extract": "att_california_lower.txt",
+    "source": "att_03._Appendix_djvu.txt",
+    "start_character": 144290,
+    "end_character_exclusive": 177158,
+    "source_sha256": "c6b5381375955fe3cefa189c78880d984776a0e70883b9f0a3e797e880c790ef"
+  },
+  {
+    "extract": "att_statutes.txt",
+    "source": "att_03._Appendix_djvu.txt",
+    "start_character": 178487,
+    "end_character_exclusive": 243625,
+    "source_sha256": "c6b5381375955fe3cefa189c78880d984776a0e70883b9f0a3e797e880c790ef"
+  },
+  {
+    "extract": "att_fcc_rules.txt",
+    "source": "att_03._Appendix_djvu.txt",
+    "start_character": 514584,
+    "end_character_exclusive": 636004,
+    "source_sha256": "c6b5381375955fe3cefa189c78880d984776a0e70883b9f0a3e797e880c790ef"
+  },
+  {
+    "extract": "hughes_statutes.txt",
+    "source": "hughes_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "start_character": 180099,
+    "end_character_exclusive": 291451,
+    "source_sha256": "3ebb7f96df38c6c9568ed9230f8a6702ab2d91cb4fa9a7449ec17538fda1bc4a"
+  }
+]

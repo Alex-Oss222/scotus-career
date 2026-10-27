@@ -1,0 +1,3833 @@
+APPENDIX B—Final Rules 
+
+
+AMENDMENTS TO THE CODE OF 
+FEDERAL REGULATIONS 
+
+
+1. Part 1 of Title 47 of the Code of Federal Regulations 
+(C.F.R.) is amended as follows: 
+
+
+PART 1—PRACTICE AND PROCEDURE 
+
+
+2. The table of contents of part 1 is revised to read as 
+follows: 
+
+
+Subpart J—Pole Attachment Complaint Procedures 
+
+
+1.1401 Purpose. 
+
+1.1402 Definitions. 
+
+1.1403 Duty to provide access; modifications; notice of re- 
+moval, increase or modification; petition for tem- 
+porary stay. 
+
+
+1.1404 Complaint. 
+1.1405 File numbers. 
+
+
+1.1406 Dismissal of complaints. 
+
+1.1407 Response and reply. 
+
+1.1408 Number of copies and form of pleadings. 
+1.1409 Commission consideration of the complaint. 
+1.1410 Remedies. 
+
+1.1411 Meetings and hearings. 
+
+1.1412 Enforcement. 
+
+1.1413 Forfeiture. 
+
+1.1414 State certification. 
+
+1.1415 Other orders. 
+
+1.1416 Imputation of rates ; modification costs. 
+
+
+3. The authority citation for part 1 is revised to read as 
+follows: 
+
+
+AUTHORITY: 47 U.S.C. 151, 154, 251, 252, 303, and 
+309(j) unless otherwise noted. 
+
+
+4. Section 1.1401 is revised to read as follows: 
+
+
+270a 
+
+
+§ 1.1401 Purpose. 
+
+
+The rules and regulations contained in subpart J of this 
+part provide complaint and enforcement procedures to 
+ensure that telecommunications carriers and cable system 
+operators have sendiootminatery agen t uthy pales, 
+ducts, conduits, and rights-of-way on rates, terms, and 
+conditions that are just and reasonable. 
+
+
+5. Section 1.1402 is amended by revising paragraph (d) 
+to read as follows: 
+
+
+$ 1.1402 Definitions. 
+
+
+(d) The term complaint means a filing by a cable tele- 
+vision system operator, a cable television system associa- 
+tion, a utility, an association of utilities, a telecommunica- 
+tions carrier, or an association of telecommunications 
+carriers alleging that it has been denied access to a utility 
+pole, duct, conduit, or right-of-way in violation of this 
+subpart and/or that a rate, term, or condition for a pole 
+attachment is not just and reasonable. 
+
+
+* * * * 
+
+
+6. Section 1.1403 is amended by retitling the section, by 
+amending paragraphs (a) and (b) and redesignating 
+them as paragraphs (c) and (d), respectively, and by 
+adding new paragraphs (a) and (b) to read as follows: 
+
+
+§ 1.1403 Duty to provide access; modifications; notice 
+of removal, increase or modification; petition 
+for temporary stay. 
+
+(a) A utility shall provide a cable television system or 
+any telecommunications carrier with nondiscriminatory 
+access to any pole, duct, conduit, or right-of-way owned 
+or controlled by it. Notwithstanding this obligation, a 
+utility may deny a cable television system or any tele- 
+communications carrier access to its poles, ducts, conduits, 
+or rights-of-way, on a non-discriminatory basis where there 
+is insufficient capacity or for reasons of safety, reliability 
+and generally applicable engineering purposes. 
+
+
+271la 
+
+
+(b) Requests for access to a utility’s poles, ducts, con- 
+duits or rights-of-way by a telecommunications carrier or 
+cable operator must be in writing. If access is not granted 
+within 45 days of the » quest for access, the utility must 
+confirm the denial in wz.ting by the 45th day. The utility’s 
+denial of access shall be specific, shall include all relevant 
+evidence and information supporting its denial, and shall 
+explain how such evidence and information relate to a 
+denial of access for reasons for lack of capacity, safety, 
+reliability or engineering standards. 
+
+(c) A utility shall provide a cable television system 
+operator or telecommunications carrier no less than 60 
+days written notice prior to: (1) removal of facilities or 
+termination of any service to those facilities, such removal 
+or termination arising out of a rate, term or condition of 
+the cable television system operator’s of telecommunica- 
+tions carrier’s pole attachment agreement, or (2) any 
+increase in pole attachment rates; or (3) any modification 
+of facilities other than routine maintenance or modifica- 
+tion in response to emergencies. 
+
+(d) A cable television system operator or telecommu- 
+nications carrier may file a “Petition for Temporary Stay” 
+of the action contained in a notice received pursuant to 
+paragraph (c) of this section within 15 days of receipt 
+of such notice. Such submission shall not be considered 
+unless it includes, in concise terms, the relief sought, the 
+reasons for such relief, including a showing of irreparable 
+harm and likely cessation of cable television service or 
+telecommunication service, a copy of the notice, and certi- 
+fication of service as required by § 1.1404(b) of this 
+subpart. The named respondent may file an answer within 
+7 days of the date the Petition for Temporary Stay was 
+filed. No further filings under this section will be con- 
+sidered unless requested or authorized by the Commission 
+and no extensions of time will be granted unless justified 
+pursuant to § 1.46. 
+
+
+272a 
+
+
+7. Section 1.1404 is amended by revising paragraphs (b) 
+
+
+and (c) and by adding new paragraph (k) to read as 
+follows: 
+
+
+§ 1.1404 Complaint. 
+
+
+(b) The complaint shall be accompanied by a certifi- 
+cation of service on the named respondent, and each of 
+the Federal, State, and local governmental agencies that 
+regulate any aspect of the services provided by the com- 
+plainant or respondent. 
+
+(c) In a case where it is claimed that a rate, term, or 
+condition is unjust or unreasonable, the complaint shall 
+contain a statement that the State has not certified to the 
+Commission that it regulates the rates, terms and condi- 
+tions for pole attachments. The complaint shall include 
+a statement that the utility is not owned by any railroad, 
+any person who is cooperatively organized or any person 
+owned by the Federal Government or any State. 
+
+
+* * * * 
+
+
+(k) In a case where a cable television system operator 
+or telecommunications carrier claims that it has been 
+denied access to a pole, duct, conduit or right-of-way 
+despite a request made pursuant to section 47 U.S.C. 
+§ 224(f), the complaint shall be filed within 30 days of 
+such denial. In addition to meeting the other require- 
+ments of this section, the complaint shall include the data 
+and information necessary to support the claim, including: 
+
+
+(1) The reasons given for the denial of access to the 
+utility’s poles, ducts, conduits and rights-of-way; 
+
+(2) The basis for the complainant’s claim that the 
+denial of access is improper; 
+
+(3) The remedy sought by the complainant; 
+
+
+(4) A copy of the written request to the utility for 
+access to its poles, ducts, conduits or rights-of-way; 
+
+
+273a 
+
+
+(5) A copy of the utility’s response to the written 
+request including all information given by the utility to 
+support its denial of access. A complaint alleging im- 
+proper denial of access will not be dismissed if the com- 
+plainant is unable to obtain a utility's written response, 
+or if the utility denies the complainant any other infor- 
+mation needed to establish a prima facie case. 
+
+
+8. Section 1.1409 is amended by revising paragraphs (b) 
+and (d) to read as follows: 
+
+
+§ 1.1409 Commission consideration of the complaint. 
+* * * * 
+
+
+(b) The complainant shall have the burden of estab- 
+lishing a prima facie case that the rate, term, or condition 
+is not just and reasonable or that the denial of access 
+violates 47 U.S.C. § 224(f). If, however, a uitlity argues 
+that the proposed rate is lower than its incremental costs, 
+the utility has the burden of establishing that such rate 
+is below the statutory minimum just and reasonable rate. 
+In a case involving a denial of access, the utility shall have 
+the burden of proving that the denial was lawful, once a 
+prima facie case is established by the complainant. 
+
+a * * * 
+
+(d) The Commission shall deny the complaint if it 
+determines that the complainant has not established a 
+prima facie case, or that the rate, term or condition is just 
+and reasonable, or that the denial of access was lawful. 
+
+
+* * * * 
+
+
+9. Section 1.1416 is amended by retitling the section and 
+by amending paragraph (b) to read as follows: 
+
+
+§$ 1.1416 Imputation of rates; modification costs. 
+* * * * 
+
+
+(b) The costs of modifying a facility shall be borne by 
+all parties that obtain access to the facility as a result of 
+the modification and by all parties that directly benefit 
+from the modification. Each party described in the pre- 
+
+
+274a 
+
+
+ceding sentence shall share proportionately in the cost 
+of the modification. A party with a preexisting attach- 
+ment to the modified facility shall be deemed to directly 
+benefit from a modification if, after receiving notification 
+of such modification as provided in subpart J of this part, 
+it adds to or modifies its attachment. Notwithstanding = 
+foregoing, a party with a preexisting attachment to a pole, 
+a on duct or right-of-way shall not be required to bear 
+any of the costs of rearranging or replacing its attachment 
+if such rearrangement or replacement is necessitated solely 
+as a result of an additional attachment or the modification 
+of an existing attachment sought by another party. If a 
+party makes an attachment to the facility after the com- 
+pletion of the modification, such party shall share propor- 
+tionately in the cost of the modification if such modifica- 
+tion rendered possible the added attachment. 
+
+
+10. Part 20 of Title 47 of the Code of Federal Regula- 
+tions (C.F.R.) is amended as follows: 
+
+
+PART 20—COMMERCIAL MOBILE RADIO 
+SERVICES 
+
+
+11. The authority citation for part 20 is revised to read 
+as follows: 
+
+
+AUTHORITY: Secs. 4, 251-2, 303, and 332, 48 Stat. 
+1066, 1062, as amended; 47 U.S.C. 154, 251-4, 303, 
+and 332 unless otherwise noted. 
+
+
+12. Section 20.11 is amended by adding paragraph (c) 
+to read as follows: 
+
+
+§ 20.11 Interconnection to facilities of local exchange 
+carriers. 
+* * * * 
+(c) Local exchange carriers and commercial mobile 
+radio service providers shall also comply with applicable 
+provisions of part 51 of this chapter. 
+
+
+13. Part 51 of Title 47 of the Code of Federal Regu- 
+lations (C.F.R.) is added to read as follows: 
+
+
+275a 
+PART 51—INTERCONNECTION 
+
+
+Subpart A—General information 
+
+Sec. 
+
+51.1 Basis and purpose. 
+
+51.3 Applicability to negotiated agreements. 
+51.5 Terms and definitions. 
+
+
+Subpart B—Telecommunications carriers 
+51.100 General duty. 
+
+
+Subpart C—Obligations of all local exchange carriers 
+
+
+51.201 
+51.203 
+51.219 
+51.221 
+51.223 
+
+
+Resale. 
+
+Number portability. 
+
+Access to rights of way. 
+
+Reciprocal compensation. 
+
+Application of additional requirements. 
+
+
+Subpart D—Additional obligations of incumbent local exchange 
+
+
+51.301 
+51.303 
+51.305 
+51.307 
+
+
+51.309 
+51.311 
+
+
+51.313 
+51.315 
+51.317 
+
+
+51.319 
+51.321 
+
+
+51.328 
+
+
+carriers 
+
+
+Duty to negotiate. 
+
+Preexisting agreements. 
+
+Interconnection. 
+
+Duty to provide access on an unbundled basis to net- 
+work elements. 
+
+Use of unbundled network elements. 
+Nondiscriminatory access to unbundled network ele- 
+ments. 
+
+Just, reasonable and nondiscriminatory terms and 
+conditions for the provision of unbundled network 
+elements. 
+
+Combination of unbundled network elements. 
+Standards for identifying network elements to be 
+made available. 
+
+Specific unbundling requirements. 
+
+Methods of obtaining interconnection and access to 
+unbundled elements under section 251 of the Act. 
+Standards for physical collocation and virtua! colloca- 
+tion. 
+
+
+276a 
+
+
+Subpart E—Exemptions, suspensions, and modifications of 
+
+
+51.401 
+51.403 
+
+
+51.405 
+
+
+section 251 of the Act. 
+
+
+State authority. 
+
+Carriers eligible for suspension or modification under 
+section 251(f) (2) of the Act. 
+
+Burden of proof. 
+
+
+Subpart F—Pricing of interconnection and unbundled elements 
+
+
+51.501 
+51.503 
+51.505 
+51.507 
+51.509 
+51.511 
+51.513 
+51.515 
+
+
+Scope. 
+
+General pricing standard. 
+
+Forward-looking economic cost. 
+
+General rate structure standard. 
+
+Rate structure standards for specific elements. 
+Forward-looking economic cost per unit. 
+Proxies for forward-looking economic cost. 
+Application of access charges. 
+
+
+Subpart G—Resale 
+
+
+51.601 
+51.603 
+51.605 
+
+
+51.607 
+51.609 
+51.611 
+51.613 
+51.615 
+51.617 
+
+
+Scope of resale rules. 
+
+Resale obligation of all local exchange carriers. 
+Additional obligations of incumbent local exchange 
+carriers. 
+
+Wholesale pricing standard. 
+
+Determination of avoided retail costs. 
+
+Interim wholesale rates. 
+
+Restrictions on resale. 
+
+Withdrawal of services. 
+
+Assessment of end user common line charge on 
+resellers. 
+
+
+Subpart H—Reciprocal compensation for transport and termi- 
+
+
+51.701 
+51.703 
+51.705 
+51.707 
+
+
+51.709 
+51.711 
+51.713 
+
+
+nation of local telecommunications traffic 
+
+
+Scope of transport and termination pricing rules. 
+Reciprocal compensation obligation of LECs. 
+Incumbent LECs’ rates for transport and termination. 
+Default proxies for incumbent LECs’ transport and 
+termination rates. 
+
+Rate structure for transport and termination. 
+Symmetrical reciprocal compensation. 
+
+Bill-and-keep arrangements for reciprocal compensa- 
+tion. 
+
+
+Fy DO I 
+
+
+277a 
+
+
+51.715 Interim transport and termination pricing. 
+
+
+51.717 Renegotiation of existing non-reciprocal arrange- 
+ments. 
+
+
+Subpart I—Procedures for implementation of section 252 of 
+the Act. 
+
+
+51.801 Commission action upon a state commission’s failure 
+
+
+to act to carry out its responsibility under section 252 
+of the Act. 
+
+
+51.803 Procedures for Commission notification of state com- 
+mission’s failure to act. 
+
+51.805 The Commission’s authority over proceedings and 
+matters. 
+
+51.807 Arbitration and mediation of agreements by the Com- 
+mission pursuant to section 252(e) (5) of the Act. 
+
+51.809 Availability of provisions of agreements to other tele- 
+
+
+ aemierraee carriers under section 252(i) of the 
+
+
+AUTHORITY: Sections 1-5, 7, 201-05, 225-27, 251-54, 271, 
+48 Stat. 1070, as amended, 1077; 47 U.S.C. 151-55, 157, 201- 
+05, 218, 225-27, 251-54, 271, unless otherwise noted. 
+
+
+Subpart A—General Information. 
+$51.1 Basis and purpose. 
+
+
+( a ) Basis. These rules are issued pursuant to the Com- 
+munications Act of 1934, as amended. 
+
+
+(b) Purpose. The purpose of these rules is to imple- 
+ment sections 251 and 252 of the Communicaitons Act 
+of 1934, as amended, 47 U.S.C. 251 and 252. 
+
+
+§ 51.3 Applicability to negotiated agreements. 
+
+
+To the extent provided in section 252(e)(2)(A) of the 
+Act, a state commission shall have authority to approve 
+an interconnection agreement adopted by negotiation even 
+if the terms of the agreement do not comply with the 
+requirements of this part. 
+
+
+278a 
+
+
+§ 51.5 Terms and definitions. 
+Terms used in this part have the following meanings: 
+Act. The Communications Act of 1934, as amended. 
+
+
+Advanced intelligent network. “Advanced Intelligent 
+Network” is a telecommunications network architecture 
+in which call processing, call routing, and network man- 
+agement are provided by means of centralized databases 
+located at points in an incumbent local exchange carrier’s 
+network. 
+
+
+Arbitration, final offer. “Final offer arbitration” is a 
+procedure under which each party submits a final offer 
+concerning the issues subject to arbitration, and the arbi- 
+trator selects, without modification, one of the final offers 
+by the parties to the arbitration or portions of both such 
+offers. “Entire package final offer arbitration,” is a pro- 
+cedure under which the arbitrator must select, without 
+modification, the entire proposal submitted by one of the 
+parties to the arbitration. “Issue-by-issue final offer arbi- 
+tration,” is a procedure under which the arbitrator must 
+select, without modification, on an issue-by-issue basis, one 
+of the proposals submitted by the parties to the arbitration. 
+
+
+Billing. “Billing” involves the provision of appropriate 
+usage data by one telecommunications carrier to another 
+to facilitate customer billing with attendant acknowledge- 
+ments and status reports. It also involves the exchange 
+of information between telecommunications carriers to 
+process claims and adjustments. 
+
+
+Commercial Mobile Radio Service (CMRS). “CMRS” 
+has the same meaning as that term is defined in § 20.3 of 
+this chapter. 
+
+Commission. “Commission” refers to the Federal Com- 
+munications Commission. 
+
+Directory assistance service. “Directory assistance serv- 
+ice” includes, but is not limited to, making available to 
+
+
+279a 
+
+
+customers, upon request, information contained in direc- 
+tory listings. 
+
+Directory listings. “Directory listings” are any infor- 
+mation: (1) identifying the listed names of subscribers of 
+a telecommunications carrier and such subscriber’s tele- 
+phone numbers, addresses, or primary advertising classifi- 
+cations (as such classifications are assigned at the time of 
+the establishment of such service), or any combination of 
+such listed names, numbers, addresses or classifications: 
+and (2) that the telecommunications carrier or an affiliate 
+has published, caused to be published, or accepted for 
+publication in any directory format. 
+
+
+Downstream database. A “downstream database” is a 
+database owned and operated by an individual carrier for 
+the purpose of providing number portability in conjunction 
+with other functions and services. 
+
+
+Equipment necessary for interconnection or access to 
+unbundled network elements. For purposes of section 251 
+(c)(2) of the Act, the equipment used to interconnect 
+with an incumbent local exchange carrier’s network for 
+the transmission and routing of telephone exchange serv- 
+ice, exchange access service, or both. For the purposes of 
+section 251(c)(3) of the Act, the equipment used to 
+gain access to an incumbent local exchange carrier's un- 
+bundled network elements for the provision of a telecom- 
+munications service. 
+
+
+Incumbent Local Exchange Carrier (Incumbent LEC). 
+With respect to an area, the local exchange carrier that: 
+(1) on February 8, 1996, provided telephone exchange 
+service in such area; and (2)(i) on February 8, 1996, 
+was deemed to be a member of the exchange carrier asso- 
+ciation pursuant to § 69.601(b) of this chapter; or (ii) is 
+a person or entity that, on or after February 8, 1996, 
+became a successor or assign of a member described in 
+clause (i) of this paragraph. 
+
+
+280a 
+
+
+Interconnection. “Interconnection” is the linking of 
+two networks for the mutual exchange of trafiic. This 
+term does not include the transport and termination of 
+traffic. 
+
+
+Local Exchange Carrier (LEC). A “LEC” is any per- 
+son that is engaged in the provision of telephone exchange 
+service or exchange access. Such term does not include a 
+person insofar as such person is engaged in the provision 
+of a commercial mobile service under section 332(c) of 
+the Act, except to the extent that the Commission finds 
+that such service should be included in the definition of 
+the such term. 
+
+
+Maintenance and repair. “Maintenance and repair” in- 
+volves the exchange of information between telecommu- 
+nications carriers where one initiates a request for main- 
+tenance or repair of existing products and services or un- 
+bundled network elements or combination thereof from 
+the other with attendant acknowledgements and status 
+reports. 
+
+
+Meet point. A “meet point” is a point of interconnection 
+between two networks, designated by two telecommunica- 
+tions carriers, at which one carrier’s responsibility for 
+service begins and the other carrier’s responsibility ends. 
+
+
+Meet point interconnection arrangemen. A “meet point 
+interconnection arrangement” is an arrangement by which 
+each telecommunications carrier builds and maintains its 
+network to a meet point. 
+
+
+Network element. A “network element” is a facility or 
+equipment used in the provision of a telecommunications 
+service. Such term also includes, but is not limited to, 
+features, functions, and capabilities that are provided by 
+means of such facility or equipment, including but not 
+limited to, subscriber numbers, databases, signaling sys- 
+tems, and information sufficient for billing and collection 
+or used in the transmission, routing, or other provision of 
+a telecommunications service. 
+
+
+28la 
+
+
+Operator services. “Operator services” are any auto- 
+matic or live assistance to a consumer to arrange for billing 
+or completion of a telephone call. Such services include, 
+but are not limited to, busy line verification, emergency 
+interrupt, and operator-assisted directory assistance services. 
+
+
+Physical collocation. “Physical collocation” is an offer- 
+ing by an incumbent LEC that enables a requesting tele- 
+communications carrier to: 
+
+(1) place its own equipment to be used for intercon- 
+nection or access to unbundled network elements within 
+or upon an incumbent LEC’s premises; 
+
+
+(2) use such equipment to interconnect with an in- 
+cumbent LEC’s network facilities for the transmission and 
+routing of telephone exchange service, exchange access 
+service, or both, or to gain access to an incumbent LEC’s 
+unbundled network elements for the provision of a tele- 
+communications service; 
+
+
+(3) enter those premises, subject to reasonable terms 
+and conditions, to install, maintain, and repair equipment 
+necessary for interconnection or access to unbundled ele- 
+ments; and 
+
+
+(4) obtain reasonable amounts of space in an incum- 
+bent LEC’s premises, as provided in this part, for the 
+equipment necessary for interconnection or access to un- 
+
+
+— elements, allocated on a first-come, first-served 
+asis. 
+
+
+Premises. “Premises” refers to an incumbent LEC’s 
+central offices and serving wire centers, as well as all 
+buildings or similar structures owned or leased by an 
+incumbent LEC that house its network facilities, and all 
+structures that house incumbent LEC facilities on public 
+rights-of-way, including but not limited to vaults contain- 
+ing loop concentrators or similar structures. 
+
+
+_ Pre-ordering and ordering. “Pre-ordering and ordering” 
+includes the exchange of information between telecommu- 
+
+
+282a 
+
+
+nications carriers about current or proposed customer 
+products and services or unbundled network elements or 
+some combination thereof. 
+
+Provisioning. “Provisioning” involves the exchange of 
+information between telecommunications carriers where 
+one executes a request for a set of products and services 
+or unbundled network elements or combination thereof 
+from the other with attendant acknowledgements and 
+
+
+status reports. 
+
+Rural telephone company. A “rural telephone com- 
+pany” is a LEC operating entity to the extent that such 
+entity: 
+
+(1) provides common carrier service to any local ex- 
+change carrier study area that does not include either: 
+
+
+(i) any incorporated place of 10,000 inhabitants or 
+more, or any part thereof, based on the most recently 
+available population statistics of the Bureau of the Census, 
+or 
+
+(ii) any territory, incorporated or unincorporated, 
+included in an urbanized area, as defined by the Bureau of 
+the Census as of August 10, 1993; 
+
+
+(2) provides telephone exchange service, including ex- 
+change access, to fewer than 50,000 access lines; 
+
+
+(3) provides telephone exchange service to any local 
+exchange carrier study area with fewer than 100,000 
+
+
+access lines; or 
+(4) has less than 15 percent of its access lines in com- 
+munities of more than 50,000 on February 8, 1996. 
+
+
+Service control point. A “service control point” is a 
+computer database in the public switched network which 
+contains information and call processing instructions 
+needed to process and complete a telephone call. 
+
+Service creation environment. A “service creation en- 
+vironment” is a computer containing generic call process- 
+
+
+283a 
+
+
+ing software that can be programmed to create new ad- 
+vanced intelligent network cau pzocessing services. 
+
+Signal transfer point. A “signal transfer point” is 
+packet switch that acts as a routing hub for a signaling 
+network and transfers messages between various points in 
+and among signaling networks. 
+
+State commission. A “state commission” means the 
+commission, board, or official (by whatever name desig- 
+nated) which under the laws of any State has regulatory 
+jurisdiction with respect to intrastate operations of car- 
+riers. As referenced in this part, this term may include 
+the Commission if it assumes the responsibility of the 
+state commission, pursuant to section 252(e)(5) of the 
+Act. This term shall also include any person or pez: ns 
+to whom the state commission has delegated its authority 
+under section 251 and 252 of the Act. 
+
+
+State proceeding. A “state proceeding” is any administra- 
+
+tive proceeding in which a state commission may approve 
+or prescribe rates, terms, and conditions including, but 
+not limited to, compulsory arbitration pursuant to section 
+252(b) of the Act, review of a Bell operating company 
+statement of generally available terms pursuant section 
+252(f) of the Act, and a proceeding to determine whether 
+to approve or reject an agreement adopted by arbitration 
+pursuant to section 252(e) of the Act. 
+
+
+Technically feasible. Interconnection, access to un- 
+bundled network elements, collocation, and other methods 
+of achieving interconnection or access to unbundled net- 
+work elements at a point in the network shall be deemed 
+technically feasible absent technical or operational con- 
+cerns that prevent the fulfillment of a request by a tele- 
+communications carrier for such interconnection, access, 
+or methods. A determination of technical feasibility does 
+not include consideration of economic, accounting, bill- 
+ing, space, or site concerns, except that space and site 
+concerns may be considered in circumstances where there 
+
+
+284a 
+
+
+is no possibility of expanding the space available. The 
+fact that an incumbent LEC must modify its facilities or 
+equipment to respond to such request does not determine 
+whether satisfying such request is technically feasible. 
+An incumbent LEC that claims that it cannot satisfy such 
+request because of adverse network reliability impacts 
+must prove to the state commission by clear and convine- 
+ing evidence that such interconnection, access, or methods 
+would result in specific and significant adverse network 
+
+liability i 
+
+Telecommunications carrier. A “telecommunications 
+carrier” is any provider ef telecommunications services, 
+except that such term does not include aggregators of 
+telecommunications services (as defined in section 226 of 
+the Act). A telecommunications carrier shall be treated 
+as a common carrier under the Act only to the extent that 
+it is engaged in providing telecommunications services, 
+except that the Commission shall determine whether the 
+provision of fixed and mobile satellite service shall be 
+treated as common carriage. This definition includes 
+CMRS providers, interexchange carriers (IXCs) and, to 
+the extent they are acting as telecommunications carriers, 
+companies that provide both telecommunications and in- 
+formation services. Private Mobile Radio Service pro- 
+viders are telecommunications carriers to the extent they 
+provide domestic or international telecommunications for 
+a fee directly to the public. 
+
+
+Virtual collocation. “Virtual collocation” is an offering 
+by an incumbent LEC that enables a requesting telecom- 
+munications carrier to: 
+
+(1) designate or specify equipment to be used for 
+interconnection or access to unbundled network elements 
+to be located within or upon an incumbent LEC’s premises, 
+and dedicated to such telecommunications carrier’s use; 
+
+
+(2) use such equipment to interconnect with an in- 
+cumbent LEC’s network facilities for the transmission and 
+
+
+285a 
+routing of telephone exchange service, exchange access 
+
+
+service, or both, or for access to an incumbent LEC’s 
+unbundled network elements for the provision of a tele- 
+communications service; and 
+
+_ (3) electronically monitor and control its communica- 
+tions channels terminating in such equipment. 
+
+
+Subpart B—Telecommunications Carriers. 
+§ 51.100 General duty. 
+(a) Each telecommunications carrier has the duty: 
+
+
+(1) to interconnect directly or indirectly with the facili- 
+Sey Sno Cyaan of other ttecepmmaieations carson; 
+
+
+_(2) to not install network features, functions, or capa- 
+bilities that do not comply with the guidelines and stand- 
+ards as provided in the Commission’s rules or section 255 
+or 256 of the Act. 
+
+(b) A telecommunication carrier that has intercon- 
+nected or gained access under sections 251(a)(1), 251 
+(c) (2), or 251(c)(3) of the Act, may offer information 
+services through the same arrangement, so long as it is 
+offering telecommunications services through the same 
+arrangement as well. 
+
+Subpart C—Obligations of All Local Exchange Carriers. 
+§$51.201 Resale. 
+
+
+The rules governing resale of services by an incumbent 
+LEC are set forth in subpart G of this part. 
+
+
+§ 51.203 Number portability. 
+
+
+The rules governing number portability are set forth in 
+part 52, subpart C of this chapter. 
+
+
+§$51.219 Access to rights of way. 
+
+
+The rules governing access to rights of way are set forth 
+in part 1, subpart J of this chapter. 
+
+
+286a 
+
+
+§ 51.221 Reciprocal compensation. 
+
+The rules governing reciprocal compensation are set forth 
+in subpart H of this part. 
+
+§ 51.223 Application of additional requirements. 
+
+
+(a) A state may not impose the obligations set forth 
+in section 251(c) of the Act on a LEC that is not classi- 
+fied as an incumbent LEC as defined in section 251(h) (1) 
+of the Act, unless the Commission issues an order declar- 
+ing that such LECs or classes or categories of LECs 
+should be treated as incumbent LECs. 
+
+
+(b) A state commission, or any other interested party, 
+may request that the Commission issue an order declaring 
+that a particular LEC be treated as an incumbent LEC, 
+or that a class or category of LECs be treated as incum- 
+bent LECs, pursuant to section 251(h)(2) of the Act. 
+Subpart D—Additional Obligations of Incumbent Local 
+Exchange Carriers. 
+
+
+§ 51.301 Duty to negotiate. 
+
+
+(a) An incumbent LEC shall negotiate in good faith 
+the terms and conditions of agreements to fulfill the duties 
+established by sections 251(b) and (c) of the Act. 
+
+
+(b) A requesting telecommunications carrier shall ne- 
+gotiate in good faith the terms and conditions of agree- 
+ments described in paragraph (a) of this section. 
+
+
+(c) If proven to the Commission, an appropriate 
+state commission, or a court of competent jurisdiction, 
+the following actions or practices, among others, violate 
+the duty to negotiate in good faith: 
+
+
+(1) demanding that another party sign a nondisclosure 
+agreement that precludes such party from providing in- 
+formation requested by the Commission, or a state com- 
+mission, or in support of a request for arbitration under 
+section 252(b)(2)(B) of the Act; 
+
+
+287a 
+
+
+(2) demanding that a requesting telecommunications 
+carrier attest that an agreement complies with all provi- 
+sions of the Act, federal regulations, or state law; 
+
+(3) refusing to include in an arbitrated or negotiated 
+agreement a provision that permits the agreement to be 
+amended in the future to take into account changes in 
+Commission or state rules; 
+
+
+(4) conditioning negotiation on a requesting telecom- 
+munications carrier first obtaining state certifications; 
+(5) intentionally misleading or coercing another party 
+
+
+into reaching an agreement that it would not otherwise 
+have made; 
+
+
+(6) intentionally obstructing or delaying negotiati 
+or resolutions of disputes; ie: ee 
+
+
+(7) refusing throughout the negotiation process to 
+designate n representative with authority to make binding 
+representations, if such refusal significantly delays resolu- 
+tion of issues;-and 
+
+
+(8) refusing to provide information necessary to reach 
+agreement. Such refusal includes, but is not limited to: 
+
+
+(i) refusal by an incumbent LEC to furnish informa- 
+tion about its network that a requesting telecommunica- 
+tions carrier reasonably requires to identify the network 
+elements that it needs in order to serve a particular cus- 
+tomer; and 
+
+
+(ii) Tefusal by a requesting telecommunications carrier 
+to furnish cost data that would be relevant to setting rates 
+if the parties were in arbitration. 
+
+§ 51.303 Preexisting agreements. 
+
+
+(a) All interconnection agreements between an incum- 
+bent LEC and a telecommunications carrier, including 
+those negotiated before February 8, 1996, shall be sub- 
+mitted by the parties to the appropriate state commission 
+for approval pursuant to section 252(e) of the Act. 
+
+
+288a 
+b) Interconnection agreements negotiated before Feb- 
+aan 8, 1996, between Class A carriers, as defined by 
+§ 32.11(a)(1) of this chapter, shall be filed by the par- 
+
+
+, 4 bsnl 
+ties with the appropriate state commission no later tha 
+June 30, 1997, or such earlier date as the state commis- 
+sion may requife. ae 
+
+(c) If a state commission approves a preexisting = 
+ment, it shall be made available to other parties in accord- 
+ance with section 252(i) of the Act and § 51.809 of this 
+part. A state commission may reject a preexisting agree- 
+ment on the grounds that it is inconsistent with the 
+public interest, or for other reasons set forth in section 
+
+
+252(e)(2)(A) of the Act. 
+§ 51.305 Interconnection. 
+
+
+i ide for the facilities 
+
+(a) An incumbent LEC shall provide 
+and equipment of any requesting telecommunications car- 
+rier, interconnection with the incumbent LEC’s network: 
+
+
+(1) for the transmission and routing of telephone ex- 
+change traffic, exchange access traffic, or both; 
+
+(2) at any technically feasible point within the incum- 
+bent LEC’s network including, at a minimum: 
+
+(i) the line-side of a local switch; 
+
+(ii) the trunk-side of a local switch; 
+
+(iii) the trunk interconnection points for a tandem 
+switch; 
+
+(iv) central office cross-connect points; 
+
+(v) out-of-band signaling transfer points necessary to 
+exchange traffic at these points and access call-related 
+databases; and 
+
+
+(vi) the points of access to unbundled network ele- 
+merits as described in § 51.319 of thir part; 
+
+
+289a 
+
+
+(3) that is at a level of quality that is equal to that 
+which the incumbent LEC provides itself, a subsidiary, 
+an affiliate, or any other party, except as provided in 
+paragraph (4) of this section. At a minimum, this re- 
+quires an incumbent LEC to design interconnection facili- 
+ties to meet the same technical criteria and service stand- 
+ards that are used within the incumbent LEC’s network. 
+This obligation is not limited to a consideration of service 
+quality as perceived by end users, and includes, but is not 
+limited to, service quality as perceived by the requesting 
+telecommunications carrier; 
+
+
+(4) that, if so requested by a telecommunications car- 
+rier and to the extent technically feasible, is superior in 
+quality to that provided by the incumbent LEC to itself 
+or to any subsidiary, affiliate, or any other party to which 
+the incumbent LEC provides interconnection. Nothing in 
+this section prohibits an incumbent LEC from providing 
+interconnection that is lesser in quality at the sole request 
+of the requesting telecommunications carrier; and 
+
+
+(5) on terms and conditions that are just, reasonable, 
+and nondiscriminatory in accordance with the terms and 
+conditions of any agreement, the requirements of sections 
+251 and 252 of the Act, and the Commission’s rules in- 
+cluding, but not limited to, offering such terms and con- 
+ditions equally to all requesting telecommunications car- 
+riers, and offering such terms and conditions that are no 
+less favorable than the terms and conditions the incum- 
+bent LEC provides such intercornection to itself. This 
+includes, but is not limited to, the time within which the 
+incumbent LEC provides such interconnection. 
+
+
+(b) A carrier that requests interconnection solely for 
+the purpose of originating or terminating its interexchange 
+traffic on an incumbent LEC’s network and not for the 
+purpose of providing to others telephone exchange serv- 
+ice, exchange access service, or both, is not entitled to 
+
+
+290a 
+
+
+receive interconnection pursuant to section 251(c) (2) of 
+the Act. 
+
+
+revious successful interconnection at a particular 
+on - a network, using particular facilities, ee 
+substantial evidence that interconnection Is bagi 
+feasible at that point, or at substantially similar 4 > 
+in networks employing substantially similar facilities. ow 
+herence to the same interface or protocol standards s : 
+constitute evidence of the substantial similarity of networ 
+facilities. es 
+ious successful interconnection at a particular 
+olen ee 4 peat at a particular level of quality 4 
+stitutes substantial evidence that interconnection 1S: — - 
+nically feasible at that point, or at substantially similar 
+points, at that level of quality. 
+
+
+(e) An incumbent LEC that denies a request for inter- 
+connection at a particular point must prove to the 7 
+commission that interconnecton at that point is not tec 
+nically feasible. 
+
+
+(f) If technically feasible, an incumbent LEC shall 
+provide two-way trunking upon request. 
+
+
+§ 51.307 Duty to provide access on an unbundled basis 
+to network elements. 
+
+
+incumbent LEC shall provide, to a requesting 
+sdcmmeeanaaied carrier for the provision of a tele- 
+communications service, nondiscriminatory access to net- 
+work elements on an unbundled basis at any technically 
+feasible point on terms and conditions that are just, rea- 
+sonable, and nondiscriminatory in accordance with the 
+terms and conditions of any agreement, the requirements 
+of sections 251 and 252 of the Act, and the Commission's 
+
+
+rules. 
+(b) The duty to provide access to unbundled network 
+
+
+ts pursuant to section 251(c) (3) of the Act in- 
+wm a duty to provide a connection to an unbundled 
+
+
+LALO LIENS ELLINGTON LEE ONIN EDF Pr a 
+
+
+? 
+- 
+
+
+29la 
+
+
+network element independent of any duty to provide in- 
+
+
+terconnection pursuant to this part and section 251(c) (2) 
+of the Act. 
+
+
+(c) An incumbent LEC shall provide a requesting tele- 
+communications carrier access to an unbundled network 
+element, along with all of the unbundled network ele- 
+ment’s features, functions, and capabilities, in a manner 
+that allows the requesting telecommunications carrier to 
+provide any telecommunications service that can be of- 
+fered by means of that network element. 
+
+
+(d) An incumbent LEC shall provide a requesting tele- 
+communications carrier access to the facility or function- 
+ality of a requested network element separate from access 
+
+
+to the facility or functionality of other network elements, 
+for a separate charge. 
+
+
+§ 51.309 Use of unbundled network elements. 
+
+
+(a) An incumbent LEC shall not impose limitations, 
+restrictions, Or requirements on requests for, or the use 
+of, unbundled network elements that would impair the 
+ability of a requesting telecommunications carrier to offer 
+a telecommunications service in the manner the requesting 
+telecommunications carrier intends. 
+
+
+(b) A telecommunications carrier purchasing access to 
+an unbundled network element may use such network 
+element to provide exchange access services to itself in 
+order to provide interexchange services to subscribers. 
+
+
+(c) A telecommunications carrier purchasing access to 
+an unbundled network facility is entitled to exclusive use 
+of that facility for a period of time, or when purchasing 
+access to a feature, function, or capability of a facility, 
+a telecommunications carrier is entitled to use of that 
+feature, function, or capability for a period of time. A 
+telecommunications carrier’s purchase of access to an 
+unbundled network element does not relieve the incum- 
+
+
+bent LEC of the duty to maintain, repair, or replace the 
+unbundled network element. 
+
+
+292a 
+
+
+§ 51.311 Nondiscriminatory access to unbundled net- 
+network elements. 
+
+
+(a) The quality of an unbundled network element, as 
+well as the quality of the access to the unbundled network 
+element, that an incumbent LEC provides to a requesting 
+telecommunications carrier shall be the same for all tele- 
+communications carriers requesting access to that network 
+element, except as provided in paragraph (c) of this 
+section. 
+
+
+(b) Except as provided in paragraph (c) of this sec- 
+tion, to the extent technically feasible, the quality of an 
+unbundled network element, as well as the quality of the 
+access to such unbundled network element, that an in- 
+cumbent LEC provides to a requesting telecommunica- 
+tions carrier shall be at least equal in quality to that 
+which the incumbent LEC provides to itself. If an in- 
+cumbent LEC fails to meet this requirement, the incum- 
+bent LEC must prove to the state commission that it is 
+not technically feasible to provide the requested unbun- 
+dled network element, or to provide access to the re- 
+quested unbundled network element, at a level of quality 
+that is equal to that which the incumbent LEC provides 
+
+
+to itself. 
+
+
+(c) To the extent technically feasible, the quality of 
+an unbundled network element, as well as the quality of 
+the access to such unbundled network element, that an 
+incumbent LEC provides to a requesting telecommunica- 
+tions carrier shall, upon request, be superior in quality 
+to that which the incumbent LEC provides to itself. If 
+an incumbent LEC fails to meet this requirement, the in- 
+cumbent LEC must prove to the state commission that 
+it is not technically feasible to provide the requested un- 
+bundled network element or access to such unbundled 
+network element at the requested level of quality that is 
+superior to that which the incumbent LEC provides to it- 
+self. Nothing in this section prohibits an incumbent LEC 
+from providing interconnection that is lesser in quality at 
+
+
+293a 
+
+
+the sole request of the esti icati 
+a requesting telecommunications 
+
+
+(d) Previous successful access to an un 
+ment at a particular point in a network, cane Saiciien 
+facilities, is substantial evidence that access is technically 
+feasible at that point, or at substantially similar points, in 
+networks employing substantially similar facilities. Ad- 
+herence to the same interface or protocol standards shall 
+
+
+constitute evidence of the substantial similari 
+work facilities . substantial similarity of net- 
+
+
+(¢) Previous successful provision of access to 
+bundled element at a particular point in a cae 40 " 
+particular level of quality is substantial evidence that ac- 
+cess is technically feasible at that point, or at substantially 
+similar points, at that level of quality. 
+
+
+§ 51.313 Just, reasonable and nondiscriminatory terms 
+and conditions for the provision and unbun- 
+dled network elements. 
+
+
+(a) The terms and conditions i 
+( pursuant to which an 
+incumbent LEC provides access to unbundled network 
+
+
+elements shall be offered equaliy to all i 
+commu-ications carriers. ies sennteiatiued 
+
+
+(b) Where applicable, the terms and conditi 
+suant to which an incumbent LEC cffers to aia 
+to unbundled network elements, izcluding but not limited 
+to, the time within which the incumbent LEC provisions 
+such access to unbundled network elements, shall, at a 
+eye be no by favorable to the requesting carrier 
+erms and conditions un i 
+LEC provides such elements to out (ote ae vont nm 
+
+
+(c) An incumbent LEC must i 
+provide a carrier - 
+chasing access to unbundled network elements with "aie 
+ergo provisioning, maintenance and repair, and 
+ng functions of the i ions 
+poaey | € incumbent LEC’s operations sup- 
+
+
+294a 
+
+
+§ 51.315 Combination of unbundled network elements. 
+
+
+(a) An incumbent LEC shall provide unbundled net- 
+work elements in a manner that allows requestig tele- 
+communications carriers to combine such network ele- 
+ments in order to provide a telecommunications service. 
+
+
+(b) Except upon request, an incumbent LEC shall pvt 
+separate requested network elements that the incumbent 
+LEC currently combines. 
+
+
+(c) Upon request, an incumbent :.EC shall perform 
+the functions necessary to combine unbuadled network ele- 
+ments in any manner, even if those elenents are not or- 
+dinarily combined in the incumbent LEC’s network, pro- 
+vided that such combination is: 
+
+(1) technically feasible; and 
+
+(2) would not impair the ability of other carriers to 
+
+
+obtain access to unbundled network elements or to inter- 
+connect with the incumbent LEC’s network. 
+
+
+(d) Upon request, an incumbent LEC shall perform 
+the functions necessary to combine unbundled network 
+elements with elements possessed by the requesting tele- 
+communications carrier in any technically feasible manner. 
+
+
+(e) An incumbent LEC that denies a request to com- 
+bine elements pursuant to paragraph (c/(1) or paragraph 
+(d) of this section must prove to the state commission 
+that the requested combination is not technically feasible. 
+
+
+(f) An incumbent LEC that denies a request to com- 
+bine elements pursuant to paragraph (c)(2) of this sec- 
+tion must prove to the state commission that the requested 
+combination would impair the ability cf other carriers to 
+obtain access to unbundled network elements or to inter- 
+connect with the incumbent LEC’s network. 
+
+
+§ 51.317 Standards for identifying network elements to 
+be made available. 
+
+(a) In determining what network dements should be 
+
+made available for purposes of section 251(c)(3) of the 
+
+
+295a 
+
+
+Act beyond those identified in § 51.319 of this part, a 
+state commission shall first determine whether it is tech- 
+nically feasible for the incumbent LEC to provide access 
+to a network element on an unbundled basis. 
+
+
+(b) If the state commission determines that it is tech- 
+nically feasible for the incumbent LEC to provide access 
+to the network — on an unbundled basis, the state 
+commission may ine to require unbundling of t . 
+work element only if: : ip 
+
+
+(1) the state commission concludes that: 
+
+
+(i) the network element is proprietary, or contains pro- 
+prietary information that will be revealed if the network 
+element is provided on an unbundled basis; and 
+
+
+(ii) a requesting telecommunications carrier could 
+offer the same proposed telecommunications service 
+
+
+through the use of other, nonproprietary unbundled 
+of ; net- 
+work elements within the incumbent LEC’s network: or 
+
+
+(2) the state commission concludes that the failure 
+of the incumbent LEC to provide access to the network 
+element would not decrease the quality of, and would not 
+increase the financial or administrative cost of, the tele- 
+communications service a requesting telecommunications 
+pros sapet ig “i - compared with providing that service 
+over other unbundled netw 
+ae ork elements in the incumbent 
+
+
+§ 51.319 Specific unbundled requirements. 
+
+
+An incumbent LEC shall provide nondiscriminatory 
+access in accordance with § 51.311 of this part and sec- 
+tion 251(c¢)(3) of the Act to the following network ele- 
+ments on an unbundled basis to any requesting telecom- 
+munications carrier for the provision of a telecommunica- 
+tions service: 
+
+
+(a) Local Loop. The local loop network element is 
+defined as a transmission facility between a distribution 
+
+
+296a 
+
+
+frame (or its equivalent) in an incumbent LEC central 
+office and an end user customer premises; _ 
+
+
+(b) Network Interface Device. 
+
+
+(1) The network interface device network element is 
+defined as a cross-connect device used to connect loop 
+facilities to inside wiring. 
+
+(2) An incumbent LEC shall permit a requesting tele- 
+communications carrier to connect its own local loops to 
+the inside wiring premises through the incumbent LEC’s 
+network interface device. The requesting telecommunica- 
+tions carrier shall establish this connection through an 
+adjoining network interface device deployed by such tele- 
+communications carrier; 
+
+(c) Switching Capability. 
+
+(1) Local Switching Capabality 
+
+
+(i) The local switching capability network element is 
+defined as: 
+
+
+(A) line-side facilities, which include, but are not lim- 
+ited to, the connection between a loop termination at a 
+main distribuiton frame and a switch line card; 
+
+
+(B) trunk-side facilities, which include, but are not 
+limited to, the connection between trunk termination at a 
+trunk-side cross-connect panel and a switch trunk card; 
+
+
+(C) all features, functions, and capabilities of the 
+switch, which include, but are not limited to: 
+
+
+(1) the basic switching function of connecting lines to 
+lines, lines to trunks, trunks to lines, and trunks to trunks, 
+as well as the same basic capabilities made available to 
+the incumbent LEC’s customers, such as a telephone num- 
+ber, white page listing, and dial tone; and 
+
+
+(2) all other features that the switch is capable of 
+providing, including but not limited to custom calling, 
+custom local area signaling service features, and Centrex, 
+
+
+i 
+; 
+: 
+| 
+: 
+
+
+297a 
+as well as any technically feasible customized routing func- 
+tions provided by the switch. 
+
+(ii) An incumbent LEC shall transfer a customer’s 
+local service to a competing carrier within a time period 
+no greater than the interval within which the incumbent 
+LEC oo ge end users between interexchange 
+carriers, if such transfer requires a change in the i 
+cumbent LEC’s software; = si 
+
+
+(2) Tandem Switching Capability. The tandem 
+switching capability network element is defined as: 
+
+
+(i) trunk-connect facilities, including but not limited to 
+the connection between trunk termination at a cross- 
+connect panel and a switch trunk card; 
+
+
+(ii) the basic switching function of connecting trunks 
+to trunks; and 
+
+
+(iii) the functions that are centralized in tandem 
+switches (as distinguished from separate end-office 
+switches), including but not limited to call recording, the 
+routing of calls to operator services, and signaling con- 
+version features; 
+
+
+(d) Interoffice Transmission Facilities. 
+
+
+_ (1) Interoffice transmission facilities are defined as 
+incumbent LEC transmission facilities dedicated to a par- 
+ticular customer or carrier, or shared by more than one 
+Customer or carrier, that provide telecommunications be- 
+tween wire centers owned by incumbent LECs or request- 
+ing telecommunications carriers. 
+
+(2) The incumbent LEC shall: 
+
+
+(i) ‘provide a requesting telecommunications carrier 
+exclusive use of interoffice transmission facilities dedicated 
+to @ particular customer or carrier, or use of the features, 
+functions, and capabilities of interoffice transmission facili- 
+ties shared by more than one customer or carrier; 
+
+
+298a 
+
+
+(ii) provide all technically feasible transmission facili- 
+ties, features, functions, and capabilities that the request- 
+ing telecommunications carrier could use to provide tele- 
+communications services; 
+
+(iii) permit, to the extent technically feasible, a request- 
+ing telecommunications carrier to connect such interoffice 
+facilities to equipment designated by the requesting tele- 
+communications carrier, including, but not limited to, the 
+requesting telecommunications carrier's collocated facili- 
+ties; and 
+
+
+(iv) permit, to the extent technically feasible, a request- 
+ing telecommunications carrier to obtain the functionality 
+provided by the incumbent LEC’s digital cross-connect sys- 
+tems in the same manner that the incumbent LEC provides 
+such functionality to interchange carriers; 
+
+
+(e) Signaling Networks and Call-Related Databases. 
+(1) Signaling Networks. 
+
+
+(i) Signaling networks include, but are not limited to, 
+signaling links and signaling transfer points. 
+
+
+(ii) When a requesting telecommunications carrier pur- 
+chases unbundled switching capability from an incumbent 
+LEC, the incumbent LEC shall provide access to its signal- 
+ing network from that switch in the same manner in 
+which it obtains such access itself. 
+
+
+(iii) An incumbent LEC shall provide a requesting tele- 
+communications carrier with its own switching facilities 
+access to the incumbent LEC’s signaling network for each 
+of the requesting telecommunications carrier's switches. 
+This connection shall be made in the same manner as an 
+incumbent LEC connects one of its own switches to a 
+signal transfer point. 
+
+
+(iv) Under this paragraph, an incumbent LEC is not re- 
+quired to unbundle those signaling links that connect 
+service control points to switching transfer points or to 
+
+
+299a 
+
+
+permit a requesting telecommunications carrier to link its 
+own signal transfer points directly to the incumbent LEC’s 
+switch or call-related databases; 
+
+
+(2) Call-Related Databases. 
+
+
+(i) Call-related databases are defined as databases, 
+other than operations support systems, that are used in 
+signaling networks for billing and collection or the trans- 
+mission, routing, or other provision of a telecommunica- 
+tions service. 
+
+(ii) For purposes of switch query and database response 
+through a signaling network, an incumbent LEC shall 
+provide access to its call-related databases, including, but 
+not limited to, the Line Information Database, Toll Free 
+Calling database, downstream number portability data- 
+bases, and Advanced Intelligent Network databases, by 
+means of physical access at the signaling transfer point 
+linked to the unbundled database. 
+
+
+(iii) An incumbent LEC shall allow a requesting tele- 
+communications carrier that has purchased an incumbent 
+LEC’s local switching capability to use the incumbent 
+LEC’s service control point element in the same manner, 
+
+
+and via the same signaling links, as the incumbent LEC 
+itself. 
+
+
+(iv) An incumbent LEC shall allow a requesting tele- 
+communications carrier that has deployed its own switch, 
+and has linked that switch to an incumbent LEC’s signal- 
+ing system, to gain access to the incumbent LEC’s service 
+control point in a manner that allows the requesting carrier 
+to provide any call-related, database-supported services to 
+
+
+customers served by the requesting telecommunications 
+Carrier’s switch. 
+
+
+(v) A state commission shall consider whether mech- 
+anisms mediating access to an incumbent LEC’s Advanced 
+Intelligent Network service control points are necessary, 
+
+
+300a 
+
+
+and if so, whether they will adequately safeguard against 
+intentional or unintentional misuse of the incumbent 
+LEC’s Advanced Intelligent Network facilities. 
+
+
+(vi) An incumbent LEC shall provide a requesting 
+telecommunications carrier with access to caller-related 
+data-bases in a manner that complies with section 222 of 
+the Act; 
+
+
+(3) Service Management Systems. 
+
+
+(A) A service management system is defined as a 
+computer database or system not part of the public 
+switched network that, among other things: 
+
+
+(1) interconnects to the service control point and sends 
+to that service control point the information and call 
+processing instructions needed for a network switch to 
+process and complete a telephone call; and 
+
+
+(2) provides telecommunications carriers with the capa- 
+bility of entering and storing data regarding the processing 
+and completing of a telephone call. 
+
+
+(B) An incumbent LEC shall provide a requesting tele- 
+communications carrier with the information necessary to 
+enter correctly, or format for entry, the information rele- 
+vant for input into the particular incumbent LEC service 
+management system. 
+
+
+(C) An incumbent LEC shall provide a requesting tele- 
+communications carrier the same access to design, create, 
+test, and deploy Advanced Intelligent Network-based serv- 
+ices at the service management system, through a service 
+creation environment, that the incumbent LEC provides to 
+itself. 
+
+
+(D) A state commission shall consider whether mech- 
+anisms mediating access to Advanced Intelligent Network 
+service management systems and service creation environ- 
+ments are necessary, and if so, whether they will ade- 
+
+
+PE RR RIO eo ON mn ee 
+
+
+» oe 
+
+
+301a 
+
+
+quately safeguard against intentional or unintentional mis- 
+use of the incumbent LEC’s Advanced Intelligent Network 
+facilities. 
+
+(E) An incumbent LEC shall provide a requesting tele- 
+communications carrier access to service management sys- 
+
+
+tems in a manner that complies with section 222 of the 
+Act; 
+
+
+(f) Operations Support Systems Functions. 
+
+
+(1) Operations support systems functions consist of 
+pre-ordering, ordering, provisioning, maintenance and re- 
+pair, and billing functions supported by an incumbent 
+LEC’s databases and information. 
+
+
+(2) An incumbent LEC that does not currently comply 
+with this requirement shall do so-as expeditiously as pos- 
+sible, but, in any event, no later than January 1, 1997; 
+and 
+
+
+(g) Operator Services and Directory Assistance. An 
+incumbent LEC shall provide access to operator service 
+and directory assistance facilities where technically feasible. 
+
+
+§ 51.321 Methods of obtaining interconnection and ac- 
+cess to unbundled elements under section 251 
+of the Act. 
+
+
+(a) Except as provided in paragraph (e) of this sec- 
+tion, an incumbent LEC shall provide, on terms and con- 
+ditions that are just, reasonable, and nondiscriminatory in 
+accordance with the requirements of this part, any tech- 
+nically feasible method of obtaining interconnection or 
+access to unbundled network elements at a particular point 
+upon a request by a telecommunications carrier. 
+
+
+(b) Technically feasible methods of obtaining intercon- 
+nection or access to unbundled network elements include, 
+but are not limited to: 
+
+
+(1) physical collocation and virtual collocation at the 
+premises of an incumbent LEC; and 
+
+
+302a 
+
+
+(2) meet point interconnection arrangements. 
+
+
+(c) A previously successful method of obtaining inter- 
+connection or access to unbundled network elements at a 
+particular premises or point of an incumbent LEC’s net- 
+work is substantial evidence that such method is tech- 
+nically feasible in the case of substantially similar network 
+premises or points. 
+
+
+(d} An incumbent LEC that denies a request for a 
+particular method of obtaining interconnection or access to 
+unbundled network elements on the incumbent LEC’s net- 
+work must prove to the state commission that the requested 
+method of obtaining interconnection or access to un- 
+bwndled network elements at that point is not technically 
+feasible. 
+
+
+(¢) An incumbent LEC shall not be required to provide 
+for physical collocation of equipment necessary for inter- 
+connection or access to unbundled network elements at the 
+incumbent LEC’s premises if it demonstrates to the state 
+commission that physical collocation is not practical for 
+technical reasons or because of space limitations. In such 
+cases, the incumbent LEC shall be required to provide 
+virtual collocation, except at points where the incumbent 
+LEC proves to the state commission that virtual colloca- 
+tion is not technically feasible. If virtual collocation is 
+not technically feasible, the incumbent LEC shall provide 
+other methods of interconnection and access to unbundled 
+network elements to the extent technically feasible. 
+
+
+(f) An incumbent LEC shall submit to the state com- 
+mission detailed floor plans or diagrams of any premises 
+where the incumbent LEC claims that physical collocation 
+is not practical because of space limitations. 
+
+
+(g) An incumbent LEC that is classified as a Class A 
+company under § 32.11 of this chapter and that is not a 
+National Exchange Carrier Association interstate tariff 
+participant as provided in part 69, subpart G, shall con- 
+
+
+f 
+4 
+t 
+i 
+
+
+303a 
+
+
+tinue to provide expanded interconnection service pursuant 
+to interstate tariff in accordance with §§ 64.1401, 64. 
+1402, 69.121 of this chapter, and the Commission’s other 
+requirements. 
+
+
+§ 51.323 Standards for physical collocation and virtual 
+collocation. 
+
+
+(a) An incumbent LEC shall provide physical colloca- 
+tion and virtual collocation to requesting telecommunica- 
+tions Carriers. 
+
+
+(b) An incumbent LEC shall permit the collocation of 
+any type of equipment used for interconnection or access 
+to unbundled network elements. Whenever an incumbent 
+LEC objects to collocation of equipment by a requesting 
+telecommunications carrier for purposes within the scope 
+of section 251(c)(6) of the Act, the incumbent LEC 
+must prove to the state commission that the equipment will 
+not be actually used by the telecommunications carrier for 
+the purpose of obtaining interconnection or access to un- 
+bundled network elements includes, but is not limited to: 
+
+
+(1) transmission equipment including, but not limited 
+to, optical terminating equipment and multiplexers; and 
+
+
+(2) equipment being collocated to terminate basic trans- 
+mission facilities pursuant to $§ 64.1401 and 64.1402 of 
+this chapter as of August 1, 1996. 
+
+
+(c) Nothing in this section requires an incumbent LEC 
+to permit collocation of switching equipment or equip- 
+ment used to provide enhanced services. 
+
+
+(d) When an incumbent LEC provides physical colloca- 
+tion, virtual collocation, or both, the incumbent LEC 
+shall: 
+
+
+(1) provide an interconnection point or points, physi- 
+cally accessible by both the incumbent LEC and the 
+collocating telecommunications carrier, at which the fiber 
+optic cable carrying an interconnector’s circuits can enter 
+
+
+304a 
+
+
+the incumbent LEC’s premises, provided that the incum- 
+bent LEC shall designate interconnection points as close 
+as reasonably possible to its premises; 
+
+
+(2) provide at least two such interconnection points at 
+each incumbent LEC premises at which there are at least 
+two entry points for the incumbent LEC’s cable facilities, 
+and at which space is available for new facilities in at 
+least two of those entry points; 
+
+
+(3) permit interconnection of copper or coaxial cable 
+if such interconnection is first approved by the state com- 
+mission; and 
+
+
+(4) permit physical collocation of microwave trans- 
+mission facilities except where such collocation is not 
+practical for technical reasons or because of space limita- 
+tions, in which case virtual collocation of such facilities 
+is required where technically feasible. 
+
+
+(e) When providing virtual collocation; an incumbent 
+LEC shall, at a minimum, install, maintain, and repair 
+collocated equipment identified in paragraph (b) of this 
+section within the same time periods and with failure rates 
+that are no greater than those that apply to the perform- 
+ance of similar functions for comparable equipment of the 
+incumbent LEC itself. y 
+
+
+(f) An incumbent LEC shall allocate space for the 
+collocation of the equipment identified in paragraph (b) 
+of this section in accordance with the following require- 
+ments: 
+
+
+(1) an incumbent LEC shall make space available 
+within or on its premises to requesting telecommunications 
+carrier On a first-come, first-served basis, provided, how- 
+ever, that the incumbent LEC shall not be required to 
+lease or construct additional space to provide for physical 
+collocation when existing space has been exhausted; 
+
+
+305a 
+
+
+(2) to the extent possible, an incumbent LEC shall 
+make contiguous space available to requesting telecom- 
+munications carriers that seek to expand their existing 
+collocation space; 
+
+
+(3) when planning renovations of existing facilities 
+or constructing or leasing new facilities, an incumbent 
+LEC shall take into account projected demand for collo- 
+cation of equipment; 
+
+
+(4) an incumbent LEC may retain a limited amount 
+of floor space for its own specific future uses, provided, 
+however, that the incumbent LEC may not reserve space 
+for future use on terms more favorable than those that 
+apply to other telecommunications carriers seeking to re- 
+serve collocation space for their own future use; 
+
+
+(5) an incumbent LEC shall relinquish any space held 
+for future use before denying a request for virtual collo- 
+cation on the grounds of space limitations, unless the in- 
+cumbent LEC proves to the state commission that virtual 
+collocation at that point is not technically feasible; and 
+
+
+(6) an incumbent LEC may impose reasonable restric- 
+tions on the warehousing of unused space by collocating 
+telecommunications carriers, provided, however, that the 
+incumbent LEC shall not set maximum space limitations 
+applicable to such carriers unless the incumbent LEC 
+proves to the state commission that space constraints 
+make such restrictions necessary. 
+
+
+(g) An incumbent LEC shall permit collocating tele- 
+communications carriers to collocate equipment and con- 
+nect such equipment to unbundled network transmission 
+elements obtained from the incumbent LEC, and shall 
+not require such telecommunications carriers to bring 
+their own transmission facilities to the incumbent LEC’s 
+premises in which they seek to collocate equipment. 
+
+
+(h) An incumbent LEC shall permit collocating tele- 
+communications carrier to interconnect its network with 
+
+
+306a 
+
+
+that of another collocating telecommunications carrier 
+at the incumbent LEC’s premises and to connect its 
+collocated equipment to the collocated equipment of 
+another telecommunications carrier within the same prem- 
+ises provided that the collocated equipment is also used 
+for interconnection with the incumbent LEC or for ac- 
+cess to the incumbent LEC’s unbundled network elements. 
+
+
+(1) An incumbent LEC shall provide the connection 
+between the equipment in the collocated spaces of two or 
+more telecommunications carriers, unless the incumbent 
+LEC permits one or more of the collocating parties to 
+provide this connection for themselves; and 
+
+
+(2) An incumbent LEC is not required to permit col- 
+locating telecommunications carriers to place their own 
+connecting transmission facilities within the incumbent 
+LEC’s premises outside of the actual physical collocation 
+space. 
+
+
+(i) An incumbent LEC may require reasonable secu- 
+rity arrangements to separate a collocating telecommuni- 
+catons carrier’s space from the incumbent LEC’s facilities. 
+
+
+(j) An incumbent LEC shall permit a collocating 
+telecommunications carrier to subcontract the construc- 
+tion of physical collocation arrangements with contractors 
+approved by the incumbent LEC, provided, however, that 
+the incumbent LEC shall not unreasonably withhold ap- 
+proval of contractors. Approval by an incumbent LEC 
+shall be based on the same criteria it uses in approving 
+contractors for its own purposes. 
+
+
+Subpart E—Exemptions, Suspensions, and Modifications 
+of Requirements of Section 251 of the Act. 
+§ 51.401 State authority. 
+
+
+A state commission shall determine whether a telephone 
+company is entitled, pursuant to section 251(f) of the 
+Act, to exemption from, or suspension or modification of, 
+
+
+307a 
+
+
+the requirements of section 251 of the Act. Such deter- 
+minations shall be made on a case-by-case basis. 
+
+
+§ 51.403 Carriers eligible for suspension or modification 
+under section 251(f)(2) of the Act. 
+
+
+A LEC is not eligible for a suspension or modification of 
+the requirements of section 251(b) or section 251(c) of 
+the Act pursuant to section 251(f)(2) of the Act if such 
+LEC, at the holding company level, has two percent or 
+more of the subscriber lines installed in the aggregate 
+nationwide. 
+
+
+§ 51.405 Burden of proof. 
+
+
+(a) Upon receipt of a bona fide request for intercon- 
+nection, services, or access to unbundled network ele- 
+ments, a rural telephone company must prove to the state 
+commisison that the rural telephone company should be 
+entitled, pursuant to section 251(f)(1) of the Act, to 
+continued exemption from the requirements of section 
+251(c) of the Act. 
+
+
+(b) A LEC with fewer than two percent of the na- 
+tion’s subscriber lines installed in the aggregate nation- 
+wide must prove to the state commission, pursuant to sec- 
+tion 251(f)(2) of the Act, that it is entitled to a suspen- 
+sion or modification of the application of a requirement 
+or requirements of section 251(b) or 251(c) of the Act. 
+
+
+(c) In order to justify continued exemption under sec- 
+tion 251(f)(1) of the Act once a bona fide request has 
+been made, an incumbent LEC must offer evidence that 
+the application of the requirements of section 251(c) of 
+the Act would be likely to cause undue economic burden 
+beyond the economic burden that is typically associated 
+with efficient competitive entry. 
+
+
+(d) In order to justify a suspension or modification 
+under section 251(f)(2) of the Act, a LEC must offer 
+evidence that the application of section 251(b) or sec- 
+tion 251(c) of the Act would be likely to cause undue 
+
+
+308a 
+
+
+economic burden beyond the economi: burden that is 
+typically associated with efficient competiive entry. 
+
+
+Subpart F—Pricing of Elements. 
+§ 51.501 Scope. 
+
+
+(a) The rules in this subpart apply to the pricing of 
+network elements, interconnection, and nethods of obtain- 
+ing access to unbundled elements, including physical col- 
+location and virtual collocation. 
+
+
+(b) As used in this subpart, the term “element” in- 
+cludes network elements, interconnections, and methods of 
+obtaining interconnection and access © unbundled ele- 
+ments. 
+
+
+§ 51.503 Genera! pricing standard. 
+
+
+(a) An incumbent LEC shall offe’ elements to re- 
+questing telecommunications carriers at rates, terms, and 
+conditions that are just, reasonable, and nondiscrimina- 
+
+
+tory. 
+(b) An incumbent LEC’s rates for each element it 
+offers shall comply with the rate structure rules set forth 
+
+
+in §§ 51.507 and 51.509 of this part, and shall be estab- 
+lished, at the election of the state commission— 
+
+
+(1) pursuant to the forwardiooking economic cost- 
+based pricing methodology se forth in §§ 51.505 and 
+51.511 of this part; or 
+
+
+(2) consistent with Me proxy ceilings and ranges set 
+forth in § 51.513 of ths part. 
+
+
+(c) The rates chat an incumbent LEC assesses for ele- 
+ments shall no’ vary on the basis of the class of customers 
+served by the requesting carrier, or on the type of ser- 
+vices that the requesting carrier purchasing such elements 
+uses them to provide. 
+
+
+309a 
+
+
+§ 51.505 Forward-looking economic cost. 
+
+
+(a) In general. The forward-looking economic cost of 
+an element equals the sum of: 
+
+
+(1) the total element long-run incremental cost of the 
+element, as described in paragraph (b); and 
+
+
+(2) a reasonable allocation of forward-looking com- 
+mon costs, as described in paragraph (c). 
+
+
+(b) Total element long-run incremental cost. The 
+total element long-run incremental cost of an element is 
+the forward-looking cost over the long run of the total 
+quantity of the facilities and functions that are directly 
+attributable to, or reasonably identifiable as incremental 
+to, such element, calculated taking as a given the incum- 
+bent LEC’s provision of other elements. 
+
+
+(1) Efficient network configuration. The total element 
+long-run incremental cost of an element should be mea- 
+sured based on the use of the most efficient telecommuni- 
+cations technology currently available and the lowest cost 
+network configuration, given the existing location of the 
+incumbent LEC’s wire centers. 
+
+
+(2) Forward-looking cost of capital. The forward- 
+looking cost of capital shall be used in calculating the 
+total element long-run incremental cost of an element. 
+
+
+(3) Depreciation rates. The depreciation rates used 
+in calculating forward-looking economic costs of elements 
+shall be economic depreciation rates. 
+
+
+(c) Reasonable allocation of forward-looking common 
+costs. 
+
+
+(1) Forward-looking common costs. Forward-looking 
+common costs are economic costs efficiently incurred in 
+providing a group of elements or services (which may in- 
+clude all elements or services provided by the incumbent 
+
+
+310a 
+
+
+LEC) that cannot be attributed directly to individual ele- 
+ments or services. 
+
+
+(2) Reasonable allocation. 
+
+
+(A) The sum of a reasonable allocation of forward- 
+looking common costs and the total element long-run in- 
+cremental cost of an element shall not exceed the stand- 
+alone costs associated with the element. In this context, 
+stand-alone costs are the total forward-looking costs, in- 
+cluding corporate costs, that would be incurred to pro- 
+duce a given element if that element were provided by an 
+efficient firm that produced nothing but the given ele- 
+ment. 
+
+
+(B) The sum of the allocation of forward-looking 
+common costs for all elements and services shall equal the 
+total forward-looking common costs, exclusive of retail 
+costs, attributable to operating the incumbent LEC’s total 
+network, so as to provide all the elements and services 
+offered. : 
+
+
+(d) Factors that may not be considered. The follow- 
+ing factors shall not be considered in a calculation of the 
+forward-looking economic cost of an element: 
+
+
+(1) Embedded costs. Embedded costs are the costs 
+that the incumbent LEC incurred in the past and that are 
+recorded in the incumbent LEC’s books of accounts. 
+
+
+(2) Retail costs. Retail costs include the costs of mar- 
+keting, billing, collection, and other costs associated with 
+offering retail telecommunications services to subscribers 
+who are not telecommunications carriers, described in 
+
+
+§ 51.609 of this part. 
+
+
+(3) Opportunity costs. Opportunity costs include the 
+revenues that the incumbent LEC would have received 
+for the sale of telecommunications services, in the ab- 
+sence of competition from telecommunications carrier that 
+purchase elements. 
+
+
+a ee re em ey 
+
+
+rT Ps 
+
+
+3lla 
+
+
+(4) Revenues to subsidize other services. Revenues to 
+subsidize other services include revenues associated with 
+elements or telecommunications service offerings other 
+than the element for which a rate is being established. 
+
+(e) Cost study requirements. An incumbent LEC 
+must prove to the state commission that the rates for each 
+element it offers do not exceed the forward-looking eco- 
+nomic cost per unit of providing the element, using a cost 
+study that complies with the methodology set forth in this 
+section and § 51.511 of this part. 
+
+
+(1) A state commission may set a rate outside the 
+proxy ranges or above the proxy ceilings described in 
+§ 51.513 of this part only if that commission has given 
+full and fair effect to the economic cost based pricing 
+methodology described in this section and § 51.511 of 
+this part in a state ing that meets the requirements 
+of paragraph (e)(2) of this section. 
+
+(2) Any state proceeding conducted pursuant to this 
+section shall provide notice and an opportunity for com- 
+ment to affected parties and shall result in the creation 
+of a written factual record that is sufficient for purposes 
+of review. The record of any State proceeding in which a 
+State commission considers a cost study for purposes of 
+establishing rates under this section shall include any such 
+cost study. 
+
+§ 51.507 General rate structure standard. 
+
+
+(a) Element rates shall be structured consistently with 
+the manner in which the costs of providing the elements 
+are incurred. 
+
+(b) The costs of dedicated facilities shall be recovered 
+through flat-rated charges. 
+
+(c) The costs of shared facilities shall be recovered in 
+a manner that efficiently apportions costs among users. 
+Costs of shared facilities may be apportioned either 
+through usage-sensitive charges or Capacity-based flat- 
+
+
+312a 
+
+
+rated charges, if the state commission finds that such rates 
+reasonably reflect the costs imposed by the various users. 
+
+
+(d) Recurring costs shall be recovered through recur- 
+ring charges, unless an incumbent LEC proves to a state 
+commission that such recurring costs are de minimis. Re- 
+curring costs shall be considered de minimis when the 
+costs of administering the recurring charge would be ex- 
+cessive in relation to the amount of the recurring costs. 
+
+
+(e) State commissions may, where reasonable, require 
+incumbent LECs to recover nonrecurring costs through 
+recurring charges over a reasonable period of time. Non- 
+recurring charges shall be allocated efficiently among re- 
+questing telecommunications carriers, and shall not per- 
+mit an incumbent LEC to recover more than the total 
+forward-looking economic cost of providing the applicable 
+element. 
+
+
+(f) State commissions shall establish different rates for 
+elements in at least three defined geographic areas within 
+the state to reflect geographic cost differences. 
+
+
+(1) To establish geographically-deaveraged rates, state 
+commissions may use existing density-related zone pric- 
+ing plans described in § 69.123 of this chapter, or other 
+such cost-related zone plans established pursuant to state 
+law. 
+
+
+(2) In states not using such existing plans, state com- 
+missions must create a minimum of three cost-related rate 
+zones. 
+
+
+§ 51.509 Rate structure standards for specific elements. 
+
+
+In addition to the general rules set forth in § 51.507 
+of this part, rates for specific elements shall comply with 
+the following rate structure rules. 
+
+
+(a) Local loops. Loop costs shall be recovered through 
+flat-rated charges. 
+
+
+(b) Local switching. Local switching costs shall be re- 
+covered through a combination of a flat-rated charge for 
+
+
+313a 
+
+
+line ports and one or more flat-rated or per-minute usage 
+charges for the switching matrix and for trunk ports. 
+
+
+; (c) Dedicated transmission links. Dedicated transmis- 
+rac Riongy costs shall be recovered through flat-rated 
+c " 
+
+
+(d) Shared transmission facilities between tandem 
+switches and end offices. The costs of shared transmission 
+facilities between tandem switches and end offices may be 
+recovered through usage-sensitive charges, or in another 
+manner consistent with the manner that the incumbent 
+LEC incurs those costs. 
+
+
+(¢) Tandem switching. Tandem switching costs may 
+be recovered through usage-sensitive charges, or in an- 
+other manner consistent with the manner that the incum- 
+bent LEC incurs those costs. 
+
+
+(f) Signaling and call-related database services. Sig- 
+naling and call-related database service costs shall be 
+usage-sensitive, based on either the number of queries or 
+the number of messages, with the exception of the dedi- 
+cated circuits known as signaling links ,the cost of which 
+shall be recovered through flat-rated charges. 
+
+
+(g) Collocation. Collocation costs shall be recovered 
+consistent with the rate structure policies established in 
+ss oa Interconnection proceeding, CC Docket 
+
+o. 91-141. . 
+
+
+§ 51.511 Forward-looking economic cost per unit. 
+
+
+(a) The forward-looking economic cost per unit of an 
+element equals the forward-looking economic cost of the 
+element, as defined in § 51.505 of this part, divided by a 
+reasonable projection of the sum of the total number of 
+units of the element that the incumbent LEC is likely to 
+provide to requesting telecommunications carriers and the 
+tetal number of units of the element that the incumbent 
+LEC is likely to use in offering its own services, during 
+a reasonable measuring period. 
+
+
+314a 
+
+
+(b)(1) With respect to elements that an incumbent 
+LEC offers on a flat-rate basis, the number of units is 
+defined as the discrete number of elements (¢.g., local 
+loops or local switch ports) that the incumbent LEC uses 
+
+
+or provides. 
+
+
+(2) With respect to elements that an incumbent LEC 
+offers on a usage-sensitive basis, the number of units is 
+defined as the unit of measurement of the usage (e. g., 
+minutes of use or call-related database queries) of the 
+element. 
+
+
+§ 51.513 Proxies for forward-looking economic cost. 
+
+
+(a) A state commission may determine that the cost 
+information available to it with respect to one or more 
+elements does not support the adoption of a rate or rates 
+that are consistent with the requirements set forth in 
+§§ 51.505 and 51.511 of this part. In that event, the state 
+commission may establish a rate for an element that is 
+consistent with the proxies specified in this section, pro- 
+vided that: 
+
+(1) any rate established through use of such proxies 
+shall be superseded once the state commission has com- 
+pleted review of a cost study that complies with the for- 
+ward-looking economic cost based pricing methodology 
+described in §§ 51.505 and 51.511 of this part, and has 
+concluded that such study is a reasonable basis for estab- 
+lishing element sates; and 
+
+
+(2) the state commission sets forth in writing a reason- 
+able basis for its selection of a particular rate for the 
+element. 
+
+
+(b) The constraints on proxy-based rates described in 
+this section apply on a geographically averaged basis. For 
+purposes of determining whether geographically deaver- 
+aged rates for elements comply with the provisions of this 
+section, a geographically averaged proxy-based rate shall 
+be computed based on the weighted average of the actual, 
+
+
+ers 
+
+
+oe =e 
+
+
+315a 
+
+
+geographically deaveraged rates that apply in separate 
+geographic areas in a state. 
+
+
+(c) Proxies for specific elements. 
+
+
+(1) Local loops. For each state listed below, the proxy- 
+based monthly rate for unbundied local loops, on a state- 
+wide weighted average basis, shall be no greater than the 
+figures listed in the table below. (The Commission has 
+yr — a default proxy ceiling for loop rates in 
+
+a). 
+
+
+TABLE A 
+
+Proxy State Proxy 
+State Ceiling Ceiling 
+Alabama $17.25 Nebraska $18.05 
+Arizona $12.85 Nevada $18.95 
+Arkansas $21.18 New Hampshire $16.00 
+California $11.10 New Jersey $12.47 
+Colorado $14.97 New Mexico $18.66 
+Connecticut $13.23 New York $11.75 
+Delaware , $13.24 North Carolina $16.71 
+District of Columbia $10.81 North Dakota $25.36 
+Florida $13.68 Ohio $15.73 
+Georgia $16.09 Oklahoma $17.63 
+Hawaii $15.27 Oregon $15.44 
+Idaho $20.16 Pennsylvania $12.30 
+Illinois $13.12 Puerto Rico $12.47 
+Indiana $13.29 Rhode Island $11.48 
+Iowa $15.94 South Carolina $17.07 
+Kansas $19.85 South Dakota $25.33 
+Kentucky $16.70 Tennessee $17.41 
+Louisiana $16.98 Texas $15.49 
+Maine $18.69 Utah $15.12 
+Maryland $13.36 Vermont $20.13 
+Massachusetts $9.83 Virginia $14.13 
+Michigan $15.27 Washington $13.37 
+Minnesota $14.81 West Virginia $19.25 
+Mississippi $21.97 Wisconsin $15.94 
+Missouri $18.32 Wyoming $25.11 
+Montana $25.18 
+
+
+316a 
+
+
+(2) Local switching. The blended proxy-based rate for 
+unbundled local switching shall be no greater than 0.4 
+cents ($0.004) per minute, and no less than 0.2 cents 
+($0.002) per minute, except that, where a state commis- 
+sion has, before August 8, 1996, established a rate less 
+than or equal to 0.5 cents ($0.005) per minute, that rate 
+may be retained pending completion of a forward-looking 
+ecnomic cost study. The blended rate for unbundled local 
+switching shall be calculated as the sum of the following: 
+
+
+(A) the applicable flat-rated charges for subelements 
+associated with unbundled local switching, such as line 
+ports, divided by the projected average minutes of use 
+per flat-rated subelement; and 
+
+
+(B) the applicable usage-sensitive charges for subele- 
+ments associated with unbundled local switching, such as 
+switching and trunk ports. A weighted average of such 
+charges shall be used in appropriate circumstances, such 
+as when peak and off-peak charges are used. 
+
+
+(3) Dedicated transmission links. The proxy-based 
+rates for dedicated transmission links shall be no greater 
+than the incumbent LEC’s tariffed interstate charges for 
+comparable entrance facilities or direct-trunked transport 
+offerings, as described in §§ 69.110 and 69.112 of this 
+chapter. 
+
+
+(4) Shared transmission facilities between tandem 
+switches and end offices. The proxy-based rates for shared 
+transmission facilities between tandem switches and end 
+offices shall be no greater than the weighted per-minute 
+equivalent of DS1 and DS3 interoffice dedicated transmis- 
+sion link rates that reflects the relative number of DS1 and 
+DS3 circuits used in the tandem to end office links (or a 
+surrogate based on the poportion of copper and fiber 
+facilities in the interoffice network), calculated using a 
+loading factor of 9,000 minutes per month per voice-grade 
+circuit, as described in § 69.112 of this chapter. 
+
+
+317a 
+
+
+(5) Tandem switching. The proxy-based rate for 
+tandem switching shall be no greater than 0.15 cents 
+($0.0015) per minute of use. 
+
+
+(6) Collocation. To the extent that the incumbent 
+LEC offers a comparable form of collocation in its inter- 
+state expanded interconnection tariffs, as described in 
+§§ 64.1401 and 69.121 of this chapter, the proxy-based 
+rates for collocation shall be no greater than the effective 
+rates for equivalent services in the interstate expanded 
+interconnection tariff. To the extent that the incumbent 
+LEC does not offer a comparable form of collocation in 
+its interstate expanded interconnection tariffs, a state com- 
+mission may, in its discretion, establish a proxy-based 
+rate, provided that the state commission sets forth in writ- 
+ing a reasonable basis for concluding that its rate would 
+approximate the result of a forward-looking economic cost 
+study, as described in § 51.505 of this part. 
+
+
+(7) Signaling, call-related database, and other elements. 
+To the extent that the incumbent LEC has established 
+rates for offerings comparable to other elements in its 
+interstate access tariffs, and has provided cost support for 
+those rates pursuant to § 61.49(h) of this chapter, the 
+proxy-based rates for those elements shall be no greater 
+that the effective rates for equivalent services in the inter- 
+State access tariffs. In other cases, the proxy-based rate 
+Shall be no greater than a rate based on direct costs plus 
+a reasonable allocation of overhead loadings, pursuant to 
+§ 61.49(h) of this chapter. 
+
+
+§ 51.515 Application of access charges. 
+
+
+(a) Neither the interstate access charges described in 
+part 69 nor comparable intrastate access charges shall be 
+assessed by an incumbent LEC on purchasers of elements 
+that offer telephone exchange or exchange access services. 
+
+
+(b) Notwithstanding §§ 51.505, 51.511, and 51.513 
+(d) (2) of this part and paragraph (a) of this section, an 
+incumbent LEC may assess upon telecommunications car- 
+
+
+318a 
+
+
+riers that purchase unbundled local switching elements, as 
+described in § 51.319(c)(1) of this part, for interstate 
+minutes of use traversing such unbundled local switching 
+elements, the carrier common line charge described in 
+§ 69.105 of this chapter, and a charge equal to 75% of 
+the interconnection charge described in § 69.124 of this 
+chapter, only until the earliest of the following, and not 
+thereafter: 
+
+
+(1) June 30, 1997; 
+
+
+(2) the later of the effective date of a final Commis- 
+sion decision in CC Docket No. 96-45, Federal-State Joint 
+Board on Universal Service, or the effective date of a 
+final Commission decision in a proceeding to consider re- 
+form of the interstate access charges described in part 69; 
+or 
+
+
+(3) with respect to a Bell operating company only, 
+the date on which that company is authorized to offer in- 
+region interLATA service in a state pursuant to section 
+271 of the Act. The end date for Bell operating com- 
+panies that are authorized to offer interLATA service 
+shall apply only to the recovery of access charges in those 
+states in which the Bell operating company is authorized 
+to offer such service. 
+
+
+(c) Notwithstanding §§ 51.505, 51.511 and 51.513 
+(d)(2) of this part and paragraph (a) of this section, an 
+incumbent LEC may assess upon telecommunications car- 
+riers that purchase unbundled local switching elements, as 
+described in § 51.319(c)(1) of this part, for intrastate 
+toll minutes of use traversing such unbundled local switch- 
+ing elements, intrastate access charges comparable to those 
+listed in paragraph (b) and any explicit intrastate uni- 
+versal service mechanism based on access charges, only 
+until the earliest of the following, and not thereafter: 
+
+
+(1) June 30, 1997; 
+
+
+(2) the effective date of a state commission decision 
+that an incumbent LEC may not assess such charges; or 
+
+
+319a 
+
+
+(3} with respect to a Bell operating company only, the 
+date on which that company is authorized to offer in- 
+region interLATA service in the state pursuant to section 
+271 of the Act. The end date for Bell operating com- 
+panies that are authorized to offer innerLATA service 
+shall apply only to the recovery of access charges in those 
+states in which the Bell operating company is authorized 
+to offer such service. 
+
+
+Subpart G—Resale. 
+§ 51.601 Scope of resale rules. 
+
+
+The provisions of this subpart govern the terms and 
+conditions under which LECs offer telecommunications 
+
+
+services to requesting telecommunications carries for re- 
+sale. 
+
+
+§ 51.603 Resale obligation of all local exchange carriers. 
+
+
+(a) A LEC shall make its telecommunications services 
+available for resale to requesting telecommunications car- 
+riers on terms and conditions that are reasonable and non- 
+discriminatory. 
+
+
+(b) A LEC must provide services to requesting tele- 
+communications carriers for resale that are equal in qual- 
+ity, subject to the same conditions, and provided within 
+the same provisioning time intervals that the LEC pro- 
+vides these services to others, including end users. 
+
+
+$ 51.605 Additional obligations of incumbent local ex- 
+change carriers. 
+
+
+(a) An incumbent LEC shall offer to any requesting 
+telecommunications carrier any telecommunications serv- 
+ice that the incumbent LEC offers on a retail basis to 
+subscribers that are not telecommunications carriers for 
+resale at wholesale rates that are at the election of the 
+state commission— 
+
+
+(1) consistent with the avoided cost methodology de- 
+scribed in $§ 51.607 and 51.609 of this part; or 
+
+
+320a 
+
+
+(2) interim wholesale rates, pursuant to § 51.611 of 
+this part, 
+
+
+(b) Except as provided in § 51.613 of this part, an 
+incumbent LEC shall not impose restrictions on the re- 
+sale by a requesting carrier of telecommunications services 
+offered by the incumbent LEC. 
+
+
+§ 51.607 Wholesale pricing standard. 
+
+
+(a) The wholesale rate that an incumbent LEC may 
+charge for a telecommunications service provided for re- 
+sale to other telecommunications carriers shall equal the 
+incumbent LEC’s existing retail rate for the telecommuni- 
+cations service, less avoided retail cots, as described in 
+§ 51.609 of this part. 
+
+
+(b) For purposes of this subpart, exchange access serv- 
+ices, as defined in section 3 of the Act, shall not be con- 
+sidered to be telecommunications services that incumbent 
+LECs must make available for resale at wholesale rates to 
+requesting telecommunications carriers. 
+
+
+§ 51.609 Determination of avoided retail costs. 
+
+
+(a) Except as provided in § 51.611 of this part, the 
+amount of avoided retail costs shall be determined on the 
+basis of a cost study that complies with the requirements 
+of this section. 
+
+
+(b) Avoided retail costs shall be those costs that rea- 
+sonably can be avoided when an incumbent LEC provides 
+a telecommunications service for resale at wholesale rates 
+to a requesting carrier. 
+
+
+(c) For incumbent LECs that are designated as Class 
+A companies under § 32.11 of this chapter, except as pro- 
+vided in paragraph (d), avoided retail costs shall: 
+
+
+(1) include, as direct costs, the costs recorded in USOA 
+accounts 6611 (product management), 6612 (sales), 
+6613 (product advertising), 6621 (call completion serv- 
+
+
+32la 
+
+
+ices), 6622 (number services), and 6623 (customer serv- 
+ices) (§§ 32.6611, 32.6612, 32.6613, 32.6622, and 
+32.6623); 
+
+
+(2) include, as indirect costs, a portion of the costs 
+recorded in USOA accounts 6121-6124 (general support 
+expenses), 6612, 6711, 6721-6728 (corporate operations 
+expenses) and 5301 (telecommunications uncollectibles) 
+($§ 32.6121-32.6124, 32.6612, 32.6711, 32.6721- 
+32.6728, and 32.5301); and 
+
+
+(3) not include plant-specific expenses and plant non- 
+specific expenses, other than general support expenses 
+($§ 32.6110-32.6116, 32.6210-32.6565). 
+
+
+(d) Costs included in accounts 6611-6613 and 6621- 
+6623 described in paragraph (c) (§§ 32.6611-32.6613 
+and 32.6621-32.6623) may be included in wholesale rates 
+only to the extent that the incumbent LEC proves to a 
+state commission that specific costs in these accounts will 
+be incurred and are not avoidable with respect to services 
+sold at wholesale, or that specific costs in these accounts 
+are not included in the retail prices of resold services. 
+Costs included in accounts 6110-6116 and 6210-6565 de- 
+scribed in paragraph (c) ($§ 32.6110-32.6116, 32.6210- 
+32.6565) may be treated as avoided retail costs, and ex- 
+cluded from wholesale rates, only to the extent that a 
+party proves to a state commission that specific costs in 
+these accounts can reasonably be avoided when an in- 
+cumbent LEC provides a telecommunications service for 
+resale to a requesting carrier. 
+
+
+(e) For incumbent LECs that are designated as Class 
+B companies under § 32.11 of this chapter and that record 
+information in summary accounts instead of specific 
+USOA accounts, the entire relevant summary accounts 
+may be used in lieu of the specific USOA accounts listed 
+in paragraphs (c) and (d). 
+
+
+§ 51.611 Interim wholesale rates. 
+
+
+(a) If a state commission cannot, based on the infor- 
+mation available to it, establish a wholesale rate using the 
+
+
+322a 
+
+
+methodology prescribed in § 51.609 of this part, then the 
+state commission may elect to establish an interim whole- 
+sale rate as described in paragraph (b) of this section. 
+
+
+(b) The state commission may establish interim whole- 
+sale rates that are at least 17 percent, and no more than 
+25 percent, below the incumbent LEC’s existing retail 
+rates, and shall articulate the basis for selecting a par- 
+ticular discount rate. The same discount percentage rate 
+shall be used to establish interim wholesale rates for each 
+telecommunications service. 
+
+
+(c) A state commission that establishes interim whole- 
+sale rates shall, within a reasonable period of time there- 
+after, establish wholesale rates on the basis of an avoided 
+retail cost study that complies with § 51.609 of this part. 
+
+
+$ 51.613 Restrictions on resale. 
+
+
+(a) Notwithstanding § 51.605(b) of this part, the fol- 
+lowing types of restrictions on resale may be imposed: 
+
+
+(1) Cross-class selling. A state commission may per- 
+mit an incumbent LEC to prohibit a requesting telecom- 
+munications carrier that purchases at wholesale rates for 
+resale, telecommunications services that the incumbent 
+LEC makes available only to residential customers or to 
+a limited class of residential customers, from offering such 
+services to classes of customers that are not eligible to 
+subscribe to such services from the incumbent LEC. 
+
+
+(2) Short term promotions. An incumbent LEC shall 
+apply the wholesale discount to the ordinary rate for a 
+retail service rather than a special promotional rate only if: 
+
+
+(A) such promotions involve rates that will be in effect 
+for no more than 90 days; and 
+
+
+(B) the incumbent LEC does not use such promotional 
+offerings to evade the wholesale rate obligation, for ex- 
+ample by making available a sequential series of 90-day 
+promotional rates. 
+
+
+323a 
+
+
+(b) With respect to any restrictions on resale not per- 
+mitted under paragraph (a), an incumbent LEC may 
+impose a restriction only if it proves to the state commis- 
+sion that the restriction is reasonable and nondiscrimatory. 
+
+(c) Branding. Where operator, call completion, or di- 
+rectory assistance service is part of the service or service 
+package an incumbent LEC offers for resale, failure by an 
+incumbent LEC to comply with reseller unbranding or re- 
+branding requests shall constitute a restriction on resale. 
+
+
+(1) An incumbent LEC may impose such a restriction 
+only if it proves to the state coramission that the restriction 
+is reasonable and nondiscriminatory, such as by proving 
+to a state commission that the incumbent LEC lacks the 
+capability to comply with unbranding or rebranding re- 
+quests. 
+
+
+(2) For purposes of this subpart, unbranding or re- 
+branding shall mean that operator, call completion, or di- 
+rectory assistance services are offered in such a manner 
+that an incumbent LEC’s brand name or other identifying 
+information is not identified to subscribers, or that such 
+services are offered in such a manner that identifies to 
+subscribers the requesting carrier's brand name or other 
+identifying information. 
+
+
+§$ 51.615 Withdrawal of services. 
+
+
+When an incumbent LEC makes a telecommunications 
+service available only to a limited group of customers that 
+have purchased such a service in the past, the incumbent 
+LEC must also make such a service available at whole- 
+sale rates to requesting carriers to offer on a resale basis 
+to the same limited group of customers that have pur- 
+chased such a service in the past. 
+
+
+§ 51.617 Assessment of end user common line charge on 
+resellers. 
+
+
+(a) Notwithstanding the provision in § 69.104(a) of 
+this chapter that the end user common line charge be 
+
+
+324a 
+
+
+assessed upon end users, an incumbent LEC shall assess 
+this charge, and the charge for changing the designated 
+primary interexchange carrier, upon requesting carriers 
+that purchase telephone exchange service for resale. The 
+specific end user common line charge to be assessed will 
+depend upon the identity of the end user served by the 
+requesting carrier. 
+
+
+(b) When an incumbent LEC provides telephone ex- 
+change service to a requesting carrier at wholesale rates 
+for resale, the incumbent LEC shall continue to assess 
+the interstate access charges provided in part 69, other 
+than the end user common line charge, upon interexchange 
+carriers that use the incumbent LEC’s facilities to provide 
+interstate or international telecommunications services to 
+the interexchange carriers’ subscribers. 
+
+
+Subpart H—Reciprocal Compensation for Transport and 
+Termination of Local Telecommunications Traffic 
+
+
+§ 51.701 Scope of transport and termination pricing rules. 
+
+
+(a) The provisions of this subpart apply to reciprocal 
+compensation for transport and termination of local tele- 
+communications traffic between LECs and other telecom- 
+munications carriers. 
+
+
+(b) Local telecommunications traffic. For purposes of 
+this subpart, local telecommunications traffic means: 
+
+
+(1) telecommunications traffic between a LEC and a 
+telecommunications carrier other than a CMRS provider 
+that originates and terminates within a local service area 
+established by the state commission; or 
+
+
+(2) telecommunications traffic between a LEC and a 
+CMRS provider that, at the beginning of the call, origi- 
+nates and terminates within the same Major Trading Area, 
+as defined in § 24.202(a) of this chapter. 
+
+
+325a 
+
+
+(c) Transport. For purposes of this subpart, transport 
+is the transmission of any necessary tandem switching 
+of local telecommunications traffic subject to section 251 
+(b)(5) of the Act from the interconnection point between 
+the two carriers to the terminating carrier's end office 
+swich that directly serves the called party, or equivalent 
+_—e by a carrier other than an incumbent 
+
+
+(d) Termination. For purposes of this subpart, termi- 
+nation is the switching of local telecommunications traffic 
+at the terminating carrier's end office switch, or equivalent 
+facility, and delivery of such traffic to the called party’s 
+premises. 
+
+
+(¢) Reciprocal compensation. For purposes of this sub- 
+part, a reciprocal compensation arrangement between two 
+carriers is one in which each of the two carriers receives 
+compensation from the other carrier for the transport and 
+termination on each carrier’s network facilities of local 
+telecommunications traffic that originates on the network 
+facilities of the other carrier. 
+
+
+§$ 51.703 Reciprocal compensation obligation to LECs. 
+
+
+(a) Each LEC shall establish reciprocal compensation 
+arrangements for transport and termination of local tele- 
+communications traffic with any requesting telecommuni- 
+cations carrier. 
+
+
+(b) A LEC may not assess charges on any other tele- 
+communications carrier for local telecommunications traffic 
+that originates on the LEC’s network. 
+
+
+§ 51.705 Incumbent LEC’s rates for transport and termi- 
+nation. 
+
+
+( a) An incumbent LEC’s rates for transport and termi- 
+nation of local telecommunications traffic shall be estab- 
+xr gay the election of the state commission, on the 
+
+is of: 
+
+
+326a 
+
+
+(1) the forward-looking economic costs of such offer- 
+ings, using a cost study pursuant to §§ 51.505 and 51.511 
+of this part; 
+
+(2) default proxies, as provided, in § 51.707 of this 
+part; or 
+
+(3) a bill-and-keep arrangement, as provided in § 51.713 
+of this part. 
+
+
+(b) In cases where both carriers in a reciprocal com- 
+pensation arrangement are incumbent LECs, state com- 
+missions shall establish the rates of the smaller carrier on 
+the basis of the larger carrier's forward-looking costs, 
+pursuant to § 51.711 of this part. 
+
+
+$ 51.707 Default proxies for incumbent LEC’s transport 
+and termination rates. 
+
+
+(a) A state commission may determine that the cost 
+information available to it with respect to transport and 
+termination of local telecommunications traffic does not 
+support the adoption of a rate or rates for an incumbent 
+LEC that are consistent with the requirements of §§ 51. 
+505 and 51.511 of this part. In that event, the state 
+commission may establish rates for transport and termina- 
+tion of local telecommunications traffic, or for specific 
+components included therein, that are consistent with the 
+proxies specified in this section, provided that: 
+
+
+(1) any rate established through use of such proxies is 
+superseded once that state commission establishes rates for 
+transport and termination pursuant to §§ 51.705(a)(1) 
+or 51.705(a)(3) of this part; and 
+
+
+(2) the state commission sets forth in writing a rea- 
+sonable basis for its selection of a particular proxy for 
+transport and termination of local telecommunications 
+traffic, or for specific components included within trans- 
+port and termination. 
+
+
+(b) If a state commission establishes rates for trans- 
+port and termination of local telecommunications traffic 
+
+
+327a 
+
+
+on the basis of default proxies, such rates must meet the 
+following requirements: 
+
+(1) Termination. The incumbent LEC’s rates for the 
+termination of local telecommunications traffic shall be no 
+greater than 0.4 cents ($0.004) per minute, and no less 
+than 0.2 cents ($0.002) per minute, except that, if a state 
+commission has, before August 8, 1996, established a 
+rate less than or equal to 0.5 cents ($0.005) per minute 
+for such calls, that rate may be retained pending com- 
+pletion of a forward-loking economic cost study. 
+
+(2) Transport. The incumbent LEC’s rates for the 
+transport of local telecommunications traffic, under this 
+section, shall comply with the proxies described in 
+§ 51.513(d)(3), (4), and (5) of this part that apply 
+to the analogous unbundled network elements used in 
+transporting a call to the end office that serves the called 
+party. 
+
+
+§51.70 Rate structure for transport and termination. 
+
+
+(a) In state proceedings, a state commission shall es- 
+tablish rates for the transport and termination of local 
+telecommunications traffic that are structured consistently 
+with the manner that carriers incur those costs, and con- 
+sistently with the principles in §§ 51.507 and 51.509 of 
+this part. 
+
+(b) the rate of a carrier providing transmission facili- 
+ties dedicated to the transmission of traffic between two 
+carriers’ networks shall recover only the costs of the pro- 
+portion of that trunk capacity used by an interconnecting 
+carrier to send traffic that will terminate on the providing 
+carrier's network. Such proportions may be measured 
+
+
+during peak periods. 
+§ 51.711 Symmetrica! reciprocal compensation. 
+
+
+(a) Rates for transport and termination of local tele- 
+communications traffic shall be symmetrical, except as 
+provided in paragraphs (b) and (c). 
+
+
+328a 
+
+
+(1) For purposes of this subpart, symmetrical rates 
+are rates that a carrier other than an incumbent LEC as- 
+Sesses upon an incumbent LEC for transport and termina- 
+tion of local telecommunications traffic equal to those that 
+the incumbent LEC assesses upon the other carrier for the 
+same services. 
+
+(2) In cases where both parties are incumbent LECs, 
+or neither party is an incumbent LEC, a state commission 
+shall establish the symmetrical rates for transport and 
+
+
+termination based on the larger carrier's forward-looking 
+costs. 
+
+
+(3) Where the switch of a carrier other than an in- 
+cumbent LEC serves a geographic area comparaile to 
+the area served by the incumbent LEC’s tandem switch, 
+the appropriate rate for the carrier other than an incum- 
+
+
+bent LEC is the incumbent LEC’s tandem interconnection 
+rate. 
+
+
+(b) A state commission may establish asymmetrical 
+rates for transport and termination of local telecommuni- 
+cations traffic only if the carrier other than the incumbent 
+LEC (or the smaller of two incumbent LECs) proves to 
+the state commission on the basis of a cost study using 
+the forward-looking economic cost based pricing method- 
+ology described in §§ 51.505 and 51.511 of this part, 
+that the forward-looking costs for a network efficiently 
+configured and operated by the carrisr other than the in- 
+cumbent LEC (or the smaller of two incumbent LECs), 
+exceed the costs incurred by the incumbent LEC (or the 
+larger incumbent LEC), and, consequently, that such 
+that a higher rate is justified. 
+
+
+(c) Pending further proceedings before the Commis- 
+sion, a state commission shall establish the rates that li- 
+censees in the Paging and Radiotelephone Service (de- 
+fined in part 22, subpart E of this chapter), Narrowband 
+Personal Communications Services (defined in part 24, 
+subpart D of this chapter), and Paging Operations in the 
+Private Land Mobile Radio Services (defined in part 90, 
+
+
+329a 
+subpart P of this chapter) may assess upon other carriers 
+for the transport and termination of local telecommuni- 
+cations traffic on the forward-looking costs that 
+
+
+(a) For purposes of this subpart, bill-and-keep arrange- 
+ments are those in which neither of the two interconnect- 
+ing carriers charges the other for the termination of local 
+
+
+(b) A state commission may impose bill-and-keep ar- 
+rangements if the state commission determines that the 
+amount of local telecommunications traffic from one net- 
+work to the other is roughly balanced with the amount of 
+local telecommunications traffic flowing in the opposite 
+direction, and is expected to remain so, and no 
+has been made pursuant to § 51.711(b) of this part. 
+
+
+(c) Nothing in this section precludes a state commis- 
+sion from presuming that the amount of local telecommu- 
+nications traffic from one network to the other is roughly 
+balanced with the amount of local telecommunications 
+traffic flowing in the opposite direction and is expected to 
+remain so, unless a party rebuts such a presumption. 
+
+
+§$51.715 Interim transport and termination pricing. 
+
+
+(a) Upon request from a telecommunications carrier 
+without an existing interconnection arrangement with an 
+incumbent LEC, the incumbent LEC shall provide trans- 
+port and termination of local telecommunications traffic 
+immediately under an interim arrangement, pending reso- 
+lution of negotiation or arbitration regarding transport 
+
+
+330a 
+
+
+and termination rates and approval of such rates by a 
+state commission under sections 251 and 252 of the Act. 
+
+
+(1) This requirement shall not apply when the re- 
+questing carrier has an existing interconnection arrange- 
+ment that provides for the transport and termination of 
+local telecommunications traffic by the incumbent LEC. 
+
+
+(2) A telecommunications carrier may take advantage 
+of such an interim arrangement only after it has requested 
+negotiation with the incumbent LEC pursuant to § 51.301 
+of this part. 
+
+
+(b) Upon receipt of a request as described in para- 
+graph (a), an incumbent LEC must, without unreason- 
+able delay, establish an interim arrangement for transport 
+and termination of local telecommunications traffic at 
+symmetrical rates. 
+
+
+(1) In a state in which the state commission has estab- 
+lished transport and termination rates based on forward- 
+looking economic cost studies, an incumbent LEC shall use 
+these state-determined rates as interim transport and ter- 
+mination rates. 
+
+
+(2) In a state in which the state commission has es- 
+tablished transport and termination rates consistent with 
+the default price ranges and ceilings described in § 51.707 
+of this part, an incumbent LEC shall use these state- 
+determined rates as interim rates. 
+
+
+(3) In a state in which the state commission has 
+neither established transport and termination rates based 
+on forward-looking economic cost studies nor established 
+transport and termination rates consistent with the de- 
+fault price ranges described in § 51.707 of this part, an 
+incumbent LEC shall set interim transport and termina- 
+tion rates at the default ceilings for end-office switching 
+(0.4 cents per minute of use), tandem switching (0.15 
+cents per minute of use), and transport (as described in 
+§ 51.707(b) (2) of this part). 
+
+
+33la 
+
+
+(c) An interim arrangement shall cease to de in effect 
+when one of the following occurs with respect to rates for 
+transport and termination of local telecommunications 
+traffic subject to the interim arrangement: 
+
+
+(1) a voluntary agreement has been negotiated and ap- 
+proved by a state commission; 
+
+
+(2) an agreement has been arbitrated and approved 
+by a state commission; or 
+
+
+(3) the period for requesting arbitration has passed 
+with no such request. 
+
+
+(d) If the rates for transport and termination of local 
+telecommunications traffic in an interim arrangement differ 
+from the rates established by a state commission pursuant 
+to §$ 51.705 of this part, the state comr is ion shall re- 
+quire carriers to make adjustments to past compensation. 
+Such adjustments to past compensation shall allow each 
+carrier to receive the level of compensation it would have 
+received had the rates in the interim arrangement equalled 
+the rates later established by the state commission pur- 
+suant to § 51.705 of this part. 
+
+
+§ 51.717 Renegotiation of existing non-reciprocal ar- 
+rangements. 
+
+
+(a) Any CMRS provider that operates under an ar- 
+rangement with an incumbent LEC that was established 
+before August 8, 1996 and that provides for non-recipro- 
+cal compensation for transport and termination of local 
+telecommunications traffic is entitled to renegotiate these 
+arrangements with no termination liability or other con- 
+tract penalties. 
+
+
+(b) From the date that a CMRS provider makes a 
+request under paragraph (a) until a new agreement has 
+been either arbitrated or negotiated and has been ap- 
+proved by a state commission, the CMRS provider shall 
+be entitled to assess upon the incumbent LEC the same 
+rates for the transport and termination of local telecom- 
+
+
+332a 
+
+
+munications traffic that the incumbent LEC assesses upon 
+the CMRS provider pursuant to the pre-existing arrange- 
+ment. 
+
+
+Subpart I—Procedures for Implementation of Section 252 
+of the Act. 
+
+
+§ 51.801 Commission action upon a state commission’s 
+failure to act to carry out its responsibility 
+under section 252 of the Act. 
+
+
+(a) If a state commission fails to act to carry out its 
+responsibility under section 252 of the Act in any proceed- 
+ing or other matter under section 252 of the Act, the 
+Commission shall issue an order preempting the state 
+commission’s jurisdiction of that proceeding or matter 
+within 90 days after being notified (or taking notice) of 
+such failure, and shall assume the responsibility of the 
+State commission under section 252 of the Act with re- 
+spect to the proceeding or matter and shall act for the 
+State commission. 
+
+
+(b) For purposes of this part, a state commission fails 
+to act if the state commission fails to respond, within a 
+reasonable time, to a request for mediation, as provided 
+for in section 252(a)(2) of the Act, or for a request for 
+arbitration, as provided for in section 252(b) of the Act, 
+or fails to complete an arbitration within the time limits 
+established in section 252(b)(4)(C) of the Act. 
+
+
+(c) A state shall not be deemed to have failed to act 
+for purposes of section 252(e)(5) of the Act if an agree- 
+ment is deemed approved under section 252(e)(4) of 
+the Act. 
+
+
+§ 51.803 Procedures for Commission notification of a 
+state commission’s failure to act. 
+
+
+(a) Any party seeking preemption of a state commis- 
+sion’s jurisdiction, based on the state commission’s failure 
+to act, shall notify the Commission in accordance with 
+following procedures: 
+
+
+333a 
+
+
+(1) such party shall file with the Secretary of the Com- 
+mission a petition, supported by an affidavit, that states 
+with specificity the basis for the petition and any infor- 
+mation that supports the claim that the state has failed 
+to act, including, but not limited to, the applicable pro- 
+visions of the Act and the factual circumstances support- 
+ing a finding that the state commission has failed to act; 
+
+
+(2) such party shall ensure that the state commission 
+and the other parties to the proceeding or matter for 
+which preemption is sought are served with the petition 
+required in paragraph (a)(1) of this section on the same 
+date that the petitioning party serves the petition on the 
+Commission; and 
+
+(3) within fifteen days from the date of service of the 
+petition required in paragraph (a)(1) of this section, the 
+applicable state commission and parties to the proceeding 
+may file with the Commission a response to the petition. 
+
+
+(b) The party seeking preemption must prove that the 
+state has failed to act to carry out its responsibilities 
+under section 252 of the Act. 
+
+
+(c) The Commission, pursuant to section 252(e)(5) 
+of the Act, may take notice upon its own motion that a 
+state commission has failed to act. In such a case, the 
+Commission shall issue a public notice that the Commis- 
+sion has taken notice of a state commission’s failure to 
+act. The applicable state commission and the parties to 
+a proceeding or matter in which the Commission has 
+taken notice of the state commission’s failure to act may 
+file, within fifteen days of the issuance of the public no- 
+tice, comments on whether the Commission is required to 
+assume the responsibility of the state commission under 
+section 252 of the Act with respect to the proceeding or 
+matter. 
+
+
+(d) The Commission shall issue an order determining 
+whether it is required to preempt the state commission’s 
+jurisdiction of a proceeding or matter within 90 days 
+
+
+334a 
+
+
+after being notified under paragraph (a) of this section 
+or taking notice under paragraph (c) of this section of a 
+state commission’s failure to carry out its responsibilities 
+under section 252 of the Act. 
+
+
+§ 51.805 The Commission’s authority over proceedings 
+and matters. 
+
+
+(a) If the Commission assumes responsibility for a 
+proceeding or matter pursuant to section 252(e)(5) of 
+the Act, the Commission shall retain jurisdiction over 
+such proceeding or matter. At a minimum, the Commis- 
+sion shall approve or reject any interconnection agree- 
+ment adopted by negotiation, mediation or arbitration for 
+which the Commission, pursuant to section 252(e)(5) of 
+the Act, has assumed the state’s commission’s responsi- 
+bilities. 
+
+(b) Agreements reached pursuant to mediation or ar- 
+bitration by the Commission pursuant to section 252 
+(e)(5) of the Act are not required to be submitted to 
+the state commission for approval or rejection. 
+
+
+§ 51.807 Arbitration and mediation of agreements by 
+
+
+the Commission pursuant to section 252(e)(5) 
+of the Act. 
+
+
+(a) The rules established in this section shall apply 
+only to instances in which the Commission assumes juris- 
+diction under section 252(e)(5) of the Act. 
+
+
+(b) When the Commission assumes responsibility for 
+a proceeding or matter pursuant to section 252(e)(5) of 
+the Act, it shall not be bound by state laws and standards 
+that would have applied to the state commission in such 
+proceeding or matter. 
+
+
+(c) In resolving, by arbitration under section 252(b) 
+of the Act, any open issues and in imposing conditions 
+upon the parties to the agreement, the Commission shall: 
+
+
+335a 
+
+
+(1) ensure that such resolution and conditions meet 
+the requirements of section 251 of the Act, including the 
+rules prescribed by the Commission pursuant to that sec- 
+tion; 
+
+(2) establish any rates for interconnection, services, or 
+network elements according to section 252(d) of the 
+Act, including the rules prescribed by the Commission 
+pursuant to that section; and 
+
+
+(3) provide a schedule for implementation of the 
+terms and conditions by the parties to the agreement. 
+
+
+(d) An arbitrator, acting pursuant to the Commission's 
+authority under section 252(e)(5) of the Act, shall use 
+final offer arbitration, except as otherwise provided in this 
+section: 
+
+
+(1) at the discretion of the arbitrator, final offer arbi- 
+tration may take the form of either entire package final 
+offer arbitration or issue-by-issue final offer arbitration. 
+
+
+(2) negotiations among the parties may continue, with 
+or without the assistance of the arbitrator, after final arbi- 
+tration offers are submitted. Parties may submit subse- 
+quent final offers following such negotiations. 
+
+
+(3) to provide an opportunity for final post-offer nego- 
+tiations, the arbitrator will not issue a decision for at least 
+fifteen days after submission to the arbitrator of the final 
+offers by the parties. 
+
+
+(e) Final offers submitted by the parties to the arbi- 
+trator shall be consistent with section 251 of the Act, 
+including the rules prescribed by the Commission pur- 
+suant to that section. 
+
+
+(f) Each final offer shall: 
+
+
+(1) meet the requirements of section 251, including 
+the rules prescribed by the Commission pursuant to that 
+section; 
+
+(2) establish rates for interconnection, services, or ac- 
+cess to unbundled network elements according to section 
+
+
+336a 
+
+
+252(d) of the Act, including the rules prescribed by the 
+Commission pursuant to that section; and 
+
+
+(3) provide a schedule for implementation of the 
+terms and conditions by the parties to the agreement. If 
+a final offer submitted by one or more parties fails to com- 
+ply with the requirements of this section, the arbitrator 
+has discretion to take steps designed to result in an arbi- 
+trated agreement that satisfies the requirements of section 
+252(c) of the Act, including requiring parties to submit 
+new final offers within a time frame specified by the arbi- 
+trator, or adopting a result not submitted by any party 
+that is consistent with the requirements of section 252(c) 
+of the Act, and the rules prescribed by the Commission 
+pursuant to that section. 
+
+
+(g) Participation in the arbitration proceeding will be 
+limited to the requesting telecommunications carrier and 
+the incumbent LEC, except that the Commission will con- 
+sider requests by third parties to file written pleadings. 
+
+
+(h) Absent mutual consent of the parties to change 
+any terms and conditions adopted by the arbitrator, the 
+decision of the arbitrator shall be binding on the parties. 
+
+
+§ 51.809 Availability of provisions of agreements to 
+other telecommunications carriers under section 
+252(i) of the Act. 
+
+
+(a) An incumbent LEC shall make available without 
+unreasonable relay to any requesting telecommunications 
+carrier any individual interconnection, service, or network 
+element arrangement contained in any agreement to which 
+it is a party that is approved by a state commission pur- 
+suant to section 252 of the Aci, upon the same rates, 
+terms, and conditions as those provided in the agreement. 
+An incumbent LEC may not limit the availability of any 
+individual interconnection, service, or network element 
+only to those requesting carriers serving a comparable class 
+of subscribers or providing the same service (i.e., local 
+access, or interexchange) as the original party to the 
+agreement. 
+
+
+337a 
+
+
+(b) The obligations of paragraph (a) of this section 
+shall not apply where the incumbent LEC proves to the 
+state commission that: 
+
+(1) the costs of providing a particular interconnection, 
+service, or element to the requesting telecommunications 
+carrier are greater than the costs of providing it to the 
+telecommunications carrier that originally negotiated the 
+agreement, or 
+
+
+(2) the provision of a particular interconnection, ser- 
+vice, or element to the requesting carrier is not technically 
+feasible. 
+
+(c) Individual interconnection, service, or network ele- 
+ment arrangements shall remain available for use by tele- 
+communications carriers pursuant to this section for a rea- 
+sonable period of time after the approved agreement is 
+— for public inspection under section 252(f) of 
+
+
+14. Part 90 of Title 47 of the Code of Federal Regula- 
+tions (C.F.R.) is amended as follows: 
+
+
+PART 90—PRIVATE LAND MOBILE RADIO 
+SERVICES 
+
+
+15. The authority citation for Part 90 is revised to read 
+as follows: 
+
+
+AUTHORITY: Secs. 4, 251-2, 303, 309, and 332, 48 
+Stat. 1066, 1082, as amended; 47 U.S.C. 154, 251-2, 303, 
+309 and 332, unless otherwise noted. 
+
+
+16. Section 90.5 is amended by adding paragraph (k) 
+
+
+and renumbering the remaining paragraphs to read as 
+follows: 
+
+
+(k) Part 51 contains rules relating to interconnection. 
+(l)*** 
+(m) *** 
+
+
+338a 

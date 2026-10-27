@@ -1,0 +1,1553 @@
+f) 
+
+
+4 
+
+
+10 | ; 
+and 984564 
+
+
+FILED 
+
+
+tial? ° 
+' 796 
+
+
+Nos. 
+
+
+IN THE 
+Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1998 SUPREME COURT, U.S. 
+
+
+UNITED STATES DEPARTMENT OF COMMERCE, et ai., 
+Appellants, 
+v. 
+
+
+UNITED STATES HOUSE OF REPRESENTATIVES, ef ai., 
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the District of Columbia 
+
+
+WILLIAM J. CLINTON, ef ai., 
+Appellanis, 
+
+
+v. 
+MATTHEW GLAVIN, et ai., 
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the Eastern District of Virginia 
+
+
+REPLY BRIEF OF APPELLEES CITY OF LOS ANGELES, 
+ET AL. IN SUPPORT OF APPELLANTS 
+
+
+Of Counsel: BRIAN S. CURREY 
+THOMAS M. RIORDAN Counsel of Record 
+KAREN M. WAHLE C. DOUGLAS KRANWINKLE 
+ALFREDO BARRIOS RICHARD M. JONES 
+DERRICK F. COLEMAN O'MELVENY & MYERS LLP 
+ANDREA J. WORDEN 400 South Hope Street 
+JESS B. FROST Los Angeles, CA 90071 
+DAVID E. LEDERMAN (213) 430-6000 
+O'MELVENY & MYERS LLP 
+Counsel for Appellees 
+
+JAMES K. HAHN City of Los Angeles, et al. 
+
+City Attorney 
+JESSICA F. HEINZ 
+
+Assistant City Attorney 
+
+
+CITy OF LOS ANGELES 
+
+
+Additional counsel listed following signature e. 
+
+
+i 
+TABLE OF CONTENTS 
+Page 
+
+
+I. STATISTICAL SAMPLING WILL PRODUCE THE 
+MOST ACCURATE AND COST-EFFECTIVE 
+
+
+eo ly, | sr ee l 
+A. Using Statistical Sampling Increases the Accuracy 
+of Non-Response Follow-Up ........... l 
+
+
+B. Post-Enumeration Adjustments Using Integrated 
+Coverage Measurement (“ICM”) Will Produce 
+More Accurate Final Numbers .......... 4 
+1. ICM Is an Improved Method of Post-Enu- 
+
+meration Adjustment ............. 4 
+2. The Plaintiff-Appellees’ Attacks on the ICM 
+
+| I. is a GS atk we eo 0 6 
+
+| C. The ICM Must Be Used for Such Purposes as 
+
+| Redistricting and Allocation of Federal Funds, 
+
+Even if It Cannot be Used for Apportionment. 8 
+D. Statistical Sampling Is Not Prone to Manipulation 
+| NS, Sas cxkaceuee 11 
+
+
+II. SECTION 195 OF THE CENSUS ACT DOES NOT 
+PROHIBIT SAMPLING FOR APPORTIONMENT 13 
+
+A. The General/Specific Statutory Analysis of 
+
+Sections 141(a) and 195 Advocated by the House 
+and Glavin Renders Section 141(a) Meaningless 13 
+
+B. Changes in the Secretary’s Position on Section 
+
+195 Do Not Diminish the Deference Due to the 
+Secretary’s Interpretation of the Act ...... 16 
+
+
+III. THE PLAINTIFF-APPELLEES’ CONSTITUTION- 
+| AL ARGUMENTS ARE UNPERSUASIVE .... 17 
+A. Enumeration Just Means “Census.” ....... 17 
+
+
+TABLE OF CONTENTS (cont'd) 
+
+
+B. The Constitution Requires a Periodic Census 
+Rather than a Particular Method of Ascertaining 
+
+
+Page 
+
+
+the Population... .. 6... sees eee ees 
+
+
+C. The Framers Were Not Nor Could Not Be 
+
+
+Opposed to Statistical Sampling .....-...- 
+
+
+IV. CONCLUSION 
+
+
+17 
+
+
+18 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Auer v. Robbins, 
+
+
+CO 
+
+
+D. Ginsberg & Sons, Inc. v. Popkin, 
+
+
+CD iis 6 645 6 00s 0s 
+
+
+Dept. of Commerce v. Montana, 
+
+
+EE ED ED bc cc weceesees 
+
+
+HCSC-Laundry v. United States 
+
+
+IT. 606 6 4 6 0006's 00 66 
+
+
+Martin v. Occupational Safety & Health 
+
+
+Review Comm'n, 499 U.S. 144 (1991) ... 
+
+
+Morales v. Transworld Airlines, Inc. 
+
+
+a POND bs bes csvcecces 
+
+
+National Wildlife Fed'n v. Browner, 
+
+
+127 F.3d 1126 (D.C. Cir. 1997) ........ 
+
+
+United States v. Giordano 
+
+
+ED + ecccdecescebes 
+
+
+Wesberry v. Sanders, 
+
+
+TD a. ne bbe bees cscs 
+
+
+Wisconsin v. City of New York, 
+
+
+i is. béWia ee 64 0990 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES (cont’d) 
+
+
+Page 
+Statutes 
+SUSE. 6 IGN on cccccccecoeuces 2, 13, 14 
+EER | ee 10, 13, 14, 16 
+, Pia ee, | ee rs ve ck 15 
+U.S. Constitution 
+an, £OZB 2S scncvoctevtecwbasesanteus 18 
+Miscellaneous 
+
+
+1 Records of the Federal Convention of 1787 (Max Farrand, 
+of. TeeEe ack cd-coededénenesee eeuaanyen 17 
+
+
+Counting People in the Information Age, Panel to Evaluate 
+Alternative Census Methods, Committee on National Statis- 
+tics, National Research Council (D. Steffey and N. Brad- 
+ . ©... ares re. eee ee 6 
+
+
+Modernizing the U.S. Census, Panel on Census Requirements 
+in the Year 2000 and Beyond, Committee on National Statis- 
+tics, National Research Council (B. Edmonston and C. 
+
+
+Schultze, eds. 1995)... 0.0 ccc eeee twee ees 6 
+
+
+Nos. 98-404 and 98-564 
+
+
+REPLY BRIEF OF APPELLEES CITY OF LOS 
+ANGELES, ET AL. IN SUPPORT OF APPELLANTS 
+
+
+I. | STATISTICAL SAMPLING WILL PRODUCE 
+THE MOST ACCURATE AND COST- 
+EFFECTIVE CENSUS EVER TAKEN. 
+
+
+The House, Glavin-Appellees (collectively “Plaintiff- 
+Appellees”), and several amici argue that statistical sampling 
+will make the 2000 census less accurate than it would be 
+on the subject shows that using statistical sampling in the 
+2000 census will produce the most accurate and cost-effec- 
+tive census ever. 
+
+
+A. Using Statistical Sampling Increases the 
+
+
+“it is undisputed” that sampling for non-response follow-up 
+(“NRFU”) “decreases accuracy,” Brief of Appellees, Mat- 
+thew J. Glavin, et al. (“Glavin Br.”) at 3 (emphasis omit- 
+ted), and that “it is undisputed” that sampling during the 
+NRFU “is less accurate than a traditional enumeration would 
+be.” Jd. at 7. Not so.’ 
+
+
+2 
+
+
+Statisticians and other census experts agree that using 
+statistical sampling in the NRFU will increase the accuracy 
+of the 2000 census. The National Academy of Sciences’ 
+Pane! on Alternative Methodologies, the National Academy 
+of Sciences’ Panel on Requirements, the American Sociologi- 
+cal Association, and the Government Accounting Office all 
+support the use of sampling to improve accuracy. Joint 
+Appendix in No. 98-404 (“House J.A.”) at 53, 84 (The 
+United States Department of Commerce Bureau of Census, 
+Report to Congress — The Plan for Census 2000 (revised 
+and reissued August 1997) (“Census 2000")). As the 
+National Academy of Sciences’ Panel on Alternative Method- 
+ologies concluded: 
+
+
+[W]e do not believe that a Census of 
+acceptable accuracy and cost is possi- 
+ble without the use of sampling pro- 
+cedures, both for the [NRFU] and the 
+integrated coverage measurement.... 
+
+
+Id. at 89-90. 
+
+Using statistical sampling in the NRFU increases its 
+accuracy in at least three ways. First, the object of the 
+census is to determine how many people live in each area as 
+of a single day: April 1, also known as the “decennial 
+census date.” 13 U.S.C. § 141(a). Because people con- 
+stantly move from one area to another, the farther away in 
+
+
+“undisputed” when they moved for summary judgment, but 
+instead had themselves failed to dispute this fact: “([s}tatistical 
+ever.” City of Los Angeles, et al., Statement of Genuine Issues 
+Concerning “Material Facts” Included in Plaintiffs’ “Statement of 
+Undisputed Material Facts” at 19. 
+
+
+3 
+
+
+time from the census date the NRFU contact occurs, the 
+more likely it is to be erroneous. Indeed, for this reason the 
+NRFU was the “Achilles” heel of the 1990 Census.” House 
+J.A. at 362 (Declaration of Stephen Fienberg (“Fienberg 
+Decl.”) 4 12). “The further from the April 1 Census Day 
+errors increased.” Jd. The NRFU planned for the 2000 
+census requires enumerators to visit fewer non-responding 
+households. Thus, it will “reduce the time span over which 
+the follow-up is conducted, reducing errors caused by a 
+dynamic U.S. population.” Jd. at 363 (Fienberg Decl. 
+q 15). 
+
+
+Second, the more quickly the NRFU can be complet- 
+ed, the sooner the ICM can begin. “The longer the delay 
+between Census Day and the ICM, the more respondents are 
+likely to provide inconsistent responses (out of forgetfulness, 
+or because of the continuous turnover in housing units — 
+which affects approximately 150,000 housing units each 
+month).” Jd. at 89 (Census 2000). 
+
+
+Third, the Census Bureau will save about $400 
+million by not having to contact 10% of the non-responding 
+households. Jd. at 107-108 (Census 2000). It will use these 
+savings to hire more qualified enumerators and provide them 
+with better training. Jd. at 89. Armed with better enumera- 
+tors, the Census Bureau will obtain more accurate data and 
+achieve greater accuracy. Id. at 363 (Fienberg Decl. { 15). 
+
+Thus, the Glavin-Appellees’ complaint that statistical 
+sampling in the NRFU is “being done only to save time and 
+money,” Glavin Br. at 42, overlooks the fact that saving 
+time and money will increase census accuracy. See also id. 
+
+
+4 
+
+
+at 378-379 (Fienberg Decl. 4 44) (rebutting Glavin-Appel- 
+lees’ contention that their position is supported by the GAO). 
+
+
+B. Post-Enumeration Adjustments Using Inte- 
+grated Coverage Measurement (“ICM”) 
+Will Produce More Accurate Final Num- 
+bers. 
+
+
+1. ICM Is an Improved Method of 
+Post-Enumeration Adjustment. 
+
+
+The ICM will correct for the error in the initial count 
+of the population made through the mail campaign, door-to- 
+door follow-up, and the NRFU sampling. House J.A. at 92- 
+98 (Census 2000), 364-65 (Fienberg Decl. 41%). To 
+estimate the undercount, the ICM will employ dual system 
+estimation (“DSE”). Id. at 96-98 (Census 2000). DSF isa 
+well accepted, commonly used procedure. Jd. at 365 (Fien- 
+berg Decl. ¢ 18). The Court is familiar with it already. See 
+Wisconsin v. City of New York, 517 U.S. 1, 8-10 (1996). 
+DSE has been employed in the past two censuses to evaluate 
+data quality and has undergone substantial review and 
+improvement by the Census Bureau, with extensive input 
+from panels at the National Academy of Sciences and experts 
+in statistical methods. House J.A. at 365-368 (Fienberg 
+Decl. 44 21-23). 
+
+
+During the ICM, the Census Bureau will randomly 
+select a nationwide probability sample of 25,000 blocks (or 
+approximately 750,000 housing units). /d. at 94. Using 
+specially-trained enumerators, the Census Bureau will count 
+the households and household members in the sample blocks. 
+Id. at 95. Then, for each of the 25,000 sampled blocks, the 
+Census Bureau will use DSE to compare the results of the 
+first count of the population (through the mail campaign and 
+
+
+eens iia, 
+
+
+5 
+
+
+the NRFU) with the results of the second count of the 
+population (the ICM) for each of the sampled blocks. /d. at 
+96-98 (Census 2000), 366-77 (Fienberg Decl. 4 21). 
+Through this process, the Census Bureau will determine 
+which households and household members were erroneously 
+included or excluded in the first numbers. Jd. In the end, 
+the ICM will produce a set of improved, i.e., more accurate, 
+counts for the 25,000 blocks that will then be applied to 
+every block in the nation. /d. 
+
+
+In addition, the Census Bureau's use of DSE in the 
+ICM phase is sophisticated enough to account for differential 
+undercount rates, i.e., those rates that differ based on certain 
+demographic and geographic qualities of different blocks. 
+One would not expect the DSE estimate of the net under- 
+count rate for a block in the heart of Washington, D.C., for 
+example, to explain or reflect the net undercount in Langley, 
+Virginia. Accordingly, in selecting the ICM sample, the 
+Census Bureau starts with a list of all the blocks (or equiva- 
+lent-size rural units) in the United States, then groups blocks 
+into categories (or “strata”) according to both geography and 
+demographics, such as racial composition, proportion of 
+homeowners to renters, and average household size. Jd. at 
+94-96 (Census 2000), 372 (Fienberg Decl. 4 34). The 
+undercount for each stratum is determined by measuring the 
+undercount of a sample of blocks within the stratum by DSE. 
+Id. The undercount rate of these blocks is then applied to 
+the other blocks in that stratum. Jd. The final step in the 
+ICM consists of correcting the raw census count for each 
+stratum to take into account estimated omissions and erro- 
+neous additions to that stratum. /d. 
+
+
+6 
+
+
+2. The Plaintiff-Appellees’ Attacks on 
+the ICM Are Unfounded. 
+
+
+The House claims that because of the ICM, “hun- 
+dreds of thousands of people will be deleted from the census 
+totals, and millions of imagined people who were never 
+identified will be added.” Brief for the United States House 
+of Representatives (“House Br.”) at 4. The House has it 
+backwards. The ICM was developed precisely because 
+traditional methods of enumeration have resulted for decades 
+in tens of millions of people being erroneously added and 
+omitted. House J.A. at 375-77 (Fienberg Decl. 44 39, 41). 
+The 1990 Census, for example, erroneously added 11 million 
+persons and erroneously omitted 15 million persons. Id. 
+The ICM will rectify these errors. Absence of the ICM will 
+insure that millions of Americans — especially children, 
+renters, minorities, and the poor — will go uncounted. 
+
+
+The Glavin-Appellees also question the ICM’s 
+accuracy. They note that the ICM is based upon the 1990 
+Post-Enumeration Survey (“PES”), and that the Secretary 
+ultimately decided not to use the PES to adjust the 1990 
+census results. Glavin Br. at 4. They disparage the ICM 
+because the initial 1990 PES estimated undercount projection 
+had to be revised downward from 2.1% to 1.6%. Id. 
+
+
+This argument is very misleading. First, the 1990 
+PES successfully captured a large percentage of the under- 
+counted populations. See House J.A. at 367 (Fienberg Decl. 
+q 22): see also B. Edmonston and C. Schultze, eds., 
+Modernizing the U.S. Census, Panel on Census Requirements 
+in the Year 2000 and Beyond, Committee on National Statis- 
+tics, National Research Council (National Academy Press, 
+1995); D. Steffey and N. Bradburn, eds., Counting People 
+
+
+7 
+
+
+in the Information Age, Panel to Evaluate Alternative Census 
+Methods, Committee on National Statistics, National 
+Research Council (National Academy Press, 1994). 
+
+
+Second, the revision to the 1990 PES resulted, in 
+large part, from a computer error that had nothing to do with 
+the soundness of the method.? Computer errors, of course, 
+are not reserved for statistical sampling, but can occur in 
+other more traditional census processes. 
+
+
+Third, major improvements will make the ICM more 
+accurate than the 1990 PES. Most important, the sample 
+size of the ICM will be five times as large as it was in the 
+1990 PES.’ This significantly larger sample size “is large 
+enough, and sufficiently representative, to estimate popula- 
+tion totals for each state,” thus ensuring greater accuracy. 
+Id. at 94 (Census 2000). Another important difference is 
+that in the 1990 PES, the strata crossed state lines, while in 
+the 2000 Census ICM, separate strata will be established 
+within each state. In addition, the use of “strata” for each 
+State, not used in 1990, is also expected to produce greater 
+accuracy in the ICM. Jd. at 373 (Fienberg Decl. { 35). 
+
+
+* U.S. Dept. of Commerce, Bureau of Census, Report of the 
+Committee on Adjustment of Postcensal Estimates 15 (Aug. 7, 
+1992) (attached as Exhibit E of Memorandum in Support of 
+Motion of the City of Los Angeles, et al. to Intervene as Defen- 
+dants (Apr. 3, 1998)). 
+
+
+ms The 1990 PES gathered survey information from the 
+inhabitants of approximately 5,000 blocks across the nation and 
+the occupants of 150,000 households nationwide. The ICM, by 
+contrast, will select 25,000 blocks and ultimately obtain infor- 
+mation from the occupants of 750,000 housing units. House J.A. 
+at 94 (Census 2000). 
+
+
+8 
+
+
+The Glavin-Appellees also wrongly assert that the 
+ICM process is flawed because the Census Bureau has 
+already “assumed” in determining the ICM post-strata 
+blocks that some racial groups are “just as likely” to be 
+counted as others. Glavin Br. at 49. This is wrong for 
+several reasons. First, the strata that the Census Bureau will 
+use have not yet been determined. See House J.A. at 92-98 
+(Census 2000). Second, the strata will group persons 
+according to many characteristics, including, for example, 
+age, location, proportion of homeowners to renters, and 
+average household size — not just race. Id. at 94 (Census 
+2000), 372 (Fienberg Decl. 4 34). Finally, from a more 
+technical standpoint, the Census Bureau is not assuming that 
+certain persons have the same undercount rate as other per- 
+sons, but rather that the undercount rates for different groups 
+are closer to one another than either is to the national net 
+undercount.* 
+
+
+Cc. The ICM Must Be Used for Such Purposes 
+as Redistricting and Allocation of Federal 
+Funds, Even if It Cannot be Used for Ap- 
+
+
+portionment 
+Amici National Republican Legislators Association, 
+et al. (*NRLA”) claim it would be improper to use statisti- 
+cally adjusted census data for redistricting purposes because 
+
+
+* Apparently concerned that the post-strata might mix differ- 
+ent ethnic or religious groups with each other, Glavin-Appellees 
+worry that the Census Bureau is grouping “white Park Avenue 
+socialites” with “Arabs and Hasidic Jews.” Glavin Br. at 49, 
+n.49. As explained above, however, this grouping may be proper 
+since, for example, these groups may share similar 
+and geographic traits. House J.A. at 379 (Fienberg Decl. { 46). 
+
+
+9 
+
+
+of the error rates. See NRLA Brief at 24-27. Citing block- 
+level error rates from the 1995 test conducted by the Census 
+Bureau, it concludes — without analysis — that “[i]f the 
+lowest level data are suspect, equal population local repre- 
+sentation districts cannot be drawn from this data.” Jd. at 
+26. Although these suits only challenge the use of sampling 
+for reapportionment, not redistricting, NRLA’s wrongheaded 
+argument warrants a brief response. 
+
+
+The block-level error rate does not have any bearing 
+on the accuracy of the census figures used for drawing 
+congressional districts. House J.A. at 126-27 (Census 
+2000). “Calculations of average error for small blocks can 
+be misleading to those unfamiliar with these statistics.” Jd. 
+at 127; see id. at 123-126 (detailing why it is wrong to rely 
+on block-level error rates). Thus, the error rate, if any, that 
+is relevant to address the NRLA’s concern for accuracy 
+should be the error rate at the congressional district-level. 
+If sampling is used, the Census Bureau estimates that 
+average error rate will be only 0.6 percent, compared to an 
+average error rate of 1.9% without sampling. Jd. at 122 
+(Census 2000), 375-376 (Fienberg Decl. { 40). 
+
+
+Although NRLA does not appear to undersiand 
+Statistical analysis, and therefore draws incorrect conclu- 
+sions, its focus on redistricting highlights the need to require 
+Statistical sampling methods such as the ICM for such non- 
+apportionment purposes as redistricting and allocation of 
+fe.cial funds, even if the Court prohibits their use for 
+reapportionment. 
+
+As discussed in the Los Angeles-Appellees’ opening 
+brief at 46-49, because ICM and similar DSE methods would 
+improve the accuracy of population data used for Congres- 
+
+
+10 
+
+
+sional redistricting — and eliminate the differential under- 
+count of minorities and the poor — their use would advance 
+compliance with the requirement of Wesberry v. Sanders, 
+376 U.S. 1, 7-8 (1964), that “as nearly as practicable one 
+man’s vote in a congressional election is to be worth as 
+much as another’s.” And because the Secretary has deter- 
+mined that statistical sampling methods are feasible, their use 
+for non-apportionment purposes is required by 13 U.S.C. 
+§ 195.° 
+
+
+In short, if this Court prohibits statistical sampling 
+for apportionment purposes, its use will still be required for 
+other purposes. This will result in a “two number census,” 
+one unadjusted and inaccurate for apportionment, the other 
+
+
+‘> NRLA erroneously asserts that when Congress used “ap- 
+portionment” in section 195, it intended to include intrastate 
+redistricting in the term. NRLA Br. at 13-16. While it does not 
+— because it cannot — cite any legislative history to support this 
+departure from the statute’s plain meaning, the NRLA, instead, 
+cites numerous examples purportedly where the terms “apportion- 
+ment and redistricting [were used] synonymously.” Jd. at 14-15. 
+This Court, however, is not so confused about the difference 
+between redistricting and apportionment. Indeed, it has “found 
+this difference to be significant.” Wisconsin, 517 U.S. at 13; see 
+Dept. of Commerce v. Montana, 503 U.S. 442, 460 (1992). 
+Further, this Court has noted significant legal differences among 
+redistricting, apportionment, and the conduct of the census. 
+Wisconsin, 517 U.S. at 18 (“[I]t is difficult to see why or how 
+Wesberry would apply to the Federal Government’s conduct of the 
+census — a context even further removed from intrastate redistrict- 
+
+
+ing than is congressional apportionment.”). 
+
+
+11 
+
+
+adjusted and far more accurate for redistricting and other 
+purposes.° 
+
+
+D. Statistical Sampling Is Not Prone to Ma- 
+nipulation for Political Purposes. 
+
+
+The experts agree that statistical sampling will reduce 
+the opportunity for political manipulation of the census. 
+House J.A. at 128-132 (Census 2000). Since sampling has 
+known, objective properties, it is preferable to the uncon- 
+trolled human error that results from a reliance on only 
+traditional methods of enumeration. Jd. at 129. 
+
+
+| In addition, the Census Bureau has safeguards built 
+into its plan for the 2000 census. Jd. at 128-132. For in- 
+stance, the Bureau’s preparations for the 2000 census are 
+being scrutinized by several blue-ribbon panels of statistical 
+experts, including the 2000 Census Advisory Committee 
+(consisting of 30 different professional governmental and 
+non-governmental organizations), the Census Advisory 
+Committee of Professional Associations,’ and four different 
+census advisory committees concerned with particular racial 
+and ethnic populations. Jd. at 56-57. Any attempt by one 
+or more interest groups — inside or outside of the Bureau — 
+Pais: the census for political purposes is doomed to 
+
+
+* _ As noted in the Los Angeles-Appellees’ opening brief, a 
+“two number census” would be unlikely to include statistical 
+sampling in the NRFU, but would include the ICM. Los Angeles- 
+Appellees’ Opening Brief at 48. 
+
+
+"This organization consists of the American Statistical 
+Association, the Population Association of America, the American 
+Economic Association, and the American Marketing Association. 
+
+
+12 
+
+
+Nonetheless, the Plaintiff-Appellees and some amici 
+insist that the use of sampling will increase the risk of 
+manipulation of the census. See, e.g., House Br. 27, 48; 
+Glavin Br. at 26 n.26, 49; Foundation Br. at 22-26. For 
+instance, the Foundation claims “those charged with run- 
+ning” the 2000 census can manipulate the census figures 
+because statistical sampling is based upon a set of “arbitrary 
+assumptions.”* Foundation Br. at 23. The Foundation, 
+however, must admit that it has “no information” suggesting 
+that the Census Bureau’s staff will be coerced into manipu- 
+lating any of its assumptions. /d. at 22. 
+
+
+Despite this admission, the Foundation won’t let go. 
+Like children around a campfire, the Foundation spins 
+several scary stories that purportedly illustrate how the 2000 
+census could be manipulated. Like most such stories, they 
+are pure fiction. For example, the Foundation constructs a 
+hypothetical apparently designed to show that the ICM could 
+be manipulated by local governments that, purportedly, 
+“stand to reap huge rewards” by drumming up participation 
+during the ICM phase. Jd. at 28. The Foundation is way 
+off base. The adjustment factors resulting from the ICM are 
+not applied to the particular political subdivision where the 
+sampled ICM block is located. Rather, they are applied to 
+the block’s entire stratum. House J.A. at 97-98 (Census 
+2000). Since each stratum spans an entire state and compris- 
+es hundreds or thousands of blocks, id. at 94, no single local 
+
+
+* The Foundation ignores the fact that these assumptions are 
+based on two decades of research and empirical data and will be 
+“locked in” well in advance of the 2000 census. House J.A. at 
+132 (Census 2000). 
+
+
+13 
+
+
+government could conceivably reap any reward whatsoever 
+by manipulating the ICM in this manner. 
+
+
+fl. SECTION 195 OF THE CENSUS ACT DOES 
+NOT PROHIBIT SAMPLING FOR APPORTION- 
+
+
+The statutory arguments advanced by the House, 
+Glavin-Appellees, and their amici mirror those made below, 
+and were adequately refuted in the opening round of briefs. 
+Two modest points, however, are worthy of additional 
+response. 
+
+
+A. The General/Specific Statutory Analysis of 
+Sections 141(a) and 195 Advocated by the 
+House and Glavin Renders Section 141 (a) 
+
+
+Meaningless. 
+
+The Glavin-Appellees concede — as they must — that 
+“[s}tanding alone, [section 141(a)] would authorize the 
+Secretary to sample for all purposes encompassed in the 
+‘decennial census of the population,’ including determining 
+the population number to be used for congressional appor- 
+tionment.” Glavin Br. at 26. So far, so good. 
+
+
+ee They — along with the House and their collective 
+amici — then offer the construction of sections 141(a) and 
+195 shown in the table below: 
+
+
+Use of Sampling 
+
+
+14 
+
+
+§ 141 (a) 
+
+
+§ 195 
+
+
+Use of statistical 
+sampling for 
+
+
+apportionment 
+
+
+Secretary may 
+use it in his 
+discretion 
+
+
+Secretary may 
+not use it 
+
+
+Use of statistical 
+
+
+sampling for 
+
+
+Secretary may 
+use it in his 
+
+
+Secretary may 
+use it in his 
+discretion 
+
+
+other purposes discretion 
+
+
+Arguing that section 141(a) is “general” and section 195 is 
+“specific,” they conclude that section 195 controls. See 
+Glavin Br. at 29; House Br. at 29. 
+
+
+But this construction, of course, renders section 
+141(a) mere surplusage. On the issue of the use of statistical 
+sampling for apportionment, they say section 141(a) is 
+trumped by section 195. And on the issue of the use of 
+statistical sampling for all other purposes, they say the two 
+statutes mean the same thing. Perhaps in recognition of this 
+weakness, the House and Glavin-Appellees opine that section 
+141(a) really only contains “illustrative references to 
+sampling of no substantive support [reflecting] Congress’ 
+modest intentions,” and is nothing more than a little overlap- 
+ping coverage that can be permissibly ignored. See House 
+Br. at 30 & n.41; Glavin Br. at 40. 
+
+
+But the general/specific rule of construction is not 
+intended to completely read ihe “general” section out of 
+existence. Even the cases cited by the House and Glavin- 
+Appellees make this abundantly clear. House Br. at 29 & 
+n.40; Glavin Brief at 29 & n.30. For example, in Morales 
+v. Transworld Airlines, Inc., the Court found that a general 
+
+
+15 
+
+
+savings Clause should not be applied where a specific section 
+expressly dealing with preemption should be applied instead 
+to preempt state consumer protection laws. 504 U.S. 374, 
+384-85 (1992). While the general savings clause was not 
+applied, it still, however, had independent meaning that 
+would be applicable in other circumstances not subject to 
+preemption.” 
+
+“(T]he cardinal rule that, if possible, effect should be 
+given to every clause and part of a statute” would itself be 
+meaningless if the general/specific rule of construction could 
+be applied to render general provisions nullities when other 
+reasonable interpretations of the statute would save their 
+
+
+meaning. See D. Ginsberg & Sons, Inc. v. Popkin, 285 
+U.S. 204, 208 (1932). 
+
+
+* Likewise, in HCSC-Laundry v. United States, the Court 
+found a “general” provision, 26 U.S.C. § 501(c)(3), which defines 
+charitable institutions that are tax exempt, did not apply to a 
+laundry run by a non-profit hospital services organization (“HSO”) 
+because there was a specific statute that listed the types of HSOs 
+eligible for tax exempt status. 450 U.S. 1, 6 (1981). Nonethe- 
+less, section 501(c)(3) would — and clearly does — control in 
+other circumstances. Similarly, in United States v. Giordano, a 
+general statute regarding the U.S. Attorney General’s broad 
+delegation authority was trumped by a specific statute strictly 
+limiting that delegation authority when authorizing wiretaps. 416 
+U.S. 505, 512-14 (1974). The fact that the Attorney General did 
+not have the broad authority to delegate authorization for the wire- 
+taps, however, did not render the general statute superfluous. 
+
+
+16 
+
+
+B. Changes in the Secretary’s Position on 
+Section 195 Do Not Diminish the Deference 
+
+
+Due to the Secretary’s Interpretation of the 
+Act. 
+
+The Plaintiff-Appellees seem to place great weight on 
+the fact that the Secretary’s position on the legality and 
+constitutionality of the use of sampling for apportionment 
+purposes has evolved over the last few decades. See House 
+Br. at 24-27; Glavin Br. at 40-41 & n.38. Citing corre- 
+spondence and hearings transcripts — much of which was 
+not in the record below — the House attributes the Secre- 
+tary’s embrace of a purportedly “radical theory” for inter- 
+preting section 195 to the instant litigation. House Br. at 26 
+& n.36. This, according to the House, relieves the Court 
+from deferring under Chevron to the Secretary's interpreta- 
+tion of section 195. Jd. at n.36. 
+
+
+The House is wrong. This Court has upon rare 
+occasion found an agency’s reasonable interpretation of an 
+ambiguous federal law undeserving of deference. However, 
+it has only done so when the suspect interpretation is a 
+“‘post hoc rationalization’ advanced by an agency to defend 
+past agency action.” Auer v. Robbins, 117 S. Ct. 905, 912 
+(1997). Here, the Appellants are not defending past use of 
+sampling in the conduct of the census, so there is no past 
+agency action to be justified after the fact. Merely because 
+the “Secretary's interpretation comes to us in the form of a 
+legal brief . . . does not, in the circumstances of this case, 
+make it unworthy of deference.” IJd.; see Martin v. Occupa- 
+tional Safety & Health Review Comm’n, 499 U.S. 144, 156 
+(1991); see also National Wildlife Fed’n v. Browner, 127 
+F.3d 1126, 1129 (D.C. Cir. 1997) (“[DJeference to an 
+interpretation offered in the course of litigation is still proper 
+
+
+17 
+
+
+as long as it reflects the agency's fair and considered judg- 
+
+ment on the matter.”). Thus, under these circumstances, the 
+
+Appellants’ shift in position is wholly irrelevant. 
+
+Il. THE PLAINTIFF-APPELLEES’ CONSTITU- 
+TIONAL ARGUMENTS ARE UNPERSUASIVE. 
+
+
+A. Enumeration Just Means “Census.” 
+
+
+Buried within a footnote is a significant concession by 
+the House: “enumeration” is synonymous with “census.” 
+House Br. at 46, n.63. No one disputes that the Census 
+Bureau intends to conduct a census in the year 2000. The 
+constitutional issue, therefore, is a non-issue. 
+
+
+B. The Constitution Requires a Periodic Cen- 
+sus Rather than a Particular Method of 
+
+
+Ascertaining the Population. 
+
+
+Just as they did in the district court below, the 
+Plaintiff-Appellees continue to make “historical” arguments 
+that amount to little more than “junk history.” Once again 
+they erroneously contend that the “permanent & precise 
+standard” that the Framers sought requires a certain method 
+of conducting the census, when in fact, it had absolutely 
+nothing to do with census-taking methods. See Glavin Br. 
+7, 50; House Br. 44, 48-49."° 
+
+
+- The House has apparently recognized that they were on 
+shaky historical ground below. Rather than quoting the “perma- 
+nent & precise standard” language contained in the records of the 
+Federal Convention, see 1 Records of the Federal Convention of 
+1787 at 578 (Mason, July 11) (Max Farrand, ed. 1911), as they 
+did in the district court, they have substituted their own wording, 
+for example, “fixed, objective standard” (House Br. at 48) to 
+
+
+As noted in the Los Angeles-Appellees’ opening brief 
+at 38-44, the “permanent & precise standard” urged by 
+George Mason and ultimately adopted by the delegates was 
+a periodic census of the inhabitants of the states. Congress 
+was expressly given discretion to conduct the census “in 
+such Manner as they shall by Law direct.” U.S. Const. art. 
+
+
+I, § 2, cl. 3. 
+
+
+Cc. The Framers Were Not Nor Could Not Be 
+Opposed to Statistical Sampling. 
+
+
+The House makes the nebulous claim that Jefferson 
+was “familiar with estimation.” House Br. at 11. In the 
+district court, however, the House was a little bolder. It 
+claimed that Jefferson “was familiar with methods of statisti- 
+cal estimation.” Memorandum for Plaintiff United States 
+House of Representatives in Support of Its Motion tv. 
+Summary Judgment at 12 (Apr. 6, 1998). Its retreat is no 
+accident. 
+
+
+As the House learned in the district court, Jefferson 
+could not have used statistical estimation because it was not 
+yet available. House J.A. at 377 (Fienberg Decl. { 42). 
+Statistical estimation was probably first attempted by Pierre 
+Simon LaPlace in 1783, who used ratio estimation to 
+calculate France’s population. Jd. It was many years before 
+LaPlace’s idea would develop into the theory of statistical 
+estimation and 160 years before it would be used again ia a 
+census context. Jd. Jefferson could not have used probabii- 
+ity sampling methods because they were r~t developed for 
+another 120-130 years. Jd. When Jefferson “estimated” 
+Virginia’s population in 1782, he was making an educated 
+guess based on his limited information. Thus, the reason 
+why “no one suggested that Congress ‘augment’ the census 
+
+
+19 
+
+
+with statistical estimation,” House Br. at 49, in the Framers’ 
+day is because this method did not yet exist. 
+
+
+IV. CONCLUSION 
+
+
+For all the reasons stated above, the judgments of the 
+district courts should be reversed. 
+
+
+20 
+
+
+Respectfully submitted, 
+Dated: November 17, 1998 
+
+
+Of Counsel: 
+
+
+THOMAS M. RIORDAN 
+KAREN M. WAHLE 
+ALFREDO BARRIOS 
+
+DERRICK F. COLEMAN 
+ANDREA J. WORDEN 
+
+Jess B. FROST 
+
+DAVID E. LEDERMAN 
+O’MELVENY & MYERS LLP 
+
+
+Counsel for Appellees 
+City of Los Angeles, et. al. 
+
+
+JAMES K. HAHN 
+
+City Attorney 
+
+JESSICA F. HEINZ 
+
+Assistant City Attorney 
+
+Office of the City Attorney 
+for the City of Los Angeles 
+
+200 North Main Street 
+
+Los Angeles, CA 90012 
+
+(213) 485-5408 
+
+
+Counsel for Appellee 
+City of Los Angeles, California 
+
+
+BRIAN S. CURREY 
+
+Counsel of Record 
+C. DOUGLAS KRANWINKLE 
+RICHARD M. JONES 
+O’MELVENY & MYERS LLP 
+400 South Hope Street 
+Los Angeles, CA 90071 
+(213) 430-6000 
+
+
+Counsel for Appellees 
+City of Los Angeles, et al. 
+
+
+21 
+
+
+DAN MORALES 
+
+Attorney General of Texas 
+DANIEL T. TORREZ 
+
+Special Assistant Attorney General 
+209 West 14th Street 
+
+8th Floor 
+
+Austin, TX 78701 
+
+(512) 475-4410 
+
+
+Counsel for Appellee 
+State of Texas 
+
+
+MICHAEL D. HEss 
+Corporation Counsel 
+
+LORNA B. GOODMAN 
+
+DAVID B. GOLDIN 
+
+Assistant Corporation Counsels 
+100 Church Street 
+
+Room 3-165 
+
+New York, NY 10007 
+
+(212) 788-1008 
+
+
+Counsel for Appellee 
+City of New York, New York 
+
+
+LLOYD W. PELLMAN 
+
+County Counsel 
+
+MARY F. WAWRO 
+
+Senior Assistant County Counsel 
+DONOVAN M. MAIN 
+
+Senior Assistant County Counsel 
+MANUEL A. VALENZUELA 
+Principal Deputy County Counsel 
+500 West Temple Street 
+
+Los Angeles, CA 90012 
+
+(213) 974-1807 
+
+
+Counsel for Appellee 
+County of Los Angeles, California 
+
+
+BRIAN L. CROWE 
+
+Corporation Counsel 
+
+JULIA E. GETZELS 
+
+Director of Programs and Policy 
+ANDREW S. MINE 
+
+Assistant Corporation Counsel 
+Affirmative Litigation Division 
+30 North LaSalle Street 
+Chicago, IL 60602 
+
+(312) 744-6737/7220 
+
+
+Counsel for Appellee 
+City of Chicago, Illinois 
+
+
+LOUISE H. RENNE 
+
+City Attorney 
+
+JENNIFER H. SMALL 
+
+Special Assistant for 
+Government Litigation 
+
+Buck E. DELVENTHAL 
+
+Deputy City Attorney 
+
+MARIO KASHOU 
+
+Deputy City Attorney 
+
+1390 Market Street 
+
+5th Floor 
+
+San Francisco, CA 94102 
+
+(415) 554-4283 
+
+
+Counsel for Appellee 
+City and County of 
+
+
+San Francisco, California 
+
+
+ROBERT A. GINSBURG 
+County Attorney 
+Stephen P. Clark Center 
+111 N.W. Ist Street 
+Suite 2810 
+
+Miami, FL 33128-1993 
+(305) 375-5151 
+
+
+Counsel for Appellee 
+County of Miami-Dade, Florida 
+
+
+JACK BALLAS 
+
+Acting City Attorney 
+EMMERLINE FOOTE 
+Assistant City Attorney 
+One Manchester Boulevard 
+Inglewood, CA 90301-175C 
+(310) 412-5372 
+
+
+Counsel for Appellee 
+City of Inglewood, California 
+
+
+ANTHONY W. HALL, JR. 
+
+City Attorney 
+
+SUSAN T. TAYLOR 
+
+Senior First Assistant City Attorney 
+HELEN M. Gros 
+
+Senior Assistant City Attorney 
+Office of the City Attorney 
+City of Houston 
+
+P.O. Box 1562 
+
+Houston, TX 77251-1562 
+(713) 247-2000 
+
+
+Counsel for Appellee 
+City of Houston, Texas 
+
+
+FRANK J. GARZA 
+
+City Attorney 
+
+City of San Antonio 
+
+P.O. Box 839966 
+
+San Antonio, TX 78283-3966 
+(210) 207-8940 
+
+
+Counsel for Appellee 
+City of San Antonio, Texas 
+
+
+DANIEL E. MUSE 
+
+City Attorney 
+
+STAN SHAROFF 
+Assistant City Attorney 
+Office of City Attorney 
+1445 Cleveland Place 
+Denver, CO 80202 
+(303) 640-2302 
+
+
+Counsel for Appellee 
+
+
+City and County of Denver, 
+Colorado 
+
+
+ROBERT E. SHANNON 
+
+City Attorney 
+
+HEATHER A. MAHOOD 
+Assistant City Attorney 
+City Hall 
+
+333 West Ocean Boulevard 
+11th Floor 
+
+Long Beach, CA 90802 
+(562) 570-2210 
+
+
+Counsel for Appellee 
+City of Long Beach, California 
+
+
+JOAN R. GALLO 
+
+City Attorney 
+
+GEORGE RIos 
+
+Assistant City Attorney 
+City of San Jose 
+
+151 West Mission Street 
+San Jose, CA 95110 
+(408) 277-4454 
+
+
+Counsel for Appellee 
+City of San Jose, California 
+
+
+THOMAS CASSONE 
+Director of Legal Affairs 
+Office of Legal Affairs 
+City of Stamford 
+
+888 Washington Boulevard 
+Stamford, CT 06901 
+
+(203) 977-4087 
+
+
+Counsel for Appellee 
+City of Stamford, Connecticut 
+
+
+JAYNE W. WILLIAMS 
+City Attorney 
+
+J. PATRICK TANG 
+Deputy City Attorney 
+One City Hall Plaza 
+6th Floor 
+
+Oakland, CA 94612 
+(510) 238-6523 
+
+
+Counsel for Appellee 
+~—City of Oakland, California 
+
+
+MICHAEL G. COLANTUONO 
+City Attorney 
+
+City of Cudahay 
+
+Richards, Watson & Gershon 
+333 South Hope Street 
+
+38th Floor 
+
+Los Angeles, CA 90071 
+(213) 626-8484 
+
+
+Counsel for Appellee 
+City of Cudahay, California 
+
+
+ANN MILLER RAVEL 
+
+County Counsel 
+
+SUSAN SWAIN 
+
+Deputy County Counsel 
+County of Santa Clara 
+
+Office of the County Counsel 
+70 West Hedding Street 
+
+9th Floor, East Wing 
+
+San Jose, CA 95110 
+
+(408) 299-2111 
+
+
+Counsel for Appellee 
+County of Santa Clara, California 
+
+
+ALAN K. MARKS 
+
+County Counsel 
+
+385 North Arrowhead Avenue 
+4th Floor 
+
+San Bernardino, CA 92415-0140 
+(909) 387-5455 
+
+
+Counsel for Appellee 
+County of San Bernardino, 
+California 
+
+
+DOUGLAS H. HICKLING 
+County Counsel 
+County of Alameda 
+1221 Oak Street 
+
+Suite 463 
+
+Oakland, CA 94612 
+(510) 272-6705 
+
+
+Counsel for Appellee 
+County of Alameda, California 
+
+
+WILLIAM C. KATZENSTEIN 
+County Counsel 
+
+LEE A. VINOCOUR 
+
+Deputy County Counsel 
+Office of the County Counsel 
+County of Riverside 
+
+3535 Tenth Street 
+
+Suite 300 
+
+Riverside, CA 92501-3674 
+(909) 955-6300 
+
+
+Counsel for Appellee 
+County of Riverside, California 
+
+
+TomM UDALL 
+
+Attorney General 
+CHRISTOPHER D. COPPIN 
+Assistant Attorney General 
+
+
+6301 Indian School Road, N.E. 
+
+
+Suite 400 
+Albuquerque, NM 87110 
+(505) 841-8086 
+
+
+Counsel for Appellee 
+State of New Mexico 
+
+
+J. THOMAS COCHRAN 
+
+Executive Director 
+
+The United States Conference 
+of Mayors 
+
+1620 Eye Street, N.W. 
+
+Washington, DC 20006 
+
+
+Counsel for Appellee 
+The United States Conference 
+
+
+of Mayors 
+
+
+TERRI L. RENSHAW 
+
+Deputy Corporation Counsel 
+City of Detroit 
+
+660 Woodward Avenue 
+1650 First National Building 
+Detroit, MI 48226-3535 
+(313) 237-3059 
+
+
+Counsel for Appellee 
+City of Detroit, Michigan 
+
+
+EDWARD W. LEE 
+
+City Attorney 
+
+City of Bell 
+
+Oliver, Vose, Sandifer, 
+Murphy & Lee 
+
+281 South Figueroa Street 
+
+Los Angeles, CA 90012 
+
+(213) 621-2000 
+
+
+Counsel for Appellee 
+City of Bell, California 
+
+
+25 
+
+

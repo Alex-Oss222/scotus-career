@@ -1,0 +1,292 @@
+[
+  {
+    "file": "B_SOURCE_EXTRACTS.md",
+    "bytes": 18720,
+    "sha256": "3a20f5d5d5672fcd98f74a5d379245d0abf563346ce67ef1005fc8cd96f84d2a"
+  },
+  {
+    "file": "boring_1._Petition_for_Writ_of_Certiorari.pdf",
+    "bytes": 22213257,
+    "sha256": "0b2ddb8a71035d34ff09ecb5f3176cda42aac56487e6943d57ffa94393df4b9c"
+  },
+  {
+    "file": "boring_1._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "bytes": 208367,
+    "sha256": "c22d443f5bd5430e6c386c641e40a22a91c9593732e63136b0fe84a20fe7846b"
+  },
+  {
+    "file": "boring_2._Opposition_Brief.pdf",
+    "bytes": 2473609,
+    "sha256": "e6d2d1196a45c043217cc94077a364c9b7ac8694a74223fca072f6a4ad9fe6e0"
+  },
+  {
+    "file": "boring_2._Opposition_Brief_djvu.txt",
+    "bytes": 22757,
+    "sha256": "3655b1e9e4628044f7810c83c18e379767438e663c57532a1d3633ec430b945f"
+  },
+  {
+    "file": "boring_3._Reply_Brief.pdf",
+    "bytes": 2265057,
+    "sha256": "e387ff946ba938f02edbeae4ddffa2113c2911c3b5f06380bcbbe5274f933269"
+  },
+  {
+    "file": "boring_3._Reply_Brief_djvu.txt",
+    "bytes": 20447,
+    "sha256": "d577d719bd3543dac8378605d3f6b6ae906c3f8a96d9ee4d0c2f15a80be0b5af"
+  },
+  {
+    "file": "boring_archive_metadata.json",
+    "bytes": 26387,
+    "sha256": "8243c4640c1b4d5da3f581fc2a5c80e9ff836d137fd76761289aac2cd8a55fa6"
+  },
+  {
+    "file": "boring_archive_search.json",
+    "bytes": 2006,
+    "sha256": "0e11011f898a7184cac4198df18e58126b6217af658a9f0fa13ec26056dab287"
+  },
+  {
+    "file": "boring_lower.html",
+    "bytes": 76793,
+    "sha256": "3aa8ad868a0bcae6a30101d8f745e0007abfdd5f56ae9ff4aeee71a24dee1d8b"
+  },
+  {
+    "file": "boring_lower.txt",
+    "bytes": 67591,
+    "sha256": "f6d15c880ee214cd4c670adce2cab54222ff1256a2629940b9d538caf0eda618"
+  },
+  {
+    "file": "exchange_10b_1994.html",
+    "bytes": 44172,
+    "sha256": "ab214ce9f7a706cc4ee93703502f950222090c2547e47fafd75a299545919743"
+  },
+  {
+    "file": "exchange_10b_1994.txt",
+    "bytes": 25099,
+    "sha256": "77f0aa939c10fa13f9a97573ce00ddac2f5c783bbab09e45944b776c7b65175e"
+  },
+  {
+    "file": "hart_1._Petition_for_Writ_of_Certiorari.pdf",
+    "bytes": 8840319,
+    "sha256": "92e6868cca82ddb71a8c4f8686f9979eb6d8d0e489d7e621a9deea3c9d97eeaa"
+  },
+  {
+    "file": "hart_1._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "bytes": 71322,
+    "sha256": "811b7c8db32d2b9ee610b4be336e7181427192ee9cea166eb02d9f10b874e447"
+  },
+  {
+    "file": "hart_1998-12-23_determination_exact_pdftext.txt",
+    "bytes": 4619,
+    "sha256": "af02c6e0ad21e0e4dd028c7d11ded0eba8aeb85aa8b3175d3b8aa4fe3206d24b"
+  },
+  {
+    "file": "hart_2._Opposition_Brief.pdf",
+    "bytes": 3911232,
+    "sha256": "e67a0f006912cb356b98d531eb449bed889b9cbb5dca6c3b0b374c83ab04b7e6"
+  },
+  {
+    "file": "hart_2._Opposition_Brief_djvu.txt",
+    "bytes": 36170,
+    "sha256": "ba1a574f6a74b68fdbef2db403fdba1fe9a60121d168f4cc2881f86d6cae2d85"
+  },
+  {
+    "file": "hart_2._Opposition_Brief_pdftext.txt",
+    "bytes": 41325,
+    "sha256": "74a641e768477256c2d565c0c7aa0f31cdbfaee42335c477b56afbdd54f0d482"
+  },
+  {
+    "file": "hart_archive_metadata.json",
+    "bytes": 20684,
+    "sha256": "51d231a61ebd6f6b5ed4379b65cc73dc263bce1954b9809c4ad103795528413e"
+  },
+  {
+    "file": "hart_archive_search.json",
+    "bytes": 781,
+    "sha256": "0788d12a0cea239356bc48cf88a9c04f3a472bb2bcce1159f9502331f024f36a"
+  },
+  {
+    "file": "hart_lower_archive.txt",
+    "bytes": 13114,
+    "sha256": "df677306fee3828fe1f3b3c5359e998d9c335df776e86761c3e577482aa6ff92"
+  },
+  {
+    "file": "rule_10b5_1998.pdf",
+    "bytes": 145915,
+    "sha256": "a9687d9d4a198c70fb9b13f26268e7c50a0248e57956b7d585425d31b58aba29"
+  },
+  {
+    "file": "rule_10b5_1998.txt",
+    "bytes": 8392,
+    "sha256": "15e4721c83b480c9cb77ee81a7071099b52ad9eb493310cd604ab661ac6179dd"
+  },
+  {
+    "file": "suster_1._Petition_for_Writ_of_Certiorari.pdf",
+    "bytes": 5443691,
+    "sha256": "5c5a2c77cc8bbbba6a5be7e7a4ef93864547bdc50e8817752c9af8daca715786"
+  },
+  {
+    "file": "suster_1._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "bytes": 48089,
+    "sha256": "adbe0b27637d73df1cdd0212b32ccfcdae124c9194b2a0d9872d2d3d4d04e500"
+  },
+  {
+    "file": "suster_1._Petition_for_Writ_of_Certiorari_pdftext.txt",
+    "bytes": 55646,
+    "sha256": "ab267bbec909d103be24d919d1e10ec62f3d45a66c4b9c28f89e1ab3c3458334"
+  },
+  {
+    "file": "suster_2._Appendix_Vol_I.pdf",
+    "bytes": 7431841,
+    "sha256": "938c6ea793692867b699294730f96ba1e7f4621a0a8ad352c89780365d6d9ff9"
+  },
+  {
+    "file": "suster_2._Appendix_Vol_I_djvu.txt",
+    "bytes": 66077,
+    "sha256": "668780c68e9dbad11fc5322492ab839f0c1d336c06ffe14d61fa65b20c666107"
+  },
+  {
+    "file": "suster_2._Appendix_Vol_I_pdftext.txt",
+    "bytes": 71662,
+    "sha256": "fd7a012208c188825fb7a2144bf5d8da1ac680ee6d9a2724a2948b7cffe5d719"
+  },
+  {
+    "file": "suster_3._Appendix_Vol_II.pdf",
+    "bytes": 10804531,
+    "sha256": "d863b3dc6bb8b2f49e9e26c29fa3c4faae36ed941ab5947626c6a26149c37bcd"
+  },
+  {
+    "file": "suster_3._Appendix_Vol_II_djvu.txt",
+    "bytes": 101727,
+    "sha256": "a1efeadb0d80c4cf7cf23de024c67945db89b2a8f6c03f2227bd46cac93daec2"
+  },
+  {
+    "file": "suster_4._Opposition_Brief.pdf",
+    "bytes": 4337883,
+    "sha256": "31829faed36b37630aa00f19fa8b69d38511dab9e3b23e62c5e486a8033111cd"
+  },
+  {
+    "file": "suster_4._Opposition_Brief_djvu.txt",
+    "bytes": 39038,
+    "sha256": "0abb6b2965adf5263bd0e057d91aaa26a5759093fd39f839d8c3d4a2afe10fca"
+  },
+  {
+    "file": "suster_5._Opposition_Brief.pdf",
+    "bytes": 3905995,
+    "sha256": "27824bcab747a09f93ff1812363ce9cb722bf7bd2e7ab1f92077203aba5e3f89"
+  },
+  {
+    "file": "suster_5._Opposition_Brief_djvu.txt",
+    "bytes": 36364,
+    "sha256": "665f08ab03bab47f697c69c80a2f2364b4aacb42a2e697f2d87e93f55bcbdae7"
+  },
+  {
+    "file": "suster_6._Amicus_Curiae_Brief.pdf",
+    "bytes": 4558554,
+    "sha256": "c9cb70a4b12ac2b263821dc3604f89bd836a805e961181620440a460b9937919"
+  },
+  {
+    "file": "suster_6._Amicus_Curiae_Brief_djvu.txt",
+    "bytes": 41702,
+    "sha256": "2c3a52f9386cd356c2b26c6361d358bbd00280c3aa5434e535570d0847cf7579"
+  },
+  {
+    "file": "suster_7._Amicus_Curiae_Brief.pdf",
+    "bytes": 4013234,
+    "sha256": "bff0900f5a2b826cead1818833366a15195e8173b7daec4e3d5f7d1576389a05"
+  },
+  {
+    "file": "suster_7._Amicus_Curiae_Brief_djvu.txt",
+    "bytes": 39067,
+    "sha256": "7f67a36d355d00133ed360a70a280058814d74a73c43d7fcf369db98222c7329"
+  },
+  {
+    "file": "suster_8._Reply_Brief.pdf",
+    "bytes": 1347194,
+    "sha256": "ddd917eeac564761a3f50523bd0dcfb44ee501ef69535097588f029bdf1c0879"
+  },
+  {
+    "file": "suster_8._Reply_Brief_djvu.txt",
+    "bytes": 11402,
+    "sha256": "a06d229c82e6b9a78c059c8f3dce18c39a3e96d8bebacdbeaceb2b4642c9e0bb"
+  },
+  {
+    "file": "suster_archive_metadata.json",
+    "bytes": 55408,
+    "sha256": "49b74428d99c78bb0ee0be342ae672dfb59559af8e7e8440429bb40d2f3ddd30"
+  },
+  {
+    "file": "suster_archive_search.json",
+    "bytes": 700,
+    "sha256": "46957fe1e04cbde257452a4e700b2a7590eae571a8a66cdc2ab7bebcbcbe9007"
+  },
+  {
+    "file": "suster_lower_archive.txt",
+    "bytes": 44960,
+    "sha256": "f539a6dec0b86d55e7ecc3f80732a4dd394e34fa1c654e6a7eeba79513358838"
+  },
+  {
+    "file": "wright_1._Petition_for_Writ_of_Certiorari.pdf",
+    "bytes": 8659717,
+    "sha256": "7811dc086da7d859fa3ba92a3dc57eb1155d31671af30727432c2c8b198905b7"
+  },
+  {
+    "file": "wright_1._Petition_for_Writ_of_Certiorari_djvu.txt",
+    "bytes": 73916,
+    "sha256": "682c83c718baa6e66823bcda6bda017c94209e498939f1713ca329d0c2789fa0"
+  },
+  {
+    "file": "wright_1._Petition_for_Writ_of_Certiorari_pdftext.txt",
+    "bytes": 89383,
+    "sha256": "111d4a4fe3610589cd45f78058c91f0d93a25a00d34044b8048a83d640c10ead"
+  },
+  {
+    "file": "wright_2._Opposition_Brief.pdf",
+    "bytes": 4838342,
+    "sha256": "c444e5ddb7a5180d2461b184247f511f4b8dcbbe6fe9d95a16907c2d6d5e08ee"
+  },
+  {
+    "file": "wright_2._Opposition_Brief_djvu.txt",
+    "bytes": 34846,
+    "sha256": "8d294746f64cbbf5bc45c66006cb5cd87bc4f603f70c016f20c86c4d3aa7cdab"
+  },
+  {
+    "file": "wright_3._Supplemental_Brief.pdf",
+    "bytes": 11385220,
+    "sha256": "a5881b39607c981f5ddcda6f4d3fc277b6bee1de2dbfb69dbe225edc1acb8548"
+  },
+  {
+    "file": "wright_3._Supplemental_Brief_djvu.txt",
+    "bytes": 103290,
+    "sha256": "0cd0037861120e83beed569c75c1fcc1ca479f500f4ad5b59e931fc27ce7b206"
+  },
+  {
+    "file": "wright_4._Reply_Brief.pdf",
+    "bytes": 2353515,
+    "sha256": "8550baff3fd7286f23468006276701b8479536154236a7e10d74cdfd97c8f8cc"
+  },
+  {
+    "file": "wright_4._Reply_Brief_djvu.txt",
+    "bytes": 21728,
+    "sha256": "0f3dd1b77cbf27c3bc68e912bc25a99a2e60cbf48d76114b8a7a043447d9d300"
+  },
+  {
+    "file": "wright_archive_metadata.json",
+    "bytes": 32223,
+    "sha256": "5bb8edfc33fa93184d379332a72027ca1c07716d2c10c305ffc44ed6f1517087"
+  },
+  {
+    "file": "wright_archive_search.json",
+    "bytes": 1396,
+    "sha256": "aaf3785103ae23959bcdc95ad90d578fbb3eb6d133023343ef2c13e28ded3a67"
+  },
+  {
+    "file": "wright_lower.html",
+    "bytes": 38995,
+    "sha256": "69a6b1737d6a1e94e2580a9f1e14ab2b938cf60d9fc8545578cbdd114c453213"
+  },
+  {
+    "file": "wright_lower.txt",
+    "bytes": 34525,
+    "sha256": "4544ae835a0803df3cbf8f52230508a2c14b06c858108d006569be4f84ff29b9"
+  }
+]

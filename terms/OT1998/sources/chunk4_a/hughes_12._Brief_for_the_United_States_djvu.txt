@@ -1,0 +1,1746 @@
+ee  oieeienl 
+In the Supreme Court of the Ginted States 
+
+
+OcTOBER TERM, 199% 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING PETITIONERS 
+
+
+~~! p \\ a ae a 4 
+~*~ , fy ; 
+( yf Rie 
+Ma h EDV 3. K 
+b) 7 Da . ? 
+\ () | ~ 
+J j | ~ 
+\\ j 9 DA {y 
+| | kK } Dh / / 
+( ( || yd 
+Pi Bi 
+f 
+\ Pe 
+L. B 
+( 4 
+/ Peer 
+\\ De 
+
+
+QUESTIONS PRESENTED 
+
+
+The pension plan in this case is a single-employer, de- 
+fined benefit pension plan that is subject to Title IV of the 
+Employee Retirement Income Security Act of 1974 
+(ERISA), 29 U.S.C. 1301-1461. Until 1991, the plan’s bene- 
+fit structure was funded by contributions from both the 
+plan sponsor and plan participants. The plan was amended 
+as of January 1, 1991, to create a second benefit structure 
+without participant contributions. The questions pre- 
+sented are: 
+
+
+1. Whether the plan has been or could be terminated 
+under 29 U.S.C 1341, and plan assets distributed under 29 
+U.S.C. 1344(d). 
+
+2. Whether the plan amendment violates the vesting 
+provisions of 29 U.S.C. _ 1053 and 1054, or the anti- 
+inurement provision of 29 U.S.C. 1103(¢)(1). 
+
+3. Whether an employer violates the fiduciary provi- 
+
+
+sions of 29 U.S.C. 1104 and 1106 when it amends a plan 
+funded in part by employee contributions. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+interest of the United States ...........ccccccccccccecesscceeeeeeees l 
+ERNE, SEEN 5S eRe ASS Ae an Re 2 
+| RT Sad A ee 10 
+SN NER een, aN me So 11 
+
+
+The court of appeals erred in holding that the 
+complaint states valid causes of action under 
+EUUTEEN sicchicsinetiastimstalctietenninititntaadiaiiisiapnetiaiiibceaiianindnidipcipia ll 
+A. The 1991 amendment did not amount to a 
+plan termination triggering a distribution of 
+
+
+SU UY sscicestebistesiepaecheistiitiadladeiniakanbeeibaitiipiasatalieiaiclies 12 
+B. The 1991 amendment did not violate ERISA’s 
+vesting or anti-inurement provisions ............... 19 
+C. Hughes was not acting as a fiduciary when 
+AEE aha AO OS 25 
+EE Ae aE ea EE ON cel 29 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Aldridge v. Lily-Tulip, Inc. Salary Retirement 
+Plan Benefits Comm., 953 F.2d 587 (11th Cir. 
+
+
+1992), cert. denied, 516 U.S. 1009 (1995) ........0000... 21 
+Alessi v. Raybestos-Manhattan, Inc., 451 U.S. 504 
+CEIDUETD ccssasiigiebnnenensenenspeisssadgenncnsenedunstemsbihienisiichindiptibees 27 
+
+
+Amato v. Western Union Int'l, Inc. 773 F.2d 1402 
+(2d Cir. 1985), cert. dismissed, 474 U.S. 1113 
+
+
+GUND evciisinctieicaremengnatnnphemnedinictis ctsialigitasintnamasidnitaiateittinsinis 21 
+American Flint Glass Workers Union v. Beaumont 
+Glass Co., 62 F.3d 574 (3d Cir. 1995) ........... 13-14, 15, 18 
+Blessitt v. Retirement Plan for Employees of 
+ie Dixie Engine Co., 848 F.2d 1164 (11th Cir. 
+ee vabiannieliareihiibtapeiiaiineinimaminigiasiaitineibiasipteeeia 17 
+
+
+Brillinger v. General Rlec. Co., 130 F.3d 61 
+(2d Cir. 1997), petition for cert. pending, No. 97- 
+PENDS aiumiscpecbistinienoanivuneptsinnqtsintinndacaiindbuaatetiiemanie 13, 20, 22, 23 
+
+
+IIT) 
+
+
+IV 
+
+
+Cases—Continued: Page 
+
+
+Chambers v. Kaleidoscope, Inc. Profit Sharing 
+Plan & Trust, 650 F. Supp. 359 (N.D. Ga. 1986) .. 16 
+Commissioner v. Keystone Consol. Indus., Inc., 
+
+
+SRE Re a 2,3 
+Concrete Pipe and Prods. v. Construction 
+
+Laborers Pension Trust, 508 U.S. 602 (1993) ....... 3 
+Curtiss-Wright Corp. v. Schoonejongen, 514 U.S. 
+
+Wee GED cocticeiuistndntiiatemeircinasintitenpensdiebinenaaiiieiigatns 17 
+Fletcher v. Kroger Co., 942 F.2d 1137 (7th Cir. 
+
+a ne eS LT 21 
+Ford Motor Co. v. Huffman, 345 U.S. 330 
+
+CUBE  tessinipatscnctcesusensiilensintncapiniinsaibuiapiaatiibininmiitietetienaein 29 
+
+
+Gulf Pension Litigation, In re, 764 F. Supp. 1149 
+(S.D. Tex. 1991), aff'd sub nom. Borst v. 
+Chevron Corp., 36 F.3d 1308 (5th Cir. 1994), 
+
+
+cert. denied, 514 U.S. 1066 (1995) .........cccccccecccceees 14, 15 
+Hlinka v. Bethlehem Steel Corp., 863 F.2d 279 
+
+ES ee er ee Oe ee 21 
+Inter-Modal Rail Employees Ass’n v. Atchinson, 
+
+T. & S. F. Ry. 117 S. Ct. 1513 (1997) 0.0.0.0... 17 
+Johnson v. Georgia-Pacific Corp., 19 F.3d 1184 
+
+GER SN I . cscrrntitnrtivhscbinneisclitsintphapiieeeimamieiitisici cca 20, 23, 26 
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996) .... 9, 11, 17, 
+
+23, 24, 25, 26, 28 
+
+Maez v. Mountain States Tel. & Tel. Inc., 54 F.3d 
+
+ee ee Ss ED Warteniediendinitendeitinttia deat in 21 
+Mahoney v. Board of Trustees, 973 F.2d 968 
+
+ae ee er eae ee a LON 25 
+Malia v. General Elec. Co., 23 F.3d 828 (3d Cir.), 
+
+cert. denied, 513 U.S. 956 (1994) «000000000000... 13, 20, 21, 23 
+Mead Corp. v. Tilley, 490 U.S. 714 (1989) ............. 2, 6, 13 
+Mertens v. Hewitt Assocs., 508 U.S. 248 (1993) .... 14 
+NLRB vy. Amax Coal Co., 453 U.S. 322 (1981) ...... 29 
+Nachman Corp. v. PBGC, 446 U.S. 359 (1980) ..... 2,3 
+PBGC vy. LTV Corp., 496 U.S. 633 (1990) 2000000000... 2, 3, 6 
+
+
+PBGC vy. Pritchard, 50 F.3d 315 (5th Cir. 1995) ... 13 
+Phillips v. Bebber, 914 F.2d 31 (4th Cir. 1990) ...... 13, 15 
+
+
+V 
+
+
+Cases—Continued: Page 
+Siskind v. Sperry Retirement Program, 47 F.3d 
+dc cpr Ee I ae a 25 
+Spink v. Lockheed Corp., 125 F.3d 1257 (9th Cir 
+PUT scideclnsadipaibierinlineeinibaatinniiciiiatiis Desde 21, 26 
+Sutter v. BASF Corp., 964 F.2d 556 (6th Cir. 
+te EESTI IR ee ae 27 
+Varity Corp. v. Howe, 516 U.S. 489 (1996) ............ 26, 27 
+Walling v. Brady, 125 F.3d 114 (3d Cir. 1997) ...... 25 
+
+
+Statutes, regulations and rule: 
+
+
+Employee Retirement Income Security Act of 1974, 
+29 U.S.C. 1001 et seq.: 
+
+
+© SOD, BD WB. BEDI) ececceecencerccecccceceenceeeseece 2 
+© BERD, BD UBC. BORBR) naancaccccevceccccocccnenceeeesess 2 
+§ 3(2 A), 29 U.S.C. 1002(2)(A) ooo ecccccccsceesees 16 
+§ 3116) B)i), 29 U.S.C. 1002(16)B)(i) ............. 28 
+§ 3(16)( BX iii), 29 U.S.C. 1002(16)(B\iii) ..... 29 
+$ 3(19), 29 U.S.C. 100B(19) ..............ccccccceceoceeees.. 3 
+§ 3(21)(A), 29 U.S.C. 1002(21)(A) ............ 5, 25, 27, 28 
+$ B22), 29 U.S.C. 1OO2(ZZ) ono... ececccecceseecceeees 3 
+$ 3(23), 29 U.S.C. 100223) o.oo... cecececccecsceess 3, 4, 20 
+§ 3(23)A), 29 U.S.C. 1002(23)( A) oo 4, 20 
+§ 3(23)(B), 29 U.S.C. 1002(23)(B) oo... 9 
+S B24), SD U.S.C. 1OOBB4) nn... nccccecccecececosee.... 3 
+$ 3(25), 29 U.S.C. 100225) 20.2... .eccccecececceeeees 3 
+$ B29), 29 U.S.C. 1O02(29) oon... ccccccccceecceee. 3 
+$ 334), 29 U.S.C. 1002(S4) oon... ec ccccecccoeceecse. 3,4 
+§ 3(35), 29 U.S.C. 1002(35) ................................ 2,3 
+§ 203, 29 U.S.C. 1053 ........... 1, 2, 3, 8, 11, 20, 22, 23, 27 
+§ 203(a), 29 U.S.C. 1053(a) ........cecceeccnccceecesseees 20 
+§ 203(a)(1), 29 U.S.C. 1053(aM(1) ooo. ceccccecccceeee. 3 
+$ 203(a2), 29 U.S.C. 1053(a)(2) oo... ecccccececcees. 3 
+f 8 Sf | ene 1, 2, 8, 11, 20, 22 
+§ 204(c2)(B), 29 U.S.C. 1054(e 2B) .......... 4, 20 
+§ 204(e2(C), 29 U.S.C. 1054(eM2KC) ............ 4 
+§ 204(g1), 29 U.S.C. l054(g)1) oooccccccccceccecceees 4 
+§ 204(g)(3), 29 U.S.C. 1054(g)(B) oo... ceccccceeceees. 4 
+
+
+Vi 
+Statutes, regulations and rules—Continued: Page 
+§ BO1(a), 2B UBC. IOBME) ........c..cceccescrcccccssseees 2 
+5 SUR, BD TEAC, BO cecnetsvccnsccsecciesicentctasstincioscie 2, 22 
+$ 302(b)(2), 29 U.S.C. 1OB2(D)M2) ............cecseeeeees ~ 3 
+$§ 403-406, 29 U.S.C. 1103-1106 ...............ccceseeeees 1 
+PS 2 ee 4 
+§ 403(c(1), 29 U.S.C. 1108(e)1) .......... 4, 8, 11, 20, 21, 
+22, 23, 24 
+OD Ol yyy 11, 26 
+YY  ' jb) 4 x 25 
+$ 404(a(1), 29 U.S.C. 1104(a)(1) «0.0.0... eeeeeeeees 8, 27 
+$ 404(aX 1A), 29 U.S.C. 1104(a)(1)(A) ............. 5 
+$ 404(aX 1D), 29 U.S.C. 1104(a)1)(D) ...... ne 5, &, 9 
+OD yy 5, 8, 11, 26 
+§ 406(a), 29 U.S.C. 110G(a) .............0..00000000000 woeee 24,25 
+§ 406(aX1)D), 29 U.S.C. 1106(a)1)(D) ............. 24 
+iy 8 (3) ' een 5 
+$§ 4001-4082, 29 U.S.C. 1301-1461 ...............0000000 1,2 
+8 1 io fF eee 18 
+a 6 OU PEs. <censeieadtneciartnenenins 5, 17 
+§ 4021(b\(1), 29 Low \ RR ee 16 
+fF '§ 5 ) UZ aS, 6 
+$ 4041, 2B U.S.C. 1B4d 2. cccceceesese 9, 12, 13, 14, 15, 16 
+§ 4041(a), 29 U.S.C. 1341a) ................ Kacaiatiabies 6,14 
+§ 4041(aX(1), 29 U.S.C. 1341(a)(1) .................0000 5, 12 
+§ 4041(aX(2), 29 U.S.C. 134MaNX2) ..............-200000. 15 
+B GREREA, SD UTA. BRGREED cerscensnscscnsscccnsnssessens 6, 13 
+BP RS Re 6 
+CD A aan 5, 10, 14 
+§$ 4042(a), 29 U.S.C. 1B4Q a) ...........cccececeececeseees 5, 7,17 
+4 Se —E— ee 7, 10, 12, 13, 27 
+6 GOeRien: SD DEEL. TROGIR ccccececctccnscnssietensessen 6, 13 
+$ 4044(aX(1), 29 U.S.C. 1344(a)(1) ...............000000 27 
+§ 4044(a)(1)-(4), 29 U.S.C. 1344(a)(1)-(4) ........... 6 
+§ 4044(aX(5), 29 U.S.C. 1344(a)(5) ................0000e 6 
+§ 4044(aX6), 29 U.S.C. 1344(a)(6) ................00006 6 
+§ 4044(d), 29 U.S.C. 1344(d) .................. 6, 8, 10, 13, 14 
+§ 4044(d)(1), 29 U.S.C. 1344(d)Q1) ...............0000e 7 
+
+
+Vil 
+
+
+Statutes, regulations and rules—Continued: 
+§ 4044(d)(3)(A), 29 U.S.C. 1344(d)(3)(A) ....... 
+
+
+§ 4044(d)(3)(B), 29 U.S.C. 1344(d)(3)(B) ........... 
+§ 4048(a)(1), 29 U.S.C. 1348(a)(1) ................00000. 
+§ 4048(a)(2), 29 U.S.C. 1348(a)(2) ...........cceecee eee 
+§ 40G2(a), 29 U.S.C. 1BG2a) .......cccccccccrecsceseseeees 
+§ 40G2(b), 2D U.S.C. 1DGB(b) .........ccccsccccccceescecees 
+gp 8 on Cee ee 
+
+
+Internal Revenue Code of 1986: 
+
+
+Sp MAU EOD  inttctrichenctnpsiinatceartitntiosiiashtiapitinlane 
+
+
+Reorg. Plan No. 4 of 1978, § 101(a), 92 Stat. 3790 ..... 
+Single-Employer Pension Plan Amendments of 1986, 
+
+
+Pub. L. No. 99-272, Tit. XI, § 11002, 100 Stat. 237: 
+
+
+er es PED snicstictnnctidinsmibanininioninmeibintninss 
+SP Ey SIO cncicasnscsistnainciiennsiigstnitedniinnesin 
+
+
+26 C.F.R.: 
+
+
+Be I iia tinea thinsctiihiaitah peat ain 
+SEINE, MEDI * isn icciislieetenchcbihininennpiobasueneiael 
+eee 
+Section LAIGIRPAT NEMA) .2.ccccccccccccccccsocoscccesccsscosecs 
+RE a rene rere 
+ICED CRORE cececececccsccciniccccecseszecnnssense 
+I I ahaa a teciphepanmnetiacn 
+
+
+29 C.F.R.: . 
+
+
+a a 
+TS AES ES ST ERAN OS 
+IU I i 
+I i 
+
+
+Vil 
+
+
+Miscellaneous: Page 
+George G. Bogert & George T. Bogert, The Law of 
+Trusts and Trustees (rev. 2d ed. 1983) ...............4. 16, 17 
+DOL Advisory Op. No. 81-41A (Apr. 6, 1981) .......... 19 
+DOL Advisory Op. No. 97-083A (Jan. 23, 1997) ..... 18, 21-22 
+DOL Info. Ltr. No. 03131986 (Mar. 13, 1986) ........... 18 
+Oe Weak, Wins, SOIR ID eisai iidlatticaccrccintnien 12 
+62 Fed. Reg. 60,424 (Nov. 7, 1997): 
+p. 60,428 (to be codified at 29 C.F.R. 4041.1) ......... 5, 12 
+p. 60,431 (to be codified at 29 C.F.R. 4041.23) ....... 6 
+p. 60,436 (to be codified at 29 C.F.R. 
+GREE IMI EDD. cncctnttccsecnaderniteseninssditittentnidieaniniies 6 
+Dan M. McGill & Donald 8S. Grubbs, Jr., Funda- 
+mentals of Private Pensions (6th ed, 1989) ........... 2,27 
+Restatement of Trusts (Second) (1959) .............0000 16, 17 
+Rev. Rul. 81-137, 1981-1 C.B. 232 ...........ccccescssvseeseees 19 
+Rev. Rul. 89-87, 1989-2 C.B. 81 .........c0.csccsessecsecssssees 15 
+Austin W. Scott & William F. Fratcher, The Law 
+Of Tresate (EAR CB. TEED) cccscccascccsscccnsccccsscscesevsseseoes 16, 17 
+et, GT, Ge i BD cin ctncccnapecinsintsimpctialeizenives 19 
+Sk GE, Fe Ga Fe brats cictarccenphtencitetiatinnecinss 19 
+FPF FF 5 ne ere 19 
+
+
+Jn the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 97-1287 
+
+
+HUGHES AIRCRAFT COMPANY, ETAL., 
+PETITIONERS 
+
+
+v. 
+
+
+STANLEY I. JACOBSON, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+AS AMICUS CURIAE SUPPORTING PETITIONERS 
+
+
+INTEREST OF THE UNITED STATES 
+
+
+The Pension Benefit Guaranty Corporation (PBGC) is 
+responsible for interpreting and enforcing the plan termi- 
+nation provisions of Title IV of the Employee Retirement 
+Income Security Act of 1974 (ERISA), 29 U.S.C. 1301-1461. 
+The Secretary of Labor is responsible for interpreting and 
+enforcing the anti-inurement and fiduci: .y obligation pro- 
+visions in Title l of ERISA, 29 U.S.C. 1103-1106. The See- 
+retary of the Treasury is responsible for interpreting the 
+vesting provisions in Title I of ERISA, 29 U.S.C. 1053 and 
+1054, see Reorg. Plan No. 4 of 1978, § 101(a), 92 Stat. 3790, 
+and for interpreting and enforcing the provisions of Title 
+Il of ERISA relating to the qualification of pension plans 
+for favorable tax treatment, see 26 U.S.C. 401-424. 
+
+
+(1) 
+
+
+2 
+
+
+STATEMENT 
+
+
+1. a. Congress enacted the Employee Retirement In- 
+come Security Act of 1974 (ERISA) to provide certain 
+minimum standards to assure the equitable character and 
+financial soundness of employee pension benefit plans, 
+which are generally defined as plans providing retirement 
+income to employees. 29 U.S.C. 1001(c), 1002(2). A “de- 
+fined benefit” pension plan, “as its name implies, is one 
+where the employee, upon retirement, is entitled to a fixed 
+periodic payment” according to the terms set forth in the 
+plan. Commissioner v. Keystone Consol. Indus., Inc., 508 
+U.S. 152, 154 (1993); accord PBGC vy. LTV Corp., 496 U.S. 
+633, 637 n.1 (1990); Mead Corp. v. Tilley, 490 U.S. 714, 717 
+(1989); Nachman Corp. v. PBGC, 446 U.S. 359, 363-364 n.5 
+(1980); 29 U.S.C. 1002(35). “Contributions to a defined 
+benefit plan are calculated on the basis of a number of ac- 
+tuarial assumptions about such things as employee turn- 
+over, mortality rates, compensation increases, and the 
+rate of return on invested plan assets.” Mead Corp., 490 
+U.S. at 717. 
+
+Defined benefit plans may be funded by employer or em- 
+ployee contributions. 29 U.S.C. 1053, 1054. The employer, 
+however, bears the risk of any funding deficiency in the 
+event the plan’s actuarial assumptions prove incorrect. 
+See Dan M. McGill & Donald S. Grubbs, Jr., Fundamen- 
+tals of Private Pensions 125 (6th ed. 1989). To increase 
+the likelihood that pension funds are available to pay bene- 
+fits when due, defined benefit plans are subject to mini- 
+mum funding requirements. 29 U.S.C. 1081(a), 1082; 26 
+U.S.C. 412. If a defined benefit plan terminates without 
+sufficient assets to pay its pension obligations, however, 
+Title [V of ERISA, 29 U.S.C. 1301-1461, provides a manda- 
+tory termination insurance program under which the 
+Pension Benefit Guaranty Corporation (PBGC) pays non- 
+torfeitable plan benefits, subject to certain statutory limi- 
+tations. LTV Corp., 496 U.S. at 637-638; Nachman, 446 
+U.S, at 375. 
+
+
+3 
+
+
+ERISA distinguishes a defined benefit plan from a 
+“defined contribution” or “individual account” plan. 29 
+U.S.C. 1002(34) and (35); see also Concrete Pipe and 
+Prods. v. Construction Laborers Pension Trust, 508 U.S. 
+602, 607 (1993). Unlike a defined benefit plan, which pro- 
+vides employees with a defined periodic payment upon re- 
+tirement regardless of the performance of the plan's as- 
+sets, a defined contribution or individual account plan 
+“provides for an individual account for each participant and 
+for benefits based solely upon the amount contributed to 
+the participant’s account, and any income, expenses, gains 
+and losses, and any forfeitures of accounts of other par- 
+ticipants which may be allocated to such participant’s ac- 
+count.” 29 U.S.C. 1002(34); see Keystone, 508 U.S. at 154; 
+LTV Corp., 496 U.S. at 637 n.1; Nachman, 446 U.S. at 364 
+n.5. Because employees covered by defined contribution 
+plans “are promised only that they will receive the bal- 
+ances in their individual accounts,” Title IV’s termination 
+insurance program does not apply to such plans. LTV 
+Corp., 496 U.S. at 637 n.1. 
+
+b. ERISA also regulates the accrual and vesting of 
+pension benefits. Accrual refers to the manner in which 
+an employee earns increased benefits over time. 29 U.S.C. 
+1002(23) and (29). Vesting refers to the method by which 
+benefits become nonforfeitable. 29 U.S.C. 1002(19) and (25). 
+Under Section 203(a) of ERISA, all pension plans must 
+provide that an employee's right to his “normal retirement 
+benefit” is nonforfeitable upon the attainment of “normal 
+retirement age.” 29 U.S.C. 1053(a); see also 29 U.S.C. 
+1002(22) and (24) (defining “normal retirement benefit” and 
+“normal retirement age”). Additionally, all pension plans 
+must provide that an employee’s rights in the “accrued 
+benefit” derived from his own contributions are nonforfeit- 
+able and that, after a certain number of years of service, an 
+employee has a nonforfeitable right to the “accrued 
+benefit” derived from employer contributions. 29 U.S.C. 
+1053(a)(1) and (2). Similarly, plan amendments generally 
+
+
+4d 
+
+
+may not decrease a participant’s accrued benefits. 29 
+U.S.C. 1054(g)(1). 
+
+In a defined contribution plan, an employee’s “accrued 
+benefit” means “the balance of the individual’s account.” 
+29 U.S.C. 1002(23)(B); see also 29 U.S.C. 1002(34). By con- 
+trast, in a defined benefit plan, an employee’s nonforfeit- 
+able right to his or her accrued benefit does not depend on 
+the plan’s actual investment experience. Thus, the term 
+“accrued benefit” in a defined benefit plan means “the indi- 
+vidual’s accrued benefit determined under the plan, 
+* * * expressed in the form of an annual benefit commenc- 
+ing at normal retirement age.” 29 U.S.C. 1002(23)(A) 
+(emphasis added). The “accrued benefit” derived from an 
+employee’s mandatory contributions, however, must, at a 
+minimum, equal “the employee’s accumulated contribu- 
+tions expressed as an annual benefit commencing at 
+normal retirement age, using an interest rate [specified 
+under 29 U.S.C. 1055(g) (3)].”. 29 U.S.C. 1054(c)(2)(B); see 
+also 29 U.S.C. 1002(23), 1054(c)(2C). Accordingly, a 
+defined benefit plan participant has a nonforfeitable right 
+to the greater of (1) the benefits provided under the plan or 
+(2) an amount derived from the employee’s accumulated 
+contributions, determined using an interest rate fixed by 
+the Act. 
+
+c. Pension plan assets must generally be held in trust. 
+29 U.S.C. 1103(a). Except in limited circumstances 
+(including the distribution of residual plan assets upon 
+plan termination), 
+
+
+the assets of a plan shall never inure to the benefit of 
+any employer and shall be held for the exclusive pur- 
+poses of providing benefits to participants in the plan 
+and their beneficiaries and defraying reasonable ex- 
+penses of administering the plan. 
+
+
+29 U.S.C. 1103(c)(1); see also 26 U.S.C. 401(a)(2) (plan is 
+qualified for tax purposes only if “under the trust instru- 
+ment it is impossible * * * for any part of the corpus or 
+income to be * * * used for, or diverted to, purposes other 
+
+
+5 
+
+
+than for the exclusive benefit of * * * employees or their 
+beneficiaries”). 
+
+Section 3(21)(A) of ERISA generally provides that a 
+person is a fiduciary with respect to a pension plan 
+
+
+to the extent (i) he exercises any discretionary au- 
+thority or discretionary control respecting manage- 
+ment of such plan or exercises any authority or control 
+respecting management or disposition of its assets, (ii) 
+he renders investment advice for a fee or other com- 
+pensation, direct or indirect, with respect to any 
+moneys or other property of such plan, or has any 
+authority or responsibility to do so, or (iii) he has any 
+discretionary authority or discretionary responsibility 
+in the administration of such plan. 
+
+
+29 U.S.C. 1002(21)(A); see also 29 C.F.R. 2509.75-5, 2509.75- 
+8. ERISA’s fiduciary duty provisions require fiduciaries 
+to discharge their duties under a plan solely in the inter- 
+est of plan participants and beneficiaries and for the exclu- 
+sive purpose of providing benefits to participants and bene- 
+ficiaries and defraying reasonable administrative ex- 
+penses. 29 U.S.C. 1104(a)(1)A). Among other things, fidu- 
+iaries are prohibited from engaging in certain transac- 
+tions, 29 U.S.C. 1106, 1108, and must discharge their 
+duties “in accordance with the documents and instruments 
+governing the plan insofar as such documents and instru- 
+ments are consistent with the provisions of this subchap- 
+ter [establishing minimum standards] and subchapter III 
+of this chapter [governing plan terminationsj.” 29 U.S.C. 
+1104(a)(1)(D). 
+ad Title IV of ERISA sets forth the rules governing 
+termination of defined benefit plans covered by Title IV, 29 
+U.S.C. 1321, and provides that those rules are the 
+“/eJxclusive means of plan termination.” 29 U.S.C. 
+1341(a)(1) (emphasis added); see also 62 Fed. Reg. 60,42, 
+60,428 (Nov. 7, 1997) (to be codified at 29 C.F.R. 4041.1). 
+Under 29 U.S.C. 1342, the PBGC may initiate an involun- 
+tary termination of a covered plan under the specific 
+statutory criteria set forth in 29 U.S.C. 1342(a). Such a 
+
+
+6 
+
+
+plan may be voluntarily terminated “only in a standard 
+termination * * * or a distress termination.” 29 U.S.C. 
+1341(a\(1). See LTV Corp., 496 U.S. at 638-639. 
+
+A standard termination applies when a plan has suffi- 
+cient assets to pay all benefit liabilities, 29 U.S.C. 1341(b), 
+and a distress termination generally applies to underfun- 
+ded plans and requires the employer to demonstrate to the 
+PBGC severe economic distress, 29 U.S.C. 1341(c). In 
+both instances, the Act sets forth detailed termination 
+procedures, including a requirement that the plan admin- 
+istrator provide to all affected parties at least 60 days’ 
+written notice of the administrator’s intent to terminate 
+the plan and the proposed date of termination. 29 U.S.C. 
+1341(a); see also 62 Fed. Reg. at 60,431, 60,436 (to be 
+codified 29 C.F.R. 4041.23, 4041.41(a)(1)) (notice of intent 
+must be issued “at least 60 days and not more than 90 days 
+before the proposed termination date”). The Act also pro- 
+vides that the plan’s “termination date” is, in the case of a 
+standard termination, the date proposed in the administra- 
+tor’s notice of intent or, in the case of a distress termina- 
+tion, the date agreed to by the PBGC and the plan 
+administrator. 29 U.S.C. 1348(a)(1) and (2). ' 
+
+Section 4044 of Title IV governs the allocation of plan 
+assets “{iJn the case of the termination of a single-em- 
+ployer plan.” 29 U.S.C. 1344(a); 29 C.F.R. 4044.1. Upon 
+termination, the plan administrator must allocate plan as- 
+sets among plan participants and beneficiaries in a 
+prescribed order that gives priority first to nonforfeitable 
+plan benefits guaranteed by the PBGC, 29 U.S.C. 
+1344(a)(1)-(4); then “to all other nonforfeitable benefits un- 
+der the plan,” 29 U.S.C. 1344(a)(5); and finally “to all other 
+benefits under the plan,” 29 U.S.C. 1344(a)(6). See Mead 
+Corp., 490 U.S. at 717-718. 
+
+
+' The date of plan termination ceases participants’ benefit accruals 
+and vesting rights, and fixes the liabilities of the PBGC and employers 
+
+
+under Title IV. 29 U.S.C, 1322, 1362(a) and (b); see LTV Corp., 496 U.S. 
+
+
+at 638. 
+
+
+7 
+
+
+Section 4044(d) further provides that, “if any assets of 
+the plan attributable to employee contributions remain af- 
+ter satisfaction of all liabilities described in [29 U.S.C. 
+1344(a)], such remaining assets shall be equitably distrib- 
+uted to the participants who made such contributions or 
+their beneficiaries.” 29 U.S.C. 1344(d)(3)(A); see also 29 
+U.S.C. 1344(d)(3)(B) (prescribing formula for determining 
+the portion of remaining assets that are attributable to 
+employee contributions). After that equitable distribu- 
+tion, “any residual assets * * * may be distributed to the 
+er vloyer if—(A) all liabilities of the plan to participants 
+and their beneficiaries have been satisfied, (B) the 
+distribution does not contravene any provision of law, and 
+(C) the plan provides for such a distribution.” 29 U.S.C. 
+1344(d)(1). 
+
+2. Petitioner Hughes Nonbargaining Retirement Plan 
+(the plan) is a tax-qualified defined benefit plan established 
+by petitioner Hughes Aircraft Company (Hughes), Pet. 
+App. 134a, and is governed by the provisions of Title IV of 
+ERISA, 29 U.S.C. 1321. Respondents are five retiree par- 
+ticipants in the plan. Pet. App. 133a. The plan is funded by 
+both mandatory employee contributions and employer con- 
+tributions. /d. at 2a, 135a. By 1986, the plan had generated 
+over a billion dollar funding “surplus,” defined as the 
+amount of plan assets that exceeds the actuarial present 
+value of accrued benefits. /d. at 2a, 136a. In 1987, Hughes 
+stopped contributing to the plan, but required employees 
+to continue making contributions. /d. at 137a. In 1989, 
+Hughes amended the plan to offer an early retirement 
+program to certain active employees. /d. at 3a. Hughes 
+again amended the plan in 1990, effective January 1, 1991, 
+to freeze enrollment (but not accruals) in the existing 
+contributory benefit structure. That amendment also 
+provided that new employees, and then-current employees 
+who so elected, would be covered by a new benefit struc- 
+ture that required no employee contributions but offered 
+lower benefits. /d. at 3a, 138a. 
+
+
+8 
+
+
+In January 1992, respondents filed a class action against 
+petitioners, contending that the 1991 amendment unlaw- 
+fully permitted the use of surplus plan assets attributable 
+to employee contributions to fund the new non-contribu- 
+tory benefit structure, and that the 1991 amendment ter- 
+minated the plan as of the amendment’s effective date. The 
+complaint alleged that the 1991 amendment violated the 
+anti-inurement provision in Section 403(c)(1) of ERISA, 29 
+U.S.C. 1103(¢)(1) (count 1); the exclusive purpose require- 
+ment of Section 404(a)(1), 29 U.S.C. 1104(a)(1) (count 2); the 
+vesting and nonforfeitability provisions of Sections 208 
+and 204, 29 U.S.C. 1053, 1054 (count 3); the rules in Section 
+4044(d), 29 U.S.C. 1344(d), requiring equitable distribution 
+of residual plan assets upon termination (count 4); and the 
+fiduciary rules in Sections 404 and 406, 29 U.S.C. 1104, 
+1106 (count 5). Pet. App. 139a-142a. The complaint further 
+alleged that the 1989 amendment violated Section 404(a)(1) 
+(D)’s requirement that a fiduciary follow plan documents, 
+29 U.S.C. 1104(a)(1)(D) (count 6). Pet. App. 142a-143a; see 
+also Br. in Opp. 5. Respondents sought various forms of 
+relief, including an equitable distribution of surplus plan 
+assets “in the form of improved benefits,” and an injune- 
+tion prohibiting Hughes from using plan assets to pay 
+benefits under the non-contributory benefit structure. 
+Pet. App. 148a. 
+
+3. The district court dismissed all counts of the com- 
+plaint under Rule 12(b)(6) of the Federal Rules of Civil 
+Procedure for failure to state aclaim. Pet. App. 53a-62a. 
+The court found that respondents had not alleged that the 
+plan failed to provide any benefits due under the plan, or 
+that the plan lacked sufficient assets to pay all accrued 
+benefits. /d. at 54a-55a. The court also rejected respon- 
+dents’ claim that the plan was effectively terminated by 
+the January 1, 1991, amendment creating a non-contribu- 
+tory benefit structure. Jd. at 59a. The court reasoned that 
+“{cjreation of a new benefits schedule or structure does 
+not terminate a plan,” and that respondents had failed to 
+allege that Hughes instituted any of the mandatory termi- 
+
+
+9 
+
+
+nation procedures under 29 U.S.C. 1341. Pet. App. 59a. 
+The court further observed that respondents’ termination 
+claim “overlooks the fact that thousands of participants, 
+including thousands of active employees, have elected to 
+remain under the contributory benefits structure and are 
+continuing to receive benefits thereunder.” /bid. Finally, 
+the court held that respondents had not stated valid claims 
+under ERISA’s anti-inurement, fiduciary duty, and vest- 
+ing provisions. /d. at 55a-6la. 
+
+4. Adivided panel of the court of appeals reversed. Pet. 
+App. la-48a. The court of appeals held that each count of 
+the complaint stated cognizable claims under ERISA by 
+alleging that Hughes used surplus plan assets that were 
+attributable to employee contributions for Hughes’ own 
+benefit and for the benefit of employees accruing benefits 
+under the non-contributory benefit structure. /d. at 5a, 
+27a. 
+
+The court of appeals recognized that this Court held in 
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996), that an em- 
+ployer does not act as a fiduciary under ERISA when it 
+amends a pension plan to alter benefits, and that using plan 
+assets to fund an early retirement program for plan par- 
+ticipants does not constitute a prohibited transaction un- 
+der 29 U.S.C. 1104(a)(1)(D). Pet. App. 7a. The court of ap- 
+peals concluded, however, that Spink did not govern this 
+case, because the Hughes plan is partly funded by em- 
+ployee contributions, whereas the plan at issue in Spink 
+was funded solely by employer contributions. Jd. at 7a-8a, 
+14a, 16a. The court of appeals therefore concluded that, 
+“when an employer amends a plan to use for its own benefit 
+an asset surplus attributable in part to employee contribu- 
+tions, the employer is wearing both its ‘fiduciary’ and its 
+‘employer’ hats.” Jd. at 15a. 
+
+The court of appeals also reasoned that whether the 
+January 1, 1991, plan amendment terminated the plan de- 
+pended on the factual question whether the plan had been 
+converted to a common law “wasting trust” whose pur- 
+poses have been accomplished. Pet. App. 10a-12a & n.3. If 
+
+
+10 
+
+
+respondents could prove a termination under that common 
+law doctrine, the court of appeals explained, they were en- 
+titled to an equitable distribution of the surplus plan as- 
+sets attributable to their contributions under 29 U.S.C. 
+1344(d), and Hughes had violated ERISA’s anti-inurement 
+and fiduciary duty provisions by using plan assets for pur- 
+poses other than paying benefits to participants in the al- 
+legedly terminated contributory plan. Pet. App. 10a-13a, 
+17a-18a, 22a-25a. The court of appeals further held that, by 
+using plan assets attributable in part to employee contri- 
+butions to fund the non-contributory benefit structure, 
+Ilughes violated a vested right of the employees to the 
+surplus “income” generated by their contributions. /d. at 
+18a, 21a. 
+
+Judge Norris dissented, concluding that the complaint 
+was properly dismissed in its entirety. Pet. App. 27a-48a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+A. Respondents have not stated a valid claim that 
+Hughes terminated its plan when it amended the plan to 
+create a new non-contributory benefit structure. Respon- 
+dents have not alleged that Hughes complied with the pro- 
+visions in Title IV that set forth the exclusive means by 
+which a plan may be terminated. 29 U.S.C. 1341, 1342. 
+Because the plan has not been terminated under Title IV, 
+respondents have no right to an equitable distribution of 
+the plan’s surplus assets under 29 U.S.C. 1344. 
+
+The 1991 amendment also did not convert the Hughes 
+plan into a common law “wasting trust.” Even assuming 
+that theory may form the basis of an action by participants 
+to force an employer to initiate the termination of a 
+defined benefit plan under Title IV of ERISA, the Hughes 
+plan is not a wasting trust because its purposes have not 
+been accomplished. Plan participants continue to 
+benefits under the plan, and the purposes of the trust 
+therefore continue to be served. Similarly, the Hughes 
+plan is a single plan under ERISA, because the 1991 
+amendment on its face did not create two distinct plans, 
+and it is undisputed that all assets under the plan are 
+
+
+11 
+
+
+available to pay benefits under both the contributory and 
+non-contributory benefit structures. 
+
+B. Respondents also have not stated a valid claim that 
+Hughes violated ERISA’s vesting provisions, 29 U.S.C. 
+1053, 1054. Those provisions prohibit forfeiture of the 
+accrued benefits specified in the plan. Respondents are 
+receiving those benefits. They are not entitled under 
+ERISA’s vesting provisions to additional benefits on ac- 
+count of the plan’s earnings. 
+
+Nor have respondents stated a viable claim that Hughes, 
+by using plan assets to provide new non-contributory bene- 
+fits, violated ERISA’s anti-inurement provision, 29 U.S.C. 
+1103(c)(1). An employer does not unlawfully use plan as- 
+sets for its own benefit when it merely provides for the 
+payment of benefits to plan participants. That conclusion 
+is not altered by the fact that the plan has surplus assets 
+partly due to employee contributions, or by the fact that 
+the employer incidentally benefits from the payment of 
+pension benefits under its plan. 
+
+C. The court of appeals also should have dismissed the 
+claim that Hughes violated ERISA’s fiduciary duty provi- 
+sions, 29 U.S.C. 1104, 1106, when Hughes amended its plan 
+in 1989 to create an early retirement program and in 1991 
+to create a non-contributory benefit structure. This 
+Court held in Lockheed Corp. v. Spink, 517 U.S. 882, 891 
+(1996), that “the act of amending a pension plan does not 
+trigger ERISA’s fiduciary provisions,” because the em- 
+ployer acts as a settlor, not as a fiduciary, with respect to 
+
+
+matters of plan design. That reasoning applies regardless 
+of whether the plan provides for employee contributions. 
+
+
+ARGUMENT 
+
+
+THE COURT OF APPEALS ERRED IN HOLDING 
+
+THAT THE COMPLAINT STATES VALID CAUSES 
+
+OF ACTION UNDER ERISA 
+
+The court of appeals seriously misconstrued the provi- 
+sions of Titles I and IV of the Employee Retirement In- 
+come Security Act of 1974 (ERISA) in allowing this case 
+
+
+12 
+
+
+to proceed. The court fundamentally erred in concluding 
+that the 1991 plan amendment adopting a non-contributory 
+benefit structure may amount to a termination of the plan 
+under ERISA, and that respondents are entitled to surplus 
+plan assets in a defined benefit pension plan before the plan 
+has been terminated pursuant to Title IV. Those errors 
+led the court of appeals to conclude that respondents 
+stated a claim for a distribution of assets under 29 U.S.C. 
+1344, and significantly influenced the court's decision 
+concerning respondents’ causes of action under ERISA’s 
+anti-inurement and fiduciary duty provisions. See Pet. 
+App. 10a-13a, 16a, 23a. We first discuss the court's errors 
+concerning plan termination; we then turn to why the 1991 
+plan amendment is consistent with ERISA’s vesting and 
+anti-inurement provisions; and finally we address why 
+respondents do not state a valid claim that Hughes violated 
+ERISA’s fiduciary provisions. 
+
+
+A. THE 1991 AMENDMENT DID NOT AMOUNT TO A 
+PLAN TERMINATION TRIGGERING A DISTRIBU- 
+TION OF PLAN ASSETS 
+
+
+1. Respondents allege that Hughes terminated the plan 
+on January 1, 1991, when it froze new participation in the 
+contributory structure and created a non-contributory 
+structure providing for a different level of benefits. Pet. 
+App. 132a, 134a, 14la. That allegation, however, does not 
+state a valid claim for distribution of assets under Section 
+4044. 
+
+An employer may terminate a single-employer defined 
+benefit pension plan covered by Title IV of ERISA only 
+through the “standard” termination or “distress” termi- 
+nation procedures set forth in Title IV. 29 U.S.C. 1341. 
+Those statutory methods are the “exclusive means of 
+lemployer-initiated] plan termination.” 29 U.S.C. 1341(a) 
+(1) (emphasis added); see also 62 Fed. Reg. at 60,428 (to be 
+codified at 29 C.F.R. 4041.1) (statute’s requirements set 
+forth the “exclusive means of voluntarily terminating a 
+plan”); 52 Fed. Reg. 33,318 (1987) (expressing PBGC’s view 
+that, “[aJbsent qualifying for {a standard or distress] 
+
+
+13 
+
+
+termination, a single-employer plan cannot voluntarily 
+terminate”).’ It is undisputed that Hughes has never 
+initiated the notification and other requirements to 
+terminate the plan under 29 U.S.C. 1341. See Pet. App. 
+59a. Therefore, as a matter of law, the plan has not termi- 
+nated under ERISA. 
+
+It ineluctably follows from the above conclusion that re- 
+spondents have no claim under Section 4044(d) to an equi- 
+table distribution of surplus assets attributable to their 
+contributions. Section 4044 permits a distribution to par- 
+ticipants and beneficiaries only “[iJn the case of the 
+termination of a single-employer plan.” 29 U.S.C. 1344(a); 
+see also 29 C.F.R. 4044.1 (Section 4044 “contains rules for 
+allocating a plan’s assets when the plan terminates”); Pet. 
+App. 34a (Norris, J., dissenting) (“{i]f the Plan is termi- 
+nated, then 4044(d) of ERISA * * * kicks in and requires 
+an equitable distribution of the Plan assets”). Accord- 
+ingly, because the plan has not terminated, the provisions 
+in 29 U.S.C. 1344(d) do not provide for a distribution of plan 
+assets. See Brillinger v. General Elec. Co., 130 F.3d 61, 
+63-64 (2d Cir. 1997), petition for cert. pending, No. 97-1834; 
+Malia v. General Elec. Co., 23 F.3d 828, 831-832 (3d Cir.), 
+cert. denied, 513 U.S. 956 (1994); ef. Mead Corp., 490 U.S. 
+at 723 (Section 4044 is a “distribution mechanism and not a 
+source for new entitlements”).’ 
+
+
+, 
+
+
+- Courts of appeals, other than the court below, have recognized 
+that Title IV's termination provisions set forth the sole means by 
+which a defined benefit plan covered by Title iV may terminate. See, 
+e.g., American Flint Glass Workers Union v. Beaumont Glass Co., 62 
+F.3d 574, 579 (3d Cir. 1995); PBGC vy. Pritchard, 0 F.3d 315, 316 (Sth 
+Cir. 1995); Phillips v. Bebber, 914 F.2d 31, 34 (4th Cir. 1990). 
+
+’ Even if petitioner had initiated a standard termination under 29 
+U.S.C. 1341(b), Section 4044(d) would not require a distribution of sur- 
+plus assets until all the plan's liabilities had been satisfied. 29 U.S.C. 
+1344(d)(3)(A). Moreover, because “pension funding on a termination 
+basis is subject to actuarial assumptions that differ from those used to 
+calculate funding on an on-going basis|,) * * * a pension plan that is 
+adequately funded on an on-going basis can be substantially underfun- 
+ded on a termination basis.” American Flint Glass Workers Union, 62 
+F.3d at 577 n4. See also PBGC Amicus Br. Supporting Pet. 14-15 n.10 
+
+
+14 
+
+
+In holding that respondents have stated a valid claim to 
+receive an equitable share of the plan’s surplus assets, the 
+court of appeals reasoned that respondents, “after discov- 
+ery” and possibly through “the help of experts,” may be 
+able to prove that the plan “constructive[ly] terminated” 
+in 1991 by becoming a wasting trust under common law 
+principles. Pet. App. llan.3. At common law, the court of 
+appeals explained, “once the object of the settlor had been 
+achieved, the trust was deemed to end since its continua- 
+tion would be useless and might frustrate the intent of the 
+settlor as to a beneficiary or remainder interest.” Jbid. 
+(internal brackets omitted) (quoting Jn re Gulf Pension 
+Litigation, 764 F. Supp. 1149, 1202 (S.D. Tex. 1991), af’d on 
+other grounds sub nom. Borst v. Chevron Corp., % F.3d 
+1308 (5th Cir. 1994), cert. denied, 514 U.S. 1066 (1995)). 
+
+That common law doctrine, however, cannot override 
+Title IV’s “{e)xclusive” procedures setting forth the 
+means by which a plan may terminate. 29 U.S.C. 1341(a). 
+See Mertens v. Hewitt Assocs., 508 U.S. 248, 259 (1993) 
+(“The authority of courts to develop a ‘federal common 
+law’ under ERISA is not the authority to revise the text of 
+the statute.”) (citations omitted). Indeed, allowing a com- 
+mon law doctrine to “deem” a plan terminated for purposes 
+of Section 4044(d) would undermine the certainty created 
+by the Act and would jeopardize the orderly administration 
+of plan terminations. The court of appeals therefore erred 
+in concluding that a plan may terminate absent strict 
+compliance with Title [V’s termination provisions.* 
+
+
+(discussing why court of appeals’ approach would be “impossible to ad- 
+minister”), 
+
+* The court of appeals also relied (Pet. App. 1a n.3) on 26 C.F.R. 
+1.401-6(b)(1), which states that “[wJhether a plan is terminated is gen- 
+erally a question to be determined with regard to all the facts and cir- 
+cumstances in a particular case.” That regulation, however, does not 
+apply to plans covered by Title IV of ERISA. Indeed, the Department 
+of Treasury's regulations and rulings expressly recognize that a Title 
+IV plan may not be terminated unless the termination complies with 
+the procedures set forth in 29 U.S.C. 1341 or 1342. 26 C.F.R. 1.411(d)- 
+2(eX2); Rev. Rul. 89-87, 1989-2 C.B. 81 (“a single-employer plan to 
+
+
+7 15 
+
+
+2. Respondents also argue (Br. in Opp. 6-7, 25-29) that, 
+under the common law theory of wasting trust, a court 
+should order Hughes to terminate its plan under the pro- 
+cedures set forth in 29 U.S.C. 1341. That contention, how- 
+ever, is inconsistent with respondents’ complaint, which 
+alleges that the plan in fact terminated on January 1, 1991, 
+Pet. App. 132a, 134a, I41a; see also J.A, 234-235, 237, 248 
+(first amended complaint). Moreover, under 29 U.S.C. 
+1348(a)(1), the plan termination date in a standard termina- 
+tion is the date proposed in the plan administrator's notice 
+of intent, which must be provided to affected parties “[n Jot 
+less than 60 days before the proposed termination date.” 
+29 U.S.C. 1341(a)(2) (emphasis added), Thus, a plan may 
+not be retroactively terminated in a standard termination 
+under Title IV. 
+
+Nor have respondents alleged a viable claim that a court 
+may order the termination of the Hughes plan on a future 
+date on the ground that the plan is a wasting trust. As an 
+initial matter, Title IV does not grant participants a right 
+of action to force a plan termination. Cf. 29 U.S.C. 1370 
+(permitting suit to enjoin or redress a “violation” of cer- 
+tain provisions in Title IV). Furthermore, it is unclear 
+whether, in light of Title IV’s comprehensive provisions, 
+any other provision of law would permit a plan participant 
+to sue a plan sponsor to terminate a plan under Title IV 
+based on a common law theory of a wasting trust.’ 
+
+
+which Title IV [of ERISA] applies that has not been terminated under 
+Title IV, even though its assets have been distributed, will not have 
+terminated for purposes of the Code”). 
+
+5 We are aware of no court of appeals decision to consider the issue. 
+Cf. American Flint Glass Workers Union, 62 F.3d at 580-581 (reversing 
+summary judgment because union alleged that settlement agreement 
+required employer to supply additional funding needed for plan to ter- 
+minate under Title IV); Phillips v. Bebber, 914 F.2d 31, 34 (4th Cir. 
+1990) (ordering plan termination in conformity with Title IV when 
+plan documents provided for termination upon occurrence of certain 
+events); Jn re Gulf Pension, 764 F. Supp. at 1201-1205 (holding that two 
+defined benefit plans in which enrollments froze and contributions 
+ceased in 1970 were wasting trusts whose continuation would frustrate 
+
+
+16 
+
+
+This Court need not decide, however, whether (and, if so, 
+under what circumstances) a plan participant may force an 
+employer to initiate the procedures under 29 U.S.C. 1341 
+to terminate a defined benefit pension plan covered by Ti- 
+tle IV under a wasting trust theory, because there is no 
+basis for applying such a theory in this case. Under com- 
+mon law, a wasting trust is a trust whose purposes have 
+been accomplished, such that the continuation of the trust 
+would frustrate the settlor’s intent. Pet. App. lla n.3; see 
+generally Austin W. Scott & William F. Fratcher, The 
+Law of Trusts §§ 334, 337, 337.8 (4th ed. 1989); George G. 
+Bogert & George T. Bogert, The Law of Trusts and Trus- 
+tees $§ 1002, 1007 (rev. 2d ed. 1983); Restatement of Trusts 
+(Second) § 337(2) (1959). The Hughes plan does not fall 
+within that definition, because its purposes have not yet 
+been accomplished. 
+
+Hughes created its plan to provide deferred compensa- 
+tion to its employees in the form of pension benefits. See 
+J.A. 61 (stating purposes of Plan “[t]o stimulate and main- 
+tain among eligible employees of the Companies, a sense of 
+responsibility, cooperative effort and a sincere interest in 
+the progress and success of the Companies,” and “[t]o in- 
+crease the efficiency of such Employees and to encourage 
+them to remain with the Companies until retirement from 
+active service”); see generally 29 U.S.C. 1002(2)(A) (pen- 
+sion plans provide employees with retirement and deferred 
+income). Here, although the 1991 amendment froze new 
+enrollment in the contributory benefit structure, the plan 
+has thousands of active participants who are continuing to 
+accrue benefits under that structure. J.A. 174 (Garrison 
+Supp. Decl. ¥ 3) (in 1991, “more than 39,000 were active 
+
+
+settlor’s intent, even though 2,900 active employees continued to accrue 
+benefits under plans).- Different considerations may apply to defined 
+contribution plans, which are not subject to Title IV. 29 U.S.C. 
+1321(b\1). See Chambers v. Kaleidoscope, Inc. Profit Sharing Plan & 
+Trust, 650 F. Supp. 359, 373-375 (N.D. Ga. 1986) (directing termination 
+of defined contribution plan that had been abandoned by plan sponsor 
+after sponsor filed bankruptcy petition and ceased to conduct business). 
+
+
+17 
+
+
+employees * * * accruing benefits under the con- 
+tributory benefits structure of the Plan”); see also Pet. 
+App. 59a, 146a. Furthermore, all eligible employees hired 
+by Hughes after 1991 are accruing benefits under the 
+plan’s non-contributory benefit structure. /d. at 3a, 146a. 
+Thus, the 1991 amendment had no effect on the plan’s pur- 
+pose to provide pension benefits to eligible employees. 
+
+On the other hand, if the plan were to terminate, all 
+benefit accruals under the plan would cease. See Blessitt 
+v. Retirement Plan for Employees of Dixie Engine Co., 
+848 F.2d 1164, 1172-1173 (11th Cir. 1988) (en banc); note 1, 
+supra. Thus, far from effectuating the settlor’s intent, a 
+termination would frustrate the plan’s express purpose to 
+retain active employees through the accrual of benefits. 
+Accordingly, there is no basis for concluding that a court 
+could order a termination of the Hughes plan under 
+respondents’ theory that the 1991 amendment converted 
+the Hughes plan into a wasting trust whose purposes have 
+been accomplished.° 
+
+Finally, application of a wasting trust theory would be 
+inappropriate in light of Hughes’ manifest objection to the 
+termination of its financially solvent, ongoing plan.’ 
+ERISA generally recognizes that employers have discre- 
+tion to terminate employee pension or welfare benefit 
+plans. Spink, 517 U.S. at 890; Curtiss-Wright Corp. v. 
+Schoonejongen, 514 U.S. 73, 78 (1995); Inter-Modal Rail 
+Employees Ass’n v. Atchison, T. & S.F. Ry., 117 S. Ct. 
+1513, 1516 (1997). Thus, the decision whether to terminate 
+
+
+© In light of the objection to the termination by many plan partici- 
+pants, see Hughes Aircraft Retirees Ass’n and Hughes Employees 
+Ass’n Amicus Br. Supporting Pet. 2-3, respondents could not meet the 
+additional common law requirement that all beneficiaries of the wast- 
+ing trust consent to its termination. See Scott & Fratcher, supra, §§ 
+334, 337; Bogert & Bogert, supra, §§ 996, 1002, 1007; Restatement of 
+Trusts (Second), supra, §§ 337(1), 340(2). 
+
+? Cf. 29 U.S.C. 1342(a) (authorizing involuntary termination pro- 
+ceedings brought by PBGC when, inter alia, “the plan has not met the 
+minimum funding standard under (26 U.S.C. 412]” or “the plan will be 
+unable to pay benefits when due”). 
+
+
+18 
+
+
+a pension plan is not a fiduciary act. American Glass 
+Workers Union, 62 F.3d at 579; see also DOL Advisory Op. 
+No. 97-08A, at 3-4 (Jan. 23, 1997) (“‘settlor’ functions in- 
+clude decisions relating to the establishment, design and 
+termination of plans and, except in the context of multiem- 
+ployer plans, generally are not fiduciary activities subject 
+to Title | of ERISA”); accord DOL Info. Ltr. No. 03131986 
+(Mar. 13, 1986). A forced termination in this case would be 
+inconsisteit with those principles and would undermine 
+one of ERISA’s stated purposes: “to encourage the 
+maintenance and growth of single-employer, defined bene- 
+fit pension plans” that provide “retirement income secu- 
+rity [to] millions of workers.” 29 U.S.C. 1001b(a)(2), 
+100 Lb(e(2); see also 29 U.S.C. 1302(a)(1). 
+
+3%. There also is no basis for respondents’ additional 
+eontention that the Hughes’ plan has become a wasting 
+trust because the 1991 amendment created two separate 
+pension plans, a “Contributory Plan” and a “Non-Con- 
+tributory Plan” providing different level of benefits. Br. in 
+Opp. 2-6. Both the contributory and non-contributory 
+benefit struetures are part of a single plan under ERISA. 
+On its face, the 1991 amendment did not create a new plan. 
+Instead, the amendment altered an existing plan to create 
+a new benefit structure that applies to participants hired 
+after the effective date of the amendment and to previously 
+hired participants who elected .to switch from the pre- 
+existing contributory benefit structure. J.A. 34 (Verhey 
+Decl. 44 4-5), 159-172 (amendment to Plan adding non-con- 
+tributory benefit structure). 
+
+
+Respondents mistakenly contend that the contributory 
+
+
+and non-contributory benefit structures constitute differ- 
+ent plans because they share “virtually no characteris- 
+tics.” Br. in Opp. 4 (quoting Pet. App. 3a). “Nothing in 
+ERISA prohibits two different benefit structures from be- 
+ing funded from one source.” Pet. App. 45a (Norris, J., 
+dissenting). Department of Labor regulations specifically 
+recognize that “an employee benefit plan may provide dif- 
+
+
+19 
+
+
+ferent benefits for various classes of participants and 
+beneficiaries.” 29 C.F.R. 2520.102-4. 
+
+A plan amendment that creates a new benefit structure 
+does not create a new plan under ERISA if, after the 
+amendment, all the assets under the plan remain available 
+to pay benefits to all of the participants and beneficiaries 
+under the plan. See, e.g., 26 C.F.R. 1.414(/)-1(b)(1) (for pur- 
+poses of plan mergers, consolidations, and transfers of plan 
+assets, “[a] plan is a ‘single plan’ if and only if, on an ongo- 
+ing basis, all of the plan assets are available to pay benefits 
+to employees who are covered by the plan and their benefi- 
+ciaries. * * * A plan will not fail to be a single plan 
+merely because * * * [t]he plan has several distinct bene- 
+fit structures which apply either to the same or different 
+participants.”); accord Rev. Rul. 81-137, 1981-1 C.B. 232; 
+DOL Advisory Op. No. 81-41A (Apr. 6, 1981). There is no 
+dispute here that all of the assets of the amended plan are 
+available to pay benefits to participants under both benefit 
+structures. Accordingly, the 1991 amendment did not 
+create two separate plans under ERISA.” 
+
+
+B. THE 1991 AMENDMENT DID NOT VIOLATE 
+ERISA’S VESTING OR ANTI-INUREMENT PRO- 
+VISIONS 
+
+
+1. As retiree participants in a defined benefit pension 
+plan, respondents have vested rights to receive an “ac- 
+crued benefit,” 29 U.S.C. 1053(a), which is defined as the 
+“benefit determined under the plan,” generally “expressed 
+
+
+* In certain circumstances, a plan may be tested for compliance 
+with the nondiscrimination requirements in 26 U.S.C. 4Q1(a)(4) and 
+410(b) as if there were two or more distinct plans. See 26 C.F.R. 
+1.401(a)(4)-%e), 1.401(a4)-12, 1.410(b)(7eX1) and (4); see T.D. 8485, 
+1993-2 C.B. 126, 129; T.D. 8363, 1991-2 C.B. 287, 306; T.D. 8360, 1991-2 
+C.B. 98, 104. Those testing provisions are not relevant to the issues 
+presented in this case. 
+
+* Even were respondents correct that there is a distinct contribu- 
+tory “plan,” that plan would not be a wasting trust because its pur- 
+poses plainly continue to be furthered by the accrual of benefits for 
+thousands of participants under that “plan.” See p. 16, supra. 
+
+
+20 
+
+
+in the form of an annual benefit commencing at normal 
+retirement age.” 29 U.S.C. 1002(23)(A). Respondents do 
+not dispute that they are receiving their accrued benefits 
+determined under the plan. Pet. App. 54a-55a. Nor do 
+respondents allege that they are receiving benefits less 
+than the statutory minimum prescribed by 29 U.S.C. 
+1054(c)(2)(B) for benefits derived from an employee's 
+accumulated mandatory contributions. See p. 4, supra. 
+Respondents therefore have not stated a valid claim that 
+the 1991 amendment violated ERISA’s vesting provisions 
+under 29 U.S.C. 1053 and 1054. 
+
+The court of appeals’ contrary conclusion is based on 
+the view that “if employees’ own contributions and the in- 
+come their contributions generate exceed the defined 
+benefit amount under the plan, ERISA requires that em- 
+pluyees be paid the larger amount.” Pet. App. 18a 
+(emphasis added); see also id. at 21a (“[bly statutory defini- 
+tion, employees are vested in their own contributions and 
+the income generated therefrom”) (emphasis added). The 
+Act, however, does not support that conclusion. 
+
+Unlike a defined contribution plan, see pp. 3-4, supra, 
+employees in an ongoing defined benefit plan do not have 
+vested rights in the “income” generated by their own 
+mandatory contributions. Such employees have a nonfor- 
+feitable right only in the greater of the benefits deter- 
+mined under the plan or a benefit attributable to their ac- 
+cumulated mandatory contributions plus a statutory rate 
+of interest. 29 U.S.C. 1002(23), 1053(a), 1054(e)(2)(B). Any 
+assets in excess of those needed to provide those nonfor- 
+feitable benefits remain assets of the plan to which indi- 
+vidual employees have no rights under 29 U.S.C. 1053. See 
+Brillinger v. General Elec. Co., 130 F.3d at 64 (“Partici- 
+pants in a defined benefit plan are not entitled to increases 
+in benefits because successful investment causes assets to 
+grow to be greater than liabilities.”); Johnson v. Georgia- 
+Pacific Corp., 19 F.3d 1184, 1189 (7th Cir. 1994) (“A 
+defined-benefit plan gives current and former employees 
+property interests in their pension benefits but not in the 
+
+
+21 
+
+
+assets held by the trust.”); accord Malia v. General Elec. 
+Co., 23 F.3d at 830 n.2, 831-832. 
+
+2. Respondents also have failed to state a valid cause of 
+action under the anti-inurement provision of Section 
+403(c)(1). That Section, which is not restricted to fiduci- 
+ary acts (see Pet. App. 8a), provides in relevant part that 
+“the assets of a plan shall never inure to the benefit of any 
+employer and shall be held for the exclusive purposes of 
+providing benefits to participants in the plan and their 
+beneficiaries and defraying reasonable expenses of admin- 
+istering the plan.” 29 U.S.C. 1103(c)(1). When an em- 
+ployer distributes plan assets in the form of benefit pay- 
+ments to eligible participants and beneficiaries, the plan’s 
+assets are paid in accordance with the express terms of 
+Section 403(c)(1) and do not unlawfully “inure to the bene- 
+fit” of the employer.'® Thus, Hughes’ amendment of the 
+plan to provide for the use of its assets to pay benefits un- 
+der the non-contributory benefit structure does not violate 
+Section 403(c)(1). See Pet. App. 33a (Norris, J., dissenting) 
+(“In essence, [respondents] are * * * claiming that 
+[petitioner] somehow violated § 403(c)(1) when it used Plan 
+funds to pay benefits to Plan participants.”). 
+
+In ruling to the contrary, the court of appeals relied on 
+the fact that the plan’s surplus assets were partly funded 
+by employee contributions. Pet. App. 8a-10a. Section 
+403(c\(1) prohibits inurement of plan assets, however, 
+without regard to their source. The focus is on the use of 
+plan assets.'' If assets are used for impermissible pur- 
+
+
+'° Courts of appeals have consistently so held. See Spink v. Lock- 
+heed Corp., 125 F.3d 1257, 1261 (9th Cir. 1997); Maez v. Mountain 
+States Tel. & Tel., Inc., 54 F.3d 1488, 1506 (10th Cir. 1995); Aldridge v. 
+Lily-Tulip, Inc. Salary Retirement Plan Benefits Comm. , 953 F.2d 587, 
+592 n.6 (11th Cir. 1992), cert. denied, 516 U.S. 1009 (1995); Fletcher v. 
+Kroger Co., 942 F.2d 1137, 1140 (7th Cir. 1991); Hlinka v. Bethlehem 
+Steel Corp., 863 F.2d 279, 283-284 (3d Cir. 1988). 
+
+'! For example, an employer violates Section 403(c)(1) if it with- 
+draws assets from the plan for non-trust purposes. See, ¢.g., Amato v. 
+Western Union Int'l, Inc., 773 F.2d 1402, 1414 (2d Cir. 1985), cert. dis- 
+missed, 474 U.S. 1113 (1986); DOL Advisory No. Op. 97-03A, at 3-4 (Jan. 
+
+
+22 
+
+
+poses, it is no defense for an employer to argue that some 
+of the assets were derived from the employer’s own contri- 
+butions. If assets are used for permissible purposes (/.¢., 
+to pay benefits to eligible participants), those payments 
+are not transformed into an impermissible inurement to 
+the employer just because some of the underlying contri- 
+butions were made by employees. 
+
+The court of appeals similarly reasoned that, in amend- 
+ing the plan to create a non-contributory benefit struc- 
+ture, “Hughes has taken advantage of the plan’s asset sur- 
+plus for its own benefit” by “reducling] its labor costs 
+while effectively increasing new employees’ wages.” Pet. 
+App. 6a. That reasoning, however, ignores the fact that “a 
+defined benefit plan containing residual assets by its na- 
+ture benefits an employer.” Malia, 23 F.3d at 831 n.2; see 
+also Brillinger, 130 F.3d at 62 (“if the investment of plan 
+assets [in a defined benefit plan] is successful and produces 
+a surplus, the employer benefits”). For instance, “any ex- 
+cess in assets resulting from superior plan asset perform- 
+ance typically accrues to the employer's benefit by reduc- 
+ing the out-of-pocket contribution the employer must 
+make to maintain required funding levels for the present 
+value of the defined benefits.” Malia, 23 F.3d at 831 n.2. 
+Indeed, even the decision below acknowledges that an em- 
+ployer does not violate Section 403(c)\(1) by suspending 
+contributions to an overfunded plan. Pet. App. 6a; ef. 26 
+U.S.C. 404(a)(1)(A) (generally limiting tax deduction to the 
+amount of employer’s contribution not in excess of the full 
+funding limit) and 4972 (imposing 10% tax on excess em- 
+ployer contributions)."’ 
+
+
+23, 1997). Similarly, an unlawful inurement may occur if an employer 
+uses plan assets for purposes other than the payment of benefits, such 
+as pledging plan assets as collateral for a loan. 
+
+
+'2 Moreover, subject to the vesting and accrual requirements in 29 
+U.S.C. 1053 and 1054, the amount of benefits an employee ultimately 
+receives under a defined benefit plan will not correlate exactly with 
+the amount of the employee's contributions. For example, when a plan 
+is established, it may give credit for “past service” of employees, that 
+is, years of service for which no contributions were made. Such 
+
+
+23 
+
+
+If an employer permissibly may benefit from an over- 
+funded plan by ceasing contributions and leaving benefit 
+levels constant, there is no reason why an employer may 
+not similarly benefit by amending the plan to provide for 
+the use of surplus assets to create a new benefit structure 
+for current and new employees. See Johnson, 19 F.3d at 
+1190 (“Pensions are deferred compensation; just as the 
+employer may raise the wages of current employees with- 
+out owing anything to retirees, so it may raise the pen- 
+sions of current employees without owing anything to 
+persons who found satisfactory the combination of current 
+and deferred pay offered during their years of service.”). 
+For those reasons, the existence of a surplus has no bear- 
+ing on whether an employer violates Section 403(c)(1) by 
+using plan assets to pay benefits. See also Pet. App. 32a- 
+33a (Norris, J., dissenting) (“It is inconceivable that Con- 
+gress intended the lawfulness of a plan amendment to turn 
+on whether a ‘surplus’ existed at the time of the amend- 
+ment. Whether or not a surplus existed is logically irrele- 
+vant to the question whether the 1991 amendment adding a 
+non-contributory benefit structure violated ERISA’s anti- 
+inurement provision.”).'° 
+
+
+unfunded liabilities have to be amortized and may be paid through 
+contributions made by the employer or by employees working in future 
+years. See 29 U.S.C. 1082(b)(2). Additionally, where benefits are based 
+on an employee's final salary, an employer may “use” a plan surplus to 
+give current employees a benefit increase simply by increasing their 
+wages. Furthermore, an employer's current funding obligations may be 
+reduced if employees leave work before they obtain vested rights in ac- 
+cerned henefits under Section 1053. 
+
+
+'} The fact that an employer benefits when a defined benefit plan is 
+overfunded, however, does not mean that defined benefit plans are in- 
+variably advantageous to employers. Because benefit levels are fixed 
+by the plan, employers must compensate for any funding deficiency 
+whenever the investment performance of plan assets does not meet 
+actuarial assumptions. Pet. App. 32a (Norris, J., dissenting) (“The exis- 
+tence of a ‘surplus’ in a pension fund is nothing more than an actua. ial 
+artifact. * * * At all times, whether the fund's investment portfolio is 
+prospering or heading south, Hughes’ obligation to assure the financial 
+
+
+24 
+
+
+The above conclusion is strongly supported by this 
+Court's decision in Lockheed Corp. v. Spink, 517 U.S. 882 
+(1996). In addition to holding that ERISA’s fiduciary pro- 
+visions do not apply to the act of amending a plan to create 
+early retirement programs, see pp. 25-26, infra, Spink 
+also concluded that implementation of such a plan 
+amendment does not violate Section 406(a)(1)(D) of ERISA. 
+517 U.S. at 892-895. Section 406(a)(1)(D) is similar to Sec- 
+tion 403(c)(1)’s anti-inurement provision in that it pro- 
+hibits a fiduciary from engaging in any transaction that is 
+a direct or indirect “transfer to, or use by or for the 
+benefit of, a party in interest, of any assets of the plan.” 29 
+U.S.C, 1106(a)1)(D). Despite Section 406(a)(1)(D)’s broad 
+language, the Court held “that the payment of benefits 
+pursuant to an amended plan, regardless of what the plan 
+requires of the employee in return for those benefits, does 
+not constitute a prohibited transaction.” 517 U.S. at 895. 
+
+The Court in Spink reasoned that Section 406(a)(1)D) 
+“does not in direct terms include the payment of benefits 
+by a plan administrator,” and that the payment of benefits 
+is not the kind of “transaction” that Congress sought to 
+prohibit in Section 406(a). 517 U.S. at 892, 893. The Court 
+further explained that obtaining an employee’s release of 
+claims against the employer in exchange for the payment 
+of early retirement benefits is functionally equivalent to 
+many “ ‘incidental’ and thus legitimate benefits that a plan 
+sponsor may receive from the operation of a pension plan,” 
+such as “attracting and retaining employees, paying de 
+ferred compensation, settling or avoiding strikes, provid- 
+ing increased compensation without increasing wages, in- 
+creasing employee turnover, and reducing the likelihood of 
+lawsuits by encouraging employees who would otherwise 
+have been laid off to depart voluntarily.” Jd. at 893-894," 
+
+
+health of the Plan remains constant.”); see also Brillinger, 130 F.3d at 
+62; Malia, 23 F.3d at 831 n.2; Johnson, 19 F.3d at 1186. 
+
+'* This Court recognized that a “different question” might be pre- 
+sented if benefit payments “were merely a sham transaction, meant 
+to disguise an otherwise unlawful transfer of assets to a party in 
+
+
+25 
+
+
+As in Spink, there is no way to differentiate the incidental 
+gains that Hughes receives from the payment of benefits 
+from other legitimate advantages realized by employers 
+when they make benefit payments. 
+
+
+C. HUGHES WAS NOT ACTING AS A FIDUCIARY 
+WHEN IT AMENDED ITS PLAN 
+
+
+1. In Spink, this Court held that “[pjlan sponsors who 
+alter the terms of a plan do not fall into the category of fi- 
+duciaries.” 517 U.S. at 890. The Court therefore rejected 
+the contention that an employer violates the fiduciary pro- 
+visions in Sections 404(a) and 406(a) when the employer 
+amends its defined benefit pension plan to create early re- 
+tirement programs that are payable out of surplus assets 
+of the plan. The Court observed that ERISA defines a 
+“fiduciary” to include a person who engages in specified 
+activities with respect to the plan, including “any discre- 
+tionary authority or * * * control respecting manage- 
+ment of such plan or * * * authority or control respect- 
+ing management or disposition of its assets * * * or 
+* * * any discretionary authority or * * * responsibil- 
+ity in the administration of such plan.” 517 U.S. at 889 n.2 
+(quoting 29 U.S.C. 1002(21)(A)). Because those defined 
+functions do not include matters of plan design, the Court 
+reasoned, “the act of amending a pension plan does not 
+trigger ERISA’s fiduciary provisions.” /d. at 891. The 
+Court’s decision in Spink accordingly forecloses respon- 
+dents’ contention that Hughes violated the fiduciary pro- 
+
+
+interest, or involved a kickback scheme.” 517 U.S. at 895 n8. The 
+allegations in this case, however, do not fall within that exception. 
+The 1991 amend ment does not disguise any illegal payment. Instead, 
+it provides real benefits to real participants and does not reduce respon- 
+dents’ non-forfeitable benefits. Respondents’ contrary contention (Br. in 
+Opp. 7-8, 12-13; Pet. App. 24a-25a) simply restates the fatally flawed 
+claim that the 1991 amendment terminated the Hughes plan and 
+thereby violated ERISA’s vesting, termination, and fiduciary provi- 
+sions. See pp. 12-14, 19-21, supra, and pp. 25-29, infra. 
+
+
+26 
+
+
+visions of 29 U.S.C. 1104 and 1106 when it adopted the 1989 
+and 1991 amendments."* 
+
+The court of appeals attempted to distinguish Spink on 
+the ground that Spink sanctioned the use of surplus plan 
+assets to pay new benefits when the plan is funded solely 
+by the employer, but did not address a plan in which the 
+surplus was funded in part by employee contributions. 
+Pet. App. 14a-15a. That distinction, however, is irrelevant. 
+
+Although the plan in Spink was non-contributory, see 
+Spink v. Lockheed Corp., 125 F.3d 1257, 1261 (9th Cir. 
+1997), that fact played no part in the Court’s analysis. In- 
+stead, the Court reasoned that ERISA defines a fiduciary 
+in terms of the nature of the function performed, and that 
+an employer functions as a plan sponsor or settlor, not as a 
+fiduciary, when it amends a plan. See 517 U.S. at 890-891. 
+The nature of that action does not depend on whether a 
+plan is funded by employee or employer contributions, or 
+whether the plan contains an actuarial surplus at any 
+given time. See, e.g., Johnson, 19 F.3d at 1188; Malia, 23 
+F.3d at 832. Thus, an employer does not act as a fiduciary 
+simply because it amends a plan containing surplus assets 
+that are partly attributable to employee contributions. '° 
+
+
+'S Spink did not involve a multiemployer plan. Amendments of 
+multiemployer plans may be subject to ERISA’s fiduciary duty provi- 
+sions to the extent such plans delegate the authority to amend the plan 
+to fiduciaries that have authority to control and manage the operation 
+and administration of the plan. Siskind v. Sperry Retirement Pro- 
+gram, 47 F.3d 498, 506 (2d Cir. 1995); Mahoney v. Board of Trustees, 
+973 F.2d 968 (ist Cir. 1992) (Breyer, J.); but see Walling v. Brady, 125 
+F.3d 114, 118 (3d Cir. 1997). Contrary to respondents’ suggestion (Br. 
+in Opp. 18), the plan in this case does not resemble a multiemployer 
+plan in the above respect, because Hughes specifically reserved for 
+itself the authority to make plan amendments. Verhey Decl., Exh. 1 
+(Hughes Non-Bargaining Retirement Plan §§ 1.13 and 6.5(a) (Oct. 30, 
+1985)). 
+
+'© Nor does Varity Corp. v. Howe, 516 U.S. 489 (1996), cited by the 
+court of appeals (Pet. App. 1l5a-l6a), support the conclusion that 
+Hughes was acting as both a fiduciary and a plan sponsor when it 
+amended the plan. In Varity, this Court held that an employer exer- 
+cised the fiduciary function of plan administration when it made certain 
+
+
+27 
+
+
+There are good reasons not to impose fiduciary duties 
+on employers “en they amend a contributory plan to al- 
+ver plan benefits. Congress generally left to employers 
+such decisions as whether to establish a plan, what level of 
+henefits to provide, and the source of the plan’s funding. 
+See Spink, 517 U.S. at 890; Alessi v. Raybestos-Manhat- 
+tan, Inc., 451 U.S. 504, 511 (1981). Employers make those 
+decisions for their own business interests, and, accord- 
+ingly, such decisions “are not governed by fiduciary stan- 
+dards.” Sutter v. BASF Corp., 964 F.2d 556, 562 (6th Cir. 
+1992). For instance, employers may decide to require em- 
+ployee contributions in order to provide for greater 
+benefits, to lower costs to the employer, or to instill 
+greater employee interest in the plan. Dan M. McGill & 
+Donald S. Grubbs, Jr., Fundamentals of Private Pensions 
+181 (6th ed. 1989). Any attempt to impose on employers a 
+fiduciary duty to act “solely in the interest of the partici- 
+pants and beneficiaries,” 29 U.S.C. 1104(a)(1), would be 
+both unworkable and inconsistent with Congress's policy 
+nr to separate fiduciary from settlor functions under 
+
+SA. 
+
+2. The other grounds respondents advance for distin- 
+guishing Spink are equally unpersuasive. Respondents 
+cite 29 U.S.C. 1344 and 1053 to support the notion that 
+ERISA treats contributory defined benefit plans dif- 
+ferently from non-contributory plans. Br. in Opp. 19-20; 
+see also Pet. App. 8a-9a. Section 1344 differentiates be- 
+tween employee and employer contributions, however, 
+only upon plan termination. 29 U.S.C. 1344(a)(1), 
+(d\(3)(A); see also pp. 6-7, 13, supra. Moreover, Section 
+1053’s vesting provisions protect against forfeiture of 
+accrued benefits and do not grant participants in an on- 
+
+
+representations to employees regarding employee benefits. 516 U.S. at 
+498-503. The Court did not suggest in Varity, however, that an 
+employer performs both fiduciary and settlor functions when it amends 
+a plan. In any event, Spink’s subsequent holding makes clear that an 
+employer does not act as a fiduciary in amending the plan that it 
+sponsors. 
+
+
+28 
+
+
+going defined benefit plan property rights in plan assets. 
+See pp. 19-20, supra. Thus, neither of those provisions 
+supports imposing fiduciary duties on employers when 
+they amend a contributory plan that is partly funded by 
+employee contributions. '’ 
+
+Respondents also argue that amendments to a contribu- 
+tory plan, unlike amendments to a non-contributory plan, 
+involve the “disposition” of plan assets within ERISA’s 
+definition of a fiduciary under 29 U.S.C. 1002(21)(A). Br. in 
+Opp. 14-15, 17; see also Pet. App. 16a (“Hughes was dispos- 
+ing of the plan’s assets when it amended the plan”). 
+According to respondents, “Hughes, while ostensibly 
+‘amending’ the Plan, * * * actually disposed of its assets 
+by closing it and making it a wasting trust.” Br. in Opp. 17 
+n&. Those contentions are without merit. Spink 
+squarely held that a plan amendment to alter benefits—a 
+matter of plan design—does not fall within ERISA’s defi- 
+nition of a fiduciary. 517 U.S. at 890. Moreover, the 
+source of the plan’s assets does not dictate when an em- 
+ployer “disposes” of plan assets through plan management 
+or administration. 29 U.S.C. 1002(21)(A). And, for the rea- 
+sons previously stated, pp. 12-19, supra, respondents have 
+no basis for claiming that the 1991 amendment terminated 
+the plan or created a separate plan. 
+
+Finally, respondents assert that, because employees are 
+“co-settlors” of a plan when they contribute to it, the em- 
+ployer is subject to fiduciary duties when it amends a plan 
+funded by employee contributions. Br. in Opp. 17-18, 20; 
+see also Pet. App. 14a. That is not correct. ERISA does 
+not consider employees to be “co-settlors” of a plan just 
+because they are required to contribute to it. See 29 
+U.S.C. 1002(16)(B)(i) (“[t}he term ‘plan sponsor’ means 
+
+
+'’ Respondents similarly contend that Spink is not controlling in 
+this case because their complaint “alleges breach of accrual, vesting 
+and termination provisions of ERISA.” Br. in Opp. 7, 10-12; see also 
+Pet. App. 7a-8a. Those allegations, however, have no relevance to 
+whether Hughes acted as a fiduciary within the meaning of 29 U.S.C. 
+1002(21)(A) when the company amended its plan. 
+
+
+29 
+
+
+* * * the employer in the case of an employee benefit plan 
+established or maintained by a single employer”) (empha- 
+sis added). True “co-settlors”—e.g., an employer and a 
+union that jointly establish a plan and are therefore 
+defined as plan sponsors under 29 U.S.C. 1002(16)(B)(iii)— 
+have no fiduciary duty to represent each other’s interests 
+in arriving at the terms of such a plan. See NLRB vy. 
+Amax Coal Co., 453 U.S. 322, 336 (1981) (atmosphere in 
+which ERISA fiduciary must operate is “wholly inconsis- 
+tent with [the collective bargaining] process of compro- 
+mise and economic pressure”); Ford Motor Co. v. Huff- 
+man, 345 U.S. 330, 338 (1953) (employer and union “owe| | 
+complete loyalty to * * * the interests of [the parties] 
+[they] represent[]”). Accordingly, respondents have not 
+stated a valid claim that Hughes violated ERISA’s fiduci- 
+ary duty provisions when it adopted the 1989 and 1991 
+amendments to its plan. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+
+EDWIN S. KNEEDLER 
+
+
+MARVIN KRISLOV 
+Deputy Solicitor for 
+National Operations 
+Department of Labor 
+JAMES J. KEIGHTLEY 
+General Counsel 
+Pension Benefit Guaranty 
+Corp. 
+STUART L. BROWN 
+Chief Counsel 
+Internal Revenue Service 
+
+
+JULY 1998 
+
+
+Deputy Solicitor General 
+LISA SCHIAVO BLATT 
+
+
+Assistant to the Solicitor 
+General 
+
+

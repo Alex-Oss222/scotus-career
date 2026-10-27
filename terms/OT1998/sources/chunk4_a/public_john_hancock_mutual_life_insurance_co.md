@@ -1,0 +1,55 @@
+# Public prior-term reading copy
+
+Source: terms/OT1993/output/OT_1993CHUNK1.md; case entry copied verbatim.
+
+### John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, No. 92-1074
+
+Merits decision, 1993-12-13
+
+Argued October 12, 1993. On writ of certiorari to the Second Circuit, 970 F.2d 1138 (1992), which reversed in relevant part summary judgment treating the contract as exempt. The questions concern plan-asset and fiduciary status for the free funds under Group Annuity Contract No. 50, the insurance exclusion and state insurance regulation, and the claimed controlling agency interpretation.
+
+Reported at 510 U.S. 86.
+
+The Court affirms the Second Circuit's relevant fiduciary-status judgment, including rejection of the asserted insurance and agency obstacles, 6–3. Justice Ginsburg delivers the Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Blackmun, Stevens, Scalia, and Souter. Those six adopt the entire component-specific status, insurance, and agency analysis and support affirmance. Justice Thomas dissents, joined by Justices O'Connor and Kennedy; they would remand for the contract inquiry under their different construction. Their rejection of a blanket exemption and the overbroad agency view does not join the Court's investment-risk analysis.
+
+Chief Justice Alex-Lamar Stone-Zsela and all eight Associate Justices participated at argument and decision.
+
+Under ERISA §401(b)(2), a guaranteed-benefit policy itself is a plan asset, while the insurer's underlying assets are not deemed plan assets solely because it issued the policy to the extent the policy genuinely guarantees the amount of benefits. The disputed nonguaranteed free-funds component is not excluded: its plan-asset character subjects Hancock to fiduciary obligations to the extent it exercises authority or control over management or disposition of those assets under §3(21)(A), without deciding breach, causation, loss, or remedy.
+
+Ginsburg's opinion for the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, and Souter. Six Justices adopt the component-specific construction and its application to the disputed free funds.
+
+The Court holds that an insurer cannot remove nonguaranteed plan investments from ERISA merely by placing them in a general account. Section 401(b)(2) confines its exclusion to the extent that the policy supplies benefits whose amount the insurer guarantees. That language requires attention to the particular component, not a choice between exempting or regulating every asset associated with a mixed contract. United Benefit supplies the useful distinction between investment risk borne by the purchaser and a genuine insurance guarantee; ERISA's own text fixes this exclusion. This contract includes guaranteed benefits and a residual floor, but those features do not guarantee the amount of benefits payable from the disputed free funds. A guaranteed reasonable return and fixed conversion protection are significant indicators, not an exhaustive mandatory formula. Commingling, administrative difficulty, and the possibility of later annuity purchases cannot erase the statutory limitation. The Court therefore affirms the status ruling while leaving the separate fiduciary-function, breach, loss, and relief questions for their proper application below.
+
+SEC v. United Benefit Life Insurance Co.: used for the distinction between a genuine guarantee and retained investment risk; the ERISA text supplies the governing exclusion. Mertens v. Hewitt Associates: kept separate; its treatment of available equitable categories does not decide whether these funds are plan assets or whether Hancock committed a breach.
+
+McCarran-Ferguson does not bar application of ERISA's express insurance-related fiduciary and guaranteed-benefit provisions to this general-account contract. ERISA's insurance-saving clause preserves compatible state insurance regulation, but does not make a conflicting state obligation controlling over ERISA itself; a concrete conflict must be assessed as such rather than treated as a categorical exemption for all insurer assets.
+
+Ginsburg's opinion for the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, and Souter. This six-Justice ground rejects the asserted state-insurance obstacle to affirmance.
+
+The Court holds that state insurance supervision and federal fiduciary duties can operate together. McCarran-Ferguson protects state insurance laws against displacement by federal laws that do not specifically relate to insurance. ERISA expressly addresses insurance, including this very exclusion, so that limitation does not surrender the subject exclusively to the States. The preemption and insurance-saving clauses must likewise be read together. Metropolitan Life and FMC recognize the coexistence of ERISA and state regulation where a plan purchases insurance; the saving clause does not supersede an operative provision of ERISA itself. Silkwood supplies the ordinary distinction between compatible regulation and an actual obstacle to federal law. Hancock's concern for pooled-account regulation therefore requires attention to a concrete conflicting obligation, not elimination of the federal statute at the outset. Fabe addressed a different federal-priority conflict and supplies no blanket immunity here. The Court preserves compatible state regulation and rejects the asserted categorical bar without deciding every possible future conflict.
+
+Metropolitan Life Insurance Co. v. Massachusetts: applied to the coexistence of ERISA and state insurance regulation; no blanket withdrawal of federal obligations follows. FMC Corp. v. Holliday: applied to the coexistence of ERISA and state insurance regulation; no blanket withdrawal of federal obligations follows. Silkwood v. Kerr-McGee Corp.: applied for the distinction between compatible state regulation and a conflicting obstacle to federal law. United States Department of Treasury v. Fabe: distinguished because its federal-priority and policyholder-protection issue is different; its holding remains intact.
+
+The Labor Department's reading excluding general-account assets categorically cannot control because it exceeds the permissible statutory range by eliminating §401(b)(2)'s component limitation. The Court does not hold that inconsistency or presentation in litigation invariably defeats deference, and leaves the general degree of deference due agency litigation positions unresolved.
+
+Ginsburg's opinion for the Court, joined by Stone-Zsela, Blackmun, Stevens, Scalia, and Souter. These six adopt the statutory-limit ground; the dissenters separately reject the categorical agency position without adopting the Court's entire investment-risk analysis.
+
+The Court holds that deference does not permit an agency to replace a limited statutory exclusion with an unlimited one. Chevron makes the statute's permissible meaning the boundary of administrative interpretation. The Department's 1975 bulletin addressed prohibited transactions; it did not establish how the qualified guaranteed-benefit definition could exempt every general-account asset from fiduciary obligations. The later interpretation cannot solve that problem merely by expanding the bulletin's asserted reach. Its reading effectively treats a policy containing some guaranteed benefits as sufficient to exclude all associated funds, leaving no work for the words limiting the exclusion to the extent of the guarantees. Reliance on general-account practice does not cure that textual defect. The Court therefore rejects this interpretation at the statutory boundary. Its discussion of the Department's changing positions reinforces the need to identify what the guidance actually addressed, but does not create a rule that every inconsistent interpretation fails. The broader treatment of agency views first advanced in litigation remains open.
+
+Chevron U.S.A. Inc. v. NRDC: applied at the limit imposed by the statute; no categorical exception for inconsistent interpretations or litigation positions is adopted.
+
+No precedent is overruled. 
+
+Effective December 13, 1993, the guaranteed-benefit exclusion operates only to the extent of genuine guarantees; this contract's nonguaranteed free funds remain plan assets despite general-account placement. The policy itself and the insurer's underlying assets remain distinct. Fiduciary responsibility follows the statutory asset-and-function inquiry, while breach and remedies remain separate. Compatible state insurance regulation survives, actual conflict yields to ERISA, and the categorical agency exclusion exceeds the statutory boundary. Mertens's remedial categories and Fabe's different insurance-priority holding remain unchanged. No universal guarantee formula, rule making illiquidity alone dispositive, general denial of deference to changed agency views, or remedy entitlement is adopted.
+
+Thomas dissents, joined by O'Connor and Kennedy. They would remand for consideration of the 1977 amendment under their reading of a policy that provides for guaranteed benefits. That phrase can cover arrangements making provision for future guaranteed payments before every benefit amount has vested; it need not require the insurer to guarantee an aggregate investment return at every stage. But the statutory limitation still excludes only qualifying components. They therefore reject a blanket exemption for all general-account assets. The amendment ended automatic new guarantees and allowed nonguaranteed payments, so its actual operation requires assessment under their construction. Their position is a contract-specific remand, not a finding that every free fund is exempt. They also reject the agency's categorical exclusion and claimed entitlement to Chevron deference. That common negative conclusion does not make them join the Court's different guarantee-and-risk analysis. No member of either side decides fiduciary breach or the amount or form of relief.
+
+**Source Notes:** The contract, record, and chronology are supported by [the official report, 510 U.S. 86](https://tile.loc.gov/storage-services/service/ll/usrep/usrep510/usrep510086/usrep510086.pdf) and the Second Circuit opinion, 970 F.2d 1138. The contract contains some guarantees and a residual floor; the disputed component is not accurately described as a contract with no guarantees of any kind. The 1977 amendment and its alleged operation are kept distinct from new judicial factfinding. 
+
+The Second Circuit's relevant judgment is affirmed. Breach, causation, loss, and any monetary or equitable relief remain for the district court. Fiduciary consequences extend only to the assets and functions ERISA and the actual contract reach.
+
+The case returns for further district-court proceedings on the fiduciary claims under the affirmed judgment. Fiduciary status does not establish breach, causation, loss, or a monetary or equitable award. No further hearing date is fixed.
+
+**End of entry: John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank, Merits decision, 1993-12-13.**
+
+---

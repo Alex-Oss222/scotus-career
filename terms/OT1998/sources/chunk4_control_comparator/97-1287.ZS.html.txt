@@ -1,0 +1,102 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+HUGHES AIRCRAFT CO. V. JACOBSON
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+HUGHES AIRCRAFT CO. V. JACOBSON (97-1287) 
+105 F.3d 1288 and 128 F.3d 1305, reversed.Syllabus
+ Opinion
+ [ Thomas ]HTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+HUGHES AIRCRAFT CO. et al. v. JACOBSON et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+ 
+No. 97—1287.  Argued November 2, 1998–Decided January 25, 1999
+ 
+
+
+
+
+Respondents, retired employees of petitioner Hughes Aircraft Company (Hughes) and beneficiaries of petitioner Hughes Non-Bargaining Retirement Plan (Plan), a defined benefit plan, claimed in their class action that Hughes violated the Employee Retirement Income Security Act of 1974 (ERISA) when it amended the Plan by providing for an early retirement program and creating an additional noncontributory benefit structure for new participants.  According to the complaint, the Plan originally required mandatory contributions from all participating employees, in addition to Hughes’ own contributions.  Prior to amending the Plan, Hughes suspended its contributions because of a substantial Plan surplus, which still exists today.  The District Court dismissed respondents’ complaint for failure to state a claim, but the Ninth Circuit reversed, finding that the addition of the noncontributory benefit structure may have terminated the Plan and created two new plans.  The court also distinguished the holding in Lockheed Corp. v. Spink, 517 U.S. 882, 891, that “amending a pension plan does not trigger ERISA’s fiduciary provisions,” reasoning that Spink concerned a plan funded solely by employer contributions while ERISA’s fiduciary provisions were triggered here because the members of the contributory structure had a vested interest in the Plan’s surplus.  Accordingly, it concluded respondents had alleged six causes of action: Hughes violated ERISA’s prohibition against using employees’ vested, nonforfeitable benefits to meet its obligations, §203, by depleting the surplus to fund the noncontributory structure; Hughes violated ERISA’s anti-inurement prohibition, §403(c)(1), by benefiting itself at the expense of the Plan’s surplus; Hughes violated its fiduciary duties in three separate claims; and the Plan’s alleged termination violated §4044(d)(3)(A)’s requirement that a terminated plan’s residual assets be distributed to plan beneficiaries.  
+
+
+Held:  The Plan’s amendments are not prohibited by ERISA.  Pp. 5—14.
+
+
+    (a)  This Court’s review of respondents’ claims begins with the statute’s language.  Estate of Cowart v. Nicklos Drilling Co., 505 U.S. 469, 475.  Where that language provides a clear answer, it ends there as well.  See Connecticut Nat. Bank v. Germain, 503 U.S. 249, 254.  P. 5.
+
+
+      (b)  Respondents’ vested-benefits claim fails because the addition of the noncontributory structure did not affect the rights of pre-existing Plan participants.  As members of a defined benefit plan, respondents have no interest in the Plan’s surplus.  While a defined contribution plan member is entitled to whatever assets are dedicated to his individual account, a defined benefit plan member is generally entitled to a fixed periodic payment from an unsegregated pool of assets.  The employer funding a defined benefit plan typically bears the entire investment risk and must cover any underfunding.  However, the employer may also reduce or suspend his contributions to an overfunded defined benefit plan.  Given the employer’s obligation to make up any shortfall, no member has a claim to any particular asset that composes a part of the plan’s general asset pool.  Instead, members have a nonforfeitable right to “accrued benefits,” which by statute cannot be reduced below a particular member’s contribution amount.  Thus, a plan’s actual investment experience does not affect members’ statutory entitlement but instead reflects the employer’s risk.  Since a decline in the value of a plan’s assets does not alter accrued benefits, members have no entitlement to share in a plan’s surplus–even if it is partially attributable to the investment growth of their contributions.  Hughes never deprived respondents of their accrued benefits.  Thus, ERISA’s vesting provision is not implicated.  Pp. 5—8. 
+
+
+      (c)  Hughes also did not violate ERISA’s anti-inurement provision, §403(c)(1), by using surplus assets from the contributory structure for the added noncontributory structure.  As its language makes clear, §403(c)(1) focuses exclusively on whether fund assets were used to pay benefits to plan participants.  Respondents neither allege that Hughes used assets for a purpose other than paying plan benefits, nor deny that Hughes satisfied its Plan and ERISA obligations to assure adequate funding for the Plan.  ERISA gives an employer broad authority to amend a plan, Curtiss-Wright Corp. v. Schoonejongen, 514 U.S. 73, 78, and nowhere suggests that an amendment creating a new benefit structure creates a de facto second plan if the obligations continue to draw from the same single, unsegregated pool or fund of assets.  Pp. 8—9.
+
+
+      (d)  Respondents’ three fiduciary duty claims are directly foreclosed by Spink’s holding that without exception, “[p]lan sponsors who alter the terms of a plan do not fall into the category of fiduciaries.”  517 U.S., at 890.  Spink’s reasoning applies regardless of whether the plan at issue is contributory, noncontributory, or any other type, for the statute’s plain language makes no such distinction when defining fiduciary.  See ERISA §404(a).  Even assuming that a sham transaction may implicate a fiduciary duty, the incidental benefits Hughes received from implementing the noncontributory structure are not impermissible under the statute.  Pp. 10—12.
+
+
+      (e)  The addition of the noncontributory benefit structure does not require that Hughes be ordered to terminate the Plan.  Respondents concede that no voluntary termination has occurred within the meaning of ERISA §4041(a)(1); and their termination claim cannot be salvaged under the common-law theory of a wasting trust, whose purposes having been accomplished, its continuation would frustrate the settlor’s intent.  That doctrine appears to be inconsistent with ERISA’s termination provisions and thus must give way to the statute.  See Varity Corp. v. Howe, 516 U.S. 489, 497.  Assuming that the doctrine might apply in certain circumstances, it is by its own terms inapplicable in this case.  The circumstances here–the Plan continues to accept new members and pay benefits, and has thousands of active participants in the contributory benefit structure alone–can in no way be construed to constitute an enfeebled plan whose membership has dwindled to a mere remnant that would no longer benefit from the Plan’s administration.  Pp. 13—14.
+
+
+105 F.3d 1288 and 128 F.3d 1305, reversed.
+
+
+    Thomas, J., delivered the opinion for a unanimous Court.
+
+ 
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+Department of Commerce v. United States House of Representatives, 525 U.S. 316 (1999)
+
+
+
+
+
+
+SUP>*">
+
+
+
+
+
+
+	
+		
+			
+LII
+
+			 
+			
+Supreme Court
+		 
+		
+	
+
+
+
+
+
+
+DEPARTMENT OF COMMERCE v. UNITED STATES HOUSE (98-404)
+No. 98—404, 11 F. Supp. 2d 76, appeal dismissed; No. 98—564, 19 F. Supp. 2d 543, affirmed.  SyllabusOpinion
+[ O’Connor ]Concurrence
+[ Scalia ]Dissent
+[ Stevens ]Dissent
+[ Ginsburg ]Other
+[ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+
+
+Syllabus
+
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+
+
+SUPREME COURT OF THE UNITED STATES
+
+
+
+
+DEPARTMENT OF COMMERCE et al. v. UNITED STATES HOUSE OF REPRESENTATIVES et al.
+
+
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLUMBIA
+
+ 
+No. 98—404.  Argued November 30, 1998–Decided January 25, 1999*
+ 
+
+
+
+
+The Constitution’s Census Clause authorizes Congress to direct an “actual Enumeration” of the American public every 10 years to provide a basis for apportioning congressional representation among the States.  Pursuant to this authority, Congress has enacted the Census Act (Act), 13 U.S.C. § 1 et seq., delegating the authority to conduct the decennial census to the Secretary of Commerce (Secretary).  The Census Bureau (Bureau), which is part of the Department of Commerce, announced a plan to use two forms of statistical sampling in the 2000 Decennial Census to address a chronic and apparently growing problem of “undercounting” of some identifiable groups, including certain minorities, children, and renters.  In early 1998, two sets of plaintiffs filed separate suits challenging the legality and constitutionality of the plan.  The suit in No. 98—564 was filed in the District Court for the Eastern District of Virginia by four counties and residents of 13 States.  The suit in No. 98—404 was filed by the United States House of Representatives in the District Court for the District of Columbia.  Each of the courts held that the plaintiffs satisfied the requirements for Article III standing, ruled that the Bureau’s plan for the 2000 census violated the Census Act, granted the plaintiffs’ motion for summary judgment, and permanently enjoined the planned use of statistical sampling to determine the population for congressional apportionment purposes.  On direct appeal, this Court consolidated the cases for oral argument.
+
+
+Held:
+
+
+    1.  Appellees in No. 98—564 satisfy the requirements of Article III standing.  In order to establish such standing, a plaintiff must allege personal injury fairly traceable to the defendant’s allegedly unlawful conduct and likely to be redressed by the requested relief.  E.g., Allen v. Wright, 468 U.S. 737, 751.  A plaintiff must establish that there exists no genuine issue of material fact as to justiciability or the merits in order to prevail on a summary judgment motion.  See, e.g., Lujan v. National Wildlife Federation, 497 U.S. 871, 884.  The present controversy is justiciable because several of the appellees have met their burden of proof regarding their standing to bring this suit.  In support of their summary judgment motion, appellees submitted an affidavit that demonstrates that it is a virtual certainty that Indiana, where appellee Hofmeister resides, will lose a House seat under the proposed census 2000 plan.  That loss undoubtedly satisfies the injury-in-fact requirement for standing, since Indiana residents’ votes will be diluted by the loss of a Representative.  See, e.g., Baker v. Carr, 369 U.S. 186, 208.  Hofmeister also meets the second and third standing requirements: There is undoubtedly a “traceable” connection between the use of sampling in the decennial census and Indiana’s expected loss of a Representative, and there is a substantial likelihood that the requested relief–a permanent injunction against the proposed uses of sampling in the census–will redress the alleged injury.  Appellees have also established standing on the basis of the expected effects of the use of sampling in the 2000 census on intrastate redistricting.  Appellees have demonstrated that voters in nine counties, including several of the appellees, are substantially likely to suffer intrastate vote dilution as a result of the Bureau’s plan.  Several of the States in which the counties are located require use of federal decennial census population numbers for their state legislative redistricting, and States use the population numbers generated by the federal decennial census for federal congressional redistricting.  Appellees living in the nine counties therefore have a strong claim that they will be injured because their votes will be diluted vis-à-vis residents of counties with larger undercount rates.  The expected intrastate vote dilution satisfies the injury-in-fact, causation, and redressibility requirements. Pp. 10—16.
+
+
+      2.  The Census Act prohibits the proposed uses of statistical sampling to determine the population for congressional apportionment purposes.  In 1976, the provisions here at issue took their present form.  Congress revised 13 U.S.C. § 141(a), which authorizes the Secretary to “take a decennial census … in such form and content as he may determine, including the use of sampling procedures.”  This broad grant of authority is informed, however, by the narrower and more specific §195.  See Green v. Bock Laundry Machine Co., 490 U.S. 504, 524.  As amended in 1976, §195 provides: “Except for the determination of population for purposes of [congressional] apportionment … , the Secretary shall, if he considers it feasible, authorize the use of … statistical … ‘sampling’ in carrying out the provisions of this title.”  Section 195 requires the Secretary to use sampling in assembling the myriad demographic data that are collected in connection with the decennial census, but it maintains the longstanding prohibition on the use of such sampling in calculating the population for congressional apportionment.  Absent any historical context, the “except/shall” sentence structure in the amended §195 might reasonably be read as either permissive or prohibitive.  However, the section’s interpretation depends primarily on the broader context in which that structure appears.  Here, that context is provided by over 200 years during which federal census statutes have uniformly prohibited using statistical sampling for congressional apportionment.  The Executive Branch accepted, and even advocated, this interpretation of the Act until 1994.  Pp. 16—25.
+
+
+      3.  Because the Court concludes that the Census Act prohibits the proposed uses of statistical sampling in calculating the population for purposes of apportionment, the Court need not reach the constitutional question presented.  See, e.g., Spector Motor Service, Inc. v. McLaughlin, 323 U.S. 101, 105.  The Court’s affirmance of the judgment in No. 98—564 also resolves the substantive issues presented in No. 98—404, therefore that case no longer presents a substantial federal question and the appeal therein is dismissed.  Cf. Sanks v. Georgia, 401 U.S. 144, 145.  P. 26. 
+
+No. 98—404, 11 F. Supp. 2d 76, appeal dismissed; No. 98—564, 19 F. Supp. 2d 543, affirmed. 
+
+    O’Connor, J., delivered the opinion of the Court with respect to Parts I, III—A, and IV, in which Rehnquist, C. J., and Scalia, Kennedy, and Thomas, JJ., joined, the opinion of the Court with respect to Part II, in which Rehnquist, C. J., and Scalia, Kennedy, Thomas, and Breyer, JJ., joined, and an opinion with respect to Part III—B, in which Rehnquist, C. J., and Kennedy, J., joined.  Scalia, J., filed an opinion concurring in part, in which Thomas, J., joined, and in which Rehnquist, C. J., and Kennedy, J., joined as to Part II.  Breyer, J., filed an opinion concurring in part and dissenting in part.  Stevens, J., filed a dissenting opinion, in which Souter and Ginsburg, JJ., joined as to Parts I and II, and in which Breyer, J., joined as to Parts II and III.  Ginsburg, J., filed a dissenting opinion, in which Souter, J., joined.  
+
+
+Notes
+
+1. * Together with No. 98—564, Clinton, President of the United States, et al. v. Glavin et al., on appeal from the United States District Court for the Eastern District of Virginia. 
+
+ 

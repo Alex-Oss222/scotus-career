@@ -1,0 +1,1068 @@
+No. 98-564 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+WILLIAM JEFFERSON CLINTON, ET AL., APPELLANTS 
+
+
+MATTHEW GLAVIN, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF VIRGINIA 
+
+
+REPLY BRIEF FOR THE APPELLANTS 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Re cord 
+De partine nt of Justice 
+Washington, D.C. 20520-0001 
+(202) 514-2217 
+
+
+TABLE OF CONTENTS 
+
+
+The Census Bureau’s plan for the 2000 census is 
+based on the its determination, supported by abun- 
+dant scientific evidence, that use of statistical 
+
+
+sampling will improve the accuracy of the 
+
+
+relevant population figures (. ͥͥ¶r, ALL. 
+Appellees lack standing to bring this suit 
+
+The principal constraint on the Census Bureau’s 
+discretion is the requirement that its decisions be 
+reasonably related to the constitutional goal of equal 
+representation for equal numbers of people 
+
+13 U.S.C. 195 does not prohibit sampling in deter- 
+mining state-level population figures for appor- 
+
+tioning Representatives among the States 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Schlesinger v. Reservists Comm. to Stop the War, 
+
+
+: 418 U.S. 208 (1974) 
+
+N L ited States Dep't of ¢ ‘ommerce v. Montana, 
+
+a 503 U.S. 442 (1992) 
+
+5: Valley Forge Christian College v. Americans United 
+
+2 for Separation of Church & State, Inc., 454 U.S. 
+
+é // A ((( 10 
+2 We sherry V. Sanders, 376 U.S. 1 (1964) 15 
+i Wisconsin v. City of New York, 517 U.S. 1 
+
+
+(1996) 8. 15, 16, 17 
+
+
+: „ *. 
+
+
+II III 
+
+
+Constitution and statutes: Page Miscellaneous Continued: Page 
+U.S. Const.: Preparing for the 2000 Census Interim Report II (A. 
+Art. I. S9, Cl. 7 8. 15, 18 White & K. Rust eds., 1997) 8, 4, 5, 6, 7, 8 
+Art. III 11 Sampling in the 2000 Census Interim Report I (A. 
+Decennial Census Improvement Act of 1991, Pub. L. White & K. Rust eds., 1996) 8, 5, 6 
+No. 102-135, 105 Stat. 635 (13 U.S. C. 141 note) sere 2 Oversight of the Census Bureau: Preparations for the 
+§ 2(b)(1)(C), 105 Stat. 635 2 2000 Census Hearing Before the Subcomm. on 
+2 U.S. C. 2a(a) 11 National Security, International Affairs, and 
+2 U.S.C. 2a(b) (Supp. IT 1996) 11 Criminal Justice of the House Comm. on Govern- 
+7 U.S.C. 79000) 17, 18 ment Reform and Oversight, 104th Cong., Ist Sess. 
+7 U.S. C. 79000) 18 (1995) 5 
+13 U.S. C. 141 15 S. Rep. No. 1256, 94th Cong., 2d Sess. (1976) 20 
+13 U.S.C. 141(a) 8, 14, 15, 17, 18, 19, 21 
+13 U.S.C, 141(b) 6, 7, 8, 11, 12 
+13 U.S. C. 195 12-13, 18, 19, 20 
+16 U.S.C. fle!) 18 
+16 U.S.C, fe) 18 
+22 U.S.C. 2452(a)(1) 17, 20 
+22 U.S.C. 2452a(b) 19 
+22 U.S.C, 5604(a)(1) 18 
+22 U.S.C, 5605(a)(1) 17, 18 
+Miscellaneous: 
+
+
+Census 2000: Hearing Before the Senate Comm. on 
+Governmental Affairs, 105th Cong., Ist Sess. 
+
+
+(1997) ws 2. 3, 5, 6 
+Counting People in the Information Age D. Steffey & 
+N. Bradburn eds., 1994) 8,4 
+
+
+General Accounting Office, 2000 Census Progress 
+Made on Design, but Risks Remain, GAO/GGD-9T- 
+
+
+142 (July 1997) 3, 4, 7, 8, 9, 10 
+1 Joseph Story, Commentaries on the Constitution of 
+the United States (1873 ed.) 16-17 
+
+
+Modernizing the U.S. Census (B. Edmonston & C. 
+Schultze eds., 1995) 2,4 
+
+
+REPLY BRIEF FOR THE APPELLANTS 
+
+
+A. The Census Bureau's Plan Is Based On Its Determina- 
+tion, Supported By Abundant Scientific Evidence, 
+That Use Of Statistical Sampling Will Improve The 
+Accuracy Of The Relevant Population Figures 
+
+
+Two forms of statistical sampling are at issue in this case. 
+See Gov't Br. 6-7. First, the Census Bureau intends to em- 
+ploy sampling during the Nonresponse Follow-Up (NRFU) 
+phase of the census by sending enumerators to a substantial 
+and representative sample of households that fail to return 
+mail questionnaires. See 98-404 J.A. 88-92. Second, the Bu- 
+reau intends to conduct an intensive survey of aprroxi- 
+mately 750,000 housing units after the NRFU phase i the 
+census is complete. Id. at 92-93. Through a process known 
+as Integrated Coverage Measurement (ICM), the Bureau 
+will compare the results of that survey to those of the initial 
+phase of the census in order to determine population figures 
+for States and politica! subdivisions nationwide. Id. at 94-98. 
+Each_of those forms of sampling is integral to the Bureau’s 
+efforts to increase the accuracy of the 2000 census, and each 
+has broad support within the scientific community. 
+
+1. As we explain in our opening brief in No. 98-404 (at 5), 
+Congress in 1991 directed the Secretary of Commerce to 
+contract with the National Academy of Sciences (NAS) to 
+
+
+In the district court, appellees specifically disavowed any effort to 
+establish that the use of statistical sampling would decrease the accuracy 
+of the relevant population figures. Their memorandum of law in opposi- 
+tion to the government's motion to dismiss stated (at 29 n.11) that “plain- 
+tiffs do not seek to involve [the district court] in a battle of statistical 
+experts given that their complaint alleges that the Department's plan 
+violates both federal law and the Constitution irrespective of its purported 
+accuracy.” For purposes of this case, the Court must therefore assume 
+the correctness of the Census Bureau's determination that its plan for the 
+2000 census will produce more accurate population figures than would a 
+census conducted without the use of sampling. As we explain below, that 
+determination is supported by abundant scientific evidence. 
+
+
+(1) 
+
+
+2 
+
+
+study possible means of improving the accuracy of the 
+census. See Decennial Census Improvement Act of 1991, 
+Pub. L. No. 102-135, 105 Stat. 635 (13 U.S.C. 141 note). The 
+NAS was instructed to consider, inter alia, “the appro- 
+priateness of using sampling methods.” § Abi), 105 
+Stat. 685. The NAS subsequently established three panels, 
+each of which “concluded that traditional census methods 
+needed to be modified in response to societal changes, and 
+that statistical sampling techniques would both increase the 
+census’ accuracy and lower its cost.” 98-404 J. S. App. 4a. 
+
+The NAS Panel on Census Requirements in the Year 2000 
+and Beyond stated that 
+
+
+physical enumeration or pure ‘counting’ has been pushed 
+well beyond the point at which it adds to the overall 
+accuracy of the enumeration. Moreover, such traditional 
+census met! ods still result in a substantial undercount of 
+minority populations. Techniques of statistical estima- 
+tion can be used, in combination with the mail question- 
+naire and a reduced scale of follow-up of nonrespondents, 
+to produce a better census at reduced costs. 
+
+
+Modernizing the U.S. Census at 3-4 (B. Edmonston & C. 
+
+
+Schultze eds., 1995)" The Panel to Evaluate Alternative 
+Sensus Methods “conclude{d| that sampling and associated 
+
+
+Dr. Charles L. Schultze was the chairman of the Panel on Census 
+Requirements in the Year 2000 and Beyond. He has since testified on two 
+occasions to reiterate the view that the use of sampling mechanisms can 
+be expected to make the 2000 census both more accurate and less costly. 
+In his most recent testimony he stated: “(T]he bottom line is clear. The 
+careful use of modern statistical techniques to help complete the Census 
+will yield more accurate data for purposes of Congressional apportionment 
+and the other major uses to which the census data is put, and at the same 
+time reduce budgetary cost.” Census 2000; Hearing Before the Senate 
+Comm. on Governmental Affairs, 105th Cong., Ist Sess. 54 (1997) (1997 
+Hearing). Dr. Schultze observed “as an economist” that “it is not often 
+that you run across areas in which you can get both better quality and 
+lower costs, so it is a little bit unique, in a way.” IId. 
+
+
+statistical estimation constitute an established scientific 
+methodology that must play a greater role in future censuses 
+in order to obtain a more accurate picture of the population 
+than is provided by current methods.” Counting People in 
+the Information Age at 4 D. Steffey & N. Bradburn eds., 
+1994). The panel “endorse{d| the Census Bureau's stated 
+goal of achieving a one-number census in 2000 that incorpo- 
+rates the results from coverage measurement programs, 
+including programs that involve sampling and statistical 
+estimation, into the official census population totals.” Jbid. 
+
+A third NAS panel (the Panel to Evaluate Alternative 
+Census Methodologies) has issued two interim reports, with 
+its final report expected by the end of 1998. The first report 
+stated that “the use of sampling and other statistical proce- 
+dures will be fundamental to achieving the goals of reduced 
+costs, increased accuracy, and reduced differential undercov- 
+erage.” Sampling in the 2000 Census Interim Report I, at 2 
+(A. White & K. Rust eds., 1996). The second report con- 
+cluded that “a census without sampling will almost certainly 
+be unacceptable in terms of both quality and cost.” Pre- 
+paring for the 2000 Census Interim Report IT, at 6 (White & 
+Rust eds., 1997). 
+
+
+That report acknowledged that the use of sampling might decrease 
+the accuracy of population counts for very small geographic areas (¢.g., 
+census blocks), but stated that error rates for small geographic areas are 
+“not an appropriate criterion for judging the quality of the census.” 
+Preparing for the 2000 Census Interim Report II. at 11-12. The report 
+concluded that for geographic levels “hav[ing} important legal, political, or 
+financial implications,” the use of sampling “can achieve results that are at 
+least as good as those from a more time-consuming and expensive effort to 
+obtain a completed form for every household.” Id. at 12. 
+
+The General Accounting Office (GAO) has similarly concluded that “the 
+Bureau's plan [for the 2000 census], if effectively implemented, has the 
+potential for producing a more accurate and less costly census than if only 
+conventional census procedures were used.” 2000 Census Progress Made 
+on Design, but Risks Remain, GAO/GGD-97-142, at 22 (July 1997). That 
+report noted the GAO’s prior conclusion, reflected in testimony given on 
+
+
+4 
+
+
+2. Two of the three NAS panels unequivocally endorsed 
+both of the uses of sampling at issue in this case—i.e., sam- 
+pling for non-response follow-up (NRFU) and integrated 
+coverage measurement (ICM). See Modernizing the U.S. 
+Census, at 87-96; Preparing for the 2000 Census Interim Re- 
+port II. at 6. Appellees contend that Aiſt is undisputed that 
+sampling for nonresponse follow-up decreases accuracy.” 
+Glavin Br. 3; see also id. at 41. That statement is entirely 
+untrue. The Census Bureau believes that NRFU sampling 
+will increase the accuracy of the census as a whole, and its 
+view is supported by abundant scientific evidence.’ 
+
+NRFU is highly labor-intensive, requiring the Bureau to 
+hire a very large number of temporary enumerators. See, 
+e.g., 98-404 J. A. 100 (Census Bureau’s Report to Congress 
+states that at peak employment, about 117,000 workers 
+* * * would be hired to conduct the nonresponse follow-up” 
+if sampling is utilized, and that “59,000 additional enumera- 
+tors” will be needed if the Bureau does not employ NRFU 
+
+
+October 25, 1995, “that the established approach used for taking the cen- 
+sus in 1990 had exhausted its potential for counting the population cost- 
+effectively and that fundamental design changes were needed to reduce 
+census costs and improve the quality of the data collected.” /d. at 1. 
+
+
+With respect to NRFU sampling, the analysis of the third NAS 
+panel (the Panel to Evaluate Alternative Census Methods) was equivocal. 
+See Counting People in the Information Age at 97-105. Appellees refer to 
+the view of that panel (Glavin Br. 42 n.39) but omit all reference to the two 
+NAS panels that recommended in favor of NRFU sampling. 
+
+
+5 Although attacks on the Bureau’s plan to utilize NR FU sampling are 
+a recurring feature of appellees’ brief, appellees have not alleged or 
+attempted to prove that use of NRFU sampling will injure them in any 
+way. Appellees do not contend that NRFU sampling will cause the States 
+or localities in which they live to be credited with a smaller percentage of 
+the population than those areas would receive under full NRFU. Rather, 
+appellees’ claim of injury is addressed exclusively to the use of sampling in 
+the ICM process and is grounded in the purported similarity between the 
+ICM mechanism devised for the 2000 census and the adjustment 
+methodology considered (and ultimately rejected) for the 1990 census. 
+
+
+5 
+
+
+sampling). Because the use of sampling reduces the number 
+of enumerators required, NRFU sampling “gives reasonable 
+promise that accuracy can_be improved and differences in 
+the quality of enumeration can be diminished by concen- 
+trating the efforts of better enumerators on the sampled 
+cases.” Sampling in the 2000 Census Interim Report I, at 6; 
+see also Preparing for the 2000 Census Interim Report Il, at 
+7. Use of sampling also ensures that the NRFU phase can 
+be completed within a much shorter period of time than was 
+required during the 1990 census. By decreasing the time 
+required for the NRFU phase, sampling has the potential to 
+
+
+6 In October 1995, then-Census Bureau Director Riche testified that 
+
+
+sampling may not be just an attractive cost-saving option; it may be 
+the only option we now have for completing the census. And that’s 
+because, historically, we have recruited those large numbers of census 
+takers amongst people who weren't in the labor force, who weren't 
+seeking permanent work. Many of them had previous work experi- 
+ence and skills, so we only had to train them for the technical part of 
+the task at hand. Today, the pool of workers qualified, experienced, 
+and able to work on a decennial census has decreased dramatically. 
+
+
+Oversight of the Census Bureau: Preparations for the 2000 Census: Hear- 
+ing Before the Subcomm. on National Security, International Affairs, 
+and Criminal Justice of the House Comm. on Government Reform and 
+Oversight, 104th Cong., Ist Sess. 76-77 (1995). 
+
+Dr. Schultze has more recently explained that the problems associated 
+with the 1990 census “were exacerbated by the growing difficulty of 
+finding, at reasonable costs, sufficient numbers of qualified Census enu- 
+merators. Turnover rose and productivity fell.“ 1997 Hearing at 131. Dr. 
+Schultze further observed that t he recent 1995 census tests suggest 
+that the difficulty and costs of attracting qualified census enumerators 
+have accelerated.” [bid. 
+
+Dr. Schultze explained: “(Bly applying adequate resources to a 
+smaller number of sample units in each census tract, a high quality follow 
+up can be achieved for those units and the results extrapolated to the rest 
+of the tract. Even though sampling error is thereby introduced in the 
+extrapolation, the higher quality of the results within the sampling units 
+should offset or more than offset the sampling errors.” 1997 Hearing at 
+132. 
+
+
+6 
+
+
+increase the accuracy of the NRFU data themselves, to im- 
+prove the quality of the subsequent ICM, and to ensure that 
+the census is completed in time to permit the transmittal of 
+state-level population figures to the President by January 1, 
+2001, as required by 13 U.S.C. 141(b). 
+
+Appellees place substantial reliance (see Glavin Br. 3, 41) 
+on a report issued in 1997 by the General Accounting Office 
+(GAO). The passage on which appellees rely states: 
+
+
+Technically, the most accurate design alternative, ac- 
+cording to the results of the Bureau’s research, would be 
+to attempt 100-percent follow-up of nonrespondents and 
+use ICM to address accuracy problems. That design 
+could produce slightly improved accuracy in census data, 
+particularly for smaller geographic areas, but would 
+col’ at a greater cost (approximately 8400 million more 
+than that for the Bureau’s refined plan). Furthermore, 
+such an option may not be feasible given projected staff- 
+ing difficulties and, especially, the risk that the Bureau 
+could not complete 100-percer* follow-up and ICM by the 
+December 31 deadline for reporting census results for 
+congressional reapportionment. 
+
+
+As one NAS panel explained, 
+
+
+the use of sampling will reduce the field workload and may result in 
+more timely completion of the nonresponse follow-up procedures in 
+the field. This increased timeliness will increase data quality because 
+respondents will typically be giving information to enumerators 
+closer to census day than they would i nonresponse follow-up without 
+sampling were implemented. There will be fewer recall errors and 
+less use of poor-quality “last-resort” information obtained from 
+indirect sources in the final stages of field data collection. In addition, 
+the more timely completion of nonresponse follow-up will permit the 
+coverage measurement survey to be implemented in the field closer 
+to census day, thereby decreasing recall errors and the effect of 
+people who move on the process of coverage measurement and 
+correction. 
+
+
+Preparing for the ww Census Interim Report Il, at 6-7. 
+
+
+7 
+
+2000 Census Progress Made on Design, but Risks Remain, 
+GAO/GGD-97-142, at 26-27 (July 1997) (1997 GAO Report). 
+Appellees quote the first sentence of that passage (see 
+Glavin Br. 3, 41), ignoring (1) GAO’s apparent agreement 
+that ICM will improve the accuracy of the relevant popula- 
+tion figures and (2) GAO’s own doubt that full non-response 
+follow-up could feasibly be conducted (at least in conjunction 
+with ICM) given anticipated staffing difficulties and the 
+existence of an inflexible statutory deadline (see 13 U.S.C. 
+141(b)) for transmittal to the President of complete state- 
+level population figures. The clear thrust of the paragraph 
+as a whole is that while NRFU without sampling might in 
+theory lead to modest gains in accuracy for smaller geo- 
+graphic areas, any effort to implement both full NRFU and 
+ICM would face substantial practical difficulties.” 
+
+Appellees contend (Br. 3) that the Bureau plans to utilize 
+NRFU sampling “solely in order save time and money, not 
+because it even arguably increases accuracy.” That state- 
+ment is incorrect and postulates a false dichotomy. The 
+Bureau believes that, if the NRFU phase of the census is 
+viewed in isolation, sampling will neither substantially im- 
+prove nor substantially decrease the accuracy of the counts. 
+Because NRFU sampling will leave more time, funds, and 
+trained personnel available for the ICM, however, and will 
+permit the ICM to begin nearer in time to the census date, it 
+
+
+® The NAS Panel to Evaluate Alternative Census Methodologies has 
+observed that Ja] modest nonresponse follow-up design (i.e., one with a 
+relatively small workload) that is executed as planned is far superior to a 
+more ambitious design that runs short of time or resources.” Preparing 
+for the 2000 Census Interim Report II, at 41. Given the existence of sub- 
+stantial doubt regarding the Bureau's ability to complete both NRFU 
+without sampling and ICM in time to meet the statutory deadline for 
+transmittal of state-level population figures, it was surely reasonable for 
+the Bureau to adopt a census plan that leaves some margin of safety, even 
+if an alternative plan might produce slightly more accurate results for 
+smaller geographical areas under a “best case” scenario. 
+
+
+8 
+is expected to improve the overall accuracy of the census.“ 
+Insofar as the correctness of the Bureau’s judgment on that 
+point is relevant to the issues presented by this case, that 
+
+
+judgment warrants defgrence from this Court. Compare 
+Wisconsin v. City of NewYork, 517 U.S. 23 (1995)." 
+
+
+10 The Census Bureau has a limited time to conduct the decennial cen- 
+sus, since federal law requires that the population be determined as of 
+April 1 of the census year and that complete state-level population counts 
+be transmitted to the President within nine months after that date. See 
+13 U.S.C. 141(a) and (b). The Bureau is also restricted to the funds 
+appropriated by Congress. See U.S. Const. Art. I, § 9, Cl 7 (“No Money 
+shall be drawn from the Treasury, but in Consequence of Appropriations 
+made by Law.”). Increases in the time and money devoted to the NRFU 
+phase of the census necessarily entail decreases in the time and money 
+available for the ICM phase. The Bureau’s recognition of that elementary 
+fact is not remotely comparable to a decision not to count “any people over 
+70 years old.” Glavin Br. 43 n.40. 
+
+The 1997 GAO Report explained that “[tJhe effects of the proposed 
+sampling for nonresponse follow-up and of ICM procedures on the success 
+of census operations and the quality of the resulting data need to be 
+viewed in combination to be meaningful.” 1997 GAO Report at 21. The 
+Report stated that the decision to use NRFU sampling “is unlikely to 
+significantly change (either improve or decrease) census accuracy,” but 
+emphasized that “ICM is unlikely to be successful unless preceding data 
+collection efforts, in particular nonresponse follow-up, are completed on 
+schedule.” /bid.; see also id. at 52 (not ing that timely completion of NRFU 
+is “erucial to the success of [ICM] * * * because the Bureau must 
+provide the final census data for reapportionment and redistricting 
+purposes by legislatively mandated deadlines”). 
+
+1 Contrary to appellees’ suggestion (see Br. 3, 41), the 1997 GAO 
+Report is strongly supportive of the Bureau's overall approach. Based on 
+the results of the Bureau’s research, the Report stated that 
+
+
+the new statistical methods the Bureau proposes to use in the 2000 
+Census would likely produce results that appear more accurate or 
+more equitable according to at least three broad criteria: (1) better 
+average levels of error, (2) error distributions compressed closer to 
+the average levels, and (3) an apparently better cumulative error dis- 
+tribution. For example, state population totals, which are the basis 
+for apportioning seats in the House of Representatives, not only show 
+lower error rates on average but also show much less variation in the 
+
+
+9 
+
+
+B. Appellees Lack Standing To Bring This Suit 
+
+1. Appellees do not defend the district court’s assertion 
+(see J.S. App. 9a) that the States of Connecticut, Massachu- 
+setts, Minnesota, Missouri, Pennsylvania, and Wisconsin are 
+substantially likely to lose a seat in the House of Represen- 
+tatives if sampling is used in the 2000 census. In a foctnote, 
+however, they continue to assert that the State of Indiana (in 
+which appellee Hofmeister resides) “is virtually certain to 
+lose a congressional seat solely as a consequence of the De- 
+partment’s methodology.” Glavin Br. 14 n.11. The district 
+court made no such finding. Moreover, as we explain in our 
+opening brief (at 22-24), the Commerce Department intro- 
+duced affidavits in the district court directly controverting 
+the statistical analysis on which that contention is based. 
+The Department’s submission demonstrated in particular 
+that appellees’ affiant (Dr. Steven Weber) failed to consider 
+the best available data, since he considered data from 1994 
+and ignored population estimates from 1997 that cast doubt 
+on the accuracy of the Bureau’s projections for the year 2000. 
+See Gov't Br. 22-23 n.11. 
+
+Appellees defend their affiant’s analysis on the ground 
+that “Dr. Weber’s methodology did in fact utilize the most 
+recent projections available at the time of his analysis.” 
+Glavin Br. 14 n. 11. That argument is specious. The situation 
+might roughly be compared to a transaction in which an in- 
+vestor purchases shares in a mutual fund from a broker who 
+projects that the investment will be worth $150,000 at the 
+end of 1998, and $200,000 at the end of the year 2000. If the 
+
+
+error rates among states when compared to the undercount rates in 
+the 1990 Census. 
+
+
+1997 GAO Report at 26. The Report observed as well that “Bureau 
+evaluations of the 1990 Census indicated that simply adding more con- 
+ventional counting operations was not effective in eliminating or reducing 
+differential undercounts of areas and population groups that have been 
+hard to enumerate accurately.” /d. at 57-58; see also notes 3 and 10, supra. 
+
+
+10 
+
+
+shares are worth only $120,000 at the end of 1998, no rea- 
+sonable investor would continue to rely on the $200,000 pro- 
+jection. Dr. Weber’s analysis in effect presumes that so long 
+as no new official population projection for the year 2000 has 
+been issued, other newly-available evidence bearing on the 
+likely accuracy of the earlier projection can safely be 
+ignored. Given the obvious irrationality of that assumption, 
+Dr. Weber’s statement that “it is a virtual certainty that 
+Indiana will lose a seat” if sampling is employed, J.A. 65, has 
+no meaningful probative value.” 
+
+2. Appellees contend (Br. 10-13) that the appellee 
+Georgia residents will be injured by the Bureau’s plan for 
+the 2000 census because (1) the State of Georgia will be enti- 
+tled to an additional Representative (as compared to its cur- 
+rent allotment) in the year 2002 regardless of how the census 
+is conducted, and (2) the Bureau’s failure to produce state- 
+level population figures derived without the use of sampling 
+will deprive the State of that Representative. Appellees’ 
+claim of “unconstitutional inaction” (Br. 11) as a basis for 
+standing is both farfetched as a predictive matter and wrong 
+as a legal matter. The Bureau’s plan contemplates that a de- 
+cennial census will be conducted; that the Secretary will 
+transmit state-level population figures to the President, see 
+
+
+2 Appellees suggest (Br. 5-6) that if their own suit is found not to be 
+justiciable, no party will ever have standing to challenge the Bureau’s 
+decision to employ statistical sampling, even after the census is completed. 
+Of course, t he assumption that if [appellees] have no standing to sue, no 
+one would have standing, is not a reason to find standing.” Valley Forge 
+Christian College v. Americans United for Separation of Church & State, 
+inc., 454 U.S. 464, 489 (1982) (quoting Schlesinger v. Reservists Com- 
+mittee to Stop the War, 418 U.S. 208, 227 (1974)). But in any event, a pote- 
+ntial plaintiff would have a substantially greater likelihood of demonstrat- 
+ing that the use of sampling had shifted a seat in the House of 
+Representatives if the suit was filed after the completion of the census. 
+The plaintiff might, for example, compare the apportionment resulting 
+from the official census figures with the apportionment that would have 
+resulted if the Bureau had not undertaken ICM. See note 13, infra. 
+
+
+11 
+
+
+13 U.S.C. 141(b); and that the President will in turn transmit 
+state-level population figures to Congress, see 2 U.S.C. 2a(a). 
+Under the existing reapportionment statute, Je lach State 
+shall be entitled * * * to the number of Representatives 
+shown in the statement” transmitted by the President. 2 
+U.S.C, 2a(b) (Supp. II 1996). Thus, if Georgia will be entitled 
+to an additional Representative in the 2001 apportionment 
+under any plausible census methodology, the State will re- 
+ceive that Representative by operation of law after the 2000 
+census is completed. 
+
+Georgia will lose that seat only if a federal court sub- 
+sequently decides that (a) the use of sampling in the 
+decennial census violated the Census Act or the Constitution 
+and (b) the appropriate remedy for that violation is to 
+mandate continued reliance on the 1990 census figures. Al- 
+though appellees assert that t he only remedial alterna- 
+tive” in that hypothetical suit “would be using the 1990 
+apportionment,” they offer no legal argument in support of 
+that proposition, which is contrary to basic equitable prin- 
+ciples. See Gov't Br. 34.“ Appellees have therefore failed to 
+show that implementation of the Bureau’s plan is likely to 
+deprive Georgia of a Representative to which it would other- 
+wise be entitled. Appellees also offer no authority for the 
+proposition that Article III’s traceability requirement can be 
+satisfied in a particular case on the ground that the plaintiff 
+
+
+Tune court in such a hypothetical future suit would instead be guided 
+by the principle that relief should be tailored to place the parties in the 
+position in which they would have been in the absence of a violation—here, 
+if sampling had not been utilized in conducting the 2000 census. The data 
+derived from the initial contact with every household, as well as the total 
+of those figures and the additional data compiled from the in-person 
+NRFU, will be available from the Census Bureau for that purpose. 
+Moreover, since appellees have not alleged that NRFU sampling will 
+injure them, the court in the hypothetical future suit could fashion a 
+remedy by determining what apportionment of Representatives would 
+have occurred if ICM sampling had not been used. Those data, unadjusted 
+by the ICM process, will be available from the Census Bureau. 
+
+
+2 ee 
+
+
+12 
+
+
+will likely be injured by the relief awarded in some. 
+
+
+hypothetical other suit in the future. See id. at 33-34. 
+
+3. The gravamen of appellees’ claims on the merits is 
+that the apportionment of Representatives among the States 
+is a matter of special significance, and that the derivation of 
+population figures to be used for that purpose is therefore 
+subject to distinct constitutional and statutory rules. For 
+the reasons stated above, however, appellees have failed to 
+show a significant likelihood that any of the States in which 
+they reside will be allotted fewer Representatives as a result 
+of the Bureau’s use of sampling than they would receive if 
+sampling were not utilizeg. Indeed, appellees have all but 
+abandoned any effort to predicate standing on such a claim of 
+injury. Appellees’ principal argument with regard to stand- 
+ing (Br. 14-26) is that they will suffer harms unrelated to the 
+apportionment of Representatives among the States—i.e., a 
+loss of intrastate voting power and federal funding—as a 
+result of the Bureau’s plan. 
+
+As we explain in our opening brief (at 18-21, 24-26, 27-29), 
+appellees have failed to demonstrate either that the States 
+or localities in which they reside will lose population share as 
+a result of the Bureau’s use of sampling, or that any such 
+decrease in population share will translate into a diminution 
+of intrastate electoral power or loss of federal funds. Even if 
+appellees could make that showing, however, they could not 
+establish standing to sue. The injuries they allege would not 
+be traceable to the purported illegality in the Bureau’s plan, 
+and they cannot demonstrate that a favorable judicial ruling 
+would likely redress those harms. 
+
+a. With respect to the issue of traceability, our argument 
+is not (as appellees suggest) that state or federal officials 
+might decline to use “census numbers” (Glavin Br. 23) for 
+intrastate redistricting or for the allocation of federal funds. 
+Rather, our point is that the Census Act explicitly contem- 
+plates that census numbers calculated for those purposes 
+should be derived through the use of sampling. Under 13 
+
+
+13 
+
+
+U.S.C, 195, the Secretary is required to use sampling “if he 
+considers it feasible” for all purposes other than the appor- 
+tionment of Representatives among the States. As a method 
+for determining the population figures that will be used for 
+intrastate redistricting and federal fund allocation, the Bu- 
+reau’s plan for the 2000 census is indisputably lawful. Even 
+under appellees’ interpretation of the Census Act and the 
+Constitution, a violation of law will occur when and only 
+when state-level population figures derived through sam- 
+pling are used in the apportionment of Representatives 
+among the States. Appellees’ alleged intrastate electoral 
+and funding “injuries”—which in fact would be entirely law- 
+ful consequences of the Secretary’s actions—are not fairly 
+traceable to such a violation. 
+
+b. As we explain in our opening brief (at 32), appellees’ 
+alleged intrastate electoral and federal funding injuries also 
+would not be redressable by a favorable judicial decision, 
+since the Census Bureau would remain free to utilize sam- 
+pling for those purposes even if sampling for apportionment 
+of Representatives among the States were held to be unlaw- 
+ful. Appellees argue (Br. 26 n.26) that if “the Court informs 
+the Secretary that he must count 100% of the population,” 
+the Secretary could not rationally decide to employ statisti- 
+cal sampling techniques to supplement that count. But that 
+is simply wrong. Whatever the outcome of this case, the 
+Court will not order the Secretary to “count 100% of the 
+population”—a directive that is universally conceded to be 
+incapable of implementation. Rather, acceptance of appel- 
+lees’ legal theory would require the Secretary to prepare 
+state-level population figures derived without the use of 
+sampling, which figures would be used in the apportionment 
+of Representatives among the States. Nothing in law or in 
+logic would prevent the Secretary from concluding that the 
+use of sampling techniques as a supplement to the methodol- 
+ogy used for apportionment would produce more accurate 
+
+
+14 
+
+
+numbers, and that those alternative figures should be calcu- 
+lated for all purposes permitted by law.“ 
+C. The Principal Constraint On The Census Bureau's Dis- 
+
+
+cretion Is The Requirement That Its Decisions Be 
+Reasonably Related To The Constitutional Goal Of 
+
+
+Equal Representation For Equal Numbers Of People 
+Under 13 U.S.C. 141(a), the Secretary is directed to “take 
+a decennial census of population * * * in such form and 
+content as he may determine, including the use of sampling 
+procedures and special surveys.” Section 141(a) does not by 
+its terms require that any specified percentage of the popu- 
+
+
+f this Court holds that population figures derived through sampling 
+may not be used in apportioning Representatives among the States, the 
+Census Bureau wil! presumably conduct full non-response follow-up of all 
+households that do not return mail questionnaires. Population figures 
+derived through mail questionnaires and NRFU would then be used for 
+interstate apportionment of Representatives. Appellees offer no reason to 
+suppose, however, that the Bureau would forgo the use of ICM as a means 
+of producing more accurate population counts to be used for other 
+purposes. The Bureau’s Report to Congress characterizes ICM as “the 
+most critical” undertaking “{ojf all the innovations to improve accuracy in 
+Census 2000.“ J. A. 92. As we explain above (see pp. 5-6, supra), the 
+Bureau might well be unable to complete full NRFU and ICM in time to 
+satisfy the January 1, 2001, deadline established by 13 U.S.C. 141(b). That 
+deadline, however, applies only to t ſhe tabulation of total population by 
+States * * * as required for the apportionment of Representatives in 
+Congress among the several States.“ Ibid. The temporal constraint 
+imposed by Section 141(b) would not prevent the Bureau from employing 
+full NRFU and ICM to produce the population figures used for purposes 
+other than apportionment. 
+
+Appellees suggest (Br. 26) that a judicial decision leading to such a 
+“two-number census” would at least partially redress their injury, since 
+the Census Bureau would be prohibited from making the same uses of 
+sampling that it currently contemplates. But appellees’ alleged injury is 
+based solely on the Bureau's intent to use ICM, not on the anticipated 
+effects of NRFU sampling. See note 5, supra. There is consequently no 
+reason at all to suppose that a judicial order resulting in a two-number 
+census would leave appellees in a better position than they would occupy if 
+the Bureau's current plan were implemented. 
+
+
+15 
+
+
+lation must be contacted directly; nor does it specifically 
+state that sampling may be employed only if it improves the 
+accuracy of the final counts. Appellees contend (see Br. 34- 
+35) that if the Census Act is construed to permit the use of 
+sampling for purposes of congressional apportionment, the 
+Census Bureau will be authorized to derive population 
+figures for apportionment through sampling methodologies 
+that demonstrably reduce the accuracy of the final popula- 
+tion figures. That objection is misconceived. 
+
+The constitutional purpose of the census is to effectuate 
+the requirement that Representatives be apportioned among 
+the States “according to their respective Numbers,” U.S. 
+Const. Art. I, § 2, Cl. 3—a requirement that reflects “our 
+Constitution’s plain objective of making equal representation 
+for equal numbers of people the fundamental goal for the 
+House of Representatives,” Wesberry v. Sanders, 376 U.S. at 
+18. Although the Constitution does not require “a census 
+that is as accurate as possible,” City of New York, 517 U.S. 
+at 17, use of a census methodology that is so inaccurate as to 
+bear no reasonable relationship to the goal of equal represen- 
+tation for equal numbers of people would be unlawful, see id. 
+at 19-20. The standard applied in City of New York leaves 
+the Secretary with broad discretion, but that breadth of 
+authority is scarcely accidental. It results from the facts 
+that (a) At he text of the Constitution vests Congress with 
+virtually unlimited discretion in conducting the decennial 
+‘actual Enumeration,” and (b) “[t)hrough the Census Act, 
+Congress has delegated its broad authority over the census 
+to the Secretary.” Id. at 19 (citing 13 U.S.C. 141(a)). Thus, 
+while there is no bright line between permissible and imper- 
+missible uses of sampling, the absence of such a bright line is 
+the natural and inevitable consequence of Congress’s deci- 
+sion to entrust the conduct of the decennial census to the 
+sound judgment of the expert agency. 
+
+It should also be emphasized that potential line-drawing 
+problems would not be eliminated by a prohibition on the use 
+
+
+16 
+
+
+of sampling. There are (at least in theory) “headcount” 
+methodologies that would be impermissible under the 
+standard articulated in City of New York. The Census Bu- 
+reau could not, for example, lawfully conduct the decennial 
+census by sending a single enumerator to each State. Nor 
+could the Bureau permissibly decide that non-response 
+follow-up would be conducted in some States (e. g., States 
+with Governors of the President's political party) and not in 
+others. Neither of those methodologies is prohibited by any 
+specific provision of the Census Act, but both would be pal- 
+pably inconsistent with the goal of equal representation for 
+equal numbers of people. 
+
+The fact that the Census Act contains no bright-line 
+standards distinguishing between permissible and impermis- 
+sible “headcounts” does not mean that the Bureau's 
+authority in that regard is subject to no constraints what- 
+ever. It is obviously not an effective rejoinder to appellees’ 
+legal theory to say that their interpretation of the Census 
+Act must be wrong because it would permit the Bureau to 
+employ the techniques described above. By the same token, 
+the possibility of hypothetical cases involving unreasonable 
+sampling methodologies provides no ground for construing 
+the Act to prohibit all use of sampling in connection with the 
+apportionment of Representatives among the States.” 
+
+
+15 For essentially the same reasons, there is no merit to appellees’ con- 
+stitutional argument (Glavin Br. 47-48) that all forms of conjectural 
+estimation will be permissible if this Court accepts the Commerce Depart- 
+ment’s interpretation of the phrase “actual Enumeration.” Nor is there 
+any basis for their suggestion (id. at 47 n.47) that the writings of Joseph 
+Story support appellees’ argument that apportionment of Representatives 
+must be hased on a “neadcount.” The first passage, from which appellees 
+offer a partial quotation, states: “The third and remaining principle was to 
+apportion the representatives among the States according to their relative 
+numbers. This had the recommendation of great simplicity and uniform- 
+ity in its operation, of being generally acceptable to the people, and of 
+being less liable to fraud and evasion than any other which could be 
+devised.” 1 Joseph Story, Commentaries on the Constitution of the United 
+
+
+17 
+D. 13 U.S.C. 195 Does Not Prohibit Sampling In Deter- 
+mining State-Level Population Figures For Appor- 
+tioning Representatives Among The States 
+
+As we explain in our opening brief in No. 98-404 (at 28-31), 
+the opening proviso of 13 U.S.C. 195 exempts the appor- 
+tionment of Representatives among the States from the 
+generally applicable directive that the Secretary must use 
+sampling if it is “feasible,” but it does not impose any 
+prohibition on the use of sampling in that Context. Section 
+195 therefore does not withdraw the authority expressly 
+granted by Section 141(a) to use sampling in conjunction 
+with the decennial census. Appellees argue that (1) an 
+exception to a mandatory directive often constitutes a prohi- 
+bition and (2) Section 195 does not contain a mandatory 
+
+directive in any event. Those contentions are without merit. 
+1. Appellees state that It here are numerous examples 
+in the United States Code of statutes in which an exception 
+from a mandate is a prohibition. See, e.g., 22 U.S.C. § 
+5605(a)(1); 16 U.S.C. § 45(f); 7 U.S.C. § 79(j)(1); 22 U.S.C. § 
+2452(a)(1).” Glavin Br. 35 n.35. None of the cited provisions, 
+however, can plausibly be read to divest Executive Branch 
+officials of discretionary authority they would otherwise 
+
+
+States § 634, at 450 (1873 ed.) (emphasis added). The italicized language 
+quoted by appellees refers to the requirement that the apportionment of 
+Representatives be based on “numbers”—not (as appellees suggest, see 
+Br. 47 n.47) to any particular “method” of ascertaining those numbers. 
+The second passage on which appellees rely comes at the conclusion of 
+Story’s discussion of the difficulties of devising an appropriate mathemati- 
+cal formula for apportioning Representatives among the States after the 
+census has been completed and final population figures determined. I/d. § 
+678, at 475-476; compare United States Dep't of Commerce v. Montana, 
+503 U.S. 442, 448-456 (1992). Story asserted that the rule“ Ie, the 
+apportionment formula—“ought to be such that it shall always work the 
+same way in regard to all the States, and be as little open to cavil or 
+controversy or abuse as possible.” 1 Story, supra, § 678, at 476. That 
+passage likewise has nothing to do with the method by which the relevant 
+
+
+18 
+
+
+possess. The exception contained in 22 U.S.C. 5605(a)(1) 
+cannot reasonably be construed as a prohibition.“ 16 U.S.C. 
+45f(c)(2)—the statutory provision to which appellees’ citation 
+to “16 U.S.C. § 45(f)” apparently refers—merely reflects the 
+obvious fact that one does not pay market value for land that 
+has been donated.” 7 U.S.C. 79(j)(1) merely reflects a self. 
+evident proposition in the opposite situation—that the Sec- 
+retary of Agriculture cannot charge a user fee for services 
+he does not perform—and it does not in any event divest the 
+Secretary of discretion he would otherwise possess.” 
+
+
+16 Section 5600 addresses the situation where the President has 
+determined, pursuant to 22 U.S.C. 5604(a)(1), that a particular foreign 
+government has used chemical or biological weapons. Section 5605(a)(1) 
+provides that “(t]he United States Government shall terminate assistance 
+to that country under the Foreign Assistance Act of 1961 [22 U.S.C. 2151 
+et seq.], except for urgent humanitarian assistance and food or other 
+agricultural commodities or products.” Section 5605 C) cannot plausibly 
+be construed to prohibit the termination of food or agricultural assistance, 
+if the appropriate Executive Branch official concludes that termination of 
+such aid is warranted and if termination is otherwise permitted by law. 
+
+
+7 Title 16 does not contain a Section 45(f). Section 45f(c)(1) authorizes 
+the Secretary of the Interior to “acquire lands and interests in lands” in 
+Mineral King Valley “by donation, purchase *, exchange, or 
+transfer.” Section 45f(c\(2) states that “[e)xcept for so much of the 
+property as is donated, the Secretary shall pay to the owner the fair 
+market value of the property on the date of its acquisition.” Any 
+prohibition against paying federal funds for donated property comes not 
+from the statutory “except” clause, but from the Appropriations Clause of 
+the Constitution, Art. I, § 9, CL 7. 
+
+18 Section 79(j1) applies to grain inspections undertaken by the 
+Secretary of Agriculture. It states that t ſhe Secretary shall, under such 
+regulations as the Secretary may prescribe, charge and collect reasonable 
+inspection fees to cover the estimated cost to the Secretary incident to the 
+performance of official inspection except when the official inspection is 
+performed by a designated official agency or by a State under a delegation 
+of authority.“ The immediately succeeding provision of the statute 
+addresses the Secretary's entitlement to fees based on inspections 
+undertaken by a designated official agency or by a State, and provides 
+that the Secretary may collect fees from either to cover supervisory costs 
+incurred by the Secretary. 7 U.S.C. 790%). Section 790,0) and (2) 
+
+
+19 
+
+
+Finally, 22 U.S.C. 2452a(b) contains an exception to a discre- 
+tionary authorization, not an exception to a mandate." 
+
+The approach we advocate is based not on any artificial 
+interpretive convention, but on simple common sense. With 
+respect to any hypothetical Executive Branch action, Con- 
+gress may choose to require the action, to prohibit the 
+action, or to leave the decision to the discretion of Executive 
+Branch officials. Absent very unusual circumstances, Con- 
+gress’s decision not to choose the first alternative does not, 
+in and of itself, logically suggest any preference as between 
+the other two. Where (as here) the pertinent Executive 
+Branch conduct is specifically authorized by another provi- 
+sion of law (see 13 U.S.C. 141(a)), Congress’s decision not to 
+require that conduct cannot reasonably be construed to 
+override the statutory authorization. 
+
+2. As we observe in our opening brief in No. 98-404 (at 
+28-29 n.14), Section 195’s treatment of sampling for purposes 
+other than congressional apportionment is neither wholly 
+mandatory nor wholly non-directive. Contrary to appellees’ 
+contention (Br. 36-40), however, construction of Section 195’s 
+opening proviso does not turn on whether the rest of that 
+Section is regarded as something approaching an absolute 
+command or as a more conditional directive to use sampling. 
+
+
+therefore function as a coherent whole; the proviso in Section 79(j\1) does 
+not operate to prohibit the Secretary from exercising authority granted 
+by another provision of the statute. 
+
+10 Section 2452a(b) states: “The President is authorized to transfer to 
+the appropriations account of the United States Information Agency such 
+sums as the President shall determine to be necessary out of the travel 
+accounts of the departments and agencies of the United States, except for 
+the Department of State and the United States Information Agency, as the 
+President shall designate.” 22 U.S.C. 2452a@) (emphasis added). The 
+italicized proviso is an exception to the President’s general discretionary 
+authority (“The President is authorized”) to transform funds from “the 
+travel accounts of the departments and agencies of the United States.” 
+The fact that Section 2452a(b) contains the word “shall” does not make the 
+proviso an exception to a mandate. 
+
+
+20 
+
+
+For even if Section 195 were regarded as purely horta- 
+tory—as nothing more than the expression o° a non-binding 
+congressional preference for sampling in doubtful 
+cases—there is no reason to construe the opening proviso as 
+prohibiting the use of sampling for apportionment of 
+Representatives among the States. 
+
+With respect to functions other than the apportionment of 
+Representatives, Congress sought to encourage the use of 
+sampling in order to reduce the cost and burden of census 
+activities, even in circumstances in which the Secretary does 
+not believe that sampling would improve the accuracy of the 
+count. See S. Rep. No. 1256, 94th Cong., 2d Sess. 5 (1976) 
+(stating, with respect to the mid-decade census, that “the use 
+of sampling procedures and surveys is urged for the sake of 
+economy and reducing respondent burden”); see also id. at 9, 
+12, 13; 98-404 Comm. Dep’t Br. 30. Given the particular con- 
+stitutional significance of the apportionment of Representa- 
+tives, however, Congress could reasonably determine that 
+such a “thumb on the scale” was inappropriate, and that the 
+Secretary should be left free to exercise his own best judg- 
+ment regarding the appropriate methods for obtaining the 
+most accurate population counts practicable. The fact that 
+Congress declined to codify a preference for sampling in 
+determining the population figures used for apportionment 
+of Representatives does not logically imply that Congress 
+intended to prohibit the use of sampling in that context. 
+
+
+XR X X * * 
+
+
+For the reasons stated above and in our opening brief, the 
+judgment of the district court should be vacated and the case 
+remanded with instructions to dismiss for lack of jurisdic- 
+tion. In the alternative, the judgment of the district court 
+should be reversed. 
+
+
+Respectfully submitted. 
+
+
+NOVEMBER 1998 
+
+

@@ -1,0 +1,1612 @@
+\ Supreme Court, U.S. 
+
+
+we. 91-1900? ieee we 
+In The ER wus ; 
+Supreme Court of the United States 
+
+
+-— 
+
+
+October Term, 1997 
+
+
+HUGHES AIRCRAFT COMPANY and HUGHES NON- 
+BARGAINING RETIREMENT PLAN, 
+Petitioners, 
+
+
+vs. 
+
+
+STANLEY I. JACOBSON, DANIEL P. WELSH, ROBERT E. 
+McMILLIN, ERNEST O. BLANDIN and RICHARD E. 
+
+
+HOOK, 
+Respondents. 
+
+
+On Petition for Writ of Certiorari to the 
+United States Court of Appeals for the Niath Circuit 
+
+
+RESPONDENTS’ BRIEF IN OPPOSITION 
+
+
+SETH KUPFERBERG 
+Counsel of Record 
+RICHARD DORN 
+‘I. PHILIP SIPSER 
+SIPSER, WEINSTOCK, HARPER & DORN, L.L.P. 
+Attorneys for Respondents 
+275 Madison Avenue 
+New York, New York 10017 
+(212) 252-0072 
+
+
+i 
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+Whether the Ninth Circuit correctly followed Lockheed 
+Corp. v. Spink, 116 S.Ct. 1783 (1996) by recognizing 
+numerous material differences between this case and 
+that one, including, among others, that this complaint 
+alleges breach of ERISA’s accrual, vesting and 
+termination provisions and alleges a sham transaction 
+contrived to conceal an illegal transfer of plan assets to a 
+different plan. 
+
+
+Whether the Ninth Circuit correctly recognized, in 
+harmony with precedent and the text of ERISA, that in 
+addition to other significant differences between them, 
+Lockheed, unlike this case, involved a purely employer- 
+funded plan. 
+
+
+Whether the Ninth Circuit correctly recognized, in 
+
+
+harmony with precedent, that participants in a 
+contributory pension plan have rights expressly 
+conferred by ERISA to assets derived from their own 
+contributions. 
+
+
+Whether the Ninth Circuit correctly recognized, in 
+harmony with precedent, that an employer, in 
+appropriate circumstances, can be ordered to effect 
+termination of a plan (including distribution of its 
+assets) using the means specified in the termination 
+provisions of ERISA. 
+
+
+ii 
+TABLE OF CONTENTS 
+Questions Presented for Review .................cccceeeeeeeeeues i 
+ha ais windstar Guadesticsdcchstegessiicdsecces iv 
+PIED dhnsctadadibastivesspcbpebsdcvecssesaseeccacese I 
+RA REITE CE BEM CARS cccccccccccsccccescvesonscccccece 2 
+REASONS FOR DENYING THE WRIT .................005 10 
+
+
+1. The Ninth Circuit did not “refuse to follow” Lockheed nor 
+does the decision below conflict with Lockheed............... 10 
+
+
+A. This is not just a fiduciary duty case, but alleges 
+breach of ERISA’s structural requirements ........... 10 
+
+
+B. This is not just an amendment case, as the so-called 
+“amendment” at issue was allegedly asham .......... 12 
+
+
+C. Noticing that Lockheed dealt with a noncontributory 
+plan is not “refusal to follow controlling authority” .. 14 
+
+
+1. The logic of Lockheed permits distinctions 
+between contributory and noncontributory plans 
+judd pleinhhiebebadaisaiabadiadeetdediseeerentes 14 
+
+
+2. The distinction between contibutory and 
+noncontributory plans, which petitioners call 
+
+
+“meaningless,” is statutory .................. 19 
+I]. There is no conflict between the Ninth Circuit’s .uling and 
+IE inthe dec nkicncddedulinonpcnepessaseeetes 20 
+
+
+el 
+
+
+~—  _L cer ee . 
+
+
+*** 
+
+
+A. There is no conflict with other Circuits about the 
+EEN SETI SIRT Oe Oe eee 20 
+
+
+B. There is no conflict with other Circuits about 
+employees’ interest in their own contributions 
+
+
+C. There is no conflict with other Circuits about the 
+means for terminating an ERISA plan................. 25 
+
+
+111. Contrary to the petition’s claim that the decision below will 
+have “staggering” consequences, the fact pattern alleged, which 
+the Ninth Circuit held may be developed in discovery, is highly 
+IEE viccieccncdddbtoteviscancdsceciscccsuesebovestbevsubecctens 29 
+
+
+iv 
+TABLE OF AUTHORITIES 
+
+CASES Page 
+American Flint Glass Worker, “'nion v. Beaumont Glass Co.. 
+Se FO iis nec ccdibiiestabdntitniinaedi 25-26, 29 
+Borst v. Chevron Corp, 36 F.3d 1308 (Sth Cir. 1994), 
+
+cert. denied, 115 S.Ct. 1699 (1995) .............cccccccccceeees 24 
+Bridgestone/Firestone, Inc. v. PBGC, 892 F.2d 105 
+
+GES, SA, Cee istrcdetniditelidbitietic ee. 24 
+Chait v. Bernstein, 835 F.2d 1017 (3d Cir. 1987)......... 24-25 
+
+
+Chambers v. Kaleidoscope, Inc grofit Sharing Plan and Trust, 
+Eee 28 
+
+
+Clothing & Textile Workers v. Murdock, 861 F.2d 1406 
+CRG, Deak staendsisivcccnspecesiondenienieliniientntinete 23 
+
+
+(Commissioner v. Keystone Consolidated Industries, Inc., 
+FSS Dds CSCO wincussarisietmcinsinbiatiitintnlndiaatibiens 13 
+
+
+Curtiss-Wright Corp. v. Schoonejongen, 
+SEDER SOOO ccdecnttednnnsndmntsiiniiabitiidtinvie 14-16 
+
+
+Delgrosso v. Spang and Co. , 769 F.2d 928 (3d Cir. 1985), 
+cert. denied, 476 U.S. 1140 (1986)..................c0c0eee 24-25 
+
+
+Donovan v. Mazzola, 716 F.2d 1226 (9th Cir. 1983), cert. 
+denied, 464 U.S. 1040 (1984) 0.0.0... cc ccccccceeceeeee eens 12-13 
+
+
+Matter of Esco Manufacturing Co. , 33 F.3d 509 (Sth Cir. 1994), 
+vacated, 50 F.3d 315 (Sth Cir. 1995) .......... ccc cceeeeees 26-27 
+
+
+ee ne ee ee ee eee 
+
+
+ee | 
+
+
+v 
+
+
+Matter of Esco Manufacturing Co., 50 F.3d 315 
+SST indccriibddendissartenendndiatabeoesqnnebesséiess 26 
+
+
+Firestone Tire and Rubber Co. v. Bruch, 
+ee IIE  nncinnnancideenapisnansiapadmitanpnenes 15 
+
+
+In re Gulf Pension Litigation, 764 F.Supp. 1149 (S.D.Tex. 
+1991), aff'd in part sub nom., Borst v. Chevron Corp, 36 F.3d 
+
+
+1308 (Sth Cir. 1994), cert. denied, 
+DIS SLL. IGDO(IGTS) .ncccrcccscccccccccccscccccccccccscces 27-28 
+Heath vy. Varity Corp., 71 F.3d 256 (7th Cir. 1995) ........... 13 
+
+
+John Blair Communications, Inc. Profit Sharing Plan v. 
+Telemundo Group, Inc. Profit Sharing Plan, 26 F.3d 360 (2d 
+Ge, Fe cececccedececccenccccetvsciavsentunssnicessoonsedsos 21-22 
+
+
+neenecescecnecccssososcveccocconescoussstensesonsasessocesseses 21,22 
+
+
+Lockheed Corp. v. Spink, 116 S.Ct. 1783 (1996) 
+PG ATG LRT APE RTE, ERNE 1-2, 7-8, 10-22 
+
+
+Mine Workers v. Boyle., 418 F Supp. 406 (D.D.C.. 1976), 
+aff d, 567 F.2d 112 (D.C. Cir. 1977), cert. denied, 
+
+
+IED cccenncncecnneetadedtonctcatinevensescceses 18 
+PBGC v. Artra Group, Inc.,972 F.2d 771 (7th Cir. 1992) ..... 6 
+Phillips v. Bebber, 914 F.2d 31 (4th Cir. 1990) .......... 26,27 
+
+
+Ruocco v. Bateman, Eichler, Hill, Richards, Inc., 903 F.2d 1232 
+(9th Cir.), cert. denied, 498 U.S. 889 (1990) ............. 18,24 
+
+
+vi 
+
+
+Siskind v. Sperry Retirement Program, Unisys., 47 F.3d 498 
+GROG, PUG ccbensciutapitcisvcdencebetinsendanedis 11,17, 18,21 
+
+
+| arity Corp. v. Howe, 1168.Ct. 1065 (1996) .... 11, 15,17, 20 
+
+
+Statutes and Regulations 
+Employee Retirement Income Security Act of 1974, 29 U.S.C. § 
+© BES GUD ccccvascecesessccsceseccccasesennscaveuseesiie passim 
+§ 3(21 (A), 29 U.S.C. § 1002(21 (A) ......... 11-12,17 
+§ 203, 29 U.S.C. § 1053 .............4. 11, 16, 19-20, 23 
+Dee Cas GOUT cnccacssccorssssesisecacconsiine 23 
+6 4SS, FO UBL... § VIED oc ccccsccccscccccsecesess 5, 11,23 
+§ 404, 29 U.S.C. §1104.......... 5,7, 10-11, 12-13, 23 
+§ 406, 29 U.S.C. § 1106 ..............44. 5, 10-11, 12-13 
+Fp ae Seeiise CE ae ccccccetecvcecécccconccnoensect 1] 
+POG, Be SRA Sy OO Povtccccncesccavcsnesetocnsuesets 25 
+Title IV, 29 U.S.C. § 1341 ef seg. ....... 1, 5, 6-7, 25-29 
+$4042, 29 U.S.C. § 1342.2... .. ccc cceeeees 26-27 
+
+
+§ 4044, 29 U.S.C. § 1344 
+sc ncccocuscccsenesonesneuesandeet 1,5, 6-7, 11, 19-20, 22-23, 24, 27 
+
+
+ae BEE cadenetnpnncnccnceascscvescosinnzentoces 5-6 
+Other 
+
+Bogert on Trusts & Trustees § 41 (2d ed. 1984) ............. 18 
+Scott on Trusts § 156.3 (4th ed. 1987) ...........0ccceceeeeees 18 
+James Stephens, The Crock of Gold (1912) ..........0c00c00005 9 
+
+
+BRIEF IN OPPOSITION TO 
+PETITION FOR WRIT OF CERTIORARI 
+
+
+INTRODUCTION 
+
+
+This petition seeks review of the Ninth Circuit’s refusal, on 
+a $ 12(66) motion, to dismiss a complaint alleging that after 
+employee contributions to a defined benefit pension plan enabled 
+it to accumulate a $1.2 billion surplus, the employer closed the plan 
+to new participants and substituted a different, noncontributory 
+plan for new employees and current participants who elected to 
+switch plans. By freezing participation in the contributory plan, 
+Hughes limited the accrual of new benefits. As a result, surplus 
+plan assets far exceed any possible future liabilities, so that surplus, 
+left to itself, would simply continue to grow forever. The 
+complaint alleges that this surplus, including the majority of the 
+surplus which is derived from employee contributions, is being 
+used by Hughes to meet its separate obligations under the new 
+noncontnbutory plan. 
+
+
+The Ninth Circuit found that if the allegations are proven, 
+the Distnct Court has power to order termination of the 
+contributory plan as a wasting trust. Termination would be 
+effected under Title IV of ERISA, 29 U.S.C. § 1341 et seg., whose 
+§ 1344 requires, among other things, that surplus derived from 
+employee payments be “equitably distributed” to those who made 
+them. The Ninth Circuit also found that diversion of plan assets 
+derived from employee contributions to meet separate employer 
+obligations to the new noncontributory plan may breach other 
+provisions of ERISA, including its vesting, accrual, fiduciary and 
+prohibited transaction rules, and that whether the old and new 
+plans (which have different funding sources, benefits and 
+beneficiaries) are indeed two plans or merely two “benefit 
+structures” as Hughes prefers to call them, should be considered in 
+the first instance by the District Court. 
+
+
+Review by this Court is unnecessary. Contrary to claims 
+that the holding “flouted” Lockheed Corp. v. Spink, 116 S.Ct. 1783 
+
+
+2 
+
+
+(1990), “effected a revolution,” and wreaked “havoc... across a vast 
+expanse” of law (Pet. 1), the decision conflicts neither with 
+Lockheed nor with any other holding of this Court or a Court of 
+Appeals. It 1s carefully limited to unusual facts: 
+
+
+“At the heart of this dispute is whether Hughes is 
+entitled to use and control for its own benefit the 
+Contnbutory Plan’s one billion dollar surplus, 
+approximately half of which was generated by 
+employee contnbutions. This is not a case in which 
+the pension plan at issue was funded entirely by 
+employer contnbutions. Nor is this a case in which 
+the employer used the plan’s asset surplus solely to 
+benefit participants of the plan.... plaintiffs allege 
+that the employer used the Contnbutory Plan’s 
+asset surplus attnbutable in part to employee 
+contnbutions for its own benefit and for the benefit 
+of employees who were never participants in the 
+Contnbutory Plan.” App. Sa. 
+
+
+“No discovery was ever taken,” App. 4a, and the facts are 
+undeveloped. Even assuming Lockheed may one day need 
+explication, this case, which does not turn on interpretation of 
+Lockheed, does not conflict with any other reported decision, and 
+calls for the development of an as-yet-absent factual record, is 
+inappropniate to provide it. The petition should be denied. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners characterize this case as “about respondents’ 
+quest fora pot of gold.”” Pet. 1. They fail to mention that the pot 
+was filled by employees, putting in a portion of their hard earned 
+salanes. Respondents are participants in Hughes’ contributory 
+pension plan (the “Plan” or “Contnbutory Plan”) which when 
+Hughes froze participation and thus restricted accrual of benefits -- 
+after four years in which only employees, not the employer, 
+
+
+3 
+
+
+contnbuted (App. 3a, 136a) -- possessed a surplus (“assets [that] 
+exceeded the actuanal or present value of accrued benefits”) of 
+$1.2 billion. App. 2a-3a, 137a. 
+
+
+Concerning the ongins of this surplus, as on other points 
+noted below, petitioners misstate what would be before this Court 
+were certioran granted. With no factual basis, petitioners assert 
+that the Plan “invested its assets wisely, with excellent results” and 
+that plaintiffs seek “to grab those investment returns for 
+themselves.” Pet. 2. There is nothing in the record about the 
+Plan’s investments. A developed record would likely show that 
+the surplus came from: (1) return on Plan assets (denved from both 
+employee and employer contnbutions) at rates any prudent investor 
+would have realized, (2) employee contributions made after 
+Hughes stopped contributing, and (3) forfeitures of benefits of non- 
+vested participants when divisions and plants were closed or sold. 
+What is in the record, is that “As of January 1, 1992, approximately 
+half the surplus in the Contnbutory Plan was attnbutable to 
+employee contnibutions.” App. 3a. 
+
+
+Hughes sponsored the Plan for many years, making 
+contributions to supplement those paid voluntanily by participating 
+employees. In 1986 Hughes was sold to General Motors, Plan 
+surplus was then almost $1 billion, while GM’s own retirement 
+plan was $7 billion underfunded. After the GM purchase, Hughes 
+stopped making contributions to the Plan but continued to require 
+participants to contribute. The surplus grew to $1.2 billion. App. 
+2a-3a, 137a. In 1991, Hughes froze the Plan and substituted the 
+new Non-Contributory Plan which pays different, far lesser 
+benefits.' No new participants could join the Plan. New 
+employees, those not already in the Plan, and any who dropped out 
+
+
+' According to petitioners, only “2% of the employee participants 
+participating in the contributory benefits structure elected to change to 
+the non-contributory benefits structure.” App. 146a. 
+
+
+4 
+
+
+became participants in the new Non-Contnbutory Plan 
+automatically. 
+
+
+In another misstatement of what would be before this Court 
+were certioran granted, petitioners call this an “amendment” that 
+gave some participants in what remains a single plan a choice 
+between two “benefit structures.” Pet. 5. At another pot, 
+petitioners call it a “routine” amendment. Pet. 15. Plaintiffs 
+allege, as discussed below, that the “amendment” was so far from 
+“routine,” that it effectively reduced the Plan to a wasting trust. As 
+the Ninth Circuit summanzed facts alleged, 
+
+
+“Although created through an ‘amendment’ to the 
+Contnbutory Plan, the Non-Contnbutory Plan 
+shares virtually no characteristics with the older 
+plan, other than administration by the same 
+trustees.” App. 3a-4a. 
+
+
+The Ninth Circuit found that to decide if separate plans exist 
+requires a better developed record (App. 10a-12a, 16a-17a, 23a), 
+and this finding is not among those on which petitioners have 
+sought review. See “Questions Presented,” Pet. 1. 
+
+
+Respondents brought this action in 1992, alleging that 
+Hughes’ effective termination of the Plan, and use of surplus 
+denived largely from employee payments to meet Hughes’ separate 
+obligations under the new Non-Contributory Plan, breached several 
+clauses of ERISA. According to the complaint, freezing 
+participation in the Plan and thus circumscnbing accruals left it 
+with assets “substantially in excess of those required to fund all 
+current and future pensions” (App. 138a): assets which since the 
+Plan continued to receive both employee contributions and 
+investment income, were bound to increase still further. From its 
+inception in 1991, the so-called “non-contributory benefit 
+structure” -- really a separate plan -- was funded not by Hughes, 
+but out of this surplus of the Contributory Plan. App. 4a. In short, 
+
+
+See Se eee weet eT 
+
+
+Diane ee me ee Pe ete ea 
+
+
+5 
+
+
+the Plan had been rendered a “wasting trust” whose corpus was of 
+no use to its beneficiaries and which, plaintiffs argued, must be 
+ordered terminated. 
+
+
+Under ERISA, any such termination would have to be 
+effected in accordance with § 1344 which requires, among other 
+things, that surplus derived from participant contributions be 
+“equitably distnbuted” to those who made them. Hughes, the 
+complaint alleged, failed to follow § 1344 (as well as the rest of 
+Title !V of ERISA), and should be ordered to do so. Plaintiffs also 
+claimed that Hughes’ diversion of Plan surplus derived from 
+participant contributions to meet separate employer obligations 
+under the new Non-Contributory Plan breached other sections of 
+ERISA: 29 U.S.C. $§ 1103 (plan assets “shall never inure to the 
+benefit of any employer and shall be held for the exclusive 
+purposes of providing benefits to participants”), 1104 (plan 
+fiducianes must act “solely in the interest of the participants”), 
+1053 (“an employee’s nghts in his accrued benefit derived from his 
+own contnbutions are nonforfeitable”’), and 1106 (prohibiting the 
+transfer of plan assets to a party in interest). A sixth cause of 
+action relates to Hughes’ use of Plan surplus in 1989 to fund an 
+early retirement incentive program. App. 139a-1 43a. 
+
+
+The district court dismissed the complaint, but the Ninth 
+Circuit found that each cause of action states a claim on which 
+rehef may be granted, reversed, and remanded. As already stated, 
+contnbutory plans or just two “structures” of a single plan must 
+first be addressed by the district court on developed facts, and this 
+is not a question on which petitioners have sought review.” 
+
+
+* In a footnote, petitioners do cite a regulation which defines a 
+“plan” as “single” if all assets are available to pay all benefits, even if 
+the “plan” has “distinct benefit structures which apply to the same or 
+different participants.” Pet. 20 n. 6, citing 26 C.F.R.§ 1.414(1)-(1), 
+
+(continued...) 
+
+
+6 
+
+
+The Ninth Circuit also held that when the Plan was frozen 
+in 199], it may have become a wasting trust under common law 
+principles. 
+
+
+“Only after discovery can the distnct court properly 
+determine whether the Contnbutory Plan’s 
+purposes have been accomplished and whether its 
+abilities are fixed enough to terminate the plan.” 
+App. llan. 3. : 
+
+
+If this factual question is ultimately resolved in plaintiffs’ favor the 
+Distnet Court could, under the Ninth Circuit’s muling, order 
+Hughes to terminate the Contnbutory Plan pursuant to ERISA Title 
+IV, including both equitable distnbution of surplus denved from 
+employee contnbutions as required by 29 U.S.C.§ 1344, and such 
+other Title IV requirements as supervision by the Pension Benefit 
+Guaranty Corporation. 
+
+
+In yet another misstatement of what would be before this 
+Court were certioran granted, petitioners charactenze this as a 
+decision on the question “whether Title IV of ERISA provides the 
+exclusive means of terminating a defined-benefit plan,” a holding 
+that the Plan “could be terminated other than by” those means. Pet. 
+3 and 24; see also Pet. i and 21-5. Neither plaintiffs nor the Ninth 
+Circuit ever suggested bypassing the means for termination set 
+
+
+‘(...continued) 
+reprinted at App. 128a The regulation itself states it applies only 
+“[flor purposes of this section” dealing with the effect on plans’ tax 
+qualification of their merger, consolidation and transfer provisions. 
+Cf PBGC vy. Artra Group, Inc., 972 F.2d 771 (7th Cir. 1992), 
+discussing tax qualification of single- and multiple-employer plans. 
+
+
+a I a aw ee 
+
+
+7 
+
+
+forth in Title IV.’ Plaintiffs’ request is precisely that Hughes be 
+ordered to use those means. 
+
+
+Similarly, contrary to the claim that the decision “flouted” 
+Lockheed, the Ninth Circuit carefully considered that as well as 
+other decisions by this and lower courts. Lockheed, the Ninth 
+Circuit explained, held that amendment of a noncontributory 
+pension plan to increase some participants’ benefits could not 
+violate ERISA -- provided no ERISA clauses other than 29 U.S.C. 
+§ 1104 were violated -- because the employer amended the plan as 
+sponsor, not as a fiduciary. App. 7a-8a. 
+
+
+The complaint in this case, however, alleges breach of 
+accrual, vesting and termination provisions of ERISA, not just the 
+fiduciary duty provision in § 1104. Lockheed, as the Ninth Circuit 
+pointed out, “specifically noted that ‘there is no claim in this case 
+that the amendments resulted in any violation of” ERISA’s 
+structural requirements. App. 21a n. 8 and 24a, quoting 116 S.Ct. 
+at 1790 n. 5. 
+
+
+The complaint, moreover, alleges that what petitioners call 
+an “amendment” was really a sham transaction that closed the Plan 
+in order to transfer its assets to the new non-contributory plan 
+which had different participants. Lockheed, as the Ninth Circuit 
+also pointed out, expressly recognized that “a sham transaction, 
+meant to disguise an otherwise unlawful transfer..., might present 
+a different question from the one before us.” App. 24a, quoting 
+116 S.Ct. at 1792 n. 8. For both these reasons as well as others 
+stated by the Ninth Circuit (App. 7a-8a, 10a, 12a n. 4, 14a, 17a, 
+2lan. 8, 24a, 25a), Lockheed was quite different from this case. 
+
+
+> To minimize the possibility of such misreading, the Ninth Circuit 
+amended its opinion after Hughes filed a motion for rehearing, deleting 
+certain references to when a termination occurs. App. lla, 22a-23a, 
+49a-50a. 
+
+
+8 
+
+
+Petinoners’ characterization of what would be before this 
+Court were certioran granted is especially misleading because the 
+petton discusses only one of the several distinctions drawn by the 
+Ninth Circuit between this case’s facts and those in Lockheed The 
+Ninth Circuit noted as one significant difference between this case 
+and Lockheed that Hughes’ Plan, unlike the noncontributory plan 
+in Lockheed, was largely employee-funded. But as summarized 
+above, the Ninth Circuit also stressed that plaintiffs here, unlike in 
+Lockheed, allege both structural violations of ERISA’s accrual, 
+vesting and termination provisions, and a sham “amendment” that 
+really involved the transfer of Plan assets to a different plan. E.g., 
+App. 7a-8a, 17a-18a, 21a n. 8, and 24a. The petition (wrongly) 
+minimizes the significance of the first distinction. It completely 
+ignores all the others. Pet. 10-20. 
+
+
+While sustaining the validity in the face of a motion to 
+dismiss of each of plaintiffs’ claims, the Ninth Circuit made clear 
+that it was neither making factual findings (e.g., App. Ilan. 3, 21a 
+n. 6)nor even deciding exactly how much plaintiffs must prove to 
+establish each cause of action: 
+
+
+“The simple question before us —_aether plaintiffs 
+have alleged sufficient facts in neir complaint to 
+State any claim for relief under ERISA.” App. 2a. 
+
+
+Petinoners filed a suggestion for rehearing en banc. Not a single 
+judge of the entire Ninth Circuit, not even Judge Norris who had 
+dissented from the panel’s decision, requested a vote on the 
+
+
+suggestion. App. 50a. 
+
+
+One more distortion in the Petition, discussed in more detail 
+below (pp. 29-30), should be identified. A claim that review is 
+appropnate because contnibutory defined benefit plans “cover more 
+than | milion American workers and retirees, and hold more than 
+$60 billion in assets” (Pet. 16) is not based on the record, is not 
+germane to the legal issues, and also, although purporting to show 
+
+
+that this case has widespread significance, actually underlines the 
+hughly unusual nature of the facts alleged in the complaint. There 
+1s NO reason to think such facts are common or can be commonly 
+
+
+alleged. 
+
+
+That the Petiton includes so many misstatements reflects 
+the lack of any actual reason to grant the wnt. This case has great 
+importance to Hughes, which wants to keep using the Plan's “pot 
+of gold” (by now, filled even higher than in 1991) to pay Hughes’ 
+separate obligations to the new Non-Contributory Plan‘ The 
+holding below simply affirms that ERISA cannot be ignored. That 
+may limit Hughes’ access to Plan surplus or irk employers that 
+would prefer complete freedom of action, but it hardly calls for 
+Supreme Court review. 
+
+
+* Forms 5500 filed by Hughes confirm that it has continued not to 
+contribute to either plan, instead using Plan surplus to meet employer 
+obligations. The most recent Form 5500 (for the year ending 
+November 30, 1996 and covering both “benefit structures” on a 
+consolidated basis) shows the Hughes Non-Bargaining Retirement 
+Plan with $5.5 billion in net assets and $4.0 billion in projected 
+liabilities (including those under the new non-contributory plan), 
+confirming plaintiffs’ prediction that Plan surplus will continue to 
+grow. 
+
+
+The “pot of gold” image used by petitioners is telling. 
+Hughes’ amassing of the money it now claims indeed recalls the 
+folklore of leprechauns: “In the mght time we go about 
+into people's houses and we clip little pieces off their money, and so, 
+bit by bit, we get a crock of gold together" James Stephens, The 
+Crock of Gold, ch. 8 (1912). But while leprechauns were little people 
+saving a ransom for use if captured, Hughes just wants to pay its bills 
+with the Plan's money. 
+
+
+10 
+
+
+REASONS FOR DENYING THE WRIT 
+
+
+In terms of the considerations governing certioran stated in 
+thus Court’s Rules, the Petition purports to offer two arguments. 
+First, it claums that the decision below conflicts with this Court’s 
+Tulng in Lockheed. See the first “Question Presented,” Pet. i, and 
+Pet. 10-13. It also claums the decision conflicts with other Circuits 
+on any of three issues: the reach of Lockheed (second “Question 
+Presented and Pet. 14-5), the existence of employee interest in plan 
+assets denved from employee contributions (third “Question 
+Presented” and Pet. 16-20), or the means required for termination 
+of ERISA plans (fourth “Question Presented” and Pet. 21-5). 
+Finally, the petition claims the decision will have “staggenng” or 
+“extraordinary” impact. Pet. 15-6. None of these contentions 
+withstands scrutiny. 
+
+
+I. The Ninth Circuit did not “refuse to follow” Lockheed nor 
+does the decision below conflict with Lockheed. 
+
+
+Petinoners claim the Ninth Circuit “flouted” or “refused to 
+follow” Lockheed. Pet. 1, 10-13. They summarize Lockheed as 
+holding that amendment of any type of pension plan, contributory 
+or not, does not mvolve a fiduciary duty. As shown below (pp. 14- 
+18), such a characterization of Lockheed’ s holding is too sweeping. 
+But more fundamentally, even if it were correct, the Ninth Circuit’s 
+decision still would not conflict with Lockheed since the Ninth 
+Circuit recognized numerous differences between this case and 
+Lockheed, mentioning the Plan’s contributory nature as just one. 
+Petitoners sumply ignore most distinctions recognized by the 
+decision below between Lockheed and this case. 
+
+
+A. This is not just a fiduciary duty case, but alleges 
+breach of ERISA’s structural requirements. 
+
+
+Contrary to the petition’s presentation, this is not just a 
+fiduciary duty case alleging violation of 29 U.S.C. § 1104 (or even 
+
+
+11 
+
+
+one alleging a prohibited transaction under § 1106). The complaint 
+alleges, as the Ninth Circuit summanized it, that when “amending” 
+the Plan Hughes “violated ERISA’s vesting, nonforfeiture, and 
+distribution requirements under 29 U.S.C. §§ 1053(a) and 1344.” 
+App. 8a. 
+
+
+Lockheed endorsed cases like Siskind v. Sperry Retirement 
+Program, Unisys, 47 F.3d 498, 505 (2d Cir. 1995) which say that 
+fiduciary functions do not, in general, include plan design. 116 
+S.Ct. at 1789 and n. 4. But Lockheed also expressly recognized 
+that parts of ERISA other than its fiduciary provisions do govern 
+plan amendments. 116 S.Ct. at 1790: “While other portions of 
+ERISA govern plan amendments... the act of amending a pension 
+plan does not tigger ERISA’s fiduciary provisions.” 
+
+
+As the Ninth Circuit pointed out, Lockheed “specifically 
+noted that ‘there is no claim in this case that the amendments 
+resulted in any violation of” such structural ERISA requirements. 
+App. 2la n. 8 and 24a, quoting 116 S.Ct. at 1790 n. 5. That an 
+employer in designing a plan is free, regardless of motivation, to 
+choose any structure which ERISA permits, does not mean it is 
+also free to choose a prohibited structure. Similarly this Court in 
+Varity Corp. v. Howe, 116 S.Ct. 1065, 1075-8 (1996), held that 29 
+U.S.C. § 1132(a\2) allowing suits for breach of the fiduciary 
+duties imposed by ERISA is supplemented by § 1132(a)(3), “a 
+safety net, offering appropnate equitable relief for” other ERISA 
+
+
+That Lockheed does not require dismissal of this complaint 
+is obvious. Plaintiffs do allege breach of clauses of ERISA other 
+than § 1104 and § 1106: § 1103's bar on inurement of plan assets 
+to the employer’s benefit (which as the Ninth Circuit said, App. 8a, 
+has never been held to be “only triggered when an employer is 
+acting as a fiduciary”), § 1053's bar on forfeiture of “an employee's 
+nghts in his accrued benefit denved from his own contnbutions,” 
+and § 1344's requirements for plan terminations. Lockheed held 
+
+
+12 
+
+
+the payment of benefits “to plan participants and beneficianes 
+pursuant to the terms of an otherwise lawful plan” to be beyond the 
+scope of § 1106's ban on transactions with a party in interest. 116 
+S.Ct at 1790. There was no claim that the amendments at issue in 
+Lockheed rendered the plan not “otherwise lawful” by causing “any 
+violation of the participation, funding, or vesting requirements of 
+ERISA.” Jd. n. 5. 
+
+
+Those sections, at issue here, apply regardless whether the 
+employer acts as sponsor or fiduciary. Accordingly, Lockheed 
+plainly does not foreclose this case. 
+
+
+B. This is not just an amendment case, as the so-called 
+“amendment” at issue was allegedly a sham. 
+
+
+Lockheed, as the Ninth Circuit also said, also expressly 
+recognized that “a sham transaction, meant to disguise an 
+otherwise unlawful transfer... might present a different question 
+from the one before us.” App. 24a, quoting 116 S.Ct. at 1792 n. 8. 
+For this reason too, petitoners’ argument -- that Lockheed holds 
+that an empoyer’s motive for amending a plan does not matter -- is 
+beside the point. 
+
+
+The Ninth Circuit correctly found, in a holding which 
+petinoners have not asked this Court to review, that to decide if 
+what happened here was indeed the amendment of a continuing 
+plan as petitioners claim -- or the closing of the Plan, creation of 
+another, and diversion to it of Plan assets for Hughes’ benefit as 
+plaintiffs allege -- requires a developed record. If that question 1s 
+ulumately resolved in plaintiffs’ favor, the employer's use of one 
+plan's assets to fund another plan will clearly be both a prohibited 
+transaction under § 1106 and a § 1104 breach of fiduciary duty.’ 
+
+
+> See. e.g., Donovan v. Mazzola, 715 F.2d 1226, 1231, 1237-8 (9th 
+(continued...) 
+
+
+13 
+
+
+Commissioner v. Keystone Consolidated Industries, Inc., 
+508 U.S. 152 (1993), held that an employer's transfer to a defined 
+benefit pension plan even of unencumbered, fairly valued property 
+breached the Tax Code’s prohibited transaction clause, a 
+companion to 29 U.S.C. § 1106. The clauses, the Court explained, 
+bar any “transfer of property in satisfaction of a debt,” closing what 
+before ERISA was “an open door for abuses such as... the 
+sponsor's satisfaction of a funding obligation by contribution of 
+property that was overvalued or nonliquid.” Jd. at 159-60. The 
+uncompensated transfer of Plan assets to meet Hughes’ non-plan 
+obligations, if proven, will be a more egregious prohibited 
+transaction. 
+
+
+It will breach § 1104 as well. The allegedly unlawful 
+such as the administrator which used Plan assets to pay benefits 
+under the new noncontnibutory plan, and could not have been 
+implemented by Hughes acting solely as settlor. Lockheed 
+distinguishes settlor and fiduciary acts. It does not authonze 
+schemes to divert assets from a plan. For this reason too, there is 
+no conflict between the holding below and Lockheed. 
+
+
+°(...continued) 
+
+Cir. 1983), cert. denied, 464 U.S. 1040 (1984), which found a “per se 
+prohibition against a loan between two funds where the trustees are 
+identical but the participants and beneficiaries are not” -- a situation 
+quite similar to that here, in which Hughes is using Plan assets to fund 
+another plan. (As discussed earlier, Hughes’ claim that there are two 
+“structures” of a single plan was remanded to the District Court, m a 
+finding on which the petition does not seek review.) Mazzola also 
+noted that ERISA makes the common law of trusts even “more 
+exacting.” Labeling an improper decision an “amendment” does not 
+always insulate it from fiduciary review. See, ¢.g., Heath v. Varity 
+Corp.. 71 F.3d 256, 259 (7th Cir. 1995) (doubting that a plan could be 
+amended to exclude an employee by name). 
+
+
+14 
+
+
+C. Noticing that Lockheed dealt with a noncontributory 
+plan is not “refusal to follow controlling authority.” 
+
+
+In addition to pointing out, as already discussed, that the 
+complaint here makes allegations completely different from those 
+in Lockheed and expressly distinguished in the Lockheed opinion, 
+the Ninth Circuit also pointed out that Lockheed, unlike this case, 
+involved a purely employer-funded plan. Petitioners (while totally 
+ignonng other points which are themselves dispositive) describe 
+the recognition of difference between contributory and 
+noncontnbutory plans as “refusal to follow” Lockheed. They also 
+descnie the “ostensible distinction between contributory and non- 
+
+
+contnbutory plans” as “meaningless.” Pet. 13. 
+
+
+1. The logic of Lockheed permits distinctions 
+between contributory and noncontributory 
+plans. 
+
+
+While petitioners argue that Lockheed did not “even 
+mention whether the plan was contributory” (Pet. 12-13), its 
+reasoning nonetheless makes the plan’s nature relevant. Especially 
+in a case alleging diversion of Plan assets to non-participants in the 
+Plan, there 1s an obvious distinction between an employer-funded 
+pension plan like the one Lockheed found could be amended 
+without reference to fiduciary duties, and one largely funded y the 
+employees themselves. 
+
+
+Lockheed explains its conclusion (quoted by petitioners) 
+that “the act of amending a pension plan does not tigger ERISA’s 
+fiduciary provisions” as follows. Curtiss-Wright Corp. v. 
+Schoonejongen, 115 S.Ct. 1223, 1228 (1995), had already found 
+employers “generally free under ERISA, for any reason at any 
+ume, to adopt, modify, or terminate welfare plans,” and Lockheed 
+found “no reason why the rule of Curtiss-Wright should not be 
+extended to pension benefit plans.” It pointed out that 29 U.S.C. 
+§ 1002(21)(A), defining fiduciary status in terms of discretion 
+
+
+15 
+
+
+“respecting management of such plan or... any authority or control 
+respecting management or disposition of its assets,” does not 
+distinguish welfare from pension plans, and that most lower courts 
+had found that the fiduciary functions listed in § 1002(21)(A) “do 
+not include plan design.” As Lockheed summanzed Curtiss- 
+Wright, when employers “adopt, modify or terminate welfare 
+plans’..., they do not act as fiduciaries... but are analogous to the 
+settlors of a trust.” 116 S.Ct. at 1789-90.° 
+
+
+While one definition of “fiduciary” thus applies to welfare 
+and pension plans, and the mere “act of amending a pension plan” 
+does not in and of itself “trigger ERISA’s fiduciary provisions,” 
+this hardly means there can be no relevant difference between 
+contributory and noncontributory pension plans. The opposite is 
+true. The basis stated in Curtiss-Wright for holding employers can 
+generally amend welfare plans for any reason was that ERISA, as 
+the Court put it, “does not create any substantive entitlement to” 
+welfare benefits. 115 S.Ct. at 1228. Welfare plans are also 
+virtually always pay-as-you-go, without the pre-funding that 
+characterizes pension plans. As Curtiss-Wright said, ERISA does 
+not mandate “participation, vesting, or funding requirements for 
+welfare plans as it does for pension plans.” Jd. 
+
+
+The prospective amendment of a welfare plan, even one 
+that is contributory, can therefore almost never be said to breach 
+the employer’s statutory obligations, to “dispose of” current plan 
+assets, or to deprive employees of a benefit they funded 
+themselves. In these respects relevant to deciding whether 
+contributory welfare plans are hardly different, they are also 
+
+
+* Varity Corp. v. Howe, 116 S.Ct. 1065, 1070, 1073-4 (1996), 
+recently reaffirmed that ERISA has its “starting point” in “ordinary 
+trust law.” Cf Firestone Tire and Rubber Co. v. Bruch, 489 U.S. 101, 
+110 (1989) (“ERISA abounds with the language and terminology of 
+trust law.”). 
+
+
+16 
+
+
+comparable, as discussed below, to non-contributory pension plans 
+like the one to which Lockheed extends “the rule of Curtiss- 
+Wright.” 116 S.Ct. at 1789. Things are quite different for a 
+contributory pension plan.’ 
+
+
+To the extent that ERISA does not leave employers free to 
+design plans however they wish, “the rule of Curtiss-Wright” does 
+not require freedom from fiduciary scrutiny. To repeat a point 
+made earlier, that an employer designing a plan is free, regardless 
+of motivation, to choose a structure which ERISA permits, does 
+not mean it is also free to choose what the statute specifically 
+prohubits. 
+
+
+ERISA, as Curtiss-Wright said in explaining its holding, 
+does not mandate “participation, vesting, or funding requirements 
+for welfare plans.” The statute has such requirements for pension 
+plans, but the amendment which Lockheed found permissible 
+regardless of the employer’s motives was not alleged to contravene 
+them. 29 U.S.C. § 1053, however, makes nonforfeitable an 
+employee's “accrued benefit derived from his own contributions,” 
+a vesting requirement for contnbutory pension plans which has no 
+counterpart for noncontnbutory plans (or any welfare plan). 
+Hughes’ actions here allegedly contravened that section. 
+
+
+Curtiss-Wright and Lockheed found plan design a matter 
+free from fiduciary standards because ERISA places no limits on 
+employer choice. To the extent an amendment impairs vesting 
+nghts which ERISA, as a substantive matter, requires -- as was 
+allegedly true here -- that employers “generally” can design what 
+they like is beside the point. 
+
+
+’ For this reason, claims that the holding below will unsettle the 
+law of “health plans, disability plans, and a wide range of other 
+welfare plans” and “could [not] be limited to contributory defined- 
+benefit pension plans” (Pet. 15-6) are insubstantial. 
+
+
+17 
+
+
+The same point can be made another way. That one 
+definition of “fiduciary” governs all benefit plans, as Lockheed 
+held, does not imply that specific facts to which the definition 
+applies are to be ignored. As this Court recognized in Varity Corp. 
+v. Howe, 116 S.Ct. 1065 (1996), the words of § 1002(21)(A) “are 
+not self-defining.” Some circumstances fall “clearly neither within 
+nor outside of the common understanding of” the words, and in 
+those circumstances, courts “look to the common law.” /d. at 
+1073. 
+
+
+Amending a contributory pension plan (unlike either a 
+noncontnbutory plan or a welfare plan, even a contributory one 
+that operates pay-as-you-go) may well “dispose of” current plan 
+assets that derived from employee contributions.’ Moreover the 
+participants in such a plan, no less than the employer, are 
+“analogous to the settlors of a trust.” Lockheed, 116 S.Ct. at 1790. 
+
+
+As the Ninth Circuit put it, when a plan is funded by both 
+the employer and employees they are essentially “co-settlors of the 
+plan.” App. 14a. Such a description conforms to settled trust law. 
+“A person who furnishes the consideration for the creation of a 
+trust is the settlor, even though in form the trust is created by 
+
+
+* Petitioners criticize the Ninth Circuit’s comment, App. 16a, that 
+“Hughes was disposing of the plan's assets when it amended the plan,” 
+asserting, though not really arguing, that this is refuted by Lockheed 
+and Siskind v. Sperry Retirement Program, 47 F 3d 498 (2d Cir. 1995). 
+Pet. 12 n. 1. Petitioners completely ignore the crux of the comment, 
+namely that Hughes, while ostensibly “amending” the Plan, allegedly 
+actually disposed of its assets by closing it and making it a wasting 
+Lockheed and Sperry do not refute the idea that amending a 
+contributory pension plan can “dispose of” its assets within the 
+meaning of § 1002(21)A). 
+
+
+18 
+
+
+another person.” Scott on Trusts § 156.3 at 180 (4th ed. 1987).’ 
+Cf Ruocco v. Bateman, Eichler, Hill, Richards, Inc., 903 ¥.2d 
+1232, 1239 (9th Cir.), cert. denied, 498 U.S. 889 (1990) (employer 
+was not the settlor of a disability fund or entitled to its surplus 
+assets, where employees paid the premiums), Mine Workers vy. 
+Boyle, 418 F.Supp. 406, 409 (D.D.C. 1976), aff'd, 567 F.2d 112 
+(D.C. Cir. 1977), cert. denied, 435 U.S. 956 (1978) (employer 
+rather than beneficiaries was the settlor of a fund since “From its 
+inception, the Pension Trust has been non-contnbutory and a 
+gratuity by the UMWA to its former employees”). Lockheed’ s 
+finding that an employer which is analogous to a traditional trust’s 
+settlor may alter the plan without reference to fiduciary standards 
+does not dispose of cases in which employees, as well as the 
+employer, resemble traditional trust law’s settlors. 
+
+
+Lockheed, as mentioned earlier, cites Siskind v. Sperry 
+Retirement Program, Unisys, 47 F.3d 498, 505 (2d Cir. 1995), for 
+the rule that fiduciary functions do not, in general, include plan 
+design. 116 S.Ct. at 1789 and n. 4. Sperry itself shows that the 
+general rule is not universal. Contrasting a single-employer plan 
+“funded entirely by Sperry,” Sperry expressly recognized that 
+courts “have treated plan amendments as fiduciary functions” when 
+faced with mulhemployer plans with employee as well as employer 
+trustees. 47 F.3d at 505-6. The Plan here, with assets largely 
+denved from employee contributions, resembles such plans more 
+than it does the one found subject to employer amendment in 
+Lockheed. That that case did not discuss facts not before the Court, 
+hardly shows such facts never make a difference. 
+
+
+* Compare Bogert on Trusts & Trustees § 41 at 128 (2d ed. 1984): 
+
+
+“One who furnishes the consideration necessary to induce another to 
+create a trust is the settlor of the trust when it is created.” 
+
+
+19 
+
+
+2. The distinction between contributory and 
+noncontributory plans, which petitioners call 
+“meaningless,” is statutory. 
+
+
+Petitioners, quoting Judge Norms in dissent, call the 
+distinction between contributory and non-contnbutory plans which 
+the Ninth Circuit recognized “meaningless” because 
+
+
+“The only practical difference between the two 
+types of plans is whether the employer funds them 
+directly, through contributions to the plan, or 
+indirectly, through wages paid to employees that 
+the employees then contribute. ‘In terms of 
+economic reality,... [either way, the contnbutions 
+are the economic product of the employee’s 
+services.’” Pet. 13. 
+
+
+That both employer and employee contributions spnng from 
+employee services better supports enhanced employee nghts to ail 
+Plan assets, than unlimited employer nghts. In any event both 
+common sense and ERISA recognize a difference between 
+employer payments to a plan, and money earned by employees as 
+wages which they then choose to contribute. 
+
+
+Petitioners’ refusal to see this demonstrates both faulty 
+reasoning and arrogance. Employees who voluntarily contribute 
+to a plan do so with their own money. That this comes from wages 
+no more makes it Hughes’ money, than the fact that workers pay 
+a home mortgage out of wages means that Hughes bought them the 
+house. What is decisive, in any event, is that ERISA, as even the 
+dissent below concedes (App. 37a), distinguishes employee from 
+employer contributions to plans: for example, in 29 U.S.C.§§ 1344 
+and 1053. As the Ninth Circuit said, these provisions make clear 
+
+
+attributable solely to employer contnbutions from 
+
+
+20 
+
+
+plan assets attnbutable in part to employee 
+contnbutions.” App. 9a. 
+
+
+These provisions which treat employee and employer 
+contnbutions differently -- regardless what might be said about 
+“economic reality” -- are consistent with the normal equitable 
+practice which as discussed above, treats those who supply the 
+consideration for a trust as its settlors. As the Ninth Circuit put it, 
+when a plan is funded by both the employer and employees, they 
+are essentially co-settlors. App. 14a. This Court recently 
+reaffirmed in Varity (see note 6 above) that such common-law 
+principles are often the starting point when interpreting ERISA -- 
+even in the absence of specific ERISA clauses such as those 
+already cited. In recognizing the possibility of distinction between 
+employee and employer contnbutions, the Ninth Circuit properly 
+followed not its own view of “economic reality,” but that of both 
+settled trust law, and Congress when it enacted ERISA. 
+
+
+Il. There is no conflict between the Ninth Circuit’s ruling and 
+those of other Circuits. 
+
+
+Petitioners also claim the holding below conflicts with 
+those of other Circuits, on three issues: the reach of Lockheed, the 
+existence of an employee interest in employee contributions, and 
+the means necessary to terminate an ERISA plan.. 
+
+
+A. There is no conflict with other Circuits about the 
+reach of Lockheed. 
+
+
+The petition claims that even if Lockheed “could be limited 
+to non-contributory plans, the decision below would still ment 
+review” because it conflicts with those of other Circuits on this 
+issue. Pet. 14-5. As already discussed, limitation to non- 
+contnbutory plans was far from the only reason given by the Ninth 
+Circuit for concluding that Lockheed does not dispose of this 
+complaint. The cases from other Circuits cited by petitioners, like 
+
+
+ns 
+
+
+6 ee ot wil 
+
+
+21 
+
+
+Lockheed itself, did not involve alleged violations of ERISA’s 
+structural requirements, or claims that so-called “amendments” 
+were really sham transactions contrived to divert plan assets to 
+another plan. 
+
+
+Even setting that aside, there is plainly no conflict with 
+other Circuits about the reach of Lockheed, which none of the pre- 
+Lockheed decisions cited by petitioners even discusses. The 
+decisions cited found on the facts of those cases that amendments 
+to contributory pension plans were settlor acts and not fiduciary 
+violations. They did not construe Lockheed, nor do they conflict 
+with the Ninth Circuit’s holding in any other respect. 
+
+
+The Ninth Circuit specifically distinguished one such case, 
+Johnson v. Georgia-Pacific Corp., 19 F.3d 1184 (7th Cir. 1994), 
+in which the employer 
+
+
+“chose to give an extra benefit to one group of 
+employees within a larger group.... There was no 
+allegation... that the employer transferred assets 
+from one plan to another or that the asset surplus 
+was used to benefit employees who were not 
+
+
+participants.” App. 17a. 
+
+
+Similar distinctions might be drawn with respect to each of the 
+other pre-Lockheed cases cited in the petition. 
+
+
+Other courts besides the Ninth Circuit have applied 
+fiduciary standards both to amendment of trusteed employee- 
+employer plans (as discussed in Sperry, supra), and to the 
+allocation of assets between old and newly created plans. £.g., 
+John Blair Communications, Inc. Profit Sharing Plan v. Telemundo 
+
+
+22 
+
+
+Group, Inc. Profit Sharing Plan, 26 F.3d 360, 368-70 (2d Cir. 
+}904)."° 
+
+
+More fundamentally, even assuming this Court might some 
+day need to clanfy whether under Lockheed, amendment of a 
+contnbutory pension plan can implicate fiduciary duties, there is 
+surely no occasion to do so here. Lower courts have not addressed 
+the question in light of Lockheed, nor has any conflict about 
+Lockheed s interpretation arisen. In light of other issues reised by 
+the corm aint and not yet factually developed, the question, 
+however © mstrued, would not decide this case. Whatever 
+questions Lockheed may have left to future cases, it is hard to 
+imagine one less appropriate than this one to resolve them. 
+
+
+B. There is no conflict with other Circuits about 
+employees’ interest in their own contributions. 
+
+
+The petition claims that the decision below conflicts with 
+those of other Circuits by resting on an “erroneous premise that 
+respondents have a property interest not only in their defined 
+benefits under the Plan, but also in the assets held by the Plan.” 
+Pet. 16-20. The cases cited to support the claim, beginning with 
+Georgia-Pacific, and the Ninth Circuit’s discussion and distinction 
+of these cases, have both been described in the preceding section. 
+
+
+Moreover, 29 U.S.C. § 1344, as the Ninth Circuit 
+recognized (App. 22a) provides expressly that upon a plan 
+termination, surplus plan assets may not revert to an employer 
+unless the plan so provides (which the complaint here alleges is not 
+the case) and more important, that even if there is a reversion 
+provision, surplus assets attributable to employee contributions 
+
+
+'° While John Blair involved defined-contribution plans, ERISA, 
+as discussed above, vests employee interests in their own contributions 
+even for defined-benefit pians. 
+
+
+ee ti A ma 
+
+
+23 
+
+
+must be "equitably distributed” to the employees who made them. 
+In the complaint here, unlike cases cited in the peution, Hughes’ 
+alleged attempt to bypass this requirement 1s at issue. 
+
+
+The erroneous premise underlying petitioners’ argument -- 
+that there is no difference under ERISA between employee and 
+employer contributions -- has already been discussed as well. The 
+Ninth Circuit correctly rejected arguments that as long as 
+employees receive what was promised them under a defined 
+benefit pension plan, they have no possible complaint. 
+
+
+Petihoners imphcitly liken Hughes to an insurer, and Judge 
+Noms in dissent argued that plan sponsors which face the nsks of 
+“bad times (when declines in the value of assets make plans 
+underfunded)” should in good times “benefit from surpluses.” Pet. 
+17, App. 29a. As the decision below recognized, however, ERISA 
+plans are not insurance policies but funds held mm srsst (29 U.S.C. 
+$1104) under strict regulation for the wy ««~ benefit of 
+participants ($1103). Cf Clothing & Texts | rkers v. Murdock, 
+861 F.2d 1406, 1409, 1417 (9th Cir. 1988) (authorizing a 
+constructive trust over surplus plan assets which an employer 
+sought to recoup for itself, even though no one was actually hurt by 
+a breach of fiduciary duty and all participants “received their 
+actuanally authonzed benefits”). 
+
+
+29 U.S.C. §1053 expressly states that "an employee's nghts 
+in hus accrued benefits derived from his own contributions are non- 
+forfeitable," requiring that participants always be 100 per cent 
+vested in their own contributions. Petitioners acknowledge in a 
+footnote that under §§ 1053 and 1054 employees, “regardless of 
+the level of defined benefits,... have a ‘vested nght’ to receive 
+benefits equal to their mandatory contnbutions plus an imputed 
+rate of interest.” Pet. 18 n. 4. In other words, participant interest 
+in plan assets can exceed the benefits promised by a defined- 
+benefit plan, if assets derived solely from employee contnbutions 
+
+
+24 
+
+
+exceed those benefits. As the Ninth Circust recognized (App. 19a), 
+that 1s what is claimed here. 
+
+
+Other courts besides the Ninth Circuit have recognized the 
+obvious point that under ERISA, employees have interests in assets 
+denved from their own contributions. Indeed even before § 1344 
+codified employees’ equitable nght to a share of surplus on plan 
+termination, the nght was recognized by the D.C. Circuit, and the 
+argument advanced for petitioners, that employers which bear 
+investment isk should reap its profit, was rejected. 
+Bridgestone/Firestone, Inc. v. PBGC, 892 F.2d 105, 111 (D.C.Cir. 
+1989). Cf Ruocco v. Bateman, Eichler, Hill, Richards, Inc., 903 
+F.2d 1232, 1238 (9th Cir.), cert. denied, 498 U.S. 889 (1990); and 
+Borst v. Chevron Corp., 36 F.3d 1308, 1315 (Sth Cir. 1994), cert. 
+denied, 115 S.Ct. 1699 (1995), explaining that 
+
+
+“so far as concerns surplus assets,... ERISA ... 
+to employee contnbutions and those attributable to 
+employer contributions.” 
+
+
+'! See also Chait v. Bernstein, 835 F.2d 1017 (3d Cir. 1987). That 
+case stressed that the plan whose surplus assets were being allowed to 
+revert to the employer was wholly employer-funded, and contrasted 
+Delgrosso v. Spang and Co., 769 F.2d 928 (3d Cir. 1985), cert. denied, 
+476 U.S. 1140 (1986), in which the employer was not allowed to 
+amend its plan. This employer, on realizing that a defined contribution 
+plan was well funded, had changed it to a defined benefit plan, paying 
+
+
+did not present a sympathetic case for reversion of 
+surplus.” Chait, 835 F.2d at 1025. 
+
+
+While the technical basis for Spang’s ruling was that employer 
+(continued...) 
+
+
+25 
+
+
+To vary an analogy already used, that Hughes sponsored 
+the Plan to which employees voluntarily contributed no more 
+entitles Hughes to their money, than sponsorship of a Chnstmas 
+club through which employees saved would entitle Hughes to 
+funds not spent at the year’s end. 29 U.S.C. §1144 expressly states 
+that “neither an employee benefit plan... nor any trust established 
+under such a plan shall be deemed to be an insurance company.” 
+like an insurance company’s holdings, belong to the employer as 
+settlor and can be invested for employer profit as long as promised 
+annuities are paid is fundamentally mistaken. 
+
+
+C. There is no conflict with other Circuits about the 
+means for terminating an ERISA plan. 
+
+
+with cases ruling that an ERISA plan may only be terminated 
+pursuant to Title IV is another red hernng. Pet. 21-5. Neither 
+through other means. Petitioners cite three cases holding what no 
+one denies: that a plan can only terminate through Title IV. Pet. 
+22-3. At least two of the three also show that just as the Ninth 
+Circuit held, a reluctant employer, in appropnate circumstances, 
+can be ordered to use those means. 
+
+
+Thus American Flint Glass Workers Union v. Beaumont 
+Glass Co., 62 F.3d 574 (3d Cir. 1995), rejected a claim that an 
+
+
+continued) 
+payments, when made, were to a defined contribution plan, the action 
+challenged -- manipulation of a defined-benefit plan to divert its 
+surplus to the employer -- resembled Hughes’ action here. Chait 
+clearly considered this important. It stressed “the equities and 
+underlying policy questions presented by the facts.” 835 F.2d at 1026. 
+
+
+26 
+
+
+without an additional employer contribution, was obligated by 
+statute to proceed with the termination. The decision, however, 
+reversed the dismissal of a claim that the employer had obligated 
+itself contractually to terminate the plan. Jd. at 580-1. In finding 
+“a matemal issue of fact... concerning the parties’ intent to impose 
+on the Company a duty to provide the funding needed to secure 
+IRS approval of termination,” the court necessarily held that if this 
+issue was resolved in plaintiffs’ favor, the employer could be 
+ordered to terminate the plan under Title IV despite its reluctance 
+to do so. 
+
+
+Phillips v. Bebber, 914 F.2d 31, 34 (4th Cir. 1990), actually 
+ordered plans to be “terminated in conformity with the procedures 
+set forth m ERISA” -- the same result which is sought by plaintiffs 
+here. That the Plan here was not terminated in conformity with 
+Title IV -- and must be, since Hughes has frozen enroliment with 
+a surplus so big the Plan is a wasting trust -- is the point of the 
+complaint. 
+
+
+The third case cited by petitioners, Matter of Esco 
+Manufacturing Co., 50 F.3d 315 (Sth Cir. 1995), held that a 
+bankruptcy trustee replaced a plan’s sponsor rather than its 
+adrrumustrator (an emploayer-union committee). Thus ERISA’s Title 
+IV, which governs administrators, did not apply to the trustee. 
+This issue, the only one discussed in Esco, has no possible 
+relevance. Hughes is both the Plan’s administrator and its sponsor. 
+Par. 6 of the Complaint, App. 133a."” 
+
+
+“Withdrawn opinions in Esco, 33 F.3d 509 (Sth Cir. 1994), make 
+its factual setting clearer and as in the case of other decisions cited by 
+petitioners, make obvious that an employer can, in appropriate 
+circumstances, be ordered to terminate a plan. The original majority 
+and dissent agreed, Jd at 515 and 518, that “Someone must shoulder 
+the responsibility for terminating the pension plan,” in other words, 
+that plans can be terminated regardless of the employer's wish. The 
+
+(contunued...) 
+
+
+27 
+
+
+The obvious point of requiring that employees who 
+contributed to a plan get an equitable share of surplus on 
+termination is to limit employers’ ability to take for themselves the 
+assets of such plans. If an employer could evade it simply by 
+calling what amounts to a termination an “amendment” and not 
+giving formal notice, § 1344 would have no meaning. 
+
+
+In a case not mentioned by petitioners, Jn re Gulf Pension 
+Litigation, 764 F Supp. 1149 (S.D.Tex. 1991), aff'd in part sub 
+nom., Borst v. Chevron Corp., 36 F.3d 1308 (Sth Cir. 1994), cert. 
+denied, 115 S.Ct. 1699 (1995), the district court (in a holding not 
+appealed) reached the same conclusion as the Ninth Circuit here, 
+that a plan which had been converted to a wasting trust must be 
+terminated, and accordingly ordered the defendant “to submit 
+termination papers to PBGC.” 764 F.Supp. at 1204-5, 1216. The 
+same should be true of a judgment here (just as it was in Phillips, 
+supra), and nothing in the Ninth Circuit’s decision suggests 
+otherwise." 
+
+
+(continued) 
+dissent, Jd. at 518, called it unnecessary to make the trustee act and 
+create a conflict with bankruptcy law since “ERISA provides an 
+alternative,” a PBGC-initiated termination under 29 U.S.C. § 1342. 
+For the overfunded Plan here, as in the Gulf case discussed below, this 
+
+
+'3 Petitioners have stressed that the PBGC must supervise any 
+termination, a proposition that while true, has nothing to do with the 
+validity of a complaint asking that Hughes be ordered to terminate the 
+Plan. The Gulf Complaint, like the one here, alleged that plans 
+“should be terminated” and surplus distributed, without mentioning the 
+PBGC. 764 F.Supp. at 1201. Gulf first found the plans wasting trusts 
+that should have been terminated and ruled there was equitable power 
+to order them spun off “according to the terms of the Final Judgment” 
+from a plan into which they had been merged. /d. at 1204-5. be 
+
+(continued... 
+
+
+28 
+
+
+The complaint’s and decision’s theory that pension plans, 
+like other trusts, terminate once their purposes are accomplished 
+was accepted in Gulf (764 F.Supp. at 1201-4),"* and the petition 
+cites no case in which the theory was rejected. Despite an effort by 
+Judge Nomis in dissent to distinguish them (App. 42a-44a), the 
+facts on which Gulf found “wasting trusts that should have been 
+terminated” -- that the employer closed participation in trusts 
+“substantally overfunded as to all future liabilities” (Jd. at 1204) -- 
+are just like those alleged here. Par. 29 of the Complaint, App. 
+138a. 
+
+
+Petihoners (not the complaint, whose allegations should be 
+accepted on a motion to dismiss) claim that even after the Plan was 
+frozen in 1991, “66,000 Hughes employees... continued to accrue 
+or receive benefits under the orginal contributory benefit 
+structure.” Pet. 5. How many employees continued to receive 
+benefits is relevant to the Plan’s having been frozen and a cap 
+placed on the accrual of new benefits. That employees who could 
+not be jomed by new participants continued to accrue benefits does 
+not distinguish Gulf, where the wasting trusts still had 2900 
+working participants with projected benefits from future service of 
+$4 million, “de minimis in relation to the surplus.” 764 F.Supp. at 
+1203. Of course, such factual issues as exact figures for working 
+participants and projected future benefits, or how many millions of 
+dollars are de minimis in relation to a surplus, can neither be 
+
+
+(continued) 
+that judgment, Jd. at 1216, was Chevron ordered to take “ministerial 
+steps” including notice to the PBGC. It is Hughes, not plaintiffs, that 
+seeks to bypass the PBGC by not proceeding with a formal 
+termination. 
+
+
+* Cf Chambers v. Kaleidoscope, Inc. Profit Sharing Plan and 
+Trust, 650 F.Supp. 359, 372 (N.D.Ga. 1986) (ordering termination of 
+defined contribution plan to prevent benefits from “end{ing] up in legal 
+limbo forever’). 
+
+
+29 
+
+
+decided on a motion to dismiss, nor serve as a basis for granting 
+certioran. The Ninth Circuit did not decide such factual questions, 
+which are as yet undeveloped. App. llan. 3, 2lan. 6. 
+
+
+The relevant legal point is simple. If plan termination 
+depended solely on an employer’s choice of word -- in effect, the 
+argument rade by petitioners, without support in any reported 
+case, and flatly contradicted by the Beaumont Glass decision on 
+which they rely -- Title IV’s safeguards would be shom of 
+meaning. 
+
+
+Ill. Contrary to the petition’s claim that the decision below 
+will have “staggering” consequences, the fact pattern alleged, 
+which the Ninth Circuit held may be developed in discovery, is 
+highly unusual. 
+
+
+The petition contends that the decision below “would 
+adversely affect all kinds of employee-benefit plans” and have 
+“staggering” consequences. Pet. 15. Apart from specious claims 
+that the challenged employer decision was “routine,” or that it 
+might be impossible to distinguish contributory pension plans from 
+welfare plans (see note 7 above), the contention is based entirely 
+on a non-record estimate that contributory defined-benefit pension 
+plans “cover more than | million American workers and retirees, 
+and hold more than $60 billion in assets.” Pet. 15-c. 
+
+
+The estimate, assertedly based on 1994 data, comes from a 
+letter from “a global benefits consulting firm” to petitioners’ 
+lawyer. It is not part of the record. It says nothing about the 
+amounts contributed by employees as compared with employers, 
+Sao 
+as “significant” employee contnibutions of as as per 
+year) were surely far smaller than is true of the Plan here. App. 
+1 49a-1 50a. Even setting both these problems aside, the letter’s 
+estimate of plan “assets” -- not surplus assets like those in this case 
+-- underlines how atypical the Hughes Plan is. 
+
+
+30 
+
+
+According to the complaint, Hughes’ Plan, when frozen, 
+had $1.2 billion, half derived from employee payments, in surplus 
+assets alone. App. 4a-Sa, 137a. That is, it had $600 million in 
+surplus assets derived from employee contributions alone! While 
+no comparison with other plans 1s in the record (or relevant to the 
+legal issues), petitioners’ attempted reliance on a completely 
+extraneous non-record estimate of plan assets (including those 
+needed for accrued benefits, and those derived from employer 
+contnbutions) shows the emptiness of their claim that review by 
+this Court is appropriate. While it may be true that “[c]ontributory 
+plans are common” (Pet. 15), plans like the Hughes Plan are not. 
+
+
+CONCLUSION 
+
+
+For these reasons, as well as others apparent from the 
+decision below, the writ of certiorari should be denied. 
+
+
+Respectfully submitted, _ 
+
+
+Seth Kupferberg, Counsel of Record 
+Richard Dorn 
+I. Philip Sipser 
+
+
+Sipser, Weinstock, Harper & Dorn, L.L.P. 
+275 Madison Avenue 
+New York, New York 10016 
+
+
+(212) 252-0072 
+
+
+Attorneys for Respondents 
+
+

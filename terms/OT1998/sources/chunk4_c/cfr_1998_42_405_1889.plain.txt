@@ -1,0 +1,28 @@
+
+
+
+  
+    42
+    Public Health
+    2
+    1998-10-01
+    1998-10-01
+    false
+    Effect of a revision.
+    405.1889
+    Section 405.1889
+    
+      
+      
+      MEDICARE PROGRAM
+      FEDERAL HEALTH INSURANCE FOR THE AGED AND DISABLED
+      Provider Reimbursement Determinations and Appeals
+    
+  
+  
+    § 405.1889
+    Effect of a revision.
+    Where a revision is made in a determination or decision on the amount of program reimbursement after such determination or decision has been reopened as provided in § 405.1885, such revision shall be considered a separate and distinct determination or decision to which the provisions of §§ 405.1811, 405.1835, 405.1875 and 405.1877 are applicable. (See § 405.1801(c) for applicable effective dates.)
+
+  
+

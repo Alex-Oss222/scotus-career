@@ -1,0 +1,60 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 173,
+    "params": {
+      "query": "collection:us-supreme-court AND ((text:Boring OR text:Boring OR text__reviews:Boring) OR (text:&quot;97-1835&quot; OR text:&quot;97-1835&quot; OR text__reviews:&quot;97-1835&quot;))",
+      "qin": "collection:us-supreme-court AND (&quot;Boring&quot; OR &quot;97-1835&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 10,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386417_2102",
+        "title": "Boring v. Ohio, 347 U.S. 959 (1954) (No. 569)"
+      },
+      {
+        "identifier": "micro_IA40386413_0182",
+        "title": "Rowan v. United States Post Office Department, 397 U.S. 728 (1970) (No. 399)"
+      },
+      {
+        "identifier": "micro_IA40385608_1881",
+        "title": "BORING V. CALIFORNIA (No. 75-8557)"
+      },
+      {
+        "identifier": "micro_IA40385005_2471",
+        "title": "Boring v. Mississippi, 442 U.S. 916 (1979) (No. 78-1249)"
+      },
+      {
+        "identifier": "micro_IA43085015_0441",
+        "title": "Bilski v. Kappos, 561 U.S. 593 (2010) (No. 08-964)"
+      },
+      {
+        "identifier": "micro_IA40385002_0116",
+        "title": "Kozakiewicz v. Boring, 488 U.S. 934 (1988) (No. 88-441)"
+      },
+      {
+        "identifier": "micro_IA40386006_1533",
+        "title": "Boring v. Buncombe County Board of Education, 525 U.S. 813 (1998) (No. 97-1835)"
+      },
+      {
+        "identifier": "micro_IA40385606_0515",
+        "title": "Boring v. Mississippi, 405 U.S. 1040 (1972) (No. 71-840)"
+      },
+      {
+        "identifier": "micro_IA40386017_2065",
+        "title": "Boring v. Google, Inc., 562 U.S. 836 (2010) (No. 09-1475)"
+      },
+      {
+        "identifier": "micro_IA40385003_1447",
+        "title": "Boring v. California, 424 U.S. 913 (1976) (No. 75-857)"
+      }
+    ]
+  }
+}

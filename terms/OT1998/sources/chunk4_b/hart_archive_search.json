@@ -1,0 +1,24 @@
+{
+  "responseHeader": {
+    "status": 0,
+    "QTime": 83,
+    "params": {
+      "query": "collection:us-supreme-court AND (((text:Hart OR text:Hart OR text__reviews:Hart) AND (text:Gwadosky OR text:Gwadosky OR text__reviews:Gwadosky)) OR (text:&quot;98-676&quot; OR text:&quot;98-676&quot; OR text__reviews:&quot;98-676&quot;))",
+      "qin": "collection:us-supreme-court AND ((&quot;Hart&quot; AND &quot;Gwadosky&quot;) OR &quot;98-676&quot;)",
+      "fields": "identifier,title",
+      "wt": "json",
+      "rows": 50,
+      "start": 0
+    }
+  },
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386003_1070",
+        "title": "Hart v. Gwadosky, 525 U.S. 1139 (1999) (No. 98-676)"
+      }
+    ]
+  }
+}

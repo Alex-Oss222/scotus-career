@@ -1,0 +1,2738 @@
+ix 
+ua J 
+A 
+
+
+ie Be 
+No. 98-783 DEC 9 «1996 
+
+
+CLERK 
+
+
+In The 
+
+
+yupreme Court, U.S 
+
+
+Supreme Court of the Wnited States 
+
+
+October Term, 1998 
+
+
+IRENE L. WRIGHT, on behalf of herself 
+and all others similarly situated, 
+
+
+Petitioner, 
+
+
+ERNST & YOUNG LLP, 
+Respondent. 
+
+
+On Petition for Writ of Certiorari to the United 
+States Court of Appeals for the Second Circuit 
+
+
+PETITIONER’S SUPPLEMENTAL BRIEF TO 
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Charles J. Piven, Esq. Daniel W. Krasner, Esq. 
+Attorney for Petitioner Counsel of Record 
+LAW OFFICES OF David A.P. Brower, Esq. 
+CHARLES J. PIVEN Neil L. Zola, Esq. 
+
+- Suite 2700 WOLF HALDENSTEIN 
+
+
+111 South Calvert Street ADLER FREEMAN & 
+Baltimore, Maryland 21202 HERZ LLP 
+(401) 332-0030 270 Madison Avenue 
+New York, New York 10016 
+(212) 545-4600 
+
+
+Attorneys for Petitioner 
+
+
+PETITIONER’S SUPPLEMENTAL BRIEF 
+TO PETITION FOR A WRIT OF CERTIORARI 
+
+
+Pursuant to Rule 15.8 of the Rules of the Supreme 
+Court of the United States, petitioner Irene L. Wright 
+hereby submits this Supplemental Brief to her Petition for 
+a Writ of Certiorari (the “Petition”). The Petition was filed 
+with the Court on November 4, 1998, and placed on this 
+Court’s docket on November 13, 1998. 
+
+
+Petitioner is seeking review of the Second Circuit's 
+decision in Wright v. Ernst & Young LLP, 152 F.3d 169 (2d 
+Cir. 1998), which held, inter alia, that a secondary actor 
+cannot be liable under Section 10(b) of the Securities 
+Exchange Act of 1934 (the “Exchange Act”) for making a 
+false or misleading statement unless that actor is identi- 
+fied as the source of the misstatement. Petitioner con- 
+tends that the Second Circuit’s holding is based on a 
+misinterpretation of this Court’s decision in Central Bank 
+of Denver v. First Interstate Bank of Denver, 511 U.S. 164 
+(1994). She explains in her Petition that because several 
+Circuit Courts of Appeal interpreting Central Bank have 
+reached widely varying conclusions on the question of 
+the liability of secondary actors under Section 10(b) of the 
+Exchange Act, this Court should clarify Central Bank. As 
+petitioner points out, the Third Circuit, in Klein v. Boyd, 
+[Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+{I 90,136 (3d Cir. Feb. 12, 1998), vacated, Klein v. Boyd 
+[Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+{ 90,165 (3d Cir., Mar. 9, 1998), reached the exact opposite 
+conclusion as did the Second Circuit in Wright, holding 
+that direct attribution was not necessary for liability to 
+
+
+attach under Section 10(b). This Supplemental Brief dis- 
+cusses a recent case in the Eleventh Circuit that agrees 
+with the Klein holding. 
+
+
+On November 16, 1998, approximately two weeks 
+after the filing of Ms. Wright’s Petition, a federal district 
+court in the Eleventh Circuit agreed with Klein that a 
+secondary actor does not have to be identified as the 
+source of a misstatement to be held liable under the 
+Exchange Act for that misstatement. The court explicitly 
+rejected the Second Circuit’s holding that attribution is 
+necessary for liability under the Exchange Act and held 
+that the appropriate test to determine whether primary 
+liability attaches to a secondary actor is whether that 
+secondary actor “creates a misrepresentation.” Carley 
+Capital Group v. Deloitte & Touche, L.L.P., No. 1:97- 
+CV-3183-TWT, slip op., Appendix at 18a (N.D. Ga. Nov. 
+16, 1998). 
+
+
+In Carley Capital, defendant Deloitte & Touche 
+(“Deloitte”), a large irternational accounting firm, was 
+accused of directing, reviewing, and approving several 
+false and misleading statements with respect to its cli- 
+eat’s financial statements. Deloitte had no direct contact 
+with the market. These statements were allegedly know- 
+ingly prepared in violation of Generally Accepted 
+Accounting Practices (GAAP). Deloitte moved to dismiss 
+on the grounds that tke allegedly false financial results 
+were unaudited and that Deloitte had not made any 
+public statements. Therefore, Deloitte argued, plaintiff's 
+allegations with respect to certain of these alleged mis- 
+statements constituted nothing more than claims for aid- 
+ing and abetting liability, for which it could not be held 
+
+
+PORE RNS = eA TT ee 
+
+
+Se es 
+
+
+liable under Central Bank. The Carley Capital court recog- 
+nized that the Circuits interpreting Central Bank had ren- 
+dered inconsistent decisions: “Since the decision in 
+Central Bank, the federal courts have split over the thresh- 
+old required to show that a secondary actor’s conduct 
+constitutes primary liability. The Eleventh Circuit has yet 
+to consider this issue.” Carley Capital, Appendix at 17a. 
+
+
+In ruling on this issue, the Carley Capital court noted 
+that the approach taken by the Second Circuit — which 
+requires that an actionable misstatement actually be 
+attributed to the author at the time of the misstatement’s 
+dissemination — created a loophole through which sophis- 
+ticated defrauders could escape liability simply by con- 
+cealing their identity from the public. Thus, rather than 
+place the emphasis on the market’s knowledge of the 
+identity of the secondary actor, the Carley Capital court 
+adopted a test which looks to the defendant’s conduct, 
+i.e., whether a secondary actor had a role in creating the 
+misrepresentation at issue. This standard was proposed 
+by the Securities and Exchange Commission (“SEC”) in 
+an amicus curiae brief submitted in Klein (attached hereto, 
+Appendix at 38a) and relied upon by the Carley Capital 
+court: 
+
+
+This Court adopts the standard urged by the 
+SEC and concludes that a secondary actor can be 
+primarily liable when it, acting alone or with 
+others, creates a misrepresentation even if the 
+misrepresentation is net publicly attributed to it. 
+Under the Second Circuit standard, a secondary 
+actor who is the actual creator and author of a 
+material misstatement could avoid liability simply 
+due to the concealment of its identity. The Cour® 
+finds that there is nothing in Central Bank with 
+
+
+regard to its use of the terms “makes” or “mak- 
+ing a material misstatement” that limits liability 
+to those individuals who sign documents or are 
+otherwise identified to investors. The standard 
+adopted by the Court is consistent with the 
+“directly or indirectly” language in Section 
+10(b). 
+
+
+Appendix at 18a-19a (emphasis added). 
+
+
+The Carley Capital court then held that where plaintiff 
+alleged that Deloitte had directed the inclusion of false 
+income in a financial report, even though the statement of 
+the income was not attributed to the defendant (and 
+where the defendant was not even identitied), Deloitte 
+could be held liable as a primary violator of Section 10(b) 
+because it had “created” the misrepresentation. Appendix 
+at 19a. In issuing its ruling, the Carley Capital court agreed 
+with Klein, stating that the identification of the party 
+making the statement to the market was not a prerequi- 
+site to liability. Id. 
+
+
+Thus, yet another jurisdiction has adopted a standard 
+at odds with the approach of the Second Circuit as dis- 
+cussed in the Petition. The Carley Capital case, in support- 
+ing Klein, as well as the SEC’s amicus curiae brief 
+submitted in Klein, presents strong further support for 
+petitioner’s argument that the Court should resolve the 
+
+
+Se ae ee aa 
+
+
+discrepancies among the Circuits and take the oppor- 
+tunity in this case to clarify its holding in Central Bank. 
+
+
+Respectfully submitted, 
+
+
+WOLF HALDENSTEIN ADLER 
+FREEMAN & HERZ LLP 
+Daniel W. Krasner, Esq. 
+Counsel of Record 
+
+David A.P. Brower, Esq. 
+
+Neil L. Zola, Esq. 
+
+Adam R. Gonnelli, Esq. 
+
+270 Madison Avenue 
+
+New York, New York 10016 
+(212) 545-4600 
+
+
+LAW OFFICES OF 
+CHARLES J. PIVEN 
+Charles J. Piven, Esq. 
+Suite 2700 
+
+111 South Calvert Street 
+Baltimore, Maryland 21202 
+(401) 332-0030 
+
+
+Attorneys for Petitioner 
+
+
+Pe okie 1 ate ema te 
+aN we. iaihasinsanmnmneiammenaemnentl 
+— - Seeteniqneteemenmeeaa 
+Ah ASA ih tA Mt Ml tol eens - : 
+vedanta teeter CE a ee ee 
+
+
+la 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE NORTHERN DISTRICT OF GEORGIA 
+ATLANTA DIVISION 
+
+
+CARLEY CAPITAL ) 
+GROUP, et al., ) 
+Plaintiffs, ) eh : 
+Broa ) CIVIL ACTION FILE 
+v. ) NO. 1:97-CV-3183-TWT 
+DELOITTE & TOUCHE, ? 
+L.L.P., 
+Defendant. 
+) 
+ORDER 
+(Filed Nov. 16, 1998) 
+This is a complex securities litigation case. It is before 
+
+
+the Court on the (1) Defendant’s Motion to Dismiss the 
+Amended Complaint [Doc. No. 40]; (2) Defendant’s 
+Motion for Judgment an the Pleadings or to Dismiss [Doc. 
+No. 41]; and (3) Plaintiffs’ Motions for Leave to File Sur- 
+Reply Memoranda [Doc. Nos. 55 and 56]. This matter 
+came on for hearing on October 5, 1998. As a preliminary 
+matter, this Court grants the Plaintiffs’ Motions to File 
+Sur-reply Memoranda [Doc. Nos. 55 and 56]. For the 
+reasons set forth below, the Court will deny the Motion to 
+Dismiss and deny the Motion for Judgment on the Plead- 
+ings. 
+
+
+I. BACKGROUND 
+
+
+The Plaintiffs filed this consolidated shareholder 
+action asserting various securities-fraud claims against 
+
+
+2a 
+
+
+Defendant Deloitte & Touche, LLP. The facts in this case 
+are related to claims arising in the action entitled In re 
+1996 Medaphis Corporation Securities Litigation, Civil 
+Action No. 1:96-CV-2088-TWT (N.D.Ga. 1996) (“Medaphis 
+action”). The Medaphis action was settled for $72.5 million 
+in cash and securities. This action is based, at least in 
+part, on the discovery undertaken in the Medaphis action. 
+The Plaintiffs bring this action on behalf of members of a 
+potential class (“Class Plaintiffs”) who purchased the 
+common stock of Medaphis Corporation (“Medaphis”) 
+during the class period between February 6, 1996, 
+through October 21, 1996. Certain Plaintiffs assert sepa- 
+rate claims on behalf of members of a potential sub-class 
+(“Sub-class Plaintiffs”) who, in connection with a merger 
+between Medaphis and Health Data Sciences Corp. 
+(“HDS”), exchanged their shares of HDS stock for shares 
+of Medaphis common stock between June 29, 1996, and 
+October 21, 1996. 
+
+
+Medaphis sells outsourced business management ser- 
+vices to doctors and hospitals, primarily for the manage- 
+ment of billing and accounts receivable.} Medaphis also 
+provided, during the relevant time period, systems inte- 
+gration and flow engineering services. For several years 
+before the Class Period, a principal component of 
+Medaphis’ business strategy involved growth through 
+
+
+' The factual allegations of the Amended Complaint are 
+deemed true with respect to the pending motions. Bank v. Pitt, 
+928 F.2d 1108, 1109 (11th Cir. 1991). The issues raised in the 
+Motion to Dismiss and the Motion for Judgment on the 
+Pleadings may be revisited if the factual allegations of the 
+Amended Complaint are tested by a motion for summary 
+judgment. 
+
+
+a 
+
+
+if 
+
+
+3a 
+
+
+acquisitions of other companies in the medical billing 
+business. This acquisition strategy enabled Medaphis to 
+report impressive growth of revenues from $86 million in 
+1991, to over $300 million In 1994. By 1994, Medaphis had 
+grown from an obscure business into the dominant player 
+In its field. 
+
+
+During the second half of 1994, however, the revenue 
+and profit margins of the billing and accounts receivable 
+management business declined. As a result, Medaphis 
+began searching for new technologies to cut its internal 
+costs of collecting and sending out bills. Medaphis also 
+decided to focus on computer systems integration com- 
+panies as acquisition targets. In December, 1994, 
+Medaphis acquired the assets of a systems integration 
+business, Gateway Conversion Technologies (“Gate- 
+way”), including scanning and optical character recogni- 
+tion software (“Imonics software”). This was Medaphis’ 
+entry into the systems integration business. After the 
+acquisition, this aspect of Medaphis’ business was con- 
+ducted by its Imonics Corporation ‘“Imonics”) subsidiary. 
+
+
+In July, 1995, representatives of Imonics met with 
+representatives of two subsidiaries of Bertelsmann AG 
+(“Bertelsmann”), a German corporation, regarding a pos- 
+sible joint venture arrangement to provide custom sys- 
+tems integration services to European customers. By the 
+end of 1995, Imonics and the Bertelsmann subsidiaries 
+identified DeTe Mobil, a large German company, as a 
+potential client for customized software and reengineer- 
+ing solutions. On December 21, 1995, the last business 
+day before the Christmas holidays and the end of the 
+1995 fourth quarter, Imonics and the Bertelsmann subsid- 
+iaries entered into two related agreements in connection 
+
+
+eee as gi. 
+
+
+4a 
+
+
+with the purported joint venture to provide custom sys- 
+tems integration work in Europe. 
+
+
+In the first agreement, the parties executed a “Soft- 
+ware Licensing Agreement,” by which one of the 
+Bertelsmann subsidiaries obtained a non-exclusive license 
+to sub-license Imonics Software to customers throughout 
+Europe. That agreement provided that the Bertelsmann 
+subsidiary would pay Imonics a license fee of five million 
+Deutschmarks (approximately $3.5 million) upon deliv- 
+ery of the software. Under the Software Licensing Agree- 
+ment, payment was not due until February 1, 1996. On 
+the same day that the Software Licensing Agreement was 
+executed, representatives of Imonics and another 
+Bertelsmann subsidiary executed a letter agreement con- 
+firming the mutual Intentions of entering into a “defini- 
+tive joint agreement” on or before January 31, 1996. If the 
+closing of the joint venture did not occur in a timely 
+fashion, Imcnics would be required to pay liquidated 
+damages in the amount of $3.6 million. Any obligations 
+of an aifiliate Bertelsmann subsidiary under the Software 
+Licensing Agreement could be used tv offset the liqui- 
+dated damages amount. The joint venture between the 
+parties was not formed until after January 31, 1996. 
+
+
+On March 29, 1996, the Imonics-Bertelsmann Joint 
+Venture entered into a “Software Licensing and Software 
+Engineering Contract” with DeTe Mobil (the “DeTe Mobil 
+Contract”). The DeTe Mobil Contract provided that 
+Imonics and Bertelsmann would provide 3ysterns inte- 
+gration services to create, in effect, a paperless office for 
+DeTe Mobil. The project would incorporate certain exis- 
+ting Imonics software. The DeTe Mobil Contract provided 
+that DeTe Mobil would be entitled to liquidated damages 
+
+
+sinteaitl [=e 
+
+
+5a 
+
+
+in the event that DeTe Mobil determined that the joint 
+venture’s performance was insufficient. On the day that 
+the agreement was executed, the last day of the first 
+quarter of 1996, Medaphis recorded $12.5 million in reve- 
+nues. This represented its 50% share of anticipated earn- 
+ings from software licensing fees due under the DeTe 
+Mobil Contract. 
+
+
+The Defendant, a large international accounting firm, 
+was the auditor and business consultant for Medaphis at 
+all relevant times. The Defendant had an extensive in- 
+house presence at Medaphis. The Defendant involved 
+itself in the management of Medaphis by serving as a 
+management consultant. The Defendant's representatives 
+(1) occupied and continually staffed offices at Medaphis 
+for duties performed in connection with Medaphis’ busi- 
+ness; (2) had unlimited access to all of Medaphis’ records 
+and documents, (3) attended meetings of Medaphis’ 
+Board of Directors and the Audit Committee of the Board: 
+and (4) reviewed all license agreements concerning soft- 
+ware owned by Medaphis. Before and during the class 
+periods, the Defendant directed Medaphis’ accounting 
+and performed extensive analyses of Medaphis’ systems 
+integration efforts. For example, the Defendant examined 
+the DeTe Mobil Contract in connection with its review of 
+Medaphis’ first quarter 1996 financial statements. Due to 
+the Defendant’s extensive audit and consulting activities, 
+Medaphis was one of the largest clients of the Defen- 
+dant’s Atlanta office. The Defendant received almost 
+$200,000 for evaluation of Medaphis’ systems integration 
+project alone. The Defendant also ieceived large fees from 
+
+
+Medaphis for services in connection with Medaphis’ 
+
+
+6a 
+
+
+acquisitions, acquisitions which were dependent on 
+Medaphis’ continued earnings growth. 
+
+
+This securities fraud case is based primarily upon the 
+Defendant’s alleged false representations in connection 
+
+with the reporting of Medaphis’ financial results for 1995 
+and 1996. In the seven quarters before the Class Periods, 
+Medaphis reported sequential increases in income before 
+incurring what Medaphis describes as non-recurring 
+charges. In the September 30, 1995, Form 10-Q, Medaphis 
+disclosed that revenues from its billing and accounts 
+receivable management services had declined. However, | 
+this quarterly report stated that the decline had been 
+offset through expanded growth in its information man- 
+agement and systems integration services operations. The 
+September 30, 1995, 10-Q report disclosed a net income of 
+approximately $10.4 million before the non-recurring 
+charges. By the fourth quarter of 1995, profits from billing 
+and accounts receivable management services had vir- 
+tually evaporated. However, on February 6, 1996, 
+Medaphis issued a press release announcing its 1995 
+fourth quarter earnings of $11.4 million before the non- | 
+
+
+recurring charges. This represented a 50% increase in 
+earnings over earnings during the fourth quarter of 1994. 
+
+
+On or about April 1, 1996, Medaphis filed its 1995 
+Form 10-K with the Securities and Exchange Commission 
+(“SEC”), and disseminated its 1995 Annual Report to its 
+shareholders and other members of the investing public. 
+Medaphis’ 1995 financial Statements appeared in the 1995 
+Annual Report and were incorporated by reference in the 
+1995 Form 10-K. The financial statements stated that they 
+were prepared on the basis of Generally Accepted 
+Accounting Principles. The 1995 Form 10-K included the 
+
+
+i 
+
+
+7a 
+
+
+financial results for the 1995 fiscal year and fourth quar- 
+ter as reported in the February 6, 1996, press release. The 
+1995 Annual Report Included the Defendant’s March 15, 
+1996, audit opinion on Medaphis’ 1995 financial state- 
+ments. The audit opinion was incorporated by reference 
+in the 1995 Form 10-K. The audit opinion stated that the 
+financial statements were prepared in conformity with 
+Generally Accepted Accounting Principles and that the 
+financial statements presented fairly, in all material 
+respects, the financial position of the company. A foot- 
+note to the financial statements expressly stated that rev- 
+enues from systems integration contracts were recorded 
+on the percentage of completion method of accounting. 
+
+
+In its audit opinion, the Defendant represented that 
+its audit was conducted in accordance with Generally 
+Accepted Auditing Standards. The Plaintiffs assert ‘hat 
+this material representation was knowingly and _ reck- 
+lessly false as the Defendant failed in a variety of ways to 
+conduct its audit of Medaphis’ 1995 financial statements 
+in accordance with Generally Accepted Auditing Stan- 
+dards. (See Amended Complaint at {J 92-103). For exam- 
+ple, the Plaintiffs allege with respect to the Software 
+Licensing Agreement that the Defendant, in violation of 
+Generally Accepted Auditing Standards-failed to obtain 
+direct confirmation from the Bertelsmann subsidiary that 
+the subsidiary actually owed Medaphis $3.5 million on 
+December 31, 1995. (Id. at 98, 101). In addition, Plaintiffs 
+allege that the Software Licensing Agreement showed on 
+its face that it was not to be performed in 1995. Therefore, 
+no revenues from the contract should have been recog- 
+nized in 1995. (Id. at 38). The Defendant further repre- 
+sented that the financial statements fairly indicated 
+
+
+8a 
+
+
+Medaphis and its subsidiaries’ financial condition at the 
+end of 1995 in accordance with Generally Accepted 
+Accounting Principles. The Plaintiffs assert that this 
+material representation was knowingly and recklessly 
+false. Among other things, they allege that the Defendant 
+advised Medaphis during the course of the 1995 audit 
+that Medaphis had understated expenses by $4 million. 
+They further allege in connection with the 1995 audit, 
+that the Defendant had communicated to Medaphis’ 
+Audit Committee the overstatement of income relating to 
+several systems integration contracts. Plaintiffs allege 
+that the 1995 audited financial reports overstated 
+Medaphis’ income by approximately $9 million. Nev- 
+ertheless, the Defendant issued an unqualified opinion 
+with respect to 1995 financial records incorporating the 
+understated expense figures and overstated revenue fig- 
+ures. 
+
+
+The Plaintiffs also allege that the Defendant partici- 
+pated in the February 6, 1996, press release which con- 
+tained materially false and misleading statements. They 
+allege that the Defendant had informed Medaphis before 
+the issuance of the press release that the results com- 
+ported with Generally Accepted Accounting Principles 
+and that the Defendant had reviewed and approved the 
+press release before issuance. Nevertheless, according to 
+the Amended Complaint, the February 6, 1996, press 
+release reported, in violation of Generally Accepted 
+Accounting Principles, approximately $3.5 million in pur- 
+ported revenue and income from the Software Licensing 
+Agreement which was neither paid nor owed to 
+Medaphis in 1995. Plaintiffs also allege that the press 
+
+
+hy Sree 
+
+
+9a 
+
+
+statement contained false reports of 1995 expenses and 
+income. 
+
+
+On April 23, 1996, Medaphis issued a press release to 
+announce its 1996 first quarter results. Medaphis 
+included $12.5 million in revenues and income recog- 
+nized in connection with the DeTe Mobil Contract in the 
+1996 first quarter figures even though the contract could 
+not have been performed in that quarter. These revenues 
+represented almost all of the $13.2 million in earnings 
+that Medaphis was able to report for the first quarter of 
+1996. On May 14, 1996, Medaphis filed with the SEC its 
+10-Q quarterly report which echoed the financial results 
+reported in the April 23, 1996, press release. The Plaintiffs 
+assert that the statements concerning the 1996 first quar- 
+ter financial results were materially false and misleading 
+because such results included revenues and income from 
+the DeTe Mobil contract in violation of Generally 
+Accepted Accounting Principles and Medaphis’ own 
+stated revenue recognition policy. The Plaintiffs allege 
+that the Defendant participated in the making of these 
+statements by (1) reviewing and approving the April 23, 
+1996, press release before it was issued; and (2) speci- 
+fically directing the inclusion of $12.5 million of revenues 
+and income from the DeTe Mobil Contract in the financial 
+results reported. 
+
+
+Because of the materially false and misleading state- 
+ments described above, the Plaintiffs allege that 
+Medaphis was able to continue its practice of acquiring 
+companies with artificially inflated Medaphis Stock. In 
+addition to acquiring Rapid Systems Solution and BSG 
+Corporation, Medaphis announced, around May 24, 1996, 
+its intention to acquire HDS in exchange for 6,125,000 
+
+
+10a 
+
+
+Medaphis common shares and assumption or issuance by 
+Medaphis of stock options representing an additional 
+556,000 shares. The merger was valued at approximately 
+$273.5 million based on the closing price of Medaphis 
+stock on May 24, 1996, at $40.938 per share. HDS was a 
+developer and supplier of health care information sys- 
+tems to institutions, payers, health care networks, and 
+providers. The merger agreement provided that HDS 
+could unilaterally terminate the deal if the average clos- 
+ing price of Medaphis stock dropped below $37 per share. 
+
+
+On May 31, 1996, in connection with the HDS merger, 
+Medaphis filed a registration statement with the SEC 
+(“HDS Registration Statement”), which included a Proxy 
+Statement /Prospectus (“Prospectus”). The HDS Registra- 
+tion Statement and Prospectus explicitly incorporated by 
+reference the 1995 Form 10-K and the 1996 Form 10-Q for 
+the first quarter of 1996. The Plaintiffs allege that the 
+Defendant consented to the incorporation by reference of 
+the March 15, 1996, audit opinion in the HDS Prospectus, 
+knowing that it would be relied upon by HDS share- 
+holders in determining whether to exchange their HDS 
+shares for shares of Medaphis stock. The Plaintiffs allege 
+that (1) HDS never would have completed the merger if 
+the full truth about Medaphis’ financial condition had 
+been disclosed, and (2) the Defendant's fraudulent cor- 
+duct enabled Medaphis to purchase HDS with over- 
+valued stock, thereby costing HDS shareholders 
+hundreds of millions of dollars in losses. 
+
+
+In mid-1996, DeTe Mobil became dissatisfied with 
+Medaphis’ performance of the systems integration agree- 
+ment and decided to terminate the agreement. This made 
+it impossible for Medaphis to earn the income it had 
+
+
+ne RN Cp Rae an. 
+ce 
+
+
+lla 
+
+
+already reported for the first quarter of 1996. On August 
+14, 1996, Medaphis announced that it would lose $0.28 to 
+$0.33 per share in the 1996 third quarter. The Plaintiffs 
+allege that Medaphis stock price plunged downward 
+$21.375 per share to close at $14.25 per share on August 
+15, 1996. The August 14, 1996, press release reported that 
+a substantial portion of its difficulties arose from the need 
+to reorganize the Imonics subsidiary and problems with 
+the DeTe Mobil Contract. According to the press release, 
+approximately $9 million of charges would be made dur- 
+ing the 1996 third quarter to account for the “restructur- 
+ing” of the DeTe Mobil Contract with another $15 million 
+relating to the Imonics reorganization. 
+
+
+On October 22, 1996, Medaphis disclosed its actual 
+financial results for the third quarter and announced that 
+the previously reported revenues and earnings for the 
+fourth quarter and full year of 1995 were false and had to 
+be restated. The October 22, 1996, press release explained 
+that the restatements in earnings for these time periods 
+resulted principally from improperly recorded revenues 
+in the Imonics division. In the press release, Medaphis 
+admitted that the Imonics unit had improperly booked 
+revenue on the Software Licensing Agreement. Medaphis 
+reported a loss of $36.4 million for the 1996 third quarter. 
+Further, Medaphis disclosed total charges of approxi- 
+mately $50 million in the third quarter relating primarily 
+to the reorganization of Imonics and the write-off of 
+revenue from the DeTe Mobil contract. As a result of 
+these disclosures, Medaphis’ stock dropped to $10.375 
+per share. 
+
+
+Based on these allegations, the Class Plaintiffs assert 
+that the Defendant knowingly and recklessly violated 
+
+
+12a 
+
+
+Section 10(b) of the Securities Exchange Act of 1934, and 
+Rule 10b-5 promulgated by the SEC pursuant to Section 
+10(b). They allege that during the class periods, the 
+Defendant made the false and misleading statements dis- 
+cussed above concerning the financial condition of 
+Medaphis while having either actual knowledge of the 
+false representation or acting with reckless disregard for 
+the truth even though the facts were available to it. As a 
+result of these false statements, the Plaintiffs assert that 
+the market price of Medaphis common stock was inflated 
+and that Plaintiffs purchased their shares at these inflated 
+prices in reliance either on the integrity of the market or 
+directly on the statements and reports of the Defendant. 
+
+
+The Sub-Class Plaintiffs further assert that the indi- 
+vidual Defendant is liable under Section 11 of the Securi- 
+ties Exchange Act. 15 U.S.C. § 77k. They assert that the 
+Defendant caused and participated in the issuance of 
+materially false and misleading statements to the public 
+which were contained in the HDS Registration Statement 
+and Prospectus. As a result, the Plaintiffs assert that they 
+acquired shares of Medaphis stock pursuant to, or trace- 
+able to, the HDS Registration statement. They assert that 
+they have been damaged due to the subsequent drop in 
+the value of Medaphis stock. 
+
+
+The Defendant has moved to dismiss the case in its 
+entirety under Fed.R.Civ.P. 12(b)(6) for failure to state a 
+claim [Doc. No. 40]. The Defendant contends that the 
+Plaintiffs’ allegations as to Medaphis’ unaudited 1996 
+first quarter earnings report and the various related press 
+Statements and financial statements do not state a Rule 
+10b-5 claim for primary liability. With regard to the alle- 
+gations concerning both the audited 1995 earnings report 
+
+
+13a 
+
+
+and the 1996 first quarter earnings report, the Defendant 
+contends that the Amended Complaint fails to comply 
+with Fed.R.Civ.P. 9(b) and the heightened pleading stan- 
+dards of the Private Securities Litigation Reform Act of 
+1995 (“Reform Act”), Pub.L. No. 104-67, 109 Stat. 743 
+(codified at 15 U.S.C. § 78u-4(b)). The Defendant con- 
+tends that the Section 11 claim should be dismissed for 
+failure to plead the allegations with the particularity 
+required by Rule 9(b). The Defendant also contends that 
+no Section 11 claim arises from Medaphis’ unaudited 
+1996 first quarter financial results because it issued no 
+statement concerning the results. 
+
+
+The Plaintiffs respond by arguing that the Amended 
+Complaint properly identifies the Defendant’s fraud with 
+particularity and satisfies the heightened-pleading stan- 
+dards of Rule 9(b) and the Reform Act. They contend that 
+the Defendant may be primarily liable for participation in 
+statements that are issued by others. They contend that 
+the Defendant’s misrepresentations in the audit report 
+were material. The Plaintiffs further contend that they 
+have sufficiently pled their Section 11 claim regarding the 
+Defendant's false statements incorporated in the HDS 
+Prospectus. 
+
+
+Pursuant to Fed.R.Civ.P. 12(c) and Rule 12(b)(6), the 
+Defendant has filed a separate Motion for Judgment on 
+the Pleadings or to Dismiss [Doc. No. 41]. The Defendant 
+contends that the Plaintiffs were placed on notice of their 
+asserted claims for relief more than one year before filing 
+their original Complaint on October 21, 1997, and that the 
+action is therefore time-barred by the one year statute of 
+limitations in Section 9(e) of the Securities Exchange Act. 
+The Plaintiffs respond that there is no basis for finding as 
+
+
+l4a 
+
+
+a matter of law that the Plaintiffs discovered or should 
+have discovered facts constituting the Defendant's 
+alleged securities law violations before October 22, 1996. 
+
+
+Il. STANDARDS FOR A MOTION TO DISMISS 
+
+
+Generally, a complaint should be dismissed under 
+Rule 12(b)(6) only where it appears beyond doubt that no 
+set of facts could support the plaintiff’s claims for relief 
+Fed.R.Civ.P. 12(b)(6); see Conley v. Gibson, 355 U.S. 41, 47, 
+78 S.Ct. 99. 102, 2 L.Ed.2d 80 (1957); Linder v. Portocarrero, 
+963 F.2d 332 (11th Cir. 1992); In re Valujet, Inc. Sec. Litig., 
+984 F.Supp. 1472, 1476 (N.D. Ga. 1997). The Court must 
+accept as true the facts pleaded in the complaint and 
+construe them in the light most favorable to the plaintiff. 
+Sev Quality Foods de Centro America, S.A. v. Latin American 
+Agribusiness Dev. Corp., S.A., 711 F.2d 999, 994-95 (11th 
+Cir. 1983). Exhibits and affidavits attached to the com- 
+plaint may also be considered as part of the complaint. 
+See Fed.R.Civ.P. 10(c); Breckenridge Creste Apartments v. 
+Citicorp, 826 F.Supp. 460, 464 (N.D.Ga. 1993), aff'd, 21 F.3d 
+1126 (11th Cir. 1994); $.E.C. v. Shiell, No. 76-204, 1977 WL 
+1044 at *2-3 (N.D. Fla. Sept. 27, 1977); see alse Schnell v. 
+City of Chicago, 407 F.2d 1084, 1085 (7th Cir. 1969). 
+
+
+Ill. SECTION 10(b) and RULE 10b-5 CLAIMS 
+
+
+Section 10(b) of the Securities Exchange Act makes it 
+unlawful for any person, directly or indirectly, to use in 
+connection with the mails or facilities of interstate com- 
+merce any “manipulative or deceptive device or contriv- 
+ance in contravention of such rules and regulations as the 
+
+
+15a 
+
+
+Commission may prescribe. ...” 15 U.S.C. § 78). The SEC 
+has adopted Rule 10b-5 which provides: 
+
+
+It shall be unlawful for any person, directly or 
+indirectly, by the use of any means or instru- 
+mentality of interstate commerce, or of any facil- 
+ity of any national securities exchange, (1) to 
+employ any device, scheme, or artifice to 
+defraud, (2) to make any untrue statement of a 
+material fact or to omit to state a material fact 
+necessary in order to make the statements made, 
+in the light of circumstances under which they 
+were made, not misleading, or (3) to engage in 
+any art, practice, or course of business which 
+operates or would operate as a fraud or deceit 
+upon any person, in connection with the pur- 
+chase or sale of any security. 
+
+
+17 C.F.R. § 240.10b-5. 
+
+
+To state a claim upon which relief can be granted for 
+federal securities fraud under Rule 10b-5, a plaintiff must 
+allege that “in connection” with the purchase or sale of 
+securities: (1) the defendant made a false statement or 
+omission of material fact; (2) with scienter; (3) upon 
+which the plaintiff justifiably relied; and (4) that caused 
+the plaintiff to suffer injury. Robbins v. Koger Properties, 
+Inc., 116 F.3d 1441, 1447 (11th Cir. 1997); Bruschi v. Brown, 
+876 F.2d 1526, 1528 (11th Cir. 1989). The Plaintiffs rely 
+upon the “fraud on the market” doctrine to show 
+reliance. The doctrine’s premise is that “the market price 
+of shares traded on well-developed markets reflects all 
+publicly available information, and, hence, all material 
+misrepresentations.” Basic Inc. v. Levinson, 485 U.S. 224, 
+246, 108 S.Ct. 978, 991, 99 L.Ed.24 194 (1988). In the 
+context of these Motions to Dismiss, the Defendant does 
+
+
+me l6a 
+
+
+not challenge the Plaintiffs’ reliance on the fraud on the 
+market doctrine. 
+
+
+A. FALSE STATEMENTS OR OMISSIONS 
+
+
+The Plaintiffs allege that the Defendant made several 
+false and misleading statements in connection with the 
+audit opinion of Medaphis’ 1995 financial statements, 
+including the fourth quarter financial results. They fur- 
+ther allege that the Defendant made false statements in 
+connection with overstating revenues in Medaphis’ 1996 
+first quarter report. The Defendant first contends that its 
+Motion to Dismiss must be granted with respect to the 
+overstatement of first quarter 1996 earnings (booking 
+$12.5 million in revenue before it was earned) because the 
+earnings reports were unaudited and no statement was 
+made by it to the public regarding the 1996 earnings. The 
+Defendant contends that its alleged conduct regarding 
+the first quarter 1996 conduct amounts to nothing more 
+than aiding and abetting liability, which is not actionable 
+under Rule 10b-5. 
+
+
+In Central Bank of Denver v. First Interstate Bank of 
+Denver, 511 U.S. 164, 114 S.Ct. 1439, 128 L.Ed. 2d 119 
+(1994), the Supreme Court considered whether private 
+civil liability under Section 10(b) extends to those who do 
+not engage in the manipulative or deceptive device, but 
+who instead aid and abet the violation. Id. at 167, 114 
+S.Ct. at 1443. After examining the text of the statute, the 
+Supreme Court concluded that Congress never intended 
+to impose secondary liability under Section 10(b) and the 
+statute therefore “does not itself reach those who aid and 
+abet a § 10(b) violation.” Id. at 177, 114 S.Ct. at 1448. 
+
+
+17a 
+
+
+According to the Supreme Court, the statute “prohibits 
+only the making of a material misstatement (or omission) 
+or the commission of a manipulative act.” Id. The 
+Supreme Court did not hold that secondary actors in the 
+securities market are always free from liability under the 
+Securities Act. Rather, “[a]ny person or entity, including a 
+lawyer, accountant, or bank, who employs a manipulative 
+device or makes a material misstatement (or omission) on 
+which a purchaser or seller of securities relies may be 
+liable as a primary violator under [Rule] 10b-5, assuming 
+all of the requirements for primary liability under Rule 
+10b-5 are met.” Id. at 191, 114 S.Ct. at 1455. 
+
+
+Since the decision in Central Bank, the federal courts 
+have split over the threshold required to show that a 
+secondary actor’s conduct constitutes primary liability. 
+The Eleventh Circuit has yet to consider this issue. In In 
+re Software Toolworks, Inc.. 50 F.3d 615 (9th Cir. 1994), cert. 
+denied, 516 U.S. 907 (1995), the Ninth Circuit held that 
+secondary third parties may be primarily liable for state- 
+ments made by others in which the third party signifi- 
+cantly participated. Id. at 628 n.3 (an accountant may be 
+primarily liable based on its “significant role in drafting 
+and editing” a letter sent by the issuer to the SEC). By 
+contrast, the Second Circuit has determined that more 
+than significant participation by the secondary actor is 
+needed to incur primary liability. See Shapiro v. Cantor, 123 
+F.3d 717, 720 (2d Cir. 1997) (“[a]llegations of ‘assisting,’ 
+‘participating in,’ ‘complicity in’ and similar synonyms 
+used throughout the complaint all fall within the prohib- 
+itive bar of Central Bank”). In noting that a defendant 
+must “make” a false or misleading statement, the Second 
+Circuit has held: 
+
+
+18a 
+
+
+[A] secondary actor cannot incur primary lia- 
+bility under the [Securities] Act for a statement 
+not attributed to that actor at the time of its 
+dissemination. Such a holding would circum- 
+vent the reliance requirements of the Act, as 
+“[rJeliance only on representations made by 
+others cannot itself form the basis of liability.” 
+Thus, the misrepresentation must be attributed 
+to that specific actor at the time of public dis- 
+semination, that is, in advance of the investment 
+decision. 
+
+
+Wright v. Ernst & Young LLP, 152 F.3d 169, 175 (2d Cir. 
+1998). 
+
+
+Attached to the Plaintiffs’ response to the Defen- 
+dant’s motion is an amicus brief of the SEC. (Doc. No. 50, 
+Exh. C). In that amicus brief filed in connection with 
+another securities litigation case, the SEC urges the courts 
+to adopt a standard for primary liability by secondary 
+actors that falls in between the Second and Ninth Cir- 
+cuits. In the wake of Central Bank, the SEC urges that an 
+entity can be primarily liable when it, acting alone or 
+with others, creates a misrepresentation. (Doc. No. 50, 
+Exh. C at 16-17). To be liable, a defendant does not 
+necessarily have to be identified to investors. (Id. at 16). 
+The SEC believes that the test should look to what a 
+secondary actor does in “creating a misrepresentation” to 
+determine when that actor makes a misrepresentation in 
+violation of Section 10(b). The views of the SEC are 
+entitled to consideration and some deference. See Basic 
+Inc., 485 U.S. at 239, fn 16, 108 S.Ct. at 987. This Court 
+adopts the standard urged by the SEC and concludes that 
+a secondary actor can be primarily liable when it, acting 
+alone or with others, creates a misrepresentation even if 
+
+
+19a 
+
+
+the misrepresentation is not publicly attributed to it. 
+Under the Second Circuit standard, a secondary actor 
+who is the actual creator and author of a material mis- 
+statement could avoid liability simply due to the conceal- 
+ment of its identity. The Court finds that there is nothing 
+in Central Bank with regard to its use of the terms 
+“makes” or “making a material misstatement” that limits 
+liability to those individuals who sign documents or are 
+otherwise identified to investors. The standard adopted 
+by the Court is consistent with the “directly or indirectly” 
+language in Section 10(b). 
+
+
+With regard to the overstatement of 1996 first quarter 
+earnings, the Plaintiffs allege in the Amended Complaint 
+that the Defendant “specifically directed the inclusion of 
+$12.5 million of revenues and income from the DeTe 
+Mobil Contract” in the 1996 first quarter financial state- 
+ments. The Court finds that the Plaintiffs have alleged 
+more than aiding and abetting and have sufficiently 
+alleged a primary violation of Rule 10b-5 against the 
+Defendant with respect to the 1996 first quarter financial 
+report of Medaphis. While the 1996 first quarter report 
+does not identify the Defendant or otherwise attribute the 
+inclusion of the $12.5 million to the Defendant, the Plain- 
+tiffs have sufficiently alleged that the Defendant created 
+the misrepresentation by directing Medaphis to include 
+that revenue and income in the report. More than mere 
+participation, complicity, or assistance, the Plaintiffs have 
+essentially alleged that the Defendant was the author of 
+the alleged misstatement. Accordingly, the Court does not 
+dismiss the allegations in the Amended Complaint with 
+respect to the overstatement of first quarter 1996 earn- 
+ings. 
+
+
+| | 
+
+
+20a 
+
+
+The Defendant next contends that the allegations in 
+the Amended Complaint with respect to the audited 1995 
+earnings report and unaudited 1996 first quarter earnings 
+report should be dismissed for failure to comply with 
+Rule 9(b) and the heightened-pleading standards of the 
+Reform Act. The Court must look to the Amended Com- 
+plaint to determine whether the elements of a 10b-5 fraud 
+action have been properly pled. Complaints alleging 
+fraud must meet the heightened-pleading standards of 
+Rule 9(b), which requires that “in all averments of fraud 
+or mistake the circumstances constituting fraud or mis- 
+take shall be stated with particularity.” Fed.R.Civ.P. 9(b). 
+A fraud claim meets the requirements of Rule 9(b) if it 
+sets forth precisely what statements or omissions were 
+made in what documents or oral presentations, who 
+made the statements, the time and place of the state- 
+ments, the contents of the statements or manner in which 
+they misled the plaintiff, and what the defendants gained 
+as a consequence. Brooks v. Blue Cross and Blue Shield of 
+Florida, 116 F.3d 1364, 1371 (11th Cir. 1997). 
+
+
+In adopting the Reform Act, the Congress found that 
+Rule 9(b) was not sufficient to prevent the filing of abu- 
+sive private securities fraud actions. Among other things, 
+the Reform Act changed the pleading standards for alleg- 
+ing fraud in securities class action lawsuits. The Reform 
+Act requires a securities-fraud plaintiff to “specify each 
+statement alleged to have been misleading” and “the 
+reason or reasons why the statement is misleading.” 15 
+U.S.C. § 78u-4(b)(1). If an allegation regarding a state- 
+ment or omission is made on information and belief, the 
+complaint must state with particularity the facts on which 
+the belief is formed. Id. Further, as to each statement or 
+
+
+2la 
+
+
+omission, the plaintiff must set forth particular facts that 
+give rise to a strong inference that the defendants acted 
+with the required state of mind. 15 U.S.C. § 78u-4(b)(2). A 
+complaint that fails to comply with any of these require- 
+ments must be dismissed. 15 U.S.C. § 78u-4(b)(3)(A). 
+
+
+To state a claim for accounting fraud, a plaintiff must 
+adequately plead facts sufficient to support a conclusion 
+that the defendant prepared false financial statements, 
+and that the alleged financial fraud was material. Zeid v. 
+Kimberley, 973 F.Supp. 910, 922 (N.D. Cal. 1997). Although 
+the complaint need not specify the exact dollar amount of 
+each accounting error, it must identity particular transac- 
+tions underlying the alleged accounting irregularities. In 
+re Wells Fargo Sec. Litig., 12 F.3d 922, 926-27 (9th Cir. 1993), 
+cert. denied, 513 U.S. 917 (1994). Violations of Generally 
+Accepted Accounting Principles and Generally Accepted 
+Auditing Standards may constitute false or misleading 
+statements of material fact in violation of Rule 10b-5. See 
+Gross v. Medaphis Corp., 977 F.Supp. 1463, 1472 (N.D.Ga. 
+1997); In re Discovery Zone Securities Litig., 943 F.Supp. 
+924, 936-37 (N.D.Ill. 1996); Marksman Partners, L.P. v. 
+Chantal Pharmaceutical Corp., 927 F.Supp. 1297, 1305 
+(C.D.Cal. 1996); Simpson v. Specialty Retail Concepts, Inc., 
+908 F.Supp. 323, 329 (M.D.N.C. 1995); Lerch v. Citizens 
+First Bancorp., Inc., 805 F.Supp. 1142, 1154-55 (D.N.J. 
+1992). 
+
+
+In the Amended Complaint, the Plaintiffs claim that 
+the Defendant artificially inflated and supported 
+Medaphis’ stock price by materially misleading the pub- 
+lic with respect to revenue recognition and false reporting 
+of expenses in connection with the 1995 and 1996 first 
+quarter earnings reports. The Plaintiffs claim that the 
+
+
+22a 
+
+
+false reporting of expenses and income led directly to the 
+acquisition of companies, such as HDS, with that arti- 
+ficially-inflated stock. The Plaintiffs allege several specific 
+violations of Generally Accepted Accounting Principles 
+and Generally Accepted Auditing Standards in connec- 
+tion with the Defendant’s audit of the 1995 earnings 
+report that was disseminated to the shareholders. With 
+respect to the audit opinion, the Plaintiffs allege that the 
+Defendant violated Generally Accepted Auditing Stan- 
+dards principles in connection with the revenue recogni- 
+tion of $3.5 million. The Plaintiffs allege that the 
+Defendant, contrary to its representation in the 1995 earn- 
+ings report of conformance to Generally Accepted Audit- 
+ing Standards principles, failed to obtain direct 
+confirmation from the Bertelsmann subsidiary that the 
+subsidiary actually owed the $3.5 million in 1995. They 
+further allege that the Defendant violated Generally 
+Accepted Accounting Principles in connection with the 
+1995 earnings report by (1) understating expenses by over 
+$4 million; and (2) overstating and recognizing income 
+from the Software Licensing Agreement and other sys- 
+tems integration contracts. The Plaintiffs further allege 
+that Defendant violated Generally Accepted Accounting 
+Principles in connection with the 1996 first quarter earn- 
+ings report by expressly directing the improper inclusion 
+of $12.5 million in revenue from the DeTe Mobil Contract. 
+The Court finds that these claims are set forth with suffi- 
+cient particularity to support a claim of securities fraud 
+against the Defendant. Accordingly, when viewing every 
+allegation in the Amended Complaint as true, the Court 
+finds that the Plaintiffs have made sufficient allegations 
+of securities fraud against the Defendant to constitute 
+
+
+23a 
+
+
+false or misleading statements for the purposes of a Rule 
+10b-5 claim. 
+
+
+B. MATERIALITY 
+
+
+Materially misleading statements or omissions by a 
+defendant constitute the primary element of a Rule 10b-5. 
+Basic Inc., 485 U.S. at 246-47, 108 S.Ct. at 991-92. A false 
+statement or omission will be considered “material” if its 
+disclosure would alter the total mix of facts available to 
+an investor and “if there is a substantial likelihood that a 
+reasonable shareholder would consider it important” to 
+the investment decision. Id. Materiality is a mixed ques- 
+tion of law and fact. Goldman v. Belden, 754 F.2d 1059, 1067 
+(2nd Cir. 1985). A complaint may not be dismissed under 
+Rule 12(b)(6) unless the alleged misstatements and omis- 
+sions are “so obviously unimportant to a reasonable 
+investor that reasonable minds could differ on the ques- 
+tion of their importance.” Id. When viewing the allega- 
+tions in the Amended Complaint as true, the alleged false 
+misrepresentations in connection with the 1995 earnings 
+report and the 1996 first quarter earnings report are 
+clearly not so unimportant that reasonable minds could 
+not differ as to their materiality. The Plaintiffs allege that 
+the false representations in the financial reports allowed 
+
+
+Medaphis to continue portraying itself as a profitable and 
+growing company. If the allegations in the Amended 
+Complaint are true, Medaphis’ earnings were declining in 
+1995 and were nonexistent in the first quarter of 1996. 
+This was concealed from investors by fraudulent misrep- 
+resentations. Whether earnings are increasing or decreas- 
+ing is highly material to investors. Accordingly, the 
+
+
+24a 
+
+
+Plaintiffs have sufficiently pled the element of materiality 
+as to the Defendant. 
+
+
+C. SCIENTER 
+
+
+The Plaintiff must properly allege scienter in order to 
+state a claim pursuant to Section 10(b) and Rule 10b5. The 
+Supreme Court has defined scienter as “a mental state 
+embracing intent to deceive, manipulate or defraud.” 
+Ernst & Ernst v. Hochfelder, 425 U.S. 185, 194, 96 S.Ct. 1375, 
+1380, 47 L.Ed.2d 668 (1976). Before the enactment of the 
+Reform Act, the law in the Eleventh Circuit was clear that 
+“a showing of ‘severe recklessness’ satisfies the scienter 
+requirement.” McDonald v. Alan Bush Brokerage Co., 863 
+F.2d 809, 814 (11th Cir. 1989).2 
+
+
+Severe recklessness is limited to those highly 
+unreasonable omissions or misrepresentations 
+that involve not merely simple or even inexcus- 
+able negligence, but an extreme departure from 
+the standards of ordinary care, and that present 
+a danger of misleading buyers or sellers which 
+is either known to the defendant or is so 
+obvious that the defendant must have been 
+aware of it. 
+
+
+Id. (quoting Broad v. Rockwell International Corp., 642 F.2d 
+929, 961 (5th Cir.) (en banc), cert. denied, 454 U.S. 965, 102 
+S.Ct. 506, 70 L.Ed. 2d 380 (1981)), in the Eleventh Circuit, 
+there was no special pleading standard for securities 
+fraud actions. 
+
+
+2 Both sides cite this case as setting forth the law in the 
+Eleventh Circuit. 
+
+
+25a 
+
+
+Prior to the Reform Act, the Second Circuit adopted a 
+special heightened pleading standard for securities fraud 
+cases. It held that “to serve the purposes of Rule 9(b), we 
+require plaintiffs to allege facts that give rise to a strong 
+inference of fraudulent intent.” Shields v. Citytrust Ban- 
+corp, 25 F.3d 1124, 1128 (2nd Cir. 1994). However, in some 
+cases, it also held that a plaintiff could satisfy this height- 
+ened pleading standard by alleging (1) facts constituting 
+strong circumstantial evidence of reckless or conscious 
+misbehavior, or (2) facts showing that the defendants had 
+both motive and opportunity to commit fraud. Id. Argua- 
+bly, the “motive and opportunity” standard for alleging 
+scienter lowered the bar more than the heightened plead- 
+ing standard raised it. In practice, the Second Circuit 
+applied the “motive and opportunity” standard in such a 
+way that it is questionable whether there really were two 
+ways of alleging scienter. In other words, without a 
+showing of conduct sufficient to infer fraudulent intent, 
+the Second Circuit always found insufficient showing of 
+motive and opportunity to establish scienter. See Shields, 
+25 F.3d at 1130-31; In re Time Warner Inc. Securities Litiga- 
+tion, 9 F.3d 259, 269-272 (2nd Cir. 1993). Thus, in the 
+Second Circuit, there was a heightened-pleading require- 
+ment but, at least in theory, a reduced standard as to the 
+state of mind that must be alleged and proven to establish 
+scienter. 
+
+
+The Reform Act requires that plaintiffs must set forth 
+as to each statement or omission particular facts that give 
+rise “to a strong inference that the defendants acted with 
+the required state of mind.” 15 U.S.C. § 78u-4(b)(2). The 
+application of the Reform Act’s standard has produced 
+considerable debate in the district courts as to whether 
+
+
+26a 
+
+
+the Reform Act has adopted all or part of the Second 
+Circuit standards for pleading scienter in securities fraud 
+actions. Since the Reform Act’s enactment, several courts 
+have held that the Reform Act’s requirements for plead- 
+ing scienter is consistent with all aspects of the Second 
+Circuit’s jurisprudence. See Fugman v. Aprogenex Inc., 961 
+F. Supp. 1190, 1195 (N.D. Ill. 1997); Rehm v. Eagle Fin. 
+Corp., 954 F. Supp. 1246, 1250-53 (N.D. Ill. 1997); Marks- 
+man Partners, 927 F. Supp. at 1311. In determining that the 
+Reform Act adopts both aspects of the Second Circuit 
+standard, the court in Rehm cited a report from the Senate 
+Banking, Housing, and Urban Affairs Committee on the 
+Reform Act’s passage which stated: 
+
+
+The Committee does not adopt a new and 
+untested pleading standard that would generate 
+additional litigation. Instead, the Committee 
+chose a uniform standard modeled upon the 
+pleading standard of the Second Circuit. .. . The 
+Committee does not intend to codify the Second 
+Circuit’s caselaw interpreting this pleading stan- 
+dard, although courts may find this body of law 
+instructive. 
+
+
+Rehm, 954 F.Supp. at 1252 (quoting S.Rep.98, 104th Cong., 
+lst Sess. 15 (1995)). 
+
+
+Conversely, other courts have concluded that Con- 
+gress intended to strengthen the Second Circuit standard 
+by holding that the “motive and opportunity” prong of 
+the Second Circuit’s pleading standard no longer suffices 
+to raise a strong inference of scienter. See In re Silicone 
+Graphics, Inc. Securities Litigation, 970 F.2d 746, 757 (N.D. 
+Ca. 1997); Norwood Venture Corp. v. Converse Inc., 959 
+F.Supp. 205, 208 (S.D.N.Y. 1997). The courts in Silicone 
+
+
+27a 
+
+
+Graphics and Norwood noted a House Conference Report 
+which stated that Congress intended to “strengthen the 
+existing pleading requirements” and did “not intend to 
+codify the Second Circuit’s case law interpreting this 
+pleading standard.” Silicone Graphics, 970 F.Supp. at 756; 
+Norwood, 959 F.Supp. at 208 (quoting H.R. Conf. Rep. No. 
+104-369, 104th Cong., Ist Sess. 41 (1995)). Moreover, these 
+courts relied upon President Clinton’s veto of the Reform 
+Act, a veto that Congress overrode, in which the Presi- 
+dent stated that it was “crystal clear” that Congress 
+intended the Reform Act to go beyond the Second Circuit 
+standard. Silicone Graphics, 970 F.Supp. at 756, Norwood, 
+959 F.Supp. at 208. With regard to the first prong of the 
+old Second Circuit standard, the courts in Silicone 
+Graphics and Norwood relied on this legislative history in 
+determining that a Plaintiff must show more than strong 
+circumstantial evidence of reckless behavior. See Silicone 
+Graphics, 970 F.Supp. at 756-57; Norwood, 959 F.Supp. at 
+208-09; see also Powers v. Eichen, 977 F.Supp. 1031, 1038-39 
+(S.D.Cal. 1997). Thus, to establish scienter, these courts 
+hold that the plaintiff must set forth facts that “create a 
+strong inference of knowing or intentional misconduct” 
+on the part of the defendants. Silicone Graphics, 970 F.2d at 
+757. The courts in Norwood and Silicon therefore hold that 
+the Reform Act intended a higher pleading requirement 
+than that of the Second Circuit by not codifying its 
+motive, opportunity and recklessness standards. 
+
+
+While holding that Congress eliminated the “motive 
+and opportunity” prong under the Reform Act, other 
+courts have held that a plaintiff may still plead facts 
+showing strong circumstantial evidence of reckless 
+behavior. See In re Stratosphere Securities Litigation, 1 
+
+
+28a 
+
+
+F.Supp.2d 1096, 1107 (D.Nev. 1998); Novak v. Kasaks, 997 
+F.Supp. 425, 430 (S.D.N.Y. 1998); In re Baesa Securities 
+Litigation, 969 F.Supp. 238, 240-42 (S.D.N.Y. 1997). In Baesa 
+Securities, the court focused on the statutory language of 
+§ 78u-4(b)(2) which requires plaintiff to set forth as to 
+each statement or omission particular facts that give rise 
+tu a strong inference that the defendants acted with the 
+requisite scienter. The court concluded that nothing in 
+this statute eliminated the recklessness aspect of the sci- 
+enter requirement. Id. at 241. While adopting the “strong 
+inference” requirement, the court concluded that the stat- 
+ute neither mentions “motive and opportunity” nor sin- 
+gles out any other special particulars sufficient to show 
+scienter. Id. at 242. Because the statutory language is 
+clear, the court concluded that it was neither necessary 
+nor prudent to resort to the Reform Act’s convoluted 
+legislative history. Id. at 241-42.5 
+
+
+The Court is persuaded that the approach of Baesa 
+Securities is the proper one. The Reform Act does what it 
+Says it does - no more and no less. The Act incorporates 
+the heightened-pleading standard of the Second Circuit 
+in that it requires the plaintiff to set forth particular facts 
+that give rise to a strong inference that the defendant 
+acted with “the required state of mind.” 15 U.S.C. 
+§ 78u-4(b)(2). However, the Act did nothing to change 
+“the required state of mind” with respect to this type of 
+
+
+* A fourth set of cases have dodged the issue. Gross, 977 
+F.Supp. at 1472; In re ValuJet, Inc. Securities Litigation, 984 
+F.Supp. 1472 (N.D. Ga. 1997); In re Miller Industries, Inc. 
+Securities Litigation, 12 FSupp 2d 1323 (N.D. Ga. 1998). The issue 
+cannot be dodged in this case. 
+
+
+29a 
+
+
+action. This conclusion is consistent with the Conference 
+Committee Report on the Reform Act which stated that 
+the Committee strengthened pleading requirements, but 
+“chose not to include in the pleading standard certain 
+language relating to motive, opportunity, or reckless- 
+ness.” H.R. Conf. Rep. No. 104-369, 104th Cong. 1st Sess. 
+41 (1995). It is also consistent with the Joint Explanatory 
+Statement of the Committee of Conference Regarding S. 
+1260, the Securities Litigation Uniform Standards Act 
+of 1998. In that Statement, the Conference Committee 
+stated - 
+
+
+It is the clear understanding of the managers 
+that Congress did not, in adopting the Reform 
+Act, intend to alter the standards of liability 
+under the Exchange Act. The managers under- 
+stand, however, that certain Federal district 
+courts have interpreted the Reform Act as hav- 
+ing altered the scienter requirement. In that 
+regard, the managers again emphasize that the 
+clear intent in 1995 and our continuing intent in 
+this legislation is that neither the Reform Act or 
+S. 1260 in any way alters the scienter standard in 
+Federal securities fraud suits. Additionally, it 
+was the intent of Congress, as was expressly 
+stated during the legislative debate on the 
+Reform Act, and particularly during the debate 
+on overriding the President’s veto, that the 
+Reform Act established a heightened uniform 
+Federal standard on pleading requirements 
+based upon the pleading standard applied by 
+the Second Circuit Court of Appeals. Indeed, the 
+express language of the Reform Act itself care- 
+fully provides that plaintiffs must “State with 
+particularity facts giving rise to a strong infer- 
+ence that the defendant acted with the required 
+
+
+30a 
+
+
+state of mind.” The Managers emphasize that 
+neither the Reform Act nor S. 1260 makes any 
+attempt to define that state of mind. 
+
+
+After careful review of the legislative history of the 
+Reform Act, the Court is convinced that the Second Cir- 
+cuit’s two pronged standard of (1) motive and oppor- 
+tunity or (2) conscious misbehavior or recklessness relate 
+to the definition of state of mind and are not incorporated 
+in or repealed by the Reform Act. 
+
+
+As noted above, the Eleventh Circuit has clearly 
+defined the state of mind required to establish scienter in 
+a securities fraud action. This Court is bound by Eleventh 
+Circuit precedent and not by the caselaw of the Second 
+Circuit. The Eleventh Circuit has never adopted a scienter 
+standard that follows the “motive and opportunity” anal- 
+ysis of the Second Circuit. A good argument can be made 
+that the “motive and opportunity” standard, if honestly 
+applied, lowers the bar for securities fraud cases below 
+that mandated by the Supreme Court in Hochfelder. Greed 
+is a ubiquitous motive, and corporate insiders and upper 
+management always have opportunity to lie and manipu- 
+late. Furthermore, allowing private securities class 
+actions to proceed to discovery upon bare allegations of 
+motive and opportunity would upset the delicate balance 
+of providing a remedy for genuine fraud while prevent- 
+ing abusive strike suits that the Reform Act sought to 
+achieve. Motive and opportunity will ordinarily be rele- 
+vant, and often highly relevant, to a finding of fraudulent 
+intent. However, the Court concludes that a showing of 
+motive and opportunity alone are insufficient to allege 
+securities fraud under the “severe recklessness” standard 
+established by the Eleventh Circuit. 
+
+
+3la 
+
+
+For the same reasons, the Court rejects the argument 
+that the Reform Act requires a showing of intentional 
+misconduct or conscious misbehavior. “[W]here Congress 
+intended to establish knowing conduct as a prerequisite 
+for liability, it did so explicitly within the Reform Act, 
+such as providing a safe harbor for forward looking 
+statements.” Stratosphere Securities, 1 F.Supp.2d at 
+1107 (citing 15 U.S.C. § 77z-2(c)(1)(B); 15 U.S.C. 
+§ 78u-5(c)(1)(B)). These provisions regarding forward- 
+looking statements would be rendered meaningless if 
+actual knowledge were required for all allegedly mislead- 
+ing statements. Stratosphere Securities, 1 F.Supp.2d at 1107. 
+Because recklessness is sufficient to prove scienter under 
+the Reform Act unless the statute expressly provides 
+otherwise, the Court concludes that a plaintiff can prop- 
+erly plead scienter by alleging facts constituting strong 
+circumstantial evidence of severe recklessness or con- 
+scious misbehavior.* 
+
+
+In this case, the Court finds that the Plaintiffs have 
+adequately alleged that the Defendant recklessly or con- 
+sciously misrepresented the revenues, expenses, and 
+earnings of Medaphis to keep the stock high for the 
+acquisition of other companies like HDS. While alleging a 
+misapplication of Generally Accepted Accounting Princi- 
+ples standing alone is insufficient, such allegation when 
+combined with a drastic overstatement of financial results 
+can give rise to a strong inference of scienter. See Gross, 
+
+
+4 The Court has reached the same conclusion in Sturm v. 
+Marriott Marquis Corp., Case No. 97-CV-3706 TWT (Order dated 
+November 13, 1998). 
+
+
+32a 
+
+
+977 F.Supp. at 1472; Rehn, 954 F.Supp. at 1255-56. Accord- 
+ing to the Amended Con plaint, the Defendant was not 
+just an auditor. It was heavily involved in the manage- 
+ment of Medaphis and had unrestricted access to its 
+financial records and data. If the allegations of the 
+Amended Complaint are true, the Defendant knew that 
+its client was understating expenses and improperly rec- 
+ognizing revenue. As discussed above, the Plaintiffs have 
+alleged numerous Generally Accepted Accounting Princi- 
+ples and Generally Accepted Auditing Standards viola- 
+tions against the Defendant, an accounting expert, which 
+combined to have a dramatic effect on the financial 
+results of Medaphis for 1995 and the first quarter of 1996. 
+Defendant contends that any departures from Generally 
+Accepted Accounting Principles (for example, understate- 
+ment of expenses) were immaterial. However, accepting 
+the allegations of the Amended Complaint as true, but for 
+these alleged accounting rule violations, Medaphis could 
+not have perpetuated its image as a high growth stock. 
+The overstatement of Medaphis’ financial condition, in 
+turn, helped to allow Medaphis the opportunity to 
+acquire other companies based on its artificially-inflated 
+stock prices. 
+
+
+The allegations of the Amended Complaint, if true, 
+establish more than mere mistakes in the exercise uf 
+professional judgment or negligence. If true, they are 
+sufficient to show severe recklessness As alleged in the 
+Amended Complaint, the end of quarter revenue manipu- 
+lations in 1995 and 1996 were highly suspicious, and a 
+prudent auditor would have been on notice to inquire 
+further even if it was not directly responsible for the 
+manipulations. See 15 U.S.C. § 78J-1(a)(1) (as to 1996 only). 
+
+
+Die, Sy Ratan 
+
+
+33a 
+
+
+The allegations of the Amended Complaint are at least as 
+specific and particular as those in the Medaphis action that 
+survived a motion to dismiss. Accordingly, when viewing 
+the allegations of the Amended Complaint as true, the 
+Court concludes that the allegations concerning the total- 
+ity and magnitude of the Defendant’s accounting viola- 
+tions constitute strong circumstantial evidence of reckless 
+or conscious misbehavior. : 
+
+
+D. CAUSATION 
+
+
+The Plaintiffs must prove both actual causation 
+(transaction causation) and proximate causation (loss 
+causation) to prevail on their Rule 10b-5 claims. Bruschi v. 
+Brown, 876 F.2d 1526, 1530 (11th Cir. 1989). To plead 
+transaction causation sufficiently, the Plaintiffs can allege 
+that the Defendants’ misrepresentations or omissions 
+induced the Plaintiffs to make the investment. In re 
+Checkers Securities Litig., 858 F.Supp. 1168, 1177 (M.D.Fla. 
+1994). To plead loss causation sufficiently, the Plaintiffs 
+can allege they would not have invested had they known 
+the truth, and that the untruth was in some reasonable 
+direct way responsible for the loss. Id. A review of the 
+Amended Complaint reveals that the Plaintiffs have ade- 
+quately pled both actual and loss causation. Accordingly, 
+the Defendant’s Motion to Dismiss the Plaintiffs’ Rule 
+10b-5 Claim is denied. 
+
+
+IV. SECTION 11 CLAIM 
+
+
+In Count II of the Complaint, the Plaintiffs allege 
+violations of Sections [sic] 11 of the Securities Act, 15 
+U.S.C. §§ 77k. This section imposes liability on signers of 
+
+
+34a 
+
+
+a registration statement if the statement “contained an 
+untrue statement of a material fact or omitted to state a 
+material fact required to be stated therein or necessary to 
+make the statements therein not misleading,” 15 U.S.C. 
+§ 77k. This section provides buyers with a cause of action 
+
+
+against those who sell securities by means of a registra- 
+tion statement or a prospectus when those documents 
+contain material misstatements or omissions. The 
+Supreme Court has stated that Section 11 only applies 
+when a document solicits the public to acquire securities. | 
+John Nuveen & Co. Inc. v. Sanders, 450 U.S. 1005, 1008, 101 | 
+S.Ct. 1719, 1720 (1981). 
+
+
+The Sub-Class Plaintiffs’ Section 11 claim refers to 
+Medaphis’ acquisition of HDS based on information con- 
+tained in the HDS Registration Statement and Prospectus. 
+These Plaintiffs allege that they acquired Medaphis stock 
+based on the Defendant’s misrepresentations as to the 
+audited 1995 earnings report which was incorporated 
+into the HDS Registration and Prospectus. The Defendant 
+does not challenge whether the HDS Registration State- 
+ment and Prospectus solicited the public to acquire secu- 
+rities. Rather, in moving to dismiss the Section 11 claim, 
+the Defendant contends that the Plaintiffs have failed to 
+plead this claim with sufficient particularly under Rule 
+9(b). In view of the discussion above in connection with 
+the Rule 10b-5 claim, the Court finds that the Plaintiffs 
+have sufficiently alleged their Section 11 claim. Accord- 
+ingly, the Defendant’s Motion to Dismiss this claim is 
+denied. 
+
+
+i 
+
+
+gs Si a a aca arenas. 
+
+
+35a 
+
+
+V. STATUTE OF LIMITATIONS 
+
+
+The Plaintiffs filed their original Complaint on Octo- 
+ber 21, 1997. In its Motion for Judgment on the Pleadings 
+or to Dismiss, the Defendant contends that before Octo- 
+ber 22, 1996, the public domain included the August 14, 
+1996, press release and Form 10-Q that announced the 
+write-offs of revenue from the DeTe Mobil Contract that 
+had been recognized in the first quarter of 1996. The 
+Defendant contends that this announcement, when com- 
+bined with the resulting drop in the Medaphis stock price 
+and the filing of 19 related federal securities class actions, 
+sufficiently placed the Plaintiffs on inquiry notice of a 
+securities fraud claim against the Defendant. The Defen- 
+dant further contends that the August 14, 1996, press 
+release placed the Plaintiffs on actual notice of the claims 
+relating to the improper revenue recognition in the 1996 
+first quarter earnings report in connection with the DeTe 
+Mobil Contract. Plaintiffs contend that they were not on 
+notice as to the Defendants’ liability, in part because 
+Defendant and Medaphis lied about the reasons tor 
+restating the 1995 results and the losses in 1996. 
+
+
+Securities-fraud claims under Rule 10b-5 must be 
+brought within one year after discovery of the facts con- 
+stituting the violation and within three years after the 
+violation, 15 U.S.C. § 77m; Lampf, Pleva, Lipkind, Prupis & 
+Petigrow v. Gibertson, 501 U.S. 350, 364, 111 S.Ct. 2773, 115 
+L.Ed.2d 321 (1991). The statute begins to run when the 
+plaintiff “has either knowledge of the violation or notice 
+of facts which, in the exercise of due diligence, would 
+have led to actual knowledge thereof.” Knight v. E.F. 
+Hutton & Co., 750 F.Supp. 1109, 1112 (M.D. Fla. 1990) 
+(quoting Vigman v. Community Nat. Bank & Trust Co., 635 
+
+
+36a 
+
+
+F.2d 455 (5th Cir. 1981)). “[Q]uestions of notice and due 
+diligence are particularly suited for a jury’s consider- 
+ation.” Kennedy v. Tallant, 710 F.2d 711, 716 (11th Cir. 
+1983). With respect to the factual issue of due diligence, 
+courts must look to the state of mind of the plaintiff 
+shareholder. Durham v. Business Management Associates, 
+847 F2d 1505, 1509 (11th Cir. 1988). Plaintiffs are not 
+charged with inquiry notice until they knew or should 
+have known that the Defendant acted with the requisite 
+scienter. See Law v. Medco Research, Inc., 113 F3d 781, 786 
+(7th Cir. 1997). The Defendant bears the burdens of pro- 
+duction and persuasion as to a statute of limitations 
+defense. Smith v. Duff and Phelps, Inc., 5 F.3d 488, 492, n.9 
+(1ith Cir. 1993). 
+
+
+In this case, the Court cannot determine for purposes 
+of this motion that the one year limitations period bars 
+any of the Plaintiffs’ claims. While the August 14, 1996, 
+press release and the subsequent filing of 19 related law- 
+suits may have created suspicious circumstances as to the 
+Detendant’s conduct, the Court cannot conclude as a 
+matter of law that they provided inquiry notice of the 
+Defendant's reckless or intentional misconduct. Further, 
+the press release and related lawsuits did not con- 
+clusively provide the Plaintiffs with actual notice of the 
+Detendant’s conduct related to the DeTe Mobil Contract. 
+In order to show that the limitations period applies, the 
+Defendant improperly relies upon evidence not refer- 
+enced in the pleadings. The Defendant, therefore, has 
+failed to establish as a matter of law that the Plaintiffs 
+were placed on either actual or inquiry notice of any of 
+the Plaintiffs’ claims before October 22, 1996. While the 
+Detendant’s Motion for Judgment on the Pleadings or to 
+
+
+Ah ied ENR atin NMR i 
+
+
+37a 
+
+
+Dismiss is denied, the statute of limitations issue may be 
+revisited on a motion for summary judgment. 
+
+
+VI. CONCLUSION 
+
+
+The Piaintiffs’ Motions for Leave to File Sur-Reply 
+Memoranda [Doc. Nos. 55 and 56] are GRANTED. The 
+Defendants’ Motion to Dismiss the Amended Complaint 
+[Doc. No. 40] and Motion for Judgment on the Pleadings 
+or to Dismiss [Doc. No. 41] are DENIED. 
+
+
+SO ORDERED, this 13 day of November, 1998. 
+
+
+/s/ Thomas W. Thrash 
+THOMAS W. THRASH, JR. 
+United States District Judge 
+
+
+38a 
+
+
+Nos. 97-1143; 97-1261 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE THIRD CIRCUIT 
+
+
+ELYSE S. KLEIN, RICHARD KASTNER, DORIS 
+KASTNER, and WARREN KASTNER, 
+
+
+Appellants, 
+v. 
+WILLIAM BALLANTINE BOYD, IIL, WILLIAM DISSTON 
+COLEMAN, THOMAS H. TARANTINO, LAWRENCE G. 
+STEVENS, GREGORY JAMGOCHIAN, DRINKER, 
+
+
+BIDDLE & REATH, MERCER SECURITIES, INC., 
+and MERCER SERCURITIES, LTD., 
+
+
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the Eastern District of Pennsylvania 
+
+
+BRIEF OF THE SECURITIES 
+AND EXCHANGE COMMISSION, 
+AMICUS CURIAE 
+
+
+RICHARD H. WALKER 
+General Counsel 
+
+
+JACOB H. STILLMAN 
+Associate General Counsel 
+
+
+KATHARINE B. GRESHAM 
+Assistant General Counsel 
+
+
+CHRISTOPHER PAIK 
+Senior Counsel 
+
+
+Mo ee 
+
+
+39a 
+
+
+Of Counsel 
+PAUL GONSON 
+
+
+Solicitor 
+Securities and Exchange 
+Commission 
+Washington, D.C. 20549 
+TABLE OF CONTENTS 
+PAGE 
+pe Be Ay tye. 2 i 9). Fe ns ae eee 40a 
+INTEREST OF THE SECURITIES AND EXCHANGE 
+COMMISSION ..... icibvamekeu en ces Sa 42a 
+PEAR Gns Ge Bae CASE ok 45a 
+Se UG ns pe ty, Su Me 45a 
+2. The District Court’s Decision................... 46a 
+Sn SION ORC UO a 47a 
+SNE OSE Tis Cel Oe cok Cece os eb ee 49a 
+
+
+I. A RULE THAT IMPOSES LIABILITY ONLY 
+WHEN A PERSON IS IDENTIFIED TO INVES- 
+TORS IS INCONSISTENT WITH CENTRAL 
+BANK AND THE LANGUAGE OF SECTION 
+MINES Feel eTae cc eCes yk ee ee 
+
+
+ll. A PERSON SHOULD BE LIABLE AS A PRIMARY 
+VIOLATOR OF THE SECURITIES LAWS WHEN 
+HE OR SHE, ACTING ALONE OR WITH OTHERS, 
+CREATES A MISREPRESENTATION ............. 55a 
+
+
+[AMMEN sh atege sees 6 SRS ee ee 58a 
+
+
+40a 
+
+
+TABLE OF AUTHORITIES 
+
+
+PAGE 
+
+CASES 
+Anixter v. Home-Stake Production Co., 
+
+TF Fok Ban Cee CAE FOG i ok ci oda eens 50a n.4 
+Bateman Eichler, Hill Richards, Inc. v. Berner, 
+
+O7E Si BOO TE a ak se NSEC Me an a Hare aks 43a 
+Blue Chip Stamps v. Manor Drug Stores, 
+
+SaaS FR CEE eo en et ee ee ae ee 43a 
+Central Bank of Denver, N.A. v. First 
+
+Interstate Bank of Denver, N.A., 
+
+ER SC SO RPE sé ows chad es 42a, 43a, 47a, passim 
+SEC v. Fehn, 97 F.3d 1276 (9th Cir. 1996), 
+
+cert. denied; 118 S. <1. 3D 41087) oo ok cans oes 44a n.1 
+Shapiro v. Cantor, 123 F.3d 717 (2d Cir. 
+
+ROPES c's che hea 5 4X k RM ee ea ei a ee ee 
+Newton v. Dean Witter Reynolds, Inc., 
+
+135 F.3d 266 (3d Cir. 1998) (en banc)............. 53a 
+STATUTES AND RULES 
+
+PAGE 
+
+Private Securities Litigation Reform Act 
+
+OE Te, Fs aa i sia oa Bc cc ae 43a 
+Securities Act of 1933, 15 U.S.C. 77a, et seq........ 44a 
+Securities Exchange Act of 1934, 
+
+15 U.S.C. 78a, et seq.: 
+
+Section 10(b), 15 U.S.C. 78j(b)............ 50a n.3, 5la 
+
+Section 20ta), 15 135.0; TOMO ceo iess Skins 5la n.5 
+
+SOON ZOE), Bae Sis POS ck nn hes iecksn ents 43a 
+
+Section 21D(b)(2) U.S.C. 78u-4(b)(2) .............. 54a 
+
+Section: SLANE), 25 Eh Aac 7 Ue cs eo bccn a eee 54a 
+
+
+3 
+4 
+A 
+
+
+4la 
+
+
+Rule Under the Securities Exchange Act: 
+Rule 10b-5, 17 C.F.R. 240.10b-5........... 50a n.3, 51a 
+
+
+MISCELLANEOUS: 
+
+
+Conference Report on Securities Litigation 
+
+
+Reform, H.R. Rep. No. 369, 104th Cong., 1st 
+acres cde Laing) RAVER E Te Ee ee ae 43a 
+
+
+Nos. 97-1143; 97-1261 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE THIRD CIRCUIT 
+
+
+ELYSE S. KLEIN, RICHARD KASTNER, DORIS 
+KASTNER, and WARREN KASTNER, 
+
+
+Appellants, 
+v. 
+
+
+WILLIAM BALLANTINE BOYD, Ill, WILLIAM DISSTON 
+COLEMAN, THOMAS H. TARANTINO, LAWRENCE G. 
+STEVENS, GREGORY JAMGOCHIAN, DRINKER, 
+BIDDLE & REATH, MERCER SECURITIES, INC., 
+AND MERCER SECURITIES, LTD., 
+
+
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the Eastern District of Pennsylvania 
+
+
+BRIEF OF THE SECURITIES 
+AND EXCHANGE COMMISSION, 
+AMICUS CURIAE 
+
+
+42a 
+
+
+INTEREST OF THE SECURITIES 
+AND EXCHANGE COMMISSION 
+
+
+The Securities and Exchange Commission, the agency 
+principally responsible for the administration and 
+enforcement of the federal securities laws, submits this 
+brief, amicus curiae, to address an important question 
+concerning liability in private lawsuits, and possibly cer- 
+tain Commission actions, brought under the antifraud 
+provisions of the federal securities laws: 
+
+
+Is a person who makes a material misrepresen- 
+tation, while acting with the requisite scienter, 
+but who does not himself disseminate the mis- 
+representation to investors, and whose name is 
+not made known to them, only an aider and 
+abettor of the fraud, or is that person a primary 
+violator subject to liability? 
+
+
+In the Commission’s view, such a person is a primary 
+violator of the antifraud provisions. 
+
+
+The question arises because the Supreme Court, in 
+Central Bank of Denver, N.A. v. First Interstate Bank of 
+Denver, N.A., 511 U.S. 164 (1994), ruled that private 
+actions cannot be brought against persons who aid and 
+abet violations of Section 10(b) of the Securities Exchange 
+Act of 1934, 15 U.S.C. 78j(b), and Rule 10b-5 thereunder, 
+17 C.F.R. 240.10b-5, but only against “primary violators.” 
+The Supreme Court, however, expressly stated that per- 
+sons like lawyers, accountants, bankers, or others who 
+provide services to the central figures in a fraud, can be 
+liable in private actions as primary violators, along with 
+the central figures, when such “secondary actors” make 
+misrepresentations. 511 U.S. at 191. This case involves 
+the circumstances under which a law firm may be 
+
+
+OE ee ee ee) Se ee 
+
+
+ON Atay lea plein tls pe 
+
+
+43a 
+
+
+deemed to have “made” misrepresentations and thus may 
+be adjudged to be a primary violator. 
+
+
+Meritorious private actions under the federal securi- 
+ties laws serve an important role, both because they 
+provide compensation for investors who have been 
+harmed by securities law violations and because, as the 
+Supreme Court has repeatedly recognized, they “provide 
+‘a most effective weapon in the enforcement’ of the secu- 
+rities laws and are ‘a necessary supplement to Commis- 
+sion action.’ ” Bateman Eichler, Hill Richards, Inc. v. Berner, 
+472 U.S. 299, 310 (1985), quoting J.I. Case Co. v. Borak, 377 
+U.S. 426, 432 (1964). See-also Blue Chip Stamps v. Manor 
+Drug Stores, 421 U.S. 723, 730 (1975). Congress, in adopt- 
+ing the Private Securities Litigation Reform Act of 1995, 
+Pub. L. No. 104-67, affirmed that “[p]rivate securities 
+litigation is an indispensable tool with which defrauded 
+investors can recover their losses” and that private law- 
+suits “promote public and global confidence in our capi- 
+tal markets and help to deter wrongdoing and guarantee 
+that corporate officers, auditors, directors, lawyers and 
+others properly perform their jobs.” Conference Report 
+on Securities Litigation Reform, H.R. Rep. No. 369, 104th 
+Congress, lst Sess. 31 (1995). 
+
+
+The Commission has a further interest in this case, 
+beyond its implications for private actions. Because Cen- 
+tral Bank was a private action, the Supreme Court did not 
+explicitly address the Commission’s authority to bring 
+actions against aiders and abettors. After Central Bank, 
+Congress reaffirmed the Commission’s authority to bring 
+such actions in the Litigation Reform Act. Securities 
+Exchange Act Section 20(f), 15 U.S.C. 78t(f). Nonetheless, 
+a decision in this case delineating the circumstances in 
+
+
+44a 
+
+
+which a person is a primary violator could affect the 
+Commission’s litigating authority in several areas. 
+
+
+First, assuming the Central Bank holding applies to 
+the Commission, the courts have not resolved (except in 
+one circuit!) whether the Congressional reaffirmation of 
+the Commission’s aiding and abetting authority is to be 
+applied retroactively. Thus, it is unclear whether the 
+Commission may proceed against persons as aiders and 
+abettors whose fraudulent conduct occurred before Con- 
+gress enacted the Litigation Reform Act. Second, the pro- 
+vision in the Litigation Reform Act reaffirming the 
+Commission’s authority to sue aiders and abettors 
+requires a showing that the defendant provided assis- 
+tance knowingly, thus raising a question about whether 
+the scienter element in a securities fraud action against an 
+aider and abettor can be satisfied by the reckless conduct 
+that is sufficient to make a defendant liable as a primary 
+violator. Third and finally, this case could have a bearing 
+upon the Commission’s authority to proceed against vio- 
+lators of the antifraud provisions of the Securities Act of 
+1933, 15 U.S.C. 77a et seq. The Supreme Court's rejection 
+of aiding and abetting liability under Section 16(b) of the 
+Securities Exchange Act could be applied to the Securities 
+Act as well. The Litigation Reform Act, however, does not 
+give the Commission authority to proceed against aiders 
+and abettors of violations of the Securities Act. 
+
+
+1 See SEC v. Fehn, 97 F.3d 1276 (9th Cir. 1996), cert. denied, 
+118 S.Ct. 59 (1997). 
+
+
+eee ee Oey ee ee ee 
+
+
+tired aw Bas ate testes LAs 
+
+
+45a 
+
+
+STATEMENT OF THE CASE 
+1. The Facts 
+
+
+Defendant Drinker Biddle & Reath, a Philadelphia 
+law firm, was retained in 1992 by William Coleman, a 
+securities salesman with a long history of regulatory trou- 
+bles and customer complaints, to assist in setting up a 
+brokerage firm, Mercer Securities, Ltd. District Court slip 
+op. at 4-5, 
+
+
+The plaintiffs, who were social acquaintances and 
+customers of Coleman, made two series of limited part- 
+nership investments in Mercer. Id. at 2, 3-5. Only the 
+second series is at issue in this case. The first series, 
+however, is relevant because it bears on whether Drinker 
+Biddle & Reath knew of Coleman’s disciplinary history 
+and the customer complaints against him. 
+
+
+In the first series of investments, in the fall of 1992, 
+the plaintiffs were solicited by Coleman and invested 
+money before the law firm had completed the partnership 
+agreement and accompanying disclosure documents. Id. 
+at 3. In February 1993, Drinker Biddle & Reath completed 
+a disclosure package for investors that included details of 
+outstanding state supervisory orders and judgments 
+entered against Coleman. Id. at 4. The law firm gave the 
+package to a principal of Mercer to give to investors. [bid. 
+
+
+When the law firm partner handling Mercer matters 
+learned some months later that the disclosure package 
+had not been given to the investors, he urged Mercer 
+
+
+officials to forward the information to them immediately. 
+Id. at 5. The plaintiffs allege that they never received the 
+February disclosure package. Id. at 4. 
+
+
+46a 
+
+
+In the fall of 1993, Coleman solicited the plaintiffs to 
+make further investments in Mercer. Id. at 5. For this 
+second series of investments, Drinker Biddle & Reath 
+prepared a new disclosure package, which the plaintiffs 
+were given. Ibid. The plaintiffs allege that the new dis- 
+closure package, unlike the first one, did not contain 
+information about outstanding state supervisory orders, 
+judgments entered, and customer complaints against 
+Coleman. Id. at 6.2 The cover letter transmitting the new 
+disclosure package was signed by a Mercer principal, not 
+by Drinker Biddle & Reath, and the law firm’s name did 
+not appear in the documents in the disclosure package. 
+Ibid. 
+
+
+Mercer eventually failed and the plaintiffs lost the 
+money they provided in the second series of investments. 
+Id. at 9. 
+
+
+2. The District Court’s Decision 
+
+
+The district court dismissed plaintiffs’ Section 10(b) 
+and Rule 10b-5 securities fraud claim against Drinker 
+Biddle & Reath because, even though the law firm had 
+prepared documents that were given to investors, it did 
+
+
+* Plaintiffs allege that the second disclosure package 
+concealed adverse facts about Coleman, including his censure 
+by the Chicago Board of Options Exchange, consent orders with 
+Vermont and Minnesota barring him from certain broker-dealer 
+positions, a four-year bar imposed by California preventing him 
+from holding any position as a broker-dealer or investment 
+advisor, his long history of customer complaints of fraudulent 
+conduct, and Mercer’s agreement with the National Association 
+of Securities Dealers to limit his conduct with clients. Id. at 6. 
+
+
+a si ae saith 
+
+
+47a 
+
+
+not sign those documents and its name did not appear in 
+them. Id. at 64-65. The district court noted that the plain- 
+tiffs had no direct communication with the law firm and 
+did not know that it was involved with Mercer. Id. at 65. 
+
+
+The district court also ruled that the plaintiffs had 
+not presented sufficient evidence to create a genuine 
+issue Of material fact as to whether Drinker Biddle & 
+Reath had scienter. Id. at 65-68. 
+
+
+3. The Panel’s Decision 
+
+
+A panel of this Court reversed the district court’s 
+grant of summary judgment on the federal securities 
+fraud claim. The panel noted that when the Supreme 
+Court ruled in Central Bank that there was no private 
+cause of action for aiding and abetting, it was careful to 
+state that there could still be liability for “secondary 
+actors” —i.e., “those who provide services to participants 
+in the securities business” (Central Bank, 511 U.S. at 188). 
+Panel slip op. at 15. Such a secondary actor can be liable 
+if he or she “ ‘makes a material misstatement (or omis- 
+sion) on which a purchaser or seller of securities relies.’ ” 
+Id. at 15, quoting Central Bank, 511 U.S. at 191. 
+
+
+The panel held that, despite the fact that Drinker 
+Biddle & Reath was not identified in any of the docu- 
+ments that went to investors, it could be liable because 
+
+
+“lawyers and other secondary actors who signif- 
+icantly participate in the creation of their client’s 
+misrepresentations, to such a degree that they 
+may fairly be deemed authors or co-authors of 
+those misrepresentations, should be held 
+accountable as primary violators under section 
+
+
+48a 
+
+
+10(b) and Rule 10b-5 even when the lawyers or 
+other secondary actors are not identified to the 
+investors, assuming the other requirements of 
+primary liability are met.” 
+
+
+Id. at 18. When a lawyer elects to speak, the panel stated, 
+he or she has a duty to speak truthfully, even when 
+speaking “behind the scenes.” Id. at 20. A lawyer who 
+prepares a document knowing that it will be given to 
+investors “has elected to speak to the investors, even 
+though the document not may be facially attributed to the 
+lawyer.” Ibid. 
+
+
+In response to Drinker Biddle & Reath’s argument 
+that the plaintiffs had not shown reliance because they 
+did not know of the law firm’s involvement, the panel 
+held that the federal securities laws require a plaintiff to 
+demonstrate “reliance on the misleading statement; they 
+do not require the plaintiff to demonstrate that he or she 
+relied on the defendant's role in the preparation or dis- 
+semination of the statement.” Id. at 18 (emphasis in origi- 
+nal). 
+
+
+The panel made clear that a lawyer who only pro- 
+vides “substantial assistance” to a client, and who could 
+have been liable as an aider and abettor before Central 
+Bank eliminated aiding and abetting liability in private 
+actions, would not be liable under the panel’s test. In the 
+panel’s view, a person “has done more than provide mere 
+substantial assistance” when his or her involvement was 
+“sufficiently significant that the [fraudulent] statement 
+can properly be attributed to the person as its author or 
+co-author.” Id. at 20-21; see also id. at 22. 
+
+
+— —_ 
+
+
+49a 
+
+
+With respect to the law firm’s scienter, the panel 
+reversed the district court’s ruling that the plaintiffs had 
+not presented sufficient evidence to create a genuine 
+issue of material fact. The panel stated that a trier of fact 
+could reasonably find that the law firm knew that inves- 
+tors never received the earlier disclosure package that 
+included material information about Coleman’s regula- 
+tory difficulties, and that the law firm prepared the sec- 
+ond disclosure package without including this 
+information. Id. at 24. The panel also stated that a trier of 
+fact could reasonably infer from the evidence that the law 
+firm concealed this information so that the plaintiffs 
+would not withdraw their investments, Mercer would 
+remain solvent, and Drinker Biddle & Reath would not be 
+exposed to liability as a result of “possible oversights in 
+[its] representation of Mercer LP.” Id. at 24-25. 
+
+
+ARGUMENT 
+
+
+I. A RULE THAT IMPOSES LIABILITY ONLY WHEN A 
+PERSON IS IDENTIFIED TO INVESTORS IS INCON- 
+SISTENT WITH CENTRAL BANK AND THE LAN- 
+GUAGE OF SECTION 10(b). 
+
+
+The Supreme Court cautioned in Central Bank that the 
+elimination of aiding and abetting liability in private 
+actions does not mean that only the central figure in a 
+securities fraud is liable. The Supreme Court stated that 
+“secondary actors” could be liable as well: 
+
+
+“The absence of § 10(b) aiding and abetting 
+liability does not mean that secondary actors in 
+the securities markets are always free from lia- 
+bility under the Securities Acts. Any person or 
+entity, including a lawyer, accountant, or bank, 
+
+
+50a 
+
+
+who employs a manipulative device or makes a 
+material misstatement (or omission) on which a 
+purchaser or seller of securities relies may be 
+liable as a primary violator under 10b-5, assum- 
+ing all of the requirements for primary liability 
+under Rule 10b-5 are met. In any complex secu- 
+rities fraud, moreover, there are likely to be 
+multiple violators * * * .” 
+
+
+511 U.S. at 191 (citations omitted) (emphasis added).3 
+
+
+The issue in this case is whether, as Drinker Biddle & 
+Reath contends, the phrase “makes a material misstate- 
+ment (or omission)” means that a law firm or other 
+secondary actor can be primarily liable for a misrepresen- 
+tation only if it signs the document containing the mis- 
+representation or is otherwise identified to investors. 
+Drinker Biddle & Reath argues, in effect, that even if it 
+prepared a disclosure package for investors that it knew 
+was materially false or misleading, it cannot be liable 
+under Central Bank because the disclosure package did 
+not reveal its identity. Thus, in Drinker Biddle & Reath’s 
+view, “[p]articipation in the drafting, no matter how sig- 
+nificant,” cannot by itself result in liability. Rehearing 
+Petition at. 6.4 
+
+
+* The phrase “employs a manipulative or deceptive device” 
+is from Section 10(b); the phrase “makes a material 
+misstatement (or omission)” follows the language of Rule 
+10b-5(d). 
+
+
+* In support of its position, Drinker Biddle & Reath cites, 
+inter alia, Anixter v. Home-Stake Production Co., 77 F.3d 1215, 
+1226-27 (10th Cir. 1996), and Shapiro v. Cantor, 123 F.3d 717, 
+720-21 (2d Cir. 1997). Rehearing Petition at 3, 5, n.3. Those cases, 
+however, involved very different factual situations, and 
+therefore do not provide guidance for this case. In Anixter, the 
+
+
+ee 
+
+
+5la 
+
+
+This view of Central Bank is incorrect. Nothing in 
+Central Bank indicates that when the Supreme Court used 
+the word “makes,” it meant that only persons who sign 
+documents or are otherwise identified to investors can be 
+primarily liable. Indeed, such an interpretation would be 
+inconsistent with the language of Section 10(b), which 
+makes it unlawful “for any person, directly or indirectly 
+** *  [tlo use or employ * * * any manipulative or 
+deceptive device or contrivance.” (Emphasis added.) A 
+person who creates a misrepresentation, but takes care 
+not to be identified publicly with it, “indirectly” uses or 
+employs a deceptive device or contrivance and should be 
+liable. 
+
+
+The rule Drinker Biddle & Reath proposes would 
+have the unfortunate and unwarranted consequence of 
+providing a safe harbor from liability for everyone except 
+those identified with misrepresentations by name. Cre- 
+ators of misrepresentations could escape liability as long 
+as they concealed their identities.5 Not only outside law- 
+yers would benefit from such a rule; others who are 
+retained to prepare information for dissemination to 
+
+
+defendant was an accounting firm that had actually signed 
+fraudulent documents, and therefore was liable under any 
+standard. In Shapiro, the defendant accounting firm was not 
+alleged to have been involved in creating any mis- 
+representation, but only to have been aware that its client was 
+making a misrepresentation. 
+
+
+> “Controlling persons” of those publicly identified as 
+responsible for the misrepresentation would be liable under 
+Section 20(a) of the Exchange Act, 15 U.S.C. 78t(a). However, a 
+person can be a creator of a misrepresentation without 
+controlling the person in whose name the misrepresentation is 
+issued. 
+
+
+52a 
+
+
+investors, including accountants and public relations 
+firms, could immunize themselves by remaining anony- 
+mous. Indeed, in-house counsel and other corporate offi- 
+cials and employees could avoid liability for mis- 
+representations they created, as long as their identities 
+were not made known to the public. In sum, by providing 
+a sate harbor for anonymous creators of misrepresenta- 
+tions, a rule that imposes liability only when a person is 
+identified with a misrepresentation would place a pre- 
+mium on concealment and subterfuge rather than on 
+compliance with the federal securities laws. 
+
+
+Drinker Biddle & Reath contends that it was “the 
+Supreme Court's clear intention in Central Bank to adopt a 
+bright-line rule for imposing liability” in order to protect 
+securities lawyers from being named as defendants in 
+securities fraud suits. Rehearing Petition at 1, 6-7. While 
+the Supreme Court was concerned that there should be 
+limits on the liability of lawyers and others who provide 
+services to the central figures in a securities fraud (see 511 
+U.S at 188-89), the bright line rule Drinker Biddle & Reath 
+advocates, with its resulting unwarranted consequences, 
+goes beyond any reasonable reading of Central Bank. The 
+Supreme Court did not set forth a bright line rule for 
+liability, much less one that turns on whether the identity 
+of a defendant is disclosed. Indeed, the Supreme Court 
+used the word “makes” ia discussing the involvement 
+that could lead to liability - a word that requires further 
+interpretation, as the panel recognized. Panel Slip Op. at 
+15 (discussing the need “to clarify the circumstances 
+
+
+53a 
+
+
+under which a statement may fairly be said to have been 
+‘made’ by a secondary actor”).® 
+
+
+Drinker Biddle & Reath further contends that with- 
+out a bright-line test, lawyers will be named as defen- 
+dants in every securities fraud suit filed in this Circuit. Id. 
+at 6-7. This contention, however, fails to take into account 
+the scienter requirement, which gives lawyers (and other 
+defendants) substantial protection against frivolous secu- 
+rities fraud lawsuits. In a Section 10(b) securities fraud 
+suit, the plaintiff must both plead and prove that the 
+defendant acted with scienter, defined by this Court to. 
+mean deliberately or recklessly. Newton v. Dean Witter 
+Reynolds, Inc., 135 F.3d 266, 273 (3d Cir. 1998) (en banc). 
+
+
+The scienter element has become particularly impor- 
+tant at the pleading stage of a suit in light of a key 
+provision of the Litigation Reform Act, which requires 
+the plaintiff to “state with particularity facts giving rise to 
+
+
+® Nor did the Supreme Court forbid a fact-oriented test, as 
+Drinker Biddle & Reath contends, pointing to the Supreme 
+Court's discussion of policy arguments against such a test. See 
+Rehearing Petition at 6. Rather, the Supreme Court discussed 
+those arguments only to make the point that the policy 
+arguments that the Commission made in its Central Bank brief in 
+tavor of aiding and abetting liability were net determinative. 
+Policy considerations, the Court stated, could be taken into 
+account “to the extent that they may help to show that 
+adherence to the text and structure would lead to a result ‘so 
+bizarre’ that Congress could not have intended it.” 511 U.S. at 
+188 (citations omitted). However, “[pJolicy considerations 
+cannot override [the court's] interpretation of the text and 
+structure of the Act.” Ibid. 
+
+
+54a 
+
+
+a strong inference that the defendant acted with [scien- 
+ter].” Securities Exchange Act Section 21D(b)(2), 15 U.S.C. 
+78u-4(b)(2). This requirement means that a securities 
+fraud plaintiff must state a strong and specific case in 
+order to avoid dismissal of his or her claim. This protec- 
+tion substantially lessens the possibility that plaintiffs 
+will be able to bring frivolous suits against lawyers. 
+Moreover, the Litigation Reform Act provides for manda- 
+tory sanctions against plaintiffs who fail to comply with 
+the pleading requirements. Securities Exchange Act Sec- 
+tion 21D(c), 15 U.S.C. 78u-4(c). Thus, if the Court rejects 
+Drinker Biddle & Reath’s bright line test, it is unlikely 
+that there will be a flood of lawsuits against lawyers in 
+this Circuit. 
+
+
+Finally, Drinker Biddle & Reath contends that impos- 
+ing liability on it when the investors did not know of its 
+involvement in the creation of the misrepresentation 
+would negate the element of reliance required in a pri- 
+vate action for securities fraud. Rehearing Petition at 3, 6. 
+This contention is incorrect. The reliance a plaintiff in a 
+securities fraud action must plead is reliance on a misrep- 
+resentation, not on the fact that a particular person made 
+that misrepresentation. The Supreme Court stated in Cen- 
+tral Bank that liability exists where “[a]ny person or 
+entity, including a lawyer, accountant, or bank * * * 
+makes a material misstatement (or omission) on which a 
+purchaser or seller of securities relies.” 511 U.S. at 191 
+(emphasis added). Thus, the Court placed the focus on 
+the misrepresentation, not on the fact that a particular 
+person made it. 
+
+
+Drinker Biddle & Reath nonetheless points to the 
+Supreme Court's statement that the argument made by 
+
+
+55a 
+
+
+the plaintiffs in Central Bank “ ‘would impose 10b-5 aid- 
+ing and abetting liability when at least one element criti- 
+cal for recovery under 10b-5 is absent: reliance.’ ” 
+Rehearing Petition at 3, quoting 511 U.S. at 180. This 
+problem, it asserts, will be present unless there is a 
+requirement that a plaintiff rely on the person who makes 
+the represenfation. 
+
+
+Drinker Biddle & Reath, however, does not quote the 
+entire passage from Central Bank. The Supreme Court 
+went on to say that “[w]Jere we to allow the aiding and 
+abetting action proposed in this case, the defendant could 
+be liable without any showing that the plaintiff relied 
+upon the aider and abettor’s statements or actions.” 511 
+U.S. at 180 (emphasis added). In Central Bank, the defen- 
+dant, a bank that had been the indenture trustee for a 
+defaulted bond issue, had not created any misrepresenta- 
+tions, but had failed to update the appraisal for land 
+securing the bonds. The investors thus could not be said 
+to have relied on any misrepresentations “made” by the 
+bank. In contrast, the plaintiffs in this case allege that 
+Drinker Biddle & Reath created the misrepresentations 
+upon which the investors relied. 
+
+
+Il. A PERSON SHOULD BE LIABLE AS A PRIMARY 
+VIOLATOR OF THE SECURITIES LAWS WHEN HE 
+OR SHE, ACTING ALONE OR WITH OTHERS, CRE- 
+ATES A MISREPRESENTATION. 
+
+
+As we have shown in Argument I, Drinker Biddle & 
+Reath is incorrect in arguing that liability may be 
+imposed only when a defendant is identified to investors. 
+The correct standard, we submit, is that when a person, 
+
+
+56a 
+
+
+acting alone or with others, creates a misrepresentation, 
+the person can be liable as a primary violator - assuming, 
+of course, that he or she acts with the requisite scienter. 
+
+
+While the Commission, as amicus curiae, takes no 
+position as to the truth of the allegations in the com- 
+plaint, under the Commission’s standard those allega- 
+tions, if proven to be true, would establish that Drinker 
+Biddle & Reath was a primary violator of the antifraud 
+provisions. 
+
+
+The Commission’s proposed test makes clear that 
+more than one person may be involved in creating a 
+misrepresentation. As the Supreme Court stated in Cen- 
+tral Bank, “[i]n any complex securities fraud *** there 
+are likely to be multiple [primary] violators.” See 511 US. 
+at 191. Moreover, it would not be necessary for a person 
+to be the initiator of a misrepresentation in order to be a 
+primary violator. Provided that a plaintiff can plead and 
+prove scienter, a person can be a primary violator if he or 
+she writes misrepresentations for inclusion in a document 
+to be given to investors, even if the idea for those misrep- 
+resentations came from someone else. 
+
+
+Under the Commission’s test, however, a person who 
+prepares a truthful and complete portion of a document 
+would not be liable as a primary violator for misrepresen- 
+tations in other portions of the document. Even assuming 
+such a person knew of misrepresentations elsewhere in 
+the document and thus had the requisite scienter, he or 
+she would not have created those misrepresentations. 
+
+
+The test proposed by the Commission differs some- 
+what from the test enunciated by the panel, which con- 
+cluded that 
+
+
+57a 
+
+
+“lawyers and other secondary actors who signif- 
+icantly participate in the creation of their client's 
+misrepresentations, to such a degree that they 
+may fairly be deemed authors or co-authors of 
+those misrepresentations, should be held 
+accountable as primary violators under section 
+10(b) and Rule 10b-5 even when the lawyers or 
+other secondary actors are not identified to the 
+investor.” 
+
+
+Panel slip op. at 18. In the Commission’s view, the panel's 
+phrase “significantly participate in the creation of their 
+client’s misrepresentations” is susceptible to misin- 
+terpretation. The phrase “significantly participate,” 
+although consistent with responsibility for the creation of 
+a misrepresentation, could also be taken to encompass 
+lesser degrees of involvement. Drinker Biddle & Reath 
+argues that the panel’s test would make defendants liable 
+for conduct that is “indistinguishable” from the aiding 
+and abetting conduct held to be not actionable in Central 
+Bank. Rehearing Petition at 2-3. While the Commission 
+does not agree with this view, it recognizes some poten- 
+tial for misinterpretation in the panel’s formulation. See 
+Shapiro v. Cantor, 123 F.3d 717, 720 (2d Cir. 1997) (“Allega- 
+tions of ‘assisting,’ ‘participating in,’ ‘complicity in’ and 
+similar synonyms used throughout the complaint all fall 
+within the prohibitive bar of Central Bank.”). The Com- 
+mission believes that its proposed formulation — “creates 
+a misrepresentation, acting alone or with others” — will 
+help to avoid this difficulty. 
+
+
+In sum, the word “makes” as used in Central Bank 
+does not have a precise meaning independent of the 
+circumstances of the particular case. Drinker Biddle & 
+
+
+id 
+
+
+Reath’s test would define “makes” as “signs.” But, as 
+
+
+58a 
+
+
+noted earlier, nothing in Central Bank indicates that the 
+Supreme Court meant to give such a restrictive definition 
+to the word, and indeed, such a definition would be 
+inconsistent with the “directly or indirectly” language of 
+Section 10(b). The Commission believes that a test that 
+looks to what a secondary actor does in “creating a mis- 
+representation” provides the appropriate focus for deter- 
+mining when the secondary actor “makes” a mis- 
+representation. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the Commission urges this 
+Court to hold that a person who has the requisite scienter 
+can be liable as a primary violator of Section 10(b) of the 
+Securities Exchange Act of 1934 and Rule 10b-5 there- 
+under when he or she, acting alone or with others, creates 
+a misrepresentation, whether or not the person is identi- 
+fied with the misrepresentation by name. 
+
+Respectfully submitted, 
+RICHARD H. WALKER 
+General Counsel 
+
+JACOB H. STILLMAN 
+Associate General Counsel 
+KATHARINE B. GRESHAM 
+Assistant General Counsel 
+
+
+CHRISTOPHER PAIK 
+Senior Counsel 
+Of Counsel 
+PAUL GONSON 
+Solicitor 
+Securities and Exchange Commission 
+Washington, D.C. 20549 
+
+
+April, 1998 
+
+

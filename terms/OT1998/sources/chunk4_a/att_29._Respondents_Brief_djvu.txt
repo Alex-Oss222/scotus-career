@@ -1,0 +1,3204 @@
+/ 2 WW) a] \F) 
+Nan 9th Set, 1.8, 788,90 
+
+
+D Stites 1% 
+
+
+OF , ic mcnp 
+JTTIVE VY int a: 
+
+
+v) bg 
+
+
+tote oe i ee ee ota eee 
+
+
+AT&T Corp., et ai., 
+
+
+w. Petitioners, 
+
+
+Iowa UTILITIES BoarD, et al., 
+Respondents. 
+
+
+U S WEST, INc., et ai., 
+Petitioners, 
+
+
+Vv. 
+FEDERAL COMMUNICATIONS COMMISSION, ef al., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+OPENING BRIEF OF 
+RESPON VENT/CROSS-PETITIONER 
+U S WEST, INC. 
+
+
+MARK D. ROELLIG LLoyD N. CUTLER 
+DAN L. POOLE Counsel of Record 
+ROBERT B. MCKENNA WILLIAM T. LAKE 
+U S WEST, INc. JOHN H. HaRwoop II 
+1801 California Street SAMIR C., JAIN 
+51st Floor Davip M. SOHN 
+Denver, Colorado 80202 WILMER, CUTLER & PICKERING 
+(303) 672-2861 2445 M Street, N.W. 
+Washington, DC 20037 
+(202) 663-6000 
+
+
+Counsel for Respondent/Cross-Petitioner U S WEST, Inc. 
+May 18, 1998 
+
+
+QUESTIONS PRESENTED 
+
+
+. Whether the FCC violated the Communications Act of 
+
+
+1934, as amended by the Telecommunications Act of 
+1996 (“Act”), by requiring incumbent telephone com- 
+panies to sell network services and capabilities as 
+unbundled network elements under section 251(c)(3), 
+even where an incumbent’s competitors have no need 
+to obtain those services and capabilities from the in- 
+cumbent because equivalents are readily available 
+from sources other than the incumbent. 
+
+
+. Whether the FCC violated the Act by concluding that 
+the term “network elements” encompasses not only 
+physical facilities used in the delivery of calls, but 
+virtually every productive asset of an incumbent tele- 
+phone company’s business. ‘~cluding human operators, 
+software used for business .unctions such as billing, 
+and services. 
+
+
+. Whether the FCC violated the Act, and in particular 
+its express distinction between resale and unbundled 
+network elements, by requiring incumbent telephone 
+companies to sell as unbundled network elements 
+under section 251(c)(3) finished retail services such 
+as caller I.D. and call forwarding, when the same 
+services must be made available for resale under sec- 
+tion 251(c)(4). 
+
+
+. Whether the FCC violated the Act by requiring in- 
+cumbent telephone companies to sell to competitors 
+who possess no facilities of their own access to all the 
+network elements associated with a particular retail 
+service, not at the statute’s discounted rate for resale, 
+but at the cost-based rate reserved for competitors 
+who purchase access to individual network elements 
+to combine with their own facilities. 
+
+
+. Whether the FCC violated the Act’s requirement that 
+incumbents provide their competitors with unbundled 
+
+
+(i) 
+
+
+ii 
+
+
+network elements “in a manner that allows requesting 
+carriers to combine such elements,” 47 U.S.C. § 251 
+(c)(3) (emphasis added), by mandating that incum- 
+bents do the work of combining elements purchased 
+by requesting carriers. 
+
+
+. Whether the FCC violated the Act by permitting new 
+entrants to “pick and choose” individual terms from 
+an incumbent’s past and future interconnection agree- 
+ments without accepting all of the contractual trade- 
+offs that originally accompanied those terms. 
+
+
+. Whether the FCC violated the Act by asserting juris- 
+diction to regulate the rates and certain other terms 
+of local interconnection arrangements despite the fact 
+that Congress gave states authority to “establish” and 
+“determin[e]” the rates for local interconnection ar- 
+rangements (47 U.S.C. §§ 252(c), (d)) and provided 
+that “nothing in this Act shall be construed . . . to 
+give the [FCC] jurisdiction” with respect to intrastate 
+matters (id. § 152(b)). 
+
+
+RULE 29.4 STATEMENT 
+
+
+Pursuant to Supreme Court Rule 29.6, U $ WEST, 
+Inc. advises the Court that it has no parent companies, 
+U S WEST, Inc. has the following non-wholly owned sub- 
+sidiaries having outstanding securities in the hands of the 
+“ry Financial Security Holding, Ltd. and TeleWest 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED 
+
+
+RULE 29.6 STATEMENT | 
+
+
+TABLE OF AUTHORITIES 
+
+
+STATUTORY PROVISIONS INVOLVED .................... 
+
+
+1. The Act’s Structure for Promoting Compe- 
+tition - - 
+
+
+a. The Unbundled Access Provisions of Sec- 
+tion 251 (c) (3) SF. am 
+
+
+b. The Resale Provisions of Section 
+CC ee 
+
+
+8. Preservation and Reform of Universal 
+EERE 9a sk Pe ae eee ee 
+
+
+8. The FCC’s Assertion of Jurisdiction over 
+Pricing sitiiniithechinmntediaeeiniads 
+
+
+D. The Appeal to the Eighth Circuit 
+E. Certiorari Proceedings 
+
+
+(v) 
+
+
+11 
+
+
+13 
+
+
+13 
+14 
+14 
+18 
+
+
+8S & 
+
+
+vi vil 
+tinued TABLE OF AUTHORITIES 
+TABLE OF CONTENTS—Con _— CASES Page 
+ore 23 Bailey v. United States, 516 U.S. 187 (1995)... 50 
+SUMMARY OF ARGUMENT ......---0-0-------- Chevron U.S.A. Inc. v. Natural Resources Defense 
+AA ee 27 Council, Inc., 467 U.S. 887 (1984) 0 28, 57 
+Dean ger te City of Anaheim v. Southern Calif. Edison Co., 955 
+Il. THE FCC’s UNBUNDLING RULES COL- F.2d 1878 (9th Cir. 1992) 0 eee 84 
+LAPSE THE CAREFUL STRUCTURE OF City of Malden v. Union Electric Co., 887 F.2d 157 
+THE ACT AND DEFEAT THE GOALS CON- ET aie 84 
+GRESS SOUGHT TO ACHIEVE ....................-..- 27 | Duquesne Light Co. v. Barasch, 488 U.S. 299 
+nlawfully Nullified the Act’s FEE ae Oe ae ee Yee 5-6 
+A Standards for What Network Elements Must | Edward J. DeBartolo Corp. v. Florida Gulf Coast 
+sag eae Aas TTS ERE ST 29 ) Trades Council, 485 U.S. 568 (1988) ............ 45 
+; FCC v. Iowa Utilities Board, 117 8S. Ct. 429 
+B. The FCC Unlawfully Expanded the Act’s i 20 
+Definition of “Network Element” ................. FCC v. Democratic Senatorial Campaign Commit- 
+of Incumbents’ Un- © ff 2. Gee ee 29 
+0 ee  aeeden kena de ee | Federal Power Commission v. Hope Natural Gas 
+ture of the Act by Permitting Competitors Co., $20 U.S. 591 ES ae eer 6 
+To Rely Exclusively on Unbundled Elements Hawaii Housing Authority v. Midkiff, 467 U.S. 229 
+To Provide Service and Thereby Evade the ee 32 
+Statutory Restrictions on Resale .................... 41 Hughey v. United States, 495 U.S. 411 (1990)... 40 
+Ideal Dairy Farms, Inc. v. John Labatt, Ltd., 90 
+. The Combination Rules Invalidated by the F.3d 787 (8d Cir. 1996)... 34 
+( ) 
+Court of Appeals Were Contrary to the INS v. Cardoza-Fonseca, 480 U.S. 421 (1987)... 57 
+Terms of the Act and Were the Final Step in John Hancock Mutual Life Insurance Co. v. Harris 
+Eliminating Any Distinction between Unbun- : Trust and Savings Bank, 510 U.S. 86 (1998)...... 53 
+dled Network Elements and Resale ............. . ) Kewanee Oil Co. v. Bicron Corp., 416 U.S. 470 
+“PICK-AND-CHOOSE” RULE EE ee ee ee ee 35-36 
+” FURTHER ERODES THE ACT’S RELIANCE ; Laurel Sand & Gravel, Inc. v. CSX Transportation, 
+ON BASIC MARKET PRINCIPLES IN FAVOR Inc., 924 F.2d 539 (4th Cir.), cert. denied, 502 
+OF REGULATORY FIAT Lee oS ee ee 53 ; US. 814 (1991) Coewereeerecescreees eeeessereeseeeeeserssessesoceseces 34 
+‘ MCI Communications Corp. v. AT&T, 708 F.2d 
+i coe IE 58 1081 (7th Cir.), cert. denied, 464 U.S. 891 
+ee ae kt NS atte 4, 84 
+McKenzie v. Mercy Hospital, 864 F.2d 365 (10th 
+Cir. 1988), overruled on other grounds by Sys- 
+temCare, Inc. v. Wang Laboratories Corp., 117 
+F.3d 1187 (10th Cir. 1997) .... 34 
+NationsBank v. Variable Annuity Life Insurance 
+Co., 618 U.S. 251 (1995) 58 
+
+
+viii 
+TABLE OF AUTHORITIES—Continued 
+
+
+Securities Industrial Association v. Board of Gov- 
+ernors of the Federal Reserve System, 468 U.S. 
+
+
+fk) ee ee 29, 50-51 
+Sullivan v. Everhart, 494 U.S. 83 (1990) ................ 28 
+Thompson v. Consolidated Gas Corp., 300 U.S. 55 
+
+COG D ccxccetsticentticarcctrimntinatnatsataiatinnessttinitnbiatinmapetnn 82 
+Twin Laboratories Inc. v. Weider Health & Fit- 
+
+ness, 900 F.2d 566 (2d Cir. 1990) ....................... 84 
+United States Trust Co. v. New Jersey, 431 U.S. 1 
+
+CRED cccninantsrensstanetentitactatesicidoniasitsdinaseeitemnseeees 55 
+United States v. AT&T, 552 F. Supp. 181 (D.D.C. 
+
+ eseckitetniiiiiedesnennii RY ees ee. a oo 4 
+United States v. Salen, 235 U.S. 287 (1914) ........... 40 
+
+
+ADMINISTRATIVE RULINGS 
+
+
+AT&T Communications Revisions to Tariff, F.C.C. 
+No. 12, 7 F.C.C.R. 7089 (1991), aff'd, Competi- 
+tive Telecom. Association v. FCC, 998 F.2d 1058 
+CE, Ga, GID ccccccneitstitinsniatntninnaniitimintmemnsiniantinnanenien 
+
+Computer and Business Equipment Manufacturers 
+Association, Report and Order, 93 F.C.C.2d 1226 
+COT ccccicctteninitintiitatihisninsntteianiiiiccabiasialiimuiaimypmcsiings 
+
+Federal-State Joint Board on Universal Service, 
+Report and Order, 12 F.C.C.R. 8776 (1997)........ 
+
+Implementation of the Local Competition Provi- 
+sions in the Telecommunications Act of 1996, 
+First Report and Order, 11 F.C.C.R. 15499 
+
+
+CD cciransserrreannecitaninmmnmitmenmptmneinnnemasanel passim 
+
+
+Implementation of the Local Competition Provi- 
+sions in the Telecommunications Act of 1996, 
+Third Order on Reconsideration, 12 F.C.C.R. 
+GR COD ccthcaciocitneccnidhcatibninintitssinnviscmnbentiinniees 
+
+Implementation of the Non-Accounting Safeguards 
+of Sections 271 and 272 of the Communications 
+Act of 1934, as Amended, Second Order on Re- 
+consideration, 12 F.C.C.R. 8653 (1997) ............. 
+
+
+51 
+
+
+ix 
+TABLE OF AUTHORITIES—Continued 
+
+In the Matter of Amendment of the Commission's — 
+
+Rules to Establish Competitive Service Safe- 
+
+guards for Local Exchange Carrier Provision of 
+
+Commercial Mobile Radio Services, Notice of 
+
+Proposed Rulemaking, Order on Remand, and 
+
+Waiver Order, 11 F.C.C.R. 16689 (1996) ........... 80 
+
+STATUTES AND REGULATIONS 
+
+CI i 11, 37, 40 
+I 41 
+ee eet ee ee 58 
+eS I aT ee AAR passim 
+47 U.S.C. § 251(c) (1) ........ Pe PS Ns Eee ee 13, 54 
+gE 7 
+OF Ts ND cnc eeccccecccectseneceneceneecemeennesssnen passim 
+47 U.S.C. § 251(6) (4) once ccceccecececceceeceeeececeececeeeeee 9 
+47 U.S.C. § 251 (c) (4) (A) eee 12 
+BF ts OE OD CD eacccccccccceccocceccoccencconectenmsensennessnes 43 
+i i SE 10, 29 
+Oe ls eI OD occeccecennscsccsenccestuteneeneessectntsaanen 13, 54, 55 
+i TTR 13 
+Oe ts I CD cc eccceccceenececsecsnsncemseeneceentocesenee 13 
+gS | 5 en 11 
+47 U.S.C. § 252(d) (1) (A) once cceeeeeeeeeeneeeee 7 
+47 U.S.C. § 252(d) (1) (A) (i) once eeee 11 
+47 U.S.C. § 252(d) (1) (B) 7 
+I 12 
+nea a EN TT a 57 
+47 U.S.C. § 2562(@) (2) (A) oecccccccccecccccecececeseeererereceeeee 54 
+A RE ie ees acs EN aie 18, 57 
+NR a ATS Nea 7 
+ae Ae ae aa 14 
+LT ERATE 14 
+GT TRI, BGT) OB) ecnecccecccceccoscececceceoecoeencceeseeecoeeees 13 
+Ni NRE TN ETS ARN 13 
+TE Til eae 13, 14 
+SLE — A ae eR NN 14 
+I 46 
+eS AE RE RE a ae aN 89 
+
+
+x 
+TABLE OF AUTHORITIES—Continued 
+Page 
+op ERE SR en ne 18 
+EEA ORE ET 16, 22, 47 
+SD einrrcensccmnpsucemaecgepetineticccinaiods 16, 47 
+I Frccinttesttesncconnyenetenvecgeaneonmening! 16, 47 
+I a iccreninensnuttpajetinnenignintiinnes 16, 47 
+TTS EE 5 le I 16, 47 
+47 C.F.R. § 51.819 (f) —................. — 38 
+47 C.F.R. § 51.505 (b) (1) -............. FIRE 17 
+ED ccnttrctctnmncinizinnjgtgaiapmmiincmcme 55 
+Telecommunications Act of 1996, Pub. L. No. 104- 
+GE a ea 2 
+LEGISLATIVE MATERIALS 
+141 Cong. Rec. H8465 (daily ed. Aug. 4, 1995) ......... 8, 30 
+Communications Law Reform: Hearings Before 
+the Subcomm. on Telecommunications and Fi- 
+nance of the House Comm. on Commerce, 104th 
+I CE lic csi tnnaticchchiisecidiqnantiaiaidlinaiintedalstiatansn 8, 30 
+H.R. 1555, 104th Cong., ist Sess. RR A TS 39 
+H.R. Conf. Rep. No. 104-458 (1996) —........................ passim 
+H.R. Rep. No. 104-204 (1995) —................. 8, 5, 12, 43, 44, 46 
+S. Rep. No. 104-23 (1995) -.... 48, 45, 54 
+MISCELLANEOUS 
+ABA Section of Antitrust Law, Antitrust Law De- 
+velopments (4th ed. 1997) ..........-.-.----c---eece-eeeceneees 83-34 
+Philip E. Areeda & Herbert Hovenkamp, Antitrust 
+i eS ES aes Pee ono dae aN REN 30, 33 
+William Blumenthal, Three Vering Issues Under 
+the Essential Facilities Doctrine: ATM Net- 
+works as Illustration, 58 Antitrust LJ. 855 
+(genera SEES ESAS ee et nc EE ee SO 34 
+Hon. Stephen G. Breyer, Antitrust, Deregulation, 
+and the Newly Liberated Marketplace, 75 Calif. 
+Se Ff, FRR ie 2 Fh aie eae $1, 36 
+Michael K. Kellogg, John Thorne, and Peter 
+W. Huber, Federal Telecommunications Law 
+CRE cxccsssnscstisiocsarnnniasconsatsigisniubaresiidiapenptasiapenbiiminnes 8, 5 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Panel Discussion, Exclusionary Conduct, 57 Anti- 
+
+
+trust L.J. 728 (1989) 
+
+
+Gloria Tristani, Section 706: An 
+for Broadband Competition Policy (Apr. 27, 
+1998) <http ://www.fcc.gov/speeches/tristani / 
+
+
+spg807.html > 
+
+
+Page 
+
+
+34 
+
+
+—_ 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1997 
+
+
+Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 
+97-1087, 97-1099 and 97-1141 
+
+
+AT&T Corp., et al., 
+
+
+7 Petitioners, 
+
+
+IowA UTILITIES BOARD, et al., 
+
+
+Respondents. 
+
+
+‘U S WEST, INc., et ai., 
+Petitioners, 
+
+
+Vv. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION, ef al., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Eighth Circuit 
+
+
+OPENING BRIEF OF 
+RESPON DENT/CROSS-PETITIONER 
+U S WEST, INC. 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Relevant portions of the Communications Act of 1934, 
+as amended by the Telecommunications Act of 1996, 
+appear at Pet. App. 93a-130a* and in the appendix to 
+
+1“Pet. App.” refers to the appendix to the petition for a writ of 
+
+
+certiorari in AT&T Corp. v. lowa Utils. Bd., cert. granted, No. 97- 
+826 (Jan. 26, 1998), which has been consolidated with this case. 
+
+
+2 
+STATEMENT OF THE CASE 
+
+
+Providing a functioning local telephone service to con- 
+sumers requires the coordinated use of a variety of fa- 
+cilities, equipment, and personnel. Some aspects of the 
+business—for example, taking orders and sending bills— 
+use readily available inputs such as computers and pro- 
+grammers, and thus are within the easy grasp of anyone 
+with sound business skills 7 _ the necessary capital. The 
+business also requires a network of specialized equipment, 
+such as the switches that route calls and the wires that 
+actually transmit the calls from one point to another. 
+
+
+Until the 1990s, it was widely assumed that each local 
+market would support only one such network and that it 
+would be uneconomical to build alternative facilities. In 
+adopting the Telecommunications Act of 1996, Pub. L. 
+No. 104-104, 110 Stat. 56 (“Act” or “1996 Act”), Con- 
+gress reversed that assumption: It determined that de- 
+ploying alternative networks to provide local services 
+was no longer infeasible and that facilities-based com- 
+petition therefore should be permitted and encouraged. 
+
+
+Underlying Congress’ decision was the belief that poten- 
+tial new providers are now, or soon will be, able to build 
+or acquire most of the components needed to provide 
+local telephone service. To the extent that some facili- 
+ties cannot be reasonably duplicated, Congress required 
+incumbent carriers to share them with new entrants until 
+the newcomers are able to obtain such equipment in the 
+marketplace. In this way, Congress aimed to open the 
+m7rket for local telephone service to full and vigorous 
+competition more quickly than if each new entrant had 
+to complete its own network before offering service. 
+
+
+This case requires the Court to consider whether the 
+FCC in its First Report and Order* fundamentally dis- 
+torted Congress’ scheme by rejecting the view that the 
+
+
+2 Implementation of the Local Competition Provisions in the Tele- 
+communications Act of 1996, First Report and Order, 11 F.C.C.R. 
+15499 (1996) (“Order” or “First Report and Order”). 
+
+
+eed. 
+
+
+3 
+
+
+deployment of alternative facilities-based netw «ks by com- 
+peting local telephone service providers is now feasible and 
+desirable. Specifically, the FCC required established car- 
+riers to share with their competitors not only facilities that 
+remain difficult to duplicate, but all of their facilities, up to 
+and including the entire network, and even new facilities 
+that the carrier constructs in the future. The FCC also 
+required the sharing of business functions that are not 
+physical parts of the telephone network at all. And the 
+FCC required incumbent carriers to perform the work of 
+assembling their facilities into finished services on behalf 
+of new competitors. These requirements collapse two 
+distinct provisions of the 1996 Act, create opportunities 
+for regulatory arbitrage that Congress plainly did not 
+intend, and transform a regime designed to share facilities 
+that are economically necessary for competition into one 
+that grants virtually unlimited access to an incumbent 
+carrier’s entire business. In these and other respects, the 
+FCC’s Order is inconsistent with the 1996 Act. 
+
+
+A. Pre-1996 Regulatory Background 
+
+
+Before the 1990s, local telephone service was widely 
+understood to be a natural monopoly. As explained in a 
+leading treatise, “[t]he high cost of fixed plant, the steadily 
+declining average cost of service, and the need for all 
+customers to interconnect with one another made it seem 
+both sensible and inevitable to have a single monopoly 
+provider.” Michael K. Kellogg, John Thorne, and Peter 
+W. Huber, Federal Telecommunications Law 1 (1992). 
+Regulation of the industry was “premised on the belief 
+that service could be provided at the lowest cost to the 
+maximum number of consumers through a regulated 
+monopoly network.” Pet. App. 13la (Order 41). Most 
+States therefore granted an exclusive franchise in each 
+local telephone service area. See id.; H.R. Rep. No. 104- 
+204, at 49-50 (1995). The exclusive franchisees were 
+known as “local exchange carriers” or “LECs.” 
+
+
+4 
+
+
+Because there were no alternatives to the network facili- 
+ties operated by LECs, regulatory authorities treated the 
+facilities as quasi-public assets. LECs were regulated as 
+“common carriers,” meaning that they had to provide 
+service to all requesting customers on a 
+basis. As telecommunications technology became a cru- 
+cial component of computer and information services, the 
+FCC took steps to ensure for all potential competitors 
+“nondiscriminatory access to and use of common carrier 
+transmission facilities” that were “essential to the competi- 
+tive provision” of such services. Computer and Bus. 
+Equip. Mfrs. Ass'n, Report and Order, 93 F.C.C. 2d 1226, 
+1236 ¢ 32 (1983). 
+
+
+Similarly, the breakup of AT&T in the early 1980s 
+was designed to put an end to alleged anticompetitive 
+practices made possible by AT&T’s “control over the local 
+exchange facilities” that “were and are needed for inter- 
+connection purposes by AT&T’s competitors.” United 
+States v. AT&T, 552 F. Supp. 131, 162 (D.D.C. 1982).* 
+The theory was that long distance service was potentially 
+competitive, but that the ability to compete depended 
+on access to noncompetitive local facilities controlled by 
+AT&T. To prevent AT&T from discriminating against 
+its long distance competitors, AT&T was required to 
+spin off its local exchange facilities to independent Bell 
+Operating Companies, which in turn were required to pro- 
+vide access to all long distance and information service 
+providers on a nondiscriminatory basis. See id. at 196. 
+In short, the monopoly local exchange network could be 
+used by everyone, and LECs were required to provide 
+their essential service in a manner that would not favor 
+one user over another. 
+
+
+3 See also MCI Communications Corp. v. AT&T, 708 F.2d 1081, 
+11383 (7th Cir.), cert. denied, 464 U.S. 891 (1983) (concluding 
+that “AT&T had complete control over the local distribution facili- 
+ties that . . . were essential for MCI to offer [competing long dis- 
+tance] service” and that “[t]he facilities in question met the cri- 
+teria of ‘essential facilities’ in that ... [i]t would not be economi- 
+cally feasible for MCI to duplicate [AT&T’s] local distribution 
+facilities”). 
+
+
+5 
+
+
+In addition, states closely regulated the prices for local 
+service. State rate regulation established what 
+was in essence a regulatory compact with each LEC. The 
+LEC would effectuate state policies designed to promote 
+“universal service”—that is, to make basic telephone serv- 
+ice available to all customers at affordable rates. See, e.z., 
+H.R. Rep. No. 104-204, at 49-50 (1995). In return, 
+state regulators would protect the LEC’s opportunity to 
+earn a reasonable rate of return on its investments. See 
+Kellogg, et al., supra, at 429-31 (describing traditional 
+“rate-of-return” regulation). 
+
+
+The result of this compact was a state-mandated rate 
+structure in which prices for particular local telephone 
+services were based more on policy considerations than 
+on ordinary economic and market factors. Prices for some 
+services—specifically, residential service and service in 
+rural areas—were set artificially low, and prices for other 
+services were set correspondingly high. For example, busi- 
+ness customers generally paid substantially higher rates 
+than residential customers, even though the costs of pro- 
+viding the two types of service are roughly the same. See 
+Federal-State Joint Board on Universal Service, Report 
+and Order, 12 F.C.C. Red 8776, 8784 4 10-11 (1997). 
+Because LECs were required to serve all customers and 
+competing service providers were not permitted at all, there 
+was no risk of a carrier disrupting this cross-subsidy pric- 
+ing structure by serving only the most profitable custom- 
+ers. The system worked well, and residential customers 
+received rates that were often substantially below cost. 
+
+
+The states conducted detailed periodic ratemaking pro- 
+ceedings designed to ensure that these rate structures con- 
+tinued to produce overall revenues sufficient to enable 
+LECs to achieve reasonable rates of return. The oppor- 
+tunity to earn such a return, in addition to avoiding pos- 
+sible constitutional concerns, enabled the LECs to attract 
+the capital needed to fund investments in their networks. 
+See Duquesne Light Co. v. Barasch, 488 U.S. 299, 310 
+
+
+(1989) (utility must be permitted a rate that will allow 
+it to “ ‘maintain its financial integrity, to attract capital, 
+and to compensate its investors for the risk [they have] 
+assumed’” (quoting FPC v. Hope Natural Gas Co., 320 
+U.S. 591, 605 (1944))). Thus, the rate structures pre- 
+served the incentive and ability of LECs to invest in main- 
+taining and improving their networks and services, which 
+served the public interest in having a high quality and 
+
+
+B. The Telecommunications Act of 1996 
+In adopting the Telecommunications Act of 1996, Con- 
+
+
+managing the transition. Rather, the 1996 Act provides 
+
+
+share such facilities with other carriers so long as the 
+facilities remain essential to the ability to compete and 
+newcomers remain unable reasonably to build or acquire 
+
+
+7 
+
+
+them from alternative sources. Congress also permitted 
+carriers that wished to compete without any facilities of 
+their own to purchase the complete services of incumb« 
+LECs and to resell them, but under a separate 
+of the Act and subject to different pricing standards. Fi- 
+nally, to ensure that the onset of competition would nei- 
+ther undermine nor be undermined by universal service 
+policies, Congress launched a process to reform the meas- 
+ures used to support universal service. 
+
+
+1. The Act’s Structure for Promoting Competition 
+
+
+The Act opens the door to competition by expressly 
+preempting state and local barriers to entry in all seg- 
+ments of the telecommunications services market, intra- 
+state as well as interstate. 47 U.S.C. § 253. As a result, 
+states my no longer grant exclusive franchises to provide 
+local telephone service or otherwise arbitrarily limit par- 
+ticipation in the market. Other carriers now have the 
+legal right to build and operate local telephone networks 
+in competition with incumbent LECs. 
+
+
+Because a customer is unlikely to subscribe to a new 
+carrier’s service unless he can call and be called by users 
+of the incumbent LEC’s network, the Act requires incum- 
+bent LECs to interconnect their networks with those of 
+“any requesting telecommunications carrier.” 47 U.S.C. 
+§ 251(c)(2). With interconnection, a carrier can build 
+a network covering a small area—say, a single neighbor- 
+hood—and rely on the incumbent to carry traffic to and 
+from points outside that network. Thus, interconnection 
+enables a new entrant to launch itself as a facilities-based 
+competitor on a limited scale and then expand its opera- 
+tion over time. Incumbents may charge for providing in- 
+terconnection, but their rates must be “based on the cost” 
+of the service and “nondiscriminatory.” 47 U.S.C. 
+§252(d)(1)(A). The Act specifies that these cost-based 
+rates “may include a reasonable profit.” 47 U.S.C. 
+§ 252(d)(1)(B). 
+
+
+ui 
+
+
+Congress wanted and expected that the removal of entry 
+barriers and the right to interconnect with the incumbent's 
+network at cost-based prices would generate effective 
+facilities-based competition for local service. The Act's 
+procompetitive framework was intended to “accelerate 
+rapidly private sector deployment of advanced telecom- 
+munications and information technologies.” H.R. Conf. 
+Rep. No. 104-458, at 1 (1996) (“Conference Report”). 
+That goal plainly envisions new carriers deploying their 
+own advanced technology in competition with incumbent 
+LECs. The Conference Report expressly endorsed the 
+view that “meaningful facilities-based competition is pos- 
+sible.” Jd. at 148.4 Thus, Congress’ intention was to 
+encourage robust competition among providers with sepa- 
+rate networks, not competition in which all participants 
+are dependent on a single network operated by a single 
+carrier. 
+
+
+However, Congress also recognized that erecting a fully 
+functional local exchange network is a substantial task. 
+The Act therefore provides two distinct routes through 
+which a carrier may begin to offer a competing local 
+service without constructing a complete network of its 
+own. One route is to obtain access to selected individual 
+pieces of the incumbent LEC’s network, called “un- 
+bundled network elements,” which the new entrant may 
+
+
+4See also Communications Law Reform: Hearings Before the 
+Subcomm. on Telecommunications and Finance of the House Comm. 
+on Commerce, 104th Cong. 9 (1995) (statement of Rep. Schaefer) 
+(“[The Act’s approach to reform] rightly stresses a need for 
+facilities-based competitors to lead the way in providing a true 
+alternative to today’s monopoly in the local exchange service. In 
+fact, it is no exaggeration to say that the entire bill is premised on 
+the existence of robust facilities-based competitors.”); 141 Cong. 
+Rec. H8465 (daily ed. Aug. 4, 1995) (statement of Rep. Goodlatte) 
+(“The telecommunications legislation] gives new entrants the in- 
+centive to build their own local facilities-based networks, rather than 
+simply repackaging and reselling the local services of the local tele- 
+phone company. This is important if the information superhighway 
+is to be truly competitive.”). 
+
+
+use to fill in gaps in its own unfinished network. 47 
+U.S.C. § 251(c)(3). The other is to purchase complete 
+services from the incumbent LEC and resell them to end 
+users, thus enabling the new entrant to compete without 
+
+any new neiwork facilities at all. Jd. 
+§ 251(c)(4). 
+
+
+a. The Unbundled Access Provisions of Section 251 
+(c)(3). Some of the specialized telephone equipment that 
+was once expensive to duplicate is now, thanks to tech- 
+nological advances, not particularly difficult to build or 
+acquire. (Switching increasingly falls in this category.) 
+However, the provision of local exchange service also 
+requires some facilities that the incumbent LEC has had 
+in place for many years and that still may be difficult for 
+competitors to duplicate in the short run. For example, 
+developing widely available alternatives to the incumbents’ 
+sea aie th 0 ce er en ee 
+
+may be a gra and expensive process. Congress 
+recognized that, as a result, incumbent LECs may retain 
+dominant control over some such bottleneck facilities for 
+some time to come, at least in areas that are relatively 
+costly to serve.* 
+
+
+Section 251(c)(3) seeks to address this issue and facili- 
+tate entry by new facilities-based competitors by enabling 
+a competitor to lease selected “network elements” from the 
+incumbent and to combine those elements with its own fa- 
+cilities in order to provide service. 47 U.S.C. § 251(c)(3). 
+
+
+* Alternatives are being developed even to the incumbent LECs’ 
+local loops. See, e.g., “Section 706: An Opportunity for Broadband 
+Competition Policy,” Remarks of Gloria Tristani before the U S 
+WEST Regional Oversight Committee (Apr. 27, 1998) (available at 
+www .fec.gov/commissioners/tristani/gtsspeech.htm!) (“Fixed wire- 
+less technology may someday provide a cost effective and reliable 
+loop substitute. And cable lines are being upgraded to permit tele- 
+communications and Internet access.”) The difficulty of duplicating 
+particular facilities has tended to decline over time as technology 
+advances. The practicality of duplicating a facility also may vary 
+
+
+with geographic location, such facto 
+Sakedinadin depending on rs as population 
+
+
+10 
+
+
+The statute requires an incumbent LEC to provide a re- 
+questing carrier with access to network elements “on an 
+unbundled basis,” “at any technically feasible point,” and 
+“in a manner that allows requesting carriers to combine 
+such elements in order to provide . . . telecommunications 
+service.” Id. As the Conference Report explains, this pro- 
+networks, instead of needing a “fully redundant network in 
+place when they initially offer local service,” may begin to 
+provide service using “[{s]ome facilities and capabilities . . . 
+obtained from the incumbent local exchange carrier as net- 
+work elements.” Conference Report at 148 (emphasis 
+added). In other words, a competitor using unbundled 
+network elements configures and operates its own network 
+— it merely uses some parts obtained from the incumbent. 
+
+
+Not every network facility must be unbundled and 
+provided to competing carriers under section 251(c) (3). 
+The Act limits the scope of the unbundling requirement 
+by charging the FCC with the task of “determining what 
+network elements should be made available” under section 
+251(c)(3). 47 U.S.C. § 251(d)(2). Congress prescribed 
+specific criteria for the FCC to use in making this determi- 
+nation: The FCC must consider at a minimum whether 
+lack of access to the element in question would “impair 
+the ability” of a competitor to provide telephone service 
+or, in the case of a network element that is “proprietary 
+in nature,” whether access is “necessary” for the competi- 
+tor to provide service. 47 U.S.C, §§ 251(d)(2)(A), (B). 
+Thus, an incumbent LEC’s unbundling duty is limited to 
+those network facilities that, according to the FCC, need 
+to be available from the incumbent to enable the request- 
+ing carrier to compete effectively. 
+
+
+In addition, the Act defines a network element, not 
+broadly as any asset owned by an incumbent LEC, but 
+more narrowly as a “facility or equipment used in the 
+provision of a teletcommunications service” or the “fea- 
+tures, functions, and capabilities” provided by such a phys- 
+
+
+11 
+
+
+ical component of the network. 47 U.S.C. § 153(29). 
+Thus, network elements are individual, physical pieces of 
+the network that the incumbent LEC uses to route and 
+deliver calls. A carrier using unbundled elements pur- 
+chases these pieces individually and combines them with 
+its own facilities to create its own network. See 47 U.S.C. 
+§ 251 (c)(3) (“An incumbent local exchange carrier shall 
+provide such unbundled network elements in a manner 
+that allows requesting carriers to combine such elements 
+in order to provide such telecommunications service.”). 
+
+
+To ensure that an incumbent LEC’s essential facilities 
+would be available to new entrants on economically rea- 
+sonable terms, Congress made network elements subject to 
+the same cost-based pricing standard as interconnection: 
+Prices for unbundled elements must be based on the cost 
+to the incumbent LEC of providing them, must be non- 
+discriminatory, and may include a reasonable profit for 
+the incumbent. 47 U.S.C. § 252(d)(1). The Act ex- 
+pressly requires that such cost-based prices be determined 
+“without reference” to state ratemaking proceedings. 47 
+U.S.C. § 252(d)(1)(A) (i). The practical result has 
+been that Prices for unbundled elements, unlike state- 
+mandated prices for complete services, have not reflected 
+cross-subsidies designed to promote universal service. 
+
+
+b. The Resale Provisions of Section 251(c)(4). To 
+enable a new local carrier to enter the market on a vir- 
+tually immediate basis, the Act also provides carriers with 
+a distinct entry strategy that permits them to begin com- 
+peting without deploying any physical facilities of their 
+own or taking any responsibility for configuring a net- 
+work. Section 251(c)(4) allows a carrier to buy com- 
+plete local exchange telecommunications services from an 
+incumbent LEC at wholesale prices and then resell those 
+services to customers in competition with the incumbent. 
+
+
+This resale option provides a quick and easy initial 
+gambit for carriers seeking to enter the local telephone 
+market. However, the scope of a reseller’s competitive 
+
+
+12 
+
+
+activity is quite narrow. Since a carrier competing through 
+resale buys entire finished services from the incumbent, 
+see 47 U.S.C. § 251(c)(4)(A), its role is basically lim- 
+ited to marketing, billing, and collection. The work of 
+actually carrying the customer’s calls, as well as designing, 
+investing in, and maintaining the network that will carry 
+the calls, is handled exclusively by the incumbent LEC. 
+In this regard, section 251(c)(4) provides a very different 
+market entry strategy from section 251(c) (3). 
+
+
+Congress also subjected resale to an entirely different 
+pricing standard than unbundled network elements—a 
+“wholesale” standard that starts with the retail price and 
+subtracts the marketing costs avoided by the incumbent 
+LEC in selling at wholesale, thus maintaining intact any 
+universal service cross-subsidies. See 47 U.S.C. § 252 
+(d)(3). By basing wholesale prices on retail prices, the 
+Act ensures that the wholesale price for a service will re- 
+flect the same implicit contribution to support univer- 
+sal service (or receipt of such support) as the retail price 
+for the service. For example, if a state has set the retail 
+price of a particular service two dollars above cost (in- 
+cluding a reasonable profit) to help subsidize rates for 
+other services, the wholesale price for that service will 
+include the same two-dollar subsidy component. See H.R. 
+Rep. No. 104-204, at 72 (1995) (“[I]n determining the 
+resale rate, it is the Committee’s intent that there be a 
+recognition of pricing structures for telephone exchange 
+service in the State. . . . The rate should reflect whether, 
+and to what extent, the local dialtone service is subsi- 
+dized by other services.”’). 
+
+
+®The subsidy component is “implicit” because state regulators 
+generally do not specify the precise amount by which particular 
+services cross-subsidize or receive cross-subsidies from other 
+services. 
+
+
+13 
+
+
+2. Implementation through Negotiations and State Arbi- 
+tration 
+
+
+Consistent with its view that relations between market 
+participants should be governed as far as possible by mar- 
+ket forces rather than regulatory mandates, see, e.g., Con- 
+ference Report at 113 (describing the Act as creating a 
+“de-regulatory national policy framework”), Congress cre- 
+ated a system in which private negotiations between incum- 
+bent LECs and their competitors are the preferred method 
+for implementing the Act’s local competition provisions. 
+Section 251(c)(1) imposes on incumbent LECs and com- 
+peting carriers “[t]he duty to negotiate in good faith in 
+accordance with section 252 the particular terms and con- 
+ditions of agreements to fulfill the duties” described in 
+section 251. 47 U.S.C. § 251(c)(1). Therefore, where 
+a carrier wants to purchase interconnection, unbundled 
+elements, or wholesale services for resale from an incum- 
+bent LEC, the first step is to negotiate a “binding agree- 
+ment” with the incumbent for the purchase. 47 U.S.C. 
+§ 252(a)(1). Congress expressly directed that this volun- 
+tary negotiation process take precedence over regulatory 
+mandates: Section 252(a)(1) provides that an incumbent 
+LEC may negotiate an agreement with a competing carrier 
+“without regard” to any of the pricing, technical, and 
+quality standards set out in the Act. Id. The backstop to 
+these private negotiations is the possibility of action by 
+state public utility commissions. Either party to a negoti- 
+ation may ask the relevant state commission to mediate or 
+arbitrate unresolved issues. Id. §§ 252(a)(2), (b)(1). 
+
+
+3. Preservation and Reform of Universal Service 
+
+
+While the Act embraces competition and market forces, 
+it also makes clear that support for universal service must 
+not be impaired. The Act requires that support continue 
+to be provided at levels that are “sufficient” to “preserve 
+and advance” universal service. 47 U.S.C. §§ 254(b) (5), 
+(d), (e). Since full-fledged competition will make implicit 
+
+
+14 
+
+
+cross-subsidies through service prices unsustainable in the 
+long run, the Act requires the FCC to establish new mech- 
+anisms to support universal service that are “explicit and 
+“nondiscriminatory.” 47 U.S.C. §§ 254(b)(4), (e), (f). 
+The FCC must meet specific deadlines in carrying out its 
+responsibilities for universal service reform, but state action 
+to reform local rate structures is not subject to any time- 
+table. See 47 U.S.C. §§ 254(a), (f). 
+
+
+C. The FCC's First Report and Order 
+
+
+On August 8, 1996, the FCC released its First Re- 
+port and Order purporting to implement the Act's local 
+competition provisions. The Order adopted rules con- 
+cerning the scope of incumbent LECs’ unbundled access 
+obligations and a “pick-and-choose” rule giving competing 
+carriers a trump card in their negotiations and agreements 
+with incumbent LECs. As discussed in other briefs in 
+this case, the Order also displaced state authority over 
+local prices for interconnection and unbundled elements 
+with a complex and sweeping set of federal pricing rules. 
+
+
+1. The FCC’s Unbundled Access Rules 
+
+
+The Order established a series of rules specifying the 
+FCC’s interpretation of an incumbent LEC’s unbundled 
+access obligations under section 251(c)(3) of the Act. 
+The rules required the unbundling of practically every 
+aspect of an incumbent's business. Their cumulative ef- 
+fect was to enable an incumbent LEC’s competitors to 
+obtain complete, end-to-end service supplied entirely by 
+the incumbent at the cost-based prices reserved for net- 
+work elements. 
+
+
+First, the FCC ruled that, in carrying out its responsi- 
+bility under section 251(d)(2) to consider whether lack 
+of access to a particular unbundled element would “im- 
+pair” the ability of a competitor to offer service or whether 
+access to such an element is “necessary,” the agency will 
+not even consider the availability of substitutes from 
+
+
+sources other than the incumbent LEC. See Joint Ap- 
+pendix (“J.A.”) 51-52, 54-55 (Order 44 283, 287). The 
+FCC stated that the availability of elements from other 
+sources should be ignored “because, in theory, any new 
+entrant could provide all of the elements in the incum- 
+bents’ networks.” id. at 54-55 (Order 4 287). Apparently 
+rejecting Congress’ determination that facilities-based com- 
+petition is possible and desirable, the FCC also asserted 
+that limiting the scope of unbundling to elements not 
+readily available from other sources would require com- 
+peting carriers to “duplicate unnecessarily” parts of the 
+incumbent's network and thus “generate delay and higher 
+costs for new entrants.” Id. at 51-52 (Order 4 283); see 
+also id. at 54-55 (Order 4 287). The agency therefore 
+extended the unbundling obligations to “all network ele- 
+ments {of an incumbent LEC] for which it is technically 
+feasible to provide access,” including elements that are 
+readily available from other sources at reasonable prices. 
+Id. at 49, 53-54 (Order 44 278, 286) (emphasis added). 
+In short, the FCC held that the “impair” and “necessary” 
+standards are satisfied by virtually any potentially useful 
+incumbent LEC facility, regardless of how commonplace 
+or easy to duplicate. It declined to require any real show- 
+ing of need. See id. at 53-54 (Order 4 286) (“We con- 
+clude that the statute does not require us to interpret the 
+‘impairment’ standard in a- way that would significantly 
+diminish the obligation imposed by section 251(c)(3).”). 
+
+
+The FCC further interpreted the term “network ele- 
+ment” to include items that are neither discrete physical 
+parts of the network nor functions of such discrete physi- 
+cal parts. The FCC determined that services provided via 
+personnel and equipment entirely separate from the tele- 
+phone network itself could nonetheless be network ele- 
+ments. In particular, the Order classified as network ele- 
+ments such nonnetwork items as back-office support sys- 
+tems (for example, systems used to take orders from retail 
+customers) and operator services using human operators. 
+
+
+16 
+
+
+Id. at 116-17, 126-27 (Order €€ 516, 536). The FCC 
+further ruled that services such as caller I.D., call forward- 
+ing, and call waiting are included in the “local switching 
+element” despite the fact that they constitute complete re- 
+tail telecommunications services available to end user cus- 
+tomers and to the incumbent LEC’s competitors under 
+the Act’s resale provisions. Jd. at 87-89 & n.917 (Order 
+
+
+€€ 413-14 & n.917). 
+
+
+The FCC not only made virtually every aspect of an 
+incumbent LEC’s business available to new entrants under 
+section 251(c)(3), it also ruled that a new entrant may 
+obtain from the incumbent LEC the full set of network 
+elements necessary to provide a finished service. Pet. App. 
+242a-49a (€4 328-41). The agency further mandated that 
+the incumbent LEC provide the requested elements on a 
+combined basis: The FCC’s rules both required an in- 
+cumbent LEC to combine elements on its competitors’ 
+behalf and forbade an incumbent to separate any ele- 
+ments that it has already combined in its own network. 
+47 C.F.R. §§ 51.315(b)-(f).". As a result, an incum- 
+bent’s competitors could obtain a fully assembled com- 
+bination of all the elements needed to provide service, 
+the so-called “UNE platform.” Access to this “platform” 
+enables a competitor effectively to buy and resell the in- 
+cumbent’s finished local exchange services, without mak- 
+ing any investment in network facilities of its own and 
+without undertaking any of the tasks involved in con- 
+figuring and operating a network. Such a competitor need 
+not even determine which particular facilities will be used 
+to carry its customers’ traffic; it can force the incumbent 
+to do that for it as well. 
+
+
+7™The FCC’s rules further obligated an incumbent LEC to com- 
+bine network elements at the direction of a competitor to create even 
+services not offered by the incumbent itself. See 47 C.F.R. 
+§ 51.315(c) (requiring an incumbent LEC to “perform the functions 
+necessary to combine unbundled network elements in any manner, 
+even if those elements are not ordinarily combined in the incumbent 
+
+
+LEC’s network”). 
+
+
+a eed Bia ne 
+
+
+17 
+
+
+In short, these rules together allowed a competitor of 
+an incumbent LEC to purchase as unbundled network 
+elements virtually any functions the incumbent performs 
+as part of its business and order the incumbent to com- 
+bine those elements and use them to provide service on 
+behalf of the competitor. The competitor effectively could 
+obtain, at the cost-based prices reserved for network 
+elements, any service that the incumbent provides or is 
+capable of providing, for the competitor to resell to cus- 
+tomers under its own brand name—all without making 
+the slightest investment in facilities or systems of its own. 
+
+
+Moreover, the FCC ordered that, except for a limited, 
+temporary, and now-expired exemption, the cost-based 
+prices for unbundled network elements may not include 
+any part of the costs of supporting universal service (that 
+is, the costs of subsidizing residential and rural service). 
+See J.A. 153, 155-59 (Order €€ 712, 715-20).% As 
+a result, a competitor taking advantage of the FCC’s 
+rules to offer service entirely through unbundled network 
+elements could avoid contributing to the universal service 
+subsidies built into state-mandated rate systems. For 
+services priced above cost—for example, business services 
+—the carrier naturally would opt to buy the service as 
+a collection of combined elements, and thus pay a cost- 
+based rate, as opposed to buying it under the resale 
+Provision at the higher wholesale rate that includes sup- 
+port for universal service subsidies. In this way, the car- 
+rier could engage in regulatory arbitrage by taking advan- 
+
+
+® More generally, the FCC distorted the statute’s requirement of 
+cost-based rates by, among other things, ordering that rates be 
+based not on the actual cost of providing service, but rather on the 
+cost of providing service using a hypothetical, ideally efficient net- 
+work. See 47 C.F.R. § 51.505(b)(1) (prices must be “based on the 
+use of the most efficient telecommunications technology currently 
+available and the lowest cost network configuration”). The substan- 
+tive validity of this and other pricing rules is not before the Court 
+because the court of appeals vacated them on jurisdictional grounds. 
+
+
+18 
+
+
+tage of the difference between state-mandated retail prices 
+and unbundled element prices. 
+
+
+In addition to giving competitors cost-based, subsidy- 
+free access to any combination of an incumbent LEC’s 
+existing business assets, the FCC required the incumbent 
+LEC to make available network elements “superior in 
+quality to that which the incumbent LEC provides to 
+itself.” 47 C.F.R. § 51.311(c). As a result, a competi- 
+tor wanting something new, instead of investing itself in 
+an improved facility, could require the incumbent LEC 
+to make the necessary investment on its behalf. 
+
+
+The cumulative effect of the FCC’s unbundling rules 
+was to broaden greatly the opportunity and incentive of 
+new competitors to rely on the incumbent LEC’s network 
+instead of investing in facilities of their own. Any new 
+investment by the incumbent, no matter how easily avail- 
+able from other sources, had to be made available at cost- 
+based rates and combined by the incumbent LEC at the 
+behest of the competitor. In the FCC’s view, this dramatic 
+action was necessary to permit all competitors to share 
+whatever competitive advantage the incumbent LEC might 
+have—thus entirely depriving the incumbent of any such 
+advantage irrespective of whether access to the facilities 
+involved is truly necessary for the advancement of 
+competition. 
+
+
+2. The FCC’s “Pick-and-Choose” Rule 
+
+
+Section 252(i) of the Act requires an incumbent LEC 
+to offer a competing carrier any “interconnection, service, 
+or network element” that the incumbent has provided to 
+another carrier under a prior interconnection agreement, 
+on the “same terms and conditions” as in the prior agree- 
+ment. 47 U.S.C. § 252(i). The FCC invoked this non- 
+discrimination requirement as the basis for a quite differ- 
+ent rule that permits a competitor to pick and choose 
+isolated provisions from previous interconnection agree- 
+
+
+1g 
+
+
+ments and to take advantage of those provisions without 
+any obligation to accept terms and conditions that may 
+have been part of the quid pro quo for those provisions 
+in the original agreements. Pet. App. 261a-64a (Order 
+€¢ 1310, 1314-15). The FCC’s rule further creates a 
+unilateral right of competing carriers to change the terms 
+of previously concluded, purportedly “binding” intercon- 
+nection agreements. Specifically, the FCC decreed that a 
+competing carrier may at any time reopen a final, validly 
+negotiated or arbitrated interconnection agreement to in- 
+corporate any isolated term or condition found in a sub- 
+sequent interconnection agreement between the incumbent 
+LEC and another carrier. Id. at 264a-65a (Order 4 1316). 
+
+
+The FCC dismissed the concern that this “pick-and- 
+choose” rule would undermine the Act’s regime by render- 
+ing it irrational for incumbent LECs to make concessions 
+in negotiated agreements. The FCC's response focused 
+solely on whether the rule would benefit the incumbent 
+LEC’s competitors: “[W]Je observe that new entrants, who 
+stand to lose the most if negotiations are delayed, gener- 
+ally do not argue that concern over slow negotiations 
+would outweigh the benefits they would derive from being 
+able to choose among terms of publicly filed agreements.” 
+Id, at 263a (Order 4 1313). 
+
+
+8. The FCC’s Assertion of Jurisdiction over Pricing 
+
+
+Despite Congress’ decision to implement the require- 
+ments of section 251 primarily through private negotia- 
+tions backed up by the possibility of state-level mediation 
+or arbitration, the FCC promulgated a sweeping set of 
+detailed nationwide pricing rules. The lawfulness of the 
+FCC's assertion of jurisdiction over the pricing of inter- 
+connection and unbundled elements is a major focus of 
+other briefs in this case, and this brief does not discuss it. 
+
+
+D. The Appeal to the Eighth Cireuit 
+
+
+Incumbent LECs and state utility commissions sought 
+judicial review of the FCC’s First Report and Order, and 
+the cases were consolidated in the U.S. Court of Appeals 
+for the Eighth Circuit. The appeals focused on the FCC’ 
+rules concerning the scope of an incumbent LEC’s d ty to 
+provide unbundled access to network elements; the “pick- 
+and-choose” rule; and the FCC’s assertion of jurisdiction 
+over pricing. Many of the petitioners also requested a 
+stay of the Order, in whole or in part, pending the out- 
+come of the appeal. On October 15, 1996, the court of 
+appeals stayed the FCC’s pricing and “pick-and-choose 
+rules. J.A. 224-42. This Court declined to vacate the 
+stay. FCC v. lowa Utils. Bd., 117 S. Ct. 429 (1996). 
+
+
+After consideration on the merits, the court of appeals 
+issued a decision on July 18, 1997 invalidating a number 
+of the pertinent FCC rules, but upholding others. Pet. 
+App. 1a-67a. It upheld the FCC’s conclusion that the “im- 
+pair” and “necessary” standards in section 251(d)(2) do not 
+require the agency to be selective in determining what ele- 
+ments must be unbundled. In particular, the court held 
+that those standards “do not require an inquiry into 
+whether a competing carrier could obtain the element 
+from another source.” Id. at 47a-48a. The court reasoned 
+that requiring such an inquiry would severely narrow the 
+scope of an incumbent’s unbundling obligation because 
+“many network elements could theoretically be duplicated 
+eventually.” Jd. at 48a. The court also upheld the FCC's 
+determination that nonnetwork items such as back-office 
+support systems and end-user services such as caller 1.D. 
+can qualify as “network elements.” Jd. at 41a-45a. 
+
+
+However, the court of appeals rejected the FCC’s ex- 
+tension of the unbundled access oblization to all elements 
+for which unbundling is “technically feasible.” The court 
+held that section 251(c)(3) requires unbundled access 
+
+
+21 
+
+
+“at any technically feasible point” in order to establish 
+where access may occur, not which elements must be un- 
+bundled. /d. at 45a. The court likewise rejected the 
+FCC’s rules requiring an incumbent LEC to provide un- 
+bundled elements and interconnection of superior quality 
+to that which it provides to itself. Id. at 50a-52a. 
+
+
+The court also vacated the rules requiring incumbent 
+LECs to combine elements on behalf of their competitors. 
+The court explained that, “[w]hile the Act requires incum- 
+bent LECs to provide elements in a manner that enables 
+the competing carriers to combine them, unlike the Com- 
+mission, we do not believe that this languagy can be read 
+to levy a duty on the incumbent LECs to Jo the actual 
+combining of elements.” Id. at 53a. “{T]he plain mean- 
+ing of the Act,” the court continued, “indicates that the 
+requesting carriers will combine the unbundled elements 
+themselves; the Act does not require the incumbent LECs 
+to do all of the work.” Id. However, the court did not 
+address section 51.315(b) of the FCC’s rules. the provi- 
+sion that prohibited incumbent LECs from separating ele- 
+ments that were already combined in their networks. 
+
+
+The court upheld the FCC’s determination that carriers 
+with no facilities of their own may provide local service 
+entirely through unbundled elements, but also accepted 
+the premise, critical for the preservation of universal serv- 
+ice, that Congress did not intend unbundled access and 
+resale to be interchangeable. The court upheld the rule 
+precisely because it believed that “unbundled access has 
+several disadvantages that preserve resale as a meaningful 
+alternative.” Id. at 56a. Specifically, the court stated that. 
+in light of its ruling on the combination of elements. a 
+competitor providing service entirely through unbundled 
+elements is different from a reseller because it “expend[s] 
+valuable time and resources recombining unbundled net- 
+work elements.” Jd. at 56a-57a. The court also noted 
+that the competitor using network elements bears “greater 
+risks” in attempting to “match its supply with its demand.” 
+
+
+22 
+
+
+Id. at 56a. In other — = — is — 
+to the ordinary expenses business associa 
+with configuring and operating a local telephone network. 
+
+The court reaffirmed its rejection in its stay decision of 
+the FCC’s “pick-and-choose” and pricing rules. The court 
+explained that the “pick-and-choose” rule “would thwart 
+the negotiation process” required by the Act, because, 
+“fdjuring a negotiation, an incumbent LEC would be 
+very reluctant to make a concession on one term in €X- 
+change for a benefit on another term when faced with the 
+prospect that a subsequent competing carrier will be able 
+to receive the concession without having to grant the 
+incumbent the corresponding benefit.” Jd. at 26a. The 
+court also observed that the “pick-and-choose” rule con- 
+flicts with the Act’s requirement that negotiated agreements 
+be binding, “because, according to the FCC, an entrant 
+who is an original party to an agreement may unilaterally 
+incorporate more advantageous provisions contained in 
+subsequent agreements negotiated by other carriers.” Id. 
+With respect to the FCC’s pricing rules, the court held 
+that “the FCC exceeded its jurisdiction in promulgating 
+the pricing rules regarding local telephone service.” I/d. 
+at 8a. 
+
+
+Following the court of appeals’ decision, a number of 
+incumbent LECs filed petitions for rehearing urging the 
+court to vacate 47 C.F.R. § 51.315(b), the rule that 
+forbade incumbents from separating elements that are 
+currently combined in their networks. The petitions noted 
+that carriers such as AT&T and MCT had seized on the 
+court’s silence about rule 51.315(b) to argue to state com- 
+missions that those carriers were still entitled to get the 
+fully combined “platform” of network elements where 
+those elements are already combined in the incumbent's 
+network.” On October 14, 1997, the court of appeals 
+
+
+® See Petition for Rehearing of GTE entities, SBC Communica- 
+tions, Inc., BellSouth Corporation, and U S WEST, Inc., Jowa 
+
+
+23 
+
+
+granted the rehearing petitions and amended its opinion 
+to strike down rule 51.315(b) as contrary to the Act. 
+Reinforcing its earlier decision regarding network element 
+combinations, the court explained that “Section 251(c) (3) 
+requires an incumbent LEC to provide access to the ele- 
+ments of its network only on an unbundled (as opposed 
+to a combined) basis,” and “does not permit a new en- 
+trant to purchase the incumbent LEC’s assembled plat- 
+form(s) of combined network elements (or any lesser 
+existing combination of two or more elements).” Pet. App. 
+71a. The court stressed that “[t]o permit such an acqui- 
+sition of already combined elements at cost based rates for 
+unbundled access would obliterate the careful distinction 
+Congress has drawn in subsections 251(c)(3) and (4)” 
+between access to unbundled elements and the purchase 
+of services for resale. Id. 
+
+
+E. Certiorari Proceedings 
+
+
+The FCC, MCI, AT&T, and other parties filed peti- 
+tions for certiorari seeking review of the court of appeals’ 
+decision to vacate the FCC’s pricing rules, the “pick-and- 
+choose” rule, and rule 51.315(b). Incumbent LECs sub- 
+mitted conditional cross-petitions arguing that, if the Court 
+decided to review the court of appeals’ rejection of rule 
+51.315(b), it should consider the lower court's holdings 
+on the other unbundled access issues as well. On January 
+26, 1998 the Court granted certiorari on all of the issues 
+raised in the petitions and cross-petitions. 
+
+SUMMARY OF ARGUMENT 
+
+Through the unbundling and resale provisions in sec- 
+
+tions 251 and 252 of the Act, Congress devised a structure 
+
+
+that would promote a number of different goals—increased 
+competition, greater investment and innovation, the preser- 
+
+
+Utilities Board v. FCC (No. 96-8321 and consolidated cases, 8th 
+Cir.) at 2. 
+
+
+24 
+
+
+vation of universal service, and ultimately enhanced con- 
+sumer welfare. Congress sought to foster an environment 
+in which new entrants have the incentive to build their 
+own physical facilities to compete with the incumbents’ 
+networks because it understood that such independent 
+facilities are vital to creating a vigorous competitive 
+market in local telephony. At the same time, Congress 
+recognized that not every potential competitor could 
+immediately construct a complete alternative network. 
+To encourage the eventual development of facilities- 
+based competition, Congress granted newcomers the op- 
+tion to buy some unbundled physical inputs from the 
+incumbents to combine with their own incomplete sets of 
+facilities until they were able to assemble complete net- 
+works capable of providing finished services. Congress 
+also permitted competitors that wished to enter without 
+investing in any facilities to buy and resell incumbents’ 
+own finished services. 
+
+
+In structuring these alternative avenues of entry, Con- 
+gress struck a balance designed to give new entrants access 
+to incumbents’ networks and services where necessary to 
+enable them to begin to compete, while preserving new- 
+comers’ incentives to build their own facilities. That is, 
+Congress sought to ensure that the use of incumbents’ 
+unbundled facilities would not become so economically 
+attractive as to stifle any incentive for new entrants to 
+engage in facilities-based competition. In accordance with 
+this goal, the Act provides that incumbents can be re- 
+quired to unbundle only in cases where new entrants 
+truly need such elements to enter the marketplace, much 
+as antitrust law requires monopolists to provide access 
+only to those facilities that are essential to competitors. 
+This limitation is reinforced by the statute’s definition of 
+“network elements,” which includes only those parts of 
+an incumbent’s network that might not be reasonably 
+available to new entrants in the competitive marketplace 
+—the physical elements and their associated features and 
+
+
+functions. 
+
+
+25 
+
+
+Consistent with this concept of unbundling, the statute 
+also requires that incumbents provide the discrete, physi- 
+cal facilities to new entrants “in a manner that allows 
+requesting carriers to combine such elements” to provide 
+service. 47 U.S.C. § 251(c)(3). The statute thus makes 
+clear that the purchaser of elements is expected to design 
+and create a network of its own by combining the un- 
+bundled, “essential” elements it obtains from an incum- 
+bent with its own facilities. For a new competitor that 
+wants to Tely solely on an incumbent’s network and have 
+no facilities of its own, the statute provides the alternative 
+option of purchasing and reselling an incumbent's retail 
+services. However, a competitor that engages in resale 
+must buy services from the incumbent at prices based on 
+retail rates, rather than the cost-based prices for unbundled 
+network elements. By basing resale prices on retail rates, 
+Congress ensured that incumbents would not be deprived 
+of the universal service subsidies implicit in their rates. 
+
+In its Order, the FCC destroyed the statute’s careful 
+balance by focusing on helping new competitors without 
+regard to the statutory language or to the overall effects 
+of its es on Congress’ goals. Indeed, the FCC’s deci- 
+sions reflect a rejection of Congress’ intent to ote 
+facilities-based competition in favor of eae the 
+incumbent’s network into a wholesale platform for com- 
+petitors, at the expense of true competition, innovation and 
+investment, universal service, and ultimately the welfare 
+of consumers. The FCC unlawfully expanded the Act's 
+unbundling duty in four distinct but related ways: 
+
+
+First, the FCC effectively nullified Congress’ directive 
+that the agency consider “at a minimum” whether denial 
+of access to network elements would “impair” service or, 
+in the case of proprietary elements, whether access was in 
+fact necessary.” In particular, the FCC refused even to 
+consider whether an entrant can procure a particular 
+element from a source other than an incumbent, effectively 
+guaranteeing that an incumbent must provide every “net- 
+
+
+26 
+
+
+work element” to its competitors, rather than merely those 
+bottleneck local exchange facilities a competitor needs 
+but cannot reasonably duplicate. Second, the FCC com- 
+pounded this error by redefining “network element” to 
+include not only physical facilities and their accompany- 
+ing features and functions, but virtually every part of an 
+incumbent’s business, from its personnel to billing soft- 
+ware, even though such assets are not part of an incum- 
+bent’s network. 
+
+
+Through these two errors, the FCC transformed the 
+unbundling requirement from a limited right to obtain 
+“essential facilities” into a right to obtain virtually every 
+part of the incumbent’s business as a network element at 
+a price dictated by the FCC. And, far from backtracking 
+from this transformation, the FCC embraced it in two 
+additional parts of its Order. In its third unlawful expan- 
+sion of the unbundling obligation, the FCC determined 
+that a competitor could buy all the network elements 
+needed to provide service under the pretense of buying 
+them as individual pieces, so that the competitor could 
+rely exclusively on unbundled network elements from an 
+incumbent to provide finished services without having any 
+facilities of its own. Finally, the FCC completed its work 
+by deciding that competitors were entitled to acquire all 
+of these pieces from the incumbent in precombined form 
+as a fully assembled network. 
+
+
+In addition to defeating Congress’ purposes in the Act’s 
+unbundling and resale provisions, the FCC further under- 
+mined the statutory structure by taking the straightforward 
+nondiscrimination requirement in section 252(i) of the 
+Act—under which an entrant can take for itself a prior 
+interconnection agreement if it is willing to accept all the 
+terms of that agreement—and reconstructing it as an 
+extraordinary right of an entrant ‘o “pick and choose” 
+any individual term from the incumbent’s past and future 
+agreements with other carriers, even after the entrant has 
+signed an agreement with the incumbent. In other words, 
+
+
+Ee —* 
+
+
+27 
+
+
+the entrant may at any time have the full commercial 
+benefit of any isolated provision in any other agreement, 
+entirely uncoupled from the balance of that agreement. 
+In requiring this, the FCC made a mockery of the com- 
+mercial negotiations that are central to the implementa- 
+ye a? section 252 and contradicted the statute’s 
+ve interconnection 
+“binding.” agreements are to be 
+Each of these decisions by the FCC is contrary to the 
+language, structure, and purposes of the 1996 Act. More 
+significantly, the combined effect of these decisions is to 
+undermine entirely the balanced regime Congress created. 
+The agency’s rules defeat the goal of promoting facilities- 
+based competition by collapsing the statutory distinction 
+between unbundled network elements and resale and cre- 
+ating an economically irrational model in which competi- 
+tors have no reason to invest in their own facilities, in- 
+cumbents have no incentive to innovate, and traditional 
+universal service support is undermined. 
+
+
+ARGUMENT *” 
+
+
+I. THE FCC’S UNBUNDLING RULES COLLAPSE THE 
+CAREFUL STRUCTURE OF THE ACT AND DE- 
+
+
+FEAT THE GOALS CONGRESS SOUGHT TO 
+ACHIEVE. 
+
+
+In the Telecommunications Act of 1996, Congress did 
+not simply declare that local communications markets 
+should be opened to competition and leave to the FCC 
+the question of how best to reach that goal. To the con- 
+trary, Congress mapped out in detail the ways in which 
+new entrants could use incumbents’ facilities and services 
+in entering local exchange markets, a map that it expected 
+
+
+" U S WEST incorporates by reference the argument made in the 
+brief for Bell Atlantic Corp., BellSouth Corp., and SBC Communica- 
+tions, Inc. concerning the court of appeals’ ruling that the FCC 
+exceeded its jurisdiction with respect to pricing. See Opening Brief 
+of Respondents/Cross-Petitioners Bell Atlantic Corp., BellSouth 
+Corp., and SBC Conmimunications, Inc. (May 18, 1998). 
+
+
+28 
+
+
+the FCC to follow. This case is about the FCC’s refusal 
+to heed Congress’ will. 
+
+
+Despite the FCC’s attempts to cloak itself in the pro- 
+tective mantle of Chevron, its unbundling rules are con- 
+trary to the plain meaning of the 1996 Act, as evident 
+from its language, structure, and legislative history. See 
+Chevron U.S.A. Inc. v. Natural Resources Defense Coun- 
+cil, Inc., 467 U.S. 837, 842-43 & n.9 (1984) (if by 
+“employing traditional tools of statutory construction” the 
+Court finds Congress’ intent to be clear, then “that is the 
+end of the matter”). The FCC’s attempt to have this 
+Court review each of its individual decisions in isolation 
+and to claim deference as to each of these discrete issues 
+ignores this Court’s oft-repeated admonition that, “in as- 
+certaining the plain meaning of the statute, the court must 
+look to the particular statutory language at issue, as well 
+as the language and design of the statute as a whole.” 
+Sullivan v. Everhart, 494 U.S. 83, 89 (1990) (emphasis 
+added). 
+
+
+While each individual deviation from the Act is im- 
+portant by itself, the cumulative effect of the FCC’s errors 
+is utterly inconsistent with the design of the 1996 Act as 
+a whole. The FCC disregarded Congress’ intention that 
+incumbents be required to provide only those network 
+elements that their competitors truly need, extended the 
+definition of network element to encompass virtually every 
+part of an incumbent’s business, and permitted entrants to 
+procure all the elements needed to provide a service on a 
+precombined basis. By these decisions, the FCC abro- 
+gated Congress’ careful distinction between unbundled net- 
+work elements and resale and undermined the development 
+of facilities-based competition, discouraged innovation, and 
+put at risk universal service support. The court below, 
+while failing to correct all of these errors, mitigated their 
+cumulative effect by vacating the FCC’s rules requiring 
+incumbents to provide network elements as precombined, 
+assembled network platforms. Even so, the court below 
+
+
+29 
+
+
+did not go far enough. The FCC’s “ ‘construction{] of 
+[the] statute . . . [is] inconsistent with the statutory man- 
+date [and] frustrate[s] the policy that Congress sought to 
+implement’” and therefore must be rejected. Securities 
+Indus. Ass'n v. Board of Governors of the Fed. Reserve 
+Sys., 468 U.S. 137, 143 (1984) (quoting FEC v. Demo- 
+
+
+cratic Senatorial Campaign Comm., 454 U.S. 27, 32 
+(1981)). 
+
+
+A. The FCC Unlawfully Nullified the Act’s Standards 
+for What Network Elements Must Be Unbundled. 
+
+
+The Act draws clear limits around what “network ele- 
+ments” must be unbundled. Section 251(d)(2) charges 
+the FCC with the task of “determining what network 
+elements should be made available” under section 251 
+(c)(3). 47 US.C. §251(d)(2). Congress prescribed 
+that the FCC “shall consider, at a minimum,” whether 
+the failure to provide access to particular network ele- 
+ments would “impair” the ability of the requesting carriers 
+to provide service and whether access to proprietary net- 
+work elements is “necessary.” 47 U.S.C. § 251(d)(2) 
+(emphasis added). These statutory commands reflect Con- 
+gress’ recognition that access to an unbundled element of 
+the incumbent’s network is economically justified only 
+when a new entrant genuinely needs the element in order 
+to compete and the element is not readily available in the 
+marketplace. As AT&T explained in its opening brief, 
+the goal of these provisions was to “allow new entrants 
+to obtain essential facilities that a LEC controls.” AT&T 
+Br. at 2 (emphasis added). And determining whether an 
+incumbent’s facility is essential or needed by a competitor 
+requires examining whether and how easily it can dupli- 
+cate the equivalent facility itself. 
+
+
+By mandating an evaluation of need—under the “im- 
+pair” and “necessary” standards—Congress sought to en- 
+courage hew entrants to rely on nonincumbent facilities 
+where possible, in order to promote facilities-based com- 
+petition and encourage innovation. See, e.g., H.R. Conf. 
+
+
+30 
+
+
+Rep. No. 104-458, at 1 (1996) (passage of the Act would 
+“accelerate rapidly private sector deployment of advanced 
+telecommunications and information technologies”) (“Con- 
+ference Report”); In the Matter of Amendment of the 
+Commission's Rules to Establish Competitive Service Safe- 
+guards for Local Exchange Carrier Provision of Com- 
+mercia! Mobile Radio Services, Notice of Proposed Rule- 
+making, Order on Remand, and Waiver Order, 11 
+F.C.C.R. 16639, 16678-79 § 80 (1996) (“The intercon- 
+nection provisions of the Act, Section[s] 251 and 252, are 
+designed to promote facilities-based local exchange com- 
+petition.” ).” 
+
+After all, it is precisely where the new entrant can 
+provide or acquire its own competitive facilities that the 
+potential to increase the choices available to consum- 
+ers is greatest: “[C]ompetition [is] increased by encourag- 
+ing [firms] to [develop rival facilities], rather than taking 
+the easier and less competitive course of obtaining access 
+to another’s facilities.” 3A Philip E. Areeda & Herbert 
+Hovenkamp, Antitrust Law 4 773b1 (1996). A competi- 
+tor that depends on an incumbent’s network cannot com- 
+pete on the basis of operational efficiency or upgrade the 
+network, and it has limited ability to create new services. 
+A facilities-based competitor, on the other hand, is a rival 
+to the incumbent at every level of operation and has in- 
+centives to invest in the creation of innovative technologies 
+and services and to achieve operational economies. 
+
+
+11 See also Communications Law Reform: Hearings Before the 
+Subcomm. on Telecommunications and Finance of the House Comm. 
+on Commerce, 104th Cong. 9 (1995) (the Act “rightly stresses a 
+need for facilities-based competitors to lead the way in providing a 
+true alternative to today’s monopoly in the local exchange service. 
+In fact, it is no exaggeration to say that the entire bill is premised 
+on the existence of robust facilities-based competitors”) (statement 
+of Rep. Schaefer); 141 Cong. Rec. H8465 (Aug. 4, 1995) (the Act 
+is intended to “give[] new entrants the incentive to build their own 
+local facilities-based networks, rather than simply repackaging and 
+reselling the local services of the local telephone company”) (state- 
+ment of Rep. Goodlatte). 
+
+
+oer 
+
+
+31 
+
+
+In its zeal to aid competitors without regard to the 
+effects on facilities-based competition, the FCC adopted 
+rules that unlawfully thwarted Congress’ intent. See gen- 
+erally Hon. Stephen G. Breyer, “Antitrust, ion, 
+and the Newly Liberated Marketplace,” 75 Calif. L. Rev. 
+1005, 1018 (1987) (“A ... . special policy risk of de- 
+regulation is that government policymakers will protect 
+[new] competitors instead of protecting competition.”). As 
+the court below explained, the FCC determined that the 
+“impair” and “necessary” standards did “not require an 
+evaluation of whether a requesting carrier could obtain 
+the desired elements from an alternative source,” but 
+instead authorized the FCC to consider solely the other 
+elements that the new entrant could obtain from the in- 
+cumbent LEC’s own network. Pet. App. 47a. Rather than 
+constituting a meaningful evaluation of whether the facili- 
+ties in question are truly needed by a competitor, the 
+FCC’s reading of the Act renders irrelevant even readily 
+available alternatives outside the incumbent LEC’s net- 
+work that could enable the newcomer to provide service 
+equal in quality and cost to what is achievable using the 
+incumbent's facilities. Thus, the FCC guaranteed each 
+competitor the ability to acquire from incumbents every 
+network element it desires to provide service no matter 
+
+
+i easily the competitor could obtain a substitute else- 
+where. 
+
+
+That approach defies the plain meaning of the Act. 
+Failure to obtain an element from an incumbent cannot 
+“impair” a new entrant’s ability to provide service, and 
+access to a proprietary element from an incumbent cannot 
+be “necessary,” if an equivalent element is readily available 
+from a source other than the incumbent. When Congress 
+directed the FCC to consider the “impair” and “necessary” 
+standards in deciding whether to require unbundling of a 
+particular element, it obviously intended that there be 
+some showing of need before the incumbent could be re- 
+quired to unbundle any particular element, not that a 
+competitor could commandeer any of an incumbent’s facili- 
+
+
+32 
+
+
+ties whenever convenient. Even the FCC concedes that the 
+unbundling provisions authorize competitors to obtain 
+access to “elements they need (and not elements they do 
+not need).” FCC Br. at 5. Whatever the degree of need 
+that must be shown, the competitor’s need to obtain the 
+element from the incumbent cannot be evaluated without 
+at least considering what the competitor can procure else- 
+where.” 
+
+
+The FCC’s primary justification for ignoring all sources 
+outside the incumbent’s network was its assertion that any 
+consideration of nonincumbent sources might require new 
+entrants to “duplicate unnecessarily even a part of the 
+incumbent’s network.” J.A. 51-52, 54-55 (Order @4 283, 
+287). But this justification merely illustrates the FCC's 
+transformation of Congress’ objective-—facilities-based 
+competiticn—into a pejorative. Facilities-based competi- 
+tion by definition involves duplication of facilities. The 
+FCC disagrees with this goal, apparently preferring to 
+perpetuate markets in which incumbent LECs own the 
+only facilities used for telecommunications services and 
+are forced to share those facilities with competitors under 
+regulatory supervision. But the FCC is bound by Con- 
+gress’ contrary choice: “(RJapid[] private sector deploy- 
+ment of advanced telecommunications and information 
+technologies,” Conference Report at 1, requires building 
+new facilities. 
+
+The FCC also sought to rationalize its decision to dis- 
+regard what is available from sources other than the in- 
+
+
+cumbent on the theory that “ultimately” every facility can 
+be replicated and thus consideration of outside sources 
+
+
+12 Indeed, by so severing the relationship between the incumbent's 
+obligation to provide its facilities to a competitor and the competi- 
+tor’s true economic need for the facilities, the FCC threatens to run 
+afoul of this Court’s repeated statement that “one person's prop- 
+erty may not be taken for the benefit of another private person 
+without a justifying public purpose, even though compensation be 
+paid.” Hawaii Housing Auth. v. Midkiff, 467 U.S. 229, 240 (1984) 
+(quoting Thompson v. Consolidated Gas Corp., 300 U.S. 55, 80 
+(1937) ). 
+
+
+33 
+
+
+would mean that none of the incumbent's facilities would 
+be made available. J.A. 54-55 (Order € 287). Or, as the 
+court below put it, considering outside sources might limit 
+the availability of unbundled network elements “because 
+many network elements could theoretically be duplicated 
+eventually.” Pet. App. 48a. But the fact that availability 
+is a matter of degree or that it may change over time 
+merely means that the FCC must inquire into actual mar- 
+ket conditions to determine where to draw a line as to the 
+degree of availability that will warrant a finding of lack 
+of “impairment” and that such a line might change over 
+time. The FCC’s reading of the statute simply bypasses 
+these issues by making an alternative facility irrelevant 
+even if it is readily available today at the same or lower 
+price than the incumbent's. 
+
+
+The FCC’s refusal even to consider the availability of 
+facilities outside an incumbent's network is inconsistent 
+with not only the terms of the statute but also basic 
+economic principles. When the government “order[s] the 
+[monopolist] to provide the facility and regulat[es] the 
+price to competitive levels, then the [prospective entrant's] 
+incentive to build an alternative facility is destroyed alto- 
+gether. . . . [Loss of incentive to build] could be extremely 
+serious . . . in the case where either the [entrant] or some 
+other rival could enter the market by some alternative 
+not requiring the sharing of the [monopolist's] facility.” 
+3A Areeda & Hovenkamp, supra, 4 77 1b. 
+
+
+Not surprisingly then, in the closely analogous context 
+of the “essential facilities” doctrine, under which monop- 
+olists are required to provide prospective competitors with 
+access to their essential facilities to aid the development 
+of competition, a facility must be turned over for use by 
+competitors only if it is not “available from another source 
+or capable of being duplicated by the [competitor] or oth- 
+ers.” Jd. €773b." The lower courts are unanimous in 
+
+
+18 See also ABA Section of Antitrust Law, Antitrust Law Devel- 
+opments 280 (4th ed. 1997) (“It is insufficient, however, for a 
+
+
+34 
+
+
+holding that a prerequisite to requiring a monopolist to 
+turn over an essential facility is “a competitor’s inability 
+practically or reasonably to duplicate” the facility. MCI 
+Communications Corp. v. American Tel. & Tel. Co., 708 
+F.2d 1081, 1132-33 (7th Cir.), cert. denied, 464 U.S. 891 
+(1983).% The FCC’s refusal even to consider whether 
+or how easily an element could be obtained from a source 
+other than the incumbent cannot be reconciled with the 
+
+
+statutory language or these underlying principles.” 
+
+
+plaintiff to allege that access to one facility is simply ‘more eco- 
+nomical’ than other alternatives ... .”); William Blumenthal, 
+“Three Vexing Issues Under the Essential Facilities Doctrine: ATM 
+Networks as Illustration,” 58 Antitrust L.J. 855, 860 (1989) (“In 
+light of the potentially perverse competitive incentives created by 
+the opportunity for compulsory access, a plaintiff should not be 
+granted access in an essential facilities case unless alternatives to 
+the facility are extraordinarily difficult for anyone to put in place.” 
+(citations omitted)); Panel Discussion, “Exclusionary Conduct,” 
+57 Antitrust L.J. 723, 742 (1989) (“There is a great danger in .. . 
+the notion that it somehow is easy to let competitors have access 
+without impairing the facility.”) (comments by William Baxter). 
+
+
+™ See also Twin Labs. Inc. v. Weider Health & Fitness, 900 F.2d 
+566, 568 (2d Cir. 1990); Ideal Dairy Farms, Inc. v. John Labatt, 
+Ltd., 90 F.3d 737, 748 (3d Cir. 1996); Laurel Sand & Gravel, Inc. 
+v. CSX Transp., Ine., 924 F.2d 589, 544 (4th Cir.), cert. denied, 
+502 U.S. 814 (1991); City of Malden v. Union Elec. Co., 887 F.2d 
+157, 159 (8th Cir. 1989) ; City of Anaheim v. Southern Calif. Edison 
+Co., 955 F.2d 1378, 1380 (9th Cir. 1992); McKenzie v. Mercy Hosp., 
+854 F.2d 365, 369 (10th Cir. 1988), overruled on other grounds by 
+SystemCare, Inc. v. Wang Labs. Corp., 117 F.3d 1137 (10th Cir. 
+1997). 
+
+
+The FCC’s seeming blindness to the relationship between net- 
+work elements and the concept of “essential facilities” is particu- 
+larly perplexing in light of its recognition elsewhere that Congress’ 
+focus in the 1996 Act was the control of essential facilities: “{T)he 
+structural and nondiscrimination requirements [of section 272] 
+taken together were intended by Congress to effectuate the goal of 
+preventing anticompetitive abuses by BOCs that control essential 
+local facilities and seek to enter competitive markets that require 
+these facilities as an input.” Implementation of the Non-Accounting 
+Safeguards of Sections 271 and 272 of the Communications Act of 
+
+
+35 
+
+
+The FCC's evisceration of the statutory “impair” and 
+“necessary” standards also means that a new entrant's en- 
+titlement to particular network elements will not change 
+as the marketplace evolves. Even if lack of access to a 
+
+
+cess to , 
+petitor establishes itself in the marketplace, it may cap- 
+ture a sufficient number of customers to generate the 
+economies of scale that would allow it to build particular 
+i were not feasible for it to build on initial 
+entry. See AT&T Br. at 14 (Congress intended unbun- 
+dled elements to allow “new entrants to share in whatever 
+economies of scale inhere in particular LEC facilities”). 
+Such developments clearly would affect whether lack of 
+access to the incumbent's facility would “impair” the new- 
+comer’s ability to compete under any common sense mean- 
+ing of the term—yet under the FCC’s construction of the 
+Act such developments are to be ignored entirely. 
+
+
+The FCC’s rule makes even less sense in the context 
+
+
+to the unbundling of such elements, because it no doubt 
+understood that an incumbent LEC will not invest in 
+research and development if its innovations must auto- 
+matically be turned over to rivals. See, e.g., Kewanee Oil 
+Co. v. Bicron Corp., 416 U.S. 470, 480 (1974) (right of 
+
+
+1934, as Amended, Second Order on Reconsideration, 12 F.C.C.R. 
+8653, 8658 (1997) (emphasis added). 
+
+
+16 See, e.g., supra note 5. 
+
+
+36 
+exclusivity provides “an incentive to inventors to risk the 
+often enormous costs in terms of time, research, and 
+development”)."" Nevertheless, the FCC decided that, 
+where an incumbent invests in developing a new proprie- 
+tary service or feature, the incumbent can be forced im- 
+mediately to turn that service or feature over to its com- 
+petitors at cost regardless of whether the competitors can 
+obtain its equivalent elsewhere. 
+
+The only situation in which the FCC did not require 
+an incumbent to turn over a proprietary element is if a 
+nonproprietary element in the incumbent's own network 
+can perform the same function equally well at the same 
+or lower price. J.A. 51-52 (Order ¢ 283). Of course, the 
+incumbent would have had no reason to develop the pro- 
+prietary element in the first place if it already had other 
+elements capable of performing the same function equally 
+well. Congress wanted the Act to spur innovation, not 
+retard it. However, the effect of the FCC’s nullification of 
+the necessary standard, as even the FCC admitted in its 
+order, id. at 50-51 (Order € 282), will be to reduce in- 
+cumbents’ incentives to innovate in direct contravention of 
+Congress’ intent. 
+
+
+B. The FCC Unlawfully Expanded the Act’s Definition 
+of “Network Element.” 
+
+
+The FCC not only ignored the Act’s express limitations 
+on the availability of “network elements” to an incum- 
+bent’s competitors. It compounded the anticompetitive 
+effect of that decision by rejecting the statutory limitations 
+in the definition of “network element” itself. The FCC 
+expanded the definition to encompass not just certain 
+physical elements of an incumbent’s network, but essen- 
+tially all of the incumbent's productive assets and services, 
+
+
+17 See also Hon. Stephen G. Breyer, “Antitrust, Deregulation, and 
+the Newly Liberated Marketplace,” 75 Calif. L. Rev. 1005, 1054 
+(1987) (because “requiring an inventor . . . to give his secrets 
+away to his competitors discourages innovation,” courts have re- 
+quired bottleneck facilities to be turned over to competitors only in 
+rare instances). 
+
+
+37 
+
+
+even those involving ordinary business skills and personnel 
+as SENSES SONY SORES Gupwll Sex Meee ot Dine 
+
+
+The Act defines “network element” as a “facility or 
+equipment,” together with “features, functions, and capa- 
+bilities that are provided by means of such facility or equip- 
+ment.” 47 U.S.C. § 153(29) (emphasis added.) Thus, the 
+concept of network elements under the Act is rooted in the 
+discrete physical equipment that carriers use in providing 
+local exchange service. Indeed, the very term “network 
+element” reinforces this meaning. After all, an incum- 
+bent’s “network” is made up of the wires and switches 
+that carry telephone calls. Moreover, a facility can only 
+be a “network element” if it is “used in the transmission, 
+routing, or other provision of a telecommunications serv- 
+ice.” Id. ‘hrough its use of terms such as “transmission” 
+and “routing,” Congress made clear that “network ele- 
+
+
+ments” refer to those pieces of equipment that the carrier 
+uses for call delivery.” 
+
+
+This straightforward definition of “network element” 
+reinforces the effect of the “impair” and “necessary” limi- 
+tations in section 251(d): to give new entrants access to 
+those of the incumbent LECs’ physical assets they need 
+to provide telecommunications service but cannot reason- 
+ably duplicate (at least in short term). “Network ele- 
+ment” does not encompass aspects of an incumbent's 
+business that Congress had no reason to believe posed an 
+entry barrier, such as backroom functions that any new 
+competitor could reasonably perform for itself. 
+
+
+The FCC, however, construed “network element” so 
+broadly that it effectively permits an incumbent’s competi- 
+tors to demand access on an unbundled basis to every 
+part—both physical and nonphysical—of an incumbent's 
+
+
+'® Congress’ use of the term “other provision” in the definition 
+does not, under the principle of ejusdem generis, expand network 
+
+
+elements to include nonphysical aspects of an incumbent's business. 
+See infra at 40. 
+
+
+38 
+
+
+business. Under the FCC’s Order, “network element” in- 
+cludes not just facilities and equipment that are used to 
+deliver calls, but also systems and functions that have no 
+role in transmitting or routing a call over the network. 
+For example, the Order requires incumbent LECs to un- 
+bundle their “operational support systems.” 47 C.F.R. 
+§ 51.319(f). These are computers and software used in 
+an incumbent’s customer service operations, not facilities 
+or features that are used to route or transmit telephone 
+calls. As their name suggests, they are support systems 
+that an incumbent uses to run its business: to process 
+orders, dispatch repairmen, and keep track of customer 
+service requests. Requiring an incumbent to make these 
+support functions available to competitors has nothing to 
+do with unbundling the pieces of the network that the 
+incumbent uses to deliver calls. And it has nothing to do 
+with essential facilities—an incumbent’s competitor can 
+write or buy computer software as easily as the incumbent 
+can. As a result, neither the plain terms nor the purposes 
+of the definition of “network element” in the Act reach 
+these software systems. 
+
+
+Indeed, the FCC does not even attempt to characterize 
+these support systems as part of the equipment used to 
+carry a call. To the contrary, the FCC declares that its 
+objective in requiring incumbents to provide these support 
+systems to their competitors is to ensure that the com- 
+petitors will be able to perform business functions such as 
+“pre-ordering, ordering, . . . and billing,” J.A. 118 (Or- 
+der € 518), and “basic service functions [such] as sched- 
+uling customer appointments,” id. at 118-20 (Order 
+€ 519), in “substantially the same time and manner that 
+an incumbent can for itself,” id. at 118 (Order € 518). 
+But nothing in Congress’ definition of network elements 
+suggests that the incumbents’ business skills—especially 
+those that are not at all unique to the telecommunications 
+business—must be turned over to competitors. 
+
+
+39 
+
+
+The FCC again disregarded the text of the statute in 
+deciding that services offered by incumbent LECs, such 
+as operator services and directory assistance, should be 
+treated as “elements” subject to unbundling. See id. at 125- 
+29 (Order 4 534-40). The FCC requires incumbents 
+to make available to competitors the resources that incum- 
+bents use in providing these services, including their own 
+staffs (that is, the operators themselves). See 47 C.F.R. 
+§ 51.5 (defining the operator services subject to unbun- 
+dling as including “live assistance” to customers and “op- 
+erator-assisted directory assistance”). But such services 
+(not to mention people) are not even remotely within the 
+definition of “network element.” They are not “facilities” 
+or equipment” in the network. Nor are they “features 
+functions or capabilities . . . provided by means of” such 
+facilities. And incumbents are not uniquely able to as- 
+semble staffs of operators. In fact, although the unbun- 
+dling provision of the House bill originally applied to 
+services, elements, features, functions, and capabilities,” 
+the Conference Committee chose to delete the term “sery- 
+ices” when it defined the scope of unbundling. Compare 
+H.R. 1555, 104th Cong., Ist Sess. § 242(a)(2) (1995) 
+(emphasis added) with 47 U.S.C. § 251(c)(3). The FCC 
+has simply reversed Congress’ decision. 
+
+
+The defect in the FCC’s interpretation is further high- 
+lighted by its conclusion that “vertical services” such as 
+call forwarding and call waiting are network elements. 
+Vertical services are complete telecommunications services 
+——not facilities—that incumbents sell at retail and thus 
+must allow their competitors to buy at wholesale rates and 
+then resell under section 251(c)(4). But the FCC's 
+rules entitle competitors to obtain access to these same 
+vertical services as network elements at cost-based rates. 
+Thus, the FCC requires incumbents to make identical 
+services available to competitors at two different prices. 
+Doing so collapses the Act’s two distinct means of accel- 
+erated entry for competitors—resale of service purchased 
+
+
+40 
+
+
+at wholesale discounts and access to unbundled network 
+elements obtained at the incumbent’s cost—through the 
+sleight of hand of labeling vertical services as network 
+elements. This result is particularly irrational because 
+states typically set retail prices for vertical services above 
+cost to support universal service, and allowing competi- 
+tors to purchase vertical services at cost-based rates invites 
+them to engage in regulatory arbitrage that undermines 
+universal service. Congress intended no such result—it 
+expressly deleted “services” from the definition of network 
+element and defined an element as a “facility or equip- 
+ment . . . used in the transmission, routing, or other pro- 
+vision of telecommunications service,” not as such a serv- 
+ice itself. 
+
+
+The FCC claimed its expansive view of network ele- 
+ments was justified in part by the definition’s statement 
+that elements include “information . . . used in the trans- 
+mission, routing, or other provision of a telecommunica- 
+tions service.” 47 U.S.C. § 153(29) (emphasis added). 
+The FCC asserted that the term “other provision” ex- 
+pands the category of network elements beyond the phys- 
+ical delivery of telephone calls to virtually any informa- 
+tion used for any purpose. J.A. 40 (Order € 261). 
+However, the general term “other provision” is limited by 
+the more specific terms that precede it in the list. See, 
+e.2., Hughey v. United States, 495 U.S. 411, 418 (1990); 
+United States v. Salen, 235 U.S. 237, 244 (1914) (prin- 
+ciple of ejusdem generis). Here, the other items in the 
+list—“transmission” and “routing”—are functions of 
+equipment used in the delivery of calls, and nothing in 
+the statute suggests that the reference to “other provision” 
+expands the definition beyond that type of function to 
+encompass every aspect of operating a telephone com- 
+pany. To the contrary, that reference simply acknowledges 
+that other technical functions of an incumbent's network, 
+such as switching. also are involved in delivering a phone 
+call. Nor can the reference to “telecommunications serv- 
+
+
+41 
+
+
+ice”’—the “offering of telecommunications for a fee di- 
+rectly to the public,” 47 U.S.C. § 153(46)—somehow 
+unmoor the definition of “network element” from the core 
+textual requirement that an element be a facility or equip- 
+ment (or features and functions provided by means of 
+such facility or equipment). The FCC’s expansion of the 
+
+
+category of network elements thus finds no support i 
+text of the Act. a 
+
+
+The FCC’s expansion of the definition to include sup- 
+port systems, retail services, and other parts of an incum- 
+bent’s business beyond facilities used in call delivery is 
+equally contrary to the purposes of the unbundling re- 
+quirements. Most resources or assets of this kind, such 
+as operator staffs to provide directory assistance, can 
+readily be developed or acquired from sources other than 
+an incumbent and are therefore beyond the scope of what 
+a competitor would need from an incumbent in order to 
+compete. By nevertheless requiring incumbents to 
+vide these nonessential facilities and services, the FCC has 
+stripped away any incentive new entrants would have to 
+invest in the personnel and the development of skiiis re- 
+quired to run a local telephone business. Congress never 
+envisioned such a result when it gave new entrants the 
+option of using some of an incumbent’s network elements 
+
+
+as substitutes for the limited facilities entrants might not 
+readily obtain elsewhere. 
+
+
+C. The FCC’s Expansion of Incumbents’ Unbundling 
+Obligations Undermines the Structure of the Act 
+by Permitting Competitors To Rely Exclusively on 
+Unbundled Elements To Provide Service and 
+
+
+Thereby Evade the Statu Restricti 
+~ tory ons on 
+
+
+Under the FCC’s decision, virtually every part of an 
+incumbent's business is a “network element” and virtually 
+every “network element” must be turned over to an in- 
+cumbent’s competitors. The FCC has taken the limited 
+right that Congress granted competitors—to obtain from 
+
+
+42 
+
+
+incumbents physical facilities that are essential to compete 
+but are not reasonably available from other sources—and 
+has transformed that right into an almost unqualified en- 
+titlement to use every productive asset of an incumbent's 
+business. As a result, as even the FCC explicitly acknowl- 
+edged, Pet. App. 242a-44a (Order 94 328-32), an incum- 
+bent’s competitors can rely exclusively on unbundled net- 
+work elements from an incumbent to recreate and then 
+resell finished retail services—and be supported by the 
+incumbent’s personnel and support functions. 
+
+
+This opportunity to engage in “sham unbundling” can- 
+not be reconciled with the structure of the Act. The stat- 
+ute expressly creates two distinct entry options short of 
+full facilities-based competition. A competitor that wants 
+to utilize an incumbent's entire network without any facili- 
+ties of its own can compete on the basis of marketing 
+ability by buying the incumbent’s finished services at 
+wholesale rates and reselling then, as permitted under 
+section 251(c)(4). Alternatively, section 251(c)(3) 
+gives the competitor the option of obtaining at cost-based 
+rates the individual “elements” that are reasonably avail- 
+able only from the incumbent’s network and then combin- 
+ing those elements with the competitor’s own facilities. 
+Unlike a reseller, which obtains use of the same configura- 
+tion of network facilities that the incumbent uses, a com- 
+petitor using network elements leased from the incumbent 
+must still design and configure its own network and iden- 
+tify which particular facilities will carry its customers’ 
+traffic. 
+
+
+What Congress did not intend is that the FCC would 
+read the Act’s provisions on unbundled elements so 
+broadly that a competitor can procure as network ele- 
+ments from an incumbent all the facilities and other as- 
+pects of a local exchange business required to provide 
+finished services, thereby totally duplicating iocal ex- 
+change service at a price different from that specified in 
+
+
+43 
+
+
+section 251(c)(4). Rather, Congress expected competi- 
+tors to use at least some of their own facilities in con- 
+structing their networks or to pay the wholesale price for 
+resale of services. Indeed, for that very reason, Congress 
+directed incumbents to provide “physical collocation of 
+equipment necessary for . . . access to unbundled network 
+elements at the premises of the local exchange carrier” so 
+that competitors would have places at which to connect 
+their facilities with the network elements they purchase 
+from incumbents. 47 U.S.C. § 251(c)(6). Congress rec- 
+ognized that a competitor might not be expected to have 
+a full network in place when it begins offering local service 
+and therefore that “[s]ome facilities and capabilities (e.g., 
+central office switching) will likely need to be obtained 
+from the incumbent local exchange carrier as network ele- 
+ments pursuant to new section 251.” Conference Report 
+at 148 (emphasis added). Unbundled access was intended 
+to ensure “the interoperability of both carriers’ networks.” 
+S. Rep. No. 104-23, at 20 (1995) (emphasis added). By 
+contrast, if a competitor wants to use an incumbent’s en- 
+tire network to offer service, the Act provides the option 
+of resale, which permits “non-facilities-based carriers to 
+have an opportunity to compete.” H.R. Rep. No. 104- 
+204, at 72 (1995) (“House Rep.”) (emphasis added). 
+The FCC’s unbundling rules, however, allow a non- 
+facilities-based carrier to use unbundled network elements 
+as a substitute for resale at the price reserved for network 
+elements. 
+
+
+The chance to exploit such sham unbundling directly 
+contravenes Congress’ goal of encouraging facilities-based 
+competition. Because the FCC’s rules give competitors the 
+right to use, at cost-based prices, all of an incumbent's 
+equipment, personnel, and other business assets necessary 
+to run a local telephone business, competitors have little 
+incentive to build their own facilities. It is far easier and 
+less risky for competitors to force the incumbent to build 
+and maintain its network for them, particularly when the 
+opportunity for regulatory arbitrage allows the competitors 
+
+
++4 
+
+
+to siphon away the incumbent's profitable customers with 
+no risk or investment. Indeed, the ability of new com- 
+petitors to engage in regulatory arbitrage and gain a free- 
+ride hurts not only incumbents, but also other new en- 
+
+
+trants that have chosen to engage in actual facilities-based 
+competition. 
+
+
+The FCC’s Order also frustrates tie purposes of the 
+Act by creating an opportunity for regulatory arbitrage, 
+enabling new entrants to provide the same services as 
+incumbents at lower prices that are the result not of any 
+efficiencies but simply the evasion of universal service 
+support obligations. Congress provided different pricing 
+structures for the alternative competitive Strategies of un- 
+bundled network elements and resale because of universal 
+service concerns. While incumbents must offer unbundled 
+network elements to rivals at cost—which the FCC has 
+ruled cannot include universal service subsidies, see J.A. 
+153, 155-59 (Order @€ 712, 715-20)—incumbents offer 
+services for resale at prices discounted from retail rates, 
+which do include such implicit subsidies. Congress legis- 
+lated this difference in order to minimize arbitrage that 
+would simply exploit these regulatory price differen- 
+tials. See House Rep. at 72 (“The [resale] rate should 
+reflect whether, and to what extent, the local dialtone 
+service is subsidized by other services.”). Congress was 
+well aware that the traditional means of support for uni- 
+versal service was for states to require incumbent LECs 
+to charge well above cost for some services (such as 
+business services) in order to support below-cost prices for 
+others (such as basic residential service to rural users ). 
+As Congress recognized, if resellers could purchase the 
+former services at cost rather than at prices pegged to 
+retail rates, they could lure away the incumbent's high- 
+margin customers by charging less than the incumbent 
+
+
+must charge to recoup the cost of serving subsidized 
+customers. 
+
+
+The FCC's rules enable competitors to engage in pre- 
+cisely such arbitrage by allowing them to acquire at cost- 
+
+
+45 
+
+
+based prices all the network elements required to provide 
+a service, thereby collapsing the distinction between un- 
+bundled network elements and resale. By obtaining an 
+incumbent’s finished service entirely through the incum- 
+bent’s network elements at cost-based rates, competitors 
+can undercut above-cost prices and deprive the incumbent 
+of the subsidies that undergird universal service, while 
+avoiding their own obligation to support universal service. 
+At the same time, because competitors can obtain sub- 
+sidized services at a discount from the below-cost rates 
+incumbents must charge, competitors can resell them at 
+comparably below-cost prices without needing to find sub- 
+sidies to make up the difference between the actual cost 
+and the price, as the incumbent would. 
+
+
+By creating a regime in which competitors will have 
+every opportunity and incentive to undercut the above-cost 
+prices on which incumbents must rely to support universal 
+service, the FCC has assured through government regula- 
+tion that incumbents will not, in the aggregate, be able 
+to charge rates that recover their costs. Incumbents will 
+continue to be forced by regulatory mandate to charge 
+helow-cost prices for some services. At the same time, 
+because of the FCC’s evisceration of the distinction be- 
+tween unbundling and resale, incumbents will not be com- 
+pensated for providing these below-cost services—as they 
+were previously—-by having the ability to charge above- 
+cost rates for other services. Such a reading of the Act 
+threatens confiscation of incumbents’ property and turns 
+on its head the usual rule of statutory interpretation that 
+statutes must be construed to minimize their potential con- 
+stitutional infirmities. See Edward J. DeBartolo Corp. v. 
+Florida Gulf Coast Trades Council, 485 U.S. 568, 575 
+(1988) (“[W]here an otherwise acceptable construction 
+of a statute would raise serious constitutional problems, 
+the Court will construe the statute to avoid such problems 
+unless such construction is plainly contrary to the intent 
+of Congress.”). 
+
+
+46. 
+
+
+‘MCI dismisses this opportunity for new entrants such 
+as itself to engage in arbitrage because the existing im- 
+plicit subsidies might someday end. MCI Br. at 25. But 
+Congress clearly intended to prevent such arbitrage, no 
+matter how long the opportunity for arbitrage might last 
+—that is precisely why it provided two different pricing 
+standards for unbundled network elements and resale. If 
+Congress believed, as MCI asserts, that arbitrage was not 
+a problem because retail “prices are set by market forces,” 
+MCI Br. at 25, then Congress would not have specified 
+that wholesale prices were to be discounted from retail 
+rates rather than based on cost as it required for network 
+elements, interconnection, transport, and termination. 
+Congress specifically chose to rely on discounted retail 
+rates because such rates would “reflect whether, and to 
+what extent, the local dialtone service is subsidized by 
+other services.” House Rep. at 72. Moreover, the Act 
+sets no timetable for states to eliminate implicit subsidies, 
+and, more than two years after passage of the Act, no 
+state has abandoned such subsidies or even begun a pro- 
+ceeding to do so.” 
+
+
+1 The FCC’s elimination of the unbundling/resale distinction also 
+subverts the statutory scheme by permitting competitors to evade 
+the Act’s express restriction on the joint marketing of resold local 
+services. Congress sought to create a competitive balance by pre- 
+venting large long distance carriers from jointly marketing their 
+services with local service acquired from an incumbent Bell operat- 
+ing company under the statutory resale provision wntil that incum- 
+bent is authorized to provide long distance service in its home 
+region. See 47 U.S.C. § 271(e)(1). This section is intended “to 
+provide parity between the Bell operating companies and other 
+telecommunications carriers in their ability to offer ‘one stop shop- 
+ping’ for telecommunications services.” S. Rep. No. 104-23, at 45 
+(1995). But, as even the FCC concedes, an entity providing service 
+through the use of unbundled network elements will not be subject 
+to the joint marketing restriction (presumably because Congress 
+expected such an entity to be engaging in a degree of facilities- 
+based competition rather than simply reselling by another name). 
+Pet. App. 246a (Order 1335). In this respect as well, the FCC's 
+elimination of the limitations on unbundled network elements under- 
+mines the statutory structure Congress created. 
+
+
+47 
+
+
+D. The Combination Rules Invalidated by the Court of 
+Appeals Were Contrary to the Terms of the Act and 
+Were the Final Step in Eliminating Any Distinction 
+between Unbundled Network Elements and Resale. 
+
+
+Even after the FCC had expanded the scope of network 
+elements and rejected any consideration of whether a com- 
+petitor truly needed to obtain such elements from the in- 
+cumbent, one difference between the use of unbundled 
+network elements and resale should have remained: With 
+resale, a competitor acquires use of an incumbent's net- 
+work as a single, assembled service, whereas with un- 
+bundling competitors are entitled only to individual ele- 
+ments and must assemble those elements into a function- 
+ing network and business themselves. But the FCC did 
+away with this distinction as well. Consistent with its 
+unswerving determination to favor competitors over in- 
+cumbents in every manner, the agency decreed that in- 
+cumbents must provide “unbundled” network elements in 
+a prepackaged, combined form whenever a competitor 
+requests. 47 C.F.R. $$ 51.315(b)-(f). Coupled with the 
+FCC’s removal of any limits on what pieces of an incum- 
+vent’s business must be provided as network elements, 
+inese combination rules would permit competitors to buy 
+use of an incumbent's entire network as a preassembled 
+und preconfigured “UNE platform,” under the cloak of 
+unbundled network elements. 
+
+
+the court of appeals rejected this result. As it ex- 
+plained, “[tlo permit [the] acquisition of already com- 
+bined elements at cost based rates for unbundled access 
+would obliterate the careful distinctions Congress has 
+drawn in subsections 251(c)(3) and (4) between access 
+to unbundled network elements on the one hand and the 
+purchase at wholesale rates of an incumbent's telecom- 
+munications retail services for resale on the other.” Pet. 
+App. 7la. Under the FCC's rules, new entrants could 
+provide exactly the same services through either unbun- 
+dled network elements or resale, depending on which 
+price would be most advantageous to them. 
+
+
+48 
+
+
+The lower court's ruling was compelled by the plain 
+text of section 251, which requires incumbents to provide 
+“unbundled network elements in a manner that allows 
+requesting carriers to combine such elements in order to 
+provide a telecommunications service.” 47 U.S.C. § 251 
+(c)(3) (emphasis added). This statutory language 1s 
+entirely consistent with the role that Congress expected 
+unbundled network elements to play. Because Congress 
+intended that incumbents be required to unbundle only 
+the limited number of bottleneck facilities that competi- 
+tors themselves could not reasonably duplicate, it fully 
+expected that competitors would have to take those indi- 
+vidual elements and “combine” them with their own facil- 
+ities in order to design and construct their own networks. 
+The FCC, having already removed other limits on the 
+nature and use of network elements, disregarded this stat- 
+utory directive as well and required incumbents to provide 
+network elements to competitors on a precombined basis. 
+
+
+The court of appeals’ invalidation of the FCC's combi- 
+nation rule provides a bulwark against the total elimina- 
+tion of Congress’ distinction between unbundled elements 
+and resale. Requiring competitors to combine elements, 
+as the statute commands, helps to preserve resale as a 
+distinct option despite its often less advantageous pricing: 
+By choosing resale, a competing carrier can avoid spend- 
+ing the resources and taking the risks that inhere in design- 
+ing and constructing a network through the combination 
+of individual facilities. Allowing competitors effectively 
+to obtain an incumbent's entire, already-combined network 
+in the guise of unbundled network elements would absolve 
+competitors of the risks associated with selecting and 
+paying in advance for particular facilities and designating 
+the “points” on the incumbent's network where they re- 
+quire access. 
+
+
+Petitioners try to sidestep the clear statutory language 
+of section 251(c)(3) by contending that “unbundled” 
+
+
+49 
+
+
+means merely offered at separate prices. See, e.g., FCC 
+Br. at 44-45; AT&T Br. at 38-42; MCI Br. at 18-20. And 
+they claim the statutory language assigning an incumbent's 
+competitors the responsibility to “combine” elements sim- 
+ply requires that incumbents not restrict competitors from 
+combining elements obtained from incumbents with other 
+elements. See, e.g., MCI Br. at 22. Thus, Petitioners 
+effectively assert that Congress meant sham unbundling 
+to be a lower-priced version of resale and intended no 
+meaningful distinction between sections 251(c)(3) and 
+(c)(4) of the Act. 
+
+
+Even taken on its own terms, this argument fails to 
+make sense of the FCC’s rules. Normally, the sum of the 
+prices for individual pieces of a package is at least equal 
+to (if not greater than, because of lost efficiencies) the 
+price for the package as a whole. Indeed, if that were not 
+the case. a purchaser would never have any reason to buy 
+the package. But the FCC has given new entrants not 
+only the right to obtain pieces of an incumbent's network 
+at separate prices, but the right to obtain all the pieces 
+of the network at a total price that will often be far /ess 
+than the price that Congress designated for the whole. 
+Congress dictated that the price for use of the entire net- 
+work must be based on retail rates, which includes sup- 
+port for universal service subsidies. Under the FCC’s 
+vision of unbundling, competitors can obtain use of the 
+same network—on a preassembled basis—at a price equal 
+to the sum of the cost-based rates for each element, which 
+do not include any universal service subsidies. That is 
+obviously not what Congress intended. 
+
+
+Indeed. even under their own definition, petitioners 
+truly seek to turn the concept of “unbundling” on its head. 
+Requiring incumbents “to offer [unbundled] elements for 
+individual \easing at individual prices,” FCC Br. at 44 
+(emphasis added), protects new entrants by preventing 
+an incumbent from forcing an entrant to take the whole 
+
+
+50 
+
+
+network or a package of elements, rather than only the 
+individual pieces the entrant needs. Petitioners utterly 
+pervert this justification by insisting that the “unbundling” 
+provisions give them the right to obtain an incumbent's 
+entire network as a preassembled whole. 
+
+
+In any event, taking petitioners’ argument on its own 
+terms is too generous, because it cannot be squared with 
+the language that Congress used. Although “unbundled” 
+can mean in part “separately priced,” the language and 
+structure of the statute as a whole demonstrate that Con- 
+gress intended “unbundled” also to mean “physically 
+separated.” Petitioners improperly ask the Court to con- 
+sider the term “unbundled” in isolation from the re- 
+mainder of the statute. See Bailey v. United States, 516 
+US. 137, 145 (1995) (a court must “consider not only 
+the bare meaning of the word but also its placement and 
+purpose in the statutory scheme”). In particular, peti- 
+tioners ignore or deny any connection between the term 
+“unbundled” and the use of the word “combine” in the 
+same sentence of the same subsection. See, e¢.¢g., FCC Br. 
+at 44-45: AT&T Br. at 38-42; MCI Br. at 21-22. But 
+section 251(c)(3) requires that an incumbent “shall pro- 
+vide such unbundled network elements in a manner that 
+allows requesting carriers to combine” the elements. That 
+statement necessarily presupposes that the provided ele- 
+ments are not already combined. It would make no sense 
+to say that the incumbent's duty is to provide network 
+elements in a manner that allows entrants to combine 
+them unless Congress intended the entrants to have the 
+responsibility to do the combining. Congress expressly 
+understood “unbundled” to require not only separate 
+prices, but physical disconnection. 
+
+
+Indeed, until it resorted in its brief to this post hoc 
+rationalization that is “entitled to little deference,” the 
+FCC itself had always understood that unbundling has a 
+physical component. See Securities Indus. Ass'n v. Board 
+
+
+51 
+
+
+ot Governors of the Fed. Reserve Sys., 468 U.S. 137, 143 
+(1982). In its Order, the FCC explained that “ ‘access’ 
+to network elements ‘on an unbundled basis’ means that 
+incumbent LECs must provide the facility or functionality 
+of a particular element to requesting carriers, separate 
+from the facility or functionality of other elements, for a 
+separate fee.” Pet. App. 226a (Order 4 268) (emphasis 
+added). In other words, unbundling involves not simply 
+a “separate fee,” but separation from “the facility . . . 
+of other elements.” Similarly, in discussing the feasibility 
+of unbundling loops that were delivered in an aggregated 
+form by an integrated digital loop carrier (“IDLC”), 
+the FCC stated that “[o]ne way to unbundle an individual 
+loop from an IDLC is to use a demultiplexer to separate 
+the unbundled loop(s) prior to connecting the remaining 
+loops to the switch. Commenters identify a number of 
+other methods for separating out individual loops from 
+IDLC facilities .. . .” J.A. 73 (Order 4384) (em- 
+phasis added); see also id. at 247-48 (Third Order on Re- 
+consideration 4 44) (“Although we conclude that shared 
+transport is physically severable from switching, incum- 
+bent LECs may not unbundle switching and transport 
+facilities that are already combined, except upon request 
+by a requesting carrier.” (emphasis added) ). 
+
+
+Petitioners’ own comments on the proposal that led to 
+the FCC’s Order reflected the same understanding. The 
+Department of Justice, for example, noted that, “[ijn 
+jurisdictions which have begun to open up local markets 
+by requiring the unbundling of the local network into the 
+loop, . . . local switching, and interoffice transport ele- 
+ments, a variety of problems have developed in separating 
+a customer’s loop . . . from the local switch.” Reply Com- 
+ments of the Department of Justice, CC Docket No. 
+96-98, at 28 n.33 (May 30, 1996) (emphasis added); see 
+also Comments of MCI Corp., CC Docket No. 96-98, at 
+13 (May 16, 1996) (“To the extent an ILEC itself has 
+the ability to separate its network into elements and sub- 
+
+
+52 
+
+
+elements . . . this demonstrates the technical feasibility 
+of providing those unbundled elements or subelements.”). 
+
+
+Petitioners’ remaining arguments as to why the Court 
+should ignore Congress’ clear directive that “requesting 
+carriers [are] to combine” unbundled network elements 
+are equally unavailing. Petitioners contend that incum- 
+bents must provide competitors with network elements in 
+a combined form when those elements are already com- 
+bined in an incumbent’s network in order to ensure “non- 
+discriminatory access.” See, e.g., FCC Br. at 46; AT&T 
+Br. at 35-36; MCI Br. at 20-21. But this argument treats 
+incumbents as though they merely stumbled on their net- 
+works already constructed and combined. Of course, it 
+was the incumbent that did the work and spent the money 
+to design a network and combine the individual elements 
+that comprise it. Accordingly, requiring incumbents to 
+hand those preassembled networks over to their competi- 
+tors is the rule that violates the standard of nondiscrimi- 
+nation. Such a rule discriminates in favor of the competi- 
+tors by relieving them of the need to combine elements in 
+a network of their own design—the very tasks that the 
+incumbents had to complete before they could provide 
+service. 
+
+
+Finally, Petitioners engage in word games by suggesting 
+that the court velow somehow transformed the incum- 
+bents’ “duty” to provide access to unbundled network 
+elements into a “right . . . to disconnect those elements.” 
+See, e.g., FCC Br. at 45-46. The court of appeals’ in- 
+terpretation simply defines the scope of the incumbents’ 
+duty: They must provide access to individual, discon- 
+nected network elements. The FCC is simply wrong in 
+suggesting that the “grammatical implication of the Eighth 
+Circuit’s construction . . . is that incumbent LECs must 
+provide access to network elements . . . only on a dis- 
+connected basis.” Id. at 46 (emphasis in original). Al- 
+though incumbents’ duty is limited to providing access to 
+
+
+eS ee 
+
+
+53 
+
+
+individual, unbundled elements, they obviously may go 
+beyond their duty and provide combinations of elements 
+if they so choose. 
+
+
+Taken together, the FCC’s unbundling rules create a 
+regime entirely foreign to the statutory language, struc- 
+ture, and purposes. In its eagerness to help competitors 
+instead of promoting meaningful competition, the agency 
+rejected Congress’ vision of unbundling as a limited option 
+to obtain physical network elements that new entrants 
+need to compete and cannot build or acquire 
+elsewhere. In its place, the FCC substituted a broad right 
+of cost-based access to virtually every part of an incum- 
+bent’s business on a precombined basis. The FCC’s regime 
+discourages the development of facilities-based competition 
+by eliminating any incentive for a new entrant to invest 
+in rival facilities. It also undermines the foundation of 
+universal service support by encouraging new entrants to 
+engage in regulatory arbitrage and depriving incumbents 
+of the revenues needed to support below-cost prices that 
+they still are required to offer for some services. Petition- 
+ers’ reliance on Chevron thus rings hollow. In determining 
+whether an agency is entitled to deference, courts must 
+“look to the provisions of the whole law, and to its object 
+and policy.” John Hancock Mut. Life Ins. Co. v. Harris 
+Trust and Sav. Bank, 510 U.S. 86, 94-95 (1993). By 
+that measure, the FCC’s unbundling regime cannot stand. 
+
+
+II. THE FCC’S “PICK-AND-CHOOSE” RULE FURTHER 
+ERODES THE ACT’S RELIANCE ON BASIC MAR- 
+oo PRINCIPLES IN FAVOR OF REGULATORY 
+
+T. 
+
+
+As the court of appeals recognized, the FCC’s “pick- 
+and-choose” rulo—under which a competitor can pick for 
+itself at any time (even after it signs an agreement with 
+the incumbent) any term from any of an incumbent's 
+prior or subsequent interconnection agreements—further 
+undermines the statutory structure Congress created. The 
+
+
+54 
+
+
+rule again exemplifies the FCC’s determination to aid new 
+entrants even if the results are contrary to the structure 
+of the Act. 
+
+
+Section 252 is designed to encourage carrers to set the 
+terms and conditions of interconnection and the purchase 
+of network elements and wholesale services through pri- 
+vate commercial negotiations. On receiving a request 
+under the provisions of section 251, “an incumbent local 
+exchange carrier may negotiate and enter into a binding 
+agreement with the requesting telecommunications car- 
+rier” that governs the rates, terms, and conditions of the 
+requesting carrier’s purchase. 47 U.S.C. § 252(a)(1) 
+(emphasis added). Both an incumbent LEC and an inter- 
+connecting competitor have an explicit duty to negotiate 
+in good faith. 47 U.S.C. § 251(c)(1). They may bar- 
+gain “without regard” to the Act’s pricing, technical, and 
+quality requirements, and a state must approve a nego- 
+tiated agreement even if it departs from those require- 
+ments as long as the agreement is nondiscriminatory and 
+consistent with the public interest. 47 U.S.C. §§ 252 
+(a)(1), 252(e)(2)(A). 
+
+
+The broad freedom of incumbents and competitors 
+alike to settle voluntarily on the terms and conditions 
+of their interconnection is “({cJonsistent with [Congress’] 
+intent that carriers be encouraged to negotiate and re- 
+solve interconnection issues” and reflects Congress’ recog- 
+nition that, in order to reach commercially acceptable 
+agreements, parties must have the flexibility to make 
+tradeoffs and tailor agreements to their particular circum- 
+stances. S. Rep. No. 104-23, at 20 (1995). The statu- 
+tory scheme is “intend[ed] to encourage private negotia- 
+tion of interconnection agreements.” Jd. at 19. Bilateral 
+negotiations can take into account the economic and 
+other conditions that differ widely from place to place 
+and between pairs of parties, enabling interconnecting 
+carriers to reach arrangements that serve them most effi- 
+ciently and, under competitive conditions, serve the public 
+interest as well. 
+
+
+55 
+The FCC's Order effectively wipes out this statutory 
+
+
+agreements by allowing new entrants “to choose 
+
+individual provisions contained in publicly filed intercon- 
+nection agreements” that incumbent LECs have reached 
+with other carriers. Pet. App. 254a (Order q 1298). 
+
+
+t to which [the incumbent] is a party.” 47 
+C.F.R. § 51.809(a). What is more, a competitor may 
+demand any such term for itself at any time, even after 
+it has already signed a contract with an incumbent agree- 
+ing to a full package of terms and conditions. See Pet. 
+App. 264a-65a (Order 4 1316). The competitor need not 
+enter into renegotiations that would give the incumbent 
+a chance to rebalance the relationship to take account of 
+the terms imported from other agreements. Rather, the 
+Order lets the competitor bypass the statutory negotia- 
+tions entirely and demand that a state regulator award it 
+any term agreed to by others. Jd. at 267a (Order § 1321). 
+
+
+This “pick-and-choose” regulation cannot be reconciled 
+with a statutory scheme that relies on bilateral commercial 
+negotiations to establish “binding agreement[s],” 47 U.S.C. 
+§ 252(a)(1), and emphasizes reliance on private negotia- 
+tions. Bargaining is impossible if one party remains free 
+to avoid its promises by selecting new contract terms at 
+will, and the other party cannot know the extent of its 
+commitments because it cannot know to whom else it will 
+be forced to extend each isolated concession that it makes. 
+And any agreements that are concluded under the “pick- 
+and-choose” rule are not binding. A contract that gives 
+one party unfettered discretion “to deny or change the 
+effect of the promise, is an absurdity.” United States 
+Trust Co. v. New Jersey, 431 U.S. 1, 25 n.23 (1977). 
+
+
+_ “Pick and choose” distorts the content of interconnec- 
+tion arrangements as well. A complex commercial agree- 
+ment is an integrated whole whose terms reflect the give 
+
+
+56 
+
+
+and take of bargaining. Generally, each party makes con- 
+cessions in some areas in exchange for benefits in others, 
+reflecting the particular needs and priorities of the parties. 
+A party might, for example, agree to a higher price for 
+one service in exchange for a lower price for another. 
+But “pick and choose” allows one side (the new entrant) 
+to demand the quid (the lower price on the first service) 
+without having to take the quo with which it was origi- 
+nally paired (the higher price on the other)—regardless 
+of differences in context or in the commercial assumptions 
+on which each bilateral arrangement is based.” Given 
+this prospect, an incumbent simply cannot afford to make 
+tradeoffs, and a negotiated agreement that would benefit 
+the negotiating parties will not be reached. The individ- 
+ualized, negotiated agreements Congress envisioned are re- 
+placed by “one size fits all” agreements similar to the tariffs 
+that have long pervaded telecommunications regulation. 
+
+
+This preclusion of meaningful negotiations is exacer- 
+bated because competitors may pick and choose even from 
+agreements negotiated before the 1996 Act was passed— 
+which most frequently were agreements of convenience 
+between neighboring incumbent LECs under which they 
+handed off calls to each other at the borders of their 
+contiguous territories, often at no charge. See Pet. App. 
+267a-68a (Order € 1322); J.A. 23-24 (Order € 162). By 
+
+
+creating a regime in which one party at the bargaining 
+
+
+© The FCC did provide incumbents with the option of grouping 
+terms it could “prove” were “legitimately related to the purchase 
+of the individual element being sought.” Pet. App. 264a (Order 
+1315). But such compartmentalization ignores the reality that a 
+complex commercial agreement involving multiple elements and serv- 
+ices must be viewed as a whole—one party may accept a tradeoff 
+that it believes to be somewhat disadvantageous on one element 
+because a tradeoff for another element that is a subject of the same 
+agreement is particularly advantageous. And forcing an incumbent 
+to disclose this type of detailed analysis during negotiations in 
+order to be able to prove later that such a link is “legitimate” or 
+that particular terms were “expressly” linked, AT&T Br. at 50, 
+would have its own chilling effect on negotiations. 
+
+
+The FCC tries to the “pick-and-choose” rule on 
+section 252(i) of the Act, which provides that a “local 
+exchange carrier shall make available any interconnection, 
+service, or network element provided under an agreement 
+- . . to which it is a party to any other requesting tele- 
+communications carrier upon the same terms and condi- 
+tions as those provided in the agreement.” 47 U.S.C. 
+
+
+wholes, so that a second entrant can step entirely into the 
+
+
+**The FCC’s suggestion that such a rule would encourage 
+incumbents to lard an interconnection agreement with unrelated 
+terms, FCC Br. at 49-50, ignores the fact that any agreement must 
+be approved by a state commission under a broad public interest 
+standard. 47 U.S.C. § 252(e). Accordingly, any attempt to include 
+unrelated terms in an interconnection agreement would subject it 
+to rejection by the state commission. 
+
+
+22 The FCC's construction of section 252(i) is also a reversal from 
+how it has previously interpreted similar nondiscrimination obliga- 
+tions, which provides further reason to accord it little deference. 
+See, e.g., INS v. Cardoza-Fonseca, 480 U.S. 421, 446 n.30 (1987). 
+For example, the FCC has long required AT&T to serve any request- 
+ing customer under a filed interstate tariff, so that AT&T cannot 
+discriminate among customers. In the 1980s, when AT&T sought 
+to offer certain large customers individually tailored packages of 
+interstate services, the FCC allowed AT&T to file a special tariff 
+
+
+58 
+
+
+NationsBank v. Variable Annuity Life Ins. Co., 513 US. 
+251, 256 (1995) (agency interpretation must be “reason- 
+able in light of the legislature’s revealed design” ). 
+
+
+CONCLUSION 
+
+
+For these reasons, the FCC's unbundling rules and its 
+“pick-and-choose” rule should be vacated in their entirety. 
+
+
+Respectfully submitted, 
+MARK D. ROELLIG Luioyp N. CUTLER 
+DAN L. POOLE Counsel of Record 
+ROBERT B. MCKENNA WILLIAM T. LAKE 
+U S WEST, INc. JouHN H. Harwoop II 
+1801 California Street Samir C. JAIN 
+5ist Floor Davip M. SOHN 
+Denver, Colorado 80202 WILMER, CUTLER & PICKERING 
+(303) 672-2861 2445 M Street, N.W. 
+Washington, DC 20037 
+(202) 663-6000 
+
+
+Counsel for Respondent/Cross-Petitioner U S WEST, Inc. 
+May 18, 1998 
+
+
+listing each tailored package as a separate tariff option. The FCC 
+required AT&T to allow other customers to buy its services under 
+this tariff, but only if the customer would purchase the entire inte- 
+grated bundle of services offered under the option; the customer 
+could not just pick and choose individual terms. The FCC ruled at 
+that time—in direct contrast to what it concluded here—that inte- 
+grated packages of services necessarily involve tradeoffs and cannot 
+be pulled apart, and that making these bundles available to all 
+comers as integrated wholes is the proper way to satisfy the Com- 
+munications Act’s nondiscrimination requirements. See AT&T Com- 
+munications Revisions to Tariff FCC. No. 12, 7 F.C.C.R. 7039, 
+7040-42, 7044, 7048-49 (Nov. 22, 1991), aff'd, Competitive Telecom. 
+Ass’n v. FCC, 998 F.2d 1058, 1062-64 (D.C. Cir. 1993); 47 U.S.C. 
+§ 202(a). 
+
+
+APPENDIX 
+
+
+APPENDIX 
+47 U.S.C. § 153. Definitions 
++ * * * 
+
+
+(29) Network element—The term “network element” 
+means a facility or equipment used in the provision of a 
+telecommunications service. Such term also includes fea- 
+tures, functions, and capabilities that are provided by 
+means of such facility or equipment, including subscriber 
+numbers, databases, signaling systems, and information 
+sufficient for billing and collection or used in the trans- 
+mission, routing, or other provision of a telecommunica- 
+tions service. 
+al * * * 
+
+(43) Telecommunications—The term “telecommunica- 
+tions” means the transmission, between or among points 
+specified by the user, of information of the user’s choosing, 
+without change in the form or content of the information 
+as sent and received. 
+
+
+* * * * 
+
+
+(46) Telecommunications service—The term “telecom- 
+munications service” means the offering of telecommuni- 
+cations for a fee directly to the public, or to such classes 
+of users as to be effectively available directly to the public, 
+regardless of the facilities used. 
+
+
+47 U.S.C. § 271. Bell Operating Company Entry into 
+InterLATA Services 
+
+
+a + e 
+(e) Limitations— 
+
+
+(1) Joint marketing of local and long distance serv- 
+ices—Until a Bell operating company is authorized 
+pursuant to subsection (d) of this section to provide 
+interLATA services in an in-region State, or until 36 
+months have passed since February 8, 1996, which- 
+ever is earlier, a telecommunications carrier that 
+
+

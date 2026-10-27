@@ -1,0 +1,625 @@
+> ‘* FILED 
+UY wR 7 We 
+
+
+No. 97-1287 | CLERK 
+
+
+IN THE 
+Supreme Court of the United States 
+OCTOBER TERM, 1997 
+
+
+HUGHES AIRCRAFT COMPANY AND HUGHES NON- 
+BARGAINING RETIREMENT PLAN, 
+
+
+Petitioners. 
+Vv. 
+
+
+STANLEY I. JACOBSON, DANIEL P. WELSH, ROBERT E. 
+MCMILLIN, ERNEST O. BLANDIN, AND RICHARD E. HOOK, 
+
+
+Respondents. 
+
+
+On Petition for Writ of Certiorari to the United States 
+Court of Appeais for the Ninth Circuit 
+
+
+REPLY TO BRIEF IN OPPOSITION 
+
+
+MARCY J.K. TIFFANY KENNETH W. STARR 
+T. WARREN JACKSON Counsel of Record 
+HUGHES ELECTRONICS PAUL T. CAPPUCCIO 
+
+CORPORATION RICHARD A. CORDRAY 
+7200 Hughes Terrace CHRISTOPHER LANDAU 
+Los Angeles, CA 90045 DARYL JOSEFFER 
+(310) 568-7200 KIRKLAND & ELLIS 
+
+655 Fifteenth Street, N.W. 
+
+ROBERT F. WALKER Washington, D.C. 20005 
+ETHAN LAPSIG (202) 879-5000 
+PAUL, HASTINGS, 
+
+JANOFSKY & WALKER Counsel for Petitioners 
+1299 Ocean Avenue 
+
+
+Santa Monica, CA 90401 
+
+
+Agee 7, 1998 
+
+
+en 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+
+
+American Flint Glass Workers Union v. 
+
+
+Beaumont Glass Co., 
+og wb ER renin pores 7 
+
+
+Brillinger v. General Elec. Co., 
+
+
+SR ee GG COPED wv ddescadeteusnaeas 5 
+
+
+Chait v. Bernstein, 
+am Epes) i Rr re ee 7 
+
+
+Engelhart v. Consolidated Rail Corp., 
+127 F.3d 1095 (3d Cir. 1997), 
+cert. denied, 118 S. Ct. 1163 (1998) ............ 2 
+
+
+Frahm vy. Equitable Life Assurance Soc’y, 
+1998 WL 81457 (7th Cir. Feb. 27, 1998) ......... 2 
+
+
+Inter-Modal Rail Employees Ass'n v. 
+Atchison, T. & S.F. Ry., 
+SET ae POE EED 6 wav dinsksvaekexcees 1,7 
+
+
+International Brotherhood of Teamsters v. Daniel, 
+as See GEE. cécnducnvewsbewsiaeeeeks l 
+
+
+Johnson v. Georgia-Pacific Corp., 
+19 F.3d 1184 (7th Cir. 1994) ..............2,3,5 
+
+
+Lebron v. National R.R. Passenger Corp., 
+FOP A SPO EIONED he ccd easeetesesevaenenes 3 
+
+
+Lockheed Corp. v. Spink, 
+TOS Ge CUED ve dccccavded baces passim 
+
+
+Malia v. General Elec. Co., 
+23 F.3d 828 (3d Cir.), 
+
+
+cert. denied, 513 U.S. 956 (1994) ......... 
+
+
+Mertens v. Hewitt Assocs., 
+
+
+ED ra chsh sk owen ts uae 
+
+
+Missouri v. Jenkins, 
+
+
+PPM PEUEED Swiss cscccvdeccccecs 
+
+
+Morgan v. Independent Drivers Ass'n Pension Plan 
+
+
+975 F.2d 1467 (10th Cir. 1992) ........... 
+
+
+PBGC v. LTV Corp., 
+
+
+i Se eel 
+
+
+Payonk v. HMW Indus., Inc., 
+
+
+883 F.2d 221 (3d Cir. 1989) ............. 
+
+
+Phillips v. Bebber, 
+
+
+914 F.2d 31 (4th Cir. 1990)... 2000.0... 
+
+
+Salazar v. Sandia Corp., 
+
+
+656 F.2d 578 (10th Cir. 1981) 22.00.00... 
+
+
+Schneider Moving & Storage Co. v. Robbins, 
+
+
+466 US. 364 (1984) 2.00.02, 
+
+
+Spink v. Lockheed Corp., 
+
+
+125 F.3d 1257 (9th Cir. 1997)... 000000... 
+
+
+Van Orman v. American Ins. Co.. 
+
+
+680 F.2d 301 (3d Cir. 1982) 2202... 
+
+
+STATUTES AND RULES 
+
+
+29 U.S.C. § 1053 
+
+
+seeeeeeeeeeseeeeeseeeeeeeeeeeeeee ee 6 6 
+
+
+29 U.S.C. § 1103(cX1) ............. ee are 
+
+
+SOU Ba 6 8 oe eto 
+
+
+a PRES RE bia SP ope ete 
+
+
+29 U.S.C. § 1342 
+
+
+29 U.S.C. § 1344 
+
+
+e*eeeeevpeeeeeeeeeseeeeeeeeeeeeeeee 6 6 SS 
+
+
+seeeeeeeeeeeseeeeeeeeeeeseeeeeee ee & 6 6 
+
+
+EE ni bade'siksinneuce take veueces 
+
+
+S. Ct. Rule 14.1(a) 
+
+
+eseeeeseeeeeeeeeeeeeeeeeeeeeeeee 6 6 
+
+
+REPLY TO BRIEF IN OPPOSITION 
+
+
+1. Notwithstanding respondents’ efforts to conjure up 
+factual and legal complexity, this case hinges on a 
+straightforward question: do participants in a defined-benefit 
+plan have any pre-termination right to plan assets in excess of 
+their defined benefits? The answer to that question is plainly 
+no. Respondents, as participants in a defined-benefit plan, are 
+entitled to their defined benefits — no more and no less. 
+
+
+The opinion below, over a vigorous dissent by Judge Norris, 
+created a welter of circuit conflicts, and cannot reasonably be 
+reconciled with this Court’s decision in Lockheed Corp. v. 
+Spink, 116 S. Ct. 1783 (1996). Rather than harmonizing these 
+conflicts, the brief in opposition only confirms them. That 
+brief reaffirms the Ninth Circuit’s holdings that (1) an 
+employer’s discretion to amend a contributory plan is subject 
+to significant, but nonstatutory, limitations, and (2) a plan 
+amendment can be challenged after the fact as an involuntary 
+(indeed, unintentional) plan termination. Neither conclusion 
+can be squared with the text, structure, or purpose of ERISA or 
+the general body of law interpreting the statute. Indeed, the 
+Pension Benefit Guaranty Corporation (“PBGC”) — the 
+federal agency that administers and enforces Title [V of ERISA 
+— has filed an amicus curiae brief urging this Court to grant 
+review. ' 
+
+
+' Respondents seek to avoid review by emphasizing the procedural posture 
+of this case, which arises on a motion to dismiss the complaint under Fed. 
+R. Civ. P. 12(b\6). That emphasis is misplaced. This case is ripe for 
+review because respondents have failed to state claims upon which relief 
+can be granted as a matter of law. No further factual development is 
+necessary Of appropriate, because respondents’ claims are simply not 
+cognizable under ERISA. Indeed, this Court routinely grants review in 
+cases from the lower federal courts in this posture, including some of the 
+leading ERISA precedents. See, e.g , Inter-Modal Rail Employees Ass'n v 
+Atchison, T. & SF. Ry., 117 S. Ct. 1513 (1997); Lockheed Corp. v. Spink. 
+116 S. Ct. 1783 (1996); Schneider Moving & Storage Co. v. Robbins, 466 
+U.S. 364 (1984), International Brotherhood of Teamsters v. Daniel, 439 
+U.S. 551 (1979). 
+
+
+2 
+
+
+2. Respondents first defend the panel majority’s holding 
+that ERISA implicitly limits an employer's discretion to amend 
+contributory plans. According to respondents, the conflict 
+between the decision below and the cases cited in the petition 
+should be ignored because those cases predate Spink. See Opp. 
+21-22. That contention misses the mark. Spink ratified the law 
+of nearly every circuit (other than the Ninth) by holding that 
+the amendment (as opposed to the administration) of a plan 
+does not implicate fiduciary duties under ERISA. See 116 
+S. Ct. at 1789 & n.4 (citing, inter alia, Johnson v. Georgia- 
+Pacific Corp., 19 F.3d 1184 (7th Cir. 1994)). The holding 
+below cannot be squared with either Spink or numerous 
+appellate cases both before and after that decision. See Pet. 10- 
+13. Indeed, the panel majority in this case effectively 
+resurrected the Ninth Circuit’s aberrant approach firmly 
+rejected by this Court in Spink itself. 
+
+
+The panel majority purported to distinguish Spink on a 
+ground never mentioned in this Court’s opinion — that the 
+defined-benefit plan at issue there was funded wholly by the 
+employer. As noted in the petition, this ostensible distinction 
+itself brings the decision Selow squarely into conflict with 
+Georgia-Pacific, whien - solved a defined-benefit plan to 
+which employees h. +. ».. Suted, and expressly rejected the 
+very arguments embr=e2 |, »~ Ninth Circuit in this case. See 
+Pet. 14, 18-19; see also Ma..« v. General Elec. Co., 23 F.3d 
+828, 833 (3d Cir.), cert. denied, 513 U.S. 956 (1994); Payonk 
+v. HMW Indus., Inc., 883 F.2d 221, 225 (3d Cir. 1989). 
+
+
+* Not surprisingly, the Third and Seventh Circuits have continued to follow 
+these settled precedents after Spink. See, eg. Frahm v. Equitable Life 
+Assurance Soc'y, 1998 WL 81457, at *1 (7th Cir. Feb. 27, 1998) (applying 
+Spink and Georgia-Pacific to contributory welfare plan); Engelhart v. 
+Consolidated Rail Corp., 127 F 3d 1095 (3d Cir. 1997) (affirming, without 
+comment. decision rejecting claim that amendment of contributory defined- 
+rights), cert. denied, 118 S. Ct. 1163 (1998). 
+
+
+3 
+
+
+Respondents also suggest that the conflict with Georgia- 
+Pacific can be harmonized on the theory that there, unlike here, 
+no allegation was made of a transfer of funds from one plan to 
+another. See Opp. 20-21. That suggestion is baseless for three 
+reasons. First, respondents do not contend — and the Ninth 
+Circuit did not hold — that the 1989 amendment establishing 
+the early retirement program involved a transfer of funds from 
+one plan to another. Accordingly, respondents’ attempt to 
+distinguish Georgia-Pacific applies by its own terms to only 
+one of the two amendments at issue here. 
+
+
+Second, in any event, the 1991 amendment creating a 
+contributory benefit structure cannot remotely be characterized 
+as the creation of a new plan. Both before and after that new 
+benefit structure was established, all benefits paid out under the 
+Plan came from a common fund. See Pet. 20 n.6. As a matter 
+of law, accordingly, there is but a single plan with multiple 
+benefit structures, not separate plans. See id (citing 
+authorities); Brief Amici Curiae of the Hughes Aircraft 
+Retirees Ass’n and the Hughes Employees Ass’n 6-12.° 
+
+
+* Respondents assert that petitioners have not “sought review” on this issue 
+because it is not specifically set forth among the “Questions Presented” in 
+the petition. See Opp. 4; see also id. at 5 & n.2, 12. The petition, however, 
+challenged the opinion below as “flawed” on this very point, and noted that 
+“[a]s a matter of law, the addition of a new benefit structure to an existing 
+plan does not give rise to a new plan.” Pet. 20 n6. Contrary to 
+respondents’ assumption, it is well-established that a petitioner need not set 
+forth a separate question with respect to each and every issue raised. This 
+Court's Rules specify that the questions presented must be “short” and 
+“concis{e},” and that “[t}he statement of any question presented is deemed 
+to comprise every subsidiary question fairly included therein.” S. Ct. Rule 
+14.1(a) (emphasis added). Whether participants in a defined-benefit pian 
+can state a cause of action under ERISA by simply alleging that an 
+amendment created a new plan is obviously subsidiary to the broader 
+question whether participants in a defined-benefit plan can state a cause of 
+action under ERISA to recover more than their defined benefits. C/ 
+Missouri v. Jenkins, 515 U.S. 70, 84-85 (1995); Lebron v. National R.R. 
+Passenger Corp., 513 U.S. 374, 379-80 (1995). 
+
+
+Third, and more generally, fiduciary duties simply do not 
+attach to the act of amending a plan, regardless of the nature of 
+the relevant amendments. See Spink, 116 S. Ct. at 1789 (“Plan 
+sponsors who alter the terms of a plan do not fall into the 
+category of fiduciaries.”’). Indeed, respondents repeat the very 
+error that the Ninth Circuit committed in Spink of addressing 
+the question whether fiduciary duties have been violated before 
+addressing the antecedent question whether such duties exist in 
+the first place. See id. at 1788-89. Decisions from the Third 
+and Tenth Circuits confirm that ERISA’s fiduciary duties 
+simply are not implicated by plan amendments, even where 
+those amendments involve a use of plan assets that benefits 
+members of other plans. See Malia v. General Elec. Co., 23 
+F.3d 828, 833 (3d Cir.), cert. denied, 513 U.S. 956 (1994); 
+Salazar v. Sandia Corp., 656 F.2d 578, 579-80 (10th Cir. 
+1981).* 
+
+
+3. Respondents also assert that “[t]here is no conflict with 
+other Circuits about employees’ interest in their own 
+contributions.” Opp. 22. But they offer no support for that 
+assertion, and fail to distinguish contrary authority from the 
+Second, Third, and Seventh Circuits. See Pet. 16-20. 
+
+
+Respondents concentrate instead on arguing the merits of the 
+issue, and here again their arguments are unavailing. Their 
+principal argument rests on cases that have interpreted the 
+asset-distribution provision of 29 U.S.C. § 1344. See Opp. 22- 
+25. As the PBGC points out, however, plan participants have 
+no entitlement to any “surplus” assets that may exist prior to 
+plan termination, because any such “surplus” is wholly illusory 
+
+
+* Respondents’ anti-inurement claim also fails for the same reasons that 
+their fiduciary claims fail. ERISA’s anti-inurement provision is the flip side 
+of its fiduciary provisions: the former provision requires that plan assets not 
+be used for the benefit of an employer, whereas the latter provisions require 
+that plan assets be used for the exclusive benefit of plan participants. 
+Compare § 1103(c\1) with § 1104(a)(1)(A). Dismissal of the one therefore 
+requires dismissal of the other, as even the Ninth Circuit recognized on 
+remand in Spink. See 125 F.3d 1257, 1260-61 (9th Cir. 1997). 
+
+
+< 
+_ 
+
+
+—e 
+
+
+——- 
+
+
+until the plan has been termnated and its liabilities satisfied. 
+See PBGC Br. 13 (“[I]f there is no termination, there can be no 
+surplus.”); Van Orman v. American Ins. Co., 680 F.2d 301, 313 
+(3d Cir. 1982) (“ERISA does not provide a pre-termination 
+right to the surplus.”). Because the Plan has not been 
+terminated, “section 1344 cannot make the respondents’ causes 
+of action cognizable.” PBGC Br. 16; see also infra at pp. 6-9. 
+
+
+Respondents’ secondary reliance on the accrued-benefits 
+provision of 29 U.S.C. § 1053 is equally unavailing. See Opp. 
+19-20, 23-24. Both parties agree that this provision imposes a 
+floor on defined benefits: the level of such benefits cannot be 
+set any lower than the amount that would be generated by the 
+application of a statutory rate of interest. See Pet. 18 n.4; Opp. 
+23. There is a vast and obvious difference between this 
+undisputed right to defined benefits at least as great as those 
+generated by an imputed rate of interest (which is set forth ia 
+the plain text of the statute) and the asserted right to any and all 
+investment income generated by employee contributions to a 
+defined-benefit plan (which is conspicuously absent from the 
+statute). The statute creates an explicit entitlement to defined 
+benefits at or above a minimum level, not an implicit 
+entitlement to any or all assets in a plan. Thus, as the Seventh 
+Circuit explained in Georgia-Pacific, plan participants have no 
+right to restrict an employer’s use of plan assets to fund plan 
+liabilities, because such participants “do not own the assets of 
+a defined-benefit pension plan.” 19 F.3d at 1186-90; see also 
+Brillinger v. General Elec. Co., 130 F.3d 61, 64 (2d Cir. 1997); 
+Malia, 23 F.3d at 828-33 & n.2.° 
+
+
+* Respondents’ reliance on a footnote in Spink regarding “otherwise 
+unlawful” actions, see Opp. 7, likewise provides no basis for their claims. 
+The Spink Court left open the possibility that a “sham transaction, meant to 
+disguise an otherwise unlawful transfer,” might implicate ERISA’s fiduciary 
+duties. 116 S. Ct. at 1792 n.8. The amendments at issue here are not 
+“otherwise unlawful” for the simple reason that they do not violate any other 
+provision of ERISA. 
+
+
+6 
+
+
+4. Respondents also defend the Ninth Circuit’s holding 
+that they have stated a legally cognizable claim by alleging that 
+Hughes involuntarily (and unintentionally) terminated the Plan 
+in 1991 by adding the non-contributory benefit structure. As 
+noted in the petition and underscored by the PBGC, see Pet. 
+21-22; PBGC Br. 7-16, the statute could scarcely be more 
+explicit on this point: the “[e]xclusive means of plan 
+termination” are (1) voluntary termination initiated by an 
+employer, 29 U.S.C. § 1341(a)(1); and (2) involuntary 
+termination initiated by the PBGC, id. § 1342. See also PBGC 
+v. LTV Corp., 496 U.S. 633, 638-39 (1990); PBGC Br. 7-8 & 
+n.4. The Ninth Circuit defied this statutory command by 
+devising a third, nonstatutory termination mechanism: 
+involuntary termination resulting from the amendment of a plan 
+in some significant (but undefined) way. 
+
+
+Respondents suggest that this approach does not deviate 
+from ERISA because such a termination could be carried out 
+prospectively pursuant to the Title IV procedures. See Opp. 6- 
+7, 25. That suggestion, however, contradicts the allegation im 
+respondents’ own complaint that Hughes “terminated the Plan 
+within the meaning of ERISA” on “January 1, 1991” by 
+creating the non-contributory benefit structure. App. 14la. 
+See also id. at 132a (“Plaintiffs’ [sic] further contend that the 
+Plan was terminated on January 1, 1991, entitling the 
+participants to an equitable distribution of the surplus assets.”); 
+id at 134a (“Effective January 1, 1991 the Plan was terminated 
+and replaced by a new non-contributory plan.”). The Ninth 
+Circuit accepted these allegations at face value, and held that 
+respondents had stated a legally cognizable claim that 
+“Hughes’ amendment terminated the contributory plan in 
+1991,” id. at 11a, pursuant to the common law of trusts, see id. 
+at lla n.3, 22a-23a. 
+
+
+That holding — which respondents conspicuously decline to 
+defend — conflicts not only with the plain language of the 
+statute, but also with decisions from other circuits confirming 
+that ERISA provides the exclusive means of plan termination, 
+
+
+7 
+
+
+see Pet. 22-24, and rejecting attempts by plan participants to 
+force employers to terminate plans and distribute putative 
+“surplus” assets, see Chait v. Bernstein, 835 F.2d 1017, 1019- 
+20 (3d Cir. 1988); cf Morgan v. Independent Drivers Ass'n 
+Pension Plan, 975 F.2d 1467, 1468, 1471 (10th Cir. 1992). As 
+the PBGC explains, ERISA’s provisions governing the 
+termination of defined-benefit plans are the “key provisions” 
+that “form the heart of the program administered by PBGC.” 
+PBGC Br. 2. Title IV authorizes one and only one mechanism 
+for involuntary plan termination, and that mechanism can be 
+initiated only by the PBGC under very limited circumstances 
+not present here. See 29 U.S.C. § 1342; PBGC Br. 7-8 & n.4. 
+Because the statute is clear on this point, there is no room for 
+judicial embellishment. See, e.g, Mertens v. Hewitt Assocs., 
+508 U.S. 248, 259-62 (1993). Thus, as the PBGC notes, the 
+Ninth Circuit erred by “ignoring Title IV [and] holding that 
+there may be a ‘constructive’ termination outside of Title [V.” 
+PBGC Br. 4-5. 
+
+
+Respondents argue that two of the cases cited by Hughes for 
+the proposition that termination requires strict compliance with 
+Title TV actually stand for the proposition that “a reluctant 
+employer, in appropriate circumstances, can be ordered” to 
+terminate a plan. Opp. 25 (citing American Flint Glass 
+Workers Union v. Beaumont Glass Co., 62 F.3d 574 (3d Cir. 
+1995), and Phillips v. Bebber, 914 F.2d 31 (4th Cir. 1990)). 
+That contention distorts both cases, which simply note that 
+courts can enforce an employer’s contractual promise to 
+terminate a plan voluntarily under specified circumstances. See 
+Beaumont Glass, 62 F.3d at 580-81; Phillips, 914 F.2d at 34. 
+Both cases thus fit comfortably within ERISA’s framework, 
+which allows employers to undertake obligations over and 
+above those mandated by the statute, see, e.g., Inter-Modal Rail 
+Employees Ass'n v. Atchison, T. & S.F. Ry., 117 S. Ct. 1513, 
+1516 (1997), including an obligation to initiate a voluntary 
+termination under specified circumstances. Needless to say, 
+these principles have no application where, as here, an 
+employer has not voluntarily undertaken to terminate a plan. 
+
+
+Respondents’ attempt to negate the circuit conflict with 
+respect to termination is thus unavailing. The Ninth Circuit is 
+the only court of appeals ever to hold that a plan may be 
+terminated by some means other than those expressly set forth 
+in sections 1341 and 1342. That holding “casts aside the 
+unambiguous statutory rules in Title [V of ERISA that have 
+governed plan termination for almost a quarter of a century,” 
+PBGC Br. 3, and opens the floodgates to claims that employers 
+“constructively” terminated plans by amending them. As 
+underscored by petitioners’ various amici, including the PBGC, 
+the practical implications of the decision below are 
+“disastrous.” PBGC Br. 5. 
+
+
+Moreover, respondents have now made it clear that the 
+termination issue is central to all of the other claims they have 
+raised in this case. Their various allegations regarding 
+violations of ERISA’s fiduciary duties and_ structural 
+provisions are inherently intertwined with their arguments 
+about the supposed termination of the Plan. See Opp. 10-13, 
+17 n.8, 21, 22-23, 29. All of respondents’ claims ultimately 
+would lead the courts to rewrite the statute to accord 
+themselves a broad discretionary role over the Nation’s 
+employee benefit plans, including not only pension plans but 
+also health and 401(k) plans. See Brief Amici Curiae of the 
+Chamber of Commerce of the United States of America and the 
+Association of Private Pension and Welfare Plans 6-7, 14; Brief 
+Amicus Curiae of the ERISA Industry Committee 4-5. From 
+any perspective, therefore, the important issues of ERISA law 
+raised in this case warrant review. 
+
+
+One final irony merits this Court’s attention. Although 
+respondents purport to represent a class of “all participants of 
+the Plan who are or may become eligible to receive retirement 
+benefits under the Plan,” App. 133a, the Ninth Circuit’s 
+decision is opposed by long-established associations of both 
+retired and current Hughes employees. See Brief Amici Curiae 
+of the Hughes Aircraft Retirees Association and Hughes 
+Employees Association. Such opposition is entirely sensible, 
+
+
+9 
+
+
+because this lawsuit threatens the very existence of the Plan 
+that guarantees those current and former employees a steady 
+and dependable income stream throughout their retirement 
+years. The destabilizing decision below thus threatens not only 
+plan sponsors, but also the very plan participants it purports to 
+benefit. See PBGC Br. 4; App. 48a (Norris, J., dissenting). 
+The real “pot of gold” in this lawsuit is for the class-action 
+lawyers. 
+CONCLUSION 
+
+For the foregoing reasons, as well as those set forth in the 
+
+Petition and in the various amicus briefs, this Court should 
+
+
+grant a writ of certiorari, and either summarily reverse the 
+judgment below or set the case for plenary review. 
+
+
+Respectfully submitted, 
+MARCY J.K. TIFFANY KENNETH W. STARR 
+T. WARREN JACKSON Counsel of Record 
+HUGHES ELECTRONICS PAUL T. CAPPUCCIO 
+
+CORPORATION RICHARD A. CORDRAY 
+
+7200 Hughes Terrace CHRISTOPHER LANDAU 
+Los Angeles, CA 90045 DARYL JOSEFFER 
+(310) 568-7200 KIRKLAND & ELLIS 
+
+655 Fifteenth Street, N.W. 
+ROBERT F. WALKER Washington, D.C. 20005 
+ETHAN LIPSIG (202) 879-5000 
+PAUL, HASTINGS, 
+
+JANOFSKY & WALKER 
+
+1299 Ocean Avenue Counsel for Petitioners 
+Santa Monica, CA 90401 
+
+

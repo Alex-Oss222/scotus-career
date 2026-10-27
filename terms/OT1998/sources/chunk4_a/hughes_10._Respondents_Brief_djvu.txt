@@ -1,0 +1,4161 @@
+0 
+No. 97-1287 
+
+
+In The 
+
+
+v< 
+October Term, 1997 
+
+
+HUGHES AIRCRAFT COMPANY and HUGHES NON- 
+BARGAINING RETIREMENT PLAN, 
+
+
+Petitioners, 
+vs. 
+
+
+STANLEY I. JACOBSON, DANIEL P. WELSH, ROBERT E. 
+McMILLIN, ERNEST O. BLANDIN and RICHARD E. 
+HOOK, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Ninth Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+SETH KUPFERBERG 
+Counsel of Record 
+RICHARD DORN 
+BELLE HARPER 
+DONALD E. KLEIN 
+I. PHILIP SIPSER 
+SIPSER, WEINSTOCK, HARPER 
+& DORN, L.L.P. 
+Attorneys for Respondents 
+275 Madison Avenue 
+New York, New York 10017 
+(212) 252-0072 
+
+
+wwe ~~ ————— —————_ 
+
+
+~ BEST AVAILABLE COPY! 
+
+
+CC: C C;;St;t;t:tC‘; 3} SC: 
+
+
+i 
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+Whether the Ninth Circuit correctly found numerous 
+matenal differences between this case and Lockheed Corp. 
+v. Spink, 517 U.S. 882 (1996), including, among others, 
+that this complaint involves: a) plan assets derived from 
+employee contributions; b) payment from the assets of a 
+plan to nonparticipants to whom the plan sponsor owes a 
+separate debt; c) breach of ERISA’s trust, anti-inurement, 
+prohibited transaction, termination, and nonforfeiture 
+provisions, and d) a sham transaction contrived to conceal 
+departure from the law. 
+
+
+Whether the Ninth Circuit correctly found that ERISA 
+requires that plan assets be held in trust for the exclusive 
+benefit of plan participants, that it grants heightened 
+protection to assets derived from employee contnbutions, 
+and that these requirements can be enforced under ERISA 
+$§ 409 and 502. 
+
+
+Whether the Ninth Circuit correctly found that ERISA’s 
+nonforfeiture provision can entitle participants in a 
+contnbutory plan to amounts whose value exceeds that of 
+defined benefits. 
+
+
+Whether the Ninth Circuit correctly found that an employer 
+can be ordered to use the means for plan termination 
+established by ERISA’s Title IV. 
+
+
+ii 
+PARTIES TO THE PROCEEDING 
+
+
+As stated in the petition for writ of certiorari, 
+
+
+“Hughes Aircraft Company... recently merged with 
+Raytheon Company. Following that merger, two 
+corporations and two pension plans have an interest 
+in this case: Hughes Electronics Corporation, 
+Raytheon Company, Hughes Non-Bargaining 
+Retirement Plan, and Raytheon Non-Bargaining 
+Retirement Plan. All four of these entities were 
+recently named as defendants in an amended 
+complaint.” Pet. ii. 
+
+
+Petitioners’ Brief correctly states that Hughes Electronics 
+Corp. and Raytheon Co. (“Raytheon”) are defendants named in the 
+amended complaint. Pet. Brf. ii. The amended complaint also 
+names the two companies’ pension plans as defendants. 
+
+
+In addition, the amended complaint adds five plaintiffs -- 
+Roger Bilyeu, Beatrice A. Whyld, Dr. Bernard Winikur, Frank 
+Henderson and Richard D. Randall -- who reside in the Central 
+Distnect of California to which venue was transferred, on 
+defendants’ motion, after the filing of the original complaint in the 
+U.S. Distnet Court for the District of Anzona. Pet. App. 4a. 
+
+
+Plaintiffs’ motion for certification as class representatives 
+is pending before Judge Audrey B. Collins (Judge Richard A. 
+Gadbois Jr., the onginal judge in the case, having died during the 
+pendency of plaintiffs’ appeal). 
+
+
+iii 
+TABLE OF CONTENTS 
+QUESTIONS PRESENTED FOR REVIEW ........ i 
+PARTIES TO THE PROCEEDING .............. ii 
+ee ee ie we wh eee een eh es 1 
+STATEMENT OF THE CASE 
+A. The Hughes Plans 
+
+
+1. The Contributory Plan ............. 2 
+
+2. The Contributory Plan and Hughes’ New 
+Cn o os suse cee teuab eases 4 
+
+i cctv ce banbsadastedsnenet 8 
+
+C. District Court Proceedings .............. 11 
+
+D. Ninth Circuit Proceedings .............. 11 
+SUMMARY OF ARGUMENT .................55. 12 
+cee lA Sid vag ad een toe be Cows Aen 14 
+
+
+I. THE COMPLAINT STATES A VALID CLAIM UNDER 
+ERISA’S TRUST, ANTI-INUREMENT, FIDUCIARY AND 
+
+
+PROHIBITED TRANSACTION PROVISIONS. ...... 14 
+A. The 1991 restatement was a sham designed to 
+ik ch wae ee eet bees ce ata ees. 14 
+B. Whether there is one plan or ‘vo is a factual 
+Gn ws ere este rcusssensececcce stone 17 
+C. Petitioners’ arguments are wrong. ........ 23 
+
+
+1. 29 U.S.C. §§ 1103, 1104 and § 1106 are 
+express, independent statutory requirements. ....... 23 
+
+
+2. The independent force of §§ 1103, 1104 and 
+1106, especially for assets attributable to employee 
+
+
+iv 
+
+
+contributions, is clez; from ERISA’s structure and 
+Ee >  etindn eee eke kek ne es 25 
+
+
+3. That amendments are not generally 
+fiduciary acts is no basis to dismiss claims under §§ 
+
+
+Sie, SSO Ee dack eusbautvaunvess 31 
+4. Dicta in Johnson v. Georgia-Pacific Corp. 
+COUR GAR RE occ ceccdostiasences 37 
+Ill THE § 1344 CLAIM IS NOT SUBJECT TO 
+ES 60 .u ab-ak ks 6b ea hen aeetens <8 40 
+A. Employers can be ordered to use Title [V 
+MURR 0.06 00 bus Uhh oeuneeenéeteneien 40 
+B. Whether Hughes should be ordered to terminate 
+the Contributory Plan depends on disputed —_— 
+RE, 6c vec ck sanenes ewesued abe netatees 
+Ill. THE § 1053 CLAIM IS NOT SUBJECT TO 
+EES, ov veunsdc ds bawapesheueadeued 48 
+CEE. cue tack vocneedeuuneseceeeeuse 49 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+
+
+Amato v. Western Union International, Inc., 
+773 F.2d 1402 (2d Cir. 1983), 
+
+
+cert. dismissed, 474 U.S. 1113 (1986) ........ 38 
+American Flint Glass Workers Union v. Beaumont Glass Co., 
+
+Pe le BO rrr 41-2 
+Bill Johnson's Restaurants, Inc. v. NLRB, 
+
+— fo & fo a a 17 
+Borst v. Chevron Corp., 36 F.3d 1308 (Sth Cir. 1994), 
+
+cert. denied, 514 U.S. 1066 (1995) .......... 29 
+In re Braniff Airways, Inc., 
+
+24 B.R. 466 (Bkricy. Tex. 1972) ............ 47 
+Bridgestone/Firestone, Inc. v. PBGC, 
+
+O92 F.24 105 (D.C. Cir. 1969)... ee eees 31 
+California Motor Transport Co. v. Trucking Unlimited, 
+
+SPREE os densecks (un seuewess 17 
+
+
+Central States, Southeast and Southwest Areas Pension Fund 
+v. Central Transport, Inc., 472 U.S. 559 (198518, 42 
+Chait v. Bernstein, 835 F.2d 1017 (3d Cir. 1987) ..... 29 
+Chambers v. Kaleidoscope, Inc. Profit Sharing Plan and 
+Trust, 650 F. Supp. 359 (N.D.Ga. 1986) ..... 45 
+Clothing & Textile Workers v. Murdock, 861 F.2d 1406 
+Pit Mn: cactsanedebnbennses ened 24-5 
+Commissioner v. Keystone Consolidated Industries, Inc., 
+ee 16, 21, 24, 33 
+Corley v. Hecht Co., 530 F. Supp. 1155 (D.D.C. 1982) 42 
+Credit Managers Association v. Kennesaw Life and Accident 
+Insurance Co., 809 F.2d 617 (9th Cir. 1987) ... 20 
+
+
+vi 
+
+
+Curtiss-Wright Corp. v. Schoonejongen, 
+
+
+ie MND ie i ee 35, 43 
+Cutaiar v. Marshall, $90 F.2d 523 (3d Cir. 1979) .... 18 
+Deibler v. Food and Commercial Workers Local 22, 
+
+973 P.26 206 (56 Coy. 19FZ) on wc ccccccccces 20 
+Delgrosso v. Spang and Co., 769 F.2d 928 (3d Cir. 1985), 
+cert. denied, 476 U.S. 1140 (1986) ................ 29 
+Dennis v. Rhode Island Hospital Trust National Bank, 
+
+744 F.2d 893 (ist Cir. 1984) ............... 34 
+Donovan v. Bierwirth, 680 F.2d 263 (2d Cir.), 
+
+cert. denied, 459 U.S. 1069 (1982) .......... 24 
+Donovan v. Dillingham, 
+
+688 F.2d 1367 (11th Cir. 1982) .......... 13, 19 
+Donovan v. Mazzola, 716 F.2d 1226 (9th Cir. 1983), 
+
+cert. denied, 464 U.S. 1040 (1984) ....... 18, 24 
+DuPont v. Delaware Trust Co.. 
+
+Fe Cae, OE cvincdscicvireses 34 
+Matter of Esco, 33 F.3d 509 (Sth Cir. 1994), 
+
+vacated, 50 F.3d 315 (Sth Cir. 1995) ......... 42 
+Matter of Esco, 50 F.3d 315 (5" Cir. 1995) .......... 42 
+Firestone Tire & Rubber Co. v. Bruch, 
+
+er Se SD oc ceudaebvabdanes 24, 33, 48 
+
+
+Geissal v. Moore Medical Corp, 118 S. Ct. 1869 (1998) 38 
+Gluck v. Unisys Corp., 960 F.2d 1168 (3d Cir. 1992) .. 43 
+Matter of Great Northern Iron Ore Properties, 
+
+263 N.W.2d 610 (Minn.), cert. denied sub nom., 
+
+
+Arms v. Watson, 439 U.S. 835 (1978) ........ 34 
+Grimo v. Blue Cross/Blue Shield of Vermont, 
+PO Tire BOSE Ge COED ober sccccccosecs 20 
+
+
+In re Gulf Pension Litigation, 764 F. Supp. 1149 
+(S.D. Tex. 1991), aff'd in part sub nom., 
+
+
+Vii 
+
+
+- Borst v. Chevron Corp., 
+
+36 F.3d 1308 (Sth Cir. 1994) ......... 41-2, 45-6 
+Hickerson v. Velsicol Chemical Corp.., 
+
+778 F.2d 365 (7th Cir. 1985), 
+
+cert. denied, 479 U.S. 815 (1986) ........... 48 
+Holland v. Valhi Inc., 22 F.3d 968 (10th Cir. 1994). 23, 47 
+Inter-Modal Rail Emplovees Association v. 
+
+Atchison, Topeka and Santa Fe Railway Co., 
+
+
+apg | PA Por rrr rrr 39 
+John Hancock Mutual Life Insurance Co. v. Harris and Trust 
+
+Savings Bank, 510 U.S. 86 (1993) .......... 29 
+Johnson v. Georgia-Pacific Corp.., 
+
+19 F.3d 1184 (7th Cir. 1994) ...... 12, 30-1, 37-9 
+Kinek v. Paramount Communications, Inc., 
+
+22 F.3d 503 (2d Cir. 1994), ..........4.. 23, 30 
+Leigh v. Engle, 727 F.2d 113 (7th Cir. 1984), 
+
+cert. denied, 489 U.S. 1078 (1989) ......... 25 
+
+
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996) 
+edeendancunes i, 2, 13, 16-7, 19, 32, 35-6, 37, 48 
+Mahoney v. Board of Trustees, 
+
+973 F.2d 968 (Ist Cir. 1992) ..........0005. 35 
+Marshall v. Snyder, 572 F.2d 894 (2d Cir. 1978) ..... 42 
+McDonald v. Provident Indemnity Life Insurance Co.., 
+
+60 F.3d 234 (Sth Cir. 1995), 
+
+cert. denied, 516 U.S. 1174 (1996) .......... 20 
+Mertens v. Hewitt Associates, 508 U.S. 248 (1993) ... 24 
+Mine Workers v. Boyle, 418 F. Supp. 406 (D.D.C. 1976), 
+
+affd, 567 F.2d 112 (D.C. Cir. 1977), 
+
+
+cert. denied, 435 U.S. 956 (1978) ........... 36 
+Moore v. Smith, 235 S.E.2d 102 (N.C.App. 1977) .... 34 
+NLRB vy. Amax Coal Co., 453 U.S. 322 (1981) .... 24, 26 
+
+
+Vili 
+
+
+Nationwide Mutual Insurance Co. v. Darden, 
+
+
+503 U.S. 318 (1992) ......... 35 
+
+PBGC vy. LTV Corp., 496 U.S. 633 (1990) .......... 44 
+
+Phillips v. Bebber, 914 F.2d 31 (4th Cir. 1990) ..... 41-2 
+
+Pollock v. Castrovinci, 476 F. Supp. 606 (S.D.N.Y. 1979), 
+
+Se GOD bicviksbisueaensoiecebe 44-5 
+Rinard v. Eastern Co., 978 F.2d 265 (6th Cir. 1992), 
+
+cert. denied, 507 U.S. 1029 (1993) .......... 27 
+
+
+Ruocco v. Bateman, Eichler, Hill, Richards, Inc.., 
+903 F.2d 1232 (9th Cir.), 
+
+
+cert. denied, 498 U.S. 899 (1990) ........... 36 
+Schmidt v. Air Products Canada Lid., [1994] 2 S.C.R. 611 
+(Sup. Ct. of Camada) ............ 34, 36-7, 44-5 
+
+
+Spink v. Lockheed Corp., 125 F.3d 1257 (9th Cir. 1997) 32 
+Steelworkers v. Harris & Sons Steel Co., 
+
+
+706 F.2d 1289 (3d Cir. 1983) ........... 21, 47 
+Struble v. New Jersey Brewery Emplovees Welfare Fund, 
+
+mori e Ff: le |) rere 35 
+Swidler & Berlin v. United States, 
+
+Sas Ge ee CUEED di ccccddcocce¥vises 38 
+Varity Corp. v. Howe, 
+
+516 U.S. 489 (1996) ........... 25-6, 33, 35, 37 
+
+
+Wickman v. Northwestern National Insurance Co.., 
+908 F.2d 1077 (1st Cir.), 
+
+
+cert. denied, 498 U.S.1013 ............... 20 
+Wilson v. Bluefield Supply Co., 819 F.2d 457 
+I RS oii ks es a 34 
+
+
+ix 
+STATUTES, REGULATIONS AND OPINION LETTERS 
+
+
+Employee Retirement Income Security Act of 1974, 29 USC 
+
+
+G 1001, GF. BOG, ccc ces cccccccccvescsevecvees passim 
+BP es COED co ccccnccesccccoces 19, 35, 36 
+SURE OUD nscccccececenccss 9, 21, 48-9 
+CED socdececcccebassosne 21, 49 
+PUREED Qibectsevecesvesesees 21, 22-3 
+BP Ue UE ccc ctcesconevnteaees passim 
+y Bik Coe 2) rrr rrr rrr 9, 12, 13, 17-26 
+Ts EID vc cccescvccsees 10, 13, 17-26 
+y Gi k Tk |) Perr rrrr ere Tee 9, 42 
+MPU EEED ccccnncecepeseseobaases 30 
+SUR EUEE civccnvecccccacnesens 9, 42 
+DU ENE ob dcocevecncvcneses 9, 40-44 
+Us FEE «cb cn cecscvessovcecovens 42 
+FOU BG. SURES nccccccccccscvccess 9, 40-48 
+
+Internal Revenue Code, 26 U.S.C. 
+
+PEUBL. BOD cccccccccvccsvces 10, 21, 23 
+Us ED cr etecccccsncesndenuens 18-9 
+PEUBL. CGTGD cccccscccrcccons 10, 16, 27-8 
+
+Taft-Hartley Act of 1947, 29 U.S.C. § 186 ....... 26, 39 
+
+26 C.F.R. §1.404(a)(26) 26. cee eee eee 44 
+
+26 C.F.R.§ 1.401-6(b) 1)... eee eee 43 
+
+26 C.F.R.§1.401(a4) .. 0c cece eee eee eee 21 
+
+26 C.F.R. § L.414(I)-1(D)(1) 6. oe eee 20 
+
+
+26 C.F.R. § 1.414(1)-1(b)(S) and (nm) 2... eee eee 23 
+
+
+x 
+SOG CaP Webs ch cacncedeneiduate 20 
+SVG We MER GPUS. voce ce renvcekavarione 47 
+OPO Wi SOUS OP RIOD. kc vn cicdccccctucvcct 21 
+MISCELLANEOUS 
+
+
+National Labor Relations Board, Legislative History 
+of the Labor Management Relations Act, 1947 . 26, 28 
+Subcommittee on Labor of the Committee on Labor and 
+Public Welfare, U.S. Senate, 
+Legislative History of the Employee Retirement Income 
+Pt og, eee 25-8, 31, 39, 48 
+Retirement Income Security for Employees Act, 1973: 
+Hearings Before the Subcommittee on Labor 
+of the Senate Committee on Labor and Public Welfare, 
+
+
+8 ee ee 28 
+PCG TG PEON 6 bik 0h ceeCS KR 34 
+SRE s\n we aha Wak 0 oe Re oe eae koa 34, 36 
+I OF RE Be os’ 6 oo Sc eceeeneee 34, 44, 45 
+
+
+Seth Kupferberg, Double Effects in Economics and Law, with 
+Special Reference to ERISA, 
+CP ED ng bch 6bcvd bods cdane 39 
+Norman P. Stein, Reversions from Pension Plans: History, 
+Policies, and Prospects, 
+ne 26, 27 
+James Stephens, The Crock of Gold (1912) .......... 49 
+
+
+1 
+
+
+INTRODUCTION 
+
+
+Petitioners characterize this case as “about respondents’ 
+quest for a ‘pot of gold.’” Pet. Brf. 1. They fail to mention that 
+the pot was filled by employees out of their after-tax salaries. The 
+respondent plaintiffs are participants in Hughes’ contributory 
+pension plan which when Hughes froze participation in 1990 -- 
+after four years in which only employees, not the employer, 
+contributed (J.A. 24) -- possessed a surplus (assets that exceeded 
+the present value of accrued benefits) of $1.2 billion. J.A. 25.' 
+
+
+The Complaint alleges that Hughes is using this surplus, 
+much of which derives from employee contributions, to pay 
+Hughes’ separate obligations to employees who are not 
+Contributory Plan participants. Such use of plan assets for a non- 
+plan corporate debt breaches the Employee Retirement Income 
+Security Act of 1974 (“ERISA”). The Complaint also alleges that 
+by barring new participants from the Contributory Plan, Hughes 
+capped its liabilities and insured that not all assets would be used 
+for Contributory Plan participants, requiring Hughes to use the plan 
+termination procedures established by ERISA. 
+
+
+Petitioners seek to obscure the facts of the case, especially 
+that Hughes is diverting assets from one plan to another. Tney 
+repeatedly argue that Hughes is free to use “plan assets to fund new 
+or different benefits for plan participants” (emphasis supplied). 
+Pet. Brf. 2, 10, 22. Yet the Complaint alleges that the different 
+benefits here are not for Plan participants, but for other employees 
+to whom Hughes made a separate promise. Petitioners’ premise 
+that there is just one plan raises, as the Ninth Circuit found, a 
+factual question that cannot be decided on a motion to dismiss. 
+
+
+' Forms 5500 filed by Hughes with the Department of Labor 
+show the same pattern since the complaint. Employees, but not the 
+employer, contributed to the plan, whose reported surplus was over 
+$2 billion as of November 1996. 
+
+
+2 
+
+
+Their legal premise, that a defined benefit plan only owes 
+participants the defined benefit, is also wrong. ERISA also 
+requires that plan assets, especially those attributable to employee 
+contributions, be held in trust and never inure to or be used for 
+employers’ benefit. An employee benefit plan under ERISA is not 
+a profit-making insurance company whose obligation is limited to 
+paying promised benefits, but a trust for beneficiaries of the trust. 
+Only on the disputed factual premise that there is just one plan and 
+by ignoring express provisions of ERISA can petitioners read 
+Lockheed Corp. v. Spink, 517 U.S. 882 (1996), to support them. 
+
+
+STATEMENT OF THE CASE 
+A. The Hughes Plans 
+
+
+1. The Contributory Plan 
+
+
+From 1951 to 1979, Hughes Aircraft Co. (“Hughes”) 
+sponsored the Hughes Retirement Plan. On January 1, 1980 this 
+plan was split into two: the Hughes Bargaining Retirement Plan for 
+unionized employees, and the Hughes Non-Bargaining Retirement 
+Plan (the “Contributory Plan” or “Plan”). J.A. 22, 61, 179. The 
+Contributory Plan has at least 10,000 participants (J.A. 21) -- 
+according to Hughes, 60,000 (J.A. 174). 
+
+
+Section 1.39 of the Contributory Plan as restated in 1985 
+defines its “participants.” As defined, they include employees not 
+covered by a union contract who agree to the Plan’s provisions “to 
+the extent consistent with applicable law,” and to contribute to the 
+Plan a portion (until 1986 4%, thereafter 3%) of their 
+compensation, which is withheld from their pay. Exhibit | to 
+March 12, 1992 Declaration of Ann L. Verhey in Support of 
+
+
+3 
+
+
+Defendants’ Motion to Dismiss.? Hughes was the Contributory 
+Plan’s administrator as well as its sponsor. J.A. 21, 64, 100. The 
+Plan called for Hughes to fund benefits “to the extent not provided 
+by contributions of Participants.” J.A. 23, 70. 
+
+
+From 1974, when ERISA was enacted, through 1990, 
+employee and employer contributions to the Contributory Plan 
+totaled $1.2 billion, of which $513 million came from the 
+employees. J.A. 23-24. In 1986 Hughes was acquired by General 
+Motors Corporation (“GM”), whose own retirement plan was 
+enormously underfunded. From 1987 through 1990 there were no 
+employer contributions to the Contributory Plan; employees 
+contributed $178 million. J.A. 24-25. At the beginning of 1987, 
+assets exceeded the present value of accrued benefits (both non- 
+vested and vested) by $1.1 billion. J.A. 25. Even with only 
+employees contributing, this figure grew thereafter, to $1.2 billion 
+at the end of 1989. Jd.’ 
+
+
+In May 1990 Hughes announced that 
+
+
+“a new retirement plan will be introduced at 
+Hughes effective January 1, 1991. Current 
+employees will have a choice between the existing 
+retirement plan and the new plan. The new 
+retirement plan will not require employee 
+contributions and will have benefits commensurate 
+with a non-contributory plan. 
+
+
+* Although excerpts from this document are in the Joint 
+Appendix (J.A. 37-104), Section 1.39 was inadvertently omitted. The 
+Joint Appendix includes key sections referred to in 1.39, notably 2.1 
+(J.A. 68-9) and 3.4 (J.A. 47, 71). Since other sections referred to in 
+1.39 are not included, for convenience the Plan's complete Articles 
+I (including 1.39) and II are attached as an appendix to this Brief 
+pursuant to this Court’s Rule 24.3. 
+
+
+’ As previously noted, the figure later grew to over $2 billion. 
+
+
+4 
+
+
+“The Company has no plan to terminate the 
+existing retirement plan for currently participating 
+employees.” J.A. 198. ~ 
+
+
+Hughes announced that while current employees could stay in¢he 
+Contributory Plan, no one hired after July 1990 could join. Current 
+employees not already in the Contributory Plan would have a “one- 
+time opportunity” to join before December 21, 1990, after which 
+it would admit no new participants. J.A. 208, 226. 
+
+
+2. The Contributory Plan and Hughes’ New 
+Retirement Plan 
+
+
+Effective January 1, 1991, Hughes executed a document 
+referred to below as the “1991 Restatement.” J.A. 105. Although 
+purportedly a restatement of the Contributory Plan, the 1991 
+Restatement describes both that Plan, and the noncontributory 
+“new retirement plan” announced by Hughes the previous spring. 
+
+
+The two plans, which Hughes named “benefit structures.” 
+are described in the 1991 Restatement’s Exhibits A and B. 
+Exhibits A and B state, respectively, “additional terms of the Plan 
+that apply to Participants in the contributory benefit structure” and 
+“in the non-contributory benefit structure.” J.A. 125, 159. 
+“Additional terms” is deceptive: as summarized below, they 
+include virtually all provisions that make up a plan, including rules 
+for participation, accruals, benefits, and funding. Terms not in the 
+Exhibits, but applicable to both plans, are limited to such matters 
+as naming Hughes as the plan administrator. J.A. 106. 
+
+
+The old Contributory Plan described in Exhibit A of the 
+199] Restatement, and the new noncontributory plan described in 
+Exhibit B, have totally different participants. Section 1.45 of the 
+1991 Restatement defines “participant” as “any person included in 
+the Plan as provided in Article II.” Article II simply refers to “the 
+Applicable Exhibit.” Exhibit 2 to March 12, 1992 Declaration of 
+
+
+5 
+
+
+Ann L. Verhey in Support of Defendants’ Motion to Dismiss; J.A. 
+108. Exhibit A retains the Contributory Plan’s old participation 
+provision except that employees hired after July 1990 or who did 
+not join by December 21, 1990 are barred. J.A. 131-2. Exhibit B, 
+by contrast, defines as participants all non-union employees except 
+participants in the Contributory Plan. J.A. 162-3. This is not a 
+matter of one plan offering options. While participants in the 
+Contributory Plan can switch out (though almost none have, J.A. 
+34), no one can join the Contributory Plan after December 1990. 
+
+
+Other differences between the plans are stark. The new 
+plan has far inferior benefits. According to Hughes, only “2% of 
+the employee participants participating in the contributory benefits 
+structure elected to change.” J.A. 34. The benefits described in 
+Exhibits A and B (J.A. 109, 125-172) had been contrasted by 
+Hughes itself when announcing its “new retirement plan.” J.A. 
+198, 208-215. Major differences include: 
+
+
+Contributory “New Retirement 
+Plan Pian” 
+Beneficiaries 
+eligibility (J.A. non-bargaining all other non- 
+208, 226) employees hired bargaining 
+by August 1, 1990 | employees 
+who elected 
+participation by 
+December 21, 
+1990 
+participation (/d.) | voluntary automatic 
+
+
+Funding and 
+Payment of 
+Benefits 
+
+
+employee 3% of none 
+contribution compensation 
+required (J.A. 210) 
+
+
+certain and 5, 10 or 15 years 10 years 
+continuous annuity 
+options available 
+
+
+(J.A. 215, 230) 
+
+
+social security 
+adjustment option 
+available (J.A. 
+215, 230-231) 
+
+
+modified cash yes no 
+refund annuity 
+available (J.A. 
+215, 230) 
+
+
+6 
+Benefits 
+normal pension based on years of | based on .015 
+formula (J.A. 210- | service times times average 
+211, 229) .0175 times monthly 
+monthly average “compensation” 
+“compensation” over 35 years of 
+over best-paid five | service 
+years of service 
+“compensation” on | yes no 
+which pension is 
+based includes all 
+premium pay (J.A. 
+212) 
+alternative benefit | yes no 
+formulas used if 
+they result in a 
+higher pension 
+(J.A. 210-211) 
+unreduced early at age 55, if age at age 62, with 10 
+retirement benefit | and years of years of 
+available (J.A. service total 75 continuous service 
+213-214) 
+COLA paid to yes no 
+retirees (J.A. 212) 
+health benefits for | yes no 
+retirees and 
+
+
+dependents under 
+age 65 (J.A. 212) 
+
+
+In short, Exhibit A (the Contributory Plan) and Exhibit B (the “new 
+retirement plan”) are stapled to the same document and name the 
+same administrator. They have almost nothing else in common. 
+
+
+Hughes’ May 1990 announcement said the new retirement 
+plan would be “paid for entirely by Hughes.” J.A. 201. The 1991 
+Restatement, however, provides for funding of the new plan not 
+“entirely by Hughes,” but entirely from Contributory Plan assets. 
+This plainly benefited Hughes, just as if the Contributory Plan had 
+paid Hughes’ wage, debt service or electric bills. The 1991 
+Restatement calls for Hughes to fund benefits “to the extent not 
+provided by contributions of Participants if required under the 
+Applicable Exhibit.” J.A. 108. By making Contributory Plan 
+assets available for benefits under both exhibits, the 1991 
+
+
+Restatement diverted Contributory Plan assets, largely from 
+employee payments (Hughes had not contributed at all since 1986), 
+to meet Hughes’ obligation to the noncontributory plan. 
+
+
+Besides creating the “new retirement plan” announced 
+earlier by Hughes but funding it (contrary to the announcemert) 
+out of Contributory Plan surplus, the 1991 Restatement made two 
+significant changes in the Contributory Plan. First, it allowed 
+Hughes to recoup surplus assets in case of plan termination, a new 
+provision. J.A. 97-9, 118-9. Second, as already discussed, it 
+limited participation in the Contributory Plan to employees who 
+joined before December 21, 1990. J.A. 131-2. By closing 
+participation in the Contributory Plan, Hughes put a ceiling on that 
+Plan’s liabilities. No new participants, only current ones, could 
+accrue benefits. Future accruals, while significant, became 
+actuarially predictable. Ongoing accruals also continued to require 
+ongoing employee contributions. 
+
+
+Plaintiffs allege that the Contributory Plan’s surplus 
+sufficed to make it actuarially certain, once new participants were 
+barred, that Hughes would continue to pay nothing to the 
+Contributory Plan. Furthermore, even without employer payments, 
+the Contributory Plan’s surplus would grow forever.’ Contributory 
+Plan assets were “substantially in excess of those required to fund 
+all current and future pensions of participants,” and no new 
+participants could join. J.A. 26. The surplus, largely from 
+employee payments, would finance the new noncontributory plan 
+which Hughes had announced would be “paid for entirely by 
+Hughes.” J.A. 201. 
+
+
+B. The Complaint 
+
+
+The Complaint, filed by five plaintiffs seeking to represent 
+“all participants of the Plan who are or may become eligible to 
+
+
+* As noted, Forms 5500 confirm that this has been true so far. 
+
+
+receive retirement benefits under the Plan,” alleged six causes of 
+action under 29 U.S.C. §§ 1109 and § 1132. J.A. 19-32.° First, 
+plaintiffs alleged breach of 29 U.S.C. § 1103. J.A. 27. § 1103 
+requires that “all assets of an employee benefit plan shall be held 
+in trust,” adding, in § 1103(c): 
+
+
+“(1) Except...under sections 1342 and 1344 of this 
+title (relating to termination of insured plans), or 
+under section 420 of title 26 as in effect on January 
+1, 1995, the assets of a plan shall never inure to the 
+
+
+benefit of any employer.” 
+
+
+Second, plaintiffs alleged breach of 29 U.S.C. § 1104(a)(1), 
+which requires fiduciaries to act “solely in the interest of the 
+participants.” Third, they alleged breach of 29 U.S.C. § 1053, 
+which makes “an employee's rights in his accrued benefit derived 
+from his own contributions... nonforfeitable.” J.A. 27-8. 
+
+
+Fourth, plaintiffs alleged breach of 29 U.S.C. § 1344, part 
+of ERISA’s Title IV. J.A. 28-9. Title IV sets the “exclusive 
+means,” 29 U.S.C. § 1341(a)(1), for pension plan termination. For 
+a plan with assets sufficient to meet liabilities, these include notice 
+from the plan administrator to affected parties including the 
+Pension Benefit Guaranty Corporation (“PBGC™), and can 
+conclude with the employer’s receipt of surplus assets only 
+pursuant to § 1344(d). That section allows employers to recoup 
+surplus derived from their own payments if a plan provision 
+permitting recoupment has been in effect for at least five years. 
+Surplus attributable to employee payments must “be equitably 
+
+
+® § 1109(a) makes plan fiduciaries which breach a duty to a plan 
+“liable to make good... any losses to the plan... , and to restore to 
+such plan any profits... made through use of assets of the plan.” It 
+permits “other equitable or remedial relief.” § 1132(a) lets plan 
+participants sue to enjoin violations of ERISA or for “other 
+appropriate equitable relief” to enforce the statute. 
+
+
+10 
+
+
+distributed to the participants who made such contributions,” under 
+§ 1344(d)(3). The statute, that is, requires that employee 
+contributors to a pension trust be given the remainder as well as the 
+beneficial interest in this part of its assets. § 1103, already quoted, 
+makes employer recoupment of assets an express exception to its 
+anti-inurement rule. The Internal Revenue Code’s (“Code’s”) § 
+4980 requires employers to pay a special tax on recouped assets. 
+
+
+Plaintiffs alleged that by closing participation in the 
+Contributory Plan and thereby creating an actuarial certainty that 
+a large share of its assets would never be used to pay benefits to 
+Contributory Plan participants, Hughes rendered the Contributory 
+Plan what at common law can be called a “wasting,” “dry” or 
+“resulting” trust. These terms mean, basically, that if a trust's 
+assets will not be used for their intended purpose, the trust should 
+be terminated and its assets equitably distributed. For a pension 
+trust, Title IV specifies the means of termination including how 
+assets are allotted. Having rendered the Plan a wasting trust, 
+plaintiffs argued, Hughes must use the prescribed means for plan 
+termination and ultimately distribute surplus under § 1344 -- 
+instead of using assets of the wasting trust to meet Hughes’ 
+separate obligations under the new noncontributory plan. 
+
+
+Fifth, plaintiffs alleged a breach of 29 U.S.C.§ 1106(a)(1), 
+which forbids a fiduciary to cause a plan to engage in a transaction 
+which the fiduciary “knows or should know... constitutes a direct 
+or indirect ... use by or for the benefit of a party in interest of any 
+assets of the plan.” J.A. 29-30. They alleged that by using 
+Contributory Plan assets to pay its separate debt to the 
+noncontributory plan, Hughes breached §§ 1104 and 1106. 
+
+
+The sixth and last cause of action involved facts different 
+from the others. In 1989, Hughes created an early-retirement 
+program which used Contributory Plan assets to induce some 
+employees to retire. J.A. 25-6, 42-5. Plaintiffs alleged that in 
+
+
+11 
+
+
+using Plan assets for this purpose, rather than for the participants, 
+Hughes breached § 1104. J.A. 30-1. 
+
+
+C. District Court Proceedings 
+
+
+Before any discovery, Judge. Gadbois dismissed the 
+complaint without leave to amend. Pet. App. 4a, 53a-63a. He held 
+that in a defined benefit plan “No participant has a right to the 
+surplus assets, but instead is entitled to the defined benefit” (Pet. 
+App. 56a); that “upon the face of Plan documents” the contributory 
+and noncontributory “benefits structures” are not two distinct plans 
+(Pet. App. 58a); and that “As the allegations are insufficient to 
+establish that a new plan has been created, Plan assets cannot have 
+been unlawfully diverted” (Pet. App. 60a). He called “wasting 
+trust analysis... not applicable.” Pet. App. 59a. 
+
+
+D. Ninth Circuit Proceedings 
+
+
+The Ninth Circuit reversed. Pet. App. la-27a. It 
+summarized the claim that Hughes was diverting Contributory Plan 
+surplus to the new noncontributory plan, and said that to accept 
+Hughes’ denial at the pleading stage would “disregard plaintiffs’ 
+allegations... that two separate pension plans exist.” Pet. App. 3a- 
+4a, 16a. Besides the question if there was one plan or two, the 
+court saw another issue requiring factual development: whether 
+closing enrollment in the Contributory Plan made it a wasting trust 
+which must be terminated. To decide that, the court said, required 
+evidence of whether the “Contributory Plan’s purposes have been 
+accomplished and whether its liabilities are fixed enough to 
+terminate the plan.” Pet. App. 1 1a and n. 3, 22a-23a. 
+
+
+The panel noted numerous differences from Lockheed, 
+including that there: a) the plan was solely employer-funded, b) an 
+amendment enhanced benefits for plan participants, and c) no one 
+claimed Lockheed had made its plan a wasting trust or devised a 
+sham transaction to cloak the unlawful transfer of assets to another 
+
+
+12 
+
+
+plan. Pet. 7a-8a, 25a. Judge Norris, dissenting, called the 
+“contributory/non-contributory dichotomy... the heart of the 
+majority's analysis,” and said that “[i}n terms of economic reality” 
+the distinction “should make no difference.” Pet. App. 37a. Like 
+Judge Gadbois, he argued that participants in a defined benefit plan 
+are entitled to only defined benefits and that “The 1991 amendment 
+did not create a separate pension plan.” Pet. App. 48a, 30a-31a. He 
+also endorsed a suggestion that since “{i]n bad times (when 
+declines in the value of assets make plans underfunded) employers 
+must contribute more,” it would be “asymmetric” not to let them 
+profit from plan surpluses. Pet. App. 29a-30a, quoting Johnson v. 
+Georgia-Pacific Corp., 19 F.3d 1184, 1190 (7th Cir. 1994).. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. In substance, what Hughes did in this case was to create 
+a new, separate plan for non-participants in the Contributory Plan, 
+then dip into the Contributory Plan’s coffers to meet this unrelated 
+debt. To insure the availability of the entire Contributory Plan 
+surplus, Hughes capped that Plan’s liabilities by barring new 
+participants, which insured that not all Contributory Plan assets 
+would be used for Contributory Plan participants. Having done 
+this, Hughes should have used Title [V means to terminate the 
+Contributory Plan, but did not do so because it did not want to 
+distribute surplus to employees nor to pay tax. By nof using Title 
+IV means to terminate the Contributory Plan, Hughes, in substance, 
+illegally took for its own use that Plan’s entire surplus. 
+
+
+Hughes’ diversion of Contributory Plan assets to pay a 
+separate corporate debt was forbidden by 29 U.S.C. §§ 1103, 1104 
+and 1106. To conceal the substance of its actions, Hughes 
+mislabeled the Contributory Plan and new noncontributory plan 
+two “benefit structures” of one plan. The 1991 Restatement was 
+a sham transaction that disguised two plans as one. 
+
+
+13 
+
+
+Whether the Contributory Plan and the noncontributory 
+plan to which the older Plan’s assets are being diverted are distinct 
+plans as plaintiffs allege cannot be decided on a motion to dismiss. 
+Precedent dating at least to Donovan v. Dillingham, 688 F.2d 1367 
+(11th Cir. 1982), shows the criteria for judging when a “plan” 
+exists: ascertainment of the benefits provided, beneficiaries, source 
+of funding, and procedure for paying benefits. Whether a plan 
+exists in light of these criteria has repeatedly been found a factual 
+question. Using these criteria, the Contributory Plan and new 
+retirement plan are plainly distinct enough so that a claim that there 
+are two plans cannot be dismissed. 
+
+
+Petitioners stress that defined benefits are being paid. The 
+independent force of §§ 1103, 1104 and 1106, especially for assets 
+from employee contributions, is clear from ERISA’s text, structure 
+and legislative history. Had Congress only wished to require that 
+defined benefits be paid, there would have been no reason for § 
+1103. Plans could have been regulated like banks and insurance 
+companies which are required to keep promises but do not hold all 
+assets in trust. Far from doing that, ERISA expressly differentiates 
+plans from insurance companies. 
+
+
+That plan amendments are not generally fiduciary acts is 
+also no basis to dismiss this complaint. § 1103's reach is not 
+limited to fiduciary acts. As for §§ 1104 and 1106, Lockheed 
+makes clear that implementing an amendment may be a fiduciary 
+act even when adopting the amendment is not. Sham transactions 
+are not sanitized by calling them “amendments.” 
+
+
+2. Plaintiffs seek an order compelling Hughes to use the 
+means for plan termination of Title IV, ending with distribution of 
+surplus under § 1344. The issue for this Court is whether an 
+employer can be compelled to use Title [V procedures. Whether 
+the district court should do so in this case depends on factual 
+questions not yet developed. 
+
+
+14 
+
+
+Petitioners admit that courts can enforce a contract by 
+ordering plan termination. In doing so, courts apply common-law 
+contract principles, and have the same power when applying trust 
+principles. By closing participation in the Contributory Plan, 
+Hughes created an actuarial certainty that a large part of its assets, 
+including those from employee payments, would never be used for 
+the Contributory Plan's beneficiaries. Common-law courts in such 
+situations ordered trusts terminated and their assets equitably 
+distributed. For a pension trust, Title [V and its § 1344 establish 
+the means of termination and how assets are equitably allotted. A 
+court can order those means to be used. 
+
+
+3. Since Hughes threatens rights made nonforfeitable by 
+§ 1053, the claim under that section cannot be dismissed. 
+
+
+ARGUMENT 
+
+
+1. THE COMPLAINT STATES A VALID CLAIM UNDER 
+ERISA’S TRUST, ANTI-INUREMENT, FIDUCIARY AND 
+PROHIBITED TRANSACTION PROVISIONS. 
+
+
+A. The 1991 restatement was a sham designed to evade 
+ERISA. 
+
+
+In substance, what Hughes did in this case was to create a 
+new pension plan for non-participants in the Contributory Plan -- 
+announced as a “new retirement plan... paid for entirely by 
+Hughes” (J.A. 198, 201) -- , then dip into the Contributory Plan’s 
+coffers to meet this separate corporate debt. Doing this saved 
+Hughes hundreds of millions or even billions of dollars which it 
+would otherwise have had to pay to keep its promise to participants 
+in the noncontributory plan. Instead, payment is coming from 
+assets of the Contributory Plan, including those attributable to 
+employee contributions. 
+
+
+ee 
+
+
+15 
+
+
+To insure the availability of the entire Contributory Plan 
+surplus (some of which might otherwise have been needed for 
+benefits to new Contributory Plan participants), Hughes capped 
+that Plan’s potential liabilities by barring new participants. The 
+Contributory Plan’s assets are so large that to an actuarial certainty, 
+they will never be used for benefits to current Contributory Plan 
+participants, and no new participants can join. If not (improperly) 
+diverted to other uses by Hughes, the assets would simply grow 
+forever. The Contributory Plan has been rendered a “wasting 
+trust,” one not being used for its intended purpose. 
+
+
+What Hughes should have done, once the Contributory Plan 
+became a wasting trust as a result of the bar on new participation, 
+was to terminate that Plan through the means described in Title IV. 
+Had Hughes done so, however, it would have had to distribute 
+surplus to employees under § 1344, and pay a tax under the Code’s 
+§ 4980 on any funds which Hughes recouped. This would have 
+eliminated most or all of the profit Hughes sought by using 
+Contributory Plan assets to meet Hughes’ separate debt. By nor 
+using Title IV means to terminate the Contributory Plan, Hughes, 
+in substance, illegally recouped for its own use the entire surplus.° 
+
+
+Hughes’ diversion of Contributory Plan assets to pay a 
+separate corporate debt was forbidden by §§ 1103, 1104, and 1106. 
+§ 1103 has an exception for assets that revert to the employer on 
+plan termination, but reversion is impermissible for assets 
+attributable to employee contributions. It is a per se breach of § 
+1106 for a fiduciary to use a plan’s assets for the employer rather 
+than the plan’s participants. 
+
+
+® While the case was pending, Hughes’ shareholders even more 
+directly profited from surplus assets of the Contributory Plan. As 
+previously stated, Hughes merged with Raytheon. The “sales price” 
+for the merger surely reflected that Hughes was paying its debt te 
+the noncontributory plan with the Contributory Plan’s money. 
+
+
+16 
+
+
+Had Hughes openly announced that the administrator of the 
+Contributory Plan would use its assets to meet Hughes’ debt by 
+paying the noncontributory plan money owed by Hughes, courts 
+would have had no difficulty finding a breach of ERISA. The 
+administrator of the Contributory Plan would clearly have violated 
+§§ 1103, 1104 and 1106.’ Similarly, had Hughes announced that 
+it was terminating the Contributory Plan but did not wish to 
+distribute surplus to employees nor to pay tax on what Hughes 
+recouped, the PBGC and Internal Revenue Service would have had 
+no difficulty finding a breach of § 1344 and the Code’s § 4980. 
+
+
+Hughes sought to conceal the substance of its actions by 
+naming the Contributory Plan and noncontribory plan two “benefit 
+structures” of a single plan. By stapling both to one document, 
+which it styled an “amendment” of the Contributory Plan, Hughes 
+sought to immunize its actions from review. In short, the 1991 
+Restatement was a sham transaction which disguised two plans as 
+one to try to hide the transfer of assets from one plan to the other. 
+
+
+In Lockheed, this Court held that it was not a fiduciary act 
+for the plan sponsor to adopt a lawful amendment improving 
+benefits for some participants in a noncontributory pension plan, 
+
+
+” As Lockheed recently explained, § 1106 bars 
+
+
+“commercial bargains that present a special risk of 
+plan underfunding because they are struck with plan 
+insiders, presumably not at arms-length.... [:] uses of 
+plan assets that are potentially harmful to the plan.” 
+517 U.S. at 893. 
+
+
+Subject to exemption under § 1108, such transactions are prohibited 
+generally, even if in a specific case there is no harm. See 
+Commissioner v. Keystone Consolidated Industries, Inc., 508 U.S. 
+152, 160 (1993). Regardless whether the Contributory Plan’s ability 
+to pay benefits was threatened by diversion of assets to the 
+noncontributory plan, it is obvious that in general, to have a plan 
+pay its sponsor’s unrelated debts risks plan underfunding. 
+
+
+17 
+
+
+and that it was not a breach of fiduciary duty for those 
+administering the plan to implement the amendment by paying 
+benefits. The Court observed that nonfiduciary provisions of 
+ERISA (such as § 1103) do govern plan amendments, 517 U.S. at 
+891, and that paying benefits in a “sham transaction, meant to 
+disguise an otherwise unlawful transfer of assets,” might indeed be 
+a fiduciary breach, /d. at 895 n. 8. Hughes’ scheme, described 
+above, is a perfect example of such a “sham transaction.” In 
+implementing it, Hughes as administrator of the Contributory Plan 
+breached its fiduciary duty. 
+
+
+Petitioners, to repeat, seek to obscure the facts alleged. The 
+Ninth Circuit did not hold that Hughes “unwittingly” or 
+“accidentally” created a new plan. Pet. Brf. 28, 34. The actions 
+challenged bear no resemblance to plan amendments which 
+according to the ERISA Industry Committee, are “routinely... 
+adopted to alter, and typically to improve, plan benefits for 
+participants.”” ERISA Industry Committee Brf. 17. Rather, Hughes 
+schemed to evade ERISA’s prohibition on using Contributory Plan 
+assets to meet Hughes’ debt to the separate plan which had been 
+trumpeted by Hughes itself as a “new retirement plan... paid for 
+entirely by Hughes.” J.A. 198,201. The 1991 Restatement was a 
+sham, describing as one plan what was really two. 
+
+
+B. Whether there is one plan or two is a factual 
+question. 
+
+
+§§ 1103, 1104 and 1106 require a plan’s assets to be held 
+in trust for the sole benefit of participants. Using trust assets to pay 
+the employer’s separate obligations under a different plan is a clear 
+
+
+* The opinion also described a “sham transaction” as “cover for 
+an illegal scheme.” This Court has often used the word “sham” with 
+that connotation. See, e.g., California Motor Transport Co. v. 
+Trucking Unlimited, 404 U.S. 508, 511 (1972); Bill Johnson's 
+Restaurants, Inc. v. NLRB, 461 U.S. 731, 741 (1983). 
+
+
+18 
+
+
+breach of ERISA’s trust, anti-inurement and prohibited-use 
+
+
+provisions. To find otherwise would sanction robbing Peter to pay 
+Paul.” 
+
+
+This has been clear at least since Cutaiar v. Marshall, 590 
+F.2d 523, 528-30 (3d Cir. 1979), and Donovan v. Mazzola, 716 
+F.2d 1226, 1238 (9th Cir. 1983), found it violated § 1106 for one 
+plan to deal with another that did not have identical participants.'° 
+The Department of Labor, as well as the court, saw a per se 
+violation “[i]f there is a single member who participates in only 
+one of the plans.” Cutaiar, supra. Cf Central States, Southeast 
+and Southwest Areas Pension Fund v. Central Transport, Inc., 472 
+U.S. 559, 571 n. 12 (1985) (trustee attempt “to expand plan 
+coverage beyond the class defined in the plan’s terms” would 
+breach § 1104). 
+
+
+That the diversion of assets to a different plan breaches § 
+1103 is evident from the insertion in § 1103(c) of an exception 
+“under section 420 of title 26.” § 420 lets pension plans transfer 
+assets to a special account used to pay the employer's debt to 
+retirees for health benefits. Such benefits must be paid promptly, 
+with unused amounts returned at year’s end to the pension plan. 
+Payment can be made only to retirees already entitled to benefits 
+under the pension plan as well as to health benefits; other limits 
+include a requirement that employers not reduce the health benefits 
+provided for five years. § 420(c)(1)(B), (c)\(3) and (e)(1)(C). Even 
+
+
+* “To rob Peter and pay Paul is said to have derived its origin 
+when, in the reign of Edward VI, the lands of St. Peter at 
+Westminster were appropriated to raise money for the repair of St. 
+Paul’s in London.” John Heywood, Proverbes (1546). 
+
+
+'’ In Cutaiar, a union pension fund lent money to a union 
+welfare fund; there was “no hint of self-dealing, no trace of bad 
+faith. .. [T}he terms of the transaction were fair.... [A] great many 
+employees participate in both plans.” The loan was nonetheless a 
+prohibited use of plan assetS. 
+
+
+19 
+
+
+with all these limits, such use of plan assets for a non-plan 
+employer benefit obligation falls within § 1103's ban on inurement 
+to the employer. If it did not, there would have been no reason to 
+add an express exception to § 1103. 
+
+
+Petitioners’ claim that assets are being used to fund 
+“benefits to plan participants” (Pet. Brf. 22) rests on a sharply 
+disputed factual premise: that the Contributory Plan and the “new 
+retirement plan” which Hughes announced in 1990 are not two 
+plans but two “benefit structures.” Petitioners echo Judge Norris: 
+
+
+“The focus of our inquiry under ERISA’s anti- 
+inurement provision must be whether Hughes used 
+Plan assets for a purpose other than the payment of 
+benefits to Plan participants. The answer to that 
+question is clearly no.” Pet. Brf. 26-7, quoting Pet. 
+App. 39a. 
+
+
+But if the Contributory Plan and “new retirement plan” are two 
+separate plans, the answer, which petitioners agree is decisive, is 
+“clearly yes.” If there are two plans, Lockheed’s holding that it is 
+proper for a plan to pay “benefits to the participants pursuant to its 
+terms,” 517 U.S. at 895, has no relevance. 
+
+
+Judge Gadbois ruled that “upon the face of Plan 
+documents” the contributory and noncontributory “benefits 
+structures” were not two plans. Pet. App. 58a. The face of Plan 
+documents is obviously no basis to dismiss a complaint whose 
+essence is that those documents are a sham meant to cover the 
+reality which Hughes itself had earlier, more candidly, described 
+when it announced “a new retirement plan” and contrasted “the 
+existing retirement plan and the new plan.” J.A. 198. 
+
+
+While 29 U.S.C. § 1002(3)’s definition of “plan” is not 
+illuminating, ample precedent dating at least to Donovan v. 
+Dillingham, 688 F.2d 1367, 1373 (11th Cir. 1982), shows the 
+
+
+20 
+
+
+criteria for judging when a “plan” exists: ascertainment of the 
+benefits provided, the beneficiaries, the source of funding, and the 
+procedures for receiving benefits. See, e.g. McDonald v. 
+Provident Indemnity Life Insurance Co., 60 F.3d 234, 235 (Sth Cir. 
+1995): Grimo v. Blue Cross/Blue Shield of Vermont, 34 F.3d 148, 
+151 (2d Cir. 1994). Whether a plan exists in terms of these criteria 
+has repeecdly been found to be a factual question. See, e.g. 
+Deibler v. * ad and Commercial Workers Local 22, 973 F.2d 206, 
+209 (3d Cir. 1992); Wickman v. Northwestern National Insurance 
+Co., 908 F.2d 1077, 1082 (lst Cir. 1990); Credit Managers 
+Association v. Kennesaw Life and Accident Insurance Co., 809 
+F.2d 617, 625 (9th Cir. 1987). The table above contrasting the 
+Contributory Plan and noncontributory plan -- drawn from Hughes’ 
+brochure announcing its “new retirement plan” (J.A. 198) -- shows 
+that the two are (at the least) distinct enough under the Dillingham 
+criteria so a claim they are two plans cannot be dismissed. 
+
+
+Implicitly recognizing that the existence of a factual 
+question, whether there is one plan or two, is fatal to their position, 
+petitioners argue that since “all assets in the Hughes plan are 
+available to pay benefits under both the contributory and non- 
+contributory benefit structures,” both must be “a single plan as a 
+matter of law.” Pet. Brf. 27-8. Petitioners cite two regulations, 26 
+C.F.R. § 1.414(1)-1(b)(1) and 29 C.F.R. § 2520.102-4, which say 
+that the existence of several benefit structures does not preclude 
+finding a single plan. Whatever its relevance if plaintiffs sought 
+judgment on the pleadings, this plainly does not support the 
+defendants’ claim that there is one plan as a matter of law. 
+
+
+26 C.F.R. § 1.414(1)-1(b)(1) also says, “A plan is a ‘single 
+plan’ if and only if, on an ongoing basis, all of the plan assets are 
+available to pay benefits to employees who are covered by the 
+plan.” Petitioners say that this definition applies because “all 
+assets in the Hughes plan are available to pay benefits under both 
+the contributory and non-contributory benefit structures.” Pet. Brf. 
+27. But as their own next sentence says, a crux of the complaint is 
+
+
+21 
+
+
+that such use of the assets is illegal. If there are two plans, based 
+on facts recognized as determinative in Dillingham and other cases, 
+Contributory Plan assets are not legally available to the 
+noncontributory plan. Petitioners’ argument is circular, based on 
+the very factual claim (that there is one plan) which is in dispute. 
+
+
+It is not surprising that § 1.414(1)-l(b)(1) is not 
+illuminating. By its terms, it applies only “[flor purposes of” the 
+Code’s § 414(1) dealing with “the combining of two or more plans 
+into a single plan.”'' § 414(1), according to § 1.414(1)-1(b)(1), does 
+not even apply “unless more than a single plan is involved.” 
+Hughes is arguing that there have never been two plans. 
+
+
+The goal of § 414(1) and § 1.414(1)-1(b)('} °s to protect 
+employees against having their entitlemerts f° ~.< when two 
+plans merge. Other contexts call for ot «pproaches.’* In 
+general, as the Department of Labor has put it in an opinion 
+consistent with court precedent already discussed, “whether there 
+is a single plan or multiple plans is an inherently factual question.” 
+Opinion No. 96-16A, 1996 WL 491410 (E.R.LS.A). 
+
+
+Examination of 29 U.S.C. §§ 1053 and 1054 confirms that 
+Hughes itself knew the Contributory Plan and “new retirement 
+plan” were separate plans. § 1054(c), which tells how to compute 
+
+
+'' 29 U.S.C. § 1058 is a companion, “labor” section of the Code’s 
+§ 414(1). Cf Keystone Consolidated, 508 U.S. at 160 (Congress 
+adopted ERISA’s “labor” and Code provisions in tandem). 
+
+
+For example, 26 C.F.R.§1.401(a)4) requires “disaggregating” 
+what would for some purposes be one “plan,” when applying 
+nondiscrimination rules. The Code’s § 4980(d)\(5) treats what would 
+for some purposes be two “plans” as one, when deciding if there is a 
+“qualified replacement plan” after plan termination. Cf. Steelworkers 
+v. Harris & Sons Steel Co., 706 F.2d 1289, 1290 (3d Cir. 1983) 
+(regulations “serve a limited purpose... recognizing the dangers that 
+employer manipulation of pension benefits may create”). 
+
+
+22 
+
+
+the rights which § 1053 requires be nonforfeitable, differentiates 
+defined benefit and defined contribution plans. Basically, the latter 
+use actual investment earnings to compute nonforfeitable rights; 
+the former use an imputed, usually lower rate of interest. But 
+under § 1054(c)(4), if a defined benefit plan permits voluntary 
+employee contributions, “the portion of an employee's accrued 
+benefit derived from such contributions shall be treated” as if it 
+arose in a defined contribution plan. 
+
+
+In the historic Contributory Plan, employee payments were 
+a condition of participation: mandatory, for purposes of § 1054. 
+But if it were true, as petitioners now claim, that the 1991 
+Restatement established a doublebreasted plan only one of whose 
+“benefit structures” was contributory, this hybrid “plan” would 
+have to be classified under § 1054 as one that “permits voluntary 
+employee contributions.” Under § 1054(c)(4), participants in the 
+“contributory benefit structure” would have nonforfeitable rights 
+based on actual plan earnings, as if they were participants in a 
+defined contribution plan. The 1991 Restatement shows nothing 
+of the kind. Relevant sections of Exhibit A (J.A. 135 and 148), like 
+those of the old Contributory Plan (J.A. 72, 89), use an imputed 
+interest rate. Hughes itself knew the Contributory Plan and 
+noncontributory plan were separate: otherwise, § 1054(c) would 
+have required different treatment. 
+
+
+In footnotes, petitioners suggest that even if there were two 
+plans, 29 U.S.C. § 1058 authorized Hughes 
+
+
+“to spin off participants in the non-contributory 
+benefit structure -- along with surplus assets -- from 
+the plan as long as participants in the contributory 
+benefit structure continued to receive their defined 
+benefits.” Pet. Brf. 29 n. 6; cf Pet. Brf. 26 n. 3.. 
+
+
+The claim, which was not encompassed by the petition for 
+certiorari, is also irrelevant and spurious. Hughes could not 
+
+
+adhe 
+
+
+ee ee ee 
+
+
+23 
+
+
+possibly “spin off participants” who were never in the Contributory 
+Plan. Nor does § 1058, as petitioners claim, let employers shift 
+assets between plans as long as defined benefits are not affected. 
+The Code’s § 414(1) requires that even in an actual spinoff, each 
+new plan receive “the applicable percentage of excess assets.”'’ 
+The complaint does not allege nor does Hughes claim that there has 
+been a spinoff or a plan merger. A different factual question is 
+decisive: whether the Contributory Plan and “new retirement plan” 
+announced by Hughes are one plan or two. 
+
+
+C. Petitioners’ arguments are wrong. 
+
+
+1. 29 U.S.C. §§ 1103, 1104 and § 1106 are 
+express, independent statutory requirements. 
+
+
+§ 1103's anti-inurement rule, § 1104's fiduciary clause, and 
+§ 1106's bar on even “indirect... use by or for the benefit of a party 
+in interest of any assets of the plan,” are independent provisions of 
+ERISA. They apply to ai/ assets of a plan, not just those needed 
+for promised benefits. A basic premise of petitioners’ argument -- 
+that the only obligation of a defined benefit plan is to pay the 
+defined benefit (Pet. Brf. 1-2, 10, 13, 43) -- is wrong. 
+
+
+“ This means, as explained in 26 C.F.R. § 1.414(1)-1(bX5) and 
+(n), enough to fund “benefits on a termination basis in the plan 
+before the spinoff,” defined as what § 1344 would have required be 
+paid had the plan terminated: not just defined benefits, but also 
+other entitlements such as employees’ statutory share of a plan 
+surplus. See Kinek v. Paramount Communications, Inc., 22 F.3d 
+503, 509 (2d Cir. 1994), (§ 1058, in a spinoff, requires allocation of 
+fund assets in strict accordance with § 1344). Cf. Holland v. Valhi 
+Inc., 22 F.3d 968, 972 (10th Cir. 1994) (employer spinning off a plan 
+could not allocate almost no surplus assets to participants who made 
+25% of contributions, even if this was the result of a calculation 
+method presumptively correct under PBGC regulations). 
+
+
+24 
+
+
+ERISA does not only require that employers “honor their 
+promises.” Pet. Brf. 11. § 1103 requires, in addition, that plan 
+asset s be held in trust and never inure to the employer's benefit. 
+While § 1103 states an exception for assets reverting to the 
+employer under § 1344 on plan termination, that exception never 
+extends to assets attributable to employee contributions. For such 
+assets, § 1103 is ironclad. 
+
+
+That ERISA’s goals include protecting promised pensions 
+does not mean specific statutory requirements can be ignored. 
+“Vague notions of a statute’s ‘basic purpose’ are nevertheless 
+inadequate to overcome the words of the text regarding the specific 
+issue under consideration.” Mertens v. Hewitt Associates, 508 U.S. 
+248, 261 (1993). Nothing in §§ 1103, 1104 and 1106 suggests, 
+much less says, that their requirements are excused if a plan pays 
+promised defined benefits. The sections provide much of the basis 
+for this Court's recognition that “ERISA abounds with the 
+language and terminology of trust law.” Firestone Tire & Rubber 
+Co. v. Bruch, 489 U.S. 101, 110 (1989). §§ 1104 and 1106 
+“insulate the trust from the employer's interest,” NLRB v. Amax 
+Coal Co., 453 U.S. 322, 332 (1981), by requiring not just that 
+promised benefits be paid, but that “decisions must be made with 
+an eye single to the interests of the participants.” Donovan vy. 
+Bierwirth, 680 F.2d 263, 272 (2d Cir. 1982). Cf Mazzola, 716 
+F.2d at 1231. § 1106, as noted earlier, lists transactions which 
+breach fiduciary duties per se, even if in a particular case they 
+cause no harm. Keystone Consolidated, 508 U.S. at 160. 
+
+
+§§ 1103, 1104 and 1106 are all enforced even when defined 
+benefits have all been paid. In Clothing & Textile Workers v. 
+Murdock, 861 F.2d 1406 (9th Cir. 1988), plan assets were invested 
+in stock in which the employer had an interest. The employer. 
+after terminating the plan, recouped a surplus including profits 
+from resale of the stock. Not only had all promised benefits been 
+paid. but the investment at issue had turned out well, yet the court 
+
+
+25 
+
+
+applied _§§ 1103, 1104 and 1106 to hold that “a district court may 
+impose a constructive trust on the ill-gotten profits and distribute 
+them to plan participants and beneficiaries, even after they have 
+received their actuarially vested plan benefits.” /d at 1408. Cf 
+Leigh v. Engle, 727 F.2d 113, 121-2 (7th Cir. 1984). 
+
+
+Petitioners imply that applying trust principles to a defined 
+benefit plan means treating it like a defined contribution plan. Pet. 
+Brf. 13, 33. §§ 1103, 1104 and 1106 govern both types of plan. In 
+a defined contribution plan, money is held for individual 
+participants. Assets of defined benefit plans are held for 
+participants as a group, but held in trust nonetheless. It does not 
+follow that assets, whether or not needed for defined benefits, may 
+inure to the employer. The law expressly says that they may not. 
+
+
+2. The independent force of §§ 1103, 1104 and 
+1106, especially for assets attributable to employee 
+contributions, is clear from ERISA’s structure and history. 
+
+
+The independent force of §§ 1103, 1104 and 1106, 
+especially for assets attributable to employee contributions, is clear 
+not only from the statutory text, but also from ERISA’s structure 
+and legislative history. Petitioners argue repeatedly that ERISA 
+was a compromise. Pet. Brf. 11, 14. In many respects, it was. 
+Congress, for example, balanced the desirability of high vesting 
+and funding standards for plans against the danger of discouraging 
+employers from offering plans at all. See 2 Subcommittee on 
+Labor of the Committee on Labor and Public Welfare, U.S. Senate, 
+Legislative History of the Employee Retirement Income Security 
+Act of 1974 (hereinafter “Legis. Hist.”) 2604, 3311. Cf 2 Legis. 
+Hist. 1834, 3 Legis. Hist. 3515 (discussing protection for surviving 
+spouses). There was no compromise, however, about extending 
+trust protection to assets attributable to employee contributions. 
+
+Even before ERISA, trust law protected the assets of most 
+pension plans. As this Court said in Varity Corp. v. Howe, 516 
+
+
+26 
+
+
+U.S. 489, 496 (1996), trust-law requirements, under state common 
+law, “governed most benefit plans before ERISA’s enactment.” 
+The Code, too, conferred some trust protection on most employee 
+plans." Besides state common law and the Code, collectively 
+bargained plans were governed by the Taft-Hartley Act, 29 U.S.C. 
+§ 186(c)(5), which conferred trust protections drawn from common 
+law. See Amax Coal Co., 453 U.S. at 329-31. Taft-Hartley 
+required that plans be jointly run by unions and employers, to stop 
+unions from using plan assets as a “war chest.” 1 NLRB. 
+Legislative History of the Labor Management Relations Act, 1947 
+
+
+1312." 
+
+
+What was new in § 403 was the requirement that assets of 
+every employee benefit plan be held in trust and never inure to 
+employers’ benefit. Every proposed version of ERISA included 
+these provisions,'° whose purpose was threefold, as legislative 
+
+
+* The Code’s § 401(a)(2) bars employers from recouping assets 
+of tax qualified pension trusts until they are terminated. When 
+“RISA was passed, the extent of employers’ recoupment right under 
+) 40 1(aX2) even on termination was unclear. See Norman P. Stein, 
+Reversions from Pension Plans: History, Policies, and Prospects, 44 
+Tax L.Rev. 259, 261, 279-81, 290-7 (1989). 
+
+
+” Specifically, Congress was angered by a United Mine Workers 
+contract providing for payments 
+
+
+“for indiscriminate use for so-called welfare 
+purposes.... [I)f any such huge sums were to be paid, 
+representing as they do the value...which could 
+otherwise be paid... as wages, the use of such funds 
+[should] be strictly safeguarded.” Jd. at 458. 
+
+
+'* See, e.g., H.R. 2 introduced Jan. 1, 1973, 1 Legis. Hist. 41; S. 
+
+4 introduced Jan. 4, 1973, 1 Legis. Hist. 169-70; S. 1179 introduced 
+Mar. 13, 1973, 1 Legis. Hist. 946; S. 1557 introduced Apr. 12, 1973, 
+1 Legis. Hist. 307; H.R. 4200 twice passed by the Senate, 2 Legis. 
+Hist. 2055, 3 Legis. Hist. 3597; H.R. 12906 introduced Feb. 20, 1974, 
+(continued...) 
+
+
+27 
+
+
+history makes clear. First, Congress wished ail plans to be 
+protected by trust law. Second, it feared that precepts “developed 
+in the context of testamentary and inter vivos trusts... with an 
+attendant emphasis on the carrying out of the instructions of the 
+settlor” left too much room for exculpatory clauses and similar 
+devices. Trust principles were therefore to be applied in light of 
+the special nature of employee benefit plans, the better to “protect 
+the interests of plan participants.” Finally, Congress hoped to 
+unify law that “may differ from State to State.” 1 Legis. Hist. 275, 
+cf | Legis. Hist. 591, 615; 2 Legis. Hist. 2351-2, 2358-9; 2 Legis. 
+Hist. 3308. The only “compromise” struck in extending trust 
+protection to plan assets is § 1344 allowing employer recoupment 
+on plan termination. § 1103 is subject to an exception for surplus 
+assets derived from employer contributions only. 
+
+
+Even this exception has repeatedly been narrowed. There 
+is a “presumption against any reversion,” which is allowed only on 
+“specific and affirmative compliance” with the statute. Rinard v. 
+Eastern Co., 978 F.2d 265, 268 (6th Cir. 1992). Since employer 
+payments to plans are tax-deductible, reversions of surplus on plan 
+termination in effect let employers, under the guise of funding 
+employee benefits, defer taxation on income which the later 
+recoup. See Norman P. Stein, Reversions from Pension Plans: 
+History, Policies, and Prospects, 44 Tax L. Rev. 259 (1989). By 
+contrast, employee payments to plans must be made with after-tax 
+dollars. To limit employer use of plans as tax shelters and 
+encourage use for plan participants even of those plan assets 
+derived from employer contributions, Congress repeatedly 
+amended ERISA and the Code. 
+
+
+When first enacted in 1986, the Code’s § 4980 imposed a 
+
+
+10% tax on assets recouped by an employer on plan termination. 
+The rate was raised to 15% in 1988, and in 1990 -- just before 
+
+
+'* continued) 
+2 Legis. Hist. 2810-11, 2817. 
+
+
+28 
+
+
+Hughes adopted the 1991 Restatement -- to 20%, 50% unless the 
+employer uses 25% of its potential reversion to benefit participants 
+in the terminated plan. § 4980(d). These taxes are in addition to 
+ordinary income tax. Thus for assets derived from employer 
+payments, Congress has balanced interests as with other aspects of 
+ERISA. For assets attributable to employee contributions, the 
+protection of § 1103 is absolute. 
+
+
+Employer appropriation of plan surplus was one of the 
+specific abuses which inspired § 1103. Lawmakers repeatedly 
+mentioned the Elgin Watch Co., which after years in which only 
+employees contributed to its pension plan, decided to terminate the 
+plan to pocket its surplus. F.g., | Legis. Hist. 1791. As one 
+Congressman explained, “At the heart of the Elgin controversy was 
+the question, ‘who should be entitled to the excess funds’ -- the 
+pensioners or the company, which had come under the direction of 
+new management.” 3 Legis. Hist. 4710-11. In direct response, 
+lawmakers sought “explicit provisions guaranteeing the rights of 
+employees to some or all of the surplus upon termination of 
+overfunded plans.” Retirement Income Security for Employees Act, 
+1973: Hearings Before the Subcommittee on Labor of the Senate 
+Committee on Labor and Public Welfare, 93d Cong., 1st Sess., 
+193-202. The ultimate result was § 1344(d). 
+
+
+Petitioners, like Judge Norris, believe that in “economic 
+reality,” it should not matter 
+
+
+“whether an employee makes contributions to a 
+plan directly, or... indirectly through the employer. 
+Either way, the contributions are the economic 
+product of the employee’s services.” Pet. Brf. 20; 
+Pet. App. 37a. 
+
+
+The short answer is that Congress saw a difference, “markedly 
+distinguish[ing],” for example, “surplus assets... attributable to 
+employee contributions and those attributable to employer 
+
+
+29 
+
+
+contributions.” Borst v. Chevron Corp., 36 F.3d 1308, 1315 (Sth 
+Cir. 1994).'" Denial of a difference shows faulty reasoning and 
+arrogance. Employees contributing to the Contributory Plan paid 
+out of their own wages. That Hughes paid the wages no more 
+makes employees’ (after-tax) contributions identical to Hughes’ 
+(tax-deductible) contributions, than the fact that workers buy a car 
+with wages means that Hughes bought them the car. 
+
+
+Had Congress in ERISA wished simply to require that 
+defined benefits be paid, it could have said so. Fiduciary 
+requirements would have had, at most, minor importance, since 
+substantive requirements for plans, especially for plan funding, 
+would have gone far to insure payment of benefits. There would 
+have been no reason to require that plan assets be held in trust and 
+never inure to the employer’s benefit: no reason for § 1103. 
+
+
+This Court has contrasted ERISA fiduciaries’ duty to act 
+“solely in the interest of the participants” with an insurance 
+company’s duty “to consider the interests of all of its 
+contractholders, creditors and shareholders.” John Hancock 
+Mutual Life Insurance Co. v. Harris and Trust Savings Bank, 510 
+U.S. 86, 97 (1993). Insurers promise defined benefits, are required 
+to keep such promises, and are strictly regulated by state law; yet 
+no one has ever suggested that their assets are held in trust and may 
+not inure to the insurer’s benefit. On the contrary, “[m]ost states 
+treat the relationship between insurer and insured as a matter of 
+contract, not a fiduciary relationship,” Hancock, 510 U.S. at 119 
+(Thomas, J., dissenting), and the goal of most insurance companies 
+is to make a profit. 
+
+
+'’ See also Chait v. Bernstein, 835 F.2d 1017, 1025-6 (3d Cir. 
+1987), stressing that a plan whose surplus assets were being allowed 
+to revert to the employer was wholly employer-funded, and 
+contrasting Delgrosso v. Spang and Co., 769 F.2d 928 (3d Cir. 1985), 
+in which an employer that contributed nothing to a plan after it 
+became a defined benefit plan was denied recoupment. 
+
+
+30 
+
+
+Similar rules apply to banks, and the PBGC was “modeled 
+after the Federal Deposit Insurance Corporation” and federal 
+agencies insuring savings and loans associations and brokerage 
+houses. Kinek v. Paramount Communications, Inc., 22 F.3d 503, 
+507 (2d Cir. 1994); 1 Legis. Hist. 1636, 3 Legis. Hist. 4794-5. 
+Congress could h:ave protected pension plans, like banks, without 
+a sweeping trust requirement, but it chose not to. It discarded the 
+idea of using “laws affecting ‘nsurance, banking and securities” to 
+define fiduciary duties. | Legis. Hist. 617-8. 
+
+
+Far from regulating plans as states regulate insurance 
+companies, Congress expressly declared in 29 U.S.C. § 1114(b) 
+that an employee benefit trust shall not be deemed “to be an 
+insurance company or other insurer, bank, trust company, or 
+investment company or to be engaged in the business of insurance 
+or banking” under state law. § 1103(b) excepts from § 1103's 
+requirement that plan assets be held in_trust, “assets of a plan 
+which consist of insurance contracts,” assets of insurance 
+companies with which plans deal, and “any assets of a plan which 
+are held by such an insurance company.” ERISA benefit plans are 
+not profit-seeking insurance companies, but trust funds existing for 
+their participants’ sole benefit. 
+
+
+Petitioners argue ‘hat since an employer bears “the financial 
+burden” of contributing to a plan if plan assets decline, it should 
+“be entitled to the financial benefits” if assets rise. Pet. Brf. 33. 
+Like Judge Norris in dissent, petitioners rely heavily on Johnson 
+v. Georgia-Pacific Corp., 19 F.3d 1184 (7th Cir. 1994). That case 
+likened workers who fund a defined benefit plan to 
+
+
+“persons who purchase annuity contracts from 
+insurance companies. They obtain a guaranteed 
+stream of payments; the insurer (or, with pension 
+plans, the employer) bears the investment risk.” /d. 
+at 1186. 
+
+
+31 
+
+
+§ 1103, however, means precisely that an employer which sponsors 
+a pension plan is not thereby establishing a sideline insurance 
+business in which it bears investment risk in exchange for a legal 
+or beneficial right to plan assets. Johnson's notion that 
+“investment risk” entitles employers to profit from trust assets was 
+not shared by Congress when it passed ERISA.'* It has been 
+specifically rejected by both the PBGC, and Congress when 
+amending ERISA in 1987. 
+
+
+In adding to the statute § 1344(d)(3)’s express reservation 
+to employees of surplus attributable to their contributions, 
+Congress codified a right which the PBGC, affirmed by the D.C. 
+Circuit, had already recognized. In doing so, the agency and court 
+rejected arguments that “the employer bears the entire investment 
+and actuarial risk” of declines in plan assets and therefore should 
+profit from their rise. Bridgestone/Firestone, Inc. v. PBGC, 892 
+F.2d 105, 107 n. 2, 111 (D.C. Cir. 1989). Both when it originally 
+passed ERISA and when it adopted the agency’s view in a 1987 
+amendment, Congress rejected petitioners’ argument about 
+investment risk. 
+
+
+3. That amendments are not generally fiduciary 
+acts is no basis to dismiss claims under §§ 1103, 1104 and 1106. 
+
+
+Petitioners argue that the complaint should be dismissed 
+because plan amendments are not fiduciary acts. Pet. Brf. 13, 15-6, 
+
+
+'* During Congressional debate, opponents of the PBGC 
+insurance program argued that it would discourage defined benefit 
+plans because employers required to assume primary liability for 
+PBGC-guaranteed benefits would no longer be able to limit their 
+obligations: “{I]f the pension trust assets fall in value... , the 
+employer will have to make up the difference.” 2 Legis. Hist. 3389 
+cf. 2 Legis. Hist. 3398, 3463, 3476, 3 Legis. Hist. 3534-5, 4705. This 
+is essentially Johnson's argument about “investment risk.” Congress 
+ultimately passed ERISA with two dissenting votes. No one during 
+debate said that employers’ risk must be balanced by potential gain. 
+
+
+Fee Rae EET 
+
+
+32 
+
+
+19. But § 1103, as the Ninth Circuit found, applies “whether or not 
+the alleged conduct implicates ERISA’s fiduciary obligations.” 
+Pet. App. 8a.'* The United States agrees. U.S. Brf. 21. § 1103 is 
+a structural, not just a fiduciary provision of ERISA: an example 
+of the “other requirements” which Lockheed, 517 U.S. at 891, 
+recognized govern plan amendments. That Hughes was plan 
+sponsor did not entitle it to adopt an amendment violating § 1103. 
+
+
+Claims under §§ 1104 and 1106, which require a finding of 
+fiduciary status, are also enforceable. Even if Hughes as plan 
+sponsor was not a fiduciary when executing the 1991 Restatement, 
+Hughes as administrator was a fiduciary when implementing and 
+communicating about that document. 
+
+
+Lockheed cautioned that those implementing a plan 
+amendment should not be found to have breached § 1106 without 
+first “making the requisite finding of fiduciary status,” but did not 
+itself address the defendants’ status since in any event, § 1106 had 
+not been breached. 517 U.S. at 892. By treating separately a claim 
+that implementation (as distinct from adoption) of an amendment 
+breached fiduciary duty, Lockheed made clear that even an 
+employer free to amend a plan may violate ERISA when 
+implementing the amendment. Here Hughes, the Contributory 
+Plan’s administrator as well as sponsor (J.A. 21), breached §§ 1104 
+and 1106 by “utilizing excess Plan assets... for the exclusive 
+benefit of defendant Hughes,” and by “divert[ing] assets of the 
+Plan to pay benefits to participants of the new non-contributory 
+
+
+~ 
+
+
+'’ The petition for certiorari did not appear to challenge this 
+holding. After certiorari was granted, petitioners added a new 
+“question presented” (the second), and extensive argument referring 
+to ERISA’s anti-inurement clause. Pet. Brf. i, 22-7. Lockheed does 
+not discuss § 1103 at all. On remand the Ninth Circuit found that 
+Lockheed had not breached § 1103 since “plan assets were paid only 
+to plan participants” and “Lockheed’s Plan was a noncontributory 
+pension plan.” Spink v. Lockheed Corp., 125 F.3d 1257, 1261 (9th 
+Cir. 1997). 
+
+
+33 
+
+
+plan.” J.A. 27, 30. Hughes as administrator also lied to 
+participants in both plans, falsely telling them the new 
+noncontributory plan would be “paid for entirely by Hughes.” J.A. 
+201. Whether or not amending the Contributory Plan, by itself, 
+was a fiduciary act, Hughes was certainly a fiduciary when as 
+administrator, it misled participants about the amendment, and 
+when it implemented the amendment by diverting Contributory 
+Plan assets to pay Hughes’ separate debt to the new 
+noncontributory plan. 
+
+
+This Court stressed in Firestone, 48’) U.S. at 112, 113, that 
+a fiduciary in doubt about his duties “can protect himself by 
+obtaining instructions from the court,” and that a fiduciary is not 
+
+
+“one who exercises entirely discretionary authority 
+or control. Rather, one is a fiduciary to the extent 
+he exercises any discretionary authority or control.” 
+
+
+Cf Keystone Consolidated, 508 U.S. at 164 (1993) (Stevens, J., 
+dissenting) (trustee has right and duty to refuse plan sponsor’s 
+disadvantageous property transfer). Varity, 516 U.S. at 498, 
+deferred to “factual findings” that an employer exercised discretion 
+when communicating about an amendment as administrator and 
+therefore, was a fiduciary. Judge Gadbois, by contrast, dismissed 
+the complaint without a factual record and without even discussing 
+whether Hughes as administrator of the Contributory Plan lied to 
+participants and diverted Contributory Plan assets to improper use. 
+Pet. App. 57a-58a, 60a. 
+
+
+The Ninth Circuit correctly found that the Plan’s 
+contributory nature supports claims of fiduciary breach. Not only 
+was diversion of assets to meet a separate employer debt a per se 
+breach of §§ 1104 and 1106, but Hughes as the administrator 
+effecting such diversion breached § 1104 for a further reason. This 
+Court has recognized that fiduciary duties under ERISA extend to 
+future interests. Varity, 516 U.S. at 504. Besides their beneficial 
+
+
+34 
+
+
+interest in plan assets, participants in a contributory plan have a 
+remainder interest in its surplus assets, under § 1344. On 
+termination of the trust § 1344, as already discussed, lets 
+employers recoup, at most, surplus derived from their own 
+payments. Other remainder rights belong to the employee 
+contributors -- a rule that like the rest of ERISA, has its roots in 
+common law.”° 
+
+
+A trust fiduciary’s duty extends to remainder interests. 
+Bogert on Trusts & Trustees § 541 at 163-6. Cf Restatement of 
+Trusts 2d, §§ 183, 232; Scott on Trusts § 183 at 560 (trustee who 
+is also a beneficiary can be removed for favoring his own interest); 
+90 Corpus Juris Secundum, Trusts § 247 at 235-6 (if interests “are 
+so conflicting that the fiduciary cannot deal fairly with respect to 
+them, he cannot properly act without applying to the court”). The 
+fiduciary may not ignore remainder rights. See, e.g, Dennis v. 
+Rhode Island Hospita! Trust National Bank, 744 F.2d 893, 896 (1st 
+Cir. 1984) (Breyer, J.); Matter of Great Northern Iron Ore 
+Properties, 263 N.W.2d 610, 621-2 (Minn. 1978), DuPont v. 
+Delaware Trust Co., 320 A.2d 694, 699 (Del. 1974); Moore v. 
+Smith, 235 S.E.2d 102, 106 (N.C.App. 1977). At least when a 
+conflict is between participants and the employer, ERISA 
+fiduciaries’ duty has been found to require them to protect 
+
+
+* See Wilson v. Bluefield Supply Co., 819 F.2d 457, 464 (4th Cir. 
+1989). The Supreme Court of Canada has lamented the lack of a 
+Canadian statute specifying entitlements on pension plan 
+termination but suggested, applying common law, that where both 
+
+
+“employers and employees are (by virtue of their 
+contributions) settlors of a trust, surplus funds 
+remaining on termination can revert on a resulting 
+trust to both employers and employees in proportion 
+to their respective contributions.” 
+
+
+Schmidt v. Air Products Canada Ltd., {1994} 2 S.C.R. 611. That is 
+the same result required by § 1344. 
+
+
+35 
+
+
+participants’ termination interest in plan surplus. Struble v. New 
+Jersey Brewery Employees’ Welfare Fund, 732 F.2d 325 (3d Cir. 
+1984); cf Mahoney v. Board of Trustees, 973 F.2d 968, 972 (1st 
+Cir. 1992) (Breyer, J.) (contrasting conflict between groups of plan 
+participants). Hughes, seeking to evade employee remainder 
+rights, diverted surplus of the Contribitory Plan to its own use. 
+Dissipating assets in derogation of a protected remainder interest 
+is grounds to find a breach of fiduciary duty. 
+
+
+Lockheedreached its conclusion that “the act of amending 
+a pension plan does not trigger ERISA’s fiduciary provisions” by 
+extending a rule adopted for welfare plans in Curtiss-Wright Corp. 
+v. Schoonejongen, 514 U.S. 73 (1995). 29 U.S.C. § 1002(21), 
+Lockheed explained, has one definition of “fiduciary” for all plans, 
+and employers designing plans are generally “analogous to settlors 
+of a trust.” 517 U.S. at 891. 
+
+
+§ 1002(21) recognizes fiduciary status “to the extent” of 
+“any... control respecting... disposition” of plan assets. These 
+words, as Varity recognized, “are not self-defining.” Some 
+circumstances fall “clearly neither within nor outside of the 
+common understanding” of the words, and in those circumstances, 
+courts “look to the common law.” 516 U.S. at 502. Factual 
+questions must be addressed in “the specific context in which the 
+events of [a] case occurred.” /d at 498-503. Cf Nationwide 
+Mutual Insurance Co. v. Darden, 503 U.S. 318 (1992) (ERISA’s 
+unclear definition of “employee” implies a common-law test and 
+requires assessment of the whole factual context). 
+
+
+Curtiss-Wright and Lockheed involved, respectively, a 
+welfare plan and an employer-funded pension plan. A contributory 
+pension plan differs from both. Welfare plans (unless collectively 
+bargained) are nearly always pay-as-you-go, without significant 
+assets. Pension plan assets attributable to employee contributions 
+enjoy more protection under § 1103 than those derived from 
+employer payments. Amendment of a welfare plan can almost 
+
+
+36 
+
+
+never be said to “dispose of” current plan assets. For a 
+noncontributory pension plan like Lockheed’s, but not for a 
+contributory plan, there is an exception to § 1103. Even if actions 
+with respect to all three types of plan are superficially similar, the 
+“extent [of]... control respecting... disposition” of protected assets 
+may be greater for a contributory pension plan than for a 
+noncontributory pension plan or for a welfare plan. 
+
+
+Suppose that instead of half, employees made ail 
+contributions to a contributory plan. Since 1986, this has been true 
+here. To find that despite § 1103's reservation to employee 
+contributors of both the beneficial and the remainder interest in 
+plan assets, there was no limit to the employer's right to revise such 
+a plan to favor itself, would raise obvious questions about fairness. 
+It is unlikely workers would pay the full cost of a pension to their 
+employer (rather than an insurance company) knowing the 
+employer could change the plan to profit from their payments. The 
+employer would more likely sponsor the plan without any such 
+right, to encourage employee loyalty. J.A. 61. 
+
+
+Lockheed referred to the broad powers of “settlors of a 
+trust.” Unlike “fiduciary,” “settlor” is not a word which 29 U.S.C. 
+§ 1002 defines. As the Ninth Circuit said, when a plan is funded by 
+both the employer and employees they are essentially “co-settlors.” 
+Pet. App. 14a. Such a description conforms to common law. One 
+who supplies the assets for a trust may be “the settlor, even though 
+in form the trust is created by another person.” Scott on Trusts § 
+156.3 at 180 (4th ed. 1987). Cf Ruocco v. Bateman, Eichler, Hill, 
+Richards, Inc., 903 F.2d 1232, 1239 (9th Cir. 1990) (employer was 
+not the settlor of a disability fund or entitled to its surplus assets, 
+where employees paid the premiums), Mine Workers v. Boyle, 418 
+F.Supp. 406, 409 (D.D.C. 1976), aff'd, 567 F.2d 112 (D.C. Cir. 
+1977) (employer rather than beneficiaries was the settlor of a fund 
+since “From its inception, the Pension Trust has been non- 
+contributory”); Schmidt v. Air Products Canada Lid., {1994) 2 
+S.C.R. 611 (Sup. Ct. of Canada) (“employers and employees are 
+
+
+pa 
+
+
+37 
+
+
+(by virtue of their contributions) settlors” of a pension plan). 
+Hughes was a fiduciary and breached its duty. 
+
+
+4. Dicta in Johnson vy. Georgia-Pacific C. 
+should not be followed. se 
+
+
+Petitioners rely heavily on Johnson y. Georgia-Pacific 
+Corp., 19 F.3d 1184 (7th Cir. 1994). Lockheed, 517 U.S. at 891, 
+cited Johnson for its analogy “to the settlors of a trust.” While 
+Johnson, unlike Lockheed, involved a contributory plan, its other 
+facts bore no similarity to those here. The plan amendment in 
+Johnson enhanced benefits for some plan participants; there was no 
+claim that it “transferred assets from one plan to another or that the 
+asset surplus was used to benefit employees who were not 
+participants of the plan.” Pet. App. 17a. While the facts of 
+Johnson differ from those here, dicta in Johnson ignore § 1103. 
+
+
+Johnson's likening of employers with pension plans to for- 
+profit insurers has already been discussed. Under ERISA, a plan 
+sponsor is not in the insurance business. Johnson's discussion of 
+ERISA’s definition of “fiduciary” is equally flawed. This Court, 
+as already discussed, has recognized that the words of § 1002(21) 
+must be applied in “the specific context” and “are not self- 
+defining.” Varity, 516 U.S. at 498, 502. By contrast Johnson, 19 
+F.3d at 1188-9, though admitting that “use” and ‘dispose of could 
+be synonyms,” limited the meaning of “disposition” in § 
+1002(21)'s to “the common transactions in dealing with a 
+
+pool of assets: selecting investments, 
+exchanging one instrument or asset for 
+another, and so on” -- an interpretation with 
+no basis in ERISA, this Court's opinions or 
+the dictionary. 
+
+
+Johnson argued that when ERISA refers to plan assets, it 
+has “nothing at all to say about” plan liabilities. /d at 1189. If that 
+were right, a fiduciary barred from imprudently investing plan 
+
+
+38 
+
+
+assets, could freely pledge them as security for a personal loan. It 
+is obvious that ERISA does nor allow plan assets to inure to 
+employer's benefit through increases in plan liabilities. It is also 
+not correct to say, like Johnson, that since “[i}]n bad times (when 
+declines in the value of assets make plans underfunded) employers 
+must contribute more,” it is “asymmetric” not to let them profit 
+from plan surpluses in good times. /d at 1190. 
+
+
+There is no lack of symmetry. In bad times employers 
+contribute more, in good times less. More important, this reduction 
+in contributions is the only sense (apart from the express exceptions 
+to § 1103) in which plan surpluses may benefit employers.”' At 
+best, Johnson's warning that employers will establish fewer plans 
+unless they can do so for profit, 19 F.3d at 1190, is “thoughtful 
+speculation, but speculation nonetheless.” Swidler & Berlin v. 
+United States. 118 S.Ct. 2081, 2088 (1998).” At worst, it 
+exemplifies how an economic theorywhose application in practice 
+is untested can undermine an express statute. 
+
+
+Employers including Hughes establish plans because they 
+believe this helps them attract and retain employees. JA. 61. The 
+trade-off between regulation of plans and employer willingness to 
+sponsor them is one that Congress took into account in ERISA 
+when setting minimum vesting, funding and other standards. It 
+
+
+2. It does not follow, as the United States implies, that an 
+employer which “may benefit... by ceasing contributions” should also 
+be free to use surplus assets for a different plan. U.S. Brf. 23. That 
+employers may benefit in one sense but not the other is “merely a 
+necessary consequence of the need to draw a line somewhere.” 
+Geissal v. Moore Medical Corp, 118 S.Ct. 1869, 1875 (1998). 
+
+
+22 The answer to a similar concern, that if employers lack access 
+to plan surpluses they will not fund plans adequately, was given in 
+Amatao v. Western Union International, Inc., 773 F.2d 1402, 1414 
+(2d Cir. 1983): “This concern is diminished by ERISA’s provisions 
+insuring at least minimum funding.” 
+
+
+ee 
+
+
+39 
+
+
+does not license courts to redesign the statute. When this Court has 
+said that a flexible legal regime encourages “employers to offer 
+more generous benefits,” it has also recognized that ERISA 
+nonetheless limits employer freedom of action and that invoking 
+such freedom “does not, as the Court of Appeals apparently 
+thought, justify a departure from... plain language.” Jnter-Modal 
+Rail Employees Association v. Atchison, T. opeka and Santa Fe 
+Railway Co., 117 $.Ct. 1513, 1516 (1997). Nothing suggests that 
+Congress thought employers should profit from pension trust 
+assets: a practice specifically prohibited by § 1103. “Logic” like 
+Johnson's could equally oppose any limit on employer freedom, 
+even enforcement of employer promises. See Seth Kupferberg 
+
+Double Effects in Economics and Law, with Special Reference to 
+ERISA, 73 Ore.L.Rev. 467, 500 (1994). Regardless of what a judge 
+might deem wisdom, § 1103 is where Congress drew the line. 
+
+
+With more logic, one can foresee consequences ji 
+complaint here is dismissed. Hughes, as argued above, is Ado 
+of ogg hes kind oe §§ 1103, 1104 and 1106 aimed to 
+pronibit. Like a pre-Taft-Hartley union, it is taking huge sums 
+deducted from employee wages for ieiieatiaiens moe It is 
+evading the tax on employer reversions which Congress increased 
+just before the actions challenged here, appropriating more than the 
+amount of a legal plan reversion, and shifting part of the tax burden 
+to employees who to remain in the Contributory Plan, must 
+continue contributing (for Hughes’ use) out of their after-tax 
+wages. Like Elgin Watch, Hughes is using Contributory Plan 
+surplus to pay for “meager pensions to retirees [under the 
+noncontributory plan], and a tax-free bonanza to [Hughes’] 
+shareholders.” 1 Legis. Hist. 1791. If this complaint is dismissed, 
+such unusual facts may become more commonplace. 
+
+
+The essence of petitioner’ argument is that employers may 
+use the assets of a pension plan, including those attributable to 
+participant contributions, not only for benefits to participants in 
+that plan, but also for any other pension obligation. In practice, the 
+
+
+40 
+
+
+loophole opened would have virtually no limit, and trust assets, 
+including those from employee payments, could be used for almost 
+any corporate strategy. Here, Hughes used Contributory Plan 
+assets largely attributable to employee contributions to furd a new 
+plan for different Hughes employees. Next time, it might transfer 
+assets to GM’s underfunded plan. Plan assets could also be used 
+to finance corporate acquisitions. Instead of writing a check on its 
+own funds, the acquiring company could use plan surplus to meet 
+the acquired company’s benefit obligations.”’ Employers could 
+also use pension plan assets, including those derived from 
+employee payments, to settle unrelated claims by employees who 
+are not participants in the plan, by simply “amending” the plan to 
+grant them benefits. § 1103 outlaws such acts, but if “amending”a 
+plan were deemed an unreviewable act, the statute would have little 
+force. The complaint states a valid claim. 
+
+
+Ill. THE § 1344 CLAIM IS NOT SUBJECT TO DISMISSAL. 
+A. Employers can be ordered to use Title [V procedures. 
+
+
+Petitioners argue that since Hughes has not used Title IV 
+procedures there cannot be a termination of the Plan. Pet. Brf. 10, 
+34-37. When this argument first surfaced, after the Ninth Circuit 
+panel decision, plaintiffs responded (and now repeat) that they seek 
+
+
+“an order that a wasting trust be terminated in 
+accordance with the procedures of Title IV of 
+ERISA, including submission to the PBGC. If there 
+is any doubt, plaintiffs so state here and now.” 
+Response Opposing Petition for En Banc Rehearing 
+filed September 5, 1997 at 2. 
+
+
+“8 As previously noted, the “sales price” in the emrger of 
+Raytheon and Hughes undoubtedly reflected the fact that Hughes 
+was paying its debt to the noncontributory plan with the 
+
+
+Contributory Plan’s money. 
+
+
+41 
+
+
+Distribution under § 1344, referred to in the complaint, is simply 
+the last step in pian termination under Title IV. 
+
+
+The United States objects that the complaint “alleges that 
+the plan in fact terminated.” U.S. Brf. 15. In retrospect, the 
+complaint would have been clearer had it said not that Hughes 
+“terminated the Plan” and “as such” is bound by § 1344, but that 
+Hughes acts required it to terminate the Plan under Title IV. The 
+complaint can be amended if it is deemed confusing. Judge 
+Gadbois dismissed without leave to amend. Pet. App. 62a. 
+
+
+The issue for this Court is not whether a plan 
+terminated through Title IV means, which no pom + ent ange 
+whether a court can order an unwilling employer to use those 
+procedures. The United States -- unlike petitioners, and receding 
+from the PBGC’s earlier position -- agrees that the answer may be 
+“yes,” but says the Court need not reach the issue. U.S. Brf. 15-16 
+and n. 5. Contrary to petitioners, a court can order Title [V 
+procedures used. 
+
+
+. Petitioners admit courts “enforce an employer's contractual 
+promise to terminate a plan” by ordering use of Title IV 
+procedures. Pet. Brf. 41 n. 8, acknowledging American Flint Glass 
+Workers Union v. Beaumont Glass Co., 62 F.3d 574 (3d Cir. 1995) 
+and Phillips v. Bebber, 914 F.2d 31 (4th Cir. 1990). In doing so, a 
+court applies common-law contract principles. It makes little 
+difference if the court applies the common law of trusts: either way, 
+it applies common law to compel a now-unwilling employer to 
+follow through on its once-voluntary commitment. There is 
+perhaps no more firmly established ERISA precept, most recently 
+reaffirmed in Varity, than that courts applying ERISA look to the 
+law of trusts. 
+
+
+In re Gulf Pension Litigation, 764 F.Supp. 1149 (S.D. Tex. 
+1991), aff'd in part sub nom., Borst v. Chevron Corp., 36 F.3d 1308 
+
+
+42 
+
+
+(5" Cir. 1994), applied the common law of trusts, on a “wasting 
+trust” theory substantially identical to the one here, and required 
+that an employer terminate two pension plans using Title IV 
+procedures. The case is discussed below. Besides Bebber and 
+Gulf. which ordered employers to use Title IV procedures, and 
+Beaumont Glass, which reversed dismissal of a complaint seeking 
+such an order, Matter of Esco Manufacturing Co., 50 F.3d 315 (Sth 
+Cir. 1995), strongly implies a court can issue such an order. Esco 
+reversed a district court’s order that a bankruptcy trustee terminate 
+the debtor's pension plan, because the trustee was the successor of 
+the plan sponsor while Title IV proceedings must be initiated by 
+the plan administrator. The finding that “The district court erred... 
+in holding that the trustee had the power to terminate the plan” 
+implies that an order that an administrator do so could be proper.” 
+
+
+A court's power to order empicyers to use Title IV 
+procedures is supplied by §§ 1109 and 1132 which authorize 
+equitable relief, respectively, to redress a breach of fiduciary duty 
+and to enforce ERISA. Cf Marshall v. Snyder, 572 F.2d 894, 901 
+(2d Cir. 1978) (§ 1109 allows court to appoint receiver); Corley v. 
+Hecht Co., 530 F.Supp. 1155, 1164 (D.D.C. 1982) (requiring 
+employer to nominate successor fiduciary). Fiduciary duties 
+extend to responsibilities created by ERISA. Central States, 472 
+U.S. at 572. It is the administrator, a fiduciary, and not the plan 
+sponsor which is empowered by § 1341 to file the notices required 
+for plan termination. See Esco, supra. If a sponsor blocks the us. 
+of trust assets for the trust’s beneficiaries, the administrator may 
+have an obligation to terminate the plan. § 1103, similarly, may 
+
+
+** Withdrawn opinions in Esco, 33 F.3d 509 (5th Cir. 1994), make 
+the underlying situation clearer. The original majority and dissent 
+agreed, Id. at 515 and 518, that “Someone must shoulder the 
+responsibility for terminating the pension plan,” but the dissent 
+called it unnecessary to make the trustee act and create a conflict 
+with bankruptcy law since “ERISA provides an alternative,” a 
+PBGC- initiated distress termination under 29 U.S.C. § 1342. For 
+the overfunded Contributory Plan this alternative does not exist. 
+
+
+43 
+
+
+require plan termination if plan assets are inuring to the employer’s 
+benefit. 
+
+
+The obvious point of much of Title IV, including § 1344, is 
+to protect employees. If an employer could evade these protections 
+by refraining from formal notice of a plan termination, the 
+protections would have little meaning. Once again, a hypothetical 
+example may make this clearer. Suppose that instead of barring 
+new participants and using Contributory Plan assets to pay for a 
+different plan, Hughes had closed participation in the already 
+overfunded Contributory Plan, then simply waited for all its 
+benefi~‘uries to die. At some point it would be obvious. even 
+without expert testimony, that the Contributory Plan’s still-growing 
+surplus would never be used for its participants. At least for a 
+| sntributory plan for which Congress has established a remainder 
+interest in the participants, this result is impermissible. Hughes 
+would be breaching §§ 1103 and 1104, and jurisdiction to order use 
+
+
+of Title IV procedures would exist under §§ 1109 and 1132. The 
+same is true here. 
+
+
+Petitioners stress that a regulation cited by the Ninth Circuit 
+which Says that “whether a plan is terminated is generally a 
+question to be determined with regard to all the facts and 
+circumstances” predates ERISA. Pet. Brf. 38, citing 26 C.F R.§ 
+1.401-6(b)(1). While plans now terminate through Title IV, 
+whether use of those means is required may be illuminated by what 
+constituted a termination under the Code. Cf Gluck v. Unisys 
+Corp., 960 F.2d 1168, 1184 (3d Cir. 1992) (tax rules relevant. 
+though not controlling, in ERISA determination). § 1341 now sets 
+the “exclusive means’ for plan termination, but does not address 
+how or when termination (through those means) can be required. 
+In the same way, ERISA’s provisions concerning plan amendment, 
+following “standard trust law principles,” do not address courts’ 
+power to test the adoption of amendments against what is required 
+by corporate law. Curtiss-Wright, 514 U.S. at 84-5. 
+
+
+44 
+
+
+This is one of many instances under ERISA in which 
+substance, not just procedure, matters. Under 26 C.F.R. § 
+|.404(a)(26), whether a plan provides “meaningful benefits” is also 
+decided “on the basis of all the facts and circumstances.” More 
+directly relevant to Title IV, the existence of a “follow-on” plan 
+precluding termination under PBGC rules upheld in PBGC v. LTV 
+Corp., 496 U.S. 633 (1990), depends on the “substantial identity” 
+of benefits before and after the termination. In that case this Court, 
+adopting the PBGC’s view, found the permissibility of plan 
+termination ultimately a question of economic substance, which the 
+employer could not simply foreclose by choosing whether to file a 
+notice of intent to terminate. Here as in other instances, what 
+ERISA requires can only be assessed in light of specific facts. 
+
+
+B. Whether Hughes should be ordered to terminate the 
+Contributory Plan depends on disputed factual issues. 
+
+
+The complaint alleges that by closing the Contributory Plan 
+to new participants, Hughes created an actuarial certainty that a 
+large portion of surplus Plan assets, including those from employee 
+contributions, would never be used for Contributory Plan 
+participants. Common-law courts in such circumstances ordered 
+trusts. often called “dry.” “wasting” or “resulting” trusts, 
+terminated and their assets equitably distributed. 
+
+
+“A resulting trust arises when an express trust fails 
+in whole or in part, or the purposes are fully 
+accomplished without exhausting the trust 
+property.... [T]he trustee can be compelled to 
+convey the property to. the beneficiary.” 
+Restatement of Trusts 2d, § 73 (also stating that a 
+constructive trust may arise to prevent unjust 
+enrichment). 
+
+
+Resulting trust principles have been applied to pension plans. See, 
+e.g.. Poliack v. Castrovinci, 476 F.Supp. 606, 616-7 (S.D.N-Y. 
+
+
+45 
+
+
+1979), aff'd, 622 F.2d 575 (2d Cir. 1980);. Schmidt v. Air Products 
+Canada lid, [1994] 2 S.C_.R. 611 (Sup. Ct. of Canada) (on plan 
+termination, common law creates a resulting trust for those who 
+contributed to a pension plan, rejecting claims that “a pension plan 
+constitutes a trust whose sole purpose is to provide defined 
+benefits ). The allocation of surplus on plan termination which is 
+prescribed by § 1344 resembles a common-law resulting trust: 
+
+
+“If several persons contribute to a fund... and the 
+Purpose is fully exhausted without exhausting the 
+trust property... a resulting trust of the surplus will 
+arise in favor of the contributors... in proportion to 
+their contributions.” Resiatement of Trusts 2d, §§ 
+
+
+399(n) and 400(d) (also referring to such 
+contributors as “settlors”’). 
+
+
+The point is not, as Judge Nerris seems to have thought, that 
+‘the non-contributory benefit structure somehow had the effect of 
+converting the Plan into a ‘wasting or dry trust.’” Pet. App. 42a 
+The point, rather, is that closing participation in the Contributory 
+Plan, : which-capped its potential liability to Contributory Plan 
+participants at a level far below surplus assets, had this effect. Facts 
+al leged here are substantially identical to those in Jn re Gulf Pension 
+Litigation, supra, where the court (in a holding not appealed) 
+concluded that a plan rendered a wasting trust must be terminated 
+and ordered the defendant “to submit termination papers to PBGC : 
+764 F.Supp. at 1204-5, 1216." Cf Chambers v. Kaleidoscope. Inc 
+Profit Sharing Plan and Trust, 650 F.Supp. 359, 372 (N.D.Ga. 
+
+
+- The Gulf complaint, like this one, alleged that plans “should 
+be terminated” and surplus distributed. 764 F.Supp. at 1201. The 
+court found the plans wasting trusts and that there was equitable 
+power to order them spun off from a plan into which they had 
+— and terminated “according to the terms of the Final 
+
+udgment.” /d. at 1204-5. That judgment, Jd. at 1216. ordered the 
+employer to take “ministerial steps” including filing wi. che PBGC 
+
+
+46 
+
+
+1986) (ordering termination of defined contribution plan to prevent 
+benefits from “end[ing] up in legal limbo forever’’). 
+
+
+That benefits are still being paid and some Contributory Plan 
+participants continue to accrue benefits does not address the key 
+point: that Contributory Plan assets substantially exceed those 
+needed for “all current and future pensions of participants.” J.A. 26. 
+In Gulf. the wasting trusts were also still paying benefits and had 
+current participants with projected benefits from future service of $4 
+million, “de minimis in relation to the surplus.” 764 F.Supp. at 
+1203. That a plan is paying benefits does not make it “well- 
+operating.” Pet. Brf. 14, if assets are accumulating for the 
+employer's rather than participants’ benefit. Factual questions such 
+as the amount of projected future benefits or how many millions are 
+de minimis cannot be decided on a motion to dismiss, as the Ninth 
+Circuit recognized. Pet. App. 1 la and n. 3, 2lan. 6. 
+
+
+Petitioners, and amici which support them, argue that Plan 
+surplus “is a cushion for bad times” and that to terminate the 
+Contributory Plan would not be good for participants. Pet. Brf. 42: 
+U.S. Brf. 17, Hughes Aircraft Retirees’ Association Brf. 4-9. This 
+amounts to little more than disputing the facts. The briefs argue that 
+active employees who participate in the Contributory Plan should 
+not be stopped from accruing additional benefits, ignoring the 
+essence of plaintiffs’ allegation: that the Contributory Plan's assets 
+are so large it can pay all future, as well as current, accruals, and 
+still be left with hundreds of millions of dollars of surplus assets 
+which must be distributed under § 1344.”° 
+
+
+The district court can consider any facts tending to show that 
+termination is unnecessary, as well as whether the plaintiffs, who are 
+
+
+© HARA’s assertion that the Department of Defense might seek 
+
+
+to reclaim a part of the pension surplus is not only speculative, but 
+at most involves the portion of surplus derived from Hughes’ rather 
+
+
+tian employees payments. 
+
+
+47 
+
+
+seeking class certification speak for ici i 
+
+mn, participants in the 
+Contributory Plan. These issues are factual, not a basis to dismiss 
+the complaint. Testimony might show, for example, that 
+Contributory Plan assets suffice to pay future benefits by buying 
+guaranteed annuities or Treasury notes, while still leaving a surplus 
+that should be distributed, not diverted to pay Hughes’ debts. 
+Though time and chance may happen to all, Ecclesiastes 9:11, no 
+tablet says that Contributory Plan surplus (now being siphoned off 
+by Hughes) is ephemeral as a matter of law . 
+
+
+Petitioners and supporting amici also point to complexiti 
+posed by the termination process, such as the difficulty of a 
+termination date when Hughes has delayed filing a notice of intent 
+to terminate. Pet. Brf. 40; U.S. Brf. 15. These questions must be 
+addressed by the PBGC in the first instance. In exceptional cases 
+retroactive termination dates can be proper, as the PBGC and courts 
+have recognized. See In re Braniff Airways, Inc., 24 B.R. 466, 470 
+(Bkrtcy. Tex. 1972); Harris & Sons Steel Co., 706 F.2d at 1295 n 
+is Plan administrators in such cases “may be liable to PBGC or 
+icipants for losses caused by delay” in fili ini 
+51M WLUBeREC) ne 
+
+
+, Normal methods for allocating surplus “equi ‘ 
+required by § 1344, can be modified if laaeue to rn pi 
+participants. Cf Valhi, 22 F.3d at 972 (modifying presumptively 
+appropriate method of calculation). In any event, an order that the 
+Contributory Plan terminate is not the only remedy requested by the 
+complaint. J.A. 31. Other remedies which might ultimately be 
+considered, for example an improvement in benefits so surplus can 
+be used. should likewise be discussed in a developed factual context. 
+
+
+The United States argues that the Contributory Plan’s 
+Purposes are not accomplished. U.S. Brf. 10, 16-17. The Ninth 
+Circuit rightly found that a factual question. Pet. App. lla. “The 
+terms of trusts created by written instruments are ‘determined by the 
+
+
+provisions of the instrument as interpreted in light of all the 
+
+
+48 
+
+
+circumstances and such other evidence of the intention of the settlor 
+with respect to the trust as is not inadmissible."” Firestone, 489 
+U.S. at 112. One purpose of § 1103, as discussed earlier, was to 
+modify traditional trust law’s emphasis on settlor instructions when 
+this did not “adequately protect the interest of plan participants.” | 
+Legis. Hist. 275. There is nothing in the record about the Plan's 
+purposes as stated in pre-1985 documents. Cf Hickerson v. Velsicol 
+Chemical Corp., 778 F.2d 365, 376-80 (7th Cir. 1985) (original plan 
+documents did not permit recent amendment). Nor is it even clear, 
+as discussed earlier, who should be treated as settlor(s) of this 
+contributory trust. These are all questions which this Court “need 
+not here answer and which would benefit from further development 
+in the lower courts.” Lockheed, 517 U.S. at 898 (Breyer, J.. 
+concurring and dissenting). 
+
+
+Even taking at face value documents from defendants which 
+state the Contributory Plan’s purpose as stimulating “eligible 
+employees” (J.A. 61), there is a factual question whether 
+Contributory Plan assets will be used to benefit those employees or 
+will, to an actuarial certainty, be diverted to Hughes’ separate debt 
+for benefits due new workers who are nof eligible for the 
+Contributory Plan, or to other corporate purposes. The Ninth Circuit 
+was correct in finding that whether the Contributory Plan's purposes 
+are accomplished and its liabilities fixed are factual questions. The 
+question now before this Court -- whether a district court can, if the 
+facts so warrant, order an employer to use Title [V_ termination 
+procedures -- should be answered in the affirmative. 
+
+
+Ill. THE § 1053 CLAIM IS NOT SUBJECT TO DISMISSAL. 
+
+
+Petitioners argue that nothing in ERISA “creates any 
+entitlement to investment income generated by employee 
+contributions.” Pet. Brf. 31. 29 U.S.C. § 1053 requires that 
+employee rights in accrued benefits derived from their own 
+contributions be nonforfeitable, and § 1054(c)\(2) defines such 
+nonforteitable nghts to include mandatory employee contributions 
+
+
+49 
+
+
+plus an imputed rate of interest. If those exceed promised defined 
+benefits, they are nonetheless nonforfeitable. 
+
+
+. Petitioners admit that § 1053 might be breached “by 
+depleting plan assets that are needed” for nonforfeitable accrued 
+benefits. Pet. Brf. 32. This is precisely what plaintiffs allege. The 
+claim Is not contradicted by allegations that the Contributory Plan 
+is overfunded. Particularly in a Plan which continues to require 
+employee contributions long after all present and future defined 
+benefits are fuily funded, “accumulated contributions” as defined 
+in § 1054 may exceed the accrued benefits against which plan 
+surplus is measured. By depleting Contributory Plan surplus, 
+Hughes threatens a forfeiture of protected benefits.2’ 
+
+
+CONCLUSION 
+
+
+| We end as we began -- with petitioners’ “pot of gold.” In 
+Irish folklore, leprechauns hid gold at the rainbow’s end. Hughes’ 
+means of gathering the assets it claims may indeed be like that of 
+leprechauns: “In the night time we go about the country into 
+people's houses and we clip little pieces off their money, and so, bit 
+by bit, we get a crock of gold together.” James Stephens, The Crock 
+of Gold, ch. 8 (1912). Leprechauns, though, were small hard- 
+working shoemakers saving a ransom for use if captured. Hughes 
+just wants to pay its bills with employees’ money. It resembles a 
+leprechaun mainly in grasp and cunning. 
+
+
+ERISA requires that plan assets, especially those attributable 
+to employee contributions, be held in trust and never inure to the 
+
+
+" As discussed earlier, if petitioners were correct in saying that 
+the Contributory Plan and noncontributory plan are two “structures” 
+of one plan, that hybrid, for § 1054 purposes, would have to be 
+deemed a defined benefit plan that “permits voluntary employee 
+contributions.” Participants in the “contributory structure” would be 
+entitled to investment earnings instead of the imputed rate. 
+
+
+50 
+
+
+employer's benefit. If that principle is eroded, abuses which ERISA 
+aimed to stop will resurface. Regardless what “investment risk” it 
+can be said to run, a plan sponsor under ERISA is not an insurance 
+company. An employer cannot dip into the pot of plan assets -- 
+especially when the pot was filled by employees -- to meet its non- 
+plan debts. For these reasons, the judgment reversing dismissal of 
+the complaint must be affirmed. 
+
+
+Dated: 
+August 17, 1998 
+
+
+Respectfully submitted, 
+
+
+Seth Kupferberg 
+Counsel of Record 
+
+
+Richard Dorn 
+Belle Harper 
+Donald E. Klein 
+I. Philip Sipser 
+
+
+Sipser, Weinstock, Harper & Dorn, BRO 
+275 Madison Avenue 
+
+New York, New York 10016 
+
+(212) 252-0072 
+
+
+Attorneys for Respondents 
+
+
+APPENDIX 
+
+
+la 
+
+
+THIS AGREEMENT executed by HUGHES AIRCRAFT 
+COMPANY, a corporation organized under the laws of the State 
+
+
+The other plan 
+resulting from the split is known as the Hughes Bargaining 
+Retirement Plan. In order to comply with the requirements of the 
+Tax Reform Act of 1984 and the Retirement Equity Act of 1984, 
+this further amendment to the Plan is effective, unless otherwise 
+specifically stated, as of January 1, 1985 as to persons who were 
+Employees or who retired on or after such date. For 
+who terminated or retired prior to January 1, 1985, benefits shall 
+be determined by the Hughes Non-Bargaining Retirement Plan in 
+effect prior to January 1, 1985, or if applicable, by the provisions 
+of the Hughes Retirement Plan in effect prior thereto. 
+
+
+The purposes of the Plan are: 
+
+
+(1) To stimulate and maintain among eligible 
+employees of the Companies, a sense of responsibility, 
+cooperative effort and a sincere interest in the progress and 
+success of the Companies. 
+
+
+(2) To increase the efficiency of such 
+Employees and to encourage them to remain with the 
+Companies until retirement from active service. 
+
+
+The Plan is a qualified pension plan which is intended to 
+comply with the provisions of Section 401 and other applicable 
+provisions of the Internal Revenue Code, similar provisions of the 
+California Revenue and Taxation Code, Section 7(d)(4) of the Fair 
+
+
+2a 
+
+
+Labor Standards Act of 1938, as amended, and the Employee 
+Retirement Income Security Act of 1974. 
+
+
+ARTICLE | 
+DEFINITIONS 
+
+
+Whenever any of the following terms is used in the Plan 
+with the first letter capitalized, it shall have the meaning specified 
+below unless the context clearly indicates to the contrary. 
+
+
+“Accounting Month” as to a Participant means the month, 
+or four-or-five-week period, regularly used by this Company for its 
+accounting records. With respect to years prior to 1976, an 
+Accounting Month shall be one-twelfth of a calendar year. 
+
+
+Section 1.3 - Accrued Benefits 
+
+
+The “Accrued Benefit” of a Participant, as of his Separation 
+from the Service, means the greatest of (a), (b), or (c): 
+
+
+(a) the greater of 
+
+
+(i) his Normal Retirement Benefit 
+determined under Section 4.2, without regard to 
+Section 4.3, but with reference to the greater of the 
+alternative Benefits under Section 4.4 or 4.5, 
+calculated on the basis of his Benefit Accrual 
+Service as of such Separation from the Service, or 
+
+
+3a 
+
+
+(ii) paragraph (i) of subsection (a) - 
+calculated - as if the Separation from the Service of 
+the Participant were on March 1, 1982, as if all 
+Compensation for the month of February 1982 were 
+the figures shown as paid on the Company's 
+records ending with the last payroll period ending 
+before March 1, 1982, and as if all the Participant’ s 
+vacation not taken as shown at close of a 
+Company's records for the February 1982 
+accounting month were paid to the Participant 
+within such payroll period. 
+
+
+(b) the greater of 
+
+
+(i) his Normal Retirement Benefit 
+determined under Section 4.3 as if 
+
+
+a there were added to his Total 
+Benefit Accrual Service the period from the 
+date of such Separation from the Service to 
+his Normal Retirement Date and 
+
+
+b his Primary Insurance 
+Amount were determined under Section 
+1.45, or 
+
+
+(ii) paragraph (i) of subsection (b) 
+calculated as if the Separation from the Service of 
+the Participant were on March 1, 1982 as if the 
+Compensation for the month of February, 1982 
+were the figures shown as paid on the Company’s 
+records ending with the last payroll period ending 
+before March 1, 1982, and as if all the Participant's 
+vacation not taken as shown at close of a 
+Company’s records for the February 1982 
+
+
+4a 
+
+
+accounting month were paid to the Participant 
+within such payroll period. 
+
+
+(c) the Actuarial Equivalent of his total 
+Participant Contributions without _ interest, 
+exclusive of Participant Contributions made prior to 
+a break in Continuous Service commencing before 
+
+
+1976. 
+
+
+5a 
+
+
+Saeed 
+
+
+The “Accrued Benefit Derived from Company 
+Contributions” of a Participant as of his Separation from the 
+Service means that Benefit equal to the excess (if any) of the 
+Participant's Accrued Benefit over his Accrued Benefit Derived 
+from Participant Contributions. 
+
+
+: * a 
+— ‘bul Accrued Benetit, Derived from Participant 
+
+
+The “Accrued Benefit Derived from Participant 
+Contributions” of a Participant as of his Separation from the 
+Service means the lessor of 
+
+
+(a) his Accrued Benefit, and 
+
+
+(b) his annual benefit in the form of a single life 
+annuity (without ancillary benefits) commencing at Normal 
+Retirement Age, equal to the Participant Contributions 
+Account multiplied by the appropriate conversion factor of 
+10% multiplied by an actuarial adjustment factor of 68%, 
+or such other percentage as may be required by law. 
+
+
+Section 16 <A ad Reattene: | ‘ally Equival 
+
+
+“Actuarial Equivalent” or Actuarially Equivalent” means 
+the equivalent of a given Benefit or a given amount payable in 
+another manner or by other means, determined conclusively by or 
+under direction of the Administrator based upon the ‘nterest rate 
+and the table of adjusted mortality rates determined as follows: 
+
+
+(a) the interest rate shall be: 
+
+
+6a 
+
+
+(i) for the plan year commencing 
+January 1, 1982, 7%; 
+
+
+(ii) for that in the year in which benefits 
+commence shall be used to determine the mortality 
+rate. 
+
+
+(iii) for the plan year commencing 
+January 1, 1984, 75% of the immediate annuity rate 
+in effect for January 1, 1984 in Appendix B of 
+Pension Benefit Guaranty Corporation Regulation 
+Section 2619; 
+
+
+(iv) for the plan year commencing 
+January 1, 1985, 80% of the immediate annuity rate 
+in effect for January 1, 1985, 80% of the immediate 
+annuity rate in effect for January 1, 1985 in 
+Appendix B of Pension Benefit Guaranty 
+Corporation Regulation Section 2619; 
+
+
+(v) for the plan year commencing 
+January |, 1986, 80% of the immediate annuity rate 
+in effect for October 1, 1985, in Appendix B of 
+Pension Benefit Guaranty Corporation Regulation 
+Section 2619; 
+
+
+(vi) for the plan year commencing 
+January 1, 1987, 90% of the immediate annuity rate 
+in effect for October 1, 1986 in Appendix B of 
+Pension Benefit Guaranty Corporation Regulation 
+Section 2619; 
+
+
+(vii) for the plan year commencing 
+January |, 1988, 95% of the immediate annuity rate 
+in effect for October 1, 1987 in Appendix B of 
+
+
+7a 
+
+
+Pension Benefit Guaranty Corporation Regulation 
+Section 2619; 
+
+
+(viii) for the plan year commencing 
+January |, 1989, and for each plan year thereafter, 
+100% of the immediate annuity rate in effect for the 
+October Ist preceding each such year, in Appendix 
+B of Pension Benefit Guaranty Corporation 
+Regulation Section 2619; 
+
+
+(b) the table of adjusted mortality rates,is a table 
+of ages and corresponding annual mortality rates. The 
+mortality rates are calculated by combining 80% of the rate 
+for males and 20% of the rate for females from the 1971 
+Group Annuity Mortality Table. The attained age of the 
+Participant in the year in which benefits commence shall be 
+used to determine the mortality rate. 
+
+
+Section 1.7 - Admini 
+
+
+“Administrator” means “HUGHES AIRCRAFT 
+COMPANY, acting through its officers or their delegates, and not 
+through its Board of Directors, except that during such time as a 
+Committee is in existence, such Committee shall be the 
+Administrator. The Administrator shall function as provided in the 
+Plan, the Trust Agreement and ERISA. | 
+
+
+“Anniversary Date” of a Participant means an anniversary 
+of the later of 
+
+
+(a) his first day on the job after his first 
+employment by a Company while a Company, and 
+
+
+8a 
+
+
+(b) his first day on the job after his first rehire 
+by a Company following his most recent break in 
+Continuous Service commencing before 1976. 
+
+
+Section 1.9 - Annuity Starting Date 
+
+
+“Annuity Starting Date” of a Participant means the Early, 
+Normal, or Late Retirement Date of a Participant, as determined by 
+the provisions of the Plan relating thereto, or such date as may be 
+
+
+elected by a Participant, provided: 
+
+
+(a) Such election is made prior to a Separation 
+from the Service by giving written notice to the 
+
+
+Administrator; and 
+
+
+(b) Such date is not more than ten years later 
+than the Participant's Normal or 
+
+
+(c) The present value of Benefit payments to be 
+made to a Participant as the Annuity Starting Date is more 
+than 50% of the present value of the total of Benefit 
+payments to be made to the Participant and any 
+Beneficiary, except where such Beneficiary is the spouse 
+of the Participant; and 
+
+
+(d) For distributions made on or after January |, 
+1985, the entire interest of the Participant will be 
+distributed in accordance with either of the following: 
+
+
+(i) not later than April | of the calendar 
+year following the later of: 
+
+
+a the calendar year in which 
+the Participant attains Age 70-1/2, or 
+
+
+9a 
+
+
+b the calendar year in which 
+the Participant retires. Subparagraph b 
+shall not apply in the case of a Participant 
+who is a five percent owner as defined in 
+Section 416 of the Code during the Plan 
+Year ending in the calendar year in which 
+the Participant attains age 70-1/2; or 
+
+
+(ii) commencing no later than the 
+taxable year described in paragraph (1) and payable 
+over the life of the Participant or over the lives of 
+the Participant and any Beneficiary, or over a 
+period not exceeding the life expectancy of the 
+Participant or over the joint life expectancies of the 
+Participant and any beneficiary. 
+
+
+Any Participant who has properly elected an Annuity Starting Date 
+may revoke such election and make a new election at any time 
+while employed by the Company by giving written notice to the 
+Administrator. 
+
+
+“Beneficiary” means a person or trust designated in writing 
+from time to time by a Participant or Former Participant to receive 
+Benefits in the event of his death, as provided in Sections 4.2, 4.8. 
+4. 10, 4.1 l, 4.12, 4.14, 4.17, 6.1 or 6.9, or if no effective 
+designation is made, then his spouse and if there is no spouse, then 
+his heirs determined under the laws of the state of his residence. 
+
+
+Section 1.1] - Benefits 
+
+
+The “Benefit” of a Participant means payments payable in 
+the amounts, to the persons, at the times, and over the applicable 
+
+
+10a 
+
+
+period (including any final lump-sum payment) specified in Article 
+IV. 
+
+
+“Benefit Accrual Service” of a Participant means the total, 
+expressed in years and fractional years, of 
+
+
+(a) those Accounting Months (treating each 
+Accounting Month as one-twelfth year and excluding 
+Accounting Months commencing before a break in his 
+Continuous Service commencing before 1976) for any part 
+or all of which he made contributions to the Plan as a 
+Participant, Union Officer, or participant in the Income 
+Insurance Plan; and, as applicable, either 
+
+
+(b) for a person employed by a Company on 
+January 1, 1980, benefit accrual service credited to such 
+Employee under the Hughes Retirement Plan prior to 
+January 1, 19809, provided such Employee satisfied the 
+requirements of Section 2.1(b)(iii) of the Plan on such 
+January | st, or 
+
+
+(c) for a former Employee not employed by a 
+Company on January 1, 1980, benefit accrual service 
+credited to such former Employee under the Hughes 
+Retirement Plan prior to January 1, 1980, provided such 
+former Employee’s last job classification satisfied the 
+requirements of Section 2.1(b)(iii) of the Plan. 
+
+
+Section 1.13 - Board 
+
+
+lla 
+
+
+“Board” means the Board of Directors of HUGHES 
+AIRCRAFT COMPANY actions as such or by and through its 
+Executive Committee. 
+
+
+Section 1.14 - 
+
+
+A “Break in Service Year” of an Employee or former 
+Employee means a period of fifty-three weeks (using his regular 
+eS ae ea Re Ay Dae 
+
+s, if 
+
+
+(a) at the end of such period he is not an 
+Employee, 
+
+
+(b) such period ends before his Normal or Early 
+Retirement Date, and 
+
+
+(c) during such period he did not have more 
+than five hundred Hours of Service. 
+
+
+For purposes of determining whether a Break in Service Year has 
+occurred for participation and vesting purposes, an Employee who 
+is absent from work that commences for maternity or paternity 
+reasons shall receive credit for the Hours of Service which would 
+otherwise have been credited to such Employee, but for such 
+absence, or in any case in which such hours cannot be determined, 
+eight hours of service per day of such absence. For purposes 
+hereof, an absence from work for maternity or paternity reasons 
+means an absence by reason of the pregnancy of the Employee, by 
+reason of a birth of a child of the Employee, by reason of the 
+placement of a child with the Employee in connection with the 
+adoption of such child by such Employee, or for purposes of caring 
+for such child for a period beginning immediately following such 
+birth or placement. The Hours of Service credited hereunder shall 
+be credited in the computation period in which the absence begins 
+
+
+12a 
+
+
+if the crediting is necessary to prevent a Break in Service Year in 
+that period, or in all other cases, in the following computation 
+period. 
+
+
+Section 1.15 - Comenl 
+
+
+“Committee” means the Administrative Committee, if any, 
+appointed in accordance with Section 5.3. 
+
+
+As the context requires, “Company” or “Companies” means 
+HUGHES AIRCRAFT COMPANY, any other corporation listed 
+on the signature pages of the Plan, any corporation which 
+subsequently adopts the Plan as a whole or as to one or more 
+divisions in accordance with Section 6.6, and any successor 
+corporation which continues the Plan under Section 6.7. The 
+Companies shall act with respect to the Plan through the officers 
+of HUGHES AIRCRAFT COMPANY or their delegates and not 
+through their boards of directors. 
+
+
+Section 1.17 - Company Service 
+
+
+A month of Company Service of an Employee or former 
+Employee means a calendar month of service for a Company 
+which, if performed for HUGHES AIRCRAFT COMPANY, would 
+at the time of performance be treated as a month of company 
+service under Company Practice 3-0-9 as it may be amended from 
+
+
+time to time. 
+
+
+“Compensation” of a Participant for any Plan Year 
+
+
+— 
+
+
+l3a 
+
+
+(a) ‘means his base pay, shift differential pay, 
+Company sick leave pay, payments of state unemployment 
+compensation for disability while receiving Company sick 
+leave Pay, payments of workers’ compensation for 
+disability while receiving Company sick leave pay, 
+payment for over-time hours, vacation actually taken, 
+holiday, bereavement, personal leave, jury duty or military 
+training pay, sea duty premium, hazard area premium, 
+domestic field allowances, flight pay, compensable travel 
+pay, capture and detention pay, foreign service premiums, 
+working leader bonuses, sales commissions or bonuses, 
+cost of living allowances, amounts paid under the Salary 
+Adjustment Plan and Supplementary Compensation Plan of 
+the Company, and amounts deferred by the Participant 
+which are contributed by the Company under the Hughes 
+a Company Salaried Employees’ Thrift and Savings 
+
+
+(b) shall exclude any compensation not paid by 
+a Company, foreign service allowances for post, quarters, 
+education, dual housing, home leave and tax differential, 
+profit-sharing payments, public or private retirement 
+payments, contributions (except Employee contributions) 
+or benefits, retainers, insurance benefits or Company-paid 
+premiums, payments for vacation not taken, and other 
+special payments. 
+
+
+Secti BASS ; 
+
+
+“Contingent Annuitant” means a person properly 
+designated by 4 Participant or Former Participant to cae 
+Benefits. solely in accordance with Section 4.11, 4.12, 4.17, 6.1 or 
+6.9, in the event of his death after payment of an annuity hereunder 
+commences. 
+
+
+Section 1.20 - Conti 
+
+
+l4a 
+
+
+(a) “Continuous Service” of an Employee 
+means his current period as an Employee of one or more 
+Companies or a member of the Controlled Group in any 
+positions or classifications, but excl.ading periods of unpaid 
+absence while an Employee, excludible under Company 
+personnel policy consistently applied, and not includible 
+
+
+under the terms of any collective bargaining agreement. 
+No such period of unpaid absence, however, shall be 
+
+
+considered to be a break in Continuous Service. 
+
+
+(b) Continuous Service shall be broken by a 
+Separation from the Service under which the Employee has 
+no recall rights. 
+
+
+Section 1.21 - Controlled G 
+
+
+“Controlled Group” means the controlled group of 
+corporations, trades and businesses as determined under 
+regulations issued by the Secretary of the Treasury or his delegate 
+under Sections 414(b) and 414(c) of the Internal Revenue Code 
+(and, for purposes of Section 415 of such Code, under subsection 
+415(h)) of which the Companies (and by any other company so 
+designated by the Administrator) are members. 
+
+
+Section 1.22 - Early Reti 
+
+
+“Early Retirement” of a Participant or Former Participant 
+means his retirement upon his Early Retirement Date. 
+
+
+Section 1.23 - Early Reti Benefi 
+
+
+“Early Retirement Benefit” of a Participant or Former 
+Participant means the Benefit payable to or with respect to him 
+under Section 4.8. 
+
+
+Section 1.24 - Early Reti D 
+
+
+15a 
+
+
+i “Early Retirement Date” of a Participant or Former 
+Participant means the first day of a month before his Normal 
+Retirement Date so designated under Rules of the Plan by a 
+Participant or Former Participant who at the time of his Separation 
+from the Service has attained his fifty-fifth birthday. Such a 
+Participant who has a Separation from the Service by resignation 
+or discharge may under the Rules of the Plan treat such resignation 
+or discharge as a retirement and may treat the first day of any 
+month following the date of such resignation or discharge as his 
+Early Retirement Date. A Participant or Former Participant who 
+has a Separation from the Service before his fifty-fifth birthday 
+may elect Early Retirement in accordance with Section 4.7. 
+effective on or after his fifty-fifth birthday. 
+
+
+Section 1.25 - Employee 
+
+
+“Employee” means any person who renders services to any 
+Company in the status of any employee as the term is defined in 
+Section 3121(d) of the Internal Revenue Code of 1954 (or its 
+
+
+subsequent counterpart). 
+Section 1.26 - 
+
+
+“ERISA” means the Employee Retirement Income Security 
+Act of 1974 as it may be amended from time to time. 
+
+
+“Final Average Monthly Compensation” of a Participant 
+means one-twelfth of: 
+
+
+3 (a) with respect to a Separation from the 
+Service occurring after December 31, 1975 and before July 
+1, 1978, the amount determined by dividing 
+
+
+16a 
+
+
+(i) his aggregate Compensation 
+attributed to the lesser or 
+
+
+a his last ten qualifying 
+twelve-Accounting Month periods and 
+
+
+b all of his qualifying twelve- 
+Accounting-Month periods, 
+
+
+by 
+
+
+(ii) the number of periods taken into 
+account under paragraph (1), and 
+
+
+(b) with respect to a Separation from the 
+Service occurring after June 30, 1978 and before December 
+
+
+3, 1979, the amount determined by dividing 
+
+
+(i) his aggregate Compensation 
+attributed to the lesser of 
+
+
+a the eight highest of his last 
+ten qualifying twelve-Accounting-Month 
+periods and 
+
+
+b all of his qualifying twelve- 
+Accounting-Month periods, 
+
+
+by 
+
+
+(ii) the number of periods taken into 
+account under paragraph (1), and 
+
+
+(c) with respect to a Separation from the 
+Service occurring on or after December 3, 1979, the 
+
+
+amount determined by dividing 
+
+
+17a 
+
+
+(i) his aggregate Compensation 
+attributed to the lesser of 
+
+
+a the five highest of his last 
+ten qualifying twelve-Accounting-Month 
+periods, and 
+
+
+b all of his qualifying twelve- 
+Accounting-Month periods, 
+
+
+(ii) the number of periods taken into 
+account under paragraph (1). 
+
+
+. (d) For purposes of this Section, a Participant's 
+qualifying twelve-Accounting-Month period is a period 
+beginning after 1965 of twelve consecutive Accounting 
+Months 
+
+
+( i) ending with the end of the last 
+Accounting Month preceding or coinciding with the 
+earlier of 
+
+
+a the date of such Separation 
+from the Service, or 
+
+
+b his Normal Retirement Date 
+
+
+or with the end of that Accounting Month in an 
+earlier year most nearly corresponding with such 
+last Accounting Month, and 
+
+
+( ii) in which twelve-Accounting Month 
+in an earlier year most nearly corresponding with 
+such last Accounting Month, and 
+
+
+18a 
+
+
+(e) For purposes of this Section, the 
+Compensation attributed to a Participant with respect to 
+any qualifying twelve-Accounting-Month period shall be 
+the Compensation earned during such period multiplied by 
+a fraction (not less than unity) the numerator of which shall 
+
+
+be the lesser of 2 
+
+
+(i) two thousand eighty, and 
+
+
+(ii) the number of Hours of Service he 
+
+
+would have had during such period had he worked 
+during the entire period at his regularly scheduled 
+
+
+number of hours per week, 
+
+
+and the denominator of which shall be equal to the excesy 
+of his Hours of Service in such period over his Hours of 
+Service resulting from the payment of vacation not taken in 
+
+
+such period. 
+
+
+Section 1.28 - F Partici 
+
+“Former Participant” means a person who has had a 
+Separation from the Service and becomes entitled to Benefits under 
+the Plan. 
+
+
+Section 1.29 - Hours of Service 
+(a) The “Hours of Service” of an Employee or 
+former Employee means the sum of: 5 
+
+
+(i) his hours of actual work on the job, 
+
+
+(ii) his periods of vacation, holiday, 
+Military Service, paid sick leave or paid leave of 
+absence, computed on the basis of the number of 
+
+
+19a 
+
+
+hours in hi 
+week, and * regularly scheduled work day and work 
+
+
+(ili) his period of receipt of 
+
+
+a layoff supplemen 
+converted to Hours of Service cae es 
+
+
+of forty Hours of Service for each week in 
+which he receives any such pay, and 
+
+
+b employer-funded disability 
+
+
+(iv) his hours for which back 
+
+irrespective of mitigation of damages, is olen 
+awarded or agreed to by the Company. In no event 
+wend same Hours of Service be credited twice 
+por S paragraph and paragraphs (I), (ii, or (iii), 
+
+
+(v) his Hours of Service with an 
+other 
+—— during which such employer is at of an 
+. iliated service group (under Section 414(m) of 
+e Code) or is a part of a Controlled Group of 
+which the Company is a member. 
+
+
+20a 
+
+
+“Income Insurance Plan” means any Income Insurance Plan 
+
+
+of HUGHES AIRCRAFT COMPANY as presently constituted or 
+as it may be amended from time to time, or the corresponding plan 
+of any Company so designated by the Administrator. 
+
+
+Section 1.31 - Insurance Company 
+
+
+“Insurance Company” means any insurance company 
+selected by the Administrator to provide contracts of insurance or 
+annuity contracts for the purpose of funding benefits under the 
+
+
+Plan. 
+
+
+Section 1.32 - Late Retirement 
+
+
+“Late Retirement” of a Participant or Former Participant 
+means his retirement upon his Late Retirement Date. 
+
+
+Section 1.33 - Late Retirement Benefit 
+
+
+“Late Retirement Benefit” of a Participant or Former 
+Participant means the Benefit payable under Section 4.10. 
+
+
+Section 1.34 - Late Retirement Date 
+
+
+“Late Retirement Date” of a Participant means the first day 
+of the calendar month coinciding with or next following his 
+Separation from the Service occurring later than his Normal 
+Retirement Date, but in no event later than the date under Section 
+
+
+1.9(d). 
+Section 1.35 - Mili Servi 
+
+
+Any Employee who leaves the Controlled Group directly 
+to perform service in the Armed Forces of the United States or the 
+United States Public Health Service under conditions entitling him 
+to reemployment rights as provided in the laws of the United 
+
+
+2la 
+
+
+States, or to perform service j 
+( ice in ACTION, shall, solely fo 
+of the Plan and irrespective of whether he is semipaanted ty ane 
+
+
+an Employee on Military Servi 
+) ervice, unless such 
+voluntarily resigns from the Controlled Group during ares 
+
+
+Section 1.36 - Normal Retirement 
+
+
+“Normal Retirement” of a Partici 
+Sean articipant or Form ici 
+means his retirement upon his Normal Retirement oe 
+
+
+“Normal Retirem ” 
+under Cestinn 42 ent Benefit” means the Benefit payable 
+
+
+“Normal Retirement Date” of a Participant or Former 
+
+
+Participant means the first da 
+° of th . . 
+with or next following his sixty-fith bithday oe 
+
+
+Section 1.39 - Participant 
+
+
+“Participant” means an ; 
+provided in Article II. 7 Geman lamented in the Plan os 
+
+
+Section 1.40 - Participant Contributions 
+
+
+“Participant Contributions” of artici 
+Sp a Partic j 
+contributions to the Plan under Section 3.4 of “Ara wm 
+
+
+22a 
+
+
+“Participant Contributions Account” of a Participant means 
+his individual account established in accordance with Section 3.7. 
+
+
+Section 1.42 - Plan 
+
+
+“Plan” means Hughes Non-Bargaining Retirement Plan. 
+
+
+Section 1.43 - Plan Enrolled Actuary 
+
+
+The term “Plan Enrolled Actuary” means that person who 
+is enrolled by the Joint Board for the Enrollment of Actuaries 
+established under Subtitle C of Title II] of ERISA and who has 
+been engaged by the Administrator on behalf of all Participants to 
+make and render all necessary actuarial determinations, statements, 
+opinions, assumptions, reports, and valuations under the Plan as 
+required by law or requested by the Administrator. 
+
+
+Section 1.44 - Plan Year 
+
+
+“Plan Year” means the calendar year, including such years 
+preceding the adoption of the Plan. 
+
+
+The “Primary Insurance Amount” of a Participant means 
+the monthly primary insurance amount of his old age insurance 
+benefit determined as of his Normal Retirement Date under the 
+federal Social Security Act as in effect on the date of his 
+Separation from the Service, whether more or less than the amount 
+which would be payable if such Act remained unamended until that 
+Date and whether or not the Participant actually applies for and 
+receives such amount for any month, by assuming that he will 
+receive Compensation at rates applicable on the date of such 
+Separation from the Service, over a further period of employment 
+
+
+23a 
+
+
+extending to his Normal Retirement Date. The Primary Ins 
+
+Amount of a Participant who again becomes % Participant 
+following his Separation from the Service shall in no event exceed 
+the amount which would produce that Normal Retirement Benefit 
+to which such Participant would have been entitled had he not 
+again become an Employee following such Separation from the 
+Service. For any Participant for whom the Primary Insurance 
+Amount cannot be ascertained as herein provided, said amount 
+shall be that amount which the Administrator shall reasonably 
+estimate. ‘The Primary Insurance Amount determined herein for 
+any Participant will be adjusted to reflect the actual salary history 
+for years previously estimated before his Separation from the 
+Service if the Participant supplies documentation of that history. 
+Such documentation must be provided no later than a reasonable 
+period of time following the later of the date of his Separation from 
+the Service and the time the Participant is notified of the Benefit te 
+which he or she is entitled. No Benefit hereunder shall be 
+decreased by reason of any increase in the benefit levels payable 
+under Title II of the Social Security Act or any increase in the 
+wage base under such Title II, if such increase takes place after 
+September 2, 1974, or (if later) the earlier of the dat of first receipt 
+stow nog lag date of Separation from the Service of the 
+
+icipant to or with respect t 
+2 eh Aiananabal pect to whom such Benefits are 
+
+
+Section 1.46 - Rules of the Plan 
+“Rules of the Plan” means rules and regulations of 
+
+
+interpretation, administration, and application of the Plan, as 
+properly established and consistently applied by the Administrator. 
+
+
+Section 1.47 - Senesation tones the Servi 
+
+
+(a) The term “Separatior from the Service” of 
+an Employee means his quit. discharge, layoff (other than 
+
+
+24a 
+
+
+a temporary layoff), Early, Normal or Late Retirement from 
+the Companies, or his death. 
+
+
+(b) A leave of absence, (whether paid or 
+unpaid) authorized by a Company in accordance with 
+established policies, a vacation period, a temporary layoff, 
+acceptance of a position as a Union Officer, Military 
+Service or a transfer among members of the Controlled 
+
+
+Group shall not constitute a Separation from the Service; 
+provided, however, that 
+
+
+(i) Continuation upon a temporary 
+layoff for a period in excess of the maximum 
+period for temporary layoffs specified in the then 
+applicable Company practice, shall be considered 
+a layoff effective as of the end of such specified 
+
+
+period. 
+
+
+(ii) Failure to return to work upon 
+expiration of any leave of absence, vacation, OF 
+temporary layoff shall be considered a quit 
+effective as of the expiration of such leave of 
+absence, vacation, or temporary layoff. 
+
+
+“Total Benefit Accrual Service” means, with respect to an 
+Employee, the sum of 
+
+
+(a) his Benefit Accrual Service pursuant to the 
+Hughes Non-Bargaining Retirement Plan 
+
+
+and 
+
+
+(b) his Benefit Accrual Service pursuant to the 
+Hughes Bargaining Retirement Plan. 
+
+
+25a 
+
+
+“Trust Agreement” means that certain T greemen 
+rust A 
+pursuant to Hughes Non-Bargaining Retirement Plan and Hughes 
+Bargaining Retirement Plan, as it may be amended from time to 
+time, providing for the investment and administration of the Trust 
+
+
+Fund. By this reference. the Trust fe j 
+een Agreement is incorporated 
+
+
+Section 1.51 - Trustee 
+
+
+“Trustee” means the Trustee and successor or substi 
+trustee under the Trust Agreement. si " - 
+
+
+Section 1.52 - 
+
+
+“Trust Fund” means the fund established under 
+the 
+re ores t by contributions made by the ~nononmanpce 
+icipants pursuant to the Plan and from whi istributi 
+under the Plan are to be made. Sayan 
+
+
+A “Union Officer” means a Participant who accepts 
+of absence or part-time employment from the Conpanies to 
+assume a paid position as an officer or business agent of a union 
+which is the collective bargaining representative for a collective 
+bargaining unit consisting of or including Employees, so long as he 
+holds such a position, if he is entitled pursuant to a collective 
+bargaining agreement with a Company to be a Participant while on 
+
+
+26a 
+
+
+such leave of absence or in such part-time employment and has not 
+waived such right. 
+
+
+Section 1.54 - Vested 
+
+
+“Vested” means nonforfeitable except to the extent 
+provided in Sections 4.14 and 4.18. 
+
+
+“Vested Retirement Benefit” shall have the meaning given 
+in Section 4.15. 
+
+
+“Year of Service” of an Employee means a period of fifty- 
+three weeks (using his regular payroll week) ending with eh week 
+in which his Anniversary Date falls, during which period he 
+completed one thousand or more Hours of Service. 
+
+
+section 1.57 - Years of Vesting Schedule Serv 
+
+
+“Years of Vesting Schedule Service” of a Participant means 
+the greater of 
+
+
+(a) the number of his Years of Service 
+completed after he first became an Employce and while his 
+Company (if other than HUGHES AIRCRAFT 
+COMPANY) was fifty percent or more owned, directly or 
+indirectly, by, or under common control with, HUGHES 
+AIRCRAFT COMPANY, but excluding each ear of 
+
+
+Service ending 
+
+
+(i) before 1976 and before or during a 
+break in his Continuous Service commencing 
+before 1976, 
+
+
+27a 
+
+
+(ii) after 1975, before a Break in Servi 
+
+. ice 
+Year, and not followed by any Year of Service after 
+such Break in Service Year, or 
+
+
+(iii) before he has five Years of Vesti 
+Schedule Service (determined without regard nd this 
+paragraph (ili) and before the number of 
+consecutive Break in Service Years equals or 
+exceeds five (ignoring for this purpose any Years of 
+Service | excluded by virtue of any previous 
+application of this paragraph (iii)); or 
+
+
+(b) one-twelfth (1/12th) of his months of Company 
+
+
+Service (rounding down to 
+po oa ng the next lowest whole 
+
+
+ARTICLE Ii 
+ELIGIBILITY 
+
+
+Section 2.1 - Reaui for Particinati 
+(a) Effective January 1, 1980 
+phe ee in the Hughes Retirement Plan on December 31 ‘1999 
+= ee es pa unit covered by a collective 
+— ra vg remain a Participant until Section 2.4 
+(b) Any other Employee who 
+
+
+(i) _ had not attained the age of sixty- 
+and six months on last becoming rie toh 09 spi 
+
+
+(ii) has completed either 
+
+
+28a 
+a a twelve-month period commencing 
+with 
+l his first Hour of Service 
+
+
+since the date he was hired as an Employee 
+of his Company (whether or not then a 
+
+
+Company), or 
+2 his Anniversary Date 
+
+
+in which period he had completed one thousand 
+(1,000) or more Hours of Service, or 
+
+
+b twelve months of Company Service, 
+and 
+
+
+(iii) is not an Employee in a — oo 
+by a collective bargaining agreement with respe 
+. pres tessa benefits were the subject of good faith 
+
+
+bargaining (unless such agreement Provides for coverage 
+hereunder of Employees in such unit), and 
+
+
+(iv) isnota Sales Representative of Theta Cable 
+of California, and 
+
+
+(v) is on the United States payroll of his 
+Company (as maintained by such Company in accordance 
+with its established practice), and 
+
+
+(vi) complies with the requirements of Section 
+2.3, 
+
+
+ici i f the first 
+e a Participant after 1979, effective as 0 . 
+ronda calendar month coincident with or next following 
+
+
+his satisfaction of such requirements. 
+
+
+29a 
+
+
+(c) Any participant whose participation is terminated by 
+a Separation from the Service under Section 2.4 shall again become 
+a Participant upon again becoming an Employee and complying 
+with the requirements of paragraphs (iii)-vi), inclusive, of 
+subsection (b). There shall be no duplication of any previously 
+
+
+Accrued Benefits by reason of a Participant's readmission to the 
+Plan. 
+
+
+Section 2.2 - Notice of Eligibility 
+
+
+The Administrator shall give reasonable advance written 
+
+
+notice to the Employees of their prospective eligibility to become 
+Participants. 
+
+
+The Administrator shall furnish each eligible Employee 
+with a form of application for participation in which, as a condition 
+precedent to participation, he shall state: 
+
+
+(a) his request for participation in the Plan: 
+
+
+(b) his name, date of birth, name and date of 
+birth of spouse, and other relevant information: 
+
+
+(c) his consent that he, his Beneficiaries. 
+Contingent Annuitants, successors in interest, and all 
+persons claiming under him, shall be bound by the 
+statements contained therein and the provisions of the Plan 
+as they now exist, and as they may be amended from time 
+to time, to the extent consistent with applicable law, and 
+
+
+(d) his agreement to make Participant 
+Contributions under Section 3.4 in accordance with Section 
+3.5 and his authorization to his Company to withhold such 
+
+
+30a 
+
+
+amounts from his Compensation and transmit the same to 
+the Trustee in accordance with Sections 3.5 and 3.6. 
+
+
+Section 2.4 - Termination of Participati 
+
+
+A Participant shall cease to be a Participant and shall 
+become entitled to Benefits, if any, in accordance with Article IV, 
+upon his Separation from the Service. 
+
+
+Section 2.5 - S son Dusrine Conti Servi 
+
+
+A Participant may suspend his participation in the Plan 
+during his Continued Service at any time by giving such advance 
+written notice to the Administrator as is required under the Rules 
+of the Plan that he declines to make contributions under Section 3.4 
+for a period of twelve calendar months and thereafter until he again 
+complies with Section 2.3, which notice shall be effective and 
+irrevocable in accordance with its terms upon receipt by the 
+
+
+Administrator. 
+
+
+Section 2.6 - Forel 
+
+
+If a Participant has a Separation from the Service for any 
+reason prior to his acquisition of a fully Vested Retirement Benefit, 
+the unvested portion of his Accrued Benefit Derived from 
+Company Contributions shall be forfeited at the earliest of 
+
+
+(a) if he then has less than five Years of Vesting 
+Schedule Service, that date when the number of his 
+consecutive Break in Service Years equals five, 
+
+
+(b) if he has then had one or more Break in 
+Service Years not followed by a Year of Service, 
+immediately preceding his sixty-fifth birthday, or 
+
+
+3la 
+
+
+(c) if he then has less than five Y 
+. ears of V 
+Schedule Service, his withdrawal of tlhe 
+Contributions under Section 3.8(a) provided that any such 
+— portion shall be restored subject to subsequent 
+rg under this Section, if, before subsection (a) 
+applies, he restores such withdrawn Contributi 
+interest under Section 3.8(b). crane sine 
+
+
+Section 2.7 - Inactive Status 
+
+
+(a) A Participant who is transferred di 
+— sfe rec 
+position or classification with the Company which: simian 
+
+
+(i) fails to meet the 
+requirements of Sect 
+i or (v) shall thereupon become a Seastihinih a 
+inactive status and shall not thereaft ibuti 
+ema eae yt er make contributions 
+
+
+(ii) fails to meet the 
+(i requirements of S 
+
+2. 1(b)(iii) shall on the first day of the Accounting Mons 
+coinciding with or following such transfer become a 
+
+
+Participant on inactive 
+‘ipar status and shall not thereafter 
+contributions under Article III. en 
+
+
+(b) All provisions of the Plan, i : 
+including Artic! 
+continue to apply to a Participant on inactive ia wei dis 
+
+
+(c) Ifa Participant on inactive status i 
+* tive is retrans 
+a position or classification which: eamaeeias 
+
+
+(i) meets the requirements of Sectio 
+
+n 2.1(b)(iv 
+and (v), he shall thereupon be restored to active peg 
+may resume making contributions under Article III. or 
+
+
+(ii) meets the requirements of Section 2 lil 
+1(b 
+he shall on the first day of the Accounting ion 
+
+
+32a 
+
+
+coinciding with or following such transfer be restored to 
+active status and may resume making contributions under 
+Article Ill. 
+
+

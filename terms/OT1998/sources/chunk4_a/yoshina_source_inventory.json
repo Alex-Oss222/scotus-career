@@ -1,0 +1,49 @@
+{
+  "identifier": "micro_IA40386003_1065",
+  "selected_files": [
+    {
+      "name": "micro_IA40386003_1065 1. Petition for Writ of Certiorari_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386003_1065 1. Petition for Writ of Certiorari_djvu.xml",
+      "mtime": "1754647334",
+      "size": "448417",
+      "md5": "dd706783db772f0d342f9d591bff6a90",
+      "crc32": "d3dd0bf5",
+      "sha1": "9f8cb2104670703f6157bafe2c83ccf2ad9b215b"
+    },
+    {
+      "name": "micro_IA40386003_1065 2. Supplemental Brief_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386003_1065 2. Supplemental Brief_djvu.xml",
+      "mtime": "1754647338",
+      "size": "12511",
+      "md5": "fd11eb26ea86826fdc66e31e79d9649b",
+      "crc32": "5a76fcc5",
+      "sha1": "84852ebfae6f3a6da51c17155ae14ea535bedbca"
+    },
+    {
+      "name": "micro_IA40386003_1065 3. Opposition Brief_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386003_1065 3. Opposition Brief_djvu.xml",
+      "mtime": "1754647341",
+      "size": "42210",
+      "md5": "be6fbde016b4619a5b924ce380f463d8",
+      "crc32": "8a7ee06a",
+      "sha1": "c2393d3c38e6794a0a6e770aa92593616e8bb033"
+    },
+    {
+      "name": "micro_IA40386003_1065 4. Reply Brief_djvu.txt",
+      "source": "derivative",
+      "format": "DjVuTXT",
+      "original": "micro_IA40386003_1065 4. Reply Brief_djvu.xml",
+      "mtime": "1754647344",
+      "size": "18128",
+      "md5": "2d308034b46d5e89c8e848f55d28099e",
+      "crc32": "15791b66",
+      "sha1": "dc6f5927e905ecef75ac988dff1c4efca66deb5e"
+    }
+  ]
+}

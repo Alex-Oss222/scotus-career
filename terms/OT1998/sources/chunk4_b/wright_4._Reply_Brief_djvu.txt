@@ -1,0 +1,641 @@
+Supreme Court, U.S. 
+
+
+FILED 
+, DEC 28 1998 
+: 
+No. 98-783 | OFFICE OF THE CLERK 
+In The 
+
+
+Supreme Court of the United States 
+
+
+October Term, 1998 
+
+
+IRENE L. WRIGHT, on behalf of herself 
+and all others similarly situated, 
+
+
+Petitioner, 
+
+
+ERNST & YOUNG LLP, 
+
+
+Respondent. 
+
+
+On Petition for Writ of Certiorari to the Linited 
+States Court of Appeals for the Second Circuit 
+
+
+REPLY BRIEF 
+
+
+—— 
+
+
+Charles J. Piven, Esq. 
+Attorney for Petitioner 
+LAW OFFICES OF 
+CHARLES J. PIVEN 
+
+Suite 2700 
+
+111 South Calvert Street 
+Baltimore, Maryland 21202 
+(401) 332-0030 
+
+
+Daniel W. Krasner, Esq. 
+Counsel of Record 
+
+David A.P. Brower, Esq. 
+Neil L. Zola, Esq. 
+
+WOLF HALDENSTEIN 
+ADLER FREEMAN & 
+HERZ LLP 
+
+270 Madison Avenue 
+
+New York, New York 10016 
+(212) 545-4600 
+
+
+Attorneys for Petitioner 
+
+
+' 
+
+
+EWE ERIS OS A NR cane AC «Hart Ot TIO : 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+NOE AIO, DEIR ooh ob oe ees ee i 
+SMR AE BAPE PPOMALIOS fio cc isa ck yok ii 
+Be PRT RE 85 55 45 oo we ee 1 
+pega ng 5 ES PO OU TE BOO OE CRE RORY 2 
+
+I. Respondent Has Mischaracterized Petitioner’s 
+PAGINA So ht Sh es ra oe 2 
+
+II. The Question Presented For Review Is Prop- 
+CEry OTe Le CE cp 3 
+
+Ill. The Klein Decision Is Squarely At Odds With 
+See ACE SOUND os en 4 
+
+IV. Respondent’s Conduct Is Actionable Under 
+The Ninth And Tenth Circuit Tests .......... 6 
+
+V. The Issue Raised In This Petition Is Ripe For 
+Consideration By This Court................. 8 
+
+
+RN et oe 10 
+
+
+il 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+CASES 
+Aaron v. Securities and Exchange Commission, 
+
+446 U.S. 680 (19GQ) ose eee ee es ] 
+Anixter v. Home-Stake Production Co., 
+
+7? F.3d 1295 (20 Gl ess eerivah db caeiiee 7, 8 
+Rasic, Inc. v. Levinson, 485 U.S. 224 (1988) .......... 5,9 
+Bateman Eichler, Hill Richards, Inc. v. Berner, 
+
+472 US. 299 CPS si ac es a ee ba 5 
+
+
+Carley Capital Group v. Deloitte & Touche, L.L.P., No. 
+1:97-CV-3183-TWT, slip op. (N.D. Ga. Nov. 16, 
+
+
+BO9B) we we ai eek eee bea 5, 6 
+Central Bank of Denver, N.A. v. First Interstate Bank 
+
+of Denver, N.A., 511 U.S. 164 (1994) ........... passim 
+Dirks v. Securities and Exchange Commission, 
+
+463 U.S. 646 (I9GSE cine aes ee i) 
+
+
+Klein v. Boyd, [Current Transfer Binder] Fed. Sec. 
+L. Rep. (CCH) ¥ 90,136 (3d Cir. Feb. 12, 1998), 
+vacated, Klein v. Boyd, [Current Transfer Binder] 
+Fed. Sec. L. Rep. (CCH) ¥ 90,165 (3rd Cir., Mar. 
+
+
+9, 1996) ons cee ie eee passim 
+In re Software Toolworks Inc., 
+
+30 E5d 615 (Gh Cie Ss se ee eee 6, 8 
+Woolf v. S.D. Cohn & Co., 
+
+S15 B2d 50k Coy Ce Ress vk creek Ona ene 5 
+Wright v: Ernst & Young LLP, 
+
+152 B.3d 169 Gok Cie ROR os cee inh cia ee 1, 4, 7 
+
+
+OTHER AUTHORITIES 
+
+
+Duffy, Shannon P., “Firm Settles; Ruling on SEC 
+Act Stands,” The National Law Journal, (Dec. 7, 
+SOPG) cn o\ kkk a hee he eRe See ET ee eae ce 5 
+
+
+1 
+
+
+Pursuant to Rule 15.6 of the Rules of this Court, 
+Petitioner Irene L. Wright respectfully submits this brief 
+in reply to the Brief for the Respondent in Opposition 
+filed with this Court on December 14, 1998 (“Res. Br.”). 
+
+
+INTRODUCTION 
+
+
+First, in opposing petitioner’s writ, respondent Ernst 
+& Young LL? (“E&Y”) argues that under any of the 
+disparate tests applied by the various circuits for deter- 
+mining liability for secondary actors under the Securities 
+and Exchange Act of 1934 (the “Exchange Act”) interpret- 
+ing Central Bank of Denver v. First Interstate Bank of Denver, 
+511 U.S. 164 (1994), Ms. Wright’s claim would be dis- 
+missed. Not only is this argument factually inaccurate (as 
+discussed below), but respondent, in analyzing three of 
+the different tests currently being applied respectively by 
+three of the circuits to have considered this issue, has 
+unwittingly highlighted the need for review by this 
+Court. 
+
+Second, given respondent’s acknowledgment of this 
+clear conflict among the circuits, E&Y’s assertion, made 
+without any legal authority, that it is somehow too early 
+for the Court to consider the issue because there is not yet 
+sufficient confusion among the circuits is without merit. 
+As several of this Court’s prior decisions make clear, 
+there is no established threshold for the number of cir- 
+cuits that must disagree on an issue before this Court will 
+address conflicting interpretations of a question of law 
+among the circuits. Indeed, the varying interpretations by 
+the Second Circuit on the issue presented in this petition 
+alone demonstrate that the time is ripe for clarification of 
+this Court’s decision in Central Bank. 
+
+Finally, conspicuous in its absence is any reference by 
+respondent to the split among the circuits on the key 
+issue of attribution. Indeed, respondent's failure to even 
+attempt to reconcile the holdings of Wright v. Ernst & 
+Young LLP, 152 F.3d 169, 175 (2d Cir. 1998) (“a secondary 
+actor cannot incur primary liability under the Act for a 
+
+
+2 
+
+
+statement not attributed to that actor”), and Klein v. Boyd, 
+[Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+{ 90,136, at 90,324 (3d Cir. Feb. 12, 1998). vacated, Klein v. 
+Boyd |Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+{ 90,165 (3d Cir. Mar. 9, 1998) (liability may attach “even 
+when the secondary actors are not identified to the inves- 
+tor”), undermines respondent's hypothesis that insuffi- - 
+cient disagreement exists among the circuits for this 
+Court to grant petitioner’s writ. 
+
+
+ARGUMENT 
+
+
+I. Respondent Has Mischaracterized Petitioner’s 
+Factual Claims 
+
+
+As an initial matter, respondent's recitation of the 
+facts on which it bases its argument that plaintiff cannot 
+state a claim under any circuit's interpretation of Central 
+Bank is inaccurate. Respondent asserts that petitioner’s 
+allegations concerned E&Y’s recklessness in not discover- 
+ing that “rogue employees of [BT Office Products Interna- 
+tional, Inc. (“BT”)] had engaged in theft and fraud.” Res. 
+Br. at 3. This is not the gravamen of petitioner’s claim nor 
+is it the question reviewed by the Second Circuit below. 
+Rather, petitioner claims that E&Y is culpable under Sec- 
+tion 10(b) of the Exchange Act because it represented to 
+management of BT that BT’s 1995 year-end financial 
+results were sufficiently accurate to disseminate to the 
+public despite E&Y’s knowledge of numerous unex- 
+plained “red flags” discovered in the course of its audit of 
+BT, including a $3.9 million under-accrual in accounts 
+payable at BT’s New York Division. Although E&Y dis- 
+covered this under-accrual in January of 1996, it failed to 
+investigate further, concluding, without reasonable basis, 
+that the under-accrual was not material because there had 
+been a similar under-accrual the previous year. E&Y’s 
+conclusion, reported to management of BT, that the 
+under-accruals somehow offset each other, was reckless 
+in the extreme because, inter alia, E&Y had not even 
+
+
+| 
+
+
+audited BT’s New York Division in 1994. Thus, E&Y had 
+no idea whether the 1995 under-accrual had any relation 
+to that of 1994. 
+
+Nevertheless, on January 22, 1996, having completed 
+its audit field work for the 1995 fiscal year, the audit 
+engagement partners from E&Y gave the Chief Financial 
+Officer of BT, John McKiernan, their assurance that BT’s 
+
+~ 1995 financial results were accurate. E&Y knew at the 
+time of the meeting that the purpose of BT’s obtaining 
+E&Y’s assurance on the accuracy of the 1995 financial 
+results was to immediately release them to the public. 
+Based on E&Y’s assurances, without which, according to 
+Mr. McKiernan, the disclosure of the 1995 financial 
+results would not have occurred, BT issued a press 
+release on January 30, 1996, (the “January Press Release”) 
+announcing what were undisputedly materially inflated 
+and false financial results. As a result, BT’s share price 
+rose nearly eight dollars during the following two 
+months. When the inaccuracies of those financial results 
+were revealed on March 28, 1996, the share price dropped 
+nearly 25% in one day. 
+
+
+II. The Question Presented For Review Is Properly 
+Before This Court 
+
+
+Resting on its mischaracterization of the facts, 
+respondent argues that because the January Press Release 
+does not recite E&Y’s assurances to BT as to the accuracy 
+of the 1995 financial results or BT’s complete reliance on 
+those assurances, E&Y’s misstatements were not commu- 
+nicated to investors, and, thus, the question petitioner has 
+presented for review is not raised in this case. Res. Br. at 
+7. A review of the January Press Release itself belies this 
+assertion. 
+
+The January Press Release contains two parts: (1) a 
+narrative description of BT’s 1995 operations and the 
+reasons for its 1995 financial results; and (2) the numeri- 
+cal financial results themselves, contained both in the 
+body of the January Press Release and in an annexed 
+
+
+4 
+
+
+chart. It is the numerical results alone that petitioner 
+contends are false and actionable, not the accompanying 
+narrative. It is these numerical results that E&Y knew 
+would be made public if, and only if, E&Y assured BT 
+management that the results were sufficiently accurate 
+such that any subsequent change in the year-end 
+numbers would be immaterial. These figures and their 
+dissemination were, thus, virtually the sole province of 
+E&Y, with BT acting as a mere conduit to the investing 
+public. 
+
+Respondent simply glosses over these allegations by 
+asserting that the public never knew about E&Y’s “pri- 
+vate advice to its client.” Res. Br. at 4. However, that is 
+precisely the question raised by this petition - whether 
+the investing public’s lack of knowledge of the pivotal 
+role of a secondary actor, like E&Y here, in the prepara- 
+tion and dissemination of false and misleading financial 
+results that such secondary actor knew would be commu- 
+nicated to the public, shields that secondary actor from 
+liability. This narrow attribution question is one over 
+which the circuits have split, and is, therefore, properly 
+before the Court at this time. 
+
+
+III. The Klein Decision Is Squarely At Odds With The 
+Second Circuit 
+
+
+By ignoring the actual question presented by this 
+petition, respondent avoids discussing the reasoning 
+which has led to the split between the Second and Third 
+Circuits regarding the need for attribution. Instead, it 
+simply insists that the Third Circuit’s ruling in Klein has 
+no precedential value because it was vacated pending en 
+banc review. In Klein, the Third Circuit sets forth a test 
+that explicitly disagrees with the Second Circuit’s holding 
+in Wright. The Klein court found that attribution was 
+irrelevant as long as the secondary actor “significantly 
+participate|d] in the creation of their client’s misrepresen- 
+tations, to such a degree that they may fairly be deemed 
+authors or co-authors. ... ” (CCH) ¥ 90,136 at 90,324. In 
+
+
+5 
+
+
+Klein, a law firm was subject to liability for its role in 
+disseminating disclosure documents even though the 
+firm was not identified in the documents. Clearly, given 
+the undisputed facts here, E&Y could be deemed a co- 
+author of the statement under the Klein test, since without 
+its participation, no year-end financial results or com- 
+mentary about those results would have been issued by 
+BT. 
+
+
+The ultimate conclusion of the en banc panel in Klein 
+will never be known, because the case has now been 
+settled for an undisclosed amount.! However, this Court 
+may take note of a vacated decision in its evaluation of a 
+split among the circuit courts. In Bateman Eichler, Hill 
+Richards, Inc. v. Berner, 472 U.S. 299, 305 (1985), this Court 
+granted certiorari because “[t]he lower courts have 
+divided over the proper scope of the in pari delicto 
+defense in securities litigation.” In coming to this conclu- 
+sion, this Court cited a vacated case from the Fifth Cir- 
+cuit, Woolf v. $.D. Cohn & Co., 515 F.2d 591 (5th Cir. 1975), 
+vacated and remanded on other groun 4s, 426 U.S. 944 (1976). 
+See Bateman, 472 U.S. at 305 n.10. See also Basic, Inc. v. 
+Levinson, 485 U.S. 224, 247 n. 25 (1988) (noting a vacated 
+Second Circuit decision in demonstrating consensus 
+among circuit courts). Therefore, that the original Third 
+Circuit panel’s decision in Klein was vacated does not 
+diminish in the least the evidence it provides of confusion 
+among the circuits on the key attribution question. This 
+Court may certainly consider that evidence in evaluating 
+whether to grant a writ of certiorari. 
+
+
+Indeed, the district court for the Northern District of 
+Georgia, foreshadowing events in the Eleventh Circuit, 
+recently issued a decision which closely follows the rea- 
+soning in Klein. See Carley Capital Group v. Deloitte & 
+Touche, L.L.P., No. 1:97-CV-3183-TWT, slip op., (N.D. Ga. 
+
+
+' Duffy, Shannon P., “Firm Settles; Ruling On SEC Act 
+Stands,” The National Law Journal, December 7, 1998 at A5. 
+
+
+6 
+Nov. 16, 1998) (set forth at 1a in Petitioner’s Supplemen- 
+tal Brief To Petition For A Writ Of Certiorari (“Supp. 
+Br.”), filed with this Court on December 9, 1998). The 
+Carley Capital court is the only court in the Eleventh 
+Circuit to have discussed primary liability for secondary 
+actors in the wake of Central Bank, and respondent's 
+failure to address this case, or, for that matter, the SEC’s 
+amicus curiae brief (Supp. Br. at 38a), heavily relied upon 
+by the Carley Capital court, is symptomatic of its refusal to 
+address the actual issue presented by petitioner’s writ. 
+
+
+IV. Respondent’s Conduct Is Actionable Under The 
+Ninth And Tenth Circuit Tests 
+
+
+Respondent also argues that this case should not be 
+reviewed because under the facts presented here, E&Y 
+could not be held liable under any of the different tests 
+utilized by the other respective circuits that have consid- 
+ered the issue. However, respondent would not only be 
+liable under the Third Circuit’s Klein test, but would 
+likely have been held liable under the other different tests 
+interpreting Central Bank devised by the Ninth and Tenth 
+Circuits. Importantly, all of these standards contradict at 
+least one version of the Second Circuit’s various tests.2 
+
+
+The Ninth Circuit in In re Software Toolworks Inc., 50 
+F.3d 615, 628 n.3 (9th Cir. 1994), stated that a secondary 
+actor could incur primary liability if that actor had 
+played a “significant role” in the dissemination of mis- 
+leading statements (the “substantial participation” test). 
+In Software Toolworks, the accounting firm defendant was 
+subject to liability where it had helped its client prepare 
+two misleading letters to the Securities and Exchange 
+Commission. Respondent asserts that the accounting 
+firm’s conduct in Software Toolworks went far beyond that 
+of E&Y’s alleged conduct here. Res. Br. at 10-11. That 
+
+
+* For a discussion of the various Second Circuit rulings on 
+this issue, see Petition for a Writ of Certiorari (“Petition”) at 8-9. 
+
+
+7 
+
+
+assertion ignores petitioner’s key allegations. Quite sim- 
+ply, but for E&Y’s representations to BT, no public misrep- 
+resentation would have occurred at all, because the 
+| January Press Release would never have been issued. In 
+fact, E&Y’s participation in the dissemination of the false 
+financial results to the public was not merely “substan- 
+tial” or “significant,” it was absolutely definitive. Differing 
+sharply from the Second Circuit’s decision here, Software 
+Toolworks did not require direct attribution; the focus was 
+on the conduct of the secondary actor, not its identifica- 
+tion. Thus, E&Y, according to its own rendition of the 
+facts, would be liable under the Ninth Circuit’s test. 
+
+
+Respondent also asserts that the Tenth Circuit's deci- 
+sion in Anixter v. Home-Stake Production Co., 77 F.3d 1215 
+(10th Cir. 1996), applies the same test as did the Second 
+Circuit in this case (Res. Br. at 12), and therefore that 
+petitioner’s claims would fail under the Tenth Circuit's 
+test. Respondent is wrong on both counts. For primary 
+liability of a secondary actor to exist, both the Second 
+Circuit in Wright and the Tenth Circuit in Anixter have 
+held that there is no requirement that an alleged violator 
+directly communicate with investors so long as the sec- 
+ondary actor knew or should have known that its repre- 
+sentation would be communicated to investors. However, 
+the Second Circuit’s decision in Wright injected the addi- 
+tional condition that “a secondary actor cannot incur 
+primary liability under the Act for a statement not attrib- 
+uted to that actor at the time of its dissemination.” Peti- 
+tion at 12a. It is the addition of this attribution element in 
+the Second Circuit’s interpretation of Central Bank (which 
+is not found in Anixter and is, in fact, contradicted by 
+Klein) which gives rise to this petition. 
+
+
+Respondent seizes on the phrase “his misrepresenta- 
+tion” in Anixter to support its conclusion that the Second 
+Circuit and Anixter actually applied the same test, despite 
+that the Second Circuit requires attribution and Anixter 
+does not. Respondent essentially argues that the above 
+
+
+8 
+
+
+language in Anixter means that the exact misrepresenta- 
+tion of the secondary actor must be repeated by the 
+primary actor. However, the Anixter court did not so 
+hold. Rather, the court set forth a flexible standard, sig- 
+nificantly different than that used by the Wright court 
+(and also different from that in Software Toolworks) and 
+one under which E&Y would likely have incurred pri- 
+mary liability here: 
+
+Reading the language of § 10(b) and 10b-5 
+
+through the lens of Central Bank of Denver, we 
+
+conclude that in order for accountants to “use or 
+employ” a “deception” actionable under the 
+
+antifraud law, they must themselves make a 
+
+false or misleading statement (or omission) that 
+
+they know or should know will reach potential 
+investors. In addition to being consistent with 
+
+the language of the statute, this rule, though far 
+
+from a bright line, provides more guidance to 
+
+litigants than a rule allowing liability to attach 
+
+to an accountant or other outside professional 
+
+who provided “significant” or “substantial” 
+
+assistance to the representations of others. 
+77 F.3d at 1226-27 (emphasis added). 
+
+The Tenth Circuit’s use of the word “reach,” and 
+comment that this is not a bright line test, counsel against 
+respondent's restrictive reading of Anixter. Since plaintiff 
+has properly alleged that E&Y knew that its representa- 
+tions as to the accuracy of the false financial results 
+would be communicated to the market through the public 
+dissemination of these figures, E&Y would be liable 
+under Anixter. 
+
+
+V. The Issue Raised In This Petition Is Ripe For 
+Consideration By This Court 
+
+
+Respondent urges this Court to wait for lower courts 
+te continue to consider the issue raised in this petition 
+since “only” three circuit courts (respondent fails to 
+include the vacated Klein decision, which would bring the 
+
+
+ee 
+
+
+9 
+
+
+total to four) have done so thus far (Res. Br. at 16).3 
+Petitioner disagrees. This Court has not made a practice 
+of waiting for all circuits to weigh in ona question before 
+clarifying its own decisions. Rather, it has been the prac- 
+tice of this Court to grant certiorari when important issues 
+require clarification, without adhering to a rigid rule 
+concerning the number of lower courts to address a par- 
+ticular issue. 
+
+
+In one leading securities case, Basic, Inc. v. Levinson, 
+485 U.S. 224, 230 (1988), this Court granted certiorari to 
+resOive an issue, that had been addressed by only three 
+circuit courts, concerning the proper materiality standard 
+to be applied in securities cases. See also Aaron v. Securities 
+and Exchange Commission, 446 U.S. 680 (1980) (split among 
+two circuit courts and a district court on one issue and 
+three circuit courts on another). In fact, this Court has 
+granted certiorari in securities cases in the absence of a 
+circuit split. See, e.g., Dirks v. Securities and Exchange Com- 
+mission, 463 U.S. 646, 652 (1983) (in clarifying an earlier 
+case, this Court stated that “[i]n view of the importance 
+to the SEC and to the securities industry of the question 
+presented by this case, we granted a writ of certiorari.”). 
+Further, respondent offers no countervailing authority 
+illustrating a practice of this Court to await a specific 
+number of circuit court decisions or a particular level of 
+chaos or legal uncertainty within the federal judiciary 
+before granting certiorari. 
+
+
+* Notwithstanding respondent's assertion that this Court 
+should not act as a watchdog over the Second Circuit’s internal 
+inconsistencies (Res. Br. at 15), the intra-circuit confusion in the 
+Second Circuit is symptomatic of the confusion not only among, 
+but within, the circuits concerning the limits of Central Bank. 
+Respondent itself, in fact, admits that the issue of primary 
+liability for secondary actors is “in a state of flux.” Res. Br. at 16. 
+
+
+10 
+CONCLUSION 
+
+
+For the reasons set forth above and in petitioner’s 
+opening and supplemental briefs, petitioner submits that 
+this case presents an ideal and necessary opportunity for 
+this Court to clarify its holding in Central Bank. 
+
+
+Respectfully submitted, 
+
+
+WOLF HALDENSTEIN ADLER 
+FREEMAN & HERZ LLP 
+Daniel W. Krasner, Esq. 
+Counsel of Record 
+
+David A.P. Brower, Esq. 
+
+Neil L. Zola, Esq. 
+
+Adam R. Gonnelli, Esq. 
+
+270 Madison Avenue 
+
+New York, New York 10016 
+(212) 545-4600 
+
+
+LAW OFFICES OF 
+CHARLES J. PIVEN 
+Charles J. Piven, Esq. 
+Suite 2700 
+
+111 South Calvert Street 
+Baltimore, Maryland 21202 
+(401) 332-0030 
+
+
+Attorneys for Petitioner 
+
+

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>42</CFRTITLE>
+    <CFRTITLETEXT>Public Health</CFRTITLETEXT>
+    <VOL>2</VOL>
+    <DATE>1998-10-01</DATE>
+    <ORIGINALDATE>1998-10-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Reopening a determination or decision.</TITLE>
+    <GRANULENUM>405.1885</GRANULENUM>
+    <HEADING>Section 405.1885</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="4"/>
+      <PARENT HEADING="" SEQ="3"/>
+      <PARENT HEADING="SUBCHAPTER B" SEQ="2">MEDICARE PROGRAM</PARENT>
+      <PARENT HEADING="PART 405" SEQ="1">FEDERAL HEALTH INSURANCE FOR THE AGED AND DISABLED</PARENT>
+      <PARENT HEADING="Subpart R" SEQ="0">Provider Reimbursement Determinations and Appeals</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 405.1885</SECTNO>
+    <SUBJECT>Reopening a determination or decision.</SUBJECT>
+    <P>(a) A determination of an intermediary, a decision by a hearing officer or panel of hearing officers, a decision by the Board, or a decision of the Secretary may be reopened with respect to findings on matters at issue in such determination or decision, by such intermediary officer or panel of hearing officers, Board, or Secretary, as the case may be, either on motion of such intermediary officer or panel of hearing officers, Board, or Secretary, or on the motion of the provider affected by such determination or decision to revise any matter in issue at any such proceedings. Any such request to reopen must be made within 3 years of the date of the notice of the intermediary or Board hearing decision, or where there has been no such decision, any such request to reopen must be made within 3 years of the date of notice of the intermediary determination. No such determination or decision may be reopened after such 3-year period except as provided in paragraphs (d) and (e) of this section.</P>
+    <P>(b) A determination or a hearing decision rendered by the intermediary shall be reopened and revised by the intermediary if, within the aforementioned 3-year period, the Health Care Financing Administration notifies the intermediary that such determination or decision is inconsistent with the applicable law, regulations, or general instructions issued by the Health Care Financing Administration in accordance with the Secretary's agreement with the intermediary.</P>
+
+    <P>(c) Jurisdiction for reopening a determination or decision rests exclusively with that administrative body that rendered the last determination or decision.<PRTPAGE P="104"/>
+    </P>
+    <P>(d) Notwithstanding the provisions of paragraph (a) of this section, an intermediary determination or hearing decision, a decision of the Board, or a decision of the Secretary shall be reopened and revised at any time if it is established that such determination or decision was procured by fraud or similar fault of any party to the determination or decision.</P>
+    <P>(e) Paragraphs (a) and (b) of this section apply to determinations on cost reporting periods ending on or after December 31, 1971. (See § 405.1801(c).) However, the 3-year period described shall also apply to determinations with respect to cost reporting periods ending prior to December 31, 1971, but only if the reopening action was undertaken after May 27, 1972 (the effective date of regulations which, prior to the publication of this subpart R, governed the reopening of such determinations).</P>
+  </SECTION>
+</CFRGRANULE>

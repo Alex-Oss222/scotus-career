@@ -1,0 +1,65 @@
+[
+  {
+    "file": "usc_1997_8_1252.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title8/html/USCODE-1997-title8-chap12-subchapII-partV-sec1252.htm",
+    "bytes": 45342,
+    "status": "Verified official U.S. Code HTML title"
+  },
+  {
+    "file": "usc_1997_8_1101_notes.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title8/html/USCODE-1997-title8-chap12-subchapI-sec1101.htm",
+    "bytes": 272049,
+    "status": "Verified official U.S. Code HTML title"
+  },
+  {
+    "file": "usc_1997_20_1681.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title20/html/USCODE-1997-title20-chap38-sec1681.htm",
+    "bytes": 13095,
+    "status": "Verified official U.S. Code HTML title"
+  },
+  {
+    "file": "usc_1997_20_1687.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title20/html/USCODE-1997-title20-chap38-sec1687.htm",
+    "bytes": 6685,
+    "status": "Verified official U.S. Code HTML title"
+  },
+  {
+    "file": "usc_1997_42_1395oo.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title42/html/USCODE-1997-title42-chap7-subchapXVIII-partD-sec1395oo.htm",
+    "bytes": 22545,
+    "status": "Verified Title 42 section HTML"
+  },
+  {
+    "file": "usc_1997_42_405.html",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1997-title42/html/USCODE-1997-title42-chap7-subchapII-sec405.htm",
+    "bytes": 187911,
+    "status": "Verified official U.S. Code HTML title"
+  },
+  {
+    "file": "cfr_1998_42_405_1885.txt",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-1998-title42-vol2/html/CFR-1998-title42-vol2-sec405-1885.htm",
+    "bytes": 44172,
+    "status": "Initial HTML endpoint returned Page Not Found; use XML sources listed below"
+  },
+  {
+    "file": "cfr_1998_42_405_1889.txt",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-1998-title42-vol2/html/CFR-1998-title42-vol2-sec405-1889.htm",
+    "bytes": 44172,
+    "status": "Initial HTML endpoint returned Page Not Found; use XML sources listed below"
+  },
+  {
+    "file": "CFR-1998-title42-vol2-sec405-1885.xml",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-1998-title42-vol2/xml/CFR-1998-title42-vol2-sec405-1885.xml",
+    "status": "Official 1998 CFR XML retrieved and converted mechanically to plain text"
+  },
+  {
+    "file": "cfr_1998_42_405_1887.xml",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-1998-title42-vol2/xml/CFR-1998-title42-vol2-sec405-1887.xml",
+    "status": "Official 1998 CFR XML retrieved and converted mechanically to plain text"
+  },
+  {
+    "file": "cfr_1998_42_405_1889.xml",
+    "url": "https://www.govinfo.gov/content/pkg/CFR-1998-title42-vol2/xml/CFR-1998-title42-vol2-sec405-1889.xml",
+    "status": "Official 1998 CFR XML retrieved and converted mechanically to plain text"
+  }
+]

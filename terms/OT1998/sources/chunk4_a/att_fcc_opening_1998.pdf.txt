@@ -1,0 +1,2480 @@
+No.  97-831
+In the Supreme Court of the United States
+OCTOBER TERM, 1997
+___________
+FEDERAL COMMUNICATIONS COMMISSION AND
+THE UNITED STATES OF AMERICA, PETITIONERS
+v.
+IOWA UTILITIES BOARD, ET AL.
+___________
+FEDERAL COMMUNICATIONS COMMISSION AND
+THE UNITED STATES OF AMERICA, PETITIONERS
+v.
+PEOPLE OF THE STATE OF CALIFORNIA, ET AL.
+___________
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE EIGHTH CIRCUIT
+___________
+OPENING BRIEF FOR THE
+FEDERAL PETITIONERS
+___________
+CHRISTOPHER J. WRIGHT
+General Counsel
+JOHN E. INGLE
+Deputy Associate General
+Counsel
+LAURENCE N. BOURNE
+JAMES M. CARR
+AARON J. RAPPAPORT
+Counsel
+Federal Communications
+Commission
+Washington, D.C. 20554
+SETH P. WAXMAN
+Solicitor General
+  Counsel of Record
+JOEL I. KLEIN
+Assistant Attorney General
+LAWRENCE G. WALLACE
+Deputy Solicitor General
+JONATHAN E. NUECHTERLEIN
+Assistant to the Solicitor
+  General
+CATHERINE G. O’SULLIVAN
+ROBERT B. NICHOLSON
+NANCY C. GARRISON
+Attorneys
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514–2217
+
+
+(I)
+QUESTIONS PRESENTED
+1.
+Whether the Federal Communications Commission
+has statutory authority to issue rules implementing the
+core provisions of the Telecommunications Act of 1996
+that open local telephone markets to competition, see 47
+U.S.C. 251 et seq., including, inter alia, the provisions
+governing dialing parity and the standards for the prices
+that an incumbent local exchange carrier (LEC) may
+charge potential competitors for the right to interconnect
+with or gain unbundled access to the incumbent’s network
+and the right to resell the incumbent’s retail services.
+2.
+Whether the Commission reasonably implemented
+47 U.S.C. 251(c)(3) by prohibiting an incumbent LEC,
+when it receives a request from another carrier for access
+to network elements, from separating previously combined
+elements over the objection of the requesting carrier.
+3.
+Whether the Commission reasonably interpreted 47
+U.S.C. 252(i), which requires an incumbent LEC to “make
+available any interconnection, service, or network element
+provided under an agreement  *  *  *  to which it is a party
+to any other requesting telecommunications carrier,” to
+entitle a requesting carrier to select some specific terms
+of a preexisting agreement without having to accept the
+entire agreement.
+
+
+II
+PARTIES TO THE PROCEEDING
+The petitioners are the Federal Communications Com-
+mission and the United States of America.
+The parties to the underlying proceedings are listed in
+the appendix to the petition for a writ of certiorari in
+AT&T Corp., et al. v. Iowa Utilities Board et al., at 1a-4a,
+73a-78a, 92a.  See note 1, infra.
+
+
+(III)
+TABLE  OF  CONTENTS
+Page
+Opinions below ...............................................................
+1
+Jurisdiction ...................................................................
+2
+Statutory provisions involved ........................................
+2
+Statement ......................................................................
+2
+Summary of argument ..................................................
+15
+Argument:
+I.
+The Commission has statutory authority to
+issue rules implementing the federal standards
+of the local competition provisions ..................
+18
+A. Both the 1996 Act and the Commission’s
+general rulemaking powers authorize the
+Commission to implement the local
+competition provisions ..............................
+18
+B.
+Section 2(b) of the Communications Act of
+1934 does not limit the Commission’s
+jurisdiction to implement the Telecommu-
+nications Act of 1996 .................................
+32
+C.
+The court of appeals’ narrow view of the
+Commission’s jurisdiction would raise
+immense obstacles to effective implementa-
+tion of the 1996 Act ..................................
+39
+II.
+Rule 315(b) is a reasonable exercise of the
+Commission’s authority to ensure nondis-
+criminatory access to network elements .........
+43
+III.
+The Commission’s interpretation of Section
+252(i) is reasonable ..........................................
+48
+Conclusion .....................................................................
+50
+Appendix ......................................................................
+1a
+
+
+IV
+TABLE  OF  AUTHORITIES
+Cases:
+Access Charge Reform,  11 FCC Rcd. 21,354 (1996) ...
+4
+Application of Ameritech Michigan Pursuant to
+Section 271 of the Communications Act of 1934,
+FCC No. 97-298 (Aug. 19, 1997) ..............................
+14
+Aspen Skiing Co.  v.  Aspen Highlands Skiing Corp.,
+472 U.S. 585 (1985) ..................................................
+46
+AT&T Corp.  v.  Iowa Utilities Board,  No. 97-1520,
+petition for cert. pending (Mar. 13, 1998) ...............
+31
+AT&T Reclassification,  11 FCC Rcd. 3271 (1995) .....
+4
+Bell Atlantic Tel. Cos.  v.  FCC,  24 F.3d 1441 (D.C.
+Cir. 1994) ................................................................
+44
+California  v.  FCC:
+4 F.3d 1505 (9th Cir. 1993) ..................................
+44
+39 F.3d 919 (9th Cir. 1994), cert. denied, 514
+U.S. 1050 (1995) ..................................................
+38
+Chevron U.S.A. Inc.  v.  Natural Resources Defense
+Council, Inc.,  467 U.S. 837 (1984) .....................
+42, 48, 49
+City of New York  v.  FCC,  486 U.S. 57 (1988) .......
+23, 24
+Commodity Futures Trading Comm’n  v.  Schor,
+478 U.S. 833 (1986) ..................................................
+42
+Computer & Communications Indus. Ass’n  v.  FCC,
+693 F.2d 198 (D.C. Cir. 1982), cert. denied, 461 U.S.
+938 (1983) ........................................................
+38, 39, 44
+FCC  v.  ITT World Communications, Inc.,  466 U.S.
+463 (1984) ................................................................
+40
+FCC  v.  Iowa Utilities Board,  No. 97-1519, petition
+for cert. pending (Mar. 13, 1998) ............................
+31
+FCC  v.  National Citizens Comm. for Broadcasting,
+436 U.S. 775 (1978) ..................................................
+Fidelity Federal Savings & Loan Ass’n  v.  de la
+Cuesta,  458 U.S. 141 (1982) ....................................
+23
+Houston, E. & W. Tex. Ry.  v. United States,  234
+U.S. 342 (1914) ........................................................
+34-35
+
+
+V
+Cases—Continued:
+Page
+Illinois Bell Tel. Co.  v.  FCC,  883 F.2d 104 (D.C. Cir.
+1989) .................................................................
+36, 38, 39
+Illinois Pub. Telecomm. Ass’n  v.  FCC,  117 F.3d
+555, clarified on reh’g, 123 F.3d 693 (D.C. Cir. 1997),
+cert. denied, No. 97-1072 (Mar. 30, 1998) ................
+33
+Implementation of the Local Competition Provisions
+in the Telecommunications Act of 1966, In re:
+First Report and Order, 11 FCC Rcd. 15,499
+(1996) ............................................................. passim
+Second Report and Order, 11 FCC Rcd. 19,392
+(1996) ............................................................. passim
+Third Order on Reconsideration, FCC 97-295
+(Aug. 18, 1997), petitions for review pending,
+Southwestern Bell Tel. Co.  v.  FCC,  Nos. 97-
+3389 et al. (8th Cir.) ................................
+43, 46, 47
+Louisiana Pub. Serv. Comm’n  v.  FCC,  476 U.S. 355
+(1986) ............................................
+32, 33, 34, 35-36, 37, 38
+Martin  v.  OSHRC,  499 U.S. 144 (1991) ..................
+42
+McDermott Int’l, Inc.  v.  Wilander,  498 U.S. 337
+(1991) ......................................................................
+45
+Medtronic, Inc.  v.  Lohr,  518 U.S. 470 (1996) ..........
+42
+Mississippi Power & Light Co.  v.  Mississippi ex rel.
+Moore,  487 U.S. 354 (1988) .....................................
+42
+National Ass’n of Regulatory Util. Comm’rs  v.  FCC,
+737 F.2d 1095 (D.C. Cir. 1984), cert. denied, 469
+U.S. 1227 (1985) ..............................................
+35, 38, 39
+National Broadcasting Co.  v.  United States,  319
+U.S. 190 (1943) ........................................................
+20
+NLRB  v.  City Disposal Sys., Inc.,  465 U.S. 822
+(1984) ......................................................................
+42
+North Carolina Utils. Comm’n  v.  FCC:
+537 F.2d 787 (4th Cir.), cert. denied, 429 U.S. 1027
+(1976) ..................................................................
+38
+552 F.2d 1036 (4th Cir.), cert. denied, 434 U.S. 874
+(1977) ..........................................................
+36, 38, 39
+
+
+VI
+Cases—Continued:
+Page
+Northern Natural Gas Co.  v.  FERC,  929 F.2d 1261
+(8th Cir.), cert. denied, 502 U.S. 856 (1991) ............
+44
+Permian Basin Area Rate Cases,  390 U.S. 747
+(1968) .......................................................................
+28
+Public Serv. Comm’n of Maryland  v.  FCC,  909
+F.2d 1510 (D.C. Cir. 1990) .......................................
+36
+Public Util. Comm’n of Texas  v.  FCC,  886 F.2d
+1325 (D.C. Cir. 1989) .............................................
+36, 38
+SBC Communications, Inc.  v.  FCC:
+981 F. Supp. 996 (N.D. Tex. 1997) ..........................
+8
+138 F.3d 410 (D.C. Cir. 1998) ................................
+29, 31
+SEC  v.  Chenery Corp.,  332 U.S. 194 (1947) .............
+24
+Second Computer Inquiry,  77 F.C.C.2d 384 (1980),
+aff ’d, Computer & Communications Indus. Ass’n
+v. FCC,  693 F.2d 198 (D.C. Cir. 1982), cert. denied,
+461 U.S. 938 (1983) ..................................................
+44
+United States  v.  American Tel. & Tel. Co.:
+524 F. Supp. 1336 (D.D.C. 1981) ..............................
+7
+552 F. Supp. 131 (D.D.C. 1982), aff ’d sub nom.
+Maryland v. United States, 460 U.S. 1001
+(1983) ..................................................................
+7
+United States  v.  Southwestern Cable Co.,  392 U.S.
+157 (1968) ..............................................................
+20, 34
+Wilson  v.  A.H. Belo Corp.,  87 F.3d 393 (9th Cir.
+1996) .......................................................................
+40
+Statutes and regulations:
+Act of May 31, 1938, 52 Stat. 588, ch. 296 ...................
+20
+Administrative Procedure Act, 551 U.S.C. et seq. .....
+40
+Communications Act of 1934, 47 U.S.C. 151 et seq. .....
+2, 9,
+15, 16, 19, 20, 21
+47 U.S.C. 151 ..........................................................
+20
+47 U.S.C. 152(b) .....................
+32, 33, 34, 35, 36, 37, 38, 39
+47 U.S.C. 153(16) (Supp. II 1996) ............................
+3
+47 U.S.C. 153(27) (Supp. II 1996) ............................
+5
+47 U.S.C. 154(i) .................................................
+9, 20, 24
+47 U.S.C. 160(a) (Supp. II 1996) .........................
+24, 25
+
+
+VII
+Statutes and regulations—Continued:
+Page
+47 U.S.C. 160(d) (Supp. II 1996) ..............................
+25
+47 U.S.C. 201(a) ......................................................
+20
+47 U.S.C. 201(b) .................................................
+passim
+47 U.S.C. 208 ..........................................................
+26
+47 U.S.C. 251 (Supp. II 1996) .............................
+passim
+47 U.S.C. 251 et seq. ................................................
+5
+47 U.S.C. 251(b)(3) (Supp. II 1996) ..............
+11, 12, 18, 26
+47 U.S.C. 251(b)(5) (Supp. II 1996) ........................
+18, 28
+47 U.S.C. 251(c) (Supp. II 1996) ...............
+9, 10, 11, 19, 24
+25, 28, 30, 31
+47 U.S.C. 251(c)(2) (Supp. II 1996) .................
+5, 6, 8, 25,
+27, 28, 29
+47 U.S.C. 251(c)(3) (Supp. II 1996) .......................
+passim
+47 U.S.C. 251(c)(4) (Supp. II 1996) ............
+6, 8, 19, 25, 26,
+27, 28, 46, 47
+47 U.S.C. 251(d)(1) (Supp. II 1996) ......................
+passim
+47 U.S.C. 251(d)(2) (Supp. II 1996) ...................
+21, 22, 23
+47 U.S.C. 251(d)(3) (Supp. II 1996) .......................
+22, 23
+47 U.S.C. 251(f ) (Supp. II 1996) ........................
+12, 19, 26
+47 U.S.C. 251(g) (Supp. II 1996) ..............................
+25
+47 U.S.C. 252 (Supp. II 1996) .............................
+passim
+47 U.S.C. 252(a)(1) (Supp. II 1996) ..........................
+22
+47 U.S.C. 252(c)(1) (Supp. II 1996) ...........
+6, 23, 27, 28, 37
+47 U.S.C. 252(c)(2) (Supp. II 1996) .................
+6, 26, 27, 28
+47 U.S.C. 252(d) (Supp. II 1996) ..........
+6, 26, 27, 28, 30, 31
+47 U.S.C. 252(d)(1) (Supp. II 1996) ..........
+6, 8, 10, 25, 28,
+29, 30
+47 U.S.C. 252(d)(2)(B)(ii) (Supp. II 1996) ................
+12, 22
+47 U.S.C. 252(d)(3) (Supp. II 1996) ......................
+6, 8, 23
+47 U.S.C. 252(e)(4) (Supp. II 1996) ..........................
+7
+47 U.S.C. 252(e)(5) (Supp. II 1996) ..........................
+6
+47 U.S.C. 252(e)(6) (Supp. II 1996) ...............
+7, 30, 40, 41
+47 U.S.C. 252(i) (Supp. II 1996) ........
+11, 17, 18, 22, 48, 49
+47 U.S.C. 253 (Supp. II 1996) .............................
+23, 24
+47 U.S.C. 253(a) (Supp. II 1996) ..............................
+24
+47 U.S.C. 253(d) (Supp. II 1996) ............................
+24, 36
+47 U.S.C. 271 (Supp. II 1996) ...................
+7, 28, 29, 30, 31
+47 U.S.C. 271(a) (Supp. II 1996) ..............................
+7
+47 U.S.C. 271(b)(1) (Supp. II 1996) ..........................
+7
+47 U.S.C. 272(c)(2)(B) (Supp. II 1996) .....................
+8
+
+
+VIII
+Statutes and regulations—Continued:
+Page
+47 U.S.C. 271(c)(2)(B)(i) (Supp. II 1996) .................
+8, 29
+47 U.S.C. 271(c)(2)(B)(ii) (Supp. II 1996) ................
+8, 29
+47 U.S.C. 271(c)(2)(B)(xiv) (Supp. II 1996) .............
+8
+47 U.S.C. 271(d)(2)(A) (Supp. II 1996) ....................
+8, 29
+47 U.S.C. 271(d)(2)(B) (Supp. II 1996) ....................
+29
+47 U.S.C. 271(d)(3) (Supp. II 1996) .........................
+29, 30
+47 U.S.C. 271(d)(3)(C) (Supp. II 1996) ....................
+8
+47 U.S.C. 271(e)(2)(B) (Supp. II 1996) .....................
+26
+47 U.S.C. 272 (Supp. II 1996) ..................................
+8
+47 U.S.C. 272-276 (Supp. II 1996) ............................
+7
+47 U.S.C. 303(r) ...................................................
+9, 19
+47 U.S.C. 609 ..........................................................
+20
+Hobbs Act, 28 U.S.C. 2342(1) .....................................
+40
+Telecommunications Act of 1996, Pub. L. No. 104-104,
+110 Stat. 56 ..........................................................
+passim
+§ 1(b), 110 Stat. 55 ...............................................
+19
+Tit. VI, § 601(a)(1), 110 Stat. 143 .........................
+7
+47 C.F.R. (1995):
+51.315(b) (Rule 315(b)) ..............
+11, 21, 42, 44, 45, 47, 48
+51.809 ......................................................................
+11
+Miscellaneous:
+Jim Chen, TELRIC In Turmoil, Telecomunications
+In Transition, 33 Wake Forest L. Rev. 51 (1998) .....
+19,
+25, 41
+141 Cong. Rec. S8212 (daily ed. June 13, 1995) ..........
+24
+FCC, Telecommunications Industry Revenue  
+(Common Carrier Bureau Nov. 1997) .....................
+4, 41
+S. Conf. Rep. No. 230, 104th Cong., 2d Sess. (1996) ....
+33-34
+S. Rep. No. 23, 104th Cong., 1st Sess. (1995) ..............
+49
+The Random House Dictionary of the English Lan-
+guage (2d ed. 1987) ..................................................
+44
+Webster’s Ninth New Collegiate Dictionary (1986) .....
+45
+
+
+(1)
+In the Supreme Court of the United States
+OCTOBER TERM, 1997
+___________
+No.  97-831
+FEDERAL COMMUNICATIONS COMMISSION AND
+THE UNITED STATES OF AMERICA, PETITIONERS
+v.
+IOWA UTILITIES BOARD, ET AL.
+___________
+FEDERAL COMMUNICATIONS COMMISSION AND
+THE UNITED STATES OF AMERICA, PETITIONERS
+v.
+PEOPLE OF THE STATE OF CALIFORNIA, ET AL.
+___________
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE EIGHTH CIRCUIT
+___________
+OPENING BRIEF FOR THE
+FEDERAL PETITIONERS
+___________
+OPINIONS BELOW
+The principal opinion of the court of appeals in Iowa
+Utilities Board v. FCC (Pet. App. 1a-67a)1 is reported at
+120 F.3d 753.  The court’s order on rehearing (Pet. App.
+69a-72a) was incorporated into the published opinion re-
+ported at 120 F.3d 753.  The opinion of the court of appeals
+in People of the State of California v. FCC (Pet. App. 73a-
+91a) is reported at 124 F.3d 934.  A writ of mandamus and
+accompanying opinion (J.A. 284-301), issued by the court of
+appeals on January 22, 1998, are reported at 135 F.3d 535.
+                                                
+1 “Pet. App.” refers to the appendix to the petition for a writ of 
+certiorari in AT&T Corp. v. Iowa Utilities Board, cert. granted, No.
+97-826 (Jan. 26, 1998), which has been consolidated with this case.
+
+
+2
+The First Report and Order of the Federal Communica-
+tions Commission (FCC) is reported at 11 FCC Rcd.
+15,499, and the Second Report and Order of the FCC is re-
+ported at 11 FCC Rcd. 19,392.
+JURISDICTION
+The judgment of the court of appeals in Iowa Utilities
+Board was entered on July 18, 1997.  A subsequent order in
+that case, granting rehearing in part and denying rehear-
+ing in part, was issued on October 14, 1997.  The judgment
+in People of the State of California was entered on August
+22, 1997.  Petitions for certiorari in Nos. 97-826, 97-829, 97-
+830, and 97-831 were filed, respectively, on November 17,
+November 17, November 18, and November 19, 1997.  Cross-
+petitions for certiorari in Nos. 97-1075, 97-1087, 97-1099,
+and 97-1141 were filed, respectively, on December 24, 1997,
+December 30, 1997, January 5, 1998, and January 8, 1998.
+All eight petitions were granted on January 26, 1998 (118
+S. Ct. 879).  The jurisdiction of this Court rests on 28
+U.S.C. 1254(1).
+STATUTORY PROVISIONS INVOLVED
+Relevant portions of the Communications Act of 1934, as
+amended by the Telecommunications Act of 1996, appear at
+Pet. App. 93a-130a and in the appendix to this brief.  In
+referring to the provisions of the 1996 Act, we have cited
+the 1996 Supplement to the United States Code.
+STATEMENT
+In the Telecommunications Act of 1996 (the 1996 Act),
+Pub. L. No. 104-104, 110 Stat. 56, Congress directed the
+Federal Communications Commission (FCC) to complete,
+within six months of the Act’s passage, “all actions neces-
+sary to establish regulations to implement” the Act’s new
+“interconnection” provision—Section 251—which opens
+local telephone markets to competition.  47 U.S.C.
+251(d)(1).  This case involves challenges to the Commis-
+
+
+3
+sion’s implementation of that statutory directive.  See In
+re Implementation of the Local Competition Provisions
+in the Telecommunications Act of 1996, 11 FCC Rcd.
+15,499 (1996) (First Report and Order) (excerpts printed at
+Pet. App. 131a-337a, J.A. 13-200); In re Implementation of
+the Local Competition Provisions in the Telecommunica-
+tions Act of 1996, 11 FCC Rcd. 19,392 (1996) (Second Re-
+port and Order) (excerpts printed at Pet. App. 338a-353a,
+J.A. 201-223).
+1. Since the breakup of the Bell System in 1984, two
+sets of carriers have provided most telephone service in
+the United States: local exchange carriers (LECs), includ-
+ing the Bell Companies and GTE, and long-distance (or
+“interexchange”) carriers, including AT&T, MCI, and
+others. In virtually all areas, local exchange service is
+controlled by a single incumbent LEC.  That LEC owns,
+among other network elements, almost all of the “loops”
+(the wires or buried cables connecting telephones to
+switches) in its service area, along with the switches
+themselves and the transport “trunks” that connect the
+switches.  That “local exchange network” plays an indis-
+pensable role in the provision of all telephone service,
+whether local or long-distance.
+A long-distance call begins in one local exchange and
+ends in another.  To place such “interexchange” calls,
+long-distance carriers must rely on the same facilities
+that LECs use to provide service within local calling are-
+as.  Thus, a long-distance call from Washington to Atlanta
+is transported from the caller’s telephone through Bell
+Atlantic’s local network to a point of interconnection with
+a long-distance carrier (say, MCI); MCI then transports
+the call along its interexchange network to Atlanta, where
+BellSouth completes the call through its network to the
+appropriate destination.  In originating or completing an
+interexchange call, a LEC provides “exchange access” (47
+U.S.C. 153(16)) to the interexchange carrier. Inter-
+
+
+4
+exchange carriers pay LECs billions of dollars each year
+in interstate “access charges.”  See Access Charge
+Reform, 11 FCC Rcd. 21,354, 21,371 (1996).
+2.
+The 1984 breakup of the Bell System spurred the
+growth of competition in the long-distance market, and av-
+erage retail long-distance prices have dropped more than
+70% since then.  See AT&T Reclassification, 11 FCC Rcd.
+3271, 3308-3312 (1995).  But the incumbent LECs have re-
+tained virtually total monopoly control of local telephone
+markets: even today, the incumbents receive approxi-
+mately 98% of the $100 billion in annual revenues gener-
+ated by the provision of exchange access and local ex-
+change services.  FCC, Telecommunications Indus.
+Revenue Tab. 2 (Common Carrier Bur. Nov. 1997).  End-
+ing the incumbents’ monopoly control of local markets is a
+principal goal of the Telecommunications Act of 1996.
+a.
+The barriers to entry into local telephone markets
+are different from, and vastly more formidable than, the
+barriers to entry into the long-distance market.  It has
+been economically practicable for some long-distance car-
+riers to build their own interexchange infrastructures—
+e.g., to lay cable or build microwave networks connecting
+local calling areas to one another—so long as they can
+rely (albeit at a cost) on the LECs on either end of an in-
+terexchange call to route the call through various
+switches and local loops from the calling party to the call’s
+destination.  But to duplicate a LEC’s local network—to
+create a new network of switches and a complete new in-
+frastructure of loops connecting every house and business
+in a calling area to those switches and thus to one an-
+other—would be economically impracticable even for the
+largest prospective competitor, at least with current tech-
+nology.  Moreover, without rights of access to the existing
+network, a potential competitor could not gradually enter
+the market through partial duplication of local telephone
+facilities:  An upstart carrier would win few customers if
+
+
+5
+its customers could call only one another and not
+customers on the incumbent LEC’s separate (and com-
+pleted) network. 
+For many years, telephone regulators assumed “that
+service could be provided at the lowest cost to the maxi-
+mum number of consumers through a regulated monopoly
+network.”  Pet. App. 131a.  Until recently, therefore,
+“[s]tate and federal regulators devoted their efforts  *  *  *
+to regulating the prices and practices of these monopolies
+and protecting them against competitive entry.”  Ibid.  By
+1996, however, Congress had concluded that a revolution-
+ary change in regulatory objectives was necessary to
+serve the public interest.  It therefore designed the local
+competition provisions of the 1996 Act, 47 U.S.C. 251, et
+seq., to end the dominance of regulated monopolies in local
+telephone markets and to open those markets to full com-
+petition.
+Congress recognized that no prospective entrant could
+hope to compete with the incumbent LECs in providing
+consumers with telephone exchange service and exchange
+access by replicating the existing local network infra-
+structure.  The 1996 Act therefore entitles potential com-
+petitors to enter local telephone markets by using the in-
+cumbent monopolists’ own networks in three distinct but
+complementary ways.  See 47 U.S.C. 251(c)(2)-(4).  First,
+Section 251(c)(2) requires incumbent LECs to “intercon-
+nect” their networks with those of other carriers, and to
+do so at “just, reasonable, and nondiscriminatory” rates
+and terms.  Second, Section 251(c)(3) entitles new entrants
+to gain access to elements of an incumbent LEC’s network
+“on an unbundled basis”: i.e., to lease individual network
+elements (e.g., loops, switching capability, etc.) at separate
+prices.  See also 47 U.S.C. 153(29) (defining “network
+element”).  That provision permits new entrants, some of
+which may also construct network elements of their own,
+to lease from incumbents whatever combinations of ele-
+
+
+6
+ments they need (and not elements they do not need) to
+provide telecommunications services to their customers.
+Section 251(c)(3) further directs incumbent LECs to make
+unbundled elements available on “rates, terms, and con-
+ditions that are just, reasonable, and nondiscriminatory.”
+Finally, Section 251(c)(4) gives potential competitors a
+right to buy an incumbent LEC’s retail services “at
+wholesale rates” and then to resell them to end users.
+A separate provision, 47 U.S.C. 252, sets forth the pro-
+cedures that individual entrants and incumbent LECs
+must follow when implementing the requirements of Sec-
+tion 251.  Section 252 provides for a period of negotiation
+between incumbents and new entrants, followed by expedi-
+tious arbitration by state public utility commissions of
+any unresolved issues.2  Section 252(c)(1) requires state
+arbitrators to conform their disposition of “any open is-
+sues” in such agreements to federal standards: to “the re-
+quirements of section 251, including the regulations pre-
+scribed by the Commission pursuant to section 251.”  Sec-
+tion 252(c)(2) further instructs state arbitrators to resolve
+open rate issues consistently with Section 252(d), which
+provides that, in addition to the requirements of Section
+251, rates for interconnection under Section 251(c)(2) and
+unbundled elements under Section 251(c)(3) must be “based
+on  *  *  *  cost (determined without reference to a rate-of-
+return or other rate-based proceeding)” and “may include
+a reasonable profit.” 47 U.S.C. 252(d)(1). Section 252(d)(3)
+provides that the “wholesale rates” charged to resellers
+under Section 251(c)(4) must be based on retail rates, ex-
+cluding the portion of those rates attributable to “costs
+that will be avoided.”  All agreements approved or arbi-
+trated by state commissions are subject to review in fed-
+eral district court—and not in any state court—to deter-
+                                                
+2 Congress directed the FCC to resolve such disputes whenever a
+state commission opts out of its statutory role.  See 47 U.S.C. 252(e)(5).
+
+
+7
+mine whether they “meet[ ] the requirements” of Sections
+251 and 252.  See 47 U.S.C. 252(e)(4) and (6).
+b.
+As part of a comprehensive legislative package that
+breaks down barriers to competition in all telecommunica-
+tions markets, the 1996 Act also sets forth a procedure,
+codified in 47 U.S.C. 271, under which the Bell Companies
+may seek authorization from the FCC to provide, for the
+first time, the long-distance services that a 1982 consent
+decree had previously barred them from offering.  See Pub.
+L. No. 104-104, Tit. VI, § 601(a)(1), 110 Stat. 143 (supersed-
+ing decree); see also 47 U.S.C. 272-276.3
+Section 271 generally bars a Bell Company from provid-
+ing long-distance services originating in its “in-region”
+States—i.e., the States in which it has traditionally exer-
+cised monopoly power over local service—unless it first
+applies for, and receives, authorization from the FCC to do
+so.  See 47 U.S.C. 271(a) and (b)(1).  The FCC may grant
+such 
+authorization 
+only if “it finds,” after 
+giving
+“substantial weight” to the Justice Department’s evalua-
+                                                
+3 In the 1970s, the United States sued AT&T (which at that time
+owned the Bell Companies) under the Sherman Act, alleging, among
+other things, that the Bell System had improperly used its monopoly
+power in local markets to impede competition in the long-distance
+market.  See United States v. American Tel. & Tel. Co., 524 F. Supp.
+1336 (D.D.C. 1981).  In 1982, to settle that lawsuit, AT&T entered              
+into a consent decree that required it to divest its local operations.  The
+decree prohibited the newly independent Bell Companies from provid-
+ing long-distance service.  In approving that restriction, the district
+court overseeing the decree explained that a Bell Company, if permit-
+ted to enter the long-distance market, could use its monopoly control
+over local bottleneck facilities to impede long-distance competition in
+two principal ways:  it could subject competitors to discriminatory
+terms of access to the local network, and it could cross-subsidize its              
+own long-distance operations with its monopoly local revenues.  See
+United States v. American Tel. & Tel. Co., 552 F. Supp. 131, 186-188,
+223 (D.D.C. 1982), aff ’d sub nom. Maryland v. United States, 460 U.S.
+1001 (1983).
+
+
+8
+tion, 47 U.S.C. 271(d)(2)(A), that the Bell Company has sat-
+isfied the requirements of a “competitive checklist” de-
+signed to open the Bell’s own local exchange markets to
+fair competition (see 47 U.S.C. 271(c)(2)(B)); that the Bell
+Company will conduct its long-distance operations in ac-
+cordance with certain structural separation requirements
+set forth in 47 U.S.C. 272; and that granting the applica-
+tion would serve “the public interest, convenience, and ne-
+cessity,” 47 U.S.C. 271(d)(3)(C).  Before determining that a
+Bell Company has met the checklist requirements, the
+Commission must specifically find, among other things,
+that the Bell Company has provided “[i]nterconnection in
+accordance with the requirements of sections 251(c)(2) and
+252(d)(1)”; “[n]ondiscriminatory access to network ele-
+ments in accordance with the requirements of sections
+251(c)(3) and 252(d)(1)”; and telecommunications services
+“for resale in accordance with the requirements of sec-
+tions 251(c)(4) and 252(d)(3).”  47 U.S.C. 271(c)(2)(B)(i), (ii),
+and (xiv).4
+3.
+Section 251(d)(1) directs the Commission, within six
+months of the Act’s passage, to complete “all actions nec-
+essary to establish regulations to implement the require-
+ments” of Section 251.  The Commission fulfilled that obli-
+gation on August 8, 1996, after a massive rulemaking pro-
+ceeding in which interested parties filed approximately
+17,000 pages of comments.
+The Commission first determined that Congress had
+authorized it to adopt general rules implementing the local
+competition provisions, including the provisions governing
+                                                
+4 On December 31, 1997, a federal district court held that Section
+271 and related provisions are unconstitutional “bills of attainder,” rea-
+soning that they improperly “punish” the Bell Companies by subjecting
+them to more regulation than other LECs.  See SBC Communications,
+Inc. v. FCC, 981 F. Supp. 996 (N.D. Tex. 1997).  We and others have
+appealed that ruling, and, on February 11, 1998, the district court
+stayed its decision pending appeal.
+
+
+9
+the prices that incumbent LECs may charge new entrants
+for interconnection, unbundled elements, and services for
+resale.  Under the “dual” regulatory regime of the origi-
+nal Communications Act of 1934, “interstate” telecommu-
+nications had generally been subject to regulation under
+federal law, and exclusively “intrastate” telecommunica-
+tions had generally been subject to regulation under state
+law.  See generally pp. 32-39, infra.  As the Commission
+observed, however, the 1996 Act creates, for the first time,
+comprehensive federal standards governing a new en-
+trant’s use of an incumbent’s existing local network to
+provide both intrastate and interstate telephone service.
+See Pet. App. 191a-195a.  The Commission determined that
+here, as elsewhere, Congress had given it plenary rule-
+making authority to implement the Communications Act
+of 1934, 47 U.S.C. 151 et seq. (Communications Act), into
+which all relevant portions of the 1996 Act were incorpo-
+rated.  See Pet. App. 198a (citing 47 U.S.C. 154(i), 201(b),
+and 303(r)).  The Commission also explained that Section
+251(d)(1) explicitly requires it to “implement the require-
+ments” of Section 251, such as the rate requirements of
+Section 251(c).  Ibid.  For those reasons, the Commission
+determined that Congress had directed it to create a na-
+tional framework for the state commissions to apply in ar-
+bitrating carrier-to-carrier disputes.
+Indeed, the Commission found, such a framework is
+needed to reduce anticompetitive uncertainties and to en-
+sure effective implementation of the 1996 Act.  See Pet.
+App. 165a-173a.  Because existing telephone networks em-
+body significant economies of scale, the Commission
+sought to ensure that those economies would “be shared in
+a way that permits the incumbent LECs to maintain oper-
+ating efficiency to further fair competition, and to enable
+the entrants to share the economic benefits of that effi-
+ciency in the form of cost-based prices.”  Pet. App. 137a.
+The Commission knew, however, that incumbent LECs
+
+
+10
+have little incentive to open their networks to new en-
+trants that seek to compete for the incumbents’ custom-
+ers.  Id. at 136a-137a, 139a, 167a-168a.  The Commission
+concluded that the disparity in bargaining power and
+incentives between incumbents and new entrants is best
+addressed by defining the requirements of the new Act in
+enough detail to advise parties of their minimum rights
+and obligations, and by establishing a national regulatory
+baseline to reduce transaction costs.  Id. at 167a-173a. 
+In particular, the Commission deemed it “critical  *  *  *
+to establish among the states a common, pro-competition
+understanding of the pricing standards” for interconnec-
+tion, unbundled elements, and resale.  J.A. 131-132 (¶ 618).
+Section 251(c) provides that rates for interconnection and
+unbundled elements must be “just, reasonable, and nondis-
+criminatory,” and Section 252(d)(1) adds that a “just and
+reasonable rate  *  *  *  for purposes of ” Section 251(c) is
+“ based on  *  *  *  cost (determined without reference to a
+rate-of-return or other rate-based proceeding).”  The
+Commission determined that, to be consistent with the
+Act and to ensure meaningful competition, the rates for
+interconnection and access to unbundled network ele-
+ments should be based on economic (i.e., forward-looking)
+costs rather than on the embedded costs reflected on the
+ratemaking accounting books.  J.A. 132-133 (¶ 620).  In
+brief, the forward-looking cost methodology adopted by the
+Commission asks what it would cost to construct and op-
+erate an efficient telephone network today, and it creates a
+framework for setting prices for network elements on that
+basis.  See  ibid. The Commission preserved for the state
+commissions the critical task of applying that methodol-
+ogy to establish actual carrier-to-carrier rates in light of
+carrier- and region-specific variables.
+ The Commission then turned to a variety of non-pricing
+issues arising under the local competition provisions.  In
+implementing the requirement that incumbent LECs give
+
+
+11
+new entrants “nondiscriminatory access to network ele-
+ments,” 47 U.S.C. 251(c)(3), the Commission provided that,
+“[e]xcept upon request, an incumbent LEC shall not sepa-
+rate requested network elements that the incumbent LEC
+currently combines.”  47 C.F.R. 51.315(b) (Rule 315(b)); see
+also Pet. App. 230a-233a.  The Commission also construed
+the nondiscrimination mandate of Section 251(c) to require
+incumbent LECs to “permit third parties to obtain access
+*  *  *  to any individual interconnection, service, or net-
+work element arrangement on the same terms and condi-
+tions as those contained in any agreement approved under
+section 252” without having to accept the entire agree-
+ment.  Id. at 263a.  The FCC found that interpretation con-
+sistent with, and effectively compelled by, the language of
+47 U.S.C. 252(i).  See Pet. App. 261a-264a; 47 C.F.R. 51.809.
+The court of appeals referred to the Commission’s regula-
+tion on that issue as “the pick and choose rule.”
+In its Second Report and Order, also issued on August 8,
+1996, the Commission adopted rules generally implement-
+ing the 1996 Act’s requirement that LECs “provide dialing
+parity to competing providers of telephone exchange serv-
+ice and telephone toll service.”  47 U.S.C. 251(b)(3); see
+Pet. App. 338a-353a.  Dialing parity permits a new en-
+trant’s subscribers to make calls without having to dial an
+access code of extra digits.
+4.  a. Respondents filed petitions for judicial review of
+the First Report and Order in a number of federal circuits.
+Those petitions were consolidated and assigned by lottery
+to the Eighth Circuit.  See 28 U.S.C. 2112(a)(3).  A chal-
+lenge to the Commission’s dialing parity rules, originally
+filed in the D.C. Circuit, was subsequently transferred to
+the Eighth Circuit.  On October 15, 1996, the court of ap-
+peals granted motions to stay the Commission’s pricing
+and “pick and choose” rules.  109 F.3d 418.  Without opin-
+ion, this Court denied applications filed by the Commission
+and several other parties to lift the stay.  See 117 S. Ct.
+
+
+12
+378, 379 (1996) (Thomas, J., in chambers); 117 S. Ct. 429
+(1996).
+On July 18, 1997, the Eighth Circuit issued its principal
+decision on the merits.  The court first held that Sections
+252(c)(2) and (d) give state commissions exclusive author-
+ity to interpret the pricing terms of Sections 251 and 252
+and that they implicitly deny the Commission any rule-
+making role in that area.  Pet. App. 10a-14a; see also id. at
+27a-30a, 34a-36a (holding that Commission lacks jurisdic-
+tion to implement 47 U.S.C. 251(f) and 252(a)(1)).  More-
+over, the court held (id. at 15a), “[a]ny ambiguity” regard-
+ing the Commission’s jurisdiction over pricing and other
+issues arising under Section 251 “is resolved by the opera-
+tion of section 2(b)” of the Communications Act, which
+provides that “nothing in this Act shall be construed to
+apply or to give the Commission jurisdiction with respect
+to  *  *  *  intrastate communication service.” 47 U.S.C.
+152(b).  The court posited that the matters governed by
+Sections 251 and 252 “are fundamentally intrastate in
+character” because—even though the local exchange
+network is indispensable to the origination and completion
+of any call, whether intrastate or interstate—that puta-
+tively “tangential impact on interstate services is not
+sufficient to overcome the operation of section 2(b).”  Pet.
+App. 22a, 23a.
+In its subsequent decision invalidating the Commis-
+sion’s dialing parity rules (Pet. App. 73a-91a), the court of
+appeals reemphasized its view that Section 2(b) divests the
+FCC of jurisdiction to implement any provision of Sec-
+tions 251 and 252 that does not itself specifically
+“mention” (id. at 85a) the Commission.  The court barred
+the Commission from addressing dialing parity as to some
+categories (but not all categories, see Pet. App. 87a n.5, 89a
+n.6; 47 U.S.C. 251(g)) of intrastate calls because the par-
+ticular substantive terms of the dialing parity provision,
+47 U.S.C. 251(b)(3), “make[ ] no reference whatsoever to
+
+
+13
+the FCC.”  Pet. App. 85a.  In the absence of such a
+“reference,” the court held, the FCC may play no role in
+implementing 
+the 
+terms 
+of 
+the 
+local 
+competition
+provisions, despite Congress’s plenary grant of rulemak-
+ing authority to the Commission to implement the sub-
+stantive terms of the Communications Act, e.g., 47 U.S.C.
+201(b), and despite the 1996 Act’s highly specific grant of
+rulemaking authority to “complete all actions necessary
+to establish regulations to implement the requirements”
+(47 U.S.C. 251(d)(1)) of Section 251.  See Pet. App. 85a; ac-
+cord id. at 12a n.10, 29a n.23, 37a.
+Apart from those “jurisdictional” holdings, the court of
+appeals also invalidated, on their merits, two central regu-
+lations on subjects that it acknowledged the FCC has
+statutory authority to address.  First, although the court
+upheld several of the Commission’s unbundling rules, it
+invalidated Rule 315(b).  The court reasoned that Section
+251(c)(3), which compels incumbent LECs to give new en-
+trants “nondiscriminatory access to network elements on
+an unbundled basis,” entitles incumbent LECs to discon-
+nect previously combined elements—even if the new en-
+trant seeks to use them in the same combination—solely
+to impose costs on the new entrant.  Pet. App. 70a-71a.
+Second, the court vacated the “pick and choose rule.”  It
+acknowledged that the text of Section 252(i) “could indi-
+cate that the FCC’s approach was intended by Congress.”
+Pet. App. 25a n.22.  Nonetheless, the court concluded that,
+by allowing entrants to select the favorable portions of a
+prior agreement “without being bound by the correspond-
+ing tradeoffs that were made in exchange for the favorable
+provisions,” the Commission’s plain-language approach
+would frustrate a perceived congressional preference for
+“voluntary” agreements.  Id. at 25a.
+b.
+In August 1997, the Commission denied the applica-
+tion of Ameritech Corporation, a Bell Company, to provide
+in-region long-distance service in Michigan under Section
+
+
+14
+271.  In re Application of Ameritech Michigan Pursuant
+to Section 271 of the Communications Act of 1934, FCC
+No. 97-298 (relevant excerpts printed at 97-1519 Pet. App.
+21a-34a).  Although the Commission ultimately denied that
+application on non-pricing grounds, it responded to indus-
+try requests for guidance by affirming that it would apply
+national standards, and in part icular a forward-looking
+cost methodology, for the specific purpose of adjudicating
+Section 271 applications.  The Commission explained (id.
+at 24a-28a) that—whether or not it has jurisdiction to
+adopt generally applicable rules implementing the pricing
+provisions of Sections 251(c) and 252(d) for purposes of any
+interconnection agreement between any incumbent LEC
+and any new entrant—no reasonable understanding of the
+statutory scheme could relieve the Commission of its inde-
+pendent responsibility to grant a Bell Company’s Section
+271 application only if “it finds,” among other things, that
+the Bell Company has in fact met “the requirements” of
+Sections 251(c) and 252(d).  See pp. 7-8, supra (quoting
+Section 271).
+ Although the D.C. Circuit has exclusive jurisdiction to
+review “any order of the Commission granting or denying
+any application” under Section 271 (47 U.S.C. 402(b)(6) and
+(9)), Ameritech did not appeal the Commission’s order to
+that court.  Instead, it and several other parties returned
+to the Eighth Circuit.  On January 22, 1998, the Eighth
+Circuit, ostensibly to “enforce the mandate” of the deci-
+sion below, issued a writ of mandamus ordering the Com-
+mission “to confine its pricing role under section
+271(d)(3)(A) to determining whether applicant [Bell Com-
+panies] have complied with the pricing methodology and
+rules adopted by the state commissions and in effect in the
+respective states in which such [Bell Companies] seek to
+provide in-region, [long-distance] services.”  J.A. 298; see
+
+
+15
+also J.A. 294 (foreclosing any Commission “attempt to
+utilize section 271(d)(3)(C)” to resolve pricing issues). 
+5.
+In November 1997, we and potential new entrants
+filed four separate petitions for certiorari challenging the
+court of appeals’ underlying judgments in this case.  See
+also note 11, infra (discussing petitions challenging man-
+damus order).  Subsequently, various incumbent LECs
+filed four separate cross-petitions challenging certain
+FCC “unbundling” rules that the court of appeals had up-
+held on the merits.  See p. 47, infra.  On January 26, 1998,
+this Court granted all eight petitions and cross-petitions
+for certiorari, and consolidated the cases for review.  118
+S. Ct. 879.
+SUMMARY OF ARGUMENT
+I.
+The local competition provisions of the 1996 Act pre-
+scribe new federal standards to govern the development of
+competitive local telephone markets.  To ensure nationally
+consistent interpretation of those standards sooner rather
+than later, Congress directed the FCC to create a national
+framework for individual state commissions to apply when
+arbitrating specific disputes about the new federal re-
+quirements.  The Commission’s authority to create that
+framework is evident both from the face of the 1996 Act it-
+self and from the Commission’s general statutory author-
+ity to issue rules implementing federal telecommunica-
+tions law.
+The Eighth Circuit’s contrary view, which would deny
+the Commission authority to implement any provision that
+does not in some respect “mention” the Commission by
+name, is illogical.  There is no coherent textual basis for
+attributing to the Commission jurisdiction to implement
+some, but not all, of the core federal standards of the local
+competition provisions.  The Eighth Circuit was also mis-
+taken in relying on Section 2(b) of the Communications
+Act of 1934 to override the Commission’s authority to im-
+
+
+16
+plement the 1996 Act.  The 1996 Act itself pervasively
+addresses competition in local markets, despite Section
+2(b)’s provision against “constru[ing]” federal law “to
+apply” to intrastate matters, and Section 2(b) does not
+detach the Commission’s regulatory authority from the
+scope of federal telecommunications law.  In any event, the
+core regulatory subjects of the 1996 Act are inextricably
+both interstate and intrastate in nature, and the tradi-
+tional principles reflected in Section 2(b) thus support the
+Commission’s authority to address those subjects by rule.
+The court of appeals’ mistaken concern about federal
+“intru[sion] on the states’ intrastate turf ” (Pet. App. 23a)
+serves not to protect that “turf ” from the application of
+federal standards, but only to impede the competition that
+Congress sought to bring to local markets.  Congress di-
+rected the federal district courts to ensure that state arbi-
+tration decisions comport with federal law.  Because Con-
+gress did not leave room for each of 50 state commissions
+to disagree about the basic federal issues that arise under
+the 1996 Act, the federal courts must ultimately supply
+nationally consistent interpretations of the Act’s key pro-
+visions.  Under the decision below, fundamental disputes
+about the core provisions of the 1996 Act would proliferate
+throughout the federal judiciary until, many years from
+now, the courts of appeals and ultimately this Court ad-
+dress those provisions one by one and determine—without
+comprehensive regulatory direction from the Commis-
+sion—what they mean.  Congress did not intend to subject
+potential competitors (and the federal courts) to such pro-
+tracted and piecemeal litigation.  Instead, it directed the
+Commission, on an expedited timetable, to issue rules
+comprehensively addressing the most fundamental contro-
+versies arising under the Act so that, in one consolidated
+review proceeding, a single court of appeals (subject to re-
+view by this Court) could resolve those controversies on
+the merits soon after the Act’s passage.
+
+
+17
+Finally, if there were any ambiguity in the statutory
+language directing the Commission to create a national
+framework for implementation of the local competition
+provisions, “it is settled law that the rule of deference ap-
+plies even to an agency’s interpretation of its own statu-
+tory authority or jurisdiction.”  Mississippi Power &
+Light Co. v. Mississippi ex rel. Moore, 487 U.S. 354, 381
+(1988) (Scalia, J., concurring in the judgment).  The Com-
+mission’s interpretation of the provisions defining its
+authority, as well as its expert determination that the ab-
+sence of a national framework would impair effective im-
+plementation of the 1996 Act, are entitled to substantial
+deference.
+II. In invalidating Rule 315(b), the Eighth Circuit mis-
+construed an incumbent LEC’s duty under Section
+251(c)(3) to provide access to network elements “on an un-
+bundled basis” as a right to disconnect previously com-
+bined elements in order to impose gratuitous reassembly
+costs on new entrants.  That construction is unsound in
+several respects.  It rests on the flawed premise that
+“unbundled” means “disconnected,” rather than “offered at
+separate prices”; it makes little sense either as a technical
+or as a grammatical matter; and, most important, it per-
+mits 
+anticompetitive 
+conduct that 
+violates 
+Section
+251(c)(3)’s nondiscrimination requirement. In any event,
+the Commission’s resolution of any ambiguity in the
+meaning of Section 251(c)(3), and its understanding of the
+economic and technical considerations underlying that
+provision, are entitled to particular deference.
+III. The Commission interpreted Section 252(i) to mean
+exactly what it says:  that a new entrant is entitled, on
+“the same terms and conditions” as any other new entrant,
+to “any interconnection, service, or network element pro-
+vided under an [existing] agreement” without also having
+to accept all other terms of that agreement. 47 U.S.C.
+252(i) (emphasis added).  Although the Eighth Circuit con-
+
+
+18
+ceded that the text of Section 252(i) “could indicate that
+the FCC’s approach was intended by Congress,” Pet. App.
+25a n.22, it nonetheless rejected that approach on policy
+grounds.  Those policy grounds lack merit, and the Com-
+mission’s plain-language approach is correct.
+ARGUMENT
+I. THE COMMISSION HAS STATUTORY AUTHOR-
+ITY TO ISSUE RULES IMPLEMENTING THE
+FEDERAL STANDARDS OF THE LOCAL COM-
+PETITION PROVISIONS
+A. Both The 1996 Act And The Commission’s General
+Rulemaking Powers Authorize The Commission To
+Implement The Local Competition Provisions
+1.
+The 1996 Act prescribes a set of new federal stan-
+dards to govern the development of competitive local tele-
+phone markets.  The court of appeals wrongly held that the
+Commission lacks statutory authority to implement those
+federal standards, except in the very limited circum-
+stances in which the substantive provision at issue itself
+happens to “mention” the Commission by name.  Pet. App.
+85a; see also id. at 12a n.10, 29a n.23, 37a, 85a.
+a.
+Congress 
+explicitly 
+directed 
+the 
+Commission,
+“[w]ithin 6 months after the date of enactment of [the 1996
+Act],” to “complete all actions necessary to establish regu-
+lations to implement the requirements” of Section 251. 47
+U.S.C. 251(d)(1) (emphasis added).  “[T]he requirements”
+of Section 251, which the Commission must “implement”
+by rule, include the core federal standards of the local
+competition provisions.  They include, for example, the re-
+quirement that the “rates” (as well as the other “terms”
+and “conditions”) of interconnection and unbundled ele-
+ments be “just, reasonable, and nondiscriminatory.” See
+also 47 U.S.C. 251(b)(3) (dialing parity obligation), 251(b)(5)
+(duty “to establish reciprocal compensation arrangements
+for the transport and termination of telecommunica-
+
+
+19
+tions”), 251(c)(4) (duty to offer services “for resale at
+wholesale rates”); 251(f) (establishing criteria by which
+rural carriers may claim exemption from requirements of
+Section 251(c)).
+The Eighth Circuit, however, held that Section 251(d)(1)
+“operates primarily”—the court meant only—“as a time
+constraint,” rather than as a source of authority to im-
+plement the requirements of Section 251.  Pet. App. 12a.
+That is incorrect.  By its terms, Section 251(d)(1) is
+plainly both a six-month deadline and a declaration of the
+Commission’s obligation to “establish regulations to im-
+plement the requirements of this section.”  Properly con-
+strued, Section 251(d)(1) “gives the FCC precisely what
+the agency unsuccessfully claimed [before the Eighth Cir-
+cuit]: an overarching, plenary grant of authority to issue
+rules relating to any aspects of § 251.”  Jim Chen, TELRIC
+In Turmoil, Telecommunications In Transition, 33 Wake
+Forest L. Rev. 51, 73 (1998); see also ibid. (criticizing
+Eighth Circuit’s construction of Section 251(d)(1) as
+“implausible”).
+Moreover, the Commission’s authority to implement the
+local competition provisions independently rests on the
+general rulemaking powers that Congress has conferred
+upon it.  Congress incorporated all relevant portions of the
+1996 Act into the principal body of federal telecommunica-
+tions law: the Communications Act of 1934, 47 U.S.C. 151
+et seq. (Communications Act).  See 1996 Act § 1(b), 110
+Stat. 56.  Section 201(b) of the Communications Act
+authorizes the Commission to “prescribe such rules and
+regulations as may be necessary in the public interest to
+carry out the provisions of this Act.”  47 U.S.C. 201(b)
+(emphasis added).5  Congress gave the Commission
+                                                
+5 Independently conferring the same authority is 47 U.S.C. 303(r),
+which authorizes the Commission to “[m]ake such rules and regula-  
+tions and prescribe such restrictions and conditions, not inconsistent
+
+
+20
+“expansive” general rulemaking powers to avoid the need
+for “an itemized catalogue of the specific manifestations of
+the general problems” in “regulating a field of enterprise
+the dominant characteristic of which was the rapid pace of
+its unfolding.”  National Broadcasting Co. v. United
+States, 319 U.S. 190, 219 (1943) (discussing Section 303(r));
+see also United States v. Southwestern Cable Co., 392
+U.S. 157 (1968).  By its terms, Section 201(b) makes that
+authority coextensive with the substantive reach of the
+Communications Act, which now includes the local com-
+petition provisions of the 1996 Act and, in particular, both
+Sections 251 and 252.
+The Eighth Circuit was thus mistaken in holding that
+the scope of the Commission’s authority under Section
+201(b) is “expressly limited to interstate or foreign com-
+munications services by subsection 201(a).”  Pet. App. 12a.
+To begin with, the court’s reasoning rests on the unsound
+premise—which we address in Point I(B) below—that the
+regulatory subjects of the local competition provisions are
+“fundamentally intrastate in character” (id. at 22a).  And,
+in any event, nothing in Section 201(a) limits the Commis-
+sion’s unqualified textual authority under Section 201(b)
+to implement “the provisions of this Act.”  The 1996 leg-
+islation enlarges the range of “the provisions of this Act”
+by creating comprehensive rights of access to local net-
+works, but it does not detach the scope of the Com-
+                                                
+with law, as may be necessary to carry out the provisions of this Act.”
+See also 47 U.S.C. 151 (establishing FCC to “execute and enforce the
+provisions of this Act”); 47 U.S.C. 154(i) (authorizing FCC to “perform
+any and all acts, make such rules and regulations, and issue such
+orders,  not inconsistent with this Act, as may be necessary in the
+execution of its functions”).  As codified, references to “this Act,” e.g.,           
+52 Stat. 588 (1938), appear as references to “this chapter” (Chapter 5 of
+Title 47), which essentially encompasses the Communications Act, see
+47 U.S.C. 609, and now contains all relevant portions of the 1996 Act,
+see 110 Stat. 56 (1996).
+
+
+21
+mission’s rulemaking authority from the substantive
+scope of the Communications Act.  Indeed, to our know-
+ledge, the court of appeals’ decision marks the first time
+any court has held that, despite Section 201(b), the Com-
+mission lacks statutory authority to implement key
+substantive provisions of the Communications Act.
+b.
+The Commission’s plenary authority to “establish
+regulations to implement” the local competition provisions
+is evident not just from Sections 251(d)(1) and 201(b), but
+also from the conspicuous interpretive anomalies that
+arise from the Eighth Circuit’s cramped view of the Com-
+mission’s jurisdiction.  Perhaps the most striking anom-
+aly is this: If, as the Eighth Circuit held, Sections
+251(d)(1) and 201(b) do not give the Commission plenary
+authority to implement (for example) the substantive
+terms of Section 251, what does give the Commission its
+undisputed authority to address the non-pricing require-
+ments of the “unbundling” provision, Section 251(c)(3)?
+Section 251(c)(3) directs incumbent LECs to provide
+new entrants with access to network elements “on an un-
+bundled basis at any technically feasible point on rates,
+terms, and conditions that are just, reasonable, and non-
+discriminatory.”  In turn, Section 251(d)(2) requires the
+Commission to consider certain proprietary interests
+“[i]n determining what network elements should be made
+available for purposes of subsection (c)(3).”  Section
+251(d)(2) thus assumes that the Commission has jurisdic-
+tion to issue regulations identifying the elements that
+must be made available.  Indeed, like the court of appeals
+(see Pet. App. 40a-64a), respondents acknowledge that the
+Commission has broad jurisdiction to implement the non-
+pricing provisions of Section 251(c)(3).  That is why re-
+spondents have challenged Rule 315(b)—a non-pricing un-
+bundling rule (see generally Point II, infra)—on its
+merits and not on jurisdictional grounds.
+
+
+22
+Even though Section 251(d)(2) plainly assumes that the
+Commission has jurisdiction to address at least some un-
+bundling issues arising under Section 251(c)(3), nothing in
+Section 251(d)(2) itself serves as an affirmative grant of
+that jurisdiction.  That jurisdiction must therefore derive
+from independent sources of rulemaking authority: from
+Section 251(d)(1) and, more generally, from Section 201(b).
+But those same sources necessarily authorize the Com-
+mission to issue rules relating to the other provisions of
+Section 251 that require implementation, including, most
+obviously, the other provisions of Section 251(c)(3) itself.
+If the Commission has rulemaking authority to address
+the non-pricing “terms” and “conditions” of access to un-
+bundled elements (47 U.S.C. 251(c)(3)), there is no
+coherent textual basis for denying the Commission rule-
+making authority to ensure, at the same time, that the
+“rates” charged for such access will be “just, reasonable,
+and nondiscriminatory” (ibid.).6
+The Eighth Circuit’s holding is also inconsistent with
+Section 251(d)(3), which ensures that state commission or-
+ders consistent with federal law are not invalidated on the
+theory that the Commission’s rules preempt a regulatory
+field.  Section 251(d)(3) provides that, “[i]n prescribing and
+enforcing regulations to implement the requirements of
+                                                
+6 For similar reasons, the Commission’s plenary rulemaking role is
+evident on the face of Section 252 as well.  For example, amid provi-
+sions relating to a “State commission[’s]” case-by-case arbitration of
+transport-and-termination charges, Section 252(d)(2)(B)(ii) forbids “the
+Commission or any State Commission to engage in any rate regulation
+proceeding” to establish certain costs.  (Emphasis added.) And, even
+though Section 252(i) does not itself “mention” the Commission (cf. Pet.
+App. 85a), neither the Eighth Circuit nor respondents have questioned
+the Commission’s jurisdiction to interpret that provision.  See Point III,
+infra; compare Pet. App. 24a-27a (addressing “pick and choose” rule on
+the merits) with id. at 34a-36a (holding that Commission lacks jurisdic-
+tion to implement 47 U.S.C. 252(a)(1)).  See also note 10, infra.
+
+
+23
+this section, the Commission shall not preclude the en-
+forcement of any regulation, order, or policy of a State
+commission” if the state rule “is consistent with the re-
+quirements of this section” and the rule “does not sub-
+stantially prevent implementation of the requirements of
+this section and the purposes of this part.”  Section
+251(d)(3) confirms the Commission’s jurisdiction in two
+respects.  First, it reiterates that the Commission has
+authority—under 
+Sections 
+251(d)(1) 
+and 
+201(b)—to
+“prescrib[e]  *  *  *  regulations to implement the re-
+quirements of ” Section 251.  Second, it confirms the
+Commission’s authority to preempt state laws, even laws
+not directly inconsistent with the statutory terms, if the
+Commission determines that such laws undermine the
+“implementation” and “purposes” of the 1996 Act.7
+The Eighth Circuit’s holding further contradicts the
+provisions of Section 253, another preemption provision
+added by the 1996 Act.  Entitled “Removal Of Barriers To
+Entry,” Section 253 authorizes 
+the Commission 
+to
+“preempt the enforcement” of any state legal requirement
+                                                
+7 The court of appeals sought to avoid that conclusion by suggest-
+ing, in one passage, that Section 251(d)(3) entitles the Commission to
+invalidate only those state rules that violate “the terms of section 251,”
+Pet. App. 37a-38a, not state rules that conflict with the Commission’s
+interpretation of those terms.  That distinction is without merit.  The
+meaning and “purposes” of Section 251—for example, of the require-
+ment that interconnection rates be “just, reasonable, and nondiscrimi-
+natory”—require explication, and it is illogical to presume that Con-
+gress withheld that interpretive role from the agency to which it gave
+preemptive authority.  See generally City of New York v. FCC, 486
+U.S. 57 (1988); Fidelity Federal Savings & Loan Ass’n v. de la Cuesta,
+458 U.S. 141, 153-154 (1982).  In a later passage, the Eighth Circuit
+drew into question the significance of its own distinction, recognizing
+that, when conducting arbitrations under Section 252, state commis-
+sions must “meet the requirements of section 251, including the regula-
+tions prescribed by the Commission pursuant to section 251.”  47 U.S.C.
+252(c)(1); see Pet. App. 38a.
+
+
+24
+that “may prohibit or have the effect of prohibiting the
+ability of any entity to provide any interstate or intrastate
+telecommunications service.”  47 U.S.C. 253(a) and (d).
+Because the Commission, like other administrative agen-
+cies, may accomplish by rulemaking what it could other-
+wise do by adjudication, see, e.g., 47 U.S.C. 154(i); SEC v.
+Chenery Corp., 332 U.S. 194, 203 (1947), Section 253(d)
+authorizes the Commission to preempt, by rule, any state
+regulatory practice that “ha[s] the effect” of enabling in-
+cumbent LECs to perpetuate their monopolistic grip on
+local telephone markets.  See 141 Cong. Rec. S8212 (daily
+ed. June 13, 1995) (statement of Senator Gorton) (Section
+253(d) reflects “a very, very broad prohibition against
+State and local activities”).  Many of the Commission’s
+rules at issue here, such as the general rule against bas-
+ing rates for unbundled elements on an incumbent LEC’s
+embedded costs, are designed to remove precisely the
+“[b]arriers [t]o [e]ntry” that Section 253 addresses, even
+though the Commission did not invoke Section 253
+directly.  See pp. 9-10, supra.  It is illogical to suppose that
+Congress gave the Commission the broad preemptive
+powers contained in Section 253 but, at the same time,
+denied 
+the 
+Commission 
+an 
+affirmative 
+rulemaking
+authority to ensure effective implementation of the 1996
+Act.  See generally City of New York v. FCC, 486 U.S. 57
+(1988).
+The Eighth Circuit’s holding is also inconsistent with
+the conditions that the 1996 Act places on the Commis-
+sion’s exercise of its “forbearance” authority.  Cf. Pet.
+App. 86a.  The Act authorizes the Commission to “forbear”
+from regulating (for example) a carrier’s “charges” and
+“practices” if the Commission determines that such regu-
+lation is unnecessary as a policy matter.  47 U.S.C. 160(a).
+Congress simultaneously instructed the Commission not
+to “forbear from applying the requirements of section
+251(c) *  *  *  under subsection (a) of this section until it
+
+
+25
+determines that those requirements have been fully im-
+plemented.”  47 U.S.C. 160(d).  If the Commission lacked
+authority to “apply” the central “requirements” of Sec-
+tion 251(c)—such as the requirement of “just, reasonable,
+and nondiscriminatory” rates for interconnection and un-
+bundled elements—it would have made little sense for
+Congress to have taken special measures to ensure that
+the Commission would in fact “apply[ ] the requirements of
+section 251(c)” until “it determines that those require-
+ments have been fully implemented.”  That Congress did
+qualify the Commission’s forbearance authority that way
+confirms that Congress very much intended for the Com-
+mission to adopt regulations ensuring full implementation
+of “the requirements” of Section 251(c), including, for ex-
+ample, the “charge”-related requirements that 47 U.S.C.
+160(a) would otherwise have permitted it not to enforce.8
+c.
+The statutory rights of new entrants would be
+meaningless if an incumbent could charge such high rates
+for the use of its network that new entrants could not prof-
+itably offer competing services to consumers.  See pp. 9-10,
+supra.  That is why Congress instructed incumbent LECs
+to provide (for example) interconnection and unbundled
+elements at “just, reasonable, and nondiscriminatory”
+rates.  47 U.S.C. 251(c)(2) and (3); see also 47 U.S.C.
+251(c)(4) (imposing duty to offer services “for resale at
+wholesale rates”).  In the most important portion of its ju-
+risdictional holding, however, the Eighth Circuit held that
+the Commission lacks authority to set national standards
+to guide resolution of carrier-to-carrier pricing disputes.
+                                                
+8 These interpretive anomalies do not constitute an exhaustive list.
+For examples of others, see Chen, supra, 33 Wake Forest L. Rev. at 70-
+76 (noting that Eighth Circuit’s decision “overflows with interpretive
+pronouncements that contradict assumptions underlying numerous as-
+pects of the Act, with interpretive solecisms that flatly contradict the
+structure of §§ 251 and 252”) (footnote omitted).  E.g., id. at 71
+(discussing 47 U.S.C. 251(g)).
+
+
+26
+The court based that ruling largely on the observation
+that Sections 252(c)(2) and 252(d) authorize state commis-
+sions to “establish  *  *  *  rates” when arbitrating specific
+disputes between incumbent LECs and new entrants.  See
+47 U.S.C. 252(c)(2); see also 47 U.S.C. 252(d).  But from
+those provisions it does not follow that Congress sub si-
+lentio negated the Commission’s general authority to
+implement the 1996 Act and gave each of the 50 state com-
+missions exclusive jurisdiction to define, at the most basic
+methodological level, the standards that govern what con-
+stitute “just, reasonable, and nondiscriminatory” rates as
+a matter of federal law. 9
+Instead, Congress assigned to the FCC and the state
+commissions concurrent and complementary pricing roles
+in fostering competition in local telephone markets.  The
+FCC must “establish regulations to implement” (47
+U.S.C. 251(d)(1)) the rate provisions of Sections 251(c)(2)-
+(4) by resolving general methodological issues.  Then, in
+arbitrating specific interconnection disputes, state com-
+missions may exercise their considerable discretion to es-
+tablish actual carrier-to-carrier rates in light of carrier-
+and region-specific variables such as geography, popula-
+tion density, and so forth.  That role is important and com-
+                                                
+9 Other aspects of the court’s decision also rested on the same un-
+sound negative inference: a barely rebuttable presumption that, wher-
+ever  Congress assigned the state commissions some role in implement-
+ing the 1996 Act, it must have intended for the Commission to play no
+role at all.  See, e.g., Pet. App. 27a-30a (divesting Commission of any
+role in implementing “rural exemptions” provision of Section 251(f)); id.
+at 32a-33a (divesting Commission of authority under 47 U.S.C. 208 to
+enforce terms of interconnection agreements); id. at 88a-89a (relying on
+Section 271(e)(2)(B) to divest Commission of dialing-parity authority
+under Section 251(b)(3)).  As discussed in the text, that reasoning is ir-
+reconcilable with the complementary roles that Congress assigned to
+the FCC and the state commissions in implementing the Act.  See also
+p. 37, infra.
+
+
+27
+plex: few tasks, for example, require as much expertise as
+the determination of the forward-looking economic costs of
+an efficient network, an inquiry that, under the FCC’s
+rules, belongs to the state commissions.  But Congress did
+not authorize the state commissions to determine, and in-
+evitably to diverge on, such basic federal issues as
+whether interconnection and unbundling rates should be
+based on forward-looking or embedded costs.  Instead, in
+Section 252(c)(1), it ordered state commissions, when arbi-
+trating “any open issues,” to adhere to “the requirements
+of section 251, including the regulations prescribed by the
+Commission pursuant to section 251” (emphasis added)—
+and thus including the Commission’s regulations imple-
+menting the pricing provisions of Sections 251(c)(2)-(4).
+The court of appeals sought to avoid the plain meaning
+of that language by noting that, in the next sentence of the
+same subsection, Congress also directed the state com-
+missions to set rates “according to” the requirements of
+Section 252(d).  47 U.S.C. 252(c)(2); see Pet. App. 13a-14a.
+Among other things, Section 252(d) provides that, to be
+“just and reasonable  *  *  *  for purposes of ” Sections
+251(c)(2) and (3), rates for interconnection and unbundled
+elements must be “based on  *  *  *  cost (determined with-
+out reference to a rate-of-return or other rate-based pro-
+ceeding).”  The Eighth Circuit reasoned that, because
+Section 251(c)(2) makes no “reference” to the Commission,
+“Congress did not envision the FCC’s participation” in
+creating any methodological framework for rates.  Pet.
+App. 13a.  That reasoning is illogical.  In effect, the Eighth
+Circuit held that a state commission’s specific obligation
+to adhere to Section 252(d) when arbitrating open rate is-
+sues, see 47 U.S.C. 252(c)(2), somehow cancels out its
+broader obligation, applicable to “any open issues,” to con-
+form its disposition to “the regulations prescribed by the
+Commission pursuant to section 251,” 47 U.S.C. 252(c)(1)
+
+
+28
+(emphasis added).  That holding rests on the self-refuting
+premise that “open rate issues” are not “open issues.”
+There is also no merit to the Eighth Circuit’s view that
+Section 252(d) “provides statutory standards” that some-
+how “negat[e] any need for additional FCC-mandated
+ratemaking standards or guidelines.”  Pet. App. 14a.10
+Those “standards,” like the substantive rate provisions of
+Section 251(c) that they cross-reference, require consid-
+erable interpretation, and their meaning is the subject of
+widespread disagreement.  For example, Section 252(d)(1)
+provides that rates for unbundled elements shall be “based
+on  *  *  *  cost,” a term that has historically assumed
+many meanings and that has now spawned numerous dis-
+putes in state arbitration proceedings on such basic issues
+as whether an incumbent LEC may recover historic costs
+or forward-looking costs and, if the latter, which forward-
+looking pricing methodology is appropriate.  Cf. Permian
+Basin Area Rate Cases, 390 U.S. 747, 790 (1968).  Resolv-
+ing such policy-laden disputes about federal law in light of
+congressional intent is the kind of interpretive task that
+federal agencies are routinely expected to undertake—and
+that Congress specifically directed the Commission to un-
+dertake here.
+                                                
+10
+As discussed above, the Commission’s authority to interpret Sec-
+tion 252(d) derives from two independent sources.  First, Section 
+201(b) gives the Commission plenary authority to issue general rules
+implementing the Communications Act, of which Section 252 is now a
+part.  Second, Section 251(d)(1) specifically obligates the Commission
+to “implement the requirements of this section,” which includes the
+requirement that the “rates” for interconnection and unbundled ele-
+ments be “just, reasonable, and nondiscriminatory.”  47 U.S.C. 251(c)(2)
+and (3); see also 47 U.S.C. 251(b)(5) (transport-and-termination rates)
+and (c)(4) (resale rates).  In fulfilling that obligation, the Commission
+must ensure the consistency of its rules with the standards of Section
+252(d)—indeed, Sections 251(c)(2) and (c)(3) incorporate all of “the
+requirements of this section and section 252” by reference—and it must
+therefore determine what those standards are.
+
+
+29
+d.
+Compelling evidence of the Commission’s plenary
+authority to issue rules implementing the local competi-
+tion provisions can also be found in another part of the
+1996 Act: in Section 271, which sets forth the procedure
+under which the Bell Companies may apply to the FCC for
+authorization to provide, for the first time, full long-
+distance service originating within the geographic re-
+gions in which they now exercise monopoly power.
+Section 271 instructs the FCC to grant such an applica-
+tion only if “it finds,” among other things, that the Bell
+Company has “fully implemented” (or, in certain special
+circumstances, has offered to implement) all of the re-
+quirements of a competitive checklist. 47 U.S.C. 271(d)(3);
+see pp. 7-8, supra.  Those requirements include “[i]nter-
+connection in accordance with the requirements of sec-
+tions 251(c)(2) and 252(d)(1)” and “[n]ondiscriminatory
+access to network elements in accordance with the re-
+quirements of sections 251(c)(3) and 252(d)(1).”  47 U.S.C.
+271(c)(2)(B)(i), (ii).  Before ruling on an application, the
+Commission must “consult” with both the Attorney Gen-
+eral and the relevant state commissions, but it need give
+“substantial weight” only to the views of the Attorney
+General.  See 47 U.S.C. 271(d)(2)(A) and (B).
+As the D.C. Circuit recently observed, the meaning of
+Section 271 is quite clear: the FCC may grant an applica-
+tion only if “the FCC concludes to its own satisfaction”
+that the Bell Company has met the requirements of the
+checklist; in particular, “[a]lthough the Commission must
+consult with the State commissions, the statute does not
+require the FCC to give the State commissions’ views
+any particular weight.”  SBC Communications Inc. v.
+FCC, 138 F.3d 410, 416 (D.C. Cir. 1998) (emphasis added).
+Put another way, Congress directed the Commission to
+apply national standards when “it finds” whether (for
+example) a Bell Company has provided network elements
+at rates that meet “the requirements of sections 251(c)(3)
+
+
+30
+and 252(d)(1).”  Congress did not permit, much less compel,
+the Commission to abdicate that compliance inquiry to
+each of 50 state commissions, an approach that could
+require the Commission to reach different and incompati-
+ble outcomes on identical facts, depending on the pricing
+methodology favored by the particular State in which a
+given application arises.
+The FCC’s role under Section 271 is powerful evidence
+that Congress meant to authorize the Commission to cre-
+ate a national regulatory framework that the state com-
+missions would apply in adjudicating particular carrier-to-
+carrier disputes under Sections 251 and 252.  The decision
+below holds that the state commissions may apply radi-
+cally disparate methodologies for determining compliance
+with Sections 251(c) and 252(d), at least until, many years
+from now, the lengthy process of piecemeal federal-court
+litigation under Section 252(e)(6) has run its course (see
+Point I(C), infra).  That decision thus detaches the in-
+quiry in state arbitration proceedings from the national
+standards that Section 271 instructs the FCC to apply
+when reviewing a Bell company’s long-distance applica-
+tion.  That result would greatly encumber the Commis-
+sion’s ability to determine, within 90 days of receiving a
+Section 271 application (see 47 U.S.C. 271(d)(3)), whether
+the Bell Company has in fact complied with those national
+standards.
+In January 1998, the Eighth Circuit sought to resolve
+that jurisdictional tension by imposing its own interpreta-
+tion of Section 271 on the Commission, despite the D.C.
+Circuit’s exclusive statutory jurisdiction to review the
+Commission’s Section 271 decisions.  See pp. 13-15, supra.
+At the request of several parties that had challenged the
+reasoning in one of the Commission’s Section 271 orders,
+the Eighth Circuit issued a writ of mandamus, ostensibly
+to “enforce the mandate” of the decision below, compelling
+the FCC—when adjudicating Section 271 applications—
+
+
+31
+to apply the disparate pricing methodologies of 50 state
+commissions in determining whether a Bell Company has
+complied with Sections 251(c) and 252(d).  J.A. 284-301.11
+The Eighth Circuit’s mandamus order barely mentions
+the language or structure of Section 271.  Instead, it rests
+on the following logic: (1) the Eighth Circuit’s August
+1997 local competition decision divested the Commission of
+jurisdiction to issue rules implementing the pricing provi-
+sions of Sections 251 and 252; (2) the Commission’s appli-
+cation of national standards in adjudicating Bell Company
+long-distance applications would permit the Commission
+to construe those pricing provisions for the specific pur-
+poses of Section 271; and (3) national consistency in the ad-
+judication of Section 271 applications must therefore be
+abandoned to accommodate the Eighth Circuit’s decision.
+See J.A. 284-301.  The central problem with the court’s
+logic is that Section 271 says, and means, precisely what
+the Commission construed it to mean, as the D.C. Circuit
+recently confirmed in SBC Communications.  Any ten-
+sion between that meaning and the decision below is
+evidence not that Section 271 means something other than
+what it says, but that the decision below was wrong.
+                                                
+11
+On March 13, 1998, we and several private parties filed separate
+petitions for certiorari challenging the Eighth Circuit’s mandamus or-
+der.  See FCC v. Iowa Utilities Board, No. 97-1519; AT&T Corp. v.
+Iowa Utilities Board, No. 97-1520.  (The Eighth Circuit issued that or-
+der on literally the afternoon before the Conference at which this Court,
+as previously announced (see 118 S. Ct. 683 (1998)), considered our peti-
+tion in this case.  On that same afternoon, we informed the Court by
+letter of the issuance of the mandamus order.)  Our petition discusses in
+detail the procedural history of the mandamus proceedings, as well as
+the structure of Section 271.  We have asked this Court to consolidate
+its review of the mandamus order with its review of the rest of this
+case.  See 97-1519 Pet. 27-28.
+
+
+32
+B. Section 2(b) Of The Communications Act Of 1934
+Does Not Limit The Commission’s Jurisdiction To Im-
+plement The Telecommunications Act Of 1996
+Central to the Eighth Circuit’s jurisdictional holding
+was its interpretation of Section 2(b) of the Communica-
+tions Act of 1934, which provides that “nothing in this Act
+shall be construed to apply or to give the Commission ju-
+risdiction with respect to  *  *  *  charges, classifications,
+practices, services, facilities, or regulations for or in con-
+nection with intrastate communication service.”  47 U.S.C
+152(b); see generally Louisiana Pub. Serv. Comm’n v.
+FCC, 476 U.S. 355 (1986).  That provision, the court de-
+clared, “is hog tight, horse high, and bull strong,” and bars
+the Commission from “intruding on the states’ intrastate
+turf.”  Pet. App. 23a.  The court identified, as part of that
+protected “intrastate turf,” the implementation of federal
+competition standards that supplant the traditional role of
+state commissions in managing and sustaining local ex-
+change monopolies.12  For two independent reasons, the
+court’s reliance on Section 2(b) was wrong.
+1.
+First, even if the regulatory subjects of the local
+competition provisions were properly characterized as
+“fundamentally intrastate in character” (Pet. App. 22a)—
+which they are not, as we discuss below—Section 2(b) is a
+rule of construction and, as such, is inapplicable where
+Congress “straightforward[ly]” subjects an aspect of in-
+                                                
+12
+Sections 251 and 252 do not affect the scope of a state commis-
+sion’s traditional authority to regulate the retail rates that LECs may
+charge their customers for local and intrastate long-distance service.
+Instead, those provisions address a subject that, before 1996, neither the
+federal government nor most state commissions had ever addressed:
+the terms under which a new LEC may use an incumbent LEC’s net-
+work to provide a broad range of competing telecommunications ser-
+vices.  That subject has not been a traditional part of state regulation
+of telephone service, despite the court of appeals’ misplaced concern
+about the “states’ intrastate turf.”
+
+
+33
+trastate telecommunications to federal regulation.  Lou-
+isiana, 476 U.S. at 377; see also Pet. App. 16a (same). Here,
+it is undisputed that Congress “straightforwardly” and
+comprehensively subjected competition in local telephone
+markets to regulation under the Communications Act, de-
+spite 
+Section 
+2(b)’s 
+unamended 
+provision 
+against
+“constru[ing]” the substance of that Act “to apply” to in-
+trastate matters.  The only question is whether, as the
+Eighth Circuit believed, Congress sub silentio repealed
+the Commission’s plenary authority “to carry out the pro-
+visions of this [Communications] Act.”  47 U.S.C. 201(b).
+Congress did no such thing.  As discussed above, even
+apart from Section 251(d)(1), key provisions of the 1996 Act
+presuppose the Commission’s authority, without them-
+selves serving as a source of that authority, to regulate
+certain local-exchange matters that the Act has made a
+subject of federal law.  E.g., 47 U.S.C. 251(d)(2) (assuming
+that Commission would have authority to define “network
+elements” for unbundling purposes); see pp. 21-22, supra.
+Congress saw no need to amend Section 2(b) to confirm
+that presupposition.13  Congress also saw no need to amend
+                                                
+13
+Nor, again, did Congress perceive any need to amend Section
+2(b) to confirm that the substantive terms of the Act obviously apply to
+the matters at issue here, despite Section 2(b)’s policy against
+“constru[ing]” federal law “to apply” to intrastate matters.  See  Illi-
+nois Pub. Telecomm. Ass’n v. FCC, 117 F.3d 555, 561-562, clarified on
+other grounds on reh’g, 123 F.3d 693 (D.C. Cir. 1997), cert. denied, No.
+97-1072 (Mar. 30, 1998).  Despite the court of appeals’ contrary sugges-
+tion (see Pet. App. 18a n.17), the legislative history addressing the rela-
+tionship between Section 2(b) and the 1996 Act is consistent with, and in
+fact supports, the Commission’s position on the scope of its authority to
+implement the 1996 Act.  Although early versions of the 1996 legisla-
+tion would have expressly amended Section 2(b) to except Sections 251
+and 252 (among other provisions), Congress indicated that the omission
+of that amendment from the final legislation was a technical, non-sub-
+stantive change, see S. Conf. Rep. No. 230, 104th Cong., 2d Sess. 113
+
+
+34
+Section 2(b) to confirm that, under Sections 201(b) and
+251(d)(1), it has squarely authorized the Commission to
+implement the other local competition provisions of the
+same Act, including the provisions relating to dialing par-
+ity and pricing. 
+More generally, Section 2(b) does nothing to detach the
+Commission’s plenary rulemaking authority from the sub-
+stantive scope of the Communications Act. As respondents
+have noted (see Regional Bell Br. in Opp. 15), the language
+of Section 2(b) appears in the disjunctive: “nothing in this
+Act shall be construed to apply or to give the Commission
+jurisdiction with respect to” intrastate matters.  See also
+Pet. App. 19a.  But that disjunction cannot logically be
+construed to mean that Section 2(b) limits the scope of the
+Commission’s authority more than it limits the substan-
+tive reach of federal telecommunications law.  By its
+terms, Section 2(b)’s rule of construction applies equally
+to the substantive scope of federal law and to the Commis-
+sion’s authority to implement it; indeed, Congress could
+not have meant to distinguish between the two, because
+when Section 2(b) was enacted in 1934, federal tele-
+communications 
+law 
+did 
+not 
+apply 
+to 
+intrastate
+communications.
+Section 2(b) refers to the Commission’s authority as
+well as to the applicability of federal law not because Con-
+gress wished to detach the scope of one from the scope of
+the other, but because Congress intended to bar the Com-
+mission from exercising its “ancillary” jurisdiction, see
+generally Southwestern Cable Co., 392 U.S. at 172-178,
+over intrastate matters that may be loosely related to im-
+plementation of the Act but to which the Act itself does
+not clearly extend.  See Louisiana Pub. Serv. Comm’n,
+supra; see also Houston, E. & W. Tex. Ry. v. United
+                                                
+(1996), a characterization that belies the court’s view that the omission
+had profound jurisdictional consequences.
+
+
+35
+States, 234 U.S. 342 (1914) (Shreveport Rate Case).  As the
+court of appeals itself recognized (Pet. App. 19a), that con-
+cern, which led to this Court’s jurisdiction-restrictive
+decision in Louisiana, is absent here.  Louisiana nowhere
+suggests that the Commission’s authority is narrower
+than the substantive scope of the Communications Act,
+and, until now, no court had ever so held.
+2.
+The Eighth Circuit’s reliance on Section 2(b) was
+misplaced for an independent reason as well.  The core
+regulatory subjects at issue here—including, in particu-
+lar, the rates for access to an incumbent’s local facilities
+to provide a range of competitive services—are inextrica-
+bly both interstate and intrastate in character.  For that
+reason alone, Section 2(b) could not serve as a basis for
+resolving, against the FCC, any question about the
+Commission’s jurisdiction to address those subjects.  The
+court of appeals’ contrary premise—that those regulatory
+matters are “fundamentally intrastate in character” (Pet.
+App. 
+22a) 
+and therefore 
+beyond 
+the 
+Commission’s
+jurisdiction—rests on a basic misunderstanding of the
+telecommunications industry and of telecommunications
+law.
+The same facilities that are used to provide local service
+are also used to provide interstate exchange access.  See p.
+3, supra.  Thus, “[t]he same loop that connects a telephone
+subscriber to the local exchange necessarily connects that
+subscriber into the interstate network as well.”  National
+Ass’n of Regulatory Util. Comm’rs v. FCC, 737 F.2d 1095,
+1113 (D.C. Cir. 1984) (NARUC), cert. denied, 469 U.S. 1227
+(1985).  For that reason, and consistently with Section
+2(b), retail rates designed to cover the cost of the “local”
+network (and reflected on a consumer’s local telephone
+bill) have long included both “intrastate” charges deter-
+mined by state regulators and “interstate” charges de-
+termined by the FCC.  See generally id. at 1103-1110; see
+also Louisiana, 476 U.S. at 375-376.  Likewise, incumbent
+
+
+36
+LECs derive many billions of dollars in annual revenues
+from long-distance carriers for the use of the local net-
+work to originate and complete interstate calls. Courts
+and regulators have thus consistently recognized that, for
+jurisdictional purposes, the “local” network is inherently
+both intrastate and interstate in character.  See, e.g.,
+Public Serv. Comm’n of Maryland v. FCC, 909 F.2d 1510,
+1515 (D.C. Cir. 1990); see also cases cited at p. 38, infra.
+It has been feasible, and consistent with congressional
+intent, to divide some subjects of local exchange regula-
+tion—such as retail rates for consumers—into their
+interstate and intrastate components for separate regula-
+tion by federal and state agencies.  See Louisiana, 476
+U.S. at 377-378; see also note 12, supra.  As this Court has
+recognized, however, where it is “not possible to separate
+the interstate and the intrastate components” of telephone
+regulation, the Commission may ensure effective regula-
+tion of the interstate component, despite Section 2(b), by
+preempting inconsistent state regulation of the matter in
+issue.  Louisiana, 476 U.S. at 375 n.4; accord Illinois Bell
+Tel. Co. v. FCC, 883 F.2d 104, 114-115 (D.C. Cir. 1989); Pub-
+lic Util. Comm’n of Texas v. FCC, 886 F.2d 1325, 1331
+(D.C. Cir. 1989); North Carolina Utils. Comm’n v. FCC,
+552 F.2d 1036, 1045-1046 (4th Cir.) (NCUC II), cert. denied,
+434 U.S. 874 (1977); see also 47 U.S.C. 253(d).
+For that reason, the traditional jurisdictional principles
+embodied in Section 2(b)—even if Congress had not super-
+seded them here—would affirm the FCC’s exercise of ju-
+risdiction in this context.  Sections 251 and 252 entitle
+new entrants to make broad use of facilities that incum-
+bent LECs now use, and the new entrants would use, to
+provide both intrastate and interstate telecommunications
+services.  As the Commission determined (Pet. App. 191a,
+194a-195a), it would be economically and technologically
+nonsensical, and wholly inconsistent with the 1996 Act, for
+the FCC and the state commissions to treat the rates for
+
+
+37
+interconnection with and unbundled access to those facili-
+ties like retail rates, such that the ultimate rate a
+competing carrier must pay an incumbent LEC would re-
+flect a combination of an “intrastate” rate set by a state
+commission and an “interstate” rate set by the FCC.
+(Indeed, during the Commission’s rulemaking proceedings,
+no party even suggested such a regime. See id. at 195a.)
+That is why, in assigning authority to implement the
+terms of Sections 251 and 252, Congress divided responsi-
+bility between the FCC and the state commissions along
+lines of legislative and adjudicatory function, see pp. 26-27,
+supra, not along lines of separate “interstate” 
+and
+“intrastate” subject matter.  For example, in authorizing
+the state commissions to arbitrate disputes concerning
+unbundled elements often used for access to the interstate
+long-distance network, Congress extended the jurisdiction
+of the state commissions into the interstate sphere, while
+simultaneously directing them to follow “the regulations
+prescribed by the Commission pursuant to section 251.”
+47 U.S.C. 252(c)(1).
+Because (as all conceded before the FCC) it is “not pos-
+sible” to effectuate congressional intent by “separat[ing]
+the interstate and the intrastate components” of the regu-
+latory matters at issue, see Louisiana, 476 U.S. at 375 n.4
+(emphasis omitted), it is incorrect, for that reason alone,
+to invoke Section 2(b) to divest the FCC of jurisdiction to
+address those matters.  That conclusion follows not just
+from Louisiana itself, but from numerous decisions of the
+courts of appeals in analogous circumstances.  For ex-
+ample, both the Fourth and the D.C. Circuits have held
+that the Commission has preemptive authority, consistent
+with Section 2(b), to facilitate competition by deregulating
+or detariffing terminal equipment (such as home tele-
+phones) that customers plug into the local telephone net-
+work, whether or not a given customer uses that equip-
+ment to make interstate calls.  See Computer & Commu-
+
+
+38
+nications Indus. Ass’n v. FCC, 693 F.2d 198, 214-216 (D.C.
+Cir. 1982) (Computer II), cert. denied, 461 U.S. 938 (1983);
+NCUC II, 552 F.2d at 1045-1046; North Carolina Utils.
+Comm’n v. FCC, 537 F.2d 787, 791-794 (4th Cir.) (NCUC I),
+cert. denied, 429 U.S. 1027 (1976); see also California v.
+FCC, 39 F.3d 919, 932-933 (9th Cir. 1994), cert. denied, 514
+U.S. 1050 (1995); Public Util. Comm’n of Texas, 886 F.2d
+at 1331; Illinois Bell, 883 F.2d at 112-116.  Indeed, in an
+opinion that this Court cited approvingly in Louisiana,
+see 476 U.S. at 375 n.4, the Fourth Circuit held that, in
+cases of conflict, state commission jurisdiction must yield
+to the FCC’s preemptive authority even where the facility
+at issue is “used predominantly for local communications,”
+because Congress did not “create[ ] a regulatory scheme
+that depends on the calling habits of telephone subscribers
+to determine the jurisdictional competence of the FCC
+versus state utility commissions.”  NCUC II, 552 F.2d at
+1046; accord NCUC I, 537 F.2d at 791-794; see also
+NARUC, 737 F.2d at 1114-1115 (affirming Commission’s
+authority to impose subscriber line charge to recover in-
+terstate component of costs of local network, “although
+the plant in question is necessary to make local calls, and
+although some subscriber[s] might use it only to make
+local calls”).
+The Eighth Circuit, however, chose precisely the oppo-
+site course. It held that the FCC may play no role in im-
+plementing any substantive provision of the 1996 Act that
+does not itself “mention” the Commission (Pet. App. 85a),
+despite the inseparably interstate and intrastate charac-
+ter of the facilities whose regulation is at issue.  As this
+Court indicated in Louisiana, see 476 U.S. at 375 n.4, how-
+ever, Section 2(b) is not a reverse-preemption provision
+that relieves the Commission, in matters of jurisdictional
+conflict, from its statutory duty to regulate interstate
+matters. In particular, if Section 2(b) were construed “to
+give the states primary authority” over facilities “used
+
+
+39
+interchangeably for interstate and intrastate service,” the
+Commission “would necessarily be prevented from dis-
+charging its statutory duty  *  *  *  to regulate interstate
+communication,” a result that Congress never intended.
+NCUC II, 552 F.2d at 1045; accord Illinois Bell, 883 F.2d at
+116; Computer II, 693 F.2d at 215-216; NARUC, 737 F.2d at
+1114-1115.
+C. The Court Of Appeals’ Narrow View Of The Commis-
+sion’s Jurisdiction Would Raise Immense Obstacles To
+Effective Implementation Of The 1996 Act
+1.
+The greatest irony of the decision below, which
+graphically illustrates why that decision is wrong, is this:
+The Eighth Circuit’s concern about federal “intru[sion] on
+the states’ intrastate turf ” (Pet. App. 23a) serves not to
+protect that “turf ” from the application of federal stan-
+dards, but only to impede the competition that Congress
+sought to bring to local telephone markets throughout the
+United States.  The 1996 Act does not leave local competi-
+tion matters to the States to govern under state law; in-
+stead, it subjects those matters to regulation under fed-
+eral law and offers the States a role in implementing that
+federal law.  Moreover, the federal standards of the 1996
+Act require national application.  Although Congress as-
+signed the States the important task of tailoring those
+standards to accommodate region- or carrier-specific vari-
+ables, it did not leave room for 50 state commissions to
+disagree about the basic legal issues that inevitably arise
+under the Act, such as what dialing parity is and whether
+rates for unbundled elements should be based on forward-
+looking economic costs or on an incumbent carrier’s
+embedded costs. 
+Sooner or later, the federal courts will have to decide
+those issues.  Congress provided two methods of federal-
+court review of issues arising under Sections 251 and 252:
+comprehensive court of appeals review of all FCC regula-
+tions under the Administrative Procedure Act, and federal
+
+
+40
+district court review of individual state arbitration deci-
+sions under Section 252(e)(6) to determine whether those
+decisions comply with the 1996 Act and the Commission’s
+implementing regulations.  In holding that the Commis-
+sion lacks jurisdiction to adopt regulations addressing the
+core local competition provisions of the 1996 Act, however,
+the court of appeals has deprived the district courts of a
+national regulatory framework within which to review
+state arbitration decisions and has relegated many of the
+fundamental disputes under the Act to piecemeal litigation
+throughout the United States.
+Thus, the principal question here is not whether the
+federal judiciary will supply nationally consistent inter-
+pretations of the key provisions of the 1996 Act, but when
+it will do so and in what type of proceeding.  We believe
+that Congress directed the Commission to address the
+most fundamental issues arising under the Act by August
+1996 so that a single court of appeals could resolve those
+issues on the merits (subject to review by this Court) soon
+after the Act’s enactment. 14  By contrast, under the cum-
+bersome approach favored by the court of appeals and the
+incumbent monopolists, full resolution of those issues
+would not come until many years later, after the various
+pricing and other issues have wound their way through 50
+state commissions, numerous federal district courts, vari-
+ous courts of appeals, and ultimately this Court, all with-
+out comprehensive direction from the federal agency with
+the expertise to interpret federal telecommunications law.
+                                                
+14
+Under 28 U.S.C. 2342(1), known as the Hobbs Act, “exclusive ju-
+risdiction  *  *  *  to determine the validity” of the Commission’s orders
+lies with the federal courts of appeals on direct review.  Where the re-
+viewing court upholds the Commission’s rules on the merits, those rules
+(absent additional review by this Court) are no longer subject to fur-         
+ther challenge in district court proceedings under Section 252(e)(6). 
+See generally FCC v. ITT World Communications, Inc., 466 U.S. 463,
+468 (1984); Wilson v. A.H. Belo Corp., 87 F.3d 393, 400 (9th Cir. 1996).
+
+
+41
+Congress did not intend to subject new entrants and the
+federal courts to such protracted and redundant litigation
+on the basic methodological issues that the Commission
+sought to address nearly two years ago.  But that is the
+regime that the Eighth Circuit has created, to the detri-
+ment of competition and, ultimately, American consumers.
+The federal district courts have already received more
+than 100 challenges under Section 252(e)(6) to the arbitra-
+tion decisions of various state commissions; to date, the
+district courts have adjudicated only a tiny number of
+those challenges on the merits. In the absence of national
+standards, would-be competitors remain uncertain about
+the scope of their basic rights under the statute.  That
+pervasive uncertainty is a principal reason why local ex-
+change monopolists still receive approximately 98% of the
+$100 billion in annual revenues generated by the provision
+of exchange access and local exchange services.  See FCC,
+Telecommunications Indus. Revenue Tab. 2 (Common
+Carrier Bur. Nov. 1997); see also Chen, supra, 33 Wake
+Forest L. Rev. at 54 (arguing that Eighth Circuit’s deci-
+sion undermines “federal deregulatory power needed to
+complete American telephony’s transition from command-
+and-control regulation to open competition”).
+2.
+The Commission determined that a national frame-
+work for implementing the 1996 Act—a framework that,
+for the foreseeable future, only the Commission can
+provide—is necessary to avoid the anticompetitive uncer-
+tainties that would impair effective implementation of the
+1996 Act.  See pp. 9-10, supra.  That determination was
+reasonable: Congress did not anticipate that, two years
+after enactment of the 1996 Act, incumbent monopolists
+would retain a 98% market share.  And, more generally,
+the Commission reasonably interpreted the disparate pro-
+visions of federal law governing its rulemaking authority
+to create such a national framework.
+
+
+42
+Even if there were some ambiguity in those provisions,
+the Commission’s interpretation of them would be entitled
+to substantial deference, for “it is settled law that the rule
+of deference applies even to an agency’s interpretation of
+its own statutory authority or jurisdiction,” including “an
+agency’s interpretation of a statute designed to confine its
+authority.  *  *  *  Congress would neither anticipate nor
+desire that every ambiguity in statutory authority would
+be addressed, de novo, by the courts.”  Mississippi Power
+& Light Co. v. Mississippi ex rel. Moore, 487 U.S. 354, 380-
+382 (1988) (Scalia, J., concurring in the judgment) (ad-
+dressing scope of agency’s preemptive authority); accord
+Commodity Futures Trading Comm’n v. Schor, 478 U.S.
+833, 844 (1986); NLRB v. City Disposal Sys., Inc., 465 U.S.
+822, 830 n.7 (1984); see also Medtronic, Inc. v. Lohr, 518
+U.S. 470, 495-497 (1996); see generally Chevron U.S.A. Inc.
+v. Natural Resources Defense Council, Inc., 467 U.S. 837,
+843-845 (1984).  The jurisdictional question presented here
+is a question of authority to implement federal law and, at
+bottom, of the need for nationally consistent standards to
+ensure effective implementation of federal law.  That
+question, if left unresolved by the relevant statutory
+provisions, should be answered by the agency in the best
+institutional position to answer it: the same agency to
+which Congress has always turned for interpretation of
+federal telecommunications law.  Cf. Martin v. OSHRC,
+499 U.S. 144, 152-153 (1991).
+
+
+43
+II.
+RULE 315(b) IS A REASONABLE EXERCISE
+OF THE COMMISSION’S 
+AUTHORITY 
+TO
+ENSURE NONDISCRIMINATORY ACCESS TO
+NETWORK ELEMENTS
+A. The Eighth Circuit also addressed the substantive
+validity of the FCC’s rules implementating several provi-
+sions of the 1996 Act as to which the Commission’s juris-
+diction is not in dispute.  Among those rules were the
+Commission’s regulations giving effect to the non-pricing
+requirements of Section 251(c)(3), which directs incum-
+bent LECs to provide “nondiscriminatory access to net-
+work elements on an unbundled basis” and to “provide such
+unbundled network elements in a manner that allows
+requesting carriers to combine such elements to provide  
+*  *  *  telecommunications service.”  47 U.S.C. 251(c)(3).
+Section 251(c)(3) gives a new entrant the option to lease
+from incumbent LECs, on reasonable and nondiscrimina-
+tory terms, whatever network elements it needs. It fur-
+ther entitles a new entrant, which may or may not have
+constructed some facilities of its own, to receive the speci-
+fied elements in a manner that enables it to combine its to-
+tal package of elements however it wishes, to provide
+whatever services it wishes.  The Commission reasonably
+determined that those guarantees do not give incumbent
+LECs a unilateral right to inflict gratuitous reassembly
+costs on a new entrant, and possible service outages on the
+new entrant’s customers, by disconnecting previously
+combined network elements that the new entrant wishes
+to use in the same (or in a lesser-included) combination.
+See Pet. App. 230a-234a; see also In re Implementation of
+the Local Competition Provisions in the Telecommunica-
+tions Act of 1996 (CC Docket No. 96-98), Third Order on
+Reconsideration, FCC 97-295, ¶ 44 (Aug. 18, 1997) (J.A.
+247-248), petitions for review pending, Southwestern Bell
+Tel. Co. v. FCC, Nos. 97-3389 et al. (8th Cir. filed Sept. 5,
+
+
+44
+1997).  The Commission therefore adopted Rule 315(b),
+which provides that, “[e]xcept upon request, an incumbent
+LEC shall not separate requested network elements that
+the incumbent LEC currently combines.”  47 C.F.R.
+51.315(b).
+The Eighth Circuit invalidated Rule 315(b) principally
+on the ground that the language of Section 251(c)(3)
+“requires an incumbent LEC to provide access to the ele-
+ments of its network only on an unbundled (as opposed to a
+combined) basis.”  Pet. App. 71a.  That holding is errone-
+ous for several reasons.
+First, the Eighth Circuit misunderstood the term
+“unbundled.”  The court’s reasoning assumes that ele-
+ments are “unbundled” for purposes of Section 251(c)(3)
+only if they are disconnected (rather than “combined”
+within the network). But the duty to “unbundle” network
+elements is an obligation to offer those elements for indi-
+vidual leasing at individual prices, not an invitation to dis-
+connect them over the objection of the requesting carrier.
+That use of the term “unbundle”—to denote giving some-
+one a choice of elements at separate prices rather than
+separating those elements over the recipient’s objection—
+is the same use that the Commission and other regulatory
+agencies have consistently employed when, over the
+course of the past 15 years, they have adopted “unbun-
+dling” policies designed to promote competition.  E.g.,
+Second Computer Inquiry, 77 F.C.C.2d 384, 443-444 (1980),
+aff ’d, Computer II, supra; see also Bell Atlantic Tel. Cos.
+v. FCC, 24 F.3d 1441, 1443, 1444 (D.C. Cir. 1994);
+California v. FCC, 4 F.3d 1505, 1509 (9th Cir. 1993); North-
+ern Natural Gas Co. v. FERC, 929 F.2d 1261, 1263 (8th
+Cir.), cert. denied, 502 U.S. 856 (1991).  That meaning, and
+not the court of appeals’ interpretation, also represents
+the consistent dictionary definition of “unbundle.”  See,
+e.g., The Random House Dictionary of the English Lan-
+guage 2055 (2d ed. 1987) (“to separate the charges for
+
+
+45
+(related products or services usually offered as a pack-
+age)”); Webster’s Ninth New Collegiate Dictionary 1283
+(1986) (“to give separate prices for equipment and support-
+ing services”).  In promulgating Rule 315(b), the Commis-
+sion reasonably determined that Congress intended to in-
+corporate the established meaning of “unbundled” when it
+included that industry term in the text of Section
+251(c)(3).  See McDermott Int’l, Inc. v. Wilander, 498 U.S.
+337, 342 (1991).
+Second, the Eighth Circuit’s premise that “unbundled”
+means “disconnected” misapprehends the technical reality
+of the telephone network.  Some network elements—such
+as the signalling systems that help to route calls—are
+“shared” by all users of the network, rather than (like
+loops) “dedicated” to particular users.  The Eighth Circuit
+elsewhere recognized that a signalling system is a
+“network element” under the Act (see Pet. App. 44a) and
+that new entrants may therefore gain “access” to that
+element “on an unbundled basis.”  47 U.S.C. 251(c)(3).  But
+it would make no sense for an incumbent LEC to provide
+such access by disconnecting the signalling system from
+other network elements, because, among other things,
+that would disrupt service to all users of the network.
+Congress obviously did not equate “unbundled” with
+“disconnected” in that context, and it would be illogical to
+suppose that, using the same language, it did mean to
+equate those concepts in other contexts.
+Third, the Eighth Circuit’s interpretation of Section
+251(c)(3) is, in several respects, unsound as a matter of
+grammar.  The court reasoned that an incumbent LEC’s
+“duty to provide” access to elements “on an unbundled
+basis,” along with its duty to provide them in a “manner
+that allows requesting carriers to combine such ele-
+ments,” somehow encompasses a right (though presumably
+not, in the court’s view, a duty) to disconnect those ele-
+ments for the sole purpose of imposing costs on the LEC’s
+
+
+46
+competitors.  Pet. App. 71a.  But a “duty” is an obligation,
+not a right, and the grammatical implication of the Eighth
+Circuit’s construction (which no party has embraced) is
+that incumbent LECs must provide access to network ele-
+ments, including shared facilities, only on a disconnected
+basis.  Congress did not create such a bizarre duty.  Simi-
+larly, there is no textual basis for construing a provision
+governing what an incumbent LEC must “allow” new en-
+trants to do as an entitlement to compel new entrants to
+incur gratuitous costs.
+Finally, and most important, the Eighth Circuit’s in-
+terpretation of Section 251(c)(3) simply ignores that provi-
+sion’s nondiscrimination mandate.  The language upon
+which the court principally relied—the clause directing
+incumbent LECs to provide elements “in a manner that
+allows requesting carriers to combine such elements”—
+appears in the second sentence of Section 251(c)(3) and
+augments a requesting carrier’s more general rights un-
+der the first sentence of that provision.  Among those gen-
+eral rights is “nondiscriminatory access to network ele-
+ments.”  It is the essence of discrimination for a telephone
+monopolist to impose gratuitous disassembly and reas-
+sembly charges on new entrants that it would not impose
+upon itself in any analogous circumstance (for example,
+when setting up service for its own customers) or to im-
+pose such charges for the purpose of raising a potential
+competitor’s costs of entry into the monopolist’s market.
+Cf. Aspen Skiing Co. v. Aspen Highlands Skiing Corp.,
+472 U.S. 585 (1985).  Yet that is precisely the anticompeti-
+tive tactic that the Commission sought to foreclose, see
+Third Order on Reconsideration, ¶ 44 (J.A. 247-248); Pet.
+App. 231a-232a, 293a, and that respondents have now
+pursued throughout the United States.  Through its mis-
+interpretation of Section 251(c)(3), the court of appeals has
+converted one of the 1996 Act’s most important pro-
+
+
+47
+competitive tools into a statutory authorization of anti-
+competitive conduct.
+B. There 
+is 
+no 
+merit 
+to 
+the 
+Eighth 
+Circuit’s
+unelaborated policy concern (Pet. App. 71a) that “[t]o
+permit  *  *  *  acquisition of already combined elements at
+cost based rates” would “obliterate” Congress’s “careful
+distinctions” between unbundled elements and resale as
+methods for competitive entry.  The court evidently
+deemed it appropriate for incumbent LECs to raise the
+costs of unbundled elements simply to make access to
+those elements a less attractive entry option than resale
+rights under Section 251(c)(4). In their cross-petitions for
+certiorari, which this Court granted and consolidated with
+the rest of this case, the respondent LECs relied princi-
+pally on that and related policy concerns to challenge a
+variety of other unbundling rules that the Eighth Circuit
+upheld.  In essence, respondents argue that it is necessary
+to read one antitextual limitation or another into Section
+251(c)(3) to limit the competitive significance of unbundled
+elements as an option.
+We will address that argument in more detail in our re-
+sponse to respondents’ opening brief on the issues pre-
+sented in their cross-petitions.  Two points are appropri-
+ate here.  First, Congress intended both the Commission
+and the federal courts to apply Sections 251(c)(3) and
+251(c)(4) by their plain terms, not to create arbitrary limi-
+tations on the applicability of one to increase the commer-
+cial attractiveness of the other.  Second, as the Commis-
+sion explained, resale and unbundled elements are in fact
+two quite distinct means of entering local markets, each
+with its own advantages and disadvantages, which vary
+with a particular carrier’s circumstances, overall entry
+strategies, and willingness to incur investment risks.  See
+Pet. App. 244a-246a; Third Order on Reconsideration, ¶ 47
+(J.A. 248-249).  Rule 315(b) poses no danger of “oblit-
+erat[ing]” the distinction between those two options, and
+
+
+48
+the Eighth Circuit had no basis for misreading Section
+251(c)(3) to fine-tune the economics of local competition.
+In any event, even if it were plausible to construe Sec-
+tion 251(c)(3) as the Eighth Circuit did in invalidating
+Rule 315(b), the Commission’s contrary interpretation
+is—at a minimum—reasonable and entitled to deference.
+See Chevron, 467 U.S. at 843-844.  Indeed, the need for
+such deference in this technical context is particularly
+acute.  The Commission is uniquely well-equipped both to
+interpret what Congress meant by the term “unbundle”
+and to understand the potential competitive and technical
+effects of the various interpretations of Section 251(c)(3).
+The Eighth Circuit erred in substituting its own specula-
+tions for the Commission’s institutional expertise.
+III. THE COMMISSION’S INTERPRETATION OF
+SECTION 252(i) IS REASONABLE
+Section 252(i) requires each LEC to “make available any
+interconnection, service, or network element provided un-
+der an agreement approved under this section to which it
+is a party to any other requesting telecommunications
+carrier upon the same terms and conditions as those pro-
+vided in the agreement.”  47 U.S.C. 252(i).  The Commis-
+sion interpreted that nondiscrimination requirement to
+mean exactly what it says: that a new entrant is entitled,
+on the same terms and conditions as any other new en-
+trant, to “any interconnection, service, or network ele-
+ment provided under an [existing] agreement” without
+also having to accept all other terms of that agreement.
+Pet. App. 261a-268a.15
+                                                
+15
+As a protection for incumbent LECs, the Commission provided
+that a requesting carrier may invoke that right only if (1) it agrees to
+the terms and conditions of the existing agreement relating to the
+particular service or element it wishes to purchase, and (2) the
+incumbent’s provision of the service or element on those terms and
+
+
+49
+The court of appeals “acknowledge[d] that the words [of
+the statute] could indicate that the FCC’s approach was
+intended by Congress.”  Pet. App. 25a n.22.  It nonetheless
+invalidated the Commission’s interpretation and instead
+construed Section 252(i) to force potential entrants to ac-
+cept an existing agreement on an all-or-nothing basis,
+because it feared that a literal approach would “discourage
+the give-and-take process that is essential to successful
+negotiations.”  Id. at 26a.
+The court of appeals had no valid basis for supplanting
+the will of Congress with its own policy concern.  As the
+legislative history of Section 252(i) suggests,16 and as the
+provision’s plain language confirms, Congress believed
+that giving requesting carriers a right to select “any” ele-
+ment or service on the same terms and conditions as con-
+tained in a preexisting agreement is a necessary means of
+ensuring full and nondiscriminatory competition in local
+telephone markets.  Moreover, even if Congress had left
+some ambiguity on that point, the Commission’s inter-
+pretation was at least reasonable, and the court of appeals
+had no basis for supplanting that interpretation with its
+own policy speculation.  See Chevron, supra. Indeed, the
+court’s approach threatens to undermine any role for
+Section 252(i) in many negotiations, because it creates an
+incentive for incumbent LECs to include extraneous
+terms in their contracts to ensure that any given agree-
+ment, taken as a whole, will be unpalatable to future would-
+be competitors.
+                                                
+conditions would subject it to costs no greater than those it incurred
+under the existing agreement.  Pet. App. 264a-265a, 336a-337a.
+16
+See S. Rep. No. 23, 104th Cong., 1st Sess. 21-22 (1995) (Congress
+intended earlier version of Section 252(i) to “prevent discrimination
+among carriers and to make interconnection more efficient by making
+available to other carriers the individual elements of agreements that
+have been previously negotiated”).
+
+
+50
+The court belittled that concern on the theory that
+“incumbent LECs have as much interest in avoiding the
+costs of prolonged negotiations or arbitrations as do the
+requesting carriers, which gives the incumbent LECs an
+incentive to negotiate initial agreements that would be ac-
+ceptable to a wide range of later requesting carriers.”
+Pet. App. 27a.  That reasoning is invalid on its face. In-
+cumbent monopolists benefit enormously from any delay in
+opening their markets to competition, and they will of
+course prefer “the costs of prolonged negotiations” to the
+rapid erosion of their monopoly market shares.  Contrary
+to the court of appeals’ holding, both Congress and the
+Commission were entitled to act on that economic prem-
+ise.
+ CONCLUSION
+The judgment of the court of appeals should be reversed
+as discussed above and the case remanded for further
+proceedings.
+Respectfully submitted.
+CHRISTOPHER J. WRIGHT
+General Counsel
+JOHN E. INGLE
+Deputy Associate General
+Counsel
+LAURENCE N. BOURNE
+JAMES M. CARR
+AARON J. RAPPAPORT
+Counsel
+Federal Communications
+Commission
+SETH P. WAXMAN
+Solicitor General
+JOEL I. KLEIN
+Assistant Attorney General
+LAWRENCE G. WALLACE
+Deputy Solicitor General
+JONATHAN E. NUECHTERLEIN
+Assistant to the Solicitor
+  General
+CATHERINE G. O’SULLIVAN
+ROBERT B. NICHOLSON
+NANCY C. GARRISON
+Attorneys
+APRIL 1998

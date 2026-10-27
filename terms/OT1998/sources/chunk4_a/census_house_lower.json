@@ -1,0 +1,2357 @@
+{
+  "id": 11684265,
+  "name": "UNITED STATES HOUSE OF REPRESENTATIVES, Plaintiff, v. UNITED STATES DEPARTMENT OF COMMERCE, et al., Defendants, and Richard A. Gephardt, et al.; Legislature of the State of California, et al.; City of Los Angeles, et al.; National Korean American Service & Education Consortium, Inc., et al., Intervenor-Defendants",
+  "name_abbreviation": "United States House of Representatives v. United States Department of Commerce",
+  "decision_date": "1998-08-24",
+  "docket_number": "No. Civ.A. 98-0456",
+  "first_page": "76",
+  "last_page": "104",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "11 F. Supp. 2d 76"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "D.D.C.",
+    "id": 9000,
+    "name": "United States District Court for the District of Columbia"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "463 U.S. 29",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6190630
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "42"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0029-01"
+      ]
+    },
+    {
+      "cite": "500 U.S. 173",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6220676
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "187",
+          "parenthetical": "quoting Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U.S. 29, 42, 103 S.Ct. 2856, 77 L.Ed.2d 443 (1983)"
+        },
+        {
+          "parenthetical": "quoting Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U.S. 29, 42, 103 S.Ct. 2856, 77 L.Ed.2d 443 (1983)"
+        },
+        {
+          "parenthetical": "quoting Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U.S. 29, 42, 103 S.Ct. 2856, 77 L.Ed.2d 443 (1983)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/500/0173-01"
+      ]
+    },
+    {
+      "cite": "512 U.S. 504",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        39585
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "515",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0504-01"
+      ]
+    },
+    {
+      "cite": "467 U.S. 837",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6209106
+      ],
+      "weight": 5,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "842-44"
+        },
+        {
+          "page": "842"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/467/0837-01"
+      ]
+    },
+    {
+      "cite": "94 Mich.L.Rev. 1098",
+      "category": "journals:journal",
+      "reporter": "Mich. L. Rev.",
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "1102",
+          "parenthetical": "documenting the increase in the African-American undercount since 1940"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "958 F.2d 1411",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523575
+      ],
+      "pin_cites": [
+        {
+          "page": "1412-13"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/958/1411-01"
+      ]
+    },
+    {
+      "cite": "4 F.3d 1367",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11940442
+      ],
+      "pin_cites": [
+        {
+          "page": "1371"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/4/1367-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. 175",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8288441
+      ],
+      "weight": 3,
+      "year": 1909,
+      "pin_cites": [
+        {
+          "page": "193",
+          "parenthetical": "\"Where a case in this court can be decided without reference to questions arising under the Federal Constitution, that course is usually pursued and not departed from without important reasons.\""
+        },
+        {
+          "parenthetical": "\"Where a case in this court can be decided without reference to questions arising under the Federal Constitution, that course is usually pursued and not departed from without important reasons.\""
+        },
+        {
+          "parenthetical": "\"Where a case in this court can be decided without reference to questions arising under the Federal Constitution, that course is usually pursued and not departed from without important reasons.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/213/0175-01"
+      ]
+    },
+    {
+      "cite": "297 U.S. 288",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3929479
+      ],
+      "weight": 3,
+      "year": 1936,
+      "pin_cites": [
+        {
+          "page": "347",
+          "parenthetical": "Brandeis, J., concurring"
+        },
+        {
+          "parenthetical": "Brandeis, J., concurring"
+        },
+        {
+          "parenthetical": "Brandeis, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/297/0288-01"
+      ]
+    },
+    {
+      "cite": "323 U.S. 101",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1229739
+      ],
+      "weight": 3,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/323/0101-01"
+      ]
+    },
+    {
+      "cite": "45 Fed. Reg. 66,372",
+      "category": "reporters:federal",
+      "reporter": "Fed. Reg.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "71 Stat. 484",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "year": 1957,
+      "pin_cites": [
+        {
+          "parenthetical": "Section 195"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "90 Stat. 2459",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "285 U.S. 204",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1175242
+      ],
+      "weight": 3,
+      "year": 1932,
+      "pin_cites": [
+        {
+          "page": "208"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/285/0204-01"
+      ]
+    },
+    {
+      "cite": "322 U.S. 102",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6142171
+      ],
+      "weight": 3,
+      "year": 1944,
+      "pin_cites": [
+        {
+          "page": "107"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/322/0102-01"
+      ]
+    },
+    {
+      "cite": "353 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6160256
+      ],
+      "weight": 3,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "228-29",
+          "parenthetical": "quoting MacEvoy Co. v. United States, 322 U.S. 102, 107, 64 S.Ct. 890, 88 L.Ed. 1163 (1944)"
+        },
+        {
+          "parenthetical": "quoting MacEvoy Co. v. United States, 322 U.S. 102, 107, 64 S.Ct. 890, 88 L.Ed. 1163 (1944)"
+        },
+        {
+          "parenthetical": "quoting MacEvoy Co. v. United States, 322 U.S. 102, 107, 64 S.Ct. 890, 88 L.Ed. 1163 (1944)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/353/0222-01"
+      ]
+    },
+    {
+      "cite": "482 U.S. 437",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215529
+      ],
+      "weight": 3,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "445"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/482/0437-01"
+      ]
+    },
+    {
+      "cite": "511 U.S. 244",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1147362
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "262",
+          "parenthetical": "\"[Pjetitioner's statutory argument would require us to assume that Congress chose a surprisingly indirect route to convey an important and easily expressed message.\""
+        },
+        {
+          "parenthetical": "\"[Pjetitioner's statutory argument would require us to assume that Congress chose a surprisingly indirect route to convey an important and easily expressed message.\""
+        },
+        {
+          "parenthetical": "\"[Pjetitioner's statutory argument would require us to assume that Congress chose a surprisingly indirect route to convey an important and easily expressed message.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/511/0244-01"
+      ]
+    },
+    {
+      "cite": "924 F.2d 282",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3488854,
+        10542487
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "289"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/288/0038-01",
+        "/f2d/924/0282-01"
+      ]
+    },
+    {
+      "cite": "404 U.S. 336",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173129
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "349"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/404/0336-01"
+      ]
+    },
+    {
+      "cite": "446 U.S. 578",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6185662
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/446/0578-01"
+      ]
+    },
+    {
+      "cite": "772 F.2d 940",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3602173,
+        306669
+      ],
+      "pin_cites": [
+        {
+          "page": "944"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/249/0022-01",
+        "/f2d/772/0940-01"
+      ]
+    },
+    {
+      "cite": "112 S.Ct. 1146",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6513849,
+        6225793
+      ],
+      "weight": 2,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "parenthetical": "Stevens, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/br/136/1146-01",
+        "/us/503/0249-01"
+      ]
+    },
+    {
+      "cite": "503 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6225793
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "255",
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "parenthetical": "Stevens, J., concurring"
+        },
+        {
+          "page": "255"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/503/0249-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 380",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107846
+      ],
+      "weight": 5,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "896"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0380-01"
+      ]
+    },
+    {
+      "cite": "213 U.S. 366",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8289641
+      ],
+      "weight": 3,
+      "year": 1909,
+      "pin_cites": [
+        {
+          "page": "408"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/213/0366-01"
+      ]
+    },
+    {
+      "cite": "513 U.S. 64",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1332234
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "69"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/513/0064-01"
+      ]
+    },
+    {
+      "cite": "485 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        14057
+      ],
+      "weight": 3,
+      "year": 1988,
+      "pin_cites": [
+        {
+          "page": "575"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/485/0568-01"
+      ]
+    },
+    {
+      "cite": "490 U.S. 504",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        605256
+      ],
+      "weight": 5,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "521"
+        },
+        {
+          "page": "524"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/490/0504-01"
+      ]
+    },
+    {
+      "cite": "71 Stat. 481",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "652 F.2d 617",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1251638
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/652/0617-01"
+      ]
+    },
+    {
+      "cite": "497 F.Supp. 1318",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4167292
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/497/1318-01"
+      ]
+    },
+    {
+      "cite": "503 F.Supp. 663",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        4181237
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "679"
+        },
+        {
+          "page": "679",
+          "parenthetical": "\"Thus, although the Bureau is not required to make statistical adjustments, it is not expressly prohibited from doing so.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/503/0663-01"
+      ]
+    },
+    {
+      "cite": "508 F.Supp. 404",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        5559005
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "415"
+        },
+        {
+          "page": "415"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/508/0404-01"
+      ]
+    },
+    {
+      "cite": "34 F.3d 1114",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10530600
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1124-25"
+        },
+        {
+          "page": "1125"
+        },
+        {
+          "page": "1124"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/34/1114-01"
+      ]
+    },
+    {
+      "cite": "13 U.S.C. \u00a7 195",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "n. 11"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 L.Ed. 60",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        12121622
+      ],
+      "year": 1803,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/5/0137-01"
+      ]
+    },
+    {
+      "cite": "2 U.S.C. \u00a7 27",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 U.S. 200",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715812
+      ],
+      "weight": 3,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "209",
+          "parenthetical": "permitting federal judges to sue to obtain a determination as to whether congressional action violated the Compensation Clause"
+        },
+        {
+          "parenthetical": "permitting federal judges to sue to obtain a determination as to whether congressional action violated the Compensation Clause"
+        },
+        {
+          "parenthetical": "permitting federal judges to sue to obtain a determination as to whether congressional action violated the Compensation Clause"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0200-01"
+      ]
+    },
+    {
+      "cite": "488 U.S. 361",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1494660
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "382",
+          "parenthetical": "noting the need for caution when the separate branches exceed the outer limits of their power"
+        },
+        {
+          "parenthetical": "noting the need for caution when the separate branches exceed the outer limits of their power"
+        },
+        {
+          "parenthetical": "noting the need for caution when the separate branches exceed the outer limits of their power"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/488/0361-01"
+      ]
+    },
+    {
+      "cite": "478 U.S. 714",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6212931
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "733-34",
+          "parenthetical": "\"[0]nee Congress makes its choice in enacting legislation, its participation ends. Congress can thereafter control the execution of its enactment only indirectly - by passing new legislation.\""
+        },
+        {
+          "parenthetical": "\"[0]nee Congress makes its choice in enacting legislation, its participation ends. Congress can thereafter control the execution of its enactment only indirectly - by passing new legislation.\""
+        },
+        {
+          "parenthetical": "\"[0]nee Congress makes its choice in enacting legislation, its participation ends. Congress can thereafter control the execution of its enactment only indirectly - by passing new legislation.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/478/0714-01"
+      ]
+    },
+    {
+      "cite": "276 U.S. 394",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3901603
+      ],
+      "weight": 3,
+      "year": 1928,
+      "pin_cites": [
+        {
+          "page": "406"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/276/0394-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 252",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107720
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "274",
+          "parenthetical": "\"[Congress] may not 'invest itself or its Members with either executive power or judicial power' \""
+        },
+        {
+          "parenthetical": "\"[Congress] may not 'invest itself or its Members with either executive power or judicial power' \""
+        },
+        {
+          "parenthetical": "\"[Congress] may not 'invest itself or its Members with either executive power or judicial power' \""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0252-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 919",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196077
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "963",
+          "parenthetical": "Powell, J. concurring"
+        },
+        {
+          "parenthetical": "Powell, J. concurring"
+        },
+        {
+          "parenthetical": "Powell, J. concurring"
+        },
+        {
+          "page": "958"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0919-01"
+      ]
+    },
+    {
+      "cite": "369 U.S. 186",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166554
+      ],
+      "weight": 3,
+      "year": 1962,
+      "pin_cites": [
+        {
+          "page": "217"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/369/0186-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 91",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780212
+      ],
+      "weight": 6,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "100",
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "parenthetical": "same"
+        },
+        {
+          "page": "100"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0091-01"
+      ]
+    },
+    {
+      "cite": "656 F.2d 873",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3518477,
+        1267855
+      ],
+      "pin_cites": [
+        {
+          "page": "881"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/211/0284-01",
+        "/f2d/656/0873-01"
+      ]
+    },
+    {
+      "cite": "699 F.2d 1166",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3641317,
+        1510606
+      ],
+      "pin_cites": [
+        {
+          "page": "1175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/226/0014-01",
+        "/f2d/699/1166-01"
+      ]
+    },
+    {
+      "cite": "98 L.Ed. 650",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "weight": 2,
+      "year": 1954,
+      "opinion_index": 0
+    },
+    {
+      "cite": "347 U.S. 222",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11300045
+      ],
+      "weight": 2,
+      "year": 1954,
+      "pin_cites": [
+        {
+          "page": "224"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/347/0222-01"
+      ]
+    },
+    {
+      "cite": "42 L.Ed.2d 320",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "95 S.Ct. 335",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1974,
+      "opinion_index": 0
+    },
+    {
+      "cite": "419 U.S. 102",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173696
+      ],
+      "weight": 2,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "143"
+        },
+        {
+          "page": "144"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0102-01"
+      ]
+    },
+    {
+      "cite": "46 L.Ed.2d 659",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Regional Rail Reorganization Act Cases, 419 U.S. 102, 143, 95 S.Ct. 335, 42 L.Ed.2d 320 (1974)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "96 S.Ct. 612",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "quoting Regional Rail Reorganization Act Cases, 419 U.S. 102, 143, 95 S.Ct. 335, 42 L.Ed.2d 320 (1974)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "424 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "weight": 4,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "114",
+          "parenthetical": "quoting Regional Rail Reorganization Act Cases, 419 U.S. 102, 143, 95 S.Ct. 335, 42 L.Ed.2d 320 (1974)"
+        },
+        {
+          "page": "138"
+        },
+        {
+          "page": "137-38"
+        },
+        {
+          "page": "138"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "477 U.S. 556",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210408
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "parenthetical": "vacating judgment of the district court because Congress amended the statute under consideration"
+        },
+        {
+          "parenthetical": "vacating judgment of the district court because Congress amended the statute under consideration"
+        },
+        {
+          "parenthetical": "vacating judgment of the district court because Congress amended the statute under consideration"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/477/0556-01"
+      ]
+    },
+    {
+      "cite": "5 U.S.C. \u00a7 704",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "505 U.S. 788",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1481206
+      ],
+      "weight": 24,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "792",
+          "parenthetical": "quoting 2 U.S.C. \u00a7 2a(a)"
+        },
+        {
+          "parenthetical": "quoting 2 U.S.C. \u00a7 2a(a)"
+        },
+        {
+          "parenthetical": "quoting 2 U.S.C. \u00a7 2a(a)"
+        },
+        {
+          "page": "795"
+        },
+        {
+          "page": "798-99"
+        },
+        {
+          "page": "797"
+        },
+        {
+          "page": "797"
+        },
+        {
+          "page": "797"
+        },
+        {
+          "page": "797"
+        },
+        {
+          "page": "797"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0788-01"
+      ]
+    },
+    {
+      "cite": "30 F.3d 156",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10523533,
+        3613605
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "163"
+        },
+        {
+          "page": "163"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/30/0156-01",
+        "/us-app-dc/308/0094-01"
+      ]
+    },
+    {
+      "cite": "473 U.S. 568",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6203715
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "580-81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/473/0568-01"
+      ]
+    },
+    {
+      "cite": "118 S.Ct. 1257",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11503533
+      ],
+      "weight": 7,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1259",
+          "parenthetical": "quoting Thomas v. Union Carbide Agric. Products Co., 473 U.S. 568, 580-81, 105 S.Ct. 3325, 87 L.Ed.2d 409 (1985)"
+        },
+        {
+          "parenthetical": "quoting Thomas v. Union Carbide Agric. Products Co., 473 U.S. 568, 580-81, 105 S.Ct. 3325, 87 L.Ed.2d 409 (1985)"
+        },
+        {
+          "page": "1259"
+        },
+        {
+          "page": "1259",
+          "parenthetical": "citation omitted"
+        },
+        {
+          "page": "1260"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/523/0296-01"
+      ]
+    },
+    {
+      "cite": "101 F.3d 1423",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7643984,
+        3697996
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "1427"
+        },
+        {
+          "page": "1430"
+        },
+        {
+          "page": "1431"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/101/1423-01",
+        "/us-app-dc/322/0135-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480961
+      ],
+      "weight": 5,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "175"
+        },
+        {
+          "page": "175"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0144-01"
+      ]
+    },
+    {
+      "cite": "262 U.S. 553",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6143168
+      ],
+      "weight": 3,
+      "year": 1923,
+      "pin_cites": [
+        {
+          "page": "593"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/262/0553-01"
+      ]
+    },
+    {
+      "cite": "430 U.S. 99",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12121882
+      ],
+      "weight": 3,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "105"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/430/0099-01"
+      ]
+    },
+    {
+      "cite": "387 U.S. 136",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11335008
+      ],
+      "weight": 9,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "148"
+        },
+        {
+          "page": "148"
+        },
+        {
+          "page": "148-49"
+        },
+        {
+          "page": "149"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/387/0136-01"
+      ]
+    },
+    {
+      "cite": "438 U.S. 59",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1769192
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "81"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/438/0059-01"
+      ]
+    },
+    {
+      "cite": "307 U.S. 433",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6140539
+      ],
+      "weight": 3,
+      "year": 1939,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/307/0433-01"
+      ]
+    },
+    {
+      "cite": "845 F.2d 1035",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10549072,
+        4333832
+      ],
+      "pin_cites": [
+        {
+          "page": "1039"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/845/1035-01",
+        "/us-app-dc/269/0290-01"
+      ]
+    },
+    {
+      "cite": "97 L.Ed. 1586",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1953,
+      "opinion_index": 0
+    },
+    {
+      "cite": "346 U.S. 249",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6930926
+      ],
+      "weight": 2,
+      "year": 1953,
+      "pin_cites": [
+        {
+          "page": "257-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/346/0249-01"
+      ]
+    },
+    {
+      "cite": "144 F.3d 798",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        3714192,
+        1306569
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "803"
+        },
+        {
+          "page": "803"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/330/0155-01",
+        "/f3d/144/0798-01"
+      ]
+    },
+    {
+      "cite": "418 U.S. 166",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172278
+      ],
+      "weight": 3,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "179",
+          "parenthetical": "noting that \"the absence of any particular individual or class to litigate these claims gives support to the argument that the subject matter is committed to the surveillance of Congress, and ultimately to the political process\""
+        },
+        {
+          "parenthetical": "noting that \"the absence of any particular individual or class to litigate these claims gives support to the argument that the subject matter is committed to the surveillance of Congress, and ultimately to the political process\""
+        },
+        {
+          "parenthetical": "noting that \"the absence of any particular individual or class to litigate these claims gives support to the argument that the subject matter is committed to the surveillance of Congress, and ultimately to the political process\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0166-01"
+      ]
+    },
+    {
+      "cite": "5 L.Ed. 242",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "case_ids": [
+        11729899
+      ],
+      "year": 1821,
+      "pin_cites": [
+        {
+          "parenthetical": "\"[A]nd although the legislative power continues perpetual, the legislative body ceases to exist, on the moment of its adjournment or periodical dissolution. It follows, that imprisonment must terminate with that adjournment.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/19/0204-01"
+      ]
+    },
+    {
+      "cite": "384 U.S. 702",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12046988
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "parenthetical": "noting that \"[njeither the House of Representatives nor its committees are continuing bodies\""
+        },
+        {
+          "parenthetical": "noting that \"[njeither the House of Representatives nor its committees are continuing bodies\""
+        },
+        {
+          "parenthetical": "noting that \"[njeither the House of Representatives nor its committees are continuing bodies\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/384/0702-01"
+      ]
+    },
+    {
+      "cite": "421 U.S. 491",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        541167
+      ],
+      "weight": 3,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "512"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/421/0491-01"
+      ]
+    },
+    {
+      "cite": "381 U.S. 415",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170915
+      ],
+      "weight": 3,
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/381/0415-01"
+      ]
+    },
+    {
+      "cite": "241 F.Supp. 576",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        385300
+      ],
+      "pin_cites": [
+        {
+          "page": "579"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/241/0576-01"
+      ]
+    },
+    {
+      "cite": "406 U.S. 187",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170039
+      ],
+      "weight": 7,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "193"
+        },
+        {
+          "page": "194"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/406/0187-01"
+      ]
+    },
+    {
+      "cite": "395 U.S. 486",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1772164
+      ],
+      "weight": 6,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "548",
+          "parenthetical": "\"Unquestionably, Congress has an interest in preserving its institutional integrity.\""
+        },
+        {
+          "parenthetical": "\"Unquestionably, Congress has an interest in preserving its institutional integrity.\""
+        },
+        {
+          "parenthetical": "\"Unquestionably, Congress has an interest in preserving its institutional integrity.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/395/0486-01"
+      ]
+    },
+    {
+      "cite": "279 U.S. 597",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        3907213
+      ],
+      "weight": 7,
+      "year": 1929,
+      "pin_cites": [
+        {
+          "page": "613, 616"
+        },
+        {
+          "page": "616"
+        },
+        {
+          "page": "618-19"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/279/0597-01"
+      ]
+    },
+    {
+      "cite": "498 F.2d 725",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3681739,
+        169479
+      ],
+      "pin_cites": [
+        {
+          "page": "727"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/162/0183-01",
+        "/f2d/498/0725-01"
+      ]
+    },
+    {
+      "cite": "655 F.2d 1232",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1262184,
+        3518559
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/655/1232-01",
+        "/us-app-dc/211/0002-01"
+      ]
+    },
+    {
+      "cite": "551 F.2d 384",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        980393,
+        3524087
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "385"
+        },
+        {
+          "page": "391",
+          "parenthetical": "emphasis added"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/551/0384-01",
+        "/us-app-dc/179/0198-01"
+      ]
+    },
+    {
+      "cite": "273 U.S. 135",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6138832
+      ],
+      "weight": 7,
+      "year": 1927,
+      "pin_cites": [
+        {
+          "page": "175"
+        },
+        {
+          "page": "181"
+        },
+        {
+          "page": "174"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/273/0135-01"
+      ]
+    },
+    {
+      "cite": "455 U.S. 363",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11305645
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "373-74"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/455/0363-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6215707
+      ],
+      "weight": 6,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "449"
+        },
+        {
+          "page": "466",
+          "parenthetical": "quoting Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Construction Trades Council, 485 U.S. 568, 575, 108 S.Ct. 1392, 99 L.Ed.2d 645 (1988)"
+        },
+        {
+          "parenthetical": "quoting Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Construction Trades Council, 485 U.S. 568, 575, 108 S.Ct. 1392, 99 L.Ed.2d 645 (1988)"
+        },
+        {
+          "parenthetical": "quoting Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Construction Trades Council, 485 U.S. 568, 575, 108 S.Ct. 1392, 99 L.Ed.2d 645 (1988)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0440-01"
+      ]
+    },
+    {
+      "cite": "2 U.S.C. \u00a7 431",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1782-83"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "118 S.Ct. 1777",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11181205
+      ],
+      "weight": 6,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "1784"
+        },
+        {
+          "page": "1791",
+          "parenthetical": "Scalia, J., dissenting"
+        },
+        {
+          "page": "1783-84"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/524/0011-01"
+      ]
+    },
+    {
+      "cite": "454 U.S. 464",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189548
+      ],
+      "weight": 4,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "475",
+          "parenthetical": "noting that the court should refrain from adjudicating questions of wide public significance that amount to generalized grievances"
+        },
+        {
+          "parenthetical": "noting that the court should refrain from adjudicating questions of wide public significance that amount to generalized grievances"
+        },
+        {
+          "parenthetical": "noting that the court should refrain from adjudicating questions of wide public significance that amount to generalized grievances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/454/0464-01"
+      ]
+    },
+    {
+      "cite": "493 U.S. 215",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11331158
+      ],
+      "weight": 3,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/493/0215-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 154",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11651295
+      ],
+      "weight": 6,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "parenthetical": "citing Lujan, 504 U.S. at 560-61, 112 S.Ct. 2130 (footnotes, citations and internal quotations omitted)"
+        },
+        {
+          "page": "1163",
+          "parenthetical": "citing Lujan, 504 U.S. at 560-61, 112 S.Ct. 2130 (footnotes, citations and internal quotations omitted)"
+        },
+        {
+          "parenthetical": "citing Lujan, 504 U.S. at 560-61, 112 S.Ct. 2130 (footnotes, citations and internal quotations omitted)"
+        },
+        {
+          "page": "1163"
+        },
+        {
+          "page": "1162-63",
+          "parenthetical": "noting that a jurisdictional statute expands standing to the full extent allowed under Article III"
+        },
+        {
+          "page": "1166",
+          "parenthetical": "\"[i]t is our duty 'to give effect, if possible, to every clause and word of a statute' ... rather than to emasculate an entire section\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0154-01"
+      ]
+    },
+    {
+      "cite": "117 S.Ct. 2312",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        915902
+      ],
+      "weight": 12,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "2317",
+          "parenthetical": "quoting Warth, 422 U.S. at 500, 95 S.Ct. 2197"
+        },
+        {
+          "parenthetical": "quoting Warth, 422 U.S. at 500, 95 S.Ct. 2197"
+        },
+        {
+          "page": "2317-18",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "page": "2322"
+        },
+        {
+          "page": "2322"
+        },
+        {
+          "page": "2318"
+        },
+        {
+          "page": "2322"
+        },
+        {
+          "page": "2325",
+          "parenthetical": "Souter, J., concurring"
+        },
+        {
+          "page": "2318"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0811-01"
+      ]
+    },
+    {
+      "cite": "504 U.S. 555",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11730070
+      ],
+      "weight": 21,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "560"
+        },
+        {
+          "page": "560-61"
+        },
+        {
+          "page": "560-61"
+        },
+        {
+          "page": "561"
+        },
+        {
+          "page": "561"
+        },
+        {
+          "page": "560"
+        },
+        {
+          "page": "560"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/504/0555-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 737",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11340114
+      ],
+      "weight": 7,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "750"
+        },
+        {
+          "page": "752"
+        },
+        {
+          "page": "755-56"
+        },
+        {
+          "parenthetical": "noting that the court should refrain from adjudicating questions of wide public significance that amount to generalized grievances"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0737-01"
+      ]
+    },
+    {
+      "cite": "495 U.S. 149",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        633773
+      ],
+      "weight": 9,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "155",
+          "parenthetical": "noting that the standing inquiry \"in no way depends upon the merits\""
+        },
+        {
+          "parenthetical": "noting that the standing inquiry \"in no way depends upon the merits\""
+        },
+        {
+          "parenthetical": "noting that the standing inquiry \"in no way depends upon the merits\""
+        },
+        {
+          "page": "158"
+        },
+        {
+          "page": "163"
+        },
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/495/0149-01"
+      ]
+    },
+    {
+      "cite": "62 L.Ed.2d 428",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "Powell, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "100 S.Ct. 533",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "parenthetical": "Powell, J., concurring"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "444 U.S. 996",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11422241,
+        11422319,
+        11422416,
+        11422516,
+        11422650,
+        11422463
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "997",
+          "parenthetical": "Powell, J., concurring"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/444/0996-01",
+        "/us/444/0996-02",
+        "/us/444/0996-03",
+        "/us/444/0996-05",
+        "/us/444/0996-06",
+        "/us/444/0996-04"
+      ]
+    },
+    {
+      "cite": "617 F.2d 697",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3787237,
+        1386919
+      ],
+      "pin_cites": [
+        {
+          "page": "701-02"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/199/0115-01",
+        "/f2d/617/0697-01"
+      ]
+    },
+    {
+      "cite": "697 F.2d 303",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3639721,
+        1502591
+      ],
+      "pin_cites": [
+        {
+          "page": "305"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/225/0061-01",
+        "/f2d/697/0303-01"
+      ]
+    },
+    {
+      "cite": "733 F.2d 946",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        574432,
+        3798019
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "950"
+        },
+        {
+          "page": "955",
+          "parenthetical": "noting the need for flexibility in congressional suits to address separation of powers concerns"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/733/0946-01",
+        "/us-app-dc/236/0115-01"
+      ]
+    },
+    {
+      "cite": "422 U.S. 490",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9528
+      ],
+      "weight": 13,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "501"
+        },
+        {
+          "page": "500"
+        },
+        {
+          "page": "508"
+        },
+        {
+          "page": "499"
+        },
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/422/0490-01"
+      ]
+    },
+    {
+      "cite": "111 Stat. 2440",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "111 Stat. 158",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "13 U.S.C. \u00a7 141",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "(a)"
+        },
+        {
+          "page": "(g)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 Stat. 635",
+      "category": "laws:leg_session",
+      "reporter": "Stat.",
+      "weight": 2,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "parenthetical": "quoted in Census 2000 Report at 6"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "412 U.S. 735",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175416
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/412/0735-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 725",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6193706
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "732"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0725-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11744021
+      ],
+      "weight": 21,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "5"
+        },
+        {
+          "page": "19"
+        },
+        {
+          "page": "6"
+        },
+        {
+          "page": "8-9"
+        },
+        {
+          "page": "18-19, 24"
+        },
+        {
+          "page": "11"
+        },
+        {
+          "page": "7"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0001-01"
+      ]
+    },
+    {
+      "cite": "13 U.S.C. \u00a7 1",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "et seq."
+        }
+      ],
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 3415,
+    "char_count": 117835,
+    "ocr_confidence": 0.67,
+    "pagerank": {
+      "raw": 1.3916363042456163e-07,
+      "percentile": 0.6429162472406692
+    },
+    "sha256": "8fa740cb3df88b99e6948577927ec0a359998faf09f0a803b64aa63dfb8e7857",
+    "simhash": "1:7ed4be12696a05ff",
+    "word_count": 18525
+  },
+  "last_updated": "2024-02-27T20:52:37.768479+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "GINSBURG, Circuit Judge, and URBINA, J., concur."
+    ],
+    "parties": [
+      "UNITED STATES HOUSE OF REPRESENTATIVES, Plaintiff, v. UNITED STATES DEPARTMENT OF COMMERCE, et al., Defendants, and Richard A. Gephardt, et al.; Legislature of the State of California, et al.; City of Los Angeles, et al.; National Korean American Service & Education Consortium, Inc., et al., Intervenor-Defendants."
+    ],
+    "opinions": [
+      {
+        "text": "MEMORANDUM OPINION\nLAMBERTH, District Judge.\nPlaintiff, the United States House of Representatives, seeks summary judgment against the Department of Commerce and the Bureau of the Census (\u201cdefendants\u201d) in this action challenging defendants\u2019 plan for the 2000 census. Plaintiff claims that using statistical sampling to supplement the headcount enumeration used to apportion representatives among the states violates the Census Act, 13 U.S.C. \u00a7 1 e\u00ed seq., and Article I, section 2, clause 3 of the Constitution. The House seeks a declaration that statistical sampling is unlawful and/or unconstitutional and an injunction preventing defendants from using statistical sampling in the 2000 census.\nNow before the court are defendants\u2019 and intervenor-defendants\u2019 motions to dismiss plaintiffs complaint pursuant to Rules 12(b)(1) and (6) of the Federal Rules of Civil Procedure, and plaintiffs motion for summary judgment pursuant to Federal Rule of Civil Procedure 56. For the reasons stated below, the motions to dismiss will be denied and plaintiff\u2019s motion for summary judgment will be granted.\nI. BACKGROUND\nThe Constitution requires Congress to conduct an \u201cactual Enumeration\u201d of the population every tan years \u201cin such Manner as they shall by Law direct.\u201d U.S. Const, art. I, \u00a7 2, cl. 3; see Wisconsin v. City of New York, 517 U.S. 1, 5, 116 S.Ct. 1091, 134 L.Ed.2d 167 (1996). Congress has delegated broad authority over the conduct of the census to the Secretary of Commerce through the Census Act. See 13 U.S.C. \u00a7 1 et seq.; see also Wisconsin, 517 U.S. at 19, 116 S.Ct. 1091. The Census Act governs the Census Bureau\u2019s (the \u201cBureau\u201d) gathering of economic, social and'demographic data about the United States, including the decennial apportionment census mandated by the Constitution.\nDespite the constitutional mandate to obtain an \u201cactual enumeration\u201d of the population, \u201cno census is recognized as having been wholly successful in achieving that goal.\u201d Wisconsin, 517 U.S. at 6, 116 S.Ct. 1091 (citing Karcher v. Daggett, 462 U.S. 725, 732, 103 S.Ct. 2653, 77 L.Ed.2d 133 (1983); Gaffney v. Cummings, 412 U.S. 735, 745, 93 S.Ct. 2321, 37 L.Ed.2d 298 (1973)). The 1990 census was no exception. According to the Bureau, \u201c[tjhough better designed and executed than any previous census, the Census in 1990 took a step backward on the fundamental issue of accuracy. For the first time since the Census Bureau began conducting post-census evaluations in 1940, the decennial census was less accurate than its predecessor. ... the undercount rate of 1.8 percent in 1990 was 50 percent greater than the rate had been in 1980.\u201d United States Department of Commerce, Bureau of the Census, Report to the Congress \u2014 The Plan for Census 2000, at 2 (revised August 1997) (\u201cCensus 2000 Report\u201d). Specifically, the Bureau reports that children, renters (particularly in rural areas), and racial and ethnic minorities were significantly undercounted. Among those the 1990 census missed were 4.4% of African-Americans, 5.0% of Hispanics, and 12.2% of American Indians living on reservations, but only 0.7% of Non-Hispanie Whites. See Census 2000 Report at 3-4. This under-counting of certain groups relative to others, known as the \u201cdifferential undercount,\u201d raises the possibility of congressional malappor-tionment, as jurisdictions with large numbers of undercounted persons may have a greater share of the total, population than the census figures suggest.\nConcerned about problems with the 1990 census, Congress passed the Decennial Census Improvement Act of 1991, P.L. 102-135, 105 Stat. 635 (1991), which directed the National Academy of Sciences to study \u201cthe means by .which the Government could achieve the most accurate population count possible,\u201d including consideration of \u201cthe appropriateness of using sampling methods in combination with basic data-collection techniques.\u201d Id. (quoted in Census 2000 Report at 6). The National Academy established three panels to develop a means to achieve greater accuracy for the 2000 census. All three panels concluded that traditional census methods needed to be modified in response to societal changes, and that statistical sampling techniques would both increase the census\u2019 accuracy and lower its cost. See Census 2000 Report at 7-8 (quoting the conclusion of the Academy Panel on Methods that \u201c[djifferential undercount cannot be reduced to acceptable levels at acceptable costs without the use of integrated coverage measurement and the statistical methods associated with it\u201d).\nBased upon the results of these congres-sionally-authorized National Academy studies, combined with ninety years of census-taking experience, meetings with the public in thirty cities, congressional input, and advice from no fewer than six advisory committees, see Census 2000 Report at 9-10, the Bureau developed its master plan for the 2000 enumeration. At issue is the Bureau\u2019s plan to use statistical sampling to supplement data obtained through traditional census methods.\nStatistical sampling is best understood as using information derived from a portion of a population to infer information on the population as a whole. The Bureau intends to use sampling in three different phases of the 2000 census. First, the Bureau will use sampling in the Postal Vacancy Check program to verify the United States Postal Service\u2019s determination that certain housing units are vacant and to correct for anticipated errors in this designation. Second, the Bureau will use sampling techniques in the Nonresponse Follow-Up (\u201cNRFU\u201d) phase of the census. Finally, the Bureau intends to conduct a post-census survey, an operation referred to as Integrated Coverage Measurement (\u201cICM\u201d). The Postal Vacancy Check sampling plan is not at issue in this litigation. The court will describe the latter two processes briefly.\n1. Nonresponse Follow-Up: If all households returned their census forms by mail, NRFU would be unnecessary. However, in 1990 only 65% of households returned their forms, down from 78% in 1970. The Bureau does not expect a substantially higher rate of return in 2000, estimating that even with its innovations, the response rate will be around 67%, or approximately 34 million non-responding households. See Census 2000 Report at 26.\nDuring the 1990 census, Bureau enumerators personally visited all non-responding housing units, with some homes receiving as many as six repeat visits before the Bureau ultimately relied upon proxy data (from neighbors) or imputation data (computer-inferred) to determine the number of persons residing in each non-responding household. The Bureau considers the nonresponse follow-up to be the \u201cmost difficult logistical segment\u201d of the census. Census 2000 Report at 27.'\nUnder the planned NRFU program, enumerators will not endeavor to personally contact all non-responsive households. Rather, they will visit a randomly selected sample of non-responding housing units. The sample is random to ensure that the units chosen \u201cwill be statistically representative of all housing units in a non-responding tract.\u201d Census 2000 Report at 27-28 (defining a \u201ctract\u201d as having homogeneous population characteristics, such as economic status and living conditions). The percentage of housing units visited will vary with the mail response rate to ensure that enumerators directly contact 90% of the units in each' tract. For example, in census tracts in which only 30% of households respond, 6 of 7 addresses will be visited by enumerators, but in tracts with an 80% return rate, only 1 of 2 will be contacted. As to the households in each tract not personally visited, the Bureau will estimate the number of persons residing within those units based upon data collected from the households that received a follow-up visit. The Bureau states that with this sampling technique, enumerators will only have to visit 22.5 million housing units, as opposed to the 34 million they would have to visit without relying upon sampling. See Census 2000 Report at 27.\n2. Integrated Coverage Measurement: The second phase of the 2000 census challenged by the House is the ICM, a post-census survey which utilizes \u201cDual System Estimation\u201d (\u201cDSE\u201d) or \u201ccapture/recapture\u201d to compensate for any undercount or differential undercount after the initial enumeration is complete. See Census 2000 Report at 29-32; see also Wisconsin, 517 U.S. at 8-9, 116 S.Ct. 1091 (explaining how DSE would operate in counting the number of pumpkins in a large pumpkin patch). To conduct the ICM, the Bureau will classify each of the country\u2019s 7 million city blocks into categories the Bureau refers to as \u201cstrata.\u201d These strata will be based on characteristics of the block determined in the 1990 census such as the block\u2019s state, racial and ethnic composition, and proportion of renters to homeowners. The Bureau will then select blocks at random from each stratum for a total of 25,000 blocks. Based on an average of 30 housing units per block, it will obtain information from approximately 750,000 housing units. That number will establish a representative sample large enough, the Bureau claims, to estimate population totals for each state.\nICM interviewers will interview the residents of the 750,000 housing units in the sample blocks, thereby establishing a roster of Census Day residents independent of the initial enumeration roster. If data collected for a household during the ICM interview differs from data obtained during the original headcount phase, a follow-up ICM interviewer will return to the address to rectify the discrepancy and find the \u201ctrue\u201d situation. Each person then will be assigned to a unique \u201cpoststratum,\u201d which is a group of persons who have a similar probability of being counted in the initial data collection operation. The poststrata are defined by state geographic subdivision (such as rural or urban), owner or renter, age, sex, race and ethnic origin.\nUpon completion of this process, using the statistical methodology of DSE, the Bureau will derive population data by comparing the results of the original headcount for the sample blocks with the ICM results for those same blocks. The Bureau will then determine the error rate in the nationwide headcount for each poststratum. The error rates will be applied to the original headcount results to ascertain the number of housing units and total population in each poststra-tum. These totals will then be summed to obtain the total population for each state.\nAnother central feature of the Bureau\u2019s plan is that it will conduct a \u201cone-number census.\u201d See United States Department of Commerce, Bureau of the Census, Census 2000 Operational Plan at I \u2014 1, 5, IX-18, 20, 23 (April 1998) (\u201cCensus 2000 Operational Plan\u201d); see also 33 Weekly Comp.Pres.Doe. 1927 (Nov. 26, 1997). The Bureau does not intend to conduct two parallel enumeration efforts employing different methodologies. The only number that would be ascertained by the Bureau is a number derived through statistical sampling. The \u201craw data\u201d would be unusable for apportionment. See 33 Weekly Comp.Pres.Doe.1927 (Nov. 26, 1997).\nUpon announcement of the Department of Commerce\u2019s plan to utilize statistical sampling in the 2000 enumeration effort, Congress attempted to amend 13 U.S.C. \u00a7 141(a) to provide that, \u201c[Notwithstanding any other provision of law, no sampling or any other statistical procedure, including any statistical adjustment, may be used in any determination of population for purposes of the apportionment of Representatives in [Cjongress among the several States.\u201d Supplemental Appropriations and Rescissions Act, H.R. 1469, 105th Cong., 1st Sess. (1997). President Clinton vetoed this bill, in' part due to its prohibition on the use of sampling in the 2000 decennial enumeration. See 33 Weekly Comp.Pres.Doe. 846-48 (June 19,1997).\nFollowing this veto, Congress enacted, and the President signed into law, a statute requiring the Department of Commerce to provide a comprehensive written report explaining the design for the 2000 census and detailing any planned use of statistical sampling techniques. See Pub.L. No. 105-18, 111 Stat. 158, 217 (1997). Pursuant to that legislation, the Commerce Department issued the Census 2000 Report.\nAfter receipt of the Census 2000 Report, Congress passed, and the President signed into law, the 1998 Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, Pub.L. No. 105-119, 111 Stat. 2440, 2480-87 (1997) (\u201c1998 Appropriations Act\u201d). Section 209(c)(2) of this Act provides that the Census 2000 Report and the Census 2000 Operation Plan \u201cshall be deemed to constitute final agency action regarding the use of statistical methods in the 2000 decennial census, thus making the question of their use in such census sufficiently concrete and final to now be reviewable in a judicial proceeding.\u201d Section 209(b) authorizes \u201c[a]ny person aggrieved by the use of any statistical method in violation of the Constitution or any other provision of law (other than this Act), in connection with the 2000 or later decennial census, to determine the population for purposes of the apportionment or redistricting of Members in Congress,\u201d to bring a civil action to obtain declaratory, injunctive, and any other appropriate relief. Section 209(d) defines an \u201caggrieved person\u201d to include, inter alia, \u201ceither House of Congress.\u201d\nThe United States House of Representatives filed this suit on February 20,1998, as a person directly affected and aggrieved by the Bureau\u2019s decision to use statistical sampling in the 2000 census. The House seeks a declaration that the use of sampling to determine the population for purposes of apportioning members of the House of Representatives among the several states violates the Census Act and the Constitution. The House also seeks a permanent injunction preventing defendants from using sampling for Nonres-ponse Follow-Up, for Integrated Coverage Measurement, or in any other way, in the apportionment aspect of the 2000 census.\nII. MOTIONS TO DISMISS\nDefendants\u2019 motions to dismiss offer several grounds for dismissal: (1) that the United States House of Representatives lacks Article III standing because it has not established that it will suffer a legally cognizable injury; (2) that the House\u2019s challenge is not ripe for adjudication; (3) that the court should decline to hear this case because it constitutes a dispute between the two political branches of government; and, (4) that permitting the House of Representatives to bring this action violates the doctrine of separation of powers. Each of these arguments will be considered in turn.\nA. Article III Standing: Legally Cognizable Injury\nOn a motion to dismiss under Rule 12(b) of the Federal Rules of Civil Procedure, \u201cboth the trial and reviewing courts must accept as true all material allegations of the complaint, and must construe the complaint in favor of the complaining party.\u201d Warth v. Seldin, 422 U.S. 490, 501, 95 S.Ct. 2197, 45 L.Ed.2d 343 (1975). In the context of a challenge to the plaintiffs standing to sue, this means that the plaintiffs arguments on the merits are accepted as valid. See Moore v. United States House of Representatives, 733 F.2d 946, 950 (D.C.Cir.1984); American Fed\u2019n of Gov\u2019t Employees v. Pierce, 697 F.2d 303, 305 (D.C.Cir.1982) (\u201cFor purposes of the standing issue, we accept as valid Congressman Sabo\u2019s pleaded legal theory\u201d); Goldwater v. Carter, 617 F.2d 697, 701-02 (D.C.Cir.) (en banc) (same; noting plaintiffs\u2019 theory that the Senate has a constitutional right to vote on a proposed treaty termination), vacated on other grounds, 444 U.S. 996, 100 S.Ct. 533, 62 L.Ed.2d 428 (1979); see also Whitmore v. Arkansas, 495 U.S. 149, 155, 110 S.Ct. 1717, 109 L.Ed.2d 135 (1990) (noting that the standing inquiry \u201cin no way depends upon the merits\u201d). Here, plaintiffs substantive argument is that either the Census Act or the Constitution forbids the use of statistical sampling to determine population for purposes of apportioning congressional representatives among the states.\nUnder Article III, section 2 of the Constitution, federal courts only have jurisdiction to hear and decide \u201ccases\u201d or \u201ccontroversies.\u201d Allen v. Wright, 468 U.S. 737, 750, 104 S.Ct. 3315, 82 L.Ed.2d 556 (1984). One aspect of this limitation is that a plaintiff must establish that he has standing to sue. See Lujan v. Defenders of Wildlife, 504 U.S. 555, 560, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). \u201cThe standing inquiry focuses on whether the plaintiff is the proper party to bring this suit, although that inquiry \u2018often turns on the nature and source of the claim asserted.\u2019 \u201d Raines v. Byrd, \u2014 U.S. -, -, 117 S.Ct. 2312, 2317, 138 L.Ed.2d 849 (1997) (quoting Warth, 422 U.S. at 500, 95 S.Ct. 2197) (internal citation omitted). The Supreme Court has always demanded strict compliance with the standing requirement, see Allen, 468 U.S. at 752, 104 S.Ct. 3315, and \u201cour standing inquiry has been especially rigorous when reaching the merits of the dispute would force us to decide whether an action .taken by one of the other two branches of the Federal Government was unconstitutional.\u201d Raines, \u2014 U.S. at ---, 117 S.Ct. at 2317-18 (citations omitted).\nArticle III standing consists of three elements. First, a plaintiff must \u201chave suffered an \u2018injury in fact\u2019\u2014an invasion of a judicially cognizable interest which is (a) concrete and particularized and (b) actual or imminent, not conjectural or hypothetical.\u201d Bennett v. Spear, 520 U.S. 154, 117 S.Ct. 1154, 1163, 137 L.Ed.2d 281 (1997) (citing Lujan, 504 U.S. at 560-61, 112 S.Ct. 2130 (footnotes, citations and internal quotations omitted)). The imminence requirement \u201censure[s] that the alleged injury is not too speculative for Article III purposes\u2014that the injury is \u2018certainly impending.\u2019 \u201d See Lujan, 504 U.S. at 564 n. 2, 112 S.Ct. 2130 (quoting Whitmore, 495 U.S. at 158, 110 S.Ct. 1717). Second, there must be a causal connection between the injury alleged and the conduct complained of; the injury must be fairly traceable to the defendants\u2019 acts and not the result of conduct by a third party not before the court. Finally, it must be likely, as opposed to speculative, that the injury will be redressable through a court\u2019s favorable disposition of the matter. See Bennett, 117 S.Ct. at 1163; Lujan, 504 U.S. at 560-61, 112 S.Ct. 2130. \u201cThe party invoking federal jur-isdietion bears the burden of establishing these elements Lujan, 504 U.S. at 561, 112 S.Ct. 2130 (citing FW/PBS, Inc. v. City of Dallas, 493 U.S. 215, 231, 110 S.Ct. 596, 107 L.Ed.2d 603 (1990); Warth, 422 U.S. at 508, 95 S.Ct. 2197). As the parties do not dispute, and the court has no doubt, that the causation and redressability elements are satisfied, the court limits the standing discussion to whether plaintiff suffers an injury in fact sufficient to satisfy Article III.\nDefendants note that no matter how the 2000 census is conducted, the subsequent House of Representatives will be composed of 435 members. They therefore claim that any \u201cinjury\u201d to the House due to the methodology used or results derived therefrom, such as a change in the distribution of seats among the states, would not be an injury separate and distinct from that suffered by the general public. The asserted harm would be \u201cshared in substantially equal measure by all or a large class of citizens.\u201d Warth, 422 U.S. at 499, 95 S.Ct. 2197. \u201cWhether styled as a constitutional or prudential limit on standing, the Court has sometimes determined that where large numbers of Americans suffer alike, the political process, rather than the judicial process, may provide the more appropriate remedy for a widely shared grievance.\u201d Akins, 118 S.Ct. at 1785 (citations omitted); but see id. at 1786 (\u201cwhere a harm is concrete, though widely shared, the Court has found \u2018injury in fact.\u2019 \u201d) (citation omitted). In other words, even conceding that statistical sampling would cause a legally cognizable injury, defendants posit that such a \u201cgeneralized grievance\u201d cannot confer standing, citing Allen, 468 U.S. at 755-56, 104 S.Ct. 3315, and Valley Forge Christian College v. Americans United for Separation of Church and State, Inc., 454 U.S. 464, 475, 102 S.Ct. 752, 70 L.Ed.2d 700 (1982) (noting that the court should refrain from adjudicating questions of wide public significance that amount to generalized grievances).\nThe House of Representatives offers four \u201cconcrete and particularized\u201d injuries that it will suffer if the 2000 census employs statistical sampling to supplement the initial headcount enumeration. First, the House asserts a right to timely receive from the President census information that complies with the Census Act and Constitution. See 2 U.S.C. \u00a7 2a(a). The House alleges that if the Bureau employs statistical sampling in tabulating the population for apportionment, it will be deprived of its receipt of a statement of \u201cthe whole number of persons in each state ... as ascertained under the ... decennial census of the population,\u201d thereby suffering an \u201cinformational injury.\u201d Id. Second, the House contends that it has a concrete and particularized interest in its composition, and that if statistical sampling is utilized, subsequent Houses elected under that apportionment will necessarily have an unlawful and/or unconstitutional composition. Third, the House states that it has a particularized interest in the use of a census procedure that minimizes the opportunity for political manipulation, thereby preserving the House\u2019s institutional integrity. Finally, the House contends that it has a mandatory constitutional duty to ensure that an actual enumeration is taken every ten years, and that the House membership is apportioned in accordance with that enumeration. Because the court finds that plaintiff has properly alleged a judicially cognizable injury through its right to receive information by statute and through the institutional interest in its lawful composition, it need not consider the third and fourth claims.\n1. The Informational Injury Is Legally Cognizable\nPlaintiff alleges that the Bureau\u2019s decision to use statistical sampling will deprive Congress of information which it is entitled to receive under 2 U.S.C. \u00a7 2a(a). That provision states, in relevant part, \u201cthe President shall transmit to the Congress a statement showing the whole number of persons in each State ... as ascertained under the ... decennial census of the population.\u201d The essence of the injury claim is that statistical sampling will deprive Congress of information it is entitled to by statute (and the Constitution), and must have in order to perform its mandatory constitutional duty\u2014the apportionment of Representatives among the states.\nThe inability to receive information which a person is entitled to by law is sufficiently concrete and particular to satisfy constitutional standing requirements. In Federal Election Comm\u2019n v.. Akins, \u2014 U.S. -, 118 S.Ct. 1777, 141 L.Ed.2d 10 (1998), plaintiffs claimed as their \u201cinjury in fact\u201d their failure to receive donor lists and campaign contribution and expenditure information that various subsections of 2 U.S.C. \u00a7 431 required the American Israel Public Affairs Committee to make public. See id. at 1782-83. In holding that this injury satisfied Article III, the Court noted that \u201ca plaintiff suffers an \u2018injury in fact\u2019 when the plaintiff fails to receive information which must be publicly disclosed pursuant to a statute.\u201d Id. at 1784-85 (citing Public Citizen v. Department of Justice, 491 U.S. 440, 449, 109 S.Ct. 2558, 105 L.Ed.2d 377 (1989); Havens Realty Corp. v. Coleman, 455 U.S. 363, 373-74, 102 S.Ct. 1114, 71 L.Ed.2d 214 (1982)). The court noted that the information would help respondents evaluate candidates for public office and determine the role that financial assistance might play in a specific election. \u201cRespondents\u2019 injury consequently seems concrete and particular.\u201d Akins, 118 S.Ct. at 1784.\nThe \u201cinformational injury\u201d supporting Article III standing in Akins will be suffered by the House of Representatives. If statistical sampling in the apportionment census violates the Census Act or the Constitution, Congress will not receive information that it is entitled to by statute. And, while Akins indicated that the information desired by a plaintiff need only \u201chelp\u201d him accomplish desired goals, the information sought by the House here is necessary to perform a constitutionally mandated function, making its injury claim far more compelling.\nIn Akins, the Court addressed a situation in which information to which the complaining party was statutorily entitled was never disclosed. In the instant matter, the House does not claim that it will not receive any census statement from the President, but rather that it will receive an mcorrecf statement because the decennial census will have been unlawfully or unconstitutionally conducted. However, here, receipt of the wrong information is no less of an injury than failure to receive any information at all. In either instance, Congress would not be provided with information it was entitled to receive by law, and would be equally unable to perform properly the single mandatory constitutional function dependent upon receipt of that information. For example, if the Secretary decided, in the exercise of his broad discretion, to count only persons over the age of 18, there is little question that Congress would receive the \u201cwrong\u201d numbers from the President, and the resulting apportionment would be constitutionally infirm because it would not be based upon an \u201cactual enumeration.\u201d The House claims that, no different than excluding minors, using statistical sampling necessarily provides it with the wrong information. In this instance, receipt of the wrong \u201cstatement showing the whole number of persons\u201d constitutes an \u201cinformational injury\u201d sufficiently concrete so as to satisfy the irreducible constitutional minimum of Article III.\nBefore the Supreme Court\u2019s Akins decision and the cases supporting that holding, it was well established that a legislative body suffers a redressable injury when that body cannot receive information necessary to carry out its constitutional responsibilities. This right to receive information arises primarily in subpoena enforcement cases, where a house of Congress or a congressional committee seeks to compel information in aid of its legislative function. In McGrain v. Daugherty, 273 U.S. 135, 175, 47 S.Ct. 319, 71 L.Ed. 580 (1927), the Supreme Court affirmed the Senate\u2019s right to enforce its power of inquiry by subpoenaing witnesses for information pertinent to legislative concerns. In so holding, the Court noted, \u201c[a] legislative body cannot legislate wisely or effectively in the absence of information respecting the conditions which the legislation is intended to affect or change.\u201d The ability of the Senate to seek redress in court demonstrates that the deprivation of pertinent legislative information constitutes an Article III injury. Similarly, in United States v. AT&T, 551 F.2d 384 (D.C.Cir.1976), the House sought information \u201cnecessary for the formulation of new legislation,\u201d and the Executive Branch asserted its authority to maintain control over the information. Id. at 385. The court held that \u201c[i]t is clear that the House as a whole has standing to assert its investigatory power,\u201d thereby holding that a failure to receive sought-after information constitutes an Article III injury to the legislative body. Id. at 391 (emphasis added). See also In re Application of United States Senate Permanent Subcomm. on Investigations, 655 F.2d 1232 (D.C.Cir.1981) (permitting a Senate subcommittee to come to federal court to obtain an order enforcing a subpoena for testimony on mob violence and organized crime); Senate Select Comm. on Presidential Campaign Activities v. Nixon, 498 F.2d 725, 727 (D.C.Cir.1974) (seeking a judicial declaration as to whether the President must comply with a subpoena duces tecum).\nThe existence of a legally cognizable injury arising from a legislature\u2019s inability to obtain information is not limited to the legislative function. In Barry v. United States ex rel. Cunningham, 279 U.S. 597, 613, 616, 49 S.Ct. 452, 73 L.Ed. 867 (1929), the Court extended McGrain to a case in which the Senate sought information in conjunction with its power to judge the elections, returns and qualifications of its members under Article I, section 5, clause 1 of the Constitution. \u201c[B]ut the principle is equally, if not a fortio-ri, applicable where the Senate is exercising a judicial function.\u201d Id. at 616, 49 S.Ct. 452. Because a legislative body suffers injury when it cannot obtain information necessary to perform its constitutional legislative or judicial functions, this court sees no principled basis on which to conclude that the House is not similarly (if not a fortiori) injured when it cannot obtain information necessary to perform its constitutional apportionment function.\nThe court concludes that the House has Article III standing because it alleges that the use of statistical sampling will cause it to fail to receive census information to which it is entitled as a matter of law. This injury is indisputably concrete and particularized, as it affects the House \u201cin a personal and individual way.\u201d See Akins, 118 S.Ct. at 1791 (Scalia, J., dissenting) (quoting Lujan, 504 U.S. at 560 n. 1, 112 S.Ct. 2130).\n2. The House Has A Concrete and Particularized Interest in its Lawful Composition\nThe House alleges that the failure to conduct the apportionment census in a manner consistent with the requirements of the Census Act and Constitution would necessarily result in the unlawful composition of any House elected and seated pursuant to the resulting apportionment. It claims that its institutional interest in preventing its unlawful composition is a sufficient injury in fact for Article III. See Powell v. McCormack, 395 U.S. 486, 548, 89 S.Ct. 1944, 23 L.Ed.2d 491 (1969) (\u201cUnquestionably, Congress has an interest in preserving its institutional integrity.\u201d).\nThat a legislative body has a personalized and concrete interest in its composition is far from a novel concept. In Sixty-Seventh Minnesota State Senate v. Beens, 406 U.S. 187, 92 S.Ct. 1477, 32 L.Ed.2d 1 (1972), three qualified voters challenged the constitutionality of Minnesota\u2019s 1966 Act apportioning the legislature, and the State Senate intervened as a party defendant under Fed.R.Civ.P. 24(a). The district court declared the 1966 Act unconstitutional and entered orders reapportioning the legislature, reducing the number of senate seats. The State Senate appealed the orders; among the grounds ap-pellees asserted in support of their motion'to dismiss was that the Senate lacked 'Standing to prosecute the appeal. See id. at 193, 92 S.Ct. 1477. In holding that the Senate had standing, the Court stated, \u201ccertainly the Senate is directly affected by the District Court\u2019s orders [concerning apportionment].\u201d Id. at 194, 92 S.Ct. 1477. This \u201cdirect effect,\u201d dispositive in Beens,- is also present in the instant matter, because whether or not statistical sampling is utilized by the Bureau may potentially affect the composition of the House.\nAs defendants accurately note, in Beens the district court\u2019s orders affected the number of seats in the Minnesota Senate. In the instant matter, the number of seats allocated to the House of Representatives will remain at 435 no matter how the census is conducted. However, the Court\u2019s reliance on Silver v. Jordan, 241 F.Supp. 576, 579 (S.D.Cal.1964), aff'd, 381 U.S. 415, 85 S.Ct. 1572, 14 L.Ed.2d 689 (1965) in reaching its Beens conclusion demonstrates that a legislature\u2019s claim of an institutional interest in its composition is not limited to instances in which the size of the legislature would necessarily change. In Silver, the method of apportionment \u2014 population v. geographic \u2014 was the subject of the litigation. The court concluded that the State Senate had standing to intervene because it would be \u201cdirectly affected by the decree\u201d of the district court. Id. at 579.\nOn the basis of Beens, and the Supreme Court\u2019s citation to Silver, it is apparent that a legislative body has a judicially cognizable interest in matters affecting its composition so as to satisfy Article III, whether or not the challenged conduct will ultimately have an effect on the size of the body.\n3. The Current House of Representatives May Prosecute This Suit\nDefendants allege that even if statistical sampling inflicts a concrete and particularized injury sufficient to satisfy Article III standing requirements, the injuries will not be felt by this plaintiff. Defendants contend that it is not the present House of Representatives .that will suffer the informational injury. Rather, the effects of sampling will be felt by the 107th House, because it is the 107th House that will be seated at the time that the President transmits the apportionment statement to Congress. See Defendants\u2019 Reply Memorandum in Support of Its Motion to Dismiss at 18-19. Similarly, the present House will not suffer any compositional injury, because the 108th House will be the first House elected and seated based upon the 2000 apportionment. Therefore, the 105th House, the House that filed the complaint, does not have Article III standing.\nDefendants have marshaled authority for the concept that the House of Representatives is not a continuing body. See Eastland v. United States Servicemen\u2019s Fund, 421 U.S. 491, 512, 95 S.Ct. 1813, 44 L.Ed.2d 324 (1975); Gojack v. United States, 384 U.S. 702, 706 n. 4, 86 S.Ct. 1689, 16 L.Ed.2d 870 (1966) (noting that \u201c[njeither the House of Representatives nor its committees are continuing bodies\u201d); McGrain, 273 U.S. at 181, 47 S.Ct. 319 (distinguishing the. Senate, which is a \u201ccontinuing body,\u201d from the House). Furthermore, at oral argument, defendants noted that when the House used to jail a person for contempt of Congress, the eontemnor was released at the end of the session because no continuing authority existed to hold the person. See Anderson v. Dunn, 19 U.S. (6 Wheat) 204, 230, 5 L.Ed. 242 (1821) (\u201c[A]nd although the legislative power continues perpetual, the legislative body ceases to exist, on the moment of its adjournment or periodical dissolution. It follows, that imprisonment must terminate with that adjournment.\u201d).\nAlthough the House reconstitutes every two years, as an institution it is, in some respects, a continuing entity. Chapter 4 of Title 2 of the United States Code describes extensive procedures governing the House of Representatives (and the Senate). Its provisions indicate that certain functions transcend the seating of a new House, such as the ownership of property. See, e.g., 2 U.S.C. \u00a7 112e(b).\nHowever, whether or not the House of Representatives is a continuing body for purposes of prosecuting or defending suits is a matter that need not be definitively resolved here. The court finds that the 105th House of Representatives is a proper plaintiff. Even assuming that only the 107th and later Congresses will suffer the claimed injuries, these Congresses do not presently exist. Nor will they exist until after the 2000 census has been conducted. If judicial review must be deferred until after the 107th House is seated, the possibility of irreparable harm\u2014 both monetary and non-monetary \u2014 is likely, if not certain. Should the courts invalidate the census in 2001 or anytime thereafter, the \u201cone-number census\u201d method would require the entire enumeration to be re-conducted at a cost of $4 billion, and, more importantly, the new census would not be completed before the date Congress is supposed to perform its constitutional duty regarding apportionment.\nIn sum, the injuries are now imminent. Like the impact of a wave that has not yet reached the shore, the injuries, although yet to be felt, are inexorable if they are not prevented now. For this reason we conclude that the 105th House is a proper plaintiff. The 107th House \u2014 the first House that will suffer from the injury \u2014 is not yet in place and cannot bring suit in its own right; but the court does not conclude therefrom that no one has standing to sue. While there are some injuries for which no one may bring suit, see United States v. Richardson, 418 U.S. 166, 179, 94 S.Ct. 2940, 41 L.Ed.2d 678 (1974) (noting that \u201cthe absence of any particular individual or class to litigate these claims gives support to the argument that the subject matter is committed to the surveillance of Congress, and ultimately to the political process\u201d), the court has already held that the injuries claimed by the House are cognizable and that the 107th House could, if it were already in existence, bring this suit. The present incapacity of the 107th Congress should be viewed not as an insurmountable barrier but as a reason to allow the present House to bring suit on behalf of its successor.\nThere are three prudential requirements for third party standing: the plaintiff must have a \u201cclose relationship\u201d with the real party in interest, the litigation must have \u201can impact [upon] the rights\u201d of that third party, and there must be \u201ca barrier\u201d keeping that party from asserting its rights. Hutchins by Owens v. District of Columbia, 144 F.3d 798, 803 (D.C.Cir.1998); see Barrows v. Jackson, 346 U.S. 249, 257-59, 73 S.Ct. 1031, 97 L.Ed. 1586 (1953). The current situation meets all three requirements. The 105th House has a close relationship to its successor, the 107th; the litigation will affect the interests of the 107th House; and the 107th House cannot bring suit itself in time to avert the claimed injury.\nOrdinarily a plaintiff asserting the rights of another must itself have suffered an Article III injury. See Hutchins, 144 F.3d at 803. Here, as the court has just explained, the 107th House will certainly suffer an injury. In the peculiar circumstances of this case, however, we need not decide whether the current House also suffers a present injury. In the court\u2019s view, the 105th House need not itself suffer an injury in order to vindicate the rights of its successor House. In so holding we draw upon cases granting standing both to \u201cnext friends\u201d and to fiduciaries without requiring that they have themselves suffered an Article III injury.\nA \u201cnext friend\u201d must provide \u201can adequate explanation ... why the real party in interest cannot appear on his own behalf,\u201d and must be \u201ctruly dedicated to the best interests of the person on whose behalf he seeks to litigate.\u201d Whitmore, 495 U.S. at 163, 110 S.Ct. 1717 (emphasis added). If the plaintiff meets these high standards, however, he may litigate on behalf of a third party without himself having an Article III injury. Similarly, because a fiduciary must dedicate himself to the best interests of his beneficiary, and has the legal obligation to vindicate the beneficiary\u2019s interests, by litigation if necessary, courts have granted standing to fiduciaries who do not themselves suffer an Article III injury. See, e.g., Irving Bank Corp. v. Board of Governors of the Fed. Reserve Sys., 845 F.2d 1035, 1039 (D.C.Cir.1988).\nWithout holding that the 105th House is itself either the \u201cnext friend\u201d of or a fiduciary for the 107th House, we hold that because of the special relationship between the present House and its successor once removed, the 105th House has standing to litigate on behalf of the 107th House. This permits the current House to vindicate the later House\u2019s interest in fulfilling its constitutional duties regarding the census, without giving rise to general legislative standing, as explained in the next section.\n4. The Finding of an Injury in This Matter Neither Conflicts with Raines v. Byrd Nor Gives Rise to a Doctrine of General Legislative Standing.\nThe House of Representatives alleges an injury based upon claims that it will not receive information to which it is entitled by law and which it needs to perform a mandatory constitutional function, and that an improperly conducted census will cause it to become unlawfully composed. Therefore, holding that the House has standing is not at odds with Raines v. Byrd. Nor does it give rise to generalized legislative standing, by which the House or Senate could file suit whenever either alleged that the Executive Branch was acting in a manner contrary to the law or the Constitution.\nIn Raines, the Supreme Court rejected appellees\u2019 claim of legislative standing. The Court concluded that a claim of diminution of legislative power did not support Article III standing because the congressional plaintiffs did not have a sufficient \u201cpersonal stake\u201d in the dispute and the injury was not sufficiently concrete. See Raines, 117 S.Ct. at 2322. However, in reaching this conclusion, the Court expressly distinguished Powell v. McCormack, 395 U.S. 486, 89 S.Ct. 1944, 23 L.Ed.2d 491 (1969), and Coleman v. Miller, 307 U.S. 433, 59 S.Ct. 972, 83 L.Ed. 1385 (1939), thereby indicating that legislative standing survives in cases in which the injury to a legislator (or legislative entity) is personal, or where the institutional injury alleged is not \u201cwholly abstract and widely dispersed.\u201d Raines, 117 S.Ct. at 2322. This case falls within the narrow area left by the Court. The House is, as per the precise language used by the Supreme Court, \u201cclaiming] that [it is being] deprived of something to which [it] personally [is] entitled.\u201d Id. at 2318. And, the institutional interest is not widely dispersed; it is particularized to the House of Representatives because the House\u2019s composition will be affected by the manner in which the Bureau conducts the Census. \u201cStanding depends considerably upon whether the plaintiff is himself an object of the action (or forgone action) at issue. If he is, there is ordinarily little question that the action or inaction has caused' him injury.\u201d See Lujan, 504 U.S. at 561, 112 S.Ct. 2130.\nFurthermore, in declining to grant standing to the legislative plaintiffs in Raines, the majority \u201cattach[ed] some importance to the fact that appellees ha[d] not been authorized to represent their respective Houses of Congress in this action.\u201d Raines, 117 S.Ct. at 2322. Here, the House of Representatives has been granted authority by statute to prosecute this suit and to employ the services of outside counsel and other experts in so doing. See 1998 Appropriations Act \u00a7 209(g). Additionally, Justice Souter noted that the virtue of denying standing in Raines was only confirmed by the certainty that a private suit would surely follow. See id. at 2325 (Souter, J., concurring). Here, defendants do not suggest that any other plaintiff would suffer an \u201cactual,\u201d \u201cpersonal and individual,\u201d and \u201cconcrete,\u201d injury, see id., such that he could successfully mount a pre-census challenge. Consequently, if the House does not have standing, this question might evade review until after the possible seating of an unconstitutionally composed House.\nIn concluding that the House of Representatives has pleaded a legally cognizable injury and satisfied Article III, the specter of \u201cgeneral legislative standing\u201d based upon claims that the Executive Branch is misinterpreting a statute or the Constitution is not raised. This is because the vast majority of legislation does not affect a legislature or a legislator in a concrete and particularized manner, and in a manner distinct from the general public. Only in an extremely rare case could a house of Congress claim that existing- law, as interpreted and implemented by the Executive Branch, injures that house in a matter that satisfies Article Ill\u2019s rigorous demands. However, because the Executive\u2019s interpretation of existing law and the Constitution here affects the House\u2019s statutory right to receive information and ultimately will affect its composition, this suit is that extremely rare case.\nB. Ripeness\nIn order for a matter to be justiciable by a federal court, that matter must be ripe for resolution. See Duke Power Co. v. Carolina Envt\u2019l Study Group, Inc., 438 U.S. 59, 81, 98 S.Ct. 2620, 57 L.Ed.2d 595 (1978); Abbott Laboratories v. Gardner, 387 U.S. 136, 148, 87 S.Ct. 1507, 18 L.Ed.2d 681 (1967), overruled on other grounds, Califano v. Sanders, 430 U.S. 99, 105, 97 S.Ct. 980, 51 L.Ed.2d 192 (1977). The doctrine of ripeness is intended \u201cto prevent the courts, through avoidance of premature adjudication, from entangling themselves in abstract disagreements.\u201d Abbott Laboratories, 387 U.S. at 148, 87 S.Ct. 1507. While the ripeness doctrine prevents courts from reviewing injuries that are speculative, the Supreme Court has also \u00e9stablished that \u201c[o]ne does not have to await the consummation of threatened injury to obtain preventative relief. If the injury is certainly impending that is enough.\u201d Pennsylvania v. West Virginia, 262 U.S. 553, 593, 43 S.Ct. 658, 67 L.Ed. 1117 (1923). See also New York v. United States, 505 U.S. 144, 175, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992).\n1. Article III Concerns\nArticle III requires not only that an injury be concrete and particularized, but also imminent or certainly impending. See Lujan, 504 U.S. at 560, 112 S.Ct. 2130; Whitmore, 495 U.S. at 158, 110 S.Ct. 1717; National Treasury Employees Union v. United States, 101 F.3d 1423, 1427 (D.C.Cir.1996). As the Supreme Court noted this term, \u201c[a] claim is not ripe for adjudication if it rests upon \u2018contingent future events that may not occur as anticipated, or indeed may not occur at all\u2019 \u201d Texas v. United States, \u2014 U.S. -, -, 118 S.Ct. 1257, 1259, 140 L.Ed.2d 406 (1998) (quoting Thomas v. Union Carbide Agric. Products Co., 473 U.S. 568, 580-81, 105 S.Ct. 3325, 87 L.Ed.2d 409 (1985)). Defendants contend that a number of steps must occur before the \u201cdecision\u201d of the Bureau to utilize statistical sampling in the 2000 census is ripe for review, and that many of these events may not occur at all. See, e.g., Boehner v. Anderson, 30 F.3d 156, 163 (D.C.Cir.1994) (dismissing, on ripeness grounds, a challenge to a congressional pay raise statute because no quadrennial adjustment had been proposed or enacted).\nDefendants first posit that Congress and the President may amend the Census Act to preclude sampling. See Defendants\u2019 Motion to Dismiss at 28. They allege that Congress has not yet reached its ultimate legislative conclusion as to whether statistical sampling will be part of the 2000 census. See, e.g., 143 Cong. Rec. H10,931 (daily ed. Nov. 13,1997) (statement of Rep. Dixon) (arguing that one of the purposes of the 1998 Appropriations Act was to \u201cleave that fight [over statistical sampling] to be fought another day.\u201d). They note that the 1998 Appropriations Act requires that \u201c[sjufficient funds appropriated under this Act or under any other Act for purposes of the 2000 decennial census shall be used by the Bureau of the Census to plan, test, and become prepared to implement a 2000 decennial census, without using statistical methods.\u201d 1998 Appropriations Act \u00a7 209(j) (emphasis added). Also, defendants point to the Secretary\u2019s current dress rehearsals using both sampling and non-sampling methodologies. See Defendants\u2019 Motion to Dismiss at 29. Defendants allege that both the reservation of funds for a non-sampling census and the dress rehearsals demonstrate that a non-sampling census is a present possibility, rendering this matter unripe.\nIn the alternative, defendants claim that the matter should not be deemed ripe at least until the authorization of final funding for the 2000 Census. Defendants claim that, \u201c[a]s demonstrated by the appropriations compromise, Congress has not yet decided how to fund Census 2000 and further debate both in Congress and between the political parties is sure to follow.\u201d Defendants\u2019 Motion to Dismiss at 30. The essence of defendants\u2019 argument appears to be that the unresolved funding issue guarantees at least one additional congressional' \u201cpass\u201d at the census, which may result in a decision to proceed with a non-sampling census.\nUltimately, however, defendants do not argue that either the potential for supervening legislation or the need for final appropriations renders this matter constitutionally unripe for resolution. Rather, they contend that the disagreement will no longer be \u201cabstract\u201d only when the President transmits to Congress in 2001 \u201ca statement showing the whole number of persons in each state ... and the number of Representatives to which each State would be entitled.\u201d Franklin v. Massachusetts, 505 U.S. 788, 792, 112 S.Ct. 2767, 120 L.Ed.2d 636 (1992) (quoting 2 U.S.C. \u00a7 2a(a)). They claim that until the President issues his certification, the \u201ceffect\u201d of Census 2000 is unknowable, and it would be only then that the House might suffer any cognizable injuries. \u201c[N]o claim can be ripe before that [Presidential] certification.\u201d Defendants\u2019 Motion to Dismiss at 28. In sum,, defendants claim that pre-census challenges are proscribed.\nThis court concludes that this matter is now ripe for resolution, because the alleged informational injury to the House is imminent and certainly impending, and not too speculative for Article III purposes. See Lujan, 504 U.S. at 560, 112 S.Ct. 2130; National Treasury Employees Union, 101 F.3d at 1430.\nCritical to this conclusion is that the House need not demonstrate that the use of statistical sampling will either alter state population totals or the resultant apportionment of representatives among the states. This is because the informational and compositional injuries originate.from the procedure utilized for conducting the 2000 census. \u201c[Wjhere a procedural violation is asserted, the courts have applied the imminence requirement to the procedural violation, not to the discrete injury that might someday flow from such.\u201d National Treasury Employees Union, 101 F.3d at 1430-31 (citing Lujan, 504 U.S. at 572 n. 7, 112 S.Ct. 2130). In this case, the failure to utilize the methodology required by the Census Act and/or the Constitution constitutes a procedural violation. The matter therefore becomes ripe at the point at which use of this procedure is \u201ccertainly impending\u201d -- the point at which it is certain that the Bureau will employ statistical sampling in conducting the apportionment enumeration. That time is now.\nThe 1998 Appropriations Act, passed by both houses of Congress and signed into law by the President, expressly provides that the Census 2000 Report and the Census 2000 Operational Plan \u201cshall be deemed to constitute final agency action regarding the use of statistical methods in the 2000 decennial census, thus making the question of their use in such census sufficiently concrete and final to now be reviewable in a judicial proceeding.\u201d 1998 Appropriations Act \u00a7 209(c)(2) (emphasis added). A final action is, by definition, not preliminary, procedural or intermediate. See 5 U.S.C. \u00a7 704. In light of this statutory declaration, this court is hard-pressed to understand how the statistical sampling plan can be construed as a merely tentative position, subject to reconsideration by the Bureau, the President, or Congress. The fact that the legislation deeming the Census 2000 Report as final agency action may have been the result of \u201ccompromise,\u201d or that it may have been passed with \u201cpolitical rancor,\u201d see Defendants\u2019 Motion to Dismiss at 19-21, does not direct this court to question the unambiguous declarations contained therein. Surely neither party proposes that a court should give less weight to the plain text of a statute based upon the strength of the opposition.\nThe claimed injuries do not fail the immediacy test merely because the debate over sampling in Congress is ongoing, or because Congress may yet pass supervening legislation or take other actions that could moot the controversy. To ask the court to stay its hand because Congress hypothetically may amend the statutory framework of the Census Act as it now exists, or change the current methodology by attaching a rider to a future appropriations bill, or create a \u201ccensus crisis\u201d by refusing to fund the decennial enumeration, is asking the court to stay its hand based upon nothing more than mere speculation \u2014 the kind of speculation typically offered by a plaintiff. If Congress or the Executive should take an action that moots this controversy, the Supreme Court no doubt will act accordingly. See, e.g., United States Dep\u2019t of Treasury v. Galioto, 477 U.S. 556, 106 S.Ct. 2683, 91 L.Ed.2d 459 (1986) (vacating judgment of the district court because Congress amended the statute under consideration). However, the fact that a case is capable of being rendered moot by congressional action does not, without more, make it unripe.\nThe holdings in Texas v. United States, \u2014 U.S. -, 118 S.Ct. 1257, 140 L.Ed.2d 406 (1998) and Boehner v. Anderson, 30 F.3d 156 (D.C.Cir.1994) do not dictate otherwise. In Texas, the Supreme Court addressed a declaratory judgment challenge to sections of the Texas Education Code requiring appointment of a master or management team to oversee poorly functioning school districts. The Court held that the challenge was not ripe for adjudication because no Texas school district had yet been affected by the statute. Whether a district would ever be required to appoint a master or a management team depended upon a school falling below the state standards and upon the unsuccessful imposition of other remedial sanctions. See Texas, 118 S.Ct. at 1259. In other words, if specific steps did not transpire, there would never be an injury. Similarly, in Boehner, a Congressman\u2019s challenge to a pay raise statute was deemed \u201cfar from ripe\u201d because no quadrennial salary adjustment had been proposed or enacted, nor was an adjustment scheduled to occur for at least another five years. Even then, Congress would have had to recommend a pay adjustment effective prior to the seating of a new Congress. See Boehner, 30 F.3d at 163. Again, contingent events X, Y, and Z had not occurred, and in the absence of those events, there would be no injury.\nBy sharp contrast, in the instant case, the injury is not dependent upon future events X, Y, and Z taking place. Nothing additional need occur for statistical sampling to be used in the 2000 census. Quite the opposite: \u201ccontingent future events that may not occur as anticipated, or indeed may not occur at all\u201d are necessary for statistical sampling not to be utilized in the 2000 census for purposes of congressional apportionment. See Texas, 118 S.Ct. at 1259 (citation omitted).\nAlthough it is true that approximately twenty months will pass between this date and Census Day 2000, it is also true that \u201c[wjhere the inevitability of the operation of a statute against certain individuals is patent, it is irrelevant to the existence of a justicia-ble controversy that there will be a time delay before the disputed provisions will come into effect.\u201d Buckley v. Valeo, 424 U.S. 1, 114, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976) (quoting Regional Rail Reorganization Act Cases, 419 U.S. 102, 143, 95 S.Ct. 335, 42 L.Ed.2d 320 (1974)). That statement especially resonates in this matter, where a \u201cpoint of no return\u201d arises at some indeterminate time prior to Census Day 2000. This \u201cpoint of no return\u201d exists because the Department of Commerce is compelled to make a number of preliminary determinations, most notably the number of enumerators to hire, based upon the methodology it will employ. See, e.g., Census 2000 Report at 37-39 (noting that using a non-sampling methodology would require 25,000 to 30,000 enumerators, as opposed to 5,000 with sampling, and explaining all the additional efforts and mandatory costs associated with utilizing a headcount-only method), Compare New York v. United States, 505 U.S. at 175, 112 S.Ct. 2408 (noting that even though a take-title provision was not to take effect until a future date, the challenge was ripe because it takes years to construct a waste site).\nFinally, Franklin v. Massachusetts does not support defendants\u2019 claim that all census challenges are premature prior to presidential certification under 2 U.S.C \u00a7 2a(a). In Franklin, the Secretary of Commerce allocated 922,819 overseas military personnel to the state designated in their personnel records as their \u201chome of record.\u201d The state of Massachusetts and two voters challenged this decision of the Secretary, claiming that it was inconsistent both with the Administrative Procedure Act and with the constitutional requirement that the apportionment of representatives be determined by an \u201cactual Enumeration\u201d of persons \u201cin each state.\u201d See Franklin, 505 U.S. at 795, 112 S.Ct. 2767. The Court rejected the challenge holding that the Secretary\u2019s allocation decision was not final agency action because the President is not required to transmit the agency\u2019s report directly to Congress under 2 U.S.C. \u00a7 2a(a). The court noted that the \u201cSecretary\u2019s report to the President carries no direct consequences for the reapportionment\u201d and that it is \u201cthe President, not the Secretary, [who] takes the final action that affects the states.\u201d Franklin, 505 U.S. at 798-99, 112 S.Ct. 2767. In other words, the report had no independent impact on apportionment because the President had the power and the duty to either accept or reject the Secretary\u2019s proposed allocation of military personnel. \u201cIn this case, the action that creates an entitlement to a particular number of representatives is the President\u2019s statement to Congress, not the Secretary\u2019s report to the President.\u201d Id. at 797, 112 S.Ct. 2767.\nIn the instant matter, by contrast, it is the Bureau that \u201ctakes the final action that affects the states,\u201d and the Census 2000 Report \u201ccarries ... direct consequences for reapportionment.\u201d That is because this challenge affects the manner in which the decennial census will be conducted in order to generate the number \u2014 and the only number \u2014 that the President will receive from the Secretary. And, most critically, the President is required to use the data from the decennial census. See id. at 797, 112 S.Ct. 2767. Unlike the allocation of military personnel decision in Franklin, the President here will not have an option to proceed in one manner over another as to whether statistical sampling should be used when he receives the Secretary\u2019s report. That decision will have been made for him by the \u201cfinal agency action\u201d of the Census 2000 Report and Census 2000 Operation Plan. Notably, if the Secretary conducted a two-number census, and the President could elect between statistical sampling and headcount enumeration options, it is probable that under Franklin a challenge to the census would not be ripe until the President made that election and sent his statement to Congress. However, as the 2000 enumeration is to be a one-number census, \u201cthe action that creates an entitlement to a particular number of representatives and has a direct effect on reapportionment\u201d is the final agency action of the Census 2000 Report. See id. at 797, 112 S.Ct. 2767. Therefore, Franklin does not contradict, and in fact supports, the conclusion that this matter is presently ripe for adjudication.\nFor the above reasons, the court finds that Article III ripeness concerns are satisfied because the injuries claimed by plaintiff are sufficiently \u201cimminent\u201d and \u201ccertainly impending.\u201d\n2. Prudential Concerns\n\u201cPrudentially, the ripeness doctrine exists to prevent the courts from wasting our re-sourc\u00e9s by prematurely entangling ourselves in abstract disagreements, and, where, as here, other branches of government are involved, to protect the other branches from judicial interference until their decisions are formalized and their \u2018effects felt in a concrete way by the challenging parties.\u2019,\u201d National Treasury Employees Union, 101 F.3d at 1431 (quoting Abbott Laboratories, 387 U.S. at 148-49, 87 S.Ct. 1507). In deciding whether a controversy is prudentially ripe for adjudication, the Supreme Court directs consideration of two factors: \u201cthe fitness of the issues for judicial decision and the hardship to the parties of withholding court consideration.\u201d Abbott Laboratories, 387 U.S. at 149, 87 S.Ct. 1507. Of course, all prudential barriers to jurisdiction in this matter have been removed by statute. However, because the prudential concerns weigh so heavily in favor of exercising jurisdiction, the court will address them briefly.\nFirst, the hardship from withholding court consideration prior to conducting the census is considerable. As noted previously, a central feature of the 2000 enumeration is that it is designed to produce a \u201cone-number census,\u201d meaning that the only figures that will be produced by the Bureau and forwarded to the President, and thereafter to Congress, will be based upon statistical sampling. See Census 2000 Operational Report at I \u2014 1, 5, IX-23. If this court does not rule on this question now, and thereafter a reviewing court concludes post-census that statistical sampling is statutorily or constitutionally proscribed, it will be impossible at that point to determine what the headcount-only number would have been. The only recourse would be to re-conduct the census, even though doing so would come too late for the House to fulfill its duties to oversee a constitutional census every decade. Furthermore, while the subsequent full headcount was being conducted, the House of Representatives would be unlawfully composed.\nSecond, the issues are currently fit for judicial decision. The questions presented are purely legal, involving only statutory and constitutional interpretation. The passage of additional time will not result in further elaboration of the record such that the task of determining whether the Census Act or Constitution forbids statistical sampling in the apportionment enumeration would be made easier or more concrete. Nor is the court faced with \u201c \u2018too remote and abstract an inquiry for the proper exercise of the judicial function,\u2019\u201d merely because the census has not been funded or conducted and an apportionment not yet determined. Texas v. United States, 118 S.Ct. at 1260 (quoting Longshoremen v. Boyd, 347 U.S. 222, 224, 74 S.Ct. 447, 98 L.Ed. 650 (1954)). A particular application will not help the court \u201cbetter grasp[ ]\u201d the relevant statutes and constitutional provisions. See id.\nIn light of the extreme hardship that would arise from this court staying its hand, and the fitness of the issues for judicial determination, there is \u201cno better time to decide\u201d this controversy. Regional Rail Reorganization Act Cases, 419 U.S. at 144, 95 S.Ct. 335.\nC. Equitable Discretion\nDefendants offer another barrier to this court\u2019s reaching the merits of this case: that even if all Article III jurisdictional requirements are satisfied, the court should nonetheless decline to involve itself in a dispute between the political branches in the absence of a \u201cconstitutional impasse.\u201d See Goldwater v. Carter, 444 U.S. 996, 997, 100 S.Ct. 533, 62 L.Ed.2d 428 (1979) (Powell, J., concurring) (\u201cPrudential considerations persuade me that a dispute between Congress and the President is not ready for judicial review unless and until each branch has taken action asserting its constitutional authority.\u201d). Raines specifically notes that courts should be wary of plunging into a \u201cbitter political battle being waged between the President and the Congress.\u201d Raines, 117 S.Ct. at 2321. And, this circuit has a well-developed body of law calling for the exercise or \u201cremedial\u201d or \u201cequitable\u201d discretion to dismiss legislative suits even when Article III standing requirements are satisfied. See Moore, 733 F.2d at 955 (noting the need for flexibility in congressional suits to address separation of powers concerns); Vander Jagt v. O\u2019Neill, 699 F.2d 1166, 1175 (D.C.Cir.1982) (explaining that respect for coordinate branches of government counseled restraint in hearing a legislative suit); Riegle v. Federal Open Market Comm., 656 F.2d 873, 881 (D.C.Cir.1981) (calling for the exercise of judicial restraint when dispute was with other members of Congress, relief could be obtained from fellow legislators, and private plaintiffs would.have standing).\nHowever, the specifics of this case lead this court to conclude that exercising equitable or prudential discretion to dismiss the complaint would be improvident.\nBy enacting section 209 of the 1998 Appropriations- Act, both Congress and the President have invited the courts to resolve this issue. This direct invitation \u201csignificantly lessens the risk of unwanted conflict with the Legislative Branch when that plaintiff brings suit.\u201d Raines, 117 S.Ct. at 2318 n. 3 (citing Bennett, 117 S.Ct. at 1162-63 (noting that a jurisdictional statute expands standing to the full extent allowed under Article III)); see also Gladstone, Realtors v. Village of Bellwood, 441 U.S. 91, 100, 99 S.Ct. 1601, 60 L.Ed.2d 66 (1979) (same).\nOf course, a federal court may not accept such an invitation to adjudicate when Article III prerequisites are not met. \u201c[W]e must put aside the natural urge to proceed directly to the merits of this important dispute and to \u2018settle\u2019 it for the sake of convenience and efficiency.\u201d Raines, 117 S.Ct. at 2318; see also Gladstone, 441 U.S. at 100, 99 S.Ct. 1601 (\u201cIn no event, however, may Congress abrogate the Art. Ill minima.\u201d). And, as Raines notes, those Article III standing prerequisites are \u201cespecially rigorous\u201d in eases in which a court may be called upon to determine whether an action taken by one of the other two branches of the federal government is unconstitutional. See id., 117 S.Ct. at 2317-18. However, when the heightened Article- III burden of establishing a personal, concrete, imminent and otherwise judicially cognizable injury is satisfied and a jurisdictional statute has been passed by Congress and signed into law by the President, the presumption should be in favor of a federal court\u2019s retaining jurisdiction. While there may be some circumstances in which a court should decline to hear a case even when all constitutional requirements are met \u2014 such as where there is a \u201ctextually demonstrable constitutional commitment of the issue to a coordinate political department; or a lack of judicially discoverable and manageable standards for resolving it,\u201d Baker v. Carr, 369 U.S. 186, 217, 82 S.Ct. 691, 7 L.Ed.2d 663 (1962) \u2014 the court sees no reason to withdraw from litigation concerning the census. Courts routinely adjudicate these matters, frequently in instances where the disputes pit the states against the federal government.\nIn sum, even though this case involves litigation between the legislative and executive branches as to whether a decision of the executive violates the law or the Constitution, the fact that: 1) the House has satisfied Article Ill\u2019s \u201cease\u201d or \u201ccontroversy\u201d requirement; 2) a jurisdictional statute permits this plaintiff to bring the ease; and 3) the federal courts routinely resolve census disputes, leaves no doubt that the court should resolve this matter.\nD. Separation of Powers\nDefendants\u2019 final argument for dismissal of this action involves separation of powers. As the Court noted in INS v. Chadha, 462 U.S. 919, 963, 103 S.Ct. 2764, 77 L.Ed.2d 317 (1983) (Powell, J. concurring) separation of powers is violated when \u201cone branch assumes a function that more properly is entrusted to another.\u201d Defendants argue that \u201cbecause Article II of the Constitution entrusts litigation on behalf of the United States to the Executive rather than the Legislative Branch, neither Congress nor its Members may initiate litigation designed to vindicate the general public and governmental interest in the proper administration of federal law.\u201d See Defendant\u2019s Motion to Dismiss at 38. Defendants base this contention in large part upon the Supreme Court\u2019s pronouncement in Buckley v. Valeo that:\nthe discretionary power to seek judicial relief, is authority that cannot possibly be regarded as merely in aid of the legislative function of Congress. A lawsuit is the ultimate remedy for a breach of the law, and it is to the President, and not to the Congress, that the Constitution entrusts the responsibility to \u201ctake Care that the Laws be faithfully executed.\u201d\nBuckley, 424 U.S. at 138, 96 S.Ct. 612 (quoting U.S. Const. Art. II, \u00a7 3); see also Metropolitan Washington Airports Auth. v. Citizens for the Abatement of Aircraft Noise, 501 U.S. 252, 274, 111 S.Ct. 2298, 115 L.Ed.2d 236 (1991) (\u201c[Congress] may not \u2018invest itself or its Members with either executive power or judicial power\u2019 \u201d) (quoting J.W. Hampton, Jr., & Co. v. United States, 276 U.S. 394, 406, 48 S.Ct. 348, 72 L.Ed. 624 (1928)); Bowsher v. Synar, 478 U.S. 714, 733-34, 106 S.Ct. 3181, 92 L.Ed.2d 583 (1986) (\u201c[0]nee Congress makes its choice in enacting legislation, its participation ends. Congress can thereafter control the execution of its enactment only indirectly \u2014 by passing new legislation.\u201d) (citing Chadha, 462 U.S. at 958, 103 S.Ct. 2764). By \u201cvesting itself\u2019 with the authority to initiate legal actions, defendants claim that the danger of either encroachment upon or aggrandizement of executive powers by the legislature is omnipresent. See Mistretta v. United States, 488 U.S. 361, 382, 109 S.Ct. 647, 102 L.Ed.2d 714 (1989) (noting the need for caution when the separate branches exceed the outer limits of their power).\nThat a house of Congress may turn to the federal courts for vindication of certain concrete and particularized interests without violating separation of powers is well established. As discussed in greater detail earlier, legislative bodies have been permitted to invoke the power of the federal courts to enforce a subpoena without violating separation of powers. See Buckley, 424 U.S. at 137-38, 96 S.Ct. 612; see also 2 U.S.C. \u00a7 288b(b) (authorizing Senate' counsel to bring an action to enforce a subpoena); Barry, 279 U.S. at 618-19, 49 S.Ct. 452; McGrain, 273 U.S. at 174, 47 S.Ct. 319. The concept that the legislative branch may initiate legal process to obtain information necessary to legislate provides tacit support for the proposition that the House may initiate litigation to obtain information it needs to perform its apportionment function without violating separation of powers.\nThis litigation presents a somewhat different posture from the subpoena cases, as the House is not seeking to compel the production of information in the possession of another, but rather a judicial determination as to what the Census Act and/or Constitution require so as to ensure that the correct information is obtained. Nonetheless, the court concludes that permitting the House to prosecute this lawsuit in order to vindicate an Article III injury to itself does not violate separation of powers.\nDefendants\u2019 invocation of Buckley fails to recognize that the House is not endeavoring to \u201ctake care that the laws be faithfully executed\u201d or vindicate a general public interest in the proper administration of law, which are quintessential executive functions reserved exclusively to the Executive Branch. See Buckley 424 U.S. at 138, 96 S.Ct. 612. Rather, the House is pursuing legal process on its own behalf to prevent a legally cognizable injury to itself. It seeks to vindicate a personal, concrete, and particularized institutional interest \u2014 the receipt of census information that conforms with the Census Act and the Constitution to prevent it from becoming unlawfully composed. Compare United States v. Will, 449 U.S. 200, 209, 101 S.Ct. 471, 66 L.Ed.2d 392 (1980) (permitting federal judges to sue to obtain a determination as to whether congressional action violated the Compensation Clause). Distinguishing this lawsuit from that which the Court addressed in Buckley is perhaps best done through illustration.\nUnder 2 U.S.C. \u00a7 27, if the President believes that \u201cfrom the prevalence of contagious sickness, or the existence of other circumstances\u201d it would be hazardous to the health of members of Congress to meet at the seat of the government, the President may convene Congress at such a place \u201cas he may judge proper.\u201d Presume that on the date before an important vote in the spring, the President concluded that the pollen count in the District of Columbia was sufficiently high so as to, \u201cin the opinion of the President,\u201d constitute a \u201chazard\u201d to the \u201chealth of the members.\u201d By proclamation, the President might require the House and Senate to convene at a location on the west coast or in the desert southwest where the pollen count was lower. It would be difficult to conclude that it would be a violation of separation of powers for either the House or the Senate to come to federal court and obtain a judicial declaration as to whether the President was exceeding his authority under 2 U.S.C. \u00a7 27. As courts have reaffirmed time and again, \u201c[i]t is emphatically the province and duty of the judicial department to say what the law is.\u201d Marbury v. Madison, 5 U.S. (1 Cranch) 137, 177, 2 L.Ed. 60 (1803).\nThis hypothetical accurately portrays the situation presented in this suit. Congress has delegated to the Executive Branch, through the Census Act, the responsibility to conduct the decennial census and determine the number of persons in each state for purposes of apportionment. The Bureau has determined that for the 2000 census it will use statistical sampling techniques to supplement the initial headcount enumeration. The House contends that this exercise of the Secretary\u2019s broad discretion violates both the Census Act and the Constitution. And, most critically, if the executive\u2019s interpretation of the statute is, in fact, contrary to the law or the Constitution, the most directly affected entity is the institution of the House of Representatives, because of its mandatory duty to apportion representatives based upon a lawful and constitutional decennial census, and because of its legally cognizable interest in its lawful composition. Consequently, the same limiting principle showing that today\u2019s holding does not create general legislative standing (see Part H.A.4., above) also demonstrates that we need not be concerned here with the principle of separation of powers. The House may file suit only when it satisfies the rigorous injury in fact requirements of Article III, and not whenever there is alleged executive branch noncompliance with federal law.\nHaving determined that: 1) the House of Representatives has Article III standing; 2) the matter is ripe for resolution; 8) dismissal on an equitable basis is not called for, and, 4) the doctrine of separation of powers is not violated, the court will now turn its attention to the merits.\nIII. PLAINTIFF\u2019S MOTION FOR SUMMARY JUDGMENT\nIn Wisconsin v. New York, the Supreme Court addressed a challenge to the Secretary of Commerce\u2019s decision not to adjust statistically the headcount results from the 1990 enumeration. In holding that the Secretary\u2019s decision was \u201centirely reasonable,\u201d the Court noted the \u201cvirtually unlimited discretion\u201d that the Secretary has over the census by virtue of Congress\u2019 broad delegation through the Census Act. Wisconsin, 517 U.S. at 18-19, 24, 116 S.Ct. 1091. However, the Court expressly noted that it was not being called upon to decide \u201cwhether the Constitution might prohibit Congress from conducting the type of statistical adjustment considered here\u201d or \u201cthe precise bounds of the authority delegated to the Secretary through the Census Act.\u201d Id., at 20 nn. 9, 11, 116 S.Ct. 1091. Most notably, because the Wisconsin challenge centered around whether sampling was required, as opposed to proscribed, the Court did not have occasion to consider Oklahoma\u2019s argument that \u201cCongress has constrained the Secretary\u2019s discretion to statistically adjust the decennial census [through 13 U.S.C. \u00a7 195].\u201d Id. at n. 11, 116 S.Ct. 1091. The question left unresolved in Wisconsin \u2014 whether, as an exercise of his discretion, the Secretary may employ statistical sampling to determine the population for purposes of congressional apportionment without violating either the Census Act or the Constitution\u2014is squarely before this court.\nA. The Census Act\nThe interpretation of two provisions of the Census Act, sections 141(a) and 195, is ultimately determinative as to whether statistical adjustment to the initial headcount is permissible or proscribed. These provisions were last amended in 1976, and the resolution of this dispute depends upon the substantive effect of the amendments. Plaintiff contends that while the 1976 amendments encourage, if not require, the extensive use of sampling to collect the myriad of general demographic information that the Bureau is obliged to compile under the Census Act\u2014from occupational to educational to income\u2014they do not permit the use of statistical sampling to determine population for purposes of apportionment. Defendants allege that Congress\u2019s grant of authority to use sampling techniques extends to the apportionment enumeration. Other courts that have addressed these two sections and the effect of the 1976 amendments have rejected the view that the Census Act prohibits statistical sampling. See City of New York v. Department of Commerce, 34 F.3d 1114, 1124-25 (2d Cir.1994), rev\u2019d on other grounds sub nom., Wisconsin v. City of New York, 517 U.S. 1, 116 S.Ct. 1091, 134 L.Ed.2d 167 (1996); Carey v. Klutznick, 508 F.Supp. 404, 415 (S.D.N.Y.1980) (concluding that the Bureau may only use sampling in addition to more traditional methods of enumeration); City of Philadelphia v. Klutznick, 503 F.Supp. 663, 679 (E.D.Pa.1980); Young v. Klutznick, 497 F.Supp. 1318 (E.D.Mich.1980); rev\u2019d on other grounds, 652 F.2d 617 (6th Cir.1981). For the following reasons, the court must disagree.\n1. The Pre-1976 Law\nPrior to 1957, Congress did not identify any manner in which the decennial census was to be conducted. In 1957, in an effort to make \u201cthe various census activities ... more uniform, modern and practicable,\u201d see H.R.Rep. No. 85-1043, at 1 (1957), Congress enacted 13 U.S.C. \u00a7 195, which provided:\n[ejxeept for the determination of population for apportionment purposes, the Secretary may, where he deems it appropriate, authorize the use of the statistical method known as \u2018sampling\u2019 in carrying out the provisions of this title.\nPub.L. No. 85-207, 71 Stat. 481, 483-84 (1957).\nIt cannot reasonably be disputed that this version of section 195 distinguished between congressional apportionment and other census data collection activity regarding statistical sampling, proscribing its use in the former. The legislative history is eminently clear on this issue.\nSection 195 provides that the Secretary of Commerce may authorize the use of the statistical method known as sampling in carrying\u2019 out the purposes of title 13, if he deems it appropriate. However, section 195 does not authorize the use of sampling\nprocedures in connection with apportionment of Representatives.\nThe purpose of Section 195 in authorizing the use of sampling procedures is to permit the utilization of something less than a complete enumeration, as implied by the word \u201ccensus,\u201d when efficient and accurate coverage may be effected through a sample survey. Accordingly, except with respect to apportionment, the Secretary of Commerce may use sampling procedures when he deems it advantageous to do so.\nH.R.Rep. 85-1043, at 10. Additionally, the pre-1976 version of \u00a7 141 did not mention the use of statistical sampling.\nThere is also little question that the primary purpose of the 1976 legislation on the Census Act was to authorize the Secretary of Commerce to conduct a mid-decade census. See S.Rep. No. 94-1256,'at 1, U.S.Code Cong. & Admin. News 1976, p. 2459 (1976); Franklin v. Massachusetts, 505 U.S. at 816-17 n. 16, 112 S.Ct. 2767. Whether the existing prohibition against the use of sampling to determine population for apportionment purposes was also eliminated through the amendments is the question to which the court now turns.\n2. The 1976 Amendments and Their Effect\nThree preliminary points must be addressed before this court considers whether the 1976 amendments altered the manner in which the Secretary may conduct the apportionment enumeration. First, \u201c[a] party contending that legislative action changed settled law has the burden of showing that the legislature intended such a change.\u201d Green v. Bock Laundry Mach. Co., 490 U.S. 504, 521, 109 S.Ct. 1981, 104 L.Ed.2d 557 (1989). Given that settled law proscribed sampling in the apportionment census, the burden here falls on defendants. Second, \u201c \u2018where an otherwise acceptable construction of a statute would raise serious constitutional problems, the Court will construe the statute to avoid such problems unless such construction is plainly contrary to the intent of Congress.\u2019\u201d Public Citizen v. Department of Justice, 491 U.S. 440, 466, 109 S.Ct. 2558, 105 L.Ed.2d 377 (1989) (quoting Edward J. DeBartolo Corp. v. Florida Gulf Coast Building & Construction Trades Council, 485 U.S. 568, 575, 108 S.Ct. 1392, 99 L.Ed.2d 645 (1988)); see also United States v. X-Citement Video, Inc., 513 U.S. 64, 69, 115 S.Ct. 464, 130 L.Ed.2d 372 (1994); United States ex rel. Attorney General v. Delaware & Hudson Co., 213 U.S. 366, 408, 29 S.Ct. 527, 53 L.Ed. 836 (1909). Finally, the court notes that for the 1980 census, the first enumeration affected by the 1976 amendments, the Department of Commerce took the position\u2019 that statistical sampling in connection with the apportionment enumeration remained prohibited. See Census Undercount Adjustment: Basis for Decision, 45 Fed.Reg. 69,-366, 69,371-73 (1980) (\u201cThus, Title 13 clearly continues the constitutional mandate and historical precedent of using the \u2018actual Enumeration\u2019 for purposes of apportionment, while eschewing estimates based on sampling or other statistical procedures, no matter how sophisticated.\u201d).\na. Section 195\ni. Plain Text\nAmended section 195 provides:\nExcept for the determination of population for purposes of apportionment of Representatives in Congress among the several States, the Secretary shall, if he considers it feasible, authorize the use of the statistical method known as \u201csampling\u201d in carrying out the provisions of this title.\nDefendants point to \u201cthe extraordinary clarity of the statutory text,\u201d Defendants\u2019 Summary Judgment Opposition at 37, as they argue that the discretion to decide whether to use statistical sampling for congressional apportionment is now committed to the Secretary. Defendants note that the 1976 amendments to section 195 altered the call for non-apportionment use of statistical sampling methods from \u201cmay,\u201d which is an authorization, to \u201cshall,\u201d which is a mandate. Defendants argue that an exception from a mandate is not a prohibition in the area covered by exception; instead, the area covered by the exception is discretionary. See Defendants\u2019 Motion to Dismiss at 59-60.\nTo illustrate defendants\u2019 interpretation of how this sentence structure operates, consider the directive, \u201cExcept for Mary, all children at the party shall be served cake.\u201d That all children other than Mary must be served cake is beyond dispute. However, that mandate does not affirmatively prohibit the host from serving cake to Mary. The decision as- to whether to serve cake to Mary is, by defendants\u2019 understanding of the instruction, a matter left to the host\u2019s discretion. Applied to the instant case, defendants claim that with respect to apportionment, current section 195 commits the decision to use sampling to the discretion of the Secretary.\nDefendants cite several examples from the United States Code supporting their interpretation of the \u201cexcept ... shall\u201d structure, in which an exception from a mandate that a federal officer \u201cshall\u201d do something does not constitute a prohibition in the area covered by the exception. The provision:\n[ejxcept in emergencies, any regulations of the Secretary promulgated under this section shall be put into effect only after consultation with the appropriate fish and game agency,\ndoes not forbid the Secretary of the Interior from consulting with fish and game agencies in an emergency if he so chooses. See 16 U.S.C. \u00a7 230d; see also 16 U.S.C. \u00a7\u00a7 459\u00cd-4, 460w-4. Similarly, the directive in 5 U.S.C; \u00a7 555(e) that:\n[ejxcept in affirming a prior denial or when the denial is self-explanatory, the notice shall be accompanied by a brief statement of the grounds for denial,\ndoes not proscribe the issuance of a brief statement when affirming a prior denial. At least one court has read section 195 in this manner. See City of Philadelphia v. Klutznick, 503 F.Supp. at 679 (\u201cThus, although the Bureau is not required to make statistical adjustments, it is not expressly prohibited from doing so.\u201d) (emphasis in original).\nThough defendants\u2019 interpretation of the except/shall sentence structure is proper in some instances, the court finds it to be strained and incorrect when applied to amended section 195. Common sense and background knowledge concerning the subject matter of the exception dictates that the \u201cexcept\u201d clause must be read as prohibitory.\nFirst, an exception from a command to do \u201cX\u201d more often than not represents a prohibition against doing \u201cX\" with respect to the subject matter covered by the exception. In the party hypothetical, one would expect that the person who issued the directive \u201cexcept for Mary, all children at the party shall be served cake\u201d would be quite surprised to learn that Mary had been served cake.\nThis reading of the except/shall structure becomes even more obvious when one knows something special about the subject matter of the excepted class that would make it highly unlikely that its treatment would be committed to the discretion of another. Consider the directive \u201cexcept for my grandmother\u2019s wedding dress, you shall take the contents of my closet to the cleaners.\u201d It is far more likely that the granddaughter would be upset if the recipient of her directive were to take the wedding dress to the cleaners and subsequently argue that she had left this decision to his discretion. The reason for this result, as contrasted with the cake example, is because of our background knowledge concerning wedding dresses: We know that they are extraordinarily fragile and of deep sentimental value to family members. We therefore would not expect that the decision to take a dress to the cleaners would be purely discretionary.\nThe apportionment of congressional representatives among the states is the wedding dress in the closet. We have a prior understanding that demands the conclusion that whether to use statistical sampling is not to be left to the discretion of the Secretary of Commerce absent a more direct congressional pronouncement. The apportionment function is, after all, the \u201csole constitutional purpose of the decennial enumeration.\u201d 1998 Appropriations Act \u00a7 209(a)(1). The manner in which it is conducted may impact not only the distribution of representatives among the states, but also the balance of political power within the House. And, the apportionment has a direct effect upon the presidency as well, as the number of electors in the electoral college is \u201cequal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress.\u201d Art. II, \u00a7 2, cl. 2. That the congressional apportionment function merits particularized treatment is best demonstrated by the fact that when Congress first authorized the use of sampling in 1957, that function was expressly excepted. Having been completely explicit then, it is hard to believe that Congress decided to rely upon subtle shifts in language to direct the opposite in 1976.\nIn light of the special position occupied by congressional apportionment in the universe of functions entrusted to the Bureau of the Census, the most logical reading of the effect of the amendments to section 195 is that while they strengthen the call for sampling in non-apportionment information gathering, they do not have the implicit collateral effect of transforming what was formerly an absolute proscription into a matter of pure agency discretion. Ultimately, the court agrees with plaintiffs assertion that \u201c[defendants\u2019 argument that Congress eliminated a 200 year old prohibition against the use of statistical estimation techniques in the constitutional census by way of a permissive negative inference from an exception to a statutory mandate is wholly implausible.\u201d Plaintiffs Summary Judgment Reply at 11.\nii. Legislative History\nEven if the meaning of section 195 could not be resolved from the face of the statute, the legislative history of the 1976 amendments would leave no doubt that the minor textual modifications do not work an historic change in the manner in which the Secretary is permitted to conduct the apportionment enumeration. Compare 45 Fed.Reg. at 69,-372 (\u201cThe legislative history off Title 13 makes it eminently clear that sampling was not to be used in apportionment.\u201d).\nIt is a cardinal principle of statutory interpretation that dramatic departures from past practices should not be read into statutes without a definitive signal from Congress. \u201c[I]f Congress had such an intent [to exclude judicial elections from \u00a7 2 of the Voting Rights Act because of the inclusion of the word \u201crepresentatives\u201d] Congress would have made it explicit in the statute, or at least some Members would have identified or mentioned it at some point in the unusually extensive legislative history.\u201d Chisom v. Roomer, 501 U.S. 380, 896, 111 S.Ct. 2354, 115 L.Ed.2d 348 (1991); see also Connecticut National Bank v. Germain, 503 U.S. 249, 255, 112 S.Ct. 1146, 117 L.Ed.2d 391 (1992) (Stevens, J., concurring) (\u201cIf Congress had intended such a significant change ... some indication of this purpose would almost certainly have found its way into the legislative history.\u201d); United States v. Hansen, 772 F.2d 940, 944 (D.C.Cir.1985) (Scalia, J.) (\u201cIt is a venerable rule, frequently reaffirmed by the Supreme Court, that \u2018repeals by implication are not favored,\u2019 and will not be found unless an intent to repeal is \u2018clear and manifest.\u2019 \u201d) (citations omitted). Perhaps the most eloquent statement of this concept comes from then-justice Rehnquist, writing in dissent in Harrison v. PPG Industries, Inc., 446 U.S. 578, 602, 100 S.Ct. 1889, 64 L.Ed.2d 525 (1980):\nIn a case where the construction of legislative language such as this makes so sweep-. ing and so relatively unorthodox a change as that made here, I think judges as well as detectives may take into consideration the fact that a watchdog did not bark in the night.\n(quoted in Chisom, 501 U.S. at 396 n. 23, 111 S.Ct. 2354).\nDespite defendants\u2019 characterization of the force of the legislative history, and the characterization of at least one reviewing court, see City of New York, 34 F.3d at 1125, the court finds no indication that the watchdog barked in the night.\nAgain, the court notes that the primary rationale behind amending the Census Act in 1976 was to establish the mid-decade census. See S.Rep. 94-1256, at 1 (1976). On the issue of sampling, the Conference Report language upon which defendants primarily rely states:\nSection 7 of the House bill amends section 195 of title 13 to require that the Secretary of Commerce authorize the use of sampling procedures in carrying out the provisions of such title whenever he deems it feasible, except in the apportionment of the U.S. House of Representatives. This differs from the present provisions of section 195 which grant the Secretary discretion to use sampling when it is considered appropriate. This section, as amended, strengthens the congressional intent that, whenever possible, sampling shall be used.\nH.R.Conf.Rep. No. 94-1719, at 13 (1976); see also S.Rep. No. 94-1256, at 6, U.S.Code Cong. & Admin. News 1976, p. 2460 (same with minor textual changes).\nThis language re-enforces what is obvious from the plain text of amended section 195: that Congress was issuing a much stronger directive to the Department of Commerce to employ sampling methodologies in most aspects of its Title 13 data gathering responsibilities. However, Congress\u2019s explicit directive again includes that ubiquitous qualifier \u2014 \u201cexcept in the apportionment of the U.S. House of Representatives.\u201d The inclusion of this \u201cexcept\u201d language must be read to mean that one area was affirmatively carved out from the general desire to augment the use of sampling \u2014 the area of the congressional apportionment enumeration. The second sentence of the excerpted language is even more damaging to defendant\u2019 argument, as it states that the only difference between the old and the new section 195 is a reduction in the Secretary\u2019s discretion to use sampling, not a categorical creation of discretion in an area in which he previously had none. See Franklin, 505 U.S. at 816-17 n. 16, 112 S.Ct. 2767 (noting the limitation upon the Secretary\u2019s authority in the nonapportionment census).\nThe absence of the legislature\u2019s bark is all the more compelling when one considers what the watchdog is guarding. In United States v. Bass, 404 U.S. 336, 349, 92 S.Ct. 515, 30 L.Ed.2d 488 (1971), the Supreme Court noted that a plain statement of intent to change the meaning of a statute is especially vital in \u201ctraditionally sensitive areas\u201d because \u201cthe requirement of clear statement assures that the legislature has in fact faced, and intended to bring into issue, the critical matters involved in the judicial decision.\u201d Subsequently, in Armstrong v. Bush, 924 F.2d 282, 289 (D.C.Cir.1991), the D.C. Circuit applied that rule of statutory analysis to instances in which the balance of power between branches of the federal government would be affected. \u201cAlthough the \u2018clear statement\u2019 rule was originally articulated to guide interpretation of statutes that significantly alter the federal-state balance, there are similar\u2019 compelling reasons to apply the rule to statutes that significantly alter the balance between Congress and the President.\u201d Id. Bass and Armstrong together indicate that in an instance such as this, where the discretion afforded the executive on a matter affecting the composition of another co-equal branch would be dramatically altered, an especially clear signal by the legislature is mandated. None is present. Not only is there no indication in either the House or the Senate Reports that'Congress intended to change the discretion \u00e1fforded the Executive Branch, but the record is also conspicuously devoid of hearings, investigations and other legislative fact-finding efforts on the issue of statistical sampling in 1976. The House of Representatives\u2019 apparent lack of interest in a statutory modification that goes to the fundamental matter of its composition cannot be ignored by the court. See Connecticut National Bank, 503 U.S. at 255, 112 S.Ct. 1146 (Stevens, J., concurring) (\u201cThe silence tends to support the conclusion that no such change was intended.\u201d) (citation omitted).\nFinally, this court agrees with plaintiffs contention that \u201c[i]t borders on the absurd that Congress would enact such a momentous change in such an oblique fashion.\u201d' Plaintiffs Motion for Summary Judgment at 36. Had Congress wished to authorize sampling techniques employed in the apportionment enumeration, it could have done so quite simply by either: a) deleting the \u201cexcept\u201d clause in its entirety; or, b) modifying the clause so as to affirmatively declare what defendants claim to be true by implication; that the Secretary may, in the exercise of his discretion, use sampling techniques to supplement the initial headcount enumeration to determine population for apportionment. Compare Landgraf v. USI Film Products, 511 U.S. 244, 262, 114 S.Ct. 1483, 128 L.Ed.2d 229 (1994) (\u201c[Pjetitioner\u2019s statutory argument would require us to assume that Congress chose a surprisingly indirect route to conv\u00e9y an important and easily expressed message.\u201d). Because of the straightforward means available to Congress to accomplish its purported goal, this court declines to ascribe to Congress the \u201csurprisingly indirect route\u201d that defendants advance.\nDefendants have not met their Bock Laundry burden of showing that through the 1976 amendments to 13 U.S.C. \u00a7 195, Congress intended to change settled law and permit the use of sampling techniques to determine population for apportionment of representatives among the states.\nb. Section 141(a)\ni. Plain Text\nWhatever strength there is to the claim that using statistical sampling in the apportionment enumeration does not violate the Census Act comes from the fact that section 195 must be read together with the other provision addressing sampling methodologies: section 141(a). See City of New York, 34 F.3d at 1124; Carey v. Klutznick, 508 F.Supp. at 415; Census 2000 Report at 53.\nPrior to 1976, section 141(a) did not address sampling procedures. The posH976 version states, in relevant part:\nThe Secretary shall, in the year 1980 and every 10 years thereafter, take a decennial census of population ... in such form and content as he may determine, including the use of sampling procedures and special surveys (emphasis added).\nDefendants point to the addition of the emphasized language to claim that statistical sampling for purposes of apportionment is presently permissible. In support of this assertion, they note that section 141(a) constitutes the Secretary\u2019s sole authority to take the decennial census of the population. They also note that section 141(b), which directly addresses the congressional apportionment function, references the \u201ctabulation of total population by States under subsection (a) oj this section as required for the apportionment of Representatives in Congress among the several states.\u201d In essence, defendants claim that because the congressional apportionment function described in section 141(b) expressly calls for the use of population data obtained under subsection (a), and subsection (a) permits the use of sampling procedures and special surveys to obtain those data, sampling procedures and special surveys must be permissible in tabulating total population for the apportionment of representatives.\nThe House contends that the amendments to section 141(a) cannot be read as an authorization to use sampling for congressional apportionment. It notes that the term \u201ccensus of population\u201d in section 141(a) is broadly defined in section 141(g) to include far more than the congressional apportionment enumeration, including \u201cpopulation, housing, and matters related to population and housing .\u201d Therefore, under plaintiffs understanding of how the two provisions co-exist, section 141(a)\u2019s references to sampling and special surveys applies only to the myriad of demographic data that the Bureau collects in conjunction with the decennial enumeration. The House claims that the broad authorization of section 141 to use sampling in most aspects of data collection cannot affect the prohibition concerning apportionment in section 195, because, if it did, the \u201cexcept\u201d clause of section 195 would be rendered meaningless. See Bennett, 117 S.Ct. at 1166 (\u201c[i]t is our duty \u2018to give effect, if possible, to every clause and word of a statute\u2019 ... rather than to emasculate an entire section\u201d) (citation omitted).\nTo the extent that section 141(a), which standing alone appears to permit statistical sampling in congressional apportionment, and section 195, which indisputably proscribes the same, conflict, the rules of statutory construction dictate the resolution. The more specific provision controls the general. \u201cA general statutory rule usually does not govern unless there is no more specific rule.\u201d Bock Laundry, 490 U.S. at 524, 109 S.Ct. 1981; see also Crawford Fitting Co. v. J.T. Gibbons, Inc., 482 U.S. 437, 445, 107 S.Ct. 2494, 96 L.Ed.2d 385 (1987). \u201cHowever inclusive may be the general language of a statute, it \u2018will not be held to apply to a matter specifically dealt with in another part of the enactment.\u2019 \u201d Fourco Glass Co. v. Transmirra Products Corp., 353 U.S. 222, 228-29, 77 S.Ct. 787, 1 L.Ed.2d 786 (1957) (quoting MacEvoy Co. v. United States, 322 U.S. 102, 107, 64 S.Ct. 890, 88 L.Ed. 1163 (1944)) (quoting D. Ginsberg & Sons v. Popkin, 285 U.S. 204, 208, 52 S.Ct. 322, 76 L.Ed. 704 (1932)).\nAware of this rule of construction, the parties naturally dispute which of the two provisions is the specific and which is the general. In this case, the section headings\u2014 which were enacted into positive law along with the statutory text, see Pub.L. No. 94-521, \u00a7 7, 90 Stat. 2459, 2461 (1976) (Section 141); Pub.L. No. 85-207, 71 Stat. 484 (1957) (Section 195) \u2014 definitively resolve this conflict. Section 141 is entitled \u201cPopulation and Census Information\u201d; section 195 is captioned \u201cUse of Sampling.\u201d As between the two, section 195 is clearly the more specific, and therefore controlling to the extent that the two provisions conflict. The precise question that this court is called upon to resolve is whether statistical sampling in the apportionment enumeration violates the Census Act. The answer to that question must be gleaned from the provision that addresses when sampling may be used (and when it may not) over the section that gives the Secretary the broad authority to conduct the entire decennial census. Consequently, while \u00a7 141 permits sampling techniques and surveys in the conduct of the decennial census, that general grant is subject to the more specific \u201cUse of Sampling\u201d directive in \u00a7 195, which, as explained above, explicitly proscribes the use of sampling for apportioning representatives among the states.\nii. Legislative History\nAs with section 195, a definitive signal that Congress intended the amendment to section 141(a) to work a fundamental change in the manner in which the Secretary could conduct his population tabulation responsibilities is strikingly absent. \u201cThe legislative history evidences no intention to expand the scope of the Secretary\u2019s discretion.\u201d Franklin v. Massachusetts, 505 U.S. at 816-17 n. 16, 112 S.Ct. 2767.\nThe Conference Report states:\nSection 141(a) of title 13, as amended bisection 5(a) of the House bill, provides for the decennial census, and is essentially the same as the provisions of existing law, except that a reference is made ... to the use of sampling procedures and special surveys.\nH.Conf. No. 94-1719, at 11 (emphasis added).\nThis statement is far from a clarion call announcing a fundamental change in the conduct of the only constitutional aspect of the census. The Conference Report explicitly notes that the subsequent law is to be \u201ces\u25a0sentially the same as existing law.\u201d Existing law, of course, proscribed the use of statistical sampling for purposes of congressional apportionment. See supra; see also 45 Fed. Reg. 66,372; Defendants\u2019 Summary Judgment Opposition at 40 (\u201cIn addition, Congress knew that, in enacting the 1976 amendments to sections 141 and 195, it was departing from preexisting law.\u201d). The only other significant language in the Conference Report is the final clause, but it strains credulity to translate the statement \u201creference in made ... \u2022 to the use of sampling procedures\u201d into \u201csampling procedures may now be used to enumerate the population for congressional apportionment, thereby abandoning the longstanding methodology by which we count people.\u201d See Wisconsin, 517 U.S. at 11, 116 S.Ct. 1091 (citing the Secretary\u2019s statement that \u201clarge-scale statistical adjustment of the census ,.. would \u2018abandon a two hundred year tradition of how we actually count people\u2019\u201d and that this change would be a step of \u201c \u2018magnitude\u2019 \u201d).\nNor is the Senate Report helpful. It states that \u201c[n]ew language is added at the end of the subsection to encourage the use of sampling and surveys in the taking of the decennial census.\u201d S.Rep. No. 94-1256, at 4. As explained previously, the term \u201cdecennial census\u201d encompasses much more than the population tabulation used to apportion representatives among the states. See 13 U.S.C. \u00a7 141(g). Therefore, this statement may be easily reconciled with the court\u2019s conclusion that sampling should be used in any and all areas in which that use is legal and/or constitutional, but that it may not be used in the apportionment of representatives among the states.\nReading section 141(a) and section 195 together, and considering the plain text, legislative history and other tools of statutory construction, this court finds that the use of statistical sampling to determine the population for purposes of the apportionment of representatives in. Congress among the states violates the Census Act.\nB. Constitutional Grounds\nA federal court is directed to avoid deciding matters on constitutional grounds when the matter may be resolved on another basis. \u201cIf there is one doctrine more deeply rooted than any other in the process of constitutional adjudication, it is that we ought not to pass on questions of constitutionality ... unless such adjudication is unavoidable.\u201d Spector Motor Service, Inc. v. McLaughlin, 323 U.S. 101, 105, 65 S.Ct. 152, 89 L.Ed. 101 (1944); see Ashwander v. Tennessee Valley Authority, 297 U.S. 288, 347, 56 S.Ct. 466, 80 L.Ed. 688 (1936) (Brand\u00e9is, J., concurring) (\u201cThus, if a case can be decided on either of two grounds, one involving a constitutional question, the other a question of statutory construction or general law, the Court will decide only'the latter.\u201d); Siler v. Louisville & Nashville R.R. Co., 213 U.S. 175, 193, 29 S.Ct. 451, 53 L.Ed. 753 (1909) (\u201cWhere a case in this court can be decided without reference to questions arising under the Federal Constitution, that course is usually pursued and not departed from without important reasons.\u201d). Because this court finds that the Census Act prohibits the use of statistical sampling to determine the population for the purpose of apportionment of representatives among the states, there is no need to reach the constitutional questions presented.\nA separate order and injunction shall issue this date.\nGINSBURG, Circuit Judge, and URBINA, J., concur.\n. On May 27, 1998, pursuant to Fed.R.Civ.P. 24(b), the court granted the motions of four groups of movants to intervene as defendants: the Richard A. Gephardt Group, the California Legislative Group, the City of Los Angeles Group and the National Korean American Service and Educational Consortium Group. For purposes of clarity, the original defendants and the four intervenor-defendants collectively will be referred to as \"defendants\u201d except where their interests or arguments diverge.\n. That the undercount problem is not evenly distributed, and that minorities are thought to be undercounted to a greater degree than the population as a whole, are among the most troubling aspects of the census in the late 20th century. The Supreme Court and other reviewing courts have observed the persistence of the differential undercount problem even as the overall census count has become more accurate. See Wisconsin, 517 U.S. at 7, 116 S.Ct. 1091; City of Detroit v. Franklin, 4 F.3d 1367, 1371 (6th Cir.1993) (noting that in the 1990 enumeration blacks and other minorities were undercounted to a greater degree than non-Hispanic whites); Tucker v. U.S. Department of Commerce, 958 F.2d 1411, 1412-13 (7th Cir.1992) (\u201cThere is reason to believe ... that the undercount is not randomly distributed, but instead is concentrated in the poor, among whom blacks and Hispanics are disproportionately represented, and among illegal aliens, who are disproportionately Hispanic\u2019\u2019); see also Christopher Taylor, Note, Vote Dilution and the Census Undercount: A State-hy-State Solution, 94 Mich.L.Rev. 1098, 1102 (1996) (documenting the increase in the African-American undercount since 1940).\n. Innovations in the 2000 census are not limited to statistical sampling. The Bureau also has developed a number of techniques to improve returns in the traditional headcount phase. First, the Master Address File (MAF) of the estimated 118 million housing units in the nation will be far superior to the one generated in 1990. See Census 2000 Report at 19-21 (detailing the methods that will be used to compile a more accurate MAF). Second, the Bureau plans to improve overall outreach by mailing two waves of census questionnaires (with each wave preceded by a mailed notice/reminder), creating more ways to respond, and employing questionnaires written in other languages. Id. at 21-22. Finally, the Bureau plans to introduce several new technologies to eliminate multiple responses from the same household, and to use new hardware and software for better data capture. Id. at 22.\n. An example of a \"homogeneous sampling stratum\" would be \u201cblocks in large central cities with a 1990 census population that was 30 percent or more African American renters and with 10 percent or more Hispanic renters.\u201d Census 2000 Report at 30.\n. At oral argument, intervenor-defendant National Korean American Service & Education Consortium, Inc., et al. moved to join the Department of Commerce\u2019s motion to dismiss, and the court granted that motion.\n. Any prudential limitations on standing have been eliminated in this case by section 209(b) of the 1998 Appropriations Act. See Federal Election Comm\u2019n v. Akins, - U.S. -, -, 118 S.Ct. 1777, 1783-84, 141 L.Ed.2d 10 (1998); Raines, 117 S.Ct. at 2318 n. 3 (\"Congress\u2019 decision to grant a particular plaintiff the right to challenge an act's constitutionality ... eliminates any prudential standing limitations.\u201d); Warth, 422 U.S. at 501, 95 S.Ct. 2197 (\"Congress may grant an express right of action to persons who otherwise would be barred by prudential standing rules.\u201d).\n. In their reply memorandum in support of their motion to dismiss, defendants for the first time claim that redressability is at issue to the extent that the House relies upon 2 U.S.C. \u00a7 2a(a) as a source of injury, because it is the President, not the Secretary or the Bureau, who ultimately transmits the apportionment statement to Congress. See Franklin v. Massachusetts, 505 U.S. 788, 797, 112 S.Ct. 2767, 120 L.Ed.2d 636 (1992). This argument lacks merit. Section 2a(a) directs the President to transmit to Congress the number of persons \"as ascertained under the decennial census of the population,\u201d meaning that the President must use the census figures as the basis for the numbers he forwards. See id. at 797, 112 S.Ct. 2767 (noting that the president must use \"data from the 'decennial census\u2019 \"). An injunction issued against the Sec-retaiy or the Bureau prohibiting the use of statistical sampling in the apportionment census would grant plaintiff the relief it seeks.\n. Because Article III standing is subject to an \"imminence\u201d threshold, and ripeness requires a finding of \"direct and immediate harm,\u201d these two justiciability doctrines often merge. See Warth, 422 U.S. at 499 n. 10, 95 S.Ct. 2197 (noting the \"close affinity\u201d between ripeness and standing). For purposes of clarity, this section on standing will be limited to determining whether plaintiff has alleged a legally cognizable injury. Section II.B will then turn to the question . of whether the alleged injury is. sufficiently immediate and \u201ccertainly impending.\u201d\n. The concept that the House of Representatives (and the Senate) has a concrete and particularized interest in matters affecting its composition has constitutional inklings as well. Article I, section 5, clause 1 of the Constitution states that \"[e]ach House shall be the Judge of the Elections, Returns and Qualifications of its own Members.\" While that clause does not go directly to the conduct of the census or apportionment, it provides some indication that the framers believed that each chamber has an individualized interest in its own composition.\n. The House offers an alternative explanation for the non-sampling census preparations: the preparations allow the Bureau to move forward during the time required for the courts to resolve this legal controversy and be prepared should plaintiff prevail. See Plaintiff\u2019s Opposition to Defendants' Motion to Dismiss at 36. \u2022\n. This statutory analysis does not require the court to give deference to the agency's interpretation pursuant to Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 842-44, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984). First, as will be demonstrated, the plain language and legislative history leave no doubt as to the purpose underlying Congress' promulgation of the 1976 amendments to the Census Act. \"If the intent of Congress is clear, that is the end of the matter.\u201d Id. at 842, 104 S.Ct. 2778. Second, the Secretary of Commerce has reversed his position on this issue, see 45 Fed.Reg. 69, 366, 69371-73 (1980), and the new position is entitled to \"considerably less deference than a consistently held agency view.\u201d See Thomas Jefferson University v. Shalala, 512 U.S. 504, 515, 114 S.Ct. 2381, 129 L.Ed.2d 405 (1994) (citations omitted). Finally, the Secretary has not amply justified his change of interpretation with a \"reasoned analysis.\u201d See Rust v. Sullivan, 500 U.S. 173, 187, 111 S.Ct. 1759, 114 L.Ed.2d 233 (1991) (quoting Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co., 463 U.S. 29, 42, 103 S.Ct. 2856, 77 L.Ed.2d 443 (1983)).\n. Amici Washington Legal Foundation, et al. contend that the second clause of \u00a7 195 is not truly a 'mandate' to use sampling. By directing the Secretary to use sampling \"if he considers it feasible,\" its use is still effectively left' to the discretion of the Secretary. See Brief of Washington Legal Foundation at 17. Because this point does not affect the outcome of this analysis, the court declines to address it in detail.",
+        "type": "majority",
+        "author": "LAMBERTH, District Judge."
+      }
+    ],
+    "attorneys": [
+      "Maureen Ellen Mahoney, Nandan M. Jo-shi, Richard Bress, Latham & Watkins, Washington, DC, for Plaintiff.",
+      "Thomas William Millet, IV, U.S. Department Of Justice, Civil Division, Washington, DC, for Defendants Dept, of Commerce, William M. Daley, Bureau of Census.",
+      "Karen Mary Wahle, O\u2019Melveny & Myers, L.L.P., Washington, DC, for Intervenor-De-fendants City of San Bernadino, Cal., Carolyn Member of U.S. House of Representatives, Loretta Sanchez, Movants City of Los Angeles, City of New York, City of Chicago, City and County of San Francisco, Cal., Miami-Dade County, City of Inglewood, City of Houston, Tex., City of San Antonio, Tex., City of San Jose, Cal., City of Stamford, Conn., City of Cudahy, City of Santh Clara County of Alameda, County of Riverside, State of New Mexico, U.S. Conference of Mayors, League of Women Voters of Los Angeles, Christopher Shays, Tom Sawyer, Rod Blagojevieh, Bobby Rush, Luis Guitier-rez, John Conyers, Jr., Jose Serrano, Cynthia McKinney, Charles Rangel, Howard Berman, Xavier Beccera, Julian Dixon, Henry Waxman, Maxine Waters, Esteban Torres, Sheila Jackson Lee, City of Detroit, City of Bell, City of Gardena, City of Huntington Park, Robert Mendenez, Ed Pastor, Silvestre Reyes, Ciro Rodriguez, Carlos Romero-Bar-celo.",
+      "Jessica F. Heinz, James K. Hahn, Moses Silverman, Victoria W. Ni, Diane Knox, Kathleen Purcell, Paul, Weiss, Rifkind, Wharton & Garrison,New York, NY, Michael Edward Veve, Lasa, Monroig & Veve, Washington, DC, for Intervenor-Defendant Chayo a resident of Tex, Movants Organization of Chinese Americans, Los Angeles, California Chapter, Search to Involve Philipino Americans, Inc., United Cambodian Community, Inc., League of United Latin American Citizens, California League of United Latin American Citizens, Nat. Ass\u2019n of Latino Elected and Appointed Officials, Inc., Members of East Los Angeles, Hee-Sook Kim, Michael Balaoing, Alvin Parra.",
+      "Jerome Charles Schaefer, William Joseph Butler, Jr., O\u2019brien, Birney & Butler, Washington, DC, for Amicus American Statistical Ass\u2019n.",
+      "Richard A. Samp, Washington Legal Foundation, Washington, DC, for amicus Washington Legal Foundation, Allied Educ. Foundation, American Conservative Union, Amer \u2022 for Tax Reform, Ass\u2019n of American Physicians and Surgeons, Inc., Citizens for Judicial Reform, Citizens United Foundation, Coalition of Virgina Taxpayers, English First, Freedom in Medicine Foundation, Independence Institute, Independent Women\u2019s Forum, Islamic Institute, Law Enforcement Alliance, Local Government Council, New Jersey Citizens for Tax Reform, Patrick Piz-zella, Policy Analysis Center, Dan Racheter, 60 Plus Ass\u2019n, South Carolina Policy, Council Educ. Foundation, Toward Tradition, U.S. Border Patrol, Women For Tax Reform.",
+      "Peter C. Anderson, Wisconsin Department Of Justice, Madison, WI, for State of Wis.",
+      "Donald B. Verrilli, Jr., Paul March Smith, Jenner & Block, Washington, DC, J. Gerald Hebert, Alexandria, VA, for Movants Danny K. Davis, Lucille Roybal-Allard, Juanita Mil-lender-McDonald, Louise M. Slaughter, Bennie G. Thompson.",
+      "Karen Mary Wahle, O\u2019melveny & Myers, L.L.P., Washington, DC,",
+      "Michael Edward Veve, Lasa, Monroig & Veve, Washington, DC, for Movants Sovann Uth, Johnny M. Rodriguez, Gilberto Flores.",
+      "Donald R. Dinan, O\u2019eonnor & Hannan, L.L.P., Washington, DC, for Movant DC Democratic State Committee.",
+      "Edward Still, Lawyers\u2019 Committee For Civil Rights, Washington, DC, for Movants Jerome Gray, Sherman Norfleet, Gwendolyn Patton, Isaiah Sumbry, Diane Wilkerson.",
+      "Mary Lou Soller, Miller & Chevalier, Chartered, Washington, DC, for Movants Legislature of State of Cal., Cal. Senate, John Charles Burton, Cal. Assembly, Antonio Villaraigosa."
+    ],
+    "corrections": "",
+    "head_matter": "UNITED STATES HOUSE OF REPRESENTATIVES, Plaintiff, v. UNITED STATES DEPARTMENT OF COMMERCE, et al., Defendants, and Richard A. Gephardt, et al.; Legislature of the State of California, et al.; City of Los Angeles, et al.; National Korean American Service & Education Consortium, Inc., et al., Intervenor-Defendants.\nNo. Civ.A. 98-0456.\nUnited States District Court, District of Columbia.\nAug. 24, 1998.\nMaureen Ellen Mahoney, Nandan M. Jo-shi, Richard Bress, Latham & Watkins, Washington, DC, for Plaintiff.\nThomas William Millet, IV, U.S. Department Of Justice, Civil Division, Washington, DC, for Defendants Dept, of Commerce, William M. Daley, Bureau of Census.\nKaren Mary Wahle, O\u2019Melveny & Myers, L.L.P., Washington, DC, for Intervenor-De-fendants City of San Bernadino, Cal., Carolyn Member of U.S. House of Representatives, Loretta Sanchez, Movants City of Los Angeles, City of New York, City of Chicago, City and County of San Francisco, Cal., Miami-Dade County, City of Inglewood, City of Houston, Tex., City of San Antonio, Tex., City of San Jose, Cal., City of Stamford, Conn., City of Cudahy, City of Santh Clara County of Alameda, County of Riverside, State of New Mexico, U.S. Conference of Mayors, League of Women Voters of Los Angeles, Christopher Shays, Tom Sawyer, Rod Blagojevieh, Bobby Rush, Luis Guitier-rez, John Conyers, Jr., Jose Serrano, Cynthia McKinney, Charles Rangel, Howard Berman, Xavier Beccera, Julian Dixon, Henry Waxman, Maxine Waters, Esteban Torres, Sheila Jackson Lee, City of Detroit, City of Bell, City of Gardena, City of Huntington Park, Robert Mendenez, Ed Pastor, Silvestre Reyes, Ciro Rodriguez, Carlos Romero-Bar-celo.\nJessica F. Heinz, James K. Hahn, Moses Silverman, Victoria W. Ni, Diane Knox, Kathleen Purcell, Paul, Weiss, Rifkind, Wharton & Garrison,New York, NY, Michael Edward Veve, Lasa, Monroig & Veve, Washington, DC, for Intervenor-Defendant Chayo a resident of Tex, Movants Organization of Chinese Americans, Los Angeles, California Chapter, Search to Involve Philipino Americans, Inc., United Cambodian Community, Inc., League of United Latin American Citizens, California League of United Latin American Citizens, Nat. Ass\u2019n of Latino Elected and Appointed Officials, Inc., Members of East Los Angeles, Hee-Sook Kim, Michael Balaoing, Alvin Parra.\nJerome Charles Schaefer, William Joseph Butler, Jr., O\u2019brien, Birney & Butler, Washington, DC, for Amicus American Statistical Ass\u2019n.\nRichard A. Samp, Washington Legal Foundation, Washington, DC, for amicus Washington Legal Foundation, Allied Educ. Foundation, American Conservative Union, Amer \u2022 for Tax Reform, Ass\u2019n of American Physicians and Surgeons, Inc., Citizens for Judicial Reform, Citizens United Foundation, Coalition of Virgina Taxpayers, English First, Freedom in Medicine Foundation, Independence Institute, Independent Women\u2019s Forum, Islamic Institute, Law Enforcement Alliance, Local Government Council, New Jersey Citizens for Tax Reform, Patrick Piz-zella, Policy Analysis Center, Dan Racheter, 60 Plus Ass\u2019n, South Carolina Policy, Council Educ. Foundation, Toward Tradition, U.S. Border Patrol, Women For Tax Reform.\nPeter C. Anderson, Wisconsin Department Of Justice, Madison, WI, for State of Wis.\nDonald B. Verrilli, Jr., Paul March Smith, Jenner & Block, Washington, DC, J. Gerald Hebert, Alexandria, VA, for Movants Danny K. Davis, Lucille Roybal-Allard, Juanita Mil-lender-McDonald, Louise M. Slaughter, Bennie G. Thompson.\nKaren Mary Wahle, O\u2019melveny & Myers, L.L.P., Washington, DC,\nMichael Edward Veve, Lasa, Monroig & Veve, Washington, DC, for Movants Sovann Uth, Johnny M. Rodriguez, Gilberto Flores.\nDonald R. Dinan, O\u2019eonnor & Hannan, L.L.P., Washington, DC, for Movant DC Democratic State Committee.\nEdward Still, Lawyers\u2019 Committee For Civil Rights, Washington, DC, for Movants Jerome Gray, Sherman Norfleet, Gwendolyn Patton, Isaiah Sumbry, Diane Wilkerson.\nMary Lou Soller, Miller & Chevalier, Chartered, Washington, DC, for Movants Legislature of State of Cal., Cal. Senate, John Charles Burton, Cal. Assembly, Antonio Villaraigosa."
+  },
+  "file_name": "0076-01",
+  "first_page_order": 136,
+  "last_page_order": 164
+}

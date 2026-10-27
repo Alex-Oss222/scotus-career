@@ -1,0 +1,2511 @@
+Supreme Court, U.S. a 
+FILED | 
+
+
+a SEP 18 4999 
+
+
+No. 97-1489 
+
+
+—æZ——ꝛ—y— — — a APTANA RENEE 
+In the Supreme Court of the utes Ska 
+
+
+OCTOBER TERM, 1997 
+
+
+YOUR HOME VISITING NURSE SERVICES, INC., 
+PETITIONER 
+
+
+V. 
+
+
+DONNA E. SHALALA, SECRETARY OF 
+HEALTH AND HUMAN SERVICES 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+SETH P. WAXMAN 
+
+
+HARRIET S. RABB Solicitor General 
+
+General Counsel Counsel of Record 
+SHEREE R. KANNER FRANK W. HUNGER 
+
+Associate General Counsel Assistant Attorney General 
+BRUCE R. GRANGER EDWIN S. KNEEDLER 
+HOWARD H. LEWIS Deputy Solicitor General 
+GERARD KEATING Assistant to the Solicitor 
+
+Attorneys General 
+
+Department of Health and 
+
+
+ANTHONY J. STEINMEYER 
+JOHN P. SCHNITKER 
+Attorneys 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+Human Services 
+Washington, D.C. 20201 
+
+
+QUESTION PRESENTED 
+
+
+Whether a fiscal intermediary’s denial of a Medicare pro- 
+vider’s request to reopen an annual reimbursement determi- 
+nation under Part A of the Medicare program is subject to 
+administrative and judicial review under 42 U.S.C. 139500 
+and, if not, whether the denial is subject to judicial review 
+under 28 U.S.C. 1331, 28 U.S.C. 1361, or the Administrative 
+Procedure Act, 5 U.S.C. 706. 
+
+
+Opinions below 
+Jurisdiction 
+
+
+TABLE OF CONTENTS 
+
+
+Statutory and regulatory provisions involved 
+Statement 
+
+
+Summary of argument 
+
+
+Argument: 
+
+
+I. 42 U.S.C. 139500 does not provide a right of 
+review of an intermediary’s denial of a request 
+
+
+te reopen a final reimbursement determination 
+
+
+A. The text of Section 139500(a) supports the 
+
+
+Secretary’s construction 
+
+
+1. 
+
+
+Section 139500(a) is most naturally read 
+to confer a right to review of a notice of 
+amount of program reimbursement 
+
+
+issued by an intermediary 
+Section 139500(a) does not by its terms 
+confer a right to review of an interme- 
+diary’s refusal to revisit its final 
+
+determination 
+
+
+The Secretary’s interpretation furthers 
+Congress’s intent to require 
+
+
+providers 
+to appeal their NPRs within 180 days 
+
+
+The Secretary’s reopening regulations 
+confirm that there is no right to review 
+by the Board 
+
+
+B. The Secretary’s interpretation of Section 
+
+
+139500(a) is reasonable 
+
+
+1. 
+
+
+The Secretary’s interepretation is con- 
+sistent with the absence of a right to a 
+statutory hearing and judicial review of 
+other reopening denials under the 
+
+Medicare program 
+
+
+The reopening regulations do not 
+permit unchecked or arbitrary action by 
+intermediaries 
+
+
+(IIT) 
+
+
+15 
+
+
+15 
+
+
+17 
+
+
+IV 
+C Contineed Cases—Continued: 
+— ti Chevron Natural Resources Defense es 
+V. 
+3. ‘The reopening regulations reasonably ——— 9.14 
+further the goal of administrative . 
+Commodity Futures Trading Comm'n v. Schor, 
+ae — — = 478 U.S. 883 (1986) 1 
+phe rege — —— — — EEOC v. Commercial Office Prods. Co., 486 U.S. 
+intermediaries 36 107 (1988) . * 
+A. 42US.C. 406(h) prohibits review of re- Farkas v. Blue Cross and Blue Shield of Mich., 
+opening denials under 28 U.S.C. 181 36 24 F.3d 858 (6th Cir. 1994) a 
+Federated Dep't Stores, Inc. v. Moities, 452 U.S. 
+B. Preelusion of judicial review under 28 394 (1981) 35, 36 
+43 — Filice v. Cellbrezze, 319 F.2d 443 (9th Cir. 1968) 29 
+Michigan Academy of Family Physicians .... 38 
+Ill. The mand tatute, 28 U.S.C. 1361, does not French Hosp. Med. Ctr. v. Shalala, 89 F.3d 1411 
+furnish a basis for reviewing an intermediary’s CSG. NS ae 
+decision denying reopening 42 Giova v. Rosenberg, 379 U.S. 18 (1964) 30 
+IV. The APA does not provide a basis for subject Good Samaritan Hosp. v. Shalala, 508 U. S. 402 
+matter jurisdiction to review agency action 45 (1998) 8, 13, 20, 21 
+Conclusion 46 Good Samaritan Hosp. Reg’l Med. Ctr. v. Shalala, 
+85 F.3d 1057 (2d Cir. 1996) 18, 20, 21, 22 
+TABLE OF AUTHORITIES HCA Health Servs., Inc. v. Shalala, 27 F.3d 614 
+(D.C. Cir. 1994) 16, 17, 18, 32 
+Cases: Heckler v. Campbell, 461 U.S. 458 (1983) 13 
+Abbey v. Sullivan, 978 F. 2d 87 (2d Cir. 1992) 41 Heckler v. Ringer, 466 U.S. 602 (1984) 11, 37, 41, 42, 
+American Academy of Dermatology v. HHS, 118 43, 44, 45 
+F.3d 1495 (11th Cir. 1997) 40 Illinois Council on Long Term Care, Inc. v. Shalala, 
+Anderson v. Bowen, 881 F.2d 1 (2d Cir. 1989 45 143 F.3d 1072 (7th Cir. 1998) 41 
+Athens Community Hosp., Inc. v. Schweiker, Interstate Commerce Comm'n v. Brotherhood of 
+743 F 2d 1 (D.C. Cir. 1984) 33 Locomotive Eng vs, 482 U.S. 270 (1987) . 29, 30, 35-36 
+Bethesda Hosp. Ass'n v. Bowen, 485 U.S. 399 Martin v. Shalala, 63 F.3d 497 (7th Cir. 1995) 40 
+(1988) 4, 6,17 McNary v. Haitian Refugee Ctr., Inc., 498 U.S. 
+Bousley v. United States, 118 S. Ct. 1604 (1998) . 38 479 (1991) 40 
+Bowen v. Michigan Academy of Family Physicians, Memorial Hosp. v. Sullivan, 779 F. Supp. 1410 
+476 U.S. 667 (1986) 11, 38, 39, 40 (D.D.C. 1991) , 38 
+Califano v. Sanders, 430 U.S. 99 (1977) passim Mississippi Power & Light Co. v. Moore, 487 US. 
+Cappadora v. Celbrezze, 356 F.2d 1 (2d Cir. 354 (1988) 14 
+
+
+1966) 23 
+
+
+VI 
+Cases—Continued: Page 
+Mt. Diablo Hosp. v. Shalala, 3 F.3d 1226 (9th Cir. 
+
+1993) 21 
+National Kidney Patients Ass'n v. Sullivan, 
+
+958 F.2d 1127 (D.C. Cir. 1992), cert. denied, 
+
+506 U.S. 1049 (1993) 4i 
+North Dakota v. United States, 460 U.S. 300 
+
+(1983) 43 
+Neal v. United States, 516 U.S. 284 (1996) 46 
+NLRB v. United Food & Commercial Workers 
+
+Union, 484 U.S. 112 (1987) 14 
+Patterson v. McClean Credit Union, 491 U.S. 164 
+
+(1989) 46 
+Pauley v. BethEnergy Mines, Inc., 501 U.S. 680 
+
+(1991) 14 
+Regions Hosp. v. Shalala, 118 S. Ct. 909 (19988) . 3, 4, 
+
+13, 16, 19, 33, 34 
+Reiter v. Cooper, 507 U.S. 258 (1993) 14 
+Reynoldsville Casket Co. v. Hyde, 514 U.S. 749 
+
+(1995) 35 
+
+Schweiker v. McClure, 456 U.S. 188 (1982) 28, 29, 38, 
+42 
+SEC v. Louisiana Public Serv. Comm u, 353 
+
+U.S. 368 (1957) 30 
+Shalala v. Guernsey Mem’'l Hosp., 514 U.S. 87 
+
+(1995) 24 
+St. Francis Med. Ctr. v. Shalala, 32 F.3d 805 
+
+(3d Cir. 1994), cert. denied, 514 U.S. 1016 (1995) 40 
+State of Oregon v. Bowen, 854 F.2d 346 (9th Cir. 
+
+1988) 18, 20, 21 
+Stone v. INS, 514 U.S. 386 (1993) 30 
+Sulllivan v. Zebley, 493 U.S. 521 (1990) 9, 13 
+Teague v. Lane, 489 U.S. 288 (1989) 35 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 504 
+
+(1994) 14, 24, 25 
+
+
+Cases—Continued: Page 
+Thunder Basin Coal Co. v. Reich, 510 U.S. 200 
+(1994) 40 
+United States v. Erika, Inc., 456 U.S. 201 (1982). 25, 
+38, 42, 43 
+Weinberger v. Salfi, 422 U.S. 749 (1975) . 14, 16, 37, 42, 
+44 
+Westchester Mgmt. Corp. v. HHS, 948 F.2d 
+279 (6th Cir. 1991), cert. denied, 504 U.S. 909 
+(1992) 40 
+Statutes and regulations: 
+Act of Oct. 5, 1962, Pub. L. No. 87-748, 76 Stat. 744 42 
+Administrative Procedure Act, 5 U.S.C. 701-706 12, 
+45, 46 
+5 U.S.C. 706(2)(A) 45 
+Deficit Reduction Act of 1984, Pub. L. No. 98-369, 
+Div. B, § 2001, 98 Stat. 1057: 
+§ 2663, 98 Stat. 1160 43 
+§ 2663(4)(A)(D), 98 Stat. 1162 42, 43 
+§ 2664, 98 Stat. 1170 43 
+Health Insurance for the Aged Act, 1965, Pub. L. No. 
+89-97, § 102(a), 79 Stat. 297 (42 U.S.C. 1895ga)) 19 
+Hobbs Administrative Orders Review Act, 28 U.S.C. 
+2344 29, 30 
+Omnibus Budget Reconcilation Act of 1986, Pub. L. 
+No. 99-509, § 9341(a)(1)(B), 100 Stat. 2037 40 
+Social Security Act of 1939, ch. 63, § 201, 53 Stat. 1371 
+(4° 8.C. 405(h)) 42 
+Soci security Act, 42 U.S.C. 301 et seg. 
+T.. II. 42 U.S.C. 401 et seg. 
+42 U.S.C. 405(a) 9, 13, 14, 36, 37 
+42 U.S.C. 405(b) 3, 23 
+42 U.S.C. 405(g) 8, 8, 37 
+42 U.S.C. 405(h) 5, 6, 8, 9, 11, 37, 42 
+42 U.S.C. 405 note (1976) 43 
+Tit. Xi, 42 U.S.C. 1302 et seg. 
+42 U.S.C. 1302(a) 9, 13, 14, 26 
+
+
+Tit. XVIII, 42 U.S.C. 1395 et seq. 
+
+
+ae 
+
+
+VIII 
+
+
+Statutes and regulations: Page 
+
+42 U.S.C. 1895f(b)(1) 2 
+
+42 U.S.C. 1895f(>(1 A) 6 
+
+42 U.S.C. 1395g 21 
+
+42 U.S.C. 1395g(a) 3, 34 
+
+42 U.S.C. 1395h 2, 28, 29 
+
+42 U.S.C. 1395h(a) 28 
+
+42 U.S.C. 1395h(d) 28 
+
+42 U.S.C. 1395k 2 
+
+42 U.S.C. 13951 2 
+
+42 U.S.C. 1395x(m) 2 
+
+42 U.S.C. 1395x(s) 2 
+
+42 U.S.C. 1395x(v)(1(A) 2, 9, 13, 14, 36 
+
+42 U.S.C, 1395x(v)(1)(A)Gi) 3, 20 
+
+42 U.S.C. 1395ff 3, 26 
+
+42 U.S.C. 1395ff (1982) 38 
+
+42 U.S.C. 1395hh 9, 13, 36 
+
+42 U.S.C. 13895hh(a)(1) 14 
+
+42 U.S.C. 1396ii 5, 6, 9, 11, 13, 36 
+
+42 U.S.C. 139500 11, 12, 41 
+
+42 U.S.C. 139500(a) passim 
+
+42 U.S.C. 139500(aX(1 Ai) 3, 12, 15, 16 
+
+42 U.S.C. 139500(a)(2) 3, 15 
+
+42 U.S.C. 18900) 8, 4, 10, 15, 22, 24, 34 
+
+42 U.S.C. 139500(b) 4 
+
+42 U.S.C. 139500(c) 15 
+
+42 U.S.C. 139500(d) 4,17 
+
+42 U.S.C. 139500(e) 14 
+
+42 U.S.C. 139500(f (1) 4,5,12 
+
+42 U.S.C. 139500(h) 3 
+
+42 U.S.C. 1395ddd (Supp. II 1996) 28 
+Social Security Amendments of 1972, Pub. L. No. 
+
+92-603, § 243(a), 86 Stat. 1420 20 
+
+8 U.S.C. 1105a(a) 29, 30 
+
+8 U.S.C. 110 aa)) 30 
+
+8 U.S.C. 1252(b)(6) (Supp. II 1996) 31 
+
+28 U.S.C. 41 42 
+
+
+28 U.S.C, 1331 
+
+
+8, 9, 11, 36, 37, 38, 39, 41 
+
+
+IX 
+
+
+Statutes and regulations Continued: 
+28 U.S.C. 1361 
+
+
+28 U.S.C. 2344 
+
+
+5 
+
+
+8, 9, 11, 37, 42, 45 
+
+
+49 U.S.C. 10827(g) 
+
+
+42 C. F. R.: 
+Section 405. 7500b) 
+
+
+Sections 405.84 1-405.842 
+
+
+Section 405.850 
+
+
+Section 405.1801(a)(1) 
+Section 405.1801(a)(3) 
+
+
+Section 405.1801(b) 
+
+
+Section 405.1803 
+
+
+Section 405.1803(a) 
+
+
+Section 405.1803(c) 
+
+
+Section 405.1807 
+
+
+— 
+> 
+
+
+Section 405.1807(c) 
+
+
+Section 405.1835 
+
+
+Section 405.1837 
+
+
+Section 405.1842(b) 
+
+
+Section 405.1842(g)(2) 
+
+
+Section 405.1845(a) 
+
+
+Section 405.1853(a) 
+Section 405.1853(b) 
+
+
+Section 405.1877 
+
+
+Section 405.1885 
+
+
+Section 405.1885(a) 
+
+
+Section 405.1885(b) 
+
+
+ction 405.1885(c) 
+
+
+RB 
+
+
+wection 405.1885(d) 
+
+
+Section 405.1889 
+
+
+Section 405.20(b) 
+
+
+Section 413.24(f) 
+
+
+Section 413.24(f)(2) 
+
+
+Section 413.30 
+
+
+Section 413.40(e (4) 
+Section 413.60 
+
+
+Section 413.64(e)-(f) 
+
+
+Section 413.86(e)(1)(iii) 
+
+
+Section 413.86(e)(1v) 
+
+
+Section 413.102(a) 
+
+
+X 
+Regulations Continued: Page 
+Section 413.102(b)(2)(i) 34, 44 
+Section 421.104 * 28 
+Section 421.106 28 
+Section 421.120(a)(1)-(3) 28, 29 
+Section 421.122 28, 29 
+Section 421.124 29 
+Section 421.126 29 
+Miscellaneous: 
+37 Fed. Reg. (May 27,1972): 
+p. 10,722 N 16, 18 
+p. 10,724 16 
+p. 10,725 18 
+63 Fed. Reg. (Mar. 20, 1998): 
+p. 13,590 28 
+p. 13,592 28 
+HCFA Ruling 97-2, Medicare and Medicaid Guide 
+(1997) 35 
+H.R. Conf. Rep. No. 861, 98th Cong., 2d Sess. 
+
+(1984) 43 
+H.R. Rep. No. 231, 92d Cong., Ist Sess. (1971) 19 
+Medicare Carrier Manual 26 
+Medicare Intermediary Manual 26 
+Provider Reimbursement Manual passim 
+S. Rep. No. 1230, 92d Cong., 2d Sess. (1972) 19 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1997 
+
+
+No. 97-1489 
+
+
+YOUR HOME VISITING NURSE SERVICES, INC., 
+PETITIONER 
+
+
+V. 
+
+
+DONNA E. SHALALA, SECRETARY OF 
+HEALTH AND HUMAN SERVICES 
+
+
+ON WRIT OF CERTIORARI TO 
+THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENT 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1-15) is re- 
+ported at 132 F.3d 1135. The opinion of the district court 
+(Pet. App. 17-33) is unreported. The decision of the Provider 
+Reimbursement Review Board (J.A. 14-24) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals (Pet. App. 38-39) 
+was entered on December 22, 1997. The petition for a writ of 
+certiorari was filed on March 11, 1998. The jurisdiction of 
+this Court is invoked under 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+STATUTORY AND REGULATORY PROVISIONS 
+INVOLVED 
+
+
+The provisions of 5 U.S.C. 706, 28 U.S.C. 1331 and 1361, 
+and 42 U.S.C. 405(h), 1395x(v)(1)(A), and 139500 are set forth 
+at Pet. App. 40-50. The provisions of 42 C.F.R. 405.1885 are 
+set forth at Pet. App. 51-52. 
+
+
+STATEMENT 
+
+
+1. In Title XVIII of the Social Security Act, Congress es- 
+tablished the federally funded Medicare program to provide 
+health insurance to the elderly and disabled. 42 U.S.C. 1395 
+et seq. Part A of the program provides insurance for cov- 
+ered inpatient hospital and related post-hospital services, 
+including certain home health services that are provided to 
+an individual on a visiting basis at the individual’s place of 
+residence. 42 U.S.C. 1395x(m).' When patient beneficiaries 
+receive covered home health services, the Secretary reim- 
+burses the providers of those services under the Medicare 
+Act and the Secretary’s implementing regulations. 42 U.S.C. 
+1395f(b)(1), 1895x(v)(1)(A). 
+
+A provider’s total allowable Medicare payment is based on 
+a “cost report” that it must prepare after the close of its fis- 
+cal year. 42 C.F.R. 405.1801(b), 413.24(f). The cost report is 
+filed with a “fiscal intermediary,” generally a private insur- 
+ance company that is nominated by a group or association of 
+providers and determines the amount of payments to be 
+reimbursed by the Secretary pursuant to an agreement with 
+the Secretary. 42 U.S.C. 1395h. The cost report shows the 
+provider’s costs and the percentage of those costs allocated 
+to Medicare services. 42 C.F.R. 413.20(b), 413.24(f). The 
+
+
+Part B is a voluntary supplementary insurance program covering 
+physicians’ charges and other medical services. 42 U.S.C. 1395k, 13951, 
+1395x(s). This case arises under the Part A program. See pp. 39-40, 
+infra. 
+
+
+intermediary analyzes the cost report, audits it if necessary, 
+and issues the provider a written “notice of amount of pro- 
+gram reimbursement” (NPR) containing the final determina- 
+tion of the total amount due the provider for Medicare serv- 
+ices during the reporting period. 42 C.F.R. 405.1803. See 
+Regions Hosp. v. Shalala, 118 S. Ct. 909, 913 (1998). During 
+the provider’s fiscal year, the Secretary makes advance in- 
+terim payments reflecting the provider’s pre-audited esti- 
+mated costs of anticipated services. 42 U.S.C. 1395g(a); 42 
+C.F.R. 413.60. As a result, the NPR reflects any adjust- 
+ments that are necessary to reconcile the aggregate amount 
+of interim payments paid to the provider during the course 
+of the fiscal year with the provider’s reimbursable costs as 
+reflected in the NPR: 42 U.S.C. 1395x(v)(1)(A)(ii); 42 C. F. R. 
+405.1803(c), 413.64(e)-(f); Good Samaritan Hosp. v. Shalala, 
+508 U.S. 402 (1993). 
+
+Congress has specified in the Medicare Act itself a com- 
+prehensive scheme for administrative and judicial review of 
+“a final determination of [a fiscal intermediary] as to the 
+amount of total program reimbursement due the provider 
+for the items and services furnished to individuals for which 
+payment may be made under [Medicare] for the period cov- 
+ered by [the provider’s cost] report.” 42 U.S.C. 
+139500(aX(1(A)i).? A “dissatisfied” provider may obtain a 
+hearing before the Provider Reimbursement Review Board 
+(PRRB), whose members are appointed by the Secretary, if 
+the amount in controversy equals or exceeds $10,000 (or 
+$50,000 for group appeals) and the provider requests a 
+hearing “within 180 days after notice of the intermediary’s 
+final determination.” 42 U.S.C. 139500(a)(1)(A)(i), (a)(2), 
+
+
+2 Congress also has established administrative and judicial review 
+procedures for claimants who are denied Medicare benefits under Part A 
+or B of the Medicare program. See 42 U.S.C. 1395ff (incorporating proce- 
+dures under 42 U.S.C. 405(b) and (g)); see also pp. 26-27, 38-41, infra. 
+
+
+1 
+
+
+(a)(3), (b), and (h) 42 C. F. R. 405.1835, 405.1837, 405.1845 a). 
+See Bethesda Hosp. Ass 'n v. Bowen, 485 U.S. 399, 403-404 
+(1988). 
+
+The Board has authority to “affirm, modify, or reverse a 
+final determination of the fiscal intermediary with respect to 
+[the] cost report and to make any other revisions on matters 
+covered by such cost report * * * even though such mat- 
+ters were not considered by the intermediary in making [its] 
+final determination.” 42 U.S.C. 139500(d). The Board’s deci- 
+sion may be reversed, affirmed, or modified by the Secretary 
+within 60 days after the provider is notified of the Board’s 
+decision. Unless reviewed by the Secretary, the Board’s de- 
+cision is final, and is subject to judicial review in federal dis- 
+trict court if an action is brought within 60 days. 42 U.S.C. 
+139500(f)(1); 42 C. F. R. 405.1877. 
+
+The Secretary has promulgated regulations governing 
+Arjeopeninglſs]“ of Medicare reimbursement determinations. 
+42 C.F.R. 405.1885. Under those regulations, a determina- 
+tion by the intermediary may be reopened within three 
+years (or at any time in the case of fraud) with respect to 
+specific “findings on matters at issue in [the intermediary’s] 
+determination,” by motion of either the intermediary or the 
+provider affected by the intermediary’s determination. 42 
+C.F.R. 405.1885(a) and (d); see Regions Hosp., 118 S. Ct. at 
+
+
+8 Providers may also obtain expedited judicial review of any action 
+taken by a fiscal intermediary “which involves a question of law or regula- 
+tions relevant to the matters in controversy,” if the PRRB has jurisdiction 
+and determines that “it is without authority to decide the question” or 
+fails to make a timely determination of its authority to decide the question. 
+42 U.S.C. 139500(f)(1); 42 C. F. R. 405.1842(b). The Board is authorized by 
+regulation to deny expedited judicial review if it finds that the issue on 
+which review is sought is intertwined with disputed factual or legal issues 
+that it is authorized to decide. 42 C. F. R. 405.1842(g)(2). 
+
+
+5 
+
+
+913.“ An intermediary’s determination “shall be reopened 
+and revised by the intermediary” if the Health Care Fi- 
+nancing Administration (HCFA) notifies the intermediary 
+that the determination “is inconsistent with the applicable 
+law, regulations, or general instructions issued by [HCFA!].“ 
+42 C. F. R. 405.1885(b). The Secretary’s Provider Reimburse- 
+ment Manual (PRM) also states that “[wJhether or not the 
+intermediary will reopen a determination, otherwise final, 
+will depend upon whether new and material evidence has 
+been submitted, or a clear and obvious error was made, or 
+the determination is found to be inconsistent with the law, 
+regulations and rulings, or general instructions” of the 
+Secretary. PRM § 2931.2. 
+
+The Secretary’s regulations provide that I lurisdietion 
+for reopening a determination or decision rests exclusively 
+with that administrative body that rendered the last 
+determination or decision.” 42 C.F.R. 405.1885(c). The PRM 
+explains that Ja] provider has no right to a hearing on a 
+finding by an intermediary * * * that areopening * of 
+a determination * * * is not warranted.” PRM § 2932.1. 
+The PRM similarly states that Ja] refusal by the intermedi- 
+ary to grant a reopening requested by the provider is not 
+appealable to the Board, pursuant to 42 C.F.R. 
+§ 405.1885(c).” PRM § 2926, App. A, J B.4. In the event the 
+intermediary does reopen the prior determination, however, 
+a provider may appeal to the Board any adjustments made 
+by the intermediary in a revised NPR, if the amount in 
+controversy and filing requirements are satisfied. 42 C.F.R. 
+405.1889. The Board’s final decision concerning the revised 
+NPR would then be subject to judicial review under 42 
+
+
+U.S.C. 139500(f)(1). 
+
+
+4 The regulations also authorize the Board and the Secretary to re- 
+open their respective decisions. 42 C. F. R. 405.1885(a). 
+
+
+6 
+
+
+Finally, the second and third sentences of Section 205(h) 
+of Title II of the Social Security Act, 42 U.S.C. 405(h), made 
+applicable to the Medicare Act by 42 U.S.C. 13965ii, provide: 
+
+
+No findings of fact or decision of the [Secretary] shall be 
+reviewed by any person, tribunal, or governmental 
+agency except as herein provided. No action against the 
+United States, the [Secretary], or any officer or em- 
+ployee thereof shall be brought under section 1331 or 
+1346 of title 28 to recover on any claim arising under 
+this subchapter. 
+42 U.S.C. 405(h). 
+
+2. Petitioner provides home health care services to Medi- 
+care beneficiaries and is reimbursed on a reasonable cost ba- 
+sis. Pet. App. 2; see 42 U.S.C. 1395f(b)(1)(A). For its 1989 
+fiscal year, petitioner submitted four cost reports for its four 
+constituent home health agencies. Pet. App. 3. The reports 
+included requests for payment for certain compensation to 
+its owners as an allowable cost reimbursable under the Medi- 
+care program. See 42 C.F.R. 413.102(a). Petitioner prepared 
+those cost reports after receiving the fiscal intermediary’s 
+NPR for fiscal year 1987, which had disallowed a portion of 
+the provider’s claimed owners’ compensation costs. As a 
+result, petitioner did not claim reimbursement for $48,890 in 
+owners’ compensation on its 1989 cost reports, and attached 
+a schedule of “[pjrotested” amounts. J.A. 32, 50, 52; ef. 
+Bethesda Hosp. Ass’n, 485 U.S. at 401-402. On March 29, 
+1991, petitioner’s fiscal intermediary issued four ./PRs that 
+determined the total amount of program reimbursement due 
+to petitioner; the NPRs did not include payments for the 
+protested amounts. J.A. 34-56. The NPRs notified peti- 
+tioner of its right under Section 139500(a) to seek review of 
+the intermediary’s determination within 180 days of the 
+notice. J.A. 37, 41, 45, 49. Petitioner did not appeal any of 
+the four NPRs to the PRRB within the statutory time 
+
+
+7 
+
+
+period. Pet. 23; Pet. App. 3. By contrast, petitioner did 
+administratively appeal the intermediary’s determination as 
+to allowable owners’ compensation costs for fiscal years 1987, 
+1990, 1991, 1992, 1993, and 1994. Pet. 23. 
+
+On March 28, 1994, less than three years from the date of 
+the issuance of the NPRs for petitioner’s fiscal year 1989, 
+petitioner requested its intermediary to reopen the final 
+reimbursement determinations for 1989 for petitioner’s four 
+agencies under the Secretary’s reopening regulations. J.A. 
+31-34. Petitioner claimed that during the course of appealing 
+the intermediary’s denial of certain owners’ compensation 
+costs for fiscal years other than 1989, petitioner discovered 
+that the intermediary had failed to compare petitioner’s 
+costs to salary data for officers of home health agency chains, 
+and that the intermediary accordingly should “recompute” 
+the provider’s allowable owners’ compensation costs. J.A. 
+82. On April 21, 1994, the intermediary denied the request 
+for reopening, finding that the cost reports were “not incon- 
+sistent with the law, regulations and rulings or general in- 
+structions”; that a “clear and obvious error was not made 
+when these cost reports were filed”; and that “new and ma- 
+terial evidence has not been presented to establish that the 
+compensation claimed was inappropriate.” J.A. 28-29. On 
+October 14, 1994, petitioner sought to appeal the intermedi- 
+ary’s denial to the PRRB. J. A. 25-27. On January 10, 1995, 
+the PRRB dismissed petitioner’s appeal on the ground that, 
+under 42 C.F.R. 405.1885(c), it lacked jurisdiction to review 
+the reopening denial. J.A. 15. The PRRB concluded that, 
+because “the Intermediary was the administrative body that 
+rendered the last determination [on petitioner’s reimburse- 
+ment], it is the Intermediary’s decision whether or not to 
+reopen the cost report.” Ibid. 
+
+3. Petitioner filed suit in the United States District 
+Court for the Eastern District of Tennessee, requesting that 
+the court order the PRRB to review the intermediary’s de- 
+
+
+8 
+
+
+nial of the request to reopen its final determinations for peti- 
+tioner’s 1989 fiscal year or, in the alternative, order the in- 
+termediary to reopen petitioner’s NPRs to make additional 
+payments for the claimed costs regarding owners’ compensa- 
+tion. J.A. 61. The district court dismissed petitioner’s com- 
+plaint on the ground that the PRRB does not have jurisdic- 
+tion under 42 U.S.C. 139500(a) over an intermediary’s denial 
+of a request to reopen a provider’s NPR. Pet. App. 16-33. 
+The court reasoned that “the Secretary’s determination as 
+reflected in the Medicare regulations and Provider Reim- 
+bursement Manual that denials of reopening requests are 
+unreviewable is a reasonable interpretation of the Medicare 
+statute.” Jd. at 26. The court also rejected petitioner’s al- 
+ternative contention that the court could review the inter- 
+mediary’s reopening denial through the exercise of either 
+general federal question jurisdiction under 28 U.S.C. 1331 or 
+mandamus jurisdiction under 28 U.S.C. 1361. Pet. App. 30- 
+82. 
+
+4. The court of appeals affirmed. Pet. App. 1-15. It con- 
+cluded that the operative language in 42 U.S.C. 139500(a) 
+rr hr ene 
+
+final determination * * * of the intermediary * * * as to 
+the amount of total program reimbursement due the pro- 
+vider”—does not clearly encompass an intermediary’s denial 
+of a request to reopen a prior determination, and that the 
+Secretary's reopening regulations and interpretative guide- 
+lines reasonably interpret the Medicare Act not to grant the 
+PRRB jurisdiction over an intermediary’s denial of a request 
+to reopen. Pet. App. 4-7. The court found its conclusion 
+“bolstered” by Califano v. Sanders, 430 U.S. 99, 108 (1977), 
+in which this Court concluded that the Social Security Act, 
+42 U.S.C. 405(g), does not authorize federal courts to review 
+a denial of reopening of a Social Security disability claim 
+based on an alleged abuse of agency discretion. Pet. App. 7- 
+8. 
+
+
+The court of appeals further concluded that 42 U.S.C. 
+405(h) precludes a district court from exercising its general 
+federal question jurisdiction under 28 U.S.C. 1331 to review 
+an intermediary’s denial of a request to reopen, because peti- 
+tioner’s claims for additional reimbursement arise under the 
+Medicare Act. Pet. App. 11-12. Finally, reasoning that a fis- 
+cal intermediary's “decision not to reopen [i]s discretionary,” 
+the court of appeals rejected petitioner’s contention that the 
+intermediary’s denial of reopening is reviewable under the 
+mandamus statute, 28 U.S.C. 1361. Pet. App. 14-15. 
+
+SUMMARY OF ARGUMENT 
+
+
+I. The familiar two-step analysis of Chevron U.S.A. Inc. 
+v. Natural Resources Defense Council, Inc., 467 U.S. 837, 
+842-843 (1984), requires that, if Congress has not “directly 
+spoken to the precise question at issue,” a court must sustain 
+an agency’s interpretation of an Act of Congress so long as it 
+is “based on a permissible construction of the statute.” 
+Moreover, where, as here, the Act confers legislative rule- 
+making authority on the Secretary (see 42 U.S.C. 405(a) (as 
+incorporated into the Medicare Act by 42 U.S.C. 1395(ii)), 
+1302(a), 1395x(v)(1)(A), 1395hh), the regulations “are given 
+controlling weight unless they are arbitrary, capricious, or 
+manifestly contrary to the statute.” See Sullivan v. Zebley, 
+493 U.S. 521, 528 (1990), quoting Chevron, 467 U.S. at 843- 
+844. Here, the Secretary’s reopening regulations are not 
+“arbitrary, capricious, or manifestly contrary” to the Act. 
+
+A. The text of Section 139500(a) requires the PRRB to 
+conduct an administrative hearing with respect to an inter- 
+mediary’s “final determination as to the amount of 
+total program reimbursement due the provider for the items 
+and services furnished to individuals for which payment may 
+be made under [Medicare] for the period covered by [the 
+
+
+provider's cost] report.” That language refers to an interme- 
+diary’s NPR, which constitutes the intermediary’s final de- 
+
+
+10 
+
+
+termination of the total amount of annual reimbursement 
+owed to the provider. The statutory phrase, however, does 
+not clearly encompass an intermediary’s refusal to revisit 
+reimbursement determinations already made in a closed 
+NPR. Neither the Act itself nor its history speaks to 
+reopenings. The Secretary therefore permissibly exercised 
+her broad rulemaking authority to allow a provider to seek 
+reopening, but not to seek further review of a decision 
+denying reopening. The Secretary’s approach furthers Con- 
+gress’s intent to require providers to challenge substantive 
+reimbursement determinations within the 180-day time pe- 
+riod prescribed by 42 U.S.C. 139500(a)(3). 
+
+The Secretary’s position also rests on a reasonable con- 
+struction of her reopening regulations, which vest the “ex- 
+elusive[}” “{jjurisdiction” for reopening with “that adminis- 
+trative body that rendered the last determination,” 42 
+C.F.R. 405.1885(c), and provide for further review only 
+“(wjhere a revision is made * * after [a] determination 
+* * * has been reopened,” 42 C.F.R. 405.1889. The plain 
+text of those provisions fully supports the Secretary’s con- 
+clusion that the Board lacks jurisdiction to review intermedi- 
+ary decisions denying reopening. 
+
+B. The Secretary’s reopening regulations are reasonable 
+and not arbitrary or capricious. The regulations are consis- 
+tent with the Secretary’s established treatment of reopening 
+denials with respect to other payment determinations under 
+the Medicare program. The regulations do not authorize 
+intermediaries to deny reimbursement requests in an arbi- 
+trary fashion. Intermediaries frequently grant providers’ 
+requests to reopen, and iutermediaries are subject to con- 
+tinuing oversight by the Secretary to ensure that reopening 
+requests are considered in accordance with the Secretary’s 
+regulations and interpretive guidance. The regulations, 
+moreover, rationally balance the Secretary’s interest in ad- 
+ministrative finality with the need to provide a limited 
+
+
+11 
+
+
+means for the correction of errors after the intermediary’s 
+determination in the NPR has become final. 
+
+II. Federal courts do not have subject matter jurisdic- 
+tion under 28 U.S.C. 1331 to review intermediary decisions 
+denying reopening. The third sentence of 42 U.S.C. 405(h), 
+incorporated into the Medicare Act by 42 U.S.C. 1395ii, ex- 
+pressly bars federal question jurisdiction under 28 U.S.C. 
+1331 over actions “to recover on any claim” arising under the 
+Medicare Act. Section 405(h) consequently precludes federal 
+question jurisdiction over petitioner’s claim to recover addi- 
+tional reimbursement for owners’ compensation costs under 
+the Secretary’s reopening regulations. That result is en- 
+tirely consistent with this Court’s decision in Bowen v. 
+Michigan Academy of Family Physicians, 476 U.S. 667 
+(1986), which permitted a federal court under 28 U.S.C. 1331 
+to consider an attack on the validity of the Secretary’s regu- 
+lation under Part B of the program when such challenge 
+otherwise would be altogether immune from judicial review. 
+Petitioner’s claims for additional reimbursement do not raise 
+such a facial attack, and 42 U.S.C. 139500 provided petitioner 
+with an adequate opportunity to challenge the intermedi- 
+ary’s substantive reimbursement determination. 
+
+III. The federal mandamus statute, 28 U.S.C. 1361, is 
+not a basis for reviewing reopening denials. Review by man- 
+damus is barred by 42 U.S.C. 405(h). In any event, manda- 
+mus relief is not available unless the plaintiff has exhausted 
+all other avenues of relief and the defendant owes the plain- 
+tiff a clear nondiscretionary duty. Heckler v. Ringer, 466 
+U.S. 602, 616 (1984). Those requirements are not met in this 
+case, because an intermediary's decision to reopen is discre- 
+tionary. Likewise, petitioner has not stated a claim for man- 
+damus relief with respect to the underlying calculation of the 
+amount of owners’ compensation costs owed to petitioner. 
+Petitioner did not exhaust that claim by appealing its NPR 
+under 42 U.S.C. 139500, and the determination of petitioner’s 
+
+
+12 
+
+
+reasonable owners’ compensation costs under the Act and 
+the Secretary’s implementing regulations is discretionary. 
+
+IV. This Court held in Califano v. Sanders, 430 U.S. 99, 
+105-107 (1977), that the Administrative Procedure Act 
+(APA), 5 U.S.C. 701-706, is not an independent basis of sub- 
+ject matter jurisdiction to review agency action. Petitioner 
+offers no basis for reconsidering that decision, and Califano 
+v. Sanders consequently forecloses jurisdiction under the 
+APA to hear challenges to reopening denials by intermedi- 
+aries. 
+
+
+ARGUMENT 
+
+
+I. 42 U.S.C. 139500 DOES NOT PROVIDE A RIGHT 
+OF REVIEW OF AN INTERMEDIARY’S DENIAL 
+OF A REQUEST TO REOPEN A FINAL REIM- 
+BURSEMENT DETERMINATION 
+
+
+A provider of services under Part A of the Medicare pro- 
+gram has a right to a hearing before the Provider Reim- 
+bursement Review Board (PRRB) with respect to a “cost 
+report” filed by the provider if it is “dissatisfied with a final 
+determination of [a fiscal intermediary] as to the amount of 
+total program reimbursement due the provider for the items 
+and services furnished to individuals for which payment may 
+be made under [Medicare] for the period covered by [the 
+provider's cost] report.“ 42 U.S.C. 139500(a). The provider 
+then has a right to judicial review of the “final decision” of 
+the Board following such a hearing. 42 U.S.C. 139500(f)(1). 
+The principal issue in this case is whether Section 139500(a) 
+confers on providers a right to administrative review by the 
+Board of an intermediary’s refusal to revisit prior reim- 
+bursement determinations. In the Secretary’s view, the 
+phrase “final determination * * * as to the amount of total 
+program reimbursement due the provider” refers to the 
+notice of amount of program reimbursement (NPR), not to a 
+refusal to reconsider the NPR. Petitioner, in contrast, 
+
+
+13 
+
+
+contends that the statutory language must be read to 
+encompass an intermediary’s decision denying a provider's 
+request under the Secretary’s regulations to reopen a 
+specific finding in a prior NPR. 
+
+The starting point in any case of statutory construction is, 
+of course, the language of the Act itself. If a court deter- 
+mines that an Act of Congress speaks clearly “to the precise 
+question at issue,” the court “must give effect to the unam- 
+biguously expressed intent of Congress.” Chevron U.S.A. 
+Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 
+837, 842-843 (1984). If “the statute is silent or ambiguous 
+with respect to the specific issue,” however, the court must 
+sustain the agency’s interpretation and implementing regu- 
+lations if they are “based on a permissible construction of the 
+statute.” Id. at 84g; see also Regions Hosp. v. Shalala, 118 8. 
+Ct. 909, 915 (1998) (“[i]f the agency’s reading fills a gap or 
+defines a term in a reasonable way in light of the Legisla- 
+ture’s design, we give that reading controlling weight”). In 
+this case, moreover, Congress has conferred legislative rule- 
+making authority on the Secretary in the implementation of 
+the Medicare Act, including the authority to issue regula- 
+tions that govern reimbursement determinations under the 
+Act. See 42 U.S.C. 405(a) (as incorporated into the Medicare 
+Act by 42 U.S.C. 1395ii), 1802(a), 1895x(v)(1)(A), 1395hh; 
+Good Samaritan Hosp. v. Shalala, 508 U.S. 402, 418-419 & 
+n.13 (1993); Sullivan v. Zebley, 493 U.S. 521, 525 n.2, 528 
+(1990); Heckler v. Campbell, 461 U.S. 458, 466 (1983). In that 
+situation, the regulations “are given controlling weight 
+unless they are arbitrary, capricious, or manifestly contrary 
+to the statute.” Sullivan v. Zebley, 493 U.S. at 528 (quoting 
+Chevron, 467 U.S. at 843-844). Here, far from being 
+
+
+5 Petitioner's amici contend (Br. 25-26) that the Secretary’s interpre- 
+tation is not entitled to deference because the question in this case per- 
+tains not to “the complexities of the Medicare program,” but a jurisdic- 
+
+
+14 
+
+
+arbitrary, capricious, or manifestly contrary to the Act, the 
+Secretary's construction of Section 139500(a) is fully 
+consistent with the Act and is plainly reasonable. 
+
+
+tional question over which courts are more familiar. In Commodity Fu- 
+tures Trading Commission v. Schor, 478 U.S. 833, 845 (1986), however, 
+this Court rejected the notion that a court has “superior expertise” with 
+respect to an agency’s adjudicatory jurisdiction and concluded that an 
+agency's position is due “substantial deference” whenever “a dispute cen- 
+ters on whether a particular regulation is ‘reasonably necessary to effec- 
+tuate any of the provisions or to accomplish any of the purposes’ of the Act 
+the agency is charged with enforcing.” The Court, on numerous occasions, 
+has deferred to an agency’s interpretation of its adjudicatory jurisdiction. 
+See, e. g., Reiter v. Cooper, 507 U.S. 258, 269 (1993); EEOC v. Commercial 
+Office Prods. Co., 486 U.S. 107, 115 (1988); NLRB v. United Food & 
+Commercial Workers Union, 484 U.S. 112, 123 (1987); see also Mississippi 
+Power & Light Co. v. Moore, 487 U.S. 354, 380-382 (1988) (Scalia, J., 
+concurring in the judgment) (collecting cases on question of deference to 
+agency’s interpretation of statute concerning its jurisdiction). Here, the 
+Medicare Act confers broad authority on the Secretary to “prescribe such 
+regulations as may be necessary to carry out the administration of the 
+insurance programs” under the Act. 42 U.S.C. 1395hh(a)(1); accord 42 
+U.S.C. 405(a), 1302(a), 1895x(v)(1)(A); see also 42 U.S.C. 139500(e) (author- 
+izing PRRB to make rules “not inconsistent with the * * * regulations of 
+the Secretary” to carry out provisions of Section 139500). The Secretary’s 
+rulemaking authority therefore encompasses the ability to prescribe 
+regulations defining the type of agency decision subject to administrative 
+review. See Weinberger v. Salfi, 422 U.S. 749, 766 (1975) (noting Secre- 
+tary’s rulemaking authority to define agency’s “final decision” triggering 
+right of judicial review under 42 U.S.C. 405(g)). Moreover, the admin- 
+istrative process by which intermediaries make reimbursement deter- 
+minations that are subject to review by the Board, and ultimately the 
+Secretary, necessarily relates to the “complex and highly technical 
+regulatory program” over which the Secretary has particular expertise. 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512 (1994) (quoting 
+Pauley v. BethEnergy Mines, Inc., 501 U.S. 680, 697 (1991)). 
+
+
+15 
+
+
+A. The Text Of Section 139500(a) Supports The Secre- 
+tary’s Construction 
+
+
+J. Section 139500(a) Is Most Naturally Read To Con- 
+Ser A Right To Review Of A Notice Of Amount Of Pro- 
+gram Reimbursement Issued By An Intermediary 
+
+
+Section 139500(a) states that “[aJny provider of services 
+which has filed a required cost report within the time 
+specified in regulations may obtain a hearing with respect to 
+such cost report by [the] Provider Reimbursement Review 
+Board” if each of three conditions is satisfied. The first 
+condition is that “such provider * * * is dissatisfied with a 
+final determination of the * * * intermediary * as to 
+the amount of total program reimbursement due the 
+provider * * * for the period covered by [the provider’s 
+cost] report.” 42 U.S.C. 139500(a)(1)(A)(i). The remaining 
+two conditions are that the amount in controversy is $10,000 
+or more, and that the provider files a “request for a hearing” 
+within 180 days after notice of the intermediary’s final de- 
+termination. 42 U.S.C. 139500(a)(2) and (3). 
+
+The language quoted above is most naturally read to 
+confer a right to Board review of the intermediary’s sub- 
+stantive reimbursement determination at the end of each 
+cost year, but not of the intermediary’s mere refusal to re- 
+visit that determination. That conclusion is especially evi- 
+dent from the fact that Section 139500(a) confers a right to a 
+“hearing” by the Board, which includes the right to present 
+evidence and cross-examine witnesses. See 42 U.S.C. 
+139500(c). Such a hearing is of course appropriate on review 
+of the NPR, but even petitioner does not contend that it is 
+entitled to the sort of evidentiary hearing specified by Sec- 
+tion 139500(c) concerning an intermediary’s denial of a mo- 
+tion to reopen a prior determination. Compare Califano v. 
+Sanders, 430 U.S. 99, 108 (1977). 
+
+
+16 
+
+
+Moreover, to the extent the Act itself does not define the 
+operative statutory terms, “[their] meaning is left to the 
+Secretary to flesh out by regulation.” Weinberger v. Salſi, 
+422 U.S. 749, 766 (1975); see also n. 5, supra. The Secretary’s 
+regulations make clear that providers have a right to obtain 
+Board review of an intermediary’s annual determination as 
+reflected in the NPR, but not its decision denying a request 
+to reopen a prior NPR. 
+
+The Secretary has defined an intermediary’s “final deter- 
+mination” under Section 139500(a)(1)(A)(i) to mean a de- 
+termination of the amount of total reimbursement due the 
+provider, pursuant to [42 C.F.R.] 405.1803 following the 
+close of the provider’s cost reporting period.” 42 C. F. R. 
+405.1801(a)(1) and (3) (emphasis added). Section 405.1803 of 
+the regulations, in turn, specifically requires the intermedi- 
+ary to issue a “notice of amount of program reimburse- 
+ment”—the NPR—by “furnish[ing] the provider * a 
+written notice reflecting the intermediary’s determination of 
+the total amount of reimbursement due the provider.” 42 
+C.F.R. 405.1803(a); see also Regions Hosp. v. Shalala, 118 S. 
+Ct. at 913 (“[tJhe [NPR] determines the total amount pay- 
+able to the provider for Medicare services during the report- 
+ing period”); HCA Health Servs., Inc. v. Shalala, 27 F.3d 
+614, 617 (D.C. Cir. 1994) (“it is fairly straightforward to 
+conclude that the NPR is the intermediary’s ‘final 
+determination . . as to the amount of total program reim- 
+bursement’”). The Secretary had promulgated similar regu- 
+lations even before Congress created the PRRB. See 37 
+Fed. Reg. 10,722, 10,724 (May 27, 1972) (the NPR “shall 
+* * * explain the intermediary’s determination of total 
+program reimbursement due the provider for the reporting 
+period covered by the cost report”). The NPR also is a “final 
+and binding” determination as te the total amount of reim- 
+bursement owed to a provider in a given cost year, unless 
+the provider timely appeals the NPR within the 180-day 
+
+
+17 
+
+
+time period under Section 139500(a), or the intermediary in 
+fact has revised its determination through a reopening. 
+42 C. F. R. 405.1807. 
+
+Accordingly, under the statutory and regulatory frame- 
+work, the operative “final determination * * * as to the 
+total amount of program reimbursement” in this case is the 
+intermediary’s issuance of four NPRs on March 29, 1991, J.A. 
+34-56, and not the intermediary’s denial, three years later, of 
+petitioner’s request to reconsider petitioner’s allowable 
+owners’ compensation costs, J.A. 28-29. Thus, petitioner 
+was required under Section 139500(a) to seek administrative 
+review before the PRRB within 180 days of its NPRs or not 
+at all. 
+
+
+2. Section 139500(a) Does Not By Its Terms Confer A 
+Right To Review Of An Intermediary’s Refusal To 
+Revisit Its Final Determination 
+
+a. Petitioner and its amici do not dispute that Section 
+
+139500(a) refers to an intermediary’s issuance of the NPR, or 
+that providers must seek administrative review of that 
+determination by the intermediary within 180 days after 
+receiving notice of the determination. Rather, petitioner and 
+
+
+6 Amici are incorrect in asserting (Br. 7) that the Secretary’s interpre- 
+tation is inconsistent with the Court’s decision in Bethesda Hospital Asso- 
+ciation v. Bowen, 485 U.S. 399 (1988). That case involved the interpreta- 
+tion of the word “dissatisfied” in Section 139500(a)(1)(A)(i) upon a pro- 
+vider’s direct appeal of an NPR. Amici similarly err in suggesting (Br. 14) 
+that the Secretary’s interpretation conflicts with 42 U.S.C. 139500(d), 
+which authorizes the Board to revise matters covered by a cost report 
+“even though such matters were not considered by the intermediary in 
+making [its] final determination.” This Court explained in Bethesda 
+Hospital Association, 485 U.S. at 406, that Section 139500(d) applies “once 
+{the Board] obtains jurisdiction pursuant to subsection (a).” Thus, 
+whether the PRRB has jurisdiction to review a denial of a provider’s re- 
+opening request “ultimately must rest upon [Section] 139500(a).” HCA 
+Health Servs., Inc., 27 F.3d at 617. 
+
+
+18 
+
+
+its amici argue (Pet. Br. 6-12, 17-18; Amici Br. 6-7) that 
+Section 139500(a) inevitably must also extend to any 
+subsequent decision by the intermediary denying a pro- 
+vider’s request to revisit a final NPR. See also State of Ore- 
+gon v. Bowen, 854 F.2d 346, 349 (9th Cir. 1988) (concluding a 
+reopening denial falls within Section 139500(a)(1)(A)(i) be- 
+cause it “directly implicate[s]” the total amount of Medicare 
+reimbursement owed in a given cost year). That interpreta- 
+tion, however, is compelled by neither the text of Section 
+139500(a) nor its history. 
+
+As an initial matter, the Act makes no mention of reopen- 
+ings; the intermediary’s ability to reopen its previous final 
+determination is purely a creature of the Secretary’s regula- 
+tions. The Secretary first promulgated reopening regula- 
+tions shortly before Congress created the PRRB in Section 
+139500, 37 Fed. Reg. at 10,725, and did so under the 
+Secretary’s general rulemaking authority, HCA Health 
+Servs., Inc. v. Shalala, 27 F.3d at 618-619. Nothing in the 
+language of Section 139500 compels an intermediary, much 
+less the PRRB, to consider a provider’s request for addi- 
+tional reimbursement if the provider fails to challenge the 
+intermediary’s NPR within 180 days of receiving notice of its 
+issuance. See Good Samaritan Hosp. Reg! Med. Ctr. v. 
+Shalala, 85 F.3d 1057, 1062 (2d Cir. 1996) (“42 U.S.C. 
+§ 139500, read by itself, leaves us in a ‘quandary’ as to the 
+availability of PRRB review over a reopening decision”) 
+(quoting HCA Health Servs., Inc., 27 F.3d at 618-619). The 
+Act’s silence as to reopenings therefore confirms that the 
+Secretary may permissibly construe Section 139500(a) to 
+grant providers a right to administrative review of sub- 
+stantive reimbursement determinations by intermediaries, 
+
+
+19 
+
+
+but not of intermediaries’ subsequent refusals to reopen and 
+reconsider such determinations.’ 
+
+The history of Section 139500(a) is fully consistent with 
+the Secretary’s interpretation. Before Congress created the 
+PRRB in 1972, the Act did not provide for administrative or 
+judicial review of Medicare reimbursement determinations, 
+but simply directed the Secretary to “periodically determine 
+the amount which should be paid * * * to each provider of 
+services with respect to the services furnished by it” and to 
+pay “at such time or times as the Secretary believes 
+appropriate (but not less often than monthly) * * * the 
+amounts so determined.” Pub. L. No. 89-97, § 102(a), 79 Stat. 
+297 Social Security Act § 1815, 42 U.S.C. 1395g/(a)). In 
+response to provider complaints that there was “no specific 
+
+
+7 Amici contend (Br. 10) that the Secretary’s interpretation is incon- 
+sistent with the Board’s authority to review intermediary determinations 
+other than the NPR. See, e.g., 42 C.F.R. 405.1889 (intermediary determi- 
+nations revising an NPR upon a reopening); 42 C.F.R. 413.30(c) (denial of 
+routine cost limit exception requests); 42 C.F.R. 413.40(e)(4) (denial of 
+rate-of-increase ceiling adjustment requests); 42 C. F. R. 413.86(e)(1)(v) 
+(cited in Regions Hosp., 118 S. Ct. at 918) (per-resident amount determina- 
+tions under 42 U.S.C. 1895ww(h)). Unlike a mere refusal to revisit a prior 
+“final determination,” however, the Secretary has recognized that the 
+Board may review certain new substantive reimbursement determinations 
+by an intermediary that affect an initial or revised NPR. See generally 
+PRM § 2926, App. A. In any event, the Secretary has authority under the 
+Act to interpret and amplify the Board’s jurisdiction so long as her 
+regulations are not otherwise precluded by statute. See n.5, supra. Amici 
+similarly suggest (Br. 9 n.5) that the Act’s express preclusion of PRRB 
+review in 42 U.S.C. 139500(g) and 1395yy(e)(8) necessarily means that 
+Congress intended to mandate a right to PRRB hearing with respect to 
+any decision by an intermediary relating to a reimbursement determi- 
+nation. Sections 139500(g) and 1395yy(eX8), however, relate to payment 
+determinations specified by statute, and therefore do not reflect an intent 
+by Congress to require review of an intermediary’s decision denying a 
+reopening request under a procedure bestowed solely by the Secretary’s 
+regulations. 
+
+
+20 
+
+
+provision for an appeal * * * ofa fiscal intermediary’s final 
+reasonable cost determination,” H.R. Rep. No. 231, 92d 
+Cong., Ist Sess. 108 (1971), Congress, in 1972, established the 
+PRRB to afford a hearing with respect to such final deter- 
+minations upon a provider’s request for a hearing within 180 
+days after notice of the intermediary’s final determination. 
+Social Security Amendments of 1972, Pub. L. No. 92-603, 
+§ 243(a), 86 Stat. 1420; see also S. Rep. No. 1230, 92d Cong., 
+2d Sess. 248 (1972). Although Congress plainly intended 
+Section 139500 to authorize an administrative hearing on the 
+intermediary’s annual final determination as to the total 
+amount of program reimbursement, nothing in the Act’s 
+history suggests that Congress intended to afford providers 
+a right to a hearing by the PRRB whenever an intermediary 
+denies a request to revisit that final determination. 
+
+b. Petitioner argues (Br. 11-14) that a right to review by 
+the PRRB is mandated by 42 U.S.C. 1395x(v)(1)(A)(ii), which 
+requires the Secretary to establish regulations to “provide 
+for the making of suitable retroactive corrective adjustments 
+where, for a provider of services for any fiscal period, the 
+aggregate reimbursement produced by the methods of de- 
+termining costs proves to be either inadequate or excessive.” 
+Petitioner contends that Section 1395x(v)(1)(A)(ii) requires 
+the Secretary to provide for reopening of closed cost reports 
+and that Section 1395x(v)(1)(A)(ii)’s “plain language” and 
+purpose “to provide a fair method to make retroactive ad- 
+justments” conflict with the Secretary’s position of “unre- 
+viewability.” Br. 12-13 (quoting State of Oregon, 854 F. ad at 
+349-350); see also Amici Br. 9-10 n.6. 
+
+In Good Samaritan Hospital v. Shalala, 508 U.S. 402 
+(1993), however, this Court specifically rejected the conten- 
+tion that Section 1395x(v)(1)(A)(ii) requires the Secretary to 
+alter retroactively her substantive determinations as to the 
+amount of Medicare reimbursement due to providers. 
+Rather, the Court held that the Secretary reasonably con- 
+
+
+21 
+
+
+strued Section 1395x(v)(1)(A)(ii) narrowly to refer only to 
+the year-end book balancing of advance monthly estimated 
+payments to providers (see 42 U.S.C. 1395g) with the final 
+amounts determined by the intermediary in the NPR to be 
+reimbursable under the Act and the Secretary’s implement- 
+ing regulations. Good Samaritan Hosp., 508 U.S. at 414-420; 
+see also p. 3, supra; J.A. 36, 40, 44, 48 (computing the “net 
+amount due provider” by comparing difference between pe- 
+titioner’s “total Medicare reimbursable cost” and its “total 
+interim payments”). The final year-end reconciliation in the 
+NPR is entirely distinct from a later decision by the inter- 
+mediary denying a provider’s request to redetermine the 
+NPR. Accordingly, Section 1395x(v)(1)(A)(ii) is wholly con- 
+sistent with the Secretary’s conclusion that Section 139500 
+does not require the Board to review an intermediary’s de- 
+nial of a reopening request. 
+
+e. The fact that reopening is not mandated by the Act is 
+significant for another reason as well. The Secretary’s 
+regulations authorize reopening only “with respect to find- 
+ings on matters at issue” in a prior determination by the in- 
+termediary. 42 C.F.R. 405.1885(a). The regulations there- 
+fore permit a provider, like petitioner, to request an inter- 
+mediary to reconsider its previous final determination with 
+respect to one or more particular cost items covered by the 
+NPR. See J.A. 32 (petitioner’s request for “re-opening of the 
+1989 cost report to recompute the allowable owners’ com- 
+pensation”). An intermediary’s denial of a request to revisit 
+one or more of those specific “findings,” however, does not 
+
+
+8 In light of Good Samaritan Hospital, the Ninth Circuit has acknowl- 
+edged that its conclusion in State of Oregon, 854 F.2d at 349, that Section 
+1395x(v)(1)(A)(ii) is the source of statutory authority for a reopening pro- 
+cedure has been substantially “undercut.” French Hosp. Med. Ctr. v. Sha- 
+lala, 89 F.3d 1411, 1418 n.8 (9th Cir. 1996); accord Mt. Diablo Hosp. v. Sha- 
+lala, 3 F.3d 1226, 1231 (9th Cir. 1993). 
+
+
+determine “the amount of total program reimbursement” 
+within the meaning of Section 139500(a). As the court of 
+appeals explained, “a decision not to reopen * * * does not, 
+in and of itself, establish an amount of total program reim- 
+bursement as required by the statute.” Pet. App. 7 (quoting 
+Good Samaritan Hosp. Reg’l Med. Ctr., 85 F.3d at 1061). 
+Accordingly, the Secretary has reasonably concluded that 
+the denial of a request to reopen under her regulations 
+merely constitutes the intermediary’s decision not to alter 
+its previous “final determination * * * as to the amount of 
+total program reimbursement.” See Good Samaritan Hosp. 
+Reg’! Med. Ctr., 85 F.3d at 1061 (“a reopening denial is a 
+refusal to revisit the final determination”). Such a decision is 
+not the “final determination” itself, and therefore does not 
+trigger a right to hearing before the Board. 
+3. The Secretary’s Interpretation Furthers Congress s 
+Intent To Require Providers To Appeal Their NPRs 
+Within 180 Days 
+
+
+Under 42 U.S.C. 139500(a)(3), a provider must challenge 
+an intermediary’s NPR within 180 days of receiving notice of 
+the final determination embodied in the NPR. That re- 
+quirement supports the Secretary’s conclusion that Section 
+139500(a) does not extend to reopening denials. It would 
+largely defeat the congressional goal of finality reflected in 
+Section 139500(a)(3) to construe the Act to require the See- 
+retary to confer a right of review by the Board with respect 
+to all refusals by intermediaries to reopen reimbursement 
+determinations in final NPRs, each of which would, under 
+petitioner’s reading of the Act, constitute a new “final de- 
+termination” subject to a mandatory Board hearing and sub- 
+sequent judicial review. The Secretary’s interpretation 
+therefore avoidls] frustrating the congressional purpose to 
+impose a 180-day limitation upon [PRRB] review of a fiscal 
+
+
+intermediary’s final determination on an ini 1 
+ay tial cost report. 
+
+This Court in Califano v. Sanders, 430 U.S. 99 (1977), 
+reached a similar conclusion in holding that 42 U.S.C. 405(g) 
+does not authorize judicial review of the Secretary’s refusal 
+to reopen a decision on a claim for Social Security benefits. 
+The Court observed at the outset that “the opportunity to 
+reopen final decisions and any hearing convened to deter- 
+mine the propriety of such action are afforded by the Secre- 
+tary’s regulations and not by the Social Security Act.” 
+Sanders, 430 U.S. at 108. The Court further explained (ibid.) 
+that 42 U.S.C. 405(g) provides for judicial review only with 
+respect to a “final decision of the Secretary made after a 
+hearing,” and that “a petition to reopen a prior final decision 
+may be denied without a hearing as provided in * * * 
+42 U.S.C. § 405(b).”” The Court also reasoned that “an inter- 
+pretation that would allow a claimant judicial review simply 
+by filing—and being denied—a petition to reopen his claim 
+would frustrate the congressional purpose, plainly evidenced 
+in [42 U.S.C. 405g) ], to impose a 60-day limitation upon judi- 
+cial review of the Secretary’s final decision on the initial 
+claim for benefits.” bid.” 
+
+
+Lower courts had concluded that 42 U.S.C. 405(b), which requires a 
+hearing upon request with respect to “decisions as to the rights of any 
+individual applying for a payment under this subchapter,” did not apply to 
+refusals to reopen such decisions pursuant to the Secretary’s regulations. 
+See, ¢.g., Cappadora v. Celebrezze, 356 F 2d 1, 4-5 (2d Cir. 1966) (Friendly 
+J Filice v. Celebrezze, 319 F 2d 443, 445-446 (9th Cir. 1963). The Secre- 
+minen 
+
+Amici contend (Br. 12-13) that Sanders is distinguishable on the 
+grounds that the Secretary's regulations in that case had no time limit; 
+that the claimant filed a reopening request seven years after the original 
+decision denying benefits; that the claimant did not proffer any new evi- 
+dence; and that an ALJ reviewed the reopening denial. The regulations at 
+issue in Sanders, however, “specified time limits after the date of initial 
+determination” for seeking reopening unless certain conditions were satis- 
+
+
+That same analysis applies here. The Secretary’s inter- 
+pretation furthers “Congress’ determination * * * to limit 
+judicial review to the original decision denying benefits” in 
+order to “forestall repetitive or belated litigation of stale 
+eligibility claims.” Sanders, 430 U.S. at 108. By contrast, 
+petitioner’s construction of Section 139500(a) would nullify 
+the 180-day time period prescribed by Section 139500(a)(3) 
+and burden the Board and ultimately the courts with repeti- 
+tive requests to reopen administratively settled matters. 
+
+4. The Secretary’s Reopening Regulations Confirm That 
+
+There is No Right To Review By The Board 
+
+The Secretary’s regulations provide that “{jJurisdiction 
+for reopening a determination or decision rests exclusively 
+with that administrative body that rendered the last deter- 
+mination or decision.” 42 C.F.R. 405.1885(c) (emphasis 
+added). The Secretary has construed that provision to pre- 
+clude further review of intermediary decisions denying ef 
+opening. The PRM, which provides interpretive guidance 
+— and intermediaries, see Shalala v. Guernsey 
+Mem’l Hosp., 514 U.S. 87, 99 (1995), states that Ja] refusal 
+by the intermediary to grant a reopening requested by the 
+provider is not appealable to the Board, pursuant to 42 
+C.F.R. § 405.1885(c).” PRM § 2926, App. A, J B. A: accord 
+PRM § 2932.1 (“A provider has no right to a hearing on a 
+finding by an intermediary * that areopening * * of 
+a determination is not warranted.”). 
+
+This Court has stated that it “must give substantial defer- 
+ence to an agency’s interpretation of its own regulations.” 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 512 (1994). 
+Thus, courts do not “decide which among several competing 
+
+
+fied. 430 U.S. at 102. In any event, the Court did not rest its decision on 
+the length of time that elapsed before the claimant requested reopening, 
+or on the fact that an ALJ had reviewed the reopening request and denied 
+it for lack of new evidence. 
+
+
+interpretations best serves the regulatory purpose. Rather, 
+the agency’s interpretation must be given controlling weight 
+unless it is plainly erroneous or inconsistent with the regula- 
+tion.” Ibid. (internal quotation marks omitted). Here, the 
+Secretary reasonably has construed her reopening regula- 
+tions not to provide for administrative review by the Board 
+of reopening denials by intermediaries. 
+
+That interpretation is fully consistent with the text of 42 
+C. F. R. 405.1885(c), which vests “exclusive[]” j lurisdietionꝰ 
+over a reopening request with the “administrative body that 
+rendered the last determination or decision.” In this case, 
+the intermediary—“that administrative body that rendered 
+the last determination” with respect to petitioner’s 1989 
+NPRs—had the “exclusive[]” “[jJurisdiction” to determine 
+whether to reopen the NPRs on the owners’ compensation 
+issue. Petitioner argues (Br. 7-8) that Section 405.1885(c) 
+simply confirms the intermediary’s “discretion” to reopen 
+and that the regulation “says nothing about reviewability” 
+by the Board for alleged abuses of that discretion. The regu- 
+lation prohibits such review, however, because it would 
+divest the intermediary of its “exclusive[{]” jurisdiction to 
+reopen its own prior determination. At a minimum, that 
+construction is not “plainly erroneous or inconsistent with 
+the regulation.” Thomas Jefferson Univ., 512 U.S. at 512. 
+
+The Secretary’s interpretation is further confirmed by the 
+regulations’ express authorization for administrative review 
+when an intermediary affirmatively reopens and revises its 
+prior determination. 42 C.F.R. 405.1889 (permitting Board 
+review “(where a revision is made in a determination 
+* * * on the amount of program reimbursement after such 
+determination * * * has been reopened as provided in 
+§ 405.1885”). The regulations do not likewise grant pro- 
+viders a right to appeal when the intermediary declines to 
+reconsider its prior determination. In light of the express 
+provision for review of the revised NPR if the prior final 
+
+
+determination is reopened, “this omission provides persua- 
+sive evidence that [the Secretary] deliberately intended to 
+foreclose further review of such claims.” United States v. 
+Erika, Inc., 456 U.S. 201, 208 (1982). The regulations as a 
+whole therefore support the Secretary’s conclusion that the 
+Board lacks jurisdiction to review reopening denials. See 
+Pet. App. 5. 
+
+
+B. The Secretary’s Interpretation Of Section 
+139500(a) Is Reasonable 
+1. The Secretary’s Interpretation Is Consistent With The 
+Absence Of A Right To A Statutory Hearing And Ju- 
+dicial Review Of Other Reopening Denials Under the 
+Medicare Program 
+The Secretary’s conclusion that providers do not have a 
+right under Section 139500(a) to administrative review by 
+the Board of reopening denials by intermediaries is fully 
+consistent with her longstanding interpretation that re- 
+opening denials of other Part A and Part B benefit deter- 
+minations are unreviewable. Just as Part A providers may 
+seek to reopen NPRs under 42 C.F.R. 405.1885, the Secre- 
+tary has promulgated similar regulations permitting individ- 
+ual beneficiaries under Part A, and physicians (and other 
+suppliers of services) and individual beneficiaries under Part 
+B, to request reopening of intermediary or carrier determi- 
+nations denying claims for benefits. 42 C.F.R. 405.750(b), 
+405.841-405.842. Those regulations do not, however, permit 
+administrative review of decisions denying requests to re- 
+open. See Medicare Intermediary Manual § 3799.16; Medi- 
+care Carrier Manual § 12100.16. Moreover, because 
+42 U.S.C. 405(g) governs individual claims for benefits under 
+Parts A and B (and physician claims under Part B), see 
+42 U.S.C. 1395ff and n.2, supra, this Court’s decision in 
+Califano v. Sanders, supra, forecloses any statutory right to 
+a hearing concerning a reopening denial and precludes those 
+
+
+27 
+
+
+claimants from seeking judicial review of such denials. Thus, 
+by construing Section 139500(a) not to confer a right to fur- 
+ther review of reopening denials affecting providers under 
+Part A, the Secretary rationally has determined that the Act 
+should afford similar treatment with respect to all decisions 
+denying reopening under the Medicare Act. 
+
+2. The Reopening Regulations Do Not Permit Unchecked 
+
+Or Arbitrary Action By Intermediaries 
+
+Petitioner asserts (Br. 31-34, 36-38) that PRRB review is 
+necessary to ensure that intermediary reopening decisions 
+are not arbitrary or capricious. That contention is unwar- 
+ranted. The Secretary has set forth detailed criteria to 
+guide an intermediary’s exercise of discretion in considering 
+a reopening request. The Provider Reimbursement Manual 
+states that “[wJhether or not the intermediary will reopen a 
+determination, otherwise final, will depend upon whether 
+new and material evidence has been submitted, or a clear 
+and obvious error was made, or the determination is found to 
+be inconsistent with the law, regulations and rulings, or gen- 
+eral instructions” of the Secretary. PRM § 2931.2. HCFA 
+also may instruct an intermediary to reopen a prior determi- 
+nation when HCFA concludes that the determination “is in- 
+consistent with the applicable law, regulations, or general 
+instructions issued by [HCFA].” 42 C.F.R. 405.1885(b). We 
+have been informed by the Secretary that intermediaries 
+frequently grant providers’ reopening requests" and that 
+HCFA regularly imparts guidance to intermediaries as 
+needed to promote consistent application of, and adherence 
+to, the reopening standards set forth in the Secretary’s 
+regulations and PRM. 
+
+
+1 Although HCFA does not maintain nationwide statistics on re- 
+opening decisions, it estimates that intermediaries grant at least 30%-40% 
+of providers’ requests to reopen. 
+
+
+Petitioner’s amici further contend (Br. 14-21) that the Sec- 
+retary has conferred unlimited discretion on intermediaries 
+that have an incentive to deny reopening requests in order 
+to meet performance standards set by the Secretary. Amici 
+also refer (Br. 17-18) to the Secretary’s notice of proposed 
+rulemaking to establish conflict-of-interest regulations with 
+respect to Medicare Integrity Program contractors (42 
+U.S.C. 1395ddd (Supp. II 1996)), in which the Secretary rec- 
+ognized the “potential” for conflicts of interest “[wJhen a 
+Medicare contractor owns a provider or supplier.” 63 Fed. 
+Reg. 13,590, 13,592 (Mar. 20, 1998). Those contentions, how- 
+ever, all ignore the salient fact that providers suspecting an 
+intermediary of bias may challenge an intermediary’s under- 
+lying substantive reimbursement determination by timely 
+compliance with the review procedures set forth by Con- 
+gress in Section 139500(a). Indeed, had petitioner pursued 
+its statutory appeal rights with respect to its NPRs for 1989, 
+petitioner would have been entitled to a full evidentiary 
+hearing during which it could have raised any basis for 
+contending that the intermediary’s action was erroneous or 
+arbitrary. 
+
+In any event, the Secretary has not delegated unbridled 
+discretion to biased fiscal intermediaries. As an initial mat- 
+ter, petitioner offers no basis for inferring that intermediar- 
+ies are predisposed against providers when considering re- 
+quests to reopen. Schweiker v. McClure, 456 U.S. 188, 195 
+(1982) (“We must start * * * from the presumption that the 
+hearing officers [designated by private carriers] who decide 
+Part B claims are unbiased.”). Indeed, intermediaries are 
+nominated by providers, 42 U.S.C. 1395h(a) and (d); 
+42 C.F.R. 421.104, and providers are free to request a change 
+in their intermediary, 42 C.F.R. 421.106. The Secretary also 
+has general oversight authority over intermediaries, 
+42 U.S.C. 1395h, and has established performance criteria to 
+assure that intermediaries make “(correct coverage and 
+
+
+payment determinations”; are “(rjesponsive[] to beneficiary 
+concerns”; and “(pjroper{ly] manage[] * administrative 
+funds.” 42 C.F.R. 421.120(a)(1)-(3); see also 42 C. F. R. 
+421.122. In the event of nonperformance or noncompliance 
+with the Secretary’s directives, the Secretary may take ad- 
+verse action against an intermediary, including termination 
+of its agreement. 42 U.S.C. 1395h; 42 C.F.R. 421.124, 
+421.126. Far from providing “strong incentives” to make 
+decisions unfavorable to providers (Amici Br. 17), those 
+regulations ensure that intermediaries properly perform 
+their duty to make accurate determinations. Compare 
+Schweiker v. McClure, 486 U.S. at 197. 
+
+Petitioner and its amici also argue (Pet. Br. 37; Amici Br. 
+13-14, 22) that the absence of review of reopening denials is 
+inconsistent with this Court’s decision in Interstate Com- 
+merce Commission v. Brotherhood of Locomotive Engineers, 
+482 U.S. 270, 279 (1987), which held that a denial by the In- 
+terstate Commerce Commission of a request to reopen a 
+prior order was subject to judicial review under the Hobbs 
+Administrative Orders Review Act (Hobbs Act), 28 U.S.C. 
+2344, to the extent that the reopening request was based on 
+“new evidence” or “substantially changed circumstances.” 
+The Court found that reopening decisions based on alleged 
+“material error” were committed to agency discretion and 
+therefore unreviewable by virtue of 5 U.S.C. 701(a)(2) and 
+that a contrary interpretation would be inconsistent with the 
+Hobbs Act’s 60-day limit upon judicial review. 482 U.S. at 
+277-284; see also id. at 280 (“If a judicial panel or an en banc 
+court denies rehearing, no one supposes that that denial, as 
+opposed to the panel opinion, is an appealable action.”). The 
+Court distinguished reopening requests based on “new 
+evidence” or “changed circumstances,” however, because 
+otherwise the party seeking reopening “will have been 
+deprived of all opportunity for judicial consideration—even 
+on a ‘clearest abuse of discretion’ basis—of facts which, 
+
+
+30 
+
+
+through no fault of his own, the original proceeding did not 
+contain.” Id. at 279. 
+The Court’s conclusion in Brotherhood of Locomotive En- 
+gineers that reopening requests based on new evidence or 
+changed circumstance were subject to judicial review does 
+not invalidate the Secretary’s interpretation of the Medicare 
+Act in this case. In Brotherhood of Locomotive Engineers, 
+Congress expressly had authorized parties to petition the 
+Commission to reopen its prior decisions based on “new on 
+dencel] or * * * substantially changed circumstances,’ 49 
+U.S.C. 10327(g)(1), and Congress further had authorized 
+judicial review in the court of appeals over any “final order” 
+of the Commission, 28 U.S.C. 2344. By contrast, the 
+Medicare Act does not address reopening, and the issue in 
+this case is whether there is a right to administrative review 
+of an intermediary’s denial of a request to reopen a “final 
+determination * * * as to the total amount of program 
+reimbursement.” 42 U.S.C. 139500(a). Moreover, this Court 
+has concluded that courts lack subject matter jurisdiction to 
+review reopening denials when that result is supported by 
+the statutory scheme. See, e.g., Sanders, 430 U.S. at 102, 108 
+(no judicial review of reopening denials under 42 U.S.C. 
+405(g) even though reopening regulations permitted 
+reopening upon discovery of new and material evidence); 
+SEC v. Louisiana Public Serv. Comm’n, 353 US. 368, 371- 
+372 (1957) (court of appeals lacked jurisdiction to review a 
+Commission order denying a petition to reopen proceedings 
+under 15 U.S.C. 79k(b), because that provision aie not 
+include an order merely denying a petition to reopen”). 
+
+
+1 Amici also err in relying (Br. 22) on the availability of judicial re- 
+view of refusals to reopen deportation proceedings under the Immigration 
+and Nationality Act. In Giova v. Rosenberg, 379 U.S. 18 (1964), this Court 
+directed the court of appeals to review a denial of a motion to reopen a 
+deportation proceeding. The government had conceded in that case, 
+however, that a “final orderſ] of deportation” under 8 U.S.C. 1105a(a) as it 
+
+
+31 
+
+
+Petitioner is in any event incorrect in contending (Br. 34- 
+37) that its reopening request is necessary to present “new 
+evidence” supporting its claims for additional reimburse- 
+ment. Petitioner alleges that, after submitting its 1989 cost 
+reports, it discovered that the intermediary had used an in- 
+formal survey for the 1987 cost year to determine the allow- 
+able owners’ compensation costs for some home health 
+agency chains, but not for petitioner. J.A. 32, Pet. Br. 34-35. 
+Petitioner was not prevented, however, from raising that 
+contention before the Board und ultimately the courts. Peti- 
+tioner was fully aware of its “protested” owners’ compensa- 
+tion costs even before the intermediary issued the NPRs for 
+the 1989 cost year, J.A. 50, and petitioner in fact sought a 
+hearing before the PRRB with respect to the amount of its 
+owners’ compensation reimbursement for 1987 and the years 
+subsequent to 1989. See Pet. 23. Moreover, had petitioner 
+timely sought PRRB review of the 1989 NPRs, petitioner 
+could have sought discovery of any salary surveys used by 
+the intermediary to determine allowable owners’ 
+compensation costs for home health agency chains. 
+42 C.F.R. 405.1853(b); ef. 42 C. F. R. 405.1853(a) (requiring 
+intermediary to present to the Board “all available documen- 
+tary evidence in support of [the intermediary’s] position,” as 
+well as “all relevant documents which formed the basis for 
+
+
+its determination of the amount of program reimburse- 
+ment”). 
+
+
+then existed should encompass an order denying reopening. The 
+government argued that, although “[lJiterally” a reopening denial was not 
+a “final order of deportation” under the Act, Congress nonetheless 
+intended in that statute to “provide a single, unitary review procedure 
+* * * for every litigable issue that might arise in a deportation pro- 
+ceeding.” No. 64-23 U.S. Br. at 15 (emphasis omitted); see also 8 U.S.C. 
+1105a(aX(6) (discussed in Stone v. INS, 514 U.S. 386 (1995)) and 8 U.S.C. 
+1252(b)\(6) (Supp. II 1996) (recent authorization of judicial review of 
+motions to reopen deportation proceedings under certain circumstances). 
+
+
+32 
+
+
+3. The Reopening Regulations Reasonably Further The 
+Goal Of Administrative Finality Under The Act 
+
+
+The Secretary’s interpretation of Section 139500(a) as not 
+providing for PRRB review of intermediary reopening 
+denials also reflects a reasonable balancing of the interests in 
+preserving administrative finality with those of providing a 
+limited procedure for correction of errors after the interme- 
+diary’s determination in the NPR has become final. See 
+PRM § 2930. By establishing in Section 139500(a)(3) a 180- 
+day time period for providers to appeal the total amount of 
+program reimbursement determined in the NPR, Congress 
+afforded providers a limited period to challenge the lawful- 
+ness and accuracy of its program reimbursement. But “(if a 
+provider permits that deadline to lapse, the Statute envi- 
+sions no further appeal of the intermediary’s decision.” HCA 
+Health Servs., Inc., 27 F.3d at 620. At that point, the cost 
+report is closed and final. 42 C.F.R. 405.1807(c); PRM 
+§ 2930.1A. 
+
+Balanced against the interests of finality is the Secretary’s 
+recognition of the appropriateness of making available a re- 
+opening procedure for the correction of errors in an other- 
+wise final NPR if the provider requests or the intermediary 
+initiates reopening within three years of the NPR and the 
+criteria for reopening are satisfied. 42 C.F.R. 405.1885(a); 
+PRM 8§ 2930, 2931.A, 2931.2. The Secretary informs us that 
+reopening often results in payment of additional program 
+reimbursement to the provider. In the event the provider is 
+dissatisfied with the result of a reopening, however, the 
+regulations grant the provider 180 days to appeal the specific 
+reimbursement matters that are actually reopened and 
+addressed in a revised NPR. 42 C.F.R. 405.1889; HCA 
+Health Servs., Inc., 27 F.3d at 615; French Hosp. Med. Ctr., 
+89 F.3d at 1422. 
+
+By contrast, since an intermediary’s denial of a request to 
+reopen does not alter the provider’s total program reim- 
+
+
+33 
+
+
+bursement, the Secretary reasonably found no need to pro- 
+vide for PRRB review of an intermediary’s decision denying 
+reopening. As a result, the Secretary’s interpretation ra- 
+tionally precludes the “belated litigation” of “stale” claims 
+that could have been appealed within Section 139500(a)(3)’s 
+180-day period. Califano, 430 U.S. at 108. 
+
+Petitioner and its amici argue (Pet. Br. 14-17; Amici Br. 
+11-12; 19-21) that the Secretary’s interpretation of the Act 
+imposes an arbitrary double standard because the Secretary 
+may require intermediaries to reopen a prior determination 
+and, if necessary, to recoup reimbursement, if such determi- 
+nation is “inconsistent with the applicable law, regulations, 
+or general instructions issued by [HCFA].” 42 C. F. R. 
+405.1885(b). They also refer to this Court’s decision in Re- 
+gions Hospital, 118 S. Ct. at 914, which upheld the Secre- 
+tary’s graduate medical education (GME) costs regulation 
+that instructed intermediaries to apply a newly calculated 
+“per-resident amount” in a base year to recoup overpay- 
+ments made for GME costs in fiscal years still subject 
+to reopening under 42 C.F.R. 405.1885. See 42 C. F. R. 
+413.86(e)(1)(iii). Petitioner and its amici accordingly contend 
+that principles of administrative finality similarly must yield 
+when providers seek to obtain additional reimbursement for 
+cost reports still subject to reopening. That contention lacks 
+merit. 
+
+In balancing the goal of administrative finality against the 
+interest in affording a limited means to correct errors after 
+finality has attached, the Secretary reasonably provided for 
+reopenings at the direction of HCFA in order to protect the 
+public fise from unauthorized and wasteful expenditures. 
+Each year, the Secretary makes total payments of 
+approximately $120 billion to approximately 38,000 providers 
+participating in Part A of the Medicare program. See 1997 
+HCFA Statistics, HCFA Pub. No. 03403, at 27 (Table 30). 
+Each of those providers submits an annual cost report 
+
+
+34 
+
+
+containing thousands of cost items for which reimbursement 
+is sought. See Athens Community Hosp., Inc. v. Schweiker, 
+743 F.2d 1, 3 (D.C. Cir. 1984) (The cost report is “a lengthy 
+document consisting of numerous schedules, worksheets, and 
+supplemental worksheets. * * * [A] cost report, when 
+completed, is approximately three-quarters of an inch 
+thick.”). It is neither administratively feasible nor efficient 
+for the 37 intermediaries that currently service Part A 
+providers to perform a detailed field audit of each item 
+claimed on a cost report. Thus, the Secretary reasonably 
+promulgated her reopening regulations in light of the 
+
+need to reopen prior NPRs when there is reason to 
+believe that intermediaries made payments that are not 
+reimbursable under the Act. See Regions Hosp., 118 S. Ct. 
+at 917 (GME reaudit regulation reasonably permits Sec- 
+retary “to carry out [her] offieialſ] responsibility to reim- 
+burse only reasonable costs” and “prevent({s] payment of un- 
+covered, improperly classified, or excessive costs”). 
+Furthermore, if a prior determination is reopened, any new 
+determination by the intermediary that requires the 
+provider to repay sums it previously received is subject to 
+administrative and judicial review. 42 U.S.C. 405.1889. That 
+regulatory scheme fairly and sensibly permits the Secretary 
+expeditiously to administer the program with a safety net 
+that ensures that only reimbursable payments are made. 
+
+It is also rational for the Secretary to grunt providers the 
+right to request reopening but not the right to seek review 
+of an intermediary’s denial of a request to reopen. As so- 
+phisticated entities that “rely on Medicare as a major source 
+of revenue to assure their financial survival” (Amici Br. 1), 
+providers generally submit accurate cost reports each year. 
+Cf. 42 U.S.C. 1895g(a) (prohibiting Medicare reimburse- 
+ments unless provider submits adequate documentation); 
+42 C. F. R. 413.24(f)(2) (giving providers five months following 
+close of fiscal year to submit cost report). Similarly, provid- 
+
+
+ers ordinarily scrutinize their annual NPRs and raise any 
+challenges to them within the 180-day time period specified 
+under 42 U.S.C. 139500(a)(3). The Secretary’s reopening 
+regulations recognize, however, that providers should be 
+permitted “a reasonable period of time within which to seek 
+or make corrections wherever an error has been discovered.” 
+PRM § 2930. Yet because of the enormous administrative 
+costs to the program that would result from PRRB and judi- 
+cial review of reopening denials by intermediaries with 
+respect to any cost item reimbursed within the three years 
+following an NPR, the Secretary has reasonably limited fur- 
+ther administrative review of reopening decisions to only 
+those instances when the intermediary has actually reopened 
+and revised a prior determination.” Indeed, a contrary con- 
+
+
+3 Amici contend (Br. 19-21) that providers should be entitled to reap 
+the benefit of any judicial decision that, if applied retroactively to NPRs 
+issued within the preceding three years, would result in additional reim- 
+bursement. They therefore fault the Secretary’s general policy to apply 
+judicial decisions prospectively and to all pending administrative chal- 
+lenges, but not to settled cost reports. See, e.g., HCFA Ruling 97-2, Medi- 
+care and Medicaid Guide (CCH) 4 45,105 (1997) (Amici Br. a3-a4) (applying 
+corrected adjustment methodology under “prospective payment system” 
+to pending and future cases); see also 42 C.F.R. 405.850 (change in law 
+does not warrant reopening under Part B). That criticism is unfounded. 
+In cases in which the law has changed by a judicial ruling after the 
+administrative decision becomes final and binding, the Secretary may 
+decline to accord retroactive relief when the law applicable at the time of 
+the intermediary's decision comported with the Secretary’s construction 
+of the Medicare Act, which the provider never challenged on direct appeal. 
+Cf. Bousley v. United States, 118 S. Ct. 1604, 1609 (1998) (noting rule of 
+Teague v. Lane, 489 U.S. 288, 310 (1989), that “new constitutional rules of 
+criminal procedure will not be applicable to those cases which have be- 
+
+
+come final before the new rules are announced”); Reynoldsville Casket Co. 
+
+
+v. Hyde, 514 U.S. 749, 758 (1995) (“New legal principles, even when ap- 
+plied retroactively, do not apply to cases already closed.”). The Secre- 
+tary’s decision to deny review of reopening denials based on subsequent 
+judicial decisions therefore can hardly be declared arbitrary. See Broth- 
+
+
+clusion could dissuade agencies in a similar position from 
+authorizing claimants to seek reopening in the first in- 
+stance." 
+Il. FEDERAL COURTS DO NOT HAVE JURISDIC- 
+TION UNDER 28 U.S.C. 1331 TO REVIEW RE- 
+OPENING DENIALS BY INTERMEDIARIES 
+
+
+A. 42 U.S.C. 405(h) Prohibits Review Of Reopening 
+Denials Under 28 U.S.C. 1331 
+
+
+Petitioner and its amici argue (Pet. Br. 18-23; Amici Br. 
+21-23) that, in the event the Court upholds the Secretary's 
+interpretation of Section 139500(a), the Court should rely on 
+a general presumption in favor of judicial review and hold 
+that federal courts have federal question subject matter 
+jurisdiction under 28 U.S.C. 1331 to review reopening 
+
+
+erhood of Locomotive Eng’rs, 482 U.S. at 286 (petition for reconsideration 
+that “merely urged the Commission to correct what (the moving party) 
+thought to be a serious error of las * should have been sought many 
+months earlier, by an appeal from the original order”); Federated Dep't 
+Stores, Inc. v. Moitie, 452 U.S. 394, 400 (1981) (rejecting “equitable doc- 
+trine” that “countenances an exception to the finality of a party’s failure to 
+appeal merely because his rights are ‘closely interwoven’ with those of 
+another party” that chose to appeal). 
+
+* In light of the practical differences between the Secretary (who 
+administers the Act with limited resources and without ready access to all 
+the records of thousands of providers) and providers (which obtain reim- 
+bursement under the program based on evidence of their own operations 
+to which they have full access), the Secretary could provide for different 
+reopening rules with respect to each. Under her broad authority to issue 
+regulations to establish procedures and methods of proof for determining 
+reimbursable costs under the Act (42 U.S.C. 405(a) (as incorporated by 42 
+U.S.C. 1896ii), 1302(a), 18 IA), 1895hh), the Secretary rationally 
+could determine that the interests of finality and effective administration 
+of the Medicare program support a regulatory scheme under which NPRs 
+are subject to reopening only upon the Secretary’s initiative. The Secre- 
+tary permissibly could even conclude that those interests warrant com- 
+plete elimination of reopening procedures. 
+
+
+37 
+
+
+denials by intermediaries. Such jurisdiction, however, is 
+specifically precluded by the third sentence of 42 U.S.C. 
+405(h), incorporated into the Medicare Act by 42 U.S.C. 
+1395ii, which provides that “[{nJo action against the United 
+States, the [Secretary], or any officer or employee thereof 
+shall be brought under section 1331 * * * of title 28 to 
+recover on any claim arising under this subchapter.” 
+
+This Court has made clear that the preclusive language of 
+Section 405(h) is “sweeping and direct.” Salfi, 422 U.S. at 
+757. In Heckler v. Ringer, 466 U.S. 602 (1984), this Court 
+held that Section 405(h) bars federal courts from exercising 
+federal question jurisdiction to hear “all ‘claim{s] arising un- 
+der’ the Medicare Act.” 466 U.S. at 615 (quoting 42 U.S.C. 
+405(h)); see also Sanders, 430 U.S. at 103 n.3, 109. The Court 
+in Ringer further explained that Section 405(h) “broadly” 
+extends to “any claims in which ‘both the standing and sub- 
+stantive basis for the presentation’ of the claims” is the 
+
+
+Medicare Act. 466 U.S. at 615 (quoting Salfi, 422 U.S. at 
+760-761). 
+
+
+1 Petitioner and its amici attempt to diminish the force of the Court's 
+decisions in Ringer and Salfi by arguing (Pet. Br. 21-22; Amici Br. 22) that 
+those decisions involved the exhaustion of administrative remedies, 
+whereas providers here lack an administrative process to exhaust chal- 
+lenges to reopening denials. The availability of administrative review 
+procedures, however, was irrelevant to the Court’s conclusions in those 
+decisions that Section 405(h) precludes federal question jurisdiction under 
+28 U.S.C. 1331 over claims under the relevant provisions of the Social Se- 
+curity Act, including its Medicare title. Rather, the question whether the 
+claimants had exhausted their administrative remedies pertained solely to 
+the availability of judicial review under other statutes. Ringer, 466 U.S. 
+at 616-617 (28 U.S.C. 1361 and 42 U.S.C. 405(g)); Salfi, 422 U.S. at 763-766 
+(42 U.S.C. 405(g)); see also Sanders, 430 U.S. at 103 n.3 (Section 405(h) 
+“has been held to require the exhaustion of available administrative 
+procedures, to foreclose jurisdiction under the general grant of federal- 
+question jurisdiction, * * * and to route review through [42 U.S.C. 
+405(g))”) (emphasis added) (citing Salfi, 422 U.S. at 757, 761). 
+
+
+Those principles foreclose federal question jurisdiction 
+
+
+for 1989 or, alternatively, an increase in its reimbursement 
+for owners’ compensation costs. J.A. 61. The court of ap- 
+peals properly found that “both the standing and substantive 
+basis for the presentation of [those] claims comes from the 
+plain language of the Medicare Act.” Pet. App. 12. Accord- 
+ingly, the third sentence of Section 405(h) bars a federal 
+court from exercising jurisdiction under 28 U.S.C. 1331 to 
+hear petitioner’s claims for additional Medicare reimburse- 
+ment. 
+
+B. Preclusion of Judicial Review Under 28 U.S.C. 1331 
+Is Consistent With Bowen v. Michigan Academy of 
+Family Physicians 
+
+In Bowen v. Michigan Academy of Family Physicians, 
+
+476 U.S. 667 (1986), this Court concluded that a federal court 
+had jurisdiction under 28 U.S.C. 1331 to review a challenge 
+to the validity of a Medicare regulation governing payments 
+to physicians under Part B of the Medicare program. At 
+that time, 42 U.S.C. 1395ff provided for a hearing and judi- 
+cial review of challenges to the amount of payments made 
+under Part A but not Part B of the program. See 476 U. S. at 
+674 n.5 (quoting 42 U.S.C. 1395ff (1982)); Erika, Inc., 456 
+U.S. at 207-208. Relying on the “strong presumption that 
+
+
+16 Such review is also barred by the second sentence of section 405(h), 
+discussed at pp. 42-43, infra. Only one court has held that reopening 
+denials are reviewable under Section 1331. Memorial Hosp. v. Sullivan, 
+779 F. Supp. 1410 (D. D.C. 1991). In that case, however, the district court 
+did not mention Section 405(h) and found jurisdiction also present under 
+28 U.S.C. 1361, discussed infra, pp. 42-45. Moreover, “critical” to the 
+court’s decision was its finding that the Secretary specifically had directed 
+the provider to seek reopening instead of directly appealing the NPR. 779 
+F. Supp. at 1412. 
+
+
+Congress intends judicial review of administrative action,” 
+the Court concluded that neither 42 U.S.C. 405(h) nor 42 
+U.S.C. 1395ff (as it then existed) precluded “challenges 
+mounted against the method by which [the] amounts [of Part 
+B benefits] are to be determined rather than [challenges to] 
+the [amount] determinations themselves.” 476 U.S. at 670, 
+675. Thus, the Court found that because the claimants had 
+sought review not of an “‘amount determination’ which de- 
+cides ‘the amount of the Medicare payment to be made on a 
+particular claim,” but a facial attack on the validity of the 
+Secretary's regulations, the district court had federal ques- 
+tion jurisdiction to hear the claims. Id. at 676. 
+
+Petitioner argues (Br. 20) that Michigan Academy sup- 
+ports federal question jurisdiction in this case because peti- 
+tioner contests the intermediary's application of 42 C. F. R. 
+413.102(b)(2)(i), which governs the reimbursement of own- 
+ers’ compensation costs. That claim, however, does not at- 
+tack the underlying validity of a regulation; it simply avers 
+that the intermediary misapplied a regulation when deter- 
+mining the amount of reimbursable owners’ compensation 
+costs owed to petitioner. Thus, petitioner’s contentions do 
+not resemble the sort of facial challenge that the Court in 
+Michigan Academy found to be beyond the scope of Section 
+405(h)’s preclusive effect. 
+
+Moreover, unlike the situation presented in Michigan 
+Academy in which there was no other jurisdictional basis for 
+obtaining judi al review of administrative action under Part 
+
+
+17 Petitioner additionally argues (Br. 20) that its challenge to the va- 
+lidity of the Secretary’s reopening regulations is the type of “collateral” 
+methodology dispute that the Court in Michigan Academy found subject 
+to review under 28 U.S.C. 1331. The parties concede, however, that the 
+district court below had subject matter jurisdiction under Section 
+139500(f)(1) to review the final decision of the Board concluding that it 
+lacks jurisdiction to review reopening denials. See Pet. Br. 20, Pet. App. 
+22; Gov't C. A. Br. 1. 
+
+
+40 
+
+
+B of the program as it then existed, see n.18, infra, Section 
+139500 explicitly affords Part A providers, such as peti- 
+tioner, an avenue to challenge both the amount of Medicare 
+payments and the methods by which those payments are cal- 
+culated. When such review is available, the presumption of 
+judicial review underlying the Court’s decision in Michigan 
+Academy is not “implicate[d).” Thunder Basin Coal Co. v. 
+Reich, 510 U.S. 200, 207 n.8 (1994); see also McNary v. 
+Haitian Refugee Ctr., Inc., 498 U.S. 479, 498 (1991) 
+(“Inherent in our analysis {in Michigan Academy] was the 
+concern that absent such a construction of the * * * 
+statute, there would be ‘no review at all of substantial 
+statutory and constitutional challenges to the Secretary’s 
+administration of Part B of the Medicare program.’”) 
+(quoting Michigan Academy, 476 U.S. at 680). Thus, under 
+Section 405(h) and this Court’s decisions in Ringer, Salfi, and 
+Sanders, Section 139500 is the sole means of obtaining 
+judicial review of provider reimbursement claims arising 
+under the Medicare Act. See, e. g., St. Francis Med. Ctr. v. 
+Shalala, 32 F.3d 805, 812-813 (3d Cir. 1994), cert. denied, 514 
+U.S. 1016 (1995); Westchester Mgmt. Corp. v. HHS, 948 F. 2d 
+279, 282 (6th Cir. 1991), cert. denied, 504 U.S. 909 (1992).”" 
+
+
+18 Subsequent legislative changes have eliminated the basis for con- 
+tinuing application of the holding in Michigan Academy even under Part 
+B of the Medicare program. In 1986, Congress amended Section 1395ff to 
+provide for administrative and judicial review of challenges to carrier de- 
+terminations concerning the amount of payments made under Part B of 
+the program. Pub. L. No. 99-509, § Ita), 100 Stat. 2087. In light 
+of that amendment, lower courts have held that federal courts lack juris- 
+diction under 28 U.S.C. 1331 to review claims arising under Part B, in- 
+cluding the type of “methodology” disputes at issue in Michigan Academy. 
+See American Academy of Dermatology v. HHS, 118 F.3d 1495, 1500 
+(11th Cir. 1997) (“the amount/methodology distinction established in 
+Michigan Academy is no longer viable”); Martin v. Shalala, 63 F. 3d 497, 
+508 (7th Cir. 1995) (“the Michigan Academy distinctions drawn betwven 
+‘amount of payment’ and ‘validity of the statute and regulations’ chal- 
+
+
+41 
+
+
+The foregoing conclusion is not altered by the argument of 
+petitioner and its amici (Pet. Br. 23; Amici Br. 21-23) that, if 
+district courts lack jurisdiction under 42 U.S.C. 139500 to 
+review intermediary decisions denying reopening, federal 
+question jurisdiction under 28 U.S.C. 1331 is necessary to 
+provide some route for judicial review of that type of agency 
+action. Under that contention, any party could file multiple 
+suits in federal courts under Section 1331 to challenge an 
+agency’s decision denying reopening notwithstanding the 
+party’s initial failure to seek review of the agency’s under- 
+lying decision—and, here, notwithstanding the fact that Sec- 
+tion 405(h) specifically channels all judicial review of agency 
+action affecting provider claims under Part A of the Medi- 
+care program through the procedures set forth in 42 U.S.C. 
+139500. This Court should reject that contention. Petitioner 
+is no different from the claimant in Sanders: petitioner had a 
+right to administrative and judicial review of the intermedi- 
+ary’s substantive determination of the amount it would be 
+reimbursed, but petitioner failed to exercise that right. See 
+also Sanders, 430 U.S. at 109 (recognizing that “federal ques- 
+tion jurisdiction under 28 U.S.C. § 1331 is precluded by [Sec- 
+tion 405(h)}”). In these circumstances, there is no basis for 
+disregarding the express terms of Section 405(h) that bar 
+federal question jurisdiction over “all ‘claim{s] arising under’ 
+
+
+lenges are no longer meaningful or necessary”); Farkas v. Blue Cross & 
+Blue Shield of Mich., 24 F.3d 853, 860 (6th Cir. 1994) (amount/ 
+methodology distinction is no longer “good law”); Abbey v. Sullivan, 978 
+F.2d 37, 42 (2d Cir. 1992) (Michigan Academy's distinction relegatſ ed] to 
+irrelevancy”); National Kidney Patients Ass'n v. Sullivan, 958 F.2d 1127, 
+1132 (D.C. Cir. 1992) (“the special treatment of part B (claims), based on 
+the pre-October 1986 statutory differences, cannot survive the elimination 
+of those differences”), cert. denied, 506 U.S. 1049 (1993); but see Illinois 
+Council on Long Term Care, Inc. v. Shalala, 143 F.3d 1072, 1075 (7th Cir. 
+1998) (relying on Michigan Academy and concluding that Section 405(h) 
+does not preclude “pre-enforcement review of a regulation's validity”). 
+
+
+42 
+
+
+the Medicare Act.” Ringer, 466 U.S. at 615 (quoting 42 
+U.S.C. 405(h)). 
+
+
+III. THE MANDAMUS STATUTE, 28 U.S.C. 1361, 
+DOES NOT FURNISH A BASIS FOR REVIEW- 
+ING AN INTERMEDIARY’S DECISION DENY- 
+
+
+ING REOPENING 
+
+
+Petitioner further argues (Br. 24-29) that federal courts 
+may review an intermediary’s denial of a provider’s reopen- 
+ing request by the exercise of mandamus jurisdiction under 
+28 U.S.C. 1861. That argument, too, is foreclosed by 42 
+U.S.C, 405(h). 
+
+The second sentence of Section 405(h) provides that “[nJo 
+findings of fact or decision of the Secretary shall be reviewed 
+by any person, tribunal, or governmental agency except as 
+herein provided“ -i. e., except as provided in the Medicare 
+Act itself. There can be no dispute that the decision of the 
+intermediary denying petitioner’s request to reopen is a “de- 
+cision of the Secretary” for these purposes. See Erika, 456 
+U.S. at 206 n.4. Thus, that decision cannot be reviewed by 
+any “tribunal,” including a federal district court, except as 
+provided in the Medicare Act itself. See Sanders, 430 U.S. at 
+110-111 (Stewart, J., concurring in the judgment). As we 
+have explained, however, 42 U.S.C. 139500(f) provides no 
+right of review here.” 
+
+
+19 The third sentence of Section 205(h) of the Social Security Act (42 
+U.S.C. 405(h)), as originally enacted in 1939, provided that no action to re- 
+cover on any claim arising under Title II of the Social Security Act could 
+be brought “under section 24 of the Judicial Code” (53 Stat. 1371), which at 
+that time contained all of the general grants of jurisdiction to the district 
+courts. See 28 U.S.C. 41 (Supp. V 1984); Salfi, 422 U.S. at 756 n.3. When 
+the mandamus statute was enacted in 1962, Congress placed it in Chapter 
+85 of Title 28 (see Act of Oct. 5, 1962, Pub. L. No. 87-748, 76 Stat. 744), 
+which likewise contains all of the general grants of jurisdiction to the 
+district courts and therefore is the successor to the prior 28 U.S.C. 41. 
+
+
+43 
+
+
+In any event, the Court made clear in Ringer that manda- 
+mus relief is an appropriate remedy “only if [the plaintiff] 
+has exhausted all other avenues of relief and only if the 
+defendant owes him a clear nondiscretionary duty.” 466 U.S. 
+at 616. Those requirements are not met in this case. 
+
+As explained above (see p. 18, supra), an intermediary’s 
+authority to reopen its prior final determination derives 
+exclusively from the Secretary’s reopening regulations. 
+Those regulations provide that the decision whether to grant 
+a provider’s request to reopen is discretionary with the in- 
+termediary. Thus, the regulations provide that Ja] deter- 
+mination of an intermediary * * * may be reopened * * * 
+by such intermediary * on motion of the provider af. 
+fected by such determination.” 42 C.F.R. 405.1885(a) (em- 
+phasis added). Moreover, as petitioner and its amici concede 
+(Pet. Br. 8; Amici Br. 24), the regulations elsewhere recog- 
+nize the discretionary nature of the reopening decision by 
+
+
+The 1962 amendment thereby placed the mandamus statute within the 
+scope of the jurisdictional bar in the third sentence of 42 U.S.C. 405(h). 
+
+
+In the 1976 version of the United States Code, the codifiers revised the 
+third sentence of 42 U.S.C. 405(h) to refer to “sections 1331 or 1346 of title 
+28,” instead of “section 24 of the Judicial Code.” That change was 
+intended to reflect the 1948 revision of Title 28 (see 42 U.S.C. 405 note, at 
+518 (1976)) and, because it was not enacted by Congress, it had no legal 
+effect. North Dakota v. United States, 460 U.S. 300, 311 n. 18 (1983). In 
+Ringer, which was decided in May 1984, the Court reserved the question 
+whether the third sentence of 405(h), as then in effect, foreclosed 
+mandamus jurisdiction. See 466 U.S. at 616. 
+
+
+Later in 1984, in Section 2663(a)(4)(D) of the Deficit Reduction Act of 
+1984 (Pub. L. No. 98-369, 98 Stat. 1162), Congress amended Section 2050h) 
+of the Social Security Act to refer to “section 1331 or 1346 of title 28,” 
+instead of “section 24 of the Judicial Code.” That amendment was one of a 
+number of “technical corrections” that did not “chang{e] or affeetſ] any 
+right, liability, status, or interpretation which existed (under the 
+provisions of law involved) before that date.” 98 Stat. 1160, 1171-1172; see 
+also H.R. Conf. Rep. No. 861, 98th Cong., 2d Sess. 1413-1415 (1984). 
+
+
+44 
+
+
+providing that the “{jJurisdiction for reopening a determina- 
+tien *° °° rests exclusively with that administrative body 
+that rendered the last determination or decision.” 42 C. F. R. 
+405.1885(c). Thus, because the Secretary does not have a 
+“clear nondiscretionary duty” (Ringer, 466 U.S. at 616) to 
+reopen petitioner’s NPRs for 1989, petitioner has failed to 
+satisfy the requirements for mandamus relief. 
+
+Petitioner nonetheless argues for the first time in its 
+merits brief in this Court (Br. 25-27) that the Secretary owed 
+petitioner a nondiscretionary “procedural” duty to pay it 
+reasonable costs in accordance with 42 U.S.C. 1395x(v)(1)(A) 
+and to follow her regulations governing owners’ compensa- 
+tion costs, which provide that “[rjeasonablness requires that 
+the compensation allowance * * * ble such an amount as 
+would ordinarily be paid for comparable services by compa- 
+rable institutions.” 42 C.F.R. 413.102(b)(2)(i). That claim, 
+however, fails both requirements for mandamus relief. 
+First, petitioner failed to appeal its NPRs for 1989 under 42 
+U.S.C. 189500. Pet. 23; Pet. App. 3. Thus, petitioner did not 
+“exhaust{] all other avenues” (Ringer, 466 U.S. at 616) to 
+remedy the alleged error by the intermediary in determining 
+the amount of petitioner’s reimbursement for owners’ com- 
+pensation in 1989. See id. at 617 (mandamus relief not 
+available when claimants have an adequate remedy * * * 
+for challenging all aspects of the Secretary's denial of their 
+claims for payment”); Pet. App. 13 (petitioner’s “failure to 
+appeal the initial determination would preclude mandamus 
+review of that determination”). Mandamus review in that 
+situation would flout “the purpose of the exhaustion 
+requirement * * * to prevent ‘premature interference with 
+agency processes’ and to give the agency a chance ‘to 
+compile a record which is adequate for judicial review.’” 
+Ringer, 466 U.S. at 619 n.12 (quoting Salfi, 422 U.S. at 765). 
+
+Second, the Secretary does not owe a clear nondiscretion- 
+ary duty to pay petitioner a specific amount of owners’ com- 
+
+
+45 
+
+
+pensation determined to be “reasonable” and “comparable” 
+to other like institutions. Pet. Br. 26. By their nature, de- 
+terminations of reasonableness and comparability necessar- 
+ily require the discretionary exercise of the Secretary’s ex- 
+pertise under the Act. See Ringer, 466 U.S. at 617 (“The 
+Secretary's decision as to whether a particular medical 
+service is ‘reasonable and necessary’ and the means by which 
+she implements her decision“? * are clearly discretionary 
+decisions.”); Anderson v. Bowen, 881 F.2d 1, 5 (2d Cir. 1989) 
+(noting “considerable HCFA and carrier discretion in de- 
+termining whether a charge is ‘inherently reasonable’”). For 
+those reasons, petitioner has failed to state a claim for man- 
+damus relief under 28 U.S.C. 1361. 
+
+
+IV. THE APA DOES NOT PROVIDE A BASIS FOR 
+SUBJECT MATTER JURISDICTION TO REVIEW 
+AGENCY ACTION 
+
+
+Petitioner and its amici finally assert (Pet. Br. 29-38, 40; 
+Amici Br. 24) that the Administrative Procedure Act (APA), 
+5 U.S.C. 706(2)(A), provides federal courts with subject mat- 
+ter jurisdiction to review an intermediary’s decision denying 
+reopening. This Court in Sanders, however, specifically held 
+that Section 10 of the APA, 5 U.S.C. 701-706, does not vest 
+federal courts with subject-matter jurisdiction to review 
+agency action, including decisions denying reopening re- 
+quests. 430 U.S. at 105-107. The Court explained that “the 
+actual text of [Section] 10 nowhere contains an ex- 
+plicit grant of jurisdiction to challenge agency action in the 
+federal courts,” id. at 105-106, and that reading Section 10 as 
+an implied grant of subject matter jurisdiction with respect 
+to matters under the Social Security Act would be 
+inconsistent with Congress’s decision to retain Section 405(h) 
+when it eliminated the amount-in-controversy requirement 
+under 28 U.S.C. 1331(a) for suits against federal agencies 
+and their officers and employees, 430 U.S. at 106-107. 
+
+
+46 
+
+
+“Considerations of stare decisis have special force in the 
+area of statutory interpretation, for * * * Congress re- 
+mains free to alter what [the Court] hals] done.” Patterson 
+v. McClean Credit Union, 491 U.S. 164, 172-173 (1989). This 
+Court therefore will not overrule precedent construing a 
+federal statute unless intervening law has undercut the 
+“conceptual underpinnings” of the decision; “later law has 
+rendered the decision irreconcilable with competing legal 
+doctrines or policies”; or there is “compelling evidence bear- 
+ing on Congress’ original intent.” Neal v. United States, 516 
+U.S. 284, 295 (1996). None of those conditions is satisfied 
+here. Indeed, petitioner does not even cite Sanders, much 
+less contend that it is in error. Thus, under Sanders, the 
+APA does not provide a jurisdictional basis for judicial re- 
+view of reopening denials. 
+
+
+47 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+HARRIET S. RABB _ Solicitor General 
+General Counsel FRANK W. HUNGER 
+SHEREE R. KANNER Assistant Attorney General 
+Associate General Counsel EDWIN S. KNEEDLER 
+BRUCE R. GRANGER Deputy Solicitor General 
+OWARD H. LEWIS SCHIA 
+LISA vo BLATT 
+HENRY R. GOLDBERG Assistant to the Solicitor 
+GERARD KEATING General 
+ANTHONY J. STEINMEYER 
+— Health and Joun P. SCHNITKER 
+Attorneys 
+
+
+SEPTEMBER 1998 
+
+

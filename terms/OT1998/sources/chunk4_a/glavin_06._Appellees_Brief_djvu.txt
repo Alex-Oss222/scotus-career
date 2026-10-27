@@ -1,0 +1,478 @@
+No. 98-564 2 OCT <0 1998 
+
+
+IN THE Mae Dat 
+Supreme Court of the United Strtes 
+OCTOBER TERM, 1998 
+
+
+—< —— «4 
+
+
+WILLIAM JEFFFRSON CLINTON, et al., 
+Appellants, 
+
+
+Vv. 
+
+
+MATTHEW GLAVIN, et ai., 
+Appellees. 
+
+
+On Appeal from the United States District Court 
+for the Eastern District of Virginia 
+
+
+BRIEF OF APPELLEES RICHARD A. GEPHARDT, 
+DANNY K. DAVIS, JUANITA MILLENDER- 
+McDONALD, LUCILLE ROYBAL-ALLARD, LOUISE 
+M. SLAUGHTER, and BENNIE G. THOMPSON 
+
+
+SUPPORTING APPELLANTS 
+J. Gerald Hebert Paul M. Smith* 
+800 Parkway Terrace Donald B. Vermilli, Jr. 
+Alexandria, VA 22302 Marc A. Goldman 
+(703) 684-3585 JENNER & BLOCK 
+
+
+601 Thirteenth Street, N.W. 
+Washington, D.C. 20005 
+(202) 639-6000 
+
+
+*Counsel of Record 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+pf PR a Re eer errr il 
+IIS Cc kicdn wahdcvdi pon suvesnvivewneset 2 
+SUMMARY OF ARGUMENT ..............5.... 3 
+RT bab Cates derek sh Oe seeds vecnsee 4 
+NUE ere wy Pee | One so 10 
+
+
+il 
+
+
+IN THE 
+TABLE OF AUTHORITIES Supreme Court of the United States 
+—_— OCTOBER TERM, 1998 
+FEDERAL CASES 
+No. 98-564 
+
+
+Crosby v. United States, 506 U.S. 255 (1993) . 4,8 
+
+
+WILLIAM JEFFERSON CLINTON, et ai., 
+Richardson v. Ramirez, 418 U.S. 24 (1974) ..4,7,8 
+
+
+Appellants, 
+CONSTITUTION AND STATUTES 
+v. 
+SOURED Gh perdbasevecerevdedene passim 
+MATTHEW GLAVIN, et ai., 
+DUEL TEE bacpecbedocceivetviness passim 
+llees. 
+U.S. Const., amend. XIV, §2 .........-6..005. 7 si 
+
+
+On Appeal from the United States District Court 
+for the Eastern District of Virginia 
+
+
+BRIEF OF APPEL LEES RICHARD A. GEPHARDT, 
+DANNY K. DAVIS, JUANITA MILLENDER- 
+McDONALD, LUCILLE ROYBAL-ALLARD, LOUISE 
+| M. SLAUGHTER, and BENNIE G. THOMPSON 
+
+SUPPORTING APPELLANTS 
+
+
+Representatives Richard A. Gephardt, Danny K. Davis, 
+Juanita Millender-McDonald, Lucille Roybal-Allard, Louise 
+M. Slaughter, and Bennie G. Thompson, intervenors in the 
+
+
+2 
+
+
+district court,' having already submitted an extensive merits 
+brief in No. 98-404, United States Department of Commerce v. 
+United States House of Representatives, submit this short 
+additional brief to address the distinctive aspects of the Virginia 
+district court’s opinier ‘n this case. As we show, this new 
+opinion adds little to ‘he failed arguments offered by the D.C. 
+district court in support of the proposition that Congress has 
+prohibited use of statistical techniques designed to enhance the 
+accuracy of the decennial census. 
+
+
+STATEMENT 
+
+
+On September 24, 1998, the U.S. District Court for the 
+Eastern District of Virginia joined the U.S. District Court for 
+the District of Columbia in ruling that 13 U.S.C. § 195 bars the 
+Census Bureau from using any form of “sampling” to adjust the 
+results of the decennial census to make it more accurate -- at 
+least to the extent that the results are then used for purposes of 
+apportionment of seats in Congress among the states. The 
+Virginia court’s opinion, however, includes just a handful of 
+pages discussing the merits. In that short section, the court 
+pointed to no affirmative indication that Congress -- in enacting 
+section 195 in 1957 or amending it in 1976 -- ever sought to 
+prevent use of statistical methods to address the persistent 
+problem of the undercount. Nor did the court attempt to square 
+
+
+‘In the joint motion of appellants and appellees Glavin et al seeking 
+to consolidate this case with No. 98-404 and requesting an expedited 
+filed motions to intervene in the Virginia district court were ever granted 
+party status. Any doubt on that score has now been allayed by an order 
+entered on October 15, 1998, by the Virginia court clarifying the fact that 
+it tended to grant the intervention motions on August 7 when it allowed 
+counsel for the intervenors to appear and argue the case on the merits. 
+
+
+3 
+
+
+its ruling with the acknowledged fact that the Census Bureau 
+has for decades used forms of statistical sampling in producing 
+counts used for apportionment -- including “imputation” and 
+the “postal vacancy check.” See J.S. App. 3a-4a (describing 
+use of imputation in the 1990 Census); id. at 3a (asserting, 
+without explanation, that the “Bureau’s plan to use sampling in 
+the Postal Vacancy Check is not in dispute in this lawsuit’’). 
+
+
+Instead, the court purported to rely solely on the “plain 
+language and structure of the Act.” J.S. App. 2la. As we 
+discuss here, however, the plain language of the statute simply 
+does not point to the conclusion that sampling is barred for 
+purposes of apportionment. That is why the D.C. district court 
+went to great lengths to deploy various presumptions and 
+supposed principles of statutory interpretation in an 
+unpersuasive effort to justify rejection of the obvious 
+harmonizing reading of the two relevant statutory provisions, 
+13 U.S.C. §§ 141(a) and 195. The Virginia court’s solution -- 
+to rely on flat assertions about “plain meaning” that lack any 
+valid basis in the actual meaning of the words Congress used -- 
+is even less persuasive. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Virginia court’s reading of the “plain language” of the 
+statute was flawed in multiple ways. First, it suggested that 
+section 141 would not, on its own, authorize use of sampling 
+for purposes of apportionment. But there can be no doubt that 
+section 141(a) is fairly read as authorizing such a use of 
+sampling, as even the D.C. court acknowledged. Second, the 
+Virginia court read the “except” clause of section 195 as a flat 
+prohibition of use of sampling for apportionment purposes. 
+But that is wrong as well. The court was obligated to try to 
+harmonize sections 141(a) and 195, and that_is easily 
+
+
+4 
+
+
+accomplished if the “except” clause of section 195 is read in 
+accordance with what it says -- not as a prohibition but simply 
+as an exception from the mandated use of sampling for non- 
+apportionment purposes. 
+
+
+Such a reading is entirely fair. An exception to a mandate, 
+like that contained in section 195, is not ordinarily understood 
+to create a prohibition of anything. Indeed, this reality is 
+illustrated by the two cases cited by the district court -- 
+Richardson v. Ramirez, 418 U.S. 24 (1974), and Crosby v. 
+United States, 506 U.S. 255 (1993) -- both of which involved 
+“except” clauses that themselves prohibi' aothing. Finally, the 
+district court’s reliance on the principle that a court should, 
+where possible, read a statute so as to give each relevant 
+provision some separate significance, was remarkable. It is the 
+court’s own proposed reading that renders the reference to 
+
+
+sampling in section 141(a) utterly superfluous. 
+ARGUMENT 
+
+
+The reasoning offered by the Virginia district court to 
+support its decision to enjoin the Census Bureau from using 
+statistical sampling for apportionment purposes in the 2000 
+Census is even less persuasive than that contained in the earlier 
+ruling of the D.C. district court. Like the D.C. court, the 
+Virginia court held that section 195 of the Census Act, 13 
+U.S.C. § 195, precludes the Census Bureau from using 
+sampling for that purpose and thus trumps the apparent 
+authorization of sampling in the decennial census for all 
+purposes contained in section 141(a) of the Act, 13 U.S.C. 
+§ 141(a). In so doing, the Virginia court, like the D.C. court, 
+avoided the obvious possibility of applying both sections 
+harmoniously -- .e., interpreting section 141(a) as authorizing 
+sampling for all purposes and section 195 as requiring 
+
+
+5 
+
+
+sampling, wherever feasible, outside the apportionment 
+context. But as explained in our earlier brief in No. 98-404, the 
+law plainly requires a court to explore and adopt such a 
+harmonizing reading, rather than assume that Congress (1) 
+decided to create an exception to an ostensibly universally 
+applicable provision and then (2) did so, not by including an 
+exception in that section, but by enacting a separate section that 
+makes no reference to the first. See Br. of Intervenors Gephardt 
+et al. at 16-23, in No. 98-404. 
+
+
+The district court began its statutory analysis by suggesting 
+that section 141(a), read by itself, does not authorize the use of 
+the Secretary to use “sampling procedures” in the “decennial 
+census of population” -- the primary (and sole constitutional) 
+purpose of which is collection of population information for 
+use in apportionment of seats in Congress among the states. 
+But the district court, although acknowledging that “Section 
+141 of the Census Act generally authorizes the Secretary to use 
+sampling in conducting various aspects of the census, without 
+an express prohibition,” J.S. App. at 18a, pointed to section 
+141(g), which defines a “census of population” as a “census of 
+a population, housing, and matters related to population and 
+housing.” Based on this slim reed, the court drew the 
+remarkable conclusion that “the plain language of Section 141 
+itself . . . establishes . . . Congress’ intent . . . to authorize 
+sampling for numerous purposes of the census other than 
+congressional apportionment.” Id. (emphasis added). 
+
+
+That reading is utterly indefensible. To the contrary, 
+section 141(g) makes clear that the authorization of sampling 
+in section 141(a) extends to the census of population, the very 
+census routinely used for apportionment. Indeed, section 
+141(b) states that the tabulation of population used for 
+
+
+6 
+
+
+apportionment is to be based on the decennial census 
+authorized by section 141(a). That is why even the D.C. 
+district court concluded that section 141(a) “standing alone 
+appears to permit statistical sampling in congressional 
+apportionment.” J.S. App. at 6la, in No. 98-404. 
+
+
+The Virginia court then went on to place greater reliance 
+on the assertion that “[uJnder 13 U.S.C. § 195, Congress’ 
+prohibition against the use of sampling is clear on its face.” 
+J.S. App. 18a. It then asserted that section 195 is more 
+“specific” and, relying on various decisions of this Court, 
+concluded that this more specific provision must be read to 
+trump the authorization of sampling for apportionment 
+purposes in section 141(a). But for reasons already discussed 
+in our prior brief, this analysis was severely flawed. 
+
+
+First, as the Virginia court itself recognized, the principle 
+that a specific provision controls a more general provision takes 
+effect only when the two provisions cannot be “reconciled.” 
+J.S. App. 20a; see Br. of Intervenors Gephardt et al. at 17-18, 
+in No. 98-404 (citing cases). Second, it is hardly “clear on its 
+face” that the “except” clause in section 195 constitutes a 
+prohibition of anything. To the contrary, as the D.C. court 
+acknowledged, an exception to a mandate does not always -- or 
+even ordinarily -- create a prohibition. See id. at 20-22. There 
+is thus no reason to avoid the obvious harmonizing reading of 
+sections 141 and 195 as (1) authorizing use of sampling for 
+apportionment purposes while (2) requiring such use, wherever 
+feasible, for other purposes. 
+
+
+The district court offered only two arguments to support its 
+rejection of that reading. First, it cited two cases involving 
+provisions with “except” clauses. Neither, however, is 
+remotely apposite because neither interprets an except/shall 
+
+
+_ es 
+
+
+7 
+
+
+sentence structure as itself creating a prohibition. Indeed, these 
+cases provide further support for the proposition that when 
+Congress uses the except/shall structure, it does not ordinarily 
+-- if ever ~ intend to create a prohibition. At most it intends to 
+allow other sources of law to govern the area that it has 
+exempted, and these other sources of law determine whether or 
+not there is a prohibition. Here, the relevant other source of 
+law is Section 141 which, rather than prohibiting the use of 
+sampling for apportionment, expressly authorizes the Census 
+Bureau to do so. 
+
+
+In Richardson v. Ramirez, 418 U.S. 24 (1974), the first 
+case cited by the district court, this Court considered an equal 
+protection challenge to a state’s disenfranchisement of a class 
+of convicted criminals. In rejecting that challenge, the Court 
+relied on Section 2 of the Fourteenth Amendment which 
+imposes sanctions on states (a diminution of representation) if 
+they disenfranchise their citizens but exemrts from that 
+sanction states that disenfranchise criminals or rebels: 
+
+
+Representatives shall be apportioned among the 
+several States according to their respective 
+numbers, counting the whole number of persons in 
+each State . . . . But when the right to vote . . . is 
+denied . . . or in any way abridged, except for 
+_ participation in rebellion, o other crime, the basis 
+~ of representation therein shall be reduced . . 
+
+
+U.S. Const., amend. XTV, § 2. The Court concluded that the 
+Amendment would not have exempted states that 
+disenfranchise criminals from its automatic sanction of 
+diminished representation if another portion of the same 
+Amendment -- the equal protection clause -- simultaneously 
+
+
+8 
+
+
+forbade states altogether from disenfranchising criminals. 418 
+U.S. at 55. 
+
+
+Contrary to the unexplained suggestion of the district 
+court, nothing in Richardson v. Ramirez in any way supports 
+that court’s reading of section 195. The “except” clause in the 
+Fourteenth Amendment is an exception from imposition on 
+states of a penalty for abridging their citizens’ right to vote. 
+The Court never suggested that this clause itself creates any 
+sort of mandate or prohibition. It may well be that the 
+Fourteenth Amendment does prohibit Congress from reducing 
+the representation of states that disenfranchise criminals, but 
+this prohibition is created by the first sentence of Section 2, 
+which provides that apportionment is to be based on states’ 
+respective numbers, not by the except clause in the second 
+sentence. The except clause merely establishes that states 
+which disenfranchise criminals are not subject to the automatic 
+sanction of diminished representation and thus that 
+apportionment for those states continues to be governed by the 
+first sentence of Section 2. The analogeus provision of the 
+Census Act is Section 141, which, rather than prohibiting the 
+Census Bureau from using sampling, explicitly allows it to do 
+so. 
+
+
+Like the Fourteenth Amendment, the underlying statute at 
+issue in Crosby v. United States, 506 U.S. 255 (1993), also 
+cited by the district court, shows that when Congress exempts 
+an area from a mandate, it does not ordinarily intend to create 
+a prohibition. In Crosby, this Court was interpreting Rule 43(a) 
+of the Federal Rules of Criminal Procedure, which requires that 
+criminal defendants be present at trial, “except as otherwise 
+provided.” The Court concluded that the “except” clause was 
+exclusive; it leaves no room for creation of exceptions not 
+“otherwise provided.” But the Court never intimated that the 
+
+
+9 
+
+
+“except” clause, where it applies, prohibits a defendant’s 
+presence at trial. 
+
+
+Nor could it have done so. For example, one of the 
+exceptions “otherwise provided” is Rule 43(c)(2), which states 
+that a defendant may choose not to attend a trial of a crime 
+punishable by less than one year’s imprisonment. But the 
+defendant obviously retains the option to attend. Thus, the fact 
+that this situation is excepted from the requirement in Rule 
+43(a) merely preserves discretion. Here, once again, an 
+exception from a mandate is just that, and nothing more. 
+
+
+Finally, the district court relied on the principle that a 
+statutory interpretation should, where possible, give effect to 
+every statutory provision. J.S. App. 19a-20a. But that 
+principle, in fact, strongly undercuts the court’s preferred 
+interpretation. The district court’s argument was that 
+defendants’ reading of the statute “renders the ‘except for’ 
+language [in section 195] devoid of meaning.” J.S. App. 19a. 
+But that is clearly incorrect. The “except” clause in section 195 
+exempts sampling for purposes of apportionment from the 
+
+
+_conditional mandate established in the rest of section 195. By 
+
+
+exempting apportionment from this requirement, Congress left 
+the Census Bureau discretion to refrain from using sampling for 
+apportionment even if it is feasible. 
+
+
+Indeed, it is the district court’s reading that violates the 
+canon that a statute should, if possible, be construed so that 
+every word has substantive effect. Under that reading, section 
+141(a)’s authorization of sampling is entirely superfluous, 
+because section 195 controls the use of sampling both inside 
+and outside the context of apportionment. Only under 
+defendant’s reading does section 141(a) have independent force 
+
+
+10 
+
+
+-- providing the Census Bureau with affirmative authorization 
+to use sampling for apportionment purposes. 
+
+
+In sum, nothing in the Virginia district court’s opinion in 
+any way strengthens the arguments in favor of reading the 
+Census Act as prohibiting use of sampling for apportionment 
+purposes. For all of the reasons stated here and in our earlier 
+brief, the Act is best read as allowing the Census Bureau to 
+make that choice. 
+
+
+CONCLUSION 
+
+
+The judgment below should be reversed. 
+
+
+Respectfully submitted, 
+
+
+J. Gerald Hebert Paul M. Smith 
+
+800 Parkway Terrace Donald B. Vermilli, Jr. 
+
+Alexandna, VA 22302 Marc A. Goldman 
+
+(703) 684-3585 JENNER & BLOCK 
+601 Thirteenth Street, N.W. 
+Washington, D.C. 20005 
+(202) 639-6000 
+
+
+October 20, 1998 
+
+

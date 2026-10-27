@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="cfr.xsl"?>
+<CFRGRANULE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="CFRMergedXML.xsd">
+  <FDSYS>
+    <CFRTITLE>42</CFRTITLE>
+    <CFRTITLETEXT>Public Health</CFRTITLETEXT>
+    <VOL>2</VOL>
+    <DATE>1998-10-01</DATE>
+    <ORIGINALDATE>1998-10-01</ORIGINALDATE>
+    <COVERONLY>false</COVERONLY>
+    <TITLE>Notice of reopening.</TITLE>
+    <GRANULENUM>405.1887</GRANULENUM>
+    <HEADING>Section 405.1887</HEADING>
+    <ANCESTORS>
+      <PARENT HEADING="" SEQ="4"/>
+      <PARENT HEADING="" SEQ="3"/>
+      <PARENT HEADING="SUBCHAPTER B" SEQ="2">MEDICARE PROGRAM</PARENT>
+      <PARENT HEADING="PART 405" SEQ="1">FEDERAL HEALTH INSURANCE FOR THE AGED AND DISABLED</PARENT>
+      <PARENT HEADING="Subpart R" SEQ="0">Provider Reimbursement Determinations and Appeals</PARENT>
+    </ANCESTORS>
+  </FDSYS>
+  <SECTION>
+    <SECTNO>§ 405.1887</SECTNO>
+    <SUBJECT>Notice of reopening.</SUBJECT>
+    <P>(a) All parties to any reopening described above shall be given written notice of the reopening. When such reopening results in any revision in the prior decision notice of said revision or revisions will be mailed to the parties with a complete explanation of the basis for the revision or revisions. Notices of reopenings by the Board shall also be sent to the Secretary.</P>
+    <P>(b) In any such reopening, the parties to the prior decision shall be allowed a reasonable period of time in which to present any additional evidence or argument in support of their position.</P>
+  </SECTION>
+</CFRGRANULE>

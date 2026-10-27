@@ -1,0 +1,870 @@
+APPENDIX D 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+No. 96-3519 
+
+
+THE PEOPLE OF THE STATE OF CALIFORNIA; THE PUBLIC 
+
+
+UTILITIES COMMISSION OF THE STATE OF CALIFORNIA, 
+Petitioners, 
+
+
+BELL ATLANTIC CORPORATION; BELLSOUTH CORPORA- 
+
+
+TION; PaciFic TeLesis Group; SBC COMMUNICATIONS, 
+INC.; MARYLAND PuBLic Service Commission; US 
+West, INc.; US TELEPHONE ASSOCIATION; ARKANSAS 
+PuBLic Service COMMISSION; ALLTEL TELEPHONE 
+SERVICES CORPORATION; AMERITECT CORPORATION; 
+OREGON PuBLic Utitiry CoMMISSION; NoRTH STATE 
+TELEPHONE COMPANY; WESTERN ALLIANCE; INDE- 
+PENDENT TELEPHONE AND TELECOMMUNICATIONS AL- 
+LIANCE; ROSEVILLE TELEPHONE COMPANY; CONCORD 
+TELEPHONE COMPANY; Rock HiLt TELEPHONE Com- 
+PANY; PusBLic UTiLitres COMMISSION OF THE STATE 
+OF HAWAl; AMERICAN PuBLIC COMMUNICATIONS 
+CounciL, Inc.; ICG Tetecom Group, INc.; MINNE- 
+SOTA PuBLic UTILITIES COMMISSION; SOUTHERN NEw 
+ENGLAND TELEPHONE COMPANY; THE Ap Hoc Coat- 
+TION OF TELECOMMUNICATIONS MANUFACTURING 
+COMPANIES; PaciFic TELECOM, INC.; MINNESOTA 
+INDEPENDENT COALITION; KENTUCKY PUBLIC SERVICE 
+COMMISSION; KANSAS CORPORATION COMMISSION: PuR- 
+Lic SERVICE COMMISSION OF THE STATE OF WYOMING: 
+Ruope IsLAND PuBLic UTiLities CoMMISSsION; PUBLIC 
+SERVICE COMMISSION OF WISCONSIN; STATE OF TEXAS: 
+
+
+74a 
+
+
+ALABAMA PuBLic SERVICE COMMISSION; CITIZENS 
+TELEPHONE COMPANY OF KECKSBURG; NEW MEXICO 
+STaTE CORPORATION COMMISSION; PUBLIC SERVICE 
+COMMISSION OF THE STATE OF MONTANA; GTE SERV- 
+Ice CORPORATION; UTAH DEPARTMENT OF COM- 
+MERCE, Division OF PuBLic UTiLiTies; PuBLIC SERV- 
+ice COMMISSION OF UTAH; PuBLIc SERVICE COMMIS- 
+SION OF THE STATE OF SOUTH CAROLINA; TENNESSEE 
+REGULATORY AUTHORITY; AGING ForUM, INC., DOING 
+BUSINESS AS NATIONAL SILVER HarreD ConGress; U.S. 
+COALITION ON AGING; COLLEGE FOR LIVING; COUNCIL 
+OF SILVER HAIRED LEGISLATURES; MissoURI ALLIANCE 
+OF AREA AGENCIES ON AGING; MISSOURI ASSOCIATION 
+FOR THE DEAF; Missourt COUNCIL OF THE BLIND; 
+PRESIDENTS’ CLUB FOR TELECOMMUNICATIONS Jus- 
+TICE; PARAQUAD, RURAL ADVOCATES FOR INDEPENDENT 
+LivinG; SERVICES FOR INDEPENDENT LIVING; PUBLIC 
+Uritities COMMISSION OF THE STATE OF COLORADO; 
+DEPARTMENT OF PUBLIC UTILITIES OF THE COMMON- 
+WEALTH OF MASSACHUSETTS; OKLAHOMA CORPORATION 
+COMMISSION; PuBLIC SERVICE COMMISSION OF THE 
+STATE OF CONNECTICUT, DEPARTMENT OF PUBLIC 
+Utitiry ContrRoL; New YorRK TELEPHONE COMPANY; 
+New ENGLAND TELEPHONE AND TELEGRAPH COM- 
+
+
+PANY, Intervenors on Appeal, 
+
+
+Vv. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION; 
+UNITED STATES OF AMERICA, 
+Respondents, 
+
+
+AT&T Corp.; COMPETITIVE TELECOMMUNICATIONS ASSO- 
+
+
+CIATION; MFS COMMUNICATIONS COMPANY, INC.; AIR- 
+TOUCH COMMUNICATIONS, INC.; NEXTLINK COMMUNI- 
+CATIONS, L.L.C.; Sprint SpecTruM, L.P.; NATIONAL 
+CABLE TELEVISION ASSOCIATION, INcC.; MCI TeELECOoM- 
+
+
+75a 
+
+
+MUNICATIONS CORPORATION; SPRINT CorP.; Cox Com- 
+MUNICATIONS, INC.; VANGUARD CELLULAR SYSTEMS, 
+INC.; WESTERN Wirt vess CORPORATION; AMERICAN 
+COMMUNICATIONS *ervices, INC.; KMC TELECOM, 
+INc.; THE COMPET.."0N PoLicy INSTITUTE; ASSOCIA- 
+TION FOR LOCAL TELECOMMUNICATIONS SERVICES; 
+CELLULAR TELECOMMUNICATIONS INDUSTRY ASSOCIA- 
+TION; GST TeLecom, Inc.; ACC Corp.; GENERAL 
+COMMUNICATION, INC.; TELECOMMUNICATION RE- 
+SELLERS ASSOCIATION; CONSUMER FEDERATION OF 
+AMERICA; AD Hoc TELECOMMUNICATIONS Users Com- 
+MITTEE; INFORMATION TECHNOLOGY INDUSTRY COUN- 
+CIL; AMERICA’S CARRIERS TELECOMMUNICATION ASSO- 
+CIATION; JONES INTERCABLE, INC.; TELECOMMUNICA- 
+TIONS, INC.; TELEPORT COMMUNICATIONS GROUP, 
+INc.; RURAL TELECOMMUNICATIONS GROUP: ALLIED 
+ASSOCIATED PARTNERS; GELD INFORMATION SYSTEMS; 
+PRONET, INC.; WINSTAR COMMUNICATIONS, INC.; U.S. 
+ONE COMMUNICATIONS SERVICES; COMCAST CORPORA- 
+TION; FRONTIER CORPORATION; ANAHEIM, CALIFORNIA 
+PusLic UrtTiLities DEPARTMENT; CITY OF LONG 
+BeacH, CALIFORNIA; CITY OF MANASSAS, VIRGINIA; 
+CaBLe & Wireess, INC.; NATIONAL ASSOCIATION OF 
+StaTe Utitiry CONSUMER ADVOCATES; TIME WARNER 
+COMMUNICATIONS HOLDINGS, INC.; PERSONAL Com- 
+MUNICATIONS INDUSTRY ASSOCIATION; ExceL TELE- 
+COMMUNICATIONS, INC.; WORLDCOM, INC., PAGING 
+Network, INc.; NEXTWAVE TELECOM, INC.; SMALL 
+CABLE BUSINESS ASSOCIATION; METROCALL, INC.: 
+Texas OFFICE OF PuBLIC UtiLity COUNSEL, 
+Intervenors on Appeal, 
+
+
+CONSUMERS’ UtiLity Counset Division, Georaia Gov- 
+
+
+ERNOR’S OFFICE OF CONSUMER AFFAIRS: HONORABLE 
+Joun D. DinGeLt_; HonoraBLe W.J. (BILLy) TAUZIN; 
+
+
+76a 
+
+
+HONORABLE RICK BOUCHER; HONORABLE DENNIS 
+HASTERT, 
+Amici on Behalf of Petitioner, 
+
+
+HONORABLE THOMAS J. BLILEY, Jr.; HONORABLE ERNEST 
+F. HoLLInGs; HONORABLE TED STEVENS; HONORABLE 
+DanieL K. INouyE; HONORABLE TRENT Lott; HONoR- 
+ABLE EDWARD J. MARKEY, 
+
+Amici on Behalf of Respondent. 
+
+
+No. 96-4080 
+
+
+Be_t ATLANTIC-DELAWARE, INC.; BELL ATLANTIC- 
+MARYLAND, INC.; BELL ATLANTIC-NEW JERSEY, INC.; 
+BELL ATLANTIC-PENNSYLVANIA, INC.; BELL ATLANTIC- 
+VirGIniA, INc.; BELL ATLANTIC-WASHINGTON, D.C., 
+INc.; BELL ATLANTIC-WEST VIRGINIA, INC., 
+
+Petitioners, 
+
+
+MARYLAND PuBLic SERVICE COMMISSION; SBC CoMMu- 
+NICATIONS, INC.; NEW YORK TELEPHONE COMPANY; 
+New ENGLAND TELEPHONE AND TELEGRAPH COoM- 
+PANY; US TELEPHONE ASSOCIATION; GTE SERVICE 
+CORPORATION; US West, INC.; BELLSOUTH CORPORA- 
+TION; BELLSOUTH TELECOMMUNICATIONS, INC.; AMERI- 
+TECT CORPORATION, 
+
+Intervenors on Appeal, 
+
+
+Vv. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION; 
+UNITED STATES OF AMERICA, 
+Respondents, 
+
+
+T7a 
+
+
+SPRINT CorpP.; COMPETITIVE TELECOMMUNICATIONS 
+ASSOCIATION; TELECOMMUNICATIONS RESELLERS ASSO- 
+CIATION; AT&T Corp.; NATIONAL CABLE TELEVISION 
+AssociaTIONn, Inc.; GST TeLecom, Inc.; MFS Com- 
+MUNICATIONS COMPANY, INC.; KMC TELEcoM, INC.; 
+ACC Corp.; WINSTAR COMMUNICATIONS, INC.; MCI 
+TELECOMMUNICATIONS CORPORATION; AMERICA’S CAR- 
+RIERS TELECOMMUNICATION ASSOCIATION; JONES COM- 
+MUNICATIONS, INC.; AIRTOUCH COMMUNICATIONS, INC.; 
+Cox COMMUNICATIONS, INC., 
+
+Intervenors on Appeal. 
+
+
+No. 96-4082 
+
+
+PaciFic TELESIS Group, 
+Petitioner, 
+
+
+MARYLAND PuBLic Service ComMMission; SBC ComMMvu- 
+NICATIONS, INC.; NEW YORK TELEPHONE COMPANY; 
+New ENGLAND TELEPHONE AND TELEGRAPH COM- 
+PANY; US TELEPHONE ASSOCIATION; GTE SERVICE 
+CORPORATION; US West, INC.; BELLSOUTH CoRPORA- 
+TION; BELLSOUTH TELECOMMUNICATIONS, INC.; AMER- 
+ITECH CORPORATION, 
+
+Intervenors on Appeal, 
+
+
+Vv. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION; 
+UNITED STATES OF AMERICA, 
+
+
+Respondents, 
+
+
+SPRINT CorpP.; COMPETITIVE TELECOMMUNICATIONS 
+ASSOCIATION; TELECOMMUNICATIONS RESELLERS Asso- 
+CIATION; AT&T Corp.; NATIONAL CABLE TELEVISION 
+AssociaTION, Inc.; GST TeLecom, INc.; MFS Com- 
+MUNICATIONS COMPANY, INC.; KMC TELEcom, INc.: 
+ACC Corp.; WINSTAR COMMUNICATIONS, INC.; MCI 
+
+
+78a 
+
+
+TELECOMMUNICATIONS CORPORATION; AMERICA’S CAR- 
+RIERS TELECOMMUNICATION ASSOCIATION; JONES COM- 
+MUNICATIONS, INC.; AIRTOUCH COMMUNICATIONS, INC.; 
+Cox COMMUNICATIONS, INC., 
+
+Intervenors on Appeal. 
+
+
+No. 96-4083 
+
+
+SBC COMMUNICATIONS, INC., 
+Petitioner, 
+
+
+MARYLAND PuBLic SERVICE COMMISSION; NEW YORK 
+TELEPHONE COMPANY; NEW ENGLAND TELEPHONE 
+AND TELEGRAPH COMPANY; US TELEPHONE ASSOCIA- 
+TION; GTE Sprvice CorRPORATION; US West, INC.; 
+BELLSOUTH CORPORATION; BELLSOUTH TELECOMMU- 
+NICATIONS, INC.; AMERITECH CORPORATION, 
+
+Intervenors on Appeal, 
+
+
+v. 
+
+
+FEDERAL COMMUNICATIONS COMMISSION; 
+UNITED STATES OF AMERICA, 
+Respondents, 
+
+
+SPRINT Corp.; COMPETITIVE TELECOMMUNICATIONS 
+ASSOCIATION; TELECOMMUNICATIONS RESELLERS ASSO- 
+CIATION; AT&T Corp.; NATIONAL CABLE TELEVISION 
+AssociATION, INc.; GST TELECOM, INc.; MFS Com- 
+MUNICATIONS COMPANY, INC.; KMC TELeEcom, INC.; 
+ACC Corp.; WINSTAR COMMUNICATIONS, INC.; MCI 
+TELECOMMUNICATIONS CORPORATION; AMERICA’S CAR- 
+RIERS TELECOMMUNICATION ASSOCIATION; JONES COoM- 
+MUNICATIONS, INC.; AIRTOUCH COMMUNICATIONS, INC.; 
+Cox COMMUNICATIONS, INC., 
+
+Intervenors on Appeal. 
+
+
+79a 
+
+
+On Petitions for Review of an Order of the 
+Federal Communications Commission 
+
+
+Submitted: April 16, 1997 
+Filed: August 22, 1997 
+
+
+Before BOWMAN, WOLLMAN, and HANSEN, Circuit 
+Judges. 
+
+
+HANSEN, Circuit Judge. 
+
+
+Before us are the petitions of the California Public Utili- 
+ties Commission and various providers of local telecommu- 
+nications services seeking review of certain rules issued by 
+the Federal Communications Commission (FCC or Com- 
+mission) pursuant to the Telecommunications Act of 
+1996." The petitioners and the intervenors supporting 
+them (collectively “petitioners”) argue that the FCC ex- 
+ceeded its jurisdiction in part in issuing dialing parity rules 
+that encompass some purely intrastate telecommunications 
+services, and they assert that one of the Commission’s rules 
+on numbering administration violates the terms of the Act. 
+Consistent with our decision in the related case, Jowa Utils. 
+Bd. v. FCC, No. 96-3321 and consolidated cases, 1997 
+WL 403401 (8th Cir. July 18, 1997), we vacate the 
+FCC’s dialing parity rules in part, concluding that the 
+FCC exceeded the scope of its jurisdiction. We find that 
+the petitioners’ challenge to the FCC’s numbering admin- 
+istration rule, however, is not ripe for review. 
+
+
+1 Telecommunications Act of 1996, Pub. L. No. 104-104, 110 Stat. 
+56 (codified as amended in scattered sections of Title 47, United 
+States Code). 
+
+
+80a 
+
+
+I. 
+
+
+One of Congress’s goals in passing the Telecommunica- 
+tions Act of 1996 was to open the local telephone markets 
+to competition. See Telecommunications Act of 1996, 
+Pub. L. No. 104-104, purpose statement, 110 Stat. 56 
+(1996). To accomplish this objective, the Act imposes 
+several duties on the current providers of local telecom- 
+munications service (known as “incumbent local exchange 
+carriers” or “incumbent LECs”) including the duties to 
+provide competing carriers with interconnection and un- 
+bundled access to the incumbents LECs’ networks and to 
+allow competing carriers to resell any telecommunications 
+service that the incumbent LECs provide to their subscrib- 
+ers on a retail basis. 47 U.S.C.A. § 251(c)(2)-(4) (West 
+Supp. 1997).* The FCC issued numerous rules in its First 
+Report and Order * purporting to implement these as well 
+as other provisions of the Act. In our earlier decision in 
+lowa Utils. Bd., we reviewed many of the Commission’s 
+regulations contained in its First Report and Order and 
+held, in part, that the FCC exceeded its authority in prom- 
+ulgating rules governing the prices that incumbent LECs 
+may charge competing carriers for interconnection, un- 
+bundled access, and resale of services. See Iowa Utils. Bd. 
+1997 WL 403401, at *9. 
+
+
+In the present case, the petitioners challenge several 
+portions of the Commission’s Second Report and Order,* 
+which contains additional FCC comments and regulations 
+
+
+2 All references in this opinion to sections and subsections of the 
+Telecommunications Act of 1996 in West’s United States Code 
+Annotated (U.S.C.A.) are to the 1997 supplement. 
+
+
+8 First Report and Order, Implementation of the Local Competi- 
+tion Provisions in the Telecommunications Act of 1996, CC Docket 
+No. 96-98 (Aug. 8, 1996). 
+
+
+*Second Report and Order, Implementation of the Local Com- 
+petition Provisions of the Telecommunications Act of 1996, CC 
+Docket No. 96-98 (Aug. 8, 1996) [hereinafter Second Report and 
+Order]. 
+
+
+8la 
+
+
+regarding provisions of the Telecommunications Act of 
+1996 that were not addressed in the First Report and 
+Order. In particular, the petitioners challenge the FCC’s 
+rules implementing the Act’s requirement that all local 
+exchange carriers provide dialing parity to competing 
+providers of local and long-distance service. See 47 
+U.S.C.A. § 251(b)(3) (statutory dialing parity require- 
+ment); 47 C.F.R. §§ 51.205-51.215 (1996) (FCC dial- 
+ing parity rules). Additionally, the petitioners challenge 
+the FCC’s rule, 47 C.F.R. § 52.17, implementing the Act's 
+mandate that the costs of creating telecommunications 
+numbering administration arrangements be shared by all 
+telecommunications carriers on a competitively neutral 
+basis. See 47 U.S.C.A. § 251(e)(2) (statutory numbering 
+administration requirement). 
+
+
+I. 
+
+
+We have jurisdiction to review final orders of the FCC 
+pursuant to 28 U.S.C. § 2342(1) (1994) and 47 U.S.C. 
+§ 402(a) (1994). Courts of appeals may set aside agency 
+rules that (1) conflict with the plain meaning of a statute, 
+(2) are unreasonable interpretations of ambiguous stat- 
+utes, or (3) are the product of arbitrary or capricious 
+action by the agency. See Chevron U.S.A. Inc. v. Natural 
+a Defense Council, Inc., 467 U.S. 837, 842-45 
+
+). 
+
+
+A. Dialing Parity Rules 
+
+
+_ The petitioners argue that the FCC exceeded its juris- 
+diction in promulgating its dialing parity rules, 47 C.F.R. 
+$§ 51.205-51.215. Dialing parity is a technological capa- 
+bility that enables a telephone customer to route a call 
+over the network of the customer’s preselected carrier 
+without having to dial an access code of extra digits. See 
+47 US.C.A. § 153(15). The petitioners claim that the 
+FCC did not have authority to issue these dialing parity 
+rules to the extent that the rules involve intraLATA tele- 
+
+
+82a 
+
+
+communications. The petitioners rely heavily on section 
+2(b) of the Communications Act of 1934, 47 USC. 
+§ 152(b) (1994), to support their jurisdictional attack on 
+the FCC’s dialing parity rules. Section 2(b) provides that 
+“nothing in this chapter shall be construed to apply or to 
+give the [FCC] jurisdiction with respect to... charges, 
+classifications, practices, services, facilities, or regulations 
+for or in connection with intrastate communications serv- 
+ice. Id. The petitioners assert that even though the Com- 
+mission’s dialing parity rules are not phrased explicitly in 
+terms of “intrastate” or “interstate,” but rather use the 
+terms “intraLATA,” “interLATA,” “local,” and “toll” to 
+describe the telecommunications they regulate, 47 C.F.R. 
+$§ 51.205-51.215, the intraLATA aspects of the rules 
+overwhelmingly pertain to intrastate communications serv- 
+ice and are thus beyond the scope of the FCC’s authority. 
+Given the importance of the terminology in this case, we 
+find it necessary initially to explain our understanding of 
+the “LATA” concept and the difference between “local” 
+and “toll” calls. 
+
+
+The acronym “LATA” stands for “local access and 
+transport area,” 47 U.S.C.A. § 153(25), and was initially 
+adopted by the district court administering the 1982 con- 
+sent decree that broke up AT&T. See United States v. 
+Western Elec. Co., 569 F. Supp. 990, 993-94 (D.D.C. 
+1983). The consent decree divided the former Bell terri- 
+tory into geographic units known as “LATAs.” /d. The 
+1982 consent decree limited LECs’ transportation of tele- 
+communications to traffic between points within a LATA, 
+i.e., “intraLATA” traffic, while traffic between telephones 
+located in two different LATAs, i.e. “interLATA” traffic, 
+was allotted to long-distance carriers such as AT&T, MCI, 
+and Sprint. The boundaries of LATAs generally center 
+around cities or other identifiable communities of interest; 
+in some instances, one LATA encompasses an entire state. 
+The United States is currently divided into 192 LATAs, 
+and for the most part, LATAs do not cross state lines. 
+
+
+83a 
+
+
+(See Joint Br. of Intervenors in Support of the FCC at 
+9.) We are told that approximately 98% of all intra- 
+LATA calls are intrastate in nature. (Bell Atlantic Br. 
+at 14.) 
+
+
+IntraLATA calls can be either “local” or “toll” calls, 
+but interLATA calls are exclusively “toll” calls. Calls that 
+remain within a caller’s immediate local calling area (a 
+smaller geographic area within a LATA) are intraLATA 
+local calls and are currently made without incurring any 
+additional charge beyond the flat monthly rate that one 
+pays for local phone service. Calls that are completed 
+outside of a caller’s local calling area are “toll” calls and 
+a separate charge or “toll” is incurred for making these 
+calls. See 47 U.S.C.A. § 153(48). A single LATA can 
+and frequently does encompass more than one immediate 
+local calling area. Thus “intraLATA” is not synonymous 
+with “local.” A call that is completed outside of the 
+caller’s immediate local calling area but within the same 
+LATA is an intraLATA toll call, while a call that is com- 
+pleted outside of both the caller's immediate local calling 
+area and his or her LATA is an interLATA toll call. 
+
+
+The FCC argues that because the rules refer to 
+“LATAs” and because “LATAs” do not necessarily cor- 
+respond to state boundaries, section 2(b), which removes 
+intrastate communication services from the FCC’s reach, 
+is not relevant to the issue of the Commission’s authority 
+over dialing parity. Contrary to the FCC’s assertion, how- 
+ever, the different nomenclature used in the FCC’s dialing 
+parity rules neither renders section 2(b) irrelevant’ nor 
+weakens its effect with respect to this jurisdictional issue. 
+The fact remains that approximately 98% of all intra- 
+LATA calls (local or toll) are intrastate in nature. The 
+FCC itself has acknowledged that the vast majority of 
+intraLATA calls are intrastate and not within its jurisdic- 
+tion. See Notice of Proposed Rulemaking, In the Matter 
+of Administration of the North American Numbering 
+
+
+84a 
+
+
+Plan, 9 FCC Red 2068, 2077 n.93 (1994). More im- 
+portantly, we believe that section 2(b) preserves intrastate 
+communications for state regulation regardless of what 
+other labels may be applied to these communications. Al- 
+though section 2(b) does not apply to the portion of intra- 
+LATA calls that are interstate in nature, it does apply to 
+the portion of intraLATA calls that are intrastate in na- 
+ture. Consequently, section 2(b) remains an obstacle that 
+the FCC must overcome in order to save its intraLATA 
+dialing parity rules from the petitioners’ jurisdictional 
+attack. 
+
+
+In Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355, 
+370, 377 (1986), the Supreme Court explained that sec- 
+tion 2(b) “fences off” intrastate telecommunications mat- 
+ters from FCC regulation and indicated that the 2(b) 
+fence could be hurdled only by an unambiguous congres- 
+sional grant of intrastate authority to the FCC or an 
+express amendment to section 2(b) itself. The Court 
+further stated that section 2(b) also operates as a rule of 
+statutory construction requiring that nothing in the Act, 
+which includes the 1996 amendments, be construed to 
+provide the FCC with jurisdiction over intrastate telecom- 
+munications service. /d. at 376-77 n.5. The FCC and its 
+supporting intervenors initially contend that merely the 
+federal Act’s application to intrastate telecommunications 
+matters is sufficient to supply the Commission with the 
+authority to regulate such matters, even in light of section 
+2(b). The Commission argues that it has plenary author- 
+ity to implement all of the requirements of federal tele- 
+communications statutes and that section 2(b) restricts 
+only the Commission's ancillary authority. We previously 
+rejected the same argument in Jowa Utils. Bd., 1997 WL 
+403401, at *7, and now, we do so again for the same 
+reasons. Our reading of Louisiana indicates that a federal 
+act must expressly apply to intrastate telecommunications 
+matters and explicitly direct the FCC to implement the 
+act’s intrastate requirements before the Commission will 
+
+
+85a 
+
+
+have jurisdiction over intrastate telecommunications mat- 
+ters. While subsection 251(b)(3) does require dialing 
+parity at the intrastate level, it makes no reference what- 
+soever to the FCC. See 47 U.S.C.A. § 251(b)(3). With- 
+out a clear grant of intrastate authority to the FCC, sec- 
+tion 2(b) stands as a fortification against the Commis- 
+sion’s intrusion into telecommunications matters that are 
+intrastate in character. 
+
+
+Alternatively, the FCC argues that several statutory 
+provisions supply the Agency with sufficiently straight- 
+forward grants of broad intrastate authority to enable the 
+Agency to overcome section 2(b)’s limitation. The Com- 
+mission claims that subsection 251(d)(1) directly grants 
+the Agency authority to implement all of the requirements 
+in section 251, including the dialing parity provision in 
+subsection 251(b)(3). Subsection 251(d)(1) reads, 
+“Within 6 months after February 8, 1996, the Commission 
+shall complete all actions necessary to establish regula- 
+tions to implement the requirements of this section.” 47 
+U.S.C.A. § 251(d)(1). As we found in Jowa Utils. Bd., 
+1997 WL 403401, at *4, this subsection is merely a time 
+limit on the Commission, directing it to complete expe- 
+ditiously its rulemaking related to those portions of sec- 
+tion 251 that expressly call for the Commission’s involve- 
+ment. This provision does not authorize the FCC to issue 
+intraLATA dialing parity rules, because the subsection 
+addressing dialing parity, § 251(b)(3), does not mention 
+the FCC. We alsw reject the FCC's argument that its gen- 
+eral rulemaking authority contained in subsections 201 (b), 
+154(i), and 303(r) of the Communications Act is a legiti- 
+mate source of jurisdiction for the Commission's intra- 
+LATA dialing parity rules. The FCC's jurisdiction under 
+section 201 is specifically limited to interstate or foreign 
+communications services. See 47 U.S.C. § 201(a). Mean- 
+while, subsections 154(i) and 303(r) merely provide the 
+FCC with ancillary authority to promulgate additional 
+regulations that might be required in order for the Com- 
+
+
+86a 
+
+
+mission to meet its principal obligations contained in other 
+provisions of the statute. See id. §§ 154(i), 303(r); Caili- 
+fornia v. FCC, 905 F.2d 1217, 1241 0.35 (9th Cir. 
+1990). Neither 154(i) nor 303(r) supplies the FCC with 
+additional substantive authority sufficient to overcome sec- 
+tion 2(b). 
+
+
+The group of intervenors supporting the FCC argues 
+that section 160 of the Act, 47 U.S.C.A. § 160, implies 
+that the Commission has authority to issue regulations 
+pursuant to the entire Act because this section allows the 
+Commission to forbear from applying regulations or pro- 
+visions of the Act. They reason that the power to forbear 
+from regulating necessarily presumes the power to regulate 
+in the first place. While this section does provide the Com- 
+mission with the power to forbear from applying provi- 
+sions of the Act, we believe that this power is limited to 
+forbearing from applying those provisions that pertain to 
+interstate telecommunications or the portions of the Act 
+addressing intrastate telecommunications that also specif- 
+ically call for the FCC's involvement such as subsection 
+251(b)(2) (number portability) or subsection 251(c) 
+(4)(B) (prevention of discriminatory conditions on re- 
+sale). Section 160’s general authorization allowing the 
+FCC to forbear from applying provisions of the Act is not 
+the type of straightforward and unambiguous grant of in- 
+trastate authority that lifts the FCC over the section 2(b) 
+fence. When Congress intends to vest the FCC with intra- 
+state authority, it is well aware of how to draft a statute 
+that overcomes section 2(b). In the Telecommunications 
+Act itself, one provision explicitly directs the FCC to 
+“establish a per call compensation plan to ensure that all 
+payphone service providers are fairly compensated for 
+each and every completed intrastate and interstate call 
+using their payphone... .” 47 U.S.C.A. § 276(b)(1)(A) 
+(emphasis added). Neither section 160 nor any other 
+provision in the Act supplies the FCC with such an ex- 
+plicit grant of intrastate authority over dialing parity. As 
+
+
+87a 
+
+
+we have stated, subsection 251(b)(3), the provision di- 
+rectly addressing dialing parity, makes no reference to the 
+FCC, in stark contrast to several other subsections of the 
+very same section of the Act, such as subsection 251(b)(2) 
+(number portability) and subsection 251(e¢) (numbering 
+administration ), that expressly call for the FCC's partici- 
+pation in implementing their requirements. “[W]|here Con- 
+gress includes particular language in one section of a 
+statute but omits it in another section of the same Act, 
+it is generally presumed that Congress acts intentionally 
+and purposely in the disparate inclusion or exclusion.’ ” 
+Russello v. United States, 464 U.S. 16, 23 (1983) (quot- 
+ing United States v. Wong Kim Bo, 472 F.2d 720, 722 
+(Sth Cir. 1972)). We believe the argument ir even 
+stronger when different subsections of the same .ection 
+demonstrate the difference. We conclude that the Act's 
+different treatment of dialing parity signifies Congress's 
+intent to leave regulation of this matter to the states. See 
+Lindh v. Murphy, 117 S. Ct. 2059, 2064 (1997) (finding 
+that “a different intent explains the different treatment” of 
+two provisions in the Antiterrorism and Effective Death 
+Penalty Act of 1996). 
+
+
+The FCC's last hope of justifying its intraLATA dialing 
+parity rules rests with subsection 251(g). Although not 
+expressly addressing dialing parity, subsection 251(¢) 
+preserves all of the equal access obligations* and inter- 
+connection restrictions that existed prior to February 8, 
+1996 “under any court order, consent decree, or regula- 
+tion, order, or policy of the Commission, until such re- 
+strictions and obligations are explicitly superseded by reg- 
+ulations prescribed by the Commission after February 8, 
+1996.” Id. § 251(g). This subsection also provides that 
+such obligations and restrictions are enforceable as regu- 
+lations of the Commission. The FCC contends that the 
+
+
+* Dialing parity is considered to be a type of “equal access obli- 
+
+
+— (See Joint Br. of Intervenors in Support of the FCC at 
+24.) 
+
+
+88a 2 
+
+
+1982 consent decree that broke up the former Bell monop- 
+oly contained intraLATA dialing parity requirements, in 
+addition to interLATA ones, that the FCC is now author- 
+ized to supersede under subsection 251(g). While the 
+court administering the consent decree did discuss matters 
+related to intraLATA dialing parity and attempted to pro- 
+vide LECs with an incentive to allow intraLATA toll com- 
+petition. see Western Elec. Co., 569 F. Supp. at 1006; 
+United States v. Western Elec. Co., 569 F. Supp. 1057, 
+1108-09 (D.D.C.), aff'd by California v. United States, 
+464 U.S. 1013 (1983), the consent decree’s provisions 
+involving dialing parity pertained only to interLATA calls; 
+the decree did not provide any specific intraLATA dialing 
+parity rules. See United States v. Western Elec. Co., 552 
+F. Supp. 131, 233 (D.D.C. 1982). In fact, the district 
+court expressly stated that “intrastate as well as intra- 
+LATA regulation is not preempted by the decree and, 
+hence, that state regulatory bodies will control traffic 
+within the LATAs themselves.” 569 F. Supp. at 1005; 
+see also, Western Elec. Co., 569 F. Supp. at 1109 (ex- 
+plaining that a proposed intraLATA dialing parity rule 
+to be included in the consent decree “would inappropri- 
+aiely override state regulators’ authority to decide what 
+intrastate calling arrangements are best suited to the pub- 
+lic interest within their states.”). Moreover, the FCC itself 
+concedes that subsection 251(g) “contains no reference 
+or cross reference to dialing parity or to section 251(b)(3)” 
+and merely preserves the dialing parity requirements al- 
+ready imposed on incumbent LECs. Second Report and 
+Order, € 29. Consequently, subsection 251(g) does not 
+authorize the FCC to issue dialing parity rules governing 
+intraLATA telecommunications. 
+
+
+Finally, the petitioners point out that subsection 271 
+(e)(2)(B) indicates that state commissions, not the FCC, 
+have the authority to issue intraLATA dialing parity rules. 
+In limiting a state’s ability to require a Bell operating com- 
+pany to implement intraLATA toll dialing parity until the 
+
+
+Bell company has received the authority to provide inter- 
+LATA services, this provision implies that jurisdiction to 
+intraLATA dialing parity rests with the states. 
+See 47 U.S.C.A. § 271(e)(2)(B). The FCC maintains 
+that this subsection merely reveals that the states and the 
+Commission have parallel jurisdiction over dialing parity. 
+As we have demonstrated above, however, section 2(b) 
+fences off the intrastate aspects of intraLATA dialing 
+parity from the FCC, thus refuting the Commission's 
+theory of parallel jurisdiction. Consequently, we conclude 
+that the FCC exceeded its jurisdiction in promulgating its 
+dialing parity rules, 47 C.F.R. §§ 51.205-51.215 (inclu- 
+sive), but we set aside such rules only to the extent that 
+they pertain to intraLATA telecommunications traffic." 
+
+
+B. Numbering Administration Rule 
+
+
+The petitioners also challenge the FCC’s method for 
+recouping the costs of establishing numbering administra- 
+tion arrangements. Numbering administration involves the 
+coordination and distribution of all telephone numbers in 
+the United States. In particular, the incumbent LECs tar- 
+get the Commission's provision that allows carriers to de- 
+duct the amounts they pay to other carriers for telecom- 
+munications services and facilities from their gross reve- 
+
+
+* Because section 2(b) prevents the FCC from having jurisdiction 
+only over intrastate telecommunications matters, our decision to 
+vacate the FCC’s dialing parity rules does not apply to the extent 
+that the Commission's rules govern the very small percentage of 
+intraLATA, toll, interstate telecommunications. Our vacation order 
+does include, however, the rules’ application to the even smaller 
+percentage of intraLATA, local, interstate calls, despite their inter- 
+state nature. See 47 U.S.C. § 221(b) ; Public Util. Comm'n of Teras 
+v. FCC, 886 F.2d 1325, 1331 n.5 (D.C. Cir. 1989): North Carolina 
+Utils. Comm'n v. FCC, 552 F.2d 1036, 1045 (4th Cir.), cert. denied, 
+434 U.S. 874 (1977). Because the petitioners limited their chal- 
+lenges to the intraLATA aspects of the FCC’s dialing parity rules, 
+we make no determination regarding the validity of the FCC’s 
+dialing parity rules as they apply to interLATA telecommunications. 
+
+
+90a 
+
+
+nues in calculating a carrier's portion of the costs involved 
+in administering a numbering administration program. 
+See 47 C.F.R. § 52.17(b). The petitioners contend that 
+this rule violates the Act’s requirement that numbering 
+administration costs “be borne by all telecommunications 
+carriers on a competitively neutral basis.” 47 U.S.C.A. 
+§ 251(e)(2). The petitioners claim that if state commis- 
+sions * do not allow incumbent LECs to include their num- 
+bering administration costs in the prices they charge to 
+their competitors for telecommunications services and fa- 
+cilities, the deduction will afford the incoming competitors 
+a cost advantage and result in a noncompetitively neutral 
+cost allocation method. On the other hand, the parties 
+appear to agree that if such costs are included in the prices 
+that incumbent LECs are permitted to charge to their 
+competitors, then the FCC’s numbering administration 
+rule would be valid. 
+
+
+Article III of the Constitution limits our jurisdiction to 
+deciding actual cases or controversies that are ripe for 
+review. 
+
+
+The basic rationale of the ripeness doctrine is to pre- 
+vent the courts, through avoidance of premature ad- 
+judication, from entangling themselves in abstract 
+disagreements over administrative policies, and also 
+to protect the agencies from judicial interference 
+until an administrative decision has been formalized 
+and its effects felt in a concrete way by the challeng- 
+ing parties. 
+
+
+™We recently held that state commissions have the authority to 
+establish the prices that incumbent LECs may charge their com- 
+petitors for interconnection, unbundled access, resale of services, 
+and transport and termination of telecommunications traffic. Jowa 
+Utils. Bd., 1997 WL 403401, at *9. Accordingly, the question of 
+whether or not incumbent LECs will be permitted to include num- 
+bering administration costs in those prices will be decided by the 
+state commissions. 
+
+
+9la 
+
+
+State of Missouri v. Cuffley, 112 F.3d 1332, 1337 (8th 
+Cir. 1997) (internal quotations and citations omitted). 
+Because the validity of this rule depends on the state 
+commissions’ determinations of the rates that incumbent 
+LECs will be able to charge their competing carriers for 
+interconnection, unbundled access, and other telecommu- 
+nications services and facilities, and none of those deter- 
+minations is before us in this proceeding, we find that the 
+alleged harm to the petitioners is speculative at this junc- 
+ture and conv ‘ude that this issue is not ripe for review. 
+
+
+III. 
+
+
+In sum, we vacate the FCC’s dialing parity rules, 47 
+C.F.R. §§ 51.205-51.215, but only to the extent that they 
+apply to intraLATA telecommunications and subject to 
+the conditions noted above, see supra note 6 and accom- 
+
+
+panying text, and we find the Commission's numbering 
+administration rule, 47 C.F.R. § 52.17, not ripe for 
+review. 
+A true copy. 
+Attest: 
+
+
+Clerk, U.S. Court of Appeals, Eighth Circuit 
+
+
+92a 

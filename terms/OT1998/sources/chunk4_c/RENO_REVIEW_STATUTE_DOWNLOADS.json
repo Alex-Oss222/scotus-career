@@ -1,0 +1,35 @@
+[
+  {
+    "key": "usc_1994_8_1105a",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title8/html/USCODE-1994-title8.htm",
+    "status": "retrieved exact full section",
+    "start_character": 501372,
+    "end_character": 520146,
+    "bytes": 18774
+  },
+  {
+    "key": "usc_1994_28_2347",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28-partVI-chap158-sec2347.htm",
+    "status": "failed: custom Page Not Found response; not a statutory source"
+  },
+  {
+    "key": "usc_1994_28_2347",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title28/html/USCODE-1994-title28.htm",
+    "status": "failed: custom Page Not Found response; not a statutory source"
+  },
+  {
+    "key": "usc_1994_28_2347",
+    "url": "https://uscode.house.gov/view.xhtml?req=granuleid:USC-1994-title28-section2347&num=0&edition=1994",
+    "status": "failed: HTTP 404"
+  },
+  {
+    "key": "usc_1994_8_1105a",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-1994-title8/html/USCODE-1994-title8-chap12-subchapI-sec1105a.htm",
+    "status": "failed: custom Page Not Found; successful full-title extraction above controls"
+  },
+  {
+    "key": "section2347",
+    "source": "RENO_2347_EXACT.md",
+    "status": "complete exact provision from predecision petitioner statutory appendix 20a?22a, mechanically copied by control"
+  }
+]

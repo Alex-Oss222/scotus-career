@@ -1,0 +1,3135 @@
+98 
+
+
+(HWE 
+9, 97-830, 97-831 
+
+
+aay my ctrF 
+In the Pera Court of the Gnited = 
+OctoBer Term, 1997 
+
+
+tates 
+
+
+AT&T Corp., ET AL., 
+
+
+7 Petitioners, 
+
+
+lows Urtiuities Boarb, ET AL., 
+
+
+Respondents. 
+AT&T Corp., ET AL., 
+“4 Petitioners, 
+CALIFORNIA, ET AL., 
+Respondents. 
+
+
+Anp Re.atep PETITIONS 
+
+
+On Writs Of Certiorari To The 
+United States Court Of Appeals 
+For The Eighth Circuit 
+
+
+BRIEF FOR CALIFORNIA 
+
+
+Perer Artn, Jr.* 
+Mark FoGeLMAN 
+
+505 Van Ness Avenue 
+San Francisco, CA 94102 
+Telephone: (415) 703-1992 
+*Counsel of Record 
+
+
+Attorneys for California 
+May 18, 1998 
+
+
+~\a Q 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the Federal Communications Commission 
+(“FCC”) correctly concluded that in enacting the Telecommu- 
+nications Act of 1996, Congress intended to grant the FCC 
+exclusive jurisdiction to dictate to the States a prescribed 
+methodology for determining the intrastate component of the 
+prices that an incumbent local exchange carrier (“LEC”) may 
+charge competing LECs for access to the incumbent LEC’s 
+network, as well as other terms and conditions for the provi- 
+sion of such access. 
+
+
+2. Whether the FCC correctly concluded that in enact- 
+ing the Telecommunications Act of 1996, Congress intended 
+to grant the FCC exclusive jurisdiction to dictate to the States 
+prescribed rules governing the provision of intraLATA dialing 
+parity, a matter which is almost entirely intrastate in nature. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED. .....+..vsse0eses bean i 
+TABLE OF AUTHORITIES . ...icccceunseuseccauee iv 
+STATEMENT OF CALIFORNIA ..........scccccceces l 
+STATEMENT OF THE CASE... .iicccccceencuseueel l 
+I. BACKGROUND . 000500000 4enneeeeeeeee l 
+A. The Communications Act of 1934 and the Dual 
+Jurisdictional Scheme ......scsssehceenanous l 
+B. The ATAT Divestionts . <...:+sscissneseeee 3 
+C. The Telecommunications Act of 1996 ....... 7 
+ll. THE DECISIONS BELOW . ....icscasbusvsneee 11 
+A. The First Report and Order and Pricing ..... 11 
+B. The Second Report and Order and Dialing Par- 
+| POPPE ETE PET Per Po 12 
+C. The Eighth Circuit's Decisions.............. 15 
+SUMMARY OF ARGUMENT .....c.0esceesenseueene 16 
+ARGUMENT ......cccescsseeseensueabenieiaannnn 22 
+
+
+|. THE FIRST REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT 
+EXPRESSLY GRANTS THE STATES EXCLU- 
+SIVE AUTHORITY OVER THE PRICING OF 
+ACCESS TO AN INCUMBENT LOCAL 
+EXCHANGE CARRIER’S NETWORK........... 22 
+
+
+Il. THE FIRST REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT PRE- 
+SERVED THE DUAL JURISDICTIONAL 
+SCHEME... .0cceccsuasseesdpoue ee euenee 25 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+A. The Principle of Chevron Deference is Inappli- 
+ED GENE bs cinched cnccecsceaccscces 26 
+
+
+B. Section 2(b) Prohibits the FCC From Adopting 
+Standards and Rules Governing Intrastate Pric- 
+ing and Related Matters.................... 28 
+
+
+Il. THE SECOND REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT GRANTS 
+THE STATES EXCLUSIVE AUTHORITY OVER 
+INTRALATA DIALING PARITY................ 40 
+
+
+A. Section 2(b) Prohibits the FCC From Adopting 
+Standards and Rules Governing Intrastate and 
+IntraLATA Dialing Parity and Related Cost 
+UMC CLES Gab ee ches cebescescevedtees 40 
+
+
+B. Other Provisions of the 1996 Act Support the 
+Conclusion That the FCC Has Exceeded Its 
+Statutory Authority in Adopting Standards and 
+Rules Governing Intrastate and IntraLATA 
+Dialing Parity and Related Cost Recovery ... 45 
+
+
+i siih cikbebecese seeds cececsccsesocecss 49 
+MPpeees OF STATUTES. .... 2... cece cece ccc cccens Al 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+
+
+Altamont Gas Transmission Co. v. FERC, 92 F.3d 
+1239 (D.C. Cir. 1996), cert. denied sub nom. Indi- 
+
+
+cated Expansion Shippers v. FERC, 117 S.Ct. 1568 
+GEOU UP sb cacteveeicdeududenad thendadtebanemanandbes 28 
+
+
+Babbitt v. Sweet Home Chapter of Communities for a 
+Great Oregon, 515 U.S. 687 (1995)........000...... 34 
+
+
+Brooke Group v. Brown & Williamson Tobacco Corp., 
+SD Gs GaP CURED s ce skvcdectcnsaccedecasatentes. 34 
+
+
+CURE eos ce ddasd idedcddsuenensbxanewe deeds scien 36 
+California v. FCC, 905 F.2d 1217 (9th Cir. 1990) .. 31, 36, 46 
+Califorma v. FCC, 4 F.3d 1505 (9th Cir. 1993) .... 19, 36, 38 
+
+
+California v. FCC, 75 F.3d 1350 (9th Cir.) cert. 
+Gaps BOD De Gee. See vcksiciosiensausetusa, 36 
+
+
+California v. FCC, 124 F.3d 934 (8th Cir. 1997) ....... 16 
+
+
+Chevron USA, Inc. v. NRDC, 467 U.S. 837 (1984) 
+90606058 eeeesuedndbsesat eee 17, 18, 26, 27, 28 
+
+
+Clark v. Alexander, 85 F.3d 146 (4th Cir. 1996) ....... 28 
+Colautti v. Franklin, 439 U.S. 379 (1979).............. 34 
+
+
+Crockett Telephone Co. v. FCC, 963 F.2d 1564 (D.C. 
+COR, GUD wire neds caccueuhsdctvebaenteae 3, 20, 37 
+
+
+FCC v. lowa Utils. Bd, 117 S.Ct. 378 (No. A-299 Oct. 
+31, 1996) (Thomas, J., in Chambers), 117 S.Ct. 429 
+(No. A-299 Nov. 12, 1996) (per curiam) 
+
+
+Houston, E. & W. Texas Ry. v. United States, 234 
+U.S. 342 (1914) (Shreveport Rate Case).......... 19, 35 
+
+
+lowa Utils. Bd. v. FCC, 109 F.3d 418 (8th Cir. 1996). ... 15 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+lowa Utils. Bd. v. FCC, 120 F.3d 753 (8th Cir. 1997).... 16 
+Jones v. Rath Packing, 430 U.S. 519 (1997)........... 30 
+Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355 
+PDs 6 dedeusomhennedenssdébencnhean cent abi passim 
+Mead Corp. v. Tilley, 490 U.S. 714 (1989) ............ 31 
+Minnesota Rate Cases, 230 U.S. 352 (1912) ............ 2 
+Mississippi Power & Light Co. v. Mississippi ex rel. 
+Gomes, G7 GUE... FS CORO oc ccccccccscdecaciadeas 28 
+NARUC v. FCC, 737 F.2d 1095 (D.C. Cir. 1984) ....... 3, 37 
+
+
+NARUC v. FCC, 880 F.2d 422 (D.C. Cir. 1989) ....31, 36 
+
+
+Northwest Central Pipeline Corp. v. Kansas Corp. 
+Comm'n, 489 U.S. 493 (1989)... 02... 28 
+
+
+Reiter v. Sonotone Corp., 442 U.S. 330 (1979)......... 34 
+Russello v. United States, 464 U.S. 16 (1983)... 10, 27, 31, 45 
+SEC v. Chenery Corp., 332 U.S. 194 (1943)....19, 36, 48 
+Smith v. Illinois Bell Telephone Co., 282 U.S. 133 
+
+
+CR cb di cbea cdbepetocsvehcoperdedives 1, 2, 3, 20, 37 
+United States v. AT&T, 552 F. Supp. 131 (D.D.C. 
+
+1982), aff'd mem., 460 U.S. 1001 (1983) .......... 4,9 
+United States v. GTE Corp., 603 F. Supp. 730 (D.D.C. 
+
+PE oc wducecdendénebocees 66560 en00us pagedenesdunes 9 
+United States v. Menasche, 348 U.S. 528 (1955) ....... 34 
+United States v. Western Electric Co., 569 F. Supp. 
+
+GED UDB. UGGS). cc ccccccccccvessccceces 4, 6, 15, 48 
+
+
+United States v. Western Electric Co., 569 F. Supp. 
+1057 (D.D.C.) aff'd mem. sub nom. California v. 
+United States, 464 U.S. 1013 (1983).......... 6, 15, 48 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+STATUTES 
+15 U.S.C. § 29(b) 
+47 U.S.C. § 151 
+47 U.S.C. § 152 
+
+
+PF Wee io rena ti nsdbidatitdedn kes SOL 2, 3 
+Ge Seen WY SED cis Sb ab codes eesGcnkaceeeess passim 
+GF as ae PE sda bcati need piekacdaciascouns 
+GF aes OF GE ccbecacucescdennedetedaccchsuetuen 
+GF Wee BOD da nsinsedsss ede ci che ink 8, 13 
+Gy We © es vik ddtenddesacissieviziibciccdt 2, 4 
+SF Wn SE cundvecnenadésiccwubasdiekuuell 2, 6 
+OP We OH Wo 00 vpdocdadodectcoeecetdsdackiaeus 
+SF Ge ME i cvcdeucesceundcdebdatieed vicsuee 
+Gp Ween et SUN 60 dhe dunn oNbcksve bh esedes iadeenl 
+Sy ey OF Wan cddd cade cuddeccansbcs 16, 24, 25, 46 
+Se ey TP ED b dc dav eheddhéedadiudsackateneawens 25 
+SF Ce SED soc dnlcntedédescchantiunatecnneel 16, 25 
+OP Cie Pe avisdiedbcrkkesadeekuass 2, 3, 5, 6, 14 
+er We UP EIS vii'bas eke cvactdkasdnuunns 3, 5, 18, 32 
+GF Gay OF esac be ais ck cabedvecctcecenenauetie passim 
+Oe. Sees ae IL culvcedckds cnn dnesed cheatin 9, 21, 45 
+GU es eo vecuneducicnveédscubenuien passim 
+SP Ge OB BED v cdoceduviscadbbsetvsccascubaneds 
+SU. Te As . ideas sthwands dened cbiaas oon 
+CU Dee I hb 36 6i'6 cedie's 080560 00 0c ews de 7, 24 
+
+
+FT Dales B BPO cov cb nba cucu cbGibeNwbicctebidode 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+GF DBAs B FBI). occrvccvccccccsvesee 17, 23, 24, 46 
+_§ | A > + EPS TiTTi rrr 
+Be Dis BH a oc Un vecccccsccdsccccseeseces 
+Bs ob eer r Trac rr ry a 
+GF TBE, GS BPM a cc ccccteccvccccctssovescoens 
+GE TRB, GO BOGE 6 one cas csdetcnce seu cctes cent 
+Ge EAE, GB BPP ccc cccvesesccccccacecovacees 
+BF TER, OBO a vc cecescccccsccceccces 15, 22, 47, 48 
+GP TBs BO Bia widest c svc ccccndivsescbceseceenses passim 
+Gy Ge. B Beets svc cccccccccicceccsesecs 11, 
+GF UBL. B FIG ov ccvcccccvccccccsccccvcees Il, 
+GF DBE. OB BIBI). co vcicccccscccscccsvcsvcvcsese 
+47 U.S.C. § 252(d)(3)........ 6c eee ee eee 8, 11, 17, 23, 24 
+BF UBL. 6 BEB a cvcvccscvcccscccvcccccscscccansic 
+BP PEs OB Bei c vecccvcngccvcciovocvcccvesaseececece 
+47 U.S.C. § 271(c)2)(B)(Ki). . «6 ee eee eee 
+47 U.S.C. § 271(cM 2) B)(Kii) . «6 eee 
+47 U.S.C. § 271 (eM 2)(B).... 6.6 ee cece eee eens 22, 46, 47 
+GT UBC. © BODE. 0 cc ccccccvccccccccscccsscvcves 
+47 UBC. § 41OE) .. 2. cc ccccccccccvcccecess 3, 5, 18, 32 
+
+
+Communications Act of 1934, 47 U.S.C. § ISI, et 
+BOG. ccc cccccccccccccvevcsssscssesscvesensesseess 1, 7 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Communications Act of 1934, Ch. 652, Title II, § 221, 
+
+48 Stat. 1080 (June 19, 1934).............. ccc cae 3 
+Pub. L. 92-131, § 2, 85 Stat. 363 (Sept. 30, 1971)...... 3 
+Telecommunications Act of 1996, Pub. L. No. 
+
+104-104, 110 Stat. 56 (Feb. 8, 1996).......... 7, 10, 27 
+
+
+Telecommunications Act of 1996, § 601(c)(1), Pub. L. 
+104-104, Title VI, § 601(c)(1), 110 Stat. 143 (Feb. 
+
+
+i Relea i pelt oe cee oe 10, 17, 18, 21, 27, 33 
+FCC Decisions 
+Decision and Order, In the Matter of MTS and WATS 
+
+Market Structure, 4 FCC Red 5660 (1989)......... 6, 44 
+
+
+First Report and Order, 11 FCC Red 15499 (1996)..... passim 
+
+
+In the Matter of the Need to Promote Competition and 
+Efficient Use of Spectrum for Radio Common Car- 
+riers, 2 FCC Red 2910 (1987).................4. 20, 38 
+
+
+NPRM, Administration of the North American 
+Numbering Plan 9 FCC Red 2068 (1994)....... 5, 9, 43 
+
+
+ONA Reconsideration Order, 5 FCC Red 1084 
+I Ae ie ine tn ek Red eV eee Aces 19, 36, 37 
+
+
+Recommended Decision and Order, In the Matter of 
+
+MTS and WATS Market Structure, 4 FCC Red 1352 
+
+Sat: . a> data e ouch) Cakes Re Stas baie hikes Cal 6, 45 
+Second Report and Order, 11 FCC Red 19392 (1996). . . passim 
+
+
+Third Report and Order, MTS & WATS Market Struc- 
+ture, 93 F.C.C.2d 241 (1983) 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+CPUC Decisions 
+Decision 94-09-065, Re Alternative Regulatory 
+Frameworks for Local Exchange Carriers, 56 
+Cal.P.U.C.2d 117 (1994) 2... ccc ccc cee eens 7 
+FCC ReGutations 
+47 C.P.R. © SU.2OD 0. cece ceccrccccesvcccessevescens 13 
+27 C.F.R. $ SI.2OK(C). 1... cece ene veerecererernvecene 14 
+47 C.PR. © SQV ow. cece cece rece e reer een eenenene 14 
+47 CLP. © SU.203 .. nc cece ccc eeecreeeeeevenvncnes 14 
+48 C.F.R. $ SU.215 .... ccc cece cece e ewer een enneeee 14 
+Orner AUTHORITIES 
+Joint Explanatory Statement of the Committee of 
+CeRGOTOROS. oo. cccccccccccccccccvcceevsevecess 41, 48 
+Statistics of Communications Common Carriers (FCC 
+199G). cc ccccccvcccccscccsecevcesessvvnseeseresess 5 
+
+
+STATEMENT OF CALIFORNIA 
+
+
+The People of the State of California and the Public 
+Utilities Commission of the State of California (hereinafter 
+collectively “California” or “CPUC”) are the sole State par- 
+ties that challenged both the FCC’s First Report and Order' 
+and its Second Report and Order? and hence are the sole State 
+respondents who prevailed in both cases below. California, 
+which initiated its transition to local telephone competition in 
+1993, has an immense interest in bringing fair and effective 
+local competition to its 32 million citizens as soon as possi- 
+ble. With the support of the other participating States and the 
+National Association of Regulatory Utility Commissioners, 
+California files this separate brief on the merits in both cases 
+because of its unique interest and perspective. 
+
+
+STATEMENT OF THE CASE 
+
+
+I. Background 
+
+
+A. The Communications Act of 1934 and the Dual 
+Jurisdictional Scheme 
+
+
+Even before the enactment of the Communications Act of 
+1934, 47 U.S.C. § 151, et seq., it was well established that the 
+States had exclusive jurisdiction over intrastate telecommuni- 
+cations. In Smith v. Illinois Bell Telephone Co., 282 U.S. 133. 
+148-149 (1930), for example, this Court made clear that the 
+provision of telephone service is a matter having both intra- 
+state and interstate components and that the intrastate compo- 
+nent, a matter of primarily local concern, was subject to 
+
+
+1 11 FCC Red 15499 (1996); J.A. 403-1160. 
+2 11 FCC Red 19392 (1996); J.A. 1161-1357. 
+
+
+exclusive State regulation. This had long been the rule with 
+respect to matters subject in part to interstate regulation under 
+the Interstate Commerce Act. See, e.g., Minnesota Rate 
+Cases, 230 U.S. 352, 420, 423 (1912). 
+
+
+Thereafter, in 1934, when Congress enacted the Commu- 
+nications Act and transferred telephone regulation from the 
+Interstate Commerce Commission to the newly created Fed- 
+eral Communications Commission, it was careful to ensure 
+that the dual jurisdictional principle of Smith y. Illinois 
+applied. Congress created a system of dual regulation through 
+§ 2 of the Act, 47 U.S.C. § 152, which granted the FCC 
+jurisdiction over interstate communications, see § 2(a) of the 
+Act, 47 U.S.C. § 152(a),? while leaving the States exclusive 
+jurisdiction over intrastate matters, see § 2(b) of the Act, 47 
+U.S.C. § 152(b), App. Al.4 
+
+
+Section 2(b) provides in relevant part: “{NJothing in this 
+chapter shall be construed to apply or to give the [FCC] 
+jurisdiction with respect to charges, classifications, practices, 
+services, facilities, or regulations for or in connection with 
+intrastate communication service by wire or radio of any 
+carrier.” By § 2(b)’s express terms, neither the FCC’s general 
+jurisdiction over interstate communications, 47 U.S.C. 
+
+
+3 The FCC's jurisdiction over “interstate” matters did not extend to 
+communications crossing State lines if the communications were “between 
+points . . . in the same State” and “regulated by a State commission.” 47 
+U.S.C. § 153(22), App. A2. Ner did the FCC's jurisdiction extend to local 
+calls crossing State lines if regulated “by a State commission.” 47 U.S.C. 
+§ 221(b), App. A3. 
+
+
+* As herein used “J.A.” refers to the deferred joint appendix, “Pet. 
+App.” refers to the petitioners’ appendix, and “App.” refers to the appendix 
+to this brief. 
+
+
+§ 152(a), nor its general responsibility for ensuring an effi- 
+cient national communications system, 47 U.S.C. § 151, may 
+be used to override the jurisdiction over intrastate communi- 
+cations reserved to the States by Congress. See Louisiana 
+Pub. Serv. Comm'n v. FCC, 476 U.S. 355, 369-70 (1986). 
+
+
+In addition, to facilitate the FCC’s compliance with 
+§ 2(b), the 1934 Act authorized (and, und r the Smith doc- 
+trine, required) the FCC to engage in the jurisdictional sep- 
+aration of the interstate and intrastate components of the cost 
+of wire telephone toll service by enacting 47 U.S.C. § 221(c), 
+App. A4.5 Ch. 652, Title II, § 221, 48 Stat. 1080 (June 19, 
+1934). Thereafter, in 1971, Congress amended the 1934 Act 
+by adding 47 U.S.C. § 410(c), App. A13, Pub. L. 92-131, § 2, 
+85 Stat. 363 (Sept. 30, 1971), establishing a Federal-State 
+Joint Board procedure to further facilitate the jurisdictional 
+separation of common carrier property and expenses between 
+interstate and intrastate operations in order to facilitate inter- 
+state and intrastate ratemaking. The dual jurisdictional 
+scheme and the separations process facilitating it have contin- 
+uously remained in effect to the present day. See, e.g., Louisi- 
+ana, 476 U.S. at 375-376; Crockett Telephone Co. v. FCC, 
+963 F.2d 1564, 1566-67, 1571 (D.C. Cir. 1992); NARUC v. 
+FCC, 737 F.2d 1095, 1103-05 (D.C. Cir. 1984). 
+
+
+B. The AT&T Divestiture 
+
+
+By the early 1970s, regulatory policy in the field of 
+telecommunications had begun to shift, in large part because 
+
+
+5 As noted, jurisdiction over local service, whether intrastate or 
+interstate, was assigned exclusively to the States under § 221(b), App. A3- 
+A4. 
+
+
+regulators recognized that evolving technologies had created 
+opportunities to harness the benefits of competition for con- 
+sumers. In 1982, the United States Department of Justice and 
+AT&T entered into a consent decree under which AT&T was 
+required to divest itself of the 22 then-existent Bell Operating 
+Companies (“BOCs”). United States v. AT&T, 552 F.Supp. 
+131 (D.D.C. 1982), aff’d mem., 460 U.S. 1001 (1983); see 
+also 47 U.S.C. §§ 153(3), 153(4). Under the decree, which 
+was known as the “Modification of Final Judgment” or 
+“MFJ,” seven regional holding companies, known as the 
+“RBOCs,” were formed. 
+
+
+The MFJ created a new geographic unit for the provision 
+of local telephone service, the “Local Access and Transport 
+Area” or “LATA.” See generally 47 U.S.C. § 153(25), App. 
+A2; United States v. Western Electric Co., 569 F.Supp. 990 
+(D.D.C. 1983). Under the MFJ, a BOC was allowed to trans- 
+port calls between telephones within a single LATA — which 
+was called “intraLATA” service — but not between telephones 
+in two different LATAs - which was called “interLATA” 
+service. 47 U.S.C. § 153(21), App. A2. Only an interexchange 
+carrier — and not a BOC — was permitted to carry calls across 
+LATA boundaries. There are now 163 LATAs nationally, and 
+the vast majority of them are situated within the boundaries of 
+a single State. 
+
+
+Virtually all intraLATA calls originating in California 
+and in the United States are intrastate calls and hence subject 
+to exclusive State jurisdiction. The percentage of intraLATA 
+calls originating in California that cross State lines is “minis- 
+cule and so small as not to be statistically significant.” Cali- 
+fornia v. FCC, Eighth Cir. No. 96-3519, California Brief, at 6 
+n. 2. Nationally, the percentage of intraLATA calls that are 
+interstate is similarly miniscule: “a small fraction of one per 
+
+
+cent” and “so inconsequential as to be de minimis.” Id., at 7 n. 
+3; California v. FCC, Eighth Cir. No. 96-3519, California 
+Reply Brief, at 3 n. 5. Petitioners have never disputed these 
+statements. Jd. Nor have they disputed California’s represen- 
+tations at oral argument before the Eighth Circuit and in its 
+Brief in Opposition in this Court that only two out of every 
+thousand (.002) intraLATA calls made in the United States are 
+interstate calls. See, e.g., California Brief in Opp., at 3 n. 7. 
+Furthermore, to the extent there are intraLATA, interstate 
+telephone calls made in this country, most of those calls fall 
+within the jurisdiction of the originating State in any event 
+under 47 U.S.C. § 221(b), App. A3-A4. 
+
+
+Because the percentage of intraLATA calls that are inter- 
+state is so small, the FCC does not bother to break down its 
+statistics for intraLATA calls into intrastate and interstate 
+components, although it does so for interLATA calls. See 
+Statistics of Communications Common Carriers, Table 2.6, p. 
+24 (FCC, 1996). Moreover, the FCC has acknowledged as 
+recently as 1994 that most intraLATA calls “are intrastate and 
+not within our purview.” Notice of Proposed Rulemaking 
+(“NPRM”), Administration of the North American Numbering 
+Plan, 9 FCC Red 2068, 2077 n. 93 (1994).° 
+
+
+It is also notable that in other contexts, the FCC has ruled 
+under its jurisdictional separations procedures, 47 U.S.C. 
+
+
+6 It is also notable that some 92 per cent of all telephone calls 
+originating in California are intrastate in nature. Statistics of 
+Communications Common Carriers (FCC, 1996), at 24. Remarkably, in 
+1995 there were significantly more intrastate telephone calls made in 
+California (70+ billion) than there were interstate telephone calls made in 
+the entire United States (50+ billion)! Jd. Thus the FCC’s usurping State 
+authority over intrastate telecommunications leaves a very thin interstate 
+tail wagging a very substantial intrastate dog. 
+
+
+§§ 221(c) and 410(c), App. A4, Al3, that the federal interest 
+in regulating service which involves less than 10 per cent 
+interstate traffic is de minimis and not subject to FCC author- 
+ity. See Decision and Order, In the Matter of MTS and WATS 
+Market Structure, 4 FCC Red 5660 (1989), adopting Recom- 
+mended Decision and Order, 4 FCC Red 1352 (1989). 
+
+
+IntraLATA telephone calls can be either “local” calls or 
+“toll” calls. IntraLATA calls that remain within the caller's 
+local calling area — the area in which local exchange calls are 
+made without additional charge beyond the flat monthly rate - 
+are “local” calls. IntraLATA calls that are completed outside 
+the caller's local calling area, and for which a premium 
+charge is assessed, are “toll” calls. 47 U.S.C. § 153(48), App. 
+A3. However, neither the AT&T divestiture nor the creation 
+of LATAs under the MFJ in any way affected the dual juris- 
+dictional scheme established by Congress. Indeed, the MF] 
+court repeatedly acknowledged that under the decree, the 
+States retained authority over both intraLATA and intrastate 
+service. United States v. Western Electric Co., supra, 569 
+F.Supp. at 1005; see also United States v. Western Electric 
+Co., 569 F.Supp. 1057, 1109 (D.D.C.), aff’d mem. sub nom. 
+California vy. United States, 464 U.S. 1013 (1983). Since the 
+AT&T divestiture, the States have continued to regulate intra- 
+State service — whether the intrastate calls involved are intra- 
+LATA local calls, intraLATA toll calls or interLATA toll calls 
+~ while the FCC has continued to regulate interstate inter- 
+LATA (long distance) service, as well as the miniscule realm 
+of interstate intraLATA tol service. 47 U.S.C. §§ 152, 
+153(22), 221(b), App. Al, A2, A3-A4. 
+
+
+Following the AT&T divestiture, most States granted an 
+exclusive monopoly franchise to a single carrier in each local 
+
+
+exchange area for the provision of local and intrastate intra- 
+LATA toll service. These companies are called local exchange 
+carriers or “LECs.” 47 U.S.C. § 153(26), App. A3. While not 
+required to do so, a number of States have in recent years 
+chosen to introduce competition into the provision of intra- 
+state telephone service. California is among those States. See, 
+e.g., Decision 94-09-065, Re Alternative Regulatory Frame- 
+works for Local Exchange Carriers, 56 Cal.P.U.C.2d 117, 141 
+(1994). 
+
+
+C. The Telecommunications Act of 1996 
+
+
+In 1996, Congress enacted the Telecommunications Act 
+of 19967 to open all telecommunications markets, including 
+local markets, to competition. The Act established a set of 
+duties with which incumbent LECs were required to comply 
+and identified the functions, features and services that incum- 
+bent LECs were required to make available to competing 
+LECs, as well as the mutual duties of carriers to each other. 
+47 U.S.C. § 251, App. A4-A9.® The duties imposed upon the 
+incumbent LECs included the duties to interconnect with 
+competitors (47 U.S.C. § 251(c)(2), App. A®) and to provide 
+access to unbundled network elements (47 U.S.C. § 251(c)(3), 
+App. A6) at “just and reasonable” rates “based on. . . cost” as 
+determined by a State commission (47 U.S.C. § 252(d)(1), 
+App. A10), and the duty to resell telecommunications services 
+
+
+ified in part at 
+7 Pub. L. No. 104-104, 110 Stat. 56 (Feb. 8, 1996), codifie 
+and amending the Communications Act of 1934, 47 U.S.C. §§ 151, et seq. 
+
+
+8 Unless otherwise specified, statutory references are to the 1934 Act, 
+as amended by the 1996 Act. 
+
+
+(47 U.S.C. § 251(c)(4), App. A7) at wholesale rates as deter- 
+mined by a State commission (47 U.S.C. § 252(d)(3), App. 
+All). 
+
+
+The Act authorized carriers ‘ negotiate agreements 
+relating to the terms and conditions upon which interconnec- 
+tion, the purchase of unbundled network elements and resale 
+would occur in order to allow a competing carrier access to 
+the incumbent's network. 47 U.S.C. § 252. To the extent that 
+such negotiations were unsuccessful, it authorized State com- 
+missions to arbitrate and resolve disputes, and it permitted 
+aggrieved carriers to appeal State commission determinations 
+to Federal district courts. Jd. Only if a State commission 
+failed to carry out its responsibility under § 252 was the FCC 
+empowered to “assume the responsibility of the State com- 
+mission. .. . ” 47 U.S.C. § 252(e)(5). 
+
+
+The duties imposed on incumbent LECs also included the 
+duty “to provide dialing parity to competing providers of 
+telephone exchange service and telephone toll service.” 47 
+U.S.C. § 251(b)(3), App. AS. The term “dialing parity” means 
+that a competitor of a LEC can provide telecommunications 
+services in a way that allows the caller to route the call 
+automatically, without dialing extra digits, to the designated 
+carrier of the caller's choice from among 2 or more carriers 
+(including the LEC). See 47 U.S.C. § 153(15), App. Al. 
+
+
+By its terms, § 251(b)(3) addresses the duty of carriers to 
+provide intraLATA dialing parity, not interLATA dialing par- 
+ity. The provision of interLATA, or long distance, dialing 
+parity was accomplished pursuant to rules established and 
+enforced more than a decade ago following the AT&T divesti- 
+ture by the MFJ court, the FCC and the States. In 1984, the 
+MFJ required dialing parity for interLATA calls by requiring 
+
+
+9 
+
+
+that customers of the BOCs be permitted to preselect a com- 
+peting interexchange carrier to carry their interLATA calls 
+and to route calls to that carrier's network simply by dialing 
+“1” plus the called party's telephone number. United States v. 
+AT&T, supra, 552 F.Supp. at 233. GTE, a large LEC that was 
+not one of the BOCs, was subject to a similar dialing parity or 
+“equal access” requirement imposed by consent decree. 
+United States v. GTE Corp., 603 F.Supp. 730 (D.D.C. 1984). 
+And other LECs have generally been required to follow this 
+dialing parity model for interLATA calls by the States and the 
+FCC. See, e.g., NPRM, Administration of the North American 
+Numbering Plan, supra, 9 FCC Red at 2077, 4 55. Since 
+dialing parity issues related to interLATA calls were long ago 
+resolved under the so-called “1 plus” framework, the dialing 
+parity issue in this case is whether the FCC's establishment of 
+dialing parity standards and related requirements for intra- 
+LATA calls in the Second Report and Order impermissibly 
+intrudes on legitimate State authority over intrastate telecom- 
+munications. As above noted, virtually all intraLATA calls 
+made in California and across the nation are intrastate calls. 
+Moreover, dialing parity only involves the origination of 
+telephone calls, not the receipt or termination of calls, and 
+hence as a practical matter only implicates the regulatory 
+regime applicable in the originating State. 
+
+
+A few narrow provisions of the Act expressly gave the 
+FCC authority over matters having intrastate aspects (see, 
+e.g., 47 U.S.C. § 251(b)(2), App. AS, granting the FCC 
+jurisdiction over number portability and numbering adminis- 
+tration), while other provisions arguably gave the States juris- 
+diction over matters having interstate aspects (see, e.g., 47 
+U.S.C. § 251(b)(4), App. AS, granting the States jurisdiction 
+over access to poles, ducts, conduits and rights-of-way). By 
+
+
+10 
+
+
+and large, however, the 1996 Act did not fundamentally alter 
+the dual State/Federal jurisdictional scheme established by 
+Section 2(b) of the 1934 Act, 47 U.S.C. § 152(b), App. Al. 
+By leaving § 2(b) intact when it passed the 1996 Act (with 
+narrow and limited exceptions), Congress preserved the 
+FCC’s broad authority over “interstate” matters but also con- 
+tinued to fence off from FCC reach and regulation “intrastate” 
+matters which fall within the exclusive authority of the States. 
+Indeed, early versions of the Act would have excepted the 
+local competition portions of the Act from the reach of § 2(b), 
+but the final version of the Act omitted the exception. As the 
+Court has noted: “Where Congress includes limiting language 
+in an earlier version of a bill but deletes it prior to enactment, 
+it may be presumed that the limitation was not intended.” 
+Russello vy. United States, 464 U.S. 16, 23-24 (1983). 
+
+
+Moreover, Congress further reinforced § 2(b) and the 
+dual jurisdictional scheme by enacting the savings provision 
+of § 601(c)(1) of the 1996 Act, App. Al4, Pub. L. 104-104, 
+Title VI, § 601(c)(1), 110 Stat. 143 (Feb. 8, 1996) (enacted 
+but not codified), which clarified that neither § 2(b) nor any 
+provision of State law was altered by the Act unless the Act 
+did so expressly. Section 601(c)(1) states: 
+
+
+(c) Federal, State and Local Law. - 
+
+
+(1) No implied effect. - This Act and the amend- 
+ments made by this Act shall not be construed to 
+modify, impair, or supersede Federal, State, or local 
+law unless expressly so provided in such Act or 
+
+
+amendments. 
+
+
+Il. The Decisions Below 
+A. The First Report and Order and Pricing 
+
+
+With the enactment of the new law, the FCC saw oppor- 
+tunity. It issued its epic First Report and Order and imple- 
+menting regulations which tore asunder the dual jurisdictional 
+schome wrought by Congress by asserting FCC jurisdiction 
+over intrastate matters which Congress reserved to the States, 
+dictated a single methodology for the intrastate pricing of 
+local competition services nationally which it required the 
+States to employ,® deputized the States to carry out its poli- 
+
+
+cies, and appointed itself the court of review of all State 
+actions. !° 
+
+
+The FCC took these actions despite provisions in the 
+1996 Act which plainly gave authority over pricing deter- 
+minations to the States. For example, § 252(d), entitled “Pric- 
+ing standards,” provides that “[d]eterminations by a State 
+commission of the just and reasonable rate” for interconnec- 
+tion and for network elements shall be based on cost 
+(emphasis added). App. A10-Al1. Similarly, § 252(c)(2) pro- 
+vides: “In resolving by arbitration . . . any open issues and 
+imposing conditions upon the parties to the agreement, a State 
+commission shall . . . establish any rates for interconnection, 
+services, or network elements . . . ” (emphasis added). App. 
+Al0. And § 252(d)(3) provides that “a State commission shall 
+determine wholesale rates on the basis of retail rates... ” 
+
+
+* It did so despite significant differences in evolving local markets 
+and network investment, and in derogation of proceedings in numerous 
+States, including California, which had begun the process of transitioning 
+to local telephone competition years before the 1996 Act was conceived. 
+
+10 First Report and Order, $9] 126-128; J.A. 468-469. 
+
+
+12 
+
+
+(emphasis added). App. All. These provisions manifestly 
+confer pricing authority on the States, not the FCC, subject 
+only to the standards set forth in the Act. 
+
+
+The FCC’s exercise of jurisdiction over intrastate matters 
+was also taken in derogation of § 2(b) and the dual jurisdic- 
+tional scheme, see Louisiana, supra, 476 U.S. at 370, even 
+though the FCC candidly acknowledged in its order that the 
+pricing provisions of §§ 251 and 252 “do not contain an 
+explicit grant of intrastate authority to the Commission” — the 
+necessary predicate to override § 2(b). First Report and 
+Order, 4 84; J.A. 448. 
+
+
+B. The Second Report and Order and Dialing Parity 
+
+
+On the same day it issued the First Report and Order, the 
+FCC issued its similarly lengthy Second Report and Order 
+which arrogated to itself the power to dictate to the States the 
+rules and standards for intraLATA dialing parity, even though 
+almost every telephone call in the United States which is 
+subject to those rules and standards is intrastate in nature.'! In 
+the Second Report and Order, the FCC asserted jurisdiction 
+over policies and regulations relating to the provision by 
+LECs of intrastate dialing parity. In making that jurisdictional 
+
+
+11 The rules for interLATA or long distance dialing parity were 
+established more than a decade ago following the AT&T divestiture, 
+leaving the sole question the appropriate dialing parity rules for intraLATA 
+calls (both local and toll). It was undisputed below that no measurable 
+percentage of intraL ATA calls (local and toll) associated with California 
+LATAs is interstate in nature, and that nationally .002, or approximately 2 
+out of every 1000 intraLATA calls (local and toll), are interstate in nature. 
+Moreover, a scant two per cent of intraLATA toll calls are interstate in 
+
+
+13 
+
+
+determination and adopting regulations to implement intra- 
+state dialing parity under 47 U.S.C. § 251(b)(3), App. AS, the 
+FCC merely assumed it possessed such authority and failed to 
+address § 2(b) and the several provisions of the 1996 Act 
+which confirm that the States retain jurisdiction over intra- 
+State dialing parity. 
+
+
+More specifically, the FCC purported to “delegate” a 
+modicum of authority to the States over intrastate dialing 
+parity for the time being. Nevertheless, it dictated a “mini- 
+mum” presubscription standard for intraLATA or intrastate 
+toll dialing parity - the so-called “full 2-PIC method”!2 - 
+which according to the Second Report and Order is the only 
+permissible method of presubscription that is currently tech- 
+nically feasible. Second Report and Order, 44 5, 37, 49, J.A. 
+1169, 1183, 1188; 47 C.F.R. § 51.209, Pet. App. 348a. The 
+FCC therefore effectively dictated that States adopt the “full 
+2-PIC method” only, even though the so-called “modified 
+2-PIC method,” which they prohibit, satisfies the definition of 
+“dialing parity” contained in the 1996 Act. 47 U.S.C. 
+§ 153(15), App. Al. 
+
+
+The FCC also prohibited a State from establishing an 
+interim default mechanism by which a LEC could assign itself 
+as the intraLATA toll service provider of a new LEC customer 
+who does not affirmatively choose an intraLATA toll service 
+provider, thus requiring the customer to dial a carrier access 
+code for each intraLATA toll call or intrastate toll call until 
+
+
+12 The “full 2-PiC method” requires that a customer be allowed to 
+select two presubscribed carriers (in addition to its LEC), one for 
+intral.ATA toll calls and another for interLATA calls. A “modified 2-PIC 
+method” would permit the customer to choose an intraL ATA toll service 
+provider from among the LEC and the interLATA service provider. 
+
+
+14 
+
+
+the customer makes a permanent, affirmative selection. Sec- 
+ond Report and Order, ¥ 78, J.A. 1203; 47 C.F.R. § 51.209(c), 
+Pet. App. 349a. It required carriers to develop and submit 
+detailed implementation plans and imposed on States and 
+carriers an implementation schedule, the violation of which 
+would purportedly result in the FCC’s taking control from the 
+States of the entire intrastate and intraLATA dialing parity 
+implementation process. Second Report and Order, 4] 38, 59, 
+J.A. 1183-1184, 1193; 47 C.F.R. §§ 51.211, 51.213, Pet. App. 
+349a-353a. 
+
+
+While the FCC considered implementing local dialing 
+parity requirements and methodologies, see Second Report 
+and Order, 4 64-75, J.A. 1196-1202, it concluded that “local 
+dialing parity will be achieved upon implementation of the 
+number portability and interconnection requirements of sec- 
+tion 251” and therefore “decline[d] to prescribe now any 
+additional guidelines addressing the methods that LECs may 
+use to accomplish local dialing parity.” /d. at ¥ 71, J.A. 1199. 
+However, its discussion of local dialing parity did not pre- 
+clude it from imposing local dialing parity requirements at 
+some future date nor did it address the fact that the Act leaves 
+local calls, whether intrastate or interstate, subject to exclu- 
+sive State jurisdiction. 47 U.S.C. § 221(b), App. A3-A4. 
+Finally, the FCC established “national” rules for a LEC’s 
+recovering the costs incurred in implementing the dialing 
+parity requirements. Second Report and Order, qq 92-95, J.A. 
+1209-1211; 47 C.F.R. § 51.215, Pet. App. 353a. 
+
+
+In exercising jurisdiction over intraLATA and intrastate 
+dialing parity, the FCC nevertheless expressly acknowledged 
+that the regulation of dialing parity is separable into intra- 
+LATA and interLATA components or, alternatively, into intra- 
+state and interstate components. Second Report and Order, 
+
+
+15 
+
+
+{ 37, J.A. 1183. The FCC also acknowledged that § 251(g), 
+App. A9, which preserves the equal access obligations of the 
+BOCs under the MFJ, has nothing to do with the FCC’s 
+dialing parity requirements imposed under § 251(b)(3), App. 
+A3-A4. The FCC said: “That section [251(g)] contains no 
+reference or cross reference to dialing parity or to section 
+251(b)(3). Section 251(g) preserves the equal access obliga- 
+tions already imposed on the BOCs and GTE, but does not 
+exempt them from the toll dialing parity requirements.” Sec- 
+ond Report and Order, { 29, J.A. 1178-1179. And, as above 
+noted, the equal access obligations of the BOCs under the 
+MFI do not include intraLATA dialing parity. United States v. 
+Western Electric Co., supra, 569 F.Supp. at 1005; United 
+States v. Western Electric Co., supra, 569 F.Supp. at 1109. 
+
+
+C. The Eighth Circuit’s Decisions 
+
+
+The FCC’s actions spawned a flurry of petitions for 
+review from State commissions and carriers. All told, thirty- 
+three States,'> along with many other parties, challenged the 
+FCC’s opportunistic seizure of pricing authority in the United 
+States Court of Appeals for the Eighth Circuit. Some sought a 
+partial stay of the FCC’s pricing rules pending decision on the 
+merits, and the Eighth Circuit granted the stay. Jowa Urtils. 
+Bd. v. FCC, 109 F.3d 418 (8th Cir. 1996), J.A. 224-242. On 
+motions to vacate the stay filed by the petitioners herein, this 
+Court unanimously declined to disturb the ruling, rejecting 
+petitioners’ claims that there was a “reasonable probability” 
+
+
+13 This number includes State parties who partici i i 
+ades pated in the motion 
+rf enforce the Eighth Circuit's mandate following its Jowa Utils. Bd. 
+ision. 
+
+
+16 
+
+
+that four members of the Court would vote to grant certiorari, 
+a “significant possibility” of reversal of the Eighth Circuit's 
+decision and “a likelihood” of irreparable harm arising from 
+the decision. See FCC v. lowa Utils. Bd., 117 S. Ct. 378 (No. 
+A-299 Oct. 31, 1996) (Thomas, J., in chambers), 117 S. Ct. 
+429 (No. A-299 Nov. 12, 1996) (per curiam). In addition, 
+California and several carriers, along with a host of support- 
+ing intervenors, challenged the FCC’s opportunistic seizure of 
+intraLATA dialing parity jurisdiction. 
+
+
+After full briefing and argument, the Eighth Circuit ren- 
+dered its final decision in the pricing case, fully consistent 
+with its earlier stay ruling, vacating the pricing regulations 
+contained in the First Report and Order and associated FCC 
+regulations. Jowa Utils. Bd. v. FCC, 120 F.3d 753 (8th Cir. 
+1997), Pet. App. la-67a. The Eighth Circuit also rendered its 
+final decision in the dialing parity jurisdiction case, vacating 
+the dialing parity regulations contained in the Second Report 
+and Order and associated FCC regulations. California v. 
+FCC, 124 F.3d 934 (8th Cir. 1997), Pet. App. 73a-9la. 
+
+
+These proceedings on writs of certiorari follow. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In enacting the Telecommunications Act of 1996, Con- 
+gress did not grant the FCC exclusive jurisdiction to dictate to 
+the States a prescribed methodology ‘or determining the 
+prices that an incumbent LEC may charge competing LECs 
+for access to tue incumbent LEC’s network. Nor did it grant 
+the FCC exclusive jurisdiction to dictate other terms and 
+conditions for the provision of such access. Instead, Congress 
+straightforwardly and unambiguously assigned to the States 
+exclusive authority, subject only to the standards contained in 
+
+
+17 
+
+
+the Act itself, to determine the prices and pricing meth- 
+odologies, and the other terms and conditions, under which an 
+incumbent LEC must provide a competing LEC with access to 
+the incumbent LEC’s local network. See 47 U.S.C. 
+§§ 252(c)(2), 252(d) and 252(d)(3), App. A10-A1l1. Section 
+251(d)(1) of the Act, the primary provision relied on by the 
+FCC, is merely a procedural statute and does not constitute a 
+straightforward and unambiguous grant of authority to the 
+FCC to implement the matters addressed in § 251. Nor does 
+the FCC derive support for its position from §§ 154(i), 
+201(b), 251(d)(2), 251(d)(3) or 303(r), none of which unam- 
+biguously grants the FCC the authority it seeks. 
+
+
+In addition, § 2(b) of the Act, 47 U.S.C. § 152(b), App. 
+Al, fences off from FCC reach and regulation intrastate 
+matters. Louisiana, supra, 476 U.S. at 370. Since Congress 
+expressed no clear intent to grant the FCC authority over 
+pricing and the other terms and conditions under which a LEC 
+provides competitors with access to its local network — a fact 
+the FCC concedes — the dual jurisdictional scheme remains 
+intact with respect to such matters. Moreover, both the legis- 
+lative history of the 1996 Act and the savings clause of 
+§ 601(c)(1) of the Act, App. Al4, make manifest that Con- 
+gress intended § 2(b) to apply to pricing and related matters. 
+Accordingly, the States, not the FCC, have jurisdiction over 
+the intrastate aspects of those matters. 
+
+
+The principle of Chevron deference (Chevron U.S.A. Inc. 
+v. NRDC, 467 U.S. 837 (1984)), is inapplicable to this case. If 
+the 1996 Act expressly grants either the States or the FCC 
+exclusive jurisdiction over pricing and related matters, the 
+principle of Chevron deference is inapplicable because “the 
+intent of Congress is clear.” Chevron, 467 U.S. at 842. If, 
+however, the 1996 Act does not expressly grant exclusive 
+
+
+18 
+
+
+jurisdiction over pricing and related matters either to the 
+States or to the FCC, Chevron is still inapplicable because the 
+two mandatory rules of statutory construction contained in 
+§§ 2(b) and 601(c)(1) of the Act, App. Al, Al4, supersede the 
+judge-made principle of Chev~on in the circumstances pre- 
+sented. 
+
+
+Those provisions also preclude the construction of the 
+statute advocated by the FCC. The FCC concedes as much 
+when it acknowledges that §§ 251 and 252 “do not contain an 
+explicit grant of intrastate authority to the Commission.” First 
+Report and Order, { 84; J.A. 448. This Court has held that 
+under § 2(b), the absence of such an explicit grant of author- 
+ity precludes Federal preemption. Louisiana, supra, 476 U.S. 
+at 368-69, 377. Moreover, in addition to §§ 2(b) and 
+601(c)(1), Congress left intact the jurisdictional separations 
+requirements of 47 U.S.C. §§ 221(c) and 410(c), App. A4, 
+Al3, thereby further demonstrating its intent that the dual 
+jurisdictional scheme be applicable to the amended statute. /d. 
+at 375-376. 
+
+
+The FCC’s argument that § 2(b) “cannot logically be 
+construed to mean that [it] limits the scope of the Commis- 
+sion’s authority more than it limits the substantive reach of 
+federal telecommunications law” is similarly without merit. 
+See FCC Brief, at 34. That argument is contrary to the plain 
+language of § 2(b) and the purpose of § 2(b) as articulated by 
+this Court — to “fence off from FCC reach or regulation 
+intrastate matters — indeed, including matters ‘in connection 
+with’ intrastate service.” Louisiana, supra, 476 U.S. at 370. 
+The argument is also inconsistent with the canons of construc- 
+tion that statutory terms connected by a disjunctive be given 
+separate meanings and that a statute not be construed to 
+render a portion of its text mere surplusage. 
+
+
+19 
+
+
+The FCC’s argument that “{s]ection 2(b) . . . [was] 
+intended to bar the Commission from exercising its ‘ancil- 
+lary’ jurisdiction . . . over intrastate matters . . . to which the 
+Act itself does not clearly extend” is unpersuasive. FCC 
+Brief, at 34, citing Louisiana and Houston, E. & W. Texas Ry. 
+v. United States, 234 U.S. 342 (1914) (Shreveport Rate Case). 
+Louisiana nowhere refers to the FCC's ancillary jurisdiction 
+and broadly refutes the argument that § 2(b) is subject to a 
+narrowing construction because one of Congress’ purposes in 
+enacting § 2(b) was to legislatively overrule Shreveport. 476 
+U.S. at 370, 372-373. Congress’ affirmative retention of 
+§ 2(b) and the broad construction of that section in Louisiana. 
+of which Congress must be presumed to have been aware, 
+strongly suggests the contrary. Finally, the FCC’s construc- 
+tion would create a slippery slope, leaving the States without 
+any role at all in the transition to local competition. 
+
+
+The FCC's reliance on the so-called “impossibility” 
+exception to § 2(b), see Louisiana, 476 U.S. at 375-376 n. 4, 
+is also misplaced. Not only was that doctrine not a stated 
+basis for the FCC’s decisions below, see SEC v. Chenery 
+Corp., 332 U.S. 194, 196 (1943), but it is flatly refuted by the 
+other FCC and court decisions which have found that the dual 
+jurisdictional scheme applies to the prices or rates charged by 
+LECs for “access,” “unbundled access” and “interconnection” 
+to the local network. MTS & WATS Market Structure: Third 
+Report and Order, 93 F.C.C.2d 241, 260-265 (1983), aff'd, 
+NARUC vy. FCC, supra, 737 F.2d 1095, 1114, 1115 (LEC 
+intrastate access charges to interexchange carriers subject to 
+dual jurisdictional scheme); ONA Reconsideration Order, 5 
+FCC Red 3084, 3088-3090, 3100 n. 111 (1990), reversed on 
+other grounds, California v. FCC, 4 F.3d 1505 (9th Cir. 1993) 
+(LEC unbundled basic service element charges to enhanced 
+
+
+20 
+
+
+service providers subject to dual jurisdictional scheme); /n 
+the Matter of the Need to Promote Competition and Efficient 
+Use of Spectrum for Radio Common Carrier Services, 2 FCC 
+Red 2910 (1987) (LEC interconnection charges to cellular 
+carriers subject to dual jurisdictional scheme). In addition, the 
+FCC cannot implicate the exception by simply abdicating its 
+statutory responsibility and refusing to engage in the jurisdic- 
+tional separations process. Smith y. Illinois, supra, 282 U.S. at 
+148-149: Crockett Telephone Co. v. FCC, supra, 963 F.2d at 
+
+
+1571. 
+
+
+The FCC's argument that jurisdiction must be found to 
+repose in the FCC in order to expedite appellate review and 
+hence the finality of agency determinations (FCC Brief, at 40) 
+must be rejected because it asks the Court to legislate. Con- 
+gress chose to give the States responsibility to make Ge 
+initial determination of pricing and related matters, with 
+appellate review through the Federal court system, in order to 
+accord at least some degree of respect to local and regional 
+differences in markets and competitive conditions and the 
+ability of State regulators to address those differences. As in 
+Louisiana, it is not for the FCC or this Court to effectuate a 
+legislative approach which Congress consciously rejected. 
+
+
+Nor does the Act permit the FCC to dictate to the States 
+nationwide policies and rules governing a LEC’s provision of 
+intraLATA dialing parity to competing service providers.'* 
+This brief addresses intraLATA dialing parity, rather than 
+
+
+14 If the Court concludes that the Act grants the States express 
+authority over pricing and related matters, as found by the Eighth gto 
+then dialing parity, with its unique factual setting, will be the only 
+jurisdictional issue which requires the Court to address a § 2(b) analysis. 
+
+
+21 
+
+
+intrastate dialing parity, for three reasons: (1) the establish- 
+ment of dialing parity requirements for the interLATA, or long 
+distance, market occurred more than a decade ago with the 
+imposition of the “1 plus” presubscription methodology under 
+the supervision of the MFJ court, the FCC and the States. and 
+is therefore irrelevant to the issue before the Court, (2) since 
+virtually all intraLATA calls are intrastate calls which, under 
+§ 2(b), fall within exclusive State jurisdiction, § 2(b) leaves 
+the matter of intraLATA dialing parity to the States, and (3) 
+the § 251(b)(3) duty of LECs “to provide dialing parity to 
+competing providers of telephone exchange service and tele- 
+phone toll service” appears to address only intraL ATA dialing 
+parity, in part because the BOCs, which provide the over- 
+whelming majority of LEC service nationally, are not yet 
+
+
+permitted to compete in the interLATA, or long distance, 
+market. 
+
+
+In enacting the 1996 Act, Congress expressed no clear 
+intent to preclude § 2(b)'s applicability to the dialing parity 
+duty placed on carriers by § 251(b)(3). Indeed, as noted. the 
+FCC has conceded that § 251 does not contain “an explicit 
+grant of intrastate authority to the Commission.” First Report 
+and Order, 4 84, J.A. 448. Hence the dual jurisdictional 
+scheme remains intact with respect to § 251(b)(3). Moreover, 
+both the legislative history of the 1996 Act and the savings 
+clause of § 601(c)(1) make manifest that Congress intended 
+§ 2(b) to apply to dialing parity and related matters. Accord- 
+ingly, the States, not the FCC, have jurisdiction over intra- 
+LATA dialing parity. 
+
+
+Other provisions of the 1996 Act also demonstrate that 
+the FCC exceeded its authority in purporting to adopt stan- 
+dards and rules governing intrastate and intraL ATA dialing 
+parity. Several subdivisions of § 251 - §§ 251(b)(2) and 
+
+
+22 
+
+
+251(e(1), App. AS, A8-A9 - expressly grant the FCC author- 
+ity over number portability and numbering administration, but 
+§ 251(b)(3), App. AS, which involves dialing parity, contains 
+no such affirmative grant of jurisdiction. Moreover, 
+§ 251(e)(2), App. A9, grants the FCC authority over cost 
+recovery relating to number portability and numbering admin- 
+istration, but contains no such affirmative grant of jurisdic- 
+tion with respect to dialing parity cost recovery. 
+
+
+In addition, Congress directly addressed “intraLATA toll 
+dialing parity” in § 271(e)(2)(B), App. Al2-A13, twice refer- 
+ring to State authority to implement such dialing parity. And 
+in the “competitive checklist” for BOCs seeking to provide 
+interLATA service, Congress characterized number por- 
+tability, but not dialing parity, as a matter on which the FCC 
+“issues regulations pursuant to section 251.” 47 U.S.C. 
+§§ 271(c)2)(B)(xi), 271(c (2) B)(xii), App. Al2. Finally, the 
+FCC’s heavy reliance on § 251(g), App. A9, is apparently 
+abandoned in this Court. By the FCC's own admission, 
+§ 251(g) is inapplicable to the dialing parity requirements 
+imposed by § 251(b)(3). Second Report and Order, 4 29, J.A. 
+1178. 
+
+
+ARGUMENT 
+
+
+I. THE FIRST REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT EXPRESSLY 
+GRANTS THE STATES’ EXCLUSIVE AUTHORITY 
+OVER THE PRICING OF ACCESS TO AN INCUM- 
+BENT LOCAL EXCHANGE CARRIER’S NETWORK 
+
+
+The Eighth Circuit correctly determined that Congress 
+straightforwardly and unambiguously assigned to the States 
+exclusive authority, subject only to the standards contained in 
+
+
+23 
+
+
+the Act itself, to determine the prices and pricing meth- 
+odologies, and the other terms and conditions, under which an 
+incumbent LEC must provide a competing LEC with access to 
+the incumbent LEC’s local network. For example, § 252(d), 
+entitled “Pricing standards,” provides that “[dJeterminations 
+by a State commission of the just and reasonable rate for the 
+
+
+interconnection of facilities and . . . for network ele- 
+ments . . . shall be . . . based on the cost . . . of providing the 
+interconnection or network element... ” 47 USC. 
+
+
+§ 252(d)(1), App. AlO (emphasis added). Similarly, 
+§ 252(c)(2) provides: “In resolving by arbitration . . . any 
+open issues .. . , a State commission shall . . . establish any 
+rates for interconnection, services, or network elements ... ” 
+(emphasis added). And § 252(d)(3), App. All, provides that 
+“a State commission shall determine wholesale rates on the 
+basis of retail rates . . . " (emphasis added). These provisions 
+manifestly confer exclusive pricing authority on the States, 
+not the FCC. 
+
+
+The FCC nevertheless argues that Congress gave it the 
+authority to prescribe pricing methodologies, and other terms 
+and conditions of local competition, to the States by provid- 
+ing in § 251(d)(1) that “[wlithin 6 months after February 8, 
+1996, the Commission shall complete all actions necessary to 
+establish regulations to implement the requirements of this 
+section.” App. Al0. The flawed assumption upon which this 
+argument rests is that Congress’ requiring the FCC to “estab- 
+lish regulations to implement the requirements of this sec- 
+tion” is an unambiguous grant of jurisdiction to the FCC over 
+all matters comprehended in § 251. To the contrary, in view of 
+the numerous matters addressed in § 251 but expressly 
+assigned to the States by § 252 and other provisions of the 
+Act, § 251(d)(1) is properly read as merely requiring the FCC 
+
+
+24 
+
+
+to assure that there are no gaps in the procedural rules for 
+implementation of the Act, not to dictate substantive meth- 
+odologies which render a State's statutorily-assigned pricing 
+determinations largely ministerial. The reading suggested by 
+the FCC would allow it to usurp the States’ clear authority to 
+determine whether rates are “based on . . . cost,” “just and 
+reasonable” and based on “retail rates.” 47 U.S.C. 
+§§ 252(d)(1), 252(d)(3), App. AlO, All. Contrary to the 
+FCC's argument, § 251(d)(1) does not authorize the FCC to 
+override the substantive determinations which the Act other- 
+wise expressly assigns to the States. 
+
+
+Nor do §§ 251(d)(2) and 251(d)(3), App. A8, aid the 
+FCC. Section 251(d)(2) merely clarifies that the FCC has 
+authority to determine, at least in part, “what network ele- 
+ments should be made available” pursuant to § 251(c)(3) — a 
+matter no one has disputed. And § 251(d)(3), by its terms, is 
+intended to preserve State access regulations, not preempt 
+them. While the language of § 251(d)(3)(C), App. A8, may 
+suggest some narrow FCC authority to preclude enforcement 
+of a particular State commission regulation which “substan- 
+tially prevent(s] implementation of the requirements of this 
+section and the purposes of this part,” it hardly authorizes the 
+FCC to override substantive determinations which the Act 
+expressly assigns to State commissions. Moreover, 
+§ 251(d)(3)(B), App. A8, suggests that State determinations 
+under 251 are to be “consistent with the requirements of this 
+section,” not the pronouncements of the FCC.'® 
+
+
+15 Nor do the other provisions on which the FCC relies for a grant of 
+intrastate jurisdiction — 47 U.S.C. §§ 154(i), 201(b) and 303(r) — support its 
+argument. Reliance on these provisions is largely undermined by the FCC's 
+acknowledgments that §§ 251 and 252 “do not contain an explicit grant of 
+
+
+25 
+
+
+As the 1996 Act gives the States unambiguous authority 
+to establish the “just and reasonable” prices “based 
+on... cost” and “whc esale rates” based on “retail rates” 
+under which an incumbent LEC provides a competing LEC 
+with access to its network, subject only to the pricing stan- 
+dards articulated in the Act itself, the FCC's pricing regula- 
+
+
+tions are ultra vires and were properly vacated by the Eighth 
+Circuit. 
+
+
+Il. THE FIRST REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT PRESERVED 
+THE DUAL JURISDICTIONAL SCHEME 
+
+
+The Court, however, need not reach the foregoing argu- 
+ment to resolve these cases in favor of the States. Under the 
+familiar dual jurisdictional framework established by § 2(b) 
+of the Act, and reaffirmed by the Court in Louisiana, the 
+FCC’s attempt to regulate the intrastate component of pricing 
+and related matters is plainly beyond its statutory authority. 
+
+
+intrastate authority” and that “sections 251 and 252 do not alter the 
+jurisdictional division of authority with respect to matters falling outside 
+the scope of these provisions.” First Report and Order, 70, 84; J.A. 440, 
+448; footnote omitted. Beyond this, § 154(i) merely authorizes FCC actions 
+“not inconsistent with this chapter.” Section 201(b) relates back to § 201(a) 
+which by its terms is limited to “interstate or foreign communication by 
+wire or radio.” And § 303(r) authorizes rulemaking “not inconsistent with 
+law, as may be necessary to carry out the provisions of this chapter.” None 
+of these provisions provides the “unambiguous” and “straightforward” 
+grant of authority over intrastate matters required by Louisiana, 476 U.S. at 
+377, and each of them is subject to the limitation on FCC jurisdiction over 
+intrastate matters engendered in § 2(b), 47 U.S.C. § 152(b). Id. 
+
+
+26 
+
+
+A. The Principle of Chevron Deference is Inapplica- 
+ble to this Case 
+
+
+Contrary to the assertions in the FCC's brief (at pp. 17, 
+42), the principle of Chevron deference'® is inapplicable to 
+this case. If the States are correct that the 1996 Act expressly 
+grants them exclusive jurisdiction over pricing and related 
+matters, see Argument I, supra, or if the FCC is correct that 
+the Act expressly grants it exclusive jurisdiction over such 
+matters, then the principle of Chevron deference is inapplica- 
+ble because “the intent of Congress is clear.” Chevron, 467 
+U.S. at 842. 
+
+
+If, however, the Court concludes that the 1996 Act does 
+not expressly grant exclusive jurisdiction over pricing and 
+related matters either to the States or to the FCC, Chevron is 
+still inapplicable. That is so because Congress included in the 
+Act two mandatory rules of statutory construction, both appli- 
+cable to the jurisdictional questions here, which supersede the 
+judge-made principle of Chevron in the circumstances pre- 
+sented. First, in § 2(b) of the 1934 Act, as amended, 47 
+U.S.C. § 152(b), Congress stated that “nothing in this chapter 
+shall be construed to apply or to give the Commission juris- 
+diction with respect to . . . charges, classifications, practices, 
+services, facilities, or regulations for or in connection with 
+intrastate communication service by wire or radio of any 
+carrier.” Emphasis added. Under § 2(b), no statutory provi- 
+sion cited by the FCC can be found to give the FCC jurisdic- 
+tion over intrastate matters unless that provision contains an 
+express grant of authority over intrastate matters to the FCC. 
+Louisiana, supra, 476 U.S. at 377. 
+
+
+1% Chevron U.S.A. Inc. v. NRDC, 467 U.S. 837 (1984). 
+
+
+27 
+
+
+Congress intentionally retained § 2(b) in the 1996 Act 
+and made it applicable to §§ 251 and 252. Early drafts of the 
+Act expressly excepted Title II (including §§ 251 and 252) 
+from the coverage of § 2(b) but the final version of the Act 
+omitted the exception. First Report and Order, 4] 80, 94, J.A. 
+446, 452. As this Court stated in Russello, supra, 464 U.S. at 
+23-24: “Where Congress includes limiting language in an 
+earlier version of a bill but deletes it prior to enactment, it 
+may be presumed that the limitation was not intended.” Sec- 
+tion 2(b) is a legislatively prescribed rule of statutory con- 
+struction which displaces the judge-made rule of deference 
+articulated in Chevron. See Louisiana, supra, 476 U.S. at 377. 
+
+
+Congress further reinforced § 2(b) and the dual jurisdic- 
+tional scheme by enacting the rule of statutory construction 
+contained in the savings provision of § 601(c)(1) of the 1996 
+Act, Pub. L. 104-104, Tithe VI, § 601(c)(1), 110 Stat. 143 
+(Feb. 8, 1996) (enacted but not codified), App. Al4. Section 
+601(c)(1) commands that “[t}his Act and the amendments 
+made by this Act shall not be construed to modify, impair, or 
+supersede Federal, State, or local law unless expressly so 
+provided in such Act or amendments.” This provision, which 
+clarifies that neither § 2(b) nor any provision of State law is 
+altered by the Act unless the Act does so expressly, consti- 
+tutes another legislatively prescribed rule of statutory con- 
+struction which displaces the rule of Chevron. 
+
+
+Otherwise stated, the Act itself precludes as “impermissi- 
+ble” under Chevron any construction of its text which is 
+inconsistent with the mandatory rules of statutory construc- 
+tion it contains. Because the Act requires that a grant of 
+authority to the FCC over intrastate matters be made 
+“expressly,” any claim of authority which fails to meet the 
+“express” standard must be rejected. That was precisely the 
+
+
+28 
+
+
+situation in Louisiana, 476 U.S. at 374-375, where Chevron 
+deference was not accorded to the FCC. 
+
+
+Beyond this, where a dual jurisdictional scheme is 
+involved, Chevron deference is inappropriate because the 
+agency receiving the deference may use it to upset the statu- 
+tory balance established by Congress. See, e.g., Northwest 
+Central Pipeline Corp. v. Kansas Corp. Comm'n, 489 U.S. 
+493, 512, 515-516 n. 12 (1989); Altamont Gas Transmission 
+Co. v. FERC, 92 F.3d 1239, 1246-1248 (D.C. Cir. 1996), cert. 
+denied sub nom. Indicated Expansion Shippers v. FERC, 117 
+S. Ct. 1568 (1997); Clark v. Alexander, 85 F.3d 146, 152 (4th 
+Cir. 1996); but see Mississippi Power & Light Co. vy. Missis- 
+sippi ex rel. Moore, 487 U.S. 354, 380-381 (1988) (Scalia, J., 
+concurring in the judgment) (suggesting that Chevron defer- 
+ence should extend to an agency's determination of the scope 
+of its own authority). Stated another way, by retaining § 2(b) 
+in the Act, Congress legislatively determined that Chevron 
+deference should not be accorded to an FCC determination 
+expanding the agency's authority into the intrastate realm 
+which Congress reserved to the States. 
+
+
+B. Section 2(b) Prohibits the FCC From Adopting 
+Standards and Rules Governing Intrastate Pric- 
+ing and Related Matters 
+
+
+The plain language of § 2(b) and the principles of Louisi- 
+ana compel the conclusion that the FCC’s regulation of mat- 
+ters pertaining to the intrastate component of interconnection, 
+unbundled element and resale pricing is beyond its statutory 
+authority. Section 2(b) provides that “nothing in this Act shall 
+be construed to apply or to give the [FCC] jurisdiction with 
+
+
+29 
+
+
+respect to charges, classifications, practices, services, facili- 
+ties, or regulations for or in connection with intrastate com- 
+munication service by wire or radio of any carrier.” In 
+characterizing § 2(b), the Court has said: “By its terms, this 
+provision fences off from FCC reach or regulation intrastate 
+matters — indeed, including matters ‘in connection with’ intra- 
+State service. Moreover, the language with which it does so is 
+certainly as sweeping as the wording of the provision declar- 
+ing the purposes of the Act and the role of the FCC.” Louisi- 
+ana, supra, 476 U.S. at 370. In addition, the rule of 
+construction established by § 2(b) makes clear that every 
+other provision of the Act which is susceptible of construc- 
+tion, including the provisions added by the 1996 Act, must be 
+construed to find State authority over intrastate matters. Loui- 
+Siana, supra, 476 U.S. at 373. 
+
+
+The FCC properly concedes that § 2(b) remains effective 
+as to all matters falling outside §§ 251 and 252 of the 1996 
+Act. First Report and Order, J 70, J.A. 440. The FCC none- 
+theless concludes that “section 251 authorizes the FCC to 
+establish regulations regarding both interstate and intrastate 
+aspects of interconnection, services, and access to unbundled 
+elements” and that “the regulations the Commission estab- 
+lishes pursuant to section 251 are binding upon states and 
+carriers and section 2(b) does not limit the Commission's 
+authority to establish regulations governing intrastate matters 
+pursuant to section 251.” /d., 4 84, J.A. 448. 
+
+
+However, the FCC’s arrogating to itself the authority to 
+dictate standards, methodologies and rules for intrastate pric- 
+ing is refuted by the Act itself. The FCC concedes as much 
+when it acknowledges that §§ 251 and 252 “do not contain an 
+explicit grant of intrastate authority to the Commission.” First 
+Report and Order, 4 84, J.A. 448. The absence of such an 
+
+
+30 
+
+
+explicit grant of authority is fatal to its claim, for if Louisiana 
+means anything, it means that Congress’ intent to preempt 
+state regulation of intrastate matters must be clear. Louisiana, 
+supra, 476 U.S. at 368-69, 377; see also Jones v. Rath 
+Packing Co., 430 U.S. 519, 525 (1977), and many cases there 
+cited. As no such clear expression appears here, the FCC's 
+determinations with respect to intrastate pricing must be 
+vacated, 
+
+
+In Louisiana, the FCC had concluded that State regula- 
+tion of depreciation charges for local ratemaking purposes 
+was thwarting Federal objectives and thus imperiling the 
+economic well-being of the telecommunications industry. The 
+FCC claimed that deference to the States was inappropriate 
+where an important Federal policy, that of nurturing competi- 
+tion, was at stake. The FCC therefore established its own 
+depreciation rules and declared that the States were required 
+to follow those rules in setting intrastate depreciation rates. 
+The Court, in the introduction to its decision rejecting the 
+FCC’s claim, stated: “{W]e do not assess the wisdom of the 
+asserted federal policy of encouraging competition within the 
+telecommunications industry. Nor do [w]e consider whether 
+the FCC should have the authority to enforce, as it sees fit, 
+practices which it believes would best effectuate this purpose. 
+Important as these issues may be, our task is simply to 
+determine where Congress has placed the responsibility. . . . 4 
+476 U.S. at 359 (emphasis in original). The same inquiry is 
+applicable here. 
+
+
+The Court in Louisiana went on to reject the FCC's 
+unduly narrow construction of § 2(b). The Court stated: 
+“{G]iven the breadth of the language of section 152(b), and 
+the fact that it contains not only a substantive jurisdiction 
+limitation of the FCC’s power, but also a rule of statutory 
+
+
+31 
+
+
+construction . . . , we decline to accept the narrow view urged 
+by respondents, and hold instead that it denied the FCC the 
+power to preempt state regulation of depreciation for intra- 
+State ratemaking purposes.” /d. at 372-373. Here, as in Louisi- 
+
+
+ana, the FCC has overridden an express Congressional 
+limitation on its power.!? 
+
+
+The legislative history of the 1996 Act also supports this 
+view. Early drafts of the 1996 Act would have expressly 
+excepted Part II of Title Il and thus §§ 251 and 252 from the 
+applicability of § 2(b), but the final version of the 1996 Act 
+omitted that express exception to § 2(b). First Report and 
+Order, Tf 80, 94, J.A. 446, 452. The only reasonable inference 
+to be drawn is that, apart from the narrow areas where it 
+expressly provided to the contrary, Congress consciously 
+chose to leave §§ 251 and 252 subject to § 2(b). As explained 
+by the Court in Russello, supra, 464 U.S. at 23-24: “Where 
+Congress includes limiting language in an earlier version of a 
+
+
+bill but deletes it prior to enactment, it may be presumed that 
+the limitation was not intended.” 
+
+
+Mead Corp. v. Tilley, 490 U.S. 714, 723 (1989), relied on 
+by the FCC, is not to the contrary. There the Court chose not 
+to “attach decisive significance to the unexplained disap- 
+pearance of one word from an unenacted bill because ‘mute 
+
+
+'7 In cases following Louisiana, the FCC and the courts have reached 
+the same conclusion. Thus in California v. FCC, 905 F.2d 1217, 1239 (9th 
+Cir. 1990), “[t}he FCC concede{d] that § 2(b)(1) reserves to the States the 
+sole authority to regulate intrastate basic telephone service.” Similarly, in 
+NARUC vy. FCC, 880 F.2d 422, 429 (D.C. Cir. 1989), the court of appeals 
+stated that “the only limit that this Court has recognized on a state's 
+authority over intrastate telephone service occurs when the state’s exercise 
+of that authority negates the exercise by the PCC of its own lawful 
+authority over interstate communication” (emphasis in original). 
+
+
+32 
+
+
+intermediate legislative maneuvers’ are not reliable indicators 
+of congressional intent.” First Report and Order, 4 95 n. 155, 
+J.A. 452. Here, however, the Joint Conference affirmatively 
+removed from the legislation a significant exception to a 
+broad, repeatedly litigated and universally understood reser- 
+vation of State authority that has existed under the statute for 
+more than 60 years and under federal common law for nearly 
+a century. Under these circumstances, it is nonsensical to 
+suppose that the omission of the exception was unintentional. 
+
+
+Moreover, in addition to § 2(b), Congress left intact the 
+jurisdictional separations requirements and procedures of 47 
+U.S.C. §§ 221(c) and 410(c), App. A3-A4, Al3, to permit 
+dual ratemaking, thereby further demonstrating its intent that 
+the dual jurisdictional scheme for regulating “charges, classi- 
+fications, practices, services, facilities, or regulations” be 
+applicable to the amended statute. See Louisiana, supra, 476 
+U.S. at 375-376. There can be little doubt that the statutory 
+phrase “charges, classifications, practices, services, facilities, 
+or regulations” includes the pricing and pricing meth- 
+odologies for access, unbundled network elements, resale and 
+the like. In Louisiana, the FCC’s narrowing construction of 
+the phrase was emphatically rejected by the Court. 476 U.S. 
+at 372-73.!8 Indeed, the Court in Louisiana made clear that 
+the broad statutory language could not be read to simply 
+“forb[id] the FCC to establish specific rates for certain intra- 
+state services.” Jd. at 373. “[H]ad this been the intention, it 
+would hardly have been necessary to deny the FCC the 
+
+
+18 Indeed, the FCC's dissection of pricing into methodology (over 
+which the FCC has authority) and rates and charges between carriers (over 
+which the States have authority) finds no textual support in the Act and the 
+FCC points to none. 
+
+
+33 
+
+
+jurisdiction over ‘charges, classifications, practices, services, 
+facilities, or regulations for or in connection with intrastate 
+communication service... .°” Jd. 
+
+
+Finally, § 601(c)(1) of the 1996 Act, App. Al4, clarifies 
+that neither § 2(b) nor any provision of State law is altered or 
+overridden by the Act unless the Act does so expressly. In 
+sum, § 2(b) of the 1934 Act, as amended, precludes the FCC's 
+assertion and exercise of authority over intrastate pricing and 
+
+
+related matters without an express grant of jurisdiction over 
+such matters. 
+
+
+In this connection, the FCC criticizes the court of 
+appeals’ determination of Congressional intent because the 
+court of appeals considered, among other things, whether 
+particular provisions of the 1996 Act make “mention” of the 
+FCC. FCC Brief, at 12, 13, 15, 18, 38. Contrary to the FCC’s 
+argument, however, the court of appeals, having been charged 
+with the duty of ascertaining whether FCC authority over 
+intrastate matters was express, was perfectly justified in giv- 
+ing significance to the fact that certain provisions of the Act 
+did not reference the FCC when other provisions of the Act 
+clearly did so. Express reference to the FCC in a statutory 
+provision is a legitimate factor to be taken into consideration 
+
+
+in determining whether Congress expressly granted jurisdic- 
+tion to the FCC. 
+
+
+The FCC also presses a strained and implausible con- 
+struction of § 2(b) itself. It cites the portion of the statute 
+which creates two separate limitations — separated by the 
+disjunctive word “or” — on the manner in which the Act may 
+be construed: “ ‘nothing in this [chapter] shall be construed to 
+apply or to give the Commission jurisdiction with respect to’ 
+intrastate matters.” FCC Brief, at 34; emphasis in original. It 
+
+
+34 
+
+
+then argues that the section “cannot logically be construed to 
+mean that [it] limits the scope of the Commission's authority 
+more than it limits the substantive reach of federal telecom- 
+munications law.” /d. 
+
+
+This argument is patently without merit for at least three 
+reasons. First, it is contrary to the plain language of § 2(b), 
+which compels the conclusion that these two distinct limita- 
+tions on the manner in which the statute may be construed 
+should be treated separately. That is particularly so when the 
+construction advocated by the FCC is flatly inconsistent with 
+the purpose of § 2(b) as articulated by this Court — to “fence 
+off from FCC reach or regulation intrastate matters — indeed, 
+including matters ‘in connection with’ intrastate service.” 
+Louisiana, supra, 476 U.S. at 370. 
+
+
+Second, in addressing the use of the disjunctive in statu- 
+tory drafting, the Court has often invoked the rule that 
+“[c]Janons of construction ordinarily suggest that terms con- 
+nected by a disjunctive be given separate meanings, unless the 
+context dictates otherwise.” Brooke Group Ltd. v. Brown & 
+Williamson Tobacco Corp., 509 U.S. 209, 229 (1993), quoting 
+Reiter v. Sonotone Corp., 442 U.S. 330, 339 (1979). Third, 
+the FCC’s suggestion that the scope of the Act and the scope 
+of FCC jurisdiction must be treated as equivalent terms runs 
+afoul of the well established canon that a statute should not be 
+construed to render a portion of its text mere surplusage. 
+Babbitt v. Sweet Home Chapter of Communities for a Great 
+Oregon, 515 U.S. 687, 698 (1995); Colautti v. Franklin, 439 
+U.S. 379, 392 (1979); United States v. Menasche, 348 U.S. 
+528, 538-539 (1955). 
+
+
+The FCC nevertheless argues that “[sJection 2(b) refers 
+to the Commission's authority as well as to the applicability 
+
+
+35 
+
+
+of federal law . . . because Congress intended to bar the 
+Commission from exercising its ‘ancillary’ jurisdic- 
+tion .. . Over intrastate matters .. . to which the Act itself 
+does not clearly extend.” FCC Brief, at 34, citing Louisiana 
+and Houston, E. & W. Texas Ry. v. United States, 234 U.S. 342 
+(1914) (Shreveport Rate Case). This revisionist theory of the 
+meaning of Louisiana is at best implausible. Louisiana 
+nowhere refers to ancillary jurisdiction in broadly concluding 
+that the purpose of § 2(b) was to “fence off from FCC reach 
+or regulation intrastate matters.” 476 U.S. at 370. Indeed, in 
+Louisiana the Court pointed out that “the language with 
+which it does so is certainly as sweeping as the wording of the 
+provision declaring the purpose of the Act and the role of the 
+FCC.” Id. Moreover, it rejects the applicability of the Shreve- 
+port Rate Case, concluding that the breadth of the language in 
+§ 2(b) refutes the argument that the section is subject to a 
+narrowing construction because one Congressional purpose in 
+enacting § 2(b) was to legislatively overrule Shreveport. Id. at 
+372-373. 
+
+
+Furthermore, the FCC cites no persuasive authority sug- 
+gesting that in affirmatively choosing to eliminate the 
+statutory language excepting Title Il from § 2(b), Congress 
+effectively performed an idle act because § 2(b) had no 
+applicability to Title II in any event. The gravamen of the 
+FCC's argument is that it is only intrastate matters not cov- 
+ered by the Act that § 2(b) precludes the FCC from regulating. 
+However, there is simply no evidence at all that Congress had 
+that view when it enacted the 1996 Act. Indeed, Congress’ 
+retention of § 2(b) and the broad construction of that section 
+in Louisiana, of which Congress must be presumed to have 
+been aware, are strong indicators to the contrary. Finally, the 
+FCC's argument would create a slippery slope: if there is 
+
+
+36 
+
+
+nothing addressed by the 1996 Act that is not subject to the 
+FCC’s exclusive superintendence, then the States would be 
+left without any role whatsoever in the transition to local 
+competition. Clearly, this was not Congress’ intention. 
+
+
+The FCC also argues that the so-called “impossibility” 
+exception to § 2(b), see Louisiana, 476 U.S. at 375-376 n. 4, 
+precludes the applicability of § 2(b) to the local competition 
+provisions of the Act. This argument is similarly without 
+merit. Not only was it not a stated basis for the FCC's 
+decisions below, see SEC v. Chenery Corp., 332 U.S. 194, 196 
+(1943); Burlington Truck Lines v. United States, 371 U.S. 
+156, 168-169 (1962), but it is flatly refuted by the FCC’s ONA 
+Reconsideration Order, 5 FCC Red 3084 (1990), reversed on 
+other grounds sub nom. California v. FCC, 4 F.3d 1505 (9th 
+Cir. 1993), in which the FCC required, and the Ninth Circuit 
+upheld, dual Federal/State tariffing of basic network ele- 
+ments, the very sort of unbundled network elements at issue 
+in this case. 4 F.3d at 1513, 1515. Indeed, as noted by the 
+court of appeals below, ratemaking is inherently severable. 
+Pet. App. 20a. This Court has of course agreed. Louisiana, 
+476 U.S. at 375. 
+
+
+Finally, the FCC's impossibility claim ignores that the 
+exception to § 2(b) is “a limited one.” California v. FCC, 905 
+F.2d 1217, 1243 (9th Cir. 1990). Where such a claim is 
+properly asserted, the FCC bears the burden, plainly not 
+satisfied here, “of justifying its entire preemption order by 
+demonstrating that the order is narrowly tailored to preempt 
+only such state regulations as would negate valid FCC regula- 
+tory goals.” Jd. (emphasis in original); accord, California v. 
+FCC, 75 F.3d 1350, 1359 (9th Cir.), cert. denied, 116 S. Ct. 
+1841 (1996) (FCC bears burden of demonstrating negation), 
+NARUC y. FCC, 880 F.2d 422, 430 (D.C. Cir. 1989) (“The 
+
+
+37 
+
+
+FCC has the burden . . . of showing with some specificity that 
+[State regulation] . . . would negate the federal policy. . . . ”). 
+Finally, the FCC cannot implicate the exception by simply 
+abdicating its statutory responsibility and refusing to engage 
+in the jurisdictional separations process. Smith v. Illinois, 
+supra, 282 U.S. at 148-149 (some form of jurisdictional 
+separations mandatory); Crockett Telephone Co. v. FCC, 
+supra, 963 F.2d at 1571 (same). 
+
+
+Indeed, in a number of similar contexts, th= PCC has held 
+that the dual jurisdictional scheme applies :. the prices or 
+rates charged by LECs for “access,” “unbundled access” and 
+“interconnection” to the local network. For example, in the 
+Access Charge case, MTS & WATS Market Structure: Third 
+Report and Order, 93 F.C.C.2d 241, 260-265 (1983), affirmed 
+on other grounds, NARUC vy. FCC, supra, 737 F.2d 1095, the 
+FCC acknowledged the long-standing practice of imposing 
+State-approved access charges upon competing long distance 
+carriers for use of the LEC’s intrastate network. Moreover, on 
+appeal, the court of appeals, while affirming the FCC's setting 
+interstate access charges for use of local plant applicable to 
+interstate service, endorsed the imposition by States of intra- 
+state access charges for the use of local plant applicable to 
+intrastate service. See 737 F.2d at 1114, 1115. Notably, such 
+intrastate access charges are imposed upon competing long 
+distance carriers, not on end use customers. 
+
+
+Similarly, in the ONA Reconsideration Order, supra, 5 
+FCC Red at 3088-3090, 3100 n. 111, the FCC required that 
+LECs file tariffs with the FCC offering unbundled basic 
+service elements (“BSEs”) for access to the interstate net- 
+work and that they similarly file tariffs with the relevant State 
+commission offering unbundled BSEs for access to the intra- 
+state network. On appeal, in concluding that the FCC's 
+
+
+38 
+
+
+approach was fully consistent with the statutory scheme, the 
+court of appeals said: “The ONA orders clearly establish a 
+dual federal and state tariffing structure for BSEs, and the 
+States will retain authority to set rates for those BSEs which 
+are used for intrastate service. This system complies with the 
+Supreme Court's decision in Louisiana that the Communica- 
+tions Act is designed to establish a dual regulatory scheme.” 
+California v. FCC, supra, 4 F.3d at 1515. Once tariffed, BSEs 
+were then offered to competitive enhanced service providers — 
+not end users — who in turn provided enhanced services 
+utilizing the BSEs to end use customers. If the intrastate 
+component of these charges for providing unbundled network 
+elements to competitive service providers was properly sub- 
+ject to State jurisdiction, as the FCC conceded in the ONA 
+Tariffing case, then the intrastate component of the intercon- 
+nection, access and unbundled network element charges 
+imposed upon competitive local telephone service providers 
+here is similarly subject to State jurisdiction. 
+
+
+The same is true with respect to “interconnection” 
+charges. In In the Matter of the Need to Promote Competition 
+and Efficient Use of Spectrum for Radio Common Carrier 
+Services, 2 FCC Red 2910 (1987), which involved the terms 
+and conditions under which cellular service providers would 
+be permitted to interconnect with the local network, the FCC 
+stated that “[t}he charges for interconnection .. . are sever- 
+able between the jurisdictions because the underlying costs of 
+interconnection are segregable. Charges for switching of 
+interconnected calls are also subject to dual jurisdiction.” /d. 
+at 2911, ¥ 12. 
+
+
+The FCC nevertheless argues that Congress could not 
+have intended to accord State commissions jurisdiction over 
+
+
+39 
+
+
+pricing and other aspects of local competition because with- 
+out FCC jurisdiction, final resolution of issues under the Act 
+would not occur for many years, “after the various pricing 
+and other issues have wound their way through 50 state 
+commissions, numerous federal district courts, various courts 
+of appeal, and ultimately this Court, all without comprehen- 
+sive direction from the federal agency with the expertise to 
+interpret federal communications law.” FCC Brief, at 40. The 
+short answer to this exaggerated policy argument is that it 
+asks the Court to legislate. 
+
+
+Contrary to the FCC's argument, Congress knew how to 
+establish a system of appellate review which would maximize 
+and expedite uniformity, certainty and finality if that was its 
+predominant goal. See, e.g., 15 U.S.C. § 29(b) (providing for 
+direct appeal from a district court to this Court under certain 
+circumstances). Instead, Congress chose the States to make 
+the initial determination of pricing and related matters, with 
+appellate review of State commission system in the Federal 
+courts, in order to accord at least some degree of respect, 
+deference and comity to local and regional differences in 
+markets and competitive conditions and the ability of State 
+regulators to address those differences. 
+
+
+It is beyond the role of the FCC and of this Court to 
+effectuate a legislative approach which Congress consciously 
+rejected. As in Louisiana, the Court should not “grant the 
+agency power to override Congress.” 476 U.S. at 374-375. 
+
+
+40 
+
+
+Ill. THE SECOND REPORT AND ORDER MUST BE 
+VACATED BECAUSE THE 1996 ACT GRANTS THE 
+STATES EXCLUSIVE AUTHORITY OVER INTRA- 
+LATA DIALING PARITY 
+
+
+A. Section 2(b) Prohibits the FCC From Adopting Stan- 
+dards and Rules Governing Intrastate and Intra- 
+LATA Dialing Parity and Related Cost Recovery 
+
+
+Under § 2(b), the States possess exclusive jurisdiction 
+over intrastate dialing parity.'? California's brief addresses 
+intraLATA, rather than intrastate, dialing parity for three 
+reasons. First, dialing parity requirements for the interLATA, 
+or long distance, market occurred more than a decade ago 
+with the imposition of the “I! plus” presubscription methodol- 
+ogy under the supervision of the MFJ court, the FCC and the 
+States. Dialing parity to facilitate interLATA competition is 
+thus irrelevant to the issue before the Court. 
+
+
+Second, virtually all intraLATA telephone calls initiated 
+in the United States are intrastate in nature. Thus virtually all 
+intraLATA calls fall on the State side of the jurisdictional 
+fence erected by § 2(b). Since this case is about intraLATA 
+
+
+19 In making its § 2(b) argument regarding dialing parity, California 
+relies on all points raised in Argument Il, supra, and, to minimize 
+repetition, primarily addresses in Argument III the factual and analytical 
+differences between the pricing and dialing parity arguments predicated on 
+§ 2(b). If the Court concludes that the 1996 Act grants the States express 
+authority over pricing, as did the Eighth Circuit, then dialing parity with its 
+unique factual setting, will perhaps be the on/y jurisdictional issue which 
+requires the Court to address the § 2(b) analysis set forth in Arguments II 
+and III. 
+
+
+20 At the time, dialing parity requirements for intrastate long distance 
+service were placed in intrastate access tariffs under the supervision and 
+authority of the State commissions, while dialing parity requirements for 
+interstate long distance service were placed in interstate access tariffs under 
+the supervision and authority of the FCC. 
+
+
+41 
+
+
+dialing parity (interLATA dialing parity having been 
+addressed long ago), and since virtually all intraLATA calls 
+are intrastate calls which, under § 2(b), fall within exclusive 
+State jurisdiction, it is obvious that § 2(b) leaves the matter of 
+intraLATA dialing parity to the States. 
+
+
+Third, the duty of LECs “to provide dialing parity to 
+competing providers of telephone exchange service and tele- 
+phone toll service” under § 251(b)(3), App. AS, appears to 
+address only intraLATA dialing parity. The BOCs, which 
+provide the overwhelming majority of LEC service nationally, 
+are not yet permitted to compete in the interLATA, or long 
+distance, market. See § 271 of the Act, 47 U.S.C. § 271. 
+Moreover, § 251(b)(3) places a duty on LECs to provide 
+dialing parity to their own competitors — competitors in the 
+intraLATA market — not to the interexchange carriers that 
+compete with AT&T and others in the interLATA market. 
+
+
+This construction of § 251(b)(3) is supported by the 
+section's legislative history. The Joint Explanatory Statement 
+of the Committee of Conference notes at p. 5 that in the 
+Senate bill, “[nJumber portability and /oca/ dialing parity are 
+included in the minimum standards of subsection 251(b)” 
+(emphasis added). Similarly, the House amendment provision 
+set out “the specific requirements . . . that apply to LECs as 
+competitors enter the local market,” id., at 7 (emphasis 
+added). Finally, the conference agreement established 
+§ 251(b)(3) as ultimately signed into law, with the conferees 
+noting that “the duties imposed under section new 251(b) 
+make sense only in the context of a specific request from 
+another telecommunications carrier or any other person who 
+actually seeks to connect with or provide services using the 
+LEC’s network,” id., at 8 (emphasis added). 
+
+
+42 
+
+
+It is therefore entirely reasonable to conclude that Con- 
+gress intended that the dialing parity requirement of 
+§ 251(b)(3) be fashioned and implemented by the States, 
+subject only to the express requirements of the Act. Section 
+2(b), which after much Congressional debate was inten- 
+tionally left intact by the 1996 Act, mandates that “nothing in 
+this chapter” — including § 251(b)(3) - “shall be construed to 
+apply or to give the [FCC] jurisdiction with respect to 
+charges, classifications, practices, services, facilities, or regu- 
+lations for or in connection with intrastate communication 
+service by wire or radio of any carrier” (emphasis added). The 
+broad statutory phrase, “charges, classifications, practices, 
+services, facilities, or regulations,” plainly includes the provi- 
+sion of dialing parity. Louisiana, 476 U.S. at 372-373. 
+
+
+The FCC nevertheless concluded in the Second Report 
+and Order that it possessed statutory authority to adopt 
+nationwide standards governing intraLATA dialing parity. It 
+said: “We conclude that the purpose of the statutory dialing 
+parity requirements — to facilitate the introduction of competi- 
+tion in the local and toll markets — is best served by the 
+adoption of broad guidelines and minimum federal standards 
+that build upon the states’ experiences. . . . [S]uch minimum 
+nationwide standards will facilitate competition to the extent 
+the new entrants seeking to offer regional or national services 
+will not be subjected to an array of differing state standards or 
+timetables. . . . [U]niform standards - in some cases mini- 
+mum, uniform standards — will speed competitive entry by 
+more promptly opening the local and toll markets to competi- 
+tion.” Second Report and Order, { 25, 4.A. 1176; footnotes 
+omitted. 
+
+
+The FCC’s arrogating to itself the authority to dictate 
+standards, policies and rules for intraLATA dialing parity is 
+
+
+43 
+
+
+refuted by FCC's concession that §§ 251 and 252 “do not 
+contain an explicit grant of intrastate authority to the Com- 
+mission.” First Report and Order, | 84, J.A. 448. As above 
+noted, Louisiana and the cases following it teach that the - 
+absence of such an explicit grant of authority precludes pre- 
+emption. Louisiana, supra, 476 U.S. at 368-69, 377. See also 
+NPRM, Administration of the North American Numbering 
+Plan, supra, 9 FCC Red at 2077 n. 93 (in which the FCC 
+stated in connection with dialing parity that most intraLATA 
+toll calls “are intrastate and not within our purview”). As no 
+such clear expression appears here, the principle of Louisiana 
+controls and the jurisdictional conclusions in the Second 
+
+
+Report and Order with respect to intrastate dialing parity 
+must be vacated. 
+
+
+The legislative history of the 1996 Act also supports this 
+view. Congress’ choosing to omit from the statute the provi- 
+sion that would have expressly excepted Part II of Title II and 
+thus §§ 251 and 252 from the applicability of § 2(b) strongly 
+supports the conclusion that Congress consciously chose to 
+leave § 251(b)(3) subject to § 2(b). 
+
+
+There can be little doubt that the statutory phrase 
+“charges, classifications, practices, services, facilities, or reg- 
+ulations” includes dialing parity. In Louisiana, the FCC's 
+narrow construction of the phrase was emphatically rejected 
+by the Court. 476 U.S. at 372-73. Indeed, the Court in Louisi- 
+ana made clear that the broad statutory language could not be 
+read to simply “forb[id] the FCC to establish specific rates for 
+certain intrastate services.” /d. at 373. “[H]ad this been the 
+intention, it would hardly have been necessary to deny the 
+FCC the jurisdiction over ‘charges, classifications, practices, 
+services, facilities, or regulations for or in connection with 
+intrastate communication service. . . . °” Jd. The FCC's 
+
+
+44 
+
+
+similarly narrow construction of these words here, so as to 
+exclude “practices” and “regulations” seeking to ensure a 
+customer's ability to complete intrastate and intraLATA toll 
+calls through a chosen competitive service provider without 
+having to dial extra digits, must also be rejected. 
+
+
+Nor is there an “impossibility” or “inseverability” issue 
+with respect to dialing parity requirements, even though dial- 
+ing parity does not involve rates. Again, the FCC did not rely 
+on the impossibility exception in the Second Report and 
+Order. Moreover, the Second Report and Order, at ¥ 37, J.A. 
+1183, itself acknowledges that dialing parity rules can be 
+separated into interLATA and intraLATA components, or 
+interstate and intrastate components, at the discretion of the 
+relevant State commission. It states: “[WJe have also con- 
+cluded that each state should have the opportunity to deter- 
+mine whether customers should be able to presubscribe to 
+carriers for intrastate toll service and for interstate toll service 
+in lieu of the intraLATA and interLATA toll presubscription 
+dichotomy that we have established. . . . We thus conclude 
+that states . . . should have the flexibility to require that toll 
+dialing parity implementation be based on state boundaries 
+where they determine that implementing toll dialing parity on 
+the basis of state boundaries would be pro-competitive and 
+otherwise in the public interest.” /d. 
+
+
+In addition, the FCC's interest in imposing dialing parity 
+rules which would apply to intraLATA calls which are 99.8 
+per cent intrastate in nature (100 per cent in California) is 
+obviously de minimis. In other contexts, the FCC has held that 
+the Federal interest in regulating service which involves less 
+than ten per cent interstate traffic is de minimis. Decision and 
+Order, In the Matter of MTS and WATS Market Structure, 4 
+
+
+45 
+
+
+FCC Red 5660 (1989), at | 2, adopting Recommended Deci- 
+
+
+sion and Order, In the Matter of MTS and WATS Market 
+Structure, 4 FCC Red 1352 (1989). 
+
+
+In sum, § 2(b) precludes the FCC’s assertion and exercise 
+of authority over intraLATA dialing parity. 
+
+
+B. Other Provisions of the 1996 Act Support the 
+Conclusion That the FCC Has Exceeded Its Statu- 
+tory Authority in Adopting Standards and Rules 
+Governing Intrastate and IntraLATA Dialing Par- 
+ity and Related Cost Recovery 
+
+
+Other provisions of the 1996 Act support California's 
+argument. Several subdivisions of § 251 do grant the FCC 
+authority over limited substantive areas addressed by the 
+section, while § 251(b)(3), App. AS, addressing dialing parity, 
+does not. For example, in § 251 Congress gave the FCC 
+authority to prescribe requirements for “number portability” 
+(§ 251(b)(2), App. AS) as well as “exclusive jurisdiction” 
+over the portions of the North American Numbering Plan 
+applicable to the United States (§ 251(e)(1), App. A8). How- 
+ever, the dialing parity provisions of § 251(b)(3) include no 
+such grant of authority to the FCC. “Where Congress includes 
+particular language in one section of a statute but omits it in 
+another section of the same Act, it is generally presumed that 
+Congress acts intentionally and purposely in the deliberate 
+inclusion or exclusion.” Russello, supra, 464 U.S. at 23. 
+
+
+This conclusion is reinforced by the fact that Congress 
+gave the FCC no express authority over dialing parity cost 
+recovery. Having expressly given the FCC jurisdiction over 
+number portability and numbering administration in 
+§§ 251(b)(2) and 251(e)(1), App. AS, A8, Congress carefully 
+
+
+46 
+
+
+clarified in § 251(e)(2), App. A9, that the FCC had additional 
+jurisdiction to determine cost recovery issues relating to 
+number portability and numbering administration. It stated: 
+“The cost of establishing telecommunications numbering 
+administration arrangements and number portability shall be 
+borne by all telecommunications carriers on a competitively 
+neutral basis as determined by the Commission.” 47 U.S.C. 
+§ 251(e)(2), App. A9; emphasis added. However, no such 
+explicit grant of authority to the FCC was made with respect 
+to cost recovery for dialing parity.?! 
+
+
+In addition, Congress directly addressed “intraLATA toll 
+dialing parity” in § 271(e)(2)(B) of the 1996 Act, App. Al2- 
+Al3, twice referring to narrow requirements affecting the 
+timing of an exercise of state authority to implement intra- 
+LATA toll dialing parity. It said: 
+
+
+Except for single-LATA States and States that have 
+issued an order by December 19, 1995, requiring a 
+[BOC] to implement intraLATA toll dialing parity, a 
+State may not require a [BOC] to implement intra- 
+LATA toll dialing parity in that State before a 
+[BOC] has been granted authority . . . to provide 
+interLATA services originating in that State or 
+before 3 years after the date of enactment of the 
+
+
+21 The FCC rests its determination that it has authority to regulate 
+dialing parity cost recovery on the implementation timetable of § 251(d)(1) 
+and the catch-all provision of § 4(i) of the 1934 Act, 47 U.S.C. § 154(i), 
+which authorizes it “to take any action [it] consider[s] ‘necessary and 
+proper’ to further the public interest.” Second Report and Order, J 92, J.A. 
+1209. However, neither of these provisions constitutes a substantive grant 
+of jurisdiction to take action not otherwise authorized by the Act. E.g., 
+California v. FCC, 905 F.2d 1217, 1240-41 n. 35 (9th Cir. 1990). 
+Moreover, those provisions are themselves subject to the limitation and 
+rule of statutory construction of § 2(b). /d. 
+
+
+47 
+
+
+Telecommunications Act of 1996, whichever is ear- 
+lier. Nothing in this paragraph precludes a State 
+from issuing an order requiring intraLATA toll dial- 
+ing parity in that State prior to either such date so 
+long as such order does not take effect until after 
+the earlier of either such dates. 
+
+
+47 U.S.C. § 271(e)(2)(B), App. Al2-A13; emphasis added. 
+
+
+Similarly, in the “competitive checklist” for BOCs seek- 
+ing to provide interLATA service contained in § 271(c)(2)(B), 
+App. Al2, Congress referred to number portability, but not 
+dialing parity, as a matter upon which the FCC “issues regula- 
+tions pursuant to section 251.” It set a standard for number 
+portability applicable “[uJjntil the date by which the Commis- 
+sion issues regulations pursuant to section 251 to require 
+number portability . . .” (see § 271(c)(2)(B)(xi), App. Al2) 
+but made no such reference with respect to the checklist 
+requirement for dialing parity (see § 271(c)(2)(B)(xii), App. 
+Al2). The obvious inference is that Congress did not intend 
+the FCC to issue regulations pursuant to § 251 governing 
+dialing parity. 
+
+
+Finally, petitioners appear to have abandoned their heavy 
+reliance on § 251(g) of the 1996 Act, 47 U.S.C. § 251(g), 
+App. A9, in this Court. If they have done so, the abandonment 
+is justified. Section 251(g) does not grant the FCC authority 
+to regulate intraLATA dialing parity. In the first place, the 
+FCC itself in the Second Report and Order correctly deter- 
+mined that § 251(g) has nothing to do with the intraLATA 
+dialing parity duty of § 251(b)(3). The Second Report and 
+Order states: “That section [251(g)] contains no reference or 
+cross reference to dialing parity or to section 251(b)(3). 
+Section 251(g) preserves the equal access obligations already 
+imposed on the BOCs and GTE, but does not exempt them 
+
+
+48 
+
+
+from the toll dialing parity requirements.” Second Report and 
+Order, J 29, J.A. 1178-1179. Thus the FCC’s argument to the 
+effect that § 251(g) grants it the authority to interpret and 
+enforce the § 251(b)(3) dialing parity duty is nothing but an 
+impermissible post hoc rationalization of counsel. SEC v. 
+Chenery Corp., supra, 332 U.S. at 196. 
+
+
+Moreover, § 251(g) addresses only the obligations of the 
+BOCs and GTE under their respective consent decrees, while 
+§ 251(b)(3) addresses the obligations of all LECs. Further, 
+§ 251(g), by its terms, involves only the provision of equal 
+access to interexchange carriers and information services pro- 
+viders — parties with whom the BOCs were at one time 
+precluded from competing by MFJ restrictions. It does not 
+address the LECs’ provision of intraLATA dialing parity to 
+facilitate competition between the LECs and those seeking to 
+compete with them directly in the provision of intraLATA 
+service. That latter subject is addressed by § 251(b)(3). As all 
+parties appear to concede, the MFJ court left to the States the 
+question of whether there would be intraLATA competition at 
+all, as well as the subsidiary question of the appropriate 
+dialing parity requirements, should there be such competition. 
+United States v. Western Electric Co., supra, 569 F.Supp. 990, 
+at 1005; United States v. Western Electric Co., supra, 569 
+F.Supp. 1057, at 1109.2? 
+
+
+Both § 2(b) and other provisions of the 1996 Act compel 
+the conclusion that the Act does not authorize the FCC to 
+regulate intraLATA dialing parity. 
+
+
+22 The legislative history of § 251(g) supports this view. See Joint 
+Explanatory Statement of the Committee of Conference, at p. 9. 
+
+
+49 
+
+
+CONCLUSION 
+
+
+In the final analysis, this case is fundamentally the same 
+as Louisiana, There, the FCC argued that “federal displace- 
+ment of state regulation is justified under the Act when 
+necessary ‘to avoid frustration of validly adopted federal 
+policies.’ " 476 U.S. at 362, 363. In the face of this argument, 
+the Court observed that “it goes without saying that we do not 
+assess the wisdom of the asserted federal policy of encourag- 
+ing competition within the telecommunications industry. Nor 
+do we consider whether the FCC should have authority to 
+enforce, as it sees fit, practices which it believes would best 
+effectuate this purpose.” /d. at 359. The Court then rejected 
+the FCC's argument, stating: “As we so often admonish, only 
+Congress can rewrite this statute.” /d. at 376. The Court 
+should take the same course here. 
+
+
+Respectfully submitted, 
+
+
+Perer Artn, Jr.* 
+
+Mark FooetmMan 
+
+505 Van Ness Avenue 
+
+San Francisco, CA 94102 
+Telephone: (415) 703-1992 
+*Counsel of Record 
+
+
+Attorneys for California 
+
+
+Al 
+
+
+APPENDIX OF STATUTES 
+
+
+47 U.S.C. § 152(b)(1) 
+
+
+(b) Exceptions to Federal Communications Commission 
+jurisdiction 
+
+
+Except as provided in sections 223 and 227 of this title, 
+inclusive, and section 332 of this title, and subject to the 
+provisions of section 301 of this title and subchapter V-A of 
+this chapter, nothing in this chapter shall be construed to 
+apply or to give the Commission jurisdiction with respect to 
+(1) charges, classifications, practices, services, facilities, or 
+regulations for or in connection with intrastate communica- 
+tion service by wire or radio of any carrier. 
+
+
+47 U.S.C. § 153(15), (16), (21), (22), (25), (26), (47), (48) 
+§ 153. Definitions 
+
+
+For the purposes of this chapter, unless the context other- 
+wise requires — 
+
+
+(15) Dialing parity 
+
+
+The term “dialing parity” means that a person that is not 
+an affiliate of a local exchange carrier is able to provide 
+telecommunications services in such a manner that customers 
+have the ability to route automatically, without the use of any 
+access code, their telecommunications to the telecommunica- 
+tions services provider of the customer's designation from 
+among 2 or more telecommunications services providers 
+(including such local exchange carrier). 
+
+
+(16) Exchange access 
+
+
+The term “exchange access” means the offering of access 
+to telephone exchange services or facilities for the purpose of 
+the origination or termination of telephone toll services. 
+
+
+A2 
+
+
+(21) InterLATA service 
+
+
+The term “interLATA service” means telecommunica- 
+tions between a point located in a local access and transport 
+area and a point located outside such area. 
+
+
+(22) Interstate communication 
+
+
+The term “interstate communication” or “interstate trans- 
+mission” means communication or transmission (A) from any 
+State, Territory, or possession of the United States (other than 
+the Canal Zone), or the District of Columbia, to any other 
+State, Territory, or possession of the United States (other than 
+the Canal Zone), or the District of Columbia, (B) from or to 
+the United States to or from the Canal Zone, insofar as such 
+communication or transmission takes place within the United 
+States, or (C) between points within the United States but 
+through a foreign country; but shall not, with respect to the 
+provisions of subchapter II of this chapter (other than section 
+223 of this title), include wire or radio communication 
+between points in the same State, Territory, or possession of 
+the United States, or the District of Columbia, through any 
+place outside thereof, if such communication is regulated by a 
+State commission. 
+
+
+(25) Local access and transport area 
+
+
+The term “local access and transport area” or “LATA” 
+means a contiguous geographic area — 
+
+
+(A) established before February 8, 1996, by a Bell 
+operating company such that no exchange area includes 
+points within more than | metropolitan statistical area, 
+consolidated metropolitan statistical area, or State, 
+except as expressly permitted under the AT&T Consent 
+Decree; or 
+
+
+(B) established or modified by a Bell operating 
+company after February 8, 1996, and approved by the 
+Commission. 
+
+
+A3 
+
+
+(26) Local exchange carrier 
+
+
+The term “local exchange carrier” means any person that 
+is engaged in the provision of telephone exchange service or 
+exchange access. Such term does not include a person insofar 
+as such person is engaged in the provision of a commercial 
+mobile service under section 332(c) of this title, except to the 
+extent that the Commission finds that such service should be 
+included in the definition of such term. 
+
+
+(47) Telephone exchange service 
+
+
+The term “telephone exchange service” means (A) ser- 
+vice within a telephone exchange, or within a connected 
+system of telephone exchanges within the same exchange area 
+operated to furnish to subscribers intercommunicating service 
+of the character ordinarily furnished by a single exchange, 
+and which is covered by the exchange service charge, or (B) 
+comparable service provided through a system of switches, 
+transmission equipment, or other facilities (or combination 
+thereof) by which subscriber can originate and terminate a 
+telecommunications service. 
+
+
+(48) Telephone toll service 
+
+
+The term “telephone toll service” means telephone ser- 
+vice between stations in different exchange areas for which 
+there is made a separate charge not included in contracts with 
+subscribers for exchange service. 
+
+
+47 U.S.C. § 221(b), (c) 
+(b) State jurisdiction over services 
+
+
+Subject to the provisions of sections 225 and 301 of this 
+title, nothing in this chapter shall be construed to apply, or to 
+give the Commission jurisdiction, with respect to charges, 
+classifications, practices, services, facilities, or regulations 
+for or in connection with wire, mobile, or point-to-point radio 
+telephone exchange service, or any combination thereof, even 
+
+
+A4 
+
+
+though a portion of such exchange service constitutes inter- 
+state or foreign communication, in any case where such mat- 
+ters are subject to regulation by a State commission or by 
+local governmental authority. 
+
+
+(c) Determination of property used in interstate toll ser- 
+vice 
+
+
+For the purpose of administering this chapter as to car- 
+riers engaged in wire telephone communication, the Commis- 
+sion may classify the property of any such carrier used for 
+wire telephone communications, and determine what property 
+of said carrier shall be considered as used in interstate or 
+foreign telephone toll service. Such classification shall be 
+made after hearing, upon notice to the carrier, the State 
+commission (or the Governor, if the State has no State com- 
+mission) of any State in which the property of said carrier is 
+located, and such other persons as the Commission may 
+prescribe. 
+
+
+47 U.S.C. § 251(a)-(e), (g) 
+
+§ 251. Interconnection 
+
+(a) General duty of telecommunications carriers 
+Each telecommunications carrier has the duty — 
+
+
+(1) to interconnect directly or indirectly with the 
+facilities and equipment of other telecommunications 
+carriers; and 
+
+
+(2) not to install network features, functions, or 
+capabilities that do not comply with the guidelines and 
+standards established pursuant to section 255 or 256 of 
+this title. 
+
+
+(b) Obligations of all local exchange carriers 
+
+
+Each local exchange carrier has the following duties: 
+
+
+AS 
+
+
+(1) Resale 
+
+
+The duty not to prohibit, and not to impose unrea- 
+sonable or discriminatory conditions or limitations on, 
+the resale of its telecommunications services. 
+
+
+(2) Number portability 
+
+
+The duty to provide, to the extent technically feas- 
+ible, number portability in accordance with requirements 
+prescribed by the Commission. 
+
+
+(3) Dialing parity 
+
+
+The duty to provide dialing parity to competing 
+providers of telephone exchange service and telephone 
+toll service, and the duty to permit all such providers to 
+have nondiscriminatory access to telephone numbers, 
+operator services, directory assistance, and directory list- 
+ing, with no unreasonable dialing delays. 
+
+
+(4) Access to rights-of-way 
+
+
+The duty to afford access to the poles, ducts, con- 
+duits, and rights-of-way of such carrier to competing 
+providers of telecommunications services on rates, 
+terms, and conditions that are consistent with section 224 
+of this title. 
+
+
+(5) Reciprocal compensation 
+
+
+The duty to establish reciprocal compensation 
+arrangements for the transport and termination of tele- 
+communications. 
+
+
+(c) Additional obligations of incumbent local exchange 
+carriers 
+
+
+In addition to the duties contained in subsection (b) of 
+this section, each incumbent local exchange carrier has the 
+following duties: 
+
+
+(1) Duty to negotiate 
+
+
+The duty to negotiate in good faith in accordance 
+with section 252 of this title the particular terms and 
+
+
+A6 
+
+
+conditions of agreements to fulfill the duties described in 
+paragraphs (1) through (5) of subsection (b) of this 
+section and this subsection. The requesting telecommuni- 
+cations carrier also has the duty to negotiate in good 
+faith the terms and conditions of such agreements. 
+
+
+(2) Interconnection 
+
+
+The duty to provide, for the facilities and equipment 
+of any requesting telecommunications carrier, intercon- 
+nection with the local exchange carrier's network — 
+
+
+(A) for the transmission and routing of tele- 
+phone exchange service and exchange access; 
+
+
+(B) at any technically feasible point within 
+the carrier's network; 
+
+
+(C) that is at least equal in quality to that 
+provided by the local exchange carrier to itself or to 
+any subsidiary, affiliate, or any other party to which 
+the carrier provides interconnection; and 
+
+
+(D) on rates, terms, and conditions that are 
+just, reasonable, and nondiscriminatory, in accor- 
+dance with the terms and conditions of the agree- 
+ment and the requirements of this section and 
+section 252 of this title. 
+
+
+(3) Unbundled access 
+
+
+The duty to provide, to any requesting telecommuni- 
+cations carrier for the provision of a telecommunications 
+service, nondiscriminatory access to network elements 
+on an unbundled basis at any technically feasible point 
+on rates, terms, and conditions that are just, reasonable, 
+and nondiscriminatory in accordance with the terms and 
+conditions of the agreement and the requirements of this 
+section and section 252 of this title. An incumbent local 
+exchange carrier shall provide such unbundled network 
+elements in a manner that allows requesting carriers to 
+combine such elements in order to provide such telecom- 
+munications service. 
+
+
+A7 
+
+
+(4) Resale 
+The duty - 
+
+
+(A) to offer for resale at wholesale rates any 
+telecommunications service that the carrier provides 
+at retail to subscribers who are not telecommunica- 
+tions carriers; and 
+
+
+(B) not to prohibit, and not to impose unrea- 
+sonable or discriminatory conditions or limitations 
+on, the resale of such telecommunications service, 
+except that a State commission may, consistent with 
+regulations prescribed by the Commission under this 
+section, prohibit a reseller that obtains at wholesale 
+rates a telecommunications service that is available 
+at retail only to a category of subscribers from 
+offering such service to a different category of sub- 
+scribers. 
+
+
+(5) Notice of changes 
+
+
+The duty to provide reasonable public notice of 
+changes in the information necessary for the transmis- 
+sion and routing of services using that local exchange 
+carrier's facilities or networks, as well as of any other 
+changes that would affect the interoperability of those 
+facilities and networks. 
+
+
+(6) Collocation 
+
+
+The duty to provide, on rates, terms, and conditions 
+that are just, reasonable, and nondiscriminatory, for 
+physical collocation of equipment necessary for inter- 
+connection or access to unbundled network elements at 
+the premises of the local exchange carrier, except that 
+the carrier may provide for virtual collocation if the 
+local exchange carrier demonstrates to the State commis- 
+sion that physical collocation is not practical for techni- 
+cal reasons or because of space limitations. 
+
+
+A8 
+
+
+(d) Implementation 
+(1) In general 
+
+
+Within 6 months after February 8, 1996, the Com- 
+mission shall complete all actions necessary to establish 
+regulations to implement the requirements of this sec- 
+tion. 
+
+
+(2) Access standards 
+
+
+In determining what network elements should be 
+made available for purposes of subsection (c)(3) of this 
+section, the Commission shall consider, at a minimum, 
+whether - 
+
+
+(A) access to such network elements as are 
+proprietary in nature is necessary; and 
+
+
+(B) the failure to provide access to such net- 
+work elements would impair the ability of the tele- 
+communications carrier seeking access to provide 
+the services that it seeks to offer. 
+
+
+(3) Preservation of State access regulations 
+
+
+In prescribing and enforcing regulations to imple- 
+ment the requirements of this section, the Commission 
+shall not preclude the enforcement of any regulation, 
+order, or policy of a State commission that - 
+
+
+(A) establishes access and interconnection 
+obligations of local exchange carriers, 
+
+
+(B) is consistent with the requirements of this 
+section; and 
+
+
+(C) does not substantially prevent implemen- 
+tation of the requirements of this section and the 
+purposes of this part. 
+
+
+(e) Numbering administration 
+(1) Commission authority and jurisdiction 
+
+
+The Commission shall create or designate one or 
+more impartial entities to administer telecommunications 
+
+
+A9 
+
+
+numbering and to make such numbers available on an 
+equitable basis. The Commission shall have exclusive 
+jurisdiction over those portions of the North American 
+Numbering Plan that pertain to the United States. Noth- 
+ing in this paragraph shall preclude the Commission 
+from delegating to State commissions or other entities all 
+or any portion of such jurisdiction. 
+
+
+(2) Costs 
+
+
+The cost of establishing telecommunications numbe- 
+ring administration arrangements and number portability 
+shall be borne by all telecommunications carriers on a 
+competively neutral basis as determined by the Commis- 
+sion. 
+
+
+(g) Continued enforcement of exchange access and inter- 
+connection requirements 
+
+
+On and after February 8, 1996, each local exchange 
+carrier, to the extent that it provides wireline services, shall 
+provide exchange access, information access, and exchange 
+services for such access to interexchange carriers and infor- 
+mation service providers in accordance with the same equal 
+access and nondiscriminatory interconnection restrictions and 
+obligations (including receipt of compensation) that apply to 
+such carrier on the date immediately preceding February 8, 
+1996 under any court order, consent decree, or regulation, 
+order, or policy of the Commission, until such restrictions and 
+obligations are explicitly superseded by regulations pre- 
+scribed by the Commission after February 8, 1996. During the 
+period beginning on February 8, 1996 and until such restric- 
+tions and obligations are so superseded, such restrictions and 
+obligations shall be enforceable in the same manner as regula- 
+tions of the Commission. 
+
+
+Al0 
+
+
+47 U.S.C. § 252(c), (d) 
+
+
+(c) 
+
+
+Standards for arbitration 
+
+
+In resolving by arbitration under subsection (b) of this 
+
+
+section any open issues and imposing conditions upon the 
+parties to the agreement, a State commission shall - 
+
+
+(d) 
+
+
+(1) ensure that such resolution and conditions meet 
+the requirements of section 251 of this title, including 
+the regulations prescribed by the Commission pursuant 
+to section 251 of this title; 
+
+
+(2) establish any rates for interconnection, ser- 
+vices, or network elements according to subsection (d) of 
+this section; and 
+
+
+(3) provide a schedule for implementation of the 
+terms and conditions by the parties to the agreement. 
+Pricing standards 
+(1) Interconnection and network element charges 
+
+
+Determinations by a State commission of the just 
+and reasonable rate for the interconnection of facilities 
+and equipment for purposes of subsection (c)(2) of sec- 
+tion 251 of this title, and the just and reasonable rate for 
+network elements for purposes of subsection (c)(3) of 
+such section - 
+
+
+(A) shall be - 
+
+
+(i) based on the cost (determined without 
+reference to a rate-of-return or other rate-based 
+proceeding) of providing the interconnection or 
+network-etement-(whichever is applicable), and 
+
+
+(ii) nondiscriminatory, and 
+(B) may include a reasonable profit. 
+(2) Charges for transport and termination of traffic 
+(A) In general 
+
+
+For the purposes of compliance by an incumbent 
+local exchange carrier with section 251(b)(5) of this 
+
+
+All 
+
+
+title, a State commission shall not consider the terms and 
+conditions for reciprocal compensation to be just and 
+reasonable unless — 
+
+
+(i) such terms and conditions provide for 
+the mutual and reciprocal recovery by each car- 
+rier of costs associated with the transport and 
+termination on each carrier's network facilities 
+of calls that originate on the network facilities 
+of the other carrier; and 
+
+
+(ii) such terms and conditions determine 
+such costs on the basis of a reasonable approx- 
+imation of the additional costs of terminating 
+such calls. 
+
+
+(B) Rules of construction 
+This paragraph shall not be construed - 
+
+
+(i) to preclude arrangements that afford 
+the mutual recovery of costs through the offset- 
+ting of reciprocal obligations, including 
+arrangements that waive mutual recovery (such 
+as bill-and-keep arrangements), or 
+
+
+(ii) to authorize the Commission or any 
+State commission to engage in any rate regula- 
+tion proceeding to establish with particularity 
+the additional costs of transporting or terminat- 
+ing calls, or to require carriers to maintain 
+records with respect to the additional costs of 
+such calls. 
+
+
+(3) Wholesale prices for telecommunications services 
+
+
+For the purposes of section 251(c)(4) of this title, a State 
+commission shall determine wholesale rates on the basis of 
+retail rates charges to subscribers for the telecommunications 
+service requested, excluding the portion thereof attributable 
+to any marketing, billing, collection, and other costs that will 
+be avoided by the local exchange carrier. 
+
+
+Al2 
+
+
+47 U.S.C. § 271(c)(2)(B)(xi), (xii) 
+(B) Competitive checklist 
+
+
+Access or interconnection provided or generally offered 
+by a Bell operating company to other telecommunications 
+carriers meets the requirements of this subparagraph if such 
+access and interconnection includes each of the following: 
+
+
+(xi) Until the date by which the Commission issues 
+regulations pursuant to section 251 of this title to require 
+number portability, interim telecommunications number 
+portability through remote call forwarding, direct inward 
+dialing trunks, or other comparable arrangements, with 
+as little impairment of functioning, quality, reliability, 
+and convenience as possible. After that date, full compli- 
+ance with such regulations. 
+
+
+(xii) Nondiscriminatory access to such services or 
+information as are necessary to allow the requesting 
+carrier to implement local dialing parity in accordance 
+with the requirements of section 251(b)(3) of this title. 
+
+
+47 U.S.C. § 271(e)(2) 
+(2) IntraLATA toll dialing parity 
+(A) Provision required 
+
+
+A Bell operating company granted authority to pro- 
+vide interLATA services under subsection (d) of this 
+section shall provide intraLATA toll dialing parity 
+throughout that State coincident with its exercise of that 
+authority. 
+
+
+(B) Limitation 
+
+
+Except for single-LATA States and States that have 
+issued an order by December 19, 1995, requiring a Bell 
+operating company to implement intraLATA toll dialing 
+parity, a State may not require a Bell operating company 
+to implement intraLATA toll dialing parity in that State 
+before a Bell operating company has been granted 
+
+
+Al3 
+
+
+authority under this section to provide interLATA ser- 
+vices originating in that State or before 3 years after 
+February 8, 1996, whichever is earlier. Nothing in this 
+subparagraph precludes a State from issuing an order 
+requiring intraLATA toll dialing parity in that State prior 
+to either such date so long as such order does not take 
+effect until after the earlier of either such dates. 
+
+
+47 U.S.C. § 410(c) 
+
+
+The Commission shall refer any proceeding regarding the 
+jurisdictional separation of common carrier property and 
+expenses between interstate and intrastate operations, which it 
+institutes pursuant to a notice of proposed rulemaking and, 
+except as provided in section 409 of this title, may refer any 
+other matter, relating to common carrier communications of 
+joint Federal-State concern, to a Federal-State Joint Board. 
+The Joint Board shall possess the same jurisdiction, powers, 
+duties, and obligations as a joint board established under 
+subsection (a) of this section, and shall prepare a recom- 
+mended decision for prompt review and action by the Com- 
+mission. In addition, the State members of the Joint Board 
+shall sit with the Commission en banc at any oral argument 
+that may be scheduled in the proceeding. The Commission 
+shall also afford the State members of the Joint Board an 
+opportunity to participate in its deliberations, but not vote, 
+when it has under consideration the recommended decision of 
+the Joint Board or any further decisional action that may be 
+required in the proceeding. The Joint Board shall be com- 
+posed of three Commissioners of the Commission and of four 
+State commissioners nominated by the national organization 
+of the State commissions and approved by the Commission. 
+The Chairman of the Commission, or another Commissioner 
+designated by the Commission, shall serve as Chairman of the 
+Joint Board. 
+
+
+Al4 
+
+
+§ 601(c)(1), Telecommunications Act of 1996, Pub.L. 
+104-104, Title VI, § 601(c)(1), 110 Stat. 143 (Feb. 8, 1996) 
+
+
+(c) Federal, State, and local law — 
+
+
+(1) No implied effect. — This Act and the amendments 
+made by this Act shall not be construed to modify, impair, or 
+supersede Federal, State, or local law unless expressly so 
+provided in such Act or amendments. 
+
+

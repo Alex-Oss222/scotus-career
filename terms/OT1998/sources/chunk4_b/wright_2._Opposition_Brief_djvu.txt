@@ -1,0 +1,987 @@
+No. 98-783 
+
+
+In the Supreme Court of the Gnited States 
+
+
+OCTOBER TERM, 1998 
+
+
+IRENE L. WRIGHT, on behalf of herself 
+and all others similarly situated, 
+
+
+Petitioner, 
+Vv. 
+
+
+ERNST & YOUNG LLP, 
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the United 
+States Court of Appeals for the Second Circuit 
+
+
+BRIEF FOR THE RESPONDENT IN OPPOSITION 
+
+
+ROBERT J. WARD BRUCE M. CORMIER* 
+
+Mayer, Brown & Platt Ernst & Young LLP 
+1675 Broadway 1225 Connecticut Ave., N.W. 
+New York, NY 10019 Washington, DC 20036 
+(212) 506-2500 (202) 327-7603 
+
+MICHELE ODORIZZI KATHRYN A. OBERLY 
+
+
+Mayer, Brown & Platt MICHAEL J. CRANE 
+190 South LaSalle Street Ernst & Young LLP 
+
+
+Chicago, Illinois 60604 787 Seventh Avenue 
+(312) 782-0600 New York, NY 10019 
+(212) 773-2500 
+
+
+Attorney for Respondent 
+*Counsel of Record 
+
+
+; ‘ 
+g 
+
+| ; 
+oa 2A ORR ION cg 4 
+
+
+FRc toe eo 
+MIA TREE 
+esa TH, 
+
+
+sonst eM . ries 
+
+
+QUESTION PRESENTED 
+
+
+Whether, under Section 10(b) of the Securities Exchange 
+Act of 1934, persons who purchased stock in a company that 
+issued a press release containing allegedly false and 
+misleading information, with a notation that the information 
+was unaudited and without mention of its outside auditor, can 
+recover from the outside auditor based on its private approval 
+of the information contained in the press release. 
+
+
+(I) 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+
+SPUN GMAT URE REED 5 co oop 0 be hw Biba oa ees (I) 
+RINE A RET os a 5 oes wale 0 ow ill 
+MINE ocak Baie osha gly | peg ae 3 
+1. The Complaint’s Allegations. ........... 3 
+
+ce: Se ONE ok Ses oe: 4 
+REASONS FOR DENYING THE WRIT ......... 5 
+
+
+I. THE QUESTION PRESENTED BY PETITIONER 
+IS NOT RAISED IN THIS CASE........... 7 
+
+
+fl. EVEN UNDER THE NINTH CIRCUIT TEST. 
+PETITIONER’S CLAIM WOULD FAIL ...... 8 
+
+
+fil. ANIXTER AND THE DECISION BELOW APPLY 
+SI PE Sb eg ee 12 
+
+
+IV. THE VACATED KLEIN DECISION OFFERS NO 
+REASON TO REVIEW THIS CASE ......... 14 
+
+
+V. ALLEGED SECOND CIRCUIT CONFUSION 
+SHOULD NOT PROMPT— THIS COURT'S 
+WE eh ke te aa ha a 15 
+
+
+ill 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page(s) 
+
+Adam v. Silicon Valley Bancshares, 
+
+S54 F. Sapp. 1596 OND. Cal. 1995)- . 2. a es 8 
+Anixter v. Home-State Product Co. ., 
+
+Ti Ou CARD CEE CH, 9) a a Sw ee passim 
+Cashman v. Coopers & Lybrand, 877 
+
+PF. Seop. 425 (8.D. Ei. 8999) wk ke es 9, 10 
+Central Bank of Denver v. First Interstate 
+
+Bank of Denver, 511 U.S. 164 (1994) ..... passim 
+In re Cascade Int’l Sec. Litig., 894 
+
+P. Sap. 437 6.22. Bek PO a ee ee 9 
+In re Gas Reclamation, Inc. Sec. Litig., 659 
+
+P. . AIS SPAS. TOOT) i io ee eS Ss 10 
+In re Software Toolworks Inc., 
+
+50 F.36 GiS tom Cor. 1996) cs. ee ae 5, 8, 10 
+In re ZZZZ Best Sec. Litig., 864 F. Supp. 
+
+OO Cote: Ce Se ee Ce ee eee 8 
+Klein v. Boyd, [Current Transfer Binder] 
+
+Fed. Sec. L. Rep. (CCH) $90,136 (3d Cir. 
+
+Feb. 12, 1998), vacated [Current Transfer 
+
+Binder] ¢ 90,165 (3d Cir. Mar. 9, 1998) ... 5-6, 14 
+Latigo v. Laventhol & Howath, 876 F.2d 
+
+eee Ce ee ek oe Oe oe eee 9 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+Phillips v. Kidder, Peabody & Co., 933 
+
+F. Supp. 303 (S.D.N.Y. 1996), aff'd, 
+
+106. F356 Lr (26 Ga Wee) ee eS 8 
+SEC v. First Jersey Securities Inc., 
+
+BO: B30 BO Ge oe, Se re eee 15 
+SEC vy. U.S. Environmental, Inc. , 
+
+150 Foe FCT Ca Be he ee we a 15-16 
+Shapiro v. Cantor, 123 F.3d 717 
+
+(Ga Cae eee ae eee ea ee passim 
+Vosgerichian v. Commodore Int’l, 
+
+e602 F. Sapp. 1371 GD: Pe. 1990). ck 11 
+Wells v. Monarch Capital Corp. , [1996-1997 
+
+Transfer Binder], Fed. Sec. L. Rep. (CCH) 
+
+¢ 99,344 (D. Mass. Oct. 22, 1996), 
+
+and, 129 #36 1253, GO. IFN 6 os ss 11 
+Wisniewski v. United States, 353 U.S. 901 
+
+CRS ee ee Sa a ee eee ee ee 15 
+Statutes 
+7 Ci ee on ee ee a kee eee. l 
+
+
+KUL th. . 1 
+
+
+V 
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+
+
+Miscellaneous 
+
+
+| [CCH] AICPA, Professional Standards, Statements 
+on Auditing Standards No. 1, AU § 110.02 
+
+
+5C Arnold S. Jacobs, Litigation And Practice 
+Under Rule 10b-5, § 66.01(d) (1977) 
+
+
+ae 
+
+
+Jn the Supreme Court of the Anited States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 98-783 
+
+
+IRENE L. WRIGHT, on behalf of herself 
+and all others similarly situated, 
+
+
+Petitioner, 
+Vv. 
+
+
+ERNST & YOUNG LLP, 
+
+
+Respondent. 
+
+
+On Petition for a Writ of Certiorari to the United 
+States Court of Appeals for the Second Circuit 
+
+
+BRIEF FOR THE RESPONDENT IN OPPOSITION 
+
+
+Petitioner seeks review f a decision of the United States 
+Court of Appeals for the Second Circuit affirming the 
+dismissal of her complaint under Section 10(b) of the 
+Securities Exchange Act, 15 U.S.C. § 78j, and Rule 10b-5 
+thereunder, 17 C.F.R. § 240.10b-5, against respondent Ernst 
+& Young LLP (“Emst & Young”) in connection with her 
+purchase of common stock of BT Office Products 
+International (“BT” or “the Company”). The district court 
+dismissed the action because petitioner sought to base liability 
+not on any misstatement made by Ernst & Young, but rather 
+on a BT press release announcing the Company’s unaudited 
+year-end financial results that did not mention Ernst & Young 
+and that explicitly described the financial results as 
+“unaudited.” In the district court’s view, petitioner’s claim 
+was an impermissible attempt to end-run this Court’s decision 
+in Central Bank of Denver v. First Interstate Bank of Denver, 
+511 U.S. 164 (1994), which held that there can be no liability 
+
+
+2 
+
+
+in private damage actions for aiding and abetting alleged 
+violations of Section 10(b) and Rule 10b-5. The Second 
+Circuit affirmed, holding that petitioner’s claim is foreclosed 
+by Central Bank and by its earlier decision in Shapiro v. 
+Cantor, 123 F.3d 717 (2d Cir. 1997), which adopted a 
+“bright line” test requiring a material misstatement or 
+omission by the defendant, as opposed to mere review and 
+approval of another party’s misstatement or omission, as a 
+prerequisite to liability. The Second Circuit also concluded 
+that petitioner’s claim would be defective even under the 
+“substantial participation” test adopted by the Ninth Circuit 
+because there is no allegation that Ernst & Young participated 
+in the creation of the BT press release. 
+
+
+In attempting to persuade this Court that the decision 
+below is worthy of review, petitioner argues that there is 
+serious circuit conflict and confusion on the scope of liability 
+for Section 10(b) violations following Central Bank. As 
+shown below, however, the particular question presented by 
+the Petition — whether an auditor can be held liable for 
+communicating false information to a company that it knows 
+the company will disclose — is not even raised in this case, 
+for there is no allegation that Ernst & Young’s private advice 
+to its client BT ever became public. Moreover, a ruling by 
+this Court on the appropriate standard for liability would be 
+premature, as that issue is now just beginning to percolate at 
+the circuit level. Thus far, one circuit, the Tenth, has joined 
+the court below in applying a “bright line” test that requires, 
+as a prerequisite for liability, a material misstatement (or 
+omission) that is made by the defendant and relied on by the 
+plaintiff. Another circuit, the Ninth, has adopted an 
+apparently more liberal “substantial participation” test that 
+imposes liability on those who play a key role in creating a 
+material misstatement that is in fact made by someone else. 
+Petitioner fails to acknowledge, however, that even under the 
+Ninth Circuit test, there could be no liability here because 
+there is no allegation that Ernst & Young contributed to the 
+
+
+3 
+
+
+creation of BT’s press release. Petitioner’s inability to cite a 
+single decision applying any legal standard that would sustain 
+her allegations demonstrates the unworthiness of her 
+complaint and this Petition. 
+
+
+STATEMENT 
+
+
+1. The Complaint’s Allegations. On January 30, 
+1996, BT issued a press release announcing its unaudited 
+1995 financial results. The press release expressly described 
+the Company’s financial results as “unaudited” and made no 
+mention of Ernst & Young, BT’s independent outside auditor. 
+Pet. Sa. 
+
+
+Three months later, on March 28, 1996, BT announced 
+that it had discovered accounting and financial reporting 
+irregularities, as well as inventory theft and embezzlement, at 
+one of its subsidiaries and that, as a result, it was reducing its 
+previously reported (unaudited) net income for the year. Pet. 
+Sa. Approximately two weeks after that announcement, 
+petitioner filed a class action lawsuit in the Southern District 
+of New York, accusing the Company and a number of its 
+officers of securities fraud. Pet. 3a-4a. In March 1997, 
+those defendants agreed to pay $1,480,000 to the class in 
+settlement of these claims. Pet. 4a. 
+
+
+On the last day before the statute of limitations would 
+otherwise have expired, petitioner filed a second class action 
+complaint against Ernst & Young. The only actionable 
+misstatements alleged in the complaint were statements made 
+by BT in its January 30 press release announcing the 
+Company’s unaudited 1995 financial results. Petitioner 
+alleged that Ernst & Young was responsible for the press 
+release because it was supposedly reckless in not discovering, 
+before the release was made, that rogue employees of the 
+Company had engaged in theft and fraud. Petitioner alleged 
+that before BT issued the January 30 press release, Ermst & 
+Young had provided “oral assurances” to the Company that 
+its 1995 financial statements were accurate. She further 
+
+
+4 
+
+
+claimed that it was based on these assurances that BT made 
+its earnings announcement. Although the complaint alleged 
+that “the market” believed that the release of BT’s 1995 
+financial results must have been approved by Ernst & Young 
+because companies do not issue such press releases without 
+their outside auditors’ approval, the press release itself did 
+not substantiate that allegation. Instead, it described BT’s 
+1995 financial results as “unaudited.” Pet. 3a-Sa. 
+
+
+2. The Decisions Below. The district court granted 
+Ernst & Young’s motion to dismiss, holding that petitioner’s 
+allegations would be insufficient under any standard of 
+primary liability adopted by the federal courts in the 
+aftermath of Central Bank. Pet. 23a-25a. The court 
+correctly observed (see n.3 infra) that “[v]irtually all cases 
+. . . have required a greater degree of participation in the 
+fraudulent conduct than the mere review and approval of 
+unaudited figures.” Pet. 24a. The court rejected petitioner’s 
+claim that Ernst & Young had “endorsed” the Company’s 
+January 30 announcement; given the press release’s 
+characterization of the Company’s financial results as 
+unaudited, “E&Y’s only ‘representation’ as to the accuracy 
+of those figures was that it made no representation at all.” 
+Pet. 23a-24a. The court concluded that sustaining the 
+complaint in light of Ernst & Young’s “clearly tangential role 
+in the alleged fraud would effectively revive aiding and 
+abetting liability under a different name, and would therefore 
+run afoul of the Supreme Court’s holding in Central Bank.” 
+Pet. 25a. 
+
+
+The Second Circuit affirmed, relying on Central Bank 
+and its own recent decision in Shapiro. In Shapiro, the court 
+noted two differing standards in determining liability for 
+Section 10(b) violations and elected to follow a “bright line” 
+test under which the defendant cannot be held liable unless it 
+actually made a material misstatement or omission on which 
+the plaintiff relied. 123 F.3d at 720. Anything short of such 
+conduct, the court concluded, was mere aiding and abetting, 
+
+
+5 
+
+
+which is insufficient to trigger liability under Central Bank. 
+Id. 
+
+
+In the instant case, the Second Circuit held that the 
+requisite standard was not satisfied because: 
+
+
+BT’s press release did not attribute any assurances to 
+Ernst & Young and, in fact, did not mention Ernst & 
+Young at all. Thus, Ernst & Young neither directly nor 
+indirectly communicated misrepresentations to investors. 
+Therefore, the amended complaint failed to allege that 
+Ernst & Young made “a material misrepresentation (or 
+Omission) on which a purchaser or seller of securities 
+relie[d].” Central Bank, 511 U.S. at 191. 
+
+
+Pet. 12a-13a. 
+
+
+Nor would the result likely be any different, the court 
+reasoned, under the Ninth Circuit’s “substantial participation” 
+test. See Pet. 14a. Although declining to adopt that 
+standard, the Second Circuit concluded that under it, “we 
+would be hard pressed to conclude that the amended 
+complaint alleged an actionable misrepresentation within the 
+meaning of § 10(b).” Pet. 14a. 
+
+
+REASONS FOR DENYING THE WRIT 
+
+
+The Petition advances four principal reasons for review. 
+First, petitioner argues that the Second Circuit standard is at 
+odds with the Ninth Circuit’s “substantial participation” test 
+that was announced in a footnote in In re Software Toolworks 
+Inc., 50 F.3d 615, 628 n.3 (9th Cir. 1994). Second, 
+petitioner asserts that the decision below conflicts with the 
+Tenth Circuit’s ruling in Anixter v. Home-State Product Co., 
+77 F.3d 1215 (10th Cir. 1996), a leading decision addressing 
+the scope of liability in the wake of Central Bank. Third, 
+petitioner claims to have found yet a third test for primary 
+liability in the Third Circuit’s vacated decision in Klein y. 
+Boyd, {Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 4 
+90,136 (3d Cir. Feb. 12, 1998), vacated [Current Transfer 
+
+
+6 
+
+
+Binder] ¢ 90,165 (3d Cir. Mar. 9, 1998). Finally, petitioner 
+urges that review by this Court is necessary because of 
+internal confusion within the Second Circuit on the 
+appropriate liability standard. 
+
+
+As explained below, review should be denied because the 
+question presented by petitioner is not even raised by the 
+allegations in this case. Further, although the “substantial 
+participation” test appears to differ from the “bright line” 
+rule followed by the Second and Tenth Circuits, the Ninth 
+Circuit standard has thus far gained no sizable following and, « 
+as the courts below recognized, would not save petitioner’s 
+claim in any event. These factors make this case a 
+particularly poor vehicle for addressing the primary liability 
+issue. 
+
+
+In addition, there is no conflict between the Tenth and 
+Second Circuits. The Anixter standard is the same as the 
+Second Circuit test - unsurprising given that the court below 
+cited Anixter favorably in this case and in Shapiro. That 
+leaves petitioner’s contentions that this Court should exercise 
+its discretionary jurisdiction because of an allegedly 
+conflicting - but vacated - panel decision in Klein and 
+because of supposed intra-circuit confusion. Neither ground 
+would be good reason for granting review, and neither ground 
+is meritorious even if it were certworthy. 
+
+
+Finally, the time is not yet ripe for this Court to address 
+the precise scope of primary liability under Section 10(b) 
+following Central Bank. That issue is only beginning to be 
+considered in the courts of appeals. If this Court’s 
+intervention is ultimately needed, the Court will benefit from 
+consideration of the issue in a number of different factual 
+contexts by a number of different courts. 
+
+
+7 
+
+
+I. THE QUESTION PRESENTED BY PETITIONER IS 
+NOT RAISED IN THIS CASE s 
+
+
+Petitioner seeks this Court’s review of the question: 
+
+
+Can a secondary actor not identified in a public statement 
+incur primary liability under Section 10(b) of the 
+Securities Exchange Act of 1934 where he communicates 
+false information to an issuer knowing that the issuer will 
+publish that information? 
+
+
+Pet. i, 5. That question is irrelevant to this case because 
+there is no allegation that BT published any information 
+communicated to it by Ernst & Young. 
+
+
+Petitioner insists that Ernst & Young made material 
+misrepresentations when it supposedly advised BT that the 
+Company’s unaudited 1995 financial results were sufficiently 
+accurate to be disclosed and that the January 30 press release 
+could be issued. Pet. 2, 14. But there is no allegation that 
+this particular private advice ever made its way to the class, 
+directly or indirectly. Rather, the only actionable 
+misstatements alleged in the complaint were contained in the 
+Company’s press release, which did not even mention Ernst 
+& Young: 
+
+
+BT’s press release did not attribute any assurances to 
+Ernst & Young and, in fact, did not mention Ernst & 
+Young at all. Thus, Ernst & Young neither directly nor 
+indirectly communicated misrepresentations to investors. 
+
+
+Pet. 12a. As the court below aptly observed, “BT issued the 
+press release without a whisper of Ernst & Young’s 
+involvement.” Pet. 15a.' 
+
+
+! Financial statements are, by definition, a representation by the 
+company. That remains true even when the financial statements 
+have beer. audited. The only statement by the independent outside 
+auditor is the audit opinion itself. See 1 [CCH] AICPA, 
+
+
+8 
+
+
+Accordingly, if this Court were inclined to address the 
+particular question presented by petitioner, it would have to 
+do so on facts other than those alleged below. Petitioner’s 
+question, unlike petitioner’s allegations, postulates a defendant 
+communicating “false information to an issuer knowing that 
+the issuer will publish that information.” Pet. (i), 5. 
+(emphasis added). Because there is no allegation that Ernst 
+& Young’s private advice to its client was ever made public, 
+the question presented by petitioner simply does not arise in 
+this case. 
+
+
+fl. EVEN UNDER THE NINTH CIRCUIT TEST, 
+PETITIONER’S CLAIM WOULD FAIL 
+
+
+Petitioner correctly observes that “substantial 
+participation” by a defendant in the creation of a material 
+misstatement made by someone else is apparently sufficient 
+in the Ninth Circuit to state a claim for primary liability. 
+Pet. 8. See In re Software Toolworks Inc., 50 F.3d 615, 628 
+n.3 (9th Cir. 1994); Adam v. Silicon Valley Bancshares, 884 
+F. Supp. 1398, 1401 (N.D. Cal. 1995); In re ZZZZ Best Sec. 
+Litig., 864 F. Supp. 960, 966 (C.D. Cal. 1994).? 
+
+
+Professional Standards, Statements on Auditing Standards (“SAS”) 
+No. 1, AU § 110.02 (“The financial statements are management’s 
+responsibility. The auditor’s responsibility is to express an opinion 
+on the financial statements.”). Thus, when a company discloses its 
+year-end financial results before the auditor has issued any opinion, 
+as BT did in this case, the only statement being made is a statement 
+by the company. 
+
+
+Some of the other authorities that petitioner cites to support 
+liability under a “substantial participation” standard are curious in 
+that they either do not follow that test or, alternatively, make it 
+plain that petitioner’s claim would not succeed under that standard. 
+For example, petitioner cites Phillips v. Kidder, Peabody & Co., 
+933 F. Supp. 303 (S.D.N.Y. 1996), aff'd, 108 F.3d 1370 (2d Cir. 
+1997), as a case applying a “substantial assistance” test. Pet. 7. 
+
+
+9 
+
+
+What petitioner fails to address, however, is that even if 
+a “substantial participation” test were applied here, the result 
+would be the same. There is no allegation that Ernst & 
+Young had any involvement in preparing BT’s press release. 
+Petitioner’s only claim is that Emst & Young gave oral 
+assurances to the Company about the accuracy of the then- 
+unaudited 1995 financial results and that those assurances 
+prompted BT to issue the release. Pet. 14. No case decided 
+after Central Bank has held that an accountant’s private 
+approval of a client’s public communication is sufficient to 
+state a claim for securities fraud. On the contrary, all of the 
+authorities, pre- and post-Central Bank, reject any such 
+claim.* 
+
+
+In fact, in this pre-Shapiro case, the court observed that the Second 
+Circuit had not yet addressed what is necessary for the imposition 
+of primary liability and did not decide which approach to follow 
+because Kidder was potentially liable “fe]ven under the more 
+stringent test.” 933 F. Supp. at 315. 
+
+
+Further, although the court in Cashman y. Coopers & 
+Lybrand, 877 F. Supp. 425 (N.D. Ill. 1995) (cited at Pet. 7), 
+framed its analysis in terms of Coopers’s “substantial participation” 
+in the alleged fraud, it nonetheless applied the Seventh Circuit rule 
+antedating Central Bank that “primary liability under § 10(b) also 
+requires an accountant’s alleged misstatement to be certified, 
+audited, prepared or reported.” Jd. at 432. There is no allegation 
+in this case that could possibly meet that standard. 
+
+
+> See, e.g., Latigo v. Laventhol & Howath, 876 F.2d 1322, 
+1326-1327 (7th Cir. 1989) (accounting firm that performed 
+quarterly reviews, but did not issue any audit opinion, could not be 
+held responsible for the alleged misstatements in the company’s 
+reports of its interim financial results); Jn re Cascade Int’l Sec. 
+Litig., 894 F. Supp. 437, 443 (S.D. Fla. 1995) (“if an accountant 
+does not issue a public opinion about a company, although it may 
+have conducted internal audits or reviews for portions of a 
+company, the accountant cannot subsequently be held responsible 
+
+
+10 
+
+
+The allegations of primary wrongdoing in the Ninth 
+Circuit cases are far more substantial than what petitioner 
+alleges here. For example, in Jn re Software Toolworks, the 
+accountant, Deloitte & Touche, was not entitled to summary 
+judgment on the Section 10(b) claim because it allegedly had 
+played a key role in reviewing, drafting, and editing two 
+letters to the SEC that were misleading. 50 F.3d at 628 n.3. 
+A basis for primary liability existed, according to the Ninth 
+Circuit, because: 
+
+
+the July 1 SEC letter stated that it “was prepared after 
+extensive review and discussions with . . . Deloitte” and 
+actually referred the SEC to two Deloitte partners for 
+further information. . . . Similarly, the plaintiffs 
+presented evidence that Deloitte played a significant role 
+in drafting and editing the July 4 SEC letter. 
+
+
+Id. 
+
+
+Here, in contrast, the most that petitioner could muster 
+is an allegation that BT prepared its own misleading press 
+release based on erroneous advice from Ernst & Young - a 
+prototypical aiding and abetting claim* now proscribed under 
+
+
+for the company’s public statements issued later...”); In re Gas 
+Reclamation, Inc. Sec. Litig., 659 F. Supp. 493, 505 (S.D.N.Y. 
+1987) (accounting firm could not be held liable for alleged 
+misstatements in company’s disclosures “where it has not given 
+some representation or certification, such as an opinion or certified 
+statement, or has not invited the public to rely on the firm’s 
+financial judgment at the time”); Cashman, 877 F. Supp. at 432 
+(“[p]rimary liability under §10(b) also requires an accountant’s 
+alleged misstatement to be certified, audited, prepared or 
+reported”). 
+
+* A leading securities commentator has characterized the very 
+allegations made in petitioner’s complaint as asserting an aiding and 
+abetting claim: “The accountant would be liable as an aider and 
+abettor if it prepares false unaudited figures or suggests that the 
+
+
+il 
+
+
+Central Bank, which requires proof of “all” of the elements 
+of a Section 10(b) violation, including “a _ material 
+misstatement (or cmission) on which a purchaser or seller of 
+securities relies ....~ Central Bank, 511 U.S. at 191. 
+Thus, as recognized below, petitioner’s allegations against 
+Ernst & Young fell short whether analyzed under the Ninth 
+Circuit “substantial participation” standard or under the 
+Second Circuit “bright line” rule. See Pet. i4a, 24-25a.° 
+
+
+There may be significant differences im some cases 
+between the “bright line” rule adopted by the Second and 
+Tenth Circuits and the “substantial participation” test 
+suggested by the Ninth Circuit ir determining»the scope of 
+primary liability under Section 10(b). The tower courts 
+continue to debate which of the standards is more faithful to 
+the statute and to this Court’s decision in Central Bank. That 
+issue may someday require resolution by this Court. A 
+choice among competing standards would make no sense in 
+this case, however, where petitioner’s allegations are so 
+deficient that dismissal is required regardless of which 
+standard is applied. 
+
+
+company release misleading statements.” SC Arnold S. Jacobs, 
+Litigation And Practice Under Rule 10b-5, § 66.01(d), at 3-504 
+(1977) (emphasis added). 
+
+
+> See also Vosgerichian v. Commodore Int’l, 862 F. Supp. 1371, 
+1378 (E.D. Pa. 1994) (allegations that an accounting firm 
+consulted, advised, and guided client in making misrepresentations 
+insufficient to state a claim for securities fraud); Wells v. Monarch 
+Capital Corp., [1996-1997 Transfer Binder], Fed. Sec. L. Rep. 
+(CCH) { 99,344, at 96,091 (D. Mass. Oct. 22, 1996), aff'd, 129 
+F.3d 1253, (1st Cir. 1997) (allegations that misleading documents 
+that were “prepared under the direction of” an accountant who was 
+“responsible for their accuracy and completeness” were “claims for 
+aiding and abetting under either approach, and are barred by the 
+Central Bank decision”) (internal quotation marked omitted). 
+
+
+12 
+
+
+Ii. ANIXTER AND THE DECISION BELOW 
+APPLY THE SAME TEST 
+
+
+Ever in search of a conflict, petitioner argues that the 
+decision below is incompatible with the Tenth Circuit’s ruling 
+in Anixter. Pet. 4. Specifically, petitioner insists that Anixter 
+properly recognizes that a defendant can be liable for making 
+an “indirect” material misstatement to investors, while the 
+Second Circuit supposedly rejected that principle. Pet. 4, 7. 
+
+
+Petitioner is forced to concede, however (see Pet. 9-10), 
+that this argument does not survive a fair reading of the 
+Second Circuit’s opinion. The court below explicitly 
+recognized that “‘[t]here is no requirement that the alleged 
+violator directly communicate misrepresentations to 
+[investors] for primary liability to attach.’” Pet. 12a (quoting 
+Anixter, 77 F.3d at 1226). 
+
+
+Petitioner nonetheless persists in urging that the Second 
+Circuit has “effectively” eliminated liability for “indirect” 
+misrepresentations by requiring that any alleged misstatement 
+be attributed to the defendant. Pet. 4, 10. Anixter, however, 
+enforced the same requirement in holding, like the court 
+below, that an alleged material misstatement must have been 
+made by the defendant, and not someone else, in order for 
+liability to attach. 
+
+
+In Anixter, the court cautioned that “for an accountant’s 
+misrepresentation to be actionable as a primary violation, 
+there must be a showing that he knew or should have known 
+that his representation would be communicated to investors 
+because § 10(b)-and Rule 10b-5 focus on fraud made ‘in 
+connection with the sale or purchase’ of a security.” 77 F.3d 
+at 1226 (emphasis added). The Tenth Circuit explained that 
+this requirement is essential after Central Bank and expressly 
+rejected the view that the “‘substantial assistance’ element of 
+aiding and abetting liability” can be “reformulate[d]” by the 
+simple expedient of making an accountant liable for a client’s 
+
+
+13 
+
+
+Statement. 77 F.3d at 1226 n.10. In the Tenth Circuit’s 
+view: 
+
+
+The critical element separating primary from aiding and 
+abetting violations is the existence of a representation 
+either by statement or omission, made by the defendant, 
+that is relied upon by the plaintiff. Reliance only on 
+representations made by others cannot itself form the 
+basis of liability. See Central Bank of Denver, 511 U.S. 
+at 176-178, 114 S. Ct. at 1448. 
+
+
+Anixter, T7 F.3d at 1225. This is the very same “bright line” 
+tule adopted by the Second Circuit in Shapiro and applied by 
+the court below. See Pet. 11a. 
+
+
+Significantly, in applying that standard, the Tenth Circuit 
+differentiated between primary and secondary claims in the 
+same way that the Second Circuit distinguished between them 
+in this case. The accountant in Anixter, Cross, had issued 
+audit opinions on the financial statements of his client, Home- 
+Stake, and had also assisted Home-Stake in preparing limited 
+partnership offering materials. The court concluded that 
+Cross could be held liable for his own public statements in 
+the form of opinions - which, of course, were publicly 
+attributed to him - but could nor be held liable for his client’s 
+statements even though he may have contributed substantially 
+to creating them. The court reversed a forty million dollar 
+judgment in a twenty-year-old case because it was unclear 
+from the verdict whether the jury had found Cross liable 
+because of his role in Home-Stake’s misrepresentations “or 
+whether his liability rested on actual representations he made 
+that reached investors.” Jd. at 1230-1231. 
+
+
+The court below likewise concluded that one cannot 
+transform secondary liability claims prohibited by Central 
+Bank into legitimate primary claims by the simple expedient 
+of tagging the secondary actor, in this case the accountant, 
+with the client’s statement. Accordingly, there is no 
+substance to thi: supposed conflict - or to petitioner’s dark 
+
+
+14 
+
+
+prediction that the Second Circuit has “effectively eliminated 
+liability for any indirect misstatements by a party no matter 
+the degree of culpability of that party in perpetrating a fraud 
+on the public.” Pet. 10. 
+
+
+IV. THE VACATED KLEIN DECISION OFFERS NO 
+REASON TO REVIEW THIS CASE 
+
+
+The Petition relies heavily on the panel decision in Klein 
+v. Boyd, {Current Transfer Binder] Fed. Sec. L. Rep. (CCH) 
+¢ 90,136 (3d Cir. Feb. 12, 1998), vacated [Current Transfer 
+Binder] ¢ 90,165 (3d Cir. Mar. 9, 1998), arguing that Klein 
+is “remarkably similar” to this case (Pet. 5), and that the 
+Third Circuit adopted a liability standard that differs from 
+both the Second and Ninth Circuit tests. See Pet. 12-15. 
+Even if this characterization of the decision were accurate, 
+the fact that Klein was vacated wipes out any conflict. A 
+recent Third Circuit order dismissing the Klein appeal also 
+ensures that the panel decision will not be reinstated on en 
+banc review. Klein v. Boyd, Nos. 97-1143 and 97-1261, 
+Order dated Nov. 12, 1998. 
+
+
+In any case, petitioner's characterization of Klein is 
+inaccurate. The liability standard adopted by the panel 
+decision is essentially the same as the Ninth Circuit test, as 
+it would have imposed liability “when the person's 
+participation in the creation of a statement containing a 
+misrepresentation or omission of material fact is sufficiently 
+significant that the statement can properly be attributed to that 
+person as its author or co-author.” Klein, [Current Transfer 
+Binder] Fed. Sec. L. Rep. (CCH) at 90,2525. 
+
+
+Equally important, the factual allegations in Klein differ 
+markedly from the allegations here. The lawyer-defendants in 
+Klein were the primary authors of the allegedly misleading 
+partnership disclosure packages (id. at 90,320). In this case, 
+by contrast, there is no allegation that Emst & Young 
+contributed at all to drafting the BT press release. Thus, 
+even if Klein were valid precedent (which it is not), there is 
+
+
+renee ———EEeEeEeEeEEEE—————————eEEee 
+
+
+15 
+
+
+no reason to believe that petitioner would enjoy any more 
+success under the Klein standard than under the Second 
+Circuit test. 
+
+
+Vv. ALLEGED SECOND CIRCUIT CONFUSION 
+SHOULD NOT PROMPT THIS COURT’S REVIEW 
+
+
+Petitioner argues that the Second Circuit has issued 
+inconsistent decisions on the scope of liability under Section 
+10(b), “indicating that the time is ripe for this Court to clarify 
+its decision in Central Bank.” Pet. 8. It is well established, 
+however, that conflicting decisions within a circuit raise a 
+problem to be resolved by that circuit rather than by review 
+in this Court. See, e.g., Wisniewski v. United States, 353 
+U.S. 901, 902 (1957). 
+
+
+Further, as the court below recognized (Pet. 13a-1i4a), 
+there is no conflict between the decision below or Shapiro 
+and the court’s prior decision in SEC v. First Jersey Securities 
+Inc., 101 F.3d 1450 (2d Cir. 1996). In First Jersey 
+Securities, a fraud action brought by the SEC, the Second 
+Circuit held that where the sole owner, officer, and director 
+of a company - Brennan - directed the employees of his 
+company - First Jersey - to make false and misleading 
+statements to customers as part of an elaborate scheme to 
+defraud, Brennan was primarily liable for the actions of his 
+employees, and responsible also as a “controlling person” 
+under the Securities Exchange Act. 101 F.3d at 1471-1474. 
+First Jersey Securities thus stands for the proposition that the 
+owner and chief executive officer of a business cannot escape 
+responsibility for securities frauds committed by his 
+employees when the fraud “could only have occurred at the 
+direction of upper level management,” and when the 
+defendant “was engaged in the purposeful planning” of the 
+fraud. 103 F.3d at 1471-1472. : 
+
+
+Similarly, petitioner’s contention (Pet. 9), that the Second 
+Circuit recently retreated from its “bright line” rule in SEC 
+v. U.S. Environmental, Inc., 155 F.3d 107 (2d Cir. 1998), 
+
+
+16 
+
+
+reflects a misreading of that case. The court acknowledged 
+that Section 10(b) prohibits market manipulation (id. at 108), 
+and that a defendant who effects “the very buy and sell orders 
+that manipulated [the company’s] stock upward” is primarily 
+liable for the violation. 155 F.3d at 112. As the court 
+observed, “if the trader who executes manipulative buy and 
+sell orders is not a primary violator, it is difficult to imagine 
+who would remain liable after Central Bank.” Id. 
+
+
+Finally, we disagree that the time is ripe for this Court 
+to clarify the scope of liability in the wake of Central Bank. 
+Only three federal circuits have addressed the issue, which is 
+in a state of flux and would undoubtedly benefit from further 
+consideration by the lower courts. 
+
+
+CONCLUSION 
+The petition for a writ of certiorari should be denied. 
+Respectfully submitted. 
+
+
+ROBERT J. WARD BRUCE M. CORMIER* 
+Mayer, Brown & Platt Ernst & Young LLP 
+1675 Broadway 12°5 Connecticut Ave., N.W. 
+New York, NY 10019 Washington, DC 20036 
+(212) 506-2500 (202) 327-7603 
+
+MICHELE ODORIZZI KATHRYN A. OBERLY 
+
+
+Mayer, Brown & Platt MICHAEL J. CRANE 
+190 South LaSalle Street Ernst & Young LLP 
+Chicago, Illinois 60604 787 Seventh Avenue 
+(312) 782-0600 New York, NY 10019 
+(212) 773-2500 
+
+
+Attorney for Respondent 
+*Counsel of Record 
+
+
+DECEMBER 1998 
+
+
+| 
+ON See ee aN ee Re ee ee ee ee EN gt 
+
+

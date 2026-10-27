@@ -1,0 +1,2322 @@
+ape Vout, U.S. 
+I 
+
+
+N FILED. 
+98 564 00 2 1998 
+
+
+No. FTI OF THE CLERK 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1997 
+
+
+WILLIAM JEFFERSON CLINTON, ET AL., APPELLANTS 
+v. 
+
+
+MATTHEW GLAVIN, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF VIRGINIA 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+
+
+MARK B. STERN 
+
+MICHAELS. RAAB 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the instant challenge to the Secretary of 
+Commerce’s current plan for the year 2000 census pre- 
+sents a justiciable controversy satisfying the require- 
+ments of Article III of the Constitution. 
+
+
+2. Whether the Census Act, 13 U.S.C. 1 et seg. (1994 
+& Supp. II 1996), prohibits the Secretary from employ- 
+ing statistical sampling in determining the population 
+for the purpose of apportioning Representatives among 
+the States. 
+
+
+3. Whether the Secretary’s plan for the 2000 census 
+violates either Article I, Section 2 of the Constitution, 
+or Section 2 of the Fourteenth Amendment. 
+
+
+II 
+
+
+PARTIES TO THE PROCEEDINGS 
+
+
+The appellants here, who were the defendants in the 
+district court, are William Jefferson Clinton, President 
+of the United States; the United States Department of 
+Commerce; William M. Daley, Secretary of the United 
+States Department of Commerce; the Bureau of the 
+Census; and James F. Holmes, Acting Director of the 
+Bureau of the Census. The appellees, who were plain- 
+tiffs in the district court, are Matthew Glavin; Robert 
+Barr; Gary A. Hofmeister; Stephen Gons; James F. 
+McLaughlin; David H. Glavin; John Taylor; Deborah 
+Hardman; Craig Martin; Jim Lacy; Judy Cresanta; 
+Helen V. England; Amie S. Carter; Robert Richard 
+Dennik; Michael T. James; William J. Byrn; and Cobb 
+County, Georgia.’ 
+
+
+Four groups of litigants—Richard A. Gephardt, et al.; the 
+Legislature of the State of California, et al.; the City of Los 
+Angeles, et al.; and the National Korean American Service & 
+Education Consortium, Inc., et al. moved for leave to intervene as 
+defendants in the district court. In addition, appellees sought 
+leave to file an amended complaint naming additional plaintiffs. 
+The district court did not rule on either the motions to intervene or 
+the request to include additional plaintiffs. Although the court’s 
+opinion is not entirely clear on this point, the list of plaintiffs and 
+defendants included at the beginning of the opinion (see App., 
+infra, 1a) indicates that the district court did not regard either the 
+putative intervenors or the putative additional as parties 
+to the case. But see id. at 2a (“Now Court are the 
+defendants’ and intervenor-defendants” motions to dismiss the 
+plaintiffs’ complaint.”); id. at lla (ref to Delaware County, 
+Pennsylvania, as though it were a tiff, even though Delaware 
+County is not included in the plaintiffs at the outset of the 
+opinion). 
+
+
+TABLE OF CONTENTS 
+
+
+Opinion below 
+Jurisdiction 
+
+
+Constitutional and statutory provisions involved 
+Statement 
+The questions presented are substantial 
+Conclusion 
+Appendix A 
+Appendix B 
+Appendix C 
+
+
+TABLE OF AUTHORITIES 
+Case: 
+United States Dep't of Commerce v. Montana, 
+508 U.S. 442 (1992) 
+
+
+Constitution and statutes: 
+
+
+US. Const.: 
+Art. I, § 2, Cl. 3 
+Art. III 
+Amend, XIV, § 2 
+997 Emergency Supplemental Appropriations Act 
+for Recovery from Natural Disasters, and for 
+Overseas Peacekeeping Efforts, Including Those in 
+Bosnia, Pub. L. No. 105-18, Tit. VIII, 111 Stat. 
+217 
+Census Act, 13 U.S.C. 1 et beg. 
+13 U.S.C, 141 
+18 U.S.C, 141(a) 
+13 U.S. C. 141(b) 
+138 U.S. C. 141(c) 
+
+
+34 
+
+
+18 U.S.C, 195 — 249,10 
+
+
+Departments of Commerce, Justice, and State, 
+the Judiciary, and Related Agencies Appropriations 
+Act, 1998, Pub. L. No. 105-119, 111 Stat. 2480: 
+§ 209, 111 Stat. 2480 
+§ 20%a\(2), 111 Stat. 2480 
+
+
+(IIT) 
+
+
+* to 
+
+
+Statutes—Continued: 
+§ 209%(b), 111 Stat. 2481 
+
+
+aod 
+
+
+§ 20%c)(2), 111 Stat. 2482 
+
+
+§ 20%e)(1), 111 Stat. 2482 
+
+
+2, 6,9, 1 
+
+
+2 U.S.C. 2ala) 
+
+
+K @o © 
+
+
+2 U.S. C. 2a(b) (Supp. II 1996) 
+Miscellaneous: 
+Bureau of the Census, U.S. Dep’t of Commerce, 
+
+
+Report to Congress—The Plan for Census 2000 
+(Aug. 1997) 
+
+
+5,6 
+
+
+In the Supreme Court of the United States 
+
+
+OCTOBER TERM, 1997 
+
+
+No. 
+WILLIAM JEFFERSON CLINTON, ET AL., APPELLANTS 
+v. 
+
+
+MATTHEW GLAVIN, ET AL. 
+
+
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF VIRGINIA 
+
+
+JURISDICTIONAL STATEMENT 
+
+
+The opinion of the district court (App., infra, 1a-23a) 
+is not yet reported. 
+JURISDICTION 
+
+
+The opinion and order of the district court were 
+entered on September 24, 1998 (App., infra, la-23a). A 
+notice of appeal (App., infra, 37a-39a) was filed on 
+September 25, 1998. The jurisdiction of this Court is 
+invoked under Section 20%e)(1) of the Departments of 
+Commerce, Justice, and State, the Judiciary, and Re- 
+lated Agencies Appropriations Act, 1998, Pub. L. No. 
+105-119, 111 Stat. 2482. 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. Article I, Section 2, Clause 3 of the United States 
+Constitution is reproduced at App., infra, 24a. 
+
+2. Section 2 of the Fourteenth Amendment to the 
+United States Constitution is reproduced at App., 
+infra, 24e-25a. 
+
+3. Section 2a of Title 2, United States Code, is repro- 
+duced at App., infra, 25a-27a. 
+
+4. Sections 141 and 195 of Title 13, United States 
+Code, are reproduced at App., infra, 27a-30a. 
+
+5. Section 209 of the Departments of Commerce, 
+Justice, and State, the Judiciary, and Related Agencies 
+Appropriations Act, 1998, Pub. L. No. 105-119, 111 Stat. 
+2480-2483, is reproduced at App., infra, 31a-36a. 
+
+
+STATEMENT 
+
+
+This case involves a statutory and constitutional 
+challenge to the Commerce Department’s plan to em- 
+ploy statistical sampling in conducting the decennial 
+census for the year 2000. In the proceedings below, the 
+District Court for the Eastern District of Virginia held 
+that the Department’s plan is inconsistent with the 
+Census Act and is therefore unlawful. App., infra, la- 
+23a. Congress has vested this Court with direct 
+appellate jurisdiction over the district court’s decision. 
+See Departments of Commerce, Justice, and State, the 
+Judiciary, and Related Agencies Appropriations Act, 
+1998 (1998 Appropriations Act), Pub. L. No. 105-119, 
+§ 209(e)(1), 111 Stat. 2482. On September 10, 1998, this 
+Court noted probable jurisdiction in United States 
+Department of Commerce, et al. v. United States House 
+of Representatives, et al., No. 98-404, which held the 
+
+
+3 
+Secretary’s plan to be invalid on essentially the same 
+basis. 
+
+
+1. The Constitution requires a decennial census for 
+the purpose of determining the number of Representa- 
+tives to which each State is entitled. Article I, Section 
+2, Clause 3 provides that “Representatives * * * shall 
+be apportioned among the several States * * * 
+according to their respective Numbers” (the Apportion- 
+ment Clause). It also directs that “(t]he actual Enu- 
+meration shall be made within three Years after the 
+first Meeting of the Congress of the United States, and 
+within every subsequent Term of ten Years, in such 
+Manner as they shall by Law direct” (the Census 
+Clause). Ibid. In addition, Section 2 of the Fourteenth 
+Amendment provides that “Representatives shall be 
+apportioned among the several States according to 
+their respective numbers, counting the whole number 
+of persons in each State, excluding Indians not taxed.” 
+
+2. The Census Act states that the Secretary of Com- 
+merce “shall, in the year 1980 and every 10 years there- 
+after, take a decennial census of population as of the 
+first day of April of such year.” 13 U.S.C. 141(a). The 
+“tabulation of total population by States” for the pur- 
+pose of apportionment of Representatives is to be com- 
+pleted and reported by the Secretary to the President 
+within nine months after the April 1 census date. 13 
+U.S.C. 141(b). Within one week after the beginning of 
+the first Session of Congress following the census, the 
+President must transmit to Congress a statement 
+showing the “whole number of persons in each State 
+* * * and the number of Representatives to which 
+each State would be entitled” under the statutorily 
+prescribed “equal proportions” formula for apportion- 
+ing Representatives. 2 U.S. C. 2a(a); see United States 
+Dep’t of Commerce v. Montana, 503 U.S. 442, 451-455 
+
+
+4 
+
+
+(1992). Within 15 days after receiving that statement, 
+the Clerk of the House must “send to the executive of 
+each State a certificate of the number of Representa- 
+tives to which such State is entitled.” 2 U.S.C. 2a(b) 
+(Supp. II 1996). 
+
+The Census Act provides that the Secretary may 
+conduct the decennial census “in such form and content 
+as he may determine, including tard - 1 44 
+procedures and special surveys.” C. The 
+Act further states that Je cept for the determination 
+of population for purposes of apportionment of Repre- 
+sentatives in Congress among the several States, the 
+Secretary shall, if he considers it feasible, authorize the 
+use of the statistical method known as ‘sampling’ in 
+carrying out the provisions of this title.” 13 U.S.C, 195. 
+
+ITjhe sole constitutional purpose of the decennial 
+enumeration of the population is the apportionment 
+of Representatives in Congress among the several 
+States.” 1998 Appropriations Act, § 209(a)(2), 111 Stat. 
+2481. The decennial census has historically been used, 
+however, to collect a variety of information in addition 
+to the state-level population figures that are used in 
+apportioning Representatives among the States. In 
+particular, the Census Act provides for the collection of 
+population figures for geographical subdivisions within 
+the States. 13 U.S.C. 141(c). The Act requires that 
+At jabulations of population” for substate areas “shall be 
+completed by [the Secretary] as expediticusly as possi- 
+ble after the decennial census date and re, urted to the 
+Governor of the State involved and to the officers or 
+public bodies having respo. ibility for legislative ap- 
+portionment or districting of such State.” Jbid. 
+
+3. Much of the factual background of this case is set 
+forth in the jurisdictional statement in United States 
+Department of Commerce, et al. v. United States House 
+
+
+5 
+
+
+of Representatives, et al., No. 98-404. As that jurisdic- 
+tional statement explains, the Department of Com- 
+merce has concluded that use of statistical sampling 
+mechanisms in the conduct of the 2000 decennial census 
+will increase the accuracy of the census while reducing 
+its cost. As directed by statute, see Pub. L. No. 105-18, 
+Tit. VIII, 111 Stat. 217, the Department forwarded to 
+Congress a detailed report describing the methods by 
+which it plans to conduct the 2000 census. See U.S. 
+Bureau of the Census, Department of Commerce, 
+Report to Congress-The Plan for Census 2000 (Aug. 
+
+
+1997) (Report to Congress). 
+
+
+2 Two forms of statistical sampling are at issue in this 
+litigation. First, the Commerce Department intends to use 
+sampling in the Nonresponse Follow-Up (NRFU) phase of the 
+census. In the 1990 census, approximately 65% of all U.S. 
+households returned the census forms sent to them by mail. 
+Census Bureau enumerators visited non-responding households as 
+many as six times before relying on other means to attempt to 
+ascertain the number of persons residing there. For the 2000 
+census, the Census Bureau plans to secure information from a 
+randomly selected sample of non-responding households; its objec- 
+tive is to obtain responses through either nail response or NRFU 
+from 90% of the housing units in each census tract. The Bureau 
+will then determine the likely number of persons living in other 
+non-responding units based on the sample data. Report to Con- 
+gress at 26-29. 
+
+Second, after the initial phase of the census, the Commerce 
+Department plans to conduct a survey of approximately 750,000 
+housing units furnishing a representative sample of a wide variety 
+of demographic groups, defined by such categories as race, age, 
+urban or rural place of residence, and status as a homeowner or 
+renter. By comparing the results of that survey to those of the 
+initial phase of the census, the Department will assess the fre- 
+quency with which persons having particular demographic charac- 
+teristics were missed in the initial phase. Based on the results of 
+the sample, the Bureau will then determine population figures for 
+
+
+6 
+
+
+After receiving the Report to Congress, Congress 
+enacted the 1998 Appropriations Act. Section 209(b) of 
+that Act provides that 
+
+
+ſalny person aggrieved by the use of any statistical 
+method in violation of the Constitution or any pro- 
+visior. of law (other than this Act), in connection 
+with the 2000 or any later decennial census, to 
+determine the population for purposes of the appor- 
+tionment or redistricting of Members in Congress, 
+may in a civil action obtain declaratory, injunctive, 
+and any other appropriate relief against the use of 
+such method. 
+
+
+111 Stat. 2481. Section 209(c)\(2) states that the Report 
+to Congress, together with the Commerce Depart- 
+ment’s Census 2000 Operational Plan, “shall be deemed 
+to constitute final agency action regarding the use of 
+statistical methods in the 2000 decennial census, thus 
+making the question of their use in such census suffi- 
+ciently concrete and final to now be reviewable in a 
+judicial proceeding.” 111 Stat. 2482. Section 209(e)(1) 
+states that any civil action brought pursuant to the Act 
+shall be heard by a three-judge district court, whose 
+decision is reviewable by appeal directly to this Court. 
+Ibid. 
+
+4. The plaintiffs in this case (appellees in this Court) 
+are 16 individuals and Cobb County, Georgia. They 
+filed suit pursuant to the judicial review provision of 
+Section 209(e)(1), contending that the use of statistical 
+sampling in determining the population for purposes of 
+apportioning Representatives among the States would 
+violate the Census Act; Article I, Section 2 of the 
+
+
+States and political subdivisions nationwide. Report to Congress at 
+29-82. 
+
+
+7 
+
+
+Constitution; and Section 2 of the Fourteenth Amend- 
+ment. President William Jefferson Clinton, the Depart- 
+ment of Commerce, the Secretary of Commerce, the 
+Census Bureau, and the Acting Director of the Census 
+Bureau (collectively Commerce Department) were 
+named as defendants. The Commerce Department 
+moved to dismiss the complaint for lack of jurisdiction 
+and for failure to state a claim. Appellees moved for 
+summary judgment. The district court denied the 
+Commerce Department’s motion to dismiss and granted 
+the appellees’ motion for summary judgment. App., 
+infra, la-23a. 
+
+a. The district court concluded that the appellees 
+“meet the [Article III] requirements of having a per- 
+sonal stake in the outcome of the controversy.” App., 
+infra, 10a. The court identified four distinct categories 
+of cognizable injuries. First, the court stated that the 
+appellees include “individual taxpayers in Connecticut, 
+Massachusetts, Minnesota, Missouri, Pennsylvania, and 
+Wisconsin, all [of] which are substantially likely to lose 
+a seat in the House of Representatives solely because of 
+the implementation of the Department’s plan.” Id. at 
+lla. Second, the court accepted the allegation “that the 
+plan will dilute the voting strength of [appellees] at the 
+intrastate level” because “several [appellees] reside in 
+counties whose relative population will be diminished 
+by operation of the Department’s plan.” Jbid. Third, 
+the court held that appellees had properly alleged a 
+cognizable injury in the form of loss of federal funding 
+to the States and/or substate areas in which they 
+reside. Id. at lla-12a. Finally, the district court con- 
+cluded that the appellees would be injured by the 
+Commerce Department’s plan for the 2000 census be- 
+cause if the plan is implemented and the census is 
+subsequently declared invalid by a reviewing court, 
+
+
+8 
+
+
+“any elections in 2002 will have to be held on the basis 
+of an incorrect number of representatives and malap- 
+portioned districts which reflect the 1990 census re- 
+sults.” Jd. at 12a. The court further held that the 
+alleged injuries were sufficiently immediate and certain 
+to occur to satisfy Article III requirements, id. a“ 7a-9a, 
+and that those injuries were properly attributable to 
+the Commerce Department, id. at 14a-15a.* 
+
+b. On the merits, the district court held that the use 
+of statistical sampling in determining the population for 
+purposes of apportioning Representatives among the 
+States would violate the Census Act. The court stated 
+
+
+With respect to the first three categories of harms, 
+appellees’ contention that they would be injured by implementa- 
+tion of the Secretary’s plan depends on the proposition that 
+particular States or political subdivisions would be credited with a 
+larger share of the country’s population under a year 2000 census 
+that did not employ statistical sampling techniques. Appellees 
+submitted the affidavit of Dr. Ronald E. Weber, who expressed the 
+view that such areas can presently be identified with a reasonable 
+degree of confidence. Dr. Weber stated, in particular, that 
+“{cjomparing seat allocations based on the 2000 prajected popula- 
+tions under a traditional enumeration with 2000 projected 
+populations under the Department’s Plan, the States which stand a 
+substantial likelihood of losing a seat are Connecticut, Massachu- 
+setts, Minnesota, Missouri, Pennsylvania, and Wisconsin.” Weber 
+Affidavit at 12. The government submitted its own affidavits 
+contesting Dr. Weber’s methodology and conclusions. See GXs 18, 
+14. One of the government’s affiants “conclude[d] that no one can 
+predict the state-by-state population of the United States as of 
+April 1, 2000 with the exactitude required by the Method of Equal 
+Proportions.” GX 13 at 2. The government also pointed out that 
+appellees, having moved for summary judgment on the merits, 
+bore the burden not only of alleging but also of establishing with 
+factual specificity their standing to sue. See Defendants’ Reply 
+Memorandum in Support of Motion to Dismiss at 18 n.6, 45 (filed 
+May 22, 1998). The district court did not address this latter point. 
+
+
+9 
+
+
+that “Congress has spoken precisely to the question of 
+statistical sampling by the Department and, in plain 
+language, prohibited the use of this methodology to de- 
+rive the population used for purposes of congressional 
+apportionment.” App., infra, 16a-17a. The court con- 
+strued the opening proviso of 13 U.S.C. 195 as unam- 
+biguously prohibiting the use of sampling for apportion- 
+ment purposes. App., infra, 18a-19a. Insofar as that 
+prohibition might conflict with the affirmative grant of 
+authority to use sampling contained in 13 U.S.C. 141(a), 
+the court reasoned, Section 195 is the more specific of 
+the two provisions and should therefore prevail. App., 
+infra, 20a. The court concluded that “the only plausible 
+interpretation of the plain language and structure of 
+the Act is that Section 195 prohibits sampling for 
+apportionment and Section 141 allows it for all other 
+purposes.” Id. at 21a. 
+
+e. Because the district court concluded that the 
+Secretary’s plan for the 2000 census violates the Census 
+Act, it declined to resolve the question whether the 
+plan is consistent with Article I, Section 2, Clause 3 of 
+the Constitution. App., infra, 16a-17a & n.2, 21a. 
+
+
+THE QUESTIONS PRESENTED ARE SUBSTANTIAL 
+
+
+Congress has vested this Court with direct appeilate 
+jurisdiction over district court decisions in suits chal- 
+lenging the Commerce Department’s plan for the year 
+2000 decennial census. See Departments of Commerce, 
+Justice, and State, the Judiciary, and Related Agencies 
+Appropriations Act, 1998 (1998 Appropriations Act), 
+Pub. L. No. 105-119, § 209(e)(1), 111 Stat. 2482. This 
+case falls squarely within the Court’s appellate jurisdic- 
+tion under that statutory provision. On September 10, 
+1998, this Court noted probable jurisdiction in United 
+States Department of Commerce, et al. v. United States 
+
+
+10 
+
+
+House of Representatives, et al., No. 98-404. That case 
+also involves a suit brought under Section 209(e)(1) of 
+the 1998 Appropriations Act challenging the Commerce 
+Department’s plan for the 2000 census. f 
+
+The instant case involves essentially the same 
+statutory and constitutional challenges to the Com- 
+merce Department’s plan as does the suit brought by 
+the House of Representatives. The district court in 
+each of the two cases concluded that the plan violates 13 
+U.S.C. 195 and is therefore invalid. If it were clear that 
+the suit brought by the House is justiciable, the Court 
+could simply hold the jurisdictional statement in the 
+instant case pending its disposition of No. 98-404. 
+
+As our jurisdictional statement in No. 98-404 explains 
+(at 13-15), however, we do not believe that the suit filed 
+by the House of Representatives satisfies the require- 
+ments of Article III. Although we believe that the 
+appellees in the instant case also lack standing to sue, 
+the jurisdictional issues presented by the two cases are 
+quite distinct. A holding by this Court that the suit 
+brought by the House of Representatives does not 
+satisfy the justiciability requirements of Article III 
+therefore would not necessarily require the conclusion 
+that this suit is also nonjusticiable. As our jurisdic- 
+tional statement in No. 98-404 indicates (at 12-13), a 
+prompt ruling by this Court as to the legality of the 
+plan for the 2000 census would have significant practical 
+advantages, if the Court were to determine that such a 
+ruling can be issued consistent with the requirements of 
+Article III. The Court should therefore note probable 
+jurisdiction in this case as well. 
+
+
+11 
+
+
+CONCLUSION 
+The Court should note probable jurisdiction. 
+
+
+Respectfully submitted. 
+
+
+OCTOBER 1998 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+EDWIN S. KNEEDLER 
+Deputy Solicitor General 
+
+
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+
+
+MARK B. STERN 
+MICHAEL S. RAAB 
+
+
+Attorneys 
+
+
+APPENDIX A 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF VIRGINIA 
+
+
+ALEXANDRIA DIVISION 
+
+
+Civil Action No. 98-207-A 
+MATTHEW GLAVIN, Er AL., PLAINTIFFS 
+U. 
+
+
+WILLIAM J. CLINTON, ET AL., DEFENDANTS 
+
+
+Filed: Sept. 24, 1998] 
+
+
+MEMORANDUM OPINION 
+
+
+This case comes before the Court on the defendants’ 
+motion to dismiss and the plaintiffs’ motion for sum- 
+mary judgment. Plaintiffs, Matthew Glavin, Robert 
+Barr, Gary A. Hofmeister, Stephen Gons, James F. 
+McLaughlin, David H. Glavin, John Taylor, Deborah 
+Hardman, Craig Martin, Jim Lacy, Judy Cresanta, 
+Helen V. England, Amie S. Carter, Robert Richard 
+Dennik, Michael T. James, William J. Byrn, and Cobb 
+County, Georgia, seek summary judgment against 
+Defendants, William J. Clinton, The United States 
+Department of Commerce; William M. Daley; Bureau of 
+the Census and James F. Holmes in this action chal- 
+lenging defendants’ plan for the 2000 census. 
+
+
+(la) 
+
+
+Za 
+
+
+Plaintiffs claim that using statistical sampling to 
+supplement the head count enumeration used to appor- 
+tion representatives among the states violates the 
+Census Act of 1976, 13 U.S.C. §§ 21, 195, and Article I, 
+Section 2, Clause 3 of the Constitution. Plaintiffs seek a 
+declaratio at statistical sampling is unlawful and/or 
+unconstitutional and an injunction preventing defen- 
+dants from using statistical sampling in the 2000 census. 
+The defendants seek dismissal of Plaintiffs’ complaint 
+on the grounds this case is not ripe for adjudication and 
+that the plaintiffs lack personal standing to be parties in 
+this case. 
+
+Now before the Court are the defendants’ and 
+intervenor-defendants’ motions to dismiss the plaintiffs’ 
+complaint pursuant to Rule 12(b)(1) and (6) of the 
+Federal Rules of Civil Procedure, and Plaintiffs’ motion 
+for summary judgment pursuant to Federal Mule of 
+Civil Procedure 56. For reasons stated below, the mo- 
+tions to dismiss will be denied and plaintiffs’ motion for 
+summary judgment will be granted. 
+
+I. BACKGROUND 
+
+
+Since 1790, the United States government has 
+followed the constitutional command of Article I, Sec- 
+tion 2, Clause 3 by carrying out a decennial census to 
+allocate seats in the House of Representatives. In 1990, 
+the Census Bureau instituted new outreach and promo- 
+tion efforts to count the entire population, spending 
+over $2.6 billion. The 1990 estimated net undercount 
+rate was 1.6%. Certain minorities, notably African- 
+Americans and Hispanics, had higher undercount rates 
+than the population as a whole. Children and those 
+living in rural areas also were differentially under- 
+counted. 
+
+
+3a 
+
+
+In response to the persistent undercount, in Novem- 
+ber 1990, the Secretary of Commerce established the 
+“Task Force for Designing the Year 2000 Census and 
+Census Related Activities for 2000-2009.” Also, Con- 
+gress passed the Decennial Census Improvement Act of 
+1991 directing the National Academy of Sciences to 
+study the means by which the Government could 
+achieve the most accurate population count possible, 
+specifically considering the appropriateness of using 
+sampling methods. The Academy found that statistical 
+sampling should be used both for non-response follow- 
+up and to increase accuracy. Relying on the results of 
+the studies, the Census Bureau formulated its own plan 
+for Census 2000. 
+
+The Secretary of Commerce’s census plan will include 
+sampling in at least three different programs of Census 
+2000. First, the Bureau will use sampling in the Postal 
+Vacancy Check program, to verify housing units identi- 
+fied as vacant by the United States Postal Service. 
+Second, the Census Bureau will use statistical sampling 
+techniques to complete its traditional enumeration, an 
+operation referred to as “Non-response Follow-up” or 
+“NRFU.” Third, the Bureau will use sampling tech- 
+niques to improve the accuracy of Census 2000 with a 
+post-census survey, an operation the Bureau calls 
+“Integrated Coverage Measurement” or “ICM.” The 
+Bureau’s plan to use sampling in the Postal Vacancy 
+Check is not in dispute in this lawsuit. 
+
+Over 60% of households mailed back their question- 
+naires in 1990, and the Bureau expects a similar mail 
+response rate in 2000. In 1990, the Census Bureau sent 
+enumerators to all non-responding households before 
+relying on proxy data (information obtained from 
+neighbors) or imputation data (computer-inferred data 
+which are based on the assumption that the household 
+
+
+4a 
+
+
+has characteristics similar to other residences in the 
+area). To account for those housing units that do not 
+mail back forms in 2000, the Bureau’s plan is to select at 
+random the number of households that need to be 
+counted in order to count 90 percent of the addresses in 
+a census tract to whom questionnaires were mailed. 
+After the 90 percent goal has been reached, the De- 
+partment will then add to its actual population count an 
+estimate of the number of people in the households that 
+were not selected for non-response follow-up. Thus, ten 
+percent of the non-response follow-up units will not be 
+physically counted. In making this estimate, the 
+Department will not assume that the overall composi- 
+tion of these persons reflects the 90 percent of the 
+people who were actually counted, but rather the pian 
+is predicated on the assumption that these virtual 
+persons will mirror the racial and ethnic composition of 
+the persons who are identified in non-response follow- 
+
+
+up. 
+
+The second phase of the enumeration is the Inte- 
+grated Coverage Measurement survey, in which Cen- 
+sus Enumerators will conduct interviews in a random 
+population sample, separate from each state, to deter- 
+mine what proportion of the people living in the sample 
+blocks were included in the initial enumeration. The 
+Census Bureau’s plan will classify each of the country’s 
+seven million blocks into groups known as sampling 
+strata based on the characteristics of the block’s resi- 
+dents according to the 1990 Census results, such as 
+racial and ethnic composition, proportion of home- 
+owners to renters, etc. The Bureau will select a con- 
+trolled scientific sample of these blocks and enumera- 
+tors will then conduct an independent second roster and 
+ICM interview. 
+
+
+5a 
+
+
+Each person and each enumeration is then assigned 
+
+to a unique poststratum, a group of persons having 
+similar probability of having been enumerated in the 
+initial phase. The Bureau will then estimate the 
+number of persons in each poststratum who were 
+correctly counted, missed, or over counted in the initial 
+data collection phase. The Burea will use that esti- 
+mate to create an adjustment factor for each post- 
+stratum, and then multiply the number of people 
+counted in each poststratum in the initial data collection 
+phase by the appropriate adjustment factor to adjust 
+the census count synthetically. Once the adjustment 
+factors have been applied to each poststratum in a 
+block, the statistically adjusted population figures for 
+each block will be aggregated at the tract, county, state 
+and national levels. This will be the reported popula- 
+tion number used for Congressional apportionment and 
+other purposes. 
+In its Report to Congress, the Bureau estimated that 
+the total undercount of the national population in 2000 
+would be 1.9% if it relies on traditional methods of enu- 
+meration alone. The expected error rates for the 
+Bureau’s proposed plan vary according to the 
+geographic level—with higher error rates at lower 
+levels of geography (blocks, for example) and lower 
+error rates at higher levels of geography (counties and 
+states, for example). The Bureau expects that by using 
+statistical sampling, it can achieve a lower error at the 
+national, state, and Congressional district levels than it 
+can without using sampling. 
+
+Employing statistical processes to include those who 
+would be left out of the 2000 Census has sparked fierce 
+
+
+A poststratum could be all people within a state having the 
+same sex, age, and racial/ethnic group. 
+
+
+6a 
+
+
+debate within de political branches of the federal gov- 
+ernment since at least 1990, when it became apparent 
+that the manner of enumerating used in the last two 
+decennial censuses failed to ameliorate the differential 
+undercount. In 1997, Congress attempted to amend 13 
+U.S.C. § 141(a) to provide: “[nlothwithstanding any 
+other provision of law, no sampling or any © er statis- 
+tical procedure, ineluding any statistical adjustment, 
+may be used in any determination of population for 
+purposes of the apportionment of Representatives in 
+[C)ongress among the several States.” H.R. 1469, tit. 
+VIII , at 65. The President vetoed this bill, in part 
+due to the prohibition of the use of sampling in Census 
+2000. 
+
+Following the veto, Congress passed legislation re- 
+quiring the Census Bureau to provide the Report to 
+Congress. See, Pub. L. 105-18, tit. VIII, 111 Stat. 158, 
+217 (1997). After receiving the Report to Congress, 
+Congress and the President continued negotiations 
+regarding sampling in the context of the legislation 
+necessary to fund the Commerce Department for Fiscal 
+Year 1998. The political branches eventually reached a 
+compromise allowing the funding of the Commerce 
+Department for Fiscal Year 1998. That compromise is 
+embodied in Sections 209 and 210 of the Department of 
+Commerce, Justice, and State, the Judiciary, and Re- 
+lated Agencies Appropriations Act, 1998, Pub. L. No. 
+105-119, 111 Stat. 2440, 2480-87 (1997). The Act con- 
+tains separate provisions relating to lawsuits to chal- 
+lenge the use of sampling in Census 2000. 
+
+Section 209(b) of the Appropriations Act provides a 
+cause of action to “[aJny overson aggrieved by the use of 
+any statistical method in violation of the Constitution or 
+any other provision of law (other than this Act) in 
+connection with the 2000 or any later decennial census, 
+
+
+7a 
+
+
+to determine the population for purposes of the ap- 
+portionment or redistricting members in Congress.“ 
+Section 209(c)(2) provides that the Report to Congress 
+“shall be deemed to constitute final agency action re- 
+garding the use of statistical methods in the 2000 de- 
+cennial census, thus making the question of their use in 
+such census sufficiently concrete and final to now be 
+reviewable in a judicial proceeding.” 
+
+
+II. CASE IS RIPE FOR REVIEW 
+
+
+As a threshold matter, we note that the judicial 
+review provision contained in the 1998 Appropriations 
+Act eliminated all prudential ripeness concerns. See 
+Raines v. Byrd, 117 S. Ct. 2312, 2318 & n.3 (1997). To 
+the extent that the ripeness doctrine has force under 
+Article III, the Supreme Court’s precedents clearly 
+demonstrate that this case is ripe for review. See 
+Abbott Labs. v. Gardner, 387 U.S. 136, 149 (1967). 
+
+Given the finality of the Department’s decision to 
+utilize statistical sampling as a means to determining 
+the population for the purposes of congressional ap- 
+portionment in Census 2000, it is clear that ripeness 
+concerns have no application in the instant case. The 
+Department has acknowledged the finality of its de- 
+cisions in its formal written reports submitted to 
+Congress. Likewise, the Department’s Operational 
+Plan states that “sampling for non-response will be 
+used to complete the census enumeration.” As read in 
+the Appropriations Act of 1998 § 209 (c)(2), the Census 
+2000 Operational Plan “shall be deemed to constitute 
+final agency action regarding the use of statistical 
+methods in the 2000 decennial census,” thus making the 
+question of use ripe for adjudication. Appropriations 
+Act of 1998 § 209 (c)(2) (emphasis added). 
+
+
+8a 
+
+
+Defendant’s suggests that the case is not ripe 
+because “Congress has not reached its ultimate legis- 
+lative conclusion regarding a sampling census.” Al- 
+though it is certainly possibly that Congress may seek 
+to prevent the Department from conducting its plan to 
+utilize sampling, there is no legal significance to this 
+observation. Congress may always moot out a con- 
+troversy by passing new legislation, but that fact does 
+not shield agency action from judicial review. There is 
+always the possibility that settlement or some external 
+event will render a case moot, but that hardly renders 
+the litigation nonjusticiable before that event occurs. If 
+the government’s view were correct, then no agency 
+action could ever be reviewed so long as Congress 
+might intervene by passing new legislation that might 
+overrule the final agency determination. See New York 
+v. United States, 505 U.S. 144, 175 (1992) (holding case 
+ripe for review even though provision at issue would 
+not take effect until three and a half years after the 
+Court’s decision during which time Congress could have 
+repealed the provision); see also Duke Power Co. v. 
+Carolina Enytl. Stud Group. Inc., 438 U.S. 59 (1978) 
+(holding that even when the event that would cause the 
+damage had not yet occurred, the claims in the case 
+were still ripe for review); Thomas v. Union Carbide 
+Agric. Prods. Co., 473 U.S. 568, 581 (1985) (holding 
+where no further factual development is necessary to 
+further illuminate the legal issues presented ripeness 
+concerns are not implicated). 
+
+In the instant case, Plaintiffs challenge the defen- 
+dants’ use of statistical sampling in connection with the 
+conduct of the census for congressional apportionment 
+purposes. There is no material dispute as to the form 
+that such sampling will take, and this action is justicia- 
+
+
+9a 
+
+
+ble on the merits presenting a question of statutory in- 
+terpretation. 
+
+
+III. STANDING 
+
+
+In considering a motion to dismiss for lack of stand- 
+ing, the Court must accept all material allegations 
+contained in the complaint as true and must construe all 
+such allegations in favor of standing. See Warth v. 
+Seldin, 422 U.S. 490, 501 (1975); Pennell v. City of 
+San Jose, 485 U.S. 1, 7 (1988). Moreover, for purposes 
+of determining the standing of Plaintiffs to sue, the 
+Court must assume the validity of Plaintiffs’ claim that 
+the Constitution and the Census Act require an actual 
+enumeration and forbid the use of statistical sampling 
+to determine the population for purposes of apportion- 
+ment. See Warth v. Seldin, 422 U.S. at 501. 
+
+Plaintiffs clearly satisfy the constitutional require- 
+ments for standing imposed by Article III. There are 
+several distinct, concrete injuries that the plaintiffs will 
+imminently suffer if the Department’s plan is imple- 
+mented. 
+
+The plaintiffs do not need to prove with mathematical 
+certainty the degree to which they will be injured by 
+the Department’s plan, as compared to a head count. 
+Courts have never required such a showing under 
+Article iil especially in the context of a motion to 
+dismiss where courts “presume that general allegations 
+embrace those specific facts that are necessary to 
+support [each] claim.” Bennett v. Spear, 117 S. Ct. 1154, 
+1164 (1997) (quoting Lujan v. Defenders of Wildlife, 504 
+U.S. 555, 561 (1992)). General factual allegations of 
+injury resulting from Defendants’ conduct may suffice 
+to establish Plaintiffs’ Article III standing. See Lujan 
+v. Defenders of Wildlife, 504 U.S. at 561; see also 
+Tucker v. United States Dept. of Commerce, 958 F. 2d 
+
+
+10a 
+
+
+1411, 1415 (7th Cir. 1992) (holding requirements of 
+Article III were met in a challenge to the validity of the 
+census where Plaintiffs alleged “some probability of a 
+tangible benefit from winning the suit”). 
+
+The plaintiffs have demonstrated that they will suffer 
+injury as a result of the Department’s plan, because 
+they are able to calculate its effects by reference to the 
+results of the Post-Enumeration Survey completed in 
+1992, which closely mirrors the methodology the De- 
+partment will utilize as part of its plan for Census 2000. 
+Courts have consistently found that plaintiffs challeng- 
+ing the census have satisfied the requirements of 
+Article III standing where they have made allegations 
+similar to those contained in the Complaint in this case. 
+See City of Detroit v. Franklin, 4 F.3d 1367, 1374-75 
+(6th Cir. 1993) (holding that plaintiffs had “standing to 
+challenge the defendants’ actions based upon their 
+claim that the census undercount will result in a loss of 
+federal funds”); State of Texas v. Mosbacher, 783 F. 
+Supp. 308 (S.D. Tex. 1992); Carey v. Klutznick, 637 F.2d 
+834, 838 (2d Cir. 1990), rev'd on other grounds, 653 F. 2d 
+732 (2d Cir. 1981) (“individual plaintiffs in this case have 
+alleged concrete harm in the form of dilution of their 
+votes and decreased federal funds flowing to their city 
+and state, thus establishing their standing”). The re- 
+quirements of Article III are satisfied where a litigant 
+has a “personal stake in the outcome of the con- 
+troversy.” Flast v. Cohen, 392 U.S. 83, 99 (1968). Here, 
+Plaintiffs’ claims of vote dilution and loss of federal 
+funding meet the requirements of having a personal 
+stake in the outcome of the controversy. 
+
+Individual citizens have standing to allege vote dilu- 
+tion resulting from allegedly unlawful legislative ap- 
+portionment. See Baker v. Carr, 369 U.S. 186 (1962) 
+(holding that plaintiffs, Tennessee voters, had a “plain, 
+
+
+lla 
+
+
+direct, and adequate” interest in maintaining the effec- 
+tiveness of their votes and therefore had standing to 
+maintain the action). Plaintiffs are individual taxpayers 
+in Connecticut, Massachusetts, Minnesota, Missouri, 
+Pennsylvania, and Wisconsin, all which are substan- 
+tially likely to lose a seat in the House of Representa- 
+tives solely because of the implementation of the 
+Department’s plan. 
+
+Plaintiffs allege that the plan will dilute the voting 
+strength of Plaintiffs at the intrastate level. Specifi- 
+cally, several plaintiffs reside in counties whose relative 
+population will be diminished by operation of the De- 
+partment’s plan. This “elimination” of population con- 
+stitutes vote dilution and a tangible injury resulting 
+from the use of sampling. But for this statistical 
+“adjustment,” Plaintiffs’ counties would have a larger 
+population. When the population of neighboring coun- 
+ties is being increased by the addition of computer 
+generated persons, this injury is compounded. Plain- 
+tiffs who reside in counties which will have their 
+population increased by less than the average of the 
+other counties in their state will necessarily suffer a 
+loss in relative political representation. 
+
+Plaintiffs allege threatened injury in the form of loss 
+of federal funds, and that the county plaintiffs will 
+suffer a concrete injury as a consequence of the Depart- 
+ment’s plan. Specifically, Delaware County, Penn- 
+sylvania will have its proportional population decreased 
+if statistical sampling is utilized in connection with 
+Census 2000. Under the Post-Enumeration Survey 
+from 1990, Delaware County had its absolute population 
+reduced-the Department subtracted over 2,000 people 
+who had been physically counted-by virtue of the 
+statistical methodology which the Department proposes 
+to utilize in Census 2000. Economic injury resulting 
+
+
+12a 
+
+
+from statistical sampling satisfies the requirements of 
+Article III standing. See City of Detroit v. Franklin, 4 
+F.3d at 1374-75; City of Willacoochee, Ga. v. Balridge, 
+556 F. Supp. 551, 554 (S.D. Ga. 1988). 
+
+The Department’s failure to conduct a proper enu- 
+meration may injure the plaintiffs where in the absence 
+of population figures that comply with federal law, any 
+elections in 2002 will have to be held on the basis of an 
+incorrect number of representatives and malappor- 
+tioned districts which reflect the 1990 census results. 
+The Department will not be able to conduct a timely 
+and complete, traditional enumeration if its plan is 
+implemented and subsequently invalidated. 
+
+It appears to be virtually certain that Georgia will 
+receive at least one additional congressional seat after 
+the completion of a decennial census in the year 2000, 
+regardless of whether the Department’s plan or a 
+traditional enumeration is used to conduct the census. 
+Thus, Plaintiffs Matthew Glavin and William Byrne will 
+have their votes diluted if they are forced to participate 
+in an election in 2002 in which Georgia does not have 
+the additional seat in Congress. Thus, Glavin, who 
+resides in Forsyth County, Georgia, which has grown at 
+a rate of 71% since 1990, as compared to an overall 
+growth rate of 15.6% for the state of Georgia, will have 
+his vote diluted in intrastate elections if the 1990 census 
+numbers continue to be utilized beyond the 2000 elec- 
+tions. This same injury will be visited upon the county 
+plaintiffs that have enjoyed a higher rate of population 
+growth than their states since 1990. The population of 
+Cobb County, Georgia, has grown by 23.1% since 1990, 
+as compared to an overall population growth of 15.6% 
+throughout Georgia. Thus, if there is no valid decennial 
+census in place after the year 2000, Cobb County will 
+
+
+13a 
+
+
+receive fewer state and federal funds than it otherwise 
+would if the Department had conducted a lawful census. 
+
+Plaintiffs are challenging the procedure by which De- 
+fendants intend to take the 2000 census, and it is well- 
+established that a party may “seek[] to enforce a pro- 
+cedural requirement the disregard of which could im- 
+pair a separate concrete interest[]” and that in such an 
+action, the normal standard of immediacy does not 
+apply. See Lujan v. Defenders of Wildlife, 504 U.S. at 
+
+Plaintiffs need nut await the consummation of 
+threatened injury to obtain preventive relief. See Blum 
+v. Yaretsky, 457 U.S. 991, 1000 (1982). Plaintiffs in- 
+juries are imminent for several reasons. First, the De- 
+partment has committed itself to use statistical sampl- 
+ing in Census 2000. The methodology, which parallels 
+that used in 1990 Post-Enumeration Survey, will have 
+the effect of reducing the relative population of those 
+areas in which Plaintiffs reside. Moreover, the county 
+plaintiffs also will be adversely affected by statistical 
+sampling. Second, irrespective of the actual effect of 
+sampling, Plaintiffs will suffer injuries as a consequence 
+of Defendants’ failure to conduct a lawiul census in a 
+timely manner. This injury appears certain to occur 
+and thus is premature only if a plaintiff must actually 
+suffer a threatened injury prior to obtaining preventive 
+relief. A plaintiff is not required to wait until a de- 
+fendant engages in unlawful, unconstitutional conduct 
+to have standing to seek judicial redress. See Blum v. 
+Yaretsky, 457 U.S. at 991; Pennell v. City of San Jose, 
+495 U.S. 1 (1988); Bennet v. Spear, 117 S. Ct. at 1163-64 
+(holding general allegations of injury satisfy require- 
+ments of Article III, and a plaintiff need not allege each 
+specific subsidiary /act that supports its general claim 
+of injury). 
+
+
+14a 
+
+
+Plaintiffs injuries are “fairly traceable” to Defen- 
+dants’ use of statistical sampling in the Census 2000. To 
+satisfy the “fairly traceable” element of standing, a 
+plaintiff need only show that the defendant’s conduct 
+complained of is a “but for” cause of the plaintiff's al- 
+leged injury. See Duke Power Co. v. Carolina Enytl. 
+Study Group, Inc., 438 U.S. at 59. Here, there is a di- 
+rect causal connection between Defendants’ use of sta- 
+tistical sampling and Plaintiffs’ loss of political repre- 
+sentation. States are neither constitutionally nor feder- 
+ally compelled to use census data in determining their 
+congressional districts. A state’s choice to use such 
+data for this purpose constitutes an “intervening” 
+action that may break the chain of causation between 
+challenged actions and alleged injury. The Supreme 
+Court, however, has held that a defendant’s action need 
+not be the “very last step in the chain of causation” to 
+establish that plaintiff’s injuries are fairly traceable to 
+defendants’ conduct for the purpose of satisfying 
+Article III. See Bennet v. Spear, 117 S. Ct. at 1164. 
+
+Courts recognize that there is a direct correlation 
+between decennial census population counts and federal 
+and state funding allocations. See Wisconsin v. City of 
+New York, 517 U.S. 1, 5-6 (1996) (stating, “The Federal 
+government considers census data in dispensing funds 
+through federal programs to the States. . .”); City of 
+Detroit v. Franklin, 4 F.3d at 1374 (stating, “It is 
+undisputed, however, that many federal programs do 
+disburse funds based upon population figures as 
+reported in the decennial census”); Tucker v. United 
+States Dept. of Commerce, 958 F.2d at 1415 (stating, 
+“there is no doubt that, as a matter of fact, the alloca- 
+tion of state and federal funds is heavily influenced by 
+census figures. .). As a matter of law, allegations of 
+decreased federal and state funding is fairly traceable 
+
+
+15a 
+
+
+to population counts reported in the decennial census. 
+See City of Detroit, 4 F.3d at 1374. Plaintiffs affidavits 
+establish that the implementation of statistical sampl- 
+ing in the 2000 census will directly result in a decrease 
+of federal funding to the states and counties in which 
+Plaintiffs reside. 
+
+Finally, a favorable decision will redress Plaintiffs’ 
+injuries. Redressability focuses on whether judicial 
+intervention will provide an adequate remedy for a 
+plaintiff’s alleged injuries. See Allen v. Regan, 468 
+US. 737, 753 n.19 (1984); Warth v. Seldin, 422 U.S. 490, 
+502-06 (1975). Courts have held that this element is 
+satisfied where, as in the instant case, a plaintiff chal- 
+lenges the use of census methodology. See Carey v. 
+Klutznick, 637 F.2d at 838 (citizens who challenge a 
+census undercount on the basis that improper enumera- 
+tion will result in loss of funds to their city have 
+established both an injury fairly traceable to the Cen- 
+sus Bureau and a substantial probability that court 
+intervention will remedy the plaintiffs’ injury). Plain- 
+tiffs have satisfied this element. 
+
+
+IV. STATUTORY INTERPRETATION 
+
+
+As recognized by both Plaintiffs and Defendants, 
+aside from the standing and ripeness issues addressed 
+in Defendants’ motion to dismiss, the present case can 
+be resolved simply on statutory interpretation. 
+
+The interplay of the two provisions of the Census 
+Act, Sections 141(a) and 195 must be interpreted by the 
+Court. Section 141(a) generally authorizes the Secre- 
+tary to use sampling in conducting various aspects of 
+the census, without an express prohibition. Section 141, 
+entitled “Population and other census information,” 
+provides: 
+
+
+16a 
+
+
+The Secretary shall, in the year 1980 and every 10 
+years thereafter, take a decennial census of popula- 
+tion as of the first day of April of such year, which 
+date shall be known as the “decennial census date” 
+in such form and content as he may determine, 
+including the use of sampling procedures and special 
+surveys. In connection with any such census, the 
+Secretary is authorized to obtain such other census 
+information as is necessary. 
+
+The Census Act of 1976, 13 U.S.C. § 141(a). 
+In plain text, Section 195 entitled “Use of Sampling” 
+
+provides: 
+Except for the determination of population for pur- 
+poses of apportionment of Representatives in Con- 
+gress among the several States, the Secretary shall, 
+if he considers it feasible, authorize the use of the 
+statistical method known as “sampling” in carrying 
+out the provisions of this title. 
+
+
+The Census Act of 1976, 13 U.S.C. § 195. 
+
+
+The Supreme Court held in Ashwander v. TVA, if a 
+case can be decided on either of two grounds, one in- 
+volving a constitutional question, the other a question 
+of statutory construction or general law, the Court will 
+decide only the latter.” Ashwander v. TVA, 297 U.S. 
+288, 347 (1936) (Brandeis, J., concurring). Thus, this 
+case can be resolved on statutory basis alone without 
+reaching the Constitutional question.“ Congress has 
+
+
+2 The language of the Constitution that mandates a head count 
+of the population is contained in both Constitutional provisions 
+controlling the means of deriving the population figures for Con- 
+gressional apportionment. 
+
+Section 2 of the Fourteenth Amendment states in relevant 
+
+
+part that 
+
+
+17a 
+
+
+spoken precisely to the question of statistical sampling 
+by the Department and, in plain language, prohibited 
+the use of this methodology to derive the population 
+used for purposes of congressional apportionment. 
+Thus, the Department’s decision to use statistical 
+sampling to create the census population for congres- 
+sional apportionment purposes, is not authorized by the 
+governing statute. 
+
+
+The Supreme Court has been clear that “(ijt is the 
+‘cardinal principle of statutory construction’ . . . ‘to 
+give effect, if possible, to every clause and word of a 
+statute . . rather than to emasculate an entire 
+section. Bennet v. Spear, 117 S.Ct. at 1166 (quoting 
+
+
+“Representatives shall be apportioned among the several States 
+according to their respective numbers, counting the whole number 
+of persons in each State, excluding Indians not taxed.” 
+
+Article I, Section 2, Clause 3 of the Constitution has the same 
+provisions with respect to representatives, as amended by the 
+Fourteenth Amendment mentioned above, and calls the com- 
+putation of the “respective numbers” an “actual Enumeration” to 
+be made “in such Manner as they [Congress] shall by Law direct.” 
+
+The argument states that the plain language of the Constitution 
+requires an actual head count because the meaning of the word 
+“count” is “to number” and that an “actual Enumeration” may 
+include statistical sampling. 
+
+However attractive deciding the Constitutional question may 
+not [sic] be, and however correct the argument may appear, we are 
+constrained by Ashwander v. TVA, 297 U.S. 288, 341, 346-47 (1936) 
+(Brandeis, J., concurring), and do not anticipate a question of 
+Constitutional law in advance of the necessity of deciding it. 
+Neither do we pass upon a Constitutional question, even if prop- 
+erly presented by the record, if there is also present some other 
+ground upon which the case may be disposed of. Thus, our decision 
+is based on construing the relevant statutes, and we do not reach 
+the Constitutional question. 
+
+
+18a 
+
+
+United States v. Menaschem, 348 U.S. 528, 538 (1955) 
+(stating t he cardinal principle of statutory construc- 
+tion is to save and not to destroy”)); see United States v. 
+Nordic Village, Inc., 503 U.S. 30, 36 (1992); Gade v. 
+National Solid Wastes Management Ass un, 505 U.S. 88, 
+100 (1992). As between two statutory provision con- 
+cerning the same topic, the more specific section 
+governs the general. “The law is settled that ‘however 
+inclusive may be the general language of a statute, it 
+will not be held to apply to a matter specifically dealt 
+with in another part of the same enactment.’” Fourco 
+Glass Co. v. Transmirra Prods. Corp., 353 U.S. 222, 
+228-29 (1957); see also Morales v. Trans World 
+Airlines, Inc., 504 U.S. 374, 384 (1992) (stating “it is a 
+commonplace of statutory construction that the specific 
+governs the general. ). Thus, the Court must deter- 
+mine the interplay between Section 141 and Section 195 
+of the Census Act in deciding whether sampling may be 
+used in the Census 2000 to apportion representatives 
+among the states. 
+
+Section 141 of the Census Act generally authorizes 
+the Secretary to use sampling in conducting various 
+aspects of the census, without an express prohibition. 
+13 U.S.C. § 141. A reading of the plain language of Sec- 
+tion 141 itself further establishes that Congress’ intent 
+was to authorize sampling for numerous purposes of the 
+census other than congressional apportionment. “As 
+used in this section, ‘census of the population’ means a 
+census of a population, housing, and matters relating to 
+population and housing.” 13 U.S.C. § 141(g). 
+
+Under 13 U.S.C. § 195, Congress’ prohibition against 
+the use of sampling is clear on its face. The statute 
+specifically and prohibitorily states that: “/e]xcept for 
+the determination of population for purposes of appor- 
+tionment of Representatives in Congress among the 
+
+
+19a 
+
+
+several States, the Secretary shall, if he considers it 
+feasible, authorize the we of the statistical method 
+known as ‘sampling’ in carrying out the provisions of 
+this title.” (emphasis added). The language in § 195 
+makes clear that the “statistical method known as 
+Sampling“ may not be used for determining the appor- 
+tionment of Representatives of Congress. 13 U.S.C. 
+§ 195. The “except for” language thus plainly imposes a 
+restriction forbidding the sampling method in collecting 
+numbers for apportionment. The restriction is insepar- 
+able from the grant of authority to use sampling in 
+other ways. 
+
+In Richardson v. Ramirez, 418 U.S. 24 (1974), the 
+Supreme Court confirmed that the “except for” lan- 
+guage of § 2 [of the Fourteenth Amendment,] expressly 
+exempts from the sanction of that section dis- 
+enfranchisement grounded on prior conviction of a 
+felony.” Jd. at 43. Similarly, in Crosby v. United States, 
+506 U.S. 255 (1993), the court interpreted a statute 
+requiring the presence of criminal defendants “except 
+as otherwise provided” as constituting an express limi- 
+tation of the circumstances where a criminal defendant 
+could permissibly be absent. In light of the statute’s 
+“express use of the limiting phrase . . the language 
+and structure of the rule could not be more clear.” Id. 
+at 259. As such, the “except for” language of Section 
+195 of the Census Act could not be more clear, 
+expressly exempting from the general authorization of 
+that section any use of sampling for purposes of con- 
+gressional apportionment. 
+
+Defendants’ argument that its authority to sample is 
+precisely the same with the “except for” language as it 
+would be if the statute did not contain that language 
+renders the “except for” language devoid of meaning. 
+The Supreme Court has been clear that if possible, a 
+
+
+20a 
+
+
+statute must be construed “in such fashion that every 
+word has some operative effect.” See United States v. 
+Nordic Village, Inc., 503 U.S. 30, 36 (1992) (rejecting 
+statutory interpretation that “violated the settled rule 
+that a statute’s every word has operative effect”); 
+Bennet v. Spear, 117 S. Ct. 1154, 1166 (1997) (holding 
+principle of statutory construction is to give effect to 
+every clause and word of a statute); Gade v. National 
+Solid Wastes Management Ass’n, 505 U.S. 88, 100 
+(1992); United States v. Menasche, 348 U.S. 528, 538 
+(1955). Reading the general authorization for sampling 
+in Section 141 as some how negating the prohibition of 
+sampling for congressional apportionment in Section 
+195 would render the language of Section 195 meaning- 
+less. Rather, the statute must be read to give meaning 
+to both provisions. 
+
+To the extent that Sections 141 and 195 could not be 
+reconciled, established principles of statutory analysis 
+require that the “except for” language in Section 195 
+prevail. Statutory construction governs requiring the 
+more specific section concerning the same topic governs 
+the general. See Fourco Glass Co. v. Transmirra 
+Prods. Corp., 353 U.S. 222, 228-29 (1957); see also 
+Morales v. Trans World Airlines, Inc., 504 U.S. 374, 
+384 (1992); HCSC-Laundry v. United States, 450 U.S. 1, 
+6 (1981) (per curiam) (“it is a basic principle of statutory 
+construction that a specific statute . . . controls over a 
+general provision . . . particularly when the two are 
+interrelated and closely positioned. . .”); Aeron Marine 
+Shipping Co. v. United States, 695 F.2d 567, 576 (D.C. 
+Cir. 1982). Thus, where Section 195 is a specific statu- 
+tory prohibition of sampling for apportionment of Con- 
+gress, it prevails over the more general provisions of 
+Section 141’s grant of authority to the Secretary. 
+
+
+21a 
+
+
+In sum, the only plausible interpretation of the plain 
+language and strueture of the Act is that Seetion 195 
+prohibits sampling for apportionment and Seetion 141 
+allows it for all other purposes. When viewed in the 
+context of the statute as a whole, Section 141 in no way 
+undermines the definite prohibition of sampling for 
+
+
+purposes of apportionment contained in Section 195. As 
+Congress prohibited sampling for purposes of appor- 
+tionment, the Secretary has no authority to do anything 
+but an actual head count of the population for this 
+
+
+purpose. 
+
+The conclusive reading of the statute’s text on its 
+face ends the Court’s task whereas “the statutory lan- 
+guage is unambiguous and ‘the statutory scheme is 
+coherent and consistent.“ See Robinson v. Shell Oil 
+Co., 117 S. Ct. 843, 846 (1997) (quoting United States v. 
+Ron Pair Enterprises, Inc., 489 U.S. 235, 240 (1989)); 
+Connecticut Nat! Bank v. Germain, 503 U.S. 249, 254 
+(1992) (stating “[wJhen the words of a statute are 
+unambiguous, [] this first canon is also the last: ‘judicial 
+inquiry is complete.’”) (quoting Rubin v. United States, 
+449 U.S. 424, 430 (1981)); Estate of Cowart v. Nicklos 
+Drilling Co., 505 U.S. 469, 475 (1992) (“when a statute 
+speaks with clarity to an issue judicial inquiry into the 
+statute’s meaning, in all but the most extraordinary 
+circumstances, is finished.”) (citing Demarest v. Man- 
+speaker, 498 U.S. 184, 190 (1991)). Because the Court 
+finds the reading of section 141(a) and section 195 are 
+clear on its face, the Court finds no need to reach the 
+constitutional questions presented. Therefore, this 
+Court finds that the defendants should be permanently 
+enjoined from using any form of statistical sampling, 
+including their program for nonresponse follow-up and 
+Integrated Coverage Measurement, to determine the 
+
+
+22a 
+
+
+population for purposes of congressional apportion- 
+ment. 
+An appropriate order shall issue. 
+
+
+Judges Widener and Jackson concur. 
+
+
+IV CLAUDE M. HILTON 
+CHIEF JUDGE CLAUDE M. HILTON 
+
+
+Alexandria, Virginia 
+September 24, 1992 
+
+
+23a 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE EASTERN DISTRICT OF VIRGINIA 
+
+
+ALEXANDRIA DIVISION 
+
+
+Civil Action No. 98-207-A 
+
+
+MATTHEW GLAVIN, ET AL., PLAINTIFFS 
+Vv. 
+WILLIAM J. CLINTON, ET AL., DEFENDANTS 
+
+
+[Filed: Sept. 24, 1998] 
+
+
+ORDER 
+This matter comes before the Court on the defen- 
+dants’ motion to dismiss and the plaintiffs’ motion for 
+
+
+summary judgment. For the reasons stated in the ac- 
+companying Memorandum Opinion, it is hereby 
+
+
+ORDERED that the plaintiffs’ motion for summary 
+judgment is GRANTED, and the defendants’ motion to 
+dismiss is DENIED, and it is hereby ORDERED that 
+the defendants are permanently enjoined from using 
+any form of statistical sampling, including their pro- 
+gram for non-response follow-up and Integrated Cover- 
+age Measurement, to determine the population for pur- 
+poses of congressional apportionment. 
+
+
+ISV CLAUDE M. HILTON 
+CHIEF JUDGE CLAUDE M. HILTON 
+
+
+UNITED STATES DISTRICT COURT 
+
+
+Alexandria, Virginia 
+September 24, 1992 
+
+
+24a 
+
+
+APPENDIX B 
+
+
+Article I, Section 2, Clause 3 of the United States 
+Constitution provides as follows: 
+
+
+Representatives and direct Taxes shall be appor- 
+tioned among the several States which may be included 
+within this Union, according to their respective 
+Numbers, which shall be determined by adding to the 
+whole Number of free Persons, including those bound 
+to Service for a Term of Years, and excluding Indians 
+not taxed, three fifths of all other Persons. The actual 
+Enumeration shall be made within three Years after 
+the first Meeting of the Congress of the United States, 
+and within every subsequent Term of ten Years, in such 
+Manner as they shall by Law direct. The Number of 
+Representatives shall not exceed one for every thirty 
+Thousand, but each State shall have at Least one 
+Representative; and until such enumeration shall be 
+made, the State of New Hampshire shall be entitled to 
+chuse three, Massachusetts eight, Rhode-Island and 
+Providence Plantations one, Connecticut five, New 
+York six, New Jersey four, Pennsylvania eight, Dela- 
+ware one, Maryland six, Virginia ten, North Carolina 
+five, South Carolina five, and Georgia three. 
+
+
+Section 2 of the Fourteenth Amendment to the 
+United States Constitution provides as follows: 
+
+
+Representatives shall be apportioned among the 
+several States according to their respective numbers, 
+counting the whole number of persons in each State, 
+excluding Indians not taxed. But when the right to 
+vote at any election for the choice of electors for 
+President and Vice President of the United States, 
+Representatives in Congress, the Executive and Judi- 
+cial officers of a State, or the members of the Legisla- 
+
+
+25a 
+
+
+ture thereof, is denied to any of the male inhabitants of 
+such State, being twenty-one years of age, and citizens 
+of the United States, or in any way abridged, except for 
+participation in rebellion, or other crime, the basis of 
+representation therein shall be reduced in the propor- 
+tion which the number of such male citizens shall bear 
+to the whole number of male citizens twenty-one years 
+of age in such State. 
+
+
+Section 2a of Title 2, United States Code, provides as 
+follows: 
+
+
+Reapportionment of Representatives; time and 
+manner; existing decennial census figures as basis; 
+statement by President; duty of clerk | 
+
+(a) On the first day, or within one week thereafter, 
+of the first regular session of the Eighty-second 
+Congress and of each fifth Congress thereafter, the 
+President shall transmit to the Congress a statement 
+showing the whole number of persons in each State, 
+excluding Indians not taxed, as ascertained under the 
+seventeenth and each subsequent decennial census of 
+the population, and the number of Representatives to 
+which each State would be entitled under an apportion- 
+ment of the then existing number of Representatives 
+by the method known as the method of equal propor- 
+tions, no State to receive less than one Member. 
+
+
+(b) Each State shall be entitled, in the Eighty-third 
+Congress and in each Congress thereafter until the 
+taking effect of a reapportionment under this section or 
+subsequent statute, to the number of Representatives 
+shown in the statement required by subsection (a) of 
+this section, no State to receive less than one Member. 
+It shall be the duty of the Clerk of the House of 
+
+
+See Amendment XIX and section 1 of amendments XXVI. 
+
+
+26a 
+
+
+Representatives, within fifteen calendar days after the 
+receipt of such statement, to send to the executive of 
+each State a certificate of the number of Representa- 
+tives to which such State is entitled under this settion. 
+In case of a vacancy in the office of clerk, or of his 
+absence or inability to discharge this duty, then such 
+duty shall devolve upon the Sergeant at Arms of the 
+House of Representatives. 
+
+(e) Until a State is redistricted in the manner pro- 
+vided by the law thereof after any apportionment, the 
+Representatives to which such State is entitled under 
+such apportionment shall be elected in the following 
+manner: (1) If there is no change in the number of 
+Representatives they shall be elected from the districts 
+then prescribed by the law of such State, and if any of 
+them are elected from the State at large they shall 
+continue to be so elected; (2) if there is an increase in 
+the number of Representatives, such additional 
+Representative or Representatives shall be elected 
+from the State at large and the other Representatives 
+from the districts then prescribed by the law of such 
+State; (3) if there is a decrease in the number of 
+Representatives but the number of districts in such 
+State is equal to such decreased number of Representa- 
+tives, they shall be elected from the districts then 
+prescribed by the law of such State; (4) if there is a 
+decrease in the number of Representatives but the 
+number of districts in such State is less than such 
+number of Representatives, the number of Representa- 
+tives by which such number of districts is exceeded 
+shall be elected from the State at large and the other 
+Representatives from the districts then prescribed by 
+the law of such State; or (5) if there is a decrease in the 
+number of Representatives and the number of districts 
+
+
+27a 
+
+
+in such State exceeds such decreased number of Repre- 
+sentatives, they shall be elected from the State at large. 
+
+
+Section 141 of Title 13, United States Code, provides as 
+follows: 
+
+
+Population and other census information 
+
+
+(a) The Secretary shall, in the year 1980 and every 
+10 years thereafter, take a decennial census of popula- 
+tion as of the first day of April of such year, which date 
+shall be known as the “decennial census date”, in such 
+form and content as he may determine, including the 
+use of sampling procedures and special surveys. In 
+connection with any such census, the Secretary is 
+authorized to obtain such other census information as 
+necessary. 
+
+(b) The tabulation of total population by States 
+under subsection (a) of this section as required for the 
+apportionment of Representatives in Congress among 
+the several States shall be completed within 9 months 
+
+
+after the census date and reported by the Secre to 
+the President of the United States. n seis 
+
+
+(e) The officers or public bodies having initial 
+responsibility for the legislative apportionment or 
+districting of each State may, not later than 3 years 
+before the decennial census date, submit to the Secre- 
+tary a plan identifying the geographic areas for which 
+specific tabulations of population are desired. Each 
+such plan shall be developed in accordance with criteria 
+established by the Secretary, which he shall furnish to 
+such officers or public bodies not later than April 1 of 
+the fourth year preceding the decennial census date. 
+Such criteria shall include requirements which assure 
+that such plan shall be developed in a nonpartisan 
+manner. Should the Secretary find that a plan sub- 
+
+
+28a 
+
+
+mitted by such off:cers or public bodies does not meet 
+the criteria established by him, he shall consult to the 
+extent necessary with such officers or public bodies in 
+order to achieve the alterations in such plan that he 
+deems necessary to bring it into accord with such 
+criteria. Any issues with respect to such plan remain- 
+ing unresolved after such consultation shall be resolved 
+by the Secretary, and in all cases he shall have final 
+authority for determining the geographic format of 
+such plan. Tabulations of population for the areas iden- 
+tified in any plan approved by the Secretary shall be 
+completed by him as expeditiously as possible after the 
+decennial census date and reported to the Governor of 
+the State involved and to the officers or public bodies 
+having responsibility for legislative apportionment or 
+districting of such State, except that such tabulations of 
+population of each State requesting a tabulation plan, 
+and basic tabulations of population of each other State, 
+shall, in any event, be completed, reported, and trans- 
+mitted to each respective State within one year after 
+the decennial census date. 
+
+
+(d) Without regard to subsections (a), (b), and (e) of 
+this section, the Secretary, in the year 1985 and every 
+10 years thereafter, shall conduct a mid-decade census 
+of population in such form and content as he may 
+determine, including the use of sampling procedures 
+and special surveys, taking into account the extent to 
+which information to be obtained from such census will 
+serve in lieu of information collected annually or less 
+frequently in surveys or other statistical studies. The 
+census shall be taken as of the first day of April of each 
+such year, which date shall be known as the “mid- 
+decade census date”. 
+
+
+(e!) Lf- 
+
+
+29a 
+
+
+(A) in the administration of any program 
+established by or under Federal law which provides 
+benefits to State or local governments or to other 
+recipients, eligibility for or the amount of such 
+benefits would (without regard to this paragraph) 
+be determined by taking into account data obtained 
+in the most recent decennial census, and 
+
+
+(B) comparable data is obtained in a mid-decade 
+census conducted after such decennial census, 
+
+
+then in the determination of such eligibility or amount 
+of benefits the most recent data available from either 
+the mid-decade or decennial census shall be used. 
+
+
+(2) Information obtained in any mid-decade census 
+shall not be used for apportionment of Representatives 
+in Congress among the several States, nor shall such 
+information be used in prescribing congressional 
+districts. 
+
+(f) With respect to each decennial and mid-decade 
+census conducted under subsection (a) or (d) of this 
+section, the Secretary shall submit to the committees of 
+Congress having legislative jurisdiction over the 
+census 
+
+
+(1) not later than 3 years before the appropri- 
+ate census date, a report containing the Secretary’s 
+determination of the subjects proposed to be 
+included, and the types of information to be com- 
+piled, in such census; 
+
+
+(2) not later than 2 years before the appropri- 
+ate census date, a report containing the Secretary’s 
+determination of the questions proposed to be 
+inc) ded in such census; and 
+
+
+30a 
+
+
+(3) after submission of a report under para- 
+graph (1) or (2) of this subsection and before the 
+appropriate census date, if the Secretary finds new 
+circumstances exist which necessitate that the 
+subjects, types of information or questions con- 
+tained in reports so submitted be modified, a report 
+containing the Secretary’s determination of the 
+subjects, types of information, or questions as 
+proposed to be modified. 
+
+(g) As used in this section, “census of population” 
+means a census of population, housing, and matters 
+relating to population and housing. 
+
+Section 195 of Title 13, United States Code, provides 
+as follows: 
+
+
+Use of sampling 
+Except for the determination of population for pur- 
+poses of apportionment of Representatives in 
+among the several States, the Secretary shall, if he 
+considers it feasible, authorize the use of the statistical 
+
+
+method known as “sampling” in carrying out the 
+provisions of this title. 
+
+
+3la 
+
+
+Section 209 of the 1998 Departments of Commerce 
+Justice, and State, the Judiciary, and Related Agencies 
+Appropriations Act, Pub. L. No. 105-119, 111 Stat. 2480 
+2483 (1997), provides as follows: 
+
+
+(a) Congress finds that- 
+
+
+(1) it is the constitutional duty of the Congress to 
+ensure that the decennial enumeration of the population 
+is conducted in a manner consistent with the Constitu- 
+tion and laws of the United States; 
+
+
+(2) the sole constitutional purpose of the decennial 
+enumeration of the population is the apportionment of 
+
+
+Representatives in Congress among the several States; 
+
+
+(3) section 2 of the 14th article of amendment to the 
+Constitution clearly states that Representatives are to 
+be “apportioned among the several States according to 
+their respective numbers, counting the whole number 
+of persons in each State”; 
+
+(4) article I, section 2, clause 3 of the Constitution 
+clearly requires an “actual Enumeration” of the popula- 
+tion, and section 195 of title 13, United States Code, 
+clearly provides “Except for the determination of popu- 
+lation for purposes of apportionment of Representa- 
+tives in Congress among the several States, the Secre- 
+tary shall, if he considers it feasible, authorize the use of 
+the statistical method known as ‘sampling’ in carrying 
+out the provisions of this title.”; 
+
+(5) the decennial enumeration of the population is 
+one of the most critical constitutional functions our 
+Federal Government performs; 
+
+
+(6) it is essential that the decennial enumeration of 
+the population be as accurate as possible, consistent 
+with the Constitution and laws of the United States; 
+
+
+(7) the use of statistical sampling or statistical ad- 
+justment in conjunction with an actual enumeration to 
+carry out the census with respect to any segment of the 
+population poses the risk of an inaccurate, invalid, and 
+unconstitutional census; 
+
+
+(8) the decennial enumeration of the population is a 
+complex and vast undertaking, and if such enumeration 
+is conducted in a manner that does not comply with the 
+requirements of the Constitution or laws of the United 
+States, it would be impracticable for the States to 
+obtain, and the courts of the United States to provide, 
+meaningful relief after such enumeration has been 
+conducted; and 
+
+
+(9) Congress is committed to providing the level of 
+funding that is required to perform the entire range of 
+constitutional census activities, with a particular em- 
+phasis on accurately enumerating all individuals who 
+have historically been undercounted, and toward this 
+end, Congress expects- 
+
+(A) aggressive and innovative promotion and 
+outreach campaigns in hard-to-count communities; 
+
+
+(B) the hiring of enumerators from within those 
+communities; 
+(C) continued cooperation with local govern- 
+ment on address list development; and 
+
+
+(D) maximized census employment opportuni- 
+ties for individuals seeking to make the transition 
+from welfare to work. 
+
+
+(b) Any person aggrieved by the use of any statisti- 
+cal method in violation of the Constitution or any 
+provision of law (other than this Act), in connection 
+with the 2000 or any later decennial census, to deter- 
+
+
+mine the population for purposes of the apportionment 
+or redistricting of Members in Congress, may in a civil 
+action obtain declaratory, injunctive, and any other 
+appropriate relief against the use of such method. 
+
+
+(e) For purposes of this seetion- 
+
+
+(1) _ the use of any statistical method as part of a 
+dress rehearsal or other simulation of a census in 
+preparation for the use of such method, in a decen- 
+nial census, to determine the population for pur- 
+poses of the apportionment or redistricting of Mem- 
+bers in Congress shall be considered the use of such 
+method in connection with that census; and 
+
+(2) the report ordered by title VIII of Public 
+Law 105-18 and the Census 2000 Operational Plan 
+shall be deemed to constitute final azency action 
+regarding the use of statistical methods in the 2000 
+decennial census, thus making the question of their 
+use in such census sufficiently concrete and final to 
+now be reviewable in a judicial proceeding. 
+
+
+(d) For purposes of this section, an aggrieved person 
+(described in subsection (b)) ineludes- 
+
+(1) any resident of a State whose congressional 
+representation or district could be changed as a 
+result of the use of a statistical method challenged 
+in the civil action; 
+
+(2) any Representative or Senator in Congress; 
+and 
+
+
+(3) either House of Congress, 
+
+
+(eX1) Any action brought under this section shall 
+be heard and determined by a district court of three 
+judges in accordance with Section 2284 of title 28, 
+United States Code. The chief judge of the United 
+
+
+34a 
+
+
+States court of appeals for each circuit shall, to the 
+extent practicable and consistent with the avoidance of 
+unnecessary delay, consolidate, for all purposes, in one 
+district court within that circuit, all actions pending in 
+that circuit under this section. Any party to an action 
+under this section shall be precluded from seeking any 
+consolidation of that action other than is provided in 
+this paragraph. In selecting the district court in which 
+to consolidate such actions, the chief judge shall con- 
+sider the convenience of the parties and witnesses and 
+efficient conduct of such actions. Any final order or 
+injunction of a United States district court that is 
+issued pursuant to an action brought under this section 
+shall be reviewable by appeal directly to the Supreme 
+Court of the United States. Any such appeal shall be 
+taken by a notice of appeal filed within 10 days after 
+such order is entered; and the jurisdictional statement 
+shall be filed within 30 days after such order is entered. 
+No stay of an order issued pursuant to an action 
+brought under this section may be issued by a single 
+Justice of the Supreme Court. 
+
+
+(2) It shall be the duty of a United States district 
+court hearing an action brought under this section and 
+the Supreme Court of the United States to advance on 
+the docket and to expedite to the greatest possible 
+extent the disposition of any such matter. 
+
+
+(f) Any agency or entity within the executive 
+branch having authority with respect to the carrying 
+out of a decennial census may in a civil action obtain a 
+declaratory judgment respecting whether or not the 
+use of a statistical method, in connection with such 
+census, to determine the population for the purposes of 
+the apportionment or redistricting of Members in Con- 
+
+
+35a 
+
+
+gress is forbidden by the Constitution and laws of the 
+United States. 
+
+
+(g) The Speaker of the House of Representatives or 
+the Speaker’s designee or designees may commence or 
+join in a civil action, for and on behalf of the House of 
+Representatives, under any applicable law, to prevent 
+the use of any statistical method, in connection with the 
+decennial census, to determine the population for pur- 
+poses of the apportionment or redistricting of Members 
+in Congress. It shall be the duty of the Office of the 
+General Counsel of the House of Representatives to 
+represent the House in such civil action, according to 
+the directions of the Speaker. The Office of the General 
+Counsel of the House of Representatives may employ 
+the services of outside counsel and other experts for 
+this purpose. 
+
+(h) For purposes of this section and section 210- 
+
+(J) the term “statistical method” means an ac- 
+tivity related to the design, planning, testing, or 
+implementation of the use of representative sam- 
+pling, or any other statistical procedure, including 
+statistical adjustment, to add or subtract counts to 
+or from the enumeration of the population as a 
+result of statistical inference; and 
+
+
+(2) the term “census” or “decennial census” 
+means a decennial enumeration of the population. 
+
+
+(i) Nothing in this Act shall be construed to au- 
+thorize the use of any statistical method, in connection 
+with a decennial census, for the apportionment or 
+redistricting of Members in Congress. 
+
+
+(j) Sufficient funds appropriated under this Act or 
+under any other Act for purposes of the 2000 decennial 
+census shall be used by the Bureau of the Census to 
+
+
+36a 
+
+
+plan, test, and become prepared to implement a 2000 
+decennial census, without using statistical methods, 
+which shall result in the percentage of the total popula- 
+tion actually enumerated being as close to 100 percent 
+as possible. In both the 2000 decennial census, and any 
+dress rehearsal or other simulation made in preparation 
+for the 2000 decennial census, the number of persons 
+enumerated without using statistical methods must be 
+publicly available for all levels of census geography 
+which are being released by the Bureau of the Census 
+for: (1) all data releases before January 1, 2001; (2) the 
+data contained in the 2000 decennial census Public Law 
+94-171 data file released for use in redistricting; (3) the 
+Summary Tabulation File One (STF-1) for the 2000 
+decennial census; and (4) the official populations of the 
+States transmitted from the Secretary of Commerce 
+through the President to the Clerk of the House used to 
+reapportion the districts of the House among the States 
+as a result of the 2000 decennial census. Simultaneously 
+with any other release or reporting of any of the infor- 
+mation described in the preceding sentence through 
+other means, such information shall be made available 
+to the public on the Internet. These files of the Bureau 
+of the Census shall be available concurrently to the 
+release of the original files to the same recipients, on 
+identical media, and at a comparable price. They shall 
+contain the number of persons enumerated without 
+using statistical methods and any additions or subtrac- 
+tions thereto. These files shall be based on data gath- 
+ered and generated by the Bureau of the Census in its 
+official capacity. 
+
+
+(k) This section shall apply in fiscal year 1998 and 
+succeeding fiscal years. 
+
+
+37a 
+
+
+APPENDIX C 
+
+
+UNITED STATES DISTRICT COURT FOR THE 
+EASTERN DISTRICT OF VIRGINIA 
+
+
+Civil Action No. 98-207-A 
+MATTHEW GLAVIN, ET AL., PLAINTIFFS 
+v. 
+
+
+WILLIAM J. CLINTON, ET AL., DEFENDANTS 
+
+
+[Filed: Sept. 25, 1998] 
+
+
+NOTICE OF APPEAL 
+
+
+Pursuant to Section 209(e)(1) of the Departments of 
+Commerce, Justice, and State, the Judiciary, and Re- 
+lated Agencies Appropriations Act, 1998, P.L. No. 105- 
+119, 111 Stat. 2482 (1997), codified at 13 U.S.C. § 141 
+note, defendants William J. Clinton, in his capacity as 
+President of the United States; the United States De- 
+partment of Commerce; William M. Daley, in his capa- 
+city as Secretary of the United States Department of 
+Commerce; the Bureau of the Census; and James F. 
+Holmes, in his capacity as Acting Director of the 
+Bureau of the Census hereby appeal to the United 
+States Supreme Court from the Order and Judgment 
+and Memorandum Opinion filed by this Court on 
+September 24, 1998. 
+
+
+38a 
+
+
+Respectfully submitted, 
+
+
+/s/ 
+
+
+FRANK W. HUNGER 
+Assistant Attorney General 
+
+
+HELEN F. FAHEY 
+United States Attorney 
+
+
+DENNIS E. SZYBALA 
+DENNIS SZYBALA 
+
+
+Special Assistant United States Attorney 
+
+
+DENNIS G. LINDER 
+Director - 
+Federal Programs Branch 
+
+
+THOMAS W. MILLET 
+MICHAEL SITCOV 
+DAVID M. SOUDERS 
+JENNIFER E. KAPLAN 
+D. JAMES GREINER 
+
+
+U.S. Department of Justice 
+Civil Division 
+
+Federal Programs Branch 
+901 E Street, N.W., Rm. 982 
+Washington, D.C. 20530 
+Telephone: (202) 514-3313 
+
+
+Attorneys for All Defendants 
+
+
+OF COUNSEL: 
+
+
+ANDREW J. PINCUS 
+General Counsel 
+
+
+ROXIE J.JONES 
+KATHLEEN M. STYLES 
+U.S. Department of Commerce 
+
+
