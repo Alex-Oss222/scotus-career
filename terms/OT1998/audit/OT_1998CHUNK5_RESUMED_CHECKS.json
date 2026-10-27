@@ -1,0 +1,51 @@
+{
+  "preserved_existing_files": 278,
+  "preserved_render_entries": [
+    "minns_v_united_states_merits_1999-02-25.md",
+    "arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+    "holloway_v_united_states_merits_1999-03-02.md",
+    "peguero_v_united_states_merits_1999-03-02.md",
+    "american_manufacturers_v_sullivan_merits_1999-03-03.md",
+    "cedar_rapids_v_garret_f_merits_1999-03-03.md",
+    "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+    "nffe_and_flra_v_interior_merits_1999-03-03.md",
+    "stewart_v_lagrand_certiorari_1999-03-03.md",
+    "jackson_v_benson_merits_1999-03-16.md",
+    "reform_party_v_democratic_national_committee_merits_1999-03-17.md"
+  ],
+  "new_render_order": [
+    "minns_v_united_states_merits_1999-02-25.md",
+    "arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+    "holloway_v_united_states_merits_1999-03-02.md",
+    "peguero_v_united_states_merits_1999-03-02.md",
+    "american_manufacturers_v_sullivan_merits_1999-03-03.md",
+    "cedar_rapids_v_garret_f_merits_1999-03-03.md",
+    "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+    "nffe_and_flra_v_interior_merits_1999-03-03.md",
+    "stewart_v_lagrand_certiorari_1999-03-03.md",
+    "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+    "gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md",
+    "jackson_v_benson_merits_1999-03-16.md",
+    "reform_party_v_democratic_national_committee_merits_1999-03-17.md"
+  ],
+  "new_records": [
+    "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+    "gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md"
+  ],
+  "checker_non_git_output": "OK: OT1998; 0 warning(s)",
+  "git_verification": "Deferred by explicit user instruction; no git command executed.",
+  "unique_commit_references_not_checked": [
+    "0bdb63c7",
+    "3a04640b",
+    "6dc56753",
+    "95515c52",
+    "c09ee281",
+    "dba1f2f8"
+  ],
+  "scheduled_completed": 59,
+  "scheduled_unresolved": 69,
+  "undated_unresolved": 13,
+  "court_records": 61,
+  "admitted_source_records": 1,
+  "stopped_resumed_matters": []
+}

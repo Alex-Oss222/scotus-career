@@ -9,7 +9,7 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 - **Edition:** October 26, 2026
 
 
-59 current-term Court events completed, with the latest dated 1999-03-17. 71 scheduled items remain unresolved (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 84 unresolved inventory items in total. One nonjudicial source event is admitted separately. Records control. The [manifest](manifest.md) and [ledger](ledger.md) identify durable Records and pending events. The opening setting remains preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md).
+61 current-term Court events completed, with the latest dated 1999-03-17. 69 scheduled items remain unresolved (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 82 unresolved inventory items in total. One nonjudicial source event is admitted separately. Records control. The [manifest](manifest.md) and [ledger](ledger.md) identify durable Records and pending events. The opening setting remains preserved in [opening continuity](../freeze/OPENING_CONTINUITY.md).
 
 ## Completed Events and Admitted Sources
 
@@ -72,6 +72,8 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 | 1999-03-03 | Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull; No. 127, Original; A-736. | The request to dispense with printing is granted. The requested preliminary injunction and temporary restraining order, including the independent request for temporary protection pending consideration, are denied. The motion for leave to file remains under consideration. The foregoing order records the action of the Court. The participating Justices' positions and the reasons they adopt are set out below. Certified for issuance: Alex-Lamar Stone-Zsela, Chief Justice. | [record](../records/federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md) |
 | 1999-03-03 | National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior; Nos. 97-1184 and 97-1243. | The Court vacates the Fourth Circuit's judgment and remands both cases for further proceedings consistent with its opinion. | [record](../records/nffe_and_flra_v_interior_merits_1999-03-03.md) |
 | 1999-03-03 | Stewart v. LaGrand; No. 98-1412; distinct State application A-735. | The petition for a writ of certiorari is granted to consider whether the gas-specific injunction may stand in light of the presented method-election, procedural-default and antecedent habeas-review questions. The grant does not encompass a new comprehensive empirical question about execution methods or authorize ordinary review of an actual §2244(b)(3) authorization decision. | [record](../records/stewart_v_lagrand_certiorari_1999-03-03.md) |
+| 1999-03-03 | Stewart v. LaGrand; No. 98-1412; distinct State application A-735. | Gas-specific injunction vacated and appellate judgment reversed at the confined election scope, 7–2 on each component; the distinct cause-error vacatur ground commands five votes. | [public copy](../records/stewart_v_lagrand_application_and_summary_merits_1999-03-03.md) |
+| 1999-03-04 | Gable v. Patton / Patton v. Gable; Nos. 98-897 and 98-1072. | Appellate judgment vacated within both granted components and remanded for determination of the continuing controversy, 5–4; no constitutional merits disposition. | [public copy](../records/gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md) |
 | 1999-03-16 | Jackson v. Benson; No. 98-376; OT1998. | The federal Establishment Clause disposition and the dependent blanket direction to dissolve the injunction are vacated, within the federal question, and the case is remanded. | [record](../records/jackson_v_benson_merits_1999-03-16.md) |
 | 1999-03-17 | National Committee of the Reform Party of the United States of America v. Democratic National Committee; Ninth Circuit No. 98-15443; 168 F.3d 360. | The judgment is affirmed insofar as it rejects the presented funding claims and dismisses the affiliation challenge for want of standing. The Court enters no independent disposition of the separate damages or certification judgments. | [record](../records/reform_party_v_democratic_national_committee_merits_1999-03-17.md) |
 
@@ -1330,6 +1332,102 @@ The applicable habeas, certificate, procedural-default and execution-method rule
 
 [Authority and exact joins](../records/stewart_v_lagrand_certiorari_1999-03-03.md#opinion-topology).
 
+### Stewart v. LaGrand — application and summary merits — 1999-03-03
+
+#### Holdings
+
+##### I. The particular renewed method election defeats this gas objection
+
+**Holding and operative rule:** A prisoner who affirmatively selects lethal gas when injection is available as the statutory alternative and default, and reaffirms that selection after an express opportunity to choose injection, cannot obtain relief on this gas-method objection when injection is not challenged in the present proceeding. The Court treats that repeated choice as waiver of this particular objection, without holding that every capital punishment protection may be waived or that every selected punishment is constitutional.
+
+**Authority:** Part I of the per curiam opinion is joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. These seven agree on the same operative proposition, including the qualified present nonchallenge-to-injection premise; no fractured-opinion inference is needed.
+
+**Controlling explanation:** The Court holds that this repeated affirmative choice has a consequence distinct from silence or failure to discover an unfamiliar procedure. Walter selected gas and maintained that choice after the Governor offered reconsideration on March 1. Injection was the statutory default and, on the contemporary judicial account of this proceeding, was not challenged here. *Johnson v. Zerbst* supplies the intentional-relinquishment principle; the Court applies it to this actual, renewed method election, without making a global finding about advice, capacity or surrender of constitutional rights.
+
+The principal objection is that the earlier appellate ruling made election a prerequisite to adjudicating the gas claim. That history explains the renewed claim's timing. It does not eliminate the later offered opportunity to avoid the particular challenged method through an alternative unchallenged here. Access to consideration of a ripe claim does not guarantee its success or continued injunctive protection. The appellate panel considered the dispute and entered relief; no identified unfinished mandatory step prevents this discrete legal resolution. *Lonchar* protects actually required process when lawful expedition cannot complete it, and *Bowersox* distinguishes certification from substantial available grounds for relief; neither requires an injunction after a sufficient legal disposition.
+
+The judgment granting relief on this particular gas objection is reversed and its injunction vacated. The Court does not decide the empirical constitutionality of gas or injection, impose a universal alternative-method requirement, or adjudicate an unidentified independent claim.
+
+##### II. General unavailability does not excuse the earlier omission of the gas claim
+
+**Holding and operative rule:** A general claim that execution by gas causes unconstitutional pain and lingering death was reasonably available before Walter's direct review ended in 1987; neither a later favorable circuit ruling nor a later federal election prerequisite establishes cause for omitting that theory during state proceedings when gas was the only method. The injunction cannot rest on the appellate court's contrary general-unavailability rationale; this error independently warrants vacatur and lawful claim-specific reconsideration, but does not establish a final adequate, independent and unexcused bar to every gas-related claim or cause theory.
+
+**Authority:** Part II of the per curiam opinion is joined by O'Connor, Scalia, Kennedy, Souter and Thomas. These five supply an independently sufficient injunction-vacatur ground. Ginsburg and Breyer join Part I and the judgment, but not Part II's independent remedial ground; Stevens and Stone-Zsela dissent from both dispositions.
+
+**Controlling explanation:** The Court holds that unavailability of a claim is different from the prospect of losing it. *Reed v. Ross* permits cause when a constitutional claim's basis was not reasonably available. *Engle v. Isaac* rejects futility in an unsympathetic court as a substitute. *Murray v. Carrier* requires an objective external impediment in the ordinary case and distinguishes ordinary lawyer error from constitutionally ineffective assistance. The 1983 litigation in *Gray v. Lucas* presented the general gas theory with medical and eyewitness support. A favorable later decision was not necessary to formulate it, and the later federal prematurity ruling does not explain omission from earlier state proceedings when gas was the sole method.
+
+This conclusion does not equate every Arizona protocol fact with every Mississippi fact or find every possible factual predicate discoverable before 1987. The earlier federal representation-choice ruling concerned the then-asserted sentencing issue; it does not establish identity with the later gas-related ineffective-assistance claim. *Carrier* preserves the distinct independent-ineffectiveness route, while *Coleman v. Thompson* requires the actual default predicates and exceptions. *Trest* keeps default nonjurisdictional; *Gray v. Netherland* requires separate treatment of distinct claims and their procedural histories. The March 2 state ruling is reported, but its citation does not establish all those predicates.
+
+The possibility of another lawful ground does not sustain an injunction resting on this demonstrated error. Standing alone, Part II permits lawful reconsideration and independently justified new interim relief, not automatic final dismissal, a required hearing or a substitute stay. Part I nevertheless finally resolves the particular elected-method objection; Part II does not reopen that same objection.
+
+##### Reserved questions and scope
+
+The Court reviews the distinct appellate judgment and injunction, not an actual authorization decision under §2244(b)(3). *Martinez-Villareal* and *Felker* preserve the distinction between reviewable classification and the statutory bar on ordinary appeal or certiorari from an actual authorization decision. The grant creates no exception to that bar. No final successive-application classification, general extension of the preserved-premature-Ford holding, or final Teague ruling is made. Reasonable availability for cause remains distinct from whether a rule was dictated when direct review ended in 1987.
+
+The existing certificate is not rescinded. The provision-specific *Lindh*, *Carriger* and *Calderon v. Coleman* temporal rules remain intact; an older initial application supplies no blanket AEDPA exemption for a genuinely new filing. The March 2 procedural ruling is not converted into a state merits adjudication, and no factual-development or hearing entitlement is created. The additional four-Justice equity rationale is noncontrolling; no incompatible votes are aggregated to enlarge either holding.
+
+#### Precedent Treatment
+
+- *Johnson v. Zerbst*, 304 U.S. 458: its intentional-relinquishment principle is applied to the particular repeated election and presently unchallenged alternative, without a universal capital-rights waiver rule.
+- *Reed v. Ross*, 468 U.S. 1: its reasonable-unavailability cause rule is applied; a generally available theory does not become unavailable merely because later authority favors it.
+- *Engle v. Isaac*, 456 U.S. 107: its distinction between futility and unavailability is applied; adverse prospects alone do not supply cause.
+- *Murray v. Carrier*, 477 U.S. 478: its external-impediment and independent constitutional-ineffectiveness distinctions remain operative; the particular later ineffectiveness claim is not conclusively adjudicated here.
+- *Coleman v. Thompson*, 501 U.S. 722: its adequate-and-independent-default and excuse requirements remain intact; the reported state ruling does not alone establish each requirement.
+- *Trest v. Cain*: default remains nonjurisdictional; that principle neither erases an invoked bar nor validates one without its predicates.
+- *Gray v. Netherland*: distinct claims retain distinct procedural histories; its current nonretroactivity inquiry is not decided here.
+- *Lonchar v. Thomas*: required meaningful process and lawful expedition remain distinct from automatic restraint upon filing; no additional mandatory step is identified before this confined disposition.
+- *Bowersox v. Williams*: a certificate does not itself establish substantial grounds for relief; the bounded injunction-vacatur principle is applied without creating a global habeas dismissal.
+- *Stewart v. Martinez-Villareal* and *Felker v. Turpin*: the review-channel distinction survives unchanged; the confined preserved-premature-Ford holding is neither extended nor overruled.
+- *Hohn v. United States*: judicial certificate review remains distinct from ultimate relief; the existing certificate is not annulled by implication.
+- *Lindh v. Murphy*, *Carriger v. Stewart* and *Calderon v. Coleman*: provision-specific transition rules remain intact; no blanket exemption from AEDPA or new factual-hearing rule follows.
+
+#### Law After Decision
+
+Effective March 3, 1999, the particular renewed gas election, with an available injection alternative unchallenged in this proceeding, defeats this gas-method objection. The separate majority cause ruling rejects general-unavailability reasoning as support for the injunction without conclusively resolving every state-bar or independent-ineffectiveness predicate. The election holding finally resolves the particular objection; the cause alternative cannot reopen it. No general method-validity, universal waiver, successive-classification or nonretroactivity rule is added. Certificate, statutory-transition and independently justified interim-relief requirements retain their own scopes.
+
+[Authority and exact joins](../records/stewart_v_lagrand_application_and_summary_merits_1999-03-03.md#opinion-topology).
+
+### Gable v. Patton / Patton v. Gable — threshold decision — 1999-03-04
+
+#### Holdings
+
+##### I. The continuing personal controversy requires resolution
+
+**Holding and operative rule:** When a postjudgment dispute leaves unresolved whether an election-law challenger retains a concrete personal stake in the challenged provisions, the lower courts must determine continuing exposure and redressability before deciding the constitutional merits. Supported present deterrence from candidacy or a reasonable expectation of renewed candidacy may establish that stake without formal filing; an unchanged statute and short election cycles alone cannot supply the same plaintiff's missing personal interest.
+
+**Authority:** Souter's Opinion of the Court is joined in full by O'Connor, Scalia, Kennedy and Thomas. Those five Justices directly support this rule and its application; the four dissenters would find the personal showing sufficient now.
+
+**Controlling explanation:** The Court holds that Gable's initial connection to this litigation does not settle whether the requested relief still addresses his own injury. He was a nonparticipating candidate in 1995. After the appellate judgment, the Registry asserted that he did not file for the 1999 primary. His reply relies on continuing deterrence and recurrence rather than asserting that he filed. Neither presentation is a lower-court finding resolving the present factual connection between Gable and each challenged provision.
+
+*Lujan v. Defenders of Wildlife* requires concrete personal injury, causation and redressability supported at the relevant litigation stage. *Department of Commerce v. House of Representatives / Clinton v. Glavin* applies that requirement to an actual claimant and preserves supported threatened injury without accepting an abstract interest in lawful government. Those principles permit a real deterrence claim: a person need not enter a race on allegedly unlawful terms merely to challenge those terms. They nevertheless require support for this person's continuing exposure. The short duration of elections can explain why review is difficult; it does not show that this claimant reasonably faces the same injury again.
+
+The contrary argument properly emphasizes Gable's past candidacy and his asserted unwillingness to return under the same restrictions. It does not warrant treating the new dispute about present exposure as already resolved. The lower courts must determine whether supported present deterrence or reasonably expected renewed candidacy connects him to each provision and whether the requested relief can redress that exposure. The Court neither finds mootness nor demands a filing certificate, a particular document, a new trial, merits discovery, a special burden of proof or a deadline. The State's cross-petition supplies no substitute for a live underlying controversy. The two constitutional questions remain unanswered.
+
+##### II. Vacatur and remand are confined to the granted components
+
+**Holding and operative rule:** The appellate judgment is vacated only as to approval of the responsive-financing trigger in No. 98-897 and invalidation of the twenty-eight-day prohibition on new personal funds in No. 98-1072, and those components are remanded for the continuing-controversy determination. If the controversy remains live, the lower courts may proceed under effective law; if it does not, they must decide the equitable treatment of the respective lower judgments in light of the actual cause and timing of mootness and the cross-petition's requested correction.
+
+**Authority:** The same five-Justice Court opinion supplies the complete remedial rationale and both docket-specific dispositions.
+
+**Controlling explanation:** The Court holds that uncertainty about continuing jurisdiction requires a bounded return to the lower courts, not a constitutional answer premised on unresolved personal exposure. The federal appellate channel under 28 U.S.C. §1254 permits review of the two granted components but does not dispense with Article III. Section 2106 permits the confined vacatur and remand necessary to resolve the supervening issue.
+
+The lower courts may use existing supported materials and ordinary properly received jurisdictional submissions. A live controversy permits further consideration of the two claims under governing law. A finding that the controversy has ended instead requires separate attention to the actual equities governing the lower judgments. This order does not assume voluntary abandonment, direct automatic vacatur of every district-court ruling or require preservation of every lower judgment regardless of the cause of mootness. The State's request to restore the personal-funds restriction must be addressed at its actual procedural scope; the nonfiling assertion neither automatically defeats that request nor decides the equitable remedy.
+
+Sponsor identification, compulsory slating and the independent validity of outside-donor restrictions lie beyond the grant and receive no new disposition. The outside-donor ruling is left undisturbed by this review without a new constitutional endorsement. The Court adopts no construction of unquoted statutory exceptions, no severability ruling, no new reporting regime and no public-payment obligation. Supreme Court review ends with this limited remand. No return date or further Supreme Court proceeding is ordered.
+
+#### Precedent Treatment
+
+- **Lujan v. Defenders of Wildlife, June 12, 1992:** Applied to concrete personal injury, causation, redressability and stage-appropriate support. Its requirements remain intact; no formal-candidacy prerequisite is added.
+- **Department of Commerce v. House of Representatives / Clinton v. Glavin, January 25, 1999:** Applied to the actual claimant's supported personal exposure and the distinction between a concrete threatened injury and an abstract objection. One party's desire for a ruling cannot supply another's missing personal stake.
+- **Day v. Holahan, May 15, 1995:** Its fractured responsive-financing judgment is not converted into a controlling financing rationale. Its separate notice, intermediary-contribution and nonprofit holdings remain unaffected.
+- **Buckley v. Valeo, 424 U.S. 1; Colorado Republican Federal Campaign Committee v. Federal Election Commission, June 26, 1996; Kentucky Right to Life v. Stengel, September 14, 1998; City of Cincinnati v. Kruse, December 16, 1998; Suster v. Marshall, January 28, 1999; and Buckley v. American Constitutional Law Foundation, January 12, 1999:** Their contribution, expenditure, public-financing and election-law rules are neither extended nor displaced. The Court reaches no financing or personal-funds merits; the dissent's application of those authorities is noncontrolling.
+
+#### Law After Decision
+
+Personal injury, causation and redressability remain required throughout review. Supported present deterrence or reasonably expected renewed candidacy can establish a continuing personal stake without a formal filing, but the present dispute requires lower-court resolution. The appellate judgment is vacated only within the two granted components. The Court establishes no new rule on responsive financing, own-funded expression, outside contributions or severability. The existing financing and expenditure precedents retain their separate scopes, and the dissent's merits views do not govern the remand.
+
+[Authority and exact joins](../records/gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md#opinion-topology).
+
 ### Jackson v. Benson; No. 98-376; OT1998. — 1999-03-16
 
 #### Holdings
@@ -1814,6 +1912,26 @@ No separate writing accompanies the petition order.
 
 [Complete opinion topology](../records/stewart_v_lagrand_certiorari_1999-03-03.md#opinion-topology).
 
+### Stewart v. LaGrand — application and summary merits — 1999-03-03
+
+**Kennedy, joined by O'Connor, Scalia and Thomas.** Kennedy adopts both Court grounds as his Circuit Justice explanation. His concurrence also concludes that, even assuming an available procedural route, the renewed opportunity to avoid the particular gas method through an alternative unchallenged here defeats continued support for this restraint. *Gomez* permits a distinct equitable assessment; *Lonchar* preserves that inquiry while requiring genuinely necessary process. The earlier election prerequisite explains the renewed timing, so this concurrence finds neither universal delay nor abusive motive. This additional interim rationale has four supporters and does not independently control.
+
+**Stevens, joined by Stone-Zsela.** The dissent would deny immediate vacatur and retain the existing gas-only protection on its actual terms while the serious consent and constitutional-limit question receives full briefing and argument. The earlier appellate court made selection a prerequisite to considering the gas claim. That sequence makes summary treatment of selection as surrender of the objection especially problematic. The dissent accepts that unfavorable precedent or later election-based ripeness alone does not establish cause, but would not remove protection on that correction before proper claim-specific consideration. It adopts neither a universal nonwaivability rule nor a categorical judgment about gas, and creates no general execution stay.
+
+**Stone-Zsela's additional signed statement.** Choosing among statutory methods does not, without more, establish knowledgeable relinquishment of an Eighth Amendment objection to the selected method. The record also does not establish an adequate, independent and unexcused state bar on the later gas-related ineffective-assistance claim, including any applicable exception and its relationship to the earlier representation-choice proceedings. He therefore denies the application and opposes summary reversal, joining Stevens's dissent and seeking proper consideration on a developed record with the existing gas-only protection retained on its actual terms. This reasoning supplies neither a categorical method holding nor automatic excuse from an actually established default.
+
+[Complete opinion topology](../records/stewart_v_lagrand_application_and_summary_merits_1999-03-03.md#opinion-topology).
+
+### Gable v. Patton / Patton v. Gable — threshold decision — 1999-03-04
+
+**Stevens, dissenting, joined by Stone-Zsela, Ginsburg and Breyer.** The dissent would reach both granted questions and affirm the Sixth Circuit on each. Gable is an identified former candidate who says these same restrictions deter his return. His nonfiling is consistent with that asserted injury. Requiring him to campaign under the challenged terms would discount the very deterrence alleged. The dissent finds his particular showing sufficient without finding a 1999 filing or granting every former candidate an indefinite right to litigate. Stevens's *Lujan* concurrence and the published standing disagreement in *Commerce / Glavin* support attention to concrete personal activity across changing electoral circumstances.
+
+On financing, the dissent would uphold the challenged voluntary program and responsive trigger on this record. The nonparticipant retains his own money and freedom to spend; a comparative electoral disadvantage is not itself a coercive expenditure cap. Further public funds depend on the participant's additional qualifying fundraising, matched two for one after the required certification that the nonparticipant received contributions or made expenditures above the ceiling. They are not an automatic dollar-for-dollar payment matching the opponent's speech. The dissent's position follows the *Day* financing dissent's distinction between enlarging competing advocacy and restraining a speaker, while preserving challenges to genuinely coercive or punitive operation. It recognizes no numerical safe harbor, categorical subsidy immunity or unlimited public-payment obligation.
+
+On personal funds, the dissent would affirm invalidation of the twenty-eight-day prohibition only insofar as it bars a nonparticipant from adding personal funds to finance further advocacy. Previously deposited money remains spendable, but that opportunity does not replace a later decision to finance responsive speech. *Buckley*, *Kruse* and *Suster* protect the candidate's own expression; a candidate's personal resources are not conventional donor contributions. Administration, notice and an opponent's opportunity to answer do not justify this complete cutoff. The dissent would preserve the distinction between own funds and ordinary third-party contributions, leaving the ungranted donor, sponsor-identification and slating questions open. It would not prescribe a replacement reporting code or treat every statutory branch as inseverable. These are dissenting merits views; none controls the remand.
+
+[Complete opinion topology](../records/gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md#opinion-topology).
+
 ### Jackson v. Benson; No. 98-376; OT1998. — 1999-03-16
 
 **Stone-Zsela concurs in Part I and dissents from Part II.** He would reverse the federal approval and require relief preventing public payment for religious-school tuition or integrated devotional and inseparably sectarian instruction, including payment through checks, vouchers, tax credits, reimbursements, provider-redemption instruments or another third-party route. His objection is to the function purchased with restricted public value, not the religious identity of the school. Neither the parent's selection nor the instrument's form makes the purchased religious formation privately financed.
@@ -2193,9 +2311,21 @@ The disposition supplies no retroactive bargaining effect, imposed contract term
 
 ### Stewart v. LaGrand; No. 98-1412; distinct State application A-735. — 1999-03-03
 
-The case proceeds to further consideration of the accepted questions. The existing gas-specific injunction remains governed by its own terms. The grant sets no new briefing or argument date, adds no execution restraint and does not itself authorize a summary merits disposition. The separate State application requires its own disposition.
+The separate certiorari grant preceded the same-day application and summary-merits decision. The grant itself changed no injunction and set no new briefing or argument date. Current posture is governed by the completed application and summary decision immediately below.
 
 [Disposition and participation](../records/stewart_v_lagrand_certiorari_1999-03-03.md).
+
+### Stewart v. LaGrand — application and summary merits — 1999-03-03
+
+The State's application A-735 is granted and the Ninth Circuit's gas-specific injunction is vacated. On the previously granted petition, the appellate judgment is reversed insofar as it awards relief on the particular elected gas-method objection, and the case returns for proceedings consistent with that limited final resolution. Part II alone would permit lawful claim-specific reconsideration and independently justified new interim relief; it does not authorize relitigation of the objection resolved by Part I. No substitute restraint, execution command, certificate rescission, briefing deadline or argument date is ordered. No other order is vacated, and no execution is found to have occurred. Germany's separate original matter is unaffected.
+
+[Disposition and participation](../records/stewart_v_lagrand_application_and_summary_merits_1999-03-03.md).
+
+### Gable v. Patton / Patton v. Gable — threshold decision — 1999-03-04
+
+Supreme Court review is complete. The causes return to the Sixth Circuit for the confined continuing-controversy determination and proceedings appropriate to that determination. No new trial, particular evidentiary document, merits discovery, special proof requirement, deadline or return to this Court is directed. If a controversy remains, the two claims may proceed under effective law; if not, equitable judgment treatment must account for the actual cause and timing of mootness and each petition's scope. The order supplies neither an automatic vacatur of every district-court ruling nor a command preserving every lower judgment.
+
+[Disposition and participation](../records/gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md).
 
 ### Jackson v. Benson; No. 98-376; OT1998. — 1999-03-16
 
@@ -2211,14 +2341,13 @@ Supreme Court review of the granted funding and affiliation questions is complet
 
 ## Blockers and Revalidation Needs
 
-Chunk 5 records 11 completed Court events. Germany's original leave request remains under consideration, without a further date. Stewart's certiorari grant leaves the application and merits unresolved. Gable remains unadjudicated.
+Chunk 5 records 13 completed Court events. Germany's original leave request remains under consideration, without a further date. Stewart's application and summary review are complete, following its separate grant. Gable's Supreme Court review is complete on the continuing-controversy remand; its constitutional merits remain undecided.
 
-- **Gable v. Patton / Patton v. Gable:** Stone approval required on the newly material continuing-controversy issue: the Registry asserts that Gable did not file for the 1999 primary, while his reply relies on deterrence and recurrence. Five Associates favor confined jurisdictional vacatur and remand. Section II instead fixes merits reach and affirmance on both granted components and supplies no applicable conditional branch. The standing fallback cannot replace that express reach and judgment. No Court disposition is entered.
-- **Stewart v. LaGrand:** Required Stone revalidation for the State application A-735 and proposed summary merits disposition: the supplemented record does not establish the later gas-related ineffective-assistance bar's adequacy, independence, applicable exceptions, or identity with the earlier sentencing-counsel representation dispute. These predicates materially affect the approved final-default ground and required signed application reasons; no applicable approved conditional branch resolves the limit. Additional supported record facts or an approved revision addressing that limit are required. The separate certiorari grant is recorded on March 3, 1999; no application or summary merits disposition is entered.
+Neither resumed matter remains stopped. The user's explicit October 27 instruction supplies the controlling Stewart revision despite stale contrary Issue 1 sentences in the brief; the Record discloses that input inconsistency without editing the brief. Gable's express threshold-dissent branch applies. The frozen Associate commitments and final reconciliations are unchanged.
 
-[Chunk validation](../freeze/OT_1998CHUNK5_VALIDATION.md) records the completed checks and their limits. Git verification and commitment remain with the operator.
+The [resumed dependency review](../audit/OT_1998CHUNK5_STEWART_GABLE_DEPENDENCY_REVIEW.md) checks every preexisting Record dated March 3 or later and identifies no result or author change. Same-day peers keep the common entering-law baseline; no completed assignment is reopened. The [resumed validation](../audit/OT_1998CHUNK5_RESUMED_VALIDATION.md) records current checks and their limits. Git provenance checks and commitment remain with the operator.
 
-Chunks 1-4 remain completed. The pre-existing Knowles opinion-topology issue identified in [chunk 3 validation](../freeze/OT_1998CHUNK3_VALIDATION.md) remains for operator review; this Run changes no prior adjudication. Gable supplies no current holding. Any proposed earlier-effective completion that could materially change a completed later Record requires the chronology and dependency review specified by the Engine. No pending matter closes through silence or the passage of time.
+Chunks 1–4 remain completed. The pre-existing Knowles opinion-topology issue identified in [chunk 3 validation](../freeze/OT_1998CHUNK3_VALIDATION.md) remains for operator review; this Run changes no prior adjudication. Germany's original leave and every other still-open manifest item remain on their stated conditions. No pending matter closes through silence or the passage of time.
 
 ## Source and Research Cutoff
 

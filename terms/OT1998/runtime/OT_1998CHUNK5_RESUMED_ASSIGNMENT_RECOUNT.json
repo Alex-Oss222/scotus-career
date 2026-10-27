@@ -1,0 +1,564 @@
+{
+  "purpose": "Fresh Engine section 8 actual-opinion recount for resumed Stewart and Gable assembly; no Git command used.",
+  "method": "Authors extracted from actual Public Projection opinion tables; repeated parts by the same author count once; Suster has a prose Opinion Topology identifying Breyer. Forms were verified separately. Earlier assignment tallies are not count inputs.",
+  "rules": [
+    "Same-day uncoordinated events share entering law; opinion counts nevertheless use same-day alphabetical ordering under section 8.",
+    "Later-written earlier-effective Records enter subsequent counts and do not reopen committed assignments.",
+    "March 16 Jackson and March 17 Reform are later-effective and excluded from these assignments despite having completed Records."
+  ],
+  "count_before_stewart_and_gable": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 6,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 6,
+    "Thomas": 5,
+    "Ginsburg": 6,
+    "Breyer": 5
+  },
+  "total": 51,
+  "last_counted": {
+    "record": "records/nffe_and_flra_v_interior_merits_1999-03-03.md",
+    "effective_date": "1999-03-03",
+    "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior",
+    "authors": [
+      "Stone-Zsela"
+    ],
+    "record_sha256": "877114b37f9b0efb36638cea7a96bc1343431641809878b2747a8d9958164576"
+  },
+  "counted_records": [
+    {
+      "record": "records/united_states_v_wright_merits_1998-10-05.md",
+      "effective_date": "1998-10-05",
+      "case": "United States v. Wright",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "e0f2b0cc24d7edea93920f0e204d35a79c0e42694afd4f4e22e42000f1fd0b30"
+    },
+    {
+      "record": "records/fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "effective_date": "1998-10-07",
+      "case": "Fraternal Order of Police v. United States",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "8b9c4873e12611ed3fd37d9970ab84d396b6b48a0ae269c5cf03a36061c4588e"
+    },
+    {
+      "record": "records/hiley_v_barrett_merits_1998-10-09.md",
+      "effective_date": "1998-10-09",
+      "case": "Hiley v. Barrett",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "0606c7df7ef0dee7541ac026688d2c8eb24ac4fd0f85ccb91e789b59995b6eb6"
+    },
+    {
+      "record": "records/peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "effective_date": "1998-10-15",
+      "case": "Peoples Rights Organization, Inc. v. City of Columbus",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "210bd47eacab4b51d3813bcb5883118835b22986cc308020629667937fce3bdb"
+    },
+    {
+      "record": "records/united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "effective_date": "1998-10-22",
+      "case": "United States v. Franklyn / United States v. Gonzalez",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "5e60ac107140293273fc4f73c85c6816b41d550836178fc648d84ea767d32127"
+    },
+    {
+      "record": "records/united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "effective_date": "1998-10-29",
+      "case": "United States v. Griffin / United States v. Langley",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record_sha256": "7776e250af8f03cdf028060377925e3da109b987d49e20b3831cec8edfd87e88"
+    },
+    {
+      "record": "records/marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "effective_date": "1998-11-03",
+      "case": "Marquez v. Screen Actors Guild, Inc., No. 97-1056.",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "f13a115ce956679d935d598d8dfcf39599970521f0034cab191f0a2d89acaf08"
+    },
+    {
+      "record": "records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+      "effective_date": "1998-11-05",
+      "case": "NAACP, Los Angeles Branch v. Jones, No. 97-1840",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "d5315528a56566692ec1593e77d6c08986ed29fc70b7b235ac6470bed432f75b"
+    },
+    {
+      "record": "records/coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "effective_date": "1998-11-10",
+      "case": "Coalition for Economic Equity v. Wilson",
+      "authors": [
+        "Breyer"
+      ],
+      "record_sha256": "7f36b6653179cc3a8f9c54d2a3f8340dfc51709252ce16b2ac3c939e1f8056e8"
+    },
+    {
+      "record": "records/pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "effective_date": "1998-11-10",
+      "case": "Pfaff v. Wells Electronics, Inc., No. 97-1130.",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "9a1fc3120cf2749e6f7a19761105d8fb15fe3079e0568d3642fc24e1c85048fb"
+    },
+    {
+      "record": "records/merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "effective_date": "1998-11-12",
+      "case": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768.",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "e4a20e8c879bc23650aa94c816bfb7c5233308ceb47e8e0387da90d6e63cfba4"
+    },
+    {
+      "record": "records/wright_v_universal_maritime_service_corp_merits_1998-11-16.md",
+      "effective_date": "1998-11-16",
+      "case": "Wright v. Universal Maritime Service Corp., No. 97-889",
+      "authors": [
+        "Breyer"
+      ],
+      "record_sha256": "f4d156fa877b71270b0fe3ec3ac210f372d6f92b904d118b1f2526902fbf3407"
+    },
+    {
+      "record": "records/dodd_v_hood_river_county_merits_1998-11-19.md",
+      "effective_date": "1998-11-19",
+      "case": "Dodd v. Hood River County, No. 98-54",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "e0e2157c689ca89affb89f1e4e1e3e44040c09cf8bb21c34ff080d402a5a5f6f"
+    },
+    {
+      "record": "records/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
+      "effective_date": "1998-11-24",
+      "case": "Wisconsin Right to Life, Inc. v. Paradise, No. 98-118",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record_sha256": "72f1ba6a041d16e27a199d069c67ec6cd4b5bb09f35ba44a2d82d8eb634a417a"
+    },
+    {
+      "record": "records/att_universal_card_services_v_rembert_merits_1998-12-01.md",
+      "effective_date": "1998-12-01",
+      "case": "AT&T Universal Card Services v. Rembert, No. 98-352.",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "19d8a68f93c7d1dc33d5688101d2bbb925e454d89650beba0a4f482de388c311"
+    },
+    {
+      "record": "records/minnesota_v_carter_and_johns_merits_1998-12-01.md",
+      "effective_date": "1998-12-01",
+      "case": "Minnesota v. Carter and Minnesota v. Johns, No. 97-1147.",
+      "authors": [
+        "Breyer"
+      ],
+      "record_sha256": "25956d97a2fa43731f183e689d70662d6cd53ed21428b91f5c4c55d996f65430"
+    },
+    {
+      "record": "records/equality_foundation_v_cincinnati_merits_1998-12-03.md",
+      "effective_date": "1998-12-03",
+      "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "432edfd8c4b822f649e6147924596268135a4ee2e6284f63921b184b4869cf07"
+    },
+    {
+      "record": "records/knowles_v_iowa_merits_1998-12-08.md",
+      "effective_date": "1998-12-08",
+      "case": "Knowles v. Iowa, No. 97-7597",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "bf72ba2720777315cde46d50d4b1021ce0c883494f91d4952c35815200475d76"
+    },
+    {
+      "record": "records/mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md",
+      "effective_date": "1998-12-09",
+      "case": "McClellan Federal Credit Union v. Parker, No. 98-618.",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "f27e41625330afef43e2ee95f2c84e0d6f55f43a2a6a46075af8dd83e409888a"
+    },
+    {
+      "record": "records/haddle_v_garrison_merits_1998-12-14.md",
+      "effective_date": "1998-12-14",
+      "case": "Haddle v. Garrison, No. 97-1472",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "f83938d822200ba58ee5b9c057517cba08698cd496eef6f547e7a872342d5329"
+    },
+    {
+      "record": "records/nynex_corp_v_discon_merits_1998-12-14.md",
+      "effective_date": "1998-12-14",
+      "case": "NYNEX Corp. v. Discon, Inc., No. 96-1570",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "6e052a823d1ebe4751a4d3c5a31bcca10c7ebba2f7fd30d8b379cfbb8265bf36"
+    },
+    {
+      "record": "records/city_of_cincinnati_v_kruse_merits_1998-12-16.md",
+      "effective_date": "1998-12-16",
+      "case": "City of Cincinnati v. Kruse, No. 98-454",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "79279d4448cc1818ecc4a37e7cf20effaab4d4fcf32e46c7853bc1508ffd36b0"
+    },
+    {
+      "record": "records/mcclellan_v_cablevision_merits_1999-01-07.md",
+      "effective_date": "1999-01-07",
+      "case": "McClellan v. Cablevision of Connecticut, Inc.",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "380311d25ade845b53229e8c4bdf5975c4387d747b99d8c6270180d8e04934b5"
+    },
+    {
+      "record": "records/buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md",
+      "effective_date": "1999-01-12",
+      "case": "Buckley v. American Constitutional Law Foundation, Inc.",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "86c271a60ecb8f246085c5730a77425cd1501c97d9eb5baba3bed575956a968f"
+    },
+    {
+      "record": "records/el_al_israel_airlines_v_tseng_merits_1999-01-12.md",
+      "effective_date": "1999-01-12",
+      "case": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "4d885e753c2a7afe61d2743513e2643ce0146095adb8475961a8ce02ffacdd83"
+    },
+    {
+      "record": "records/city_of_west_covina_v_perkins_merits_1999-01-13.md",
+      "effective_date": "1999-01-13",
+      "case": "City of West Covina v. Perkins, No. 97-1230.",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "9b55bf7a1a3da48700d7e9304df5067bf2a986d440835a3942c3de98f2778c6c"
+    },
+    {
+      "record": "records/marcus_v_iowa_public_television_merits_1999-01-13.md",
+      "effective_date": "1999-01-13",
+      "case": "Marcus v. Iowa Public Television, No. 98-710.",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "fb1f2bbecca0ee4f5db8b7e2b9e91a440bf12f5b9cd6f5726fd21d58ce399ea4"
+    },
+    {
+      "record": "records/state_street_bank_v_signature_financial_group_merits_1999-01-14.md",
+      "effective_date": "1999-01-14",
+      "case": "State Street Bank & Trust Co. v. Signature Financial Group, Inc.",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "c8293a3adbbb862a143f60b4a8e2049ade82f1cc01727bb62b2cf4e35cbd0f6e"
+    },
+    {
+      "record": "records/california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md",
+      "effective_date": "1999-01-20",
+      "case": "California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record_sha256": "f9a47d26eede5b24e39406ff0baf722ccfb98a23ef463a4b7d1e60388c1c2c3c"
+    },
+    {
+      "record": "records/department_of_the_army_v_blue_fox_merits_1999-01-20.md",
+      "effective_date": "1999-01-20",
+      "case": "Department of the Army v. Blue Fox, Inc.",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "ce01382cb60a87ba9183f06ee168e7342a69370f4f30e247d1fa8b9a67158dbc"
+    },
+    {
+      "record": "records/humana_inc_v_forsyth_merits_1999-01-20.md",
+      "effective_date": "1999-01-20",
+      "case": "Humana Inc. v. Forsyth",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "ca3c8566426e30a4c9d6cafd36adc8bbf477f8276f1ba3989d0381e7776a9562"
+    },
+    {
+      "record": "records/lopez_v_monterey_county_merits_1999-01-20.md",
+      "effective_date": "1999-01-20",
+      "case": "Lopez v. Monterey County",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "df8a1d9ff3b88ee2848ad7a34cd899f26b517995afa02acc66e6c65647aae40e"
+    },
+    {
+      "record": "records/citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md",
+      "effective_date": "1999-01-21",
+      "case": "Citizens for a Constitutional Convention v. Yoshina",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "b676e28316f1fc81564979cbc3fb55cf3f84f91be9b842a95e89340760e5994f"
+    },
+    {
+      "record": "records/att_corp_v_iowa_utilities_board_merits_1999-01-25.md",
+      "effective_date": "1999-01-25",
+      "case": "AT&T Corp. v. Iowa Utilities Board",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "1e33305c922d4a0b6172b71e92e06a01d9747d740ba30ecba88f4a5f8b33b43d"
+    },
+    {
+      "record": "records/department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md",
+      "effective_date": "1999-01-25",
+      "case": "Department of Commerce v. United States House of Representatives",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "8669970447eb2ee6ee2012f7066df429d8b627a8af94a59844fa3232a00c72b6"
+    },
+    {
+      "record": "records/hughes_aircraft_co_v_jacobson_merits_1999-01-25.md",
+      "effective_date": "1999-01-25",
+      "case": "Hughes Aircraft Co. v. Jacobson",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "e9a8bf2418c2f1cf7cc01141876133fa427b9c922262f24b1788f79c3798ef6d"
+    },
+    {
+      "record": "records/suster_v_marshall_merits_1999-01-28.md",
+      "effective_date": "1999-01-28",
+      "case": "Suster v. Marshall, No. 98-737",
+      "authors": [
+        "Breyer"
+      ],
+      "record_sha256": "e6f52390b8ec4afb711d42d7eada802e14052bfa1d9609d708bb43455c1d8645"
+    },
+    {
+      "record": "records/wright_v_ernst_and_young_merits_1999-02-04.md",
+      "effective_date": "1999-02-04",
+      "case": "Wright v. Ernst & Young LLP, No. 98-783.",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "0c63a24b7eb8cf16396ce772444fad80684dbd59b6836e12efdedc9d743d4143"
+    },
+    {
+      "record": "records/hart_v_gwadosky_threshold_1999-02-11.md",
+      "effective_date": "1999-02-11",
+      "case": "Hart v. Gwadosky",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "d35d9ec1b827d08b5c0a91348e46e9d543ac50fbb64189c0abe82721db8dda61"
+    },
+    {
+      "record": "records/boring_v_buncombe_county_board_of_education_merits_1999-02-17.md",
+      "effective_date": "1999-02-17",
+      "case": "Boring v. Buncombe County Board of Education, No. 97-1835.",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record_sha256": "cb83cacdd76f882cbabed09041fb04da8072e8a7fc39dc98ad29512f0b7c34dc"
+    },
+    {
+      "record": "records/john_crane_inc_v_abate_merits_1999-02-18.md",
+      "effective_date": "1999-02-18",
+      "case": "John Crane, Inc. v. Abate",
+      "authors": [
+        "Breyer"
+      ],
+      "record_sha256": "1a2f2ca069df43bac18a7fc6f62be34b5e4ec6b4f7bb62137bee91c47eace975"
+    },
+    {
+      "record": "records/national_collegiate_athletic_association_v_smith_merits_1999-02-23.md",
+      "effective_date": "1999-02-23",
+      "case": "National Collegiate Athletic Association v. Smith",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "b6396fe51322f2d125d3610a3024948dcb532abc0e71fb3d1fa65ef728ba13f1"
+    },
+    {
+      "record": "records/your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md",
+      "effective_date": "1999-02-23",
+      "case": "Your Home Visiting Nurse Services, Inc. v. Shalala",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "a7fbc66d64db1379bc9115a145375d112b41a967172fb99659615e1571dab9e4"
+    },
+    {
+      "record": "records/reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md",
+      "effective_date": "1999-02-24",
+      "case": "Reno v. American-Arab Anti-Discrimination Committee",
+      "authors": [
+        "Souter"
+      ],
+      "record_sha256": "9a0bcb7e4e24b8e32007292e9a046af19a23b7d6d095cf37dce205e122f9ddaf"
+    },
+    {
+      "record": "records/minns_v_united_states_merits_1999-02-25.md",
+      "effective_date": "1999-02-25",
+      "case": "Minns v. United States",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "07f6a3594ba25793498ffc027c246e1de8980df46524dc40ba1df5c80ff9d4cb"
+    },
+    {
+      "record": "records/arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+      "effective_date": "1999-03-02",
+      "case": "Arizona Department of Revenue v. Blaze Construction Co.",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "7c868552c9ae6505e6466d11b3dc822728f39faa0f650e52de376cbfbd78bf4f"
+    },
+    {
+      "record": "records/holloway_v_united_states_merits_1999-03-02.md",
+      "effective_date": "1999-03-02",
+      "case": "Holloway v. United States",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record_sha256": "e716640e1432b7ac14c4de3af3cf68d98ddbc830c58b5307e484cf4c90ef6e10"
+    },
+    {
+      "record": "records/peguero_v_united_states_merits_1999-03-02.md",
+      "effective_date": "1999-03-02",
+      "case": "Peguero v. United States",
+      "authors": [
+        "Scalia"
+      ],
+      "record_sha256": "c2f77b061720dd8f83598bcafa9fc2da50a0f83f2450524afc554e6ab9ccdd4f"
+    },
+    {
+      "record": "records/american_manufacturers_v_sullivan_merits_1999-03-03.md",
+      "effective_date": "1999-03-03",
+      "case": "American Manufacturers Mutual Insurance Co. v. Sullivan",
+      "authors": [
+        "Kennedy"
+      ],
+      "record_sha256": "421ccfdb79cee8c4892a2931e292ed181717d30e728e0c571a4d83bf9a880606"
+    },
+    {
+      "record": "records/cedar_rapids_v_garret_f_merits_1999-03-03.md",
+      "effective_date": "1999-03-03",
+      "case": "Cedar Rapids Community School District v. Garret F.",
+      "authors": [
+        "Stevens"
+      ],
+      "record_sha256": "e5212836ffec7f453537c13d3875e6769dd8db4fa7660a606b13316d0769e52a"
+    },
+    {
+      "record": "records/nffe_and_flra_v_interior_merits_1999-03-03.md",
+      "effective_date": "1999-03-03",
+      "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record_sha256": "877114b37f9b0efb36638cea7a96bc1343431641809878b2747a8d9958164576"
+    }
+  ],
+  "later_records_excluded": [
+    {
+      "record": "records/jackson_v_benson_merits_1999-03-16.md",
+      "effective_date": "1999-03-16",
+      "case": "Jackson v. Benson",
+      "authors": [
+        "O'Connor"
+      ],
+      "record_sha256": "6cab7ce0b58e409040d6c6d42779c1dd37884b786b1a8adc22586f1bd3be10e5"
+    },
+    {
+      "record": "records/reform_party_v_democratic_national_committee_merits_1999-03-17.md",
+      "effective_date": "1999-03-17",
+      "case": "National Committee of the Reform Party of the United States of America v. Democratic National Committee",
+      "authors": [
+        "Thomas"
+      ],
+      "record_sha256": "83199c6dae9459256d0847ee10bf8fe6a57a66cee44110a1d860dcc1e68009a8"
+    }
+  ],
+  "uncounted_records": [
+    {
+      "record": "records/calderon_v_coleman_summary_merits_1998-12-14.md",
+      "effective_date": "1998-12-14",
+      "case": "Calderon v. Coleman, No. 98-437",
+      "authors": [],
+      "record_sha256": "56dff7b3a86e18150cec810a8fd68ed5df59faa9b97bb6f187118951854bf779"
+    },
+    {
+      "record": "records/federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "effective_date": "1999-03-03",
+      "case": "Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull",
+      "authors": [],
+      "record_sha256": "1fff5d8a320f86c1a6dc3df42fee21d637b6388a67694e429bb08d689adfc660"
+    },
+    {
+      "record": "records/maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "effective_date": "1998-12-23",
+      "case": "Maine Secretary of State determination concerning the initiative at issue in Hart v. Gwadosky, No. 98-676.",
+      "authors": [],
+      "record_sha256": "5fb2a91bf0fbeb74b06b0031ee9a2ee6b30286cd6bcf5b72aa7044b58a38700e"
+    },
+    {
+      "record": "records/mosley_v_united_states_death_disposition_1998-12-08.md",
+      "effective_date": "1998-12-08",
+      "case": "Mosley v. United States, No. 97-7213.",
+      "authors": [],
+      "record_sha256": "31a75ea2778599eaa449ad5fbcd8d49ed7a6514338a408ce7b7ba75c94a9a691"
+    },
+    {
+      "record": "records/roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "effective_date": "1999-01-13",
+      "case": "Roberts v. Galen of Virginia, Inc., No. 97-53.",
+      "authors": [],
+      "record_sha256": "2e3047c5b24ff7990d95e1afc2945931f84e748d9785f84683e9a8d2348eafe6"
+    },
+    {
+      "record": "records/stewart_v_lagrand_certiorari_1999-03-03.md",
+      "effective_date": "1999-03-03",
+      "case": "Stewart v. LaGrand",
+      "authors": [],
+      "record_sha256": "a1491688bc448a255a7e00c89d895ce3fc4e673e1817949325a4e039a7efd19c"
+    },
+    {
+      "record": "records/united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "effective_date": "1998-10-13",
+      "case": "United States v. Louisiana (Texas Boundary Case)",
+      "authors": [],
+      "record_sha256": "437722ce15b5fdf06397ec9f48e3694f415c06bc60cd4db5a9a4ffbc558ba465"
+    }
+  ],
+  "stewart": "A summary per curiam and application explanations add no counted lead. O'Connor is senior Associate in the majority; Kennedy supplies the Circuit Justice explanation under section 10.",
+  "gable": "For a signed lead after full post-grant merits submission, eligible full authors are O'Connor, Scalia, Kennedy, Souter and Thomas. Counts are 6,6,6,6,5 respectively; all five are in the illustrative pool. O'Connor assigns; the Chief-only pool restriction does not bind her. One counted lead is added for the eventual selected author."
+}
