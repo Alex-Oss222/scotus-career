@@ -1,6 +1,4 @@
-# Public reading copy
-
-Derived verbatim from the Record Public Projection. The Record controls.
+# Current-term public reading copy
 
 ## Event
 

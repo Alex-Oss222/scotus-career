@@ -1,6 +1,6 @@
 # OT1998 Current-Term Neutral Projection
 
-**Posture:** Current law and public procedure through 1998-11-12. 12 current-term Court events completed; no new source admission. 116 scheduled items remain open (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 129 open inventory items in total. No chunk 1 matter remains stopped. Records control.
+**Posture:** Current public law and procedure through 1998-12-14. 24 current-term Court events completed, with the latest dated 1998-12-14. 104 scheduled items remain open (including one nonadjudicative reconciliation item), plus 13 undated carryovers: 117 open inventory items in total. No chunk 1 or chunk 2 matter remains stopped. Records control.
 
 ## Opening law and chronology
 
@@ -11,7 +11,7 @@ The opening authorities are [Holdings](../../../state/HOLDINGS.md), the synchron
 - **Edition:** October 26, 2026
 
 
-The divergence point is October 7, 1991. The completed chronology cursor is **1998-11-12**. The manifest supplies the remaining schedule and unresolved carryovers. This projection includes only public law, procedure, institutional facts and published positions.
+The divergence point is October 7, 1991. The latest completed-event date is **1998-12-14**; separately pending matters remain open. The manifest supplies the remaining schedule and unresolved carryovers. This projection includes only public law, procedure, institutional facts and published positions.
 
 ## Completed current-term events
 
@@ -25,10 +25,22 @@ The divergence point is October 7, 1991. The completed chronology cursor is **19
 | 1998-10-22 | United States v. Franklyn / United States v. Gonzalez | The Court announces its signed decision affirming both consolidated judgments. | [public copy](../entering-law/united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md) |
 | 1998-10-29 | United States v. Griffin / United States v. Langley | The Court announces its unanimous signed decision affirming both judgments. | [public copy](../entering-law/united_states_v_griffin_and_langley_merits_1998-10-29.md) |
 | 1998-11-03 | Marquez v. Screen Actors Guild, Inc., No. 97-1056. | The judgment of the Ninth Circuit is affirmed on the two questions presented. | [public copy](../entering-law/marquez_v_screen_actors_guild_merits_1998-11-03.md) |
-| 1998-11-05 | NAACP, Los Angeles Branch v. Jones | The Court vacates the Ninth Circuit's judgment and remands for an actual determination of standing before any merits ruling, unanimously. | [record](../records/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md) |
+| 1998-11-05 | NAACP, Los Angeles Branch v. Jones | The Court vacates the Ninth Circuit's judgment and remands for an actual determination of standing before any merits ruling, unanimously. | [public copy](../entering-law/naacp_los_angeles_branch_v_jones_merits_1998-11-05.md) |
 | 1998-11-10 | Coalition for Economic Equity v. Wilson | The judgment is vacated and the case remanded for confined preliminary protection and further proceedings consistent with the separate constitutional and statutory holdings. | [public copy](../entering-law/coalition_for_economic_equity_v_wilson_merits_1998-11-10.md) |
 | 1998-11-10 | Pfaff v. Wells Electronics, Inc., No. 97-1130. | The Federal Circuit's invalidity judgment on the reviewed patent claims is affirmed. | [public copy](../entering-law/pfaff_v_wells_electronics_merits_1998-11-10.md) |
 | 1998-11-12 | Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768. | The Third Circuit's judgment reversing summary judgment is affirmed. | [public copy](../entering-law/merrill_lynch_v_kravitz_merits_1998-11-12.md) |
+| 1998-11-16 | Wright v. Universal Maritime Service Corp. | The Fourth Circuit judgment is vacated, and the case is remanded. | [public copy](../entering-law/wright_v_universal_maritime_service_corp_merits_1998-11-16.md) |
+| 1998-11-19 | Dodd v. Hood River County | The Ninth Circuit's judgment is affirmed on narrow issue preclusion and the independently stated federal grounds. | [public copy](../entering-law/dodd_v_hood_river_county_merits_1998-11-19.md) |
+| 1998-11-24 | Wisconsin Right to Life, Inc. v. Paradise | The Seventh Circuit's judgment is vacated, and the case is remanded for further proceedings consistent with the Court's opinion. | [public copy](../entering-law/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md) |
+| 1998-12-01 | AT&T Universal Card Services v. Rembert | The judgment of the Sixth Circuit concerning AT&T's debt is affirmed. | [public copy](../entering-law/att_universal_card_services_v_rembert_merits_1998-12-01.md) |
+| 1998-12-01 | Minnesota v. Carter and Minnesota v. Johns | The two reviewed judgments are vacated to the extent they dispose of the federal suppression claims through the observation determination, and the cases are remanded for lawful further proceedings. Each respondent's personal Fourth Amendment interest is recognized. The Court adopts no conclusive search application. | [public copy](../entering-law/minnesota_v_carter_and_johns_merits_1998-12-01.md) |
+| 1998-12-03 | Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati | The merits judgment is reversed, the dependent fee vacatur is set aside, and the matter is remanded for conforming injunctive relief and the remaining fee proceedings. | [public copy](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md) |
+| 1998-12-08 | Knowles v. Iowa | The Iowa Supreme Court's judgment is reversed, and the case is remanded. | [public copy](../entering-law/knowles_v_iowa_merits_1998-12-08.md) |
+| 1998-12-08 | Mosley v. United States | The order granting the writ of certiorari is vacated, and the petition for a writ of certiorari is dismissed following the petitioner's death. No vote count is announced. | [public copy](../entering-law/mosley_v_united_states_death_disposition_1998-12-08.md) |
+| 1998-12-09 | McClellan Federal Credit Union v. Parker | The Ninth Circuit's judgment is affirmed. | [public copy](../entering-law/mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md) |
+| 1998-12-14 | Calderon v. Coleman | The petition for a writ of certiorari is granted on the presented effect question. The Court vacates the judgment insofar as it sustains commutation-based relief from the death sentence and remands for further proceedings. The grant's vote is not disclosed. The merits judgment and doctrinal joins are stated separately below. | [public copy](../entering-law/calderon_v_coleman_summary_merits_1998-12-14.md) |
+| 1998-12-14 | Haddle v. Garrison | The Eleventh Circuit's judgment is reversed, and the case is remanded. | [public copy](../entering-law/haddle_v_garrison_merits_1998-12-14.md) |
+| 1998-12-14 | NYNEX Corp. v. Discon, Inc. | The Second Circuit's judgment is vacated in the specified §1 per se and derivative §2 respects, and the case is remanded for further proceedings under the proper standards. | [public copy](../entering-law/nynex_corp_v_discon_merits_1998-12-14.md) |
 
 ## Current-term law
 
@@ -118,6 +130,86 @@ A customer's claim may proceed on evidence of a broker's own knowingly false bes
 
 Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/merrill_lynch_v_kravitz_merits_1998-11-12.md#holdings).
 
+### Wright v. Universal Maritime Service Corp. — 1998-11-16
+
+Broad collective grievance language and a contractual legality clause do not alone surrender an employee's forum for an independent federal discrimination claim. Both instruments fail the necessary clarity here. The decision leaves enforceability of an adequately explicit union waiver unresolved and neither disfavors genuinely agreed statutory arbitration nor decides the ADA merits.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/wright_v_universal_maritime_service_corp_merits_1998-11-16.md#holdings).
+
+### Dodd v. Hood River County — 1998-11-19
+
+A federal-claim reservation preserves questions outside the actual state adjudication but does not erase the ordinary preclusive effect of necessary, fairly litigated common facts. Here profitable timber use binds the owners and defeats complete deprivation. The distinct federal partial-taking and purpose-relationship inquiries are independently resolved on the actual record; continued use alone does not decide them. Later permitting limits duration without automatically defeating a temporary-taking claim. No compensation, universal notice-at-purchase bar or special disability for residential plans is created.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/dodd_v_hood_river_county_merits_1998-11-19.md#holdings).
+
+### Wisconsin Right to Life, Inc. v. Paradise — 1998-11-24
+
+Pre-enforcement speech challenges remain subject to the existing concrete-injury, causation and redressability requirements. This decision requires the facial invalidity and nonenforcement claims actually presented to be assessed separately from a demand to control all future state adjudication. Wisconsin's provisions remain uninvalidated, and the Court has neither found standing nor rejected every possible basis for it. Official enforcement and independent private enforcement retain their distinct jurisdictional and remedial questions.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md#holdings).
+
+### AT&T Universal Card Services v. Rembert — 1998-12-01
+
+The presented card-use actual-fraud theory requires proof of contemporaneous deceptive repayment intent, which may be circumstantial but is not established as a matter of law by insolvency, gambling losses or unrealistic expectations. The decision creates no gambling exemption and no rule requiring acceptance of a debtor's claimed intent.
+
+Field's separate reliance requirements remain intact: justifiability depends on the recipient's knowledge, capacities and circumstances, without a universal credit-check or periodic-investigation duty. Reliance on falsity the recipient knows or that is obvious to that recipient is not justifiable; a warning actually encountered may require inquiry under that recipient-specific standard. Card issuance, continued authorization or nonrevocation does not automatically establish actual or justifiable reliance. None of those matters is factually decided here. Causation and debt extent remain separate as well.
+
+Section 523(a)(2)(A) excludes statements respecting the financial condition of the debtor or an insider from its coverage. Subsection (B) separately requires use of a materially false written statement respecting that financial condition, reasonable reliance by the creditor, and the debtor's causing the statement to be made or published with intent to deceive. Those distinct conditions remain intact and are not adjudicated on this card-use actual-fraud theory. Different false-pretense or representation-only theories, the recent-debt presumption under §523(a)(2)(C), and a fee claim under §523(d) likewise remain undecided.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/att_universal_card_services_v_rembert_merits_1998-12-01.md#holdings).
+
+### Minnesota v. Carter and Minnesota v. Johns — 1998-12-01
+
+Actual host-authorized sharing of a screened domestic interior can establish each invited occupant's personal Fourth Amendment interest without an overnight arrangement, prior recurring visits or accepted independent-control evidence. Brief duration, commercial purpose and illegality do not automatically defeat that sharing. Mere permission to enter, unauthorized presence, borrowed rights and ordinary public exposure remain outside the rule.
+
+The Court has not held this observation to be either a search or no search. The four-Justice natural-view application, O'Connor's renewed-analysis rationale and the four-Justice affirmative-search application remain distinct. The operative judgment controls the parties, while the directly supported privacy and conditional-remedy rules govern their subjects. Existing Fields rules against automatic publication from limited sharing and automatic cure from a later warrant remain in force. No new general curtilage rule, visibility distance, duration threshold, factual-review burden or unaided-observation immunity is adopted.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/minnesota_v_carter_and_johns_merits_1998-12-01.md#holdings).
+
+### Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — 1998-12-03
+
+Article XII cannot enforce its unconstitutional common withdrawal and foreclosure of ordinary municipal protection for the named class. The City remains free to make rational policy choices and lawful revisions; it is not commanded to adopt a particular ordinance or preference. Generally applicable law and actual expressive or religious claims retain their own operation. No suspect classification, general fundamental right of political access, Bowers overruling or damages remedy is created. Injunctive terms and remaining fee questions receive the separate treatment stated in the mandate.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md#holdings).
+
+### Knowles v. Iowa — 1998-12-08
+
+An issued citation and unused arrest authority do not trigger the full arrest-incident search exception. Actual lawful custodial arrests retain Robinson's categorical rule, while independent protective, consent and probable-cause search grounds retain their own requirements. Iowa's authorization cannot sustain this search on the citation theory, but the decision does not invalidate every application involving an independently constitutional search or establish general roadside arrest immunity.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/knowles_v_iowa_merits_1998-12-08.md#holdings).
+
+### Mosley v. United States — 1998-12-08
+
+The bank-larceny and bank-robbery elements question remains undecided by this Court. The order terminates this certiorari proceeding and leaves the Third Circuit judgment undisturbed. It establishes no general rule governing death during appeal of right, substituted estate litigation, fines, restitution or independent collateral consequences.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/mosley_v_united_states_death_disposition_1998-12-08.md#holdings).
+
+### McClellan Federal Credit Union v. Parker — 1998-12-09
+
+Under the then-effective Code, timely statement and performance remain mandatory with their enacted extension conditions. Section 521(2) alone does not compel reaffirmation or redemption as a condition of retention otherwise permitted by the actual agreement and law. Discharged personal liability, voluntary payment and a surviving enforceable lien remain distinct. For the automobile and unsecured debts here, the unrepresented-debtor approval requirements of both no undue hardship and best interest apply independently. The decision neither excuses defaults nor supplies a general rule invalidating bankruptcy clauses.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md#holdings).
+
+### Calderon v. Coleman — 1998-12-14
+
+Effective December 14, 1998, the properly available constitutional commutation-instruction claim affecting this jury's capital selection is governed by the State's duty to establish noncontribution beyond reasonable doubt from the whole penalty record. The protected-silence and personal-intent categories remain governed by their existing Chapman rules; no universal rule for every other constitutional-habeas category is adopted.
+
+Error identification, actual effect, the governing burden and final relief remain separate. A substantive lower-court assessment can suffice without prescribed words, but the judgment here requires renewed actual-effect review. No present harmlessness or ultimate sentence-relief finding follows. The defined pending-capital temporal rule remains unchanged, as do genuinely independent habeas conditions and the distinction between constitutional harmlessness and authorized state resentencing.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/calderon_v_coleman_summary_merits_1998-12-14.md#holdings).
+
+### Haddle v. Garrison — 1998-12-14
+
+At-will status does not categorically defeat the injury branch of this federal-witness conspiracy claim. A plaintiff must still establish the prohibited conspiracy and object, the required federal witness connection, qualifying acts, causation and recoverable injury. The decision creates no tenure or general federal wrongful-discharge claim and resolves no corporate-agent conspiracy defense.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/haddle_v_garrison_merits_1998-12-14.md#holdings).
+
+### NYNEX Corp. v. Discon, Inc. — 1998-12-14
+
+The pleaded vertical supplier switch cannot proceed as a per se group boycott on fraud, favoritism or rival harm alone. The surviving §1 claim requires the ordinary competitive-effects inquiry and antitrust injury. The distinct §2 conspiracy claim remains for proper consideration, including correction of any dependence on the rejected premises. The Court finds neither a competitive injury nor competitive harmlessness and creates no immunity for regulated firms or fraud. Dismissed claims remain outside the remand.
+
+Exact controlling propositions, coalitions, qualifications, precedent treatment and remedies: [bounded public reading copy](../entering-law/nynex_corp_v_discon_merits_1998-12-14.md#holdings).
+
 ## Court, participation, and institutional practice
 
 ### Court and seniority
@@ -194,11 +286,89 @@ The four Breard-related emergency applications were denied on April 14, 1998. No
 Lower-court remands from completed decisions do not create additional Supreme Court events. Alaska and New Jersey retain their specifically recorded decree stages; Bryan County retains its reargument stage. New Jersey's March 31 proposal and May 30 Designated Survey remain proposals, not a final decree or operative undefined injunction. No date or filing for an unscheduled continuation is invented.
 
 
+### Completed chunk 2 mandates
+
+### Wright v. Universal Maritime Service Corp. — 1998-11-16
+
+The action returns through the Fourth Circuit to the District Court without the unsupported grievance-exhaustion dismissal. The dismissal was without prejudice, and the ADA claim and independent defenses remain for ordinary proceedings. No damages, reinstatement, disability-benefit estoppel, grievance or arbitration is ordered. No further Supreme Court event is set.
+
+[Public mandate](../entering-law/wright_v_universal_maritime_service_corp_merits_1998-11-16.md#procedure-after-action).
+
+### Dodd v. Hood River County — 1998-11-19
+
+The Ninth Circuit judgment stands on the confined preclusion ruling and independently stated federal grounds. Supreme Court review is complete. No compensation, new permit, additional trial or further factfinding is ordered, and no further Supreme Court event is set.
+
+[Public mandate](../entering-law/dodd_v_hood_river_county_merits_1998-11-19.md#procedure-after-action).
+
+### Wisconsin Right to Life, Inc. v. Paradise — 1998-11-24
+
+The case returns to the Seventh Circuit for consideration of the actual claims and requested relief under the stated Article III requirements, and appropriate treatment of the District Court's abstention disposition thereafter. No injunction, statutory invalidation, state-registration command or direction governing an unpresented state case issues. Further proceedings below remain open; no additional Supreme Court proceeding or deadline is set.
+
+[Public mandate](../entering-law/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md#procedure-after-action).
+
+### AT&T Universal Card Services v. Rembert — 1998-12-01
+
+The Sixth Circuit judgment concerning AT&T's presented debt remains in force. No additional evidentiary hearing, remand, amount determination or fee award is ordered. Supreme Court review of this matter is complete, and no further event is set.
+
+[Public mandate](../entering-law/att_universal_card_services_v_rembert_merits_1998-12-01.md#procedure-after-action).
+
+### Minnesota v. Carter and Minnesota v. Johns — 1998-12-01
+
+The cases return to the Minnesota Supreme Court for ordinary lawful further proceedings on the reviewed federal suppression claims. The adopted personal-interest rule governs both respondents. The mandate permits lawful consideration of observation and remaining properly available grounds without a Court search holding; it does not declare the record insufficient or require renewed analysis as a controlling legal conclusion.
+
+Trial findings, reproduced testimony, appellate characterization and party assertions retain their distinct roles. If a further disposition depends on rejecting an appellate factual characterization, the governing factual-review and preservation objections must be addressed; an answer that instead assumes the disputed additions must explain why its conclusion follows on that assumption. No new hearing, photographic reconstruction, discovery, public-access burden or factual finding is ordered. The subjective-expectation objection is not adjudicated because subjective privacy is assumed. No binding curtilage concession, criminal-purpose forfeiture, state privacy offense or independent state-law judgment is found. A genuinely available independent state ground remains a matter for lawful state proceedings, not an outcome directed here.
+
+The stop, gun discovery, arrests, warrants, physical evidence and statements retain their actual separate issues. The State's lack of probable cause before observation and the prosecutor's conditional invalid-arrest concession are not converted into an all-evidence order. Later warrants are not presumed independent from a viewing the trial court treated as central to their basis. Ordinary preservation rules control any remaining claim, and no waived or unpresented issue is revived automatically. No admission, exclusion, acquittal, new trial, release or unconditional conviction reinstatement is ordered. No further Supreme Court event or retained jurisdiction is set.
+
+[Public mandate](../entering-law/minnesota_v_carter_and_johns_merits_1998-12-01.md#procedure-after-action).
+
+### Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — 1998-12-03
+
+The matter returns through the Sixth Circuit for declaratory and injunctive protection against the unconstitutional charter barrier, conformity of the injunction to the violation and applicable severability, and remaining lawful §1988 review. The rational-basis merits are resolved. No new code, damages, fixed fee award or additional Supreme Court event is ordered.
+
+[Public mandate](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md#procedure-after-action).
+
+### Knowles v. Iowa — 1998-12-08
+
+The case returns to the Iowa courts for proceedings under the corrected search rule and ordinary properly available remedial law. The citation-search rationale no longer supports the search or dependent judgment; no alternative justification is established by this decision. No acquittal, release, replacement sentence, civil remedy or additional Supreme Court event is directed.
+
+[Public mandate](../entering-law/knowles_v_iowa_merits_1998-12-08.md#procedure-after-action).
+
+### Mosley v. United States — 1998-12-08
+
+The grant is vacated and the petition dismissed. Supreme Court review is complete. No remand, conviction-abatement order or further Supreme Court event is directed.
+
+[Public mandate](../entering-law/mosley_v_united_states_death_disposition_1998-12-08.md#procedure-after-action).
+
+### McClellan Federal Credit Union v. Parker — 1998-12-09
+
+The Ninth Circuit judgment sustaining refusal of this reaffirmation is affirmed. The discharge remains effective according to law, while the lien and any independently established lawful remedies remain. No further hearing, contractual default adjudication, foreclosure, repossession or new agreement is directed. Supreme Court review is complete.
+
+[Public mandate](../entering-law/mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md#procedure-after-action).
+
+### Calderon v. Coleman — 1998-12-14
+
+Supreme Court review concludes with the limited vacatur and remand. The Ninth Circuit must conduct the whole-record inquiry under Chapman, with District Court proceedings if otherwise proper, and preserve the existing status of other penalty claims. The same relief may follow if an available constitutional violation is not harmless beyond reasonable doubt. A proper harmlessness determination permits denial of relief on this ground. The Court orders no new hearing, new evidence, immediate release, execution, stay or fixed sentencing date. Guilt remains undisturbed.
+
+[Public mandate](../entering-law/calderon_v_coleman_summary_merits_1998-12-14.md#procedure-after-action).
+
+### Haddle v. Garrison — 1998-12-14
+
+The case returns through the Eleventh Circuit for adjudication of the properly remaining statutory elements, defenses and remedies without the rejected constitutional-entitlement injury bar. No liability determination, damages award or reinstatement follows from this reversal. Further proceedings below remain open; no new Supreme Court event is set.
+
+[Public mandate](../entering-law/haddle_v_garrison_merits_1998-12-14.md#procedure-after-action).
+
+### NYNEX Corp. v. Discon, Inc. — 1998-12-14
+
+The case returns to the Second Circuit for proceedings on the surviving §1 competitive-effects theory and reconsideration of the dependent §2 conspiracy rationale under the proper standards. No previously dismissed component is reinstated, and the District Court's entire dismissal does not automatically return. Further proceedings below remain open; no damages, injunction or additional Supreme Court event is directed.
+
+[Public mandate](../entering-law/nynex_corp_v_discon_merits_1998-12-14.md#procedure-after-action).
+
 ## Prospective events and material dependencies
 
 Use the [manifest](manifest.md) for all remaining scheduled and carried matters. A scheduled date supplies no filing, argument, vote or disposition. Same-day independent matters use the common entering-law baseline; Section 8 assignments follow alphabetical case order on that date. Later historical actions never enter by scheduling alone. Del Monte Dunes remains a reconciliation-only item against its completed June 16, 1997 judgment. The four Breard-related applications were denied; their separate petitions remain as listed above. No execution or new stay is inferred.
 
-NAACP, Los Angeles Branch v. Jones, No. 97-1840, completed Supreme Court review on November 5, 1998. Its lower-court standing remand creates no additional Supreme Court event or scheduled return. The next scheduled inventory event is Wright v. Universal Maritime Service Corp., No. 97-889, on November 16, 1998, in chunk 2; that schedule supplies no prospective holding.
+NAACP, Los Angeles Branch v. Jones, No. 97-1840, completed Supreme Court review on November 5, 1998. Its lower-court standing remand creates no additional Supreme Court event or scheduled return. The next scheduled inventory event is City of Cincinnati v. Kruse, No. 98-454, on 1998-12-16, in OT_1998CHUNK3; that schedule supplies no prospective holding.
 
 ## Current-term published noncontrolling positions
 
@@ -261,6 +431,76 @@ O'Connor, joined by Scalia, Kennedy and Thomas, agrees that voluntary-action per
 **Chief Justice Stone-Zsela, concurring; no joins.** The Chief Justice joins the Court's knowing-deception holding and affirmance. He would also hold that reckless, materially misleading acceptance of customer orders under the existing best-execution undertaking can constitute primary § 10(b) and Rule 10b-5 fraud when every ordinary private-action requirement is proved. Acceptance communicates an intention to honor that undertaking; an actionable false representation need not be confined to a defendant's express statement. His broader culpability position goes beyond the sufficient ground the Court adopts and does not become the Court's rule.
 
 He agrees that best execution depends on terms reasonably available under contemporary market conditions, that industry custom informs but does not conclusively resolve culpability, and that later SEC rules cannot create retroactive liability. Later market studies may corroborate evolving feasibility without supplying a retroactive legal command. He would leave knowing or reckless falsity, reliance and actual damage for case-specific proof. Neither breach of fiduciary duty alone, execution at the national best bid and offer nor the existence of a better price automatically establishes fraud, and the concurrence recognizes no reliance presumption from price disparity.
+
+### Dodd v. Hood River County — 1998-11-19
+
+Stone-Zsela concurs in Part I and dissents from final resolution of the remaining federal issues. He agrees that §1738 governs the lawful effect of matters actually, necessarily and fairly decided in Oregon and that a federal reservation cannot erase the binding profitable-use finding. He also agrees that the whole federal cause and its unadjudicated elements are not precluded merely because state takings litigation occurred.
+
+He would preserve that narrow preclusion and return the federal questions outside the state determination for adjudication. He does not join the Court's independent conclusions under Lucas, Penn Central, the purpose-relationship inquiry or the actual-period claim. His position neither finds a taking nor directs compensation, a permit or a jury trial, and it does not announce a separate substantive takings rule. The disagreement concerns final adjudication of those federal issues in this disposition after recognizing the limited state effect.
+
+[Published opinion topology](../entering-law/dodd_v_hood_river_county_merits_1998-11-19.md#opinion-topology).
+
+### Wisconsin Right to Life, Inc. v. Paradise — 1998-11-24
+
+Scalia dissents, joined by Thomas. They accept that a credible threatened injury may support review before prosecution and that a facial invalidity claim differs from an advisory instruction about future litigation. They would nevertheless affirm dismissal because the existing official and private-enforcement facts already defeat this action. The officials agree that WRTL's comparative guides do not require registration, and no threat directed at WRTL is shown. Proceedings involving different speakers do not supply the missing official connection. Independent private plaintiffs and state judges are absent, so an injunction against the named officials cannot simply stop their actions.
+
+The dissent distinguishes Maine's effective rule credibly reaching ceased speech and Bennett's announced governmental action affecting the plaintiffs. NAACP corrected a court's bypass of disputed standing to reach merits; it does not require another inquiry when the defendant-specific defect has already been addressed. A facial prayer cannot create that missing connection, and hoped-for persuasive effect against nonparties does not itself supply likely redress here. The dissent adopts no universal prosecution prerequisite, no rule that every facial challenge is advisory and no conclusion about Wisconsin's constitutional merits. It would affirm jurisdictional dismissal without prejudice.
+
+[Published opinion topology](../entering-law/wisconsin_right_to_life_v_paradise_merits_1998-11-24.md#opinion-topology).
+
+### Minnesota v. Carter and Minnesota v. Johns — 1998-12-01
+
+**Breyer, Part II, joined by Scalia, Kennedy and Thomas.** These four would conclusively hold that this observation was not a search. The trial findings and testimony establish an unenclosed area actually used by residents and nonresidents, including access beside the window for bicycles, and a view obtainable by natural sight without touching the window, lighting it or using equipment. The initial position near the projecting brickwork already disclosed the table and packaging; it was a window-side position, not a proven sidewalk view. The later move gave a closer view of the same activity.
+
+They assume in respondents' favor the disputed climbing and crouching. Crossing shrubs not shown to enclose the space and adjusting posture do not, by themselves, turn the actual natural view from this ordinarily used position into a search. The approximate 12–18-inch finding is no constitutional minimum, and uncertain gap geometry, the exact crossing of one entrance walk and the asserted failure to seek rehearing are unnecessary to this answer. They do not find the disputed acts occurred or discredit the appellate account through photographs.
+
+Fields's limited-sharing rule remains controlling: cotenant visibility alone is not publication. Their answer rests on the fuller actual-use record, including ordinary nonresident use, and the natural view. Pinson and Myers protect otherwise concealed information and do not require disregarding what this opening actually exposed. Drawn blinds, sustained proximity, the nonordinary entrance route and the disputed bodily movements are serious contrary facts, but the four regard the actual access and unenhanced view as sufficient together. Their rationale would not resolve opening or moving blinds, crossing a protected enclosure, intruding into the dwelling or using equipment to obtain otherwise unavailable information. It creates no common-yard immunity, fixed distance or time rule, or exterior-location exception.
+
+They accept vacatur and ordinary remand as sufficient removal of the adverse judgments while publishing that conclusive view. They do not join O'Connor's reason for further actual-vantage analysis. They accept that the absence of a Court search holding leaves lawful further consideration available; they order neither automatic admission nor unconditional conviction reinstatement. Breyer also joins the Court's affirmative personal-interest holding. The other three retain the contrary privacy position expressed in O'Connor's Part A.
+
+**O'Connor, concurring in the judgment and dissenting in part.** In Part A, joined by Scalia, Kennedy and Thomas, O'Connor would reject the accepted invitation-duration-task basis for personal privacy. Fields protects actual independent control and, separately, developed recurring residential sharing. Permission for this brief compensated task does not establish either relationship in their view. Their conclusion rests on the supported combination, not a rule that illegal activity forfeits rights, that commerce is inherently unprotected, that only an owner has privacy or that an overnight visit is indispensable. A temporary rental carrying control or genuinely shared residential or social relationship could differ.
+
+Carter's counsel's key affidavit cannot be treated as nonexistent or as an accepted control finding. A properly usable finding of authorized independent access could change the application of Fields's control branch. Its procedural status, weight and actual permission implications are not decided; no new hearing or revived waiver is ordered. Johns has no corresponding proffer. Breyer does not join this personal-interest disagreement.
+
+In Part B, O'Connor alone would resolve the actual-view question through renewed source-accurate analysis once the Court recognizes personal privacy. Ordinary access, the standing natural view, bicycle storage, nonresident use and lack of enclosure support the lawful-view route; screening, prolonged proximity and the position outside ordinary entrance passage support the search route. Her Fields plurality and Riley qualification preserve the claimant's burden without equating limited sharing with publication. If the constitutional answer requires rejecting an appellate factual characterization, factual-review and preservation objections must actually be addressed. If the same answer follows while assuming the disputed additions, that ground can be stated instead. Ornelas and Fields do not authorize invention of historical facts. She orders no new hearing or photographic reconstruction and imposes no new public-access burden. This is her reason for the judgment, not a Court finding that the record is insufficient or renewed analysis necessary.
+
+**Souter, concurring in part and dissenting in part.** Part A, joined by Stone-Zsela, Stevens and Ginsburg, would affirm both reviewed judgments. Each respondent has his own interest in the deliberately shared domestic privacy. An officer conducts a search by deliberately obtaining screened home-interior information from a residential window-side vantage outside ordinary public observation. The close, sustained examination through drawn blinds from the nonordinary entrance approach satisfies that rule on the trial-level minimum. No finding of climbing, crouching, a state offense or a universal shared-yard curtilage classification is required.
+
+The grass's common uses establish access, not ordinary exposure of this screened interior to the precise examination. The abutment position already required the close window-side approach; neither it nor the informant's unexplained outside view supplies a lawful sidewalk source. Fields rejects equating limited residential sharing or imperfect blinds with publication. Katz protects privacy without physical penetration. Pinson and Myers explain the protection of concealed home information, but their technological holdings did not already decide this naked-eye observation. The contrary actual-use and natural-visibility argument is substantial; these Justices find it insufficient to convert this inspection into ordinary public observation.
+
+The conclusion preserves unaided observation from a street, walkway, common approach, open window or other position genuinely available to ordinary public observation. It requires no fence or posted sign whenever the actual residential vantage is otherwise shown not to be such a position. Neither approximately fifteen minutes nor approximately a foot is a fixed constitutional threshold. The disputed appellate additions are unnecessary to the conclusion, so this ground does not decide the factual-correction and rehearing disputes.
+
+In Part B, Stevens, Souter and Ginsburg additionally conclude that no warrant, pre-view probable cause, consent or supported exception justified the search. An investigatory tip and modest asserted intrusion supply no reasonable-suspicion exception for protected home information. Stone-Zsela does not join that additional rationale. All four would leave the actual state suppression judgments in force, subject to properly available independent issues; none orders acquittal or a new blanket exclusion of every later item. The three Associates additionally join the Court's conditional remedial rules. The separate writing does not turn the prosecutor's invalid-arrest condition into unconditional exclusion.
+
+[Published opinion topology](../entering-law/minnesota_v_carter_and_johns_merits_1998-12-01.md#opinion-topology).
+
+### Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati — 1998-12-03
+
+Scalia dissents, joined by Thomas. They would affirm the merits judgment, dissolution of the injunction and dependent fee vacatur. They accept that Article XII reaches ordinary nondiscrimination protection and that municipalities remain subject to equal protection. In their view, regulatory restraint, limited resources, private association and the electorate's authority to make a local policy durable rationally support the measure despite imperfect coverage. Higher-level and generally applicable remedies remain available, and a local body's control over its own delegated policies differs from Colorado's restriction of state and local channels.
+
+The dissent maintains its disagreement with Romer's application of ordinary rationality and proposes the municipal distinction as an additional limit. It does not claim Romer's majority adopted that reasoning or that every affected protection is a quota. O'Connor's Coalition writing supplies support for withdrawal of optional policies, while Hurley preserves actual expression; neither is treated as making every orientation protection unlawful. The dissent rejects a new racial political-process extension and finds no duty to adopt or preserve these municipal protections. Its fee position follows its merits conclusion only and supplies no separate bar to a fee award resting on an independently established surviving basis.
+
+[Published opinion topology](../entering-law/equality_foundation_v_cincinnati_merits_1998-12-03.md#opinion-topology).
+
+### Knowles v. Iowa — 1998-12-08
+
+Stone-Zsela joins the constitutional holding and the reversal but would make the remedy explicit: the Iowa courts should suppress the fruits of this citation-only search and conduct further proceedings on the remaining admissible record. The search followed no custody, found no evidence needed to preserve the speeding observation and rested on no particularized protective or other independent ground. On that established scope, he would not leave treatment of its fruits to a general remand formulation.
+
+His concurrence concerns this search's fruits, not a universal remedy for every traffic encounter. He preserves lawful exit directions, supported Terry protection and independent probable-cause searches. He would not order acquittal, assumes no civil liability and supplies no new holding limiting searches after actual lawful custodial arrest.
+
+[Published opinion topology](../entering-law/knowles_v_iowa_merits_1998-12-08.md#opinion-topology).
+
+### Calderon v. Coleman — 1998-12-14
+
+**Kennedy, concurring in part and in the judgment.** He would use demanding whole-record substantial-influence review in this category, with genuine grave doubt preventing a finding of harmlessness. His Brecht and O'Neal positions distinguish collateral review while requiring the State to explain why an established violation did not substantially influence the actual decision. That is neither a sufficiency-of-aggravation test nor a rule that the prisoner loses whenever the evidence is evenly balanced. He accepts the binding Chapman categories but would not extend them here. Stringer's distinct weighing-error rule does not make every capital habeas claim identical. The District Court's plausible account of diminished mitigation must be assessed against the full charge and independent institutional-danger case; he supports a return without finding harmlessness or directing denial of relief.
+
+**Thomas, joined by Scalia, concurring in part and in the judgment.** They would require the prisoner to establish substantial injurious influence for this category outside the previously controlling Chapman holdings. Their O'Neal position rests on the limited collateral remedy and §2254(a)'s custody-in-violation requirement, while recognizing that the statute does not expressly state a tie-breaking rule. An evenly balanced showing does not satisfy their proposed burden. They respect Roy's particular personal-intent rule without extending it universally. Potential diversion and instructional misunderstanding do not themselves establish the substantial effect they require. Their objection concerns the unfinished substantive inquiry, not missing words; serious aggravation is not an automatic cure. They rely neither on New's excluded account nor on a universal innocence prerequisite, and they do not require factor-specific capital findings derived from Scalia's different omitted-purpose analysis in Roy.
+
+**Stevens, concurring in part and dissenting in part.** He would affirm under substantial-influence review with grave doubt preventing harmlessness. The District Court did more than identify inaccurate words: it connected the misleading nondeath alternative to mitigation explaining violent behavior, the prominence of the prior convictions and the prosecution's danger case. The jury's conviction-document request shows salience without proving an actual release discussion. He considers the corrective charge, repeated instructions, extensive violence, prison-safety argument and reported short deliberation, but finds that those matters do not dispel grave doubt about substantial influence. The broader danger language and the instruction itself leave a concrete connection to the sentencing choice even without an express prosecutorial reference to commutation. His Roy position permits affirmance when a proper substantive application already supports relief despite an overbroad lower formulation. Another remand would repeat that task. He relies on the trial record, not excluded deliberation evidence or mitigation developed later in habeas, and would retain sentence-only relief with a reasonable state sentencing opportunity.
+
+**Ginsburg, concurring in part and dissenting in part.** She joins the Chapman rule for this defined capital-selection error but concludes that the State cannot establish noncontribution beyond a reasonable doubt on the existing record. The misleading account could turn explanations of violent behavior into reasons to doubt the nondeath option; the convictions emphasized in aggravation also restricted commutation. She considers the corrective direction and the substantial independent institutional-danger case, but neither establishes that the misinformation made no contribution. The charge first purported to explain life without parole through inaccurate information and then directed the jury to disregard that subject. The District Court's contextual explanation of that conflict supports its judgment. Her conclusion does not depend on a universal rule against corrective instructions, a specific parole question, New's excluded proffer or later habeas mitigation. Her O'Neal reservation of a universal Chapman extension remains, and her Roy position does not require express findings on every capital factor. She would affirm conditional sentence relief rather than require another application of the same substantive inquiry.
+
+[Published opinion topology](../entering-law/calderon_v_coleman_summary_merits_1998-12-14.md#opinion-topology).
 
 ## Prior-term published positions retained for continuity
 

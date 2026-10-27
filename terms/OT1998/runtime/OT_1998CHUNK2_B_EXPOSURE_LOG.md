@@ -1,0 +1,7 @@
+# Batch B exposure log — internal control only
+
+On October 27, 2026, a targeted web search for the Iowa Supreme Court's State v. Knowles, 569 N.W.2d 601, returned an excerpt from the same matter's historical Supreme Court decision. It disclosed excluded outcome and rationale. The operator immediately notified control and stopped Knowles modeling. No Knowles commitments existed; no newly disclosed facts were added to a neutral handoff. The search result is not saved with the authorized facts. Fresh neutral preflight and modeling are required under Engine §3.
+
+Later, targeted corroboration searches concerning Equality Foundation's lower-court citation returned a later lower-court snippet disclosing the matter's historical Supreme Court petition treatment. The operator did not open that result, notified control, and stopped Equality modeling. No Equality commitments existed. The complete lower opinion and authorized public-law review had occurred before this incident. Its verified objective receipt and original neutral packet may go to fresh preflight; no proposed Equality vote or new post-exposure framing was produced.
+
+No substantive description of either excluded outcome is transmitted here. Rembert and Mosley were not affected by those matter-specific exposures. Their commitments must rest only on their authorized neutral inputs and date-eligible sources. The original batch-B neutral source remains unaltered. This log is not a Render Input and must not enter any public projection.

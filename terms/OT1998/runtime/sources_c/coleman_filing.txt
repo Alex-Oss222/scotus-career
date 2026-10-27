@@ -1,0 +1,111 @@
+ 
+ 
+ Russell COLEMAN, Petitioner, v. Daniel VASQUEZ, in his capacity as Warden of San Quentin Prison, Respondent.
+
+ No. C 89-1906 RFP.
+
+ United States District Court, N.D. California.
+
+ Aug. 21, 1991.
+
+ 
+ *301 Cliff Gardner and Robert Derham, Fiedler, Gardner & Derham, Rick Neuhoff, California Appellate Project, San Francisco, Cal., for petitioner.
+
+ Morris Beatus, Deputy Atty. Gen., San Francisco, Cal., for respondent.
+
+ 
+ 
+ ORDER
+
+ PECKHAM, District Judge.
+
+ Petitioner Russell Coleman was convicted of first degree murder and sentenced to death in 1981. His conviction and sentence were affirmed in their entirety by the Supreme Court of California in 1988. People v. Coleman, 46 Cal.3d 749 , 251 Cal.Rptr. 83 , 759 P.2d 1260 (1988). That court then denied his petition for habeas corpus without comment in 1990. 1 
+ 
+
+ Pursuant to 28 U.S.C. § 2254 , Coleman filed a petition for a writ of habeas corpus in this court. On July 10, 1991, this court ordered the proceedings stayed for 120 days so that petitioner’s counsel could conduct the investigation required by McCleskey v. Zant, 499 U.S.-, 111 S.Ct. 1454, 113 L.Ed.2d 517 (1991). Such an investigation, which may result in the identification of new claims, raises the question of whether federal monies are available for the task.
+
+ I '
+
+ On June 26, 1989, attorneys Cliff Gardner and Robert Derham were appointed to represent petitioner. On April 16, 1991, twenty-two months after counsel had been appointed and seven weeks after the Second Amended Petition had been filed, the United States Supreme Court issued its decision in McCleskey v. Zant, 499 U.S. -, 111 S.Ct. 1454 , 113 L.Ed.2d 517 (1991).
+
+ 
+ *302 
+ McCleskey repudiated the Ninth Circuit’s prevailing standard for abuse of the writ. Under the previous standard, abuse of the writ had been limited to the narrow circumstances of the deliberate abandonment of a claim, the pursuit of piecemeal litigation, or the use of subsequent petitions to vex, harass, or delay. See Neuschafer v. Whitley, 860 F.2d 1470 , 1474 (9th Cir.1988), cert. denied, — U.S. -, 110 S.Ct. 264 , 107 L.Ed.2d 214 (1989) (citing Sanders v. United States, 373 U.S. 1 , 18-19, 83 S.Ct. 1068 , 1078-79, 10 L.Ed.2d 148 (1963)). McCleskey rejected this reading of Sanders and declared that abuse of the writ could be based on the filing of a subsequent federal petition raising any new claims, unless petitioner demonstrated “cause” for failure to have raised the claim in the first federal petition and “prejudice” that would arise from failure to address the new claim. McCleskey, 499 U.S. at-, 111 S.Ct. at 1472 , 113 L.Ed.2d at 547 . The adoption of the “cause-and-prejudice” standard imposed a new burden on counsel to ensure that all possible claims had been identified and exhausted.
+
+ In an Order filed July 11, 1991, in reference to the McCleskey decision, we remarked that this court could not “blithely impose a new requirement on petitioner’s counsel without, simultaneously, granting counsel the opportunity to fulfill that obligation.” Order at 3. The court therefore granted petitioner’s motion for a stay of 120 days. The court did not decide, however, whether—and to what extent—federal monies under section 848(q)(4)(B) would be available to petitioner’s counsel to conduct a McCleskey investigation.
+
+ That question is now before us.
+
+ II
+
+ The Anti-Drug Abuse Act of 1988, Pub.L. No. 100-690, § 7001(b), 102 Stat. 4181 , 4393-94 (1989), amended Section 408 of the Controlled Substances Act, 21 U.S.C. § 848 , to provide counsel and ancillary support to defendants seeking to challenge a sentence of death in post conviction proceedings under section 2254 or 2255 of Title 28. Section 848(q)(4)(B) of Title 21 now states that
+
+ [i]n any post conviction proceeding under section 2254 or 2255 of Title 28, seeking to vacate or set aside a death sentence, any defendant who is or becomes financially unable to obtain adequate representation or investigative, expert, or other reasonably necessary services shall be entitled to the appointment of one or more attorneys and the furnishing of such other services. 
+ Paragraph 9 of this subsection provides that
+
+ [u]pon a finding in ex parte proceedings that investigative, expert or other services are reasonably necessary for the representation of the defendant, whether in connection with issues relating to guilt or sentence, the court shall authorize the defendant’s attorneys to obtain such services on behalf of the defendant and shall order the payment of fees and expenses therefore. 
+ 21 U.S.C. § 848 (q)(9).
+
+ By the terms of the statute, Congress mandated federal funds for legal representation as well as investigative, expert, and other services, provided that the prisoner can demonstrate that he is financially unable to secure the assistance on his own and that such assistance is “reasonably necessary” for his representation. 21 U.S.C. §§ 848 (q)(4)(B), 848(q)(9).
+
+ There is no dispute that, as a result of McCleskey, it is now “reasonably necessary” for counsel to investigate and present all claims in the first 2 petition. McCleskey made clear that attorneys must raise all claims: not merely those claims known to the petitioner at the time of filing, but also those claims that a reasonable investigation would have revealed. Faced with this obligation, an attorney must review the record, conduct a preliminary factual investigation, and ensure that all possi *303 ble claims for relief have been uncovered and evaluated.
+
+ The fact that petitioner’s attorneys were appointed, rather than privately retained, does not alter the attorneys’ duties. The purpose of section 848(q) is “to put indigent defendants as nearly as possible in the same position as nonindigent defendants.” United States v. Sanders, 459 F.2d 1001 , 1002 (9th Cir.1972) (interpreting the analogous provisions of the Criminal Justice Act).
+
+ Respondent’s reliance on In re Lindsey, 875 F.2d 1502 (11th Cir.1989), as support for the denial of federal funds for a McCleskey investigation is misplaced. In Lindsey, the district court had dismissed the prisoner’s section 2254 petition because it contained unexhausted claims. Id. at 1504 . The district court then held, and the Eleventh Circuit affirmed, that federal monies under § 848(q) and 18 U.S.C. § 3006A (the Criminal Justice Act) may not be used to assist “in [the] pursuit of state court remedies” for unexhausted claims. Id. at 1505 (emphasis in original).
+
+ Central to Lindsey’s holding was the court’s conclusion that state court proceedings were neither “ancillary to” nor a “proceeding under section 2254.” Id. at 1506, 1508 . Consequently, petitioner’s request for the assistance of a federally appointed lawyer and psychiatric expert fell outside the terms of both section 848(q) and section 3006A. 2 
+ 3 
+ 
+
+ Yet here, by contrast, petitioner has not presented a mixed petition to this court and is proceeding under section 2254. He is thus entitled to appointed counsel, which he has already received, and such ancillary services as are “reasonably necessary” to his representation. This court is persuaded that, after McCleskey, the research and investigation of new claims is reasonably necessary to the representation of this capital prisoner.
+
+ III
+
+ Although the doctrine of exhaustion forbids federal courts from adjudicating a petition that contains any unexhausted claims, Rose v. Lundy, 455 U.S. 509 , 102 S.Ct. 1198 , 71 L.Ed.2d 379 (1982),’ it in no way prevents Congress from funding research and investigation in federal court that may touch on unexhausted claims.
+
+ Exhaustion “is principally designed to protect the state courts’ role in the enforcement of federal law and [to] prevent disruption of state judicial proceedings.” Lundy, 455 U.S. at 518 , 102 S.Ct. at 1203 . Under the exhaustion doctrine, it is for the state courts, in the first instance, to pass upon and correct alleged violations of prisoners’ federal constitutional rights. Id. This requirement minimizes the instances in which federal courts, by deciding constitutional issues, will intrude into state processes. McCleskey, 499 U.S. at-, 111 S.Ct. at 1469 , 113 L.Ed.2d at 544 .
+
+ The investigation of possible claims under section 848(q) thus does no violence to the exhaustion doctrine, which is limited to the adjudication of constitutional claims. That attorneys Gardner and Derham, while the petition is pending in federal court, may research and investigate unexhausted claims—in precisely the same manner that privately retained attorneys may research and investigate such claims—does not intrude on state sovereignty. The federal court in no way has trod on the state court’s resolution of the federal constitutional issues. Following the investigation, the prisoner either will decide that a claim exists and pursue it in state court, in accordance with the exhaustion requirement, or will decide the claim is not tenable and abandon it.
+
+ The rule that district courts should dismiss petitions that contain unexhausted claims does not mean that a district court should dismiss a petition merely because the attorney’s thought processes turn to new claims. The latter rule would prove *304 unduly burdensome both for counsel and for the court. Because legal claims do not spring fully grown like Athena from the head of Zeus, an attorney cannot determine, at the outset, whether his thinking and research will result in an exhausted or unexhausted claim. Counsel’s duty to represent his client would be severely compromised if his talents and zeal, not to mention his compensation, were limited to exhausted claims. Similarly, it would be extraordinarily taxing for the district court to set the point at which the attorney’s efforts were so directed to the pursuit of an unexhausted claim that compensation would be disallowed. The Supreme Court, in fact, has already warned district courts against engaging in the “difficult if not impossible task” of sorting exhausted from unexhausted claims. 4 
+ Lundy, 455 U.S. at 519 , 102 S.Ct. at 1204 .
+
+ Once counsel has had the opportunity to conduct preliminary research and investigation sufficient to identify a viable claim, these proceedings may be stayed pursuant to Local Rule 296-8(e) in order to permit exhaustion. At that point, petitioner will then be able to make an informed choice as to whether to pursue the claim in state court or whether to waive it. Such a procedure fully accords with the guideline that “all issues raised by the petitioner be ruled upon by the [state] Supreme Court prior to any ruling by this court.” Campbell v. Blodgett, 927 F.2d 444 , 445 (9th Cir.1991). 5 
+ 
+
+ Comity and federalism address the federal court’s consideration of the merits of a claim; we have found no case that extends these principles to the attorney’s investigative process. Nothing would be gained by returning the case to state court every time counsel fancies the existence of an unexhausted claim. There is ample time to do that in the event petitioner chooses to assert such a claim. “Federalism” does not require a game of ping-pong between the state and federal courts.
+
+ IV
+
+ After two years of effort, Coleman has presented a Second Amended Petition containing thirteen exhausted claims. We have previously granted petitioner the time to conduct an investigation in order to finalize his petition as required by McCleskey. Today we hold that Congress has granted him, by statute, the financial resources necessary to make that opportunity meaningful.
+
+ IT IS SO ORDERED.
+
+ 
+ 1 
+ . Three members of the Court, however, believed that petitioner’s claims were sufficiently meritorious to justify the issuance of an order to show cause.
+
+ 
+ 
+ 2 
+ . A "first” petition describes "the original filing relating to a particular conviction or sentence and a subsequent or amended filing if the original filing was not dismissed on the merits." Ninth Circuit Rule 22-4(a).
+
+ 
+ 
+ 3 
+ . McKinney v. Paskett, 753 F.Supp. 861 (D.Idaho 1990), also denied petitioner’s request for federal payment for counsel during state court proceedings. Id. at 865 . The case is silent, however, as to whether counsel was compensated for her time and efforts in federal court that led to the discovery that her client had unexhausted claims—the very issue here.
+
+ 
+ 
+ 4 
+ . Respondent’s position, taken to its logical end, would swamp the district courts with the “impossible task” of defining permissible and impermissible research and investigation in every habeas case. Even for exhausted claims, the discovery of new facts might "fundamentally" alter the claim so as to require further exhaustion. Vasquez v. Hillery, 474 U.S. 254 , 258, 106 S.Ct. 617 , 620, 88 L.Ed.2d 598 (1986). Thus, the court would have to scrutinize every application to discern whether counsel had overstepped his bounds in the investigation. We have grave doubts that "federalism” requires such a result.
+
+ 
+ 
+ 5 
+ . Were this a case, as in Lindsey, where the petition already contained unexhausted claims, the court might well direct petitioner to state court to exhaust his claims and, while he is there, to ensure that he had satisfied his obligations under McCleskey. In such circumstances, petitioner would be fully able to comply with the "simple and clear instruction" from the Supreme Court: “before you bring any claims to federal court, be sure that you first have taken each one to state court.” Lundy, 455 U.S. at 520 , 102 S.Ct. at 1204 . It would then be counsel’s responsibility to seek remuneration from the state court.
+
+ 
+ 
+ 

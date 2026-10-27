@@ -1,0 +1,5 @@
+# Batch A internal context exposure receipt
+
+During neutral research, broad web search results unexpectedly exposed excluded same-matter Supreme Court material for Wright, Dodd and Carter. Affected modeling was stopped before commitments were written. The control operator was notified. This context extracted objective source material only for fresh neutral validation and independent modeling; no exposed material is imported into those handoffs. Wright's unbounded primary source is control-only. The event-specific excluded content itself is deliberately not repeated in the sanitized extraction receipt or preflight.
+
+Paradise had no same-matter excluded exposure. Authorized public prior/current-term Stone positions appeared in the Current-Term Neutral Projection; control confirmed they are lawful public continuity under Engine ?5 and distinct from private/current-matter Stone material. No private Stone material, comparator file, raw Decision Record, full brief or Git history was accessed.

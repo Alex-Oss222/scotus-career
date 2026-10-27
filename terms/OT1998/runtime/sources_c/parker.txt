@@ -1,0 +1,105 @@
+ 
+ 
+ In re David P. PARKER, Sr., Debtor. McCLELLAN FEDERAL CREDIT UNION, Appellant, v. David P. PARKER, Sr., Appellee.
+
+ No. 96-15784.
+
+ United States Court of Appeals, Ninth Circuit.
+
+ Argued and Submitted June 11, 1997.
+
+ Decided March 17, 1998.
+
+ 
+ *669 Larry J. Cox, Peter A. Buck, Jones, Kerr & Buck, Sacramento, California, for the appellant.
+
+ No appearance for the appellee.
+
+ Eric M. North, San Jose, California, for the amicus curiae.
+
+ Before: D.W. NELSON, BOOCHEVER, and TROTT, Circuit Judges.
+
+ 
+ 
+ BOOCHEVER, Circuit Judge:
+
+ A debtor in Chapter 7 bankruptcy entered into a reaffirmation of his debts with a credit union. The bankruptcy court refused to approve the reaffirmation agreement, and the credit union appealed. The bankruptcy appellate panel held that the credit union did not have standing, and dismissed the appeal. Because we conclude that the credit union has standing, we consider the substantive issue of law, briefed and argued by the parties, whether 11 U.S.C. § 521 (2)(A) requires a Chapter 7 bankruptcy debtor who wishes to retain property securing a debt to reaffirm the debt or redeem the property securing the debt.
+
+ FACTS
+
+ On April 28, 1995, David P. Parker, Sr., filed a Chapter 7 bankruptcy petition in the bankruptcy court for the Eastern District of California. Parker was not represented by counsel. Among other debts, he owed the McClellan Federal Credit Union (the “Credit Union”) an unsecured debt of $1,986.50 on a credit card, and a secured debt of $9,977.56, with collateral of an automobile worth between $9,000 and $10,000.
+
+ Parker filed a statement of intention under 11 U.S.C. § 521 , stating his desire to reaffirm his secured loan. Still unrepresented by counsel, he executed a reaffirmation agreement with the Credit Union. In the agreement, Parker reaffirmed his secured *670 ear debt in full, and reaffirmed $1,500 of the unsecured credit card debt. In consideration of his reaffirmation, the Credit Union reduced the balance of the unsecured debt from $1,986.50 to the $1,500 as reaffirmed, and reduced the monthly payment on the secured car debt from $308.73 to $280. The Credit Union also agreed that upon his discharge in the bankruptcy proceeding, Parker would be reinstated as a member in good standing at the Credit Union, and if full payment were timely made on the secured account, the Credit Union would disregard the debt in considering any future loan application. In turn, Parker agreed that his bankruptcy discharge would not affect his obligations.
+
+ Parker filed the reaffirmation agreement, and the court scheduled a hearing on the agreement under 11 U.S.C. § 524 (c)(6), which provides that a reaffirmation agreement is enforceable only if:
+
+ (6)(A) in a case concerning an individual who was not represented by an attorney during the course of negotiating an agreement under this subsection, the court approves such agreement as— 
+ (i) not imposing an undue hardship on the debtor or a dependent of the debtor; and 
+ (ii) in the best interest of the debtor. 
+ At the hearing, the bankruptcy court stated:
+
+ ... I am not going to approve the reaffirmation agreement, particularly when it rolls in unsecured debt. Even if it does reduce your monthly payment by what appears to be some amount, but not a great amount. And my understanding of the law is, that as long as you keep paying for that automobile, you — that probably would mean that the [sic] original monthly rate you get to keep it. And so then it’s your choice as to how you want to proceed. 
+ I am not going to approve the reaffirmation agreement. Mr. Parker, if you want to keep your car, keep paying for it. If you want to preserve good credit with McClellan Federal Credit Union, pay them the debt that was discharged. I am just not going to make you do it. 
+ The court granted Parker a discharge, which included his Credit Union debts.
+
+ The Credit Union appealed to the Bankruptcy Appellate Panel (“BAP”), which held that the Credit Union did not have standing to bring the appeal, and dismissed it. McClellan Fed. Credit Union v. Parker (In re Parker), 193 B.R. 525 (B.A.P. 9th Cir.1996). The Credit Union appeals.
+
+ I. Standing 
+ 
+
+ This court reviews the legal conclusions of the BAP de novo. Alsberg v. Robertson (In re Alsberg), 68 F.3d 312 , 314 (9th Cir.1995), cert. denied, 517 U.S. 1168 , 116 S.Ct. 1568 , 134 L.Ed.2d 667 (1996). To have standing to appeal a decision of the bankruptcy court, an appellant must show that it is a “person aggrieved” who was “directly and adversely affected pecuniarily by an order of the bankruptcy court.... [The] order [must] diminish [the appellant’s] property, increase [its] burdens, or detrimentally affect [its] rights.” Fondiller v. Robertson (In re Fondiller), 707 F.2d 441 , 442-43 (9th Cir.1983); see Everex Sys., Inc. v. Cadtrak Corp. (In re CFLC, Inc.), 89 F.3d 673 , 675 (9th Cir.1996). Whether an appellant is a person aggrieved is a question of fact, which this court reviews for clear error. If, however, the district court did not make a factual finding on the issue, and the relevant facts and evidence are before this court, we may determine the issue ourselves. See Fidelity Bank v. M.M. Group, Inc., 77 F.3d 880 , 882 (6th Cir.1996); Depoister v. Mary M. Holloway Found., 36 F.3d 582 , 585 (7th Cir.1994) (where district court did not make factual finding, court of appeals may review evidence to recognize standing).
+
+ Section 521 of the Bankruptcy Code describes the individual debtor’s duties in a bankruptcy case:
+
+ (2) if an individual debtor’s schedule of assets and liabilities includes consumer debts which are secured by property of the estate— 
+ (A) within thirty days after the date of the filing of a petition under Chapter 7 of this title ... the debtor shall file with the clerk a statement of his inten *671 tion with respect to the retention or surrender of such property and, if applicable, specifying that such property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property; 
+ (B) within forty-five days after the filing of a-notice of intent under this section ... the debtor shall perform his intention with respect to such property, as specified by subparagraph (A) of this paragraph.... 
+ 11 U.S.C. § 521 (2). Parker elected to reaffirm his debts.
+
+ The Credit Union stood to profit from the reaffirmation agreement. By entering into the agreement, the Credit Union sought to recover the full balance of Parker’s ear loan should he fail to make future payments. Without the agreement, the Credit Union’s only recourse in the event of missed payments was the repossession of the vehicle. At the time the agreement was executed, the vehicle was worth between $9,000 and $10,-000, and the outstanding loan was $9,977.56, only $22.56 short of the highest estimated value of the car. The car was thus very likely worth less than the loan balance, and such a disparity would increase in the event that Parker failed to make payments in the future and the Credit Union repossessed the vehicle. In addition, the Credit Union would have benefitted from the agreement’s provision that Parker would pay most of his unsecured debt, which was otherwise dischargea-ble.
+
+ Because the bankruptcy court refused to approve the agreement, Parker was able to keep the car and continue to make payments, while thé Credit Union could not hold him hable for the full amount of the debt. This essentially “forc[es] a quasi-reaffirmation upon the creditor,” Capital Communications Fed. Credit Union v. Boodrow (In re Boo drow), 126 F.3d 43 , 47 (2d Cir.1997) (quotations omitted), cert. denied, — U.S. -, 118 S.Ct. 1055 , 140 L.Ed.2d 118 (1998), while the debtor need not reaffirm his obligation. Without the agreement, the Credit Union also could not hold Parker hable for any of his unsecured debt. As a result, the Credit Union’s rights were “detrimentally” affected when the bankruptcy court refused to approve the agreement. See id. (court’s refusal to approve affirmation agreement constitutes harm to creditor); In re CFLC, 89 F.3d at 675-76 (finding injury for standing to appeal when bankruptcy court denied assignment of a particular contract to purchaser of firm’s assets, when purchase contract included right to assignment). 1 
+ 
+
+ We conclude that the Credit Union was an “aggrieved person” and had standing to appeal the bankruptcy court’s refusal to approve the reaffirmation agreement.
+
+ II. Alternatives for debtors under 11 U.S.C. § 521 (2) 
+ 
+
+ Because we conclude that the Credit Union has standing, we review the bankruptcy court’s refusal to approve the reaffirmation agreement. We are in as good a position as the BAP to review the bankruptcy court’s decision, and so we review the decision independently. Mitsui Mfrs. Bank v. Unicom Computer Corp. (In re Unicom Computer Corp.), 13 F.3d 321 , 323 (9th Cir.1994).
+
+ 
+ *672 We now consider the legal issue whether the bankruptcy court erred in its conclusion regarding Parker’s alternatives under § 521(2). The bankruptcy court held that even without a reaffirmation agreement, the law allowed Parker to keep the car and continue to make his monthly payments. The court reasoned that the reaffirmation agreement therefore was not in Parker’s best interest under § 524(c)(6). On appeal, the Credit Union argues that because Parker could not simply keep his car and continue payment without a reaffirmation agreement such as the one the bankruptcy court refused to approve, the court erred in denying approval. We review the bankruptcy court’s interpretation of the statute de novo. Grey v. Federated Group, Inc. (In re Federated Group, Inc.), 107 F.3d 730 , 732 (9th Cir.1997). In this case, if the court’s interpretation of the statute was correct, it clearly was within the bankruptcy court’s discretion to deny approval of the reaffirmation agreement as not in Parker’s best interest. Our decision therefore depends on whether the court was correct in concluding that, absent the agreement, Parker could retain the automobile as long as he continued to make the monthly payments, even though any deficiency debt was discharged.
+
+ 11 U.S.C. § 521 (2)(A) states that after filing a Chapter 7 petition, a debtor who has consumer debts secured by property of the estate shall file a statement of his intention to retain or surrender the property with the clerk and, “if applicable,” specify that the debtor claims the property as exempt, plans to redeem the property, or intends to reaffirm the debts. The debtor must perform his expressed intention within 45 days. Id. § 521(2)(B). The circuits are evenly split on whether reaffirmation or redemption of nonexempt property are the debtor’s only alternatives, or whether following a Chapter 7 filing, a debtor may simply hold on to the collateral securing the loan and continue making payments, without electing whether to redeem the property or reaffirm the debt.
+
+ The Second, Fourth, and Tenth circuits have held that debtors who are current on their loan payments on secured property may elect to retain the property and make the payments specified in the contracts with the creditor. In re Boodrow, 126 F.3d at 53 ; Home Owners Funding Corp. v. Belanger (In re Belanger), 962 F.2d 345 , 347 (4th Cir.1992); Lowry Fed. Credit Union v. West, 882 F.2d 1543 , 1547 (10th Cir.1989). After a thorough review of the extant ease law, the Second Circuit held that the statute “appears to serve primarily a notice function, not necessarily to restrict the substantive options available to a debtor who wishes to retain collateral securing a debt.” In re Boodrow, 126 F.3d at 51 . The Fourth Circuit concluded that the words “if applicable” mean that there are other options available to the debtor. In re Belanger, 962 F.2d at 348 . The Tenth Circuit decided that the plain language of the statute was mandatory, but as the statute gives no power of enforcement, the bankruptcy court, in its discretion, may allow the debtor to keep possession of the property and continue to make payments: “[A]lthough we regard as mandatory the provisions of [§ 521], we do not believe those provisions make redemption or reaffirmation the exclusive means by which a bankruptcy court can allow a debtor to retain secured property.” In re Lowry, 882 F.2d at 1547 .
+
+ The Fifth, Eleventh, and Seventh circuits disagree, holding that once the debtor decides to retain rather than surrender the property, he is restricted to the “applicable” options of claiming an exemption, redeeming the property, or reaffirming the debt. Johnson v. Sun Fin. Co. (In re Johnson), 89 F.3d 249 , 252 (5th Cir.1996) (per curiam); Taylor v. AGE Fed. Credit Union (In re Taylor), 3 F.3d 1512 , 1516 (11th Cir.1993); In re Edwards, 901 F.2d 1383 , 1387 (7th Cir.1990). “Permitting a debtor to retain property while keeping up installment payments without a reaffirmation of personal liability allows a debtor to force a new arrangement on a creditor.” Id. at 1386 .
+
+ This court has not yet addressed the issue. Some bankruptcy decisions in this circuit agree with the Fifth, Eleventh, and Seventh Circuits. See, e.g., Ford Motor Credit Co. v. Polk (In re Polk), 76 B.R. 148 , 150 (9th Cir. BAP 1987) (“If debtors enjoyed the right to redeem by installments at the fair market value, few would ever elect to reaffirm se *673 cured obligations under Section 524(c) since they would likely pay a higher price.”); In re Chavarria, 117 B.R. 582 , 584-85 (Bankr.D.Idaho 1990); In re Stevens, 85 B.R. 854 , 855 (Bankr.D.Idaho 1988). A very recent decision of a divided Bankruptcy Appellate Panel of the Ninth Circuit, however, has held that § 521 does not limit the debtor’s options. Mayton v. Sears Roebuck & Co. (In re Mayton), 208 B.R. 61 (9th Cir. BAP 1997) (Meyers, B.J., concurring in the result). In re Mayton applied § 521(2)(C) when a debtor refused to choose one of the options in the statute:
+
+ Subparagraph (C) states: “nothing in sub-paragraphs (A) and (B) of this paragraph shall alter the debtor’s or the trustee’s rights with regard to such property under this title.”.... A debtor otherwise may retain the collateral and continue to make the contract payments or go into default and risk foreclosure. Amazingly, courts restricting the debtor to redemption or reaffirmation refer not at all to subpara-graph (C). Yet its meaning is plain, especially in the light of its location in a statute whose other paragraphs all relate to procedure and not substance. 
+ 
+ Id. at 65-66 . Reasoning that § 521(2)(C)’s statement that “nothing in subparagraphs (A) and (B) shall alter the debtor’s ... rights with regard to such property under this title” “preserves the debtor’s property rights derived from the substantive provisions of the Code and specifically provides that subpara-graphs (A) and (B) are subservient to it,” (citations omitted), the court concluded that reaffirmation and redemption are “voluntary” and that § 521(2) is “essentially a notice statute.” Id. at 66-68 . Relying on sub-paragraph (C), the BAP thus reached the same result as the Second, Fourth, and Tenth Circuits.
+
+ In interpreting § 521(2), we begin with the plain language of the statute. Pennsylvania Dept. of Public Welfare v. Davenport, 495 U.S. 552 , 557-58, 110 S.Ct. 2126 , 2130-31, 109 L.Ed.2d 588 (1990). We do not agree with the decisions of some of the other circuits that the language is ambiguous. The statute states that the debtor
+
+ shall file with the clerk a statement of his intention with respect to the retention or surrender of such property and, if applicable, specifying that the property is claimed as exempt, that the debtor intends to redeem such property, or that the debtor intends to reaffirm debts secured by such property. 
+ 11 U.S.C. § 521 (2)(A). Our interpretation of that language is that the only mandatory act is the filing of the statement of intention, which the debtor “shall” file. Then, “if applicable,” — that is, if the debtor plans to choose any of the three options listed later in the statute (claiming the property as exempt, redeeming the property, or reaffirming the debt) — the debtor must so specify in the statement of intention. The debtor’s other options remain available, as unambiguously stated in § 521(2)(C): “[N]othing in subpara-graph[ ](A) ... shall alter the debtor’s or the trustee’s rights with regard to such property under this title.”
+
+ We see no reason to reach beyond this plain language. The legislative history is of little assistance in interpreting the congressional intent behind § 521. See the detailed discussion of legislative history in In re Castillo, 209 B.R. 59 , 68-71 (Bankr.W.D.Tex.1997) (no member of Congress explained meaning of “if applicable,” and scant legislative history of this section is a “less than satisfying source of information”), rev’d, Government Employees Credit Union v. Castillo, 213 B.R. 316 (W.D.Tex.1997) (following Johnson ).
+
+ We conclude that Parker was not limited to reaffirmation or redemption of his debts with the Credit Union. The bankruptcy court’s refusal to approve the reaffirmation agreement, as not in Parker’s best interest, was thus within its discretion.
+
+ AFFIRMED.
+
+ 
+ 1 
+ . The BAP opinion assumes that the bankruptcy court denied a motion brought by Parker himself to approve the reaffirmation agreement, and that the Credit Union is therefore attempting to appeal a court order denying Parker’s motion. Parker, 193 B.R. at 528 .
+
+ The bankruptcy court, however, did not act pursuant to a motion filed by Parker. Instead, it ruled on the reaffirmation agreement because the court itself set the hearing to review whether it imposed an undue hardship on Parker or was in his best interest. The bankruptcy court concluded that under the agreement Parker gave up his rights to have the unsecured debt to the Credit Union discharged, and Parker could keep his automobile and continue to make payments without reaffirming his debt to the Credit Union. Therefore, the bankruptcy court decided that the agreement was not in Parker's best interest, and declined to approve the agreement. The Credit Union was present at the hearing and argued for the approval of the agreement. See In re Commercial W. Fin. Corp., 761 F.2d 1329 , 1335 (9th Cir.1985) (attendance and objection should usually be required to fulfill "person aggrieved" status).-
+
+ 
+ 
+ 

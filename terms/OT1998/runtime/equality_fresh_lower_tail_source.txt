@@ -1,0 +1,261 @@
+128 F.3d 289 - Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati (94-3973/4280) — 128 F.3d 289 | OpenJurist (https://openjurist.org/128/f3d/289)
+citeturn30view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"turn24view0","lineno":306}); Total lines: 478
+L220: 2358, 2364】-65, 【98†49 L.Ed.2d 132】 (1976) (explaining that the referendum process is "a basic instrument of democratic government"); James, 【99†402 U.S. at 141】-43, 【99†91 S.Ct. at 1333】-34 (exalting the referendum as manifesting "devotion to democracy, not to bias, discrimination, or prejudice" and as constituting a "procedure [which] ensures that all the people of a community will have a voice in a decision ...
+L221: that will affect the future development of their own community."); accord 【100†Southern Alameda Spanish Speaking Organization v. Union City】, 【101†424 F.2d 291, 294】 (9th Cir.1970) ("A referendum ... is far more than an expression of ambiguously founded neighborhood preference.
+L222: It is the city itself legislating through its voters--an exercise by the voters of their traditional right through direct legislation to override the views of their elected representatives as to what serves the public interest.") (citing 【102†Spaulding v. Blair】, 【102†403 F.2d 862, 863】 (4th Cir.1968) ("The referendum procedure ... is a fundamental part of the State's legislative process.")).【103†9】
+L223: 【104†¶43】
+L224: In any event, Romer should not be construed to forbid local electorates the authority, via initiative, to instruct their elected city council representatives, or their elected or appointed municipal officers, to withhold special rights, privileges, and protections from homosexuals, or to prospectively remove the authority of such public representatives and officers to accord special rights, privileges, and protections to any non-suspect and non-quasi-suspect group.
+L225: Such a reading would disenfranchise the voters of their most fundamental right which is the very foundation of the democratic form of government, even through the lowest (and most populist) organs and avenues of state government, to vote to override or preempt any policy or practice implemented or contemplated by their subordinate civil servants to bestow special rights, protections, and/or privileges upon a group of people who do not comprise a suspect or a quasi-suspect class and hence are not constitutionally entitled to any special favorable legal status.
+L226: Romer dealt with a statewide constitutional amendment that denied homosexuals access to every level and instrumentality of state government as possible sources of special legal protection. Romer supplied no rationale for subjecting a purely local measure of modest scope, which simply refused special privileges under local law for a non-suspect and non-quasi-suspect group of citizens, to any equal protection assessment other than the traditional "rational relationship" test.
+L227: 【105†¶44】
+L228: 
+L229: The Romer Court, after concluding that the sweeping effect of Colorado Amendment 2 literally offended basic equal protection standards without the necessity of performing the traditional three-tiered equal protection analysis, then mandated that, even under traditional equal protection strictures, Colorado Amendment 2 could not survive "rational relationship" review:
+L230: 
+L231: 【106†¶45】
+L232: Amendment 2 fails, indeed defies, even this conventional inquiry. First, the amendment has the peculiar property of imposing a broad and undifferentiated disability on a single named group, an exceptional and, as we shall explain, invalid form of legislation. Second, its sheer breadth is so discontinuous with the reasons offered for it that the amendment seems inexplicable by anything but animus toward the class that it affects; it lacks a rational relationship to legitimate state interests.
+L233: 
+L234: 【107†¶46】
+L235: ....
+L236: 
+L237: 【108†¶47】
+L238: 
+L239: In the ordinary case, a law will be sustained if it can be said to advance a legitimate government interest, even if the law seems unwise or works to the disadvantage of a particular group, or if the rationale for it seems tenuous.... By requiring that the classifications bear a rational relationship to an independent and legitimate legislative end, we ensure that classifications are not drawn for the purpose of disadvantaging the group burdened by the law.
+L240: 
+L241: 【109†¶48】
+L242: Amendment 2 confounds this normal process of judicial review. It is at once too narrow and too broad. It identifies persons by a single trait and then denies them protection across the board. The resulting disqualification of a class of persons from the right to seek specific protection for the law is unprecedented in our jurisprudence.
+L243: 
+L244: 【110†¶49】
+L245: 
+L246: 【111†Id.】 at ---- - ----, 【17†116 S.Ct. at 1627】-28 (citations omitted).
+L247: 
+L248: 【112†¶50】
+L249: Accordingly, the Romer majority's rejection of rational relationship assessment hinged upon the wide breadth of Colorado Amendment 2, which deprived a politically unpopular minority of the opportunity to secure special rights at every level of state law. The uniqueness of Colorado Amendment 2's sweeping scope and effect differentiated it from the "ordinary case" in which a law adversely affects a discernable group in a relatively discrete manner and limited degree.
+L250: In this context, the Court found that the rationales proffered by the state in support of Colorado Amendment 2 could not be justified, because the scope and effect of Colorado Amendment 2 "raise the inevitable inference that the disadvantage imposed is born of animosity toward the class of persons affected." 【111†Id.】 at ----, 【17†116 S.Ct. at 1628】.
+L251: Therefore, the Romer Court rejected the state's argument that Colorado Amendment 2, as drafted, rationally advanced its legitimate public interests in furthering "respect for other citizens' freedom of association, and in particular of landlords or employers who have personal or religious objections to homosexuality" and "conserving resources to fight discrimination against other groups." 【111†Id.】 at ----, 【17†116 S.Ct. at 1629】. The Court found:
+L252: 【113†¶51】
+L253: 
+L254: The breadth of the Amendment is so far removed from these particular justifications that we find it impossible to credit them. We cannot say that Amendment 2 is directed to any identifiable legitimate purpose or discrete objective.【114†10】
+L255: 
+L256: 【115†¶52】
+L257: 
+L258: 【111†Id.】
+L259: 
+L260: 【116†¶53】
+L261: In essence, the high Court resolved that a state constitutional amendment which denied homosexuals any opportunity to attain state law protection, even from municipalities or other local entities within that state which desired to accord them special legal rights, could not be justified by the proffered public interests purportedly advanced by that state enactment, namely enhancement of the associational liberty of the state's residents and the conservation of public resources, because the citizens of the affected subordinate bodies politic had elected, or otherwise would elect, to forgo those identified public interests in favor of guaranteeing, through local governmental instrumentalities, nondiscriminatory treatment of the gay citizens of their local governmental units.
+L262: 【117†¶54】
+L263: A state law which prevents local voters or their representatives, against their will, from granting special rights to gays, cannot be rationally justified by cost savings and associational liberties which the majority of citizens in those communities do not want.
+L264: Clearly, the financial interests and associational liberties of the citizens of the state as a whole are not implicated if a municipality creates special legal protections for homosexuals applicable only within that jurisdiction and implements those protections solely via local governmental apparatuses.
+L265: For this reason, the justifications proffered by Colorado for Colorado Amendment 2 insufficiently supported that provision, and implied that no reason other than a bare desire to harm homosexuals, rather than to advance the individual and collective interests of the majority of Colorado's citizens, motivated the state's voters to adopt Colorado Amendment 2.【118†11】
+L266: 【119†¶55】
+L267: In contradistinction, as evolved herein, the Cincinnati Charter Amendment constituted local legislation of purely local scope. As such, the City's voters had clear, actual, and direct individual and collective interests in that measure, and in the potential cost savings and other contingent benefits which could result from that local law.
+L268: Beyond contradiction, passage of the Cincinnati Charter Amendment was not facially animated solely by an impermissible naked desire of a majority of the City's residents to injure an unpopular group of citizens, rather than to legally actualize their individual and collective interests and preferences.
+L269: Clearly, the Cincinnati Charter Amendment implicated at least one issue of direct, actual, and practical importance to those who voted it into law, namely whether those voters would be legally compelled by municipal ordinances to expend their own public and private resources to guarantee and enforce nondiscrimination against gays in local commercial transactions and social intercourse.
+L270: 【120†¶56】
+L271: Unquestionably, the Cincinnati Charter Amendment's removal of homosexuals from the ranks of persons protected by municipal antidiscrimination ordinances, and its preclusion of restoring that group to protected status, would eliminate and forestall the substantial public costs that accrue from the investigation and adjudication of sexual orientation discrimination complaints, which costs the City alone would otherwise bear because no coextensive protection exists under federal or state law.
+L272: Moreover, the elimination of actionable special rights extended by city ordinances, and prevention of the reinstatement of such ordinances, would effectively advance the legitimate governmental interest of reducing the exposure of the City's residents to protracted and costly litigation by eliminating a municipally-created class of legal claims and charges, thus necessarily saving the City and its citizens, including property owners and employers, the costs of defending against such actions.【121†12】 Although the Romer Court never rejected associational liberty and the expression of community moral disapproval of homosexuality as rational bases supporting an enactment denying privileged treatment to homosexuals, it concluded that under the facts and circumstances of Romer, the state's argument in support of Colorado Amendment 2 was not credible.
+L273: Because the valid interests of the Cincinnati electorate in conserving public and private financial resources is, standing alone, of sufficient weight to justify the City's Charter Amendment under a rational basis analysis, discussion of equally justifiable community interests, including the application of associational liberty and community moral disapproval of homosexuality, is unnecessary to sustain the Charter Amendment's viability.【122†13】
+L274: 【123†¶57】
+L275: 
+L276: In summary, the Cincinnati Charter Amendment did not disempower a group of citizens from attaining special protection at all levels of state government, but instead merely removed municipally enacted special protection from gays and lesbians. Unlike Colorado Amendment 2, the Cincinnati Charter Amendment cannot be characterized as an irrational measure fashioned only to harm an unpopular segment of the population in a sweeping and unjustifiable manner.
+L277: 
+L278: 【124†¶58】
+L279: Accordingly, the judgment below is hereby REVERSED, and the district court's permanent injunction against implementation and enforcement of the Cincinnati Charter Amendment (Article XII) is hereby VACATED. The lower court's award of costs (including attorneys' fees) to the plaintiffs is also VACATED. This case is hereby REMANDED to the district court for entry of judgment in favor of the defendants, and for such further necessary and appropriate proceedings and orders as are consistent with this decision.
+L280: 【125†1】
+L281: Where a statute or ordinance uniquely and adversely impacts a "suspect class" such as one defined by race, alienage, or national origin, or invades a "fundamental right" such as speech or religious freedom, the rigorous "strict scrutiny" standard governs, whereby such laws "will be sustained only if they are suitably tailored to serve a compelling state interest." 【126†City of Cleburne v. Cleburne Living Center】, 【127†473 U.S. 432, 440】, 【128†105 S.Ct. 3249, 3254】, 【126†87 L.Ed.2d 313】 (1985).
+L282: Where legislation singularly and negatively affects a "quasi-suspect" class (i.e. one defined by gender or illegitimacy), a somewhat less stringent evaluative norm (sometimes called "intermediate scrutiny") controls whereby such a legislative classification is deemed valid if it is "substantially related to a sufficiently important governmental interest" (gender classifications) or is "substantially related to a legitimate state interest" (illegitimacy classifications). 【129†Id. at 440】-41, 【130†105 S.Ct.
+L283: at 3254】-55. However, an ordinary enactment, such as the local initiative in the instant case, which does not impair the interests of members of any suspect or quasi-suspect class, and does not inordinately burden the plaintiffs' exercise of any fundamental constitutional right, is tested under the least demanding equal protection standard, the "rational relationship" inquiry.
+L284: Under this deferential evaluation, "legislation is presumed to be valid and will be sustained if the classification drawn by the statute is rationally related to a legitimate state interest." 【131†Id. at 440】, 【132†105 S.Ct. at 3254】. "When social or economic legislation is at issue, the 【31†Equal Protection Clause】 allows the States wide latitude, and the Constitution presumes that even improvident decisions will eventually be rectified by the democratic processes." 【133†Id. at 440】, 【132†105 S.Ct.
+L285: at 3254】 (citations omitted). See also 37712, 【134†Inc. v. Ohio Dept. of Liquor Control】, 【134†113 F.3d 614, 621】-22 (6th Cir.1997)
+L286: 【135†2】
+L287: See 【136†Steffan v. Perry】, 【137†41 F.3d 677, 684】 n. 3 (D.C.Cir.1994) (en banc) (following 【138†Padula v. Webster】, 【138†822 F.2d 97, 103】 (D.C.Cir.1987) ("It would be quite anomalous, on its face, to declare status defined by conduct that states may constitutionally criminalize as deserving of strict scrutiny under the 【31†equal protection clause】")); 【139†Ben-Shalom v. Marsh】, 【140†881 F.2d 454, 464】 (7th Cir.1989), cert. denied, 【141†494 U.S. 1004】, 【141†110 S.Ct.
+L288: 1296】, 【142†108 L.Ed.2d 473】 (1990) ("If homosexual conduct may constitutionally be criminalized, then homosexuals do not constitute a suspect or quasi-suspect class entitled to greater than rational basis scrutiny for equal protection purposes"); 【143†High Tech Gays v. Defense Industrial Security Clearance Office】, 【143†895 F.2d 563, 571】 (9th Cir.1990) (same); 【144†Woodward v. United States】, 【145†871 F.2d 1068, 1076】 (Fed.Cir.1989), cert. denied, 【141†494 U.S. 1003】, 【141†110 S.Ct.
+L289: 1295】, 【142†108 L.Ed.2d 473】 (1990) (explaining that homosexuality is primarily behavioral in nature and as such is not immutable; "[a]fter Hardwick it cannot logically be asserted that discrimination against homosexuals is constitutionally infirm")
+L290: Accord 【146†Baker v. Wade】, 【147†769 F.2d 289, 292】 (5th Cir.1985) (en banc), cert. denied, 【148†478 U.S. 1022】, 【149†106 S.Ct. 3337】, 【149†92 L.Ed.2d 742】 (1986) (pronouncing that homosexuals compose neither a suspect nor a quasi-suspect class); 【150†National Gay Task Force v. Board of Education of Oklahoma City】, 【151†729 F.2d 1270, 1273】 (10th Cir.1984), aff'd mem. by an equally divided Court, 【152†470 U.S. 903】, 【152†105 S.Ct.
+L291: 1858】, 【152†84 L.Ed.2d 776】 (1985) (resolving that the legal classification of gays is not suspect) (both decided prior to Bowers ).
+L292: 【153†3】
+L293: 
+L294: By contrast, the district court had accepted the plaintiffs' argument that such a fundamental right emanated from the Constitution and that Article XII deprived Cincinnati gays of the exercise of that purported right. See Equality Foundation I, 【154†54 F.3d at 268】 (citing Equality Foundation of Greater Cincinnati, 【155†Inc. v. City of Cincinnati】, 【156†860 F.Supp. 417, 430】-34 (S.D.Ohio 1994))
+L295: 
+L296: 【157†4】
+L297: The party challenging the rationality of legislation bears the burden of negating every conceivable basis for that enactment, regardless of whether or not such supporting rationale was cited by, or actually relied upon by, the promulgating authority. 【8†Federal Communications Commission v. Beach Communications, Inc.】, 【48†508 U.S. 307, 313】-15, 【49†113 S.Ct. 2096, 2100】-02, 【8†124 L.Ed.2d 211】 (1993).
+L298: "The burden upon a party seeking to overturn a legislative enactment for irrationally discriminating between groups under the 【31†equal protection clause】 is an extremely heavy one." 【158†Borman's, Inc. v. Michigan Prop. & Cas. Guar. Ass'n】, 【158†925 F.2d 160, 162】 (6th Cir.), cert. denied, 【159†502 U.S. 823】, 【159†112 S.Ct. 85】, 【160†116 L.Ed.2d 58】 (1991)
+L299: Indeed, a reviewing court in this circuit may not even inquire into the electorate's possible actual motivations for adopting a measure via initiative or referendum. Instead, the court must consider all hypothetical justifications which potentially support the enactment. 【161†Arthur v. City of Toledo】, 【162†782 F.2d 565, 574】 (6th Cir.1986); 【163†Clarke v. City of Cincinnati】, 【164†40 F.3d 807, 815】 (6th Cir.1994), cert. denied, 【165†514 U.S. 1109】, 【165†115 S.Ct. 1960】, 【166†131 L.Ed.2d 851】 (1995).
+L300: 【167†5】
+L301: 
+L302: See 【168†Valot v. Southeast Local School Dist. Bd. of Educ.】, 【169†107 F.3d 1220, 1229】 (6th Cir.1997) (ruling that government regulations which do not classify plaintiffs on suspect or quasi-suspect lines, nor impinge constitutionally protected personal rights, are reviewed for rationality) (citing Romer, at ----, 【17†116 S.Ct. at 1627】), petition for cert. filed, 66 U.S.L.W. 3086 (July 10, 1997) (No. 97-74)
+L303: 
+L304: 【170†6】
+L305: Concordantly, the three dissenting Justices accepted the majority rationale that Colorado Amendment 2 did not divest homosexuals of the rights and protections available to other Coloradans under state laws of general application, and observed that it merely erected a barrier to the enactment of special legal rights for gay Coloradans at all levels of state law:
+L306: [T]he Court's [majority] opinion ultimately does not dispute [that the amendment does not deprive gays of state law rights generally applicable to all other persons in Colorado], but assumed it to be true. See ante, at ----, 【17†116 S.Ct. at 1626】. The only denial of equal treatment it contends homosexuals have suffered is this: They may not obtain preferential treatment without amending the state constitution.
+L307: 
+L308: Romer, at ----, 【17†116 S.Ct. at 1630】 (Scalia, J., dissenting) (emphasis in original).
+L309: 【171†7】
+L310: 
+L311: The Romer Court opined:
+L312: 
+L313: We must conclude that Amendment 2 classifies homosexuals not to further a proper legislative end but to make them unequal to everyone else. This Colorado cannot do. A State cannot deem a class of persons a stranger to its laws.
+L314: 
+L315: Romer, at ----, 【17†116 S.Ct. at 1629】.
+L316: 
+L317: 【172†8】
+L318: The City was not constitutionally compelled to enact special privileges or protections for homosexuals because no person is constitutionally insulated from private discrimination, 【173†Crawford v. Board of Education】, 【174†458 U.S. 527, 538】, 【175†102 S.Ct. 3211, 3218】, 【173†73 L.Ed.2d 948】 (1982); 【176†Moose Lodge No. 107 v. Irvis】, 【177†407 U.S. 163, 172】, 【178†92 S.Ct.
+L319: 1965, 1971】, 【176†32 L.Ed.2d 627】 (1972), and because public discrimination towards persons who are not members of a suspect or quasi-suspect class is permissible as long as such official discrimination is rationally linked to the furtherance of some valid public interest, see Romer, at ----, 【17†116 S.Ct. at 1627】.
+L320: Nothing in Romer implied that the Colorado municipalities which had adopted gay rights ordinances could be constitutionally restrained from retracting such enactments through ordinary legislative processes. Indeed, the plaintiffs herein have conceded that the City and its voters at all times possessed the constitutional authority to rescind the gay rights ordinances. Accordingly, the Cincinnati City Charter's removal of previously enacted special rights for gays was constitutionally unassailable
+L321: 【179†9】
+L322: This court underscores that the constitutional concerns which anchor Romer are not implicated when previously adopted special legal protection at the local level is rescinded, and its reinstatement precluded, irrespective of whether the prohibition is enacted by the voters directly, by the city's elected representatives, or by some other competent instrumentality such as a local department supervisor.
+L323: Unlike a state government, which is composed of discrete and quasi-independent levels and entities such as cities, counties, and the general state government, a municipality is a unitary local political subdivision or unit comprised, fundamentally, of the territory and residents within its geographical boundaries. See, e.g., 【180†Mumford v.
+L324: Basinski】, 【181†105 F.3d 264, 267】-68 (6th Cir.1997) (distinguishing Ohio municipalities and counties as creatures of state law constituting "【182†bodies politic and corporate】" from the state government and its arms, officers, and instrumentalities), petition for cert. filed, 66 U.S.L.W. 3137 (U.S. Aug. 4, 1997) (No. 97-243).
+L325: The citizens of the City of Cincinnati have instituted a charter form of government whereby day to day management is delegated to an elected city council, which in turn delegates specific tasks to various departments and agents. But the citizenry as a whole remains the ultimate authority in this discrete political subdivision, and it can, by charter amendment, alter the authority and powers it delegated to its council
+L326: No logically sound construction of the components of a municipal polity could compartmentalize the City's citizens, elected representatives, and administrative departments into conceptually separate levels of local government, in the way that municipalities and other local entities are distinct levels of state government as compared to the state entity itself.
+L327: Hence, it would be irrational to argue that the adoption of a gay rights regulation by a municipal department could not constitutionally be eliminated, and its reintroduction barred, by the city council or the city's voters, on the theory that it would be more difficult for proponents of gay rights to lobby the city council or the city's electorate than to lobby the pertinent department chief, because the city's voters, elected council, and departments and employees are all components, with varying degrees and spheres of authority, of the same (municipal) level of state government.
+L328: Stated differently, it would be illogical to conclude that city council would be powerless to void a rule or regulation promulgated by one of the city's departments or department heads on the theory that it would be more difficult to lobby council for a change than the department administrators.
+L329: 【183†10】
+L330: 
+L331: See also id. at ---- - ----, 【17†116 S.Ct. at 1628】-29 (noting that by removing all access to special state legal protection from gays, Colorado Amendment 2 "inflicts on them immediate, continuing, and real injuries that outrun and belie any legitimate justifications that may be claimed for it")
+L332: 
+L333: 【184†11】
+L334: The Romer Court opined that, because Colorado Amendment 2 prevented even localities solicitous of homosexual rights from enacting legal assistance for homosexuals, the true objective of that measure was to maliciously injure homosexuals rather than to advance a proper interest of a majority of the state's voters:
+L335: We must conclude that Amendment 2 classifies homosexuals not to further a proper legislative end but to make them unequal to everyone else. This Colorado cannot do. A State cannot deem a class of persons a stranger to its laws.
+L336: 
+L337: Romer, at ----, 【17†116 S.Ct. at 1629】.
+L338: 
+L339: 【185†12】
+L340: Indeed, the United States Senate last year considered legislation crafted to eliminate sexual orientation discrimination in employment, but rejected that proposal largely to avoid promotion of a "litigation bonanza." 142 CONG. REC. S9992 (daily ed. Sept. 6, 1996) (statement of Sen. Hatch) (commenting on Employment Nondiscrimination Act of 1995, S.2056, 104th Cong.). See also id.
+L341: at S10004 ("The bill virtually guarantees an avalanche of costly litigation which could hurt small businesses most of all.") (statement of Sen. Coverdell); id. at S9997 ("A lot of individuals and a lot of firms would be sued based on sexual orientation claims if this bill becomes law.") (statement of Sen. Nickles); id. at S9989 ("I do not believe ... that we will promote greater tolerance in the workplace by relying on more lawsuits as this bill would require.") (statement of Sen. Kassebaum)
+L342: 【186†13】
+L343: Although Cincinnati's interest in conserving public and private resources might have been served by a mere repeal of the sexual orientation clauses of the Human Rights Ordinance and Equal Employment Opportunity Ordinance, we do not think it irrational for Cincinnati to advance this interest by means of a charter amendment.
+L344: Cincinnati voters may have doubted that the city council would exercise the fiscal restraint the voters themselves valued, and they may, therefore, have feared that the Council would respond to a simple repeal by reenacting the two sexual orientation clauses. We conclude that the voters of Cincinnati were within their constitutional rights to declare that, henceforth, they alone would decide whether the benefits of protecting gays and lesbians from discrimination outweighs the costs
+L345: Share Print
+L346: 
+L347: Download
+L348: 
+L349: .txt PDF
+L350: 
+L351: Copy
+L352: 
+L353: [Button: URL][Button: Citation Link][Button: Bluebook]
+L354: 
+L355: Embed on your site
+L356: 
+L357: iframe Markdown Preview card Button
+L358: 
+L359: Hover to preview · click to copy the code
+L360: 
+L361: Cite on Wikipedia【187†Search Wikipedia →†en.wikipedia.org】
+L362: 
+L363: Report a problem
+L364: 
+L365: What went wrong?
+L366: 
+L367: 10 to 2,000 characters. 0 so far, 2,000 left.
+L368: 
+L369: Your email (optional)[Input: Only if you would like a reply]
+L370: 
+L371: Website[Input]
+L372: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L373: 
+L374: [Button: Send][Button: Cancel ]
+L375: ### Court
+L376: 
+L377: 【3†Sixth Circuit Court of Appeals】
+L378: 
+L379: ### Judge
+L380: 
+L381:   * 【188†RB】
+L382: 
+L383: 【188†Robert B. Krupansky】
+L384: 
+L385: 【189†Majority opinion →】
+L386: 
+L387: ### Parties
+L388: 
+L389:   * appellee:EQUALITY FOUNDATION OF GREATER CINCINNATI, INC.; Richard Buchanan; Chad Bush; Edwin Greene; Rita Mathis; Roger Asterino; H.O.M.E., Inc
+L390:   * appellant:CITY OF CINCINNATI (94-3973/4280), Defendant-Appellant, Equal Rights, Not Special Rights; Mark Miller; Thomas E. Brinkman, Jr.; Albert Moore (94-3855), Intervening
+L391: ### Counsel
+L392: 
+L393:   * Alphonse A. Gerhardstein (argued and briefed), Laufman, Rauh & Gerhardstein, Cincinnati, OH, Patricia M. Logue (briefed), Chicago, IL, Suzanne B. Goldberg (briefed), LAMBDA Legal Defense & Education Fund, New York City, Scott T. Greenwood (briefed), Greenwood & Associates, Cincinnati, OH, for Equality Foundation of Greater Cincinnati, Inc. in Nos. 94-3855 and 94-3973.
+L394:   * Alphonse A. Gerhardstein (argued and briefed), Laufman, Rauh & Gerhardstein, Cincinnati, OH, Patricia M. Logue (briefed), Chicago, IL, Scott T. Greenwood (briefed), Greenwood & Associates, Cincinnati, OH, for Equality Foundation of Greater Cincinnati, Inc. in No. 94-4280.
+L395:   * Alphonse A. Gerhardstein (argued and briefed), Laufman, Rauh & Gerhardstein, Cincinnati, OH, Patricia M. Logue (briefed), Chicago, IL, Scott T. Greenwood (briefed), Greenwood & Associates, Cincinnati, OH, for Richard Buchanan, Chad Bush, Edwin Greene, Rita Mathis, Roger Asterino and H.O.M.E., Inc.
+L396: 
+L397:   * Karl P. Kadon, III (argued and briefed), City Solicitor’s Office for the City of Cincinnati, Cincinnati, OH, for City of Cincinnati in No. 94-3855.
+L398:   * ■ Karl P. Kadon, III (argued and briefed), Mark S. Yurick, City Solicitor’s Office for the City of Cincinnati, Cincinnati, OH, for City of Cincinnati in Nos. 94-3973 and 94-4280.
+L399:   * William L. McGrath (briefed), Shaw, Pittman, Potts & Trowbridge, Washington, DC, John J. Fossett, Fossett, Howe, Wessels & Ogle, Ft. Wright, KY, Robert K. Skolrood (briefed), National Legal Foundation, Virginia Beach, VA, Robert H. Bork (briefed), American Enterprise Institute for Public Research, Michael A. Carvin (argued and briefed), Cooper & Carvin; Washington, DC, for Equal Rights, Not Special Rights.
+L400:   * John J. Fossett, Fossett, Howe, Wessels & Ogle, Ft. Wright, KY, Robert H. Bork (briefed), American Enterprise Institute for Public Research, Michael A. Carvin (argued and briefed), Cooper & Carvin, Washington, DC, for Mark Miller, Thomas E. Brinkman, Jr. and Albert Moore.
+L401: 
+L402:   * Thomas W. Condit, Condit- & Dressing, Cincinnati, OH, for The American Family Association of Ohio.
+L403: 
+L404:   * Robert E. Manley, Manley, Burke, Lipton & Cook, Cincinnati, OH, for Cincinnati Federation of Teachers, et al.
+L405:   * Alice L. Brown, Alan Jenkins, NAACP Legal Defense & Educational Fund, New York City, for NAACP Legal Defense and Educational Fund, Inc., et al.
+L406: 
+L407:   * Eric J. Graninger, Louisville, KY, for James E. Andrews.
+L408: 
+L409:   * Paul M. Smith, Jenner & Block, Washington, DC, for The American Psychological Association, et al.
+L410: 
+L411:   * Marianne Neal, Asst. Atty. General, Office of the Attorney General of Ohio, Columbus, OH, Richard A. Cordray (briefed), Grove City, OH, for Ohio Attorney General.
+L412:   * Melissa Wells-Petry (briefed), Law Offices of Melissa Wells-Petry, Washington, DC, for Family Research Council.
+L413: ### In the law dictionary
+L414: 
+L415: Defined terms used in this case
+L416: 
+L417:   * 【190†bodies politic and corporate】
+L418:   * 【191†equal protection inquiry】
+L419:   * 【192†municipal law】
+L420:   * 【193†unconstitutional vagueness】
+L421: 
+L422: /128/f3d/289 · 【194†.json】 · Public domain
+L423: 
+L424: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L425: 
+L426: U.S. Government work · public domain · not legal advice
+L427: With special thanks to
+L428: 
+L429: Browse the record
+L430: 
+L431:   * 【195†Cases】
+L432:   * 【196†Code】
+L433:   * 【197†Law Dictionary】
+L434:   * 【198†Federal Judges】
+L435:   * 【199†Courts】
+L436:   * 【200†Law Schools】
+L437:   * 【201†Named Statutes】
+L438:   * 【202†Founding Documents】
+L439:   * 【203†Books】
+L440:   * 【204†Citation Checker】
+L441: 
+L442: For developers + AI agents
+L443: 
+L444:   * 【205†Developers & API】
+L445:   * 【206†/llms.txt】
+L446:   * 【207†JSON API】
+L447: 【208†♥ Support OpenJurist】
+L448: 
+L449: © 2026 OpenJurist♿ Accessibility
+L450: ## Accessibility
+L451: 
+L452: [Button: × ]
+L453: 
+L454: These preferences are saved in your browser.
+L455: 
+L456: Text size
+L457: 
+L458: [Button: A− ]100%[Button: A+ ]
+L459: 
+L460: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L461: 
+L462: [Button: Reset to defaults ] 【209†Accessibility statement】
+L463: 
+L464: 【210†Contact】 【211†Returns & Refunds】 【212†Attributions】 【213†Terms of Use】 【214†Privacy Policy】
+L465: 
+L466: Report a problem with this page
+L467: 
+L468: What went wrong?
+L469: 10 to 2,000 characters. 0 so far, 2,000 left.
+L470: 
+L471: Your email (optional)[Input: Only if you would like a reply]
+L472: 
+L473: Website[Input]
+L474: 
+L475: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L476: 
+L477: [Button: Send][Button: Cancel ]
+
