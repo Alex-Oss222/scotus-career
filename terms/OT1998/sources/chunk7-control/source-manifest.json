@@ -1,0 +1,112 @@
+[
+  {
+    "name": "unum-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-1868.ZS.html",
+    "characters": 11012
+  },
+  {
+    "name": "unum-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-1868.ZO.html",
+    "characters": 35202
+  },
+  {
+    "name": "haggar-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-2044.ZS.html",
+    "characters": 8164
+  },
+  {
+    "name": "haggar-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-2044.ZO.html",
+    "characters": 25691
+  },
+  {
+    "name": "haggar-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/97-2044.ZC.html",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "name": "sun-diamond-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-131.ZS.html",
+    "characters": 5859
+  },
+  {
+    "name": "sun-diamond-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-131.ZO.html",
+    "characters": 29550
+  },
+  {
+    "name": "aguirre-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-1754.ZS.html",
+    "characters": 7481
+  },
+  {
+    "name": "aguirre-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-1754.ZO.html",
+    "characters": 31161
+  },
+  {
+    "name": "lasalle-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/97-1418.ZS.html",
+    "characters": 7964
+  },
+  {
+    "name": "lasalle-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-1418.ZO.html",
+    "characters": 46208
+  },
+  {
+    "name": "lasalle-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/97-1418.ZC.html",
+    "characters": 11002
+  },
+  {
+    "name": "lasalle-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/97-1418.ZD.html",
+    "characters": 18952
+  },
+  {
+    "name": "el-paso-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-6.ZS.html",
+    "characters": 6369
+  },
+  {
+    "name": "el-paso-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-6.ZO.html",
+    "characters": 26923
+  },
+  {
+    "name": "saenz-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/98-97.ZS.html",
+    "characters": 6136
+  },
+  {
+    "name": "saenz-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-97.ZO.html",
+    "characters": 40079
+  },
+  {
+    "name": "saenz-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-97.ZD.html",
+    "characters": 21073
+  },
+  {
+    "name": "saenz-ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/98-97.ZD1.html",
+    "characters": 15985
+  },
+  {
+    "name": "rubin-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-93.ZD.html",
+    "characters": 16051
+  },
+  {
+    "name": "russell",
+    "url": "https://openjurist.org/146/f3d/563/russell-v-burris-pac-russell-r",
+    "characters": 41825
+  },
+  {
+    "name": "sealed",
+    "url": "https://openjurist.org/148/f3d/1073",
+    "characters": 27120
+  }
+]

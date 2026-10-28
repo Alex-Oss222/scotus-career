@@ -1,0 +1,733 @@
+978 F. Supp. 1211 - Russell v. Burris | OpenJurist
+https://openjurist.org/978/fsupp/1211/russell-v-burris-2136448
+Public-domain · open source
+Menu
+Cases
+Code
+Courts
+Judges
+Dictionaries
+Books
+OpenJurist›Volume 978›F. Supp.›Page 1211
+978 F. Supp. 1211
+Russell v. Burris
+U.S. District Court
+Decided October 3, 1997
+U.S. District Court · decided 1997-10-03
+Cited by 7 later decisions — most recently August 1999
+2 federal appellate · 3 district ·
+Key passage — most relied on by later courts
+“(A) expressly advocates the election or defeat of a clearly identified candidate for office; and (B) is made without arrangement, cooperation, or consultation between any candidate, or any authorized committee or agent of such candidate, and the person making the expenditure or any authorized agent of that person; and (C) is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of the candidate.”
+quoted by 1 later decision, including 29 F. Supp. 2d 540 - Arkansas Right to Life State Political Action Committee v. Butler
+“(1) whether a single purpose is meant to be accomplished by the act; and (2) whether the sections of the act are interrelated and dependent upon each other.”
+quoted by 1 later decision, including Russell v. Burris
+Applies AR 7 § 7-6-203
+Relies on Lujan v. Defenders of Wildlife · Abbott Laboratories v. Gardner · Buckley v. Valeo
+Good law ✅— No negative treatment on recordhow we know
+Decided 1997-10-03
+View the full empirical analysis of this case →
+¶1
+MEMORANDUM & ORDER
+WILSON, District Judge.
+¶2
+The plaintiffs seek a declaratory judgment that Arkansas Initiated Act I of 1996 (Act I) violates their First Amendment rights to freedom of political speech and association,
+1
+and their Fourteenth Amendment right of equal protection of the laws. ■ They seek to enjoin the enforcement of ■ both Act I and Arkansas Code 7 — 6—201(9)(B), a law that predated Act I. The plaintiffs’ motion is granted in part and denied in part:
+A. Enforcement of Arkansas Code section 7 — 6—203(a)(2) and (b)(2), which imposes a $300 per election contribution limit applicable to enumerated statewide offices, is enjoined.
+B. Arkansas Code section 7-6-203(a)(l) and (b)(1), which imposes a $100 per election contribution limit applicable to all other offices, is upheld, except as to the offices of Supreme Court Justice and Court of Appeals Judge. Application of this section to the offices of Supreme Court Justice and Court of Appeals Judge, is enjoined.
+C. Arkansas Code section 7-6-201(9)(B), which imposes a $200 per year limit on contributions to approved political action committees, is upheld.
+D. Arkansas Code sections 7-6-201 and - 203(d), pertaining to small donor political action committees, are upheld against the plaintiffs’ challenge on equal protection grounds.
+E. The plaintiffs lack standing to challenge Arkansas Code sections 7-6-201(13) and (14), and 7-6-203(k), which address contributions to an independent expenditure committee.
+F. The plaintiffs’ challenge to Arkansas Code section 7-6-224, concerning the authority of local jurisdictions to enact more restrictive campaign contribution regulations than state law, is dismissed because it is not ripe.
+¶3
+I. Background
+¶4
+A. Act I
+¶5
+Act I, which amended Arkansas’ existing campaign contribution laws, was approved by voters on November 5, 1996, by a two-to-one margin. Before Act I, a candidate could receive up to $10,00 in contributions per election from individuals, corporations, unions, political action committees (PACs) and other groups. Ark.Code Ann. §§ 7-^6-201(1), - 203(a) (Michie Supp.1995). In addition, a state political party could contribute up to $2500 per election to that party’s candidate.
+Id.
+§ 7-6-203(d). Since 1990, approved PACs have been limited to contributions of no more than $200 per year from any person.
+Id.
+§ 7-6-201(9). While not established by Act I, this limitation is attacked by the plaintiffs in this action.
+¶6
+Act I made substantial changes to Arkansas’ campaign contribution law. Under the Act I amendments, candidates for the offices of Governor, Lieutenant Governor, Secretary of State, State Treasurer, State Auditor, Attorney General, and Commissioner of State Lands (“statewide candidates”) may not accept campaign contributions exceeding $300 per election from any person.
+2
+Candidates
+*1215
+for all other offices, including Arkansas Supreme Court Justices and Court of Appeals Judges, are limited to contributions of no more than $100 per election from any person.
+3
+Although state Supreme Court Justices run statewide, they are not included in the category of “statewide candidates” under the Act I limitations. Arkansas Court of Appeals Judges are elected from districts of approximately 400,000 persons. By way of comparison, Arkansas Senate districts include approximately 68,000 persons; Arkansas House of Representative districts include a population of approximately 24,000.
+¶7
+Act I did not disturb the right of political parties to contribute up to $2500 to a candidate per election,
+4
+and it creates a small donor PAC subject to the same $2500 limit.
+5
+Neither did the Act alter the definition of “persons,” which remains: “any individual, proprietorship, firm, partnership, joint venture, syndicate, labor union, business trust, company, corporation, association, committee, or any other organization or group of persons acting in concert. It shall also include organized political parties____”
+Id.
+§ 7-6-201(1). Because approved PACs are persons by definition, Act I limits their contributions to statewide candidates to $300 per election and contributions to other candidates to $100 per election. Act I also limits aggregate contributions by any person to independent expenditure committees
+6
+to $500 per calendar year.
+7
+Introducing a public subsidy
+*1216
+element, Act I provides for state tax credits for campaign contributions of $50 per year on an individual return and $100 on a joint return.
+8
+Additionally, Act I allows municipalities, counties and. townships to set contribution limits lower than those set by state law.
+9
+¶8
+B. The Parties
+¶9
+The plaintiffs are three individuals and a registered Arkansas PAC. Plaintiff Kent Ingram is a businessman, former state senator, and frequent campaign contributor, who had made numerous campaign contributions at levels that would exceed the Act I limits, and who desires to continue to contribute at the higher levels. Plaintiff William R. Austin is a businessman who wishes to contribute in amounts exceeding the Act I limits. Plaintiff Ron Russell is the Executive Vice-President of the Arkansas Chamber of Commerce, a former mayor, and campaign contributor in amounts that would exceed current Act I limits. Mr. Russell- also wishes to contribute at the higher levels. Plaintiff Associated Industries, of .Arkansas, Political Action Committee (AIAPAC) is an approved PAC favoring business interests, that asserts the right to contribute $2500 per election to candidates, just as a small donor PAC may do. Plaintiffs Ingram and Russell are officers of the State Chamber PAC. Plaintiffs Austin and Russell are officers of AIAPAC.
+¶10
+The defendants are the individual members of the Arkansas Ethics Commission, sued in their official capacities. The Commission administers Arkansas campaign finance and disclosure laws and investigates alleged violations of these laws. Defendant-Intervenor Citizens for Clean Government (Citizens), is á coalition of organizations including the Association of Community Organizations for Reform Now (ACORN), Common Cause, the New Party, and a local union. Citizens was the principal proponent of Act I.
+¶11
+C. The Issues
+¶12
+The plaintiffs claim that the following provisions of Act I violate their rights to freedom of political expression (speech) and association under the First Amendment: (1) the $100 and $300 limits on campaign contributions to candidates; (2) Act I’s authorization for local jurisdictions to set- even lower contribution limits; and (3) the $500 limit to annual contributions a person may give to an independent expenditure committee. The plaintiffs challenge, on the same grounds, Arkansas’ $200 per person limit on annual contributions to an approved PAC. As noted earlier, this latter limit was approved by a ballot initiative in 1990, and thus pre-dated
+*1217
+Act I. The plaintiffs claim further that in allowing small donor PACs to contribute $2500 per election to a candidate, Arkansas denies equal protection of the laws to approved PACs, which are subject to the $100 and $300 individual contribution limits. The defendants and Citizens argue that plaintiffs lack standing to assert these claims.
+¶13
+II. Discussion
+¶14
+A. Standing
+¶15
+This Court’s jurisdiction is restricted by the U.S. Constitution, which allows federal courts to hear only “cases” and “controversies.” U.S. Const, art. Ill, § 2, cl. 1. The Court cannot render advisory opinions. Whether a plaintiff has standing to invoke the jurisdiction of the federal courts is a threshold question in any case. To establish standing a plaintiff must show: (1) that she suffered an injury in fact — “an invasion of a legally protected interest” that is both “concrete and particularized,” and “actual or imminent, not ‘conjectural’ or ‘hypothetical’ (2) a causal connection between the injury and the challenged action; and (3) that a favorable decision is likely to redress her injury.
+Lujan v. Defenders of Wildlife,
+504 U.S. 555, 560-61, 112 S.Ct. 2130, 2136, 119 L.Ed.2d 351 (1992) (citations omitted). When a party brings “a pre-enforcement challenge to a statute that both provides for criminal penalties and abridges First Amendment rights, ‘a credible threat of present or future prosecution itself works an injury that is sufficient to confer standing.’ ”
+Minnesota Citizens Concerned for Life v. FEC,
+113 F.3d 129, 131 (8th Cir.1997) (quoting
+New Hampshire Right to Life Political Action Comm. v. Gardner,
+99 F.3d 8, 13 (1st Cir.1996)). The Honorable H. Franklin Waters discusses this precise issue in a case challenging the constitutionality of Act I.
+Arkansas Right to Life State Political Action Comm. v. Butler,
+972 F.Supp. 1187 (W.D.Ark.1997).
+¶16
+In
+Arkansas Right to Life,
+the defendants argued that the plaintiffs lacked standing to raise a claim against Defendant Butler, a State Attorney for Benton County, Arkansas. The defendants contended that there was no real and immediate threat that Butler would prosecute the plaintiffs, because prosecutors had not brought criminal charges for violations of state contribution limits since the limits were enacted in 1975. The court rejected this reasoning, concluding instead that this time span was not sufficient to show that failure to prosecute under the Act was a “deeply embedded way that Arkansas carries out state policy. The fact that Arkansas has recently chosen to address the issue through passage of the Act provides ample grounds for believing that a credible threat of prosecution exists under the Act.”
+Id. ■
+at 1192. Finding that the defendants had failed to introduce compelling evidence that the plaintiffs did not face a credible threat of prosecution, Judge Waters concluded, “the Act has been recently enacted, it facially restricts the plaintiffs, and violation of the statute can subject the plaintiffs to criminal prosecution.”
+Id.
+at 1192.
+¶17
+Here, the plaintiffs testified that they want to contribute more to candidates, PACs, and independent expenditure committees than is allowed by the limits established by Arkansas law as amended by Act I. The defendants and Citizens counter that these assertions are largely speculative and unsupported by the facts. I find that the Act I amendments present a credible threat of present or future prosecution with respect to each of the plaintiffs’ claims.
+Arkansas Right to Life,
+972 F.Supp. at 1192. Therefore, the Plaintiffs have standing, except in then-challenge to the $500 limit to annual contributions a person may give to an independent expenditure committee. This exception arises because none of the plaintiffs could think of an independent expenditure committee to which they had contributed in the past or to which they planned to contribute, although they stated they may wish someday to contribute to such a committee. The plaintiffs’ stated desire to contribute to independent expenditure committees is too conjectural to support a finding of a credible threat of present or future prosecution. Therefore, on this issue, I find that the plaintiffs lack standing.
+¶18
+B. Ripeness
+¶19
+One other claim fails to meet a threshold requirement. The plaintiffs allege
+*1218
+a violation of their First Amendment rights because Act I authorizes local jurisdictions to set even lower contribution limits than the state imposes. This issue is not ripe for consideration, because no local jurisdiction has yet -set a lower contribution level. I can “only hypothesize that such an event will come to pass, and it is only on this basis that the constitutional claim could be adjudicated at this .time.”
+Babbitt v. United Farm Workers Nat’l Union,
+442 U.S. 289, 304, 99 S.Ct. 2301, 2312, 60 L.Ed.2d 895 (1979).
+See Abbott Laboratories v. Gardner,
+387 U.S. 136, 148-49, 87 S.Ct. 1507, 1515-16, 18 L.Ed.2d 681 (1967).
+¶20
+C. Limits on Contributions
+¶21
+1.
+Contributions to candidates
+¶22
+Any analysis of the constitutionality of limited contributions to candidates under Act I must begin with
+Buckley v. Valeo,
+424 U.S. 1, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976). In
+Buckley,
+the Supreme Court upheld as constitutional provisions of the Federal Election Campaign Act of 1971 (FECA) limiting campaign contributions in federal elections. The Court upheld FECA’s $1000 per election contribution limit to single candidates by an individual contributor or group, and a $5000 limit to candidates by a political committee. 424 U.S. at 23-24, 35-36, 96 S.Ct. at 637, 642-43. After recognizing that the freedoms of speech and association “lie[ ] at the foundation of a free society,” the -Court warned that “[njeither the right to associate nor the right to- participate in political activities is absolute.”
+Id.
+at 25, 96 S.Ct. at 637-38 (citations omitted). The Court instructed that these rights may be limited if the limitation is “closely drawn to avoid unnecessary abridgment of associational freedoms” and if the state “demonstrates a sufficiently important interest.”
+Id.,
+at 25, 96 S.Ct. at 637-38.
+¶23
+In a decision directly applicable here, the Eighth Circuit, only two years ago, decided the constitutionality of a Missouri initiative on campaign contribution limits. The court found the initiative’s limits too low to pass constitutional muster, in spite of the fact that the initiative passed by a three-fourths majority.
+Carver v. Nixon,
+72 F.3d 633 (8th Cir.1995),
+cert. denied,
+— U.S. -, 116 S.Ct. 2579, 135 L.Ed.2d 1094 (1996).
+10
+This Missouri law limited campaign contributions by a person or committee to a candidate or candidate committee to: (1) $100 for candidates in districts with populations of less than 100,000; (2) $200 for non-statewide candidátes in districts with a population of 100,-000 or more; and (3) $300 for statewide candidates.
+Id.
+at 635. Statewide candidates were defined by the Missouri statute as Governor, Lieutenant Governor, Attorney General, Auditor, Treasurer, and Secretary of State. The Missouri limits applied to an “election cycle,” defined by Missouri statute as “the period of time from general election for an office until the next general election for the same office.”
+Id.
+at 635 & n. 3 (citing Mo.Ann.Stat. § 130.100 (Vernon Supp.1995)). An election cycle included both the primary and the general election.
+Id.
+Thus, a candidate for statewide office in Missouri could receive a total of $300 for both the primary and general elections. Conversely, Arkansas’ limit is $300
+per election.
+In Arkansas, a candidate for one of the enumerated statewide races could receive a total of $900, assuming a primary race, a run off, and then a general election.
+¶24
+In
+Carver,
+the plaintiff argued, as the plaintiffs do here, that the contribution limits unconstitutionally infringed on his First Amendment rights to political expression and freedom of association. After noting that individual Justices of the U.S. Supreme Court had voiced differing opinions on the level of scrutiny applicable to contribution limits, the
+Carver
+court concluded that, “[t]he Court has not ruled that anything other than strict scrutiny applies” in cases involving such limits.
+Id.
+at 637.
+11
+The court thus
+*1219
+applied strict scrutiny and required the state to prove that the statute’s limitations were “narrowly tailored to meet a compelling state interest.”
+Id.
+at 638. The court emphasized that when government defends a regulation on speech it must demonstrate that the regulation will “alleviate these harms in a direct and material way.”
+Id.
+at 644 (citing
+Turner Broad. Sys., Inc. v. FCC,
+512 U.S. 622, 664, 114 S.Ct. 2445, 2470, 129 L.Ed.2d 497 (1994) (Kennedy, J., plurality)). Where First Amendment freedom of association concerns are threatened, the court found that, under
+Buckley,
+the regulation must. be “closely drawn to avoid unnecessary abridgment” of these freedoms.
+Id.
+at 644 (quoting
+Buckley,
+424 U.S. at 25, 96 S.Ct. at 637-38).
+¶25
+Addressing the state’s compelling interest, the Eighth Circuit declared that the
+Buckley
+Court “identified the compelling interest as ‘the prevention of corruption and the appearance of corruption spawned by the real or imagined coercive influence of
+large financial contributions
+on candidates’ positions and on their actions if elected to office.’ ”
+Id.
+at 638 (quoting
+Buckley,
+424 U.S. at 25, 96 S.Ct. at 638) (emphasis in original).
+12
+The Eighth Circuit concluded that the district court, which had upheld the Missouri statute as constitutional, had erred in extending
+Buckley
+to limit
+all
+contributions, not just
+large
+ones.
+Id.
+at 639. In other words, under the explicit holding in
+Carver,
+if $1000 is not large, the analysis ends and the plaintiffs win. This leaves me the difficult task of determining what a “large” contribution is in the context of Arkansas elections.
+¶26
+The
+Carver
+court concluded that the district court had posed, but had not answered, the question of whether the Missouri limits were unconstitutionally low.
+Id.
+at 640. The court noted that the district court’s conclusions extended only to the question of whether the limits were narrowly tailored.
+Id.
+(“The fact that [the Missouri initiative] sets forth graduated limits has nothing to do with whether the limits are so low as to be unconstitutional.”) Turning once more to
+Buckley,
+the court observed that, “[although we certainly are not free to fine tune the limits established by [the Missouri statutes], and we generally accept the limits established by the legislature,
+Buckley
+instructs that we must invalidate that judgment when the ‘distinctions in degree’ become ‘differences in kind.’”
+Id.
+at 641 (quoting
+Buckley,
+424 U.S. at 30, 96 S.Ct. at 640). After independently reviewing the facts, the Eighth Circuit held that the contribution limitations did, in fact, amount to a “difference in kind” compared to the $1000 limits upheld in
+Buckley. Id.
+at 645. At first blush, it might appear that
+Carver
+requires an out-of-hand ruling for the plaintiffs. However, I believe that a close inspection reveals constitutionally im
+*1220
+portant differences between the
+Carver
+case and the claims in this case.
+¶27
+As noted, the
+Carver
+court held that the state’s compelling interest in burdening political activity protected by the First Amendment was that of limiting “the reality or perception of undue influence and corruption from large contributions.”
+Id.
+at 639. Prior to the passage of the law challenged in
+Carver,
+Missouri had no contribution limits. The court noted two extreme examples of corruption presented at trial: a $420,000 contribution from a corporation’s PAC to various local races, and the “Keating Five” scandal.
+Id.
+at 642. In finding that the Missouri law was not narrowly-tailored to avoid corruption, the court declared that “[a] $420,000 contribution is a far cry from the [Missouri] limits.”
+Id.
+In contrast, Arkansas has limited individual contributions to $1000 since 1975,
+13
+and there was no evidence at’ trial of campaign contributions exceeding $1000. I believe that the contribution limits in place prior to Act I were intended to address Arkansas’ interest in limiting real or perceived undue influence or corruption from extremely “large” contributions, such as the $420,000 contribution mentioned by the Eighth Circuit in
+Carver,
+and the $2 million contribution to the 1972 Presidential campaign from dairy interests referred to in
+Buckley.
+424 U.S. at 27 n. 28, 96 S.Ct. at 638 n. 28 (citing the D.C. Circuit’s discussion of contribution abuses in the same case,
+Buckley v. Valeo,
+519 F.2d 821, 840 n. 36 (D.C.Cir.1975) (per curiam)). However, I conclude that Arkansas, having initially established contribution limits intended to avoid corruption associated with large contributions, may subsequently lower the level of such limits, if the limits have not adequately addressed that harm, and the lower limits are not so low as to render them a difference in kind rather than a difference in degree. So, what is “large,” and what is “too low”? “Ay, there’s the rub.”
+14
+¶28
+I find that, at least regarding the non-statewide offices, the defendants and Citizens have shown that Arkansas’ campaign contribution laws prior to Act I have not adequately addressed the harm of real or perceived undue influence or corruption arising from large contributions. For example, the defendants and Citizens introduced evidence of an April 1996 fundraiser organized by registered business interest lobbyists for Representative- Ode Maddox, the Chairman of the Arkansas General Assembly’s House Insurance and Commerce Committee. The event was held at the Arkansas Poultry Federation office in Little Rock. Representative Maddox’s district is in the Ouachita Mountains in the western part of the state. None of the contributors resided in Representative Maddox’s district, and most if not all of these contributors had" lobbied before members of the Insurance and Commerce Committee. Significantly, of the more than $30,000 Representative Maddox raised for his campaign, over $22,000 came from various lobbyists, business related PACs, and corporations, including several contributions of $1000.
+¶29
+I hasten to point out that no evidence of actual undue influence was introduced, and the defendants and Citizens did not contend there was any such evidence. Representative Maddox’s uncontradicted testimony was that he had never solicited “a dime” in contributions in any race during his more than forty years of service in the Arkansas'General Assembly. Furthermore, Representative Maddox testified that he gave all interested parties an equal opportunity to be heard before his committee, regardless of contributions. I credit this testimony. Nonetheless, the question of appearances remains.
+¶30
+Defendants and Citizens introduced evidence concerning the sponsoring of a “tobacco bill” sponsored by State Representative James Dietz. This bill, if enacted, would have kept local governments from passing ordinances regulating tobacco, leaving all such regulation to the state. The evidence
+*1221
+reflected that Representative Dietz received contributions totaling $2700 from tobacco interests in one election cycle. The evidence also revealed that tobacco interests had made several contributions to the members of the House Committee who voted for the bill. While Representative Dietz publicly defended this bill on the merits (according to a newspaper article introduced into evidence), it received widespread media attention, and was roundly condemned as “bad,” “special interest” legislation. It would be hard to argue that the media, and presumably, therefore, the public, did not in this instance perceive undue influence from “large” contributions.
+¶31
+Citizens also introduced an August 1997 report compiled by ACORN of the 1994 election cycle for the Arkansas House and Senate races. The report examined contributions in excess of $100, and found that special interest group contributions made up seventy percent of the total. After subtracting contributions from non-business related interest groups, the report noted that business related interest groups still accounted for between sixty-two and sixty-five percent of contributions in excess of $100. Defendants’ witness Robert Stern testified concerning a study conducted by the Center for Governmental Studies that listed campaign contribution patterns over the past three election cycles in Arkansas. Mr. Stern’s testimony echoed the findings of the ACORN report. He explained that business interest contributions had provided the major part of campaign contributions.
+¶32
+The evidence presented here convinces me that a “large” contribution depends — at least in part — on its size relative to total campaign expenses. The Supreme Court has instructed that the compelling interest at issue “relates to the perception of undue influence of large contributions to a candidate: ‘[t]o the extent that large contributions are given to secure a political quid pro quo from current and potential office holders, the integrity of our system of representative government is undermined____’”
+Citizens Against Rent Cantroll Coalition for Fair Housing v. City of Berkeley,
+454 U.S. 290, 297, 102 S.Ct. 434, 437-38, 70 L.Ed.2d 492 (1981) (citations and quotations omitted). I take this to mean that a contribution large enough to support at least the appearance of a political quid pro quo is “large.” This interpretation is, of necessity, fact-specific. The record here, unlike the meager record available to the court in
+Carver
+makes such a determination possible.
+¶33
+In the ease of Representative Maddox, for example, approximately seventy percent of his campaign funds came from business interests in individual contributions ranging between $200 and $1000. Assuming Representative Maddox spent everything he raised, a single $1000 contribution accounted for more than three percent of his total expenses. It is both the large size of these contributions relative to Representative Maddox’s total campaign expenditures and the nature of the contributors that could give rise to a reasonable perception of undue influence. Similarly, of his total campaign expenses, Representative Dietz raised roughly twenty percent from tobacco interests, which contributed in amounts between $200 and $1000. Considered in the light of Representative Dietz’s subsequent support for the tobacco bill, these contributions are large enough to support a reasonable perception of undue influence.
+¶34
+According to Mr. Stern’s study, in the general election races for the Arkansas State Senate in 1992, 1994, and 1996, candidates raised an average of $22,500 including the candidates’ own money and loans. During the same election years, candidates for the Arkansas House of Representatives raised, on average, $7550, also including personal contributions and loans. Of these averages, a single $1000 contribution equates to over four percent in the Senate races, and over thirteen percent in the House races. Clearly, a single $1000 contribution in these elections is significant. Therefore, I find that, for these non-statewide races, a $1000 contribution is sufficiently large to support a reasonable perception of undue influence.
+¶35
+In contrast, in Arkansas’ 1994 gubernatorial general election, each candidate spent over $900,000. Of this total, $1000 is only about one-tenth of one percent. I conclude that under these facts, a $1000 contribution in a
+*1222
+statewide race is not large enough to readily support a reasonable
+15
+perception of undue influence. This conclusion finds support in the fact that the
+Buckley
+Court did not consider a $1000 contribution to be large. The FECA contribution limits considered in
+Buckley
+applied to races for both houses of Congress as well as the Presidential race. Of course, U.S. Senators are elected in each state on a statewide basis, and U.S. Representatives on a-district basis. As of the 1990 census, Arkansas has four congressional districts, each, with a population of roughly 590,-000. While
+Buckley,
+did not hold that $1000 is a “constitutional minimum,” it seems clear that a $1000 contribution in 1997 dollars is not “large” in a statewide race when it was not large in 1976 dollars (when
+Buckley
+was decided), or in 1971 dollars (when FECA was enacted).
+16
+¶36
+Having decided that a $1000 contribution is not large for statewide races in Arkansas, I find that the State lacks the compelling interest necessary to justify further limiting contributions in the “statewide races,” as well as elections for the offices of state Supreme Court Justices and Judges of the Court of Appeals.
+¶37
+But what of non-statewide races? Because I have concluded that a $1000 contribution to candidates for non-statewide races in Arkansas is large, I must consider whether the $100 limit imposed by Act I is too small to be constitutional. In
+Buckley,
+the Supreme Court observed that the FECA limits were not structured to take into account the widely ranging financial needs of the congressional and presidential campaigns. The Court declared, “ ‘[i]f it is satisfied that some limit, on contributions is necessary, a court has no scalpel to probe, whether', say, a $2,000 ceiling might not serve as well as $1,000.’ Such distinctions in degree become significant only when they can be said to amount to differences in kind.” Buckley, 424 U.S. at 30, 96 S.Ct. at 640 (quoting
+Buckley v. Valeo,
+519 F.2d at 842).
+¶38
+As noted, the
+Carver
+court found the Missouri contribution limits to be a difference in kind compared to the FECA limits considered in
+Buckley. Carver,
+72 F.3d at 644. In its degree-versus-kind analysis, the
+Carver
+court emphasized: (1) the Missouri limits were per election cycle as opposed to per election in
+Buckley;
+(2) after adjusting for inflation, the Missouri limits were an even smaller fraction of the FECA limits upheld in
+Buckley
+than the bare numbers would indicate; (3) the state’s evidence concerning corrupting contributions involved amounts in the hundreds of thousands of dollars, whereas the contribution limits imposed by the challenged statute ranged only from $100 to $300 dollars; (4) the state adduced no evidence that the particular limits chosen were narrowly tailored to address corruption or the appearance of corruption associated with large campaign contributions; and (5) a much higher percentage of contributors would be affected by the Missouri limits than were affected by the FECA limits at issue in
+Buckley. Carver,
+72 F.3d at 641-44.
+¶39
+In deciding whether the $100 limit represents a difference in kind, I begin by addressing the factors upon which the Eighth Circuit relied in
+Carver.
+First, Act I’s contribution limits apply on a per election basis. This means that .the Act’s limits apply anew in each election within an election cycle— primary, general election, and any run-off. In contrast, the Missouri law applied to the election cycle as a single unit.
+¶40
+Second, the
+Carver
+court discussed the erosive effects of inflation in comparing FECA limits at issue in
+Buckley
+to the Missouri limits. This discussion applies here as well. In 1976 dollars, Act I’s $100 limit shrinks to less than forty percent of its face value, and only four percent of the federal $1000 limit upheld in
+Buckley. See Carver,
+72 F.3d at 641 (citing
+Day v. Holahan,
+34 F.3d 1356, 1366 (8th Cir.1994)).
+¶41
+*1223
+Third, in contrast to
+Carver,
+where state contribution limits were imposed for the first time, here the perceived undue influence argued by the defendants and Citizens occurred in spite of the $1000 limit already established by Arkansas. As to statewide races, a $1000 contribution is not large, and Act I’s $300 limit is unconstitutionally low. However, as to non-statewide races, I do find a $1000 contribution to be “large.” The defendants’ argument that the $100 limit has been narrowly tailored is convincing, particularly in light of
+Carver.
+I see this as a close call.
+¶42
+Fourth, in contrast to the
+Carver
+case, the defendants and Citizens introduced substantial evidence of the need for the reduced limits found in Act I. For example, the Stern study, as well as reports compiled by ACORN, indicate that large contributions, as defined by this Court, have led to the perception of undue influence in non-statewide races.
+¶43
+Fifth, in
+Carver,
+the Eighth Circuit noted that a sizable percentage of contributors would be affected by the new limits. An even higher percentage of contributors will apparently be affected by the Act I limits here. Mr. Stern’s study indicates that the $100 limit will affect as much as eighty percent of contributions in Arkansas Senate and House races.
+¶44
+I find persuasive the Citizens’ argument that contribution limits amount to a difference in kind, when compared to the limits upheld in
+Buckley,
+because the limits do not permit the same quality of political expression and association that the FECA limits allowed. In upholding FECA’s $1000 contribution limit, the
+Buckley
+Court concluded that the limit:
+focuses precisely on the problem of large campaign contributions the narrow aspect of political association where the actuality and potential for corruption have been identified while leaving persons free to engage in independent political expression, to associate actively through volunteering their services, and to assist to a limited but nonetheless substantial extent in supporting candidates and committees with financial resources.
+Significantly, [FECA’s] contribution limitations in themselves do not undermine to any material degree the potential for robust and effective discussion of candidates and campaign issues by individual citizens, associations, the institutional press, candidates, and political parties.
+¶45
+424 U.S. at 28-29, 96 S.Ct. at 639-40.
+See also id.
+at 21, 96 S.Ct. at 636 (“contribution restrictions could have a severe impact on political dialogue if the limitations prevented candidates and political committees from amassing the resources necessary for effective advocacy”). Thus for Act I’s limits to impermissibly affect First Amendment rights, the limits must “undermine to [a] material degree the potential for robust and effective discussion of candidates and campaign issues by individual citizens, associations, the institutional press, candidates, and political parties.”
+Id.
+at 29, 96 S.Ct. at 639-40.
+¶46
+I conclude that Act I’s $100 contribution limits applicable to candidates in non-statewide races (excepting races for the offices of Arkansas Supreme Court Justice, and Arkansas Court of Appeals Judge) do not burden the potential for effective political dialogue to the extent that the limits can be said to represent a difference in kind. Applied in this ease, the factors on which the
+Carver
+court relied do not alone provide a clear answer as to the degree-versus-kind question. However, this Court has had .the benefit of evidence presented during a seven-day trial, including evidence derived from special elections conducted under the Act I limits.
+¶47
+The defendants and Citizens introduced evidence showing that the cost of running Arkansas House of Representatives and Senate races in the past three election cycles averaged between $7000 and $16,000 per election for the Arkansas House and between $23,000 and $39,000 per election for an Arkansas. Senate seat. If a candidate for each of these positions raised all of her funds from $50 contributions (half of the Act I limit), a House candidate would need 320 contributors, and a Senate candidate would need 780 contributors to meet the highest of these historical cost levels. This hypothetical does not include contributions from political par
+*1224
+ties, small donor PACs, or candidates’ personal contributions. Evidence admitted at trial showed that the population of an Arkansas House district is roughly 24,000 and that of a senate district is approximately 68,000. Thus I find credible the testimony of state legislators, including former Arkansas Representative Mark Pryor and Arkansas Senator Phil Wyrick (also a former Representative), that they will be able to raise adequate funds to run. effective campaigns.
+17
+I consider it significant that no officeholder testified that she would be unable to run an effective campaign with the $100 limit, although two professional fundraisers did so testify. In the two special elections held in January 1997 under Act I, the evidence shows that the candidates were able to raise contributions exceeding the. average amount raised by open-seat candidates in primary elections during the past three election cycles. Senator Wyrick, for example, testified that he raised approximately $24,000 for his successful Arkansas Senate race under the Act I limits, while his opponent raised about $40,-000.
+¶48
+There are two exceptions to the finding that the $100 limit is constitutional. Act I omits from its definition- of statewide offices the office of state Supreme Court Justice, even though these judges are elected in statewide races. Act I sets a $100 per election limit on the twelve judges of the Court of Appeals, who are elected from districts of equal populations.
+18
+In Arkansas, judicial candidates and judicial races are subject to more stringent restrictions in solicitation than other candidates. Under Canon 5C(2) of the Arkansas Code of Judicial Conduct, a judge or candidate for judicial office subject to a public election may neither personally solicit nor accept campaign contributions. Canon 5C(2) also restricts candidate committees acting on behalf of judges or candidates from soliciting earlier than 180 days prior to a primary election, or later than forty-five days after the last contested election in which the candidate participates.
+¶49
+The defendant’s witness, Mr. Stern, testified that the $100 limit on contributions to Arkansas Supreme Court Justices was the most troubling aspect of Act I, although he suggested that this requirement was justifiable. ' I am also troubled by the limit, and do not think it justifiable. Several witnesses explained that a candidate is typically her own best fundraiser. Yet a judge cannot personally solicit funds. A Supreme Court Justice must nevertheless mount a statewide campaign, and Court of Appeals Judges must run in districts much larger than state senate districts.
+19
+I conclude that this combination of obstacles prevents candidates for these judicial positions from “amassing the resources necessary for effective advocacy.” Therefore, I find that Act I’s $100 limit, as applied to Arkansas Supreme Court Justices and Arkansas Court of Appeals Judges, amounts to a difference in degree when compared to those upheld in
+Buckley.
+It is, thus, unconstitutionally low.
+¶50
+2.
+Contributions to PACs
+¶51
+The plaintiffs also complain that the $200 limitation on contributions to approved PACs is so low that it unconstitutionally infringes on their First and Fourteenth Amendment rights to free speech and association. Each party cites
+California Medical Ass’n v. FEC,
+453 U.S. 182, 101 S.Ct. 2712, 69 L.Ed.2d 567 (1981) as controlling on this issue. In
+California Medical,
+a federal PAC complained of FECA’s $5000 per year limit on contributions to multicandidate federal PACs. Upholding the challenged provision of FECA, a plurality of the Court concluded that the limitations on contributions to PACs was justified by the government’s interest in “preventing the actual or apparent corruption of the political process.”
+Id.
+at 197, 101 S.Ct. at 2722. The plurality feared that actual or perceived cor
+*1225
+ruption would arise if individuals and unincorporated associations were able to channel unlimited funds through PACs to candidates, thereby circumventing the $1000 limit on contributions to individual candidates.
+Id.
+at 198, 101 S.Ct. at 2722-23. Further, the Court reasoned that when a contributor’s First Amendment rights are not infringed by limits on his contributions to a candidate’s campaign, those rights “are similarly not impaired by limits on the amount he may give to a multicandidate political committee----”
+Id.
+at 197, 101 S.Ct. at 2722.
+¶52
+The plaintiffs point out that FECA limited contributions to candidates to $1000 per election, and contributions to PACs to $5000 per year. They then suggest that it would be irrational for Arkansas to limit contributions to PACs to only $200 per year while allowing $300 contributions to individuals per election. The defendants counter that the 1990 limit allows substantial participation in Arkansas’ elective process while serving to prevent circumvention of the limits imposed on individual contributions. Citizens add that a limit on contributions to PACs is even more warranted in Arkansas than under the federal scheme. They note’ that the federal PACs in
+California Medical
+were required to enlist at least fifty contributors and contribute to no fewer than five candidates.
+Id.
+at 185 n. 1, 101 S.Ct. at 2716 n. 1. Arkansas imposes no such requirements. Similarly, Citizens argue, Arkansas has no corollary to FECA’s $25,000 annual limitation on total contributions by an individual.
+See Buckley,
+424 U.S. at 38, 96 S.Ct. at 644.
+¶53
+Having determined that Act I’s $300 per election limit on contributions to candidates for statewide race are unconstitutionally low, this Court is sympathetic to the argument that a $200 limit on annual contributions to PACs is similarly infirm. This view finds support in
+Day v. Holahan,
+34 F.3d 1356 (8th Cir.1994). In
+Day,
+the court deemed unconstitutional a Minnesota law limiting contributions to a political committee or political fund to no more than $100 per year. The
+Day
+court recognized the state’s compelling interest in avoiding “corruption or the appearance of corruption in the political process that could result from large amounts of special interest money circulating in the system. ...”
+Id.
+at 1365. However, it declared that “the fighting issue” presented was whether the $100 limit had been narrowly tailored to serve that interest, in the light of the burden it placed on political speech.
+Id.
+The court based its finding that the limit was too low to allow meaningful participation in protected political speech and association on: the reduced danger of actual or perceived corruption when contributions are to a political committee rather than a candidate; the fact that $100 in 1994 dollars was a scant four percent of the $1000 limit upheld in
+Buckley;
+and the fact that one-fourth to one-third of the Appellant political fund’s contributions in the previous election cycle had exceeded $100.
+Id.
+at 1365-66.
+¶54
+I find
+Day
+distinguishable and conclude that the $200 limit is constitutional. I am impressed by the fact that even though the limit has been in place since 1990, the plaintiffs do not contend that this limit has significantly infringed their First Amendment rights. In fact, much of the evidence in this ease supports the conclusion that PAC contributions to candidates in Arkansas have been robust and that the $200 limit has not prevented “political committees from amassing the resources necessary for effective advocacy.”
+Buckley,
+424 U.S. at 21, 96 S.Ct. at 636. Thus, unlike where the court was left to speculate on the effect of the challenged amendments to Minnesota’s campaign finance laws, this Court is able to consider the impact of a law that has been in effect for a number of years, and the evidence reflects no appreciable infringement.
+¶55
+D. Deference to Initiated Acts
+¶56
+Citizens urges the Court to accord substantial deference to the voters’ judgment in approving Act I, which they contend is an essentially legislative determination. They cite
+Turner Broadcasting System, Inc. v. FCC,
+512 U.S. at 665-66, 114 S.Ct. at 2470-71: “[C]ourts must accord substantial deference to the predictive judgments of Congress.” The proponents of the challenged act in
+Carver
+advanced the same argument. The
+Carver
+court rejected this argument: “First, ... the voters may no more violate
+*1226
+the Constitution than the legislature!,]” and “[s]econd, the deference to legislative enactments recognized in
+Turner Broadcasting System
+requires that courts ascertain that the legislative body ‘has drawn reasonable inferences based on substantial evidence.’ ” 72 F.3d at 644 (internal citations omitted). The court explained:
+“There is
+simply
+no
+evidence in the record identifying the source of Proposition A, whether it was an individual or a group, the process of its development, nor thé reasons for the particular dollar limits. Further, there is no evidence of the details of the campaign waged in support of the initiative.”
+Id.
+The court continued:
+Whether the deference
+Turner Broadcasting System
+requires for acts of Congress extends to the acts of the state legislative body is an issue not before us to decide. Legislative bodies consist of elected representatives sworn to be bound by the 'United States Constitution, and them legislative product is subject to veto by the elective 'executive, either President or Governor. The process of enactment, while perhaps not always perfect, includes deliberation and an opportunity for compromise and amendment, and usually committee studies and hearings. These are substantial reasons for according deference to legislative enactments that do not exist with respect to proposals adopted by initiative. On the evidentiary showing before us, there is no justification to accord Proposition A the deference that
+[Turner
+] requires for congressional action.
+¶57
+Id.
+at 644-45 (internal citation omitted). In this case there was some evidence regarding the drafting of the Act, and the campaign (as will be discussed in the next section, some of the supporting campaign literature contained a constitutionally impermissible reason, for supporting Act I). Nonetheless, neither the Supreme Court nor the Eighth Circuit has held that special deference should be given to
+state
+laws. Regardless of the force of the argument one might make, in the abstract, for deference to a direct vote of the electorate, the above quoted language from
+Carver
+clearly suggests that no such deference may be given.
+¶58
+Still, I understand that federal courts must be careful to not unnecessarily declare state laws invalid, whether enacted by-legislature or by the voters themselves. In the interest of comity, although I have found Act I constitutionally infirm in part, I have done so with “considerable pause and deliberation.”
+National Black Police Ass’n v. District of Columbia Bd. of Elections & Ethics,
+924 F.Supp. 270, 285 (D.D.C.1996), vacated, 108 F.3d 346 (D.C.Cir.1997).
+¶59
+E. Equal Protection Claim
+¶60
+Plaintiff AIAPAC argues that limiting approved PAC contributions to $100 and $300 per election, yet allowing small donor PACs to contribute $2500, treats similarly situated entities unequally and violates the Fourteenth Anendment. The Defendants and Citizens respond that this plaintiffs rights are- unimpaired because its members are free to form a small donor PAC separate from AIAPAC..
+¶61
+As stated above, the Supreme Court has held that “statutory classifications impinging upon [the right to engage in political expression] must be narrowly tailored to serve a compelling governmental interest.”
+Austin v. Michigan Chamber of Commerce,
+494 U.S. 652, 666, 110 S.Ct. 1391, 1401, 108 L.Ed.2d 652 (1990). In
+Austin,
+the Court was faced with an equal protection claim involving a Michigan statute prohibiting corporations from spending treasury funds for independent expenditures on behalf of political candidates. The Chamber of
+Commerce
+complained that unincorporated associations and media corporations were not similarly burdened. The Court upheld the statute because it was “precisely tailored” to serve the compelling state interest of preventing corporations from exploiting legal advantages to amass political “war chests.”
+Id.
+¶62
+In
+California Medical,
+the Court decided an equal protection claim where FECA permitted labor unions and corporations to contribute to a separate segregated fund for political purposes, but restricted contributions by individuals and unincorporated associations to multicandidate political committees. The Court determined that to prevail in its claim the plaintiff would need to satisfy
+*1227
+a two-part analysis, First, the plaintiff would have to show the act burdened the First Amendment rights of individuals and unincorporated individuals to a greater extent than those of labor unions and corporations. Second, it would have to prove that this differential treatment was not justified. 453 U.S. 182, 200, 101 S.Ct. 2712, 2724, 69 L.Ed.2d 567 (1981). Because the Court found no discrimination, its analysis ended without considering the issue of justifiability. The Court noted that FECA was far less restrictive to individuals and unincorporated associations than to corporations and unions. To illustrate, the Court observed that individuals and unincorporated associations were able to contribute to candidates, to candidates’ committees, and to national party and other committees, while corporations and unions could not. Moreover, multieandidate political committees could generally solicit as they pleased, while the manner and scope of solicitation by corporations and unions were “carefully limited” by FECA.
+Id.
+at 201, 101 S.Ct. at 2724. FECA’s differing restrictions, reasoned the Court, “reflect a judgment by Congress that these entities have differing structures and purposes, and that they therefore may require different forms of regulation in order to protect the integrity of the electoral process.”
+Id.
+¶63
+The question of discrimination is a' close one. I recognize that the ability to raise money from a single contribution strongly favors approved PACs over small donor PACs — $200 compared to $25, an eight-to-one ratio. Yet the ability to contribute to a single candidate may be seen as even more strongly favoring the small donor PAC over approved PACs — $2500 compared to $100, a twenty-five-to-one ratio. I conclude that this substantial disparity is balanced by the fact that small donor PACs can only receive contributions from individuals, while approved PACs may count among their donors other PACs, corporations, or unions. Furthermore, approved PACs are not limited in the total amount they can contribute overall, but only as to a single candidate. The Act I amendments do not burden the First Amendment rights of approved PACs to a more constitutionally significant extent than it burdens such rights of small donor PACs.
+¶64
+Moreover, even if the balance tipped in favor of small donor PACs, a heavier burden on approved PACs’ First Amendment rights would be justified by the state’s compelling interest in avoiding actual or apparent corruption. Act I’s restricting small donor PACs to receiving no more than $25 in annual contributions from only individuals greatly diminishes the potential for actual or perceived corruption that can accompany contributions from approved PACs. Just as in
+California Medical,
+these restrictions reflect the judgment of the voters that these two types of PACs have “differing structures and purposes,” and that different forms of regulation are permitted.
+Id.
+¶65
+F. State Interest in Leveling the Playing Field
+¶66
+Some of Citizens’ campaign literature for Act I raises a nettlesome question. It urged, among other things; the adoption of Act I “to level the playing field” for candidates with modest financial resources. Many would think that this is a perfectly proper, or even a laudable, goal. However, in
+Buckley,
+the Supreme Court stated, “the concept that government may restrict -the speech of some elements of our society in order to enhance the relative voice of others is wholly foreign to the First Amendment----” 424 U.S. at 48-19, 96 S.Ct. at 649. Scholars have challenged this language as “perhaps the most controversial and dubious statement”
+20
+in
+Buckley;
+however, neither the Supreme Court nor the Eighth Circuit has flinched since this passage was written in 1976. In
+Shrink Missouri Government PAC v. Maupin,
+the Eighth Circuit declared that “no subsequent decision of the
+[Buckley]
+Court has undermined that holding.” 71 F.3d 1422, 1426 (8th Cir.1995). In
+Carver,
+the court warned that an amicus’s suggestion that the state has a compelling interest in equalizing all citizens’ ability to affect the outcome of
+*1228
+elections was “close to running afoul of the Court’s [above-quoted] statement in
+Buckley
+72 F.3d at 639 n. 6.
+¶67
+It is hard to understand how
+any
+law restricting the size of contributions (including the federal restrictions upheld in
+Buckley)
+would not have at least some tendency to level the playing field. Indeed, in a press release, Citizens noted that Act I would “help to level the political playing field by placing strict limits on campaign contributions and increasing the power of small donors through tax credits and the creation of small donor political action committees.” However, the bulk of the Act I campaign literature appears to focus on the purpose of curbing the influence of special interests through large contributions, and “ending the cozy relationship of big money political contributions and incumbent politicians.”. Thus, the aim of leveling was apparently not the primary element of the campaign for Act I, and, on its face, the Act does not reveal leveling as its purpose.
+¶68
+In a similar vein, the plaintiffs warn that implementation of Act I’s limits will increase the advantage enjoyed by wealthy candidates over their less affluent opponents: candidates with personal wealth and the inclination to spend it on campaigns will not be hampered by having to raise money at even more limited levels or by having to worry about their opponent’s greater access to costly media outlets. In fact, some of the defendants’ and Citizens’ witnesses conceded that Act I would likely increase this advantage, one-that is apparently inherent to our electoral system. I believe that additional limits on campaign contributions will add to the wealthy candidate’s edge. However, in
+Buckley
+the Supreme Court addressed the issue of limiting the amount of money a candidate -could contribute to her own campaign. The Court held that “the First Amendment simply cannot tolerate [FECA’s] restriction upon the freedom of a candidate to speak without legislative limit on behalf of his own candidacy.” 424 U.S. at 54, 96 S.Ct. at 651. - The Court reasoned that the government’s interest in preventing actual or perceived corruption did not support such a limitation when the funds involved come from the candidate or the candidate’s immediate family.
+Id.
+at 53, 96 S.Ct. at 651. While Buckley’s reasoning has been questioned by some commentators,
+21
+it is the law that the state cannot limit a candidate’s contributions of her own money to her campaign. Just as the poor will apparently always be with us,
+22
+it appears that, in politics, so will the wealthy. Any limits on contributions will tend to favor the wealthy, but, under
+Buckley,
+this cannot be avoided, and this fact will not void otherwise valid limits.
+23
+¶69
+G. Severability
+¶70
+Severability is a matter of state law.
+Leavitt v. Jane L.,
+518 U.S. 137, -, 116 S.Ct. 2068, 2069, 135 L.Ed.2d 443 (1996). The Arkansas Supreme Court has instructed, “[i]n determining whether the -invalidity of part of the act is fatal to the entire legislation, we have looked to (1) whether a single purpose is meant to be accomplished by the act; and (2) whether the sections of the act are interrelated and dependent upon each other.”
+U.S. Term Limits, Inc. v. Hill,
+316 Ark. 251, 872 S.W.2d 349, 357 (1994). The court further explained that “it is important whether the portion of the act remaining is complete in itself and capable of being executed wholly independent of that which was rejected. Clearly, when portions of an act are mutually connected and interwoven, severance is not appropriate.”
+Id.
+872 S.W.2d at 358. Courts will consider the presence of a severability clause in an act, but this may not be determinative of itself.
+Id.
+Act I contains the following severability clause:
+*1229
+Section 15. If any provision or section of this act or the application thereof to any person or circumstance is held invalid, such invalidity shall not affect other provisions or applications of the act which can be given effect without the invalid provisions or applications, and to this end the provisions of the act are declared to be severable.
+¶71
+The Court’s ruling here has: upheld Act I’s $100 per election contribution limit for elections involving non-statewide races (with the exception of the positions of Supreme Court Justice and Court of Appeals Judge); ruled unconstitutional the Act’s $300 per election contribution limit on statewide races; upheld the preexisting $200 per annum contribution limit to PACs; and upheld the small donor PACs against the plaintiffs’ challenge on equal protection grounds. Additionally, the Court has found the plaintiffs’ challenge of Act I’s provision for lower local contribution limits nonjusticiable for lack of ripeness. Finally, the Court has held that the plaintiffs lack standing to challenge Act I’s provision for independent expenditure committees. The effect of this ruling leaves Act I intact, with the exception of the contribution limit for statewide races, and the application of the $100 limit to contributions to candidates for Supreme Court Justice and for Judge of the Court of Appeals.
+¶72
+Applying the
+U.S. Term Limits
+test, I find no single purpose behind Act I with which this Court’s ruling will unduly interfere. Similarly, I see no fatal interrelation or interdependency between the stricken and upheld portions of the Act. In other words, I see no reason not to honor the intent of the drafters of Act I that, to the extent possible, the various provisions of the Act should stand on their own. As to elections for Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Auditor of State, Attorney General, Commissioner of State Lands, Court of Appeals Judge and Supreme Court Justice, the $10.00 contribution limit applicable prior to Act I will continue to apply.
+¶73
+Conclusion
+¶74
+In summary, the Court finds the following sections of the Arkansas Code constitutional: section 7-6-203(a)(l) and (b)(1), except as it applies to the offices of Supreme Court Justice and Court of Appeals Judge; section 7-6-201(9)(B); and sections 7-6-201 and 7-6-203(d). The Court declares unconstitutional, and thus enjoins the enforcement of, the following sections of the Arkansas Code: section 7-6-203(a)(2) and (b)(2); and section 7-6-203(a)(l) and (b)(1) as it applies to the offices of Supreme Court Justice and Court of Appeals Judge. Further, the Court finds that the plaintiffs lack standing to challenge Arkansas Code sections 7-6-201(13) and (14), and 7-6-203(k). The plaintiffs’ challenge to Arkansas Code section 7-6-224 is dismissed because it is not ripe.
+¶75
+IT IS SO ORDERED.
+1
+¶76
+. First Amendment protections are made applicable to the slates by the Fourteenth" Amendment.
+See McIntyre v. Ohio Elections Comm'n,
+514 U.S. 334, 336 n. 1, 115 S.Ct. 1511, 1514 n. 1, 131 L.Ed.2d 426 (1995).
+2
+¶77
+. Section 2 of Act I states in part:
+Arkansas Code 7-6-203(a) [and] (b) ... are hereby amended to read as follows:
+(a)(2) It shall be unlawful for any candidate for the office of Governor, Lieutenant Governor, Secretary of Stalé, Treasurer of State, Auditor of
+*1215
+Stale, Attorney General, and Commissioner of State Lands, or for any person acting on the candidate's behalf, to accept campaign contributions in excess of three hundred dollars ($300) per election from any person.
+(b)(2) It shall be unlawful Tor any person to make a contribution to a candidate for the office of Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Auditor of Slate, Attorney General, and Commissioner of State Lands, or to any person acting on the candidate's behalf, which, in the aggregate, exceeds three hundred dollars ($300) per election.
+3
+¶78
+. Section 2 of Act I provides in part:
+Arkansas Code 7-6-203 (a) [and] (b) ... are hereby amended to read as follows:
+(a)(1) It shall be unlawful for any candidate for any public office, except the office of Governor, Lieutenant Governor, Secretary of Slate, Treasurer of State, Auditor of State, Attorney General, and Commissioner of State Lands, or for any person acting on the candidate’s behalf, to .accept campaign contributions in excess of one hundred dollars ($100) per election from any person.
+(b)(1) It shall be unlawful for any person to make a contribution to a candidate for any public office, except the office of Governor, Lieutenant Governor, Secretary of State, Treasurer of Stale, Auditor of State, Attorney General, and Commissioner of Slate Lands, or to any person acting on the candidate's behalf, which, in the aggregate, exceeds one hundred dollars ($100) per election.
+4
+¶79
+. Section 2 of Act I requires in part:
+Arkansas Code 7-6-203 ... (d) [is] hereby amended to read as follows:
+(d) However, an organized political party as défined in Arkansas Code 7-1-101(1) and a small donor political action committee may contribute up to two thousand five hundred dollars ($2500) to each candidate per election.
+5
+¶80
+. Section 1 of Act I requires in part:
+Arkansas Code 7-6-201 is hereby amended to add the following new subdivisionf]:
+12) A "small donor political action committee” means any person who: (A) Receives contributions from one or more individuals in order to make contributions to candidates; (B) Does not accept any contribution or cumulative contributions in excess of twenty-five dollars ($25) from any individual in any calender year; and'(C) Is registered pursuant to Arkansas Code 7-6-215 prior to making contributions to candidates. “Small donor political action committee" shall not include an organized political party, the candidate's own committee, or an exploratory committee.
+6
+¶81
+. Section I of Act I provides in part:
+Arkansas Code 7-6-201 is hereby amended to add the following new subdivisions:
+(13) An independent expenditure is any expenditure which is not a contribution and: (A) expressly advocates the election or defeat of a clearly identified candidate for office; and (B) is made without arrangement, cooperation, or consultation between any candidate, or any authorized committee or agent of such candidate, and the person making the expenditure or any authorized agent of that person; and (C) is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of the candidate.
+(14) "Independent expenditure committee” means any person who receives contributions from one or more persons in order to make an independent expenditure and is registered pursuant to Arkansas Code 7-6-215 prior to making expenditures.
+7
+¶82
+. Section 3 of Act I declares:
+*1216
+Arkansas Code 7-6-203 is hereby amended to add the following new subsection:
+(k) An Independent expenditure committee may not accept any contribution or cumulative contributions in excess of five hundred dollars ($500) in value from any person in any calendar year.
+8
+¶83
+. Section 10 of Act I provides the following: Arkansas Code Title 7, Chapter 6, Subchapter 2 is amended by adding the following new section: 7-6-222. Tax Credits for Certain Individual Political Contributions.
+¶84
+(a) Pursuant to regulations to be adopted by the Arkansas Department of Finance and Administration, a single credit against individual Arkansas Income taxes shall be allowed for money contributions made by the taxpayer in a taxable year to one or more of the following:
+¶85
+(l) A candidate seeking nomination or election to a public office at an election, or to the candidate's campaign committee; or
+¶86
+(2) A small .donor political action committee as defined in Arkansas Code 7-6-201; or
+¶87
+(3) An approved political action committee as defined in Arkansas Code 7-6-201; or
+¶88
+(4)An organized political party as defined in Arkansas Code 7-1-101(1). ■
+¶89
+(b) The credit allowed by subsection (a) of this section shall be the aggregate contributions, not to exceed fifty dollars ($50) on an individual tax return, or the aggregate contributions, not to exceed one hundred dollars ($100) on a joint return.
+9
+¶90
+. Section 12 of Act I provides:
+Arkansas Code Title 7, Chapter 6, Subchapter 2 is amended by adding the following new section: 7-6-224. Authority of Local Jurisdictions Municipalities, counties and townships shall have the authority to establish: reasonable limitations on the time periods candidates for local office shall be allowed to solicit contributions; limits on contributions to local candidates at amounts lower than those set by state law; and voluntary campaign expenditure limits for candidates seeking election to their respective governing bodies.
+10
+¶91
+. For a thoughtful discussion of
+Carver,
+see William J. Connolly, How Low Can You Go? State Campaign Contribution Limits and the First Amendment, 76 B.U.L.Rev. 483 (1996).
+11
+¶92
+. In his partial concurrence and dissent in
+Buckley,
+Justice White argued that- while campaign contributions help produce speech, they are not themselves speech protected by the First Amendment. Justice White reasoned that "[FECA] regulates .... giving and spending money, acts that have First Amendment significance not-because they are themselves communicative with respect to the qualifications of the candi
+*1219
+date, but because money may be used to defray the expenses of speaking or otherwise communicating about the merits or demerits of federal candidates for election.” 424 U.S. at 259, 96 S.Ct. at 745. Justice White would not have decided the challenge to contribution limits on First Amendment speech grounds. Rather, he saw the issue as one depending on whether the government's nonspeech interests in regulating "the use of money in political campaigns are sufficiently urgent to justify the incidental effects” that limits have on the First Amendment rights of candidates.
+Id.
+at 260, 96 S.Ct. at 746. Justice White reiterated this view almost 10 years after
+Buckley:
+¶93
+The First Amendment protects the right to speak, not the right to spend, and limitations on the amount of money that can be spent are not the same as restrictions on speaking. I agree with the majority that the expenditures in this case "produce" core First Amendment speech. But that is precisely the point: they produce such speech; they are not speech itself. ... Such a house-that-Jack-built approach could equally be used to find a First Amendment right to a job or to a minimum wage to "produce” the money to "produce” the speech.
+¶94
+FEC v. National Conservative Political Action Comm.,
+470 U.S. 480, 508, 105 S.Ct. 1459, 1474, 84 L.Ed.2d 455 (1985) (internal citation omitted).
+¶95
+It has been suggested, in jest, that if “spending money in politics is really speech, then the laws against bribery should be unconstitutional.” Robert Peck, et al., Constitutional Implications of Campaign Finance Reform, 8 Admin.L.J.Am.U. 161, 186 (1994) (comments of Professor Jamin B. Raskin). I think the point is that limiting campaign contributions should not be equated with limiting protected speech. If I were writing on a clean slate, I might well be persuaded that Justice White's view is correct; but his opinion has remained a minority view.
+12
+¶96
+. This portion of
+Buckley
+quoted in
+Carver
+is actually the Supreme Court’s characterization of the parties’ definition of the state interest, and was not an explicit holding of the Supreme Court.
+13
+¶97
+. The Arkansas Legislature first established a $1000 per election contribution limit in 1975, which it increased to $1500 per election in 1981. In 1990, The voters passed Initiative Measure No. 1, returning the limit to $1000. Ark.Code Ann. § 7-6-203 (historical notes).
+14
+¶98
+. William Shakespeare, Hamlet, act 3, sc.l, 1. 56.
+15
+¶99
+. I use the word "reasonable” because I assume that
+any
+contribution would cause some super-sensitive souls to perceive undue influence.
+16
+¶100
+. The Eighth Circuit, in
+Day v. Holahan,
+34 F.3d 1356, 1366 (8th Cir.1994) noted that a $100 contribution in 1976 dollars was worth $40.60 in 1994. Dr. Herbert Alexander, a witness for the plaintiffs, testified that a $1000 contribution when FECA went into effect (1971) would be worth from $300 to $325 in 1997.
+17
+¶101
+.As a candidate for State Representative in two successful races prior to Act I, Mr. Pryor testified he raised sufficient funds to run effective campaigns under a self-imposed contribution limit of $250. Mr. Pryor ran an unsuccessful race for . the statewide office of Attorney General in 1996, and intends to run for that office again in 1998.
+18
+¶102
+. Árk.Code Ann. § 16-12-101. Prior to July 1, 1995, the Arkansas Court of Appeals was composed of six members. After that date, the membership was increased to twelve.
+Id.
+19
+¶103
+. Arkansas currently has 35 senate districts.
+20
+¶104
+. Jamin Raskin & John Bonifaz, Equal Protection and the Wealth Primary, 11 Yale L. & Poly Rev. 273, 320 (1993).
+21
+¶105
+.
+See e.g.,
+Raskin & Bonifaz,
+supra,
+at 315-31.
+22
+¶106
+. St. John 12:8.'
+23
+¶107
+. In Justice White's view, a long-time minority view, as noted earlier, reasonable restrictions could be placed on a candidate’s personal contributions to her own campaign.
+Buckley,
+424 U.S. at 266, 96 S.Ct. at 748-49. Also, the Eighth Circuit has upheld election laws that encourage "voluntary” expenditure limits by candidates.
+Rosenstiel v. Rodriguez,
+101 F.3d 1544 (8th Cir.1996). Still, nothing is clearer in
+Buckley
+than the prohibition against government limits on personal spending.
+Buckley,
+424 U.S. at 52-54, 96 S.Ct. at 651.
+SharePrint
+Download
+.txtPDF
+Copy
+URLCitation LinkBluebook
+Embed on your site
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the code
+Cite on WikipediaSearch Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
+/978/fsupp/1211 · .json · Public domain
+The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+U.S. Government work · public domain · not legal advice
+With special thanks to
+Browse the record
+Cases
+Code
+Law Dictionary
+Federal Judges
+Courts
+Law Schools
+Named Statutes
+Founding Documents
+Books
+Citation Checker
+For developers + AI agents
+Developers & API
+/llms.txt
+JSON API
+♥ Support OpenJurist
+© 2026 OpenJurist♿ Accessibility
+Accessibility ×
+These preferences are saved in your browser.
+Text size
+A− 100% A+
+High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+Reset to defaults Accessibility statement
+Contact Returns & Refunds Attributions Terms of Use Privacy Policy
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel

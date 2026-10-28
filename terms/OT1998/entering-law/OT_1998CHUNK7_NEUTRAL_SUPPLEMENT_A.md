@@ -1,0 +1,93 @@
+# OT1998 chunk 7 — neutral supplement A
+
+This handoff corrects or completes the first six supplied packets without changing their approved source bytes. It supplies no commitment or Court action. All six use effective public law through April 7, 1999 in the focused law files. The original September 28, 1998 preparation baseline is superseded. Intervening effective current-chunk changes require refresh before a later affected event.
+
+Source-control extracts were freshly checked for neutral framing: objective facts, statutory descriptions and lower-court/agency action only. They contain no same-matter Supreme Court outcome, rationale or lineup. They are published recitations, not certification that briefs or appendices were obtained. No unavailable source establishes litigant omission. No new reconstruction premise is selected.
+
+## First-six chronology
+
+Sealed Case: April 13 decision, January 13 assigned argument. UNUM: April 20 decision, February 24 argument anchor. Haggar: April 21 decision, January 11 argument established by source-header extraction. Brooks: April 22 assigned decision; no argument date supplied or invented. Sun-Diamond: April 27 decision, March 2 argument. Russell: April 28 decision, February 22 assigned argument. All nine Justices are seated throughout these dates; no case-specific nonparticipation is established.
+
+## In re Sealed Case — legal boundaries
+
+Jaffee and Swidler protect their identified confidential relationships; recognition of this new privilege precedes any overcoming-need question. Clinton v. Jones concerns civil immunity/accommodation and reserves criminal process. Conn v. Gabbert preserves privilege questions without recognizing a protective-agent privilege. The proposed felony exception is part of the Executive's argument, not current law. Policy predictions do not become findings of impaired protection.
+
+## Brooks — correction and complete competing grounds
+
+The phrase “judicial-election structure” in the supplied relief paragraph is too narrow. The reviewed law governs single-member party primaries for county offices, General Assembly seats, specified judges and district attorneys. The separate general-election plurality rule and multimember offices are outside the claim. The circuit judgment is Brooks v. Miller, 158 F.3d 1230 (October 30, 1998), from the Northern District of Georgia; Brooks v. Barnes is the inventory alias.
+
+The trial court found no discriminatory purpose in the 1964 majority rule and alternatively found the law would have passed without discriminatory motivation. The failed 1963 Groover proposal had explicit discriminatory motives; the court did not automatically attribute them to the third Election Laws Study Committee or the 1964 proponents. Plaintiffs challenged this separation using circumstantial history, the discriminatory context and doubts about retrospective testimony. Arlington Heights, Hunter v. Underwood and Mt. Healthy supply the distinct constitutional analysis: a substantial or motivating discriminatory purpose shifts to the defenders the burden to establish the same enactment without that factor. De Grandy's Section 2 totality rule does not replace that constitutional inquiry. Findings receive clear-error review; legal error remains separately reviewable.
+
+The opinion reports 2,773 fully documented runoff sequences from 1970–1995; 278 had Black and white candidates in both rounds. Of 85 reversals of the initial plurality, 56 disfavored the Black candidate and 29 disfavored the white candidate. The net 27 describes nominations, not proved additional officeholders. The trial court credited candidate-strength explanations, found insufficient proof of racial polarization or disproportionate deterrence to Black prospective candidates, and found no unequal opportunity under the totality. These are reviewed findings, not new Court findings. Race alone does not identify voters' preferred candidates.
+
+The circuit adapted the first Gingles prerequisite to an adequate alternative; it weighed a pure plurality's legitimacy against the net nomination change and separately considered a 45-percent alternative. It also sustained political-cohesion/bloc-voting and totality conclusions. Its statewide denominator (no net racial impact in approximately 99 percent of all runoffs) and candidate-race proxies are contested analytical premises. De Grandy requires actual electoral opportunity. Neither diluting a localized burden in statewide totals nor equating candidate race with voter preference conclusively answers that question. Test both a record-limited affirmance on supported findings and correction/remand if a legal error infected them. A doubtful intermediate rationale does not automatically defeat every independent ground; the same-enactment constitutional alternative is distinct.
+
+The lower complaint also mentioned the First Amendment. The supplied Supreme Court scope identifies Section 2 and the Fourteenth/Fifteenth Amendments; no additional grant is inferred.
+
+Source: neutral preflight read the complete primary appellate text, paragraphs 1–62 and every note, in terms/OT1998/sources/chunk7-control/brooks_resource.txt. Historical post-divergence Supreme Court authorities quoted by the lower court do not displace current Holdings. A mechanically copied Section 2 quotation is in OT_1998CHUNK7_BROOKS_STATUTE.md.
+
+
+## Haggar — operative provisions and process
+
+The reviewed judgment is 127 F.3d 1460 (Fed. Cir. 1997), affirming 938 F. Supp. 868 (CIT 1996). The dispute concerns trousers made from chemically pretreated United States fabric, cut in this country and assembled in Mexico. After sewing and ordinary pressing in Mexico, Haggar baked them for 12–15 minutes to activate the resin's permanent-press characteristics. Customs treated the baking as processing in addition to assembly and denied the partial duty exemption. Haggar maintained that delaying baking until return would require extra steps and risk unwanted creases during shipment. Those explanations are the importer's position.
+
+The applicable tariff provisions are HTSUS subheading 9802.00.80 and, for earlier shipments, identically worded TSUS item 807.00, 19 U.S.C. §1202. They provide a partial exemption for qualifying United States fabricated components assembled abroad where the articles have not been advanced in value or improved in condition abroad except through assembly or operations incidental to assembly, such as cleaning, lubricating and painting. The tariff's additional component requirements remain applicable; the quoted disputed clause does not eliminate them.
+
+19 C.F.R. §10.16(c) (1998) excludes a significant nonassembly process whose primary purpose is fabrication, completion or physical/chemical improvement of a component, or which is unrelated to assembly, whether or not substantially transforming the article. Its subsection (c)(4) lists chemical treatment imparting new characteristics, including permapressing. The Commissioner promulgated this regulation in 1975 with Treasury approval after notice and comment: 39 Fed. Reg. 24651 (1974); 40 Fed. Reg. 43021 (1975). Section 10.11(a) describes the regulations as informing the public of Customs' constructions and ensuring uniform duties, and preserves importers' legal right to judicial review. Section 10.11(b) separately addresses documentary compliance under §10.24.
+
+The pertinent delegations include 19 U.S.C. §§1500(b), 1502(a), TSUS General Headnote 11 and HTSUS General Note 20. The reviewing statute is 28 U.S.C. §2640(a)(1), requiring decision on the record made before the CIT in the listed civil actions. These are distinct from the choice whether a particular interpretation is permissible and from the factual application of the regulation to the baking step.
+
+Source: published record and statutory recitation, 526 U.S. 380, Parts I–III. Exact source text is retained in control's downloaded opinion; no historical Supreme Court analysis is adopted here.
+
+## UNUM — claim, agency provision and remand posture
+
+UNUM's insured group disability policy required proof at the latest one year and 180 days after disability. The admitted disability date was May 5, 1992; the deadline was November 5, 1993; UNUM received the claim April 11, 1994 and denied it as untimely on April 13. Ward had informed his employer MAC of disability in February or March 1993 and forwarded the Social Security eligibility determination in July 1993. These were communications to MAC; whether they legally counted as notice to UNUM was contested.
+
+Ward sued under ERISA §502(a), specifically §502(a)(1)(B), to recover plan benefits. He did not bring an independent state-law damages cause of action. The policy stated that for all purposes MAC acted on its own behalf or as the employee's agent, and that MAC would not be deemed UNUM's agent without written authorization. Ward invoked Elfstrom's California employer-as-agent doctrine against this term. The district court granted UNUM summary judgment, finding that doctrine preempted and not insurance-saved.
+
+The Ninth Circuit reversed and remanded on two sequential grounds. First, it applied the California notice-prejudice rule, under which an insurer relying on late notice must prove actual prejudice; prejudice is not presumed from lateness, and possible prejudice is insufficient. It remanded for a prejudice determination. Second, **if prejudice was established**, it directed inquiry whether employer notice nevertheless rendered the claim timely under Elfstrom. The circuit held that its understanding of that agency doctrine did not relate to an ERISA plan. Thus the reviewed judgment did not itself establish absence of prejudice or award benefits.
+
+The pertinent ERISA provisions are §514(a), 29 U.S.C. §1144(a), preempting state law that relates to an employee benefit plan; §514(b)(2)(A), saving state law regulating insurance; and the distinct deemer clause, §514(b)(2)(B). The present policy is insured, not self-insured. The notice-prejudice doctrine and employer-as-agent doctrine require distinct analysis.
+
+Source: 526 U.S. 358, introduction, Part I and recitation at the start of Part IV; the state-law rule quoted from Shell Oil Co. v. Winterthur, 12 Cal. App. 4th 715, 760–761. This extraction contains no Supreme Court resolution.
+
+## Sun-Diamond — statutory terms, trial instruction and review scope
+
+The pertinent provision is 18 U.S.C. §201(c)(1)(A): outside what law provides for proper discharge of official duty, it prohibits directly or indirectly giving, offering or promising anything of value to a public official, former official or person selected to be an official, for or because of an official act performed or to be performed by that official. Section 201(a)(3) defines official act to include a decision or action on a question, matter, cause, suit, proceeding or controversy that may be pending, or may by law come before the official, in the official capacity or place of trust or profit. Section 201(b)'s separate bribery provisions use corruption and intent-to-influence language. The distinct statutory elements must not be conflated.
+
+Count One alleged about $5,900 in gifts to Secretary Espy and identified interests in Market Promotion Plan eligibility and methyl-bromide regulation, but did not allege a specific connection between the gifts and either matter or another Secretary action. The district court denied dismissal of the indictment. It read the statute and definition to the jury but also expressly instructed that office-based unauthorized compensation was sufficient; the Government need not prove a link to a specific, identifiable official act or any act; keeping the official happy or improving the relationship generally could suffice. The jury convicted; the Count One fine was $400,000.
+
+The D.C. Circuit reversed the Count One conviction and remanded for a **new trial**, rejecting the instruction and the Government's harmless-error claim. It nevertheless rejected the indictment challenge. Certiorari was neither sought nor granted on the indictment's sufficiency. Only Count One is at issue in this appeal. The separate probation/reporting issue was remanded below for resentencing and is not before this Court. The Government's current request includes both its broad statutory construction and the alternative assertion that the instructional error was harmless. The review does not assume either acquittal or a final finding of sufficient evidence under a narrowed construction.
+
+Source: 526 U.S. 398, Part I, the reproduced instruction in Part III, and footnote; 138 F.3d 961, 968–969, 977. Only preexisting text, instructions and procedural facts have been extracted; no Supreme Court resolution is included.
+
+### Sun-Diamond lower-court harmless-error explanation
+
+The D.C. Circuit's actual explanation at 138 F.3d 968 was that repetition of the statutory or indictment words elsewhere in the charge could not overcome the broader, repeated office-based message. It described the difference as material, though often factually narrow: where matters are pending, an office-based gift will usually also reflect a wish to reward or elicit favorable acts, but the jury still must find more than a wish to ingratiate generally or celebrate status. It cited DeFries, 129 F.3d 1293, 1304, for adequate understanding of the issues and Lemire, 720 F.2d 1327, 1339, for its conclusion that the error was neither technical nor harmless. This is the lower court's reasoning, not an independently established finding that no conceivable harmless-error argument exists.
+
+The lower opinion's evidence account identified Douglas as the company's vice-president for corporate affairs and its Washington representative, and also Espy's college friend. It described the two regulatory interests and the company's business-expense reimbursement for the gifts. It did not perform a separate exhaustive harmless-error survey of all trial evidence in the cited discussion. Neither that limit nor this extraction proves evidence absent. No relevant party concession about harmlessness has been recovered or asserted here.
+
+## Russell — distinct provisions and lower-court disposition
+
+Initiated Act I (1996) reduced the ordinary individual/PAC candidate-contribution cap from $1,000 to $300 per election for governor, lieutenant governor, secretary of state, treasurer, auditor, attorney general and commissioner of state lands; the cap was $100 for other state public offices. The governing candidate provisions are Ark. Code Ann. §7-6-203(a), (b), including (a)(1), (b)(1). A separate pre-Act-I provision, §7-6-201(9)(B), limited a person's contributions to any one ordinary PAC to $200 annually. The ordinary PAC annual receipt restriction must not be confused with the small-donor intake condition or candidate cap.
+
+A small-donor PAC under §7-6-201(12) could accept no contribution larger than $25, under (12)(B), and could contribute up to $2,500 per election to any candidate under §7-6-203(d). Its disputed advantage concerned candidate contributions, not a $2,500 intake allowance. The appellate opinion treated the differential as operative against an ordinary cap of $1,000 after its invalidation of the Act I ordinary candidate caps.
+
+The district court, after bench trial, invalidated the $300 caps and the $100 cap for judicial offices; it upheld the $100 cap for other offices, the $200 annual ordinary-PAC limit and the small-donor differential. The Eighth Circuit invalidated all the reviewed $100/$300 candidate caps, the $200 ordinary-PAC limit and the small-donor differential. It held the invalid Act I provisions severable, and remanded for declaratory and injunctive relief consistent with its opinion. This is the judgment being reviewed; it does not supply any Supreme Court resolution.
+
+Two further provisions were litigated below but are distinct from the presently enumerated simulation scope. An independent expenditure committee could make unlimited uncoordinated expenditures but accept no more than $500 per person annually under §7-6-203(k); its challenge was dismissed for lack of standing. Section 7-6-224 authorized local contribution/expenditure limits without itself imposing any; the challenge was unripe. Their presence in the appellate source does not expand the simulated grant.
+
+Source: 146 F.3d 563, Parts I, IV, VI–VII and opening statutory/procedural recitation. Complete source is retained by control; the official Eighth Circuit archive also lists the opinion under circuit No. 97-3922.
+
+## Completed source additions and boundaries
+
+The separate files OT_1998CHUNK7_HAGGAR_STATUTES_NEUTRAL.md, OT_1998CHUNK7_UNUM_SCOPE_NEUTRAL.md and OT_1998CHUNK7_RUSSELL_EVIDENCE_NEUTRAL.md were read in full and validated as neutral. Read them with this supplement. The UNUM source establishes both litigated questions without pretending its amicus wording is the grant order. Russell retains the individual/annual $25 small-donor intake qualification; repeated unlimited $25 gifts are not the supplied statutory rule. The updated Sun-Diamond subsection records the lower court's actual harmless-error explanation and its evidence account; neither its limited evidentiary survey nor unavailable research proves harmlessness or prejudice.
+
+For Brooks, control authorizes the minimum Engine Section 14 procedural premise: the existing supported record returns for ordinary post-grant merits submission and circulation by April 22. This is an adopted reconstruction, not a recovered filing, argument, deadline event or compliance finding. No oral argument date, new pleading, testimony, service, waiver or merits fact is invented. Public and assignment descriptions must preserve that basis.
+
+These materials are ready for independent modeling, with unresolved issues kept as legal questions. Any newly discovered material factual gap must be returned to clean neutral preflight before affected commitment freeze. The preflight does not decide the disposition or import the historical Supreme Court answer.
+
+
+## Final protective-privilege precision
+
+Read OT_1998CHUNK7_SEALED_EXCEPTION_NEUTRAL.md. The asserted felony exception covers past, present and future conduct as perceived when the observation or statement was made, and operates in a federal investigation or prosecution. This source correction preserves the full Executive proposal; it does not recognize a privilege. The Director declaration and former President letter are affirmative policy evidence, distinct from an adjudicated impairment finding. The addendum was read in full and validated as neutral.

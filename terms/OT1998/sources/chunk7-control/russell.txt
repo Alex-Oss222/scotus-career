@@ -1,0 +1,217 @@
+146 F.3d 563 - Russell v. Burris — 146 F.3d 563 | OpenJurist
+https://openjurist.org/146/f3d/563/russell-v-burris-pac-russell-r
+Public-domain · open source
+Menu
+Cases
+Code
+Courts
+Judges
+Dictionaries
+Books
+OpenJurist›Volume 146›F.3d›Page 563
+146 F.3d 563
+Docket Nos. 97-3922, 97-4033 and 97-4038.
+Russell v. Burris
+Full caption · 3 consolidated cases
+Ron RUSSELL, Kent Ingram, William R. Austin, and Associated Industries of Arkansas Political Action Committeev.Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Tom Alexander, In His Official Capacity as a Member of the Arkansas Ethics Commission; Ben Allen, In His Official Capacity as a Member of the Arkansas Ethics Commission; Jack Kearney, In His Official Capacity as a Member of the Arkansas Ethics Commission; and Citizens for Clean Government, Appellees. American Civil Liberties
+Austin, and Associated Industries of Arkansas Political Action Committeev.Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Tom Alexander, In His Official Capacity as a Member of the Arkansas Ethics Commission; Ben Allen, In His Official Capacity as a Member of the Arkansas Ethics Commission; and Jack Kearney, In His Official Capacity as a Member of the Arkansas Ethics Commission, Appellants, Citizens for Clean Government, Intervenor as Defendant.
+Austin, and Associated Industries of Arkansas Political Action Committeev.Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Candi Sue Russell, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Marvin Delph, In His Official Capacity as a Member of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; and Norton Wilson, In His Official Capacity as a Member of the Arkansas Ethics Commission, Defendants, Citizens for Clean Government, Appellant. James
+Eighth Circuit Court of Appeals
+Submitted April 13, 1998. Decided June 4, 1998. Rehearing and Suggestion for Rehearing En Banc Denied Sept. 29, 1998.*
+Eighth Circuit Court of Appeals · decided 1998-06-04
+3 counsel of record
+Key passage — most relied on by later courts
+“a reasonable person could perceive, ... that [large political contributions] make for undue influence or spawn corruption.”
+quoted by 3 later decisions, including 31 F. Supp. 2d 1161 - Missouri Republican Party v. Lamb, 60 F. Supp. 2d 1066 - CITIZENS FOR RESPON. GOV. STATE POLIT. v. Buckley
+“that there is real or perceived undue influence or corruption attributable to large political contributions ... and ... that [the contribution limits] are narrowly tailored to address that reality or perception.”
+quoted by 2 later decisions, including Shrink Missouri Government PAC v. Adams, Shrink Missouri Government Pac v. Adams
+Applies AR 7 § 7-6-201 · AR 7 § 7-6-203 · AR 7 § 7-6-224
+Relies on Lujan v. Defenders of Wildlife · New York Times Co. v. Sullivan · Buckley v. Valeo
+Good law ✅— No negative treatment on recordhow we know
+Opinion by Morris Sheppard Arnold · Decided 1998-06-04
+How this case has been cited
+Cited by 38 later decisions (1 by the Supreme Court) — most recently July 2024 · most notably Jeremiah Nixon Attorney General of Missouris v. Shrink Missouri Government Pac (2000), Iowa Right to Life Committee, Inc. v. Williams (1999)
+15 federal appellate · 6 district · 1 state decisions
+1801998200020102020decided
+Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+View the full empirical analysis of this case →
+Robert D. Smith, III, Little Rock, AR, argued, for Appellants.
+Brian G. Brooks, Little Rock, AR, argued (Shirley E. Guntharp, on the brief), for Appellees.
+Nancy Northup, New York City, argued (Burt Neuborne, Kenneth N. Weine, and Scott C. Trotter, on the brief), for Intervenor.
+Before WOLLMAN, BEAM, and MORRIS SHEPPARD ARNOLD, Circuit Judges.
+MORRIS SHEPPARD ARNOLD, Circuit Judge.
+¶1
+In 1996, the people of Arkansas, by voter initiative, approved a campaign finance reform measure entitled Initiated Act I. Prior to Act I, Arkansas law limited individuals and political action committees to contributions of $1,000 per candidate during each election cycle. Act I reduced the contribution limit to $300 for the offices of governor, lieutenant governor, secretary of state, treasurer, auditor, attorney general, and commissioner of state lands, see Ark.Code Ann. § 7-6-203(a), § 7-6-203(b), and to $100 for all other state public offices, see Ark.Code Ann. § 7-6-203(a)(1), § 7-6-203(b)(1).
+¶2
+Act I also created a special category of political action committee (PAC), see Ark.Code Ann. § 7-6-201(9), § 7-6-201(10), known as a small-donor PAC. See Ark.Code Ann. § 7-6-201(12). Under Act I, a small-donor PAC may accept no contribution larger than $25, see Ark.Code Ann. § 7-6-201(12)(B), and it may contribute no more than $2,500 per election to any candidate, see Ark.Code Ann. § 7-6-203(d). Act I authorized as well the creation of a campaign fund-raising entity known as an independent expenditure committee. See Ark.Code Ann. § 7-6-201(14). An independent expenditure committee may, like any person, make unlimited independent expenditures (that is, ones not coordinated with a candidate) to advocate the election or defeat of a clearly identified candidate for office. See Ark.Code Ann. § 7-6-201(13), § 7-6-201(14). Such a committee, however, may accept no more than $500 from any person annually. See Ark.Code Ann. § 7-6-203(k). Finally, Act I authorized local governments to set reasonable limitations on fund-raising for campaigns for local offices. See Ark.Code Ann. § 7-6-224. Ron Russell, Kent Ingram, William Austin, and the Associated Industries of Arkansas Political Action Committee challenged each of these Act I provisions in the district court, as well as a pre-Act I provision limiting contributions to any one PAC to $200 annually, see Ark.Code Ann. § 7-6-201(9)(B).
+¶3
+Following a bench trial, the district court held that the contribution limits of $300 for certain statewide offices and of $100 for state judicial offices were unconstitutional because they violated the First Amendment's prohibition against limitations on the freedom of speech. See Russell v. Burris, 978 F.Supp. 1211, 1222, 1224, 1229 (E.D.Ark.1997). The trial court, however, upheld the $100 contribution limit as to all other offices and the $200 contribution limit to PACs. Id. at 1223, 1225, 1229. The trial court also held that the differential treatment for ordinary PACs and small-donor PACs did not violate the Fourteenth Amendment's equal protection clause. Id. at 1227, 1229. The trial court declined to reach the merits on the other two issues, finding that the plaintiffs did not have standing to contest the limit on contributions to independent expenditure committees, id. at 1217, 1229, and that the provision authorizing relevant actions by local governments was not ripe for a constitutional challenge. Id. at 1217-18, 1229.
+¶4
+All parties appeal the rulings unfavorable to their litigating positions. We affirm in part and reverse in part.
+I.
+¶5
+Standing is, of course, a threshold issue in every case before a federal court: If a plaintiff lacks standing, he or she cannot invoke the court's jurisdiction. See Boyle v. Anderson, 68 F.3d 1093, 1100 (8th Cir.1995), cert. denied, 516 U.S. 1173, 116 S.Ct. 1266, 134 L.Ed.2d 214 (1996). In order to invoke the jurisdiction of a federal court, one must meet three requirements. First, a plaintiff must have suffered an "injury in fact," and such an injury must be concrete, particularized, and either actual or imminent. Id. at 1100-01. Second, a would-be litigant must make out a causal connection between the alleged injury and the conduct challenged. Id. at 1100. Third, he or she must show that the injury is likely to be redressed by a favorable decision. Id.
+¶6
+The trial court determined that each of the plaintiffs had Article III standing as to all but one of their challenges, see Russell, 978 F.Supp. at 1217, and the defendants do not contest that determination here. The plaintiffs maintain, however, that the trial court erred in finding that they did not have Article III standing to challenge the provisions of Act I relating to independent expenditure committees.
+¶7
+The trial court found that the plaintiffs did not face a credible threat of present or future prosecution with respect to this part of their claim, and thus could show no actual or imminent "injury in fact," because none of them "could think of an independent expenditure committee to which they had contributed in the past or to which they planned to contribute." Id. Indeed, one plaintiff testified, "Well, in all honesty, I'd have to tell you it would take a stretch of my imagination to figure out why I'd want to contribute anything to an independent committee." Another simply testified that he did not know if he would ever contribute to such a committee.
+¶8
+We are mindful that where "plaintiffs allege an intention to engage in a course of conduct arguably affected with a constitutional interest which is clearly proscribed by statute, courts have found standing to challenge the statute, even absent a specific threat of enforcement." United Food & Commercial Workers International Union v. IBP, Inc., 857 F.2d 422, 428 (8th Cir.1988). But the plaintiffs have not demonstrated any such intention: They have indicated neither that they would contribute to a specific independent expenditure committee nor that, but for the limitations of Act I, they would form an independent expenditure committee. Standing may not be predicated merely upon a conjectural or hypothetical injury or, as one of the plaintiffs here would have it, upon a stretch of the imagination. See Lujan v. Defenders of Wildlife, 504 U.S. 555, 564, 112 S.Ct. 2130, 119 L.Ed.2d 351 (1992). We therefore affirm the trial court's determination that the plaintiffs lacked standing to challenge the provisions relevant to independent expenditure committees.
+II.
+¶9
+"Where at all possible, government must curtail speech only to the degree necessary to meet the particular problem at hand, and must avoid infringing on speech that does not pose the danger that has prompted regulation." Federal Election Commission v. Massachusetts Citizens for Life, 479 U.S. 238, 265, 107 S.Ct. 616, 93 L.Ed.2d 539 (1986). Government attempts to limit campaign contributions, therefore, are " ' "subject to the closest scrutiny." ' " Carver v. Nixon, 72 F.3d 633, 636 (8th Cir.1995), cert. denied, 518 U.S. 1033, 116 S.Ct. 2579, 135 L.Ed.2d 1094 (1996), quoting Buckley v. Valeo, 424 U.S. 1, 25, 96 S.Ct. 612, 46 L.Ed.2d 659 (1976) (per curiam ), itself quoting NAACP v. Alabama, 357 U.S. 449, 461, 78 S.Ct. 1163, 2 L.Ed.2d 1488 (1958). Under this standard, a significant interference with protected rights of political association may be sustained only when the state demonstrates a compelling interest and means closely drawn to avoid unnecessary abridgement of associational freedoms. Carver, 72 F.3d at 636.
+¶10
+Intervenor (as a defendant) Citizens for Clean Government (CCG) argues that we should apply a more lenient standard of review to the legislation in this case because Act I included not only contribution limits but also a public subsidy scheme. For this proposition, CCG relies upon the Supreme Court's ruling in Buckley that upheld a ban on general election campaign contributions to, and a limitation on general election campaign expenditures by, a presidential candidate who elected to receive a public subsidy. See Buckley, 424 U.S. at 85-109, 96 S.Ct. 612.
+¶11
+But the Buckley Court was clear that it was the optional nature of the contribution and expenditure limit scheme, not the subsidy, that rendered the scheme constitutionally permissible: "Just as a candidate may voluntarily limit the size of the contributions he chooses to accept, he may decide to forgo private fundraising and accept public funding." Id. at 57 n. 65, 96 S.Ct. 612. Similarly, we recently upheld a voluntary campaign subsidy and limitation scheme in Minnesota because the scheme "presents candidates with an additional, optional campaign funding choice, the participation in which is voluntary." Rosenstiel v. Rodriguez, 101 F.3d 1544, 1552 (8th Cir.1996), cert. denied, --- U.S. ----, 117 S.Ct. 1820, 137 L.Ed.2d 1028 (1997). It is true that Act I provided a subsidy and limitation scheme, but unlike the schemes upheld in Buckley and Rosenstiel, Act I was imposed upon all candidates: Candidates do not have the power to opt out. We therefore decline this invitation to apply a standard of scrutiny to this case that is different from the one that we adopted in Carver.
+¶12
+CCG argues for a more lenient standard of review on the basis of two recent Supreme Court decisions as well, but neither of these authorities modifies the standard of review appropriate to this case. In Colorado Republican Federal Campaign Committee v. Federal Election Commission, 518 U.S. 604, 609, 116 S.Ct. 2309, 135 L.Ed.2d 795 (1996) (opinion of Breyer, J.), a case involving the application of federal campaign expenditure limits, three justices resorted to what CCG calls a weighing test, rather than strict scrutiny, to decide the case. See id. at 616, 618, 116 S.Ct. 2309. These justices described their approach as consistent with cases in which the Court "essentially weighed the First Amendment interest in permitting candidates (and their supporters) to spend money to advance their political views against a 'compelling' governmental interest in assuring the electoral system's legitimacy, protecting it from the appearance and reality of corruption." Id. at 609, 116 S.Ct. 2309. This adjudicatory approach appears to us to be a restatement or reformulation, not a modification, of the Court's familiar strict scrutiny analysis.
+¶13
+We are aware that during the last term, in Timmons v. Twin Cities Area New Party, 520 U.S. 351, 117 S.Ct. 1364, 1370, 137 L.Ed.2d 589 (1997), the Supreme Court upheld an election regulation that barred a political party from choosing as its nominee a candidate already appearing on another party's ballot. The Court held that while regulations "imposing severe burdens on plaintiffs' rights must be narrowly tailored and [must] advance a compelling state interest," lesser burdens "trigger [a] less exacting review." Id. We believe, however, that restrictions on individual contributions to candidates and on candidates' amassing sufficient resources to run for office are more severe than the restrictions at issue in Timmons. Where the regulations impose severe burdens on First Amendment rights, as here, Timmons reiterates the Court's position that strict scrutiny applies.
+¶14
+We must therefore first determine what interest can be sufficiently compelling to permit the state to restrict First Amendment freedoms. The compelling state interest identified in Buckley was "the prevention of corruption and the appearance of corruption spawned by the real or imagined coercive influence of large financial contributions on candidates' positions and on their actions if elected to office." Buckley, 424 U.S. at 25, 96 S.Ct. 612. The Court reiterated this position five years later, holding that "Buckley identified a single narrow exception to the rule that limits on political activity were contrary to the First Amendment. The exception relates to the perception of undue influence of large contributors to a candidate." Citizens Against Rent Control v. Berkeley, 454 U.S. 290, 296-97, 102 S.Ct. 434, 70 L.Ed.2d 492 (1981) (emphasis omitted). Subsequently, the Court stated flatly that "[p]reventing corruption or the appearance of corruption are the only legitimate and compelling government interests thus far identified for restricting campaign finances." Federal Election Commission v. National Conservative Political Action Committee, 470 U.S. 480, 496-97, 105 S.Ct. 1459, 84 L.Ed.2d 455 (1985).
+¶15
+Only three years ago, we emphasized in Carver, 72 F.3d at 638-39, that the state may abridge political speech in the form of campaign contributions only to address the reality or perception of undue influence or corruption attributable to large contributions. We turn, then, to a consideration of whether the challenged provisions can pass muster under this standard.
+III.
+¶16
+We consider first the provisions of Act I that limited direct contributions to candidates to $300 per election for certain statewide offices, see Ark.Code Ann. § 7-6-203(a), § 7-6-203(b), and to $100 per election for all other state offices, see Ark.Code Ann. § 7-6-203(a)(1), § 7-6-203(b)(1). The defendants must prove first that there is real or perceived undue influence or corruption attributable to large political contributions in Arkansas, and then that these challenged provisions of Act I are narrowly tailored to address that reality or perception. We find that the defendants failed to carry their burden before the trial court.
+¶17
+We note that our review of the trial court's judgment may involve the review of some of the factual determinations that it made. The Supreme Court has instructed that, in cases involving the First Amendment, appellate courts are to make an independent examination of the whole record to ensure that their judgments do not constitute a forbidden intrusion on the right of free expression. See New York Times Co. v. Sullivan, 376 U.S. 254, 285, 84 S.Ct. 710, 11 L.Ed.2d 686 (1964). But we are also mindful of Fed.R.Civ.P. 52(a), which provides that a trial court's factual findings are typically reviewed for clear error.
+¶18
+To reconcile these two legal propositions, we held last year that, in cases involving the First Amendment, we would review findings of noncritical facts for clear error, but would conduct an independent review of critical facts. See Families Achieving Independence and Respect v. Nebraska Department of Social Services, 111 F.3d 1408, 1411 (8th Cir.1997) (en banc ). Accordingly, in the discussion that follows, we give due deference to the trial court's determination of noncritical facts, while we review independently those facts that we believe to be critical.
+¶19
+We begin with the observation that no defendant provided any credible evidence to the trial court of actual undue influence or corruption stemming from large contributions. We are left, then, to determine whether the defendants proved that a reasonable person could perceive, on the basis of the evidence presented at trial, that such contributions make for undue influence or spawn corruption.
+¶20
+CCG presented proof at trial that was intended to demonstrate specific instances in which large contributions had given rise to the appearance of undue influence or corruption. Much of this proof focused on the introduction in the Arkansas legislature of a bill that would have prohibited local governments from regulating tobacco. The bill's sponsor, State Representative James Dietz, had received as much as $2,700 in contributions the previous year from various sources related to the tobacco industry, such as the Tobacco Institute. Many other supporters of the bill had apparently also received contributions from pro-tobacco sources. An opponent of the bill, State Representative Ted Thomas, testified that there was a "uniform" public perception of corruption associated with the bill's having been introduced and supported by legislators who had received contributions from tobacco interests.
+¶21
+Even assuming that Mr. Thomas was correct that there was a public perception of corruption, we must determine whether that public perception was reasonable, and whether that perception of corruption derived from the magnitude of the contributions to Mr. Dietz and other supporters of the bill. We believe, after an independent review of the facts presented to the trial court, that the defendants did not prove that the perception of corruption to which Mr. Thomas alluded was objectively reasonable. A newspaper article admitted into evidence quoted Mr. Dietz as saying that he supported the preemption measure because he believed that one "ought to have the right to say what goes on inside his building as long as it's legal." That Mr. Dietz received political contributions from those whose interests he tended to support hardly indicates, on its own, any corruption.
+¶22
+The defendants provided no evidence at trial, for instance, that Mr. Dietz changed his position on the tobacco bill due to an intervening contribution. Nor did the defendants provide evidence that Mr. Dietz sought to conceal his contributions from tobacco-related sources. If it were reasonable to presume corruption from the fact that a public official voted in a way that pleased his contributors, legislatures could constitutionally ban all contributions except those from the public official's opponents, a patent absurdity. That would spell the end to the political right, protected by the First Amendment, to support a candidate of one's choice.
+¶23
+The defendants' objections to Mr. Dietz's activities are also, we believe, essentially unrelated to the size of the individual contributions that he received. The defendants did not provide evidence, such as that produced by the government in Buckley, of multi-million-dollar contributions to Mr. Dietz. Indeed, our review of the evidence presented to the trial court indicates that Mr. Dietz reported no individual contribution larger than $1,000 from any source, tobacco-related or otherwise. We believe that $1,000 is simply not a large enough sum of money to yield, of its own accord and without further evidence, a reasonable perception of undue influence or corruption.
+¶24
+The defendants essentially criticize Mr. Dietz for offering a bill favorable to interests from whom he had already accepted campaign contributions. The difficulty pointed to, then, seems to be the identity of the contributors and their subsequent interest in legislation rather than the size of their contributions. We note that even if Mr. Dietz had received twenty-seven individual contributions of $100 from various tobacco-related sources instead of a few somewhat larger contributions, the defendants could make the same criticism of his activities as they made here. We therefore conclude that the evidence that the defendants presented regarding the tobacco legislation does not permit a finding of a reasonable perception of corruption or undue influence due to large contributions.
+¶25
+The defendants also produced proof at trial that was related to contributions by lobbyists to State Representative Ode Maddox. In April, 1996, a group of lobbyists held a fund-raiser for Mr. Maddox at the Arkansas Poultry Federation in Little Rock. According to the trial court, at that event Mr. Maddox raised a total of more than $22,000 from various lobbyists, PACs, and corporations. Our independent review of the record shows that Mr. Maddox received no contribution in excess of $1,000 from any single source.
+¶26
+The record does not indicate any change in Mr. Maddox's political behavior following these donations, nor does it indicate that Mr. Maddox sought to conceal his contributions or their sources. Indeed, the defendants did not even demonstrate that Mr. Maddox voted in any particular fashion with respect to any relevant issues following the receipt of these donations. At bottom, the defendants' complaint about Mr. Maddox's contributions is that they came from lobbyists who live outside his district and have business before his committee from time to time. But this complaint is not related to the size of the contributions made to Mr. Maddox, and thus does not satisfy the compelling state interest standard established in Buckley and Carver. We conclude, then, that the evidence that the defendants offered regarding Mr. Maddox's fund-raising practices does not permit a finding of a reasonable perception of corruption or undue influence stemming from large contributions.
+¶27
+The defendants also adduced proof at trial of contributions by "real estate interests" to members of the Little Rock municipal government. But, again, the defendants' declared interest in regulating these has to do with the identity of the contributor and that contributor's interests rather than with the size of individual contributions. According to records provided to the trial court, no member of the Little Rock municipal government received more than $1,000 from any so-called "real estate interest." The record does not indicate any change in any official's behavior following such contributions, nor did the defendants demonstrate that any official attempted to conceal the source of the contributions. The evidence instead shows that the "real estate interests" contributed to candidates who supported initiatives with which the contributors agreed--that is, the "real estate interests" appear to have chosen well which candidates to support.
+¶28
+We cannot say that this evidence is sufficient to establish that there could be a reasonable perception of corruption or undue influence due to large contributions. The defendants identify, instead, a concern that "real estate interests" gave money to officials of a municipal government, and that those officials then voted on issues relevant to real estate. This concern, as we have said above, is not related specifically to the size of the contributions, and thus is outside the scope of the compelling state interest as defined by Buckley and Carver.
+¶29
+We also believe that the candidate contribution limits set forth in Act I are too low to allow meaningful participation in protected speech and association. See Carver, 72 F.3d at 641-42. In Buckley, 424 U.S. at 20-35, 96 S.Ct. 612, the Supreme Court approved a $1,000 contribution limit as a narrowly tailored means to address the problem of large campaign contributions. As we noted in Day v. Holahan, 34 F.3d 1356, 1366 (8th Cir.1994), cert. denied, 513 U.S. 1127, 115 S.Ct. 936, 130 L.Ed.2d 881 (1995), inflation has eroded approximately 60 percent of the value of a dollar since 1976. A $1,000 contribution in 1976 would thus be worth about the same as a $2,500 contribution today. We recognize that the contribution limit upheld in Buckley does not constitute a constitutional minimum and that we may not fine-tune the contribution limits established by Act I. See Carver, 72 F.3d at 641. We must, however, invalidate the contribution limitations if they are different in kind from those that Buckley upheld. See id.
+¶30
+The provisions of Act I challenged here limited contributions to a candidate to only $100 or $300, depending upon the office. See Ark.Code Ann. § 7-6-203(a), § 7-6-203(b). The limits prescribed by Act I, then, are (adjusted for inflation) approximately 4 percent or 12 percent, respectively, of the limit upheld in Buckley. In Day, 34 F.3d at 1366, we concluded that a limitation of $100, or 4 percent of the inflation-adjusted limit upheld in Buckley, constituted a difference in kind from the limit upheld in Buckley. In Carver, 72 F.3d at 641-42, we held that contribution limitations of $100 or $300 per election cycle (2 percent or 6 percent, respectively, of the limit approved in Buckley ) were "dramatically lower," and thus different in kind, from the limit upheld in Buckley. We believe that the limitations in question here are similarly dramatically lower than, and different in kind from, the limits approved in Buckley, and thus are unconstitutionally low.
+¶31
+We note, finally, that even if there were a compelling state interest to prevent the perception of corruption or undue influence due to any of the various concerns identified here by the defendants--that is, supporting tobacco legislation, accepting contributions from those appearing before or having interests before one's legislative committee, accepting contributions from supporters outside one's district, or the like--Act I was not narrowly tailored to address them. As we have already noted, "[w]here at all possible, government must curtail speech only to the degree necessary to meet the particular problem at hand, and must avoid infringing on speech that does not pose the danger that has prompted regulation." Massachusetts Citizens for Life, 479 U.S. at 265, 107 S.Ct. 616. Act I, however, is at once both overinclusive and underinclusive, by limiting the free speech of all who would contribute without addressing the specific concerns identified.
+IV.
+¶32
+The plaintiffs challenged two provisions relating to the activities of political action committees. The first of these was a provision, enacted in 1990, that prohibited persons from giving more than $200 each year to any one political action committee. See Ark.Code Ann. § 7-6-201(9)(B).
+¶33
+State-enforced limits on contributions to political action committees stifle "not only free political speech, but also free political association," and are reviewed according to a strict scrutiny standard. Day, 34 F.3d at 1365. We must therefore determine whether the defendants demonstrated that the provision was narrowly tailored to address the compelling state interest in avoiding corruption or the appearance of corruption that stems from large contributions.
+¶34
+We hold that this provision, like the provision that we invalidated in Day, is not narrowly tailored to serve a compelling state interest, because the annual limit is so low as to be different in kind from the limit approved in Buckley. See id. at 1366. In Day, we noted that a $100 limit (in 1994 dollars) for contributions to political action committees was, adjusted for inflation, equal to approximately 4 percent of the contribution limit upheld in Buckley. Id. Thus, a $200 limit (in 1998 dollars) is equal to no more than 8 percent of the contribution limit approved in Buckley. That limit is also less than 5 percent, even before any adjustment for inflation, of the $5,000 limitation on contributions to PACs approved by the Supreme Court in California Medical Association v. Federal Election Commission, 453 U.S. 182, 195-99, 101 S.Ct. 2712, 69 L.Ed.2d 567 (1981) (plurality opinion).
+¶35
+There is also less of a danger of quid pro quo corruption, such as the sort that one might presume from large contributions given directly to candidates, when a contribution is given to a PAC that does not itself wield legislative power. Cf. Day, 34 F.3d at 1365. We believe that a $200 limit (in 1998 dollars) will significantly impair the ability of individuals to exercise their political rights. The limit is simply too low to allow for appropriately robust participation in protected political speech and association, and thus violates the protections for free political speech and free association that the First Amendment affords.
+¶36
+The plaintiffs also challenged the provision in Act I that permitted small-donor political action committees to give as much as $2,500 to a candidate (in contrast to the lower limits applicable to contributions by ordinary political action committees). See Ark.Code Ann. § 7-6-203(d); see also Ark.Code Ann. § 7-6-201(a), § 7-6-201(b). We believe that such differential treatment must be evaluated according to a strict scrutiny standard. "Because the right to engage in political expression is fundamental to our constitutional system, statutory classifications impinging upon that right must be narrowly tailored to serve a compelling governmental interest." Austin v. Michigan Chamber of Commerce, 494 U.S. 652, 666, 110 S.Ct. 1391, 108 L.Ed.2d 652 (1990).
+¶37
+The defendants argue that the differential treatment of ordinary and small-donor PACs is justified because of the difference in regulations as to their method of raising money. The only compelling government interest that might permit this infringement of First Amendment rights, as we have said, is preventing the reality or perception of undue influence or corruption that might arise from large contributions. As the Supreme Court has held, "To the extent that large contributions are given to secure a political quid pro quo from current and potential office holders, the integrity of our system of representative democracy is undermined." Buckley, 424 U.S. at 26, 96 S.Ct. 612. Ostensibly to alleviate this potential for corruption, Act I limited individuals and ordinary PACs to giving $300 to certain candidates and $100 to others (although we note that our holding above returns these limits to their pre-Act I limits of $1,000). See Ark.Code Ann. § 7-6-201(a), § 7-6-201(b). Act I allowed small-donor PACs, however, to give $2,500 to any candidate. See Ark.Code Ann. § 7-6-203(d). This differential treatment is said to be acceptable because small-donor PACs themselves receive that money in contributions of $25 or less, see Ark.Code Ann. § 7-6-201(12)(B).
+¶38
+This explanation, however, is manifestly flawed, because it focuses on the source of the funds given to a PAC rather than on the entity from which the candidate receives the funds. Because a small-donor PAC receives small donations, it is true that it is unlikely that any one contributor to a small-donor PAC will be able to control that PAC. Act I, however, ignored the possibility that the small-donor PAC itself will seek to control a given candidate. A $2,500 contribution would be even more likely to exacerbate this difficulty than the $1,000 contribution limit applicable to most other contributors. Indeed, if any contribution is likely to give rise to a reasonable perception of undue influence or corruption, it would be one from an entity permitted to contribute two-and-a-half times the amount that most others are allowed to contribute. The small-donor PAC provision is not, then, narrowly tailored to serve the compelling government interest of combating the reality or perception of undue influence or corruption.
+¶39
+We reject the defendants' argument that the plaintiffs (namely, three individuals and a political action committee) may not assert this equal protection argument because they are not burdened to a greater extent by this provision than small-donor PACs are. Ordinary PACs may, it is true, raise more money per contribution than a small-donor PAC, but the issue is their ability to speak freely by contributing money to candidates for office. Insofar as that freedom is at issue, the ordinary PACs are burdened more than the small-donor PACs, because ordinary PACs may donate only the amount that individuals may donate, while small-donor PACs may donate $2,500. We believe, then, that the plaintiffs here meet the requirements set forth in California Medical Association, 453 U.S. at 200, 101 S.Ct. 2712.
+V.
+¶40
+The plaintiffs also challenged the constitutionality of Ark.Code Ann. § 7-6-224. This provision states only that local governments "shall have the authority to establish reasonable limitations" on campaign contributions and expenditures, and appears to be simply an allocation by the state of Arkansas of certain of its plenary powers to local governments: It does not set any specific limits on campaign contributions or expenditures, and thus cannot restrict the First Amendment freedoms of any person or entity seeking to contribute to or spend the revenues of a political campaign. Were a local government to exercise the power granted it by § 7-6-224, its action might then be challenged in the same manner as the actions of the defendants were challenged in this suit. But no such action has yet been taken and brought to the attention of a court. Ark.Code Ann. § 7-6-224 thus does not present a federal constitutional controversy that is ripe for adjudication at this time.
+VI.
+¶41
+Those provisions of the Arkansas statutes in conflict with our analysis above are unconstitutional and unenforceable. We must now determine whether the invalid provisions of Act I may be severed from the remainder of its provisions.
+¶42
+Severability is a matter of state law. Leavitt v. Jane L., 518 U.S. 137, 139, 116 S.Ct. 2068, 135 L.Ed.2d 443 (1996) (per curiam ). The Supreme Court of Arkansas looks to two considerations to determine severability: "(1) whether a single purpose is meant to be accomplished by the act; and (2) whether the sections of the act are interrelated and dependent upon each other." U.S. Term Limits, Inc. v. Hill, 316 Ark. 251, 872 S.W.2d 349, 357 (1994). The court provided further guidance, moreover, in its observation that "it is important whether the portion of the act remaining is complete in itself and capable of being executed wholly independent of that which was rejected." Id. at 358. A severability clause, such as the one provided in Act I, is relevant but not determinative of whether individual provisions of the act will be considered severable. Id.
+¶43
+Applying the principles set forth in U.S. Term Limits, we find no single purpose behind Act I with which our ruling could interfere. Act I provided for a series of campaign finance reforms, including the independent expenditure committee and certain tax provisions, that remain unaffected by the outcome of this case. We can find no reason not to honor the intent of the drafters of Act I that, to the extent possible, its various provisions should stand on their own.
+VII.
+¶44
+We therefore affirm in part and reverse in part the judgment of the trial court. We remand the case to the district court for the entry of declaratory and injunctive relief consistent with this opinion.
+*
+Judge McMillian, Judge Richard S. Arnold, and Judge Kelly would grant the suggestion
+SharePrint
+Download
+.txtPDF
+Copy
+URLCitation LinkBluebook
+Embed on your site
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the code
+Cite on WikipediaSearch Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
+Court
+Eighth Circuit Court of Appeals
+Panel
+Roger Leland Wollman
+Chief Judge
+Morris Sheppard Arnold
+Majority opinion →
+C[larence] Arlen Beam
+Parties
+appellant:Ron RUSSELL, Kent Ingram, William R. Austin, and Associated Industries of Arkansas Political Action Committee
+appellee:Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Tom Alexander, In His Official Capacity as a Member of the Arkansas Ethics Commission; Ben Allen, In His Official Capacity as a Member of the Arkansas Ethics Commission; Jack Kearney, In His Official Capacity as a Member of the Arkansas Ethics Commission; and Citizens for Clean Government, Appellees. American Civil Liberties
+appellee:Austin, and Associated Industries of Arkansas Political Action Committee
+appellee:Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Tom Alexander, In His Official Capacity as a Member of the Arkansas Ethics Commission; Ben Allen, In His Official Capacity as a Member of the Arkansas Ethics Commission; and Jack Kearney, In His Official Capacity as a Member of the Arkansas Ethics Commission, Appellants, Citizens for Clean Government, Intervenor as Defendant.
+appellee:Austin, and Associated Industries of Arkansas Political Action Committee
+appellee:Troy BURRIS, In His Official Capacity as Chairperson of the Arkansas Ethics Commission; Candi Sue Russell, In Her Official Capacity as a Member of the Arkansas Ethics Commission; Marvin Delph, In His Official Capacity as a Member of the Arkansas Ethics Commission; Rita Looney, In Her Official Capacity as a Member of the Arkansas Ethics Commission; and Norton Wilson, In His Official Capacity as a Member of the Arkansas Ethics Commission, Defendants, Citizens for Clean Government, Appellant. James
+Counsel
+Robert D. Smith, III, Little Rock, AR, argued, for Appellants.
+Brian G. Brooks, Little Rock, AR, argued (Shirley E. Guntharp, on the brief), for Ap-pellees.
+Nancy Northup, New York City, argued (Burt Neuborne, Kenneth N. Weine, and Scott C. Trotter, on the brief), for Interve-nor.
+In the law dictionary
+Defined terms used in this case
+independent expenditure
+independent expenditures
+judicial offices
+new party
+political campaign
+severability clause
+/146/f3d/563 · .json · Public domain
+The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+U.S. Government work · public domain · not legal advice
+With special thanks to
+Browse the record
+Cases
+Code
+Law Dictionary
+Federal Judges
+Courts
+Law Schools
+Named Statutes
+Founding Documents
+Books
+Citation Checker
+For developers + AI agents
+Developers & API
+/llms.txt
+JSON API
+♥ Support OpenJurist
+© 2026 OpenJurist♿ Accessibility
+Accessibility ×
+These preferences are saved in your browser.
+Text size
+A− 100% A+
+High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+Reset to defaults Accessibility statement
+Contact Returns & Refunds Attributions Terms of Use Privacy Policy
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel

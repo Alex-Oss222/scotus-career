@@ -1,0 +1,501 @@
+No.  98-243
+In the Supreme Court of the United States
+OCTOBER TERM, 1998
+JOSEPH R. REDMON, PETITIONER
+v.
+UNITED STATES OF AMERICA
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+SETH  P. WAXMAN
+Solicitor General
+   Counsel of Record
+JAMES  K. ROBINSON
+Assistant Attorney General
+KATHLEEN  S. BEECHER
+Attorney
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+(I)
+QUESTION PRESENTED
+Whether the court of appeals erred in finding that
+petitioner had no reasonable expectation of privacy in
+the trash he placed in his driveway for collection.
+
+(III)
+TABLE  OF  CONTENTS
+Page
+Opinions  below ................................................................................
+1
+Jurisdiction ......................................................................................
+1
+Statement ........................................................................................
+1
+Argument ........................................................................................
+6
+Conclusion .......................................................................................
+13
+TABLE  OF  AUTHORITIES
+Cases:
+Boyd  v.  United States,  116 U.S. 616 (1886) .......................
+11
+California  v.  Greenwood,  486 U.S. 35 (1988) .......
+4, 6, 7, 8, 10
+Oliver  v.  United States,  466 U.S. 170 (1984) .....................
+11
+United States  v.  Comeaux,  955 F.2d 586 (8th Cir.),
+cert. denied, 506 U.S. 845 (1992) .........................................
+11
+United States  v.  Dunn,  480 U.S. 294 (1987) ......................
+8, 9
+United States  v.  Hall,  47 F.3d 1091 (11th Cir.),
+cert. denied, 516 U.S. 816 (1995) .........................................
+11
+United States  v.  Wilkinson,  926 F.2d 22 (1st Cir.),
+cert. denied, 501 U.S. 1211 (1991) .......................................
+11-12
+Constitution and statute:
+U.S. Const. Amend. IV .................................................
+4, 6, 11, 12
+21 U.S.C. 841(a)(1) ....................................................................
+2
+
+(1)
+In the Supreme Court of the United States
+OCTOBER TERM, 1998
+No.  98-243
+JOSEPH R. REDMON, PETITIONER
+v.
+UNITED STATES OF AMERICA
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+OPINIONS BELOW
+The opinion of the court of appeals sitting en banc
+(Pet. App. I, at 1-60) is reported at 138 F.3d 1109.  The
+panel opinion is reported at 117 F.3d 1036.
+JURISDICTION
+The judgment of the en banc court of appeals was
+entered on March 10, 1998.  The petition for a writ of
+certiorari was filed on June 8, 1998.  The jurisdiction of
+this Court is invoked under 28 U.S.C. 1254(1).
+STATEMENT
+Following denial of a pretrial motion to suppress
+evidence and entry of a conditional plea of guilty in the
+United States District Court for the Central District of
+Illinois, petitioner was convicted of possession of
+
+2
+cocaine with intent to distribute it, in violation of
+21 U.S.C. 841(a)(1).  He was sentenced to 188 months’
+imprisonment, to be followed by six years’ supervised
+release.  The court of appeals, sitting en banc, affirmed.
+1. In 1993, a drug enforcement task force in Urbana,
+Illinois, traced a shipment of approximately one pound
+of cocaine from California to Urbana.  After learning
+from an informant that a man named Shaw was expect-
+ing such a package, an undercover agent delivered the
+package to Shaw, who accepted it.  When Shaw was
+questioned by law enforcement authorities, however, he
+claimed that he had received the package on behalf of
+someone who used the alias “Blackbelt.”  “Blackbelt”
+was later identified as petitioner Joseph Redmon.  Pet.
+App. I, at 2.
+As a result, police began surveillance of petitioner’s
+residence at 1319 Harding Drive in Urbana.  Pet. App.
+I, at 3.  Petitioner’s Harding Drive residence is the
+easternmost unit in a row of eight adjoining town-
+houses, and sits at the intersection of Vawter Street
+and Harding Drive.  Id. at 2; Gov’t C.A. Br. 5.  The en-
+trance to petitioner ’s townhouse faces east on Vawter
+Street, and the attached one-car garage faces north on
+Harding Drive.  Petitioner’s garage is connected to his
+neighbor ’s garage, and the two neighbors share a
+common driveway that extends 24 feet north from the
+garages to a four-foot-wide public sidewalk, and then
+approximately an additional ten feet to Harding Drive.
+The common driveway is approximately 25 feet wide.
+Pet. App. I, at 2-3; see id. at 15-16 (diagram and pic-
+ture).  Petitioner ’s and his neighbor ’s townhouses can
+be entered only by proceeding up the common drive-
+
+3
+way toward the front of the connected garages.  Id. at 3,
+15.1
+During surveillance of petitioner ’s townhouse, the
+police saw petitioner put his garbage out for collection.
+Because a city ordinance prohibited petitioner from
+leaving his garbage for pick-up at the curb, Pet. App. I,
+at 3-4, petitioner did not leave his garbage cans at the
+end of the driveway.  Instead, he put them out for
+collection by placing them in the driveway between his
+garage door and his neighbor ’s garage door.  Id. at 3,
+17.  After the garbage had been collected from the cans,
+petitioner returned the empty cans to his garage.  Id. at
+3.
+On three separate occasions in January and March of
+1996, after petitioner put his garbage cans on the
+shared driveway for collection, the police removed and
+inspected the garbage contained in the cans.  Pet. App.
+I, at 4.  The police found clear plastic bags commonly
+used for shipping cocaine, a glass vial test tube, and
+rubber and tape packages.  All of those items tested
+positive for cocaine.  Ibid.
+The police used that evidence to obtain a search
+warrant for petitioner’s residence.  Pet. App. I, at 4.
+While executing that warrant, the police found more
+than 400 grams of cocaine outside of petitioner ’s master
+bedroom.
+2. After his indictment on federal drug charges, peti-
+tioner moved to suppress the evidence obtained from
+                                                 
+1 Those seeking to enter petitioner ’s townhouse must walk up
+the common driveway and then follow a sidewalk on the left side of
+the garages around to his front door on Vawter Street.  Pet. App.
+I, at 3; see also id. at 15-16.  Those seeking to enter petitioner ’s
+neighbor ’s townhouse also must proceed up the common driveway
+toward the garages, but must follow a sidewalk around the right-
+hand side of the garages.  Id. at 3.
+
+4
+the search of his house.  He contended that the search
+of his garbage cans was unlawful and that the warrant
+was obtained with evidence from the unlawful search.
+Pet. App. I, at 5.  The district court denied the motion.
+It held that petitioner ’s “garbage was knowingly ex-
+posed to the public,” and “there was no objectively
+reasonable expectation of privacy in the garbage cans.”
+Pet. App. II, at 3-4.  Petitioner then entered a condi-
+tional guilty plea, preserving his right to appeal the
+denial of his motion to suppress.  Pet. App. I, at 1-2.
+3. A divided panel of the court of appeals affirmed
+the denial of the motion to suppress.  117 F.3d 1036.
+The full court of appeals then reheard the case en banc
+and affirmed.
+Recognizing the “ fact-based” nature of the Fourth
+Amendment issue presented in this case, the court of
+appeals declined to “fashion some convenient rule to fit
+all situations.”  Pet. App. I, at 5.  Instead, the court
+looked to “all the factual circumstances of this case” in
+order to determine whether petitioner had an “objec-
+tively reasonable expectation of privacy in the garbage
+cans placed” in the common driveway near his garage.
+Id. at 6-7.  Relying on this Court’s decision in Califor-
+nia v. Greenwood, 486 U.S. 35 (1988), the court of
+appeals concluded that petitioner did not have such an
+expectation of privacy in his trash.  Pet. App. I, at 10.
+The court explained that, like the defendant in Green-
+wood, petitioner had left his garbage in an area that
+was “very publicly exposed and accessible,” and had
+manifested his intent to abandon it by putting it out for
+collection by strangers.  Pet. App. I, at 11-12.  While the
+defendant in Greenwood had left his garbage cans at the
+curbside, the court held that the area outside of peti-
+tioner ’s garage was the functional equivalent of the
+curbside area in Greenwood.  Id. at 10; see also id. at 8-
+
+5
+9.  The court also rejected petitioner ’s contention that
+the police needed a warrant to inspect his garbage
+because the trash cans, as they sat awaiting pick-up by
+trash collectors, were within the curtilage of peti-
+tioner ’s home.  The pertinent factors for determining
+whether an area is curtilage, the court of appeals noted,
+are “the proximity of the area to the home itself, the
+nature of the uses to which the [area] is put, whether
+the area is within an enclosure surrounding the home,
+and the steps the resident has taken to protect the area
+from observation by passersby.”  Id. at 12 (internal
+quotation marks and citation omitted).  “We believe our
+decision,” the court concluded, “passes all the tests.”
+Ibid.
+Judge Coffey joined the majority opinion, but also
+wrote a separate concurrence to emphasize that, be-
+cause petitioner had abandoned the property in a
+publicly visible location, the police were correct to
+conclude that it was “theirs for the taking.”  Pet. App. I,
+at 20.  Judge Flaum, joined by Judge Easterbrook, also
+concurred. Addressing petitioner ’s contention that the
+garbage cans were on the curtilage, Judge Flaum ex-
+plained that the curtilage inquiry often is a short-hand
+way of asking what is the ultimate question—whether
+the individual has a reasonable expectation of privacy
+in the location at issue.  Id. at 30.  In this case, he em-
+phasized, the garbage cans were “readily accessible” to
+the public—having been placed on a shared driveway
+for collection by total strangers—and petitioner had
+taken no steps to protect them from public view or
+inspection.  Id. at 27-28.  As a result, they were not
+within the curtilage, and petitioner did not have a le-
+gitimate expectation of privacy in their contents.  Id. at
+30.  Judge Evans also concurred, agreeing that the
+trash cans were outside the curtilage.  Id. at 38.
+
+6
+Five judges dissented, in opinions written by Chief
+Judge Posner and Judge Rovner.  Pet. App. I, at 39-60.
+In their view, the police crossed into the curtilage of the
+home when they walked up the driveway, and that
+entry required a warrant.  Id. at 45-46, 50-51.
+ARGUMENT
+Petitioner asserts that the warrantless inspection of
+the contents of his garbage cans, which had been placed
+outside his home in his driveway for collection by trash
+collectors, violated his Fourth Amendment rights.  Be-
+cause the court of appeals’ decision is correct and con-
+sistent with the decisions of other courts of appeals,
+further review is not warranted.
+1. In California v. Greenwood, 486 U.S. 35 (1988),
+this Court held that the Fourth Amendment permits
+the warrantless search and seizure of garbage left out-
+side the curtilage of the home, at the curb, for collec-
+tion.  “ The warrantless search and seizure of the gar-
+bage bags left at the curb,” the Court explained, “ would
+violate the Fourth Amendment only if [defendants]
+manifested a subjective expectation of privacy in their
+garbage that society accepts as objectively reasonable.”
+Id. at 39.  Finding that garbage bags left on or at the
+side of the street are “readily accessible” to the public
+and could be invaded by scavenging animals or curious
+passersby, and noting that the defendants had placed
+their garbage at the curb to convey it to a third party,
+the Court concluded that the defendants “could have
+had no reasonable expectation of privacy” in the
+garbage.  Id. at 40-41.
+Applying the same factors here, the Seventh Circuit
+properly concluded that petitioner had no legitimate
+expectation of privacy in the garbage he put out for
+collection.  Petitioner did not place his garbage in a
+
+7
+private location, outside of public view.  Rather, peti-
+tioner left his garbage out for collection in an open and
+shared driveway close to the street—an area that was
+“readily accessible” and “knowingly exposed” to the
+public.  Pet. App. II, at 2-3 (district court order); Pet.
+App. I, at 11-12 (court of appeals opinion). Petitioner,
+moreover, manifested no desire to retain control over
+the contents of his garbage cans.  Instead, he mani-
+fested his intention to abandon the garbage by leaving
+it outside his garage for regular collection.  Id. at 11.
+In light of the layout of petitioner’s home and the
+way petitioner used the area in front of his garage, the
+area in which the garbage cans awaited collection was
+the functional equivalent of the “curbside” area where
+the garbage cans sat in Greenwood.  See Pet. App. I, at
+10 (“ [Petitioner]’s ‘curb’  *  *  *  was necessarily not at
+curbside, but on his joint walk-driveway.”); id. at 8-9
+(“[Petitioner], in effect, chose the front of the joint
+garage on the shared driveway-sidewalk to be his curb
+for garbage pickup purposes.”); id. at 27 (“ [O]nce [peti-
+tioner] left the trash for collection in his driveway, it
+occupied a space that—for purposes of his expectation
+of privacy in the garbage  *  *  *  —was not much differ-
+ent than the curbside collection point chosen in other
+cases.”) (Flaum, J., concurring).  And like the curbside
+area at issue in Greenwood, the area where petitioner
+placed the garbage was “ without any obstruction” and
+was “open to use by friends and guests of himself and
+his neighbors, as well as solicitors, strangers, postal
+people, and a myriad of others including animals, and
+even snoops mentioned by the Supreme Court in Green-
+wood.”  Id. at 10; see also id. at 27 (shared use of drive-
+way with others “severely limited [petitioner]’s reason-
+able expectation of privacy in his trash”).  Under those
+particular circumstances, the court reasonably deter-
+
+8
+mined that petitioner had no legitimate expectation of
+privacy in his garbage.
+2. Seeking to distinguish Greenwood, petitioner ar-
+gues that his garbage cans were not “readily accessible
+to the public,” Pet. 13, and in fact were within the “cur-
+tilage” of the home, see Pet. 10-11.  See also Pet. ii (as-
+serting that the garbage cans were “within the curti-
+lage”).  Neither contention warrants review.
+a. The district court and the court of appeals con-
+cluded that petitioner ’s garbage cans were both “read-
+ily accessible” and “knowingly exposed” to the public.
+See Pet. App. II, at 3 (district court order) (“ [I]t is
+objectively clear that [petitioner]’s garbage was
+knowingly exposed to the public.”); Pet. App. I, at 11-12
+(court of appeals opinion) (“It takes little more than a
+look at the plat  *  *  *  showing [petitioner’s home’s lo-
+cation] at the intersection of two city streets and the
+short common driveway-sidewalk arrangement with his
+neighbor to see how very publicly exposed and accessi-
+ble [petitioner] left his garbage.”).  Those essentially
+factual, and, in any event, fact-bound determinations do
+not warrant further review.  See id. at 5 (inquiry must
+be fact-specific); id. at 21 (Flaum, J., concurring) (“The
+determination of ready accessibility is highly fact-
+bound.”).
+b. Petitioner’s claim that his trash cans were within
+the curtilage of his home also lacks merit. Petitioner
+concedes that the court of appeals properly identified
+the four factors relevant to the curtilage determination
+—the area’s “proximity” to the home itself, the “nature
+of the uses” to which the area is put, whether the area
+is protected by a fence or similar enclosure, and the
+steps that were taken to protect the area from observa-
+tion.  See United States v. Dunn, 480 U.S. 294, 301
+(1987); Pet. App. I, at 12 (same factors); Pet. 10-11
+
+9
+(same factors).  Petitioner argues, however, that the
+court of appeals erred in its application of those settled
+criteria to the particular facts of this case. While such a
+case-specific contention would not in any event warrant
+this Court’s review, the court of appeals’ conclusion
+that the search “passe[d] all the [curtilage] tests,” Pet.
+App. I, at 12, is correct.
+Although the garbage cans were close to petitioner ’s
+garage, that garage faces a different street than does
+petitioner ’s home, and the area in front of the garage
+does not offer visitors the ability to see into the home
+itself.  Proximity alone therefore gives no support for
+the suggestion that the garbage cans were located in an
+area designed for intimate family life.  Moreover, the
+three other factors—the existence of enclosures, efforts
+to obstruct the view, and the “centrally relevant” or
+“primary” factor, “the nature of the uses” to which the
+area is put, see Dunn, 480 U.S. at 301 & n.4—
+demonstrate that the wide, shared driveway was not
+“curtilage.”  Petitioner concedes that the area was not
+protected by a fence.  See Pet. 11.  It is undisputed that
+petitioner had done nothing to obstruct the public’s
+view.  And the area was not used for private affairs.  To
+the contrary, any member of the public seeking to
+approach the home of petitioner ’s neighbor had to walk
+through the area, and petitioner himself used the area
+for a distinctly non-private purpose—as a drop-off point
+at which total strangers would collect his garbage.  As
+Judge Evans summarized, “[w]hen [petitioner] moved
+his garbage cans outside of his garage on collection days
+to his shared driveway, which was less than a first
+down’s distance from the public sidewalk, he moved
+them beyond his curtilage.  As the cans sat there wait-
+ing to be picked up by the garbage collectors, [peti-
+tioner] had no reasonable expectation that their con-
+
+10
+tents would remain undisclosed.”  Pet. App. I, at 38
+(Evans, J., concurring).
+For that reason, petitioner ’s assertion that the Sev-
+enth Circuit’s decision eliminates any “right to privacy
+outside of the four walls of ” the home, Pet. 14, is
+incorrect.  As the majority and the concurring opinions
+make clear, the result in this case turned on the specific
+facts before the court—that the garbage clearly had
+been abandoned and set out for pick-up by strangers,
+that the garbage cans were placed in a shared driveway
+area that was exposed and readily accessible to the
+public, and that neither the contents of petitioner’s
+home nor any other private area could be viewed from
+the location where the garbage cans sat.  See Pet. App.
+I, at 5 (court does not “ imply that  *  *  *  anybody ’s
+garbage cans placed on the driveway adjacent to his or
+her garage, regardless of the other facts and circum-
+stances, can henceforth be searched without a war-
+rant”); id. at 10 (layout of neighborhood made area near
+garage akin to the “curb” in Greenwood); id. at 10-12
+(considering abandonment, accessibility to public, and
+degree of public exposure); see also id. at 28 n.3 (Flaum,
+J., concurring) (examination of garbage permissible
+only where garbage is “readily” accessible; whether
+garbage is “readily” accessible depends on proximity to
+home, distance from public thoroughfares, ease with
+which public can reach area without disturbing the
+intimate activities of home life, and any unique societal
+message of abandonment sent by the defendant).
+c. To the extent petitioner argues that the court of
+appeals concluded that the garbage was within the
+curtilage, but permitted it to be searched nonetheless,
+petitioner errs.  The court of appeals specifically passed
+on the four factors relevant to the curtilage question,
+and found that its decision offended none of them.  See
+
+11
+Pet. App. I, at 12.  Moreover, the conclusion that peti-
+tioner had no legitimate expectation of privacy in his
+garbage cans itself comprehends a finding that they
+were not within the curtilage.  See id. at 29-31 (Flaum,
+J., concurring) (curtilage inquiry is another way of
+determining whether expectation of privacy is reason-
+able).  Curtilage is the area surrounding the home “ to
+which extends the intimate activity associated with the
+‘sanctity of a man’s home and the privacies of life,’ ” and
+is “considered part of the home itself for Fourth
+Amendment purposes.”  Oliver v. United States, 466
+U.S. 170, 176, 180 & n.12 (1984) (quoting Boyd v. United
+States, 116 U.S. 616, 630 (1886)).  Petitioner offers no
+reason to believe that intimate activity associated with
+the home was conducted in the area where his garbage
+cans stood; nor does he offer any other reason why the
+shared and publicly exposed driveway on which the
+garbage cans sat should be “considered part of [his]
+home  *  *  *  for Fourth Amendment purposes.”
+3. The court of appeals’ decision is consistent with
+the decisions of other courts of appeals.  The courts of
+appeals have held that the police may inspect garbage
+left out for collection so long as the garbage is in a
+sufficiently public location, even where the garbage is
+not left at the curb.  See, e.g., United States v. Hall, 47
+F.3d 1091, 1095-1097 (11th Cir.) (search of dumpster on
+private property, forty yards from public property, did
+not violate Fourth Amendment where dumpster was in
+public view and there was no effort to exclude others
+from it), cert. denied, 516 U.S. 816 (1995); United States
+v. Comeaux, 955 F.2d 586, 588-589 (8th Cir.) (where
+trash bag was accessible from alley, even though placed
+“on top of a garbage can located next to the garage,”
+Fourth Amendment did not bar police from examining
+it), cert. denied, 506 U.S. 845 (1992); United States v.
+
+12
+Wilkinson, 926 F.2d 22, 27 (1st Cir.) (warrantless
+search of garbage left for collection on lawn next to
+curb permissible because of ready accessibility of gar-
+bage to public), cert. denied, 501 U.S. 1211 (1991).  Peti-
+tioner cites no case with similar facts that reaches the
+opposite result.  See Pet. App. I, at 6 (noting the ab-
+sence of “duplicate” cases from other courts of appeals
+or this Court).
+Nor do we believe that the result in this case will be
+affected by this Court’s decision in Minnesota v. Carter,
+No. 97-1147.  One of the issues in Carter is whether a
+police officer ’s observation of the interior of an apart-
+ment through partially closed venetian blinds, while the
+officer was standing in a grassy, publicly used common
+area immediately outside the apartment, constitutes a
+“search” within the meaning of the Fourth Amendment.
+In its amicus curiae brief in Carter, the United States
+has argued, inter alia, that the defendants had no
+reasonable expectation of privacy, because the officer ’s
+vantage point was “one that a neighbor or another
+member of the public might well have assumed.”  97-
+1147 U.S. Amicus Br. at 22-28.  Because this case con-
+cerns the reasonableness of a defendant’s expectation of
+privacy in garbage left for collection by strangers in a
+publicly accessible place, and Carter concerns a defen-
+dant’s expectation of privacy in the home of another
+when viewed through the window blinds by an officer
+standing in an open and public location, there is little
+chance that this Court’s decision in Carter will affect
+the proper resolution of this case.
+
+13
+CONCLUSION
+The petition for a writ of certiorari should be denied.
+Respectfully submitted.
+SETH  P. WAXMAN
+Solicitor General
+JAMES  K. ROBINSON
+Assistant Attorney General
+KATHLEEN  S. BEECHER
+Attorney
+NOVEMBER 1998

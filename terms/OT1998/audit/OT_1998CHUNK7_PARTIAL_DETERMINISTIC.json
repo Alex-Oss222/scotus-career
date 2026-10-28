@@ -1,0 +1,1018 @@
+{
+  "status": "PARTIAL PASS",
+  "errors": [],
+  "coverage_limits": [
+    "Found 8 of 12 expected chunk 7 events",
+    "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md: nonunanimous topology prose remains for human component reconciliation",
+    "Generated chunk 7 Render Input not yet present; projection identity awaits integration"
+  ],
+  "event_count": 8,
+  "expected_events": 12,
+  "events": [
+    {
+      "file": "in_re_sealed_case_merits_1999-04-13.md",
+      "date": "1999-04-13",
+      "case": "In re Sealed Case; No. 98-93; judgment below, 148 F.3d 1073."
+    },
+    {
+      "file": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "date": "1999-04-20",
+      "case": "UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276."
+    },
+    {
+      "file": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "date": "1999-04-21",
+      "case": "United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460."
+    },
+    {
+      "file": "brooks_v_barnes_merits_1999-04-22.md",
+      "date": "1999-04-22",
+      "case": "Brooks v. Barnes; No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230."
+    },
+    {
+      "file": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "date": "1999-04-27",
+      "case": "United States v. Sun-Diamond Growers of California; No. 98-131; judgment below, 138 F.3d 961."
+    },
+    {
+      "file": "russell_v_burris_merits_1999-04-28.md",
+      "date": "1999-04-28",
+      "case": "Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563."
+    },
+    {
+      "file": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "date": "1999-05-03",
+      "case": "Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955."
+    },
+    {
+      "file": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "date": "1999-05-03",
+      "case": "El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610."
+    }
+  ],
+  "controlling_explanation_word_counts": {
+    "in_re_sealed_case_merits_1999-04-13.md": [
+      239
+    ],
+    "unum_life_insurance_co_v_ward_merits_1999-04-20.md": [
+      175,
+      162
+    ],
+    "united_states_v_haggar_apparel_co_merits_1999-04-21.md": [
+      128,
+      224
+    ],
+    "brooks_v_barnes_merits_1999-04-22.md": [
+      239,
+      104,
+      78
+    ],
+    "united_states_v_sun_diamond_growers_merits_1999-04-27.md": [
+      179,
+      113
+    ],
+    "russell_v_burris_merits_1999-04-28.md": [
+      162,
+      171,
+      137,
+      156
+    ],
+    "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md": [
+      222
+    ],
+    "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md": [
+      169,
+      99
+    ]
+  },
+  "named_vote_checks": [
+    {
+      "record": "in_re_sealed_case_merits_1999-04-13.md",
+      "component": "Published judgment",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "component": "Notice-prejudice and reversal of insurer's summary judgment",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "component": "No-relation premise for the employer-agency instruction",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "component": "Published judgment",
+      "count": [
+        7,
+        2
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Breyer"
+        ],
+        [
+          "Stevens",
+          "Ginsburg"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "component": "Section 2 results claim",
+      "count": [
+        6,
+        3
+      ],
+      "groups": [
+        [
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        [
+          "Stone-Zsela",
+          "Scalia",
+          "Thomas"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "component": "Constitutional purpose claims",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "component": "Published judgment",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "component": "$300 per-election limit for seven enumerated statewide offices",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "component": "$100 per-election limit for Arkansas Supreme Court Justice and Court of Appeals Judge",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "component": "Residual covered-office $100 limit",
+      "count": [
+        5,
+        4
+      ],
+      "groups": [
+        [
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        [
+          "Stone-Zsela",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "component": "$200 annual per-person/per-ordinary-PAC receipts",
+      "count": [
+        5,
+        4
+      ],
+      "groups": [
+        [
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        [
+          "Stone-Zsela",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "component": "Qualified small-donor PAC $2,500 candidate allowance",
+      "count": [
+        5,
+        3,
+        1
+      ],
+      "groups": [
+        [
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        [
+          "Stone-Zsela"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "component": "Published judgment",
+      "count": [
+        8,
+        1
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        [
+          "Stevens"
+        ]
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    },
+    {
+      "record": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "component": "Published judgment",
+      "count": [
+        9,
+        0
+      ],
+      "groups": [
+        [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        []
+      ],
+      "status": "PASS",
+      "discrepancies": []
+    }
+  ],
+  "topology_named_rosters": [
+    {
+      "record": "in_re_sealed_case_merits_1999-04-13.md",
+      "writing": "Unanimous Opinion of the Court",
+      "named": [
+        "Stevens",
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "record": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "writing": "Unanimous Opinion of the Court",
+      "named": [
+        "Ginsburg",
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ]
+    },
+    {
+      "record": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "writing": "Opinion of the Court, Parts I–III",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "total_named": 9,
+      "scope": [
+        "Delegation, statutory limits and Chevron framework"
+      ]
+    },
+    {
+      "record": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "writing": "Opinion of the Court, Part IV",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Breyer"
+      ],
+      "total_named": 7,
+      "scope": [
+        "Unresolved validity/application and remand"
+      ]
+    },
+    {
+      "record": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "writing": "Concurrence in part and dissent in part",
+      "authors": [
+        "Stevens"
+      ],
+      "joins": [
+        "Ginsburg"
+      ],
+      "total_named": 2,
+      "scope": [
+        "Joins Parts I–III; would sustain validity and actual denial now"
+      ]
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "writing": "Opinion of the Court, Parts I–II",
+      "authors": [
+        "Souter"
+      ],
+      "joins": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "total_named": 6,
+      "scope": [
+        "Section 2 and remand"
+      ]
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "writing": "Opinion of the Court, Part III",
+      "authors": [
+        "Souter"
+      ],
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "total_named": 9,
+      "scope": [
+        "Constitutional claims"
+      ]
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "writing": "Concurrence in part and dissent in part",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [],
+      "total_named": 1,
+      "scope": [
+        "Would affirm the statutory judgment on this record"
+      ]
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "writing": "Concurrence in part and dissent in part",
+      "authors": [
+        "Thomas"
+      ],
+      "joins": [
+        "Scalia"
+      ],
+      "total_named": 2,
+      "scope": [
+        "Would affirm the statutory judgment for noncoverage"
+      ]
+    },
+    {
+      "record": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "writing": "Unanimous Opinion of the Court",
+      "named": [
+        "Scalia",
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "writing": "Opinion of the Court, Part I",
+      "authors": [
+        "O'Connor"
+      ],
+      "joins": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "total_named": 9,
+      "scope": [
+        "Governing standard; two invalidated candidate categories"
+      ]
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "writing": "Opinion of the Court, Parts II–IV",
+      "authors": [
+        "O'Connor"
+      ],
+      "joins": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "total_named": 5,
+      "scope": [
+        "Residual $100, ordinary-PAC receipts and small-donor differential"
+      ]
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "writing": "Concurrence in part and dissent in part",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "joins": [],
+      "total_named": 1,
+      "scope": [
+        "Broader cap invalidation; small-donor remand"
+      ]
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "writing": "Concurrence in part and dissent in part",
+      "authors": [
+        "Kennedy"
+      ],
+      "joins": [
+        "Scalia",
+        "Thomas"
+      ],
+      "total_named": 3,
+      "scope": [
+        "Would invalidate all reviewed components"
+      ]
+    },
+    {
+      "record": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "writing": "Unanimous Opinion of the Court",
+      "named": [
+        "Thomas",
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ],
+  "assignment_receipt_checks": [
+    {
+      "receipt": "OT_1998CHUNK7_BROOKS_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-22",
+      "before_case": "Brooks v. Barnes",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "counted_opinions": 68
+    },
+    {
+      "receipt": "OT_1998CHUNK7_EL_PASO_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-05-03",
+      "before_case": "El Paso Natural Gas Co. v. Neztsosie",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 8,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "counted_opinions": 72
+    },
+    {
+      "receipt": "OT_1998CHUNK7_HAGGAR_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-21",
+      "before_case": "United States v. Haggar Apparel Co.",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "counted_opinions": 67
+    },
+    {
+      "receipt": "OT_1998CHUNK7_LASALLE_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-05-03",
+      "before_case": "Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 9,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "russell_v_burris_merits_1999-04-28.md",
+      "counted_opinions": 71
+    },
+    {
+      "receipt": "OT_1998CHUNK7_RUSSELL_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-28",
+      "before_case": "Russell v. Burris",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 8,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "counted_opinions": 70
+    },
+    {
+      "receipt": "OT_1998CHUNK7_SEALED_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-13",
+      "before_case": "In re Sealed Case",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 7,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last_counted": "barnes_v_american_tobacco_co_merits_1999-04-07.md",
+      "counted_opinions": 65
+    },
+    {
+      "receipt": "OT_1998CHUNK7_SUN_DIAMOND_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-27",
+      "before_case": "United States v. Sun-Diamond Growers of California",
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 8,
+        "Thomas": 7,
+        "Ginsburg": 8,
+        "Breyer": 8
+      },
+      "last_counted": "brooks_v_barnes_merits_1999-04-22.md",
+      "counted_opinions": 69
+    },
+    {
+      "receipt": "OT_1998CHUNK7_UNUM_RECOUNT.json",
+      "status": "PASS",
+      "before_date": "1999-04-20",
+      "before_case": "UNUM Life Insurance Co. of America v. Ward",
+      "counts": {
+        "Stone-Zsela": 7,
+        "Stevens": 8,
+        "O'Connor": 8,
+        "Scalia": 7,
+        "Kennedy": 7,
+        "Souter": 7,
+        "Thomas": 7,
+        "Ginsburg": 7,
+        "Breyer": 8
+      },
+      "last_counted": "in_re_sealed_case_merits_1999-04-13.md",
+      "counted_opinions": 66
+    }
+  ],
+  "protected_baseline_files_verified": 92,
+  "baseline_files_total": 96,
+  "mutable_workspace_hashes_skipped": [
+    "terms/OT1998/workspace/continuity.md",
+    "terms/OT1998/workspace/ledger.md",
+    "terms/OT1998/workspace/manifest.md",
+    "terms/OT1998/workspace/neutral-projection.md"
+  ],
+  "local_links_checked": 29,
+  "local_link_results": [
+    {
+      "source": "in_re_sealed_case_merits_1999-04-13.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_01_sealed.md",
+      "exists": true
+    },
+    {
+      "source": "in_re_sealed_case_merits_1999-04-13.md",
+      "target": "../runtime/OT_1998CHUNK7_STONE.md",
+      "exists": true
+    },
+    {
+      "source": "in_re_sealed_case_merits_1999-04-13.md",
+      "target": "../freeze/OT_1998CHUNK7_SEALED_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "in_re_sealed_case_merits_1999-04-13.md",
+      "target": "barnes_v_american_tobacco_co_merits_1999-04-07.md",
+      "exists": true
+    },
+    {
+      "source": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_02_unum.md",
+      "exists": true
+    },
+    {
+      "source": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "target": "../freeze/OT_1998CHUNK7_UNUM_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "target": "in_re_sealed_case_merits_1999-04-13.md",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_03_haggar.md",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "target": "../freeze/OT_1998CHUNK7_HAGGAR_STATUTES_NEUTRAL.md",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "target": "../freeze/OT_1998CHUNK7_HAGGAR_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "target": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "exists": true
+    },
+    {
+      "source": "brooks_v_barnes_merits_1999-04-22.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_04_brooks.md",
+      "exists": true
+    },
+    {
+      "source": "brooks_v_barnes_merits_1999-04-22.md",
+      "target": "../freeze/OT_1998CHUNK7_BROOKS_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "brooks_v_barnes_merits_1999-04-22.md",
+      "target": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_05_sun_diamond.md",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "target": "../freeze/OT_1998CHUNK7_SUN_DIAMOND_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "target": "brooks_v_barnes_merits_1999-04-22.md",
+      "exists": true
+    },
+    {
+      "source": "russell_v_burris_merits_1999-04-28.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_06_russell.md",
+      "exists": true
+    },
+    {
+      "source": "russell_v_burris_merits_1999-04-28.md",
+      "target": "../freeze/OT_1998CHUNK7_RUSSELL_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "russell_v_burris_merits_1999-04-28.md",
+      "target": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_08_lasalle.md",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "../freeze/OT_1998CHUNK7_LASALLE_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "russell_v_burris_merits_1999-04-28.md",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "../freeze/OT_1998CHUNK7_LASALLE_SCOPE_NEUTRAL.md",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "../freeze/OT_1998CHUNK7_LASALLE_SCOPE_NEUTRAL_VALIDATION.md",
+      "exists": true
+    },
+    {
+      "source": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "target": "../entering-law/OT_1998CHUNK7_LASALLE_SOURCE_EXTRACT.md",
+      "exists": true
+    },
+    {
+      "source": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "target": "../entering-law/OT_1998CHUNK7_LAW_09_neztsosie.md",
+      "exists": true
+    },
+    {
+      "source": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "target": "../freeze/OT_1998CHUNK7_EL_PASO_RECOUNT.json",
+      "exists": true
+    },
+    {
+      "source": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "target": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "exists": true
+    }
+  ],
+  "workspace_additions": {
+    "manifest": {
+      "unchanged": true,
+      "added_lines_checked": 0
+    },
+    "continuity": {
+      "unchanged": true,
+      "added_lines_checked": 0
+    },
+    "neutral-projection": {
+      "unchanged": true,
+      "added_lines_checked": 0
+    },
+    "ledger": {
+      "unchanged": true,
+      "added_lines_checked": 0
+    }
+  },
+  "render_input": "not yet present",
+  "limitations": [
+    "No substantive coalition, qualification, source-support, or remedy decision is made.",
+    "Topology-to-judgment legal scope reconciliation remains a human task.",
+    "External URL availability is not tested.",
+    "Git existence, history, commitment status and commitment order are unverified.",
+    "The general term checker is reserved to root and was not called."
+  ],
+  "mutation": "Only this new audit receipt; no Record, workspace, brief, source, or infrastructure edit."
+}

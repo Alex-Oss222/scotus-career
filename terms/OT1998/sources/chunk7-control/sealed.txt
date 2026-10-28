@@ -1,0 +1,142 @@
+148 F.3d 1073 - In re Sealed Case — 148 F.3d 1073 | OpenJurist
+https://openjurist.org/148/f3d/1073
+Public-domain · open source
+Menu
+Cases
+Code
+Courts
+Judges
+Dictionaries
+Books
+OpenJurist›Volume 148›F.3d›Page 1073
+148 F.3d 1073
+Docket No. 98-3069.
+In re Sealed Case
+District of Columbia Circuit Court of Appeals
+Argued June 26, 1998.
+Decided July 7, 1998.
+District of Columbia Circuit Court of Appeals · decided 1998-07-07
+4 counsel of record
+Key passage — most relied on by later courts
+“investigate any violation of title 18 [the federal criminal code] involving Government officers and employees.”
+quoted by 4 later decisions, including In re Lindsey, In Re: Bruce Lindsey
+“with respect to all matters in [his] prosecutorial jurisdiction ... full power and independent authority to exercise all investigative and prosecutorial functions and powers of ... the Attorney General.”
+quoted by 3 later decisions, including In Re: Bruce Lindsey, In Re: Bruce R Lindsey
+Applies 18 U.S.C. § 3056 (Presidential Protection Assistance Act of 1976) · 28 U.S.C. § 1291 · 28 U.S.C. § 594
+Relies on United States v. Nixon · Elkins v. United States · Branzburg v. Hayes
+Good law ✅— No negative treatment on recordhow we know
+Opinion by (per_curiam) · Decided 1998-07-07
+How this case has been cited
+Cited by 27 later decisions (1 by the Supreme Court) — most recently August 2016 · most notably Jacqueline Pearson v. Bruce Miller (2000), In Re Bruce R. Lindsey (Grand Jury Testimony) (1998)
+13 federal appellate · 3 district ·
+120199820002010decided
+Later decisions citing this case, by decade. The current decade is in progress, and our corpus holds fewer opinions from the most recent years, so the latest bars are undercounted — not a real decline.
+View the full empirical analysis of this case →
+¶1*1074Stephen W. Preston, Deputy Assistant Attorney General, U.S. Department of Justice, argued the cause for appellant, with whom Janet Reno, Attorney General, Frank W. Hunger, Assistant Attorney General, Mark B. Stern, Michael S. Raab, and Maria Simon, Attorneys, were on the briefs.
+¶2Kenneth W. Starr, Independent Counsel, argued the cause for appellee United States, with whom Michael L. Travers, Associate Independent Counsel, was on the brief.
+¶3Arnold I. Burns and Warren L. Dennis were on the brief for amici curiae in support of the United States Secret Service.
+¶4William P. Barr, Griffin B. Bell, and Jonathan Turley were on the brief for amici curiae former Attorneys General of the United States.
+¶5Before: WILLIAMS, GINSBURG, and RANDOLPH, Circuit Judges.
+¶6PER CURIAM:
+¶7During depositions conducted by the Office of the Independent Counsel as part of grand jury proceedings, officers of the United States Secret Service refused to answer certain questions on the ground that the information sought was protected from disclosure by a “protective function privilege.” When the OIC filed a motion in federal district court to compel their testimony, the Secret Service, through the Attorney General, again asserted a protective function privilege, which by that time had been officially invoked by the Secretary of the Treasury, the cabinet officer who oversees the Secret Service. The district court refused to recognize the protective function privilege and granted the motion to compel.
+¶8For the reasons set forth below, we affirm. We note at the outset, however, that the question before the court today is whether Secret Service officers can be compelled to testify before a federal grand jury. We express no opinion about the propriety of asserting a protective function privilege in other legal proceedings.
+¶9I. Jurisdiction and Standard of Review
+¶10As a general rule, in order to obtain appellate review of a district court’s order to testify, a witness must first disobey the order and be held in contempt. See United States v. Ryan, 402 U.S. 530, 533, 91 S.Ct. 1580, 29 L.Ed.2d 85 (1971); Cobbledick v. United States, 309 U.S. 323, 328, 60 S.Ct. 540, 84 L.Ed. 783 (1940). When someone other than the witness holds the privilege, however, the holder may appeal if “circumstances make it unlikely that [the witness] would risk a contempt citation in order to allow immediate review of a claim of privilege.” In re Sealed Case, 754 F.2d 395, 399 (D.C.Cir.1985). We have not hesitated to recognize that such circumstances exist when a witness has sworn under oath that he or she will testify if ordered to do so. See id.; In re Sealed Case, 737 F.2d 94, 98 (D.C.Cir.1984). In the absence of such a sworn statement we are properly reluctant to conclude that we have jurisdiction. Compare In re Sealed Case, 655 F.2d 1298, 1301 (D.C.Cir.1981) (denying appeal where outside counsel “shared the company’s interest in withholding the contested documents”) with In re Grand Jury Investigation of Ocean Transp., 604 F.2d 672, 673 n. 1 (D.C.Cir.1979) (allowing appeal where witness “appears to have been unwilling to risk a contempt citation”). Because the witnesses in this case are sworn law enforcement agents, we think it highly unlikely they would disobey a court order to testify. Hence, just as a private company may pursue an immediate appeal in order to prevent an employee from testifying as to matters protected by a privilege that the company wishes to assert, see In re Sealed Case, 107 F.3d 46, 48 & n. 1 (D.C.Cir.1997), the Secretary of the Treasury may here pursue an immediate appeal in order to prevent Secret Service officers from testifying as to matters protected by a privilege that he has asserted on behalf of the United States.
+¶11*1075Accordingly, we accept jurisdiction over this appeal pursuant to 28 U.S.C. § 1291. Because the recognition of a testimonial privilege is a legal issue, our review is de novo. Cf. In re Bevill, Bresler & Schulman Asset Mgmt. Corp., 805 F.2d 120, 124 (3d Cir.1986) (“Although the applicability of a privilege is a factual question, determining the scope of a privilege is a question of law, subject to plenary review”).
+¶12II. Nature of the Asserted Privilege
+¶13As described by the Secret Service, the protective function privilege absolutely protects “information obtained by Secret Service personnel while performing their protective function in physical proximity to the President,” except that the privilege “does not apply, in the context of a federal investigation or prosecution, to bar testimony by an officer or agent concerning observations or statements that, at the time they were made, were sufficient to provide reasonable grounds for believing that a felony has been, is being, or will be committed.” Brief for Appellant at 4 & 5 n.l.
+¶14The privilege is necessary, according to the Secret Service, in order for the Service to carry out its statutory duty to protect the President. See 18 U.S.C. § 3056. That is because the Secret Service uses protective techniques the effectiveness of which depends upon close physical proximity to the President. Indeed, in the opinion of the current Director of the Secret Service, “it is no exaggeration to say that the difference of even a few feet between a President and his protective detail could mean the difference between life or death.” Declaration of Lewis C. Merletti ¶ 12. The Secret Service has a tradition and culture of maintaining the confidences of its protectees. The Service is concerned that “if any President of the United States were given reason to doubt the confidentiality of actions or conversations taken in sight or hearing of Secret Service personnel, he would seek to push the protective envelope away, or eliminate some of its components, undermining it to the point where it could no longer be fully effective.” Merletti Decl. ¶27. In a letter to the Director dated April 15, 1998, former President George Bush succinctly stated the case for recognizing the privilege:
+What’s at stake here is the confidence of the President in the discretion of the USSS. If that confidence evaporates the agents, denied proximity, cannot properly protect the President.
+¶15III. Analysis
+¶16Rule 501 of the Federal Rules of Evidence provides in relevant part as follows:
+Except as otherwise required by the Constitution of the United States or provided by Act of Congress, or rules prescribed by the Supreme Court pursuant to statutory authority, the privilege of a witness, person, government, State, or political subdivision thereof shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience.
+¶17In its most recent opinion dealing with the recognition of a new testimonial privilege, the Supreme Court reiterated that Rule 501 “did not freeze the law governing the privileges of witnesses in federal trials at a particular point in our history, but rather directed federal courts to ‘continue the evolutionary development of testimonial privileges.’ ” Jaffee v. Redmond, 518 U.S. 1, 9, 116 S.Ct. 1923, 135 L.Ed.2d 337 (1996) (quoting Trammel v. United States, 445 U.S. 40, 47, 100 S.Ct. 906, 63 L.Ed.2d 186 (1980)). Still, when evaluating a novel claim of privilege “we start with the primary assumption that there is a general duty to give what testimony one is capable of giving,” id.(citations omitted); testimonial privileges “must be strictly construed and accepted only to the very limited extent that permitting a refusal to testify ... has a ‘public good transcending the normally predominant principle of utilizing all rational means for ascertaining truth,’ ” Trammel, 445 U.S. at 50, 100 S.Ct. 906 (quoting Elkins v. United States, 364 U.S. 206, 234, 80 S.Ct. 1437, 4 L.Ed.2d 1669 (1960) (Frankfurter, J., dissenting)); see United States v. Nixon, 418 U.S. 683, 710, 94 S.Ct. 3090, 41 L.Ed.2d 1039 (1974) (new privileges “are not lightly created nor expansively construed”); see also Jaffee, 518 U.S. at 9, 116 S.Ct. 1923.
+¶18*1076The Supreme Court has put considerable weight upon federal and state precedent when recognizing a privilege. See Jaffee, 518 U.S. at 12, 116 S.Ct. 1923 (“That it is appropriate for the federal courts to recognize a psychotherapist privilege under Rule 501 is confirmed by the fact that all 50 States and the District of Columbia have enacted into law some form of psychotherapist privilege”). Consequently, the OIC makes much of the lack of relevant federal or state precedent for the protective function privilege. The lack of such precedent is hardly surprising, however, in view of the novelty of the OIC’s demand for testimony: This appears to be the fust effort in U.S. history to compel testimony by agents guarding the President. Although analogies can be drawn to state Governors and their protectors, the consequences of assassination (and hence the necessity of suitable protection) are so much greater at the presidential level that such analogies offer little guidance. In these circumstances, we do not regard the absence of precedent as weighing heavily against recognition of the privilege. The result is simply that judicial recognition of the privilege depends entirely upon the Secret Service’s ability to establish clearly and convincingly both the need for and the efficacy of the proposed privilege. In other words, the Secret Service must demonstrate that recognition of the privilege in its proposed form will materially enhance presidential security by lessening any tendency of the President to “push away” his protectors in situations where there is some risk to his safety.
+¶19The Supreme Court requires that a party seeking judicial recognition of a new evidentiary privilege under Rule 501 demonstrate with a high degree of clarity and certainty that the proposed privilege will effectively advance a public good. See, e.g., United States v. Gillock, 445 U.S. 360, 375, 100 S.Ct. 1185, 63 L.Ed.2d 454 (1980) (rejecting as “speculative” policy arguments in favor of proposed state legislative privilege). Even in cases where the proposed privilege is designed in part to protect constitutional rights, the Supreme Court has demanded that the proponent come forward with a compelling empirical case for the necessity of the privilege. See Branzburg v. Hayes, 408 U.S. 665, 693-94 & n. 32, 92 S.Ct. 2646, 33 L.Ed.2d 626 (1972) (“Estimates of the inhibiting effect of [grand jury] subpoenas on the willingness of informants to make disclosures to newsmen are widely divergent and to a great extent speculative”); Herbert v. Lando, 441 U.S. 153, 169-70, 99 S.Ct. 1635, 60 L.Ed.2d 115 (1979) (finding policy arguments in favor of First Amendment-based editorial process privilege insufficiently “clear and convincing”).
+¶20As discussed above, the Secret Service claims that ensuring the physical safety of the President is the transcendent public good that justifies the protective function privilege. For its part the OIC “readily acknowledge[s] the profound public interest in Presidential safety upon which the Secret Service places so much emphasis,” Brief of Appellee at 14. We likewise agree that ensuring the physical safety of the President is a public good of the utmost importance. We do not think, however, that the Secret Service has shown with the compelling clarity required by Rule 501 that failure to recognize the proposed privilege will jeopardize the ability of the Secret Service effectively to protect the President. As we have said before,
+[w]hile courts must listen with the utmost respect to the conclusions of those entrusted with responsibility for safeguarding the President, we must also assure ourselves that those conclusions rest upon solid facts and a realistic appraisal of the danger rather than vague fears extrapolated beyond any foreseeable threat.
+¶21A Quaker Action Group v. Hickel, 421 F.2d 1111, 1117 (D.C.Cir.1969). Here, the arguments of the Secret Service, apart from the universally shared understanding that the nation has a profound interest in the security of the President, “are based in large part on speculation — thoughtful speculation, but speculation nonetheless.” Swidler & Berlin v. United States, — U.S. -, 118 S.Ct. 2081, 141 L.Ed.2d 379 (1998).
+¶22The Secret Service has submitted declarations of senior Secret Service agents and the above-quoted letter from President Bush in support of the privilege, but against these we must balance recent statements by Presi*1077dents Carter and Ford expressing their opinion that Secret Service personnel should be required to testify in a criminal case. See Good Morning America, ABC television broadcast of June 15, 1998 (Carter); Hardball with Chris Matthews, CNBC television broadcast of June 4, 1998 (Ford) (transcripts of both available on LEXIS: NEWS library, SCRIPT file).
+¶23In addition, although we must acknowledge that the Secret Service has a duty to protect the President, we must also consider that the President has a correlative duty to accept protection. See 18 U.S.C. § 3056(a) & (d). Moreover, as the district court observed, the President has a profound personal interest in being well protected, and the President knows that effective protection depends upon proximity to his protectors. According to the Director of the Secret Service, an incoming President generally “does not sufficiently appreciate the risks he is facing”; however, each new President’s “initial tendency to resist the close protective envelope in which [the Service] want[s] to place him” is overcome by a “natural educational process” in which the President learns the importance of proximity. Merletti Decl. ¶ 20.
+¶24The ability of the proposed privilege to enhance the Secret Service’s protection of the President is further weakened by the precise form of the proposed privilege: An agent may not testify about the conduct of the President or anyone else unless the agent recognizes that conduct as felonious when he is witnessing it; a felony made apparent to the agent only by subsequent events — and any misdemeanor, regardless of the circumstances — must remain secret. The proposed exception for contemporaneously recognized felonies strikes a strange balance between the competing goals of providing sound incentives for the President and facilitating the discovery of truth. On the one hand, because the President cannot know whether an agent will realize he is witnessing the commission of a felony — which depends in part upon how much the agent knows about prior events — the President will have to discount substantially the value of the protective function privilege (and thus perhaps be tempted to distance himself from his protectors all the same). On the other hand, the exception would prohibit testimony (and thus thwart the search for truth) even in cases where the evidence, viewed in the light of subsequent events, would supply a key element in the proof of a serious crime.
+¶25We think it significant that the Secret Service does not require its agents to sign confidentiality agreements as a condition of employment; without such an agreement (or statute or rule), the Secretary of the Treasury would find it difficult by invoking the proposed privilege to prevent a former Secret Service agent from testifying, for at least two reasons. First, a former agent who is not bound by any agreement or rule will suffer no adverse consequences by cooperating in an investigation of the President; second, the Secretary of the Treasury has no way of knowing when such a cooperative former agent is about to testify. If preventing testimony is as critical to the success of its mission as the Secret Service now claims, it seems anomalous that the Service has no better mechanism in place to discourage former agents from revealing confidences or at least to alert the Secretary when testimony is about to be given.
+¶26We also think the efficacy of the privilege is undermined by its being vested in the Secretary of the Treasury and not in the President, whose conduct the proposed privilege is supposed to influence; we know of no other privilege that works that way. If the person whose conduct is to be influenced knows that the privilege might be waived by someone else, the effect of the privilege in shaping his conduct is greatly diminished if not completely eliminated. Accordingly, the assertion of the White House Counsel, in a letter to the OIC, that “the privilege is not [the President’s] to assert or to waive” reinforces our impression that the proposed protective function privilege will provide only a weak incentive for the President to keep his protectors in close proximity. Letter from Charles F.C. Ruff to Kenneth W. Starr dated May 11,1998.
+¶27In any event, an incumbent president’s ability to control the assertion of the privilege — even indirectly, via the Secretary of the Treasury — would end when the President *1078leaves office. This weakens the claim that the privilege in the form proposed by the Secret Service will do anything to diminish the President’s incentive to keep his protectors at a distance. For just as the “[pjost-humous disclosure of [privileged] communications [between attorney and client] may be as feared as disclosure during the client’s lifetime,” Swidler & Berlin, 118 S.Ct. at 2086, so too may disclosures by Secret Service agents after the President leaves office be as feared as disclosures during his incumbency. The privilege in its proposed form does nothing to allay that fear.
+¶28We have still other doubts about both the need for and the efficacy of the proposed privilege. As for need, the greatest danger to the President arises when he is in public, yet the privilege presumably would have its greatest effect when he is in the White House or in private meetings. See United States Dept. of the Treasury, Public Report of the White House Security Review 92 (1995), quoted in Brief of Amici Curiae William P. Barr et al. at 27 n.10 (“Although ... Presidents have been exposed to deadly or life-threatening assaults with frightening regularity, not one of these assaults has occurred within the White House Complex. Indeed, each assassination or potentially deadly assassination attempt has occurred when the Presidential protectee was away from the White House, in the proximity of a crowd”). We note also that Secret Service agents have given testimony in the past about the functioning of the tape recording-system in the Oval Office and that some Secret Service agents have disclosed observations from their protective experiences in books, apparently without causing Presidents to distance themselves from their protectors. As for efficacy, we suspect that even with a protective function privilege in place, conscience might impel a President to distance himself from Secret Service agents when engaging in wrongful conduct, as might a simple desire for privacy at other times.
+¶29Finally, § 535 of the Judicial Code, 28 U.S.C., under which the Independent Counsel exercises the authority of the Attorney General by virtue of 28 U.S.C. § 594(a), militates against recognition of the proposed privilege. Section 535(a) initially authorizes the Attorney General to “investigate any violation of title 18 [the federal criminal code] involving Government officei-s and employees”; § 594(a) transfers that responsibility to the Independent Counsel by giving him, “with respect to all matters in [his] prosecu-torial jurisdiction ... full power and independent authority to exercise all investigative and prosecutorial functions and powers of ... the Attorney General.” The OIC contends that the Independent Counsel stands in the shoes of the Attorney General for purposes of § 535(b)(1) as well. That section provides that any “information, allegation, or complaint received in a department or agency of the executive branch of the Government relating to violations of title 18 involving Government officers and employees shall be expeditiously reported to the Attorney General, unless the responsibility to perform an investigation with respect thereto is specifically assigned otherwise by another provision of law.” Because the Secret Service is an executive branch agency, and because § 594(a) assigns the responsibility for the investigation at issue to the Independent Counsel, the OIC maintains that the statute affirmatively requires Secret Service employees to report any covered information directly to him and hence leaves no room for the assertion of the claimed privilege. The Secret Service disputes this reading. It argues that the “unless” proviso in that section eliminates the reporting requirement once the Attorney General is out of the picture and that, even if it does not, the proposed protective function privilege carves out an exception to the general rule of the statute. We need not resolve this dispute. Whatever the answer, it is apparent that § 535(b) evinces a strong congressional policy that executive branch employees must report information “relating to violations, of title 18 involving Government officers and employees.” That policy weighs against judicial recognition of the privilege proposed here.
+¶30Recalling the Supreme Court’s caution that privileges “are not lightly created nor expansively construed,” Nixon, 418 U.S. at 710, 94 S.Ct. 3090, we are constrained not to recognize any new privilege the need for which is less than “clear and convincing.” Herbert v. *1079Lando, 441 U.S. at 170, 99 S.Ct. 1635. Here the need is fairly disputed, and “[i]n an area where empirical information would be useful, it is scant and inconclusive.” Swidler & Berlin, 118 S.Ct. at 2088. In these circumstances we cannot say that the proposed protective function privilege clearly “promotes sufficiently important interests to outweigh the need for probative evidence” in a criminal investigation. Jaffee, 518 U.S. at 9-10, 116 S.Ct. 1923 (quoting Trammel, 445 U.S. at 51, 100 S.Ct. 906).
+¶31IV. Conclusion
+¶32The Secret Service has failed to carry its heavy burden under Rule 501 of establishing the need for the protective function privilege it sought to assert in this ease. Consequently, we leave to the Congress the question whether a protective function privilege is appropriate in order to ensure the safety of the President and, if so, what the contours of that privilege should be. The order of the district court is therefore affirmed.
+¶33In accordance with the Supreme Court’s expectation that “the Court of Appeals will proceed expeditiously to decide this case,” United States v. Rubin, — U.S. -, 118 S.Ct. 2080, 141 L.Ed.2d 154 (1998), any petition for rehearing or suggestion for rehearing in banc shall be filed within 7 days after the date of this decision.
+¶34It is so ordered.
+SharePrint
+Download
+.txtPDF
+Copy
+URLCitation LinkBluebook
+Embed on your site
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the code
+Cite on WikipediaSearch Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
+Court
+District of Columbia Circuit Court of Appeals
+Panel
+Arthur Raymond Randolph
+Circuit Judge
+GI
+GINSBURG
+Stephen Fain Williams
+Circuit Judge
+PER CURIAM.
+By the court
+Read opinion →
+Counsel
+Stephen W. Preston, Deputy Assistant Attorney General, U.S. Department of Justice, argued the cause for appellant, with whom Janet Reno, Attorney General, Frank W. Hunger, Assistant Attorney General, Mark B. Stern, Michael S. Raab, and Maria Simon, Attorneys, were on the briefs.
+Kenneth W. Starr, Independent Counsel, argued the cause for appellee United States, with whom Michael L. Travers, Associate Independent Counsel, was on the brief.
+Arnold I. Burns and Warren L. Dennis were on the brief for amici curiae in support of the United States Secret Service.
+William P. Barr, Griffin B. Bell, and Jonathan Turley were on the brief for amici curiae former Attorneys General of the United States.
+In the law dictionary
+Defined terms used in this case
+legislative privilege
+/148/f3d/1073 · .json · Public domain
+The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+U.S. Government work · public domain · not legal advice
+With special thanks to
+Browse the record
+Cases
+Code
+Law Dictionary
+Federal Judges
+Courts
+Law Schools
+Named Statutes
+Founding Documents
+Books
+Citation Checker
+For developers + AI agents
+Developers & API
+/llms.txt
+JSON API
+♥ Support OpenJurist
+© 2026 OpenJurist♿ Accessibility
+Accessibility ×
+These preferences are saved in your browser.
+Text size
+A− 100% A+
+High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+Reset to defaults Accessibility statement
+Contact Returns & Refunds Attributions Terms of Use Privacy Policy
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
