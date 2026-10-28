@@ -1,0 +1,53 @@
+{
+  "record": "mitchell_v_united_states_merits_1999-04-05.md",
+  "sha256": "3ccbe5899fde980be6d14d764ab6929b3ad798344729e69a87b5325ec4e1cea6",
+  "event_date": "1999-04-05",
+  "checks": {
+    "four_initial_labels": true,
+    "eleven_public_blocks": true,
+    "privilege_joins": 9,
+    "error_and_relief_joins": 6,
+    "opposing": 3,
+    "lead_author": "Breyer",
+    "prior_counted_leads": 61,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "balance_pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "explanation_words": [
+      125,
+      143,
+      118
+    ],
+    "separate_summary_words": [
+      158,
+      67
+    ],
+    "links_exist": true,
+    "public_workflow_metadata_absent": true,
+    "prohibited_links_absent": true
+  },
+  "inputs_sha256": {
+    "freeze/OT_1998CHUNK6_MITCHELL_RECONCILED.md": "abe55734a7b77ef2f373c0773baee2d33f177eadfe7548cb988ece30b3b47750",
+    "freeze/OT_1998CHUNK6_MITCHELL_RECONCILIATION_RECEIPT.md": "3f0e7e1ea2580ad7fe8d73276ede3d802911d077268e2948620dd9875d2c266f",
+    "runtime/OT_1998CHUNK6_MITCHELL_STONE.md": "9e214f270933ed90baaffff875644c1023b4d1fc17ed8f1b0d7f14b01c965323",
+    "runtime/OT_1998CHUNK6_MITCHELL_ASSEMBLY_SCOPE.md": "11d1ceecbbc16e45ae07478832f8c10d38e9439e1ac20b055fcd10b440034036",
+    "freeze/OT_1998CHUNK6_MITCHELL_RECOUNT.json": "aafee1cadbad3f274c4deb21e00ba63f8eaa15b371b6d73280d7e08f8b2cfe2a"
+  },
+  "remaining": [
+    "Whole-term checking and workspace integration belong to root operator."
+  ],
+  "git": "No operation or commit claimed."
+}

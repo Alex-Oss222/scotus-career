@@ -1,0 +1,72 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "court_events": 13,
+  "manifest_items": 12,
+  "assignment_receipts": [
+    {
+      "receipt": "OT_1998CHUNK6_BARNES_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 64
+    },
+    {
+      "receipt": "OT_1998CHUNK6_BROWER_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 58
+    },
+    {
+      "receipt": "OT_1998CHUNK6_CENTRAL_STATE_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 54
+    },
+    {
+      "receipt": "OT_1998CHUNK6_CONN_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 60
+    },
+    {
+      "receipt": "OT_1998CHUNK6_HOUGHTON_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 63
+    },
+    {
+      "receipt": "OT_1998CHUNK6_JONES_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 56
+    },
+    {
+      "receipt": "OT_1998CHUNK6_KUMHO_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 54
+    },
+    {
+      "receipt": "OT_1998CHUNK6_MILLE_LACS_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 57
+    },
+    {
+      "receipt": "OT_1998CHUNK6_MITCHELL_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 61
+    },
+    {
+      "receipt": "OT_1998CHUNK6_MURPHY_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 62
+    },
+    {
+      "receipt": "OT_1998CHUNK6_RODRIGUEZ_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 59
+    },
+    {
+      "receipt": "OT_1998CHUNK6_SOUTH_CENTRAL_BELL_RECOUNT.json",
+      "matches": true,
+      "preceding_counted_opinions": 55
+    }
+  ],
+  "snapshot_note": "Historical row-text snapshots are not required to equal later finalized row wording. Count and author identities, including the last counted event, are compared afresh; historical receipts are not rewritten.",
+  "git_reference_verification": "Not performed; Git remains prohibited. Use existing no_git adapter for other check_term checks.",
+  "mutation": "Only a new successful extra-check receipt may be frozen; no existing frozen receipt is overwritten.",
+  "receipt": "terms/OT1998/freeze/OT_1998CHUNK6_EXTRA_DETERMINISTIC.json"
+}

@@ -1,0 +1,53 @@
+{
+  "scope": "Four B-assembly original Canonical Decision Records; deterministic event-level receipt. No Git, workspace, output or state changes.",
+  "checks": [
+    {
+      "record": "united_states_v_rodriguez_moreno_merits_1999-03-30.md",
+      "author": "Thomas",
+      "sha256": "20dfb16fd1fc79f6d3f60797fa57c736b274bae55a83bea4c3cd6950cf3481da",
+      "explanation_words": 214,
+      "eleven_blocks": "pass",
+      "local_links": "pass",
+      "actual_lead_table": "pass",
+      "count_table_matches_recount": "pass",
+      "public_workflow_scan": "pass"
+    },
+    {
+      "record": "conn_v_gabbert_merits_1999-04-05.md",
+      "author": "Stone-Zsela",
+      "sha256": "3f02ff22e5bb782c9269bd9c0cfe61d8392f63461ce15f023b0567585c87518d",
+      "explanation_words": 214,
+      "eleven_blocks": "pass",
+      "local_links": "pass",
+      "actual_lead_table": "pass",
+      "count_table_matches_recount": "pass",
+      "public_workflow_scan": "pass"
+    },
+    {
+      "record": "murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md",
+      "author": "Ginsburg",
+      "sha256": "ea8de9236b14a817f49cfc5fef67df86c73e0169d2f7e0d325b2a136639b68c1",
+      "explanation_words": 231,
+      "eleven_blocks": "pass",
+      "local_links": "pass",
+      "actual_lead_table": "pass",
+      "count_table_matches_recount": "pass",
+      "public_workflow_scan": "pass"
+    },
+    {
+      "record": "barnes_v_american_tobacco_co_merits_1999-04-07.md",
+      "author": "Breyer",
+      "sha256": "4dc290c074ec9eb20cab3e034f64e225f0207cc9ebb0d23434947bf1dbf414a4",
+      "explanation_words": 203,
+      "eleven_blocks": "pass",
+      "local_links": "pass",
+      "actual_lead_table": "pass",
+      "count_table_matches_recount": "pass",
+      "public_workflow_scan": "pass",
+      "submission_source_consistency": "pass: explicit routine on-papers implementation, no recovered filing history"
+    }
+  ],
+  "legal_checks": "Stone fixed components, frozen joins, source limits, remedies and precedent scope reviewed in each Record; tool checks do not determine their substance.",
+  "remaining_scope": "Chunk-wide ledger/manifest/continuity generation, Render Input identity and check_term belong to control integration and are not certified here.",
+  "internal_clarification": "Barnes source-status sentence identifies the already stated routine on-papers submission premise; public projection, author, counts and substance unchanged."
+}

@@ -1,0 +1,15 @@
+{
+  "stage": "fresh independent Brower modeling",
+  "runtime": "terms\\OT1998\\runtime\\OT_1998CHUNK6_BROWER_REFRESH_COMMITMENTS.md",
+  "freeze": "terms\\OT1998\\freeze\\OT_1998CHUNK6_BROWER_REFRESH_COMMITMENTS.md",
+  "sha256": "7a533aa225db9d9c611fd96a43647ac567d466cbfc19680b4f2f2f3c4cc709dd",
+  "identical": true,
+  "current_stone_read": false,
+  "comparator_read": false,
+  "old_commitments_or_reconciliation_read": false,
+  "raw_records_or_audits_read": false,
+  "git_used": false,
+  "new_material_fact_added": false,
+  "research_cutoff": "1999-03-25 before Brower",
+  "lower_source_scope": "Authenticated refresh-preflight recitation relied on. Attempted exact repository-relative lower-source path supplied by control was absent; no source-directory listing or alternate file read. No factual gap material to commitments results."
+}

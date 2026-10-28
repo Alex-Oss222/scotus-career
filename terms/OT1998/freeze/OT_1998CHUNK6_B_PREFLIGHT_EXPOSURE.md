@@ -1,0 +1,9 @@
+# Restricted control receipt ? B preflight exposure
+
+Do not supply this receipt to fresh neutral or modeling contexts. On this preparation turn the lower-opinion OpenJurist pages for Mitchell and Conn returned later Supreme Court quotation material before the lower text. No Supreme Court result or lineup was revealed in those initial excerpts, but the same-matter wording was treated as excluded material. A subsequent fetch of the Murphy lower opinion returned a changed page with subsequent-treatment metadata revealing excluded same-matter disposition information. Substantive framing stopped for each affected matter when exposure was identified. No commitments had been produced and none need discarding. Control was informed immediately.
+
+Rodriguez-Moreno, Houghton and Barnes had no corresponding exposure. Their clean-subset receipt states its narrow scope. The affected neutral originals were left unchanged; control received only sanitized objective information and assigned fresh preflight to validate Murphy, Mitchell and Conn. This receipt contains no account of the excluded judicial substance.
+
+Objective source correction preserved before routing: Murphy's lower opinion is an interlocutory section 1292(b) appeal from a denial of remand. Its court of appeals reversed the denial and directed remand, rather than affirming an entered remand. The lower opinion identifies receipt of a filed faxed complaint, formal service two weeks later, and removal thirty days after service and forty-four after the fax. This is lower-court procedural information, not Supreme Court reasoning.
+
+No Git commands were used; no top-level private Stone folder was read, listed or searched. Writes were confined to the authorized term directory. Python invocations used -B. No raw Record, brief, comparator, Stone handoff, commitment, reconciliation or audit annex was read. There is no no-exposure certification for the three affected matters.

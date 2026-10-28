@@ -1,0 +1,69 @@
+
+
+  
+
+  
+
+	
+
+	
+
+SOUTH CENTRAL BELL TELEPHONE CO. V. ALABAMA
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+SOUTH CENTRAL BELL TELEPHONE CO. V. ALABAMA (97-2045) 
+711 So. 2d 1005, reversed and remanded.
+Syllabus
+ Opinion
+ [ Breyer ]Concurrence
+ [ O'Connor ]Concurrence
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+SOUTH CENTRAL BELL TELEPHONE CO. et al. v. ALABAMA et al.
+
+CERTIORARI TO THE SUPREME COURT OF ALABAMA
+
+ 
+No. 97—2045.  Argued January 19, 1999–Decided March 23, 1999
+
+Alabama requires each corporation doing business in that State to pay a franchise tax based on the firm’s capital.  The tax for a domestic firm is based on the par value of the firm’s stock, which the firm may set at a level well below its book or market value.  An out-of-state firm must pay tax based on the value of the actual amount of capital it employs in the State, with no leeway to control its tax base.  Reynolds Metals Company and other corporations sued the state tax authorities, seeking a refund of the foreign franchise tax they had paid on the ground that the tax discriminated against foreign corporations in violation of the Commerce and Equal Protection Clauses.  The State Supreme Court rejected the claims, holding that the special burden imposed on foreign corporations simply offset a different burden imposed exclusively on domestic corporations by Alabama’s domestic shares tax.  Subsequently, South Central Bell Telephone Company and other foreign corporations went to trial in the present suit, asserting similar Commerce and Equal Protection Clause claims, though in respect to different tax years.  The trial court agreed with the Bell plaintiffs that the tax substantially discriminates against foreign corporations, but nonetheless dismissed their claims as barred by res judicata in light of the State Supreme Court’s Reynolds Metals decision.  The State Supreme Court affirmed.
+
+Held:  
+
+    1.  The State’s argument that this Court lacks appellate jurisdiction under the Eleventh Amendment was considered and rejected in McKesson Corp. v. Division of Alcoholic Beverages and Tobacco, Fla. Dept. of Business Regulation, 496 U.S. 18, 30.  That case confirmed a long-established and uniform practice of reviewing state-court decisions on federal matters, regardless of whether the State was the plaintiff or the defendant in the trial court.  E.g., id., at 28.  The Court will not revisit that relatively recent precedent.  Cf. Planned Parenthood of Southeastern Pa. v. Casey, 505 U.S. 833, 854—855.  Pp. 4—6.
+
+      2.  To the extent that the State Supreme Court based its decision on claim or issue preclusion (res judicata or collateral estoppel), that decision is inconsistent with the Fourteenth Amendment’s due process guarantee.  Since Reynolds Metals and this case involve different plaintiffs and tax years, neither is a class action, and no one claims there is privity or some other special relationship between the two sets of plaintiffs, the Bell plaintiffs are “strangers” to the earlier judgment and thus cannot be bound by that judgment.  Richards v. Jefferson County, 517 U.S. 793, 801—802.  That the Bell plaintiffs were aware of the Reynolds Metals litigation and that one of the Reynolds Metals lawyers also represented the Bell plaintiffs created no special representational relationship between the earlier and later plaintiffs.  Nor could these facts have led the Bell plaintiffs to expect to be precluded, as a res judicata matter, by the earlier judgment itself.  Although the Bell plaintiffs, in a letter to the trial court, specifically requested that their case be held in abeyance until Reynolds Metals was decided, the letter was no more than a routine request for continuance and does not distinguish Richards.  Pp. 6—8.
+
+      3.  The state franchise tax on foreign corporations impermissibly discriminates against interstate commerce, in violation of the Commerce Clause.  State law gives domestic corporations the ability to reduce their franchise tax liability simply by reducing the par value of their stock, while it denies foreign corporations that same ability.  The State cannot justify this discrimination on the ground that the tax is a complementary or compensatory tax that offsets the tax burden that the domestic shares tax imposes upon domestic corporations, since the relevant tax burdens are not roughly approximate, nor are they similar in substance.  See, e.g., Oregon Waste Systems, Inc. v. Department of Environmental Quality of Ore., 511 U.S. 93, 103.  Alabama imposes its foreign franchise tax on a foreign firm’s decision to do business in the State; it imposes its domestic shares tax on a certain form of property ownership, namely, shares in domestic corporations.  The State’s invitation to reconsider and abandon the Court’s negative Commerce Clause cases will not be entertained, as the State did not make clear it intended to make this argument until it filed its brief on the merits.  Pp. 8—10.
+
+711 So. 2d 1005, reversed and remanded.
+
+    Breyer, J., delivered the opinion for a unanimous Court.  O’Connor, J., and Thomas, J., filed concurring opinions.
+
+ 
+

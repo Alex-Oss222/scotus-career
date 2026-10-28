@@ -1,0 +1,69 @@
+
+
+  
+
+  
+
+	
+
+	
+
+JONES V. UNITED STATES
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+JONES V. UNITED STATES (97-6203) 
+116 F.3d 1487, reversed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Stevens ]Concurrence
+ [ Scalia ]Dissent
+ [ Kennedy ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+JONES v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 97—6203.  Argued October 5, 1998–Decided March 24, 1999
+
+Petitioner was charged with, inter alia, carjacking, in violation of 18 U.S.C. § 2119 which at the time provided, as relevant here, that a person possessing a firearm who “takes a motor vehicle … from the person or presence of another by force and violence or by intimidation … shall–(1) be … imprisoned not more than 15 years … , (2) if serious bodily injury … results, be … imprisoned not more than 25 years … , and (3) if death results, be … imprisoned for any number of years up to life … .”  The indictment made no reference to §2119’s numbered subsections and charged none of the facts mentioned in the latter two.  Petitioner was told at the arraignment that he faced a maximum 15-year sentence for carjacking, and the jury instructions at his trial defined that offense by reference solely to §2119(1).  After he was found guilty, however, the District Court imposed a 25-year sentence on the carjacking charge because one victim suffered serious bodily injury.  The court rejected petitioner’s objection that serious bodily injury was an element of the offense, which had been neither pleaded in the indictment nor proven before the jury.  In affirming, the Ninth Circuit agreed that §2119(2) set out a sentencing factor, not an element of an independent offense.
+
+Held:  Section 2119 establishes three separate offenses by the specification of elements, each of which must be charged by indictment, proven beyond a reasonable doubt, and submitted to a jury for its verdict.  Pp. 4—25.
+
+    (a)  The superficial impression that §2119’s subsections are only sentencing provisions loses clarity when one looks at subsections (2) and (3), which not only provide for steeply higher penalties, but condition them on further facts (injury, death) that seem quite as important as the elements in the principal paragraph (force, violence, intimidation).  The Government stresses that the numbered subsections do not stand alone in defining offenses, most of whose elements are set out in the statute’s opening paragraph, and that this integrated structure suggests that the statute establishes only a single offense.  The Government also argues that the numbered subsections come after the word “shall,” which often divides offense-defining provisions from those that specify sentences.  A number of countervailing structural considerations, however, weaken those points.  First, if the shorter subsection (2) does not stand alone, neither does §2119’s more voluminous first paragraph, which by itself would merely describe some obnoxious behavior, never actually telling the reader that it is a crime.  Only the numbered subsections complete the thought.  Second, “shall” does not invariably separate offense-defining clauses from sentencing provisions.  Section 2119’s text alone does not justify any confident inference.  Statutory drafting, however, occurs against a backdrop not merely of structural conventions of varying significance, but of traditional treatment of certain categories of important facts, like degree of injury to victims, in relation to particular crimes.  If a statute is unclear about whether it treats a fact as element or penalty aggravator, it makes sense to look at what other statutes have done, since Congress is unlikely to intend any radical departures from past practice without making a point of saying so.  See Almendarez-Torres v. United States, 523 U.S. 224, 230.  Here, a search for comparable examples suggests that Congress had separate and aggravated offenses in mind when it employed numbered subsections in §2119, for it unmistakably identified serious bodily injury or related facts of violence as an offense element in several other federal statutes, including two of the three robbery statutes on which it modeled the carjacking statute.  This conclusion is bolstered by the States’ practice of treating serious bodily injury as an element defining a distinct offense of aggravated robbery.  Neither a 1996 amendment to the statute nor the statute’s legislative history supports the Government’s reading.  Pp. 4—12.
+
+      (b)  The Government’s construction of the statute would raise a serious constitutional question under the Fifth Amendment’s Due Process Clause and the Sixth Amendment’s notice and jury trial guarantees: when a jury determination has not been waived, may judicial factfinding by a preponderance support the application of a provision that increases the potential severity of the penalty for a variant of a given crime?  Although this question has been recognized in a series of cases over the past quarter century, see, e.g., Mullaney v. Wilbur, 412 U.S. 684, it has not been resolved by those cases, see, e.g., Almendarez-Torres v. United States, supra.  Any doubt on the issue of statutory construction should thus be resolved in favor of avoiding the question, under the rule that, “where a statute is susceptible of two constructions, by one of which grave and doubtful constitutional questions arise and by the other of which such questions are avoided, [this Court’s] duty is to adopt the latter.”  United States ex rel. Attorney General v. Delaware & Hudson Co., 213 U.S. 366, 408.  Pp. 12—25.
+
+116 F.3d 1487, reversed and remanded.
+
+    Souter, J., delivered the opinion of the Court, in which Stevens, Scalia, Thomas, and Ginsburg, JJ., joined.  Stevens, J., and Scalia, J., filed concurring opinions.  Kennedy, J., filed a dissenting opinion, in which Rehnquist, C. J., and O’Connor and Breyer, JJ., joined.
+
+ 
+

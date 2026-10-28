@@ -1,0 +1,135 @@
+{
+  "scope": "Two newly assembled March 23, 1999 Records only; no adjudicative choice made by this validator.",
+  "checks": [
+    {
+      "record": "terms/OT1998/records/kumho_tire_v_carmichael_merits_1999-03-23.md",
+      "headers": "pass",
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": "exact",
+      "explanation_word_counts": [
+        122,
+        147,
+        187
+      ],
+      "lead_authors": [
+        "Breyer"
+      ],
+      "opinion_coalitions": [
+        {
+          "writing": "Opinion of the Court, Parts I–II",
+          "author": "Breyer",
+          "votes": 9,
+          "members": [
+            "Breyer",
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ]
+        },
+        {
+          "writing": "Opinion of the Court, Part III",
+          "author": "Breyer",
+          "votes": 7,
+          "members": [
+            "Breyer",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ]
+        }
+      ],
+      "judgment_arithmetic": [
+        [
+          8,
+          1
+        ],
+        [
+          7,
+          2
+        ]
+      ],
+      "public_workflow_metadata_scan": "pass",
+      "natural_key": "pass"
+    },
+    {
+      "record": "terms/OT1998/records/south_central_bell_v_alabama_merits_1999-03-23.md",
+      "headers": "pass",
+      "public_blocks": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "holdings_identity": "exact",
+      "explanation_word_counts": [
+        88,
+        139,
+        122,
+        97,
+        71,
+        148
+      ],
+      "lead_authors": [
+        "Stone-Zsela"
+      ],
+      "opinion_coalitions": [
+        {
+          "writing": "Opinion of the Court, Parts I–V",
+          "author": "Stone-Zsela",
+          "votes": 9,
+          "members": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ]
+        }
+      ],
+      "judgment_arithmetic": [
+        [
+          9,
+          0
+        ]
+      ],
+      "public_workflow_metadata_scan": "pass",
+      "natural_key": "pass"
+    }
+  ],
+  "assignment_receipts": [
+    "freeze/OT_1998CHUNK6_KUMHO_RECOUNT.json",
+    "freeze/OT_1998CHUNK6_SOUTH_CENTRAL_BELL_RECOUNT.json"
+  ],
+  "term_wide_checks": "Pending root operator coordinated projection and check_term; no Git operation performed."
+}

@@ -1,0 +1,71 @@
+
+
+  
+
+  
+
+	
+
+	
+
+MITCHELL V. UNITED STATES
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+MITCHELL V. UNITED STATES (97-7541) 
+122 F.3d 185, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Scalia ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+MITCHELL v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+
+ 
+No. 97—7541.  Argued December 9, 1998–Decided April 5, 1999
+
+Petitioner pleaded guilty to federal charges of conspiring to distribute five or more kilograms of cocaine and of distributing cocaine, but reserved the right to contest at sentencing the drug quantity attributable under the conspiracy count.  Before accepting her plea, the District Court made the inquiries required by Federal Rule of Criminal Procedure 11; told petitioner that she faced a mandatory minimum of 1 year in prison for distributing cocaine, but a 10-year minimum for conspiracy if the Government could show the required 5 kilograms; and explained that by pleading guilty she would be waiving, inter alia, her right “at trial to remain silent.”  Indicating that she had done “some of ” the proffered conduct, petitioner confirmed her guilty plea.  At her sentencing hearing, three codefendants testified that she had sold 1½ to 2 ounces of cocaine twice a week for 1½ years, and another person testified that petitioner had sold her two ounces of cocaine.  Petitioner put on no evidence and argued that the only reliable evidence showed that she had sold only two ounces of cocaine.  The District Court ruled that as a consequence of petitioner’s guilty plea, she had no right to remain silent about her crime’s details; found that the codefendants’ testimony put her over the 5-kilogram threshold, thus mandating the 10-year minimum; and noted that her failure to testify was a factor in persuading the court to rely on the codefendants’ testimony.  The Third Circuit affirmed.  
+
+Held:
+
+    1.  In the federal criminal system, a guilty plea does not waive the self-incrimination privilege at sentencing.  Pp. 6—12.
+
+          (a)  The well-established rule that a witness, in a single proceeding, may not testify voluntarily about a subject and then invoke the privilege against self-incrimination when questioned about the details is justified by the fact that a witness may not pick and choose what aspects of a particular subject to discuss without casting doubt on the statements’ trustworthiness and diminishing the factual inquiry’s integrity.  The privilege is waived for matters to which the witness testifies, and the waiver’s scope is determined by the scope of relevant cross-examination.  Brown v. United States, 356 U.S. 148, 154.  The concerns justifying cross-examination at trial are absent at a plea colloquy, which protects the defendant from an unintelligent or involuntary plea.  There is no convincing reason why the narrow inquiry at this stage should entail an extensive waiver of the privilege.  A defendant who takes the stand cannot reasonably claim immunity on the matter he has himself put in dispute, but the defendant who pleads guilty takes matters out of dispute, leaving little danger that the court will be misled by selective disclosure.  Here, petitioner’s “some of ” statement did not pose a threat to the factfinding proceeding’s integrity, for the purpose of the District Court’s inquiry was simply to ensure that she understood the charges and there was a factual basis for the Government’s case.  Nor does Rule 11 contemplate a broad waiver.  Its purpose is to inform the defendant of what she loses by forgoing a trial, not to elicit a waiver of privileges that exist beyond the trial’s confines.  Treating a guilty plea as a waiver of the privilege would be a grave encroachment on defendants’ rights.  It would allow prosecutors to indict without specifying a drug quantity, obtain a guilty plea, and then put the defendant on the stand at sentencing to fill in the quantity.  To enlist a defendant as an instrument of his or her own condemnation would undermine the long tradition and vital principle that criminal proceedings rely on accusations proved by the Government, not on inquisitions conducted to enhance its own prosecutorial power.  Rogers v. Richmond, 365 U.S. 534, 541.  Pp. 6—10.
+
+          (b)  Where a sentence has yet to be imposed, this Court has already rejected the proposition that incrimination is complete once guilt has been adjudicated.  See Estelle v. Smith, 451 U.S. 454, 462.  That proposition applies only to cases in which the sentence has been fixed and the judgment of conviction has become final.  See, e.g., Reina v. United States, 364 U.S. 507, 513.  Before sentencing a defendant may have a legitimate fear of adverse consequences from further testimony, and any effort to compel that testimony at sentencing “clearly would contravene the Fifth Amendment,” Estelle, supra, at 463.  Estelle was a capital case, but there is no reason not to apply its principle to noncapital sentencing hearings.  The Fifth Amendment prevents a person from being compelled in any criminal case to be a witness against himself.  To maintain that sentencing proceedings are not part of “any criminal case” is contrary to the Federal Rules of Criminal Procedure and to common sense.  Pp. 10—12.
+
+      2.  A sentencing court may not draw an adverse inference from a defendant’s silence in determining facts relating to the circumstances and details of the crime.  The normal rule in a criminal case permits no negative inference from a defendant’s failure to testify.  See Griffin v. California, 380 U.S. 609, 614.  A sentencing hearing is part of the criminal case, and the concerns mandating the rule against negative inferences at trial apply with equal force at sentencing.  This holding is a product not only of Griffin but also of Estelle’s conclusion that there is no basis for distinguishing between a criminal case’s guilt and sentencing phases so far as the protection of the Fifth Amendment privilege is concerned.  There is little doubt that the rule against adverse inferences has become an essential feature of the Nation’s legal tradition, teaching that the Government must prove its allegations while respecting the defendant’s individual rights.  The Court expresses no opinion on the questions whether silence bears upon the determination of lack of remorse, or upon acceptance of responsibility for the offense for purposes of a downward adjustment under the United States Sentencing Guidelines.  Pp. 12—16.
+
+122 F.3d 185, reversed and remanded.
+
+    Kennedy, J., delivered the opinion of the Court, in which Stevens, Souter, Ginsburg, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Rehnquist, C. J., and O’Connor and Thomas, JJ., joined.  Thomas, J., filed a dissenting opinion.
+
+ 
+

@@ -1,0 +1,37 @@
+{
+  "record": "brower_v_washington_merits_1999-03-25.md",
+  "sha256": "547a18b0482a8f4f3ee83f991244782c340dd05730800d3fceb1fce869f949b4",
+  "lead_author": "Kennedy",
+  "judgment": "9–0 on all three federal components",
+  "count_before": {
+    "Stone-Zsela": 6,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 6,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "last_counted": "minnesota_v_mille_lacs_band_merits_1999-03-24.md",
+  "eligible_and_pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "explanation_words": [
+    175,
+    153,
+    145
+  ],
+  "git_used": false,
+  "fallback_used": false,
+  "associate_commitments_changed": false
+}

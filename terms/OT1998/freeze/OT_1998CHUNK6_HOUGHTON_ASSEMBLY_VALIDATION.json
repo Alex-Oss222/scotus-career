@@ -1,0 +1,76 @@
+{
+  "scope": "Houghton original Canonical Decision Record after root-confirmed Murphy completion and fresh chronological recount.",
+  "record": "terms/OT1998/records/wyoming_v_houghton_merits_1999-04-05.md",
+  "sha256": "6ef7645d448f58250ddd4adf18f4fa5855814e08d31f65a867d659532e92d410",
+  "headers": "pass",
+  "public_block_order": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": "exact",
+  "explanation_word_counts": [
+    173
+  ],
+  "judgment": [
+    5,
+    4
+  ],
+  "full_lead_coalition": [
+    "Breyer",
+    "Kennedy",
+    "O'Connor",
+    "Scalia",
+    "Thomas"
+  ],
+  "common_dissent": [
+    "Ginsburg",
+    "Souter",
+    "Stevens",
+    "Stone-Zsela"
+  ],
+  "lead_author": "O'Connor",
+  "dissent_author": "Stevens",
+  "assignment_counts": {
+    "Stone-Zsela": 7,
+    "Stevens": 7,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 7,
+    "Souter": 7,
+    "Thomas": 7,
+    "Ginsburg": 7,
+    "Breyer": 7
+  },
+  "eligible_pool": [
+    "Breyer",
+    "Kennedy",
+    "O'Connor",
+    "Scalia",
+    "Thomas"
+  ],
+  "last_counted": {
+    "record": "murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md",
+    "date": "1999-04-05",
+    "case": "Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.",
+    "authors": [
+      "Ginsburg"
+    ],
+    "rows": [
+      "| Opinion of the Court | Ginsburg | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Breyer | Reversal and remand | Complete service-linked two-branch rule, shorter-period direction, limits and remedy |"
+    ]
+  },
+  "factual_chronology_and_scope": "Vehicle probable cause from syringe/admission; ownership before intrusion; false identity and later discoveries excluded as retrospective justification.",
+  "stone_core": "Common proposed modification and suppression, effect-or-passenger nexus and independent grounds preserved; not Court law.",
+  "public_metadata_scan": "pass",
+  "pending_markers": "none",
+  "term_wide_checks": "Pending root coordinated projections, Render Input and check_term; no Git operation."
+}

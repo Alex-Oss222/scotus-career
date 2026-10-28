@@ -1,0 +1,155 @@
+{
+  "status": "PASS",
+  "errors": [],
+  "events": [
+    {
+      "file": "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "date": "1999-03-22",
+      "case": "Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.",
+      "result": "Certiorari granted on the federal equal-protection question. The poll is not disclosed.",
+      "sha256": "840318f316737163a98ee1a76c12b20a58eb7272387e61c2e90acc6ea641f64d"
+    },
+    {
+      "file": "central_state_university_v_aaup_summary_merits_1999-03-22.md",
+      "date": "1999-03-22",
+      "case": "Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.",
+      "result": "Federal equal-protection judgment reversed and remanded, 8–1; Stevens opposes summary disposition without taking a final merits position.",
+      "sha256": "62eaee3d69c7c035e071b9e2c4f2952d3819ac7c8d590bd12c3ef3bb3b6b4adb"
+    },
+    {
+      "file": "kumho_tire_v_carmichael_merits_1999-03-23.md",
+      "date": "1999-03-23",
+      "case": "Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.",
+      "result": "Reversed and remanded: formal reversal 8–1; eight Justices support permissible exclusion, with Stevens reserving application; conforming summary-judgment remand 7–2; common Rule 702 and review rules unanimous.",
+      "sha256": "3c351724146eb1ee1dc54b739258a41edec47360f8f1418436153b99bb26b8f6"
+    },
+    {
+      "file": "south_central_bell_v_alabama_merits_1999-03-23.md",
+      "date": "1999-03-23",
+      "case": "South Central Bell Telephone Co. v. Alabama; No. 97-2045; OT1998.",
+      "result": "Eleventh Amendment objection rejected; preclusion and Commerce Clause judgments reversed; remanded for constitutionally adequate state relief, 9–0.",
+      "sha256": "e17b051216a44c80b12d22e3e056a5176fc9d20b0b58dfd03f247bec227a4a49"
+    },
+    {
+      "file": "jones_v_united_states_merits_1999-03-24.md",
+      "date": "1999-03-24",
+      "case": "Jones v. United States; No. 97-6203; OT1998.",
+      "result": "Reversed insofar as the reviewed judgment authorizes the injury-based aggravated sentence; sentence vacated and remanded, 6–3, on statutory grounds.",
+      "sha256": "90dc6203f109a14180481c4615fbc1afbff8ce91395b26ae9f3066a04b700229"
+    },
+    {
+      "file": "minnesota_v_mille_lacs_band_merits_1999-03-24.md",
+      "date": "1999-03-24",
+      "case": "Minnesota v. Mille Lacs Band of Chippewa Indians; No. 97-1337.",
+      "result": "Affirmed, 6–3. The bounded 1850-order, 1855-treaty, statehood and remedy holdings each command six direct joins.",
+      "sha256": "efd8f3c7a1d570f01bffabbf4a0cd627307d2eb78dc531e5eda2d436de4594a1"
+    },
+    {
+      "file": "brower_v_washington_merits_1999-03-25.md",
+      "date": "1999-03-25",
+      "case": "Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.",
+      "result": "Affirmed on all presented federal components, 9–0.",
+      "sha256": "8a1ea514a3df110ec5a12cd5052433144e78b7ef8b5933536064b9e4c0fb9b7d"
+    },
+    {
+      "file": "united_states_v_rodriguez_moreno_merits_1999-03-30.md",
+      "date": "1999-03-30",
+      "case": "United States v. Rodriguez-Moreno, No. 97-1139.",
+      "result": "reverse and remand, 7–2; restore the §924(c) conviction and its sentence subject to genuinely unresolved, properly available claims.",
+      "sha256": "20dfb16fd1fc79f6d3f60797fa57c736b274bae55a83bea4c3cd6950cf3481da"
+    },
+    {
+      "file": "conn_v_gabbert_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Conn v. Gabbert, No. 97-1802; judgment below, 131 F.3d 793.",
+      "result": "reverse the reviewed occupational-liberty ruling and remand, 9–0; the separately pleaded Fourth Amendment claim retains its existing procedural position.",
+      "sha256": "3f02ff22e5bb782c9269bd9c0cfe61d8392f63461ce15f023b0567585c87518d"
+    },
+    {
+      "file": "mitchell_v_united_states_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Mitchell v. United States; No. 97-7541; OT1998.",
+      "result": "Sentencing judgment reversed, sentence vacated and remanded, 6–3; guilty pleas undisturbed.",
+      "sha256": "3ccbe5899fde980be6d14d764ab6929b3ad798344729e69a87b5325ec4e1cea6"
+    },
+    {
+      "file": "murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.",
+      "result": "reverse and remand, 7–2; the courtesy fax did not start the §1446(b) period, and this removal was timely.",
+      "sha256": "ea8de9236b14a817f49cfc5fef67df86c73e0169d2f7e0d325b2a136639b68c1"
+    },
+    {
+      "file": "wyoming_v_houghton_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Wyoming v. Houghton; No. 98-184.",
+      "result": "Reversed and remanded, 5–4, under the existing object-based automobile exception.",
+      "sha256": "6ef7645d448f58250ddd4adf18f4fa5855814e08d31f65a867d659532e92d410"
+    },
+    {
+      "file": "barnes_v_american_tobacco_co_merits_1999-04-07.md",
+      "date": "1999-04-07",
+      "case": "Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.",
+      "result": "affirm the reviewed Rule 23(b)(2) certification denial, 9–0; the separate named-plaintiff judgments remain undisturbed without a new merits adjudication.",
+      "sha256": "4dc290c074ec9eb20cab3e034f64e225f0207cc9ebb0d23434947bf1dbf414a4"
+    }
+  ],
+  "protected_prior_files_verified": 83,
+  "relative_links_checked": 72,
+  "explanation_word_counts": {
+    "barnes_v_american_tobacco_co_merits_1999-04-07.md": [
+      203
+    ],
+    "brower_v_washington_merits_1999-03-25.md": [
+      175,
+      153,
+      145
+    ],
+    "central_state_university_v_aaup_certiorari_1999-03-22.md": [],
+    "central_state_university_v_aaup_summary_merits_1999-03-22.md": [
+      134
+    ],
+    "conn_v_gabbert_merits_1999-04-05.md": [
+      214
+    ],
+    "jones_v_united_states_merits_1999-03-24.md": [
+      202,
+      185
+    ],
+    "kumho_tire_v_carmichael_merits_1999-03-23.md": [
+      122,
+      147,
+      96,
+      151
+    ],
+    "minnesota_v_mille_lacs_band_merits_1999-03-24.md": [
+      128,
+      125,
+      110,
+      70
+    ],
+    "mitchell_v_united_states_merits_1999-04-05.md": [
+      125,
+      143,
+      118
+    ],
+    "murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md": [
+      231
+    ],
+    "south_central_bell_v_alabama_merits_1999-03-23.md": [
+      88,
+      139,
+      122,
+      97,
+      148
+    ],
+    "united_states_v_rodriguez_moreno_merits_1999-03-30.md": [
+      214
+    ],
+    "wyoming_v_houghton_merits_1999-04-05.md": [
+      173
+    ]
+  },
+  "git_verification": "Not performed: operator prohibition.",
+  "public_render": "Not requested; no chunk6 output generated."
+}

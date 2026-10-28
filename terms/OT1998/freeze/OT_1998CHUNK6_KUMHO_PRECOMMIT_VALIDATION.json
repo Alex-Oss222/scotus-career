@@ -1,0 +1,165 @@
+{
+  "scope": "Final precommit validation of this same Run's Kumho component refinement; no new assignment or change to a completed baseline adjudication.",
+  "record": "terms/OT1998/records/kumho_tire_v_carmichael_merits_1999-03-23.md",
+  "sha256": "3c351724146eb1ee1dc54b739258a41edec47360f8f1418436153b99bb26b8f6",
+  "headers": "pass",
+  "public_block_order": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": "exact",
+  "explanation_word_counts": [
+    122,
+    147,
+    96,
+    151
+  ],
+  "opinion_components": [
+    {
+      "writing": "Opinion of the Court, Parts I–II",
+      "author": "Breyer",
+      "members": [
+        "Breyer",
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": 9
+    },
+    {
+      "writing": "Opinion of the Court, Part III-A",
+      "author": "Breyer",
+      "members": [
+        "Breyer",
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": 8
+    },
+    {
+      "writing": "Opinion of the Court, Part III-B",
+      "author": "Breyer",
+      "members": [
+        "Breyer",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "support": 7
+    }
+  ],
+  "judgment_components": [
+    {
+      "component": "Formal disposition of the Eleventh Circuit judgment",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing_or_reserving": [
+        "Stevens"
+      ],
+      "count": [
+        8,
+        1
+      ]
+    },
+    {
+      "component": "Permissibility of rejecting the unsupported defect inference",
+      "support": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing_or_reserving": [
+        "Stevens"
+      ],
+      "count": [
+        8,
+        1
+      ]
+    },
+    {
+      "component": "Operative remand",
+      "support": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing_or_reserving": [
+        "Stone-Zsela",
+        "Stevens"
+      ],
+      "count": [
+        7,
+        2
+      ]
+    }
+  ],
+  "stone_conditional_remedy": "preserved",
+  "public_metadata_scan": "pass",
+  "single_counted_author": "Breyer",
+  "pre_kumho_counts": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 7,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 6,
+    "Breyer": 5
+  },
+  "pre_south_central_bell_counts": {
+    "Stone-Zsela": 5,
+    "Stevens": 6,
+    "O'Connor": 7,
+    "Scalia": 6,
+    "Kennedy": 6,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "original_recount_receipts_preserved": true,
+  "assignment_snapshot_note": "The South Central Bell recount retains its original pre-refinement Kumho row snapshots. Their author remains Breyer, counted once. The application-and-mandate row is now represented by two component rows; this validation preserves the original receipt and verifies unchanged authorship and all nine assignment counts.",
+  "legal_review_basis": "audit/OT_1998CHUNK6_EARLY_INDEPENDENT_REVIEW.md, item 1; root-authorized precommit refinement.",
+  "no_git_operation": true,
+  "term_wide_checks": "Root coordinated projection and check_term still required."
+}

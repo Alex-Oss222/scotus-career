@@ -1,0 +1,15 @@
+{
+  "stage": "fresh independent Jones modeling",
+  "runtime": "terms\\OT1998\\runtime\\OT_1998CHUNK6_JONES_REFRESH_COMMITMENTS.md",
+  "freeze": "terms\\OT1998\\freeze\\OT_1998CHUNK6_JONES_REFRESH_COMMITMENTS.md",
+  "sha256": "70d7d9b4f392931bcafe8d1ef73606e2492cd720beff8c95bcee07f17dd9e0eb",
+  "identical": true,
+  "current_stone_read": false,
+  "comparator_read": false,
+  "old_commitments_or_reconciliation_read": false,
+  "raw_records_or_audits_read": false,
+  "git_used": false,
+  "new_material_fact_added": false,
+  "research_cutoff": "1999-03-24 before Jones",
+  "preceding_law_notice": "Control reports effective public acts through March 23: Central State applies existing rational basis; Kumho and South Central Bell do not alter the Jones classification authorities. No raw Records read."
+}

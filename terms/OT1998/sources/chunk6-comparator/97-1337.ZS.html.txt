@@ -1,0 +1,70 @@
+
+
+  
+
+  
+
+	
+
+	
+
+MINNESOTA V. MILLE LACS BAND OF CHIPPEWAINDIANS
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+MINNESOTA V. MILLE LACS BAND OF CHIPPEWAINDIANS (97-1337) 
+124 F.3d 904, affirmed.
+Syllabus
+ Opinion
+ [ O’Connor ]Dissent
+ [ Rehnquist ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+MINNESOTA et al. v. MILLE LACS BAND OF
+CHIPPEWA INDIANS et al. 
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+ 
+No. 97—1337.  Argued December 2, 1998–Decided March 24, 1999
+
+Pursuant to an 1837 Treaty, several Chippewa Bands ceded land in present-day Minnesota and Wisconsin to the United States.  The United States, in turn, guaranteed to the Indians certain hunting, fishing, and gathering rights on the ceded land “during the pleasure of the President of the United States.”  In an 1850 Executive Order, President Taylor ordered the Chippewa’s removal from the ceded territory and revoked their usufructuary rights.  The United States ultimately abandoned its removal policy, but its attempts to acquire Chippewa lands continued.  An 1855 Treaty set aside lands as reservations for the Mille Lacs Band, but made no mention of, among other things, whether it abolished rights guaranteed by previous treaties.  Minnesota was admitted to the Union in 1858.  In 1990, the Mille Lacs Band and several members sued Minnesota, its Department of Natural Resources, and state officials (collectively State), seeking, among other things, a declaratory judgment that they retained their usufructuary rights and an injunction to prevent the State’s interference with those rights.  The United States and several counties and landowners intervened.  In later stages of the case, several Wisconsin Bands of Chippewa intervened and the District Court consolidated the Mille Lacs Band litigation with the portion of another suit involving usufructuary rights under the 1837 Treaty.  The District Court ultimately concluded that the Chippewa retained their usufructuary rights under the 1837 Treaty and resolved several resource allocation and regulation issues.  The Eighth Circuit affirmed.  As relevant here, it rejected the State’s argument that the 1850 Executive Order abrogated the usufructuary rights guaranteed by the 1837 Treaty, concluded that the 1855 Treaty did not extinguish those privileges for the Mille Lacs Band, and rejected the State’s argument that, under the “equal footing doctrine,” Minnesota’s entrance into the Union extinguished any Indian treaty rights.
+
+Held:  The Chippewa retain the usufructuary rights guaranteed to them by the 1837 Treaty.  Pp. 15—35.
+
+    (a)  The 1850 Executive Order was ineffective to terminate Chippewa usufructuary rights.  The President’s power to issue an Executive Order must stem either from an Act of Congress or from the Constitution itself.  Youngstown Sheet & Tube Co. v. Sawyer, 343 U.S. 579, 585.  The Court of Appeals concluded that the 1830 Removal Act did not authorize the removal order, and no party challenges that conclusion here.  Even if the 1830 Removal Act did not forbid the removal order, it did not authorize the order.  There is no support for the landowners’ claim that the 1837 Treaty authorized the removal order.  The Treaty made no mention of removal, and the issue was not discussed during Treaty negotiations.  The Treaty’s silence is consistent with the United States’ objectives in negotiating the Treaty: the purchase of Chippewa land.  The State argues that, even if the order’s removal portion was invalid, the Treaty privileges were nevertheless revoked because the invalid removal order was severable from the portion of the order revoking usufructuary rights.  Assuming, arguendo, that the severability standard for statutes–whether the legislature would not have taken the valid action independently of the invalid action, e.g., Champlin Refining Co. v. Corporation Comm’n of Okla., 286 U.S. 210, 234–also applies to Executive Orders, the historical evidence indicates that President Taylor intended the 1850 order to stand or fall as a whole.  That order embodied a single, coherent policy, the primary purpose of which was the Chippewa’s removal.  The revocation of usufructuary rights was an integral part of this policy, for the order tells the Indians to “go” and not to return to the ceded lands to hunt or fish.  There is also little historical evidence that the Treaty privileges themselves–rather than the Indians’ presence–caused problems necessitating revocation of the privileges.  Pp. 15—21.
+
+      (b)  The Mille Lacs Band did not relinquish its 1837 Treaty rights in the 1855 Treaty by agreeing to “fully and entirely relinquish and convey to the United States, any and all right, title, and interest, of whatsoever nature the same may be, which they may now have in, and to any other lands in the Territory of Minnesota or elsewhere.”  That sentence does not mention the 1837 Treaty or hunting, fishing, and gathering rights.  In fact, the entire 1855 Treaty is devoid of any language expressly mentioning usufructuary rights or providing money for abrogation of those rights.  These are telling omissions, since federal treaty drafters had the sophistication and experience to use express language when abrogating treaty rights.  The historical record, purpose, and context of the negotiations all support the conclusion that the 1855 Treaty was designed to transfer Chippewa land to the United States, not terminate usufructuary rights.  Oregon Dept. of Fish and Wildlife v. Klamath Tribe, 473 U.S. 753, distinguished.  Pp. 21—29.
+
+      (c)  The Chippewa’s usufructuary rights were not extinguished when Minnesota was admitted to the Union.  Congress must clearly express an intent to abrogate Indian treaty rights, United States v. Dion, 476 U.S. 734, 734—740, and there is no clear evidence of such an intent here.  The State concedes that Minnesota’s enabling Act is silent about treaty rights and points to no legislative history describing the Act’s effect on such rights.  The State’s reliance on Ward v. Race Horse, 163 U.S. 504, is misplaced.  The Court’s holding that a Treaty reserving to a Tribe “ ‘the right to hunt on the unoccupied lands of the United States, so long as game may be found thereon, and so long as peace subsists among the whites and Indians on the borders of the hunting districts’ ” terminated when Wyoming became a State, id., at 507, has been qualified by this Court’s later decisions.  The first part of the Race Horse holding–that the Treaty rights conflicted irreconcilably with state natural resources regulation such that they could not survive Wyoming’s admission to the Union on an “equal footing” with the 13 original States–rested on a false premise, for this Court has subsequently made clear that a tribe’s treaty rights to hunt, fish, and gather on state land can coexist with state natural resources management, see, e.g., Washington v. Washington State Commercial Passenger Fishing Vessel Assn., 443 U.S. 658.  Thus, statehood by itself is insufficient to extinguish such rights.  Race Horse’s alternative holding–that the Treaty rights at issue were not intended to survive Wyoming’s statehood–also does not help the State here.  There is no suggestion in the 1837 Treaty that the Senate intended the rights here to terminate when a State was established in the area; there is no fixed termination point contemplated in that Treaty; and treaty rights are not impliedly terminated at statehood, e.g., Wisconsin v. Hitchcock, 201 U.S. 202, 213—214.  Pp. 29—35.
+
+124 F.3d 904, affirmed.
+
+    O’Connor, J., delivered the opinion of the Court, in which Stevens, Souter, Ginsburg, and Breyer, JJ., joined.  Rehnquist, C. J., filed a dissenting opinion, in which Scalia, Kennedy, and Thomas, JJ., joined.  Thomas, J., filed a dissenting opinion.
+
+ 
+

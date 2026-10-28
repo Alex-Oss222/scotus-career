@@ -1,0 +1,64 @@
+{
+  "stage": "neutral preflight only",
+  "status": "ready for fresh independent modeling",
+  "mode": "isolated context; no current or prior private Stone, comparator, commitment, reconciliation, raw Record or audit read",
+  "historical_exposure": "No matter-specific historical Supreme Court disposition, rationale or lineup received. Objective dates and controlled neutral Kumho record only.",
+  "scope": "First six matters, Central State through Brower; events March 22-25, 1999",
+  "source_cutoff": "Each scheduled event date; current public projection through March 17, 1999",
+  "mechanical_packet_identity": true,
+  "forbidden_links": false,
+  "git_used": false,
+  "models_produced": false,
+  "artifacts": [
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL.md",
+      "sha256": "c884f2680d78d645f2096b32d31d792f61e4578882b09d28f77d84869929daea",
+      "bytes": 36325
+    },
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
+      "sha256": "bd7280f8fbc37b8c5e2043e7acd05f6162fd260d6da31d2a894fe40543adc6b8",
+      "bytes": 31617
+    },
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_KUMHO_OBJECTIVE_RECORD.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_KUMHO_OBJECTIVE_RECORD.md",
+      "sha256": "a63a09d33c938b71e346d4493d2724765d7e911be30dd9abc1076402da73693e",
+      "bytes": 8827
+    },
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_OBJECTIVE_HEADERS.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_OBJECTIVE_HEADERS.md",
+      "sha256": "989737a45c70a58a50515e60cef13de582bd679ce2fc7b059b1bfeb322f6fc11",
+      "bytes": 771
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
+      "sha256": "c4ef662d2e5fe93bd4fe093387a711fed1c894e9552a2b36f97cce78f9b857e5",
+      "bytes": 76177
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
+      "sha256": "ef92efea31bcae7cbde9612f105c4e87cb288bb1c75d34e29e4cd0fc79caa1a7",
+      "bytes": 34193
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
+      "sha256": "1809d7f19e600a782f1a23b8ca7dd803cc0027ddd315f6a07fd9a76af2f06dcb",
+      "bytes": 18556
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
+      "sha256": "841ee4d088ef7a407c3e163b92db1000c299f44bd91d72fd6d9cd3a48b6b5ddd",
+      "bytes": 53023
+    }
+  ],
+  "neutral_projection_sha256": "77672df337d04d9022a4677ef92514010be22010d7bf34591ea0dbdca2b2687f",
+  "large_tool_generated_slice_sha256": "ea46ebeb71f51d366163887ddfba5d6a2a0242d04914288f3eacae19e102653d"
+}

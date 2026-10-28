@@ -1,0 +1,78 @@
+{
+  "scope": "Mille Lacs original Canonical Decision Record, after completed Jones and fresh chronological recount.",
+  "record": "terms/OT1998/records/minnesota_v_mille_lacs_band_merits_1999-03-24.md",
+  "sha256": "efd8f3c7a1d570f01bffabbf4a0cd627307d2eb78dc531e5eda2d436de4594a1",
+  "headers": "pass",
+  "public_block_order": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": "exact",
+  "explanation_word_counts": [
+    128,
+    125,
+    110,
+    70
+  ],
+  "judgment": [
+    6,
+    3
+  ],
+  "full_lead_coalition": [
+    "Breyer",
+    "Ginsburg",
+    "O'Connor",
+    "Souter",
+    "Stevens",
+    "Stone-Zsela"
+  ],
+  "common_dissent": [
+    "Kennedy",
+    "Scalia",
+    "Thomas"
+  ],
+  "additional_thomas_writing": "one author, no additional join",
+  "lead_author": "Stevens",
+  "assignment_counts": {
+    "Stone-Zsela": 6,
+    "Stevens": 6,
+    "O'Connor": 7,
+    "Scalia": 7,
+    "Kennedy": 6,
+    "Souter": 7,
+    "Thomas": 6,
+    "Ginsburg": 6,
+    "Breyer": 6
+  },
+  "eligible_pool": [
+    "Breyer",
+    "Ginsburg",
+    "O'Connor",
+    "Souter",
+    "Stevens",
+    "Stone-Zsela"
+  ],
+  "last_counted": {
+    "record": "jones_v_united_states_merits_1999-03-24.md",
+    "date": "1999-03-24",
+    "case": "Jones v. United States; No. 97-6203; OT1998.",
+    "authors": [
+      "Scalia"
+    ],
+    "rows": [
+      "| Opinion of the Court, Parts I–II | Scalia | Stone-Zsela, Stevens, Souter, Thomas, Ginsburg | Reversal, sentence vacatur and bounded remand | Statutory grades; ordinary element safeguards; existing-conviction maximum and remedy |"
+    ]
+  },
+  "public_metadata_scan": "pass",
+  "pending_markers": "none",
+  "term_wide_checks": "Pending root coordinated projections, Render Input and check_term; no Git operation."
+}

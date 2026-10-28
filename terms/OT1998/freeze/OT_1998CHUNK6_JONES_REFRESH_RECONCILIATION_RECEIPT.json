@@ -1,0 +1,88 @@
+﻿{
+    "stage":  "Jones refreshed historical reconciliation",
+    "event_date":  "1999-03-24",
+    "runtime":  "terms\\OT1998\\runtime\\OT_1998CHUNK6_JONES_REFRESH_RECONCILED.md",
+    "freeze":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_JONES_REFRESH_RECONCILED.md",
+    "sha256":  "748AB9432A4CF88121806FC5F92FB6FA93BCDB9AC88212C94ED0D411615CC5F6",
+    "byte_identical":  true,
+    "inputs":  [
+                   {
+                       "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_JONES_REFRESH_COMMITMENTS.md",
+                       "sha256":  "70D7D9B4F392931BCAFE8D1EF73606E2492CD720BEFF8C95BCEE07F17DD9E0EB"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_JONES_REFRESH_PREFLIGHT.md",
+                       "sha256":  "CEA672825173D46CE430472440DAAE736D589D43260736BB9D3DFCC132BE3613"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_A_NEUTRAL.md",
+                       "sha256":  "C884F2680D78D645F2096B32D31D792F61E4578882B09D28F77D84869929DAEA"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md",
+                       "sha256":  "BD7280F8FBC37B8C5E2043E7ACD05F6162FD260D6DA31D2A894FE40543ADC6B8"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\runtime\\OT_1998CHUNK6_A_COMPARATOR.md",
+                       "sha256":  "54F6B36242EC06EB34665355C984CDB49B04B1E53656C2276E5BC3A327CC1720"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_SELECTED_HOLDINGS.md",
+                       "sha256":  "C4EF662D2E5FE93BD4FE093387A711FED1C894E9552A2B36F97CCE78F9B857E5"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_SELECTED_STANDARDS.md",
+                       "sha256":  "EF92EFEA31BCAE7CBDE9612F105C4E87CB288BB1C75D34E29E4CD0FC79CAA1A7"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_PUBLISHED_POSITIONS.md",
+                       "sha256":  "1809D7F19E600A782F1A23B8CA7DD803CC0027DDD315F6A07FD9A76AF2F06DCB"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_MONGE_PUBLIC.md",
+                       "sha256":  "AD29D2831FB229D120976925B2B0C03E77EAB8EF9123C1BDFAB98C66BC649D84"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\freeze\\OT_1998CHUNK6_JONES_REFRESH_STANDARDS.md",
+                       "sha256":  "16969BEC0F880A60BD58BA5E336DFC0192E98EA5B03EE6DFC03482FFC267FFD4"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_A_CURRENT_PUBLIC.md",
+                       "sha256":  "841EE4D088EF7A407C3E163B92DB1000C299F44BD91D72FD6D9CD3A48B6B5DDD"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\entering-law\\OT_1998CHUNK6_EFFECTIVE_THROUGH_MARCH23.md",
+                       "sha256":  "3C21AAB608F1407121DDAD7F7E9537CE0069BEDEBFEAAF98BD62440173AEEA76"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\97-6203.ZS.html.txt",
+                       "sha256":  "B51C4B47214A8127A467CC77AD1F6065C1A910A4DC7348E3CF8DCE2EE8632EA6"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\97-6203.ZO.html.txt",
+                       "sha256":  "650B13C118E04E2DA0820B9ED337FC7CB3AB9FCF5EFFFC12D6EFF6D294DD5574"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\97-6203.ZC.html.txt",
+                       "sha256":  "2A3E66E625541C8190CA579CC2625CCE19D6918259ECC4DB842C308CEB443AB1"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\97-6203.ZC1.html.txt",
+                       "sha256":  "0A24C79FA7590F4D18CBA5FEC78794DB2FAB551D82E1308A955C44B627DEBA81"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\97-6203.ZD.html.txt",
+                       "sha256":  "64B592AEE57CF32B9986C68546A14803450C66F637E7BE23747D4234313BD0E3"
+                   },
+                   {
+                       "path":  "terms\\OT1998\\sources\\chunk6-comparator\\jones_official.txt",
+                       "sha256":  "0C5BD134E310AB9FBCD5125C9F14CFE7F5861E3E4D5C1A234F9168A6159C3565"
+                   }
+               ],
+    "source_scope":  "Jones-only neutral and comparator entries; relevant selected law and public positions; all Jones primary opinion text and notes. See reconciliation source receipt for scope and incidental authorized-file spillover.",
+    "new_material_fact_added":  false,
+    "current_stone_exposure":  false,
+    "earlier_jones_commitment_or_reconciliation_exposure":  false,
+    "git_used":  false,
+    "result":  "Ready for separately scoped assembly. Frozen handoff alone is not effective law."
+}

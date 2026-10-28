@@ -1,0 +1,52 @@
+{
+  "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+  "method": "pdftotext; printed-page offset 111; bounded complete case extracts for reconciliation. Exact source bytes copied; no source passages manually retyped.",
+  "extracts": [
+    [
+      "kumho_official",
+      137,
+      159
+    ],
+    [
+      "south_central_bell_official",
+      160,
+      171
+    ],
+    [
+      "mille_lacs_official",
+      172,
+      226
+    ],
+    [
+      "jones_official",
+      227,
+      274
+    ],
+    [
+      "rodriguez_moreno_official",
+      275,
+      285
+    ],
+    [
+      "conn_official",
+      286,
+      294
+    ],
+    [
+      "houghton_official",
+      295,
+      313
+    ],
+    [
+      "mitchell_official",
+      314,
+      343
+    ],
+    [
+      "murphy_brothers_official",
+      344,
+      357
+    ]
+  ],
+  "scope_note": "Murphy extract now ends at printed page 357. Its initial version extended through page 359; the unrelated later syllabus was removed before subsequent use, with the earlier reconciliation exposure separately retained."
+}

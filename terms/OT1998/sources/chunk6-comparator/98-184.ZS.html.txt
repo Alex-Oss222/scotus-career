@@ -1,0 +1,63 @@
+
+
+  
+
+  
+
+	
+
+	
+
+WYOMING V. HOUGHTON
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+WYOMING V. HOUGHTON (98-184) 
+956 P.2d 363, reversed.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Breyer ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+WYOMING v. HOUGHTON
+
+CERTIORARI TO THE SUPREME COURT OF WYOMING
+
+ 
+No. 98—184.  Argued January 12, 1999–Decided April 5, 1999
+
+During a routine traffic stop, a Wyoming Highway Patrol officer noticed a hypodermic syringe in the driver’s shirt pocket, which the driver admitted using to take drugs.  The officer then searched the passenger compartment for contraband, removing and searching what respondent, a passenger in the car, claimed was her purse.  He found drug paraphernalia there and arrested respondent on drug charges.  The trial court denied her motion to suppress all evidence from the purse as the fruit of an unlawful search, holding that the officer had probable cause to search the car for contraband, and, by extension, any containers therein that could hold such contraband.  Respondent was convicted.  In reversing, the Wyoming Supreme Court ruled that an officer with probable cause to search a vehicle may search all containers that might conceal the object of the search; but, if the officer knows or should know that a container belongs to a passenger who is not suspected of criminal activity, then the container is outside the scope of the search unless someone had the opportunity to conceal contraband within it to avoid detection.  Applying that rule here, the court concluded that the search violated the Fourth and Fourteenth Amendments.
+
+Held:  Police officers with probable cause to search a car, as in this case, may inspect passengers’ belongings found in the car that are capable of concealing the object of the search.  In determining whether a particular governmental action violates the Fourth Amendment, this Court inquires first whether the action was regarded as an unlawful search or seizure under common law when the Amendment was framed, see, e.g., Wilson v. Arkansas, 514 U.S. 927, 931.  Where that inquiry yields no answer, the Court must evaluate the search or seizure under traditional reasonableness standards by balancing an individual’s privacy interests against legitimate governmental interests, see, e.g., Vernonia School Dist. 47J v. Acton, 515 U.S. 646, 652—653.  This Court has concluded that the Framers would have regarded as reasonable the warrantless search of a car that police had probable cause to believe contained contraband, Carroll v. United States, 267 U.S. 132, as well as the warrantless search of containers within the automobile, United States v. Ross, 456 U.S. 798.   Neither Ross nor the historical evidence it relied upon admits of a distinction based on ownership.  The analytical principle underlying Ross’s rule is also fully consistent with the balance of this Court’s Fourth Amendment jurisprudence.  Even if the historical evidence were equivocal, the balancing of the relative interests weighs decidedly in favor of searching a passenger’s belongings.  Passengers, no less than drivers, possess a reduced expectation of privacy with regard to the property they transport in cars.  See, e.g., Cardwell v. Lewis, 417 U.S. 583, 590.  The degree of intrusiveness of a package search upon personal privacy and personal dignity is substantially less than the degree of intrusiveness of the body searches at issue in United States v. Di Re, 332 U.S. 581, and Ybarra v. Illinois, 444 U.S. 85.  In contrast to the passenger’s reduced privacy expectations, the governmental interest in effective law enforcement would be appreciably impaired without the ability to search the passenger’s belongings, since an automobile’s ready mobility creates the risk that evidence or contraband will be permanently lost while a warrant is obtained, California v. Carney, 471 U.S. 386; since a passenger may have an interest in concealing evidence of wrongdoing in a common enterprise with the driver, cf. Maryland v. Wilson, 519 U.S. 408, 413—414; and since a criminal might be able to hide contraband in a passenger’s belongings as readily as in other containers in the car, see, e.g., Rawlings v. Kentucky, 448 U.S. 98, 102.  The Wyoming Supreme Court’s “passenger property” rule would be unworkable in practice.  Finally, an exception from the historical practice described in Ross protecting only a passenger’s property, rather than property belonging to anyone other than the driver, would be less sensible than the rule that a package may be searched, whether or not its owner is present as a passenger or otherwise, because it might contain the object of the search.  Pp. 3—11.
+
+956 P.2d 363, reversed.
+
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Thomas, and Breyer, JJ., joined.  Breyer, J., filed a concurring opinion.  Stevens, J., filed a dissenting opinion, in which Souter and Ginsburg, JJ., joined.
+
+ 
+

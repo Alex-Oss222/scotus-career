@@ -1,0 +1,73 @@
+
+
+  
+
+  
+
+	
+
+	
+
+KUMHO TIRE CO. V. CARMICHAEL
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+KUMHO TIRE CO. V. CARMICHAEL (97-1709) 
+131 F.3d 1433, reversed. 
+Syllabus
+ Opinion
+ [ Breyer ]Concurrence
+ [ Scalia ]Other
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+KUMHO TIRE CO., LTD., et al. v. CARMICHAEL et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+ 
+No. 97—1709.  Argued December 7, 1998–Decided March 23, 1999
+
+When a tire on the vehicle driven by Patrick Carmichael blew out and the vehicle overturned, one passenger died and the others were injured.  The survivors and the decedent’s representative, respondents here, brought this diversity suit against the tire’s maker and its distributor (collectively Kumho Tire), claiming that the tire that failed was defective.  They rested their case in significant part upon the depositions of a tire failure analyst, Dennis Carlson, Jr., who intended to testify that, in his expert opinion, a defect in the tire’s manufacture or design caused the blow out.  That opinion was based upon a visual and tactile inspection of the tire and upon the theory that in the absence of at least two of four specific, physical symptoms indicating tire abuse, the tire failure of the sort that occurred here was caused by a defect.  Kumho Tire moved to exclude Carlson’s testimony on the ground that his methodology failed to satisfy Federal Rule of Evidence 702, which says: “If scientific, technical, or other specialized knowledge will assist the trier of fact … , a witness qualified as an expert … may testify thereto in the form of an opinion.”  Granting the motion (and entering summary judgment for the defendants), the District Court acknowledged that it should act as a reliability “gatekeeper” under Daubert v. Merrell Dow Pharmaceuticals, Inc., 509 U.S. 579, 589, in which this Court held that Rule 702 imposes a special obligation upon a trial judge to ensure that scientific testimony is not only relevant, but reliable.  The court noted that Daubert discussed four factors–testing, peer review, error rates, and “acceptability” in the relevant scientific community–which might prove helpful in determining the reliability of a particular scientific theory or technique, id., at 593—594, and found that those factors argued against the reliability of Carlson’s methodology.  On the plaintiffs’ motion for reconsideration, the court agreed that Daubert should be applied flexibly, that its four factors were simply illustrative, and that other factors could argue in favor of admissibility.  However, the court affirmed its earlier order because it found insufficient indications of the reliability of Carlson’s methodology.  In reversing, the Eleventh Circuit held that the District Court had erred as a matter of law in applying Daubert.  Believing that Daubert was limited to the scientific context, the court held that the Daubert factors did not apply to Carlson’s testimony, which it characterized as skill- or experience-based.  
+
+Held:  
+
+    1.  The Daubert factors may apply to the testimony of engineers and other experts who are not scientists.  Pp. 7—13.
+
+          (a)  The Daubert “gatekeeping” obligation applies not only to “scientific” testimony, but to all expert testimony.  Rule 702 does not distinguish between “scientific” knowledge and “technical” or “other specialized” knowledge, but makes clear that any such knowledge might become the subject of expert testimony.  It is the Rule’s word “knowledge,” not the words (like “scientific”) that modify that word, that establishes a standard of evidentiary reliability.  509 U.S., at 589—590.  Daubert referred only to “scientific” knowledge because that was the nature of the expertise there at issue.  Id., at 590, n. 8.  Neither is the evidentiary rationale underlying Daubert’s “gatekeeping” determination limited to “scientific” knowledge.  Rules 702 and 703 grant all expert witnesses, not just “scientific” ones, testimonial latitude unavailable to other witnesses on the assumption that the expert’s opinion will have a reliable basis in the knowledge and experience of his discipline.  Id., at 592.  Finally, it would prove difficult, if not impossible, for judges to administer evidentiary rules under which a “gatekeeping” obligation depended upon a distinction between “scientific” knowledge and “technical” or “other specialized” knowledge, since there is no clear line dividing the one from the others and no convincing need to make such distinctions.  Pp. 7—9.
+
+          (b)  A trial judge determining the admissibility of an engineering expert’s testimony may consider one or more of the specific Daubert factors.  The emphasis on the word “may” reflects Daubert’s description of the Rule 702 inquiry as “a flexible one.”  509 U.S., at 594.  The Daubert factors do not constitute a definitive checklist or test, id., at 593, and the gatekeeping inquiry must be tied to the particular facts, id., at 591.  Those factors may or may not be pertinent in assessing reliability, depending on the nature of the issue, the expert’s particular expertise, and the subject of his testimony.  Some of those factors may be helpful in evaluating the reliability even of experience-based expert testimony, and the Court of Appeals erred insofar as it ruled those factors out in such cases.  In determining whether particular expert testimony is reliable, the trial court should consider the specific Daubert factors where they are reasonable measures of reliability.  Pp. 10—12.
+
+          (c)  The court of appeals must apply an abuse-of-discretion standard when it reviews the trial court’s decision to admit or exclude expert testimony.  General Electric Co. v. Joiner, 522 U.S. 136, 138—139.  That standard applies as much to the trial court’s decisions about how to determine reliability as to its ultimate conclusion.  Thus, whether Daubert’s specific factors are, or are not, reasonable measures of reliability in a particular case is a matter that the law grants the trial judge broad latitude to determine.  See id., at 143.  The Eleventh Circuit erred insofar as it held to the contrary.  P. 13. 
+
+      2.  Application of the foregoing standards demonstrates that the District Court’s decision not to admit Carlson’s expert testimony was lawful.  The District Court did not question Carlson’s qualifications, but excluded his testimony because it initially doubted his methodology and then found it unreliable after examining the transcript in some detail and considering respondents’ defense of it.  The doubts that triggered the court’s initial inquiry were reasonable, as was the court’s ultimate conclusion that Carlson could not reliably determine the cause of the failure of the tire in question.  The question was not the reliability of Carlson’s methodology in general, but rather whether he could reliably determine the cause of failure of the particular tire at issue.  That tire, Carlson conceded, had traveled far enough so that some of the tread had been worn bald, it should have been taken out of service, it had been repaired (inadequately) for punctures, and it bore some of the very marks that he said indicated, not a defect, but abuse.  Moreover, Carlson’s own testimony cast considerable doubt upon the reliability of both his theory about the need for at least two signs of abuse and his proposition about the significance of visual inspection in this case.  Respondents stress that other tire failure experts, like Carlson, rely on visual and tactile examinations of tires.  But there is no indication in the record that other experts in the industry use Carlson’s particular approach or that tire experts normally make the very fine distinctions necessary to support his conclusions, nor are there references to articles or papers that validate his approach.  Respondents’ argument that the District Court too rigidly applied Daubert might have had some validity with respect to the court’s initial opinion, but fails because the court, on reconsideration, recognized that the relevant reliability inquiry should be “flexible,” and ultimately based its decision upon Carlson’s failure to satisfy either Daubert’s factors or any other set of reasonable reliability criteria.  Pp. 13—19.
+
+131 F.3d 1433, reversed. 
+
+    Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, and in which Stevens, J., joined as to Parts I and II.  Scalia, J., filed a concurring opinion, in which O’Connor and Thomas, JJ., joined.  Stevens, J., filed an opinion concurring in part and dissenting in part.
+
+ 
+

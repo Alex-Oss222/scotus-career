@@ -1,0 +1,59 @@
+{
+  "stage": "fresh Brower historical reconciliation",
+  "runtime": "terms/OT1998/runtime/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md",
+  "freeze": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_REFRESH_RECONCILED.md",
+  "sha256": "88ef92890e28cd3ff15cc36f8321ff98fb8dcfcd645d54458c73821e608b097d",
+  "identical": true,
+  "research_cutoff": "1999-03-25 before Brower",
+  "historical_supreme_court_merits_comparator": false,
+  "current_stone_read": false,
+  "assembly_material_read": false,
+  "raw_records_read": false,
+  "git_used": false,
+  "changed_votes": [],
+  "changed_material_premises": [],
+  "component_support": {
+    "access_and_reimbursement": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "timing_and_speech": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "federal_equal_voting_weight": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "component_opposition": {
+    "access_and_reimbursement": [],
+    "timing_and_speech": [],
+    "federal_equal_voting_weight": []
+  },
+  "common_grounds_joined": true,
+  "separate_writings_required": [],
+  "assignment_made": false,
+  "lower_source_coverage": "Complete paragraphs 1-158, majority, Sanders dissent and all displayed footnotes; mechanically copied source in sources/chunk6-comparator/brower_lower_refresh_full.txt",
+  "official_statute_crosscheck": "RCW 36.102.802, originating in Laws of 1997 ch.220 section 606; official enrollment/effective-date page also inspected",
+  "material_unresolved_gap": null,
+  "preserved_limit": "Precise Supreme Court grant, petition, briefs and appendix not independently recovered in this stage; current-term public positions relied on as recited in frozen commitments"
+}

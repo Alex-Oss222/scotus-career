@@ -1,0 +1,50 @@
+{
+  "stage": "fresh neutral update only",
+  "ready": [
+    "Jones",
+    "Brower"
+  ],
+  "no_private_or_comparator_exposure": true,
+  "own_case_commitments_or_reconciliations_read": false,
+  "prior_freezes_unchanged": true,
+  "git_used": false,
+  "prohibited_links_found": false,
+  "models_produced": false,
+  "new_material": "Prior public Monge constitutional scope and actual Justice positions; distinct Brower federal one-person-one-vote theory from authenticated lower opinion",
+  "artifacts": [
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_JONES_REFRESH_PREFLIGHT.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_JONES_REFRESH_PREFLIGHT.md",
+      "sha256": "cea672825173d46ce430472440daae736d589d43260736bb9d3dfcc132be3613",
+      "bytes": 11135
+    },
+    {
+      "source": "terms/OT1998/runtime/OT_1998CHUNK6_BROWER_REFRESH_PREFLIGHT.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_REFRESH_PREFLIGHT.md",
+      "sha256": "d76080ed889cfe33ea534d055303950fa4376807d59d984326a49de6dd5a137b",
+      "bytes": 8638
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_MONGE_PUBLIC.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_JONES_REFRESH_MONGE_PUBLIC.md",
+      "sha256": "ad29d2831fb229d120976925b2b0c03e77eab8ef9123c1bdfab98c66bc649d84",
+      "bytes": 16189
+    },
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK6_JONES_REFRESH_STANDARDS.md",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_JONES_REFRESH_STANDARDS.md",
+      "sha256": "16969bec0f880a60bd58ba5e336dfc0192e98ea5b03ee6dfc03482ffc267ffd4",
+      "bytes": 7294
+    },
+    {
+      "source": "terms/OT1998/sources/chunk6-comparator/brower_lower_objective_web.txt",
+      "frozen": "terms/OT1998/freeze/OT_1998CHUNK6_BROWER_REFRESH_LOWER_OBJECTIVE.txt",
+      "sha256": "b4faf8301d7791e5ada599e73dfad6e1de5376b4b489b3be38eac190955eea15",
+      "bytes": 35064
+    }
+  ],
+  "original_freeze_sha256": {
+    "OT_1998CHUNK6_A_NEUTRAL.md": "c884f2680d78d645f2096b32d31d792f61e4578882b09d28f77d84869929daea",
+    "OT_1998CHUNK6_A_NEUTRAL_SUPPLEMENT.md": "bd7280f8fbc37b8c5e2043e7acd05f6162fd260d6da31d2a894fe40543adc6b8"
+  }
+}

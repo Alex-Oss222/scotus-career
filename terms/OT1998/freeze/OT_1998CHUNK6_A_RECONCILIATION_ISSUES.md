@@ -1,0 +1,27 @@
+# OT1998 chunk 6 — Jones and Brower nonfinal reconciliation receipt
+
+This file releases no reconciled commitments for Jones or Brower. The first-three and Mille Lacs frozen handoffs are separate and ready at their stated scopes. No current Stone position or private material was accessed.
+
+## Jones — fresh affected neutral/model stage required
+
+The original independent five-Associate statutory element coalition and three-Associate penalty coalition each have historical counterparts. Statutory result must remain distinct from constitutional rationale. Historical Stevens and Scalia concurrences affirm a broader constitutional jury/proof rule for facts altering the prescribed penalty range. Stevens additionally includes minimums and death eligibility; neither historical writing turns those individual views into the Court's statutory holding. The original frozen rows instead reserve every universal constitutional rule.
+
+The newly supplied prior-public Monge entry is material: [OT_1998CHUNK6_MONGE_PUBLIC.md](../entering-law/OT_1998CHUNK6_MONGE_PUBLIC.md). Its actual dissent adopts a case-confined personal-conduct element ground; it does not already adopt historical Scalia's broad Monge proposition. That changed chronology must be assessed by a fresh affected neutral/model context before final reconciliation. Prior narrowness does not automatically require perpetual narrowness; conversely the historical Jones concurrence cannot be copied as the current commitment without testing this public continuity. The broader ground may be compatible with joining the shared statutory and avoidance explanation, but any definitive constitutional coalition must be counted separately at its exact level.
+
+O'Connor, Kennedy and Breyer cannot rely on the historical Almendarez-Torres holding as controlling law. The frozen statute-specific penalty construction and bounded constitutional permission must be assessed under the actual contrary statutory result and Monge's recidivist-status limit. Thomas's historical Jones statutory vote remains compatible with his earlier recidivist position because present-offense harm differs from prior adjudication; a general maximum rule is a separate question.
+
+**Reading completed:** Cornell 97-6203.ZS, ZO, ZC, ZC1 and ZD in full, including all eleven majority footnotes; the two concurrences and dissent have no omitted note blocks. Cross-checked the opinion lineup, statutory disposition, footnote 6's expressly tentative constitutional statement and separate-writing passages against jones_official.txt. The historical footnote correcting the final carjacking sentence is not adopted as a new neutral fact or used to select a replacement sentence. All original neutral source limits survive. The complete Monge public entry was read. No author or current Stone join is assigned.
+
+## Brower — distinct federal claim requires neutral scope treatment
+
+The lower opinion contains a distinct federal one-person-one-vote theory in addition to wealth/access and campaign timing: the reimbursement decision was characterized as a vote with greater weight. The lower court rejected it on the basis that the affiliate as an entity cast no vote and no citizen's vote was outweighed; the independent state free-and-equal-vote discussion follows separately. This is the lower court's reported reasoning, not an invented Supreme Court holding or a statutory command.
+
+Source: [Brower v. State, 137 Wash.2d 44, 67–68](https://openjurist.org/137/wash2d/44/brower-v-state), heading **One Person—One Vote**, paragraphs 68–72 (web lines 168–175). Mechanically saved tool-source return: [brower_lower_objective_web.txt](../sources/chunk6-comparator/brower_lower_objective_web.txt). The CourtListener citation/docket listing cross-checks 137 Wash.2d 44, 969 P.2d 42, No.65992-3, Dec.24,1998; its direct opinion page did not expose text. The frozen packet's original authenticated source and OpenJurist's judicial text agree on the lower judgment and federal access/timing discussion. No later citing opinion was opened or used.
+
+The supplied equal-protection grant must not be silently narrowed to avoid this actual federal claim. Fresh neutral treatment and scoped independent modeling are needed if this component is within the grant; the original B1–B3 result does not by itself supply an unmodeled component vote or new reason. No historical Supreme Court merits comparator exists. The lower judges' lineup does not map onto the Supreme Court Associates. No unsupported generic corruption, vote-weighting or state-law holding should be imported.
+
+**Existing component review:** The original wealth/access and timing commitments remain independently supported by the supplied record and current Burdick, Buckley ACLF, Yoshina and Reform Party. Those existing components are not disproved by the lower-opinion cross-check. No parity entitlement, unlimited private control, automatic minimum campaign duration or new election follows. This file is an issue receipt only; it freezes no final enlarged Brower disposition.
+
+## Boundary receipt
+
+No Git command, current or prior private Stone material, top-level private-directory access, historical Supreme Court merits source for Brower, or opinion assignment was used. Historical comparison has been kept out of the requested fresh neutral/model stage. Only the objective lower source and published Monge entry should be sent to that stage; this issue receipt contains comparator material and must not be sent to independent modeling.
