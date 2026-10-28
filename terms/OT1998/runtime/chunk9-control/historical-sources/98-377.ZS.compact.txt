@@ -1,0 +1,27 @@
+DICKINSON V. ZURKO
+LII
+Supreme Court
+DICKINSON V. ZURKO (98-377)
+142 F.3d 1447, reversed and remanded.
+Syllabus
+Opinion
+[ Breyer ]Dissent
+[ Rehnquist ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+DICKINSON, ACTING COMMISSIONER OF PATENTS AND TRADEMARKS v. ZURKO et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+No. 98—377. Argued March 24, 1999–Decided June 10, 1999
+In reviewing a Patent and Trademark Office (PTO) decision to deny respondents’ patent application, the Federal Circuit analyzed the PTO’s factual finding using a “clearly erroneous” standard of review, which generally governs appellate review of district court findings of fact (court/court review), rather than the less stringent standards set forth in the Administrative Procedure Act (APA), which permit a court to set aside agency findings of fact found to be arbitrary, capricious, an abuse of discretion, or unsupported by substantial evidence (court/agency review), 5 U.S.C. § 706. The court found the PTO’s factual finding to be clearly erroneous.
+Held: The Federal Circuit must use the framework set forth in §706 when reviewing PTO findings of fact. Pp. 3—14.
+(a) Absent an exception, a reviewing court must apply the APA’s court/agency review standards to agency factual findings. The Federal Circuit bases such an exception on 5 U.S.C. §559, which provides that the APA does “not limit or repeal additional requirements … recognized by law.” In its view, at the time the APA was adopted in 1946, the Court of Customs and Patent Appeals (CCPA), a Federal Circuit predecessor, applied a court/court standard that was stricter than ordinary court/agency review standards, and this special tradition of strict review amounted to an “additional requirement” that trumps §706’s requirements. However, a close examination of the CCPA’s cases reviewing PTO decisions do not reflect a well-established court/court standard. The presence of the phrases “clear case of error,” “clearly wrong,” and “manifest error” in those cases does not conclusively signal such review. The relevant linguistic conventions were less firmly established before the APA’s adoption than they are today, with courts sometimes using words such as “clearly erroneous” to describe less strict court/agency review and words such as “substantial evidence” to describe stricter court/court review. The absence of the words “substantial evidence” in the CCPA’s cases is not especially significant, since standardization of that term began to take hold only after Congress started using it in various federal statutes. Further, not one of the CCPA’s opinions actually uses the words “clear error” or “clearly erroneous,” which are terms of art signaling court/court review. Most of them use “manifest error,” which is not now such a term of art. At the same time, this Court’s precedent undermines the claim that “clearly wrong” or “manifest error” signal court/court review. Although the Court in Morgan v. Daniels, 153 U.S. 120, used language that could be read as setting forth a court/court standard, the Court’s reasoning makes clear that it meant its words to stand for a court/agency standard. The CCPA’s cases reveal a similar pattern, using words such as “clearly wrong” and “manifest error” with explanations indicating that they had court/agency, not court/court, review in mind. Pp. 3—10.
+(b) Several policy reasons that the Federal Circuit believes militate against using APA review standards–that a change will be disruptive to the bench and bar; that the change will create an anomaly in which a disappointed patent applicant who seeks review directly in the Federal Circuit will be subject to court/agency review, while one who first seeks review in a district court will have any further appeal reviewed under a court/court standard; and that stricter review produces better agency factfinding–are unconvincing. Pp. 10—14.
+142 F.3d 1447, reversed and remanded.
+Breyer, J., delivered the opinion of the Court, in which Stevens, O’Connor, Scalia, Souter, and Thomas, JJ., joined. Rehnquist, C. J., filed a dissenting opinion, in which Kennedy and Ginsburg, JJ., joined.

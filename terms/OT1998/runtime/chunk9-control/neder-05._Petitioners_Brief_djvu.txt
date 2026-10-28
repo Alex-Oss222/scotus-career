@@ -1,0 +1,2812 @@
+; FILED 
+A 
+? ) NOV 25 196 
+eee 
+No. 97-1985 _| 
+IN THE 
+
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+ELLIS E. NEDER, JR., PETITIONER, 
+V. 
+
+
+UNITED STATES OF AMERICA, RESPONDENT. 
+
+
+On Writ Of Certiorari To The United States " 
+Court Of Appeals For The Eleventh Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+ANDREW H. SCHAPIRO JAVIER H. RUBINSTEIN 
+Mayer, Brown & Platt Counsel of Record 
+1675 Broadway GARY S. FEINERMAN 
+New York, New York 10019 KASPAR J. STOFFELMAYR 
+(212) 506-2500 THOMAS B. NACHBAR 
+
+Mayer, Brown & Platt 
+
+NOEL G. LAWRENCE 190 South LaSalle Street 
+Law Offices of Chicago, Illinois 60603 
+Noel G. Lawrence, P.A. (312) 782-0600 
+
+
+100 Riverside Avenue 
+Jacksonville, Florida 32202 
+
+
+(904) 733-1237 Counsel for Petitioner 
+
+
+a 
+
+
+< 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+1. | Whether the trial court’s failure to instruct the jury on the 
+materiality element in this case was harmless error because materiality 
+was not in dispute at trial. 
+
+
+2. Whether materiality is an element of the crimes set forth 
+in the federal mail fraud (18 U.S.C. Section 1341), wire fraud (18 
+U.S.C. Section 1343) and bank fraud (18 U.S.C. Section 1344) 
+statutes. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+ee s ere res ee i 
+MOREE TET ES. hee are fe 1 
+i PERE ER eee ere Po ies Po tere 1 
+STATUTORY AND CONSTITUTIONAL 
+ee a reer ere ee ee 1 
+DRAUEES 6.0 sc cevedee 60 VU 000s eea eee l 
+SUREMARY OF ARUIUREEINE oo cect ce cecoeceesens 6 
+AR 3 hn. 0 Hak FA ee Pres ce Pe ee 9 
+
+
+I. A DIRECTED VERDICT OF GUILT ON AN 
+ELEMENT OF A CHARGED OFFENSE CANNOT 
+CONSTITUTIONALLY BE SUBJECT TO HARMLESS- 
+Co Gs , eee er rye ce 
+
+
+A. Harmless-Error Review Cannot Be Used To Supply 
+Factual Findings On Elements That Were Removed 
+Explicitly From The Jury’s Consideration. ...... 
+
+
+B. This Court’s Instructional Error Decisions Make 
+Clear That The MHarmless-Error Doctrine Is 
+Inapplicable When The Jury Has Failed To Render 
+A Complete Verdict On Every Element Of The 
+Glens CHS. we ec tsccduegeeneeees 
+
+
+10 
+
+
+ili Page 
+
+
+C. Removal Of An Element From The Jury’s Consider- 
+ation Cannot Be Cured By An Appellate Court's 
+Finding That The Element Was “Not In Dispute,” 
+
+
+D. Complete Removal Of An Element Requires 
+Reversal To Preserve The Constitutional Right To A 
+i ete ti cei se hee w ese hee 0 6 27 
+
+
+Il. MATERIALITY IS AN ELEMENT OF THE FEDERAL 
+MAIL FRAUD, WIRE FRAUD, AND BANK FRAUD 
+i hit ded: das edie tes 00:00 is 066 0 « 30 
+
+
+A. The Plain Language Of The Mail Fraud, Wire 
+Fraud, And Bank Fraud Statutes Confirms That 
+Materiality Is An Element Of Each Crime. ...... 30 
+
+
+B. Congress Did Not Intend To Alter The Common- 
+Law Meaning Of “Fraud” In The Mail Fraud, Wire 
+Fraud, And Bank Fraud Statutes. ............ 35 
+
+
+C. Due Process And The Rule Of Lenity Also Require 
+
+
+That The Mail Fraud, Wire Fraud, And Bank Fraud 
+Statutes Be Read To Include A Materiality Element. .. 48 
+
+
+U.[(jjj@ eee eee reese atest core ecoccecs 50 
+
+
+TABLE OF AUTHORITIES 
+Page 
+
+
+Cases 
+Adamo Wrecking Co. v. United States, 434 U.S. 275 (1978) .. 49 
+
+
+Affiliated Ute Citizens v. United States, 406 U.S. 128 (1972) . 46 
+
+
+Arizona v. Fulminante, 499 U.S. 279 (1991) ....... 14, 15, 23 
+Basic, Inc. v. Levinson, 485 U.S. 224 (1988) ........... 46 
+BMW of N. Am., Inc. v. Gore, 517 U.S. 559 (1996) .... . 8, 33 
+Bollenbach v. United States, 326 U.S. 607 (1946) ..... 25, 26 
+Brooks v. United States, 146 F. 223 (8th Cir. 1906) ....... 44 
+Buckley v. Valeo, 424 U.S. 1 (1976) .... 2... 0. 0c eee. 49 
+Cabana v. Bullock, 474 U.S. 376 (1986) .............. 15 
+Caldwell v. Mississippi, 472 U.S. 320 (1985) ........... 28 
+
+
+California v. Roy, 117 S. Ct. 337 (1996) . 14, 19, 20, 21, 24, 26 
+
+
+Carella v. California, 491 U.S. 263 (1989). ......... passim 
+Carpenter v. United States, 484 U.S. 19 (1987) .......... 30 
+Carpenters & Joiners v. United States, 
+
+330 U.S. 395 (1947) .......... 14, 17, 18, 21, 23, 24 
+Chapman v. California, 386 U.S. 18 (1967) ........ 6, 11, 23 
+Colorado v. New Mexico, 467 U.S. 310 (1984) .......... 28 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Commonwealth v. Drew, 19 Pick. 179 (Mass. 1837) ....... 37 
+Commonwealth v. Hershell, Thacher’s Cr. Cases 70 
+
+SS Gt ED odo ope come e wns su 040 37 
+Community for Creative Non-Violence v. Reid, 
+
+oo A See ee ee A 35 
+Connecticut v. Johnson, 460 U.S. 73 (1983) .... 13, 20, 22, 26 
+Crandon v. United States, 494 U.S. 152 (1990) .......... 49 
+Davis v. United States, 160 U.S. 469 (1895) ............ 10 
+Delaware v. Van Arsdall, 475 U.S. 673 (1986) .......... 11 
+Dunbar v. Preston, 132 A. 707 (Pa. 1926) ............. 35 
+
+
+Duncan v. Louisiana, 391 U.S. 145 (1968) . 9, 14, 15, 16, 27, 28 
+
+
+Durland v. United States, 161 U.S. 306 
+
+
+es ik wai os wan es 31, 41, 42, 43, 46 
+Edward J. DeBartolo Corp. v. Florida Gulf Coast Bldg. & 
+
+Constr. Trades Council, 485 U.S. 568 (1988) ........ 49 
+Estelle v. McGuire, 502 U.S. 62 (1991) ............... 22 
+Evans v. United States, 153 U.S. 584 (1894)............ 42 
+Faulkner v. United States, 157 F. 840 (Sth Cir. 1907) ...... 44 
+
+
+Fedorenko v. United States, 449 U.S. 490 (1981) ......... 46 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Field v. Mans, S06. U.S. SD CNS) . 0 wwe ees 33, 47 
+
+
+Flachskamm v. United States, 127 F. 674 (7th Cir. 1904) . 44, 45 
+
+
+Harris v. Rosenberger, 145 F. 449 (8th Cir. 1906) ........ 43 
+Henderson v. Morgan, 426 U.S. 637 (1976) ............ 26 
+Herron v. Dibrell, 12 $.E. 674 (Va. 1891) ............. 35 
+Hubbard v. United States, 514 U.S. 695 (1995) .......... 48 
+Johnson v. United States, 117 S. Ct. 1544 (1997)... .. 4, 19, 27 
+
+
+Kungys v. United States, 485 U.S. 759 (1988) ... 31, 38, 42, 46 
+Lanzetia v. New Jersey, 306 U.S. 451 (1939) ......... 8, 48 
+
+
+Lare v. Westmoreland Specialty Co., 25 A. 812 (Pa. 1893) ... 35 
+
+
+Lemon v. United States, 164 F. 953 (8th Cir. 1908) ....... 44 
+Liparota v. United States, 471 U.S. 419 (1985) .......... 50 
+Mathews v. United States, 485 U.S. 58 (1988)........... 22 
+McAleer v. Horsey, 35 Md. 439 (1872) ............ 33, 34 
+McBoyle v. United States, 283 U.S. 25 (1931) ........... 48 
+
+
+McNally v. United States, 483 U.S. 350 
+Gee cucen ss 640000864004 087 31, 40, 41, 47, 49 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Molzof v. United States, 502 U.S. 301 (1992) ......... 7,31 
+Morisette v. United States, 342 U.S. 246 (1952)... ....... 32 
+Moskal v. United States, 498 U.S. 103 (1990) ........... 32 
+NLRB v. Amax Coal Co., 453 U.S. 322 (1981) ...... 8, 32, 35 
+Old Chief v. United States, 117 S. Ct. 644 (1997) ........ 22 
+Parr v. United States, 363 U.S. 370 (1960) ......... 31, 40 
+Pereira v. United States, 347 U.S. 1 (1954) ............ 31 
+Pope v. Illinois, 481 U.S. 497 (1987) ........ 18, 19, 20, 21 
+Ratzlaf v. United States, 510 U.S. 135 (1994) ........... 49 
+Rewis v. United States, 401 U.S. 808 (1971) ............ 50 
+Roe v. United States, 287 F.2d 435 (Sth Cir. 1961) ....... 22 
+Rogers v. United States, 118 S. Ct. 673 (1998) .......... 23 
+
+
+Rose v. Clark, 478 U.S. 570 (1986) . . 13, 14, 15, 16, 20, 23, 24 
+
+
+Santa Fe Indus., Inc. v. Green, 430 U.S. 462 (1977)... .... 46 
+Slaughter’s Administrator v. Gerson, 80 U.S. 
+
+ES Ce Ek ie a ew & 6 O's WO ait 35 
+Smith v. Richards, 38 U.S. (13 Pet.) 26 (1839) ........ 8, 35 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Snow v. Alley, 11 N.E. 764 (Mass. 1887).............. 35 
+Sparf v. United States, 156 U.S. 51 (1895) ............. 13 
+Standard Oil Co. v. United States, 221 U.S. 1 (1911) ...... 32 
+Sullivan v. Louisiana, 508 U.S. 275 (1993) ......... passim 
+United States v. Bayer, 331 U.S. 532 (1947)... 2... 2.2... 28 
+United States v. Cochran, 109 F.3d 660 (10th Cir. 1997)... .. 5 
+United States v. Coffman, 94 F.3d 330 (7th Cir. 1996) ..... 36 
+United States v. DiRico, 78 F.3d 732 (ist Cir. 1996) ...... 12 
+United States v. Fern, 117 F.3d 1298 (1ith Cir. 1997) ...... 4 
+United States v. Gaudin, 515 U.S. 506 
+Se Ko katy Akasa een 4, 6, 9, 12, 22, 24, 27, 38 
+United States v. Granderson, 511 U.S. 39 (1994) ....... 8, 49 
+United States v. Hasting, 461 U.S. 499 (1983) .......... 26 
+
+
+United States v. Jones, 10 F. 469 (C.C.S.D.N.Y. 1882) . 42, 45 
+
+
+United States v. Martin Linen Supply Co., 
+GO TAR, Ge iOS oe we EAN Cea fi 13, 14 
+
+
+United States v. Nash, 115 F.3d 1431 (1997), cert. denied, 
+S05 S. Gi. BGs OSS beck De wee Sy chs 5 
+
+
+———_ - 
+
+
+~ Zz 
+
+
+eee 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+United States v. Owens, 17 F. 72 (E.D. Mo. 1883)........ 42 
+United States v. Wells, 519 U.S. 482 (1997) ... 4, 8, 32, 35, 47 
+
+
+United States v. X-Citement Video, Inc., 513 U.S. 64 (1994) .. 49 
+
+
+Williams v. United States, 458 U.S. 279 (1982) .......... 49 
+Winship, In re, 397 U.S. 358 (1970)... 2. oe ee ee 9 
+Witherspoon v. Illinois, 391 U.S. 510 (1968)... ......... 29 
+Woodbury v. State, 69 Ala. 242 (1881) .... 2... 6.5555. 37 
+Yates v. Evatt, 500 U.S. 391 (1991) ... 4, 6, 11, 20, 21, 24, 25 
+Young v. The King, 3 Term Rep. 98 (K.B. 1789) ......... 37 
+Constitutional Provisions 
+
+FR. SS} A errieee Tea 1 
+be SPO Te ET PELER Lhe 1 
+OB: GU. RAG. VE ee ee wee ces ccetecens 1 
+Statutes and Rules 
+
+Act of June 8, 1872, ch. 335, § 301, 17 Stat. 283 ..... 30, 38 
+
+
+Act of Mar. 2, 1889, ch. 393, § 1, 25 Stat. 873.......... 40 
+
+
+x 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+‘ Page 
+Act of Mar. 4, 1909, ch. 321, § 215, 35 Stat. 1130 ....... 41 
+Pub. L. No. 100-690, Title VII, § 7603(a), 
+
+aD lr SEED oo 0 eK nbN 64 tea Vasveew 41 
+Se NG B OU N65 5-0 o0s oe ba ec be we eae ee 45, 46 
+SS OBA ONG 652 bbs CER o ede eee mek ee passim 
+SD Wh. SB Be ike 4 a0 bbs 0 ree bee eee passim 
+SP Ua Os be xn & Keke ans bene ae passim 
+OS Ween 0 bao a EN eh ce haw ee eres passim 
+OS a OD 62k Map ianwles cash eee Leelee 41 
+Se Sey PEE .0 a obs cid coe keeuhaelee ea 1,4 
+57 Cam, BSUS oc ceeen dsp ceeseteds tee 46 
+ao Gao. 2, &. 24,6 1 CR) Glee) ook ha RA wed 36 
+34 Geo. 3, ch. 64. (1812) (iing.) . . 2... Siena ceeds. 37 
+7 & 8 Geo. 4, ch. 29, § 53 (1827) (Eng.).............. 37 
+24 & 25 Vict., ch. 96, § 88 (1861) (Eng.) ............. 37 
+
+
+i 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+Miscellaneous 
+A.W. Alscnuler & A.G. Deiss, A Brief History 
+
+of the Criminal Jury in the United States, 
+
+a a es ee I ED a cha bards ae 0 kW aes o8 9 
+37 AM. JUR. 2D Fraud and Deceit § 177 (1964) .......... 34 
+M. BIGELOW, A TREATISE ON THE LAW OF FRAUD ON ITS CIVIL 
+
+I tie kg) Sige ne a aa a a 6 Sele 4 oie 43 
+1 J. Bishop, COMMENTARIES ON THE CRIMINAL LAW 
+
+I og oD dats ire lake ie a ae lew at 37, 38 
+H. BLACK, A DICTIONARY OF LAW (1891) ............. 33 
+BLACK’S LAW DICTIONARY (6th ed. 1990) ............. 33 
+4 W. BLACKSTONE, COMMENTARIES (1769) ......... 9, 29, 38 
+1 J. Bouvier, A LAW DICTIONARY (10th ed. 1860) ........ 33 
+G. Chernack, Note, Silence Cannot Be Harmless: United 
+
+States v. Rogers, 106 YALE L.J. 2305 (1997) ........ 16 
+Cong. Globe, 41st Cong., 3d Sess. (1870) .......... 38, 39 
+SR, Te Se ee ok Fees Pa Sn we ak os in wes 41 
+
+
+P. Dalley, The Law of Deceit, 1790-1860: Continuity 
+Amidst Change, 39 AM. J. LEGAL Hist. 405 (1995) .... 35 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+THE FEDERALIST No. 83 (A. Hamilton) 
+
+ins es CRs ca ik os Ss oc ewe NG Ais a 28 
+F. Frankfurter, Some Reflections on the Reading of 
+
+Statutes, 47 COLUM. L. REV. 527 (1947) ........... 32 
+W. Gray, Comment, The Intangible-Rights Doctrine and 
+
+Political-Corruption Prosecutions Under the Federal 
+
+Mail Fraud Statute, 47 U. Cui. L. REV. 562 (1980) .... 40 
+
+
+J. Greabe, Spelling Guilt Out of a Record? Harmless-Error 
+Review of Conclusive Mandatory Presumptions and 
+Elemental Misdescriptions, 74 B.U. L. REV. 819 (1994) . 16 
+
+
+W. KEETON, ET AL., PROSSER & KEETON ON LAW OF 
+ee ae I I IS ee ad ci he 33 
+
+
+2 W. LAFAVE & A. SCOTT, SUBSTANTIVE CRIMINAL LAW 
+SS. renee Cie es SERS dS 38 
+
+
+7 L. Loss & J. SELIGMAN, SECURITIES REGULATION (3d ed. 
+SED & bie en Se Ve eee Sa 6 eee ew kwes gh 46 
+
+
+G. Mitchell, Against “Overwhelming” Appellate 
+Activism: Constraining Harmless Error Review, 
+Gs CA. Be Re ae 6 oe eS EES) 28, 29 
+
+
+F. MONCREIFF, A TREATISE ON THE LAW RELATING TO 
+FRAUD AND MISREPRESENTATION (1891) ........... 43 
+
+
+A. Pearce, Theft by False Promises, 101 U. PA. L. REV. 967 
+CES ocx s Cae ea 43 
+
+
+xiii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+J. Rakoff, The Federal Mail Fraud Statute (Part 1), 
+
+fy I a ee 40 
+RESTATEMENT (SECOND) OF TORTS § 538 (1977) ......... 33 
+B. Rosenberg, The Effect of Sullivan v. Louisiana 
+
+on Harmless Error Analysis of Jury Instructions 
+
+That Omit an Element of the Offense, 29 
+
+RR er ae 19, 29 
+S. Doc. No. 68, 57th Cong., Ist Sess. (1901) ........... 41 
+S. Rep. No. 98-225 (1984), reprinted in 1984 U.S.C.C.A.N. 
+
+ES ids Ce es dw. ek hes Oa Che OR 31 
+1 S. SMITH & T. LLOYD, TRIAL OF SAMUEL CHASE (1805) ... 28 
+2 J. STORY, COMMENTARIES ON THE CONSTITUTION OF 
+
+THE UNITED STATES (4th ed. 1873) ............... 9 
+1 J. STORY, COMMENTARIES ON EQUITY JURISPRUDENCE 
+
+i ME Ss. sn a6 6 eb e €o.ee sees 34 
+
+
+M. TAYLOR, THE LAW OF POSTAL FRAUDS & CRIMES (1931) . . 45 
+R. TRAYNOR, THE RIDDLE OF HARMLESS ERROR (1970) .. 11, 14 
+
+
+F. WHARTON, A TREATISE ON THE CRIMINAL LAW OF THE 
+oS ee re ee 37 
+
+
+BRIEF FOR PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The decision of the court of appeals (Pet. App. la-13a) is 
+reported at 136 F.3d 1459. The judgment of the district court (Pet. 
+App. !4a-22a) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on March 19, 
+1998. Pet. App. 14a-22a. The petition for a writ of certiorari was 
+filed on June 9, 1998, and granted on October 13, 1998. 119 S. Ct. 
+334. The jurisdiction of this Court is invoked under 28 U.S.C. 
+§ 1254(1). 
+
+
+STATUTORY AND CONSTITUTIONAL 
+PROVISIONS INVOLVED 
+
+
+Article Ill, § 2 of the United States Constitution provides that 
+“The Trial of all Crimes, except in Cases of Impeachment, shall be 
+by Jury.” The Due Process Clause of the Fifth Amendment to the 
+United States Constitution provides that “No person shall be * * * 
+deprived of life, liberty, or property, without due process of law.” 
+The Sixth Amendment to the United States Constitution provides that 
+“In all criminal prosecutions, the accused shall enjoy the right to a 
+speedy and public trial, by an impartial jury of the State and district 
+wherein the crime shall have been committed; to be confronted with 
+the witnesses against him; to have compulsory process for obtaining 
+witnesses in his favor, and to have the Assistance of Counsel for his 
+defence.” 18 U.S.C. §§ 1341, 1343, 1344, and 26 U.S.C. § 7206(1) 
+are reproduced at Pet. App. 43a-47a. 
+
+
+STATEMENT 
+
+
+1. On August 23, 1991, petitioner was indicted on multiple 
+counts of federal tax, mail, wire and bank fraud in connection with 
+a series of land acquisition and development transactions during the 
+1980s. J.A. 33-144. The indictment alleged that petitioner engaged in 
+a scheme to defraud lenders by concealing material facts regarding the 
+structure of the acquisition transactions and the source of certain 
+deposit funds from buyers of petitioner’s real estate developments. 
+
+
+2 
+
+
+Ibid. The government also alleged that petitioner’s 1985 and 1986 
+income tax returns omitted material facts by failing to report the 
+profits from these transactions. 
+
+
+The government’s land acquisition charges specifically alleged 
+that petitioner financed “land-flip” transactions. According to the 
+government, petitioner used “shell” corporations that he controlled to 
+purchase land from third-party titleholders at bargain prices, and then 
+to sell those properties to himself at higher prices using inflated 
+appraisals, with petitioner then keeping the excess loan proceeds as 
+“profit.” J.A. 42-44. The government further alleged that petitioner 
+failed to disclose material facts to his lenders concerning his 
+“nominee” relationship with the shell corporations. Ibid. 
+
+
+The government’s land development charges alleged that 
+petitioner fraudulently obtained loans to finance a variety of land 
+development projects. J.A. 44-45. Specifically, the government 
+alleged that to satisfy pre-sale commitment requirements of his 
+lenders, petitioner solicited buyers by agreeing to advance their initial 
+deposits, but failed to disclose those advances to the lenders. Jbid. 
+The indictment further alleged that petitioner fraudulently obtained 
+construction draws in connection with a particular project by 
+presenting materially false invoices. J.A. 45-47. 
+
+
+Finally, the government’s tax fraud charges alleged that 
+petitioner's 1985 and 1986 tax returns failed to report $1,372,360 in 
+income for 1985, and $4,355,766 in income for 1986, all allegedly 
+derived from excess loan proceeds obtained from the real estate 
+acquisition transactions. J.A. 122-123. 
+
+
+Petitioner pleaded not guilty to all counts of the indictment, and 
+did not stipulate or admit to any element of the charges. Petitioner 
+defended the land acquisition charges on the ground that the land 
+parcels purchased by the “shell” corporations were acquired at prices 
+well below fair market value, and were sold at the true fair market 
+values utilized for the financing. Petitioner also contended that the 
+appraisals used to obtain the financing were not inflated, and were 
+approved by the lender. J.A. 190-191, 200-205 (closing argument). 
+Petitioner also argued that the use of nominee corporations to acquire 
+real estate was entirely proper, and that the lenders in question were 
+
+
+on: 
+
+
+— 
+
+
+3 
+
+
+unconcerned about, and in some cases were aware of, the structure 
+of these transactions. Jd. at 171-188. Petitioner also defended the 
+charges on the ground that he relied on the advice of his counsel and 
+his accountant when structuring the transactions. /d. at 217-223. 
+
+
+Petitioner contested the land development fraud charges on the 
+ground that, among other things, the loan documents did not prohibit 
+him from advancing deposits to secure prospective buyers, and that 
+petitioner did not refuse to disclose the source of those advances to 
+any lender. J.A. 188-189. Petitioner also argued that his lender was 
+aware of how his construction draws were being used, and had given 
+its approval. Jd. at 193-194. Finally, petitioner challenged the tax 
+fraud charges on the ground that the funds cited by the government 
+were not “income” for the 1985 and 1986 tax years, but were merely 
+loan proceeds, and that under an allowable interpretaion of the tax 
+laws, the loan proceeds were not treated as “income” until the 
+properties in question were sold in the future. /d. at 208-211. 
+
+
+2. Petitioner proceeded to trial in 1992. At the jury 
+instruction conference, the government proposed the use of Eleventh 
+Circuit pattern jury instructions which specified that the materiality of 
+petitioner’s alleged misrepresentations and omissions was for the court 
+— not the jury — to decide. Petitioner’s counsel objected on the 
+ground that materiality should be decided by the jury. J.A. 165-166. 
+The trial court overruled petitioner's objections. J.A. 166-167. While 
+the trial court instructed the jury that materiality was an element of 
+the offenses charged (J.A. 249), the court also “instructed the jury 
+that if it found beyond a reasonable doubt that the alleged statements, 
+representations, or promises were false, it need not consider whether 
+they were material because materiality was not an issue for the jury 
+to decide. The court entered its own findings regarding materiality 
+outside the presence of the jury. Petitioner timely objected to the 
+court's findings and its failure to submit the issue of materiality to the 
+jury.” Pet. App. 3a. See also J.A. 249, 251-252, 252-253, 256. 
+During the trial, the trial court dismissed three counts of the 
+indictment. J.A. 20. The jury also acquitted petitioner of eight 
+charges relating to the submission of inflated appraisals, but convicted 
+him on all other counts, including the mail, wire, bank and tax fraud 
+counts. J.A. 27. 
+
+
+4 
+
+
+3. On June 19, 1995, while petitioner's direct appeal to the 
+Eleventh Circuit was pending, this Court decided United States v. 
+Gaudin, 515 U.S. 506 (1995), which held that the Constitution 
+provides a criminal defendant with the “right to have the jury decide 
+materiality.” Jd. at 511. On the basis of Gaudin, petitioner argued to 
+the court of appeals that his convictions for mail, wire, bank and tax 
+fraud all should be vacated because materiality is an element of each 
+of those statutory offenses, and because the trial court's directed 
+verdict on the element of materiality deprived him of the 
+constitutional right to have the jury decide every element of the 
+charged offenses. 
+
+
+The Eleventh Circuit affirmed petitioner’s convictions. As to the 
+tax fraud conviction under 26 U.S.C. § 7206(1), the Eleventh Circuit 
+acknowledged that under Gaudin, the district court “erred in not 
+submitting the element of materiality to the jury.” Pet. App. 1 la. 
+However, following circuit precedent, the court of appeals held that 
+“Gaudin errors do not require automatic reversal but are subject to 
+harmless error analysis.” Pet. App. lla n.10. Specifically, in United 
+States v. Fern, 117 F.3d 1298 (11th Cir. 1997), the Eleventh Circuit 
+had held that “a Gaudin error does not fall within that limited class 
+of errors known as ‘structural errors,’ ¢.g., errors ‘affecting the 
+framework within which the trial proceeds, rather than simply an 
+error in the trial process itself.’ To the contrary, a Gaudin error is 
+more correctly viewed as analogous to improperly instructing the jury 
+on an element of the offense, an error which is subject to harmless 
+error analysis.” Jd. at 1307 (quoting Johnson v. United States, 117 
+S. Ct. 1544, 1550 (1997)). 
+
+Having found that the trial court's Gaudin error was subject to 
+harmless-error review, the court of appeals proceeded to hold that the 
+error was harmless “[bjecause materiality was not in dispute with 
+respect to Neder’s tax fraud offense, [and thus] the district court's 
+Gaudin error ‘did not contribute to the verdict obtained."” Pet. App. 
+13a (quoting Yates v. Evatt, 500 U.S. 391, 403 (1991)). 
+
+The Eleventh Circuit also affirmed petitioner’s mail, wire and 
+bank fraud convictions, but on different grounds. Citing United States 
+v. Wells, 519 U.S. 482 (1997), the court of appeals held that the trial 
+
+
+5 
+
+
+court’s directed finding of materiality did not violate petitioner’s 
+rights under Gaudin because materiality is not an element of those 
+offenses. The court held that materiality is not an element of the mail 
+and wire fraud statutes (18 U.S.C. §§ 1341 & 1343) because they “do 
+not contain the word ‘material.’ Further, § 1341 was enacted as part 
+of the recodification of the federal criminal code in 1948, and § 1343 
+was patterned after § 1341. Based on these factors considered in 
+Wells, we conclude that materiality is not an element of fraud offenses 
+in §§ 1341 and 1343.” Pet. App. 7a. The court reached the same 
+conclusion as to the bank fraud statute (18 U.S.C. § 1344), because 
+“its language, like § 1343, was patterned after § 1341.” Jd. at 9a. 
+
+
+The Eleventh Circuit acknowledged that unlike the statute in 
+Wells (18 U.S.C. § 1014), which prohibits “false statements,” 
+§§ 1341, 1343 and 1344 punish a “scheme or artifice” either “to 
+defraud” or to “obtain{]” money or property “by means of false or 
+fraudulent pretenses, representations, or promises.” However, 
+rejecting the Ninth Circuit's contrary holding in United States v. 
+Nash, 115 F.3d 1431, 1436 (1997), cert. denied, 118 S. Ct. 1054 
+(1998), the court held that the textual differences between § 1014 and 
+§§ 1341, 1343 and 1344 were irrelevant under Wells: 
+
+We disagree with the Ninth Circuit’s analysis that since 
+
+the term “representation” included “some notion of 
+
+materiality at common law,” this indicates that Congress 
+
+intended for materiality to be an element of the bank fraud 
+statute. * * * This ignores that Congress now has 
+employed the terms “material representation” and 
+
+“material misrepresentation” in other statutes. The fact 
+
+that Congress uses the term “material” in conjunction with 
+
+“representation” or “misrepresentation” in some statutes 
+
+but not in others rebuts any presumption that Congress 
+
+now intends to make materiality an element under a statute 
+whenever it employs the term “representation” in that 
+statute. 
+Pet. App. 9a. The court also rejected the view that “there is a 
+materiality aspect to the determination whether the acts of an accused 
+give rise to a scheme to defraud.” /d. at 7a n.4 (citing United States 
+
+
+6 
+
+
+v. Cochran, 109 F.3d 660, 667 n.3 (10th Cir. 1997)). Finally, the 
+court rejected the argument that because § 1344 targets “fraud,” it 
+necessarily requires proof of materiality. According to the Eleventh 
+Circuit, “[t}his approach is inconsistent with Wells, which disfavors 
+inferring a materiality requirement where the statutory language does 
+not expressly include one.” Pet. App. 10a. Having concluded that 
+materiality is not an element of §§ 1341, 1343 and 1344, the court of 
+appeals held that the failure of the jury to decide the element of 
+materiality as to those offenses did not violate Gaudin, and thus 
+affirmed petitioner’s mail, wire and bank fraud convictions. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. At issue in this case is whether it can ever be harmless 
+error for a trial court to direct a verdict in favor of the prosecution on 
+an element of a charged offense — that is, for a person to stand 
+convicted of a crime even though the jury never found him guilty 
+beyond a reasonable doubt as to every element of the crime. The 
+Eleventh Circuit answered this question in the affirmative, holding 
+that the trial court’s directed verdict on the materiality element of the 
+tax fraud charges was subject to harmless-error review because, in the 
+view of the court of appeals, “materiality was not in dispute regarding 
+Neder’s tax fraud offense,” and therefore “the district court’s Gaudin 
+error ‘did not contribute to the verdict obtained.’” Pet. App. 12a 
+(quoting Yates v. Evatt, 500 U.S. 391, 403 (1991)). The court thus 
+“filled the gaps” in the jury’s verdict and supplied the missing factual 
+findings that the jury never made, based on nothing more than its own 
+views concerning the record evidence. As we demonstrate below, the 
+court of appeals’ decision utterly disregards the right to trial by jury 
+and patently misapplies this Court’s harmless-error decisions, which 
+confirm that harmless-error review is impermissible where the jury 
+has not rendered a verdict on every element of the offense charged. 
+
+
+Under Chapman v. California, 386 U.S. 18 (1967), and its 
+progeny, the harmless-error doctrine applies only where the jury 
+actually has rendered a complete verdict on every element of the 
+offense, and may then be used only to gauge whether the 
+constitutional error contributed to the verdict actually entered. In this 
+case, the court of appeals unhinged the harmless-error doctrine, using 
+
+
+7 
+
+
+it to supply factual findings that the jury never made on an element 
+that the district court explicitly removed from the jury's 
+consideration. Such misuse of the harmless-error doctrine squarely 
+violates the Court’s unanimous decision in Sullivan v. Louisiana, 508 
+U.S. 275, 280 (1993), in which this Court made clear that where a 
+jury fails to render a complete verdict, “the entire premise of 
+Chapman review is simply absent.” Thus, “the question whether the 
+same verdict of guilty-beyond-a-reasonable-doubt would have been 
+rendered absent the constitutional error is utterly meaningless. There 
+is no object, so to speak, upon which the harmless-error scrutiny can 
+operate.” Jbid. (emphasis in original). In this case, the court of 
+
+The court of appeals justified its use of the harmless-error 
+doctrine by finding that the materiality element of the tax fraud 
+charges was “not in dispute,” i.e., based on nothing more than the 
+court’s own subjective perception of the record evidence. It has firmly 
+been established for more than half a century, however, that a court 
+may never direct a verdict of guilt regardless of how “overwhelming” 
+the evidence may seem. Where, as here, the trial court has directed 
+a verdict of guilt on an element of the offense charged, and the jury 
+thus has failed to render a complete verdict on every element of the 
+crime, the harmless-error doctrine has no application. In such a case, 
+regardless of how “overwhelming” the evidence might appear to a 
+reviewing court, “[t}he most an appellate court can conclude is that 
+a jury would surely have found petitioner guilty beyond a reasonable 
+doubt — not that the jury’s actual finding of guilty beyond a 
+reasonable doubt would surely not have been different absent the 
+constitutional error. That is not enough.” Sullivan, 508 U.S. at 280. 
+
+
+Il. The federal mail fraud, wire fraud, and bank fraud statutes 
+each prohibit a “scheme or artifice to defraud.” 18 U.S.C. §§ 1341, 
+1343, 1344. This language, which Congress used when it first enacted 
+the mail fraud statute in 1872, compels the conclusion that the statutes 
+prohibit only schemes involving a material misrepresentation or 
+
+It is a “cardinal rule of statutory construction” (Molzof v. United 
+States, 502 U.S. 301, 307 (1992)) that this Court “presume[s] that 
+
+
+Congress incorporates the common-law meaning of the terms it uses 
+if those terms * * * have accumulated settled meaning under * * * the 
+common law and the statute [does not] otherwise dictate.” United 
+States v. Wells, 519 U.S. 482, 491 (1997) (internal quotation 
+omitted). The word “defraud” thus brings with it the common-law 
+elements of fraud, which have always included materiality. See, e.g., 
+Smith v. Richards, 38 U.S. (13 Pet.) 26, 39 (1839) (in action “to set 
+aside a contract for fraud,” “the misrepresentation must be of 
+something material”); BMW of N. Am., Inc. v. Gore, 517 U.S. 559, 
+579 (1996) (“Actionable fraud requires a material misrepresentation 
+Or omission”). 
+
+
+The presumption that statutory language bears its common-law 
+meaning can be overcome, but only if “Congress has unequivocally 
+expressed an intent to the contrary.” NLRB v. Amax Coal Co., 453 
+U.S. 322, 330 (1981). In this case, every indication leads to the 
+conclusion that Congress meant the word “defraud” to bear its 
+common-law meaning, including the materiality element. The early 
+criminal analog of civil fraud that existed in 1872 (the crime of “false 
+pretenses”) required proof of materiality, and the legislative history, 
+the early case law, and the surrounding statutory language all confirm 
+a similar understanding of the mail fraud statute. 
+
+
+But even if there were any ambiguity as to the meaning of the 
+mail fraud, wire fraud, and bank fraud statutes, they would still have 
+to be interpreted to include a materiality element for at least two other 
+reasons. First, because the word “defraud” so strongly implies that 
+materiality is required, any other reading of the statutes would 
+deprive citizens of their right “to be informed as to what the State 
+commands or forbids.” Lanzetta v. New Jersey, 306 U.S. 451, 453 
+(1939). Second, because “text, structure, and history fail to establish 
+that the Government's position is unambiguously correct,” the rule of 
+lenity also requires that this Court “resolve the ambiguity in 
+[petitioner's] favor.” United States v. Granderson, 511 U.S. 39, 54 
+(1994). 
+
+
+ARGUMENT 
+
+
+I. A DIRECTED VERDICT OF GUILT ON AN ELEMENT 
+OF A CHARGED OFFENSE CANNOT CONSTITUTION- 
+ALLY BE SUBJECT TO HARMLESS-ERROR REVIEW. 
+
+
+“The right to have a jury make the ultimate determination of 
+guilt has an impressive pedigree." United States vy. Gaudin, 515 U.S. 
+506, 510 (1995) (citing 4 W. BLACKSTONE, COMMENTARIES *343; 2 
+J. STORY, COMMENTARIES ON THE CONSTITUTION OF THE UNITED 
+STATES 541 n.2 (4th ed. 1873)). As this Court has observed: 
+
+
+It is sufficient for present purposes to say that by the time 
+our Constitution was written, jury trial in criminal cases 
+had been in existence in England for several centuries and 
+carried impressive credentials traced by many to Magna 
+Carta. Its preservation and proper operation as a 
+protection against arbitrary rule were among the major 
+objectives of the revolutionary settlement which was 
+expressed in the Declaration and Bill of Rights of 1689. 
+
+
+Duncan v. Louisiana, 391 U.S. 145, 151 (1968). The right to a jury 
+trial, in fact, was the only right proclaimed in each of the twelve state 
+constitutions in existence prior to the Constitutional Convention, and 
+is the only guarantee appearing in both the Constitution and the Bill 
+of Rights. A.W. Alschuler & A.G. Deiss, A Brief History of the 
+Criminal Jury in the United States, 61 U. Cui. L. REV. 867, 870 
+(1994). 
+
+A criminal defendant's right to trial by jury “includes, of 
+course, as its most important element, the right to have the jury, 
+rather than the judge, reach the requisite finding of ‘guilty.’” 
+Sullivan v. Louisiana, 508 U.S. 275, 277 (1993). The right is all- 
+encompassing, “giv[ing] a criminal defendant the right to have a jury 
+determine, beyond a reasonable doubt, his guilt of every element of 
+the crime with which he is charged.” Gaudin, 515 U.S. at 522-523 
+(emphasis added). As this Court held in Jn re Winship, 397 U.S. 358 
+(1970), “‘{njo man should be deprived of his life under the forms of 
+law unless the jurors who try him are able, upon their consciences, 
+
+
+10 
+
+
+to say that the evidence before them * * * is sufficient to show 
+beyond a reasonable doubt the existence of every fact necessary to 
+constitute the crime charged.’” Jd. at 363 (quoting Davis v. United 
+States, 160 U.S. 469, 493 (1895)). 
+
+In this case, it is undisputed that petitioner’s constitutional right 
+to a jury determination of guilt or innocence was violated by the trial 
+court’s directed verdict of guilt on the materiality element of the tax 
+fraud charges against him.' The court of appeals declared this 
+constitutional violation “harmless” based upon its own factual finding 
+that the element in question (materiality) was “not in dispute.” Pet. 
+App. 12a. The Eleventh Circuit’s threshold decision to engage in 
+harmless-error review, however, misapplied this Court’s harmless- 
+error decisions, which consistently have emphasized that the doctrine 
+may not be used by reviewing courts to supply findings of guilt that 
+the jury never made. Equally important, the court of appeals also 
+disregarded this Court’s decision in Sullivan, which held that where 
+(as here) the jury has not rendered a complete verdict on every 
+element of the offense charged, the harmless-error doctrine has no 
+application. The court of appeals’ decision to engage in harmless- 
+error review must be reversed. 
+
+
+A. Harmless-Error Review Cannot Be Used To Supply 
+Factual Findings On Elements That Were Removed 
+Explicitly From The Jury’s Consideration. 
+
+
+This Court’s harmless-error jurisprudence consistently reflects 
+the fundamental principle that the harmless-error doctrine only can be 
+applied when the jury has rendered a complete verdict on every 
+element of the offense charged. Without such a verdict, a reviewing 
+court is no more entitled to fill the gaps in the jury’s verdict than it 
+would to direct a verdict of guilt (which is precisely what occurred 
+below). In either case, the trial court’s error plainly qualifies as 
+
+
+' The jury also convicted petitioner of mail, wire and bank fraud without 
+any finding as to the materiality of his alleged representations or omissions. 
+If, as petitioner contends (see Section II, infra), materiality is an element of 
+those offenses, petitioner’s conviction on those charges must be reversed for 
+the same reason. 
+
+
+11 
+
+
+“structural” error, for there is nothing a reviewing court can do under 
+the Constitution that would allow it to declare the error “harmless.” 
+
+
+1. From its first articulation in Chapman v. California, 386 
+U.S. 18 (1967), the constitutional harmless-error doctrine has been 
+carefully limited to those cases in which an otherwise valid conviction 
+has been entered, and then only to avoid “reversal of the conviction 
+if the State could show ‘beyond a reasonable doubt that the error 
+complained of did not contribute to the verdict obtained.’” Sullivan, 
+508 U.S. at 279 (quoting Chapman, 386 U.S. at 24). See also 
+Delaware v. Van Arsdall, 475 U.S. 673, 681 (1986). As Chapman 
+explained, whenever a claim of harmless error is made, the court 
+must address two distinct questions: “(1) can the error be held to be 
+harmless, and (2) if so, was the error harmless in this case?” 386 
+U.S. at 20. If the appellate court answers the first question in the 
+negative, the error is one that cannot be harmless under the 
+Constitution, rendering the second question moot and ending the 
+harmless-error inquiry regardless of the strength of the evidence. See, 
+e.g., Sullivan v. Louisiana, 508 U.S. 275 (1993). 
+
+
+Under Sullivan, the jury’s failure to render a complete verdict 
+on the tax fraud charges against petitioner is an error of such 
+constitutional magnitude that it cannot be declared harmless. As 
+Sullivan explained, “[hjarmless-error review looks * * * to the basis 
+on which ‘the jury actually rested its verdict.’” 508 U.S. at 279 
+(quoting Yates v. Evatt, 500 U.S. 391, 404 (1991)).* By focusing 
+solely on the verdict actually entered by the jury, 
+
+
+the question [Chapman] instructs the reviewing court to 
+consider is not what effect the constitutional error might 
+generally be expected to have upon a reasonable jury, but 
+rather what effect it had upon the guilty verdict in the case 
+at hand. * * * The inquiry, in other words, is not 
+
+
+? Accord R. TRAYNOR, THE RIDDLE OF HARMLESS ERROR 21 (1970) (“It 
+is one thing for an appellate court to determine that a verdict was or was not 
+affected by error. It is quite another for an appellate court to become in 
+effect a second jury to determine whether the defendant is guilty”). 
+
+
+12 
+
+
+whether, in a trial that occurred without the error, a guilty 
+verdict would surely have been rendered, but whether the 
+guilty verdict actually rendered in this trial was surely 
+unattributable to the error. 
+
+
+Ibid. (emphasis added). It follows, then, that the harmless-error 
+doctrine applies only where the jury has “actually entered” a complete 
+guilty verdict; it is not a license for appellate courts to supply a 
+verdict, or a portion thereof, that the jury never entered. As Sullivan 
+put it, for an appellate court “to hypothesize a guilty verdict that was 
+never in fact rendered — no matter how inescapable the findings to 
+supp rt that verdict might be — would violate the jury-trial 
+guarantee.” [bid. 
+
+The foregoing principles compel the reversal of petitioner’s tax 
+fraud conviction because the jury that purportedly convicted petitioner 
+of tax fraud did not find an element of that offense. See, e.g., United 
+States v. DiRico, 78 F.3d 732, 737 (ist Cir. 1996) (holding that 
+Gaudin error in tax fraud case was not subject to harmless error 
+review because materiality was not decided by the jury). The 
+Constitution “require[s] criminal convictions to rest upon a jury 
+determination that the defendant is guilty of every element of the 
+crime with which he is charged, beyond a reasonable doubt.” Gaudin, 
+515 U.S. at 510. Without such a determination by the jury, “there 
+has been no jury verdict within the meaning of the Sixth 
+Amendment.” Sullivan, 508 U.S. at 280. There is also, then, “no 
+object, so to speak, upon which the harmless-error scrutiny can 
+operate.” bid. (emphasis in original). 
+
+2. For an appellate court to declare the trial court’s removal 
+of an element of an offense harmless error based on its own view of 
+the evidence concerning that element (as the Eleventh Circuit did 
+below) is tantamount to affirming a directed verdict against the 
+defendant on that element. In fact, that is precisely what occurred 
+here. The trial court below not only instructed the jury that 
+materiality “is not a matter for you to decide”; it actually decided 
+materiality itself, directing a verdict in favor of the prosecution on 
+that element. J.A. 166-167, 249, 251-252, 252-253, 256. The 
+Constitution forbids such usurpation of the jury’s function. 
+
+
+13 
+It is axiomatic that “although a judge may direct a verdict for 
+the defendant if the evidence is legally insufficient to establish guilt, 
+he may not direct a verdict for the State, no matter how 
+overwhelming the evidence.” Sullivan, 508 U.S. at 277.’ The 
+prohibition against directed verdicts of guilt “stems from the Sixth 
+Amendment’s clear command to afford jury trials in serious criminal 
+cases.” Rose v. Clark, 478 U.S. 570, 578 (1986). As this Court 
+explained in United States v. Martin Linen Supply Co., 430 U.S. 564 
+(1977), this categorical rule reaffirms the constitutional role of the 
+jury as the exclusive finder of fact: 
+
+
+In a jury trial the primary finders of fact are the jurors. 
+Their overriding responsibility is to stand between the 
+accused and a potentially arbitrary or abusive Government 
+that is in command of the criminal sanction. For this 
+reason, a trial judge is prohibited from entering a 
+judgment of conviction or directing the jury to come 
+forward with such a verdict, regardless of how 
+overwhelmingly the evidence may point in that direction. 
+Id. at 572-573 (citations omitted). 
+
+
+To direct a verdict of guilt on an element of a charged offense, 
+and thus foreclose the jury’s ability to decide that element, is an error 
+of such constitutional dimension that it defies harmless-error scrutiny. 
+Indeed, this Court confirmed in Rose that 
+
+
+> Accord, e.g., Sparf v. United States, 156 U.S. 51, 105 (1895) (“it is 
+not competent for the court, in a criminal case, to instruct the jury 
+peremptorily to find the accused guilty of the offense charged, or of any 
+criminal offense less than that charged”); id. at 174 (Gray, J., dissenting) 
+(“the court can never order the jury to convict, for no one can be found 
+guilty but by the judgment of his peers”); Connecticut v. Johnson, 460 U.S. 
+73, 83 (1983) (plurality) (“The Court consistently has held that ‘a trial judge 
+is prohibited from entering a judgment of conviction or directing the jury to 
+come forward with such a verdict * * * regardless of how overwhelmingly 
+the evidence may point in that direction’”) (quoting United States v. Martin 
+Linen Supply Co., 430 U.S. 564, 572-573 (1977)). 
+
+
+14 
+
+
+harmless-error analysis presumably would not apply if a 
+court directed a verdict for the prosecution in a criminal 
+trial by jury. * * * This rule stems from the Sixth 
+Amendment’s clear command to afford jury trials in 
+serious criminal cases. * * * Where that right is altogether 
+denied, the State cannot contend that the deprivation was 
+harmless because the evidence established the defendant's 
+guilt; the error in such a case is that the wrong entity 
+judged the defendant guilty. 
+
+
+478 U.S. at 578 (emphasis added) (citing Martin Linen, 430 U.S. at 
+572-73; Carpenters & Joiners v. United States, 330 U.S. 395, 408 
+(1947); Duncan v. Louisiana, 391 U.S. 145 (1968)). See also Arizona 
+v. Fulminante, 499 U.S. 279, 294 (1991) (White J., dissenting) 
+(directed verdict for the State is among the “constitutional errors that 
+invalidate a conviction even though there may be no reasonable doubt 
+that the defendant is guilty and would be convicted absent the trial 
+error”); R. TRAYNOR, THE RIDDLE OF HARMLESS ERROR 21 (1970) 
+(same). Simply put, the complete removal of an element from the 
+jury’s consideration is an error that can never be regarded as 
+harmless. To hold otherwise “would be to dispense with trial by 
+jury.” California v. Roy, 117 S. Ct. 337, 339 (1996) (Scalia, J., 
+concurring). 
+3. Although most errors that occur during the trial process 
+will be amenable to harmless-error scrutiny, there are certain 
+“structural” errors that so fundamentally impair the right to a fair 
+trial that they “defy analysis by ‘harmless-error’ standards” 
+(Fulminante, 499 U.S. at 307-309), and thus “require reversal 
+without regard to the evidence in the particular case.” Rose, 478 U.S. 
+at 577. A conviction rendered without a verdict of guilty beyond a 
+reasonable doubt on every element of the offense charged is among 
+those errors. 
+
+
+In Fulminante, this Court “distinguished between, on the one 
+hand, ‘structural defects in the constitution of the trial mechanism, 
+which defy analysis by “harmless-error” standards,’ and, on the other 
+hand, trial errors which occur ‘during the presentation of the case to 
+the jury, and which may therefore be quantitatively assessed in the 
+
+
+15 
+
+
+context of other evidence presented.’” Sullivan, 508 U.S. at 281 
+(quoting Fulminante, 499 U.S. at 307-309). An incomplete jury 
+verdict is not attributable to the presentation of evidence. And like 
+other errors that this Court has regarded as structural, there is nothing 
+that a reviewing court can look to that would allow it to declare the 
+error harmless since the court cannot constitutionally predict what the 
+jury’s verdict would have been if a complete verdict had been 
+entered. As the Court held in Sullivan, where the jury’s verdict is 
+incomplete, “[t}he most an appellate court can conclude is that a jury 
+would surely have found petitioner guilty beyond a reasonable doubt 
+— not that the jury’s actual finding of guilty beyond a reasonable 
+doubt would surely not have been different absent the constitutional 
+error. That is not enough.” Sullivan, 508 U.S. at 280 (emphasis 
+added). Accord Cabana v. Bullock, 474 U.S. 376, 384-385 (1986) 
+(“Findings made by a judge cannot cure deficiencies in the jury’s 
+finding as to the guilt or innocence of a defendant resulting from the 
+court’s failure to instruct it to find an element of the crime”). 
+
+
+Sullivan held that a defective reasonable doubt instruction could 
+not be reviewed for harmless error because the error produced an 
+incomplete verdict that fundamentally deprived the defendant of his 
+right to a jury determination of guilt or innocence: 
+
+
+Denial of the right to a jury verdict of guilt beyond a 
+reasonable doubt is certainly an error of the [structural] 
+sort, the jury guarantee being a “basic protection” whose 
+precise effects are unmeasurable, but without which a 
+criminal trial cannot reliably serve its function. * * * —The 
+deprivation of that right, with consequences that are 
+necessarily  unquantifiable § and indeterminate, 
+unquestionably qualifies as “structural error.” 
+
+
+508 U.S. at 281-282 (quoting Rose, 478 U.S. at 577; Duncan, 391 
+U.S. at 155). Accord Duncan, 391 U.S. at 149 (“trial by jury in 
+criminal cases is fundamental to the American scheme of justice”); 
+Carella v. California, 491 U.S. 263, 268 (1989) (Scalia, J., 
+concurring) (the right to a jury determination of guilt “is a structural 
+guarantee that ‘reflect[s] a fundamental decision about the exercise of 
+official power — a reluctance to entrust plenary powers over the life 
+
+
+16 
+
+
+and liberty of the citizen to one judge or to a group of judges’”) 
+(quoting Duncan, 391 U.S. at 156). 
+
+
+Just like the defective reasonable doubt instruction in Sullivan, 
+the trial court’s explicit removal of materiality from the jury’s 
+consideration below produced a constitutionally incomplete verdict. 
+When such an error occurs, “a criminal trial cannot reliably serve its 
+function as a vehicle for determination of guilt or innocence * * * and 
+no criminal punishment may be regarded as fundamentally fair.” 
+Rose, 478 U.S. at 577-578. If anything, the district court’s directed 
+verdict below was even more a “structural” error than that in 
+Sullivan, which “neither * * * removed an element of the offense 
+from the jury’s consideration [njor prevented the jury from 
+considering certain evidence.” Sullivan, 508 U.S. at 283 (Rehnquist, 
+C.J., concurring). Here, by contrast, that is precisely what occurred.‘ 
+
+
+In short, Sullivan compels the conclusion that a trial court’s 
+removal of an element is a structural error because, in such a 
+circumstance, “[a] reviewing court can only engage in pure 
+speculation — its view of what a reasonable jury would have done. 
+And when it does that, ‘the wrong entity judge[s] the defendant 
+guilty.’” Sullivan, 508 U.S. at 281 (quoting Rose, 478 U.S. at 578).° 
+
+
+* See G. Chernack, Note, Silence Cannot Be Harmless: United States v. 
+Rogers, 106 YALE L.J. 2305, 2309 (1997) (“In Sullivan, the jury had 
+considered all the issues but simply had not applied the proper standard; in 
+Rogers, the jury failed to consider a necessary element of the offense. It is 
+difficult to imagine why harmless-error review should be applied in the latter 
+situation when such review is inappropriate in the former. By completely 
+undermining the promise of trial by jury, an omitted instruction should lead 
+to automatic reversal”). 
+
+
+> See also J. Greabe, Spelling Guilt Out of a Record? Harmless-Error 
+Review of Conclusive Mandatory Presumptions and Elemental 
+Misdescriptions, 74 B.U. L. REV. 819, 850 (1994) (“The very same logic in 
+{Sullivan} compels the conclusion that a deprivation of the rights to have the 
+jury make all elemental determinations and to consider all admitted, 
+elementally relevant evidence — rights as much a part of the Sixth 
+
+
+17 
+
+
+Accord Carella, 491 U.S. at 269 (Scalia, J., concurring) (where 
+essential factual issue is omitted, “the problem would not be cured by 
+an appellate court’s determination that the record evidence 
+unmistakably established guilt, for that would represent a finding of 
+fact by judges, not by a jury”). The absence of an actual jury verdict 
+on each essential element of the offense thus “unquestionably qualifies 
+as ‘structural error.’” Sullivan, 508 U.S. at 281-282. 
+
+
+B. This Court’s Instructional Error Decisions Make Clear 
+That The Harmless-Error Doctrine Is Inapplicable 
+When The Jury Has Failed To Render A Complete 
+Verdict On Every Element Of The Offense Charged. 
+
+
+1. In confronting the question whether, and to what extent, 
+instructional errors are amenable to harmless-error scrutiny, the Court 
+consistently has adhered to the fundamental principle that an appellate 
+court may not serve as the finder of fact. In Carpenters & Joiners v. 
+United States, 330 U.S. 395 (1947), for instance, the trial court failed 
+properly to instruct the jury that the defendants could be found guilty 
+of conspiracy to violate the antitrust laws only if the defendants 
+actively participated in the conspiracy. This Court reversed the 
+conviction, despite clear record evidence that the defendants had in 
+fact participated in the alleged conspiracy, expressly refusing to weigh 
+the evidence to determine whether the conspiracy element had been 
+established: 
+
+We do not enter into an analysis of the evidence that was 
+
+relied upon to show the participation of the unions in the 
+
+conspiracy. * * * No matter how strong the evidence may 
+be of an association’s or organization's participation 
+
+through its agents in the conspiracy, there must be a 
+
+charge to the jury setting out correctly the limited liability 
+
+under § 6 of such association or organization for acts of 
+its agents. For a judge may not direct a verdict of guilty 
+no matter how conclusive the evidence. 
+
+
+Amendment's jury-trial guarantee as the right to a jury verdict of guilty 
+beyond a reasonable doubt — constitutes structural error”). 
+
+
+18 
+
+
+330 U.S. at 408-409 (emphasis added). The constitutional prohibition 
+on directed guilty verdicts in criminal cases equally prohibits appellate 
+courts from seeking to cure incomplete jury verdicts by finding that 
+the evidence established the missing elements of guilt beyond a 
+reasonable doubt. As Justice Scalia has explained: 
+
+
+A defendant may assuredly insist upon observance of [the 
+jury trial] guarantee even when the evidence against him 
+is so overwhelming as to establish guilt beyond a 
+reasonable doubt. That is why the Court has found it 
+constitutionally impermissible for a judge to direct a 
+verdict for the State. That is also why in [Carpenters] the 
+Court did not treat as harmless a jury instruction that 
+mistakenly did not require express authorization or 
+ratification to hold a union criminally liable for its 
+officers’ participation in an antitrust conspiracy — 
+regardless of how overwhelming the evidence that 
+authorization or ratification in fact existed. 
+
+
+Carella, 491 U.S. at 268-69 (concurring opinion) (citations omitted). 
+
+
+In contrast to the circumstances presented in Carpenters, it is 
+possible that a jury, while misinstructed on an element, may 
+nonetheless find the facts necessary to establish the proper element 
+beyond a reasonable doubt. For instance, in Pope v. Illinois, 481 
+U.S. 497 (1987), the jury was instructed that it should base its 
+determination whether the materials at issue were criminally obscene 
+upon how ordinary adults in the State of Illinois would view the 
+First Amendment, because obscenity should be judged not from the 
+perspective of “an ordinary member of any given community,” but 
+rather from that of “a reasonable person.” /d. at 500-501. The Court 
+remanded the case to the state appellate court to determine whether 
+the error was harmless. /d. at 504. 
+
+
+Although finding that the erroneous jury instructions were 
+subject to harmless-error scrutiny, Pope is fully consistent with the 
+basic principle, reflected in Carpenters, that an appellate court may 
+not supply a factual finding that the jury never made. As the Pope 
+Court explained, when determining whether to engage in harmless- 
+
+
+under a community standard and come to a different conclusion under 
+a reasonable person standard.” Carella, 491 U.S. at 271 (concurring 
+opinion). Thus, the appellate court in Pope validly could conclude 
+
+
+Read in tandem, Carpenters and Pope demonstrate that, at least 
+analytically, the wholesale omission of an element is “as easily 
+characterized as a ‘misdescription of an element’ of the crime, as it 
+is characterized as an error of ‘omission.’” Roy, 117 S. Ct. at 339. 
+See also Johnson v. United States, 117 S. Ct. 1544, 1550 (1997) 
+(same). Omissions and misdescriptions each can “deprive[] the jury 
+of its factfinding role” and thus will “circumscribe the availability of 
+harmless-error analysis.” Carella, 491 U.S. at 269, 270 (Scalia, J., 
+concurring). But in either event, the instructional error can be subject 
+to harmless-error scrutiny only where the facts found by the jury 
+under the instructions actually given “are so closely related” to the 
+element omitted by the trial court “that no rational jury could find 
+those facts without also finding” the facts necessary to establish the 
+omitted element beyond a reasonable doubt, such that “making those 
+findings is functionally equivalent to finding the [omitted] element.” 
+Sullivan, 508 U.S. at 281. Accord B. Rosenberg, The Effect of 
+Sullivan v. Louisiana on Harmless Error Analysis of Jury Instructions 
+That Omit an Element of the Offense, 29 RUTGERS L.J. 315, 323-26 
+(1998). 
+
+
+In short, instructional errors concerning a particular element 
+“can be harmless only if the jury verdict on other points effectively 
+embraces [the element] or if it is impossible, upon the evidence, to 
+have found what the verdict did find without finding this point as 
+
+
+20 
+
+
+well.” Roy, 117 S. Ct. at 339-340 (Scalia, J., concurring). “The error 
+is harmless in this situation because it is beyond a reasonable doubt 
+that the jury found the facts necessary to support the conviction.” 
+Yates, 500 U.S. at 406 n.10. On the other hand, where, as here, the 
+erroneous instructions allow the jury to convict without finding “the 
+facts necessary to support the conviction,” the error simply is not 
+subject to harmless-error scrutiny. 
+
+2. While analytically similar, instructional errors involving 
+tesions, snlodescristions end ions will likely differ in the 
+frequency with which they are amenable to harmless-error review — 
+that is, in the frequency with which it can be determined that the jury 
+actually found the element despite the error. Logically, it will be far 
+less likely in the case of an omission that the jury’s verdict on other 
+elements necessarily embraced the omitted element because, by 
+definition, the jury will have received no direction as to that element. 
+E ions are diff «p . , 
+does not remove [an element] from the jury’s consideration, it is 
+distinguishable from other instructional errors that prevent a jury from 
+considering an issue.” Rose, 478 U.S. at 580 n.8 (quoting 
+Connecticut v. Johnson, 460 U.S. at 95 n.3 (Powell, J., dissenting)). 
+“When a jury is instructed to presume [an element] from predicate 
+facts, it still must find the existence of those facts beyond a 
+reasonable doubt.” Jd. at 580. In other words, the record may show 
+that the erroneous presumption was unimportant in relation to 
+everything else the jury considered on the issue in question, such that 
+“{a] reviewing court may thus be able to conclude that the 
+presumption played no significant role in the finding of guilt beyond 
+a reasonable doubt.” Sullivan, 508 U.S. at 281 (citing Yates, 500 
+U.S. at 402-406). Likewise, in the case of a simple misdescription (as 
+in Pope), the erroneous instruction may be simply “superfluous” to 
+the extent that “the predicate facts conclusively establish” the ultimate 
+
+fact. See Rose, 478 U.S. at 580-581. 
+
+
+In contrast to an erroneous presumption (and many 
+misdescriptions), the complete removal of an element by the trial 
+court deprives the jury of an opportunity to find the element required 
+for conviction. In such a case, it would be impossible for a reviewing 
+
+
+21 
+
+
+court to determine that the jury actually found the proper element 
+despite the instructional error — particularly where, as here, the trial 
+atin ted demi wilt cea Seehigth y" 
+
+f. If a conclusive presumption “tend{s] to 
+deter a jury from considering any evidence for the presumed fact 
+mtn me 9th oe eH (Yates, 500 U.S. at 406 n.10), the 
+complete removal of an element completely precludes the jury’ 
+consideration of that element. lg 
+
+
+When faced with the omission of an element from the jury 
+instructions, a reviewing court can find that the jury found the facts 
+establishing the omitted element only if the jury instructions actually 
+given necessarily embraced the missing element. As Justice Scalia has 
+explained, Pope was such a case because the jury could not have 
+found a magazine obscene under a “community” standard without 
+also finding it obscene under a “reasonable person” standard. 
+Carella, 491 U.S. at 271 (concurring opinion). In Carpenters, by 
+contrast, a finding of guilt in accordance with the jury charge did not 
+require the jury to find that the defendants actively engaged in a 
+conspiracy beyond a reasonable doubt. Carpenters, 330 U.S. at 407 
+& n.19. Notwithstanding the apparent strength of the evidence, 
+nothing the jury was asked to consider in Carpenters required it to 
+make the requisite finding. /d. at 408. 
+
+In short, the focus in each of this Court's instructional error 
+cases always has been on what the jury actually found — not on what 
+the jury hypothetically would have found had it been instructed 
+correctly. See Sullivan, 508 U.S. at 279-280. Indeed, never has this 
+Court allowed a trial or reviewing court to decide a factual element 
+of a crime that the jury did not consider. Under Sullivan, “a criminal 
+defendant is constitutionally entitled to a jury verdict that he is guilty 
+of the crime, and absent such a verdict the conviction must be 
+reversed, ‘no matter how inescapable the findings to support that 
+verdict might be."” Roy, 117 S. Ct. at 339 (Scalia, J., concurring) 
+(quoting Sullivan, 508 U.S. at 279). In this case, it is undisputed that 
+the jury never made any findings concerning the materiality of any of 
+the representations or omissions alleged by the government. Under 
+
+
+22 
+
+
+Gaudin, this was clearly a question for the jury to decide. Sullivan 
+thus compels the reversal of petitioner’s convictions. 
+
+
+C. Removal Of An Element From The Jury’s Consider- 
+ation Cannot Be Cured By An Appellate Court’s 
+Finding That The Element Was “Not In Dispute,” Or 
+That The Evidence Of Guilt Was “Overwhelming” 
+
+
+The Eleventh Circuit justified its use of the harmless-error 
+doctrine by finding that the materiality element of the tax fraud 
+charges “was not in dispute.” Pet. App. 12a. This “finding,” 
+however, simply reflects the court of appeals’ own perception of the 
+evidence at trial. Petitioner did not admit to any element of the 
+offenses with which he was charged. Nor did he plead guilty to any 
+charges. Thus, the fact that the court of appeals may have viewed the 
+evidence concerning materiality as “not in dispute,” or even 
+“overwhelming,” provided no constitutional basis for invoking 
+harmless-error review. 
+
+1. An accused who (like petitioner) wishes to contest the 
+charges against him need only enter a general plea of not guilty. “In 
+the federal courts, ‘{a] simple plea of not guilty * * * puts the 
+prosecution to its proof as to all elements of the crime charged.’” 
+Estelle v. McGuire, 502 U.S. 62, 69-70 (1991) (quoting Mathews v. 
+United States, 485 U.S. 58, 64-65 (1988)) (emphasis added). After 
+pleading not guilty, even a defendant who breaks down and openly 
+admits his or her guilt on the stand is “justified * * * in defending 
+solely in reliance on the presumption of his innocence and the State’s 
+burden of proof.” Connecticut v. Johnson, 460 U.S. at 87 n.16 
+(plurality opinion). 
+
+
+® Accord Old Chief v. United States, 117 S. Ct. 644, 659 (1997) 
+(O’Connor, J., dissenting) (“{aJt trial, a defendant may * * * choose to 
+contest the Government's proof on every element; or he may concede some 
+elements and contest others; or he may do nothing at all. Whatever his 
+choice, the Government still carries the burden of proof beyond a reasonable 
+doubt on each element”); Roe v. United States, 287 F.2d 435, 440 (Sth Cir. 
+1961) (a “plea of not guilty puts all in issue, even the most patent truths”). 
+
+
+— 
+
+
+23 
+
+
+Thus, regardless of whether materiality was the central focus of 
+the trial on petitioner's tax fraud charges, the government clearly had 
+the burden of proving materiality beyond a reasonable doubt, and the 
+jury alone was constitutionally required to decide whether that 
+element was established. 
+
+
+2. That a reviewing court may view an element removed by 
+the trial court from the jury's consideration as “not in dispute,” or 
+evidence of guilt concerning that element as “overwhelming,” 
+provides no justification for engaging in harmless-error review. 
+Where, as here, the trial court has directed a verdict for the State on 
+a particular element, the strength of the evidence on that element is 
+completely irrelevant. As this Court held in Sullivan, a trial court 
+“may not direct a verdict for the State, no matter how overwhelming 
+the evidence.” 508 U.S. at 277 (emphasis added). 
+
+
+Whether a particular error is amenable to harmless-error 
+scrutiny has nothing to do with the nature or strength of the evidence. 
+It depends entirely on the nature of the error. For this reason, a 
+structural error is “not curable by overwhelming record evidence of 
+guilt.” Carella, 491 U.S. at 270 (Scalia, J., concurring) (citing 
+Carpenters, 330 U.S. at 408-409). Under Chapman, the first question 
+an appellate court must ask is whether the error is even suitable to 
+harmless-error scrutiny. Only if the harmless-error doctrine cah 
+constitutionally be applied may the appellate court then address 
+whether, in light of the evidence adduced at trial, the error actually 
+was harmless. Sullivan, 508 U.S. at 280. For this reason, a 
+“structural” error that “deflies] analysis by ‘harmless-error’ 
+standards” (Fulminante, 499 U.S. at 307-309), “require[s] reversal 
+pe regard to the evidence in the particular case.” Rose, 478 U.S. 
+
+
+Last Term, in Rogers v. United States, 118 S. Ct. 673 (1998), 
+even the government conceded “that language in some of this Court's 
+recent harmless-error decisions indicates that, as a general matter, it 
+is inappropriate to rely on ‘overwhelming evidence’ to determine what 
+a jury would have found in the absence of an error, as distinguished 
+from what the jury actually did find despite that error.” Brief for the 
+United States, Rogers v. United States, No. 96-1279, at 24 (citing 
+
+
+24 
+
+
+Sullivan, 508 U.S. at 280; Yates, 500 U.S. at 404; Roy, 118 S. Ct. 
+at 389 (Scalia, J., concurring)). 
+
+
+Where the jury’s verdict is incomplete, the harmless-error 
+doctrine is inapplicable regardless of how “overwhelming” the 
+evidence of guilt may seem for the simple reason that there is nothing 
+a reviewing court can do under the Constitution that would allow it 
+to declare the error “harmless.” Not even the presence of 
+“overwhelming” evidence can mitigate the total removal of an 
+element since no amount of evidence can show that the jury actually 
+found what it was never directed to find (or, in this case, was told not 
+to find). See Carella, 491 U.S. at 270 (Scalia, J., concurring) 
+(“misdescription © 2a element of the offense has * * * been held not 
+curable by overwhelming record evidence of guilt”) (citing 
+Carpenters, 330 U.S. at 408-409). Thus, where the jury fails to 
+render a verdict on every element of the offenses charged, reversal is 
+required “no matter how inescapable the findings to support that 
+verdict might be.” Sullivan, 508 U.S. at 279. 
+
+
+In deciding to apply the harmless-error doctrine to the trial 
+court’s directed verdict on the element of materiality, the Eleventh 
+Circuit mistakenly assumed that “[b]ecause materiality was not in 
+dispute with respect to Neder’s tax fraud offense, the district court’s 
+Gaudin error ‘did not contribute to the verdict obtained.’” Pet. App. 
+13a (quoting Yates, 500 U.S. at 403). In making this assumption, the 
+court of appeals plainly misunderstood the nature of the constitutional 
+error that occurred.’ As this Court explained in Sullivan, where the 
+
+
+” The Eleventh Circuit also misapplied this Court's decision in Yates. As 
+discussed supra at 20-21, Yates did not involve an omitted element, but 
+rather a defective presumption. Even in that context, Yates confirmed that 
+“[t]o satisfy Chapman's reasonable-doubt standard, it will not be enough that 
+the jury considered evidence from which it could have come to the verdict 
+without reliance on the presumption. Rather, the issue under Chapman is 
+whether the jury actually rested its verdict on evidence establishing the 
+presumed fact beyond a reasonable doubt, independently of the presumption.” 
+500 U.S. at 404 (emphasis added). As explained supra at 21-22, it would be 
+impossible, in a case like this one, for a reviewing court to find that the jury 
+
+
+25 
+
+
+jury has not rendered a verdict on every element of the charged 
+offense, the harmless-error doctrine is inapplicable because the 
+“error” is that no constitutional “verdict” was rendered in the first 
+place. For a reviewing court to declare such an error harmless would 
+mean that the “the wrong entity judged the defendant guilty.” Rose, 
+478 U.S. at 578. Contrary to the Eleventh Circuit’s apparent 
+assumption, when the trial court completely removes an element from 
+the jury’s consideration, the error necessarily “contribute[s] to the 
+verdict obtained.” : 
+
+. If anything, the court of appeals’ decision itself confirms that 
+without a complete verdict by the jury on every element, the only way 
+that an appellate court can purport to remedy the removal of an. 
+element is by weighing the record evidence itself and guessing what 
+the jury would have decided had it considered the omitted element. 
+As this Court explained in Sullivan, that is why the harmless-error 
+doctrine cannot be applied to an incomplete jury verdict: 
+
+
+Since * * * there has been no jury verdict within the 
+meaning of the Sixth Amendment, the entire premise of 
+Chapman review is simply absent. There being no jury 
+verdict of guilty-beyond-a-reasonable-doubt, the question 
+whether the same verdict of guilty-beyond-a-reasonable- 
+doubt would have been rendered absent the constitutional 
+error is utterly meaningless. 
+
+
+Sullivan, 508 U.S. at 280 (citing Yates, 500 U.S. at 413-414 (Scalia, 
+J., concurring); Bollenbach v. United States, 326 U.S. 607, 614 
+(1946)). To allow an appellate court to declare the removal of an 
+element harmless based on the court’s perception that the element was 
+established by “overwhelming” evidence, or that the element was 
+“not in dispute,” would be tantamount to allowing directed verdicts 
+
+
+“actually rested” its verdict on evidence regarding an element that the trial 
+court explicitly removed from the jury’s consideration. By taking the element 
+of ma‘eriality away from the jury, there simply was “nothing in the 
+instruction(s} {that} would have directed the jury, or even permitted it, to 
+consider and apply [the evidence pertaining to that element] in reaching its 
+verdict.” Carella, 491 U.S. at 269 (Scalia, J., concurring). 
+
+
+26 
+
+
+of guilt based on “overwhelming evidence.” See Sullivan, 508 U.S. 
+at 280 (“[t}he Sixth Amendment requires more than appellate 
+speculation about a hypothetical jury’s action, or else directed verdicts 
+for the State would be sustainable on appeal”). 
+
+
+Where, as here, the trial court has taken an element completely 
+away from the jury, and thus produced an incomplete jury verdict, 
+“the problem would not be cured by an appellate court's 
+determination that the record evidence established guilt, for that 
+would represent a finding of fact by judges, not by a jury.” Carella, 
+491 U.S. at 269 (Scalia, J., concurring). Thus, simply put, “[t}he 
+absence of a formal verdict on [an element] can not be rendered 
+harmless by the fact that, given the evidence, no reasonable jury 
+would have found otherwise. To allow the error to be cured in that 
+fashion would be to dispense with trial by jury.” Roy, 117 S. Ct. at 
+339 (Scalia, J., concurring).* 
+
+
+* Accord, e.g., Connecticut v. Johnson, 460 U.S. at 86 (plurality 
+opinion) (“The fact that the reviewing court may view the evidence [on an 
+element} as overwhelming is * * * simply irrelevant. To allow a reviewing 
+court to perform the jury’s function of evaluating the evidence * * * when 
+the jury never may have performed that function, would give too much 
+weight to society's interest in punishing the guilty and too little weight to the 
+method by which decisions of guilt are to be made”); United States v. 
+Hasting, 461 U.S. 499, 516 (1983) (Stevens, J., concurring) (“A federal 
+appellate court should not find harmless error merely because it believes that 
+the other evidence is ‘overwhelming’”); Henderson v. Morgan, 426 U.S. 
+637, 650 (1976) (White, J., concurring) (“It cannot be ‘harmless error’ 
+wholly to deny a defendant a jury trial on one or all elements of the offense 
+with which he is charged”); Bollenbach, 326 U.S. at 615 (“[iJn view of the 
+place of importance that trial by jury has in our Bill of Rights, it is not to be 
+supposed that Congress intended to substitute the belief of appellate judges 
+in the guilt of an accused, however justifiably engendered by the dead 
+record, for ascertainment of guilt by a jury under appropriate judicial 
+guidance, however cumbersome that process may be”). 
+
+
+* 
+lt 
+
+
+ee EO 
+
+
+ee 
+
+
+27 
+
+
+D. Complete Removal Of An Element Requires Reversal 
+To Preserve The Constitutional Right To A Jury Trial. 
+
+
+The court of appeals believed it was entitled to “fill the gaps” 
+left open by a trial court’s instructional errors based on its perception 
+that the element omitted from the jury's verdict was “not in dispute” 
+anyway. Pet. App. 12a. If upheld, such unprecedented use of the 
+harmless-error doctrine would substantially and inexorably erode the 
+Constitution's explicit jury trial guarantees. For this reason, it is 
+imperative that the right to have “a jury determine, beyond a 
+reasonable doubt, [a person’s] guilt of every element of the crime 
+with which he is charged” (Gaudin, 515 U.S. at 522-523) be rigidly 
+enforced without exception. 
+
+
+Sullivan is the touchstone here precisely because of its explicit 
+rejection of “earlier cases embracing the idea that the harmlessness of 
+an error may be gauged simply through an appellate court’s own 
+assessment of guilt.” H.T. Edwards, To Err Is Human, But Not 
+Always Harmless: When Should Legal Error Be Tolerated?, 70 
+N.Y.U. L. REV. 1167, 1201 (1996).° Yet, despite Sullivan's 
+unambiguous command, appellate courts have continued to use 
+harmless-error review as a means of affirming the convictions of 
+those persons whom the reviewing courts believe to be guilty. As 
+Chief Judge Edwards explained, “the seductiveness of this approach 
+is its chief defect, for, drawn in by its attractions, we have applied 
+the harmless-error rule to such an extent that it is my impression that 
+my colleagues and | are inclined to invoke it almost automatically 
+where the proof of a defendant’s guilt seems strong.” Jd. at 1170. 
+
+
+This Court observed in Duncan v. Louisiana that the right to 
+trial by jury embodies “a profound judgment about the way in which 
+law should be enforced and justice administered,” with the jury 
+serving as a structural safeguard “to prevent oppression by the 
+Government” and to ensure “community participation in the 
+determination of guilt or innocence.” 391 U.S. at 155, 156. The 
+
+
+* Thus, as the Court recently pointed out in Johnson v. United States, 
+117 S. Ct. at 1550, where an essential element has been removed from the 
+jury's consideration, Sullivan is “the case most closely on point.” 
+
+
+28 
+
+
+Court also acknowledged the “impressive support for considering the 
+right to jury trial in criminal cases to be fundamental to our system 
+of justice, an importance frequently recognized in the opinions of this 
+Court.” Jd. at 153-54. Indeed, the right to a jury determination of 
+guilt or innocence has long been regarded an essential safeguard 
+against “the tyranny of popular magistrates in a popular government” 
+(THE FEDERALIST No. 83 (A. Hamilton) (C. Rossiter ed. 1961)), and 
+“*a sacred part of our legal privileges.’” Gaudin, 515 U.S. at 513 
+(quoting 1 S. SMITH & T. LLOYD, TRIAL OF SAMUEL CHASE 34 
+(1805))."° 
+
+
+As first-hand observers of the trial process itself, jurors are 
+uniquely suited to make the countless credibility and other factual 
+determinations that are crucial to a fair and reliable assessment of 
+guilt or innocence. Appellate judges, by contrast, necessarily are 
+limited to a “dead” record, and thus are ill-equipped to resolve factual 
+controversies or to make credibility determinations. As Justice 
+Stevens put it, trial “testimony and accompanying exhibits are much 
+more difficult to assimilate and fully comprehend from the cold 
+record than in the living trial, and of course we do not have the 
+opportunity to make assessments of the demeanor of the witnesses.” 
+Colorado v. New Mexico, 467 U.S. 310, 326 (1984) (dissenting 
+opinion). Accord Caldwell v. Mississippi, 472 U.S. 320, 330 (1985); 
+United States v. Bayer, 331 U.S. 532, 536-537 (1947)." 
+
+
+© See also G. Mitchell, Against “Overwhelming” Appellate Activism: 
+Constraining Harmless Error Review, 82 CAL. L. REV. 1335, 1366 (1994) 
+(“The defendant's Sixth Amendment right to a jury verdict dictates adoption 
+of the harmless-error test that best limits appellate-level intrusion on the 
+jury’s factfinding role. It is worth remembering that if a court finds an error 
+harmful, the remedy is a new trial, not a permanent release. Reversal for 
+harmful error means only that the defendant will have a second chance at a 
+fair result by a fair process”). 
+
+
+‘See also Edwards, supra, 70 N.Y.U. L. REV. at 1193-1194 (“The 
+very nature of the appellate function leaves judges of the courts of appeals 
+poorly equipped to make * * * guilt determinations. An appellate judge’s 
+view of the trial is limited to the record, and, as any observer of the judicial 
+
+
+ee ee 
+
+
+29 
+
+
+To preserve the sanctity of the jury as the exclusive finder of 
+fact, the line establishing the respective domains of the judge and jury 
+in the process of adjudicating guilt must be rigidly observed without 
+regard to the perceived weight of the evidence. Requiring reversal 
+where an element of the crime has been removed from the jury’s 
+consideration “is simply the price for assuring that the jury’s role as 
+the voice of the community’s ‘standards, morals [and] principles’ is 
+not stifled.” Rosenberg, supra, 29 RUTGERS L.J. at 329 (quoting 
+Witherspoon v. Illinois, 391 U.S. 510, 519 n.15 (1968)). If appellate 
+courts are given even the slightest latitude to review the record to 
+“fill the gaps” in a jury verdict, as “minor” as those gaps may seem, 
+there will be no principled means of preventing the complete erosion 
+of the right to trial by jury. As Blackstone warned long ago, any 
+“inroads upon this sacred bulwark of the nation are fundamentally 
+Opposite to the spirit of our constitution; and . . . though begun in 
+trifles, the precedent may gradually increase and spread, to the utter 
+disuse of juries in questions of the most momentous concern.” 4 W. 
+BLACKSTONE, COMMENTARIES *344 (emphasis added). 
+
+
+In Sullivan, this Court strongly reaffirmed its commitment to the 
+fundamental principle that it can never be harmless for a person to 
+stand convicted of a crime when the jury has not found every element 
+of the crime beyond a reasonable doubt. The Court should again 
+confirm that that is where the constitutional line has been drawn, and 
+hold that the court of appeals crossed it. 
+
+
+process is aware, many events of trial pass without casting so much as a 
+shadow upon the printed transcript. The appellate judge cannot watch the 
+demeanor of witnesses, listen to the intonations of their voices, or engage in 
+any of the countless other observations that inhere in an assessment of 
+credibility”); Mitchell, supra, 82.CaL. L. REV. at 1340, 1353 (same). 
+
+
+30 
+
+
+Il. MATERIALITY IS AN ELEMENT OF THE FEDERAL 
+MAIL FRAUD, WIRE FRAUD, AND BANK FRAUD 
+STATUTES. 
+
+
+A. The Plain Language Of The Mail Fraud, Wire Fraud, 
+And Bank Fraud Statutes Confirms That Materiality Is 
+An Element Of Each Crime. 
+
+
+1. When Congress first enacted the mail fraud statute in 
+1872, it punished “any person having devised or intending to devise 
+any scheme or artifice to defraud * * * by means of the post-office 
+establishment” and making the requisite use of the mails.'* The phrase 
+“scheme or artifice to defraud” remains unchanged in the current mail 
+fraud statute, 18 U.S.C. § 1341. Congress also incorporated the 
+phrase without change into the wire fraud and bank fraud statutes, 18 
+U.S.C. §§ 1343 and 1344." None of these statutes defines the phrase 
+
+
+' The original mail fraud statute provided: 
+
+
+That if any person having devised or intending to devise any 
+scheme or artifice to defraud, [to] be effected by either opening 
+or intending to open correspondence or communication with any 
+other person (whether resident within or outside of the United 
+States), by means of the post-office establishment of the United 
+States, or by inciting such other person to open communication 
+with the person so devising or intending, shall, in and for 
+executing such scheme or artifice (or attempting so to do), place 
+any letter or packet in any post-office of the United States, or 
+take or receive any therefrom, such person, so misusing the 
+post-office establishment, shall be guilty of a misdemeanor 
+
+
+*_* * 
+
+
+Act of June 8, 1872, ch. 335, § 301, 17 Stat. 283, 323. > 
+
+
+‘> The language of the three statutes is nearly identical. The only 
+significant difference is the jurisdictional element, which under 18 U.S.C. 
+§ 1343 is the use of interstate wire facilities, and under 18 U.S.C. § 1344 
+is the involvement of a federally insured bank. Thus, this Court has 
+recognized that the mail fraud and wire fraud statutes are to be interpreted 
+in pari materia. Carpenter v. United States, 484 U.S. 19, 25 n.6 (1987). 
+Likewise, the bank fraud statute, which was enacted in 1984, was “modeled 
+
+
+31 
+
+
+“scheme or artifice to defraud.” Rather, Congress left “the matter of 
+what conduct may constitute such a scheme for determination under 
+other laws.” Parr v. United States, 363 U.S. 370, 389 (1960). 
+
+
+The language chosen by Congress demonstrates that the statutes 
+prohibit only schemes involving a material misrepresentation or 
+omission — meaning one that “has a natural tendency to influence, or 
+was capable of influencing, the decision of the decisionmaking body 
+to which it was addressed.” Kungys v. United States, 485 U.S. 759, 
+770 (1988) (internal quotations omitted).'* It is a “cardinal rule of 
+Statutory construction” that the Court will assume, in the absence of 
+evidence of a contrary congressional intent, that statutory language 
+carries its settled common-law meaning. Molzof v. United States, 502 
+U.S. 301, 307 (1992). Here, every indication is that Congress, in 
+using the phrase “scheme or artifice to defraud,” had no intention of 
+departing from the common law’s long-held understanding that 
+
+
+on the present wire and mail fraud statutes which have been construed by the 
+courts to reach a wide range of fraudulent activity. Like these existing fraud 
+statutes, the proposed bank fraud offense proscribes the conduct of executing 
+or attempting to execute ‘a scheme or artifice to defraud’ or to take the 
+property of another ‘by means of false or fraudulent pretenses, 
+
+
+representations, or promises.’” S. Rep. No. 98-225, at 378 (1984), reprinted 
+in 1984 U.S.C.C.A.N. 3182, 3519. 
+
+
+* In addition to a “scheme or artifice to defraud,” the statutes also refer 
+to a “scheme or artifice” employing “false or fraudulent pretenses, 
+representations, or promises.” This additional language does not furnish an 
+independent basis of criminal liability. As this Court explained in McNally 
+v. United States, 483 U.S. 350, 357-359 (1987), Congress added this 
+language in 1909 merely to codify the holding in Durland v. United States, 
+161 U.S. 306, 313 (1896), that the mail fraud statute's prohibition on 
+“scheme[s] or artifice[s] to defraud” reaches “representations as to the past 
+or present, or suggestions and promises as to the future.” See also Pereira 
+v. United States, 347 U.S. 1, 8 (1954) (“The elements of the offense of mail 
+fraud * * * are (1) a scheme to defraud, and (2) the mailing of a letter, etc., 
+for the purpose of executing the scheme.”). But even if this additional 
+language had independent significance, it nevertheless would require proof 
+of materiality by its own terms. See infra at 45-46. 
+
+
+32 
+
+
+“fraud” requires a material misrepresentation or omission. See infra 
+at 32-35. 
+
+2. In United States v. Wells, 519 U.S. 482 (1997), this Court 
+addressed whether materiality is an element of the “false statement” 
+offense in 18 U.S.C. § 1014. In so doing, the Court “of course, 
+presume[d] that Congress incorporates the common-law meaning of 
+the terms it uses if those terms * * * have accumulated settled 
+meaning under * * * the common law and the statute [does not] 
+otherwise dictate.” 519 U.S. at 491 (internal quotations omitted). As 
+the Court has explained: 
+
+
+where Congress borrows terms of art in which are 
+accumulated the legal tradition and meaning of centuries 
+of practice, it presumably knows ind adopts the cluster of 
+ideas that were attached to each borrowed word in the 
+body of learning from which « was taken and the meaning 
+its use will convey to the judicial mind unless otherwise 
+instructed. 
+
+
+Morissette v. United States 342 U.S. 246, 263 (1952). See also, e.g., 
+NLRB v. Amax Coal Vo., 453 U.S. 322, 329 (1981) (“Where 
+Congress uses terms ‘at have accumulated settled meaning under 
+* * * the commor law, a court must infer, unless the statute 
+otherwise dictates, tt at Congress means to incorporate the established 
+meaning of these .erms”); Standard Oil Co. v. United States, 221 
+U.S. 1, 59 (1911 (“where words are employed in a statute which had 
+at the time a v -ll-known meaning at common law or in the law of 
+this country, aey are presumed to have been used in that sense”). 
+““II}f a wor. is obviously transplanted from another legal source, 
+whether thy common law or other legislation, it brings its soil with 
+it."” Mosk i v. United States, 498 U.S. 103, 121 (1990) (Scalia, J., 
+dissenting , (quoting F. Frankfurter, Some Reflections on the Reading 
+of Statu’ es, 47 COLUM. L. REV. 527, 537 (1947)). 
+
+
+1. Wells, the defendant made “no claims about the settled 
+meani ig of ‘false statement’ at common law,” and this Court 
+disce ned no common-law meaning of the term “false statement” that 
+supp orted a materiality requirement in § 1014. 519 U.S. at 491 & 
+
+
+33 
+
+
+n.10. Here, by contrast, the term “defraud” has a firm common-law 
+meaning. As this Court recently noted in construing similar language: 
+“[Flalse pretenses, a false representation, or actual fraud” 
+carry the acquired meaning of terms of art. They are 
+common-law terms, and * * * they imply elements that 
+the common law has defined them to include. Congress 
+could have enumerated their elements, but Congress’s 
+contrary drafting choice did not deprive them of a 
+significance richer than the bare statement of their terms. 
+Field v. Mans, 516 U.S. 59, 69 (1995) (citations omitted). So too, 
+Congress's use of the term “defraud” in the mail fraud, wire fraud, 
+and bank fraud statutes incorporated the common-law elements of 
+
+fraud, which always have included materiality. 
+
+3. At common law in 1872, it was, as it remains today, 
+impossible to “defraud”"’ without a material misrepresentation or 
+omission. BMW of N. Am., Inc. v. Gore, 517 U.S. 559, 579 (1996) 
+(“actionable fraud requires a material misrepresentation or omission”) 
+(citing RESTATEMENT (SECOND) OF TORTS § 538 (1977); W. KEETON, 
+ET AL., PROSSER & KEETON ON LAW OF TorRTS § 108 (Sth ed. 1984)). 
+The law has never recognized such a thing as fraud involving only 
+
+Courts have always been reluctant to define “fraud” too 
+precisely, fearing that an exact definition “would be in effect telling 
+to the crafty precisely how to avoid the grasp of the law.” McAleer 
+v. Horsey, 35 Md. 439, 452 (1872). Yet the elements of fraud — and 
+the essence of what “fraud” is — have always included materiality. 
+See ibid. (“the fraud must be material”). As Justice Story explained, 
+“[ijn the first place, the misrepresentation must be of something 
+material, constituting an inducement or motive to the act or omission 
+
+
+'S Although materiality is most commonly discussed as a requirement of 
+“fraud,” to “defraud” is simply “[t]o practice fraud.” H. BLACK, A 
+DICTIONARY OF LAW 347 (1891); BLACK’S LAW DICTIONARY 423 (6th ed. 
+1990) (same). See also | J. Bouvier, A LAW DICTIONARY 546 (10th ed. 
+1860) (single entry for “FRAUD, TO DEFRAUD”). 
+
+
+34 
+
+
+of the other party.” 1 J. STORY, COMMENTARIES ON EQUITY 
+JURISPRUDENCE § 195 (10th ed. 1870). See also id., §§ 191-196; 37 
+AM. JuR. 2D Fraud and Deceit § 177, at 236-237 (1964) (collecting 
+cases and stating that “one of the fundamental principles which 
+pervades jurisprudence involving fraud, and the maintenance of 
+actions or defenses based thereon, is that to constitute fraud in any 
+case, the facts misrepresented or concealed must have been material 
+facts”). 
+
+At common law, “fraud” did not describe a particular action, 
+but was, rather, a concept incorporated into various actions. At the 
+time when Congress first enacted the mail fraud statute, courts had 
+most often discussed “fraud” in the context of actions in tort for 
+deceit, actions in equity to rescind a fraudulently induced contract, 
+and actions in assumpsit for breach of a contract containing a 
+fraudulent warranty.'® All three actions required proof of materiality. 
+For example, in an 1872 deceit case seeking damages for “false and 
+fraudulent representations,” the Maryland high court held that “the 
+fraud must be material to the contract or transaction * * *, for if it 
+relate to another matter or to this only in a trivial or unimportant 
+way, it affords no ground for the action of the Court.” McAleer, 35 
+Md. at 452. See also id. at 457-458 (actionable misrepresentation 
+concerned “a substantial and most material fact” that “would naturally 
+and unquestionably have great influence in inducing the purchase”). 
+The court further explained that a “sale is voidable” when the buyer 
+is misled by a “representation [that] is false in any one substantial 
+circumstance, going to the inducement or essence of the bargain.” /d. 
+at 457. Similarly, in an assumpsit case of the same period, the 
+Virginia Supreme Court of Appeals relied on earlier case law 
+recognizing that “there is fraud to support an action of deceit at law, 
+and to be a ground for the rescission of the transaction in equity” 
+when a misrepresentation would “induce a reasonable man to believe 
+
+
+® Fraud concepts in criminal law are discussed infra at 36-38. 
+
+
+35 
+
+
+that it * * * is meant to be acted on.” Herron v. Dibrell, 12 S.E. 
+674, 676 (Va. 1891)." 
+
+
+This Court’s decisions also squarely demonstrate that there was 
+no doubt in 1872 that “fraud” required a material falsehood. See, 
+e.g., Slaughter’s Administrator v. Gerson, 80 U.S. (13 Wall.) 379, 
+383 (1872) (avoidance of contract due to “misrepresentation and 
+fraud” required a misrepresentation that “relate{d] to a material 
+matter”); Smith v. Richards, 38 U.S. (13 Pet.) 26, 39 (1839) (in 
+action “to set aside a contract for fraud,” “the misrepresentation must 
+be of something material”). 
+
+This Court’s standard presumption that statutory language bears 
+its normal, common-law meaning thus compels the conclusion, absent 
+strong evidence of a contrary congressional intent, that the term 
+“defraud” in the mail fraud, wire fraud, and bank fraud statutes 
+requires proof of a material misrepresentation or omission. , 
+
+B. Congress Did Not Intend To Alter The Common-Law 
+
+
+Meaning Of “Fraud” In The Mail Fraud, Wire Fraud, 
+And Bank Fraud Statutes. 
+
+
+To be sure, if a statute “otherwise dictate[s],” this Court will 
+not interpret statutory language to carry its common-law meaning. 
+Wells, 519 U.S. at 491. See Community for Creative Non-Violence v. 
+Reid, 490 U.S. 730, 740 (1989) (relying on common-law meaning of 
+terms because “[njothing in the text * * * indicate[d]” a contrary 
+intent); Amax Coal, 453 U.S. at 330 (Court would interpret statute to 
+
+
+"’ Deceit, equitable remedies, and assumpsit were not the only means of 
+redressing fraud. See, ¢.g., Snow v. Alley, 11 N.E. 764 (Mass. 1887) 
+(action for trover, which cannot be maintained until after rescission of the 
+underlying contract). See generally P. Dalley, The Law of Deceit, 1790- 
+1860: Continuity Amidst Change, 39 AM. J. LEGAL Hist. 405 (1995). 
+Variations of fraud existed in both function and form. In Pennsylvania, for 
+instance, the action was in “trespass for deceit.” See, e¢.g., Lare v. 
+Westmoreland Specialty Co., 25 A. 812 (Pa. 1893). As with the other actions 
+for fraud, Pennsylvania law required the statement or omission in question 
+to be material. Dunbar v. Preston, 132 A. 707, 708 (Pa. 1926). 
+
+
+36 
+
+
+incorporaje settled equitable principles “unless Congress has 
+unequivocally expressed an intent to the contrary”). But nothing in 
+the text of the mail fraud, wire fraud, and bank fraud statutes signals 
+a congressional intent to abandon the common-law materiality 
+element. Just the opposite, every indication is that Congress intended 
+the mail fraud statute — and thus the wire fraud and bank fraud 
+statutes — to incorporate the common law requirement of materiality. 
+
+
+1. While the term “fraud” historically has been a term of 
+civil, rather than criminal, law, the fact that the mail fraud, wire 
+fraud, and bank fraud statutes are criminal laws provides no basis for 
+divorcing them from the language Congress chose. The criminal 
+analogs of civil fraud that existed in 1872 were, like civil fraud itself, 
+unyielding in their insistence that immaterial falsehoods were 
+insufficient. A criminal fraud statute that did not require materiality 
+would have been utterly foreign to the law in 1872." 
+
+
+The early crime that most closely resembled civil fraud was 
+“false pretenses.” England first criminalized false pretenses with a 
+1757 statute that outlawed obtaining the property of another by “false 
+pretence * * * with intent to cheat or defraud.” 30 Geo. 2, ch. 24, 
+
+
+'* In arguing that the mail fraud, wire fraud and bank fraud statutes do~ 
+
+
+not incorporate the common law elements of fraud, the government points 
+out in its response to the petition that while plaintiffs must prove “justifiable 
+reliance” on a defendant’s misrepresentations or omissions to recover for 
+civil fraud, the government is not required to make such a showing in a mail 
+fraud, wire fraud, or bank fraud prosecution. Brief for the United States at 
+7 (citing United States v. Coffman, 94 F.3d 330, 333-334 (7th Cir. 1996)). 
+But the reason that reliance is not an element of these crimes is simply, as 
+Chief Judge Posner explained in Coffman, that “[t}he statute punishes the 
+scheme * * * rather than the completed fraud. It punishes, in short, the 
+attempt to defraud.” 94 F.3d at 333 (citation omitted). Because a defendant 
+can violate the mail fraud statute merely by hatching a “scheme or artifice 
+to defraud” and mailing a letter, it is irrelevant whether the scheme 
+successfully induced reliance by its intended victims. The “scheme or 
+artifice” still must be one, however, that, if successful, would actually 
+“defraud” in the common-law sense. 
+
+
+37 
+
+
+§ 1 (1757) (Eng.)."” From the beginning, cases applying the statute 
+held that it applied only to false statements that would actually 
+influence the victim’s action. Indeed, the first such reported case 
+established the necessary relationship between the statement and the 
+transaction: “If the intent be made out, and the false pretence used in 
+order to effect it, it brings the case within [the] statute.” Young v. The 
+King, 3 Term Rep. 98, 104 (K.B. 1789) (emphasis added). See also 
+F. WHARTON, A TREATISE ON THE CRIMINAL LAW OF THE UNITED 
+STATES 451-452 (1846). 
+
+
+When Congress enacted the mail fraud statute, American courts, 
+too, had neld without exception that false statements immaterial to a 
+transaction were insufficient to support a conviction for criminal 
+fraud. See WHARTON, supra, at 451-463 (collecting cases). In 1872, 
+the same year Congress passed the mail fraud statute, a leading 
+treatise remarked that “these [criminal fraud] statutes are construed 
+in reference to the spirit and reasons of the common law; and they do 
+not therefore extend, as the non-professional reader might suppose, 
+to every imaginable kind of false pretence.” 1 J. BISHOP, 
+COMMENTARIES ON THE CRIMINAL LAW § 586, at 354-355 (Sth ed. 
+1872) (collecting cases). Thus, for example, in Commonwealth v. 
+Drew, 19 Pick. 179, 183 (Mass. 1837), the court held that lying 
+about one’s name is not criminal unless the false name would 
+
+
+contribute to the victim’s decision to advance money. See also, ¢.g., 
+
+
+Woodbury v. State, 69 Ala. 242, 245-246 (1881) (criminal fraud 
+conviction reversed because, although the defendant gave a false 
+address, it was not a “material fact”); Commonwealth v. Hershell, 
+Thacher’s Cr. Cases 70, 78-79 (Boston Mun. Ct. 1824) (conviction 
+required that the false statement would be a “material inducement”). 
+In this country, as in England, a “false representation, to suffice for 
+
+
+'* The statute was revised three times, in 1812, 1827, and again in 1861, 
+but none of these modifications touched on the question of materiality, and 
+all retained the requirement of an intent to “defraud.” See 52 Geo. 3, ch. 64 
+(1812) (Eng.); 7 & 8 Geo. 4, ch. 29, § 53 (1827) (Eng.); 24 & 25 Vict., ch. 
+96, § 88 (1861) (Eng.). 
+
+
+38 
+
+
+false pretenses, must be as to a material fact.” 2 W. LAFAVE & A. 
+SCOTT, SUBSTANTIVE CRIMINAL LAW § 8.7(b)(4) (1986).” 
+
+
+It would be remarkable, to say the least, if the drafters of the 
+mail fraud statute chose to prohibit a “scheme or artifice to defraud” 
+— using language with a well-established common-law meaning — 
+but actually intended to create an entirely new species of crime 
+without any historical precedent in the common law, and without any 
+such indication in the text of the statute. 
+
+
+2. Nor does the legislative history contain any suggestion that 
+Congress meant to strip the term “defraud” in the mail fraud statute 
+of its settled meaning and to criminalize a category of conduct — 
+immaterial misrepresentations and omissions — for which there had 
+previously never been civil or criminal liability. 
+
+The mail fraud statute, first proposed in 1870 as part of a 
+revision of the postal code, was enacted in 1872. Act of June 8, 
+1872, ch. 335, § 301, 17 Stat. 293, 323. The new law was “intended 
+to prevent the frauds which are mostly gotten up in the large cities of 
+New York and Philadelphia, chiefly in New York, by thieves, 
+forgers, and rapscallions generally, for the purpose of deceiving and 
+fleecing the innocent people in the country.” Cong. Globe, 41st 
+Cong., 3d Sess. 35 (1870) (remarks of Rep. Farnsworth). The 
+
+
+® Other early fraud-related crimes also required materiality. For 
+example, “cheat,” the use of altered weights or measures to defraud, was 
+criminal at common law largely because, “according to the necessary 
+customs and order of society, every man must be supposed to place 
+confidence” in such measures. 1 BISHOP, supra, § 585, at 354. See also 4 
+W. BLACKSTONE, COMMENTARIES *157-158 (describing other forms of cheat 
+such as “playing with false dice”). An altered measure is always material 
+because it affects the amount of product a buyer receives for his money. 
+Forgery was the “false making or materially altering, with intent to defraud, 
+of any writing.” 1 BisHoP, supra, § 572, at 347 (footnotes omitted, emphasis 
+added). And the crime of perjury required a false statement “in some point 
+material to the question in dispute,” and not “in some trifling collateral 
+circumstance, to which no regard is paid.” 4 BLACKSTONE, supra, at *137. 
+See also Kungys, 485 U.S. at 769. 
+
+
+39 
+
+
+schemes that the statute targeted — characterized as “frauds” — 
+clearly involved material deception. Representative Farnsworth 
+described “circulars and letters sent out * * * from various bogus 
+offices in the large cities, professing to be from agents of some 
+enterprise or other, which are well enough upon their face, but upon 
+examination are found to be entirely bopus.” /bid. In many cases, the 
+rfid con-men that Representative arnsworth referred to would 
+tT victims by proposing to sell counterfeit money. Wi i 
+sree shy wg mabe 
+send a genuine twenty-five or fifty cent currency note. 
+The person receiv ing the circular may not be particularly 
+ignorant, but being somewhat greedy, he shows it to some 
+banker or broker, who, of course, pronounces it to be 
+good money. Thereupon, the countryman immediately 
+sends to the address of the agent, in New York, for 
+instance, ten, fifteen, or twenty dollars, with an order for 
+so much as it may purchase. A box or package is sent to 
+him, perhaps, which upon being opened is found to 
+contain waste paper, sawdust, or may be bogus money. 
+Ibid. These schemes plainly involved material misrepresentations: the 
+deceit (representing samples of genuine currency as counterfeit, and 
+mes Hasna te ethene wesc dren dled na 
+important transaction obviously had a i 
+to affect victims’ decisions. Thus, Decctate ances case 
+questioned the wording of the statute) described the cited schemes as 
+“the frauds of those nefarious rascals who send out their circulars to 
+entrap the unwary into purchasing counterfeit money.” Ibid. 
+(emphasis added). Nothing about these scams, nor anything else in the 
+legislative history, suggests that in enacting the mail fraud statute 
+Congress sought to create a new species of “fraud” for which 
+materiality was not required.”' 
+
+
+” There is no reason to think that Congress in 1872 had any intention of 
+redefining the concept of fraud. The mail fraud statute, entitled “Penalty for 
+Misusing the Post-Office Establishment,” did not criminalize fraud per se, 
+but rather sought to proscribe the use of the post office to effectuate a 
+
+
+40 
+
+
+In 1889, the statute was amended by “language expressly 
+reaching schemes of the period, many of the same nature as those 
+mentioned by Representative Farnsworth in 1870.” McNally v. United 
+States, 483 U.S. 350, 357 n.6 (1987). See Act of Mar. 2, 1889, ch. 
+393, § 1, 25 Stat. 873.” As this Court has observed, the new 
+language was “nothing more than a reconfirmation of the statute's 
+original purpose in the face of some disagreement among the lower 
+federal courts as to whether the statute should be broadly or narrowly 
+read.” McNally, 483 U.S. at 357 n.6. 
+
+
+The statute was further revised in 1909, with an amendment 
+adding the words “or for obtaining property by means of false or 
+
+
+fraudulent scheme. The “gist” of the crime, it was often said, was the 
+mailing. See generally J. Rakoff, The Federal Mail Fraud Statute (Part b, 
+18 Dua. L. REV. 771 (1980). As this Court recognized in Parr, Congress 
+left the question of what constitutes a “scheme or artifice to defraud” under 
+the mail fraud statute “for determination under other laws.” 363 U.S. at 389. 
+See also W. Gray, Comment, The Intangible-Rights Doctrine and Political- 
+Corruption Prosecutions Under the Federal Mail Fraud Statute, 47 U. CH. 
+L. REV. 562, 568 (1980) (“Congress in thefraud legislation of 1872 did not 
+use the term ‘fraud’ in some new and technical way, but rather intended to 
+prohibit schemes that were within the conventional usage of the term and 
+involved use of the federal mails.”). 
+
+
+2 The new language made explicit the statute’s applicability to schemes 
+involving any 
+
+
+spurious coin, bank note, paper money, or any obligation or 
+security of the United States, or of any State, Territory, 
+municipality, company, corporation, or person, or anything 
+represented to be or intimated or held out to be such counterfeit 
+or spurious article, or any scheme or artifice to obtain money by 
+or through correspondence, by what is commonly called the 
+‘sawdust swindle’, or ‘counterfeit-moneyfraud’, or by dealing or 
+pretending to deal in what is commonly called ‘green articles’, 
+‘green coin’, ‘green goods’, ‘bills’, ‘paper goods’, “spurious 
+Treasury notes’, ‘United States goods’, ‘green cigars’, or any 
+other names or terms intended to be understood as relating to 
+such counterfeit or spurious articles * * *. 
+
+
+41 
+
+
+fraudulent pretenses, representations, or promises” after the original 
+phrase “any scheme or artifice to defraud.” Act of Mar. 4, 1909, ch. 
+321, § 215, 35 Stat. 1130. Nothing in the legislative history provides 
+any support for the assertion that Congress meant this revision to 
+remove the element of materiality from the offense. The Senate 
+Report simply included in the margin a lengthy citation of what 
+appears to be every reported mail-fraud decision at the time, including 
+Durland v. United States, 161 U.S. 306 (1896). See S. Doc. No. 68, 
+57th Cong., Ist Sess., pt. 2, at 63, 64 (1901). On the Senate floor, 
+the only commentary regarding the amendment concerned a change 
+United States. Otherwise, the legislation’s sponsor, Senator Heyburn, 
+commented, “I do not think there is any other change, which is not 
+obvious upon the face of the bill, that needs any further explanation.” 
+42 Cong. Rec. 1026 (1908). 
+
+
+The 1909 revision was the “last substantive amendment of the 
+statute.” McNally, 483 U.S. at 357 n.6. The outdated list of 
+exemplary schemes was removed in 1948 by an amendment “designed 
+to remove surplusage without changing the meaning of the statute.” 
+Ibid. Since then, the statute has been subject only to several minor 
+“technical” changes. Jbid.* In short, legislative history offers no 
+support for the argument that the term “defraud,” as used in the mail 
+fraud, wire fraud, and bank fraud statutes, requires anything less than 
+a material misrepresentation or omission. 
+
+3. Against this backdrop, it is no surprise that turn-of-the- 
+century courts consistently read the new law in accordance with the 
+traditional understanding that materiality is an element of a “scheme 
+or artifice to defraud.” For example, with language strikingly similar 
+
+
+*% There has been one additional substantive amendment since 
+McNally. After McNally held that the mail fraud statute was “limited in 
+scope to the protection of property rights,” 483 U.S. at 360, Congress 
+enacted 18 U.S.C. § 1346, which specifies that the statute applies to “a 
+scheme or artifice to deprive another of the intangible right of honest 
+services.” Pub. L. No. 100-690, Title VII, § 7603(a), 102 Stat. 4508 
+(1988). This amendment has no bearing on the questions presented. 
+
+
+42 
+
+
+to the “natural tendency” test articulated by this Court in Kungys, 485 
+U.S. at 770, one of the earliest reported decisions interpreting the 
+mail fraud statute explained that “a scheme to defraud within the 
+meaning of” the mail fraud statute was “[aJny scheme, the necessary 
+result of which would be the defrauding of somebody.” United States 
+v. Jones, 10 F. 469, 470 (C.C.S.D.N.Y. 1882) (emphasis added). 
+See also United States v. Owens, 17 F. 72, 74 (E.D. Mo. 1883) (“the 
+act was designed to strike at common schemes of fraud, whereby, 
+through the post office, circulars, etc., are distributed, generally to 
+entrap and defraud the unwary”) (emphasis added). 
+
+
+This Court did not address the significance of the statutory term 
+“scheme or artifice to defraud” until 1896. That year, in Durland, 
+161 U.S. at 312, the Court considered a defendant’s argument “that 
+the statute reache[d] only such cases as, at common law, would come 
+within the definition of ‘false pretenses,’ in order to make out which 
+there must be a misrepresentation as to some existing fact, and not a 
+mere promise as to the future.” Rejecting this argument, the Court 
+explained that the mail fraud statute did not require a 
+misrepresentation of a past or existing fact, but rather applied to “any 
+scheme or artifice to defraud.” Jd. at 313. 
+
+
+To illuminate the meaning of the statute, the Durland Court did 
+not find it necessary to look beyond traditional notions of fraud. First, 
+the Court noted that “[s]ome schemes may be promoted through mere 
+representations and promises as to the future, yet are none the less 
+schemes and artifices to defraud. Punishment because of the 
+fraudulent purpose is no new thing.” Ibid. (emphasis added). The 
+Court then quoted its opinion in Evans v. United States, 153 U.S. 
+584, 592 (1894), for the proposition that if a person buys goods on 
+credit, “knowing that he will not be able to pay for them, and with 
+an intent to cheat the vendor, this is a plain fraud, and made 
+punishable as such by statutes in many of the States.” 16i U.S. at 
+313 (emphasis added). In determining what was meant by “scheme or 
+artifice to defraud,” the Durland Court never suggested that “fraud” 
+for purposes of the mail fraud statute was a new or more expansive 
+
+
+43 
+
+
+creature than “plain fraud.” Instead, the Court invoked traditional 
+fraud principles and state law to construe the statute’s reach.”* 
+
+
+Durland also suggests that a representation’s predictable 
+tendency to influence the decision-making of its audience, i.e., 
+materiality, was central to the Court’s conception of fraud: 
+
+
+It is common knowledge that nothing is more alluring than 
+the expectation of receiving large returns on small 
+investments. Eagerness to take the chances of large gains 
+lies at the foundation of all lottery schemes, and, even 
+when the matter of chance is eliminated, any scheme or 
+Plan which holds out the prospect of receiving more than 
+is parted with appeals to the cupidity of all. In the light of 
+this the statute must be read * * *. 
+
+
+Ibid. (emphasis added). In holding that the mail fraud statute is not 
+co-extensive with the crime of false pretenses, the Durland Court 
+reinforced the presumption that the mail fraud statute reaches no 
+further than the elements of common-law fraud, and thus incorporates 
+the common-law element of materiality. 
+
+
+In the mail fraud statute’s early years, materiality was a central 
+concern. For this reason, courts carefully distinguished mere 
+puffing” from “false representations of material facts which are in 
+their nature calculated to deceive.” Harris v. Rosenberger, 145 F. 
+
+
+: * The Durland Court was correct that the traditional conception of 
+“fraud” was sufficiently broad to encompass promises regarding the future. 
+[A]n American decision as early as 1839 [held] that deceit would lie for a 
+false promise, and a considerable number of decisions that false promises 
+were sufficient fraud for purposes of rescission were handed down in the 
+decade preceding the Durland case.” A. Pearce, Theft by False Promises, 
+101 U. PA. L. REV. 967, 978 n.51 (1953) (citation omitted). See also, €.2., 
+F. MONCREIFF, A TREATISE ON THE LAW RELATING TO FRAUD AND 
+MISREPRESENTATION 98 (1891) (a “representation as to intention, reason, 
+motive, opinion, or law may * * * be a representation of a matter of fact, 
+and the ground of an action”); M. BIGELOW, A TREATISE ON THE LAW OF 
+FRAUD ON ITS CIviL SIDE 476 (1888) (a statement concerning the future “if 
+precise and definite, may imply a present fact, and mislead accordingly”). 
+
+
+44 
+
+
+449, 455 (8th Cir. 1906). For instance, in Faulkner v. United States, 
+157 F. 840 (Sth Cir. 1907), the Fifth Circuit reversed a conviction 
+where the defendant had been found guilty of mail fraud after 
+obtaining money by advertising his purportedly vast cold-storage 
+facility. The court noted that there “was conflict in the evidence as to 
+the size of the place, but that seems to us immaterial. The fact is he 
+was simply advertising his business, and, if the advertisement contains 
+some exaggerations, that does not constitute a scheme to defraud.” /d. 
+at 841 (emphasis added). 
+
+
+The materiality standard also was expressed as a requirement 
+that misrepresentations not only be “designed” to defraud, but also 
+“reasonably adapted” for the purpose — an inquiry that naturally 
+turned on their capacity to achieve the desired end. See Brooks v. 
+United States, 146 F. 223, 227 (8th Cir. 1906) (the mail fraud statute 
+“contemplates any scheme * * * provided only it was designed and 
+reasonably adapted to deceive and defraud”); Lemon v. United States, 
+164 F. 953, 957 (8th Cir. 1908) (upholding indictment because, 
+among other things, it alleged a scheme or artifice “well designed and 
+adapted to deceive”). 
+
+
+Finally, the materiality requirement was evident in early mail 
+fraud jury instructions. In Flachskamm v. United States, 127 F. 674 
+(7th Cir. 1904), the defendants had placed an advertisement offering 
+a “fur collarette” and certain other objects to persons who sold two 
+dollars’ worth of jewelry for them. The collarettes were never 
+delivered, and the other objects did not live up to their billing. The 
+trial judge instructed the jury to consider the natural, predictable 
+effect of the defendants’ representations: “The reasonable construction 
+which the ordinary reader into whose hands the advertisement might 
+fall would put upon that advertisement gentlemen, in my mind, is the 
+basis which must control your verdict in this case.” /d. at 676. The 
+jury was further told to consider whether there was a material 
+difference between what was promised and what was delivered: 
+
+
+{If you determine that] the articles given in return for the 
+remittances of Two Dollars * * * were different in 
+description and quality from the articles named in the 
+advertisement and that such difference in description and 
+
+
+45 
+
+
+quality from the articles named [was] so great as to 
+amount to fraud, then you will find the defendants guilty. 
+* * * [Y]ou will not find the defendants guilty unless you 
+find that the articles given in exchange for the Two Dollar 
+remittance were so different and so inferior both in quality 
+and description as to amount to fraud. 
+
+
+Ibid. (emphasis added) .* 
+
+
+In short, during the critical period when the mail fraud statute 
+was adopted and revised, the statute was understood by this Court and 
+by the lower courts charged with applying it to include the established 
+lement ao is simply no evidence that Congress 
+
+
+4. The presumption that Congress intended the term 
+“defraud” to include the common-law requirement of materiality also 
+is strengthened by the fact that other language in the mail fraud, wire 
+fraud, and bank fraud statutes independently confirms that materiality 
+is an element of these crimes. 
+
+
+For example, the statutes prohibit a “scheme or artifice” to 
+commit fraud. It has never been doubted that similar language in the 
+securities laws requires proof of materiality. For example, this Court 
+has always understood § 10(b) of the Securities Exchange Act of 
+1934, 15 U.S.C. § 78j(b), which prohibits a “manipulative or 
+
+
+*® Other jury instructions explained that a scheme must include 
+representations possessing a natural tendency to entrap the unwary. 
+
+
+A commonplace definition * * * likens an artifice to a dawjack, 
+or artificial bait, which lures an unsuspecting fish to bite at the 
+gaily colored wooden minnow covered with fish hooks, 
+disguised by their color so that the fish is caught; hence it would 
+seem that any scheme, artifice, or plan, the necessary result of 
+which would be the defrauding of somebody, would be a scheme 
+and artifice to defraud. 
+
+
+M. TAYLOR, THE LAW OF PosTAL FRAUDS & CRIMES 182-183 (1931) 
+(emphasis added). The instruction’s final clause is identical to the language 
+used in 1882 by the court in Jones, 10 F. at 470. 
+
+
+46 
+
+
+deceptive device or contrivance,” but does not use the word 
+“material,” to contain a materiality element. See Basic, Inc. v. 
+Levinson, 485 U.S. 224, 232 (1988) (adopting materiality standard for 
+§ 10(b)); Santa Fe Indus., Inc. v. Green, 430 U.S. 462, 474-476 
+(1977) (complaint did not allege violation of § 10(b) when it “failed 
+to allege a material misrepresentation or material failure to disclose”). 
+See also generally 7 L. Loss & J. SELIGMAN, SECURITIES 
+REGULATION 3421-3431, 3437 (3d ed. 1991). Just as telling, in 
+Affiliated Ute Citizens v. United States, 406 U.S. 128, 152-153 
+(1972), this Court addressed two provisions of Rule 10b-5, 17 C.F.R. 
+§ 210.10b-5, neither of which use the word “material” but which do 
+prohibit a “device, scheme, or artifice to defraud” and a “course of 
+business which operates * * * as a fraud or deceit.” The Court held 
+that these provisions were violated “because the defendants devised 
+a plan and induced [the victims] to dispose of their shares without 
+disclosing to them material facts.” 406 U.S. at 153 (emphasis added). 
+As the Court explained, “[ajll that is necessary” to make out a 
+violation of these provisions “is that the facts withheld be material.” 
+Ibid. This Court’s securities decisions thus would make no sense if 
+the phrase “scheme or artifice to defraud,” as used in the mail, wire 
+and bank fraud statutes, did not likewise require proof of materiality. 
+
+The language added to the mail fraud statute in 1909 also shows 
+that Congress understood materiality to be an element of the crime. 
+The 1909 amendment, which codified this Court’s holding in 
+Durland, added references to “pretenses” and “representations.” As 
+discussed supra at 36-38, the crime of false pretenses always has 
+word “misrepresentation” is “commonly associated” with 4 
+contexts,” including at common law. Kungys, 485 U.S. at 781. See 
+with the government that statute prohibiting certain 
+“misrepresentation{s]” “only applies to willful misrepresentations 
+about ‘material’ facts”). 
+
+
+It is simply not plausible to suppose that Congress used language 
+so strongly implying materiality while actually intending, in the teeth 
+
+
+47 
+
+
+of the common-law meaning of the word “defraud,” that the mail 
+fraud, wire fraud, and bank fraud statutes should be extended to cover 
+
+5. In this case, the court of appeals rested its conclusion that 
+materiality is not an element of the mail fraud, wire fraud, and bank 
+fraud statutes on a misunderstanding of this Court’s decision in Wells, 
+which held that materiality is not an element of 18 U.S.C. § 1014. 
+Indeed, nothing in Wells even remotely suggests that Congress 
+intended the term “defraud” in the mail, wire and bank fraud statutes 
+to carry anything less than its common-law meaning. 
+
+
+The court of appeals believed that these statutes are similar to 
+§ 1014 in that they “do not contain the word ‘material.’” Pet. App. 
+7a, 9a. But as explained above, the mail, wire and bank fraud statutes 
+actually are unlike § 1014 — which merely prohibits certain “false 
+statement(s]” — in that their language does carry a common-law 
+meaning that incorporates materiality. See, e.g., Field, 516 U.S. at 
+69 (Congress's use of “common-law terms * * * impl[ies] elements 
+that the common law has defined them to include”). 
+
+
+The court of appeals also stressed that the current version of the 
+mail fraud statute, on which the wire fraud and bank fraud statutes 
+were based, is like § 1014 in that it “was enacted as part of the 
+recodification of the federal criminal code in 1948.” Pet. App. 7a. 
+But this Court’s decision in Wells does not stand for the general rule 
+that any statute enacted as part of the 1948 recodification does not 
+contain a materiality element. Wells relied on the fact that in 1948 
+Congress enacted § 1014 as a conglomeration of 13 earlier statutes, 
+of which “10 had previously contained no express materiality 
+provision and received none in the recodification, while 3 of the 13 
+had contained express materiality requirements and lost them in the 
+course of consolidation.” 519 U.S. at 492-493. The mail fraud 
+statute, on the other hand, has always prohibited a “scheme or artifice 
+to defraud.” In 1948, the section was simply renumbered, “surplusage 
+was eliminated[,] * * * and the section [was] simplified without 
+change of meaning.” 18 U.S.C. § 1341 Historical and Revision 
+Notes. See also McNally, 483 U.S. at 357 n.6. 
+
+
+48 
+
+
+Finally, the Eleventh Circuit emphasized that Congress “has 
+employed the terms ‘material representation’ and ‘material 
+misrepresentation’ in other statutes.” Pet. App. 9a. The court 
+concluded from this that Congress does not “intend[] to make 
+materiality an element under a statute whenever it employs the term 
+‘representation’ in that statute.” Jbid. It is not the term 
+“representation,” however, that is dispositive of the question 
+presented. Instead, it is Congress’s use of the word “defraud” that 
+obviated the need to use the word “material” in the mail fraud, wire 
+fraud and bank fraud statutes because materiality already was an 
+element of common-law fraud. There is no such thing as an 
+“immaterial” fraud. If the court of appeals’ analysis were accepted, 
+no “fraud” statute would ever have a materiality requirement unless 
+Congress explicitly used the word “material” in the statute. That is 
+not, and cannot be, the law. 
+
+
+C. Due Process And The Rule Of Lenity Also Require 
+That The Mail Fraud, Wire Fraud, And Bank Fraud 
+Statutes Be Read To Include A Materiality Element. 
+
+
+Even if there were any ambiguity as to the meaning of the mail 
+fraud, wire fraud and bank fraud statutes (which there is not), 
+principles of due process and fair warning and also the rule of lenity 
+independently require that the statutes be read to include a materiality 
+element. 
+
+1. This Court has “often emphasized the need for clarity in 
+the definition of criminal statutes, to provide ‘fair warning * * * in 
+language that the common world will understand, of what the law 
+intends to do if a certain line is passed.’” Hubbard v. United States, 
+514 U.S. 695, 701 n.4 (1995) (quoting McBoyle v. United States, 283 
+U.S. 25, 26 (1931) (Holmes, J.)). See also, e.g., Lanzetta v. New 
+Jersey, 306 U.S. 451, 453 (1939) (“All are entitled to be informed as 
+to what the State commands or forbids”). A person of ordinary 
+intelligence certainly would conclude from the language of the mail 
+fraud, wire fraud, and bank fraud statutes that they only criminalize 
+“fraud,” which, as explained above, has always required proof of 
+materiality. No one would think that he or she could be jailed for 30 
+years and fined $1,000,000, as all three statutes provide, for a 
+
+
+49 
+
+
+scheme to “defraud” through immaterial misrepresentations or 
+omissions. In Williams v. United States, 458 U.S. 279, 286 (1982), 
+for instance, this Court refused to read § 1014’s prohibition on “false 
+Statement)s]” as covering bad checks because “‘false statement’ is not 
+a term that, in common usage, is often applied to characterize ‘bad 
+checks.’” The same reasoning counsels against any reading of the 
+mail fraud, wire fraud, and bank fraud statutes that would dispense 
+with the element of materiality. 
+
+“Due process requires that a criminal statute provide adequate 
+notice to a person of ordinary intelligence that his 
+conduct is illegal.” Buckley v. Valeo, 424 U.S. 1, 77 (1976). Any 
+reading of the mail fraud, wire fraud, and bank fraud statutes that 
+omits materiality would raise serious constitutional doubts, and must 
+therefore be rejected for this reason as well. E.g., United States v. X- 
+Citement Video, Inc., 513 U.S. 64, 68 (1994); Edward J. DeBartolo 
+
+
+Corp. v. Florida Gulf Coast Bldg. & Constr. Trades Council, 485 
+U.S. 568, 575 (1988). 
+
+
+2. The rule of lenity also leads to the same conclusion. It is 
+“the familiar rule that, ‘where there is ambiguity in a criminal statute, 
+doubts are resolved in favor of the defendant.’” Adamo Wrecking Co. 
+v. United States, 434 U.S. 275, 285 (1978) (quoting United States v. 
+Bass, 404 U.S. 336, 348 (1971)). As this Court explained in 
+McNally, “when there are two rational readings of a criminal statute, 
+one harsher than the other, we are to choose the harsher oniy when 
+Congress has spoken in clear and definite language.” 483 U.S. at 
+359-360. If the use of the word “defraud” — to say nothing of the 
+terms “scheme or artifice,” “representation,” and “pretenses” — in 
+the mail fraud, wire fraud, and bank fraud statutes does not 
+conclusively establish that materiality is an element of these crimes, 
+the statutes are at least ambiguous in this respect. Because “text, 
+structure, and history fail to establish that the Government's position 
+is unambiguously correct,” the rule of lenity requires “resolv{ing] the 
+ambiguity in [petitioner's] favor.” United States v. Granderson, 511 
+U.S. 39, 54 (1994). See also, e.g., Ratzlaf v. United States, 510 U.S. 
+135, 148 (1994); Crandon v. United States, 494 U.S. 152, 158 
+
+
+50 
+
+
+(1990); Liparota v. United States, 471 U.S. 419, 427 (1985); Rewis 
+v. United States, 401 U.S. 808, 812 (1971). 
+
+
+a a ee 
+For all of the foregoing reasons, it is clear that materiality is an 
+essential element of the federal mail fraud, wire fraud and bank fraud 
+statutes, 18 U.S.C. §§ 1341, 1343, 1344. Accordingly, the district 
+court reversibly erred by removing materiality from the jury's 
+consideration of the mail, wire and bank fraud counts of the 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted. 
+ANDREW H. SCHAPIRO JAVIER H. RUBINSTEIN 
+
+
+Mayer, Brown & Platt Counsel of Record 
+1675 Broadway Gary S. FEINERMAN 
+
+
+New York, New York 10019 KASPAR J. STOFFELMAYR 
+(212) 506-2500 THOMAS B. NACHBAR 
+Mayer, Brown & Platt 
+
+NOEL G. LAWRENCE 190 South LaSalle Street 
+
+Law Offices of Chicago, Illinois 60603 
+
+Noel G. Lawrence, P.A. (312) 782-0600 
+
+100 Riverside Avenue 
+
+Jacksonville, Florida 32202 
+
+(904) 733-1237 Counsel for Petitioner 
+
+
+NOVEMBER 1998 
+
+

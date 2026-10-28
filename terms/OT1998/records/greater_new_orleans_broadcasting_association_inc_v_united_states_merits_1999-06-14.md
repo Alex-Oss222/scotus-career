@@ -1,0 +1,230 @@
+**Case and dockets:** Greater New Orleans Broadcasting Association, Inc. v. United States, No. 98-387.
+**Event and date:** Merits decision, 1999-06-14; October Term 1998.
+**Result:** Reversed and remanded, 9–0; §1304 may not be enforced against the truthful lawful-casino advertisements at issue.
+**Version / lineage:** Original decision.
+
+## Decision kernel and assembly audit
+
+**Form and governing propositions selected before assignment:** One signed Court opinion on two independent Central Hudson defects, G1 material advancement and G2 proportional fit, both confined to the actual statutory design and as-applied relief. A single disposition block and topology table preserve Thomas's judgment-only position. Two grounds are independently legally sufficient, not sections created for assignment.
+
+**Judgment and assignment eligibility:** All nine reverse and return for declaratory and appropriate injunctive relief. Eight fully join both G1/G2: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer. Stevens's conditional framework agreement and Scalia's broader doubts do not defeat their express adoption of each actual application. Thomas writes a concurrence in the judgment on his distinct anti-suppression ground and is not lead-eligible.
+
+**Participation, chronology and record:** All nine at April 27, 1999 argument and June 14 decision; quorum six, majority five; §1254 review of 149 F.3d 334 (5th Cir. 1998). Broadcasters seek declaratory/injunctive relief against §1304 and its companion FCC restriction for truthful promotion of lawful Louisiana/Mississippi private casino gambling. Signal reach into Texas or Arkansas is a record possibility, not a finding of every advertisement's audience. No new historical Supreme Court remand or grant is imported.
+
+**Stone compatibility:** His core explicitly supports G1 and independent G2, rejects least-restrictive-means review, concretely distinguishes Edge, and bars §1304 enforcement only against the described lawful advertisements. He fully joins those propositions and bounded relief. The companion rule receives only conforming implementation relief to the extent it enforces that same prohibition, not a new independent regulatory holding. No different advertisement or injunction scope is added. The dated-law checkpoint is recorded in the assignment statement.
+
+**Entering law and source status:** Central Hudson/Fox; Edenfield (April 26, 1993), Edge (June 25, 1993), Ibanez (June 13, 1994), Rubin (April 19, 1995), Lanphere & Urbaniak (April 18, 1995) and 44 Liquormart (May 13, 1996). Official 1994 §§1304/1307/2720 text inspected completely; conditioned exceptions remain separate. Research cutoff immediately before June 14, 1999. Original underlying briefs/appendix are not represented as recovered. No new social-science finding, party concession or empirical-proof deficiency is invented.
+
+**Continuity:** Implementing declaratory/injunctive proceedings remain, without an evidentiary reopening of whether more causal studies could save the identified structure. State gaming prohibitions survive. Thomas publishes his noncontrolling categorical opposition to keeping consumers ignorant of lawful truthful information to manipulate choices. Stevens retains his broader objection without making it common doctrine; Scalia's doctrinal reservation leaves his actual G1/G2 joins complete.
+
+## Assignment
+
+**Counted lead opinion:** Yes. One signed lead opinion after plenary merits review.
+
+The form, governing propositions, component coalitions and full-rationale eligibility were established before the count. The Chief joins the judgment majority and assigns this lead opinion.
+
+| Justice | Count before this assignment |
+|---|---:|
+| Stone-Zsela | 10 |
+| Stevens | 11 |
+| O'Connor | 11 |
+| Scalia | 11 |
+| Kennedy | 11 |
+| Souter | 11 |
+| Thomas | 11 |
+| Ginsburg | 11 |
+| Breyer | 11 |
+
+**Last counted event:** Cunningham v. Hamilton County, No. 98-727. (1999-06-14), authored by Kennedy; [Record](../records/cunningham_v_hamilton_county_merits_1999-06-14.md).
+
+**Eligible authors:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer.
+
+**Balance pool:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer.
+
+**Assigned author:** Stone-Zsela. The Chief is selected at 10 for the actual work of stating two independently sufficient failures without merging advancement into fit, preserving every conditioned gambling exception, and distinguishing the supported interstate mechanism in Edge from this statutory design. His approved formulation expressly performs those tasks and fixes the as-applied remedy without a least-restrictive-means rule. The common grounds are settled; neither his authorship nor the identity of another author changes any Associate commitment.
+
+**Strongest eligible pool alternative and comparison:** Kennedy, at 11, is the strongest pool alternative. His frozen grounds directly connect justification for the truthful-information restriction to the actual statutory mechanism, and he can carry both independent applications and bounded relief with equal fidelity. The Chief supplies the same precise formulation with the lower count. Every other eligible Justice remains able to write the complete shared reasoning; Thomas is ineligible because his judgment-only anti-suppression ground does not join either balancing proposition.
+
+**Fresh-count evidence:** [recount](../runtime/OT_1998CHUNK9_BROADCASTING_FINAL_RECOUNT.json); every prior author was recounted from actual opinion tables and form classifications, not previous totals. Git verification remains deferred under the authorized no-Git workflow.
+
+**Dated-law checkpoint:** Neder effective June 10 was reviewed in its complete public copy and changes no commercial-speech proposition. Richardson June 1, Goncalves and Bruneau June 3, and Amoco and OSullivan June 7 likewise introduce no changed premise. The June 10 B decisions change no governing advertising law. Cunningham June 14 enters this fresh chronological assignment count only; it is not substantive entering law for this same-day peer. No altered Stone condition or Associate commitment is identified.
+
+## Law of the decision
+**Direct and material advancement.** Section 1304 cannot be enforced against these Louisiana broadcasters' truthful, nonmisleading advertisements for lawful private-casino gambling because the federal scheme's actual exceptions and operation do not directly and materially advance its asserted gambling-harm reduction and state-policy accommodation interests. Potential reception in a State prohibiting private casinos does not itself make the advertised lawful transactions unlawful.
+
+**Authority:** The Court's opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Stevens joins this application conditionally under the existing framework; Scalia joins the application while retaining broader doctrinal reservations. Thomas supports the judgment on a different ground and adds no balancing vote.
+
+**Controlling explanation:** Central Hudson requires a substantial interest and direct material advancement; Edenfield requires real harm and material alleviation without invariably demanding studies. Even accepting the stated interests as substantial, the Government must explain how this restriction serves them in its actual setting. The conditioned state, tribal, nonprofit, governmental and occasional promotional exceptions allow materially comparable gambling promotion that undercuts the claimed demand-reduction mechanism. Different policies supporting those exceptions do not explain why suppression of these lawful private-casino advertisements materially serves that mechanism. Rubin requires attention to those contradictions rather than the prohibition viewed alone.
+
+Edge upheld a licensing-State restriction that meaningfully reduced promotion and accommodated lottery and nonlottery policies on its record. This differently structured private-casino scheme does not establish that mechanism merely because some signals may cross a border. The Court does not require regulation of every source at once, regard leakage or any exception as automatically fatal, or demand numerical causal proof. It does not decide whether deficiencies in advertising/social-cost evidence independently fail the Government's evidentiary burden or find that advertising never increases demand. Stronger evidence of the assumed causal chain would not cure the structural defects identified here; this is not a remand to rescue this scheme with additional causal studies.
+
+**Reasonable fit.** Independently, suppressing these truthful lawful-casino advertisements lacks a reasonable proportional fit with the asserted interests, given the scheme's extensive comparable permissions and available direct regulation of gambling. The Government may pursue genuine incremental policies, but the actual informational burden requires justification; the First Amendment does not require the least restrictive imaginable policy.
+
+**Authority:** The same eight-Justice Court-opinion coalition directly joins this independently sufficient ground, with the same stated reservations.
+
+**Controlling explanation:** Fox requires a reasonable fit, not the least restrictive means. Rubin and 44 Liquormart treat the burden on truthful information as an inquiry distinct from material advancement. Here the restriction broadly suppresses lawful gaming information while permitting the described comparable promotion. The ability to address gambling conduct directly bears on whether that informational burden is proportionate. Different interstate reach or administrative convenience does not itself explain the actual imbalance. The Court orders no tax, casino limit or replacement program and does not assume every alternative would achieve identical effects. It holds only that the restriction before it lacks justified proportionality on this record. Ordinary Central Hudson review remains governing; the decision creates no heightened tier, vice-speech immunity or general ban on incremental economic regulation. Relief is as applied to the advertisements and stations before the Court, not facial invalidation of §1304 or its implementing rule.
+
+## Audit annex
+
+The seven frozen G1/G2 Associates remain unchanged; Stone adds the eighth direct vote. Thomas adds the ninth judgment vote and no balancing rationale. Stevens's prior Rubin judgment-only vote and Scalia's 44 Liquormart nonbalancing position are not retroactively recast: their current direct joins are affirmative, independently supported applications. No exception is treated as unconditional, no failure to regulate everything automatically proves invalidity, and no historical authorship determines assignment. No material historical departure is asserted.
+
+### Exact approved Stone source
+
+Approved input: [scoped Stone supplement](../runtime/chunk9-scoped/BROADCASTING_STONE.md).
+
+#### Greater New Orleans Broadcasting Association, Inc. v. United States
+
+#### SECTION II: STONE POSITION SUPPLEMENT
+
+#### A. STATUS
+
+* **Approval Status:** Approved.
+* **Current-Through Baseline:** September 28, 1998; no prepared OT1998 position is a completed Court decision.
+
+#### B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Reverse the Fifth Circuit's judgment and bar enforcement of § 1304 against the advertisements described.
+* **Stone's Remedy and Remand Position:** The Government may not enforce § 1304 against the truthful, nonmisleading advertisements for lawful private-casino gambling at issue in this case. The judgment does not facially invalidate § 1304 or restrict materially different regulation of unlawful, misleading, or narrowly targeted advertising.
+
+#### C. ISSUE POSITIONS
+
+#### Issue 1: Truthful casino advertising
+
+* **Threshold and Merits Reach:** Stone reaches the as-applied commercial-speech claim.
+* **Stone's Legal Position:** Under *Central Hudson* and *Rubin*, the Government must show that the restriction directly and materially advances a substantial interest with a reasonable fit. Extensive comparable exceptions for state, tribal, charitable, and other gambling contradict the claimed demand-reduction mechanism.
+* **Stone's Proposed Holding:** Section 1304 may not suppress truthful advertisements for lawful private-casino gambling on this record because the federal scheme's extensive comparable exceptions prevent the ban from directly and materially advancing its asserted interests with a reasonable fit.
+* **Essential Reasoning and Record Application:** Federal law permits substantial advertising that stimulates the same general demand while suppressing the Louisiana broadcasters' truthful information. Direct regulation of gambling remains available and further weakens the asserted need to suppress speech. 44 Liquormart supplies two distinct inquiries: the actual demand-reduction mechanism and the proportional burden on truthful information. The comparable gambling exceptions undermine that mechanism here; available direct controls bear on fit without imposing a least-restrictive-means rule. Edge’s lottery-border setting involved a restriction the Court found meaningfully served the particular allocation between permitting and prohibiting States. That record does not establish that this differently perforated casino-advertising scheme materially serves either asserted federal interest.
+* **Boundary or Reserved Question:** The holding does not protect false or misleading advertising, promotion of unlawful transactions, targeting of minors, or a materially narrower evidence-supported restriction; it does not facially invalidate § 1304.
+
+
+### Frozen non-Stone reconciliation
+
+Authority: [frozen reconciled commitments](../freeze/OT_1998CHUNK9_BROADCASTING_RECONCILED.md); [frozen neutral packet](../freeze/OT_1998CHUNK9_B_NEUTRAL.md).
+
+#### OT1998 chunk 9 - Greater New Orleans Broadcasting Association v. United States - reconciled non-Stone commitments
+
+**Stage:** Historical reconciliation, no private Stone input and no final authorship assignment. The frozen B Neutral, B Preflight and B Commitments remain unchanged. The comparator is evidence checked against full-reading source receipts; post-decision law is excluded. The final reconciliation determination below controls expressly identified changes to the copied provisional section. Research cutoff is immediately before the assigned June 1999 event, with the same-day historical opinion used only as comparator. Root must confirm material intervening chunk law before assembly.
+
+#### Frozen provisional commitment (unchanged reading copy)
+
+#### Greater New Orleans Broadcasting Association v. United States — No. 98-387 — June 14, 1999
+
+**Threshold, speech and statutes.** All eight reach the as-applied First Amendment challenge by Louisiana broadcasters to truthful advertising of lawful private casino gambling. The possibility that signals reach Texas or Arkansas does not convert the advertised lawful Louisiana/Mississippi transactions into unlawful activity. The supported public interests in reducing gambling harms and respecting neighboring state policy are substantial for the ordinary Central Hudson inquiry. Direct gambling regulation and advertising of illegal or misleading transactions remain separate.
+
+Section 1304 prohibits the described licensed radio/television broadcasts and knowing permission of them, with each broadcasting day a separate offense. Section 1307(a)(1) exempts information about a State-conducted lawful lottery broadcast from a station licensed in that State or another lottery State. Section 1307(a)(2) requires that the scheme be authorized or not prohibited where conducted and be conducted by a nonprofit or governmental organization, or be clearly occasional commercial promotion ancillary to the organization's primary business. Section 2720 separately exempts gaming conducted by a tribe pursuant to, and consistently with, the Indian Gaming Regulatory Act. Section 1307(b)'s transport/mail exceptions and its special lottery definition do not independently exempt §1304 broadcasts. These are conditioned exceptions, not a claim that every other gambling advertisement is legal.
+
+**Law entering.** Commercial-speech advancement and fit in selective restrictions, present operation effective Lanphere & Urbaniak, April 18, 1995, retains Central Hudson and Fox. Edenfield requires real harm and material alleviation without invariably demanding studies. Rubin, April 19, 1995, supplies independent advancement and fit failures for an unexplained contradictory scheme and requires a supported state-accommodation mechanism. Edge, June 25, 1993, sustained a particular licensing-state restriction with meaningful reduction and a reasonable accommodation; it did not create a vice-speech exception. 44 Liquormart, May 13, 1996, retains ordinary Central Hudson/Fox review; its separate alcohol-Amendment rule creates no general gambling exemption or heightened review. Alternatives matter to fit without a least-restrictive-means requirement.
+
+**Propositions.** G1: Applied to truthful promotions of lawful private casino gambling by these stations, the actual scheme does not directly and materially advance the asserted reduction/accommodation interests. The permitted promotion of materially comparable gambling and the rules' mismatch with the asserted interstate mechanism undermine the justification for suppressing these particular lawful advertisements. G2: Independently, the restriction lacks reasonable proportional fit: it broadly suppresses truthful gaming information while allowing the described competing promotion, and the supported ability to address gambling behavior directly exposes an inadequately justified informational burden. Neither conclusion rests on an automatic rule invalidating every exception, an empirical-study mandate, or the availability of any conceivable less restrictive policy.
+
+| Justice | Judgment and sufficient ground | Own date-eligible support and join limits |
+|---|---|---|
+| Stevens | Reverse and remand for as-applied relief; joins G1 and G2 as independently sufficient conditional applications of existing scrutiny. | His 44 Liquormart conditional joins support both actual failures without accepting suppression through consumer ignorance as legitimate in every case. His Rubin judgment-only position preserves a broader objection but does not prevent express conditional agreement here. Does not make that broader view the common rule or overrule Edge. |
+| O'Connor | Reverse and remand; joins G1 and G2 in this statutory setting. | Her Rubin joins accepted both defects in a contradictory scheme. Her 44 Liquormart fit vote assumed advancement on that different record; it does not require ignoring the structural inconsistency here. The exceptions must be examined with their actual conditions, and neither incremental regulation nor interstate leakage alone is disqualifying. Her join excludes least-restrictive-means language. |
+| Scalia | Reverse and remand; joins G1 and G2 as application of the governing framework, reserving broader doubts about that framework. | His Rubin joins and Discovery Network join support testing an actual speech classification against its asserted mechanism. His 44 Liquormart judgment position supplied no balancing vote there; this commitment affirmatively adopts these record-specific failures and does not infer a general endorsement from the earlier judgment alone. No heightened tier, blanket vice immunity or general requirement to regulate every source is joined. |
+| Kennedy | Reverse and remand; joins G1 and G2. | Authored Edenfield, Ibanez, Rubin and the controlling portions of 44 Liquormart. The Government's explanation must respond to this truthful information and the real operation of its selective system. His Edge join preserves supported accommodation, not an automatic license to suppress any gambling advertisement reaching another State. |
+| Souter | Reverse and remand; joins G1 and G2. | His Edge join recognized meaningful reduction; his Rubin and both 44 Liquormart application joins insist that the actual statutory design support it. The different legal treatment of comparable promotion defeats the stated mechanism here without treating imperfect line drawing as invariably fatal. |
+| Thomas | Reverse and remand on a separate categorical anti-suppression ground; does not add a vote to G1 or G2 balancing. | His 44 Liquormart position rejects keeping consumers ignorant of truthful lawful commercial information to manipulate their choices. These lawful casino advertisements present that concern. His earlier Rubin/Edge balancing participation does not erase the later published qualification. He does not need the Government's interest balanced against speech or a finding about exact market effects. This separate ground does not determine the Court's scrutiny standard. |
+| Ginsburg | Reverse and remand; joins G1 and G2. | Joined Rubin and both 44 Liquormart application grounds. State accommodation must have an actual supported mechanism; the tribal and other conditioned exceptions cannot simply be ignored when the claimed aim is reduced gambling demand or reduced cross-border promotion. No federal displacement of state gaming restrictions follows. |
+| Breyer | Reverse and remand; joins G1 and G2. | His Rubin joins support independent defects in materially contradictory regulation. His 44 Liquormart fit join assumed advancement there; here the comparative statutory operation directly bears on whether the asserted reduction mechanism works. He preserves reasonable predictive judgments, genuine incremental rules and the substantial interests without finding that the Government must experimentally quantify every advertising effect. |
+
+**Adversarial alternatives.** The strongest sustaining path accepts incremental suppression, distinctive tribal/state/charitable policies and protection of noncasino States despite signal leakage. Edge confirms that incomplete exclusion and mixed state policy do not automatically invalidate a restriction. The seven ordinary-scrutiny supporters nevertheless find that the particular exceptions permit materially comparable gambling promotion without an explanation relating the remaining private-casino prohibition to the claimed harms, while the licensing/state pattern does not reproduce Edge's demonstrated accommodation. The Government's most substantial objection to G2 is that direct regulation may have different interstate reach and that the First Amendment does not demand the least restrictive means. The response is proportionality of the actual informational burden, assessed with the scheme's own permissions, not a judicial command to adopt a tax, casino limit or alternative program. Thomas's separate ground reaches the judgment without adding to either application coalition.
+
+**Joins, scope and remedy.** Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer directly support G1 and the independent G2, with Stevens's conditional posture and Scalia's doctrinal reservation retained. Thomas supports only the judgment under his separate ground. All eight would reverse the Fifth Circuit's sustaining judgment and remand for declaratory and appropriate injunctive relief conforming to this as-applied invalidity. They do not erase §1304 or the FCC rule in all applications, invalidate any gaming prohibition, authorize deceptive advertisements, award damages or prescribe replacement policy. Relief is bounded to the lawful private-casino advertising and stations before the Court; an asserted different application requires its own justification.
+
+
+#### Reconciliation determination
+
+**Ready:** All eight Associate judgments and the frozen G1/G2 coalitions stand. Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join both independent Central Hudson defects; Thomas supports the judgment under his distinct opposition to suppressing truthful lawful commercial information to manipulate consumer choices. Historical unanimity in judgment is not unanimity on balancing or a substitute for exact joins.
+
+| Justice | Reconciled judgment and grounds | Comparator/current-premise check |
+|---|---|---|
+| Stevens | Reverse, with conforming return proceedings; G1/G2 as affirmative conditional applications. | Historical complete join matches. Current 44 Liquormart expressly supports conditional agreement in both actual defects while retaining his broader objection to consumer-ignorance policy. No need to convert Rubin's earlier judgment-only vote into a full earlier join. |
+| O'Connor | Same, G1/G2 under ordinary scrutiny. | Historical complete join matches; current Rubin directly supports both defects. Her assumed-advancement fit analysis in 44 Liquormart does not compel the same assumption for this different statutory design. |
+| Scalia | Same, G1/G2, reserving broader doubts about commercial-speech doctrine. | Historical complete join confirms that the specific application can be joined despite his current 44 Liquormart nonbalancing position. Rubin and Discovery Network supply date-eligible application support; no inference from an earlier judgment-only vote supplies the join. |
+| Kennedy | Same, G1/G2. | Historical complete join matches and his current Edenfield, Rubin, Ibanez and 44 Liquormart positions require a justification responsive to the actual restriction. |
+| Souter | Same, G1/G2. | Historical complete join matches. His Edge meaningful-reduction join is preserved through a concrete distinction, not treated as irrevocable approval of all gambling restrictions. |
+| Thomas | Same judgment on separate anti-suppression ground; no G1/G2 balancing join. | Historical judgment-only writing matches his current 44 Liquormart categorical position. Earlier Edge/Rubin participation does not erase that later qualification. His view does not become majority doctrine. |
+| Ginsburg | Same, G1/G2. | Historical complete join matches. Current Rubin/44 Liquormart actual-operation analysis applies while retaining incremental regulation and reasonable prediction. |
+| Breyer | Same, G1/G2. | Historical complete join matches. Current Rubin supports both defects; assuming advancement in 44 Liquormart was record-specific and does not supply a standing join barrier here. |
+
+**Scope and rationale audit:** The lawful private-casino advertising by the stations before the Court clears the lawful/nonmisleading threshold; potential reception in a State that forbids private casino operation does not itself make the advertised transactions unlawful. The two asserted government interests can be substantial. G1 fails because the actual scheme's exemptions and inconsistent treatment undermine its asserted reduction and state-accommodation mechanism; G2 independently fails because the informational burden is disproportionate to that mechanism in light of the actual permissions and direct regulation alternatives. The source's comparison of third and fourth Central Hudson requirements supports both; neither becomes a mandatory empirical-study test, least-restrictive-means demand or a rule invalidating every exception.
+
+The historical opinion expressly declined to decide whether a deficiency in advertising/social-cost evidence itself fails the government's proof burden. Preserve that reservation: this decision rests on structural defects, not a new factual finding that advertising never increases demand or a requirement of numerical causal proof. There is no new evidentiary remand so the Government may rescue the existing scheme with additional causal studies; even stronger evidence of the assumed causal chain would not cure these identified structural defects. This is a legal consequence of the existing record, not a new historical filing or concession.
+
+**Exceptions retained in full:** Section 1307(a)(1)'s State-lottery exception requires a State-conducted lottery and the station's licensing in that State or another lottery State. Section 1307(a)(2) requires authorization or absence of prohibition where conducted plus nonprofit/governmental operation or clearly occasional commercial promotion ancillary to the organization's primary business. Section 2720 requires tribal gaming pursuant to and consistent with the governing chapter. Section 1307(b)'s separate mail/transport rules and its special definition do not independently exempt section 1304 broadcasts; the nonprofit definition has its own section 501 conditions. The opinion cannot say simply that every kind of gambling advertising other than private casino advertising is allowed.
+
+**Edge and Posadas:** Edge's licensing-State restriction meaningfully reduced promotion and reasonably accommodated lottery/nonlottery policies on its actual record. The private-casino restriction and conditioned exemptions here do not supply that coherent mechanism. The decision distinguishes Edge, retaining its lawful application and rejection of complete-exclusion demands. Current ordinary scrutiny, including the divided positions in 44 Liquormart, supplies no majority blanket repudiation of all vice regulation or automatic overruling of Posadas. Speech scrutiny is not identical to the constitutional review of incremental substantive economic regulation.
+
+**Remedy:** Reverse the Fifth Circuit's sustaining judgment and return for declaratory and appropriate injunctive relief conforming to the as-applied invalidity established. This is not a facial repeal of section 1304 or the FCC rule, a mandatory new merits trial, an evidentiary reopening, damages, a replacement gambling policy or a judgment permitting deceptive or unlawful advertising. The direct gaming prohibitions and genuinely different applications remain outside the holding. The frozen remand wording describes implementation after reversal, not a new source-reported Supreme Court action before this event.
+
+
+**Source check:** CONTROL_HISTORICAL_VERIFICATION certifies full lead opinion, footnotes and both concurrences against Cornell and official report; material third/fourth-prong, proof reservation, Edge and remedy passages were additionally checked. [Lead opinion](https://www.law.cornell.edu/supct/html/98-387.ZO.html); [Thomas concurrence](https://www.law.cornell.edu/supct/html/98-387.ZC1.html); [official report, 527 U.S. 173](https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527173/usrep527173.pdf). Current Edge, Edenfield, Rubin and 44 Liquormart holdings/joins were read from B_READING. No new neutral fact is added.
+
+**Validation:** Eight Associate positions and proposition scopes reconciled; no new neutral fact, current adjudication, public projection or assignment generated. Runtime and freeze are byte-identical; Git durability belongs to the parent operator.
+
+## Public Projection
+
+## Event
+Greater New Orleans Broadcasting Association, Inc. v. United States, No. 98-387. Argued April 27, 1999; decided June 14, 1999. On writ of certiorari to the Fifth Circuit, 149 F.3d 334 (1998). Louisiana broadcasters seek declaratory and injunctive relief against §1304 and its companion FCC restriction as applied to truthful advertisements for lawful private-casino gambling in Louisiana and Mississippi. The question is whether that application satisfies commercial-speech scrutiny in light of the federal scheme's actual exceptions and asserted interests.
+
+Section 1304 prohibits federally licensed radio or television broadcasts of advertisements or information concerning a lottery, gift enterprise or similar scheme offering prizes dependent wholly or partly on chance, including prize lists, and prohibits an operator's knowing permission of such broadcasting. It authorizes a fine, up to one year's imprisonment, or both, with each broadcast day a separate offense. The materially relevant exceptions have distinct conditions:
+
+- Section 1307(a)(1) permits information concerning a lottery conducted by a State under its law when the station is licensed in that State or another State conducting such a lottery.
+- Section 1307(a)(2) covers a different scheme only if authorized or not prohibited where conducted and conducted by a nonprofit or governmental organization, or as clearly occasional commercial promotion ancillary to the organization's primary business. For this section, nonprofit status means an organization that would qualify as tax exempt under Internal Revenue Code §501.
+- Section 2720 exempts tribal gaming conducted pursuant to and consistently with the Indian Gaming Regulatory Act's chapter requirements.
+- Section 1307(b)'s distinct transport/mail exemptions concern state-conducted lottery material sent to in-state addresses or material intended for a lawful foreign lottery and sent to an addressee there; they do not independently exempt §1304 broadcasts. Its special definition of lottery concerns pooled ticket/chance proceeds distributed by chance and excludes sports bets; that definition applies to subsection (b), not automatically to the broadcasting prohibition.
+
+These provisions do not allow every gambling advertisement other than private-casino advertising.
+
+## Participation
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated.
+
+## Public Action
+The Fifth Circuit's sustaining judgment is reversed and the case returned for conforming declaratory and appropriate injunctive relief.
+
+## Judgment & Remedy
+**Reversed and remanded, 9–0.** **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Government may not enforce §1304 against these truthful, nonmisleading advertisements for lawful private-casino gambling. Relief concerning the companion FCC restriction conforms to that same as-applied prohibition. Section 1304 and the rule are not facially invalidated; no damages or replacement gambling policy is ordered.
+
+## Opinion Topology
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court | Stone-Zsela | Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Reversal and as-applied relief | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer join both independent advancement and fit holdings. Stevens's application is conditional under existing scrutiny; Scalia retains broader doctrinal reservations while joining both applications. |
+| Concurrence in the judgment | Thomas | No other Justice | Same judgment and relief | Categorical objection to suppressing truthful lawful information to manipulate consumer choices; no join in either balancing holding |
+
+## Holdings
+**Direct and material advancement.** Section 1304 cannot be enforced against these Louisiana broadcasters' truthful, nonmisleading advertisements for lawful private-casino gambling because the federal scheme's actual exceptions and operation do not directly and materially advance its asserted gambling-harm reduction and state-policy accommodation interests. Potential reception in a State prohibiting private casinos does not itself make the advertised lawful transactions unlawful.
+
+**Authority:** The Court's opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Stevens joins this application conditionally under the existing framework; Scalia joins the application while retaining broader doctrinal reservations. Thomas supports the judgment on a different ground and adds no balancing vote.
+
+**Controlling explanation:** Central Hudson requires a substantial interest and direct material advancement; Edenfield requires real harm and material alleviation without invariably demanding studies. Even accepting the stated interests as substantial, the Government must explain how this restriction serves them in its actual setting. The conditioned state, tribal, nonprofit, governmental and occasional promotional exceptions allow materially comparable gambling promotion that undercuts the claimed demand-reduction mechanism. Different policies supporting those exceptions do not explain why suppression of these lawful private-casino advertisements materially serves that mechanism. Rubin requires attention to those contradictions rather than the prohibition viewed alone.
+
+Edge upheld a licensing-State restriction that meaningfully reduced promotion and accommodated lottery and nonlottery policies on its record. This differently structured private-casino scheme does not establish that mechanism merely because some signals may cross a border. The Court does not require regulation of every source at once, regard leakage or any exception as automatically fatal, or demand numerical causal proof. It does not decide whether deficiencies in advertising/social-cost evidence independently fail the Government's evidentiary burden or find that advertising never increases demand. Stronger evidence of the assumed causal chain would not cure the structural defects identified here; this is not a remand to rescue this scheme with additional causal studies.
+
+**Reasonable fit.** Independently, suppressing these truthful lawful-casino advertisements lacks a reasonable proportional fit with the asserted interests, given the scheme's extensive comparable permissions and available direct regulation of gambling. The Government may pursue genuine incremental policies, but the actual informational burden requires justification; the First Amendment does not require the least restrictive imaginable policy.
+
+**Authority:** The same eight-Justice Court-opinion coalition directly joins this independently sufficient ground, with the same stated reservations.
+
+**Controlling explanation:** Fox requires a reasonable fit, not the least restrictive means. Rubin and 44 Liquormart treat the burden on truthful information as an inquiry distinct from material advancement. Here the restriction broadly suppresses lawful gaming information while permitting the described comparable promotion. The ability to address gambling conduct directly bears on whether that informational burden is proportionate. Different interstate reach or administrative convenience does not itself explain the actual imbalance. The Court orders no tax, casino limit or replacement program and does not assume every alternative would achieve identical effects. It holds only that the restriction before it lacks justified proportionality on this record. Ordinary Central Hudson review remains governing; the decision creates no heightened tier, vice-speech immunity or general ban on incremental economic regulation. Relief is as applied to the advertisements and stations before the Court, not facial invalidation of §1304 or its implementing rule.
+
+## Precedent Treatment
+- Central Hudson supplies ordinary lawful/nonmisleading commercial-speech review, substantial interest, material advancement and reasonable fit.
+- Fox preserves the distinction between reasonable fit and least-restrictive means.
+- Edenfield requires justification responsive to real harms and material alleviation without invariably requiring empirical studies.
+- Ibanez tests the actual truthful-information restriction and its responsive justification.
+- Rubin applies independent advancement and fit inquiries to a materially contradictory scheme and requires an actual state-accommodation mechanism.
+- 44 Liquormart preserves those separate inquiries under ordinary scrutiny; its alcohol-specific rule does not create a gambling exception or a new tier.
+- Edge retains its record-specific meaningful-reduction and state-accommodation holding; the different statutory permissions and mechanism here do not reproduce it.
+- Posadas is not overruled through this as-applied decision, and no categorical constitutional rule against all vice regulation is adopted.
+
+## Law After Decision
+The described lawful private-casino advertising is protected against this federal prohibition because each of two ordinary commercial-speech requirements fails independently. False or misleading advertisements, promotion of unlawful transactions, targeting minors and materially narrower evidence-supported restrictions remain outside the holding. Direct regulation of gambling survives. Other asserted applications require their own justification; neither §1304 nor the FCC restriction is erased in all settings.
+
+## Separate Writings
+Thomas agrees with the judgment because government may not keep consumers ignorant of truthful information about lawful commercial activity in order to manipulate their choices. The casino advertisements present that concern directly; he does not require balancing the asserted interests or measuring precise market effects. His ground remains separate from the eight-Justice advancement and fit holdings and does not change the Court's governing scrutiny standard.
+
+## Procedure After Action
+The case returns for declaratory and appropriate injunctive relief conforming to the established as-applied invalidity. The Government may not enforce the prohibition against the advertisements and stations before the Court. No new merits trial, causal-evidence reopening, damages award, gambling-policy replacement or relief for materially different advertising is ordered.
+
+## Source Notes
+The lower judgment is reported at 149 F.3d 334 (5th Cir. 1998). Potential signal reach into Texas and Arkansas is an FCC official's record statement, not a universal audience finding. Statutory text: [18 U.S.C. §1304](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap61-sec1304.htm), [18 U.S.C. §1307](https://www.govinfo.gov/content/pkg/USCODE-1994-title18/html/USCODE-1994-title18-partI-chap61-sec1307.htm), and [25 U.S.C. §2720](https://www.govinfo.gov/content/pkg/USCODE-1994-title25/html/USCODE-1994-title25-chap29-sec2720.htm). [Official record recitations](https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527173/usrep527173.pdf).

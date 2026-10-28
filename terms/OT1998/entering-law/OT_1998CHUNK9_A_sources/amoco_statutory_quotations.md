@@ -1,0 +1,30 @@
+# Mechanical copy of statutory quotations in the judgment below
+
+Source: https://static.case.law/f3d/151/html/1251-01.html
+
+The 1909 quotation is complete as printed; the 1910 quotation prints sections 1 and 3 in relevant part and contains the lower opinion's ellipses. OCR artifacts are preserved. This is not a claim to have checked an unabridged official 1910 Act. The reserved estate and access/damages qualifications are included.
+
+. In full, the Act as originally titled and promulgated was as follows:
+
+      Chap. 270. — An Act For the protection of the surface rights of entrymen.
+      
+        Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That any person who has in good faith located, selected, or entered under the nonmineral land laws of the United States any lands which subsequently are classified, claimed, or reported as being valuable for coal, may, if he shall so elect, and upon making satisfactory proof of compliance with the laws under which such lands are claimed, receive a patent therefor, which shall contain a reservation to the United States of all coal in said lands, and the right to prospect for, mine, and remove the same. The coal deposits in such lands shall be subject to disposal by the United States in accordance with the provisions of the coal-land laws in force at the time of such disposal, but no person shall enter upon said lands to prospect for, or mine and remove coal therefrom, without previous consent of the owner under such patent, except upon such conditions as to security for and payment of- all damages to -such owner caused thereby as may be determined by a court of competent jurisdiction: Provided, That the owner under such patent shall have the right to mine coal for use on the land for domestic purposes prior to the disposal by the United States of the coal deposit: Provided -further, That nothing herein contained shall be held to affect or abridge the right of any locator, selector, or entryman to a hearing for the purpose of determining the character of the land located, selected, or entered by him. Such locator, selector, or entryman who has heretofore máde or shall hereafter make final proof showing good faith and satisfactory compliance with the law under which his land is claimed shall be entitled to a patent without’ reservation unless at the time of such final proof and entry it shall be shown that the land is chiefly valuable for coal.
+      
+Law of Mar. 3, 1909, ch. 270, 35 Stat. 844 (current version at 30 U.S.C. § 81).
+      
+
+    
+    
+      4
+      
+. The 1910 Act, as originally titled and enacted, provided in relevant part:
+
+      CHAP. 318. — An Act To provide for agricultural entries on coal lands.
+      
+        Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That from and after the passage of this Act unreserved public lands of the United States exclusive of Alaska which have been withdrawn or classified as coal lands, or are valuable for coal, shall be subject to appropriate entry under the homestead laws by actual settlers only ... with a reservation to the United States of the coal in such lands and of the right to prospect for, mine, and remove the same.... [A]ll homestead entries made hereunder shall be subject to the conditions, as to residence and cultivation, of entries under the Act approved February nineteenth, nineteen hundred and nine, entitled "An Act to provide for an enlarged homestead:” Provided, That those who have initiated non-mineral entries, selections, or locations in good faith, prior to the passage of this Act, on lands withdrawn or classified as coal lands may perfect the same under the provisions of the laws under which said entities were made, but shall receive the limited patent provided for in this Act.
+      SEC. 3. That upon satisfactory proof of full compliance with the provisions of the laws under which entry is made, and of this Act, the entryman shall be entitled to a patent to the land entered by him, which patent shall contain a reservation to the United States of all the coal in the lands so patented, together with the right to prospect for, mine, and remove the same. The coal deposits in such lands shall be subject to disposal by the United States in accordance with the provisions of the coal-land laws in force at the time of such disposal. Any person qualified to acquire coal deposits or the right to mine and remove the coal under the laws of the United States shall have the right, at all times, to enter upon the lands selected, entered, or patented, as provided by this Act, for the purpose of prospecting for coal thereon upon the approval by the Secretary of the Interior of a bond or undertaking to be filed with him as security for the payment of all damages to the crops and improvements on such lands by reason of such prospecting. Any person who has acquired from the United States the coal deposits in any such land, or the right to mine or remove the same, may reenter and occupy so much of the surface thereof as may be required for all purposes reasonably incident to the mining and removal of the coal therefrom, and mine and remove the coal, upon payment of the damages caused thereby to the owner thereof, or upon giving a good and sufficient bond or undertaking in an action instituted in any competent court to ascertain and fix said damages: Provided, That the owner under such limited patent shall have the right to mine coal for use upon the land for domestic purposes at any time prior to the disposal by the United Stales of the coal deposits; Provided further, That nothing herein contained shall be held to deny or abridge the right to present and have prompt consideration of applications to locate, enter, or select, under the land laws of the United States, lands which have been classified as coal lands with a view of disproving such classification and securing a patent without reservation.
+      
+Law of June 22, 1910, ch. 318, §§ 1, 3, 36 Stat. 583-84 (current version at 30 U.S.C. §§ 83, 85).
+
+    
+    

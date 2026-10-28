@@ -1,0 +1,1949 @@
+EDITOR'S NOTE 
+
+
+THE FOLLOWING PAGES WERE POOR HARD COPY 
+AT THE TIME OF FILMING. IF AND WHEN A 
+BETTER COPY CAN BE OBTAINED, A NEW FICHE 
+WILL BE ISSUED. 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1997 
+
+
+EDDIE RICHARDSON, Petitioner, 
+vs. 
+
+
+UNITED STATES, Respondent 
+
+
+MOTION FOR LEAVE TO 
+PROCEED IN FORMA PAUPERIS 
+
+
+The Petitioner, Eddie Richardson, requests leave to file the 
+
+
+attached Petition for Writ of Certiorari, without prepayment of 
+costs and to proceed in forma pauperis. Petitioner's counsel has 
+
+
+been appointed by the United States District Court for the 
+
+
+Northern District of Illinois pursuant to 18 U.S.C. § 3006A. 
+
+
+/ } ) 5 
+py: Millan Lr br rth/ 
+
+
+William A. Barnett, Jr. 
+Counsel of Record 
+
+
+135 S. LaSalle St. 
+
+
+Suite 3600 
+Chicago, Illinois 60603 
+| Sopreme Court, U.S. (312) 726-4480 
+LED RE 
+APR > 1998 CEIVED 
+cence UF THE CLERK APR 8 1998 
+OFFICE OF THE CLERK 
+
+
+SUPREME COURT, U.S. 
+
+
+No. 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1997 
+
+
+EDDIE RICHARDSON, Petitioner, 
+vs. 
+
+
+UNITED STATES, Respondent 
+
+
+On Petition for Writ of Certiorari 
+
+
+To the United States Court of Appeals 
+For the Seventh Circuit 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+= William A. Barnett, Jr. 
+Counsel of Record 
+135 S. LaSalle St. 
+Suite 3600 
+Chicago, Illinois 60603 
+(312) 726-4480 
+
+
+A7- 86. 2G 
+
+
+Richard son) 
+QUESTION PRESENTED 
+
+
+whether due process requires that the jury be instructed 
+that it must unanimously agree as to the commission by the 
+defendant of each of three predicate narcotics violations in 
+order to find that the defendant engaged in a continuing criminal 
+
+
+enterprise as prohibited by 21 U.S.C. § 848. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+eens. SE, x. 6. 4 eee lee Ola ee ee ee eee 
+eee Gee Te ks 6 ae kee ee ee! al eee ee i 
+eee Ge eee 6 ee oe ewe eo ee ee J 
+ee GN 6 se EW eae be eee we eee 
+ee ee ee ee ee ee ee ee 
+Constitutional and Statutory Provisions Involved ....... 3 
+ee ee. ee Eg oe gS eg Son eee a i a a ee 
+Reasons for Granting the Petition ......+e+e+-ese-vee 3 
+Ce aE aati Oey te 8” & ae ae a ee ee ea? eee 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Andres v. United States, 333 U.S. 740,68 S.Ct. 880, 
+92 L.Ed 2d 1055 (1948) se ee 
+
+
+In re Winship, 397 U.S. 358, 364 (1970) 
+Schad v. Arizona, 501 U.S. 624 (1991) 
+United States v. Canino, 949 F.2d 928 (7th Cir. 1991) 
+
+
+United States v. Echeverri, 854 F.2d 638 (1988) 
+
+
+United State v. Edmonds, 52 F.3d 1236 (3d Cir. 1995) 
+United States v. Edmonds, 80 F.3d 810 (3d Cir. 1996) 
+
+
+United States v. Holley, 942 F.2d 916(5th Cir. 1991) 
+
+
+United States v. Kramer, 955 F.2d 479, cert. denied 
+506 U.S. 998 (1992) 
+
+
+18 U.S.C. § 371 
+21 U.S.C. § 841 
+21 U.S.C. § 846 
+21 U.S.C. § 848 
+28 U.S.C. § 1254 
+
+
+Rule 31, Federal Rules of Criminal Procedure 
+
+
+Page 
+7 
+
+7 
+
+7, 10 
+8 
+
+7, 9 
+9 
+
+9, 10 
+10 
+
+7, @ 
+. § 
+
+. se 
+sz 
+3, 8 
+2. § 
+a. 7 
+
+
+OPINIONS BELOW BASIS FOR JURISDICTION 
+
+
+The opinion of the Seventh Circuit Court of Appeals The Seventh Circuit's order affirming the Petitioner's 
+
+
+(Appendix, Exhibit A) is reported at 130 F.3d 765 (7th Cir. conviction and sentence was entered on November 14, 1997. 
+
+
+1997). The decision of the Seventh Circuit Court of Appeals (Appendix, Exhibit A, p.1). The Seventh Circuit denied a 
+
+
+denying a petition to the Seventh Circuit for rehearing with petition for rehearing with suggestion for rehearing en banc, 
+
+
+suggestions for rehearing en banc, filed by one of Petitioner's filed by one of Petitioner's co-defendants at trial, on January 
+co-defendants at trial, is attached as Exhibit B to the Appendix. 7, 1998. (Appendix, Exhibit B). This Court has jurisdiction to 
+review the Seventh Circuit's affirmance of Petitioner's 
+
+
+conviction by issuing a writ of certiorari pursuant to 28 U.S.C. 
+
+
+§ 1254. 
+
+
+CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+Fifth Amendment to the Constitution of the United States: 
+No person shall be .. . deprived of life, liberty, or 
+
+
+property, without due process of law; 
+
+
+Sixth Amendment to the Constitution of the United States: 
+In all criminal prosecutions, the accused shall enjoy the 
+right to a speedy and public trial, by an impartial jury of the 
+
+
+State and district wherein the crime shall have been committed, 
+
+
+Title 21, United States Code, § 848 
+(a) Penalties; forfeitures. 
+Any person who engages in a continuing criminal enterprise 
+
+
+shall [be guilty of an offense] 
+
+
+(c) “Continuing criminal enterprise" defined 
+
+
+For purposes of subsection (a) of this section, a person is 
+
+
+engaged in a continuing criminal enterprise if -- 
+(1) he violates any provision of this subchapter or 
+
+
+subchapter II of this chapter the punishment for which is a 
+
+
+felony, and 
+
+
+(2) such violation is a part of a continuing series of 
+
+
+violations of this subchapter or subchapter II of this 
+chapter -- 
+
+
+(A) which are undertaken by such person in concert with 
+
+
+3 
+
+
+- 
+
+
+five or more other persons with respect to whom such 
+person occupies a position or organizer, a supervisory 
+position, or any other position of management, and 
+
+(B) from which such person obtains substantial income 
+
+
+or resources. 
+
+
+Rule 31, Federal Rules of Criminal Procedure 
+
+
+Rule 31. Verdict 
+(a) Return. The verdict shall be unanimous. 
+
+
+Eddie Richardson was charged in two counts of a three-count 
+indictment charging him and his codefendants in Count One thereof 
+with engaging in a conspiracy to sell narcotics including heroin, 
+cocaine and crack cocaine, in violation of 21 U.S.C. § 846. 
+Richardson and codefendant Carmen Tate were charged in Count Two 
+with engaging in a continuing criminal narcotics enterprise, in 
+violation of 21 U.S.C. § 848. Count Three charged Carmen Tate 
+and another person with conspiracy to defraud the United States, 
+in violation of 18 U.S.C. § 371. (Appendix, Exhibit A, p.2). 
+
+The indictment alleged no overt acts in furtherance of the 
+conspiracy, nor were any substantive violations of 21 U.S.C. 841 
+charged in the indictment against either Richardson or any of his 
+codefendants. _ 
+
+Codefendant Tate submitted, and Richardson adopted the 
+request for two proposed instructions relating to the elements of 
+the continuing criminal enterprise charge. (Appendix, Exhibits C 
+and D). These proposed instructions each required that in order 
+to convict, the jury must unanimously agree as to which three 
+acts of the defendant constituted the series of narcotics 
+violations necessary to find a violation of § 848. The district 
+court, over objection, refused these instructions and instead 
+gave the government's proposed instruction which specifically 
+instructed the jury that it need not agree as to the particular 
+three or more federal narcotics offenses committed by the 
+
+
+defendant. (Appendix, Exhibit E). 
+
+
+5 
+
+
+Richardson was convicted of both counts in which he was 
+charged and sentenced to life imprisonment. (Appendix, Exhibit 
+A, p.2). He appealed his conviction to the Seventh Circuit Court 
+
+
+of Appeals. On appeal, Richardson argued, inter alia, that the 
+
+
+district court had erred in refusing to instruct the jury that it 
+must unanimously egree as the predicate narcotics violations he 
+had committed. The Seventh Circuit, with little discussion, 
+
+
+following its own precedent in United States v. Kramer, 955 F.2d 
+479, cert. denied, 506 U.S. 998 (1992), rejected this argument 
+
+
+and affirmed the conviction. (Appendix, Exhibit A, p. 22). 
+
+
+REASONS FOR GRANTING THE PETITION 
+
+
+The Seventh Circuit's holding in this case, following its 
+
+
+holding in United States v. Kramer, 955 F.2d 479, cert. denied 
+
+
+506 U.S. 998 (1992), is in direct conflict with the holding of 
+
+
+the Third Circuit in United States v. Echeverri, 854 F.2d 638 
+
+
+(1988), that a jury, in order to convict a defendant of engaging 
+in a continuing criminal enterprise, must unanimously agree as to 
+the commission of each of at least three predicate federal 
+narcotics violations. This issue relates directly to the 
+defendant's rights to a unanimous verdict under the Sixth 
+Amendment and Rule 31, Federal Rules of Criminal Procedure, and 
+to due process under the Fifth Amendment. This Court should 
+accordingly resolve this conflict between the circuits. 
+
+This Court has long recognized that due process requires 
+proof beyond a reasonable doubt of every fact necessary to 
+
+
+constitute the crime with which the defendant is charged. In re 
+Winship, 397 U.S. 358, 364 (1970). Furthermore, the Sixth 
+
+
+Amendment and Rule 31, Federal Rules of Criminal Procedure, 
+
+
+require that the jury's verdict be unanimous. Andres v. United 
+States, 333 U.S. 740, 748-49, 68 S.Ct. 880, 884-85, 92 L.Ed 2d 
+1055 (1948). 
+
+
+The question remains as to what the jury must be unanimous 
+
+
+about. This Court, in Schad v. Arizona, 501 U.S. 624 (1991), 
+
+
+discussed the issue at length, and limiting its consideration to 
+
+
+the due process requirement of unanimity, indicated that the 
+scope of jury unanimity is primarily a question of legislative 
+intent, although due process limits the legislature's 
+definitional power. A plurality of the Court concluded that when 
+a statute enumerates alternative routes for its violation, 
+whether jurors must be unanimous as to a particular route depends 
+on two questions. First, did the legislature intend the routes 
+to establish separate offenses, requiring unanimity, or different 
+means, for which unanimity is not required. Second, if the 
+legislature intended the different routes to be mere means of 
+violating the statute, is the statute's definition of the crime 
+in conformity with the requirements of due process? 
+
+With respect to a charge of engaging in a continuing 
+criminal enterprise in violation of 21 U.S.C. § 848, the question 
+is then in the first instance, whether the legislature intended 
+that the predicate narcotics violations be elements of the 
+offense requiring as to each proof beyond a reasonable doubt and 
+agreement of the jurors, and secondly, if not, whether due 
+process requires it nevertheless. The Seventh Circuit's analysis 
+of the issue relies principally on its view of the legislative 
+intent in enacting the prohibition against engaging in a 
+
+
+continuing criminal enterprise. As it stated in United States v. 
+
+
+Canino’, 949 F.2d 928, 948 (7th Cir. 1991): 
+
+
+‘The Seventh Circuit followed the holding in United States v. Canino in 
+deciding United States v. Kramer, 955 F.2d 479 (7th Cir. 1992), the precedent 
+cited in affirming Petitioner’s conviction. 
+
+
+The point of the CCE statute is to impose special 
+punishment on those who o:ganize and direct a 
+significant number of larger scale drug transactions; 
+the exact specification ty unanimous jury consent of 
+any particular three... offenses is irrelevant to 
+any theory about why punishment should be enhanced for 
+such uniquely antisocial activity. 
+
+
+On the other hand, as the Third Circuit, sitting en banc, 
+
+
+points out, the punitive purpose of a criminal statute will never 
+be served by providing more procedural protections to the 
+
+
+defendant. United States v. Edmonds’, 80 F.3d 810, 818 (3d Cir. 
+
+
+1996). Not finding the legislative history of the CCE statute 
+illuminating as to the juror unanimity issue, the Third Circuit 
+analyzed the issue relying on several background interpretative 
+principles, historical tradition in criminal jurisprudence, 
+
+
+constitutional considerations, and the rule of lenity. The Third 
+
+
+Circuit concluded that, as it had previously held in United 
+States v. Echeverri, supra, that juror unanimity was required. 
+While the Third Circuit, in United States v. Edmonds, supra, 
+
+
+primarily relied on statutory construction in coming to its 
+
+
+"the Third Circuit held in United States v. Echeverri, 854 F.2d 638 
+(1988), that the CCE statute requires juror unanimity as to the identity of 
+each of the three related violations comprising the continuing series. In 
+United State v. Edmonds, 52 F.3d 1236 (3d Cir. 1995), the Third Circuit 
+followed its holding in Echeverri, supra, and reversed the defendant’s 
+conviction. The government petitioned for rehearing, and the Third Circuit 
+vacated the reversal and reheard the matter en banc, to determine whether its 
+holding as to the unanimity requirement was correct, and if so, whether the 
+district court’s refusal to instruct the jury in conformity with Echeverri was 
+harmless error. The Third Circuit, in a lengthy and well reasoned opinion, 
+concluded that unanimity as to the identity of the predicate violations was 
+required, but that in the context of the Edmonds case, the failure to so 
+instruct the jury was harmless error, and affirmed the district court. 
+
+
+9 
+
+
+conclusion, it recognized that a construction of the CCE statute 
+which did not require juror unanimity as to the predicate 
+violations, would very likely render it in violation of the due 
+process requirements of the Constitution. It recognized that due 
+
+
+process is defined in part by historical practice, citing Schad 
+v. Arizona, supra. And in that context, stated: 
+
+
+As mentioned, interpreting predicate offenses as 
+different means of violating a single continuing series 
+element marks a departure from historical guarantees on 
+the degree of factual agreement necessary to establish 
+a conviction. 
+
+
+United States v. Edmonds, 80 F.3d, at 819. Criminal trials have 
+
+
+long ensured jury agreement as to the facts establishing an 
+offense. This is because criminal statutes and the common law 
+have generally defined crimes in terms of conduct and 
+accompanying mental state that takes place in a single place at a 
+specific time. Where there is a risk that a jury will convict 
+without agreement on a discrete set of actions, courts have 
+
+
+required specific unanimity instructions. United States v. 
+Edmonds, supra, 80 F.3d, at 819, citing United States v. Holley, 
+
+
+942 F.2d 916, 928-29(Sth Cir. 1991). The Third Circuit thus 
+concluded that substantial agreement on a discrete set of actions 
+is essential to ensure that the defendant is guilty beyond a 
+reasonable doubt of some specific legal conduct. 
+
+
+In Petitioner's case, unlike in United States v. Kramer, 
+supra, the defendants were not charged in any substantive counts 
+
+
+for violations of the narcotics laws. At trial the evidence of 
+
+
+10 
+
+
+violations consisted of the testimony of three cooperating CONCLUSION 
+
+
+witnesses as to activity which spanned a period of years with For these reasons, the petition for certiorari should be 
+little particularized description of discrete incidents. Thus it grented. 
+
+is impossible to select from a group of violations whether Respectfully eumaitres, 
+charged as separate offenses or even as overt acts, any three as EDDIE RICHARDSON 
+
+to which the jury may have agreed. This is thus an appropriate 
+
+case to announce a rule that, at least with respect to the CCE —- WA barn. fl ei 
+statute, the jury must be able to agree unanimously with respect epee a ape 
+to three violations which can be identified by the defendant and 135 S. Lasalle Street 
+the court as well as any reviewing court. Chicago, Tilinois 60603 
+
+
+(312) 726-4480 
+
+
+11 12 
+
+
+APPENDIX 
+
+
+Opinion of the United States Court of Appeals for the 
+Seventh Circuit, in United States v. Richardson, et al., 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 96-2591, 96-2644, 
+96-2682 and 96-3197, issued November 14, 1997, 130 F.3d 765 
+(7th Cir., 1997). 
+
+
+Order of the United States Court of Appeals for the Seventh 
+Circuit, in United States v. Tate, No. 95-3054, issued 
+
+
+January 7, 1998. 
+Tate's Proposed Instruction No. 22 
+Tate's Proposed Instruction No. 23 
+
+
+Government Instruction No. 46B 
+
+
+In the 
+Gnited States Court of Appeals 
+For the Seventh Circuit 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682, and 96-3197 
+
+
+UNITED STATES OF AMERICA, 
+Plaintiff-Appellee, 
+
+
+EDDIE RICHARDSON, CARMEN TATE, 
+RODNEY PALMER, NATE HALL, 
+
+STANLEY WESTMORELAND, MARTELL LEE, 
+SEcTRIC CURRY, and LENNEL SMITH, 
+
+
+Defendants-Appellants. 
+
+
+Appeal from the United States Distnct Court 
+No. 94 CR 187—James F. Holderman, Judge. 
+
+
+ARGUED SEPTEMBER 19, 1997—-DECIDED NOVEMBER 14, 1997 
+
+
+Before BAUER, RIPPLE, and EVANS, Circuit Judges. 
+
+
+EVANS, Circuit Judge. It wasn’t Alice’s Restaurant, 
+but starting in 1990, if it was crack you wanted, you 
+could get it at Highway Beef, a stand at the corner of 
+Gladys and Cicero on the west side of Chicago. During 
+the late 1980's, if it was heroin you wanted, you could 
+
+
+_— Exhibit A 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+charming name—the Undertaker Vice Lords. The gang 
+rated around Cicero Avenue, near the point where it 
+
+is bisected by the Eisenhower Expressway. 
+
+west, and on March 
+
+
+2 
+
+
+ing Tate and another person with conspiracy to defraud 
+the United States, in violation of 18 U.S.C. § 371. Ajury 
+ey ~— of defendants 
+
+
+period from August 1995 until August 1996. Sectric 
+and Tate received life im- 
+
+
+The Undertaker Vice Lords were formed in the 1970's 
+by Eddie Richardson. The gang was i in a hier- 
+
+
+Nos. 95-3053, 95-3054 
+, , 96-2551, 96-258 
+96-2591, 96-2644, 96-2682 & 96-3197 , 
+
+
+fourth generation, Mict 
+and « member of the Sith get nd Schanio Chow, 
+guilty and testified for the government arene pled 
+
+
+4 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+estimated that during that time, the Undertakers sold a 
+“frame”—25 packs of 25 bags—every 3 to 4 days, or ap- 
+proximately 25 kilograms of brown heroin. Others selling 
+brown heroin from the Courtway Building included Hall 
+and Westmoreland. Smith also admitted to selling heroin 
+for Richardson and Tate at Cicero and Van Buren and 
+Laramie and Van Buren and, in a tape-recorded conver- 
+sation, he said he worked for Tate and Richardson from 
+1985 to 1988, making about $50,000. 
+
+
+In the fall of 1988 Richardson and the Undertakers 
+began to distribute white heroin from the Courtway 
+Building. Chew initially was the runner, followed by 
+Darryl Joyner, Lee, and Sargent. Lee was arrested in 
+January 1989 carrying $2,700 in cash and a beeper. 
+After the arrest, Sargent assumed Lee’s responsibilities; 
+Richardson provided Sargent with an average of $40,000 
+to $60,000 worth of heroin three times a week. Joseph 
+Westmoreland, who was convicted in a separate trial, es- 
+timated that the conspiracy was collecting about $20,000 
+to $30,000 per day. Based on these statements, the Un- 
+dertakers sold slightly more than 100 kilograms of white 
+heroin between 1988 and 1990. 
+
+
+Others were also involved in the heroin operation. 
+Curry sold heroin while Sargent was the runner; in fact, 
+Sargent considered Curry his best worker. Curry was 
+arrested in August 1989 and, in a tape-recorded conver- 
+sation, told an agent that he made more than $50,000 
+selling diugs for Richardson and Tate. Hall sold heroin 
+from the Courtway Building from May 1988 until De- 
+cember 1988. In a June 1991 conversation with 2 govern- 
+ment agent, Hall confirmed that he was selling heroin 
+for Richardson and that he had been working for Tate 
+and Richardson since 1983. He claims he made approxi- 
+mately $60,000. Lee also was involved in the white 
+heroin trafficking. On October 9, 1990, and November 
+24, 1990, Lee sold an agent 19 $20 bags of white heroin. 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 5 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+In November 1990 the Undertakers branched into the 
+distribution of crack, primarily from the beefstand at the 
+corner of Gladys and Cicero. Cal testified that he and 
+Tate cooked a quarter kilo of cocaine into crack two to 
+three times a week for 10 months. That would mean that 
+during that time, they sold over 25 kilograms of crack. 
+Curry, Hall, Lee, Palmer, Smith, and Westmoreland each 
+participated in the sale of crack at the beefstand. 
+
+
+Richardson and Tate also oversaw the distribution of 
+powder cocaine. In 1988 Chew became a runner for 
+cocaine. In addition, Hall, Curry, and Lee were involved 
+in the cocaine operation. 
+
+The conspiracy was uncovered when, beginning in 
+1988, John Rotunno, an agent with the Bureau of 
+Alcohol, Tobacco & Firearms, began an undercover in- 
+vestigation into an illegal gun trade on the west side. In 
+August 1990 he abandoned that investigation and began 
+looking into narcotics sales and street gangs. Posing as 
+
+
+then cooperated with the government. 
+
+The facts just recited have been, as required, viewed in 
+the light most favorable to the government. The defen- 
+dants don’t agree. First, they say, this was not one big 
+conspiracy with a monopoly on the Cicero Avenue drug 
+trade. To the extent the defendants sold drugs, they 
+claim to have sold them as members of several smaller 
+
+
+smaller conspiracies rather than one large one—is not a 
+
+
+6 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+novel argument in drug cases, and the law is well- 
+established. We will summarize briefly. 
+
+
+A contention that there were several conspiracies, 
+rather than the one charged, amounts to a “challenge to 
+the sufficiency of the evidence supporting the jury's 
+finding that each defendant was a member of the same 
+conspiracy.” United States v. Townsend, 924 F.2d 1385, 
+1389 (7th Cir. 1991). The court considers the evidence in 
+the light most favorable to the government, defers to the 
+credibility findings of the jury, and overturns a verdict 
+only when the record contains no evidence from which 
+the jury could find guilt beyond a reasonable doubt. 
+United States v. Hickok, 77 F.3d 992 (7th Cir.), cert. 
+denied, 116 S. Ct. 1701 (1996). 
+
+A conspiracy is a combination of two or more persons 
+joined to further a common purpose or design. United 
+States v. Shorter, 54 F.3d 1248 (7th Cir.), cert. denied, 
+116 S. Ct. 250 (1995). To establish that an individual 
+was a member of a conspiracy the government must 
+prove that the individual knew of the conspiracy and 
+intended to join and associate himself with its criminal 
+design and purpose. United States v. Auerbach, 913 F.2d 
+407 (7th Cir. 1990). The government need only prove the 
+existence of the conspiracy and a participatory link with 
+each defendant. United States v. Caudill, 915 F.2d 294 
+(7th Cir. 1990). The scope of the conspiracy is deter- 
+
+mined by the scope of the agreement between the de- 
+fendants. The government must show that a defendant 
+joined the agreement, not the group. The defendant need 
+not have known all the other conspirators nor have 
+participated in every aspect of the conspiracy. A key 
+question is whether the defendants had a mutual in- 
+terest in achieving the goal of the conspiracy. 
+
+The question whether there is one conspiracy or sev- 
+eral is a question of fact, which is “something especially 
+
+
+ed el 
+
+
+ithhenheeddden... . 
+
+
+COC ee 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 7 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+within the jury’s realm of expertise,” and for 
+
+the jury “gets first crack” at deciding the Anne United 
+
+— v. Paiz, 905 F.2d 1014, 1019 (7th Cir.), cert. 
+
+nied, 499 U.S. 924 (1990). If the jury is properly 
+
+instructed on the possible existence of multiple conspira- 
+
+ties, the “finding of a single conspiracy must stand un- 
+the evidence taken in the light most favorable to the 
+
+government, would not allow a reasonable jury so to 
+
+pen y—- mye v. ye 851 F.2d 890, 898 (7th Cir. 
+
+’ uoting nited tates v. 7 
+695 (4th Cir. 1986). mig tirimss emai 
+
+
+It is not relevant that the evidence might also be 
+consistent with an alternate theory; say, that there were 
+multiple conspiracies. Even if the evidence could argu- 
+ably omy a8 multiple conspiracies, there is no material 
+variance an indictment charging a single i 
+
+—acy. See Townsend at 1389. - i aa 
+
+Applying these principles to this case, we will briefl 
+mention a few minor points raised by the defendants, 
+which need not detain us long. First is the claim that the 
+government somehow confused membership in the Un- 
+dertakers with an agreement to join the conspiracy. We 
+seree, of course, that the important point is not whether 
+
+defendants were Undertakers, nor whether they sold 
+drugs. That they were Undertakers who sold drugs is 
+virtually conceded. The issue is whether they sold drugs 
+as members of the charged conspiracy. There must be 
+evidence that they did if the convictions are to be sus- 
+tained. We will return in a moment to the question of 
+the sufficiency of the evidence. 
+
+
+8 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+turned its verdict that the eight individuals before us— 
+though not the three it acquitted—were members of one 
+overarching conspiracy. That determination is within the 
+jury's realm of expertise. 
+
+
+Third, the multiple versus single conspiracy issue— 
+which dominates the defendants’ arguments—is pre- 
+mised, in part, on the characterization of the govern- 
+ment’s approach in this case as spinning a huge web and 
+dragging in all sorts of undeserving people. To some 
+degree the argument is one which invokes a sympathetic 
+response. Curry, for instance, was portrayed as a pathet- 
+ic addict, selling to meet his own needs. 
+
+
+But the argument loses some of its zip when we look 
+at what exactly this conspiracy was all about. It was—as 
+the indictment alleges—a conspiracy to sell on the street, 
+user quantities of narcotics. Except for the leaders, Rich- 
+ardson and Tate, it appears that everyone was, in one 
+way or another, simply a street seller or runner. This in- 
+dictment did not attempt to show a far-ranging conspir- 
+acy involving the importers, the couriers who brought 
+the drugs to Chicago, or the sources from whom Richard- 
+son and Tate obtained the drugs. This is a localized, 
+neighborhood operation. What makes it large is the 
+length of time it existed and, partly because of the 
+length of time, the large quantities of drugs distributed. 
+But in some sense, this conspiracy is a smal] part of 
+what might be a much larger conspiracy. 
+
+
+Having made those preliminary remarks, we turn to 
+the issue at hand. Does the evidence support the exis- 
+tence of one conspiracy? What exactly is the defendants’ 
+argument that the evidence is suspect? What was the 
+scope of the agreement? Did the defendants have a 
+mutual interest in achieving a goal? 
+
+
+There seems to be little question that the conspiracy 
+existed from 1984 until 1991 and had three objectives: 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 9 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+monopolizing the sale of heroin; monopolizing the sale of 
+crack in 1990 and 1991; and controlling who sold cocaine 
+in Undertaker territory. Each of the defendants had 
+agreements with other members of the group. They 
+worked together as runners and workers to distribute 
+drugs for Richardson and Tate. They worked specific, 
+established spots where drugs were sold. They received 
+a portion of the proceeds as payment for their efforts. 
+
+
+The defendants contend, however, that the government 
+failed to prove that all drug sales within Undertaker 
+territory were performed on behalf of Richardson or 
+Tate; it failed «o show a monopoly. The defendants point 
+to evidence of drug sales which were unrelated and say 
+that the government attempted to explain these away as 
+instances in which people were granted permission to 
+sell by Richardson. They seem to argue that the exist- 
+ence of other operations within Undertaker territory 
+means that there were multiple conspiracies. 
+
+
+So, what was the evidence the defendants point to to 
+support their claim that there was not one but multiple 
+conspiracies? Chew, the government witness, said on 
+direct examination that the Undertakers controlled the 
+drug trade and had a policy on violations, but on cross- 
+examination he said that although he was fired by 
+Richardson for stealing drug money, he himself was 
+never “violated” and continued his drug activities with 
+Tate until he went to work for himself. When he worked 
+for himself he bought cocaine from anyone he could. 
+Andre Cal, who also testified for the government, said 
+that he became a worker for another unrelated street 
+operation conducted by codefendant Lee. There is an 
+allegation about two competing cocaine operations: one 
+run by Tate whose pony packs had staples through 
+them; and one run by Curtis Kirkland, whose packs were 
+marked with red marks. Cal, like Chew, said he was not 
+punished for stealing money from Richardson. Cal also 
+
+
+10 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+testified that he went into the cocaine business with 
+Anthony Flowers, and later, when Flowers was arrested, 
+Cal became partners with another man named Scott. 
+This drug business was independent of the Undertakers’ 
+operation. Sargent, another conspirator who testified, 
+said that there were several other drug operations in 
+Undertaker territory which were not shut down. But he 
+also said that they were not shut down because they 
+were no competition to Richardson’s operation. 
+
+
+This in brief is the evidence on which the defendants 
+rely to say that the Richardson-Tate conspiracy was not 
+a monopoly and therefore multiple conspiracies existed. 
+But why do the defendants see evidence of other inde- 
+pendent dealings as fatal to the government’s case? 
+
+
+Some of the time, the defendants seem almost to argue 
+that the government is under some obligation to prove a 
+monopoly; if Richardson and Tate did not monopolize the 
+drug trade in Undertaker territory, there was a fatal 
+variance between the government’s theory that they did 
+and the proof at trial which showed some sales which 
+were independent of the conspiracy. We note first that in 
+an ordinary case there is no requirement that a conspir- 
+acy achieve some sort of monopoly in order to exist. A 
+conspiracy can exist side by side with another conspira- 
+cy. One person can be a member of more than one con- 
+spiracy, just as any person can hold down more than one 
+job. United States v. Blanding, 53 F.3d 773 n.2 (7th Cir. 
+1995). It seems clear, however, that disloyalty of this 
+sort to the conspiracy was strongly discouraged in this 
+case. There are many instances of “violations.” They 
+range from beatings with bricks, bottles, and sticks to a 
+beating which resulted in death. But again, evidence 
+that a few people did something in violation of the rules 
+without getting punished could be viewed by the jury as 
+something other than evidence that those persons were 
+not members of this conspiracy or that there were multi- 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 11 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+ple conspiracies. Perhaps those people got away with 
+something. The jury in this case was properly instructed 
+as to the possibility of multiple conspiracies and chose to 
+determine that eight of those indicted were members of 
+the charged conspiracy and that three were not. 
+
+
+Other times what the defendants seem to be saying is 
+that the government proceeded on a theory of monopoly 
+and then changed theories midstream—a claim which is 
+relevant also to the discussion that will follow regarding 
+a request for a bill of particulars. By the time we became 
+acquainted with this case, the government’s theory was 
+that the Richardson-Tate conspiracy controlled the 
+heroin trade in Undertaker territory. The theory also 
+was that the conspiracy controlled the crack trade in 
+1990 and 1991 but that the control of cocaine sales was 
+less complete, and some unconnected sellers were oper- 
+ating either because their sales did not threaten the 
+conspiracy or because Richardson gave them permission 
+to operate. The defendants see this theory as different 
+from the government’s theory at the outset of the case. 
+
+
+We are not so sure. The indictment alleged that “the 
+sale of user quantities of cocaine, cocaine base and 
+heroin in Undertaker Territory was subject to the 
+approval of defendants EDDIE RICHARDSON and 
+CARMEN TATE.” Now the government is saying that 
+there was control of the heroin and crack markets for 
+periods of time, but that cocaine sales were not so tightly 
+controlled in that other cocaine dealers operated either 
+with approval or because they were not large enough to 
+be a threat. Nothing in that theory is materially incon- 
+sistent with the indictment. 
+
+Next, the defendants say that the statement in the 
+government's February 21, 1995, proffer also reveals an 
+inconsistency. The statement says that “(u)nder the rules 
+of the gang, no one could sell heroin in Undertaker 
+
+
+12 
+Nos. 95-3053, 95-3054, 96-2551, 96-2587 
+
+
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+Territory without th 
+- ‘he permission of Ri r 
+- le to find an inconsistency Commenter ie 
+one we have been presented maces aac 
+Pr _ nee ap bores contention, 
+mme Ty was that 
+romper and that therefore anyone L w ky Ha in 
+pth ge ry Aregp three by the government to sp 
+pad Gp ae, piracy, virtually without any other 
+
+
+selli 
+ng drugs within the area established roy = 
+
+
+single, overall conspi 
+Piracy cha : > 
+
+who had no agreement with cane 
+ete for a bill of particn- 
+cond t the government's truc 
+© gang amounted to member- 
+ti arenere, the govern- 
+ion” were merely afterth ion or “no competi- 
+dictment once the trial ee to salvage the in- 
+
+
+Or as Curry . 
+puts it «as 
+theory was that A Proceed” 
+
+
+If 
+PA... ate ene had relied solely on a syllogism— 
+rte ow an Tate had a monopoly on drug sal 
+territory; Guniesdtaiee ee or the 
+sold drugs for Richardson 
+
+
+we believe, is that 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 13 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+and Tate and were members of the conspiracy—and if 
+
+
+except Richardson and Tate—as well as direct evidence 
+
+
+spirators—sufficient to establish his personal involve- 
+ment in the conspiracy. The evidence in this case was 
+clearly sufficient to support the jury’s verdict that a 
+single conspiracy existed and that each convicted dealer 
+was a member of the conspiracy. 
+
+Palmer, Smith, and Curry argue individually that 
+there is insufficient evidence to link them to the conspir- 
+acy. We reject their arguments. Evidence of Palmer's 
+membership includes two sales of crack to Agent 
+Rotunno from the beefstand in November 1990. Plus, 
+Schwede told Rotunno that Palmer was selling crack for 
+the Undertakers and Sargent testified that Palmer sold 
+crack at the beefstand. The beefstand, of course, was an 
+important part of the Richardson operation. 
+
+Evidence of Curry’s membership came from Cal and 
+Sargent, who identified Curry as a seller of white heroin 
+for the Undertakers and as his best worker. Curry was 
+arrested while selling white heroin at Harrison and Kil- 
+patrick, another of the Undertakers’ drug spots. Further- 
+more, Curry told Rotunno that he had made more than 
+
+
+first workers at the beefstand. On January 14, 1991, 
+in a taped conversation in June of that year Curry con- 
+
+
+firmed that he still worked for Richardson and Tate. He 
+bragged—though it appears everyone discounts his 
+
+
+Nos. 95-3053, 95-3054 
+96-2591, 96-2644, 
+
+
+claim—that he showed the Unde 
+from cocaine. 
+
+
+As to Smith, he admi 
+rdson and Tate 
+
+
+» 96-2551, 96-2587, 
+96-2682 & 96-3197 
+
+
+rtakers how to make 
+
+
+tted that he sold drugs for Rich- 
+
+
+years but claims there is no evi- 
+
+
+Curry contends that he 
+
+
+use Judge Holderman fi 
+repeated oral motions during 
+
+
+is entitled to a new trial be- 
+
+
+trial, Curry says, was that 
+er Vice Lords made one a 
+
+
+conspirators. 
+The decision whethe 
+
+
+ee ee 
+
+
+~~ le aes 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 15 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+judge clearly abuses his discretion. A defendant must 
+a actual ontetiine from the denial. United States v. 
+McAnderson, 914 F.2d 934 (7th Cir. 1990). But Curry is 
+
+
+indictment Curry was notified of the permission theory. 
+it said that the sale of user quantities of cocaine, cocaine 
+
+
+same principle. Judge Holderman, on this point, did not 
+
+Richardson and Tate each argue that they should have 
+been granted separate trials. Their basic contention is 
+that prejudicial testimony was elicited during the cross- 
+
+
+16 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+ited testimony that they were subjected to “violations” 
+ordered by Tate and testimony that a drug seller died of 
+a beating. Tate contends that even the government ob- 
+jected to the latter testimony as being prejudicial. 
+
+There is a preference in the federal system for joint 
+trials of defendants who are indicted together. Neverthe- 
+less, Rule 14 of the Federal Rules of Criminal Procedure 
+allows for an order of severance or other relief which 
+justice may require if a defendant is prejudiced by a 
+joi with others. In Zafiro v. United States, 506 U.S. 
+534 (1993), the Court concluded that mutually antagonis- 
+tic defenses are not prejudicial per se. In fact, the Court 
+concluded that a judge should grant a severance only if 
+there is a “serious risk that a joint trial would compro- 
+mise a specific trial right of one of the defendants, or 
+prevent the jury from making a reliable judgment about 
+guilt or innocence.” At 539. Even if there is a risk of 
+prejudice, a judge must determine whether it is the type 
+of prejudice that can be cured with limiting instructions 
+to the jury. The decision whether to grant a severance is 
+left to the sound discretion of the trial judge. Jd. 
+
+In this case, the judge declined to order a severance 
+but instructed the jury that it was to give separate con- 
+sideration to each defendant; that each defendant was 
+entitled to have his case decided on the evidence against 
+him. We, of course, presume that a jury follows the in- 
+structions as given. United States v. Crockett, 979 F.2d 
+1204 (7th Cir.), cert. denied, 507 U.S. 998. (1992). Fur- 
+thermore, blame-shifting does not prevent a jury from 
+making a reliable judgment regarding a defendant. 
+United States v. Ramirez, 45 F.3d 1096 (7th Cir. 1995). 
+
+
+complains, would be admissible in separate trials. 
+As the Court said in Zafiro: 
+
+
+anew (oe oe @ ere = 
+
+
+———-—- 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 17 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+[A] fair trial does not include the right to exclude 
+ro heer fremnhimetbpene berg ly = tar tee paren 
+mally would not be entitled to exclude the testimony 
+of a former codefendant if the district court did sever 
+their trials, and we see no reason why relevant and 
+competent testimony would be prejudicial merely be- 
+cause the witness is also a codefendant. 
+At 540. It was not an i 
+= a ahuse of Giswetion to deny the 
+The defendants also challenge a number of evidenti 
+rulings. These rulings are reviewed for an abuse of di 
+oy ss nited States v. Prevatte, 16 F.3d 767 (7th Cir. 
+ge nited States v. Buchbinder, 796 F.2d 910 (7th 
+ir. 1986); United States v. Johnson, 28 F.3d 1487 (8th 
+Cir.), cert. denied, 513 U.S. 1098 (1994): United States v. 
+
+
+Davis, 772 F.2d 1339 (7th Ci 
+rey hid ir.), cert. denied, 474 US. 
+
+
+aot eesense did not provide timely notice of its intent to 
+hh fact, the government received her report over 
+5 weeks into the trial. Also, other evidence—of which 
+
+
+familiarity with the Undertaker Vice Lords or its mem 
+bers. We see no abuse of discretion on this point 
+
+
+Hall also claims that the government should 
+
+not ha 
+been allowed to use his proffer in its rebuttal case. A 
+proffer, of course, is a defendant's (or someone who is 
+
+
+Nos. 95-3053, 35-3054 
+
+
+96-2591, 96.2644, 96 seep 
+
+
+96-2682 & 96-3197 
+
+
+to the jury. See 
+
+
+Dortch, 5 F-. th Cir.), cert. den 
+
+
+77 (1993). 
+
+
+3d 1056 (7 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 19 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+Finally, Carmen Tate argues that the district court im- 
+properly admitted evidence of a heroin seizure from him 
+and others in June 1985. Tate claims this was evidence 
+of a prior bad act, requiring analysis under Rule 404(b) 
+of the Federal Rules of Evidence. But the seizure oc- 
+curred during the existence of the conspiracy and the 
+evidence was admitted pursuant to Rules 401 and 403. 
+We see no abuse of discretion in this ruling. 
+
+Curry contends that, given his culpability and the 
+severity of the sentence he was facing, he should have 
+been allowed to tell the jury of his possible punishment 
+during closing argument. Unfortunately for him, arguing 
+punishment to a jury is taboo, as we again recently 
+noted in United States v. Lewis, 110 F.3d 417 (7th Cir. 
+1997), cert. denied, 66 U.S.L.W. 3258 (U.S. Oct. 7, 1997) 
+(No. 96-9532). Furthermore, there is a difference of opin- 
+ion regarding Curry’s role in this offense. He claims he 
+was a rather pathetic junkie who dealt some drugs to 
+
+support his habit. Not everyone saw it that way. In his 
+
+sentencing memorandum Judge Holderman, who saw the 
+evidence firsthand, said Curry was not a minor partici- 
+pant in the conspiracy, but rather that he distributed 
+and foresaw distribution of at least 30 kilograms of 
+heroin and at least 7.5 kilograms of cocaine base. 
+
+All of the defendants contend that the prosecutor im- 
+properly vouched for witnesses during her rebuttal argu- 
+ment. The government virtually concedes that the prose- 
+cutor’s statement was improper but contends that the 
+response was invited by the argument of Curry’s defense 
+counsel. The relevant portions of the record are as fol- 
+lows: first, counsel for Curry: 
+
+And I want to talk about one other thing Mr. Krule- 
+witch [AUSA] mentioned. He said to you he repre- 
+sents the people of the United States. I think that 
+was an attempt to somehow bring this home to you. 
+
+
+20 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+I think it was an attempt to get some sympathy from 
+Mr. Krulewitch doesn’t represent the interest of the 
+
+
+people of the United States. The people are left to 
+the states.... 
+
+
+These people represent the interest of the federal 
+government from Washington. They represent the 
+interests of the federal agencies, like the Internal 
+Revenue Service, like the U.S. Drug Enforcement 
+Administration, like the Alcohol, Tobacco & Fire- 
+arms... . But I do begrudge them trying to turn the 
+war on drugs onto the victims of the war on drugs. 
+
+
+This, the government says, invited its response, given by 
+another AUSA, Zaldwaynaka Scott: 
+You heard about the government's witnesses. You 
+heard them called all kinds of things, despicable, 
+ridiculous, and some of the words Mr. Halprin used, 
+I won't even repeat. 
+
+
+And you heard about Agent Rotunno, you heard 
+about the police officers that were called as wit- 
+nesses in this case. You heard everybody called a 
+liar. And you heard about what happened from the 
+government’s table in this case. The government put 
+these witnesses on. The government called these 
+liars. It’s the government's fault. 
+
+
+Well, ladies and gentlemen, if you think that Krule- 
+witch, myself, Agent Hlista, and Agent Zopp went 
+out there, called these people into this courtroom and 
+put on perjured testimony, then you should acquit 
+these men. You should send them home, because we 
+had nothing else better to do with our careers and 
+our lives but put on false testimony|.) 
+
+
+There were objections to these statements, and Judge 
+Holderman gave an instruction to the effect that the 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 21 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+opinions of counsel are not evidence. The jury was told 
+to disregard the statement. In his instructions to the 
+jury the judge also stated that it is improper for a lawyer 
+to offer his personal opinions on the credibility of wit- 
+nesses during an argument to the jury. 
+
+We use a two-part analysis in assessing allegations of 
+prosecutorial misconduct in closing argument. First we 
+consider the prosecutor’s remarks in isolation to see 
+whether they are improper. We will waste no time on 
+this step; impropriety is virtually conceded. The second 
+step is to consider the remarks in context to see whether 
+they had the effect of denying the defendants a fair trial. 
+We look to the nature and seriousness of the statement: 
+whether it was invited by the conduct of defense counsel; 
+whether the jury was properly instructed to disregard 
+the statement; whether the defense had an opportunity 
+to counter the statement; and finally we look to the 
+weight of the evidence against the defendants. United 
+States v. Johnson-Dix, 54 F.3d 1295 (7th Cir. 1995); 
+United States v. Severson, 3 F.3d 1005 (7th Cir. 1993). 
+
+
+The defendants had no opportunity to counter the 
+prosecutor's statement, and the statement is one of 
+which we disapprove. However, in every other regard, 
+the factors lean against finding that the defendants were 
+deprived of a fair trial. It is at least arguable that it was 
+an invited response in the heat of battle, after several 
+arguments attacking the government case. And also, 
+importantly, the evidence in this case was such that this 
+statement was not needed to put the government over 
+the top. The weight of the evidence is clearly against the 
+defendants. It defies credibility to think that one isolated 
+statement coming at the close of a lengthy tria! would 
+sway the jury to cast aside doubts about the veracity of 
+
+government witnesses. Finally, the jury was in- 
+structed that the remark was improper, and we assume 
+the jury follows instructions given by a judge. It was, to 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 23 
+
+
+Nos. 95-3053, 95 
+’ -3 
+054, 96-2551, 96-2587, 96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+96-2591, 96-2644 96- 
+, » 96-2682 & 96-3197 
+sitting in on the whole trial, going to get a chance to 
+
+
+deliberate. 
+
+All of which brings us to sentencing issues. The defen- 
+dants join in an argument that they should be sentenced 
+under the guidelines for amounts of drugs reasonably 
+foreseeable to them, rather than under the enhanced 
+penalties in 21 U.S.C. § 841(b) for distributing in excess 
+of one kilogram of heroin. The argument is based on the 
+fact that the quantities of drugs distributed were not al- 
+leged in the indictment. 
+
+We have previously explained why we do not require 
+that the quantities be alleged in the indictment in order 
+for the enhanced penalty provisions to apply. See United 
+States v. Levy, 955 F.2d 1098 (7th Cir.), cert. denied, 506 
+U.S. 833 (1992). We pointed out that while defendants 
+are entitled to receive notice of the possibility of an 
+enhanced sentence (and deferdants here received notice 
+through a separate notice to them or through pretrial 
+discovery), the notice need not be included in the indict- 
+ment. The quantity of drugs is a sentencing factor, not 
+an element of the offense. See United States v. Edwards, 
+36 F.3d 639 (7th Cir. 1994). At the sentencing hearing, 
+of course, the defendants must be allowed to contest the 
+
+quantities of drugs attributed to them. There is no claim 
+
+here that the sentencing proceedings did not provide 
+them with that opportunity. 
+
+Curry’s individual challenge to his § 841(b) enhance- 
+ment is related to his eight prior state court felony con- 
+
+
+al 
+
+
+less about the case 
+
+ne than al 
+ones deciding it. Plus, she e€ alternates would be the 
+of the people say much y te the ony eard some 
+
+
+Spent together; she wonde the jurors had 
+tos nigh pe lered how the 
+yous up in deliberations. The dchndnate one victions for narcotics violations. Prior to trial, the gov- 
+ernment notified Curry of its intention to seek enhanced 
+
+
+le ink that w , penalties pursuant to § 841(bX1XA), which provides for 
+peed vec not allege any outside cuntees re The : i a mandatory term of life imprisonment where the de- 
+
+j Fy fendant has two or more convictions for a felony drug 
+
+; offense at the time he cr*smitted the offense for which 
+; he is being sentenced. Curry points out, however, that 
+
+
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 25 
+96-2591, 96-2644, 96-2682 & 96-3197 
+96-2591, 96-2 
+$44, 96-2682 & 96-3197 involved weighed .15 grams on the average. The judge's 
+estimate—and he is allowed to estimate as we said in 
+United States v. Acosta, 85 F.3d 275 (7th Cir. 1996)—is 
+based on all but one of the seizures of heroin made dur- 
+ing the course of the conspiracy. The one exception was 
+a seizure on December 12, 1990, from William Johnson; 
+those packets weighed substantially less than the others. 
+Johnson’s heroin was not included in the calculations 
+and Judge Holderman did not rely on the weight of these 
+bags, a determination which cannot be said to be errone- 
+ous. Johnson, in a recorded conversation with the agent 
+who bought the heroin, said that his heroin was different 
+from Richardson's. The jury apparently believed him and 
+acquitted him of the conspiracy charges in this case. It 
+was not error to refuse to calculate quantities based on 
+Johnson’s bags, which were not typical of those sold by 
+the conspiracy. 
+
+Lee also contends that Judge Holderman improperly 
+estimated the time during which he was a member of the 
+conspiracy. He argues that he should not be held ac- 
+countable for any heroin after he ceased being a runner. 
+However, he continued to deal with and sell heroin for 
+the conspiracy. Changing jobs does not remove one from 
+a conspiracy. Further, he contends that it was error to 
+find that 2 months worth of crack sales were reasonably 
+foreseeable to him. We disagree. The record shows that 
+Lee sold crack at the beefstand. He was identified by Cal 
+in a videotape of sales from that location, where large 
+numbers of sales took place in a rather open fashion. It 
+is not error to find that Lee could foresee 5 kilograms of 
+
+
+as the conspiracy in this case. He argues 
+they should not be relevant under § B4i(b). We pes 
+oon tae _— 7 ae States v. Garcia 32 F.3d 
+r ; j 
+ Vurry attempts to distinguis 
+Garcia because Garcia continued i tntetiionnae in we 
+
+
+ud 
+é 
+24 Nos. 95-3053, 95-3054, 96-2551, 96-2587 | 
+
+
+fee mes ® 
+
+
+z 
+5 
+a 
+: 
+7) 
+; 
+5 
+g 
+| 
+& 
+: 
+
+
+required. 
+(7th Cir. 1993), 
+
+
+Lee was found a 
+henineebarin: py for 30 kilograms of white 
+
+
+Judge would have had 
+for the offense level fy wy ete pm the ratncpat red | | re 
+meen base would have to be significant. Aap gerard : Likewise, Smith contends that the amounts attributed 
+or level 38 for distributing either 30 kilograms of vse : to him were not reesonably foreseeable. Judge Holder- 
+or 1.5 kilograms of cocaine base. i man calculated Smith’s offense level based on 30 kilo- 
+Specifically, Lee ‘ | grams of brown heroin. The calculation is not clearly 
+y contends that the judge’s calculations | erroneous. In addition, however, because Smith had two 
+
+
+assume that the heroin packets with which Lee was 
+
+
+26 Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+felony drug convictions that enhance his sentence under 
+§ 841(aX1), he would be eligible for a life sentence if at 
+least 1 kilogram of heroin or 50 grams of cocaine base 
+were found to be foreseeable to him. Smith said in a 
+tape-recorded conversation with Agent Rotunno that he 
+worked for Tate and Richardson for about 3 years selling 
+heroin and that he made about $50,000. That would 
+mean that Smith personally sold 3.5 kilograms of brown 
+heroin, clearly sufficient to support a life sentence. As it 
+turned out, the government moved for a downward de- 
+parture, giving the court discretion to impose the sen- 
+tence of 194 months, which Smith ultimately received. 
+
+
+Palmer raises a different sentencing issue. The court 
+found that he could reasonably foresee 2 months worth 
+of crack distribution from the beefstand, where he 
+personally was selling crack for a %-month period. 
+Palmer contends that he should receive a reduction of 
+his sentence because he was a minor participant, under 
+§3B1.2(b) of the guidelines. However, finding that 
+Palmer was responsible for 2 months of sales of one of 
+the drugs the conspiracy sold from one of the several 
+locations it used is clearly not holding Palmer responsi- 
+ble for the sales of the broader operation. If the court 
+had held Palmer responsible for all the drugs sold at this 
+spot, his argument would be more persuasive. As it is, 
+the finding already inherently acknowledges Palmer's 
+limited responsibility. It was not error to decline to apply 
+the 2-point reduction he seeks. 
+
+
+(7th Cir. 1991); United States v. Booker, 73 F.3d 706 (7th 
+Cir. 1996). 
+
+
+; 
+a 
+7 
+2 
+I A ame aie mee 
+
+
+wwe 
+
+
+mene 
+
+
+oarere te 
+
+
+27 
+Nos. 95-3053, 95-3054, 96-2551, 96-2587, 
+
+
+96-2591, 96-2644, 96-2682 & 96-3197 
+
+
+i defendants are 
+The convictions and sentences of the | 
+
+
+A true Copy: 
+Teste: 
+
+
+he United States Court of 
+——. for the Seventh Circuit 
+
+
+i 1-14-97 
+USCA-97-C-006—Midwest Law Printing Co., Inc., Chicago—1 
+
+
+ws Oe we’ wn ee tn en. \ws / Jee EOD ’.0] 
+
+
+Title 21 U.S.C. §848 
+
+
+TATE'S PROPOSED INSTRUCTION NO. 22 
+
+
+Hnited States Court of Appeals 
+
+
+For the Seventh Circuit 
+Chicago, Illinois 60604 
+
+
+To sustain the charge of engaging in a continuing 
+criminal enterprise against Eddie Richardson and Carmen 
+
+
+Tate, the government must prove the following propositions 
+
+
+with respect to the defendant you are considering: 
+
+
+First, that the defendant you are considering 
+
+
+Before 
+f committed at least three violations of the federal 
+
+
+narcotics offenses alleged in Count Two of the indictment. 
+
+
+Hon. William J. Bauer, Circuit Judge 
+Hon. Kenneth F. Ripple, Circuit Judge 
+
+
+You must unanimously agree on which three acts constituted 
+
+
+Hon. Terence T. Evans, Circuit Judge series of violations; 
+
+
+Second, that the defendant committed the offenses 
+
+
+Third, that the defendant acted as an organizer, 
+James F. Holderman, 
+
+
+CARMEN TATE, Judge 
+
+
+UNITED STATES OF AMERICA, ) Appeal from the United States acting in concert with five or more other persons. You 
+District Court for the | 
+Plaimiff-Appellee, ‘ Northern District of Llinois, | must unanimously agree on the five persons with whom the 
+Eastern Division. | defendant committed the violations; 
+No 94 CR 187 
+No. 95-3054 _ 
+) 
+) 
+
+
+supervisor or manager of five or more persons; and 
+Defendant-Appellant 
+
+
+Fourth, the defendant obtained substantial income 
+
+
+ORDER Or resources from the offenses. 
+
+
+On November 24, 1997, Carmen Tate filed a petition for rehearing with ny arent 
+rehearing en banc. Aj! the judges on the original panel have voted to deny ap mage “ a 
+the active judges have requested a vote on the suggestion for rehearing en banc pet 
+
+
+therefore DENIED 
+
+
+If you find from your consideration of all the 
+evidence that each of these propositions has been proved 
+beyond a reasonable doubt with respect to the defendant 
+you are considering, then you should find him guilty of 
+Count Two. 
+
+If, on the other hand, you find from your consideration 
+
+
+of all the evidence that any one of these propositions 
+
+
+Exhibit Cc 
+“— Exhibit B —_ 
+
+
+(x 
+
+
+, 
+
+- * .¢ ~~ + 
+i? 
+~ > 
+
+_— 
+
+x VOL ie 
+nr 4 +S 
+wii sd 
+
+= - ome 4 
+
+ee. 2 — + 
+
+
+- 
+oan 
+. 
+aii 
+ala aes 
+‘ ~\ Wwe 
+— 
+s *% s 
+“oF - 
+Vv 
+»* 4 
+. — “hoe 
+Ld ~4i€ 
+
+
+@ 
+
+
+4 
+cti 
+pe 
+
+. 
+
+. 
+we & 
+ere 
+
+
++ 
+
+
+—_ 
+
+
+tes 
+
+
+e* 
+
+
+tes 
+
+
+eee 
+
+
+OD re 
+
+
+x 
+
+
+Vw 
+
+
+You m ananimously agree that ti defendant committed at 
+
+
+least three federal narcotics offenses. You do not, however, have 
+
+
+to agree as to the particular three or more federa> 
+
+
+offenses committed by the defendant. 
+
+
+narcotics 
+
+
+GOVERNMENT INSTRUCTION NO. 46B 
+
+
+taived States v. Herrera-Rivera, 25 F.3d 491, 498-99 (7th cir. 
+United States v. Bafia, 949 F.24 1465, 1470-71 (7th Cir. 1991) 
+
+
+er" Exhibit E 
+
+
+a. ° 
+
+
+No. 
+
+
+IN THE SUPREME COURT OF THE UNITED STATES 
+
+
+October Term, 1997 
+
+
+EDDIE RICHARDSON, Petitioner, 
+vs. 
+
+
+UNITED STATES, Respondent 
+
+
+CERTIFICATE OF SERVICE 
+
+
+I, William A. Barnett, Jr., an attorney appointed to 
+represent Eddie Richardson under 18 U.S.C. § 3006A, hereby 
+certify that on this 7th day of April, 1998, I caused a copy of 
+the Petition for Writ of Certiorari in the above-entitled case to 
+
+
+be sent by United States mail, first class postage prepaid, to: 
+
+
+Solicitor General of the United States 
+Department of Justice 
+
+950 Pennsylvania Avenue, N.W. 
+
+Washington, D.C. 20530-0001 - 
+
+
+counsel for respondent. 
+
+
+I further certify that all parties required to be served have 
+thus been served. 
+
+
+“William A. Barnett, 
+
+
+135 S. LaSalle St. 
+Suite 3600 
+
+Chicago, Illinois 60603 
+(312) 726-4480 
+
+
+YJ bour fh EN 
+
+
+Opposition Brief unavailable for filming at this time 
+
+

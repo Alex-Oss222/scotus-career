@@ -1,0 +1,88 @@
+SOURCE: https://www.law.cornell.edu/supct/html/97-1985.ZS.html
+
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+NEDER V. UNITED STATES
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+NEDER V. UNITED STATES (97-1985) 
+136 F.3d 1459, affirmed in part, reversed in part, and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Opinion of Stevens ]Other
+ [ Opinion of Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+NEDER v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+ 
+No. 97—1985.  Argued February 23, 1999–Decided June 10, 1999 
+
+
+
+
+Petitioner Neder was convicted of filing false federal income tax returns and of federal mail fraud, wire fraud, and bank fraud.  At trial, the District Court determined that materiality with regard to the tax and bank fraud charges was not a question for the jury and found that the evidence established that element.  The court did not include materiality as an element of either the mail fraud or wire fraud charges.  The Eleventh Circuit affirmed.  It held that the District Court’s failure to submit the materiality element of the tax offense to the jury was error under United States v. Gaudin, 515 U.S. 506, but that the error was subject to harmless-error analysis and was harmless because materiality was not in dispute and thus the error did not contribute to the verdict.  The court also held that materiality is not an element of a “scheme or artifice to defraud” under the mail fraud, wire fraud, and bank fraud statutes, 18 U.S.C. § 1341 1342, 1344, and thus the District Court did not err in failing to submit materiality to the jury.
+
+Held:
+
+    1.  The harmless-error rule of Chapman v. California, 386 U.S. 18, applies to a jury instruction that omits an element of an offense.  Pp. 4—17.
+
+          (a)  A limited class of fundamental constitutional errors is so intrinsically harmful as to require automatic reversal without regard to their effect on a trial’s outcome.  Such errors infect the entire trial process and necessarily render a trial fundamentally unfair.  For all other constitutional errors, reviewing courts must apply harmless-error analysis.  An instruction that omits an element of the offense differs markedly from the constitutional violations this Court has found to defy harmless-error review, for it does not necessarily render a trial fundamentally unfair or an unreliable vehicle for determining guilt or innocence.  Omitting an element can easily be analogized to improperly instructing the jury on the element, an error that is subject to harmless-error analysis, Johnson v. United States, 520 U.S. 461, 469.  The conclusion reached here is consistent with Sullivan v. Louisiana, 508 U.S. 275, on which Neder principally relies.  The strand of Sullivan’s reasoning that supports his position that harmless-error review is precluded where a constitutional error prevents a jury from rendering a “complete verdict” on every element of an offense cannot be squared with the cases in which this Court has applied harmless-error analysis to instructional errors, see, e.g., Pope v. Illinois, 481 U.S. 497.  The restrictive approach that Neder gleaned from Connecticut v. Johnson, 460 U.S. 73, a concurring opinion in Carella v. California, 491 U.S. 263, and language in Sullivan–under which an instructional omission, misdescription, or conclusive presumption can be subject to harmless-error analysis only in three rare situations–is also mistaken.  Neder underreported $5 million on his tax returns, failed to contest materiality at trial, and does not suggest that he would introduce any evidence bearing upon that issue if so allowed.  Reversal without consideration of the error’s effect upon the verdict would send the case back for retrial focused not on materiality but on contested issues on which the jury was properly charged.  The Sixth Amendment does not require the Court to veer away from settled precedent to reach such a result.  Pp.  4—12.
+
+          (b)  The District Court’s failure to submit the tax offense’s materiality element to the jury was harmless error.  A constitutional error is harmless when it appears “beyond a reasonable doubt that the error … did not contribute to the verdict obtained.”  Chapman v. California, supra, at 24.  No jury could find that Neder’s failure to report substantial income on his tax returns was not material.  The evidence was so overwhelming that he did not even contest that issue.  Where, as here, a reviewing court concludes beyond a reasonable doubt that the omitted element was uncontested and supported by overwhelming evidence, such that the jury verdict would have been the same absent the error, the erroneous instruction is properly found to be harmless.  Neder’s dispute of this conclusion is simply another form of the argument that the failure to instruct on any element of the crime is not subject to harmless-error analysis.  The harmless-error inquiry in this case must be essentially the same as the analysis used in other cases that deal with errors infringing upon the jury’s factfinding role and affecting its deliberative process in ways that are not readily calculable: Is it clear beyond a reasonable doubt that a rational jury would have found the defendant guilty absent the error?  See, e.g., Arizona v. Fulminante, 499 U.S. 279.  Where an omitted element is supported by uncontroverted evidence, this approach appropriately balances “society’s interest in punishing the guilty … and the method by which decisions of guilt are made.”  Connecticut v. Johnson, supra, at 86.  Pp. 12—17.
+
+      2.  Materiality is an element of a “scheme or artifice to defraud” under the federal mail fraud, wire fraud, and bank fraud statutes.  Pp. 17—23.
+
+          (a)  Under the framework set forth in United States v. Wells, 519 U.S. 482, the first step is to examine the statutes’ text.  The statutes neither define “scheme or artifice to defraud” nor even mention materiality.  Thus, based solely on a reading of the text, materiality would not be an element of these statutes.  However, a necessary second step in interpreting statutory language provides that “ ‘[w]here Congress uses terms that have accumulated settled meaning under . . . the common law, a court must infer, unless the statute otherwise dictates, that Congress means to incorporate the established meaning of these terms.’ ”  Nationwide Mut. Ins. Co. v. Darden, 503 U.S. 318, 322.  At the time of both the mail fraud statute’s enactment in 1872 and the later enactment of the wire fraud and bank fraud statutes, the well-settled, common-law meaning of “fraud” required a misrepresentation or concealment of material fact.  Thus, this Court cannot infer from the absence of a specific reference to materiality that Congress intended to drop that element from the fraud statutes and must presume that Congress intended to incorporate materiality unless the statutes otherwise dictate.  Contrary to the Government’s position, the fact that the fraud statutes sweep more broadly than the common-law crime “false pretenses” does not rebut the presumption that Congress intended to limit criminal liability to conduct that would constitute common-law fraud.  Durland v. United States, 161 U.S. 306, distinguished.  Nor has the Government shown that the language of the fraud statutes is inconsistent with a materiality requirement.  Pp. 17—22.
+
+          (b)  The Court of Appeals is to determine in the first instance whether the jury-instruction error was, in fact, harmless.  Carella v. California, supra, at 266—267.  Pp. 22—23.
+
+136 F.3d 1459, affirmed in part, reversed in part, and remanded.
+
+    Rehnquist, C. J., delivered the opinion for a unanimous Court with respect to Parts I and III, and the opinion of the Court with respect to Parts II and IV, in which O’Connor, Kennedy, Thomas, and Breyer, JJ., joined.  Stevens, J., filed an opinion concurring in part and concurring in the judgment.  Scalia, J., filed an opinion concurring in part and dissenting in part, in which Souter and Ginsburg, JJ., joined.
+ 
+
+
+
+

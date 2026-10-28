@@ -1,0 +1,737 @@
+{
+  "scope": "Actual currently written Records, opinion tables and explicit form classifications only; no earlier count totals adopted",
+  "assignment_cutoff": {
+    "date": "1999-06-07",
+    "case": "O'Sullivan v. Boerckel; No. 97-2048; Seventh Circuit judgment, 135 F.3d 1194.",
+    "rule": "Effective date, then case caption alphabetically; current and later events excluded"
+  },
+  "git": "DEFERRED by user instruction; no commands or hash verification",
+  "counts": {
+    "Stone-Zsela": 9,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 10,
+    "Breyer": 10
+  },
+  "counted_total": 91,
+  "events": [
+    {
+      "record": "united_states_v_wright_merits_1998-10-05.md",
+      "date": "1998-10-05",
+      "case": "United States v. Wright; Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+      "date": "1998-10-07",
+      "case": "Fraternal Order of Police v. United States; D.C. Circuit No. 97-5304; judgment below, 152 F.3d 998.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "hiley_v_barrett_merits_1998-10-09.md",
+      "date": "1998-10-09",
+      "case": "Hiley v. Barrett; Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "date": "1998-10-13",
+      "case": "United States v. Louisiana (Texas Boundary Case); No. 9, Original.",
+      "counted": false,
+      "reason": "Unsigned supplemental decree"
+    },
+    {
+      "record": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+      "date": "1998-10-15",
+      "case": "Peoples Rights Organization, Inc. v. City of Columbus; Sixth Circuit Nos. 96-3468 and 96-3495; 152 F.3d 522. No separately established Supreme Court docket.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+      "date": "1998-10-22",
+      "case": "United States v. Franklyn / United States v. Gonzalez; Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+      "date": "1998-10-29",
+      "case": "United States v. Griffin / United States v. Langley; Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+      "date": "1998-11-03",
+      "case": "Marquez v. Screen Actors Guild, Inc., No. 97-1056.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+      "date": "1998-11-05",
+      "case": "NAACP, Los Angeles Branch v. Jones, No. 97-1840; Ninth Circuit No. 96-56455; judgment below, 131 F.3d 1317.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+      "date": "1998-11-10",
+      "case": "Coalition for Economic Equity v. Wilson; Ninth Circuit Nos. 97-15030 and 97-15031; 122 F.3d 692. No separately established Supreme Court docket.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+      "date": "1998-11-10",
+      "case": "Pfaff v. Wells Electronics, Inc., No. 97-1130.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+      "date": "1998-11-12",
+      "case": "Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, No. 97-1768.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "wright_v_universal_maritime_service_corp_merits_1998-11-16.md",
+      "date": "1998-11-16",
+      "case": "Wright v. Universal Maritime Service Corp., No. 97-889; Fourth Circuit No. 96-2850; reported at 525 U.S. 70.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "dodd_v_hood_river_county_merits_1998-11-19.md",
+      "date": "1998-11-19",
+      "case": "Dodd v. Hood River County, No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
+      "date": "1998-11-24",
+      "case": "Wisconsin Right to Life, Inc. v. Paradise, No. 98-118; Seventh Circuit No. 97-3668.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "att_universal_card_services_v_rembert_merits_1998-12-01.md",
+      "date": "1998-12-01",
+      "case": "AT&T Universal Card Services v. Rembert, No. 98-352.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "minnesota_v_carter_and_johns_merits_1998-12-01.md",
+      "date": "1998-12-01",
+      "case": "Minnesota v. Carter and Minnesota v. Johns, No. 97-1147.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "equality_foundation_v_cincinnati_merits_1998-12-03.md",
+      "date": "1998-12-03",
+      "case": "Equality Foundation of Greater Cincinnati, Inc. v. City of Cincinnati; Sixth Circuit Nos. 94-3855 and 94-3973 (merits), No. 94-4280 (fees); 128 F.3d 289.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "knowles_v_iowa_merits_1998-12-08.md",
+      "date": "1998-12-08",
+      "case": "Knowles v. Iowa, No. 97-7597; 569 N.W.2d 601 (Iowa 1997); reported at 525 U.S. 113.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "date": "1998-12-08",
+      "case": "Mosley v. United States, No. 97-7213.",
+      "counted": false,
+      "reason": "Per curiam procedural disposition following death"
+    },
+    {
+      "record": "mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md",
+      "date": "1998-12-09",
+      "case": "McClellan Federal Credit Union v. Parker, No. 98-618.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "date": "1998-12-14",
+      "case": "Calderon v. Coleman, No. 98-437; Ninth Circuit Nos. 97-99013 and 97-99014; District Court No. C89-1906 RMW.",
+      "counted": false,
+      "reason": "Per curiam summary merits opinion"
+    },
+    {
+      "record": "haddle_v_garrison_merits_1998-12-14.md",
+      "date": "1998-12-14",
+      "case": "Haddle v. Garrison, No. 97-1472; reported at 525 U.S. 121.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "nynex_corp_v_discon_merits_1998-12-14.md",
+      "date": "1998-12-14",
+      "case": "NYNEX Corp. v. Discon, Inc., No. 96-1570; reported at 525 U.S. 128.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "city_of_cincinnati_v_kruse_merits_1998-12-16.md",
+      "date": "1998-12-16",
+      "case": "City of Cincinnati v. Kruse, No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "date": "1998-12-23",
+      "case": "Maine Secretary of State determination concerning the initiative at issue in Hart v. Gwadosky, No. 98-676.",
+      "counted": false,
+      "reason": "Admitted administrative source, no judicial opinion"
+    },
+    {
+      "record": "mcclellan_v_cablevision_merits_1999-01-07.md",
+      "date": "1999-01-07",
+      "case": "McClellan v. Cablevision of Connecticut, Inc.; Second Circuit No. 97-7156; 149 F.3d 161; no separate Supreme Court docket supplied.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "buckley_v_american_constitutional_law_foundation_merits_1999-01-12.md",
+      "date": "1999-01-12",
+      "case": "Buckley v. American Constitutional Law Foundation, Inc.; No. 97-930; 120 F.3d 1092.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "el_al_israel_airlines_v_tseng_merits_1999-01-12.md",
+      "date": "1999-01-12",
+      "case": "El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng; No. 97-475; OT1998.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "city_of_west_covina_v_perkins_merits_1999-01-13.md",
+      "date": "1999-01-13",
+      "case": "City of West Covina v. Perkins, No. 97-1230.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "marcus_v_iowa_public_television_merits_1999-01-13.md",
+      "date": "1999-01-13",
+      "case": "Marcus v. Iowa Public Television, No. 98-710.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "date": "1999-01-13",
+      "case": "Roberts v. Galen of Virginia, Inc., No. 97-53.",
+      "counted": false,
+      "reason": "Per curiam summary merits opinion"
+    },
+    {
+      "record": "state_street_bank_v_signature_financial_group_merits_1999-01-14.md",
+      "date": "1999-01-14",
+      "case": "State Street Bank & Trust Co. v. Signature Financial Group, Inc.; Federal Circuit No. 96-1327; no separate Supreme Court docket supplied; OT1998.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "california_public_employees_retirement_system_v_felzen_merits_1999-01-20.md",
+      "date": "1999-01-20",
+      "case": "California Public Employees' Retirement System and Florida State Board of Administration v. Paul Felzen et al., No. 97-1732.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "department_of_the_army_v_blue_fox_merits_1999-01-20.md",
+      "date": "1999-01-20",
+      "case": "Department of the Army v. Blue Fox, Inc.; No. 97-1642; OT1998.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "humana_inc_v_forsyth_merits_1999-01-20.md",
+      "date": "1999-01-20",
+      "case": "Humana Inc. v. Forsyth; No. 97-303; OT1998.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "lopez_v_monterey_county_merits_1999-01-20.md",
+      "date": "1999-01-20",
+      "case": "Lopez v. Monterey County; No. 97-1396; Northern District of California No. C-91-20559-RMW.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "citizens_for_a_constitutional_convention_v_yoshina_merits_1999-01-21.md",
+      "date": "1999-01-21",
+      "case": "Citizens for a Constitutional Convention v. Yoshina; No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "att_corp_v_iowa_utilities_board_merits_1999-01-25.md",
+      "date": "1999-01-25",
+      "case": "AT&T Corp. v. Iowa Utilities Board; Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "department_of_commerce_v_house_and_clinton_v_glavin_merits_1999-01-25.md",
+      "date": "1999-01-25",
+      "case": "Department of Commerce v. United States House of Representatives; Clinton v. Glavin; Nos. 98-404 and 98-564.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "hughes_aircraft_co_v_jacobson_merits_1999-01-25.md",
+      "date": "1999-01-25",
+      "case": "Hughes Aircraft Co. v. Jacobson; No. 97-1287; Ninth Circuit judgment, 105 F.3d 1288.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "suster_v_marshall_merits_1999-01-28.md",
+      "date": "1999-01-28",
+      "case": "Suster v. Marshall, No. 98-737; Sixth Circuit Nos. 96-4048, 96-4115, 96-4287, 96-4380 and 97-3174; 149 F.3d 523. The archived petition's caption is Marshall v. Suster.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "wright_v_ernst_and_young_merits_1999-02-04.md",
+      "date": "1999-02-04",
+      "case": "Wright v. Ernst & Young LLP, No. 98-783.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "hart_v_gwadosky_threshold_1999-02-11.md",
+      "date": "1999-02-11",
+      "case": "Hart v. Gwadosky; No. 98-676; Maine Supreme Judicial Court No. Ken-98-280.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "boring_v_buncombe_county_board_of_education_merits_1999-02-17.md",
+      "date": "1999-02-17",
+      "case": "Boring v. Buncombe County Board of Education, No. 97-1835.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "john_crane_inc_v_abate_merits_1999-02-18.md",
+      "date": "1999-02-18",
+      "case": "John Crane, Inc. v. Abate; No. 98-873.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "national_collegiate_athletic_association_v_smith_merits_1999-02-23.md",
+      "date": "1999-02-23",
+      "case": "National Collegiate Athletic Association v. Smith; No. 98-84.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "your_home_visiting_nurse_services_v_shalala_merits_1999-02-23.md",
+      "date": "1999-02-23",
+      "case": "Your Home Visiting Nurse Services, Inc. v. Shalala; No. 97-1489.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "reno_v_american_arab_anti_discrimination_committee_merits_1999-02-24.md",
+      "date": "1999-02-24",
+      "case": "Reno v. American-Arab Anti-Discrimination Committee; No. 97-1252; Ninth Circuit judgment, 119 F.3d 1367.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "minns_v_united_states_merits_1999-02-25.md",
+      "date": "1999-02-25",
+      "case": "Minns v. United States; No. 98-903; OT1998.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "arizona_department_of_revenue_v_blaze_construction_merits_1999-03-02.md",
+      "date": "1999-03-02",
+      "case": "Arizona Department of Revenue v. Blaze Construction Co.; No. 97-1536; OT1998.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "holloway_v_united_states_merits_1999-03-02.md",
+      "date": "1999-03-02",
+      "case": "Holloway v. United States; No. 97-7164; OT1998.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "peguero_v_united_states_merits_1999-03-02.md",
+      "date": "1999-03-02",
+      "case": "Peguero v. United States; No. 97-9217; OT1998.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "american_manufacturers_v_sullivan_merits_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "American Manufacturers Mutual Insurance Co. v. Sullivan; No. 97-2000; OT1998.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "cedar_rapids_v_garret_f_merits_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "Cedar Rapids Community School District v. Garret F.; No. 96-1793; OT1998.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "Federal Republic of Germany, Chrobog and Rudolph v. United States and Hull; No. 127, Original; A-736.",
+      "counted": false,
+      "reason": "Emergency/original leave and interim protection signed explanations"
+    },
+    {
+      "record": "nffe_and_flra_v_interior_merits_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior; Nos. 97-1184 and 97-1243.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "Stewart v. LaGrand; No. 98-1412; distinct State application A-735.",
+      "counted": false,
+      "reason": "Per curiam application and summary merits disposition"
+    },
+    {
+      "record": "stewart_v_lagrand_certiorari_1999-03-03.md",
+      "date": "1999-03-03",
+      "case": "Stewart v. LaGrand; No. 98-1412; distinct State application A-735.",
+      "counted": false,
+      "reason": "Unsigned certiorari access order"
+    },
+    {
+      "record": "gable_v_patton_and_patton_v_gable_threshold_1999-03-04.md",
+      "date": "1999-03-04",
+      "case": "Gable v. Patton / Patton v. Gable; Nos. 98-897 and 98-1072.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "jackson_v_benson_merits_1999-03-16.md",
+      "date": "1999-03-16",
+      "case": "Jackson v. Benson; No. 98-376; OT1998.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "reform_party_v_democratic_national_committee_merits_1999-03-17.md",
+      "date": "1999-03-17",
+      "case": "National Committee of the Reform Party of the United States of America v. Democratic National Committee; Ninth Circuit No. 98-15443; 168 F.3d 360.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "date": "1999-03-22",
+      "case": "Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.",
+      "counted": false,
+      "reason": "Unsigned certiorari access order"
+    },
+    {
+      "record": "central_state_university_v_aaup_summary_merits_1999-03-22.md",
+      "date": "1999-03-22",
+      "case": "Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.",
+      "counted": false,
+      "reason": "Per curiam summary merits opinion"
+    },
+    {
+      "record": "kumho_tire_v_carmichael_merits_1999-03-23.md",
+      "date": "1999-03-23",
+      "case": "Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "south_central_bell_v_alabama_merits_1999-03-23.md",
+      "date": "1999-03-23",
+      "case": "South Central Bell Telephone Co. v. Alabama; No. 97-2045; OT1998.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "jones_v_united_states_merits_1999-03-24.md",
+      "date": "1999-03-24",
+      "case": "Jones v. United States; No. 97-6203; OT1998.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "minnesota_v_mille_lacs_band_merits_1999-03-24.md",
+      "date": "1999-03-24",
+      "case": "Minnesota v. Mille Lacs Band of Chippewa Indians; No. 97-1337.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "brower_v_washington_merits_1999-03-25.md",
+      "date": "1999-03-25",
+      "case": "Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "united_states_v_rodriguez_moreno_merits_1999-03-30.md",
+      "date": "1999-03-30",
+      "case": "United States v. Rodriguez-Moreno, No. 97-1139.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "conn_v_gabbert_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Conn v. Gabbert, No. 97-1802; judgment below, 131 F.3d 793.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "mitchell_v_united_states_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Mitchell v. United States; No. 97-7541; OT1998.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "wyoming_v_houghton_merits_1999-04-05.md",
+      "date": "1999-04-05",
+      "case": "Wyoming v. Houghton; No. 98-184.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "barnes_v_american_tobacco_co_merits_1999-04-07.md",
+      "date": "1999-04-07",
+      "case": "Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "in_re_sealed_case_merits_1999-04-13.md",
+      "date": "1999-04-13",
+      "case": "In re Sealed Case; No. 98-93; judgment below, 148 F.3d 1073.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "unum_life_insurance_co_v_ward_merits_1999-04-20.md",
+      "date": "1999-04-20",
+      "case": "UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "united_states_v_haggar_apparel_co_merits_1999-04-21.md",
+      "date": "1999-04-21",
+      "case": "United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "brooks_v_barnes_merits_1999-04-22.md",
+      "date": "1999-04-22",
+      "case": "Brooks v. Barnes; No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "united_states_v_sun_diamond_growers_merits_1999-04-27.md",
+      "date": "1999-04-27",
+      "case": "United States v. Sun-Diamond Growers of California; No. 98-131; judgment below, 138 F.3d 961.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "russell_v_burris_merits_1999-04-28.md",
+      "date": "1999-04-28",
+      "case": "Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "bank_of_america_v_203_north_lasalle_merits_1999-05-03.md",
+      "date": "1999-05-03",
+      "case": "Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md",
+      "date": "1999-05-03",
+      "case": "El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "ins_v_aguirre_aguirre_merits_1999-05-03.md",
+      "date": "1999-05-03",
+      "case": "INS v. Aguirre-Aguirre; No. 97-1754; judgment below, 121 F.3d 521.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "redmon_v_united_states_merits_1999-05-10.md",
+      "date": "1999-05-10",
+      "case": "Redmon v. United States; No. 98-243; judgment below, United States v. Redmon, 138 F.3d 1109.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md",
+      "date": "1999-05-13",
+      "case": "Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "clinton_v_goldsmith_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Clinton v. Goldsmith; No. 98-347; judgment below, 48 M.J. 84.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "florida_v_white_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Florida v. White; No. 98-223; judgment below, 710 So. 2d 949.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "hunt_v_cromartie_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "new_jersey_v_new_york_implementing_decree_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "New Jersey v. New York; No. 120, Original.",
+      "counted": false,
+      "reason": "Record's explicit form classification: not a counted lead"
+    },
+    {
+      "record": "ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Ruhrgas AG v. Marathon Oil Co.; No. 98-470; judgment below, 145 F.3d 211.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "saenz_v_roe_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400.",
+      "counted": true,
+      "author": "Kennedy"
+    },
+    {
+      "record": "maine_green_party_v_maine_merits_1999-05-20.md",
+      "date": "1999-05-20",
+      "case": "Maine Green Party v. Maine; First Circuit No. 98-1309.",
+      "counted": true,
+      "author": "Breyer"
+    },
+    {
+      "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
+      "date": "1999-05-24",
+      "case": "California Dental Association v. Federal Trade Commission; No. 97-1625.",
+      "counted": true,
+      "author": "Souter"
+    },
+    {
+      "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
+      "date": "1999-05-24",
+      "case": "Cleveland v. Policy Management Systems Corp.; No. 97-1008.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
+      "date": "1999-05-24",
+      "case": "Davis v. Monroe County Board of Education; No. 97-843.",
+      "counted": true,
+      "author": "Ginsburg"
+    },
+    {
+      "record": "hanlon_v_berger_merits_1999-05-24.md",
+      "date": "1999-05-24",
+      "case": "Hanlon v. Berger; No. 97-1927.",
+      "counted": true,
+      "author": "O'Connor"
+    },
+    {
+      "record": "wilson_v_layne_merits_1999-05-24.md",
+      "date": "1999-05-24",
+      "case": "Wilson v. Layne; No. 98-83.",
+      "counted": true,
+      "author": "Scalia"
+    },
+    {
+      "record": "richardson_v_united_states_merits_1999-06-01.md",
+      "date": "1999-06-01",
+      "case": "Richardson v. United States; No. 97-8629.",
+      "counted": true,
+      "author": "Stevens"
+    },
+    {
+      "record": "bruneau_v_south_kortright_central_school_district_merits_1999-06-03.md",
+      "date": "1999-06-03",
+      "case": "Bruneau v. South Kortright Central School District; No. 98-1541.",
+      "counted": true,
+      "author": "Thomas"
+    },
+    {
+      "record": "reno_v_goncalves_merits_1999-06-03.md",
+      "date": "1999-06-03",
+      "case": "Reno v. Goncalves; No. 98-835; First Circuit judgment, 144 F.3d 110.",
+      "counted": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "record": "amoco_production_co_v_southern_ute_indian_tribe_merits_1999-06-07.md",
+      "date": "1999-06-07",
+      "case": "Amoco Production Co. v. Southern Ute Indian Tribe; No. 98-830; Tenth Circuit en banc judgment, 151 F.3d 1251.",
+      "counted": true,
+      "author": "Stevens"
+    }
+  ]
+}

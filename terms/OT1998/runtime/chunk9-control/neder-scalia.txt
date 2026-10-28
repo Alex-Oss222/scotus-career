@@ -1,0 +1,143 @@
+SOURCE: https://www.law.cornell.edu/supct/html/97-1985.ZX.html
+
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+NEDER V. UNITED STATES
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+NEDER V. UNITED STATES (97-1985) 
+136 F.3d 1459, affirmed in part, reversed in part, and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Opinion of Stevens ]Other
+ [ Opinion of Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+Opinion of Scalia, J.
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 97—1985
+ELLIS E. NEDER, Jr., PETITIONER v.
+UNITED STATES
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+[June 10, 1999]
+
+
+
+
+
+    Justice Scalia, with whom Justice Souter and Justice Ginsburg join, concurring in part and dissenting in part.
+
+
+     I join Parts I and III of the Court’s opinion.  I do not join Part II, however, and I dissent from the judgment of the Court, because I believe that depriving a criminal defendant of the right to have the jury determine his guilt of the crime charged–which necessarily means his commission of every element of the crime charged–can never be harmless.  
+
+
+I
+
+
+     Article III, §2, cl. 3 of the Constitution provides: “The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury . . . .”  The Sixth Amendment provides: “In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury . . . .”  When this Court deals with the content of this guarantee–the only one to appear in both the body of the Constitution and the Bill of Rights–it is operating upon the spinal column of American democracy.  William Blackstone, the Framers’ accepted authority on English law and the English Constitution, described the right to trial by jury in criminal prosecutions as “the grand bulwark of [the Englishman’s] liberties . . . secured to him by the great charter.” 4 W. Blackstone, Commentaries *349.  One of the indictments of the Declaration of Independence against King George III was that he had “subject[ed] us to a Jurisdiction foreign to our Constitution, and unacknowledged by our Laws” in approving legislation  “[f]or depriving us, in many Cases, of the Benefits of Trial by Jury.”  Alexander Hamilton wrote that “[t]he friends and adversaries of the plan of the convention, if they agree in nothing else, concur at least in the value they set upon the trial by jury: Or if there is any difference between them, it consists in this, the former regard it as a valuable safeguard to liberty, the latter represent it as the very palladium of free government.”  The Federalist No. 83, p. 426 (M. Beloff ed. 1987).  The right to trial by jury in criminal cases was the only guarantee common to the 12 state constitutions that predated the Constitutional Convention, and it has appeared in the constitution of every State to enter the Union thereafter.  Alschuler & Deiss, A Brief History of the Criminal Jury in the United States, 61 U. Chi. L. Rev. 867, 870, 875, n. 44 (1994).  By comparison, the right to counsel–deprivation of which we have also held to be structural error–is a Johnny-come-lately: Defense counsel did not become a regular fixture of the criminal trial until the mid-1800’s.  See W. Beaney, Right to Counsel in American Courts 226 (1955).
+
+
+    The right to be tried by a jury in criminal cases obviously means the right to have a jury determine whether the defendant has been proved guilty of the crime charged.  And since all crimes require proof of more than one element to establish guilt (involuntary manslaughter, for example, requires (1) the killing (2) of a human being (3) negligently), it follows that trial by jury means determination by a jury that all elements were proved.  The Court does not contest this.  It acknowledges that the right to trial by jury was denied in the present case, since one of the elements was not–despite the defendant’s protestation–submitted to be passed upon by the jury.  But even so, the Court lets the defendant’s sentence stand, because we judges can tell that he is unquestionably guilty.
+
+
+      Even if we allowed (as we do not) other structural errors in criminal trials to be pronounced “harmless” by judges–a point I shall address in due course–it is obvious that we could not allow judges to validate this one.  The constitutionally required step that was omitted here is distinctive, in that the basis for it is precisely that, absent voluntary waiver of the jury right, the Constitution does not trust judges to make determinations of criminal guilt.  Perhaps the Court is so enamoured of judges in general, and federal judges in particular, that it forgets that they (we) are officers of the Government, and hence proper objects of that healthy suspicion of the power of government which possessed the Framers and is embodied in the Constitution.  Who knows?–20 years of appointments of federal judges by oppressive administrations might produce judges willing to enforce oppressive criminal laws, and to interpret criminal laws oppressively–at least in the view of the citizens in some vicinages where criminal prosecutions must be brought.  And so the people reserved the function of determining criminal guilt to themselves, sitting as jurors.  It is not within the power of us Justices to cancel that reservation–neither by permitting trial judges to determine the guilt of a defendant who has not waived the jury right, nor (when a trial judge has done so anyway) by reviewing the facts ourselves and pronouncing the defendant without-a-doubt guilty.  The Court’s decision today is the only instance I know of (or could conceive of ) in which the remedy for a constitutional violation by a trial judge (making the determination of criminal guilt reserved to the jury) is a repetition of the same constitutional violation by the appellate court (making the determination of criminal guilt reserved to the jury).
+
+
+II
+
+
+     The Court’s decision would be wrong even if we ignored the distinctive character of this constitutional violation.  The Court reaffirms the rule that it would be structural error (not susceptible of “harmless-error” analysis) to “ ‘vitiat[e] all the jury’s findings.’ ” Ante, at 8 (quoting Sullivan v. Louisiana, 508 U.S. 275, 281 (1993)).  A court cannot, no matter how clear the defendant’s culpability, direct a guilty verdict.  See Carpenters v. United States, 330 U.S. 395, 410 (1947); Rose v. Clark, 478 U.S. 570, 578 (1986); Arizona v. Fulminante, 499 U.S. 279, 294 (1991) (White, J., dissenting).  The question that this raises is why, if denying the right to conviction by jury is structural error, taking one of the elements of the crime away from the jury should be treated differently from taking all of them away–since failure to prove one, no less than failure to prove all, utterly prevents conviction.
+
+
+    The Court never asks, much less answers, this question.  Indeed, we do not know, when the Court’s opinion is done, how many elements can be taken away from the jury with impunity, so long as appellate judges are persuaded that the defendant is surely guilty.  What if, in the present case, besides keeping the materiality issue for itself, the District Court had also refused to instruct the jury to decide whether the defendant signed his tax return, see 26 U.S.C. § 7206(1)?  If Neder had never contested that element of the offense, and the record contained a copy of his signed return, would his conviction be automatically reversed in that situation but not in this one, even though he would be just as obviously guilty?  We do not know.  We know that all elements cannot be taken from the jury, and that one can.  How many is too many (or perhaps what proportion is too high) remains to be determined by future improvisation.  All we know for certain is that the number is somewhere between tuppence and 19 shillings 11, since the Court’s only response to my assertion that there is no principled distinction between this case and a directed verdict is that “our course of constitutional adjudication has not been characterized by this ‘in for a penny, in for a pound’ approach.”  See Ante, at 14, n. 1.  
+
+
+      The underlying theme of the Court’s opinion is that taking the element of materiality from the jury did not render Neder’s trial unfair, because the judge certainly reached the “right” result.  But the same could be said of a directed verdict against the defendant–which would be per se reversible no matter how overwhelming the unfavorable evidence.  See Rose v. Clark, supra, at 578.  The very premise of structural-error review is that even convictions reflecting the “right” result are reversed for the sake of protecting a basic right.  For example, in Tumey v. Ohio, 273 U.S. 510 (1927), where we reversed the defendant’s conviction because he had been tried before a biased judge, the State argued that “the evidence shows clearly that the defendant was guilty and that he was only fined $100, which was the minimum amount, and therefore that he can not complain of a lack of due process, either in his conviction or in the amount of the judgment.”  Id., at 535.  We rejected this argument out of hand, responding that “[n]o matter what the evidence was against him, he had the right to have an impartial judge.”  Ibid. (emphasis added).  The amount of evidence against a defendant who has properly preserved his objection, while relevant to determining whether a given error was harmless, has nothing to do with determining whether the error is subject to harmless-error review in the first place.
+
+
+      The Court points out that in Johnson v. United States, 520 U.S. 461 (1997), we affirmed the petitioner’s conviction even though the element of materiality had been withheld from the jury.  But the defendant in that case, unlike the defendant here, had not requested a materiality instruction.  In the context of such unobjected-to error, the mere deprivation of substantial rights “does not, without more,” warrant reversal, United States v. Olano, 507 U.S. 725, 737 (1993), but the appellant must also show that the deprivation “seriously affect[s] the fairness, integrity or public reputation of judicial proceedings,” Johnson, supra, at 469 (quoting Olano, supra, at 736) (internal quotation marks omitted).  Johnson stands for the proposition that, just as the absolute right to trial by jury can be waived, so also the failure to object to its deprivation at the point where the deprivation can be remedied will preclude automatic reversal.1
+
+
+      Insofar as it applies to the jury-trial requirement, the structural-error rule does not exclude harmless-error analysis–though it is harmless-error analysis of a peculiar sort, looking not to whether the jury’s verdict would have been the same without the error, but rather to whether the error did not prevent the jury’s verdict.  The failure of the court to instruct the jury properly–whether by omitting an element of the offense or by so misdescribing it that it is effectively removed from the jury’s consideration–can be harmless, if the elements of guilt that the jury did find necessarily embraced the one omitted or misdescribed.  This was clearly spelled out by our unanimous opinion in Sullivan v. Louisiana, supra, which said that harmless-error review “looks . . . to the basis on which ‘the jury actually rested its verdict.’ ”  Id., at 279 (quoting Yates v. Evatt, 500 U.S. 391, 404 (1991)).  Where the facts necessarily found by the jury (and not those merely discerned by the appellate court) support the existence of the element omitted or misdescribed in the instruction, the omission or misdescription is harmless.2  For there is then no “gap” in the verdict to be filled by the factfinding of judges.  This formulation adequately explains the three cases, see California v. Roy, 519 U.S. 2, 6 (1996) (Scalia, J., concurring); Carella v. California, 491 U.S. 270—273 (1989) (Scalia, J., concurring in judgment); Pope v. Illinois, 481 U.S. 497, 504 (1987) (Scalia, J., concurring),3 that the majority views as “dictat[ing] the answer” to the question before us today. Ante, at 10.  In casting Sullivan aside, the majority does more than merely return to the state of confusion that existed in our prior cases; it throws open the gate for appellate courts to trample over the jury’s function.
+
+
+      Asserting that “[u]nder our cases, a constitutional error is either structural or it is not,” ante, at 11, the Court criticizes the Sullivan test for importing a “case-by-case approach” into the structural-error determination.  If that were true, it would seem a small price to pay for keeping the appellate function consistent with the Sixth Amendment.  But in fact the Court overstates the cut-and-dried nature of identifying structural error.  Some structural errors, like the complete absence of counsel or the denial of a public trial, are visible at first glance.  Others, like deciding whether the trial judge was biased or whether there was racial discrimination in the grand jury selection, require a more fact-intensive inquiry.  Deciding whether the jury made a finding “functionally equivalent” to the omitted or misdescribed element is similar to structural-error analysis of the latter sort.
+
+
+III
+
+
+    The Court points out that all forms of harmless-error review “infringe upon the jury’s factfinding role and affect the jury’s deliberative process in ways that are, strictly speaking, not readily calculable.”  Ante, at 15.  In finding, for example, that the jury’s verdict would not have been affected by the exclusion of evidence improperly admitted, or by the admission of evidence improperly excluded, a court is speculating on what the jury would have found.  See, e.g., Arizona v. Fulminante, 499 U.S., at 296 (Would the verdict have been different if a coerced confession had not been introduced?); Delaware v. Van Arsdall, 475 U.S. 673, 684 (1986) (Would the verdict have been different if evidence had not been unconstitutionally barred from admission?).  There is no difference, the Court asserts, in permitting a similar speculation here.  Ante, at 15.
+
+
+      If this analysis were correct–if permitting speculation on whether a jury would have changed its verdict logically demands permitting speculation on what verdict a jury would have rendered–we ought to be able to uphold directed verdicts in cases where the defendant’s guilt is absolutely clear.  In other words, the Court’s analysis is simply a repudiation of the principle that depriving the criminal defendant of a jury verdict is structural error.  Sullivan v. Louisiana clearly articulated the line between permissible and impermissible speculation that preserves the well established structural character of the jury-trial right and places a principled and discernible limitation upon judicial intervention: “The inquiry . . . is not whether, in a trial that occurred without the error, a guilty verdict would surely have been rendered, but whether the guilty verdict actually rendered in this trial was surely unattributable to the error.”  508 U.S., at 279 (emphasis added).  Harmless-error review applies only when the jury actually renders a verdict–that is, when it has found the defendant guilty of all the elements of the crime.
+
+
+      The difference between speculation directed towards confirming the jury’s verdict (Sullivan) and speculation directed towards making a judgment that the jury has never made (today’s decision) is more than semantic.  Consider, for example, the following scenarios.  If I order for my wife in a restaurant, there is no sense in which the decision is hers, even if I am sure beyond a reasonable doubt about what she would have ordered.  If, however, while she is away from the table, I advise the waiter to stay with an order she initially made, even though he informs me that there has been a change in the accompanying dish, one can still say that my wife placed the
+order–even if I am wrong about whether she would have changed her mind in light of the new information.  Of course, I may predict correctly in both instances simply because I know my wife well.  I doubt, however, that a low-error rate would persuade my wife that my making a practice of the first was a good idea.
+
+
+      It is this sort of allocation of decisionmaking power that the Sullivan standard protects.  The right to render the verdict in criminal prosecutions belongs exclusively to the jury; reviewing it belongs to the appellate court.  “Confirming” speculation does not disturb that allocation, but “substituting” speculation does.  Make no mistake about the shift in standard: Whereas Sullivan confined appellate courts to their proper role of reviewing verdicts, the Court today puts appellate courts in the business of reviewing the defendant’s guilt.  The Court does not–it cannot–reconcile this new approach with the proposition that denial of the jury-trial right is structural error.
+
+
+*    *    *
+
+
+    The recipe that has produced today’s ruling consists of one part self-esteem, one part panic, and one part pragmatism.  I have already commented upon the first ingredient: What could possibly be so bad about having judges decide that a jury would necessarily have found the defendant guilty?  Nothing except the distrust of judges that underlies the jury-trial guarantee.  As to the ingredient of panic: The Court is concerned that the Sullivan approach will invalidate convictions in innumerable cases where the defendant is obviously guilty.  There is simply no basis for that concern.  The limited harmless-error approach of Sullivan applies only when specific objection to the erroneous instruction has been made and rejected.  In all other cases, the Olano plain-error rule governs, which is similar to the ordinary harmless-error analysis that the Court would apply.  I doubt that the criminal cases in which instructions omit or misdescribe elements of the offense over the objection of the defendant are so numerous as to present a massive problem.  (If they are, the problem of vagueness in our criminal laws, or of incompetence in our judges, makes the problem under discussion here seem insignificant by comparison.)
+
+
+      And as for the ingredient of pragmatism (if the defendant is unquestionably guilty, why go through the trouble of trying him again?), it suffices to quote Blackstone once again:
+
+
+“[H]owever convenient [intrusions on the jury right] may appear at first (as, doubtless, all arbitrary powers, well executed are the most convenient), yet, let it again be remembered, that delays and little inconveniences in the forms of justice are the price that all free nations must pay for their liberty in more substantial matters; that these inroads upon this sacred bulwark of the nation are fundamentally opposite to the spirit of our constitution; and that, though begun in trifles, the precedent may gradually increase and spread, to the utter disuse of juries in questions of the most momentous concern.”  4 Blackstone, Commentaries *350.
+
+
+ See also Bollenbach v. United States, 326 U.S. 607, 615 (1946).  Formal requirements are often scorned when they stand in the way of expediency.  This Court, however, has an obligation to take a longer view.  I respectfully dissent.
+
+Notes
+
+1.  Contrary to Justice Stevens’ suggestion, ante, at 3 (Stevens, J., concurring in part and concurring in the judgment), there is nothing  “internally inconsistent” about believing that a procedural guarantee is fundamental while also believing that it must be asserted in a timely fashion.  It is a universally acknowledged principle of law that one who sleeps on his rights – even fundamental rights – may lose them. 
+
+2.  Justice Stevens thinks that the jury findings as to the amounts that petitioner failed to report on his tax returns “necessarily included” a finding on materiality, since “‘total income’ is obviously ‘information necessary to a determination of a taxpayer’s income tax liability.’”  Ante, at 2 (emphasis added).  If that analysis were valid, we could simply dispense with submitting the materiality issue to the jury in all future tax cases involving understatement of income; a finding of intentional understatement would be a finding of guilt–no matter how insignificant the understatement might be, and no matter whether it was offset by understatement of deductions as well.  But the right to a jury trial on all elements of the offense does not mean the right to a jury trial on only so many elements as are necessary in order logically to deduce the remainder.  The jury has the right to apply its own logic (or illogic) to its decision to convict or acquit.  At bottom, Justice Stevens’ “obviously” represents his judgment that any reasonable jury would have to think that the misstated amounts were material.  Cf. Ante, at 13, n. 1.  It is, in other words, nothing more than a repackaging of the majority’s approach, which allows a judge to determine what a jury “would have found” if asked.  And it offers none of the protection that Justice Stevens promises the jury will deliver “against the corrupt or overzealous prosecutor and against the compliant, biased, or eccentric judge.”  Ante, at 5 (quoting Duncan v. Louisiana, 391 U.S. 145, 156 (1968)). 
+
+3.  The Court asserts that this “functional equivalent” test does not explain Pope, since “a juror in Rockford, Illinois, who found that the [allegedly obscene] material lacked value under community standards would not necessarily have found that it did so under presumably broader and more tolerant national standards.” Ante, at 11.  If the jury had been instructed to measure the material by Rockford, Illinois, standards, I might agree.  It was instructed, however, to “judge whether the material was obscene by determining how it would be viewed by ordinary adults in the whole State of Illinois,” 481 U.S., at 499 (emphasis added)–which includes, of course, the City of Chicago, that toddlin’ town.  A finding of obscenity under that standard amounts to a finding of obscenity under a national (“reasonable person”) standard.  See id., at 504 (Scalia, J., concurring). 
+ 
+
+
+
+

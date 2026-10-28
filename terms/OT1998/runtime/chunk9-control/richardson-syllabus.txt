@@ -1,0 +1,82 @@
+SOURCE: https://www.law.cornell.edu/supct/html/97-8629.ZS.html
+
+
+
+
+
+  
+  
+  
+
+	
+	
+	
+	
+RICHARDSON V. UNITED STATES
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+	
+
+
+
+
+RICHARDSON V. UNITED STATES (97-8629) 
+130 F.3d 765, vacated and remanded.
+Syllabus
+ Opinion
+ [ Breyer ]Dissent
+ [ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+RICHARDSON v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+ 
+No. 97—8629.  Argued February 22, 1999–Decided June 1, 1999 
+
+
+
+
+At petitioner Richardson’s trial for violating 21 U.S.C. § 848–which forbids any “person” from “engag[ing] in a continuing criminal enterprise,” §848(a), and defines “continuing criminal enterprise” (CCE) as involving a violation of the drug statutes where “such violation is part of a continuing series of violations,” §848(c)–the judge rejected Richardson’s proposal to instruct the jury that it must unanimously agree on which three acts constituted the series of violations.  Instead, the judge instructed the jurors that they must unanimously agree that the defendant committed at least three federal narcotics offenses, but did not have to agree as to the particular offenses.  The jury convicted Richardson, and the Seventh Circuit upheld the trial judge’s instruction.
+
+Held:  A jury in a §848 case must unanimously agree not only that the defendant committed some “continuing series of violations,” but also about which specific “violations” make up that “continuing series.”  Pp. 3—11.
+
+    (a)  A jury in a federal criminal case cannot convict unless it unanimously finds that the Government has proved each element of the offense.  However, it need not always decide unanimously which of several possible means the defendant used to commit an element.  If §848(c)’s phrase “series of violations” refers to one element, a “series,” in respect to which individual “violations” are but the means, then the jury need only agree that the defendant committed at least three underlying crimes, and need not agree about which three.  Conversely, if the statute creates several elements, the several “violations,” then the jury must agree unanimously about which three crimes the defendant committed.  Pp. 3—4.
+
+      (b)  Considerations of language, tradition, and potential unfairness support a reading of “violations” as elements rather than means.  The Government has not found any legal source reading any instance of the words “violation” or “violations” as means.  To hold that each “violation” here amounts to a separate element is consistent with a tradition of requiring juror unanimity where the issue is whether a defendant has engaged in conduct that violates the law.  To hold the contrary is not.  The CCE statute’s breadth aggravates the dangers of unfairness that treating each violation as a means would risk.  The statute’s word “violations” covers many different kinds of behavior of varying degrees of seriousness.  The two chapters of the Federal Criminal Code setting forth drug crimes contain approximately 90 numbered sections, many of which proscribe various acts that may be alleged as “violations” for purposes of §848’s series requirement.  This consideration increases the likelihood that treating violations simply as alternative means, by permitting a jury to avoid discussion of the specific factual details of each violation, will cover up wide disagreement among the jurors about just what the defendant did, or did not, do.  Moreover, the Government may seek to prove that a defendant has been involved in numerous underlying violations, significantly aggravating the risk that jurors will fail to focus on specific factual detail unless required to do so.  Finally, this Court has indicated that the Constitution itself limits a State’s power to define crimes in ways that would permit juries to convict while disagreeing about means, at least where that definition risks serious unfairness and lacks support in history or tradition.  Schad v. Arizona, 501 U.S. 624, 632—633.  Pp. 3—6.
+
+      (c)  The Government’s arguments for interpreting “violations” as means–that the words “continuing series” focus on the drug business, not on the particular violations that constitute the business; that an analogy can be found in state courts’ interpretations of statutes permitting conviction upon proof of a continuous course of conduct without jury agreement on a specific underlying crime; that a jury-unanimity requirement will make the statute’s crime too difficult to prove; and that other portions of the statute do not require jury unanimity–are not sufficiently powerful to overcome the foregoing considerations.  Pp. 7—11.
+
+      (d)  The questions whether to engage in harmless-error analysis, and if so, whether the error was harmless in this case, are left to the Seventh Circuit on remand.  P. 11.
+
+130 F.3d 765, vacated and remanded.
+
+    Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Scalia, Souter, and Thomas, JJ., joined.  Kennedy, J., filed a dissenting opinion, in which O’Connor and Ginsburg, JJ., joined.
+ 
+
+
+
+

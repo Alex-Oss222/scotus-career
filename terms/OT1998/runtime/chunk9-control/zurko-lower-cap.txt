@@ -1,0 +1,670 @@
+Source: https://static.case.law/f3d/142/html/1447-01.html
+
+In re Mary E. ZURKO, Thomas A. Casey, Jr., Morrie Gasser, Judith S. Hall, Clifford E. Kahn, Andrew H. Mason, Paul D. Sawyer, Leslie R. Kendall, and Steven B. Lipner.
+No. 96-1258.
+United States Court of Appeals, Federal Circuit.
+May 4, 1998.
+*1448
+Nancy J. Linck, Solicitor, Arlington, VA, argued for the Commissioner of Patents and Trademarks. With her on the brief were Albin F. Drost, Deputy Solicitor, Karen A. Buchanan and Kenneth R. Corsello, Associate Solicitors.
+Ernest Gellhorn, Washington, DC, argued for Mary E. Zurko, et al. With him on the brief was A. Sidney Johnston, Attorney, Corporate Law Department, Digital Equipment Corporation, Maynard, MA. Of counsel on the brief was Ronald C. Hudgens. Also of counsel on the brief were Janice M. Mueller, Assistant Law Professor, Suffolk University Law School, Boston, MA, John F. Sweeney, Israel Blum, Steven F. Meyer, and Michael O. Cummings, Morgan, & Finnegan, L.L.P., New York City.
+Barry E. Bretschneider, Morrison & Foer-ster, LLP, Washington, DC, for amicus curiae Houston Intellectual Property Law Association.
+Thomas G. Field, Jr., Professor of Law, Franklin Pierce Law Center, Concord, NH, for amicus curiae Thomas G. Field, Jr.
+Scott F. Partridge, Baker & Botts, L.L.P., Houston, TX, for amicus curiae Biotechnology Industry Organization. With him on the brief was Roger L. Tate, Washington, DC.
+Albert Robin, New York City, for amicus curiae International Trademark Association. With him on the brief was Leon J. Bechet.
+Richard H. Stern, Ablondi, Foster, Sobin & Davidow, P.C., Washington, DC, for ami-cus curiae Seagate Technology, Inc. Of counsel on the brief was Edward P. Heller, III, Patent Counsel, Seagate Technology, Inc., Scotts Valley, CA.
+Bruce T. Wieder, Chair, Amicus Committee, Patent, Trademark & Copyright Section, Bar Association of the District of Columbia, Washington, DC, for amicus curiae The Patent, Trademark & Copyright Section of the Bar Association of the District of Columbia. With him on the brief was Robert M. Schul-man, Burns, Doane, Sweeker & Mathis, L.L.P., Alexandria, VA, and Lisa E. Alexander, Morrison & Foerster, L.L.P., San Francisco, CA.
+Bruce M. Wexler, Fitzpatrick, Celia, Harper & Seinto, of New York City, for amicus curiae New York Intellectual Property Law Association. With him on the brief was Edward V. Filardi, President, New York Intellectual Law Property Association. Of counsel on the brief was Charles P. Baker, Fitzpatrick, Celia, Harper & Seinto.
+Rudolph P. Hofmann, Jr., Schwegman, Lundberg, Woessner, & Kluth, P.A., Minneapolis, MN for amicus curiae Federal Circuit Bar Association. With him on the brief were Ronald L. Smith, President-Elect, and George E. Hutchinson, Executive Director, Federal Circuit Bar Association, of Washington, DC.
+Duke W. Yee, President, Dallas-Fort Worth Intellectual Property Law Association, Forth Worth, TX, for amicus curiae Dallas-Fort Worth Intellectual Property Law Association.
+Gerald J. Mossinghoff, Obion, Spivak, McClelland, Maier
+&
+Neustadt, Arlington, VA, for amicus curiae Pharmaceutical Research and Manufacturers of America. With him on the brief was Stephen G. Baxter. Of counsel on the brief was Matthew Van Hook, Deputy General Counsel, Pharmaceutical Research and Manufacturers of America, of Washington, DC.
+*1449
+Gary Griswold, President, American Intellectual Property Law Association, Arlington, YA, for amicus curiae American Intellectual Property Law Association. With him on the brief was R. Carl Moy, Faegre & Benson LLP, Minneapolis, MN.
+Before MAYER, Chief Judge,
+*
+RICH and NEWMAN, Circuit Judges, ARCHER, Senior Circuit Judge,
+**
+MICHEL, PLAGER, LOURIE, CLEVENGER, RADER, SCHALL, BRYSON and GAJARSA, Circuit Judges.
+*
+Chief Judge Haldane Robert Mayer assumed
+the
+position of Chief Judge on December 25, 1997.
+**
+Senior Circuit Judge Glenn L. Archer, Jr. vacated the position of Chief Judge on December 24, 1997.
+MAYER, Chief Judge.
+Mary E. Zurko
+et al.
+appealed from a decision of the Board of Patent Appeals and Interferences sustaining the rejection of United States Patent Application No. 07/479,666 under
+35 U.S.C. § 103
+(1994).
+Ex parte Zurko,
+No. 94-3967 (Bd. Pat. Apps. & Int. Aug. 4, 1995). On appeal, this court reversed, holding that the board’s decision— that the method claimed for improving security in computer systems was obvious — was based on clearly erroneous findings of fact.
+In re Zurko,
+111 F.3d 887
+,
+42 USPQ2d 1476
+(Fed.Cir.1997). Concluding that the outcome of this appeal turns on the standard of review used by this court to review board fact finding, we accepted the Commissioner’s suggestion that we rehear the appeal in banc so that we could consider the following question: “Should this court review Patent and Trademark Office fact-findings under the Administrative Procedure Act standard of review instead of the presently applied ‘clearly erroneous’ standard?”
+116 F.3d 874
+, 874 (Fed.Cir.1997). We believe section 559 of the Administrative Procedure Act permits, and
+stare decisis
+warrants, our continued application of the clearly erroneous standard in our review of these fact-findings.
+I.
+The Commissioner has campaigned aggressively for this court to review factual findings underlying the board’s patentability determinations using the more deferential substantial evidence standard found in section 10(e) of the Administrative Procedure Act (APA) and codified in relevant part at
+5 U.S.C. § 706
+(1994), but we have not done so.
+See, e.g., In re Lueders,
+111 F.3d 1569
+, 1574-78,
+42 USPQ2d 1481
+, 1484-87 (Fed.Cir.1997);
+In re Mac Dermid, Inc.,
+111 F.3d 890
+, 890-91,
+42 USPQ2d 1479
+, 1480 (Fed.Cir.1997);
+In re Kemps,
+97 F.3d 1427
+, 1430-31 & nn. 5-6,
+40 USPQ2d 1309
+, 1312-13 & nn. 5-6 (Fed.Cir.1996) (a precondition to addressing the standard of review issue is that its resolution be relevant to the determination of the case);
+In re Napier,
+55 F.3d 610
+, 614,
+34 USPQ2d 1782
+, 1785 (Fed.Cir.1995) (determining proper standard of review is unnecessary because board’s fact finding could be affirmed under more stringent standard);
+In re Brana,
+51 F.3d 1560
+, 1568-69,
+34 USPQ2d 1436
+, 1443-44 (Fed.Cir.1995) (declining invitation to reconsider the standard of review because the decision does not turn on it). Specifically, the Commissioner argues that in appeals under
+35 U.S.C. § 141
+, we should accept the factual findings underlying the board’s pat-entability determinations as long as they are supported by probative evidence of a substantial nature (the substantial evidence standard found at
+5 U.S.C. § 706
+(2)(E)),
+1
+or in the alternative
+2
+as long as they were made upon consideration of the proper factors (the arbitrary and capricious standard found at
+5 U.S.C. § 706
+(2)(A)). Both standards require that we review board decisions on their own reasoning. Currently, we affirm decisions as long as we lack a definite and firm conviction that a mistake has been made.
+See, e.g., Kemps,
+97 F.3d at 1430
+, 40 USPQ2d at 1312.
+*1450
+This standard defines review for clear error and requires us to review board decisions on our reasoning. The substantial evidence, arbitrary and capricious, and clear error standards differ both in character and the amount of deference they contemplate. Thus, to choose among them, we must not only construe relevant sections of the APA and patent statutes, we must understand the historical context in which the standards developed and the current context in which they operate.
+II.
+Congress enacted the APA in part to stem the abuses of power by agencies seemingly unchecked by requirements for procedural rigor. For example, the original presidential committee investigating the need for congressional control over these agencies reported: “[Agencies] are in reality miniature independent governments____ They constitute a headless ‘fourth branch’ of the Government, a haphazard deposit of irresponsible agencies and uncoordinated powers____ Furthermore, the same men are obliged to serve both as prosecutors and as judges. This not only undermines judicial fairness; it weakens public confidence in that fairness.”
+The Report of the President’s Committee on Administrative Management
+89-40 (1937). This same language was quoted by Senator McCarran, and by Representative Walters, during consideration of the final bills.
+See
+92 Cong. Rec. 2149-50 & 2163-64 (1946),
+reprinted in Staff of Sen. Comm, on the Judiciary, 79th Congress, Administrative Procedure Act, Legislative History 1944-46
+(1946)
+CAPA Legislative History).
+Congress was also concerned about the lack of uniformity and consistency in and among the administrative and adjudicative processes of these agencies.
+See generally APA Legislative History
+at 189 (report of Senate Judiciary Committee), 242-44 (report of House Judiciary Committee). Acting upon information gathered for almost ten years, Congress set out to “enunciate and emphasize[ ] the tripartite form of our democracy and bring[ ] into relief the ever essential declaration that this is a government of law rather than of men.”
+Id.
+at iii (Sen. McCarran).
+As incorporated into Title 5 of the United States Code, the APA requires agencies to provide information to the public (§ 552), to follow specified rulemaking procedures (§ 553), and to follow procedures for formal administrative adjudications (§ 554) and hearings (§ 556). The APA goes on to state: “This subchapter [and] chapter 7 ..., do not limit or repeal
+additional requirements
+imposed by statute or
+otherwise recognized by law. ...
+Subsequent statute may not be held to supersede or modify this subchapter [and] chapter 7 ..., except to the extent that it does so expressly.”
+5 U.S.C. § 559
+(emphasis added). In chapter 7, the APA provides for judicial review of agency “action, findings, and conclusions”:
+To the extent necessary to decision and when presented, the reviewing court shall decide all relevant questions of law, interpret constitutional and statutory provisions, and determine the meaning or applicability of the terms of an agency action. The reviewing court shall—
+(1) compel agency action unlawfully withheld or unreasonably delayed; and
+(2) hold unlawful and set aside agency action, findings, and conclusions found to be—
+(A)
+arbitrary, capricious,
+an abuse of discretion, or otherwise not in accordance with law;
+(B) contrary to constitutional right, power, privilege, or immunity;
+(C) in excess of statutory jurisdiction, authority, or limitations, or short of statutory right;
+(D) without observance of procedure required by law;
+(E) unsupported by
+substantial evidence
+in a case subject to sections 556 and 557 of this title or otherwise reviewed on the record of an agency hearing provided by statute; or
+(F) unwarranted by the facts to the extent that the facts are subject to trial de novo by the reviewing court.
+In making the foregoing determinations, the court shall review the whole record or those parts of it cited by a party, and due
+*1451
+account shall be taken of the rule of prejudicial error.
+Id.
+at § 706 (emphases added). Section 10, codified in relevant part at
+5 U.S.C. §§ 701-706
+, “assumes that if the notice, hearings, and finding procedures are adopted as recommended they will obviate the reasons for change in the area and scope of judicial review.” APA
+Legislative History
+at 2163.
+The Department of Justice, which initially drafted the legislation that became the APA — the MeCarran-Sumners Bill — explained that the bill had four basic purposes:
+“1. To require agencies to keep the public currently informed of their organization, procedures and rules (sec.3). 2. To provide for public participation in the rule making process (sec.4). 3. To prescribe uniform standards for the conduct of formal rule- making (see.4(b)) and adjudicatory proceedings (sec.5), i.e., proceedings which are required by statute to be made on the record after opportunity for an agency hearing (secs. 7 and 8). 4.
+To restate the law of judicial review,
+(sec 10).”
+Attorney General’s Manual on the Administrative Procedure Act
+9 (1947) (formatting and emphasis added). As is evident throughout the Attorney General’s Manual,
+3
+the act was drafted tó restate rather than alter existing, established standards: “It not only does not supersede special statutory review proceedings, but also generally leaves the mechanics of judicial review to be governed by other statutes and by judicial rules.”
+Id,
+at 93. The Department of Justice intended that Congress enact any changes to existing laws of judicial review through explicit, subsequent legislation.
+See
+id.
+at 139 (§ 12).
+Previous bills and substantial congressional testimony exempted, explicitly, the Patent Office
+from
+the APA’s generally uniform standards of review.
+See generally APA Legislative History
+at 22 (The Senate Judi-eiary Committee’s explanation of section
+5 of
+Senator MeCarran’s bill: “The exception of matters subject tó a subsequent trial of the law and the facts
+de novo
+in any court exempts such matters as ... the work of the Patent Office (since judicial proceedings may be brought -to try out the right to a patent).”);
+id.
+at 332
+(statement of Allen Moore: “[The second of two exemptions in section 4] rules out such matter as ... the work of the Patent Office (since judicial proceedings may be brought to try out the right to a patent).”); MeCarran-Sumners Bill, S. 7, H.R. 1203, 79th Cong., § 9 (1945) (excluding Patent Office from judicial review chapter when the bill was first introduced);
+Administrative Procedure: Hearings Before a Sub-comm. of the Comm, on the Judiciary, United States Senate on S. 674, S. 675, and S. 918,
+77th Cong., at 20 (1941) (S.675, § 301(f) expressly exempted matters relating to the patent and trademark laws);
+id.
+at 620
+(Con-der C. Henry, Assistant Commissioner of Patents, testifying: “We accordingly strongly recommend that any bill reported out of this committee exempt by express terms the Patent Office from the main provision.”); Walter-Logan Bill, S. 915, H.R. 6324, 76th Cong. (1939) (President Roosevelt vetoed H.R. 6324,
+see
+H.R. Doc. No. 986, at 4 (1940), pending a report from the Attorney General’s Committee on Administrative Procedure; section 7(b) of the resolution exempted,
+inter alia,
+“any matter concerning or relating to ... patent, trademark, copyright____”). These explicit exemptions make the absence of similar language from both the APA and the Attorney General’s Manual instructive, even more so considering that Congress adopted the APA unanimously despite numerous compromises.
+Cf. Wong Yang Sung v. McGrath,
+339 U.S. 33
+, 40,
+70 S.Ct. 445
+, 450,
+94 L.Ed. 616
+(1950) (“The Act thus represents a long period of study and strife; it settles long-continued and hard-fought con
+*1452
+tentions, and enacts a formula upon which opposing social and political forces have come to rest. It contains many compromises and generalities and, no doubt, some ambiguities.”).
+This history suggests that Congress drafted the APA to apply to agencies generally, but that because of existing common law standards and the availability of trial
+de novo
+pursuant to section 4915 of the Revised Statutes, the predecessor of
+35 U.S.C. § 145
+, Congress did not intend the APA to alter the review of substantive Patent Office decisions. The Commissioner’s current argument — that by removing language excluding the Patent Office from the McCarran-Sumners Bill, Congress intended courts to review board adjudications under the APA’s substantial evidence or arbitrary and capricious standards — is less persuasive in light of these contemporaneous reports from the members of Congress and from Attorney General Clark. Rather, it is more likely that Congress viewed an explicit exception for the Patent Office as redundant in light of the “otherwise recognized by law” exception,
+5 U.S.C. § 559
+, the
+de novo
+review exception, section 554(a)(1), or both. Such an interpretation would be consistent with the decision of the aforementioned Attorney General’s Committee on Administrative Procedure not to study the highly specialized procedures of the Patent Office in preparing its report.
+See, e.g., Hearings on S. 674, S. 675, and S. 918, supra
+at 620, 1212-13 (statements of Conder C. Henry and - Harold T. Stowell).
+From this background, we construe section 559 as freeing Patent and Trademark Office patentability decisions from judicial review under standards enumerated by sections 706(2)(A) (arbitrary or capricious standard applied to informal agency proceedings) and 706(2)(E) (substantial evidence standard applied to formal agency proceeding), to the extent that a statutory or common law standard was a more searching standard and hence an additional requirement recognized prior to 1947 that has not since been statutorily modified. Thus, the portion of section 559 stating that the judicial review provisions of the Act were not meant to “limit or repeal additional requirements ... recognized by law” is best understood as preserving those standards of judicial review that had evolved as a matter of common law, rather than compelling that all such standards of review be displaced by the new statute. This construction preserves the benefits derived from the symbiotic relationship between judicially constructed common law and congressionally fashioned statutory law in the area of judicial review.
+See, e.g.,
+5 Kenneth Culp Davis, Administrative Law Treatise 332, § 29, 1 (2d ed. 1984) (“Although the law of scope of review is a mixture of judge-made law with statutes, almost all the statutes have their origin in judicial thinking. For instance, § 706 of the Administrative Procedure Act ... is basically a codification of law created by courts.”). It also respects congressionally established limits on the creation of new common law in the area of judicial review, after 1947, as manifested by Congress’ choice to exclude the “otherwise recognized by law” exception from the final sentence of
+5 U.S.C. § 559
+: “Subsequent statute may not be held to supersede or modify this subchapter [and] chapter 7 ..., except to the extent that it does so expressly.” In adopting this construction, we deny the Commissioner’s argument that the “otherwise recognized by law” language in section 559 requires that a single, clearly labeled standard of review was recognized before 1947.
+III.
+What kind of judicial review of Patent Office board fact finding did the common law recognize prior to 1947, and what did or do patent statutes require? It would be disingenuous to suggest that the courts employed a uniform standard of review prior to 1947. Because the reasons for this ambiguity come as much from the birth of new principles referred to by Cardozo in
+The Nature of the Judicial Process
+166-67 (1921), as they do from the historical development of our patent statutes,
+see
+Oliver Wendell Holmes,
+The Common Law
+33 (M. Howe ed. 1963) (“The history of what the law has been is necessary to the knowledge of what the law is.”), we can recognize a standard only by studying the history of the cases and the patent statutes upon which they rely.
+*1453
+The first patent act gave the Secretary of State, the Secretary of War, and the Attorney General the authority to examine and issue patents.
+See
+Act of April 10, 1790, ch. 7, § 1,
+1 Stat. 109
+, 109-10. There was no provision for an appeal from the decision of these Commissioners for the Promotion of Useful Arts. In 1793, Congress eliminated the examination of patents and directed that they be issued when the formal technical requirements, which were enumerated by statute, had been met.
+See
+Act of Feb. 21, 1793, ch. 11, §§ 3, 12,
+1 Stat. 318
+-23. Congress gave the district courts responsibility for striking down invalid patents.
+See
+id.
+at 323 (§ 10). The act also provided for a three-member panel to arbitrate interfering applications, with one member suggested by each party and the third by the Secretary of State.
+See
+id.
+at 322-23(§ 9). However, the act provided no standards or processes by which an applicant could secure review when the application was determined not to meet the formal technical requirements.
+By the Act of July 4,1836, Congress created an examination system for issuing patents.
+See
+Act of July 4, 1836, ch. 357,
+5 Stat. 117
+. This act established a Patent Office, which it attached to the Department of State.
+See
+id.
+at 117 — 18(§ 1). The act also created a presidentially appointed Commissioner of Patents to decide,
+inter alia,
+questions of patentability, and a three-member board of examiners appointed by the Secretary of State to hear
+ex parte
+appeals from those whose applications the Commissioner denied.
+See
+id.
+at 119-20(§ 7). A party aggrieved by the outcome of an interference proceeding could “have remedy by bill in equity” in a United States court.
+Id.
+at 123-24 (§ 16). However, there was no appeal available from the decision of the board of examiners. In 1839, Congress first provided for review of patentability determinations of the Commissioner through a bill in equity to the Chief Justice of the District of Columbia, instead of review by the board of examiners.
+See
+Act of March 3, 1839, ch. 88, §§ 10, 11,
+5 Stat. 353
+, 354.
+In 1861, Congress provided for presidential appointment of three examiners-in-chief to consider appeals from an examiner’s denial of a patent “for the purpose of securing greater uniformity of action in the grant and refusal of letters-patent.” Act of March 2, 1861, eh. 88, § 2,
+12 Stat. 246
+. The Commissioner of Patents heard appeals from this board, and then, as provided by the 1839 Act, the Chief Justice of the District of Columbia heard appeals from the Commissioner.
+See
+id.
+If unsuccessful in either venue, an applicant could still bring an action in equity in a federal district court. However, neither the 1839 nor the 1861 acts articulated the standard of review to be used by these courts.
+The Act of July 8, 1870, ch. 230 § 1,
+16 Stat. 198
+, attached the Patent Office to the Department of the Interior. This act directed review of the examiners’ patentability determinations to the examiners-in-chief (§ 46), from there to the Commissioner (§ 47), and then to the supreme court of the District of Columbia, sitting in banc (§ 48). If the Commissioner or the supreme court of the District of Columbia refused to grant a patent, applicant could seek a remedy by bill in equity.
+See
+id.
+(§ 52). This act also provided for review of the supreme court of the District of Columbia in the Supreme Court of the United States for any action “touching patent rights.”
+Id.
+(§ 56). However, despite this elaborate review ladder, the act set out no standard for reviewing patentability determinations.
+Reviewing a decision made under the authority of the 1870 act, the Supreme Court stated:
+Upon principle and authority, therefore, it must be laid down as a rule that, where the question decided in the patent office is one between contesting parties as to priority of invention, the decision there made must be accepted as controlling upon that question of fact in any subsequent suit between the same parties, unless the contrary is established by testimony which in character and amount carries thorough conviction. Tested by that rule, the solution on this controversy is not difficult. Indeed, the variety of opinion expressed by the different officers who have examined this testimony is persuasive that the question of priority is doubtful, and, if doubtful,
+*1454
+the decision of the patent office must control.
+Morgan v. Daniels,
+153 U.S. 120
+, 125,
+14 S.Ct. 772
+, 773-74,
+38 L.Ed. 657
+(1894) (review of Patent Office’s interference decision under § 4915, Revised Statutes, predecessor to
+35 U.S.C. § 146
+). In concluding, the Court stated: “It is enough to say that the testimony as a whole is not of a character or sufficient to produce a clear eonvietion[
+4
+] that the Patent Office made a mistake____”
+Id.
+at 129
+,
+14 S.Ct. at 775
+.
+Following
+Morgan,
+the Court of Appeals for the District of Columbia reversed the Commissioner’s decision only if it was manifestly wrong,
+see, e.g., Hopkins v. Riegger,
+262 F. 642
+, 643 (D.C.Cir.1920) (interference);
+Lindmark v. Hodgkinson,
+31 App. D.C. 612
+, 614 (1908) (interference), where the error was manifest or palpable;
+see, e.g., Bonine v. Bliss,
+259 F. 989
+, 989-90 (D.C.Cir.1919) (interference);
+Podlesak v. McInnerney,
+26 App.D.C. 399
+, 405, 408 (1906) (interference), or in a very clear case,
+In re Barratt,
+11 App.D.C. 177
+, 179 (1897) (“[W]hile the appellant’s device commends itself to our favorable consideration and may upon a judicial investigation, wherein proof is more fully supplied and the condition of the art more clearly set forth, be found entitled to the merit of patentable novelty, we should hesitate in this
+ex parte
+proceeding to reverse the concurrent decisions of all the tribunals of the Patent Office.”).
+In 1925, Congress moved the Patent Office to the Department of Commerce,
+see
+Act of March 4, 1925, ch. 1, § 1,
+44 Stat. 1165
+, and in 1927, conjoined the review functions of the examiners-in-chief and the adjudicatory authority of the Commissioner, thereby eliminating appeals from the former to the latter,
+see
+Act of March 2, 1927, ch. 273, § 3,
+44 Stat. 1335
+, 1335-36. The 1927 act gave the Commissioner authority to choose the three-member board, called the Board of Appeals, that would review patentability decisions.
+See
+id.
+It also provided dissatisfied applicants with appeal rights to the Court of Appeals of the District of Columbia, in which case the applicants could not seek remedy by bill in equity under section 4915 of the Revised Statutes.
+See
+id.
+at 1336(§ 8). Two years later, Congress created the Court of Customs and Patent Appeals (CCPA), splicing jurisdiction from the Court of Appeals for the District of Columbia over patent and trademark appeals from the Patent Office together with the jurisdiction of the Court of Customs Appeals over customs cases.
+See
+Act of March 2, 1929, ch. 488, §§ 1, 2,
+45 Stat. 1475
+, 1475-76. However, like the Acts of 1870 and 1927, the Act of 1929 did not speak to the standard of review over factual findings of the Patent Office.
+Asked to report one common law standard of review used by the courts vested with appellate jurisdiction over factual findings from the Patent Office, the cases author no clear answer. Their language is too ambiguous either because Congress and the Patent Office frequently tested new appellate structures, because the courts could not foresee the question presently before us, or — like many of our own cases — the application of a different standard of review would not have affected the outcome. The cases articulate various standards or methods of review, including the clear error standard, each of which requires more rigorous review than is required by the APA.
+See, e.g., Rodli v. Phillippi,
+33 C.C.P.A. 865
+,
+154 F.2d 139
+, 140,
+69 USPQ 97
+, 99 (CCPA 1946) (“most cogent evidence of mistake and miscarriage of justice” in fact finding of Board of Interference Examiners);
+Mantz v. Jackson,
+31 C.C.P.A. 824
+,
+140 F.2d 161
+, 164,
+60 USPQ 329
+, 334 (CCPA 1944) (appellant given “heavy burden to show that the concurring decisions [of primary examiner and Board of Interference Examiners] are erroneous”);
+Jardine v. Long,
+19 C.C.P.A. 1243
+,
+58 F.2d 836
+, 836 (CCPA 1932) (“[T]his court ... refuses to disturb decisions of the tribunals below [primary examiner and Board of Interference Examiners] upon findings of fact, unless fully convinced that such findings are not in accord with the weight of the evidence when
+*1455
+such evidence is fairly weighed and construed.”).
+The manifest error standard, even if more deferential than the modern clear error standard as the Commissioner argues, clearly contemplates judicial review on more than just the board’s own reasoning.
+See, e.g., Ranney v. Bridges,
+38 C.C.P.A. 1044
+,
+188 F.2d 588
+, 596,
+89 USPQ 419
+, 427 (CCPA 1951) (“It will be understood that in considering allegations of error as to findings of fact made by the tribunals of the Patent Office this court follows the proper and well established practice of appellate courts in refusing to reverse such findings unless we are convinced from our own study of the record that the findings are manifestly wrong because against the weight of the evidence.”) Because of the recognized similarity in the meanings of the words “manifest” and “clear,” and the similarity in the character of review they contemplate, we consider the manifest error standard to be at least a close cousin of the clear error standard. The CCPA also appears to have reviewed Patent Office fact findings “where it seemed proper,”
+In re Christmann,
+27 C.C.P.A. 708
+,
+107 F.2d 607
+, 609 (CCPA 1939),
+de novo, see Townsend v. Smith,
+17 C.C.P.A. 647
+,
+36 F.2d 292
+, 294 (CCPA 1929) (choosing not to apply the rule “that it must clearly and affirmatively appear that there has been some oversight, or mistake, or wrong construction of material facts ... to justify this court in reversing the decision appealed from” because all three tribunals of the Patent Office differed “in their views as to what this evidence shows”),
+5
+and for material error,
+see Zublin v. Pickin,
+21 C.C.P.A. 1097
+,
+70 F.2d 732
+, 733 (CCPA 1934);
+Clancy v. De John,
+17 C.C.P.A. 714
+,
+36 F.2d 131
+, 132 (CCPA 1929).
+In stark contrast to the frequency with which the early cases used some review standard similar to clear error, these same cases appear not to have used the substantial evidence standard, which was applied by the Court to agency action in
+Illinois Central Railroad Co. v. ICC,
+206 U.S. 441
+, 454, 466,
+27 S.Ct, 700
+, 704, 709,
+51 L.Ed. 1128
+(1907). Nor have the patent cases used the arbitrary and capricious standard, which the Court applied to agency action in
+United States ex rel. Ness v. Fisher,
+223 U.S. 683
+, 691, 694,
+32 S.Ct. 356
+, 357-58, 359,
+56 L.Ed. 610
+(1912). Following Congress’ enactment of the APA, the CCPA continued to review Patent Office decisions as it had done before 1947, without a clearly articulated standard of review.
+See, e.g., Harris v. Clifford,
+53 C.C.P.A. 1463
+,
+363 F.2d 922
+, 924,
+150 USPQ 630
+, 632 (CCPA 1966) (following
+Rodli, supra,
+'in applying the “most cogent evidence of mistake” standard);
+Johns-Manville Corp. v. Ladd,
+328 F.2d 563
+, 563,
+140 USPQ 362
+, 363 (D.C.Cir.1964) (Patent Office findings will not be overturned “unless clearly infected with error”).
+In ■ 1952, Congress repealed prior patent laws and extensively revised them.
+See
+Act of July 19, 1952, Pub.L. No. 593, ch. 950,
+66 Stat. 792
+, 815, § 293, sec. 5 (1952 Patent Act). Though this act provided for the form and venue of judicial review of board adjudication,
+see
+id.,
+(§§ 141, 145-46), 66 Stat. at 802-03, like its predecessors it did not provide a standard of review, nor did it suggest that the CCPA’s standard of review be altered in light of or despite the' APA, which Congress had enacted just five years earlier.
+See Fregeau v. Mossinghoff
+776 F.2d 1034
+,
+*1456
+1037,
+227 USPQ 848
+, 851 (Fed.Cir.1985) (“In the legislative history addressing the carryover of these procedures into the 1952 Patent Act, it is stated: ‘This group of sections [§§ 141-146] makes no fundamental change in the various appeals and other review of Patent Office action.’ ” (quoting 1952 U.S.C.C.AN. 2394, 2400)). Therefore, the 1952 Patent Act did not explicitly state a standard for the CCPA to use when reviewing factual findings of the Board of Appeals.
+In 1962, Congress amended section 135 of the 1952 Patent Act by adding subsection “(c).”
+See
+Act of October 15, 1962, Pub.L. No. 87-831,
+76 Stat. 958
+. In its third paragraph, this subsection provides for review of the Commissioner’s discretionary action in administering subsection 135(c) (settlement agreements in interference proceedings) under section 10 of the APA, which is codified in relevant part at Title 5, Chapter 7 of the United States Code. “The doctrine
+[expressio unis est exclusio alterius
+] instructs that where law expressly describes a particular situation to which it shall apply, an irrefutable inference must be drawn that what was omitted or excluded was intended to be omitted or excluded.”
+Lueders,
+111 F.3d at
+1576 n. 12, 42 USPQ2d at 1486 n. 12. This would suggest that Congress intended not to encumber other Patent Office 'proceedings, such as fact finding by the Board of Appeals, with the type of deferential review contemplated by section 10 of the APA.
+Congress changed the name of the Patent Office to the Patent and Trademark Office,
+see
+Act of January 2, 1975, Pub.L. No. 93-596, § 1, 88 Stat.1949, and passed the Federal Courts Improvement Act of 1982, which in part merged the CCPA with the United States Court of Claims to create this court and what is now the Court of Federal Claims,
+see
+Act of April 2, 1982, Pub.L. No. 97-164,
+96 Stat. 25
+. The 1982 act combined,
+inter alia,
+nationwide jurisdiction over appeals from district courts in eases arising under the patent laws,
+28 U.S.C. § 1295
+(a)(1), "with jurisdiction over direct appeals from the Patent and Trademark Office’s Board of Appeals and its Board of Patent Interferences,
+id.
+§ 1295(a)(4). An expressed purpose for doing so, similar to the purpose expressed in the Act of March 2, 1861, was to increase uniformity of decision-making in patent eases.
+See Panduit Corp. v. All States Plastic Mfg. Co.,
+744 F.2d 1564
+, 1573-74,
+223 USPQ 465
+, 470-71 (Fed.Cir.1984) (quoting S. Rep. Sess. No. 97-275 at 5,
+reprinted in
+1982 U.S.C.C.AN. 11, 15 and H.R.Rep. No. 97-312 at 23). The Federal Courts Improvement Act did not declare what standard of review this court should apply to decisions of the Board of Appeals. In 1984, Congress merged the Board of Appeals and the Board of Patent Interferences into the Board of Patent Appeals and Interferences.
+See
+Act of November 8, 1984, Pub.L. No. 98-622, § 201,
+98 Stat. 3383
+, 3386. Thus, after more than two hundred years of evolution, the board is composed of members including the Commissioner, deputy and assistant commissioners, and examiners-in-chief.
+See
+35 U.S.C. § 7
+(a). Panels of at least three board members selected by the Commissioner review twice-rejected or final decisions of a primary examiner,
+see
+37 C.F.R. § 1.191
+(1997), and can affirm or reverse on the grounds specified by the examiner, or remand to the examiner for further consideration with or without a new ground for rejection, or permit amendments.
+See
+id.
+§ 1.196(a)-(b). The board’s
+ex parte
+proceedings involving patentability are not recorded, nor are they “hearings on the record” within the meaning of
+5 U.S.C. § 554
+(requiring trial-type procedures and a reliance on a closed record).
+See Railroad Comm’n of Texas v. United States,
+765 F.2d 221
+, 227 (D.C.Cir.1985) (distinguishing hearings from hearings on the record).
+The proceedings rely on the technical expertise of board members,
+see
+37 C.F.R. § 1.196
+(b) (1997), they provide the option of an oral hearing,
+see
+id.
+§ 1.194(c) (twenty minutes for appellant and fifteen for primary examiner) though no live testimony is taken, they are conducted largely in confidence,
+see
+35 U.S.C. § 122
+, they do not prohibit consideration of materials beyond the record,
+see
+37 C.F.R. § 1.196
+(b), and they are conducted under considerable time constraints. The examiners-in-chief operate under their authority as experienced patent examiners, with “competent legal knowledge and scientific ability,”
+35 U.S.C. § 7
+, rather than under
+*1457
+the discretionary adjudicatory authority delegated to the Commissioner.
+Although the APA does not explicitly exempt the Patent and Trademark Office from its standards of review, and we have reviewed certain actions of the Commissioner in the exercise of his discretionary duties according to APA requirements,
+see, e.g., Ray v. Lehman,
+55
+F.3d 606
+, 608,
+34 USPQ2d 1786
+, 1787 (Fed.Cir.1995) (denial of petition to reinstate patent for failure to pay maintenance fee properly reviewed by district court under APA’s abuse of discretion standard);
+Morganroth v. Quigg,
+885 F.2d 843
+, 846,
+12 USPQ2d 1125
+, 1126-27 (Fed.Cir.1989) (refusal to revive application properly reviewed by district court under APA’s arbitrary, capricious, abuse of discretion standard);
+Heinemann v. United States,
+796 F.2d 451
+, 453-54,
+230 USPQ 430
+, 433-34 (Fed.Cir.1986) (award of patent to United States instead of employee properly reviewed by Claims' Court under APA’s arbitrary, capricious, abuse of discretion standards), we have not held the board’s patentability decisions to the requirements of
+5 U.S.C. §§ 554
+(adjudications other than those subject to
+de novo
+review), 556 (hearings required by §§ 552-54), or 557 (decisions when hearings are required by 556). Since the creation of this court, we have consistently applied the clearly erroneous standard when reviewing factual findings of the board.
+See, e.g., Lueders,
+111 F.3d at 1571
+, 42 USPQ2d at 1482 (Fed.Cir.1997) (clear error review of what a prior art reference teaches or suggests);
+Mac Dermid,
+111 F.3d at 890-91
+, 42 USPQ2d at 1480 (Fed.Cir.1997) (denying request for in banc hearing for reason stated in Kemps);
+In re Mayne,
+104 F.3d 1339
+, 1341,
+41 USPQ2d 1451
+, 1453 (Fed.Cir.1997) (clear error review of facts underlying obviousness determination);
+Kemps,
+97 F.3d at 1429, 1430-31
+, 40 USPQ2d at 1312-13 (upholding board’s fact finding under less deferential standard of review obviated need for deciding propriety of using the APA standards);
+In re Baxter Travenol Labs.,
+952 F.2d 388
+, 390,
+21 USPQ2d 1281
+, 1283 (Fed.Cir.1991) (clear error review of board’s factual finding of anticipation);
+In re Caveney,
+761
+F.2d 671
+, 674,
+226 USPQ 1
+, 3 (Fed.Cir.1985) (clear
+error
+review of on-sale factual findings of Board of Appeals);
+In re Wilder,
+736 F.2d 1516
+, 1520,
+222 USPQ 369
+, 372 (Fed.Cir.1984) (clear
+error
+review of Board of Appeal’s finding of inadequate description);
+In re De Blauwe,
+736 F.2d 699
+, 703,
+222 USPQ 191
+, 195 (Fed.Cir.1984) (first opinion of this court indicating that the clearly erroneous standard is applied to Board of Appeal fact finding).
+From this brief historical survey, we see that no patent statute speaks explicitly to the standard to be used when reviewing decisions of the board. But the common law recognized several standards prior to 1947, including clear error and its close cousins. Thus, we conclude that our more searching clear error standard of review is an “additional requirement” that was “recognized” in our jurisprudence before 1947, which we therefore continue to apply under the exception in section 559.
+IV.
+Our decision is buttressed by the principle of
+stare decisis.
+Courts do not set aside long-standing practices absent a substantial reason.
+See Arizona v. Rumsey,
+467 U.S. 203
+, 212,
+104 S.Ct. 2305
+, 2310,
+81 L.Ed.2d 164
+(1984) (“[A]ny departure from the doctrine of
+stare decisis
+demands special justification.”).
+See generally
+18 Moore’s Federal Practice § 134.06[l][a] (3d ed.1997). The principle of
+stare decisis
+is integral to our jurisprudence “because it promotes the evenhanded, predictable, and consistent development of legal principles, fosters reliance on judicial decisions, and contributes to the actual and perceived integrity of the judicial process.”
+Payne v. Tennessee,
+501 U.S. 808
+, 827,
+111 S.Ct. 2597
+, 2609,
+115 L.Ed.2d 720
+(1991).
+Stare decisis,
+moreover, has “special force in the area of statutory interpretation, for here .. .the legislative power is implicated, and Congress remains free to alter what we have done.”
+Patterson v. McLean Credit Union,
+491 U.S. 164
+, 172-73,
+109 S.Ct. 2363
+, 2370,
+105 L.Ed.2d 132
+(1989).
+In
+Patterson,
+the Court provided guidance about when prior decisions may be overruled:
+In cases where statutory precedents have been overruled, the primary reason
+*1458
+for the Court’s shift in position has been the intervening development of the law, through either the growth of judicial doctrine or further action taken by Congress. Where such changes have removed or weakened the conceptual underpinnings from the prior decision, or where the later law has rendered the decision irreconcilable with competing legal doctrines or policies, the Court has not hesitated to overrule an earlier decision.
+iff
+# * * * sfc
+Another traditional justification for overruling a prior case is that a precedent may be a positive detriment to coherence and consistency in the law, either because of inherent confusion created by an unworkable decision, or because the decision poses a direct obstacle to the realization of important objectives embodied in other laws.
+Finally, it has sometimes been said that a precedent becomes more vulnerable as it becomes outdated and after being tested by experience, has been found to be inconsistent with the sense of justice or with the social welfare.
+Id.
+at 173-74
+,
+109 S.Ct. at 2370-71
+(internal quotation marks and citations omitted).
+Just as we find no language in the APA, in patent statutes, or the legislative materials that report their respective codifications, suggesting that we should alter our standard of review, we also find no such direction in our decisions or those that preceded the establishment of this court. While it is unclear what prejudice might befall patentees and patent applicants were the standard to be changed, the Commissioner has made no suggestion that our current standard of review is unworkable, intolerable, prejudicial, burdensome, or even that it adversely affects the administration of the patent system. The standard has not become a doctrinal anachronism, nor have the premises underlying it changed to make it irrelevant or unjustifiable — it is very much alive and in use throughout the legal system. Absent a reason to deviate from our settled practice of reviewing factual findings of the board’s pat-entability determinations for clear error, we sustain the present standard of review. Our interpretation of section 559 of the APA permits this choice, because no statute speaks directly to a required standard, and review for clear error was certainly recognized in the cases — though perhaps not exclusively or intentionally — before 1947.
+We believe that altering this standard, absent compelling reason to do so, replaces the very rule of law our jurisprudential system was created to promote with the erratic and arbitrary decisions of men that can only undermine the public’s confidence. We also believe the premises underlying review for clear error justify its use in these circumstances. The Commissioner has suggested that imposing APA review on board decisions will not have much of an effect on the substance of those decisions. By making it clear that we review factual findings for clear error, and thereby review board decisions on our own reasoning, we hope the board understands that we are more likely to appreciate and adopt reasoning similar to its reasoning when it is both well articulated and sufficiently founded on findings of fact.
+See Gechter v. Davidson,
+116 F.3d 1454
+, 1457-59,
+43 USPQ2d 1030
+, 1032-35 (Fed.Cir.1997). This should encourage administrative records that more fully describe the metes and bounds of the patent grant than would a more deferential standard of review.
+Cf. Warner-Jenkinson Co. v. Hilton Davis Chemical Co.,
+520 U.S. 17
+, -,
+117 S.Ct. 1040
+, 1051,
+137 L.Ed.2d 146
+(1997) (“Where no explanation is established, however, the court should presume that the PTO had a substantial reason related to patentability for including the limiting element added by amendment. In those circumstances, prosecution history estoppel would bar the application of the doctrine [of] equivalents as to that element.”) It will preserve the confidence of inventors who have relied on this standard in prosecuting their patents. It will also promote consistency between our review of the patentability decisions of the board and the district courts in infringement litigation. Finally, it will help avoid situations where board fact finding on matters such as anticipation or the factual inquiries underlying obviousness become virtually unreviewable.
+*1459
+V.
+Section 559, alone, neither requires our continued application of the “clearly erroneous” standard of review to fact findings in board decisions nor precludes it. Although it was simply one of several standards discernible from the case law prior to the 1947 enactment of the APA, the clear error standard was nevertheless an “additional requirement[ ] ... recognized by law.” There is no indication that Congress intended to alter that standard in enacting the APA. None of the amendments to the Patent Act since 1947 have substituted another standard of review, or indicated that only the APA standards should apply. We have applied the clear error standard — and only this standard— consistently since the court’s genesis in 1982. Our ability to oversee complex legal determinations such as obviousness would be undermined if the board’s underlying factual determinations were reviewed more deferentially than for clear error. In view of all these considerations, we conclude that section 559 and
+stare decisis
+together justify our continued application of this heightened level of scrutiny to decisions by the board. Accordingly, the question posed in this rehearing in banc is answered in the negative, and the decision of the Board of Patent Appeals and Interferences is reversed for the reasons set out in the court’s opinion reported at
+111 F.3d 887
+(Fed.Cir.1997).
+REVERSED.
+1
+. This standard is often quantified as: "more than a mere scintilla. It means such relevant evidence as a reasonable mind might accept as adequate to support a conclusion.”
+Consolidated Edison Co. v. NLRB,
+305 U.S. 197
+, 229,
+59 S.Ct. 206
+, 217,
+83 L.Ed. 126
+(1938).
+2
+. Previously, the Commissioner has argued that the arbitrary and capricious standard found in section 706(2)(A) should be applied,
+see In re Kemps,
+97 F.3d at 1430
+, 40 USPQ2d at 1312, or that alternatively either standard can be applied,
+see In re Lueders,
+111 F.3d at 1575
+, 42 USPQ2d at 1485.
+3
+. While not binding on our interpretation of the judicial review requirements imposed by the APA, the Attorney General’s Manual provides persuasive historical evidence of the quality of review intended by the APA.
+See, e.g., Steadman
+v.
+SEC,
+450 U.S. 91
+, 102 n. 22,
+101 S.Ct. 999
+, 1008 n. 22,
+67 L.Ed.2d 69
+(1981) (giving deference because "Justice Clark was Attorney General both when the APA was passed and when the Manual was published”);
+Vermont Yankee Nuclear Power Corp. v. Natural Resources Defense Council, Inc.,
+435 U.S. 519
+, 546,
+98 S.Ct. 1197
+, 1213,
+55 L.Ed.2d 460
+(1978) (giving deference to "contemporaneous interpretation" of Attorney General’s Manual "because of the role played by the Department of Justice in drafting the legislation”).
+4
+. We have said that this clear or thorough conviction of mistake standard does not differ substantively from the clear error standard we use today.
+See Fregeau v. Mossinghoff,
+776 F.2d 1034
+, 1038,
+227 USPQ 848
+, 851 (Fed.Cir.1985).
+5
+. Townsend,
+and several cases cited
+infra,
+suggest that reviewing courts gave the Patent Office considerable deference when its various tribunals were in agreement, absent clear or manifest error in its fact finding. -Spine time in the early 1950s, courts ceased giving the Patent Office deference explicitly for this reason.
+See, e.g., Application of Schechter,
+40 C.C.P.A. 1009
+,
+205 F.2d 185
+, 188,
+98 USPQ 144
+, 148 (CCPA 1953) ("Concurrent findings of lack of inventive novelty by the Patent Office tribunals are not conclusive upon this court, but they are persuasive since those tribunals presumably are familiar with the art.");
+In re Kaufmann,
+39 C.C.P.A. 769
+,
+193 F.2d 331
+, 335,
+92 USPQ 141
+, 144 (CCPA 1951) ("We should like to note that if there were any doubt, the concurrent findings of obviousness or lack of invention by the tribunals of the Patent Office would be pershasive, although not conclusive, upon this court, since the Patent Office tribunals presumably are familiar with the advancement of the art.”). Thus, although today's deference to the Patent and Trademark Office may have grown out of a respect for its specialized nature and the unanimity of its factual determinations, lack of unanimity would no longer require that a less deferential review standard be applied — because we review only the decision of the board on the record before it.

@@ -1,0 +1,102 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-PDVVHXRDE6');
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+
+O’SULLIVAN V. BOERCKEL
+
+LII
+
+Supreme Court
+
+O’SULLIVAN V. BOERCKEL (97-2048) 
+
+135 F.3d 1194, reversed.
+
+Syllabus
+
+Opinion
+
+ [ O’Connor ]
+
+Concurrence
+
+ [ Souter ]
+
+Dissent
+
+ [ Stevens ]
+
+Dissent
+
+ [ Breyer ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See 
+United States
+ v. 
+Detroit Timber & Lumber Co
+., 
+200 U.S. 321
+, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+O’SULLIVAN 
+v.
+ BOERCKEL
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS  FOR THE SEVENTH CIRCUIT
+
+No. 97—2048.  Argued March 30, 1999–Decided June 7, 1999
+
+After respondent Boerckel’s state convictions were affirmed by the Illinois Appellate Court and the Illinois Supreme Court denied his petition for leave to appeal, he filed a federal habeas petition raising six grounds for relief.  In denying the petition, the District Court found, among other things, that Boerckel had procedurally defaulted his first three claims by failing to include them in his petition to the Illinois Supreme Court.  The Seventh Circuit reversed and remanded, concluding that Boerckel had not procedurally defaulted those claims because he was not required to present them in a petition for discretionary review to the Illinois Supreme Court in order to satisfy 
+28 U.S.C. § 2254
+(b)(1), (c), under which federal habeas relief is available to state prisoners only after they have exhausted their claims in state court.
+
+Held:
+  In order to satisfy the exhaustion requirement, a state prisoner must present his claims to a state supreme court in a petition for discretionary review when that review is part of the State’s ordinary appellate review procedure.  As a matter of comity, §2254(c)–which provides that a habeas petitioner “shall not be deemed to have exhausted [state court] remedies . . . if he has the right under [state] law . . . to raise, by any available procedure, the question presented”–requires that state prisoners give state courts a full and fair opportunity to resolve federal constitutional claims before those claims are presented to the federal courts.  See, 
+e.g.,
+
+Castille
+ v. 
+Peoples,
+
+489 U.S. 346
+, 351.  State prisoners must give the state courts one full opportunity to resolve any constitutional issues by invoking one complete round of the State’s established appellate review process.  Here, Illinois’s established, normal appellate review procedure is a two-tiered system: Most criminal appeals are heard first by the intermediate appellate courts, and a party may petition for leave to appeal a decision by the Appellate Court to the Illinois Supreme Court.  Whether to grant such a petition is left to the sound discretion of the Illinois Supreme Court, Ill. Sup. Ct. Rule 315(a).  Although a state prisoner has no right to 
+review
+ in the Illinois Supreme Court, he does have a “right . . . to raise” his claims before that court.  That is all §2254(c) requires.  Boerckel’s argument that Rule 315(a) discourages the filing of discretionary petitions raising routine allegations of error, and instead directs litigants to present to the Supreme Court only those claims that present questions of broad significance, is rejected.  Boerckel’s related argument, that a rule requiring state prisoners to file petitions for review with that court offends comity by inundating the Illinois Supreme Court with countless unwanted petitions presenting routine allegations of error, is also rejected.  There is nothing in the exhaustion doctrine requiring federal courts to ignore a state law or rule providing that a procedure is unavailable, but the creation of a discretionary review system does not, without more, make review in the Illinois Supreme Court unavailable.  As the time for filing a petition for leave to appeal to the Illinois Supreme Court has long past, Boerckel’s failure to present three of his federal habeas claims to that court in a timely fashion has resulted in a procedural default of those claims.  Pp. 4—10.
+
+135 F.3d 1194, reversed.
+
+    O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, and Thomas, JJ., joined.  Souter, J., filed a concurring opinion.  Stevens, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined.  Breyer, J., filed a dissenting opinion, in which Stevens and Ginsburg, JJ., joined.

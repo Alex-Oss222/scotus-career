@@ -1,0 +1,222 @@
+window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-PDVVHXRDE6');
+
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-1734385-15');
+
+CHICAGO V. MORALES
+
+LII
+
+Supreme Court
+
+CHICAGO V. MORALES (97-1121) 
+
+177 Ill. 2d 440, 687 N. E. 2d 53, affirmed.
+
+Syllabus
+
+Opinion
+
+ [ Stevens ]
+
+Concurrence
+
+ [ Opinion of O’Connor ]
+
+Concurrence
+
+ [ Kennedy ]
+
+Concurrence
+
+ [ Opinion of Breyer ]
+
+Dissent
+
+ [ Scalia ]
+
+Dissent
+
+ [ Thomas ]
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+HTML version
+
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See 
+United States
+ v. 
+Detroit Timber & Lumber Co
+., 
+200 U.S. 321
+, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CITY OF CHICAGO  
+v.
+  MORALES et al. 
+
+CERTIORARI TO THE SUPREME COURT OF ILLINOIS
+
+No. 97—1121.  Argued December 9, 1998–Decided June 10, 1999
+
+Chicago’s Gang Congregation Ordinance prohibits “criminal street gang members” from loitering in public places.  Under the ordinance, if a police officer observes a person whom he reasonably believes to be a gang member loitering in a public place with one or more persons, he shall order them to disperse.  Anyone who does not promptly obey such an order has violated the ordinance.  The police department’s General Order 92—4 purports to limit officers’ enforcement discretion by confining arrest authority to designated officers, establishing detailed criteria for defining street gangs and membership therein, and providing for designated, but publicly undisclosed, enforcement areas.  Two trial judges upheld the ordinance’s constitutionality, but eleven others ruled it invalid.  The Illinois Appellate Court affirmed the latter cases and reversed the convictions in the former.  The State Supreme Court affirmed, holding that the ordinance violates due process in that it is impermissibly vague on its face and an arbitrary restriction on personal liberties.
+
+Held:
+  The judgment is affirmed.
+
+177 Ill. 2d 440, 687 N. E. 2d 53, affirmed.
+
+    Justice Stevens delivered the opinion of the Court with respect to Parts I, II, and V, concluding that the ordinance’s broad sweep violates the requirement that a legislature establish minimal guidelines to govern law enforcement.  
+Kolender 
+v. 
+Lawson,
+
+461 U.S. 352
+, 358.  The ordinance encompasses a great deal of harmless behavior: In any public place in Chicago, persons in the company of a gang member “shall” be ordered to disperse if their purpose is not apparent to an officer.  Moreover, the Illinois Supreme Court interprets the ordinance’s loitering definition–“to remain in any one place with no apparent purpose”–as giving officers absolute discretion to determine what activities constitute loitering.  See 
+id.,
+ at 359.  This Court has no authority to construe the language of a state statute more narrowly than the State’s highest court.  See 
+Smiley
+ v. 
+Kansas,
+
+196 U.S. 447
+, 455.  The three features of the ordinance that, the city argues, limit the officer’s discretion–(1) it does not permit issuance of a dispersal order to anyone who is moving along or who has an apparent purpose; (2) it does not permit an arrest if individuals obey a dispersal order; and (3) no order can issue unless the officer reasonably believes that one of the loiterers is a gang member–are insufficient.  Finally, the Illinois Supreme Court is correct that General Order 92—4 is not a sufficient limitation on police discretion.  See 
+Smith
+ v. 
+Goguen,
+
+415 U.S. 566
+, 575.  Pp. 16—20. 
+
+      Justice Stevens, joined by Justice Souter and Justice Ginsburg, concluded in Parts III, IV, and VI:
+
+      1.  It was not improper for the state courts to conclude that the ordinance, which covers a significant amount of activity in addition to the intimidating conduct that is its factual predicate, is invalid on its face.  An enactment may be attacked on its face as impermissibly vague if, 
+inter alia, 
+it fails to establish standards for the police and public that are sufficient to guard against the arbitrary deprivation of liberty.  
+Kolender
+ v. 
+Lawson,
+ 461 U.S., at 358.  The freedom to loiter for innocent purposes is part of such “liberty.”  See, 
+e.g.,
+
+Kent
+ v. 
+Dulles,
+
+357 U.S. 116
+, 126.  The ordinance’s vagueness makes a facial challenge appropriate.  This is not an enactment that simply regulates business behavior and contains a scienter requirement.  See 
+Hoffman Estates
+ v.
+ Flipside, Hoffman Estates, Inc.,
+
+455 U.S. 489
+, 499.  It is a criminal law that contains no 
+mens rea
+ requirement, see 
+Colautti 
+v. 
+Franklin
+, 
+439 U.S. 379
+, 395, and infringes on constitutionally protected rights, see 
+id.
+, at 391.  Pp. 7—12.
+
+      2.  Because the ordinance fails to give the ordinary citizen adequate notice of what is forbidden and what is permitted, it is impermissibly vague.  See, 
+e.g.,
+
+Coates
+ v. 
+Cincinnati,
+
+402 U.S. 611
+, 614.  The term “loiter” may have a common and accepted meaning, but the ordinance’s definition of that term–“to remain in any one place with no apparent purpose”–does not.  It is difficult to imagine how any Chicagoan standing in a public place with a group of people would know if he or she had an “apparent purpose.”  This vagueness about what loitering is covered and what is not dooms the ordinance.  The city’s principal response to the adequate notice concern–that loiterers are not subject to criminal sanction until after they have disobeyed a dispersal order–is unpersuasive for at least two reasons.  First, the fair notice requirement’s purpose is to enable the ordinary citizen to conform his or her conduct to the law.  See 
+Lanzetta
+ v. 
+New Jersey,
+
+306 U.S. 451
+, 453.  A dispersal order, which is issued only after prohibited conduct has occurred, cannot retroactively provide adequate notice of the boundary between the permissible and the impermissible applications of the ordinance.  Second, the dispersal order’s terms compound the inadequacy of the notice afforded by the ordinance, which vaguely requires that the officer “order all such persons to disperse and remove themselves from the area,” and thereby raises a host of questions as to the duration and distinguishing features of the loiterers’ separation.  Pp. 12—16.
+
+      Justice O’Connor, joined by Justice Breyer, concluded that, as construed by the Illinois Supreme Court, the Chicago ordinance is unconstitutionally vague because it lacks sufficient minimal standards to guide law enforcement officers; in particular, it fails to provide any standard by which police can judge whether an individual has an “
+apparent
+ purpose.”  This vagueness alone provides a sufficient ground for affirming the judgment below, and there is no need to consider the other issues briefed by the parties and addressed by the plurality.      It is important to courts and legislatures alike to characterize more clearly the narrow scope of the Court’s holding.  Chicago still has reasonable alternatives to combat the very real threat posed by gang intimidation and violence, including, 
+e.g.,
+ adoption of laws that directly prohibit the congregation of gang members to intimidate residents, or the enforcement of existing laws with that effect.  Moreover, the ordinance could have been construed more narrowly to avoid the vagueness problem, by, 
+e.g.,
+ adopting limitations that restrict the ordinance’s criminal penalties to gang members or interpreting the term “apparent purpose” narrowly and in light of the Chicago City Council’s findings.  This Court, however, cannot impose a limiting construction that a state supreme court has declined to adopt.  See, 
+e.g.,
+
+Kolender
+ v. 
+Lawson,
+
+461 U.S. 352
+, 355—356, n. 4.  The Illinois Supreme Court misapplied this Court’s precedents, particularly 
+Papachristou
+ v. 
+Jacksonville
+, 
+405 U.S. 156
+, to the extent it read them as 
+requiring
+ it to hold the ordinance vague in all of its applications.  Pp. 1—5. 
+
+      Justice Kennedy concluded that, as interpreted by the Illinois Supreme Court, the Chicago ordinance unconstitutionally reaches a broad range of innocent conduct, and, therefore, is not necessarily saved by the requirement that the citizen disobey a dispersal order before there is a violation.  Although it can be assumed that disobeying some police commands will subject a citizen to prosecution whether or not the citizen knows why the order is given, it does not follow that any unexplained police order must be obeyed without notice of its lawfulness.  The predicate of a dispersal order is not sufficient to eliminate doubts regarding the adequacy of notice under this ordinance.  A citizen, while engaging in a wide array of innocent conduct, is not likely to know when he may be subject to such an order based on the officer’s own knowledge of the identity or affiliations of other persons with whom the citizen is congregating; nor may the citizen be able to assess what an officer might conceive to be the citizen’s lack of an apparent purpose.  Pp. 1—2.
+
+      Justice Breyer concluded that the ordinance violates the Constitution because it delegates too much discretion to the police, and it is not saved by its limitations requiring that the police reasonably believe that the person ordered to disperse (or someone accompanying  him) is a gang member, and that he remain in the public place “with no apparent purpose.”  Nor does it violate this Court’s usual rules governing facial challenges to forbid the city to apply the unconstitutional ordinance in this case.  There is no way to distinguish in the ordinance’s terms between one application of unlimited police discretion and another.  It is unconstitutional, not because a policeman applied his discretion wisely or poorly in a particular case, but rather because the policeman enjoys too much discretion in 
+every
+ case.  And if every application of the ordinance represents an exercise of unlimited discretion, then the ordinance 
+is
+ invalid in all its applications.  See 
+Lanzetta
+ v. 
+New Jersey,
+
+306 U.S. 451
+, 453.  Contrary to Justice Scalia’s suggestion, the ordinance does not escape facial invalidation simply because it may provide fair warning to some individual defendants that it prohibits the conduct in which they are engaged.  This ordinance is unconstitutional, not because it provides insufficient notice, but because it does not provide sufficient minimal standards to guide the police.  See 
+Coates
+ v. 
+Cincinnati,
+
+402 U.S. 611
+, 614.  Pp. 1—5.
+
+    Stevens, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, and V, in which O’Connor, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined, and an opinion with respect to Parts III, IV, and VI, in which Souter and Ginsburg, JJ., joined.  O’Connor, J., filed an opinion concurring in part and concurring in the judgment, in which Breyer, J., joined.  Kennedy, J., and Breyer, J., filed opinions concurring in part and concurring in the judgment.  Scalia, J., filed a dissenting opinion.  Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and  Scalia, J., joined.

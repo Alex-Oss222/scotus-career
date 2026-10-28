@@ -1,0 +1,4036 @@
+971985 ww 9 1998 
+
+
+No. OFFICE OF THE CLERK 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+ELLIS E. NEDER, JR., PETITIONER, 
+Vv. 
+
+
+UNITED STATES, RESPONDENT. 
+
+
+Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Eleventh Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+NOEL G. LAWRENCE JAVIER H. RUBINSTEIN 
+Law Offices of Counsel of Record 
+Noel G. Lawrence, P.A. GARY S. FEINERMAN 
+100 Riverside Avenue ROBERT M. Dow, JR. 
+Jacksonville, Florida 32202 KASPAR J. STOFFELMAYR 
+(904) 733-1237 Mayer, Brown & Platt 
+
+
+190 South LaSalle Street 
+Chicago, Illinois 60603 
+(312) 782-0600 
+
+
+Counsel for Petitioner 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+Petitioner was convicted of mail, wire, bank and tax fraud 
+in violation of 18 U.S.C. §§ 1341, 1343, 1344, and 26 U.S.C. 
+§ 7206(1). The trial court, over defense counsel’s timely 
+objection, instructed the jury that it “need not consider” 
+whether petitioner’s allegedly fraudulent representations and 
+omissions were material because materiality “is not a question 
+for the jury to decide.” Instead of submitting the materiality 
+question to the jury, the trial court entered its own judicial 
+finding that the alleged representations and omissions were 
+material. On appeal, the Eleventh Circuit held that, as to the tax 
+fraud counts, the district court’s removal of materiality from the 
+jury’s consideration was constitutional error under United States 
+v. Gaudin, 515 U.S. 506 (1995). However, the court concluded 
+that the error was “harmless” because “materiality was not in 
+dispute with respect to Neder’s tax fraud offense.” As to the 
+mail, wire and bank fraud counts, the Eleventh Circuit held that 
+the district court’s removal of materiality from the jury’s 
+consideration was not erroneous under Gaudin since materiality 
+is not an element of any of those statutory offenses. 
+
+
+The questions presented are: 
+
+
+1. | Whether the complete removal of an essential 
+element of a charged offense from the jury’s consideration is 
+subject to harmless-error review. 
+
+
+2. Whether materiality is an element of the crimes set 
+forth in the federal mail fraud (18 U.S.C. § 1341), wire fraud 
+(18 U.S.C. § 1343) and bank fraud (18 U.S.C. § 1344) 
+statutes. 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESSOR LED 2c ct te wee ene een i 
+OPEIGRNee ASW | oo 0 6s 0s 0 ee 6 68 ee eee l 
+FOE GE as 0 0b ves wen 66k ee ee eee l 
+STATUTORY AND CONSTITUTIONAL 
+PROVISIONS INVOLVED ......-.--ceeee0: 2 
+STATHRGINE 9.0 cv csecs ve bees ee a hee eee 2 
+REASONS FOR GRANTING THE PETITION ........ 9 
+
+
+I, THE COURT OF APPEALS’ HOLDING THAT 
+GAUDIN' ERRORS ARE SUBJECT TO 
+HARMLESS-ERROR REVIEW CONFLICTS 
+WITH DECISIONS OF OTHER CIRCUITS AND 
+STATE COURTS OF LAST RESORT. ......... 9 
+
+
+A. The Courts of Appeals Are Deadlocked As 
+To Whether Gaudin Errors Are Subject To 
+Harmiess-Error Review .........-.+.++> 10 
+
+
+B. The Court of Appeals’ Holding Squarely 
+Conflicts With This Court’s Harmless-Error 
+Decisions 2. hee ee 15 
+
+
+ll. THE ELEVENTH CIRCUIT'S HOLDING THAT 
+MATERIALITY IS NOT AN ELEMENT OF THE 
+FEDERAL MAIL, WIRE AND BANK FRAUD 
+STATUTES CONFLICTS WITH DECISIONS OF 
+OTHER CIRCUITS AND OF THIS COURT. .... 20 
+
+
+A. The Courts of Appeals Are Deeply Split As 
+To Whether Materiality Is An Element Of 
+Federal Mail, Wire And Bank Fraud... .. . 20 
+
+
+B. The Court Of Appeals’ Materiality Holding 
+Is Contrary To This Court’s Statutory And 
+Common Law Decisions That Consistently 
+Have Found Materiality To Be An Essential 
+EE ee 26 
+
+
+aa ile ale 4 6.0 ot bod 0 06 0 0 owes 30 
+
+
+iv 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Abell v. Potomac Ins. Co. , 858 F.2d 1104 
+GE A is te ewes dine Obs 6 a dis 21 
+Agency Holding Corp. v. Malley-Duff & Assocs., Inc., 
+ee ee coke wtn new eed sees 25 
+Basic, Inc. v. Levinson, 485 U.S. 224 (1988) ....... 28 
+BMW v. Gore, 517 U.S. 559 (1996) ............. 28 
+Bilzerian v. United States, 172 F.3d 237 
+Pe: GEA wv Glaielat' ace 4a a i a owes 6, 10 
+Bollenbach v. United States, 326 U.S. 607 (1946) .... 16 
+California v. Roy, 117 S. Ct. 337 (1996) .... 16, 18, 19 
+Carella v. California, 491 U.S. 263 (1989) ... 16, 17, 18 
+Carpenter v. Commonwealth, 771 S.W.2d 822 
+Gy. Ge Bir 0 8 6608'S Fee EVE TE 'c es 12 
+Carpenter v. United States, 484 U.S. 19 (1987) . . . . 25, 27 
+Central Distribs. of Beer v. Conn, 5 F.3d 181 
+Se 6 Fad weer baie eee aa os 21 
+Chapman v. California, 386 U.S. 18 (1967) ..... >» Fe OB 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+
+Commonwealth v. Tharp, 541 A.2d 14 
+
+SP Cn. sti evbsedvcttccuace 13 
+Commonwealth v. Thomas, 514 N.E.2d 1309 
+
+EE Lae ee ee ee 12 
+Connecticut v. Johnson, 460 U.S. 73 (1983) ........ 17 
+Crandon v. United States, 494 U.S. 152 (1990) ...... 25 
+Dawson v. State, 894 P.2d 672 
+
+EL UN SE Fh Siive widw oo 66's 13 
+Duriand v. United States, 161 U.S. 306 (1896) ...... 27 
+
+
+Hammerschmidt v. United States, 265 U.S. 182 (1924) . 27 
+
+
+Hennessy v. Goldsmith, 929 F.2d 511 
+Ah s wlald wh is wacbin Sn 6 4, 13, 14 
+
+
+Hereford v. State, 615 So. 2d 1303 
+(Ala. Crim. App. 1993) ................. 13 
+
+
+Holmes v. Securities Investor Protection Corp. , 
+ee EE bos b0 Oke tied ok d ond d 26 
+
+
+Hoover v. Garfield Heights Mun. Ct., 
+802 F.2d 168 (6th Cir. 1986), 
+cert. denied, 480 U.S. 949 (1987) ...... 12, 13, 14 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Hunter v. State, 684 So. 2d 625 (Miss. 1996) .... 
+In re Winship, 397 U.S. 358 (1970) .......... 
+
+
+Johnson v. United States, 117 S. Ct. 1544 (1997) . . 
+
+
+Jones v. State, 666 So. 2d 995 
+
+
+A, Sno costae &0.0% © 
+Lomas v. State, 639 P.2d 551 (Nev. 1982) ...... 
+McBoyle v. United States, 283 U.S. 25 (1931) .... 
+
+
+McElroy v. United States, 455 U.S. 642 (1982) ... 
+
+
+McKinney v. State, 553 N.E.2d 860 
+
+
+ie CN Me ce gee S| 
+
+
+McNally v. United States, 483 U.S. 350 (1987) ... 
+
+
+Monk v. State, 619 A.2d 166 
+
+
+(Md. Ct. Spec. App. 1993) ............ 
+
+
+Mouton v. State, 892 S.W.2d 234 
+
+
+os See Ee) eT Le 
+
+
+Nationwide Mut. Ins. Co. v. Darden, 
+
+
+eee fF eer eee ee 
+
+
+Old Chief v. United States, 117 S. Ct. 644 (1997) 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+People v. Flynn, 589 N.E.2d 383 (N.Y. 1992) ...... 12 
+People v. Kobrin, 903 P.2d 1027 (Cal. 1995) ....... 12 
+People v. Mattas, 645 P.2d 254 (Colo. 1982) ....... 12 
+People v. Navarette, 629 N.E.2d 742 
+eR ik, i COUR e's 11 
+People v. Vaughn, 524 N.W.2d 217 (Mich. 1994) .... 11 
+Pope v. Illinois, 481 U.S. 497 (1987) .......... 17, 18 
+Robinson v. State, 473 $.E.2d 519 
+i Aer FA Roti. ee: 13 
+
+
+Rogers v. United States, 118 S. Ct. 643 (1998) . 2, 3, 9, 15 
+
+
+Rogers v. United States, 94 F.3d 1519 (1996), 
+cert. dismissed, 118 S. Ct. 643 (1998) .... 3, 13, 14 
+
+
+Rose v. Clark, 478 U.S. 570 (1986) ............. 20 
+Santa Fe Indust., Inc. v. Green, 430 U.S. 462 (1976) .. 28 
+Schmuck v. United States, 489 U.S. 705 (1989) ...... 25 
+
+
+Sedima, S.P.R.L. v. Imrex Co., Inc., 
+A ee bs be ace wo Ol 25 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+
+Slusher v. State, 814 P.2d 504 
+Se Se SY IE ok Ue-0 D4 0 46 OOO 12 
+Smith v. Richards, 38 U.S. 26 (1839) ....... 28 
+
+Smoot v. Commonwealth, 445 S.E.2d 688 
+
+ee eS On Pe eee 11 
+Sparf v. United States, 156 U.S. 51 (1895)......... 17 
+State v. Aumick, 894 P.2d 1325 (Wash. 1995) ....... 12 
+State v. Avila, 710 P.2d 440 (Ariz. 1985) ......... ll 
+State v. Barr, 237 N.W.2d 888 (S.D. 1976) ........ 11 
+State v. Bluhm, 460 N.W.2d 22 (Minn. 1990) ....... 12 
+~ State v. Brown, 647 A.2d 17 (Conn. App. Ct. 1994)... 13 
+State v. Bryant, 670 A.2d 776 (R.I. 1996) ......... 12 
+
+State v. Correa, 706 P.2d 1321 
+Ga GE, RR Fe a oie 68 okie cesta 5 0% ll 
+State v. Federico, 510 A.2d 1147 (N.J. 1986) ..... 12 
+State v. Forsyth, 642 P.2d 1035 (Mont. 1982) ....... 12 
+State v. Gibson, 908 P.2d 352 (Utah 1995)......... 12 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+
+State v. Gunn, 437 §.E.2d 75 (S.C. 1993), 
+
+cert. denied, 510 U.S. 1115 (1994) .......... 11 
+State v. Jynes, 652 So. 2d 91 (La. Ct. App. 1995) .... 11 
+State v. Miller, 400 S.E.2d 611 (W. Va. 1990) ...... 12 
+State v. Monroe, 790 P.2d 1188 (Or. Ct. App. 1990) 13 
+State v. Moriarty, 321 N.W.2d 324 
+
+RS a a ae 13 
+State v. Myers, 510 N.W.2d 58 (Neb. 1994) ......... 12 
+State v. Nason, 433 A.2d 424 (Me. 1981) ......... 11 
+State v. Rhome, 462 S.E.2d 656 
+
+ee TS TRUE LOL EL ee 13 
+State v. Teel, 793 S.W.2d 236, 
+
+cert. denied, 498 U.S. 1007 (1990) .......... ll 
+State v. Watson, 885 P.2d 1226 (Kan. 1994) ........ ll 
+State v. Wright, 581 A.2d 720 (Vt. 1989), 
+
+cert. denied, 498 U.S. 1032 (1991) .......... 11 
+Stewart v. Wyoming Cattle Ranche Co.., 
+
+i PS ee ee eee 27 
+
+
+x 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+Sullivan v. Louisiana, 508 U.S. 275 (1993) ..... passim 
+Tanner v. United States, 483 U.S. 107 (1987) ....... 25 
+Teel v. Tennessee, 498 U.S. 1007 (1990) ........ 4, 13 
+United States v. Bass, 404 U.S. 336 (1971) ........ 25 
+
+
+United States v. Campbell, 64 F.3d 967 (Sth Cir. 1995) . 22 
+
+
+United Bhd. of Carpenters v. United States Bay Counties 
+Dist. Council, 330 U.S. 395 (1947) ..... 16, 17, 18 
+
+
+United States v. Cochran, 109 F.3d 660 
+(Sl Gat: See kak ote wir 5, 8, 23, 24 
+
+
+United States v. Coffman, 94 F.3d 330 (7th Cir. 1996), 
+cert. denied, 117 S. Ct. 1426 (1997) ....... 5, 24 
+
+
+United States v. David, 83 F.3d 638 (4th Cir. 1996) . 6, 11 
+United States v. Davis, 989 F.2d 244 (7th Cir. 1993) .. 22 
+
+
+United States v. DeFries, 129 F.3d 1293 
+GS... Gat. Bee eo i has Ee 3S eee 6, 12 
+
+
+United States v. DeSantis, 134 F.3d 760 
+es Ge. Se. ko De Die BewarS és 22, 24 
+
+
+United States v. DiRico, 78 F.3d 732 (ist Cir. 1996) 6, 10 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+United States v. Dunn, 961 F.2d 648 (7th Cir. 1992) .. 22 
+United States v. DuPre, 117 F.3d 810 (Sth Cir. 1997) . . 23 
+United States v. Fern, 117 F.3d 1298 (11th Cir. 1997) . 10 
+United States v. Faulhaber, 929 F.2d 16 (ist Cir. 1991) 21 
+
+
+United States v. Fraza, 106 929 F.3d 1050 
+ee es ae ae 21 
+
+
+United States v. Gaudin, 515 U.S. 506 (1995) .... passim 
+United States v. Halbert, 640 F.2d 1000 (9th Cir. 1981) 22 
+United States v. Hollis, 971 F.2d 1441-(10th Cir. 1992) . 23 
+
+
+United States v. Jobe, 101 F.3d 1046 (Sth Cir. 1996), 
+cert. denied, 118 S. Ce. 81 (1997) ........... 22 
+
+
+United States v. Johnson, 71 F.3d 139 (4th Cir. 1995). . 12 
+
+
+United States v. Knapp, 120 F.3d 928 (9th Cir.), 
+cert. denied, 118 S. Ct. 417 (1997) ........... 6 
+
+
+United States v. Lanier, 117 S. Ct. 1219 (1997) ...... 25 
+
+
+United States v. Laughlin, 26 F.3d 1523 (10th Cir.), 
+cert. denied, 513 U.S. 965 (1994) ........... 12 
+
+
+xii 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+United States v. Lopez, 71 F.3d 954, 960 (1st Cir. 
+1995), cert. denied, 518 U.S. 1008 (1996) .. . . 14, 21 
+United States v. Martin Linen Supply Co., 
+a ae. Te ee a 6s 6 2 he's. oe hw SS 17 
+United States v. Moser, 123 F.3d 813 (Sth Cir.), 
+cert. denied, 118 S. Ct. 614 (1997) .......... 21 
+
+
+United States v. Nguyen, 73 F.3d 887 (9th Cir. 1995) .. 12 
+
+
+United States v. Nash, 115 F.3d 1431 (1997), 
+cert. denied, 118 S. Ct. 1054 (1998) ... 7, 8, 22. 23 
+
+
+United States v. O’Hagan, 117 S. Ct. 2199 (1997) .... 25 
+United States v. Parmelee, 42 F.3d 387 
+
+(7th Cir. 1994), cert. denied, 
+
+Sp U.S: Cae Gee ss oe ok os bee w= 4, 13 
+
+
+United States v. Pettigrew, 
+re Fe ae A) eee 6, 11 
+
+
+United States v. Raether, 82 F.3d 192 
+I Tg gig a a 6, 10 
+
+
+United States v. Rodriguez, 1998 WL 130748 
+Ce Ges Se» 0 nb 8 ee eee 8 22, 24 
+
+
+United States v. Sayan, 968 F.2d 55 (D.C. Cir. 1992) .. 22 
+
+
+xili 
+TABLE OF AUTHORITIES — Cont’d 
+Page 
+
+
+United States v. Shunk, 113 F.3d 31 (Sth Cir. 1997) ... 23 
+
+
+United States v. Slaughter, 128 F.3d 623 
+
+
+a, ew via we WS Se ee a, Sa 5, 23 
+United States v. Smith, 46 F.3d 1223 (lst Cir.), cert. 
+
+denied, 516 U.S. 864 (1995) .............. 22 
+United States v. Von Barta, 635 F.2d 999 
+
+SES bi Ga hee EW eel Re a0 aoe 22 
+United States v. Wells, 117 S. Ct. 921 (1997) .... passim 
+United States v. York, 933 F.2d 1343 (7th Cir.), 
+
+cert. denied, 502 U.S. 9167 (1991) .......... 22 
+Vigil v. State, 859 P.2d 659 (Wyo. 1993) ......... 12 
+Waldemer v. United States, 98 F.3d 306 
+
+Ma aie a adie aay ae wS8 s 4 2 5 0.8 6, 11 
+Walls v. State, 560 A.2d 1038 (Del.), 
+
+cert. denied, 493 U.S. 967 (1989) ........... 12 
+Yates v. Evatt, 500 U.S. 391 (1991) ........... 7, 19 
+
+
+XiV 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Page 
+
+Constitutional Provisions 
+WUE: CI We 4k a: 4 pins bia Wee 3 ee eee 2 
+a Gs MG TE: 5 bk ono hn es eee seb ee 2 
+i: CONG: ART TE BS e658 a CGNs x ea EG 2 
+Statutes 
+ee ee ee sere ie ere 8, 26, 27 
+Oe as ods i Cad ee web ea passim 
+Be aes B BOUN 0 wate HUE Cah VE ew passim 
+Se DG. © BOs Sin WEE TIS EGG AER es passim 
+5G WA. | GRE ois 1 iw eal Re NK Ween 26 
+Pe SE. es ce ae eh ow alan 2, 6, 15, 19 
+Securities Exchange Act of 1934, § 10(b), 
+
+Ss NE, ind kA oe 8 8 wield ee we ot 28 
+Act of June 8, 1872, ch. 335 & 305, 17 Stat. 323 28 
+Act of March 4, 1909, ch. 321, § 215, 35 Stat. 1130 28 
+
+
+XV 
+
+
+TABLE OF AUTHORITIES — Cont’d 
+
+
+Miscellaneous 
+37 AM. JUR. 2D Fraud and Deceit (1964) .......... 28 
+
+
+G. Chernack, Note, Silence Cannot Be Harmless: United 
+States v. Rogers, 106 YALE L.J. 2305 (1997) .... 20 
+
+
+Harry T. Edwards, Jo Err Is Human, But Not Always 
+Harmless: When Should Legal Error Be 
+Tolerated?, 70 N.Y.U. L. REV. 1167 (1995)... .. 16 
+
+
+J. Greabe, Spelling Guilt Out Of A Record? 
+Harmless-Error Review Of Mandatory 
+Presumptions And Elemental Misdescriptions, 
+RR a Rk are 4 
+
+
+J. Jeffries, Jr., Legality, Vagueness, and the 
+Construction of Penal Statutes, 
+
+
+ee es a IE oe hk co be oe oe ws 25 
+W. Keeton, et al., Prosser & Keeton on Law 
+
+PCC CR, cc cd séeecegseeess 28 
+L. Loss & J. SELIGMAN, Securities Regulation 
+
+REE ERIE OI te ae ee ae | Oren 28 
+RESTATEMENT (SECOND) OF TORTS (1977) ......... 28 
+
+
+1 J. Story, Commentaries on Equity 
+po a ee eer ae 28 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+No. 
+
+
+ELLIS E. NEDER, JR., PETITIONER, 
+Vv. 
+
+
+UNITED STATES, RESPONDENT. 
+
+
+Petition For A Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Eleventh Circuit 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+Ellis E. Neder, Jr. respectfully petitions for a writ of 
+certiorari to review the judgment of the United States Court of 
+Appeals for the Eleventh Circuit in this case. 
+
+
+OPINIONS BELOW 
+
+
+The decision of the court of appeals (App., infra, la-13a) 
+is reported at 136 F.3d 1459. The judgment of the district court 
+
+
+(App., infra, 1¢a-22a) is unreported. 
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+March 19, 1998. The jurisdiction of this Court is invoked under 
+28 U.S.C. § 1254(1). 
+
+
+2 
+
+
+STATUTORY AND CONSTITUTIONAL 
+PROVISIONS INVOLVED 
+
+
+Article Ill, § 2 of the United States Constitution 
+provides that “The Trial of all Crimes, except in Cases of 
+Impeachment, shall be by Jury.” The Due Process Clause of the 
+Fifth Amendment to the United States Constitution provides that 
+“No person shall be * * * deprived of !'f, liberty, or property, 
+without due process of law.” The %ixth Amendment to the 
+United States Constitution provides that “In all criminal 
+prosecutions, the accused shall enjoy the right to a speedy and 
+public trial, by an impartial jury of the State and district 
+wherein the crime shall have been committed; to be confronted 
+with the witnesses against him; to have compulsory process for 
+obtaining witnesses in his favor, and to have the Assistance of 
+Counsel for his defence.” 18 U.S.C. §§ 1341, 1343, 1344, and 
+26 U.S.C. § 7206(1) are reproduced at App., infra, 43a-47a. 
+
+
+STATEMENT 
+
+
+This case presents the important and recurring 
+constitutional question that this Court left open in United States 
+v. Gaudin, 515 U.S. 506 (1995); Johnson v. United States, 117 
+S. Ct. 1544 (1997), and, most recently, in Rogers v. United 
+States, 118 S. Ct. 673 (1998)—namely, whether the trial court's 
+removal of an element of a charged offense is subject to 
+harmiess-error review under Chapman v. California, 386 U.S. 
+18 (1967), notwithstanding the defendant’s constitutional right 
+to a jury determination of guilt or innocence as to each element 
+of the offense. This case also presents the separate and far- 
+reaching question of whether materiality is an element of the 
+federal mail, wire and bank fraud statutes. On each of these 
+important questions, the courts of appeals are deeply divided 
+and in need of Supreme Court review. 
+
+
+A. In Rogers v. United States, 118 S. Ct. 673 (1998), 
+this Court granted certiorari to decide whether the omission of 
+
+
+3 
+
+
+an element of a charged offense from the jury instructions is 
+subject to harmless-error review. After argument, the Court 
+dismissed the petition as improvidently granted on the ground 
+that the question was “not fairly presented by the record.” /d. 
+at 645. Earlier, in Johnson v. United States, 117 S. Ct. 1544, 
+1550 (1997), this Court noted that the answer to the question of 
+whether a Gaudin error (the error that occurred here) is subject 
+to harmless-error review is “by no means clear.” The Court 
+concluded, however, that it “need not decide that question” 
+because the defendant in Johnson (unlike petitioner here) did 
+not timely object to the error at trial. 
+
+This case provides the ideal opportunity for the Court 
+“to address [the] important issue of constitutional law” left open 
+in Rogers, Johnson and Gaudin. Rogers, 118 S. Ct. at 677 
+(O’Connor, J., concurring). See also id. at 675 (plurality 
+opinion) (same); Gaudin, 515 U.S. at 526-27 (Rehnquist, C.J., 
+concurring) (noting that the Court left open the question 
+whether a Gaudin error is subject to harmless-error review). As 
+the Eleventh Circuit noted below (App., infra, 1la n.10), the 
+courts of appeals are deeply split over whether a Gaudin error 
+is subject to harmless-error review. The Second, Eighth and 
+Eleventh Circuits have held that Gaudin errors are subject to 
+harmless-error review. See infra at 10 n.4 & cases cited 
+therein. The First, Fourth, Fifth, Seventh, Ninth and D.C. 
+Circuits, on the other hand, have held that Gaudin errors are 
+immune from harmless-error scrutiny. See infra at 10 n.5 & 
+cases cited therein. 
+
+This conflict vividly reflects the larger controversy over 
+whether elemental omissions like a Gaudin error can ever 
+constitutionally be “harmless.” As the Eleventh Circuit 
+explained in Rogers v. United States, 94 F.3d 1519, 1524 n.11 
+(1996), cert. dismissed, 118 S. Ct. 643 (1998), “[s]ome circuits 
+have determined that an instructional omission mandates 
+reversal regardless of the circumstances.” (Citations omitted). 
+
+
+4 
+
+
+In contrast, “[o}ther circuits have recognized that this type of 
+mistake will sometimes be amenable to harmless error scruti- 
+ny.” /bid. (citations omitted). Accordingly, the Seventh, Ninth 
+and Eleventh Circuits each have openly invited Supreme Court 
+review of this issue, and acknowledged “that further guidance 
+and clarification would be extremely helpful.” /bid. (citing 
+Hennessy v. Goldsmith, 929 F.2d 511, 515 n.2 (9th Cir. 1991); 
+Teel v. Tennessee, 498 U.S. 1007 (1990) (White, J., dissenting 
+from denial of certiorari)).' This Court should grant the petition 
+to resolve the conflict on this important and unanswered 
+question of constitutional law. 
+
+B. This case also presents the unanswered and widely 
+recurring question of whether materiality is an element of the 
+federal mail, wire and bank fraud statutes, each of which 
+proscribes a “scheme or artifice to defraud, or for obtaining 
+money or property by means of false or fraudulent pretenses, 
+representations, or promises.” 18 U.S.C. §§ 1341, 1343, 1344. 
+The court of appeals, citing this Court’s decision in United 
+States v. Wells, 117 S. Ct. 921 (1997), held that none of these 
+statutes contain a materiality requirement since none “contain 
+the word ‘material.’” App., infra, 7a. With this holding, the 
+Eleventh Circuit has deepened the circuit split over this 
+question. The First and Fifth Circuits, for instance, like the 
+Eleventh Circuit, have held that materiality is not an element of 
+
+
+' Accord, e.g., United States v. Parmelee, 42 F.3d 387, 392 & n.7 (7th 
+Cir. 1994) (“the Supreme Court has yet to decide the question whether 
+instructional error of this sort can ever be harmless. * * * [A] conflict of 
+authority exists concerning the availability of harmiess-error analysis in this 
+situation. * * * The depth of this conflict underscores the importance of the 
+question. Both considerations counsel for a grant of certiorari”), cert. 
+denied, 116 S. Ct. 63 (1995); J. Greabe, Spelling Guilt Out Of A Record? 
+Harmless-Error Review Of Mandatory Presumptions And Elemental 
+Misdescriptions, 74 B.U. L. REV. 819, 844 (1994) (noting that the current 
+state of the law “has fostered predictable confusion in the lower courts”). 
+
+
+5 
+
+
+the wire, mail or bank fraud statutes. See infra at 21 n. 10 & 
+cases cited therein. In contrast, the Second, Fourth, Sixth, 
+Ninth and D.C. Circuits have held that materiality is an element 
+of these statutes. See infra at 22 n. 11 & cases cited therein. 
+
+Adding further to the confusion, the Seventh, Eighth and 
+Tenth Circuits have staked out an indeterminate middle ground. 
+The Eighth and Tenth Circuits have held that “[a]lthough 
+materiality is not an independent element of a wire fraud 
+prosecution, ‘there is a materiality aspect to the determination 
+whether the acts of an accused give rise to a scheme to defraud’ 
+that ‘is appropriately submitted to the jury as one component of 
+the larger factual question as to the existence of fraud and a 
+scheme to defraud.’” United States v. Cochran, 109 F.3d 660, 
+667 n.3 (10th Cir. 1997) (emphasis added) (citation omitted). 
+See also United States v. Slaughter, 128 F.3d 623, 629 (8th 
+Cir. 1997) (adopting the Tenth Circuit’s approach). The 
+Seventh Circuit, in contrast, has held that while Congress did 
+not “want to classify immaterial lies as frauds for purposes of 
+the mail- and wire-fraud statutes,” a jury need not be separately 
+instructed on materiality because “the term ‘fraud’ embodies the 
+concept of materiality,” and thus “[a)n instruction in the 
+language of the statute adequately puts the issue before the 
+jury.” United States v. Coffman, 94 F.3d 330 (7th Cir. 1996), 
+cert. denied, 117 S. Ct. 1426 (1997). 
+
+
+In short, the courts of appeals are irreconcilably split 
+over whether materiality is an element of the mail, wire and 
+bank fraud statutes. Such uncertainty over the elements of 
+criminal statutes is intolerable. This Court should grant the 
+petition to resolve this important and recurring question. 
+
+
+C. Petitioner was charged with multiple counts of 
+federal tax, mail, wire and bank fraud in connection with a 
+series of land acquisition and development transactions. The 
+indictment alleged, among other things, that petitioner 
+
+
+6 
+
+
+concealed from his lenders certain material facts concerning the 
+source of certain deposit funds and the structure of those 
+transactions, and also that he failed to report certain profits 
+from these transactions in his 1985 and 1986 income tax 
+returns. At trial, “the district court instructed the jury that if it 
+found beyond a reasonable doubt that the alleged statements, 
+representations, or promises were false, it need not consider 
+whether they were material because materiality was not an issue 
+for the jury to decide. The court entered its own findings 
+regarding materiality outside the presence of the jury. Petitioner 
+timely objected to the court's findings and its failure to submit 
+the issue of materiality to the jury.” App., infra, 3a. See also 
+App., infra, 28a, 30a, 34a (excerpts of jury instructions). On 
+direct appeal, the Eleventh Circuit affirmed petitioner's 
+convictions on all counts. 
+
+
+Harmiless-Error. As to petitioner’s tax fraud conviction 
+under 18 U.S.C. § 7206(1), the Eleventh Circuit acknowledged 
+that under United States v. Gaudin, 515 U.S. 506 (1995), the 
+district court “erred in not submitting the element of materiality 
+to the jury.” App., infra, 1la. The court nevertheless held that 
+“Gaudin errors do not require automatic reversal but are subject 
+to harmless error analysis,” citing decisions from the Second, 
+Seventh, Eighth and Ninth Circuits.* The court recognized that 
+its harmless-error holding conflicted with decisions of the First, 
+Fourth, Fifth, Sixth and D.C. Circuits.’ The Eleventh Circuit 
+
+
+> App., infra, 11a n.10 (citing Bilzerian v. United States, 127 F.3d 
+237, 242 (2d Cir.1997); United States v. Knapp, 120 F.3d 928, 932 (9th 
+Cir.), cert. demied, 118 S. Ct. 417 (1997); Waldemer v. United States, 106 
+F.3d 729, 732 (7th Cir. 1996); United States v. Raether, 82 F.3d 192, 194 
+(8th Cir. 1996)). 
+
+
+> App., infra, 11a n.10 (citing United States v. DeFries, 129 F.3d 1293, 
+1311-12 & n.13 (D.C. Cir.1997); United States v. David, 83 F.3d 638, 647 
+(4th Cir. 1996); United States v. DiRico, 78 F.3d 732, 737-38 (ist 
+
+
+7 
+
+
+then proceeded to hold that the trial court’s Gaudin error was 
+harmless “[bjecause materiality was not in dispute with respect 
+to Neder’s tax fraud offense, [and thus] the district court’s 
+Gaudin error ‘did not contribute to the verdict obtained.’” 
+App., infra, 13a (quoting Yates v. Evatt, 500 U.S. 391, 403 
+(1991); Chapman vy. California, 386 U.S. 18, 24 (1967)). 
+
+
+Materiality. The Eleventh Circuit affirmed petitioner’s 
+mail, wire and bank fraud convictions, but on different 
+grounds. Citing United States vy. Wells, 117 S. Ct. 921 (1997), 
+the court of appeals held that the trial court’s directed finding 
+of materiality did not violate petitioner's rights under Gaudin 
+because materiality is not an element of those offenses. The 
+court held that materiality is not an element of the mail and 
+wire fraud statutes (§§ 1341 & 1343) because they “do not 
+contain the word ‘material.’ Further, § 1341 was enacted as 
+part of the recodification of the federal criminal code in 1948, 
+and § 1343 was patterned after § 1341. Based on these factors 
+considered in Wells, we conclude that materiality is not an 
+element of fraud offenses in §§ 1341 and 1343.” App., infra, 
+7a. The court reached the same conclusion as to the bank fraud 
+statute (§ 1344), because “its language, like § 1343, was 
+patterned after § 1341.” /d. at 9a. 
+
+
+The Eleventh Circuit acknowledged that unlike the 
+statute in Wells (18 U.S.C. § 1014), which prohibits “false 
+statements,” §§ 1341, 1343 and 1344 punish a “scheme or 
+artifice” either “to defraud” or to “obtain{]” money or property 
+“by means of false or fraudulent pretenses, representations, or 
+promises. ” However, rejecting the Ninth Circuit’s contrary 
+holding in United States v. Nash, 115 F.3d 1431, 1436 (1997), 
+cert. denied, 118 S. Ct. 1054 (1998), the court held that the 
+
+
+Cir. 1996); United States v. Pettigrew, 77 F.3d 1500, 1511 (Sth Cir. 1996)). 
+
+
+8 
+
+
+textual differences between § 1014 and §§ 1341, 1343 and 1344 
+were irrelevant under Weils: 
+
+
+We disagree with the Ninth Circuit’s analysis 
+that since the term “representation” included 
+“some notion of materiality at common law,” 
+this indicates that Congress intended for 
+materiality to be an element of the bank fraud 
+Statute. * * * This ignores that Congress now 
+has employed the terms “material representation” 
+and “material misrepresentation” in other 
+statutes. The fact that Congress uses the term 
+“material” in conjunction with “representation” 
+or “misrepresentation” in some statutes but not 
+in others rebuts any presumption that Congress 
+now intends to make materiality an element 
+under a statute whenever it employs the term 
+“representation” in that statute. 
+
+
+App., infra, 9a. The court rejected as “unpersuasive” the Tenth 
+Circuit’s holding in United States v. Cochran, 109 F.3d 660, 
+667 n.3 (10th Cir.1997), that “there is a materiality aspect to 
+the determination whether the acts of an accused give rise to a 
+scheme to defraud.” App., infra, 7a n.4. The court also refused 
+to adopt “the Ninth Circuit's rationale [in Nash] that § 1344 
+targets fraud and, therefore, necessarily includes materiality as 
+an element of bank fraud. This approach is inconsistent with 
+Wells, which disfavors inferring a materiality requirement 
+where the statutory language does not expressly include one.” 
+Id. at 10a. Having concluded that materiality is not an element 
+of §§ 1341, 1343 and 1344, the court of appeals held that the 
+omission of raateriality as to those offenses did not violate 
+Gaudin, and thus affirmed petitioner's mail, wire and bank 
+fraud convictions. 
+
+
+9 
+REASONS FOR GRANTING THE PETITION 
+
+
+I. THE COURT OF APPEALS’ HOLDING THAT GAUDIN 
+ERRORS ARE SUBJECT TO HARMLESS-ERROR 
+REVIEW CONFLICTS WITH DECISIONS OF OTHER 
+CIRCUITS AND STATE COURTS OF LAST RESORT. 
+
+
+The court of appeals’ decision in this case raises the 
+fundamental question of whether a trial court’s removal of an 
+element of a criminal offense from the jury’s consideration is 
+subject to harmless-error review where the jury made no 
+findings concerning the omitted element. This Court granted 
+certiorari to decide that question in Rogers v. United States, 118 
+S. Ct. 673 (1998), but ultimately determined that the question 
+was “not fairly presented by the record.” Jd. at 645. Similarly, 
+in Johnson v. United States, 117 S. Ct. 1544, 1550 (1997), this 
+Court noted that the answer to the question presented here was 
+“not at all clear,” but concluded that it “need not decide that 
+question” because there was no timely objection to the 
+erroneous instruction, and the case thus was governed by 
+entirely different plain error standards. And in United States v. 
+Gaudin, 515 U.S. 506 (1995), where this Court held that 
+materiality was a question for the jury, not the court, this Court 
+left open the question of whether a Gaudin error is subject to 
+harmless-error review. See Gaudin, 515 U.S. at 526-27 
+(Rehnquist, C.J., concurring). 
+
+
+The question of whether an elemental omission is subject 
+to harmless-error review is vitally significant. The need for 
+Supreme Court review of this issue also is immediate and 
+compelling, since the federal and state courts have deeply split 
+over the answer, and have openly called for Supreme Court 
+guidance. This case provides an ideal opportunity to put this 
+controversy to rest. 
+
+
+10 
+
+
+A. The Courts of Appeals Are Deadlocked As To 
+Whether Gaudin Errors Are Subject To Harmless- 
+Error Review. 
+
+
+As the Eleventh Circuit acknowledged (App., infra, 11a- 
+12a & n.10), the circuits are deeply divided over whether a 
+Gaudin error (i.e., where materiality is decided by the court 
+and removed from the jury’s consideration) is subject to 
+harmless-error review where, as here, defense counsel asserts 
+a timely objection to the constitutional error. 
+
+
+The Eleventh Circuit’s holding that Gaudin errors are 
+subject to harmless-error review follows similar rulings by the 
+Second and Eighth Circuits.* These decisions irreconcilably 
+conflict, however, with decisions of the First, Fourth, Fifth. 
+Seventh, Ninth and District of Columbia Circuits which have 
+held that Gaudin errors are immune from harmless-error review 
+so long as the jury does not make findings concerning 
+materiality through its consideration of other elements. 
+
+
+* See, e.g., Bilzerian v. United States, 127 F.3d 237, 242 (2d Cir. 
+1997) (holding that “failure to include materiality * * * was harmless here 
+because the evidence overwhelmingly demonstrated that Bilzerian would have 
+been convicted even if the jury had been given the issue of materiality” ); 
+United States v. Raether, 82 F.3d 192, 194 (8th Cir. 1996) (“We conclude 
+Gaudin errors are subject to harmless error review”). See also United States 
+v. Fern, 117 F.3d 1298, 1306 (11th Cir. 1997) (“a Gaudin error does not 
+fall within that limited class of errors known as ‘structural errors,’ €.2., 
+errors ‘affecting the framework within which the trial proceeds, rather than 
+simply an error in the trial itself.’ To the contrary, a Gaudin error is more 
+correctly viewed as analogous to improperly instructing the jury on an 
+element of the offense, an error which is subject to harmless error review”) 
+(quoting Johnson, 117 S. Ct. at 1: 50). 
+
+
+* See, e.g., United States v. LiRiico, 78 F.3d 732, 737-38 (1st Cir. 
+1996) (“where a jury has not rendered a verdict that addresses every 
+essential element of the charged offense, and therefore has not rendered a 
+verdict on the crime charged, the question of whether the same verdict would 
+
+
+11 
+
+
+This circuit split is not surprising, since the federal 
+circuits and state courts have long been divided over whether 
+the omission of an element of the crime charged is subject to 
+harmless-error review. On the one hand, the Second, Eighth 
+and Eleventh Circuits, and the courts of last resort of nine 
+states, have held that elemental omissions are subject to 
+harmless error review.° By contrast, the First, Fourth, Fifth, 
+
+
+have been rendered absent the constitutional error is meaningless. Here, 
+beyond a reasonable doubt, the existence of an essential factual element of 
+the crime of false subscription (i.e., materiality), there was ‘no verdict 
+within the meaning of the Sixth Amendment’ and harmless error analysis is 
+inapplicable”) (quoting Sullivan)); United States v. David, 83 F.3d 638, 647 
+(4th Cir. 1996) (“failure to instruct on an element of the crime, where that 
+element cannot be inferred from the other elements actually found by the 
+jury, is an error not susceptible to harmless error analysis”); United States 
+v. Pettigrew, 77 F.3d 1500, 1511 (Sth Cir. 1996) (“[t}he reasoning of 
+Sullivan \eads inescapably to the same conclusion in the present case. 
+Because the element of materiality was withheld from the jury, the jury 
+rendered no verdict as to that particular element of the offense. Thus, the 
+harmless error analysis is similarly inapplicable”); Waldemer v. United 
+States, 106 F.3d 729, 731 (7th Cir. 1996) (“if an element of an offense is 
+not actually found by a jury, appellate court musings as to the actions of a 
+hypothetical rational jury cannot render such an error harmless”). 
+
+
+. at 10 & n.4.. See also, e.g., State v. Avila, 710 P.2d 440 
+(Ariz. pont pra v. Watson, 885 P.2d 1226 (Kan. 1994); State v. Nason, 
+433 A.2d 424 (Me. 1981); People v. Vaughn, 524 N.W.2d 217 (Mich. 
+1994): State v. Lopez, 920 P.2d 1017 (N.M. 1996); State v. Gunn, 437 
+§.E.2d 75 (S.C. 1993), cert. denied, 510 U.S. 1115 (1994); State v. Barr, 
+237 N.W.2d 888 (S.D. 1976); State v. Teel, 793 S.W.2d 236, cert. denied, 
+498 U.S. 1007 (1990); State v. Wright, 581 A.2d 720 (Vt. 1989), cert. 
+denied. 498 U.S. 1032 (1991). See also State v. Correa, 706 P.2d 1321 
+(Haw. Ct. App. 1985); People v. Navarette, 629 N.E.2d 742 (Ill. App. Ct. 
+1994); State v. Jynes, 652 So. 2d 91 (La. Ct. App. 1995); Mouton v. State, 
+892 S.W.2d 234 (Tex. Ct. App. 1995); Smoot v. Commonwealth, 445 
+
+
+S.E.2d 688 (Va. Ct. App. 1994). 
+
+
+12 
+
+
+Sixth, Seventh, Ninth, Tenth and D.C. Circuits’, and the courts 
+of last resort of eighteen states, have held that the omission of 
+an element from the jury instructions is immune from harmless- 
+error scrutiny.*® 
+
+
+” See supra at 10 & n.5. See also United States v. DeFries, 129 F.3d 
+1293, 1311 n.13 (D.C. Cir. 1997) (holding in RICO case that the “district 
+court’s failure to allow the jury to decide the enterprise element was, per se, 
+a reversible error”) (citing Gaudin); United States v. Johnson, 71 F.3d 139, 
+144 (4th Cir. 1995) (omission of element precludes harmless error review 
+because such review would require appellate court to “engage in the type of 
+speculation and hypothesizing censured by the Supreme Court in Sullivan”): 
+Hoover v. Garfield Heights Mun. Court, 802 F.2d 168, 178 (6th Cir. 1986) 
+(“the failure to instruct the jury on an essential element of the crime charged 
+is one of the exceptional constitutional errors to which the Chapman 
+harmless error analysis does not apply”); United States v. Nguyen, 73 F.3d 
+887, 895 (9th Cir. 1995) (where “the jury was precluded from considering 
+whether an essential element existed,” and there was no independent jury 
+determination regarding the omitted element, reversal is required); United 
+States v. Laughlin, 26 F.3d 1523, 1527 (10th Cir.) (“[fJailure to instruct on 
+such an essential element as intent or knowledge requires reversal because 
+the ‘Due Process Clause protects the accused against conviction except upon 
+proof beyond a reasonable doubt of every fact necessary to constitute the 
+crime with which he is charged’”), cert. denied, 513 U.S. 965 (1994). 
+
+
+* See, e.g., People v. Kobrin, 903 P.2d 1027 (Cal. 1995): People v. 
+Mattas, 645 P.2d 254 (Colo. 1982); Walls v. State, 560 A.2d 1038 (Del.), 
+cert. denied, 493 U.S. 967 (1989); Carpenter v. Commonwealth, 771 
+S.W.2d 822 (Ky. 1989); Commonwealth v. Thomas, 514 N.E.2d 1309 
+(Mass. 1987); State v. Bluhm, 460 N.W.2d 22 (Minn. 1990); Hunter v. 
+State, 684 So. 2d 625 (Miss. 1996); State v. Forsyth, 642 P.2d 1035 (Mont. 
+1982); State v. Myers, 510 N.W.2d 58 (Neb. 1994); Lomas v. State, 639 
+P.2d 551 (Nev. 1982); State v. Federico, 510 A.2d 1147 (N.J. 1986): 
+People v. Flynn, 589 N.E.2d 383 (N.Y. 1992); Slusher v. State, 814 P.2d 
+504 (Okla. Crim. App. 1991); State v. Bryant, 670 A.2d 776 (R.1. 1996): 
+State v. Gibson, 908 P.2d 352 (Utah 1995); State v. Aumick, 894 P.2d 1325 
+(Wash. 1995); State v. Miller, 400 S.E.2d 611 (W. Va. 1990): Vigil v. 
+State, 859 P.2d 659 (Wyo. 1993). See also Hereford v. State, 615 So. 2d 
+1303 (Ala. Crim. App. 1993); Dawson v. State, 894 P.2d 672 (Alaska Ct. 
+
+
+13 
+
+
+The conflict over whether Gaudin errors and other 
+elemental omissions are subject to harmless-error review has 
+also been widely recognized. See, e.g., Teel v. Tennessee, 498 
+U.S. 1007 (1990) (White, J., dissenting from denial of 
+certiorari) (noting that “a conflict of authority exists concerning 
+the availability of harmless-error analysis” when a jury is not 
+instructed on an essential element of the crime charged); 
+Rogers, 94 F.3d at 1524 n.11 (“We believe that this discord 
+reflects the gravity of the issue, and we realize, of course, that 
+our opinion in this case can merely provide controlling authority 
+within our own Circuit. For these reasons, we join the Ninth 
+Circuit in noting that further guidance and clarification would 
+be extremely helpful”); Hoover, 802 F.2d at 176-77 (noting the 
+split in authority and stating that “there is not a clearly 
+preferred answer to the question of whether the failure to 
+instruct on an essential element of the crime charged may be 
+considered harmless”); Hennessy v. Goldsmith,.929 F.2d 511, 
+515 n.2 (9th Cir. 1991) (noting that “[t}he law in this area is an 
+unfinished symphony,” and that “[{aJdditional guidance and 
+clarification would be helpful”); United States v. Parmelee, 42 
+F.3d 387, 392 (7th Cir. 1994) (same), cert. denied, 516 U.S. 
+
+
+812 (1995). 
+
+
+In large part, this controversy derives from a 
+fundamental disagreement over the nature and constitutional 
+significance of an instructional omission on an element. Some 
+circuits, like the First and Sixth, hold that a complete instruc- 
+
+
+App. 1995); State v. Brown, 647 A.2d 17 (Conn. App. Ct. 1994); Jones v. 
+State, 666 So. 2d 995 (Fla. Dist. Ct. App. 1996); Robinson v. State, 473 
+S.E.2d 519 (Ga. Ct. App. 1996); McKinney v. State, 553 N.E.2d 860 (Ind. 
+Ct. App. 1990); Monk v. State, 619 A.2d 166 (Md. Ct. Spec. App. 1993); 
+State v. Rhome, 462 S.E.2d 656 (N.C. Ct. App. 1995); State v. Monroe, 
+790 P.2d 1188 (Or. Ct. App. 1990); Commonwealth v. Tharp, 541 A.2d 14 
+(Pa. Super. Ct. 1988); State v. Moriarty, 321 N.W.2d 324 (Wis. Ct. App. 
+
+
+1982). 
+
+
+14 
+
+
+tional omission is tantamount to a directed verdict by the trial 
+court on the omitted element, and therefore cannot be harmless. 
+See, e.g., Hoover, 802 F.2d at 177 (“when an instruction 
+prevents the jury from considering a material issue, it is 
+equivalent to a directed verdict on that issue and therefore 
+cannot be considered harmless”); United States v. Lopez, 71 
+F.3d 954, 960 (Ist Cir. 1995) (same), cert. denied, 518 U.S. 
+1008 (1996). Other courts, like the Eleventh Circuit, have 
+expressly rejected this view, refusing to “equate an instructional 
+omission with a directed verdict” on the ground that “failure to 
+instruct on a particular element does not completely prohibit the 
+jury from considering evidence relevant to that issue.” Rogers, 
+94 F.3d at 1526 n.13. See also Hennessy v. Goldsmith, 929 
+F.2d 511, 515 (9th Cir. 1991) (refusing to equate failure to 
+instruct the jury on an essential element with a directed verdict 
+on that element). 
+
+
+Whatever the answer, the prejudice to petitioner and 
+others resulting from this split of authority is plain. Had 
+petitioner resided in any of the eight circuits that refuse to apply 
+harmless-error analysis to Gaudin errors and other elemental 
+omissions, his tax fraud conviction would have been reversed, 
+entitling him to a new trial before a properly instructed jury. 
+
+
+It also is apparent that absent Supreme Court review, 
+this question will undoubtedly continue to plague the state and 
+federal courts in Gaudin and other cases where elements have 
+been removed from the jury’s consideration. Given the sheer 
+volume of recent cases decided by the state and federal courts 
+of appeals addressing this important issue, without any 
+consensus, there is also no reason to believe that the lower 
+courts will be able to resolve their disagreement without 
+Supreme Court guidance. Review by this Court thus is 
+warranted “to address this important issue of constitutional 
+law.” Rogers, 118 S. Ct. at 677 (O’Connor, J., concurring). 
+
+
+15 
+
+
+B. The Court of Appeals’ Holding Squarely Conflicts 
+With This Court’s Harmless-Error Decisions. 
+
+
+It is undisputed that materiality is an element of the tax 
+fraud offense (26 U.S.C. § 7206(1)) of which petitioner stands 
+convicted. It also is uncontested that the district court explicitly 
+removed that element from the jury’s consideration by (1) 
+deciding that element itself, (2) charging the jury in its tax 
+fraud instruction that the jury “need not consider” materiality, 
+and (3) instructing that materiality “is not a question for the 
+jury to decide.” App., infra, 34a. Thus, as the court of appeals 
+held, the trial court clearly violated petitioner’s constitutional 
+right to a jury trial under United States v. Gaudin, 515 U.S. 
+506 (1995). The court of appeals concluded, however, that this 
+constitutional error was subject to harmless-error review, and 
+in fact was harmless based on its review of the record evidence. 
+
+
+App., infra, 13a. 
+
+
+The court of appeals’ use of the “harmless error” 
+doctrine to supply a finding that the jury never made cannot be 
+reconciled with this Court’s decisions that consistently have 
+safeguarded the defendant’s right to a jury determination on all 
+essential elements of the offense charged. See, e.g., Sullivan 
+v. Louisiana, 508 U.S. 275 (1993). Under Sullivan, the trial 
+court’s failure to instruct the jury on an element of an offense, 
+and the jury’s resultant failure to determine whether that 
+element was established beyond a reasonable doubt, cannot 
+constitutionally be “harmless” regardless of an appellate court's 
+perception of the record or its certainty of guilt. 
+
+A criminal defendant's constitutional right to a trial by 
+jury “includes, of course, as its most important element, the 
+right to have the jury, rather than the judge, reach the requisite 
+finding of ‘guilty."” Sullivan, 508 U.S. at 277. Accord United 
+Bhd. of Carpenters v. United States Bay Counties Dist. Council, 
+330 U.S. 395, 409-10 (1947) (“guilt is determined by the jury, 
+
+
+16 
+
+
+not the court”). As Justice Frankfurter explained for the Court 
+more than 50 years ago: 
+
+
+In view of the place of importance that trial by 
+jury has in our Bill of Rights, it is not to be 
+supposed that Congress intended to substitute the 
+belief of appellate judges in the guilt of an 
+accused, however justifiably engendered by the 
+dead record, for ascertainment of guilt by a jury 
+under appropriate judicial guidance, however 
+cumbersome that process may be. 
+
+
+Bollenbach v. United States, 326 U.S. 607, 615 (1946). See 
+also Harry T. Edwards, To Err Is Human, But Not Always 
+Harmless: When Should Legal Error Be Tolerated?, 70 N.Y.U. 
+L. REV. 1167, 1191 (1995). 
+
+
+The Constitution “gives a criminal defendant the right to 
+have a jury determine, beyond a reasonable doubt, his guilt of 
+every element of the crime with which he is charged.” Gaudin, 
+515 U.S. at 522-23. Accord In re Winship, 397 U.S. 358, 364 
+(1970) (“we explicitly hold that the Due Process Clause protects 
+the accused against conviction except upon proof beyond a 
+reasonable doubt of every fact necessary to constitute the crime 
+with he is charged”). This is a right that cannot be made to 
+depend upon a court’s perception of the defendant’s guilt or the 
+weight of the record evidence.’ A court “may not direct a 
+
+
+* If the instructional omission does not prevent the reviewing court from 
+concluding, beyond a reasonable doubt, “that the jury actually made the 
+finding that inheres in the [omitted] element,” then harmless error review 
+may be applied. See California v. Roy, 117 S. Ct. 337, 339-40 (1996) 
+(Scalia, J., concurring) (citing Carella, 491 U.S. at 271 (Scalia, J.. 
+concurring in the judgment)). But, as noted supra at 15, this case does not 
+involve one of those “rare situations” where what the jury found can fairly 
+be said to encompass what it was told not to find. Carella, 491 U.S. at 270 
+
+
+17 
+
+
+verdict for the State, no matter how overwhelming the 
+evidence.” Sullivan, 508 U.S. at 277. Accord, e.g., United 
+States v. Martin Linen Supply Co., 430 U.S. 564, 572 (1977) 
+(“a trial judge is prohibited from entering a judgment of 
+conviction or directing the jury to come forward with such a 
+verdict, regardless of how overwhelmingly the evidence may 
+point in that direction”) (citing Carpenters, 330 U.S. at 408; 
+Sparf v. United States, 156 U.S. 51, 105 (1895)). 
+
+
+In confronting the question of whether, and to what 
+extent, instructional errors are amenable to harmless-error 
+scrutiny, the Court consistently has adhered to the bedrock 
+principle that an appellate court may not serve as the finder of 
+fact. In Carpenters, for instance, the trial court misdescribed an 
+element by failing to properly charge the jury that a labor union 
+could be convicted of an antitrust conspiracy only if the union 
+actively participated in the unlawful acts in question. Because 
+the trial court’s error completely foreclosed the jury's 
+consideration of whether the defendants had actively 
+
+in the conspiracy—an element of the crime 
+cea Gunaad © eaten oa the record 
+evidence of active participation, notwithstanding its apparent 
+strength. 330 U.S. at 408-09. 
+
+In contrast to the circumstances presented in Carpenters, 
+it is possible that a jury, while misinstructed on an element, 
+may nonetheless find the facts necessary to establish the proper 
+element beyond a reasonable doubt. For instance, in Pope v. 
+Illinois, 481 U.S. 497 (1987), the jury was instructed that it 
+should base its determination of whether the materials at issue 
+
+
+(quoting Connecticut v. Johnson, 460 U.S. 73, 87 (1983) (plurality 
+opinion)). The trial court expressly instructed the jury that materiality “was 
+not for the jury to decide,” and itself directed a finding of materiality in 
+favor of the prosecution. App., infra, 34a. 
+
+
+18 
+
+
+were obscene upon how ordinary adults in the State of Illinois 
+would view the material. The Court ruled that this instruction 
+was flawed under the First Amendment, because obscenity 
+should be judged not from the perspective of “an ordinary 
+member of any given community,” but rather from that of “a 
+reasonable person.” /d. at 500-501. The Court remanded the 
+case to the state appellate court to determine whether the error 
+was harmless. /d. at 504. As Justice Scalia later explained, the 
+error in Pope was subject to harmless-error review because “no 
+rational juror could plausibly have found the magazines utterly 
+lacking in value under a community standard aid come to a 
+different conclusion under a reasonable person standard.” 
+Carella, 491 U.S. at 271 (concurring opinion). Thus, the 
+appellate court in Pope validly could conclude that the jury 
+actually found the required element notwithstanding its 
+misdescription in the jury instructions. 
+
+
+Read in tandem, Carpenters and Pope demonstrate that, 
+at least analytically, the wholesale omission of an element is “as 
+easily characterized as a ‘misdescription of an element’ of the 
+crime, as it is characterized as an error of ‘omission.’” 
+California v. Roy, 117 S. Ct. 337, 339 (1996) (per curiam). 
+Indeed, as this Court noted in Johnson, 117 S. Ct. at 1550, 
+“[t}he failure to submit materiality to the jury, as in this case, 
+can just as easily be analogized to improperly instructing the 
+jury on an element of the offense * * *, an error which is 
+subject to harmless-error analysis, as it can be to failing to 
+give a proper reasonable-doubt instruction altogether.” 
+(Citations omitted). Omissions and misdescriptions each can 
+“deprive[] the jury of its factfinding role” and thus will 
+“circumscribe the availability of harmless-error analysis.” 
+Carella, 491 U.S. at 269, 270 (Scalia, J., concurring). But in 
+either event, the instructional error can be subject to harmless- 
+error scrutiny only when the predicate facts found by the jury 
+under the instructions actually given “are so closely related” to 
+
+
+19 
+
+
+the element omitted by the trial court “that no rational jury 
+could find those facts without also finding” the facts necessary 
+to establish the omitted element beyond a reasonable doubt, 
+such that “making those findings is functionally equivalent to 
+finding the [omitted] element.” Sullivan, 508 U.S. at 281. 
+The Eleventh Circuit’s decision cannot be reconciled 
+with the Court’s harmless-error decisions. The court of appeals 
+acknowledged “[t}he district court * * * erred in not submitting 
+the element of materiality to the jury regarding Neder’s 
+§ 7206(1) offenses” (App., infra, 10a), and that the jury never 
+made any findings concerning materiality. The court 
+nevertheless declared harmless the removal of materiality from 
+the jury instructions. The court justified its use of the harmless- 
+error doctrine by concluding that because “materiality was not 
+in dispute,” the trial court’s directed finding of materiality in 
+favor of the prosecution “‘did not contribute to the verdict 
+obtained.” App., infra, 13a (quoting Yates v. Evatt, 500 U.S. 
+391, 403 (1991)). Such reasoning, however, reflects a 
+fundamental misunderstanding of the harmless-error doctrine. 
+
+
+The reason why the harmless-error doctrine cannot be 
+applied in this case has nothing to do with the weight of the 
+evidence, or whether materiality was actively disputed at trial 
+(which it was). It is inapplicable because without a complete 
+jury verdict on each element of the offense charged, “there has 
+been no jury verdict within the meaning of the Sixth 
+Amendment, [and] the entire premise of Chapman review is 
+simply absent.” Sullivan, 508 U.S. at 280. As Justice Scalia has 
+explained, “[t}he absence of a formal verdict on [each element] 
+can not be rendered harmless by the fact that, given the 
+evidence, no reasonable jury would have found otherwise. To 
+allow the error to be cured in that fashion would be to dispense 
+with trial by jury.” Roy, 117 S. Ct. at 339 (concurring 
+opinion). 
+
+
+20 
+
+
+The court of appeals reversibly erred in applying the 
+harmless-error doctrine to the Gaudin error below. Harmless- 
+error review has no place where the jury never made a 
+constitutionally valid determination of guilt on each element of 
+the offense charged. Without a complete verdict, “the 
+conviction must be reversed, no matter how inescapable the 
+findings to support that verdict might be.” Roy, 117 S. Ct. at 
+339 (Scalia, J., concurring). Accord Old Chief v. United States, 
+117 S. Ct. 644, 659 ( 1997) (O'Connor, J., dissenting) (same). 
+See also G. Chernack, Note, Silence Cannot Be Harmless: 
+United States v. Rogers, 106 YALE L.J. 2305, 2309 (1997) 
+(“By completely undermining the promise of trial by jury, an 
+omitted instruction should lead to automatic reversal”). 
+
+
+In short, regardless of the Eleventh Circuit's perception 
+of the record, petitioner's tax fraud conviction cannot stand for 
+the simple reason that one of the essential elements of the 
+offense with which he was changed was decided nor by the 
+jury, but by the court. Such an error cannot constitutionally be 
+harmless, for “‘the error in such a case is that the wrong entity 
+judged the defendant guilty.’” Sullivan, 508 U.S. at 280 
+(quoting Rose, 478 U.S. at 578). The Eleventh Circuit's 
+affirmance of petitioner’s tax fraud conviction must be reversed. 
+
+
+Il. THE ELEVENTH CIRCUIT’S HOLDING THAT 
+MATERIALITY IS NOT AN ELEMENT OF THE 
+FEDERAL MAIL, WIRE AND BANK FRAUD 
+STATUTES CONFLICTS WITH DECISIONS OF 
+OTHER CIRCUITS AND OF THIS COURT. 
+
+
+A. The Courts of Appeals Are Deeply Split As To 
+Whether Materiality Is An Element Of Federal 
+Mail, Wire And Bank Fraud. 
+
+
+Although the trial court removed materiality from the 
+jury's consideration, the court of appeals affirmed petitioner's 
+mail, wire and bank fraud convictions on the ground that 
+materiality is not an element of any of those statutes, and that 
+
+
+21 
+
+
+_ 
+
+
+no Gaudin error thus was committed. As demonstrated below, 
+the Eleventh Circuit's decision conflicts with those of at least 
+three other circuits that have held that materiality is an element 
+of these statutes. Accordingly, and because decisions of the 
+courts of appeals truly reflect a striking degree of confusion as 
+to this important question, Supreme Court review is warranted. 
+
+The operative language of the mail, wire and bank fraud 
+statutes is essentially the same. Each punishes a “scheme or 
+artifice” either “to defraud” or to “obtain[{]” money or property 
+“by means of false or fraudulent pretenses, representations, or 
+promises.” 18 U.S.C. §§ 1341, 1343, 1344. Citing this Court's 
+decision in United States v. Wells, 117 S. Ct. 921 (1997), the 
+court of appeals held that materiality is not an element of these 
+offenses, but recognized that the circuits have been unable to 
+reach agreement on this question. See, e.g., App., infra, 7a 
+n.4, 9a-10a (noting conflicting authority); United States v. 
+Lopez, 71 F.3d 954, 962 (ist Cir. 1995) (noting that the First 
+Circuit’s “position is at odds with some circuits and with both 
+of the standard instruction treatises”), cert. denied, 518 U.S. 
+1008 (1996). This conflict has only deepened further since 
+Wells wis decided 
+
+
+The court of appeals’ holding that materiality is not an 
+element of the mail, wire and bank fraud offenses follows 
+similar pre-Wells decisions from the First and Fifth Circuits. "° 
+
+
+See, e.g., United States v. Faulhaber, 929 F.2d 16, 18 (ist Cir. 1991) 
+(district court did not err in failing to instruct jury on materiality in 
+prosecution under §§ 1341 and 1344); United States v. Fraza, 106 F.3d 
+1050, 1053 (ist Cir. 1997) (holding that § 1344 does not require “proof that 
+the statements were ‘materially false’); Abell v. Potomac Ins. Co., 858 
+F.2d 1104, 1129 (Sth Cir. 1988) (“[mJateriality and reliance . . . are not 
+elements of either wire fraud or mail fraud”), vacated on other grounds, 492 
+U.S. 914 (1989); United States v. Moser, 123 F.3d 813, 826 (Sth Cir.) 
+(same), cert. denied, 118 S. Ct. 642 (1997). 
+
+
+22 
+
+
+However, the Eleventh Circuit’s holding is squarely at odds 
+with other decisions of these Circuits, and with rulings from the 
+Second, Sixth, Seventh, Ninth, Tenth and D.C. Circuits (both 
+before and after Wells) which have held that materiality is an 
+element of the mail, wire and bank fraud offenses.'! 
+
+
+'' See, e.g., United States v. Smith, 46 F.3d 1223, 1236 (ist Cir.) (“We 
+agree that § 1344(2) requires a material misrepresentation.”), cert. denied, 
+516 U.S. 864 (1995); United States vy. Von Barta, 635 F.2d 999, 1006 n.14 
+(2d Cir. 1980) (in mail fraud prosecution, “the deceit must have gone to the 
+nature of the bargain; that is, any nondisclosures or affirmative 
+muisrepresentations must have been material”) (citation omitted), cert. denied, 
+450 U.S. 998 (1981); United States v. Jobe, 101 F.3d 1046, 1061 (Sth Cir. 
+1996) (§ 1344 has “up to now clearly incorporated a materiality element”), 
+cert. denied, 118 S. Ct. 81 (1997); Central Distribs. of Beer v. Conn, 
+5 F.3d 181, 184 (6th Cir. 1993) (plaintiff “cannot maintain a civil RICO 
+claim” alleging mail fraud and wire fraud as predicate acts “absent evidence 
+that the defendants made misrepresentations or omissions of material fact”), 
+cert. denied, 512 U.S. 1207 (1994); United States v. DeSantis, 134 F.3d 
+760, 764 (6th Cir. 1998) (under § 1341, “a defendant must knowingly make 
+a material misrepresentation or knowingly omit a material fact”); United 
+States v. Dunn, 961 F.2d 648, 651 (7th Cir. 1992) (in mail fraud 
+prosecution, “the government must prove that the defendant has knowingly 
+made a ‘material misrepresentation or omission’”) (quoting United States v. 
+York, 933 F.2d 1343, 1349 (7th Cir.), cert. denied, 502 U.S. 916 (1991)); 
+United States v. Davis, 989 F.2d 244, 247 (7th Cir. 1993) (acquittal was 
+required under § 1344(2) because “the government failed to prove that 
+Davis's misrepresentation * * * was material”); United States v. Halbert, 
+640 F.2d 1000, 1008 (9th Cir. 1981) (“a requirement of materiality should 
+apply to the misrepresentations which form the basis for a mail fraud 
+violation”); United States v. Nash, 115 F.3d 1431, 1436 (9th Cir. 1997) 
+(holding that “the materiality requirement for section 1344 * * * survives 
+Wells”), cert. denied, 118 S. Ct. 1054 (1998); United States v. Sayan, 968 
+F.2d 55, 61 n.7 (D.C. Cir. 1992) (§ 1344(2) “require[s] a material 
+misrepresentation”). See also, e.g., United States v. Rodriguez, 1998 WL 
+130748, *4 (2d Cir. 1998) (“the misrepresentations must be material to give 
+rise to liability under” § 1344); United States v. Campbell, 64 F.3d 967, 975 
+(Sth Cir. 1995) (“Under § 1344(2), the defendant must make a material 
+misrepresentation to the bank”); United States v. Hollis, 971 F.2d 1441, 
+
+
+23 
+
+
+Other circuits have taken an intermediate approach, 
+staking out an indeterminate middle ground between those 
+decisions that clearly identify materiality as an element of these 
+statutory offenses and those that reject a materiality 
+requirement. For instance, the Tenth Circuit has held that while 
+wire fraud requires a “showing of materiality,” materiality is 
+not actually an “independent element” of the offense. United 
+States v. Cochran, 109 F.3d 660, 667 & n.3 (10th Cir. 1997). 
+The court explained: 
+
+
+Although materiality is not an independent 
+element of a wire fraud prosecution, there is a 
+materiality aspect to the determination whether 
+the acts of an accused give rise to a scheme to 
+defraud that is appropriately submitted to the 
+jury as one component of the larger factual 
+question as to the existence of fraud and a 
+scheme to defraud. 
+
+
+Id. at 667 n.3 (internal quotations omitted). See also United 
+States v. Slaughter, 128 F.3d 623, 629 (8th Cir. 1997) (“We 
+join our sister court in the Tenth Circuit in finding that 
+materiality is not a separate essential element of wire fraud”). 
+The Seventh Circuit, on the other hand, has held that while 
+§ 1343 requires a showing of materiality, because Congress did 
+not “want to classify immaterial lies as frauds for purposes of 
+the mail- and wire-fraud statutes,” there is no need to instruct 
+the jury separately on materiality since “the term ‘fraud’ 
+embodies the concept of materiality” and “[a]n instruction in 
+the language of the statute adequately puts the issue before the 
+jury.” United States v. Coffman, 94 F *d 330 (7th Cir. 1996), 
+cert. denied, 117 S. Ct. 1426 (1997). 
+
+
+1452 (10th Cir. 1992) (under § 1344, “[c]ertainly * * * if the 
+misrepresentations were immaterial, then the defendant has a valid defense”), 
+
+
+cert. denied, 507 U.S. 985 (1993).. 
+
+
+a+ 
+
+
+The circuit split over this issue has deepened further 
+since Wells. Indeed, the Eleventh Circuit below openly 
+recognized that its decision conflicts with other post-Wells 
+cases. App., infra, 7a n.4, 9a-10a. On the one hand, like the 
+Eleventh Circuit, the Fifth Circuit has agreed that Wells “casts 
+doubt” on earlier cases holding that materiality is an element of 
+§ 1344. United States v. DuPre, 117 F.3d 810, 815 (Sth Cir. 
+1997), cert. denied, 118 S. Ct. 857 (1998). The Ninth and 
+Tenth Circuits, however, have explicitly held that Wells has no 
+bearing on the question of whether materiality is an element of 
+the mail, wire and bank fraud offenses. See, e.g., Nash, 115 
+F.3d at 1436 (“the materiality requirement for section 1344 
+* * * survives Wells”); Cochran, 109 F.3d at 667 n.3 (Wells 
+“is not to the contrary” of the Tenth Circuit’s view that there 
+is a “materiality aspect” to § 1343). Cf. United States v. Shunk, 
+113 F.3d 31, 34 (Sth Cir. 1997) (holding that materiality 
+remains an element of 18 U.S.C. § 1006 because Wells “deal[s] 
+with a different section”). In further contrast, other post-Wells 
+decisions have held that materiality is an element of these 
+crimes without any mention of Wells at all. See, e.g., United 
+States v. Rodriguez, 1998 WL 130748, *4 (2d Cir. 1998) 
+(“misrepresentations must be material” under § 1344); 
+DeSantis, 134 F.3d at 764 (§ 1341 requires a “material 
+misrepresentation” or the omission of a “material fact”). 
+
+
+In short, the circuits are thoroughly confused as to 
+whether materiality is an element of the federal mail, wire and 
+bank fraud statutes. Yet, as statutes whose violation can lead to 
+criminal sanctions, such glaring uncertainty over their elements 
+is intolerable, for it denies “the populace ‘fair warning’ of the 
+line between criminal and lawful activity.” McElroy v. United 
+States, 455 U.S. 642, 658 (1982). As Justice Holmes wrote in 
+McBoyle v. United States, 283 U.S. 25, 27 (1931), “[a] fair 
+warning should be given to the world in language that the 
+common world will understand, of what the law intends to do 
+
+
+25 
+
+
+if a certain line is passed.” Accord United States v. Lanier, 117 
+S. Ct. 1219, 1225 (1997) (describing the “fair warning” 
+requirement as an essential ingredient of due process). 
+
+
+Under the Constitution, it is also unacceptable for the 
+elements of a federal criminal offense to vary depending upon 
+the circuit in which the defendant happens to reside. Indeed, to 
+allow the elements of these criminal offenses arbitrarily to 
+depend upon the law of each circuit would violate the well- 
+established canon that “because of the seriousness of criminal 
+penalties, and because criminal punishment usually represents 
+the moral condemnation of the community, legislatures and not 
+courts should define criminal activity.” United States v. Bass, 
+404 U.S. 336, 348 (1971). Accord Crandon v. United States, 
+494 U.S. 152, 158 (1990) (same); J. Jeffries, Jr., Legality, 
+Vagueness, and the Construction of Penal Statutes, 71 VA. L. 
+REV. 189, 195 (1985) (“Judicial crime creation is a thing of the 
+past. It is both unacceptable and unnecessary”). 
+
+
+Given the frequency of mail, wire and bank fraud 
+prosecutions (see, e.g., Carpenter v. United States, 484 U.S. 
+19 (1987); United States v. O’Hagan, 117 S. Ct. 2199 (1997); 
+McNally v. United States, 483 U.S. 350 (1987); Schmuck v. 
+United States, 489 U.S. 705 (1989); Tanner v. United States, 
+483 U.S. 107 (1987)), the question of whether materiality is an 
+element of §§ 1341, 1343 and 1344 is certain to recur. 
+Resolution of this question also will be significant in civil cases, 
+since “the large majority of civil RICO complaints use mail 
+fraud, wire fraud or securities fraud as the required predicate 
+offenses.” Agency Holding Corp. v. Malley-Duff & Assocs., 
+Inc., 483 U.S. 143, 149 (1987). See also, e.g., Sedima, 
+S.P.R.L. v. Imrex Co., 473 U.S.479 (1985); Holmes v. 
+Securities Investor Protection Corp. , 503 U.S. 258 (1992); 18 © 
+U.S.C. § 1961(1)(B). The Court should grant the petition to 
+resolve this crucial question and bring needed clarity to this 
+important area of the law. ; 
+
+
+26 
+
+
+B. The Court Of Appeals’ Materiality Holding Is 
+Contrary To This Court’s Statutory And Common 
+Law Decisions That Consistently Have Found 
+Materiality To Be An Essential Element Of Fraud. 
+
+
+In holding that materiality is not an element of the mail, 
+wire and bank fraud offenses, the Eleventh Circuit relied 
+entirely on this Court’s recent decision in Wells, 117 S. Ct. at 
+926-28, which held that materiality is not an element of 18 
+U.S.C. § 1014. The court of appeals concluded that materiality 
+is not an element of §§ 1341, 1343 and 1344 for two reasons. 
+First, it relied heavily on the fact that these statutes “do not 
+contain the word ‘material.’” App., infra, 7a. Second, the court 
+noted that § 1341, which served as the model for §§ 1343 and 
+1344, “was enacted as part of the recodification of the federal 
+criminal code in 1948.” Jbid. As demonstrated below, the 
+Eleventh Circuit's materiality holding is plainly wrong, and 
+reflects a fundamental misreading of Wells. 
+
+
+l. Unlike §§ 1341, 1343 and 1344, which proscribe 
+a “scheme or artifice to defraud, or for obtaining money or 
+property by means of false or fraudulent pretenses, 
+representations, or promises,” Wells involved the application of 
+18 U.S.C. § 1014, which prohibits certain “false statement{s]” 
+to federally insured banks. In holding that the term “false 
+statement” does not include a materiality component, Wells first 
+reaffirmed the presumption that “Congress incorporates the 
+common-law meaning of the terms it uses if those ‘terms * * * 
+have accumulated settled meaning under * * * the common 
+law.”” 117 S. Ct. at 927 (quoting Nationwide Mut. Ins. Co. v. 
+Darden, 503 U.S. 318, 322 (1992)). But finding no evidence 
+that the term “false statement” carried any common law 
+meaning, or that Congress intended that term to require proof 
+of materiality, the Court held that materiality was not an 
+element of § 1014. Wells, 117 S. Ct. at 926-28. 
+
+
+27 
+
+
+Nothing in Wells, however, even remotely suggests that 
+materiality is not an element of §§ 1341, 1343 and 1344. To the 
+contrary, Wells’ reaffirmation of the rule that common law 
+statutory terms convey their common law meaning inexorably 
+leads to the conclusion that materiality is an element of the 
+federal mail, wire and bank fraud offenses. 
+
+
+Unlike the “false statement” statute in Wells, §§ 1341, 
+1343 and 1344 each explicitly prohibits “fraud.” In particular, 
+they punish a “scheme or artifice” either “to defraud” or to 
+“obtain{]” money or property “by means of false or fraudulent 
+pretenses, representations, or promises.” 18 U.S.C. §§ 1341, 
+1343, 1344. The mail fraud statute, which served as the model 
+for the wire and bank fraud statute, was crafted in 1872 as “a 
+general proscription against using the mails to initiate 
+correspondence in furtherance of ‘any scheme or artifice to 
+defraud.’” McNally v. United States, 483 U.S. 350, 356 (1987). 
+As this Court explained in Carpenter v. United States, 484 U.S. 
+19 (1987), “the words ‘to defraud’ in the mail fraud statute 
+have the ‘common understanding’ of ‘wronging one in his 
+property rights by dishonest methods or schemes,’ and ‘usually 
+signify the deprivation of something of value by trick, deceit, 
+chicane or overreaching.’” Jd. at 27 (quoting McNally, 483 
+U.S. at 358 (quoting Hammerschmidt v. United States, 265 
+U.S. 182, 188 (1924)). See also Durland v. United States, 161 
+U.S. 306, 312 (1896). 
+
+
+The “common understanding” of “fraud” has always 
+included materiality as one of its essential elements. For more 
+than a century, this Court has emphasized “the fact that 
+actionable fraud requires a material misrepresentation or 
+omission.” BMW v. Gore, 517 U.S. 559, 579 (1996) (citing 
+RESTATEMENT (SECOND) OF TorRTS § 538 (1977); W. Keeton, 
+et al., Prosser & Keeton on Law of Torts § 108 (Sth ed. 1984)). 
+See also Smith v. Richards, 38 U.S. (13 Pet.) 26, 39 (1839) (a 
+
+“misrepresentation must be of something material, constituting 
+
+
+28 
+
+
+an inducement or motive * * * to purchase, and by which [the 
+aggrieved party] has been actually misled to his injury”) 
+(emphasis added); Stewart v. Wyoming Cattle Ranche Co., 128 
+U.S. 383, 388-89 (1888) (same); 1 J. Story, Commentaries on 
+Equity Jurisprudence § 271 (1886) (“[t}he materiality of the 
+alleged fraudulent statements * * * is one of the necessary 
+ingredients of the offence”); id. §§ 260-61, 267-71. It is black- 
+letter law that “one of the fundamental principles which 
+pervades jurisprudence involving fraud, and the maintenance of 
+actions or defenses based thereon, is that to constitute fraud in 
+any case, the facts misrepresented or concealed must have been 
+material facts which substantially affect the interests of the 
+person alleged to have been defrauded.” 37 AM. JUR. 2D Fraud 
+and Deceit § 177, at 236-37 (1964) (collecting cases). 
+
+
+Against this common law backdrop, it is no surprise that 
+this Court has held that materiality to be an element of other 
+statutes that prohibit fraud but do not mention the word 
+“material.” For instance, this Court has held that materiality is 
+an element of securities fraud statutes such as § 10(b) of the 
+Securities Exchange Act of 1934, which prohibits “any 
+manipulative or deceptive device or contrivance” but makes no 
+mention of “materiality.” See, e.g., Basic Inc. v. Levinson, 485 
+U.S. 224 (1988); Santa Fe Indus., Inc. v. Green, 430 U.S. 
+462, 474 (1977). See also 7 L. Loss & J. SELIGMAN, Securities 
+Regulation 3421-31 (3d ed. 1991) (noting that materiality is an 
+essential element of securities fraud). 
+
+
+By leaping to the conclusion that §§ 1341, 1343 and 
+1344 contain no materiality requirement simply because they do 
+not use the word “material,” the Eleventh Circuit misapplied 
+this Court’s decision in Wells and overlooked the fact that 
+unlike the statute in Wells, the statutes here explicitly prohibit 
+“fraud,” a term whose common law meaning always has 
+required proof of a material misrepresentation or omission. 
+
+
+29 
+
+
+2. The court of appeals also wrongly relied on the 
+fact that the mail fraud statute (§ 1341) was recodified as part 
+of the Federal Criminal Code in 1948. It is certainly true that 
+Wells relied on the fact that § 1014 was recodified in 1948 as 
+a conglomeration of 13 earlier statutes, 10 of which had never 
+required materiality. 117 S. Ct. at 928. Here, on the other 
+hand, § 1341 was merely renumbered in 1948. The mail fraud 
+statute, originally enacted in 1872," and amended in 1909,"* has 
+always targetted “fraud,” and was recodified in 1948 without 
+any substantive change in its language or scope. As the Senate 
+Report explained, the purpose of the recodification was simply 
+to “correct{] typographical and other minor errors, and clarif[y] 
+the language of some sections to conform more closely to the 
+original law, or to remove ambiguities which have been 
+discovered.” S. Rep. No. 303, 8ist Cong., Ist Sess. (1949), 
+reprinted in 1949 U.S.C.C.A.N. 1248, 1248. Thus, the 
+Eleventh Circuit's reliance on the fact that “§ 1341 was enacted 
+as part of the recodification of the federal criminal code in 
+1948” (App., infra, 7a) is wholly misplaced. 
+
+
+In sum, the Eleventh Circuit's holding that materiality 
+is not an element of 18 U.S.C. §§ 1341, 1343 and 1344 is 
+patently erroneous and should be reversed. 
+
+
+2 See Act of June 8, 1872, ch. 335, § 305, 17 Stat. 283, 323 (applicable 
+to “any person having devised or intending to devise any scheme or artifice 
+to defraud” through the use of the mails). 
+
+
+" See Act of March 4, 1909, ch. 321, § 215, 35 Stat. 1088, 1130 
+(“Whoever, having devised or intending to devise any scheme or artifice to 
+defraud, or for obtaining money or property by means of false or fraudulent 
+pretenses, representations, or promises * * *, or any scheme or artifice to 
+obtain money by or through correspondence * * *, shall, for the purpose of 
+executing such scheme or artifice or attempting so to do, place, or cause to 
+be placed, any letter, postal card, package, writing, circular, pamphlet, or 
+advertisement * * * in any post-office * * * shall be fined not more than one 
+thousand dollars, or imprisoned not more than five years, or both”). 
+
+
+30 
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be granted. 
+
+
+Respectfully submitted. 
+
+
+NOEL G. LAWRENCE JAVIER H. RUBINSTEIN 
+
+Law Offices of Counsel of Record 
+
+Noel G. Lawrence, P.A. GARY S. FEINERMAN 
+
+100 Riverside Avenue ROBERT M. Dow, Jr. 
+
+Jacksonville, Florida 32202 KASPAR J. STOFFELMAYR 
+
+(904) 733-1237 Mayer, Brown & Platt 
+190 South LaSalle Street 
+Chicago, Illinois 60603 
+(312) 782-0600 
+
+
+Counsel for Petitioner 
+
+
+APPENDIX 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE ELEVENTH CIRCUIT 
+
+
+UNITED STATES OF AMERICA, Plaintiff-Appellee, 
+v.* 
+ELLIS E. NEDER, Jr., Defendant-Appellant. 
+No. 92-2929. 
+
+
+March 19, 1998. 
+Noel G. Lawrence, Jacksonville, FL, for Defendant-Appellant. 
+
+
+Stephen Kunz, Charles Truncale, Jacksonville, FL, Tamra 
+Phipps, Asst. U.S. Atty., Tampa, FL, for Plaintiff-Appellee. 
+
+
+Appeal from the United States District Court for the Middle 
+District of Florida. 
+
+
+Before TIOFLAT and HULL, Circuit Judges, and KRAVITCH, 
+Senior Circuit Judge. 
+
+
+HULL, Circuit Judge: 
+
+
+Appellant Ellis E. Neder, Jr. appeals his convictions on 
+various false statement, fraud, conspiracy, and racketeering 
+offenses. Neder contends that the district court erred in failing 
+to submit the issue of materiality to the jury with respect to his 
+fraud and false statement offenses.' After review, we affirm. 
+
+
+Brae Ba tg telat mga yay eae 
+
+
+2a 
+
+
+Il. FACTS 
+A. Neder’s Fraudulent Activities 
+
+
+Between 1984 and 1988, Neder engaged in fraudulent 
+activities related to land acquisition, land development, and 
+construction projects. Through his schemes, Neder fraudulently 
+obtained over $30 million in loans from various lending 
+institutions. Neder deposited approximately $7 million in 
+profits on these transactions into his personal account. 
+Testimony at trial revealed that none of the loans would have 
+been approved had the lending institutions been aware of the 
+true nature of the transactions. Neder later defaulted on these 
+loans. 
+
+
+Neder also failed to report income of $1,372,360 in 
+1985 and $4,355,766 in 1986. Neder does not contest that he 
+did not report this money as income or profits from one of his 
+schemes. Instead, Neder testified that he was advised that he 
+Was not required to report this money as income. 
+
+
+B. The Court’s Jury Charge 
+
+
+Neder was indicted for mail fraud, wire fraud, bank 
+fraud, tax fraud, and making illegal false statements. The 
+indictment contained materiality as an element of many of these 
+offenses. Neder and the government submitted proposed jury 
+instructions relating to the elements of the charged offenses. 
+The district court’s final jury charge included “materiality” as 
+an element of the fraud and false statement offenses. However, 
+the district court instructed the jury that if it found beyond a 
+
+
+pattern of misconduct, (6) prosecutorial misconduct and various trial errors 
+combined to violate his due process rights, and (7) the government is 
+precluded from arguing that materiality is not an element of Neder’s false 
+statement and fraud offenses. After review, we conclude that these 
+contentions are without merit. 
+
+
+3a 
+
+
+reasonable doubt that the alleged statements, representations, or 
+promises were false, it need not consider whether they were 
+material because materiality was not an issue for the jury to 
+decide. The court entered its own findings regarding 
+materiality outside the presence of the jury. Neder timely 
+objected to the court's findings and its failure to submit the 
+issue of materiality to the jury. 
+
+
+II. DISCUSSION 
+
+
+We examine (a) whether materiality is an element of the 
+false statement, wire fraud, mail fraud, bank fraud, and tax 
+fraud offenses;? and (b) whether the district court committed 
+reversible error in not submitting the materiality issues to the 
+
+
+jury. 
+A. False Statements: 18 U.S.C. § 1014 
+
+
+Two recent Supreme Court decisions begin our analysis. 
+In United States v. Gaudin, 515 U.S. 506, 115 S.Ct. 2310, 132 
+L.Ed.2d 444 (1995), the Supreme Court assumed materiality to 
+be an element under 18 U.S.C. § 1001, which proscribes 
+certain false statements, and held that the issue of materiality 
+under § 1001 is for the jury, not the judge, to decide. The 
+district judge in Gaudin erroneously failed to submit the 
+materiality issue to the jury. Id. at 523, 115 S.Ct. at 2320. We 
+have since referred to this type of error as a Gaudin error. 
+See, e.g., United States v. Fern, 117 F.3d 1298, 1307 (11th 
+
+
+Cir. 1997). 
+
+
+Two years later in United States v. Wells, __- U.S. ___, 
+117 S.Ct. 921, 137 L.Ed.2d 107 (1997), the Supreme Court 
+
+
+i icti 371 
+
+? Neder’s conspiracy and RICO convictions under 18 U.S.C. §§ 
+and 1962 were based on Neder’s violations of the false statement and fraud 
+statutes. In affirming Neder’s convictions under the false statement and 
+
+
+fraud statutes, we affirm Neder’s conspiracy and RICO convictions as well. 
+
+
+4a 
+
+
+held that materiality is not an element of the false- statement 
+offense in 18 U.S.C. § 1014. Thus, the Court concluded that 
+the district court had not erred in not submitting the questioa of 
+materiality to the jury. Synthesizing Gaudin and Wells, if 
+materiality is not an element, failing to submit the issue iv the 
+jury is not error; but if materiality is an element, a court errs 
+in failing to submit the issue to the jury. 
+
+
+In deciding in Wells that materiality is not an element 
+
+
+under § 1014, the Supreme Court focused on the language of § 
+1014, which states: 
+
+
+Whoever knowingly makes any false statement 
+or report ... for the purpose of influencing in 
+any way the action of ... any institution the 
+accounts of which are insured by the Federal 
+Deposit Insurance Corporation ... shall be fined 
+not more than $1,000,000 or imprisoned not 
+more than 30 years, or both.... 
+
+
+18 U.S.C. § 1014. The Supreme Court emphasized that the 
+text of § 1014 does not mention materiality: 
+
+
+Nowhere does [§ 1014] further say that a 
+material fact must be the subject of the false 
+Statement or so much as mention materiality. To 
+the contrary, its terms cover “any” false 
+Statement that meets the other requirements in 
+the statute, and the term “false statement” 
+
+
+carries no general suggestion of influential 
+significance.... 
+
+
+Wells, «U.S. at__, 117 S.Ct. at 927. 
+
+
+The Supreme Court also acknowledged the presumption 
+that “Congress incorporates the common-law meaning of the 
+terms it uses if those ‘terms have accumulated settled meaning 
+
+
+Sa 
+
+
+under ... the common law.’” /d. (quoting Nationwide Mut. Ins. 
+Co. v. Darden, 503 U.S. 318, 322, 112 S.Ct. 1344, 1348, 117 
+L.Ed.2d 581 (1992)). However, the Supreme Court concluded 
+that the respondents had failed to make any showing that the 
+term “false statement” acquired any implication of materiality 
+at common law. /d. 
+
+Finally, the Supreme Court determined that the 
+legislative history of § 1014 supported its natural reading. /d. 
+at , 117 S.Ct. at 928. Of particular significance was the 
+fact that “[w]hen Congress originally enacted § 1014 as part of 
+its recodification of the federal criminal code in 1948, it 
+explicitly included materiality in other provisions involving false 
+representations.” Jd. Moreover, “of the 13 provisions brought 
+together by § 1014, 10 had previously contained no express 
+materiality provision and received none in the recodification, 
+while 3 of the 13 had contained express omen yj 
+requirements and lost them in the course of consolidation.” /d. 
+The Court concluded that “[t]he most likely inference in these 
+circumstances is that Congress deliberately dropped the term 
+‘materiality’ without intending materiality to be an element of 
+§ 1014.” Td. 
+
+
+In this case, Neder’s § 1014 conviction is controlled by 
+Wells’s holding that materiality is not an element under § 1014. 
+Therefore, the district court did not commit a Gaudin error in 
+failing <0 submit the issue of materiality to the jury because 
+materiality is not an element of a § 1014 offense.’ 
+
+
+> We recently relied on Wells in determining that materiality is not an 
+element under 15 U.S.C. § 645(a) in United States v. Condon, 132 F.3d 
+653, 656 (llth Cir.1998), or 18 U.S.C. § 1010 in United States v. 
+DeCastro, 113 F.3d 176, 179 (11th Cir. 1997). 
+
+
+6a 
+
+
+B. Mail Fraud And Wire Fraud: 18 U.S.C. §§ 1341 
+And 1343 
+
+
+We now turn to whether materiality is an element under 
+§§ 1341 and 1343. As an initial matter, we examine the pre- 
+Wells decisions of this court regarding the elements of §§ 1341 
+(mail fraud) and 1343 (wire fraud). Our decisions list the 
+elements of these offenses without listing materiality as one of 
+the elements. See United States v. Pitt, 717 F.2d 1334, 1339- 
+40 (11th Cir. 1983) (listing elements of wire fraud without 
+including materiality); United States v. Scott, 701 F.2d 1340, 
+1343 (11th Cir.1983) (listing elements of mail fraud without 
+including materiality). However, no cases directly hold that 
+materiality is not an element under §§ 1341 and 1343. 
+
+
+Therefore, in determining whether materiality is an 
+element under §§ 1341 and 1343, we begin with the Supreme 
+Court’s admonition to examine the statutes’ language. Section 
+1341 proscribes the act or acts of using the mails to execute 
+“any scheme or artifice to defraud, or for obtaining money or 
+property by means of false or fraudulent pretenses, 
+representations, or promises....” 18 U.S.C. § 1341: see also 
+United States v. Ethridge, 948 F.2d 1215, 1216 (11th 
+Cir.1991). The text of § 1343 is substantially similar to § 1341 
+and states as follows: 
+
+
+Whoever, having devised or intending to devise 
+any scheme or artifice to defraud, or for 
+obtaining money or property by means of false 
+Or fraudulent pretenses, representations, or 
+promises, transmits or causes to be transmitted 
+by means of wire, radio, or television 
+communication in interstate or foreign 
+commerce, any writings, signs, signals, pictures, 
+or sounds for the purpose of executing such 
+scheme or artifice, shall be fined or imprisoned 
+... Or both. 
+
+
+7a 
+
+
+18 U.S.C. § 1343. 
+
+
+Sections 1341 and 1343 are similar to § 1014 in several 
+respects. Foremost, §§ 1341 and 1343 do not contain the word 
+“material.” Further, § 1341 was enacted as part of the 
+recodification of the federal criminal code in 1948, and § 1343 
+was patterned after § 1341. Based on these factors considered 
+in Wells, we conclude that materiality is not an element of 
+fraud offenses in §§ 1341 and 1343.* As discussed below, we 
+reach the same conclusion regarding § 1344. 
+
+
+C. Bank Fraud: 18 U.S.C. § 1344 
+
+
+In United States v. Goldsmith, 109 F.3d 714 (11th 
+Cir.1997), this court lists materiality as an element under 
+§ 1344. Id. at 715. However, Goldsmith and the cases on which 
+it relies do not directly address whether materiality is an 
+element under § 1344.° For example, after listing materiality as 
+an element under one part of § 1344, the Goldsmith panel did 
+not mention the word “material” in the remainder of its opinion 
+
+
+* In United States v. Cochran, 109 F.3d 660 (10th Cir. 1997), the Tenth 
+Circuit acknowledged that § 1343 supports two theories of liability: (1) a 
+scheme or artifice to defraud; or (2) a scheme to obtain money by false 
+pretenses, representations, or promises. /d. at 664. The court found that 
+“materiality is not an independent element of a wire fraud prosecution, but 
+held nonetheless that “there is a materiality aspect to the determination 
+whether the acts of an accused give rise to a scheme to defraud. Cochran, 
+109 F.3d at 667 n. 3. We agree with the Tenth Circuit that materiality is 
+not an independent element under § 1343. We find unpersuasive, however, 
+the reasons supporting the Tenth Circuit’s conclusion that materiality is an 
+aspect of a scheme to defraud. 
+
+
+S See United States v. Falcone, 934 F.2d 1528, 1545 (11th Cir.), 
+vacated, 939 F.2d 1455 (11th Cir.1991), modified in part and reinstated in 
+part, 960 F.2d 988 (11th Cir.1992) (en banc); United States v. Swearingen, 
+858 F.2d 1555, 1556 (11th Cir.1988). 
+
+
+8a 
+
+
+because materiality was not in issue. Although decided after 
+Wells, Goldsmith does not re-examine the issue of materiality 
+in light of Wells. Instead, Goldsmith follows this court’s pre- 
+Wells decisions which also have not been re-examined in light 
+of Wells. 
+
+
+In addition, in its discussion of the relevant issues, the 
+Goldsmith panel acknowledged that § 1344 has two parts, 
+namely § 1344(a)(1) and (a)(2),° and that if an indictment 
+charged a defendant under both parts, the trial court could 
+submit the case to the jury so long as the evidence at trial was 
+sufficient to convict under either part. 109 F.3d at 716. The 
+Goldsmith panel listed the elements under subsections (a)(1) and 
+(a)(2) but ultimately affirmed the defendant's conviction under 
+§ 1344(a)(1), the subsection under which it did not list 
+materiality as an element.’ Thus, the Goldsmith panel's listing 
+materiality as an element under § 1344(a)(2) was not necessary 
+to the panel’s holding and was, consequently, dicta. As a 
+result, we are not bound by Goldsmith on whether materiality 
+is an element under § 1344, and we follow Wells in addressing 
+this question.* 
+
+
+* In 1989, § 1344 was amended such that the former subsection (a) 
+became the entire section. Thus, what Goldsmith referred to as subsections 
+1344(a)(1) and (a)(2) are now subsections 1344(1) and (2). 
+
+
+” The defendant in Goldsmith was indicted under both subsections (a)(1) 
+and (a2). Because the evidence supported the defendant’s conviction under 
+subsection (a)(1), the court did not reach whether the defendant violated 
+subsection (a2). See Goldsmith, 109 F.3d at 716 (“Where the indictment 
+and instructions to the jury charge both clauses of the statute, as was done 
+in this case, the defendant's conviction may be sustained under either 
+clause.) (citation omitted). 
+
+
+* To the extent any of our pre-Weills decisions held that materiality is an 
+element under § 1344, we disavow those holdings based on the Supreme 
+Court's intervening decision in Wells. 
+
+
+9a 
+
+
+Applying Wells to § 1344, we first observe that the word 
+“material” does not appear in the statute. The version of 18 
+U.S.C. § 1344 in effect when Neder was indicted states in 
+pertinent part: 
+
+(a) Whoever knowingly executes, or attempts to 
+
+execute, a scheme or artifice— 
+
+(1) to defraud a financial institution; or 
+
+(2) to obtain any of the moneys, funds, credits, 
+
+assets, securities, or other property owned by, or 
+
+under the custody or control of, a financial 
+
+institution, by means of false or fraudulent 
+
+pretenses, representations, or promises shall be 
+
+fined not more than $10,000 or imprisoned not 
+
+more than five years, or both. 
+
+
+18 U.S.C. § 1344 (1988). Section 1344 was not enacted during 
+the recodification of the federal criminal code in 1948, but its 
+language, like § 1343, is substantially identical to and was 
+patterned after § 1341. These factors, as we stated regarding 
+§$§ 1341 and 1343, persuade us that materiality is not an 
+element under § 1344. 
+
+
+D. Use Of The Term “False Representation” 
+
+
+Before addressing Neder’s tax fraud convictions, we do 
+
+note that § 1014 criminalizes false statements, while §§ 1341, 
+1343, and 1344 proscribe “false or fraudulent pretenses, 
+representations, or promises,” and that on that basis the Ninth 
+Circuit has held, after Wells, that materiality is an element 
+under § 1344. See, United States v. Nash, 115 F.3d 1431, 
+1436 (9th Cir.1997), cert. denied, _ U.S. __, 118 S.Ct. 
+1054, L.Ed.2d (1998). We disagree with the Ninth 
+Circuit's 's analysis that since the term “representation” included 
+“some notion of materiality at common law,” this indicates that 
+Congress intended for materiality to be an element of the bank 
+fraud statute. See id. This ignores that Congress now has 
+
+
+10a 
+
+
+employed the terms “material representation” and “material 
+misrepresentation” in other statutes.” The fact that Congress 
+uses the term “material” in conjunction with “representation” 
+
+or “misrepresentation” in some statutes but not in others rebuts 
+
+any presumption that Congress now intends to make materiality 
+
+an element under a statute whenever it employs the term 
+representation” in that statute. 
+
+
+We are also unpersuaded by the Ninth Circuit’s rationale 
+that § 1344 targets fraud and, therefore, necessarily includes 
+materiality as an element of bank fraud. This approach is 
+inconsistent with Wells, which disfavors inferring a materiality 
+requirement where the statutory language does not expressly 
+include one. See Wells, © U.S. at __, 117 S.Ct. at 927: 
+Nash, 115 F.3d at 1436. “ 
+
+
+E. Tax Fraud: 26 U.S.C. § 7206(1) 
+
+
+Finally, we address whether materiality is an element 
+under 26 U.S.C. § 7206(1). The relevant language of § 7206(1) 
+refers to “every material matter,” as follows: 
+
+
+Any person who— 
+
+(1) Declaration under penalties of 
+perjury.—Willfully makes and subscribes any 
+return, statement, or other document, which 
+contains or is verified by written declaration that 
+it is made under the penalties of perjury, and 
+
+
+_* All of the following statutes use either the term “material 
+representation” or “material misrepresentation”: 8 U.S.C. § 1324c(f); 11 
+U.S.C. § S0S(b); 12 U.S.C. § 17154; 15 U.S.C. § 78u- 4(gX LOK AID; 
+1S U.S.C. § 158; 15 U.S.C. § 1647(b)(1); 25 U.S.C. § 88; 25 U.S.C. § 
+1494; 38 U.S.C. § 3721; 39 U.S.C. § 3005(d); 42 U.S.C. § 5919(f); 42 
+pees : ae 42 U.S.C. § 8817(f); 42 U.S.C. § 8835(g); 45 U.S.C. 
+
+664(b); S.C. § 720(d); 45 U.S.C. § 746(a); 45 U.S.C. : 
+48 U.S.C. § 1574b(d). ee 
+
+
+lla 
+
+
+which he does not believe to be true and correct 
+as to every material matter ... shall be guilty of 
+a felony and, upon conviction thereof, shall be 
+fined not more than $100,000 ... or imprisoned 
+not more than 3 years, or both.... 
+
+
+26 U.S.C. § 7206(1) (emphasis supplied). The government does 
+not dispute that materiality is an element under § 7206(1) but 
+contends that the materiality question is purely a question of law 
+and appropriately was decided by the court. 
+
+
+Based on Gaudin, a majority of circuits addressing the 
+question have held that the question of materiality under 
+§ 7206(1) is for the jury, not the judge. See United States v. 
+Uchimura, 125 F.3d 1282, 1286 (9th Cir.1997); United States 
+v. McGuire, 99 F.3d 671, 672 (Sth Cir. 1996) (en banc), cert. 
+denied, __ U.S. __, 117 S.Ct. 2407, 138 L.Ed.2d 174 
+(1997); United States v. DiRico, 78 F.3d 732, 736 (ist 
+Cir.1996); United States v. DiDomenico, 78 F.3d 294, 303 
+(7th Cir.), cert. denied, __ U.S. __, 117 S.Ct. 507, 136 
+L.Ed.2d 398 (1996). But see United States v. Klausner, 80 
+F.3d 55, 60-61 (2d Cir.1996). We now join the First, Fifth, 
+Seventh, and Ninth Circuits in holding that the question of 
+materiality under § 7206(1) is for the jury. The district court 
+thus erred in not submitting the element of materiality to the 
+jury regarding Neder’s § 7206(1) offenses. 
+
+
+F. The District Court’s Gaudin Error Was Harmless 
+In this circuit, Gaudin errors do not require automatic 
+reversal but are subject to harmless error analysis. United States 
+v. Fern, 117 F.3d 1298, 1307 (11th Cir.1997)."° Thus, the 
+
+
+® Accord Bilzerian v. United States, 127 F.3d 237, 242 (2d Cir. 1997); 
+United States v. Knapp, 120 F.3d 928, 932 (9th Cir.), cert. denied, __ 
+U.S. __, 118 S.Ct. 417, 139 L.Bd.2d 319 (1997); Waldemer v. United 
+
+
+— 
+
+
+12a 
+
+
+government must show that Neder was not prejudiced by the 
+district court’s Gaudin error. Id. (citing United States v. Olano, 
+507 U.S. 725, 734-35, 113 S.Ct. 1770, 1775-76, 123 L.Ed.2d 
+508 (1993)). The government has met that burden by showing 
+that materiality was not in dispute regarding Neder’s tax fraud 
+offense. 
+
+
+Under § 7206(1), a “material matter” is any information 
+necessary to a determination of a taxpayer’s income tax 
+liability. See Uchimura, 125 F.3d at 1285; United States v. 
+Aramony , 88 F.3d 1369, 1384 (4th Cir.1996), cert. denied, _ 
+U.S. __, 117 S.Ct. 1842, 137 L.Ed.2d 1046 (1997); Klausner, 
+80 F.3d at 60; see also United States v. Gaines, 690 F.2d 849, 
+858 & n. 16 (11th Cir. 1982) (stating that in a prosecution under 
+§ 7206(1), “the amounts of the misstatements were legally 
+irrelevant....”); United States v. Holland, 880 F.2d 1091, 1096 
+(9th Cir.1989) (stating that “any failure to report income is 
+material.”). Neder’s § 7206(1) convictions were based on his 
+failing to report $1,372,360 in income in 1985 and $4,355,766 
+in income in 1986. An accurate reflection of income is critical 
+to determining a taxpayer's income tax liability. Indeed, Neder 
+did not contest the materiality of his failing to report this 
+income either through testimony or evidence presented during 
+the trial, or during closing argument. Neder did not even 
+contest that he failed to report the money. Neder’s defense on 
+the § 7206(1) offenses related solely to his intent--specifically, 
+
+
+States, 106 F.3d 729, 732 (7th Cir.1996); United States v. Raether, 82 F.3d 
+192, 194 (8th Cir.1996). But see United States v. DeFries, 129 F.3d 1293, 
+1311-12 & n. 13 (D.C.Cir.1997) (Gaudin error was, per se, a reversible 
+error); United States v. David, 83 F.3d 638, 647 (4th Cir.1996) (Gaudin 
+error requires automatic reversal); United States v. DiRico, 78 F.3d 732, 
+737-38 (ist Cir. 1996) (Gaudin error constitutes a “structural error” requiring 
+automatic reversal); United States v. Pettigrew, 77 F.3d 1500, 1511 (Sth 
+Cir. 1996) (harmless error analysis does not apply to Gaudin error). 
+
+
+13a 
+
+
+that he had relied on the advice of his attorney and accountant 
+that he was not required to report the money as income. 
+Because materiality was not in dispute with respect to 
+Neder’s tax fraud offense, the district court’s Gaudin error “did 
+not contribute to the verdict obtained.” Yates v. Evatt, 500 U.S. 
+391, 403, 111 S.Ct. 1884, 1892, 114 L.Ed.2d 432 (1991) 
+
+
+(quoting Chapman v. California, 386 U.S. 18, 24, 87 S.Ct. 
+824, 828, 17 L.Ed.2d 705 (1967)). Therefore, the district 
+
+
+court’s error was harmless. 
+Ill. CONCLUSION 
+
+
+The district court committed no reversible errors, and 
+Neder’s convictions are thus 
+
+
+AFFIRMED. 
+
+
+ere 
+
+
+l4a 
+
+
+Anited States District Court 
+
+
+Southern District of Florida 
+
+
+UNITED STATES OF AMERICA JUDGMENT IN A 
+
+
+v. CRIMINAL CASE 
+ELLIS E. NEDER, JR. (For Offenses Committed on or 
+After November 1, 1987) 
+(Name of Defendant) Case Number: 
+
+
+91-175-Cr-J-16 
+Thomas G. Fallis, Esq. 
+
+
+THE DEFENDANT: (Defendant's Attorney) 
+
+(pleaded guilty to count(s) 
+
+®@ was found guilty on count(s)_1, 2-12, 21-23, 26-28, 30, 31-33, 34 
+
+_ 3536-72, 77, 78-84, 86, 87, 89, 90 after a plea of not guilty. 
+Accordingly, the defendant is adjudged guilty of such count(s), which 
+
+involve the following offenses: 
+
+
+Date Offense Count 
+
+
+Title & Section Nature of Offense Concluded _ Number(s) 
+
+
+8 U.S.C. 371 Conspiracy to May 1988 l 
+defraud a financial 
+institution. 
+8 U.S.C. 1344 Bank fraud. April 1986 2-12, 77 
+8 U.S.C. 1341 Mail fraud. April 1986 21-23, 
+26-28, 30 
+Sept. 1987 34, 35 
+8 U.S.C. 1343 Wire fraud. Nov. 1986 31, 33, 
+78-84 
+8 U.S.C. 1014 False statements to October 1985 36-72 
+financial 
+institutions. 
+8 U.S.C. Filing false Dec. 1987 86, 87 
+7206(1) income tax 
+
+
+returns. 
+
+
+1Sa 
+
+
+Date Offense Count 
+Tithe & Section Nature of Offense Concluded _ § Number(s) 
+8 U.S.C. 1962(c) RICO. May 1988 89, 90 
+and 1962(d) 
+
+
+The defendant is sentenced as provided in pages 2 through __5_ of this 
+judgment. The sentence is imposed pursuant to the Sentencing Reform Act 
+SF We deisaind bes Geis ed dk ety een ed de, 
+O ee ek ok de can at te 
+a 
+
+
+United States. . 
+
+It is ordered that the defendant shall pay a special assessment of 
+
+$3,650.00, for count(s) 1, 2-12, 21-23, 26-28, 30, 31-33, 34, 35, 36- 
+
+72, 77, 78-84, 86, 87,89, 90 , which shall be due M@ immediately 
+
+as follows: 
+
+IT IS FURTHER ORDERED that the defendant shall notify the United 
+States attorney for this district within 30 days of any change of name. 
+residence, or mailing address until all fines, restitution, costs, and special 
+assessments imposed by this judgment are fully paid. 
+
+
+Defendant's Soc. Sec. No.:_262-75-4595 
+Defendant's Date of Birth: September 15,1942 __ June 2, 1994 
+
+
+fl ition of Sentence 
+Defendant’s Mailing Address: Date of Impos 
+S/o U.S. Marshal s/ 2 
+Signature of Judicial Officer 
+Defendant's Residence Address: HARVEY E. SCHLESINGER, 
+Name & Title of Judicial Officer 
+—___September_ 15,1992 
+Date 
+
+
+. IMPRISONMENT 
+
+
+The defendant is hereby committed to the custody of the United States 
+el em patenting peer 
+
+
+IT IS FURTHER ADJUDGED that the defendant is hereby committed 
+to the custody of the United States Bureau of Prisons to be imprisoned for 
+a term of THREE (3) YEARS on each of Counts 86 and 87, each count to 
+run concurrently with each other and with the sentence imposed on Counts 
+1, 77, 80, 81, 82, 83 and 84. 
+
+IT IS FURTHER ADJUDGED that the defendant is hereby committed 
+to the custody of the United States Bureau of Prisons to be imprisoned for 
+a term of SEVEN (7) YEARS on each of Counts 89 and 90, each count to 
+run concurrently ‘vith each other and with the sentences imposed on Counts 
+1, 77, 80, 8:, 82, 83, 84, 86 and 87. 
+
+IT IS FURTHER ADJUDGED that the defendant is hereby committed 
+to the custody of the United States Bureau of Prisons to be imprisoned for 
+a term of FIVE (5) YEARS on each of Counts 2 through 12, 21 through 23, 
+26 through 28, 30 through 72, 78 and 79, each count to run concurrently 
+with each other and consecutive to the sentences imposed on Counts 1, 77, 
+80, 81, 82,83, 84, 86 and 87, for a TOTAL TERM OF IMPRISONMENT 
+OF TWELVE (12) YEARS AND THREE (3) MONTHS. 
+
+
+@ The court makes the following recommendations to the Bureau of 
+Prisons: Federal Institution, Jesup, Georgia. 
+
+
+The defendant is remanded to the custody of the United States marshal. 
+The defendant shall surrender to the United States marshal for the 
+district, 
+
+
+Oe 
+
+
+a.m. 
+CS at p.m. on 
+(©) as notified by the United States marshal. 
+C) The defendant shall surrender for service of sentence at the institution 
+designated by the Bureau of Prisons. 
+CJ before 2 p.m. on 
+0 as notified by the United States marshal. 
+© as notified by the probation office. 
+
+
+17a 
+RETURN 
+
+
+I have executed this judgment as follows: 
+
+
+Defendant delivered on_10/13/92 to__FCI-SEA GOUILLE = at 
+_ with a certified copy of this judgment. 
+United States Marshal 
+By 
+
+
+Deputy Marshal 
+
+
+18a 
+SUPERVISED RELEASE 
+Upon release from imprisonment, the defendant shall be on supervised 
+
+
+release for a term of FIVE YEARS on each of Counts 1, 77, 80 through 84. 
+
+
+86, 87, 89 and 90. 
+
+
+While on supervised release, the defendant shall not commit another 
+federal, state, or local crime and shall not illegally possess a controlled 
+substance. The defendant shall comply with the standard conditions that 
+have been adopted by this court (set forth below). If this judgment imposes 
+a restitution obligation, it shall be a condition of supervised release that the 
+defendant pay any such restitution that remains unpaid at the commencement 
+of the term of supervised release. The defendant shall comply with the 
+following additional conditions: 
+
+
+@ The defendant shall report in person to the probation office in the 
+district to which the defendant is released within 72 hours of release 
+from the custody of the Bureau of Prisons. 
+
+
+‘= 
+
+
+The defendant shall pay any fines that remain unpaid at the 
+commencement of the term of supervised release. 
+
+
+@ Defendant shall participate in the Home Detention program for a period 
+of _ days. During this time, defendant will remain at defendant's 
+place of residence except for employment and other activities approved 
+in advance by defendant's Probation Officer. Defendant will be subject 
+to the standard conditions of Home Detention adopted for use in the 
+Middle District of Florida, which may include the requirement to wear 
+an electronic monitoring device and to follow electronic monitoring 
+procedures specified by the Probation Officer. 
+
+
+Defendant shall pay the unpaid balance of restitution (see page 4 of this 
+Judgment ) upon release from imprisonment. 
+
+
+Defendant is prohibited from incurring new credit charges, opening new 
+lines of credit, or obligating for major purchases without approval of the 
+probation office unless in compliance with payment schedule. 
+
+
+Defendant shall provide probation office iwth requested financial 
+information. 
+
+
+Defendant is prohibited from engaging in employment related to real estate 
+development. 
+
+
+19a 
+STANDARD CONDITIONS OF SUPERVISION 
+
+
+While the defendant is on supervised release pursuant to this judgment, 
+the defendant shall not commit another federal, state or local crime. In 
+addition: 
+
+1) the defendant shall not leave the judicial district without the permission 
+of the court or probation officer; 
+
+
+2) the defendant shall report to the probation officer as directed by the 
+court or probation officer and shall submit a truthful and complete 
+written report within the first five days of each month; 
+
+
+3) the defendant shall answer truthfully all inquiries by the probation 
+officer and follow the instructions of the probation officer; 
+
+
+4) the defendant shall support his or her dependents and meet other family 
+responsibilities; 
+
+5) the defendant shall work regularly at a lawful occupation unless excused 
+by the probation officer for schooling, training, or other acceptable 
+reasons; 
+
+
+6) the defendant shall notify the probation officer within 72 hours of any 
+change in resident or employment; 
+
+
+7) the defendant shall refrain from excessive use of alcohol and shall not 
+purchase, possess, use, distribute, or administer any narcotic or other 
+controlled substance, or any paraphernalia related to such substances, 
+except as prescribed by a physician, and shall submit to periodic 
+urinalysis tests as directed by the probation officer to determine the use 
+of any controlled substance; 
+
+
+8) the defendant shall not frequent places where controlled substances are 
+illegally sold, used, distributed, or administered; 
+
+
+9) the defendant shall not associate with any persons engaged in criminal 
+activity, and shall not associate with any person convicted of a felony 
+unless granted permission to do so by the probation officer; 
+
+
+10) the defendant shall permit a probation officer to visit him or her at any 
+time at home or elsewhere and shall permit confiscation of any 
+contraband observed in plain view by the probation officer; 
+
+
+11) the defendant shall notify the probation officer within seventy-two hours 
+of being arrested or questioned by a law enforcement officer; 
+
+
+20a 
+
+
+12) the defendant shall not enter into any agreement to act as an informer 
+
+
+or a special agent of a law enforcement agency without the permission 
+of the court; 
+
+
+13) as directed by the probation officer, the defendant shall notify third 
+parties of risks that may be occasioned by the uefendant’s criminal 
+record or personal history or characteristics, and shall permit the 
+probation officer to make such notifications and to confirm the 
+defendant's compliance with such notification requirement. 
+
+
+RESTITUTION AND FORFEITURE 
+
+
+@ The defendant shall make restitution to the following persons in the 
+following amounts: 
+
+
+Name of Payee Amount of Restitution 
+Carteret § & L $402,577.00 
+Amerifirst Federal S§ & L (now $2,300,000.00 
+
+
+Resolution Trust Corp. (RTC)) 
+
+Greyound Leasing & Financial Corp. $1,300,000.00 
+Baltimore Federal Saving (now RTC) $1,778,419.00 
+Security First Federal S & L (now RTC) $3,100,000.00 
+United Brotherhoiod of Carpenters & $10,265 ,00.00 
+Joiners of America 
+
+
+Cari Bank $5,900 ,000.00 
+TOTAL RESTITUTION: $25,045,996.00 
+
+
+Payments of restitution are to be made to: 
+
+
+@ the United States Attorney for transfer to the payee(s). 
+C) the payee(s). 
+
+Restitution shall be paid: 
+@ in full immediately. 
+
+
+_J im full not later than 
+
+
+_] i equal monthly installments over a period of months. The 
+first payment is due on the date of this judgment. Subsequent 
+payments are due monthly thereafter. 
+
+
+_] in installments according to the following schedule of payments: 
+
+
+2la 
+
+
+Any payment shall be divided proportionately among the payees named 
+unless otherwise specified here. 
+
+
+FORFEITURE 
+
+
+The defendant is ordered to forfeit the following property to the United 
+States: 
+
+
+STATEMENT OF REASONS 
+
+
+The court adopts the factual findings and guideline application in the 
+presentence report. 
+OR 
+
+
+The court adopts the factual findings and guideline application in the 
+presentence report except (see attachment, if necessary): 
+
+
+Guideline Range Determined by the Court: 
+
+
+Total Offense Level: 
+Criminal History Category: 
+
+
+Imprisonment Range: =< __ months 
+Supervised Release Range: 1 __ years 
+Fine Range: $ to $ 
+
+
+@ Fine is waived or is below the guideline range, because of the 
+defendant's inability to pay 
+
+
+Restitution: $25,045 .996.00 
+
+
+© Full restitution is not ordered of rthe following reason(s):* 
+
+
+< 
+“~ 
+
+
+The sentence is within the guideline range, that range does not exceed 
+24 months, and the court finds no reason to depart from the sentence 
+called for by application of the guidelines. 
+
+
+OR 
+
+
+22a 
+
+
+(J The sentence is within the guideline range, that range exceeds 24 
+months, and the sentence is imposed for the following reason(s):* 
+OR 
+
+
+The sentence departs from the guideline range 
+(J upon motion of the government, as a result of defendant’s 
+substantial assistance. 
+
+
+() for the following reason(s):* 
+
+
+23a 
+
+
+Excerpts of Jury Instructions 
+
+
+In summary, Count One charges that the Defendants 
+knowingly and willfully conspired together in violation of Title 
+18, United States Code, Section 371, to execute and attempt to 
+execute a scheme and artifice to defraud and to obtain the 
+moneys owned by and under the custody and control of 
+federally insured financial institutions, by means of false and 
+fraudulent pretenses, representations, and promises, in violation 
+of Title 18, United States Code, Section 1344; and to 
+knowingly make any false statement or report, or willfully 
+overvalue any land, property or security for the purpose of 
+influencing in any way the action of the institutions the accounts 
+of which are insured by the FSLIC upon applications and loans, 
+or any change or extension of any of the same, in violation of 
+Title 18, United States Code, Section 1014; and to knowingly 
+and willfully transmit by means of wire communications in 
+interstate commerce writings, signals, pictures, and sounds for 
+the purpose of executing a scheme and artifice to defraud, and 
+to obtain moneys by false pretenses, representations, and 
+promises, in violation of Title 18, United States Code, Section 
+1343. 
+
+
+Count Ninety charges that the Defendants unlawfully and 
+willfully entered into a separate conspiracy in violation of Title 
+18, United States Code, Section 1962(d), to conduct and 
+participate, directly or indirectly, in the conduct of the affairs 
+of an enterprise through a pattern of racketeering activity 
+consisting of mail fraud and wire fraud, in violation of Title 18, 
+United States Code, Section 1962(c). 
+
+
+The remaining Counts charge the commission of the 
+substantive offenses; namely that the Defendants committed 
+bank fraud in Counts Two through Twelve, and Seventy-seven, 
+in violation of Title 18, United States Code, Section 1344; land 
+over-evaluations in Counts Thirteen through Twenty, and false 
+
+
+24a 
+
+
+statements to financial institutions in Counts Thirty-six through 
+Seventy-two, all in violation of Title 18, United States Code. 
+Section 1014; mail fraud in Counts Twenty-one through 
+Twenty-three, Twenty-six through Twenty-eight, Thirty, Thirty- 
+four, and Thirty-five, all in violation of Title 18, United States 
+Code, Section 1341; wire fraud in Counts Thirty-one through 
+Thirty three, and Seventy-eight through Eighty-four, all in 
+violation of Title 18, United States Code, Section 1343: false 
+statements on income tax returns in Counts Eighty-six and 
+Eighty-seven, all in violation of Title 26, United States Code. 
+Section 7206(1); and racketeering in Count Eighty-nine, in 
+violation of Title 18, United States Code, Section 1962(c). 
+
+
+You will note that as to Counts One and Ninety, the 
+Defendants are not charged in those counts with violating the 
+substantive counts I have named; rather they are charged with 
+having conspired to do so in violation of Title 18, United States 
+Code, Sections 371 and 1962(d). 
+
+
+I will explain the law governing those substantive offenses 
+in a moment. 
+
+
+Title 18, United States Code, Section 371, makes it a 
+separate federal crime or offense for anyone to conspire or 
+agree with someone else to do something which, if actually 
+carried out, would amount to another Federal crime or offense. 
+So, under this law, a “conspiracy” is an agreement or a kind of 
+“partnership” in criminal purposes in which each member 
+becomes the agent or partner of every other member. 
+
+
+In order to establish a conspiracy offense in Count One, it 
+is mot necessary for the Government to prove that all of the 
+people named in the indictment were members of the scheme: 
+or that those who were members had entere4 into any formal 
+
+
+type of agreement: or **~" J.c members had planned together all 
+of the det_..s of the scheme or the “overt acts that the 
+
+
+25a 
+
+
+indictment charges would be carried out in an effort to commit 
+the intended crime. 
+
+Also, because the essence of a conspiracy offense Is the 
+making of the agreement itself (followed by the commission of 
+any overt act), it is not necessary for the Government to prove 
+that the conspirators actually succeeded in accomplishing their 
+unlawful plan. 
+
+
+A Defendant can be found guilty of that offense as charged 
+in Count One only if all of the following elements are proved 
+beyond a reasonable doubt: 
+
+
+First: That two or more persons, in some way oF 
+manner, came to a mutual understanding to try 
+
+
+to accomplish a common and unlawful plan, as 
+charged in the indictment, 
+
+
+Second: That the Defendant willfully became a member 
+of such conspiracy; 
+Third: That one of the conspirators during the existence 
+
+
+of the conspiracy knowingly committed at least 
+one of the methods (or “overt acts”) described in 
+the indictment; and 
+
+Fourth: That such “overt act” was knowingly committed 
+at or about the time alleged in an effort to carry 
+out or accomplish some object of the conspiracy. 
+
+
+An “overt act” is any transaction or event, even one 
+which may be entirely innocent when considered alone, but 
+which is knowingly committed by a conspirator in an effurt to 
+accomplish some object of the conspiracy. 
+
+
+A person may become a member of a conspiracy without 
+knowing all of the details of the unlawful scheme, and without 
+knowing who all of the other members are. So, if a Defendant 
+
+
+26a 
+
+
+has an understanding of the unlawful nature of a plan and 
+knowingly and willfully joins in that plan on one occasion, that 
+is sufficient to convict him for conspiracy even though he did 
+not participate before, and even though he played only a minor 
+part. 
+
+
+Of course, mere presence at the scene of a transaction 
+or event, or the mere fact that certain persons may have 
+associated with each other, and may have assembled together 
+and discussed common aims and interests, does not necessarily 
+establish proof of a conspiracy. Also, a person who has no 
+knowledge of a conspiracy, but who happens to act in a way 
+
+
+which advances some purpose of one, does not thereby become 
+a conspirator. 
+
+
+In this instance, with regard to the alleged conspiracy in 
+Count One, the Indictment charges that the Defendants 
+conspired with each other and other persons to commit bank 
+fraud or wire fraud, or to make false statements to federally 
+insured financial institutions. It is charged, in other words, that 
+they conspired to commit three separate, substantive crimes or 
+offenses. 
+
+
+In such a case it is not necessary for the Government to 
+prove that the Defendant under consideration willfully conspired 
+to commit all of the substantive offenses. It would be sufficient 
+if the Government proves, beyond a reasonable doubt, that the 
+Defendants willfully conspired with someone to commit one of 
+those offenses; but, in that event, in order to return a verdict of 
+guilty, you must unanimously agree upon which of the three 
+offenses the Defendants conspired to commit. If you cannot 
+agree in that manner, you must find the Defendant not guilty. 
+
+
+Title 18, United States Code, Section 1344, makes it a 
+federal crime or offense for anyone to execute or attempt to 
+execute a scheme to obtain money of a federally insured 
+financial institution. 
+
+
+_—_" | 
+
+
+t 
+% 
+
+
+27a 
+
+
+A Defendant can be found guilty of that offense as 
+charged in Counts Two through Twelve, and Seventy-seven 
+only if all of the following elements are proved beyond a 
+
+
+reasonable doubt: 
+
+
+First: That the Defendant knowingly and willfully 
+devised a scheme for obtaining, by means of 
+false or fraudulent pretenses, representations or 
+promises, moneys or funds owned by or under 
+the custody or control of a federally insured 
+financial institution; 
+
+That the Defendant participated directly in, or 
+aided and abetted, the making of false pretenses, 
+
+
+representations, or promises which were material 
+to the federally insured institution; and 
+
+
+Third: That the Defendant executed, or aided and 
+abetted the execution of the scheme by preparing 
+and submitting and causing to be prepared and 
+submitted to the insured financial institution 
+
+
+certain documents. 
+
+
+A federal insured financial institution means any bank, 
+the deposits of which are insured by the Federal Deposit 
+Insurance Corporation, or any savings and loan associations, 
+whose deposits are insured by the Federal Savings and Loan 
+
+
+Insurance Corporation. 
+
+
+The word “scheme” includes any plan or course of 
+action intended to deceive others, and to obtain, by false or 
+fraudulent pretenses, representations or promises, money OF 
+property from persons so deceived. 
+
+
+A statement or representation is “false” or “fraudulent” 
+if it relates to a material fact and is known to be untrue or is 
+made with reckless indifference as to its truth or falsity, and is 
+made or caused to be made with intent to defraud. A statement 
+
+
+a 
+
+
+28a 
+
+
+or representation may also be “false” or “fraudulent” when it 
+constitutes a half truth with intent to defraud, or effectively 
+conceals a material fact with intent to defraud. A “material 
+fact” is a fact that would be important to a reasonable person in 
+deciding whether to engage or not to engage in an particular 
+transaction. 
+
+
+If you find that the Government has proved these three 
+elements stated above beyond a reasonable doubt, you need not 
+consider whether the false and fraudulent pretense, 
+representation, Or promise was a material false and fraudulent 
+pretense, representation or promise, even though that language 
+is used in the Indictment. This is not a question for the jury to 
+decide. 
+
+
+To act with “intent to defraud” means to act knowingly 
+and with the specific intent to deceive someone, ordinarily for 
+the purpose of causing some financial loss to another or 
+bringing about some financial gain to one’s self. 
+
+
+Good faith is a complete defense to those charges that 
+require intent to defraud in the indictment since good faith on 
+the part of the Defendant is inconsistent with intent to defraud 
+or willfulness which is an essential part of the charges. The 
+burden of proof is not on the Defendant to prove his good faith, 
+of course, since he has no burden to prove anything. The 
+Government must establish beyond a reasonable doubt that the 
+Defendant acted with specific intent to defraud where it is 
+charged in the indictment. 
+
+
+One who expresses an opinion honestly held by him, or 
+a belief honestly entertained by him, is not chargeable with 
+fraudulent intent even though his opinion is erroneous or his 
+belief is mistaken; and similarly, evidence which establishes 
+only that a person made a mistake in judgment or an error in 
+management, or was careless, does not establish fraudulent 
+intent. 
+
+
+ree 
+
+
+29a 
+
+
+On the other hand, an honest belief on the part of the 
+Defendant that a particular business venture was sound and 
+would ultimately succeed would not, in and of itself, constitute 
+“good faith” as used in these instructions if, in carrying out that 
+venture, the Defendant knowingly made false or fraudulent 
+representations to others with the specific intent to deceive 
+them. 
+
+
+It is not necessary that the Government prove all of the 
+details alleged in the Indictment concerning the precise nature 
+ana purpose of the scheme; or that the alleged scheme actually 
+succeeded in defrauding anyone. 
+
+
+What must be proved beyond a reasonable doubt is that 
+the Defendant knowingly and willfully devised or intended to 
+devise a scheme to defraud substantially the same as the one 
+alleged in the Indictment; and that the act in execution of a 
+
+
+scheme was performed as charged. 
+
+
+Each separate act of execution in furtherance of a 
+scheme to defraud constitutes a separate offense. 
+
+
+Title 18, United States Code, Section 1014, makes it a 
+federal crime or offense for anyone to willfully overvalue any 
+land to a federally insured bank or savings and loan association. 
+
+
+A Defendant can be found guilty of that offense charged 
+in Counts Thirteen through Twenty only if all of the following 
+elements are proved beyond a reasonable doubt: 
+
+
+First: That the Defendant knowingly overvalued any 
+land, and such overvaluation was a material fact 
+to an insured savings and loan association or 
+
+
+insured bank, as charged; and 
+
+
+Second: That the Defendant overvalued the land willfully 
+and with intent to influence the action of the 
+savings and loan association or insured bank 
+
+
+30a 
+
+
+upon an application, advance, commitment or 
+loan, or any change or extension thereof. 
+
+
+An “insured bank” means any bank the deposits of 
+which are insured by the Federal Deposit Insurance 
+Corporation. An “insured savings and loan association” means 
+any such institution whose deposits are insured by the Federal 
+Savings and Loan Insurance Association. 
+
+
+The terms “false” and “material” have already been 
+defined for you. 
+
+
+It is not necessary, however, to prove that the institution 
+involved was, in fact, influenced or misled. The gist of the 
+offense is an attempt to influence such an institution willfully 
+overvaluing land. 
+
+
+If you find that the Government has proved these two 
+elements stated above beyond a reasonable doubt, you need not 
+consider whether the false and fraudulent pretense, 
+representation, Or promise was a material false and fraudulent 
+pretense, representation or promise, even though that language 
+is used in the indictment. This is not a question for the jury to 
+decide. 
+
+
+Title 18, United States Code, Section 1014, makes it a 
+federal crime or offense for anyone to willfully make a false 
+statement to a federally insured bank or Savings and loan 
+association. 
+
+
+A Defendant can be found guilty of that offense charged 
+in Counts Thirty-Six through Seventy-two only if all of the 
+following elements are proved beyond a reasonable doubt: 
+
+
+First: That the Defendant knowingly made a false 
+Statement or report concerning a material fact to 
+an insured savings and loan association or 
+insured bank, as charged; and 
+
+
+3la 
+
+
+Second: That the Defendant made the false statement or 
+
+
+report willfully and with intent to influence the 
+action of the savings and loan association or 
+insured bank upon an application, advance, 
+commitment or loan, or any change or extension 
+thereof. 
+
+The terms “insured bank,” “false,” and “material” have 
+already been defined for you. 
+
+Again, it is not necessary to prove that the institution 
+involved was, in fact, influenced or misled. The gist of the 
+offense is an attempt to influence such an institution by willfully 
+making a false statement or report concerning the matter. 
+
+
+If you find that the Government has proved these two 
+elements stated above beyond a reasonable doubt, you need not 
+consider whether the false and fraudulent preiense, 
+representation, or promise was a material false and fraudulent 
+pretense, representation or promise, even though that language 
+is used in the indictment. This is not a question for the jury to 
+decide. 
+
+Title 18, United States Code, Section 1341, makes it a 
+federal crime or offense for anyone to use the United States 
+mails in carrying out a scheme to defraud. 
+
+
+A Defendant can be found guilty of that offense charged 
+in Counts Twenty-one through Twenty-three, Twenty-six 
+through Twenty-eight, Thirty, Thirty-four and Thirty-five only 
+if all of the following elements are proved beyond a reasonable 
+doubt: 
+
+
+First: That the Defendant knowingly and willfully 
+devised a scheme to defraud, or for obtaining 
+money or property by means of false pretenses, 
+representations or promises; and 
+
+
+32a 
+
+
+Second: That the Defendant used the United States Postal 
+Service by mailing, or by causing to be mailed, 
+or takes or receives therefrom, some matter or 
+
+
+thing for the purpose of executing the scheme to 
+defraud. 
+
+
+The terms “scheme,” “false.” “material,” and “intent to 
+defraud” have already been defined for you. 
+
+
+It is not necessary that the Government prove all of the 
+details alleged in the Indictment concerning the precise nature 
+and purpose of the scheme; or that the material mailed was 
+itself false or fraudulent; or that the alleged scheme actually 
+succeeded in defrauding anyone; or that the use of the mail was 
+
+
+intended as the specific or exclusive means of accomplishing the 
+alleged fraud. ) 
+
+
+What must be proved beyond a reasonable doubt is that 
+the Defendant knowingly and willfully devised or intended to 
+devise a scheme to defraud substantially the same as the one 
+alleged in the Indictment; and that the use of the U.S. mail was 
+closely related to the scheme because the Defendants either 
+mailed something, or caused it to be mailed, or took or 
+received a matter or thing in an attempt to execute or carry out 
+the scheme. To “cause” the mails to be used is to do an act 
+with Knowledge that the use of the mails will follow in the 
+
+
+ordinary course of business or where such use can reasonably 
+be foreseen. 
+
+
+Each separate use of the mails in furtherance of a 
+scheme to defraud constitutes a separate offense. 
+
+
+Title 18, United States Code, Section 1343, makes it a 
+federal crime or offense for anyone to use interstate wire 
+communications facilities in carrying out a scheme to defraud. 
+
+
+A Defendant can be found guilty of that offense charged 
+in Counts Thirty-one through Thirty-three and Seventy-eight 
+
+
+ERT eI ee ee 
+
+
+ss 
+
+
+Se at a es lhe Rt ae i Acasa: 5. i dl 0s an, Mills 
+
+
+Oe ee eee - 
+
+
+33a 
+
+
+through Eighty-four only if all of the following elements are 
+proved beyond a reasonable doubt: 
+
+
+First: That the Defendant knowingly and willfully 
+devised a scheme to defraud, or for obtaining 
+money or property by means of false pretenses, 
+representations or promises; and 
+
+
+Second: That the Defendant knowingly transmitted or 
+caused to be transmitted by wire in interstate 
+commerce some sound for the purpose of 
+executing the scheme to defraud. 
+
+
+The words “scheme,” “false,” and “intent to defraud” 
+have been previously defined for you. 
+
+
+It is not necessary that the Government prove all of the 
+details alleged in the Indictment concerning the precise nature 
+and purpose of the scheme; or that the material transmitted by 
+wire was itself false or fraudulent; or that the alleged scheme 
+actually succeeded in defrauding anyone; or that the use of the 
+interstate wire communication facilities was intended as the 
+specific or exclusive means of accomplishing the alleged fraud. 
+
+
+What must be proved beyond a reasonable doubt is that 
+the Defendant knowingly and willfully devised or intended to 
+devise a scheme to defraud substantially the same as the one 
+alleged in the Indictment; and that the use of the interstate wire 
+communications facilities was closely related to the scheme 
+because the Defendant either wired something, or caused it to 
+be wired in interstate commerce in an attempt to execute Or 
+carry out the scheme. To “cause” interstate wire 
+communication facilities to be used to do an act with knowledge 
+that the use of the wires will follow in the ordinary course of 
+business or where such use can reasonably be foreseen. 
+
+
+34a 
+
+
+site Each separate use of the interstate wire communications 
+facilities in furtherance of a scheme to defraud constitutes a 
+separate offense. 
+
+
+7 Title 26, United States Code, Section 7206(1), makes it 
+a crime for anyone willfully to make a false statement on an 
+
+
+income tax return. “Willfully” means with intent to violate a 
+known legal duty. 
+
+
+The Defendant Neder can be found guilty of that offense 
+as charged in Counts Eighty-six and Eighty-seven, only if all of 
+the following elements are proved beyond a reasonable doubt: 
+
+
+First: That the Defendant signed an income tax return 
+that contained a written declaration that it was 
+made under penalties of perjury: 
+
+
+Second: That in this return the Defendant falsely reported 
+dl total income in his 1985 return of $53,625 and 
+in his 1986 return a minus $980,377: 
+
+
+Third: That the Defendant knew the statement was 
+false; and 
+Fourth: That the Defendant made the statement on 
+
+
+purpose, and not as a result of accident, 
+negligence or inadvertence. 
+
+
+If you find that the Government has proved these things, 
+you need not consider whether the false statement was a 
+material false statement, even though that language is used in 
+the indictment. This is not a question for the jury to decide. 
+
+
+| Count Eighty-nine of the Indictment charges that from 
+in or about May 1984 to in or about May 1988, the Defendants 
+were persons associated with an “enterprise” engaged in, or the 
+activities of which affected, interstate commerce, and that they 
+knowingly and willfully participated in the conduct of the 
+enterprise's affairs “through a pattern of racketeering activity,” 
+
+
+a a, ee ee ee es eee ae a 
+
+
+35a 
+
+
+in violation of Title 18, United States Code, Section 1961 and 
+1962(c). 
+
+
+The term “enterprise” includes any “partnership, 
+corporation, association or other legal entity, and any union or 
+group of individuals associated in fact although not a legal 
+entity.” Individuals and corporations are a “group of 
+individuals associated in fact.” 
+
+
+The term “racketeering activity” includes any act in 
+violation of Title 18 of the Untied [sic] States Code relating to 
+mail fraud (Section 1341) and wire fraud (Section 1343). 
+
+
+The term “pattern of racketeering activity” requires at 
+least two acts of “racketeering activity,” sometimes called 
+“predicate offenses,” which must have been committed within 
+ten years of each other, one of which must have occurred after 
+
+
+October 15, 1970. 
+
+
+A Defendant can be guilty of that offense as charged in 
+Count Eighty-nine only if all of the following elements are 
+proved beyond a reasonable doubt: 
+
+
+First: That the Defendant was associated with an 
+“enterprise” as defined in these instructions; 
+Second: That the Defendant knowingly and willfully 
+
+
+committed, or knowingly and willfully aided and 
+abetted the commission of at least two of the 
+predicate offenses hereinafter specified; 
+
+
+Third: That the two predicate offenses alleged 
+committed by the Defendant were connected with 
+each other by some common scheme, plan or 
+motive so as to be a pattern or a criminal activity 
+and not merely a series of separate, isolated or 
+disconnected acts; 
+
+
+36a 
+
+
+Fourth: That through the commission of the two or more 
+connected offenses, the Defendant conducted or 
+participated in the conduct of the “enterprises’s” 
+affairs; and 
+
+
+Fifth: That the “enterprise” was engaged in, or that its 
+activities affected, interstate commerce. 
+
+
+With respect to the Second specific element defined 
+above, the Government must prove beyond a reasonable doubt 
+that the Defendant under consideration knowingly and willfully 
+committed, or aided and abetted the commission of, any two of 
+the predicate offenses specifically alleged and described in the 
+Indictment as Counts Twenty-one through Twenty-three, Thirty- 
+one, Twenty-six through Twenty-eight, Thirty, Thirty-two 
+through Thirty-five and Seventy-eight through Eighty-Four, and 
+alleged as racketeering acts | through 3, 4(b), 6 though [sic] 8, 
+and 10 through 15(g). You are further instructed, however, 
+that you must unanimously agree concerning each Defendant 
+under consideration as to which of the two predicate offenses he 
+is alleged to have committed, or aided and abetted in 
+committing. It would not be sufficient if some of the jurors 
+Should find that a Defendant committed two of the predicate 
+offenses while the remaining jurors found that he committed 
+two different offenses; you must all agree upon the same two 
+predicate offenses in order to find a Defendant guilty of Count 
+Eighty-nine. 
+
+
+With respect to the Fifth specific element defined 
+above—the requirement that the “enterprise” was engaged in, 
+or that its activities affected, interstate commerce—the 
+Government contends that in conducting the affairs of the 
+enterprise the Defendants would: obtain loan proceeds from 
+lenders by interstate and intrastate wire transmissions; mail 
+documents out of the State of Florida for signature and cause 
+them to be returned to the State of Florida as part of various 
+loan and real estate transactions; send correspondence and 
+
+
+37a 
+
+
+documents from Jacksonville in the State of Florida to locations 
+outside the State of Florida in support of their attempts to obtain 
+land acquisition and land development loans. The Government 
+contends that documents in support of various loan requests 
+were sent from the State of Florida to the States of Arizona, 
+New York, and to Washington, D.C., causing the transmission 
+of fund: 4%y wire in interstate commerce. You are instructed 
+that if you find beyond a reasonable doubt that these 
+transactions or events occurred, and that they occurred in, or as 
+a direct result of, the conduct of the affairs of the alleged 
+enterprise, the required effect upon interstate commerce has 
+been established. If you do not so find, the required effect 
+upon interstate commerce has not been accomplished. 
+
+
+Title 18, United States Code, Section 1962(c), makes it 
+a federal crime or offense for anyone who is associated with an 
+“enterprise” engaged in, or activities of which affect, interstate 
+commerce, to participate in conducting the affairs of the 
+enterprise through a “pattern of racketeering activity.” 
+
+
+The meaning of those terms, and an explanation of what 
+must be proved in order to establish that offense, is discussed 
+in that part of these instructions covering Count Eighty-nine of 
+the Indictment. 
+
+
+However, the Defendants named in Count Ninety of the 
+Indictment—the conspiracy count—are not charged in that count 
+with violating Section 1962(c); rather, they are charged with 
+knowingly and willfully conspiring to violate that law, the 
+alleged conspiracy itself being a separate crime or offense in 
+violation of Section 1962(d). 
+
+
+So, under that law a “conspiracy” is a combination or 
+
+of two or more persons to join together to attempt to 
+accomplish an offense which would be in violation of Section 
+1962(c) as elsewhere defined in these instructions. It is a kind 
+
+
+38a 
+
+
+of “partnership in criminal purposes” in which each member 
+becomes the agent of every other member. 
+
+The evidence in the case need not show that the alleged 
+members of the conspiracy, in Count Ninety, entered into any 
+express or formal agreement; or that they directly discussed 
+between themselves the details of the scheme and its purpose, 
+or the precise ways in which the purpose was to be 
+accomplished. Neither must it be proved that all of the persons 
+charged to have been members of the conspiracy were such, nor 
+
+
+that the alleged conspirators actually succeeded in 
+accomplishing their unlawful objectives. 
+
+
+A Defendant can be found guilty of that offense as 
+charged in Count Ninety only if all of the following elements 
+are proved beyond a reasonable doubt: 
+
+
+First: That two or more persons, in some way or 
+manner, came to a mutual understanding to try 
+to accomplish a common and unlawful plan, 
+namely, to engage in a “pattern of racketeering 
+activity” as charged in the indictment; and 
+
+
+Second: That the Defendant knowingly and willfully 
+became a member of such conspiracy; and 
+Third: That at the time the Defendant knowingly and 
+
+
+willfully agreed to join in such conspiracy, he 
+did so with the specific intent either to personally 
+participate in the commission of two “predicate 
+offenses,” as elsewhere defined in_ these 
+instructions, or that he specifically intended to 
+otherwise participate in the affairs of the 
+“enterprise” with the knowledge and intent that 
+other members of the conspiracy would commit 
+two or more “predicate offenses” as a part of a 
+“pattern of racketeering activity.” 
+
+
+39a 
+
+
+A person may become a member of this conspiracy 
+without full knowledge of all of the details of the unlawful 
+scheme or the names and identities of all of the other alleged 
+conspirators. So, if a Defendant has an understanding of the 
+unlawful nature of a plan and knowingly and willfully joining 
+that plan on one occasion, that is sufficient to convict him for 
+conspiracy even though he did not participate before, and even 
+
+
+though he played only a minor part. 
+
+
+Of course, mere presence at the scene of a transaction 
+or event, or the mere fact that certain persons may have 
+associated with each other, and have assembled together and 
+disc'ssed common aims and interests, does not necessarily 
+establish proof of the existence of a conspiracy. Also a person 
+who has no knowledge of a conspiracy, but who happens to act 
+in a way which advances some purpose of a conspiracy, does 
+not thereby become a conspirator. 
+
+
+The guilt of a Defendant in a criminal case may be 
+proved without evidence that he personally did every act 
+involved in the commission of the crime charged. The law 
+recognizes that, ordinarily, anything a person can do for himself 
+may also be accomplished through direction of another person 
+as an agent, or by acting together with, or under the direction 
+of, another person or persons in a joint effort. 
+
+
+So, if the acts or conduct of an agent, employee or other 
+associate of the Defendant are willfully directed or authorized 
+by the Defendant, or if the Defendant aids and abels atti 
+
+willfully joining together wi person 
+erent: B of a crime, then the law holds the Defendant 
+responsible for the conduct of that other person just as though 
+the Defendant had engaged in such conduct himself. 
+
+
+Notice, however, that before any Defendant can be held 
+criminally responsible for the conduct of others it is necessary 
+that the Defendant willfully associate himself in some way with 
+
+
+40a 
+
+
+the crime, and willfully participate in it. Mere presence at the 
+scene of a crime and even knowledge that a crime is being 
+committed are not sufficient to establish that a Defendant either 
+directed or aided and abetted the crime. You must find beyond 
+a reasonable doubt that the Defendant was a willful participant 
+and not merely a knowing spectator. 
+
+
+| One of the Defendants is a corporation. A corporation 
+a legal entity, and it may be found guilty of a criminal 
+offense. 
+
+
+A corporation, of course, cannot act for itself. 
+only act through its agents. Agents are the officers, yw 
+employees, or other persons who may be authorized to act for 
+the corporation. A corporation is legally responsible for those 
+acts Or omissions of its agents made or performed within the 
+scope of their employment. 
+
+
+To find a corporate defendant guilty, you must 
+beyond a reasonable doubt that all sete eb Hee 
+offense, as set forth in these instructions, are present as to the 
+corporation in the form of acts or omissions of its agent which 
+were performed with the scope of their employment. Whether 
+the agents’ acts OF Omissions were committed within the scope 
+of their employment is a question of fact. 
+
+
+To be acting within his employment, the agent 
+
+have intended that his act would produce pratay sos aap 
+corporation. Second, the agent must have been acting within 
+his authority. An act was within the agent's authority if it was 
+directly related to the performance of the type of duties that the 
+employee had the general authority to perform or if outsiders 
+could reasonably assume that the agent had the authority to 
+perform the act, judging from his position with the company 
+
+the responsibility previously entrusted to him, and the 
+circumstances surrounding his past conduct. 
+
+
+4la 
+
+
+If the agent was acting within the scope of his 
+employment, the fact that the agent’s act was illegal, contrary 
+to his employer's instructions, or against the corporation's 
+policies will not relieve the corporation of responsibility for it. 
+
+If you find that an act of an agent was not committed 
+within the scope of his employment, then you must consider 
+whether the corporation later approved the act. An act is 
+approved if, after it is performed, another agent of the 
+corporation, with the authority to perform or authorize the act, 
+and with the intent to benefit the corporation, either expressly 
+approves or engages in conduct that is consistent with approving 
+the act. 
+
+A corporation is legally responsible for any act or 
+omission approved by its agents. 
+
+
+In these charges, the Court has reviewed the pertinent 
+parts of federal statutes which are alleged to have been violated. 
+Where a statute specifies several alternative ways in which an 
+offense may be committed, the Indictment may allege the 
+several ways in the conjunctive, that is, by using the word 
+“and:” therefore, if only one “f the alternatives is proved 
+beyond a reasonable doubt, that is sufficient for conviction, so 
+long as the jury agrees unanimously as to at least one of the 
+
+
+alternatives. 
+
+
+You will note that the Indictment charges that the 
+offenses were committed “on or about” a certain date. The 
+Government does not have to prove with certainty the exact 
+date of the alleged offenses. It is sufficient if the Government 
+proves beyond a reasonable doubt that the offenses were 
+committed on a date reasonably near the date alleged. 
+
+
+The word “knowingly,” as that term has been used from 
+time to time in these instructions, means that the act was done 
+voluntarily and intentionally and not because of mistake or 
+
+
+accident. 
+
+
+42a 
+
+
+The word “willfully,” as that term has bee . 
+
+' | ' : n used f 
+time to time in these instructions, means that the act rom 
+or voluntarily and purposely, with the specific intent to 
+
+é something the law forbids; that is with bad Purpose either to 
+disobey or disregard the law. 
+
+
+43a 
+
+
+18 U.S.C. § 1341 
+
+
+18 U.S.C. § 1341, as currently in effect, provides as follows: 
+“§ 1341. Frauds and swindles. 
+
+
+Whoever, having devised or intending to devise any 
+scheme or artifice to defraud, or for obtaining money or 
+property by means of false or fraudulent pretenses, 
+representations, or promises, or to sell, dispose of, loan, 
+exchange, alter, give away, distribute, supply, or furnish or 
+procure for unlawful use any counterfeit or spurious coin, 
+obligation, security, or other article, or anything represented to 
+be or intimated or held out to be such counterfeit or spurious 
+article, for the purpose of executing such scheme or artifice or 
+attempting so to do, places in any post office or authorized 
+depository for mail matter, any matter or thing whatever to be 
+sent or delivered by the Postal Service, or deposits or causes to 
+be deposited any matter or thing whatever to be sent or 
+delivered by any private or commercial interstate carrier, or 
+takes or receives therefrom, any such matter or thing, or 
+knowingly causes to be delivered by mail or such carrier 
+according to the direction thereon, or at the place at which it is 
+directed to be delivered by the person to whom it is addressed, 
+any such matter or thing, shall be fined under this title or 
+imprisoned not more than five years, or both. If the violation 
+affects a financial institution, such person shall be fined not 
+more than $1,000,000 or imprisoned not more than 30 years, 
+or both.” 
+
+
+44a 
+18 U.S.C. § 1343 
+
+
+18 U.S.C. § 1343, as currently in effect, provides as follows: 
+“§ 1343. Fraud by wire, radio, or television. 
+
+
+Whoever, having devised or intending to devise any 
+scheme or artifice to defraud, or for obtaining money or 
+property by means of false or fraudulent pretenses, 
+representations, or promises, transmits or causes to be 
+transmitted by means of wire, radio, or television 
+communication in interstate or foreign commerce, any writings, 
+signs, signals, pictures, or sounds for the purpose of executing 
+such scheme or artifice, shall be fined under this title or 
+imprisoned not more than five years, or both. If the violation 
+affects a financial institution, such person shall be fined not 
+more than $1,000,000 or imprisoned not more than 30 years, 
+or both.” 
+
+
+45a 
+18 U.S.C. § 1344 
+
+
+18 U.S.C. § 1344, as currently in effect, provides as follows: 
+
+
+“§ 1344. Bank fraud. 
+
+
+Whoever knowingly executes, or attempts to execute, a 
+scheme or artifice-- 
+
+
+(1) to defraud a financial institution; or 
+
+
+(2) to obtain any of the moneys, funds, credits, assets, 
+
+
+securities, or other property owned by, or under the 
+custody or control of, a financial institution, by means 
+of false or fraudulent pretenses, representations, or 
+
+
+promises, 
+shall be fined not more than $1,000,000 or imprisoned not 
+more than 30 years, or both. 
+
+
+46a 
+26 U.S.C. § 7206 
+26 U.S.C. § 7206, as currently in effect, provides as follows: 
+“§ 7206. Fraud and false statements. 
+
+
+Any person who-- 
+
+
+(1) Declaration under penalties of perjury. -- Willfully 
+makes and subscribes any return, statement, or other document, 
+which contains or is verified by a written declaration that it is 
+made under the penalties of perjury, and which he does not 
+believe to be true and correct as to every material matter; or 
+
+
+(2) Aid or assistance. -- Willfully aids or assists in, or 
+procures, counsels, or advises the preparation or presentation 
+under, or in connection with any matter arising under, the 
+internal revenue laws, of a return, affidavit, claim, or other 
+document, which is fraudulent or is false as to any material 
+matter, whether or not such falsity or fraud is with the 
+knowledge or consent of the person authorized or required to 
+present such return, affidavit, claim, or document; or 
+
+
+(3) Fraudulent bonds, permits, and entries. -- Simulates 
+or falsely or fraudulently executes or signs any bond, permit, 
+entry, or other document required by the provisions of the 
+internal revenue laws, or by any regulation made in pursuance 
+thereof, or procures the same to be falsely or fraudulently 
+executed, or advises, aids in, or connives at such execution 
+thereof; or 
+
+
+(4) Removal or concealment with intent to defraud. -- 
+Removes, deposits, or conceals, or is concerned in removing, 
+depositing, or concealing, any goods or commodities for or in 
+respect whereof any tax is or shall be imposed, or any property 
+upon which levy is authorized by section 6331, with intent to 
+evade or defeat the assessment or collection of any tax imposed 
+by this title; or 
+
+
+47a 
+
+
+(5) Compromises and closing agreements. -- In 
+connection with any compromise under section 7122, or offer 
+of such compromise, or in connection with any closing 
+agreement under section 7121, or offer to enter into any such 
+
+
+agreement, willfully-- 
+
+
+(A) Concealment of property. -- Conceals from 
+any officer or employee of the United States any 
+property belonging to the estate of a taxpayer or other 
+person liable in respect of the tax, or 
+
+
+(B) Withholding, falsifying, and destroying 
+records. -- Receives, withholds, destroys, mutilates, or 
+falsifies any book, document, or record, or makes any 
+false statement, relating to the estate or financial 
+condition of the taxpayer or other person liable in 
+respect of the tax; 
+
+
+shall be guilty of a felony and, upon conviction thereof, shall 
+be fined not more than $100,000 ($500,000 in the case of a 
+corporation), or imprisoned not more than 3 years, or both, 
+together with the costs of prosecution. 
+
+

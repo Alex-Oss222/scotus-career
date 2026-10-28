@@ -1,0 +1,1779 @@
+# Richardson: recovered predecision record excerpts
+
+Source collection item: https://archive.org/details/micro_IA40385014_0213
+
+Source excerpts mechanically copied from recovered OCR; OCR anomalies are not corrected. No Supreme Court merits result or Stone material appears here. The passages positively establish charges, convictions, predicates and the actual parties' harmlessness positions; no claim of a complete line-by-line reading of every recovered document is made.
+
+## Government statement, pages 1-6
+
+appeals (J. A. 48-77) is 
+reported at 130 F.3d 765. 
+
+
+JURISDICTION 
+
+
+STATEMENT 
+
+
+After a jury trial in the United States District Court 
+for the Northern District of Illinois, petitioner was 
+
+
+(1) 
+
+
+2 
+
+
+convicted of conspiring to possess with intent to distrib- 
+ute and conspiring to distribute crack cocaine, powder 
+cocaine, and heroin, in violation of 21 U.S.C. 846. Peti- 
+tioner was also convicted of engaging in a continuing 
+criminal enterprise (CCE), in violation of 21 U.S.C. 848. 
+He was sentenced to life imprisonment. The court of 
+appeals affirmed. J.A. 48-77. 
+
+1. In 1970, petitioner formed a street gang in 
+Chicago, Illinois, known as the Undertaker Vice Lords. 
+The gang was organized hierarchically, with five groups 
+of members called “generations.” Each generation had 
+members of approximately the same age who joined the 
+gang at approximately the same time. Each generation 
+also had its own “King” and “Prince.” Petitioner was 
+the “King of all the Undertakers” and a “Universal 
+Elite” within the “Vice Lord Nation.” Petitioner not 
+only controlled the gang, but also oversaw the distri- 
+bution of heroin, crack cocaine, and powder cocaine. 
+Petitioner and co-defendant Carmen Tate permitted 
+only members of the Undertakers and others granted 
+permission by them to sell drugs in the Undertakers’ 
+territory. J.A. 50. 
+
+Petitioner’s gang prepared and packaged the drugs in 
+established locations. From there, runners delivered 
+the drugs to particular drug “spots,” and the workers 
+then sold the drugs. Petitioner and Tate established a 
+system of gang rules and enforced them through 
+punishments called “violations.” The violations ranged 
+from being barred from selling, to being beaten with 
+bricks, bottles or ax handles, to being stabbed or shot, 
+to being killed. J.A. 50-51. 
+
+Between 1984 and 1990, petitioner and the Under- 
+takers were primarily engaged in the sale of brown 
+heroin. Johnnie Chew, who ran one of petitioner’s 
+heroin “spots,” testified that, from the winter of 1987 to 
+
+
+3 
+
+
+the end of 1988, the Undertakers sold approximately 25 
+kilograms of brown heroin. Co-defendant Lennel Smith 
+stated that, between 1985 and 1988, he made approxi- 
+mately $50,000 selling brown heroin for petitioner. J.A. 
+51. 
+
+In the fall of 1988, petitioner and the Undertakers 
+began to distribute white heroin. Petitioner provided 
+to one of his sellers, Michael Sargent, $40,000 to $60,000 
+worth of white heroin three times a week. Another 
+seller, Sectric Curry, told a government agent that he 
+made more than $50,000 selling drugs for petitioner and 
+Tate. A third seller, Nate Hall, told a government 
+agent that he made approximately $60,000 selling drugs 
+for petitioner and Tate. Between 1998 and 1990, the 
+Undertakers sold more than 100 kilograms of white 
+heroin. J.A. 51-52. 
+
+In November 1990, the Undertakers branched into 
+the distribution of crack cocaine. Tate and Andre Cal 
+“cooked” a quarter kilogram of cocaine into crack two to 
+three times per week during a ten month period. 
+During that period, the Undertakers sold more than 25 
+kilograms of crack. Petitioner and Tate also oversaw 
+the distribution of powder cocaine. The conspiracy was 
+uncovered when an agent of the Bureau of Alcohol, 
+Tobacco, and Firearms began making small drug pur- 
+chases from low-level members of the gang, who then 
+cooperated with the government. J.A. 52-53. 
+
+2. In March 1994, petitioner and others were 
+charged with conspiring to distribute controlled sub- 
+stances, in violation of 21 U.S.C. 846. J.A. 49. Peti- 
+tioner and Tate were also charged with engaging in a 
+continuing criminal enterprise, in violation of 21 U.S.C. 
+848. J.A. 49. The latter charge is at issue here. 
+
+
+4 
+
+
+A person engages in a continuing criminal enterprise 
+if: 
+(1) he violates any provision of this subchapter 
+
+
+or subchapter II of this chapter the punishment for 
+which is a felony, and 
+
+
+(2) such violation is a part of a continuing series 
+of violations of this subchapter or subchapter II of 
+this chapter — * 
+
+
+(A) which are undertaken by such person 
+in concert with five or more other persons 
+with respect to whom such person occupies a 
+position of organizer, a supervisory position, 
+or any other position of management, and 
+
+
+(B) from which such person obtains 
+substantial income or resources. 
+
+
+21 U.S.C. 848(c). The indictment charged that peti- 
+tioner’s “continuing series of violations” included re- 
+peated instances in which petitioner distributed and 
+possessed with the intent to distribute cocaine, cocaine 
+base, and heroin. J.A. 11-12. 
+
+After a trial, the district court instructed the jury 
+that, in order to find petitioner guilty of engaging in a 
+continuing criminal enterprise, the government was 
+required to prove: 
+
+
+First, that the defendant committed a continuing 
+series of at least three or more of the federal 
+narcotics offenses alleged in Count 2 and at least 
+one of the federal narcotics offenses occurred after 
+the date of March 24, 1989; 
+
+
+Second, that the defendant committed the offense 
+acting in concert with five or more other persons; 
+
+
+5 
+
+
+Third, that the defendant acted as an organizer, 
+supervisor, or manager of five or more other per- 
+sons; and 
+
+
+Fourth, that the defendant obtained substantial 
+income or resources from the offenses. 
+
+
+J. A. 34. The district court further instructed the jury 
+that the the federal narcotics offenses that it could 
+consider in determining whether petitioner engaged 
+in a continuing criminal enterprise include “one, posses- 
+sion of a controlled substance with intent to distribute 
+it, or, two, distributing or causing to be distributed, or 
+aiding and abetting the distribution of, a controlled 
+substance.” J.A. 35. 
+
+With respect to the “continuing series” element, the 
+court instructed the jury that “[y]ou must unanimously 
+agree that the defendant committed at least three 
+federal narcotics offenses. You do not, however, have 
+to agree as to the particular three or more federal 
+narcotics offenses committed by the defendant.” J.A. 
+37. The court rejected an instruction proposed by Tate 
+that would have required the jury to “unanimously 
+agree on which three acts constituted [the] series of 
+violations.” J. A. 21. Petitioner objected to the district 
+court’s failure to give that instruction. J.A. 25. 
+
+In closing argument, government counsel explained 
+how the government had proven that petitioner had 
+engaged in a series of violations as follows: 
+
+
+What we are talking about in this case is literally 
+thousands of independent drug transactions. Every 
+time an individua: $20 bag of heroin was sold, every 
+time an individual $10 bag of rock cocaine was sold, 
+that is a separate drug crime. And you literally had 
+
+
+6 
+
+
+a series of thousands, and you can rely upon any of 
+those three in reaching your verdict. 
+
+
+J.A. 31. Petitioner was subsequently convicted of en- 
+gaging in a CCE violation. 
+
+3. The court of appeals affirm
+
+## Indictment Count Two, Joint Appendix pages 11-12
+
+COUNT TWO 
+
+
+The SPECIAL APRIL 1993 GRAND JURY further 
+charges: 
+
+
+1. From in or about 1984, to and including October 
+1991, at Chicago and elsewhere in the Northern District 
+of Illinois, Eastern Division, 
+
+
+EDDIE RICHARDSON, 
+also known as “Hi Neef” and “Chief,” and 
+CARMEN TATE, 
+also known as “Red” and “Redman,” 
+
+
+defendants herein, did engage in a continuing criminal 
+enterprise by committing a continuing series of felony 
+violations of Sections 841(a)(1) of Title 21, United States 
+Code, which continuing series of violations was under- 
+taken by defendants in concert with at least five other 
+persons with respect to whom defendants occupied a 
+position as organizer, a supervisory position, and some 
+other position of management, and from which continu- 
+ing series of violations defendants obtained substantial 
+income and resources. 
+
+
+2. The continuing series of violations undertaken by 
+defendants EDDIE RICHARDSON and CARMEN TATE 
+included: 
+
+
+a. From in or about 1984 through and including 
+October 1991, at Chicago, in the Northern District of 
+Illinois, Eastern Division, defendants EDDIE RICH- 
+ARDSON and CARMEN TATE knowingly and inten- 
+tionally repeatedly distributed and caused to be 
+distributed cocaine and cocaine base and possessed 
+cocaine and cocaine base with intent to distribute, in 
+
+
+12 
+
+
+violation of Title 21, United States Code, Section 
+841(a)(1). 
+
+
+b. From in or about 1984 through and including 
+October 1991, at Chicago, in the Northern District of 
+Illinois, Eastern Division, defendants EDDIE RICH- 
+ARDSON and CARMEN TATE knowingly and inten- 
+tionally repeatedly distributed and caused to be 
+distributed heroin and possessed heroin with intent to 
+distribute, in violation of Title 21, United States Code, 
+Section 841(a)(1). 
+
+
+In violation of Title 21, United States Code, Section 
+848. 
+
+
+
+
+## Petitioner harmlessness and relief request, pages 28-29
+
+4. The Trial Court’s Failure to Properly Instruct 
+the Jury was not Harmless Error........... 28 
+
+
+Concimaion ..cccvesihiiébaniacdeenenoee. 29 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Andersen v. United States, 170 U.S. 481 (1898).....°.. 12 
+Carella v. California, 491 U.S. 263 (1989) ............. 28 
+Chapman v. California, 386 U.S. 18 (1967) ............ 28 
+Garrett v. United States, 471 U.S. 773 (1985) ..14, 16, 17, 18 
+In re Winship, 397 U.S. 358 (1970) .................5. 11 
+Johnson v. Louisiana, 406 U.S. 356 (1972)............. 13 
+
+
+Schad v. Arizona, 501 U.S. 624 (1991) 
+Pp ee EOE OR ee a ae 12, 13, 14, 21, 22, 23, 26 
+
+
+Sullivan v. Louisiana, 508 U.S. 275 (1993)............. 28 
+
+
+United States v. Baker, 905 F.2d 1100 (7th Cir. 1990), 
+cert. denied, 498 U.S. 876 (1990) ................ 15, 17 
+
+
+United States v. Beros, 833 F.2d 455 (3d Cir. 
+LE EELS SEO A SE tT 23, 24, 25 
+
+
+United States v. Jones, 801 F.2d 304 (8th Cir. 1986) .... 17 
+United States v. Canino, 949 F.2d 928 (7th Cir. 
+
+
+tein ado a ke iCl os bewnaed 66 eneten svc 12, 20 
+United States v. Echeverri, 854 F.2d 638 (3d Cir. 
+
+ESE ne Sane ee ee eneraan 12, 14, 15, 25, 26 
+United States v. Edmonds, 80 F.3d 810 (3d Cir. 1996) 
+
+Ne ee Se 14, 16, 18, 26, 27 
+
+
+United States v. Gipson, 553 F.2d 453 (5th Cir. 1977) 22, 23 
+United States v. Phillips, 664 F.2d 971 (5th Cir. 1981) .... 18 
+
+
+United States v. Young, 745 F.2d 733 (2d Cir. 1984), 
+cert. denied, 470 U.S. 1084 (1985) ............... 15, 17 
+
+
+United States v. Hernandez-Escarsega, 886 F.2d 1560 
+(9th Cir. 1989), cert. denied, 497 U.S. 1003 (1990) .... 15 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+CONSTITUTIONAL PROVISIONS 
+FOR PNR. o's icc cu uccecn dee dvenndast outa a 4&5 
+SOND IND p's cb awn vas ciscctiidusdaly 2, 4, 5, 13 
+Fourteenth Amendment s¥esv-eeeseupe vend seb uodneenue 13 
+Statutes AND Ru es 
+BP Sass te PKA sche aks adetunbesedavieeseneesbaateal 7 
+SD Gas A GUN 60 4G.ns Up deka cece iididesetawats 23, 24 
+Se Geen Ut Ee Seow tvacevecnseciustveacdeemesendiel 22 
+ee ee We ee baud canst bkidsswintsbuede A Ae 1 
+Ee Sis UP INC snas 055s tae cncvabucssaunuie 8, 15 
+21 USC. PE L-étensss se ethesbaedpabeusndmeenenen 15 
+Oe See is 60-4655 SC cr cds cee ceewkecuetenesenbenl 1, 6 
+re GR Saw ac om swddescicdsvecteeens 1, 2, 6, 12, 19 
+Be Gas SOD bo bn coaiduc ve cycdecveunspntes tees i4 
+BE ie We whe eiac evikcicwvaus 6c.6 suas teeenl 14 
+ee Wes OF a owen eA dc ahocchacnes baees 7, 14, 15, 16 
+Be We aeicn St CUED 0 0b tne niceccukee eekaceeesadenien i5 
+SD UBL. BU: «008 wees d+ ot. bee ead souaies mel atin 
+Be Biles Te eas 4 wis hte dete eeind dene tniienalia 1 
+aD Ca: OF SD ov 00-00 bins ddnwiehedsdbabnieasan 23 
+
+
+Rule 7(c)(1), Federal Rules of Criminal Procedure .... 12 
+Rule 31(a), Federal Rules of Criminal Procedure .. 3, 4, 13 
+
+
+v 
+
+
+TABLE OF AUTHORITIES ~— Continued 
+
+
+Page 
+Lecistarive History 
+Drug Abuse Prevention and Control Act of 1970, 
+Pub. L. No. 91-513, 84 Stat. 1242 (codified as 
+amended at 21 U.S.C. §§ 801-971) (1988).......... 14 
+H.R. Rep. No. 91-1444, pt. 1, pp. 83-84 (1970)....... 19 
+ip ee ee 8 eee 14, 19 
+
+
+OrHer AUTHORITIES 
+
+
+a daeum Comment, Predicate Offenses 
+if fay Agreemen Agreement Under the Continuing Crimi- 
+i nterprise Statute, 1994 U.of C. Legal F. 325.... 
+
+
+Scott W. Howe, /ury Fact-Finding in Criminal Cases, 
+58 Mo.L.Rev. 1 1993) ile os. Sa" Awaliieg Dae agin s, Sea 
+
+
+Eric S. Miller, Compound-Complex Criminal Statutes 
+and the Constitution: Demanding Unanimity as to 
+Predicate Acts, 104 Yale L.J. 2997 SE pias onto 
+
+
+15 
+
+
+7 
+
+
+BASIS FOR JURISDICTION 
+
+
+The case below involved a criminal prosecution of 11 
+defendants, including Petitioner Eddie Richardson 
+(“Richardson”). Richardson was charged in Counts One 
+and Two of the Indictment with violations of 21 U.S.C. 
+§§ 846 and 848. The jurisdiction of the District Court was 
+pursuant to 18 U.S.C. § 3231. 
+
+
+On May 23, 1995, the trial jury found Richardson 
+guilty on Counts One and Two of the indictment. 
+
+
+On August 24, 1995, Richardson was sentenced to life 
+imprisonment on each of Counts One and Two, to be 
+served concurrently, plus five years of supervised release 
+to be served thereafter. Richardson remains in federal 
+custody serving the imposed sentence. 
+
+
+Richardson filed a timely notice of appeal on August 
+25, 1995. The U.S. Court of Appeals for the Seventh 
+Circuit had jurisdiction over Richardson’s direct appeal 
+pursuant to 28 U.S.C. § 1291. 
+
+
+The Seventh Circuit's order affirming the Petitioner’s 
+conviction and sentence was entered on November 14, 
+1997. The Seventh Circuit denied a petition for rehearing 
+with suggestion for rehearing en banc, filed by one of 
+Petitioner's co-defendants, on January 7, 1998. 
+
+
+Petitioner timely filed a Petition for Writ of Certiorari 
+on April 7, 1998. This Court has exercised its jurisdiction 
+to review the Seventh Circuit's affirmance of Petitioner's 
+conviction by issuing a writ of certiorari pursuant to 28 
+U.S.C. § 1254 on October 5, 1998. 
+
+
+¢ 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+A. CONSTITUTIONAL PROVISIONS INVOLVED 
+
+
+Fifth Amendment to the Constitution of the United 
+States: 
+
+
+No person shall be . . . deprived of life, liberty, or 
+property, without due process of law 
+
+
+Sixth Amendment to the Comstitution of the United 
+States: 
+
+
+In all criminal prosecutions, the accused shall enjoy 
+
+
+the right to a speedy and public trial, by an impartial jury 
+
+
+of the State and district wherein the crwme shall have been 
+committed 
+
+
+B. STATUTORY PROVISION INVOLVED 
+litle 21, United States Code, § 848 
+
+
+(a) Penalties; forfeitures. 
+
+
+Any person who engages in a continuing criminal 
+enterprise shall [be guilty of an offense] 
+
+
+(c) “Continuing criminal enterprise” defined. 
+
+
+For purposes of subsection (a) of this section, a per- 
+son is engaged in a continuing criminal enterprise if - 
+
+
+(1) he violates any provision of this sub- 
+chapter or subchapter Il of this chapter the pun- 
+ishment for which is a feluny, and 
+
+
+(2) such violation is a part of a continuing 
+series of violations of this subchapter or sub- 
+chapter II of this chapter - 
+
+
+(A) which are undertaken by such person 
+in concert with five or more other persons 
+with respect to whom such person occuvies 
+a position of organizer, a supervisory posi- 
+tion, or any other position of management, 
+and _ 
+
+
+(B) from which such person obtains sub- 
+stantial income or resources. 
+
+
+C. RULE INVOLVED 
+
+
+Rule 31, Federal Rules of Criminal Procedure 
+Rule 31. Verdict 
+
+
+(a) Return. The verdict shall be unanimous... 
+
+
+° 
+
+
+STATEMENT OF THE CASE 
+
+
+This petition arises out of the conviction and sentenc- 
+ing of Petitioner Eddie Richardson for conspiracy to pos- 
+sess with intent to distribute and to distribute quantities 
+of cocaine, cocaine base and heroin, as well as for engag- 
+ing in a continuing criminal enterprise (“CCE”) involving 
+that same conspiracy. After a seven-week trial, Rich- 
+ardson was found guilty by a jury of both the conspiracy 
+
+
+EEO eOo~Xs 
+
+
+and the CCE. On August 24, 1995, Judge Holderman 
+sentenced Richardson to life imprisonment and a fine of 
+$25,000 on each of Counts One and Two of the Indictment 
+to be served concurrently. (Record 713, J.A. 39). 
+
+
+With respect to the CCE (Count Two of the Indict- 
+ment), codefendant Carmen Tate submitted, and Rich- 
+ardson adopted two alternative instructions which would 
+have required the jury to agree unanimously that Rich- 
+ardson had committed three predicate federal narcotics 
+offenses, as wei as to agree unanimously as to which 
+three actions constituted those federal narcotics offenses. 
+(J|.A. 21-23). The court refused those instructions, and 
+instead gave the government's proposed instruction and 
+instructed the jury that they did not “have to agree as to 
+the particular three or more federal narcotics offenses 
+committed by the defendant.” (J.A. 37, Tr. 5785). 
+
+
+The court’s refusal of Tate’s proposed instructions 
+and charge to the jury that they did not have to agree as 
+to the particular federal narcotics offenses upon which 
+the CCE count was predicated denied Richardson his 
+right to due process guaranteed by the Fifth Amendment 
+to the Constitution and his right to a unanimous jury 
+verdict guaranteed by the Sixth Amendment as well as 
+Rule 3l(a) of the Federal Rules of Criminal Procedure. 
+
+
+¢ 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The trial court’s refusal of Petitioner's requested 
+instruction that the jury must find unanimously that Peti- 
+tioner committed each of three predicate narcotics felo- 
+nies in order to convict under the continuing criminal 
+
+
+enterprise statute violated Petitioner's right to jury speci- 
+ficity as to a necessary element of the offense. Jury speci- 
+ficity is required under the Fifth and Sixth Amendments 
+as to each element of the offense charged. The predicate 
+narcotics felonies constituting the continuing series are 
+necessary elements of a continuing criminal enterprise 
+offense requiring the jury’s agreement as to their commis- 
+sion. 
+
+
+The legislative intent to require the predicate felonies 
+to be proved particularly can be ascertained both by an 
+examination of the language of the statute and by reading 
+the legislative history. The statute on its face requires 
+proof of at least one narcotics felony in particular, and 
+also a continuing series of such felonies related to that 
+one. A common sense reading of the statute suggests that 
+a series of three related felonies must be agreed to unani- 
+mously to obtain a conviction. The legislative history 
+reinforces this interpretation because the concerns 
+expressed in connection with the passage of the CCE 
+statute indicate a great sensitivity to the Due Process 
+requirement that every element of the continuing crimi- 
+nal enterprise be proved. 
+
+
+Due Process requires that the statute be read to 
+require juror unanimity as to each of the predicate felo- 
+nies. Due Process requires fundamentally that an individ- 
+ual be charged with enough specificity to understand the 
+nature of the charges. As a corollary, the jury must not be 
+confused as to what the charges are, and the jury’s ver- 
+dict must reflect unanimous agreement as to the set of 
+facts constituting the offense charged. In the context of a 
+CCE prosecution, this means the jury must unanimously 
+agree to the commission of each of at least three narcotics 
+
+
+oftenses in order to tind a continuing series of such 
+
+
+otienses. 
+
+
+rhe trial court’s failure to properly instruct the jury 
+in this case was not harmless error. The instruction that 
+the jury need not find unanimously as to the three predi- 
+cate felonies rendered its verdict meaningless. The 
+reviewing court can only guess as to what the verdict 
+might have been had the jury been properly instructed. 
+
+
+Accordingly the Petitioner's CCE conviction should 
+be reversed and remanded. 
+
+
+a ¢ 
+
+
+ARGUMENT 
+A. STATEMENT OF FACTS. 
+
+
+Richardson was charged, along with nineteen other 
+individuals, in a three-count indictment alleging an 
+extensive narcotics conspiracy spanning a period of 
+approximately seven years in violation of 21 U.S.C. § 846. 
+No overt acts were alleged. Essentially Richardson and a 
+codetendant Carmen Tate were accused of controlling 
+and directing a street gang by the name of the “Cicero 
+Undertaker Vice Lords” which was accused in general 
+terms of engaging in the business of selling heroin, 
+cocaine and crack cocaine. (Record 1, J.A. 5-10). Rich- 
+ardson and Tate were also charged in a second count with 
+engaging in a continuing criminal enterprise, in violation 
+of 21 U.S.C. § 848. (Record 1, J.A. 11-12).' The “predicate 
+
+
+' The indictment also charged Carmen Tate and Juanita 
+Thomas in a separate count with conspiracy to defraud the 
+
+
+narcotics offenses”* were alleged generally as the repeated 
+distribution and possession with intent to distribute 
+cocaine, cocaine base and heroin over the seven year 
+period between 1984 and 1991.* No specific incidents of such 
+
+
+United States in violation of 18 U.S.C. § 371. Additionally the 
+indictment contained certain “Forfeiture Allegations” (Record 
+1, J.A. 18), which were dismissed by the government as to 
+Richardson after the return of the verdict. (Record 601). 
+
+
+? Section 848(c) defines the offense in pertinent part as 
+follows: 
+
+
+For purposes of subsection (a) of this section, a 
+person is engaged in a continuing criminal enterprise 
+if - 
+
+(1) he violates any provision of this subchapter or 
+subchapter II of this chapter the punishment for 
+which is a felony, and 
+
+
+(2) such violation is a part of a continuing series of 
+violations of this subchapter or subchapter II of this 
+chapter - 
+
+
+(A) which are undertaken by such person in concert 
+with five or more other persons with respect to whom 
+such person occupies a position of organizer, a 
+supervisory position, or any other position of 
+management, and 
+
+
+(B) from which such person obtains substantial 
+income or resources. 
+
+
+* Count Two of the indictment alleges in part: 
+
+
+The continuing series of violations undertaken by 
+defendants EDDIE RICHARDSON and CARMEN 
+TATE included: 
+
+a. From in or about 1984 through and including 
+October 1991, at Chicago, in the Northern District of 
+Illinois, Eastern Division, defendants EDDIE 
+RICHARDSON and CARMEN TATE knowingly and 
+intentionally repeatedly distributed and caused to be 
+
+
+sales or possessions were alleged, nor were any substantive 
+counts of sales or possession included in the indictment. 
+
+
+Trial was held over a period of seven weeks, and 
+Richardson was found guilty of both the narcotics con- 
+spiracy and engaging in a continuing criminal enterprise. 
+(Record 602). At trial, the government relied on three 
+cooperating codefendants, Andre Cal, Michael Sargent 
+and Johnnie Chew, to provide the only testimony directly 
+implicating Richardson in narcotics sales. Their testimony 
+was of a general nature, broadly describing a course of 
+criminal conduct spanning seven years.* 
+
+
+distributed cocaine and cocaine base and possessed 
+cocaine and cocaine base with intent to distribute, in 
+violation of Title 21, United States Code Section 
+841(a)(1). 
+
+b. From in or about 1984 through and including 
+October 1991, at Chicago, in the Northern District of 
+Illinois, Eastern Division, defendants EDDIE 
+RICHARDSON and CARMEN TATE knowingly and 
+intentionally repeatedly distributed and caused to be 
+distributed heroin and possessed heroin with intent 
+to distribute, in violation of Title 21, United States 
+Code Section 841(a)(1). 
+
+
+(Record 1, J.A. 11-12). 
+
+4 The following colloquy between the prosecutor and 
+Johnnie Chew is an example of the nature of this testimony: 
+While you were an Undertaker, did you ever sell narcotics? 
+Yes, sir. 
+
+When did you begin to sell narcotics? 
+In 1985. 
+What types of narcotics did you sell? 
+
+
+rFOPr OF 
+
+
+Codeine syrup. 
+
+
+The government called numerous police officers to 
+testify about drug arrests of Richardson’s codefendants. 
+None of these officers had ever arrested Richardson and 
+some had never even seen him in their years of patrolling 
+the area allegedly controlled by the Undertakers. Officer 
+Robert Rodriguez had never arrested or stopped Rich- 
+ardson. [Tr. 2072]. Sergeant Richard Elmer, who had 
+worked in the geographic area for 16 years up to 1990, 
+and conducted “aggressive patrols” looking for drug 
+dealing, had never arrested Richardson. [Tr. 2283]. Officer 
+Timothy Cerven never arrested Richardson. [Tr. 2302]. 
+Likewise Officer Frank Esposito [Tr. 2322], Officer Wayne 
+Frano [Tr. 2354], Officer Gregory Kooyumjiam [Tr. 2365], 
+Officer Edward Mizera [Tr. 2377], Officer Luis Munoz [Tr. 
+2414], Officer Robert Rutherford [Tr. 2426], Officer Carlos 
+Velez [Tr. 3918], and Officer Israel Pacheco [Tr. 2439]. 
+
+
+Q. From what location did you sell codeine syrup? 
+A. Washington and Leclaire. 
+
+
+Q. Do you know who ran the spot located at Washington 
+and Leclaire? 
+
+
+A. Christopher Raspberry. 
+
+
+Q. How often did you sell codeine syrup at that spot? 
+
+
+A. Isold there every day during the time we was working, 
+every day. 
+
+
+Q. Approximately when did you stop selling at this 
+location? 
+
+
+A. Early, I think, January of ‘86. 
+(Tr. 206-209). 
+
+
+10 
+
+
+The government also called agents of the federal 
+Drug Enforcement Administration and Bureau of Alco- 
+hol, Tobacco and Firearms who had spent approximately 
+three years investigating the Undertakers with a view to 
+proving that Richardson was the ringleader. [Tr. 3789]. 
+Agent William Zopp testified that in his three years on 
+the case, he could not locate Richardson. [Tr. 3789]. 
+
+
+With respect to the CCE charge, codefendant Tate 
+submitted, and Richardson adopted two alternative 
+instructions which would have required the jury to agree 
+unanimously that Richardson had committed three predi- 
+cate federal narcotics offenses, as well as to agree unani- 
+mously as to which three actions constituted those federal 
+narcotics offenses. (J.A. 21-23). The court refused those 
+instructions, and instead gave the government's pro- 
+posed instruction and instructed the jury that they did 
+not “have to agree as to the particular three or more 
+tederal narcotics offenses committed by the defendant.” 
+(J.A. 37, Tr. 5785). In reliance on that ruling by the court, 
+the prosecutor argued that the jury could rely on any 
+three of thousands of independent drug transactions.® 
+
+
+* The prosecutor stated: 
+
+
+Now, with respect to those four elements, the 
+evidence overwhelmingly shows it. A continuing 
+series of three. What we are talking about in this case 
+is literally thousands of independent drug 
+transactions. Every time an individual $20 bag of 
+heroin was sold, every time an individual $10 dollar 
+bag of rock cocaine was sold, that is a separate drug 
+crime. And you literally had a series of thousands, 
+and you can rely upon any of those three in reaching 
+your verdict. (Tr. 5379, J.A. 31). 
+
+
+B. LEGAL ARGUMENTS 
+
+
+1. There Is a Split in the Circuits Regarding Jury 
+Specificity as to the Predicate Narcotics 
+Offenses Necessary to a CCE Conviction. 
+
+
+The court's instruction that the jury did not have to 
+agree as to the predicate offenses making up the continu- 
+ing series of violations, coupled with the prosecutor's 
+invitation to rely on any three of thousands of offenses 
+alleged to have occurred over the years, resulted in a 
+probability that the jury retu:ned a “patchwork verdict” 
+in this case. This case accordingly presents squarely the 
+issue as to whether the Due Process Clause and the Sixth 
+Amendment require juror unanimity as to each of three 
+or more violations alleged to constitute a “continuing 
+series” of violations under the CCE statute. 
+
+
+In 1970, this Court held that due process requires 
+“proof beyond a reasonable doubt of every fact necessary 
+to constitute the crime with which [a defendant] is 
+charged.” In re Winship, 397 U.S. 358, 364 (1970). Since 
+then, this Court, as well as the lower courts, have 
+wrestled with defining what is a “fact necessary to consti- 
+tute the crime.” Historically it has been long recognized 
+that the means by which a particular crime is committed 
+
+
+© A “patchwork verdict” results from piecing together the 
+jurors’ different conceptions of the predicate acts that satisfy the 
+continuing series element of the offense. Eric S. Miller, 
+Compound-Complex Criminal Statutes and the Constitution: 
+Demanding Unanimity as to Predicate Acts, 104 Yale L.J. 2277, 2282 
+(1995). 
+
+
+12 
+
+
+are immaterial.’ This precept has been codified at Rule 
+7(c)(1), Federal Rules of Criminal Procedure, which 
+allows charging in an indictment that the means of com- 
+mission of the crime are unknown or that it was com- 
+mited by one or more specified means. The question then 
+becomes whether a fact is a mere means of commission of 
+an offense or whether it is elemental to the offense. 
+
+
+In the context of the CCE statute, 21 U.S.C. § 848, 
+definition of the necessary factual elements has resulted 
+in disagreement among the federal circuits as to the 
+nature of the offenses constituting the predicate “continu- 
+ing series of violations” necessary to a violation of the 
+statute. In Linited States v. Echeverri, 854 F.2d 638 (3d Cir. 
+1988), the Third Circuit has held that each member of the 
+series is a factual element of the offense as to which the 
+jury must agree. In United States v. Canino, 949 F.2d 928 
+(7th Cir. 1991), the Seventh Circuit has held to the con- 
+trary, finding that the frequency of offenses, sufficient to 
+constitute a “series,” is the element to be found by the 
+jury, leaving the determination of which offenses made 
+up that number to the individual jurors. This Court has 
+not addressed the issue of jury specificity in the context 
+of a CCE presecution previously, but its decision in Schad 
+v. Arizona, 501 U.S. 624 (1991), offers some guidance in 
+analyzing the issue in a somewhat similar context. 
+
+
+In Schad, supra, the issue presented was whether a 
+first-degree murder conviction under jury instructions 
+
+
+” Andersen v. United States, 170 U.S. 481 (1898) (The 
+government was not required to prove that a death had 
+occurred by shooting or drowning in order to sustain a murder 
+conviction where the defendant was responsible for either). 
+
+
+13 
+
+
+that did not require agreement on whether the defendant 
+was guilty of premeditated murder or felony murder is 
+unconstitutional.* While the Court characterized the issue 
+as a due process right rather than one under the Sixth 
+Amendment's guarantee of a unanimous verdict’, the 
+Court also concluded that the distinction is “immaterial 
+to the problem of how to go about deciding what level of 
+verdict specificity is constitutionally necessary.”'° As the 
+plurality put it, the issue was “what the jury must be 
+unanimous about” or, more formally, “the permissible 
+limits in defining criminal conduct, as reflected in the 
+instructions to jurors applying the definitions.”!! 
+
+
+2. The Legislative Intent as Reflected in the Statutory 
+and Legislative History Was to Require 
+
+Juror Unanimity as to the Predicate Offenses. 
+The Court recognized in Schad, supra, that “[dleci- 
+sions about what facts are material . . . and therefore must 
+
+
+* A second issue, whether defendant was entitled to a 
+lesser included offense instruction, is irrelevant to the case now 
+before the Court. 
+
+
+* Although the Sixth Amendment does not explicitly 
+require unanimous verdicts, this Court has long recognized that 
+the Sixth Amendment implicitly guarantees the right thereto in 
+federal criminal cases. Johnson v. Louisiana, 406 U.S. 356, 370 
+(1972) (Powell, J., concurring). This right has been explicitly 
+codified in Rule 31(a), Fed.R.Crim.P. 
+
+
+© Schad v. Arizona, 501 U.S. at 634 n.5. In Schad, the jury was 
+instructed that its verdict must be unanimous, eliminating the 
+need to decide whether the Sixth Amendment guarantee of a 
+unanimous verdict should be applied to the states through the 
+Fourteenth Amendment's provisions. 
+
+
+'! Schad, supra, at 631. 
+
+
+14 
+
+
+be proved individually, and what facts are mere means, 
+represent value choices more appropriately made in the 
+first instance by a legislature than by a court.”'? There- 
+fore the legislative intent is the first question to be 
+addressed.'* 
+
+
+The CCE statute was drafted as part of the Drug 
+Abuse Prevention and Control Act of 1970.'* The CCE 
+specifically targeted those persons within a narcotics 
+operation holding a position of management and author- 
+ity, the “top brass.”'> The legislative history indicates that 
+the CCE was not aimed at “the casual drug user,” but 
+rather the “professional criminal.”'© The penalties for a 
+violation of the CCE are accordingly harsh, including 
+mandatory minimum sentences of at least twenty years’’, 
+and in some cases, life imprisonment'* or the death pen- 
+alty.'9 
+
+
+The statutory requirements for a conviction under 
+the CCE are set forth at section 848(c) thereof. A predicate 
+
+
+2 Schad, supra, at 638. 
+
+
+3 See United States v. Edmonds, 80 F.3d 810, 815 (3d Cir. 
+1996) (en banc). In Edmonds, the Third Circuit, sitting en banc, 
+reiterated its holding in United States v. Echeverri, 854 F.2d 638 
+(1988), after reexamining the issue in light of Schad, supra. 
+
+
+4 Drug Abuse Prevention and Control Act of 1970, Pub. L. 
+No. 91-513, 84 Stat. 1242 (codified as amended at 21 U.S.C. 
+§§ 801-971) (1988). 
+
+
+‘S Garrett v. United States, 471 U.S. 773, 781 (1985). 
+© 116 Cong. Rec. 33, 631(1970). 
+
+17 21 U.S.C. § 848(a) (1988). 
+
+18 Id. § 848(c). 
+
+1% Id. § 848(b). 
+
+
+15 
+
+
+offense, defined as a violation of any of the federal nar- 
+cotics statutes the punishment for which is a felony,”° 
+must have been committed as part of a “continuing 
+series” of such violations.*! Additionally the “continuing 
+series” must have been committed in concert with five or 
+more other individuals as to whom the defendant exer- 
+cises a management role, and the defendant must have 
+derived substantial income or resources therefrom.?? 
+
+
+The language of the statute itself provides an indica- 
+
+
+_tion that the legislature intended that each violation com- 
+
+
+prising the “continuing series” be considered an element 
+of the offense.» The definition of the offense states ini- 
+tially that 
+
+
+20 The prohibited drug-related acts are found in §§ 841(a), 
+842(a) and 960(a). 
+
+
+21 21 U.S.C. § 848(c)(2). The circuits are not unanimous in 
+defining the number of violations necessary for establishing a 
+“continuing series.” The majority of the circuits addressing the 
+issue have held a “continuing series” to be three or more 
+violative acts. United States v. Echeverri, 854 F.2d 638, 642 (3d Cir. 
+1988); United States v. Young, 745 F.2d 733, 747 (2d Cir. 1984), cert. 
+denied, 470 U.S. 1084 (1985); United States v. Hernandez-Escarsega, 
+886 F.2d 1560, 1570 (9th Cir. 1989), cert. denied, 497 U.S. 1003 
+(1990). The Seventh Circuit, on the other hand, has held that 
+only two predicate offenses are required. United States v. Baker, 
+905 F.2d 1100, 1102-05 (7th Cir. 1990), cert. denied, 498 U.S. 876 
+(1990). The issue did not arise in this case because the court 
+instructed the jury that three offenses were required to establish 
+a “continuing series.” (Tr. 5785, J.A. 34). 
+
+
+22 21 U.S.C. § 848(c)(2)(A) and (B). See Note 2 supra. 
+
+
+23 This view is discussed at greater length in CyrusAmir- 
+Mokri, Comment, Predicate Offenses and Jury Agreement Under the 
+Continuing Criminal Enterprise Statute, 1994 U.of C. Legal F. 325, 
+337-339. 
+
+
+16 
+
+
+a person is engaged in a continuing criminal 
+enterprise if... he violates any provision of this 
+subchapter or subchapter II of this chapter the 
+punishment for which is a felony. . . . 74 
+
+
+The statute continues by providing that, in addition, the 
+violation must be “part of a continuing series of viola- 
+tions. ... “2° Therefore on its face the statute requires that 
+the jury find that the defendant committed a substantive 
+drug violation, and that that violation was part of a 
+continuing series of such violations.*° At the very least, 
+this would suggest that the jury must agree that a defen- 
+dant committed at least one specific predicate offense.*” 
+
+
+2421 U.S.C. § B48(c). 
+25 Id. 
+26 See Garrett v. United States,.471 U.S. 773, 786 (1985). 
+
+
+27 It should be noted that the Third Circuit does not seem to 
+agree with this analysis. In United States v. Edmonds, supra, the 
+court in attempting to interpret the statute, stated: 
+
+
+The statute lends itself to either interpretation. On the 
+one hand, the statute is triggered by violation of “any 
+provision” as part of a “continuing series of 
+violations.” By placing no emphasis on the particular, 
+the statute could be read to say that different routes of 
+violation are fungible alternatives, suggesting that 
+the provisions are mere “means.” 
+
+
+80 F.3d at 817. This ignores the fact that the trigger is a discrete 
+violation, not the provision violated, emphasizing the particular, 
+contrary to the court’s analysis. The court, however, also 
+recognized that the predicate violations are recognized by 
+Congress as separate offenses, ultimately finding the language 
+of the statute inconclusive. 
+
+
+ee 
+
+
+17 
+
+
+Logic suggests that the jurors must also agree on the 
+other offenses that constitute the “continuing series.”** It 
+would be illogical to interpret one part of the statute to 
+require specific agreement over one predicate act, but to 
+interpret “continuing series” not to require specific agree- 
+ment over the other predicate acts. Such an interpretation 
+would suggest that a “continuing series” can be proved 
+even if a jury agrees on only one predicate offense. Since 
+there is no difference in definition between the one speci- 
+fic violation which must be proved and the other predi- 
+cate violations comprising the “continuing series,” it 
+would not make sense to distinguish between them as to 
+the level of jury certainty required. 
+
+
+Furthermore, the use of the term “continuing series” 
+suggests that specific jury agreement should be required. 
+The term is not defined in the statute, but the courts have 
+uniformly interpreted it to require proof of a specific 
+minimum number of related violations, in most cases 
+three.2? Common sense suggests that the jury must agree 
+as to the three predicate acts comprising the “continuing 
+series.” If the jurors disagree over the predicate acts, the 
+
+
+28 The requirement of a “continuing” series has led some 
+courts to require that the predicate offenses be found to be 
+related. See United States v. Jones, 801 F.2d 304, 307 (8th Cir. 
+1986); United States v. Baker, 905 F.2d 1100, 1104 (7th Cir. 1990). 
+
+
+2% United States v. Young, 745 F.2d 733, 747 (2d Cir. 1984). 
+The Seventh Circuit is an exception and requires only two 
+predicate offenses. United States v. Baker, 905 F.2d 1100, 1105 
+(1990). In the case before the Court, the trial judge nevertheless 
+instructed the jury that it must find three predicate offenses. 
+This Court, without addressing the issue directly, appears to 
+have adopted the three-offense requirement in Garrett v. United 
+States, supra, 471 U.S. 773, at 788, 804. 
+
+
+18 
+
+
+predicate acts themselves have not been individually 
+proven. And because a “series” is made up of a number 
+of individual acts, proof of a “series” should require 
+proof of each of the constituent acts. 
+
+
+Furthermore the CCE statute, although similar in 
+some respects to a conspiracy statute, requires more than 
+just an agreement to commit an unlawful act.*° It requires 
+the actual commission of a predicate violation which is 
+part of a continuing series of violations. The predicate 
+violations, unlike mere overt acts in furtherance of a 
+conspiracy, are themselves, by definition, viewed as sepa- 
+rate and distinct offenses by Congress. This would sug- 
+gest that they are not merely alternative means of 
+committing a crime nor immaterial acts as to which the 
+jury need not concur.*! If a defendant is charged with 
+such a violation in a separate count, the jury must return 
+a unanimous verdict in order to convict. To impose a 
+lessser standard for conviction under the harsher CCE 
+statute, where a continuing series is required, makes for 
+an anomalous result. 
+
+
+The legislative history also supports the conclusion 
+that Congress intended the predicate acts to be individu- 
+ally proven. This Court has had occasion to examine that 
+history in Garrett v. United States, 471 U.S. 773, 782-784 
+(1984), concluding that the CCE statute was intended to 
+be a separate and distinct offense from the underlying 
+
+
+30 See United States v. Phillips, 664 F.2d 971 (Sth Cir. 1981). 
+
+
+31 The Third Circuit found this suggestive that Congress 
+intended the predicate offenses to be elemental. United States v. 
+Edmonds, supra, at 817-818. 
+
+
+19 
+
+
+predicate violations, and not just a sentencing enhance- 
+ment statute for recidivists. 
+
+
+H.R.18583 is the bill that was enacted to become the 
+Comprehensive Drug Abuse Prevention and Control Act 
+of 1970. As originally introduced in the House, H.R. 
+18583 had a section entitled “Continuing Criminal Enter- 
+prises” which in reality was a recidivist provision which 
+provided for enhanced sentences for an individual who 
+committed a drug felony as part of a pattern of criminal 
+conduct. Representative Dingell proposed an amend- 
+ment, which was ultimately passed as § 848, addressing 
+concerns about the lack of due process in the fact finding 
+under the proposed recidivist provision. The amendment 
+made engaging in a CCE “a new and distinct offense with 
+all of its elements triable in court.”%? 
+
+
+The comments of Representative Eckhardt illustrate 
+the concerns of certain members of the Congress regard- 
+ing the statute’s impact on due process rights. While 
+criticizing the recidivist approach, he stated, “[b]ut we 
+would be making a terrible mistake if, because of its 
+emotional impact, we should throw away the due process 
+of law.” He supported the Dingell amendment’s 
+approach, which assured that “if you are going to prove a 
+man guilty, you have to come into court and prove every 
+element of the continuing criminal offense.”* This focus 
+on proof of “every element” of the continuing criminal 
+
+
+32 H.R. Rep. No. 91-1444, pt. 1, pp. 83-84 (1970) (additional 
+views). 
+
+
+3% 116 Cong. Rec. 33,631 (1970) (remarks of Rep. Eckhardt). 
+4 Id. 
+
+
+20 
+
+
+offense, in contrast to the less rigorous proof required 
+under the provisions under discussion in the recidivist 
+provision, suggests strongly that the Congress perceived 
+and intended the Dingell amendment to require proof of 
+each particular predicate felony constituting the continu- 
+ing offense. 
+
+
+The Seventh Circuit, it should be noted, found the 
+legislative history to support a construction of the statute 
+requiring no jury agreement as to the predicate felonies. 
+This finding was premised upon the view that requiring 
+juror unanimity as to the predicate acts “will result in 
+unjustified acquittals frustrating the important policy 
+goals of the CCE.” United States v. Canino, 949 F.2d 928, 
+948 (1991). This concern about “unjustified acquittals” is 
+certainly not reflected however in the remarks of the 
+proponents of the Dingell amendment which ultimately 
+became the law. The Seventh Circuit, rather than 
+acknowledging the intent of the Dingell amendment to 
+require proof of every element of the continuing criminal 
+offense,” concluded that a conviction is justified “when 
+the jury has a unanimously agreed sense that the defen- 
+dant exhibited such conspiratorial frequency rather than 
+a shared sense of what those acts may have been.” United 
+States v. Canino, supra, 949 F2d 928, 948 n. 7. It is impossi- 
+ble to reconcile a requirement of proof of every element 
+with a requirement that the jury only have an agreed 
+“sense” as to those elements. This suggests the Seventh 
+Circuit has misconstrued the legislative history and 
+intent. 
+
+
+The statute on its face suggests that the predicate 
+narcotics felonies were intended by Congress to be 
+proven as elements of a CCE violation. The remarks of 
+
+
+21 
+
+
+the members of Congress in the debates prior to the 
+passage of the statute make clear that rigorous proof of 
+the elements of a CCE violation was intended because of 
+the due process concerns. Accordingly, while admittedly 
+not as clear as it might have been, the Congress has 
+evidenced an intent that the statute should be interpreted 
+to require jury agreement as to the specific predicate 
+offenses. 
+
+
+3. Due Process Requires Juror Specificity as to the 
+Predicate Narcotics Violations. 
+
+
+While legislative intent, to the extent discernable, is 
+to be honored by the courts in construction of a statute, 
+Due Process concerns place some limits on the legisla- 
+ture’s power to define different courses of conduct as 
+merely alternative means of committing a single 
+offense.*5 Accordingly even if it were determined that the 
+Congress, in enacting the CCE, intended the predicate 
+narcotics offenses to be considered mere means of com- 
+mission of the continuing criminal offense, this Court 
+must determine that such a construction is constitutional 
+in light of the Due Process Clause. 
+
+
+The axiomatic requirement of due process that a stat- 
+ute may not forbid conduct in terms so vague that people 
+of common intelligence would be relegated to differing 
+guesses about its meaning, carries the practical conse- 
+quence that a defendant charged under a valid statute 
+will be in a position to understand with some specificity 
+
+
+35 Schad v. Arizona, 501 U.S. 624, 632 (1990). 
+
+
+22 
+
+
+the legal basis of the charge against him.*° As this Court 
+stated in Schad v. Arizona: 
+
+
+[NJo person may be punished criminally save 
+upon proof of some specific illegal conduct. Just 
+as the requisite specificity of the charge may not 
+be compromised by the joining of separate 
+offenses, [citation omitted], nothing in our his- 
+tory suggests that the Due Process Clause would 
+permit a State to convict anyone under a charge 
+of “Crime” so generic that any combination of 
+jury findings of embezzlement, reckless driving, 
+murder, burglary, tax evasion, or littering, for 
+example, would suffice for conviction. [footnote 
+omitted]. 
+
+
+Schad v. Arizona, 501 U.S. at 633. 
+
+
+The issue of verdict specificity had not been treated 
+by the Supreme Court prior to Schad, supra, although it 
+had arisen in the lower courts in the context of the Sixth 
+Amendment guarantee of a unanimous verdict.*” In 
+United States v. Gipson, 553 F.2d 453 (5th Cir. 1977), the 
+defendant was charged in a single count with violating 18 
+U.S.C. § 2313, which prohibited knowingly receiving, 
+concealing, storing, bartering, selling or disposing of any 
+stolen vehicle. The defendant was convicted after the trial 
+court charged the jury that it need not agree on which of 
+the enumerated acts the defendant had committed. The 
+Fifth Circuit reversed finding a violation of the defen- 
+dant’s right to “jury concensus as to [his] course of 
+
+
+3¢ Id. 
+
+
+%” This Court has recognized that the issue is more 
+accurately characterized as a Due Process concern. Schad v. 
+Arizona, 501 U.S. at 634, note 5. 
+
+
+eS a 
+
+
+ee se 
+
+
+23 
+
+
+action.” United States v. Gipson, 553 F.2d at 456. The court 
+found that the statutory prohibitions could be grouped 
+conceptually, so that receiving, concealing and storing 
+could be grouped as “housing,” and bartering, selling 
+and disposing could be grouped as “marketing.” The 
+Fifth Circuit held that the jury must decide separately as 
+to each grouping. United States v. Gipson, 553 F.2d at 
+456-459. This Court in Schad, supra, refused to adopt the 
+conceptual groupings test, however, because ultimately 
+“the notion is too indeterminate to provide concrete guid- 
+ance to courts faced with verdict specificity questions.” 
+Schad v. Arizona, 501 U. S. at 635. 
+
+
+In both United States v. Gipson, supra, and Schad v. 
+Arizona, supra, the verdict specificity issue was slightly 
+different from that in this case. In each of those cases, the 
+jury was left with a number of theories of criminal con- 
+duct from which to choose, rather than with a number of 
+separate predicate acts from which to choose. This case is 
+more similar to United States v. Beros, 833 F.2d 455 (3d Cir. 
+1987). In Beros, the defendant, a union official was 
+charged with violations of 29 U.S.C. § 501(c) and 18 
+U.S.C. § 664. In several of the counts charging those 
+
+
+%8 In pertinent part, section 501(c) provides that: 
+
+
+[aJny person who embezzles, steals, or unlawfully and 
+willfully abstracts or converts to his own use, or the 
+use of another, any of the moneys, funds, securities, 
+property or other assets of a labor organization of 
+which he is an officer, or by which he is employed, 
+directly or indirectly [is guilty of an offense]. 
+
+29 U.S.C. § 501(c) (1982). Similarly, section 664 provides that: 
+
+
+[aJny person who embezzles, steals or unlawfully and 
+willfully abstracts or converts to his own use or to the 
+
+
+24 
+
+
+violations, the government contended that the violations 
+were accomplished by the defendant's engaging in sev- 
+eral activities any one of which could have supported a 
+conviction in more than one manner.*® The trial judge 
+instructed the jury that 
+
+
+the government contends the defendant violated 
+[the particular statute] in more than one man- 
+ner... Therefore, if you find beyond a reason- 
+able doubt that one method, mode, or manner of 
+violating the law occurred, that is sufficient to 
+find the defendant guilty so long as you agree 
+
+
+use of another, any of the moneys, funds, securities, 
+premiums, credits, property, or other assets of any 
+employee welfare benefit plan or employee pension 
+benefits plan, or of any fund connected therewith, 
+shall be [guilty of an offense]. 
+
+
+18 U.S.C. § 664 (1982). 
+
+
+” E.g., in Count 3 of the indictment, it was alleged that: 
+
+
+the defendant James M. Beros, did willfully and 
+unlawfully embezzle, steal, abstract and convert to 
+his own use the monies, funds, property and other 
+assets of Joint Council 40, to wit, the approximate 
+sum of $1,063,000, expenses incurred by James M. 
+Beros for a plane ticket in the name of Mrs. C. Beros, 
+for a flight to Ft. Lauderdale, Florida, and lodging in 
+Hollywood, Florida. 
+
+
+The government presented evidence as proof of that charge that 
+in connection with the trip to Florida, ostensibly to attend a 
+union conference, Beros (1) used a Joint Council credit card to 
+pay airfare for himself and his wife; (2) occupied a hotel suite 
+that cost $160 per day, rather than a room which would have 
+cost $60 per day; and (3) remained in Florida for personal 
+reasons after the conference but continued to expend union 
+funds. United States v. Beros, 833 F.2d at 458. 
+
+
+25 
+
+
+unanimously upon the particular method, mode 
+or manner that occurred. 
+
+
+Linited States v. Beros, 833 F.2d at 459. 
+
+
+The Third Circuit reversed the conviction because of 
+the inherent potential for juror confusion where the jury 
+was not instructed that it must find unanimously that the 
+defendant committed a particular predicate act which vio- 
+lated the law. The court, citing the possibility of a patch- 
+work verdict as to such a predicate act, condemned the 
+possibility of conviction by a jury that was not unani- 
+mous as to the defendant's specific illegal action. 
+
+
+In this case, the permutations that can support a 
+valid conviction are varied and several. What 
+may not vary, however, is the required unanim- 
+ity of each aspect of the jury’s finding. We are 
+convinced that the Sixth Amendment requires 
+such unanimity, and we must be certain that the 
+jury was properly instructed to achieve it. [cita- 
+tion omitted]. 
+
+
+United States v. Beros, supra, at 462. 
+
+
+When the Third Circuit later decided United States v. 
+Echeverri, 854 F.2d 638 (1988), where the defendant was 
+charged with a CCE violation, it found that case to be 
+indistinguishable from United States v. Beros. The trial 
+court refused to instruct the jurors that they must reach 
+unanimous agreement concerning which three predicate 
+narcotics violations had occurred. The Third Circuit 
+found, as in Beros, that “the district court failed to ensure 
+that the ‘jurors [would] be in substantial agreement as to 
+just what [happened] as a step preliminary to determin- 
+ing whether the defendant is guilty of the crime charged.’ 
+
+
+26 
+
+
+[citing United States v. Gipson, supra].” United States v. 
+Echeverri, 854 F.2d at 643. 
+
+
+The Third Circuit, en banc, later elaborated on this 
+view in United States v. Edmonds, 80 F.3d 810 (3d Cir. 
+1996). The defendant was convicted of violating the CCE 
+statute after the court refused to instruct the jury that 
+they must unanimously agree on which three related 
+violations had occurred. The Third Circuit examined the 
+issue in light of Schad v. Arizona, 501 U.S. 624 (1991), 
+turning first to the legislative history and then to “tradi- 
+tion in criminal jurisprudence.” 
+
+
+Criminal trials have long ensured substantial 
+jury agreement as to the facts establishing the 
+offense. This is because criminal statutes and 
+common law have generally defined crimes in 
+terms Of concluct (and accompanying mental 
+state) that takes place in a single place at some 
+specific time. For example, murder statutes 
+require that the defendant killed some other 
+person, an act occurring in some specified time 
+and place. . . . When there is a real risk that a 
+jury will convict without agreement on a dis- 
+crete set of actions, courts have required specific 
+unanimity instructions. [citation omitted]. In our 
+view, substantial agreement on a discrete set of 
+actions is essential to ensure that the defendant 
+
+
+*# United States v. Edmonds, 3 F.3d 810 at 818. The Third 
+Circuit first examined the tradition in criminal jurisprudence as 
+an aid to interpreting the CCE statute, but also recognized that 
+due process is defined in part by historical practice. Id. at 819. 
+This was a factor recognized by this Court in Schad v. Arizona, 
+501 U.S. at 640. 
+
+
+27 
+
+
+is guilty beyond a reasonable doubt of some 
+specific illegal conduct.*! 
+
+
+United States v. Edmonds, 3 F.3d at 817-818. 
+
+
+The court concluded that Congress had not intended 
+that a CCE conviction could rest upon jury agreement 
+merely that the defendant committed some three nar- 
+cotics violations even where it was alleged the defendant 
+had committed many different acts occurring at different 
+times and places. The court cited Judge Scalia’s concur- 
+ring opinion in Schad where he pointed out, in criticizing 
+the plurality’s moral equivalence test of constitutionality, 
+“[w]e would not permit, for example, an indictment char- 
+ging that the defendant assaulted either X on Tuesday or 
+Y on Wednesday, despite the ‘moral equivalence of those 
+two acts.” United States v. Edmonds, supra, at 819. 
+
+
+The case before this Court is factually indistinguish- 
+able from Edmonds. Richardson was charged generally 
+with a continuing series of violations of the narcotics 
+laws. No specific incidents of such violations were 
+charged in the indictment. The prosecutor presented evi- 
+dence at trial of “thousands” of such violations, and 
+invited the jury to find any three of those thousands as 
+predicates for a continuing series. Finally the judge 
+instructed the jury that it need not find unanimously as to 
+which particular violations had been committed. The 
+rationale in Edmonds is compelling and should be applied 
+in this case. Richardson's right to Due Process was vio- 
+lated by the trial court's instructions. 
+
+
+*! The court cites to a discussion of this issue in Scott W. 
+Howe, Jury Fact-Finding in Criminal Cases, 58 Mo.L.Rev. 1 (1993) 
+for additional support. 
+
+
+28 
+
+
+4. The Trial Court's Failure to Properly Instruct the 
+Jury was not Harmless Error. 
+
+
+The trial court's error in improperly instructing the 
+jury in this case allowed the jury to return a non-unani- 
+mous verdict as to an element of the CCE offense. 
+Because of this, the harmless error analysis of Chapman v. 
+California, 386 U.S. 18 (1967), does not apply. 
+
+
+In Sullivan v. Louisiana, 508 U.S. 275 (1993), this Court 
+unanimously held that a constitutionally deficient reason- 
+able doubt instruction is not subject to harmless error 
+analysis. The Court reasoned that a verdict of guilty 
+beyond a reasonable doubt is a necessary predicate of the 
+harmless error inquiry. The failure of the trial court to 
+give a proper instruction thus rendered the jury verdict 
+meaningless, providing no object on which the harmless 
+error analysis could be applied. Sullivan v. Louisiana, 508 
+U.S. at 279-80. 
+
+
+In this case the jury was erroneously instructed that 
+it need not find unanimously as to which three predicate 
+narcotics offenses had been committed. Therefore there is 
+no actual verdict of guilty upon which the harmless error 
+analysis can operate. Furthermore, since there were no 
+predicate acts charged substantively, there were no facts 
+necessarily found by the jury so closely related to the fact 
+tainted by the erroneous instruction as to result in a 
+functionally equivalent finding.*? Accordingly the error 
+in this case cannot be said to be harmless beyond a 
+reasonable doubt and the judgment should be reversed. 
+
+
+° 
+
+
+#2 See Carella v. California, 491 U.S. 263, 271 (1989) (Scalia, J., 
+concurring in judgment). 
+
+
+29 
+
+
+CONCLUSION 
+
+
+For all of the foregoing reasons, Petitioner Eddie 
+Richardson respectfully requests this Court for an order 
+reversing and remanding for a new trial his conviction on 
+Count Two of the Indictment. 
+
+
+Respectfully submitted, 
+
+
+Witutam A. Barnett, Jr. 
+Counsel of Record 
+
+for Petitioner 
+135 S. LaSalle St. 
+Suite 3600 
+Chicago, Illinois 60603 
+(312) 726-4480 
+
+
+
+
+## Government harmlessness footnote, pages 31-32
+
+8) that any error in instructing the 
+jury on the series element was not harmless. The court of appeals 
+did not decide that issue, and this Court may, in any event, clarify 
+the proper form of harmless-error analysis in Neder v. United 
+States, No. 97-1985 (to be argued Feb. 23, 1999). Accordingly, if 
+this Court resolves the circuit conflict at issue in this case by 
+agreeing with petitioner on the degree of unanimity required to 
+
+
+32 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+affirmed. 
+
+
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+
+
+JAMES K. ROBINSON 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+IRVING L. GORNSTEIN 
+Assistant to the Solicitor 
+General 
+
+
+JOEL M GERSHOWITZ 
+Attorney 
+
+
+JANUARY 1999 
+
+
+establish the series element, it should remand to the court of 
+appeals to allow that court to evaluate the harmless-error issue in 
+the first instance. 
+
+
+
+
+## Neutral source scope
+
+The government expressly states that the court of appeals did not decide harmlessness and asks for an initial appellate determination if the Court adopts predicate unanimity. Richardson specifically contests harmlessness, invokes Sullivan and the absence of separately charged predicate acts, and seeks a new CCE trial. The source establishes conspiracy and CCE convictions, not separate convictions for the individual distribution acts. A later decision in the then-pending Neder matter is not law on June 1. A lawful remand can leave applicability and application of harmless-error review open without assuming acquittal, automatic retrial or a harmlessness finding.

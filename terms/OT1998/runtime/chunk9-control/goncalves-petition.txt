@@ -1,0 +1,659 @@
+
+
+
+  
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Office of the Solicitor General |  Reno v. Goncalves - Petition | United States Department of Justice
+
+      
+      
+      
+      
+
+      
+
+      
+
+
+      
+
+  
+    
+            
+        Skip to main content
+      
+      
+
+      
+        
+
+    
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+    
+    
+
+
+                        
+
+            
+
+                
+
+        
+
+    
+        
+              
+
+
+
+
+
+
+      
+
+  
+
+            
+          
+        
+                  
+
+            
+          
+        
+                      
+      
+
+                              
+                  
+                
+
+              
+
+
+
+
+
+  
+
+    
+Brief
+    
+    
+
+Reno v. Goncalves - Petition
+
+    
+
+    
+
+      
+
+
+
+
+
+    
+
+
+	Share
+	
+
+
+
+        
+            
+
+                Facebook
+            
+            
+
+                X
+            
+            
+
+                LinkedIn
+            
+            
+
+                Email
+            
+        
+    
+
+
+
+
+        
+
+      Docket Number
+        
+                  
+
+        
+No. 98-835
+      
+            
+    
+    
+        
+
+      Supreme Court Term
+        
+                  
+
+        
+1998 Term
+      
+            
+    
+    
+    
+    
+        
+
+      Type
+        
+                  
+
+        
+Petition for Writ of Certiorari
+      
+            
+    
+    
+        
+
+      Court Level
+        
+                  
+
+        
+Supreme Court
+      
+            
+    
+    
+    
+        
+
+        
+                  
+
+        
+
+       
+   View Appendix (HTML Version)   
+         No. 98-835       
+ In the Supreme Court of the United States
+ OCTOBER TERM, 1998
+
+ JANET RENO, ET AL., PETITIONERS
+ v.
+ RAUL PERCIRA GONCALVES
+
+ ON PETITION FOR A WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE FIRST CIRCUIT
+
+ PETITION FOR A WRIT OF CERTIORARI
+
+ SETH P. WAXMAN
+ Solicitor General
+ Counsel of Record
+ FRANK W. HUNGER
+ Assistant Attorney General
+ EDWIN S. KNEEDLER
+ Deputy Solicitor General
+ PAUL R.Q. WOLFSON
+ Assistant to the Solicitor 
+ General
+ DONALD E. KEENER
+ LINDA S. WENDTLAND
+ EDWARD J. DUFFY
+ LORRI L. SHEALY
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+ QUESTIONS PRESENTED
+ Respondent, an alien found deportable because of his criminal convictions, applied for discretionary relief from deportation under 8 U.S.C. 1182(c) (1994). The Board of Immigration Appeals (BIA), following an earlier decision of the Attorney General, concluded that he was statutorily ineligible for such discretionary relief under amendments to Section 1182(c) made by Section 440(d) of the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA). Respondent filed a petition for a writ of habeas corpus in district court, challenging the Attorney General's interpretation of Section 1182(c) and the constitutionality of that provision, but the district court dismissed for lack of jurisdiction. The court of appeals ruled that the district court had jurisdiction over respondent's claims under the general federal habeas corpus statute, 28 U.S.C. 2241. It also held, contrary to the Attorney General's interpretation, that the amendments made to Section 1182(c) by Section 440(d) of AEDPA do not apply to aliens who had already filed applications for Section 1182(c) relief as of the date of AEDPA's enactment.
+ The questions presented are:
+ 1. Whether the district court had jurisdiction over respondent's challenges to his deportation order raised in his petition for a writ of habeas corpus. 
+ 2. Whether the Attorney General permissibly concluded that the amendments to Section 1182(c) made by Section 440(d) of AEDPA, providing that certain classes of aliens are ineligible for discretionary relief from deportation under Section 1182(c), should apply in the cases of aliens who had already filed applications for Section 1182(c) relief as of the date of AEDPA's enactment.
+
+ PARTIES TO THE PROCEEDING
+ Petitioners are Janet Reno, the Attorney General of the United States; Doris Meissner, the Commissioner of Immigration and Naturalization; Steve Farquharson, District Director of the Immigration and Naturalization Service (INS); the Department of Justice; and the INS. Petitioners were defendants in the district court and appellees in the court of appeals.
+ Respondent, who was the habeas corpus petitioner in the district court and the appellant in the court of appeals, is Raul Percira Goncalves.
+
+
+
+ In the Supreme Court of the United States
+ OCTOBER TERM, 1998
+
+ No. 98-835
+ JANET RENO, ET AL., PETITIONERS
+ v.
+ RAUL PERCIRA GONCALVES
+
+ ON PETITION FOR A WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE FIRST CIRCUIT
+
+ PETITION FOR A WRIT OF CERTIORARI
+
+ The Solicitor General, on behalf of the Attorney General, the Commissioner of Immigration and Naturalization, the District Director of the Immigration and Naturalization Service (INS), the Department of Justice, and the INS, respectfully petitions for a writ of certiorari to review the judgment of the United States Court of Appeals for the First Circuit in this case.
+ OPINIONS BELOW
+ The opinion of the court of appeals (App. 1a-58a)1 is reported at 144 F.3d 110. The memorandum opinion and order of the district court (App. 75a-78a) are unreported, as are the decision and order of the immigration judge (App. 59a-72a) and the decision of the Board of Immigration Appeals (App. 73a-74a).
+ JURISDICTION
+ The judgment of the court of appeals was entered on May 15, 1998. A petition for rehearing was denied on July 31, 1998. App. 79a-80a. On October 20, 1998, Justice Souter extended the time within which to file a petition for a writ of certiorari, to and including November 30, 1998. The jurisdiction of this Court is invoked under 28 U.S.C. 1254(1).
+ CONSTITUTIONAL AND STATUTORY PROVISIONS INVOLVED
+ Reprinted in an appendix to this petition (App. 81a-90a) are pertinent portions of the Suspension of Habeas Corpus Clause of the Constitution, Art. I, § 9, Cl. 2; 8 U.S.C. 1105a(a) and 1182(c), as in effect before and after April 24, 1996; 8 U.S.C. 1252(a) and (g) (Supp. II 1996); Sections 401(e), 440(a), and 440(d) of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. No. 104-132, 110 Stat. 1268, 1276, 1277; Sections 304, 306, and 309 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, Pub. L. No. 104-208, Div. C, 110 Stat. 3009-587, 3009-607, 3009-625; and 28 U.S.C. 2241.
+ STATEMENT
+ 1. This case presents questions about the application and, potentially, the constitutionality of several major changes to the Nation's immigration laws enacted by Congress in 1996. Those changes were designed in large part to reduce the opportunities for criminal aliens to obtain administrative relief from deportation, and to facilitate their removal from the United States by streamlining and channeling judicial review of their deportation orders. Two enactments by Congress are particularly pertinent: the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), Pub. L. No. 104-132, 110 Stat. 1214; and the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (IIRIRA), Pub. L. No. 104-208, Div. C, 110 Stat. 3009-546.
+ a. Before the enactment of AEDPA, an alien lawfully admitted for permanent residence who was subject to deportation because of a criminal conviction could (like other permanent resident aliens) apply to the Attorney General for discretionary relief from deportation under 8 U.S.C. 1182(c) (1994). To be eligible for such relief, the alien had to show that he had had a lawful unrelinquished domicile in this country for seven years, and that, if his conviction was for an "aggravated felony," as defined in the Immigration and Nationality Act (INA) at 8 U.S.C. 1101(a)(43) (1994), he had not served a term of imprisonment for that conviction of five years or longer. See 8 U.S.C. 1182(c) (1994).2 If the Attorney General, in the exercise of her discretion, denied relief, then the alien could challenge that denial by filing a petition for review of his deportation order in the court of appeals. See 8 U.S.C. 1105a(a) (1994) (repealed 1996) (incorporating Hobbs Administrative Orders Review Act, 28 U.S.C. 2341-2351). Under certain circumstances, an alien in custody pursuant to an order of deportation could also seek judicial review thereof by filing a petition for a writ of habeas corpus, pursuant to 8 U.S.C. 1105a(a)(10) (1994) (repealed 1996).
+ b. In 1996, Congress twice restricted both the substantive eligibility of criminal aliens for discretionary relief from deportation and the availability of judicial review of criminal aliens' deportation orders. 
+ i. On April 24, 1996, Congress enacted AEDPA. Section 440(d) of AEDPA, 110 Stat. 1277, amended 8 U.S.C. 1182(c) to make certain classes of criminal aliens categorically ineligible for discretionary relief under that Section--including aliens who were deportable because they had been convicted of certain "crimes involving moral turpitude," see 8 U.S.C. 1251(a)(2)(A)(ii) (1994). At the same time, AEDPA repealed 8 U.S.C. 1105a(a)(10) (1994), which had permitted aliens in custody pursuant to an order of deportation to obtain judicial review in habeas corpus proceedings, and replaced it with an express prohibition of judicial review of deportation orders entered against aliens who are deportable by reason of having committed certain criminal offenses. AEDPA §§ 401(e) and 440(a), 110 Stat. 1268, 1276-1277. Thus, since the enactment of AEDPA, Section 1105a(a)(10) has provided that any final order of deportation against an alien who is deportable by reason of having committed one of the disqualifying offenses "shall not be subject to review by any court." 110 Stat. 1277.
+ ii. On September 30, 1996, Congress enacted IIRIRA, which comprehensively amended the INA. IIRIRA repealed Section 1182(c) on a prospective basis, and replaced it with another form of discretionary relief known as "cancellation of removal." See IIRIRA § 304(b), 110 Stat. 3009-597; 8 U.S.C. 1229b (Supp. II 1996). Certain classes of criminal aliens were made ineligible for cancellation of removal. See 8 U.S.C. 1229b(a)(3) and (b)(1)(C) (Supp. II 1996). The cancellation of removal provisions, however, were made applicable only to aliens who are placed in removal proceedings on or after April 1, 1997, and therefore do not govern this case. See IIRIRA § 309(a) and (c)(1), 110 Stat. 3009-625. For cases commenced prior to April 1, 1997, including this case, IIRIRA retained Section 1182(c)-including the amendment made by Section 440(d) of AEDPA that made certain classes of criminal aliens ineligible for relief under Section 1182(c). 
+ IIRIRA also replaced the INA's judicial review provision in 8 U.S.C. 1105a (1994) with a new 8 U.S.C. 1252 (Supp. II 1996), again for cases in which the administrative procedings were commenced on or after April 1, 1997. See IIRIRA § 309(c)(1), 110 Stat. 3009-625. The new Section 1252 provides for judicial review of all final removal orders in the courts of appeals pursuant to the Hobbs Act, 28 U.S.C. 2341-2351. See 8 U.S.C. 1252(a)(1) (Supp. II 1996). Section 1252 also carries forward the preclusion of review in Section 1105a(a)(10) (as amended by AEDPA § 440(a)), by providing that "no court shall have jurisdiction to review any final order of removal against an alien who is removable by reason of having committed" a crime within one of several classes of criminal offenses. 8 U.S.C. 1252(a)(2)(C) (Supp. II 1996). The new Section 1252 further provides, in a paragraph entitled "CONSOLIDATION OF QUESTIONS FOR JUDICIAL REVIEW," that "[j]udicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions, arising from any action taken or proceeding brought to remove an alien from the United States under this subchapter shall be available only in judicial review of a final order under this section," 8 U.S.C. 1252(b)(9) (Supp. II 1996)-i.e., only in the court of appeals, as provided in Section 1252(a)(1). 
+ Cases (such as this one) in which the administrative proceedings were begun prior to April 1, 1997, continue to be governed by 8 U.S.C. 1105a, as amended by AEDPA. IIRIRA § 309(c)(2), 110 Stat. 3009-625. Even for such cases, however, Congress enacted special rules for any such cases in which the final deportation order is entered on or after October 31, 1996. One of those special rules, in Section 309(c)(4)(G) of IIRIRA, reinforces the preclusion of judicial review in the amended Section 1105a(a)(10) by providing that "there shall be no appeal permitted in the case of an alien who is inadmissible or deportable by reason of having committed [specified criminal offenses]." 110 Stat. 3009-626.3 
+ Finally, in IIRIRA, Congress enacted a sweeping jurisdiction-limiting provision, 8 U.S.C. 1252(g) (Supp. II 1996), which provides:
+ Except as provided in [8 U.S.C. 1252] and notwithstanding any other provision of law, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under [the INA].
+ The new Section 1252(g) is expressly made applicable "without limitation to claims arising from all past, pending, or future exclusion, deportation, or removal proceedings under [the INA]." IIRIRA § 306(c)(1), 110 Stat. 3009-612 (as amended by Pub. L. No. 104-302, § 2(1), 110 Stat. 3657). 
+ c. After the enactment of these major immigration laws, two important questions arose in immigration proceedings about the scope of Section 440(d) of AEDPA, which, as we have said, amended 8 U.S.C. 1182(c) to bar the granting of relief to certain criminal aliens. Like many other aliens in deportation proceedings affected by AEDPA and IIRIRA, respondent challenges his deportation order by seeking to litigate both of those questions. The instant case concerns whether, and if so in what forum, either of those 
+ challenges may be brought. On the merits, it also concerns the first of the two recurring questions, described below:
+ i. First, the question arose as to whether the amendment to Section 1182(c) made by Section 440(d) of AEDPA applies to aliens who had been placed in deportation proceedings before the enactment of AEDPA. On June 27, 1996, a closely divided Board of Immigration Appeals (BIA) initially decided that Section 440(d) does apply to deportation proceedings that had already been initiated, but that it should not be applied to aliens who had filed applications for Section 1182(c) relief in those proceedings before AEDPA's enactment. In re Soriano, Int. Dec. No. 3289 (App. 91a-123a). On September 12, 1996 (before IIRIRA was enacted), the Attorney General, exercising her authority under 8 C.F.R. 3.1(h), vacated the opinion of the BIA in Soriano and certified for her decision the question whether Section 440(d) applies to applications filed as of the date of its enactment.4 App. 124a. 
+ On February 21, 1997, the Attorney General concluded in Soriano that AEDPA Section 440(d) applies to all deportation proceedings pending on the date of its enactment, including those in which aliens had already submitted applications for Section 1182(c) relief. App. 125a-138a. Following the analytical framework set forth by this Court in Landgraf v. USI Film Products, 511 U.S. 244 (1994), the Attorney General concluded that application of Section 440(d) to pending deportation cases is not retroactive because it does not "impair a right, increase a liability, or impose new duties on criminal aliens. The consequences of Respondent's conduct remain the same before and after the passage of AEDPA: criminal sanctions and deportation." App. 131a-132a. The Attorney General further concluded that Section 440(d) "is best understood as Congress's withdrawal of the Attorney General's authority to grant prospective relief. Thus, the statute alters both jurisdiction and the availability of future relief, and should be applied to pending applications for relief." App. 132a.
+ ii. Second, the question arose whether AEDPA Section 440(d) bars the Attorney General from granting Section 1182(c) relief to criminal aliens who temporarily proceeded abroad and are seeking admission to the United States, as well as to criminal aliens in the United States who are in deportation proceedings. The BIA concluded in In re Fuentes-Campos, Int. Dec. No. 3318 (May 14, 1997), and In re Gonzalez-Camarillo, Int. Dec. No. 3320 (June 19, 1997), that Section 440(d) bars relief only for criminal aliens in deportation proceedings.
+ 2. Respondent is a native and citizen of Portugal who was admitted to the United States as a lawful permanent resident alien in 1972. In January 1988 he was convicted in Massachusetts state court of larceny; in March 1989 he was convicted in state court of assault and battery with a dangerous weapon; and in June 1992 he was convicted in state court of knowingly receiving stolen property. C.A. App. 80-86. Because those offenses were two or more "crimes involving moral turpitude" under the INA, and because they did not arise out of a "single scheme of criminal misconduct," they rendered him deportable under the INA. See 8 U.S.C. 1251(a)(2)(A)(ii) (1994) (now recodified at 8 U.S.C. 1227(a)(2)(A)(ii) (Supp. II 1996)).
+ On December 11, 1990, the INS issued an Order to Show Cause against respondent.5 Respondent conceded his deportability and applied to the immigration judge (IJ) for discretionary relief under Section 1182(c). On January 20, 1995, the IJ denied relief as a matter of discretion after a review of respondent's crimes and personal circumstances, and entered an order of deportation. App. 62a-72a.
+ Respondent appealed the denial of relief to the BIA. While his appeal was pending, Congress enacted Section 440(d) of AEDPA. On March 24, 1997, the BIA dismissed respondent's appeal, relying upon the Attorney General's decision in Soriano. App. 73a-74a.
+ 3. On August 8, 1997, respondent filed a petition for a writ of habeas corpus in the United States District Court for the District of Massachusetts.6 He contended that the Attorney General had erred in concluding that AEDPA Section 440(d) rendered him ineligible for Section 1182(c) relief. He also contended that AEDPA Section 440(d) violates constitutional equal-protection principles insofar as it is applied to bar relief under Section 1182(c) for criminal aliens in deportation proceedings, but not those returning from a temporary trip abroad. C.A. App. 7-13. 
+ On August 14, 1997, the district court dismissed respondent's petition, concluding that Congress had divested the district courts of jurisdiction over challenges to deportation orders. The district court also concluded that, even if it retained a residual power to provide habeas corpus review of constitutional claims, it would deny relief because respondent's claims were without merit. App. 75a-77a.
+ 4. The court of appeals reversed. App. 1a-58a. It concluded that the district court had jurisdiction over respondent's claims under the general federal habeas corpus statute, 28 U.S.C. 2241. On the merits, the Court ruled that the Attorney General's construction of Section 440(d) in Soriano was wrong, and that Section 440(d) of AEDPA does not apply to aliens in respondent's situation. The court therefore did not reach respondent's equal protection claim, and it remanded the case to the BIA for a determination whether respondent should be granted relief under Section 1182(c) as a matter of discretion. 
+ a. On the jurisdictional issue, the court of appeals first concluded, as it had in earlier cases (see note 6, supra), that an alien in respondent's situation could not raise either his statutory or his constitutional claim by the usual means of judicial review of a deportation order-namely, in a petition for review filed in the court of appeals. App. 13a-17a. "A straightforward reading of [Section 309(c)(4)(G) of IIRIRA]," the court reasoned, "leads to the conclusion that IIRIRA does not permit initial jurisdiction in the courts of appeals to hear 'appeals' by aliens, like [respondent], who have been convicted of two crimes of moral turpitude." App. 15a. The court rejected the Attorney General's argument that, to the extent that an alien in respondent's situation might have a substantial constitutional claim, it may still be heard by the court of appeals on petition for review. See App. 11a-13a.
+ The court of appeals next concluded that the district court could entertain respondent's claims through an exercise of its general habeas corpus jurisdiction under 28 U.S.C. 2241. See App. 18a-38a. Framing the question as whether "Congress has repealed 28 U.S.C. § 2241, as applied to immigration cases such as this one," App. 20a, the court rejected the government's argument that AEDPA and IIRIRA preclude district courts from reviewing deportation orders under 28 U.S.C. 2241. The court relied in large part on the presumption against repeal of habeas corpus jurisdiction by implication, as articulated in Felker v. Turpin, 518 U.S. 651 (1996). App. 20a-22a. "Felker makes clear," the court believed, that "if Congress intends to repeal or restrict habeas jurisdiction under § 2241, it must say so explicitly." App. 20a.
+ The court rejected the government's argument that the district court's habeas corpus jurisdiction to review the substance of deportation orders had been divested by AEDPA-which had repealed old Section 1105a(a)(10), providing for habeas corpus review if the alien was in custody, and had replaced it with a preclusion of judicial review of deportation orders entered against criminal aliens-and by IIRIRA-which had enacted the new jurisdiction-limiting provision in 8 U.S.C. 1252(g) (Supp. II 1996). AEDPA, the court reasoned, struck only the reference to habeas corpus in the INA itself (which it characterized as a "specialized immigration provision" designed to ensure that aliens in custody "would have a supplemental collateral remedy"), and did not expressly amend 28 U.S.C. 2241. App. 24a-25a. As for Section 1252(g)-which provides that, "notwithstanding any other provision of law," no court shall have jurisdiction to review any claim arising out of the Attorney General's decision to commence or adjudicate removal proceedings, except as provided under Section 1252 itself-the court declined to read the "notwithstanding" clause as affecting the district court's authority under 28 U.S.C. 2241. According to the court, the government's argument that Section 1252(g) divests the district courts of jurisdiction to review deportation orders under 28 U.S.C. 2241 "leads us to apply the long standing rule disfavoring repeal of jurisdictional provisions by implication, a rule which is particularly appropriate here." App. 27a.
+ Further, the court stated, accepting the government's argument "would raise substantial and complex constitutional questions concerning the limits of Congress' power under Article III to control the jurisdiction of the federal courts," App. 28a, and could also require the court to decide whether preclusion of all judicial review of respondent's claims would constitute an unconstitutional suspension of the writ of habeas corpus, in contravention of Article I, Section 9, of the Constitution, App. 29a. The court suggested as well that the posture of this case implicates "the historical core of the Suspension Clause-jurisdiction to review the legality of detention by executive branch officers." Ibid. 
+ Finally, the court held that respondent's claim to relief under Section 1182(c) fell within the scope of the district court's authority under 28 U.S.C. 2241. App. 31a-36a. The court observed that Section 2241(c) provides that the writ of habeas corpus shall not extend to a "prisoner" unless, inter alia, he is in custody "in violation of the Constitution or laws * * * of the United States." App. 31a (emphasis added by court of appeals). It also stated that "numerous immigration cases under the § 2241 jurisdiction have considered claims of statutory right, sometimes described as an integral part of ensuring due process of law." App. 31a-32a. The court rejected the argument that, because the Attorney General has the discretion to deny respondent's application for Section 1182(c) relief in any event, her decision concerning his statutory eligibility for that form of relief is itself not reviewable in habeas corpus; the court reasoned that, "[a]nalytically, the decision whether an alien is eligible to be considered for a particular discretionary form of relief is a statutory question separate from the discretionary component of the administrative decision whether to grant relief." App. 34a-35a. 
+ b. On the merits, the court of appeals held that the Attorney General's decision in Soriano-that Section 440(d) of AEDPA bars a grant of discretionary relief under Section 1182(c) in pending cases-is contrary to the presumption against retroactive application of federal statutes. App. 38a-57a. Although the court expressed doubt on the point (see App. 39a-40a & n.20), it assumed, for purposes of deciding the case, that the analytical framework of Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984)-under which deference is owed to an agency's reasonable construction of a statute that is silent or ambiguous on the matter at hand-applies to the Attorney General's decision about the "effective date of a governing statute." App. 40a. Nonetheless, the court concluded (App. 41a) that the first step of the Chevron analysis, "employing traditional tools of statutory construction," includes the "familiar * * * presumption against retroactivity" expressed in Landgraf, supra. Therefore, the court concluded, Section 440(d) is inapplicable to respondent unless there is "a plain statement from Congress that expressly provides for retroactive application." App. 42a. 
+ The court's review of the text of AEDPA yielded no indication to its satisfaction that Congress had expressly intended that Section 440(d) be applied retroactively. The court noted that Sections 413(g) and 421 of AEDPA, 110 Stat. 1269-1270, which bar various forms of relief from deportation for aliens involved in terrorism, contained explicit "effective date" provisions. Those provisions, the court believed, would have been superfluous if Congress had thought that such restrictions "would as a matter of course be applied to pending cases." App. 44a-50a. 
+ The court of appeals found its textual analysis bolstered by its understanding of AEDPA's legislative history. See App. 51a-57a. The court observed that the original Senate version of the bill that became AEDPA had contained express language making what eventually became Section 440(d) retroactive, but that that language was dropped after a House-Senate conference. App. 52a-55a. And, the court noted, by the time IIRIRA was enacted later in 1996, the BIA had already concluded in Soriano that Section 440(d) of AEDPA should not be applied to pending applications for relief. The court therefore suggested that, when Congress enacted IIRIRA, it was "presumptively aware of what was then the governing agency interpretation," and yet Congress did not disturb that interpretation. App. 56a.7 
+ REASONS FOR GRANTING THE PETITION
+ The court of appeals has erroneously decided two issues of broad significance for the administration of the Nation's immigration laws. First, it has concluded-notwithstanding successive congressional enactments channeling judicial review of all deportation orders into the courts of appeals, and significantly restricting judicial review of deportation orders affecting criminal aliens in particular-that criminal aliens may invoke the habeas corpus jurisdiction of the district courts under 28 U.S.C. 2241 to challenge the merits of their orders of deportation. That conclusion cannot be squared with the structure of judicial review of deportation orders that Congress has enacted. Moreover, as demonstrated by the hundreds of pending cases in which criminal aliens have sought habeas corpus relief, the ruling below will lead to significant delays in the removal of such aliens from the United States, despite Congress's clear intent that removal of criminal aliens be expedited and that all review in the district courts be eliminated. The court of appeals' jurisdictional ruling also raises issues closely related to those presented in Magana-Pizano v. INS, 152 F.3d 1213 (1998), in which the Ninth Circuit held (contrary to the First Circuit in this case) that 8 U.S.C. 1252(g) (Supp. II 1996) does divest a district court of habeas corpus jurisdiction under 28 U.S.C. 2241 to review deportation orders, but then further held that that statutory preclusion contravenes the Suspension of Habeas Corpus Clause of the Constitution, Art. I, § 9, Cl. 2. We accordingly are filing a petition for a writ of certiorari in Magana-Pizano, simultaneously with the filing of the petition in this case. We suggest either that certiorari be granted in both cases, or that the petition in Magana-Pizano be held pending the disposition of the petition and the decision in this case.
+ Second, the court of appeals has concluded that Section 440(d) of AEDPA, which restricted the eligibility of criminal aliens for discretionary relief from deportation under 8 U.S.C. 1182(c) (1994), implicates the presumption against retroactivity of federal statutes and so is not to be applied in the case of any alien who had submitted an application for discretionary relief before AEDPA's enactment. The question of the temporal scope of the amendments made by Section 440(d) affects thousands of aliens in pending administrative and judicial proceedings. More generally, the court's conclusion that AEDPA's amendment to Section 1182(c) implicates the presumption against retroactivity has potentially far-reaching consequences for the Attorney General's administration of the immigration laws, for it is at odds with the courts' historic treatment of deportation proceedings as inherently prospective in nature. Review is therefore warranted of the lower court's ruling on the merits as well.
+ 1. a. The court of appeals' central jurisdictional conclusion in this case was that a criminal alien who is precluded from obtaining judicial review of his deportation order in the court of appeals because of Section 309(c)(4)(G) of IIRIRA (and Section 440(a) of AEDPA) may instead obtain judicial review by filing a petition for a writ of habeas corpus in district court under 28 U.S.C. 2241. App. 30a. That result is fundamentally at odds with the statutory framework Congress has fashioned for judicial review of deportation orders. Since 1961, Congress has consistently provided that such review should proceed in the courts of appeals, in order to avoid delays in deportations.8 It reenacted that basic aspect of the judicial review scheme in 1996. See 8 U.S.C. 1252(a) (Supp. II 1996). In 1996, Congress also expressly repealed the limited provision in 8 U.S.C. 1105a(a)(10) for habeas corpus review in the district courts for aliens held in custody pursuant to deportation orders that had remained in existence since 1961. See AEDPA § 401(e), 110 Stat. 1268 (titled "Elimination of Custody Review by Habeas Corpus"). Further, it restricted judicial review of criminal aliens' deportation orders to a considerable degree-in both Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA for cases in which deportation proceedings were commenced prior to April 1, 1997, and in 8 U.S.C. 1252(a)(2)(C) (Supp. II 1996) for all cases in the future. And, to ensure that those exclusive-review procedures would not be circumvented, Congress enacted Section 1252(g), which provides that "notwithstanding any other provision of law," no judicial review of any claim arising out of deportation proceedings may be had except under the procedures established in the INA itself.
+ These consistent and successive enactments show that Congress has required that judicial review of deportation orders be had, if at all, only in the courts of appeals. The court of appeals concluded in this case, however, that Congress has not acted with sufficient clarity to prevent aliens from collaterally challenging their deportation orders in the district courts under 28 U.S.C. 2241. The result of that decision is that criminal aliens may proceed in district court under 28 U.S.C. 2241 to test the validity of their deportation orders, whereas all other aliens must file petitions for review in the court of appeals, pursuant to the INA's exclusive-review procedures. That result not only frustrates Congress's intent that review of criminal aliens' deportation proceedings be streamlined and limited; it turns Congress's scheme on its head. It is scarcely conceivable that Congress would have intended criminal aliens to have greater opportunities for judicial review (and delay) of their deportation orders than all other aliens. Cf. Foti v. INS, 375 U.S. 217, 224 (1963) (noting Congress's concern with delays in judicial review of deportation orders); Stone v. INS, 514 U.S. 386, 399 (1995) (similar). But inevitably, permitting criminal aliens to proceed in district court under 28 U.S.C. 2241 would make the entire process of judicial review of those aliens' deportation orders longer than the process of reviewing non-criminal aliens' deportation orders.9 
+ b. The court of appeals' decision, moreover, rests on a faulty but significant premise, namely, that Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA prevent criminal aliens from raising any claim of any kind on a petition for review in the courts of appeals. See App. 13a-15a. Because the court believed that criminal aliens were altogether barred from proceeding in the courts of appeals, it expressed concern that, absent judicial review of deportation orders under 28 U.S.C. 2241, those aliens would have no access to judicial review at all-a situation that, it believed, would raise serious constitutional concerns under Article III and the Suspension of Habeas Corpus Clause, Art. I, § 9, Cl. 2. See App. 19a-20a, 28a-30a.
+ AEDPA Section 440(a) amended 8 U.S.C. 1105a(a)(10) (1994) to provide that orders of deportation against aliens convicted of certain criminal offenses "shall not be subject to review by any court." IIRIRA Section 309(c)(4)(G) further provides that "there shall be no appeal permitted in the case of an alien who is inadmissible or deportable by reason of having committed" the same kinds of criminal offenses. Those provisions-and the parallel provision in 8 U.S.C. 1252(a)(2)(C) (Supp. II 1996) applicable to cases commenced after April 1, 1997-do not, however, withdraw all power from the courts of appeals to review deportation orders entered against such aliens.10 
+ First, consistent with the general rule that a court has jurisdiction to determine its own jurisdiction, a court of appeals may entertain a petition for review to the extent that the petitioner contends that he does not fall within the category of aliens for whom judicial review is precluded-e.g., to review a contention that the petitioner is not an alien, that he was not convicted of the offense that formed the basis of the deportation order, or that that offense is not one for which judicial review is barred by Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA. See Magana-Pizano v. INS, 152 F.3d at 1216; Ter Yang v. INS, 109 F.3d 1185, 1192 (7th Cir.), cert. denied, 118 S. Ct. 624 (1997); Coronado-Durazo v. INS, 123 F.3d 1322 (9th Cir. 1997) (petition for rehearing pending); but see Berehe v. INS, 114 F.3d 159, 161 (10th Cir. 1997) (concluding that IIRIRA Section 309(c)(4)(G) does not permit review of deportability). 
+ Second, those provisions do not, in our view, withdraw the well-established authority of the courts of appeals to entertain a constitutional challenge to a provision of the INA itself, which the BIA has no authority to resolve. See Magana-Pizano Pet. 18-19. Compare Johnson v. Robison, 415 U.S. 361, 373-374 (1974). The court of appeals therefore would have jurisdiction to entertain respondent's contention that Section 1182(c), as amended by Section 440(d) of AEDPA, violates the equal protection component of the Fifth Amendment's Due Process Clause to the extent it bars relief to criminal aliens in deportation proceedings but not to those returning from a temporary trip abroad. 
+ In fact, in the new 8 U.S.C. 1252(b)(9) (Supp. II 1996), entitled "CONSOLIDATION OF QUESTIONS FOR JUDICIAL REVIEW," Congress specifically provided that "[j]udicial review of all questions of law and fact, including interpretation and application of constitutional and statutory provisions," arising from proceedings to remove an alien from the United States "shall be available only in judicial review of a final order under this section"-i.e., only in the court of appeals. In a case such as this, then, a criminal alien's constitutional challenge to a provision of the INA must be considered by the court of appeals together with any statutory claim the petitioner has that may still be considered by the court of appeals (see p. 19, supra). Although Section 1252(b)(9) does not apply of its own force to cases commenced before April 1, 1997, it nevetheless reinforces the conclusion that under the statutory framework in effect both before and after IIRIRA, constitutional challenges are to be heard in the court of appeals, where all legal challenges to deportation orders are to be consolidated, not in a separate habeas corpus proceeding in the district court. Thus, while there is no doubt that Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA were intended to restrict the courts of appeals' authority to review the merits of deportation orders entered against criminal aliens, a criminal alien may, as before, raise a constitutional challenge to a provision of the INA itself in the court of appeals.11
+ Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA do not, however, permit a court of appeals to consider the particular non-constitutional claim made by respondent here-namely, that the Attorney General misconstrued AEDPA Section 440(d) in concluding that he is not eligible for discretionary relief from deportation under Section 1182(c). That statutory claim does not go to the question whether the preclusions of judicial review in AEDPA Section 440(a) and IIRIRA Section 309(c)(4)(G) apply, and it therefore is not within the jurisdicton of the court of appeals to determine its own jurisdiction. Nor could that claim be presented to the district court, for Congress's decision to channel all judicial review into the courts of appeals-as reflected by 8 U.S.C. 1105a (as amended by AEDPA Section 440(a)) and 8 U.S.C. 1252(g) (Supp. II 1996)-prevents the district court from exercising jurisdiction (whether under the habeas corpus statute or otherwise) to entertain challenges to deportation proceedings. 
+ The withdrawal of the courts' authority to hear that particular claim, however, raises no constitutional concerns, for (as we explain further in our petition in Magana-Pizano, at 20-21), that claim goes not to respondent's deportability, but rather to whether respondent will be granted discretionary relief from deportation, comparable to "'the President's power to pardon a convict.'" INS v. Yueh-Shaio Yang, 519 U.S. 26, 30 (1996) (quoting Jay v. Boyd, 351 U.S. 345, 354 (1956)). That claim therefore does not fall within whatever scope of the habeas corpus remedy is preserved by the Suspension Clause. Thus, the court of appeals' concern that there would not otherwise be a judicial forum for the claim should not have led the court to hold that 28 U.S.C. 2241 remains available as a vehicle to consider it.12 
+ c. The court of appeals' conclusion that Congress did not intend to foreclose habeas corpus review under 28 U.S.C. 2241 for criminal aliens challenging their deportation orders conflicts with the Ninth Circuit's decision in Hose v. INS, 141 F.3d 932 (1998) (petition for rehearing pending). In Hose, the court concluded that the "notwithstanding" clause of Section 1252(g) had, in fact, forfended aliens' access to habeas corpus remedies under 28 U.S.C. 2241.13 As that court noted:
+ [The] language [in Section 1252(g)] is clear. Except as provided in section 1252, federal courts are divested of all jurisdiction to hear any claim by any alien involving an immigration proceeding. * * * Section 1252 does not give the district court jurisdiction to hear Hose's [Section 2241] habeas petition. Not having been granted jurisdiction under section 1252, that jurisdiction is removed just as the statute says it is.
+ 141 F.3d at 935. The Ninth Circuit expressly disagreed (ibid.) with the court of appeals' holding in this case (which, it stated, was "contrary to the clear language" of Section 1252(g)) and with the Second Circuit's similar decision in Jean-Baptiste v. Reno, 144 F.3d 212, 218-220 (1998) (petition for rehearing pending). That divergence of views among the courts of appeals about such an important matter as the continued availability of a habeas corpus remedy under 28 U.S.C. 2241 warrants this Court's review.14 
+ The importance of this case is underscored by the large number of aliens nationwide who are in a situation similar to respondent's. Approximately 466 petitions for review have been filed in the courts of appeals and 376 petitions for a writ of habeas corpus have been filed in the district courts in which criminal aliens have challenged the BIA's denial of Section 1182(c) relief to them based on the application of Section 440(d) of AEDPA. In addition, there are about 2600 administrative cases still pending in which the issue of the temporal scope of Section 440(d) may be dispositive of the alien's deportation proceeding, and about 5400 others in which the BIA has dismissed an alien's appeal based on Soriano. Many of those aliens might seek habeas corpus review, since there is no express time limitation for doing so. See note 9, supra. We have been further informed that there are currently approximately 23,000 removable aliens held in federal prisons and 54,000 removable aliens incarcerated in state prisons. Once those aliens are placed in removal proceedings, many of them may claim, as respondent has claimed in this case (and Magana-Pizano has claimed in his) that neither AEDPA nor IIRIRA is applicable to their cases (because their applications were filed or convictions were entered before the effective dates of AEDPA and IIRIRA), and so their eligibility for discretionary relief should be judged under pre-AEDPA law. Review in this case would resolve whether (and if so where) they may bring such a claim.15
+ 2. a. Certiorari is also warranted to review the court of appeals' holding on the merits that Section 440(d) of AEDPA does not render ineligible any alien who applied for Section 1182(c) relief before the date of AEDPA's enactment. As noted above, that issue is currently being litigated in hundreds of cases, in every circuit but one, and in thousands of administrative proceedings. Our position, as we have explained, is that neither the courts of appeals nor the district courts have jurisdiction to review that claim. But if we are wrong on the jurisdictional issue, then this Court's resolution of the merits is needed so that the Attorney General-and the lower courts that would then consider such claims-will know definitively whether the Attorney General must adjudicate thousands of applications for discretionary relief filed by criminal aliens in deportation proceedings. 
+ More generally, the court of appeals' conclusion that Section 440(d) implicates the presumption against retroactivity may have far-reaching ramifications for treatment by the Attorney General of legislative changes in the standards for relief from deportation, and indeed deportability. Under the court of appeals' reasoning, any change made by Congress in the standards governing an alien's ability to remain in this country must, presumptively, not be applied to pending cases, because such a change would be "substantive" and therefore impermissibly "retroactive." App. 43a. This view, however, is at odds with the courts' traditional understanding of deportation as inherently prospective, in that it concerns the alien's right to remain in the country. Thus, in INS v. Lopez-Mendoza, 468 U.S. 1032, 1038 (1984), this Court explained that "[t]he deportation hearing looks prospectively to the respondent's right to remain in this country in the future. Past conduct is relevant only insofar as it may shed light on the respondent's right to remain." Congress's views respecting aliens have changed over time, and it has modified the deportation laws accordingly; the court of appeals' decision in this case would presume that no such modifications may be applied to pending cases-or even, perhaps, to any past conduct.
+ Other courts of appeals have concluded, contrary to the First Circuit in this case, that legislative changes affecting the Attorney General's discretionary authority to grant relief from deportation are not properly characterized as retroactive, because they have "only a prospective impact." Scheidemann v. INS, 83 F.3d 1517, 1523 (3d Cir. 1996). Thus, all the courts of appeals that considered the issue (including the First Circuit) concluded that the Immigration Act of 1990, which disqualified aggravated felons who had served five years in prison from Section 1182(c) relief, was to be applied to aliens who had already been convicted of aggravated felonies.16 Although those courts relied in part on particular indications in the 1990 Act that Congress intended it to apply regardless of the date of the alien's conviction, they also emphasized that the 1990 Act did not implicate the presumption against retroactivity at all, because "'Congress did not attach additional consequences [to past criminal activity] but merely withdrew a previously available form of discretionary relief.'" Scheidemann, 83 F.3d at 1523 (quoting De Osorio v. United States INS, 10 F.3d 1034, 1042 (4th Cir. 1993)). The court of appeals' decision in this case is in marked contrast to those decisions, and raises the important and recurring issue of how the Attorney General may reasonably construe the scope of legislative changes in standards governing deportation and relief from deportation.
+ b. The court of appeals' analysis of AEDPA Section 440(d)'s application to this case was seriously flawed. The court of appeals observed that, in Sections 413 and 421 of AEDPA, Congress expressly provided that provisions making alien terrorists ineligible for certain forms of relief should be applied to pending cases; the court inferred from those provisions that Congress did not intend that Section 440(d) be so applied. App. 44a-51a. The court did not, however, address the fact that, in at least three other sections of Title IV of AEDPA, including the closely neighboring Section 440(f), Congress also provided that particular amendments would not apply to pending applications or pre-enactment events. See AEDPA § 435(b), 110 Stat. 1275; § 440(f), 110 Stat. 1278; § 441(b), 110 Stat. 1279. The most that one can say about the text of AEDPA is that there is no clear pattern demonstrating that Congress intended the amendments made by Title IV to apply only to post-enactment cases unless otherwise stated.17
+ Because the text of the amendment to 8 U.S.C. 1182(c) made by Section 440(d) of AEDPA does not yield an unambiguous expression of congressional intent that it does not apply to those criminal aliens who happened to have filed applications before AEDPA was enacted, the court of appeals should have deferred to the Attorney General's conclusion in Soriano that aliens who had not already been granted relief under Section 1182(c) when AEDPA was enacted are ineligible to receive it. See Chevron, 467 U.S. at 843; 8 U.S.C. 1103(a)(1) (Supp. II 1996) (vesting the Attorney General with authority to interpret the INA). 
+ The Attorney General's statutory interpretation is plainly reasonable and consistent with Congress's purposes in enacting AEDPA. As the Attorney General explained in Soriano, the amendment made by Section 440(d) does not implicate the presumption against retroactivity because it operates only prospectively to deny criminal aliens a form of relief from deportation that would allow them to remain in the country in the future, and because it operates to remove a class of cases from her jurisdiction under Section 1182(c). App. 133a. In addition, the enactment of Section 440(a) along with Section 440(d) demonstrates that Congress was particularly concerned about the large number of deportable criminal aliens in the United States, and sought to limit their opportunities for relief and to accelerate their removal. See also S. Rep. No. 48, 104th Cong., 1st Sess. 3-4 (1995) (recommending measures to that effect); H.R. Rep. No. 22, 104th Cong., 1st Sess. 6-9 (1995) (similar). The Attorney General's decision in Soriano, therefore, gives full effect to the legislative purposes underlying Section 440(d) and should not have been disturbed.
+ 3. For the reasons given above, the court of appeals' rulings on both jurisdiction and the merits raise issues of substantial and recurring importance in the Attorney General's administration of the immigration laws. Review by this Court therefore is warranted. 
+ On November 4, 1998, this Court heard oral argument in Reno v. American-Arab Anti-Discrimination Committee (AADC), No. 97-1252, which also concerns whether the district courts retain any jurisdiction to review deportation matters after AEDPA and IIRIRA, and specifically concerns the scope of 8 U.S.C. 1252(g) (Supp. II 1996). AADC does not, however, directly involve the continued availability of the writ of habeas corpus or any question arising under the Suspension of Habeas Corpus Clause.18 Nor does it involve the second question presented in this case: whether the Attorney General must adjudicate the applications filed by thousands of criminal aliens for discretionary relief under Section 1182(c). The widespread and disruptive litigation on both the habeas corpus issue and the Section 1182(c) issue in the lower courts has delayed the deportation of thousands of criminal aliens. A decision by the Court this Term that resolves that litigation is important for the sound and expeditious administration of the immigration laws that Congress intended when it enacted AEDPA and IIRIRA. We therefore suggest that the Court not hold the petition in this case pending its decision in AADC, so that the Court will be in a position to render a definitive decision this Term on the questions presented in this case if its decision in AADC does not absolutely foreclose adjudication of claims such as respondent's here-a challenge to the denial of his application for discretionary relief from his conceded deportability. 
+ CONCLUSION
+ The petition for a writ of certiorari should be granted. 
+ Respectfully submitted.
+ SETH P. WAXMAN
+ Solicitor General
+ FRANK W. HUNGER
+ Assistant Attorney General
+ EDWIN S. KNEEDLER
+ Deputy Solicitor General
+ PAUL R.Q. WOLFSON
+ Assistant to the Solicitor 
+ General
+ DONALD E. KEENER
+ LINDA S. WENDTLAND
+ EDWARD J. DUFFY
+ LORRI L. SHEALY
+ Attorneys
+
+ NOVEMBER 1998
+
+ 1 "App." refers to the separately bound appendix to this petition.
+ 2 Although Section 1182(c) by its terms allowed the Attorney General to admit permanent resident aliens who had temporarily proceeded abroad and were returning to their domicile in the United States, it had long been interpreted (in response to the Second Circuit's decision in Francis v. INS, 532 F.2d 268 (1976)) also to permit the Attorney General to waive the grounds for deportation of lawfully admitted permanent resident aliens who were present in the United States and in deportation proceedings. See In re Silva, 16 I.& N. Dec. 26 (BIA 1976); Gonzalez v. INS, 996 F.2d 804, 806 (6th Cir. 1993); Ashby v. INS, 961 F.2d 555, 557 & n.2 (5th Cir. 1992); Tapia-Acuna v. INS, 640 F.2d 223 (9th Cir. 1981).
+ 3 Congress further provided that, notwithstanding subsection (b) of 8 U.S.C. 1105a (1994), judicial review of final orders of exclusion during the transition period also would be in the court of appeals, not in the district court in habeas corpus proceedings. See IIRIRA § 309(c)(4)(A), 110 Stat. 3009-626.
+ 4 Also on September 12, 1996, the Solicitor General filed a supplemental brief in this Court in INS v. Elramly, No. 95-939, addressing the temporal scope of AEDPA Section 440(d). In that brief, we argued (at 15-18) that Section 440(d) had divested the Attorney General of authority to grant Section 1182(c) relief in pending cases. On September 16, 1996, the Court remanded Elramly to the court of appeals for further consideration in light of AEDPA. INS v. Elramly, 518 U.S. 1051 (1996).
+ 5 The charges of deportability were originally based on the 1988 larceny and 1989 assault convictions, but the 1992 conviction for receiving stolen property was later substituted for the assault conviction as a basis for deportation. See C.A. App. 82. 
+ 6 Respondent did not file a petition for review of his deportation order in the court of appeals. The First Circuit had previously held that Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA had divested it of all jurisdiction over petitions for review filed by criminal aliens covered by those Sections. See Santos v. INS, 124 F.3d 64 (1st Cir. 1997); Kolster v. INS, 101 F.3d 785 (1st Cir. 1996).
+ 7 As we note at p. 7, supra, by the time IIRIRA was enacted on September 30, 1996, the Attorney General had already vacated the BIA's decision in Soriano, and the Solicitor General had already filed a brief in this Court taking the position that AEDPA Section 440(d) was applicable to already-pending applications for Section 1182(c) relief.
+ 8 In 1961, Congress enacted 8 U.S.C. 1105a(a), which provided that the court-of-appeals review procedures of the Hobbs Act, 28 U.S.C. 2341-2351, "shall be the sole and exclusive procedure for[] the judicial review of all final orders of deportation." Congress enacted Section 1105a(a) because it was dissatisfied with the bifurcated system of review that resulted from this Court's decision in Shaughnessy v. Pedreiro, 349 U.S. 48 (1955), permitting aliens to proceed in district court. See H.R. Rep. No. 1086, 87th Cong., 1st Sess. 22, 27-28 (1961). As this Court observed in Foti v. INS, 375 U.S. 217, 224 (1963), "[t]he fundamental purpose behind [placing exclusive review in the courts of appeals] was to abbreviate the process of judicial review of deportation orders in order to frustrate certain practices which had come to the attention of Congress, whereby persons subject to deportation were forestalling departure by dilatory tactics in the courts." See also Stone v. INS, 514 U.S. 386, 399 (1995).
+ 9 As we explain in greater detail in our petition for a writ of certiorari in Magana-Pizano (at 22-23), aliens proceeding in district court pursuant to 28 U.S.C. 2241 would have markedly greater opportunities for delay than those proceeding directly in the courts of appeals. Section 2241 contains no express time limit on the filing of a petition for a writ of habeas corpus, in contrast with the strict time limits governing the exclusive-review procedures of the INA. See 8 U.S.C. 1252(b)(1) (Supp. II 1996); 8 U.S.C. 1105a(a)(1) (1994) (repealed 1996). Also, unlike the INA, 28 U.S.C. 2241 does not require consolidation of challenges to initial deportation orders with challenges to denials of motions to reopen or reconsider. Cf. 8 U.S.C. 1252(b)(6) (Supp. II 1996). And, of course, an alien who was unsuccessful in district court could appeal to the court of appeals, and thereby obtain further delay.
+ 10 Although AEDPA Section 440(a) and IIRIRA Section 309(c)(4)(G) are applicable only to judicial review of immigration proceedings commenced before April 1, 1997, their permanent replacement, 8 U.S.C. 1252(a)(2)(C) (Supp. II 1996), is substantively similar. Thus, courts in the future are likely to construe Section 1252(a)(2)(C) in light of the courts' construction of its predecessor provisions, just as they have issued conforming constructions of AEDPA Section 440(a) and IIRIRA Section 309(c)(4)(G). See App. 2a, 10a (relying on Kolster v. INS, 101 F.3d 785 (1st Cir. 1996), and Santos v. INS, 124 F.3d 64 (1st Cir. 1997)); Magana-Pizano v. INS, 152 F.3d at 1216 (relying on Ter Yang v. INS, 109 F.3d 1185, 1192 (7th Cir.), cert. denied, 118 S. Ct. 624 (1997), and Duldulao v. INS, 90 F.3d 396 (9th Cir. 1996)). 
+ 11 Because the courts of appeals remain available to consider such a constitutional challenge, the bar to such challenges in the district court, whether in habeas corpus proceedings or otherwise, is "unquestionably constitutional." See Weinberger v. Salfi, 422 U.S. 749, 762 (1975); see also Swain v. Pressley, 430 U.S. 372, 381 (1977) (Congress may substitute alternative review procedures in place of habeas corpus).
+ 12 Even if a judicial forum were constitutionally required for this aspect of respondent's effort to seek discretionary relief from his conceded deportability, at a minimum the court of appeals should have held that that claim should be addressed in the court of appeals on petition for review, and not in the district court in habeas corpus proceedings. Such a construction of Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA would be far more harmonious with Congress's general design than is the result reached by the court of appeals, permitting respondent to proceed in district court. Cf. Weinberger v. Hynson, Westcott & Dunning, Inc., 412 U.S. 609, 631-632 (1973) ("It is well established that our task in interpreting separate provisions of a single Act is to give the Act the most harmonious, comprehensive meaning possible in light of the legislative policy and purpose.") (internal quotation marks omitted).
+ 13 In Magana-Pizano, 152 F.3d at 1220, the Ninth Circuit subsequently concluded that that deprivation of a judicial forum under 28 U.S.C. 2241 was unconstitutional in the case of a criminal alien who (it believed) would have no other judicial forum for any of his claims. 
+ 14 The Seventh Circuit has also suggested that Section 1252(g) "abolishes even review under § 2241, leaving only the constitutional writ [of habeas corpus] unaided by statute." Ter Yang v. INS, 109 F.3d at 1195. Elsewhere, however, it has suggested that review under Section 2241 might remain available. Turkhan v. INS, 123 F.3d 487, 490 (7th Cir. 1997).
+ 15 Even aliens convicted in the future of criminal offenses and deportable on that ground may be affected by this case. Such criminal aliens who are ineligible for cancellation of removal under 8 U.S.C. 1229b (Supp. II 1996) may nonetheless seek to raise constitutional and other challenges to their orders of removal. Because, as we have explained (note 10, supra), courts are likely to construe the jurisdiction-limiting provisions applicable to criminal aliens in new Section 1252(a)(2)(C) in conformity with judicial constructions of Section 440(a) of AEDPA and Section 309(c)(4)(G) of IIRIRA, it is likely that criminal aliens in the future, if allowed to do so, will proceed in district court under 28 U.S.C. 2241 rather than in the court of appeals.
+ 16 See Immigration Act of 1990, Pub. L. No. 101-649, § 511(a), 104 Stat. 5052, as amended by Miscellaneous and Technical Immigration and Naturalization Amendments of 1991, Pub. L. No. 102-232, § 306(a)(10), 105 Stat. 1751; Scheidemann, 83 F.3d at 1523; Samaniego-Meraz v. INS, 53 F.3d 254, 256 (9th Cir. 1995); Asencio v. INS, 37 F.3d 614, 616-617 (11th Cir. 1994); De Osorio v. United States INS, 10 F.3d 1034, 1038-1042 (4th Cir. 1993); Buitrago-Cuesta v. INS, 7 F.3d 291, 295 (2d Cir. 1993); Barreiro v. INS, 989 F.2d 62 (1st Cir. 1993).
+ 17 The court of appeals also relied (App. 52a-53a) on a predecessor to Section 440(d) passed by the Senate, which would have directed (at Section 303(f)) that the amendments be applied to all pending cases. That temporal-scope provision did not survive the House-Senate conference, and the court of appeals inferred from that fact that the conference intentionally dropped the provision because it wanted the amendments to apply only prospectively. But since, in the final version of AEDPA, Congress expressly provided both that certain provisions of Title IV be applied prospectively only and that certain others be applied to pending cases, one can draw no firm conclusion from the fact that Congress dropped the Senate's temporal-scope provision. Indeed, the conference report indicates only that the House receded to the Senate-bill predecessor of Section 440(d) because it "enhance[d] the ability of the United States to deport criminal aliens." H.R. Conf. Rep. No. 518, 104th Cong., 2d Sess. 119 (1996).
+ 18 We discuss the habeas corpus issue in our opening brief (at 25-26 n.12, 45 n.20) in AADC.  
+      
+            
+    
+    
+    
+
+                  
+          
+
+        Brief
+                  
+
+                          
+              98-0835.pet.aa.pdf
+              [PDF, ]
+          
+              
+    
+    
+Updated October 21, 2014
+
+  
+
+
+
+
+                  
+              
+
+            
+
+                  
+
+            
+          
+              
+          
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+      
+      
+
+
+
+
+
+
+
+
+
+
+    
+
