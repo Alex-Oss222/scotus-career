@@ -1,0 +1,16 @@
+{
+  "mechanism": "exact substring copies from saved official source text, with reporter running headers removed; six numbered decree parts copied as proposed instrument; map copied byte-for-byte",
+  "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+  "source_sha256": "30eadb522b4cff3d5de4494ac54643f3031e570c3c845e155dee7e0ff89a4dd9",
+  "artifacts": {
+    "CLEVELAND_OBJECTIVE_EXTRACT.txt": "3a26c42a4abf16343a09b8d19c2df1e8378b903252ac4a6fb3c5bcad4ad1fb95",
+    "HANLON_CA9.json": "3d8206747ff415fa5bd9c5d74e63aeb186f84ec9ab35d59565853e5a67260a18",
+    "HANLON_CA9.txt": "b9d905c2f0d997fe143a2ea05d095fa70e1d2df0b8805586f917928783ac9b83",
+    "NJ_BOUNDARY_MAP.png": "64b2c1f56b2502e93600daacd509694484ab5178962ec02d578cdbb39c4bd8a1",
+    "NJ_PROPOSED_INSTRUMENT.txt": "c4b1c437c0e8d1dfb99a90d82a0466334c009065c20f01050ef0983cd1057842",
+    "OBJECTIVE_EXTRACTS.md": "6634e3704e56f866276a792f29bb310542cdcea8a59fa5400ea01e17bc3075f4",
+    "RUHRGAS_OBJECTIVE_EXTRACT.txt": "c9ba0c86a7991ec24300a3b470a04296624431b42b1946faa243eea76ac885a4",
+    "SOURCE_STATUS.md": "508c7cf5a01dbd534e70a782b7210a0b2e416ac14b3ab998400f208a16e8449f",
+    "WHITE_OBJECTIVE_EXTRACT.txt": "811b5f41fe5a08778a337503b3e1bcf127d24ba5dde92f3824d8ea34cd5b8c0e"
+  }
+}

@@ -1,0 +1,1305 @@
+{
+  "id": 11896643,
+  "name": "Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Rodney C. HANLON; Joel Scrafford; Richard C. Branzell; Robert Prieksat; Kris A. Mclean; Turner Broadcasting System, Inc., A Georgia Corporation; Robert Rainey; Donald Hooper; United States of America, Defendants-Appellees; Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Jack HAMANN; Cable News Network, Inc., a Georgia corporation, Defendants-Appellees",
+  "name_abbreviation": "Berger v. Hanlon",
+  "decision_date": "1997-11-13",
+  "docket_number": "Nos. 96-35251, 96-35266",
+  "first_page": "505",
+  "last_page": "518",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "129 F.3d 505"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "403 U.S. 713",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027544
+      ],
+      "weight": 3,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "parenthetical": "refusing to enjoin publication of the Pentagon Papers"
+        },
+        {
+          "parenthetical": "refusing to enjoin publication of the Pentagon Papers"
+        },
+        {
+          "parenthetical": "refusing to enjoin publication of the Pentagon Papers"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0713-01"
+      ]
+    },
+    {
+      "cite": "127 L.Ed.2d 358",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "Blackmun, Circuit Justice, staying preliminary injunction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "114 S.Ct. 912",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "914",
+          "parenthetical": "Blackmun, Circuit Justice, staying preliminary injunction"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "510 U.S. 1315",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        235170
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1317",
+          "parenthetical": "Blackmun, Circuit Justice, staying preliminary injunction"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/510/1315-01"
+      ]
+    },
+    {
+      "cite": "271 Mont. 209",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4546480
+      ],
+      "weight": 2,
+      "year": 1995,
+      "pin_cites": [
+        {
+          "page": "429"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/271/0209-01"
+      ]
+    },
+    {
+      "cite": "351 N.E.2d 454",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.2d",
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "457",
+          "parenthetical": "\"it has never been held that one's countenance or image is 'converted' by being photographed\""
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "47 Ohio St.2d 224",
+      "category": "reporters:state",
+      "reporter": "Ohio St. 2d",
+      "case_ids": [
+        1798885
+      ],
+      "year": 1976,
+      "pin_cites": [
+        {
+          "parenthetical": "\"it has never been held that one's countenance or image is 'converted' by being photographed\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ohio-st-2d/47/0224-01"
+      ]
+    },
+    {
+      "cite": "82 F.3d 232",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7639255
+      ],
+      "pin_cites": [
+        {
+          "page": "236"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/82/0232-01"
+      ]
+    },
+    {
+      "cite": "887 P.2d 231",
+      "category": "reporters:state_regional",
+      "reporter": "P.2d",
+      "case_ids": [
+        4555202
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "234",
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/269/0099-01"
+      ]
+    },
+    {
+      "cite": "269 Mont. 99",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4555202,
+        4557918
+      ],
+      "year": 1994,
+      "pin_cites": [
+        {
+          "parenthetical": "citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/269/0099-01",
+        "/mont/269/0099-02"
+      ]
+    },
+    {
+      "cite": "340 So.2d 914",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9685476
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/340/0914-01"
+      ]
+    },
+    {
+      "cite": "958 F.2d 697",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10521185
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/958/0697-01"
+      ]
+    },
+    {
+      "cite": "265 Mont. 436",
+      "category": "reporters:state",
+      "reporter": "Mont.",
+      "case_ids": [
+        4570348
+      ],
+      "weight": 3,
+      "year": 1994,
+      "pin_cites": [
+        {
+          "page": "1005"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/mont/265/0436-01"
+      ]
+    },
+    {
+      "cite": "998 F.2d 447",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10511646
+      ],
+      "pin_cites": [
+        {
+          "page": "450-51"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/998/0447-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 2510",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "653 F.2d 107",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465908
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "110"
+        },
+        {
+          "page": "110-11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/653/0107-01"
+      ]
+    },
+    {
+      "cite": "688 F.2d 652",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1465370
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "657-58"
+        },
+        {
+          "page": "656-58"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/688/0652-01"
+      ]
+    },
+    {
+      "cite": "869 F.2d 503",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10531054
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "507"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/869/0503-01"
+      ]
+    },
+    {
+      "cite": "878 F.2d 1145",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10540614
+      ],
+      "pin_cites": [
+        {
+          "page": "1154"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/878/1145-01"
+      ]
+    },
+    {
+      "cite": "75 F.3d 498",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        762
+      ],
+      "pin_cites": [
+        {
+          "page": "503"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/75/0498-01"
+      ]
+    },
+    {
+      "cite": "136 L.Ed.2d 684",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 746",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "91 F.3d 1227",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9047353
+      ],
+      "pin_cites": [
+        {
+          "page": "1231"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/91/1227-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 787",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175705
+      ],
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "794",
+          "parenthetical": "\"Private persons, jointly engaged with [government] officials in the prohibited action, are acting 'under color' of law for purposes of [Bivens ].\""
+        },
+        {
+          "page": "1156",
+          "parenthetical": "\"Private persons, jointly engaged with [government] officials in the prohibited action, are acting 'under color' of law for purposes of [Bivens ].\""
+        },
+        {
+          "parenthetical": "\"Private persons, jointly engaged with [government] officials in the prohibited action, are acting 'under color' of law for purposes of [Bivens ].\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0787-01"
+      ]
+    },
+    {
+      "cite": "398 U.S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169865
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "152"
+        },
+        {
+          "page": "1605"
+        },
+        {
+          "parenthetical": "\"The involvement of a [government] official in such a conspiracy plainly provides the state action essential to show a direct violation of petitioner's [constitutional rights], whether or not the actions of the [government official] were officially authorized, or unlawful.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/398/0144-01"
+      ]
+    },
+    {
+      "cite": "449 U.S. 24",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11715259
+      ],
+      "weight": 5,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "27",
+          "parenthetical": "private actors can be considered [government] actors if they are \"willful participant[s] in joint action with the [government] or its agents\""
+        },
+        {
+          "page": "186",
+          "parenthetical": "private actors can be considered [government] actors if they are \"willful participant[s] in joint action with the [government] or its agents\""
+        },
+        {
+          "parenthetical": "private actors can be considered [government] actors if they are \"willful participant[s] in joint action with the [government] or its agents\""
+        },
+        {
+          "page": "27-28"
+        },
+        {
+          "page": "186",
+          "parenthetical": "1980"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/449/0024-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 991",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6196949
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "1004",
+          "parenthetical": "\"a [s]tate normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement, either overt or covert, that the choice must in law be deemed to be that of the [s]tate\""
+        },
+        {
+          "page": "2786",
+          "parenthetical": "\"a [s]tate normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement, either overt or covert, that the choice must in law be deemed to be that of the [s]tate\""
+        },
+        {
+          "parenthetical": "\"a [s]tate normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement, either overt or covert, that the choice must in law be deemed to be that of the [s]tate\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0991-01"
+      ]
+    },
+    {
+      "cite": "419 U.S. 345",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175165
+      ],
+      "weight": 5,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "351",
+          "parenthetical": "courts must: consider whether there is a \"sufficiently close nexus between the State and the challenged action of the regulated entity so that the action of the latter may be fairly treated as that of the [s]tate itself'"
+        },
+        {
+          "page": "453",
+          "parenthetical": "courts must: consider whether there is a \"sufficiently close nexus between the State and the challenged action of the regulated entity so that the action of the latter may be fairly treated as that of the [s]tate itself'"
+        },
+        {
+          "parenthetical": "courts must: consider whether there is a \"sufficiently close nexus between the State and the challenged action of the regulated entity so that the action of the latter may be fairly treated as that of the [s]tate itself'"
+        },
+        {
+          "page": "352"
+        },
+        {
+          "page": "454",
+          "parenthetical": "state action is present when a private entity exercises functions traditionally and exclusively reserved to the state"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/419/0345-01"
+      ]
+    },
+    {
+      "cite": "365 U.S. 715",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6170502
+      ],
+      "weight": 5,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "722"
+        },
+        {
+          "page": "860"
+        },
+        {
+          "page": "725"
+        },
+        {
+          "page": "862"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/365/0715-01"
+      ]
+    },
+    {
+      "cite": "750 F.2d 1039",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        3805665,
+        628934
+      ],
+      "pin_cites": [
+        {
+          "page": "1058"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us-app-dc/242/0370-01",
+        "/f2d/750/1039-01"
+      ]
+    },
+    {
+      "cite": "533 F.2d 477",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1003783
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/533/0477-01"
+      ]
+    },
+    {
+      "cite": "708 F.2d 380",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1122904
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "383"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/708/0380-01"
+      ]
+    },
+    {
+      "cite": "113 F.3d 1114",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        336549
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/113/1114-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "449 F.2d 245",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        799184
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "249"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/449/0245-01"
+      ]
+    },
+    {
+      "cite": "468 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11338811
+      ],
+      "weight": 2,
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "440-42"
+        },
+        {
+          "page": "3150-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/468/0420-01"
+      ]
+    },
+    {
+      "cite": "593 F.2d 1030",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        517604,
+        3779317
+      ],
+      "pin_cites": [
+        {
+          "page": "1043"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/593/1030-01",
+        "/us-app-dc/192/0376-01"
+      ]
+    },
+    {
+      "cite": "883 F.2d 662",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10532527
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "703"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/883/0662-01"
+      ]
+    },
+    {
+      "cite": "896 F.2d 1146",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10538727
+      ],
+      "pin_cites": [
+        {
+          "page": "1147-48"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/896/1146-01"
+      ]
+    },
+    {
+      "cite": "385 U.S. 206",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11336196
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0206-01"
+      ]
+    },
+    {
+      "cite": "385 U.S. 293",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11337025
+      ],
+      "weight": 3,
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/385/0293-01"
+      ]
+    },
+    {
+      "cite": "401 U.S. 745",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11714876
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/401/0745-01"
+      ]
+    },
+    {
+      "cite": "48 F.3d 461",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7409672
+      ],
+      "pin_cites": [
+        {
+          "page": "464-65"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/48/0461-01"
+      ]
+    },
+    {
+      "cite": "466 U.S. 170",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6195904
+      ],
+      "weight": 3,
+      "year": 1984,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/466/0170-01"
+      ]
+    },
+    {
+      "cite": "480 U.S. 294",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1131408
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/480/0294-01"
+      ]
+    },
+    {
+      "cite": "265 U.S. 57",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6137218
+      ],
+      "weight": 3,
+      "year": 1924,
+      "pin_cites": [
+        {
+          "page": "59",
+          "parenthetical": "Holmes, J."
+        },
+        {
+          "page": "446",
+          "parenthetical": "Holmes, J."
+        },
+        {
+          "parenthetical": "Holmes, J."
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/265/0057-01"
+      ]
+    },
+    {
+      "cite": "389 U.S. 347",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11339173
+      ],
+      "weight": 3,
+      "year": 1967,
+      "pin_cites": [
+        {
+          "page": "360-61",
+          "parenthetical": "the Fourth Amendment is not triggered unless the government intrudes into an area in which there is a constitutionally protected reasonable expectation of privacy"
+        },
+        {
+          "page": "516-17",
+          "parenthetical": "the Fourth Amendment is not triggered unless the government intrudes into an area in which there is a constitutionally protected reasonable expectation of privacy"
+        },
+        {
+          "parenthetical": "the Fourth Amendment is not triggered unless the government intrudes into an area in which there is a constitutionally protected reasonable expectation of privacy"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/389/0347-01"
+      ]
+    },
+    {
+      "cite": "102 F.3d 1012",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7641165
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/102/1012-01"
+      ]
+    },
+    {
+      "cite": "296 N.W.2d 768",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "774"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "98 Wis.2d 130",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673430
+      ],
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/98/0130-01"
+      ]
+    },
+    {
+      "cite": "5 Media L. Rep. (BNA) 2372",
+      "category": "reporters:specialty",
+      "reporter": "Media L. Rep. (BNA)",
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "2372-73"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "10 Media L. Rep. (BNA) 1620",
+      "category": "reporters:specialty",
+      "reporter": "Media L. Rep. (BNA)",
+      "year": 1984,
+      "pin_cites": [
+        {
+          "page": "1621-22"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "110 F.3d 1071",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        695102
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/110/1071-01"
+      ]
+    },
+    {
+      "cite": "137 L.Ed.2d 216",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "117 S.Ct. 1081",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1997,
+      "opinion_index": 0
+    },
+    {
+      "cite": "93 F.3d 445",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7631982
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "449",
+          "parenthetical": "Richard Arnold, J., dissenting"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/93/0445-01"
+      ]
+    },
+    {
+      "cite": "96 F.3d 159",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7649353
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/96/0159-01"
+      ]
+    },
+    {
+      "cite": "441 N.Y.S.2d 220",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 2,
+      "year": 1981,
+      "pin_cites": [
+        {
+          "page": "226"
+        },
+        {
+          "page": "223"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "65 F.3d 347",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7411240
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "356"
+        },
+        {
+          "page": "356"
+        },
+        {
+          "page": "357"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/65/0347-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7 3105",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "686"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "848 F.Supp. 362",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7403422
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/848/0362-01"
+      ]
+    },
+    {
+      "cite": "35 F.3d 680",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        10527748
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/35/0680-01"
+      ]
+    },
+    {
+      "cite": "42 F.3d 1278",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7418029
+      ],
+      "pin_cites": [
+        {
+          "page": "1285"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/42/1278-01"
+      ]
+    },
+    {
+      "cite": "457 U.S. 800",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6194865
+      ],
+      "weight": 3,
+      "year": 1982,
+      "pin_cites": [
+        {
+          "page": "818"
+        },
+        {
+          "page": "2738"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/457/0800-01"
+      ]
+    },
+    {
+      "cite": "92 F.3d 842",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        7633009
+      ],
+      "pin_cites": [
+        {
+          "page": "849"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/92/0842-01"
+      ]
+    },
+    {
+      "cite": "990 F.2d 467",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10513790
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "468"
+        },
+        {
+          "page": "468"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/990/0467-01"
+      ]
+    },
+    {
+      "cite": "923 F.2d 758",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10544957
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "762"
+        },
+        {
+          "page": "762",
+          "parenthetical": "quotation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/923/0758-01"
+      ]
+    },
+    {
+      "cite": "7 U.S.C. \u00a7\u00a7 1368",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(2)(G)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C. \u00a7 1540",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(b)(1)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C. \u00a7 1538",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)(1)(B)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C. \u00a7\u00a7 703",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "16 U.S.C. \u00a7 668",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "pin_cites": [
+        {
+          "page": "(a)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "84 F.3d 1194",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        1793478
+      ],
+      "pin_cites": [
+        {
+          "page": "1197"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/84/1194-01"
+      ]
+    },
+    {
+      "cite": "18 U.S.C. \u00a7\u00a7 2511",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "(1)(a)(c)"
+        },
+        {
+          "page": "(2)(c)"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 U.S. 388",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027206
+      ],
+      "weight": 3,
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0397-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1921,
+    "char_count": 46780,
+    "ocr_confidence": 0.698,
+    "pagerank": {
+      "raw": 3.885636845577562e-07,
+      "percentile": 0.9010913377575295
+    },
+    "sha256": "ebe017a7f7628eb744c226fb10b6a2544d3c0c83fb8a78b2eb4b69b99fa6ab9f",
+    "simhash": "1:b6a2d2536a7f122f",
+    "word_count": 7514
+  },
+  "last_updated": "2024-02-27T20:57:35.972711+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before: SCHROEDER and KLEINFELD, Circuit Judges, and BREWSTER, District Judge."
+    ],
+    "parties": [
+      "Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Rodney C. HANLON; Joel Scrafford; Richard C. Branzell; Robert Prieksat; Kris A. Mclean; Turner Broadcasting System, Inc., A Georgia Corporation; Robert Rainey; Donald Hooper; United States of America, Defendants-Appellees. Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Jack HAMANN; Cable News Network, Inc., a Georgia corporation, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "SCHROEDER, Circuit Judge:\nWhen federal agents searched the ranch of Paul and Erma Berger in March of 1993, they acted not only pursuant to a search warrant, but also pursuant to a written contract with appellees Cable News Network and Turner Broadcasting System, authorizing the filming and recording of the search for broadcast on their environmental television shows \u201cEarth Matters\u201d and \u201cNetwork Earth.\u201d The' media wanted footage of the discovery of evidence showing that .Paul Berger was poisoning eagles, and the government wanted the publicity.\nAfter Mr. Berger was convicted of one misdemeanor count for using a pesticide in a manner inconsistent- -with its labeling, 7 U.S.C. \u00a7 136j(a)(2)(G), and acquitted of three felony counts of the killing of at least one eagle, the Bergers sued both the media and the federal agents under Bivens v. Six Unknown Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 91 S.Ct. 1999, 29 L.Ed.2d 619 (1971), for the violation of their constitutional rights. The Bergers also sued the media for the violation of the Federal Wiretap Act, 18 U.S.C. \u00a7\u00a7 2511, et seq., for various state law torts, and to enjoin further broadcasts of the video shot at their ranch. The Bergers\u2019 principal contentions under federal law are that (1) the federal agents violated their Fourth Amendment rights by permitting commercial television cameras to film the search and by assisting the media in their search for dramatic material, and (2) the media acted sufficiently in concert with the federal agents to be held accountable for that violation as government actors.\nOn the Bivens action, the district court ruled that the federal agents were entitled to qualified immunity because there was, at the time of this episode, no clearly established law protecting individuals from the commercial recording of a search of their residences. The court also held that the Bergers were collaterally estopped from litigating the reasonableness of the search because the same issues had been decided adversely to Mr. Berger in his criminal trial. In addition, the court rejected the Bergers\u2019 claim that the media had become government actors for purposes of Bivens liability.\nWe reverse the judgment in favor of the federal appellees on the Fourth Amendment claim because we hold the federal officers are not entitled to qualified immunity in this case. Because we hold that the issues litigated in the criminal proceeding were not the same as the issues presented to the district court in this civil suit, we also reverse the district court\u2019s ruling that this action is barred. The judgment in favor of the media on the Bivens claim is reversed because, on the basis of the present record, we must consider the media to have acted jointly with the federal appellees, and hence \u201cunder color of law.\u201d We affirm the district court\u2019s ruling that the media are not liable under the Federal Wiretap Act, however.\nOn the state law claims, we reverse the court\u2019s ruling in favor of the media on the trespass and infliction of emotional distress causes of action. We affirm the ruling on the conversion claim, and decline to enjoin further broadcasts.\nIn reviewing the grant of summary judgment to the appellees, we view the evidence in the light most favorable to the Bergers. Bagdadi v. Nazar, 84 F.3d 1194, 1197 (9th Cir.1996).\nFACTS AND PROCEDURAL BACKGROUND\nPaul and Erma Berger reside on a 75,000 acre ranch in Montana. At the time of the search, Mr. Berger was 71 and Mrs. Berger was 81. In January of 1993, former employees of the Bergers apparently went to the United States Fish and Wildlife Service (\u201cUSFWS\u201d) and told USFWS agents that they had seen Mr. Berger poison or shoot eagles a few years earlier. Upon hearing about the investigation, the media appellees, Cable News Network, Inc. and CNN employee Jack Hamann, together with Turner Broadcasting System, Inc. and TBS employees Robert Rainey and Donald Hooper, approached agents of USFWS to see if a television deal could be worked out. The media wanted footage for their environmental programs and the government wanted to publicize its efforts to combat environmental crime. On March 11, 1993, approximately two weeks before the search was executed, the Assistant U.S. Attorney in charge of Mr. Berger\u2019s investigation, federal-appellee Kris McLean, and media correspondent Jack Hamann, executed the following letter agreement on CNN letterhead:\nDear Mr. McLean:\nThis confirms our agreement that the United States Attorney\u2019s Office for the District of Montana agrees to allow CNN to accompany USFWS Agents as they attempt to execute a criminal search warrant near Jordan, Montana, some time during the week of March 22, 1993. Except as provided below, CNN shall have complete editorial control over any footage it shoots; it shall not be obliged to use the footage; and does not waive any rights or privileges it may have with respect to the footage. In return, CNN agrees to embargo the telecast of any videotape of the attempt to execute the search warrant until either: (1) a jury has been empaneled and instructed by a judge not to view television reports about the case; or (2) the defendant waives his right to a jury trial and agrees to have his case tried before a judge; or (3) a judge accepts a plea bargain; or (4) the government decides not to bring charges relating to the attempt to execute the search warrant.\nPlease acknowledge your agreement to the foregoing by executing the signature line below.\nSincerely, Jack Hamann, Correspondent, CNN Environment Unit.\nAcknowledged signature of Kris McLean, Assistant United States Attorney for the District of Montana, Helena,-Montana,\ncc: Jennifer Falk Weiss, CNN Legal Department. Chet Burgess, CNN Environment Unit.\nOn March 18, a magistrate judge issued a search warrant for the Bergers\u2019 ranch, authorizing the search of the ranch and appurtenant structures, excluding the residence, for evidence indicating the taking of wildlife. According to the Bergers, the magistrate judge had no knowledge of the planned media participation during' the search, and there is no contention\u2018by the appellees that when the magistrate judge issued the warrant, he approved the videotaping of the search for broadcast purposes.\nAccording to the Bergers, the media participated in a pre-search briefing the day before the search, at which the federal app'el-lees shared with the media details of the material included in the warrant and supporting materials that were supposed to remain under seal until after the search.\nOn the morning of the search, the government team, accompanied by a media crew, gathered on a county road leading to the ranch, to discuss the execution of the warrant. The cameras videotaped that gathering. The broadcast team then proceeded with the federal agents and AUSA McLean in a caravan of approximately ten vehicles to a point near the Bergers\u2019 ranch. Media cameras mounted on the outside of government vehicles, or placed in their interior, documented every move made by the federal appellees. At all times during and immediately prior to the search, USFWS Special Agent Joel Serafford was wired with a hidden CNN microphone which was continuously transmitting live audio to the CNN technical crew.\nMr. Berger approached and met the caravan in a pickup truck on the road leading up to the ranch. Agent Serafford proceeded to inform Mr. Berger of the search warrant, and asked him whether he could ride to the house in Mr. Berger\u2019s truck so that he could explain to Mrs. Berger what they were going to do. Mr. Berger allowed Agent Serafford to ride with him in the pickup truck. Upon arriving at the Bergers\u2019 residence, the two men entered the house together. Audio recorded at the site indicates that Mr. Berger consented to Agent Scrafford\u2019s entry into the home at this time. The parties disagree on whether the agents who entered the residence with Agent Serafford searched the residence for incriminating evidence, and whether Agent Scrafford\u2019s subsequent entries into the home were consented to. However, it is undisputed that Agent Serafford recorded all his conversations with the Bergers inside the house.\nThe Bergers were not informed that Agent Serafford was wearing a microphone or that the cameras that were visible during the search belonged to the media. The media recorded more than eight hours of tape and it broadcast both the video footage and the sound recordings made in the house.\nMr. Berger was tried on an amended information charging him with the taking of at least one golden eagle, in violation of 16 U.S.C. \u00a7 668(a); the killing of one ferruginous hawk, and one ring-billed gull, in violation of 16 U.S.C. \u00a7\u00a7 703 and 707(a); the taking of at least one bald eagle in violation of 16 U.S.C. \u00a7 1538(a)(1)(B) and 16 U.S.C. \u00a7 1540(b)(1); and the use of a registered pesticide, Furadan, in a manner inconsistent with its labeling. The charge was that Mr. Berger applied Furadan to sheep carcasses with the intent of killing predators, including eagles, in violation of 7 U.S.C. \u00a7\u00a7 1368(a)(2)(G).\nBefore trial, the magistrate judge denied a defense motion to suppress evidence on the grounds that the agents lacked probable cause to search and that the warrant did not accurately describe the property to be searched. Mr. Berger was acquitted of all charges, except the misdemeanor charge of using Furadan contrary to its labeling.\nThe Bergers filed two actions in 1995, which proceeded on identical courses. The district court entered a final judgment in favor of all the appellees in both cases in February 1996, and these parallel timely appeals followed.\nCOLLATERAL ESTOPPEL\nThe district court ruled that because issues concerning the constitutionality of the search have already been litigated in Mr. Berger\u2019s criminal case, this action was barred by collateral estoppel. The court relied on Bagley v. CMC Real Estate Corp., 923 F.2d 758, 762 (9th Cir.1991), which holds that a plaintiff is estopped from bringing a civil action to challenge an issue which was \u201c \u2018distinctly put in issue and directly determined\u2019 in a previous criminal action\u201d, and Matthews v. Macanas, 990 F.2d 467, 468 (9th Cir.1993), which affirmed the dismissal of a Bivens action based on the preclusive effect of a Fourth Amendment ruling in a previous criminal action.\nThe difficulty with the district court\u2019s reasoning is that a party is generally es-topped or precluded from litigating only those issues that have previously been decided. See Allen v. City of Los Angeles, 92 F.3d 842, 849 (9th Cir.1996); Restatement (Second) of Judgments \u00a7 27. Collateral estoppel can thus be used in a civil action to bar relitigation of issues decided in a prior criminal proceeding, but, as Bagley recognized, a party may only be estopped from bringing a civil action to challenge a particular issue if that issue was \u201c \u2018distinctly put in issue and directly determined\u2019 in a previous criminal action.\u201d Bagley, 923 F.2d at 762 (quotation omitted).\nBecause the magistrate judge in the criminal case was not presented with the specific issues raised in this action, the district court erred in holding that the Bergers\u2019 Bivens action was barred. In the Bivens claim, the Bergers are concerned with whether the search was unreasonable because of the media\u2019s involvement in the search.\nIn his motion to suppress in the criminal case, on the other hand, Mr.' Berger challenged the validity of the warrant itself. He contended that (1) it failed to establish probable cause because it contained no facts indicating either the veracity of the informants, or independent law enforcement investigation to corroborate the information given by the informants; (2) the search warrant was stale; and (3) the property designated in the search warrant was improperly described.\nThe magistrate judge\u2019s rulings directly responded to these, and only these arguments. He agreed with the government that (1) the veracity of the informants could be presumed and that no corroboration was required; (2) the facts set forth in the affidavit indicated that Mr. Berger was engaged in an ongoing pattern of criminal activity, so the evidence was not stale, and (3) although the description of the real estate in the warrant was \u201cgrossly excessive and inaccurate,\u201d the defect did not rise to such a level as to \u201coffend[ ] the Constitution.\u201d\nThis case is thus fundamentally different from Matthews, on which the district court relied. In Matthews, the plaintiff incorporated by reference in his Bivens brief the same Fourth Amendment arguments he had presented in his criminal appeal, i.e., that the affidavit submitted in support of the search warrant would not have established probable cause had the affiant not misled the issuing court. Because a panel of this court had already held in Matthews\u2019 criminal appeal that the affidavit did establish probable cause, the panel reviewing Matthews\u2019 Bivens action correctly deemed the civil action barred by collateral estoppel. Matthews, 990 F.2d at 468. By contrast, the arguments and issues raised in the motion to suppress in this case were not the same as the arguments and issues raised in the Bergers\u2019 Bivens action, and therefore, collateral estoppel does not bar this civil suit.\nTHE BIVENS CLAIM\n1. The violation of the Fourth Amendment and immunity\nThe Bergers claim that the federal appellees, AUSA Kris McLean and USFWS Special Agents Rodney C. Hanlon, Joel Serafford, Richard C. Branzell and Robert Prieksat, are individually liable for damages caused by their active participation in the commercial television/law enforcement enterprise conducted at the Bergers\u2019 ranch. The Bergers contend that the resulting search violated their Fourth Amendment rights against unreasonable searches and seizures. We hold they are correct and that the federal officers are riot entitled to qualified immunity.\nThis was no ordinary search. It was jointly planned by law enforcement officials and the media, as memorialized by a written contract, so that the officials could assist in the media obtaining material for their commercial programming. The television cameras invaded the residential property of the plaintiffs and the microphone invaded their home. This search stands out as one that at all times was intended to serve a major purpose other than law enforcement. Yet, the federal agents obtained the warrant without disclosing the contract, the planned press presence, or the media\u2019s purpose. The Fourth Amendment to our Constitution protects against unreasonable searches and warrants that are obtained under false pretenses:\nThe right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.\nU.S. Const. Amend. IV. We must heed its strictures on the potential abuse of law enforcement powers. This search violated its protections.\nRegardless of whether a constitutional violation has occurred, the federal appellees are, of course, entitled to qualified immunity if they could reasonably have believed that their conduct violated no clearly established federal statutory or constitutional rights. See Harlow v. Fitzgerald, 457 U.S. 800, 818, 102 S.Ct. 2727, 2738, 73 L.Ed.2d 396 (1982); Shoshone-Bannock Tribes v. Fish & Game Comm\u2019n, 42 F.3d 1278, 1285 (9th Cir.1994). The federal appellees contend that even if the search was unconstitutional, they could have reasonably believed their conduct was lawful.\nThe Second Circuit has held that qualified immunity does not protect federal officers in a ease where a Secret Service agent invited a TV news magazine into a private home to videotape a search. Ayeni v. Mottola, 35 F.3d 680 (2d Cir.1994): Ayeni affirmed. District Judge Weinstein\u2019s decision in Ayeni v. CBS, 848 F.Supp. 362 (E.D.N.Y.1994). The Second Circuit held that even though there was then no reported decision expressly forbidding agents from inviting the press into the home of the person searched, no reasonable officer could have thought it permissible. This was in part because of a federal statute prohibiting any persons, other than law enforcement personnel and those assisting them from executing search warrants, 18 U.S.C. \u00a7 3105. It was in major part because the publicity purpose would \u201cmagnify needlessly the impairment of their right of privacy.\u201d Id. at 686.\nSimilarly, the Fourth Circuit has held that where the federal officer brings along an employee of a private corporation acting for the corporation\u2019s purposes, not in aid of the officer, the federal officer\u2019s conduct violates the Fourth Amendment and he is not entitled to qualified immunity. Buonocore v. Harris, 65 F.3d 347, 356 (4th Cir.1995). Though noting Ayeni with approval, the Fourth Circuit said \u201c[w]e would so hold even if there were no reported authority directly on point,\u201d id. at 356, because the historical foundations of the Fourth Amendment and the statute discussed above so plainly showed that \u201c[t]he right to be free from government officials facilitating a private person\u2019s general search\u201d was \u201c \u2018manifestly included\u2019 within the \u2018core\u2019 Fourth Amendment protection.\u201d Id. at 357. See also Anderson v. WROC-TV, 441 N.Y.S.2d 220, 226 (1981) (stating in a case in which the media was sued for trespass, that \u201c[i]f the media were to succeed in compelling an uninvited and non-permitted entry into one\u2019s private home whenever it chose to do so this would be nothing less than a general warrant equivalent to th\u00e9 writs of assistance which were so odious to the American colonists\u201d).\nWe find even further support for this view when we observe that no circuit decision has ever upheld the constitutionality of a warranted search where broadcast media were present to document the incident for non-law enforcement purposes, and where the videotaping and sound recording were outside the scope of the warrant. The cases on which the federal agents rely do not hold such searches are constitutional. In Stack v. Killian, 96 F.3d 159 (6th Cir.1996), the Sixth Circuit held that police were justified in permitting a television crew to be present when the warrant itself expressly authorized photography and videotaping. In Parker v. Boyer, 93 F.3d 445 (8th Cir.1996), cert. denied, \u2014 U.S. \u2014, 117 S.Ct. 1081, 137 L.Ed.2d 216 (1997), a majority held officers had immunity in permitting a television crew to be inside a house during a search, but one member of the panel, Judge Rosenbaum, wrote separately to state that in his view the Fourth Amendment had been violated. Another, Judge Richard Arnold, wrote that in his view the media defendants were joint actors with the police in allegedly violating constitutional rights. See id. at 448-49. In Wilson v. Layne, 110 F.3d 1071 (4th Cir.1997), vacated July 30, 1997, a majority of the panel held that the police had qualified immunity when they permitted newspaper reporters and photographers to accompany them while searching a house, but specifically refused to decide the issue of the reasonable: ness of the search. The dissenting member of the Wilson panel, Judge Russell, would have denied immunity and held the conduct patently unreasonable. The entire court has now reheard the case en banc.\nIn none of these cases did law enforcement officials engage in conduct approaching the planning, cooperation and assistance to the media that occurred in this ease. The defendants rely upon a trio of older, lower court decisions that upheld the constitutionality of searches or arrests where the police invited the media to ride along and record or photograph the law enforcement activity. Moncrief v. Hanton, 10 Media L. Rep. (BNA) 1620, 1621-22 (N.D.Ohio Jan. 6, 1984); Higbee v. Times-Advocate, 5 Media L. Rep. (BNA) 2372, 2372-73 (S.D. Cal. Jan 9, 1980); Prahl v. Brosamle, 98 Wis.2d 130, 296 N.W.2d 768, 774 (1980). In those cases, however, the media representatives were viewed as playing a passive role, as observers, rather than as active participants in planned activity that transformed the execution of a search warrant into television entertainment, as happened here. Indeed we have already recognized the difference between videotaping searches for law enforcement purposes and for entertainment. Marks v. Clarke, 102 F.3d 1012 (9th Cir.1996) (as amended on denial of rehearing Feb. 26, 1997, petition for cert, filed May 27, 1997). We there noted that our court and others have assumed without deciding that videotaping for law enforcement purposes does not render a search unreasonable, see id. at 1032 n. 37, but recognized that a different result might be required if the recording were for other purposes. We cited the Second Circuit\u2019s decision in Ayeni, that squarely held a residential search videotaped by commercial television cameras was unreasonable, and the officers unprotected by qualified immunity. We reach the same legal conclusions in this ease.\n2. The Open Fields Doctrine\nThe appellees also claim that they could have violated no privacy interests in videotaping the shed and other outbuildings on the ranch, because their cameras shot footage only from the open fields or of structures in which the Bergers had no expectation of privacy. See Katz v. United States, 389 U.S. 347, 360-61, 88 S.Ct. 507, 516-17, 19 L.Ed.2d 576 (1967) (the Fourth Amendment is not triggered unless the government intrudes into an area in which there is a constitutionally protected reasonable expectation of privacy).\nBecause the Fourth Amendment speaks only to \u201cpersons, houses, papers, and effects,\u201d an individual cannot claim a constitutional violation on account of law enforcement officers\u2019 warrantless searches of their \u201copen fields.\u201d Hester v. United States, 265 U.S. 57, 59, 44 S.Ct. 445, 446, 68 L.Ed. 898 (1924) (Holmes, J.); and see United States v. Dunn, 480 U.S. 294, 107 S.Ct. 1134, 94 L.Ed.2d 326 (1987); Oliver v. United States, 466 U.S. 170, 104 S.Ct. 1735, 80 L.Ed.2d 214 (1984); United States v. Van Damme, 48 F.3d 461, 464-65 (9th Cir.1995).\nThis argument misses the mark in this case. The open fields doctrine is not a license for the police to bring trespassers on to private property. It allows law enforcement officers to obtain evidence while on privately owned open fields. It would thus entitle the officers to prevail if the Bergers were suing them for a warrantless search of open fields for evidence of criminal activity. It does not immunize the officers from liability for conduct that has no law enforcement purpose.\nMoreover, there is evidence in the record that the shed and other outbuildings that were a focus of the cameras were places in which the Bergers did have a reasonable expectation of privacy, in that they were located close to the house and guarded by a dog. The officers would not have reasonably believed the search of the outbuilding involved open fields for which no warrant was required, much less that the open fields doctrine authorized third parties to trespass.\n3. The Invited Informer Doctrine\nThroughout the execution of the search warrant, Agent Scrafford wore a microphone that transmitted live to the media the conversations between him and the Bergers in their house. The media appellees recognize that the home was outside the scope of the search warrant and that the Bergers did not consent to the microphone\u2019s entry into the home. They claim, however, that their surreptitious recording of the Bergers\u2019 conversations did not violate the Bergers\u2019 Fourth. Amendment rights because the Bergers consented to Serafford\u2019s presence and to his being a party to the conversations.\nThe appellees rely on the \u201cinvited informer\u201d or \u201cmisplaced confidence\u201d doctrine to support their claim. See, e.g., United States v. White, 401 U.S. 745, 91 S.Ct. 1122, 28 L.Ed.2d 453 (1971); Hoffa v. United States, 385 U.S. 293, 87 S.Ct. 408, 17 L.Ed.2d 374 (1966); Lewis v. United States, 385 U.S. 206, 87 S.Ct. 424, 17 L.Ed.2d 312 (1966); Forster v. County of Santa Barbara, 896 F.2d 1146, 1147-48 (9th Cir.1990). The invited informer doctrine was developed in cases where the government placed informers, often with recording devices, to obtain information for legitimate law enforcement purposes. United States v. Aguilar, 883 F.2d 662 (9th Cir.1989). In Aguilar, we held that the invited informer doctrine justifies the use of undercover agents and informers, as long as their use is part of a good faith government investigation. See also Reporters Committee v. American Telephone & Telegraph, 593 F.2d 1030, 1043 (D.C.Cir.1978) (\u201conce [people] project[ ] [their] activities beyond [their] private enclave, the Government is free to scrutinize them for law enforcement purpose\u201d). The invited informer doctrine is thus rooted in the principle that privacy interests must give way to legitimate government scrutiny when a communication is voluntarily made to a third party. Our court in Aguilar made this rationale clear when it explained that:\nIn approving this investigative technique, the Supreme Court unmistakably declared that persons have no expectation of privacy or confidentiality in their conversations and relations with other persons, no matter how secretive the setting. The Court has recognized that legitimate law enforcement interests require persons to take the risk that those with whom they associate may be government agents.\nAguilar, 883 F.2d at 703.\nThe invited informer doctrine does not apply in this case, because the surreptitious recording was not done for a legitimate law enforcement purpose. The recording in this case materially differs from the invited informer cases where the informer was assisting law enforcement. Here, law enforcement authority was used to assist commercial television, not to further law enforcement objectives.\nThe appellees further contend that the Bergers\u2019 conversations must have been \u201cvoluntary\u201d because the magistrate judge in the criminal proceeding refused to suppress Mr. Berger\u2019s statements for lack of the Miranda warnings.. Their contention is without merit. The only finding the magistrate judge made was that Mr. Berger had not been placed under the functional equivalent of a formal arrest when he made the statements, so his Miranda rights did not attach. See Berkemer v. McCarty, 468 U.S. 420, 440-42, 104 S.Ct. 3138, 3150-52 (1984). He did not rule that Mr. Berger\u2019s statements were \u201cvoluntary.\u201d\nThe invited informer doctrine thus does not shield the media from liability. We recognized this more than twenty years ago when we held that eavesdropping by the media for public broadcast, even in conjunction with law enforcement, violates important privacy interests. Dietemann v. Time, Inc., 449 F.2d 245 (9th Cir.1971). Dietemann involved the exposing of a quack doctor by media reporters who were cooperating with law enforcement officers. In Dietemann, conversations between the reporters and the fraudulent doctor were secretly relayed to law enforcement officers for use in their investigation, and then used in a story published by the media. Like the media appellees here, the media defendants in Dietemcmn attempted to use the \u201cinvited informer\u201d doctrine to escape liability. We rejected then-defense and explained our decision as follows:\nPlaintiffs den was a sphere from which he could reasonably expect to exclude eavesdropping newsmen. He invited two of defendant\u2019s employees to the den. One who invites another to his home or office takes a risk that the visitor may not be what he seems, and that the visitor may repeat all he hears and observes when he leaves. But he does not and should not be required to take the risk that what is heard and seen will be transmitted by photograph or recording, or in our modern world, in full living color and hi-fi to the public at large or to any segment of it that the visitor may select. A different rule could have a most pernicious effect upon the dignity of man....\nDietemann, 449 F.2d at 249.\nWe therefore hold that, the Bergers had an expectation of privacy in their conversations with Agent Serafford, and that appellees infringed that privacy when they recorded the Bergers\u2019 conversations inside the house.\nThe Media as Government Actors\nThe final issue we must consider in the Bergers\u2019 Bivens action is whether the media appellees may be held liable even though they were not agents or employees of the federal government. Ordinarily, Bivens liability and the corresponding liability of state actors under 42 U.S.C. \u00a7 1983, attaches only to the acts of government officials. Johnson v. Knowles, 113 F.3d 1114 (9th Cir.1997). Private parties may be held liable, however, if they are deemed to have acted \u201cunder color of law.\u201d Id. at 1117 (citing Howerton v. Gabica, 708 F.2d 380 (9th Cir.1983) (owners who obtained pervasive police assistance in evicting tenants were deemed to be joint actors with police)); Ginn v. Mathews, 533 F.2d 477 (9th Cir.1976). See also Reuber v. United States, 750 F.2d 1039, 1058 (D.C.Cir.1984), which held that \u201cprivate status ..., even if deemed a special factor, is not alone sufficient to counsel hesitation in implying a damages remedy when the private party defendants jointly participate with the government to a sufficient extent to be characterized as federal actors.... \u201d\nIn deciding whether conduct of private parties amounts to government action we engage in a highly factual inquiry. Howerton, 708 F.2d at 383 (quoting Burton v. Wilmington Parking Authority, 365 U.S. 715, 722, 81 S.Ct. 856, 860, 6 L.Ed.2d 45 (1961)). Four tests have been developed to facilitate this inquiry. See Johnson at 1118-20, where we explained each test. These tests are: (1) the governmental nexus test, see Jackson v. Metropolitan Edison Co., 419 U.S. 345, 351, 95 S.Ct. 449, 453, 42 L.Ed.2d 477 (1974) (courts must: consider whether there is a \u201csufficiently close nexus between the State and the challenged action of the regulated entity so that the action of the latter may be fairly treated as that of the [s]tate itself\u2019); (2) the public function test, see Jackson, 419 U.S. at 352, 95 S.Ct. at 454 (state action is present when a private entity exercises functions traditionally and exclusively reserved to the state); (3) the state compulsion test, see Blum v. Yaretsky, 457 U.S. 991, 1004, 102 S.Ct. 2777, 2786, 73 L.Ed.2d 534 (1982) (\u201ca [s]tate normally can be held responsible for a private decision only when it has exercised coercive power or has provided such significant encouragement, either overt or covert, that the choice must in law be deemed to be that of the [s]tate\u201d); and finally, (4) the joint action test, see Dennis v. Sparks, 449 U.S. 24, 27, 101 S.Ct. 183, 186, 66 L.Ed.2d 185 (1980) (private actors can be considered [government] actors if they are \u201cwillful participant[s] in joint action with the [government] or its agents\u201d).\nThe appropriate test in this case is the joint action test. The Supreme Court has said it is satisfied when the plaintiff is able to establish an agreement, or conspiracy between a government actor and a private party. See Dennis, 449 U.S. at 27-28, 101 S.Ct. at 186 (1980) (\u201cPrivate persons, jointly engaged with [government] officials in the challenged action, are acting \u2018under color\u2019 of law for purposes of [Bivens ] actions.\u201d); Adickes v. S.H. Kress and Co., 398 U.S. 144, 152, 90 S.Ct. 1598, 1605, 26 L.Ed.2d 142 (1970) (\u201cThe involvement of a [government] official in such a conspiracy plainly provides the state action essential to show a direct violation of petitioner\u2019s [constitutional rights], whether or not the actions of the [government official] were officially authorized, or unlawful.\u201d); United States v. Price, 383 U.S. 787, 794, 86 S.Ct. 1152, 1156, 16 L.Ed.2d 267 (1966) (\u201cPrivate persons, jointly engaged with [government] officials in the prohibited action, are acting \u2018under color\u2019 of law for purposes of [Bivens ].\u201d). Our cases are in accord. See Howerton, supra; George v. Pacific-CSC Work Furlough, 91 F.3d 1227, 1231 (9th Cir.1996), cert. denied, \u2014 U.S. \u2014, 117 S.Ct. 746, 136 L.Ed.2d 684 (1997); Mathis v. Pacific Gas & Electric Co., 75 F.3d 498, 503 (9th Cir.1996); Collins v. Womancare, 878 F.2d 1145, 1154 (9th Cir.1989) (\u201cjoint action therefore requires a substantial degree of cooperative action.\u201d). See also Gorenc v. Salt River Project Agr. Imp. & Power, 869 F.2d 503, 507 (9th Cir.1989) (quoting Wilmington Parking Authority, 365 U.S. at 725, 81 S.Ct. at 862, and explaining that joint ..action may take the form of a \u201csymbiotic relationship\u201d where the government has \u201c \u2018so far insinuated itself into a position of interdependence with [the private entity] that it must be recognized as a joint participant in the challenged activity ... \u2019\u201d)\nIn this case we have not only a verbal agreement, but a written contractual commitment between the government and the' media to engage jointly in an enterprise that only the government could lawfully institute \u2014 the execution of a search warrant \u2014 for the mutual benefit of both the private interests of the media and the government officials\u2019 interest in publicity. It is also alleged that the federal entities shared confidential information with the media. Indeed, the record in this case suggests that the government officers planned and executed the search in a manner designed to enhance its entertainment, rather than its law enforcement value, by engaging in, for example, conversations with Mr. Berger for the purpose of providing interesting soundbites, and to portray themselves as tough, yet caring investigators, rather, than to further their investigation. This satisfies the joint action test.\nAt least one distinguished circuit judge has suggested that the media\u2019s entry onto searched premises by virtue of government authority would alone be sufficient to constitute joint action. See Parker, 93 F.3d at 449 (Richard Arnold, J., dissenting). Judge Arnold noted that \u201c[t]he news crew came to the location with the police and could not have entered if. the police had not done so first. They did not simply happen along the street at the time .that a search was being conducted.\u201d Id. Given the record before us, however, we need not go so far. This is because under our own circuit authority, the \u201cinextricable\u201d involvement of the media with both the planning and execution of this search, the government\u2019s active involvement with the media\u2019s news gathering activities, and the mutually-derived benefits, is more than enough to make the media government actors. See Gorenc, supra, quoting Wilmington Parking Authority, 869 F.2d 503.\nThe cases relied upon by the district court are unavailing because they involved situations in which the private parties conducted searches on their own, and not under the government\u2019s cloak of authority. See United States v. Miller, 688 F.2d 652, 657-58 (9th Cir.1982); United States v. Jennings, 653 F.2d 107, 110 (4th Cir.1981). In Miller a theft'victim went to the defendant thiefs property to look for his stolen trailer. Although a police officer acquiesced in the visit and provided some protection from afar by keeping watch through binoculars while the victim took photographs of his stolen trailer, the officer took no active part in the search. Miller, 688 F.2d at 656-58. In Jennings, a private party, an airline security manager, searched a package containing drugs, after receiving information from the Drug Enforcement Administration. The court held that notwithstanding the fact that a DEA agent passively observed the search, the search did not implicate the Fourth Amendment because the private entity independently decided to conduct the search, and acted for its own benefit, rather than as a surrogate for the government. Jennings, 653 F.2d at 110-11. While the media here collaborated with the government in order to conduct a search for its own benefit, there was nothing passive about the government\u2019s involvement with the media in this case. They acted together.\nFEDERAL WIRETAP STATUTE\nNext, the Bergers claim that the media appellees violated the Federal Wiretap Act, 18 U.S.C. \u00a7\u00a7 2510, et seq., by intercepting for broadcast the Bergers\u2019 conversations with Agent Scrafford in the home. The Act is a broad prohibition against warrantless, surreptitious interceptions of wire, oral or electronic communications. 18 U.S.C. \u00a7 2511(1)(a)(c).\nThe Act, however, also contains a broad exception for conversations recorded by persons acting under color of law. That exception provides that:\nIt shall not be unlawful under this chapter for a person acting under color of law to intercept a wire, oral, or electronic communication, where such person is a party of the communication or one of the parties to the. communication has given prior consent to such interception.\n18 U.S.C. \u00a7 2511(2)(c).\nWe have held that the media appellees were acting under color of law for purposes of Bivens liability. We recognize that the scope of the phrase \u201cunder color of law\u201d in the wiretap context is not equivalent to the scope of the phrase in the general section 1983 or Bivens context. See, e.g., Thomas v. Pearl, 998 F.2d 447, 450-51 (7th Cir.1993). Thomas held that a basketball coach who was a university employee and who tape-recorded a conversation with an athlete was not acting \u201cunder color of law\" for purposes of the Federal Wiretap Act. We agree that the \u201cunder color of law\u201d exception under the Act was not created to exempt all government employees from liability for recording conversations when only one party has consented: Its core aim must have been to exempt those acting under law enforcement authority. Because both the federal appel-lees and the media appellees were acting under authority of a search warrant, the exception applies, and because Agent Scraf-ford, a party to the conversations, consented to the interception, we hold the media appel-lees not liable under the Federal Wiretap Act.\nSTATE LAW CLAIMS\nTrespass\nThe Bergers have asserted a claim against the media for trespass. The Bergers allege that the media committed the tort by (1) entering into their home, for which there was no warrant, and (2) by generally being present at the Bergers\u2019 ranch during the execution of a search warrant that they contend authorized only the law enforcement officers to enter their property. Trespass is generally premised upon the intentional interference with the property rights of another without consent. See Ducham v. Tumo, 265 Mont. 436, 877 P.2d 1002, 1005 (1994). Ducham quoted Restatement (Second) of Torts \u00a7 158: \u201cOne is subject to liability ... for trespass, irrespective of whether he thereby causes harm ... (a) if he intentionally enters land in possession of the other, or causes a thing or third person to do so, or (b) remains on the land, or (c) fails to remove from the land a thing which he is under a duty to remove.\u201d Id. See also Restatement (Second) of Torts \u00a7 167 (consent is an absolute defense to trespass).\nThe district court held that the Bergers had no possessory interest in the ranch at the time of the search because the government agents had temporary possession and control of the Bergers\u2019 land during the execution of the search. See; e.g., Bills v. Aseltine, 958 F.2d 697 (6th Cir.1992), where the Sixth Circuit explained that where an intrusion is justified, the officers executing the search are \u201cplaced in control of the premises.\u201d Bills recognized, however, that such control does not authorize law enforcement officers to invite third parties on the premises for reasons unrelated to law enforcement. Id. The warrant therefore does not justify the media intrusion here, because the officers invited.,the media for newsgathering, not for law enforcement.\nThe district court\u2019s reasoning is even more problematic insofar as it was applied to the media\u2019s entry into the Berger home, a place that the government did not have a warrant to search. Although Mr. Berger consented to Agent Scrafford\u2019s initial .entry into the home, he never consented to the entry of the media-owned microphone that Agent Scraf-ford wore. In addition, the media could not have benefitted derivatively from the consent extended to Agent Serafford, because without a warrant, Agent Serafford was not in control and possession of the home, and therefore, had no valid authority to supply the requisite consent.\nThe media\u2019s contention that their entry was impliedly consented to by \u201ccustom and usage,\u201d is also unavailing. See Florida Pub. Co. v. Fletcher, 340 So.2d 914 (Fla.1977) (implying consent from a longstanding \u201ccustom and usage\u201d of permitting the media to enter private property where a conflagration had consumed a house, causing death, and where the Florida Supreme Court characterized the fire as \u201ca disaster of great public interest,\u201d and a \u201ccalamity\u201d). Fletcher involved a disaster, which this case does not. Other courts have similarly distinguished Fletcher on its facts. See Prahl, 295 N.W.2d at 779, WROC-TV, 441 N.Y.S.2d at 223.\nAlthough neither the district court nor this court has exhaustively researched Montana trespass law, we have no reason to believe it departs from the generally recognized principles we have discussed. We therefore remand for the district court\u2019s further consideration of the Bergers\u2019 claim for trespass against the media'.\nConversion\nThe Bergers sued the media appellees for conversion on the basis of the media\u2019s capture of their images and voices. The district court found that recorded sounds and images cannot be the subject of a conversion claim. We agree.\nTo make out a valid conversion claim under Montana law, a plaintiff must prove that (1) he owns the property converted, (2) has a right to its possession, (3) the converter exercised unauthorized dominion over that property, and (4) the property owner has suffered damages as a result of the conversion. Eatinger v. Johnson, 269 Mont. 99, 887 P.2d 231, 234 (1994) (citation omitted). The Bergers' images and sounds are intangible, and intangible property interests have not traditionally been subject to conversion. See Prosser & Keeton, Law of Torts \u00a7 15 (5th ed.1985); Melville B. Nimmer & David Nim-mer, Nimmer on Copyright \u00a7 1.01[B](1)(i) (1995) (\u201cThe torts of conversion and trespass relate to interference with tangible rather than intangible property....\u201d). Although the common law rule has been relaxed somewhat, and the tort may now reach the misappropriation of intangible rights customarily merged in or identified with some document, it has not yet been extended further. See Restatement (Second) of Torts, \u00a7 242 and comments; Hurst v. Dezer/Reyes Corp., 82 F.3d 232, 236 (8th Cir.1996) (holding that even under, the \u201cexpanded definition of the tort\u201d under New York law, the business concept and appearance of a diner could not be \u201cconverted\u201d since the claimed property rights were not rights customarily merged in a document); Zacchini v. Scripps-Howard Broadcasting Co., 47 Ohio St.2d 224, 351 N.E.2d 454, 457 (1976) (\u201cit has never been held that one\u2019s countenance or image is \u2018converted\u2019 by being photographed\u201d). No Montana court has recognized a cause of action for the \u201cconversion\u201d of sounds and images. The Bergers, therefore, have not stated a claim for conversion.\nIntentional Infliction of Emotional Distress\nUnder Montana law, this cause of action may arise \u201cif there was serious or severe emotional distress to the plaintiff which was a reasonable foreseeable consequence of the defendant\u2019s negligent or intentional act or omission.\u201d See Sacco v. High Country Indep. Press, Inc., 271 Mont. 209, 896 P.2d 411, 429 (1995).\nThe district court rejected this claim on the ground that it had already found that none of the media appellees\u2019 acts were unlawful, and therefore, emotional distress could not have been a reasonably foreseeable consequence of their actions.\nIn light of our holding that the Bergers have alleged a claim of interference with both their privacy and their property interests, we also remand this claim to the district court for reconsideration upon a fully developed record.\nINJUNCTION\nThe Bergers also sought an injunction preventing the media appellees from further broadcast of any or all parts of the video and sound gathered during the search. We agree with the district court that this is essentially a request for a prior restraint, which carries a \u201cheavy presumption against its constitutional validity.\u201d CBS, Inc. v. Davis, 510 U.S. 1315, 1317, 114 S.Ct. 912, 914, 127 L.Ed.2d 358 (1994) (Blackmun, Circuit Justice, staying preliminary injunction) (citations omitted). Even though the Bergers have alleged triable claims for damages arising out of the manner in which the media appellees obtained the material, such allegations are not sufficient to support the imposition of an injunction. See New York Times Co. v. United States, 403 U.S. 713, 91 S.Ct. 2140, 29 L.Ed.2d 822 (1971) (refusing to enjoin publication of the Pentagon Papers).\nCONCLUSION\nWe reverse the district court\u2019s judgment in favor of the federal appellees in the Bergers\u2019 Bivens claim, and also reverse the judgment in favor of the media appellees on that claim. We also reverse and remand the judgment in favor of the media appellees on the Bergers\u2019 state law claims for trespass and intentional infliction of emotional distress, but otherwise affirm the judgment of the district court.\nAFFIRMED IN PART, REVERSED AND REMANDED IN PART for further proceedings. Costs are awarded to Appellants.",
+        "type": "majority",
+        "author": "SCHROEDER, Circuit Judge:"
+      }
+    ],
+    "attorneys": [
+      "Henry H. Rossbacher, Nanci E. Nishimura and Tracy W. Young, Rossbacher & Associates, Los Angeles, California, and Jay F. Lansing, Moses Law Firm, Billings, Montana, for plaintiffs-appellants.",
+      "P. Cameron DeVore, Davis Wright Tre-maine, Seattle, Washington, and W. Anderson Forsythe, Moulton, Bellingham, Longo & Mather, Billings, Montana, for defendants-appellees CNN and Hamann.",
+      "Thomas M. Bondy, Assistant United States Attorney, Washington, DC, for defendant-appellee United States."
+    ],
+    "corrections": "",
+    "head_matter": "Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Rodney C. HANLON; Joel Scrafford; Richard C. Branzell; Robert Prieksat; Kris A. Mclean; Turner Broadcasting System, Inc., A Georgia Corporation; Robert Rainey; Donald Hooper; United States of America, Defendants-Appellees. Paul W. BERGER and Erma R. Berger, Plaintiffs-Appellants, v. Jack HAMANN; Cable News Network, Inc., a Georgia corporation, Defendants-Appellees.\nNos. 96-35251, 96-35266.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted Sept. 19, 1996.\nDecided Nov. 13, 1997.\nHenry H. Rossbacher, Nanci E. Nishimura and Tracy W. Young, Rossbacher & Associates, Los Angeles, California, and Jay F. Lansing, Moses Law Firm, Billings, Montana, for plaintiffs-appellants.\nP. Cameron DeVore, Davis Wright Tre-maine, Seattle, Washington, and W. Anderson Forsythe, Moulton, Bellingham, Longo & Mather, Billings, Montana, for defendants-appellees CNN and Hamann.\nThomas M. Bondy, Assistant United States Attorney, Washington, DC, for defendant-appellee United States.\nBefore: SCHROEDER and KLEINFELD, Circuit Judges, and BREWSTER, District Judge.\nHonorable Rudi M. Brewster, United States District Judge for the Southern District of California, sitting by designation."
+  },
+  "file_name": "0505-01",
+  "first_page_order": 595,
+  "last_page_order": 608
+}

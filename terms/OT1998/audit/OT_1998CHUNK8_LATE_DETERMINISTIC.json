@@ -1,0 +1,356 @@
+{
+  "scope": "Independent bounded audit; actual public opinion tables/direct authorship statements, not earlier assignment totals. No Git or repository helper invoked.",
+  "unclassified": [],
+  "cases": {
+    "MAINE": {
+      "record": "maine_green_party_v_maine_merits_1999-05-20.md",
+      "sha256": "2872f02f7ee7262a30c75f84c24451d8e66c3865ac0a904727424ac0eb01df94",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "A refined legal argument does not itself forfeit the original associational claim",
+          "words": 150
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [
+        "commitment",
+        "approval",
+        "approval"
+      ],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 9,
+        "Ginsburg": 9,
+        "Breyer": 9
+      },
+      "counted_total": 81,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "saenz_v_roe_merits_1999-05-17.md",
+        "date": "1999-05-17",
+        "case": "Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400.",
+        "authors": [
+          "Kennedy"
+        ]
+      },
+      "private_token_review": "All three lexical hits are substantive: exclusive local political commitment and two references to judicial constitutional approval. None is workflow disclosure.",
+      "private_boundary_pass": true
+    },
+    "DENTAL": {
+      "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
+      "sha256": "5bdac17b684e13c74a5e05140e065d66c8f5f64c72cca529bece6f6dee9c0e37",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "Coverage includes an association serving its members' commercial profit",
+          "words": 146
+        },
+        {
+          "holding": "The inquiry must test the restraint's actual competitive tendency and material explanation",
+          "words": 156
+        },
+        {
+          "holding": "Price restrictions require more examination on this record",
+          "words": 127
+        },
+        {
+          "holding": "Quality advertising is not equivalent to service output",
+          "words": 115
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 9,
+        "Ginsburg": 9,
+        "Breyer": 10
+      },
+      "counted_total": 82,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "maine_green_party_v_maine_merits_1999-05-20.md",
+        "date": "1999-05-20",
+        "case": "Maine Green Party v. Maine; First Circuit No. 98-1309.",
+        "authors": [
+          "Breyer"
+        ]
+      },
+      "private_boundary_pass": true
+    },
+    "CLEVELAND": {
+      "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
+      "sha256": "2c97809ea961250eaf40deb178d8afa08030da945434bef6a2463beae4fcd267",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "SSDI does not create an automatic bar or special adverse presumption under the ADA",
+          "words": 162
+        },
+        {
+          "holding": "An apparent inconsistency still requires an adequate explanation",
+          "words": 161
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 8,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 9,
+        "Breyer": 10
+      },
+      "counted_total": 83,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
+        "date": "1999-05-24",
+        "case": "California Dental Association v. Federal Trade Commission; No. 97-1625.",
+        "authors": [
+          "Souter"
+        ]
+      },
+      "private_boundary_pass": true
+    },
+    "DAVIS": {
+      "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
+      "sha256": "ae7cc80caed232a46c7bf83068816f01b944265e2759869f7622b050ffbb0675",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "A school's own culpable response can support damages for controlled peer harassment",
+          "words": 208
+        },
+        {
+          "holding": "Educational deprivation follows the contextual severe-or-pervasive standard",
+          "words": 158
+        },
+        {
+          "holding": "The pleaded recipient claim warrants ordinary further proceedings",
+          "words": 127
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 9,
+        "Breyer": 10
+      },
+      "counted_total": 84,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
+        "date": "1999-05-24",
+        "case": "Cleveland v. Policy Management Systems Corp.; No. 97-1008.",
+        "authors": [
+          "Stevens"
+        ]
+      },
+      "private_boundary_pass": true
+    },
+    "HANLON": {
+      "record": "hanlon_v_berger_merits_1999-05-24.md",
+      "sha256": "35c3545b1f0bf98237013bf332dba60cd0c5f266104f37ef06757f1a6030ce0a",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "A search warrant supplies no unrelated media access to protected space",
+          "words": 153
+        },
+        {
+          "holding": "The particular protected place and intrusion must still be identified",
+          "words": 118
+        },
+        {
+          "holding": "March 1993 law does not defeat immunity on this reviewed media theory",
+          "words": 208
+        },
+        {
+          "holding": "The mandate is confined to the reviewed official component",
+          "words": 125
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_total": 85,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
+        "date": "1999-05-24",
+        "case": "Davis v. Monroe County Board of Education; No. 97-843.",
+        "authors": [
+          "Ginsburg"
+        ]
+      },
+      "private_boundary_pass": true
+    },
+    "WILSON": {
+      "record": "wilson_v_layne_merits_1999-05-24.md",
+      "sha256": "399d157addaf468f426a7af4515c44169f238c57488b4ae32c85338c6fe0f2b4",
+      "headers": [
+        "Event",
+        "Participation",
+        "Public Action",
+        "Judgment & Remedy",
+        "Opinion Topology",
+        "Holdings",
+        "Precedent Treatment",
+        "Law After Decision",
+        "Separate Writings",
+        "Procedure After Action",
+        "Source Notes"
+      ],
+      "eleven_blocks": true,
+      "explanation_words": [
+        {
+          "holding": "A home warrant does not authorize unrelated media visitors",
+          "words": 202
+        },
+        {
+          "holding": "The particular April 1992 application was not sufficiently clear for personal damages",
+          "words": 226
+        }
+      ],
+      "explanations_within_350": true,
+      "private_tokens": [],
+      "forbidden_links": [],
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 11,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 10,
+        "Thomas": 9,
+        "Ginsburg": 10,
+        "Breyer": 10
+      },
+      "counted_total": 86,
+      "counts_match_receipt": true,
+      "total_matches_receipt": true,
+      "last_counted": {
+        "record": "hanlon_v_berger_merits_1999-05-24.md",
+        "date": "1999-05-24",
+        "case": "Hanlon v. Berger; No. 97-1927.",
+        "authors": [
+          "O'Connor"
+        ]
+      },
+      "private_boundary_pass": true
+    }
+  },
+  "exclusions_note": "No judicial opinion in the administrative Maine initiative source is excluded; unsigned decrees, orders, summary actions, and per curiams produce no lead count. Multiple parts by one author count once.",
+  "resolved_findings": [
+    "Hanlon argument date now March 24, 1999, confirmed from official 526 U.S. 808 syllabus; no change to disposition or law.",
+    "Materially used authorities now have individual precedent-treatment lines at the already adopted scope."
+  ]
+}

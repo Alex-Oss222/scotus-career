@@ -1,0 +1,333 @@
+{
+  "clinton_v_goldsmith_merits_1999-05-17.md": {
+    "headers": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "eleven_blocks": true,
+    "explanation_words": [
+      {
+        "holding": "A writ cannot enlarge military appellate jurisdiction",
+        "words": 145
+      }
+    ],
+    "private_tokens": []
+  },
+  "florida_v_white_merits_1999-05-17.md": {
+    "headers": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "eleven_blocks": true,
+    "explanation_words": [
+      {
+        "holding": "Seizure of a forfeitable automobile in a public place",
+        "words": 204
+      }
+    ],
+    "private_tokens": []
+  },
+  "hunt_v_cromartie_merits_1999-05-17.md": {
+    "headers": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "eleven_blocks": true,
+    "explanation_words": [
+      {
+        "holding": "I. Predominance alone cannot support this injunction",
+        "words": 174
+      },
+      {
+        "holding": "II. Summary judgment cannot resolve a genuine material inference against the nonmovant",
+        "words": 88
+      }
+    ],
+    "private_tokens": []
+  },
+  "new_jersey_v_new_york_implementing_decree_1999-05-17.md": {
+    "headers": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "eleven_blocks": true,
+    "explanation_words": [
+      {
+        "holding": "Geographic implementation of the existing judgment",
+        "words": 92
+      }
+    ],
+    "private_tokens": [
+      "approved"
+    ],
+    "private_token_review": "The sole match is Congress approval of the Compact in the exact public decree; it is not workflow metadata."
+  },
+  "exact_decree": {
+    "text_identical": true,
+    "actual_chars": 18729,
+    "source_chars": 18729,
+    "course_numbers": 182,
+    "map_byte_identical": true
+  },
+  "GOLDSMITH": {
+    "actual_counts": {
+      "Kennedy": 8,
+      "Souter": 9,
+      "O'Connor": 10,
+      "Thomas": 8,
+      "Ginsburg": 8,
+      "Stone-Zsela": 8,
+      "Stevens": 8,
+      "Scalia": 8,
+      "Breyer": 9
+    },
+    "receipt_counts_match": true,
+    "total": 76,
+    "issues": [],
+    "last_counted": {
+      "record": "pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md",
+      "date": "1999-05-13",
+      "case": "Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293.",
+      "authors": [
+        "Souter"
+      ],
+      "topology_present": true
+    },
+    "uncounted": [
+      "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+      "stewart_v_lagrand_certiorari_1999-03-03.md",
+      "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "central_state_university_v_aaup_summary_merits_1999-03-22.md"
+    ],
+    "basis": "Current Records public topology, table or direct authorship prose, plus explicit form exclusions; no earlier assignment totals."
+  },
+  "WHITE": {
+    "actual_counts": {
+      "Kennedy": 9,
+      "Souter": 9,
+      "O'Connor": 10,
+      "Thomas": 8,
+      "Ginsburg": 8,
+      "Stone-Zsela": 8,
+      "Stevens": 8,
+      "Scalia": 8,
+      "Breyer": 9
+    },
+    "receipt_counts_match": true,
+    "total": 77,
+    "issues": [],
+    "last_counted": {
+      "record": "clinton_v_goldsmith_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Clinton v. Goldsmith; No. 98-347; judgment below, 48 M.J. 84.",
+      "authors": [
+        "Kennedy"
+      ],
+      "topology_present": true
+    },
+    "uncounted": [
+      "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+      "stewart_v_lagrand_certiorari_1999-03-03.md",
+      "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "central_state_university_v_aaup_summary_merits_1999-03-22.md"
+    ],
+    "basis": "Current Records public topology, table or direct authorship prose, plus explicit form exclusions; no earlier assignment totals."
+  },
+  "HUNT": {
+    "actual_counts": {
+      "Kennedy": 9,
+      "Souter": 9,
+      "O'Connor": 10,
+      "Thomas": 9,
+      "Ginsburg": 8,
+      "Stone-Zsela": 8,
+      "Stevens": 8,
+      "Scalia": 8,
+      "Breyer": 9
+    },
+    "receipt_counts_match": true,
+    "total": 78,
+    "issues": [],
+    "last_counted": {
+      "record": "florida_v_white_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Florida v. White; No. 98-223; judgment below, 710 So. 2d 949.",
+      "authors": [
+        "Thomas"
+      ],
+      "topology_present": true
+    },
+    "uncounted": [
+      "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+      "stewart_v_lagrand_certiorari_1999-03-03.md",
+      "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "central_state_university_v_aaup_summary_merits_1999-03-22.md"
+    ],
+    "basis": "Current Records public topology, table or direct authorship prose, plus explicit form exclusions; no earlier assignment totals."
+  },
+  "RUHRGAS": {
+    "actual_counts": {
+      "Kennedy": 9,
+      "Souter": 9,
+      "O'Connor": 10,
+      "Thomas": 9,
+      "Ginsburg": 9,
+      "Stone-Zsela": 8,
+      "Stevens": 8,
+      "Scalia": 8,
+      "Breyer": 9
+    },
+    "receipt_counts_match": true,
+    "total": 79,
+    "issues": [],
+    "last_counted": {
+      "record": "hunt_v_cromartie_merits_1999-05-17.md",
+      "date": "1999-05-17",
+      "case": "Hunt v. Cromartie; No. 98-85; judgment below, 34 F. Supp. 2d 1029.",
+      "authors": [
+        "Ginsburg"
+      ],
+      "topology_present": true
+    },
+    "uncounted": [
+      "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+      "mosley_v_united_states_death_disposition_1998-12-08.md",
+      "calderon_v_coleman_summary_merits_1998-12-14.md",
+      "maine_initiative_qualification_admitted_source_1998-12-23.md",
+      "roberts_v_galen_of_virginia_merits_1999-01-13.md",
+      "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+      "stewart_v_lagrand_application_and_summary_merits_1999-03-03.md",
+      "stewart_v_lagrand_certiorari_1999-03-03.md",
+      "central_state_university_v_aaup_certiorari_1999-03-22.md",
+      "central_state_university_v_aaup_summary_merits_1999-03-22.md",
+      "new_jersey_v_new_york_implementing_decree_1999-05-17.md"
+    ],
+    "basis": "Current Records public topology, table or direct authorship prose, plus explicit form exclusions; no earlier assignment totals."
+  },
+  "freeze_copy_checks": [
+    {
+      "freeze": "OT_1998CHUNK8_COMMITMENTS_A.md",
+      "case": "Clinton v. Goldsmith",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_COMMITMENTS_A.md",
+      "case": "Hunt v. Cromartie",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_COMMITMENTS_A.md",
+      "case": "Florida v. White",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_COMMITMENTS_A.md",
+      "case": "New Jersey v. New York",
+      "copy_exact": false,
+      "substantive_copy_match": true,
+      "reviewed_difference": "Only sibling geometry link rewritten for Record location."
+    },
+    {
+      "freeze": "OT_1998CHUNK8_RECONCILED_A.md",
+      "case": "Hunt v. Cromartie",
+      "copy_exact": false,
+      "substantive_copy_match": true,
+      "reviewed_difference": "Only duplicate Historical departure label changed to Reconciliation comparison; paragraph text identical."
+    },
+    {
+      "freeze": "OT_1998CHUNK8_RECONCILED_A.md",
+      "case": "Florida v. White",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_RECONCILED_A.md",
+      "case": "New Jersey v. New York",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_RECONCILED_GOLDSMITH_G1.md",
+      "case": "clinton_v_goldsmith_merits_1999-05-17.md",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_COMMITMENTS_RUHRGAS.md",
+      "case": "ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    },
+    {
+      "freeze": "OT_1998CHUNK8_RECONCILED_RUHRGAS.md",
+      "case": "ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md",
+      "copy_exact": true,
+      "substantive_copy_match": true
+    }
+  ],
+  "ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md": {
+    "eleven_blocks": true,
+    "explanation_words": [
+      207
+    ],
+    "private_tokens": []
+  },
+  "validation_boundary": "No Git invoked. All assertions are limited to file checks and reviewed source scope; Hunt replacement-plan/live-controversy completeness item remains for clean supplemental control validation."
+}

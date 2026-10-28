@@ -1,0 +1,14 @@
+{
+  "source": "terms/OT1998/sources/chunk8-neutral-control/NJ_PROPOSED_INSTRUMENT.txt",
+  "scope": "Mechanical transcription sequence and plane-coordinate closure only; no independent geographic title determination or substitute survey.",
+  "courses": 182,
+  "course_numbers_complete": true,
+  "computed_endpoint_offset_feet": {
+    "east": 9.059604899164242e-05,
+    "north": 0.002151802034362049
+  },
+  "closure_error_feet": 0.002153708345894947,
+  "computed_planar_area_sqfeet": 203979.42735140273,
+  "computed_planar_area_acres": 4.682723309260853,
+  "qualification": "Distances and bearings are published rounded values. The computation does not add pier acreage, replace the source map or determine title by acreage."
+}

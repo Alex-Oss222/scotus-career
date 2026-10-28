@@ -1,0 +1,44 @@
+# OT1998 chunk 8 — Ruhrgas historical reconciliation
+
+**Stage and cutoff:** Reconciliation of the frozen clean neutral model; May 17, 1999. Stone has not entered this context. No combined brief, private Stone material or raw Decision Record was opened. This immutable disk freeze supplies Associate commitments, not a Court judgment, assignment or historical authorship transfer. No Git command was used.
+
+**Inputs:** RUHRGAS_NEUTRAL, COMMITMENTS_RUHRGAS, NEUTRAL_VALIDATION, LAW_04, the Ruhrgas comparator and COMPARATOR_VERIFICATION. The full official opinion and every footnote at 526 U.S. 574–588 were read from `../sources/chunk8-comparator/ruhrgas-official.txt`. The law slice supplies current Steel Co., Jones, Murphy Brothers and El Paso holdings and exact joins. Earlier source-validation limits remain operative.
+
+## Disposition, rule and exact scope
+
+All eight Associates support reversal of the en banc Fifth Circuit judgment and remand for further appellate proceedings. They join the complete following rule, application and reservations. No separate writing is required.
+
+There is no unyielding requirement that a federal court resolve subject-matter jurisdiction before dismissing for lack of personal jurisdiction, including in a removed action. Ordinarily the court should address a readily resolved subject-matter question first. When personal jurisdiction is straightforward and presents no complex state-law issue while the asserted subject-matter defect is difficult and novel, the court may choose the personal-jurisdiction ground without first deciding subject-matter jurisdiction. That choice denies adjudicatory authority over the defendant; it does not assume power to decide contested liability. State-law difficulty and the State's forum interest bear on the choice. Where subject-matter jurisdiction is as readily resolved and personal jurisdiction presents difficult state law, those concerns ordinarily favor deciding remand first. This is a bounded permission, not a direction invariably to choose the easier issue or a categorical prohibition whenever some state law is involved.
+
+The District Court was permitted to choose the personal-jurisdiction inquiry here. The reversal does **not** independently affirm the correctness of its contact findings or ultimate lack-of-personal-jurisdiction conclusion. Those matters remain for the Fifth Circuit under the proper sequence. Historical footnote 8 expressly confirms that the correctness of the dismissal falls outside the question presented; this limit accords with the clean model's own bounded review.
+
+The three asserted removal bases remain distinct and undecided: diversity with alleged fraudulent joinder of Norge; asserted federal-common-law foreign-relations jurisdiction; and 9 U.S.C. §205's arbitration-related ground. The vacated panel's rejection of those theories is not an operative jurisdictional judgment. No state-court remand, tort-liability adjudication, additional discovery or later Supreme Court event is directed.
+
+## Individual reconciliation
+
+| Associate | Reconciled disposition and join | Date-eligible basis and historical test |
+|---|---|---|
+| Stevens | Reverse and remand; full rule, permissibility of the sequence here, and all reservations | His Steel Co. statutory-ground position did not impose a universal hierarchy; his full Jones join forbids assumed standing for contested constitutional merits. Historical complete agreement with Ruhrgas confirms that denying personal authority is different. No changed premise requires departure. |
+| O'Connor | Same complete join | Her Steel Co. nonexhaustive-sequencing reservation and Jones join support lawful threshold choice while preserving the merits limit. Murphy Brothers keeps process and removal timing distinct. Historical complete agreement remains persuasive. |
+| Scalia | Same complete join | His Steel Co. Part I and Jones opinion prohibit hypothetical merits authority, not every choice among nonmerits thresholds. His Murphy Brothers timing dissent establishes no contrary hierarchy. Historical complete agreement confirms the distinction. |
+| Kennedy | Same complete join | His Steel Co. reservation with O'Connor and full Jones join preserve the difference between threshold order and merits power. His Murphy Brothers join gives no removal-timing shortcut. Historical complete agreement is supported on the unchanged issue. |
+| Souter | Same complete join | His Steel Co. statutory-ground position and Jones join permit the nonmerits distinction without authorizing a tort judgment. His Murphy Brothers join preserves formal-process limits. Historical complete agreement remains persuasive. |
+| Thomas | Same complete join | His Steel Co. and Jones joins insist on merits authority. His El Paso opinion makes a particular statutory coverage task prior to prudential exhaustion; it creates no universal priority between these jurisdictional questions. His Murphy Brothers dissent addresses timing only. Historical complete agreement is compatible with all three positions. |
+| Ginsburg | Same complete join | Her Steel Co. statutory-ground position, full Jones join and Murphy Brothers opinion distinguish actual judicial authority from statutory timing. She requires attention to comity and difficult state-law questions. The historical full writing confirms precisely that bounded choice; its authorship is not transferred. |
+| Breyer | Same complete join | His Steel Co. redressability join did not create an exhaustive hierarchy; his Jones, Murphy Brothers and El Paso joins preserve actual authority and source-specific duties. Historical complete agreement supports avoiding a difficult unnecessary subject-matter ruling through a straightforward personal-jurisdiction denial. |
+
+No Associate's judgment, rule join or remedy materially departs from the verified historical comparator. The earlier current-timeline Steel Co. decision and Jones application reinforce the same jurisdiction-before-contested-merits boundary; they do not supply a changed premise requiring a different result here. The fact that personal jurisdiction protects a waivable individual right, while subject-matter limitations protect institutional interests and require independent policing, does not establish the rejected mandatory hierarchy. Insurance Corp. of Ireland supplies the former distinction; Employers Reinsurance supplies personal jurisdiction's essential role. Neither becomes a license to assume merits power.
+
+## Preserved objections and legal limits
+
+The strongest subject-matter-first objection is that a personal-jurisdiction determination can affect later state proceedings even without deciding liability. The historical opinion addresses that consequence rather than denying it: subject-matter determinations can also settle issues between parties. Comity therefore informs discretionary order rather than establishing an absolute constitutional sequence. No universal preclusion holding about an unfiled later case is adopted.
+
+The sequencing permission does not override an actually applicable statutory remand command or review bar. An established lack of subject-matter jurisdiction retains its statutory consequence; a difficulty yet to be resolved is not the same as an adjudicated absence of jurisdiction. This appeal concerns a federal dismissal and an appellate return to the District Court, not review of an established district-court state-remand order protected by §1447(d). The clean model's source-specific safeguards are consistent with the historical opinion's treatment of §§1447(c)–(d), not newly invented prerequisites to jurisdiction.
+
+Do not turn the preference for ordinarily deciding an easy subject-matter question first into an inflexible rule, convert discretion into an obligation, pronounce all asserted removal theories sufficient, or affirm the underlying personal-jurisdiction determination as an independent Supreme Court holding.
+
+## Sources, limits and readiness
+
+The official opinion verifies the historical complete agreement, rule qualifications and footnote 8 limit. It supplies comparison, not present law. The neutral record separately supports the lower proceedings and available bounded remedy. Original petition, merits briefs and appendix were not independently read in this stage; no full-record recovery or final factual validation is claimed. Additional record support would be necessary before deciding actual subject-matter jurisdiction, disputed contacts or a broader statutory construction. No unavailable paper proves default.
+
+**Readiness:** Reconciled for assembly on the complete sequencing rule and bounded reversal/remand. Eight complete Associate joins are identified. No unresolved blocker exists at that scope. No Stone commitment, total Court count, opinion assignment or final publication choice is supplied.

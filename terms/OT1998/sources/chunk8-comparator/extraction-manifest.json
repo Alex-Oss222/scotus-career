@@ -1,0 +1,116 @@
+{
+  "source_file": "terms/OT1998/sources/chunk7-control/official-526.pdf",
+  "source_sha256": "30eadb522b4cff3d5de4494ac54643f3031e570c3c845e155dee7e0ff89a4dd9",
+  "items": [
+    {
+      "case": "goldsmith",
+      "printed_pages": [
+        529,
+        540
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/goldsmith-official.txt",
+      "sha256": "9eb82703c50106fad9032137e98553d23f941e389e20d9e0983347f8ed5a1a40"
+    },
+    {
+      "case": "cromartie",
+      "printed_pages": [
+        541,
+        558
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/cromartie-official.txt",
+      "sha256": "2e305bc6c61e2cf1655926a5e42891c828da66cf1d5f7a2a7338dfca1a900cc1"
+    },
+    {
+      "case": "white",
+      "printed_pages": [
+        559,
+        573
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/white-official.txt",
+      "sha256": "257dabc95a082d0e8942d6320c06959764e8e69e8c26dff205bdf83bf4a1e5ca"
+    },
+    {
+      "case": "ruhrgas",
+      "printed_pages": [
+        574,
+        588
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/ruhrgas-official.txt",
+      "sha256": "f38067e7275de0d5c6726e65fa8b74f9cc8c1bf097d0b1fcc4fcda8cd24b32bb"
+    },
+    {
+      "case": "new-jersey-decree",
+      "printed_pages": [
+        589,
+        601
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/new-jersey-decree-official.txt",
+      "sha256": "79b01aefcdce10bca3cc10b5a02499f3228b86c572c58ce4b1e3dcce90d49d08"
+    },
+    {
+      "case": "wilson",
+      "printed_pages": [
+        603,
+        628
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/wilson-official.txt",
+      "sha256": "7e93be9adda57fe293483d4a68bc0677b553abba762e135b0c946c1b18568629"
+    },
+    {
+      "case": "davis",
+      "printed_pages": [
+        629,
+        686
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/davis-official.txt",
+      "sha256": "60cb6a59066559de962cc4fffbb0edbd56a366a059421bb395458bceffdfab57"
+    },
+    {
+      "case": "monterey",
+      "printed_pages": [
+        687,
+        755
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/monterey-official.txt",
+      "sha256": "bd5f6e1ea17a81994f9fc5a0665ae3e11453734d968c199bb42ad502486ca8ba"
+    },
+    {
+      "case": "california-dental",
+      "printed_pages": [
+        756,
+        794
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/california-dental-official.txt",
+      "sha256": "ba9c8409e88a4b36dbcdef329dd91241c7a555b7e4b0df72747d4f472034884e"
+    },
+    {
+      "case": "cleveland",
+      "printed_pages": [
+        795,
+        807
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/cleveland-official.txt",
+      "sha256": "b2c8ec8f41aaa7ea86338b456692844d84967492bb9e885635f5ad6468e6ca6b"
+    },
+    {
+      "case": "hanlon",
+      "printed_pages": [
+        808,
+        810
+      ],
+      "source": "https://www.supremecourt.gov/opinions/boundvolumes/526bv.pdf",
+      "file": "terms/OT1998/sources/chunk8-comparator/hanlon-official.txt",
+      "sha256": "a284a6e1393a51b45327fceced5b7bb1ccca4a65c382e2d2920279a7d02402e0"
+    }
+  ]
+}

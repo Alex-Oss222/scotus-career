@@ -1,0 +1,63 @@
+{
+  "status": "PASS",
+  "new_court_records": 11,
+  "preserved_prior_artifacts": 104,
+  "prior_artifacts_changed": [],
+  "projection_identity": 11,
+  "record_relative_links_checked": "all resolve, including anchors",
+  "public_workflow_leaks": [],
+  "explanation_word_counts": {
+    "clinton_v_goldsmith_merits_1999-05-17.md": [
+      145
+    ],
+    "florida_v_white_merits_1999-05-17.md": [
+      204
+    ],
+    "hunt_v_cromartie_merits_1999-05-17.md": [
+      174,
+      88
+    ],
+    "new_jersey_v_new_york_implementing_decree_1999-05-17.md": [
+      92
+    ],
+    "ruhrgas_ag_v_marathon_oil_co_merits_1999-05-17.md": [
+      207
+    ],
+    "maine_green_party_v_maine_merits_1999-05-20.md": [
+      150
+    ],
+    "california_dental_association_v_ftc_merits_1999-05-24.md": [
+      146,
+      156,
+      127,
+      115
+    ],
+    "cleveland_v_policy_management_systems_merits_1999-05-24.md": [
+      162,
+      161
+    ],
+    "davis_v_monroe_county_board_of_education_merits_1999-05-24.md": [
+      208,
+      158,
+      127
+    ],
+    "hanlon_v_berger_merits_1999-05-24.md": [
+      153,
+      118,
+      208,
+      125
+    ],
+    "wilson_v_layne_merits_1999-05-24.md": [
+      202,
+      226
+    ]
+  },
+  "decree_courses": 182,
+  "decree_and_map_exact": true,
+  "ledger_records": 98,
+  "manifest_completed_chunk8": 11,
+  "nonjudicial_reconciliations": 1,
+  "stopped_chunk8": 0,
+  "unchanged_other_inventory_rows": 116,
+  "git": "Not invoked; object verification reserved to operator"
+}

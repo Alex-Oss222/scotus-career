@@ -1,0 +1,294 @@
+
+
+
+  
+    992 F.2d 365
+    
+    
+    
+    
+    
+
+  
+  
+    
+992 F.2d 365
+
+    
+LIBERTARIAN PARTY OF MAINE, et als., Plaintiffs, Appellants,
+v.
+G. William DIAMOND, Etc., Defendant, Appellee.  (Two Cases).
+
+    
+Nos. 92-2026, 92-2061.
+
+    
+United States Court of Appeals,
+First Circuit.
+
+    
+Heard Jan. 4, 1993.
+Decided April 30, 1993.
+
+    
+
+      
+Glenn S. Eddy with whom Berman & Simmons, P.A., Lewiston, ME, was on brief for plaintiffs, appellants.
+
+      
+Cabanne Howard, Deputy Atty. Gen., with whom Michael E. Carpenter, Atty. Gen., Augusta, ME, was on brief for defendant, appellee.
+
+      
+Before TORRUELLA and CYR, Circuit Judges, and BOWNES, Senior Circuit Judge.
+
+      
+CYR, Circuit Judge.
+
+    
+
+    
+
+      1
+      
+The Libertarian Party of Maine ("Party") and seventeen of its candidates for elective office ("appellant candidates") challenge a district court ruling upholding the constitutionality of Maine's ballot-access requirements, 21-A M.R.S.A. § 301 et seq.   We affirm.
+
+    
+
+    
+
+      2
+      
+* Under Maine law, a group of voters seeking recognition as a new political party may "qualify" in either of two ways.   First, the voter group may petition the Secretary of State to participate as a political party in the primary election;  the petition must be signed by voters numbering at least 5% of the votes cast in the preceding gubernatorial election.   See 21-A M.R.S.A. § 303(1).   Second, the group may organize a political party around a prior candidate for the office of Governor or President who (1) was not affiliated with a registered party;  (2) consents in writing;  and (3) received more than 5% of the total Maine vote cast for the office of Governor or President, as the case may be, in the immediately preceding gubernatorial or presidential election.   See id. at § 302(1).   A party which organizes itself under § 302(1), on the "coattails" of a prior independent candidate for office, need not demonstrate contemporaneously the level of voter support defined in § 303(1), but the party's candidates remain subject to the numerical voter-support requirements for later listing on the general election ballot.   See id. at § 304.
+
+    
+
+    
+
+      3
+      
+Party recognition entails certain benefits, including public exposure, the prestige of "official" status, automatic listing of the party's presidential candidate on the election ballot, see id. at § 331(2)(A), and the right to raise funds by means of a special check-off box on the Maine income tax form.   See 36 M.R.S.A. § 5283.   With these benefits come certain responsibilities, including the obligation to hold municipal caucuses during election year, 21-A M.R.S.A. §§ 301(1)(A), 311;  to hold a biennial state convention, id. at § 301(1)(B), 321;  and to nominate candidates for office through a primary election process, id. at § 331(1).   The primary election process is intended to control "ballot clutter" by ensuring that each political party nominates only one candidate for any particular office, and that the party nominee possesses the prescribed levels of support within his or her party and the general electorate.   See Opinion of Justices of the Supreme Judicial Court, 578 A.2d 183, 186 (Me.1990).
+
+    
+
+    
+
+      4
+      
+To qualify for the primary election ballot, a party candidate must present the Secretary of State, not later than April 1, with a petition signed by enough enrolled party members to demonstrate the level of party support prescribed for the particular "electoral division" to which the candidate seeks election.   Id. at § 335(5).   The required levels of petition support are shown in Table I.
+
+    
+
+    
+
+      5
+                                          TABLE 1
+                 Number of Signatures Required to Qualify For
+                Primary Ballot (Registered Party Candidates) *
+President of the United States                                  2000 signatures
+United States Senator                                           2000 signatures
+State Governor                                                  2000 signatures
+United States Representative                                    1000 signatures
+County offices (other than County                                150 signatures
+  Commissioner)
+State Senator                                                    100 signatures
+County Commissioner                                               50 signatures
+State Representative                                              25 signatures
+* Signatures may come only from enrolled members of prospective candidate's
+  party.
+    
+
+    
+
+      6
+      
+A party candidate who does not obtain the signatures required to qualify for the primary election ballot may still qualify for the general election ballot by winning a plurality of the party's primary election write-in vote.   Id. at § 723(1)(A).   The write-in voting process is not restricted to members of the candidate's political party, but is open to any registered voter who is eligible to participate in the party primary.   Id. at § 340.   On the other hand, a successful write-in candidate must obtain votes totalling twice the number of signatures which would have been required to qualify for listing on the primary ballot under § 335(5).   See id. at 723(1)(A).
+
+    
+
+    
+
+      7
+                                         TABLE II
+                 Number of Signatures Required to Qualify For
+               General Election Ballot by Nomination Petition *
+                    or by Write"In Vote in Party Primary **
+Presidential elector                                            4000 signatures
+United States Senator                                           4000 signatures
+Governor                                                        4000 signatures
+United States Representative                                    2000 signatures
+County office (other than County                                 300 signatures
+  Commissioner)
+State Senator                                                    200 signatures
+County Commissioner                                              100 signatures
+State Representative                                              50 signatures
+* Signatures may come from any registered voter regardless of party
+  affiliation.
+** Write-in votes may come from any registered voter whom the party
+  declares eligible to participate in the party's primary (including
+  independent voters).
+    
+
+    
+
+      
+
+        
+Candidates who are not enrolled in a "qualified" party, or who withdraw their party affiliation at least three months in advance, see id. at § 353, may qualify for Maine's general election ballot through a third process, a nomination petition.   Id. at § 351.   The nomination petition must bear the names, signatures and addresses of enough registered voters, regardless of party affiliation, to meet the prescribed level of support for the particular "electoral division" to which the candidate aspires.   Id. at § 354(1)-(2).   Generally speaking, the number of signatures required on a nomination petition for any particular office is the same as that required for a write-in candidate to qualify at a party primary, see Table II, supra;  and totals twice the number of signatures a party candidate would be required to obtain on a primary petition.   See id. at § 354(5).   A prospective candidate may list a party name (or "political designation") of up to three words on the nomination petition, id. at § 354(1), and on the general election ballot if s/he qualifies.   Id. at § 602(2)(B).
+
+        
+II
+
+        
+For some time, the Libertarian Party has participated in Maine elections, apparently without achieving the level of voter support needed to qualify as an official political party under § 303.1  In January 1991, however, Andrew Adam, an independent candidate who won 9% of the vote in the 1990 Maine gubernatorial election, permitted the Party to use his name to bypass the nomination-petition process and qualify automatically as a political party under the "coattail" provisions of § 302(1).   Following its certification as an "official" party, the Party made diligent efforts to attract members.   By the date of the primary election on June 9, 1992, it had enrolled 1,048 registered voters statewide, but did not have sufficient concentrations of membership support to satisfy the signature requirements under § 335 for getting the appellant candidates on the primary election ballots in their respective districts.2  The appellant candidates participated as write-in candidates in the Party primary, and in some instances won a plurality of the write-in votes cast in their respective districts,3 but the total number of their write-in votes was insufficient to qualify the appellant candidates for the general election ballot under § 723(1)(A).4
+
+        
+Anticipating its candidates' inability to qualify for the general election ballot through the prescribed statutory process, the Party amended its by-laws on May 17, 1992, to permit its candidates in the general election to be nominated at the Party convention.   Following their nomination, the names of the appellant candidates were submitted to defendant-appellee, Secretary of State William Diamond ("Secretary"), who declined to place their names on the general election ballot, citing the mandatory language of the Maine election code.   See id. at § 331(1) ("a party's nomination of a candidate for federal, state or county office shall be made by primary election ") (emphasis added);  § 7 ("[w]hen used in this Title, the words 'shall' and 'must' are used in a mandatory sense to impose an obligation to act or refrain from acting").
+
+        
+On August 10, 1992, the Party brought an action for injunctive relief against the Secretary, challenging, inter alia, the constitutionality of Maine's ballot-access restrictions.   Following an expedited hearing, the district court dismissed the action.   See Libertarian Party of Maine v. Diamond, 799 F.Supp. 1 (D.Me.1992).   We denied injunctive relief pending appeal, on the ground that appellants had not shown a likelihood of success on the merits of their constitutional claim.   In the 1992 general election, no Party candidate was elected to any state office.   The Party's presidential candidates, Andrew Marrou and Nancy Lord, who were "automatically" listed on the general election ballot, received approximately one-quarter of one percent of the Maine popular vote.5
+
+        
+Reiterating their constitutional claims on appeal, appellants note that a Party candidate may be denied access to the general election ballot under the Maine election code, even if s/he commands the support of a plurality of the voters participating in the Party's district primary, unless s/he also shows that the Party itself has sufficient support, in the particular electoral subdivision, to enable the candidate (1) to gather the requisite signatures from Party members to qualify for the primary ballot under § 335(5);  or (2) to qualify for the general election ballot by obtaining sufficient voter participation in a write-in election under § 723(1)(A).   Appellants assert that these additional requirements are unnecessary and unconstitutionally burdensome, since the Party has already qualified, under 21-A M.R.S.A. § 302, as an organization possessing "statewide support."   Furthermore, appellants assert, if any additional showing of support is necessary, the Party should be able to rely on demonstrations of support from other voters outside the Party ranks.
+
+        
+III
+
+        
+Limitations upon ballot access may impinge two fundamental constitutional rights:  "the right of individuals to associate for the advancement of political beliefs, and the right of qualified voters, regardless of their political persuasion, to cast their votes effectively."   See Williams v. Rhodes, 393 U.S. 23, 30, 89 S.Ct. 5, 10, 21 L.Ed.2d 24 (1968);  see also, e.g., Munro v. Socialist Workers Party, 479 U.S. 189, 193, 107 S.Ct. 533, 536, 93 L.Ed.2d 499 (1987);  Illinois State Board of Elections v. Socialist Workers  Party, 440 U.S. 173, 184, 99 S.Ct. 983, 990, 59 L.Ed.2d 230 (1979).   Where ballot access restrictions fall unequally on similarly situated parties or candidates, the Fourteenth Amendment right to "equal protection of the laws" may be threatened as well.   See Anderson, 460 U.S. at 786 n. 7, 103 S.Ct. at 1569 n. 7;   Lubin v. Panish, 415 U.S. 709, 713-14, 94 S.Ct. 1315, 1318-19, 39 L.Ed.2d 702 (1974);   Bullock v. Carter, 405 U.S. 134, 141, 92 S.Ct. 849, 855, 31 L.Ed.2d 92 (1972);   Williams, 393 U.S. at 30-34, 89 S.Ct. at 10-12.   The Supreme Court has recognized, nevertheless, that "as a practical matter, there must be substantial regulation of elections if they are to be fair and honest and if some sort of order, rather than chaos, is to accompany the democratic processes."   Storer v. Brown, 415 U.S. 724, 730, 94 S.Ct. 1274, 1279, 39 L.Ed.2d 714 (1974).   This legitimate interest in reasonable regulation is based not only on "common sense," Burdick v. Takushi, --- U.S. ----, ----, 112 S.Ct. 2059, 2063, 119 L.Ed.2d 245 (1992), but also on the Article I reservation to the States of the power to prescribe "Times, Places, and Manner of holding Elections for Senators and Representatives."   U.S. Const., Art.  I, § 4, cl. 1.   Accordingly, courts have attempted a constitutional equilibrium between the legitimate constitutional interests of the States in conducting fair and orderly elections and the First Amendment rights of voters and candidates, balancing
+
+        
+"the character and magnitude of the asserted injury to the rights protected by the First and Fourteenth Amendments that the plaintiff seeks to vindicate" against "the precise interests put forward by the State as justifications for the burden imposed by its rule," taking into consideration "the extent to which those interests make it necessary to burden the plaintiff's rights."
+
+        
+Burdick, --- U.S. at ----, 112 S.Ct. at 2063 (quoting Anderson, 460 U.S. at 789, 103 S.Ct. at 1570).  "Only after weighing all these factors is the reviewing court in a position to decide whether the challenged provision is unconstitutional."  Anderson, 460 U.S. at 789, 103 S.Ct. at 1570.
+
+        
+A. "Substantial Support"
+
+        
+As the Supreme Court repeatedly has held, States have a legitimate interest in "protect[ing] the integrity of the electoral process" by ensuring that "all candidates for nomination make a preliminary showing of substantial support" among voters in the relevant electoral districts.   Over the years, the Court has articulated the "support" requirement in various ways, but its broad outlines are clear.   See, e.g., Munro, 479 U.S. at 193, 107 S.Ct. at 536 ("modicum of support among the potential voters for the office");  Anderson, 460 U.S. at 788-89 n. 9, 103 S.Ct. at 1569-70 n. 9 ("preliminary showing of substantial support");  American Party of Texas v. White, 415 U.S. 767, 782, 94 S.Ct. 1296, 1307, 39 L.Ed.2d 744 (1974) ("significant, measurable quantum of community support");  Lubin, 415 U.S. at 715, 94 S.Ct. at 1319 ("serious candidates with some prospects of public support");  Jenness v. Fortson, 403 U.S. 431, 442, 91 S.Ct. 1970, 1976, 29 L.Ed.2d 554 (1971) ("significant modicum of support").   The "support" requirement is meant to safeguard the integrity of elections by avoiding overloaded ballots and frivolous candidacies, which diminish victory margins, contribute to the cost of conducting elections, confuse and frustrate voters, increase the need for burdensome runoffs, and may ultimately discourage voter participation in the electoral process.   See Illinois State Board  of Elections, 440 U.S. at 183-84, 99 S.Ct. at 989-90 (quoting  Lubin, 415 U.S. at 715, 94 S.Ct. at 1319);   Bullock, 405 U.S. at 145, 92 S.Ct. at 857.   A State is permitted to consider a party's primary-election performance as a relevant factor in its measurement of "significant support."   See, e.g., Munro, 479 U.S. at 196-197, 107 S.Ct. at 538 (upholding requirement that minor parties poll 1% of participating electorate in primary election;  observing that "[t]he primary election ... is 'an integral part of the entire election process ... [that] functions to winnow out and finally reject all but the chosen candidates' ").  "The State can properly reserve the general election ballot 'for major struggles.' "   Id. (quoting  Storer, 415 U.S. at 735, 94 S.Ct. at 1281).
+
+        
+The Party argues that its qualification as a political party under the § 302 "coattail" provision was enough to demonstrate "substantial support" among the Maine electorate.   We do not agree.   By choosing to qualify under the "coattail" provision, the Party bypassed the requirement of mustering significant numerical support among eligible voters, rather than demonstrating its capacity to do so.   As far as the record shows, the Party has submitted no petitions, enrolled few members, and garnered little support for the candidates who ran under its banner in the 1992 and earlier elections.   Indeed, its only significant sponsorship to date has been the endorsement of Andrew Adam, whose 9% showing in the 1990 gubernatorial elections may have suggested an ability to interest independents in Party enrollment, but clearly did not ensure that such support could or would be obtained.   In these circumstances, we think the State retained a legitimate interest in ensuring that the Party in fact possessed a minimal level of support among the electorate, as a prerequisite to listing the appellant candidates on the primary and general election ballots.6
+
+        
+Moreover, even if we were to accept the Party's premise--that Adam's coattails invested the Party with some similitude of "statewide support"--more would be required.   The Supreme Court recently confirmed that a State possesses a separate, and additional, interest in ascertaining that a political party which nominates candidates for office in an electoral subdivision of a larger political unit demonstrate support in the particular electoral subdivision for which the candidate is nominated.   See Norman v. Reed, 502 U.S. ----, ----, 112 S.Ct. 698, 708, 116 L.Ed.2d 711 (1992) (rejecting "overall" showing of support as basis for nominating local candidate;  "[a] Party [may not] cite its success in [one] district as a sufficient condition for running candidates in the [other]").  The Norman requirement makes sound electoral sense:  the potential for "confusion and frustration" when statewide election ballots are overloaded with candidacies who lack even a modicum of support among eligible voters poses similar risks in local and district elections.   As all appellant candidates sought elective office at the local or district level, rather than statewide,7 the State had a legitimate interest in ensuring a modicum of candidate support among the relevant voter constituencies, over and above any general support which might be imputed to the Party based on Adam's "statewide" success in 1990.
+
+        
+B. Regulating Primary Participation
+
+        
+States possess a comparable interest in ensuring that a party's nominating process includes sufficient participation by the party's own members or supporters.   Absent some level of participation by party members, the integrity of party nominations might be compromised by "party raiding," whereby "voters in sympathy with one party ... influence or determine the results of another party's primary," Rosario, 410 U.S. at 761-62, 93 S.Ct. at 1251-52, which in turn could threaten the integrity of general elections and dilute the informative function of a party's label as a description of its collective political purpose.   See Tashjian, 479 U.S. at 220-21, 107 S.Ct. at 551-52 (noting "informative function" of party labels as "shorthand designation of the views of [the] party['s] candidates on matters of public concern");  Rosario, 410 U.S. at 762, 93 S.Ct. at 1252 (noting State's asserted interest in preventing primary votes which are "not in sympathy with the party's principles").
+
+        
+Appellants correctly suggest that the Supreme Court, in Tashjian, minimized the significance of the State's interest in "attempting to act as the ideological guarantor of [a particular] Party's candidates," 479 U.S. at 218, 107 S.Ct. at 550, and reaffirmed its "faith in the ability of individual voters to inform themselves about campaign issues," id.  (quoting Anderson, 460 U.S. at 796, 103 S.Ct. at 1574).   In arriving at this conclusion, however, the Court specifically noted the state-law requirement that parties maintain a certain level of support among the general electorate, see id. 479 U.S. at 211 n. 2, 107 S.Ct. at 547 n. 2, and that party candidates thereafter "garner substantial minority support" at the Party's "closed" convention:
+
+        
+The Party is not proposing that independents be allowed to choose the Party's nominee without Party participation;  on the contrary, to be listed on the Party's primary ballot continues to require, under a statute not challenged here, that the primary candidate have obtained at least 20% of the vote at a Party convention, which only Party members may attend.
+
+        
+Id. at 220-21, 107 S.Ct. at 552 (emphasis added).   In light of the Tashjian Court's explicit reference to a "closed" nomination process, by a Party possessing "substantial support" among the general electorate, we do not think Tashjian signals a retreat from the position that the State may impose reasonable safeguards to ensure active participation by a significant number of a party's members or supporters in the course of the nominating process.
+
+        
+C. Burden on Associational Interests
+
+        
+We next consider the burdensomeness of Maine's electoral scheme.   Like all such schemes, Maine's ballot-access restrictions "inevitably affect[ ]--at least to some degree--the individual's right to vote and his right to associate with others for political ends."  Anderson, 460 U.S. at 788, 103 S.Ct. at 1570.   After carefully examining the effects of Maine's nomination procedures, the district court concluded that the challenged ballot-access requirements were neither inappropriate to their purposes nor unconstitutionally burdensome.   We agree.
+
+        
+As the district court noted, the levels of electoral support Party candidates are required to demonstrate in order to get on the Party's primary ballot are not high:
+
+        
+The record shows that there are approximately 876,000 registered voters in Maine.   In Maine there are two Congressional seats, 35 state senate seats, and 151 state representative seats.   If each electoral division has an equal number of voters, then each Congressional district would have approximately 438,000 voters, each state senate district would have approximately 25,000 voters, and each state representative district would have approximately 5,800 voters.   The requirements for primary petition signatures for these three districts are 1,000, 100 and 25, respectively.   Therefore, the numbers [of Party members' signatures] that an aspiring Libertarian candidate for each of these positions would need amount to 0.22%, 0.4%, and 0.43%, respectively, of the registered voters in each district.
+
+        
+799 F.Supp. at 4.   We endorse the district court's view that these signature requirements indeed are modest in numerical terms.   Compare, e.g., American Party, 415 U.S. at 783, 94 S.Ct. at 1307 (upholding requirement that 1% of voters in last gubernatorial election must participate in minor parties' precinct conventions or sign supplemental nominating petitions for statewide candidates;  "[t]o demonstrate this degree of support does not appear either impossible or impractical, and we are unwilling to assume that the requirement imposes a substantially greater hardship on minority party access to the ballot");  see also Burdick, --- U.S. at ----, 112 S.Ct. at 2064 (1% of all registered voters for party participation in statewide primary);  Illinois State Board of Elections, 440 U.S. at 186, 99 S.Ct. at 991 (25,000 signatures for statewide office);  Storer, 415 U.S. at 740, 94 S.Ct. at 1284 (325,000 signatures statewide in 24 days);  Jenness, 403 U.S. at 431, 91 S.Ct. at 1970 (5% of state's registered voters).8
+
+        
+Unlike the statutes under challenge in American Party and other cases, however, the Maine statute requires Party candidates to obtain the signatures of Party members, as opposed to independent voters or voters enrolled in other political parties.9  Accordingly, the Party insists, the onerousness of the signature requirements must be defined, for constitutional purposes, as a percentage of party membership (the "eligible pool of possible signers"), rather than the entire electorate.   See Storer, 415 U.S. at 742-43, 94 S.Ct. at 1285.   Any broader view, says the Party, would treat all registered voters as potential Party enrollees, "amount[ing] to forced political association" violative of First Amendment rights.   See Democratic Party v. Wisconsin, 450 U.S. at 122, 101 S.Ct. at 1019 ("the freedom to associate for the 'common advancement of political beliefs' necessarily presupposes the freedom to identify the people who constitute the association, and to limit the association to those people only") (quoting Kusper v. Pontikes, 414 U.S. 51, 56, 94 S.Ct. 303, 307, 38 L.Ed.2d 260 (1973));  Consumer Party, 633 F.Supp. at 889-90 ("a party may not be essentially required to broaden its message or appeal in an effort to increase its membership;  a group's associative rights depend on having as members only those who share a particular vision and collective purpose");  see also Roberts v. United States Jaycees, 468 U.S. 609, 623, 104 S.Ct. 3244, 3252, 82 L.Ed.2d 462 (1984) ("freedom of association ... plainly presupposes a freedom not to associate").10
+
+        
+Viewed as the Party urges, the Maine scheme indeed would appear onerous;  the Party lacks sufficient membership support in many districts and counties to meet the primary-ballot access requirements of § 335.   We see the issue somewhat differently, however.   We need not decide whether there may be circumstances in which significant constitutional problems would result from a regulatory scheme which precluded candidate access to a party's ballot by different means than those under challenge in this case.   If such limits exist, it suffices to say that they have not been reached under the Maine electoral scheme.
+
+        
+First, the burden about which the Party complains is self-imposed, for the most part.   Under Maine law, a party which adopts restrictive membership policies is not required to assume "qualified" status under § 301, et seq., or to assume the burdens of the primary nomination requirement imposed by § 331.   Indeed, a party can choose to "disqualify" itself at any time up to April 15 of an election year, even after submitting the party designation and consent of its "coattail" candidate under § 302(1), merely by eschewing the municipal caucuses required by § 302(3), or by instructing its party chairman to withhold the signed certificate of caucus participation required by § 301(1)(D).11  If a party voluntarily chooses--or continues--to pursue the § 302 procedure for electoral participation as a "qualified" party, it must be understood to have assumed the burden of maintaining membership rolls sufficient to nominate candidates through the primary election process.
+
+        
+Second, and equally important, a party which chooses not to participate in primary elections as a "qualified" party retains the option to qualify candidates for the statewide election ballot through the § 351 "nomination petition" procedure.   The Party has offered no evidence whatever to suggest that this alternate route to the printed ballot is substantially more burdensome for a small party than a primary-qualification procedure.12  In fact, in the 1992 elections, at least three independent candidates for President--Lenora Fulani, H. Ross Perot, and Howard Phillips--mustered the requisite 4000 signatures and qualified by petition to be listed, along with their chosen "political designation," on Maine's general election ballot.   As the Supreme Court recognized in Jenness, 403 U.S. at 441-42, 91 S.Ct. at 1975, a nomination petition procedure for ballot access by new or small political parties is not inherently impermissible, merely because it is different from the procedure permitted for larger parties, provided the procedure imposes no undue burden.  "There are obvious differences in kind between the needs and potentials of a political party with historically established broad support, on the one hand, and a new or small political organization on the other.  [A State is not] guilty of invidious discrimination in recognizing these differences and providing different routes to the printed ballot."  Id.;  see also Munro, 479 U.S. at 193, 107 S.Ct. at 536 ("[i]t is now clear that States may condition access to the general election ballot by a minor-party or independent candidate upon a showing of a modicum of support [in a primary election] among the potential voters for the office");  American Party, 415 U.S. at 782, 94 S.Ct. at 1307 ("so long as the larger parties must demonstrate major support among the electorate at the last election, whereas the smaller parties need not, the latter, without being invidiously treated, may be required to establish their position in some other manner").
+
+        
+Finally, even if a small party chooses to "qualify" under § 302, and to nominate its political candidates under the primary election procedure, Maine law provides a means by which party candidates may gain access to the general election ballot by soliciting support from unenrolled registered voters through write-in ballots cast in the primary election.   The write-in ballot option ensures that no qualified primary voter is denied the opportunity freely to vote for the candidate of his or her choice, and that a small party which is unable to meet the minimal membership requirements for listing any candidates on its primary ballot, despite "significant support" among the general electorate in a particular district, may nonetheless nominate the candidate who receives a plurality of primary voter support.  Unity Party v. Wallace, 707 F.2d 59, 62 (2d Cir.1983) (write-in candidacy is acceptable alternative to ballot listing where ballot access requirement imposes de minimis encumbrance).   The one impediment is that the successful primary candidate's write-in plurality must be sufficient to satisfy the numerical requirements of § 723(1)(A) (which are, in any event, the same as the "nomination petition" requirements of § 351).13  See supra note 12.
+
+        
+IV
+
+        
+CONCLUSION
+
+        
+Under Maine's election code, small political parties may choose to "qualify" under the "sponsorship" procedure established in § 302(1), postponing any showing of "significant community support" under § 303, if the party, its sponsor, and its candidates believe they can enroll enough members to meet the requirements of primary ballot access under §  335(5).   If the party is unable to meet these requirements for primary ballot access, it may either (1) draw on independent voters in its primary, mustering a qualifying number of write-in votes for its party candidates, under § 723(1)(A), or (2) disqualify itself under § 302(3), and proceed under the "nomination petition" process of § 351.   The Libertarian Party attempted to enroll members under § 302(1), but failed.   Rather than elect disqualification, the Party then chose to muster independent voters to its primary banner under the § 338 write-in process.   It again failed to show "significant support."   Under these circumstances, we do not believe that appellants' constitutional rights, or the rights of the Party's members or other prospective voters, were impermissibly burdened by the Party's subsequent exclusion from the general election ballot.
+
+        
+Affirmed.
+
+        
+1 In May 1984, the Party sought to place its presidential candidates on the Maine ballot by means of a nomination petition, but fell short of the 4000 signatures required under the statutory predecessor to § 354.   The Maine Supreme Judicial Court rejected the Party's challenge to the signature requirement, and denied the Party's motion to enjoin the Secretary to place the candidates' names on the general election ballot.   See Crafts v. Quinn, 482 A.2d 825 (Me.1984).   In June 1990, the Party began an organizing campaign to "qualify" as an official political party under the § 303 petition process, which apparently fell short of the level of voter support required by § 303(1).
+
+        
+2 Two of the Party's candidates, Victoria Linne and Carleton Mabee, did meet the signature requirements for listing on the primary ballot for the office of State Representative.   Both received a plurality of votes in their respective districts in the Party primary (Linne received 26 votes, Mabee received 2 votes), and both qualified for the November general election ballot under § 331.   Neither is named as a party to this appeal.
+
+        
+3 Some of the appellant candidates failed to obtain a plurality of support in the Party primary.   For example, Charles Potratz, the candidate nominated at the Party convention to represent Senate District 4, finished third in the District primary (one write-in vote) behind Charles Webster and Dana White (each with four votes).   In Maine's Second Congressional District, the Party's nominated candidate, Paul Fichtner, finished second (22 votes) to Olympia Snowe (30 votes).
+
+        
+4 A total of 103 write-in votes were cast, for 23 candidates, to determine the Party's nominees for Maine's two Congressional seats.   The poor showing occurred despite the fact that the Party permitted independent voters as well as Party members to participate in its primary.   The Secretary of State represented at oral argument that independent (unenrolled) voters make up approximately one-third of the Maine electorate, i.e., approximately 300,000 voters statewide.
+
+        
+5 Because the Party's presidential candidates failed to poll the 5% voter support needed to maintain "official party" status, the Secretary contends that the Party lost its standing as a "qualified" party under Maine law, and that its constitutional claim is moot.   See 21-A M.R.S.A. § 304 ("a party ... is not qualified to participate in a subsequent primary election unless it meets the requirements of § 301");  see also id. at § 301(1)(C) ("a party qualifies to participate in a primary election if ... its candidate for Governor or for President polled at least 5% of the total vote cast in the State for Governor or President in the last preceding gubernatorial or presidential election").   We reject the State's contention, for three reasons.
+
+        
+First, we do not assume that a party is in fact subject to disqualification under § 301(1)(C) where its candidates failed to poll 5% of the total vote in the preceding presidential election, but did succeed in polling the requisite 5% level of support in the preceding gubernatorial election.   As noted, Andrew Adam (who subsequently allowed the Party to petition for "official" status under his name) polled 9% of the vote in the 1990 gubernatorial election, and the Party contends that this showing "will carry the Party through the 1994 gubernatorial election," regardless of its performance in the intervening Presidential race.
+
+        
+Second, and more important, it may be that the process of disqualification under § 304 is not automatic, as it appears to require a formal determination by the Secretary, under § 305, that the Party has not met the requirements of § 301(1)(C).   To our knowledge, the Secretary has made no such official determination.   To the extent that such a determination is a prerequisite to party disqualification, the Party would retain its standing, and the State's argument would be groundless.
+
+        
+Finally, in all events the Party's complaint is one which is "capable of repetition, yet evading review."   See Anderson v. Celebrezze, 460 U.S. 780, 784 n. 3, 103 S.Ct. 1564, 1567 n. 3, 75 L.Ed.2d 547 (1983);  Democratic Party of United  States v. Wisconsin, 450 U.S. 107, 115 n. 13, 101 S.Ct. 1010, 1015 n. 13, 67 L.Ed.2d 82 (1981);   Storer v. Brown, 415 U.S. 724, 737 n. 8, 94 S.Ct. 1274, 1282-83 n. 8, 39 L.Ed.2d 714 (1974);   Rosario v. Rockefeller, 410 U.S. 752, 756 n. 5, 93 S.Ct. 1245, 1249 n. 5, 36 L.Ed.2d 1 (1973);   Dunn v. Blumstein, 405 U.S. 330, 333 n. 2, 92 S.Ct. 995, 998 n. 2, 31 L.Ed.2d 274 (1972).   So long as the challenged statutory scheme remains in effect, the Party and other small parties may qualify for "official" party status under § 302;  so long as they qualify without the necessary support to meet the signature requirements of § 335(5), the possibility exists that they will be "shut out" of ballot access, as alleged here.
+
+        
+6 We believe the absence of any prior numerical showing of support distinguishes this case from Tashjian v. Republican Party of Connecticut, 479 U.S. 208, 107 S.Ct. 544, 93 L.Ed.2d 514 (1986), and Consumer Party v. Davis, 633 F.Supp. 877 (E.D.Pa.1986), which the Party cites in its briefs on appeal.   In Tashjian, the Supreme Court invalidated a state law prohibiting the participation of independent voters in selecting convention-nominated candidates in a Republican Party primary.   But the Republican Party (with 425,695 registered members) already had demonstrated a "significant modicum of support" among the general voter population, under a legal standard substantially stricter than Maine imposes.   See id. at 211 n. 2, 107 S.Ct. at 547 n. 2 (citing Conn.Gen.Stat. § 9-372(5)(B) (1985)) (major parties, eligible to participate in primaries, must have "received ... at least twenty per cent of the whole number of votes cast for all candidates for governor" in the preceding election).   Clearly, in Tashjian the States retained little compelling interest, prior to the challenged elections, in reevaluating the Republican Party's "support."   Likewise, in Davis, a district court invalidated changes to Pennsylvania's ballot-access restrictions that had the effect of "disqualifying" a political party which (unlike the Party here) already had met signature requirements for demonstrating "significant support," under an earlier version of the statute at issue.   Although the Davis court did not rely on the Consumer Party's preexisting party status, that fact figures significantly in our evaluation of its precedential weight in the circumstances of this case.
+
+        
+7 Seven of the appellant candidates sought election in state senate districts;  eight in state representative districts;  and the remaining two as representative in each of Maine's two congressional districts.
+
+        
+8 The Party does not complain about, and we do not consider, the potential onerousness of the signature requirements for district and county offices under the Maine statute as a percentage of the total population of registered voters in those political subdivisions.
+
+        
+9 The apparent purpose of Maine's party-member signature requirement is to collapse into a single, administratively simpler requirement two legitimate State interests:  ensuring sufficient party support among the electorate and sufficient candidate support within the party.   We are persuaded that these State interests are constitutionally defensible individually and, in combination, impose no impermissible burden on associational rights in the present case.
+
+        
+10 The Party presented no evidence that its low membership levels are related to voluntary exercise of its associational right to exclude would-be members.   Nevertheless, challenges to the overbreadth of a statutory scheme, as impeding appellants' First Amendment associational rights, are widely recognized as exceptions to the rule that "a person to whom a statute may constitutionally be applied will not be heard to challenge that statute on the grounds that it may conceivably be applied unconstitutionally to others."   See Broadrick v. Oklahoma, 413 U.S. 601, 610, 93 S.Ct. 2908, 2915, 37 L.Ed.2d 830 (1973).
+
+        
+11 The April 15 caucus deadline occurs two weeks after the April 1 deadline for primary candidates to file nomination petitions under § 335(8).   Thus, any new or small party, uncertain of its membership support, may withhold the final certification necessary for "party qualification" while it attempts to enroll the members necessary to nominate its candidates to the primary election ballot.   If, by April 1, the required membership support is lacking in one or more electoral districts, the party may choose--simply by withholding the certification of caucus participation under § 302(3)--to nominate its candidates to the general ballot by the "nomination petition" procedure prescribed by § 351 et seq.
+
+        
+12 Although a "nomination petition" requires twice the number of signatures a party candidate would be required to obtain on a primary petition, see 21-A M.R.S.A. § 354(5), these signatures may be obtained from any registered voter, even voters enrolled in other parties.   Moreover, the number of required signatures is still quite low, compared to the signature requirements upheld as reasonable in other contexts by the Supreme Court.   See supra p. 373.   And a party which mobilizes its efforts toward garnering signatures on a nomination petition is spared "the Procrustean requirement of establishing elaborate primary election machinery."  Jenness, 403 U.S. at 438, 91 S.Ct. at 1974.
+
+        
+13 The Supreme Court frequently has disapproved write-in ballot alternatives to printed ballot access, where the write-in alternatives would have disadvantaged small party candidates opposing established party candidates whose names were printed on the same ballot.   See, e.g., Anderson, 460 U.S. at 799 n. 26, 103 S.Ct. at 1575 n. 26 (holding write-in procedure "not an adequate substitute for having the candidate's name appear on the [general election] ballot");  Lubin, 415 U.S. at 719 n. 5, 94 S.Ct. at 1321 n. 5 ("The realities of the electoral process ... strongly suggest that 'access' via write-in votes falls far short of access in terms of having the name of the candidate on the ballot....  [A candidate] relegated to the write-in provision [is] forced to rest his chances solely upon those voters who ... remember his name and take the affirmative step of writing it on the ballot").   However, in a small party primary such as that involved here, where no names are printed on the ballot, the Party's write-in candidates competed only against other write-in candidates;  they did not compete "head to head" against established party candidates whose printed names appeared on the ballot.   In these circumstances, the write-in procedure imposes little, if any, comparative disadvantage to small party candidates who are able to muster the requisite electoral support, and any awkwardness in the mechanics of the write-in process is adequately counterbalanced, in our view, by the State's legitimate interests in requiring that such support be demonstrated.
+
+      
+
+    
+
+    
+
+      
+CC∅ | Transformed by Public.Resource.Org
+
+    
+
+  
+

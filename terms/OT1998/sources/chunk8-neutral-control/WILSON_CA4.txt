@@ -1,0 +1,1594 @@
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+CHARLES H. WILSON; GERALDINE E.
+WILSON; RAQUEL WILSON, next
+friend/mother of Valencia Snowden,
+a minor,
+Plaintiffs-Appellees,
+v.
+HARRY LAYNE, Deputy, United
+States Marshal, Supervisor for the
+Washington Area, Operation
+Gunsmoke; JOSEPH L. PERKINS;
+JAMES A. OLIVO,
+No. 96-1185
+Defendants-Appellants,
+and
+RAYMOND M. KIGHT, Sheriff,
+Montgomery County, Maryland;
+JOHN DOE, Unknown Sheriff's
+Deputies; JOHN DOE, Unknown U.S.
+Marshals; UNITED STATES OF
+AMERICA; ERIC E. RUNION; MARK A.
+COLLINS; BRIAN E. ROYNESTAD,
+Defendants.
+
+
+CHARLES H. WILSON; GERALDINE E.
+WILSON; RAQUEL WILSON, next
+friend/mother of Valencia Snowden,
+a minor,
+Plaintiffs-Appellees,
+v.
+MARK A. COLLINS; ERIC E. RUNION;
+BRIAN E. ROYNESTAD,
+Defendants-Appellants,
+and
+No. 96-1188
+RAYMOND M. KIGHT, Sheriff,
+Montgomery County, Maryland;
+JOHN DOE, Unknown Sheriff's
+Deputies; HARRY LAYNE, Deputy,
+United States Marshal, Supervisor
+for the Washington Area, Operation
+Gunsmoke; JOHN DOE, Unknown
+U.S. Marshals; UNITED STATES OF
+AMERICA; JOSEPH L. PERKINS; JAMES
+A. OLIVO,
+Defendants.
+Appeals from the United States District Court
+for the District of Maryland, at Greenbelt.
+Peter J. Messitte, District Judge.
+(CA-94-1718-PJM)
+Argued: March 3, 1998
+Decided: April 8, 1998
+Before WILKINSON, Chief Judge, and WIDENER,
+MURNAGHAN, ERVIN, WILKINS, NIEMEYER, HAMILTON,
+LUTTIG, WILLIAMS, MICHAEL, and MOTZ, Circuit Judges.
+_________________________________________________________________
+                                2
+
+
+Reversed by published opinion. Judge Wilkins wrote the majority
+opinion, in which Chief Judge Wilkinson and Judges Niemeyer, Lut-
+tig, and Williams joined. Judge Widener wrote a concurring opinion.
+Judge Murnaghan wrote a dissenting opinion, in which Judges Ervin,
+Hamilton, Michael, and Motz joined.
+_________________________________________________________________
+COUNSEL
+ARGUED: Richard Adams Cordray, Grove City, Ohio, for Appel-
+lants. Richard Alan Seligman, Washington, D.C., for Appellees. ON
+BRIEF: Stuart M. Nathan, John B. Howard, Jr., OFFICE OF THE
+ATTORNEY GENERAL OF MARYLAND, Baltimore, Maryland,
+for Appellants. David H. Coburn, James S. Felt, STEPTOE & JOHN-
+SON, L.L.P., Washington, D.C.; Arthur B. Spitzer, AMERICAN
+CIVIL LIBERTIES UNION OF THE NATIONAL CAPITAL
+AREA, Washington, D.C., for Appellees.
+_________________________________________________________________
+OPINION
+WILKINS, Circuit Judge:
+Charles H. Wilson and Geraldine E. Wilson (the Wilsons)1 brought
+this action against federal and state law enforcement officers and oth-
+ers not pertinent to this appeal. The Wilsons allege that their Fourth
+and Fourteenth Amendment rights were violated when officers
+entered their home and sought to execute an arrest warrant for their
+son. See 42 U.S.C.A. § 1983 (West 1994); Bivens v. Six Unknown
+Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 395-97
+(1971). The district court granted summary judgment in part in favor
+of the officers, but refused to do so on the Wilsons' claim that the
+officers violated the Fourth Amendment by permitting two newspaper
+_________________________________________________________________
+1 Raquel Wilson joined the Wilsons as a plaintiff in this action on
+behalf of her daughter Valencia Snowden, the Wilson's grandchild who
+was present during a portion of the actions that form the basis of this
+lawsuit. For ease of reference, however, we refer only to the Wilsons as
+prosecuting this litigation.
+                                3
+
+
+reporters to accompany them into the Wilsons' home and photograph
+the officers' attempt to execute the arrest warrant. The officers appeal
+from the decision of the district court denying them qualified immu-
+nity with respect to this claim. We reverse.2
+I.
+The material facts are not disputed. On April 14, 1992, federal and
+state law enforcement agents were engaged in a joint effort to appre-
+hend fugitives with a history of armed, violent, criminal conduct. A
+team composed of Joseph L. Perkins and James A. Olivo of the
+United States Marshals Service and Mark A. Collins, Brian E. Royne-
+stad, and Eric E. Runion of the Montgomery County, Maryland Sher-
+iff's Department was formed to execute an outstanding arrest warrant.
+The warrant stated:
+THE STATE OF MARYLAND, TO ANY DULY AUTHO-
+RIZED PEACE OFFICER, GREETINGS: YOU ARE
+HEREBY COMMANDED TO TAKE DOMINIC JEROME
+WILSON IF HE/SHE BE FOUND IN YOUR BAILIWICK
+....
+J.A. 124. In addition, two newspaper reporters, one outfitted with a
+stillshot camera, were to accompany the officers to observe and
+chronicle the execution of the warrant.3  The reporters' participation
+was part of a two-week, news-gathering activity by the newspaper.
+During the early morning hours, the officers proceeded to the
+address listed in police reports, as well as probation and court records,
+as the fugitive's home. Upon entering the residence, the officers
+encountered a man dressed only in undergarments who was very
+_________________________________________________________________
+2 A panel of this court earlier issued a decision reversing the district
+court. See Wilson v. Layne, 110 F.3d 1071 (4th Cir. 1997). A majority
+of the judges in active service subsequently voted to consider this appeal
+en banc. After this hearing, a majority of the judges in active service
+voted to rehear this appeal en banc.
+3 At the time, the United States Marshals Service had adopted a written
+policy permitting members of the news media to "ride along" with its law
+enforcement officers in order to observe and record operational missions.
+                                4
+
+
+angry because of the intrusion. The confrontation between the man
+and the officers ultimately resulted in the officers subduing the man
+on the floor. In the meantime, a woman dressed in a sheer nightgown
+emerged from the back of the house. These two individuals were later
+identified as the Wilsons. The subject of the warrant, the Wilsons'
+son, was not present. Throughout these events, the reporters observed
+and photographed what transpired.4
+The Wilsons subsequently brought this action against the federal
+and state officers who comprised the arrest team that entered their
+home; the team's supervisor, Harry Layne; and others not pertinent
+to this appeal. The Wilsons asserted that their constitutional rights
+under the Fourth and Fourteenth Amendments were violated by the
+officers' actions in three ways: (1) the officers used excessive force
+in attempting to execute the arrest warrant; (2) the officers lacked
+probable cause to believe that the fugitive would be found at the Wil-
+sons' home; and (3) the officers permitted representatives of the
+media to enter the Wilsons' home to observe and photograph the exe-
+cution of the arrest warrant. Ruling on the officers' motion for sum-
+mary judgment, the district court dismissed the allegations of
+excessive force and lack of probable cause, concluding that the evi-
+dence viewed in the light most favorable to the Wilsons demonstrated
+that the amount of force the officers employed was reasonable and
+that the officers possessed probable cause to believe that the fugitive
+they sought would be found at the Wilsons' home. However, the dis-
+trict court rejected the officers' assertions that allowing the reporters
+to enter the Wilsons' home without their consent did not violate their
+constitutional rights. Furthermore, the district court refused to accept
+the officers' alternative argument that, at a minimum, they were enti-
+tled to qualified immunity because in April 1992, the law was not
+clearly established that permitting members of the media to accom-
+pany law enforcement officers into a private residence during the exe-
+cution of an arrest warrant was unconstitutional. The officers appeal
+this latter ruling.5
+_________________________________________________________________
+4 These photographs have never been published.
+5 The district court denied the Wilsons' request to certify for immediate
+appeal its rulings with respect to the allegations of excessive force and
+lack of probable cause to permit those issues to be considered in conjunc-
+                                5
+
+
+II.
+A.
+Government officials performing discretionary functions are enti-
+tled to qualified immunity from liability for civil damages to the
+extent that "their conduct does not violate clearly established statutory
+or constitutional rights of which a reasonable person would have
+known." E.g., Harlow v. Fitzgerald , 457 U.S. 800, 818 (1982);
+Winfield v. Bass, 106 F.3d 525, 530 (4th Cir. 1997) (en banc). Quali-
+fied immunity protects "all but the plainly incompetent or those who
+knowingly violate the law." Malley v. Briggs , 475 U.S. 335, 341
+(1986). It protects law enforcement officers from"bad guesses in gray
+areas" and ensures that they are liable only"for transgressing bright
+lines." Maciariello v. Sumner, 973 F.2d 295, 298 (4th Cir. 1992).
+Thus, although the exact conduct at issue need not have been held to
+be unlawful in order for the law governing an officer's actions to be
+clearly established, the existing authority must be such that the unlaw-
+fulness of the conduct is manifest. See Anderson v. Creighton, 483
+U.S. 635, 640 (1987); Pritchett v. Alford, 973 F.2d 307, 314 (4th Cir.
+1992) (explaining that "[t]he fact that an exact right allegedly violated
+has not earlier been specifically recognized by any court does not pre-
+vent a determination that it was nevertheless `clearly established' for
+qualified immunity purposes" and that "`[c]learly established' in this
+context includes not only already specifically adjudicated rights, but
+those manifestly included within more general applications of the
+core constitutional principle invoked"). The law is clearly established
+such that an officer's conduct transgresses a bright line when the law
+has "been authoritatively decided by the Supreme Court, the appropri-
+ate United States Court of Appeals, or the highest court of the state."
+Wallace v. King, 626 F.2d 1157, 1161 (4th Cir. 1980); see Cullinan
+_________________________________________________________________
+tion with the appeal of the question of the officers' entitlement to quali-
+fied immunity. As a result, the only issue pending before us is the
+qualified immunity inquiry. And, because the facts are undisputed, this
+question presents a purely legal inquiry into whether the law was clearly
+established when the underlying events occurred. Thus, we may properly
+consider this appeal. See Johnson v. Jones, 515 U.S. 304, 313 (1995);
+Winfield v. Bass, 106 F.3d 525, 528-30 (4th Cir. 1997) (en banc).
+                                6
+
+
+v. Abramson, 128 F.3d 301, 311 (6th Cir. 1997) (explaining that
+"[o]rdinarily, at least, in determining whether a right is `clearly estab-
+lished' this court will not look beyond Supreme Court and Sixth Cir-
+cuit precedent"), petition for cert. filed , 66 U.S.L.W. ___ (U.S. Feb.
+19, 1998) (No. 97-1342); Jenkins ex rel. Hall v. Talladega City Bd.
+of Educ., 115 F.3d 821, 826 n.4 (11th Cir. 1997) (en banc) (explaining
+that "the law can be `clearly established' for qualified immunity pur-
+poses only by decisions of the U.S. Supreme Court,[the] Eleventh
+Circuit Court of Appeals, or the highest court of the state where the
+case arose"), cert. denied, 118 S. Ct. 412 (1997).
+In analyzing an appeal from the rejection of a qualified immunity
+defense, our first task is to identify the specific right that the plaintiff
+asserts was infringed by the challenged conduct. See Taylor v.
+Waters, 81 F.3d 429, 433 (4th Cir. 1996). The court then must con-
+sider whether, at the time of the claimed violation, that right was
+clearly established and "`whether a reasonable person in the official's
+position would have known that his conduct would violate that
+right.'" Id. (quoting Gordon v. Kidd , 971 F.2d 1087, 1093 (4th Cir.
+1992)). Our review of the denial of summary judgment based on qual-
+ified immunity is de novo. See Pritchett, 973 F.2d at 313.
+B.
+The constitutional right that the Wilsons claim the officers violated,
+defined at the appropriate level of specificity, is their Fourth Amend-
+ment right to avoid unreasonable searches or seizures resulting from
+the officers' decision to permit members of the media who were not
+authorized to execute the warrant to enter into a private residence,
+without the homeowners' consent, to observe and photograph the exe-
+cution of an arrest warrant. The question before us, then, is whether
+in April 1992 this right was clearly established and whether a reason-
+able officer would have understood that the conduct at issue violated
+it.
+The Fourth Amendment provides in pertinent part,"The right of
+the people to be secure in their ... houses ... against unreasonable
+searches and seizures, shall not be violated." U.S. Const. amend. IV.
+By 1992, the Supreme Court had ruled that an entry into a home with-
+out a warrant is per se unreasonable unless an exception to the war-
+                                7
+
+
+rant requirement, such as exigent circumstances, exists. See Payton v.
+New York, 445 U.S. 573, 588-90 (1980); Coolidge v. New Hampshire,
+403 U.S. 443, 454-55 (1971). And, it is equally well settled that an
+officer executing a warrant is limited to those actions expressly autho-
+rized by the warrant, see Bivens, 403 U.S. at 394 n.7, or implicitly
+authorized because they are reasonable to advance a legitimate law
+enforcement purpose relating to the warrant or to ensure the officer's
+or the public's safety, see Michigan v. Summers , 452 U.S. 692, 705
+(1981). See also Lawmaster v. Ward, 125 F.3d 1341, 1349 (10th Cir.
+1997) (explaining that "because the touchstone of the constitutionality
+of an officer's conduct during a search is reasonableness, when exe-
+cuting a search warrant, an officer is limited to conduct that is reason-
+ably necessary to effectuate the warrant's purpose").
+Here, the officers entered the Wilsons' home pursuant to a valid
+arrest warrant. The officers did not exceed the scope of the warrant
+by permitting the reporters who accompanied them into the Wilsons'
+home to engage in activities that the officers could not themselves
+have undertaken consistent with the warrant. Specifically, the report-
+ers did not conduct a search of, or intrude into, any areas of the Wil-
+sons' home into which the officers would not have been permitted to
+go in executing the arrest warrant. Further, the reporters' photographs
+of the events did not amount to a seizure. The Supreme Court has
+indicated that a seizure occurs only when there has been a "meaning-
+ful interference with an individual's possessory interests in ... prop-
+erty." United States v. Jacobsen, 466 U.S. 109, 113 (1984); see also
+Arizona v. Hicks, 480 U.S. 321, 324 (1987) (recording the serial num-
+bers on equipment "did not meaningfully interfere with respondent's
+possessory interest in either the serial numbers or the equipment, and
+therefore did not amount to a seizure" (internal quotation marks omit-
+ted)). But see Ayeni v. Mottola, 35 F.3d 680, 688 (2d Cir. 1994). An
+application of this definition indicates that the photographic images
+captured by the reporters were not seized within the meaning of the
+Fourth Amendment. But, just as importantly for our purposes, it cer-
+tainly was not clearly established that photographing an arrest consti-
+tuted a seizure of the images recorded. Thus, reasonable officers
+under these circumstances had no clearly established law from the
+Supreme Court, this court, or the Court of Appeals of Maryland from
+which they necessarily understood that they exceeded the scope of an
+                                8
+
+
+arrest warrant by permitting reporters to engage in activities in which
+they themselves could have engaged consistent with the warrant.
+Furthermore, even if we were to agree with the Wilsons that in
+1992 it was clearly established that the Fourth Amendment was vio-
+lated if officers permitted third parties who were not expressly autho-
+rized by the warrant and who were not assisting reasonable law
+enforcement efforts related to the execution of the warrant to accom-
+pany them into a residence, we could not conclude that it was clearly
+established that the conduct in which these officers engaged mani-
+festly fell within the ambit of that rule. When this incident took place
+in 1992, there was no clear law from the Supreme Court, this court,
+or the Court of Appeals of Maryland establishing that permitting
+reporters to observe and photograph the events surrounding the exe-
+cution of an arrest warrant may not serve a legitimate law enforce-
+ment purpose related to execution of the warrant. And, reasonable law
+enforcement officers might conclude that permitting media represen-
+tatives to observe and photographically record the execution of an
+arrest warrant does serve such a purpose. For example, the purpose
+may be served by affording protection to the officers by reducing the
+possibility that the target of a warrant will resist arrest in the face of
+recorded evidence of his actions. Additionally, it could be asserted
+that facilitating accurate reporting that improves public oversight of
+law-enforcement activities is a legitimate law enforcement purpose
+because it deters crime, as well as improper conduct by law enforce-
+ment officers. In any event, we conclude that reasonable law enforce-
+ment officers could have believed that permitting the reporters to
+observe and photograph the execution of the arrest warrant advanced
+a legitimate law enforcement purpose related to the execution of the
+warrant.
+The dissent acknowledges that neither the Supreme Court nor this
+court had in 1992 addressed whether law enforcement officers violate
+the Fourth Amendment by permitting media representatives to accom-
+pany them into a private residence to observe and photograph the offi-
+cers' execution of an arrest warrant. The dissent nevertheless
+contends that our conclusion that the officers are entitled to qualified
+immunity is erroneous, asserting that it was clearly established that
+the Fourth Amendment prohibited government agents from bringing
+a private citizen into a home to conduct an independent search or sei-
+                                9
+
+
+zure. In support of its argument, the dissent points to the decision of
+this court in Buonocore v. Harris, 65 F.3d 347 (4th Cir. 1995),6 and
+to those of three other courts of appeals holding on facts similar to
+those at issue here that officers were not entitled to qualified immu-
+nity, see Berger v. Hanlon, 129 F.3d 505 (9th Cir. 1997);7 Ayeni v.
+Mottola, 35 F.3d 680 (2d Cir. 1994);8  Bills v. Aseltine, 958 F.2d 697
+_________________________________________________________________
+6 In Buonocore, an opinion decided long after the events at issue here,
+officers allowed a security guard to enter a private residence and conduct
+an independent search for property not authorized by a warrant.
+Buonocore, 65 F.3d at 350-51. In the appeal from the denial of summary
+judgment to the officers, we characterized the issue presented as whether
+it was clearly established on November 24, 1992 that"Fourth Amend-
+ment law prohibited government agents from bringing a private citizen
+into Buonocore's home to conduct an independent, general search for
+items not identified in any warrant." Id. at 353 (internal quotation marks
+omitted). And, we held that it was, reasoning:
+[W]e have no doubt that the Fourth Amendment prohibits gov-
+ernment agents from allowing a search warrant to be used to
+facilitate a private individual's independent search of another's
+home for items unrelated to those specified in the warrant. Such
+a search is not reasonable. It obviously exceeds the scope of the
+required specific warrant and furthermore violates the sanctity of
+private dwellings.
+Id. at 356 (internal quotation marks omitted). Buonocore, therefore,
+addressed the question of whether a third party, who is not authorized by
+the warrant to conduct a search, may accompany law enforcement offi-
+cers in executing a warrant and undertake an independent search for
+items not described in the warrant. Of course, the officers here permitted
+no such general independent search by the reporters.
+7 In Berger, decided more than five years after the events at issue here,
+the Court of Appeals for the Ninth Circuit ruled that officers who permit-
+ted media representatives to accompany them in executing a search war-
+rant for a private purpose not related to law enforcement efforts in 1993
+were not entitled to qualified immunity. See Berger, 129 F.3d at 510-12.
+8 In Ayeni, decided in 1994, the Court of Appeals for the Second Cir-
+cuit held that it was clearly established in March 1992 that officers vio-
+lated the Fourth Amendment when they permitted a television crew to
+enter a private residence and film the execution of a search warrant that
+provided no authorization for their presence. See Ayeni, 35 F.3d at 684-
+86. The court reasoned that although there were no decisions expressly
+                                10
+
+
+(6th Cir. 1992).9
+_________________________________________________________________
+holding that searching agents violate the Constitution by bringing mem-
+bers of the press into a home to observe and report on their activities, it
+had
+long been established that the objectives of the Fourth Amend-
+ment are to preserve the right of privacy to the maximum extent
+consistent with reasonable exercise of law enforcement duties
+and that, in the normal situations where warrants are required,
+law enforcement officers' invasion of the privacy of a home
+must be grounded on either the express terms of a warrant or the
+implied authority to take reasonable law enforcement actions
+related to the execution of the warrant.
+Id. at 686. Furthermore, the court held that an objectively reasonable
+officer could not have failed to appreciate "that inviting a television crew
+--or any third party not providing assistance to law enforcement--to
+participate in a search was [not] in accordance with Fourth Amendment
+requirements." Id.
+9 In Bills, which was decided approximately one month prior to the
+incident under review, the court held that law enforcement officers may
+violate the Fourth Amendment by permitting a security guard to accom-
+pany them into a private residence to execute a search warrant and to
+engage in an independent search for items that were not described in the
+warrant. See Bills, 958 F.2d at 702-05. The court explained:
+[W]here an intrusion is justified, whether by warrant or by prob-
+able cause and exigent circumstances, police are temporarily
+placed in control of the premises and its occupants. It is as
+though the premises were given to the officers in trust for such
+time as may be required to execute their search in safety and then
+depart. Officers in unquestioned command of a dwelling may
+violate that trust and exceed the scope of the authority implicitly
+granted them by their warrant when they permit unauthorized
+invasions of privacy by third parties who have no connection to
+the search warrant or the officers' purposes for being on the
+premises. The warrant in this case implicitly authorized the
+police officers to control and secure the premises during their
+search .... It did not implicitly authorize them to invite a private
+security officer to tour plaintiff's home for the purpose of finding
+[evidence not specified in the search warrant] ....
+                                11
+
+
+The decisions on which the dissent relies, however, do not per-
+suade us that the officers are not entitled to qualified immunity. Reli-
+ance on decisions issued after the events underlying this litigation,
+whether the decisions were decided by this court or others, is inappro-
+priate. See Mitchell v. Forsyth, 472 U.S. 511, 533-35 (1985). Cer-
+tainly law enforcement officers need not correctly anticipate future
+constitutional rulings on pain of personal liability. Further, as noted
+above, reliance on decisions from other circuits to determine that a
+given proposition of law is clearly established is inappropriate as a
+general matter, and we find no basis to depart from the general rule
+in this instance. Thus, the decisions of the other circuit courts of
+appeals cannot support a conclusion that the law was clearly estab-
+lished in our circuit. And finally, subsequent to the events giving rise
+to this litigation, at least one other court of appeals has held on similar
+facts that law enforcement officers were entitled to qualified immu-
+nity. See Parker v. Boyer, 93 F.3d 445, 447 (8th Cir. 1996), cert.
+denied, 117 S. Ct. 1081 (1997). Relying on the dearth of authority
+holding the conduct in question to be violative of the Fourth Amend-
+ment, the existence of decisions holding that these types of actions by
+law enforcement officers did not transgress constitutional principles,10
+_________________________________________________________________
+Id. at 704-05 (internal quotation marks omitted). Based on this reasoning,
+the Court of Appeals for the Sixth Circuit held that the officers' conduct
+presented a jury question concerning whether the officers had exceeded
+the scope of the search warrant and remanded for further proceedings.
+See id. at 705.
+10 Early cases considering the constitutionality of law enforcement offi-
+cers allowing members of the media to enter a private residence to
+observe or record the execution of a warrant are scarce. The few deci-
+sions that we have located on this issue are uniform in concluding that
+such conduct does not violate constitutional principles. See Moncrief v.
+Hanton, 10 Media L. Rep. (BNA) 1620, 1621-22 (N.D. Ohio Jan. 6,
+1984) (rejecting argument that police violated the Fourth Amendment by
+permitting media to enter home and film arrest on the basis that no pro-
+tected privacy interest was violated); Higbee v. Times-Advocate, 5 Media
+L. Rep. (BNA) 2372, 2372-73 (S.D. Cal. Jan. 9, 1980) (declining to
+accept plaintiff's assertion that officers violated his constitutional rights
+by inviting the press to be present during the execution of a search war-
+rant at his residence); Prahl v. Brosamle, 295 N.W.2d 768, 774 (Wis. Ct.
+                                12
+
+
+and the lack of Supreme Court direction on the question, the Parker
+court held that officers were entitled to qualified immunity. See id.
+Given that reasonable jurists can differ on this question, we cannot
+say that the law was so clear that a reasonable officer must have
+known his actions transgressed constitutional bounds.
+In asserting that no reasonable officer could have believed that the
+reporters were serving a legitimate law enforcement purpose, the dis-
+sent misunderstands the distinction between the reporters' aid in the
+actual execution of the warrant and other legitimate law enforcement
+purposes that the reporters may have facilitated by accompanying the
+officers to observe and record the attempt to execute the warrant. The
+dissent equates these two distinct concepts, assuming that unless, as
+a matter of historical fact, the officers intended for the reporters actu-
+ally to assist in the execution of the arrest warrant, reasonable officers
+must have known "full well that the reporters served no legitimate law
+enforcement purpose." Dissent at 27. In support of its argument that
+the officers did not intend for the reporters to aid in the actual execu-
+tion of the warrant, the dissent quotes a portion of the statement of
+the facts in the panel opinion, which observed that the reporters
+accompanied the officers as part of a two-week news gathering opera-
+tion that was not designed to serve a law enforcement purpose. The
+dissent also relies on a portion of the officers' brief in which they
+acknowledge that the reporters "were not involved in executing the
+warrant" but instead were "mere bystanders." Id. at 27 (internal quota-
+tion marks omitted).
+While it is undoubtedly true that neither the reporters nor the offi-
+cers envisioned that the reporters would provide assistance to the offi-
+cers in actually executing the arrest warrant, it is equally true that
+reasonable officers may have perceived that permitting the reporters
+to accompany them served a legitimate law enforcement function.
+Indeed, the media ride-along policy pursuant to which the reporters
+_________________________________________________________________
+App. 1980) (rejecting claim that officers infringed the Fourth Amend-
+ment by allowing a television reporter to enter plaintiff's property and
+film search, reasoning "that the filming and television broadcast of a rea-
+sonable search and seizure, without more, [do not] result in unreason-
+ableness").
+                                13
+
+
+accompanied the officers indicated that keeping the public informed
+of the activities of the Marshals Service was a duty of that agency and
+that media ride alongs advanced that interest. Further, reasonable offi-
+cers may have believed that the obvious increase to their safety
+afforded by the presence of the reporters constituted a legitimate law
+enforcement purpose.11 Moreover, the dissent overlooks that although
+the officers have readily acknowledged that there was no intent that
+the reporters aid in the execution of the warrant, the officers consis-
+tently have maintained that it was reasonable to believe that the
+reporters' presence served a legitimate law enforcement purpose:
+[I]t is in fact a legitimate function of law enforcement to
+facilitate accurate reporting on law-enforcement activities
+and to improve public oversight of those activities by use of
+the press. These efforts are important because both the
+deterrence of crime and the deterrence of improper conduct
+by law-enforcement officers are vital to the broader mission.
+The formal policy of the United States Marshals Service ...
+was directed to these ends.
+Reply Brief of Appellants at 6-7 (footnote omitted).
+Because the dissent fails to understand the distinction between an
+intent that the reporters assist in the actual execution of the warrant
+and a reasonable belief that permitting the reporters to accompany the
+officers served a legitimate law enforcement purpose, the dissent
+incorrectly concludes that no reasonable law enforcement officer who
+knew the former could believe the latter. Rather, in our view, a rea-
+sonable law enforcement officer apprised of the fact that the officers
+did not intend for the reporters to assist in actually executing the war-
+rant nevertheless reasonably could have concluded that permitting the
+reporters to accompany them while executing the warrant served a
+legitimate law enforcement purpose.
+_________________________________________________________________
+11 Of course, we do not hold that these purposes actually justified the
+reporters' presence while the warrant was executed; we merely hold that
+in the absence of clearly established law holding that they were not ade-
+quate to warrant their presence, reasonable officers may have believed
+them to be.
+                                14
+
+
+III.
+We stress that we do not address whether the officers' conduct was
+constitutional or appropriate, only whether the legal landscape when
+these events occurred was sufficiently developed that it would have
+been obvious to reasonable officers that the actions at issue were vio-
+lative of the Fourth Amendment. Because in April 1992 it was not
+clearly established that permitting media representatives to accom-
+pany law enforcement officers into a private residence to observe and
+photograph their attempt to execute an arrest warrant would violate
+the homeowner's constitutional rights, we hold that these officers are
+entitled to qualified immunity. Consequently, we reverse the decision
+of the district court refusing to grant summary judgment in favor of
+the officers.
+REVERSED
+WIDENER, Circuit Judge, concurring:
+I concur in the result obtained by the majority.
+I also concur in all of the majority opinion except the four sen-
+tences commencing with "and" on page 9, line 15, and ending with
+"warrant" on page 9, line 29. The conclusion there mentioned is not
+a question before us, and I would not express an advisory opinion
+upon it.
+MURNAGHAN, Circuit Judge, dissenting:
+News media (principally newspapers, journals, magazines, televi-
+sion and radio) have an abiding interest in collecting information and
+observing events connected with such information whenever they
+occur. The media most naturally find criminal activities and steps to
+punish the perpetrators fascinating to their readers, viewers and listen-
+ers. What goes on in court or what brings matters to court are high
+on the media's list of matters of interest. Understandably media
+devote much attention to the arrest of those accused of crime and a
+photograph of one being so arrested would be much desired by the
+media.
+                                15
+
+
+Not surprisingly, riding along with the police is regarded as a most
+valuable method of securing photographs and interviews with those
+sought by the police. Riding along causes few legal problems when
+done on the street or in other public places. However, some of the
+most interesting arrests occur in private locations, especially private
+homes. An intrusion into a home necessitates, in virtually every case,
+a warrant from a judicial officer, except where one of a few specifi-
+cally established and well-delineated exceptions applies. When
+requested, such a warrant in virtually every case is issued to the
+police.
+On April 14, 1992, Judge Ruben of Maryland's Sixth Judicial Cir-
+cuit issued three warrants for the arrest of Dominic Jerome Wilson.
+The warrants were addressed "to any duly authorized peace officer."
+The warrants made no mention of where the arrest was to take place
+nor of joining a news reporter or a photographer to the team executing
+the warrant nor of the need for such person's assistance in the police
+execution of the warrant. Nevertheless, the team of Deputy U.S. Mar-
+shals and Montgomery County police officers (hereinafter "the
+police" or "the officers") invited a newspaper reporter and photogra-
+pher seeking a story to accompany the police during the execution of
+the warrant. The police allowed the reporters to enter the private
+home of Dominic Jerome Wilson's parents without their permission,
+to observe the execution of the warrants issued to the police, and to
+photograph the Wilsons in a state of undress and under humiliating
+circumstances.
+It has long been established that a police officer executing a war-
+rant is limited to those actions "strictly within the bounds set by the
+warrant," Bivens v. Six Unknown Named Agents of Federal Bureau of
+Narcotics, 403 U.S. 388, 394 n.7 (1971), or reasonably necessary for
+its execution, see Michigan v. Summers, 452 U.S. 692, 705 (1981).
+The police officers violated these clearly established Fourth Amend-
+ment principles when they invited newspaper reporters to enter a pri-
+vate home and photograph the residents for purely commercial
+newspaper purposes during the execution of an arrest warrant. The
+reporters were not there to involve themselves in such execution. The
+ride-along policy of the Department of Justice by which it was
+attempted to justify their presence stated that the reporters riding
+along were there to see and record what actually happens. Neverthe-
+                                16
+
+
+less, the en banc majority grants the officers immunity for their
+actions in permitting the reporters' invasion of the privacy of the
+home to which the Wilsons were entitled. The majority presents post-
+hoc rationalizations to support its assertion that the defendants could
+have believed that inviting the reporters into the home was reasonably
+necessary to serve the purposes of the arrest warrants. Such a ruling
+seeks to convert qualified immunity to absolute immunity.1
+No reporters' presence was mentioned in the warrants, and there
+were no exigent circumstances justifying warrantless action. Because
+no reasonable police officer could have believed that inviting the
+reporters into the home or allowing the photographer to take pictures
+either was authorized by the warrant or was reasonably necessary to
+accomplish its legitimate law enforcement purposes, the police offi-
+cers' actions amounted to unreasonable searches and seizures in vio-
+lation of clearly established Fourth Amendment law. I vigorously
+dissent.
+I.
+At 6:45 on the morning of April 14, 1992, a team of deputy U.S.
+Marshals and Montgomery County Police Officers entered the home
+of Charles and Geraldine Wilson. The officers were there to execute
+arrest warrants for Dominic Wilson, the Wilsons' adult son. It is to
+be emphasized that the police and deputy Marshals had no further
+_________________________________________________________________
+1 The majority has not argued that an exception to the warrant require-
+ment justified the search. See Mincey v. Arizona , 437 U.S. 385, 390
+(1978) ("The Fourth Amendment proscribes all unreasonable searches
+and seizures, and it is a cardinal principle that`searches conducted out-
+side the judicial process, without prior approval by judge or magistrate,
+are per se unreasonable under the Fourth Amendment--subject only to
+a few specifically established and well-delineated exceptions.'" (quoting
+Katz v. United States, 389 U.S. 347, 357 (1967)); Wallace v. King, 626
+F.2d 1157, 1161 (4th Cir. 1980) (explaining that, to justify a warrantless
+search for the subject of an arrest warrant in the home of a third party,
+"not only must the officers have probable cause to believe the person
+named in the arrest warrant is on the premises of the third person, but
+there must also exist an appropriate exception to the warrant require-
+ment," such as "exigent circumstances"). Clearly no such exception was
+"specifically established and well delineated."
+                                17
+
+
+powers conferred on them by the arrest warrants and no mention was
+made in the warrants of media presence.
+Pursuant to the U.S. Marshals' Ride-Along policy, they had invited
+a reporter and a photographer from the Washington Post to accom-
+pany them on their mission.2 The policy explained that "ride-alongs,
+as the name implies, are simply opportunities for reporters and cam-
+era crews to go along with Deputies on operational missions so they
+can see, and record, what actually happens." The police officers con-
+cede that the reporters "were not involved in executing the warrant,"
+Brief of Appellants at 8, 12, but were "mere bystanders," id. at 8.3
+Although the policy instructed the Marshals to "establish ground
+rules" with the reporters, including "what can be covered with cam-
+eras and when, [and] any privacy restrictions that may be encoun-
+tered," the officers exercised no control over the reporters or what
+they photographed, even once inside the Wilsons' private home.
+The Wilsons were lying in bed that morning when they heard a
+commotion. Mr. Wilson, dressed only in his undershorts, got up to
+investigate and found a team of armed plainclothes officers, accompa-
+nied by the reporters, in his living room. The officers subdued Mr.
+Wilson, who was angry because of the intrusion. When Mrs. Wilson
+came out of the bedroom, wearing only a sheer nightgown, she saw
+a police officer holding a gun to her husband's head, pinning him face
+down on the floor in his undershorts. The news team observed and
+took photographs throughout these events.
+The Wilsons filed suit against the Montgomery County police offi-
+_________________________________________________________________
+2 There was no equivalent Montgomery County Sheriff's Department
+ride-along policy. In fact, Raymond M. Kight, Sheriff of Montgomery
+County, believed that it would be a violation of the constitutional rights
+of a homeowner to bring a civilian on a ride-along program into a private
+home, unless the civilian were there as a witness to identify someone or
+served some other legitimate purpose related to the execution of the war-
+rant.
+3 Even if photographs had been reasonably necessary to accomplish the
+purpose of the warrant, allowing a member of the news media to take the
+photographs was not; the police could have brought along a camera and
+snapped a picture themselves.
+                                18
+
+
+cers, the Deputy U.S. Marshals, their supervisor and others. They
+alleged that their Fourth Amendment rights were violated by the offi-
+cers' inviting the reporter and photographer to accompany them into
+the Wilsons' home and to observe and photograph during the attempt
+to execute the arrest warrant. The defendants' assertion of qualified
+immunity was rejected by the district court, then brought to us on
+interlocutory appeal. A divided panel of this court reversed the district
+court, holding that the officers were entitled to qualified immunity.
+This rehearing en banc followed.
+II.
+A.
+We must not, when arguing whether some specific incarnation of
+Fourth Amendment rights was or was not clearly established, lose
+sight of the core values that the Fourth Amendment was designed to
+protect. That amendment is "an American extension of the English
+tradition that a man's house [is] his castle." William Cuddihy & B.
+Carmon Hardy, A Man's House Was Not His Castle: Origins of the
+Fourth Amendment to the United States Constitution , 37 Wm. &
+Mary Q. 371, 400 (1980). "The belief that `a man's house is his cas-
+tle' found expression at least as early as the sixteenth century" in
+English jurisprudence. Id. at 371.
+In Semayne's Case, 77 Eng. Rep. 194 (K.B. 1604), the King's
+Bench resolved that "the house of every one is to him as his castle and
+fortress," id. at 195, and prohibited the government from forcibly
+entering a home at the behest of a private party, id. at 198. Although
+Semayne's Case accepted broad powers of search in cases where the
+government was a party, Lord Coke (who witnessed Semayne's Case
+as attorney general) later applied its adage that a man's house was his
+castle to curtail the arbitrary government invasion of private homes.
+See Cuddihy & Hardy, supra, at 376. William Pitt elaborated upon the
+sanctity of the home in his impassioned defense of private homeown-
+ers against discretionary government searches before Parliament in
+1766. See id. at 386.
+The poorest man may, in his cottage, bid defiance to all the
+forces of the crown. It may be frail; its roof may shake; the
+                                19
+
+
+wind may blow through it; the storm may enter; the rain
+may enter; but the king of England may not enter; all his
+force dares not cross the threshold of the ruined tenement.
+Id. And William Blackstone, in his Commentaries wrote:
+And the law of England has so particular and tender a regard
+to the immunity of a man's house, that it stiles it his castle,
+and will never suffer it to be violated with impunity . . . .
+For this reason no doors can in general be broken open to
+execute any civil process; though, in criminal cases, the
+public safety supersedes the private.
+William Blackstone, 4 Commentaries on the Laws of England 223
+(1769).
+These principles are embodied in the Fourth Amendment of the
+United States Constitution: "The right of the people to be secure in
+their . . . houses . . . against unreasonable searches and seizures, shall
+not be violated . . . ." As Justice Stewart wrote for the Supreme Court
+in Silverman v. United States, 365 U.S. 505 (1961):
+The Fourth Amendment, and the personal rights which it
+secures, have a long history. At the very core stands the
+right of a man to retreat into his own home and there be free
+from unreasonable governmental intrusion. Entick  v.
+Carrington, 19 Howell's State Trials 1029, 1066; Boyd v.
+United States, 116 U.S. 616, 626-30 . . . . William Pitt's elo-
+quent description of this right has been often quoted. The
+late Judge Jerome Frank made the point in more contempo-
+rary language: "A man can still control a small part of his
+environment, his house; he can retreat thence from outsid-
+ers, secure in the knowledge that they cannot get at him
+without disobeying the Constitution. That is still a sizable
+hunk of liberty -- worth protecting from encroachment. A
+sane, decent, civilized society must provide some such
+oasis, some shelter from public scrutiny, some insulated
+enclosure, some enclave, some inviolate place which is a
+man's castle." United States v. On Lee, 193 F.2d 306, 315-
+16 (dissenting opinion).
+                                20
+
+
+Id. at 511 & n.4. Today's majority opinion undermines the right at the
+very core of the Fourth Amendment and sanctions an"unreasonable
+governmental intrusion."
+B.
+"[G]overnment officials performing discretionary functions[ ] gen-
+erally are shielded from liability for civil damages insofar as their
+conduct does not violate clearly established statutory or constitutional
+rights of which a reasonable person would have known." Harlow v.
+Fitzgerald, 457 U.S. 800, 818 (1982). It is critical to define the rights
+being examined at the appropriate level of specificity. See DiMeglio
+v. Haines, 45 F.3d 790, 803-04 (4th Cir. 1995). If the right is defined
+too broadly, it will always be found to have been clearly established.
+For example, it is clearly established that the deprivation of property
+without due process of law violates the Fourteenth Amendment. On
+the other hand, if the right is defined too narrowly, no proposition will
+ever be found to be clearly established. For example, probably no
+case will have held that the exact acts in question regarding the exact
+parties in contention under the exact circumstances presented is a con-
+stitutional violation.
+For the right allegedly violated to be clearly established, it is not
+necessary that "the very act in question ha[ve] previously been held
+unlawful"; rather "in the light of pre-existing law the unlawfulness
+must be apparent." Anderson v. Creighton, 483 U.S. 635, 640 (1987).
+If the unlawfulness is apparent, the fact that some courts may have
+reached an incorrect result will not shield a defendant's violation of
+a clearly established right. See Jones v. Coonce , 7 F.3d 1359, 1362
+(8th Cir. 1993) (finding that a right was clearly established despite an
+unpublished district court case that had not recognized the right).
+C.
+The government's right to intrude upon the privacy of the home is
+narrowly circumscribed by the Fourth Amendment's prohibition
+against unreasonable searches and seizures. The"physical entry of the
+home is the chief evil against which the wording of the Fourth
+Amendment is directed." United States v. United States District
+Court, 407 U.S. 297, 313 (1972).
+                                21
+
+
+The Fourth Amendment protects the individual's privacy in
+a variety of settings. In none is the zone of privacy more
+clearly defined than when bounded by the unambiguous
+physical dimensions of an individual's home -- a zone that
+finds its roots in clear and specific constitutional terms:
+"The right of the people to be secure in their . . . houses . . .
+shall not be violated." That language unequivocally estab-
+lishes the proposition that "[a]t the very core [of the Fourth
+Amendment] stands the right of a man to retreat into his
+own home and there be free from unreasonable government
+intrusion." In terms that apply equally to seizures of prop-
+erty and to seizures of persons, the Fourth Amendment has
+drawn a firm line at the entrance to the house. Absent exi-
+gent circumstances, that threshold may not reasonably be
+crossed without a warrant.
+Payton v. New York, 445 U.S. 573, 589-90 (1980) (citation omitted)
+(quoting Silverman v. United States, 365 U.S. 505, 511 (1961)) (alter-
+ations in original). Similar language is omnipresent in the Supreme
+Court's Fourth Amendment jurisprudence. See, e.g., Winston v. Lee,
+470 U.S. 753, 761-62 (1985) (explaining that "[i]ntruding into an
+individual's living room" to conduct a search"damage[s] the individ-
+ual's sense of personal privacy and security and[is] thus subject to
+the Fourth Amendment's dictates").
+Unless a search is supported by a warrant or a specific exception
+to the warrant clause, it is per se unreasonable, and therefore uncon-
+stitutional. See Coolidge v. New Hampshire, 403 U.S. 443, 489 (1971)
+("[S]earches and seizures inside a man's house without warrant are
+per se unreasonable in the absence of some one of a number of well
+defined `exigent circumstances.'"). The arrest warrant in this case was
+addressed "to any duly authorized peace officer." It made no mention
+of a news team or of a photographer, or of any private individuals to
+be invited into another's private home. Nor is there any claim that
+exigent circumstances or some other exception to the warrant clause
+excused the Montgomery County Circuit Court's failure to allude to
+a reporter or photographer.
+Even when a valid warrant authorizes entry into a private home, a
+police officer is limited to those actions explicitly named in the war-
+                                22
+
+
+rant. See Bivens, 403 U.S. at 394 n.7 ("[T]he Fourth Amendment con-
+fines an officer executing a search warrant strictly within the bounds
+set by the warrant . . . ."); Buonocore v. Harris, 65 F.3d 347, 356 (4th
+Cir. 1995). The reasonableness of a search or seizure depends in part
+on how it is carried out. See Graham v. Connor , 490 U.S. 386, 395
+(1989).
+A warrant may imply some limited authority to take actions not
+explicitly mentioned in it, but reasonably necessary to further its pur-
+poses. See Summers, 452 U.S. at 705 (holding that a search warrant
+for a home carries the implied authority to detain its occupants);
+Lawmaster v. Ward, 125 F.3d 1341, 1349 (10th Cir. 1997). For exam-
+ple, "an arrest warrant founded on probable cause implicitly carries
+with it the limited authority to enter a dwelling in which the suspect
+lives when there is reason to believe the suspect is within." Payton,
+445 U.S. at 603. This authority is implied because"[i]f there is suffi-
+cient evidence of a citizen's participation in a felony to persuade a
+judicial officer that his arrest is justified, it is constitutionally reason-
+able to require him to open his doors to the officers of the law." Id.
+at 602-03.
+Because the media presence here served no legitimate law enforce-
+ment function, but rather was intended solely to gather news to profit
+the Washington Post, the arrest warrant did not carry with it the
+implied authorization to invite the media into a private house.4 The
+reporter and photographer "were not involved in executing the war-
+rant," but were "mere bystanders." Brief of Appellants at 8. The dis-
+trict court found that the reporters were "not serving any legitimate
+law enforcement purposes." (transcript of hearing on summary judg-
+ment motions). A warrant does not carry with it the authority to bring
+along mere bystanders to observe for their own commercial purposes.
+Even if we only consider cases from the Supreme Court, the Fourth
+Circuit Court of Appeals, and the Court of Appeals of Maryland, the
+_________________________________________________________________
+4 An intrusion into a private home is entirely different from a situation
+where ride-along reporters accompany police officers or cameras are
+mounted on police cars on a public street. Those situations do not
+involve the reasonable expectation of privacy inherent in a home inva-
+sion.
+                                23
+
+
+principles recounted above were all clearly established by the time of
+the search in April 1992. In addition, by March of 1992, one circuit
+court had explained that officers searching a private residence pursu-
+ant to a warrant might unconstitutionally "exceed the scope of the
+authority implicitly granted them by their warrant when they permit
+unauthorized invasions of privacy by third parties who have no con-
+nection to the search warrant or the officers' purposes for being on
+the premises." Bills v. Aseltine, 958 F.2d 697, 704 (6th Cir. 1992).
+And it has been established in the common law since the early 1600's
+that "[e]ven a duly authorized officer could not execute a warrant to
+further the purposes of a private individual." Buonocore, 65 F.3d at
+354 (citing Semayne's Case, 77 Eng. Rep. 194, 198 (K.B. 1604);
+Burdett v. Abbott, 104 Eng. Rep. 501, 560-61 (K.B. 1811)).
+The Supreme Court jurisprudence, circuit court precedent and
+long-standing principles of common-law discussed above were not
+made any less clear by the fact that two unpublished district court
+opinions had concluded that inviting the news media to observe the
+execution of a search warrant within a private home did not violate
+any federally protected right. See Moncrief v. Hanton, 10 Media L.
+Rep. (BNA) 1620, 1621-22 (N.D. Ohio Jan. 6, 1984) (holding that
+plaintiffs had "alleged no facts to show a search was unreasonable,"
+nor had they stated a claim for violation of any other federally pro-
+tected right to privacy);5 Higbee v. Times-Advocate, 5 Media L. Rep.
+(BNA) 2372, 2372-73 (S.D. Cal. Jan. 9, 1980) (rejecting a plaintiff's
+claim of deprivation of federally protected privacy rights without
+addressing the Fourth Amendment). We have previously observed
+that "[s]ince unpublished opinions are not even regarded as binding
+precedent in our circuit, such opinions cannot be considered in decid-
+ing whether particular conduct violated clearly established law for
+purposes of adjudging entitlement to qualified immunity."6 Hogan v.
+_________________________________________________________________
+5 Despite Moncrief's holding, the entry by the news media, without
+mention in the warrant, was plainly unreasonable in Fourth Amendment
+terms.
+6 It seems logical that repeated decisions refusing to recognize a right
+would be evidence that the right was not clearly established even if the
+opinions were unpublished. However, it is well known that judges may
+put considerably less effort into opinions that they do not intend to pub-
+                                24
+
+
+Carter, 85 F.3d 1113, 1118 (4th Cir.), cert. denied, 117 S. Ct. 408
+(1996). More importantly, neither of the unpublished district court
+cases squarely addressed the claim made by the Wilsons, that police
+violate the Fourth Amendment when they invite reporters who are not
+mentioned in the warrant nor reasonably necessary to its execution to
+accompany them into a private home, without the consent of the
+homeowner. In Moncrief the court only addressed procedural chal-
+lenges to the execution of the warrant (such as its timing) in rejecting
+the plaintiffs' Fourth Amendment claim. See Moncrief, 10 Med. L.
+Rep. at 1621. And the court in Higbee never considered the Fourth
+Amendment at all. See Higbee, 5 Med. L. Rep. at 2372-73. Neither
+case endorses or approves of the actions here complained of; they
+never discuss the issue at all. Such unpublished cases amount to no
+precedent whatsoever, and cannot render a defendant immune from
+liability for the violation of a clearly established law. See Jones, 7
+F.3d at 1362 (finding that a right was clearly established, despite an
+unpublished district court case that had not recognized the right);
+compare Ayeni v. Mottola, 35 F.3d 680, 684-86 (2d Cir. 1994) (hold-
+ing that it was clearly established in 1992 that officers violated the
+Fourth Amendment when they allowed a television crew to film the
+execution of a search warrant (which made no mention of their pres-
+ence) at a private residence), cert. denied, 514 U.S. 1062 (1995), with
+Parker v. Boyer, 93 F.3d 445, 447 (8th Cir. 1995) (observing that no
+such right was clearly established because most cases that had
+addressed the question had found no constitutional violation, citing
+unpublished cases but ignoring broader principles of Fourth Amend-
+ment law), cert. denied, 117 S. Ct. 1081 (1997).
+In addition to the unpublished cases, the majority notes that an
+intermediate appellate court in Wisconsin has faced a similar issue.
+That court in 1980 was "unwilling to accept the proposition that the
+filming and television broadcast of a reasonable search and seizure,
+without more, result in unreasonableness," where"neither the search
+_________________________________________________________________
+lish. Because these opinions will not be binding precedent in any court,
+a judge may be less careful about his legal analysis, especially when
+dealing with a novel issue of law. For this reason we are loathe to cite
+to unpublished opinions, see Local Rule 36(c), nor will we consider them
+to be evidence that a right is or is not clearly established.
+                                25
+
+
+. . . nor the film or its broadcast has been shown to include intimate,
+offensive or vulgar aspects." Prahl v. Brosamle, 295 N.W.2d 768, 774
+(Wis. Ct. App. 1980). Unlike that case, here the search and photogra-
+phy clearly involved intimate aspects -- Mr. Wilson was held at gun-
+point in his underwear and Mrs. Wilson was photographed in only a
+sheer nightgown. Thus Prahl offers no solace to these defendants.7
+It was manifest to any reasonable officer in 1992 (indeed before
+that date) that he had to strive to minimize the substantial intrusion
+upon privacy that accompanies the execution of a warrant in a private
+home. The Supreme Court has warned that "responsible officials,
+including judicial officials, must take care to assure that [searches and
+seizures that may reveal innocuous, private information] are con-
+ducted in a manner that minimizes unwarranted intrusions upon pri-
+vacy." Andresen v. Maryland, 427 U.S. 463, 482 n.11 (1976). Here
+the police officers maximized the intrusion upon the privacy of the
+parents' home during a search for their son, by holding the innocent
+occupants of the home at gunpoint while members of the media pho-
+tographed them in their underwear. The officers could hardly have
+done more violence to the well-established Fourth Amendment princi-
+ples recounted above.
+D.
+The majority does not disagree with the conclusion that
+in 1992 it was clearly established that the Fourth Amend-
+_________________________________________________________________
+7 Even had Prahl been directly supportive of the officers' actions, its
+erroneous conclusion could not immunize them from liability for viola-
+tion of clearly established law. Although we have in the past held that
+a single state court of appeals case to the contrary"alone suffice[d] to
+show that [a recently recognized right] had not theretofore been clearly
+established." Swanson v. Powers, 937 F.2d 965, 969 (4th Cir. 1991), in
+that case the newly recognized tax holding did not have the clear consti-
+tutional pedigree of the right the Wilsons assert, see id. at 968 (holding
+that the right not to be discriminatorily taxed was not clearly established
+because "[t]he most pertinent judicial decisions had upheld comparable
+taxing schemes and the doctrine of intergovernmental tax immunity was,
+at best, ambiguous").
+                                26
+
+
+ment was violated if officers permitted third parties who
+were not expressly authorized by the warrant and who were
+not assisting reasonable law enforcement efforts related to
+the execution of the warrant to accompany them into a resi-
+dence . . . .
+Majority opinion at p. 9. The majority nevertheless has asserted that
+because there was "no clear law . . . establishing that permitting
+reporters to observe and photograph the events surrounding the exe-
+cution of an arrest warrant may not serve a legitimate law enforce-
+ment purpose related to execution of the warrant," a reasonable law
+enforcement officer might have concluded that permitting the report-
+ers in this case to observe and photograph did  serve such a purpose.
+Id. at 9 (emphasis added).
+The majority's argument is speculative and disingenuous at best;
+it may just as well have argued that, because there was no law prohib-
+iting reporters or photographers from being authorized by the warrant,
+a reasonable officer might have concluded that the reporters and pho-
+tographer in this case were authorized by the warrant. But of course,
+the officers knew that they were not so authorized; the warrant made
+no mention of reporters or photographers. Likewise, the officers knew
+full well that the reporters served no legitimate law enforcement pur-
+pose, and no reasonable officer on that team could have thought oth-
+erwise. The officers recognized as much when they explained in their
+brief that the reporters "were not involved in executing the warrant"
+but were "mere bystanders." Brief of Appellants at 8. The panel opin-
+ion, in finding there was qualified immunity, stated that: "[t]he report-
+ers' participation was part of a two-week, news-gathering
+investigation by the newspaper; it was not designed to serve any legit-
+imate law enforcement purpose." 110 F.3d 1071, 1072 (4th Cir. 1997)
+(emphasis added).8
+The news gathering team was part of a two week investigation to
+produce a story or stories about law enforcement. The police brought
+the team along in the hope of getting some good press; that is all. The
+majority's suggestion that the police officers might have concluded
+_________________________________________________________________
+8 Interestingly, the en banc  majority opinion leaves out the second half
+of that sentence. See majority opinion at 4.
+                                27
+
+
+that the reporters would "afford[ ] protection to the officers by reduc-
+ing the possibility that the target of a warrant will resist arrest in the
+face of recorded evidence of his actions," majority opinion at 9, is
+absurd.9 The team was not brought along for this reason, and no rea-
+sonable member of the team could have believed that it was.10 There
+is no evidence that the team served this or any other legitimate law
+enforcement purpose.
+Police officers cannot justify exceeding the clear bounds of a war-
+rant by asserting that their actions might fortuitously have served
+some legitimate purpose despite being designed  with no such purpose
+in mind. The reporters might also have helped by carrying the warrant
+while the officers handcuffed suspects, or by holding the door open
+for an officer while he was carrying contraband; but to uphold the
+police actions because of the potential for fortuitous assistance,
+despite clearly not being designed to serve law enforcement, would
+make a mockery of the rule that an officer's actions are limited to the
+scope authorized by the warrant. See Bivens, 403 U.S. at 394 n.7.11
+_________________________________________________________________
+9 Although I have cited to the passage on page 9 as the "majority opin-
+ion," it is important to note that only five of the eleven active Circuit
+Judges have joined this portion of the en banc  opinion. A majority of the
+en banc court (the five dissenting Judges and Judge Widener) does not
+endorse the hypothetical reasons referred to as legitimate justifications
+for the officers' actions. Nor is the conclusion, see majority op. at 9 ("In
+any event, we conclude that reasonable law enforcement officers could
+have believed that permitting the reporters to observe and photograph the
+execution of the arrest warrant advanced a legitimate law enforcement
+purpose related to the execution of the warrant."), the law of our Circuit;
+on that point, the Circuit is evenly divided.
+10 This attention to the belief that the actual officers may have pos-
+sessed at the time of the search "does not reintroduce into qualified
+immunity analysis the inquiry into officials' subjective intent."
+Anderson, 483 U.S. at 641. Rather, the Supreme Court has explained that
+the determination of whether it was objectively reasonable for an officer
+to have believed that his search was lawful "will often require examina-
+tion of the information possessed by the searching officials." Id. Our
+inquiry must ask whether a reasonable officer, knowing what these offi-
+cers knew about the news team, could have concluded that their presence
+was reasonably necessary to serve the purpose of the arrest warrant.
+11 Similarly, early English jurisprudence recognized that a warrant
+issued to officers in one jurisdiction cannot properly be executed by offi-
+cers of another jurisdiction. See Freegard v. Barnes and Barton, 155
+Eng. Rep. 1185, 1186 (Exch. 1852).
+                                28
+
+
+The exceptions to this strict limitation permit only those actions rea-
+sonably necessary to accomplish the purpose of the warrant. See
+Payton, 445 U.S. at 602-03; Summers, 452 U.S. at 705.
+It is fundamental that, when practicable, officers must obtain the
+approval of a neutral judicial officer, via a warrant, for any intrusion
+upon the Fourth Amendment privacy of an individual's home. See
+Johnson v. United States, 333 U.S. 10, 13-14 (1948). If the presence
+of a photographer or other observer on a search in a private home
+would be reasonably necessary to serve a legitimate purpose, then a
+police officer in obtaining the warrant should explain so to the judi-
+cial officer issuing the warrant. See, e.g., Stack v. Killian, 96 F.3d
+159, 163 (6th Cir. 1996) (holding that police officers were justified
+in bringing a television crew into a house to videotape the execution
+of a search warrant because "the warrant at issue[specifically] autho-
+rized `videotaping and photographing' during the execution of the
+search."). Despite these settled principles, the majority's holding
+today allows police unilaterally to invite a reporter or anyone else to
+accompany them whenever entering a house, even if the warrant says
+absolutely nothing about allowing other parties to enter, so long as
+their presence might fortuitously produce some benefit to the police.12
+E.
+A proper understanding of the relationship between this case and
+our precedent in Buonocore v. Harris, 65 F.3d 347 (4th Cir. 1995),
+further reveals that the officers' actions violated clearly established
+law. In Buonocore, officers executing a search warrant for illegal
+_________________________________________________________________
+12 The majority's holding will also undermine the rule recognized in
+Buonocore, 65 F.3d 347, discussed below, that"the Fourth Amendment
+prohibits government agents from allowing a search warrant to be used
+to facilitate a private individual's independent search of another's home
+for items unrelated to those specified in the warrant," id. at 356. That pri-
+vate individual's presence, after all, might "afford[ ] protection to the
+officers by reducing the possibility that the target of a warrant will resist
+arrest in the face of" a witness to his actions. Majority opinion at 9. By
+the majority's reasoning, such potential fortuitous assistance might be
+enough to shield an officer from liability for a clear constitutional viola-
+tion.
+                                29
+
+
+weapons at the plaintiff's residence invited a security officer from the
+plaintiff's work to attend the search and look for items possibly stolen
+from work (which were not mentioned in the warrant). See id. at 350.
+The plaintiff filed a Bivens action alleging that the officers' actions
+violated the Fourth Amendment, and the officers raised a qualified
+immunity defense. See id. at 351-52.
+The Fourth Circuit in Buonocore discussed two related concepts
+contained within the Fourth Amendment:
+First, by mandating that "no warrants shall issue" unless
+they "particularly" describe "the place to be searched" and
+"things to be seized," the Framers prohibited the use of gen-
+eral warrants issuable to anyone. Second, by expressly
+acknowledging the substantive "right of the people to be
+secure in their . . . houses," the Framers recognized a per-
+son's special right to privacy, to be left undisturbed --
+except for reasonable searches -- within his own home.
+Id. at 353. After a thorough and detailed analysis, the court concluded
+that the officers' actions offended both aspects of the Fourth Amend-
+ment:
+In view of the "common law at the time of the framing," of
+the Fourth Amendment, and the Supreme Court's uniform
+interpretation of the Amendment's protections since that
+time, we have no doubt that the Fourth Amendment prohib-
+its government agents from allowing a search warrant to be
+used to facilitate a private individual's independent search
+of another's home for items unrelated to those specified in
+the warrant. Such a search is not "reasonable." It obviously
+exceeds the scope of the required specific warrant and fur-
+thermore violates the "sanctity of private dwellings."
+Id. at 356 (citations omitted).
+The Buonocore panel next asked whether these rights were clearly
+established at the time of the search (in November of 1992). Instead
+of analyzing the two elements separately, however, it combined them,
+                                30
+
+
+holding that "[t]he right to be free from government officials facilitat-
+ing a private person's general search of the sort Buonocore alleges
+was conducted here, is `manifestly included' within `core' Fourth
+Amendment protection." Id. at 357.13 On that basis the en banc major-
+ity attempts to read narrowly and distinguish Buonocore from the sit-
+uation in Wilson.
+Today's majority recognizes that Buonocore holds that "it was
+clearly established on November 24, 1992 that `Fourth Amendment
+law prohibited government agents from bringing a private citizen into
+Buonocore's home to conduct an independent, general search for
+items not identified in any warrant.'" Majority opinion at 10 n.6
+(quoting Buonocore, 65 F.3d at 353). Of course, the reporter and pho-
+tographer brought into the Wilson home were private citizens. But the
+majority argues that these reporters did not conduct a "general inde-
+pendent search," id., nor was their taking of photographs a seizure, id.
+at 8-9. Neither assertion is persuasive; in fact, the rights asserted by
+the Wilsons are analogous to those asserted by Buonocore.
+First, it is clear that the reporter's and photographer's actions con-
+stituted an independent search. The district court found that
+to the extent that [the reporters] weren't[trying to aid law
+enforcement], they were in the house, snooping around,
+looking around, participating in one fashion or another with
+both the search of the premises for the individual, who was
+not found, and the seizure of the Wilsons, who were
+detained and actually photographed by the photographer.
+(transcript of hearing on summary judgment motions).
+An inspection amounts to a "search" if it intrudes upon a subjective
+expectation of privacy that society is prepared to recognize as reason-
+able. See Katz v. United States, 389 U.S. 347, 361 (1967) (Harlan, J.,
+_________________________________________________________________
+13 It was not necessary at the time to discuss whether the right to be free
+from the police inviting third parties, who were not mentioned in the
+warrant and not reasonably necessary to its execution, into a private
+home during execution of a warrant, independent of their searching, was
+clearly established.
+                                31
+
+
+concurring). The Wilsons unquestionably had a reasonable expecta-
+tion of privacy in their home and in their undressed bodies vis-a-vis
+the reporters. The reporter's and photographer's"snooping around"
+and "looking around" the inside of the Wilsons' home violated that
+reasonable expectation of privacy. The violation was magnified expo-
+nentially by the reporter's intention to publish the story he observed
+to the world at large, and the photographer's taking photographs of
+the Wilsons' humiliating circumstances, particularly Mr. Wilson
+wearing only his underwear, being held prostrate on the floor with a
+gun to his head.14
+Perhaps the majority believes that the Wilson search did not impli-
+cate the right recognized in Buonocore because "the reporters did not
+conduct a search of, or intrude into, any areas of the Wilsons' home
+into which the officers would not have been permitted to go in execut-
+ing the arrest warrant." Majority opinion at 8. Any attempt to distin-
+guish the Buonocore search on the grounds that the Wilson search was
+not "an independent" one, however, is unavailing.15
+_________________________________________________________________
+14 It is immaterial that the photographs have not yet been published,
+except to the extent that publishing them should increase the allowable
+damages. They have in any event been seen by him who took them and
+by an editor or editors of the Washington Post .
+15 It is possible that the majority means to suggest that, because the
+officers had already seen everything that the reporters saw, the Wilsons
+had no remaining expectation of privacy in their home or undressed per-
+sons to be infringed by the reporters' observation. See Brief of Appellant
+at 16-17 (citing United States v. Jacobsen, 466 U.S. 109, 115 (1984)).
+Such a mechanical understanding of a reasonable expectation of privacy
+may be appropriate in regard to a search that reveals only information --
+for example, once an individual gives information to a third party, he
+assumes the risk that the third party will reveal the information to the
+authorities. See United States v. Miller, 425 U.S. 435, 442-43 (1976). An
+expectation of privacy in the shared information is not reasonable, and
+does not implicate the Fourth Amendment. See id.  at 443.
+But the same cannot be said for a search that intrudes on a privacy
+right founded as much in dignity as in secrecy. If the Wilsons had invited
+a guest into their home, the guest could not then have opened the door
+to the police to conduct a search. Illinois v. Rodriguez, 497 U.S. 177,
+181-82 (1990). One retains a reasonable expectation of privacy in one's
+                                32
+
+
+The news team's search of the Wilson home was independent of
+the police execution of the arrest warrant in that the two parties were
+looking for altogether different things: the police were looking for a
+fugitive whereas the news team was looking for anything dramatic
+that might make a good story. The language in Buonocore stressing
+the independence of the officers' and private party's searches, 65 F.3d
+at 358-59, served only to explain why 18 U.S.C.A.§ 3105 (West
+1985) did not offer a defense to the officers. Section 3105 provides
+that a search warrant may be served by a person not mentioned in the
+warrant only if the third party acts "in aid of the officer on his requir-
+ing it, he being present and acting in its execution." 18 U.S.C.A.
+§ 3105 (West 1985). Daniel Buonocore's Fourth Amendment rights
+would still have been violated if the private party who searched his
+house at the invitation of the police officers had followed them
+around the house, going only where the officers went, as long as the
+private party was acting independently of the officers, that is, not in
+their aid.
+Nor is the majority correct to assert that the photographing of the
+Wilsons, undressed, was not a "seizure" because it did not "meaning-
+ful[ly] interfer[e] with" their "possessory interests in . . . property."
+Majority opinion at 8 (quoting United States v. Jacobsen, 466 U.S.
+109, 113 (1984)) (internal quotation marks omitted). We have in the
+past recognized that "taking a photograph may, under some circum-
+stances, constitute an unreasonable seizure." United States v.
+Espinoza, 641 F.2d 153, 166-67 (4th Cir. 1981) (finding that where
+an officer has a right to be in a given location, he may take photo-
+graphs of what he sees in plain view, thereby "`seizing' those views
+themselves as evidence."). The reporters, however, had no right to be
+within the Wilsons' home, and the Wilsons unquestionably had a pos-
+sessory interest in their undressed likenesses. Had their photographs
+been published, they might have sued the Washington Post for inva-
+sion of privacy. See Lawrence v. A.S. Abell Company, 475 A.2D 448,
+_________________________________________________________________
+home, vis-a-vis the government, even if one has previously allowed
+someone else to enter. Similarly, the Wilsons retained a reasonable
+expectation of privacy in their home, vis-a-vis the reporters, even though
+the police had the right to enter pursuant to the warrant. The reporters
+clearly had no such right.
+                                33
+
+
+453 (Md. 1984) (recognizing that a newspaper can be sued for appro-
+priation of another's likeness, but not if the picture is news, taken
+while in a public place at a newsworthy event). The photographer did
+not have the Wilsons' permission to photograph, nor was the Wil-
+sons' home a public place. The property interest was clearly estab-
+lished well before the search in 1992.
+The majority concludes its discussion of the reporters' actions by
+asserting that
+reasonable officers under these circumstances had no clearly
+established law from the Supreme Court, this court, or the
+Court of Appeals of Maryland from which they necessarily
+understood that they exceeded the scope of an arrest warrant
+by permitting reporters to engage in activities in which they
+themselves could have engaged consistent with the warrant.
+Majority opinion at 8-9. One need only follow that assertion to its
+logical conclusion to see that it reduces to an absurdity. It implies that
+if a police officer had a warrant addressed to him by which he could
+invade someone's privacy, he could reasonably have believed that it
+was permissible to allow any other party to do whatever was autho-
+rized by the warrant. If, for example, the police officers had a warrant
+to perform a body cavity search upon Mrs. Wilson, the majority
+implies that they could have believed the warrant authorized them to
+allow members of the public to watch and then to perform the body
+cavity search themselves. Furthermore, assuming that a photograph is
+not a seizure, a police officer conducting a strip search pursuant to a
+warrant could believe the warrant authorized him to invite newspaper
+photographers to photograph Mrs. Wilson being stripped.
+Of course this is ridiculous. Such a search would be patently unrea-
+sonable. But it would be one in which the reporter had seen no more
+than the officer was entitled to see, and in which the photographer,
+for his own private benefit, took pictures no more intrusive than the
+police could have taken if they had had a legitimate reason to do so.
+In today's case the majority finds that it was not clearly unreasonable
+for a police officer to force at gunpoint a citizen in his underwear to
+pose for a camera, potentially to be exhibited to the entire viewing
+                                34
+
+
+readership of the Washington Post. This, too, was patently unreason-
+able.
+In sum, the reporters' observations and photography constituted an
+additional private search and seizure not described in the warrant nor
+carrying out its purposes. The officers' inviting the reporters into the
+home to conduct their search for news while the officers executed the
+arrest warrant thus falls squarely under Buonocore, and was clearly
+prohibited by the Fourth Amendment in 1992.
+To conclude otherwise would authorize law enforcement
+officers to invite private individuals to engage in conduct
+that would constitute trespass were it not conducted under
+the guise of a search warrant. Neither the Fourth Amend-
+ment nor § 3105 grants government agents such authority.
+Buonocore, 65 F.3d at 359.
+III.
+Although the exact issue of police inviting news media to observe
+and record the execution of an arrest warrant within a home has never
+been discussed by the Supreme Court or the Fourth Circuit, three
+other circuits have asked whether officers deserved qualified immu-
+nity under facts substantially similar to the Wilson case.16 The Second
+Circuit in Ayeni v. Mottola, 35 F.3d 680 (2d Cir. 1994), cert. denied,
+514 U.S. 1062 (1995), held that "an objectively reasonable officer [on
+March 5, 1992] could not have concluded that inviting a television
+crew -- or any third party not providing assistance to law enforce-
+ment -- to participate in a search was in accordance with Fourth
+Amendment requirements," id. at 686. That Circuit's analysis is worth
+quoting at length:
+_________________________________________________________________
+16 The majority misunderstands my description of the reasoning of
+other circuits in similar cases. See majority op. at 12-13. Of course I do
+not "rel[y]" on the "decisions" of these circuits to support the proposition
+that the law was clearly established at the time of the execution of the
+warrant in the Wilson home, for the simple reason that these decisions
+were announced after the execution of the warrant. However, the
+reasoning used by these circuits is instructive.
+                                35
+
+
+ [The officer] correctly asserts that there is no reported
+decision that expressly forbids searching agents from bring-
+ing members of the press into a home to observe and report
+on their activities. He therefore argues that there was no
+clearly established rule prohibiting such an act. The argu-
+ment lacks merit. It has long been established that the objec-
+tives of the Fourth Amendment are to preserve the right of
+privacy to the maximum extent consistent with reasonable
+exercise of law enforcement duties and that, in the normal
+situations where warrants are required, law enforcement
+officers' invasion of the privacy of a home must be
+grounded on either the express terms of a warrant or the
+implied authority to take reasonable law enforcement
+actions related to the execution of the warrant.[The officer]
+exceeded well-established principles when he brought into
+the [private] home persons who were neither authorized by
+the warrant to be there nor serving any legitimate law
+enforcement purpose by being there. A private home is not
+a soundstage for law enforcement theatricals.
+ The unreasonableness of [the officer's] conduct in Fourth
+Amendment terms is heightened by the fact that, not only
+was it wholly lacking in justification based on the legitimate
+needs of law enforcement, but it was calculated to inflict
+injury on the very value that the Fourth Amendment seeks
+to protect -- the right of privacy. The purpose of bringing
+the . . . camera crew into the [private party's] home was to
+permit public broadcast of their private premises and thus to
+magnify needlessly the impairment of their right of privacy.
+Id.
+We should wholeheartedly agree with the foregoing discussion. See
+also Hagler v. Philadelphia Newspapers, Inc., 1996 WL 408605, *2
+- *3, 24 Media L. Rep. 2332 (E.D. Pa. July 12, 1996) (adopting and
+quoting the reasoning of Ayeni); but see Bills v. Aseltine, 52 F.3d 596,
+602 (6th Cir. 1995) (criticizing Ayeni for its "failure to define nar-
+rowly the right allegedly violated, instead describing the violation in
+abstract and general terms").
+                                36
+
+
+The most recent circuit court decision to address the question,
+Berger v. Hanlon, 129 F.3d 505 (9th Cir. 1997), holds that it was
+clearly established in 1993 that police officers violate the Fourth
+Amendment when, in executing a search warrant on private premises,
+they planned and assisted in the television broadcasting of that search
+despite no mention in the warrant of any media presence, see id. at
+510-12.
+The Bergers contend that the resulting search violated their
+Fourth Amendment rights against unreasonable searches and
+seizures. We hold they are correct and that the federal offi-
+cers are not entitled to qualified immunity.
+ This was no ordinary search. It was jointly planned by
+law enforcement officials and the media, as memorialized
+by a written contract, so that the officials could assist in the
+media obtaining material for their commercial program-
+ming. The television cameras invaded the residential prop-
+erty of the plaintiffs and the microphone invaded their
+home. This search stands out as one that at all times was
+intended to serve a major purpose other than law enforce-
+ment. Yet, the federal agents obtained the warrant without
+disclosing the contract, the planned press presence, or the
+media's purpose. The Fourth Amendment to our Constitu-
+tion protects against unreasonable searches and warrants
+that are obtained under false pretenses . . . . We must heed
+its strictures on the potential abuse of law enforcement pow-
+ers. This search violated its protections.
+Id. at 510-11.
+The Ninth Circuit stressed that the extent of the law enforcement
+officials' involvement in planning, cooperating with and assisting the
+media presence was unprecedented, surpassing the more passive role
+played by police in cases such as Wilson v. Layne. See id. at 511-12
+(distinguishing the panel opinion in Wilson v. Layne, 110 F.3d 1071
+(4th Cir. 1997)). However, the execution of the arrest warrant at the
+Wilsons' home, just like the search of the Bergers' ranch, "at all times
+was intended to serve a major purpose other than law enforcement."
+Id. at 510. Both searches were also intended to serve the private inter-
+                                37
+
+
+ests of the media. These invasions, no less than the search of the
+Ayeni's home, turned private property into a stage for "law enforce-
+ment theatricals." Ayeni, 35 F.3d at 686.
+Relying on Ayeni and Buonocore, the Ninth Circuit found that the
+officers who orchestrated the media invasion of the Bergers' Fourth
+Amendment rights were unprotected by qualified immunity. Berger,
+129 F.3d at 511. The Circuit found "even further support for this view
+when [it] observe[d] that no circuit court decision ha[d] ever upheld
+the constitutionality of a warranted search where broadcast media
+were present to document the incident for non-law enforcement pur-
+poses, and where the videotaping and sound recording were outside
+of the scope of the warrant." Id. The circuit recognized that the Fourth
+Amendment establishes a presumption that such invasions are prohib-
+ited unless justified by a warrant or by some exception to the warrant
+clause. In Berger, just as in Wilson, the warrant made no mention of
+media presence, the presence of members of the media was not rea-
+sonably necessary to assist in execution of the warrant, and no exi-
+gency presented itself that prevented the police from seeking to
+provide for media presence in the warrant. Because the broadcast of
+the search was not intended to serve law enforcement purposes but
+rather was undertaken, as in the case of the Wilsons, for commercial
+entertainment, the Ninth Circuit held that the officers did not enjoy
+immunity. See id. at 512.
+The Eighth Circuit held in Parker v. Boyer, 93 F.3d 445 (8th Cir.
+1996), cert. denied, 117 S. Ct. 1081 (1997), that it was not "self-evident17
+that the police offend general Fourth Amendment principles when
+they allow members of the news media to enter someone's house dur-
+ing the execution of a search warrant," and that therefore this did not
+violate any clearly established right as of 1994, id. at 447. The Eighth
+Circuit observed that "most courts have rejected the argument that the
+United States Constitution forbids the media to encroach on a per-
+son's property while the police search it," dismissing Ayeni and
+  4495
+27    1  Buonocore18 as "indicat
+ [ing] at most only the beginnings of a trend in
+the law." Id.
+_________________________________________________________________
+17 Whether something is "self-evident" depends on who is doing the
+looking.
+18 And would presumably dismiss Berger as well.
+                                38
+
+
+Conspicuously absent from the Parker opinion is any discussion of
+the constitutional principle limiting an officer executing a warrant to
+those actions expressly authorized by the warrant or reasonably nec-
+essary to effect its legitimate law enforcement purpose. Indeed, the
+Eighth Circuit completely disregarded the Supreme Court's directive
+in Anderson v. Creighton, 483 U.S. 635 (1987), that it must look not
+only for a case on point holding that the officers' actions were prohib-
+ited, but also to related and analogous law to discover whether the
+unlawfulness of the officers' actions was apparent, id. at 640; see also
+Recent Case, 110 Harv. L. Rev. 1340, 1342-44 (1997) (The Eighth
+Circuit "improperly ended its inquiry after ascertaining that no case
+had explicitly identified such a right at the time the officers conducted
+their search. Instead, the court should have considered whether an
+existing precedent falling along the spectrum between general Fourth
+Amendment principles and a previous case on point clearly estab-
+lished a constitutional right to be free from media intrusion at the exe-
+cution of a search."). Had the Eighth Circuit conducted the broader
+inquiry that Anderson requires, it would have considered the well-
+established principles recounted above, which are so central to the
+analysis. Perhaps, then, it would have come to a wiser result. See id.
+at 1345 ("Had the Eighth Circuit followed Anderson's guidance, it
+might have reached a different result. Instead, it too hastily legiti-
+mated the practice of tag-along journalism. . . . Faced with an issue
+of increasing constitutional urgency, the court should have undertaken
+the more careful, nuanced analysis that Anderson  invites.").
+The majority's en banc opinion adds our Circuit's voice to the split
+between the Second and Ninth Circuits on the one hand and the
+Eighth Circuit on the other. Given the prevalence of real-life police
+dramas on television, other circuits will face this question soon
+enough. They will, I hope, reach a more just conclusion than have we.
+IV.
+Perhaps the reason for the disagreement between the majority and
+myself, about whether the reporters' presence was reasonably neces-
+sary to accomplish a legitimate law enforcement purpose, results from
+a disagreement about what that question means. I believe that the role
+which the reporters played at the Wilson home is a question of histori-
+cal fact, which can be discovered by questioning the witnesses. In this
+                                39
+
+
+case, the police officers have admitted both at the district court level
+and here on appeal that the reporters were merely bystanders and
+played no role in the execution of the arrest warrant itself.
+The majority, on the other hand, does not treat the role of the news
+reporters as a question of historical fact, but rather as one of law
+which itself must be clearly established. The majority asked whether
+it was clearly established to a reasonable police officer that the report-
+ers could not serve a legitimate law enforcement purpose. Such an
+approach will exonerate even the most culpable officers.
+We know that the actual purpose for which the police officers
+brought along the reporters was not reasonably necessary to the exe-
+cution of the warrant. We need not ask whether it was clearly estab-
+lished that some other purpose, which the police officers never
+actually thought about, could not have reasonably been thought neces-
+sary to the execution of the warrant. But I note, for completeness, that
+I do not believe that the hypothetical reasons described in the majority
+opinion (e.g., "affording protection to the officers" or "facilitating
+accurate reporting," majority op. at 9) are sufficiently necessary to the
+execution of an arrest warrant to justify the undermining of the sanc-
+tity of the home and the fundamental principle behind the Fourth
+Amendment that a man's home is his castle.
+The majority goes much too far when it sanctions unconsented-to
+public tours of private homes, with photography allowed, under the
+guise of an arrest warrant. After today, any police officer entering a
+private home under a search or an arrest warrant may bring along any
+observer as a bystander, even an observer there only to serve his own
+commercial purposes or to satisfy mere curiosity. Regardless of the
+officers' actual reasons for bringing the third party along, this Circuit
+will immunize the officer because the third party's presence might
+have reduced the possibility that the target of the warrant would resist
+arrest, or because "public oversight of law-enforcement activities . . .
+deters crime, as well as improper conduct by law enforcement offi-
+cers," id. Far from protecting us against tyrannical police practices,
+the majority's opinion today threatens one of the most sacred rights
+protected by the United States Constitution. From now on in the
+Fourth Circuit, unlike the Second or Ninth, if ever the government
+                                40
+
+
+need enter a private home, the home -- and its occupants -- can be
+laid bare for all the world to see.
+The Fourth Amendment guarantees that the sanctity of the home,
+one's castle, will not be disturbed unless by warrant or pursuant to a
+specific warrant exception. These reporters were not mentioned in the
+warrant. Their presence was not justified by any exception to the war-
+rant clause, nor was it reasonably necessary to accomplish the pur-
+poses of the warrant. These reporters were in the Wilsons' home
+strictly for their own commercial news-gathering purposes. When
+police orchestrate the entry of third parties, including newspaper
+reporters, into a private home without the consent of the homeowner,
+without the authorization of a warrant, for no legitimate law enforce-
+ment need and justified by no exigent circumstances, they violate the
+clearly established protections of the Fourth Amendment.
+From the majority opinion, I dissent. Judges Ervin, Hamilton,
+Michael, and Motz join in this dissenting opinion.
+                                41

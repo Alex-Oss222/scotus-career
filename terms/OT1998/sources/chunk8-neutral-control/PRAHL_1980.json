@@ -1,0 +1,981 @@
+{
+  "id": 8673430,
+  "name": "Helmut Prahl, Dynatron Research Foundation, Inc., and Dynatron Research Corporation, Plaintiffs-Appellants, v. Bryan Brosamle, Forward Communications Corporation, Lieutenant Kuenning, Deputy Hartwig, David Carter, Deputy Hein, Deputy Huber, Richard Homan, Anthony Gerl, Martin Micke, Gregory Martin, City of Madison, County of Dane, and Daniel Rutz, Defendants-Respondents",
+  "name_abbreviation": "Prahl v. Brosamle",
+  "decision_date": "1980-07-10",
+  "docket_number": "No. 77-849",
+  "first_page": "130",
+  "last_page": "157",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "98 Wis. 2d 130"
+    },
+    {
+      "type": "parallel",
+      "cite": "295 N.W.2d 768"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Wis. Ct. App.",
+    "id": 15300,
+    "name": "Wisconsin Court of Appeals"
+  },
+  "jurisdiction": {
+    "id": 46,
+    "name_long": "Wisconsin",
+    "name": "Wis."
+  },
+  "cites_to": [
+    {
+      "cite": "431 U.S. 930",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        2081,
+        1986,
+        2239,
+        2179,
+        1605,
+        1798,
+        1927,
+        2094,
+        2098,
+        1652,
+        2141,
+        1663
+      ],
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/431/0930-07",
+        "/us/431/0930-10",
+        "/us/431/0930-12",
+        "/us/431/0930-06",
+        "/us/431/0930-08",
+        "/us/431/0930-04",
+        "/us/431/0930-09",
+        "/us/431/0930-11",
+        "/us/431/0930-02",
+        "/us/431/0930-05",
+        "/us/431/0930-01",
+        "/us/431/0930-03"
+      ]
+    },
+    {
+      "cite": "59 Wis.2d 245",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8669219
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "260-61"
+        },
+        {
+          "page": "157"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/59/0245-01"
+      ]
+    },
+    {
+      "cite": "117 N.W.2d 646",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1962,
+      "opinion_index": 0
+    },
+    {
+      "cite": "18 Wis.2d 67",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8676314
+      ],
+      "year": 1962,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/18/0067-01"
+      ]
+    },
+    {
+      "cite": "81 Wis.2d 638",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672853
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "652"
+        },
+        {
+          "page": "787"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/81/0638-01"
+      ]
+    },
+    {
+      "cite": "123 F.2d 207",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1093662
+      ],
+      "year": 1941,
+      "pin_cites": [
+        {
+          "page": "210"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/123/0207-01"
+      ]
+    },
+    {
+      "cite": "79 Wis.2d 501",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672661
+      ],
+      "weight": 2,
+      "year": 1977,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/79/0501-01"
+      ]
+    },
+    {
+      "cite": "95 Wis.2d 115",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673160
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "119"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/95/0115-01"
+      ]
+    },
+    {
+      "cite": "85 Wis.2d 675",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673213
+      ],
+      "weight": 2,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "694"
+        },
+        {
+          "page": "378"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/85/0675-01"
+      ]
+    },
+    {
+      "cite": "3 Kan. App.2d 461",
+      "category": "reporters:state",
+      "reporter": "Kan. App. 2d",
+      "case_ids": [
+        388825
+      ],
+      "weight": 4,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "471, 476"
+        },
+        {
+          "page": "842, 845"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/kan-app-2d/3/0461-01"
+      ]
+    },
+    {
+      "cite": "145 N.W. 815",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1914,
+      "opinion_index": 0
+    },
+    {
+      "cite": "156 Wis. 257",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8689724
+      ],
+      "year": 1914,
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/156/0257-01"
+      ]
+    },
+    {
+      "cite": "46 Wis.2d 402",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8670995
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "417-18"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/46/0402-01"
+      ]
+    },
+    {
+      "cite": "449 F.2d 245",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        799184
+      ],
+      "weight": 2,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "249"
+        },
+        {
+          "page": "250"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/449/0245-01"
+      ]
+    },
+    {
+      "cite": "46 N.Y.2d 940",
+      "category": "reporters:state",
+      "reporter": "N.Y.2d",
+      "year": 1979,
+      "opinion_index": 0
+    },
+    {
+      "cite": "402 N.Y.S.2d 815",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0
+    },
+    {
+      "cite": "61 A.D.2d 491",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        5495591
+      ],
+      "weight": 2,
+      "year": 1978,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/61/0491-01"
+      ]
+    },
+    {
+      "cite": "408 U.S. 665",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1782792
+      ],
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "684-85"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/408/0665-01"
+      ]
+    },
+    {
+      "cite": "286 N.W. 21",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.",
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "25"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "231 Wis. 426",
+      "category": "reporters:state",
+      "reporter": "Wis.",
+      "case_ids": [
+        8690788
+      ],
+      "weight": 2,
+      "year": 1939,
+      "pin_cites": [
+        {
+          "page": "433"
+        },
+        {
+          "page": "433"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis/231/0426-01"
+      ]
+    },
+    {
+      "cite": "340 So.2d 914",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        9685476
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "916"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/so2d/340/0914-01"
+      ]
+    },
+    {
+      "cite": "86 N.W.2d 413",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "year": 1957,
+      "opinion_index": 0
+    },
+    {
+      "cite": "2 Wis.2d 289",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8678047
+      ],
+      "weight": 2,
+      "year": 1957,
+      "pin_cites": [
+        {
+          "page": "293"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/2/0289-01"
+      ]
+    },
+    {
+      "cite": "69 Wis.2d 307",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672378
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "320"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/69/0307-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 157",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6181102
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "167-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0157-01"
+      ]
+    },
+    {
+      "cite": "403 U.S. 29",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12026680
+      ],
+      "year": 1971,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0029-01"
+      ]
+    },
+    {
+      "cite": "418 U.S. 323",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6173012
+      ],
+      "weight": 6,
+      "year": 1974,
+      "pin_cites": [
+        {
+          "page": "345"
+        },
+        {
+          "page": "337"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "349"
+        },
+        {
+          "page": "350"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/418/0323-01"
+      ]
+    },
+    {
+      "cite": "388 U.S. 130",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6167825
+      ],
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/388/0130-01"
+      ]
+    },
+    {
+      "cite": "376 U.S. 254",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        379234
+      ],
+      "year": 1884,
+      "pin_cites": [
+        {
+          "page": "279-80"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/376/0254-01"
+      ]
+    },
+    {
+      "cite": "68 Wis.2d 487",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672604
+      ],
+      "weight": 2,
+      "year": 1975,
+      "pin_cites": [
+        {
+          "page": "501"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/68/0487-01"
+      ]
+    },
+    {
+      "cite": "58 Wis.2d 359",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8669350
+      ],
+      "weight": 2,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "363"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/58/0359-01"
+      ]
+    },
+    {
+      "cite": "31 Tenn. App. 368",
+      "category": "reporters:state",
+      "reporter": "Tenn. App.",
+      "case_ids": [
+        8511061
+      ],
+      "weight": 2,
+      "year": 1948,
+      "opinion_index": 0,
+      "case_paths": [
+        "/tenn-app/31/0368-01"
+      ]
+    },
+    {
+      "cite": "156 Neb. 533",
+      "category": "reporters:state",
+      "reporter": "Neb.",
+      "case_ids": [
+        2563157
+      ],
+      "weight": 2,
+      "year": 1953,
+      "opinion_index": 0,
+      "case_paths": [
+        "/neb/156/0533-01"
+      ]
+    },
+    {
+      "cite": "266 N.Y.S.2d 348",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1966,
+      "opinion_index": 0
+    },
+    {
+      "cite": "25 App. Div.2d 471",
+      "category": "reporters:state",
+      "reporter": "A.D.2d",
+      "case_ids": [
+        3150202,
+        3158516
+      ],
+      "year": 1966,
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad2d/25/0471-01",
+        "/ad2d/25/0471-02"
+      ]
+    },
+    {
+      "cite": "266 N.Y.S.2d 875",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "year": 1965,
+      "opinion_index": 0
+    },
+    {
+      "cite": "49 Misc.2d 84",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        1167273
+      ],
+      "year": 1965,
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/49/0084-01"
+      ]
+    },
+    {
+      "cite": "158 S.E.2d 578",
+      "category": "reporters:state_regional",
+      "reporter": "S.E.2d",
+      "year": 1968,
+      "opinion_index": 0
+    },
+    {
+      "cite": "272 N.C. 459",
+      "category": "reporters:state",
+      "reporter": "N.C.",
+      "case_ids": [
+        8573359
+      ],
+      "year": 1968,
+      "opinion_index": 0,
+      "case_paths": [
+        "/nc/272/0459-01"
+      ]
+    },
+    {
+      "cite": "77 Wis.2d 120",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8671810
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "123"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/77/0120-01"
+      ]
+    },
+    {
+      "cite": "94 Wis.2d 1",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672921
+      ],
+      "weight": 2,
+      "year": 1980,
+      "pin_cites": [
+        {
+          "page": "11"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/94/0001-01"
+      ]
+    },
+    {
+      "cite": "140 N.W.2d 417",
+      "category": "reporters:state_regional",
+      "reporter": "N.W.2d",
+      "weight": 3,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "421"
+        },
+        {
+          "page": "423"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "30 Wis.2d 146",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8669642
+      ],
+      "weight": 4,
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "151"
+        },
+        {
+          "page": "153"
+        },
+        {
+          "page": "153"
+        },
+        {
+          "page": "158"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/30/0146-01"
+      ]
+    },
+    {
+      "cite": "90 Wis.2d 518",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673921
+      ],
+      "weight": 2,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "523"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/90/0518-01"
+      ]
+    },
+    {
+      "cite": "424 U.S. 693",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027375
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "713"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/424/0693-01"
+      ]
+    },
+    {
+      "cite": "441 U.S. 520",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1780223
+      ],
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "558-60"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/441/0520-01"
+      ]
+    },
+    {
+      "cite": "407 F. Supp. 922",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        3846709
+      ],
+      "weight": 2,
+      "year": 1976,
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/407/0922-01"
+      ]
+    },
+    {
+      "cite": "383 U.S. 787",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6175705
+      ],
+      "year": 1966,
+      "pin_cites": [
+        {
+          "page": "794"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/383/0787-01"
+      ]
+    },
+    {
+      "cite": "409 U.S. 418",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176237
+      ],
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "424"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/409/0418-01"
+      ]
+    },
+    {
+      "cite": "398 U.S. 144",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6169865
+      ],
+      "weight": 2,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "150"
+        },
+        {
+          "page": "152"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/398/0144-01"
+      ]
+    },
+    {
+      "cite": "80 Wis.2d 353",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672516
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "358-59"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/80/0353-01"
+      ]
+    },
+    {
+      "cite": "71 Wis.2d 17",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        335860
+      ],
+      "weight": 2,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "24"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/71/0017-01"
+      ]
+    },
+    {
+      "cite": "80 Wis.2d 272",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8672411
+      ],
+      "weight": 2,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "278"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/80/0272-01"
+      ]
+    },
+    {
+      "cite": "82 Wis.2d 774",
+      "category": "reporters:state",
+      "reporter": "Wis. 2d",
+      "case_ids": [
+        8673120
+      ],
+      "weight": 3,
+      "year": 1978,
+      "pin_cites": [
+        {
+          "page": "776-77"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/wis-2d/82/0774-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1802,
+    "char_count": 47114,
+    "ocr_confidence": 0.548,
+    "pagerank": {
+      "raw": 2.955488536285117e-07,
+      "percentile": 0.8491701639748109
+    },
+    "sha256": "b9f0611e7b6ef2f3cb8db44a35475302538c7d9ae8b1e4cbcd7d487c6482251d",
+    "simhash": "1:a5c2d5b8ed6ec278",
+    "word_count": 7776
+  },
+  "last_updated": "2024-02-27T17:44:47.606874+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before Gartzke, P.J., Bablitch, J. and Dykman, J."
+    ],
+    "parties": [
+      "Helmut Prahl, Dynatron Research Foundation, Inc., and Dynatron Research Corporation, Plaintiffs-Appellants, v. Bryan Brosamle, Forward Communications Corporation, Lieutenant Kuenning, Deputy Hartwig, David Carter, Deputy Hein, Deputy Huber, Richard Homan, Anthony Gerl, Martin Micke, Gregory Martin, City of Madison, County of Dane, and Daniel Rutz, Defendants-Respondents."
+    ],
+    "opinions": [
+      {
+        "text": "GARTZKE, P.J.\nThis appeal arises out of the trial court\u2019s dismissal of the complaint at the close of the plaintiffs\u2019 case in a jury trial. The plaintiffs are Dr. Helmut Prahl, Dynatron Research Foundation and Dyna-tron Research Corporation.\nDr. Prahl, a biochemist, is the executive director of the foundation and the sole stockholder and president of the research corporation. His residence, the offices of the foundation and the laboratory of the research corporation are located in a single building on about six acres fronting on Struck Road in a township adjacent to Madison. Dr. Prahl owns the land and building. The Madison Police Department received a complaint June 18, 1975 that shots had been fired at four boys who were bicycling in the area. Dane County sheriff\u2019s deputies and the police investigated the report that night. Employees of Forward Communications, operators of television station WMTV, broadcast newscasts of the incident.\nDr. Prahl seeks damages for a claimed violation of his civil rights from Bryan Brosamle, a newscaster for WMTV, and from the deputies and police, and damages for defamation from Brosamle, two other WMTV newscasters and WMTV. Dr. Prahl, the foundation and the research corporation seek damages for negligent performance of procedures from the deputies, the police, the City of Madison and Dane County, and damages for trespass from Brosamle, WMTV, the deputies and the police. Plaintiffs seek compensatory and punitive damages as to all claims except the claim based upon negligence, as to which only compensatory damages are sought.\nBefore proceeding to a more detailed statement of the facts, we first note the appropriate standard of review. A motion to dismiss will not be granted at the close of a plaintiff\u2019s case if, under any reasonable view of the credible evidence and the inferences from that evidence, the jury could find for the plaintiffs. If a jury could disagree on the facts or on the inferences to be drawn from the facts, the motion must be denied and the facts must be left for determination by the jury. Sec. 805.14 (1), Stats; Gries v. First Nat. Bank of Milwaukee, 82 Wis.2d 774, 776-77, 264 N.W.2d 254 (1978) ; Nelson v. Travelers Ins. Co., 80 Wis.2d 272, 278, 259 N.W.2d 48 (1977); Household Utilities, Inc. v. Andrews Co., 71 Wis.2d 17, 24, 236 N.W.2d 663 (1976). When determining whether a motion to dismiss should have been granted, the evidence is viewed by this court in the light most favorable to the plaintiffs. Gries, supra; Nolden v. Mutual Benefit Life Ins. Co., 80 Wis.2d 353, 358-59, 259 N.W.2d 75 (1977).\nAccordingly, we state only those facts which are favorable to the plaintiffs and which are pertinent to the issues raised on appeal.\nAfter the boys allegedly shot at were interviewed, the police assembled the city\u2019s Strategic Weapons and Tactics Squad (SWAT). About 9:30 p.m. officers from the squad positioned themselves behind, to the side and in front of the building. Other officers assembled in squad cars at the Struck Road entrance to the driveway. Lieutenant Kuenning of the sheriff\u2019s office took command because the Prahl property was not in Madison. No search or arrest warrant was procured or requested.\nThe police made a telephone call to Dr. Prahl, requesting that he step outside his residence. Fifteen minutes passed before Dr. Prahl emerged, and when he did so, the police charged , the residence on foot and in squad cars. Dr. Prahl was frisked outside his house and the police searched the residence and laboratory. Plaintiffs concede that the search was made with probable cause. The police found a .22 caliber rifle containing seven rounds in the entrance hallway. They found Dr. Prahl\u2019s fourteen-year old son in his bedroom. The youth surrendered a pellet gun to the police. Both guns were confiscated.\nThe police interviewed Dr. Prahl in an office in the building. He said that he often shot gophers on his property. He said that several boys had been playing with antique ears which he kept on the premises, that he asked the boys to leave, and that after a delay to allow them to do so he had shot at a gopher.\nDr. Prahl was not taken into custody. A deputy sheriff told Dr. Prahl that he would be charged with the crime of reckless use of a weapon and told him to report to the district attorney's office June 20. ,.\nBrosamle heard the call summoning the SWAT team while he was monitoring a police scanner at WMTV, grabbed a silent movie camera and went to the scene. He introduced himself to the officers on Struck Road and made inquiries. Brosamle asked Lieutenant Kuenning for a ride to the Prahl residence and was told that he could come forward when the situation was under control. Brosamle filmed the squad cars as they charged up the driveway to the building and rode to the building with Lieutenant Kuenning. Brosamle went into the building, positioned himself in the entranceway or vestibule, and filmed officers confiscating the guns and part of the police interview with Dr. Prahl.\nBrosamle did not request or receive Dr. Prahl\u2019s permission to go upon the premises, to enter the building, or to take pictures inside the building. \u201cNo trespassing\u201d signs were located at points on the boundaries of the premises but not at the driveway entrance on Struck Road. There is no evidence that Brosamle, the officers or the deputies knew about the signs. Dr. Prahl saw Brosamle taking pictures but thought that he was an officer or a deputy and did not tell Brosamle to stop or to leave. Brosamle talked to Dr. Prahl\u2019s son in a laboratory. Lieutenant Kuenning testified that while on the premises he may have told Brosamle that Dr. Prahl would be charged with reckless use of a weapon.\nBrosamle returned to WMTV where he drafted a news script and edited his film. The story was broadcast that evening and the next day. The story consisted of film shots showing police cars driving to the building, officers holding the confiscated guns and Dr. Prahl talking to officers in his office. The gist of the broadcasts was that Dr. Prahl had been charged with the crime of reckless use- of a weapon.\nDr. Prahl reported as directed to the district attorney. No charge, however, was made against Dr. Prahl as a result of the June 18 incident.\n1. Violation Of Civil Rights\nDr. Prahl\u2019s complaint alleges that his constitutional rights were violated by an unreasonable search and seizure, by the filming and broadcasting of that search and seizure without his consent, and by the invasion of his privacy through the release of information obtained in confidence from him in a criminal investigation without his consent.\nDr. Prahl predicates his claim for damages on 12 U.S.C. sec. 1983 which provides:\nEvery person who, under color of any statute, ordinance, regulation, custom, or usage, of any State or Territory or the District of Columbia, subjects, or causes to be subjected, any citizen of the United States or other person within the jurisdiction thereof to the deprivation of any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured in an action at law, suit in equity, or other proper proceeding for redress. . . .\nThe elements for recovery under sec. 1983 are twofold. First, the plaintiff must prove that the defendant has deprived him of a right secured by the constitution and laws of the United States. Second, the plaintiff must show that the defendant acted under color of state law. Adickes v. Kress & Co., 398 U.S. 144, 150 (1970).\nThe record does not support a conclusion that Brosamle acted under color of state law. Brosamle acted exclusively for his private employer. Section 1983 is directed only to state action. Section 1983 \u201cdoes not reach purely private conduct . . . .\u201d District of Columbia v. Carter, 409 U.S. 418, 424 (1973).\nA private person nevertheless acts under color of law for purposes of sec. 1983 if that person is \u201ca willful participant in joint activity with the State or its agents.\u201d Adickes, 398 U.S. at 152, quoting United States v. Price, 383 U.S. 787, 794 (1966).\nIf, however, a private person participates in a joint activity with the state and that activity does not deprive the plaintiff of a right secured by the constitution and laws of the United States, then the first element for recovery under sec. 1983 does not exist. We therefore look to the lawfulness of the search and seizure by the deputies and the police.\nDr. Prahl concedes probable cause for the search and seizure but contends that an otherwise reasonable search or seizure may be rendered unreasonable by circumstances surrounding the event, citing Doe v. Duter, 407 F. Supp. 922 (W.D. Wis. 1976). He argues that the filming and television broadcast of the search and seizure are such circumstances.\nThe circumstances of a body search, including the manner in which it is ordered, affect the reasonableness of a search. Bell v. Wolfish, 441 U.S. 520, 558-60 (1979).\n. We are unwilling to accept the proposition that the filming and television broadcast of a reasonable search and seizure, without more, result in unreasonableness. The unreasonable circumstance in Doe, supra, was unnecessary male participation in body searches of female students at a delinquent girls\u2019 school. Neither the search of Dr. Prahl and his premises nor the film or its broadcast has been shown to include intimate, offensive or vulgar aspects.\nPaul v. Davis, 424 U.S. 693 (1976), puts to rest the sec. 1983 action for invasion of privacy based upon disclosure of the incident. The plaintiff in Paul claimed damages under sec. 1983 because of a public statement by police that the plaintiff had been arrested for shoplifting. Plaintiff\u2019s complaint alleged, among other things, a violation of a right to privacy guaranteed by the United States Constitution. The Supreme Court held that no constitutional protection exists against public disclosure of the fact of arrest. 424 U.S. at 713.\nMoreover, the record does not show that the investigation conducted by the deputies and police was confidential. An investigation reminiscent of the charge on San Juan hill is in no sense confidential, The parties have not briefed the question whether Dr. Prahl\u2019s rights under the United States Constitution were violated by disclosure to Brosamle of Dr. Prahl\u2019s statements to the investigators. We will not rule on constitutional issues raised but not briefed. Dumas v. State, 90 Wis.2d 518, 523, 280 N.W.2d 310 (Ct. App. 1979).\nThe evidence, viewed most favorably as to Dr. Prahl, fails to show a violation of 42 U.S.C. sec. 1983, The circuit court therefore properly dismissed that part of the complaint which seeks damages on the basis of that statute.\n2. Defamation\nDr. Prahl- claims that he was defamed by the television broadcasts.\nAnalysis of a claim for defamation requires first a determination whether the communication complained of is capable of a defamatory meaning and, if it is, then a consideration of the defenses alleged. Lathan v. Journal Co., 30 Wis.2d 146, 151, 140 N.W.2d 417 (1966).\nThis state has adopted the rule of Restatement (Second) of Torts sec. 559 at 156 (1977), which describes a defamatory communication as follows:\nA communication is defamatory if it tends so to harm the reputation of another as to lower him in the estimation of the community or to deter third persons from associating or dealing with him.\nSee Lathan, 30 Wis.2d at 153; Starobin v. Northridge Lakes Development Co., 94 Wis.2d 1, 11, 287 N.W.2d 747 (1980); Schaefer v. State Bar, 77 Wis.2d 120, 123, 252 N.W.2d 343 (1977).\n\u201cIt is the function of the court as a matter of law to determine whether a communication is capable of a defamatory meaning.\u201d Lathan, 30 Wis.2d at 153, 140 N.W.2d at 421, citing several Wisconsin precedents and Restatement of Torts sec. 614 at 304 (1938).\nDr. Prahl does not contend that the televised scenes were defamatory. His claim is limited to the verbal portions of the newscasts.\nThe evidence of the verbal portion of the June 18 and 19, 1975 newscasts consists of five scripts. The first script reads as follows:\nDane County authorities tonight charged a man who lives near Madison\u2019s west side with reckless use of a fire arm. Authorities say two young bicycle riders complained someone was shooting at them as they rode in the Seybold Road area. They said the shots came from the DYNATRON research building. A Madison police SWAT team was put into action. The three team members surrounded the building in the darkness. They finally got DR. HELMUT PRAHL to come out and then answer questions. PRAHL told officers he was shooting at ground squirrels not the boys. He also claimed the young boys had been fooling around with his car. Authorities confiscated a semi-automatic .22 rifle and a pellet gun. They did not take PRAHL into custody. He\u2019s been ordered to see the District Attorney on Friday. PRAHL\u2019S DYNATRON laboratory and home is in the county . . . but sits between several Madison business places. (Emphasis in original.)\nThe other scripts contain similar statements with minor inconsistencies. One script states that Dr. Prahl \u201cwill answer charges of reckless use of a fire arm\u201d and the remaining three state that he was \u201ccharged\u201d with reckless use of a firearm.\nThe verbal portions of the newscasts were capable of a defamatory meaning. A person\u2019s reputation may be lowered by a charge of reckless use of a firearm, a crime which by definition involves endangering another\u2019s safety or intentionally pointing a firearm at or toward another. Sec. 941.20(1), Stats.\nA statement that a person has been charged with a crime imputes the commission of a crime to that person and is defamatory. Woody v. Broadcasting Co., 272 N.C. 459, 158 S.E.2d 578 (1968); Martin v. Orange County Publications, Inc., 49 Misc.2d 84, 266 N.Y.S.2d 875 (1965), aff\u2019d 25 App. Div.2d 471, 266 N.Y.S.2d 348 (1966); Rimmer v. Chadron Printing Co., 156 Neb. 533, 56 N.W.2d 806 (1953) ; Knoxville Pub. Co. v. Taylor, 31 Tenn. App. 368, 215 S.W.2d 27 (1948).\nWe turn to the defenses of WMTV and its employees.\nDefendants claim that the newscasts were substantially true. \u201cSubstantial truth\u201d is a complete defense to an action for defamation. DiMiceli v. Klieger, 58 Wis.2d 359, 363, 206 N.W.2d 184 (1973). It is not necessary that the statement in question be true in every particular. \u201cAll that is required is that the statement be substantially true.\u201d Lathan v. Journal Co., 30 Wis.2d 146, 158, 140 N.W.2d 417, 423 (1966). Lathan quotes from what is now comment f to sec. 581A, Restatement (Second) of Torts at 237 (1965) : \u201cIt is not necessary to establish the literal truth of the precise statement made. Slight inaccuracies of expression are immaterial provided that the defamatory charge is true in substance.\u201d\nThe circuit court found that the first script set forth, in substantial truth, the events of the evening as related by the police and Dr. Prahl and that the other scripts varied somewhat but nevertheless set forth the same information as the first script. Dr. Prahl admitted that the first script was \u201csubstantially correct.\u201d Regardless, however, of the substantial truth of the balance of the scripts, the fact is that Dr. Prahl was never charged with reckless use of a firearm as a result of the June 18 incident.\nA false statement that a person has been charged with reckless use of a firearm is not a slight inaccuracy. We should not permit the \u201csubstantial truth\u201d test to sanitize a single but glaring falsehood in a series of true or substantially true statements. We therefore turn to the second claimed defense, that of privilege.\nWMTV, Brosamle and the other WMTV employees assert conditional or qualified privileges to protect them from damages for the defamation: a nonconstitutional privilege based upon the public policy favoring the free flow of information; and privileges arising out of the first amendment to the United States Constitution and art. I, sec. 3 of the Wisconsin Constitution.\nThe distinction between nonconstitutional and constitutional privileges in defamation is noted in Calero v. Del Chemical Corp., 68 Wis.2d 487, 501, 228 N.W.2d 737 (1975), citing Prosser, Law of Torts sec. 115 at 785 and sec. 118 at 819 (4th ed. 1971). The nonconstitutional privileges discussed by Prosser are based upon protection of the defendant\u2019s own legitimate interests, protection of the interests of persons other than the publisher, protection of a common interest between the publisher and the recipient, and protection of the public interest by a communication to those who may take official action. Prosser adds the privilege of fair comment on matters of public concern, which, according to Prosser, has become a constitutional privilege. See Prosser, Law of Torts sec. 115 at 785-796. Restatement (Second) of Torts secs. 594-598A at 263-86 (1977), describe several factors determining the existence of a conditional privilege arising from an occasion which are similar to the privileges described by Prosser.\nNone of the nonconstitutional privileges described by Prosser or the factors described by the Restatement has been shown to apply to WMTV and its employees. Accordingly, we review the availability of a constitutional privilege to those defendants.\nNew York Times Co. v. Sullivan, 376 U.S. 254, 279-80 (1884), held that \u201ca public official [is prohibited] from recovering damages for a defamatory falsehood relating to his official conduct unless he proves that the statement was made with \u2018actual malice\u2019\u2014that is, with knowledge that it was false or with reckless disregard of whether it was false or not.\u201d Curtis Publishing Co. v. Butts, 388 U.S. 130 (1976), extended the New York Times test to \u201cpublic figures.\u201d Gertz v. Welch, 418 U.S. 323, 345 (1974), defined a \u201cpublic figure\u201d as follows:\nFor the most part those who attain this status have assumed roles of especial prominence ih the affairs of society. Some occupy positions of such persuasive power and influence that they are deemed public figures for all purposes. More commonly, those classed as public figures have thrust themselves to the forefront of particular public controversies in order to influence the resolution of the issues involved.\nRosenbloom v. Metromedia, 403 U.S. 29 (1971), extended the New York Times test in a holding characterized by Gertz as meaning that \u201ca private citizen involuntarily associated with a matter of general interest has no recourse for injury to his reputation unless he can satisfy the demanding requirements of the New York Times test.\u201d 418 U.S. at 337. Gertz, however, withdrew the Rosenbloom extension.\nWe are therefore left with the public official and public figure tests for purposes of a first amendment privileg-e. There has been no showing that Dr. Prahl meets either test. Dr. Prahl is privately employed and is not a public official. He was not shown to be a public figure, within the Gertz definition. He has not been shown to have injected himself into public controversy or to be a celebrity or famous by virtue of his position. It is immaterial, for purposes of the first amendment privileges, that Dr. Prahl became involved in a newsworthy event. Wolston v. Reader\u2019s Digest Assn., Inc., 443 U.S. 157, 167-68 (1979), held that the newsworthy character of an incident or the fact that an event attracted media attention \u201cis not conclusive of the public figure issue.\u201d\nWe conclude that no conditional privilege arising out of the first amendment to the United States Constitution protects WMTV and its employees from damages for defamation of Dr. Prahl, subject to limitations imposed by Gertz upon the state\u2019s right to permit a recovery.\nThe Supreme Court held in Gertz, 418 U.S. at 347:\n[S]o long as they do not impose liability without fault, the States may define for themselves the appropriate standard of liability for a publisher or broadcaster of defamatory falsehood injurious to a private individual.\nGertz imposed an added limitation: that the states \u201cmay not permit recovery of presumed or punitive damages, at least when liability is not based on a showing of knowledge of falsity or reckless disregard for the truth.\u201d 418 U.S. at 349. \u201cIt is necessary to restrict defamation plaintiffs who do not prove knowledge of falsity or reckless disregard for the truth to compensation for actual injury.\u201d 418 U.S. at 349. \u201c[A] 11 awards must be supported by competent evidence concerning the injury. . . .\u201d 418 U.S. at 350.\nThis state has not announced a post-Gerfe standard of liability applicable to defamation of private persons by the press. We need not, however, undertake that task because of the applicability of the Gertz limitations on damages to the facts of this case. Dr. Prahl has shown no basis to recover punitive damages and has not established actual damages arising out of the defamation.\nThe circuit court found, and we agree, that the record shows no malice or ill will, bad motive, knowledge of falseness or reckless disregard for the truth. A newscaster cannot be said to act with knowledge of falsity or with reckless disregard of the truth by broadcasting that a person has been or will be charged with a crime where that person was told by a deputy sheriff that he would be so charged. The difference between a charge in fact and a charge to be made, in this context, is inconsequential. Accordingly, Gertz prevents the recovery of punitive damages.\nEvidence as to Dr. Prahl\u2019s damages was directed to the effect of the incident at his residence and its televised coverage, with no reference whatever to the effect of the defamatory statement. Dr. Prahl testified at some length regarding his distress and anguish over the incident and as to the effect of the incident upon his relationships with his son, his fiancee and his business associates and upon his ability to earn a living. Dr. Prahl did not attribute any of his problems to the defamation. His fiancee testified that she broke their engagement because Dr. Prahl became obsessed with the notion that a conspiracy existed against him and that he had become argumentative since the incident. She never referred to the defamation. Dr. Prahl made an offer of proof through the testimony of a potential partner in a real estate development that the witness was left with the impression because of the broadcast that Dr. Prahl was an \u201cirate\u201d individual. The witness was hesitant to do business with Dr. Prahl when he learned that Prahl was the individual involved in the televised incident but never referred to the statement that Dr. Prahl was or would be charged with a crime. Another potential business associate did not do business with Dr. Prahl because of the televised incident. This was the only witness who referred to an arrest.\nConsequently, regardless of the standard of liability for a publisher or broadcaster of defamatory falsehood injurious to a private individual, actual injury from the defamation has not been shown. The action for defamation therefore cannot survive under the Gertz limitations. The trial court properly dismissed this part of Dr. Prahl\u2019s claim.\n8. Trespass\nA. Trespass By Brosamle Established\nThe circuit court held that Brosamle was not a trespasser. We reject that conclusion.\nThe common-law rule of liability for intentional intrusion of land as set forth in Restatement (Second) of Torts sec. 158 at 277 (1965), so far as is material, is as follows:\nOne is subject to liability to another for trespass, irrespective of whether he thereby causes harm to any legally protected interest of the other, if he intentionally\n(a) enters land in the possession of the other, or causes a thing or a third person to do so, ... .\nComment e adds that conduct which would otherwise constitute a trespass is not a trespass if it is privileged by consent of the possessor or by law.\nProof of entry, without more, is insufficient to establish a claim for trespass. The plaintiff must also show the plaintiff\u2019s right to possession. Failure to establish the element of possession is fatal to the claim. Laska v. Steinpreis, 69 Wis.2d 307, 320, 231 N.W.2d 196 (1975).\nThere is evidence from which the jury could conclude that Dr. Prahl not only owned the six acres and the building but had a right to possession of that part of the building occupied by him as a residence, that the laboratory in the building was that of the research corporation and that the office in the building was that of the foundation. That evidence consists of Dr. Prahl\u2019s statement that the plaintiffs maintained those respective facilities in the building and that he owned the land and building. Brosamle at least positioned himself in the entranceway or vestibule of the building. All persons having a right to use the common way are parties to this action. Additionally, the research corporation may bring trespass for entry of its laboratory.\nConsent to entry is a defense to an action for trespass. Baumgart v. Spierings, 2 Wis.2d 289, 86 N.W.2d 413 (1957); Restatement (Second) of Torts sec. 167 at 309 (1965). That consent may be given expressly or it may be implied from the conduct of the plaintiff, from the relationship of the parties or from custom. Baumgart, 2 Wis.2d at 293.\nExpress consent was never given. Nothing in the conduct of Dr. Prahl on his own behalf or that of the corporations suggests a consent to entry by Brosamle. Acquiescence by a plaintiff in past intrusions by members of the same class as the defendant is conduct from which a consent to entry may be implied. Baumgart, supra. There is no evidence of past conduct by the plaintiffs which could be interpreted as a consent to Brosamle\u2019s entry. No relationship exists between the parties from which a consent may be implied.\nBrosamle and WMTV argue that plaintiffs impliedly consented, by custom and usage, to the presence of newsmen on the premises. They do not assert that this record establishes such a custom or usage but rely upon Florida Pub. Co. v. Fletcher, 340 So.2d 914 (Fla. 1977), cert. denied 431 U.S. 930 (1977).\nThe facts in the Fletcher case are that following a fire which killed plaintiffs\u2019 daughter in their home, a large group of firemen, news photographers and onlookers gathered at the scene. The fire marshal and a police sergeant invited news representatives to enter the house. The representatives entered through an open door without objection to gather news of the fire and death. The marshal requested defendant\u2019s photographer to take a picture of the \u201csilhouette\u201d left on the floor after removal of the body. The marshal and sergeant testified that it was common custom and usage to permit news media to enter under such circumstances. Affidavits to the same effect were filed by the sheriff, attorney general of the state and several newspapers and television stations.\nFletcher held that the plaintiffs could not recover for trespass because the entry was effected by an implied consent arising out of a longstanding custom to allow news representatives to enter private property where a disaster has occurred and the officers investigating the calamity invite the entry.\nThe authorities relied upon by Fletcher deal with the implied invitation by businessmen, tradesmen and professionals to the public to come to their shops and offices, the implied invitation by a householder to others to come to the home for business or information, and the implied consent of landowners to sportsmen to enter land if consent is customarily given. Fletcher, 340 So.2d at 916. The following quotations from two of the authorities relied upon by Fletcher are representative:\nConsent to enter on land in the possession of another may be derived from the relationship of the parties, as in the case of intimate friends or social or business visitors. Unless the possessor manifests otherwise, a general or local custom may confer a consent, as where a traveler enters another\u2019s land to make inquiry as to the road or where in a particular neighborhood it is customary to permit persons to wander, fish, shoot and camp at will on unenclosed land. Restatement of Torts sec. 167, comment d at 403 (1934) .\nSo every man, by implication, invites others to come to his house as they may have proper occasion, either of business, of courtesy, for information, etc. Custom must determine in these cases what the limit is of the implied invitation. 2 Cooley on Torts sec. 248 at 238 (4th ed. 1932) (footnotes omitted).\nFletcher is distinguishable from the facts of this case. No official requested Brosamle\u2019s assistance in the investigation. Brosamle and WMTV do not rely upon record evidence of a custom of the type described in Fletcher.\nWe will not imply a consent as a matter of law. It is of course well known that news representatives want to enter a private building after or even during a newsworthy event within the building. That knowledge is no basis for an implied consent by the possessor of the building to the entry. Because of reasonable expectations, landowners commonly post their lands against trespassers. Businesses, professionals and homeowners are known to post their buildings against anticipated solicitations. Few private persons anticipate, however, that an unplanned newsworthy event will occur on their property. An advance objection to entry under remotely possible circumstances need not be made, and it is unreasonable to require an objection after entry under distracting circumstances, especially when the identity of the intruder is unknown.\nWe conclude that custom and usage have not been shown in fact or law to confer an implied consent upon news representatives to enter a building under the circumstances presented by this case.\nThe jury could have found at the conclusion of Dr. Prahl\u2019s case that Brosamle trespassed by entering the six acres from Struck Road as well as by entering the building.\nA custom exists in this state from which a consent or invitation of the type described by 2 Cooley on Torts sec. 248, supra, is implied. That custom is the basis for the holding in Brabazon v. Joannes Brothers Co., 231 Wis. 426, 433, 286 N.W. 21, 25 (1939), that business visitors to a store are \u201cimpliedly licensed to enter and be there for the purpose of offering articles and demonstrating the nature or operation thereof in the usual and customary manner, as long as reasonably necessary to accomplish those purposes or the plaintiffs permitted them to remain.\u201d\nAn implied consent to enter the land of another for business or informational purposes creates a privilege to enter only for that purpose. Brabazon, 231 Wis. at 433. Brosamle did not enter Dr. Prahl\u2019s land to do business with the plaintiffs or to obtain permission to gather news on the land or in the building. He did not seek information of the type covered by the custom, such as directions.\nAccordingly, a new trial must be had as to the claims of Dr. Prahl against Brosamle and his employer for trespass by entering the six acres from Struck Road without permission, unless entry was otherwise privileged.\nBrosamle and WMTV argue that they should be accorded a privilege to trespass stemming from the first amendment to the United States Constitution. No case is cited to support that proposition. On the contrary, Branzburg v. Hayes, 408 U.S. 665, 684-85 (1972), states in dictum, \u201cNewsmen have no constitutional right of access to the scenes of crime or disaster when the general public is excluded . . . Le Mistral, Inc. v. Columbia Broadcasting, 61 A.D.2d 491, 402 N.Y.S.2d 815 (1978), appeal dismissed 46 N.Y.2d 940 (1979), held that a television broadcast station was not entitled to immunity from damages for trespass by virtue of the first amendment. Le Mistral relied upon Dietemann v. Time, Inc., 449 F.2d 245, 249 (9th Cir. 1971), in which the court of appeals observed in an action for invasion of privacy that \u201c[t]he First Amendment has never been construed to accord newsmen immunity from torts or crimes committed during the course of newsgathering. The First Amendment is not a license to trespass . . . .\u201d\nWe conclude that the claimed constitutional privilege to trespass does not exist.\nB. Damages Recoverable For Trespass By Brosamle\nThe circuit court also found that the plaintiffs had failed to show damages to the premises caused by Bros-amle\u2019s entry and that the damage, if any, from the television broadcast was not caused by Brosamle\u2019s presence on the premises. The court concluded that the damages asserted in Dr. Prahl\u2019s claim for defamation could not support his claim in trespass.\nThe circuit court erred in not allowing the plaintiffs at least to recover nominal damages as determined by the jury. A trespasser who has not damaged the property or its possessor is nevertheless liable to the possessor for nominal damages. Hajec v. Novitzke, 46 Wis.2d 402, 417-18, 175 N.W.2d 193 (1970), affirming an award of one dollar; Diana Shooting Club v. Kohl, 156 Wis. 257, 145 N.W. 815 (1914), affirming an award of six cents; Restatement (Second) of Torts sec. 163 at 294 (1965).\nCompensatory and punitive damages have been held recoverable from news representatives for trespass. Le Mistral, Inc. v. Columbia Broadcasting, 61 A.D.2d 491, 402 N.Y.S.2d 815 (1978); Belluomo v. KAKE TV & Radio, Inc., 3 Kan. App.2d 461, 596 P.2d 832 (1979).\nIn Le Mistral, CBS directed an employee and a camera crew to visit restaurants which had been cited for health code violations in New York City. The camera crew and the employee entered the plaintiff\u2019s restaurant with a camera \u201crolling.\u201d The court found that a trespass had occurred and allowed unspecified compensatory damages and punitive damages.\nIn Belluomo, defendant\u2019s newsmen accompanied a food inspector to the plaintiffs\u2019 restaurant. One of the owners was fraudulently induced by the newsmen to grant permission to enter and photograph the nonpublic area of the restaurant. Defendant\u2019s television broadcast stated that unsanitary conditions existed in the restaurant and showed sections of the restaurant. The theory of the plaintiffs\u2019 claim was tortious conduct, trespass, in defendant\u2019s newsgathering, not defamatory falsehood. Plaintiffs sought compensatory damages based upon reduced customer patronage after the broadcast and punitive damages for the fraud. The court held that \u201ca party is entitled to recover compensatory damages for injury resulting from publication of information acquired by tortious conduct,\u201d and, \u201cTruth of what was broadcast was no defense to plaintiffs\u2019 claim.\u201d 3 Kan. App.2d at 471, 476, 596 P.2d at 842, 845. The court appears to have relied heavily upon Dietemann, 449 F.2d at 250, where it is said, \u201cA rule forbidding the use of publication as an ingredient of damages would deny to the injured plaintiff recovery for real harm done to him without any countervailing benefit to the legitimate interest of the public in being informed.\u201d\nBelluomo extends a trespasser\u2019s traditional liability to include nonphysical harm subsequent to the trespass. Restatement (Second) of Torts sec. 162 at 291-92 (1965), provides:\nA trespass on land subjects the trespasser to liability for physical harm to the possessor of the land at the time of the trespass, or to the land or to his things, or to members of his household or to their things, caused by any act done, activity carried on, or condition created by the trespasser, ....\nThe extension to include nonphysical harm from an intrusion of the type involved is reasonable. To allow only nominal damages under the circumstances presented because of lack of physical harm would permit the trespasser to enjoy the benefits of his tort without fully compensating a plaintiff for his loss.\nA new trial must therefore be granted as to the plaintiffs\u2019 claims for trespass by Brosamle.\nEstablishing the effect of publication of the tortiously acquired information at the trial, as contrasted to the effect of publication of information lawfully acquired by Brosamle, may be difficult. It is. only the film and information obtained during the trespass which were tor-tiously acquired. The damages recoverable from publication, insofar as mental distress is claimed, are further subject to the rule that, \u201cIn intentional torts, substantial other damages in addition to damages for emotional distress are required.\u201d Anderson v. Continental Ins. Co., 85 Wis.2d 675, 694, 271 N.W.2d 368, 378 (1978).\nC. Trespass By Lieutenant Kuenning Established\nA new trial must be had with respect to the plaintiffs\u2019 claims for trespass against Lieutenant Kuenning and Dane County but not as to the other deputies, officers and the City of Madison. The deputies and police were privileged under the circumstances of this case to enter the land and building. Restatement (Second) of Torts secs. 204-06 at 381-88 (1965)\nLieutenant Kuenning\u2019s statement that Brosamle could come forward when the situation was under control may have been intended only to indicate no objection to Bros-amle\u2019s presence. A jury could find that, however, it constituted a consent to Brosamle\u2019s entry upon the premises.\nLieutenant Kuenning had no authority to extend a consent to Brosamle to enter the land of another. Although entry by Lieutenant Kuenning was privileged, he committed a trespass by participating in the trespass by Brosamle. \u201cAll persons who cooperate, instigate, command, encourage, ratify, condone, aid, assist, or advise the commission of a trespass are liable as cotrespassers.\u201d Dooley, 3 Modern Tort Law sec. 40.11 at 165 (1977) (citations omitted).\nThere is no evidence that an officer or a deputy other than Lieutenant Kuenning told Brosamle that he could enter the premises or the building. The court properly dismissed the claims for trespass against the deputies other than Lieutenant Kuenning and against the officers and the City of Madison but erred in dismissing the claims as to Lieutenant Kuenning and Dane County. A new trial must therefore be had as to those claims.\n4. Negligent Performance Of Official Procedures\nThe theory presented on appeal of this claim is that the Dane County Sheriff\u2019s Department and its deputies and the Madison Police Department and its officers must follow their own regulations and that failure to do so constitutes a denial of due process.\nA governmental agency must follow its own regulations. State ex rel. Meeks v. Gagnon, 95 Wis.2d 115, 119, 289 N.W.2d 357 (Ct. App. 1980) ; State ex rel. Forte v. Ferris, 79 Wis.2d 501, 511-12 n. 6, 255 N.W.2d 594 (1977). The principle presupposes, however, the existence of a rule, regulation or procedure which is sufficiently definite to be enforced by a court. The regulations claimed to have been violated pertain to permitting news representatives to enter private property and to releasing information to the news media. The Sheriff of Dane County and the Chief of the Madison Police Department testified only to vague and general unwritten \u201cpolicies.\u201d Plaintiffs failed to establish the existence of definite and pertinent rules, regulations or procedures of either department. The circuit court properly dismissed the claim.\n5. Excluded Evidence As To Reputation\nDr. Prahl complains that a witness was not permitted to testify as to Dr. Prahl\u2019s reputation in the community after the television broadcast. The theory under which the evidence was offered is that it pertained to the issue whether Dr. Prahl was defamed by the television broadcast. Counsel for Dr. Prahl offered to prove through the witness that the witness heard of a television broadcast that Dr. Prahl had been arrested and that there were allegations in the broadcast that Dr. Prahl had shot at children and had been summarily forced out of his building. The witness had contemplated but not entered business relationships with Dr. Prahl. The witness felt uneasy about associating with Dr. Prahl, apparently because of the possible effect of the televised incident on Dr. Prahl\u2019s value as a court witness, which would be one of his roles in the relationship.\nThe esteem in which one person holds another does not establish the reputation of the other in his community. Moore v. United States, 123 F.2d 207, 210 (5th Cir. 1941). The testimony was properly rejected in view of the purpose for which it was offered.\nThe rejected testimony is admissible, however, as to Dr. Prahl\u2019s claim that he was damaged by the broadcast. The testimony tends to show a basis for Dr. Prahl\u2019s contention that his business income was reduced as a result of the broadcast.\n6. Hypothetical Question\nThe court sustained an objection to a question asked by plaintiffs of an economist regarding income lost by Dr. Prahl and the research corporation in 1975 and 1976. The ruling is challenged on appeal. The question asked the witness to assume, among other things, that \u201cJune 18th, 1975, an incident occurred which seriously and permanently impaired the ability of Helmut Prahl to earn revenue . . .\nWe are referred to no part of the record which tends to show that Dr. Prahl sustained a permanent impairment to his earning ability. The court properly sustained the objection.\nIf counsel chooses to ask an expert for an opinion based upon a hypothetical set of facts, \u201cthe question must be based on assumptions that have some support in the evidence.\u201d Schulz v. St. Mary\u2019s Hospital, 81 Wis.2d 638, 652, 260 N.W.2d 783, 787 (1978), citing Kreyer v. Farmers\u2019 Co-operative Lumber Co., 18 Wis.2d 67, 117 N.W.2d 646 (1962).\nAppellant relies upon McCrossen v. Nekoosa Edwards Paper Co., 59 Wis.2d 245, 260-61, 208 N.W.2d 148, 157 (1973), where it is said, \u201cWhether the jury believes the underlying assumptions is within its fact-finding functions. A party having made an evidentiary showing to support the assumptions is entitled to put his side of the case to an expert for an opinion.\u201d McCrossen does not assist appellants because they failed to make an evidentiary showing to support the assumption that Dr. Prahl sustained a permanent impairment to his earning ability.\nBy the Court. \u2014 The judgment is reversed insofar as it dismisses the fourth claim in the complaint against Bryan Brosamle, Forward Communications Corporation, Lieutenant Kuenning and Dane County for damages for trespass. A new trial is ordered, limited to that claim. The judgment is otherwise affirmed.\nDr. Prahl also sought damages for false imprisonment and battery but does not contest dismissal of the complaint as to those claims.\nSections 941.20(1) and (3), Stats. 1975, so far as material, provide:\n(1) Whoever does any of the following may he fined not more than $200 or imprisoned not more than 6 months or both:\n(a) Endangers another\u2019s safety by reckless conduct in the operation or handling of a firearm, . . . ; or\n(e) Intentionally points a firearm at or toward another.\n(3) Reckless conduct consists of an act which creates a situation of unreasonable risk and high probability of death or great bodily harm to another and which demonstrates a conscious disregard for the safety of another and a willingness to take known chances or perpetrating an injury. It is intended that this definition embraces all of the elements of what was heretofore known as gross negligence in the criminal law of Wisconsin.\nRestatement; (Second) of Torts sec. 594, publication to protect an important interest' of the publisher; sec. 595, publication to protect an important interest of the recipient or a .third person where the publisher is under a legal duty to publish the matter; sec. 596, common interest; sec. 597, family relationships; sec. 598, a communication to one who may act in the public interest; sec. 598A, a communication by an inferior administrative officer required and permitted in the performance of his official duties.\nNews accounts of Dr. Prahl\u2019s participation in a press conference seeking to call attention to police abuses of power, and for checks on use of \u201cSWAT\u201d teams, were entered in evidence. The conferences occurred after the incident in question.\nRestatement (Second) of Torts has modified the language of Restatement of Torts sec. 167, comment d. Restatement (Second) of Torts sec. 167 at 309, provides that the rules stated in secs. 892-892D as to the effect of consent to the actor\u2019s conduct apply to entry or remaining on land. Restatement (Second) of Torts sec. 892(2) at 362 provides, \u201cIf words or conduct are reasonably understood by another to be intended as consent, they constitute apparent consent and are as effective as consent in fact.\u201d Comment d to sec. 892(2) states:\nIn determining whether conduct would he understood by a reasonable person as indicating consent, the customs of the community are to be taken into account. This is true particularly of silence or inaction. Thus if it is the custom in wooded or rural areas to permit the public to go hunting on private land or to fish in private lakes or streams, anyone who goes hunting or fishing may reasonably assume, in the absence of a posted notice or other manifestation to the contrary, that there is the customary consent to his entry upon private land to hunt or fish.\nThe \u201cno trespassing\u201d signs erected on Dr. Prahl\u2019s land bear upon his refusal to accede to the custom from which consent is implied to enter for business or information. However, there is no evidence that those signs were so located as to he brought to the attention of a person at the Struck Road entrance to the premises. See n. 5.\nRestatement (Second) of Torts sec. 204 at 381 (1965), provides :\nThe privilege to make an arrest for a criminal offense carries with it the privilege to enter land in the possession of another for the purpose of making such an arrest, if the person sought to be arrested is on the land or if the actor reasonably believes him to be there.\nSection 206(1) provides that the privilege to enter land stated in sec. 204 carries with it the privilege to use force to enter a dwelling if the person sought to be taken into custody is in the dwelling but only after explanation and demand for admittance, unless the actor reasonably believes such demand to be impractical or useless.",
+        "type": "majority",
+        "author": "GARTZKE, P.J."
+      }
+    ],
+    "attorneys": [
+      "For the plaintiffs-appellants there were briefs by John P. Koberstein and Foss, Nesson, Koberstein, Erbach & Voss, S.C., of Madison, and oral argument by John P. Koberstein.",
+      "For the defendants-respondents Bryan Brosamle et al. there was a brief by Bell, Metzner & Seibold, S.C., of Madison, and oral argument by John Moore of Madison.",
+      "For the defendants-respondents Lieutenant Kuenning et al. there was a brief by Conrad H. Johnson and Schlot-thauer, Johnson, Mohs, MacDonald & Widder of Madison, and oral argument by Conrad H. Johnson."
+    ],
+    "corrections": "",
+    "head_matter": "Helmut Prahl, Dynatron Research Foundation, Inc., and Dynatron Research Corporation, Plaintiffs-Appellants, v. Bryan Brosamle, Forward Communications Corporation, Lieutenant Kuenning, Deputy Hartwig, David Carter, Deputy Hein, Deputy Huber, Richard Homan, Anthony Gerl, Martin Micke, Gregory Martin, City of Madison, County of Dane, and Daniel Rutz, Defendants-Respondents.\nCourt of Appeals\nNo. 77-849.\nArgued September 27, 1979.\nDecided July 10, 1980.\n(Also reported in 295 N.W.2d 768.)\nFor the plaintiffs-appellants there were briefs by John P. Koberstein and Foss, Nesson, Koberstein, Erbach & Voss, S.C., of Madison, and oral argument by John P. Koberstein.\nFor the defendants-respondents Bryan Brosamle et al. there was a brief by Bell, Metzner & Seibold, S.C., of Madison, and oral argument by John Moore of Madison.\nFor the defendants-respondents Lieutenant Kuenning et al. there was a brief by Conrad H. Johnson and Schlot-thauer, Johnson, Mohs, MacDonald & Widder of Madison, and oral argument by Conrad H. Johnson.\nBefore Gartzke, P.J., Bablitch, J. and Dykman, J.\nPetition to review granted."
+  },
+  "file_name": "0130-01",
+  "first_page_order": 178,
+  "last_page_order": 205
+}

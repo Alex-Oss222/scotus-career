@@ -1,0 +1,32 @@
+[
+  {
+    "name": "maine-green-ca1",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/173/173.F3d.1.98-1309.html",
+    "html_sha256": "00f05caed902d7906accdf568a53952964dd61c570fc14d2dbbb3aa948e894e5"
+  },
+  {
+    "name": "maine-green-ca1-crosscheck",
+    "url": "https://openjurist.org/173/f3d/1/maine-green-party-v-maine-secretary-of-state",
+    "download_error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "maine-green-state",
+    "url": "https://app.midpage.ai/document/maine-green-party-v-secretary-1968512",
+    "download_error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "name": "maine-election-system-1993",
+    "url": "https://law.resource.org/pub/us/case/reporter/F2/992/992.F2d.365.92-2061.92-2026.html",
+    "html_sha256": "cce1009d5e1c493f5cb278d6453570391158a36b5fcc8f6faf8e6f7bb1290548"
+  },
+  {
+    "name": "maine-pl1997-c581",
+    "url": "https://www.mainelegislature.org/ros/LOM/LOM118th/LOMPublic563-583-20.htm",
+    "html_sha256": "5b5c0ed33ab2d7a383a332c004c7b7d08b1a346296c651e63c56b16a93df3d31"
+  },
+  {
+    "name": "maine-pl1997-c436",
+    "url": "https://web.legislature.maine.gov/ros/LOM/LOM118th/LOM413to436-30.htm",
+    "download_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'web.legislature.maine.gov'. (_ssl.c:1081)>"
+  }
+]

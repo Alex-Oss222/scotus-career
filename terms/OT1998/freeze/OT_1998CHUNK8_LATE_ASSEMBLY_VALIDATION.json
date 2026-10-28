@@ -1,0 +1,64 @@
+{
+  "scope": "Six later chunk8 Records; bounded structural, existing-target link, public-copy identity and explanation-ceiling checks only. No Git access or commitment verification. Substantive independent audit is separate.",
+  "records": [
+    {
+      "record": "maine_green_party_v_maine_merits_1999-05-20.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        150
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    },
+    {
+      "record": "california_dental_association_v_ftc_merits_1999-05-24.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        146,
+        156,
+        127,
+        115
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    },
+    {
+      "record": "cleveland_v_policy_management_systems_merits_1999-05-24.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        162,
+        161
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    },
+    {
+      "record": "davis_v_monroe_county_board_of_education_merits_1999-05-24.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        208,
+        158,
+        127
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    },
+    {
+      "record": "hanlon_v_berger_merits_1999-05-24.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        153,
+        118,
+        208,
+        125
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    },
+    {
+      "record": "wilson_v_layne_merits_1999-05-24.md",
+      "blocks": 11,
+      "controlling_explanation_words": [
+        202,
+        226
+      ],
+      "public_copy_exact_after_optional_reading_title": true
+    }
+  ],
+  "failures": []
+}

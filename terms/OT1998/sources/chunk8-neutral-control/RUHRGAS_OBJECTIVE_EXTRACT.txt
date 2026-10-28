@@ -1,0 +1,224 @@
+The underlying controversy stems from a venture to
+produce gas in the Heimdal Field of the Norwegian North
+Sea.
+In 1976, respondents Marathon Oil Company and Mar-
+athon International Oil Company acquired Marathon Petro-
+leum Company (Norway) (MPCN) and respondent Marathon
+Petroleum Norge (Norge).
+See App. 26.1
+Before the acqui-
+sition, Norge held a license to produce gas in the Heimdal
+Field; following the transaction, Norge assigned the license
+to MPCN.
+See Record, Exhs. 61 and 62 to Document 64.
+In 1981, MPCN contracted to sell 70% of its share of the
+Heimdal gas production to a group of European buyers, in-
+cluding petitioner Ruhrgas AG.
+See Record, Exh. 1 to Doc-
+ument 63, pp. 90, 280.
+The parties’ agreement was incor-
+1 Ruhrgas is a German corporation; Norge is a Norwegian corporation.
+See App. 21, 22.
+Marathon Oil Company, an Ohio corporation, and Mara-
+thon International Oil Company, a Delaware corporation, moved their
+principal places of business from Ohio to Texas while the venture under-
+lying this case was in formation.
+See id., at 21, 239, and n. 11.
+porated into the Heimdal Gas Sales Agreement (Heimdal
+Agreement), which is “governed by and construed in accord-
+ance with Norwegian Law,” Record, Exh. B, Tab 1 to Pet.
+for Removal, Heimdal Agreement, p. 102; disputes thereun-
+der are to be “exclusively and ﬁnally . . . settled by arbitra-
+tion in Stockholm, Sweden, in accordance with” International
+Chamber of Commerce rules, id., at 100.
+II
+Marathon Oil Company, Marathon International Oil Com-
+pany, and Norge (collectively, Marathon) ﬁled this lawsuit
+against Ruhrgas in Texas state court on July 6, 1995, assert-
+ing state-law claims of fraud, tortious interference with pro-
+spective business relations, participation in breach of ﬁdu-
+ciary duty, and civil conspiracy.
+See App. 33–40.
+Marathon
+Oil Company and Marathon International Oil Company al-
+leged that Ruhrgas and the other European buyers induced
+them with false promises of “premium prices” and guaran-
+teed pipeline tariffs to invest over $300 million in MPCN for
+the development of the Heimdal Field and the erection of a
+pipeline to Ruhrgas’ plant in Germany.
+See id., at 26–28;
+Brief for Respondents 1–2.
+Norge alleged that Ruhrgas’ ef-
+fective monopolization of the Heimdal gas diminished the
+value of the license Norge had assigned to MPCN.
+See App.
+31, 33, 357; Brief for Respondents 2.
+Marathon asserted
+that Ruhrgas had furthered its plans at three meetings in
+Houston, Texas, and through a stream of correspondence di-
+rected to Marathon in Texas.
+See App. 229, 233.
+Ruhrgas removed the case to the District Court for the
+Southern District of Texas.
+See 145 F. 3d 211, 214 (CA5
+1998).
+In its notice of removal, Ruhrgas asserted three
+bases for federal jurisdiction: diversity of citizenship, see 28
+U. S. C. §1332 (1994 ed. and Supp. III), on the theory that
+Norge, the only nondiverse plaintiff, had been fraudulently
+joined; 2 federal question, see §1331, because Marathon’s
+claims “raise[d] substantial questions of foreign and interna-
+tional relations, which are incorporated into and form part
+of the federal common law,” App. 274; and 9 U. S. C. §205,
+which authorizes removal of cases “relat[ing] to” interna-
+tional arbitration agreements.3
+See 145 F. 3d, at 214–215;
+115 F. 3d 315, 319–321 (CA5), vacated and rehearing en banc
+granted, 129 F. 3d 746 (1997).
+Ruhrgas moved to dismiss
+the complaint for lack of personal jurisdiction.
+Marathon
+moved to remand the case to the state court for lack of fed-
+eral subject-matter jurisdiction.
+See 145 F. 3d, at 215.
+After permitting jurisdictional discovery, the District
+Court dismissed the case for lack of personal jurisdiction.
+See App. 455.
+In so ruling, the District Court relied on
+Fifth Circuit precedent allowing district courts to adjudicate
+personal
+jurisdiction
+without ﬁrst
+establishing
+subject-
+matter jurisdiction.
+See id., at 445.
+Texas’ long-arm stat-
+ute, see Tex. Civ. Prac. & Rem. Code Ann. §17.042 (1997),
+authorizes personal jurisdiction to the extent allowed by the
+Due Process Clause of the Federal Constitution.
+See App.
+446; Kawasaki Steel Corp. v. Middleton, 699 S. W. 2d 199,
+200 (Tex. 1985).
+The District Court addressed the constitu-
+tional question and concluded that Ruhrgas’ contacts with
+Texas were insufﬁcient to support personal jurisdiction.
+2 A suit between “citizens of a State and citizens or subjects of a foreign
+state” lies within federal diversity jurisdiction.
+28 U. S. C. §1332(a)(2).
+Section 1332 has been interpreted to require “complete diversity.”
+See
+Strawbridge v. Curtiss, 3 Cranch 267 (1806); R. Fallon, D. Meltzer, & D.
+Shapiro, Hart and Wechsler’s The Federal Courts and the Federal System
+1528–1531 (4th ed. 1996).
+The foreign citizenship of defendant Ruhrgas,
+a German corporation, and plaintiff Norge, a Norwegian corporation, ren-
+dered diversity incomplete.
+3 Title 9 U. S. C. §205 allows removal “[w]here the subject matter of an
+action or proceeding pending in a State court relates to an arbitration
+agreement or award falling under the Convention [on the Recognition and
+Enforcement of Foreign Arbitral Awards of June 10, 1958].”
+See App. 445–454.
+Finding “no evidence that Ruhrgas en-
+gaged in any tortious conduct in Texas,” id., at 450, the court
+determined that Marathon’s complaint did not present cir-
+cumstances adequately afﬁliating Ruhrgas with Texas, see
+id., at 448.4
+A panel of the Court of Appeals for the Fifth Circuit con-
+cluded that “respec[t]” for “the proper balance of federalism”
+impelled it to turn ﬁrst to “the formidable subject matter
+jurisdiction issue presented.”
+115 F. 3d, at 318.
+After ex-
+amining and rejecting each of Ruhrgas’ asserted bases of
+federal jurisdiction, see id., at 319–321,5 the Court of Appeals
+vacated the judgment of the District Court and ordered the
+case remanded to the state court, see id., at 321.
+4 Respecting the three meetings Ruhrgas attended in Houston, Texas,
+see supra, at 579, the District Court concluded that Marathon had not
+shown that Ruhrgas pursued the alleged pattern of fraud and misrepre-
+sentation during the Houston meetings.
+See App. 449.
+The court fur-
+ther found that Ruhrgas attended those meetings “due to the [Heimdal
+Agreement] with MPCN.”
+Id., at 450.
+As the Heimdal Agreement pro-
+vides for arbitration in Sweden, the court reasoned, “Ruhrgas could not
+have expected to be haled into Texas courts based on these meetings.”
+Ibid.
+The court also determined that Ruhrgas did not have “systematic
+and continuous contacts with Texas” of the kind that would “subject it to
+general jurisdiction in Texas.”
+Id., at 453 (citing Helicopteros Nacionales
+de Colombia, S. A. v. Hall, 466 U. S. 408 (1984)).
+5 The Court of Appeals concluded that whether Norge had a legal inter-
+est in the Heimdal license notwithstanding its assignment to MPCN likely
+turned on difﬁcult questions of Norwegian law; Ruhrgas therefore could
+not show, at the outset, that Norge had been fraudulently joined as a
+plaintiff to defeat diversity.
+See 115 F. 3d 315, 319–320 (CA5), vacated
+and rehearing en banc granted, 129 F. 3d 746 (1997).
+The appeals court
+also determined that Marathon’s claims did not “strike at the sovereignty
+of a foreign nation,” so as to raise a federal question on that account.
+115
+F. 3d, at 320.
+Finally, the court concluded that Marathon asserted claims
+independent of the Heimdal Agreement and that the case therefore did
+not “relat[e] to” an international arbitration agreement under 9 U. S. C.
+§205.
+See 115 F. 3d, at 320–321.
+The Fifth Circuit, on its own motion, granted rehearing en
+banc, thereby vacating the panel decision.
+See 129 F. 3d 746
+(1997).
+In a 9-to-7 decision, the en banc court held that, in
+removed cases, district courts must decide issues of subject-
+matter jurisdiction ﬁrst, reaching issues of personal jurisdic-
+tion “only if subject-matter jurisdiction is found to exist.”
+145 F. 3d, at 214.
+Noting Steel Co.’s instruction that
+subject-matter
+jurisdiction
+must
+be
+“ ‘established
+as
+a
+threshold matter,’ ” 145 F. 3d, at 217 (quoting 523 U. S., at
+94), the Court of Appeals derived from that decision “counsel
+against” recognition of judicial discretion to proceed directly
+to personal jurisdiction.
+145 F. 3d, at 218.
+The court lim-
+ited its holding to removed cases; it perceived in those cases
+the most grave threat that federal courts would “usur[p] . . .
+state courts’ residual jurisdiction.”
+Id., at 219.6
+Writing for the seven dissenters, Judge Higginbotham
+agreed that subject-matter jurisdiction ordinarily should be
+considered ﬁrst.
+See id., at 231.
+If the challenge to per-
+sonal jurisdiction involves no complex state-law questions,
+however, and is more readily resolved than the challenge to
+subject-matter jurisdiction, the District Court, in the dis-
+senters’ view, should take the easier route.
+See ibid.
+Judge Higginbotham regarded the District Court’s decision
+dismissing Marathon’s case as illustrative and appropriate:
+While Ruhrgas’ argument under 9 U. S. C. §205 presented
+a difﬁcult issue of ﬁrst impression, its personal jurisdiction
+challenge raised “[n]o substantial questions of purely state
+law,” and “could be resolved relatively easily in [Ruhrgas’]
+favor.”
+145 F. 3d, at 232–233.
+6 The Fifth Circuit remanded the case to the District Court for it to
+consider the “nove[l]” subject-matter jurisdiction issues presented.
+145
+F. 3d 211, 225 (CA5 1998).
+The appeals court “express[ed] no opinion” on
+the vacated panel decision which had held that the District Court lacked
+subject-matter jurisdiction.
+Id., at 225, n. 23.
