@@ -1,0 +1,411 @@
+FILE in_re_sealed_case_merits_1999-04-13.md
+**Case and dockets:** In re Sealed Case; No. 98-93; judgment below, 148 F.3d 1073.
+HOLDINGS
+### Rule 501 does not recognize the proposed protective-function privilege
+
+**Holding and operative rule:** Information obtained by Secret Service personnel while protecting the President is not, on this record, protected from federal grand-jury testimony by the asserted protective-function privilege. Because the Court rejects recognition, it establishes neither an absolute or qualified privilege nor a special test for overcoming one; other lawful objections and concrete security accommodations retain their own requirements.
+
+**Authority:** Stevens's unanimous Opinion of the Court controls the complete rule, reasoning, reservations and remedy.
+
+
+**Limits and questions not reached:** The decision concerns this federal grand-jury claim and record. It decides no classified-information, state-secrets, executive-privilege or distinct constitutional-security claim; no finding about a particular agent's knowledge, criminal conduct, actual impaired access, waiver or future protective arrangement is made.
+TREATMENT
+- Trammel v. United States supplies reason-and-experience development with attention to the cost of withholding evidence.
+- Jaffee v. Redmond permits recognition of demonstrated confidential relationships; its protection against routine case-by-case balancing remains intact.
+- Swidler & Berlin v. United States protects established attorney-client confidentiality after death; operational observations do not enter that relationship by analogy alone.
+- University of Pennsylvania v. EEOC supports rejecting an insufficiently justified institutional privilege.
+- United States v. Nixon rejects absolute insulation from criminal process; it supplies no universal balancing rule for all recognized privileges.
+- Clinton v. Jones preserves concrete accommodation of official duties in its civil setting; it creates no protective-agent evidentiary privilege.
+LAW
+The asserted protective-function privilege is unavailable on this record. Courts must distinguish recognition of a privilege from a test for overcoming one already recognized. Established confidential-relationship privileges remain governed by their own law, and supported security accommodations remain available without a new privilege. No precedent is overruled.
+JUDGMENT
+**Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The compulsion order remains enforceable subject to ordinary evidentiary objections, other properly asserted privileges and independently lawful protective measures. No privilege-specific showing of investigative need is required.
+
+FILE unum_life_insurance_co_v_ward_merits_1999-04-20.md
+**Case and dockets:** UNUM Life Insurance Co. of America v. Ward; No. 97-1868; judgment below, 135 F.3d 1276.
+HOLDINGS
+### Notice-prejudice is saved insurance regulation
+
+**Holding and operative rule:** California's insurance-specific rule prevents an insurer from forfeiting coverage for late notice unless it proves actual prejudice and is saved by ERISA §514(b)(2)(A) as applied to this insured policy. The rule informs Ward's federal benefits action under §502(a)(1)(B); it creates no independent state enforcement remedy and establishes neither absence of prejudice nor entitlement to benefits.
+
+**Authority:** Ginsburg's unanimous Opinion of the Court controls this holding and the agency holding below, including their qualifications and remedy.
+
+
+### Mandatory administrative agency cannot rest on a no-relation premise
+
+**Holding and operative rule:** A state rule assigning the employer an insurer-agency role because it performs benefit-plan administration directly connects with that administration under ERISA §514(a); the Ninth Circuit's contrary no-relation premise and contingent instruction cannot stand. The categorical administrative reassignment may not be used here, but the decision does not preempt every ordinary agency principle or resolve a properly presented voluntary or fact-specific agency undertaking.
+
+
+TREATMENT
+- Metropolitan Life Insurance Co. v. Massachusetts preserves substantive insurance-contract regulation; the saving clause covers this forfeiture limitation.
+- Pilot Life Insurance Co. v. Dedeaux excludes a competing state enforcement scheme; Ward's §502 benefits action presents a distinct question.
+- Travelers and De Buono distinguish indirect economic effects from direct regulation of benefits or administration; that distinction separates the two state rules here.
+- John Hancock Mutual Life Insurance Co. v. Harris Trust preserves compatible insurance obligations while requiring attention to actual federal conflict.
+- Hughes Aircraft Co. v. Jacobson distinguishes entitlement, administrative function and remedy; it supplies neither automatic benefits nor an additional state cause of action.
+LAW
+Insured-plan benefits may incorporate California's saved actual-prejudice requirement through ERISA's federal enforcement channel. A separate mandatory reassignment of plan-administration agency cannot survive on the ground that it has no connection with the plan. Actual consensual or fact-specific agency, when properly presented, remains a distinct inquiry. No precedent is overruled.
+JUDGMENT
+| Component | Disposition | Vote |
+|---|---|---|
+| Notice-prejudice and reversal of insurer's summary judgment | Affirmed; remand for actual prejudice | 9–0 |
+| No-relation premise for the employer-agency instruction | Reversed; any material agency issue must be reconsidered under the corrected rule | 9–0 |
+
+**Supporting both components:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+UNUM must establish actual prejudice; lateness alone or possible prejudice does not suffice. No benefits award or actual-agency finding is entered.
+
+FILE united_states_v_haggar_apparel_co_merits_1999-04-21.md
+**Case and dockets:** United States v. Haggar Apparel Co.; No. 97-2044; judgment below, 127 F.3d 1460.
+HOLDINGS
+### Trade-court factfinding does not eliminate lawful delegated interpretation
+
+**Holding and operative rule:** A formally promulgated Customs regulation implementing Congress's actual delegation receives Chevron review in tariff litigation: courts first enforce unambiguous statutory requirements and the delegation's boundaries, then assess a reasonable agency choice within genuine ambiguity. The Court of International Trade's duty to decide on its own record does not repeal that legal framework; agency labels and notice and comment alone do not establish authority or validity.
+
+**Authority:** Stone-Zsela's Parts I–III are joined by all eight Associates and control this complete framework.
+
+
+### This regulation's statutory fit and actual application require the corrected inquiry
+
+**Holding and operative rule:** The judgment must be vacated because categorical nondeference left unresolved whether the regulation reasonably respects the tariff's incidental-assembly allowance and lawfully applies to this process. On remand the courts must enforce the enacted conditions, examine the regulation's actual introductory terms and examples, and resolve relevant application questions under the proper review standards; neither regulatory validity nor the claimed exemption is established in advance.
+
+**Authority:** Stone-Zsela's Part IV is joined by O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, seven votes. Stevens and Ginsburg do not join this holding or remedy.
+
+
+TREATMENT
+- Chevron supplies review within actual delegated authority and statutory ambiguity.
+- NationsBank of North Carolina v. Variable Annuity Life Insurance Co. permits reasonable administrative classification within statutory limits.
+- MCI Telecommunications Corp. v. AT&T and National Credit Union Administration v. First National Bank require enforcement of enacted boundaries before deference.
+- AT&T Corp. v. Iowa Utilities Board separates general authority, particular rule validity and unresolved applications; it creates no automatic validation or universal remand rule.
+- NFFE/FLRA v. Department of the Interior distinguishes legally available discretion from its lawful exercise; its distinct remedy does not compel a new Customs proceeding.
+LAW
+The Federal Circuit may not categorically exclude this promulgated tariff regulation from Chevron review. Judicial enforcement of statutory limits and trade-court factual review remain intact. The regulation's ultimate reasonableness and its application to Haggar's processing remain for the corrected inquiry. No precedent is overruled.
+JUDGMENT
+**Vacated and remanded, 7–2.**
+
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer.
+
+**Opposing that disposition:** Stevens and Ginsburg, who would reverse outright and sustain the challenged Customs denial.
+
+All nine reject categorical exclusion of Chevron review. The Court leaves the regulation's reasonableness and application unresolved; no refund, duty amount or new hearing is ordered.
+
+FILE brooks_v_barnes_merits_1999-04-22.md
+**Case and dockets:** Brooks v. Barnes; No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230.
+HOLDINGS
+### A primary barrier must be tested against actual nomination opportunity
+
+**Holding and operative rule:** A Section 2 challenge to a primary-runoff barrier turns on protected voters' equal opportunity in the affected nomination or election process, supported political cohesion and majority bloc voting in the affected electoral settings, and the totality of circumstances. It does not require proof that every additional minority-preferred nominee would win the general election, and neither candidate race, the rarity of runoffs among all primaries nor a conclusive statewide offset of winners can replace the inquiry into the affected voters' actual opportunity.
+
+**Authority:** Souter's Parts I–II, joined by Stevens, O'Connor, Kennedy, Ginsburg and Breyer, control the complete statutory rule, application and remand, six votes.
+
+
+### The supported purpose findings sustain constitutional rejection
+
+**Holding and operative rule:** A constitutional challenge requires proof of discriminatory purpose attributable to the challenged enactment, assessed from the whole relevant record rather than electoral outcomes alone. The supported findings distinguishing the failed 1963 proposal from the enacted 1964 measure are not clearly erroneous; the historical racial climate and earlier motives do not compel a contrary purpose finding for the later enactment.
+
+**Authority:** Souter's Part III is unanimous and controls this ground and the independent causation ground below.
+
+
+### The independent same-enactment finding also defeats causation
+
+**Holding and operative rule:** If discriminatory purpose was a substantial or motivating factor, the defenders bear the burden of showing that the same measure would have been enacted without that factor. The supported independent finding that the 1964 measure would have passed for the credited anti-manipulation and election-administration reasons satisfies that burden here and independently sustains constitutional affirmance.
+
+
+TREATMENT
+- Gingles supplies causal predicates, totality and deference to supported findings under the correct legal standard.
+- Voinovich preserves the claimant's burden and separates lawful state choices from a compelled federal remedy.
+- Holder requires a grounded comparison; it supplies no ideal electoral system or quota.
+- De Grandy rejects maximization and conclusive numerical offsets while preserving actual local opportunity.
+- Southern Christian Leadership Conference of Alabama v. Sessions requires correct opportunity and remedy standards while retaining supported subsidiary findings.
+- Arlington Heights makes the full historical and decisionmaking context relevant to purpose.
+- Hunter v. Underwood and Mt. Healthy supply the distinct motivating-factor and same-enactment sequence, including the defenders' burden.
+- Bossier Parish keeps statutory results and purpose separate; its preclearance posture does not transfer a different burden into this suit.
+LAW
+The statutory claim remains unresolved under corrected nomination-opportunity standards. Runoff systems have neither categorical immunity nor automatic invalidity. Supported constitutional purpose and independent same-enactment findings sustain the constitutional judgment. No plurality arrangement or racial vote guarantee is established and no precedent is overruled.
+JUDGMENT
+| Component | Disposition | Supporting | Opposing |
+|---|---|---|---|
+| Section 2 results claim | Vacated and remanded, 6–3 | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Thomas |
+| Constitutional purpose claims | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+
+The statutory claim returns for reconsideration under the correct opportunity and comparison standards. No violation, plurality system, alternative percentage or new statistical study is ordered. Relief requires a proved violation and a lawful remedy.
+
+FILE united_states_v_sun_diamond_growers_merits_1999-04-27.md
+**Case and dockets:** United States v. Sun-Diamond Growers of California; No. 98-131; judgment below, 138 F.3d 961.
+HOLDINGS
+### An illegal gratuity requires an identifiable official-act link
+
+**Holding and operative rule:** Section 201(c)(1)(A) requires proof that a thing of value was given for or because of an identifiable official act performed or to be performed by the official. Officeholding, general goodwill and the donor's interests before the agency do not alone satisfy that connection; the Government need not prove bribery's corrupt exchange, an express agreement or direct evidence of the link.
+
+**Authority:** Scalia's unanimous Opinion of the Court controls the complete construction, error and remedy.
+
+
+### The supported harmless-error argument does not sustain this conviction
+
+**Holding and operative rule:** The error is not harmless on the Government's offered ground that pending regulatory interests and repetition of statutory words necessarily supplied the missing act-linked jury determination. The Count One reversal and lawful new-trial remand therefore stand; this is no rule that every error concerning an element is structural or that the Government lacks all sufficient evidence.
+
+
+TREATMENT
+- United States v. Aguilar preserves the offense's required object; its obstruction knowledge and nexus rules are not imported into gratuity.
+- United States v. Gaudin preserves jury determination of the enacted elements; it does not make all errors concerning elements structural.
+- Holloway v. United States supplies offense-specific construction; its conditional-intent holding is not an additional gratuity requirement.
+- Jones v. United States retains its distinct statutory and jury safeguards; this case creates no new sentencing classification rule.
+LAW
+The gratuity statute reaches act-linked gifts, including rewards for past acts, without requiring a bribery bargain. Status-only or goodwill-only instructions cannot support this conviction. Other gift restrictions, lawful circumstantial proof and ordinary proceedings on remand remain available. No precedent is overruled.
+JUDGMENT
+**Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Count One remains reversed. A new trial is available if otherwise lawful under an instruction requiring the official-act link. No acquittal or final determination of indictment or evidentiary sufficiency is entered.
+
+FILE russell_v_burris_merits_1999-04-28.md
+**Case and dockets:** Russell v. Burris; Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563.
+HOLDINGS
+### Contribution limits require actual anticorruption fit; two candidate categories fail here
+
+**Holding and operative rule:** Candidate contribution limits must be closely drawn to a sufficiently important interest in preventing corruption or its appearance while preserving meaningful political association. On this record the $300 per-person/per-election ceilings for Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Auditor of State, Attorney General and Commissioner of State Lands, and the $100 ceilings for Arkansas Supreme Court Justice and Court of Appeals Judge, fail that requirement.
+
+**Authority:** O'Connor's Part I is unanimous. The three holdings that follow are controlled by her Parts II–IV, joined by Stevens, Souter, Ginsburg and Breyer, five votes.
+
+
+### The residual $100 restriction survives the tried categorical challenge
+
+**Holding and operative rule:** The record does not establish the asserted categorical invalidity of the $100 per-person/per-election ceiling for covered offices outside the seven-office $300 list and the two named appellate judicial offices. This residual class includes other covered judicial offices; rejection of the blanket challenge does not decide a genuinely different office-specific application without its own presented grounds and record.
+
+
+### The ordinary-PAC receipt limit survives on this operational record
+
+**Holding and operative rule:** The $200 annual limit from one person to any one ordinary PAC survives the presented challenge where the tried operational record preserves effective collective advocacy and the restriction is fitted to the actual candidate-conduit channel. It is a per-recipient limit, not one aggregate pool across all committees, and supplies no general approval for materially different recipient functions or demonstrated pooling burdens.
+
+
+### The exact small-donor qualification supports a different candidate allowance
+
+**Holding and operative rule:** Arkansas may permit a qualifying registered small-donor PAC to give $2,500 per candidate per election while ordinary sources face lower ceilings, where that committee receives contributions exclusively from individuals and no more than $25 cumulatively from any individual during a calendar year. The financial distinction is justified by the anticorruption interest and fit of the dispersed-donor structure; it is neither a viewpoint preference nor a rule that any small-donor label suffices.
+
+
+TREATMENT
+- Buckley v. Valeo preserves contribution/expenditure distinctions, sufficient interest and close fit without a permanent dollar floor.
+- Day v. Holahan protects actual pooling and requires a supported circumvention fit; the Court distinguishes its burden record rather than overruling it.
+- Kentucky Right to Life preserves separate direct-contribution, aggregate-pool and sourcewide-receipt analyses and their actual claim limits.
+- California Medical Association v. FEC supports actual candidate-conduit regulation and attention to financing structures; its fractured lowest-protection rationale is not a universal rule.
+- Colorado Republican and Clifton preserve genuine independence and require actual candidate connections; a committee label bypasses neither protection.
+- Suster preserves judicial impartiality while distinguishing expenditures from contributions and requiring examination of the actual restraint.
+- Reform Party and Brower reject resource-parity entitlements while leaving practical prohibitory burdens reviewable.
+LAW
+The seven enumerated $300 limits and two named appellate-office $100 applications remain unenforceable. The residual $100 categorical challenge and challenges to the ordinary-PAC receipt cap and exact small-donor differential fail on this record. The residual category includes other covered judicial offices without new findings about every such race. Contribution and expenditure rules, meaningful association and fact-specific future claims retain their distinct requirements. No precedent is overruled.
+JUDGMENT
+| Component | Disposition and count | Supporting | Other positions |
+|---|---|---|---|
+| $300 per-election limit for seven enumerated statewide offices | Invalidation affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+| $100 per-election limit for Arkansas Supreme Court Justice and Court of Appeals Judge | Invalidation affirmed, 9–0 | Same nine | None |
+| Residual covered-office $100 limit | Categorical invalidation reversed, 5–4 | Stevens, O'Connor, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Kennedy, Thomas would affirm invalidation |
+| $200 annual per-person/per-ordinary-PAC receipts | Invalidation reversed, 5–4 | Same five | Same four would affirm invalidation |
+| Qualified small-donor PAC $2,500 candidate allowance | Invalidation reversed, 5–3–1 | Same five | Scalia, Kennedy, Thomas would affirm invalidation; Stone-Zsela would vacate and remand |
+
+No replacement dollar ceiling, damages, refund or retrospective enforcement direction is ordered. Existing severability treatment remains effective insofar as consistent with these component decisions.
+
+FILE bank_of_america_v_203_north_lasalle_merits_1999-05-03.md
+**Case and dockets:** Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership; No. 97-1418; judgment below, 126 F.3d 955.
+HOLDINGS
+### Old equity cannot reserve this valuable investment opportunity because of its former ownership
+
+**Holding and operative rule:** When an impaired senior unsecured class objects and is not paid in full, §1129(b)(2)(B)(ii) forbids a plan from reserving to old equity alone the opportunity to contribute new capital and acquire reorganized ownership where old ownership supplies that exclusive eligibility. The opportunity is property received under the plan on account of the old interest, even when the proposed investment purchases new ownership and the underlying valuations are unchallenged.
+
+**Authority:** Kennedy's Opinion of the Court is joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, eight votes for the complete rule, application, reservations and remand.
+
+
+TREATMENT
+- Norwest Bank Worthington v. Ahlers recognizes economic ownership rights and limits equity to the Code; its reservation concerning actual new capital remains open.
+- Case v. Los Angeles Lumber Products identifies the historical new-capital distinction; the Court neither recognizes nor rejects every modern new-value plan.
+- United States v. Noland and United States v. Reorganized CF&I Fabricators preserve statutory ranking and genuine exceptions rather than judicially preferred priorities.
+- Nobelman v. American Savings Bank distinguishes valuation from the legal rights protected by statute; its Chapter 13 mortgage rule is not extended wholesale to this Chapter 11 dispute.
+LAW
+The exclusive old-equity investment opportunity defeats this plan under the absolute-priority rule. Accurate asset or contribution valuation and lawful proposal exclusivity do not cure that distinct statutory preference. General new-value survival, complete conditions and the confirmability of a different plan remain unresolved. No precedent is overruled.
+JUDGMENT
+**Reversed and remanded, 8–1.**
+
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Opposing:** Stevens.
+
+The confirmation order cannot stand. Further lawful plan proceedings must remove the absolute-priority defect; the Court does not directly reverse the unappealed exclusivity ruling, reopen classification or adjudge the accepted valuations incorrect.
+
+FILE el_paso_natural_gas_co_v_neztsosie_merits_1999-05-03.md
+**Case and dockets:** El Paso Natural Gas Co. v. Neztsosie; No. 98-6; judgment below, 136 F.3d 610.
+HOLDINGS
+### Federal courts determine Price-Anderson coverage before imposing tribal exhaustion
+
+**Holding and operative rule:** When the invoked Price-Anderson federal proceeding requires deciding whether pleaded claims are covered public-liability actions, the federal court must decide that predicate itself before imposing prudential tribal exhaustion. Covered claims follow the Act's specific federal channel; uncovered claims retain their own jurisdictional, tribal-authority and exhaustion analysis.
+
+**Authority:** Thomas's unanimous Opinion of the Court controls this holding and the cross-appeal holding below.
+
+
+### Nonappealing appellees may defend a decree but may not enlarge it
+
+**Holding and operative rule:** An appellee may defend the existing decree on an alternative preserved ground but may not, without a cross-appeal, obtain an enlargement of its own rights or reduction of the appellant's rights under that decree. The Ninth Circuit could not dissolve the partial injunctions for plaintiffs who did not appeal them; that enlargement is vacated.
+
+
+TREATMENT
+- National Farmers Union Insurance Cos. v. Crow Tribe and Iowa Mutual Insurance Co. v. LaPlante retain their ordinary prudential exhaustion rule; it yields to this specific federal coverage task.
+- American Railway Express Co. v. Levee preserves alternative grounds for defending a decree but prohibits an unappealed enlargement.
+- Strate v. A-1 Contractors requires a substantive source of tribal authority and preserves proper-party, immunity and equitable limits; it does not decide these mining claims by label.
+- Quackenbush v. Allstate Insurance Co. keeps jurisdiction and prudential abstention distinct.
+- Minnesota v. Mille Lacs Band preserves instrument-specific rights; no unexamined treaty right is extinguished here.
+LAW
+Price-Anderson coverage is a federal threshold task in these proceedings. Covered claims cannot be delayed by ordinary prudential tribal exhaustion, while uncovered claims remain governed by their actual jurisdictional rules. Appellees still need a cross-appeal to obtain the favorable decree enlargement at issue. No precedent is overruled.
+JUDGMENT
+**Vacated and remanded, 9–0.**
+
+**Supporting both the coverage-first and cross-appeal rulings:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The federal district court must determine Price-Anderson coverage itself. The appellate enlargement dissolving unappealed partial injunctions is set aside; those orders return to their preappeal position, without a new merits adjudication of their propriety.
+
+FILE ins_v_aguirre_aguirre_merits_1999-05-03.md
+**Case and dockets:** INS v. Aguirre-Aguirre; No. 97-1754; judgment below, 121 F.3d 521.
+HOLDINGS
+### Courts must respect the Board's permissible construction within actual delegated authority
+
+**Holding and operative rule:** Under §§1103(a)(1) and former 1253(h), together with the Board's adjudicative assignment in 8 C.F.R. §3.1(d)(1), courts must respect a permissible Board construction of the serious-nonpolitical-crime exception after independently enforcing enacted limits. Interpretation, application and factual review retain their distinct requirements; neither agency status nor a general appeal to foreign-affairs expertise supplies automatic correctness.
+
+**Authority:** Breyer's Parts I–II are joined by all nine Justices and control this holding and the next two merits holdings.
+
+
+### A properly established crime exception requires no additional persecution-risk balance
+
+**Holding and operative rule:** Once the serious-nonpolitical-crime exception is properly established, former §1253(h)(2) makes the paragraph (1) withholding protection inapplicable without an additional balancing of feared persecution against offense seriousness. The Board may address that exception while assuming the applicant could show that life or freedom would be threatened because of race, religion, nationality, membership in a particular social group or political opinion.
+
+
+### The political-criminal comparison does not require every judicially preferred subsidiary finding
+
+**Holding and operative rule:** The Board may compare an offense's political character with its ordinary criminal character and consider gross disproportionality or atrocious conduct in determining which predominates. The statute requires neither a separate atrocity finding in every case nor findings that the violence was necessary to or successful in achieving its political objective; the Board must still assess actual political purpose, context and conduct under its announced standard.
+
+
+### The late record-error contention remains for its existing agency procedure
+
+**Holding and operative rule:** The Court declines to decide the translation/transcription contention first raised here rather than before the Board or Court of Appeals; the applicant's existing BIA motion for a new hearing remains for determination through that lawful channel. If the BIA determines that modification of the record is necessary, it may determine whether the modified record warrants further consideration of withholding; no error, new hearing or outcome is presumed.
+
+**Authority:** Breyer's Part III is joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg, eight rationale votes. Stone-Zsela joins this component's disposition only and adds no ground.
+
+
+TREATMENT
+- Haggar preserves actual delegation, statutory boundaries and separate validity/application review; its tariff remand is not a universal agency-remand command.
+- NationsBank permits reasoned classification within genuine statutory discretion.
+- MCI and NCUA retain every enacted condition before deference.
+- INS v. Cardoza-Fonseca and INS v. Stevic illustrate independent enforcement of statutory meaning; they do not assign every evaluative choice exclusively to courts.
+- INS v. Elias-Zacarias distinguishes evidence permitting a finding from evidence compelling displacement under the relevant review standard.
+- INS v. Yang preserves reasoned administration and the separation of eligibility from discretion; it does not require a new hearing merely because a court corrects a legal premise.
+- AT&T and NFFE preserve the distinction between authority and the agency's actual lawful choice; the Board already supplied the pertinent comparison here.
+LAW
+The serious-nonpolitical-crime exception remains bounded by its actual statutory conditions and a permissible, reasoned Board construction. Courts may not impose a mandatory persecution-risk balance or additional political-necessity/success findings, nor treat atrocity as indispensable to the alternative disproportionate-conduct route. Actual record review and relevant political context retain their requirements; the existing motion remains for lawful agency determination. The Board’s separate discretionary asylum denial based on conduct against innocent civilians is not converted into an automatic statutory bar. No precedent is overruled.
+JUDGMENT
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The Court rejects the Ninth Circuit's mandatory additional conditions but makes no new final withholding or asylum determination. The late translation/transcription contention is not decided; the existing BIA motion remains for lawful consideration, without an ordered new hearing, stay or removal instruction.
+
+FILE redmon_v_united_states_merits_1999-05-10.md
+**Case and dockets:** Redmon v. United States; No. 98-243; judgment below, United States v. Redmon, 138 F.3d 1109.
+HOLDINGS
+### Future discard and ordinary approach access do not themselves authorize inspection in protected residential space
+
+**Holding and operative rule:** Greenwood does not authorize warrantless inspection of closed refuse containers merely because their owner intends later collection or private persons can approach them; courts must determine whether police entered or exploited constitutionally protected residential space and assess the actual location, exposure and intrusion. The lower determination must be set aside because collection-point equivalence and ordinary passage access cannot substitute for that legal inquiry into this home-side physical inspection; the Court leaves its ultimate search classification open.
+
+**Authority:** O'Connor's Opinion of the Court, joined by Stone-Zsela, Stevens, Souter and Ginsburg, controls the complete bounded rule and vacatur/remand. The three concurring Justices' additional search conclusion is not a majority holding.
+
+
+**Limits and questions not reached:** The decision creates no general privacy right in curbside garbage and does not decide a collector's private inspection, a private search later reported to police, or containers outside protected residential space freely accessible from a public route. It orders no new facts, automatic hearing or sentence and does not treat limited private access as general police permission.
+TREATMENT
+- California v. Greenwood retains its outside-curtilage public-exposure holding; it is not extended into a universal discard rule.
+- United States v. Dunn supplies the four contextual curtilage considerations without making proximity or enclosure alone decisive.
+- Fields/Crawley and Carter/Johns preserve distinctions among actual access, natural observation, protected space and concealed information, with their actual separate joins intact.
+- Ornelas preserves independent review of legal application with appropriate deference to supported facts and reasonable inferences.
+- Knowles and Wyoming v. Houghton retain their separate roadside and automobile rules; neither supplies residential investigative authority here.
+LAW
+Courts must examine the actual protected residential space, exposure and manner of police access rather than treat intended disposal or ordinary approach access as sufficient by themselves. The Court has not decided that this inspection was a search. Greenwood remains applicable to its actual exposure setting, and lawful findings and ordinary conditional remedies remain necessary. No precedent is overruled.
+JUDGMENT
+**Vacated and remanded, 5–4.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg.
+
+**Opposing:** Scalia, Kennedy, Thomas and Breyer.
+
+Stevens, Souter and Ginsburg accept this minimum relief while also concluding that the inspection was a search. Stone-Zsela and O'Connor leave that application for reconsideration. The Court orders no automatic exclusion, acquittal, release, plea withdrawal, new sentence or new evidentiary hearing.
+
+FILE pension_benefit_guaranty_corp_v_cfi_fabricators_merits_1999-05-13.md
+**Case and dockets:** Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.; No. 98-1440; judgment below, 150 F.3d 1293.
+HOLDINGS
+### The actual tax-treatment connection must be read with its lien conditions
+
+**Holding and operative rule:** A court may not reject §412(n)(4)(C)'s incorporation of rules similar to ERISA §4068(c), including its express Title 11 tax treatment, solely because the Bankruptcy Code does not refer back to the pension provision. It must determine the incorporated treatment's scope and satisfy the specified lien conditions and applicable pre-1994 §507(a)(7) requirements before granting tax priority; the Court grants none here.
+
+**Authority:** Souter's Parts I and III, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, control the tax and valuation holdings, eight votes.
+
+
+### Prepetition-service compensation does not become a new administrative debt merely because payment is later due
+
+**Holding and operative rule:** The additional pension-contribution claim, attributable to prepetition employee services, does not obtain §503(b)(1)(A) administrative priority merely from a later due date, continuing funding duty or later plan termination. The already allowed component for actual postpetition services remains, and Reading's distinct postpetition-liability route without an estate-benefit requirement remains intact.
+
+**Authority:** Souter's Part II is joined by all nine Justices and controls this complete debt-origin ground and its limits.
+
+
+### The statutory liability measure must be reconciled with bankruptcy allowance
+
+**Holding and operative rule:** Sections 1362(b)(1)(A) and 1301(a)(18), including the latter's incorporation of PBGC-prescribed assumptions, define the underlying unfunded-benefit liability and cannot be displaced categorically merely because the claim is in bankruptcy. Courts must apply that lawful measure together with §502(b)'s petition-date allowance command, enforce actual statutory limits and conflicts, and consider properly presented validity or application objections; the Court validates no universal methodology and fixes no amount.
+
+
+TREATMENT
+- United States v. Reorganized CF&I Fabricators retains its operation-based treatment of the separate §4971 assessment and its subordination limits; unpaid contributions with this conditional Title 11 instruction are a different debt.
+- United States v. Noland preserves statutory priority and actual exceptions rather than judicial reprioritization.
+- Reading Co. v. Brown preserves administrative treatment of qualifying postpetition liability without a measurable estate benefit; the additional debt here remains prepetition in origin.
+- Hughes Aircraft and UNUM distinguish obligation, function and remedy; UNUM's state-insurance saving clause is not transplanted into this federal scheme.
+- Haggar supplies actual-authority and statutory-limit review, distinct from particular validity and application.
+- Associates Commercial Corp. v. Rash follows its particular retained-collateral valuation rule; it supplies no universal pension discount method.
+- LaSalle separates the legal allocation of rights from their numerical valuation and imposes no general market test on this claim.
+LAW
+The tax-priority claim returns for construction of the actual incorporated instruction and its conditions, including the preserved lien/stay alternative. Additional administrative priority remains denied for prepetition-service debt while the postpetition-service component survives. The $124,441,000 valuation is vacated for a lawful liability-and-allowance inquiry, with no substitute award. The Appeal Fund limit remains and no precedent is overruled.
+JUDGMENT
+| Component | Disposition | Supporting | Opposing |
+|---|---|---|---|
+| Tax priority for unpaid minimum contributions | Vacated and remanded, 8–1 | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela would affirm denial |
+| Additional administrative priority for prepetition-service debt | Denial affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | None |
+| Unfunded-benefit claim valuation | Vacated and remanded, 8–1 | Same eight Associates | Stone-Zsela would preserve the lower valuation |
+
+No tax priority or claim amount is awarded. The allowed postpetition-service administrative component and Appeal Fund limitation remain intact.
+
+FILE saenz_v_roe_merits_1999-05-17.md
+**Case and dockets:** Saenz v. Roe; No. 98-97; judgment below, Roe v. Anderson, 134 F.3d 1400.
+HOLDINGS
+### Bona fide new citizens receive equal ordinary welfare treatment
+
+**Holding and operative rule:** A United States citizen who establishes bona fide residence in a State becomes its citizen on equal terms; the Fourteenth Amendment's Citizenship and Privileges or Immunities provisions forbid lowering that otherwise eligible citizen's ordinary welfare benefits solely because of recent arrival or the former State's benefit amount. California's first-year differential violates that guarantee even if the person never received benefits before moving or moved for reasons unrelated to assistance.
+
+**Authority:** Kennedy's Opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Ginsburg and Breyer, controls both holdings, eight votes.
+
+
+### Federal permission cannot lower the constitutional floor
+
+**Holding and operative rule:** Congress may structure and condition federal welfare assistance, but may not authorize a State to violate the Fourteenth Amendment's equal-citizenship guarantee. Section 604(c)'s permission to use prior-State benefit levels therefore cannot sustain California's unconstitutional differential; permission is not a federal command.
+
+
+TREATMENT
+- The Slaughter-House Cases supply the specific recognition of becoming another State's citizen through bona fide residence; their broader construction is not reopened.
+- Shapiro v. Thompson supplies the prohibition on durational welfare penalties; a reduced payment still burdens current equality.
+- Dunn v. Blumstein distinguishes actual residence from additional duration.
+- Zobel v. Williams rejects ordinary resident-benefit allocation by arrival history.
+- City of Boerne v. Flores prevents statutory replacement of constitutional content.
+- Lunding and Romer retain their source-specific equality rules; neither is converted into a general judicial guarantee of welfare amounts.
+LAW
+California must treat otherwise eligible bona fide current citizens equally in ordinary welfare benefits without the first-year prior-State ceiling. Legitimate residence verification and equal eligibility conditions remain enforceable. The ruling rests on narrow equal state citizenship, creates no national welfare amount and cannot be displaced by federal permission. No precedent is overruled.
+JUDGMENT
+**Affirmed, 8–1.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer.
+
+**Opposing:** Thomas.
+
+The preliminary injunction remains in effect against the first-year differential. No permanent decree, damages award or fixed benefit amount is entered.

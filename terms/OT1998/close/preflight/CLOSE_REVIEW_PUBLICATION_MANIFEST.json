@@ -1,0 +1,1036 @@
+{
+  "purpose": "Publish OT1998 staged close candidates, first audit findings and preparation evidence for review; do not replace state or represent term close as committed",
+  "base_commit": "bba783c4cc408c15bc00b3b2492a5df22ae4d3f8",
+  "created_utc": "2026-10-29T22:38:43.399856+00:00",
+  "file_count": 205,
+  "total_bytes": 33538711,
+  "protected_inputs_unchanged": 214,
+  "second_audit_performed": false,
+  "files": [
+    {
+      "path": "terms/OT1998/close/AUDIT.md",
+      "bytes": 14141,
+      "sha256": "6a57f7ad3a59db97d60679505a0e9e6cabbbc0017f05313d05e69534e940491f"
+    },
+    {
+      "path": "terms/OT1998/close/HOLDINGS.candidate.md",
+      "bytes": 5126912,
+      "sha256": "33ce239af3af5affb990907733700134557559cd4fb8e7afcd958fb1912f7a52"
+    },
+    {
+      "path": "terms/OT1998/close/INPUT_SNAPSHOT.json",
+      "bytes": 41886,
+      "sha256": "e285eb6ff92e5ca4294af5d0c6254615a474fc398ff9bf554d770cb6ac203a1d"
+    },
+    {
+      "path": "terms/OT1998/close/STANDARDS_AND_TESTS.candidate.md",
+      "bytes": 1792435,
+      "sha256": "a93fe75e85445908079971811269e6675d929f1bee4d611ad0d394e971e90fc0"
+    },
+    {
+      "path": "terms/OT1998/close/STANDING_STATE.candidate.md",
+      "bytes": 10553,
+      "sha256": "102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/ALL_EVENT_COVERAGE.json",
+      "bytes": 24432,
+      "sha256": "7a37aad02c16239ee2a276b94629f312b189d42d4ed8deedcd691c8989ee3646"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/FINAL_PREPARATION_IDENTITY.json",
+      "bytes": 1629,
+      "sha256": "50f0ef4ff9bf0c91ba25bb3b4807751496e1ea4b00cbdb68eb1de74215bc95a8"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/HOLDINGS.pass1.md",
+      "bytes": 4813434,
+      "sha256": "f05832517bee8eaf3b5fa8ac4c97735df7883ef9a7791593f428490066dc7544"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/HOLDINGS.pass2.md",
+      "bytes": 5063492,
+      "sha256": "76e1dd2818d1c0e175573ec137f56803e4f4f2406d0b182ce9884136861db055"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/HOLDINGS.pass3.md",
+      "bytes": 5126912,
+      "sha256": "33ce239af3af5affb990907733700134557559cd4fb8e7afcd958fb1912f7a52"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/PASS1_RECEIPT.json",
+      "bytes": 13663,
+      "sha256": "f0ff64e63565175c32c1b13528a058aa42d7e376f6991a393ce2d1bf5a10ecc5"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/PASS2_RECEIPT.json",
+      "bytes": 23806,
+      "sha256": "8722e4f2c8b4bd27ff4c70fcd30b02a1d18a418b69cdf62a14ffb266e085078c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/PASS3_RECEIPT.json",
+      "bytes": 25201,
+      "sha256": "0bc9c14c1c4b4edf0ea4920823058d437b100e9487a8c7e3f7a209ed3ee20184"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/PREPARATION_ISSUES.md",
+      "bytes": 5880,
+      "sha256": "36251f15880db3a8ee710bd92b22701158b832ac2e1da63166deeb5a99e18116"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/ada_same_day_source_note.md",
+      "bytes": 3538,
+      "sha256": "7717db6efaa594a8063a14a61c486a07bee04623ee69861cca62bc3df27f7074"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/assemble.py",
+      "bytes": 11506,
+      "sha256": "9587d063c1e448239cbd45d02d266e8c5153ae3d7003d13148047829c3c2e398"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/build_chunk12.py",
+      "bytes": 17125,
+      "sha256": "4438c29254bdb0822dcd1a4598e3ab3b867b8a67874e1ca485672d82c4e9ec7e"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/build_chunk678.py",
+      "bytes": 32004,
+      "sha256": "ec88304e401476c24f10f7f72f4b23dde7712b0b63f170380fedb0be1dc31756"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_coverage.json",
+      "bytes": 14419,
+      "sha256": "f6ea391c84c0bc37872cc60427dfaa787de922c22132dd8d72f26e219a575b3b"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_coverage.md",
+      "bytes": 5527,
+      "sha256": "62d7550f1508209d8608de976672ef391d3560d9c99d76436c868ab032698c5c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_entries.json",
+      "bytes": 147150,
+      "sha256": "e54d02cf1a3e977940736fbc7ac032061737c8838a05f5d2ebfc53e47ac60734"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_01.md",
+      "bytes": 20795,
+      "sha256": "c5f884496c690151f577ce00cf12a479c85628073e72c73f9ed5063a6dfde768"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_02.md",
+      "bytes": 14439,
+      "sha256": "da241bd550278f31e3483aa3136537613163bdef622a72b0122c10de4ff3c5a3"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_03.md",
+      "bytes": 24744,
+      "sha256": "fcb9648d53be465ba185cf01dd211134a14e810c8ad490046578c0b6b244582b"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_04.md",
+      "bytes": 9629,
+      "sha256": "b0cfb3c93fa1ba6ddc70b8b1f70421292028c9ee2e8db5be47b054d50be69b71"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_05.md",
+      "bytes": 26859,
+      "sha256": "cc5f7cd1f6fa570ee9afd10f09e2b26337600d3c9b5177a7247322ea2f38a0bc"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_06.md",
+      "bytes": 22340,
+      "sha256": "e5f1a70b5cd972f64aab8525ee93707de78f492d914a4c982ee8d3d666d091c0"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_07.md",
+      "bytes": 10721,
+      "sha256": "14f85a229675ce65595bacf065c8caea685d746c3cfbfb74454b4a5697f726c6"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_08.md",
+      "bytes": 7433,
+      "sha256": "55f02f5e8813d4ef0dd5c9554df03be59a442558916b8028889e15b72ed3e0ab"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_09.md",
+      "bytes": 12885,
+      "sha256": "ca414adcc2f52016fcdd45428d584d1aefa140ec5c9ab64ae11ab3e338888ad6"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_10.md",
+      "bytes": 5255,
+      "sha256": "71b459fe8aea6fa57c475d6c190c18b321697356a783edd25aa854b27a0a7926"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_11.md",
+      "bytes": 9145,
+      "sha256": "a6310d2411a6a593ad0845929ba25c8c7cbabc6c78aca929001fafa9ae6a9941"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_12.md",
+      "bytes": 7900,
+      "sha256": "3f2b7648459965753de86b1c670f3e027122a61ac97e7cc303217df70c51e422"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_13.md",
+      "bytes": 5671,
+      "sha256": "acfdd8fa8b1d186542fa2baca716b2d80d68af18668d3ba6d8a21f872aba4a83"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_14.md",
+      "bytes": 12926,
+      "sha256": "347953a564300f0f3eb0066ab34ac433fafde7e9eb8dad952f9e56290acfd08f"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_15.md",
+      "bytes": 9428,
+      "sha256": "5bf980b22eed710727bd7aeca12b9986d7a352c28f509c43f3a44e7e22232854"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_16.md",
+      "bytes": 8478,
+      "sha256": "def6cea36337f8c1f0041a684b2ba3835f580b1faaa149b6e72c18abb8c1d21f"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_17.md",
+      "bytes": 16158,
+      "sha256": "cef60b35895f9086438892d169b9af21888dbd1b2a342bdd03024d30ffff96fa"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_18.md",
+      "bytes": 9966,
+      "sha256": "6f8e4082f35412df200c24067cbfe013476b37a76cce74854d7f3feeb27bdb03"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_19.md",
+      "bytes": 8417,
+      "sha256": "f8201c32da3e38eb22a6c6d41c0900c5f854a521968d4b7d17079cf174844dd8"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_20.md",
+      "bytes": 3642,
+      "sha256": "5ab24a8c044bc45ab147c346f37885504d126ea37b1192c4cb630114f9cda4ff"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_21.md",
+      "bytes": 9067,
+      "sha256": "f40f177ce43ed5cdc53a6caefd8a7f00434c0ca80bb8611a7978b9ac2e142f62"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_22.md",
+      "bytes": 18369,
+      "sha256": "c5d28046efbf6f7e96e3e046a323e016353c7acca1be0507d4c1649728e5df8c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_23.md",
+      "bytes": 6243,
+      "sha256": "d68a57e1e0ec05996a3038c74061541c27164f70a69cdd94ffe4b5e234550128"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_extract_24.md",
+      "bytes": 8969,
+      "sha256": "4797b0aeb0c5a609ff493a130db0bc81fa1a874362d2ea28ffde0890814b2533"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_01.md",
+      "bytes": 14020,
+      "sha256": "1d1a6dccb40698c841370c9e87131a9ad3780b292c8eb0f909a7d5d7145168ec"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_02.md",
+      "bytes": 9595,
+      "sha256": "65471dae4c4403378c8bbe3a02a14cc303d828e476f1502da63eeda1fea11b4e"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_03.md",
+      "bytes": 16305,
+      "sha256": "8c2ff2646ce14722ba83c5c2272543bfff95da2bc51a0bcdff546172da34000c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_04.md",
+      "bytes": 7199,
+      "sha256": "0d2d153584a37e08264b368d949f71ee2e8d8459afae8df9df3ac7dfbc8e4476"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_05.md",
+      "bytes": 16218,
+      "sha256": "3ae51b37edf73c93e8891ef8de627ebb8bba2348256470d90ea799a5cdbb5c26"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_06.md",
+      "bytes": 13112,
+      "sha256": "6710e65476257d656c5b36c0d3d0a548ac4352f8ecde677a594190bd18a7ed89"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_07.md",
+      "bytes": 7454,
+      "sha256": "687af546f49fc846a96e91eba6487d43b5b4a04b5649c46a330b35293a861cdb"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_08.md",
+      "bytes": 4687,
+      "sha256": "b1d05711f11aa6cdb71b1fa814184a98b784b59c02d0a3a13942f7fb2d740cbb"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_09.md",
+      "bytes": 8743,
+      "sha256": "cac2415135846e8c6a3cfedb99a96415080464ec5e4aa1d5f719b106f3d52acc"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_10.md",
+      "bytes": 5255,
+      "sha256": "71b459fe8aea6fa57c475d6c190c18b321697356a783edd25aa854b27a0a7926"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_11.md",
+      "bytes": 9145,
+      "sha256": "a6310d2411a6a593ad0845929ba25c8c7cbabc6c78aca929001fafa9ae6a9941"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_12.md",
+      "bytes": 5935,
+      "sha256": "284f45017e17747e7e0b4311778a487f5aca5d48f65539edfbd86a6423b65fa8"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_13.md",
+      "bytes": 3654,
+      "sha256": "108f9bb58e63cd5be529e8c610fb0632e83a1d168aad94a00fe184da8161b836"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_14.md",
+      "bytes": 8087,
+      "sha256": "3ce57428d6c3d64c77ea48edb55b657986089744668dea8e6db81ef98826c7a6"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_15.md",
+      "bytes": 5987,
+      "sha256": "393edee125212241767b36cc887b7676eba686f5e37fc7461701bb933bd6747c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_16.md",
+      "bytes": 5359,
+      "sha256": "28724a61149ab6856354817c434348a3e66fd622c5b917041de464e48b78b00c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_17.md",
+      "bytes": 12601,
+      "sha256": "62ee4ee9ed3650d4f572b79f84321d1675595ff45e214024f4911b7237d8229c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_18.md",
+      "bytes": 6428,
+      "sha256": "771e80438ebfe3368622ad7722708d903256a931b97c783af3498838779688a4"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_19.md",
+      "bytes": 5705,
+      "sha256": "35149d6eee39b1dc54351cd0e76ed159fd429944373aedf5b55fd7302a4645ad"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_20.md",
+      "bytes": 2727,
+      "sha256": "db3b72ff798f43804e073d6d83c2547e1c6e4981ed19a615d41719b6415bcc78"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_21.md",
+      "bytes": 5370,
+      "sha256": "9f35eb40a139e61c334f00e03ce4facd26a44bdd541f797ece4443de37b4dd45"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_22.md",
+      "bytes": 12275,
+      "sha256": "527b45a46d2fc371da8ec87ed322ad848deef04a8a78750929af268b32fa998c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_23.md",
+      "bytes": 4103,
+      "sha256": "0e18269521b52b93430b29747760475577f4b71b88a0eecfd962153fbcb9673a"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk12_rules_24.md",
+      "bytes": 5666,
+      "sha256": "2198c6510db60b1278953a34916916f910b5527db31e0c77f1000d491d953133"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk678_coverage.json",
+      "bytes": 25028,
+      "sha256": "972b15a8a633a21d6f244d0d50306b2e378d2c1a7a31147eaebd681d59d1c8af"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk678_coverage.md",
+      "bytes": 6452,
+      "sha256": "c043eac0d61f0b39335162f7b135551b4c69648ba2dd0b8355ec89b4d309c7ea"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk678_current_force.md",
+      "bytes": 4275,
+      "sha256": "40dab2c6d25e0ab1825e6576c7e5a9af16337f798b9e664b357faf56f372de0e"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/chunk678_entries.json",
+      "bytes": 128310,
+      "sha256": "ec0f7268287f524d581c8600f2d9f6494013b6d9586fa82f686ad0d69d29d627"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_1.txt",
+      "bytes": 99785,
+      "sha256": "08349520887165f5e7041b860a5227da98015e134bf8b6e58cc01e192a45a789"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_10.txt",
+      "bytes": 86882,
+      "sha256": "9d243cc3b2db8758ef29287f4967af1303ea978068ed942eb41a01324b27013d"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_11.txt",
+      "bytes": 60370,
+      "sha256": "86da91fc8bd4ed73d89d26b1645da7dd22af6bcd5f16610432c7a29b2bb01f1f"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_2.txt",
+      "bytes": 61742,
+      "sha256": "8393b2f936679c9640f8618add35966d951820cbb0f63af3f8e80c2810895b6b"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_3.txt",
+      "bytes": 59312,
+      "sha256": "64b9cab1d0f58319a035f59792b9fca311c5870bf49eddb1a49deae88debbb50"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_4.txt",
+      "bytes": 75420,
+      "sha256": "62b139ab8982732ebc034f872504f5283b0113f0f41d0c959e3e01ff98e5c405"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_5.txt",
+      "bytes": 52288,
+      "sha256": "bdbcad8e4dbba8a3d2a72280ae9b7a3da3bc10c3aea7225756d728815d84c15c"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_6.txt",
+      "bytes": 53719,
+      "sha256": "6219496ea9b53b3e99ace8d616332ae63396e0fd6f4fee52b823d6eaa194d614"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_7.txt",
+      "bytes": 41724,
+      "sha256": "f748014477491801a810578a939b1e153c3cfec31f01b166b74146bd41165f98"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_8.txt",
+      "bytes": 41585,
+      "sha256": "639e2d2ebe40dedc71e3a38d7ae22d7ce6d1fb896d3e447b5541b8a3c324751d"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/compact_9.txt",
+      "bytes": 54712,
+      "sha256": "cb751530749d76c566e632cbc7cc73a74cbb4ae0314606e14f290ec0f5a4fedb"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_11.json",
+      "bytes": 3741,
+      "sha256": "ee613657d31ba6acc26ad2b7b2c71923b54f7c2eac6cc50a814c31fbbcb425b1"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_11.md",
+      "bytes": 847,
+      "sha256": "47da444a278f53a3ff9cae640d223719825d4ae5210516d8d0384fb5d9f6fb87"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_345.json",
+      "bytes": 24845,
+      "sha256": "9c5da9228bb29f78c1921da062127101acb44ae18045e50ac031a0554e77c799"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_345.md",
+      "bytes": 5294,
+      "sha256": "c48355be353c9f9ac867a6ddc72afd81b4f9be39be5329c94dda8c09497c1028"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_910.json",
+      "bytes": 16591,
+      "sha256": "f7172e70204a7d3899046fc886235074f79cd81ac53e20d00dfc5390775b53c9"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/coverage_910.md",
+      "bytes": 3438,
+      "sha256": "362c54be3491070b7391d39bb1b5c7b1f669fe782594cfc73fc736a4f30e76e5"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/draft_entries_11.json",
+      "bytes": 62291,
+      "sha256": "c96a6ffbecb38a76f23f42e1084a0ee4c070c96af144d657cdf1296680a34ada"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/draft_entries_345.json",
+      "bytes": 191397,
+      "sha256": "46d112b1e1e8ad444cce5a15e520a2f2240e4471edde38efb1e3654d7f7e03ab"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/draft_entries_910.json",
+      "bytes": 147481,
+      "sha256": "a1e2ccff5cb9e7330e4106a6f1664443c59920cdd48d1249d144d5e304e36e94"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/edit_pass1.py",
+      "bytes": 3934,
+      "sha256": "398c2c02035a51035e8183442da461281718d0d25870e88e2f3abd21d87f2ac8"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/edit_pass2_late.py",
+      "bytes": 7767,
+      "sha256": "fb51897db16e229c5366e1ef211aa299881b6865cb1a1a3be4b0be6d53c53292"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/edit_pass3.py",
+      "bytes": 5442,
+      "sha256": "14511b4e7f4f5ea6a77786524a4bd58a759d7c29590e92f0e4f35ce9d64d6ba9"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/entries_11.json",
+      "bytes": 61970,
+      "sha256": "d32bb71379d87955e3b10340dfb400631653c7d7ccbd2696b5ba2645e3539113"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/entries_345.json",
+      "bytes": 197444,
+      "sha256": "47c80776b7cbe10e9c46538c11a306d2d49fec9dc0bd36ed337afd954258aae7"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/entries_910.json",
+      "bytes": 123671,
+      "sha256": "389728480d8d4552da7892494b805442a12f598fc87f025d31fc15d4a29a5c52"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/extract_11.txt",
+      "bytes": 99424,
+      "sha256": "beea3e3bea19702d5ffb4cc01edf40c4ac9a988a7cec30e17337f02a70c97aac"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/extract_345.txt",
+      "bytes": 303949,
+      "sha256": "05b37bcb138e360e2b40103a1a9a9de15e1a70725e73af8fb54ba700e0fd16a8"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/extract_678.txt",
+      "bytes": 241459,
+      "sha256": "c5bff57ade11f3c570a326a68aa758dfee79ded05dbc72a30d71607f3ca544df"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/extract_910.txt",
+      "bytes": 215643,
+      "sha256": "89cc28df8b54a9b4e54112160544145552f69f2e777eaf19fbf240a40e748466"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/prepare_entries.py",
+      "bytes": 3728,
+      "sha256": "8652609da16b4e834b44673035c2b0b6a853c9fb835547740e16e8845f871ff5"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/record_extractions.json",
+      "bytes": 1735854,
+      "sha256": "8c4cdd2d67b9d44d0007910abdad4f4ae0aac43487c44fcd5d15b8b963ca4b6e"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/render_checks_11.json",
+      "bytes": 1562,
+      "sha256": "f27617f4cbfa443b71828e082c5e9dfc67ea12a455986d72458e5c722af78f53"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/render_checks_345.json",
+      "bytes": 7415,
+      "sha256": "4c041c5d3cad01c689c05ddf629ced477f98353e66460a4d7b90991c1fc0fab3"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/render_checks_910.json",
+      "bytes": 4703,
+      "sha256": "68d17bb0fa95e10055c499dbfaf1135b711bbacd1ae0699fbaabcafda9dc2542"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/render_rule_crosscheck_910.json",
+      "bytes": 2802,
+      "sha256": "7cdfeb0955dd75107023a524be3c5314408e1371479311f3c57ce2fc5f72826b"
+    },
+    {
+      "path": "terms/OT1998/close/holdings-work/split_pass1.py",
+      "bytes": 1649,
+      "sha256": "fd4debec6cbb770fac0e4ee6abb889c6154118e2bc2a435f2ba0b55021183e6a"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/CANDIDATE_GATES.json",
+      "bytes": 1704,
+      "sha256": "67dcbc0c369d4d38fa9f42ad899b75515221e59c1f6ab0e3d326a810356a178b"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/FIRST_PASS.md",
+      "bytes": 10165,
+      "sha256": "a01aa2182e69438285e8ed3b4900bfe49abf7065829174ffc7f779f3d4586ef1"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/FIRST_PASS_CLASSIFICATION.json",
+      "bytes": 1366,
+      "sha256": "1cc1996022f4e075043ddc5a2d3653c94fc7e34c7917932ddf92bce99698335a"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/PENDING_ANCHOR_RESOLUTION.json",
+      "bytes": 2345,
+      "sha256": "2581ed953aeb0f46edc04790514681a30884d8784cc57da568a81ec31498b074"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/REMOTE_CONTEXT_SOURCE_VERIFICATION.json",
+      "bytes": 41084,
+      "sha256": "82688a84483fe4db8d8c59f2902aaa9c48f9840f2f2bcf521d6a531170487c25"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/REMOTE_SOURCE_HYDRATION.json",
+      "bytes": 10964,
+      "sha256": "1bea37e8e77d552637800131508a4c8c1af5cfec0a96dfd62c5fbeee1d6c0086"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/canonical_check.json",
+      "bytes": 1171,
+      "sha256": "ab339f6382979582b6319d29246a2a26e889d842557ee9dea4d433746afabcdd"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/check_once.py",
+      "bytes": 5161,
+      "sha256": "c62d4cd00b867a5023d3a47b5e456f2033608f065fccef42535f0f88fb511504"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/missing_all_link_targets.json",
+      "bytes": 116466,
+      "sha256": "cc1d8e9a67e1968d582a7de970bda1745e4171d972494e35bd182a6b1aa4d324"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/missing_record_link_targets.json",
+      "bytes": 15510,
+      "sha256": "211c6f09690ba61adc209ea6fa97f5dbba3eb907089e29ef4926d6eb6f21fb36"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/publish_close_review.py",
+      "bytes": 4925,
+      "sha256": "d26366398803164a81ba9f65eddbe8ec4058f5c2233c963c80fd18fa3dc3600e"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/remaining_checks.json",
+      "bytes": 260320,
+      "sha256": "aba584b43cdf2f8e60f48f756f89c8601365c04c2a174df0819018658a461219"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/remaining_checks.py",
+      "bytes": 10970,
+      "sha256": "52edb3cc334d5a17ffbdb9f67a135cd88274964f55965b4450b7df5fac56e879"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/remaining_original_context_targets.json",
+      "bytes": 63847,
+      "sha256": "ca8c224777ac57ea40789783537c2e093907f13c9fcd542ce0eaf1c0f23cf678"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/verify_remaining_sources.py",
+      "bytes": 3285,
+      "sha256": "f302c2e882d013fdf93fdb14b2a0ac3c75e510a0d146625f539039dfb3762148"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/verify_remote_sources.py",
+      "bytes": 3113,
+      "sha256": "d0c09557d446c889c282c20ab2d84d81ad6fd9dd1caf8111cdf683f8463ccdbd"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1991/output/OT_1991CHUNK5.md",
+      "bytes": 82343,
+      "sha256": "8501d2b6706780d97b549e9a061e280d3843d96b88489e9e847fd5f1870534dd"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1991/output/OT_1991CHUNK9.md",
+      "bytes": 183945,
+      "sha256": "6f682699c15513ae048343c2c14860178dd5354198192140c0c8f96a47efddf7"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1997/records/new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "bytes": 42407,
+      "sha256": "c83ad0e4df4418ab61a5542b7082a437ab8351bf8a9f41b085de7464698ccc02"
+    },
+    {
+      "path": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "bytes": 5456,
+      "sha256": "f53e4ef8931b24aa623c234e2d726e40432b896caa603fefe067435654bf57a2"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/COVERAGE.md",
+      "bytes": 37255,
+      "sha256": "07c8073ba9b2385275a64927b6100e8a58f3ea335a1e103275d03db9ddab1b43"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/INDEPENDENT_DERIVATION.md",
+      "bytes": 2182,
+      "sha256": "4c573b796c4c3be1b024e20871d98f3fad88fb4d3763fe7c2442edd265c0d6a9"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/ISSUES.md",
+      "bytes": 3110,
+      "sha256": "d36e0564b459facd60de2f2987f4be9111d475716f07ec581d9b621a33fc6a24"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/NAVIGATION_RECONCILIATION.md",
+      "bytes": 1308,
+      "sha256": "9d6b3cbe1dec7cad86353c47c2c9227a168d0cd3c147f38b2627c29c92f05e46"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/STANDARDS_AND_TESTS.independent.md",
+      "bytes": 1749735,
+      "sha256": "76deb93dea7342fbbeadcbd5e8a954b80c6dd474e1c7bd6af7df16db6736a3b7"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-01.md",
+      "bytes": 158907,
+      "sha256": "40a5b45410a0da49a9296a144bb8130364ff2f001a20f1b4f41756d5bbfb39fc"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-02.md",
+      "bytes": 90214,
+      "sha256": "237e7ef015fd6ca28c3f08bc4a4cf093c03e97a20948eebf961116d3e73bd555"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-03.md",
+      "bytes": 85064,
+      "sha256": "f10f7714ad02bf0778d74fcec421cea841e8049dad73e06be3a45b1c502c4b43"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-04.md",
+      "bytes": 123800,
+      "sha256": "7b0c779001cd35b076f34eeb07dc88f53118a70efa566a3c98ddbe1383964b0e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-05.md",
+      "bytes": 107981,
+      "sha256": "d84dc524f384c19d6347df1355a4c5531384eb18a9257a6fd414ffed592abe73"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-06.md",
+      "bytes": 73578,
+      "sha256": "9c41cea4ab419b36e0451e7772852bc0e347219cdbcdbb5e94d0a51962ee7403"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-07.md",
+      "bytes": 86280,
+      "sha256": "46b1c1dac1f4d2e590398ba6d4c340d8f6f460b82f22adf0326ac436da7884fa"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-08.md",
+      "bytes": 66135,
+      "sha256": "f2a60b7f8d0cbf1ef5e1d35529e736ca3f84ddb10cbfa9e396990ebbdb19acd7"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-09.md",
+      "bytes": 65171,
+      "sha256": "4bcb92214780d7e4ee91080893ab23676a36f4eca779a7dd2fe5fc5284c4ff45"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-10.md",
+      "bytes": 85582,
+      "sha256": "b054d1d7ed253480d6c73e61cd37f8f5e9ede1bdcceb9fa8fa50ab70154a95f9"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-11.md",
+      "bytes": 88526,
+      "sha256": "e5258edda8bebb24e90456c38732521738af0a46b44b3a4dc146019009e9caf0"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-12.md",
+      "bytes": 96234,
+      "sha256": "b46e96357cd0f00f11adf9f95947a538c308bc90bab553b77d36351ee941aae4"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-13.md",
+      "bytes": 116923,
+      "sha256": "c760227c95a77ed43de775eb1b7e068aef2e28b7cee2f69a3fbc2c1a1fbcec47"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/authority-batch-14.md",
+      "bytes": 14642,
+      "sha256": "63f9e7e9daad637a86bd684740d7361d2715adba850547e0a8a1c5a25ff8e0c9"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/build-early.py",
+      "bytes": 91849,
+      "sha256": "e8b23f9d5ee02d0b2aa4b2e0beaf3a245868307c82accbee018b1d064dfce9bc"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-061-065.md",
+      "bytes": 30375,
+      "sha256": "d27c8903164305902c54f655475350899d1afd18887ab815ef729bf1996c49cc"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-066-070.md",
+      "bytes": 37383,
+      "sha256": "1bd7ef135e00cca989fd03e8d9224c378672dedf1b4adf907a9ee4b7853dfb32"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-071-075.md",
+      "bytes": 25652,
+      "sha256": "acc21cc3fff8264aea3e4bcde501fd00a3ff1a988217081b899f3665be0519c5"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-076-080.md",
+      "bytes": 25487,
+      "sha256": "347f18ee53bb7f20e5b51baa8192929b9019a8ab9ecf01c3dce570d208458ccd"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-081-085.md",
+      "bytes": 30235,
+      "sha256": "956577df08ad892dd52fc560b45988b11bdd1e525eb7a030b7dd6e17de6e752a"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-086-090.md",
+      "bytes": 19200,
+      "sha256": "e59579b7e3d8306bf0804cb67bdadfa94f40329e784810bafd68a8063b698281"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-091-095.md",
+      "bytes": 26060,
+      "sha256": "242f9b5a66add6a5d83d97276619d6a49634427f0f3eb7520d59e61ae2a19c44"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-096-100.md",
+      "bytes": 39000,
+      "sha256": "f2f3f50045ffb42f9552b3cce2a9b6ed322e73d68ce720691ec2640984864f91"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-101-105.md",
+      "bytes": 30603,
+      "sha256": "eece6a32ffb87e2d3b364ef0cd0b2749c03c784ad8ee1ab6052323b6e01bb0ee"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-106-110.md",
+      "bytes": 37719,
+      "sha256": "97a87aa7f850d87a8e306f3918e5c1f9200f4bbbd1a399cfb0e262d683484ea4"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-111-115.md",
+      "bytes": 30187,
+      "sha256": "40afc548347a7eed7ca6db7f14ad49d581ffce117e68f64b75cadcc2f8166df1"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-116-120.md",
+      "bytes": 44134,
+      "sha256": "fc64b90fca802705eaa5748047a392c817d4b75273ad4457a01b2db643e4008e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-121-125.md",
+      "bytes": 39372,
+      "sha256": "3ab09854d686cf37649a5d4ec47812f278212850bab61386754a3f48f80c7771"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-126-130.md",
+      "bytes": 51368,
+      "sha256": "2af92758f4cccf0e74a7554c2fc8367385a0c5290db509685bce0ca79a77e800"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/compact-131-131.md",
+      "bytes": 12220,
+      "sha256": "6cb7548cd7b1cb338df870bf5e3acca0f05f61fbde7109fd471c3c64b552fcc8"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/coverage.json",
+      "bytes": 50954,
+      "sha256": "dbcf186aca02157e96ae0f8042f3f74cb2a0a079f01dd76b65d544c5a7366c31"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-coverage.json",
+      "bytes": 22061,
+      "sha256": "18d1736690c53732f34cc6a5d3e52597df432a971c3e57a78e1ef6a77d1e4aaa"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-draft.md",
+      "bytes": 136335,
+      "sha256": "c534f1f6e91394d067a9121a0a397bcaba9869c5c03f9d30ab974ad076d8d467"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-edits.json",
+      "bytes": 146287,
+      "sha256": "f3e3b5e370b828451e8f059c14769980a25e59a88be63202b149c7bac4258084"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-01.md",
+      "bytes": 64516,
+      "sha256": "bb2b548e88c34074f6f85bcc2a5bb8d65f3a5e9f0647266e048ae6874a24b4db"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-02.md",
+      "bytes": 36339,
+      "sha256": "770dbc75a86592657aaf129ff979e277ae971766a0c4a9fa79c707dfdc9afa9e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-03.md",
+      "bytes": 23900,
+      "sha256": "550014dcde51bdaa23e18ca10a2f88a8b712c9f364ac8a29ea2c03dbf50715fc"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-04.md",
+      "bytes": 24606,
+      "sha256": "a7639cfcb114effae6d2a32a111dc736500888df9d336a25ecc45b0faed2b124"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-05.md",
+      "bytes": 28735,
+      "sha256": "e7a904650dbf26a1eec574ac1b655402740cd5dab08477ae691c20802d9cb2cc"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-06.md",
+      "bytes": 20812,
+      "sha256": "bb4e0392f0f99d3dee7a12e2bee7ceb83c60ed7d20db625748a76320f3e4d123"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-07.md",
+      "bytes": 30059,
+      "sha256": "712b0a5b051a0490217bcbcedc8dc9d2ab1163f2bf349c40864bfc5280778b2e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-08.md",
+      "bytes": 47001,
+      "sha256": "3e9e40b9ed2687e661d82851642adbafdce7e59fc4c4c4396101cdb31b457f90"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-09.md",
+      "bytes": 28976,
+      "sha256": "8a9b38c92adacafeeb6583d142963e15313882904431418f7e02dfad1a777902"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-10.md",
+      "bytes": 38946,
+      "sha256": "5240a312d8cbce8b032dadf61c41593e5072c84b0a3c18d8c9a163e1c8887898"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-11.md",
+      "bytes": 17630,
+      "sha256": "15970ba422addcecbb834bc6b83191149af8c4ac88117203a6f923a8f6797133"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-holdings-12.md",
+      "bytes": 19911,
+      "sha256": "fafd62c8466bf976d39f8f74681d3d1601a5700319286f0fe10d187c15a256fd"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-issues.md",
+      "bytes": 1011,
+      "sha256": "98718e935eb2e045ce3fca66107c91dfb1c58804b7fccc9685ae7ad1131eea27"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-01.md",
+      "bytes": 51990,
+      "sha256": "47cd1a0f316f0ebe8ce972577740bc9ce95b4f48f63521300e40677aad908d9e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-02.md",
+      "bytes": 37079,
+      "sha256": "27fbc82aa0a1e444e2a2ef24cfce4daaecda64f3f7e19774b900d1c2472d4cba"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-03.md",
+      "bytes": 36136,
+      "sha256": "8bbfeccbb9ee49a5f5ed323b65ca7f4ae17d6b4ea831a72ab340df330abfa655"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-04.md",
+      "bytes": 43707,
+      "sha256": "bee45946a83a49bbc320328c23776667f0d19934af25dc21c3094ec7a3095518"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-05.md",
+      "bytes": 43263,
+      "sha256": "5d8f14332e23c8c14f4f0e22b2e0653646e4f00dd655008176be30c0073afca1"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-operative-06.md",
+      "bytes": 30107,
+      "sha256": "5e5dc28cc9e84abde743f53f74605751bb382030f2c81367889b4e09a9f230e8"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-source-locations.json",
+      "bytes": 48247,
+      "sha256": "173cdd0be638a915bb78a04b54dc8f8f8631c929e07232a734ab8c3faec36624"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/early-titles.json",
+      "bytes": 81463,
+      "sha256": "b087ad0900c303317f4de0365cb4fa9e425258a4b60fa65440aa11623b3fd861"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/final-receipt.json",
+      "bytes": 1467,
+      "sha256": "29c3f35f5609ad76190cce8ab7203695d45014823530ef1a85a68396e4732f85"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/holdings-navigation-map.json",
+      "bytes": 66576,
+      "sha256": "b1df13e9d8ab30c661c1808e5559626da22251f6272cb6fe069ad4d653e4fa5e"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/integrate.py",
+      "bytes": 9208,
+      "sha256": "076836ed026639e592b8ad6ef6c5d26567c813fce35a22e136843468699456dd"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/integration-receipt.json",
+      "bytes": 8695,
+      "sha256": "2be19060a0294ff7020f5d5177e0fa34b38eceb8c0e9f22f1c6fef6dc9bf4325"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/late-build.py",
+      "bytes": 116010,
+      "sha256": "43961dc989e2c8d8a0b3c47818fda2c753ae6983baeb124b3858ae455675c131"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/late-coverage.json",
+      "bytes": 19959,
+      "sha256": "e71264eb52b51e5b37deff985e675ef3550aa60730c50d7d4027c585ac35e297"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/late-edits.json",
+      "bytes": 119216,
+      "sha256": "a9ef5ae6b2ff11f845bff5643906d2fb86b191535eeef7e97702fd30cd6dfdce"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/navigation-insertions.json",
+      "bytes": 57309,
+      "sha256": "ec6a59ed42aaa3e4364bcce23080782b54ef463f69d3a56796e5b7f91187f4a3"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/navigation-plan.json",
+      "bytes": 216503,
+      "sha256": "8996707257f01c5bbd95e2cd4910d758487632d3b250176a630b59103b354e07"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/opening-titles.txt",
+      "bytes": 45377,
+      "sha256": "cabada6a984093875167de3c113f16c0f8d9e59ec473a8bfae19591e97f1ef98"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/reconcile-navigation.py",
+      "bytes": 9358,
+      "sha256": "183aa1e66fce7369d2a89901c3d95b758dd468d603608704961b0d220d1e5f71"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/records-index.json",
+      "bytes": 15620,
+      "sha256": "168b5beebb219ebf2ed8da5cf5d0f2d791aec84c5291080b46bbe4a96b022624"
+    },
+    {
+      "path": "terms/OT1998/close/standards-work/source-locations.json",
+      "bytes": 114448,
+      "sha256": "2c58fca3eef8688908e2b4e6abe7e7d19f47f833cda7fcbc8c92b5b8a7f84cec"
+    },
+    {
+      "path": "terms/OT1998/close/standing-work/PREPARATION.json",
+      "bytes": 1624,
+      "sha256": "39f3718ee3e177ae59a4547af3b4ce486abe3b334516c75f1a6dcfb918084fd1"
+    },
+    {
+      "path": "terms/OT1998/close/standing-work/STANDING_STATE.draft.md",
+      "bytes": 10553,
+      "sha256": "102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d"
+    }
+  ]
+}

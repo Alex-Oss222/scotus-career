@@ -1,0 +1,19 @@
+{
+  "pinned_main": "bba783c4cc408c15bc00b3b2492a5df22ae4d3f8",
+  "classification": "All139 initially unavailable target paths exist on pinned main. They were local checkout omissions, not repository or adjudication defects. Root restored135 OT1998 files and mirrored4 older-term files only under current term preflight.",
+  "canonical_record_link_occurrences_resolved": 40,
+  "all_dependency_occurrences_resolved": 344,
+  "distinct_target_paths_verified": 139,
+  "remaining_original_context_target_count": 0,
+  "remaining_original_context_occurrences": 0,
+  "receipts": [
+    "terms/OT1998/close/preflight/REMOTE_SOURCE_HYDRATION.json",
+    "terms/OT1998/close/preflight/REMOTE_CONTEXT_SOURCE_VERIFICATION.json",
+    "terms/OT1998/close/preflight/PENDING_ANCHOR_RESOLUTION.json"
+  ],
+  "new_pending_anchor_occurrences_resolved": 4,
+  "prior_ncaa_anchor_resolution": "CHUNK4_C_EXTRA_NEUTRAL.md:64 anchor matches NCAA_CLEAN_INPUT.md:512; completed earlier and not repeated.",
+  "unresolved_first_pass_link_or_anchor_discrepancies": 0,
+  "candidate_dependent_checks": "Pending completion and joint checking of all three final replacement candidates; no substantive legal audit or second deterministic pass was run.",
+  "first_pass_scope": "Applied root API receipts and completed only previously unavailable target anchor checks; no canonical or full scanner rerun."
+}

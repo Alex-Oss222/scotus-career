@@ -1,0 +1,26 @@
+{
+  "scope": "Navigation reconciliation and candidate placement only; no legal audit or rederivation.",
+  "independent_sha256": "76deb93dea7342fbbeadcbd5e8a954b80c6dd474e1c7bd6af7df16db6736a3b7",
+  "holdings_candidate_sha256": "33ce239af3af5affb990907733700134557559cd4fb8e7afcd958fb1912f7a52",
+  "candidate_sha256": "a93fe75e85445908079971811269e6675d929f1bee4d611ad0d394e971e90fc0",
+  "candidate_bytes": 1792435,
+  "publication_context": "state/STANDARDS_AND_TESTS.md; HOLDINGS.md resolves to the coordinated state/HOLDINGS.md publication.",
+  "current_term_entries_reconciled": 123,
+  "question_level_holdings_links": 195,
+  "existing_navigation_preserved": true,
+  "all_changes_are_navigation_insertions": true,
+  "removing_recorded_insertions_recovers_independent_bytes_exactly": true,
+  "independent_file_unchanged": true,
+  "holdings_file_unchanged": true,
+  "planned_publication_links_and_anchors_resolve": true,
+  "existing_external_links_unchanged": true,
+  "publication_headers": {
+    "Last completed October Term": "1998",
+    "Processed through": "June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.",
+    "Edition": "October 29, 2026"
+  },
+  "unresolved_navigation_issues": [],
+  "navigation_map": "holdings-navigation-map.json reused only for current-term question identification; final destinations use completed Holdings heading anchors.",
+  "prohibited_material_accessed": false,
+  "git_commands_run": false
+}

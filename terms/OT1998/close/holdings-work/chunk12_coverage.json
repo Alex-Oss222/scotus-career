@@ -1,0 +1,372 @@
+[
+  {
+    "file": "united_states_v_wright_merits_1998-10-05.md",
+    "date": "1998-10-05",
+    "status": "include",
+    "areas": [
+      "Constitutional Structure",
+      "Civil Rights",
+      "Criminal Procedure"
+    ],
+    "questions": 7,
+    "source_sha256": "e0f2b0cc24d7edea93920f0e204d35a79c0e42694afd4f4e22e42000f1fd0b30",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 7,
+    "render_rules": 7,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "fraternal_order_of_police_v_united_states_merits_1998-10-07.md",
+    "date": "1998-10-07",
+    "status": "include",
+    "areas": [
+      "Federal Courts",
+      "Civil Rights"
+    ],
+    "questions": 4,
+    "source_sha256": "2fb5d7dcee942c621a07a91cb02472ffe65e25fae5c419bcf6a02c25c344688d",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 4,
+    "render_rules": 4,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "hiley_v_barrett_merits_1998-10-09.md",
+    "date": "1998-10-09",
+    "status": "include",
+    "areas": [
+      "Federal Courts",
+      "Constitutional Structure",
+      "Civil Rights"
+    ],
+    "questions": 10,
+    "source_sha256": "05461265de4c25e91ec456156102723fe942ef43ad8d4929ee9883edbd6163bc",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 10,
+    "render_rules": 10,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "united_states_v_louisiana_supplemental_decree_1998-10-13.md",
+    "date": "1998-10-13",
+    "status": "include",
+    "areas": [
+      "Constitutional Structure"
+    ],
+    "questions": 3,
+    "source_sha256": "437722ce15b5fdf06397ec9f48e3694f415c06bc60cd4db5a9a4ffbc558ba465",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 2,
+    "render_rules": 3,
+    "render_assessment": "Louisiana coordinate wording is substantively identical: supplied straight segments and center-defined arcs are expressly tied to the incorporated schedule in both texts."
+  },
+  {
+    "file": "peoples_rights_organization_v_city_of_columbus_merits_1998-10-15.md",
+    "date": "1998-10-15",
+    "status": "include",
+    "areas": [
+      "Federal Courts",
+      "Civil Rights"
+    ],
+    "questions": 11,
+    "source_sha256": "8b974a36c0552f0d419d554a2ec5c82c858ce57a0bf712bb359cd7a778e5c467",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 11,
+    "render_rules": 11,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "united_states_v_franklyn_and_gonzalez_merits_1998-10-22.md",
+    "date": "1998-10-22",
+    "status": "include",
+    "areas": [
+      "Constitutional Structure",
+      "Criminal Procedure"
+    ],
+    "questions": 8,
+    "source_sha256": "3bc10dc514f5daeb25347343ea9f9e385de6242a9502ffbbee1a77e0577aa33d",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 8,
+    "render_rules": 8,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "united_states_v_griffin_and_langley_merits_1998-10-29.md",
+    "date": "1998-10-29",
+    "status": "include",
+    "areas": [
+      "Constitutional Structure",
+      "Criminal Procedure"
+    ],
+    "questions": 3,
+    "source_sha256": "78af0a9fe02d71b00c68382c318e9f50891ffcf3b6a47b27f6f1b075c9a0ad19",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 3,
+    "render_rules": 3,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "marquez_v_screen_actors_guild_merits_1998-11-03.md",
+    "date": "1998-11-03",
+    "status": "include",
+    "areas": [
+      "Labor and Employment"
+    ],
+    "questions": 2,
+    "source_sha256": "55cab2ad74c1162e273274f28aa0ba1b78e673973cf56cdced97db979e33e302",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "coalition_for_economic_equity_v_wilson_merits_1998-11-10.md",
+    "date": "1998-11-10",
+    "status": "include",
+    "areas": [
+      "Civil Rights"
+    ],
+    "questions": 4,
+    "source_sha256": "e82f0618ebd7653e2d69f521398da5a26f578715b8d559c9c8ee9d4ee2006628",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 4,
+    "render_rules": 4,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "pfaff_v_wells_electronics_merits_1998-11-10.md",
+    "date": "1998-11-10",
+    "status": "include",
+    "areas": [
+      "Business and Commercial Law"
+    ],
+    "questions": 1,
+    "source_sha256": "4bd95161a138a80e15e3b402ef5251450690feec55ce495d3ff2f3a602657e37",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 1,
+    "render_rules": 1,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "merrill_lynch_v_kravitz_merits_1998-11-12.md",
+    "date": "1998-11-12",
+    "status": "include",
+    "areas": [
+      "Business and Commercial Law"
+    ],
+    "questions": 2,
+    "source_sha256": "64db43ab1e24a007191505da78f53e93ef82d7c7b2766d6cca3628db252a2751",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "naacp_los_angeles_branch_v_jones_merits_1998-11-05.md",
+    "date": "1998-11-05",
+    "status": "include",
+    "areas": [
+      "Federal Courts"
+    ],
+    "questions": 1,
+    "source_sha256": "e7fdfb56beabe9d4cb3f93b7b994fb4bae7890aa9cfeefb1d522f3dfff77eb10",
+    "render": "terms/OT1998/output/OT_1998CHUNK1.md",
+    "render_sha256": "76eab74279d5ce82d399f4c8e411c03235f00d12cd9a6e9bd61c7dae297b2935",
+    "render_exact_rule_matches": 1,
+    "render_rules": 1,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "wright_v_universal_maritime_service_corp_merits_1998-11-16.md",
+    "date": "1998-11-16",
+    "status": "include",
+    "areas": [
+      "Labor and Employment"
+    ],
+    "questions": 1,
+    "source_sha256": "f4d156fa877b71270b0fe3ec3ac210f372d6f92b904d118b1f2526902fbf3407",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 1,
+    "render_rules": 1,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "dodd_v_hood_river_county_merits_1998-11-19.md",
+    "date": "1998-11-19",
+    "status": "include",
+    "areas": [
+      "Federal Courts",
+      "Property and Economic Rights"
+    ],
+    "questions": 4,
+    "source_sha256": "e0e2157c689ca89affb89f1e4e1e3e44040c09cf8bb21c34ff080d402a5a5f6f",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 4,
+    "render_rules": 4,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "wisconsin_right_to_life_v_paradise_merits_1998-11-24.md",
+    "date": "1998-11-24",
+    "status": "include",
+    "areas": [
+      "Federal Courts"
+    ],
+    "questions": 2,
+    "source_sha256": "72f1ba6a041d16e27a199d069c67ec6cd4b5bb09f35ba44a2d82d8eb634a417a",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "att_universal_card_services_v_rembert_merits_1998-12-01.md",
+    "date": "1998-12-01",
+    "status": "include",
+    "areas": [
+      "Bankruptcy"
+    ],
+    "questions": 2,
+    "source_sha256": "19d8a68f93c7d1dc33d5688101d2bbb925e454d89650beba0a4f482de388c311",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "minnesota_v_carter_and_johns_merits_1998-12-01.md",
+    "date": "1998-12-01",
+    "status": "include",
+    "areas": [
+      "Criminal Procedure"
+    ],
+    "questions": 3,
+    "source_sha256": "25956d97a2fa43731f183e689d70662d6cd53ed21428b91f5c4c55d996f65430",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "equality_foundation_v_cincinnati_merits_1998-12-03.md",
+    "date": "1998-12-03",
+    "status": "include",
+    "areas": [
+      "Civil Rights"
+    ],
+    "questions": 3,
+    "source_sha256": "432edfd8c4b822f649e6147924596268135a4ee2e6284f63921b184b4869cf07",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 3,
+    "render_rules": 3,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "knowles_v_iowa_merits_1998-12-08.md",
+    "date": "1998-12-08",
+    "status": "include",
+    "areas": [
+      "Criminal Procedure"
+    ],
+    "questions": 2,
+    "source_sha256": "bf72ba2720777315cde46d50d4b1021ce0c883494f91d4952c35815200475d76",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "mosley_v_united_states_death_disposition_1998-12-08.md",
+    "date": "1998-12-08",
+    "status": "include",
+    "areas": [
+      "Federal Courts"
+    ],
+    "questions": 1,
+    "source_sha256": "31a75ea2778599eaa449ad5fbcd8d49ed7a6514338a408ce7b7ba75c94a9a691",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 1,
+    "render_rules": 1,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "mcclellan_federal_credit_union_v_parker_merits_1998-12-09.md",
+    "date": "1998-12-09",
+    "status": "include",
+    "areas": [
+      "Federal Courts",
+      "Bankruptcy"
+    ],
+    "questions": 3,
+    "source_sha256": "f27e41625330afef43e2ee95f2c84e0d6f55f43a2a6a46075af8dd83e409888a",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 3,
+    "render_rules": 3,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "calderon_v_coleman_summary_merits_1998-12-14.md",
+    "date": "1998-12-14",
+    "status": "include",
+    "areas": [
+      "Criminal Procedure"
+    ],
+    "questions": 4,
+    "source_sha256": "56dff7b3a86e18150cec810a8fd68ed5df59faa9b97bb6f187118951854bf779",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 4,
+    "render_rules": 4,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "haddle_v_garrison_merits_1998-12-14.md",
+    "date": "1998-12-14",
+    "status": "include",
+    "areas": [
+      "Civil Rights"
+    ],
+    "questions": 1,
+    "source_sha256": "f83938d822200ba58ee5b9c057517cba08698cd496eef6f547e7a872342d5329",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 1,
+    "render_rules": 1,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  },
+  {
+    "file": "nynex_corp_v_discon_merits_1998-12-14.md",
+    "date": "1998-12-14",
+    "status": "include",
+    "areas": [
+      "Antitrust"
+    ],
+    "questions": 2,
+    "source_sha256": "6e052a823d1ebe4751a4d3c5a31bcca10c7ebba2f7fd30d8b379cfbb8265bf36",
+    "render": "terms/OT1998/output/OT_1998CHUNK2.md",
+    "render_sha256": "f90ef18c7801de719c0aa17ddd40d1e4758c201861f11ebc148a5d4df9989063",
+    "render_exact_rule_matches": 2,
+    "render_rules": 2,
+    "render_assessment": "All labeled rules match after whitespace and punctuation normalization."
+  }
+]

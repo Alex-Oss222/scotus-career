@@ -1,0 +1,100 @@
+[
+  {
+    "record": "terms/OT1998/records/albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
+    "record_sha256": "81b4eb5ade47461d80ee4aad46c8fecdc0b44acb841e036182c3c1efce4160c2",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Civil Rights"
+    ],
+    "operative_rules_compared": 2,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/kolstad_v_american_dental_association_merits_1999-06-22.md",
+    "record_sha256": "cd36e9c4e60eb1f9bccb8d580f03876fa585e17743ffdcfa383f3dfa44b38012",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Civil Rights"
+    ],
+    "operative_rules_compared": 5,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
+    "record_sha256": "030d9b2522e12244db2bdd510c869879037957b4e1b4799247151e8e32989b60",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Civil Rights"
+    ],
+    "operative_rules_compared": 4,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/olmstead_v_lc_merits_1999-06-22.md",
+    "record_sha256": "a8df4937e97659d67273feb38b7571f5c8e46dd9e3fc8014f2ed5ba9d3f568a3",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Civil Rights"
+    ],
+    "operative_rules_compared": 3,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/alden_v_maine_merits_1999-06-23.md",
+    "record_sha256": "4c1ba430478debc5dbed6db5fffff78196f1bc4f5e016e51e350138bea5bb939",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Federal Courts",
+      "Labor and Employment"
+    ],
+    "operative_rules_compared": 4,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
+    "record_sha256": "0a5a0f38e4631b3396371f49b5c88dc7a7bb9e7cc1f9aded8823fb51da94ca4e",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Federal Courts"
+    ],
+    "operative_rules_compared": 3,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
+    "record_sha256": "72ac0b15706c483a42d9c2d83356318d2d5c69ca354e64b8ed15f2e2818b810f",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Federal Courts",
+      "Business and Commercial Law"
+    ],
+    "operative_rules_compared": 3,
+    "nonverbatim_rules": []
+  },
+  {
+    "record": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
+    "record_sha256": "9b9c85dce13dc6f9dd42d55a2492034021dd471f812fbca53d501d80123961d8",
+    "render": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "render_sha256": "b8066399333d8ea7edb4f66b601be9641b22cd9644e04c926077cf8b93bd4515",
+    "included": true,
+    "areas": [
+      "Federal Courts"
+    ],
+    "operative_rules_compared": 4,
+    "nonverbatim_rules": []
+  }
+]

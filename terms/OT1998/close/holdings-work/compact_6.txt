@@ -1,0 +1,458 @@
+FILE central_state_university_v_aaup_certiorari_1999-03-22.md
+**Case and dockets:** Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
+HOLDINGS
+The grant establishes no substantive holding.
+TREATMENT
+No precedent is altered by the grant.
+LAW
+The governing law remains unchanged pending disposition of the federal question.
+JUDGMENT
+The grant brings the stated federal question before the Court. It does not itself reverse the judgment below or determine an independent state-law question.
+
+FILE central_state_university_v_aaup_summary_merits_1999-03-22.md
+**Case and dockets:** Central State University v. American Association of University Professors, Central State University Chapter; No. 98-1071.
+HOLDINGS
+### Faculty workload administration supplies a rational basis for this distinction
+
+**Holding and operative rule.** Ohio may exclude public-university faculty workload standards from collective bargaining to promote classroom teaching without proving that bargaining caused each earlier reduction in teaching. An ordinary occupational classification must rationally serve a legitimate purpose; a challenger cannot establish irrationality merely by identifying a lack of empirical proof or a different possible means.
+
+**Authority.** The eight Justices joining the per curiam adopt this rule, its application and the stated limits in full.
+
+
+TREATMENT
+- Beach is applied: ordinary economic and occupational classifications do not require empirical proof of the legislature's proposed causal account.
+- Nordlinger is applied: reasonable generalization may sustain a classification despite imperfect fit.
+- Heller's separate holdings are preserved: review examines the actual disadvantage without converting legislative choice into a necessity or empirical-certainty test.
+- Equality Foundation is distinguished: the workload exclusion has a defined management relationship and does not enact the sweeping civic disability addressed there.
+LAW
+Existing rational-basis doctrine governs this faculty-workload classification and sustains it against the presented federal challenge. No new scrutiny tier, general immunity for anti-union action or rule overriding independent state protections is adopted.
+JUDGMENT
+**Disposition:** Reversed and remanded on the federal equal-protection question, 8–1.
+
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Opposing:** Stevens, who opposes summary resolution and takes no final position on the federal merits.
+
+The Ohio courts may address surviving independent state-law questions. The Court does not adjudicate existing agreements, other statutory bargaining rights or retaliation for protected association.
+
+FILE kumho_tire_v_carmichael_merits_1999-03-23.md
+**Case and dockets:** Kumho Tire Co. v. Carmichael; No. 97-1709; OT1998.
+HOLDINGS
+### I. Rule 702 requires reliable specialized knowledge, whatever the field
+
+**Holding and operative rule:** Original Rule 702 requires the trial judge to assess the reliability and fit of scientific, technical and other specialized expert testimony. Experience may supply relevant knowledge, but the expert's professional label does not excuse a reliable connection between the method used and the proposition offered.
+
+**Authority:** Part I of Justice Breyer's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. All nine directly adopt this rule; no aggregation of separate rationales is necessary.
+
+
+**Precedent treatment:** Daubert's reliability-and-fit duty is extended to the other categories of knowledge expressly covered by original Rule 702; its flexible character remains. Joiner's inferential-connection rule applies to this technical proffer, without converting admissibility into a decision on the underlying claim.
+
+### II. The reliability inquiry must fit the proffer and receives abuse-of-discretion review
+
+**Holding and operative rule:** A trial judge may use Daubert's nonexclusive reliability considerations when they help evaluate the particular expertise, method and application, but need not demand every consideration in every field. Appellate abuse-of-discretion review governs both the reasonable choice of how to assess reliability and the ultimate admission or exclusion, while categorical legal error remains independently correctable.
+
+**Authority:** Part II of Justice Breyer's Opinion of the Court, joined by the same nine-Justice coalition identified for Part I.
+
+
+**Precedent treatment:** Daubert's considerations remain useful but nonmandatory tools. Joiner's uniform review rule is applied to technical evidence and to reasonable selection of the reliability inquiry; its protection against unsupported analytical gaps remains intact.
+
+### III-A. The District Court was entitled to reject the unsupported defect inference
+
+**Holding and operative rule:** Rule 702 permitted the District Court to reject Carlson's defect inference because he did not reliably explain how his inspection distinguished defect from abuse or why the observations supported the asserted cause. This permissible-exclusion proposition does not itself settle the distinct instruction governing appellate review and summary judgment on remand.
+
+**Authority:** Part III-A of Justice Breyer's Opinion of the Court, joined by Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: eight Justices. Stone-Zsela joins this bounded application and its unsupported-inference ground; Justice Stevens reserves application for the Court of Appeals. Part III-B's fuller direct-disposition discussion and mandatory conforming remand have a separate coalition.
+
+
+**Precedent treatment:** Joiner's permission to reject an unsupported inference is applied to this technical proffer. Daubert's flexible foundation-and-fit requirement remains distinct from a finding of ultimate causation.
+
+### III-B. The remand must conform to the exclusion and resulting summary judgment
+
+**Holding and operative rule:** On the reconsidered proffer, the case is remanded for a disposition sustaining the exclusion and resulting defense summary judgment, because the record supplies no remaining evidence of defect. The mandate does not require a new hearing, appointed expert or another appellate determination whether to sustain this exclusion.
+
+**Authority:** Part III-B of Justice Breyer's Opinion of the Court, joined by Justices O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg: seven Justices. Chief Justice Stone-Zsela and Justice Stevens oppose this conforming mandate and retain their distinct appellate-review remedies.
+
+
+**Precedent treatment:** Joiner's abuse-of-discretion allocation is applied to the reconsidered ruling and its supported procedural consequence. Daubert's adaptable inquiry is followed as reflected in reconsideration; neither decision requires rejection of every experience-based method.
+
+**Limits and questions not reached:** Original Rule 702 governs. The Court adopts no later Rule amendment, universal technical checklist or substantive finding that misuse rather than defect caused the accident. The ruling establishes neither automatic admissibility of experiential evidence nor categorical unreliability of visual inspection.
+TREATMENT
+Daubert supplies flexible foundation and fit and now reaches all knowledge covered by original Rule 702, while its nonexclusive considerations remain adaptable. Joiner supplies uniform abuse-of-discretion review and permission to examine an unsupported analytical connection; both apply to technical expertise. Neither decision becomes a mandatory-factor checklist or a merits causation rule. No precedent is overruled.
+LAW
+Scientific, technical and other specialized testimony receives reliability-and-fit screening suited to the actual proffer. The judge's reasonable screening method and evidentiary ruling receive abuse-of-discretion review, subject to correction of legal error. This particular exclusion and the resulting summary judgment are sustained; experience-based tire analysis as a category remains available when adequately supported.
+JUDGMENT
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Formal disposition of the Eleventh Circuit judgment | Reversed and remanded, 8–1 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens, who would vacate and remand | The categorical exemption for experience-based testimony is rejected; the actual remand instruction is separately stated below |
+| Permissibility of rejecting the unsupported defect inference | Eight Justices support permissible exclusion; one reserves application | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stevens reserves application for the Court of Appeals | The District Court was entitled to reject the unsupported analytical bridge; this proposition does not resolve the distinct remand instruction |
+| Operative remand | Conforming disposition of defense summary judgment required, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela and Stevens | On remand, the Eleventh Circuit must conform its disposition to the permissible exclusion and resulting defense summary judgment on this record |
+
+All nine Justices adopt the common Rule 702 and appellate-review rules. Chief Justice Stone-Zsela would require the Eleventh Circuit to review the reliability ruling for abuse of discretion under the complete Rule 702 framework and reinstate summary judgment if no admissible evidence supports defect and causation. Justice Stevens would vacate for that court's first application of the correct framework. Those proposed remedies do not control the mandate.
+
+FILE south_central_bell_v_alabama_merits_1999-03-23.md
+**Case and dockets:** South Central Bell Telephone Co. v. Alabama; No. 97-2045; OT1998.
+HOLDINGS
+**Common authority:** Chief Justice Stone-Zsela's Opinion of the Court is joined in full by Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt each following holding and its qualifications; no separate-rationale aggregation is required.
+
+### I. The Eleventh Amendment does not bar review of Alabama's own judgment
+
+**Holding and operative rule:** The Eleventh Amendment does not prevent this Court from reviewing under 28 U.S.C. § 1257 the federal questions decided by Alabama's own courts. Such review is distinct from initiating a new federal damages action against the State.
+
+**Authority:** Part I of the unanimous Opinion of the Court, under the common authority stated above.
+
+
+**Precedent treatment:** McKesson supplies the distinction between review of a state judgment and initiation of a federal action; it remains effective on that ground.
+
+### II. Shared taxpayer interests do not authorize binding these nonparties
+
+**Holding and operative rule:** Claim or issue preclusion cannot bind these taxpayers to earlier litigation merely because they share the earlier taxpayers' interests or were aware of the public dispute. Binding requires constitutionally sufficient consent, control, genuine privity, adequate class or other legally accountable representation, or another recognized relationship consistent with due process; the asserted common-interest rationale supplies none of those prerequisites.
+
+**Authority:** Part II of the unanimous Opinion of the Court.
+
+
+**Precedent treatment:** Richards's due-process prerequisite is applied to both proposed forms of preclusion; its protection of lawful representative adjudication and ordinary precedent remains intact.
+
+### III. Alabama's franchise-tax bases discriminate against foreign corporations
+
+**Holding and operative rule:** Alabama's franchise-tax structure discriminates against interstate commerce by taxing foreign corporations on actual capital employed in the State while allowing comparable domestic corporations to use a par-value base that may be set well below actual value. The favorable domestic base cannot be justified by comparing nominal rates or tax labels while disregarding the actual competitive burden.
+
+**Authority:** Part III of the unanimous Opinion of the Court.
+
+
+**Precedent treatment:** Oregon Waste's origin-discrimination rule, West Lynn Creamery's practical comparison and Fulton's treatment of corporate tax preferences are applied. Tracy's distinct actual-service comparison is distinguished, not displaced.
+
+### IV. The domestic shares tax does not establish a compensatory defense
+
+**Holding and operative rule:** A compensatory-tax defense requires an identified actual intrastate burden, an interstate charge that roughly approximates and does not exceed that burden, and substantially equivalent taxable events capable of functioning as mutually exclusive proxies. Alabama's domestic shares tax reaches a different event and does not establish the equivalence needed to compensate for the discriminatory foreign-corporation franchise tax.
+
+**Authority:** Part IV of the unanimous Opinion of the Court.
+
+
+**Precedent treatment:** Oregon Waste and Fulton supply the cumulative actual-burden, nonexcess and equivalent-event requirements. Their allowance for genuinely complementary taxes survives; fiscal correlation alone remains insufficient.
+
+**Independently sufficient alternative holding:** Alabama also fails to establish an actual matching domestic burden and a roughly equivalent, nonexcessive interstate burden by invoking other domestic taxes or an aggregate fiscal balance. This separate deficiency defeats the compensatory defense even apart from the absence of equivalent taxable events.
+
+**Authority for the alternative holding:** The same unanimous Part IV coalition.
+
+
+**Precedent treatment for the alternative holding:** Fulton's independently sufficient actual-burden and approximate-equivalence ground is applied without creating a universal calculation.
+
+### V. Alabama must provide adequate relief through lawful state remedial choices
+
+**Holding and operative rule:** The judgment is reversed and the case remanded for constitutionally adequate relief under state law. When payment was required before an adequate opportunity to contest the tax, McKesson requires meaningful backward-looking correction; independently, a State may not withdraw a clearly held-out postpayment remedy after payment and substitute an unpursued prepayment route.
+
+**Authority:** Part V of the unanimous Opinion of the Court.
+
+
+**Precedent treatment:** McKesson's conditional duty of backward-looking correction and Reich's independent no-withdrawal rule govern the remand. Fulton confirms the distinction between invalidating a discriminatory tax and choosing its precise lawful remedy.
+
+**Limits and questions not reached:** No exact refund, replacement assessment, severability ruling or particular taxpayer's satisfaction of payment and preservation conditions is decided. Ordinary valid preclusion and genuinely equivalent compensatory taxes remain possible under their own prerequisites. The Court does not reopen otherwise binding judgments or decide a new federal damages action.
+TREATMENT
+McKesson supplies authority to review the federal questions in a State's own judgment and the conditional duty of backward-looking relief. Richards defeats the asserted nonparty bar while preserving genuine representative and party preclusion. Oregon Waste, West Lynn Creamery and Fulton govern the practical tax comparison; Oregon Waste and Fulton require all three compensatory predicates and preserve genuinely equivalent taxes. Tracy's regulated-service distinction does not control this classification. Reich supplies the independent prohibition against withdrawing a clearly held-out postpayment remedy. No Supreme Court precedent is overruled.
+LAW
+The discriminatory domestic/foreign franchise-tax structure cannot stand on the asserted preclusion or compensation grounds. Federal review and nonparty hearing protection remain separate from tax liability and remedy. Alabama retains lawful remedial choices, but must supply backward-looking relief when its governing conditions apply; prospective correction alone cannot discharge that duty. The Court establishes no automatic refund or replacement tax base.
+JUDGMENT
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The same coalition supports each component. Alabama's courts must provide constitutionally adequate relief, choosing among lawful refunds, corrective assessments or other permissible state mechanisms under the conditions stated below. The Court selects no remedial formula, exact refund or assessment against a particular domestic corporation.
+
+FILE jones_v_united_states_merits_1999-03-24.md
+**Case and dockets:** Jones v. United States; No. 97-6203; OT1998.
+HOLDINGS
+**Common authority:** Justice Scalia's Opinion of the Court, Parts I–II, is joined in full by Chief Justice Stone-Zsela and Justices Stevens, Souter, Thomas and Ginsburg. These six Justices directly adopt the statutory construction, its ordinary element protections and the stated remedy. No aggregation of separate constitutional rationales is necessary.
+
+### I. Serious bodily injury and death define aggravated carjacking offenses
+
+**Holding and operative rule:** The version of 18 U.S.C. § 2119 governing the December 1992 offense creates a basic carjacking offense and aggravated offenses when serious bodily injury or death results. Serious bodily injury is an element of the grade carrying a twenty-five-year maximum, and death is an element of the grade carrying a maximum of life imprisonment; the basic offense carries a fifteen-year maximum.
+
+**Authority:** Part I of the six-Justice Opinion of the Court.
+
+
+**Precedent treatment:** Almendarez-Torres is applied as a statutory element-and-charging analogue, not as a general constitutional maximum-fact holding. Gaudin supplies the significance of identifying an actual element. Monge's bounded double-jeopardy classification is preserved, including its reservation of independent charging and jury questions. Holloway's attention to enacted offense conditions is consistent with this reading, but its construction of later statutory language is not imported into the earlier offense.
+
+### II. The existing indictment and verdict authorize only the basic carjacking range
+
+**Holding and operative rule:** The aggravated injury or death element must be alleged in the federal indictment; absent a valid admission as an element of the charged offense or a valid waiver of jury determination, the Government must submit it to the jury and prove it beyond a reasonable doubt. An ordinary factual admission does not itself cure an indictment that omits the aggravated element. Because injury was neither charged nor established by Jones's verdict, the judge's later injury finding cannot authorize the aggravated range; the aggravated sentence must be vacated, and sentencing on the existing carjacking indictment and verdict may not exceed the fifteen-year basic maximum.
+
+**Authority:** Part II of the same six-Justice Opinion of the Court.
+
+
+**Precedent treatment:** Hamling and Gaudin are applied to the aggravated statutory elements. Almendarez-Torres supplies the distinction between admitting a fact and properly charging the aggravated offense. Witte and Watts retain their ordinary within-authority sentencing operation and provide no basis for this increased statutory range. Monge supplies no independent remedy here.
+
+**Limits and questions not reached:** The Court's ground is statutory construction and the protections of the resulting elements. It does not decide a general constitutional rule for all maximum-increasing facts, bare prior-conviction status, mandatory minima within an unchanged maximum, every Guidelines classification or capital sentencing. McMillan's unchanged-maximum holding and Walton's capital rule are not overruled. The death grade is part of the statute's construction, not a finding that Jones caused death.
+TREATMENT
+Almendarez-Torres supplies the statutory aggravated-element and charging analogue; its result remains distinct from a universal constitutional rule. Hamling requires a federal indictment stating the offense's elements, and Gaudin requires the jury's determination beyond a reasonable doubt. Monge retains its noncapital serious-prior double-jeopardy classification and its express reservation of independent charging and jury claims; no renewed-proof remedy is drawn from it here. Witte and Watts retain their within-authority sentencing permission and do not authorize punishment beyond the charged conviction's statutory range. Holloway concerns later statutory language and does not amend the law governing this offense. McMillan and Walton are not overruled, and Custis's limits on collateral attack remain undisturbed.
+LAW
+The original section 2119 creates aggravated injury and death offenses whose added elements receive ordinary federal charging and jury-proof protections. The existing basic conviction cannot authorize the injury range. The Court adopts no general constitutional maximum-fact rule, prior-conviction exception, new mandatory-minimum rule or capital-sentencing rule. The distinct constitutional positions in the concurrences retain their stated, noncontrolling scope.
+JUDGMENT
+**Disposition:** Reversed in the challenged aggravated-sentencing respect; sentence vacated and remanded, 6–3.
+
+**Supporting:** Stone-Zsela, Stevens, Scalia, Souter, Thomas and Ginsburg.
+
+**Opposing:** O'Connor, Kennedy and Breyer, who would affirm against the presented classification challenge.
+
+On the existing carjacking indictment and verdict, punishment may not exceed the fifteen-year basic maximum. This is not an order to impose fifteen years, an aggregate-sentence calculation, an acquittal or automatic authorization of a new aggravated prosecution. Any further prosecution must satisfy its own procedural and constitutional requirements. The Court does not reinstate an earlier sentence or decide unrelated sentencing errors.
+
+FILE minnesota_v_mille_lacs_band_merits_1999-03-24.md
+**Case and dockets:** Minnesota v. Mille Lacs Band of Chippewa Indians; No. 97-1337.
+HOLDINGS
+### I. The combined removal order did not terminate the reserved use rights
+
+**Holding and operative rule.** An unauthorized compelled-removal order does not terminate reserved treaty use rights when its revocation and removal commands are inseparable parts of the same purpose and operation. The 1850 order therefore did not extinguish these rights; the Court does not decide the full extent of an independently exercised presidential power under the treaty's pleasure clause.
+
+**Authority.** Stevens's Part I is joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, counting the author within that six-Justice coalition. All six join the bounded combined-order rationale and its reservation of independent presidential revocation authority.
+
+
+### II. The 1855 land cession did not surrender these independent use rights
+
+**Holding and operative rule.** A later land cession does not extinguish separately retained treaty use rights unless the agreement, read in its setting and as the tribal parties reasonably understood it, clearly relinquishes those rights. The 1855 agreement did not surrender the Band's retained hunting, fishing and gathering privileges.
+
+**Authority.** Stevens's Part II has the six-Justice coalition of Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer.
+
+
+### III. Statehood did not itself extinguish the treaty rights
+
+**Holding and operative rule.** Minnesota's admission to the Union did not itself terminate otherwise surviving federal treaty use rights. Those rights can coexist with lawful, necessary nondiscriminatory conservation regulation; the treaty's presidential-pleasure condition does not make state admission the terminating event.
+
+**Authority.** Stevens's Part III has the same six-Justice coalition.
+
+
+### IV. The affirmance preserves the rights at their actual scope
+
+**Holding and operative rule.** Recognition of the surviving rights within the ceded territory remains in force against the presented extinction claims, subject to the applicable treaty and conservation standards. Survival does not itself decide private access, unrelated criminal conduct, numerical allocations or rights beyond the treaty's territory.
+
+**Authority.** Stevens's Part IV has the same six-Justice coalition.
+
+
+TREATMENT
+- Dion is applied: clear abrogation is required, but no mandatory form of express words is imposed.
+- Menominee and Fishing Vessel are applied: independently reserved rights are not extinguished by casual implication.
+- Klamath is distinguished: reservation-dependent exclusive rights do not determine the fate of these retained use privileges.
+- Bourland is distinguished and preserved: exclusion-derived nonmember regulation and retained personal uses remain different rights.
+- Hagen and Yankton retain their instrument-specific inquiry into actual federal displacement; land or ownership change alone does not decide every retained right.
+- Race Horse is limited: its broader equal-footing incompatibility premise cannot terminate otherwise surviving rights merely at statehood; its distinct treaty-condition construction is not decided here.
+- Winans and Tulee are applied with Fishing Vessel: treaty uses and lawful conservation regulation can coexist.
+LAW
+The Band's reserved uses survive the three asserted extinction grounds. The 1850-order, 1855, statehood and bounded-remedy holdings each control through the same six direct joins. No combination of separate opinions is needed to identify the governing rules. Race Horse no longer supports extinction solely from equal-footing incompatibility at statehood.
+JUDGMENT
+**Disposition:** Affirmed, 6–3, preserving recognition of the surviving treaty rights and the declaratory and injunctive framework within the questions reviewed.
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer.
+
+**Opposing:** Scalia, Kennedy and Thomas, each relying on the three independent extinction grounds described in the dissents.
+
+The treaty rights remain subject to lawful, necessary nondiscriminatory conservation measures. No particular regulation, harvest allocation, private-land-access claim or right outside the ceded territory is decided.
+
+FILE brower_v_washington_merits_1999-03-25.md
+**Case and dockets:** Brower v. Washington; No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.
+HOLDINGS
+### I. The reimbursement condition does not establish the claimed exclusion or transfer of electoral authority
+
+**Holding and operative rule.** A legislature may refer this particular public-private proposal subject to the beneficiary's undertaking to reimburse public election costs when the arrangement preserves equal franchise, viewpoint neutrality and meaningful legal participation. On this record the condition neither charges citizens for voting or ordinary petition access nor transfers electoral administration or the public's approval power to the beneficiary.
+
+**Authority.** Kennedy's unanimous Court opinion controls this and the following two holdings, including each stated limit.
+
+
+### II. The supported timing and resource-disparity claim establishes no right to delay or equalize the campaign
+
+**Holding and operative rule.** The short campaign and opposition's inability to match the beneficiary's resources do not, on this record, establish the asserted abridgment of political expression or a right to postpone the election or equalize advocacy. A supported practical inability to organize or communicate, or a deliberately disabling calendar, would require analysis of that actual burden and the State's precise scheduling justification.
+
+
+### III. Financial consent is not an additional governmental electoral vote
+
+**Holding and operative rule.** The affiliate's agreement to reimburse costs is an antecedent financial condition of this legislative proposal, not an allocated vote in the public electorate's decision. Because it gives the affiliate no ballot and changes no citizen's voting weight or the public tally, it does not violate the asserted federal equal-vote rule.
+
+
+TREATMENT
+- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in application creates no categorical presumption for private reimbursement.
+- Buckley v. American Constitutional Law Foundation, decided January 12, 1999, supplies protection against direct restraints on political conversation. Its invalid registration, badge and disclosure restrictions are not facts of this case.
+- Citizens for a Constitutional Convention v. Yoshina, decided January 21, 1999, supplies attention to actual legal effect and preserves review of fundamentally unfair administration. State-law authorization alone remains insufficient to answer a federal injury.
+- National Committee of the Reform Party v. Democratic National Committee, decided March 17, 1999, rejects the presented resource-parity entitlement while preserving actual suppression and discriminatory administration. That limit is retained here.
+- Gable v. Patton remains a threshold disposition, not a controlling election-financing merits rule.
+- Reynolds v. Sims supplies equality in governmental voting weight; it does not classify this financial undertaking as an electoral vote.
+- White v. Regester is distinguished because its district-dilution setting differs; equal-vote review is not categorically confined to district elections.
+LAW
+This reimbursement arrangement and compressed campaign survive the presented federal challenge. Courts must keep financing consent, electoral access, actual expressive burdens and citizen voting weight distinct, and assess their actual legal operation. Private payment, public administration and unequal resources are each relevant facts, not categorical answers. No precedent is overruled and no general private-financing or campaign-duration safe harbor is established.
+JUDGMENT
+**Affirmed on each presented federal component, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The Court grants no injunction, new election, changed tally, damages or unwinding of reimbursement. The distinct state constitutional rulings remain undisturbed and are not adopted as federal law.
+
+FILE united_states_v_rodriguez_moreno_merits_1999-03-30.md
+**Case and dockets:** United States v. Rodriguez-Moreno, No. 97-1139.
+HOLDINGS
+### Continuing kidnapping supplies essential conduct for venue
+
+**Holding and operative rule:** When the charged §924(c) firearm offense is committed during and in relation to a continuing kidnapping, venue lies in any district where that kidnapping continued, even if the firearm was physically used in another district, because commission of the ongoing kidnapping is essential conduct incorporated into the firearm offense. The Government must still prove the distinct firearm act and its required relation to the kidnapping; the predicate's status as a necessary element does not make every related circumstance a venue-conferring act.
+
+**Authority:** Thomas's Opinion of the Court has the complete seven-Justice coalition identified in Opinion Topology. All seven adopt this rule, its New Jersey application and its limits, supplying direct majority authority.
+
+
+**Limits and questions not reached:** The Court does not decide the Government's broader effects theory or establish a universal prohibition governing every effects-based venue statute. It decides no different conspiracy, aiding-and-abetting, transportation or possession charge, no number-of-violations question, no independent sentencing issue and no other conviction. Cabrales's separate charging reservations remain open.
+TREATMENT
+- United States v. Anderson, 328 U.S. 699, supplies the inquiry into the nature of the offense and the acts constituting it; counting statutory verbs alone is insufficient.
+- United States v. Cabrales, decided June 1, 1998, is applied for its charged-conduct distinction and distinguished because these allegations incorporate the defendant's ongoing kidnapping rather than the earlier criminal origin of property. Its completed-laundering holding and reserved alternative charges remain intact.
+- Smith, Bailey and Muscarello retain their distinct constructions of firearm conduct and its relation to the predicate. Those requirements remain independently necessary; none is converted into a prior holding on this venue question.
+LAW
+The §924(c) charge predicated on this continuing kidnapping may be tried in New Jersey because incorporated kidnapping conduct continued there. The decision adds this application of essential-conduct venue while preserving Cabrales's limit on using completed criminal provenance to relocate a separate offense. Every necessary element must still be proved; no independent effects-only venue rule is adopted and no precedent is overruled.
+JUDGMENT
+**Reversed and remanded, 7–2.**
+
+**Supporting:** Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+**Opposing:** Stevens and Scalia.
+
+The §924(c) conviction and its sentence are restored subject to any genuinely unresolved, properly available claim. The case returns for proceedings consistent with that conditional restoration and lawful New Jersey venue. No such claim is resolved by this decision; no other conviction or sentence is adjudicated. Stevens and Scalia would affirm the venue vacatur, which would neither acquit the defendant nor command or prohibit a new prosecution.
+
+FILE conn_v_gabbert_merits_1999-04-05.md
+**Case and dockets:** Conn v. Gabbert, No. 97-1802; judgment below, 131 F.3d 793.
+HOLDINGS
+### This interruption does not establish deprivation of occupational liberty
+
+**Holding and operative rule:** Liberty to pursue a profession does not guarantee freedom from government interruption on every occasion for providing professional services. This search-related interruption of consultation, with no prohibition on practice, impairment of professional qualifications or supported consequential interference with Gabbert's legal practice, does not establish deprivation of his Fourteenth Amendment occupational liberty, even assuming the prosecutors deliberately timed the search to obstruct consultation.
+
+**Authority:** All nine Justices directly join this occupational-merits portion of Stone-Zsela's Court opinion and its record-limited application. It is the sufficient ground for reversal; no combination of separate rationales is required.
+
+
+**Confined source explanation and authority:** Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer also join the explanation that, to the extent Gabbert objects that the search itself was unreasonable because of its execution or timing, the Fourth Amendment supplies the governing standard under Graham. Lanier preserves that actual-coverage rule without excluding every independent due-process injury. This is a distinction of constitutional sources, not a second sufficient ground that absorbs the entire occupational allegation; the occupational interest is resolved by the preceding holding. Stevens does not join this additional case-specific explanation.
+
+**Limits and questions not reached:** The decision does not hold the search lawful, extinguish a genuinely independent protected interest, foreclose preserved privilege or attorney-client objections, or decide the separately pleaded Fourth Amendment claim. It creates no immunity based on prosecutorial office or possession of a warrant. Because the asserted occupational deprivation is not established, the Court does not decide whether that asserted right was clearly established when the prosecutors acted. No mandatory merits-first sequence, absolute-immunity ruling or new client-right holding is adopted.
+TREATMENT
+- Board of Regents v. Roth supplies the recognition of vocational liberty; it does not establish an entitlement to every occasion for professional service.
+- Collins v. City of Harker Heights, decided February 26, 1992, supplies the need for an actual constitutional deprivation. Its workplace-omission rules are not extended automatically to affirmative investigative interference.
+- Graham v. Connor supplies the specific-protection inquiry for the search objection. United States v. Lanier, decided March 31, 1997, preserves that inquiry while rejecting categorical exclusion of independent due-process injuries.
+- Albright v. Oliver, decided January 24, 1994, retains its fractured judgment without a controlling combined rationale. No broader displacement rule or palpable-consequence requirement is extracted from it.
+- Soldal v. Cook County and United States v. James Daniel Good Real Property preserve genuinely independent protections despite possible constitutional overlap. City of West Covina v. Perkins, decided January 13, 1999, preserves that distinction in the criminal-warrant setting without deciding occupational liberty.
+- County of Sacramento v. Lewis, decided May 26, 1998, remains confined to its supported emergency-pursuit setting; its culpability rule does not decide this planned investigation.
+- Haddle v. Garrison, decided December 14, 1998, remains a statutory witness-conspiracy injury decision, not a constitutional entitlement to uninterrupted employment or professional practice.
+LAW
+The described interruption does not establish Gabbert's claimed occupational deprivation. The ruling creates neither a categorical rule that every temporary interference is harmless nor a requirement of permanent exclusion or financial loss. An objection to this search as unreasonable belongs under its specific constitutional standard, while a genuinely independent professional deprivation requires its own analysis. The search claim and immunity law are otherwise unchanged; no precedent is overruled.
+JUDGMENT
+**Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Gabbert's presented Fourteenth Amendment occupational-liberty claim is resolved for Conn and Najera. The separately pleaded Fourth Amendment claim retains its existing procedural position; any genuinely preserved question concerning that claim remains for the ordinary proceedings available to it. No search-validity ruling, new hearing, discovery, damages award or revival of an ungranted claim is ordered.
+
+FILE mitchell_v_united_states_merits_1999-04-05.md
+**Case and dockets:** Mitchell v. United States; No. 97-7541; OT1998.
+HOLDINGS
+### I. The plea did not waive privilege concerning reserved quantity
+
+**Holding and operative rule:** A guilty plea does not itself waive the privilege against compelled self-incrimination concerning disputed sentencing facts while testimony creates a genuine risk of additional criminal punishment. This accepted plea, its limited admissions and its trial-silence warning did not waive protection concerning expressly reserved quantity.
+
+**Authority:** Part I of Breyer's Opinion of the Court, joined by all eight other Justices.
+
+
+**Precedent treatment:** Estelle's sentencing protection and Brown's scope-based testimonial-waiver rule are applied without making every plea statement inadmissible or establishing a permanent privilege.
+
+### II. Protected silence cannot prove the crime's circumstances at sentencing
+
+**Holding and operative rule:** A sentencing court may not draw an adverse factual inference from a defendant's protected silence in determining the circumstances and details of the crime. The Government must establish disputed quantity through lawful affirmative evidence; permission for judicial sentencing findings does not authorize this source of proof.
+
+**Authority:** Part II, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg: six Justices including Breyer.
+
+
+**Precedent treatment:** Griffin's no-inference protection is applied to proof of crime facts at criminal sentencing; Estelle supplies continuing protection. Baxter and Woodard are distinguished by their civil settings. Witte, Watts and Dunnigan retain their stated lawful operations.
+
+### III. Other potentially sufficient evidence does not establish harmlessness here
+
+**Holding and operative rule:** The Government must establish beyond a reasonable doubt that this constitutional error did not contribute to the affected sentencing determination. Because the judge expressly relied on silence in crediting disputed quantity testimony, the finding cannot be preserved merely because the remaining evidence could support it; the sentence must be vacated and quantity reconsidered without that inference.
+
+**Authority:** Part III, joined by the same six Justices as Part II.
+
+
+**Precedent treatment:** Chapman supplies the contribution-based constitutional harmlessness standard. Wright's existing lawful-basis requirement is preserved and applied at its actual sentencing scope.
+TREATMENT
+Estelle and Brown govern continuing privilege and actual waiver. Griffin now forbids adverse use of protected silence to determine crime facts at sentencing; its established trial operation remains. Baxter and Woodard do not authorize the present criminal inference. Witte, Watts and Dunnigan preserve lawful sentencing findings and consequences without removing independent constitutional safeguards. Chapman governs harmlessness; Wright retains its separate sentencing-basis requirement. Jones and Monge supply no quantity classification or universal mandatory-minimum rule here. No precedent is overruled.
+LAW
+The privilege survives this plea concerning reserved punitive facts, and protected silence cannot supply adverse proof of the crime's circumstances at sentencing. Express reliance requires relief unless the Government establishes constitutional harmlessness. Lawful sentencing allocation, proof requirements and voluntary-statement use otherwise remain; no universal jury rule, mandatory-minimum classification or right to an acceptance reduction is adopted.
+JUDGMENT
+**Disposition:** Reversed in the sentencing respect; sentence vacated and remanded, 6–3.
+
+**Supporting:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer.
+
+**Opposing:** O'Connor, Scalia and Thomas, who would affirm against the inference challenge while rejecting automatic plea waiver.
+
+The District Court must determine quantity from affirmative evidence admissible under the governing sentencing standards without treating silence as evidence against Mitchell. No replacement term, automatic minimum, plea withdrawal, acquittal or jury hearing is ordered. Consequential adjustments to other sentence components must follow governing law; no independent ruling automatically eliminates supervised release or the assessment.
+
+FILE murphy_brothers_v_michetti_pipe_stringing_merits_1999-04-05.md
+**Case and dockets:** Murphy Brothers, Inc. v. Michetti Pipe Stringing, Inc., No. 97-1909; judgment below, 125 F.3d 1396.
+HOLDINGS
+### Formal process and the statutory pleading events govern the original removal period
+
+**Holding and operative rule:** Informal receipt of a courtesy copy before formal service, waiver or legally equivalent process has subjected the defendant to the court's authority does not by itself begin §1446(b)'s original-pleading removal period. Under its first branch, thirty days run when that process requirement and receipt, through service or otherwise, of the initial pleading setting forth the claim for relief have both occurred; the separate branch runs thirty days after service of summons if the initial pleading has then been filed in court and is not required to be served on the defendant, whichever period is shorter.
+
+**Authority:** Ginsburg's Opinion of the Court has the complete seven-Justice coalition identified in Opinion Topology. All seven directly adopt both statutory branches, their limits and the application to Murphy's removal.
+
+
+**Limits and questions not reached:** Both original thirty-day periods and the shorter-period direction remain operative. A validly begun period is not extended, and service-evasion gamesmanship is not excused. The Court decides no unpresented waiver's precise timing or other process sequence, does not prohibit removal before service, and does not apply the separate later-removability paragraph. Timeliness supplies no subject-matter jurisdiction. Other preserved remand grounds, contract merits and fees are not decided.
+TREATMENT
+- Henderson v. United States, decided May 20, 1996, supplies source-specific attention to service's procedural function. Its Suits in Admiralty Act holding does not itself define this removal trigger, repeal other service statutes or authorize a discretionary extension here.
+- Caterpillar Inc. v. Lewis, decided December 10, 1996, preserves the prospective duty to comply with removal requirements. Its bounded protection of an actually jurisdictionally sound completed judgment is distinguished; this case has no such judgment and applies no cure.
+- Things Remembered, Inc. v. Petrarca, decided December 5, 1995, and Quackenbush v. Allstate Insurance Co., decided June 3, 1996, retain their covered-remand-review boundaries. Review here arose from the certified denial of remand, not appellate reconsideration of a district-court remand order protected by §1447(d).
+- Omni Capital International, Ltd. v. Rudolf Wolff & Co. preserves the distinct role of authorized service in establishing personal jurisdiction. It does not independently fix the statutory time to elect removal.
+LAW
+A courtesy complaint copy received before process does not itself start the original removal clock. The first branch requires both the legally relevant process status and pleading receipt; the summons branch operates independently when its filed-pleading and no-service-required conditions are met, with the shorter statutory period controlling. The rule preserves timely statutory compliance without confusing the removal opportunity, duty to appear and subject-matter jurisdiction. No precedent is overruled.
+JUDGMENT
+**Reversed and remanded, 7–2.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+**Opposing:** Scalia and Thomas.
+
+The federal district court must treat the notice of removal as timely and address subject-matter jurisdiction and any other preserved remand ground. No contract merits or other removal defect is decided. Scalia and Thomas would sustain the appellate direction to remand to state court because receipt of the fax began the period under their construction.
+
+FILE wyoming_v_houghton_merits_1999-04-05.md
+**Case and dockets:** Wyoming v. Houghton; No. 98-184.
+HOLDINGS
+### Vehicle probable cause reaches this detached passenger-owned purse
+
+**Holding and operative rule.** When police have probable cause to search an automobile for drugs, the automobile exception permits searching a detached passenger-owned purse found inside the car if it can conceal the drugs. Known passenger ownership does not alone remove that container from the object-based search; this holding does not authorize searching the passenger's person or decide the treatment of an effect worn or carried on the person.
+
+**Authority.** O'Connor's opinion is joined in full by O'Connor, Scalia, Kennedy, Thomas and Breyer, counting the author within that five-Justice coalition.
+
+
+TREATMENT
+- Labron/Kilgore is applied without modification: actual vehicle probable cause supplies object-based container authority without an additional exigency requirement.
+- Ross and Acevedo are applied: a capable container within a justified automobile search is not exempt solely because a passenger owns it.
+- Wellons is preserved: separate personal privacy and an applicable search exception are distinct questions.
+- Di Re is distinguished: authority over a vehicle does not by itself authorize a bodily search.
+- Knowles retains its rule that a citation alone supplies no general search authority; the independent probable cause conceded here presents a different ground.
+- Carter/Johns retains its personal-right, justification and causal limits; the Court makes no new independent-source finding.
+LAW
+The existing automobile exception reaches this detached passenger purse. The four dissenting Justices support the same proposed ownership qualification and suppression judgment; that qualification is not adopted. Known ownership neither eliminates personal privacy nor, by itself, defeats the applicable exception. Person searches and attached effects remain separate questions.
+JUDGMENT
+**Disposition:** Reversed and remanded, 5–4.
+
+**Supporting:** O'Connor, Scalia, Kennedy, Thomas and Breyer.
+
+**Opposing:** Stone-Zsela, Stevens, Souter and Ginsburg, who would affirm the reviewed suppression judgment.
+
+The passenger-ownership ground cannot sustain the judgment under the automobile rule applied here. The remand does not direct unconditional reinstatement of a conviction, decide every later intrusion or erase properly available independent issues.
+
+FILE barnes_v_american_tobacco_co_merits_1999-04-07.md
+**Case and dockets:** Barnes v. American Tobacco Co., No. 98-1489; judgment below, 161 F.3d 127.
+HOLDINGS
+### The proposed monitoring class does not satisfy the applicable classwide-relief requirement
+
+**Holding and operative rule:** Rule 23(b)(2), together with Rule 23(a), requires a supported showing that generally applicable defendant conduct makes final injunctive or corresponding declaratory relief appropriate for the proposed class; common allegations of tobacco conduct and a shared request for monitoring do not establish that showing by themselves. This proposal fails because the materially different exposure, addiction-related, causation, monitoring-entitlement and limitations issues cannot be resolved by the proposed classwide ruling while preserving meaningful individual proof and substantive defenses; the Court imports neither Rule 23(b)(3)'s predominance and superiority requirements nor a categorical prohibition based on individual differences.
+
+**Authority:** Breyer's unanimous Opinion of the Court controls the complete rule, application, limits and remedy. All nine participating Justices directly adopt it.
+
+
+**Limits and questions not reached:** Medical-monitoring classes are not categorically barred, and tobacco deception receives no immunity. Rule 23(a)'s requirements remain applicable, but the Court makes no independent adequacy-conflict holding drawn from Amchem's different settlement facts. It decides no separate named claim, individual standing question, new limitations rule or medical-necessity rule. The class ruling creates no assumed jurisdiction over individual substantive merits. A different proposal would require an available procedural route, appropriate actual representatives and satisfaction of every applicable prerequisite; neither its availability nor its result is decided.
+TREATMENT
+- General Telephone Co. of the Southwest v. Falcon supplies rigorous attention to the actual Rule 23 prerequisites; the Court applies that inquiry without turning certification into a prediction of ultimate merits success.
+- Castano v. American Tobacco Co., decided January 14, 1997, supplies the actual governing-law and proof inquiry and preserves its rejection of categorical novelty or size barriers. Its (b)(3) predominance and superiority rules remain confined to their proper setting; its unappealed (b)(2) denial did not decide this medical-monitoring question.
+- Amchem Products, Inc. v. Windsor, decided June 25, 1997, supplies the requirement to satisfy applicable Rule 23 conditions and preserve lawful representation. Its settlement-specific conflicts and (b)(3) predominance application are not adopted as Barnes facts or requirements. Its limited antecedent nonmerits sequencing does not permit assumed jurisdiction to decide individual substantive claims.
+- In re Rhone-Poulenc Rorer, decided February 26, 1997, preserves lawful substantive defenses. The Court does not extend its distinct jury constraints into a new Seventh Amendment holding about this proposed equitable relief.
+LAW
+Courts must connect the differences among proposed monitoring-class members to the actual Rule 23(a) or (b)(2) requirement at issue. This proposal fails (b)(2)'s classwide-relief requirement because the stated individual issues affect entitlement and defenses. Individual differences, medical monitoring, class size and the equitable label are not categorical substitutes for that inquiry. Rule 23(b)(3)'s distinct requirements and the substantive law governing the named claims remain unchanged. No precedent is overruled.
+JUDGMENT
+**Affirmed as to the reviewed certification denial, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The five limitations judgments and the sixth plaintiff's lack-of-monitoring-need judgment remain undisturbed. The Court does not separately affirm their substantive merits, announce a new limitations or medical-necessity rule, or revive any named claim. No classwide monitoring, compensation, mandatory subclasses or renewed certification is ordered. Genuinely individual, timely claims remain subject to ordinary procedures only insofar as those procedures are independently preserved and available.

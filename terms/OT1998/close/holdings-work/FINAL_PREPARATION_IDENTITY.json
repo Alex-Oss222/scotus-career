@@ -1,0 +1,42 @@
+{
+  "opening_holding_fields": 2142,
+  "opening_holding_fields_missing_or_changed": [],
+  "candidate_entry_blocks_not_inserted": [],
+  "court_record_coverage": 130,
+  "uncovered_records": [],
+  "unknown_records": [],
+  "included_court_events": 126,
+  "excluded_court_events": [
+    "central_state_university_v_aaup_certiorari_1999-03-22.md",
+    "federal_republic_of_germany_original_leave_and_interim_order_1999-03-03.md",
+    "maryland_v_dyson_certiorari_1999-06-21.md",
+    "stewart_v_lagrand_certiorari_1999-03-03.md"
+  ],
+  "admitted_source_coverage": "maine_initiative_qualification_admitted_source_1998-12-23.md",
+  "new_area_entries": 156,
+  "new_question_blocks": 356,
+  "broad_areas": [
+    "Constitutional Structure",
+    "Federal Courts",
+    "Criminal Procedure",
+    "Civil Rights",
+    "First Amendment",
+    "Election Law",
+    "Administrative Law",
+    "Immigration",
+    "Federal Indian Law",
+    "Labor and Employment",
+    "Maritime Law",
+    "Bankruptcy",
+    "Federal Taxation",
+    "Tort Law",
+    "Environmental Law",
+    "Business and Commercial Law",
+    "Property and Economic Rights",
+    "Antitrust"
+  ],
+  "common_header": "# SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER\r\n\r\n**Last completed October Term:** 1998\r\n**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.\r\n**Edition:** October 29, 2026\r\n\r\n",
+  "candidate_sha256": "33ce239af3af5affb990907733700134557559cd4fb8e7afcd958fb1912f7a52",
+  "candidate_bytes": 5126912,
+  "scope": "Preparation identity and coverage check only; no term-close Audit or audit rerun."
+}

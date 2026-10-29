@@ -1,0 +1,46 @@
+{
+  "scope": "Finish only previously untestable first-pass anchor checks; canonical check and completed scanner were not repeated",
+  "remote_context_receipt": "terms/OT1998/close/preflight/REMOTE_CONTEXT_SOURCE_VERIFICATION.json",
+  "pinned_main": "bba783c4cc408c15bc00b3b2492a5df22ae4d3f8",
+  "anchor_occurrences_checked": 4,
+  "target_files_checked": 3,
+  "results": [
+    {
+      "source": "terms/OT1998/entering-law/OT_1998CHUNK2.md",
+      "line": 39664,
+      "original_target": "terms/OT1997/records/new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "verified_local_bytes": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1997/records/new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "sha256": "c83ad0e4df4418ab61a5542b7082a437ab8351bf8a9f41b085de7464698ccc02",
+      "anchor": "public-projection",
+      "exists": true
+    },
+    {
+      "source": "terms/OT1998/freeze/OPENING_NEUTRAL_PROJECTION.md",
+      "line": 17,
+      "original_target": "terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "verified_local_bytes": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1997/records/plra_section_123_amendments_admitted_source_1997-11-26.md",
+      "sha256": "f53e4ef8931b24aa623c234e2d726e40432b896caa603fefe067435654bf57a2",
+      "anchor": "public-projection",
+      "exists": true
+    },
+    {
+      "source": "terms/OT1998/freeze/OPENING_NEUTRAL_PROJECTION.md",
+      "line": 88,
+      "original_target": "terms/OT1997/records/new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "verified_local_bytes": "terms/OT1998/close/preflight/pinned-source-mirrors/terms/OT1997/records/new_jersey_v_new_york_original_merits_1998-05-26.md",
+      "sha256": "c83ad0e4df4418ab61a5542b7082a437ab8351bf8a9f41b085de7464698ccc02",
+      "anchor": "public-projection",
+      "exists": true
+    },
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK4_C_EXTRA_NEUTRAL.md",
+      "line": 102,
+      "original_target": "terms/OT1998/sources/chunk4_c/SOURCE_FACTS.md",
+      "verified_local_bytes": "terms/OT1998/sources/chunk4_c/SOURCE_FACTS.md",
+      "sha256": "670db64956d7593ac4969c085572f96de3713032b83ca14f43417df47fc07b82",
+      "anchor": "national-collegiate-athletic-association-v-smith--no-98-84",
+      "exists": true
+    }
+  ],
+  "all_pass": true
+}
