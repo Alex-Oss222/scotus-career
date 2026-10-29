@@ -2519,12 +2519,15 @@ The same application-date construction excludes amended §2254(d) and §2254(e)(
 - Rejection of the categorical funding-notice bar: Franklin — Notice does not bar damages for the pleaded intentional violation, February 26, 1992. Both holdings rest on White's opinion joined by Stone, Blackmun, Stevens, O'Connor, Kennedy, and Souter; Scalia and Thomas supply judgment votes only on a narrower statutory ground.
 
 - Kinman v. Omaha Public School District — III. Recipient compensation requires its own culpable response, 1997-05-27; five direct joins supply the teacher-harassment recipient rule
+- Sufficient actual-notice recipient-own-wrong route for controlled peer harassment: Canonical Decision Record `davis_v_monroe_county_board_of_education_merits_1999-05-24.md`, Holdings / A school's own culpable response can support damages for controlled peer harassment, 1999-05-24; Ginsburg Part I with Stone-Zsela, Stevens, O'Connor, Souter and Breyer, six direct joins. The distinct educational-harm component is stated in the related peer-harassment rule.
 
-**Present operation effective:** Franklin, 1992-02-26, for the remedy-availability rule; Kinman, 1997-05-27, resolves the separate teacher-harassment recipient standard.
+**Present operation effective:** Franklin, 1992-02-26, for the remedy-availability rule; Kinman, 1997-05-27, resolves the separate teacher-harassment recipient standard; Davis, 1999-05-24, supplies the separately stated sufficient controlled-peer route.
 
-**Open question:** Teacher harassment and recipient responsibility under Title IX supplies Kinman's controlling recipient standard. Recipient attribution outside that setting, punitive relief, unintended discriminatory effects and genuinely ambiguous funding conditions remain unresolved.
+**Open question:** Recipient attribution in settings not resolved by the teacher-harassment rules or Davis's sufficient actual-notice route for controlled peer harassment, punitive relief, unintended discriminatory effects and genuinely ambiguous funding conditions remain unresolved.
 
-**Holdings navigation:** Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) — Statutory discrimination remedies. Kinman v. Omaha Public School District (1997-05-27) — Civil Rights / Teacher harassment and institutional responsibility.
+**Related current rules:** Teacher harassment and recipient responsibility under Title IX supplies Kinman's controlling recipient standard. [Recipient responsibility for peer harassment under Title IX](#recipient-responsibility-for-peer-harassment-under-title-ix) separately states Davis's sufficient route and its limits.
+
+**Holdings navigation:** Franklin v. Gwinnett County Public Schools, 503 U.S. 60 (1992) — Statutory discrimination remedies. Kinman v. Omaha Public School District (1997-05-27) — Civil Rights / Teacher harassment and institutional responsibility. [Davis v. Monroe County Board of Education — A school's own culpable response can support damages for controlled peer harassment](HOLDINGS.md#a-schools-own-culpable-response-can-support-damages-for-controlled-peer-harassment-1).
 
 ### Private enforcement of Adoption Assistance Act reasonable-efforts and reporting clauses
 
@@ -5857,7 +5860,7 @@ Actual host-authorized joint use of a deliberately screened home for a private a
 
 **Present operation effective:** 1999-03-02.
 
-**Exceptions and limits:** Gun possession supplies no automatic intent inference. This construction adopts no general Model Penal Code formula and decides no unpreserved separate instruction request.
+**Exceptions and limits:** Gun possession supplies no automatic intent inference. This construction adopts no general Model Penal Code formula and decides no separate instruction request whose existence and preservation are unestablished.
 
 **Holdings navigation:** [Holloway v. United States — A settled intent to inflict serious harm if necessary for the taking satisfies section 2119](HOLDINGS.md#a-settled-intent-to-inflict-serious-harm-if-necessary-for-the-taking-satisfies-section-2119-1).
 
@@ -9799,12 +9802,13 @@ No numerical deduction threshold, compulsory notice format, universal employer-c
 **Authority by component:**
 
 - Field-based exclusivity and distinction between conditions and coverage: Canonical Decision Record `el_al_israel_airlines_v_tseng_merits_1999-01-12.md`, Public Projection / Holdings / Part I — Local law cannot avoid the Convention’s conditions within its covered field, 1999-01-12; eight direct joins.
+- Intentional touching alone does not establish Article 25 willful misconduct: the same Record, Public Projection / Holdings / Part II — The Article 25 argument does not change the result on this record, 1999-01-12; O'Connor with Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, seven direct Associate joins. Stone-Zsela does not join Part II.
 
 **Present operation effective:** 1999-01-12.
 
 **Exceptions and limits:** Events outside covered embarking, carriage or disembarking remain outside this rule. Article 25’s full operation when willful misconduct is proved remains open; intentional touching alone does not establish that predicate. No categorical rule about every physical manifestation of emotional injury or every intentional accident is adopted.
 
-**Holdings navigation:** [El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — Part I — Local law cannot avoid the Convention's conditions within its covered field](HOLDINGS.md#part-i--local-law-cannot-avoid-the-conventions-conditions-within-its-covered-field-1).
+**Holdings navigation:** [El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — Part I — Local law cannot avoid the Convention's conditions within its covered field](HOLDINGS.md#part-i--local-law-cannot-avoid-the-conventions-conditions-within-its-covered-field-1); [El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng — Part II — The Article 25 argument does not change the result on this record](HOLDINGS.md#part-ii--the-article-25-argument-does-not-change-the-result-on-this-record).
 
 ### Defined-benefit surplus and statutory termination
 

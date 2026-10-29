@@ -1,0 +1,28 @@
+{
+  "stage": "Bounded correction verification",
+  "protected_originals_unchanged_except_two_manifest_cells": 213,
+  "holdings_format_only_inverse_hash_verified": true,
+  "standards_original_reconstructed_from_independent_derivation_and_navigation_receipt": true,
+  "standards_diff_scope": "Only the seven replacements within Franklin/Davis, Tseng and Holloway",
+  "holdings_navigation_links_resolved": 197,
+  "candidates": {
+    "HOLDINGS": {
+      "path": "terms/OT1998/close/HOLDINGS.candidate.md",
+      "bytes": 5126957,
+      "sha256": "1054c9eea24d3dd41cb79cb4c2453b3a325aa54561cfb98e104bedab69f9d7fd"
+    },
+    "STANDARDS_AND_TESTS": {
+      "path": "terms/OT1998/close/STANDARDS_AND_TESTS.candidate.md",
+      "bytes": 1794145,
+      "sha256": "5f7d313948d8fbbcba4379d7c7e454ea3e27ad55beaea2657b877b225c3e85e8"
+    },
+    "STANDING_STATE": {
+      "path": "terms/OT1998/close/STANDING_STATE.candidate.md",
+      "bytes": 10553,
+      "sha256": "102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d"
+    }
+  },
+  "canonical_checker": "Passed with0errors; two warnings are exact reporter-filename fragments restated in prior FIRST_PASS prose, not commit references. That temporary report is removed at cleanup.",
+  "fresh_scoped_review": "All six authorized corrections passed; no additional substantive correction required.",
+  "unresolved_correction_items": []
+}

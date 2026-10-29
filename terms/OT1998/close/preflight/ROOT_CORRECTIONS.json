@@ -1,0 +1,19 @@
+{
+  "scope": "Authorized correction items4\u20136 only; no adjudicative edit",
+  "changes": [
+    {
+      "path": "terms/OT1998/close/HOLDINGS.candidate.md",
+      "before_sha256": "33ce239af3af5affb990907733700134557559cd4fb8e7afcd958fb1912f7a52",
+      "after_sha256": "1054c9eea24d3dd41cb79cb4c2453b3a325aa54561cfb98e104bedab69f9d7fd",
+      "correction": "Separated label and table header at all15 affected remedy tables; every other byte unchanged",
+      "count": 15
+    },
+    {
+      "path": "terms/OT1998/workspace/manifest.md",
+      "before_sha256": "8fdd708e6db1f96f432dab1b9aa678fd595d41ee22fd4ae31614219ac4db8543",
+      "after_sha256": "be711f13101c6a188189e5ced56a4df59c285773d0ce1ce7cbcfa0ccbfc718d9",
+      "correction": "Sullivan Supreme Court docket97-2000; Hanlon signed merits form; all other cells unchanged",
+      "count": 2
+    }
+  ]
+}

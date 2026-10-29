@@ -2618,7 +2618,9 @@ For the other questions in Cedar Rapids Community School District v. Garret F., 
 
 **Limits and questions not reached:** the two proposed apportionment methods are permitted by the Census Act and satisfy the Enumeration Clause on this design and explanation. Five Justices support that statutory permission and the constitutional rule, but only four adopt the general permission-versus-duty interpretation of §195. No controlling prohibition on every replacement sample census or general percentage safe harbor is established. The six-Justice House-standing rationale requires an institution's own concrete injury and leaves other institutional claims open. Review of actual implementation, geographic reliability and compliance with independent statutory limits survives. No sampling mandate or new exemption from judicial review results.
 
-**Operative remedy or transition:** | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Glavin, No. 98-564 | Reverse the statutory judgment and vacate the injunction, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Remand for proceedings consistent with permission to use the two proposed methods; the presented categorical and design-level constitutional objections supply no surviving injunction. |
 | House, No. 98-404 | Vacate the judgment and permanent injunction; remand for dismissal for lack of standing, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens, Breyer | Dismiss without prejudice for want of Article III standing; enter no merits judgment in this action. |
@@ -13444,7 +13446,9 @@ For the other questions in Marcus v. Iowa Public Television, decided 1999-01-13,
 
 **Limits and questions not reached:** Before this decision the disputed pending-case application of the original PLRA hourly ceiling remained open. Effective June 21, 1999, the hourly-ceiling temporal rule requires service-date allocation in this setting: prior law for completed pre-enactment services and the new ceiling for later services, even in an older action. The original text's independent fee-entitlement and monetary-judgment provisions retain their own predicates and are not newly construed. No cited precedent is overruled; no final fee award is reopened.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting | Opposing | Remedy |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting | Opposing | Remedy |
 |---|---|---|---|---|
 | Services completed before April 26, 1996 | Exemption from the new hourly ceiling affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Compensation remains governed by the law applicable when the services were performed. |
 | Services performed after enactment in these pending actions | Exemption reversed, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Stevens, Ginsburg | Apply the enacted hourly ceiling and allocate fees by actual service date on remand. |
@@ -20845,7 +20849,9 @@ If the Government pursues death, the new penalty proceeding must accurately stat
 
 **Limits and questions not reached:** The narrow exception ruling has seven direct votes. The intrinsic-reliability rule and its application to these challenged accusations have five direct votes and control. Seven Justices find confrontation error, with Scalia and Thomas relying on distinct grounds. No broader categorical accomplice ban, categorical testimonial replacement doctrine, formal-accusation-only limit, or new de novo-review rule is adopted. The state court cannot reinstate admission through the rejected firmly rooted label or reconsider the established violation; the remaining inquiry concerns lawful remedial consequences.
 
-**Operative remedy or transition:** | Component | Disposition and support | Supporting Justices | Other positions | Remedy |
+**Operative remedy or transition:**
+
+| Component | Disposition and support | Supporting Justices | Other positions | Remedy |
 |---|---|---|---|---|
 | State appellate judgment | Reversed and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing formal judgment vote | Further proceedings under the constitutional ruling |
 | Present constitutional admission error | Error established, 7–2 on present determination | Stone-Zsela, Stevens, Scalia, Souter, Thomas, Ginsburg, Breyer | O'Connor and Kennedy would first remand trustworthiness application | Properly available Chapman inquiry; the constitutional error itself is settled |
@@ -21038,7 +21044,9 @@ Estelle and Brown govern continuing privilege and actual waiver. Griffin now for
 
 The six-Justice tax ground is noncontribution to the actual verdict, not a rule that the jury necessarily decided every omitted materiality question. Stevens's supplementary view and Scalia and Ginsburg's exclusive equivalent-findings method do not control. The Chief accepts the governing broader method but disagrees with its application and the further fraud inquiry. The decision establishes no universal omitted-element classification, generic tax shortcut, new no-contest waiver, or automatic effect on a differently worded offense. Richardson's separate harmlessness reservation remains open.
 
-**Operative remedy or transition:** | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
 | Mail-, wire-, and bank-fraud no-materiality ruling | Reversed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Materiality is an element of the charged schemes under §§1341, 1343, and 1344 |
 | Tax counts 86 and 87: preserved materiality-instruction challenge | Affirmed, 6–3 | Stevens, O'Connor, Kennedy, Souter, Thomas, Breyer | Stone-Zsela, Scalia, Ginsburg | These convictions survive this challenge; the dissenters would set them aside and permit retrial |
@@ -21217,7 +21225,9 @@ The existing certificate is not rescinded. The provision-specific *Lindh*, *Carr
 
 **Limits and questions not reached:** Effective March 3, 1999, the particular renewed gas election, with an available injection alternative unchallenged in this proceeding, defeats this gas-method objection. The separate majority cause ruling rejects general-unavailability reasoning as support for the injunction without conclusively resolving every state-bar or independent-ineffectiveness predicate. The election holding finally resolves the particular objection; the cause alternative cannot reopen it. No general method-validity, universal waiver, successive-classification or nonretroactivity rule is added. Certificate, statutory-transition and independently justified interim-relief requirements retain their own scopes.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
 | A-735 | Application granted, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens | Gas-specific injunction vacated. |
 | No. 98-1412 | Limited summary reversal, 7–2 | O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, Stevens | Reverse the judgment granting relief on the particular elected gas objection; return for consistent proceedings. |
@@ -21263,7 +21273,9 @@ The five-Justice cause ground independently supports injunction vacatur and lawf
 
 **Limits and questions not reached:** The actual suppression and reasonable-reliance combination establishes cause, while cumulative materiality remains independently necessary. Guilt and death selection require separate confidence assessments, with all supported lawful disclosure uses considered. This record establishes neither phase's materiality. The decision creates no eligibility-only cure, categorical rule about abduction testimony or additional harmlessness burden. The reviewed dismissal stands.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting | Opposing or qualification |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting | Opposing or qualification |
 |---|---|---|---|
 | Cause for the omitted suppression claim | Cause established, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg, Breyer | Thomas finds insufficient diligence |
 | Conviction relief | Denial affirmed, 9–0 | All nine Justices | Thomas joins lack of materiality as an independent alternative to default |
@@ -26314,7 +26326,9 @@ The ordinary federal qualification supplies the complete disposition. The remand
 
 **Limits and questions not reached:** Private initial withholding requires its own governmental attribution basis. General benefit eligibility alone supplies no unconditional advance-payment right. Actual governmental conduct, fair adjudication of protected claims, prior service entitlements and properly supported continuation interests remain distinct. The decision establishes no universal immunity or absence of property and designs no additional statewide procedure.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting | Other positions |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting | Other positions |
 |---|---|---|---|
 | Private carriers' initial withholding | Attribution ruling reversed, 7-2 on reaching this ground | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Breyer | Ginsburg and Stevens would not decide this additional ground; neither holds that the carriers are state actors. |
 | Categorical advance-payment/severance requirement | Set aside, 9-0, on divided grounds | All nine | Eight join the limited entitlement rule; Stevens relies on fair governmental process. |
@@ -26356,7 +26370,9 @@ On remand the supported private-carrier constitutional theory must be rejected a
 
 The statutory enforcement vehicle does not enlarge the Title IX duty. The independent constitutional claim requires its own purposeful discrimination and responsibility; it is not a means of treating all peer harassment or negligent supervision as unconstitutional conduct. Existing Title IX attribution law, conduct-date immunity rules, municipal-liability requirements and valid preclusion defenses remain in force.
 
-**Operative remedy or transition:** | Component | Disposition | Supporting | Opposing |
+**Operative remedy or transition:**
+
+| Component | Disposition | Supporting | Opposing |
 |---|---|---|---|
 | Independent Equal Protection claims against the District and Board | Reverse the categorical displacement dismissal and remand, 9-0. | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No opposing Justice. |
 | Section 1983 enforcement of the identified Title IX statutory right against the District and Board | Reverse the categorical foreclosure ruling and remand, 8-1. | Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela, who would retain dismissal of this statutory route. |
@@ -26464,7 +26480,9 @@ For the other questions in Cedar Rapids Community School District v. Garret F., 
 
 **Limits and questions not reached:** These racial/ethnic promotions fail independently for insufficient connected justification and narrow fit; the sex promotions fail their separate actual-justification inquiry. The local racial rule and demanding sex standard retain distinct operation. Actual neutral efforts matter, but their existence and continued imbalance do not establish inadequacy, constitutional necessity or fit. The judgment creates no universal ban on supported repair and adjudicates neither the full plan nor future or ungranted promotions.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting | Opposing |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting | Opposing |
 |---|---|---|---|
 | Racial/ethnic out-of-rank promotions | Affirm invalidation and corresponding relief, 5–4 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas | Stevens, Souter, Ginsburg, Breyer would vacate and remand for independent reconsideration |
 | Sex-based out-of-rank promotions | Affirm invalidation and corresponding relief, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — |
@@ -26981,7 +26999,9 @@ The lower courts must reject ordinary membership dues alone as sufficient to est
 
 The four-Justice sufficient-plan rule and Stone-Zsela's additional plan-proof qualification are noncontrolling. No majority decides that a working plan and reasonably moving queue alone settle the defense. Kennedy's distinct discrimination theory does not replace the Court's directly majority-supported integration ground, and his limited resource agreement supplies no additional join in the full plan proposition. No fractured-opinion combination is needed for the controlling holdings.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting Justices | Opposing or other positions | Remedy |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing or other positions | Remedy |
 |---|---|---|---|---|
 | Statutory integration determination and supported relevant-time suitability premise | Affirmed, 6–3 | Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer | Kennedy would vacate for a distinct discrimination inquiry; Scalia and Thomas would reverse the asserted statutory basis | The bounded integration determination remains; no new finding of present medical condition |
 | Defense-related portion of the reviewed appellate judgment | Vacated and remanded, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia and Thomas would remove the statutory remedial basis on their contrary liability ground | Reconsider the defense and consequent prospective relief under the controlling resource rule; Stevens agrees in this judgment only, and Kennedy relies on his separate ground |
@@ -31856,7 +31876,9 @@ Related questions in Libertarian Party of Florida v. Smith, 1998-09-21, dockets 
 
 **Limits and questions not reached:** Registration cannot be used to exclude otherwise qualified resident-adult circulators; personal names cannot be compelled on the challenged solicitation badge; and the reviewed final and monthly individual-disclosure packages cannot be enforced. Governing law preserves distinct authority for lawful administration, verification, fraud controls, sponsor and aggregate disclosures. The independent validity and remedial treatment of unreviewed badge and monthly fields remain outside this judgment. No fractured-opinion or narrowest-ground synthesis is needed: each Court holding has at least six direct joins, and the badge holding has eight.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
 | Registered-voter condition | Affirm invalidation, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg | O'Connor, Breyer | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
 | Personal-name badge | Affirm invalidation, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
@@ -32070,7 +32092,9 @@ For the other questions and complete operative scope in Maine Green Party v. Mai
 
 **Limits and questions not reached:** The support-sensitive formula and the asserted contribution-gap theory survive this challenge. A constitutional right to equal funding does not arise from the reported resource comparison. Different suppressive burdens, viewpoint discrimination and exclusionary administration remain reviewable on their own supported claims. The affiliation cap receives no constitutional merits judgment. Statutory eligibility to sue remains distinct from Article III standing, and the Fund Act and FECA review channels remain separate. No new subsidy amount, contribution ceiling or appointment entitlement is created.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting Justices | Remedy and limit |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Remedy and limit |
 |---|---|---|---|
 | Facial and pleaded as-applied funding claims, including the contribution-limit gap theory | Affirmed, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No equalized subsidy, replacement contribution limit or tribunal remand is ordered on these claims. |
 | FEC-affiliation challenge | Jurisdictional dismissal affirmed without prejudice, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No decision on the constitutional merits of the cap or a different appointment or enforcement practice. |
@@ -34229,7 +34253,9 @@ Stevens relies on the recognition condition's constitutional fit; O'Connor and K
 
 Neither subsection (g)'s constitutionality nor the selection merits is decided. The two existing injunctions survive only provisionally and without enlargement while the lower courts address their distinct procedural and individual requirements. No habeas rule is added, no immigration status is granted, and no valid substantive deportation ground is immunized. The competing limited constitutional-exclusion inquiry and dismissal position are noncontrolling; neither enlarges the Court's construction.
 
-**Operative remedy or transition:** | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
 | Original jurisdiction over the defined substantial constitutional selection claim | Jurisdictional result affirmed on the confined ground in Part III-B, 5–4 | Stevens, O'Connor, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Kennedy, Thomas | Subsection (f) is rejected as a jurisdictional grant; return for the individual continuing-controversy inquiry. |
 | Preliminary relief for the Six and the Two | Appellate judgment's unqualified preservation of relief set aside for confined reconsideration; existing district orders provisionally preserved without enlargement, 5–4 | Stevens, O'Connor, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Kennedy, Thomas | Remand through the Ninth Circuit for distinct treatment of the Six's dissolution posture, the Two's initial injunction and each affected individual's surviving interest and relief. |
@@ -39594,7 +39620,9 @@ The State may apply the nondiscriminatory gross-receipts tax to these federal co
 
 **Limits and questions not reached:** Effective June 21, 1999, these federal judicial officers may defend the County's work-linked collection suits in the federal forum because the office nexus and colorable federal defense are established. Section 1341 does not bar the defensive adjudication in that collector-initiated posture. The particular occupational levy is compensation taxation within §111 and the presented source-discrimination defense fails. No categorical exemption for federal judges or local power to license their duties follows. The independent Compensation Clause question and proper calculation or procedural matters remain for their lawful treatment below. The discrimination issue is resolved, not remanded for reopening. Existing limits on affirmative taxpayer suits, actual federal-function restraints, source discrimination and distinct review questions retain their force; no precedent is overruled.
 
-**Operative remedy or transition:** | Component | Disposition and vote | Supporting Justices | Opposing Justices or qualification |
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices or qualification |
 |---|---|---|---|
 | Federal-officer removal | Federal forum sustained, 6–3 | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Scalia, Souter, Thomas would return the collection actions to state court for lack of the required nexus. |
 | Tax Injunction Act | No bar to adjudication of the County's collection action and defenses, 9–0 | All nine Justices | Scalia, Souter and Thomas join after accepting the Court's resolution of removal as the governing predicate. |
@@ -42049,7 +42077,9 @@ The District Court's invalidity result for issued claims 1–6 is sustained on t
 
 **Limits and questions not reached:** The private securities action continues to distinguish an actor's own deception from culpable affirmative assistance to another's fraud. Unattributed private approval of this unaudited release does not establish the primary-speaker theory, but nonattribution does not defeat the distinct assistance action. The existing complaint must be tested under Central Bank's actual elements. The separate prospectus dismissal remains effective. No new negligence action, universal attribution test, or remedy is created.
 
-**Operative remedy or transition:** | Judgment component | Disposition and vote | Supporting Justices | Remedy |
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Remedy |
 |---|---|---|---|
 | Primary-speaker theory based solely on private approval of BT's unaudited, unattributed January 1996 release | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | This confined ground of dismissal remains in effect. |
 | Preserved affirmative-assistance theory concerning the January release | Vacated and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Apply Central Bank to the existing amended complaint and properly presented independent pleading defenses. |

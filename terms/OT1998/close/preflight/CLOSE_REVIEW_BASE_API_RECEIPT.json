@@ -1,0 +1,7 @@
+{
+  "repository": "Alex-Oss222/scotus-career",
+  "endpoint": "/git/ref/heads/main",
+  "observed_commit": "b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf",
+  "http_status": 200,
+  "meaning": "Live API reference lookup in the correction turn confirms the published first-review commit exists; no Git command used."
+}
