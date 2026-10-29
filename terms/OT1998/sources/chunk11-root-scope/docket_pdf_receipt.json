@@ -1,0 +1,14 @@
+[
+  {
+    "case": "florida_prepaid",
+    "source": "https://archive.org/download/micro_IA40385014_0235/micro_IA40385014_0235%2001.%20Docket.pdf",
+    "bytes": 324879,
+    "sha256": "c480badaf3edf398462bead8bfe7e082de55237a2c42f08a97c192c38b58ed0e"
+  },
+  {
+    "case": "college_savings",
+    "source": "https://archive.org/download/micro_IA40385014_0212/micro_IA40385014_0212%2001.%20Docket.pdf",
+    "bytes": 319648,
+    "sha256": "9b74d6819bd6d226be48f1ed3b9392480d7e8e757c46ee5da23ead9d28b643a4"
+  }
+]

@@ -1,0 +1,222 @@
+{
+  "case": "Alden v. Maine",
+  "docket": "98-436",
+  "event_date": "1999-06-23",
+  "status": "assembly_finalized",
+  "record": "terms/OT1998/records/alden_v_maine_merits_1999-06-23.md",
+  "record_sha256": "4c1ba430478debc5dbed6db5fffff78196f1bc4f5e016e51e350138bea5bb939",
+  "counted_lead_opinion": true,
+  "lead_authors": [
+    "Souter"
+  ],
+  "form_settled_before_recount": "freeze/OT_1998CHUNK11_ALDEN_FORM_BEFORE_ASSIGNMENT.json",
+  "component_votes": {
+    "reverse_and_ordinary_FLSA_remand": {
+      "for": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "against": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "count": "5-4"
+    },
+    "review_and_statutory_authorization": {
+      "for": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "count": "9-0"
+    },
+    "constitutional_state_forum_FLSA_rule": {
+      "for": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "against": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "count": "5-4"
+    }
+  },
+  "opinion_joins": {
+    "Souter_Part_I": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Souter_Parts_II_III": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Kennedy_concurrence_in_I_and_dissent_II_III": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ]
+  },
+  "assignment": {
+    "assigning_justice": "Stone-Zsela",
+    "counts_before": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 14,
+      "Scalia": 12,
+      "Kennedy": 14,
+      "Souter": 12,
+      "Thomas": 12,
+      "Ginsburg": 13,
+      "Breyer": 13
+    },
+    "last_counted": "sutton_v_united_air_lines_inc_merits_1999-06-22.md",
+    "counted_opinions_before": 114,
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chosen": "Souter",
+    "basis": "fit",
+    "expansion_or_changed_commitment": false
+  },
+  "stone": {
+    "joins": [
+      "I",
+      "II",
+      "III"
+    ],
+    "judgment": "reverse and remand",
+    "core_revalidated": true,
+    "new_substantive_delegated_choice": false,
+    "fallback_used": false
+  },
+  "authority": {
+    "I": "unanimous holdings",
+    "II_III": "five-Justice holdings and remedy",
+    "Kennedy_dissent": "noncontrolling",
+    "Marks_synthesis": null
+  },
+  "remedy_limits": [
+    "no wage finding or award",
+    "ordinary FLSA coverage, compensation, defenses and relief",
+    "no federal reopening",
+    "no new hearing or special deadline",
+    "no fabricated officer/sovereign substitute",
+    "no reinstatement of rejected limitations defense"
+  ],
+  "required_checks": {
+    "effective_cutoff_and_no_June23_peer_law": "passed",
+    "lawful_channel_questions_posture": "passed",
+    "fixed_core_and_exact_Stone_joins": "passed",
+    "frozen_Associate_compatibility_and_departure_rationales": "passed",
+    "alternative_paths_and_reach": "passed",
+    "participation_quorum_vote_and_join_arithmetic": "passed",
+    "assignment_fresh_evidence_and_pool": "passed",
+    "remedy_and_precedent_authority_limits": "passed",
+    "eleven_public_blocks_and_opening_labels": "passed",
+    "internal_public_holdings_identical": "passed",
+    "public_private_boundary": "passed",
+    "relative_links_resolve": "passed",
+    "frozen_source_identities": "passed"
+  },
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "controlling_explanation_word_counts": [
+    103,
+    96,
+    239,
+    123
+  ],
+  "selected_separate_summary_word_count": 210,
+  "source_hashes": {
+    "freeze/OT_1998CHUNK11_ALDEN_NEUTRAL.md": {
+      "bytes": 21461,
+      "sha256": "0787c56077d861ee1eebcdd31a427f07d7d5de3db8cd517d506df200d559307d"
+    },
+    "freeze/OT_1998CHUNK11_ALDEN_COMMITMENTS.md": {
+      "bytes": 22544,
+      "sha256": "fcf04285b8cb072138b9600bf1d14810379ae47c00d2d3f137ccd87644b6f404"
+    },
+    "freeze/OT_1998CHUNK11_ALDEN_RECONCILED.md": {
+      "bytes": 36342,
+      "sha256": "3cdffc5e2f5d9616bd4819b5d351e800edb67a2d12fc35520e6b9471f0d9e5a2"
+    },
+    "runtime/chunk11-scoped/ALDEN_STONE.md": {
+      "bytes": 3264,
+      "sha256": "1d37f2f8906592d49e56c14f5bbb9562900b04c28ab6fd114547422add845981"
+    },
+    "entering-law/OT_1998CHUNK11_ALDEN.md": {
+      "bytes": 87027,
+      "sha256": "4a7516b79c1d1d74832e0bc222ce10f6fb1ed79fac602b5d7c6954ec8d3bb576"
+    },
+    "freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md": {
+      "bytes": 18350,
+      "sha256": "fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3"
+    },
+    "entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md": {
+      "bytes": 112581,
+      "sha256": "30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb"
+    },
+    "freeze/OT_1998CHUNK11_ALDEN_FORM_BEFORE_ASSIGNMENT.json": {
+      "bytes": 3383,
+      "sha256": "27a9c487b4b08153a1ee6456cb199a7546562f9ff0f5d4d0adea3b892e6d2c11"
+    },
+    "freeze/OT_1998CHUNK11_ALDEN_RECOUNT.json": {
+      "bytes": 99985,
+      "sha256": "8ef76185f143ec7595127dfeecad5d7f3384bbb9926a3db46997f1391747ab11"
+    }
+  },
+  "source_scope": "Assembly read the frozen neutral/commitment/reconciliation/Stone files, relevant dated law selections and complete final screen; historical full-read work belongs to reconciliation. No original pleading/payroll/grant possession claimed.",
+  "integration_status": "Controller owns workspace and render-input integration; not performed or certified by this assembly.",
+  "unresolved_material_blockers": [],
+  "deterministic_check_limit": "Arithmetic, identity and form checks do not determine legal meaning."
+}

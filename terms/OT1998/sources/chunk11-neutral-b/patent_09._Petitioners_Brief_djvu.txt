@@ -1,0 +1,2336 @@
+¢ cui 
+C 
+
+
+No. 98-531 13 Supreme Court, ys 
+
+
+IN THE 
+
+
+Supreme Court of the United 
+
+
+OcToBER TERM, 1998 — 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+EDUCATION EXPENSE BOARD, 
+Petitioner, 
+
+
+VS. 
+
+
+COLLEGE SAVINGS BANK and 
+UNITED STATES OF AMERICA, 
+
+
+Respondents. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+
+
+LOUIS F. HUBENER ANNE S. MASON 
+JONATHAN A. GLOGAU Counsel of Record 
+Assistant Attorneys General JOSEPH C. MASON, JR. 
+Office of the Attorney General MASON & ASSOCIATES, P.A. 
+The Capitol 17757 U.S. 19 North, Suite 500 
+Tallahassee, FL 32399-1050 Clearwater, FL 33764 
+(850) 414-3300 (727) 538-3800 
+
+
+Of Counsel to Petitioner WILLIAM B. MALLIN 
+LEWIS F. GOULD, JR. 
+JOSEPH M. RAMIREZ 
+ECKERT SEAMANS CHERIN 
+& MELLOTT, LLC 
+600 Grant Street, 44th Floor 
+
+
+Pittsburgh, PA 15219 
+(412) 566-6000 
+
+
+Attorneys for Petitioner 
+
+
+151429 @) Counsel Press LLC 
+FORMERLY LUTZ APPELLATE SERVICES 3 ee 
+(800) 274-3321 * (800) 359-6859 y 7 
+
+
+eumvtititinien samme eA, PE ATE Den 
+
+
+nn 
+
+
+we 
+
+
+QUESTION PRESENTED 
+
+
+Did Congress have power under § 5 of the Fourteenth 
+Amendment to abrogate the states’ Eleventh Amendment 
+immunity and make them amenable to suit in federal court for 
+claims of patent infringement when enacting Section 2 of the 
+Patent and Plant Variety Protection Remedy Clarification Act, 
+Pub. L. No. 102-560, 106 Stat. 4230 (1992), 35 U.S.C. 
+§§ 271(h), 296(a)? 
+
+
+————— eee 
+
+
+ii 
+STATEMENT OF INTERESTED PARTIES 
+
+
+Petitioner Florida Prepaid Postsecondary Education 
+Expense Board was the defendant before the district court and 
+the appellant before the Court of Appeals for the Federal Circuit 
+(the “Federal Circuit”). Recently, the Florida legislature 
+changed petitioner’s name to the Florida Prepaid College Board. 
+Petitioner is referred to by its earlier name in this brief for the 
+sake of clarity and convenience, or simply as “Florida Prepaid.” 
+Florida Prepaid is a body corporate of the state of Florida and 
+does not have any parent or subsidiary corporations. See 
+§ 240.551, Florida Statutes. 
+
+
+Respondent College Savings Bank (“CSB”) was the 
+plaintiff before the district court and an appellee before the 
+Federal Circuit. Respondent United States of America 
+intervened under 28 U.S.C. § 2403(a) in the action before the 
+district court and was an appellee before the Federal Circuit. 
+
+
+iil 
+
+
+TABLE OF CONTENTS 
+
+
+teed tt hh een hackigakhitere 
+"Sesvee sees ge eeecte sé 
+Tew PROP ONVCevesvtondavdsetsaeaden 
+"FOSCRSTSSECPCCERGC GOES 6 UE Oo 
+
+
+*"_* * @© © @ © 
+*-* 
+"ee ee eeeoseeeeeeees 
+ee © © © © 
+
+
+*e* *+ # @ «@ 
+"eee Besse easeeees 
+** * 
+
+
+Constitutional and Statutory Provisions Involved _. 
+
+
+Statement of the Case 
+
+
+_* e © © © 
+"ee eese Cees eeeee@ 6 
+ee © @ «© 
+
+
+A. The Parties 
+
+
+ee © @ © 
+. 
+Se ee eecseceoeoeeesbese 
+ee © @ «© 
+. 
+
+
+B. The Patent Remedy Act 
+
+
+C. CSB sues Florida Prepaid in fi istri 
+Sew hau epaid in federal district court 
+
+
+*_*e @ @ @ @ 
+®eeees Cees eeseeenes 
+*e © « 
+
+
+D. The Federal Circuit's constitutional analysis . . 
+
+
+Summary of Argument 
+
+
+iv 
+
+
+Contents 
+
+
+The Patent Remedy Act Is Unconstitutional 
+Because Congress Lacks Power To Abrogate 
+States’ Eleventh Amendment Immunity From 
+Suits In Federal Court For Claims Of Patent 
+WIROUIRGEE, 2 onc ccaccoccisccucseubuetune 
+
+
+A. The Patent Remedy Act Cannot Be Upheld 
+Following Seminole Tribe Because Congress 
+Cannot Use Either Article I Or The 
+Fourteenth Amendment To Protect An 
+Article I Interest Such As Patents. ...... 
+
+
+l. 
+
+
+Congress, after Seminole Tribe, cannot 
+abrogate states’ sovereign immunity 
+using its Article I powers. ......... 
+
+
+Congress cannot use its Fourteenth 
+Amendment abrogation powers to 
+protect Article I interests. .......... 
+
+
+B. The Patent Remedy Act Cannot Be Upheld 
+Following City of Boerne Because It Does 
+Not Target Unconstitutional State Conduct 
+And Lacks Congruity With The Means To 
+DS FP. 6 0.5.6 0c 00tenbstebtewenvas 
+
+
+1. 
+
+
+Patent infringement alone is not a 
+constitutional wrong and the Patent 
+Remedy Act does not target any 
+deprivation of property without due 
+SEDGE GN. os oe vavecndecemees 
+
+
+Page 
+
+
+14 
+
+
+15 
+
+
+15 
+
+
+17 
+
+
+20 
+
+
+21 
+
+
+Conclusion 
+
+
+Contents 
+
+
+a. No unconstitutional state conduct 
+can be remedied or prevented where 
+States already afford patentees due 
+PE IY 6.5585 d% cdccccen 
+
+
+2. Exposing states to lost profits, treble 
+
+
+damages, and attorney’s fees in suits 
+brought in federal court is both unduly 
+intrusive and harmful to states. ..... 
+
+
+That the Patent Remedy Act is 
+incongruent to the ends to be achieved 
+
+
+is clear when conipared with 35 U.S.C. 
+§ 1498. 
+
+
+ePeemesn ee eeeeeeeeeeeeceeseucss« 
+
+
+*“** 
+"Sees eeseseeeoeeeseceoeese eevee esebern 
+
+
+Page 
+
+
+26 
+
+
+32 
+
+
+vi 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Alaska Airlines, Inc. v. Long Beach, 951 F.2d 977 (9th 
+| RR Pe ree Cr oe Ve 25, 26 
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234 (1985) 
+rocvevccbeccenehabeucthivatucsaenanteuaseee 3,15 
+Bell v. Burson, 402 U.S. 535 (1971) ............... 25 
+Boyd v. Board of Directors, 612 F. Supp. 86 (E.D. Ark. 
+SOO. cauhias tisben ced c4ws chien andes 26 
+Calhoun v. United States, 453 F.2d 1385, 172 U.S.P.Q. 
+Ge GR. Gk Cee Sc hv cascentaetecseasereun 37 
+Chavez v. Arte Publico Press, 157 F.3d 282 (Sth Cir.), 
+reh'g en banc granted (October 1, 1998) ......... 19 
+Chew v. California, 893 F.2d 331 (Fed. Cir. 1990) ... 3 
+City of Boerne v. Flores, 521 U.S. 507, 117 S. Ct. 2157 
+CUSED oo nec cad sauces c5ecnesa buted cete van) passim 
+City of Rome v. United States, 446 U.S. 156 (1980) .. 22 
+College Savings Bank v. Florida Prepaid Postsecondary 
+Education Expense Board, 131 F.3d 353 (3d Cir. 1997) 
+PPP ETE op ey COOTER ey LP Ok ae aan 7, 16 
+
+
+vil 
+Cited Authorities 
+Page 
+Crown Die & Tool Co. v. Nye Tool & Mach. Works, 261 
+
+EE pace ddd Badd civueavdherteveviacs 18 
+Crozier v. Krupp, 224 U.S. 290 (1912) ............. 31,37 
+Daniels v. Williams, 474 U.S. 327 (1986) .......... 25 
+Davidson v. Cannon, 474 U.S. 344 (1986) .......... 25 
+Debruhl v. State Highway and Pub. Works Comm'n, 247 
+
+N.C. 671, 102 S.E. 2d 229 (1958) ............... 28 
+De Weese v. Palm Beach, 812 F.2d 1365 (11th Cir. 
+
+EL Bes CUbeAa Reon os5 pA nh bande kosehedd ohm 26 
+Diamond v. Chakrabarty, 447 U.S. 303 (1980) ...... 33 
+Doe v. University of Illinois, 138 F.3d 653 (7th Cir. 
+
+PE eb iw eee cc ab shal bear ins te badicsvoen's 22 
+Ex parte Young, 209 U.S. 123 (1908) .............. 27 
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976) ......... 5, 20, 21 
+Fontenot v. Louisiana Bd. of Elementary and Secondary 
+
+Education, 835 F.2d 117 (Sth Cir. 1988) ......... 23 
+Gayles v. Wilder, 51 U.S. 477 (1850) .............. 18 
+
+
+Gibbes v. Zimmerman, 290 U.S. 326 (1933) ......... 31 
+
+
+vill 
+
+
+Cited Authorities 
+Page 
+Green v. Mansour, 474 U.S. 64 (1985) ..........5.. 15, 36 
+Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 
+
+90, 189.8. Ce. SRG CIDRE . avis bk cdctebwhcetne de’ 35 
+Hudson v. Palmer, 468 U.S. 517, 533 (1984) ........ 31 
+Hutto v. Finney, 437 U.S. 678, 710 (1978) .......... 20 
+In re Ruffalo, 390 U.S. 544 (1968) .... 6.6.6 eee eee 25 
+In re Sacred Heart Hosp. of Norristown, 133 F.3d 237 
+
+(36 Cle. SOGD)  cbiickit ceeRc decks ewkite vets 16 
+Jacobs Wind Electric Co. v. Florida Department of 
+
+Transportation, 626 So. 2d 1333 (Fla. 1993) ...... 3, 28 
+Katzenbach v. Morgan, 384 U.S. 641 (1966) ........ 20, 21 
+Klopping v. City of Whittier, 8 Cal. 3d 39 (1972) .... 28 
+Landon v. Plasencia, 459 U.S. 21 (1982) ........... 26 
+Lansdale v. Tyler Junior College, 470 F.2d 659 (Sth Cir. 
+
+ROFED. oc cic ociv dla Wed dpsed wend NEw eS baad os 3 26 
+Lessona Corp. v. United States, 599 F.2d 958 (Ct. Cl. 
+
+TP 00 vacdscadhsnc ded a ik etihsante 36, 37, 38 
+McCollester v. Keene, 586 F. Supp. 1381 (D.N.H. 
+
+SOO o ciivdictcnc cence ba0 009864040054 Nee 26 
+
+
+ix 
+Cited Authorities 
+Page 
+McKesson Corp. v. Div. of Alcoholic Beverages & 
+Tobacco, 496 U.S. 18 (1990) ...........6 000000 29 
+Monroe v. Pape, 365 U.S. 167 (1961) .............. 30 
+Oregon v. Mitchell, 400 U.S. 112 (1970) ........... 21, 22 
+Parden v. Terminal Ry. of Ala. State Docks Dep't., 377 
+Wi SORE cer es TSR el Oe es oe ees 5,7, 14 
+Parratt v. Taylor, 451 U.S. 527 (1981) ............. 31 
+Pennsylvania v. Union Gas Co., 491 U.S. 1 (1989) ... 
+
+Era ie WAG eeW dns Sis uaee Kee ehne ceseowe 4, 5, 10, 16, 19 
+Petersen v. United States, 191 F.2d 154 (9th Cir.) ... 31 
+Puerto Rico Aqueduct & Sewer Authority v. Metcalf & 
+
+Eddy, Inc., 506 U.S. 139 (1993) ..........0.45.. 17,35 
+Ramirez v. Puerto Rico Fire Service, 715 F.2d 694 (ist 
+
+EN ER rs RUA Re RAM DOE ee 23 
+Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996) 
+
+Lipa ded daheoroeaebeseseteseoasebovivessacee passim 
+South Carolina v. Katzenbach, 383 U.S. 301 (1966) 
+
+fae | Ae) Eee VPS ee ae Re PO rE ere 8, 20, 21 
+
+
+Speedco, Inc. v. Estes, 853 F.2d 909 (Fed. Cir. 1988) 
+
+
+x 
+
+
+Cited Authorities 
+
+
+Tektronix v. United States, 552 F.2d 343 (Ct. Cl. 1977) 
+
+
+eee eee eee Ses eVDae 2 S22 808 SA 42 EE Ce Cee Fe Ve 62? eee 
+
+
+United States v. Kras, 409 U.S. 434 (1973) ......... 
+
+
+United States v. Uvalde Consol. Independent School Dist., 
+G2S FAB SOF CO Chi BO ain 5.00 havin Wa ca hiedss 
+
+
+Welch v. Texas Dep't of Highways and Pub. Transp., 483 
+CBDBT) on eWdivin vince culcdbe cuacpudcheteb oceans 
+
+
+Wheeling & Lake Erie Railway Co. v. Public Utility 
+Commission of Pennsylvania, 141 F.3d 88 (3d Cir. 
+ROUGE cvs ines cbtuseskute uses ena taebe ness 
+
+
+Williamson County Regional Planning Comm'n v. 
+Hamilton Bank of Johnson City, 473 U.S. 172 (1985) 
+
+
+eee G8 8eee 0 8e 0 8 6 © 's 6 © 2 O.8.6.6 & Oe £224 6.5 Oo. &. 0 8,8 
+
+
+Page 
+
+
+37 
+
+
+24 
+
+
+16 
+
+
+23 
+
+
+37 
+
+
+22 
+
+
+29, 30 
+
+
+23, 24 
+
+
+xi 
+Cited Authorities 
+
+Page 
+Statutes: 
+SPs GS UOMO fe xb uvuboddlabes tecsbee a dis + 
+ee ee SEED ys ach Lab UE Leas Poet dak l 
+Be ee CED sass bub cks COC Cub ewuakL l 
+Oe as ESP eos Fw ee PST BER l 
+Ae ON Ws 8S evi evi OR be eel ikl 13 
+We Or 5 CUS OTITIS. i, 5 
+PRE BPMN ahve ev cadwcwbied lovbh hled Ss i, 2 
+POW DO isin s ites vcesdsdeeerekebase ten 36 
+Pe EINE ido Wawasan st hued hdea ears uk eas 36 
+Se OD os i db dave Noo eo ork PURO eh ekk 3 
+PORATED <2 Conba Davies ch bwkicueiaces 2 
+SPONGE PE ed cu yal acavcokscavpecun yaoeal. 37, 38 
+Pe EE har aed do's Bowral pb aedwcnk concn. 30 
+ie Ws OU POEM. 5 coc ccc cic ccpececies. 24 
+
+
+ee Meee enn © AOU, OF ODD. |. 6 5 5 oon vccacckarccecon 24 
+
+
+xi 
+
+
+Cited Authorities 
+
+: Page 
+42 U.S.C. § 2OOO(C), CF BOG. 2. ccc cen seer cceecees 24 
+42 U.S.C. § 200O(d), ef SOG. 2. cece ceccscvscsocss 24 
+SPUBL. © LUTE oo ce cccnvavesevasccsshwenbe ces 22 
+§ 11.065, Florida Statutes .......... 2. ecceeeeeewe 27 
+§ 240.551, Florida Statutes ..............00 ee eeeee il 
+§ 240.551(1), Florida Statutes ............0-0 000s 3 
+§ 240.551(2)(3)(1)-(3), Florida Statutes ............ 3 
+N.Y. Ct. Cl. Act § 9(2) (McKinney 1989) .......... 28 
+United States Constitution: 
+Aathalie foc ck ack ss HoWERA bo cc kradees weeenennes passim 
+Aathete 8, OS occ vccancevcveatsersebeseuuuus 8,9, 10, 11 
+Astiate 1, OS cdc ciccahas 006 Secbageeaeeetesee 4 
+Article I, Section 8, Clause 8 ..............--- 005: | 
+Pitts Ame |. win 5 ca vic ct eexetscbarceasene 29 
+Elovemthh AGROMGMROME 2... ccc ccs wsecesinccecss passim 
+Fourteenth Amendment ...........-..ceeeeeeeees passim 
+
+
+Fourteenth Amendment §5 .............0020eee55 passim 
+
+
+xiii 
+Cited Authorities 
+
+
+Other Authorities: 
+
+
+Cal. Code of Civ. Proc. § 1250.110 
+
+
+Patent Remedy Act and the Trademark Remedy 
+Clarification Act of 1992, Pub. L. No. 102-542, 106 
+Stat. 3567 (1992) 
+
+
+Section 2 of the Patent and Plant Variety Protection 
+Remedy Clarification Act, Pub. L. No. 102-560, 106 
+Stat. 4230 (1992) 
+
+
+Carlos Manual Vazquez, What is Eleventh Amendment 
+Immunity?, 106 Yale L.J. 1683 (1997) 
+
+
+North Carolina’s Constitution Art. I § 19 
+
+
+Page 
+
+
+] 
+
+
+OPINIONS BELOW 
+
+
+The Federal Circuit’s opinion is reported at College Savings 
+Bank v. Florida Prepaid Postsecondary Education Expense Board, 
+148 F.3d 1343 (Fed. Cir. 1998) (Pet. App. A). The opinion of the 
+United States District Court for the District of New Jersey is 
+reported at College Savings Bank v. Florida Prepaid 
+Postsecondary Education Expense Board, 948 F. Supp. 400 (D.N.J. 
+1996) (Pet. App. B). 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The jurisdiction of the district court was invoked under 28 
+U.S.C. § 1338(a). The Federal Circuit’s jurisdiction was invoked 
+pursuant to 28 U.S.C. § 1295(a)(1) and the collateral order doctrine. 
+See Puerto Rico Aqueduct & Sewer Authority v. Metcalf & Eddy, 
+Inc., 506 U.S. 139, 147 (1993). The Federal Circuit affirmed the 
+district court’s denial of Florida Prepaid’s motion to dismiss CSB’s 
+patent infringement case for lack of subject matter jurisdiction on 
+June 30, 1998. Pet. App. A. Florida Prepaid timely filed its petition 
+for certiorari on September 28, 1998. The petition was granted on 
+January 8, 1999. The jurisdiction of this Court is invoked pursuant 
+to 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+Article I, Section 8, Clause 8 of the United States Constitution 
+provides that Congress shall have Power. . . 
+
+
+[t]o promote the Progress of Science and useful Arts, 
+by securing for limited Times to Authors and Inventors 
+the exclusive Right to their respective Writings and 
+Discoveries[.] 
+
+
+The Eleventh Amendment to the Constitution provides: 
+
+
+The Judicial power of the United States shall not be 
+construed to extend to any suit in law or equity, 
+
+
+2 
+
+
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens or 
+Subjects of any Foreign State. 
+
+
+The Fourteenth Amendment to the Constitution provides, in 
+pertinent part: 
+
+
+[Section 1] 
+No State shall . . . deprive any person of life, liberty, 
+or property, without due process of law{.] 
+
+
+{Section 5] 
+The Congress shall have power to enforce, by 
+appropriate legislation, the provisions of this article. 
+
+
+Section 2 of the Patent and Plant Variety Protection Remedy 
+Clarification Act, Pub. L. No. 102-560, 106 Stat. 4230 (1992) 
+(“Patent Remedy Act”), provides, in pertinent part: 
+
+
+As used in this section, the term ‘whoever’ includes 
+any State, any instrumentality of a State, and any 
+officer or employee of a State or instrumentality of a 
+State acting in his official capacity. 
+
+
+(35 U.S.C. § 271(h)] 
+
+
+Any State, any instrumentality of a State, and any 
+officer or employee of a State or instrumentality of a 
+State acting in his official capacity, shall not be 
+immune, under the Eleventh Amendment of the 
+Constitution of the United States or under any other 
+doctrine of sovereign immunity, from suit in Federal 
+Court by any person . . . for infringement of a patent 
+under Section 271, or for any other violation under 
+this title. 
+
+
+[35 U.S.C. § 296(a)] 
+
+
+3 
+
+
+STATEMENT OF THE CASE 
+A. The Parties 
+
+
+Florida Prepaid is an agency of the state of Florida created to 
+administer a prepaid college tuition and dormitory-expense 
+program. See § 240.551, Florida Statutes. Participants in the 
+program, generally Florida residents or the children of Florida 
+residents, see § 240.551(2)(3)(1)-(3), Florida Statutes, pay a 
+contract price today that entitles program beneficiaries to a college 
+education at a future date. The state’s enabling legislation describes 
+Florida’s provision of educational opportunity at the postsecondary 
+level as “a critical state interest.” § 240.551(1), Florida Statutes. 
+Florida Prepaid began operation in 1987 and has, since inception, 
+sold 528,540 prepaid college and dormitory contracts. 
+
+
+CSB is a commercial financial institution that sells certificates 
+of deposit designed to assist its customers with investing to cover 
+the future costs of a college education. CSB owns United States 
+Patent No. 4,722,055 (the “ °055” patent), entitled “Methods and 
+Apparatus for Funding Future Liability of Uncertain Cost” relating 
+to a calculation methodology used with its certificate of deposit 
+product. CSB’s patent issued on January 26, 1988. 
+
+
+B. The Patent Remedy Act 
+
+
+In 1990, the Federal Circuit decided two cases, Chew v. 
+California, 893 F.2d 331 (Fed. Cir. 1990), and Jacobs Wind Elec. 
+Co. v. Florida Dept. of Trans., 919 F.2d 726 (Fed. Cir. 1990), 
+which upheld the states’ Eleventh Amendment immunity from 
+patent suits in federal court on the grounds that Congress had not 
+adequately expressed its intent to abrogate such immunity. See 
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 240 (1985). In 
+response, Congress passed the Patent Remedy Act, which added 
+35 U.S.C. § 271(h) and 35 U.S.C. § 296 to the patent laws. See 
+
+
+supra. 
+
+
+4 
+
+
+These new patent code provisions abrogated the states’ 
+Eleventh Amendment immunity from patent suits brought in 
+federal court and exposed states to the same legal and equitable 
+remedies, including treble damages, attorneys’ fees, costs, and 
+injunctive relief, that were already available against entities that 
+are not states. According to the legislative history, Congress saw 
+five justifications for the amendments: (1) “immunity cuts against 
+Article I, § 8 of the U.S. Constitution, which grants Congress the 
+power to issue patents for limited periods to promote the progress 
+of science”; (2) the amendment prevents states from “freely” 
+infringing, discouraging future innovation; (3) enabling patentees 
+to sue states in federal court prevents states from enjoying 
+advantages not available to private parties; (4) the federal 
+government already consents to patent infringement suits, and (5) 
+the original patent code (enacted in 1790) contains no expression 
+of Congressional intent to exclude states from the statutes’ reach. 
+See J.A. 20-22a. The Senate Report lists the Patent Clause, the 
+Commerce Clause, and § 5 of the Fourteenth Amendment as 
+authority for this new legislation. J.A. 19a. 
+
+
+C. CSB sues Florida Prepaid in federal district court in New 
+Jersey 
+
+
+On November 7, 1994, CSB sued Florida Prepaid for alleged 
+infringement of the ’055 patent in the United States District Court 
+for the District of New Jersey (Civ. No. 94-5610 (GEB)). On 
+August 25, 1995, CSB brought a second action against Florida 
+Prepaid in the same court, Civ. No. 95-4516 (GEB), in which CSB 
+alleged “false advertising” by Florida Prepaid in violation of 
+Section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a), and the 
+common law prohibition against unfair competition. The two cases 
+were not consolidated. 
+
+At the time the Patent Remedy Act was enacted and as of the 
+date that CSB filed its lawsuits, this Court’s decision in 
+Pennsylvania v. Union Gas Co., 491 U.S. 1 (1989) (“Union Gas”), 
+
+
+5 
+
+
+approved Congress’s use of its powers under Article I of the 
+Constitution to abrogate the states’ Eleventh Amendment 
+immunity. After the pleadings in this case were closed, this Court 
+decided Seminole Tribe of Florida v. Florida, 517 U.S. 44 (1996) 
+(“Seminole Tribe”), which overruled Union Gas and made clear 
+that Congress may abrogate the states’ Eleventh Amendment 
+immunity only when it acts under § 5 of the Fourteenth 
+Amendment. 517 U.S. at 59 (citing Fitzpatrick v. Bitzer, 427 U.S. 
+445 (1976) (“Fitzpatrick’)). Florida Prepaid then promptly moved 
+to dismiss CSB’s lawsuits for lack of subject matter jurisdiction, 
+contending that both matters were barred by the Eleventh 
+Amendment. 
+
+
+In a single decision applicable to both cases, the district court 
+granted Florida Prepaid’s motion to dismiss the Lanham Act case 
+but denied its motion to dismiss the patent infringement action. 
+Pet. App. B. The district court found that Florida Prepaid is an 
+“arm of the state” of Florida that is thereby entitled to assert 
+Florida’s Eleventh Amendment immunity as a bar to jurisdiction 
+in federal court. See Pet. App. B at 41a-57a. That finding was not 
+challenged on appeal. See Pet. App. A at 2a n.1. The district court 
+next rejected CSB’s arguments that Florida Prepaid waived its 
+immunity, either by its conduct in the case or under the constructive 
+consent doctrine set forth in Parden v. Terminal Ry. of Ala. State 
+Docks Dep't., 377 U.S. 184 (1964) (“Parden”). Pet. App. B, 57a- 
+72a. 
+
+
+Agreeing with Florida Prepaid in the patent case that Article 
+I does not authorize Congress to abrogate states’ Eleventh 
+Amendment immunity, Pet. App. B at 79a, the district court then 
+
+
+1. Pursuant to 28 U.S.C. § 2403(a), respondent United States of 
+America intervened before the district court to defend the constitutionality 
+of both the Patent Remedy Act and the Trademark Remedy Clarification 
+Act of 1992, Pub. L. No. 102-542, 106 Stat. 3567 (1992), the latter of which 
+had purported to make the states amenable to suit in federal court under the 
+Lanham Act. Pet. App. B, 39a. 
+
+
+6 
+
+
+addressed Congress's power to abrogate state immunity under § 5 
+of the Fourteenth Amendment. In doing so, the court limited its 
+analysis to determining “whether the interests sought to be 
+protected by the Patent Act are ‘property’ for purposes of the 
+Fourteenth Amendment.” Pet. App. B, 78-79a. Concluding that a 
+patent is such “property,” and that “Congress has the power to 
+enforce all of the provisions of the Fourteenth Amendment, 
+including the Due Process Clause,” Pet. App. B, 85-86a, the district 
+court held that the Patent Remedy Act was “appropriate” legislation 
+to enforce the Fourteenth Amendment and denied Florida Prepaid’s 
+motion to dismiss CSB’s patent case. /d. at 86a.’ 
+
+
+The district court reached the opposite conclusion in the 
+Lanham Act case, holding that the interests protected by the “false 
+advertising prong” of the Lanham Act clearly were not “property” 
+for purposes of the Fourteenth Amendment. Pet. App. B, 86a-90a. 
+
+
+[W]e are unaware of any authority suggesting that 
+Congress may, by simple fiat, abruptly declare that a 
+simple statutory cause of action, which traditionally 
+has not been understood to involve any kind of 
+property, now encompasses a “property right” to which 
+the Fourteenth Amendment applies. Indeed, if 
+Congress has such power, it could easily “reverse” the 
+outcome in Seminole Tribe. 
+
+
+Pet. App. B, 89a-90a. Lacking any jurisdictional basis on which 
+to hear CSB’s common law unfair competition claim against a 
+state entity, the district court dismissed CSB’s second complaint 
+in its entirety. Jd. at 91a. 
+
+
+Both CSB and the United States appealed the final judgment 
+dismissing the Lanham Act suit to the United States Court of 
+
+
+2. The district court’s decision was announced December 13, 1996, 
+Pet. App. B, 91a, before the court could benefit from this Court's subsequent 
+holdings in City of Boerne v. Flores, 521 U.S. 507, 117 S. Ct. 2157 (1997) 
+(“City of Boerne’’). 
+
+
+7 
+
+
+Appeals for the Third Circuit, which affirmed that the case did 
+not involve a “property” interest protected by the Fourteenth 
+Amendment. College Savings Bank v. Florida Prepaid 
+Postsecondary Education Expense Board, 131\ F.3d 353 (3d Cir. 
+1997). The Third Circuit held that Congress lacked the power under 
+§ 5 to abrogate states’ Eleventh Amendment immunity from false 
+advertising claims brought under the Lanham Act in federal court, 
+and that Parden was inapplicable because Florida Prepaid was 
+serving an important governmental interest in making education 
+affordable to its citizens. /d. at 364.° 
+
+
+In accordance with this Court’s decision in Puerto Rico 
+Aqueduct, 506 U.S. at 147, and pursuant to 28 U.S.C. § 1295, 
+Florida Prepaid appealed the district court’s decision not to dismiss 
+CSB’s patent infringement case to the United States Court of 
+Appeals for the Federal Circuit. The Federal Circuit affirmed. Pet. 
+App. A. While this Court has now granted petitions for certiorari 
+in both cases, the instant case presents only the question whether 
+Congress has the power under § 5 to abrogate the states’ Eleventh 
+Amendment immunity from suits in federal court for claims of 
+patent infringement. 
+
+D. The Federal Circuit’s constitutional analysis 
+
+
+Agreeing with the parties that Congress had manifested a clear 
+intent fo abrogate the states’ Eleventh Amendment immunity in 
+the Patent Remedy Act, the Federal Circuit focused on deciding 
+whether Congress had done so pursuant to a constitutional grant 
+of power. Pet. App. A at 7a. While the Federal Circuit accepted 
+Florida Prepaid’s contention that Article I was no longer available 
+as a source of abrogation power following Seminole Tribe, Pet. 
+App. A, 8a, that court nevertheless determined that the Patent 
+Remedy Act would withstand constitutional scrutiny if it was a 
+
+
+3. By affirming the district court on that basis, the Third Circuit did 
+not review the district court’s conclusion that Parden had been implicitly 
+overruled by Seminole Tribe. 131 F.3d at 365. 
+
+
+8 
+
+
+“rational means” to effectuate the substantive provisions of the 
+Fourteenth Amendment. Pet. App. A at 9a (citing, South Carolina 
+v. Katzenbach, 383 U.S. 301, 324 (1966)). 
+
+
+Identifying the Act’s objective as redressing patent 
+infringement by the states, the Federal Circuit found that the Act 
+met the South Carolina v. Katzenbach test: 
+
+
+[p]rotecting a privately-held patent from infringement 
+by a state is certainly a legitimate congressional 
+objective under the Fourteenth Amendment, which... . 
+empowers Congress to prevent state-sponsored 
+deprivation of private property. 
+
+
+Pet. App. A at 12a-13a. For this analysis, the court viewed patent 
+infringement as equivalent to a taking or deprivation, Pet. App. 
+A, 13a, without regard to whether remedies would be provided 
+for such assumed deprivation by the states. The Federal Circuit in 
+fact rejected Florida Prepaid’s position that abrogation of states’ 
+Eleventh Amendment immunity could not affect states that meet 
+fundamental due process standards. Pet. App. A at 14-15a. The 
+court reasoned that “the fact that Florida may today have some 
+process available to a patentee asserting infringement does not 
+preclude Congress from exercising its powers under the Fourteenth 
+Amendment through the Patent Remedy Act.” /d. 
+
+
+Florida Prepaid further argued that permitting Congress to 
+create a property interest under its Article | powers and then use 
+its § 5 powers to enforce that interest against states in federal court 
+would accomplish indirectly what Seminole Tribe held Congress 
+could not do directly through Article I. Pet. App. A at 15-1 6a. 
+This argument also was dismissed by the Federal Circuit, despite 
+the acceptance of similar arguments by other circuit courts. /d. 
+
+
+These cases . . . ignore the essential fact that, because 
+the Fourteenth Amendment was enacted subsequent 
+to the Eleventh Amendment, unlike Article I, it 
+
+
+9 
+
+
+expressly qualified the principle of sovereign immunity 
+... Our sister circuits wrongly equate the result 
+afforded by congressional power under the Fourteenth 
+Amendment and Article I with the constitutional 
+structure under which Congress governs and the federal 
+courts exercise jurisdiction. When the states adopted 
+the Fourteenth Amendment and consented to cede a 
+portion of their authority to the federal government, it 
+was within their contemplation that they limited their 
+Eleventh Amendment immunity. 
+
+
+Pet. App. A at 17a (citations omitted). The Federal Circuit adhered 
+to its conviction that the existence or non-existence of Article | 
+powers was not dispositive because patents are a well-established 
+form of property that unquestionably falls within the reach of 
+Congress’s § 5 enforcement power: 
+
+
+To claim that patents do not warrant protection is 
+tantamount to asserting that Congress may not, under 
+any circumstance, abrogate the states’ Eleventh 
+Amendment immunity pursuant to the Due Process 
+Clause when seeking to protect persons from the risk 
+of unlawful deprivation of their property. Such would, 
+in our view, amount to a direct contradiction of the 
+text of the Fourteenth Ainendment and its application 
+by the Supreme Court. 
+
+
+Pet. App. A at 18a. 
+
+
+Having approved Congress’ stated objective of protecting 
+privately-held patent property from deprivation by states, the 
+Federal Circuit then purported to apply this Court’s requirement 
+established in City of Boerne that “there must be a proportionality 
+between the injury to be prevented and the means adopted or 
+remedied to that end.” Pet. App. A at 20a. Examining the nature 
+of the injury to be prevented, the court listed the eight cases of 
+
+
+10 
+
+
+alleged patent infringement by states disclosed in the legislative 
+record and agreed that “an increase in the number of patent cases 
+against the states likely will ensue.” /d. at 21a-22a. While the court 
+conceded that the extent of such infringement had not yet risen to 
+emergency levels, and was not the caliber and magnitude of the 
+harm that prompted enacting the Voting Rights Act, that court 
+still viewed those “significant instances” of alleged state 
+infringement as sufficient to justify Congress’ exercise of its § 5 
+power to make states amenable to suuit in federal court. /d. 
+
+
+Turning to the means adopted to prevent that perceived injury 
+and the resulting impact on the states, the Federal Circuit decided 
+that the burden of subjecting states to the full range of Title 35 
+relief in federal courts was “modest” and “slight” because, in its 
+view, the Patent Remedy Act would rarely prevent a state from 
+performing its core governmental functions. Pet. App. A at 24a- 
+25a. The Federal Circuit declared that there is “no sound reason 
+to hold that Congress cannot subject a state to the same civil 
+consequences that face a private party infringer.” /d. at 25a. In the 
+end, the Federal Circuit upheld Congress’s use of its § 5 abrogation 
+powers to enact the Patent Remedy Act because the burden 
+imposed on states was not disproportionate or incongruous with 
+the perceived harm to patent holders who, absent such abrogation, 
+would be unable to enforce fully the rights conveyed by their patent. 
+Pet. App. A at 25a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Patent Remedy Act is an unconstitutional attempt by 
+Congress to abrogate states’ Eleventh Amendment immunity from 
+patent infringement suits in federal court. The Act cannot be 
+justified on the basis that Congress abrogated the immunity 
+pursuant to its Article I powers, because Union Gas, which had 
+approved such authority, was overruled by this Court in Seminole 
+Tribe. The Act also cannot be saved by resort to the sole remaining 
+source of abrogating power, § 5 of the Fourteenth Amendment, 
+
+
+11 
+
+
+without ignoring the teachings of this Court in City of Boerne. In 
+sum, the Patent Remedy Act is an impermissible attempt to do 
+what this Court prohibited in Seminole Tribe — enforce an Article 
+I property interest against the states in federal court — as well as 
+a departure from settled Fourteenth Amendment doctrine. 
+
+
+Accepting the rationale that the Fourteenth Amendment may 
+be used to enforce Article I property interests such as patents 
+because the later-enacted Fourteenth Amendment limits the 
+Eleventh Amendment’s scope would mean that the Eleventh 
+Amendment will always give way. But that is not the law. In fact, 
+although the Fourteenth Amendment can be used to restrict the 
+scope of the states’ immunity from suit in federal court to enforce 
+the substantive guarantees of that amendment, the Fourteenth 
+Amendment did not abolish such immunity. In the Patent Remedy 
+Act, however, Congress has effected this result by creating a right 
+under Article I and then protecting that right through the 
+Enforcement Clause of the Fourteenth Amendment. Seminole Tribe 
+cannot be limited to disallowing the enforcement of Article | 
+interests by Congress only when acting under its Article I powers. 
+Seminole Tribe means that Congress may not set aside states’ 
+sovereign immunity to protect federally created rights. 
+
+
+Saying that patents are property and are protected from 
+deprivation by the states under the Fourteenth Amendment 
+irrespective of Congress’s Article | powers does not change the 
+result. Patent infringement by a state is still only a tort, not a due 
+process violation. Such tort simply does not rise tc the level of a 
+constitutional wrong unless the states deprive patent holders of 
+
+
+property without providing “due process of law.” 
+
+
+While this Court has not yet been presented with the 
+opportunity to address when and how the Due Process Clause may 
+be enforced under § 5, it is now settled, following City of Boerne, 
+that “appropriate” legislation within the meaning of the 
+Enforcement Clause, must meet three conditions. First, the object 
+
+
+12 
+
+
+of the legislation must be to prevent or remedy unconstitutional! 
+state conduct. Next, once a constitutional violation has been 
+identified, the legislation adopted to remedy or prevent that 
+violation must be truly remedial. To assure that legislation attains 
+this remedial character, congruence between the means (the 
+legislation) and the end (preventing or curing the targeted 
+constitutional violation) must exist. Proper application of these 
+conditions ensures against Congress’s creation of legislation that 
+is substantive rather than remedial, which would improperly 
+intrude into the exclusive province of the courts. 
+
+
+The Patent Remedy Act has met none of these conditions. It 
+targets no unconstitutional state conduct and, instead, merely aims 
+at remedying or deterring patent infringement by the states. While 
+the Fourteenth Amendment prohibits the deprivation of property 
+without due process of law, neither Congress nor the lower courts 
+described or identified any actual or threatened state conduct that 
+had that effect. Instead, they stopped their due process analysis 
+short upon the identification of a property interest and the 
+assumption that a “deprivation” existed, totally ignoring whether 
+such property had been deprived “without due process of the law.” 
+
+
+While Congress may incidentally proscribe state conduct that 
+is not itself unconstitutional when enacting legislation that is aimed 
+at preventing a constitutional wrong, that is not what happened 
+here. The wrong sought to be prevented in the first instance by the 
+Patent Remedy Act is state patent infringement, which is not itself 
+unconstitutional. Instead, Congress has abrogated state immunity 
+in order to remedy or deter state a statutory violation rather than a 
+constitutional wrong. The Patent Remedy Act, as a result, works a 
+fundamental change in the substance of the Fourteenth Amendment 
+by ignoring the requirement that there be a deprivation of property 
+“without due process of law.” 
+
+
+Even if deterring or remedying an offense more severe than a 
+potential patent infringement had been Congress’s goal when it 
+
+
+13 
+
+
+crafted the Patent Remedy Act, the Act still could not withstand 
+scrutiny here because the means employed to remedy or prevent 
+such conduct are wholly out of proportion to the alleged harm. 
+The Act’s impact on the states is immense given their exposure to 
+treble damages and attorney’s fees for a myriad of unforeseeable 
+state conduct that allegedly infringes patent rights. The indignity 
+of suit by private litigants in federal courts in other states 
+compounds the unacceptable result. Just as the legislation at stake 
+in City of Boerne went too far, so does the Patent Remedy Act. 
+Indeed, it intrudes into every facet of state government rendering 
+even the most ministerial governmental acts potential triggers for 
+federal suits against the states for extraordinary damages. 
+
+
+; The expansive relief provided under Title 35 is grossly 
+incongruent to the end of redressing governmental patent 
+infringement. This incongruity is perhaps best shown by 
+Congress’s enactment of 28 U.S.C. § 1498. In that statute, Congress 
+allowed certain remedies to be obtained against the United States 
+for patent infringement by private litigants, but such relief did not 
+include injunctions, attorney’s fees, treble damages, or lost profits. 
+Congress has thus already demonstrated that less obtrusive, more 
+congruent means to eradicate patent infringement by a sovereign 
+can be designed. Yet, with the Patent Remedy Act, Congress 
+advanced no cogent reason for its abrupt change in policy. The 
+Act’s vast escalation in expense, exposure, and burden on the states 
+cannot be understood as responsive to, or intended to prevent 
+unconstitutional behavior and thus must be deemed a substantive 
+expansion of constitutional prohibitions rather than a remedy for 
+due process violations. 
+
+
+In the end, the Patent Remedy Act cannot be upheld under 
+either Seminole Tribe or City of Boerne. Congress lacks the power 
+under both Article I and the Fourteenth Amendment to abrogate 
+states’ Eleventh Amendment immunity and make them subject to 
+suits for patent infringement in federal court. This is true even if 
+
+
+14 
+
+
+reliance on state court process and remedies ultimately results in a 
+lack of national uniformity in patent law. 
+
+
+The Due Process Clause does not require that any specific 
+process or remedies be provided. It simply requires that minimal 
+constitutional levels of process be achieved. By upholding the 
+Patent Remedy Act against states, even where Due Process 
+violations are neither threatened nor proven, the Federal Circuit 
+allowed Congress to elevate conduct giving rise to a statutory cause 
+of action to a constitutional wrong falling within the Fourteenth 
+Amendment’s scope.* After City of Boerne, it is manifest that 
+Congress cannot legislate the substance of the Constitution as it 
+attempted when enacting the Patent Remedy Act. 
+
+
+ARGUMENT 
+I. 
+
+
+THE PATENT REMEDY ACT IS UNCONSTITUTIONAL 
+BECAUSE CONGRESS LACKS POWER TO ABROGATE 
+STATES’ ELEVENTH AMENDMENT IMMUNITY FROM 
+SUITS IN FEDERAL COURT FOR CLAIMS 
+OF PATENT INFRINGEMENT. 
+
+
+Neither Florida nor Florida Prepaid has.consented to being 
+sued in federal court for patent infringement relating to the tuition- 
+funding program created by Florida to facilitate its citizens’ higher 
+education. Absent such consent, Florida Prepaid cannot be sued 
+in federal courts unless Congress’s attempt to abrogate the states’ 
+Eleventh Amendment immunity through the Patent Remedy Act 
+is authorized under some recognized constitutional precept. 
+Because the Constitution provides no authority for Congress to 
+enact the Patent Remedy Act, this Court should restore Florida 
+Prepaid’s immunity from suit for patent infringement claims in 
+
+
+4. The Federal Circuit's analysis in this case was confined to the issue 
+of abrogation and did not address the district court's rejection of CSB’s 
+Parden arguments. 
+
+
+15 
+
+
+federal court by reversing the Federal Circuit’s decision and 
+remanding with instructions that CSB’s patent infringement claim 
+be dismissed. 
+
+
+A. The Patent Remedy Act Cannot Be Upheld Following 
+Seminole Tribe Because Congress Cannot Use Either 
+Article | Or The Fourteenth Amendment To Protect An 
+Article I Interest Such As Patents. 
+
+
+The Patent Remedy Act treats defendant states the same as 
+private parties by authorizing non-governmental patent owners to 
+sue states in federal court for patent infringement and to recover 
+injunctive relief and monetary damages, including treble damages 
+and attorney’s fees. For this legislation to be constitutionally sound 
+given states’ Eleventh Amendment immunity, Congress must have 
+unequivocally expressed an intent to abrogate sovereign immunity 
+when enacting the statute. Seminole Tribe, 517 U.S. at 55: 
+Atascadero State Hospital, 473 U.S. at 240. Congress also must 
+have acted “pursuant to a valid exercise of power.” Seminole T. ribe, 
+517 U.S. at 58 (quoting, Green v. Mansour, 474 U.S. 64, 68 (1985)). 
+
+
+The parties agree that the first prong of the test is met here. 
+As to the second prong, Florida Prepaid maintains that Congress 
+exceeded its legislative authority when enacting the Patent Remedy 
+Act. Neither Article I nor the Fourteenth Amendment empowers 
+Congress to authorize patent infringement claims to be brought 
+by private parties against the states in federal court. 
+
+
+1. Congress, afier Seminole Tribe, cannot abrogate states’ 
+sovereign immunity using its Article I powers. 
+
+
+Although Congress pointed to the “Patent Clause, the 
+Commerce Clause, and the enforcement provision of the 
+Fourteenth Amendment” as the source of its power when enacting 
+the Patent Remedy Act, J.A. at 19a, the first two grounds, both 
+provisions found in Article I of the Constitution, are no longer 
+
+
+valid sources of power following this Court’s decision in Seminole 
+Tribe. 
+
+
+16 
+
+
+In overruling Union Gas, this Court left no doubt that 
+Congress's Article I power to legislate with respect to patents is 
+an insufficient basis on which to abrogate states’ Eleventh 
+Amendment immunity: 
+
+
+the background principle of state sovereign immunity 
+embodied in the Eleventh Amendment is not so 
+ephemeral as to dissipate when the subject of the suit 
+is an area . . . under exclusive control of the Federal 
+government. Even when the constitution vests in 
+Congress the complete law-making authority over a 
+particular area, the Eleventh Amendment prevents 
+congressional authorization of suits by private parties 
+against the states. 
+
+
+Seminole Tribe, 517 U.S. at 72. (emphasis added). Thus, Seminole 
+Tribe teaches that Congress cannot abrogate states’ Eleventh 
+Amendment immunity simply because it desires to provide a 
+federal forum for the recovery of damages for violations of a federal 
+right created under Article I.* See, e.g., Jn re Sacred Heart Hosp. 
+of Norristown, 133 F.3d 237, 243-45 (3d Cir. 1998) (Congress 
+cannot abrogate immunity using its powers found in the Bankruptcy 
+Clause of Article 1) (citing, United States v. Kras, 409 U.S. 434, 
+446-47 (1973)); College Savings Bank, 131 F.3d at 358 (holding 
+that since Seminole Tribe, § 5 of the Fourteenth Amendment is 
+the sole basis for Congress to abrogate state immunity). 
+
+
+5. Responding to the dissents in Seminole Tribe, the majority did not 
+take issue with this conclusion, observing that this Court never has awarded 
+relief against a state under laws enacted under Article | powers such as 
+bankruptcy, copyright, and anti-trust and specifically noted the lack of 
+“established tradition in the lower federal courts of allowing enforcement 
+of those federal statutes against the states.” 517 U.S. at 96 n.16. 
+
+
+17 
+
+
+2. Congress cannot use its Fourteenth Amendment 
+abrogation powers to protect Article | interests. 
+
+
+Under the Fourteenth Amendment, states may not “deprive 
+any person of life, liberty, or property, without due process of 
+law.” U.S. Const. amend. XIV, § 1. Congress can, via “appropriate 
+legislation,” enforce the provisions of the Amendment. U.S. Const. 
+amend XIV, § 5. After Seminole Tribe, the Enforcement Clause is 
+Congress's only remaining source of abrogation power that has 
+been approved by this Court. 
+
+
+CSB has argued thus far that Seminole Tribe does not contro! 
+this case despite pa.ents’ genesis in Article | because patents are 
+“property” the “deprivation” of which can be remedied by 
+Congress through its Fourteenth Amendment enforcement power, 
+and because Congress expressly cited that Amendment when 
+enacting the Patent Remedy Act. See J.A. at 19a. The Act cannot, 
+however, be deemed “appropriate legislation” under § 5 simply 
+because Congress made such a declaration. 
+
+
+Congress's discretion is not unlimited ... and the 
+courts retain the power, as they have since Marbury v. 
+Madison [1 Cranch 137, 176 (1803)], to determine if 
+Congress has exceeded its authority under the 
+Constitution. 
+City of Boerne, 117 S. Ct. at 2172. Thus, it remains for this Court 
+to decide whether Congress exceeded its authority under § 5 when 
+attempting to abrogate the states’ Eleventh Amendment immunity 
+in patent cases. 
+
+
+While the Federal Circuit declared it “beyond cavil” that a 
+patent 1s property, Pet. App. A at 12a, the court failed to consider 
+the fact that such a property interest is created by Congress acting 
+under its Article | powers.° As observed by the Fifth Circuit when 
+
+6. Instead, CSB and the lower courts im this case assumed that whatever 
+
+
+bundle of “property” nghts is embodied by a patent necessarily includes 
+(Cont'd) 
+
+
+discussing copyrights (which arise out of the sa:ne constitutional 
+provision as patents): 
+
+
+The contention that a copynght infringement claim is 
+property protected by the Due Process Clause ... 
+proves too much. If it rests in the uniqueness of the 
+property interest created by federal law . . . then it isa 
+direct end-run around Seminole Tribe's holding that 
+Article | powers may not be employed to avoid the 
+Eleventh Amendment’s limit on the federal judicial 
+power. Congress could easily legislate ‘property 
+interests’ and then attempt to subject states to suit in 
+federal court for the violation of such interests. This 
+end-run is just as possible under a liberal interpretation 
+of the Due Process Clause of the Fourteenth 
+Amendment as it was under theories of Article | 
+rejected by the Court in Seminole Tribe. 
+
+
+(Cont'd) 
+
+the nght to sue a state im federal court. Patent nghts, however, do not anse 
+from an independent source such as state or common law but were created 
+solely under the powers granted to Congress in Article |. See, e.g., Crown 
+Die & Tool Co. v. Nye Tool & Mach. Works, 261 U.S. 24, 40 (1923) (quoting 
+Gayles v. Wilder, 51 U.S. 477, 494 (1850) (“[The patent monopoly did not 
+exist at common law . . . It is created by the act of Congress; and no nghts 
+can be acquired in it unless authorized by statute, and in the manner the 
+statute prescribes”}). Because Seminole Tribe squarely holds that Congress's 
+Article | powers are subject to the limitations imposed by the later-enacted 
+Eleventh Amendment, 517 U.S. at 72-73, the Eleventh Amendment limits 
+the scope of Congress's Article | power to create property nghts that could 
+be enforced in federal court. Thus, while Seminole Tribe does not mean 
+that Congress cannot create property nghts under Article | or even that 
+patents are not property, it does confirm that whatever statutory property 
+rights Congress is able to create under Article | after the passage of the 
+Eleventh Amendment do not include the nght to have such nghts enforced 
+against states by suit in federal court. 
+
+
+19 
+
+
+Chavez v. Arte Publico Press, 157 F.3d 282, 289 (Sth Cir.), reh'g 
+en banc granted (October 1, 1998).’ If Congress may on one hand 
+create the property interest under Article | and then on the other 
+“enforce” it under the Enforcement Clause of the Fourteenth 
+Amendment: 
+
+
+Congress's power to abrogate Eleventh Amendment 
+immunity would appear to be coextensive with its 
+power to legislate under Article I, and if so, Seminole 
+Tribe's holding that Congress lacks the power to 
+abrogate Eleventh Amendment immunity under 
+Article | would be eviscerated. 
+
+
+Carlos Manual Vazquez, What is Eleventh Amendment Immunity?, 
+106 Yale L.J. 1683, 1744-46 (1997). See also Union Gas, 491 
+U.S. at 44 (Scalia, J., dissenting) (“to acknowledge that the federal 
+government can make the waiver of state sovereign immunity a 
+condition to the state’s action in a field that Congress has authority 
+to regulate is substantially the same as acknowledging that the 
+federal government can eliminate sovereign immunity in the 
+exercise of its Article I powers’’). Clearly, then, Seminole Tribe is 
+reduced to nothing if the Fourteenth Amendment's Enforcement 
+Clause is allowed to become a complete substitute for Congress's 
+more limited Article I power. 
+
+
+Consistent with this limitation on Congress's enforcement 
+powers, policy considerations such as Congress's desire for 
+uniform application of the patent laws or its dislike of state 
+remedies cannot trump the Eleventh Amendment, because such 
+policy goals arise uniquely out of Article I. Just as Congress lacks 
+power to enforce a nght created under Article I by resort to the 
+Fourteenth Amendment following Seminole Tribe, Congress may 
+
+
+7. A ruling in Chavez by the en banc Fifth Circuit has been stayed 
+pending a decision from this Court in this case. The reasoning of the pane! 
+majyonty, however, remains cogent and worthy of consideration here. 
+
+
+20 
+
+
+not use the Fourteenth Amendment as a vehicle to promote its 
+Article | legislative goals. 
+
+
+B. The Patent Remedy Act Cannot Be Upheld Following City 
+of Boerne Because It Does Not Target Unconstitutional 
+State Conduct And Lacks Congruity With The Means To 
+Be Achieved. 
+
+
+Even if patents were not creatures of Article I, the Patent 
+Remedy Act would remain unconstitutional. The last source of 
+power to abrogate immunity cited by Congress when enacting the 
+Act -- the Fourteenth Amendment’s Enforcement Clause -- simply 
+does not allow patent infringement claims to be brought against 
+states in federal court absent a deprivation of patent property 
+“without due process of law.” 
+
+
+None of the five justifications for Congress’s passage of the 
+Patent Remedy Act evidence a desire to remedy or prevent a pattern 
+of unconstitutional state conduct. In this regard, the Patent Remedy 
+Act stands apart from established Enforcement Clause precedent 
+of this Court. In Fitzpatrick, this Court held that Congress has the 
+power to abrogate Eleventh Amendment immunity when acting 
+to enforce the Equal Protection Clause of the Fourteenth 
+Amendment. In that case, “there was conceded to be a violation 
+of the Equal Protection Clause which is contained in haec verba 
+in the language of the Fourteenth Amendment itself.” Hutto v. 
+Finney, 437 U.S. 678, 710 (1978) (Rehnquist, C.J., dissenting). 
+Fitzpatrick’s abrogation holding was no novel pronouncement 
+since state-sponsored discrimination, repugnant to the express 
+terms of the Fourteenth Amendment’s Equal Protection Clause, 
+had been consistently recognized as a constitutional wrong that 
+§ 5 empowers Congress to correct. See, e.g., Katzenbach v. 
+Morgan, 384 U.S. 641 (1966); South Carolina v. Katzenbach, 383 
+U.S. 301 (1966). 
+
+
+Although no decision of this Court has directly addressed the 
+issue, Congress’s enforcement powers under § 5 also extend to 
+
+
+21 
+
+
+violations of the Due Process Clause. City of Boerne, 117 S. Ct. at 
+2163. However, the specifics of when and how § 5 can be invoked 
+to enforce other provisions of the Fourteenth Amendment such as 
+the Due Process Clause were not addressed in Fitzpatrick. City of 
+Boerne guides how these questions must be answered. 
+
+
+1. Patent infringement alone is not a constitutional wrong 
+and the Patent Remedy Act does not target any 
+deprivation of property without due process of law. 
+
+City of Boerne involved a challenge to the constitutionality 
+
+of the Religious Freedom Restoration Act (“RFRA”) on the basis 
+that Congress had exceeded its § 5 enforcement powers when 
+enacting that legislation. /d. In holding that Congress indeed lacked 
+such power to enact the RFRA, this Court first examined the history 
+of the Fourteenth Amendment and then considered the scope of 
+the Enforcement Clause consistent with the Amendment's past. 
+To elucidate its findings, the Court summarized its own precedent 
+to show why “the reach and scope of RFRA distinguish it from 
+other measures passed under Congress's enforcement power.” 117 
+S. Ct. at 2170. 
+
+
+The Court turned first to South Carolina v. Katzenbach. There, 
+“the challenged provisions were confined to those regions of the 
+country where voting discrimination had been most flagrant . . . 
+and affected a discrete class of state laws.” 117 S. Ct. at 2170. 
+Describing the outcome in that case, the Court stated that “to ensure 
+that the reach of the [legislation] was limited to those cases in 
+which constitutional violations were most likely (in order to reduce 
+overbreadth),” coverage could be terminated where “the danger 
+of substantial voting discrimination has not materialized during 
+the preceding five years.” Jd. Accordingly, legislation passed under 
+§ 5 avoids unconstitutional overbreadth if not extended to instances 
+where constitutional violations have not been shown to exist. 
+
+
+This Court next pointed out that the provisions banning 
+literacy tests in Katzenbach v. Morgan and Oregon v. Mitchell, 
+
+
+22 
+
+
+400 U.S. 112 (1970), attacked a particular type of voting 
+qualification with a long history as a “notorious means to deny 
+and abridge voting rights on racial grounds.” 117 S. Ct. at 2170 
+(citation omitted). The Court further noted that in City of Rome v. 
+United States, 446 U.S. 156 (1980), the burden of the federal 
+legislation was imposed only on jurisdictions with a history of 
+intentional racial discrimination in voting. 117 S. Ct. at 2170. 
+
+
+Even so, the Federal Circuit declared that it did not read this 
+Court's precedents to require enforcement of federal patent rights 
+against states on a “piecemeal” basis or to allow abrogation only 
+where a state has been shown not to provide due process to patent 
+holders. Pet. App. A at 15a. But this Court’s decisions cited in 
+City of Boerne clearly hold that legislation enacted under § 5 is 
+properly limited to instances where there are demonstrated, state- 
+sponsored constitutional violations. A contrary finding ignores this 
+Court’s ruling in City of Boerne that Congress's enforcement 
+powers may only be employed to remedy or prevent 
+unconstitutional conduct and not to make a “substantive change 
+in constitutional protections.” 117 S. Ct. at 2170. 
+
+
+Identifying the type of conduct that is the proper focus of 
+Enforcement Clause legislation, of course, is simply another way 
+of identifying when resort to that clause in the first instance is 
+appropriate. Lower courts before and after City of Boerne have 
+uniformly required the existence of unconstitutional behavior to 
+justify § 5 legislation. See, e.g., Wheeling & Lake Erie Railway 
+Co. v. Public Utility Commission of Pennsylvania, 141 F.3d 88, 
+93-94 (3d Cir. 1998) (Railroad Revitalization and Regulatory 
+Reform Act of 1976, 49 U.S.C. § 11501, was a valid exercise of 
+§ 5 enforcement power because it protected railroads against 
+discriminatory taxes levied by state and local authorities in 
+contravention of the Equal Protection Clause); Doe v. University 
+of Illinois, 138 F.3d 653, 660 (7th Cir. 1998) (upholding abrogation 
+accomplished through enactment of Title LX as designed to protect 
+against invidious discrimination in state-run, federally funded 
+
+
+23 
+
+
+institutions); Ramirez v. Puerto Rico Fire Service, 715 F.2d 694 
+(ist Cir. 1983).* 
+
+
+That the Enforcement Clause is properly limited to preventing 
+or remedying unconstitutional state conduct is perhaps best 
+illustrated by Wilson-Jones v. Caviness, 99 F.3d 203 (6th Cir. 
+1996). There, the Sixth Circuit held that the amendment of the 
+Fair Labor Standards Act (“FLSA”) to allow states to be sued in 
+federal court for FLSA violations was unconstitutional because 
+no discriminatory practices were being redressed by that 
+legislation. /d. at 210. Observing that Congress's power to abrogate 
+sovereign immunity is “no longer unlimited” following Seminole 
+Tribe and instead “depends on the particular purpose for which 
+Congress attempts to take away the states’ immunity,” the Sixth 
+Circuit concluded that the extension of the statute to the states 
+could not be accomplished under § 5. /d. at 207. It observed “if 
+we were to say that an act is valid if it is rationally related to 
+achieving equal protection of the laws, then Section 5 becomes a 
+license to Congress to pass any sort of legislation whatsoever.” 
+Id. at 209. The court found that the proper test is whether “there 
+[is] something about the act connecting it to recognized Fourteenth 
+Amendment aims.” /d. FLSA did not past that test. 
+
+
+The Sixth Circuit correctly foresaw that unless 
+unconstitutional conduct such as race or sex discrimination is 
+imminent,’ “any congressional action extending the scope of a 
+law to cover a new class of people [could be justified] — thereby 
+defeating the principle that Congress has limited power.” Wilson- 
+
+
+8. See also Fontenot v. Louisiana Bd. of Elementary and Secondary 
+Education, 835 F.2d 117 (Sth Cir. 1988) (discrimination against the 
+handicapped), United States v. Uvalde Consol. Independent School Dist., 
+625 F.2d 547 (Sth Cir. 1980) (at-large method of electing school board 
+officials unconstitutional because of discriminatory impact on vote). 
+
+
+9. Justice Kennedy, in City of Boerne, examined whether such conduct 
+was “likely.” 117 S. Ct. 2170. 
+
+
+24 
+
+
+Jones, 99 F.3d at 207. Accord: Timmer v. Michigan DOC, 104 
+F.3d 833 (6th Cir. 1997). 
+
+
+Congress, too, has consistently adhered to the Fourteenth 
+Amendment’s original purpose of redressing unconstitutional state 
+conduct when enacting § 5 legislation. See e.g., the Public 
+Accommodations Provision of the Civil Rights Act, 42 U.S.C. 
+§ 2000(a), et seq.; the Public Facilities Provision of the Civil Rights 
+Act, 42 U.S.C. § 2000(b), et seg.; Public Education Provisions of 
+the Civil Rights Act, 42 U.S.C. § 2000(c), et seqg.; and the 
+Vocational Rehabilitation Rights Act Amendments of 1986, 42 
+U.S.C. § 2000(d), et seg. Not until the recent amendment of the 
+copyright, patent, and trademark laws to allow suits against the 
+states in federal courts has Congress stepped outside of the 
+Fourteenth Amendment’s traditional bounds to enact legislation 
+pursuant to § 5 that has not and cannot be shown to relate to the 
+curing or preventing of unconstitutional state conduct. 
+
+
+According to the Senate Report, Congress believed that the 
+Patent Remedy Act nevertheless “represents a valid extension of 
+Congress’ [sic] right to protect rights of [patentees].” J.A. at 20a. 
+Such belief, echoed by the Federal Circuit, was founded upon the 
+premise that patents are a species of property. When enacting the 
+legislation, Congress stated: 
+
+
+The bill is justified as an acceptable method of 
+enforcing the provisions of the Fourteenth Amendment 
+... courts have continually recognized patent rights 
+as property, [and] the Fourteenth Amendment prohibits 
+a state from depriving a person of property without 
+due process of the law. 
+
+
+Id. Even per Congress’s own explanation, therefore, merely 
+defining patents as property does not address the other two prongs 
+of the Due Process Clause: the property owner must be “deprived” 
+
+
+25 
+
+
+of her property and such deprivation must occur “without due 
+process of law.”"® 
+
+
+Despite this recitation of the elements essential to a Due 
+Process analysis, neither Congress (nor the Federal Circuit, for 
+that matter) properly considered all three prongs of the clause when 
+examining the propriety of the Patent Remedy Act. In fact, they 
+never looked past the first prong. The district court concluded 
+that “the ultimate constitutional issue in this case is . .. whether 
+the interests sought to be protected by the Patent Act are ‘property’ 
+for purposes of the Fourteenth Amendment” without regard for 
+the other two parts of the Clause. Pet. App. B at 78-79a. The Federal 
+Circuit perpetuated this reasoning when affirming the decision to 
+deny Florida Prepaid’s motion to dismiss. 
+
+
+According to the lower courts in this case, Congress need 
+only identify a “life, liberty, or property” interest it desires to 
+protect in order for abrogating legislation to be “appropriate” to 
+enforce the Due Process Clause. Under that analysis, Eleventh 
+Amendment immunity will fall no matter what type of “property” 
+or “liberty” interest is identified.'' Clearly, if the logic underlying 
+
+
+10. In the absence of a legitimate “deprivation” of property, Congress's 
+attempt in the Patent Remedy Act to abrogate state immunity will fail in 
+most cases to remedy or deter a constitutional violation on that separate 
+ground. In Daniels v. Williams, 474 U.S. 327, 331 (1986), this Court made 
+clear that property is “deprived” for purposes of the Due Process Clause 
+only where the state acts intentionally. /d. at 331 (this limitation on what 
+constitutes a “deprivation” under the Due Process Clause “reflects the _ 
+traditional and common-sense notion that the Due Process Clause ... was _ 
+intended to secure the individual from the arbitrary exercise of the powers 
+of government’). In most instances, alleged patent infringement by a state 
+or state entity will not amount to a “deprivation” for purposes of the 
+Fourteenth Amendment. See, e.g., Davidson v. Cannon, 474 U.S. 344, 347- 
+48 (1986) (“lack of due care simply does not approach the sort of abusive 
+government conduct that the Due Process Clause was designed to prevent’). 
+
+
+11. Such interests are vast. See, e.g., Bell v. Burson, 402 U.S. 535 
+(1971); In re Ruffalo, 390 U.S. 544 (1968); Alaska Airlines, Inc. v. Long 
+(Cont'd) 
+
+
+26 
+
+
+the Patent Remedy Act's enactment is upheld, Congress's incondite 
+construction of the Due Process Clause will allow it to abrogate 
+sovereign immunity for the purpose of remedying or preventing 
+state conduct that may negatively affect any one of these 
+innumerable interests, however slightly. 
+
+
+Because the Patent Remedy Act abrogates the sovereign 
+immunity of all fifty states without any regard for whether the 
+states are actually violating the constitution by depriving persons 
+of life, liberty, or property without due process, the Eleventh 
+Amendment has been effectively emasculated. Congress has 
+elevated a federal statutory cause of action to a constitutional 
+violation. This is clearly a substantive change in the construction 
+of constitutional protections available under the Fourteenth 
+Amendment. As a result, the Patent Remedy Act irreconcilably 
+conflicts with the unambiguous prescriptions laid down by this 
+Court in City of Boerne. 
+
+
+a. No unconstitutional state conduct can be remedied 
+or prevented where states already afford patentees 
+due process of law. 
+
+
+The Federal Circuit found solace in this Court’s teaching that 
+Congress may prohibit state conduct that does not itself violate 
+the Constitution, provided the legislation is aimed at preventing a 
+constitutional violation. Pet. App. A, 14a. The problem with that 
+analysis is that the legislative history of the Patent Remedy Act 
+reveals that Congress had no evidence of state-sponsored, 
+
+
+(Cont'd) 
+
+Beach, 95\ F.2d 977 (9th Cir. 1992) (airline has a “property” interest in the 
+number of flights allocated at an airport). See, also, Landon v. Plasencia, 
+459 U.S. 21 (1982); De Weese v. Palm Beach, 812 F.2d 1365 (11th Cir. 
+1987); Lansdale v. Tyler Junior College, 470 F.2d 659 (Sth Cir. 1972); 
+Boyd v. Board of Directors, 612 F. Supp. 86 (E.D. Ark. 1985) (“rights” of 
+a high school student to participate in sports at school); McCollester v. Keene, 
+586 F. Supp. 1381 (D.N.H. 1984) (juveniles have liberty interests in being 
+free from unreasonable curfews). 
+
+
+27 
+
+
+unconstitutional conduct toward patent owners when writing the 
+statute. The Federal Circuit admitted as much but pointed to eight 
+instances between 1887 and 1990 where states have been sued for 
+patent infringement as empirica! evidence of states’ misconduct 
+and as legal justification for the Act. Pet. App. A, 21-22a. 
+
+
+In doing so, the Federal Circuit confused an allegation of 
+ordinary patent infringement with a constitutional violation -- the 
+deprivation of property without due process of law. Rather than 
+looking to whether states have violated the patent code as alleged 
+in the cited lawsuits, the court (and Congress) should have 
+examined whether states had infringed patents or threatened to do 
+so while also not providing patentees with constitutionally adequate 
+due process under law. Their failure to appreciate this distinction 
+and conduct the proper inquiry is fatal to the constitutionality of 
+the Patent Remedy Act. 
+
+
+Examining the existence of alternative remedies in assessing 
+the legitimacy of abrogating legislation was deemed an important 
+factor in Seminole Tribe. 517 U.S. at 74. CSB enjoyed, and still 
+enjoys, several options other than suing Florida Prepaid in New 
+Jersey district court for patent infringement, but it has resolved to 
+ignore them altogether. For instance, CSB arguably can pursue an 
+action in federal court for injunctive relief under the authority of 
+Ex parte Young, 209 U.S. 123 (1908), Seminole Tribe at 71 n.14 
+and 16. Such relief could ensure Florida’s compliance with federal 
+law while preserving CSB’s patent property. Florida also provides 
+a process by which CSB may seek to have a claim bill filed in the 
+state legislature to provide money damages. See § 11.065, Florida 
+Statutes. In fact, the Federal Circuit expressly conceded that the 
+Florida claims procedure “most likely provides sufficient process 
+to preclude a violation of the Fourteenth Amendment.” Pet. App. 
+A at l4a. 
+
+
+' ikewise, CSB could elect to file suit against Florida Prepaid 
+in Florida state court, where a takings claim founded upon 
+
+
+28 
+
+
+allegations of patent infringement has been recognized. Jacobs 
+Wind Electric Co. v. Florida Department of Transportation, 626 
+So. 2d 1333, 1337 (Fla. 1993). Holding that “Congress never 
+intended to preclude these claims from state court review even 
+though they involve a patent,” the Jacobs Wind court observed: 
+
+
+This case presents a situation where a party was not 
+just denied a particular remedy but was denied total 
+access to courts to redress its grievances. This cannot 
+be countenanced in light of Article 1, Section 21 of the 
+Florida Constitution, which provides that “(t]he courts 
+shall be open to every person for redress of any injury, 
+and justice shall be administered without sale, denial, 
+or delay.” 
+
+
+Id. at 1337. On that basis, the Florida Supreme Court held that 
+Florida courts “have jurisdiction over the claims presented here” 
+by a patent owner seeking a remedy for the state of Florida’s alleged 
+violation of his patent rights. /d. 
+
+
+Although Jacobs Wind was premised upon providing a state 
+court forum and remedy to a patent owner because Congress had 
+not expressed its intent to provide a federal forum for patent 
+remedies against a state defendant, the subsequent passage of the 
+Patent Remedy Act does not alter the legal significance and 
+
+
+12. Remedies potentially available in other states include inverse 
+condemnation claims, takings claims under state constitutions, or statutory 
+takings claims. See, for example, Klopping v. City of Whittier, 8 Cal. 3d 39, 
+43 (1972) (allowing inverse condemnation claim via Code of Civ. Proc. 
+§ 1250.110); Debruhi v. State Highway and Pub. Works Comm'n, 247 N.C. 
+671, 102 S.E. 2d 229 (1958) (Art. I § 19 of North Carolina’s Constitution 
+encompasses a prohibition against the taking of private property without 
+just compensation; sovereign immunity no defense); N.Y. Ct. Cl. Act 
+§ 9(2) (McKinney 1989) (New York court of claims authorized “to hear 
+and determine a claim of any person, corporation, or municipality against 
+the state for the appropriation of any real or personal property or any interest 
+therein ...”). 
+
+
+29 
+
+
+continuing applicability of that holding. If Florida state courts were 
+willing to provide a forum and a remedy in the absence of a federal 
+forum and remedy prior to the Patent Remedy Act’s enactment as 
+required by Florida's constitution, that same state process logically 
+remains available now that Seminole Tribe and City of Boerne 
+foreclose abrogation of Eleventh Amendment immunity in the 
+absence of a due process violation."’ 
+
+
+Consistent with this Court’s precedent, patentees should be 
+required to exhaust the available state remedies before any due 
+process violation can be found. In Williamson County Regional 
+Planning Comm'n v. Hamilton Bank of Johnson City, 473 U.S. 
+172, 195 (1985), this Court held that if a state provides adequate 
+procedures for seeking just compensation, a property owner cannot 
+state a claim in federal court under the Fifth Amendment until he 
+has used the procedures and been denied just compensation: 
+
+
+. . . respondent did not seek compensation through the 
+procedures the State has provided for doing so. The 
+Fifth Amendment does not proscribe the taking of 
+property; it proscribes taking without just 
+compensation. Nor does the Fifth Amendment require 
+that just compensation be paid in advance of, or 
+contemporaneously with, the taking; all that is required 
+is that a “reasonable, certain and adequate provision 
+for obtaining compensation” exist at the time of the 
+taking. If the government has provided an adequate 
+process for obtaining compensation; and if resort to 
+that process ‘yield[s] just compensation,’ then the 
+property owner ‘has no claim against the Government’ 
+
+
+13. In fact, should Florida or other states refuse to provide 
+constitutionally-adequate due process to patentees, review by this Court is 
+still available to remedy such failure. McKesson Corp. v. Div. of Alcoholic 
+Beverages & Tobacco, 496 U.S. 18, 27 (1990) (state must provide monetary 
+remedy in state court for violation of federal law; Eleventh Amendment is 
+no bar to Supreme Court review of state’s refusal to do so). 
+
+
+30 
+
+
+for a taking. Thus, we have held that taking claims 
+against the Federal Government are premature until 
+the property owner has availed itself of the process 
+provided by the Tucker Act, 28 U.S.C. 1491. Similarly, 
+if a State provides an adequate procedure for seeking 
+just compensation, the property owner cannot claim a 
+violation of the Just Compensation Clause until it has 
+used the procedure and been denied just compensation. 
+
+
+473 US. at 194-195 (citations omitted). Thus, before a federal 
+court may examine whether the process provided by a state is 
+constitutionally sufficient, the state must be given a chance to 
+provide whatever process and remedies are available under its own 
+procedures." 
+
+
+Not only is there no evidence that the relief available from 
+the states will not be constitutionally sound, there is no evidence 
+that states will not apply the patent law precedents of the federal 
+courts when fashioning such relief. See Speedco, Inc. v. Estes, 
+853 F.2d 909, 914 (Fed. Cir. 1988). Similarly, Congress should 
+not be allowed to render state remedies irrelevant by providing a 
+federal remedy and then justify the federal remedy by arguing 
+that state remedies are inadequate compared to Title 35 -- there is 
+no constitutional right to any particular form of relief.'* See, e.g., 
+
+
+14. CSB responded to this argument below by citing Monroe v. Pape, 
+365 U.S. 167, 183 (1961) for the proposition that patent owners are not 
+obligated to pursue their state law remedies before a federal remedy is 
+invoked. Monroe pertains to a claim under 42 U.S.C. § 1983 where the 
+conduct complained of was itself a constitutional violation. Thus, Monroe 
+simply means that there is no obligation to exhaust state remedies (and 
+thereby show a due process violation) where the constitutional violation 
+had already occurred. Stated differently, the constitutional claim at issue in 
+Monroe was already complete within the meaning of Williamson. Since 
+patent infringement is not itself a constitutional violation, Monroe 1s 
+inapposite. 
+
+
+15. Of course, any inability to bring a patent infringement action in 
+
+
+state court is the result of a congressional decision to confer exclusive 
+(Cont'd) 
+
+
+31 
+
+
+Gibbes v. Zimmerman, 290 U.S. 326, 332 (1933); Petersen v. 
+United States, 191 F.2d 154, 157 (9th Cir.) (holding that “there is, 
+constitutionally speaking, no basic right to any particular forum 
+or form of remedy”). As held by this Court in Parratt v. Taylor, 
+451 U.S. 527, 543-44 (1981), due process is not violated where a 
+state remedy would redress the property deprivation at issue even 
+though not providing all relief (e.g., punitive damages or a jury 
+trial) possibly available under federal law.'* 
+
+
+Moreover, it cannot matter that patent owners might prefer to 
+seek the more expansive range of remedies available under Title 
+35 against states; the controlling inquiry must be limited to whether 
+available state process and remedies satisfy federal constitutional 
+requirements. That the pursuit of claims through available state 
+processes may result in varying levels of process and relief is 
+endemic of any Due Process Clause analysis. Some states may 
+provide greater remedies than others, yet all remedies may be 
+constitutionally adequate. Allowing states to decide for themselves 
+appropriate remedies is, after all, consistent with the underlying 
+principles of federalism. 
+
+
+As clarified in Zinermon v. Burch, 494 U.S. 113, 125 (1990), 
+the deprivation of property by state action is not itself 
+unconstitutional; “what is unconstitutional is the deprivation of 
+such an interest without due process of law.” (emphasis in original). 
+Regardless of when the deprivation occurs, the constitutional 
+
+
+(Cont'd) 
+
+junsdiction in patent infringement actions on the federal courts. Thus, to the 
+extent there is insufficient process available to patent owners on that basis, 1s 
+cause is federal, not state, action. Section 5 of the Fourteenth Amendment does 
+not authonze abrogation of state immunity to remedy injures caused by federal 
+conduct within Congress's exclusive control. 
+
+16. Because Congress's statutory scheme in Title 35 clearly contemplates 
+that a patentee's remedies wil! be sought after any alleged infnngement has 
+begun, i.e., postdeprivation, this is not a situation in which a lack of 
+predepnvation procedures could be deemed to violate the Due Process Clause. 
+See, e.g., Hudson v. Palmer, 468 U.S. 517, 533 (1984), Crozier v. Krupp, 224 
+U.S. 290, 306 (1912). 
+
+
+32 
+
+
+violation “is not complete unless and until the state fails to provide 
+due process.” /d. at 126 (emphasis added). 
+
+
+Because Congress did not make any inquiry into the 
+availability of due process in state courts when enacting the Patent 
+Remedy Act, and CSB continues to refuse to avail itself of the 
+remedies Florida already provides for the alleged deprivation in 
+its state system, the Patent Remedy Act lacks an essential predicate 
+to the operation of the Enforcement Clause -- a deprivation of 
+property by a state that occurs “without due process of law.” 
+
+
+2. Exposing states to lost profits, treble damages, and 
+attorney 's fees in suits brought in federal court is both 
+unduly intrusive and harmful to states. 
+
+
+Having defined in City of Boerne when the Enforcement 
+Clause may be used -- to prevent or redress unconstitutional state 
+conduct -- this Court next turned to how that clause may be 
+employed. When examining this question, the Court announced a 
+balance that must be struck: “there must be congruence between 
+the means used and the ends to be achieved.” 117 S. Ct. at 2169. 
+Even assuming arguendo that Congress had properly identified 
+unconstitutional state conduct when enacting the Patent Remedy 
+Act thereby satisfying City of Boerne’s first requirement, the next 
+step is to ascertain whether the patent legislation at issue passes 
+this balancing test. 
+
+
+In City of Boerne, this Court evaluated whether a proper 
+balance had been struck between the end to be achieved and the 
+means employed by comparing the RFRA at issue to the Voting 
+Rights Act. Finding no balance present, the Court stated: 
+
+
+RFRA cannot be considered remedial, preventative 
+legislation, if those terms are to have any meaning. 
+RFRA is so out of proportion to a supposed remedial 
+or preventative object that it cannot be understood as 
+responsive to, or designed to prevent, unconstitutional 
+
+
+33 
+
+
+behavior. . . Preventative measures prohibiting certain 
+types of laws may be appropriate where there is reason 
+to believe that many of the laws affected by the 
+congressional enactment have a significant likelihood 
+of being unconstitutional. 
+
+117 S. Ct. at 2170. 
+
+
+Just as the RFRA was not “so confined,” id., neither is the 
+Patent Remedy Act. Under the patent laws, patentable subject 
+matter is broadly construed to include “anything under the sun 
+that is made by man.” Diamond v. Chakrabarty, 447 U.S. 303, 
+309 (1980). The Act’s proscription against state patent 
+infringements, therefore, allows intrusion into the actions of every 
+state official and conceivably touches all forms of state activities. 
+Indeed, whenever states procure technology employed by their 
+police for protecting states’ citizenry, or their agencies use office 
+supplies, they may unknowingly infringe a patent.’ The Patent 
+Remedy Act may be invoked to attack state conduct in federal 
+court whenever a patent owner feels, correctly or incorrectly, that 
+his patent rights have been impinged. Thus, as with the RFRA, 
+the Patent Remedy Act’s invasive “reach and scope” also serve to 
+“distinguish it from other measures passed under Congress's 
+enforcement power.” 117 S. Ct. at 2170. 
+
+
+Central to the Federal Circuit’s approval of the Patent Remedy 
+Act was its belief that considerable harm would result to patentees 
+and the patent system if there was no right to sue states in federal 
+court under Title 35, because patents on inventions used primarily 
+by states would be rendered “almost worthless.” Pet. App. A at 
+23a. Even ignoring that it is harm arising from an unconstitutional 
+denial of due process rather than the alleged harm caused by state 
+patent infringement that is the relevant harm to be weighed, the 
+
+17. There is an unlimited range of state conduct, from ordinary 
+ministerial acts to the providing of core governmental services like education, 
+that may expose a state to claims of direct, induced, or contributory patent 
+infringement. 
+
+
+34 
+
+
+Federal Circuit wrongly concluded that the harm to states flowing 
+from the abrogation of their Eleventh Amendment immunity 1s 
+“modest” or “slight.” /d. But if the envisioned harm resulting from 
+the possibility of tortious state conduct is automatically weightier 
+than the harm to states in having to defend themselves from patent 
+infringement claims in federal court, the Eleventh Amendment 
+will always lose. 
+
+
+Ironically, the Federal Circuit's rationale for approving the 
+allegedly “modest” means used by Congress to prevent state patent 
+infringement conflicts with its own analysis of the alleged harm 
+being remedied by the Act. In order to magnify that harm, the 
+court asserted that patented inventions embraced by states are those 
+likely to be usable only by states. Pet. App. 23a. Then, to justify 
+exposing states to the same remedies as private parties, the Federal 
+Circuit relied on exactly the opposite view: 
+
+
+Conduct that could constitute patent infringement 1s 
+part of the states’ commercial activity, not its central 
+political governance role. Thus, the Patent Remedy 
+Act will rarely constrict or restrain a state in the 
+performance of its core governmental functions. 
+
+
+Pet. App. A, 24a."* The Federal Circuit cannot be allowed to have 
+it both ways. If patented inventions are likely to be used only by 
+
+
+18. Because CSB did not contest that Florida Prepaid was entitled to 
+Eleventh Amendment immunity, and because the distnct court had already 
+found that Flonda Prepaid was performing a core governmental function, 
+Pet. App. B 57a, the Federal Circuit had no basis for suggesting that Flonda 
+Prepaid'’s activities in providing for college education funding was 
+commercial activity rather than a “critical state interest.” Pet. App. A, 24a. 
+Indeed, the Third Circuit had already affirmed that very finding by the district 
+court so the Federal Circut’s contrary suggestion was barred as a matter of 
+issue preclusion. See 13! F.3d at 364. In any event, causing states to be 
+haled into federal court to defend patent infringement actions will have a 
+serous and direct effect on core governmental functions beyond just the 
+financial impact. 
+
+
+35 
+
+
+states, those same inventions will surely relate to some aspect of 
+the states’ core governmental functions. Moreover, because the 
+scope of the Federal Circuit's abrogation holding 1s not limited by 
+the type of invention covered by the patent being asserted against 
+the state, the states are exposed to federal patent suits regardless 
+of whether the patent at issue relates to a state’s police activities, 
+legislative functions, or the like. 
+
+
+Without the Patent Remedy Act, patentees who believe they 
+have suffered state-sponsored patent infringement retain their 
+property, and will remain able to sell or license the patented 
+invention to others, and “recoup the expenses involved with the 
+discovery of important inventions” for their efforts. J.A. 20a. 
+Patentees may attempt to enjoin future state conduct that 
+diminishes their interests, and, at least in Florida, may sue to 
+recover damages under state law. Under the Patent Remedy Act, 
+on the other hand, states are forced to suffer the “indignity” of suit 
+by private parties in a federal court in far-away jurisdictions and 
+are exposed to treble damages and attorney's fees in the process. 
+See Puerto Rico, 506 U.S. at 146 (Eleventh Amendment designed 
+to prevent the indignity of subjecting a state to the coercive process 
+of judicial tribunals at the instance of private parties); Hess v. 
+Port Authority Trans-Hudson Corp., 513 U.S. 30, 115 S. Ct. 394, 
+403 (1994) (twin reasons for passage of Eleventh Amendment 
+include to protect the public fisc and to accord states respect as 
+members of a federation). 
+
+
+The conclusion that these damage claims under Title 35, if 
+successful, will have a significant impact on state treasuries was 
+affirmed by Congress’s express observation that such claims will 
+be a meaningful deterrent to patent infringement and, as such, a 
+sound goal of the Act. See J.A. 23a. This Court also recognized 
+this fact in City of Boerne when it concluded that “the substantial 
+costs RFRA exacts, both in practical terms of imposing a heavy 
+lingation burden on the states and in terms of curtailing their 
+traditional general regulatory power, far exceed any pattern or 
+
+
+36 
+
+
+practice of unconstitutional conduct.” 117 S. Ct. at2171. The same 
+is true here. The Patent Remedy Act imposes a heavy litigation 
+burden on states without a scintilla of evidence of unconstitutional 
+conduct being practiced -- or contemplated -- by Florida or any 
+other state toward patent owners. The desire to deter state conduct 
+with threats of increased damage awards is simply not a legitimate 
+predicate for Enforcement Clause legislation. See Vazquez, 106 
+Yale L.J. at 1730 (compensatory or deterrence interests are 
+insufficient to overcome the dictates of the Eleventh Amendment, 
+citing, Mansour, 474 U.S. at 68)."° 
+
+
+A chilling effect ca state activities will inevitably result should 
+this Court uphold the Patent Remedy Act because states will 
+reasonably be hesitant to engage in conduct for the benefit of the 
+public that may directly or tangentially impact patent rights and 
+embroil the state in litigation. Armed with expansive § 5 power as 
+construed in this case, Congress can force states to defend demands 
+for significant money damages in federal court each time Congress 
+senses the slightest effect upon any liberty or property interest 
+and does not like the remedies already provided by the states. 
+Because the Patent Remedy Act does not strike a balance between 
+the means and the end to be achieved, Congress's attempt to invoke 
+§ 5 as a source of abrogation power cannot be upheld. 
+
+
+19. This Court should reject the Federal Circu.. ¢ assertion that the 
+absence of a night to sue a state in federal court under Title 35 causes patents 
+to “decline drastically in value, because there is no access to the remedies 
+of attorney fees and treble damages.” Pet. App. A at 23a (citing 35 U.S.C. 
+§§ 284, 285). Such provisions are meant to deter improper conduct by an 
+accused infringer, not reward the patent owner, and cannot properly be 
+deemed part of the value of a patent. See Lessona Corp. v. United States, 
+599 F.2d 958, 969 (Ct. Cl. 1979). 
+
+
+37 
+
+
+3. That the Patent Remedy Act is incongruent to the ends 
+to be achieved is clear when compared with 35 U.S.C. 
+§ 1498. 
+
+
+The Federal Circuit's final conclusion, that there is “no sound 
+reason” to treat states differently from private citizens, simply 
+cannot stand given the express purpose of the Eleventh 
+Amendment. It is, of course, precisely because of the Eleventh 
+Amendment that states are not treated like private parties. See 
+Welch v. Texas Dep't of Highways and Pub. Transp., 483, 477 
+(1987) (“the constitutional role of the States sets them apart from 
+other ... defendants”). Congress appears to have been so 
+overwhelmed by its desire to afford the broadest relief possible to 
+patentees against the states, and to treat states on par with private 
+citizens, that it forgot this important constitutional limitation. 
+
+
+In practical effect, Congress has already demonstrated that a 
+more proportionate remedy for the harm allegedly caused by 
+infringement by state sovereigns can be designed. In enacting what 
+is now 28 U.S.C. § 1498, Congress allowed a patent owner to 
+recover “his reasonable and entire compensation” for any use and 
+manufacture of a patented invention by the federal government. 
+In contrast to the remedies in Title 35 available against private 
+parties, those available against the United States do not include 
+injunctive relief against future infringement. See Crozier, 224 U.S. 
+at 308. The remedies also do not include punitive measures such 
+as treble damages, Lessona, 599 F.2d at 969, or awards of attorney's 
+fees. Jd. at 970 (citing Calhoun v. United States, 453 F.2d 1385, 
+172 U.S.P.Q. 438, 446 (Ct. Cl. 1972)). Moreover, damages against 
+the United States are limited to a reasonable royalty rather than a 
+patent owner's lost profits. See Tektronix v. United States, 552 
+F.2d 343, 351 (Ct. Cl. 1977). 
+
+
+When Congress rejected the Title 35 remedies for use against 
+the United States, it did so because they were deemed “excessive” 
+or “unreasonable” as a means to satisfy the Constitution. See 
+
+
+38 
+
+
+Lessona, 599 F.2d at 966-71 (and cases cited). However, because 
+of Congress’s intent to treat the states like private parties, remedies 
+not available against the United States have now been imposed 
+against all of the states under the Patent Remedy Act. For good 
+measure, each state is also subject to being sued in every other 
+state in the country, as illustrated here where a Florida state agency 
+has been forced to defend itself in New Jersey. The punitive nature 
+of the Patent Remedy Act in contrast to § 1498 exemplifies how 
+excessive and disproportionate the Act is to the targeted wrong. 
+
+
+As is seen from the foregoing, and as held by this Court in 
+City of Boerne, § 5 legislation becomes substantive and, therefore, 
+unconstitutional, where there is a lack of congruity between the 
+constitutional injury to be prevented and the means adopted to 
+that end. When that occurs, Congress oversteps its bounds and 
+crosses into the exclusive realm of the judiciary. 117 S. Ct. at 
+2164. Targeting state conduct amounting to nothing other than a 
+tort contravenes City of Boerne’s requirement that Congres be 
+acting to redress or prevent constitutional wrongs. Not only has 
+no such wrong been identified or established, but allowing the 
+full range of Title 35 relief to be recovered against a state in federal 
+court to remedy or deter states’ tortious conduct is woefully 
+incongruent to the identified harm. As a result, the Patent Remedy 
+Act violates City of Boerne’s unambiguous imperatives and is thus 
+an unconstitutional attempt by Congress to abrogate states’ 
+Eleventh Amendment immunity from patent suits in federal court. 
+
+
+39 
+
+
+CONCLUSION 
+
+
+The decision of the Federal Circuit should be reversed and 
+remanded with instructions that CSB’s patent infringement claim 
+be dismissed. 
+
+
+Respectfully submitted, 
+
+
+ANNE S. MASON 
+
+Counsel of Record 
+
+JOSEPH C. MASON, JR. 
+MASON & ASSOCIATES, P.A. 
+17757 U.S. 19 North, Suite 500 
+Clearwater, FL 33764 
+
+(727) 538-3800 
+
+
+WILLIAM B. MALLIN 
+LEWIS F. GOULD, JR. 
+JOSEPH M. RAMIREZ 
+ECKERT SEAMANS CHERIN 
+& MELLOTT, LLC 
+
+600 Grant Street, 44th Floor 
+
+
+Pittsburgh, PA 15219 
+(412) 566-6000 
+
+
+Attorneys for Petitioner 
+
+
+LOUIS F. HUBENER 
+JONATHAN A. GLOGAU 
+Assistant Attorneys General 
+Office of the Attorney General 
+The Capitol 
+
+Tallahassee, FL 32399-1050 
+(850) 414-3300 
+
+
+Of Counsel to Petitioner 
+
+

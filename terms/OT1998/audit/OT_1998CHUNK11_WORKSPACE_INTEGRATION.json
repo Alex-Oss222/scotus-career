@@ -1,0 +1,96 @@
+{
+  "method": "Mechanical copy from immutable opening snapshots and permitted finalized Record sections; no Git access or adjudication.",
+  "captured_new_records": [
+    "albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
+    "olmstead_v_lc_merits_1999-06-22.md",
+    "murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
+    "kolstad_v_american_dental_association_merits_1999-06-22.md",
+    "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
+    "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
+    "alden_v_maine_merits_1999-06-23.md",
+    "ortiz_v_fibreboard_corp_merits_1999-06-23.md"
+  ],
+  "capture_excludes_records_arriving_later": true,
+  "completed_court_events": 130,
+  "latest_effective_date": "1999-06-23",
+  "unresolved_scheduled_items": 1,
+  "undated_carryovers": 13,
+  "unresolved_total": 14,
+  "completed_chunk11_rows": 8,
+  "new_completed_court_events": 8,
+  "stopped_chunk11_rows": [],
+  "completed_component_records_by_inventory_row": {
+    "Albertson’s, Inc. v. Kirkingburg": [
+      "albertsons_inc_v_kirkingburg_merits_1999-06-22.md"
+    ],
+    "Alden v. Maine": [
+      "alden_v_maine_merits_1999-06-23.md"
+    ],
+    "College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board": [
+      "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md"
+    ],
+    "Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank": [
+      "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md"
+    ],
+    "Kolstad v. American Dental Association": [
+      "kolstad_v_american_dental_association_merits_1999-06-22.md"
+    ],
+    "Murphy v. United Parcel Service, Inc.": [
+      "murphy_v_united_parcel_service_inc_merits_1999-06-22.md"
+    ],
+    "Olmstead v. L.C.": [
+      "olmstead_v_lc_merits_1999-06-22.md"
+    ],
+    "Ortiz v. Fibreboard Corp.": [
+      "ortiz_v_fibreboard_corp_merits_1999-06-23.md"
+    ]
+  },
+  "next_scheduled_event": "No runnable uncompleted scheduled inventory event remains in chunk 11; unresolved matters retain their recorded conditions.",
+  "same_day_boundary": "Uncoordinated June 22 and June 23 matters each use the common law effective before that entire date group. June 22 crosses chunks 10 and 11. Sutton supplies no entering law to its uncoordinated June 22 chunk 11 peers. Later dates receive every effective earlier holding; a scheduled date supplies no future Court action or law.",
+  "canonical_manifest_adapter_executed": "terms/OT1998/audit/ot1998_chunk11_rebuild_manifest.py",
+  "canonical_builder_output": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/workspace/manifest.md: 128 inventory events; 8 row(s) updated\nUnrelated inventory rows retain their exact existing status, including Germany original leave and Del Monte Dunes reconciliation.",
+  "prior_sections_preserved": {
+    "CONTINUITY": [
+      "## Scope and Chronology Cursor",
+      "## Completed Events and Admitted Sources",
+      "## Current Law",
+      "## Material Published Noncontrolling Positions",
+      "## Current Procedure and Institution",
+      "## Blockers and Revalidation Needs",
+      "## Source and Research Cutoff"
+    ],
+    "NEUTRAL_PROJECTION": [
+      "## Opening law and chronology",
+      "## Completed current-term events",
+      "## Current-term law",
+      "## Court, participation, and institutional practice",
+      "## Term-opening carryovers and current pending procedure",
+      "## Prospective events and material dependencies",
+      "## Current-term published noncontrolling positions",
+      "## Prior-term published positions retained for continuity",
+      "## Source limits"
+    ]
+  },
+  "unchanged_manifest_rows": 120,
+  "germany_status": "Open; original leave remains under consideration",
+  "del_monte_status": "Reconciled: prior adjudication; no new Court event",
+  "public_copy_sha256": {
+    "albertsons_inc_v_kirkingburg_merits_1999-06-22.md": "dbd9f5dde148e9ce9a7f34c3f0a00b7ef6c949b6538965e4d82c1945a5c9b9b8",
+    "olmstead_v_lc_merits_1999-06-22.md": "b921b78188682fe8285deda87c9492b5b07282d029cb1f7098883794d10e8b81",
+    "murphy_v_united_parcel_service_inc_merits_1999-06-22.md": "fff7bf87ba1065aed1fad9cc2d59861dbe4e5be27a044ffe6451d945ce35634d",
+    "kolstad_v_american_dental_association_merits_1999-06-22.md": "0fd8eedab410767717211357d17cbeec801dc76e07b07e7accd808d149508f70",
+    "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md": "d681cd34b10ae9767aeb5435e48adb2f8d58a42d87d9d8fbe683225475d92f93",
+    "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md": "eb1638233a07d1cdefa09b1b720c37136546a7eac92f65c9cdfda812b85e755e",
+    "alden_v_maine_merits_1999-06-23.md": "6a2959f8754a7763e6dc807b2b2ee09e0168aa1b758f3eecfab7a1c2f548f900",
+    "ortiz_v_fibreboard_corp_merits_1999-06-23.md": "bc8f956ef622fe5ac25360b07ea63201ad2490e0344dc27666bc38c4ac6549ab"
+  },
+  "duplicate_new_entries": false,
+  "write_scope": [
+    "workspace/manifest.md",
+    "workspace/continuity.md",
+    "workspace/neutral-projection.md",
+    "entering-law/<captured new Record basenames>",
+    "audit/OT_1998CHUNK11_WORKSPACE_INTEGRATION.json"
+  ],
+  "limits": "No ledger rebuild, check_term, Render Input build, substantive audit, or unrelated file audit performed."
+}

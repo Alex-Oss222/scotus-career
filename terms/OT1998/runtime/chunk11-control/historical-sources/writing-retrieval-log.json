@@ -1,0 +1,170 @@
+[
+  {
+    "name": "albertsons",
+    "kind": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/98-591.ZC.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-ZC.html",
+    "bytes": 8223,
+    "status": "downloaded"
+  },
+  {
+    "name": "albertsons",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-591.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-ZO.html",
+    "bytes": 55418,
+    "status": "downloaded"
+  },
+  {
+    "name": "alden",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-436.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZD.html",
+    "bytes": 144191,
+    "status": "downloaded"
+  },
+  {
+    "name": "alden",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-436.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZO.html",
+    "bytes": 114901,
+    "status": "downloaded"
+  },
+  {
+    "name": "college-savings",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-149.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZD.html",
+    "bytes": 8555,
+    "status": "downloaded"
+  },
+  {
+    "name": "college-savings",
+    "kind": "ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/98-149.ZD1.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZD1.html",
+    "bytes": 32050,
+    "status": "downloaded"
+  },
+  {
+    "name": "college-savings",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-149.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZO.html",
+    "bytes": 61381,
+    "status": "downloaded"
+  },
+  {
+    "name": "florida-prepaid",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-531.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZD.html",
+    "bytes": 49040,
+    "status": "downloaded"
+  },
+  {
+    "name": "florida-prepaid",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-531.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZO.html",
+    "bytes": 49873,
+    "status": "downloaded"
+  },
+  {
+    "name": "kolstad",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-208.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZO.html",
+    "bytes": 44730,
+    "status": "downloaded"
+  },
+  {
+    "name": "kolstad",
+    "kind": "ZX",
+    "url": "https://www.law.cornell.edu/supct/html/98-208.ZX.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZX.html",
+    "bytes": 4214,
+    "status": "downloaded"
+  },
+  {
+    "name": "kolstad",
+    "kind": "ZX1",
+    "url": "https://www.law.cornell.edu/supct/html/98-208.ZX1.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZX1.html",
+    "bytes": 19372,
+    "status": "downloaded"
+  },
+  {
+    "name": "murphy",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/97-1992.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-ZD.html",
+    "bytes": 4642,
+    "status": "downloaded"
+  },
+  {
+    "name": "murphy",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-1992.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-ZO.html",
+    "bytes": 19141,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/98-536.ZC.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZC.html",
+    "bytes": 5289,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "ZC1",
+    "url": "https://www.law.cornell.edu/supct/html/98-536.ZC1.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZC1.html",
+    "bytes": 20216,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/98-536.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZD.html",
+    "bytes": 32624,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/98-536.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZO.html",
+    "bytes": 55929,
+    "status": "downloaded"
+  },
+  {
+    "name": "ortiz",
+    "kind": "ZC",
+    "url": "https://www.law.cornell.edu/supct/html/97-1704.ZC.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZC.html",
+    "bytes": 4434,
+    "status": "downloaded"
+  },
+  {
+    "name": "ortiz",
+    "kind": "ZD",
+    "url": "https://www.law.cornell.edu/supct/html/97-1704.ZD.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZD.html",
+    "bytes": 46258,
+    "status": "downloaded"
+  },
+  {
+    "name": "ortiz",
+    "kind": "ZO",
+    "url": "https://www.law.cornell.edu/supct/html/97-1704.ZO.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZO.html",
+    "bytes": 114417,
+    "status": "downloaded"
+  }
+]

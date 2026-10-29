@@ -1,0 +1,2683 @@
+(6) ! Suprame Court, LS 
+FIL ED 
+
+
+No. 98-531 |} MAR 24 1969 
+OFFICE OF THE CLERAE 
+Jn the Supreme Court of the United saes— 
+
+
+OCTOBER TERM, 1998 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+EDUCATION EXPENSE BOARD, PETITIONER 
+
+
+v. 
+
+
+COLLEGE SAVINGS BANK AND 
+THE UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+
+DAVID W. OGDEN 
+Acting Assistant Attorney 
+General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+PAUL R.Q. WOLFSON 
+Assistant to the Solicitor 
+General 
+
+
+MARK B. STERN 
+
+MICHAELS. RAAB 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+VN 
+
+
+ee 
+
+
+QUESTION PRESENTED 
+
+
+Whether Congress has authority under Section 5 of 
+the Fourteenth Amendment to make state entities 
+amenable to suit in federal court for claims of patent 
+infringement. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+below “ee 
+
+
+Jurisdiction ... 
+Constitutional and statutory provisions involved 
+
+
+Statement 
+
+
+Summary of argument “ 
+Argument: 
+
+
+has validly made state entities amenable 
+
+
+to suit in federal court for claims of patent 
+
+
+2. Permitting patent-infringement suits 
+against state entities in federal court 
+
+
+ensures a post-deprivation 
+
+
+(III) 
+
+
+ce we 
+
+
+13 
+
+
+13 
+
+
+16 
+
+
+16 
+
+
+s 
+
+
+IV 
+
+
+Table of Contents—Continued: 
+
+
+(iii) The need for a post-deprivation, 
+rather than pre-deprivation, pro- 
+CRUD cceencrsineimtiitinnimnuitesincsanccs 
+c. The compelling and historical federal 
+interests in uniformity and private 
+enforcement of patent-infringement 
+GRGGD ccrsssnisuicrstnemneinttittilnaliammedteaptaascectmems 
+3. Congress need not limit the federal courts’ 
+jurisdiction over patent-infringement suits 
+against state entities to cases in which 
+intent is proven seponeasttieniniemteamadcommeioces 
+C. City of Boerne v. Flores does not call into 
+question Congress's authority to make state 
+entities amenable to suit in federal court 
+for patent infringement = TSE 
+II. Petitioner has waived its Eleventh Amend- 
+GG CT cccneenceenenmetimemeniptinenee 
+
+
+6 ESS See eee ee Sem A eS 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+American Mfrs. Mut. Ins. Co. v. Sullivan, No. 97- 
+
+SESS CGR. DB, SEED ccreserssesesnsemserinrsssmrscnemnmcsessasmiameee 
+American Securit Co. v. Shatterproof Glass Corp., 
+
+268 F.2d 769 (3d Cir.), cert. denied, 361 U.S. 
+
+902 (1959) 
+Automobile Abstract & Title Co. v. Haggerty, 
+
+46 F.2d 86 (EC.D. Micha. 1981) .2...2.cceccosnsesnssscecsecccsssesesseseseees 
+B. Braun Medical, Inc. v. Abbott Laboratories, 
+
+124 F.3d 1419 (Fed. Cir. 1997) 
+Bement v. National Harrow Co., 186 U.S. 70 
+
+(1902) 
+Bennett v. Spear, 520 U.S. 154 (1997) .2.....cccccccccccseseseseees 
+Board of Educ. v. Mergens, 496 U.S. 226 (1990) .............. 
+
+
+47 
+49 
+
+
+18 
+
+
+17 
+47 
+
+
+Cases—Continued: Page 
+
+
+Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 
+
+489 U.S. 141 (1989) 5, 34, 35 
+Bott v. Four Star Corp., 807 F.2d 1567 (Fed. Cir. 
+
+1986), overruled on other grounds, A.C. Aukerman 
+
+Co. v. R.L. Chaides Constr., 960 F.2d 1020 (Fed. 
+
+
+Cir. 1992) ' 45 
+Brown v. Duchesne, 60 U.S. (19 How.) 183 
+(1856) 16 
+
+
+Brunswick Corp. v. United States, 36 Fed. Cl. 
+
+204 (1996), aff’d, 152 F.3d 946 (Fed. Cir. 1998) ............... 46-47 
+Carey v. Piphus, 435 U.S. 247 (1978) 37 
+Chavez v. Arte Publico Press, 157 F.3d 282 (1998), 
+
+reh’g en banc granted, No. 93-2881 (5th Cir. Oct. 1, 
+
+
+1998) 44 
+Chew v. California, 893 F.2d 331 (Fed. Cir.), 
+
+cert. denied, 498 U.S. 810 (1990) 21 
+Christianson v. Colt Indus. Operating Corp., 
+
+486 U.S. 800 (1988) °5 
+City of Boerne v. Flores, 521 U.S. 507 (1997) ................. 8, 12, 
+
+14, 15, 20, 23, 39, 42, 43 
+
+City of Rome v. United States, 446 U.S. 156 
+
+(1980) 15, 39 
+Cleveland Bd. of Educ. v. Loudermill, 470 U.S. 
+
+532 (1985) 18, 19 
+
+
+Concrete Pipe & Prods. of Cal., Inc. v. Construction 
+Laborers Pension Trust, 508 U.S. 602 (1993) ............-0-0»: 28 
+Connolly v. Pension Benefit Guar. Corp., 475 US. 
+
+
+211 (1986) 27-28 
+Conrod v. Missouri State Highway Patrol, 
+
+810 S.W.2d 614 (Mo. Ct. App. 1991) 31 
+Consolidated Fruit-Jar Co. v. Wright, 94 U.S. 
+
+92 (1876) 16 
+Continental Paper Bag Co. v. Eastern Paper Bag 
+
+Co., 210 U.S. 405 (1908) - 2S 
+
+
+Daniels v. Williams, 474 U.S. 327 (1986) 39, 40 
+
+
+VI 
+Cases—Continued: Page 
+De Graffenried v. United States, 29 Fed. Cl. 384 
+
+) aseemmapynisepuitensmensesuine 27, 47 
+Diamond vy. Chakrabarty, 447 U.S. 303 (1980) ................ 22 
+Diamond v. Diehr, 450 U.S. 175 (1981) ..........ccccccccecsceeneeee 22 
+Eastern Enters. v. Apfel, 118 S. Ct. 2131 (1998) .......... 26, 29 
+
+CODED ecenecocenensssnessenngusicgemnvensitesinianiitemninigtiinaniviinciniminee 
+Employment Division, Dep't of Human Resources v. 
+
+me 9 ene 42 
+FCC v. Beach Communications, Inc., 508 U.S. 
+
+307 (1993) IE a S-- 23 
+First English Evangelical Lutheran Church v. 
+
+County of Los Angeles, 482 U.S. 304 (1987) 0.0... 25 
+Fitzpatrick v. Bitzer, 427 U.S. 445 (1976) .........ccceveseveee 14 
+Genentech, Inc. v. Regents of the Univ. of Cal., 
+
+143 F.3d 1446 (Fed. Cir. 1998) ..............cccesecseeereereeees 21, 23, 44 
+Gibbons v. Ogden, 22 U.S. (9 Wheat.) 1 (1824) ................. 25 
+Goss v. Lopez, 419 U.S. 565 (1975) ...0..........cccceseceseeseneseeees 20 
+Greenholtz v. Inmates of Neb. Penal & Correctional 
+
+RE RC ee 37 
+Hanover Star Milling Co. v. Metcalf, 240 U.S. 
+
+SE ED ccnceenncainciininsivseneasniapiitiliaisiapiasictiinpatlecstpmaritipsereemnn 
+Hardin v. Pitney-Bowes, Inc., 451 U.S. 1008 
+
+ae ea 4l 
+Harlow v. Fitzgerald, 457 U.S. 800 (1982)... 41 
+Hercules Inc. v. Minnesota State Highway 
+
+Dep't, 337 F. Supp. 795 (D. Minn. 1972) ...............cccesee 21 
+Hollister v. Benedict & Burnham Mfg. Co., 
+
+2 nee 26, 27 
+Hudson v. Palmer, 468 U.S. 517 (1984) ......................... 20, 33 
+Hutchinson v. Proximire, 443 U.S. 111 (1979) ................ 41 
+Jacobs Wind Elec. Co. v. Florida Dep't of Transp.: 
+
+SOD FS TES Gree, Ga, TEED cecersecceeneintimmns 21 
+
+TS )  . ) ene 31 
+James v. Campbell, 104 U.S. 356 (1881)... 26, 27 
+Kaiser Aetna v. United States, 444 U.S. 164 
+
+COD ceccciticrsersesrtsitinsiinintnenbinnsannaiiasiiliaamsiiaiainilmpiimssis 17, 28 
+
+
+‘giana i i) 
+
+
+Vil 
+Cases—Continued: Page 
+Katzenbach v. Morgan, 384 U.S. 641 (1966) ................. 15, 23 
+Kersavage v. University of Tenn., 731 F. Supp. 
+
+1327 (E.D. Tenn. 1989) 21 
+Kewanee Oil Co. v. Bicron Corp., 416 U.S. 470 
+
+(1974) 17 
+Keystone Bituminous Coal Ass'n v. DeBenedictis, 
+
+480 U.S. 470 (1987) 24, 27 
+Kimball Laundry Co. v. United States, 338 U.S. 
+
+1 (1949) 29 
+Krajt Foods Co. v. Walther Dairy Prods., 118 
+
+F. Supp. 1 (W.D. Wis. 1954), aff’d, 234 F.2d 279 
+
+(7th Cir.), cert. denied, 352 U.S. 926 (1956) 21 
+Lear, Inc. v. Adkins, 395 U.S. 653 (1969) 39 
+Lemelson v. Ampex Corp., 372 F. Supp. 708 (N.D. 
+
+Tl. 1974) 21 
+Logan v. Zimmerman Brush Co., 455 U.S. 422 
+
+(1982) 16 
+Lopez v. Monterey County, 119 S. Ct. 693 (1999) ............ 15 
+Loretto v. Teleprompter Manhattan CATV Corp., 
+
+458 U.S. 419 (1982) 27 
+Mathews v. Eldridge, 424 U.S. 319 (1976) .0.00.0......cccccceoe 37 
+Maxwell v. J. Baker, Inc., 86 F.3d 1098 (Fed. Cir. 
+
+1996), cert. denied, 520 U.S. 1115 (1997) 30 
+Oregon v. Mitchell, 400 U.S. 112 (1970) ............ccccccccceceseees 32 
+Oscar Meyer Food Corp. v. Conagra, Inc., 
+
+869 F. Supp. 656 (W.D. Wis.), aff’d mem., 45 F.3d 
+
+443 (Fed. Cir. 1994), cert. denied, 516 U.S. 812 
+
+(1995) 45 
+Parden v. Terminal Ry. of the Ala. State Docks 
+
+Dep't, 377 U.S. 184 (1964) 48 
+Paul v. Davis, 424 U.S. 693 (1976) ........cccceccveeververersneneneees 18 
+Pfaff v. Wells Elecs., Inc., 119 S. Ct. 304 
+
+(1998) 4 
+Ruckelshaus v. Monsanto Co., 467 U.S. 986 
+
+(1984) 27, 29 
+
+
+VIII 
+
+
+Cases—Continued: Page 
+SRI Intl, Inc. v. Advanced Tech. Laba., Inc., 
+
+127 F.3d 1462 (Fed. Cir. 1997) 45 
+Sears, Roebuck & Co. v. Stiffel Co., 376 U.S. 225 
+
+(1964) 4 
+Seminole Tribe v. Florida, 517 U.S. 44 (1996) ............... 7,17, 
+
+17, 18, 38 
+Sisson v. Ruby, 497 U.S. 358 (1990) 42 
+Sylvania Indus. Corp. v. Visking Corp., 132 F 2d 
+
+947 (4th Cir.), cert. dismissed, 319 U.S. 777 (1943) .......... 28 
+Townsend v. State, 871 P.2d 968 (N.M. 1994) ................... 31 
+Transparent-Wrap Mach. Corp. v. Stokes & Smith 
+
+Co., SED U.S. G87 (IDG) nnn nnecnrvecnseesvensessesosesessnsenessosore 4 
+Turner Broad. Sys., Inc. v. FCC, 520 U.S. 180 
+
+(1997) 7 24 
+United States v. California, 507 U.S. 746 (1993) ............. 48 
+United States v. General Motors Corp., 323 US. 
+
+373 (1945) 29 
+United States v. Palmer, 128 U.S. 262 (1888)............... 26, 27 
+United States v. Price, 383 U.S. 787 (1966) ............00c0000 14 
+United States v. Sperry Corp., 493 U.S. 52 
+
+(1989) 2 
+W.L. Gore & Assocs. v. Garlock, Inc., 842 F.2d 
+
+1275 (Fed. Cir. 1988) 46 
+Warren Bros. Co. v. Kibbe, 43 F.2d 582 (D. Or. 
+
+1925) 21 
+Waterman v. Mackenzie, 138 U.S. 252 (1891) .................. 17 
+Watts v. University of Del., 622 F 2d 47 (3d Cir. 
+
+1980) 21 
+William C. Popper &Co. v. Pennsylvania Liquor 
+
+Control Bd., 16 F. Supp. 762 (E.D. Pa. 1936) .................. 21 
+Wilson v. Rousseau, 45 U.S. (4 How.) 646 (1846) ........... 17 
+Yee v. City of Escondido, 503 U.S. 519 (1992) .................. 26 
+Young, Ez parte, 209 U.S. 123 (1908) .. 29, 33 
+Zenith Radio Corp. v. Hazeltine Research, Inc., 
+
+395 U.S. 100 (1969) 17 
+Zinermon v. Burch, 494 U.S. 113 (1990) 32 
+
+
+Ix 
+
+
+U.S. Const: 
+
+Arv.l 17, 18, 19 
+§ 8, CL 3 (Commerce Clause) 5-46 
+$8, Cl. 3 (Indian Commerce Clause) 14 
+§ 8, Cl. 8 (Patent Clause) —...... 2, 4, 5, 19, 35, 40, 44 
+
+Art. VI, Cl. 2 (Supremacy Clause) 9,25 
+
+Amend. I (Free Exercise Clause) 42, 43 
+
+Amend. V (Just Compensation Clause) 9, 20, 24, 25 
+
+Amend. XI passim 
+
+Amend. XIV passim 
+§ 1 (Due Process Clause) passim 
+$§ 5 (Enforcement Clause) passim 
+
+Act of Apr. 10, 1790, ch. 7, § 4, 1 Stat. 111 5 
+Act of Feb. 21, 1793, ch. 11, $5, 1 Stat. 322 5 
+Act of Apr. 17, 1809, ch. 25, § 3, 2 Stat. 38 5 
+Act of July 4, 1836, ch. 357, § 14, 5 Stat. 123 5, 45 
+Federal Courts Improvement Act of 1982, Pub. L. 
+
+No. 97-164, § 127(a), 96 Stat. 37 5 
+Lanham Trade-Mark Act, 15 U.S.C. 1061 et seq.: 
+
+15 U.S.C. 112Ha) 7,19 
+
+15 U.S.C. 112KaX1XB) 19 
+
+
+Patent and Plant Variety Protection Remedy 
+Clarification Act, Pub. L. No. 102-560, § 2{aX2), 
+106 Stat. 4230 5, 7, 9, 12, 22, 24, 31, 44 
+Religious Freedom Restoration Act of 1933, 42 U.S.C. 
+2000bb et seq. 
+42 U.S.C. 2000bb-1 
+42 U.S.C. 2000bb-211) 
+42 U.S.C. 2000bb-a) 
+Voting Rights Act of 1965, 42 U.S.C. 1971 et seq.: 
+$5, 42 USC. 1973e 
+23 U.S.C. 1296(aX1) 
+23 U.S.C. 1498 
+2 USC. 08a) 
+
+
+S 
+~&a@ 8858 
+
+
+IBEST AVAILABLE COPYI 
+
+
+Statutes and rule—Continued: 
+35 U.S.C. 154 
+
+
+35 U.S.C. 261 
+
+
+35 U.S.C. 271 
+
+
+35 U.S.C, 271(h) 
+35 U.S.C, 283 
+
+
+35 U.S.C, 284 
+35 U.S.C. 285 
+
+
+35 U.S.C. 289 
+35 U.S.C. 296 
+
+
+35 U.S.C. 296(a) 
+
+
+Fla. Stat. Ann. (West 1998 & Supp. 1999): 
+§ 240.551 
+
+
+§ 240.551(2\(e) 
+
+
+Sup. Ct. R. 10 
+
+
+Miscellaneous: 
+Eyal H. Barash, Comment, Experimental Uses, 
+
+
+Patents, and Scientific Progress, 91 Nw. U. L. Rev. 
+
+
+667 (1997) 
+
+
+137 Cong. Rec. 84046 (daily ed. Mar. 21, 1991) 
+
+
+Zechariah Chafee, The Thomas M. Cooley Lectures: 
+Some Problems of Equity (1950) 
+
+
+Rochelle Cooper Dreyfuss, The Federal Circuit: A 
+Case Study in Specialized Courts, 64 N.Y.U. L. 
+Rev. 1 (1989) 
+
+
+Thomas F. Cotter, Do Federal Uses of Intellectual 
+Property Implicate the Fifth Amendment?, 50 
+Fla. L. Rev. 529 (1998) 
+
+
+Rebecca S. Eisenberg, Public Research and Private 
+Development: Patents and Technology Transfer 
+
+
+in Government-Sponsored Research, 82 Va. L. Rev. 
+
+
+1663 (1996) 
+
+
+The Federalist No. 43 (J. Madison) (B. Wright 
+ed., 1961) 
+
+
+Henry J. Friendly, Federal Jurisdiction: A General 
+View (1973) 
+
+
+XI 
+
+
+Miscellaneous—Continued: Page 
+H.R. Rep. No. 312, 97th Cong., Ist Sess. (1981) ...........+.. 34, 35 
+H.R. Rep. No. 960, 101st Cong., 2d Sess., Pt. 1 
+
+(1990) 21, 22, 24 
+
+
+Gina A. Kuhlman, Comment, Alliances for the 
+Future: Cultivating a Cooperative Environment for 
+Biotech Success, 11 Berkeley Tech. L.J. 311 i 
+(1996) 
+Tammy L. Lewis and Lisa A. Vincler, Storming the 
+Ivory Tower: The Competing Interests of the 
+Public’s Right to Know and Protecting the Integrity 
+of University Research, 20 J.C. & U.L. 417 (1994) .......... 22 
+Patent Remedy Clarification Act: Hearing on H.R. 
+3886 Before the Subcomm. on Courts, Intellectual 
+Property, and the Administration of Justice of 
+the House Comm. on the Judiciary, 101st Cong., 
+
+
+2d Sess. (1990) 21, 24 
+S. Rep. No. 275, 97th Cong., Ist Sess. (1982) ............ 35, 36, 37 
+S. Rep. No. 280, 102d Cong., 2d Sess. (1992) nA BS * 
+
+
+Jn the Supreme Court of the Anited States 
+OCTOBER TERM, 1998 
+
+
+No. 98-531 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+EDUCATION EXPENSE BOARD, PETITIONER 
+
+
+v. 
+
+
+COLLEGE SAVINGS BANK AND 
+THE UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FEDERAL CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la-26a) 
+is reported at 148 F.3d 1343. The opinion of the district 
+court (Pet. App. 27a-9la) is reported at 948 F. Supp. 
+400. An earlier opinion of the district court is reported 
+at 919 F. Supp. 756. 
+
+JURISDICTION 
+
+The judgment of the court of appeals was entered on 
+June 30, 1998. The petition for a writ of certiorari was 
+filed on September 28, 1998, and was granted on Janu- 
+ary 8, 1999. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+
+(1) 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+INVOLVED 
+
+
+1. The Patent Clause of the United States Con- 
+stitution, Article I, Section 8, Clause 8, provides: 
+
+
+The Congress shall have power * * * [t]o 
+promote the Progress of Science and useful Arts, by 
+securing for limited Times to Authors and Inventors 
+the exclusive Right to their respective Writings and 
+Discoveries. 
+
+
+2. The Eleventh Amendment to the United States 
+Constitution provides: 
+
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens 
+or Subjects of any Foreign State. 
+
+
+3. The Fourteenth Amendment to the United States 
+Constitution provides, in relevant part: 
+
+
+SECTION 1. * * * No State shall * * * deprive 
+any person of life, liberty, or property, without due 
+process of law. 
+
+
+* *- Ke Kk * 
+SECTION 5. The Congress shall have power to 
+
+
+enforce, by appropriate legislation, the provisions of 
+this article. 
+
+
+3 
+
+
+4. Section 271(h) of Title 35, United States Code, 
+provides: 
+
+
+Infringement of patent 
+
+
+As used in this section, the term “whoever” includes 
+any State, any instrumentality of a State, and any 
+officer or employee of a State or instrumentality of a 
+State acting in his official capacity. Any State, and 
+any such instrumentality, officer, or employee, shall 
+be subject to the provisions of this title in the same 
+manner and to the same extent as any nongovern- 
+mental entity. 
+
+
+5. Section 296 of Title 35, United States Code, 
+provides: 
+
+
+Liability of States, instrumentalities of States, and 
+State officials for infringement of patents 
+
+
+(a) IN GENERAL.—Any State, any instrumental- 
+ity of a State, and any officer or employee of a State 
+or instrumentality of a State acting in his official 
+capacity, shall not be immune, under the eleventh 
+amendment of the Constitution of the United States 
+or under any other doctrine of sovereign immunity, 
+from suit in Federal court by any person, including 
+any governmental or nongovernmental entity, for 
+infringement of a patent under section 271, or for 
+any other violation under this title. 
+
+
+(b) REMEDIES.—In a suit described in subsec- 
+tion (a) for a violation described in that subsection, 
+remedies (including remedies both at law and in 
+equity) are available for the violation to the same 
+extent as such remedies are available for such a 
+violation in a suit against any private entity. Such 
+
+
+4 
+
+
+remedies include damages, interest, costs, and 
+treble damages under section 284, attorney fees 
+under section 285, and the additional remedy for 
+infringement of design patents under section 289. 
+
+
+STATEMENT 
+
+
+1. The Patent Clause of the Constitution empowers 
+Congress “[t]o promote the Progress of Science and 
+useful Arts, by securing for limited Times to * * * 
+Inventors the exclusive Right to their * * * 
+Discoveries.” U.S. Const. Art. I, § 8, Cl. 8. Congress 
+has accordingly authorized the issuance of patents 
+under a system that “encourages both the creation and 
+the public disclosure of new and useful advances in 
+technology, in return for an exclusive monopoly for a 
+limited period of time.” Pfaff v. Wells Elecs., Inc., 119 
+S. Ct. 304, 310 (1998). 
+
+“A patent is a species of property,” Transparent- 
+Wrap Mach. Corp. v. Stokes & Smith Co., 329 U.S. 687, 
+643 (1947), that entitles its owner for a time to exclude 
+others from making, using, or selling the invention 
+protected by the patent. See Sears, Roebuck & Co. v. 
+Stiffel Co., 376 U.S. 225, 229-230 (1964). It is not 
+
+
+disputed that the property interest secured by a federal . 
+
+
+patent includes the right to exclude state entities as 
+well as private parties from making, using, or selling 
+the patented invention, or that the creation of a pro- 
+perty interest that excludes States is a legitimate 
+exercise of Congress’s substantive power under the 
+Patent Clause. 
+
+Essential to the property interest secured by the 
+federal patent is a right to compensation for unauthor- 
+ized, or infringing, uses of the patented invention 
+without license from the patent holder. Thus, since the 
+_ enactment of the first patent statute in 1790, Congress 
+
+
+5 
+
+
+has authorized private causes of action for patent 
+infringement. See, e.g., Act of Apr. 10, 1790, ch. 7, § 4, 
+1 Stat. 111; Act of Feb. 21, 1793, ch. 11, § 5, 1 Stat. 322; 
+Act of Apr. 17, 1800, ch. 25, § 3, 2 Stat. 38; Act of July 4, 
+1836, ch. 357, § 14, 5 Stat. 123; 35 U.S.C. 271. Moreover, 
+because of the considerable complexity of patent- 
+infringement claims, as well as the strong federal 
+interest in ensuring the development of a consistent 
+and uniform body of patent law, Congress has histori- 
+cally provided the federal courts with exclusive 
+jurisdiction over cases arising under the patent laws. 
+See Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 
+489 U.S. 141, 162 (1989). In 1982, Congress further 
+strengthened its policy of promoting uniform develop- 
+ment of patent law when it established the United 
+States Court of Appeals for the Federal Circuit and 
+vested that court with exclusive jurisdiction over all 
+appeals in cases arising under federal patent law. See 
+Federal Courts Improvement Act of 1982, Pub. L. No. 
+97-164, § 127(a), 96 Stat. 37 (28 U.S.C. 1295(a)(1)). 
+
+In 1992, Congress enacted the Patent and Plant 
+Variety Protection Remedy Clarification Act (Patent 
+Remedy Act), Pub. L. No. 102-560, § 2(a)(2), 106 Stat. 
+4230, which expressly abrogated the Eleventh Amend- 
+ment immunity of any State or state instrumentality 
+from patent-infringement suits. See 35 U.S.C. 296(a); 
+see also S. Rep. No. 280, 102d Cong., 2d Sess. 2 (1992) 
+(J.A. 6a). The Patent Remedy Act was intended in part 
+to enforce the right of patent holders to protect the 
+property interest in their patents from deprivation by 
+the States without due process of law. Jd. at 8 (J.A. 
+20a). The Senate Judiciary Committee Report accom- 
+panying the Patent Remedy Act invoked the Patent 
+Clause, the Commerce Clouse (U.S. Const. Art. I, § 8, 
+Cl. 8), and the Enforcemeat Clause of Section 5 of the 
+
+
+6 
+
+
+Fourteenth Amendment as bases for the legislation. 
+See S. Rep. No. 280, supra, at 7-8 (J.A. 18a-19a). 
+
+2. Respondent College Savings Bank (CSB) markets 
+certificates of deposit (CDs) under the trademark 
+“CollegeSure.” The CollegeSure CDs are deposit 
+contracts for financing future college expenses. CSB 
+obtained a patent for its financing methodology, which 
+is designed to guarantee investors sufficient funds to 
+cover the costs of tuition for college. See Pet. App. 2a. 
+
+The Florida legislature created petitioner Florida 
+Prepaid Postsecondary Education Expense Board as 
+part of a legislative initiative to foster greater educa- 
+tional opportunities at the State’s colleges and universi- 
+ties. See Fla. Stat. Ann. § 240.551 (West 1998 & Supp. 
+1999); see also Pet. App. 2a & n.1. Since 1988, peti- 
+tioner has administered the Florida Prepaid Post- 
+secondary Education Expense Program, a tuition- 
+prepayment program available to “qualified beneficiar- 
+ies” as defined by Florida law. Pet. App. 28a-29a & n.2. 
+Those “qualified beneficiaries” include any student who 
+is a Florida resident at the time the advance payment 
+contract is formed, as well as any non-resident student 
+who is the child of a non-custodial parent who is a 
+resident of Florida at the time of contract formation. 
+Fla. Stat. Ann. § 240.551(2)(e) (West 1998 & Supp. 
+1999); Pet. App. 29a n.2. 
+
+CSB filed two separate actions against petitioner in 
+the United States District Court for the District of 
+New Jersey. In the suit at issue here, CSB alleged that 
+petitioner had knowingly and willfully infringed CSB’s 
+patent. CSB sought declaratory and injunctive relief 
+and damages. C.A. App. 100-103.' After this Court 
+
+
+' CSB also filed a separate action alleging that petitioner had 
+made false claims about its own product in violation of the Lanham 
+
+
+7 
+
+
+decided Seminole Tribe of Florida v. Florida, 517 U.S. 
+44 (1996), petitioner moved to dismiss CSB’s patent- 
+infringment claim on Eleventh Amendment grounds. 
+Pet. App. 38a. The United States intervened pursuant 
+to 28 U.S.C. 2403(a) to defend the constitutionality of 
+the Patent Remedy Act. 
+
+The district court denied petitioner’s motion to 
+dismiss CSB’s patent-infringement claim. Pet. App. 
+27a-91a. The court held that the Patent Remedy Act is 
+a valid abrogation of States’ Eleventh Amendment 
+immunity from suit in federal court on patent- 
+infringement claims. In particular, the court held that 
+the Patent Remedy Act is a valid means of enforcing 
+the Fourteenth Amendment’s protection against the 
+deprivation of property without due process of law. Id. 
+at 78a-86a. The court explained that “a patent is ‘pro- 
+perty’ for purposes of the Fourteenth Amendment, and 
+Congress can, under that Amendment, abrogate Elev- 
+enth Amendment immunity for claims under the Patent 
+Act.” Id. at 85a-86a. 
+
+3. The court of appeals affirmed. Pet. App. la-26a. 
+The court held that Congress had clearly expressed its 
+intent to abrogate the States’ immunity from suit in 
+federal court for patent infringement, and that Con- 
+gress is empowered under Section 5 of the Fourteenth 
+Amendment to effectuate such an abrogation. /d. at 5a- 
+26a. The court stated that “[iJn subjecting the states to 
+
+
+Trade-Mark 15 U.S.C. 1125(a). The district court dismissed 
+the Cosham ‘Prado Sark Act suit on Eleventh Amendment 
+
+the Third Circuit affirmed, and CSB filed a petition for a 
+Wee ee ee ee 
+granted CSB’s petition in that case on January ; same 
+day that it granted the petition filed in this case. See College 
+Savings Bank v. Florida Prepaid Postsecondary Educ. Expense 
+Bd., No. 98-149 (to be argued Apr. 20, 1999). 
+
+
+8 
+
+
+suit in federal court for patent infringement, Congress 
+sought to prevent states from depriving, patent owners 
+of their property without due process through infring- 
+ing acts, an objective that comports with the text and 
+judicial interpretations of the Fourteenth Amendment.” 
+Id. at 13a. The court also found a “congruence between 
+the means used and the ends to be achieved” by Con- 
+gress in subjecting the States to suit for patent 
+infringement. Jd. at 24a (quoting City of Boerne v. 
+Flores, 521 U.S. 507, 530 (1997)). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. A. This Court has repeatedly made clear that 
+Section 5 of the Fourteenth Amendment empowers 
+Congress to abrogate States’ Eleventh Amendment 
+immunity in order to secure the protections of the 
+Fourteenth Amendment and to deter and remedy 
+violations of those rights. Section 5 vests Congress 
+with broad authority in those respects, and Congress’s 
+judgments in this area “are entitled to much defer- 
+ence.” City of Boerne v. Flores, 521 U.S. 507, 536 
+(1997). Congress reasonably concluded that the abroga- 
+tion of States’ Eleventh Amendment immunity to suit 
+in federal court for patent-infringement claims is appro- 
+priate to secure the Fourteenth Amendment’s protec- 
+tion against deprivation, without due process of law, of 
+inventors’ property rights in their patents. 
+
+B. 1. The Fourteenth Amendment provides constitu- 
+tional protection against the arbitrary deprivation of 
+private property by the States. A patent is a form of 
+property that confers on the patent owner the right to 
+exclude others, including state entities, from making, 
+using, or selling the patented invention. Infringement 
+of a patent by a state entity through unauthorized use 
+of an invention therefore “depriv[es]” a patent owner of 
+
+
+his property right to exclude use, within the meaning of 
+the Due Process Clause. The Patent Remedy Act 
+secures constitutional protection for a classic form of 
+property. That legitimate protection does not suggest, 
+however, that Congress has limitless power to vest 
+private interests with the status of property and then 
+use its Fourteenth Amendment power to subject States 
+to suit in federal court for infringing those interests. 
+
+2. a. In abrogating the States’ Eleventh Amendment 
+immunity to suit for patent infringement, Congress 
+acted appropriately to protect the property interest in 
+federal patents against state deprivation without due 
+process of law. There have been instances of state 
+patent infringement in the past, and, given the increas- 
+ing involvement of state entities in areas covered by 
+patents, Congress had reason to believe that the 
+problem would become even more serious in the future. 
+Section 5 therefore empowered Congress to ensure that 
+reliable procedures would be available to protect the 
+property rights conferred under the patent laws. 
+
+b. Congress was not required to relegate patent 
+owners to the remedies for a taking of property under 
+the Just Compensation Clause, or to whatever remedies 
+might be available in state court under state tort law. 
+First, it is doubtful that it is appropriate to apply 
+
+law to a state entity’s infringement of a patent 
+at all, because the Supremacy Clause prevents a State 
+from exercising its power of eminent domain over a 
+federal patent. Further, Congress might reasonably 
+have concluded that it would be uncertain how state 
+courts would apply taking law to patents. This Court 
+has recognized a per se taking only when the 
+aed cn sented ot 
+either occupy or productively use property, method 
+analysis that might not be readily applicable to claims 
+
+
+10 
+
+
+of patent infringement. Although the Court has also 
+recognized claims of regulatory takings, patent in- 
+fringements may occur without a regulatory nexus; 
+moreover, regulatory taking claims are governed by an 
+ad hoc inquiry that, Congress could reasonably con- 
+clude, is insufficiently uniform and certain to ensure the 
+necessary protection against patent infringement. 
+Further, Congress might reasonably perceive standard 
+remedies applied in state courts for takings as inade- 
+quate to secure the federally conferred property inter- 
+est in patents, because the patent gives the inventor 
+the right to exclude others and to engage in exclusive 
+use of the invention, not just the right to demand 
+compensation from others for use of the invention, and 
+because in some cases the measure of compensation in 
+standard taking cases might also be considered insuffi- 
+cient to compensate a patent owner for his economic 
+loss caused by state infringement. 
+
+Congress could also have reasonably concluded that 
+the possibility of a meaningful state-law remedy for the 
+deprivation of a patent owner’s property interest is 
+speculative. At least two States have not waived their 
+sovereign immunity at all, and other States have 
+imposed significant qualifications on their waivers of 
+immunity from tort suits. Congress therefore had 
+reason to doubt the general adequacy of alternative 
+remedies against States for patent infringement. And 
+Congress is not required to enforce patent rights on a 
+piecemeal, State-by-State basis, under which a patent 
+owner's right to sue a state entity for infringement 
+under federal law might turn on a fact-specific evalua- 
+tion of the alternative remedies available against that 
+particular State under its own laws. Finally, Congress 
+is entitled to conclude that a post-deprivation remedy 
+in damages for a state entity’s deprivation of a patent 
+
+
+11 
+
+
+owner’s property interest is necessary because a pre- 
+deprivation remedy would be impracticable given the 
+circumstances in which patent-infringement claims 
+arise. A sate entity in competition with a patent 
+owner is not likely to give the patent owner pre- 
+deprivation notice of its intent to infringe the patent. 
+
+c. Because of the important federal interest in the 
+uniform development of patent law and consistent 
+adjudication of patent-infringement claims, Congress 
+has long channeled patent-infringement claims exclu- 
+sively into the federal courts. It has also established a 
+federal court of appeals with exclusive subject-matter 
+jurisdiction over cases arising under the patent laws to 
+provide uniformity that promotes a reliable and 
+consistent system of patent protection. Issues relating 
+to patent infringement can be highly complex, and state 
+courts have not heretofore been called upon to develop 
+expertise in questions arising under the federal patent 
+code. Congress also has historically viewed claims of 
+patent infringement as more appropriate for vindication 
+by private enforcement, rather than prosecution by the 
+federal government, reflecting the fact that a patent 
+owner is most likely to understand the factual basis of a 
+claim of infringement. It is therefore appropriate for 
+Congress to provide for private claims of patent 
+infringement brought against state entities to be 
+adjudicated only in the federal courts. 
+
+8. Congress is not required to limit the federal 
+courts’ jurisdiction over patent-infringement cases 
+against state entities to those in which intent to in- 
+fringe is alleged and proven. Such a rule would intro- 
+duce serious inefficiencies, because the courts would be 
+unable to determine their jurisdiction at the outset of 
+the case, but would in many cases be required to hold 
+trials to determine whether the alleged infringer had 
+
+
+12 
+
+
+acted with intent—an inquiry that is ordinarily un- 
+necessary to determine the substantive question of 
+infringement. Given those difficulties, and the fact that 
+Congress’s substantive regulation of patent infringe- 
+ment by state entities is constitutionally unobjectior- 
+able, it is appropriate for Congress to assign patent- 
+infringement cases against state entities to the federal 
+courts without requiring a showing of intent. 
+
+C. This case is far removed from City of Boerne v. 
+Flores, 521 U.S. 507 (1997). In that case, the Court 
+invalidated a statute with sweeping coverage that 
+ensured its intrusion at every level of government, 
+displacing laws and prohibiting official actions of almost 
+every description and regardless of subject matter. In 
+contrast, the Patent Remedy Act speaks only to a state 
+entity’s illegal production, use, or sale of a patented 
+device or method. The Act does not intrude into any 
+sphere of primary conduct constitutionally reserved to 
+the States. Hence, Congress’s decision to subject state 
+entities to suit for engaging in unlawful commercial 
+activity does not raise the concerns that animated the 
+decision in City of Boerne. 
+
+II. Application of the Patent Remedy Act in this 
+case may also be sustained on the ground that peti- 
+tioner has waived its Eleventh Amendment immunity 
+by engaging in commercial activity that infringes CSB’s 
+patent. A State voluntarily waives its Eleventh 
+Amendment immunity by engaging in commercial 
+activity when Congress has unequivocally provided 
+that a State that engages in that conduct will be amen- 
+able to suit in federal court, and when that conduct is of 
+a nature that the State could realistically choose to 
+abandon. Those conditions are satisfied in this case. 
+
+
+13 
+
+
+ARGUMENT 
+
+
+I. CONGRESS HAS VALIDLY MADE STATE 
+
+
+ENTITIES AMENABLE TO SUIT IN FEDERAL 
+COURT FOR CLAIMS OF PATENT INFRINGE- 
+MENT 
+
+
+A. Congress Has Power Under Section 5 Of The Four- 
+teenth Amendment To Make State Entities Amenable 
+To Suit In Federal Court, In Order To Secure The 
+Guarantees Of The Due Process Clause Of That 
+Amendment, And To Deter And Remedy Violations Of 
+That Clause 
+
+
+It is firmly established that Congress’s power under 
+Section 5 of the Fourteenth Amendment includes the 
+power to abrogate the Eleventh Amendment immunity 
+of the States, so that they will be amenable to suit in 
+federal court: 
+
+
+[T]he Eleventh Amendment, and the principle of 
+state sovereignty which it embodies, are necessarily 
+limited by the enforcement provisions of § 5 of the 
+Fourteenth Amendment. In that section Congress 
+is expressly granted authority to enforce “by appro- 
+priate legislation” the substantive provisions of the 
+Fourteenth Amendment, which themselves embody 
+significant limitations on state authority. When 
+Congress acts pursuant to § 5, not only is it exercis- 
+ing legislative authority that is plenary within the 
+terms of the constitutional grant, it is exercising 
+that authority under one section of a constitutional 
+Amendment whose other sections by their own 
+terms embody limitations on state authority. We 
+think that Congress may, in determining what is 
+“appropriate legislation” for the purpose of en- 
+forcing the provisions of the Fourteenth Amend- 
+
+
+14 
+
+
+ment, provide for private suits against States or 
+state officials which are constitutionally impermissi- 
+ble in other contexts. 
+
+
+Fitzpatrick v. Bitzer, 427 U.S. 445, 456 (1976) (citation 
+omitted). This holding of Fitzpatrick was in no way 
+disturbed by the Court’s subsequent decision in 
+Seminole Tribe of Florida v. Florida, 517 U.S. 44 
+(1996), which held (id. at 59, 65-66) that Congress lacked 
+power under the Indian Commerce Clause, (Art. I, § 8, 
+Cl. 3) to abrogate a State’s immunity from suit in 
+federal court. See Seminole Tribe, 517 U.S. at 72 n.15 
+(reaffirming that, “in the context of a statute passed 
+under the Fourteenth Amendment, * * * Congress’ 
+authority to abrogate [Eleventh Amendment immu- 
+nity] is undisputed”). Fitzpatrick therefore continues 
+to state the overarching principle for cases involving 
+exercises of congressional power under Section 5: 
+Congress may exercise its Fourteenth Amendment 
+power to abrogate a State’s Eleventh Amendment 
+immunity from suit. 
+
+Section 5 of the Fourteenth Amendment vests Con- 
+gress with the “power to enforce, by appropriate 
+legislation, the provisions of [the Amendment)].” U.S. 
+Const. Amend. XIV, § 5. The provisions of the Four- 
+teenth Amendment that Congress may enforce pur- 
+suant to Section 5 extend to “every right guaranteed by 
+the Due Process Clause,” United States v. Price, 383 
+U.S. 787, 789 (1966) (internal quotation marks omitted), 
+including the right against the deprivation of property 
+without due process of law. Furthermore, as the Court 
+recently reaffirmed, Section 5 “is ‘a positive grant of 
+legislative power’ to Congress.” City of Boerne v. 
+Flores, 521 U.S. 507, 517 (1997) (quoting Katzenbach v. 
+Morgan, 384 U.S. 641, 651 (1966)). Section 5 gives 
+
+
+15 
+
+
+Congress broad discretion to determine in the first 
+instance “whether and what legislation is needed to 
+secure the guarantees of the Fourteenth Amendment.” 
+Id. at 536 (internal quotation marks omitted). “What- 
+ever legislation is appropriate, that is, adapted to carry 
+out the objects the [Fourteenth Amendment] hajs] in 
+view, * * * if not prohibited, is brought within the 
+domain of congressional power.” Jd. at at 517-518 
+(internal quotation marks omitted). Accordingly, Sec- 
+tion 5 grants Congress the authority to abrogate the 
+States’ Eleventh Amendment immunity in circum- 
+stances that are appropriate to secure the Fourteenth 
+Amendment’s protection against deprivation of pro- 
+perty without due process of law. 
+
+Moreover, the question whether Congress has power 
+under Section 5 of the Fourteenth Amendment to 
+prohibit or regulate a form of state activity is distinct 
+from the question whether that particular conduct 
+might be held by a court to violate the substantive 
+provisions of that Amendment. As this Court has 
+repeatedly recognized, “[ljegislation which deters or 
+remedies constitutional violations can fall within the 
+sweep of Congress’ enforcement power even if in the 
+process it prohibits conduct which is not itself uncon- 
+stitutional and intrudes into legislative spheres of 
+autonomy previously reserved to the States.” Lopez v. 
+Monterey County, 119 8. Ct. 693, 703 (1999) (quoting 
+City of Boerne, 521 U.S. at 518); see also Morgan, 384 
+U.S. at 649 (Congress, pursuant to its Section 5 powers, 
+could bar States from imposing English-literacy re- 
+quirements already adjudicated to be constitutional); cf. 
+City of Rome v. United States, 446 U.S. 156, 177 (1980) 
+(“It is clear * * * that under § 2 of the Fifteenth 
+Amendment Congress may prohibit practices that in 
+and of themselves do not violate § 1 of the Amendment, 
+
+
+16 
+
+
+so long as the prohibitions attacking racial discrimina- 
+tion in voting are ‘appropriate.’”). Thus, Congress may 
+under “appropriate” circumstances abrogate a State’s 
+immunity to suit in federal court to ensure adequate 
+constitutional protection for property, even if not every 
+deprivation of property subject to challenge in federal 
+court under that abrogation would be unconstitutional. 
+
+
+B. Subjecting State Entities To Suit In Federal Court For 
+Patent Infringement Is An Appropriate Means Of 
+Securing The Protections Of The Due Process Clause 
+
+
+1. Patents Are A Form Of Property That Congress 
+May Protect From Unconstitutional Deprivation 
+Under Section 5 
+
+
+The right to exclude others from use of an invention 
+covered by a federal patent is, without doubt, property 
+protected against unconstitutional deprivation by the 
+Due Process Clause of the Fourteenth Amendment, 
+U.S. Const. Amend. XIV, § 1. The “types of interests 
+protected as property [by the Clause] are varied and, as 
+often as not, intangible.” Logan v. Zimmerman Brush 
+Co., 455 U.S. 422, 430 (1982) (internal quotation marks 
+omitted). Indeed, the Court long ago made clear that 
+patents are a form of property. See Continental Paper 
+Bag Co. v. Eastern Paper Bag Co., 210 U.S. 405, 425 
+(1908) (“[PJatents are property, and entitled to the 
+same rights and sanctions as other property.”); Con- 
+solidated Fruit-Jar Co. v. Wright, 94 U.S. 92, 96 (1876) 
+(“A patent for an invention is as much property as a 
+patent for land.”); Brown v. Duchesne, 60 U.S. (19 
+How.) 183, 197 (1856) (“For, by the laws of the United 
+States, the rights of a party under a patent are his 
+private property.”). Patents give their owners the 
+right to exclude others from making, using, or selling an 
+invention for a certain period, Kewanee Oil Co. v. 
+
+
+17 
+
+
+Bicron Corp., 416 U.S. 470, 480 (1974), and that right of 
+exclusion is among the “most essential sticks in the 
+bundle of rights that are commonly characterized as 
+property,” Kaiser Aetna v. United States, 444 U.S. 164, 
+176 (1979). Congress has therefore provided that, 
+subject to the provisions of the patent code, “patents 
+shall have the attributes of personal property.” 35 
+U.S.C. 261.’ 
+
+Federal patents are therefore entitled to protection 
+against deprivation without due process of law, and 
+Congress may act under the Fourteenth Amendment to 
+secure that protection. Petitioner contends (Pet. Br. 
+17-19), however, that to permit Congress to invoke the 
+Fourteenth Amendment to protect property interests 
+that it creates under its Article I powers (such as 
+patents) would allow Congress to circumvent the 
+limitations on its power to abrogate Eleventh Amend- 
+ment immunity set forth in Seminole Tribe. The Due 
+Process Clause, however, protects only “life, liberty, 
+[and] property” from deprivation. U.S. Const. Amend. 
+XIV, § 1; see Paul v. Davis, 424 U.S. 693, 710-712 
+(1976). While Congress undoubtedly has latitude in 
+determining that a particular private interest created 
+under its Article I power should have the status of 
+
+
+2 Like other forms of property, a patent (or any interest 
+therein) can be assigned through sale, mortgage, or gift, and is 
+transferred by the death of the patent owner to the administrator 
+or executor of the owner’s estate. See Zenith Radio Corp. v. 
+Hazeltine Research, Inc., 395 U.S. 100, 135-136 (1969); Bement v. 
+National Harrow Co., 186 U.S. 70, 88-89 (1902); Waterman v. 
+Mackenzie, 138 U.S. 252, 255 (1891); Wilson v. Rousseau, 45 U.S. 
+(4 How.) 646, 674-675 (1846); see also 35 U.S.C. 261 (providing that 
+patent or any interest therein may be assigned by instrument in 
+writing, and providing for recordation of assignments in Patent 
+and Trademark Office). 
+
+
+18 
+
+
+“property,” so that the guarantees of the Due Process 
+Clause are implicated, that latitude is not unlimited. 
+Thus, the fact that the Fourteenth Amendment author- 
+izes Congress to protect property interests created by 
+Article I does not make Congress’s power to abrogate 
+Eleventh Amendment immunity coextensive with its 
+power to legislate under Article I, as petitioner asserts 
+(Pet. Br. 19). In cases where Congress has acted to 
+secure the protections of the Due Process Clause for 
+property, the courts are empowered to decide whether 
+the interest protected may in fact appropriately be 
+considered to be “property” within the meaning of that 
+Clause. Cf. American Mfrs. Mut. Ins. Co. v. Sullivan, 
+No. 97-2000 (Mar. 3, 1999), slip op. 17-20 (holding that 
+state utilization-review procedures had not created 
+“property” protected by the Due Process Clause).* 
+Indeed, much substantive regulation enacted by 
+Congress pursuant to Article I has not been viewed as 
+creating property interests that fall within the scope of 
+the Fourteenth Amendment. For example, as we 
+
+
+% Petitioner further contends (Pet. Br. 18 n.6) that Seminole 
+Tribe “confirm[s] that whatever statutory property rights Con- 
+gress is able to create under Article I after the passage of the 
+Eleventh Amendment do not include the right to have such rights 
+enforced against states by suit in federal court.” That argument 
+conflates the substance of a property interest with the means 
+adopted by Congress to protect that interest. The substantive 
+property interest at issue in this case is the right of a patent owner 
+to exclude others, including States, from exploiting a patented 
+invention. See 35 U.S.C. 154, 271(h), 296. The property interest in 
+excluding others from use of one’s invention exists apart from the 
+federal-court forum established by Congress to protect that 
+interest. Cf. Cleveland Bd. of Educ. v. Loudermill, 470 U.S. 582, 
+541 (1985) (“‘Property’ cannot be defined by the procedures 
+provided for its deprivation.”); ibid. (“The categories of substance 
+and procedure are distinct.”). 
+
+
+19 
+
+
+explain in our brief (at pp. 30-33) in College Savings 
+Bank v. Florida Prepaid Postsecondary Education 
+Expense Board, No. 98-149 (to be argued Apr. 20, 1999), 
+although the Lanham Trade-Mark Act prohibits the 
+misrepresentation, in commercial advertising, of one’s 
+own goods or services, see 15 U.S.C. 1125(a)(1)(B), that 
+Act does not thereby create in competitors a property 
+interest against such misrepresentations. For that 
+reason, Congress’s authorization of suits against States 
+in federal court for misrepresenting their own business 
+products (while valid on other grounds under our 
+contentions in that case) cannot be sustained as an 
+exercise of Congress’s powers under Section 5 of the 
+Fourteenth Amendment, for a State’s misrepresenta- 
+tion of its own product does not deprive competitors of 
+any constitutionally protected property interest. 
+
+If, however, Congress has legitimately created a 
+property interest pursuant to its Article I powers, as it 
+has done by authorizing the grant of patents pursuant 
+to the Patent Clause, U.S. Const. Art. I, § 8, Cl. 8, then 
+that property interest is entitled to constitutional 
+protection under the Due Process Clause of the Four- 
+teenth Amendment, just as is a property right created 
+by state law. And far from being constitutionally eva- 
+sive in nature, Congress’s creation of a patent system 
+to implement the Patent Clause reflects the fact that 
+the very purpose of that Clause was to enable Congress 
+to confer a particular kind of property right on 
+inventors. 
+
+
+20 
+
+
+2. Permitting Patent-Infringement Suits Against 
+State Entities In Federal Court Appropriately 
+Ensures A Post-Deprivation Remedy For Patent 
+Owners 
+
+
+a. The Need For A Remedy For Patent 
+Infringements By State Entities 
+
+
+This Court has explained that, for a congressional 
+enactment to be “appropriate” legislation to enforce the 
+Fourteenth Amendment, “there must be a congruence 
+between the means used and the ends to be achieved.” 
+City of Boerne, 521 U.S. at 530. As a threshold matter, 
+it is clear that ensuring adequate protection against 
+unconstitutional deprivations of the property interests 
+secured by a federal patent is a legitimate end for 
+congressional action. The Due Process Clause of the 
+Fourteenth Amendment protects individuals against 
+arbitrary deprivations of their property by the States. 
+See Goss v. Lopez, 419 U.S. 565, 572-576 (1975); see also 
+Hudson v. Palmer, 468 U.S. 517, 539 (1984) (O’Connor, 
+J., concurring) (“The Due Process and Takings Clauses 
+of the Fifth and Fourteenth Amendments stand di- 
+rectly in opposition to state action intended to deprive 
+people of their legally protected property interests.”). 
+Because the right of exclusion conferred by a patent is a 
+classic form of property, the Fourteenth Amendment, 
+by its terms, prohibits state entities from depriving 
+patent holders of that right without due process of law. 
+In the particular case of patent infringement, Congress 
+is entitled to secure that basic Fourteenth Amendment 
+guarantee by ensuring patent owners a fully adequate 
+post-deprivation remedy for infringements committed 
+by state entities. 
+
+Congress was aware that patent-infringement dis- 
+putes between private inventors and state entities had 
+
+
+21 
+
+
+arisen in the past. “[Tyhe legislative record of the 
+Patent Remedy Act * * * discloses significant 
+instances of alleged patent infringement by states or 
+state entities."* Congress also had good reason to 
+believe that the danger of state patent infringements 
+would increase in the future.’ As the court of appeals 
+pointed out, the legislative background to the Patent 
+Remedy Act showed that state entities “now engage 
+fully in the intellectual property marketplace, even 
+often asserting their own patent rights.” The 
+
+
+* Pet. App. 21a; see also Jacobs Wind Elec. Co. v. Florida Dep't 
+of Transp., 919 F.2d 726, 727-729 (Fed. Cir. 1990); Chew v. 
+California, 893 F.2d 331, 332-233, 336 (Fed. Cir.), cert. denied, 498 
+U.S. 810 (1990); Watts v. University of Del., 622 F.2d 47, 48-53 (3d 
+Cir. 1980); Kersavage v. University of Tenn., 731 F. Supp. 1327, 
+1328-1330 (E.D. Tenn. 1989); Lemelson v. Ampex Corp., 372 F. 
+Supp. 708, 710-712 (N.D. Ill. 1974); Hercules Inc. v. Minnesota 
+State Highway Dep't, 337 F. Supp. 795, 796-798 (D. Minn. 1972); 
+Kraft Foods Co. v. Walther Dairy Prods., 118 F. Supp. 1, 2-3 (W.D. 
+Wis. 1954), aff'd, 234 F.2d 279 (7th Cir.), cert. denied, 352 U.S. 926 
+(1956); William C. Popper & Cc. v. Pennsylvania Liquor Control 
+Bd., 16 F. Supp. 762, 762-763 (E.D. Pa. 1936); Automobile Abstract 
+& Title Co. v. Haggerty, 46 F.2d 86, 86-88 (E.D. Mich. 1931); 
+Warren Bros. Co. v. Kibbe, 43 F 24 582, 583-584 (D. Or. 1925). 
+
+5 Pet. App. 22a; see H.R. Rep. No. 960, 101st Cong., 2d Sess., 
+Pt. 1, at 38 (1990); Patent Remedy Clarification Act: Hearing on 
+H.R. 3886 Before the Subcomm. on Courts, Intellectual Property, 
+and the Administration of Justice of the House Comm. on the 
+Judiciary, 101st Cong., 2d Sess. 36 (1990) (House Hearing) (state- 
+ment of Robert P. Merges, Associate Professor of Law, Boston 
+University School of Law) (“the cases where sovereign immunity 
+could be a defense are very likely to grow in number”). 
+
+® Pet. App. 25a; see also Genentech, Inc. v. Regents of the Univ. 
+of Cal., 143 F.3d 1446, 1454 n.6 (Fed. Cir. 1998) (noting press 
+report that in 1994 the University of California “received $50.2 
+million in royalties, filed 389 patent applications, and received 126 
+patents”), petition for cert. pending, No. 98-731; Eyal H. Barash, 
+
+
+22 
+
+
+legislative history of the Patent Remedy Act also re- 
+flects Congress’s recognition that, “as commercializa- 
+tion of basic research continues, particularly in the 
+biotechnology field, state universities are becoming 
+increasingly more active in the commerce of intellectual 
+property.” Pet. App. 22a; see also 137 Cong. Rec. 7330 
+(1991) (statement of Sen. DeConcini) (“As State 
+universities and State regulatory agencies enter the 
+race to commercialize scientific discoveries, the cases in 
+which the sovereign immunity defense is asserted will 
+grow in number.”); H.R. Rep. No. 960, 101st Cong., 2d 
+Sess., Pt. 1, at 38 (1990).’ 
+
+
+Comment, Experimental Uses, Patents, and Scientific Progress, 
+91 Nw. U. L. Rev. 667, 697-698 (1997) (noting increased number of 
+patent filings by universities); Rebecca S. Eisenberg, Public Re- 
+search and Private Development: Patents and Technology 
+Transfer in Government-Sponsored Research, 82 Va. L. Rev. 1663, 
+1708, 1726 (1996) (indicating that universities are obtaining an 
+increasing number of patents); Gina A. Kuhlman, Comment, 
+Alliances for the Future: Cultivating a Cooperative Environment 
+for Biotech Success, 11 Berkeley Tech. L. J. 311, 345-346 (1996) 
+(same); Tammy L. Lewis and Lisa A. Vincler, Storming the Ivory 
+Tower: The Competing Interests of the Public’s Right to Know and 
+Protecting the Integrity of University Research, 20 J.C. & U.L. 
+417, 430 n. 59 (1994) (“In total, American universities were issued 
+1,346 patents in 1991, an increase of 117% from the 619 issued in 
+1986.”). The States therefore receive considerable benefits from 
+the federal patent system, including of course the right to sue 
+infringers in federal court. ' 
+
+7 Indeed, federal patent law authorizes the issuance of patents 
+for “anything under the sun that is made by man.” Diamond v. 
+Diehr, 450 U.S. 175, 182 (1981) (internal quotation marks omitted); 
+Diamond v. Chakrabarty, 447 U.S. 303, 309 (1980). As technology 
+has expanded, patents have been issued in increasingly varied con- 
+texts, encompassing such matters as biotechnology processes in 
+which both state and private entities are increasingly involved, see 
+
+
+Thus, Congress foresaw a near future in which state 
+entities, seeking advantage from the developing lucra- 
+tive market in technology and intellectual property, 
+might be increasingly tempted to infringe private 
+inventors’ patents, and it perceived a need to protect 
+patent owners from such infringement by ensuring 
+them an adequate remedy. Even if (as petitioner con- 
+tends, Pet. Br. 20-21) Congress did not have evidence of 
+egregious and constant patent infringement by state 
+entities in the past, Congress is nonetheless entitled to 
+conclude that legislation is warranted for the future to 
+protect the federal property rights conferred under the 
+patent laws. See S. Rep. No. 280, 102d Cong., 2d Sess. 8 
+(1992) (J.A. 20a). Congress was not required to wait 
+until the evidence showed that patent infringement by 
+state entities had already reached emergency levels. 
+
+Nor was it necessary for Congress to compile a 
+record similar to that required of an administrative 
+agency in order to validate its determination that a 
+remedy for patent infringement by state entities is 
+needed. See FCC v. Beach Communications, Inc., 508 
+U.S. 307, 315 (1993). As long as the Court can “per- 
+ceive[] a factual basis on which Congress could have 
+concluded” that there had been unconstitutional depri- 
+vations of property interests in patents in the past, or 
+that there were likely to be such violations in the 
+future, requiring a remedy, then the Patent Remedy 
+Act is valid Section 5 legislation, so long as Congress 
+did not exceed its discretion in selecting a remedy to 
+redress the harm. See City of Boerne, 521 U.S. at 528 
+(discussing Morgan, supra). In this case, the evidence 
+of past and potential patent infringement by state 
+
+
+Genentech, supra (dispute over state university’s patent relating 
+to production of human growth hormone). 
+
+
+24 
+
+
+entities requiring a remedy is surely not so ethereal as 
+to permit rejection of Congress’s ultimate 
+determination that such infringement presents a 
+significant problem. Cf. Board of Educ. v. Mergens, 496 
+U.S. 226, 251 (1990) (“we do not lightly second-guess 
+such legislative judgments, particularly where the 
+judgments are based in part on empirical 
+determinations”); Turner Broad. Sys., Inc. v. FCC, 520 
+U.S. 180, 195-196 (1997) (emphasizing superiority of 
+legislative bodies in making predictive judgments). 
+
+b. The Questionable Adequacy Of Other 
+
+Remedies 
+
+
+The Patent Remedy Acc secures the protections of 
+the Due Process Clause by ensuring that, if a State 
+deprives a patent owner of his property interests 
+secured by a patent, adequate post-deprivation reme- 
+dies will be available to vindicate those interests." 
+Petitioner contends (Pet. Br. 26-30), however, that the 
+Patent Remedy Act was unnecessary because the 
+States have provided adequate remedies for patent 
+infringements in their own courts. In particular, it 
+contends that, pursuant to the Just Compensation 
+Clause of the Fifth Amendment (as applied to the 
+States through the Fourteenth Amendment, see Key- 
+stone Bituminous Coal Ass’n v. DeBenedictis, 480 U.S. 
+470, 481 n.10 (1987)), the States are subject to suit in 
+their own courts for compensation for a taking of a 
+property interest secured by a federal patent. It also 
+argues that many States are also subject to suit in state 
+
+
+® See S. Rep. No. 280, supra, at 8 (J.A. 20a); see also H.R. Rep. 
+No. 960, supra, at 40 & n.172; see also House Hearing at 113 
+(Letter to Hon. Robert W. Kastenmeier from Glenn Harlan 
+Reynolds, Associate Professor of Law, University of Tennessee, 
+Knoxville). 
+
+
+25 
+
+
+courts under state-law tort theories such as conversion. 
+For several reasons, however, Congress properly 
+
+
+declined to remit patent holders to such possible 
+remedies. 
+
+
+(i) The Inappropriateness Of Requiring Resort To 
+Remedies For “Takings” 
+
+
+Although States are constitutionally compelled to 
+furnish compensation when they take property for 
+public use,” it remains uncertain how the Just Compen- 
+sation Clause might apply to claims that the infringe- 
+ment of a patent by a State constitutes a taking. In the 
+first place, it is highly doubtful that it is appropriate to 
+view a state entity’s infringement of a patent through 
+the lens of “taking” law at all. Because a patent is an 
+exclusive franchise granted to the patentee by the 
+federal government, the Supremacy Clause, U.S. Const. 
+Art. VI, Cl. 2, prevents a State from exercising its 
+power of eminent domain over a patent. Cf. Gibbons v. 
+Ogden, 22 U.S. (9 Wheat.) 1, 209-214 (1824) (States can- 
+not impair federal license to engage in coasting trade).” 
+
+
+® A State’s obligation to provide compensation when it takes 
+property for public use is dictated by the Constitution itself; 
+
+
+accordingly, a separate waiver of state sovereign immunity is not 
+
+
+required for a court to award compensation against a State on a 
+taking claim. See First English Evangelical Lutheran Church v. 
+
+
+County of Los Angeles, 482 U.S. 304, 316 n.9 (1987). 
+
+© Similar concerns are not raised by the federal government's 
+use of an invention for which a patent has been issued. Obviously, 
+the Supremacy Clause does not speak to such a situation, since the 
+patent is issued by the same sovereign. Moreover, as we explain 
+more fully below, Congress has not granted patent owners a 
+property right to exclude the federal government from use of their 
+patents. Rather, it has accorded them a statutory right of com- 
+pensation for such use by the federal government. See pp. 46-47, 
+infra. 
+
+
+26 
+
+
+Since a State is not authorized to “take” a patent for 
+public use at all, there is considerable doubt whether 
+the courts should apply the concept of a taking to claims 
+of patent infringement by a State. Rather, claims of 
+patent infringement find a more natural home in the 
+Due Process Clause’s protection against arbitrary 
+“depriviation]” of property. And as the Court has 
+recognized, the government can deprive one of pro- 
+perty without due process even when it cannot be said 
+to engage in a “taking.” See Eastern Enters. v. Apfel, 
+118 S. Ct. 2131, 2154-2160 (1998) (Kennedy, J., con- 
+curring in the judgment and dissenting in part) (distin- 
+guishing between takings of property and deprivations 
+of property); id. at 2161-2163 (Breyer, J., dissenting) 
+(similar). 
+
+Moreover, even if taking law were at all applicable, 
+Congress had substantial reason to doubt whether that 
+jurisprudence might provide adequate assurance to 
+patent owners against infringement by state entities. 
+The Court’s modern taking analysis has recognized two 
+general kinds of takings that require compensation by 
+the State: per se takings and regulatory takings. See 
+Yee v. City of Escondido, 503 U.S. 519, 526-532, 533-538 
+(1992). This Court has not held, however, that the 
+impairment of a property interest in a patent through 
+the unauthorized use of the invention amounts to a per 
+se taking. To the contrary, this Court has generally 
+found a per se taking only when the governmental 
+action extinguishes the right to occupy or to pro- 
+ductively use real property. See id. at 530-531."" Con- 
+
+
+1! This Court long ago indicated in dictum that the federal 
+government’s infringement of a patent constitutes a taking of pro- 
+perty. See United States v. Palmer, 128 U.S. 262, 270-271 (1888); 
+Hollister v. Benedict & Burnham Mfg. Co., 113 U.S. 59, 67-68 
+
+
+27 
+
+
+gress could therefore have concluded that it is not clear 
+whether state action such as infringement of a patent 
+by the State, which arguably diminishes the economic 
+value of a patent but does not extinguish that value 
+entirely (because the patent owner retains the right to 
+exclude private parties from use of the invention), 
+amounts to a per se taking. Compare Loretto v. Tele- 
+prompter Manhattan CATV Corp., 458 U.S. 419 (1982), 
+with United States v. Sperry Corp., 493 U.S. 52, 62 n.9 
+(1989), and Keystone Bituminous Coal Ass’n, 480 U.S. 
+at 488-489 n.18. 
+
+The Court recently evaluated a taking claim in- 
+volving intellectual property under the analysis that 
+governs regulatory takings. See Ruckelshaus v. 
+Monsanto Co., 467 U.S. 986, 1004-1014 (1984) (govern- 
+ment disclosure of trade secrets). Many alleged patent 
+infringements by state entities, however, may occur 
+without a similar nexus to the conduct of governmental 
+regulatory activities that existed in that case. 
+Regulatory-taking analysis, moreover, is not governed 
+by “any set formula,” but is dependent “on ad hoc, fac- 
+tual inquiries into the circumstances of each particular 
+
+
+(1885); James v. Campbell, 104 U.S. 356 (1881); see also Thomas F. 
+Cotter, Do Federal Uses of Intellectual Property Implicate the 
+Fifth Amendment?, 50 Fla. L. Rev. 529, 541-544 (1998). Those 
+opinions were issued long before the development of the Court’s 
+modern regulatory-taking jurisprudence, however, and as we 
+explain in the text, the Court has more recently indicated that the 
+ad hoc approach applicable to regulatory takings should be applied 
+to taking claims involving intellectual property. See Ruckelshaus 
+v. Monsanto Co., 467 U.S. 986, 1004-1014 (1984). Moreover, after 
+the Court decided Palmer, Hollister, and Campbell, Congress 
+made clear that the federal government is not subject to the re- 
+strictions of the patent code that apply to States and private 
+parties. See 28 U.S.C. 1498; De Graffenried v. United States, 29 
+Fed. Cl. 384, 387- 388 (1993). 
+
+
+28 
+
+
+case.” Connolly v. Pension Benefit Guar. Corp., 475 
+U.S. 211, 224 (1986); Kaiser Aetna, 444 U.S. at 175. 
+Indeed, this Court has denied compensation under the 
+regulatory-taking analysis even when the value of the 
+property interest was dramatically diminished by the 
+challenged governmental action. See, e.g., Concrete 
+Pipe & Prods. of Cal., Inc. v. Construction Laborers 
+Pension Trust, 508 U.S. 602, 645 (1993) (“our cases have 
+long established that mere diminution in the value of 
+property, however serious, is insufficient to demon- 
+strate a taking”). Congress could reasonably conclude 
+that, to ensure adequate incentives for inventions and 
+for investment to deploy those inventions in the 
+commercial world, patent owners need a more certain 
+expectation of compensation than that afforded by 
+regulatory-taking doctrine. 
+
+Moreover, even if one assumes that a state entity’s 
+infringement of a patent could satisfactorily be ana- 
+lyzed under taking law, Congress might well have 
+found it doubtful that the remedies that state courts 
+would provide under standard taking iaw would be 
+sufficient to protect the property interest that Con- 
+gress has created in a patent. A patent provides the 
+right, not just to obtain compensation for licensed use, 
+but to exclude others entirely from use of the invention. 
+See American Securit Co. v. Shatterproof Glass Corp., 
+268 F.2d 769, 776 (3d Cir.), cert. denied, 361 U.S. 902 
+(1959); Sylvania Indus. Corp. v. Visking Corp., 132 
+F.2d 947, 958 (4th Cir.), cert. dismissed, 319 U.S. 777 
+(1943); see also Continental Paper Bag, 210 U.S. at 429- 
+430 (patent owner is entitled to injunction against use 
+by others of his invention, even if he does not use it 
+himself). Accordingly, an important remedy for a 
+patent infringement is an injunction against future 
+unauthorized use. See 35 U.S.C. 283. Typically, how- 
+
+
+29 
+
+
+ever, the remedy of an injunction is not available in 
+taking cases. See Monsanto, 467 U.S. at 1016; ef. 
+Eastern Enters., 118 S. Ct. at 2145 (plurality opinion) 
+(discussing limited circumstances in which injunction 
+might be available in taking cases). 
+
+A patent owner could sue an officer of a state entity 
+engaging in infringement in federal court for an 
+injunction against future infringement under the doc- 
+trine of Ex parte Young, 209 U.S. 123 (1908), while also 
+suing the State in state court for compensation for past 
+infringement. See also 35 U.S.C. 271(h) (providing that 
+any state officer shall be subject to the provisions of the 
+patent code). That approach would, however, create 
+serious inefficiencies by requiring the patent owner to 
+pursue two separate litigation remedies, and would also 
+present the risk of inconsistent judgments in the two 
+courts. 
+
+In addition, this Court has held that the proper 
+compensation for a temporary taking of real property 
+constitutes its rental value during the time of the 
+taking, not compensatory damages to the private enter- 
+prise caused by the taking of the property. See 
+Kimball Laundry Co. v. United States, 338 U.S. 1, 6-7 
+(1949); United States v. General Motors Corp., 323 U.S. 
+373, 379 (1945). Congress could reasonably conclude 
+that, in some circumstances, an analogous taking rem- 
+edy for intellectual property that might be applied by 
+state courts, such as a royalty, would fail adequately to 
+compensate the patent owner for his economic loss 
+caused by state infringement. That possibility might 
+provide insufficient assurance to those who would 
+finance inventions and their commercial applications, 
+
+
+30 
+
+
+and thus would dampen the patent system’s function in 
+encouraging advances in scientific knowledge.” 
+
+The Court need not resolve in this case whether an 
+infringing use of an invention by a state entity amounts 
+to either a per se or regulatory taking, or what remedy 
+would be available for such a taking. Our point is that, 
+given the uncertainty that Congress could reasonably 
+perceive about the application of taking law to patents 
+and questions about the adequacy of taking remedies in 
+this context, it was reasonable for Congress to conclude 
+that patent owners should not be remitted to pursuing 
+just-compensation remedies for takings of private 
+property. Congress has instead found it appropriate 
+to provide a certain and predictable statutory remedy 
+under standard and generally applicable patent- 
+infringement law developed by the federal courts. 
+
+
+(ii) The Inadequacy Of State-Law Tort Remedies 
+
+
+Petitioner also contends that patent owners may 
+pursue remedies against patent infringement by the 
+States through whatever tort remedies that a State 
+might make available in its own courts. The fact that 
+some States have waived their sovereign immunity 
+from suit for certain state-law torts does not ensure, 
+however, that adequate remedies will be available for 
+such patent infringement. Two States (Arkansas and 
+West Virginia) have not waived their sovereign immu- 
+
+
+2 Indeed, Congress has provided that the minimum measure of 
+damages in a patent-infringement case is a reasonable royalty. 
+35 U.S.C. 284; see also Maxwell v. J. Baker, Inc., 86 F.3d 1098, 
+1109 (Fed. Cir. 1996) (observing that royalty may not be sufficient 
+measure of damages when patent owner would not willingly li- 
+cense his invention, and that damages in excess of royalty may be 
+necessary to deter infringement), cert. denied, 520 U.S. 1115 
+(1997). 
+
+
+31 
+
+
+nity at all, other States have not waived their sovereign 
+immunity from tort actions, and still other States have 
+imposed significant limitations on their waivers of 
+immunity from tort actions, including limitations that 
+would likely prevent the successful prosecution of 
+patent-infringement suits. See Amici Curiae States of 
+Ohio, et al., Br. App. A-4 to A-14; see also Conrod v. 
+Missouri State Highway Patrol, 810 S.W.2d 614, 617- 
+618 (Mo. Ct. App. 1991) (holding that sovereign im- 
+munity bars state-law conversion claim against state 
+entity); Townsend v. State, 871 P.2d 958, 959-960 (N.M. 
+1994) (same). Even as to States (including Florida) that 
+have waived their immunity from suit for conversion 
+and other similar tort actions, it is by no means clear 
+that state courts would construe their tort law to 
+encompass claims for patent infringement.” 
+
+Nor was Congress compelled to take a State-by-State 
+approach, under which the permissibility of a remedy in 
+
+
+8 For example, Jacobs Wind Electric Co. v. Department of 
+Transportation, 626 So.2d 1333 (Fla. 1993), on which petitioner 
+relies (Pet. Br. 27-28), does not confirm the existence of a reliable 
+remedy for deprivations of property resulting from patent in- 
+fringement by the State of Florida. In Jacobs Wind, the Supreme 
+Court of Florida held only that the state courts had subject-matter 
+jurisdiction to consider state-law claims relating to patent infringe- 
+ment, and that state-law taking and conversion claims were not 
+preempted by the federal patent laws. See 626 So. 2d at 1335-1337 
+& n.7. The court did not determine whether or to what extent a 
+claim of patent infringement would state a claim under state law, 
+or what relief would be available in such a case. Thus, the court 
+observed that patents are a form of property and that the constitu- 
+tions of both Florida and the United States prohibit the State from 
+“taking” property without just compensation, id. at 1337, but it did 
+not hold that the State’s infringement of a patent does in fact 
+constitute a “taking” within the meaning of the state or federal 
+
+
+32 
+
+
+federal court would depend on the adequacy of any 
+particular State’s post-deprivation remedy in its own 
+courts. Such an approach could lead to protracted and 
+unseemly litigation, in which the federal courts would 
+be called upon to evaluate the adequacy and good faith 
+of whatever post-deprivation remedy a State had made 
+available in its own courts. And should the federal 
+court’s evaluation of the state-court remedies turn out 
+to be inaccurate, such an approach could lead to patent- 
+infringement claims being shuttled back and forth 
+between court systems. Rather, Congress is entitled to 
+conclude that a nationally uniform remedy in the fed- 
+eral system is needed for patent-infringement cases 
+against state entities. Cf. Oregon v. Mitchell, 400 U.S. 
+112, 133-134 (1970) (opinion of Black, J.) (upholding 
+nationwide extension of literacy test ban because 
+Congress reasonably concluded that a national solution 
+was necessary); id. at 216 (Harlan, J., concurring in part 
+and dissenting in part) (“Whether to engage in a more 
+particularized inquiry * * * was a choice for Congress 
+to make.”). 
+
+
+(iii) The Need For A Post-Deprivation, Rather Than 
+Pre-Deprivation, Procedure 
+
+
+Congress could also have perceived that a post- 
+deprivation remedy of damages is necessary because it 
+would be impracticable in this context for States to 
+provide a pre-deprivation opportunity for a patent 
+owner to challenge the anticipated action of the state 
+entity that might constitute an infringement of the 
+patent. Cf. Zinermon v. Burch, 494 U.S. 113, 127-130 
+(1990) (noting that, although the Due Process Clause 
+generally requires a pre-deprivation opportunity to 
+challenge the State’s proposed deprivation of property, 
+a post-deprivation remedy may be appropriate when 
+
+
+33 
+
+
+pre-deprivation process is impractical); Hudson v. 
+Palmer, 468 U.S. at 533 (similar). It is unrealistic to 
+expect that state entities will provide notice to patent 
+owners before infringing their patents through 
+unauthorized use. By hypothesis, the infringing state 
+entity stands in competition with the patent owner and 
+therefore has no incentive to notify the owner of a 
+contemplated infringing use. See ibid. (noting that “one 
+bent on intentionally depriving a person of his property 
+might well take affirmative steps to avoid signalling his 
+intent”). A post-deprivation remedy, therefore, is 
+essential to secure patent owners’ property rights 
+against deprivation by state entities. 
+ce. The Compelling And Historical Federal Interests 
+In Uniformity And Private Enforcement Of 
+Patent-Infringement Cases 
+In determining that it is “appropriate” to subject 
+state entities to suit in federal court for patent 
+iniringement, it was also reasonable for Congress to 
+take into account the particularly compelling federal 
+interest in the development of a uniform and consistent 
+patent law. In the first place, patents are unusual in 
+the law because, in the absence of exclusive jurisdiction 
+in one court system to consider claims involving such 
+intellectual property, there would be a significant 
+potential for inconsistent adjudication of the patent 
+owner’s right to exclude others. Assume, for example, 
+that a patent owner contends that his patent has been 
+infringed by both a state entity and a private 
+enterprise. If the owner were required to pursue 
+remedies against the two alleged infringers in two 
+different court systems, those courts might render 
+inconsistent decisions as to whether the patent was 
+valid, or whether similar activity constituted infringe- 
+
+
+34 
+
+
+ment. Congress could reasonably have deemed it 
+appropriate to minimize the uncertainties that would 
+result for both patent holders and potential infringers 
+by requiring adjudication of patent-infringement claims 
+in a single court system. 
+
+It is also well understood that patent cases are 
+“unusually complex, technically difficult, and time- 
+consuming.” H.R. Rep. No. 312, 97th Cong., Ist Sess. 
+22 (1981). In recognition of the difficulties of developing 
+patent law, Judge Friendly observed more than 25 
+years ago that there are “a great number of patents in 
+the higher reaches of electronics, chemistry, biochemis- 
+try, pharmacology, optics, harmonics and nuclear phys- 
+ics,” and that such patents “are quite beyond the ability 
+of the usual judge to understand without the expendi- 
+ture of an inordinate amount of educational effort by 
+counsel and of attempted self-education by the judge, 
+and in many instances, even with it.” Henry J. 
+Friendly, Federal Jurisdiction: A General View 157 
+(1973). Those observations are no doubt yet more true 
+today, after transformative developments in areas such 
+as computer technology and biotechnology. 
+
+Because of the difficulties of developing uniform and 
+consistent patent law, Congress has historically insisted 
+that patent-infringement cases should be decided only 
+in the federal courts. This Court has explained that, 
+“[sjince the Patent Act of 1800, Congress has lodged 
+exclusive jurisdiction of actions ‘arising under’ the 
+patent laws in the federal courts, thus allowing for the 
+development of a uniform body of law in resolving the 
+constant tension between private right and public 
+access.” Bonito Boats, Inc. v. Thunder Craft Boats, 
+Inc., 489 U.S. 141, 162 (1989). That channeling of all 
+patent cases into the federal courts reflects no dis- 
+paragement of the general abilities of state courts; 
+
+
+35 
+
+
+rather, it reflects Congress’s realistic recognition that 
+patent law requires an unusual degree of uniformity 
+and consistency. That interest in uniformity and 
+consistency is rooted in the Patent Clause itself, for 
+“{o}jne of the fundamental purposes behind the Patent 
+and Copyright Clauses of the Constitution was to 
+promote national uniformity in the realm of intellectual 
+property.” Jd. at 162 (citing The Federalist No. 43, at 
+309 (J. Madison) (B. Wright ed., 1961)). 
+
+Congress has acted further to promote uniformity 
+and consistency in this complex area by vesting the 
+United States Court of Appeals for the Federal Circuit 
+with exclusive jurisdiction over all appeals in cases 
+arising under the patent laws. This further channeling 
+of all patent cases into a single court of appeals reflects 
+Congress’s determination that a court in a position to 
+apply uniform standards is needed for all patent cases, 
+and its dissatisfaction with the disuniform results under 
+the previous system, in which patent cases were 
+appealed from the district courts to the regional courts 
+of appeals. See S. Rep. No. 275, 97th Cong., Ist Sess. 6 
+(1982); H.R. Rep. No. 312, supra, at 20-23; see also 
+Christianson v. Colt Indus. Operating Corp., 486 U.S. 
+800, 813 (1988). Indeed, the fact that Congress in 1982 
+concluded that all patent appeals must be heard by the 
+Federal Circuit, even after the regional courts of 
+appeals had had decades of experience with patent 
+cases, suggests that the need for uniformity and con- 
+sistency in patent decisions has increased over time. 
+See S. Rep. No. 275, supra, at 5 (observing that “the 
+patent bar indicated that uncertainty created by the 
+lack of national law precedent was a significant pro- 
+blem,” the Hruska Commission on Revision of the 
+Federal Court Appellate System had identified “patent 
+law as an area in which widespread forum-shopping is 
+
+
+36 
+
+
+particularly acute,” and other witnesses had “confirmed 
+the findings of the Hruska Commission that patent 
+cases are inconsistently adjudicated”). 
+
+The federal interest in accurate and uniform resolu- 
+tion of patent law could be seriously undermined if 
+patent-infringement cases against state entities were 
+required to be heard in state courts. The substantial 
+benefits of the jurisprudential consistency developed by 
+the federal courts, including the Federal Circuit, could 
+be lost in a significant number of cases if Congress were 
+required to leave the enforcement of patent rights 
+against state entities to state courts. Although state 
+courts might choose to follow patent-law decisions of 
+the Federal Circuit, there would no requirement that 
+they do so, and (as noted above) a patent owner might 
+be faced with conflicting decisions from the federal 
+courts and the state courts as to its rights, including the 
+validity of the patent. A state court might also con- 
+clude that a particular course of action by a state entity 
+did not constitute infringement of a patent (and thus 
+might decline to award compensation to the patent 
+owner), even though the Federal Circuit might con- 
+clude that a similar course of action by a private entity 
+did infringe the same patent. 
+
+Of course, review by this Court would remain 
+available to resolve important legal questions about the 
+patent code, but the availability of that review would 
+not necessarily ensure that conflicting decisions be- 
+tween state and federal courts about rights in a 
+particular patent would be fully resolved, because this 
+Court ordinarily does not grant review in cases that 
+involve the application of a settled legal standard to a 
+particular set of facts. See Sup. Ct. R. 10 (“A petition 
+for a writ of certiorari is rarely granted when the 
+asserted error consists of erroneous factual findings or 
+
+
+37 
+
+
+the misapplication of a properly stated rule of law.”). 
+Given the risk of error inherent in resolving the 
+complex issues arising out of patent infringement, it is 
+reasonable for Congress to ensure that patent owners 
+who fall victim to infringement by state entities (as well 
+as private entities) are able to protect their property 
+interests by obtaining uniform and comprehensive 
+relief in the federal courts. See S. Rep. No. 275, supra, 
+at 6 (concluding that vesting the Federal Circuit with 
+exclusive jurisdiction over patent cases was warranted 
+because “it is important to those who must make the 
+necessary investment decisions that we decrease 
+unnecessary uncertainties in the patent system”). 
+
+In theory, if the federal courts were not open to 
+claims of patent infringement brought by private 
+patent owners against state entities, the federal gov- 
+
+
+4 The determination by Congress that all patent-infringement 
+cases, including cases against state entities, should proceed in 
+federal court also gives appropriate weight to the constitutional 
+principle that the kind of process that is “due” in a particular 
+situation turns in part on “the risk of an erroneous deprivation of” 
+the property interest at issue. Mathews v. Eldridge, 424 U.S. 319, 
+335 (1976); see also Greenholtz v. Inmates of Neb. Penal & 
+Correctional Complex, 442 U.S. 1, 13 (1979); Carey v. Piphus, 435 
+U.S. 247, 259 (1978). Congress has reasonably concluded that the 
+risk of error in patent-infringement cases (which may have serious 
+consequences for the national economy) is substantial, and is 
+significantly diminished by the development of a uniform and 
+predictable body of patent law. That is true no less of patent- 
+
+
+infringement claims brought against state entities. It is note- 
+worthy in this context that the transfer of exclusive jurisdiction 
+
+
+over patent appeals to the Federal Circuit appears to have 
+resulted in more uniform interpretations of the patent laws, as 
+Congress intended. See Rochelle Cooper Dreyfuss, The Federal 
+Circuit: A Case Study in Specialized Courts, 64 N.Y.U. L. Rev. 1, 
+14-20, 24 (1989). 
+
+
+38 
+
+
+ernment could bring suit against infringing States in 
+federal court. See Seminole Tribe, 517 U.S. at 71 n.14. 
+Congress, however, has historically not provided statu- 
+tory authorization for suit by the United States to 
+enforce private patent rights (including a right to 
+compensation against an infringer). Moreover, an ap- 
+proach relying on the federal government’s enforce- 
+ment of patent rights would not be realistically likely to 
+provide the complete protection to private patent 
+owners against infringement by state entities that 
+Congress has found to be necessary for a proper 
+functioning of the patent system. 
+
+The patent code as it has existed since 1790 operates 
+on the assumption that a patent owner is in the best 
+position to assert his own rights against infringers. A 
+patent owner knows best the technology underlying his 
+invention and also has the greatest incentive to monitor 
+competitors to determine whether they are infringing 
+his patent. It is highly questionable whether the fed- 
+eral government could adequately fulfill the function of 
+patent enforcer, given resource constraints, the com- 
+plexity of many patented inventions, and concerns that 
+would likely be raised about the federal government’s 
+taking sides in private commercial disputes and making 
+determinations as to which patents deserved enforce- 
+ment and which did not. The federal government would 
+also become involved in settlement and licensing issues 
+traditionally left to private negotiation (including situa- 
+tions in which the government might have conflicting 
+interests). Thus, while the federal government in other 
+contexts may bring actions against state entities to 
+vindicate the public interest in adherence to federal law 
+as well as to compensate injured private parties, that 
+prosecutorial role for the federal government has 
+historically been absent from the patent code. 
+
+
+39 
+
+
+3. Congress Need Not Limit The Federal Courts’ Juris- 
+diction Over Patent-Infringement Suits Against State 
+Entities To Cases In Which Intent Is Proven 
+
+
+Petitioner observes that this Court has held that a 
+“deprivation” of property within the meaning of the 
+Due Process Clause occurs “only where the state acts 
+intentionally.” Pet. Br. 25 n.10 (citing Daniels v. 
+Williams, 474 U.S. 327, 331 (1986)). Petitioner there- 
+fore argues that Congress lacks authority under Sec- 
+tion 5 of the Fourteenth Amendment to subject States 
+to suit in federal court for patent infringement in cases 
+that do not involve intentional patent infringement by 
+the State. But as we have explained (pp. 15-16, supra), 
+the Court has made clear that Congress is entitled to 
+exercise its powers to enforce the protections of the 
+Fourteenth Amendment in a measured manner, even if 
+its enforcement legislation extends beyond the sub- 
+stantive reach of the Amendment.” Even if it is true, 
+
+
+© See City of Rome, 446 U.S. at 177-178, 181-182 (reaffirming 
+validity of the preclearance requirement of Section 5 of the Voting 
+Rights Act of 1965, 42 U.S.C. 1978c, as well as that statute’s reach 
+to bar voting changes with a retrogressive effect but no dis- 
+criminatory intent, because of the ‘risk of purposeful discrimina- 
+tion” in enactment of new voting laws by covered jurisdictions), 
+City of Boerne, 521 U.S. at 532 (explaining that “(pjreventive 
+measures prohibiting certain types of laws may be appropriate 
+when there is reason to believe that many of the laws affected by 
+the congressional enactment have a significant likelihood of being 
+unconstitutional”). Intentional infringement is not, in practice, 
+confined to conduct undertaken in bad faith; it can also proceed 
+from a good faith belief that the patent (typically issued in ex parte 
+examination process) is invalid and can be proved to be invalid in 
+defending an infringement suit. Intentional infringement thus can 
+serve a legitimate public purpose of eliminating invalid constraints 
+on competition. See Lear, Inc. v. Adkins, 395 U.S. 653, 669-674 
+(1969). 
+
+
+40 
+
+
+therefore, that only intentional patent infringement 
+would violate the Due Process Clause,"* Congress could 
+still legislate more broadly to provide “appropriate” 
+deterrence and remedies for state deprivations of 
+property interests in patents. 
+
+As petitioner observes, patent infringement does not 
+require intent to infringe. And it is not disputed that 
+Congress may, pursuant to the Patent Clause, properly 
+regulate the primary conduct of state entities (and 
+others) by fashioning a substantive rule of patent 
+infringement that does not include such an element of 
+intent. The only question in this case is when is it 
+appropriate for Congress to provide the federal courts 
+with jurisdiction to provide a remedy based on such 
+regulation. Given that Congress’s substantive regula- 
+tion in that manner is constitutionally unobjectionable, 
+it is “appropriate” for Congress to dispense with an 
+intent requirement as a condition to the exercise of 
+federal jurisdiction over patent-infringement cases. If, 
+instead, the federal courts’ authority to hear patent- 
+infringement suits against state entities were to be 
+
+
+6 In fact, although the Court has held that a negligent act 
+arising out of a lack of due care by state employees in con- 
+travention of state-law tort standards does not implicate the Due 
+Process Clause, see Daniels, 474 U.S. at 335-336, the Court has not 
+held that a state entity’s deprivation of an individual’s property, 
+undertaken pursuant to state-law authorization, may violate the 
+Due Process Clause only if the state entity acts with the purpose 
+to deprive an individual of his property. The decision in Daniels 
+was based on the need to avoid “trivializ[ing] the Due Process 
+Clause,” id. at 335, by making it “a font of tort law to be super- 
+imposed upon whatever systems may already be administered by 
+the States,” id. at 332 (internal quotation marks omitted). That 
+concern is not implicated where, as here, a state entity is sued 
+under a federal statute for infringing a property interest that is 
+rooted in federal rather than state law. 
+
+
+41 
+
+
+limited to cases in which the patent owner alleged and 
+proved intent, the likely result would be serious 
+inefficiencies in the resolution of patent-infringement 
+cases in federal court against state entities. Because 
+intent is easily alleged, patent owners would in all pro- 
+bability frequently claim intent in complaints against 
+state entities. The courts, consequently, could not 
+resolve jurisdictional questions in such cases on the 
+pleadings. And since it is often the case that questions 
+of intent cannot be resolved on summary judgment,” 
+the federal courts would likely be required in many 
+cases to hold a trial on the question of intent (which 
+would undoubtedly involve litigation over the substan- 
+tive patent issues in the case) merely as a predicate to 
+asserting jurisdiction over the case.” 
+
+In sum, a rule under which federal jurisdiction would 
+turn on proof of intent runs counter to the salutary 
+principle that “[t]he boundary between judicial power 
+and nullity should . .. , if possible, be a bright line, 
+
+
+17 See Harlow v. Fitzgerald, 457 U.S. 800, 815-817 (1982); 
+Hutchinson v. Proxmire, 443 U.S. 111, 120 n.9 (1979); see also Har- 
+din v. Pitney-Bowes, Inc., 451 U.S. 1008 (1981) (Rehnquist, J., dis- 
+senting) (“It has long been established that it is inappropriate to 
+resolve issues of credibility, motive, and intent on motions for 
+
+
+summary judgment.”). 
+
+18 In this case, CSB has alleged that petitioner knowingly and 
+willfully infringed its patent. See C.A. App. 101 (Compl. 4 7) 
+(“Defendant Florida Prepaid with actual knowledge of the ‘055 
+patent, with knowledge of its infringement, and without lawful 
+justification, has willfully infringed the ‘055 patent.”). Those al- 
+leged facts are clearly sufficient to state a “deprivation” of a 
+property interest within the meaning of the Due Process Clause, 
+under any standard. Petitioner’s rule would permit the federal dis- 
+trict court to assert jurisdiction over the complaint at the pleading 
+stage but would require the court to dismiss for lack of jurisdiction 
+if CSB failed to prove intent at trial. 
+
+
+42 
+
+
+* * * [and that] a trial judge ought to be able to tell 
+easily and fast what belongs in his court and what has 
+no business there.” Sisson v. Ruby, 497 U.S. 358, 375 
+(1990) (Scalia, J., concurring in judgment) (quoting Z. 
+Chafee, The Thomas M. Cooley Lectures: Some Prob- 
+lems Of Equity 312 (1950)). It is therefore “appropri- 
+ate” for Congress to provide a judicial remedy for 
+patent infringement by state entities that does not 
+require proof of intentional infringement—especially in 
+light of the fact that there is often no need for the court 
+and parties to address questions of intent in order to re- 
+solve the merits of infringement claims. 
+
+
+C. City of Boerne v. Flores Does Not Call Into Question 
+Congress’s Authority To Make State Entities 
+Amenable To Suit In Federal Court For Patent 
+
+
+Infringement. 
+
+
+Petitioner contends (Pet. Br. 21-23, 32-33) that City 
+of Boerne, supra, calls into question Congress’s author- 
+ity to subject States to suit for patent infringement 
+under Section 5 of the Fourteenth Amendment. The 
+concerns that animated the Court’s decision in City of 
+Boerne, however, are far afield from this case. City of 
+Boerne held that the Religious Freedom Restoration 
+Act of 1993 (RFRA), 42 U.S.C. 2000bb et seq., exceeded 
+Congress’s authority under Section 5, insofar as it was 
+made applicable to the States. RFRA was enacted “in 
+direct response to” the Court’s decision in Employment 
+Division, Department of Human Resources v. Smith, 
+494 U.S. 872 (1990), which construed the Free Exercise 
+Clause of the First Amendment to hold that “neutral, 
+generally applicable laws may be applied to religious 
+practices even when not supported by a compelling 
+governmental interest.” City of Boerne, 521 U.S. at 
+512, 514. RFRA prohibited the States from “substan- 
+
+
+43 
+
+
+tially burden[ing]” a person’s exercise of religion even if 
+the burden resulted from a rule of general applicability, 
+unless the State could show that the burden “(1) [was] 
+in furtherance of a compelling governmental interest; 
+and (2) [was] the least restrictive means of furthering 
+that compelling governmental interest.” 42 U.S.C. 
+2000bb-1. The Act applied by its terms to all States and 
+all their subdivisions, 42 U.S.C. 2000bb-2(1), and 
+covered “all * * * State law, and the implementation 
+of that law, whether statutory or otherwise, and 
+whether adopted before or after [RF RA’s enactment].” 
+42 U.S.C. 2000bb-3(a). 
+
+In City of Boerne, the Court rejected the argument 
+that RFRA was “appropriate” legislation under Section 
+5 to deter or remedy violations of the Free Exercise 
+Clause. The Court emphasized that RFRA’s “[s]weep- 
+ing coverage ensures its intrusion at every level of 
+government, displacing laws and prohibiting official 
+actions of almost every description and regardless of 
+subject matter.” 521 U.S. at 532. The Court also 
+stressed that, by requiring heightened scrutiny of state 
+action touching on religious exercise, RFRA effected “a 
+considerable congressional intrusion into the States’ 
+traditional prerogatives and general authority to 
+regulate for the health and welfare of their citizens.” 
+Id. at 534. The Court therefore ruled that “RFRA is so 
+out of proportion to a supposed remedial or preventive 
+object that it cannot be understood as responsive to, or 
+designed to prevent, unconstitutional behavior.” Jd. at 
+532. 
+
+Making state entities amenable to suit for patent 
+infringement in federal court, by contrast, is a mea- 
+sured means of enforcing the Due Process Clause. It 
+bears emphasis that the Patent Remedy Act does not 
+prevent the States from engaging in any legitimate 
+
+
+44 
+
+
+regulatory function on behalf of their citizens, or in any 
+other primary conduct constitutionally reserved to the 
+States. To the contrary, the Patent Remedy Act 
+“speaks only to a state’s unauthorized [by federal law] 
+production, use, or sale of a patented device or method.” 
+Pet. App. 24a (emphasis added); see also Chavez v. Arte 
+Publico Press, 157 F.3d 282, 297 (5th Cir. 1998) (Wis- 
+dom, J., dissenting) (making similar observation with 
+respect to state infringements of copyrights), reh’g en 
+bane granted, No. 93-2881 (Oct. 1, 1998). It is not 
+disputed that Congress may exercise its substantive 
+powers under the Patent Clause to prohibit state en- 
+tities, as well as others, from infringing a federal 
+patent. State entities therefore have no legitimate 
+interest in engaging in such unlawful conduct, and so it 
+is entirely “appropriate,” within the meaning of Section 
+5, for Congress to provide a remedy for such patent 
+infringement by a state entity.” 
+
+Petitioner objects particularly to the provisions of 
+the patent laws that permit the award of treble dam- 
+ages and attorney’s fees against those adjudicated to 
+have infringed a patent.” Such increased damages 
+
+
+'? Indeed, state entities themselves are substantial participants 
+in the patent system and are allowed to reap the resulting 
+commercial benefits. See, e.g., Genentech, 143 F.3d at 1454. The 
+Patent and Trademark Office has informed us that at least 572 
+patents have been issued to Florida’s public universities alone, and 
+that all 50 States own or have obtained patents. The States 
+accordingly have a strong interest in ensuring the effectiveness of 
+the patent system, and that interest is furthered by enforcing the 
+remedial provisions of the patent laws against both state and 
+private infringers. 
+
+* Congress has authorized the permissive award of treble dam- 
+ages in patent cases since at least 1836. See Act of July 4, 1836, ch. 
+357, § 14, 5 Stat. 123. 
+
+
+45 
+
+
+awards, however, are unusual even in the context of 
+patent suits against private entities. Damages may be 
+increased only in cases of willful infringement (a 
+category of cases within the core of Congress’s Section 
+5 enforcement authority), and the district courts have 
+discretion to deny such relief even in those cases. See 
+35 U.S.C. 284; SRI Int’l, Inc. v. Advanced Tech. Labs., 
+Inc., 127 F.3d 1462, 1464-1465 (Fed. Cir. 1997).” “The 
+standard for receiving treble damages in a patent suit is 
+very difficult to attain,” and such awards are made only 
+in “the most flagrant cases.” S. Rep. No. 280, supra, at 
+10 (J.A. 24a, 25a). Courts could, moreover, take into 
+account the sovereign interests of the State (as well as 
+any public function performed by the state activity 
+found to have constituted an infringement) in deciding 
+whether to provide such extraordinary relief against an 
+infringing state entity. 
+
+Courts also do not routinely award attorney’s fees 
+against infringers. The patent code authorizes the 
+award only of “reasonable” attorney’s fees and even 
+
+
+21 “Willful” infringement, such as might warrant a discretionary 
+award of increased damages, is not the same thing as intentional 
+infringement. Among other things, if a court determines that a 
+party held to have infringed a patent acted out of a good-faith 
+belief that the patent was invalid, it may properly decline to award 
+increased damages against the infringer, even if the infringement 
+was intentional. See Oscar Mayer Foods Corp. v. ConAgra, Inc., 
+869 F. Supp. 656, 667 (W.D. Wis.) (declining to award increased 
+
+because defendant had “a good faith belief in the 
+invalidity defense”), aff'd, 45 F.3d 443 (Fed. Cir. 1994), cert. 
+denied, 516 U.S. 812 (1995); see generally Bott v. Four Star Corp., 
+807 F.2d 1567, 1572 (Fed. Cir. 1986) (setting forth “totality of the 
+circumstances” test for willful infringement, which considers, 
+among other things, whether infringer formed a good-faith belief of 
+invalidity), overruled on other grounds, A.C. Aukerman Co. Vv. 
+R.L. Chaides Constr. Co., 960 F.2d 1020 (Fed. Cir. 1992). 
+
+
+46 
+
+
+then only in “exceptional cases.” 35 U.S.C. 285. The 
+prevailing party must demonstrate by clear and 
+convincing evidence that the case is exceptional, and 
+even if such a showing can be made, the district court 
+retains discretion to deny a request for attorney’s fees. 
+See, e.g., B. Braun Med., Inc. v. Abbott Labs., 124 F.3d 
+1419, 1429 (Fed. Cir. 1997). The mere fact that 
+increased damages and attorney’s fees are authorized in 
+exceptional and egregious cases provides no basis for 
+concluding that the standard remedies of compensatory 
+damages and declaratory and injunctive relief are 
+disproportionate remedies for a state entity’s infringe- 
+ment of a patent.” 
+
+Petitioner’s reliance (Pet. Br. 37) on the unique 
+remedy made available against the United States for its 
+use of a patented invention is also unpersuasive. The 
+property right encompassed by a patent includes the 
+right to exclude private parties and state entities from 
+use of the invention. The patent does not, however, 
+confer on patent owners a similar right to obtain an 
+injunction against the United States from such use. 
+Rather, a patent owner has a statutory right of com- 
+pensation from the United States for the federal gov- 
+ernment’s use of an invention. 28 U.S.C. 1498; see W.L. 
+Gore & Assocs. v. Garlock, Inc., 842 F.2d 1275, 1283 
+(Fed. Cir. 1988). Brunswick Corp. v. United States, 36 
+
+
+2 This Court need not in any event resolve at this juncture 
+whether the potential availability of attorney’s fees or treble dam- 
+ages against state entities creates a particular Eleventh Amend- 
+ment problem. CSB’s patent-infringement claim has not yet been 
+tried, and the district court therefore has had no occasion to deter- 
+mine whether damages should be trebled or whether an award of 
+attorney’s fees is warranted (or even whether an infringement has 
+occurred). Thus, it is far from certain that such an award would 
+ever be entered in this case. 
+
+
+47 
+
+
+Fed. Cl. 204, 207 (1996), aff'd, 152 F.3d 946 (Fed. Cir. 
+1998) (Table); De Graffenried v. United States, 29 Fed. 
+Cl. 384, 387-388 (1993). Accordingly, because a patent 
+does not confer on the patent owner a property right to 
+exclude the United States from use, the use of a 
+patented invention by the United States also does not 
+deprive the patent owner of any property right pro- 
+
+
+tected by the Due Process Clause. 
+Il. PETITIONER HAS WAIVED ITS ELEVENTH 
+AMENDMENT IMMUNITY 
+
+
+The judgment of the co:rt of appeals also may be 
+affirmed on the alternate ground that petitioner has 
+waived its Eleventh Amendment immunity by vol- 
+untarily engaging in the marketing of the investment 
+products that are at issue in this case, at a time when 
+Congress has made unmistakably clear that commercial 
+activity by a state entity that infringes another’s patent 
+may cause that state entity to be subject to suit in 
+federal court. As we explain in detail in our brief in 
+College Savings Bank v. Florida Prepaid Post- 
+secondary Education Expense Board, No. 98-149, a 
+State voluntarily waives its Eleventh Amendment 
+immunity by engaging in commercial activity if (1) 
+Congress has unequivocally stated that a State that 
+engages in such activity may be subject to suit in 
+federai court for private claims of violation of federal 
+law arising out of that activity, and (2) the activity is of 
+a sort that the State can realistically choose to 
+abandon.” The line of cases supporting this rule rests 
+
+
+% Although the court of appeals did not address this waiver 
+point, the issue was raised in the courts below and can serve as an 
+alternate basis on which to affirm the judgment below. See, ¢.g., 
+Bennett v. Spear, 520 U.S. 154, 166 (1997). 
+
+
+4d 
+
+
+on the principle that a state entity may engage in a 
+business more traditionally carried on by private 
+enterprise, but when it does so, it may be burdened 
+with the same regulations, remedies, and restrictions 
+imposed on private market participants. See 98-149 
+U.S. Br. 29-30; see generally Parden v. Terminal Ry. of 
+the Ala. State Docks Dep't, 377 U.S. 184, 192, 196 (1964); 
+ef. United States v. California, 507 U.S. 746, 757-758 
+(1993) (noting that even the federal government’s 
+rights and remedies may be different when it acts not 
+“in its sovereign capacity” but as contractor similar to 
+private enterprises). 
+
+Both conditions discussed above are satisfied in this 
+case. First, there is no doubt that, in the Patent 
+Remedy Act, Congress expressly made States amen- 
+able to suit for patent infringement. Thus, petitioner 
+was on notice, after enactment of the Patent Remedy 
+Act, that future commercial activity infringing CSB’s 
+patent could render it subject to suit by CSB in federal 
+court. Second, although state governments have his- 
+torically assumed responsibility for the actual operation 
+of schools, the marketing of investment products of the 
+sort at issue here is neither a traditional nor a neces- 
+sary means of facilitating the State’s educational 
+mission. See 98-149 U.S. Br. 26-27. Accordingly, by 
+engaging in that marketing of investment products 
+subject to the already existing congressional condition 
+that patent infringement may be remedied by an award 
+
+
+of damages in the federal courts, petitioner has waived 
+its Eleventh Amendment immunity. 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be 
+
+
+Respectfully submitted. 
+
+
+MARCH 1999 
+
+

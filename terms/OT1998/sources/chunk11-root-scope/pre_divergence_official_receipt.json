@@ -1,0 +1,30 @@
+[
+  {
+    "case": "union_gas_491_us_1",
+    "requested_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep491/usrep491001/usrep491001.pdf",
+    "resolved_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep491/usrep491001/usrep491001.pdf",
+    "bytes": 1716319,
+    "sha256": "cec03c1a5cdaa0989b4163584b706f103a6a59563566762d1c60d7f3a98b9f31",
+    "pdf": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/union_gas_491_us_1_official.pdf",
+    "text": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/union_gas_491_us_1_official.txt",
+    "text_bytes": 129845,
+    "page_metadata": [
+      "Pages:           57",
+      "Page size:       431.04 x 648.96 pts"
+    ]
+  },
+  {
+    "case": "welch_483_us_468",
+    "requested_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep483/usrep483468/usrep483468.pdf",
+    "resolved_url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep483/usrep483468/usrep483468.pdf",
+    "bytes": 1665664,
+    "sha256": "237159199951bea71cc92be68d73e820c085fd2239027a6533503e73bd648834",
+    "pdf": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/welch_483_us_468_official.pdf",
+    "text": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/welch_483_us_468_official.txt",
+    "text_bytes": 126833,
+    "page_metadata": [
+      "Pages:           54",
+      "Page size:       431.04 x 648.96 pts"
+    ]
+  }
+]

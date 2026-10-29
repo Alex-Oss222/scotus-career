@@ -1,0 +1,1319 @@
+1) Supreme Court, U.S. 
+: FiIteED 
+IN THE CLERK 
+
+
+" 
+
+
+Supreme Court of the United States 
+
+
+OCTOBER TERM, 1998 
+
+
+CAROLE KOLSTAD, 
+Petitioner, 
+Vv. 
+
+
+AMERICAN DENTAL ASSOCIATION, 
+Respondent. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the District of Columbia Circuit 
+
+
+REPLY BRIEF FOR PETITIONER 
+
+
+JOSEPH A. YABLONSKI 
+
+Counsel of Record 
+YABLONSKI, BOTH & EDELMAN 
+1140 Connecticut Avenue, N.W. 
+Suite 800 
+Washington, D.C. 20036 
+(202) 833-9060 
+
+
+ERIC SCHNAPPER 
+UNIVERSITY OF WASHINGTON 
+SCHOOL OF LAW 
+
+1100 N.E. Campus Parkway 
+Seattle, WA 98105 
+
+(206) 616-3167 
+
+
+Counsel for Petitioner 
+
+
+PRESS OF BYRON S. ADAMS ¢ WASHINGTON, D.C. # 1-800-347-8208 
+
+
+aN1¢8 
+
+
+TABLE OF AUTHORITIES 
+
+
+I. 
+
+
+Il. 
+
+
+TABLE OF CONTENTS 
+
+
+THE RECKLESS INDIFFERENCE PROVISION OF 
+SECTION 1981A(B\1) SHOULD BE 
+INTERPRETED LITERALLY TO REFER TO THE 
+MENTAL STATE OF THE DISCRIMINATORY 
+a sr ak ong oo 
+
+
+(1) Respondent Has Failed to Articulate a Clear 
+Alternative Standard .......cccccccccsccses 
+
+
+(2) The Structure of Section 198la Does Not Require 
+An “Egregious Conduct” Limitation on Punitive 
+EE eas hehe odes Cha eK Kee ©<'s 
+
+
+(3) A General Rule Denying Punitive Damages in 
+“Garden Variety” Cases Would Be Inconsistent 
+With The Express Purpose of the 199] Civil 
+PE ois Fanink ehkerid C4 Odd 4 bos 2 cheeks 
+
+
+(4) One of the Central Purposes of the 1991 Civil 
+Rights Act Was To Give Litigants A Statutory 
+Right to Trial By Jury When Either Compensatory 
+or Punitive Damages Are Sought ............. 
+
+
+THERE IS NO INDEPENDENT ALTERNATIVE 
+BASIS FOR DISMISSING PETITIONER'S CLAIM 
+FOR PUNITIVE DAMAGES UNDER THE 
+MALICE PROVISION OF SECTION 1981A(B)(1) . 
+
+
+SEE pb ickeencae tera Cibxkn suede pad bene 
+
+
+17 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES: 
+Albemarle Paper Co. v. Moody, 422 U.S. 405 (1975) ..... 9 
+Barna v. City of Cleveland, 1998 WL 939884 (6th Cir. 
+
+
+19GB) . . . 0c esin see -6 neces vipa ween 18 
+BMW of North America, Inc. v. Gore, 517 U.S. 559 
+(1996) .. .0ss000000 sean 0a seen ene 4 
+
+
+Excel Corp. v. Bosley, 1999 WL 16392 (8th Cir. 1999) .. 18 
+Griffin v. Washington Convention Ctr., 142 F.3d 1308 
+
+
+(D.C.Cir. 1998) 0... 2. ccccccccccnvccsccssenss 19 
+Hazen Paper Co. v. Biggins, 507 U.S. 604 (1993) .....-. 7 
+Howard v. Burns Bros., Inc., 149 F.3d 835 (8th Cir. 
+
+1998) 2.0... ocunccccensuenbe rene nanan aaneneE 18 
+
+
+Landgraf v. USI Film Products, 511 U.S. 244 (1994) .. 9,11 
+Long v. Eastfield College, 88 F.3d 300 (Sth Cir. 1996) . . . 19 
+
+
+Lytle v. Household Mfg., Inc., 494 U.S. 545 (1990) ...... 6 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+(1973) ...ccccvcevnves cueyehnenn nas ee anees 6 
+
+
+McLaughlin v. Richland Shoe Co., 486 U.S. 128 (1988)... 7 
+
+
+McMillan v. Massachusetts Society for the Prevention of 
+Cruelty to Animals, 140 F.3d 288 (1st Cir. 1988), cert. 
+
+
+denied, 119 S. Ct. 870 (1999) ... 2... cece eee eees 19 
+Mockler v. Multnomah County, 140 F.3d 808 (9th Cir. 
+1996)... .ccccevecetecsseees eee en nnnn ann 18 
+
+
+Morrison v. Carleton Woolen Mills, Inc., 108 F.3d 429 
+(1st Cir, 1997) 0... . cc ccc cece eee e ee eereeeeces 18 
+
+
+Table of Authorities (continued) 
+
+
+Parkland Hosiery v. Shore, 439 U.S. 322 (1979) ....... 13 
+Patterson v. McLean Credit Union, 491 U.S. 164 (1989) . 11 
+Price Waterhouse v. Hopkins, 490 U.S. 228 (1989) .. 19. 20 
+Shager v. Upjohn Co., 913 F.2d 398 (7th Cir. 1990)... .. 19 
+
+
+Simpson v. Diversitech Gen'l, Inc., 945 F.2d 156 (6th 
+Cir.1991), cert. dismissed, 502 U.S. 1083 (1992) ... 19 
+
+
+Smith v. Wade, 461 U.S. 30 (1983) 
+
+
+Sparks v. Pilot Freight Carriers, Inc., 830 F.2d 1554 (11th 
+ee oe ee i. ake nodes. 19 
+
+
+EES SO ee ae me 19 
+Trans World Airlines, Inc. v. Thurston, 469 U.S. 111} 
+i 7 
+
+
+STATUTES AND LEGISLATIVE MATERIALS: 
+
+
+—— in Employment Act, 92 Stat. 189 
+
+
+acces 10 
+Civil Rights Act of 1991 42 U.S.C. §§ 1981 Notes, 198 1a: 
+
+
+ae a U.S.C. § 1981 Notes ................ 4 
+a j 
+eee “ 
+Congressional Accountability Act, 109 Stat. 3 (1995): 
+OS Gd Gk. d i chews cs icccecc 10 
+
+
+iv 
+
+
+Table of Authorities (continued) 
+Page(s) 
+
+136 Cong. Rec. (daily ed. July 10, 1990): 
+
+Bp. SOMO 2... ccc cece cece e cere ceeeeerenee 13 
+
+re) Lo) ee ee 12, 13, 14, 16 
+136 Cong. Rec. (daily ed. July 17, ! 990): 
+
+eS 5) core 1] 
+136 Cong. Rec. (daily ed. July 18, 1990): 
+
+SS |) | oe 13 
+
+p. S990B eee cece cece eee e eee eneeeeees 14 
+136 Cong. Rec. (daily ed. Aug. 2, 1990): 
+
+p. H6773 .. 2... cece cece eee eee eee eeeees 12 
+
+p. H677S ... cece eee eee ence eee e eee eeeees 12 
+
+eee oe 16 
+
+p. H6786 .. 2... eee eee eee eee e eee nees 14 
+
+p. H6787 ... 0... ee eee ee ene eee eee eeeees 12, 14 
+
+p. HGTED . 2... eee eee cence eee eneeeees 13 
+
+p. H6790 .. 2... eee eee eee eee teen eeees 14 
+
+p. HOT9L . 2.2... e cece e eee e eee e eee eeeeeeee 13 
+
+SS eee 16 
+
+p. H6798 . 2.2... eee eee eee erent eeenees 12 
+
+p. H6BO0 .. 1... eee eee eee eee ee eees 14, 16 
+
+p. H6BO2 .. 2... ee ee eee eee eee e eee ees 12, 14 
+
+p. H6B11 2... eee cece ener e rece ee eees 12 
+
+p. H6B12 .. 2... eee eee eee ener eee eeeeees 14 
+136 Cong. Rec. (daily ed. Oct. 11, 1990) 
+
+p. H9402 . 2... eee cece etree eee eeeeees 13 
+
+p. H9403 .. ee eee eee e eee ee eeeees 12 
+136 Cong. Rec. (daily ed. Oct. 16, 1990): 
+
+p. SIS331 2... eee ee eee nett eens 14 
+
+
+v 
+Table of Authorities (continued) 
+Page(s) 
+136 Cong. Rec. (daily ed. Oct. 17, 1990): 
+DR bstcikesn dues e wiidee tarde @04 kakunbes aees 14 
+DE Midian: « Pictidedvanneeavedeuneahanacete 13 
+LS ktKou stn inches atinsnan dawansanee 12 
+Sebi ws Kuan detained dies nbd eevaded 16 
+136 Cong. Rec. (daily ed. Oct. 24, 1990): 
+PT 460 hakens+k pauedcdnahs ab eaie tes owe 11 
+DE csc ape dttuntenstaveter sds cece 13 
+ET Vee ves ons buend db ue hws bh ab tne caeeate 14 
+DEE Chdecaubes’ 1600 sb5c0 civ lhacuudene 12 
+137 Cong. Rec. (daily ed. June 4, 1991): 
+p. H3859 ..... ShRShes Skewes ned ee vetessteueces 14 
+ENS 6 Sha ddunsewiSé bed dbbddiickesew 11, 13 
+PT oa hb tb meee ied cd radseb bien des 13 
+137 Cong. Rec. (daily ed. June 4-5, 1991) 
+CE Viventeues ssansaentusieesiede, scan. 16 
+We wena didane «ccbnndesdaeerhaubnakess 13 
+Dis +.c6b ka idee ns cabved buckbales wabcae 16 
+DT Cshenkawss cus dehecsdes tea eae seni 13 
+I Seed bot io Cn keen a ads Cr a eas 11 
+DT ch tekh deatncedehGebs knead detceetacts 12 
+137 Cong. Rec. (daily ed. June 5, 1991): 
+ES PY Ne ey Se eS ee ee 12 
+RE Oh es Vas pede snp bir dienes veeeks 13 
+DEEP 2) nbhentits dadets te dutieden ekesée 14 
+137 Cong. Rec. (daily ed. Oct. 29, 1991): 
+CEE oc. cueead du tha enaetedees ce -abebkwste 17 
+137 Cong. Rec. (daily ed. Oct. 30, 1991): 
+I Siihns cb htckdh due igin pubes aadeWiecs 12 
+i te ib eines to dnecebhecwdmahcnnunhe 16 
+
+
+vi 
+
+
+Table of Authorities (continued) 
+Page(s) 
+137 Cong. Rec. (daily ed. Nov. 7, 1991): 
+p. H9527 . 0... cece cece teen neers eeeeneees 16 
+p. HOS36 . 2... cece cece eee cee e renee eneeeees 12 
+
+
+Hearings Before The Senate Judiciary Committee on the 
+
+
+Performance of the Reagan Administration in 
+Nominating Women and Minorities to the Federal 
+
+
+Bench, 100th Cong., 2d Sess. (1988) .......---+-. 15 
+House Doc. 101-251, Civil Rights Act of 1990: 
+
+Message from the President, 101st Cong., 2d Sess. 
+
+COE | .0d0nssdhensd au sannhapeseanecancun hens 
+Presidential and Executive Office Accountability Act, 110 
+
+Stat. 4053 (1996): 
+
+
+RS SOMO... ccscecssccsevineedsss 10 
+United States Judicial Code, 28 U.S.C. §§ 1, et. seq.: 
+
+eC OE si, cnavdns vskessdaweusnes 15 
+
+ON ae peer er eae rs 15 
+MISCELLANEOUS: 
+
+
+R.L.Blatt. R.W. Hammesfahr & L.S. Nugent, Punitive 
+Damages: A State by State Guide to Law and Practice 
+
+
+CODDED . oc ccvcaundicks qouved elas ssh omen ees 3 
+Beverly Gross, “Bitch”, Salmagundi: A Quarterly of the 
+Humanities & Social Sciences, no. 103 (1994) ...... 18 
+
+
+L. Schlueter & K.Redden, Punitive Damages (3d ed. 1995) . . 3 
+
+
+’ eo ota BRIEF FOR PETITIONER 
+Section la authorizes an award of punitive damages on _ 
+either of two distinct showings, proof of reckless indifference 
+to federally protected rights or a demonstration of malice. 
+
+Because petitioner would on remand seek an award of punitive 
+
+damages on alternative grounds, we urge the Court to address 
+
+the legal standard applicable to each, and we discuss those 
+issues separately below. 
+
+We do not contend that the existing finding of intentional 
+discrimination in this case entitles petitioner as a matter of law 
+to an award of punitive damages; whether such damages should 
+be awarded remains a question for the jury, which would be 
+free to deny that remedy despite the proven discrimination. We 
+urge only that petitioner is entitled to have a jury consider her 
+claim for punitive damages under both of the two grounds set 
+out in the statute. 
+
+I. THE RECKLESS INDIFFERENCE PROVISION OF 
+SECTION 1981A(B)\(1) SHOULD BE INTERPRETED 
+LITERALLY TO REFER TO THE MENTAL STATE 
+OF THE DISCRIMINATORY OFFICIAL 
+
+(1) Respondent Has Failed to Articulate A Clear Alternative 
+Standard 
+
+The threshold problem posed by respondent's brief is the 
+
+difficulty of ascertaining what standard respondent is urging 
+
+this Court to adopt. Respondent’s brief offers at least five 
+different accounts of the relationship between its proposed 
+standard and the terms “reckless indifference” in the statute. 
+
+First, respondent argues that reckless indifference will 
+suffice only if it is accompanied by a discriminatory act. 
+
+The Act requires that plaintiff to prove that the 
+
+pega tas 2 a pt 
+
+practice or discriminatory practices”) (2) with . 
+
+reckless indifference to federally protected rights. 
+
+The two cannot be separated. Otherwise, 
+
+defendants would be punished unfairly for thoughts 
+
+isolated from discriminatory actions. (R.Br. 
+18)(emphasis in original). 
+
+
+2 
+
+
+This formulation, which abandons “egregiousness” altogether, 
+is consistent with the position of petitioner. 
+
+Second, respondent urges that a plaintiff must prove 
+“egregiousness,” but insists this is consistent with the statutory 
+language because a demonstration of reckless indifference is 
+sufficient per se to prove egregiousness. 
+
+Actions undertaken with . . . reckless indifference to 
+
+federally protected rights necessarily involve 
+
+egregious conduct . . . (R.Br. 13-14). 
+
+This effectively abandons the decision of the court of appeals, 
+reducing it to a semantic quibble which, while accepting proof 
+of reckless indifference as sufficient, insists on labeling such 
+indifference “egregious conduct.” 
+
+Third, respondent suggests that the controlling legal 
+standard is actually reckless indifference, but that evidence of 
+egregious conduct is one method of proving the existence of 
+reckless indifference. 
+
+The more serious the conduct, the more likely it will 
+
+cross the threshold from negligence to recklessness. 
+
+
+(R.Br. 20). 
+[T]he lower courts should . . . determine whether . . 
+
+
+_ the conduct is of a sufficiently egregious character 
+to signify that the employer was recklessly 
+indifferent. . . . (R.Br. 36). 
+
+
+' R.Br. 19 (“Malicious and reckless conduct are by definition 
+egregious”), 28 (“malice and recklessness are by definition egregious”), 28- 
+29 (“punitive damages ‘require conduct that is “outrageous”, either because 
+of the person’s “evil motive” or because of his “reckless indifference” to 
+the rights of others.’ ”), 29 (endorsing EEOC view that Congress 
+
+
+“considered any conduct in violation of the statutory ‘malice or reckless 
+indifference’ standard to be, by definition, egregious”), 31 (“*Punitive 
+damages may be awarded for conduct that is outrageous, because of the 
+
+
+defendant’s . . . reckless indifference to the rights of others.’ ”) 
+
+
+2 R.Br. 39 (“the conduct at issue was certainly not of a sufficiently 
+egregious character to signify that the ADA was recklessly indiffe.ent. . . .”) 
+
+
+3 
+
+
+It is unclear from these passages whether respondent claims 
+that evidence of egregious conduct is the sole method of 
+proving the mental state of reckless indifference. 
+
+Fourth, respondent seems to contend that the correct 
+standard is some unexplained concatenation of reckless 
+indifference and egregiousness. E.g. 
+
+[E)gregiousness and reckless are part of an equation 
+
+rather than a sum. (R.Br. 29). ee nenen 
+
+[T}he trial court [should make a] . . . determination as 
+
+to whether there is sufficient evidence of egregious 
+
+conduct under the standard of malice or reckless 
+
+indifference . . . . (R.Br. 38). 
+
+The award of punitive damages . . . depends on the 
+
+nature of the discriminatory conduct, not simply the 
+
+mental state of the defendant. (R.Br. 18) 
+
+Fifth, like the court of appeals below, respondent asserts 
+simply that punitive damages cannot be awarded—regardless 
+of the existence of reckless indifference—absent proof of some 
+unusually deplorable conduct.’ (R.Br. 20, 23). What type of 
+action respondent or the court of appeals would require is 
+unclear. The sort of misconduct which respondent demands is 
+
+
+, Respondent's reference to state law cases regarding punitive damages 
+provides no support for this standard. This Court's decision in Smish » 
+Wade, 461 U.S. 30 (1983), was the authoritative analysis of common law 
+Punitive damage standards at the time Congress adopted the 1991 Civil 
+Rights Act. That decision is entirely consistent with prevailing state court 
+decisions under which the availability of punitive damages turns on proof 
+of a culpable state of mind. R.L.Blatt, R.W.Hammesfahr & L.S.Nugent, 
+Punitive Damages: A State by State Guide to Law and Practice 56-63 
+(1991)(“fourteen states appear to require malice or a similar state of mind 
+. . » tO recover punitive damages”; “in twenty-three states . . . willful 
+indifference, wanton, or reckless conduct is sufficient to sustain an award 
+of punitive damages . . .”; “eight states . . . [require] a showing of gross 
+negligence”); | L.Schlueter & K.Redden, Punitive Damages 514 (3d ed. 
+Grae ee ane han Geo sels, ot east bs sean jertedietens, Gast punitive 
+damages may be awarded for acts done 
+é * > willfully, wantonly and in reckless 
+
+
+4 
+
+
+described variously as “egregious” (R.Br. i, 14, 29-32), 
+“serious” (id. 19, 20), “extreme” (id. 23, 28), “reprehensible” 
+(id. 23), “outrageous” (id. 14, 24), “the worst cases” (id. 32) or 
+actions demonstrating a “criminal indifference to civil 
+obligations.” (Jd. 37).* Although the court of appeals insisted 
+that this “standard” had been in use in the lower courts in 
+section 1981 cases since at least 1985,* respondent is unable to 
+articulate what it means or to explain how an appellate court 
+could ascertain if a district court had misjudged whether a 
+particular action was “egregious” or “outrageous.” 
+Respondent urges this Court to hold that the discrimination 
+proven in this case is not “egregious,” but does not offer any 
+principled explanation of how that conclusion should be 
+reached. On the record in the instant case, a jury could find that 
+respondent's officials engaged in a three month concerted 
+scheme of dissembling, obstruction and outright lies in order to 
+prevent the promotion of a woman and to cover up their illegal 
+motives. See BMW of North America, Inc. v. Gore, 517 US. 
+559. 579 (1996)(punitive damages supported by “deliberate 
+false statements, acts of affirmative misconduct, or 
+concealment of evidence of improper motive”). The court of 
+appeals, in at» indulgent turn of phrase, characterized such 
+actions as “garden variety” discrimination (Pet. App. 18a), 
+rather than egregious or outrageous. How the court of appeals 
+reached that conclusion, and what legal principles might be 
+relied on to distinguish “garden variety” discrimination from 
+“egregious” discrimination, remain entirely obscure. 
+Although the substance of respondent's proposed standard 
+is opaque, the procedure which it envisages is clearer. 
+Respondent is suggesting that the determination of whether a 
+particular action should be classified as “egregious” would in 
+every instance be a question of law. In the instant case, for 
+example, respondent insists that a single discriminatory 
+
+
+* R.Br. 37. 
+> Pet. App. 8a-9a and n.3. 
+
+
+5 
+
+
+promotion, coupled with dissembling, sexi i 
+objectionable off-color jokes, is ning a ee -~ 
+egregious; in future cases judges would have to decide which 
+other epithets combined with how many more discriminatory 
+promotions might add up to egregiousness. Given the variety 
+of aggravating and mitigating circumstances that could be 
+present in any given discrimination case, such a legal structure 
+could over time begin to resemble the Sentencing Guidelines. 
+Respondent does not, however, envision that any such 
+legal guidelines would /imit the discretion of a district court 
+judge to classify the actions of any particular defendant as non- 
+egregious. 
+The lower courts should implement the statutory 
+standard for punitive damages on a case-by-case basis. 
+. .. [T]here should be no per se rules defining classes 
+of cases in which it is automatically assumed that 
+punitive damages will lie. Each case will depend on 
+the context of the evidence and all the facts and 
+ay es of the case. (R.Br. 36-38)(emphasis 
+Although there apparently could be se rules iddi 
+punitive damages awards in particular pe of soc 
+standards would limit the discretion of a district judge to refuse 
+to allow punitive awards. As a practical matter district judges 
+not juries, would decide whether a defendant's alleged conduct 
+was serious enough to permit a punitive award. 
+
+The primacy of district judges would be assured by the one 
+particular aspect of the standard urged by respondent: punitive 
+damages could not be awarded in a case in which, as here the 
+district judge disagreed with the jury’s finding of intentional 
+
+
+discrimination. 
+
+
+In the district court’s view, the evidence was not “even 
+suggestive of, let alone demonstrating, a gender related 
+factor in the preference exhibited by everyone for 
+Spangler.” . .. Thus, the conduct at issue was certainly 
+
+
+6 
+
+
+not of a sufficiently egregious character . . . . (R.Br. 
+39)(emphasis added).° 
+Under the Seventh Amendment a federal judge could not, of 
+course, overturn a jury verdict merely because he or she 
+disagreed with it. Cf Lytle v. Household Mfgz., Inc., 494 U.S. 
+545 (1990). Respondent suggests, however, that such a 
+disagreement between a judge and jury would automatically 
+preclude an award of punitive damages; that proposed rule 
+would also be inconsistent with the Seventh Amendment. 
+Respondent may intend to assert yet a sixth interpretation 
+of section 1981a, that punitive damages may only be awarded 
+where the evidence of intentional discrimination is particularly 
+conclusive. The court of appeals suggested that “legitimate 
+punitive awards” would not be likely where a plaintiff had 
+prevailed by showing that an employer's proffered explanations 
+were pretextual (Pet. App. 21a n. 9), even though that is the 
+standard method of proof under McDonnell Douglas Corp. v. 
+Green, 411 U.S. 792 (1973), and its progeny. These arguments 
+confuse the type of discrimination required for a punitive award 
+with the type or weight of the evidence which demonstrates the 
+existence of discrimination, and would reward a discriminatory 
+employer that Was sufficiently devious to cover up all direct 
+evidence of its illegal motive. 
+(2) The Structure of Section 1981a Does Not Require An 
+“Egregious Conduct” Limitation on Punitive Damages 
+
+
+° See R.Br. 43(citing district judge’s disagreement with jury verdict.) 
+
+The court of appeals’ panel decision rejected the district judge’s view of 
+the evidence, unanimously upholding the jury’s liability verdict and 
+expressly acmonishing the trial judge that he was bound by the Seventh 
+Amendment :o “follow the jury’s factual findings” on remand. (Pet. App. 
+$5a-56a). Although the Court of Appeals refused to rehear en banc 
+respondent's attack on that liability determination, and although this Court 
+denied respondent's conditional cross petition on this issue (No. 98-364, 
+Nov. 2, 1998), respondent persists in challenging the jury’s verdict, 
+repeating the same arguments concerning the evidence that were made to 
+and rejected by the jury. 
+
+
+en eee eee 
+
+
+7 
+
+
+Respondent raises, and conflates, two distinc 
+contentions—that there should be a two-tiered scheme > 
+liability for compensatory and punitive damages,’ and that there 
+should be a two-tiered scheme for submission to the Jury of 
+claims for compensatory and punitive damages.’ The first 
+Nit ey RRR Rg —onEe pseRIp 
+
+. Here, as in 
+
+mane a a most Title VII cases, the 
+
+Trans World Airlines, Inc. v. Thurston, 46 
+(1985), McLaughlin v. Richland Shoe Co., ua en 
+(1988), and Hazen Paper Co. v. Biggins, 507 U.S. 604 (1993) 
+all involved an issue of liability; in those cases the recklessness 
+standard was the liability standard precisely because a showing 
+of recklessness would without more have mandated an award 
+of liquidated damages under the ADEA or an additional year of 
+back pay under the FLSA. With regard to compensatory 
+damages under Title VII, the intentional discrimination 
+standard is also the liability rule; where such discrimination is 
+shown, the trier of fact must award compensatory damages in 
+an amount sufficient to redress any proven injury. 
+
+But, with regard to punitive damages, proof of intentional 
+discrimination combined with reckless indifference is not the 
+liability standard, because such a showing is not sufficient to 
+entitle a plainuff to an award of punitive damages. The trier of 
+fact remains free to deny punitive damages, despite such a 
+showing, if it is unconvinced that a punitive award is warranted, 
+under the circumstances of the case, to punish or deter 
+intentional discrimination. The trier of fact could also choose 
+to make an award so nominal that all parties would regard the 
+decision as equivalent to the denial of punitive damages. In the 
+instant case, even if petitioner were to prevail in this Court, on 
+remand, a jury convened to hear her claim for punitive damages, 
+although bound by the existing finding of intentional 
+
+
+” R.Br. 14, 15, 22, 23, 26, 29. 
+* R.Br. 13, 22, 28, 30, 33, 36. 
+
+
+discrimination, could still decide to deny any award of punitive 
+damages. Thus, with regard to liability—even under petitioner's 
+literal reading of section 198la(b)(1)}—the standards for 
+compensatory and punitive awards are palpably distinct. 
+
+Not content with such a two-tiered liability scheme, 
+respondent insists on two additional tiers. Even though juries 
+already apply distinct standards in determining liability for 
+compensatory and punitive awards, respondent urges that 
+Congress also intended that judges, in determining when claims 
+for compensatory and claims for punitive awards would be 
+submitted to a jury, must utilize standards so different that in 
+practice a large proportion of cases qualifying for possible 
+compensatory awards could not even be considered by-+he jury 
+on the issue of punitive damages. This would in effect 
+construct a four-tiered system. 
+
+Respondent offers no explanation of why the number of 
+cases in which a jury can even consider awarding punitive 
+damages must always be substantially smaller than the number 
+of cases in which compensatory awards are considered. 
+Respondent does not contend that there is some reason to 
+believe that the juries to whom these claims are submitted will 
+fail to follow whatever instructions they are given regarding the 
+liability standard. 
+
+(3) A General Rule Denying Punitive Damages in “Garden 
+Variety” Cases Would Be Inconsistent With The Express 
+Purpose of the 1991 Civil Rights Act 
+The central holding of the court of appeals majority was 
+
+that there are certain types of intentionally discriminatory 
+
+practices for which punitive damages should never be awarded. 
+
+The court below apparently envisaged that most discrimination 
+
+claims would fall within this prohibition, describing the types 
+
+of discriminatory practices it wished to immunize from 
+punitive damage awards as “garden variety” (Pet. App. 18a) or 
+
+“standard” (Pet. App. 5a) discrimination. Respondent 
+
+contemplates that rules could be adopted by the courts 
+
+
+9 
+
+
+penn sae ; a 
+poy “a sere | of cases in which punitive damages 
+This proposal is flatly inconsistent with the 
+1991 Civil Rights Act. Section 2 of the Act meiiend on “1 
+avowed purpose of section 198la, including the punitive 
+damages provision, was to provide “additional remedies . . . to 
+deter unlawful harassment and intentional discrimination in the 
+workplace.” 42 U.S.C. §1981 Notes. This Court noted in 
+Landgraf v. USI Film Products that this potential liability for 
+additional monetary relief was enacted to “give managers an 
+— incentive “a take preventative measures to ward off 
+riminatory conduct by subordi 2 
+pogo a4 Vy rdinates....” 511 U.S. 244, 
+if this Court were to hold, as respondent urges, that 
+Punitive damages are as a matter of law unavailable on the facts 
+of this case, every employer in the nation would be assured that 
+it would be immune from any award of punitive damages if it 
+utilized the particular discriminatory techniques proven here. 
+More broadly, if the courts were to designate specific 
+discriminatory practices or schemes as “garden variety,” and 
+thus outside the scope of section 1981a(b)(1), such a safe 
+harbor would eviscerate for those types of intentionally 
+discriminatory actions the very deterrent effect envisaged by 
+Congress. Punitive damages should not be denied for reasons 
+which “if applied generally, would . . . frustrate the central 
+— acy ay of ay nb discrimination throughout 
+economy.” marle Paper Co. v. 
+preyed aper Co. v. Moody, 422 U.S. 405, 
+(4) One of the Central Purposes of the 199] Civil Rights Act 
+Was To Give Litigants A Statutory Right to Trial By Jury 
+When Either Compensatory or Punitive Damages Are 
+Sought . 
+Respondent, like the court below, urges that district judges 
+should play a, if not the, central role in determining w’ether 
+punitive damages should be awarded against a given defendant, 
+
+
+10 
+
+
+deciding in most cases to forbid such awards, and permitting 
+jury involvement in the decision only in extreme and atypical 
+situations. The argument for this system is built on wisps of 
+inference assertedly emanating from the interstices of the 
+structure of the statute. The fatal flaw in this proposal can be 
+found in the text: both the actual standard articulated in section 
+1981a(b)(1) and the terms of section 198la(c)(1), which 
+provides that where punitive damages are sought “any party 
+may demand a trial by jury.” 42 U.S.C. §1981a(c)(1). 
+Questions regarding the respective roles of juries and 
+judges under the 1991 Civil Rights Act must be addressed in 
+light of the special importance which the Act, and those who 
+supported it, attached to assuring that where damages were 
+sought either party would have a statutory right to a jury trial. 
+Although Congress has provided in many hundreds of statutes 
+for awards of damages, section 1981a(c)(1) is one of the few 
+laws which expressly confers a statutory right to trial by jury.” 
+The inclusion in the 1991 Act of that statutory right was of 
+practical importance; absent that provision there would have 
+been no jury trial right in Title VII cases against federal 
+agencies or in Title VII cases tried in state courts. More 
+importantly, supporters and opponents alike understood that the 
+1991 Act deliberately worked a sea change in the Title VII 
+enforcement process by according to the victims of intentional 
+discrimination the right to have their claims decided by juries. 
+In the highly partisan legislative history of the 1991 Act, 
+the proposal to provide for jury trials in intentional 
+discrimination cases was one of the most bitterly fought over 
+issues. The inclusion in the legis!ation of a provision for 
+compensatory and punitive damages was prompted in particular 
+
+
+° A computer search of the public laws enacted since 1978 reveals only 
+three other statutes which expressly provided for a jury trial for a specific 
+type of civil action. All of those laws involved employee rights. 2 U.S.C. 
+§1408(c\Congressional Accountability Act); 3 Vos 
+3901(b\Presidential and Executive Office Accountability Act); 29 U.S.C. 
+§626(c\(2) (Age Discrimination in Employment Act). 
+
+
+by the inefficacy of back pay as a remedy in sexual harassment 
+cases, Landgraf, 511 U.S. at 254, and by the perceived inequity 
+SS tee ee matics anette under 
+section 1981. From the beginning of the legislative process, the 
+te ee edge 
+where _ damages were sought. Although 
+more monetary relief should be provided under Title VII, they 
+fiercely, but ultimately unsuccessfully, resisted jury trials. 
+The issue which divided Congress for more than a year 
+was framed by a series of alternatives, consistently rejected on 
+the floor of both houses, which would have replaced damages 
+and jury trials with what were labeled “equitable monetary 
+awards” to be made by and at the discretion'® of the district 
+judge.'' The critical distinction between these proposals and 
+the language repeatedly adopted by the House and Senate, and 
+ultimately agreed to by the President, was whether judges or 
+Juries would award the additional monetary relief which both 
+sides agreed was needed. The proposed substitute measures all 
+contained language overturning the decision in Patterson v 
+McLean Credit Union, 491 U.S. 164 (1989); the practical effect 
+of those provisions, as members of both houses repeatedly 
+noted, was thus to authorize jury trials and compensatory and 
+punitive damages for a plaintiff seeking relief under section 
+Ws stdin aiitieion dlieiaeh en cites | i 
+deny relief. 136 Cong. Rec. $16564 (daily ply yg omar ot 
+Sen. Kennedy)(“The White House bill .. . would give courts vast discretion 
+to deny any meaningful remedy to victims of even the most offensive types 
+of sexual and religious discrimination on the job”), 137 Cong. Rec. H 3860 
+(daily ed. June 4-5, 1991)(remarks of Rep. Hughes). Under the Michel 
+Substitute, egregious conduct was a factor a judge could have considered in 
+determining whether to award additional monetary relief. 
+"136 Cong. Rec. $9839 (daily ed. July 17, 1990)(Kassebaum 
+substitute); 137 Cong. Rec. H3897 Ma ak leninae substitute ); 
+House Doc 101-251, Civil Rights Act of 1990: Message from the President 
+
+
+of the United States Transmitting Alternative Language to S. 210 
+8(legislation submitted by President Bush). jah 
+
+
+12 
+
+
+1981 for employment discrimination on the basis of race. Thus 
+the core issue which divided Congress in 1990-91 was whether 
+juries should also be available to victims of discrimination on 
+the basis of sex. 
+
+The opponents of the 1991 Act objected openly and 
+repeatedly to the proposal to permit juries to decide Title VII 
+intent cases.'? Their central complaint was that juries were 
+more likely than judges to find intentional discrimination. 
+Critics repeatedly cited a study which, they warned, showed 
+that juries had ruled in favor of employees in a large percentage 
+of state employment cases.'? Representative Hyde declaimed, 
+“I would like some way to avoid jury verdicts because that is 
+what terrorizes the employer.”"* Representative Stenholm 
+complained that employers should not be subject to the risk of 
+litigation about their employment decisions because they could 
+not be confident that they “can convince a jury that those 
+decisions w{e]re justified,” warning that some firms would 
+close rather than run that risk.'° Senator Hatch said a system of 
+jury trials would be “stacked in . . . favor” of civil rights 
+
+
+2 136 Cong. Rec. $16584 (daily ed. Oct. 24, 1990)(remarks of Sen. 
+Helms) objecting to “unlimited jury trials”), H6773 (daily ed. Aug. 2, 
+1990)remarks of Rep. Sensenbrenner)(“[bJecause this is a jury trial system, 
+we tum unlawful employment activities into torts, and the entire tort law 
+system, with all of the warts”), H6775 (remarks of Rep. LaFalce)(“my 
+biggest problem . .. is. _. giving plaintiffs an absolute right to demand a 
+jury trial upon an allegation of intentional discrimination”), H6798 (remarks 
+of Rep. Bartlett), H6811 (remarks of Rep. Sensenbrenner), H9991 (remarks 
+of Rep. Stenholm); 137 Cong. Rec. $15468 (daily ed. Oct. 30, 
+1991 (remarks of Sen. Symms), H3874 (daily ed. June 4-5, 1991 (remarks 
+of Rep. Dornan), H3901 (remarks of Rep. McCollum), H3930 (daily ed. 
+June 5, 1991)(remarks of Rep. Hyde), H3932 (remarks of Rep. Goodling), 
+H9536 (daily ed. Nov. 7, 1991)(remarks of Rep. Sensenbrenner). 
+
+
+136 Cong. Rec. $9341 (daily ed. July 10, 1990\(remarks of Sen. 
+
+
+Thurmond), H6787 (daily ed. Aug. 2, 1990)(remarks of Rep. Ballenger), 
+
+
+H6802 (remarks of Rep. Ray). 
+136 Cong. Rec. H9403 (daily ed. Oct. 11, 1990). 
+'S 136 Cong. Rec. H9991 (daily ed. Oct. 17, 1990). 
+
+
+13 
+
+plaintiffs, '° and Senator Thurmond endorsed a statement by the 
+“the legal instructions provided by the judge.”'’ Opponents 
+repeatedly argued that if jury trials were permitted that would 
+somehow result in the use of quotas.'* Representative DeLay 
+= — Jury imposed damages as “vicious 
+
+Jury trial supporters did not deny that juries might well 
+decide cases differently than judges; manifestly, the long and 
+ultimately successful fight for jury trials was premised on just 
+that conviction. As was true at the time of the adoption of the 
+Seventh Amendment, “[t]hose who favored juries believed that 
+a jury would reach a result that a judge either could not or 
+would not reach.” Parkland Hosiery v. Shore, 439 U.S. 322, 
+344 (1979)\(Rehnquist, J., dissenting). But supporters insisted 
+that the juries would nonetheless be fair. Opponents argued 
+that juries would be arbitrary and unpredictable” and expressed 
+doubts as to their competence to decide liability issues.”' In 
+response, jury trial supporters asserted that critics of that 
+proposal “seem to have little faith in the intelligence and 
+
+
+© 136 Cong. Rec. $16566 (daily ed. Oct. 24, 1990). 
+
+
+” 136 Cong. Rec. $9341 (daily ed. July 10, 1990)statement submi 
+by the United States Chamber of Commerce). . 3 
+
+
+* 136 Cong. Rec. H9402 (daily ed. Oct. 11, 1990)(remarks of 
+Hyde): 137 Cong. Rec. H3860 (daily ed. June 4, 1991 (remarks whe. 
+Vucanovich), H3864 (remarks of Rep. Hyde), H3885 (remarks of Rep. 
+Gunderson ), H3885 (remarks of Rep. Gunderson), H3894 (remarks of Rep 
+Hyde), H3942 (daily ed. June 5, 1991)remarks of Rep. Gunderson). 
+
+
+* 136 Cong. Rec. H6789 (daily ed. Aug. 2, 1990). 
+
+
+* 136 Cong. Rec. $9340 (daily ed. July 10, 1990)remarks 
+Sen. Spitingtaibdey ehiipedtithnd Saeantan tenn teee ban trad 
+States Chamber of Commerce), $9897 (daily ed. July 18, 1990)(remarks of 
+Sen. Gorton)(plaintiffs will sue in hopes of winning a “jackpot”), H679 | 
+(daily ed. Aug. 2, 1990)plaintiffs will “gamble for huge awards”). 
+
+*" 136 Cong. Rec. H9989 (daily ed. 
+nan (daily ed. Oct. 17, 1990)(remarks of Rep. 
+
+
+14 
+
+
+common sense of jurors.””? Representative Collins contended 
+that opposition to the legislation 
+
+shows a fear of the American people. Why do I say 
+
+this? Because damages are decided by juries. And 
+
+juries are American. Are we afraid that the same 
+people who entered a voting booth and elected us to 
+
+our office can’t be trusted to enter a jury room and 
+
+make a decision on punitive damages?” 
+
+Supporters of the legislation offered detailed rebuttals to a 
+number of the attacks on civil juries. In reply to assertions that 
+juries were likely to make outlandishly large awards, the 
+sponsors proffered studies showing that jury awards in past 
+discrimination cases had generally been modest.” Responding 
+to claims that the availability of jury trials would lead to a flood 
+of litigation,” they noted that no such problem had existed 
+under section 1981.”’ Significantly, however, no supporter ever 
+rose to dispute assertions that juries might rule in favor of 
+discrimination plaintiffs where judges would not, or to express 
+the hope that that would not occur. 
+
+Because of an ongoing controversy about the paucity of 
+women and minorities among federal judicial appointments, 
+
+
+2 136 Cong. Rec. H6800 (daily ed. Aug. 2, 1990)(remarks of Rep. 
+Vento). | 
+
+® 137 Cong. Rec. H3859 (daily ed. June 4, 1991); see id. H3949 (daily 
+ed. June 5, 1991 (remarks of Rep. Collins). 
+
+* E.9 136 Cong. Rec. $9341 (daily ed. July 10, 1990)(remarks of Sen. 
+eemeneenene of U.S. Chamber of Commerce), $15331 (daily ed. 
+Oct. 16, 1990\remarks of Sen. Hatch), H6787 (daily ed. Aug. 2, 
+1990)\(remarks of Rep. Ballenger), H6802 (remarks of Rep. Shumway). 
+
+5 136 Cong. Rec. $9908 (daily ed. July 18, 1990)(remarks of Sen. 
+Kennedy), H6812 (daily ed. Aug. 2, 1990)(remarks of Rep. Edwards), 
+H9982 (daily ed. Oct. 17, 1990)(remarks of Rep. Henry). 
+
+* Eg. 136 Cong. Rec. $16580 (daily ed. Oct. 24, 1990)(remarks of Sen 
+Burns), H6786 (daily ed. Aug. 2, 1990)(remarks of Rep Moorhead). 
+
+
+2” 136 Cong. Rec. H6790 (daily ed. Aug. 2, 1990)(remarks of Rep. _ 
+
+
+Slattery), H6800 (remarks of Rep. Vento). 
+
+
+15 
+
+
+jury trial proponents were well aware, for example, that if 
+judges were responsible for deciding whether there should be 
+punitive awards for sex discrimination, the vast majority of 
+those decisions would be made by men and men alone.* On 
+the other hand, federal law as well as the Constitution, assured 
+that a civil jury would include men and women with a wide 
+range of experiences and perspectives. See 28 U.S.C. §§ 1861, 
+1863. Congress could sensibly conclude that # jury, composed 
+of individuals with such diverse backgrounds, would bring to 
+the determination of intentional discrimination cases an 
+invaluable understanding of the realities of the workplace, the 
+nuances of race and gender relations, and the complexities of 
+human motivation. In the instant case, the district judge’s frank 
+disagreement with the jury’s finding of intentional 
+discrimination illustrates the practical impact of Congress’ 
+decision to authorize jury trials. 
+
+The legislative history of section 1981a(b)(1) is wholly 
+consistent with a literal reading of the statute. See Pet. Br. at 
+36-45. During the floor debates, most of the references to the 
+substance of what became section 1981a(b)(1) either recited the 
+actual terms of that provision or simply lumped compensatory 
+and punitive damages together, describing both as available 
+
+
+* In 1988, a year before it began work on what would become the 1991 
+Civil Rights Act, the Senate Judiciary Committee held a hearing devoted 
+specifically to the small number of women and minorities who had been 
+appointed to the federal bench since 1980. Hearings Before The Senate 
+Judiciary Committee on the Performance of the Reagan Administration in 
+Nominating Women and Minorities to the Federal Bench, 100th Cong., 2d 
+Sess. (1988). The hearing was prompted in particular by the fact that in the 
+1980's, at a time when the number of women attorneys was growing 
+dramatically, the proportion of women on the federal judiciary was actually 
+declining; in 1987-88, 94.6% of all judicial nominees were men. /d. at 2. 
+From 1981 to 1988 all of the 14 new judges in the District of Columbia 
+circuit were white men. /d. 42. One witness argued pointedly, “It is 
+unseemly that all, or nearly all sex and race discrimination claims in a given 
+court should be heard by white male judges.” /d. at 144 (testimony of 
+Estelle Rogers). 
+
+
+16 
+
+
+where intentional discrimination was proven.” Opponents 
+in every case of intentional discrimination” or that the 
+statutory standard was too vague.’ The scant references to the 
+role of judges under the proposed legislation referred only to 
+the limited authority of a judge to act after a jury verdict.” 
+
+At the end of this protracted struggle Congress adopted 
+virtually unchanged the original proposal for jury imposed 
+damages, subject to a cap. Senator Jeffords explained that at 
+the beginning of the legislative process 
+
+
+* Eg. 136 Cong. Rec. H6779 (daily ed. Aug. 2, 1990)(remarks of Rep. 
+Schroeder)(“[y]ou do not get punitive damages unless there was intent’), 
+H6793 (remarks of Rep. Hoyer)(“these damages are available only in cases 
+of intentional discrimination”), H6800 (remarks of Rep. Kleczka)the 
+legislation “would add compensatory and punitive damages under title VII 
+for victims of intentional job bias”), H9993 (daily ed. Oct. 17, 
+1990\remarks of Rep. Scheuer)(legislation “allows compensatory and 
+punitive damages for proven intentional discrimination”), 137 Cong. Rec. 
+H3874 (daily ed. June 4, 1991)(remarks of Rep. Moody)(“[flor punitive 
+damages, discrimination must be shown to be intentional”), H3888 (remarks 
+of Rep. Owens)legislation permits “victims ©f intentional discrimination 
+_.. to collect monetary compensatory and punitive damages”). 
+
+We do not suggest that these remarks cin displace the additional 
+statutory requirement of proof of reckless disregard or malice, but they 
+illustrate the fallacy of the court of appeals’ supposition that Congress must 
+have believed the standards for compensatory and punitive damages were 
+dramatically different. 
+
+* 136 Cong. Rec. $9341 (daily ed. July 10, 1990)(remarks of Sen 
+Thurmond\statement of United States Chamber of Commerce )(“because 
+the Act adopts a ‘reckless disregard of the rights of others’ standard, and 
+because intentional discrimination necessarily involves a disregard of 
+others’ rights, punitive damages would seem to be available in virtually 
+every case involving intentional discrimination.”) 
+
+! Jd. 136 Cong. Rec. H6779 (daily ed. Aug. 2, 1990)(remarks of Rep. 
+Fawell). 
+
+2 137 Cong. Rec. H9527 (daily ed. Nov. 7, 1991)(remarks of Rep. 
+Edwards); $15484 (daily ed. Oct. 30, 1991)(remarks of Sen. Dole). 
+
+
+17 
+
+
+[T]he creation of tort-like damages under title VII was 
+viewed as a longshot at best . . . [but now] such 
+damages are a central part of every civil rights 
+proposal. . . . In one form or another, this is an idea 
+whose time has come. In fact, the only remaining 
+questions appear to be whether such damages will be 
+unlimited as to amount or capped and, to a lesser 
+extent, whether they will be awarded by judges or 
+juries. . . . [W]hile the compromise calls for damages 
+awarded by juries, getting the administration to give 
+
+in on this point was a major achievement leading to 
+
+this agreement. 
+
+137 Cong. Rec. $15383 (daily ed. Oct. 29, 1991). 
+
+The terms and legislative history of section 1981a(b)(1) are 
+complemented by Congress’s overarching decision, reached 
+after a protracted struggle and embodied in the text of the 
+statute, that where compensatory or punitive damages were 
+sought, either party was entitled to have a jury decide the 
+measure and availability of those damages. The 1991 Act 
+should not be interpreted in a way which denigrates the cen.ral 
+enforcement role which Congress intended to accord to civil 
+juries, or on the basis of objections to those juries which 
+Congress considered and rejected. 
+
+Il. THERE IS NO INDEPENDENT ALTERNATIVE 
+BASIS FOR DISMISSING PETITIONER’S CLAIM 
+FOR PUNITIVE DAMAGES UNDER THE MALICE 
+PROVISION OF SECTION 1981A(B)(1) 
+
+Respondent does not squarely dispute the correctness of 
+the legal standard set out in our opening brief: rather, 
+respondent urges as an alternative ground for affirmance that 
+the circumstances of this case do not satisfy that standard. 
+Respondent first advances a factual argument. We stressed 
+in our brief that Wheat had repeatedly used the terms “bitch” 
+and “battleaxe” to refer to professionally prominent women, 
+and had persisted in telling lewd jokes at office meetings even 
+
+
+18 
+
+
+after plaintiff objected. Respondent contends that these actions 
+“certainly do not signify” any form of hostility toward women. 
+(R.Br 42). The assessment of the significance of these actions, 
+however, is the quintessential function of the trier of fact. 
+Although not required to do so, a reasonable jury could 
+assuredly conclude that such remarks revealed an animus or 
+demeaning attitude towards women. While, for example, the 
+term “bitch” has a variety of meanings, one of them is an 
+expression of animus toward women who are ambitious or who 
+use their authority in a manner contrary to the wishes of the 
+man speaking; that particular usage of “bitch” fits the 
+circumstances in which the disputed remarks occurred in this 
+case. The lower courts have repeatedly recognized that use of 
+the term “bitch” can be sufficiently gendered and offensive to 
+constitute a significant element of a sexual harassment claim.” 
+
+Second, respondent urges that statements by participants 
+in a decisionmaking process expressing animus towards women 
+are legally irrelevant unless those statements are “related to the 
+employment decision in question.” (R.Br. 42). But whether 
+such remarks are “related to” an allegedly discriminatory act is 
+precisely the issue which the trier of fact must decide. 
+Although biased statements often would not be conclusive, 
+
+
+> The evolution in the meaning of this epithet is traced in Beverly Gross, 
+“Bitch”, Salmagundi: A Quarterly of the Humanities & Social Sciences, no. 
+103, p. 146 (1994). “The metamorphosis of bitch from the context of 
+sexuality (a carnal woman, a promiscuous woman) to temperament (an 
+angry woman, a malicious woman) to power (a domineering woman, a 
+competitive woman) is a touchstone to the changing position of women 
+through this century.” /d. at 141. See id. at 146 (“the male equivalent of the 
+word bitch [is] ‘Boss’”), 148 (the various usages of “bitch” include “a 
+woman who is annoying, pushy, possibly underhanded (in short, a man in 
+a woman's body)”). 
+
+* Excel Corp. v. Bosley, 1999 WL 16392 *1 (8th Cir. 1999); Barna v. 
+City of Cleveland, 1998 WL 939884 *2 (6th Cir. 1998); Howard v. Burns 
+Bros., Inc., 149 F. 3d 835, 838-39 & n. 2 (8th Cir. 1998); Mockler v. 
+Multnomah County, 140 F. 3d 808, 811 (9th Cir. 1998); Morrison v. 
+_ Carleton Woolen Mills, Inc,, 108 F. 3d 429, 434 (1st Cir. 1997). 
+
+
+19 
+
+
+such “remarks can certainly be evidence that gender” played a 
+role in a disputed employment decision. Price Waterhouse v. 
+Hopkins, 490 U.S. 228, 251 (1989)(emphasis in original). 
+Hostile or demeaning statements about or directed at women or 
+minorities are significant because they may well reveal the 
+existence of fixed and persistent prejudices likely to animate 
+decisions at another point in time. The fact that a supervisor 
+announced in March that he had a cold would not explain why 
+he closed a window in December; but the fact that the 
+supervisor in 1997 referred to an African-American worker as 
+a “nigger” would obviously be relevant to determining his 
+motives in dismissing that worker in 1998.*° 
+
+Third, although conceding that Wheat had “significant 
+input into the promotion decision” (R.Br.40), respondent insists 
+that any misogyny on Wheat’s part is irrelevant because Allen 
+“did not simply act as a conduit” for Wheat’s prejudices. (R. 
+Br. 41). But evidence of a subordinate’s bias remains relevant 
+“where the ultimate decision maker is not insulated from the 
+subordinate’s influence.” Griffin v. Washington Convention 
+Ctr., 142 F. 3d 1308, 1312 (D.C.Cir. 1998).*° Even if Allen 
+did not act at Wheat’s direction and control, Wheat’s attitudes 
+
+
+** The appropriate method of analyzing such evidence was correctly 
+summarized in the jury instruction on this issue quoted in McMillan v. 
+Massachusetts Society for the Prevention of Cruelty to Animals, 140 F. 3d 
+288, 301 n.8 (Ist Cir. 1988), cert. denied, 119 S. Ct. 870 (1999). 
+
+
+*° The lower courts have recognized the wide variety of ways in which 
+the biased actions of one official can shape the employment decisions of 
+another. Long v. Eastfield College, 88 F. 3d 300, 307 (Sth Cir. 1996)(first 
+official recommended dismissal of plaintiff); Stacks v. Southwestern Bell 
+Yellow Pages, 27 F. 3d 1316, 1323 (8th Cir. 1994)first official controlled 
+information provided to the second); Simpson v. Diversitech Gen'l, Inc., 
+945 F. 2d 156, 160 (6th Cir.1991)(first official filed adverse personnel 
+report), cert. dismissed, 502 U.S. 1083 (1992); Shager v. Upjohn Co., 913 
+F. 2d 398 (7th Cir. 1990)(first official assigned plaintiff more difficult tasks 
+and issued adverse job performance evaluations); Sparks v. Pilot Freight 
+Carriers, Inc., 830 F. 2d 1554, 1565 (11th Cir. 1987) first official discussed 
+proposed discharge with second official). 
+
+
+20 
+
+
+and actions could easily have tainted and shaped the outcome 
+of the decisionmaking process.”’ 
+
+Cases such as this involving the interaction of several 
+decisionmakers are controlled by this Court’s decision in Price 
+Waterhouse v. Hopkins, 490 U.S. 228 (1989). Once a plaintiff 
+establishes that malice played a significant role in a disputed 
+employment decision, the defendant bears the burden of proof 
+of establishing that it would have made the same decision even 
+in the absence of that prejudice. 490 U.S. at 239-47. Although 
+it is possible that on remand respondent will be able to 
+persuade the trier of fact, as it urges here, that “Allen’s role as 
+the decisionmaker diminishes the significance” (R.Br. 42) of 
+any malice on Wheat’s part, no basis exists for imposing such 
+a conclusion as a matter of law. 
+
+CONCLUSION 
+
+For the above reasons, the decision of the court of appeals 
+
+should be reversed. 
+
+
+Respectfully submitted, 
+
+
+JOSEPH A. YABLONSKI 
+
+Counsel of Record 
+YABLONSKI, BOTH & EDELMAN 
+1140 Connecticut Avenue, N.W. 
+Suite 800 
+Washington, D.C. 20036 
+(202) 833-9060 
+
+
+*” Because Wheat failed for several weeks to pass on petitioner’s interest 
+in the promotion, Allen may largely have made up his mind in favor of 
+Spangler by the time petitioner applied. Wheat’s action in allegedly 
+misrepresenting the quality of petitioner’s writing, while sanctioning for 
+Spangler alune the special briefings from O’ Donnell, would assuredly have 
+skewed Allen’s view of the comparative merits of the candidates. Wheat’s 
+recommendation of Spangler may have confirmed the result of a process 
+that was unfairly tilted against petitioner from the start. Actions taken by 
+Wheat played a determinative role in the decisionmaking process. 
+
+
+ERIC SCHNAPPER 
+UNIVERSITY OF WASHINGTON 
+SCHOOL OF LAW 
+
+1100 N.E. Campus Parkway 
+Seattle, WA 98105 
+
+(206) 616-3167 
+
+
+Counsel for Petitioner 
+
+

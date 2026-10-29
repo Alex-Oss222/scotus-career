@@ -1,0 +1,264 @@
+{
+  "case": "Albertson’s, Inc. v. Kirkingburg",
+  "event_date": "1999-06-22",
+  "status": "assembly_finalized",
+  "form": "One signed lead opinion after plenary review; a common qualification part and severable disability-method discussion; separate Stone-Zsela concurrence in part and in the judgment and Thomas concurrence.",
+  "form_legal_basis": "Qualification supplies the entire judgment; a separately presented disability-method issue has six frozen non-Stone supporters and requires accurate partial joins. No part or case is divided to change author eligibility or counts.",
+  "governing_propositions": {
+    "Q1-Q4": "Exact frozen reconciled program-specific qualification propositions, controlling and sufficient for judgment.",
+    "D1": "Individual substantial limitation, ordinary proof and no automatic monocular coverage. Majority explanatory discussion unnecessary to judgment.",
+    "D2": "Natural compensation and remaining limitations considered, no categorical disqualification and no general external-mitigation rule. Majority explanatory discussion unnecessary to judgment.",
+    "D3": "No final disability finding, regarded-as decision or disability remand.",
+    "T": "Thomas additional qualification ground, noncontrolling; common rationale leaves it open."
+  },
+  "tentative_judgment_support": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "tentative_opinion_support": {
+    "Q1-Q4": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "D1_and_D3": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "D2": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "eligible_before_counts": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "assignment": {
+    "assigning_justice": "Stone-Zsela",
+    "prior_counts": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 12,
+      "Thomas": 12,
+      "Ginsburg": 12,
+      "Breyer": 13
+    },
+    "last_counted": "martin_v_hadix_merits_1999-06-21.md",
+    "eligible": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "pool": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "chosen_author": "Kennedy",
+    "basis": "Fit: Bragdon authorship demonstrates this opinion’s required separation of individualized disability, actual source-supported federal authority, and bounded safety propositions; Kennedy supports every frozen proposition and its limits. No expansion or commitment change is required."
+  },
+  "delegated_new_stone_substance_used": false,
+  "checks": {
+    "form_before_counts": true,
+    "exact_opening_labels": true,
+    "eleven_public_blocks_in_order": true,
+    "no_later_level_two_blocks": true,
+    "public_internal_holdings_identical": true,
+    "public_private_marker_scan_clear": true,
+    "local_links_resolve": true,
+    "arithmetic": true,
+    "pool_math": true,
+    "record_natural_key": true,
+    "single_actual_lead_author": "Kennedy",
+    "lead_count_increment": 1,
+    "controlling_explanation_word_counts": [
+      256,
+      116
+    ],
+    "manual_legal_checks_completed": [
+      "lawful certiorari channel and summary-judgment posture",
+      "all nine participating at argument and decision; quorum six and majority five",
+      "reviewed questions and available remedy",
+      "common pre-June-22 law; no same-day Sutton authority",
+      "Stone fixed core and each exact partial join",
+      "all eight frozen non-Stone joins and Thomas reservation",
+      "source dates and conduct-date distinction",
+      "D1-D3 do not supply independent sufficient ground or disability remedy; noncontrolling explanation",
+      "public projection contains component vote, dates, topology, governing rules and limits, separate grounds, procedure and sources"
+    ],
+    "bounded_independent_pre_finalization_spot_check": {
+      "completed": true,
+      "scope": [
+        "frozen exact joins",
+        "judgment and remedy",
+        "Part II/D3 authority classification",
+        "eleven public blocks",
+        "private-source leakage"
+      ],
+      "result": "No material discrepancy found."
+    }
+  },
+  "source_hashes": {
+    "foundation/ENGINE.md": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+    "foundation/RENDER_CONTRACT.md": "a689b0680371a70cdcf6a7351466f80194d94426e96c1afe3ce6858921ea3db4",
+    "foundation/COURT_COMPOSITION.md": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99",
+    "AGENTS.md": "a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881",
+    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_NEUTRAL.md": "d51a850285057710b905ed8b6bc61d2f8bbf92c13f8cbb26ae0f07a7d81794c6",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_ALBERTSON.md": "0070b5ad9e8d52dac286094d8bbca88c67fe0795886b8906a314349fff4207a3",
+    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_COMMITMENTS.md": "b6f6771ae6aef6cee895e99f04c3dc3cb59774fe6233f5d7a4bcdc63bc4db842",
+    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECONCILED.md": "d0a2199a90a7a375e50756e28ee26379991cf6e2e44befb77e3f4224887a15c0",
+    "terms/OT1998/runtime/chunk11-scoped/ALBERTSON_STONE.md": "c7506ba4350abf7f2455f4179a89f6aad59825ac44f98c0e591685b00b5a87c2",
+    "terms/OT1998/runtime/chunk11-neutral-sources/albertson-lower-clean.txt": "65792e207454e2af3b75309e5ea46dcf7b9772fc13de4f5e1259ec14b9d252cf",
+    "terms/OT1998/freeze/OT_1998CHUNK11_ALBERTSON_RECOUNT.json": "c48bfe471078abd4ff87feb58ddee1f9e5a1cc30ad3b3d65be8ead2d6b16e26d"
+  },
+  "component_votes": [
+    {
+      "component": "reviewed_federal_qualification_claim",
+      "disposition": "reverse_and_remand_for_employer_summary_judgment",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [],
+      "count": "9-0",
+      "independent_disability_judgment": false
+    }
+  ],
+  "opinion_joins": [
+    {
+      "writing": "Opinion of the Court, Part I",
+      "author": "Kennedy",
+      "including_author": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "authority": "controlling",
+      "frozen_propositions": [
+        "Q1",
+        "Q2",
+        "Q3",
+        "Q4"
+      ]
+    },
+    {
+      "writing": "Lead opinion, Parts II-A and II-C",
+      "author": "Kennedy",
+      "including_author": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "authority": "noncontrolling_explanatory_discussion",
+      "frozen_propositions": [
+        "D1",
+        "D3"
+      ]
+    },
+    {
+      "writing": "Lead opinion, Part II-B",
+      "author": "Kennedy",
+      "including_author": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "authority": "noncontrolling_explanatory_discussion",
+      "frozen_propositions": [
+        "D2"
+      ]
+    },
+    {
+      "writing": "Concurrence in part and in the judgment",
+      "author": "Stone-Zsela",
+      "including_author": [
+        "Stone-Zsela"
+      ],
+      "authority": "noncontrolling",
+      "scope": "Rejects consideration of beneficial adaptation in disability determination; exact joins in Part I and II-A/II-C."
+    },
+    {
+      "writing": "Concurrence",
+      "author": "Thomas",
+      "including_author": [
+        "Thomas"
+      ],
+      "authority": "noncontrolling",
+      "frozen_propositions": [
+        "T"
+      ],
+      "scope": "Additional threshold qualification ground; joins entire lead with alternative expressly left open."
+    }
+  ],
+  "authority_classification": {
+    "Q1-Q4": "controlling unanimous sufficient qualification rationale",
+    "D1-D3": "noncontrolling majority explanation: no actual-disability or regarded-as determination, no independent employee-loss judgment and no disability remand; not an independently sufficient alternative holding",
+    "T": "Thomas additional ground only",
+    "marks": "not required; nine direct joins in dispositive rationale"
+  },
+  "source_limits": [
+    "No independent recovery of complete trial file, exact waiver instrument or verbatim grant papers; frozen supported recitations suffice for selected ground.",
+    "Historical source full-review verification supplied by reconciled handoff; assembly does not claim a separate complete historical-source review."
+  ],
+  "record_path": "terms/OT1998/records/albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
+  "record_sha256": "81b4eb5ade47461d80ee4aad46c8fecdc0b44acb841e036182c3c1efce4160c2",
+  "research_cutoff": "1999-06-22 before uncoordinated events",
+  "workspace_and_render_integration": "not_performed_by_assembly",
+  "remaining_steps": "Controller integration and chunk-level checks only; no substantive assembly blocker."
+}

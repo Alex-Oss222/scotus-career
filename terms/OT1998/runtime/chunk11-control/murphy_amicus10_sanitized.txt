@@ -1,0 +1,1393 @@
+SOURCE: Predecision amicus filing10. Mechanical extract excludes paragraphs potentially stating target Supreme petition treatment. Party assertions remain assertions; historical authorities require current-law comparison.
+
+— oo 
+
+upeme Court, U.S. 
+
+FILED 
+es 22 1999 
+
+No. 97-1992 
+
+a 
+In the Supreme Court of the United States 
+
+OCTOBER TERM, 1998 
+
+VAUGHN L. MURPHY, PETITIONER 
+
+UNITED PARCEL SERVICE, INC. 
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+BRIEF FOR THE UNITED STATES 
+AND THE EQUAL EMPLOYMENT OPPORTUNITY 
+COMMISSION AS AMICUS CURIAE 
+SUPPORTING PETITIONER 
+
+C. GREGORY STEWART 
+General Counsel 
+
+PHILIP B. SKLOVER 
+Associate Genera! Counsel 
+
+CAROLYN L. WHEELER 
+Assistant General Counsel 
+
+PAULA R. BRUNER 
+Attorney 
+Equal Employment 
+
+Opportunity Commission 
+
+Washington, D.C. 20507 
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+BILL LANN LEE 
+Acting Assistant Attorney 
+General 
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+
+JAMES A. FELDMAN 
+Assistant to the Solicitor 
+General 
+JESSICA DUNSAY SILVER 
+SETH M. GALANTER 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+— PEELE! — ——— E ä 
+
+QUESTIONS PRESENTED 
+
+1. Whether the determination if petitioner’s se- 
+vere, Stage IV hypertension is a “disability” under the 
+Americans with Disabilities Act, 42 U.S.C. 12102(2)(A), 
+should be made without consideration of mitigating 
+measures such as medication. 
+
+2. Whether there are genuine issues of disputed, 
+material fact concerning whether respondent “re- 
+garded” petitioner as “disabled” when respondent fired 
+him because of his high blood pressure. 
+
+TABLE OF CONTENTS 
+
+Interest of the United States 
+Statement 
+Summary of argument 
+Argument 
+I. Mitigating measures should not be considered 
+in determining whether a person has a “dis- 
+ability” under the Americans with Disabilities 
+Act 
+
+our 
+
+A. Congress intended that the existence of 
+
+an actual disability should be assessed 
+
+without taking into account mitigating 
+
+measures 9 
+B. The agencies charged with enforcing the 
+
+ADA have determined that mitigating 
+
+measures should not be taken into account, 
+
+and that determination is entitled to 
+
+deference 16 
+
+C. The court of appeals erred in ruling that 
+petitioner is not disabled 20 
+II. Respondent could be found to have regarded 
+petitioner as disabled because it viewed him 
+as substantially limited in the major life 
+activity of working 21 
+Conclusion 30 
+
+TABLE OF AUTHORITIES 
+Cases: 
+Arnold v. United Parcel Serv., Inc., 136 F.3d 
+854 (Ist Cir. 1998) 11,13 
+Auer v. Robbins, 519 U.S. 452 (1997) 18 
+
+Bartlett v. New York State Bd. of Law Examiners, 
+156 F.3d 321 (2d Cir. 1998) 12 
+
+(IID) 
+
+IV 
+
+Cases—Continued: 
+
+Bowles v. Seminole Rock & Sand Co., 325 US. 
+410 (1945) 
+
+Bragdon v. Abbott, 524 U.S. 624 (1998) 
+
+Brotherhood of Locomotive Engers v. Atchison, 
+
+Topeka & Santa Fe R.R., 516 U.S. 152 (1996) 
+
+Chevron U.S.A. Inc. v. Natural Resources Defense 
+Council, Inc., 467 U.S. 837 (1984) 
+Daugherty v. City of El Paso, 56 F. 3d 695 (5th 
+
+Cir. 1995), cert. denied, 516 U.S. 1172 (1996) .............. 
+
+Doane v. City of Omaha, 115 F.3d 624 (8th Cir. 
+1997), cert. denied, 522 U.S. 1048 (1998) 
+
+17, 18, 19 
+
+jesese 29 
+
+12 
+
+EEOC v. Arabian Am. Oil Co., 499 U.S. 244 
+(1991) 
+
+EEOC v. Commercial Office Prods. Co., 486 U.S. 
+107 (1988) 
+
+Ford Motor Credit Co. v. Milhollin, 444 U.S. 555 
+(1980) 
+
+Harris v. H&M Contracting Co., 102 F.3d 516 
+(11th Cir. 1996) 
+
+Longoria v. Harris, 554 F. Supp. 102 (S. D. Tex. 
+1982) 
+
+Matczak v. Frankford Candy & Chocolate Co., 
+136 F gd 933 (3d Cir. 1997) 
+
+17 
+
+National Muffler Dealers Ass'n v. United States, 
+
+440 U.S. 472 (1979) 
+
+Regions Hosp. v. Shalala, 118 S. Ct. 909 (1998 
+
+Reynolds v. Brock, 815 F.2d 571 (9th Cir. 
+1987) 
+
+— 17 
+
+School Bd. v. Arline, 480 U.S. 273 (1987) 
+Strathie v. Department of Transp., 716 F 2d 227 
+(3d Cir. 1983) 
+
+Sutton v. United Air Lines, Inc., 130 F.3d 898 
+(10th Cir. 1997), cert. granted, No. 97-1943 (Jan. 8, 
+
+1999) 
+
+4,5, 20 
+
+Cases—Continued: Page 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 
+
+504 (1994) 18 
+United States v. Moore, 95 U.S. 760 (1877) 20 
+United States v. Sheffield Bd. of Comm vs, 
+
+435 U.S. 110 (1978) 20 
+Washington v. HCA Health Servs., 152 F 3d 
+
+464 (5th Cir. 1996) 17 
+Zuber v. Allen, 396 U.S. 168 (1969) 20 
+
+Statutes, regulations and rule: 
+Americans with Disabilities Act of 1990, 42 U.S.C. 
+12101 et seq. passim 
+
+42 U.S.C. 12102(2) 3 
+42 U.S.C. 12102(2)(A) 8, 21 
+42 U.S.C. 121020) 21 
+42 U.S.C. 12111(8) 8, 14, 27 
+42 U.S.C. 12112(a) 7-8, 15, 26, 29 
+42 U.S.C. 121 1b. NA) 13, 14 
+42 U.S.C. 121184 29 
+42 U.S.C. 12113(b) 15, 28, 29 
+42 U.S.C. 12116 17 
+42 U.S.C. 12149 19 
+42 U.S.C. 12164 19 
+
+Rehabilitation Act § 503(b), 29 U.S.C. 793(b) 12 
+
+28 C. F. R.: 
+Pt. 35 App. A § 35.104 19 
+Pt. 36 App. A § 36.104 19 
+
+29 C. F. R. Pt. 1630: 
+Section 1630. 20h (01) 90 
+Section 1630.2 20 
+Section 1630.2(j)(1) 21-22 
+Section 1630.2(j)(1 (ii) 20-21 
+Section 1630.2(j2) 22 
+Section 1630.2(j)(3) 4 
+Section 1630.2(j)(3)(i) 22, 25 
+Section 1630.15(e) 15, 29 
+
+§ 1630.2(r) 
+41 C. F. R. Pt. 60-741 (1990): 
+Section 60-741.2 
+App. A 
+49 C. F. R. 
+Pt. 37: 
+Section 37.3 
+Pt. 390: 
+Section 390.3(a) 
+Pt. 391: 
+Section 391.41(b)(6) 
+Section 391.41(b\(7) 
+Section 391.43(f) 
+Fed. R. Civ. P. 56(c) 
+Miscellaneous: 
+134 Cong. Rec.: 
+p. H 2894 (daily ed. May 3, 1988) 
+p. 85108 (daily ed. Apr. 28, 1988) 
+135 Cong. Rec. (daily ed. Sept. 7, 1989): 
+p. 84985 
+p. 84987 
+p. $10,711 
+136 Cong. Rec. H2428 (daily ed. May 17, 1990) 
+EEOC, A Technical Assistance Manual on the 
+Employment Provisions (Title I of the Americans 
+with Disabilities Act (1992) 
+2 EEOC, Compliance Manual (1995) 
+41 Fed. Reg. 16,149 (1976) 
+42 Fed. Reg. 22,685 (1977) 
+
+16, 19 
+
+VII 
+Miscellaneous Continued: Page 
+56 Fed. Reg. (1991): 
+pp. 35,727-35,728 18 
+p. 45,584 19 
+p. 45,585 19 
+
+Medical Advisory Criteria for Evaluation Under 49 
+CFR Part 391.41 (last modified Apr. 8, 1998) http:// 
+/medical.htm 
+
+mcregis.fhwa.dot.gov. 23-24 
+H.R. Rep. No. 485, 101st Cong., 2d Sess. (1990): 
+pt. 2 6, 10, 11, 12 
+pt. 3 6, 10 
+S. Rep. No. 116, 101st Cong., Ist Sess. (1989) 6, 9, 
+10, 11, 12 
+US. Dep't of Justice: 
+The Americans with Disabilities Act: Title II 
+Technical Assistance Manual (1992) 19 
+The Americans with Disabilities Act: Title III 
+Technical Assistance Manual (1992) 19 
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+No. 97-1992 
+
+VAUGHN L. MURPHY, PETITIONER 
+2. 
+UNITED PARCEL SERVICE, INC. 
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+BRIEF FOR THE UNITED STATES 
+AND THE EQUAL EMPLOYMENT OPPORTUNITY 
+COMMISSION AS AMICUS CURIAE 
+SUPPORTING PETITIONER 
+
+INTEREST OF THE UNITED STATES 
+
+This case concerns the definition of “disability” in the 
+Americans with Disabilities Act of 1990 (ADA), 42 
+U.S.C. 12101 et seg. Congress delegated to the Equal 
+Employment Opportunity Commission (EEOC) and 
+Department of Justice authority to promulgate regula- 
+tions and to enforce the provisions of the ADA. Both 
+agencies have issued extensive regulations and inter- 
+pretive guidance concerning the definition of the term 
+“disability.” The EEOC participated as amicus curiae 
+in this case in the court of appeals. In response to the 
+Court’s invitation, the United States and the EEOC 
+filed a brief as amicus curiae at the petition stage in 
+this case. 
+
+(1) 
+
+2 
+STATEMENT 
+
+1. Petitioner has had high blood pressure (hyperten- 
+sion) since he was ten years old. For 22 years, peti- 
+tioner worked as a mechanic. Pet. App. 13a. Despite 
+the fact that his blood pressure was very high (approxi- 
+mately 250/160, see id. at 9a), it was controlled by 
+medication. His own physician and respondent’s physi- 
+cian both testified that, with medication, petitioner’s 
+“hypertension does not significantly restrict his activi- 
+ties and that in general he can function normally and 
+can engage in activities that other persons normally 
+do.” Id. at 13a. 
+
+In August 1994, respondent hired petitioner as a 
+mechanic, a position that required him to drive com- 
+mercial motor vehicles on “road tests” and “road calls,” 
+and which therefore required satisfaction of Depart- 
+ment of Transportation requirements. Pet. App. 13a- 
+14a. Among those requirements is that the driver of a 
+commercial motor vehicle in interstate commerce h las 
+no current clinical diagnosis of high blood pressure 
+likely to interfere with his/her ability to operate a com- 
+mercial motor vehicle safely.“ 49 C. F. R. 391.41(b)(7). 
+The district court construed a subsequent DOT publi- 
+cation to provide that “in order to be physically quali- 
+fied to drive a commercial motor vehicle * * *, an 
+individual must maintain blood pressure less than or 
+equal to 160/90.” Pet. App. 16a. See note 10, infra. 
+
+3 
+
+At the time he was hired, petitioner’s blood pressure 
+was measured as 186/124. Pet. App. 16a. In September 
+1994, when respondent realized that petitioner’s blood 
+pressure exceeded 160/90, petitioner was retested; his 
+blood pressure was approximately 160/104. See Pet. 2. 
+Petitioner’s treating physician “testified that [peti- 
+tioner] is unable to use medication to reduce his blood 
+pressure below 160/100 without suffering severe side 
+effects.” Pet. App. 16a. On October 5, 1994, respondent 
+fired petitioner. Jd. at 17a. 
+
+The term “disability” means, with respect to an 
+individual — 
+
+(A) a physical or mental impairment that sub- 
+stantially limits one or more of the major life 
+activities of such individual; 
+
+(B) arecord of such an impairment; or 
+
+(C) being regarded as having such an impair- 
+ment. 
+
+42 U.S.C. 12102(2). 
+
+The district court held that, for purposes of deter- 
+mining whether petitioner had shown that he had a 
+disability, his “impairment should be evaluated in its 
+medicated state.” Pet. App. 29a. The court noted that 
+“(t]he only limitation specifically set by [petitioner’s] 
+treating physician” was a restriction on repetitive lift- 
+ing of items weighing 200 pounds or more. Id. at 31a; 
+see also id. at 13a (“[Petitioner’s] own physician and 
+UPS’ medical expert each testified that [petitioner’s] 
+hypertension does not significantly restrict his activi- 
+ties and that in general he can function normally and 
+
+4 
+
+can engage in activities that other persons normally 
+do.”). Analyzing whether petitioner was substantially 
+limited in his major life activity of working, the court 
+stated that such a limitation “is not of such a nature as 
+to significantly restrict him in his ability to perform 
+either a class of jobs or a broad range of jobs in various 
+classes as compared to the average person having com- 
+parable training, skills and abilities,” and that therefore 
+petitioner’s “high blood pressure and its concomitant 
+effects do not constitute a disability under the ADA.” 
+Id. at 31a." 
+
+Addressing the “regarded as” prong of the statutory 
+definition of “disability,” the district court concluded 
+that “[respondent] did not regard [petitioner] as dis- 
+abled, only that he was not certifiable under DOT 
+regulations.” Pet. App. 32a. The court added that 
+petitioner was not qualified for the job, id. at 33a-35a, 
+that in any event respondent’s purported compliance 
+with DOT regulations was a complete defense to 
+petitioner’s ADA claim, id. at 35a-37a, and that any 
+accommodation by respondent to petitioner’s condition 
+“would have been an undue hardship on [respondent],” 
+id. at 37a. 
+
+3. The court of appeals affirmed in an unpublished 
+opinion. Pet. App. la-6a. The court noted that peti- 
+tioner’s own doctor had testified that “when his high 
+blood pressure is medicated, he ‘functions normally 
+doing everyday activity that an everyday person 
+does.“ Id. at 4a. Relying on its holding in Sutton v. 
+United Air Lines, Inc., 130 F.3d 893, 902 (1997), cert. 
+granted, No. 97-1943 (Jan. 8, 1999), that the “substantial 
+
+| Cf. 29 C. F. R. 1630.2(jX8) (“With respect to the major life 
+activity of working[,] [t]he term substantially limits means 
+significantly restricted in the ability to perform either a class of 
+jobs or a broad range of jobs in various classes.”). 
+
+5 
+
+limitation” inquiry should assess the individual after 
+mitigating or corrective measures are taken, the court 
+held that petitioner’s high blood pressure is therefore 
+not a disability. bid. 
+
+SUMMARY OF ARGUMENT 
+
+I. The court of appeals’ conclusion that petitioner 
+had not shown an actual disability was wrong. There 
+appears to be no dispute that petitioner has hyperten- 
+sion so severe that, if left unmedicated, it substantially 
+limits all or most of his major life activities. Therefore, 
+he has an actual disability. The fact that petitioner 
+takes medication to relieve his condition may be rele- 
+vant to a number of inquiries under the ADA, such as 
+whether a requested accommodation by the employer is 
+reasonable, whether the medication is sufficiently effec- 
+
+6 
+
+tive to render him qualified to perform his job, whether 
+petitioner can satisfy federal safety standards, and 
+whether he poses a direct threat to the health or safety 
+of others. But the fact that he takes mitigating mea- 
+sures is of no relevance in the threshold inquiry as to 
+whether he is disabled. 
+
+Although the ADA does not in terms address 
+whether mitigating measures are to be taken into 
+account in assessing the existence of a disability, Con- 
+gress’s intent on the question is clear. The relevant 
+committee reports each stated with unusual clarity that 
+“{wJhether a person has a disability should be assessed 
+without regard to the availability of mitigating mea- 
+sures, such as reasonable accommodations or auxiliary 
+aids.” S. Rep. No. 116, 101st Cong., Ist Sess. 23 (1989); 
+H.R. Rep. No. 485, 101st Cong., 2d Sess., pt. 2, at 52 
+(1990); see also id., pt. 3, at 28. Moreover, assessing the 
+existence of a disability without regard to mitigating 
+measures is most consistent with the ADA’s basic pur- 
+pose to eliminate the exclusion of individuals from the 
+workplace because of outdated stereotypes and myths 
+about those individuals’ abilities. 
+
+Assessing the existence of a disability without regard 
+to mitigating measures is also most consonant with the 
+structure of the statute, which, as noted above, 
+provides for addressing issues arising out of the use of 
+mitigating measures at stages of the analysis beyond 
+the threshold determination of whether a disability 
+exists. And it would inject uncertainty and instability 
+into the system, because individuals could gain and lose 
+status as “disabled” depending on the changing effec- 
+tiveness of their regimen of mitigating measures and 
+their changing decisions regarding whether those mea- 
+sures are warranted in light of their unwanted side 
+effects. 
+
+7 
+
+The agencies entrusted with issuing regulations to 
+carry out the ADA have consistently taken the position 
+that the existence of a disability should be assessed 
+without regard to mitigating measures. The EEOC has 
+taken that position in interpretive guidelines that 
+were subject to notice and comment at the same time 
+as—and together with—the formal ADA regulations. 
+Because the EEOC’s guidelines state its interpretation 
+of its own ADA regulations, they are entitled to con- 
+trolling weight, and they therefore establish that 
+mitigating measures should not be taken into account in 
+assessing the existence of a disability. 
+
+II. The court of appeals also erred in holding that 
+petitioner was not “regarded as” disabled under the 
+third prong of the statutory definition of “disability.” 
+Respondent asserted that it dismissed petitioner be- 
+cause petitioner’s blood pressure was too high to satisfy 
+a federal requirement for driving a commercial motor 
+vehicle in interstate commerce. If respondent were 
+correct, that would establish that petitioner, because 
+of his impairment (hypertension), was substantially 
+limited in the major life activity of working, i.e., he was 
+severely restricted in a broad class of jobs for which his 
+training and skills otherwise qualified him. At this 
+threshold stage of the inquiry, it would be of no signifi- 
+cance whether or not respondent bore any animus 
+toward petitioner and whether or not respondent were 
+correct in its view that petitioner could not satisfy the 
+federal requirement. So long as respondent regarded 
+petitioner as substantially limited in the major life 
+activity of working, petitioner satisfied the statutory 
+definition of being “regarded as” disabled. 
+
+To accept the court of appeals’ theory would permit 
+employers to circumvent the ADA’s “qualification” in- 
+quiry in any “regarded as” case. The ADA prohibits 
+discrimination only against a “qualified individual with 
+
+8 
+
+a disability.” 42 U.S.C. 12112(a) (emphasis added). 
+Accordingly, if respondent indeed regarded petitioner 
+as unqualified under DOT medical standards, that may 
+be relevant to whether petitioner is “qualified” for the 
+job, though issues would remain regarding whether 
+respondent’s views of petitioner were correct and 
+whether driving a truck is an “essential function” of 
+the job, see 42 U.S.C. 12111(8). But respondent’s 
+views concerning petitioner’s qualifications do not 
+establish—or even support—respondent’s contention 
+that it did not regard petitioner as “disabled.” 
+
+ARGUMENT 
+
+I. MITIGATING MEASURES SHOULD NOT BE 
+CONSIDERED IN DETERMINING WHETHER A 
+PERSON HAS A “DISABILITY” UNDER THE 
+AMERICANS WITH DISABILITIES ACT 
+
+Petitioner’s high blood pressure is a “physical * * * 
+impairment.” As this Court explained in Bragdon, 
+Congress’s “repetition” in the ADA of that “well-estab- 
+lished term carries the implication that Congress 
+intended the term to be construed in accordance with 
+pre-existing regulatory interpretations.” 118 S. Ct. at 
+
+9 
+
+2202. Under those interpretations, codified without 
+relevant change in the EEOC’s regulations implement- 
+ing the ADA, see 29 C.F.R. 1630.2(h)(1), a “physical 
+* * * impairment” is Jalny physiological disorder, or 
+condition * * * affecting” a number of named body 
+systems, including the cardiovascular system. Ibid. 
+Petitioner’s hypertension is a “physiological disorder” 
+and it affects his cardiovascular system. Accordingly, 
+he has a “physical impairment” within the meaning of 
+the Act. 
+
+In determining whether petitioner is disabled within 
+the meaning of the “actual disability” prong of the 
+ADA, the remaining question is whether petitioner’s 
+impairment “substantially limits” any of petitioner’s 
+major life activities. The answer to that question turns 
+on whether petitioner’s impairment is viewed in its 
+mitigated or unmitigated state. 
+
+A. Congress Intended That The Existence Of An Actual 
+
+Disability Should Be Assessed Without Taking Into 
+Account Mitigating Measures 
+
+The text of the ADA itself does not define “sub- 
+stantially limits” and therefore does not answer the 
+question whether the inquiry into substantial limitation 
+of a major life activity is to be undertaken with or 
+without taking into account mitigating measures. The 
+legislative history of the statute and its structure, how- 
+ever, indicate that Congress intended that the exis- 
+tence of an actual disability is to be analyzed without 
+regard to mitige ung or ameliorative measures. 
+
+1. Both the Senate and House Committee Reports 
+on the ADA state in plain and direct terms that 
+“[wJhether a person has a disability should be assessed 
+without regard to the availability of mitigating mea- 
+sures, such as reasonable accommodations or auxiliary 
+aids.” S. Rep. No. 116, 101st Cong., Ist Sess. 23 (1989) 
+
+10 
+
+(Senate Rep.); H.R. Rep. No. 485, 101st Cong., 2d Sess., 
+pt. 2, at 52 (1990) (House Labor Rep.): see also id., pt. 3, 
+at 28 (1990) (House Judiciary Rep.) (“The impairment 
+should be assessed without considering whether miti- 
+gating measures, such as auxiliary aids or reasonable 
+accommodations, would result in a less-than-substantial 
+limitation.”). That expression of Congress’s under- 
+standing, repeated in the three reJevant committee 
+reports on the ADA, is unusually ele Aid unequivocal, 
+and it makes Congress’s intent unmistakable. 
+
+The House Reports on the ADA reinforced the point 
+by reciting specific examples of individuals who are 
+disabled notwithstanding their use of mitigating mea- 
+sures that control their impairment: 
+
+[A] person who is hard of hearing is substantially 
+limited in the major life activity of hearing, even 
+though the loss may be corrected through the use of 
+a hearing aid. Likewise, persons with impairments, 
+such as epilepsy or diabetes, which substantially 
+limit a major life activity are covered under the first 
+prong of the definition of disability, even if the 
+effects of the impairment are controlled by 
+medication. 
+
+House Labor Rep. at 52; accord House Judiciary Rep. 
+
+at 28-29." 
+
+2 In discussing the third (“regarded as”) prong of the disability 
+definition, the Senate Report also states that an 
+important goal of the third prong of the [disability] definition is 
+to ensure that persons with medical conditions that are under 
+control, and that therefore do not currently limit major life 
+activities, are not discriminated against on the basis of their 
+medical conditions. For example, individuals with controlled 
+diabetes or epilepsy are often denied jobs for which they are 
+qualified. Such denials are the result of negative attitudes and 
+‘inf ; 
+
+11 
+
+2. This specific evidence of congressional intent on 
+the question presented in this case is consistent with 
+the overall structure and purpose of the statute. See 
+Brotherhood of Locomotive Engers v. Atchison, Topeka 
+& Santa Fe R. R., 516 U.S. 152, 157 (1996) ([The statu- 
+tory classification must be understood in accord with 
+that objective.”). Congress determined that “not work- 
+ing is perhaps the truest definition of what it means to 
+be disabled in America.” Senate Rep. at 9; House 
+Labor Rep. at 32.“ In defining the scope of those 
+covered by the ADA, Congress clearly intended to 
+include those who could function in the workplace, but 
+were excluded by the “discrimination by employers 
+[that] remains an inexcusable barrier to increased 
+employment of disabled people.” Senate Rep. at 9; 
+House Labor Rep. at 33; see also id. at 43-46. To 
+read the statute to exclude from its protections indivi- 
+duals who have mitigated their impairments (through 
+either assistive devices or medicines, or self-adapta- 
+
+Senate Rep. at 24. An individual may fall within more than one of 
+the three prongs of the Act’s definition of disability, and some 
+impairments may present borderline cases with respect to one 
+prong but not another. Accordingly, the Senate Committee’s 
+comment that the “regarded as” prong “ensure[{s]” protection of an 
+individual with “controlled diabetes or epilepsy” under the Act is 
+not inconsistent with the clear and unequivocal statements in the 
+Senate Report and the two House Reports that such individuals 
+would be covered under the “actual disability” prong as well. See 
+Arnold v. United Parcel Serv., Inc., 136 F.3d 854, 860 (Ist Cir. 
+1998). | 
+
+See also 136 Cong. Rec. H2428 (daily ed. May 17, 1990) (Rep. 
+Owens); 135 Cong. Rec. $10,711 (daily ed. Sept. 7, 1989) (Sen. 
+Harkin); id. at $4985, S4987 (daily ed. May 9, 1989) (Sen. Harkin); 
+134 Cong. Rec. H2894 (daily ed. May 3, 1988) (Rep. Owens); id. at 
+$5108 (daily ed. Apr. 28, 1988) (Sen. Weicker). 
+
+12 
+tions*) would negate one of the “critical goal{s] of this 
+legislation—to allow individuals with disabilities to be 
+part of the economic mainstream of our society.” Senate 
+Rep. at 10; House Labor Rep. at 34.° 
+
+See Bartlett v. New York State Bd. of Law Examiners, 156 
+F.3d 321, 329 (2d Cir. 1998); Doane v. City of Omaha, 115 F.3d 624, 
+627-628 (8th Cir. 1997), cert. denied, 522 U.S. 1048 (1998). 
+
+C. F. R. Pt. 60-741 App. A (1990) (interpretive guidance). 
+
+13 
+
+3. The structure of the ADA provides strong sup- 
+port for the proposition that mitigating measures 
+should not be taken into account in determining the 
+existence of a disability at the initial stage of the 
+inquiry. Mitigating measures and reasonable accom- 
+modations are both types of “adjustments” that may 
+have to be made on account of a disabling condition. 
+Congress consistently provided in the ADA that the 
+effectiveness of such adjustments should be considered 
+after the initial determination of disability, and not as a 
+part of that threshold inquiry. 
+
+An employer must make “reasonable accommoda- 
+tions to the known physical or mental limitations of an 
+otherwise qualified individual with a disability.” 42 
+U.S.C. 12112(b)(5)(A). Accommodations provided by an 
+employer are similar to mitigating measures taken by 
+an employee in that they are both types of adjustments 
+that make it possible for a disabled person to work. 
+Under the court of appeals’ construction of the ADA, an 
+impairment that requires mitigating measures is not a 
+protected disability, while an impairment that requires 
+employer accommodations is. “It is hard to imagine 
+that Congress wished to provide protection to workers 
+who leave it to their employer to accommodate their 
+impairments but to deny protection to workers who act 
+independently to overcome their disabilities, thereby 
+creating a disincentive to self-help.” Arnold v. United 
+Parcel Serv., Inc., 136 F.3d 854, 863 n.7 (Ist Cir. 1998). 
+
+Indeed, the two types of adjustment are often in- 
+extricably intertwined. Mitigating measures taken by 
+an employee will often require some accommodation by 
+the employer. For example, an employee may develop 
+a serious and chronic medical condition that can be 
+effectively controlled only by taking oral medication 
+several times a day. In many employment situations, 
+giving the employee a brief break so that the employee 
+
+14 
+
+could take the medication would be a reasonable accom- 
+modation. Yet, under the court of appeals’ theory here, 
+the employer could refuse that accommodation, because 
+the employee—by virtue of his medication—ceases to 
+be disabled and is therefore not entitled to the protec- 
+tions of the ADA. 
+
+The example can be generalized. Instead of requiring 
+reasonable changes to the work environment (as when a 
+reasonable accommodation is requested), an employee 
+with a disability for which mitigating measures are 
+taken simply requests the employer reasonably to 
+accommodate the employee’s condition by not penaliz- 
+ing the employee for taking the mitigating measure. 
+Ironically, however, under the court of appeals’ theory, 
+in cases in which the mitigating measure is most 
+effective and imposes the least burden on the employer, 
+the employer would be most free to refuse it. Thus, an 
+employee who requires a modification of his work 
+duties because it is necessary to accommodate his un- 
+controllable high blood pressure may well be entitled to 
+it (so long as it does not impose an undue hardship on 
+the employer, see 42 U.S.C. 12112(b)(5)(A), or alter the 
+essential functions of the job, see 42 U.S.C. 12111(8); 29 
+C. F. R. Pt. 1630 App. § 1630.2(0)). And an employee 
+whose high blood pressure can be somewhat controlled 
+by medication but who still must observe substantial 
+limitations on his activities would also be entitled to 
+reasonable accommodations from the employer. But 
+the employee who takes medication that effectively 
+controls the employee’s high blood pressure would not 
+be entitled to any accommodation from the employer— 
+not even the simple permission from the employer to 
+take the medication without losing his job or suffering 
+other discrimination on the basis of impairment. 
+
+The effectiveness of the adjustment, whether in the 
+form of mitigating measures or reasonable accommoda- 
+
+15 
+
+tions, is properly addressed by other ADA provisions, 
+not as part of the threshold determination of liability. 
+For example, the basic anti-discrimination mandate 
+under the ADA does not come into play unless the 
+employee is not only disabled but also “qualified” for 
+the position in question. 42 U.S.C. 12112(a). If there is 
+a question whether particular mitigating measures 
+render the employee able to do the job, the ADA pro- 
+vides for addressing that issue through the inquiry into 
+whether the employee is “qualified,” not the initial 
+inquiry into disability. If there is a question whether 
+the mitigating measures enable the employee to per- 
+form the job safely or to be in compliance with federal 
+safety regulations, the ADA permits the employer to 
+take adverse action if the employee is “a direct threat 
+to the health or safety of other individuals in the 
+workplace.” 42 U.S.C. 12113(b). See also 29 C.F.R. 
+1630.15(e) (“It may be a defense to a charge of 
+discrimination * that a challenged action is 
+required or necessitated by another Federal law or 
+reguiation.”). The provisions in the Act addressing all 
+of these “adjustment” questions at later stages of the 
+analysis suggest that they should not be imported into 
+the threshold disability determination—as the court of 
+appeals’ interpretation would require. 
+
+4. Finally, the court of appeals’ theory would lead 
+to a strange instability in the definition of disability. 
+Determining whether an impairment substantially 
+limits a major life activity is relatively straightforward, 
+because it does not require difficult distinctions to be 
+drawn among impairments based on the extent to 
+which they can be ameliorated with medications or 
+assistive devices and the extent to which the medica- 
+tions or devices impose new limitations or uncertainty 
+themselves. Indeed, many forms of medication and 
+other mitigating measures vary in their effectiveness 
+
+16 
+
+over time and may be accompanied by unwanted side 
+effects. Under the court of appeals’ theory that miti- 
+gating measures must be taken into account, an 
+individual with an impairment that would be disabling 
+if unmedicated would gradually become disabled if the 
+medication loses its effectiveness, until new effective 
+medication is obtained and the cycle would begin again. 
+Or an individual’s status would alternate between dis- 
+abled and non-disabled as the individual altered his 
+assessment of the desirability of taking an available 
+medication. Although the EEOC has stated that 
+“temporary, non-chronic impairments of short duration, 
+with little or no long term or permanent impact, 
+are usually not disabilities,” 29 C.F.R. Pt. 1630 App. 
+§ 1630.2(j), that regulation provides little guidance in 
+addressing the moving target of disability under the 
+court of appeals’ theory in these kinds of cases. The 
+result of requiring that mitigating measures should be 
+taken into account, therefore, would be to inject con- 
+siderable uncertainty into what should be a relatively 
+straightforward threshold determination of the exis- 
+tence of a disability. 
+
+B. The Agencies Charged With Enforcing The ADA Have 
+Determined That Mitigating Measures Should Not Be 
+Taken Into Account, And That Determination Is 
+Entitled To Deference 
+
+17 
+
+with the enforcement of the statute and should be 
+followed in the instant case. 
+
+Congress required the EEOC to “issue regulations 
+* * to carry out [Title I of the ADA].“ 42 U.S.C. 
+12116. “As the agency directed by Congress to issue 
+implementing regulations, to render technical assis- 
+tance explaining the responsibilities of covered in- 
+dividuals and institutions, and to enforce Title [I] in 
+court, the [EEOC]’s views are entitled to deference.” 
+Bragdon, 118 S. Ct. at 2209 (statutory citations omitted; 
+citing Chevron, 467 U.S. at 844). “Such legislative 
+regulations are given controlling weight unless they are 
+
+See Washington v. HCA Health Servs., 152 F.3d 464, 467 
+(5th Cir. 1998) (“the text of the ADA is not unambiguously clear on 
+this matter”); Matezał v. Frankford Candy & Chocolate Co., 136 
+F.3d 933, 937 (3d Cir. 1997) (the ADA itself does not say 
+whether mitigating measures should be considered”); Harris v. H 
+& W Contracting Co., 102 F.3d 516, 521 (11th Cir. 1996) (“nothing 
+in the language of the statute itself * * * rules out” determining 
+“the existence of a substantial limitation without regard to 
+mitigating measures”). 
+
+18 
+
+arbitrary, capricious, or manifestly contrary to the 
+statute.” Chevron, 467 U.S. at 844." In determining the 
+meaning of such regulations, similarly, “the ultimate 
+criterion is the administrative interpretation, which 
+becomes of controlling weight unless it is plainly 
+erroneous or inconsistent with the regulation.” Bowles 
+v. Seminole Rock & Sand Co., 325 U.S. 410, 414 (1945); 
+see Auer v. Robbins, 519 U.S. 452, 461 (1997); Thomas 
+Jefferson Univ. v. Shalala, 512 U.S. 504, 512 (1994). 
+Although the EEOC’s regulation regarding the 
+meaning of the term “substantially limits” does not 
+itself expressly address the issue of whether mitigating 
+measures should be taken into account, the EEOC has 
+consistently interpreted its regulation to mean that 
+mitigating measures are not to be considered in making 
+the “substantial limitation” determination. First, to 
+“respond to comments [to its proposed regulations] 
+from disability rights groups, which were concerned 
+that the discussion could be misconstrued to exclude 
+from ADA coverage individuals with disabilities who 
+function well because of assistive devices or other 
+mitigating measures,” the EEOC explained that “the 
+determination of whether an impairment substantially 
+limits one or more major life activities is to be made 
+without regard to the availability of medicines, assistive 
+devices, or other mitigating measures.” 56 Fed. Reg. 
+35,727-35,728 (1991). Second, at the same time as it pro- 
+mulgated the regulations, the EEOC issued an “Inter- 
+
+7 Because Congress expressly delegated the authority to issue 
+binding regulations to the EEOC, these “legislative” regulations 
+are entitled to deference, as opposed to the mere “power to per- 
+suade” value sometimes accorded the EEOC’s interpretations of 
+Title VII published in the Code of Fes eral Regulations. Compare 
+EEOC v. Arabian Am. Oil Co., 499 U. 244, 257 (1991), with id. at 
+260 (Scalia, J., concurring), and EEG v. Commercial Office 
+Prods. Co., 486 U.S. 107, 115 (1988). 
+
+19 
+
+pretive Guidance” that had been subject to the same 
+notice and comment as the regulations. Cf. Bragdon, 
+118 S. Ct. at 2209 (according Chevron deference to, 
+inter alia, administrative guidance interpreting the 
+ADA). The Guidance expressly provides that “(t]he 
+determination of whether an individual is substantially 
+limited in a major life activity must be made on a case 
+by case basis, without regard to mitigating measures 
+such as medicines, or assistive or prosthetic devices.” 
+29 C.F.R. Pt. 1630 App. § 1630.2(j); accord 2 EEOC, 
+Compliance Manual § 902.5 (1995); EEOC, A Techni- 
+cal Assistance Manual on the Employment Provisions 
+(Title I) of the Americans with Disabilities Act, I1-2 
+(1992). 
+
+The Department of Justice, which is charged with 
+promulgating regulations under Titles II and III of the 
+ADA, has reached the same conclusion. See 28 C.F.R. 
+Pt. 35 App. A § 35.104 (“[tJhe question of whether a 
+person has a disability should be assessed without 
+regard to the availability of mitigating measures, such 
+as reasonable modification or auxiliary aids and serv- 
+ices.”); 28 C.F.R. Pt. 36 App. A § 36.104, at 583 (same); 
+U.S. Dep’t of Justice, The Americans with Disabilities 
+Act: Title II Technical Assistance Manual, II-2. 4000 
+(1992) (same); U.S. Dep’t of Justice, The Americans 
+with Disabilities Act: Title III Technical Assistance 
+Manual, III- 2.4000 (1992) (same). 
+
+Deference to administrative agency views is espe- 
+cially appropriate here, as the EEOC and Department 
+of Justice “played a pivotal role in ‘setting [the 
+statutory] machinery in motion.’” Ford Motor Credit 
+
+8 The Department of Transportation, which also has authority 
+to issue regulations under the ADA, 42 U.S.C. 12149, 12164, 
+adopted the Department of Justice’s definition of “disability.” See 
+49 C.F.R. 37.3; 56 Fed. Reg. 45,584, 45,585 (1991). 
+
+20 
+
+Co. v. Milhollin, 444 U.S. 555, 566 (1980). When 
+agencies promulgate their regulations virtually con- 
+temporaneously with a statute’s enactment, utilizing 
+the insights they derived from their participation in the 
+legislative process, the rationale for granting deference 
+is heightened. See National Muffler Dealers Ass’n v. 
+United States, 440 U.S. 472, 477 (1979); United States v. 
+Sheffield Bd. of Comm’rs, 435 U.S. 110, 131 (1978); 
+Zuber v. Allen, 396 U.S. 168, 192 (1969); United States 
+v. Moore, 95 U.S. 760, 763 (1877). 
+
+C. The Court Of Appeals Erred In Ruling That Peti- 
+tioner Is Not Disabled 
+
+In this case, neither the district court nor the court of 
+appeals assessed petitioner’s impairment in its unmiti- 
+gated state. Petitioner has asserted that the record 
+shows that in an unmitigated state his severe hyperten- 
+sion would damage his kidneys, heart, and eyes, and 
+would lead to almost immediate hospitalization, Pet. 7; 
+Pet. C.A. Br. 18-19, which would substantially limit him 
+in the major life activities of “caring for oneself, per- 
+forming manual tasks, walking, seeing, * and 
+working.” 29 C.F.R. 1630.2(i) (defining “major life 
+activities”); Bragdon, 118 S. Ct. at 2205 (approving 
+identical regulatory definition of “major life activities”). 
+If petitioner can prove those facts, he is disabled under 
+the ADA. 
+
+We note, as we explain in our amicus brief (at 11-12) 
+in Sutton v. United Air Lines, No. 97-1943, that it is not 
+enough to simply place into evidence that an individual 
+has a diagnosable disorder or would be worse off 
+without the mitigating measure. A plaintiff may not 
+prevail under the “actual disability” prong of the defini- 
+tion unless the evidence shows that the unmitigated 
+impairment restricts the “condition, manner or duration 
+under which an individual can perform a particular 
+
+21 
+
+major life activity” compared to “the average person.” 
+29 C. F. R. 1630.2(j)(1)\(ii). If, as petitioner contends, he 
+would have to be hospitalized, then he would of course 
+meet that requirement, as he would be substantially 
+limited in many life activities; unlike the “average 
+person,” an individual hospitalized for high blood 
+pressure could not, for example, care for him or herself 
+or work regularly. Thus, respondent was not entitled 
+to summary judgment on the ground that petitioner did 
+not have a “disability” under Section 12102(2)(A). 
+
+Il. RESPONDENT COULD BE FOUND TO HAVE 
+REGARDED PETITIONER AS DISABLED BE- 
+CAUSE IT VIEWED HIM AS SUBSTANTIALLY 
+LIMITED IN THE MAJOR LIFE ACTIVITY OF 
+WORKING 
+
+An individual is “disabled” under the ADA not only if 
+the individual has an impairment “that substantially 
+limits one or more of the major life activities of such 
+individual,” 42 U.S.C. 12102(2)(A), but also if the 
+individual is “regarded as having such an impairment,” 
+42 U.S.C. 12102(2)(C). The record in this case demon- 
+strated that respondent regarded petitioner as having 
+an impairment (his high blood pressure, whether 
+viewed in the mitigated or unmitigated state) that sub- 
+stantially limited petitioner in the major life activity of 
+working. The Tenth Circuit erred in ruling to the 
+contrary. 
+
+As noted above, the EEOC regulations generally 
+provide that an individual is substantially limited in a 
+major life activity if the individual is “[uJnable to per- 
+form a major life activity that the average person in the 
+general population can perform” or is “(significantly 
+restricted as to the condition, manner or duration under 
+which” the individual can perform the activity as 
+compared to the “average person in the general popula- 
+
+22 
+
+tion.” 29 C.F.R. 1630.2(j)(1).’ The regulations provide 
+special guidance, however, for determining the sub- 
+stantiality of a limitation on the major life activity of 
+working. In that context, the regulations provide that 
+At he term substantially limits means significantly re- 
+stricted in the ability to perform either a class of jobs or 
+a broad range of jobs in various classes as compared to 
+the average person having comparable training, skills 
+and abilities.” 29 C. F. R. 1630.2(j)(3)@). The regulations 
+add that “(t]he inability to perform a single, particular 
+job does not constitute a substantial limitation in the 
+major life activity of working.” bid. 
+
+1. There is no dispute in this case that respondent 
+was aware of petitioner’s high blood pressure and of its 
+levels in both the mitigated and unmitigated state, and 
+there appears similarly to be no dispute that high blood 
+pressure is a “disorder” of petitioner’s cardiovascular 
+system. Accordingly, respondent regarded petitioner 
+as having a physical impairment within the meaning of 
+the ADA. In determining whether petitioner is dis- 
+abled under the “regarded as” prong of the definition, 
+therefore, the sole remaining question is whether 
+respondent viewed petitioner’s high blood pressure as 
+substantially limiting one of his major life activities. In 
+this case, petitioner alleges that the relevant major life 
+activity is working. If respondent regarded petitioner’s 
+high blood pressure as substantially limiting that 
+activity (or if there was at least a genuine issue of 
+material fact in this regard, see Fed. R. Civ. P. 56(c)), 
+
+The regulations also provide that At he following factors 
+should be considered in determining whether an individual is 
+substantially limited in a major life activity: (i) The nature and 
+severity of the impairment; (ii) The duration or expected duration 
+of the impairment; and (iii) The permanent or long term impact, or 
+the expected permanent or long term impact of or resulting from 
+the impairment.” 29 C. F. R. 1630.2(j)(2). 
+
+then the grant of summary judgment to respondent was 
+erroneous. 
+
+2. Viewed in the light most favorable to petitioner, 
+the record demonstrates that respondent viewed peti- 
+tioner as substantially limited in the major life activity 
+of working. That evidence consisted of respondent’s 
+consistent explanation that it dismissed petitioner 
+because it believed “that he was not certifiable under 
+DOT regulations.” Pet. App. 32a; see also id. at 5a 
+(“[Respondent] terminated [petitioner] because his 
+blood pressure exceeded the DOT’s requirements for 
+drivers of commercial vehicles.“).“ Respondent clearly 
+
+In our brief at the petition stage of this case (at 17 n.5), we 
+noted that the courts below erred in construing the DOT standards 
+to preclude someone with blood pressure higher than 160/90 from 
+operating a commercial motor vehicle in interstate commerce. The 
+reason for that error has become clear. 
+
+The basic regulation at issue prohibits the operation of com- 
+mercial motor vehicles by individuals who have a “current clinical 
+diagnosis of high blood pressure likely to interfere with his/her 
+ability to operate a commercial motor vehicle safely.” 49 C.F.R. 
+391.41(b)(6) (emphasis added). The regulations further provide 
+that, when an individual is tested under that standard, if the 
+blood pressure is consistently above 160/90 mm. Hg., further tests 
+may be necessary to determine whether the driver is qualified 
+to operate a commercial motor vehicle.” 49 C.F.R. 391.43(f) 
+(emphasis added). Thus, although the general rule prohibits 
+individuals whose high blood pressure would interfere with vehicle 
+operation from operating commercial vehicles, blood pressure 
+above 160/90 does not necessarily or categorically trigger that 
+
+prohibition. 
+
+The district court referred (Pet. App. 15a-16a) to a document 
+that is now entitled “Medical Advisory Criteria for Evaluation 
+Under 49 CFR Part 391.41.“ That document addresses various 
+medical criteria for commercial driver’s licenses, including high 
+blood pressure. In its current version (available at http://mcregis. 
+fhwa.dot.gov/medical.htm (last modified Apr. 8, 1998)), that docu- 
+
+ment begins: 
+
+24 
+
+Unlike regulations which are codified and have a statutory 
+base, the recommendations in this advisory are simply gui- 
+dance established to help the medical examiner determine a 
+driver’s medical qualifications pursuant to Section 391.41 of the 
+Federal Motor Carrier Safety Regulations (FMCSRs). The 
+Office of Motor Carrier Research and Standards routinely 
+sends copies of these guidelines to medical examiners to assist 
+them in making an evaluation. The medical examiner may, but 
+is not required to, accept the recommendations. Section 
+390.3(d) of the FMCSRs allows employers to have more 
+stringent medical requirements. 
+Printed versions of this document are divided into specific sub- 
+documents that address specific medical criteria, and the sub- 
+documents do not include the above-quoted language. But we are 
+informed that DOT has typically sent out printed versions of this 
+document or its subdocuments with a cover letter that includes the 
+above-quoted language or its close equivalent. 
+
+With respect to blood pressure, the medical regulatory criteria 
+recommends that no driver with blood pressure over 181/105 
+should be qualified to operate a commercial motor vehicle and that 
+drivers with blood pressure between 160/90 and 181/105 may drive 
+for three months and then may be retested to determine whether 
+their blood pressure has been reduced to 160/90 or below. But, as 
+the above quoted language makes clear, the fact that petitioner’s 
+blood pressure is above 160/90 does not absolutely preclude him 
+from driving a commercial motor vehicle in interstate commerce. 
+
+The record in this case appears to contain only a 1988 printed 
+version of the subdocument regarding medical criteria for high 
+blood pressure. See C.A. App. 85-87. The medical substance of 
+that document has not changed in relevant respects since 1988. 
+Because the general statements regarding the advisory nature of 
+the document, however, were typically included only in a cover 
+letter—and not in the subdocuments themselves—the version of 
+the blood pressure criteria subdocument in the record does not 
+include the information regarding the nonbinding, advisory status 
+of its recommendations. The courts below accordingly were ap- 
+parently unaware that the document did not state a 
+DOT policy regarding qualifications of individuals with blood 
+pressure above 160/90. We believe it to be important, however, to 
+clarify that DOT currently and at the time of the events in this 
+
+25 
+
+understood—indeed, relied upon—the fact that DOT 
+certification is required for “all employers, employees, 
+and commercial motor vehicles, which transport 
+property or passengers in interstate commerce.” 49 
+C.F.R. 390.3(a). Under any reasonable view of what is 
+a substantial limitation of the major life activity of 
+working, that describes either a “class of jobs or a 
+broad range of jobs in various classes.” 29 C. F. R. 
+1630.2(j(3)i)." Petitioner's inability to perform all 
+such jobs would accordingly be a “substantial limita- 
+tion” on his major life activity of working. Therefore, 
+by regarding petitioner as unable to satisfy the DOT 
+certification requirements, respondent regarded peti- 
+tioner as substantially limited in his major life activity 
+of working. 
+
+case has viewed the medical advisory criteria documents as 
+nonbinding recommendations for medical examiners. By contrast, 
+the regulations state DOT’s official policy regarding the medical 
+qualifications for driving a commercial motor vehicle in interstate 
+commerce. 
+
+1 DOT has informed us that by 1994, when the events at issue 
+in this case occurred, at least 7.1 million commercial drivers 
+
+26 
+
+The court of appeals’ reasoning appears to be based 
+on an unstated premise that an individual’s status as 
+disabled under the “regarded as” prong depends on 
+proof that the employer acted with animus toward that 
+individual or his impairment or with a misperception of 
+the nature or consequences of that impairment. The 
+definition of “disability” in the ADA, however, does not 
+turn on whether an individual has been subject to 
+invidious discrimination; it simply turns on whether the 
+individual is, or is regarded as, substantially limited in a 
+major life activity. Thus, it may be accepted tat 
+respondent did not have an “unsubstantiated fear” 
+concerning the health consequences of petitioner’s high 
+blood pressure, and it may be accepted (although it 
+appears that the record is not sufficient to support 
+summary judgment on this point) that respondent be- 
+lieved that petitioner was perfectly able to drive its 
+vehicles and perform all the duties of his job as a 
+mechanic for respondent, but was limited in so doing by 
+DOT regulations. Nonetheless, even if respondent 
+harbored no animus toward petitioner, it still regarded 
+him as disabled under the “regarded as” definition, be- 
+cause it regarded his impairment as substantially 
+limiting his ability to obtain or keep a “class of jobs.” 
+
+4. To accept the court of appeals’ contrary theory 
+would permit employers to circumvent the ADA’s 
+“qualification” inquiry in any “regarded as” case. As 
+noted above, the basic prohibition of Title I of the ADA 
+does not forbid an employer to act adversely against an 
+individual with a disability; rather, the employer may 
+not discriminate against “a qualified individual with a 
+disability.” 42 U.S.C. 12112(a) (emphasis added). The 
+inquiry into whether the employee is “qualified” is 
+separate from the inquiry into whether the individual 
+has a “disability.” Indeed, it is essential to the ADA’s 
+purpose of eliminating discrimination based on “pre- 
+
+27 
+
+judice, stereotypes, or unfounded fear,” School Bd. v. 
+Arline, 480 U.S. 273, 287 (1987), that the inquiry into 
+whether the individual is qualified turns on the 
+individual’s actual qualifications—not the way in which 
+the employer regards him. Moreover, the question 
+whether an individual is “qualified” under the ADA 
+turns on whether the individual “can perform the 
+essential functions of the employment position,” 42 
+U.S.C. 12111(8) (emphasis added), not whether the in- 
+dividual satisfies every criterion that the employer has 
+in fact used as a job qualification in the past. That 
+“essential function” inquiry is also crucial to achieve- 
+ment of the ADA’s goals. 
+
+Under the court of appeals’ theory, both of these 
+crucial elements of the “qualification” inquiry—the - 
+need to show actual qualification and the inquiry into 
+“essential functions” of the job—would simply be 
+eliminated in cases involving a “regarded as” dis- 
+ability. That is because the court of appeals’ reasoning 
+essentially reduces to the proposition that, because 
+respondent regarded petitioner as unable to satisfy a 
+job qualification (DOT certification), respondent there- 
+fore did not regard petitioner as substantially limited in 
+
+” The need for the inquiry into actual (as opposed to per- 
+ceived) qualification can be illustrated by this very case. As noted 
+above, see note 10, supra, respondent (and both courts below) 
+erred in concluding that DOT regulations precluded petitioner 
+from operating a commercial motor vehicle in interstate commerce. 
+Because this job qualification was mistakenly addressed under the 
+“regarded as” prong of the disability definition, however, it re- 
+quired proof only as to what respondent regarded DOT regulations 
+to require, not what those regulations actually require. Under the 
+“regarded as disabled” inquiry, respondent’s mistake would have 
+little to do with its liability under the ADA. Had the issue been 
+addressed properly under the “qualification” inquiry, however, 
+petitioner's actual qualification to drive a commercial motor vehicle 
+could be a dispositive issue in this case. 
+
+28 
+
+the major life activity of working. In most (or perhaps 
+every) “regarded as” case, however, the employer could 
+make a similar assertion: it could claim that it did not 
+regard the employee as substantially limited in a major 
+life activity, but rather as unable to satisfy what it (the 
+employer) believed to be a job qualification. Under the 
+court of appeals’ reasoning, that assertion, if true, 
+would result in a determination that the employee was 
+not “regarded as” disabled, and it would insulate the 
+employer from all obligations under the ADA. 
+
+Nor would the problem be limited to the “qualifica- 
+tion” inquiry under the ADA. Presumably, the court of 
+appeals would adopt the same reasoning if, for example, 
+an employer in a “regarded as” case asserted that the 
+employer had dismissed an employee not because the 
+employer regarded the employee as disabled, but 
+because the employer regarded the employee as having 
+an impairment that posed a “direct threat to the health 
+or safety of other individuals in the workplace.” 42 
+U.S.C. 12113(b). The ADA contemplates that an 
+employer would have a defense to liability if the 
+employee actually posed such a “direct threat” and no 
+“reasonable accommodation * * * would either 
+eliminate the risk or reduce it to an acceptable level.” 
+See 29 C. F. R. Pt. 1630 App. S 1630.2(r). But that de- 
+fense arises after a determination that the employer 
+regarded the employee as disabled; it is a justification 
+for the employer’s view, not a denial of it. 
+
+Under the court of appeals’ reasoning, the employer 
+in a “regarded as” case could pretermit the statutory 
+inquiry into whether the employee actually posed a 
+direct threat and whether a reasonable accommodation 
+could eliminate or acceptably reduce that threat. 
+Instead, the employer could simply claim that the 
+employee was dismissed not because the employee was 
+regarded as substantially limited in the major life 
+
+29 
+
+activity of working, but because the employer regarded 
+the employee as posing a direct threat to other in- 
+dividuals in the workplace. So long as the employer 
+actually did regard the employee as posing a direct 
+threat to other individuals in the workplace, the em- 
+ployee would not be “regarded as” disabled, and the 
+employer’s ADA obligations would cease. The fact that 
+the employee did not actually pose a direct threat or 
+that a reasonable accommodation would have eliminat- 
+ed that threat would be irrelevant. Once again, import- 
+ing these other statutory standards and defenses into 
+what should be a relatively straightforward threshold 
+inquiry into “disability” would threaten to unravel the 
+statutory scheme that Congress enacted. 
+
+5. In short, although an ostensible failure to satisfy 
+DOT standards may well assist respondent in showing 
+that petitioner was not qualified for the job, see 42 
+U.S.C. 12112(a), that he would “pose a direct threat to 
+the health or safety of other individuals in the work- 
+place,” 42 U.S.C. 12113(b), or that he failed a “qualifi- 
+cation standard[]” that “has been shown to be job- 
+related and consistent with business necessity,” 42 
+U.S.C. 12113(a), it does not establish that petitioner 
+was not regarded as having a physical impairment that 
+substantially limited his major life activity of working. 
+See 29 C.F.R. 1630.15(e) (recognizing defense “that a 
+challenged action is required or necessitated by another 
+Federal law or regulation”); Daugherty v. City of El 
+Paso, 56 F.3d 695, 697 (5th Cir. 1995), cert. denied, 516 
+U.S. 1172 (1996). 
+
+30 
+
+CONCLUSION 
+The judgment of the court of appeals should be 
+reversed. 
+Respectfully submitted. 
+SETH P. WAXMAN 
+Solicitor General 
+BILL LANN LEE 
+f Acting Assistant Attorney 
+C. GREGORY STEWART n 
+General Counsel BARBARA D. UNDERWOOD 
+PHILIP B. SKLOVER Deputy Solicitor General 
+Associate General Counsel JAMES A. FELDMAN 
+CAROLYN L. WHEELER Assistant to the Solicitor 
+Assistant General Counsel General 
+PAULA R. BRUNER JESSICA DUNSAY SILVER 
+Attorney SETH M. GALANTER 
+Equal Employment Attorneys 
+
+Opportunity Commission 
+
+FEBRUARY 1999 
+

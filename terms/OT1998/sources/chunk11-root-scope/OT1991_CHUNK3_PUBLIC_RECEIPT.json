@@ -1,0 +1,35 @@
+{
+  "path": "terms/OT1991/output/OT_1991CHUNK3.md",
+  "blob_sha": "e764f147b89dbe02692a4b01560ab68cd777859f",
+  "bytes": 38382,
+  "sha256": "ab4bf451cf7e1d9697460e01f0759763f090288ecd3fe2146610e220507c7d81",
+  "hits": [
+    {
+      "line": 9,
+      "text": "| December 16, 1991 | Hilton v. South Carolina Public Railways Commission | Judgment reversed and case remanded | Case returns to state court for the FELA merits. |"
+    },
+    {
+      "line": 68,
+      "text": "### Hilton v. South Carolina Public Railways Commission, No. 90-848"
+    },
+    {
+      "line": 72,
+      "text": "*Hilton v. South Carolina Public Railways Commission*, 502 U.S. 197 (1991), No. 90-848. Argued October 8 and decided December 16, 1991, on certiorari to the South Carolina Supreme Court. The question is whether the Federal Employers' Liability Act's (FELA) cause of action against a state-owned railroad remains enforceable in state court."
+    },
+    {
+      "line": 82,
+      "text": "*Parden* separately interpreted FELA's coverage of *every* interstate common carrier and treated operation of a railroad as waiver of federal-court immunity. *Welch* displaced the constructive-waiver rationale but expressly reserved statutory coverage. The remaining construction has governed the specialized railroad relationship for decades, Congress retained the relevant language, and States and employees arranged compensation against that background\u2014including South Carolina's exclusion of FELA-covered employees from workers' compensation. *Will* construed a different statutory term and does not silently overrule the specific FELA holding. Adherence to precedent interpreting a statute thus requires retaining the independently grounded coverage rule unless the Court squarely abandons it. Under *Howlett*, a competent state court may not use state immunity to defeat a defendant's liability under valid federal law. The Court does not reopen Hilton's dismissed federal suit, decide negligence, or announce that entering commerce generally waives immunity."
+    },
+    {
+      "line": 88,
+      "text": "Hilton may litigate the FELA claim in state court but receives no finding of negligence or damages. The case returns to state court for the ordinary FELA merits."
+    },
+    {
+      "line": 90,
+      "text": "**End of entry: Hilton v. South Carolina Public Railways Commission, Judgment reversed and case remanded, December 16, 1991.**"
+    }
+  ],
+  "saved_as": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/OT1991_CHUNK3_CANONICAL_PUBLIC.md",
+  "ref": "02a02581346c8fcc73dddc89d3c4f590bbc8210d",
+  "source": "https://github.com/Alex-Oss222/scotus-career/blob/02a02581346c8fcc73dddc89d3c4f590bbc8210d/terms/OT1991/output/OT_1991CHUNK3.md"
+}

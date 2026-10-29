@@ -1,0 +1,128 @@
+[
+  {
+    "name": "kolstad",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-208.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-syllabus.html",
+    "bytes": 12802,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-536.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-syllabus.html",
+    "bytes": 19392,
+    "status": "downloaded"
+  },
+  {
+    "name": "kolstad",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527526/usrep527526.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-usrep.pdf",
+    "bytes": 1045174,
+    "status": "downloaded"
+  },
+  {
+    "name": "albertsons",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-591.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-syllabus.html",
+    "bytes": 10695,
+    "status": "downloaded"
+  },
+  {
+    "name": "murphy",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/97-1992.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-syllabus.html",
+    "bytes": 9346,
+    "status": "downloaded"
+  },
+  {
+    "name": "florida-prepaid",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-531.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-syllabus.html",
+    "bytes": 10656,
+    "status": "downloaded"
+  },
+  {
+    "name": "college-savings",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-149.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-syllabus.html",
+    "bytes": 9829,
+    "status": "downloaded"
+  },
+  {
+    "name": "alden",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/98-436.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-syllabus.html",
+    "bytes": 17952,
+    "status": "downloaded"
+  },
+  {
+    "name": "ortiz",
+    "kind": "cornell",
+    "url": "https://www.law.cornell.edu/supct/html/97-1704.ZS.html",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-syllabus.html",
+    "bytes": 19863,
+    "status": "downloaded"
+  },
+  {
+    "name": "murphy",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527516/usrep527516.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-usrep.pdf",
+    "bytes": 366675,
+    "status": "downloaded"
+  },
+  {
+    "name": "olmstead",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527581/usrep527581.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-usrep.pdf",
+    "bytes": 1667796,
+    "status": "downloaded"
+  },
+  {
+    "name": "alden",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527706/usrep527706.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-usrep.pdf",
+    "bytes": 3848176,
+    "status": "downloaded"
+  },
+  {
+    "name": "college-savings",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527666/usrep527666.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-usrep.pdf",
+    "bytes": 1432533,
+    "status": "downloaded"
+  },
+  {
+    "name": "florida-prepaid",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527627/usrep527627.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-usrep.pdf",
+    "bytes": 1430195,
+    "status": "downloaded"
+  },
+  {
+    "name": "ortiz",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527815/usrep527815.pdf",
+    "local": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-usrep.pdf",
+    "bytes": 2543448,
+    "status": "downloaded"
+  },
+  {
+    "name": "albertsons",
+    "kind": "loc",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep527/usrep527555/usrep527555.pdf",
+    "status": "IncompleteRead(20480 bytes read, 919977 more expected)"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "florida_prepaid",
+    "source": "https://archive.org/download/micro_IA40385014_0235/micro_IA40385014_0235%2001.%20Docket_djvu.txt",
+    "path": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/florida_prepaid_docket_raw.txt",
+    "bytes": 3194,
+    "sha256": "9b352400597fa99374b22dc6a7b6e5af3c1fce472e168cea10862e07781e75af"
+  },
+  {
+    "name": "college_savings",
+    "source": "https://archive.org/download/micro_IA40385014_0212/micro_IA40385014_0212%2001.%20Docket_djvu.txt",
+    "path": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/college_savings_docket_raw.txt",
+    "bytes": 2715,
+    "sha256": "762c87fe3cb87d3fc75181f07620c1fa85b399212b72184cc14312cd5e029ab7"
+  }
+]

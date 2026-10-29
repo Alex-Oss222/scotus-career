@@ -1,0 +1,689 @@
+{
+  "id": 11704562,
+  "name": "John H. ALDEN et al. v. STATE of Maine",
+  "name_abbreviation": "Alden v. State",
+  "decision_date": "1998-08-04",
+  "docket_number": "",
+  "first_page": "172",
+  "last_page": "179",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "715 A.2d 172"
+    },
+    {
+      "type": "parallel",
+      "cite": "1998 ME 200"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "Me.",
+    "id": 9543,
+    "name": "Maine Supreme Judicial Court"
+  },
+  "jurisdiction": {
+    "id": 42,
+    "name_long": "Maine",
+    "name": "Me."
+  },
+  "cites_to": [
+    {
+      "cite": "292 U.S. 313",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        430003
+      ],
+      "weight": 3,
+      "year": 1934,
+      "pin_cites": [
+        {
+          "page": "323",
+          "parenthetical": "internal quotation and citation omitted"
+        },
+        {
+          "parenthetical": "internal quotation and citation omitted"
+        },
+        {
+          "parenthetical": "internal quotation and citation omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/292/0313-01"
+      ]
+    },
+    {
+      "cite": "502 U.S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221734
+      ],
+      "weight": 3,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "204-05"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/502/0197-01"
+      ]
+    },
+    {
+      "cite": "506 U.S. 139",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11925055
+      ],
+      "weight": 3,
+      "year": 1993,
+      "pin_cites": [
+        {
+          "page": "146"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/506/0139-01"
+      ]
+    },
+    {
+      "cite": "474 U.S. 64",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6198363
+      ],
+      "weight": 3,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/474/0064-01"
+      ]
+    },
+    {
+      "cite": "661 A.2d 156",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7868824
+      ],
+      "weight": 2,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/661/0156-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7 794",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "105 L.Ed.2d 694",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 S.Ct. 3185",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1989,
+      "opinion_index": 0
+    },
+    {
+      "cite": "491 U.S. 904",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6229189,
+        6227430,
+        6228551,
+        6226890,
+        6228875,
+        6227788,
+        6228205,
+        6225936,
+        6226229,
+        6225690,
+        6227165
+      ],
+      "year": 1989,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/491/0904-11",
+        "/us/491/0904-06",
+        "/us/491/0904-09",
+        "/us/491/0904-04",
+        "/us/491/0904-10",
+        "/us/491/0904-07",
+        "/us/491/0904-08",
+        "/us/491/0904-02",
+        "/us/491/0904-03",
+        "/us/491/0904-01",
+        "/us/491/0904-05"
+      ]
+    },
+    {
+      "cite": "544 A.2d 291",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        7940958
+      ],
+      "year": 1988,
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/544/0291-01"
+      ]
+    },
+    {
+      "cite": "42 U.S.C. \u00a7 1983",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "237"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "448 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1787653
+      ],
+      "weight": 3,
+      "year": 1980,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/448/0001-01"
+      ]
+    },
+    {
+      "cite": "405 A.2d 230",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        8046505
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/405/0230-01"
+      ]
+    },
+    {
+      "cite": "390 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11726427
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "546"
+        },
+        {
+          "page": "545"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/a2d/390/0541-01"
+      ]
+    },
+    {
+      "cite": "501 U.S. 775",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1107935
+      ],
+      "weight": 4,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "779"
+        },
+        {
+          "parenthetical": "quoting The Federalist No. 81, at 487 (Alexander Hamilton)"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/501/0775-01"
+      ]
+    },
+    {
+      "cite": "118 F.3d 37",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        509184
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/118/0037-01"
+      ]
+    },
+    {
+      "cite": "1996 WL 400510",
+      "category": "reporters:specialty_west",
+      "reporter": "WL",
+      "year": 1996,
+      "opinion_index": 0
+    },
+    {
+      "cite": "517 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11744357
+      ],
+      "weight": 18,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "72-73"
+        },
+        {
+          "page": "54"
+        },
+        {
+          "page": "55"
+        },
+        {
+          "page": "58"
+        },
+        {
+          "page": "66"
+        },
+        {
+          "page": "68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/517/0044-01"
+      ]
+    },
+    {
+      "cite": "496 U.S. 356",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12123304
+      ],
+      "weight": 5,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "367"
+        },
+        {
+          "page": "377-78"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/496/0356-01"
+      ]
+    },
+    {
+      "cite": "85 L.Ed.2d 340",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "105 S.Ct. 2041",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1985,
+      "opinion_index": 1
+    },
+    {
+      "cite": "471 U.S. 1049",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6287864,
+        6287124,
+        6287414
+      ],
+      "year": 1985,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/471/1049-03",
+        "/us/471/1049-01",
+        "/us/471/1049-02"
+      ]
+    },
+    {
+      "cite": "469 U.S. 528",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11960265
+      ],
+      "weight": 7,
+      "year": 1985,
+      "pin_cites": [
+        {
+          "page": "555-56"
+        },
+        {
+          "page": "549"
+        },
+        {
+          "page": "554"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/469/0528-01"
+      ]
+    },
+    {
+      "cite": "710 So.2d 226",
+      "category": "reporters:state_regional",
+      "reporter": "So. 2d",
+      "case_ids": [
+        11834531
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/so2d/710/0226-01"
+      ]
+    },
+    {
+      "cite": "331 Ark. 508",
+      "category": "reporters:state",
+      "reporter": "Ark.",
+      "case_ids": [
+        1604800
+      ],
+      "weight": 3,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "page": "777"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/ark/331/0508-01"
+      ]
+    },
+    {
+      "cite": "483 U.S. 468",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        28093
+      ],
+      "weight": 3,
+      "year": 1987,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/483/0468-01"
+      ]
+    },
+    {
+      "cite": "377 U.S. 184",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6166693
+      ],
+      "weight": 3,
+      "year": 1964,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/377/0316-01"
+      ]
+    },
+    {
+      "cite": "45 U.S.C. \u00a7\u00a7 51-60",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "year": 1986,
+      "opinion_index": 1
+    },
+    {
+      "cite": "122 Md.App. 437",
+      "category": "reporters:state",
+      "reporter": "Md. App.",
+      "case_ids": [
+        489849
+      ],
+      "weight": 6,
+      "year": 1998,
+      "pin_cites": [
+        {
+          "parenthetical": "\"The Eleventh Amendment addresses the susceptibility of a state to suit in federal court, not the general immunity of a state from private suit.\""
+        },
+        {
+          "parenthetical": "\"The Eleventh Amendment addresses the susceptibility of a state to suit in federal court, not the general immunity of a state from private suit.\""
+        },
+        {
+          "page": "446-47"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/md-app/122/0437-01"
+      ]
+    },
+    {
+      "cite": "109 S.Ct. 2273",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        605403,
+        6210086
+      ],
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/490/0920-01",
+        "/us/491/0001-01"
+      ]
+    },
+    {
+      "cite": "491 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6210086
+      ],
+      "weight": 2,
+      "year": 1989,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/491/0001-01"
+      ]
+    },
+    {
+      "cite": "427 U.S. 445",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6178587
+      ],
+      "weight": 3,
+      "year": 1976,
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/427/0445-01"
+      ]
+    },
+    {
+      "cite": "29 U.S.C. \u00a7\u00a7 201-219",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "weight": 2,
+      "opinion_index": 1
+    },
+    {
+      "cite": "502 U.S. 197",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6221734
+      ],
+      "weight": 22,
+      "year": 1991,
+      "pin_cites": [
+        {
+          "page": "205"
+        },
+        {
+          "page": "199"
+        },
+        {
+          "page": "203"
+        },
+        {
+          "page": "203-04"
+        },
+        {
+          "page": "205"
+        },
+        {
+          "page": "205"
+        },
+        {
+          "page": "205-06"
+        },
+        {
+          "page": "207"
+        },
+        {
+          "page": "206"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/502/0197-01"
+      ]
+    },
+    {
+      "cite": "390 A.2d 541",
+      "category": "reporters:state_regional",
+      "reporter": "A.2d",
+      "case_ids": [
+        11726427
+      ],
+      "pin_cites": [
+        {
+          "page": "544"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/a2d/390/0541-01"
+      ]
+    },
+    {
+      "cite": "517 U.S. 44",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11744357
+      ],
+      "weight": 15,
+      "year": 1996,
+      "pin_cites": [
+        {
+          "page": "47"
+        },
+        {
+          "page": "59"
+        },
+        {
+          "page": "60-62"
+        },
+        {
+          "page": "66"
+        },
+        {
+          "page": "63"
+        },
+        {
+          "page": "73"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/517/0044-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1142,
+    "char_count": 25376,
+    "ocr_confidence": 0.704,
+    "pagerank": {
+      "raw": 1.4177561445679408e-07,
+      "percentile": 0.6483698470451366
+    },
+    "sha256": "446ac8007809c6a5ebfbaeb7dee4bdf7b304da3a5b790dad8a47e2b1edc70cfd",
+    "simhash": "1:7a0ab71a80141cea",
+    "word_count": 4112
+  },
+  "last_updated": "2024-02-27T19:25:42.329429+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before WATHEN, C.J., and ROBERTS, CLIFFORD, RUDMAN, DANA, and SAUFLEY, JJ.",
+      "DANA and RUDMAN, JJ., dissent."
+    ],
+    "parties": [
+      "John H. ALDEN et al. v. STATE of Maine."
+    ],
+    "opinions": [
+      {
+        "text": "ROBERTS, Justice.\n[\u00b6 1] John H. Alden appeals from the judgment of the Superior Court (Cumberland County, Calkins, J.) dismissing on the basis of sovereign immunity his complaint brought pursuant to the federal Fair Labor Standards Act. Alden contends that the doctrine of sovereign immunity may not be interposed to defend against this federally created cause of action. We affirm the judgment.\n[\u00b6 2] In December 1992 Alden, a state probation officer, filed a complaint against the State in federal district court seeking overtime pay pursuant to the Fair Labor Standards Act (FLSA). While that claim was pending, the Supreme Court of the United States decided Seminole Tribe of Florida v. Florida, 517 U.S. 44, 116 S.Ct. 1114, 134 L.Ed.2d 252 (1996), which held, on the basis of the Eleventh Amendment to the United States Constitution, that Congress may not authorize pursuant to its Article I powers suits in federal court by private parties against unconsenting states. Id. at 72-73, 116 S.Ct. 1114. Relying on Seminole Tribe, the federal district court dismissed Alden\u2019s claim for lack of subject matter jurisdiction. Mills v. State, 1996 WL 400510 (D.Me. July 3, 1996), aff'd, 118 F.3d 37 (1st Cir.1997).\n[\u00b6 3] Alden then filed essentially the same complaint in the Superior Court in August 1996. The State moved for a judgment on the pleadings pursuant to M.R. Civ. P. 12(c), stating as grounds the doctrine of state sovereign immunity and the statute of limitations. Although the court found that Alden\u2019s claim was not barred by the statute of limitations, it granted the State\u2019s motion on the ground of sovereign immunity. Alden\u2019s appeal followed.\n[\u00b6 4] The principal issue before us is whether state sovereign immunity, as reflected in the Eleventh Amendment, protects the State from this federally created cause of action in its own courts. Alden contends that Congress has abrogated the State\u2019s sovereign immunity by enacting the FLSA We disagree. Although Congress may have in- . tended to subject the states to the overtime provisions of the FLSA, it does not have the necessary power, pursuant to the Constitution, to accomplish this end.\n[\u00b6 5] The Eleventh Amendment provides: \u201cThe Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.\u201d U.S. Const. Amend. XI. \u201cAlthough the text of the Amendment would appear to restrict only the Article III diversity jurisdiction of the federal courts, Ve have understood the Eleventh Amendment to stand not so much for what it says, but for the presupposition ... which it confirms.\u2019 \u201d Seminole Tribe, 517 U.S. at 54, 116 S.Ct. 1114 (quoting Blatchford v. Native Village of Noatak, 501 U.S. 775, 779, 111 S.Ct. 2578, 115 L.Ed.2d 686 (1991)). That presupposition consists of two elements: \u201cthat each State is a sovereign entity in our federal system ... and ... that \u2018[i]t is inherent in the nature of sovereignty not to be amenable to the suit of an individual without its consent.\u2019 \u201d Id. (quoting The Federalist No. 81, at 487 (Alexander Hamilton)) (Clinton Rosi-ter ed. (1961)) (citations omitted).\n[\u00b6 6] We have concluded on several occasions that sovereign immunity does protect the State from suit by private parties in its own courts without its consent, even when the cause of action derives from federal law. In Drake v. Smith, 390 A.2d 541 (Me.1978), we considered the question whether the State\u2019s enactment of a statutory scheme whereby it became a partner with the federal government in paying medical care costs of certain recipients of federal aid constituted a waiver of state sovereign immunity. We held that because the State had not waived its Eleventh Amendment immunity from suit in federal court, it was not reasonable to conclude that it had waived its sovereign immunity to the same suit in state court. Id. at 546.\n[\u00b6 7] In Thiboutot v. State, 405 A.2d 230 (Me.1979), aff'd on other grounds, 448 U.S. 1, 100 S.Ct. 2502, 65 L.Ed.2d 555 (1980), we addressed the amenability of the State to suits by private parties for retroactive AFDC benefits pursuant to 42 U.S.C. \u00a7 1983. We held that \u201cin the absence of waiver by the state of its sovereign immunity, the state may constitutionally interpose that immunity as a bar to a class action brought in a state court under ... \u00a7 1983.\u201d Id. at 237. Similarly, in Jackson v. State, 544 A.2d 291 (Me. 1988) cert. denied, 491 U.S. 904, 109 S.Ct. 3185, 105 L.Ed.2d 694 (1989), addressing the State\u2019s amenability to suit under the federal Rehabilitation Act, 29 U.S.C. \u00a7 794, we held that \u201cthe State may constitutionally interpose its sovereign immunity in state court as a bar to an award of damages under ... the Rehabilitation Act.\u201d Id at 298. Most recently, Moody v. Commissioner, Dept. of Human Servs., 661 A.2d 156 (Me.1995), concerned the AFDC program and a violation by the Department of Human Services of the due process rights of the plaintiffs. In reaching the conclusion that the State is protected by sovereign immunity from suit in its own courts, we stated: \u201cThe Eleventh Amendment to the United States Constitution precludes the federal courts from circumventing the sovereign immunity of the states. Although the Eleventh Amendment is not directly applicable to state courts, the doctrine of sovereign immunity similarly protects the states from actions [in] state courts.\u201d Id. at 158 n. 3 (citation omitted).\n[\u00b6 8] Reading these decisions in combination, it is clear that we have looked to the Eleventh Amendment to define the contours of state sovereign immunity. If Congress cannot force the states to defend in federal court against claims by private individuals, it similarly cannot force the states to defend in their own courts against these same claims. In reaching this conclusion, we have found that the Eleventh Amendment and state sovereign immunity are analogous, to the extent that both protect the State from being forced by an act of Congress to defend against a federal cause of action brought by a private individual. To hold otherwise, by concluding that a state, immune from suit in federal court, must defend against that same suit in its own courts, would effectively vitiate the Eleventh Amendment.\n[\u00b6 9] The Supreme Court\u2019s opinion in Seminole Tribe reinforces this position. The Court began its analysis with the general proposition that in order to abrogate a state\u2019s sovereign immunity Congress must have \u201c \u2018unequivocally expressed] its intent to abrogate the immunity,\u2019 \u201d and must have done so \u201c \u2018pursuant to a valid exercise of power.\u2019 \u201d Seminole Tribe, 517 U.S. at 55, 116 S.Ct. 1114 (quoting Green v. Mansour, 474 U.S. 64, 68, 106 S.Ct. 423, 88 L.Ed.2d 371 (1985)). Addressing the first element, the Court concluded that it is \u201cindubitable that Congress intended through the [FLSA] to abrogate the States\u2019 sovereign immunity from suit.\u201d Id. at 57, 116 S.Ct. 1114.\n[\u00b6 10] The Court then addressed the second element, namely, whether Congress has the power to abrogate sovereign immunity in this manner. Concluding that the Eleventh Amendment deprives Congress of this power, the Court stated that the Amendment \u201cserves to avoid \u2018the indignity of subjecting a State to the coercive process of judicial tribunals at the instance of private parties.\u2019 \u201d Id. at 58, 116 S.Ct. 1114 (quoting Puerto Rico Aqueduct & Sewer Auth. v. Metcalf & Eddy, Inc., 506 U.S. 139, 146, 113 S.Ct. 684, 121 L.Ed.2d 605 (1993)). To suggest, as Aden has done, that this indignity would be lessened by simply dragging the State into a different forum misconstrues the underlying premise of the Eleventh Amendment.\n[\u00b6 11] The Eleventh Amendment does not explicitly protect the states from suit in their own courts. Hilton v. South Carolina Pub. Rys. Comm\u2019n, 502 U.S. 197, 204-05, 112 S.Ct. 560, 116 L.Ed.2d 560 (1991). That does not, however, end the inquiry. In reaching its conclusion in Seminole Tribe, the Court spoke of the Amendment as reflecting a more fundamental principle of state sovereign immunity: \u201cFor over a century, we have grounded our decisions in the oft-repeated understanding of state sovereign immunity as an essential part of the Eleventh Amendment.\u201d Seminole Tribe, 517 U.S. at 66, 116 S.Ct. 1114. The Court stated:\nBehind the words of the constitutional provisions are postulates which limit and con-trol_ There is ... the postulate that States of the Union, still possessing attributes of sovereignty, shall be immune from suits, without their consent, save where there has been a surrender of this immunity in the plan of the convention.\nId. at 68, 116 S.Ct. 1114 (quoting Principality of Monaco v. Mississippi, 292 U.S. 313, 323, 54 S.Ct. 745, 78 L.Ed. 1282 (1934) (internal quotation and citation omitted)). The postulate at work here, state sovereign immunity, is a \u201cbackground principle\u201d that is \u201cembodied in the Eleventh Amendment.\u201d Id. at 72, 116 S.Ct. 1114. Thus the Eleventh Amendment does not delimit the scope and effect of state sovereign immunity. Rather, it reflects but one aspect of the states\u2019 inherent, more sweeping immunity from suits brought by private parties. A power so basic and profound would be an odd power indeed if it protected the states from suit in the federal courts but provided no comparable protection in their own courts. If Congress does not have the power to abrogate state sovereign immunity with respect to federal causes of action brought in federal courts, as the Seminole Tribe case clearly held, then that limitation on congressional power may not be circumvented simply by moving to a state court. Accordingly, we conclude that sovereign immunity protects the State from defending this federal cause of action in its own courts.\n[\u00b6 12] Aden contends, in the alternative, that the State has waived its sovereign immunity by implication, having enacted several statues whereby the State has made itself amenable to suit in the area of state employee wage claims. Conspicuously absent from Aden\u2019s list of statutes affecting the wages and employment rights of state employees is 26 M.R.S.A. \u00a7 664(3) (Supp.1997), which is the only statutory provision directly relevant to the central issue on appeal\u2014the State\u2019s amenability to suit by state employees for overtime pay. That section provides, \u201cThe overtime provision of this section does not apply to [p]ublic employees,\u201d id, who are defined as \u201cany person[s] whose wages are paid by ... the State.\u201d Id. \u00a7 663(10) (1988).\n[\u00b6 13] We have stated that in the absence of a specific statutory waiver of immunity, \u201ca legislative waiver of the sovereign\u2019s immunity from suit may be found implicit in a general scheme plainly contemplating that the State will become party to particular kinds of contracts.\u201d Drake, 390 A.2d at 545. In the present instance, however, it is impossible to find an implied waiver in a larger statutory scheme when the Legislature has spoken explicitly on the point. Any implications of these statutory provisions are limited by the Legislature\u2019s unambiguous statement that the State is not subject to the overtime requirement.\nThe entry is:\nJudgment affirmed.\nDANA and RUDMAN, JJ., dissent.\n. Alden is joined by 66 additional plaintiffs, all present or former state probation officers. For clarity, and because the central issue on appeal is identical for all plaintiffs, we refer only to Alden.",
+        "type": "majority",
+        "author": "ROBERTS, Justice."
+      },
+      {
+        "text": "DANA, Justice,\nwith whom RUDMAN, Justice, joins, dissenting.\n[\u00b6 14] I must respectfully dissent. Contrary to the Court\u2019s conclusion, the Eleventh Amendment does not define the scope of state sovereign immunity. Athough the Supreme Court\u2019s decision in Seminole Tribe of Florida v. Florida, 517 U.S. 44, 116 S.Ct. 1114, 134 L.Ed.2d 252 (1996), precludes Alden from prosecuting this action in federal court, neither Seminole Tribe nor the Supremacy Clause permits the State to interpose its sovereign immunity as a defense to a suit alleging a violation of the Fair Labor Standards Act (\u201cFLSA\u201d), 29 U.S.C. \u00a7\u00a7 201-219 (1965, 1978 & Supp.1998), that is maintained in state court.\n[\u00b6 15] Pursuant to the FLSA, an employee may bring an action alleging violations of, inter alia, the minimum wage and maximum hours provisions of the act, \u201cagainst any employer (including a public agency) in any Federal or State court of competent jurisdic-tion_\u201d Id. \u00a7 216(b) (Supp.1998). This provision clearly expresses a congressional intent to abrogate the states\u2019 immunity from suit. The Court concludes that Congress lacks the authority to abrogate the states\u2019 immunity from FLSA actions prosecuted in state courts by relying on Seminole Tribe, a reliance that is misplaced.\n[\u00b6 16] In Seminole Tribe, the Supreme Court determined that the Indian Commerce Clause does not grant Congress the authority to abrogate the states\u2019 Eleventh Amendment immunity. See 517 U.S.' at 47, 116 S.Ct. 1114. Prior to the Seminole Tribe decision, the Supreme Court had found only two constitutional provisions that provided Congress with the authority to abrogate Eleventh Amendment immunity: the Fourteenth Amendment, see Fitzpatrick v. Bitzer, 427 U.S. 445, 96 S.Ct. 2666, 49 L.Ed.2d 614 (1976); and the Interstate Commerce Clause, see Pennsylvania v. Union Gas Co., 491 U.S. 1, 109 S.Ct. 2273, 105 L.Ed.2d 1 (1989). See Seminole Tribe, 517 U.S. at 59, 116 S.Ct. 1114. The Court agreed with the Seminole Tribe\u2019s contention that \u201c \u2018[t]here is no principled basis for finding that congressional power under the Indian Commerce Clause is less than that conferred by the Interstate Commerce Clause,\u2019 \u201d id. at 60-62, 116 S.Ct. 1114, but it overruled the holding of Union Gas that the Interstate Commerce Clause grants Congress the power to abrogate Eleventh Amendment immunity, see id. at 66, 116 S.Ct. 1114. The Court reasoned that the holding of Uni\u00f3n Gas \u201cdeviated sharply\u201d from the well-established constitutional principle that the Eleventh Amendment \u201climited the federal courts\u2019 jurisdiction under Article III,\u201d and it rejected the conclusion of the Union Gas plurality \u201cthat Congress could under Article I expand the scope of the federal courts\u2019 jurisdiction under Article III.\u201d Id. at 63, 116 S.Ct. 1114. The Court emphasized that \u201cArticle I cannot be used to circumvent the constitutional limitations placed upon federal jurisdiction.\u201d Id. at 73, 116 S.Ct. 1114.\n[\u00b6 17] In Seminole Tribe, therefore, the Court determined that Congress had exceeded its Article I powers by seeking to expand the jurisdiction of Article III courts beyond the limits imposed by the Eleventh Amendment. That decision provides little guidance as to the proper resolution of this case: state courts are not Article III courts, and \u201cthe Eleventh Amendment does not apply in state courts,\u201d Hilton v. South Carolina Pub. Ry. Comm\u2019n, 502 U.S. 197, 205, 112 S.Ct. 560, 116 L.Ed.2d 560 (1991). See also Bunch v. Robinson, 122 Md.App. 437, 712 A.2d 585 (Md.Ct.Spec.App. 1998) (\u201cThe Eleventh Amendment addresses the susceptibility of a state to suit in federal court, not the general immunity of a state from private suit.\u201d). In contrast, the analytical framework set forth in Hilton v. South Carolina Public Railways Commission, 502 U.S. 197, 112 S.Ct. 560, 116 L.Ed.2d 560 (1991), sheds considerable light on our inquiry.\n[\u00b6 18] In Hilton, the Court considered whether the Federal Employers\u2019 Liability Act (\u201cFELA\u201d), 45 \u00dc.S.C. \u00a7\u00a7 51-60 (1986), permits a cause of action against state-owned railroads in state courts. See 502 U.S. at 199, 116 L.Ed.2d 560. The Court had held in 1964 that FELA authorizes damages suits against state-owned railroads, and that states waive their Eleventh Amendment immunity by engaging in the railway business. See Parden v. Terminal Ry. of Alabama Docks Dep\u2019t, 377 U.S. 184, 84 S.Ct. 1207, 12 L.Ed.2d 233 (1964). The Court reconsidered the Parden holding in 1987, however, and concluded that FELA, as incorporated by the Jones Act, 46 U.S.C. app. \u00a7 688 (Supp.1998), did not abrogate states\u2019 Eleventh Amendment immunity. See Welch v. Texas Dep\u2019t of Highways and Pub. Transp., 483 U.S. 468, 107 S.Ct. 2941, 97 L.Ed.2d 389 (1987).\n[\u00b6 19] Rejecting a contention that the Welch decision controlled its inquiry, the Court in Hilton concluded that FELA does authorize causes of action against the states in their courts. See Hilton, 502 U.S. at 203, 116 L.Ed.2d 560. The Court reasoned:\nthe most vital consideration of our decision today, which is that to confer immunity from state-court suit would strip all FELA and Jones Act protection from workers employed by the States, was not addressed or at all discussed in the Welch decision. Indeed, that omission can best be explained by the assumption ... that the Jones Act (and so too FELA) by its terms extends to the States. This coverage, and the jurisdiction of state courts to entertain a suit free from Eleventh Amendment constraints, is a plausible explanation for the absence in Welch of any discussion of the practical adverse effects of overruling that portion of Parden which pertained only to the Eleventh Amendment, since continued state-court jurisdiction made those effects minimal.\nId. at 203-04, 112 S.Ct. 560 (footnote omitted) (emphasis added). The Court observed that the issue in Hilton \u201cis different from the issue in our Eleventh Amendment cases in a fundamental respect: The latter cases involve the application of a rule of constitutional law, while the former case[] appl[ies] an ordinary rule of statutory construction.\u201d Id. at 205, 112 S.Ct. 560 (quotation omitted) (emphasis added). Although the Court\u2019s construction of FELA relied heavily upon Par-den and stare decisis, it observed that the \u201cprimary focus\u201d of a statutory construction should be \u201cthe language and history\u201d of the statute. Id. at 205, 112 S.Ct. 560. The Court cautioned that although the scope of Eleventh Amendment immunity is \u201ca relevant consideration,\u201d achieving symmetry between a state\u2019s liability in state and federal courts should not be imperative. Id. at 205-06, 112 S.Ct. 560. The Hilton decision concluded that because FELA imposes liability upon the states, \u201cthe Supremacy Clause makes that statute the law in every State, fully enforceable in state court.\u201d Id. at 207, 112 S.Ct. 560.\n[\u00b620] The Court\u2019s decision in this case accords symmetry undue weight, is devoid of any analysis of the FLSA, and does not address the Supremacy Clause. A different, and in my opinion better, approach is illustrated by the recent decision of the Arkansas Supreme Court in Jacoby v. Arkansas Department of Education, 331 Ark. 508, 962 S.W.2d 773 (1998). In Jacoby, the court concluded that neither the Eleventh Amendment nor the sovereign immunity provision of the Arkansas Constitution prevents state employees from maintaining an FLSA cause of action against the state in state court. See id. at 775-78; see also Ribitzki v. School Bd. of Highlands County, 710 So.2d 226 (Fla. Dist.Ct.App.1998) (holding that the Eleventh Amendment does not immunize the state from an FLSA action in state court); Bunch, 122 Md.App. 437, 712 A.2d 585, (holding that the Supremacy Clause requires state courts to enforce the FLSA against the states and that the scope of states\u2019 sovereign immunity from suit in their own courts is not coterminous with them Eleventh Amendment immunity). The Jacoby court determined that the Seminole Tribe decision was not conclusive \u201cof state liability in its own courts.\u201d 962 S.W.2d at 777. The court reasoned that pursuant to the Supremacy Clause, the FLSA must be treated as much the law of Arkansas as laws passed by the Arkansas legislature. See id. at 775. The court observed that \u201cstate employees ... are clearly entitled to file FLSA claims against state agencies as employers\u201d; that \u201cthe FLSA expressly provides that state courts have jurisdiction over these claims\u201d; and that the FLSA is \u201cthe law throughout the land, and state sovereign immunity cannot impede it.\u201d Id. at 777.\n[\u00b621] The Supreme Court has decided that Congress acted within its Article I powers and did not violate the Tenth Amendment when it provided state employees with the protections afforded by the FLSA. See Garcia v. San Antonio Metro. Transit Auth., 469 U.S. 528, 555-56, 105 S.Ct. 1005, 83 L.Ed.2d 1016 (1985), reh\u2019g denied, 471 U.S. 1049, 105 S.Ct. 2041, 85 L.Ed.2d 340 (1985). Pursuant to the Supremacy Clause, \u201c[t]his Constitution, and the Laws of the United States which shall be made in Pursuance thereof ... shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the contrary notwithstanding.\u201d U.S. Const, art. 6. As the Supreme Court explained in Howlett v. Rose,\n[fjederal law is enforceable in state courts ... because the Constitution and laws passed pursuant to it are as much laws in the States as laws passed by the state legislature. The Supremacy Clause makes those laws \u2018the supreme Law of the Land,\u2019 and charges state courts with a coordinate responsibility to enforce that law according to their regular modes of procedure.\n496 U.S. 356, 367, 110 S.Ct. 2430, 110 L.Ed.2d 332 (1990). \u201c[W]hen Congress acts within its enumerated powers to create a federal cause of action that imposes liability on the states, state courts of general jurisdiction may not refuse to hear the federal claim.\u201d Bunch, 122 Md.App. at 446-47, 712 A.2d 585. To the extent that Maine\u2019s common law doctrine of sovereign immunity conflicts with the provisions of the FLSA which subject the State to liability in state court, the Supremacy Clause resolves that conflict in favor of the FLSA Cf. Howlett, 496 U.S. at 377-78, 110 L.Ed.2d 332 (rejecting interpretation of Florida\u2019s sovereign immunity statute that rendered all state subdivisions immune from section 1983 actions maintained in Florida courts and concluding, \u201c[t]o the extent that the Florida law of sovereign immunity reflects a substantive disagreement with the extent to which governmental entities should be held liable for their constitutional violations, that disagreement cannot override the dictates of federal law.\u201d).\n[\u00b6 22] A determination that the Supremacy Clause requires states to defend FLSA causes of action that are prosecuted in state courts, contrary to the Court\u2019s concern, would not \u201cvitiate the Eleventh Amendment.\u201d Such a determination would not strip the State of its sovereign immunity whenever a litigant sought to prosecute a federally-created cause of action against it. The FLSA\u2019s express authorization of suits against state employers in state courts constitutes an explicit statement of congressional intent to abrogate the states\u2019 immunity from suit in their own courts. If a statute creating a federal cause of action does not contain an express statement of congressional intent to abrogate states\u2019 immunity, then a state could successfully interpose its sovereign immunity as a defense to that cause of action. See Hilton, 502 U.S. at 206, 112 S.Ct. 560 (\u201cWhen the issue to be resolved is one of statutory construction, of congressional intent to impose monetary liability on the States, the requirement of a clear statement by Congress to impose such liability creates a rule that ought to be of assistance to the Congress and the courts in drafting and interpreting legislation.\u201d).\n[\u00b6 23] I would vacate the judgment of the Superior Court.\n. Pursuant to Article 5, section 20 of the Arkansas Constitution, \"[t]he State of Arkansas shall never be made a defendant in any of her courts.\u201d\n. In Garcia, the Court observed that federal su: pervision over \"the judicial action of the States is ... permissible ... as to matters by the Constitution specifically authorized or delegated to the United States.\u201d 469 U.S. at 549, 105 S.Ct. 1005 (quotation and citation omitted). The Court reasoned: \"we perceive nothing in the overtime and minimum-wage requirements of the FLSA ... that is destructive of state sovereignty or violative of any constitutional provision.\u201d Id. at 554, 105 S.Ct. 1005.\n. Similarly, the Maine Legislature may waive the State\u2019s sovereign immunity only by enacting \"a general law plainly conferring the State\u2019s consent to be sued as to a class of cases,\u201d or by dealing \u201cspecifically with a particular action sought to be brought against the State and giv[ing] its plainly stated consent that the State be sued in that action.\u201d Drake v. Smith, 390 A.2d 541, 544 (Me. 1978). Thus, the ability of Congress, when enacting valid legislation, to abrogate the State of Maine's immunity from suit in its own courts parallels the Maine Legislature's ability to waive the State\u2019s sovereign immunity.",
+        "type": "dissent",
+        "author": "DANA, Justice,"
+      }
+    ],
+    "attorneys": [
+      "Donald F. Fontaine (orally) Lynne A. Gardner, Fontaine & Beal, P.A, Portland, Timothy L. Belcher, Maine State Employees Ass\u2019n, Augusta, Larry Engelstein, Kathy Krieger, Office of the General Counsel, A.F.L.-C.I.O., Washington, DC, for plaintiffs.",
+      "Andrew Ketterer, Attorney General, Peter J. Brann, Asst. Atty. Gen. (orally), Augusta, for defendants.",
+      "Robert M. Loeb (orally), Civil Division, Appellate Staff, U.S. Dept, of Justice; Ellen L. Beard, Office of the Solicitor, U.S. Department of Labor, Washington, DC, for amicus curiae."
+    ],
+    "corrections": "",
+    "head_matter": "1998 ME 200\nJohn H. ALDEN et al. v. STATE of Maine.\nSupreme Judicial Court of Maine.\nArgued Feb. 3, 1998.\nDecided Aug. 4, 1998.\nDonald F. Fontaine (orally) Lynne A. Gardner, Fontaine & Beal, P.A, Portland, Timothy L. Belcher, Maine State Employees Ass\u2019n, Augusta, Larry Engelstein, Kathy Krieger, Office of the General Counsel, A.F.L.-C.I.O., Washington, DC, for plaintiffs.\nAndrew Ketterer, Attorney General, Peter J. Brann, Asst. Atty. Gen. (orally), Augusta, for defendants.\nRobert M. Loeb (orally), Civil Division, Appellate Staff, U.S. Dept, of Justice; Ellen L. Beard, Office of the Solicitor, U.S. Department of Labor, Washington, DC, for amicus curiae.\nBefore WATHEN, C.J., and ROBERTS, CLIFFORD, RUDMAN, DANA, and SAUFLEY, JJ."
+  },
+  "file_name": "0172-01",
+  "first_page_order": 230,
+  "last_page_order": 237
+}

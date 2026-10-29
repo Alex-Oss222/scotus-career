@@ -1,0 +1,253 @@
+{
+  "status": "passed",
+  "record": "terms/OT1998/records/college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
+  "record_sha256": "0a5a0f38e4631b3396371f49b5c88dc7a7bb9e7cc1f9aded8823fb51da94ca4e",
+  "event_date": "1999-06-23",
+  "caption": "College Savings Bank v. Florida Prepaid Postsecondary Education Expense Board",
+  "scope": "College Savings final assembly only. No broad audit, workspace update or Render Input generation.",
+  "stage_order": {
+    "legal_preparation_before_counts": true,
+    "alden_final_signal_received": true,
+    "fresh_recount_after_signal": true,
+    "no_june23_peer_substantive_law_used": true
+  },
+  "component_votes": {
+    "reverse_remand": {
+      "count": 5,
+      "justices": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "affirm": {
+      "count": 4,
+      "justices": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    "statutory_authorization": {
+      "count": 9,
+      "justices": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "reject_presented_section_5": {
+      "count": 8,
+      "justices": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "reject_constructive_commercial_consent": {
+      "count": 5,
+      "justices": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ]
+    },
+    "article_i_and_fair_inclusion": {
+      "count": 1,
+      "justices": [
+        "Stone-Zsela"
+      ]
+    },
+    "prospective_commercial_condition": {
+      "count": 4,
+      "justices": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "affirmative_section_5": {
+      "count": 1,
+      "justices": [
+        "Stevens"
+      ]
+    }
+  },
+  "opinion_joins": {
+    "lead_part_i": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "lead_part_ii": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "lead_part_iii": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "lead_part_iv": [
+      "Stone-Zsela"
+    ],
+    "lead_part_v_judgment_only": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "breyer_concurrence": [
+      "Breyer",
+      "Stevens",
+      "Souter",
+      "Ginsburg"
+    ],
+    "stevens_further_concurrence": [
+      "Stevens"
+    ],
+    "oconnor_dissent": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ]
+  },
+  "opinion_authors": {
+    "lead_parts_i_through_v": "Stone-Zsela",
+    "commercial_consent_concurrence": "Breyer",
+    "further_section_5_concurrence": "Stevens",
+    "dissent": "O'Connor"
+  },
+  "assignment": {
+    "assigning_justice": "Stone-Zsela",
+    "counts_before_assignment": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 14,
+      "Scalia": 12,
+      "Kennedy": 14,
+      "Souter": 13,
+      "Thomas": 12,
+      "Ginsburg": 13,
+      "Breyer": 13
+    },
+    "last_event_counted": "Alden v. Maine, merits, 1999-06-23",
+    "last_record_counted": "alden_v_maine_merits_1999-06-23.md",
+    "eligible_authors": [
+      "Stone-Zsela"
+    ],
+    "balance_pool": [
+      "Stone-Zsela"
+    ],
+    "chosen_author": "Stone-Zsela",
+    "counted_authors": [
+      "Stone-Zsela"
+    ],
+    "reason": "Only reversal-coalition member supporting every actual lead proposition, including adverse majority portions and affirmative Article I route. Mandatory sole-pool assignment; one author can carry every part, so no division merely for balance."
+  },
+  "stone_revalidation": {
+    "fixed_core_preserved": true,
+    "standing_fallback_used": false,
+    "delegated_choices": [
+      "Fair inclusion of Article I argument supporting preserved federal immunity/abrogation claim",
+      "Federal-question/diversity account for interstate plaintiff"
+    ],
+    "delegation_status": "Prospective user delegation, not personally and specifically approved propositions in the original supplement.",
+    "non_stone_commitments_changed": false
+  },
+  "legal_review": {
+    "section_5": "Eight negative joins; Stevens alone preserves affirmative category prevention. No individual-violation or formal-findings prerequisite.",
+    "consent": "Five reject commercial consent; four preserve prospective-condition concurrence; Hilton state-court FELA coverage remains.",
+    "marks": "No controlling affirmative rationale; commercial-consent rule expressly rejected by five, sole Article I and affirmative section 5 grounds noncontrolling.",
+    "scope": "Stone alone adopts fair inclusion under delegated completion; four dissenters retain nonreach and four consent proponents do not activate constitutional alternatives.",
+    "remedy": "Ordinary federal Lanham merits remand only; no award, evidence proceeding, revived common-law claim, counterclaim or patent disposition."
+  },
+  "checks": {
+    "exact_four_opening_labels": true,
+    "natural_key_and_event_date": true,
+    "exact_eleven_terminal_public_blocks": true,
+    "internal_continuity_block": true,
+    "counted_marker_exact": true,
+    "public_private_boundary": true,
+    "public_has_no_hash": true,
+    "no_unverified_direct_quotation": true,
+    "local_links_resolve": true,
+    "all_nine_component_arithmetic": true,
+    "internal_and_public_exact_opinion_joins": true,
+    "recognized_lead_rows_one_counted_author": true,
+    "fresh_recount_identity_and_arithmetic": true,
+    "preceding_alden_author_evidence_identity": true,
+    "all_nine_assignment_counts_in_record": true,
+    "assignment_authority_eligibility_pool_and_choice_explicit": true,
+    "controlling_explanations_within_350_words": true,
+    "immutable_authorized_source_hashes_match": true,
+    "category_prevention_and_existing_property_preserved": true,
+    "hilton_and_actual_consent_preserved": true,
+    "no_invented_majority_amenability": true,
+    "stone_revalidation_and_eight_departures_present": true
+  },
+  "controlling_explanation_word_counts": [
+    119,
+    217,
+    203
+  ],
+  "source_hashes": {
+    "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_NEUTRAL.md": "7316a5c1201590e667a20cbc5ef49a4851c0e1a12eae9f1dca6c803fd135dd81",
+    "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_COMMITMENTS.md": "5623db5f7fcabd133a6dc8284d575ac41b56c340049c609f0d0991dd451f11f2",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_COLLEGE_SAVINGS_LAW.md": "0a4e7cd6fa8595cc495cc334f7b3c807e2988494d539453ef63858fc7c0cd234",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_BASELINE.md": "1073b16a5eefe42e8af724cf5aa7347f97c6887911c9227aa6a29105d00b5b0d",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_CURRENT_PUBLIC.md": "d7b6c250c0daab986fac2a15e449d98a2a51e947c4549ad1273571811a621c7e",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_SCOPE.md": "9820aba00ef750903ae5feddaaca551b36f5839dc69edc7f753eb9631b173d14",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_STATUTES.md": "220b24ff7cf1a286d0f83f0045673c14cfe2399357484ba48319599f7b01c098",
+    "terms/OT1998/freeze/OT_1998CHUNK11_IP_UNION_GAS_WELCH_HILTON_ADDENDUM.md": "c2e5eec2c9b5d61c4348cf5db041b9cace54faf2b9645b827266a53f77b3a99c",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_ADDITIONAL_PUBLIC_EXCERPTS.md": "19e0fb78a9543e0b085eafc6edfa8e3f3f841457a0a5decd20162d752c881ead",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_IP_ADDENDUM_STANDARDS.md": "17c08b6ad4a43d7a19bdca6c3a42b0e0b7689d12364f235938466e721f218294",
+    "terms/OT1998/freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md": "fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md": "30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_SEMINOLE_PUBLIC.md": "73fbecf6991caafd1ad2dbeb6badcc7a9cfcb09b29a613fdc59351678598e629",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_BOERNE_PUBLIC.md": "4214b87377cbcb8e8b519b38cc200e276bd106801ef73904d19192fbf7dac5b9",
+    "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECONCILED.md": "a7f439d21755c2b2a89f77a8beea6d99d249a645b9be2e38fa31c7cf97748225",
+    "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_ASSEMBLY_LEGAL_PREPARATION.md": "4fe621cbbd81d958f3d6a7e608e3ec6e471095a87013a7bd1b3af0add0705e7f",
+    "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_STONE.md": "2ff814949afc4ddcbb3f9e8ce855e22cb1fab42eb809b693340bd38bdb53d90c",
+    "terms/OT1998/freeze/OT_1998CHUNK11_COLLEGE_SAVINGS_RECOUNT.json": "3c6115f00ab44f6ba62e013f36e84913cf2e6fee9dc66444e316af25af380704",
+    "AGENTS.md": "a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881",
+    "foundation/ENGINE.md": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+    "foundation/RENDER_CONTRACT.md": "a689b0680371a70cdcf6a7351466f80194d94426e96c1afe3ce6858921ea3db4",
+    "foundation/COURT_COMPOSITION.md": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99"
+  },
+  "unresolved_material_discrepancies": [],
+  "integration_boundary": "Final canonical Record is available for parent sequencing. Parent owns workspace, projection integration and later render generation. No further assembly audit pending."
+}

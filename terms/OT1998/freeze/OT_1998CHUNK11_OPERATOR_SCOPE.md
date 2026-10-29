@@ -1,0 +1,9 @@
+# OT1998 Chunk11 operator scope
+
+The user directed Chunk11 adjudication and Render using the supplied approved brief, delegated necessary unresolved Stone choices to the most progressive legally supported option, requested notice when Render is complete, and requested approximately twenty-minute progress checkpoints. This delegation is prospective, preserves explicit approved Stone positions, and supplies no authority to predetermine other Justices, invent facts, or assume unsupported jurisdiction. Personal circumstances are omitted.
+
+Baseline main: 02a02581346c8fcc73dddc89d3c4f590bbc8210d, confirmed by root before substantive writes. Scope is eight merits matters: June22 Albertson’s, Kolstad, Murphy and Olmstead; June23 Alden, College Savings Bank, Florida Prepaid and Ortiz. Opinion assignments occur in that date/alphabetical order, with fresh recount before each. All June22 peers use common preJune22 law; completed Sutton is excluded from their entering-law baseline. June23 receives every effective June22 public holding and no June23 peer law unless coordination is actually established.
+
+Opening state:122 completed Court events and one admitted source; nine scheduled unresolved inventory items and thirteen undated carryovers. Only the eight Chunk11 matters are adjudicated. Germany’s original leave request remains unresolved at its recorded stage; the thirteen undated carryovers are preserved. No earlier adjudication is rerun or revised.
+
+All substantive stages use fresh gpt-6-astra contexts with ultra reasoning. No service-tier control is available or claimed. Source-exposure repairs and exact handoff identities are recorded separately. No Git commands, forbidden source directories, infrastructure/state edits, approved-brief edits, or remote publication occur in the controller task. Root handles publication after final immutable release.

@@ -1,0 +1,622 @@
+
+    
+      Appeals from the United States District Court for the District of Columbia (No. 94cv01578).
+
+      Bruce S. Harrison and Elizabeth Torphy-Donzella, Baltimore, MD, argued the cause and filed the briefs for appellee/cross-appellant.
+
+      Joseph A. Yablonski, Washington, DC, argued the cause and filed the brief for appellant/cross-appellee.
+
+      J. Ray Terry, Jr., Deputy General Counsel, and Robert J. Gregory, Attorney, Washington, DC, were on the brief for amicus curiae Equal Employment Opportunity Commission.
+
+      Before:  EDWARDS, Chief Judge, WALD, SILBERMAN, WILLIAMS, GINSBURG, SENTELLE, HENDERSON, RANDOLPH, ROGERS, TATEL and GARLAND, Circuit Judges.
+
+      Opinion for the Court filed by Circuit Judge STEPHEN F. WILLIAMS.
+
+      Concurring opinion filed by Circuit Judge RANDOLPH.
+
+      Dissenting opinion filed by Circuit Judge TATEL, with whom Chief Judge HARRY T. EDWARDS, and Circuit Judges WALD, ROGERS and GARLAND join.
+
+      STEPHEN F. WILLIAMS, Circuit Judge:
+
+    
+
+    
+      ¶1
+      Carole Kolstad sued her employer, the American Dental Association ("ADA"), under Title VII of the 1964 Civil Rights Act, 42 U.S.C. § 2000e et seq.   At the close of evidence, the district court refused to instruct the jury on punitive damages.  The jury awarded Kolstad back pay, and the district court denied ADA's motion for judgment as a matter of law on the issue of liability.  A panel of this court reversed the district court's dismissal of Kolstad's punitive damages claim and remanded for a trial on punitive damages.  Kolstad v. American Dental Ass'n, 108 F.3d 1431, 1437-39 (D.C.Cir.1997).  We granted en banc review on the question whether the standard of evidence for punitive damages under Title VII is, in all but a narrow range of cases, no higher than the standard for liability.  We reject that view and hold that punitive damages in a Title VII case may be imposed only on a showing of egregious conduct.  We further hold that no evidence of such behavior was shown at trial in this case, and thus affirm the district court on the issue of punitive damages.
+
+    
+
+    
+      ¶2
+      …
+
+    
+
+    
+      ¶3
+      ADA is a Chicago-based professional organization with an office in Washington.  Jack O'Donnell worked in the Washington office, where he held the double-barreled title of Director of Legislation and Legislative Policy and Director of the Council on Government Affairs and Federal Dental Services.  The first role involved developing and advocating ADA's stance on federal legislation and regulations;  the second entailed coordinating regular meetings of the Council on Governmental Affairs, a policy-making body composed of ADA members.
+
+    
+
+    
+      ¶4
+      In September 1992 O'Donnell announced he would retire at year's end.  Upon learning of O'Donnell's impending departure, Kolstad (then serving as ADA's Director of Federal Agency Relations) and Tom Spangler (then ADA's Legislative Counsel) each expressed interest in the vacancy.  Since 1988, when Kolstad became responsible for federal regulatory matters at ADA, Leonard Wheat (the head of the Washington office) had repeatedly rated her performance as "distinguished."   Before coming to ADA, Kolstad had spent six years in the General Counsel's office of the Department of Defense, where she drafted proposed legislation, prepared testimony for congressional hearings, and represented the Department's interests on Capitol Hill.  Spangler began working at ADA in 1991.  He dealt mainly with legislative matters, and had also received "distinguished" performance evaluations from Wheat.  Before joining ADA, Spangler spent five years as a lobbyist for the National Treasury Employees Union.  Both Kolstad and Spangler are lawyers.  Each had worked directly with O'Donnell, Spangler principally supporting his lobbying efforts and Kolstad assisting his management of the Council.
+
+    
+
+    
+      ¶5
+      Wheat asked Dr. William Allen, ADA's Executive Director in Chicago, to appoint O'Donnell's successor.  After consulting with Wheat, Allen revised the "Position Description Questionnaire" for O'Donnell's job, incorporating verbatim elements of the Position Description Questionnaire that had been used to hire Spangler in 1991.  (There is no evidence that the job has not in fact included those elements.)   In October 1992 Wheat approved a performance evaluation of Spangler in which Spangler stated that one of his objectives for 1993 was to "provide management and administrative support ... for the Council on Government Affairs," work that O'Donnell was then performing.
+
+    
+
+    
+      ¶6
+      Spangler formally applied for the vacancy once it was posted in November 1992.  Kolstad also applied, after complaining in a letter to Allen that Wheat had refused for several weeks to meet with her to discuss her interest in the position.  Wheat interviewed both applicants and recommended Spangler for the job.  In December 1992 Allen telephoned Kolstad to tell her that he had given the promotion to Spangler, explaining that she lacked experience with health care reform and was too valuable to ADA in her current position to take on O'Donnell's job.
+
+    
+
+    
+      ¶7
+      Kolstad's claims of discrimination rest largely on the idea that ADA had in effect picked Spangler in advance of the formal selection process;  seeing the formal process as largely facade, she contends that its artificial quality evidences intent to engage in sex discrimination.  She also gave testimony, hotly contested, that Wheat told sexually offensive jokes at staff meetings and sometimes used derogatory terms to refer to prominent professional women.
+
+    
+
+    
+      ¶8
+      After exhausting her administrative remedies before the Equal Employment Opportunity Commission, Kolstad filed suit, charging ADA with unlawful employment discrimination and seeking equitable relief, 42 U.S.C. § 2000e-5(g)(1), and damages, 42 U.S.C. § 1981a.  At the close of the trial evidence, the district judge declined to give the jury the issue of punitive damages.  The jury found that ADA had unlawfully discriminated against Kolstad on the basis of sex and awarded her $52,718 in back pay.  The district court denied ADA's motion for judgment as a matter of law on liability.  The court also held that Kolstad was not entitled to attorneys' fees or the equitable remedy of instatement.  Kolstad v. American Dental Ass'n, 912 F.Supp. 13 (D.D.C.1996).
+
+    
+
+    
+      ¶9
+      A panel of this court affirmed the denial of ADA's motion for judgment as a matter of law, but reversed and remanded for trial on punitive damages and for reconsideration of Kolstad's claims for instatement and attorneys' fees.  Kolstad v. American Dental Ass'n, 108 F.3d 1431 (D.C.Cir.1997).  We granted rehearing en banc on the question whether the issue of punitive damages was properly withheld from the jury in this case.  We conclude that it was, and affirm the district court.
+
+    
+
+    
+      ¶10
+      …
+
+    
+
+    
+      ¶11
+      Until 1991 successful plaintiffs in Title VII cases could only get "equitable" relief.  See Landgraf v. USI Film Products, 511 U.S. 244, 252-53, 114 S.Ct. 1483, 1490-91, 128 L.Ed.2d 229 (1994).  In the Civil Rights Act of 1991, Congress authorized a broader range of monetary remedies for Title VII plaintiffs.  The Act provides that a plaintiff who proves "intentional discrimination" in violation of Title VII may recover compensatory and punitive damages in addition to the equitable relief available under prior law.  42 U.S.C. § 1981a(a).  A separate provision--the one at issue in this proceeding--limits the recovery of punitive damages to cases in which "the complaining party demonstrates that the respondent engaged in a discriminatory practice or discriminatory practices with malice or with reckless indifference to the federally protected rights of an aggrieved individual."  42 U.S.C. § 1981a(b)(1).  The sum of compensatory and punitive damages is capped at a total ranging from $50,000 and $300,000 depending on the employer's size.  42 U.S.C. § 1981a(b)(3).
+
+    
+
+    
+      ¶12
+      We think that by enacting a separate provision setting out a special standard for the imposition of punitive damages, Congress showed that it did not intend to make punitive damages automatically available in the standard case of intentional discrimination under Title VII.  The structure of the statute--one standard for basic liability, another for the exceptional remedy of punitive liability--strongly suggests that, before the question of punitive damages can go to the jury, the evidence of the defendant's culpability must exceed what is needed to show intentional discrimination.  To be sure, Congress's choice of language ("malice or ... reckless indifference to ... federally protected rights") hardly pinpoints what the content of that "something more" ought to be.  Still less, however, does that language support either the rule proposed by Kolstad--that punitive damages should be available in every case strong enough to get to the jury on simple compensation--or even the marginally less permissive rule urged by the dissent.
+
+    
+
+    
+      ¶13
+      We begin by rejecting Kolstad's broad assertion that a finding of intentional discrimination is enough to put the question of punitive damages before the jury in every Title VII case.1  Such an approach would conflict with the remedial structure of the statute, with legislative history indicating that Congress meant to reserve punitive damages for particularly egregious violations of Title VII, and with the Supreme Court's pronouncements on the purposes and availability of punitive damages.  Kolstad's position does draw some superficial plausibility from the language of the statute:  since recklessness is typically subsumed within intent in the mens rea taxonomy, it might appear logical to read § 1981a(b)(1) as authorizing punitive damages whenever intent is shown--in other words, whenever compensatory damages are available.  It is a stretch, however, to conclude that, in expressing the standard for punitive damages in § 1981a(b)(1), Congress used terms whose meaning is clear or well settled.  We said recently that mental-state standards like "recklessness" and "reckless disregard" are among the most malleable and ambiguous in the law.  See Saba v. Compagnie Nationale Air France, 78 F.3d 664, 668-69 (D.C.Cir.1996);  see also United States v. Krizek, 111 F.3d 934, 941 (D.C.Cir.1997).  "Malice," too, is susceptible of a range of meanings.  See Smith v. Wade, 461 U.S. 30, 41 n. 8, 103 S.Ct. 1625, 1632 n. 8, 75 L.Ed.2d 632 (1983);  New York Times Co. v. Sullivan, 376 U.S. 254, 280, 84 S.Ct. 710, 726, 11 L.Ed.2d 686 (1964).  As we have said, the structure of the statute strongly points to a two-tiered scheme of liability;  we decline to read the pliable and imprecise language of § 1981a(b)(1) to flatten that scheme.
+
+    
+
+    
+      ¶14
+      The legislative history of the Civil Rights Act of 1991 supports the conclusion we reach today.  The House Report stated:
+
+    
+
+    
+      ¶15
+      Plaintiffs must first prove intentional discrimination, then must prove actual injury or loss arising therefrom to recover compensatory damages, and must meet an even higher standard (establishing that the employer acted with malice or reckless or callous indifference to their rights) to recover punitive damages.
+
+    
+
+    
+      ¶16
+      H.R.Rep. No. 40(I), 102nd Cong., 1st Sess. at 72 ("House Report") (emphasis added).2  Other statements from both sides of the legislative aisle indicate that Congress intended to establish an egregiousness requirement for punitive damages as a matter of law.  See, e.g., 137 Cong. Rec.  S 15473 (Oct. 30, 1991) (Interp.  Memo of Sen.  Dole et al.)  (punitive damages to be available only in "extraordinarily egregious cases");  137 Cong. Rec.  S 15479 (Oct. 30, 1991) (statement of Sen.  Bumpers) ("[Y]ou have to allege and prove intentional, malicious, willful discrimination in order to receive [punitive] damages under this bill, and certainly that is as it should be.  It is a heavy burden for plaintiffs.").
+
+    
+
+    
+      ¶17
+      Of course, legislative history is not legislative text, and House Reports are not, as the dissent implies, authoritative sources for determining what Congress "intended" or "expected" or "wanted."   Dissent at 974 (citing House Report at 69-70).  Yet it bears mentioning that even among all the conflicting and "frankly partisan" congressional statements concerning the Civil Rights Act of 1991, see Landgraf, 511 U.S. at 262 & n. 15, 114 S.Ct. at 1495 & n. 15, we find nothing to support the proposition that Congress intended to make punitive damages available on the same legal basis as compensatory damages in the typical run of Title VII cases.
+
+    
+
+    
+      ¶18
+      To be sure, the House Report does say that § 1981a(b)(1) "sets the same standard courts have applied under [42 U.S.C.] section 1981," a Reconstruction-era civil rights statute prohibiting racial discrimination in the making and enforcement of contracts.  House Report at 74.  See also 137 Cong. Rec.  H 9527 (Nov. 7, 1991) (Interp.  Memo of Rep.  Edwards) ("Punitive damages are available under [§ 1981a] to the same extent and under the same standards that they are available to plaintiffs under 42 U.S.C. § 1981.").  But a cross-reference to § 1981 (a statute that lacks a separate punitive damages provision) hardly counts as a firm view on the present question, for the circuits are deeply divided as to the proper standard for punitive liability under § 1981.
+
+    
+
+    
+      ¶19
+      Four courts of appeals have held that egregious misconduct beyond mere intent to discriminate is required for punitive damages under § 1981--and had done so before enactment of § 1981a.  See Stephens v. South Atlantic Canners, Inc., 848 F.2d 484, 489 (4th Cir.1988) (although evidence adequate to go to jury on intentional discrimination, and although any form of discrimination "constitutes reprehensible and abhorrent conduct," evidence nonetheless inadequate for punitive damages);  Beauford v. Sisters of Mercy-Province of Detroit, 816 F.2d 1104, 1109 (6th Cir.1987) (stating that punitive damages in civil rights actions have "generally been limited to cases involving egregious conduct or a showing of willfulness or malice on the part of the defendant");  Jackson v. Pool Mortgage Co., 868 F.2d 1178, 1182 (10th Cir.1989) (upholding compensatory award, and affirming trial court's rejection of punitive damages in the absence of a showing of defendant's "personal animosity and malice" toward the plaintiff);  Walters v. City of Atlanta, 803 F.2d 1135, 1147 (11th Cir.1986) (finding that there was adequate evidence of intentional discrimination to support jury's finding of liability under § 1981 but that defendants had not "acted with either the requisite ill will or callous disregard" to justify punitive damages).
+
+    
+
+    
+      ¶20
+      Three other circuits have held that a finding of intentional discrimination, without more, is enough to put the question of punitive damages before the jury in the usual § 1981 case--although only two had done so at the time Congress enacted § 1981a.  In Rowlett v. Anheuser-Busch, Inc., 832 F.2d 194, 205 (1st Cir.1987), the First Circuit applied to § 1981 a rule that "punitive damages are within the jury's discretion in cases requiring proof of intentional wrongdoing."   In Williamson v. Handy Button Machine Co., 817 F.2d 1290, 1296 (7th Cir.1987), the Seventh Circuit appeared to say that punitive damages were available for racial discrimination under § 1981 so long as "the application of the law to the facts at hand was so clear at the time of the act that reasonably competent people would have agreed on its application."3  And recently we held that the jury's (sustainable) "finding of intentional racial discrimination permitted it to find" the requisite ill will or reckless or callous indifference for punitive damages in a § 1981 case.  Barbour v. Merrill, 48 F.3d 1270, 1277 (D.C.Cir.1995).
+
+    
+
+    
+      ¶21
+      In fact, the House Report reflects this circuit split by citing two illustrative cases decided under § 1981--one of which, Rowlett, 832 F.2d at 205, supports Kolstad's position, while the other, Beauford, 816 F.2d at 1109, supports ADA's position.  See House Report at 74.  Perhaps the House Report could be said to invite each circuit to follow its own view of § 1981 in construing § 1981a, but such an approach seems unduly self-referential--and we note that at least two circuits have already rejected it.  Both the First and the Seventh Circuit have endorsed a low threshold for punitive liability under § 1981, yet both appear to set a higher standard for punitive than for compensatory liability under § 1981a.  Compare Rowlett, 832 F.2d at 205, with McKinnon v. Kwong Wah Restaurant, 83 F.3d 498, 507-09 (1st Cir.1996);  and compare Williamson, 817 F.2d at 1296, with Emmel v. Coca-Cola Bottling, 95 F.3d 627, 636 (7th Cir.1996).  Those courts' approach to § 1981a seems quite sound;  the Report's indifferent citation to two antithetical opinions cannot reflect a focus on their exact meaning.
+
+    
+
+    
+      ¶22
+      Significantly, even the co-sponsors of § 1981a do not seem to have taken an expansive view of the availability of punitive damages under § 1981.  "Under 42 U.S.C. § 1981, victims of intentional racial and ethnic discrimination are entitled not only to equitable relief, but also to compensatory damages.  Further, in egregious cases, punitive damages may also be awarded."   137 Cong. Rec.  S 15483 (Oct. 30, 1991) (Sponsors' Interp.  Memo) (emphasis added).
+
+    
+
+    
+      ¶23
+      Finally, the House Report also cites the Supreme Court's decision in Smith v. Wade, 461 U.S. 30, 103 S.Ct. 1625, 75 L.Ed.2d 632 (1983);  see House Report at 74.  More specifically, the Report includes a "pin cite" to the concluding passage of Smith, 461 U.S. at 56, 103 S.Ct. at 1640, in which the Court announced that "a jury may be permitted to assess punitive damages in an action under [42 U.S.C.] § 1983 when the defendant's conduct is shown to be motivated by evil motive or intent, or when it involves reckless or callous indifference to the federally protected rights of others."   That Congress ultimately enacted language similar to that employed in Smith v. Wade is clear;  we now turn to the implications of that decision for our question.
+
+    
+
+    
+      ¶24
+      Kolstad asks us to draw from Smith v. Wade the broad principle that the issues of compensatory and punitive liability must go to the jury on the same evidentiary standard in civil rights cases.  But we do not read that decision--much less the House Report's isolated citation to Smith 's linguistic formula--to go so far.  In Smith, an inmate sued a prison guard (among others) under 42 U.S.C. § 1983, alleging that the guard violated his Eighth Amendment rights by failing to protect him from violent physical and sexual abuse.  The sole dispute was over the proper standard for punitive damages, and because § 1983 makes no reference to such a remedy, the Court looked to common law for the answer.  It rejected the proposition that "actual malicious intent--'ill will, spite, or intent to injure,' " id. at 37, 103 S.Ct. at 1630, was required for punitive damages, and held instead, as noted above, that they were allowable when the defendant's conduct was "motivated by evil motive or intent, or when it involve[d] reckless or callous indifference to the federally protected rights of others."  Id. at 56, 103 S.Ct. at 1640.
+
+    
+
+    
+      ¶25
+      The Court in Smith noted at the outset that compensatory damages had been assessed at trial on an extremely demanding standard, one which itself incorporated a requirement of egregiousness:
+
+    
+
+    
+      ¶26
+      In this case, the jury was instructed to apply a high standard of constitutional right ("physical abuse of such base, inhumane and barbaric proportions as to shock the sensibilities").  It was also instructed, under the principle of qualified immunity, that Smith could not be held liable at all unless he was guilty of "a callous indifference or a thoughtless disregard for the consequences of [his] act or failure to act," or of "a flagrant or remarkably bad failure to protect" Wade.
+
+    
+
+    
+      ¶27
+      Id. at 50-51, 103 S.Ct. at 1637.   Thus, while the criterion adopted by the Court for punitive damages was not egregious in relation to the applicable compensatory standard, it clearly was so in relation to ordinary tortious conduct.  Any of the discriminatory acts penalized by § 1981a is deplorable and wrong, but not all rise (or sink) to equivalence with "physical abuse of such base, inhumane and barbaric proportions as to shock the sensibilities."   Thus the decision in Smith supports rather than refutes the idea that some form of egregiousness is essential for punitive damages.
+
+    
+
+    
+      ¶28
+      In fact, the Court made clear that "deterrence of future egregious conduct is a primary purpose ... of punitive damages."  Id. at 49, 103 S.Ct. at 1636 (emphasis added).  It invoked common law standards using such terms as "injury ... inflicted maliciously or wantonly," "criminal indifference to civil obligations," id. at 41, 103 S.Ct. at 1632 (quoting Philadelphia, W. & B. R. Co. v. Quigley, 62 U.S.  (21 How.) 202, 214, 16 L.Ed. 73 (1858)), "wilful misconduct," and "conscious indifference to consequences," id. at 42-43, 103 S.Ct. at 1633 (quoting Milwaukee & St. Paul R. Co. v. Arms, 91 U.S.  (1 Otto) 489, 495, 23 L.Ed. 374 (1875)).  Tellingly, the Court drew its formulation of the appropriate standard for punitive damages from the Restatement of Torts, which says that punitive damages are allowable "for conduct that is outrageous, because of the defendant's evil motive or his reckless indifference to the rights of others."   Restatement (Second) of Torts § 908(2) (1977) (emphasis added).  The Smith Court quoted the Restatement's observation that punitive damages are awarded "to punish [the defendant] for his outrageous conduct and to deter him and others like him from similar conduct in the future."  Id. § 908(1) (quoted in Smith, 461 U.S. at 54, 103 S.Ct. at 1639) (emphasis added).  The comments to Section 908 add that punitive damages are only appropriate where there is "some element of outrage similar to that usually found in crime."  Id., comment b.  See also  id., comment d (although award of punitive damages left to jury discretion, "[i]t is error ... to award punitive damages if there has been no bad motive or wanton indifference").
+
+    
+
+    
+      ¶29
+      The Court itself has since recognized that even in its § 1983 context the Smith formula will commonly generate two tiers of liability.  In a later § 1983 case in which a trial court's instructions had allowed the jury to include an impermissible element in calculation of compensatory damages, the Court considered whether the award could nonetheless be saved by recharacterizing it as punitive damages.  Memphis Community School Dist. v. Stachura, 477 U.S. 299, 306 n. 9, 106 S.Ct. 2537, 2542 n. 9, 91 L.Ed.2d 249 (1986).  The Court rejected this view, noting that punitive damages "are available only on a showing of the requisite intent," and citing as examples both Smith and the jury instructions in the case before it, which "authoriz[ed] punitive damages for acts 'maliciously, or wantonly, or oppressively done'."  Id.
+
+    
+
+    
+      ¶30
+      In short, then, we construe Smith as establishing a threshold requirement of egregiousness for the imposition of punitive damages in § 1983 cases--a requirement which Congress transferred largely intact to § 1981a(b)(1).  This case does not require us to define this requirement with specificity, for the evidence presented by Kolstad, as we will discuss shortly, fails to show egregiousness in any form.  We think, however, that punitive damages would properly reach the jury where, for example, the evidence shows that the defendant engaged in a pervasive pattern of discriminatory acts, or manifested genuine spite and malevolence,4 or otherwise evinced a "criminal indifference to civil obligations," Smith, 461 U.S. at 41, 103 S.Ct. at 1632 (quoting Philadelphia, W. & B.R. Co. v. Quigley, 62 U.S.  (21 How.) 202, 214, 16 L.Ed. 73 (1858)).
+
+    
+
+    
+      ¶31
+      One might agree with this characterization of egregiousness and still contend that the determination of that threshold in individual cases has been entrusted by Smith--and hence derivatively by § 1981a(b)(1) as well--to the jury's "discretionary moral judgment."  Smith, 461 U.S. at 52, 103 S.Ct. at 1638.   We do not think § 1981a(b)(1) upsets the traditional relationship between court and jury in this fashion.  Nor, in fact, do we think Smith itself granted unfettered discretion to juries to determine whether the minimum requirements for punitive damages have been met.  The Court in Smith correctly pointed out that punitive damages "are never awarded as of right, no matter how egregious the defendant's conduct."  461 U.S. at 52, 103 S.Ct. at 1638.   Rather, as the Eighth Circuit recently said in a § 1983 case, "punitive damages are awarded or rejected in a particular case at the discretion of the fact finder once sufficiently serious misconduct by the defendant is shown.  "  Coleman v. Rahija, 114 F.3d 778, 787 (8th Cir.1997) (emphasis added).  The Smith Court said that the jury retains "discretionary moral judgment" over the award of punitive damages, but this simply restates the commonplace that the jury can choose not to award them even when the evidence is sufficient to give it the choice.  And indeed, none of the authorities cited in Smith in support of the "discretionary moral judgment" proposition goes so far as to deny the court's traditional role in deciding whether a reasonable juror could find the defendant's conduct sufficiently egregious for the punitive damages issue to be submitted to the jury in the first instance.  See, e.g., Chuy v. Philadelphia Eagles Football Club, 595 F.2d 1265, 1277-78 n. 15 (3d Cir.1979) (en banc) ("Although the underlying conduct must be outrageous to sustain liability [for intentional infliction of emotional distress], the factfinder may conclude, on the record in a particular case, that exemplary damages would not be warranted.")  (emphasis added) (cited in Smith v. Wade, 461 U.S. at 52 n. 14, 103 S.Ct. at 1638 n. 14).
+
+    
+
+    
+      ¶32
+      Lower courts have consequently read Smith as establishing a legal standard of egregiousness that must be met before the issue of punitive damages may go to the jury in a § 1983 case.  See, e.g., Coleman, 114 F.3d at 788 (upholding award of compensatory damages but finding that the defendant's "conduct in this case was not sufficiently egregious to justify the imposition of punitive damages");  Cornell v. Woods, 69 F.3d 1383, 1391 (8th Cir.1995) (affirming liability for intentional violation of plaintiff's clearly established First Amendment rights, but holding that defendants' conduct, "though certainly not to be commended, did not rise to a level of egregiousness sufficient to justify the imposition of punitive damages");  Ivey v. Wilson, 832 F.2d 950, 958 (6th Cir.1987) (citing Smith v. Wade in reversing jury award of punitive damages in § 1983 case);  Soderbeck v. Burnett County, 752 F.2d 285, 289 (7th Cir.1985) (holding that defendant's politically motivated firing of plaintiff was enough to subject him to compensatory but not punitive damages);  Lavicky v. Burnett, 758 F.2d 468, 477 (10th Cir.1985) (affirming judgment of liability for intentional violation of plaintiff's Fourth, Fifth, and Fourteenth Amendment rights but holding that "there was no evidence of malice, wantonness or oppressiveness to justify punitive damages");  Wulf v. City of Wichita, 883 F.2d 842, 867 (10th Cir.1989) (affirming § 1983 liability for termination motivated by plaintiff's protected speech, but reversing award of punitive damages, holding that "not every intentional violation of a plaintiff's constitutional rights subjects a defendant to punitive damages").
+
+    
+
+    
+      ¶33
+      There was, of course, no separate punitive damages provision in § 1983 for the Court to interpret in Smith.   Our task in this case is to construe a comprehensive statutory scheme that includes a separate standard for punitive damages.  For Congress to have enacted the statutory terms of § 1981a(b)(1) merely as guidelines to channel the jury's otherwise unchecked discretion would be quite a novelty.  We know of no other statutory provision that functions that way.  Congress writes laws;  we do not casually assume it to have done nothing more than draft jury instructions.  Indeed, it is difficult to imagine where one would look to find standards that operate as a matter of law if not to the laws that Congress has duly enacted.
+
+    
+
+    
+      ¶34
+      The House Report lends support to this common sense view.  In speaking of the "even higher standard" the plaintiff "must meet" to get punitive damages, the Report appears to assume that the legislation will function in the normal way:  by establishing a legal standard, not simply a verbal formulation to be pondered by juries with no role for the trial court.  Thus, the Report notes that the § 1981a(b)(1) limitation, among others, "serve[s] to check jury discretion in awarding such damages."   House Report at 72.
+
+    
+
+    
+      ¶35
+      Kolstad contends that our insistence on preserving two meaningful tiers of liability across the range of Title VII cases is undercut by two Supreme Court opinions, Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 105 S.Ct. 613, 83 L.Ed.2d 523 (1985), and Hazen Paper Co. v. Biggins, 507 U.S. 604, 113 S.Ct. 1701, 123 L.Ed.2d 338 (1993), which together rejected an egregiousness requirement for "liquidated damages" under the Age Discrimination in Employment Act.  But liquidated damages under the ADEA and punitive damages under Title VII are not twins.  To begin with, the relevant language is different:  the ADEA requires "willful" conduct, not "malice" or "reckless indifference."  29 U.S.C. § 626(b).
+
+    
+
+    
+      ¶36
+      Further, under the ADEA liquidated damages are double damages;  that is, they are always equal in amount to the compensatory award.  See 29 U.S.C. § 216(b).  By contrast, although the sum of compensatory and punitive damages is capped in absolute terms under Title VII, the proportion of punitive to compensatory damages is statutorily unconstrained.  Thus in an individual case the ratio may be astronomical--in principle infinite, if no compensatory damages are awarded.  It is one thing to award numerically equal compensatory and liquidated damages on the basis of the same conduct (the concept of double or treble damages for a single violation is not an unfamiliar one);  it is quite another to leverage a compensatory award into a punitive award that is ten or a hundred times greater, with no showing of heightened culpability.
+
+    
+
+    
+      ¶37
+      We turn next to the reading of the statute proposed by the dissent, though not by Kolstad--a reading which preserves the form of a two-tiered structure but scarcely the substance.  The argument runs as follows:  Punitive damages are available when the defendant displays reckless indifference to the plaintiff's federally protected rights.  If the scope or nature of a given right is sufficiently obscure, a defendant might intentionally discriminate but be merely negligent as to the existence of the right.  Such a defendant would be subject to compensatory but not punitive damages.  This approach in effect carves out a mistake-of-law defense to punitive liability.
+
+    
+
+    
+      ¶38
+      We find it extremely unlikely that Congress meant to codify a mistake-of-law defense through § 1981a(b)(1), much less that it did so in "plain language," as the dissent repeatedly insists.  Dissent at 971, 973, 975.  Contrary to the dissent's confident assurances, we find the formulation Congress chose--"with malice or with reckless indifference to the federally protected rights of an aggrieved individual"--to be an unusually imprecise and roundabout way of articulating a mistake-of-law defense.  Of course there is no principle that Congress must pick the clearest or most direct expression of its standards.  But the ornateness of the reasoning needed to read the section as giving juries discretion to award punitive damages for all knowing violations of Title VII, in relation to simplicity of the language Congress might have used to achieve that result, makes such a reading extremely improbable.5
+
+    
+
+    
+      ¶39
+      The improbability only increases when one reflects that the class of disparate treatment cases that could escape exposure to punitive damages on the dissent's theory is small, perhaps vanishingly so.  The prohibition against basing employment decisions on sex, race, and other impermissible factors is pervasive and well understood, as the dissent itself observes.  See Dissent at 973 (noting that "the statute and its prohibition against discrimination are well known to employers").  In the typical intentional discrimination case an employer could not plausibly argue that it was merely negligent as to the law's command.  Nor do employers often (or advisedly) defend on the sincere but mistaken basis that religion, sex, or national origin constitutes a bona fide occupational qualification, and as a matter of law they may never make such a claim for race.  See 42 U.S.C. § 2000e-2(e).  Indeed, the relative implausibility of such "good faith" defenses in the Title VII context reveals another feature that distinguishes this case from Thurston and Hazen.   Given the widespread belief among employers that age can sometimes be a bona fide occupational qualification--a belief reflected in mandatory retirement programs--the Supreme Court could reasonably suggest in Hazen that its broad reading of "willful" would not frustrate any legislative intention to create "two tiers of liability across the range of ADEA cases."  507 U.S. at 616, 113 S.Ct. at 1709.   Such a suggestion would be far weaker in relation to religion, sex, or national origin discrimination under Title VII and completely out of place for the race component.  If § 1981a(b)(1) does nothing more than establish a narrow mistake-of-law defense, then every garden-variety disparate treatment case qualifies for both compensatory and punitive damages--a result, as we have already said, that seems hard to square with Congress's chosen structure and language.
+
+    
+
+    
+      ¶40
+      In its effort to show that its approach would not obliterate the difference in standards between compensatory and punitive exposure under Title VII, the dissent places considerable emphasis on the scenario involving "an attenuated agency relationship" between an employer/defendant and an employee who intentionally discriminates.  Dissent at 974.6  But even in such cases the dissent does not argue that its approach would produce a meaningful two-tiered system, in which a significant fraction of cases would go to the jury on compensatory but not punitive damages.  Instead, it simply serves up another helping of the "discretionary moral judgment" argument--predicting that when "the jury focuses on the employer's ... awareness of its legal obligation," id., it may be swayed by evidence that the employer has hired Title VII--sensitive managers or has provided punctilious equal employment opportunity training.  Perhaps juries would be so swayed under the dissent's approach, but that does not answer the question of what legal standard Congress meant to establish by enacting § 1981a(b)(1).  And as we have already noted, any test that makes the difference between compensatory and punitive exposure depend on the employer's awareness of Title VII's legal mandates is likely to produce only a negligible set of cases in which compensatory but not punitive damages are available.
+
+    
+
+    
+      ¶41
+      Just as important, the dissent never explains why it believes "[a]ttribution of employee state of mind differs when the jury turns to the question of punitive damages."   Dissent at 974.  In Title VII cases, the defendant is the employer, and an employer is liable for "company acts"--hirings, firings, promotions, demotions--performed by employees within the scope of their employment.7  If those acts amount to intentional discrimination, the employer is subject to compensatory damages;  if the acts satisfy the requirements of § 1981a(b)(1), the employer is subject to punitive damages.  There is nothing in the language of § 1981a(b)(1) that would derail this standard presumption of respondeat superior for company acts--and certainly that provision contains no clear textual invitation for courts to explore the "employer's awareness," Dissent at 971, whatever that indeterminate phrase might mean.  In short, we fail to see how the dissent's special new rule of imputation for punitive damages finds any grounding in the statute's "plain language."
+
+    
+
+    
+      ¶42
+      We note in conclusion that our decision today aligns us with all but one of the several circuit courts to address this question.  See McKinnon v. Kwong Wah Restaurant, 83 F.3d 498, 508 (1st Cir.1996) (endorsing concept of a higher standard for punitive damages under § 1981a, and noting that such damages "are awarded as a matter of public policy to punish outrageous conduct by the defendant or to deter similar conduct in the future");  Harris v. L & L Wings, Inc., 132 F.3d 978, 982 (4th Cir.1997) (holding that under § 1981a, "[p]unitive damages are an extraordinary remedy, to be reserved for egregious cases," and "are not an element of recovery in every case involving an intentional tort") (citation omitted);  Turic v. Holland Hospitality, Inc., 85 F.3d 1211, 1216 (6th Cir.1996) (despite sufficiency of evidence for liability and "duplicitous" actions of defendant's employees, evidence held insufficient for punitive damages);  Emmel v. Coca-Cola Bottling, 95 F.3d 627, 636 (7th Cir.1996) (characterizing standard for punitive damages as a "higher hurdle" than that for proving the underlying discrimination);8   Karcher v. Emerson Electric Co., 94 F.3d 502, 509 (8th Cir.1996) (although jury could properly infer intentional sex discrimination from inconsistent nature of hiring process and failure to select and train women, it could not find malice or deliberate indifference);  Ngo v. Reno Hilton Resort Corp., 140 F.3d 1299 (9th Cir.1998) (requiring "evidence of conduct more egregious than intentional discrimination to support an award of punitive damages in Title VII cases");  but see Luciano v. Olsten Corp., 110 F.3d 210, 219-20 (2d Cir.1997) (finding that no additional evidence is required for punitive liability).
+
+    
+
+    
+      ¶43
+      The evidence in this case does not show the kind of egregious discriminatory conduct necessary for the imposition of punitive damages.  As the district court noted, 912 F.Supp. at 14-15, the jury's finding of discrimination appears to have been premised largely if not exclusively upon its apparent rejection, as mere pretext, of ADA's proffered rationales--that Kolstad's legislative experience and writing skills were inadequate.  Whether such a rejection, by itself, is enough to support an award of compensatory damages is a question for a different en banc proceeding, see Aka v. Washington Hospital Center, 116 F.3d 876 (D.C.Cir.1997), vacated pending rehearing en banc, 124 F.3d 1302 (D.C.Cir.1997), but in this case it falls far short of supplying grounds for a punitive award.9
+
+    
+
+    
+      ¶44
+      There was substantial evidence to indicate that Spangler was pre-selected for the promotion, and that Kolstad was never seriously in the running.  Evidence of pre-selection may of course be "relevant to the question of discriminatory intent" insofar as an employer's departure from its own hiring and promotion procedures might suggest that the reasons it advances for its actions are pretextual.  Krodel v. Young, 748 F.2d 701, 709 (D.C.Cir.1984).  But pre-selection by itself is neither unusual nor illegal, much less egregiously wrongful.  Indeed, where the selection is to be made from among a narrow band of current employees well known to the selectors, it is hard to see how there could not be a substantial degree of pre-selection--unless the decision-makers were asleep at the switch or the candidates' track records were virtually identical.  The dissent lingers over the evidence concerning the process by which Spangler was promoted, see Dissent at 978-979, but the only evidence it adduces to show ADA's knowledge of "the impropriety of preselection" is a consent decree--expired at the time of the operative events--under which ADA undertook not to engage in the practice.  Id. at 978-979.   It scarcely bears repeating that "a consent decree is a form of contract," Richardson v. Edwards, 127 F.3d 97, 101 (D.C.Cir.1997), not a statement of what the law considers wrongful.  Consequently, evidence of pre-selection is relevant only insofar as it logically supports an inference of discriminatory intent, i.e., trivially at best.  For the same reason we reject Kolstad's fallback position that we should remand for a new trial on punitive damages with a direction that the trial court admit the consent decree into evidence.
+
+    
+
+    
+      ¶45
+      The only evidence that pointed toward gender bias was Kolstad's testimony that Wheat told sexually offensive jokes at staff meetings and on occasion used derogatory terms to refer to prominent professional women.  But Wheat, as mentioned above, did not make the decision to promote Spangler over Kolstad;  Allen did.  In any event, sexist remarks, tasteless and lamentable though they may be, are "not always conclusive of sex discrimination."  Neuren v. Adduci, Mastriani, Meeks & Schill, 43 F.3d 1507, 1513 (D.C.Cir.1995).  Wheat's statements standing alone do not form an adequate basis for an award of punitive damages.
+
+    
+
+    
+      ¶46
+      The judgment of the district court on the matter of punitive damages is
+
+    
+
+    
+      ¶47
+      Affirmed.
+
+    
+
+    RANDOLPH, Circuit Judge, concurring:
+
+    
+      ¶48
+      The interpretative problem in this case starts with the interplay of the words "intentional discrimination," which suffices for compensatory damages, 42 U.S.C. § 1981a(a), and "reckless indifference," which along with the alternative "malice" is a prerequisite for punitive damages, id. § 1981a(b)(1).  The judicial mind naturally tends to view these words against a legal background, here a Supreme Court decision defining "malice" to include recklessness, Smith v. Wade, 461 U.S. 30, 39 & n. 8, 103 S.Ct. 1625, 1631 & n. 8, 75 L.Ed.2d 632 (1983);  and the common legal notion, as expressed in the MODEL PENAL CODE § 2.02(5), that "[w]hen recklessness suffices to establish an element, such element also is established if a person acts purposely or knowingly."   If one fed this data into a parsing machine, it would answer--s 1981a(a)'s standard for compensatory damages subsumes § 1981a(b)(1)'s standard for punitive damages, or whenever there is intentional discrimination there is at least reckless disregard.  Yet one cannot help wondering why Congress would have enacted two separate provisions when one would have sufficed, and why all employers liable under § 1981a(a) should be swept within § 1981a(b)(1).  Those who voted for this legislation surely must have believed that they were voting for a two-tiered damages system, as the majority opinion describes it.  If the dissent is nevertheless correct in its interpretation, the punitive damages subsection must be the product of a very clever draftsman, someone who wanted to convey the appearance of limiting punitive damages to exceptional cases, while hoping that courts would draw upon other legal sources to find the limitation an illusion.  Despite the dissent's linguistic points, the majority opinion convinces me that Congress wanted the subsections kept separate, that it intended punitive damages to be reserved for only the worst cases.  The structure of § 1981a certainly points in that direction, as do the historical materials, the policies promoted by punitive damages and the other factors skillfully marshalled in the majority opinion.  Although the matter is exceedingly close, I also believe the language of § 1981a(b)(1) will bear the meaning the majority opinion ascribes to it.  I therefore concur.
+
+    
+
+    
+      ¶49
+      TATEL, Circuit Judge, with whom HARRY T. EDWARDS, Chief Judge, WALD, ROGERS, and GARLAND, Circuit Judges, join, dissenting:
+
+    
+
+    
+      ¶50
+      A jury found that the American Dental Association ("ADA") intentionally discriminated against Carole Kolstad on the basis of sex when it denied her a promotion in favor of a male candidate.  Under the Civil Rights Act of 1991, 42 U.S.C. § 1981a(b)(1) (1994), victims of intentional employment discrimination who demonstrate that the employer acted "with malice or with reckless indifference to [their] federally protected rights" may recover punitive damages.  This court now holds that Congress meant to require something more serious than intentional discrimination--some undefined quantum of egregiousness--before a jury may consider punitive damages.  Because this amorphous requirement nullifies the plain language of section 1981a(b)(1)'s reckless indifference standard, and because it conflicts with Supreme Court decisions in Smith v. Wade, 461 U.S. 30, 103 S.Ct. 1625, 75 L.Ed.2d 632 (1983), and Hazen Paper Co. v. Biggins, 507 U.S. 604, 113 S.Ct. 1701, 123 L.Ed.2d 338 (1993), I respectfully dissent.
+
+    
+
+    
+      ¶51
+      * Asserting that Congress "did not intend to make punitive damages automatically available in the standard case of intentional discrimination under Title VII," Maj.  Op. at 961, the court declares that the evidence supporting punitive damages "must exceed what is needed to show intentional discrimination," id.   If Congress had wanted to require something more serious than intentional discrimination, however, it would have limited section 1981a(b)(1) to "malice," or it would have written the statute to require "malice or egregiousness."   But section 1981a(b)(1) never mentions egregiousness.  Instead, it allows the jury to consider punitive damages if the employer acts not only with malice, but also with "reckless indifference to ... federally protected rights."   Because this court's duty is to "give effect, if possible, to every clause and word of [the] statute," Bennett v. Spear, 520 U.S. 154, ----, 117 S.Ct. 1154, 1166, 137 L.Ed.2d 281 (1997) (internal quotation marks omitted), we may not ignore the reckless indifference standard, but must interpret it as written by Congress.  See National Credit Union Admin. v. First Nat'l Bank & Trust Co., 522 U.S. 479, ---- - ----, 118 S.Ct. 927, 938-40, 140 L.Ed.2d 1 (1998).
+
+    
+
+    
+      ¶52
+      According to its plain language, section 1981a(b)(1)'s "reckless indifference" threshold for punitive damages focuses on the employer's awareness of "federally protected rights."   In Smith v. Wade, from which Congress drew section 1981a(b)(1)'s language, see H.R. REP. NO  . 102-40, pt. 1, at 74 (1991) (citing Smith), Justice Brennan's opinion for the Court referred to this inquiry as a measure of the defendant's "subjective consciousness of risk ... of unlawfulness.  "  Smith, 461 U.S. at 38 n. 6, 103 S.Ct. at 1631 n. 6 (emphases altered).  As this court said in a different context, " 'the wrongdoer must consciously be aware of his wrongdoing, i.e., the actor must not only intend to do the act found to be wrongful, but also must know that his conduct is wrongful.' "  Saba v. Compagnie Nationale Air France, 78 F.3d 664, 668 (D.C.Cir.1996) (emphasis omitted) (quoting In re Korean Air Lines Disaster of Sept. 1, 1983, 704 F.Supp. 1135, 1136 (D.D.C.1988)).
+
+    
+
+    
+      ¶53
+      Although the details of the recklessness standard remain open to debate, see Maj.  Op. at 962 (citing Saba, 78 F.3d at 668-69, and United States v. Krizek, 111 F.3d 934, 941 (D.C.Cir.1997));  cf. Farmer v. Brennan, 511 U.S. 825, 836-37, 114 S.Ct. 1970, 1978-79, 128 L.Ed.2d 811 (1994) (discussing objective and subjective tests for reckless disregard), its basic contours are well settled;  the language of section 1981a(b)(1) is not the blank slate that the court seeks to make of it.  Whether relying on the employer's mental state (Saba) or inferring recklessness from the entire record (Krizek), a jury can award punitive damages under section 1981a(b)(1) if the employer either knew of Title VII's prohibitions and acted regardless or disregarded a substantial risk of violating the statute.  Cf. W. PAGE KEETON ET AL., PROSSER AND KEETON ON THE LAW OF TORTS § 34, at 213 (5th ed.1984) (noting that the "usual meaning" of "reckless" is that "the actor has intentionally done an act of an unreasonable character in disregard of a known or obvious risk that was so great as to make it highly probable that harm would follow").
+
+    
+
+    
+      ¶54
+      The court and concurring opinion reject the statute's reckless indifference standard because they view it, mistakenly in my view, as "subsumed" by section 1981a(a)'s liability determination.  When the jury determines liability in a Title VII disparate treatment case, it considers only whether the employer made the challenged employment decision "because of" the plaintiff's race, color, religion, sex, or national origin.  See 42 U.S.C. § 2000e-2.  The employer's awareness of its legal obligations plays no role.  In this case, for example, the verdict in Kolstad's favor, a verdict unanimously affirmed by the panel and not now before this court, rested solely on the jury's conclusion that ADA denied Kolstad the promotion because of her sex.  ADA's liability for punitive damages, by comparison, turns on its awareness of its legal obligations:  When it denied Kolstad the promotion because of sex, did it intend to violate Title VII?   Did it know of its legal obligations yet recklessly disregard them?   Or can reckless indifference to federally protected rights be inferred from the entire record?
+
+    
+
+    
+      ¶55
+      Criticizing this reading of the Act, the court says that "any test that makes the difference between compensatory and punitive exposure depend on the employer's awareness of Title VII's legal mandates is likely to produce only a negligible set of cases in which compensatory but not punitive damages are available."   Maj. Op. at 968.  Quite apart from its entirely speculative nature, this statement disregards the fact that section 1981a(b)(1), by focusing specifically on whether the employer acted with "reckless indifference ... to federally protected rights," in fact makes the difference between compensatory and punitive damages "depend on the employer's awareness of Title VII's legal mandates."
+
+    
+
+    
+      ¶56
+      In addition to appearing nowhere in section 1981a, the court's new egregiousness requirement conflicts with Smith v. Wade 's holding that "a jury may be permitted to assess punitive damages in an action under [42 U.S.C.] § 1983 when the defendant's conduct is shown to be motivated by evil motive or intent, or when it involves reckless or callous indifference to the federally protected rights of others," Smith, 461 U.S. at 56, 103 S.Ct. at 1640.   Rejecting the notion that punitive damages under section 1983 require anything as egregious as "actual malicious intent--'ill will, spite, or intent to injure,' " Smith, 461 U.S. at 37, 103 S.Ct. at 1630, the Court noted that the majority common law rule recognizes that "punitive damages in tort cases may be awarded not only for actual intent to injure or evil motive, but also for recklessness, serious indifference to or disregard for the rights of others, or even gross negligence," id. at 48, 103 S.Ct. at 1636.   Although citing the Restatement (Second) of Torts' view that punitive damages "punish [the defendant] for his outrageous conduct," RESTATEMENT (SECOND) OF TORTS § 908(1) (1979), quoted in Smith, 461 U.S. at 54, 103 S.Ct. at 1639, Smith actually draws its standard for punitive damages from the Restatement's subsequent explanation that conduct can be outrageous "because of the defendant's evil motive or his reckless indifference to the rights of others," id. § 908(2) (emphasis added), quoted in Smith, 461 U.S. at 46-47, 103 S.Ct. at 1635-36.
+
+    
+
+    
+      ¶57
+      Smith also rejected the proposition, central to my colleagues' interpretation of section 1981a, that "the threshold for punitive damages should always be higher than that for liability in the first instance," Smith, 461 U.S. at 38, 103 S.Ct. at 1631;  see also id. at 51-54, 103 S.Ct. at 1637-39.   According to Smith, the reckless indifference threshold for punitive damages "applies even when the underlying standard of liability for compensatory damages is one of recklessness."  Id. at 56, 103 S.Ct. at 1640.
+
+    
+
+    
+      ¶58
+      The Supreme Court reached the same result under the Age Discrimination in Employment Act ("ADEA"), notwithstanding that statute's "two-tiered scheme of liability," Maj.  Op. at 962.  Interpreting the term "willful" as used in the ADEA, the Court held that an employer should be assessed liquidated damages, the statute's equivalent of punitive damages, if it 'knew or showed reckless disregard for the matter of whether its conduct was prohibited by the ADEA."  Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 126, 105 S.Ct. 613, 624, 83 L.Ed.2d 523 (1985) (quoting Air Line Pilots Ass'n, Int'l v. Trans World Airlines, Inc., 713 F.2d 940, 956 (2d Cir.1983)).  Lower courts, concerned that the reckless disregard standard "would defeat the two-tiered system of liability intended by Congress, because every employer that engages in informal age discrimination knows or recklessly disregards the illegality of its conduct," Hazen Paper, 507 U.S. at 615-16, 113 S.Ct. at 1709, added just the kind of heightened culpability requirement that my colleagues now read into section 1981a, see id. at 615, 113 S.Ct. at 1708-09 (citing, e.g., Lockhart v. Westinghouse Credit Corp., 879 F.2d 43, 57-58 (3d Cir.1989), which allowed liquidated damages only if employer's conduct was "outrageous").  Flatly rejecting these decisions, Hazen Paper holds that "[t]he ADEA does not provide for liquidated damages 'where consistent with the principle of a two-tiered liability scheme.'   It provides for liquidated damages where the violation was 'willful.'  ...  Once a 'willful' violation has been shown, the employee need not additionally demonstrate that the employer's conduct was outrageous."  Id. at 616-17, 113 S.Ct. at 1709-10.
+
+    
+
+    
+      ¶59
+      Read in light of Smith and Hazen Paper, section 1981a's plain language thus leaves no doubt that juries may consider punitive damages on the basis of evidence showing nothing more than "reckless indifference to ... federally protected rights."   Moreover, even though the liability determination (Did the employer intentionally take account of sex?) differs from the reckless indifference inquiry (When the employer intentionally discriminated, was it aware of its legal obligations?), proof of unlawful intentional discrimination can also demonstrate reckless indifference to federally protected rights.  Considering that Congress passed the Civil Rights Act over three decades ago, that the statute and its prohibition against discrimination are well known to employers, that many companies have instituted Title VII compliance programs, and that an industry of equal employment opportunity consultants and attorneys is readily available to employers in need of assistance, a jury could reasonably conclude that an employer nevertheless refusing to hire or promote a woman because of sex is worthy of punishment.
+
+    
+
+    
+      ¶60
+      This does not mean, as the court fears, that juries will automatically award punitive damages in every Title VII disparate treatment case.  Punitive damages "are never awarded as of right, no matter how egregious the defendant's conduct."  Smith, 461 U.S. at 52, 103 S.Ct. at 1638.   If a jury believes that an employer has acted maliciously or with reckless indifference to a plaintiff's federally protected rights, it then decides whether to punish the defendant, a determination the law leaves to the jury's "discretionary moral judgment."  Id.  Although a jury exercising its moral discretion might conclude that an employer recklessly indifferent to federally protected rights deserves punishment, a jury could also reach the opposite conclusion, that because of extenuating circumstances--e.g., the employer had no history of discrimination, showed remorse, or had already taken steps to rectify the injury--the employer should not have to pay punitive damages.
+
+    
+
+    
+      ¶61
+      Because liability and punitive damages require distinct inquiries, moreover, employers found to have intentionally discriminated in employment in violation of federal law may introduce evidence to demonstrate that they did everything they could to comply with the law and were therefore not recklessly indifferent to their legal obligations.  In Trans World Airlines, Inc. v. Thurston, for example, the Supreme Court held that employers who intentionally violate the ADEA may nevertheless avoid liquidated damages by demonstrating that they attempted "reasonably and in good faith" to comply with the law.  Thurston, 469 U.S. at 129, 105 S.Ct. at 625.   Although finding that TWA's mandatory retirement policy violated the Act, the Court denied plaintiffs liquidated damages because, by seeking legal advice and consulting with the union, TWA demonstrated that it had not acted in " 'reckless disregard' of the requirements of the ADEA."  Id. at 130, 105 S.Ct. at 626.   Cf., e.g., Harris v. L & L Wings, Inc., 132 F.3d 978, 984 (4th Cir.1997) (noting "that the institution of a written sexual harassment policy goes a long way towards dispelling any claim about the employer's 'reckless' or 'malicious' state of mind").
+
+    
+
+    
+      ¶62
+      For similar reasons, employers found to have intentionally discriminated in violation of Title VII may be able to persuade a jury that they had acted without reckless indifference;  employers may even be able to convince a judge to remove the question of punitive damages from jury consideration altogether.  For example, evidence that an employer erroneously used religion, sex, or national origin as a "bona fide occupational qualification" for employment, see 42 U.S.C. § 2000e-2(e), or overreached in a good-faith effort to remedy the effects of past discrimination, could demonstrate that the employer acted without reckless indifference to its legal obligations.  Punitive damages might be equally inappropriate where liability rests on a novel legal theory.  See, e.g., Turic v. Holland Hospitality, Inc., 85 F.3d 1211, 1216 (6th Cir.1996) (denying punitive damages although holding employer liable for dismissing female employee who had contemplated an abortion, an entirely novel theory of liability);  see also Hernandez-Tirado v. Artau, 874 F.2d 866, 870 (1st Cir.1989) (although intentionally violating the First Amendment in a politically motivated employment decision, defendant was only "negligent [as] to the existence of a federally protected right").
+
+    
+
+    
+      ¶63
+      Evidence sufficient to prove liability may also fall short of establishing an employer's reckless indifference to its legal obligations where the employer's liability arises from an attenuated agency relationship with an employee found to have committed an intentional act of discrimination.  Because employers are responsible for injuries caused by employees acting within the scope of employment, juries considering liability in traditional Title VII cases attribute employees' intentional use of race or sex to the employer.  See Meritor Savings Bank, FSB v. Vinson, 477 U.S. 57, 75, 106 S.Ct. 2399, 2409-10, 91 L.Ed.2d 49 (1986) (Marshall, J., concurring in judgment) ("[w]hen a supervisor discriminatorily fires or refuses to promote a black employee, that act is, without more, considered the act of the employer");  see also RESTATEMENT (SECOND) OF AGENCY § 219 (1958) ("A master is subject to liability for the torts of his servants committed while acting in the scope of their employment.").  Attribution of employee state of mind differs when the jury turns to the question of punitive damages.  Because punitive damages are intended not to compensate the victim, but rather to punish employers for the discriminatory acts of employees, cf. Smith, 461 U.S. at 54, 103 S.Ct. at 1639 (in the punitive damages inquiry, "[t]he focus is on the character of the tortfeasor's conduct--whether it is of the sort that calls for deterrence and punishment over and above that provided by compensatory awards"), the jury focuses on the employer's, not the employee's, awareness of its legal obligations.  Obviously, if the person discriminating is the same as the employer--in a sole proprietorship, for example--there is no difference between the employer's awareness of its legal obligations and the employee's.  But where a gap exists in the agency relationship between the agent and the entity being held liable, i.e., where the employee making the hiring or firing decision does not constitute the employer's entire decision-making apparatus, the punitive damages inquiry requires the jury to examine the employer's awareness of the law.  An employer could thus argue that even though it had been found liable for the discriminatory acts of an employee and ordered to pay compensatory damages to the victim, it should not have to pay punitive damages because it had undertaken good-faith efforts to comply with Title VII--for example, by hiring staff and managers sensitive to Title VII responsibilities, by requiring effective EEO training, or by developing and using objective hiring and promotion standards--thereby demonstrating that it never acted in reckless disregard of federally protected rights.
+
+    
+
+    
+      ¶64
+      This interpretation of section 1981a sets up exactly the incentives Congress intended.  While Congress expected victims of intentional discrimination to be compensated for their losses, it also wanted to motivate employers to detect and deter Title VII violations.  See H.R.REP. NO. 102-40, pt. 1, at 69-70 (recounting testimony encouraging employers to design and implement effective structures to combat discrimination).  Giving punitive damages protection to employers who make good-faith efforts to prevent discrimination in the workplace accomplishes just this purpose.  Employers making no such efforts not only will have to compensate victims, but may be punished for their reckless indifference to federal law.
+
+    
+
+    
+      ¶65
+      Applying section 1981a(b)(1)'s reckless indifference standard to the facts of this case, I believe the district court should have allowed the jury to consider punitive damages.  Found to have intentionally discriminated against Kolstad, ADA never argued that it made good-faith efforts to comply with the law;  the case involves no novel issues of Title VII liability;  and the decision to deny Kolstad the promotion was made not by a low-level employee, but by ADA's executive director.  Under these circumstances, the jury should have been allowed to consider whether in denying Kolstad a promotion because of her sex ADA acted with reckless indifference to her federally protected rights.
+
+    
+
+    II
+
+    
+      ¶66
+      The court spends most of its opinion struggling to avoid the plain language of section 1981a and the holdings of Smith and Hazen Paper.   It begins by detecting an egregiousness standard in section 1981a's legislative history.  Contentious and partisan, see Landgraf v. USI Film Prods., 511 U.S. 244, 262, 114 S.Ct. 1483, 1495, 128 L.Ed.2d 229 (1994), the Act's legislative history actually manifests contradictory signals regarding congressional intent about punitive damages.  As the court acknowledges, see Maj.  Op. at 963, the House Report it relies on for a "heightened" standard cites two irreconcilable section 1981 cases--Beauford v. Sisters of Mercy-Province of Detroit, Inc., 816 F.2d 1104, 1109 (6th Cir.1987), limiting punitive damages to "egregious" cases, and Rowlett v. Anheuser-Busch, Inc., 832 F.2d 194, 205-06 (1st Cir.1987), holding that plaintiffs need prove nothing beyond intentional discrimination for juries to consider punitive damages.  The court's egregiousness standard comports with Beauford.   My interpretation of section 1981a comports with Rowlett.   Given the clarity of section 1981a's text, we should follow the statute rather than selective bits of its confused legislative history.
+
+    
+
+    
+      ¶67
+      Next, appearing to concede that Congress drew the language of section 1981a(b)(1) from Smith, see Maj.  Op. at 964, the court then reads Smith to require proof of egregiousness for punitive damages, see id. at 965.   Even if recklessly violating the Eighth Amendment is somehow more egregious than intentionally discriminating in employment on the basis of sex or race in violation of federal law, see id. at 964, it does not follow that because liability in Smith required "base, inhumane and barbaric" action, Smith, 461 U.S. at 32, 103 S.Ct. at 1628, the standard for punitive damages must always include "some form of egregiousness," Maj.  Op. at 964.  Like the remainder of the court's opinion, its reliance on Smith's underlying standard for liability rests on its failure to acknowledge that the punitive damages inquiry depends not on the seriousness of the behavior giving rise to liability, but on the defendant's awareness of its legal obligations.  Both "base, inhumane and barbaric" acts (Eighth Amendment) and intentional discrimination in employment (Title VII) can be committed with "reckless indifference to ... federally protected rights."
+
+    
+
+    
+      ¶68
+      The court relies on Memphis Community School District v. Stachura, 477 U.S. 299, 106 S.Ct. 2537, 91 L.Ed.2d 249 (1986), but nothing in that case casts doubt on Smith's holding that proof of reckless indifference suffices for punitive damages.  Noting in dicta that punitive damages are available on a showing of "requisite intent," id. at 306 n. 9, 106 S.Ct. at 2542 n. 9, Stachura drew the "maliciously, or wantonly, or oppressively done" standard not from Smith, but from the jury instruction under review in that case, see id.   Moreover, while our sister circuits have split over the meaning of Smith, compare Maj.  Op. at 966 (collecting cases reading Smith to require egregiousness), with, e.g., Savarese v. Agriss, 883 F.2d 1194, 1203-04 (3d Cir.1989) (rejecting heightened culpability requirement under Smith);  Melear v. Spears, 862 F.2d 1177, 1187 (5th Cir.1989) (applying Smith's reckless indifference standard without proof of egregiousness), we have consistently read Smith's reckless indifference standard without adding an egregiousness requirement, see, e.g., Samaritan Inns, Inc. v. District of Columbia, 114 F.3d 1227, 1239 (D.C.Cir.1997) (applying Smith to the Fair Housing Act);  Barbour v. Merrill, 48 F.3d 1270, 1277 (D.C.Cir.1995) (applying Smith to section 1981).
+
+    
+
+    
+      ¶69
+      My colleagues make two unpersuasive attempts to distinguish Hazen Paper's clear rejection of their "two-tiers" rationale.  Asserting first that the ADEA's "willful" standard has no bearing on the "malice" or "reckless indifference" required under section 1981a(b)(1), Maj.  Op. at 961, the court ignores Thurston's holding that "willful" conduct includes "reckless disregard," a term courts use interchangeably with "reckless indifference," see, e.g., Williams v. Borough of West Chester, 891 F.2d 458, 464 n. 10 (3d Cir.1989).
+
+    
+
+    
+      ¶70
+      Second, the court points out that unlike the double damages authorized by the liquidated damages provision of the ADEA, the ratio between compensatory and punitive damages under Title VII is potentially unlimited.  Maj. Op. at 966-967.  This observation is interesting, but Congress chose to deal with the risk of disproportionate punitive damages awards under Title VII by preserving judges' traditional oversight of jury discretion.   See H.R. REP. NO  . 102-40, pt. 1, at 72 ("Judges serve as an additional check:  they can and do reduce awards which are disproportionate to the defendant's discriminatory conduct or the plaintiff's resulting loss.").  I have no doubt that district courts--and, if necessary, circuit courts--have all the authority they need to correct disproportionate awards, particularly an "infinite[ly]" disproportionate award, Maj.  Op. at 967, should one ever occur.  Equally significant, when enacting the Civil Rights Act of 1991, Congress carefully limited punitive damages in other ways.  It capped total damages at between $50,000 and $300,000 depending on the employer's size, 42 U.S.C. § 1981a(b)(3), and barred punitive damages altogether in disparate impact cases, see id. § 1981a(a)(1), in mixed motive cases, see id. § 2000e-5(g)(2), and against governmental defendants, see id. § 1981a(b)(1).  Because Congress itself carefully cabined punitive damages, it is particularly inappropriate for this court to add a limitation not found in the language of the statute.  "Courts may not create their own limitations on legislation, no matter how alluring the policy arguments for doing so...."  Brogan v. United States, 522 U.S. 398, ---- - ----, 118 S.Ct. 805, 811-12, 139 L.Ed.2d 830 (1998).
+
+    
+
+    III
+
+    
+      ¶71
+      Not only does the court's egregiousness standard conflict with the language of section 1981a and with Smith and Hazen Paper, but my colleagues offer no clear definition of the term, shifting from one interpretation to another and leaving district courts little guidance.
+
+    
+
+    
+      ¶72
+      Egregiousness as a Measure of the Seriousness of the Discrimination
+
+    
+
+    
+      ¶73
+      Initially, the court equates egregiousness with the seriousness of the underlying discrimination.   See Maj.  Op. at 960, 961.  But unlike reckless indifference, or even malice, which also focuses on an employer's state of mind, see, e.g., Dellums v. Powell, 660 F.2d 802, 808 (D.C.Cir.1981) (noting that malice is a subjective inquiry), the jury considers the seriousness of the underlying intentional discrimination in setting compensatory damages;  the more egregious the harm, the greater the compensation awarded.  Of course, the egregiousness of the violation can relate to the punitive damages inquiry in the sense that egregious discrimination can be probative of malice or reckless indifference.  To consider egregiousness in awarding punitive damages, however, the jury must make an inference not required at the liability stage: that the egregiousness of the discrimination suggests malice or reckless indifference to federally protected rights.
+
+    
+
+    
+      ¶74
+      The court's effort to define egregiousness as a measure of the severity of discrimination suffers from several other defects.  At one point, for example, the court defines egregiousness as "a pervasive pattern of discriminatory acts."   Maj. Op. at 965.  Not only does the court provide no support for this new standard, but exposing only those employers to punitive damages who commit multiple acts of discrimination essentially allows employers to engage in a single act of invidious discrimination without fear of punitive damages.
+
+    
+
+    
+      ¶75
+      Offering still another definition, again without citation, the court says that egregiousness might be demonstrated by an employer's "genuine spite and malevolence."  Id.  Not content to read the reckless indifference standard out of the statute, the court here tinkers with section 1981a's other punitive damages test, suggesting that it requires not just "malice," but some kind of "genuine" malice, whatever that means.
+
+    
+
+    
+      ¶76
+      Under any of these iterations of egregiousness-as-a-measure-of-seriousness, it is entirely unclear how district judges will determine when intentional discrimination is sufficiently non-egregious to take the issue from the jury.  Never offering a clear answer, the court leaves it to district courts to decide for themselves whether an employer's conduct is worthy of punishment, thus allowing judges to usurp the jury's exercise of moral judgment.
+
+    
+
+    
+      ¶77
+      Egregiousness as a Measure of the Plaintiff's Evidence
+
+    
+
+    
+      ¶78
+      Applying its egregiousness standard to the facts of this case, see id. at 969-970, the court shifts from using egregiousness as a reflection of the seriousness of the discrimination to using it as a measure of the strength of Kolstad's proof.  According to the court, the "only evidence that pointed toward gender bias was Kolstad's testimony that Wheat told sexually offensive jokes at staff meetings and on occasion used derogatory terms to refer to prominent professional women."  Id. at 970.  "Wheat's statements standing alone," the court says, "do not form an adequate basis for an award of punitive damages."  Id.
+
+    
+
+    
+      ¶79
+      Amounting to little more than a requirement of direct rather than circumstantial evidence of discrimination as a prerequisite for punitive damages, the court's approach conflicts with Hazen Paper, 507 U.S. at 615, 113 S.Ct. at 1708-09 (rejecting requirement of Neufeld v. Searle Laboratories, 884 F.2d 335, 340 (8th Cir.1989), that underlying evidence of liability be direct before allowing liquidated damages).  It also conflicts with this circuit's case law holding that at least with respect to proof of liability, circumstantial evidence can be as probative as direct evidence.  See, e.g., Crawford-El v. Britton, 93 F.3d 813, 818 (D.C.Cir.1996) (en banc) (Williams, J.)  ("[T]he distinction between direct and circumstantial evidence has no direct correlation with the strength of [a] plaintiff's case."), rev'd on other grounds, 523 U.S. 574, 118 S.Ct. 1584, 140 L.Ed.2d 759 (1998);  cf. Thomas v. National Football League Players Ass'n, 131 F.3d 198, 204 (D.C.Cir.1997) (" '[D]irect' evidence [in the Title VII mixed motive context] may be circumstantial in nature, so long as it establishes that discriminatory motive played a substantial role in the employment decision.").  I see no reason why the same rule should not apply to proof of punitive damages, particularly since the presence or absence of direct evidence of intent is not necessarily an accurate measure of blameworthiness.  Why, for example, is an employer who leaves behind clear evidence of its intentional, discriminatory refusal to promote one woman--"these are jobs for men"--more worthy of punishment than an employer who subtly, but equally intentionally, refuses to promote an entire class of women?   Under the court's direct evidence rule, employers who effectively cover up evidence of their discriminatory intent will escape punitive damages no matter how egregious their discrimination.  Congress, acting to strengthen Title VII in the Civil Rights Act of 1991, could not have intended such a nonsensical result.
+
+    
+
+    
+      ¶80
+      Egregiousness as a Requirement of More than Mere Pretext
+
+    
+
+    
+      ¶81
+      Acknowledging that we are considering the question of whether rejection of a proffered nondiscriminatory rationale by itself can support a finding of intentional discrimination in a different en banc case, see Maj.  Op. at 969 (citing Aka v. Washington Hosp. Ctr., 116 F.3d 876 (D.C.Cir.), judgment vacated pending reh'g en banc, 124 F.3d 1302, 1302 (D.C.Cir.1997)), the court says that in this case such evidence "falls far short of supplying grounds for a punitive award," id. at 969.   Although punitive damage awards in pretext-only cases may be "improbable," id. at 969 n. 9, the court's premise is entirely unsupported by the record.  Properly reviewed, the evidence in this case demonstrates that the jury's verdict could have rested on much more than rejection of the employer's proffered nondiscriminatory justification.  This court's job is not to weigh the evidence, as my colleagues seem to have done, but to view the evidence "in the light most favorable" to Kolstad, giving her "the benefit of every fair and reasonable inference," Anderson v. Group Hospitalization, Inc., 820 F.2d 465, 471 (D.C.Cir.1987).  Viewed this way, the jury could have based its finding of liability--again, a finding of intentional discrimination affirmed unanimously by the panel--on much more than "rejection, as mere pretext, of ADA's proffered rationales," Maj.  Op. at 969.
+
+    
+
+    
+      ¶82
+      To begin with, the record contains evidence from which the jury could have concluded that Kolstad was the more qualified of the two candidates.  A lawyer, Kolstad worked for six years as the principal legislative draftsperson for the Department of Defense, preparing testimony for congressional hearings and representing the Department's interests on Capitol Hill.  Employed for four years at ADA when the position opened, Kolstad served as Director of Federal Agency Relations, handling the entire range of regulatory issues of concern to ADA.  She consistently received "distinguished" performance evaluations from the Director of ADA's Washington office.  By contrast, Tom Spangler, the male candidate who got the promotion, began working for ADA only a year and a half before the position opened, technically failed to meet the minimum posted requirements for the position, and received negative comments about his writing ability, a skill ADA highlighted at trial as central to the position.
+
+    
+
+    
+      ¶83
+      Although the court describes what it perceives to have been a benign, routine selection process, the record contains evidence from which the jury could have concluded that because ADA preselected Spangler for the position, the selection process was a sham.  Before ADA posted the opening, Spangler met frequently with the incumbent (Jack O'Donnell), ADA did not post the position promptly after O'Donnell decided to retire, and a secretary familiar with the process testified that she thought Spangler was being groomed for the job.  Leonard Wheat, head of ADA's Washington office and the person most closely supervising the competing candidates, refused to meet with Kolstad to discuss O'Donnell's position, despite frequently meeting with Spangler.  Although Executive Director Dr. William Allen formally appointed O'Donnell's successor, Allen--based in ADA's Chicago headquarters--relied heavily upon Wheat's recommendation of Spangler.  Assigning all legislative work to Spangler, Wheat repeatedly refused Kolstad's requests to work on legislative matters, despite their relevance to the regulatory issues she covered and her experience in the field.  Formally interviewing Spangler but not Kolstad, Allen failed to review Kolstad's numerous, detailed, positive performance evaluations.
+
+    
+
+    
+      ¶84
+      The record also contains evidence, equally minimized by the court, from which the jury could have concluded that ADA attempted to cover up Spangler's preselection.  Compiling a description of O'Donnell's position a few days before posting the job, Allen edited the description to fit Spangler's qualifications.  O'Donnell's position description originally stated that its "most important responsibility" was to "[m]aintain liaison with federal agencies, bureaus and Administration," corresponding directly to Kolstad's work at ADA.  Tailoring the job description to Spangler's specialty, Allen added "Congress" before "federal agencies," and also added whole phrases from the position description questionnaire used to hire Spangler.  As Kolstad argued, the jury could have believed that ADA, in an effort to bolster its claim that Spangler was more qualified, altered documents to justify his promotion.
+
+    
+
+    
+      ¶85
+      Kolstad proffered a 1984 consent decree settling a class action suit brought against ADA by female employees under Title VII and the Equal Pay Act.  Resnick v. American Dental Ass'n, No. 79-C-3785 (N.D. Ill.).  Denying wrongdoing and expiring prior to the decision not to promote Kolstad, the decree showed that ADA had specific knowledge of the impropriety of preselection, as well as of the connection between preselection and employment discrimination.  The decree stated that "pre-selection of a favored candidate is contrary to ADA's firm policy of giving full and fair consideration to each application.  Violations of this policy will have an adverse impact on an employee's annual merit review and will be cause for discipline."   The district court refused to admit the decree to prove liability, but the panel stated in a portion of the opinion not before us that the district court could admit the decree in a trial on punitive damages.  See Kolstad v. American Dental Ass'n, 108 F.3d 1431, 1439 (D.C.Cir.1997).
+
+    
+
+    
+      ¶86
+      From the evidence, the jury also could have found that ADA changed its explanation for rejecting Kolstad.  After telling her that she was passed over because she lacked experience with health care reform and was too valuable in her position, ADA abandoned that justification at trial, instead attacking Kolstad's general qualifications and writing ability.  My colleagues ignore this testimony, but the jury was entitled to consider it as evidence of ADA's falsehood, and therefore of its discrimination.  See St. Mary's Honor Ctr. v. Hicks, 509 U.S. 502, 511, 113 S.Ct. 2742, 2749, 125 L.Ed.2d 407 (1993) ("The factfinder's disbelief of the reasons put forward by the defendant (particularly if disbelief is accompanied by a suspicion of mendacity) may, together with the elements of the prima facie case, suffice to show intentional discrimination.")  (emphasis added).
+
+    
+
+    
+      ¶87
+      The record also contains evidence from which the jury could have concluded that Wheat, Kolstad's supervisor whose advice Allen relied on in deciding to promote Spangler instead of Kolstad, told sexually offensive jokes at the office and referred to professional women as "bitches" and "battleaxes."   Although this testimony may have been "contested" (the panel's word) or even "hotly contested" (the court's words), nothing in the record indicates that the testimony lacked sufficient credibility for the jury to believe it.
+
+    
+
+    
+      ¶88
+      In addition to weighing the evidence instead of viewing it from a reasonable juror's perspective, my colleagues isolate each element of Kolstad's case, diminishing the cumulative significance of her proof.  Of course, preselection "by itself," Maj.  Op. at 969, violates no law, and "sexist remarks ... are 'not always conclusive of sex discrimination,' " id. at 970 (quoting Neuren v. Adduci, Mastriani, Meeks & Schill, 43 F.3d 1507, 1513 (D.C.Cir.1995)).  As in even the most compelling cases of discrimination, any aspect of Kolstad's case taken in isolation might seem minimal.  Considering her evidence together, as this court must, see, e.g., Downes v. Volkswagen of America, Inc., 41 F.3d 1132, 1140 (7th Cir.1994), and reviewing it "in the light most favorable" to Kolstad, giving her "the benefit of every fair and reasonable inference," Anderson, 820 F.2d at 471, the jury could have concluded that this record contains substantial circumstantial, perhaps even direct, evidence of invidious, intentional, unlawful discrimination that society no longer tolerates.  Therefore, even if punitive damages are "improbable" in a case where the verdict rests on no more than the jury's rejection of the employer's nondiscriminatory rationale, this is not that case.
+
+    
+
+    IV
+
+    
+      ¶89
+      Because this court has found that the record contains sufficient evidence to support the jury's finding of intentional discrimination on the basis of sex, and because ADA never attempted to justify its use of sex in the promotion decision, never disavowed the actions of its agents (Wheat and Allen), never offered evidence that it had taken any specific steps to comply with Title VII, and never otherwise demonstrated that in intentionally discriminating against Kolstad, it had not acted with reckless indifference to her federally protected rights, I would remand for a trial on punitive damages.
+
+    
+
+    
+      
+        1
+         Neither compensatory nor punitive damages are available in so-called "disparate impact" cases, § 1981a(a)(1), or in "mixed motive" cases in which the defendant demonstrates that it would have taken the same action in the absence of the impermissible motivating factor, 42 U.S.C. § 2000e-5(g)(2)(B);  see, e.g., Sheppard v. Riverview Nursing Center, 88 F.3d 1332, 1334 (4th Cir.1996)
+
+      
+
+      
+        2
+         This Report accompanied a House version of the 1991 Civil Rights Act whose punitive damages provision differed from that of the enacted legislation only in being arguably broader.  The House bill allowed punitive damages to be awarded when the defendant engaged in a discriminatory practice "with malice, or with reckless or callous indifference to the federally protected rights of others."   House Report at 12 (emphasis added).  We have no reason to think that the ultimate deletion of the words "or callous" reflected a House purpose to expand the scope of punitive liability
+
+      
+
+      
+        3
+         The position of the Seventh Circuit on the availability of punitive damages under § 1981 is not wholly clear.  Williamson appears to permit automatic imposition of punitive damages with limited allowance for a defendant's mistake on an obscure issue of law.  However, in Ramsey v. American Air Filter Co., Inc., 772 F.2d 1303, 1314 (7th Cir.1985), the court held that "[i]n a section 1981 action, a finding of liability for discrimination against a defendant does not automatically entitle the prevailing plaintiff to an award of punitive damages," and described the basis for punitive damages in terms of "outrageous conduct" and the "defendant's ill will against the plaintiff."   And in Yarbrough v. Tower Oldsmobile, Inc., 789 F.2d 508, 514 (7th Cir.1986), the court upheld the verdict of intentional discrimination, finding the case basically a "swearing contest," and then upheld the award of punitive damages, but only after characterizing it as "a close case."   Unless there was a higher evidentiary standard for punitive damages, it is hard to see why that case was "close" and the liability issue not
+
+      
+
+      
+        4
+         The dissent for some reason equates our use of "malevolence" with the statutory term "malice," Dissent at 977, but as the Supreme Court made clear in Smith, such an equation is far from automatic.  461 U.S. at 41 n. 8, 103 S.Ct. at 1631 n. 8. To the extent that the reference to "malice" does mean malevolence, of course, the doctrine of noscitur a sociis--which counsels courts to construe statutory terms in harmony with the words that accompany them--argues against the dissent's broad reading of "reckless indifference."
+
+      
+
+      
+        5
+         The dissent claims to find additional support in a phrase snatched from the crossfire in Smith v. Wade between Justices Brennan and Rehnquist, namely Justice Brennan's reference to "the defendant's subjective consciousness of risk ... of unlawfulness.  "  Dissent at 971 (quoting Smith, 461 U.S. at 38 n. 6, 103 S.Ct. at 1631 n. 6 (emphases altered by dissent)).  The full sentence reads:  "Justice Rehnquist consistently confuses, and attempts to blend together, the quite distinct concepts of intent to cause injury, on one hand, and subjective consciousness of risk of injury (or of unlawfulness) on the other."  Smith, 461 U.S. at 38 n. 6, 103 S.Ct. at 1631 n. 6.  (emphases in original).  In short, the Court's treatment of consciousness of unlawfulness was, quite literally, parenthetical
+
+      
+
+      
+        6
+         It is unclear just why the dissent uses the word "attenuated" to characterize the agency relationships on which it focuses.  The acts the dissent goes on to describe--discriminatory "hiring or firing decision[s]," Dissent at 974--are "company acts" that do not involve an unusual degree of attenuation between employer/defendant and employee/wrongdoer.  These are precisely the sorts of cases in which employers' claims to have misunderstood the extent of their legal obligations are least plausible
+
+      
+
+      
+        7
+         We need not address the scope of employer liability for "noncompany acts" such as sexual harassment
+
+      
+
+      
+        8
+         As with § 1981, the position of the Seventh Circuit on this question is not simple to characterize.  The Emmel decision comports with the approach we take today, as do Tincher v. Wal-Mart Stores, Inc., 118 F.3d 1125, 1132 (7th Cir.1997) (holding that evidence of egregiousness is required for punitive damages, since otherwise "every employment discrimination claim [could] include a punitive damage award because every employment discrimination plaintiff must demonstrate an intentional unlawful discrimination"), and Ortiz v. John O. Butler Co., 94 F.3d 1121, 1126-27 (7th Cir.1996) (plaintiff who had already received compensatory damages not entitled to punitive damages because employer did not act recklessly or maliciously).  But Merriweather v. Family Dollar Stores of Indiana, Inc., 103 F.3d 576, 581-82 (7th Cir.1996), a case which arose under both Title VII and § 1981, appears to point in the opposite direction
+
+      
+
+      
+        9
+         Given that a large portion of the dissent is devoted to attacking positions that the Court does not adopt, see Dissent at 976-79, we take pains here to state expressly what should be evident from a straightforward reading of our opinion.  While it is true that many plaintiffs, like this one, who can offer only weak evidence of discrimination will not be able to provide any evidence at all of egregious conduct, nothing we say precludes the possibility of sparse, but nonetheless adequate, evidence of egregious discrimination.  And our position in no way "amount[s] to little more than a requirement of direct rather than circumstantial evidence of discrimination as a prerequisite for punitive damages."  Id. at 977.   The showing of egregious discrimination necessary for an award of punitive damages, like any other element of a plaintiff's case, may be made through circumstantial as well as direct evidence.  Nor do we hold that punitive damages may not be considered in pretext only cases, see id. at 977-78, though legitimate punitive awards in such cases do seem improbable.  The reasoning behind this predictive judgment is simple:  a plaintiff who can demonstrate that her employer engaged in truly outrageous acts of discrimination will generally be able to offer some evidence probative of the employer's illicit motivations, rather than merely resting on a finding that its claimed motivations were unworthy of belief
+
+      
+
+    
+
+    

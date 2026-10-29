@@ -1,0 +1,456 @@
+{
+  "source_commit": "02a02581346c8fcc73dddc89d3c4f590bbc8210d",
+  "baseline_file_count": 2138,
+  "prior_public_source_count": 51,
+  "prior_record_dependency_count": 10,
+  "baseline_mutations": [],
+  "baseline_missing": [],
+  "prior_public_mutations": [],
+  "prior_public_missing": [],
+  "prior_record_mutations": [],
+  "prior_record_missing": [],
+  "local_preservation_mutations": [],
+  "local_preservation_missing": [],
+  "authorized_workspace_changes": [
+    "terms/OT1998/workspace/continuity.md",
+    "terms/OT1998/workspace/ledger.md",
+    "terms/OT1998/workspace/manifest.md",
+    "terms/OT1998/workspace/neutral-projection.md"
+  ],
+  "unclassified_new_files": [],
+  "missing_linked_term_targets": [],
+  "missing_anchors": [],
+  "forbidden_or_unsafe_links": [],
+  "inventory_changed_during_scan": [],
+  "snapshot_context_policy": "Byte-identical opening snapshots retain original workspace link context. Scoped neutral excerpts retain verified originating split/freeze link context; every copied destination must also occur in that origin. Literal relocated targets are disclosed separately. Frozen adjudicative inputs are not rewritten for navigation.",
+  "snapshot_context_links": [
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_CONTINUITY.md",
+      "line": 7,
+      "link": "manifest.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/workspace/continuity.md",
+      "literal_target": "terms/OT1998/freeze/manifest.md",
+      "baseline_target": "terms/OT1998/workspace/manifest.md"
+    },
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_CONTINUITY.md",
+      "line": 7,
+      "link": "ledger.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/workspace/continuity.md",
+      "literal_target": "terms/OT1998/freeze/ledger.md",
+      "baseline_target": "terms/OT1998/workspace/ledger.md"
+    },
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_CONTINUITY.md",
+      "line": 5164,
+      "link": "manifest.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/workspace/continuity.md",
+      "literal_target": "terms/OT1998/freeze/manifest.md",
+      "baseline_target": "terms/OT1998/workspace/manifest.md"
+    },
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_MANIFEST.md",
+      "line": 7,
+      "link": "continuity.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/workspace/manifest.md",
+      "literal_target": "terms/OT1998/freeze/continuity.md",
+      "baseline_target": "terms/OT1998/workspace/continuity.md"
+    },
+    {
+      "source": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md",
+      "line": 4614,
+      "link": "manifest.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/workspace/neutral-projection.md",
+      "literal_target": "terms/OT1998/freeze/manifest.md",
+      "baseline_target": "terms/OT1998/workspace/manifest.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALBERTSON_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALBERTSON_NEUTRAL.md",
+      "line": 56,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALBERTSON_NEUTRAL.md",
+      "line": 57,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_NEUTRAL.md",
+      "line": 53,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_NEUTRAL.md",
+      "line": 54,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_NEUTRAL.md",
+      "line": 56,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_SANITIZED_NEUTRAL.md",
+      "line": 53,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_SANITIZED_NEUTRAL.md",
+      "line": 54,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_SANITIZED_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ALDEN_SANITIZED_NEUTRAL.md",
+      "line": 56,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 53,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 54,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 56,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 57,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 58,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 59,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/COLLEGE_SAVINGS_NEUTRAL.md",
+      "line": 60,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 53,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 54,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 56,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 57,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 58,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 59,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/FLORIDA_PREPAID_NEUTRAL.md",
+      "line": 60,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/KOLSTAD_NEUTRAL.md",
+      "line": 48,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/KOLSTAD_NEUTRAL.md",
+      "line": 49,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/KOLSTAD_NEUTRAL.md",
+      "line": 50,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/KOLSTAD_NEUTRAL.md",
+      "line": 51,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/MURPHY_NEUTRAL.md",
+      "line": 53,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/MURPHY_NEUTRAL.md",
+      "line": 54,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/MURPHY_NEUTRAL.md",
+      "line": 55,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL.md",
+      "line": 48,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL.md",
+      "line": 49,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL.md",
+      "line": 50,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL.md",
+      "line": 51,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL.md",
+      "line": 52,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL_SUPPLEMENT.md",
+      "line": 11,
+      "link": "../sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md",
+      "origin": "new",
+      "baseline_source": "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md",
+      "literal_target": "terms/OT1998/runtime/sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md",
+      "baseline_target": "terms/OT1998/sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ORTIZ_NEUTRAL.md",
+      "line": 48,
+      "link": "../../../state/HOLDINGS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/HOLDINGS.md",
+      "baseline_target": "state/HOLDINGS.md"
+    },
+    {
+      "source": "terms/OT1998/runtime/chunk11-scoped/ORTIZ_NEUTRAL.md",
+      "line": 49,
+      "link": "../../../state/STANDARDS_AND_TESTS.md",
+      "origin": "baseline-existing",
+      "baseline_source": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "literal_target": "terms/state/STANDARDS_AND_TESTS.md",
+      "baseline_target": "state/STANDARDS_AND_TESTS.md"
+    }
+  ],
+  "blocking_issue_count": 0,
+  "scope": "Completed eight-Record/final-Render publication preflight. This receipt does not supply the final file inventory; final manifest emission repeats preservation, dependency and byte-identity checks after all writers finish.",
+  "local_preservation_baseline_file_count": 2208,
+  "classified_non_commit_tokens_receipt": "terms/OT1998/freeze/OT_1998CHUNK11_COMMIT_TOKEN_CLASSIFICATION.json",
+  "publication_manifest_self_excluded": true
+}

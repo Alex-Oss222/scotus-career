@@ -1,0 +1,277 @@
+{
+  "case": "Olmstead v. L.C.",
+  "docket": "98-536",
+  "date": "1999-06-22",
+  "term": "OT1998",
+  "status": "assembly_finalized",
+  "record": "terms/OT1998/records/olmstead_v_lc_merits_1999-06-22.md",
+  "record_sha256": "a8df4937e97659d67273feb38b7571f5c8e46dd9e3fc8014f2ed5ba9d3f568a3",
+  "entering_law_cutoff": "1999-06-21",
+  "same_day_peer_law_imported": false,
+  "form_fixed_before_recount": true,
+  "form": "One signed lead Opinion of the Court, Parts I-II; noncontrolling plan rule in separate concurrence",
+  "counted_lead_opinion": true,
+  "counted_authors": [
+    "Ginsburg"
+  ],
+  "assignment": {
+    "assigning_justice": "Stone-Zsela",
+    "counts_before": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 14,
+      "Scalia": 12,
+      "Kennedy": 13,
+      "Souter": 12,
+      "Thomas": 12,
+      "Ginsburg": 12,
+      "Breyer": 13
+    },
+    "last_counted": "murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
+    "counted_opinions_before": 112,
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "minimum_eligible_count": 12,
+    "pool": [
+      "Stone-Zsela",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chosen": "Ginsburg",
+    "basis": "Settled statutory integration and service-system resource work; case-specific fit; no expansion, reassignment or invented draft history"
+  },
+  "component_votes": [
+    {
+      "component": "Statutory integration determination and supported relevant-time suitability premise",
+      "disposition": "Affirmed, 6–3",
+      "supporting": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing_or_other": [
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "other_position_detail": "Kennedy would vacate for a distinct discrimination inquiry; Scalia and Thomas would reverse the asserted statutory basis",
+      "remedy": "The bounded integration determination remains; no new finding of present medical condition"
+    },
+    {
+      "component": "Defense-related portion of the reviewed appellate judgment",
+      "disposition": "Vacated and remanded, 7–2",
+      "supporting": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "opposing_or_other": [
+        "Scalia",
+        "Thomas"
+      ],
+      "other_position_detail": "Scalia and Thomas would remove the statutory remedial basis on their contrary liability ground",
+      "remedy": "Reconsider the defense and consequent prospective relief under the controlling resource rule; Stevens agrees in this judgment only, and Kennedy relies on his separate ground"
+    }
+  ],
+  "opinion_joins": [
+    {
+      "writing": "Opinion of the Court, Part I",
+      "author": "Ginsburg",
+      "joined_by": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Breyer"
+      ],
+      "scope": "Integration rule, statutory ground, individual suitability and choice, ordinary defense availability; six complete supporters; affirms integration"
+    },
+    {
+      "writing": "Opinion of the Court, Part II",
+      "author": "Ginsburg",
+      "joined_by": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Souter",
+        "Breyer"
+      ],
+      "scope": "Full programwide defense rule and confined corrective remand; five complete supporters"
+    },
+    {
+      "writing": "Express limited adoption of Part II",
+      "author": null,
+      "joined_by": [
+        "Kennedy"
+      ],
+      "scope": "Only the proposition that the inquiry cannot be confined to the two claimants' isolated additional expense and must permit institutional/program overhead and relevant administrative responsibilities; no full Part II or integration join"
+    },
+    {
+      "writing": "Concurrence on plan sufficiency",
+      "author": "O'Connor",
+      "joined_by": [
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "scope": "Four supporters of the conditional sufficient-plan rule; all also join Parts I–II"
+    },
+    {
+      "writing": "Concurrence",
+      "author": "Stone-Zsela",
+      "joined_by": [],
+      "scope": "Joins Parts I–II and both judgments; adds his distinct plan-proof qualification"
+    },
+    {
+      "writing": "Concurrence",
+      "author": "Stevens",
+      "joined_by": [],
+      "scope": "Joins Part I and the confined remand judgment; withholds Part II and the plan concurrence"
+    },
+    {
+      "writing": "Opinion concurring in the defense-related judgment and dissenting from the integration affirmance, Part I",
+      "author": "Kennedy",
+      "joined_by": [
+        "Breyer"
+      ],
+      "scope": "Clinical and administrative cautions only; Breyer retains his full Court and plan-concurrence joins"
+    },
+    {
+      "writing": "Same separate opinion, Part II",
+      "author": "Kennedy",
+      "joined_by": [],
+      "scope": "Distinct discrimination inquiry, liability vacatur, cost-accounting and funding position; Breyer does not join"
+    },
+    {
+      "writing": "Dissent",
+      "author": "Thomas",
+      "joined_by": [
+        "Scalia"
+      ],
+      "scope": "Rejects the asserted sufficient statutory integration ground; preserves other claims and ordinary treatment of existing relief"
+    }
+  ],
+  "proposition_coalitions": {
+    "integration_and_individual_limits": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_programwide_resource_rule": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "narrow_nonisolated_cost_rule": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer",
+      "Kennedy"
+    ],
+    "sufficient_plan_noncontrolling": [
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "stone_additional_plan_proof_noncontrolling": [
+      "Stone-Zsela"
+    ]
+  },
+  "no_marks_aggregation": true,
+  "stone_revalidation": {
+    "approved_core_preserved": true,
+    "standing_fallback_used": false,
+    "delegated_choice": "Working plan and lawful reasonable queue are evidence, not independently conclusive absent demonstration of relation to fundamental alteration from the requested modification",
+    "legal_basis": "28 CFR 35.130(b)(7); approved plan-consideration and actual-justification core",
+    "delegated_choice_not_attributed_to_original_explicit_core": true,
+    "complete_joins": [
+      "Part I",
+      "Part II"
+    ],
+    "separate_qualification_noncontrolling": true
+  },
+  "nonstone_commitments_changed_in_assembly": false,
+  "historical_departures": [
+    "Thomas: express prior Oncale/OConnor causal-proof commitments bar categorical outside-group gate while statutory rejection survives",
+    "Scalia: complete prior Oncale/OConnor joins bar categorical intraclass exclusion while statutory rejection survives",
+    "Kennedy: prior Oncale/OConnor joins remove indispensable actual comparator but preserve distinct discrimination inquiry and liability remand"
+  ],
+  "source_sha256": {
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md": "b5936dbc10cf9a45978540b215385e7115ab09a4350f3142bc9c690a124ea44f",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_COMMITMENTS.md": "f9a5d128c2e7520489f29a1a0fd2daed52e4e097b71dd29754b3f41bf08d6d0f",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECONCILED.md": "5eba982d7650b33bacbba9157b60652ef55946ef8f007a7bc2ea4893a3d71873",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md": "b1a9bedd02e87ff6ce3d16a06c291b20884a21f1865cb6907579ae1a22577ea2",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_INTRACLASS_NEUTRAL_ADDENDUM.md": "8de60627f25fbc7d399effcd151b1d09305a844becea26a93c564692ad44e081",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_INTRACLASS.md": "8d2e11f13b4a63d8c4bf8e0d69838152eddd1ca713164a980b74429f323f0b6f",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_INTRACLASS_COMMITMENTS_REFRESH.md": "70894d6c878fe30c5826caee743845c9f500dbf1a55f5bb8b93cc327a257c6db",
+    "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_STONE.md": "b101ffdc496e5012b9513345884299c11fa193e65b67815747a3490e5093da47",
+    "terms/OT1998/sources/chunk11-root-scope/OLMSTEAD_SCOPE_FACTS.md": "7b3dc88ba4368defa5590f414a3d2c3c8f52b9ddaff5b2d21f022a25862ffbfa",
+    "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-lower-clean.txt": "181ceceea2306bbf08f22a17dd9d95896a603da85b102dd9f4a468e72c8ed0ed",
+    "terms/OT1998/freeze/OT_1998CHUNK11_OLMSTEAD_RECOUNT.json": "acb88bdc2793a41afa72675f7c885a3e2b775029f313bfa707a3e8d28e622db1"
+  },
+  "checks": {
+    "exact_four_opening_labels": true,
+    "exact_eleven_public_blocks": [
+      "Event",
+      "Participation",
+      "Public Action",
+      "Judgment & Remedy",
+      "Opinion Topology",
+      "Holdings",
+      "Precedent Treatment",
+      "Law After Decision",
+      "Separate Writings",
+      "Procedure After Action",
+      "Source Notes"
+    ],
+    "component_vote_arithmetic": true,
+    "opinion_join_arithmetic_and_scopes": true,
+    "no_duplicate_justice_within_coalition": true,
+    "lead_author_recognizable_table_rows": true,
+    "fresh_recount_after_murphy_finalized": true,
+    "assignment_all_nine_counts_last_eligible_pool_author_assigner": true,
+    "required_same_date_predecessors_in_recount": true,
+    "local_links_resolve": true,
+    "local_link_count": 12,
+    "two_immutable_modeling_hashes_match_frozen_receipts": true,
+    "controlling_explanation_word_counts": [
+      223,
+      127,
+      239
+    ],
+    "public_private_marker_screen": true,
+    "legal_review": "Actual manual review: grant scope, live controversy, individual premises, frozen final judgments and proposition limits, Stone approved/delegated scope, plan noncontrolling force, exact remedy, chronology and source limitations. Computational checks confirm consistency and do not select votes or legal meaning."
+  },
+  "not_performed_or_claimed": [
+    "Optional fresh child review unavailable because agent thread limit; own required review completed",
+    "No workspace/manifest/ledger rebuild",
+    "No Render Input generation or render",
+    "No coordinated term check; controller stage follows",
+    "No Git operation or earlier private-law import"
+  ],
+  "remaining_source_limits": [
+    "Full January 1999 district order and later appeal instrument not separately recovered; neither independently adjudicated",
+    "No current clinical reassessment, actual queue priority/pace, established Georgia plan sufficiency or complete programwide marginal-cost finding"
+  ],
+  "live_substantive_blockers": []
+}

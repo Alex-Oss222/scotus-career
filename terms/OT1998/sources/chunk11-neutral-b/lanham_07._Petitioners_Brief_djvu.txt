@@ -1,0 +1,2275 @@
+6) 
+
+
+No. 98-149 
+
+
+In The 
+
+
+Supreme Court of the United States 
+October Term 1998 
+
+
+COLLEGE SAVINGS BANK, 
+Petitioner, 
+
+
+vs. 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+
+
+EDUCATION EXPENSE BOARD, 
+Respondent. 
+On Writ of Certiorari to the United States 
+Court of Appeals for the Third Circuit 
+BRIEF FOR PETITIONER 
+ARNOLD B. CALMANN DAVID C. TODD 
+SAIBER SCHLESINGER SATZ Counsel of Record 
+& GOLDSTEIN, LLC DEBORAH M. LODGE 
+One Gateway Center PATTON BOGGS LLP 
+Newark, New Jersey 07102-5311 2550 M Street, N.W. 
+(973) 622-3333 Washington, DC 20037 
+(202) 457-6000 
+Attorneys for Petitioner 
+
+
+52x 
+
+
+9? 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Did the United States Congress have the power 
+under Section 5 of the Fourteenth Amendment to enact that 
+portion of the Trademark Remedy Clarification Act of 1992, 
+Pub. L. No. 102-542, 106 Stat. 3567 (1992) (the “TRCA”), 
+which abrogated the states’ Eleventh Amendment immunity for 
+unfair competition suits alleging that a state engaged in false 
+and misleading advertising of its product in violation of 
+Section 43(a) of the Lanham Act ? 
+
+
+2. Did Florida Prepaid Postsecondary Education 
+Expense Board waive its Eleventh Amendment immunity 
+under the constructive consent doctrine set forth by this Court 
+in Parden v. Terminal Ry. of Ala. State Docks Dep't, 377 U.S. 
+184 (1964), by continuing to engage in the interstate marketing 
+of its products after Congress’ enactment of the TRCA by 
+which Congress made it unmistakably clear that the states 
+
+
+would be subject to suit in federal court for cases arising from 
+violations of Section 43(a) of the Lanham Act? 
+
+
+ii 
+PARTIES TO THE PROCEEDING 
+
+
+In addition to the parties named in the caption, the 
+United States of America was a party before the Court of 
+Appeals. 
+
+
+Petitioner College Savings Bank has no parent 
+company. It has one wholly-owned subsidiary, College 
+Savings Trust, Helena, Montana. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTIONS PRESENTED ........:cscecessssescevsnssecesereserees 
+PARTIES TO THE PROCEEDING ...............cccccesese00e0: 
+ne 
+
+
+CONSTITUTIONAL AND STATUTORY 
+
+
+PROVISIONS INVOLVED..............-cececcscossssssssesseseees 
+
+
+B. THE TRADEMARK REMEDY 
+
+
+I. THE LIBERTY AND PROPERTY RIGHTS 
+PROTECTED BY THE FALSE 
+ADVERTISING PROVISIONS OF 
+SECTION 43(A) OF THE LANHAM ACT 
+ARE WITHIN THE PROTECTION OF THE 
+
+
+A. THIS COURT HAS RECOGNIZED 
+THAT CONGRESS’ SECTION 5, 
+FOURTEENTH AMENDMENT POWER 
+CAN BE USED TO ABROGATE THE 
+
+
+ELEVENTH AMENDMENT....................... 
+1. The Constitutional Standard.................... 
+
+
+2. Section 43(a) Of The Lanham Act 
+
+
+Protects A Business’ Property Rights. .... 
+
+
+14 
+
+
+» OF 
+
+
+Protected By The Fourteenth 
+
+
+. THIS COURT’S DECISION IN CITY OF 
+BOERNE SUPPORTS THE 
+CONSTITUTIONALITY OF THE 
+
+FORA. vcescenttininintagdattiandaitticanientioe. 23 
+
+
+. THE COURTS BELOW HAVE 
+
+
+3. The Court Of Appeals Failed To 
+Recognize That Property Created By 
+Congress Pursuant To Its Article | 
+Powers Is Protected By The 
+Fourteenth Amendment.......... ee 28 
+
+
+v 
+
+
+4. The Cases Relied Upon By The Court 
+Of Appeals Do Not Support The 
+
+
+5. The Harm To Property Rights From 
+All Forms Of False Advertising Is 
+
+
+PROPERTY RIGHTS CREATED 
+
+
+Il. THE COURT OF APPEALS MISAPPLIED 
+
+
+THE PARDEN DOCTRINE. 00..0.00..0000.-..cccc0ceeesee 36 
+
+
+A. THE PARDEN DOCTRINE REMAINS 
+
+
+VALID LAW AND SHOULD NOT BE 
+
+
+INTENTIONS WITH THE CLARITY 
+
+
+REQUIRED BY THIS COURT TO 
+SE 65 
+
+
+. FLORIDA PREPAID’S ACTIVITIES 
+
+
+ARE NOT BEYOND THE REACH OF 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES 
+CASES: 
+
+
+AT&T Co. v. Winback and Conserve 
+Program, Inc., 42 F.3d 1421 (3d Cir. 1994), 
+
+
+cert. denied, 514 U.S. 1103, (1995).......-cc-ccsreeeessserseees 16 
+Atascadero State Hosp. v. Scanlin, 473 U.S. 
+
+SHS CIGD xcoceisuisisisdictinigesiattidantiaaaiiagplaiiiele ts. cumasecccennece 4 
+Barrus v. Sylvania, 55 F.3d 468 (9th Cir. 
+
+| BSS LT ROL a See 18 
+Board of Regents v. Roth, 408 U.S. 564 
+
+CRDVE) ~cccnccrccercessagssinmneiiupanspiiesdiidiaminiiiltiatiinatatiiaitnee 26 
+Chavez v. Arte Publico Press, 139 F.3d 504 
+
+(Sth Cir. 1998), reh'g en banc granted............. 32, 34, 35 
+City of Boerne v. Flores, 521 U.S. 507, 117 S. 
+
+ei {| RR Ae Oa Passim 
+City of Rome v. United States, 446 U.S. 156 
+
+GE kcesectneninceripeiniidininrsinagciateaiindutiiittdiistetiepermnvnives 19 
+
+
+College Savings Bank v. Florida Prepaid 
+Postsecondary Educ. Exp. Bd, 148 F.3d 
+
+
+1343 (Fed. Cir. 1998), cert. granted, 67 
+TOE 0 inaiG aS Passim 
+
+
+College Savings Bank v. Florida Prepaid 
+Postsecondary Educ. Exp. Bd., 919 F. 
+Re 8 
+
+
+Vii 
+
+
+College Savings Bank v. Florida Prepaid 
+Postsecondary Educ. Exp. Bd, 13\ F.3d 
+353 (3rd Cir. 1997), cert. granted, 67 
+as cncsncnenenivnte Passim 
+
+
+College Savings Bank v. Florida Prepaid 
+Postsecondary Educ. Exp. Bd., 948 F. 
+Supp. 400 (DD.N.J. 1996) ...........ccccsceseecereceeneseereenees Passim 
+
+
+Colligan v. Activities Club of New York, Ltd., 
+442 F.2d 686 (2d Cir.), cert. denied, 404 
+
+
+OO Pickdas ietesintabtsteedadivadiciuissscstvercccseecscetecoece 17 
+Duplex Co. v. Deering, 254 U.S. 443 (1920).............. 19, 20 
+Employees of the Dep't of Pub. Health & 
+
+Welfare v. Dep't of Pub. Health & Welfare, 
+
+ONIN cctetitinds dishihdnddbdiisAdihantpcnesenccoce 38, 39, 40 
+Employment Div., Dep't of Human Resources 
+
+of Oregon v. Smith, 494 U.S. 872 (1990) .0.......c00cccccceces 23 
+Genentech, Inc. v. University of California, 
+
+143 F.3d 1446 (Fed. Cir. 1998), petition for 
+
+cert. filed ] 1/3/98, Dkt. No. 98-731, 67 
+
+RIE i A RS 41 
+Gentry v. Howard, 365 F. Supp. 567 (W.D. 
+
+ait arth catietcinsetinaiinaberaissidbgienessitithitecoorepeies 31 
+Hanover Star Milling Co. v. Metcalf, 240 U.S. 
+
+EEE RR eee cr 21, 22 
+Hegeman Farms Corp. v. Baldwin, 293 U.S. 
+
+I ee a 31 
+International News Service v. Associated 
+
+| 16 
+
+
+Katzenbach v. Morgan, 384 U.S. 641 (1966) .............. or 
+
+
+viii 
+L'Aiglon Apparel, Inc. v. Lana Lobell, Inc., 
+
+214 F.2d 649 (3rd Cir. 1954)...........cccccccereeecereerereeennenens 15 
+Liggett Co. v. Baldridge, 278 U.S. 105 (1928) ......-.-.-0-++ 19 
+Logan v. Zimmerman Brush Co., 455 U.S. 
+
+422 (1962) .......ccrccsnessecrocsossssonsorenssosmnsesnasesecssssscesoscosens 19 
+McCulloch v. Maryland, 17 U.S. (4 Wheat.) 
+
+316 (ABAD) -.nccnsssssceceocerssccestseossnsnnemnasnnsnssssonssecnenesseassnsine 12 
+North Dakota Pharmacy Bd v. Snyder's 
+
+Seoves, 414°U.S. 156 (1973) ...00c0csercesssccrsccsscossesesessvoreese 20 
+Parden v. Terminal Ry. of Ala. State Docks 
+
+Dep't, 377 U.S. 194 (1964) ......scecessensnesnsnenensnenenens Passim 
+Pennsylvania v. Union Gas, 491 U.S.1 (1989) .......-..0000+ 26 
+Paul v. Davis, 424 U.S. 693 (1976) ............cc0c00 . 19,32 
+Pierce v. Society of Sisters, 268 U.S. 510 
+
+(BDDS) .nccvinisrinsnisesisldentsseeantaltsnnniasenbenbeenrnessevectesetayatntes 20 
+SK&F Co. v. Primo Pharmaceutical 
+
+Laboratories, 625 F.2d 1055 (3d Cir. 1980) ................ 15 
+Seminole Tribe of Fla. v. State of Fla., \1 
+
+F.3d 1016 (11th Cir. 1994), aff'd, 517 U.S. 
+
+RD ne cxina esis svtnssniniscctcnchotansesectnonnegostineetacarevareseseneses 23 
+Seminole Tribe of Fla. v. Florida, 517 U.S. 44 
+
+CCID vieierceiinpervinnisitncssnpedpsosepasisnnséonannasilensnemnaareseess Passim 
+Serbin v. Ziebart International Corp., \1 F.3d 
+
+1163 (3d Cir.), reh'g en banc denied, sub 
+
+nom Guarino v. Sun Co., 1993 U.S. App. 
+
+LEXIS 36610 COO Cis. 1998) ...2002ccrscscccerccescorsceerseessoneee 17 
+Smith v. Texas, 233 U.S. 630 (1914)..............00 Ciel 18 
+South Carolina v. Katzenbach, 383 U.S. 301 
+
+TDI rexscsinccccnsecasesncsetecenstntetitiamnomescscssenesncbesrentuniesneeees 19 
+
+
+ix 
+Stanfield v. Osborne Industrials, 52 F.3d 867 
+
+
+(10th Cir.), cert. denied, 516 U.S. 920 
+CESSES ES EEE SL aE 1 a ea eee 18 
+Truax v. Corrigan, 257 U.S. 312 (1921) ccccsccccsseseesesenenees 20 
+Tulsa Professional Collection Serv. v. Pope, 
+Se as Sy CRD tacked ai cess ccclcsdicccttntccesscsecseese 19 
+United Drug Co. v. Rectanus Co., 248 U.S. 90 
+SE ER EE CTE See ea 22 
+United States v. Tropiano, 418 F.2d 1069 (2d 
+Cir. 1969), cert. denied, 397 U.S. 102 
+re ecrccnicagnnscbiahincepaibeibiliet tiiesibidtunnatecsebitastscessepsii 20 
+Ex parie Virginia, 100 U.S. 339 (1879) ..........cccc0c000 19, 25 
+Welch v. Texas Dep't of Highways and Pub. 
+Transp. , 483 U.S. 468 (1987) o0.0..ccccceecceceeereeees 5, 37, 40 
+Zacchini v. Scripps-Howard Broadcasting 
+Ga, GS FE icicle cst inhib ilies 17 
+CONSTITUTION: 
+United States Constitution: 
+Asticle'l, Section 8, Clause 3 ...............0cccsssesesseesseseree Passim 
+Fourteenth Amendment, Section | and Section 5......Passim 
+IIE cscs cccnscsccccevevesscosesczscoscsesssenes Passim 
+FEDERAL STATUTES 
+The Lanham Act 
+BD DEB e« OPE cc ccccccecossesesees nasreiGhleatestbateneesecceed Passim 
+EE 
+
+
+x 
+15 U.S.C. § 1127 .ccccccessesssseseneneneenenennnssnnensesennennnnnes Passim 
+2B U.S.C. § 1254(1) ...esccsscesssereerenserensenesenssnennsessnnsnaneensnens | 
+35 U.S.C. §§ 271 (i), 296 «..cccccesessererenesensnserssennnennennnatnnnarens 8 
+
+
+Patent and lant Variety Protection Remedy 
+Clarification Act, Pub. L. No. 102-560, 106 
+
+
+Been BAD... siccvevecsseesnnctncesnaiivepseasennantenieiinccaneneee 8, 10, 27 
+Religious Freedom Restoration Act of 1993 
+
+(RFRA), 42 U.S.C. 2000DD ef SOq. ....cecececeeerereererenerenes 23 
+Trademark Remedy Clarification Act, Pub. L. 
+
+No. 102-542, 106 Stat. 3567 (1992) .....cc.ccccseseeereees Passim 
+STATE STATUTES: 
+Fla. Stat. § 240.551 ......cccccscssssseseesesnnsnsennnnerensensnnsnennenens 7, 38 
+LEGISLATIVE MATERIALS: 
+
+
+S. Rep. 102-280, 102d Cong., Ist Sess. 
+(1992), reprinted in 1992 U.S.C.C.A.N. at 
+
+
+S. Rep. No. 1333, 79th Cong. 2d. Sess. 
+(1946), reprinted in 1946 U.S.C.C.A.N. 
+
+
+MISCELLANEOUS: 
+
+
+W. PAGE KEETON, ET AL., PROSSER AND KEETON ON 
+THE LAW OF TORTS, § 130 (Sth Ed. 1984) .........000000 15 
+
+
+l 
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Third Circuit is reported at College Savings Bank v. Florida 
+Prepaid Postsecondary Educ. Exp. Bd., 131 F.3d 353 (3rd Cir. 
+1997), cert. granted, 67 U.S.L.W. 3433 (1999), Pet. App. A. 
+The opinion of the United States District Court for the District 
+of New Jersey is reported at College Savings Bank v. Florida 
+Prepaid Postsecondary Educ. Exp. Bd, 948 F. Supp. 400 
+(D.N.J. 1996), (1999), Pet. App. B. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The judgment of the United States Court of Appeals for 
+the Third Circuit (“Court of Appeals”) was entered on 
+December 5, 1997. The Court of Appeals denied a timely 
+petition for rehearing on February 17, 1998. Pet. App. C. 
+College Savings Bank’s application for an extension of time to 
+file a Petition for a Writ of Certiorari was granted by Justice 
+Souter on April 21, 1998, extending the time to and including 
+July 17, 1998. The Petition for Writ of Certiorari was filed on 
+July 17, 1998. This Court granted the petition by order dated 
+January 8, 1999. 
+
+
+The jurisdiction of the Court is invoked under 28 
+U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The Constitutional and statutory provisions involved in 
+this case are set out at pages 2-5 of College Savings Bank’s 
+Petition for a Writ of Certiorari. 
+
+
+. 
+STATEMENT OF THE CASE 
+
+
+A. THE LANHAM ACT 
+
+
+This case involves College Savings Bank’s (“CSB”) 
+contention that the Florida Prepaid Postsecondary Expense 
+Board (“Florida Prepaid”), has engaged in false advertising in 
+violation of Section 43(a) of the Lanham Act. Section 43(a) 
+provides in part that persons subject to the Act shall be liable 
+for damages caused by a competitor's misrepresentation of “the 
+nature, characteristics, [or] qualities” of that person’s goods or 
+services. 15 U.S.C. §1125(a)(1). The pertinent portions of 
+
+
+Section 43(a) are: 
+
+
+(1) Any person who...uses in commerce any 
+word, term, name, symbol, or device, or any 
+combination thereof, or any . . . false or 
+misleading description of fact, or false or 
+misleading representation of fact, which— 
+
+
+* * * 
+
+
+(B) in commercial advertising 
+or promotion, misrepresents 
+the nature, characteristics, 
+qualities, ... of his... goods, 
+services or commercial 
+activities, 
+
+
+shall be liable in a civil action by any person 
+who believes that he or she is or is likely to be 
+
+
+damaged by such act. 
+
+
+The congressional purpose in enacting Section 43(a) is 
+explained in Section 45. 15 U.S.C. § 1127. As here pertinent 
+
+
+the section states: 
+
+
+3 
+
+
+The intent of this chapter is to regulate 
+commerce within the control of Congress... to 
+protect persons engaged in such commerce 
+against unfair competition . .. . 
+
+
+15 U.S.C. §1127. 
+
+
+: In enacting the Lanham Act, Congress recognized that 
+“[t}here is no essential difference between trade-mark 
+infringement and what is loosely called unfair competition. 
+Unfair competition is the genus of which trade-mark 
+infringement is one of the species .. .. All trade-mark cases 
+and cases of unfair competition involve the same legal wrong.” 
+S. Rep. No. 1333, 79th Cong. 2d Sess. ( 1946), reprinted in 
+1946 U.S.C.C.A.N. 1274, 1275. 
+
+
+B. po TRADEMARK REMEDY CLARIFICATION 
+
+
+In 1992, Congress adopted the Trademark Remedy 
+Clarification Act, Pub. L. No. 102-542, 106 Stat. 3567 (1992) 
+(“TRCA”). The congressional purpose was to ensure that the 
+States would be held liable for violations of the Act in the same 
+manner as any other entity. Accordingly, the amendments 
+included a specific abrogation of the Eleventh Amendment 
+immunity of the states: 
+
+
+Any State, instrumentality of a State or any 
+officer or employee of a State or 
+instrumentality of a State acting in his or her 
+official capacity, shall not be immune, under 
+the Eleventh Amendment of the Constitution 
+of the United States or under any other 
+doctrine of sovereign immunity, from suit in 
+Federal Court by any person, . . . for any 
+violation under this chapter. 
+
+
+aes se se ee eS ee 
+
+
+15 U.S.C. § 1122(a). 
+
+
+As a part of the TRCA, Congress adopted other 
+conforming amendments to the Lanham Act to ensure that the 
+states would thereafter be held responsible for violations of the 
+Act. Those included amending Section 43(a), 15 U.S.C. 
+§ 1125(a), to expand the definition of “person” to include the 
+states: 
+
+
+As used in this subsection the term “any 
+person” includes any State, instrumentality of 
+a State or employee of a State or 
+instrumentality of a State acting in his or her 
+official capacity. Any State, and any such 
+instrumentality, officer, or employee, shall be 
+subject to the provisions of this chapter in the 
+same manner and to the same extent as any 
+nongovernmental entity. 
+
+
+15 U.S.C. § 1125(a)(2). 
+
+
+Section 1127 of Title 15, which sets forth the 
+construction, definitions and intent of the chapter also was 
+amended to provide that the term “person” includes any state or 
+instrumentality of a state. 15 U.S.C. § 1127. 
+
+
+The legislative history of the TRCA reinforces the fact 
+that the sole purpose of the Act was to demonstrate Congress’ 
+intent that “States and State entities” would not be immune 
+from suits under the Lanham Act. S. Rep. 102-280, 102d 
+Cong., Ist Sess. at 2 (1992), reprinted in 1992 U.S.C.C.A.N. 
+3087. Congress enacted the TRCA to satisfy this Court's 
+requirement that the congressional intent to permit the states to 
+be brought into federal court be made explicit in the language 
+of the statute itself. See S. Rep. 102-280, Jd. at 4-6, discussing 
+the relationship of the TRCA to Afascadero State Hosp. v. 
+Scanlin, 473 U.S. 334 (1985) (pertaining to the requirements 
+
+
+5 
+
+
+that must be met by Congress in exercising its powers under 
+Section 5 of the Fourteenth Amendment), and Welch v. Texas 
+Dep't of Highways & Pub. Transp., 483 U.S. 468 (1987) 
+(pertaining to the requirements that must be met by Congress to 
+
+
+apply Parden v. Terminal Ry. of Ala. Docks Dep't, 377 US. 
+184 (1964)). 
+
+
+The Senate Report states that the statutory language 
+was deliberately adopted to provide “the necessary clarity to 
+ensure that Congress intended to override the Eleventh 
+Amendment as an appropriate way to enforce the provisions of 
+the Fourteenth Amendment.” S. Rep. 102-280, Jd. at 4, 5 
+(footnote omitted). The Report also states that the provisions 
+of the TRCA are “justified under . . . the Fourteenth 
+Amendment.” /d. at 8. The report concludes: “Based on 
+previous court decisions, §. 758 [TRCA] and S. 759 will 
+constitutionally abrogate State Sovereign Immunity, providing 
+a uniform system of protection.” Jd. at 11. 
+
+
+C. THE CONSTITUTIONAL ISSUES 
+
+
+Article I, Section 8, Clause 3 of the Constitution 
+provides in relevant part that the Congress shall have power: 
+
+
+To regulate Commerce with foreign Nations, 
+and among the several States . . . 
+
+
+The Fourteenth Amendment provides in relevant part 
+that no State shall: 
+
+
+Section | [Djeprive any person of life, liberty or 
+property, without due process of law... .. 
+
+
+** * 
+
+
+6 
+
+
+Section 5 The Congress shall have power to enforce, by 
+appropriate legislation, the provisions of this 
+article. 
+
+
+The Eleventh Amendment provides: 
+
+
+The Judicial power of the United States shall 
+not be construed to extend to any suit in law 
+or equity, commenced or prosecuted against 
+one of the United States by citizens of another 
+State or by citizens or subjects of any Foreign 
+State. 
+
+
+There are two constitutional issues involved in this 
+case. First, petitioner CSB maintains that the Court of Appeals 
+erred by concluding that Congress lacked the power under 
+Section 5 of the Fourteenth Amendment to enact the TRCA 
+making the states subject to suit for false advertising under 
+Section 43(a) of the Lanham Act. . 
+
+
+Second, the Court of Appeals erred in concluding that 
+the activities of Florida Prepaid are beyond the reach of the 
+Parden doctrine. CSB maintains the Court of Appeals applied 
+the wrong test. The Court of Appeals has confused the 
+difference between education, as an important state function, 
+and the entry by the states into the commercial financial arena 
+by offering investment vehicles to assist private citizens in 
+meeting the costs of a college education. Under the broad 
+doctrine enunciated by the Court of Appeals, virtually any 
+activity that could be undertaken by a state would be beyond 
+the reach of the Parden doctrine. 
+
+
+D. THE PARTIES 
+
+
+CSB is a New Jersey chartered, FDIC-insured bank that 
+has been engaged since 1987 in selling “CollegeSure® CDs,” a 
+deposit contract administered in accordance with a patented 
+
+
+7 
+
+
+methodology that provides funds sufficient to meet future and 
+unknown college expenses. Respondent Florida Prepaid is a 
+“body corporate” of the State of Florida, which engages in the 
+interstate marketing of a similar investment product in 
+competition with CSB, i.e., a program to meet future costs of a 
+college education. Fla. Stat. Section 240.551(5), J.A. at 8. 
+bo ym art program, which has been offered since 
+, ls advertised national 
+“aniiateee ees se 
+
+
+E. THE PROCEEDINGS BELOW 
+
+
+CSB brought an action against Florida Prepaid on 
+November 7, 1994, Civ. No. 94-5610 (GEB), in the United 
+States District Court for the District of New Jersey (“the patent 
+case”), contending that Florida Prepaid had infringed CSB’s 
+patent. CSB filed a second complaint, the one giving rise to 
+this petition, against Florida Prepaid on August 25, 1995, 
+alleging that Florida Prepaid’s interstate marketing of its 
+program was in violation of Section 43(a) of the Lanham Act, 
+15 U.S.C. §1125(a), and the common law tort of unfair 
+competition, Civ. No. 95-4516 (GEB) (“the Lanham Act 
+Case”). CSB contends that Florida Prepaid falsely represented 
+that the State of Florida guarantees that all beneficiaries will 
+have an amount necessary to pay for the cost of a college 
+education; that tax liability on the contract is deferred until the 
+benefits of the contract, including proceeds for dormitory 
+expenses, are disbursed upon enrollment in college; that 
+Florida Prepaid’s investment portfolio is backed by the “full 
+faith and credit” of the United States; and that Florida Prepaid 
+pg to disclose the existence of CSB’s patent infringement 
+
+
+Florida Prepaid answered CSB’s Lanham Act complaint and filed a 
+counterclaim on November 8, 1995, that challenged the reach of the 
+First Amendment by contending that certain statements made by Mr. 
+
+
+Subsequent to this Court’s decision in Seminole Tribe 
+of Fla. v. Florida, 517 U.S. 44 (1996), Florida Prepaid filed 
+motions to dismiss both the Patent Act and Lanham Act cases 
+contending that the decision deprived the court of jurisdiction 
+under the Eleventh Amendment. Florida Prepaid’s motion to 
+dismiss CSB’s Lanham Act case was granted and the case 
+dismissed by the district court’s order of December 13, 1996. 
+College Savings Bank v. Florida Prepaid Postsecondary Educ. 
+Exp. Bd., 948 F. Supp. 400 (D.N.J. 1996). 
+
+
+product disparagement, and trade libel. CSB a motion to 
+dismiss the counterclaim, contending that a governmental entity 
+cannot maintain libel or defamation actions because they are 
+inconsistent with the free speech guarantees of the First Amendment. 
+That motion was granted by the District Court on March 22, 1996. 
+The dismissal was not appealed and the district court decision on that 
+motion is not involved in this petition. College Savings Bank v. 
+Florida Prepaid Postsecondary Educ. Exp. Bd., 9\9 F. Supp. 756 
+(D.N.J. 1996). 
+
+
+2 ‘The district court, in the same decision giving rise to this petition, 
+denied Florida Prepaid’s motion to dismiss the Patent Act case. That 
+denial was based upon the district court's finding that Section 5 of the 
+Fourteenth Amendment empowered the Congress to enact the Patent 
+and Piant Variety Protection Remedy Clarification Act, Pub. L. No. 
+102-560, 106 Stat. 4230, which amended the Patent Act to permit 
+states to be brought into federal court to defend against patent 
+infringement claims. 35 U.S.C. §§ 271(h), 296. This was based upon 
+the district court’s finding that a patent is a property interest that 
+Congress can protect by exercising its abrogation power under 
+Section 5 of the Fourteenth Amendment. The holding was appealed 
+by Florida Prepaid to the United States Court of Appeals for the 
+Federal Circuit. The Federal Circuit affirmed the district court in a 
+decision issued on June 30, 1998. College Savings Bank v. Florida 
+Prepaid Postsecondary Educ. Exp. Bd, \48 F.3d 1343 (Fed. Cir. 
+1998), cert. granted, 67 U.S.L.W. 3433 (1999). This Court granted 
+Florida Prepaid’s petition for a writ of certiorari on January 8, 1999, 
+Docket No. 98-531. 
+
+
+9 
+
+
+A timely appeal was filed with the United States Court 
+of Appeals for the Third Circuit. The Court of Appeals 
+affirmed the district court’s judgment. College Savings Bank v. 
+Florida Prepaid Postsecondary Educ. Exp. Bd., 131 F.3d 353 
+(3rd Cir. 1997), cert. granted, 67 U.S.L.W. 3433 (1999). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Article 1, Section 8 of the Constitution provides 
+Congress with a wide array of powers including the power to 
+“regulate commerce . . . among the several states... .” In 
+Seminole Tribe, this Court held that Article 1 does not provide 
+Congress with the power to abrogate the immunity of the states 
+provided for by the Eleventh Amendment. This holding was 
+principally based upon the fact that the Eleventh Amendment 
+was adopted subsequent to Article | and therefore served to 
+limit the power of Congress under Article I. 
+
+
+In Seminole Tribe, this Court also recognized that 
+Congress does have power under Section 5 of the Fourteenth 
+Amendment to enforce its provisions by appropriate legislation, 
+including the right to abrogate the Eleventh Amendment 
+immunity of the states. 
+
+
+Pursuant to its Article | powers, Congress enacted the 
+Lanham Act providing an amalgam of protections for 
+businesses, including the right to seek damages resulting from a 
+competitor's false advertising of its products and services. In 
+1992, Congress enacted the TRCA, which by its explicit terms 
+serves to abrogate the Eleventh Amendment immunity of the 
+States and to treat the states as “persons” in the same manner as 
+all other entities made subject to the Lanham Act. The 
+legislative history of the TRCA makes it clear that the statutory 
+provisions were designed specifically to comply with this 
+Court’s requirement that abrogation of the Eleventh 
+Amendment immunity must be unmistakably clear in the 
+language of the statute itself. Congress also made it clear that 
+
+
+10 
+
+
+the language of the TRCA was designed to meet this Court's 
+requirement of explicit language for the Parden doctrine to 
+
+
+apply. 
+
+
+CSB maintains in answer to the first Constitutional 
+issue raised by this petition that the TRCA’s abrogation of the 
+states’ immunity under the Eleventh Amendment, as it applies 
+to the false advertising of a competitor's own products and 
+services, is a constitutional exercise of Congress’ Section 5 
+Fourteenth Amendment power. The position of Florida 
+Prepaid is that, under Seminole Tribe, no property or liberty 
+rights created by Congress pursuant to Article I of the 
+Constitution can be made subyect to Congress’ Section 5 
+Fourteenth Amendment enforcement powers; and therefore, the 
+TRCA is unconstitutional. That, CSB maintains, represents a 
+fundamental misreading of this Court’s decision in Seminole 
+Tribe. Seminole Tribe did not involve any liberty or property 
+rights. Therefore, it offers no authority for the proposition that 
+Congress’ Section 5 powers cannot be used to enforce against 
+the states the guarantees of Section | of the Fourteenth 
+Amendment with respect to any and all property rights, 
+including those which Congress has created under its Article | 
+powers. 
+
+
+The district court in this case implicitly recognized that 
+property rights created by Congress pursuant to Article | are 
+subject to Congress’ Section 5 Fourteenth Amendment power 
+by upholding the constitutional validity of Congress 1992 
+legislation abrogating the immunity of the states for the 
+purpose of enforcing patents.’ 
+
+
+’ Patent and Plant Variety Protection Remedy Clarification Act, Pub. 
+L. No. 102-560, 106 Stat. 4230 (1992). See College Savings Bank v. 
+Florida Prepaid Postsecondary Educ. Exp. Bd., 948 F. Supp. 400 
+(D.N.J. 1996). 
+
+
+Both the district court and the Court of Appeals 
+expressed the fear that a finding that the TRCA is 
+constitutional with respect to the issues in this case would serve 
+to undermine this Court’s holding in Seminole Tribe. They did 
+so with no explicit discussion of the relationship between 
+Congress’ Article | and Section 5, Fourteenth Amendment 
+powers. 
+
+
+Both the district court and the Court of Appeals failed 
+to recognize that “property” is not created by the Constitution. 
+Rather, property has been created by the common law and the 
+legislative enactments of the states and the federal government. 
+Surely, Congress, under Article I, is as free to create property 
+rights as are the states. There is nothing in Seminole Tribe that 
+Suggests that Congress’ abrogation power under the Fourteenth 
+Amendment cannot reach the deprivation of liberty or property 
+rights by the states without due process of law, without regard 
+to the origin of those rights. 
+
+
+The Court of Appeals also dismissed the significance of 
+this Court's holding that a “business” is property for the 
+purpose of the protections afforded by the Fourteenth 
+Amendment. Since the protections of the Lanham Act are 
+available only to business competitors and because in any event 
+the tort of unfair competition is a tort designed to protect 
+property interests, the Court of Appeals erred by finding that 
+CSB’s Lanham Act claim did not involve a property interest 
+within the protections of the Fourteenth Amendment. 
+
+
+The second constitutional issue concerns the Parden 
+doctrine. CSB maintains that Florida Prepaid waived its 
+Eleventh Amendment immunity by engaging in a commercial 
+enterprise subsequent to the time that Congress made clear that 
+to do so would be deemed a waiver of immunity under the 
+Parden doctrine. The Court of Appeals declined to affirm the 
+district court’s holding that Parden had been overruled by 
+implication by this Court’s decision in Seminole Tribe. In 
+
+
+12 
+
+
+doing so, however, the Court of Appeals adopted a definition of 
+core governmental function that is so broad that, as a practical 
+matter, Parden is deprived of any meaning. 
+
+
+The Court of Appeals correctly found that education is 
+a core state governmental function. The Court of Appeals, 
+however, erred in finding that providing investment services to 
+meet the costs of college is a governmental function beyond the 
+reach of Parden. Florida Prepaid, a business enterprise, has 
+entered into the commercial arena in competition with CSB and 
+other private sector businesses by offering a means of saving to 
+meet the future costs of a college education. This is an area 
+that traditionally has been left to the private sector. In any 
+event, such activity clearly is not within the exclusive sphere of 
+the states. 
+
+
+In Seminole Tribe, this Court characterized the Parden 
+waiver doctrine as “unremarkable, and completely unrelated” 
+to the issue of the abrogation of the Eleventh Amendment 
+immunity of the states by the exercise of Congress’ Section 5 
+Fourteenth Amendment powers. Seminole Tribe, 517 U.S. at 
+65. The continued validity of Parden does not threaten the 
+valid application of the Eleventh Amendment since the states 
+will be deemed to have waived their immunity only when they 
+leave core governmental functions and enter into the 
+commercial marketplace, as Florida Prepaid has done here. 
+
+
+In sum, the Court of Appeals erred both in finding that 
+the TRCA was not a valid exercise of Congress’ Section 5 
+Fourteenth Amendment power, and also erred in finding that 
+the Parden doctrine does not apply to the facts of this case. 
+
+
+CSB believes that this Court’s review of this case 
+should be guided by the words of Chief Justice Marshall 
+writing for the Court in McCulloch v. Maryland, 17 U.S. (4 
+Wheat.) 316, 431 (1819): 
+
+
+13 
+
+
+We admit, as all must admit, that the powers 
+of the government are limited, and that its 
+limits are not to be transcended. But we think 
+the sound construction of the constitution 
+must allow to the national legislature that 
+discretion, with respect to the means by which 
+the powers it confers are to be carried into 
+execution, which will enable that body to 
+perform the high duties assigned to it, in the 
+manner most beneficial to the people. Let the 
+end be legitimate, let it be within the scope of 
+the constitution, and all means which are not 
+prohibited, but consist with the letter and 
+spirit of the constitution, are constitutional. 
+
+
+ARGUMENT 
+
+
+I. THE LIBERTY AND PROPERTY RIGHTS 
+PROTECTED BY THE FALSE ADVERTISING 
+PROVISIONS OF SECTION 43(A) OF THE 
+LANHAM ACT ARE WITHIN’ THE 
+PROTECTION OF THE FOURTEENTH 
+AMENDMENT. 
+
+
+By enacting the TRCA, Congress abrogated the 
+Eleventh Amendment immunity of the states in order to permit 
+federal court jurisdiction over actions under Section 43(a) of 
+the Lanham Act, 15 U.S.C. § 1125(a). The Court of Appeals 
+found that the “TRCA surely manifests” the congressional 
+intent to abrogate the Eleventh Amendment immunity of the 
+states. College Savings Bank, 131 F.3d at 357, Pet. App. at 7a. 
+The Court of Appeals also found, however, that the false 
+advertising provisions of Section 43(a), as applied to a 
+competitor's misrepresentation of its own product, do not 
+protect property interests within the meaning of the Fourteenth 
+
+
+14 
+
+
+Amendment, and are, therefore, beyond Congress’ Section 3 
+powers. That finding, however, is contrary to this Court $ 
+construction of the scope of the liberty and property interests 
+protected by the Fourteenth Amendment. 
+
+
+A. THIS COURT HAS RECOGNIZED THAT 
+CONGRESS’ SECTION 5, FOURTEENTH 
+AMENDMENT POWER CAN BE USED TO 
+ABROGATE THE ELEVENTH AMENDMENT. 
+
+
+1. The Constitutional Standard 
+
+
+This Court, in Seminole Tribe, recognized that 
+Congress has the authority under Section 5 of the Fourteenth 
+Amendment to enact legislation to enforce the provisions of 
+Section 1 of the Amendment, including abrogating the 
+Eleventh Amendment immunity of the states: 
+
+
+In Fitzpatrick, we recognized that the 
+Fourteenth Amendment, by expanding federal 
+power at the expense of state autonomy, had 
+fundamentally altered the balance of state and 
+federal power struck by the Constitution. We 
+noted that § 1 of the Fourteenth Amendment 
+contained prohibitions expressly directed at 
+the States and that §5 of the Amendment 
+expressly provided that “The Congress shall 
+have power to enforce, by appropriate 
+legislation, the provisions of this article.” We 
+held that through the Fourteenth Amendment, 
+federal power extended to intrude upon the 
+province of the Eleventh Amendment and 
+therefore that §5 of the Fourteenth 
+Amendment allowed Congress to abrogate the 
+
+
+15 
+
+
+immunity from suit guaranteed by that 
+Amendment. 
+
+
+Seminole Tribe, 517 U.S. at 59 (citations omitted). See also 
+City of Boerne v. Flores, 521 U.S. 507, 117 S. Ct. 2157 
+(1997). 
+
+
+2. Section 43a) Of The Lanham Act Protects A 
+Business’ F roperty Rights. 
+
+
+Section 43(a) of the Lanham Act represents a federal 
+codification of the tort of unfair competition, a tort that by 
+definition serves to protect property rights. The Act in 
+pertinent part states that the intent is “to protect persons 
+engaged in . . . commerce against unfair competition... . 15 
+U.S.C. § 1127. It has long been recognized that the tori of 
+unfair competition protects property rights. As noted in 
+PROSSER AND KEETON ON TORTS: “unfair competition torts 
+appear to involve less a question of tortious activity than a 
+question of property to be protected.” W. PAGE KEETON, ET 
+AL., PROSSER AND KEETON ON THE LAW OF TorTS, § 130, at 
+1015 (Sth Ed. 1984) (emphasis added). 
+
+
+Further, Section 43(a) of the Lanham Acct is simply a 
+federal codification of the common law tort of unfair 
+competition. See SK&F Co. v. Primo Pharmaceutical 
+Laboratories, 625 F.2d 1055, 1066 (3d Cir. 1980)(“{E]xcept for 
+the interstate commerce requirement, the elements of the unfair 
+competition torts described by New Jersey law and by Section 
+43(a) of the Lanham Act are the same.”). Section 43(a) 
+represents a federal codification of the common law tort of 
+unfair competition. In L'Aiglon Apparel, Inc. v. Lana Lobell, 
+Inc., 214 F.2d 649, 651 (3rd Cir. 1954), the Third Circuit 
+acknowledged the scope of the rights protected by the false 
+advertising portion of Section 43(a) of the Lanham Act: 
+
+
+But however similar to or different from pre- 
+existing law, here is a provision of a federal 
+
+
+16 
+
+
+statue which, with clarity and precision 
+adequate for judicial administration, creates 
+and defines rights and duties and provides for 
+their vindication in the federal courts. 
+
+
+See also AT&T Co. v. Winback and Conserve Program, Inc., 42 
+F.3d 1421, 1428 (3d Cir. 1994), cert. denied, 514 U.S. 1103 
+(1995). Thus, the Fourteenth Amendment, by affording 
+protection to “property,” by its terms extends to the tort of 
+
+
+unfair competition. 
+
+
+Treating the rights against unfair competition codified 
+by Section 43(a) of the Lanham Act as property rights 
+protectable by the Fourteenth Amendment and within 
+Congress’ power under Section 5 of that Amendment is 
+consistent with this Court’s precedent. International News 
+Service v. Associated Press, 248 U.S. 215, 236 (1918)(“[T}he 
+right to acquire property by honest labor or the conduct of a 
+lawful business is as much entitled to protection as the right to 
+guard property al~eady acquired. It is this right that furnishes 
+the basis of the jurisdiction in the ordinary case of unfair 
+competition.) (emphasis added) (citations omitted). 
+
+
+The Court of Appeals dismissed the significance of 
+International News Service in a footnote. College Savings 
+Bank, 131 F.3d at 360-61, n.4, Pet. App. at 15a n.4. (“Thus, 
+while the opinion does discuss property rights and the tort of 
+unfair competition, the Court did not determine whether the 
+tortious actions injured a property right worthy of protection 
+under the Fourteenth Amendment. The Court merely 
+determined that an injury to a specific right had occurred.”). 
+
+
+The reasoning by this Court in International News 
+Service was in the context of jurisdiction to hear the case in 
+equity. Although not called upon directly to decide whether 
+the tort of unfair competition represents a “property” right, this 
+Court appears to take as a given that “the ordinary case of 
+
+
+17 
+
+
+unfair competition” represents a means of protectin . 
+rights. That the conclusion was in the context of pa 
+findings adds strength to the application of the conclusion to 
+this case. There is no basis for concluding that property is 
+property for the purpose of equitable jurisdiction, but is not 
+property for the purposes of enforcement under the Fourteenth 
+Amendment.‘ 
+
+
+3. The Protections Of The Lanham Act Are 
+Available Only To Business Competitors. 
+
+
+Section 43(a) protection is available only to a 
+competing business. Thus, College Savings Bank has standing 
+to bring this Lanham Act case only because it has suffered 
+damage to its business property interests. Section 43(a), 15 
+U.S.C. §1125(a), confers standing on “any person who 
+believes that he is or is likely to be damaged” as a result of a 
+defendant’s activities. This phrase has been interpreted as 
+intended “exclusively to protect the interests of a purely 
+commercial class against unscrupulous commercial conduct,” 
+and thus consumers have no standing to sue. Colligan v. 
+Activities Club of New York, Ltd., 442 F.2d 686, 692 (2d Cir.), 
+cert. denied, 404 U.S. 1004 (1971). See also Serbin v. Ziebart 
+International Corp., 11 F.3d 1163, 1179 (3d Cir., 1993), reh'g 
+en bane denied, sub nom Guarino v. Sun Co., 1993 U.S. App. 
+LEXIS 34410 (3d Cir. 1993)(“[W]e join the Second Circuit in 
+holding that Congress, when authorizing federal courts to deal 
+with claims of false advertising, did not contemplate that 
+federal courts should entertain claims brought by consumers.”); 
+
+
+* More recently, this Court broadly defined property rights to include 
+even the right to publicity. Zacchini v. Scripps-Howard 
+Broadcasting Co., 433 U.S. 562 (1977). The Court in that case 
+recognized the broad scope of “property” rights and also noted that 
+protecting the right of publicity “provides an economic incentive for 
+him to make the investment required to produce a performance of 
+interest to the public. The same consideration underlies the patent 
+and copyright laws long enforced by this Court.” /d. at 576. 
+
+
+Barrus v. Sylvania, 55 F.3d 468, 470 (9th Cir. 1995)(“As 
+consumers, [plaintiffs] have alleged neither commercial injury 
+nor competitive injury. Therefore .. . they lack standing.”); 
+and Stanfield v. Osborne Industrials, 52 F.3d 867, 873 (10th 
+Cir.), cert. denied, 516 U.S. 920 (1995)(“Thus, to have 
+standing for a false advertising claim, the plaintiff must be a 
+competitor of the defendant and allege a competitive injury.”). 
+
+
+4. Businesses Are Property Within The Meaning 
+Of The Fourteenth Amendment And Have 
+Liberty And Property Interests Protected By 
+That Amendment. 
+
+
+a. This Court’s Precedent. 
+
+
+A long line of decisions of this Court have found that a 
+business is a property or liberty interest. It follows inexorably 
+that the Fourteenth Amendment protects against any activities 
+by the states that impair or destroy a business’ property. 
+Similarly, the Congressional power under the Fourteenth 
+Amendment “to enforce by appropriate legislation the 
+provisions” of the Fourteenth Amendment includes the power 
+to legislate protection against actions by an arm of the state that 
+may impair or destroy a business’ property, by engaging in 
+unfair and misleading marketing practices proscribed by 
+Section 43(a) of the Lanbam Act, for example. 
+
+
+This Court has recognized that the rights protected by 
+the Fourteenth Amendment are inextricably intertwined and 
+that it is immaterial whether an interest is characterized as a 
+property interest or a liberty interest. Smith v. Texas, 233 U.S. 
+630, 636 (1914)(“Life, liberty, property and the equal 
+protection of the law, grouped together in the Constitution, are 
+so related that the deprivation of any one of those separate and 
+independent rights may lessen or extinguish the value of the 
+other three.”). It is well established that a “business” is a 
+property right entitled to protection under the Fourteenth 
+
+
+19 
+
+
+Amendment. Duplex Co. v. Deering, 254 U.S. 443, 465 
+( 1920). (A “business . . . is a property right, entitled to 
+protection against unlawful injury or interference . . . .”). 
+
+
+Additionally, this Court repeatedly has held that the 
+enforcement power of Congress under Section 5 of the 
+Fourteenth Amendment reaches “practices that in and of 
+themselves do not violate” the Amendment. City of Rome v. 
+United States, 446 U.S. 156, 177 (1980), relying, inter alia, 
+upon Ex Parte Virginia, 100 U.S. 339 (1879); and South 
+Carolina v. Katzenbach, 383 U.S. 301 (1966). This Cour*’s 
+decision in City of Boerne again reconfirmed Congress’ Section 
+5 power to enforce the Fourteenth Amendment throuyzh 
+legislation, regardless of whether there has been a 
+constitutional tort. City of Boerne, 117 S. Ct. at 2163. 
+
+
+The Court of Appeals recognized the breadth of the 
+interests found by this Court to be within the scope of property 
+and liberty rights protected by the Fourteenth Amendment. 
+College Savings Bank, 131 F.3d at 360, Pet. App. at 14a, citing 
+Tulsa Professional Collection Serv. v. Pope, 485 U.S. 478, 485 
+(1988) (recognizing an unsecured claim against the state); 
+Logan v. Zimmerman Brush Co., 455 U.S. 422, 430 
+(1982)(“[T]he types of interests protected as ‘property’ are 
+varied and, as often as not, intangible, relating ‘to the whole 
+domain of social and economic fact’”) (citations omitted); and 
+Paul v. Davis, 424 U.S. 693, 710 (1976)(“[T]here exists a 
+variety of interests which are difficult of definition, but are 
+nevertheless comprehended within the meaning of ‘liberty’ or 
+‘property’ as meant in the Due Process Clause.”). 
+
+
+A number of other cases support the position that a 
+business is a property right protected by the Fourteenth 
+Amendment. Liggett Co. v. Baldridge, 278 U.S. 105, 111 
+(1928)(“That appellant’s business is a property right .. . and as 
+such entitled to protection against state legislation in 
+contravention of the federal Constitution is, of course, clear.”’). 
+
+
+20 
+
+
+(citations omitted), overruled on other grounds, North Dakota 
+Pharmacy Bd. v. Snyder's Stores, 414 U.S. 156 (1973); Pierce 
+v. Society of Sisters, 268 U.S. 510, 536 (1925) (Holding that a 
+state law that would have required that children be sent only to 
+state schools represented “an arbitrary, unreasonable and 
+unlawful interference with [plaintiffs’] patrons and the 
+consequent destruction of their business and property.”); Truax 
+v. Corrigan, 257 U.S. 312, 327 (1921)(“Plaintiff's business is a 
+property right (Duplex Printing Press Co. v. Deering, 254 U.S. 
+443, 465) and free access for employees, owner and customers 
+to his place of business is incident to such right.”); United 
+States v. Tropiano, 418 F.2d 1069, 1076 (2d Cir. 1969), cert. 
+denied, 397 U.S. 102 (1970)(“The right to pursue a lawful 
+business including the solicitation of customers necessary to 
+the conduct of such business has long been recognized as a 
+property right within the protection of the Fifth and Fourteenth 
+Amendments to the Constitution . . . .”) (citations omitted). 
+
+
+Despite its discussion of the broad protection afforded 
+to businesses under the Fourteenth Amendment, the Court of 
+Appeals has failed to follow the precedents of this Court 
+defining the scope of that protection. In contrast, the Federal 
+Circuit found that Florida Prepaid had cited “no authority 
+forbidding Congress from enacting statutes that abrogate state 
+immunity in order to protect persons from property 
+deprivations without due process of law.” College Savings 
+Bank, 148 F.3d at 1349, Pet. App. at 105a. That conclusion 
+applies equally to the proceedings in the Third Circuit in the 
+instant case. As the Federal Circuit concluded: 
+
+
+Surely the enforcement power of Congress 
+under Section 5 must embrace the full range 
+
+
+* Both Liggett Co. and North Dakota Pharmacy Bd. recognized that the 
+failure of a state to grant a license to a business would represent a 
+violation of Section | of the Fourteenth Amendment, unless found to 
+be a reasonable exercise of police power. 
+
+
+21 
+
+
+of behavior that the Supreme Court has held 
+to violate the substantive provisions in section 
+1 of the Amendment. (Citing City of Boerne, 
+117 S. Ct. at 2163). 
+
+
+b. All Forms Of Property Are Protected 
+By The Fourteenth Amendment. 
+
+
+Obviously, all forms of tangible property, e.g, an 
+Gime or tesl comme, more madlly tt ino the 
+commonplace concept of “property.” Even many intangible 
+property rights, such as trademarks, are more readily 
+conceptualized as “property” than is the property right of a 
+business to be protected from unfair competition. 
+
+
+This Court has recognized, however, that there is no 
+essential distinction between trademark infringement and the 
+law of unfair competition. Indeed, the business element is 
+essential; a trademark is not property except in connection with 
+an existing business. As stated by this Court: 
+
+
+This essential element is the same in trade- 
+mark cases as in cases of unfair competition 
+unaccompanied with trade-mark infringement. 
+In fact, the common law of trade-marks is but 
+a part of the broader law of unfair 
+competition. 
+
+
+Hanover Star Milling Co. v. Metcalf, 240 U.S. 403, 413 (1916). 
+
+
+22 
+This Court concluded: 
+
+
+In short, the trade-mark is treated as merely a 
+protection for the good-will, and not the 
+subject of property except in connection with 
+an existing business. (citations omitted.) 
+
+
+Id. at 414. See also United Drug Co. v. Rectanus Co., 248 U.S. 
+90, 97 (1918)(“The law of trade-marks is but a part of the 
+broader law of unfair competition . . . .”); and S. Rep. No. 
+1333, reprinted in 1946 U.S.C.C.A.N. at 1275. 
+
+
+The harm to be prevented by protecting any kind of 
+property rights, however characterized, is not distinguishable. 
+Ultimately, the purpose of protecting all property rights, and in 
+particular those created and defined by Section 43(a) of the 
+Lanham Act, is to ensure that a business is not deprived of the 
+monetary advantages of that property without due process of 
+law. CSB is deprived of the revenue and earnings to which it is 
+entitled whe 1 a competitor falsely describes its own product, 
+thereby depriving CSB of customers and income because of the 
+false descriptions. That deprivation of property, ie., the 
+earnings and revenues which it would otherwise enjoy but for 
+the false description of the competitor's products or services, is 
+protected by the Fourteenth Amendment. 
+
+
+Under Article 1, Congress has the power to create and 
+codify particular types of property rights. Section 43(a) of the 
+Lanham Act was enacted pursuant to that power. Congress 
+also has the power to protect those property rights against the 
+states by exercising its Section 5 Fourteenth Amendment 
+powers. The extraordinary position that is necessarily taken by 
+Florida Prepaid in this case is that Congress, presumably alone 
+among sources of law, has no power to create property rights 
+entitled to the protection of the Fourteenth Amendment. That 
+
+
+23 
+
+
+is a radical, wholly unprecedented position which finds no 
+support by the holding of this Court in Seminole Tribe. 
+
+
+B. THIS COURT’S DECISION IN CITY OF 
+BOERNE SUPPORTS THE 
+CONSTITUTIONALITY OF THE TRCA. 
+
+
+This appeal arose because of the Court of Appeals’ 
+ruling that this Court’s decision in Seminole Tribe necessarily 
+served to invalidate Congress’ 1992 adoption of the TRCA, 
+which abrogated the Eleventh Amendment immunity of the 
+ribe, , solely the power of to 
+abrogate the Eleventh Amendment pursuant to its Article | 
+powers. The case did not involve any liberty or property 
+interests. Seminole Tribe of Florida v. State of Fla., 11 F.3d 
+1016, 1025 (11th Cir. 1994), aff'd, 517 U.S. 44 (1996)(“Thus, 
+IGRA creates no liberty or property interests and cannot 
+implicate the Fourteenth Amendment.”). 
+
+
+This Court explicitly recognized in Seminole Tribe that 
+Congress has the power to abrogate the Eleventh Amendment 
+under Section 5 of the Fourteenth Amendment. Seminole 
+Tribe, 517 U.S. at 59. Ultimately, therefore, Seminole Tribe is 
+of only limited assistance in addressing this case, which 
+involves the scope of the liberty and property interests 
+protected by Section | of the Fourteenth Amendment. This 
+Court's decision in City of Boerne is a more useful guide in 
+addressing the constitutionality of the TRCA. 
+
+
+. The essence of this Court’s decision in City of Boerne 
+is that there is no “constitutional right to ignore neutral laws of 
+general applicability.” City of Boerne, 117 S. Ct. at 2161, 
+citing Employment Div., Dep't of Human Resources of Oregon 
+v. Smith, 494 U.S. 872 (1990). The enactment of the Religious 
+Freedom Restoration Act of 1993 (RFRA), 42 U.S.C. 2000bb 
+
+
+et seq., was a direct and explicit attempt by Congress to 
+
+
+24 
+
+
+overturn this Court’s holding in Smith. City of Boerne, 117 S. 
+Ct. at 2161-62. This Court, however, already had found in 
+Smith that a law of neutral application does not violate the 
+prohibitions of Section | of the Fourteenth Amendment. Thus, 
+RFRA was an attempt by Congress to interpret and define the 
+substantive protections of the Fourteenth Amendment. 
+Congress does not have “the power to decree the substance of 
+the Fourteenth Amendment's restrictions on the States.” City 
+of Boerne, 117 S. Ct. at 2164. 
+
+
+This case presents quite different issues. Here, no 
+substantive change in constitutional protections is involved. 
+Congress, by enactment of the TRCA, simply placed the states 
+on an equal footing with private parties by requiring the states 
+to be subject to the same rule of law applicable to private 
+parties, i.e., to be responsible for damages caused by violations 
+of the Lanham Act. The TRCA is designed to enforce the 
+constitutional protections afforded against the states by Section 
+| of the Fourteenth Amendment, ie., the disregard of the 
+liberty and property rights protected by Section 43(a) of the 
+Lanham Act. Unlike RFRA, the TRCA does not constitute 
+“displacing laws and prohibiting official actions of almost 
+every description ... .” City of Boerne, 117 S. Ct. at 2170. 
+Here there is a proportionality and congruence between the 
+Congressional means adopted and the end to be achieved. 
+
+
+City of Boerne reaffirmed the broad scope of Congress’ 
+Fourteenth Amendment enforcement powers. City of Boerne, 
+117 S. Ct. at 2163 (“All must acknowledge that Section 5 is ‘a 
+positive grant of legislative power’ to Congress”) (quoting 
+Katzenbach v. Morgan, 384 U.S. 641, 651 (1966)).* This Court 
+
+
+* The Court also noted that: 
+
+
+Whatever legislation is appropriate, that is, adapted to 
+carry out the objects the amendments have in view, 
+whatever tends to enforce submission to the 
+prohibitions they contain, and to secure to all persons 
+
+
+25 
+
+
+recognized that “the line between measures that remedy or 
+prevent unconstitutional actions and measures that make a 
+substantive change in the governing law is not easy to discern, 
+and Congress must have wide latitude in determining where it 
+lies ....” City of Boerne 117 S. Ct. at 2164. The Court also 
+held that “[wjtren Congress acts within its sphere of power and 
+responsibilities, it has not just the right but the duty to make its 
+own informed judgment on the meaning and force of the 
+Constitution.” City of Boerne, 117 S. Ct. at 2171. 
+
+
+It is within Congress’ Article | “sphere of power” to 
+establish the liberty and property rights to which businesses 
+shall be entitled. That is precisely what Congress did in 
+enacting Section 43(a) of the Lanham Act. Since it is 
+established that property rights are a product of laws, not the 
+Constitution, the Congressional determination in the TRCA 
+that the states should be held responsible for violations of those 
+property rights is within Congress’ Section 5 powers. 
+
+
+C. THE COURTS BELOW HAVE ADOPTED AN 
+ERRONEOUS INTERPRETATION OF 
+CONGRESS’ POWER UNDER SECTION 5 OF 
+THE FOURTEENTH AMENDMENT. 
+
+
+1. Florida Prepaid’s Position. 
+
+
+The specific issue presented by this case is whether 
+false and deceptive advertising implicates a business property 
+right protected by the Fourteenth Amendment. The more 
+fundamental constitutional issue presented by this case, as it 
+relates to the power of Congress under Section 5 of the 
+
+
+the enjoyment of perfect equality of civil rights and the 
+equal protection of the laws against State denial or 
+invasion, if not prohibited, is brought within the 
+domain of congressional power. 
+
+
+Ex parte Virginia, 100 U.S. 339, 345-46 (1879). 
+
+
+26 
+
+
+Fourteenth Amendment, is whether the Fourteenth Amendment 
+applies to all liberty and property rights. Florida Prepaid 
+maintains that property rights created by Congress pursuant to 
+its Article | powers cannot be made subject to Congress’ 
+enforcement power under Section 5 of the Fourteenth 
+Amendment. Florida Prepaid contends, therefore, that to 
+permit Congress to exercise its Section 5 power with respect to 
+the rights created by the Lanham Act would effectively nullify 
+Seminole Tribe's overruling of Pennsylvania v. Union Gas Co., 
+491 U.S. 1 (1989). Florida Prepaid’s premise is that because 
+the Lanham Acct is a creature of Congress’ Article | commerce 
+power, adoption of the TRCA cannot be a valid exercise of 
+Congress’ power under Section 5 of the Fourteenth 
+Amendment. 
+
+
+The Court of Appeals’ adoption of Florida Prepaid’s 
+position fails to come to grips with the fundamental fact that 
+“[p]roperty interests, of course, are not created by the 
+Constitution.” Board of Regents v. Roth, 408 U.S. 564, 577 
+(1972). “Rather they are created and their dimensions are 
+defined by existing rules or understandings that stem from an 
+independent source such as state law... .” /d In sum, 
+creating and defining property rights is a legislative, not a 
+constitutional, exercise. 
+
+
+There can be no dispute that Congress is free under its 
+Section 5 power to protect property interests as created by the 
+states by statute or as defined by the common law. To do 
+otherwise would deprive Section 5 of all meaning. Thus, 
+Florida Prepaid’s ultimate position can be only that ~ngress 
+can enact remedial legislation under Section 5 t) protect 
+property rights, except for property rights that the Congress 
+itself has created. Florida Prepaid’s position is a wholly 
+unprecedented and unsupported attempt to limit congressional 
+power. 
+
+
+As made clear by this Court’s decision in City of 
+Boerne v. Flores, the Fourteenth Amendment is not, in itself, a 
+
+
+27 
+
+
+grant of power to Congress to create substantive rights. Rather, 
+Congress, in exercising its Section 5 power, can only enforce 
+against the states the procedural due process guaranteed by 
+Section | of the Fourteenth Amendment. Surely, however, the 
+fact that Congress does not have the power under the 
+Fourteenth Amendment to create property rights cannot mean 
+that Congress cannot create enforceable property rights under 
+its Article | power. Congress’ enforcement power under 
+Section 5 of the Fourteenth Amendment necessarily includes 
+the authority to protect all property rights, regardless of 
+whether those rights are the product of state or federal law. 
+Florida Prepaid’s radical position to the contrary is flatly 
+wrong’. 
+
+
+2. The District Court Failed To Recognize That 
+The Fourteenth Amendment Serves To Protect 
+
+
+Property, Regardless Of The Source of That 
+Property. 
+
+
+The district court found that the 1992 amendments to 
+the Patent Act were a valid and constitutional exercise of 
+Congress’ Section 5 powers under the Fourteenth Amendment. 
+Patent and Plant Variety Protection Remedy Clarification Act, 
+Pub. L. No. 102-560, 106 Stat. 4230. The finding was premised 
+upon the court’s conclusion that a patent is “property” for the 
+purposes of the Fourteenth Amendment. College Savings 
+Bank, 948 F. Supp. at 422-26, Pet. App. at 79a-87a. The 
+district court certainly was entirely correct in reciting and 
+
+
+” Florida Prepaid’s ultimate position is more radical. Florida Prepaid 
+contends that the Fourteenth Amendment can be used only to remedy 
+the “kind of ‘insidious discrimination’ against the newly freed slaves 
+that prompted its adoption.” College Savings Bank, 948 F. Supp. at 
+423-24, Pet. App. at 82a. That position has been rejected decisively 
+by both the district court and the Federal Circuit. See College 
+Savings Bank, 948 F. Supp. at 424, Pet. App. at 82a and College 
+Savings Bank, 148 F.3d at 1349, Pet. App. at 104a. 
+
+
+28 
+
+
+noting that there is well established authority for the 
+proposition that a patent is property. Jd. 
+
+
+The district court also found, however, that the creation 
+of a right to be “free from alleged false advertising simply does 
+not qualify as a property right for the purposes of the Due 
+Process Clause of the Fourteenth Amendment . . . .” College 
+Savings Bank, 948 F. Supp. at 426, Pet. App. at 89a. The 
+district found that Congress cannot “by simple fiat” declare that 
+a particular cause of action represents property. Jd, 948 F. 
+Supp. at 427, Pet. App. at 90a, 91a. 
+
+
+That formulation misstates the issue. Congress can 
+create property under its Article | powers. In the case at bar it 
+is clear that Congress, pursuant to the exercise of its Article | 
+powers, enacted Section 43(a) of the Lanham Act. Section 
+43(a) creates a number of rights for businesses, including the 
+right to bring an action against a competitor for unfair 
+competition. Contrary to the contentions of Florida Prepaid, 
+the Fourteenth Amendment protects all property, including 
+property rights created by Congress under its Article I powers. 
+Although CSB does not dispute that ultimately it is for the 
+courts to determine whether a particular right created by the 
+Congress pursuant to Article I represents a liberty or property 
+right protected by the Fourteenth Amendment, it is equally 
+clear that the courts should give deference to a congressional 
+determination that a particular right that it has created pursuant 
+to its Article | power is within the protection of the Fourteenth 
+Amendment. City of Boerne, 117 S. Ct. at 2164, 2171-72. 
+
+
+3. The Court Of Appeals Failed To Recognize 
+That Property Created By Congress Pursuant 
+To Its Article I Powers Is Protected By The 
+Fourteenth Amendment. 
+
+
+Similar to the district court, the Court of Appeals failed 
+to recognize that property rights created by Congress under 
+
+
+29 
+
+
+Article I are protected by the Fourteenth Amendment. The 
+Court of Appeals found correctly that this Court has established 
+a two-part standard to determine Congress’ power to abrogate 
+the Eleventh Amendment immunity of the States. This Court 
+has stated that in order to find a valid abrogation, two questions 
+must be answered affirmatively: “First, whether Congress has 
+‘unequivocally expresse[d] its intent to abrogate the immunity,’ 
+and second, whether Congress has acted ‘pursuant to a valid 
+exercise of power.”” Seminole Tribe, 517 U.S. at 55 (citation 
+omitted). 
+
+
+The Court of Appeals found that the language of the 
+TRCA “manifests Congress’ unambiguous intent to abrogate 
+the states’ immunity.” College Savings Bank, 13) F.3d at 357, 
+Pet. App. at 8a. That finding by the Court of Appeals is 
+beyond argument. The pertinent portions of the TRCA provide 
+that any state, or instrumentality of the state “shall not be 
+immune, under the Eleventh Amendment of the Constitution of 
+the United States or under any other doctrine of sovereign 
+imrrunity, from suit in Federal court by any person... .” 15 
+U.S.C. § 1122. Therefore, Congress’ action manifestly satisfies 
+the first part of the test as set forth in Seminole Tribe. 
+
+
+The Court of Appeals also found that: “Clearly, a 
+business is an established property right entitled to protection 
+under the Fourteenth Amendment.” College Savings Bank, 131 
+F.3d at 361, Pet. App. at 15a (citations omitted). Despite that 
+holding, the Court of Appeals found erroneously that the 
+TRCA failed to meet the second part of the test set forth in 
+Seminole Tribe by concluding that destruction of the property 
+interests of CSB by a competitor's unfair and deceptive 
+advertising is beyond the reach of the Fourteenth Amendment. 
+The Court of Appeals held, with respect to Section 43(a) of the 
+Lanham Act, that “[t}he only cognizable property right that 
+could be involved would be a right to be free of false 
+advertising, a right that is not an intangible property right 
+protected under the Fourteenth Amendment.” Jd, 131 F.3d at 
+
+
+30 
+
+
+360, Pei. App. at 14a. The Court of Appeals also held that 
+“just because the state’: actions impact on a private business 
+does not mean that this action somehow infringes on the 
+Fourteenth Amendment rights of the private individual.” 
+College Savings Bank, 131 F.3d at 361, Pet. App. at 16a, 17a. 
+
+
+The essence of the property rights protected by 
+Section 43(a), however, is a business’ loss of revenue and 
+earnings resulting from a competitor falsely advertising its 
+product. The “state’s action impact[ing] on” CSB is the loss of 
+customers. By engaging in unfair competition, Florida Prepaid 
+has made sales of its investment products that would otherwise 
+have been made by CSB. CSB has lost the earnings that would 
+have resulted from those sales. The loss of earnings impairs 
+CSB’s ability to form capital, the life blood of any business and 
+the growth force of our economic system. Ultimately, it is this 
+loss of money, which clearly is property, that Section 43(a) is 
+designed to protect. If a business is not protected by the 
+
+-Fourteenth Amendment against the damages caused by false 
+advertising, the Court of Appeals’ finding that “a business is an 
+established property right entitled to protection under the 
+Fourteenth Amendment” is shorn of much of its meaning. 
+
+
+The Court of Appeals appears to premise its holding 
+principally upon a fear that to recognize Congress’ power in 
+this case would give to the Congress “almost unrestricted 
+power to subject states to suit through the exercise of its 
+abrogation power.” College Savings Bank, 131 F.3d at 361, 
+Pet. App. at 17a. The Court of Appeals concluded that to 
+recognize Congress’ power in this instance would allow 
+Congress to “pass any law that tangentially affected the ability 
+of businesses to operate and then create causes of action against 
+the states in federal court if they infringed on those federally 
+created rights.” Jd. 
+
+
+31 
+
+
+The Third Circuit’s concerns are misplaced, and its 
+holding serves to deprecate Congress’ Article I constitutional 
+power to create property rights. Property has been created and 
+defined by the common law, state legislatures and the federal 
+government to include a wide array of rights. The breadth of 
+those rights provides no basis for concluding that a particular 
+right is not protected by the Fourteenth Amendment because of 
+a desire to restrain Congress’ abrogation of the states’ Eleventh 
+Amendment immunity. Most important, there can be no 
+restrictions upon Congress’ Section 5 power to enact remedial 
+legislation abrogating the states’ immunity merely because the 
+property rights in issue were created and defined by Congress 
+under its Article I power. 
+
+
+4. The Cases Relied Upon By Tne Court Of 
+Appeals Do Not Support The Decision. 
+
+
+The Court of Appeals placed principal reliance for its 
+holding upon Gentry v. Howard, 365 F. Supp. 567 (W.D. La. 
+1973). College Savings Bank, 131 F.3d at 361, Pet. App. at 
+16a. That case stands for the unremarkable proposition that the 
+loss of revenue resulting from a competitive service operated 
+by a governmental entity does not amount to a taking or 
+deprivation of property within the meaning of the Fourteenth 
+Amendment. As found in that case, mere competition is not in 
+violation of the guarantees of the Fourteenth Amendment. 
+Fourteenth Amendment guarantees, however, do extend to a 
+State destroying a business’ property by engaging in false and 
+misleading advertising. 
+
+
+The Court of Appeals also relied upon Hegeman Farms 
+Corp. v. Baldwin, 293 U.S. 163, 170 (1934)(“The Fourteenth 
+Amendment does not protect a business against the hazards of 
+competition”). College Savings Bank, 131 F.3d. at 361, Pet. 
+App. at 16a. Hegeman Farms and the holding relied upon by 
+the Court of Appeals are inapplicable to this case. CSB 
+recognizes that the states can enter the commercial sphere and 
+
+
+32 
+
+
+compete with other investment vehicles for college savings. 
+CSB’s complaint does not seek protection from the hazards of 
+lawful competition from Florida Prepaid, but rather protection 
+against unfair competition in the form of false and deceptive 
+statements that deprive CSB of its revenues and earnings. 
+
+
+The Court of Appeals’ reliance on Paul v. Davis, 424 
+U.S. 693 (1976), also is misplaced. College Savings Bank, 131 
+F.3d at 360, Pet. App. at 15a. In Paul, this Court rejected the 
+proposition that a person’s personal reputation alone, without 
+monetary loss, represents an intangible property interest 
+protected by the Fourteenth Amendment. The Court held that 
+the prior Supreme Court cases do not establish that “reputation 
+alone, apart from some more tangible interest such as 
+employment, is either ‘liberty’ or ‘property’ by itself sufficient 
+to invoke the procedural protection of the Due Process Clause.” 
+Paul, 424 U.S. at 701. This case involves the “tangible 
+interest” of CSB to seek redress for the monetary loss caused 
+by false advertising, a property and liberty interest that differs 
+fundamentally from the personal reputation issue addressed in 
+Paul. 
+
+
+Judge Wisdom, in his dissent in Chavez v. Arte Publico 
+Press, 139 F.3d 504 (Sth Cir. 1998), reh’g en banc granted, 
+criticized a similar reliance by the majority upon Paul. As he 
+explained: 
+
+
+Paul involved an injury to reputation only. 
+The present case involves much more than an 
+interest in reputation. This case involves an 
+interest created under the Lanham Act. 
+
+
+Chavez, 157 F.3d. at 296, n.41. Similarly, CSB’s claim in this 
+case has nothing to do with reputation, but instead seeks 
+redress for the damages caused to its business resulting from 
+Florida Prepaid’s false advertising of its product in violation of 
+a property interest created under the Lanham Act. 
+
+
+33 
+
+
+5S. The Harm To Property Rights From All 
+Forms Of False Advertising Is Identical. 
+
+
+The Court of Appeals also suggested that there could be 
+a constitutional distinction within Section 43(a) of the Lanham 
+Act depending upon whether the violation consists of 
+misrepresentation about a competitor’s goods or services, or 
+misrepresentation of one’s own goods and services, which is 
+the claim raised by CSB’s complaint. College Savings Bank, 
+131 F.3d at 361-62, Pet. App. at 17a. There is, however, no 
+principled distinction between the two kinds of 
+misrepresentations. The property and liberty interests harmed 
+by misrepresentation of a competitor’s own goods or services 
+are exactly the same as the interests harmed by 
+misrepresentation about another person’s goods or services. 
+CSB recognizes that the panel did not decide the issue. 
+Nevertheless, raising the possibility of a different outcome 
+demonstrates confusion about the issue of the property interests 
+protected by the Fourteenth Amendment. 
+
+
+A business represents a property right, a proposition 
+that is beyond dispute. It is therefore neither feasible nor 
+constitutionally sound to divide that property right so that only 
+some portions of the right are protected by the Fourteenth 
+Amendment. Congress has the constitutional authority to 
+protect property by prohibiting false advertising by a business 
+addressed to either its own or a competitor's goods and 
+services. Congress did so by enacting the Lanham Act. 
+Congress made the states amenable to suit in federal court for 
+violating the property rights protected by the Lanham Act by 
+enacting the TRCA. The possible distinction in the 
+constitutionality of that Act postulated by the Court of Appeals 
+makes no sense and should be rejected. TRAC is constitutional 
+a= ePpued't all Terms of advertising prokibleed by the Lanham 
+
+ct. 
+
+
+34 
+
+
+D. THE FEDERAL CIRCUIT’S DECISION 
+CORRECTLY RECOGNIZES THE POWER OF 
+CONGRESS TO ENFORCE PROPERTY 
+RIGHTS CREATED UNDER ARTICLE I BY 
+THE EXERCISE OF ITS SECTION 5, 
+FOURTEENTH AMENDMENT POWER. 
+
+
+The Federal Circuit found that Congress’ Fourteenth 
+Amendment power includes the power to protect property 
+rights created by Congress pursuant to its Article I power. 
+College Savings Bank v. Florida Prepaid Postsecondary Educ. 
+Exp. Bd, 148 F.3d. 1355 (Fed. Cir. 1998), cert. granted, 67 
+U.S.L.W. 3433 (1999). Docket No. 98-531. The Federal 
+Circuit rejected Florida Prepaid’s contention that this Court’s 
+overruling of Union Gas in Seminole Tribe means that any 
+property right created by Congress pursuant to any of its 
+Article | powers is necessarily beyond the power of Congress 
+under Section 5 of the Fourteenth Amendment. College 
+Savings Bank, 148 F.3d at 1351, Pet. App. at 11 1a. 
+
+
+The Federal Circuit rejected the Fifth Circuit’s 
+conclusion in Chavez that any right created by Congress 
+pursuant to Article I is beyond the reach of Congress’ 
+abrogation power under Section 5 of the Fourteenth 
+Amendment. /d., 148 F.3d at 1351, Pet. App. At Illa. The 
+Fifth Circuit based its decision on a spurious fear of an “end- 
+run” around Seminole Tribe. Chavez v. Arte Publico Press, 157 
+F.3d 282, 289 (Sth Cir. 1998), reh’g en banc granted. 
+(“Congress could easily legislate ‘property’ interests and then 
+attempt to subject states to suit in federal court for the violation 
+of such interests. This end-run is just as possible under a 
+liberal interpretation of the Due Process Clause of the 
+
+
+35 
+
+
+Fourteenth Amendment as it was under the theories of Article ] 
+rejected by the Court in Seminole.”).* 
+
+
+. The Federal Circuit criticized and refused to follow the 
+Fifth Circuit's analysis and the similar analysis by the Third 
+Circuit in the case here under review. College Savings Bank, 
+148 F.3d at 1351, Pet. App. at llla. (“These cases miss the 
+mark, however, because they ignore the essential fact that, 
+because the Fourteenth Amendment was enacted subsequent to 
+the Eleventh Amendment, unlike Article I, it expressly 
+qualified the principle of sovereign immunity.”). The Federal 
+Circuit concluded: 
+
+
+Our sister circuits wrongly equate the result 
+afforded by Congressional power under the 
+Fourteenth Amendment and Article I with the 
+Constitutional structure under which Congress 
+governs and the federal courts exercise 
+jurisdiction. When the states adopted the 
+Fourteenth Amendment, and consented to 
+cede a portion of their authority to the federal 
+government, it was within their contemplation 
+that they limited their Eleventh Amendment 
+immunity. Fitzpatrick teaches so, and we 
+
+
+a to its reasoning. See 427 U.S. at 453- 
+
+
+Id. 
+
+
+In his dissent in Chavez, Judge Wisdom provides a compelling 
+analysis of why the exercise of Congress’ Section 5, Fourteenth 
+Amendment power to protect property rights created by Congress 
+pursuant to Article | is not inconsistent with this Court’s overruling of 
+Union Gas. Chavez, 157 F.3d. at 296-98. Judge Wisdom recognized 
+that Congress can create property interests under its Article | powers 
+and also can protect the property interests so created pursuant to its 
+power under Section 5 of the Fourteenth Amendment. /d at 296. 
+
+
+36 
+
+
+Il. THE COURT OF APPEALS MISAPPLIED THE 
+PARDEN DOCTRINE. 
+
+
+A. THE PARDEN DOCTRINE REMAINS VALID 
+LAW AND SHOULD NOT BE OVERRULED. 
+
+
+The Court of Appeals « orrectly declined to affirm the 
+district court’s holding that this Court's decision in Seminole 
+Tribe implicitly overruled Parden. College Savings Bank, 131 
+F.3d at 365, Pet. App. at 24a. (“[A] court of appeals should be 
+reluctant to hold that the Supreme Court implicitly has 
+overruled its own decision when the Court had an opportunity 
+to overrule the decision explicitly and did not do so.”). 
+
+
+More importantly, CSB contends that Parden should 
+not be overruled because to do so would severely restrict the 
+authority of Congress under Article | of the Constitution when 
+states choose to leave a sphere that is exclusively their own and 
+enter into the world of commerce. The Parden doctrine cannot 
+be used to infringe upon the immunity provided to the states by 
+the Eleventh Amendment, so long as the states confine 
+themselves to governmental functions. Obviously, the purpose 
+of the Eleventh Amendment was to protect the states from 
+being subjected to suit in federal courts when functioning in 
+their governmental capacity. There is no diminishment of the 
+Eleventh Amendment by applying the Parden doctrine 
+provided that Congress, with the requisite clarity, has made it 
+clear that states will be deemed to have waived their immunity 
+if they enter into commercial activities which, inevitably, 
+compete with the private sector. 
+
+
+37 
+
+
+B. CONGRESS HAS STATED ITS INTENTIONS 
+
+
+WITH THE CLARITY REQUIRED BY THIS 
+COURT TO APPLY PARDEN. 
+
+
+The Court of Appeals found that in the case at bar all of 
+the requirements for applying the Parden doctrine had been 
+meanings beasts paragon 
+
+important or core government function.” College Savings 
+Bank, 131 F.3d at 363, Pet. App. at 21a. The Court of Appeals 
+found “if a state or its instrumentality chooses to engage in 
+proprietary activity that potentially falls under the Lanham Act, 
+it can be held liable in federal court for violations of that Act.” 
+Id. The Court of Appeals also found that by the enactment of 
+the TRCA, Congress intended that a state or instrumentality 
+engaging In proprietary activity “that potentially falls under the 
+Lanham Act” can be held liable in federal court for violations 
+of that Act. Id. Thus, this Court's requirement that there be 
+an unequivocal expression that Congress intended to override 
+Eleventh Amendment immunity” was met by the TRCA. 
+Welch v. Texas Dep't of Highways and Pub. Transp., 483 U.S. 
+468, 478 (1987). Further, the TRCA served to give the states 
+clear notice that continuing to engage in the regulated activities 
+would be deemed a waiver of sovereign immunity. Finally 
+Florida Prepaid has engaged in the activity covered by the 
+federal legislation, ie., has engaged in allegedly unfair 
+competition under Section 43(a) of the Lanham Act. See 
+College Savings Bank, 131 F 3d at 363, Pet. App. at 21a. 
+
+
+There can be no doubt about the congressional 
+intention, as the Court of Appeals correctly found. Congress’ 
+sole purpose in enacting the TRCA was to allow the states to be 
+brought into federal court to answer for violations of the 
+Lanham Act, including Section 43(a). Therefore, the 
+Employees test, which focused exclusively on discerning a 
+congressional intent to override the Eleventh Amendment, has 
+clearly been met. Employees of the Dep't of Pub. Health & 
+
+
+38 
+
+
+Welfare v. Dep't of Pub. Health & Welfare, 411 U.S. 279, 285 
+(1973). 
+
+
+C. FLORIDA PREPAID’S ACTIVITIES ARE NOT 
+BEYOND THE REACH OF PARDEN. 
+
+
+The Court of Appeals erred in finding that Florida 
+Prepaid, by offering investment vehicles, was engaged in 
+education as a core function of state government. The finding 
+confuses “education” with financial investments used to meet 
+the costs of college, clearly a private, not a governmental 
+function. 
+
+
+Florida Prepaid, a “body corporate”, Fla. Stat. § 
+240.551(5), J.A. 48, of the State of Florida, was created to 
+manage the prepaid expense program with the power to engage 
+in commercial transactions with the public and the power to 
+sue and be sued in its own name. Jd. § 240.551(5)(c)(2), J.A. at 
+49. Florida Prepaid’s product is marketed outside of the State 
+of Florida, and the proceeds of its program can be used for 
+colleges outside of Florida. Jd. § 240.551(7)(e), J.A. at 62-63. 
+Florida Prepaid is authorized to collect administrative fees and 
+penalties for delinquent payments. Jd. § 240.554(5)(c)(13), 
+J.A. at 50. Florida Prepaid controls the price of its contracts. 
+As of June 1995, it had assets of almost $1.5 billion and a 
+surplus of $184 million. College Savings Bank, 948 F. Supp. at 
+410, Pet. App. at 49a. Florida Prepaid’s earnings cannot be 
+used by the State of Florida. Fla. Stat. § 240.551(10), J.A. at 
+66-67. 
+
+
+Florida Prepaid described its program in its 1994 
+Annual Report as follows: 
+
+
+Cooperative efforts of private enterprise and 
+state government provide the daily operations 
+
+
+39 
+
+
+of the Program. Only eight state employees 
+oversee the Program’s day-to-day objectives.” 
+
+
+The Annual Report also reveals that the program is carried out 
+by “seven private companies,” First Union National Bank of 
+Florida, Ernst & Young, U.S. Trust, BTI Services, Inc., 
+Coopers & Lybrand, The Hannah Group and North American 
+Life Assurance Company. /d. 
+
+
+Florida Prepaid enjoys considerable autonomy, 
+appointing its Own executive director, and contracting with 
+“private consultants, actuaries, managers, legal counsel, and 
+auditors for administrative or technical assistance.” College 
+Savings Bank, 948 F. Supp. at 413, Pet. App. at 56a-57a. 
+Florida Pr<paid provides to its investors a return guaranteed to 
+be sufficient to pay the future costs of college. College Savings 
+Bank 948 F. Supp. at 401-02, Pet. App. at 29a-30a. 
+
+
+In Parden, this Court found that Congress had the 
+power to enact legislation governing conduct in areas not 
+committed exclusively to the public domain and to deem a state 
+to have constructively waived its Eleventh Amendment 
+immunity if, after passage of the legislation, a state engaged in 
+the regulated activity. Parden, 377 U.S. at 196 (“When a State 
+leaves the sphere that is exclusively its own and enters into 
+activities subject to Congressional regulation, it subjects itself 
+to that regulation as fully as if it were a private person or 
+corporation.”). Thus, when a state chooses to do business in an 
+area which has been made subject to authorized federal 
+legislation, it waives its immunity. Florida Prepaid has 
+engaged in the selling of investment vehicles, an area where 
++ a normally run the enterprise. Employees, 411 
+
+S. at 284. 
+
+
+. Florida Prepaid’s 1994 Annual Report, attached as Exhibit B to 
+Florida Prepaid’s Answer, Affirmative, Defenses and Counterclaim. 
+
+
+40 
+
+
+Providing investment instruments to assist in meeting 
+the cost of college is neither a sphere committed exclusively to 
+the states nor a core governmental function, and is therefore 
+within the scope of Parden. The Court of Appeals, however, 
+concluded that the Parden test was changed by this Court’s 
+1973 decision in Employees. The Court of Appeals interpreted 
+Employees as modifying Parden by creating an “important 
+government function exception to Parden.” College Savings 
+Bank, 131 F.3d at 362, Pet. App. at 19a. The Court of Appeals 
+concluded “a state cannot be deemed to have waived its 
+immunity if it is engaged in an important or core government 
+function.” /d., at 131 F.3d 363, Pet. App. 19a. 
+
+
+Employees was decided prior to this Court’s 1987 
+decision in Welch, in which this Court stated that the 
+application of the Parden doctrine “required an unequivocal 
+expression that Congress intended to override Eleventh 
+Amendment immunity.” Welch, 483 U.S. at 478. Employees 
+was a forerunner of the Welch decision, relative to the needed 
+clarity of the intention of Congress. In Employees, this Court 
+concluded that “Congress desired to bring under the Act 
+employees of hospitals and related institutions.” Employees, 
+411 U.S. at 283. The significant finding by the Court, 
+however, was that there was “not a word in the history of the 
+1966 Amendments to indicate a purpose of Congress to make it 
+possible for the citizens of that State or another State to sue the 
+State in the federal courts.” Jd at 285. Because of the 
+sweeping implications of concluding that Congress intended to 
+impose a constructive waiver, the Court held that “we cannot 
+conclude that Congress conditioned the operation of these 
+facilities on the forfeiture of immunity from suit in a federal 
+forum.” Jd. 
+
+
+In summary, Employees does not stand for the 
+proposition that this Court has changed the basic test as set 
+forth in Parden, i.e., that the Congress has authority to impose 
+
+
+41 
+
+
+a constructive waiver “when a State leaves the sphere that is 
+exclusively its own and enters into activities subject to 
+congressional regulation ... .” Parden, 377 U.S. at 196 
+Rather, Employees is a forerunner of this Court’s decision that 
+Congress must clearly express its intent for the Parden doctrine 
+
+
+to apply. 
+
+
+The Court of Appeals’ discussion of the overall 
+importance of education and the importance of education to the 
+states is immaterial to the issue before this Court. College 
+Savings Bank, 131 F.3d at 363-65, Pet. App. at 2la-24a. The 
+Court of Appeals has confused the distinction between the role 
+of the states in providing educational institutions with the quite 
+different function of providing investment vehicles for assisting 
+parents and others to meet the costs of college. That certainly 
+is not a sphere of authority exclusive to the states, nor indeed, a 
+core function of the states. See Genentech, Inc. v. University of 
+California, 143 F.3d 1446, 1453 (Fed. Cir. 1998), petition for 
+cert. filed 11/3/98, Dkt. No. 98-731, 67 U.S.L.W. 3337 
+(1998)(“[T]}he University’s actions are not at the core of the 
+educational/research purposes for which the University was 
+chartered as an arm of the state ... .”) (footnote omitted). 
+
+
+The Court of Appeals’ interpretation would deprive the 
+Parden doctrine of meaning, since virtually any activity 
+undertaken by a state could be interpreted as assisting some 
+function deemed to be important to a state government. The 
+Court of Appeals properly held chat it would be improper for 
+the Court to hold that the Parden doctrine has been overruled 
+by implication. The Court of Appeals, however, by finding 
+Parden inapplicable based upon a conclusion that education is 
+an important state function, rather than analyzing the issue of 
+the financing of college costs, has effectively overruled the 
+Parden doctrine by application. 
+
+
+42 
+
+
+In sum, the Court of Appeals erred in finding that 
+Florida Prepaid’s offering of investment vehicles is beyond the 
+reach of the Parden doctrine. 
+
+
+CONCLUSION 
+
+
+For the above reasons, the Court of Appeals’ judgment 
+should be reversed and the case remanded for further 
+
+
+proceedings. 
+
+
+February 22, 1999 Respectfully submitted, 
+
+
+DAVID C. TODD 
+
+Counsel of Record 
+DEBORAH M. LODGE 
+PATTON BOGGS LLP 
+2550 M Street, N.W. 
+Washington, DC 20037-1350 
+(202) 457-6000 
+
+
+SAIBER SCHLESINGER SATZ & 
+GOLDSTEIN, LLC 
+
+One Gateway Center 
+
+Newark, New Jersey 07102-5311 
+(973) 622-3333 
+
+

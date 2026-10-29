@@ -1,0 +1,31 @@
+
+COLLEGE SAVINGS BANK V. FLORIDA PREPAIDPOSTSECONDARY ED. EXPENSE BD.
+			LII
+			Supreme Court
+COLLEGE SAVINGS BANK V. FLORIDA PREPAIDPOSTSECONDARY ED. EXPENSE BD. (98-149) 
+131 F.3d 353, affirmed.Syllabus
+ Opinion
+ [ Scalia ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+COLLEGE SAVINGS BANK v. FLORIDA PREPAID POSTSECONDARY EDUCATION EXPENSE
+BOARD et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+ No. 98—149.  Argued April 20, 1999–Decided June 23, 1999
+An individual may sue a State where Congress has authorized such a suit in the exercise of its power to enforce the Fourteenth Amendment, Fitzpatrick v. Bitzer, 427 U.S. 445, or where a State has waived its sovereign immunity by consenting to suit, Clark v. Barnard, 108 U.S. 436, 447—448.  The Trademark Remedy Clarification Act (TRCA) subjects States to suits brought under §43(a) of the Trademark Act of 1946 (Lanham Act) for false and misleading advertising.  Petitioner markets and sells certificates of deposit designed to finance college costs.  When respondent Florida Prepaid Postsecondary Education Expense Board (Florida Prepaid), a Florida state entity, began its own tuition prepayment program, petitioner filed suit, alleging that Florida Prepaid violated §43 by misrepresenting its own program.  In granting Florida Prepaid’s motion to dismiss on sovereign immunity grounds, the District Court rejected arguments made by petitioner and by the United States, which had intervened, that, under the constructive waiver doctrine of Parden v. Terminal R. Co. of Ala. Docks Dept., 377 U.S. 184, Florida Prepaid waived its immunity by engaging in interstate marketing and administration of its program after the TRCA made clear that such activity would subject it to suit; and that Congress’s abrogation of sovereign immunity in the TRCA was effective, since it was enacted to enforce the Fourteenth Amendment’s Due Process Clause.  The Third Circuit affirmed.
+Held:  The federal courts have no jurisdiction to entertain this suit because Florida’s sovereign immunity was neither validly abrogated by the TRCA nor voluntarily waived.  Pp. 4—20.
+    (a)  The TRCA did not abrogate Florida’s sovereign immunity.  Congress may legislate under §5 of the Fourteenth Amendment to enforce the Amendment’s other provisions, but the object of such legislation must be the remediation or prevention of constitutional violations.  Petitioner’s argument that Congress enacted the TRCA to remedy and prevent state deprivations of two property interests without due process is rejected, for neither a right to be free from a business competitor’s false advertising about its own product nor a right to be secure in one’s business interests qualifies as a protected property right.  As to the first: The hallmark of a constitutionally protected property interest is the right to exclude others.  The Lanham Act’s false-advertising provisions bear no relationship to any right to exclude; and Florida Prepaid’s alleged misrepresentation concerning its own products intruded upon no interest over which petitioner had exclusive dominion.  As to the second asserted property interest: While a business’s assets are property, and any state taking of those assets is a “deprivation,” business in the sense of the activity of doing business or of making a profit is not property at all–and it is only that which is impinged upon by a competitor’s false advertising about its own product.  Pp.  4—8.
+      (b)  Florida’s sovereign immunity was not voluntarily waived by its activities in interstate commerce.  Generally, waiver occurs when a State voluntarily invokes, or clearly declares that it intends to submit itself to, the jurisdiction of the federal courts.  Petitioner and the United States maintain that an implied or constructive waiver is possible when Congress provides unambiguously that a State will be subject to private suit if it engages in certain federally regulated conduct and the State voluntarily elects to engage in that conduct.  They rely on this Court’s decision in Parden, supra, which held that the Federal Employers’ Liability Act authorized private suit against States operating railroads by virtue of its general provision permitting suit against common carriers engaged in interstate commerce.  This Court has never applied Parden’s holding to another statute, and in fact has narrowed the case in every subsequent opinion in which it has been under consideration.  Even when supplemented by a requirement of unambiguous statement of congressional intent to subject the States to suit, Parden cannot be squared with this Court’s cases requiring that a State’s express waiver of sovereign immunity be unequivocal, see, e.g., Great Northern Life Ins. Co. v. Read, 322 U.S. 47, and is also inconsistent with the Court’s recent decision in Seminole Tribe.  Nor is it relevant that the asserted basis for constructive waiver is conduct by the State that is undertaken for profit, that is traditionally performed by private entities, and that otherwise resembles the behavior of mar-
+ket participants.  Whatever may remain of this Court’s decision in Parden is expressly overruled.  Pp.  8—20.
+131 F.3d 353, affirmed.
+    Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Thomas, JJ., joined.  Stevens, J., filed a dissenting opinion.  Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.

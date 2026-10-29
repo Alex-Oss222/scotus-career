@@ -1,0 +1,2294 @@
+No. 97-1992 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+OcToBEeR TERM, 1998 
+
+
+VAUGHN MURPHY, 
+Petitioner, 
+
+
+vs. 
+
+
+UNITED PARCEL SERVICE, INC., 
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS 
+FOR THE TENTH CIRCUIT 
+
+
+BRIEF FOR PETITIONER 
+
+
+STEPHEN R. McALLISTER KIRK W. LOWRY 
+University of Kansas Counsel of Record 
+School of Law PALMER, LOWRY 
+Green Hall LEATHERMAN & WHITE LLP 
+Lawrence, Kansas 66045 112 West Sixth, Suite 102 
+(785) 864-4550 Topeka, Kansas 66603 
+(785) 233-1836 
+
+
+Attorneys for Petitioner 
+
+
+151372 @) Counsel Press LLC 
+FORMERLY LUTZ APPELLATE SERVICES 
+(800) 274-3321 » (800) 359-6859 
+
+
+Re i Rig —— J 
+
+
+ee Cure pes ee 2 ce EN Via em Wee Se mm 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Under the Americans with Disabilities Act (“ADA”), 
+42 U.S.C. § 12102(2)(A), should the determination whether an 
+individual’s impairment “substantially limits” one or more 
+major life activities be made without consideration of mitigating 
+measures, as the ADA’s structure and the federal agencies 
+
+
+Congress charged with implementing the ADA uniformly 
+require? 
+
+
+2. Whether UPS “regarded” Mr. Murphy as disabled within 
+the meaning of the ADA, 42 U.S.C. § 12102(2)(C), when UPS 
+fired Murphy because it believed his high blood pressure 
+precluded him from obtaining a health card under Department 
+of Transportation regulations? 
+
+
+il 
+
+
+TABLE OF CONTENTS 
+
+
+Questions Presented ........0 60s eeee eee ereenees 
+
+
+Table of Contents .......-ccccccccsscsesenseuces 
+
+
+Table of Cited Authorities ...........00 eee eeeees 
+
+
+Opinions Below ...........000esee rere eee eeeeees 
+
+
+Statement of Jurisdiction .........650 cece eee eeees 
+
+
+Statutory and Regulatory Provisions Involved ...... 
+
+
+Statement of the Case ........--eccecseccccuseees 
+
+
+Summary of the Argument ........6 6000s e sere eens 
+
+
+Argument 
+
+
+seooeseseoseseoeeoen eee eee 8 882 P24 Oe eee 
+
+
+1. The ADA’s “Disability” Determination Should Be 
+Made Without Consideration Of Mitigating 
+
+
+MeaGUTOS. ....ccccnvcsecstweeeeeeeenennes 
+A. The Mitigating Measures Question ...... 
+B. The ADA’s Structure Demonstrates That 
+The “Disability” Definition Is Inclusive . 
+C. The ADA’s Formal Legislative History 
+Confirms That The “Disability” 
+Determination Should Be Made Without 
+Consideration Of Mitigating Measures .. 
+D. The EEOC’s Formal Interpretation That 
+
+
+Mitigating Measures Should Not Be 
+Considered Is Entitled To Chevron 
+
+
+Deheremes .. i iccccsvs ceeds seaneaaee 
+
+
+22 
+
+
+25 
+
+
+E. 
+
+
+ili 
+Contents 
+
+
+1. The EEOC, The Agency Congress 
+Expressly Charged With Implementing 
+Title I, Requires That The “Substantially 
+Limits” Assessment Be Made Without 
+Consideration Of Mitigating Measures 
+
+
+*_*e * 
+*seeeeeeeeeeeeeeeeeeeeeeeeeee 
+
+
+2. As In Bragdon v. Abbott, This Court 
+Must Defer To The Implementing 
+
+
+Agency's Permissible Construction Of 
+TEU SEW REE eGAC bse cee 
+
+
+In Any Event, There Are At A Minimum 
+Genuine Issues Of Disputed, Material Fact 
+Concerning Whether Murphy's Severe 
+Hypertension Substantially Limits His Major 
+EE 
+
+
+Il. UPS Fired Murphy Because UPS“Regarded” Him 
+na died duly civscbelbccesse ss 
+
+
+A. 
+
+
+By Its Reliance Upon DOT Regulations, As 
+A Matter Of Law UPS Fired Murphy Because 
+It “Regarded” Him As Disabled ........ 
+
+
+UPS’s Argument That Murphy's 
+Hypertension Necessarily Disqualifies Him 
+From Obtaining A DOT Health Card Is 
+Incorrect As A Matter Of Law 
+
+
+** 
+[ew ae ew ew eRe eeeeeseeeeeecoeeeeee 8 € 
+
+
+Page 
+
+
+25 
+
+
+26 
+
+
+30 
+
+
+32 
+
+
+32 
+
+
+36 
+
+
+38 
+
+
+iv 
+
+
+TABLE OF CITED AUTHORITIES 
+
+
+Page 
+Cases: 
+Arnold v. United Parcel Service, Inc., 136 F.3d 854 
+tS een rere etrertg reer trey 17, 29 
+AT&T Corp. v. lowa Util. Bd., 1198. Ct. __, 67 U.S.L.W. 
+4104 (Jan. 25, 1999) ........cceeeeeceees 11, 28, 29, 30 
+Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 
+$16 U.S. 264 (1996) .. cw cece cccccccesceces 22 
+Beecham v. United States, 511 U.S. 368 (1994) ...... 14 
+Bowles v. Seminole Rock & Sand Co., 325 U.S. 410 
+CIDER oo cancrscdaviceccducasvetshusvenes dues 29 
+
+
+Bragdon v. Abbott, 118 S. Ct. 2196 (1998) 
+10, 14, 15, 16, 17, 21, 26, 27, 31 
+
+
+Chemical Mfrs. Ass'n v. Natural Resources Defense 
+
+
+Council, 470 U.S. 116 (1985) ..... 2... ee eee eee 30 
+Chevron U.S.A., Inc. v. Natural Resources Defense 
+
+Council, Inc., 467 U.S. 837 (1984) ...... 11, 25, 27, 28, 29 
+Consumer Product Safety Comm'n v. GTE Sylvania, Inc., 
+
+447 UB. 19D CIGD) 2 ccc cece cece csccccecess 14 
+Deal v. United States, 508 U.S. 129 (1993) ......... 14 
+
+
+Deane v. Pocono Med. Ctr., 142 F.3d 138 (3d Cir. 1997) 
+bob ectccdaseosbesenusentaks ennai eentians 35 
+
+
+Cited Authorities 
+| Page 
+Dickerson v. New Banner Inst., Inc., 460 U.S. 103 (1983) 
+she cvassogehbdergdtke dhdbdiunkbs ci niieteds 22 
+Gen. Elec. Co. v. Joiner, 118 S. Ct. 512 (1997) ...... 30 
+Kaiser Aluminum & Chem. Corp. v. Bonjorno, 494 U 
+MIMD Finda ek sed Aaa Sade oh eae 
+King v. St. Vincent's Hospital, 502 U.S. 215 (1991) .. 18 
+Martin v. Occupational Safety & Health Review Comm'n, 
+CEP Gs SOOM coc cc cvedeccbccbcchubec. 29 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973) 
+UP GUOROEUORES & Kids bwadedeceduneaetesns ne 20 
+Pennsylvania Dept. of Corrections v. Yeskey, 118 S. Ct 
+PMR oc iccs 2s acu scan ener 13, 15, 16 
+School Bd. of Nassau County v. Arline, 480 U.S. 273 
+I otk aM aiid dé udu bcwdG cu ude cx 10, 21, 28, 29, 33 
+Smith v. United States, 508 U.S. 223 (1993) ........ 18 
+Sutton v. United Air Lines, Inc., 130 F.3d 893 (10th Cir 
+NU i hs cas cikeos onaccec renee 89 
+Texas Dept. of Community Affairs v. Burdine, 450 U.S. 
+ORIEL O5 e i cog ov edbee be ntneus's 20 
+
+
+(UR hwnrupeecdcaneshedadpe puwece ib awess us 29 
+
+
+vi 
+Cited Authorities 
+Page 
+United Savings Assn. of Texas v. Timbers of Inwood 
+Forest Associates, Ltd., 484 U.S. 365 (1988) ..... 18 
+Walters v. Metropolitan Educational Enter’s Inc., 519 
+“be 1: . eee arrrre ee 21 
+Washington v. HCA Health Serv. of Texas, Inc., 152 F.3d 
+G56 GH Git, GEE din voc vcan db news deeenceiiawe 30 
+Statutes: 
+FB UBL. 6 TARAS (ccc cvdcises eves Fevewitins l 
+43 UBL. BERG 5 oc cet ie Fades ci dete 66S: 22 
+42 UBL. BIBIGARED occ ccvsevvtscnccdiadactes 13 
+GBUBL: 6 IBID ons cc cs ccddbdetccssstsisccvaue 1 
+GUBL, CEBRGRE ok iis fe sidece eet Ree ie 10 
+43 UBS. BERATED do cvecccesscccesuseses i, 7,9, 14 
+42 UBL. 8 CARED sc cc ccc ccc cccncctvcccess 19, 32 
+42 UBL. 8 UBIGREIIEED ccs dicen ccvcccsceds i, 7,9, 19, 32 
+43 USL. b EZSCRED Sai estes UTS 2, 7, 10, 19, 38 
+43 UBL. © GRRE SID © nian cde cs cones co reiess 20 
+
+
+vil 
+
+
+Cited Authorities 
+
+Page 
+GRenean PUES o 8 ebisaes iven ks teks ees 2 
+Gas O NM Seco cbcckasredivisioes 2, 8, 10, 19, 20 
+42 USC. § 1ZUIBISMA) oo ci vce cveccc cc cies 8, 20 
+Se ED Eccdbncvocceicecioacesoans 8, 20, 38 
+SE ED CN Voc de iss vdbasevesseaveccna 8, 20 
+PE Ba ehiN 4 ba desc nudbesswcdicne 2, 15, 25 
+SE AE oN doesn twovetddevitaroetaee 21 
+Other Authorities: 
+SeeeneeD PAOD GS DOG oo nck kc ccciovencesssvces 21 
+28 C.F.R. Pt. 35, App. A § 35.104 .............005. 29 
+28 C.F.R. Pt. 36, App. B § 36.104 ................ 29 
+PE EE ocaponslencecddibucdee ces hte 2 
+i A ES 6 oe See 1 
+SPREE Saws dc cctekdecéuestestotee I 
+RFS OPE PP) Sore pee ™ l 
+
+
+UE, Goes ce cay. tt 1, 4, 24, 26 
+
+
+vill 
+
+
+Cited Authorities 
+
+Page 
+29 C.F.R. § 1630.2(jMi) . 0... cece cece ene ecesees a4 
+29 C.F.R. § 1630.2(j)ii) 0... eee ees 24 
+29 C.F.R. § 1630.2(j)(3)Mi) «6 ee ee eee eee eee 35 
+29 C.F.R. § 1G3O.2D) 2... cc crccccccccceccevceces 1, 33, 34 
+29 C.F.R. § 1630.2) ... ccc ccccvcevcrevencens 1 
+29 C.P.R. § 1GDO.1USE) .. 0. ccc cccecrcccecsvcevesrs 20 
+GCPR. 6 PIG) onc cccvcccvccvccccccesenecse 35 
+GOCHR GTA wccccvcivccncsvvnsssssvesecns 5, 36 
+AD CHR. BBO occ cacecsecdvcccsacctsvsceves 5, 36 
+49 CF.R. § 491.310O NG)... cece ences ences 37 
+55 Fed. Reg. 31192 (1990) ....... 0.2. cee ee eeeees 25 
+56 Fed. Reg. 8578 (1991) .. 0... 0 cece eee e eens 25 
+56 Fed. Reg. 35726 (1991) ........6 0 eee ence eenees 25 
+
+Robert L. Burgdorf, Jr., The Americans With Disabilities 
+
+Act: Analysis and Implications of a Second-Generation 
+
+Civil Rights Statute, 26 Harv. C.R.-C.L. L. Rev. 413 
+(IGDED , csennc tase cdendds savenrnncceveksarrte 18 
+
+
+Ruth Colker, The Americans with Disabilities Act: A 
+Windfall for Defendants, 34 Harv. C.R.-C.L. L. Rev. 
+GO CTSOOD ccc cccsccevicvvtecesenccotvcnssuecs 21 
+
+
+ix 
+Cited Authorities 
+Page 
+Congress Clears Sweeping Bill to Guard Rights of 
+
+Disabled, Cong. Q. 2227 (July 14, 1990) ......... 22 
+The Fifth Report of the Joint National Committee on 
+
+Detection, Evaluation, and Treatment of High Blood 
+
+Pressure, Vol. 153, Arch. Internal Med. 154 (Jan. 25, 
+
+SE. otek sab weak bh auudebihe sey .cehacedas« 6 
+H.R. Rep. No. 101-485(IIl) (1990) ................. 23 
+H.R. Rep. No. 101-485(III) (1990) ...........0..... 23, 32 
+S. Rep. No. 101-116 (1989) ............... BRA ss 23 
+The Honorable Antonin Scalia, Judicial Deference to 
+
+Administrative Interpretations of Law, 1989 Duke L.J. 
+
+co MR RE ar eee Se ly 27 
+
+
+l 
+
+
+OPINIONS BELOW 
+
+
+The October 22, 1996, opinion of the United States District Court 
+for the District of Kansas granting summary judgment to UPS is 
+reported at 946 F. Supp. 872. See Appendix to Petition for a Writ of 
+Certiorari 7a-37a. The March 11, 1998, decision of the United States 
+Court of Appeals for the Tenth Circuit affirming the District Court is 
+unreported. See id. at la-6a. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+This Court’s jurisdiction to review the final judgment of the 
+United States Court of Appeals for the Tenth Circuit is invoked 
+pursuant to 28 U.S.C. § 1254(1). The Tenth Circuit issued its decision 
+on March 11, 1998. Petitioner filed a timely petition for a writ of 
+certiorari on June 9, 1998, and this Court granted plenary review on 
+January 8, 1999. 119 S. Ct. __. 
+
+
+STATUTORY AND REGULATORY 
+PROVISIONS INVOLVED 
+
+
+Section 3 of the Americans With Disabilities Act (“ADA”), 
+42 U.S.C. § 12102, defines “disability” as follows’: 
+
+
+(2) Disability. The term “disability” means, with respect 
+to an individual 
+
+
+(A) a physical or mental impairment that 
+substantially limits one or more of the major 
+life activities of such individual; 
+
+
+(B) a record of such impairment; or 
+
+
+(C) being regarded as having such an 
+impairment. 
+
+
+1. The Joint Appendix includes Title I of the ADA, the Equal Employment 
+Opportunity Commission (“EEOC”) regulations located at 29 C.F.R. Pt. 
+1630.2(g)-(j), (1)-(m), and the EEOC interpretive guidance to those regulations. 
+Some of this material also is printed in Appendix C to the petition for a writ of 
+certiorari. 
+
+
+2 
+
+
+Title | of the ADA, in 42 U.S.C. § 12112, prohibits discrimination in 
+employment on the basis of disability: 
+
+
+(a) General Rule. No Covered entity shall discriminate 
+against a qualified individual with a disability because of 
+the disability of such individual in regard to job application 
+procedures, the hiring, advancement, or discharge of 
+employees, employee compensation, job training, and 
+other terms, conditions, and privileges of employment. 
+
+
+The phrase “qualified individual with a disability” is defined in 
+42 U.S.C. § 12111(8): 
+
+
+The term “qualified individual with a disability” 
+means an individual who, with or without reasonable 
+accommodation, can perform the essential functions of 
+the employment position that such individual holds or 
+desires. 
+
+
+Pursuant to a congressional directive, 42 U.S.C. § 12116, the 
+Equal Employment Opportunity Commission (“EEOC”) promuigated 
+regulations defining important ADA terms and concepts for purposes 
+of implementing and enforcing Title I. Relevant to this case are the 
+following EEOC regulations: 
+
+
+29 C.F.R. § 1630.2 
+(h) Physical or mental impairment means: 
+
+
+(1) Any physiological disorder, or 
+condition, cosmetic disfigurement, or 
+anatomical loss affecting one or more of the 
+followi.g bodily systems: neurological, 
+musculo: keletal, special sense organs, 
+respiratory (including speech organs), 
+cardiovascular, reproductive, digestive, genito- 
+‘urinary, hemic and lymphatic, skin, and 
+endocrine. ... 
+
+
+(i) Major life activities — 
+
+
+means functions such as caring for oneself, 
+performing manual tasks, walking, seeing, 
+hearing, speaking, breathing, learning, and 
+working. 
+
+
+(j) Substantially limits — 
+(1) The term substantially limits means: 
+
+
+(i) Unable to perform a major life activity 
+that the average person in the general 
+population can perform; or 
+
+
+(ii) Significantly restricted as to the 
+condition, manner or duration under which an 
+individual can perform a particular major life 
+activity as compared to the condition, manner, 
+or duration under which the average person in 
+
+
+the general population can perform that same 
+major life activity. * * * 
+
+
+(/) Is regarded as having such an impairment means: 
+
+
+(1) Has a physical or mental impairment 
+that does not substantially limit major life 
+activities but is treated by a covered entity as 
+constituting such limitation; 
+
+
+(2) Has a physical or mental impairment 
+that substantially limits major life activities 
+only as a result of the attitudes of others toward 
+such impairment; or 
+
+
+; (3) Has none of the impairments defined 
+in paragraphs (h)(1) or (2) of this section but 
+is treated by a covered entity as having a 
+substantially limiting impairment. 
+
+
+4 
+
+
+At the same time the EEOC issued the preceding regulations, and 
+pursuant to the same formal notice and comment procedures, it 
+promulgated Interpretive Guidance as an appendix to the sagueations. 
+That Interpretive Guidance provides in pertinent part as follows”: 
+
+
+Section 1630.2(j) Substantially Limits 
+
+
+ek e* 
+
+
+The determination of whether an individual is 
+substantially limited in a major life activity must be made 
+on a case by case basis, without regard to mitigating 
+measures such as medicines, or assistive or prosthetic 
+devices. * * * * 
+
+
+Section 1630.2(/) Regarded as Substantially Limited in a 
+Major Life Activity 
+
+
+**** 
+
+
+There are three different ways in which an individual may 
+satisfy the definition of “being regarded as having a 
+disability”: 
+
+
+(1) The individual may have an impairment 
+which is not substantially limiting bu: is 
+perceived by the employer or other covered 
+entity as constituting a substantially limiting 
+impairment, 
+
+
+(2) The individual may have an impairment 
+which is only substantially limiting because of 
+the attitudes of others toward the impairment, 
+or 
+
+
+2. The full text of these interpretive guidance provisions is included in 
+the Joint Appendix, 35a-46a. 
+
+
+5 
+
+
+(3) The individual may have no impairment at 
+all but is regarded by the employer or other 
+covered entity as having a substantially limiting 
+impairment. 
+
+
+An individual satisfies the first part of this definition 
+if the individual has an impairment that is not 
+substantially limiting, but the covered entity perceives 
+the impairment as being substantially limiting. For 
+example, suppose an employee has controlled high blood 
+pressure that is not substantially limiting. If an employer 
+reassigns the employee to less strenuous work because 
+of unsubstantiated fears that the individual will suffer a 
+heart attack if he or she continues to perform strenuous 
+
+
+work, the employer would be regarding the individua! as 
+disabled. * * * * 
+
+
+Relevant to this particular case are Department of Transportation 
+
+
+regulations that provide as follows: 
+
+
+49 C.LF.R. § 391.41: 
+
+
+(a) A person shall not drive a commercial motor 
+vehicle unless he/she is physically qualified to do so. . . . 
+
+
+(b) A person is physically qualified to drive a 
+commercial motor vehicle if that person . . . 
+
+
+(6) Has no current clinical diagnosis of 
+high blood pressure likely to interfere with his/ 
+
+
+her ability to operate a commercial motor 
+vehicle safely. 
+
+
+49 C.F.R. § 391.43: 
+
+
+(f) If the blood pressure is consistently above 160/ 
+90 mm. Hg., further tests may be necessary to determine 
+
+
+whether the driver is qualified to operate a commercial 
+motor vehicle. 
+
+
+6 
+
+
+STATEMENT OF THE CASE 
+
+
+Vaughn Murphy has had very severe high blood pressure since 
+at least age 10. Appendix to Petition for a Writ of Certiorari 
+(hereinafter “Pet. App.”) 2a, 13a. Unmedicated, his blood pressure 
+runs approximately 250/160. Jd.’ Even with medication, if Murphy 
+tries to reduce his blood pressure to normal levels, he will suffer 
+“severe side effects such [as] stuttering, loss of memory, impotence, 
+lack of sleep and irritability.” Jd. at 16a. According to his physician, 
+Murphy is largely unable to function if he reduces his blood pressure 
+
+
+to normal levels. /d. 
+
+
+Indeed, there is evidence that Murphy’s major life activities of 
+running, exercising, lifting, eating, hearing and seeing all are adversely 
+affected, even when his hypertension is medicated. /d. at 13a. For 
+example, Murphy himself testified that, even with his medication, he 
+has limited stamina, must carefully restrict his diet, has ringing in his 
+ears, and “runners or bubbles” that frequently flash across his vision. 
+Joint Appendix (“J.A.”) 56a-58a. Murphy further testified that his 
+medication can give him gout that keeps him bedridden for days at a 
+time. Jd. at 51a. For 22 years as a mechanic prior to working for 
+UPS, Murphy used levers or devices to lift heavy objects, avoided 
+running, did not perform work above his head, and generally avoided 
+heavy or very heavy work. Pet. App. 13a. Murphy also was under a 
+doctor’s orders not to hold a job involving repetitive lifting of 200 
+pounds or more. /d. 
+
+
+3. The Fifth Report of the Joint National Committee on Detection, 
+Evaluation, and Treatment of High Blood Pressure, Vol. 153, Arch. Internal 
+Med. 154, 161 (Jan. 25, 1993), classifies blood pressure in the following 
+
+
+categories: 
+
+
+Category Systolic Diastolic 
+
+Normal <130 <85 
+
+High Normal 130-139 85-89 
+Hypertension: 
+
+Stage I (mild) 140-159 90-99 
+
+Stage II (moderate) 160-179 100-109 
+
+Stage III (severe) 180-209 110-119 
+
+
+Stage IV (very severe) >210 >120 
+
+
+7 
+
+
+In early August, 1994, Murphy applied to UPS for a mechanic 
+position. Pet. App. at 2a. UPS requires that its mechanics have: (1) a 
+commercial drivers license (which Murphy had); and (2) a Department 
+of Transportation (“DOT”) health card, which Murphy obtained. /d. 
+As part of his DOT health card application process, Murphy submitted 
+to a physical performed by a DOT examiner, David Couch, a registered 
+nurse. Id. Couch took Murphy’s blood pressure, which was 186/124, 
+“ a gap ene pursuant to DOT regulations. /d. 
+
+4 , 
+iy ip a UPS hired Murphy to work as a 
+
+
+In mid-September, 1994, Monica Sloan — a UPS company nurse, 
+was reviewing Murphy's file when she observed that Couch had taken 
+Murphy's blood pressure as 186/124. Sloan concluded that Couch 
+had improperly issued Murphy’s DOT health card. Moreover, Sloan 
+concluded that Murphy was not qualified to work for UPS because 
+his blood pressure exceeded 140/90 or 140/80, which is what Sloan 
+believed UPS's standard to be. J.A. 88a-89a, 93a-94a, 47a. After 
+retaking Murphy's blood pressure, which was 160/102 and 164/104, 
+on September 26, J.A. 47a-48a, UPS terminated Murphy's 
+employment as a mechanic on October 5, 1994, ostensibly because 
+his hypertension exceeded DOT requirements for obtaining a DOT 
+health card. Pet. App. at 3a, 16a-17a. Murphy testified that a UPS 
+
+
+—S told him (Murphy) that he was fired. J.A. 53a: see id. at 
+a. 
+
+
+. Murphy later filed this ADA suit against UPS. In order to state a 
+claim under the ADA, Murphy has to satisfy three statutory 
+requirements. First, he must prove that he has a “disability” within 
+the meaning of the statute. In this case, that means that he must 
+prove either that he has a physical impairment that substantially 
+limits one or more of his major life activities, or that UPS regarded 
+him as an individual having such an impairment. See 42 U.S.C. 
+§§ 12102(2)(A), (C). Second, Murphy must prove that he is a 
+“qualified individual with a disability,” which is defined to mean 
+“an individual with a disability who, with or without reasonable 
+accommodation, can perform the essential functions of the 
+employment position that such individual holds or desires.” 
+42 U.S.C. § 12111(8). Finally, Murphy must prove that UPS 
+discriminated against him 
+
+
+because of the disability of such individual in regard to 
+job application procedures, the hiring, advancement, or 
+discharge of employees, employee compensation, job 
+training, and other terms, conditions, and privileges of 
+employment. 
+
+
+42 U.S.C. § 12112(a). 
+
+
+Even if Murphy satisfies all three statutory requirements, UPS 
+may raise statutorily-recognized defenses. These include: (1) that 
+the necessary accommodations for Murphy would impose an undue 
+hardship on UPS, 42 U.S.C. § 12112(b)(5)(A); (2) that Murphy failed 
+a “qualification standard” that “has been shown to be job-related 
+and consistent with business necessity,” 42 U.S.C. § 12113(a); or 
+(3) that Murphy would pose a direct threat to other individuals in 
+the workplace. 42 U.S.C. § 12113(b). 
+
+
+Following discovery, the District Court granted summary 
+judgment to UPS on all aspects of Murphy's ADA cause of action. 
+Pet. App. 7a-37a. Relying on Tenth Circuit cases addressing the 
+ADA, the District Court first decided that Murphy's severe 
+hypertension should be evaluated in its medicated state in 
+determining whether his hypertension “substantially limits” his major 
+life activities. Pet. App. 23a-29a. Applying that standard, the court 
+next opined that no rational factfinder could conclude that Murphy 
+was substantially limited in any major life activities because, when 
+Murphy is medicated, the only limitation his physician specifically 
+imposed was a restriction on repetitive lifting of items weighing 
+200 pounds or more. /d. at 29a-32a. The District Court also rejected 
+Murphy’s “regarded as” claim, stating that UPS “did not regard 
+Murphy as disabled, but only that he was not certifiable under DOT 
+regulations.” Jd. at 32a.* 
+
+
+The Tenth Circuit affirmed, also finding not a single genuine 
+issue of disputed, material fact. First, relying on its decision in Sutton 
+
+
+4. Although recognizing that these two rulings disposed of the case, the 
+District Court went on to determine, as a matter of law, that Murphy could not 
+perform the essential functions of the job of UPS mechanic, that UPS's 
+“compliance” with DOT regulations was a complete defense, and that there 
+were no reasonable accommodations UPS could have provided to Murphy to 
+permit him to do the job. Pet. App. 33a-37a. 
+
+
+9 
+
+
+v. United Air Lines, Inc., 130 F.3d 893 (10th Cir. 1997), the Tenth 
+Circuit held that the “substantially limits” inquiry of the first prong 
+of the “disability” definition requires consideration of mitigating 
+measures. Pet. App. 4a. The Tenth Circuit ruled that, as a matter of 
+law, Murphy's severe hypertension does not substantially limit any 
+major life activities when medication is considered. Jd. The Tenth 
+Circuit then concluded that Murphy also failed to state a claim under 
+the “regarded as” prong of the definition. The court stated that UPS 
+“did not base its termination of Murphy on an unsubstantiated fear 
+that he would suffer a heart attack or stroke,” but instead fired him 
+“because his blood pressure exceeded the DOT’s requirements for 
+drivers of commercial vehicles.” /d. at Sa. In the Tenth Circuit's view, 
+it followed as a matter of law that UPS, “in its termination decision, 
+did not regard Murphy as having an impairment that substantially 
+limits a major life activity.” /d.° 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+7 Vaughn Murphy necessarily established that he has a “disability” 
+in at least one of three ways the ADA defines that term. First, he has 
+an impairment that substantially limits one or more of his major life 
+activities. 42 U.S.C. § 12102(2)(A). In the alternative, UPS fired 
+Murphy because it “regarded” him as having such an impairment. /d. 
+§ 12102(2)(C). In order for Murphy to establish a prima facie claim 
+under Title I of the ADA, he must prove that: (1) he has a “disability”; 
+(2) he is a “qualified individual”; and (3) UPS fired him because of 
+his “disability. The issues before this Court involve only the first 
+requirement. The Tenth Circ’.‘t's fundamental error in this case was 
+to merge all three requirements, effectively holding that Murphy has 
+no “disability” because he is not a “qualified individual” and UPS 
+acted in reliance upon DOT regulations rather than with a 
+discriminatory motive. 
+
+
+: This Court recently made clear that three requirements must be 
+satisfied in order to establish a “disability” under the first prong of 
+
+
+5. The Tenth Circuit also declared that, “because we have concluded 
+that Mr. Murphy is not an individual with a disability, we need not reach the 
+question of whether he is a qualified individual with a disability... .” 
+Pet. App. Sa. “Likewise, we need not address his remaining contention, namely, 
+that DOT regulations do not provide a defense to his ADA claim.” /d. at 6a. 
+
+
+10 
+
+
+the ADA definition: the individual must suffer from (1) an impairment 
+(2) that substantially limits (3) one or more of his major life activities. 
+See Bragdon v. Abbott, 118 S. Ct. 2196 (1998). Because it is 
+undisputed that Murphy's severe hypertension is an “impairment”, 
+the first issue in this case is whether his impairment “substantially 
+limits” him. The Tenth Circuit erred by requiring that the “substantially 
+limits” inquiry be made by assessing Murphy's hypertension in its 
+medicated state. 
+
+
+The ADA’s language and structure demonstrate that mitigating 
+measures should not be considered in making the threshold 
+“disability” determination. Rather, the effect. of mitigating measures 
+become relevant when making the second determination under the 
+ADA — whether the individual is qualified for the job or program 
+at issue. The ADA defines the term “disability” inclusively for 
+purposes of the entire statute. 42 U.S.C. § 12102( 2). Subsequently, 
+the ADA addresses disability discrimination in different contexts 
+— such as employment and public accommodations — in separate 
+titles, with provisions specifically tailored to the concerns and 
+considerations unique to those contexts. In the employment context, 
+for example, Congress specifically provided for an additional inquiry 
+into whether a particular disabled individual is “qualified,” i.e., can 
+perform the essential functions of the job at issue, with or without 
+reasonable accommodations. 42 U.S.C. § 12111(8). The individual 
+also must prove that the employer discriminated on the basis of the 
+individual's disability. 42 U.S.C. § 12112(a). In addition, Congress 
+created at least three statutory defenses for employers. 
+
+
+Thus, Congress defined “disability” inclusively but provided 
+that, in appropriate cases, the ADA’s coverage may be narrowed at 
+later stages of the inquiry. Congress did not enact a statute that makes 
+the threshold “disability” inquiry the eye of a needle and Vaughn 
+Murphy the camel. Rather, it is in making the “qualified individual” 
+and statutory defense assessments, not when making the threshold 
+determination whether Murphy has a disability, that questions 
+regarding Murphy's medication and other ameliorative measures 
+should be raised and addressed. Cf. School Bd. of Nassau County v. 
+Arline, 480 U.S. 273, 284-85 (1987) (under the Rehabilitation Act, 
+the model for the ADA, “the definition of handicapped individual is 
+
+
+broad, but only those individuals who are both handicapped 
+
+. and 
+otherwise qualified are eligible for relief”). Otherwise, the “qualified 
+individual requirement and statutory defenses become largely 
+irrelevant, as the Tenth Circuit's decision demonstrates. 
+
+
+The result compelled by the ADA’s language and i 
+further confirmed by the ADA’s legislative EsssiieciGadiiones 
+expressly recognized that the determination whether an individual 
+has a “disability” under the ADA is the beginning, not the ending 
+of the Statutory inquiry. The reports of the three congressional 
+committees that had responsibility for the ADA uniformly and clearly 
+indicate that Congress intended the “substantially limits” 
+prt a eer to be made without consideration of mitigating 
+
+. No committee mem i i i i 
+viotba ts na cate bers issued any dissenting or opposing 
+
+
+Importantly, the federal agencies charged with im i 
+
+ADA uniformly require that seccwreanp cohen Saris counties 
+in making the “substantially limits” determination. Pursuant to formal 
+notice and comment procedures, both the EEOC — the agency 
+Congress charged with implementing Title | — and the Department 
+of Justice, which is responsible for Titles II and III, have formally 
+promulgated regulations and interpretive guidance requiring that the 
+“substantially limits” determination be made without regard to 
+mitigating measures. Because the EEOC’s regulations and interpretive 
+guidance are consistent with the ADA’s language, structure and clear 
+congressional intent, and because the EEOC promulgated the 
+regulations and guidance pursuant to formal notice and comment 
+procedures, the EEOC's interpretation of the ADA must be given 
+Chevron deference. As it did recently in Bragdon v. Abbott, 118 
+S. Ct. 2196 (1998), this Court should defer to the implementing 
+agency's permissible construction of the ADA. “Congress is well 
+aware that the ambiguities it chooses to produce in a statute will be 
+resolved by the implementing agency.” AT&T Corp. v. lowa Util. Bd 
+
+119 S. Ct. _, 67 U.S.L.W. 4104, 4112 (Jan. 25, 1999). i 
+
+
+Even if this Court were to require consideration of mitigating 
+measures in determining whether Murphy has a “disability,” the Tenth 
+Circuit improperly affirmed the grant of summary judgment to UPS. 
+
+
+12 
+
+
+Murphy produced evidence that he suffers from an impairment that 
+substantially limits one or more of his major life activities even when 
+he is medicated, as well as when he is not. This evidence, which the 
+lower courts essentially ignored, precludes a grant of summary 
+judgment in UPS's favor. 
+
+
+The ADA’s “disability” definition also includes people who are 
+“regarded” as disabled, even if they are not actually disabled. In the 
+alternative, Murphy states a valid claim under this definition. UPS's 
+only asserted reason for firing Murphy, which the Tenth Circuit relied 
+upon exclusively in ruling in UPS's favor, was that Murphy's blood 
+pressure is too high for him to obtain a DOT health card. That assertion 
+supports rather than defeats Murphy's “regarded as” claim, UPS 
+believed Murphy could not do the job, and fired him because of that 
+belief. Whether or not DOT regulations compelled that action may 
+be relevant to whether Murphy was a “qualified individual” under 
+the ADA, or perhaps to certain statutory defenses that may or may 
+not be available to UPS. But, in making the threshold “disability” 
+determination, the DOT regulations establish rather than negate the 
+fact that UPS “regarded” Murphy as disabled. 
+
+
+Murphy has established that he has a “disability” under the ADA, 
+either because he has an “impairment that substantially limits one or 
+more major life activities” or because UPS “regarded” him as having 
+such an impairment. The Tenth Circuit's judgment in favor of UPS 
+must be reversed. 
+
+
+ARGUMENT 
+
+
+This case presents a striking example of the “catch-22” situation 
+that the Tenth Circuit's decision creates for employees with physical 
+or mental impairments. UPS successfully argued that Vaughn Murphy, 
+who indisputably suffers from severe hypertension that will eventually 
+kill him, is not disabled because he can take medication to ameliorate 
+some of the effects of his hypertension. At the same time, UPS admits 
+that it fired Murphy precisely because UPS believed that Murphy's 
+high blood pressure made him unfit to work in any job requiring a 
+DOT health card. The ADA does not permit UPS to have it both ways. 
+
+
+Under the Tenth Circuit's interpretation of the statute, many 
+Americans with impairments will never be given the opportunity to 
+
+
+13 
+
+
+demonstrate that they are qualified to work. If the effects of an 
+impairment can be limited by mitigating measures, the Tenth 
+Circuit's interpretation means that the ADA will not protect the 
+individual at all, even if that individual is qualified for the job, even 
+if reasonable accommodations are available (or even unnecessary) 
+and will impose no undue hardship on the employer, even if the 
+individual poses no threat to the health or safety of anyone, and 
+even if the employer acknowledges that it fired or refused to hire 
+the individual precisely because of the impairment. 
+
+
+Arguing that Murphy is not disabled because he can take 
+medication to ameliorate some of the effects of his severe 
+hypertension but, at the same time, arguing that he is not qualified 
+for the job precisely because he has hypertension, makes a mockery 
+of the ADA. Congress declared that a primary purpose of the ADA 
+was to level the playing field for “some 43,000,000 Americans [with] 
+one or more physical or mental disabilities. . . .” 42 U.S.C. 
+§ 12101(a)(1). In a recent decision, this Court did not hesitate to 
+give the ADA’s language its full reach. See Pennsylvania Dept. of 
+Corrections v. Yeskey, 118 S. Ct. 1952 (1998) (unanimously 
+concluding, in a case involving an inmate whose impairment was 
+hypertension, that Title II of the ADA applies to state prison inmates 
+because “[s]tate prisons fall squarely within the statutory definition 
+of ‘public entity’, id. at 1954, and the statutory definition of the 
+term “qualified individual with a disability” on its face applies to 
+State prisoners. /d. at 1955)). 
+
+
+Under the ADA, the threshold “disability” requirement is not, 
+and rightfully so, an obstacle that forecloses any possible relief 
+against an employer that discriminates on the basis of physical and 
+mental impairments whose effects can be ameliorated by mitigating 
+measures. Indeed, every tool of statutory construction points to just 
+
+
+the Opposite conclusion, i.e., that the ADA's “disability” definition 
+is inclusive. 
+
+
+14 
+
+
+THE ADA’S “DISABILITY” DETERMINATION SHOULD 
+BE MADE WITHOUT CONSIDERATION OF 
+MITIGATING MEASURES. 
+
+
+A. The Mitigating Measures Question 
+
+
+Unquestionably, the “starting point for interpretation of a statute 
+is ‘the language of the statute itself.’ " Kaiser Aluminum & Chem. 
+Corp. v. Bonjorno, 494 U.S. 827, 835 (1990) (quoting Consumer 
+Product Safety Comm'n v. GTE Sylvania, Inc., 447 U.S. 102, 108 
+(1980)). This Court has emphasized that statutory interpretation is 
+not typically an exercise in construing single words or phrases but, 
+instead, the Court focuses on “the plain meaning of the whole statute, 
+not of isolated sentences.” Beecham v. United States, 511 U.S. 368, 
+372 (1994). Thus, “the meaning of a word cannot be determined in 
+isolation, but must be drawn from the context in which it is used.” 
+Deal v. United States, 508 U.S. 129, 131 (1993). 
+
+
+The first definition of “disability” in the ADA is “a physical or 
+mental impairment that substantially limits one or more major life 
+activities of such individual.” 42 U.S.C. § 12102(2)(A). This Court 
+recently recognized that, in order to satisfy this statutory definition, 
+an ADA plaintiff such as Murphy must demonstrate that he (1) has 
+an “impairment” and that his impairment (2) “substantially limits” 
+(3) one or more of his major life activities. Bragdon v. Abbott, 118 
+S. Ct. 2196, 2202-07; id. at 2214 (Rehnquist, C.J., concurring in 
+part, dissenting in part). The statutory definition does not expressly 
+indicate whether mitigating measures should be considered or should 
+not be considered in making the “substantially limits” inquiry. The 
+ADA’s structure, however, permits but one answer to the question, 
+and requires rejection of the Tenth Circuit’s interpretation. 
+
+
+Murphy's severe hypertension is a constant condition. It can be 
+treated with medication and some of its effects limited or controlled. 
+But Murphy's hypertension is never “cured” and it never goes away. 
+Nor is Murphy ever completely relieved of the debilitating effects of 
+his hypertension, medicated or not. That Murphy may able to take 
+advantage of medication to limit the debilitating effects of his 
+
+
+15 
+
+
+condition often may mean, in practice, that he will not require any 
+sort of accommodation from an employer, reasonable or otherwise. 
+But Murphy’s accomplishment should not leave him subject to 
+discrimination based on his underlying medical condition. 
+
+
+Murphy should not be denied the protection of the ADA simply 
+because he has taken the initiative or has the financial resources to 
+limit the effects of his hypertension. Nothing in the ADA suggests 
+that Congress’s purposes included penalizing self-help. To the 
+contrary, the ADA’s inclusive “disability” definition does not, and 
+rightfully so, exclude all those who may be able to overcome or 
+manage their disabilities with ameliorative measures. The protections 
+of Title I are not limited to Americans who use wheelchairs. 
+
+
+The ADA does not define the important terms “impairment,” 
+“substantially limits,” or “major life activity,” but instead expressly 
+delegates the task of defining those terms to the EEOC. See 42 U.S.C. 
+§ 12116. The phrase “substantially limits” certainly refers to the 
+effects of the “impairment,” but whether the “substantially limits” 
+requirement should be evaluated with consideration of mitigating 
+measures or without is not stated. Indeed, the Court recently 
+acknowledged this issue in Bragdon, but expressly declined to resolve 
+it. 118 S. Ct. at 2206 (noting that the Solicitor General directed the 
+Court “to regulatory language requiring the substantiality of a 
+limitation to be assessed without regard to available mitigating 
+measures,” but concluding that “[w]Je need not resolve this dispute in 
+order to decide this case”). 
+
+
+This Court has addressed the ADA directly in two recent 
+decisions. See Pennsylvania Dept. of Corrections v. Yeskey, 118 
+S. Ct. 1952 (1998); Bragdon v. Abbott, 118 S. Ct. 2196 (1998). In 
+neither case was the Court required to decide the issue this case 
+presents. Indeed, as noted above, in Bragdon the Court expressly 
+reserved decision on the mitigati.g measures question. See 118 
+S. Ct. at 2206. At the same time, both decisions are consistent with 
+an interpretation of the statute that excludes consideration of 
+mitigating measures in making the “substantially limits” 
+determination. 
+
+
+16 
+
+
+In the first of these two cases, Yeskey, the plairtiff, was a prison 
+inmate whose hypertension precluded him fror, participating in a 
+“boot camp” program. 118 S. Ct. at 1953. This Court rejected the 
+prison’s argument that prisons are not “covered entities” and that 
+inmates are not “qualified individuals” under Title II of the ADA. 
+Under the ADA, however, it is unnecessary to reach the “qualified 
+individual” determination unless the plaintiff first is determined to 
+have a “disability,” which is always a threshold inquiry. The Court's 
+opinion in Yeskey appears to assume that the plaintiff's hypertension 
+was a “disability,” see 118 S. Ct. at 1955, a position fully consistent 
+with interpreting the ADA to require that the “substantially limits” 
+determination be made without consideration of mitigating measures. 
+
+
+The second case, Bragdon v. Abbott, involved the question 
+whether an asymptomatic HIV-infected woman suffered from an 
+impairment that substantially limited a major life activity.° With 
+respect to the “substantially limits” requirement, the Court first 
+discussed the woman's risk of transmitting HIV to male sexual 
+partners when attempting to conceive a child. Finding the risk 
+significant, and ignoring possible mitigating measures such as artificial 
+insemination or in vitro procedures, the Court concluded that the 
+plaintiff's reproductive activities were substantially limited. /d. at 
+2206. Second, the Court considered the risk that the woman could 
+transmit HIV to her child if she became pregnant. The Court 
+acknowledged evidence suggesting that such risks could be reduced 
+with mitigating measures, but also noted that the Solicitor General 
+pointed out that the relevant Department of Justice regulations, like 
+the EEOC regulations at issue in this Title I case, require “the 
+substantiality of a limitation to be assessed without regard to available 
+mitigating measures.” /d. Ultimately, the Court declared that it need 
+not decide the mitigating measures question in Bragdon because, even 
+
+
+6. The Court in Bragdon had little difficulty in concluding that HIV 
+infection is an “impairment,” declaring that HIV infection “is an impairment 
+from the moment of infection.” 118 S. Ct. 2196, 2204. In language that aptly 
+describes Mr. Murphy's severe hypertension, the Court observed that the 
+plaintiff's HIV infection in Bragdon was “a physiological disorder with a 
+constant and detrimental effect on” the plaintiff's bodily systems “from the 
+moment” the condition arose. /d. at 2204 (emphasis added). The Court also 
+concluded that “reproduction is a “major life activity” under the ADA. /d. at 
+2204-05. 
+
+
+17 
+
+
+with such measures, the chance of infecting a child during childbirth 
+could not be said as a matter of law not to constitute a substantial 
+limitation. /d. 
+
+
+Although this Court in Bragdon reserved judgment on the 
+mitigating measures issue, the Court’s opinion is fully consistent 
+with an interpretation of the statute that requires the “substantially 
+limits” determination to be made without consideration of mitigating 
+measures. For example, the Court evaluated at least one of the claimed 
+substantial limitations — the plaintiff's inability to conceive a child 
+because of the risk of transmission of the disease to her male partner 
+— without regard to any possible mitigating measures.’ Certainly, 
+nothing in the Court’s opinion is inconsistent with reading the ADA 
+to require that mitigating measures not be considered. 
+
+
+UPS has argued in this and other cases that the statutory language 
+requires consideration of mitigating measures because the statute 
+refers to an impairment that “substantially limits” major life activities 
+“of such individual.” UPS's argument apparently is that “substantially 
+limits” means “currently or actually substantially limits” which, of 
+course, the statute does not say. In UPS's view, if the effects of a 
+particular plaintiff's medical condition can be limited by medication 
+or other measures, the impairment does not currently nor actually 
+“substantially limit” the plaintiff. Contrary to UPS’s assertion, the 
+mere present tense usage of the term “substantially limits” in the 
+Statutory definition does not answer the question whether the 
+“substantially limits” determination is to be made by considering 
+mitigating measures or without considering such measures. Rather, 
+as the First Circuit concluded, UPS’s interpretation “begs the 
+question.” Arnold v. United Parcel Service, Inc., 136 F.3d 854, 859 
+(1998). 
+
+
+Interpreting the ADA so that the “disability” determination 
+requires the consideration of mitigating measures will mean that, in 
+many instances, employers can reject or fire employees with a wide 
+
+
+7. At the conclusion of its “substantially limits” analysis, the Court also 
+observed that “[w]hen significant limitations result from the impairment, the 
+definition is met even if the difficulties are not insurmountable.” 118 S. Ct. 
+2196, 2206. 
+
+
+18 
+
+
+array of medical conditions but avoid any ADA liability. And they 
+can do so without ever permitting such persons an opportunity to 
+demonstrate that they are qualified for the job. See Robert L. Burgdorf, 
+Jr., The Americans With Disabilities Act: Analysis and Implications 
+of a Second-Generation Civil Rights Statute, 26 Harv. C.R.-C.L. L. 
+Rev. 413, 448 (1991) (describing this “Catch-22 situation”). 
+
+
+Ultimately, the critical question is whether the first statutory 
+“disability” definition, read in context and in light of the entire 
+statutory scheme, means “substantially limits without mitigation” or 
+“substantially limits with mitigation.” The latter interpretation, which 
+the Tenth Circuit adopted, is not compelled by the statutory language, 
+nor supported by this Court’s prior ADA decisions. More importantly, 
+the Tenth Circuit's interpretation is contrary to the ADA’s overall 
+structure and operation, Congress's stated findings and purposes, the 
+ADA’s legislative history, and the uniform interpretation of the 
+agencies Congress charged with implementing the ADA. 
+
+
+B. The ADA’s Structure Demonstrates That The “Disability” 
+Definition Is Inclusive 
+
+
+In words particularly apt to this case, the Court has observed 
+that 
+
+
+Just as a single word cannot be read in isolation, nor 
+can a Single provision of a statute. As we have recognized: 
+“Statutory construction ... is a holistic endeavor. A 
+provision that may seem ambiguous in isolation is often 
+clarified by the remainder of the statutory scheme — 
+because the same terminology is used elsewhere in a 
+context that makes its meaning clear, or because only one 
+of the permissible meanings produces a substantive effect 
+that is compatible with the rest of the law.” 
+
+
+Smith v. United States, 508 U.S. 223, 233 (1993) (quoting United Savings 
+Assn. of Texas v. Timbers of Inwood Forest Associates, Ltd., 484 U.S. 
+365, 371 (1988)) (emphasis added); see also King v. St. Vincent's Hospital, 
+502 U.S. 215, 221 (1991) (a statute “is to be read as a whole, since the 
+meaning of statutory language, plain or not, depends on context’). 
+
+
+19 
+
+
+Reading the statutory “substantially limits” requirement to exclude 
+consideration of mitigating measures is the only interpretation that is 
+consistent with and faithful to the overall structure of the ADA. The 
+“disability” inquiry is a threshold requirement. There are many indications 
+in the ADA, and none to the contrary, that this threshold requirement 
+does not operate as the eye of the needle for ADA plaintiffs. Rather, the 
+threshold “disability” requirement simply confirms that plaintiffs are 
+within the large class of Americans that Congress designed the ADA to 
+protect. 
+
+
+Moreover, the threshold “disability” determination permits even 
+plaintiffs who have either no actual impairment nor one that substantially 
+limits a major life activity (even assuming mitigating measures are not 
+considered), to pass through this gateway if they are discriminated against 
+because of a “record” of an impairment or because the employer 
+“regarded” the person as having such an impairment. 42 U.S.C. 
+§§ 12102(2)(B), (C). When not compelled by statutory language and 
+traditional rules of statutory interpretation, the ADA should not be read 
+to offer no protection to Murphy simply because some of the effects of 
+his severe hypertension can be ameliorated by medication while clearly 
+protecting a plaintiff who does not even have an actual impairment, much 
+less a substantially limiting one, because that person is “regarded” as 
+disabled. Rather, Congress's use of the “record of” and “regarded as” 
+alternatives in the statute are confirmation of the inclusiveness of the 
+threshold “disability” definition. 
+
+
+Once ADA plaintiffs satisfy the threshold “disability” requirement, 
+they still must prove that they are qualified for the job, including both 
+that they can perform the essential functions of the job, and that any 
+accommodations required are reasonable. 42 U.S.C. §§ 12111(8), 
+12112(a). At that point, the ADA plainly contemplates that assistive 
+measures or actions be considered, by virtue of the use of the concepts 
+of “qualified individual” and “reasonable accommodation.” Indeed, it 
+only makes sense that assistance and accommodation be considered 
+when the question is whether the plaintiff can perform the essential 
+functions of the job. But mitigating measures the individual alone 
+can take, such as medication for high blood pressure, are not relevant 
+to the threshold “disability” inquiry, nor are they the same thing as 
+“reasonable accommodations” the employer must provide, such as 
+
+
+20 
+
+
+flexibility in a work schedule or permitting the individual the 
+opportunity to actually take the medication while at work. See 42 
+U.S.C. § 12111(9) (defining “reasonable accommodation” solely in 
+terms of employer actions). 
+
+
+In addition to satisfying the “qualified individual” requirement, 
+an ADA plaintiff must prove that the employer discriminated in the 
+terms, conditions or privileges of employment because of the 
+plaintiff's disability, and not for some other reason. 42 U.S.C. 
+§ 12112(a). Lower federal courts generally have handled this 
+requirement in the same fashion as under Title VII, using the burden- 
+shifting procedures of McDonnell Douglas Corp. v. Green, 411 U.S. 
+792, 802-04 (1973), and Texas Dept. of Community Affairs v. Burdine, 
+450 U.S. 248, 252-53 (1981). Even if an individual satisfies all three 
+statutory requirements ((1) disability, (2) qualified individual, and 
+(3) discrimination) and therefore states an ADA claim, employers 
+have several statutorily-recognized defenses. These include at least 
+the following: (1) that the necessary accommodations for the employee 
+would impose an undue hardship on the employer, 42 U.S.C. 
+§ 12112(b)(5)(A); (2) that the employee failed a “qualification 
+standard” that “has been shown to be job-related and consistent with 
+business necessity,” 42 U.S.C. § 12113(a); see also 29 C.F.R. 
+§ 1630.15(e) (recognizing defense “that a challenged action is required 
+or necessitated by Federal law or regulations”); and (3) that the 
+employee would pose a direct threat to others in the workplace. 
+42 U.S.C. § 12113(b). 
+
+
+Importantly from a structural perspective, the term “disability” 
+is defined in Section 3 of the ADA, a preliminary definitional section 
+that applies to the entire Act. The terms “qualified individual with a 
+disability,” “reasonable accommodation,” “undue hardship,” and 
+“direct threat,” however, are defined specifically for Title I, which 
+deals solely with employment discrimination. Thus, the definition of 
+the threshold “disability” requirement, a prerequisite to application 
+of any of the Act’s Titles, not surprisingly is inclusive. Specific Title 
+I provisions then address particular policy concerns about the effect 
+of the ADA on employers. These more specific provisions, not the 
+“disability” definition may, in appropriate cases, limit the statute's 
+scope in the employment context. 
+
+
+21 
+
+
+In this respect, the ADA operates precisely like the Rehabilitation 
+Act, on which it is modeled. For instance, in School Bd. of Nassau 
+County v. Arline, 480 U.S. 273 (1987), this Court considered whether 
+an individual with tuberculosis was a “handicapped” individual under 
+the Rehabilitation Act. Importantly, the Court explained that 
+
+
+[t}he Act is carefully structured to replace . . . reflexive 
+reactions to actual or perceived handicaps with actions 
+based on reasoned and medically sound judgments: the 
+definition of handicapped individual is broad, but only 
+those individuals who are both handicapped and 
+otherwise qualified are eligible for relief. 
+
+
+Id. at 284-85. The Court warned against making individuals 
+“vulnerable to discrimination on the basis of mythology — precisely 
+the type of injury Congress sought to prevent.” /d. at 285. 
+Importantly, in the ADA itself, Congress expressly required 
+deference to preexisting court decisions and agency interpretations 
+of § 504 of the Rehabilitation Act, as this Court acknowledged and 
+followed in Bragdon v. Abbott. See 118 S. Ct. at 2202 (quoting 
+42 U.S.C. § 12201(a) and concluding that “[t}he directive requires us 
+to construe the ADA to grant at least as much protection as provided 
+by the regulations implementing the Rehabilitation Act’”).* 
+
+
+Thus, the ADA’s “substantially limits” requirement should be 
+assessed without consideration of mitigating measures. Under this 
+interpretation, each aspect of the statutory definition applies and 
+has operative effect. Cf. Walters v. Metropolitan Educational Enter's 
+Inc., 519 U.S. 202, 209 (1997) (“Statutes must be interpreted, if 
+possible, to give each word some operative effect.”). Murphy is not 
+arguing that high blood pressure, even of the severe type from which 
+
+
+8. To the best of petitioner's knowledge, agency regulations implementing 
+and interpreting the Rehabilitation Act do not directly address the mitigating 
+measures question. What little guidance exists actually appears to support 
+evaluating “handicaps” without consideration of mitigating measures. See, 
+e.g., Ruth Colker, The Americans with Disabilities Act: A Windfall for 
+Defendants, 34 Harv. C.R.-C.L. L. Rev. 99, 154 n. 295 (1999) (citing 
+Rehabilitation Act cases). Certainly, nothing in the Rehabilitation Act 
+regulations or cases precludes an interpretation that mitigating measures should 
+not be considered, an interpretation that appears to have been assumed in 
+many of those cases, but was not addressed. 
+
+
+22 
+
+
+he suffers, is a per se or inherent disability. Rather, as the ADA clearly 
+contemplates, the “disability” determination is made in each case on 
+an individualized basis, but without consideration of mitigating 
+measures.” 
+
+
+C. The ADA’s Formal Legislative History Confirms That The 
+“Disability” Determination Should Be Made Without 
+Consideration Of Mitigating Measures 
+
+
+Were this Court to find that, even after considering statutory 
+language and structure, the ADA is unclear or silent with respect to 
+the mitigating measures question, then the Court should consider 
+legislative history as an aid to statutory interpretation, as it has 
+traditionally done."° In this case, the legislative history is clear. The 
+three congressional committees that had primary responsibility for 
+the ADA all came down strongly and clearly in favor of a rule that 
+mitigation should not be considered in making the “substantially 
+limits” determination. 
+
+
+For instance, the House Labor Committee Report declares that 
+
+
+Whether a person has a disability should be assessed 
+without regard to the availability of mitigating measures, 
+such as reasonable accommodations or auxiliary aids. For 
+example, a person who is hard of hearing is substantially 
+
+
+9. This Court has more than once stated that it is bound to interpret 
+statutes in light of the purposes Congress identified. See, e.g., Dickerson v. 
+New Banner inst., Inc., 460 U.S. 103, 118 (1983). Reading the statutory 
+“substantially limits” requirement to exclude consideration of mitigating 
+measures is fully congruent with Congress's detailed list of findings and 
+purposes. See 42 U.S.C. § 12101. 
+
+
+10. Legislative history may be particularly “useful to conscientious and 
+disinterested judges” when a statute has “bipartisan support and has been 
+carefully considered by committees familiar with the subject matter.” 
+Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 516 U.S. 264, 276 
+(1996) (Stevens, J., concurring). The House and Senate both approved the 
+ADA by overwhelming votes, 377-28 in the House, and 91-6 in the Senate. 
+See Congress Clears Sweeping Bill to Guard Rights of Disabled, Cong. Q. 
+2227 (July 14, 1990). 
+
+
+23 
+
+
+limited in the major life activity of hearing, even though 
+the loss may be corrected through the use of a hearing 
+aid. Likewise, persons with impairments, such as epilepsy 
+or diabetes, which substantially limit a major life activity 
+are covered under the first prong of the definition of 
+disability, even if the effects of the impairment are 
+controlled by medication. 
+
+
+H.R. Rep. No. 101-485(II), at 52 (1990) (emphasis added). 
+
+
+Likewise, the House Judiciary Committee Report states that 
+“[t}he impairment should be assessed without considering whether 
+mitigating measures, such as auxiliary aids or reasonable 
+accommodations, would result in a /ess-than-substantial limitation.” 
+H.R. Rep. No. 101-485(III), at 28 (1990) (emphasis added). To the 
+same effect, the Senate Labor Committee Report says that “whether 
+a person has a disability should be assessed without regard to the 
+availability of mitigating measures, such as reasonable 
+accommodations or auxiliary aids.” $. Rep. No. 101-116, at 23 (1989) 
+(emphasis added). Clearer and more uniform statements of legislative 
+intent are hard to imagine. 
+
+
+The only potentially countervailing legislative history is a 
+statement in the Senate Labor Committee Report, not contained in 
+either House Report, that provides as follows with respect to applying 
+the third prong of the “disability” definition (the “regarded as having 
+such an impairment” provision): 
+
+
+Another important goal of the third prong of the 
+definition is to ensure that persons with medical 
+conditions that are under control, and that therefore do 
+not currently limit major life activities, are not 
+discriminated against on the basis of their medical 
+conditions. For example, individuals with controlled 
+diabetes or epilepsy are often denied jobs for which they 
+are qualified. Such denials are the result of negative 
+attitudes and misinformation. 
+
+
+S. Rep. No. 101-116, at 24 (1989). 
+
+
+24 
+
+
+Employers such as UPS have seized upon this statement in seeking 
+to require consideration of mitigating measures in applying the first prong 
+of the disability definition. But it is thin justification for their argument. 
+First, this comment appears only in the Senate report, and it is clearly 
+made only in discussing the “regarded as” prong of the definition. 
+
+
+Second, and most significantly, this single paragraph in the legislative 
+history is not actually inconsistent with the House and Senate Reports’ 
+uniform declaration that the “substantially limits” requirement is to be 
+evaluated without consideration of mitigating measures. It is critically 
+important to remember that there are widely varying degrees of many 
+medical conditions. For example, blood pressure of 140/90 and above is 
+considered “hypertension”, but there are dramatic differences between a 
+blood pressure of 140/90 and Murphy's unmedicated blood pressure of 
+250/160. Moreover, at least in certain age groups, such as older 
+Americans, a blood pressure of 140/90 may be within the “normal” range, 
+and therefore might not be considered substantially limiting at all.'' But 
+the ADA still protects such an individual from discrimination by an 
+employer that wrongly “regards” blood pressure of 140/90 as a 
+“disability.” 
+
+
+The Senate Report does not specify the degree of impairment 
+experienced in the example. Individuals with mild cases of diabetes or 
+epilepsy that can be ameliorated without medication or with relative ease 
+may in some cases not be substantially limited even if the evaluation is 
+made without considering mitigating measures. But when an employer 
+acts adversely to such an individual due to an exaggerated fear of or 
+misunderstanding about that individual's condition, then the “regarded 
+as” prong applies. Thus, at a minimum, the legislative history 
+demonstrates that the Tenth Circuit erred. Murphy has a “disability”, 
+either because his hypertension substantially limits major life activities 
+or because UPS “regarded” him as so limited. 
+
+
+11. The EEOC has defined “substantially limits” in part by requiring a 
+comparison of the ADA plaintiff to “the average person in the general 
+population.” See 29 C.F.R. Pt. 1630.2(j)(i), (i). The interpretive guidance 
+also makes clear that this determination is relative to an average person. 
+See 29 C.F.R. Pt. 1630.2(j), App. (individual is not substantially limited if the 
+limitation “does not amount to a significant restriction when compared with 
+the abilities of the average person.”). 
+
+
+25 
+
+
+D. The EEOC’s Formal Interpretation That Mitigating 
+
+
+Measures Should Not Be Considered Is Entitled To Chevron 
+Deference 
+
+
+1. The EEOC, The Agency Congress Expressly Charged With 
+Implementing Title 1, Requires That The “Substantially 
+Limits” Assessment Be Made Without Consideration Of 
+Mitigating Measures 
+
+
+Even were there any doubt, after applying this Court's usual rules 
+of statutory construction, that the Tenth Circuit's reading of the ADA 
+“disability” definition is wrong, this case should be resolved in 
+Murphy's favor. In the ADA itself, Congress expressly granted the 
+EEOC the authority — and charged it with the obligation — to “issue 
+regulations in an accessible format to carry out this subchapter [Title 
+| — Employment].”" 42 U.S.C. § 12116. The EEOC did so, 
+
+
+12. Congress provided the EEOC one year to propose, receive comments 
+and finalize regulations to implement the ADA’s employment provisions. Pursuant 
+to this statutory grant of authority, the EEOC published an “Advance notice of 
+proposed rulemaking” soliciting initial public comment on August 1, 1990. 
+55 Fed. Reg. 31192 (1990). On February 28, 1991, the EEOC published its 
+proposed regulations and interpretive guidance. 56 Fed. Reg. 8578 (1991). 
+Importantly, the proposed regulations also contained the full text of the interpretive 
+guidance appendix, including the assertion that “disability” must be assessed 
+without regard to mitigating measures and using the example of an insulin- 
+dependent diabetic. See 56 Fed. Reg. at 8592-93. The EEOC pointed out that 
+“[tphis proposed appendix represents the Commission's interpretation of the issues 
+discussed and the Commission will be guided by it when resolving charges of 
+employment discrimination.” /d. at 8578. 
+
+
+When the EEOC published its final rules and interpretive guidance on July 
+26, 1991, the interpretive guidance requiring assessment without mitigating 
+measures was essentially unchanged. See 56 Fed. Reg. 35726 (1991). The sole 
+revision was to 
+
+
+the interpretive guidance accompanying § 1630.2(j) to make it clear 
+that the determination of whether an impairment substantially limits 
+one or more major life activities is to be made without regard to the 
+availability of medicines, assistive devices, or other mitigating 
+measures. . . . 
+
+
+56 Fed. Reg. at 35727-28. 
+
+
+26 
+
+
+simultaneously issuing both regulations and interpretive guidance 
+pursuant to formal rulemaking procedures. Critically, the EEOC’s 
+interpretive guidance (an appendix to the formal regulations) includes 
+the following provision, which expressly addresses the question before 
+
+
+this Court: 
+
+
+Section 1630.2(j) Substantially Limits 
+
+
+** * * 
+
+
+The determination of whether an individual is 
+substantially limited in a major life activity must be made 
+on a case by case basis, without regard to mitigating 
+measures such as medicines, or assistive or prosthetic 
+devices. 
+
+
+Thus, with respect to the question whether the “substantially 
+limits” assessment should include or exclude consideration of 
+mitigating measures, the EEOC, after following formal notice and 
+comment rulemaking procedures, expressly rejected the 
+interpretation that the Tenth Circuit endorsed in this case. 
+
+
+2. As In Bragdon v. Abbott, This Court Must Defer To The 
+Implementing Agency's Permissible Construction Of The ADA 
+
+
+In Bragdon v. Abbott, 118 S. Ct. 2196 (1998), this Court resolved 
+the question whether asymptomatic HIV infection constitutes a 
+“disability” under the ADA. In concluding that such a condition is a 
+“disability,” the Court relied heavily on “administrative guidance 
+issued by the Justice Department to implement the public 
+accommodation provisions of Title III of the ADA.” /d. at 2208-09. 
+Specifically, the Court observed that 
+
+
+[aJs the agency directed by Congress to issue 
+implementing regulations, to render technical assistance 
+explaining the responsibilities of covered individuals and 
+institutions, and to enforce Title III in court, the 
+Department's views are entitled to deference. 
+
+
+27 
+
+
+118 S. Ct. at 2209 (internal statutory citations omitted; citing Chevron 
+U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 
+837, 844 (1984)). Moreover, the Court in Bragdon also considered 
+the views of other federal agencies charged by Congress with 
+implementing other Titles of the ADA, including the EEOC’s views 
+with respect to Title I. 118 S. Ct. at 2209. Importantly, the Court in 
+Bragdon relied upon DOJ and EEOC interpretive guidance, not just 
+formal regulations. /d. 
+
+
+The familiar Chevron analysis in this situation is to first consider 
+whether the language of the statute and congressional intent are clear 
+and unambiguous with respect to the question raised. If so, then a 
+court must give effect to that language and intent, rather than defer 
+to an agency interpretation. Chevron, 467 U.S. at 842-43. But “if 
+the statute is silent or ambiguous with respect to the specific issue, 
+the question for the court is whether the agency’s answer is based 
+on a permissible construction of the statute.” /d. The “permissible 
+construction” inquiry does not require the court to 
+
+
+conclude that the agency construction was the only one 
+it permissibly could have adopted . . . or even the reading 
+the court would have reached if the question initially had 
+arisen in a judicial proceeding. 
+
+
+Id. at 843 n. 11." 
+
+
+13. The Chevron doctrine has been described as “an across-the-board 
+presumption that, in the case of ambiguity, agency discretion is meant.” The 
+Honorable Antonin Scalia, Judicial Deference to Administrative Interpretations 
+of Law, 1989 Duke L.J. 511, 516 (1989). This presumption 
+
+
+Operates principally as a background rule of law against which 
+Congress can legislate.... Congress now knows that the 
+ambiguities it creates, whether intentionally or unintentionally, 
+will be resolved, within the bounds of permissible interpretation, 
+not by the courts but by a particular agency, whose policy biases 
+will ordinarily be known. 
+
+
+Id. at 517. 
+(Cont'd) 
+
+
+28 
+
+
+Although it is unnecessary for the Court to reach the Chevron 
+deference question at all, in light of the ADA’s structure and clear 
+congressional intent that mitigating measures should not be 
+considered, Chevron deference is applicable in this case if the Court 
+considers the EEOC’s interpretation. First, the statutory “disability” 
+definition itself does not expressly state a rule for mitigating measures, 
+although the ADA’s structure and congressional intent are clear that 
+such measures should not be considered. Second, Congress expressly 
+directed the EEOC to issue regulations implementing the provisions 
+of Title I. Third, the EEOC adopted such regulations and interpretive 
+guidance pursuant to formal notice and comment procedures. Thus, 
+the EEOC’s interpretation of the “substantially limits” requirement 
+is entitled to Chevron deference. As this Court recently observed, 
+“Congress is well aware that the ambiguities it chooses to produce in 
+a statute will be resolved by the implementing agency.” AT&T Corp. 
+v. lowa Util. Bd., 119 S. Ct. __, 67 U.S.L.W. 4104, 4112 Gan. 25, 
+1999). 
+
+
+That the determinative EEOC interpretation is contained in an 
+interpretive guidance appendix, rather than the regulations 
+themselves, is of no significance. First, the EEOC promulgated the 
+regulations and the interpretive guidance pursuant to formal notice 
+and comment procedures. The EEOC received comments on the 
+interpretive guidance at issue here, and revised the guidance as a result 
+of the formal process. 
+
+
+Second, this Court has not drawn a distinction between formal 
+regulations and formal agency interpretations of such regulations, 
+either in general or specifically under the ADA. For example, in School 
+Board of Nassau County v. Arline, 480 U.S. 273 (1987), in deciding 
+whether tuberculosis is a “disability” under the Rehabilitation Act, 
+
+
+(Cont'd) 
+If Chevron is to have any meaning, then, congressional intent 
+must be regarded as “ambiguous” not just when no interpretation 
+is even marginally better than any other, but rather when two or 
+more reasonable, though not necessarily equally valid, 
+interpretations exist. 
+
+
+Id. at 520. 
+
+
+29 
+
+
+this Court considered the appendix that the Department of Health 
+and Human Services promulgated with its Rehabilitation Act 
+regulations. 480 U.S. at 280 n.5. Similarly, in Martin v. Occupational 
+Safety & Health Review Comm'n, 499 U.S. 144, 151 (1991), the Court 
+declared that “we presume that the power authoritatively to interpret 
+its own regulations is a component of the agency's delegated 
+lawmaking powers.” Thus, whether the critical interpretation appears 
+in the EEOC’s regulations or the interpretive guidance appendix, this 
+Court's “task is not to decide which among several competing 
+interpretations best serves the regulatory purpose. Rather, the agency's 
+interpretation must be given ‘controlling weight unless it is plainly 
+erroneous or inconsistent with the regulation.’ ” Thomas Jefferson 
+Univ. v. Shalala, 512 U.S. 504, 512 (1994) (quoting Bowles v. Seminole 
+Rock & Sand Co., 325 U.S. 410, 414 (1945)). 
+
+
+Third, in this case, the EEOC’s interpretive guidance is not 
+contrary to the language of the statute nor the clearly expressed intent 
+of Congress. To the contrary, the EEOC’s interpretation is the only 
+one that is consistent with the ADA’s structure and congressional 
+intent. Moreover, the EEOC has adopted the same interpretation of 
+the statute as the Department of Justice, which is statutorily charged 
+with implementing Titles II and III of the ADA. See 28 C.F.R. Pt. 35, 
+App. A § 35.104 (“The question of whether a person has a disability 
+should be assessed without regard to the availability of mitigating 
+measures, such as reasonable modification or auxiliary aids and 
+services”); 28 C.F.R. Pt. 36, App. B § 36.104 (to same effect). As the 
+agencies uniformly recognize, the statutory language, the structure 
+and purposes of the ADA, and the legislative history all demonstrate 
+that making the “substantially limits” determination without 
+consideration of mitigating measures is the best reading of the statute, 
+not just a “permissible” one. 
+
+
+At worst, the “disability” definition’s “substantially limits” 
+requirement is phrased in such a way that a “reasonable person could 
+interpret the plain statutory language to require an evaluation either 
+before or after ameliorative treatment,” Arnold v. United Parcel 
+Service, Inc., 136 F.3d 854, 859 (Ist Cir. 1998), as the Circuit split 
+on this issue may demonstrate. Accordingly, the EEOC’s view of the 
+Statute is entitled to Chevron deference. See AT&T Corp. v. lowa 
+
+
+30 
+
+
+Util. Bd., 119 S. Ct. __, 67 U.S.L.W. 4104, 4112 (Jan. 25, 1999) 
+(“Congress is well aware that the ambiguities it chooses to produce 
+in a statute will be resolved by the implementing agency.”); Chemical 
+Mfrs. Ass'n v. Natural Resources Defense Council, 470 U.S. 116, 
+126 (1985) (to same effect); cf. Washington v. HCA Health Serv. of 
+Texas, Inc., 152 F.3d 464, 470 (Sth Cir. 1998) (“Although we think it 
+is more reasonable to say that mitigating measures must be taken 
+into account, we recognize that our position 1s not so much more 
+reasonable to warrant overruling the EEOC”). 
+
+
+E. In Any Event, There Are At A Minimum Genuine Issues Of 
+Disputed, Material Fact Concerning Whether Murphy’s 
+Severe Hypertension Substantially Limits His Major Life 
+Activities 
+
+
+The Tenth Circuit rejected Murphy's ADA claim as a matter of 
+law at the summary judgment stage of this litigation. The Tenth 
+Circuit held that the first prong of the “disability” definition requires 
+consideration of mitigating measures and that, as a matter of law, 
+Murphy’s severe hypertension does not substantially limit any major 
+life activities when medication is considered. Pet. App. 4a. The Tenth 
+Circuit then concluded, again as a matter of law, that Murphy also 
+failed to state a claim under the “regarded as” prong of the definition 
+because UPS fired him because of DOT regulations, and not because 
+of his hypertension. /d. at 5a. 
+
+
+With all due respect, the Tenth Circuit misapplied the summary 
+judgment standard and ignored any facts that got in the way of the 
+court’s conclusions. Contrary to the Tenth Circuit's application of 
+the summary judgment standard, this Court has consistently 
+emphasized that, when ruling on a summary judgment motion, 
+federal courts must view the evidence in the light most favorable to 
+the non-moving party, with disputed facts and inferences drawn in 
+favor of that party and against the moving party. See Gen. Elec. Co. 
+v. Joiner, 118 S. Ct. 512, 517 (1997). The Tenth Circuit simply failed 
+to do that in this case. 
+
+
+There is no factual dispute in this case that since at least age 10, 
+Murphy has suffered from severe Stage IV hypertension, with his 
+
+
+31 
+
+
+unmedicated blood pressure running approximately 250/160. Pet. App. 
+2a, 9a. Nor is there any dispute that Murphy’s condition is permanent, 
+J -A. 67a, 71a, that the long term impact of such severe hypertension 
+is major organ damage, for instance to his heart, kidneys and eyes, 
+
+
+Ye at 0 72a, and that Murphy’s condition ultimately may kill him." 
+. at 81. 
+
+
+There also is evidence and testimony in the record that Murphy's 
+severe hypertension substantially limits numerous major life 
+activities, such as running, lifting, eating, hearing, seeing, and 
+working. J.A. 56a-58a, 5la-52a. Thus, if mitigating measures are 
+ignored, the evidence precludes a grant of summary judgment to 
+UPS on the “substantially limits” requirement of the statutory 
+defin:tion. Indeed, UPS disputes this evidence but, at a minimum, 
+this evidence creates genuine issues of disputed, material fact. 
+
+
+Even if this Court interprets the “substantially limits” inquiry to 
+require consideration of mitigating measures, summary judgment for 
+UPS is improper. There is evidence in the record that Murphy is 
+substantially limited in major life activities even when medicated. 
+For example, Murphy testified that he has brought his blood pressure 
+below 140/90 with medication, but that the side effects significantly 
+limited his ability to function. J.A. 55a-56a. Those side effects 
+included gout and lethargy that kept him bedridden for days at a time, 
+making it difficult if not impossible for him to work. 
+Id. at 51a. Even the District Court acknowledged that Murphy is unable 
+to use medication to lower his blood pressure to normal levels “without 
+suffering severe side effects such as stuttering, loss of memory, 
+‘mpotence, lack of sleep and irritability.” Pet. App. 16a." 
+
+
+14. Thus, there is no question that Murphy suffers from an “impairment” 
+within the meaning of the ADA. Cf. Bragdon v. Abbott, 118 S. Ct. 2196, 2204 
+(1998) (HIV infection is an “impairment” under the ADA from “the moment 
+of infection” because it has “a constant and detrimental effect on” the 
+individual's bodily systems). 
+
+
+15. Murphy suggested that he might be able to bring his blood pressure 
+below 160/90, perhaps as low as 140/90, without suffering serious side effects 
+from the medication. J.A. 55a-56a. His physician also testified that for Murphy 
+to get his blood pressure down to approximately 150/100 with medication is 
+“in the realm of possibility.” /d. at 68a. 
+
+
+32 
+
+
+In any event, at this stage of the litigation, the question is not 
+what evidence a District judge or Court of Appeals judges would find 
+most credible or persuasive, but whether there are genuine issues of 
+disputed, material fact with respect to the question whether Murphy's 
+undisputed impairment “substantially limits” one or more of his major 
+life activities. Ata minimum, there are disputed material facts here, 
+and that precludes summary judgment in UPS's favor. 
+
+
+UPS FIRED MURPHY BECAUSE UPS 
+“REGARDED” HIM AS DISABLED. 
+
+
+A. By Its Reliance Upon DOT Regulations, As A Matter Of Law 
+UPS Fired Murphy Because It “Regarded” Him As Disabled 
+
+
+The ADA “disability” provision has three alternatives for defining 
+the term “disability.” An impairment that substantially limits major 
+life activities is only the first one. Having a “record” of such an 
+impairment or being “regarded” as having such an impairment also 
+constitute a “disability” that qualifies an individual for ADA 
+protection. 42 U.S.C. §§ 12102(2)(B), (C). In this case, UPS fired 
+Murphy because it “regarded” him as having a disability. The Tenth 
+Circuit erroneously endorsed UPS's action. The Tenth Circuit's 
+rationale was that UPS fired Murphy “because his blood pressure 
+exceeded the DOT’s requirements.” Pet. App. Sa. In the Tenth Circuit's 
+view, UPS’s reliance on the DOT regulations necessarily meant that 
+UPS did not “regard” Murphy as disabled. /d. In fact, UPS’s reliance 
+compels the contrary conclusion. 
+
+
+The rationale for the “regarded as” definition is that, “although 
+an individual may have an impairment that does not in fact 
+substantially limit a major life activity, the reaction of others may 
+prove just as disabling.” H.R. Rep. No. 101-485(III), at 30. As this 
+Court recognized when interpreting the Rehabilitation Act, the model 
+for the ADA, 
+
+
+[s]uch an impairment might not diminish a person's 
+physical or mental capabilities, but could nevertheless 
+
+
+33 
+
+
+substantially limit that person's ability to work as a result 
+of the negative reactions of others to the impairment. 
+
+
+School Bd. of Nassau County v. Arline, 480 U.S. 273, 283 (1987). 
+Thus, with respect to the Rehabilitation Act, but in language equally 
+applicable to the ADA, this Court has emphasized that “Congress 
+acknowledged that society's accumulated myths and fears about 
+disability and disease are as handicapping as are the physical 
+limitations that flow from actual impairment.” /d. at 284. 
+
+
+The EEOC regulation implementing the “regarded as” provision, 
+
+
+29 C.F.R. § 1630.2(/), recognizes these principles and defines the 
+concept as follows: 
+
+
+(1) Is regarded as having such an impairment means: 
+
+
+(1) Has a physical or mental impairment that does 
+not substantially limit major life activities but is treated 
+by a covered entity as constituting such limitation; 
+
+
+(2) Has a physical or mental impairment that 
+substantially limits major life activities only as a result of 
+the attitudes of others toward such impairment; or 
+
+
+(3) Has none of the impairments defined in 
+paragraphs (h)(1) or (2) of this section but is treated by a 
+
+
+covered entity as having a substantially limiting 
+impairment. 
+
+
+The EEOC interpretive guidance for this regulation further states 
+that: 
+
+
+An individual satisfies the first part of this definition if 
+the individual has an impairment that is not substantially 
+limiting, but the covered entity perceives the impairment 
+as being substantially limiting. For example, suppose an 
+employee has controlled high blood pressure that is not 
+substantially limiting. If an employer reassigns the 
+employee to less strenuous work because of 
+
+
+34 
+
+
+unsubstantiated fears that the individual will suffer a heart 
+attack if he or she continues to perform strenuous work, 
+the employer would be regarding the individual as 
+disabled. 
+
+
+29 C.E.R. § 1630.2(/) App. 
+
+
+The EEOC’s position with respect to high blood pressure in 
+this quotation superficially may appear at odds with its general 
+position that mitigating measures should not be considered in making 
+the “substantially limits” assessment. As explained above in Part 
+I.C., of this brief, however, the positions can be reconciled. It is 
+critically important to remember that there are widely varying 
+degrees of high blood pressure, with blood pressure of 140/90 and 
+above considered “hypertension.” Thus, particularly depending upon 
+a person’s age group, blood pressure of 140/90 may not even be 
+abnormal and, in comparison to an “average” person, might not be 
+considered substantially limiting at all, But, in any event, the ADA 
+still protects such an individual from discrimination by an employer 
+that wrongly “regards” blood pressure of 140/90 as a “disability.” 
+Thus, at a minimum, the EEOC’s interpretive guidance demonstrates 
+that Murphy has a “disability”, whether because he has an impairment 
+that substantially limits major life activities or because UPS regarded 
+him as having such an impairment. 
+
+
+The ADA’s structure is such that the “disability” determination 
+is only the threshold requirement for a plaintiff seeking to establish 
+an ADA claim. This threshold inquiry is not the point at which the 
+statute contemplates judgments being made about whether an 
+individual is qualified for the job, whether any accommodations are 
+feasible, or whether the employer has in fact discriminated against 
+the individual. Those inquiries come later in the statutory scheme. 
+
+
+Thus, even were UPS and the Tenth Circuit correct in their 
+understanding of the DOT regulations, it would make no d' (ference 
+with respect to the threshold “disability” inquiry. The DOT 
+regulations, if they actually precluded Murphy from obtaining a DOT 
+health card, might be relevant to the question whether Murphy is a 
+“qualified individual with a disability,” or they might be a defense to 
+
+
+35 
+
+
+Murphy's claim. But DOT regulations have nothing to do with the 
+question whether UPS “regarded” Murphy as having a “disability,” 
+the threshold inquiry in any ADA case. It would make no sense to 
+say that Murphy is not disabled if a job requires a DOT health card 
+—— because his blood pressure is too high to meet DOT regulations — 
+and yet he might be considered to have a “disability” with respect to 
+many other jobs that have no such requirement. 
+
+
+UPS indisputably “regarded” Murphy as having an impairment, 
+severe hypertension, whether medicated or not — that substantially 
+limits him in the major life activity of working.’ UPS “regarded” 
+Murphy as unfit to work precisely because of his high blood pressure. 
+Whether that view was based on misperceptions of the medical risks 
+of Murphy's condition, stereotypes about people with high blood 
+pressure, or even a good faith, legally justified belief that Murphy's 
+blood pressure was too high for him to qualify for a DOT health 
+card, does not matter in making the threshold “disability” 
+determination. It is sufficient for purposes of that inquiry that UPS 
+believed, for whatever reason, that Murphy's high blood pressure 
+precluded him from performing a class of jobs.'’ Employers need not 
+act with sinister or evil motives in order to “regard” an employee as 
+disabled. See, e.g., Deane v. Pocono Med. Ctr., 142 F.3d 138, 144 (3d 
+Cir. 1997). 
+
+
+On this basis alone, the Tenth Circuit's judgment must be 
+reversed. As a matter of law, UPS regarded Murphy as disabled. There 
+
+
+16, For example, Murphy offered evidence that he was fired precisely 
+because of his high blood pressure. He testified that a UPS supervisor told 
+him he (Murphy) was fired “because of my hypertension.” J.A. 53a; see also 
+id. at 10Sa. The supervisor who fired Murphy also admitted that he had received 
+no training concerning the requirements of the ADA and that he was “not 
+really” familiar with the law, declaring that he knew little more than that “they 
+a to put up wheelchair signs.” Record 380 (Rudy Arzola Deposition, p. 
+
+). 
+
+
+17. DOT certification is required for “all employers, employees and 
+commercial motor vehicles, which transport property or passengers in interstate 
+commerce.” 49 C.F.R. § 390.3(a). Inability to obtain certification therefore 
+implicates “a class of jobs or a broad range of jobs in various classes.” 
+29 C.F.R. § 1630.2(4))(3)i). 
+
+
+36 
+
+
+are no genuine issues of disputed, material fact concerning this question. 
+By its admitted and exclusive reliance upon the DOT regulations, UPS 
+has conceded this issue. Irrespective of what the DOT regulations actually 
+require, the Tenth Circuit's legal error in endorsing UPS's conduct 
+requires reversal. 
+
+
+B. UPS’s Argument That Murphy's Hypertension Necessarily 
+Disqualifies Him From Obtaining A DOT Health Card Is 
+Incorrect As A Matter Of Law 
+
+
+UPS's justification for firing Murphy, which the Tenth Circuit 
+endorsed, was that Murphy cannot qualify for a DOT health card. As the 
+Solicitor General already has informed this Court, “the court of appeals’ 
+holding on this point was a clear legal error.” Brief for the United States 
+and the Equal Employment Opportunity Commission as Amicus Curiae 
+on Petition for a Writ of Certiorari 19. 
+
+
+UPS ostensibly fired Murphy because his blood pressure exceeded 
+160/90, the standard UPS now claims is an absolute limitation imposed 
+by DOT regulations, although UPS's nurse initially claimed that 
+140/90 or 140/80 was UPS's standard. J.A. 47a, 88a-89a, 93a-94a. The 
+relevant DOT regulations in fact provide as follows: 
+
+
+49 C.FR. § 391.41 
+
+
+(a) A person shall not drive a commercial motor vehicle 
+unless he/she is physically qualified to do so. . . . 
+
+
+(b) A person is physically qualified to drive a 
+commercial motor vehicle if that person . . . 
+
+
+(6) Has no current clinical diagnosis of high 
+blood pressure likely to interfere with his/her 
+ability to operate a commercial motor vehicle 
+safely. 
+
+
+49 C.FR. § 391.43 
+
+
+(e) The medical examination shall be performed, and 
+its results shall be recorded, substantially in accordance with 
+the following instructions .. . 
+
+
+37 
+
+
+Blood pressure. Record with either spring or mercury 
+c.lumn type of sphygmomanometer. If the blood pressure 
+is consistently above 160/90 mm. Hg., further tests may 
+be necessary to determine whether the driver is qualified 
+to operate a commercial motor vehicle. 
+
+
+Thus, on their face, the regulations do not impose an absolute limit 
+of 160/90, nor do they automatically disqualify anyone and everyone 
+who exceeds that blood pressure from obtaining a DOT health card. 
+
+
+The lower courts and UPS instead relied upon a 1988 Federal 
+Highway Administration document entitled “Medical Advisory Criteria 
+for Evaluation Under 49 C.F.R. Part 391.41.” See Pet. App. 
+1 5a-16a."* The document, which states in its first paragraph that “[m]ost 
+commercial drivers with hypertension are not immediately unqualified 
+to Operate a commercial motor vehicle,” J.A. 98a, declares that no driver 
+with blood pressure higher than 181/105 may be qualified to operate a 
+commercial motor vehicle. /d. at 99a. The document further directs, 
+however, that drivers with blood pressure between 160/90 and 181/105 
+— which Murphy's blood pressure was when UPS retook it in late 
+September following the nurse's review of his file, see id. at 47a-48a, 
+may drive for three months and be retested to see whether their blood 
+pressure has been reduced by measures such as medication. /d. at 98a. 
+
+
+The DOT regulation, in contrast, states only that a driver is required 
+to have “no current clinical diagnosis of high blood pressure likely to 
+interfere with his/her ability to operate a commercial motor vehicle 
+safely.” 49 C.F.R. § 491.31(b)(6) (emphasis added). The regulation clearly 
+contemplates that the ultimate decision regarding a driver's fitness rests 
+in the discretion of the DOT examiner, at least within certain bounds that 
+Murphy satisfied. 
+
+
+Thus, regardless of whether UPS fired Murphy because of 
+unsubstantiated fears concerning his hypertension or the legally erroneous 
+belief that Murphy could not possibly qualify for a DOT health card, 
+UPS “regarded” Murphy as having an impairment that substantially limits 
+his ability to work. In theory, UPS's erroneous claim that Murphy cannot 
+
+
+18. For the Court's convenience, this document is included in the Joint 
+Appendix, 98a-10la. 
+
+
+38 
+
+
+satisfy DOT regulations, were it actually correct, perhaps might permit 
+UPS to argue that Murphy is not a “qualified individual with a disability,” 
+42 U.S.C. § 12111(8), or that he fails to satisfy a “qualification standard” 
+that “has been shown to be job-related and consistent with business 
+necessity.” /d. § 12113(a). But UPS’s purported reliance on DOT 
+requirements supports rather than undermines the conclusion that UPS 
+“regarded” Murphy as having an impairment that substantially limits his 
+ability to work. Murphy's perceived limitations were the very basis UPS 
+regarded Murphy as unfit to work and, therefore, fired him. 
+
+
+CONCLUSION 
+
+
+With all due respect, Vaughn Murphy’s severe hypertension either 
+substantially limits one or more of his major life activities, or UPS 
+“regarded” him as disabled. For the foregoing reasons, Murphy 
+respectfully requests that this Court reverse the judgment of the Tenth 
+Circuit, and remand the case for further proceedings. 
+
+
+Respectfully submitted, 
+
+
+KIRK W. LOWRY 
+
+Counsel of Record 
+
+PALMER, LOWRY 
+LEATHERMAN & WHITE LLP 
+112 West Sixth, Suite 102 
+Topeka, Kansas 66603 
+
+(785) 233-1836 
+
+
+STEPHEN R. McALLISTER 
+University of Kansas 
+
+School of Law 
+Green Hall 
+Lawrence, Kansas 66045 
+(785) 864-4550 
+
+
+Attorneys for Petitioner 
+
+

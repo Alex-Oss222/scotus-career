@@ -1,0 +1,14 @@
+[
+  {
+    "path": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/olmstead_docket_raw.pdf",
+    "source": "https://archive.org/download/micro_IA40385014_0236/micro_IA40385014_0236%2001.%20Docket.pdf",
+    "bytes": 358001,
+    "sha256": "fea805fe6eb4f86622381bec447c723cca7615f0c2ee42934ae79871224b34fa"
+  },
+  {
+    "path": "/workspace/scotus-career-ot1998-chunk10/terms/OT1998/sources/chunk11-root-scope/olmstead_docket_raw.txt",
+    "source": "https://archive.org/download/micro_IA40385014_0236/micro_IA40385014_0236%2001.%20Docket_djvu.txt",
+    "bytes": 3711,
+    "sha256": "584528f9b9503680e31d80df7eaa5f3ef16ba0555416cbda12348bf23549b544"
+  }
+]

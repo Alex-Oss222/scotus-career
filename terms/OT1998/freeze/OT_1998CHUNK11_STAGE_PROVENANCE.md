@@ -1,0 +1,43 @@
+# OT1998 Chunk 11 — stage and source provenance
+
+This operator receipt describes actual boundaries and repairs. It supplies no judicial position or legal authority. The approved brief and all earlier canonical adjudications remain unchanged.
+
+## Scope and authorization
+
+The eight scheduled merits matters are Albertson’s, Kolstad, Murphy and Olmstead on June 22, followed by Alden, College Savings Bank, Florida Prepaid and Ortiz on June 23. The two date groups use their respective common entering-law baselines. Sutton, completed in Chunk 10 on June 22, supplies no retroactive peer law to the June 22 matters. The June 23 screen includes every completed June 22 holding. Germany’s original leave remains under consideration; thirteen undated carryovers remain open. No term-close action is authorized or performed.
+
+The user’s current delegation authorizes selection of the most progressive legally supported position for a genuinely unresolved Stone component, without routine vote-selection questions. Explicit case-specific approved commitments remain binding. This delegation concerns Stone alone and does not determine another Justice’s position. Its one identified June 22 use concerns Olmstead’s plan-and-queue illustration: relevant evidence does not itself discharge the State’s fundamental-alteration showing. The Record distinguishes that delegated choice from prior specific approval. Personal circumstances are excluded from repository provenance.
+
+The final June 23 Records identify the actual additional delegated selections. College Savings supplies Stone’s fair-inclusion explanation for the preserved federal immunity claim and his federal-question/diversity account for the interstate plaintiff. Florida Prepaid preserves his expressly approved Patent Clause ground and §5 nonreliance, while declining the otherwise-open commercial-consent alternative. A proposed affirmative consent choice was withdrawn before finalization because no supported distinction reconciled it with an explicit approved Stone commitment in the related matter; that compatibility constraint supplied no new Associate position or peer law. Ortiz adopts the supported antecedent nonmerits certification sequence and leaves the separate Rudd approval unreviewed. Alden required no new substantive delegated choice. Each Record distinguishes newly selected treatment from prior specific approval; none alters another Justice’s frozen position.
+
+All eight independent commitments and all eight separate reconciliations are released in their constituent freezes. The mechanically assembled commitment and reconciliation indexes preserve those exact identities. All eight final Records passed their scoped precommitment checks and retain the exact bytes originally released by their assembly workers.
+
+## Physical separation and repaired source exposure
+
+Section-homogeneous runtime splits were regenerated mechanically from the unchanged approved brief. Initial preflight contexts encountered matter-specific material excluded from neutral preparation. Those contexts stopped their affected work before independent commitments. Controller receipts preserve the incidents; they are not neutral modeling inputs.
+
+Alden’s approved neutral text contained one sentence describing the approved result. Only that sentence was withheld from a derived sanitized neutral copy; the brief and canonical split were preserved. Albertson’s modern lower-opinion page carried a target-case citation banner; a clean article-only source was supplied. Ortiz’s later lower opinion recited a post-divergence Supreme Court procedural action; the affected paragraphs were withheld while the earlier full lower opinion and objective lower-court record remained available. Murphy, Kolstad and Olmstead source materials contained target petition-treatment information. Clean excerpts withheld that information, while independently verified docket-scope certificates supplied only supported procedural facts.
+
+Fresh scoped neutral validators checked the sanitized packets and their entering-law framing. Fresh independent modelers received those validated materials, never the target historical comparator or Stone position. No affected exposed-context commitment was reused. General model knowledge cannot be erased; physical separation concerns supplied context and file access. The receipt does not claim perfect initial blindness.
+
+Historical reconciliation received the frozen independent commitments, neutral materials and verified target historical writings, but no Stone supplement. Each reconciliation separately tests whether an actual changed premise supports a material departure. Assembly receives Stone only after the affected reconciliation is frozen. Final compatibility, remedy, proposition-level joins and fresh opinion-assignment recounts are recorded case by case.
+
+## Objective source corrections and dated law
+
+Root supplied archived docket certificates for the two intellectual-property matters, Olmstead and Murphy. Olmstead’s operative grant was amended to Question 1; Murphy’s grant was limited to Questions 1 and 4. The intellectual-property docket grants contain no express limiting language, but do not themselves establish the petition questions or preservation. Actual argument dates are verified. Counsel participation is not a Justice-participation roster.
+
+The recovered canonical Hilton public output was missing from the local snapshot, not absent from the repository’s precedent. Official complete Union Gas and Welch writings support a clean prior-authority addendum. The neutral addendum distinguishes constitutional rationale votes, the rejection of a United-States-suits-only reading, actual waiver and conditional commercial consent. No assumed corporate citizenship or invented Justice join fills a gap.
+
+Kolstad’s statutory addendum supplies the exact disability-accommodation good-faith clause without converting it automatically into a Title VII punitive-attribution rule. Its preexisting agency text retains all alternatives and expressly identifies the limits of the surviving source support. Olmstead’s clean prior-law addendum supplies the exact earlier O’Connor and Oncale holdings without treating analogy as an automatic Title II result. Ortiz’s unavailable Rule 23 web retrieval is not authority and does not establish litigant default.
+
+June 23 core work proceeded provisionally under Engine §3G while June 22 Records were being completed. No provisional core was treated as the final freeze. The fresh final neutral screen supplied all completed June 22 public law and identified the necessary scope comparisons before final commitments and reconciliation. No June 23 peer decision supplies law to another uncoordinated June 23 matter.
+
+## Presentation and publication boundary
+
+An isolated renderer received the tool-generated four-event June 22 Render Input and only the Render Contract and the three authorized AGENTS presentation sections. The initial four entries were released for later integration, not announced as completion of the full eight-event Render. Final presentation used the complete tool-generated Render Input and preserved all four completed entry hashes; no fidelity correction was needed.
+
+The first presentation-fidelity worker delegated Murphy and Olmstead through a default full-history fork rather than the required explicit fresh fork. The inherited context contained only authorized public presentation material, and no private exposure or content discrepancy was reported. The controller replaced only those two checks with a fresh gpt-6-astra, ultra, fork-none worker; its scoped receipt records a pass without changing any Record, Render Input or public output. The other two completed checks remain in force. This was a targeted configuration repair, not a repeated substantive audit.
+
+No Git command or Git metadata access is used. The local adapter reports its inherited commit-existence deferrals transparently; the existing SHA-only GitHub API receipt supplies the six verified references. Root owns remote publication. A local final release does not itself claim a remote commit.
+
+Opening snapshots and scoped source excerpts preserve their original bytes. Relative links copied into a different directory retain only their explicitly verified originating context for dependency checks; the publication report separately discloses each relocated target. This does not invent replacement source files or rewrite frozen substantive inputs. Operative Records, workspace projections, Render Input and output are checked at their actual locations.

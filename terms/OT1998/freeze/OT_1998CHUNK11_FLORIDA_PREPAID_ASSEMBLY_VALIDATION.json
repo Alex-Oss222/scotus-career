@@ -1,0 +1,163 @@
+{
+  "case": "Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank",
+  "docket": "98-531",
+  "event_date": "1999-06-23",
+  "status": "FINAL; required bounded assembly checks completed; no unresolved blocker",
+  "record": "records/florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
+  "record_bytes": 53632,
+  "record_sha256": "72ac0b15706c483a42d9c2d83356318d2d5c69ca354e64b8ed15f2e2818b810f",
+  "recount": "freeze/OT_1998CHUNK11_FLORIDA_PREPAID_RECOUNT.json",
+  "recount_sha256": "ea21ba70d9d3ab2c0e002b74dfbc7e8f3ccfffdfa0a2ac2c7f419dee5502be31",
+  "fresh_counts": {
+    "Stone-Zsela": 13,
+    "Stevens": 12,
+    "O'Connor": 14,
+    "Scalia": 12,
+    "Kennedy": 14,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 13
+  },
+  "last_counted": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
+  "counted_opinions_before_assignment": 116,
+  "form_determined_before_counts": "Signed opinion announcing judgment; unanimous common Part I, four-Justice affirmative §5 Part II, four-Justice independent consent Part III; no majority amenability rationale.",
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "eligible": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "minimum_eligible_count": 12,
+    "author": "Stevens",
+    "basis": "Settled common grounds; fit with precise property/constitutional-deprivation/prevention/consent separation; equally supported full-framework fit and lowest eligible count. No expansion or divided authorship needed."
+  },
+  "judgment": {
+    "disposition": "Affirm immunity denial and return for ordinary patent proceedings",
+    "support": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "oppose": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "opposition_disposition": "Limited vacatur/remand for preserved actual-submission and other properly available current-law grounds, not unconditional dismissal"
+  },
+  "opinion_joins": {
+    "Part I": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Parts II and III": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Stone concurrence": [
+      "Stone-Zsela"
+    ],
+    "Kennedy dissent": [
+      "Kennedy",
+      "O'Connor",
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "delegated_choice": "Stone does not reach commercial-condition consent because his fixed independent Patent Clause ground suffices. Provisional affirmative join withdrawn after controller-conveyed consistency constraint; no negative Florida vote inferred.",
+  "deterministic_checks": {
+    "four_exact_opening_labels": "passed",
+    "eleven_public_blocks_in_order": "passed",
+    "one_public_projection": "passed",
+    "nine_distinct_matrix_rows": "passed",
+    "five_four_judgment_arithmetic": "passed",
+    "lead_and_separate_author_table": "passed",
+    "frozen_reconciliation_identity": "passed",
+    "scoped_stone_identity": "passed",
+    "College_predecessor_identity": "passed",
+    "fresh_pool_arithmetic": "passed",
+    "four_named_historical_departure_lines": "passed",
+    "public_workflow_token_screen": "passed",
+    "ordinary_explanation_word_counts": [
+      112,
+      107,
+      127
+    ],
+    "ordinary_350_word_ceiling": "passed",
+    "bounded_internal_artifact_references": "passed"
+  },
+  "substantive_checks": [
+    {
+      "check": "Chronology, reachability and lawful channel",
+      "result": "passed",
+      "basis": "April20 argument; June23 decision after completed June22 baseline; no same-day peer merits law; §1254(1), collateral-order immunity appeal, §1295 route; preserved respondent alternatives with actual grant limits."
+    },
+    {
+      "check": "Participation and vote threshold",
+      "result": "passed",
+      "basis": "Nine seated at argument and decision; no established recusal; quorum six and judgment threshold five."
+    },
+    {
+      "check": "Stone fixed core and exact joins",
+      "result": "passed",
+      "basis": "Affirmance, explicit Patent Clause extension, valid enumerated-power obligation/clear-remedy limit, §5 nonreliance, no merits/award; delegated consent nonreach does not contradict an explicit commitment or create a negative-fit join."
+    },
+    {
+      "check": "Frozen Associate fidelity and departures",
+      "result": "passed",
+      "basis": "Four affirmative §5/consent positions and four negative positions retained exactly; limited vacatur uses retained-law/respondent premise rather than old waiver facts; no changed Associate commitment or conditional Article I activation."
+    },
+    {
+      "check": "Authority and Marks",
+      "result": "passed",
+      "basis": "Nine common statutory/property/scope propositions; four affirmative §5, four affirmative consent, one actual Patent Clause ground; different predicates supply no logical-subset rationale adopted by majority."
+    },
+    {
+      "check": "Remedy and scope",
+      "result": "passed",
+      "basis": "Five affirm immunity denial and allow ordinary patent proceedings; four distinct limited vacatur positions; no dismissal, merits finding, specific award, new proof command, exhaustion, or officer conversion."
+    },
+    {
+      "check": "Culpability and §5 precision",
+      "result": "passed",
+      "basis": "Daniels patent-transfer reservation preserved; Stone nonreliance not negative fit; no automatic willfulness exception, no inferred adequate Florida remedy, no wholesale eight/nine-Justice patent-negligence rule."
+    },
+    {
+      "check": "Sources and date eligibility",
+      "result": "passed",
+      "basis": "Authorized neutral/reconciled/scoped Stone and linked public law only; final reconciliation controls source corrections and historical mandate; no future merits doctrine or new factual premise."
+    },
+    {
+      "check": "Public legal substance and continuity",
+      "result": "passed",
+      "basis": "All controlling rules, authority, explanations, precedent treatment, resulting law, selected plurality/concurrence/dissent grounds, limits and final stage preserved in eleven public blocks; private assignment/delegation/history confined to annex."
+    }
+  ],
+  "not_performed": [
+    "No repository-wide check_term run because current instruction forbids Git/broad duplicate audit; its relevant opening-label/public-block/interface checks were performed locally.",
+    "No workspace, ledger, manifest, Render Input or output integration; reserved to controller."
+  ],
+  "remaining_blockers": [],
+  "scope": "No Git operation, prohibited-directory access, other-case private-file read, same-day peer-law import, or post-final extra review. Only authorized current-term artifacts written."
+}

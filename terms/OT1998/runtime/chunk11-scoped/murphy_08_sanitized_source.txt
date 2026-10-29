@@ -1,0 +1,2899 @@
+SOURCE: Predecision party filing. Mechanical extract excludes paragraphs potentially stating target Supreme Court petition treatment. Party assertions remain assertions; post-divergence authorities require reconciliation with governing simulated public law.
+
+Bupreme Court, Us. | 
+2) FILED 
+JS MAR 24 1999 
+pemne Of we cLERK | 
+No. 97-1992 
+IN THE 
+
+Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+VAUGHN MURPHY, 
+Petitioner, 
+v. 
+
+UNITED PARCEL SERVICE, INC., 
+Respondent. 
+
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Tenth Circuit 
+
+BRIEF FOR RESPONDENT 
+
+Of Counsel: WILLIAM J. KILBERG 
+BRIAN J. FINUCANE Counsel of Record 
+JAMES R. HOLLAND, II THOMAS G. HUNGAR 
+BIOFF SINGER AND Ross E. DAVIES 
+FINUCANE, LLP GIBSON, DUNN & CRUTCHER LLP 
+104 West Ninth Street 1050 Connecticut Avenue, N.W. 
+Suite 400 Washington, D.C. 20036 
+Kansas City, Missouri 64105 (202) 955-8500 
+(816) 842-8770 
+
+Counsel for Respondent 
+
+a 
+
+i 
+
+RULE 29.6 STATEMENT 
+
+Respondent’s parent corporation is United Parcel Service 
+of America, Inc. Respondent has no non-wholly owned sub- 
+sidiaries. 
+
+il 
+
+TABLE OF CONTENTS 
+RULE 29.6 STATEMENT .........:--csssssssssssseessersnenssersnsenssonsensnes i 
+TABLE OF AUTHORITIES. .......:ccccsceesesssessssneseesnecsenensnesnnes iv 
+STATEMENT. ...0:-ccecsscocrcesssesenssvssossosssososssscasssssenssssssneneseeaneets l 
+Factual Backgrounnd.............s:cssssesseeseesssesssnnssnenesesseranseneens 1 
+Proceedings Below ........ssssss-rsssssesseeensssnsnsnsensnsnsnsnssnnsnseens 3 
+SUMMARY OF ARGUMENT......::cccseeseseeseesessensnanensnennennes 4 
+ARGUMENT. .....0:-::ccsocescoscsrsscsscsssesssosonsensenesssonensssesosonoessssnses 7 
+
+I. INDIVIDUAL ADJUSTMENTS AND AMELIO- 
+RATIONS CANNOT BE IGNORED IN DETER- 
+MINING WHETHER AN IMPAIRMENT “SUB- 
+STANTIALLY LIMITS” AN INDIVIDUAL’S 
+
+A. The Plain Meaning Of The Statutory Text 
+Compels Consideration Of Ameliorating Fac- 
+tors In The “Disability” Amalysis.............:scssereeereees 8 
+
+1. The Statutory Text Requires Consideration 
+of Ameliorating Facto9s ...........:secssssereeeseeseeneeeenees 8 
+
+2. Structure and Context Confirm the Correct- 
+ness of the Plain-Meaning Interpretation..........--.-. 12 
+
+3. Petitioner’s Interpretation Would Lead to 
+Absurd and Unworkable Resullts...........-...00ssss+++e9 15 
+
+4. The Plain-Meaning Interpretation Comports 
+with the Policy of the ADA ..........:sssesssssesnseennnnnens 18 
+
+B. The Historical Understanding Of The Rehabili- 
+Plain-Meaning Interpretation .................cceccccececeeeeseoes 25 
+1. Judicial Interpretations of the Rehabilitation 
+er cee 25 
+2. Administrative Interpretations of the Reha- 
+bilitation Act Prior to the ADA .o..........ccccccccccccceeee 28 
+C. The ADA’s Legislative History Does Not Sup- 
+port Petitioner’s Interpretation Of Prong One............ 30 
+D. The EEOC’s Interpretation Is Not Entitled To 
+EE NEE ESM Se WME 34 
+Il. PETITIONER WAS NOT “REGARDED AS” 
+RG a SS 42 
+A. Petitioner Was Not “Regarded As” Substan- 
+tially Limited In The Major Life Activity Of 
+ESL SE a 43 
+B. The Court Of Appeals Correctly Held That Pe- 
+titioner Failed To Satisfy DOT Requirements............ 48 
+EEL EEE EE 50 
+EEE ESS la 
+
+iv 
+
+TABLE OF AUTHORITIES 
+CASES Page(s) 
+Adams Fruit Co. v. Barrett, 494 U.S. 638 
+(1DDO) a.eceocoeesecectsnssentecccesssccresnsntonsessonoascssoonsosscseneseseresse 37 
+Akers v. Bolton, 531 F. Supp. 300 (D. Kan. 
+
+ADB) cecsceseoesessscunsccecnsnssonenesnsennnnthsnintuisscsneunscsnemmntnescstones 27 
+Arnold v. United Parcel Service, Inc., 136 F.3d 
+
+BS4 (Rat Cie. 19DG) .2...2.0ccccecsccecssccecerscesccsnvescsssscsssrsncenenes 11 
+Auer v. Robbins, 519 U.S. 452 (1997) ....ccccccecseeeeeeeeeennee 36,37 
+Baert v. Euclid Beverage, Lid., 149 F.3d 626 
+
+(7th Cir. 1998) ...........-- caatenmpestniimalicenbibsibttinrsilindl 11 
+Bates v. United States, 11.8 S. Ct. 285 (1997) .....cccccceceeevees 11 
+Batterton v. Francis. 432 U.S. 416 (1977) ...c.ccceceeeseenees 35,36 
+Bentivegna v. U.S. Dep't of Labor, 694 F.2d 619 
+
+(Dia Cle. 197.2) ...200000000s0csrsccrccenseseccsnessoscosenoesensesecssosoneess 27 
+Bowen v. Am-rican Hosp. Ass'n, 476 U.S. 610 
+
+(1DBG)  ...ecerccsrseoesessescseesssvesensnsesesosecssnbossesssscsssscosnsscrenense 37 
+Bowen v. Georgetown Univ. Hosp., 488 U.S. 
+
+2O4 (1DBB)  -xecccsncecessceesccectonseninosinrsscapnccsssastoassessasonsneuseees 37 
+Bragr on v. Abbott, 118 S. Ct. 2196 
+
+€ GOED ceccsnserecerscistnnsiinintnnisinntnanitamaeiinnies 7,8,25,27,37,38 
+Br dges v. City of Bossier, 92 F.3d 329 (Sth Cir. 
+
+1996), cert. denied, 519 U.S. 1093 (1997) ...........0-+ 20,47 
+Brown v. Gardner, 513 U.S. 115 (1994) ....-....cccccceeseeeeeeeees 34 
+Brown v. North Carolina Div. of Motor Vehi- 
+
+cles, 166 F.3d 698 (4th Cir. 1999) ..........cccccereceeseeseenneees 13 
+Chandler v. City of Dallas, 2 F.3d 1385 (Sth Cir. 
+
+DDBB) oseccnccccesosossesesseersencsceesoonsnsieeenqatasonsoussneveasensoreseesecues 26 
+
+Chevron U.S.A. Inc. v. NRDC, Inc., 467 U.S. 
+
+REE RRR SEE ERE 34 
+
+v 
+Chrysler Corp. v. Brown, 441 U.S. 281 
+
+(1979) 2S EE eS a 36 
+Collier v. City of Dallas, No. 86-1010 (5th 
+
+REET 26 
+Coolbaugh v. Louisiana, 136 F.3d 430 (Sth 
+
+Cir.), cert. denied, 119 S. Ct. 58 (1998) o....ccccccccccccecesene 13 
+Daley v. Koch, 892 F.2d 212 (2d Cir. 1989) .......cccccccccseseees 44 
+Davis v. Meese, 692 F. Supp. 505 (E.D. Pa. 
+
+1988), aff'd, 865 F.2d 592 (3d Cir. 1989) oo... ccccccceecee. 27 
+Davis v. Michigan Dep't of Treasury, 489 U.S. 
+
+ne hhatleat aeenictne yA i 30 
+de la Torres v. Bolger, 610 F. Supp. 593 (N.D. 
+
+Tex. 1985), aff'd on other grounds, 781 F.2d 
+
+ON Ge li ae 45 
+Drennon v. Philadelphia Gen. Hosp., 428 F. 
+
+REESE 27 
+EEOC v. Arabian American Oil Co., 499 U.S. 
+
+RSE Fes aS Te Eee nee eee 34,38 
+Fallacaro v. Richardson, 965 F. Supp. 87 
+
+REET CS. TERR We ee me 28 
+Foreman v. Babcock & Wilcox Co., 117 F.3d 
+
+Le RRS SCTE BS oie Oe ev eee OL 45 
+Forrisi v. Bowen, 794 F.2d 931 (4th Cir. 
+
+SUITE secampethetdecs pinta aaa ibschadiniisimisiciabooents 21,44,45 
+General Electric Co. v. Gilbert, 429 U.S. 125 
+
+5 RRS Te Ss aad 0 Ae SET LR a ee Re 34 
+Gilday v. Mecosta County, 124 F.3d 760 
+
+EE Cc eee a ee 41 
+Gollust v. Mendell, 501 U.S. 115 (1991) ......cccccccccccceeceeeeeeee 13 
+Good Samaritan Hosp. v. Shalala, 508 U.S. 402 
+
+SEP assed dinndanetneabdaasdisienteenesiahddeptatinthaeneniencassontonsmennece 39 
+
+vi 
+
+Gordon v. E.L. Hamm & Assocs., Inc., 100 F.3d 
+907 (11th Cir. 1996), cert. denied, 118 S. Ct. 
+
+Ra See 44,45 
+Harris v. H & W Contracting Co., 102 F.3d 516 
+
+Ch Ss Gat, Be ceanttatsetenrencensiiecitnsecnacanh 11 
+Kienast v. Frank, No. 05900123, 1990 WL 
+
+met ft Ee 28 
+Kohl v. Woodhaven Learning Ctr., 865 F.2d 930 
+
+GBs Cie.. FER i atciecniantbanaentnaitcimtcnttatcanmpmceinin 27 
+Liff v. Secretary of Transp., 1994 WL 579912 
+
+(D.D.C. Sept. 22, 1994), adopted, 1995 WL 
+
+SOD Goce WUD: Bs HITED ctentpattansttenstenccecscsserensenee 28 
+Longoria v. Harris, 554 F. Supp. 102 (S.D. Tex. 
+
+SOCED ....cxccsccsectesivaesscctnntadnmammmaaaimeneads 26,27 
+Lorillard v. Pons, 434 U.S. 575 (1978) ...cccccccceceeeceeeeeersnennes 25 
+Mantolete v. Bolger, 767 F.2d 1416 (9th Cir. 
+
+FOOD ainnccoiciggspeiihainimnisigphepeninaatieienttiaiiatiiaataeieia nasal 27 
+Martin v. OSHRC, 499 U.S. 144 (1991) .occccccccecceeeeeeeeee 36,37 
+McKay v. Toyota Motor Mfg., U.S.A., Inc., 110 
+
+Ab fl eee se 20,47 
+McLeod v. City of Detroit, 1985 U.S. Dist. 
+
+LEXIS 16613 (E.D. Mich. 1985) 2..........:ccccccccsceseeeneenees 45 
+
+Miller v. AT&T Network Sys., 722 F. Supp. 633 
+(D. Or. 1989), aff'd and adopted, 915 F.2d 
+
+ee” pe licen he 45 
+Mount v. Widnall, No. 01923213, 1994 WL 
+
+739760 (EEOC May 26, 1994) ......cccccccccccssscsssssvecssennnees 41 
+NCUA v. First Nat’l Bank & Trust Co., 118 S. 
+
+3 CI OR 41 
+Padilla v. City of Topeka, 708 F.2d 543 (Kan. 
+
+FD neuen tiie ee ait melon ages 25-26 
+
+Patterson v. Chicago Ass'n For Retarded Citi- 
+
+zens, 150 F.3d 719 (7th Cir. 1998) o0..000..ceccceceseeeees 45,47 
+Pineiro v. Lehman, 653 F. Supp. 483 (D.P.R. 
+
+RRR RRR eee aR ARNIS |) CI Fal 26 
+Public Citizen v. U. S. Dep't of Justice, 491 U.S. 
+
+FERRER ER aS PRR en a na Lo 37 
+Reeves v. Johnson Controls World Servs., 140 
+
+I stems 20 
+Reynolds v. Brock, 815 F.2d 571 (9th Cir. 1987) ................ 26 
+Rodriguez v. United States, 480 U.S. 522 
+
+(1987) TREES «SEY ae 22 
+
+Secretary, U.S. Dep't of Housing & Urb. Dev. v. 
+Jankowski Lee & Assocs., 1995 WL 399384 
+
+es ED deetintntncinthtisieceniccenternseatinnteiibenviaerscscten 23-24 
+School Board of Nassau County v. Arline, 480 
+
+Sh Aaa EOE actenehscctiibichlchbcadetintadiiinlanddeticecsnsccisse 19,50 
+Shalala v. Guernsey Mem. Hosp., 514 U.S. 87 
+
+I cthcnccensstnsalbadebcedtiesdatibhsenectsletiidphincbiecbccteesaiaton 35,36 
+Sharon v. Larson, 650 F. Supp. 1396 (E.D. Pa. 
+
+STEED dishichcadiclaicihesinesbtinsineeivecapitaipusatinestiareumcmeneti 27 
+Skidmore v. Swift & Co., 323 U.S. 134 (1944) ....cccccccceceeeeee 35 
+Smith v. United States, 508 U.S. 223 (1993) .......ccccccceeceeeees 12 
+Strathie v. Department of Transp., 716 F.2d 227 
+
+SEI: SETI acmnstid acdenaiahdinvecstiaeatendiidenipiiaebatesurescenegaps 26,27 
+
+Sutton v. United Air Lines, Inc., 130 F.3d 893 
+(10th Cir. 1997), cert. granted, No. 97-1943 
+
+ar 3 
+Thomas Jefferson Univ. v. Shalala, 512 U.S. 504 
+EE ee ee 36,37 
+
+Thompson v. Holy Family Hosp., 121 F.3d 537 
+PU Sa, FTP ctccsesccinenstnetscnsemintincilntibietatninstncseevsitestees 47 
+
+Vili 
+Trembczsynski v. City of Calumet City, 1987 
+
+WL 16604 (N.D. IIL. Aug. 31, 1987) .....cccccccccccseeseereeees 25 
+United States v. Ron Pair Enters., Inc., 489 U.S. 
+
+FDS CRGGDD ccchisinssiissersintictatennctinansnicttisseatintveenerstanttibeese 9 
+United States v. Wilson, 503 U.S. 329 (1992) ....ccccccceoceereees 10 
+Welsh v. City of Tulsa, 977 F.2d 1415 (10th Cir. 
+
+IDE) nccoccssitnicsnsistiitinncsasbeinssecsbisssiehieiticilahidimeints 20,47 
+West Virginia Univ. Hosps., Inc. v. Casey, 499 
+
+ULB. BB CIGD ED cascchasitisceccesecccibsodshstedslacalidiidesvtecnsccsusbasivtt 22 
+Witter v. Delta Air Lines, Inc., 138 F.3d 1366 
+
+CRE Cie, SID ccocsccccrccsnsesmrrcasesivsanserssccocssnesesintebtioctedes 47 
+STATUTES AND REGULATIONS 
+2D UBL. 6 TBD cccssstccncesestticnasetantsninnrancesetnishicicsnatassitiinnes 29 
+
+Americans with Disabilities Act of 1990, 
+Pub. L. No. 101-336, 104 Stat. 327 et seq. 
+
+codified at 42 U.S.C. §§ 12101 et $€q. ceccccccccessessseesees 3,37 
+G2 UBL. 6 PRION) iaicicstlcieciisreneceesiecineenisstlt 13,la 
+42 U.S.C. § 12101(8)(7) ccsssecssscessssvsceesseeeceseseeee 4,12,18,20,1a 
+42 U.S.C. © ZUOUDNT) csecescncccccnscccsanssccservssssssssssssses 5,18,1a 
+22sec 1 eee es 5,18,1a 
+USL. bic cccina cee 13 
+43 01.9.6. OT cacti ane 32,la 
+48 CG 0 Citic inten sees 31,2a 
+42 U.S.C. § 12102(2)A) ovveccsessssessseeeseereeee 4,7,8,15,42,44,2a 
+42 U.S.C. © 1BIQICINOID csancscasnseccsinecetiesrnincsssetssinsndlot 14,2a 
+42 U.S.C. § 12UODZMC) cacanncacrccccccccsesvovorsescesens 7,14,42,44,2a 
+C2 LB. ii lininlsiitictiaeenege 15,21,32,3a 
+4D UGC, OREO ine sciscnssserscenentsctielpticoidiiball 23,3a 
+
+42 U.S.C. § 121 12(DSMA) -.---cccceccerseeeeeneneens 10,15,20,32,3a 
+
+42 U.S.C. § 12112(d)(3)(BY(ii) sescecsssesoseseesesesesssssessssssecee 10,4a 
+RAEI A a sas gn 32 
+NE sis criceecctitr s 23,4a 
+Se Te ie cs 3 37,4a 
+42 U.S.C. § 12142(C)(2)(A)seovecsescssscsecessessessssssseseeseeessoses 10,5a 
+CE BT oe es ic 37,6a 
+QUGE 8 Rote oc i ee ie gE 10,6a 
+I TI i Bs Se en 37,6a 
+42 U.S.C. § 12162(€)(2)(B)(i) eoecevcvecsessssesesesseeeeeseesessossssssese 10 
+I Bei inc... ees 37,6a 
+LLL TES COE Te CEE 23,7a 
+42 U.S.C. § 12182(b)(2NAN Ii) coecececcsssosecsseesesecessescssssssssssee 32 
+42 U.S.C. § 12182(b) 2AM iii) .occececscserseesessecesssesssse 20,32,7a 
+42 U.S.C. § 12182(b)( 2A) IV) cercecccsesssoeseeeeeeersseeecessosese 20,7a 
+42 U.S.C. § 12182(b)2) AMV) esceevsccecsssssssssssssessseeeeeeecee 20,84 
+OUST oi 10,8a 
+| ea OR le kaa aN eI 9a 
+I 10,9a 
+Gussie... 37,9a 
+42 U.S.C. § 12186(a)(2)(A)i) ceceesevcevessevsesoreeoeeeeecescosessen 37,9a 
+42 U.S.C. § 12186(a)(2)(BYii) ...ccccococecsscsseeseesesssssssssses 37,10a 
+
+Pe eS aoe eee ee ae 37,10a 
+
+ne 13,10a 
+
+EE SE SO ERS elt 37,1la 
+
+i |e REY ar aaa naa 37 
+
+28 C.F.R. Pt. 35 App. A § 35.104 ..cccccccscssssssssssssssseesesseesseee 34 
+
+28 C.F.R. Pt. 36 App. B § 36.104 oo..ccccccsscsssssssssssssesseesosssese 34 
+
+x 
+2D CEB: OFBS wcccenscoenensctsintuissicctissiisiiltieabiitalaineddinniebas 27 
+SPF ee GG Pa bcd rvetiniensctitcrcseteviccibdtbbctiniesinceniaed 29 
+SP GE ee GF REED wicctvencesieneescencocesintlinteasivcthcoetedehien 39 
+y eee RE | | a eee Se 46 
+FO CF Re 5 UGB ecccescescesinicinstitwticnetinviecnalieinss 46 
+yee ee Eee 47 
+29 C.F.R. Pt. 1630 App. § 1630.2(j) (1998).........cccceee 34,39 
+29 C.F.R. Pt. 1630 App. § 1630.2(1) .........:cccccsesseeseeseeeseeees 39 
+45 CPR. Fe, GE Rime, A CD vceiescsttttath inintsdcsctiocedveadiciaats 29 
+GOCCP BR. § FOC ctrcscssscnssvtnicssomnennicnnnitilaieititacsedibinn 46 
+GOTT, § TOAD sectectinsccersitciunisicinantinnmdaccitiotislinapalilants 47 
+SO CTR, § TORR vccccternrciniithitvicaticcticialadivtinilsatsdiiiasa 1,2 
+ADCP Rie S FC cpciervtchictedhadiadichdubidatlecsnceibasvddhaian 48 
+4D Ci Bie 8 FORE detintitrrisivittithisbuintinan tibittedssdsitccedsbeie 49 
+DCF Bs BIA ae cccescevepssclitichinthcintilnbitilbiniagrecscnvosvsinit 50 
+MISCELLANEOUS 
+Ge FOR, Te CTD ccietiitthnnsithicheseksdiedindteticmnnnans 29 
+42 Fed. Reg. 22676 (1977) ........ Saschsinapniebciedasaiadeciiniitieditatidelea 29 
+4S FOB, FRE, GOD chceicsctanssccinncstestincitinicnbintationnessdes 29 
+SS POS. TRG CPR IOD sncctsnnccctsicissittnittiisatatcntienidiaadaidi 35 
+SS FOG, TRE, TTD cicensssctonnncenstinkicdsnocneteniinnibitiats 35,36 
+61 Fed. Reg. 28436 (1996) ............. hebuttiebibtebeeddnentbtabapelaiionl 40 
+GS FOG, TR, DU ee ecdetihcesnininicinenssstosiccansaiteatintaiientia 24 
+EEOC, Compliance Manual (1995) ..........cccccccecceeseeseeeees 40,41 
+
+EEOC, Enforcement Guidance: The ADA and 
+Psychiatric Disabilities, 2 Empl. Prac. Guide 
+(CCH) 4 5430 (Mar. 25, 1997) ........-sccsssessesseesseeresseesees 41 
+
+EEOC, Technical Assistance Manual on 
+
+pT es Oe OCS ON Terre Te 39 
+nr, i 13 
+H. Conf. Rep. No. 101-596 (1990) ......ccccccccccesecsceseeeseeereeees 31 
+H. Rep. No. 101-485 (IT) (1990) ...........cccccccesssssesereeseeseencenees 33 
+S. 933, 101st Cong. § 3(2) (Aug. 30, 1989) ooo. ccccccccseeeee 31 
+S. Rep. No. 101-116 (1989) .........ccccccccescsscsssecceseeseees 30-31,32 
+AMERICAN MEDICAL ASSOCIATION, ESSENTIAL 
+
+GUIDE TO HYPERTENSION (1998) ........cccccccccsceessceecceeeeees 16 
+Brain plasticity brings about stroke recovery, 20 
+
+DIAG. IMAGING (Dec. 1, 1998) .......ccccccccceseeeseeeseeesees 17,21 
+D. Cumming & C. Cumming, Should your pa- 
+
+tient do with-or without-it? 38 CONSULTANT 
+
+EES EM 13,17 
+K. Davis & R. Pierce, Jr., ADMINISTRATIVE LAW 
+
+Be ccnctetitrtntiarnttnintencsccicsbeis 35,36 
+
+S. Erickson & T. Sevier, Osteoporosis in Active 
+Women: Prevention, Diagnosis, and Treat- 
+ment, 25 PHYSICIAN & SPORTSMEDICINE 61 
+
+pi slits Mehdi MN 2. RS MR 17,20 
+A. Frances et al., The Expert Consensus Guide- 
+
+lines for Treating Depression in Bipolar 
+
+Disorder, 59 J. CLINICAL PSYCH. 73 (Supp. 
+
+© eieantsdietlabanertaneneictantinembonseaitintrenmenssoczercennesceses 24 
+
+E. Harris, Controlled Impairments Under the 
+Americans With Disabilities Act: A Search 
+Sor the Meaning of “Disability,” 73 Wasu. 
+
+ic ls eT en ahi bic cahitinsed snintidbinedinnenitaenscecsteee 13,16 
+N. Holland et al., Multiple Sclerosis: A Guide 
+For The Newly Diagnosed (1996) ..........ccccccccccseeceeseeeeeee 23 
+
+R. Irwin et al., Psychosis following acute al- 
+teration of thyroid status, 31 AUST. N.Z. J. 
+I SE Narn ii chahdeenisiputetiistessccninusccesses 16 
+
+xii 
+
+J. Minami et al., Comparison of 24-hour Blood 
+Pressure, Heart Rate, and Autonomic Nerve 
+Activity in Hypertensive Patients Treated 
+With Cilnidipine or Nifedipine Retard, 32 J. 
+CARDIOVASCULAR PHARMACOLOGY 331 
+
+G. Parati et al., Clinical relevance to blood 
+pressure variability, 16 J. HYPERTENSION 
+
+SZ5 (Supp. 1998).....ccvesesecsesesesesesnsnennsnenencsneneneensensnnnnenes 18 
+J. Rumsey, The Biology of Development Dys- 
+lexia, 268 J.A.M.A. 912 (1992).....ccssesercererenrsnennersnnennnes 18 
+
+A. Silman, Problems Complicating the Genetic 
+Epidemiology of Rheumatoid Arthritis, 24 J. 
+
+RHEUMATOLOGY 194 (1997) .....cccccsseecseeerenerrenensnennnnnnnnns 24 
+Speech after stroke, MAYO CLINIC HEALTH 
+
+LETTER (August 1996)........-cscsvecsssesereesnnenensnsnnnnnnenes 17,19 
+SUP. CT. R. 14.108) ....scescsscscsscesressensensesenenesnnsnsnnsnenssnanensnnenes 42 
+
+P. Taxel, Osteoporosis: Detection, prevention, 
+and treatment in primary care, 53 
+
+GERIATRICS 22 (Aug. 1998). .......ccccereeeeereereneeennnnnens 17,20 
+B. Upbin & W. Giman, Rose-colored glasses, 
+FORBES (Dec. 4, 1995). ...c-cevcsesssnsnsesnsnsennseneseansnsnsnananenes 20 
+
+U.S. Dept. of Commerce, Bureau of Census, 
+Disability, Functional Limitation, and 
+Health Insurance Coverage: 1984/85, Series 
+
+P-70, No. 8 (1986). ......c:secessrceseseesnsssnennnsnensnnnansnansnananenes 13 
+J. Varian, The Need for Urgent Management, 99 
+POST GRAD. MED. 189 (1996) ....-.c-:ccecseeseesenenersnenrnnnnnnens 12 
+
+J. Walsh, Psychopharmacological treatment of 
+bipolar disorder, 8 RESEARCH ON SOC. 
+WORK PRAC. 406 (1998) ...ccccccccceesserseeennennsnenenensenennnennes 19 
+
+WEBSTER’S THIRD INT’L DICTIONARY (1976). ...--0-c-rsereeeneees 10 
+
+STATEMENT 
+
+Factual Background 
+
+_ Petitioner has hypertension that he controls with medica- 
+tion. Pet. App. 2a, 13a. His medical condition has no sig- 
+nificant effect on his daily activities, he “functions normally 
+doing everyday activity that an everyday person does.” Pet. 
+App. 4a; J.A. 63a, 108a. His only hypertension-related 
+physical restriction is that he should not repetitively lift 200 
+ee arias aati Petitioner is able to work in 
+a wide range of j is hypertension does not generall 
+“alt bic hii we Gud tx etdia Yikes ts the tae babe 
+market.” J.A. 112a, 1 14a. He has worked as a mechanic for 
+22 years without experiencing any limitations due to his hy- 
+pertension, other than his self-imposed habits of using levers 
+to life heavy objects, not running to answer the telephone, 
+and not working over his head. Pet. App. 13a; J.A. 52a. 
+
+In August 1994, petitioner applied to respondent United 
+Parcel Service, Inc. (“UPS”) for a position as a mechanic in 
+UPS’s Manhattan or Topeka, Kansas, facilities. UPS me- 
+chanics at those facilities must drive commercial vehicles on 
+a regular basis in order to perform “road tests” (i.e., driving 
+tests of vehicles that have been or need to be repaired) and 
+“road calls” (i.e., driving a v icle to the location of a bro- 
+ken-down vehicle, fixing the latter vehicle, and driving it 
+back to the facility). Pet. App. 2a, 14a; J.A. 95a-96a. Be- 
+cause UPS tractor-trailer trucks and package “cars” weigh 
+between 12,000 and 55,000 pounds, a valid Department of 
+Transportation (“DOT”) health card is required in order to 
+perform road tests and road calls. Id.; 49 C.F.R. § 391.41(a). . 
+“Meeting DOT requirements is listed as [an] essential func- 
+tion of the job.” J.A. 120a. 
+
+UPS conditionally hired petitioner as a mechanic, and re- 
+quired him to undergo a physical examination to determine 
+whether he could obtain a valid DOT health card. Peti- 
+tioner’s blood pressure reading in this examination was 
+186/124, well in excess of the upper limit established by the 
+applicable DOT criteria, which provide that where an indi- 
+
+2 
+
+vidual’s “[i}nitial blood pressure [is] greater than 180 systolic 
+and/or greater than 104 diastolic,” “/t/he driver may not be 
+qualified, even temporarily, until his or her blood pressure 
+has been reduced to less than 181/105.” J.A. 99a (emphasis 
+in original); see C.A. App. 85 (same). The nurse who exam- 
+ined petitioner had never previously examined a UPS me- 
+chanic, however, and was unaware that UPS requires its me- 
+chanics to drive commercial vehicles. J.A. 74a, 84a, 93a. As 
+a result, the nurse erroneously issued petitioner a DOT health 
+card. /d.; J.A. 106a-107a; Pet. App. 16a. 
+
+Petitioner worked for UPS on the night shift in its Topeka 
+facility, where his work included performing road calls on 
+tractor-trailer trucks and road tests on package cars. At times 
+during his shift, petitioner was the only mechanic on duty, 
+arid was therefore the only mechanic available to perform 
+road tests and road calls. Pet. App. 14a-15a; J.A. 47a. 
+
+Shortly after petitioner commenced work, a UPS nurse 
+discovered that petitioner’s blood pressure reading exceeded 
+the DOT standard and that his DOT health card had been is- 
+sued in error. J.A. 84a, 93a; Pet. App. 16a. Petitioner was 
+retested by another medical examiner, but his blood pressure 
+was still in excess of 160/90. Jd. at 16a-17a. DOT guidelines 
+provide that a driver whose blood pressure is less than 
+181/105 but greater than 160/90 may, in the discretion of the 
+certifying physician, be given a temporary 3-month DOT 
+certificate to allow time for the driver to reduce his or her 
+blood pressure below 160/90. J.A. 98a-99a. There is no evi- 
+dence that the examiner who performed petitioner’s second 
+examination issued such a temporary certificate. 
+
+After learning the results of petitioner’s second examina- 
+tion, UPS discharged him because he “did not meet the re- 
+quirements of the Department of Transportation.” J.A. 103a; 
+see Pet. App. 5a, 32a; J.A. 85a-88a, 103a-105a.! Petitioner 
+
+1 Petitioner errs in contending (Pet. Br. 7) that Monica Sloan, a 
+UPS nurse, “concluded that [petitioner] was not qualified to work 
+
+[Footnote continued on next page] 
+
+3 
+
+initially sought a waiver of the DOT requirements (J.A. 49a; 
+C.A. App. 109), but ultimately abandoned that request. J.A. 
+54a. He obtained another job as a mechanic within two to 
+three weeks. Pet. App. 17a. 
+
+Proceedings Below 
+
+The court of appeals affirmed. Pet. App. 1a-6a. Relying 
+on its recent decision in Sutton v. United Air Lines, Inc., 130 
+F.3d 893, 902 (10th Cir. 1997), cert. granted, No. 97-1943 
+(Jan. 8, 1999), the court held that the “disability” determina- 
+tion must ““‘take into consideration mitigating or corrective 
+measures utilized by the individual.’” Pet. App. 4a. The 
+court noted petitioner’s doctor’s testimony that “[petitioner] 
+‘functions normally doing everday activity that an everyday 
+
+[Footnote continued from previous page] 
+
+for UPS because his blood pressure exceeded 140/90 or 140/80.” 
+Ms. Sloan testified that UPS “ideally” prefers blood pressure of 
+140/90 for its drivers (J.A. 88a), but she also made clear that peti- 
+tioner was required to satisfy only the DOT standard of 160/90 in 
+order to work for UPS. J.A. 85a-87a. And in any event, the record 
+is clear that Ms. Sloan did not make the decision to terminate peti- 
+tioner’s employment. J.A. 84a, 103a. 
+
+4 
+
+person does,”” and concluded that his “high blood pressure 
+does not substantially limit a major life activity.” Jd. The 
+court also held that petitioner was not “regarded as” disabled, 
+rejecting his claim that UPS acted for “discriminatory and 
+stereotypical” reasons. /d. at Sa. Instead, the court ex- 
+plained, “UPS terminated [petitioner] because his blood pres- 
+sure exceeded the DOT’s requirements.” Jd. 
+
+SUMMARY OF ARGUMENT 
+
+I. The first prong of the ADA’s definition of “disability” 
+asks whether an impairment “substantially limits” the “major 
+life activities” of the impaired individual. 42 U.S.C. 
+§ 12102(2)(A). That statutory text requires a functional 
+analysis of the limitations actually imposed on the individ- 
+ual’s major life activities, and thus compels consideration of 
+any ameliorative measures or adjustments that in reality serve 
+to limit or control the real-world impact of the impairment. 
+Petitioner’s contrary interpretation, which seeks to ignore the 
+actual impact of his impairment in favor of its hypothetical 
+effects, is irreconcilable with the statutory text. Congress 
+mandated an inquiry into whether the impairment “substan- 
+tially limits” the individual’s activities, not whether the im- 
+pairment “would” or “might” substantially limit those activi- 
+ties in some hypothetical world. Petitioner’s attempt to re- 
+write the unambiguous statutory text should be rejected. 
+
+The ADA’s structure and design confirm this plain- 
+meaning interpretation of the statute. In its legislative find- 
+ings, Congress described “individuals with disabilities” as 
+persons whose impairments are “beyond the/ir] control.” 42 
+U.S.C. § 12101(a)(7) (emphasis added). Moreover, by man- 
+dating that the prong-one disability determination be made 
+“with respect to an individual” and by reference to the limi- 
+tations imposed on the “major life activities” of that individ- 
+ual, Congress made clear that the prong-one analysis looks to 
+the real-world limitations actually suffered by the individual. 
+The overall structure of the disability definition further bol- 
+sters this conclusion. Unlike prong one of the definition, 
+prongs two and three (which apply to individuals who have a 
+
+5 
+
+“record of” or are “regarded as” having a substantially limit- 
+ing impairment) expressly extend ADA coverage to specified 
+individuals whose impairments are not in reality substantially 
+limiting, demonstrating that Congress knew how to achieve 
+that result when it intended to do so. And Congress’s finding 
+that the ADA would protect “43 million” Americans reflects 
+a real-world, functional compere of disability; petitioner’s 
+contrary would yield a far larger ion of 
+theoretically “disabled” individuals. ag cam 
+Petitioner’s interpretation would also lead to absurd and 
+unworkable results. For example, petitioner's contention that 
+prong one precludes consideration of the effects of medica- 
+
+beneficial) effects of such measures, even when the treatment 
+for a tisabli tition itself ; , ‘al limi- 
+tations. Moreover, petitioner’s interpretation would impose 
+on employers the impossible burden of attempting to guess 
+whether an individual would be substantially limited if exist- 
+ing ameliorations were inquiry that in many in- 
+stances would be difficult or impossible to resolve short of 
+litigation, but that the employer would be required to under- 
+take on pain of substantial liability for an incorrect guess. 
+This result cannot be squared with Congress’s goal of provid- 
+ing “clear” and “consistent” standards in the ADA. 42 
+U.S.C. § 12101(b)(1) & (2). 
+
+i petitioner’s counter-textual reading of prong one, 
+the plain-meaning interpretation is entirely consistent with 
+the design and purpose of the ADA. Far from creating a 
+
+the same time avoiding creation of a privileged class of spe- 
+Indeed, it is petitioner’s interpretation that would create the 
+strange anomaly of treating individuals with controlled im- 
+pairments more favorably than their colleagues who are in 
+reality equally or less “able” but who cannot take medication 
+
+likelihood that accommodations requested by the truly dis- 
+abled will be deemed an undue hardship. 
+
+The pre-ADA understanding of the Rehabilitation Act is 
+consistent with the plain-meaning interpretation of prong 
+one. While the issue of ameliorative measures does not ap- 
+
+The legislative history of the ADA does not support peti- 
+tioner’s counter-textual reading of prong one. In the first 
+place, there is no need to consult legislative , because 
+prong one yields only one plausible interpretation. In any 
+event, the plain-meaning interpretation finds ample support 
+
+individual’s activities. Petitioner relies on short passages 
+from two of the four House Reports, but those passages are 
+contradicted by other portions of the House Reports, by the 
+Senate Report, and by the statutory text. 
+
+“mitigating measures.” Because that guidance is contrary to 
+the plain meaning of prong one, it must be rejected. Moreo- 
+ver, the guidance would not be entitled to deference even if 
+there were some lack of clarity in the statutory text. Asa 
+mere interpretive rule, the guidance receives only such judi- 
+
+7 
+
+7 senna edi a 
+US.C. § Ure Z2NA) & (C). | Contrary to petitioner's con- 
+
+| 
+| 
+: 
+
+t 
+i 
+; 
+| 
+Eg 
+cF 
+
+bSEELE 
+Rigcsk 
+: 
+¢ 
+: 
+: 
+: 
+
+aR 
+Hi 
+E 
+i 
+i; 
+
+! 
+: 
+: 
+
+In Bragdon v. Abbott, 118 S. Ct. 2196 (1998), this Court 
+found it unnecessary to consider the argument that the de- 
+termination of “disability” status under the ADA should be 
+“assessed without regard to available mitigating measures.” 
+
+Id. at 2206.2 This case presents that issue squarely, and UPS 
+submits that the proper resolution is clear: The plain mean- 
+ing of the statute requires a determination based on the real- 
+world impact of an impairment— including the effects of any 
+ameliorative measures or adjustments actually taken or made 
+by the impaired individual—and does not permit courts or 
+agencies to ignore reality in favor of speculative hypotheses 
+about what impact an impairment could or would have in a 
+different world. That plain-meaning interpretation is consis- 
+tent with the structure and purpose of the ADA and with the 
+preexisting administrative and judicial interpretation of the 
+relevant statutory language, and is not contradicted by the 
+legislative history of the Act. The counter-textual interpreta- 
+tion advanced by petitioner and the EEOC must be rejected. 
+
+A. The Plain Meaning Of The Statutory Text 
+Compels Consideration Of Ameliorating Fac- 
+tors In The “Disability” Analysis 
+1. The Statutory Text Requires Considera- 
+
+tion of Ameliorating Factors 
+
+The first prong of the ADA’s definition of disability states 
+
+that “[t}he term ‘disability’ means, with respect to an indi- 
+vidual, . . a physical or mental impairment that substantially 
+limits one or more of the major life activities of such individ- 
+ual.” 42 U.S.C. § 12102(2KA). On its face, this language 
+clearly contemplates an examination of the extent to which 
+an individual plaintiff's impairment actually constrains his or 
+her ability to engage in major life activities. An individual 
+whose impairment is ameliorated or controlled to such an 
+
+2 Petitioner nonetheless claims (Pet. Br. 16-17) that Bragdon sup- 
+ports his interpretation of the ADA. To the contrary, if Bragdon 
+sheds any light on this case, it supports the court of appeals’ hold- 
+ing that the disability determination must be made with reference to 
+the actual results of an impairment. See 118 S. Ct. at 2206 (an im- 
+paired individual is disabled if “significant limitations result from 
+the impairment”) (emphasis added). 
+
+9 
+
+extent that it has no substantially limiting effect simply does 
+not have an “impairment that substantially limits . . . Major 
+life activities.” “{W]here, as here, the statute’s language is 
+plain, ‘the sole function of the courts is to enforce it accord- 
+ing to its terms.”” United States v. Ron Pair Enters., Inc., 
+489 U.S. 235, 241 (1989). 
+
+Petitioner contends, however, that prong one of the defi- 
+nition does not contemplate a real-world inquiry into whether 
+the impairment “currently or actually substantially limits” the 
+impaired individual’s major life activities. Pet. Br. 17. In- 
+stead, according to petitioner, an impairment’s limitations 
+must be analyzed in the abstract, and any ameliorative meas- 
+ures or adjustments that in reality eliminate or control the ef- 
+fects of the impairment must be ignored. Thus, petitioner 
+claims that his hypertension is a disability because “[w]ithout 
+medication he would have to be hospitalized, would surely 
+incur end organ damage, and [would] eventually die from the 
+high blood pressure.” Pet. 7 (emphasis added). Similarly, 
+the Solicitor General argues that petitioner “is disabled” be- 
+cause his impairment “would substantially limit him in (his) 
+major life activities” but for the fact that it is medically con- 
+trolled. U.S. Br. 20 (.mphasis added). Without doing vio- 
+lence to the statutory text, these hypotheses about what would 
+happen if the facts were different than they are cannot suffice 
+to prove that petitioner’s impairment “substantially limits” 
+his “major life activities.” 
+
+Prong one is phrased in the present indicative—an 
+“impairment that substantially limits . . . major life activi- 
+ties” —thereby making clear that the statute looks to the pres- 
+ent, real-world limitations actually imposed on the individ- 
+ual’s activities as a result of the impairment. An inquiry into 
+the present factual impact of an impairment necessarily re- 
+quires consideration of the real-world effects of any amelio- 
+rative measures taken by the individual and any internal 
+physical or mental adjustments that compensate for the im- 
+pairment. 
+
+_ Petitioner's definition, which looks to whether the indi- 
+vidual would or might be substantially limited in circum- 
+
+10 
+
+stances other than those presented in the real world, assumes 
+that Congress intended to use the conditional or subjunctive 
+mood instead of the present indicative form of the verb.3 But 
+Congress knows how to use the conditional or subjunctive 
+when it means to refer to possible, potential, or counter- 
+factual scenarios rather than focusing exclusively on actual 
+reality—indeed, Congress did precisely that in other, con- 
+temporaneously enacted sections of this very Act.4 In prong 
+one of the disability definition, by contrast, Congress elected 
+not to use the subjunctive or its equivalent, instead adopting 
+only the present indicative form of the verb. That choice has 
+unambiguous significance, and must be given effect. 
+United States v. Wilson, 503 U.S. 329, 333 (1992) 
+(“Congress’ use of a verb tense is significant in construing 
+statutes’”’). 
+
+Petitioner and the Solicitor General effectively ask this 
+Court to rewrite prong one to encompass not only those im- 
+
+pairments that do in fact “substantially limit(]” an individ- 
+ual’s major life activities, but also those impairments that 
+“might” or “would” be substantially limiting if their effects 
+
+3 The indicative verb form “represents an attitude toward or con- 
+cern with a denoted act or state as an objective fact.” WEBSTER’S 
+THIRD New INT'L DICTIONARY 1150 (1976) (emphasis added). 
+The subjunctive mood, by contrast, “represents an attitude toward 
+or concern with a denoted act or state not as fact but as i 
+entertained in thought as contingent or possible.” Jd at 2276 
+(emphasis added); see also id. (defining “subjunctive equivalent” 
+as “a verb phrase formed in English with a modal auxiliary (as 
+shall, should, may, might) and functioning in a manner comparable 
+to the subjunctive mood”). 
+
+4 See, eg., 42 U.S.C. § 12147(a) (“alterations ... that affect or 
+could affect ... usability”) (emphasis added); 42 USC. 
+§§ 12162(e\2\BXi) & 12183(a)(2) (same); 42 U.S.C. § 12112(b) 
+(S5)(A) (“would impose”); 42 U.S.C. § 12112(d)(3)(B)ii) (might 
+require”); 42 U.S.C. §§ 12142(c)2)A) & 12184(c\(1) (“would 
+significantly alter”). 
+
+ll 
+
+had not been ameliorated or controlled. This Court, how- 
+ever, “ordinarily resist[s] reading words or elements into a 
+statute that do not appear on its face.” Bates v. United States, 
+118 S. Ct. 285, 290 (1997). Petitioner and his amici point to 
+nothing in the statute’s text or structure that would justify a 
+departure from that principle here. 
+
+Petitioner’s preferred reading of prong one is also incon- 
+sistent with the statute’s requirement that the disability de- 
+termination must be made “with respect to [the impaired] in- 
+dividual” and the “major life activities of such individual.” 
+This language requires a showing that the impairment has a 
+substantial impact on the activities of the individual claiming 
+relief under the Act, not on some hypothetical individual who 
+cannot or does not ameliorate the effects of his or her im- 
+pairment. Rather than an abstract, hypothetical consideration 
+of the impairment itself, divorced from reality, therefore, the 
+statute contemplates a real-world analysis of the impaired 
+individual and his or her activities, an analysis that necessar- 
+ily encompasses the extent to which the individual controls 
+or ameliorates the impairment’s impact on his or her major 
+life activities. Petitioner engages in his “major life activities” 
+in the real world, not in the nonexigsént world described by 
+his hypothetical scenarios, and the record is clear that he does 
+not in fact suffer any substantial limitations on his ability to 
+engage in those activities. 
+
+5 The cases relied upon by petitioner and his amici seek to rewrite 
+the statutory text in the same manner. See, e.g., Baert v. Euclid 
+Beverage, Lid., 149 F.3d 626, 630 (7th Cir. 1998) (plaintiff “would 
+become ill without medication”) (emphasis added); Arnold y. 
+United Parcel Service, Inc., 136 F.3d 854, 856, 863, 866 (1st Cir. 
+1998) (ignoring medication because plaintiff “would die in the ab- 
+sence of his insulin injections”) (emphasis added); Harris v. H & W 
+Contracting Co., 102 F.3d 516, 523 (11th Cir. 1996) (“in the ab- 
+sence of mitigating measures, [plaintiff's impairment] would sub- 
+stantially limit her major life activities”) (emphasis added). 
+
+12 
+
+In the final analysis, petitioner and his amici are unable to 
+come to grips with the fundamental flaw in their proffered 
+interpretation of prong one. The words used by Congress 
+must be given their ordinary meaning. Smith v. United 
+States, 508 U.S. 223, 228 (1993). The ordinary meaning of 
+the phrase an “impairment that substantially limits . . . the 
+major life activities of [an] individual” simply does not en- 
+compass an impairment that in reality imposes no meani 
+limitations on the impaired individual. In petitioner’s view, 
+even an individual whose impairment has been permanently 
+and substantially ameliorated by subconscious internal ad- 
+justments, surgery, or the like will continue to enjoy the spe- 
+cial protections afforded by “disability” status. The “ordina- 
+ry meaning” of the words used by Congress is directly to the 
+contrary. 
+
+2. Structure and Context Confirm the Cor- 
+rectness of the Plain-Meaning Interpreta- 
+tion 
+
+The congressional findings set forth in the ADA provide 
+further confirmation, if any were needed, that prong one re- 
+quires consideration of the real-world impact of controlled 
+impairments. In Section 2(a)(7) of the Act, Congress de- 
+scribed “individuals with disabilities” as persons who have 
+suffered from discrimination and limitations “based on char- 
+acteristics that are beyond the control of such individuals 
+_...” 42 U.S.C. §12101(a)(7) (emphasis added). Con- 
+gress’s characterization of disabled individuals as persons 
+whose limitations are “beyond the[ir] control” supports 
+UPS’s reading of prong one, and is directly contrary to peti- 
+tioner’s view that prong one extends to impairments that are 
+not truly disabling because they are within the control of the 
+impaired individuals.® 
+
+6 Petitioner’s contrary interpretation would raise serious constitu- 
+tional difficulties. Congress relied on Section 5 of the Fourteenth 
+Amendment in applying the ADA to the States (see 42 U.S.C. 
+
+[Footnote continued on next page] 
+
+13 
+
+Further support for this conclusion is provided by Con- 
+gress’s finding that the ADA would protect “43 million” dis- 
+abled Americans. 42 U.S.C. § 12101(a)(1). This figure ap- 
+pears to have been based at least in part on 1980 census data 
+regarding the number of disabled Americans, adjusted to re- 
+flect subsequent population growth and aging. See 135 
+Cong. Rec. 8901 (1989) (statement of Rep. Coelho). Signifi- 
+cantly, those census data reflect the number of individuals 
+who actually suffered from functional limitations, not those 
+who would suffer such limitations if ameliorative measures 
+were disregarded. See, e.g., U.S. Dep’t of Commerce, Bu- 
+reau of the Census, Disability, Functional Limitation, and 
+Health Insurance Coverage: 1984/85, Series P-70, No. 8, at 2 
+(1986) (finding 37.3 million persons with “a functional limi- 
+tation”). 
+
+Indeed, these census figures were the product of surv 
+questions that expressly sought information on the limitations 
+actually imposed by ameliorated conditions. See id. at 47 
+
+[Footnote continued from previous 
+§§ 12101(b)(4), 12202), but ty evidence or congressional 
+Suggesting that all persons whose controlled impairments 
+are not in reality substantially limiting are members of a “discrete 
+and insular minority” that has been subjected to widespread dis- 
+criminatory treatment. See E. Harris, Controlled Impairments Un- 
+der The Americans With Disabilities Act: A Search For The 
+Meaning Of “Disability,” 73 WASH. L. REV. 575, 594-95 (1998). 
+Extending ADA coverage to all such individuals would raise seri- 
+ous constitutional doubts. Compare Brown v. North Carolina Div. 
+of Motor Vehicles, 166 F.3d 698, 705-08 (4th Cir. 1999) 
+(invalidating ADA regulation as beyond section 5 power, and 
+criticizing Congress's attempt to “redefine” the disabled as a 
+discrete and insular minority”), with Coolbaugh v. Louisiana, 136 
+F.3d 430, 435-38 (Sth Cir.) (upholding ADA because its scope is 
+not disproportionately “sweeping”), cert. denied, 119 S. Ct. 58 
+ts ee ADA can and should be construed to avoid these 
+
+doubts its constitutionality. See, e.g., Gollust v. 
+U.S. 115, 126 (1991), . , iia saan 
+
+14 
+
+(“Does [the individual] have difficulty seeing words and let- 
+ters in ordinary newspaper print even when wearing glasses 
+or contact lenses if [he or she] usually wears them?”; “[d)if- 
+ficulty hearing ... /ujsing a hearing aid’, “(i)f person uses 
+special aids, ask about the ability to do the activity while us- 
+ing the special aids”). Congress’s finding of 43 million dis- 
+abled Americans thus confirms that disability status must be 
+determined based on the real-world impact of impairments, 
+not through a hypothetical inquiry that ignores the effects of 
+individual ameliorative measures. Petitioner’s contrary ap- 
+proach would yield a “disabled” population in excess of 100 
+million, a far cry from the “discrete and insular minority” that 
+Congress sought to protect. See Br. Amici Curiae of Ameri- 
+can Trucking Ass’n, et al., at 19-21; Br. Amicus Curiae of 
+Society for Human Resource Management at 4-7; see also 
+Br. for Respondent United Air Lines, Inc., in No. 97-1943 
+(“97-1943 UAL Br.”) at 10-11, 13, 20-21 (individuals dis- 
+abled by vision impairments alone would exceed the 43 mil- 
+lion figure if ameliorative measures were ignored). 
+
+Petitioner contends that the ADA’s structure supports his 
+interpretation of prong one. He notes that the second and 
+third prongs of the disability definition include within the 
+category of disabled individuals those persons who do not 
+actually have a substantially limiting impairment (and thus 
+do not satisfy prong one) but who instead have a “record of” 
+or are “regarded as” having such an impairment. Pet. Br. 19 
+(citing 42 U.S.C. § 12102(2)(B) and (C)). The fact that 
+prongs two and three expressly extend coverage to certain 
+individuals whose inipairments are not in fact substantially 
+limiting, however, hardly supports petitioner’s argument that 
+Congress implicitly achieved that same result in prong one. 
+To the contrary, it demonstrates that Congress knew how to 
+protect individuals who are not in reality substantially limited 
+when it intended to do so, and that it did not do so in prong 
+one of the definition (where it expressed no such intent). 
+
+Equally unpersuasive is petitioner’s reliance on the fact 
+that the ADA expressly contemplates consideration of 
+“reasonable accommodations” in determining whether an 
+
+15 
+
+individual is “qualified” for employment. Pet. Br. 19-20; see 
+also U.S. Br. 13-15. As petitioner correctly concedes, 
+“reasonable accommodations” are, by definition, mitigating 
+measures supplied by the employer in response to the needs 
+of a disabled individual. Pet. Br. 19-20; see 42 U.S.C. 
+§§ 12111(9), 12112(b)(5)(A). But the fact that Congress re- 
+quired consideration of employer-provided, statutorily man- 
+dated measures in determining whether a disabled individual 
+is “qualified” does nothing to demonstrate that the individ- 
+ual’s own preexisting efforts to control and minimize the ef- 
+fects of an impairment should be ignored in the disability 
+determination. Rather, the obvious explanation for the refer- 
+ence to reasonable accommodations at this stage of the in- 
+quiry is that, in contrast to ameliorative measures undertaken 
+by individuals themselves, reasonable accommodations are 
+supplied by employers if an individual has been shown to be 
+disabled. The disability determination must be made “with 
+respect to” the individual as he or she functions in the real 
+world, not by reference to whatever mitigating measures a 
+particular employer might provide in the context of a specific 
+job if an employee or applicant were found to be disabled. 42 
+U.S.C. § 12102(2)(A). Thus, petitioner’s “structural” argu- 
+ments are without merit. 
+
+3. Petitioner’s Interpretation Would Lead to 
+Absurd and Unworkable Results 
+
+Petitioner’s interpretation would lead to unworkable re- 
+sults that are impossible to reconcile with the manifest pur- 
+pose and structure of the ADA. For example, petitioner’s 
+interpretation would require courts and agencies to ignore the 
+adverse effects of medications or other ameliorative measures 
+in determining whether an individual is disabled. Indeed, the 
+Solicitor General attempts to make a virtue of this fact, trum- 
+peting the purported wisdom of ignoring “the extent to which 
+the medications or devices impose new limitations or uncer- 
+tainty themselves.” U.S. Br. 15. But as one of petitioner’s 
+amici observes, “for many diseases which are treated with 
+medication ... the treatment, although potentially life- 
+saving, can be more disabling than the untreated disease.” 
+
+16 
+
+Br. Amicus Curiae of American Diabetes Ass’n at 12.7? Un- 
+der petitioner’s reading of prong one, such consequences 
+would have to be ignored, because the effects of medications 
+and other ameliorative measures purportedly cannot be con- 
+sidered in making the disability determination. Pet. Br. 10. 
+Congress cannot possibly have intended to achieve such an 
+absurd result.8 
+
+In addition, petitioner’s interpretation would lead to awk- 
+ward difficulties and uncertainty in determining whether an 
+individual is disabled. In many instances, the attempt to de- 
+termine the hypothetical extent of an impairment’s limita- 
+tions in the absence of existing ameliorating measures would 
+depend entirely on highly speculative and undoubtedly con- 
+flicting expert medical testimony about abstract possibilities 
+and predictions. Employers and others obligated to comply 
+with the ADA on a day-to-day basis are in no position to de- 
+termine the hypothetical but nonexistent effects of an em- 
+ployee’s controlled impairments. Indeed, to the employer, 
+individuals whose impairments are controlled may not appear 
+to be impaired in any way, let alone “substantially limit{ed}” 
+in any major life activities. As a practical matter, the em- 
+ployer will have no feasible or reliable basis for determining 
+(short of litigation) whether such individuals would be sub- 
+
+7 Accord, e.g., AMERICAN MEDICAL ASSOCIATION, ESSENTIAL 
+GUIDE TO HYPERTENSION 112-34 (1998) (discussing potentially 
+severe side effects of hypertension medications); R. Irwin et al., 
+Psychosis following acute alteration of thyroid status, 31 AUST. 
+N.Z. J. PSYCH. 762, 762-63 (1997) (psychotic reaction to hormone 
+treatments for Grave's disease); see also Harris, supra, 73 WASH. 
+L. REV. at 599. 
+
+8 Petitioner may attempt to avoid this absurdity by asserting that 
+courts should consider the harmful effects of ameliorative measures 
+in making the disability determination, while at the same ignoring 
+the beneficial effects of such measures. Needless to say, that inter- 
+nally inconsistent and result-oriented position is equally indefensi- 
+ble. See pp. 40-41, infra. 
+
+17 
+
+stantially limited if they ceased their ameliorative measures— 
+yet in petitioner's view, the ADA compels employers to 
+make precisely that impossibly complex and speculative de- 
+termination on a daily basis. 
+
+To give just one example, osteoporosis is a potential 
+disabling condition that can be treated with a dietary, vite- 
+min, exercise, and lifestyle regimen that enables individuals 
+to minimize any impairment. D. Cumming & C. Cumming, 
+Should your patient do with—or without—it?, 38 Con- 
+SULTANT 2417, 2420-26 (1998); P. Taxel, Osteoporosis: 
+Detection, prevention, and treatment in primary care, 5% 
+GERIATRICS 22, 37-38 (Aug. 1998). Must an employer 
+whose employee has mild osteoporosis attempt to imagine 
+how much more severe the condition might be if the em- 
+ployee drank less milk and stopped exercising? S. Erickson 
+& T. Sevier, Osteoporosis in Active Women: Prevention, Di- 
+agnosis, and Treatment, 25 PHYSICIAN & SPORTSMEDICINE 
+61, 67 (1997). Countless other conditions would entail simi- 
+larly absurd exercises under petitioner’s view of the statute. 
+
+This already unworkable burden would be further exacer- 
+bated in instances of internal adaptations or “mitigations,” 
+where the difficulties inherent in attempting to guess at the 
+extent of hypothetical limitations would be compounded by 
+the absence of any standards for identifying those internal 
+adaptations that can be considered and those that must be ig- 
+nored. For example, if an individual suffers a stroke that re- 
+sults in blocked brain synapses and a temporary inability to 
+speak, is the individual disabled even after relearning to 
+speak reasonably well, on the ground that the individual’s 
+brain has merely “mitigated” the effects of the impairment by 
+developing new neural pathways to bypass damaged areas? 
+See Brain plasticity brings about stroke recovery, 20 DIAG. 
+IMAGING, Dec. 1, 1998, at 21; see also Speech after stroke, 
+MAYO CLINIC HEALTH LETTER, August 1996, at 1-3. If an 
+individual with dyslexia ultimately develops the ability to 
+read at an above-average level through mental adaptations 
+that mitigate the effects of the impairment, must those adap- 
+tations be disregarded for purposes of the disability determi- 
+
+nation? See J. Rumsey, The Biology of Development Dys- 
+lexia, 268 J.A.M.A. 912, 913-15 (1992); B. Upbin, Rose- 
+colored glasses, FORBES, Dec. 4, 1995, at 294, 295. Peti- 
+tioner’s interpretation of the statute offers no guidance on 
+these and countless similar questions, but employers would 
+be forced to resolve them (on pain of substantial liability for 
+damages and attorney's fees if they guess wrong). 
+
+In many such instances, in fact, it will be difficult or im- 
+possible to measure the effects of such internal adaptations 
+with accuracy, or even to determine whether they have oc- 
+curred. By necessitating such speculative and difficult in- 
+quiries aimed at permitting courts to disregard the present 
+realities of an individual’s circumstances, petitioner’s inter- 
+pretation conflicts with the express purpose of the ADA, 
+which was “to provide a clear and comprehensive national 
+mandate for the elimination of discrimination against indi- 
+viduals with disabilities” pursuant to “clear” and “consistent” 
+standards. 42 U.S.C. § 12101(b)(1) & (2) (emphasis added). 
+
+4. The Plain-Meaning Interpretation Com- 
+ports with the Policy of the ADA 
+
+The plain-meaning interpretation of prong one is wholly 
+consistent with the policies expressed in the ADA, and pro- 
+vides full protection to those individuals who in fact suffer 
+from truly disabling conditions (as well as those who have a 
+“record of” or are “regarded as” having such conditions). As 
+noted above, Congress was acting in response to a history of 
+discrimination based on impairments that are “beyond the 
+control of” impaired individuals (42 U.S.C. § 12101(a)(7)); 
+individuals with controlled and ameliorated impairments, by 
+contrast, have not traditionally been subjected to widespread 
+discrimination, precisely because their impairments are under 
+control and do not impose substantial limitations. It is telling 
+in this regard that the issue of ameliorating conditions arises 
+most frequently in the context of narrow job categories (such 
+as airline pilots, truck drivers, police, and firefighters) that 
+entail heightened safety concerns. Absent such unique con- 
+cerns, the vast majority of employers do not make employ- 
+
+provides an ADA remedy. See School Board of Nassax 
+
+stead entirely in keeping with the manifest purpose of the 
+Act. Congress enacted the Americans with Disabilities Act, 
+not the Americans with /mpairments Act, and it expressly 
+limited coverage under prong one to those individuals whose 
+
+Contrary to petitioner’s implicit assumption, moreover 
+the ADA tem Pay new that individuals whose im- 
+pairments disqualify them certain jobs may nonetheless 
+fall outside the scope of the ADA. Consider, for example, an 
+individual who is unable to take hypertension medication and 
+whose blood pressure is consistently above 160/90, resulting 
+in the same minimal limitations as those imposed on peti- 
+
+20 
+
+tioner. Despite their identical abilities to engage in “major 
+life activities,” petitioner claims that only he, and not this 
+equally limited individual, would be entitled to ADA protec- 
+tion. Similarly, numerous individuals have minor, unamelio- 
+rated impairments that nonetheless disqualify them from 
+certain types of jobs.? Petitioner offers no justification for 
+construing prong one to create a privileged class of protected 
+individuals whose impairments are not in reality disabling, 
+while denying such privileged status to other impaired indi- 
+viduals who are equally or even more limited in their major 
+life activities. 
+
+By extending the protections of the ADA to individuals 
+whose impairments are largely or fully ameliorated and are 
+thus not “beyond thefir] control” (42 U.S.C. § 12101 
+(a)(7)), petitioner’s interpretation would in fact frustrate the 
+ADA’s goals by funneling limited resources away from the 
+truly disabled. Under the Act, an employer’s obligation to 
+provide “reasonable accommodation” is not unlimited, and 
+ceases at the point that providing such accommodations 
+would constitute an “undue hardship.” 42 U.S.C. § 12112(b) 
+(SA); see also 42 U.S.C. § 12182(b)(2 Aili), (iv) & (v) 
+(similar provisions governing public accommodations). The 
+larger the class of employees entitled to demand “reasonable 
+accommodation,” the greater the resulting burden and risk of 
+conflicting demands, with the consequence that accommoda- 
+tions required by the truly disabled will more often be 
+deemed to constitute “undue hardship[s].”!° Thus, peti- 
+
+9 See, e.g., Reeves v. Johnson Controls World Servs., 140 F.3d 144 
+(2d Cir. 1998) (agoraphobia); McKay v. Toyota Motor Mfg. U.S.A., 
+Inc., 110 F.3d 369 (6th Cir. 1997) (carpal tunnel syndrome); 
+Bridges v. City of Bossier, 92 F.3d 329 (Sth Cir. 1996) (mild hemo- 
+philia), cert. denied, 519 U.S. 1093 (1997); Welsh v. City of Tulsa, 
+977 F.2d 1415, 1416-20 (10th Cir. 1992) (sensory deficit in two 
+fingers); see also cases cited in notes 25 and 27, infra. 
+
+10 Even individuals whose impairments are under control (and are 
+therefore not substantially limiting) may well be in a position to 
+
+[Footnote continued on next page] 
+
+21 
+
+tioner’s interpretation would provide an economic windfall 
+(in the form of an employment preference and the right to 
+demand “accommodation”) to an ing class of indi- 
+viduals at the expense of the truly disabled. See Harris, su- 
+pra, 73 WASH. L. REV. at 584-86, 607-08. As explained in a 
+leading case construing the parallel provision of the Rehabili- 
+tation Act, Congress intended to protect only the “truly dis- 
+abled, and “[i}t would debase this high purpose if the statu- 
+tory protections available to those truly handicapped could be 
+claimed by anyone whose disability was minor and whose 
+relative severity of impairment was widely shared.” Forrisi 
+v. Bowen, 794 F.2d 931, 934 (4th Cir. 1986). 
+It is no response to assert that the ADA should be “broad- 
+Toncndintadaiaieatemais tame ” purpose. 
+two equally important in prong 
+their major life activities by virtue of their impairments 
+should be treated as disabled, and persons who do not suffer 
+from such limitations should not be so treated (unless, of 
+
+[Footnote continued from previous page] 
+
+demand (and receive, under petitioner's reading of the ADA) costly 
+dation needs of truly disabled employees. For example, individuals 
+from a narrow category of jobs by virtue of government safety 
+regulations might demand difficult and contentious restructuring of 
+aii of Cds baady is “alae arene tnt a 
+pense . “di ” employees), the hiring of 
+additional employees, or other “accommodations Pa tee oe 
+
+that employers will find themselves unable (at least without “undue 
+burden ”) to comply with the accommodation demands of the truly 
+
+22 
+
+course, they have a “record of” or are “regarded as” having 
+such limitations). “[N]o legislation pursues its purposes at all 
+costs. Deciding what competing values will or will not be 
+sacrificed to the achievement of a particular objective is the 
+very essence of legislative choice—and it frustrates rather 
+than effectuates legislative intent simplistically to assume 
+that whatever furthers the statute’s primary objective must be 
+the law.” Rodriguez v. United States, 480 U.S. 522, 525-526 
+(1987); see West Virginia Univ. Hosps., Inc. v. Casey, 499 
+U.S. 83, 98-100 (1991). 
+
+Nor is there any substance to the purported concern that 
+denial of ADA protection to individuals with controlled im- 
+pairments will create an incentive for individuals to cease 
+their ameliorative efforts in order to obtain protection under 
+the Act. It begs credulity (and is insulting to the truly dis- 
+abled) to suggest that individuals will voluntarily suffer “sub- 
+stantial{] limits” on “major life activities” merely in order to 
+achieve a litigation advantage under federal law. And even if 
+some hypothetical individual were inclined to contemplate 
+such a bizarre course of action, the potential payoff would be 
+far from clear: Failure to ameliorate might make it easier for 
+this hypothetical individual to demonstrate the existence of a 
+disability, but it would make it correspondingly more diffi- 
+cult to prove that the individual is “qualified.” See generally 
+Harris, supra, 73 WASH. L. REV. at 600-01. 
+
+Moreover, the parade of horribles described by peti- 
+tioner’s amici largely ignores the mechanisms that Congress 
+enacted for preventing discrimination against individuals 
+who actually suffer from, have a record of, or are perceived 
+as having substantially limiting impairments. Thus, for ex- 
+ample, the Solicitor General asserts (U.S. Br. 14) that em- 
+ployers would be free to discharge or refuse to hire individu- 
+als who must take medication on the job in order to control 
+their impairments. To the contrary, however, individuals 
+who require accommodation to their need for medication in 
+order to work might well satisfy prong one of the disability 
+render them substantially limited in the major life activity of 
+
+23 
+
+working.'! And employer conduct of this nature could also 
+provide the basis for a claim of “regarded as” disability under 
+young Caco of Go ctetatery Gotiaiten: 
+
+11 Indeed, it is petitioner’s interpretation of the statute that would 
+lead to anomalous results of this kind, because petitioner construes 
+“disability” to refer exclusively to unameliorated impairments and 
+to exclude consideration of medications, treatments, and the like. 
+The ADA prohibits discrimination “because of the disability” (42 
+U.S.C. § 12112(a) (emphasis added)), “by reason of such disabil- 
+ity” (42 U.S.C. § 12132 (emphasis added)), and “on the basis of 
+disability” (42 U.S.C. § 12182(a) (emphasis added)). Under peti- 
+tioner’s interpretation, employers and service providers would be 
+prohibited from discriminating based on an individual’s hypotheti- 
+cally unameliorated impairment, but would be free to discriminate 
+coun Gese offs foun no pan of potionn’s untesmoting of 
+cause form no part of s of 
+—_ part of petitioner's understanding of the 
+
+12 Por caample, cam commen form of mutipte sclerosis (cnown os 
+“relapsing-remitting MS”) is characterized by periodic attacks fol- 
+lowed by partial or total recovery. N. Holland et al., Multiple Scle- 
+rosis: A Guide for the Newly Diagnosed, at 4 (1996); accord Sec- 
+retary, U.S. Dep't of Housing & Urb. Dev. v. Jankowski Lee & As- 
+
+[Footnote continued on next page] 
+
+24 
+
+Petitioner's impairment is a perfect example of this phe- 
+nomenon. Individuals with hypertension may have widely 
+varying blood pressure readings from time to time. See G. 
+Parati et al., Clinical relevance of blood pressure variability, 
+16 J. HYPERTENSION S25, $25 (Supp. 1998). Far from creat- 
+ing “strange instability,” medication can actually reduce the 
+variability of hypertension and other impairments. See J. 
+Minami et al., Comparison of 24-hour Blood Pressure, Heart 
+Rate, and Autonomic Nerve Activity in Hypertensive Patients 
+Treated With Cilnidipine or Nifedipine Retard, 32 J. 
+CARDIOVASCULAR PHARMACOLOGY 331, ‘wighe ie J. 
+Walsh, Psychopharmacological treatment o or- 
+der, 8 a pn ON Soc. WORK PRAC. 406, 409-10 (1998) 
+(medication can moderate mood swings caused by manic de- 
+pression). And of course, if the effects of an individual’s im- 
+pairment and ameliorating measures are suffciently variable 
+that the individual's ability to work or engage in other major 
+life activities is substantially limited, that individual is dis- 
+abled within the meaning of prong one.!3 
+
+[Footnote continued from previous page] 
+socs., 1995 WL 399384, at *1-2 (EEOC June 30, 1995). Numerous 
+other impairments, such as bipolar disorder (see A. Frances et al., 
+The Expert Consensus Guidelines for Treating Depression in Bipo- 
+lar Disorder, 59 J. CLINICAL PSYCH. 73, 74 (Supp. 4 1998)) and 
+arthritis (see A. Silman, Problems Complicating the Genetic Epi- 
+demiology of Rheumatoid Arthritis, 24 1. RHEUMATOLOGY 194, 
+194-96 (1997)), also fluctuate widely in severity over time. See 
+also 63 Fed. Reg. 57190, 57192 (1998) (“Disability is a contextual 
+variable, dynamic over time and circumstance.”). 
+
+13 Various arguments advanced by petitioner and his amici proceed 
+from the assumption that the plain-meaning interpretation would 
+preclude all persons with controlled impairments from satisfying 
+the requirements of prong one. See, e.g , Br. of Amici AIDS Action 
+et al. at 21-23 (arguing that plain-meaning interpretation should be 
+rejected because treatments do not necessarily eliminate all sub- 
+stantially limiting effects). That assumption is incorrect. Indi- 
+viduals whose ameliorated impairments still result in substantial 
+
+[Footnote continued on next page] 
+
+25 
+
+B. The Historical Understanding Of The Reha- 
+bilitation Act Confirms The Correctness Of 
+The Plain-Meaning Interpretation 
+
+As this Court observed in Bragdon v. Abbott, “[t}he 
+ADA’s definition of disability is drawn almost verbatim from 
+the definition of ‘handicapped individual’ included in the 
+Rehabilitation Act of 1973 ....” 118 S. Ct. at 2202. Ac- 
+cordingly, the administrative and judicial interpretations of 
+the Rehabilitation Act provide guidance in interpreting the 
+ADA’s definition of disability. /d. at 2208; see also Loril- 
+lard v. Pons, 434 U.S. 575, 580-581 (1978). In this case, 
+those sources provide additional support for the plain- 
+meaning interpretation of prong one. 
+
+1. Judicial Interpretations of the Rehabilita- 
+tion Act Prior to the ADA 
+
+The few pre-ADA cases that actually addressed this issue 
+under the Rehabilitation Act took the effects of ameliorative 
+measures into account in determining whether a plaintiff was 
+
+” For example, in 7rembczsynski v. ghd 
+Calumet City, 1987 WL 16604 (N.D. Ill. Aug. 31, 1987), the 
+court rejected a Rehabilitation Act claim brought by indi- 
+viduals who were barred from employment as full-time po- 
+held that “Plaintiffs have failed to allege they are ‘individuals 
+with handicaps,’” because “[t]hey allege their vision is cor- 
+rectable to 20/20.” Jd. at *5. The court relied on and quoted 
+with approval from an earlier Rehabilitation Act decision that 
+applied the same reasoning. /d. at *4 (quoting Padilla v. City 
+of Topeka, 708 P.2d 543, 550 (Kan. 1985)). The Padilla 
+court had rejected a virtually identical claim, explaining: 
+
+[Footnote continued from previous page] 
+limitations (either because the impairment is not fully treatable or 
+because the amelioration itself results in substantial limitations) are 
+disabled under the plain meaning of prong one. 
+
+26 
+
+With corrective lenses, plaintiff's vision is 20/20. 
+Plaintiff has worn glasses since his grade school days 
+and testified to no problems or limitations in his activi- 
+ties.... Plaintiff has a visual impairment, but he has 
+failed to meet the threshold requirement that he [be] a 
+handicapped person [under the Rehabilitation Act]. 
+
+708 P.2d at 550 (emphasis added). See also Chandler v. City 
+of Dallas, 2 F.3d 1385, 1390 & n.16 (Sth Cir. 1993) (citing 
+Collier v. City of Dallas, No. 86-1010 (Sth Cir. Aug. 19, 
+1986), for the proposition that “[t]his court has previously 
+held that a person is not handicapped if his vision can be cor- 
+rected to 20/200”). 
+
+A number of other pre-ADA cases reflect judicial consid- 
+eration of ameliorative measures as part of the “handicapped” 
+determination, although in these cases the plaintiffs were 
+found to be handicapped even in their ameliorated states. 
+Thus, for example, in Reynolds v. Brock, 815 F.2d 571 (9th 
+Cir. 1987), the court held that the plaintiff's “epilepsy sub- 
+stantially limits her ability to work” because “/e/ven though 
+medication controls her seizures, federal and state regula- 
+tions and policies restrict the types of jobs available to her.” 
+Id. at 574 (emphasis added). Accord Pineiro v. Lehman, 653 
+F. Supp. 483, 490 (D.P.R. 1987) (plaintiff with epilepsy-like 
+condition was handicapped because “he suffered a fourth sei- 
+zure ... while taking medication (Dilantin) intermittently for 
+the previous two years’) (emphasis added). 
+
+Despite this line of authority, petitioner’s amici contend 
+that the judicial construction of the Rehabilitation Act actu- 
+ally supports their interpretation of the ADA. The Solicitor 
+General relies (U.S. Br. 12 n.5) on Reynolds v. Brock, supra, 
+but as discussed above, the Reynolds court quite clearly 
+evaluated the plaintiff in her medicated state (see 815 F.2d at 
+574), an approach that is directly at odds with the theory ad- 
+vanced by petitioner and his amici. The Solicitor General 
+also cites Strathie v. Department of Transp., 716 F.2d 227 
+(3d Cir. 1983), and Longoria v. Harris, 554 F. Supp. 102 
+(S.D. Tex. 1982), but in both of those cases there was no dis- 
+pute over the “handicapped” issue and thus the courts had no 
+
+27 
+
+occasion to, and did not, address it. See 716 F.2d at 230 
+(handicap issue “undisputed”); 554 F. Supp. at 102-03 
+(parties “stipulated to the facts,” including that plaintiff “had 
+pesig nan ar area pinnate ng hay dougie adi camer 
+
+fore is a handicapped individual”). The cases cited by peti- 
+tioner’s other amici suffer similar flaws. Many are com- 
+pletely irrelevant because they were decided after enactment 
+of the ADA in July 1990 and thus shed no light on Con- 
+gress’s understanding of the language incorporated into the 
+ADA. Several of the remaining cases actually take ameliora- 
+tive measures into account,!4 and the others either do not ad- 
+dress the significance of ameliorative measures at all,!5 or 
+involve stipulations or admissions of handicapped status and 
+thus do not decide the question at issue here.!© Accordingly, 
+the pre-ADA judicial construction of the Rehabilitation Act 
+reveals that courts considered the effects of ameliorative 
+measures in assessing whether an individual was “handi- 
+capped” under that Act. 
+
+14 See, e.g., Davis v. Meese, 692 F. Supp. 505, 517 (E.D. Pa. 1988) 
+(finding plaintiff handicapped as “/a]n insulin-dependent diabetic”) 
+(emphasis added), aff'd, 865 F.2d 592 (3d Cir. 1989); Akers v. 
+Bolton, 531 F. Supp. 300, 304 (D. Kan. 1981) (finding that epilepsy 
+medications “are another likely component in the link between 
+epilepsy and school problems”). 
+
+15 See, e.g., Kohl v. Woodhaven Learning Ctr., 865 F.2d 930, 935 
+(8th Cir. 1989); Mantolete v. Bolger, 767 F.2d 1416, 1420, 1421-24 
+(9th Cir. 1985); Drennon v. Philadelphia Gen. Hosp., 428 F. Supp. 
+809, 815 (E.D. Pa. 1977). 
+
+16 See, e.g., Bentivegna v. U.S. Dep't of Labor, 694 F.2d 619, 621 
+(9th Cir. 1982) (“[i}t is not disputed that . . . [plaintiff] is a ‘handi- 
+capped person’ under the Act”); Sharon v. Larson, 650 F. Supp. 
+1396, 1401, 1402 (E.D. Pa. 1986) (“[iJt is not disputed that [plain- 
+tiff] is handicapped”). 
+
+28 
+
+2. Administrative Interpretations of the Re- 
+habilitation Act Prior to the ADA 
+
+In a surprising omission from his brief, the Solicitor Gen- 
+eral fails to inform the Court that, prior to the adoption of the 
+ADA, the EEOC itself interpreted the Rehabilitation Act to 
+require evaluation of individuals in their ameliorated state 
+for purposes of the “handicapped” determination.!? In Kie- 
+nast v. Frank, No. 05900123, 1990 WL 711359 (EEOC Mar. 
+27, 1990), the EEOC rejected a claim under the Rehabilita- 
+tion Act precisely because the individual had ameliorated the 
+effects of her impairment and was therefore not handicapped: 
+
+In the present case, it is undisputed that appellant has a 
+vision impairment which requires her to wear correc- 
+tive lenses. Appellant does not claim that her vision 
+problems were not fully corrected by wearing the 
+lenses. Consequently, we find that appellant was not 
+substantially limited in any of her major life activities 
+
+and, therefore, she was not handicapped .. . . 
+
+1990 WL at *6 (emphasis added). This pre-ADA interpreta- 
+tion confirms the need to consider ameliorative measures as 
+part of the prong-one inquiry. 
+
+The regulations issued under the Rehabilitation Act do not 
+specifically discuss ameliorative measures. They do, how- 
+ever, provide support for the conclusion that the determina- 
+tion whether an individual’s impairment is “substantially 
+
+17 Indeed, it appears that the United States has continued to maintain 
+this position after the enactment of the ADA. See, e.g., Fallacaro 
+v. Richardson, 965 F. Supp. 87, 93 (D.D.C. 1997) (IRS argued that 
+“plaintiff is not entitled to the protection of the Rehabilitation Act 
+... because her condition is so easily correctable”); Liff v. Secre- 
+tary of Transp., 1994 WL 579912 at *3 (D.D.C. Sept. 22, 1994) 
+(defendant argued that “because plaintiff's depression is generally 
+controlled by medication, her impairment does not substantially 
+limit any of her major life activities”), adopted, 1995 WL 231246 
+(D.D.C. Feb. 21, 1995). 
+
+29 
+
+limit[ing]” is to be made by reference to the real-world im- 
+pact of the impairment, not by consideration of a hypothetical 
+and counter-factual scenario that ignores the effects of ame- 
+liorative measures. For example, in issuing its final rule im- 
+plementing Section 504 of the Rehabilitation Act, the De- 
+partment of Health, Education and Welfare (“HEW”) 
+“emphasized that a physical or mental impairment does not 
+constitute a handicap” unless it “results in a substantial limi- 
+tation of one or more major life activities.” 42 Fed. Reg. 
+22676, 22685 (1977) (emphasis added); see 45 C.F.R. Pt. 84 
+App. A, subpart A, Definitions, 4 3 (1990). HEW’s recogni- 
+tion that what matters are the results of the impairment is in- 
+consistent with petitioner’s interpretation, which ignores re- 
+sults and instead looks to theoretical possibilities that are 
+admittedly not the true results of the impairment. 
+
+Similarly, the Department of Labor, which is charged with 
+implementing Section 503 of the Rehabilitation Act, 29 
+U.S.C. § 793, issued a new substantive regulation implement- 
+ing Section 503 on April 16, 1976, shortly after the Rehabili- 
+tation Act had been amended to include the present definition 
+of handicapped individual. See 41 Fed. Reg. 16147 (1976). 
+This regulation states that “a handicapped individual is 
+‘substantially limited’ if he or she is likely to experience dif- 
+ficulty in securing, retaining or or advancing in employment be- 
+cause of a handicap.” 41 Fed. Reg. 16149 (emphasis added); 
+see 29 C.F.R. § 60-741.2. The Department’s regulations 
+implementing Section 504 of the Rehabilitation Act are to the 
+same effect, and also provide that “‘[s)ubstantially limits’ 
+means the degree that the impairment affects an individual 
+... OY affects an individual's employability.” 45 Fed. Reg. 
+66706, 66710 (1980) (emphasis added). By emphasizing the 
+plaintiff's need to show real-world effects resulting from the 
+impairment, these regulations are necessarily inconsistent 
+with the view that the real-world impact of ameliorative 
+measures must be ignored. Accordingly, these contempora- 
+neous regulatory interpretations of the Rehabilitation Act are 
+consistent with the EEOC’s pre-ADA decision to consider 
+ameliorative measures in determining whether an individual 
+
+30 
+
+is “handicapped,” and provide additional support for adher- 
+ing to the same approach under the ADA. 
+
+C. The ADA’s Legislative History Does Not Sup- 
+port Petitioner’s Interpretation Of Prong One 
+
+Petitioner attempts to bolster his counter-textual reading 
+of prong one by reference to the legislative history of the 
+ADA. As this Court has repeatedly held, however, 
+“{legislative history is irrelevant to the interpretation of an 
+unambiguous statute.” Davis v. Michigan Dep't of Treasury, 
+489 U.S. 803, 808 n.3 (1989). The plain meaning and struc- 
+ture of the ADA preclude petitioner's attempt to substitute a 
+hypothetical inquiry for the real-world analysis mandated by 
+the statute, and accordingly there is no cause to consider leg- 
+
+islative history in this case. 
+
+Even if the Court were to examine the legislative history, 
+moreover, it would find no basis for discarding the plain- 
+meaning interpretation in favor of petitioner’s wholly im- 
+plausible reading. Indeed, the Report submitted by the Sen- 
+ate Committee on Labor and Human Resources is wholly 
+consistent with the plain-meaning interpretation of prong 
+one, and is irreconcilable with petitioner’s counter-textual 
+reading of the ADA. 
+
+The Senate Report is laced with statements confirming 
+that the prong-one definition focuses on the real-world ef- 
+fects, impacts, and results caused by an individual’s impair- 
+ment. For example, the Report describes individuals with 
+disabilities as persons whose impairments “are beyond the 
+control of such individuals,” and makes clear that an impair- 
+ment “does not constitute a disability under the first prong of 
+the definition . . . unless its severity is such that it results in a 
+‘substantial limitation of one or more major life activities.”” 
+S. Rep. No. 101-116 at 15, 22 (1989) (emphasis added). 
+Similarly, the Report emphasizes the need to examine the 
+actual present restrictions felt by an impaired individual in 
+making the disability determination: “A person is considered 
+an individual with a disability for purposes of the first prong 
+of the definition when the individual's important life activi- 
+
+31 
+
+ties are restricted as to the conditions, manner, or duration 
+under which they can be performed in comparison to most 
+people.” /d. at 23 (emphasis added). When the effects of an 
+individual’s impairment are eliminated through medication, 
+diet, or subconscious adjustments, it simply cannot be said 
+that the individual’s “important life activities are restricted” 
+in any meaningful sense. 
+
+Most saliently, the Senate Report expressly addresses the 
+subject of controlled impairments in discussing the third, 
+“regarded as” prong of the disability definition: 
+
+An{] important goal of the third prong of the definition 
+
+is to ensure that persons with medical conditions that 
+
+are under control, and that therefore do not currently 
+
+limit major life activities, are not discriminated against 
+
+on the basis of their medical conditions. For example, 
+
+individuals with controlled diabetes or epilepsy are of- 
+
+ten denied jobs for which they are qualified. 
+Id. at 24 (emphasis added). This passage clearly confirms 
+that impairments are to be evaluated in their ameliorated or 
+controlled state in determining whether they “currently limit 
+major life activities,” i.e., in making the determination of ac- 
+tual disability under prong one. And importantly, the defini- 
+tional language of the bill discussed in the Senate Report is 
+identical in all respects to the definition ultimately adopted 
+by Congress. 42 U.S.C. § 12102(2) with S. 933, 
+101st Cong. § 3(2) (Aug. 30, 1989). 
+
+Petitioner attempts to downplay the significance of this 
+passage, arguing that it is merely a reference to mild impair- 
+ments that are not substantially limiting “even if the evalua- 
+tion is made without considering mitigating measures.” Pet. 
+Br. 24. Petitioner’s argument is unavailing. The Report 
+plainly contemplates that prong one does not extend to im- 
+pairments that are “under control” to such an extent that they 
+do not “currently limit major life activities.” Accordingly, 
+
+the Report reflects clear disagreement with petitioner’s ar- 
+gument that the ameliorative effects of measures taken to 
+
+32 
+
+contro] an impairment must be disregarded in performing the 
+prong-one analysis. 
+
+Petitioner points to the Senate Report’s statement that 
+“whether a person has a disability should be assessed without 
+regard to the availability of mitigating measures, such as rea- 
+sonable accommodations or auxiliary aids.” S. Rep. No. 101- 
+116, supra, at 23. That language, however, will not bear the 
+weight placed on it by petitioner. In the first place, the mere 
+“availability” of mitigating measures is irrelevant to the dis- 
+ability determination under prong one. The statutory text re- 
+quires an examination of the impaired individual as he or she 
+is in the real world, not a speculative inquiry into what limi- 
+tations might exist if “availab[le],” but unused, “mitigating” 
+measures were to be taken. 
+
+Moreover, when read in context, the reference to “mitigat- 
+ing measures” was clearly not intended to preclude consid- 
+eration of ameliorative actions actually taken by impaired 
+individuals themselves in order to control their impairments. 
+The Report refers only to “mitigating” measures “such as 
+reasonable accommodations or auxiliary aids.” Those 
+phrases are terms of art under the ADA, and refer exclusively 
+to measures that could or must be taken by employers or 
+other entities subject to the Act in order to permit an impaired 
+individual to satisfy applicable qualification standards. See 
+42 U.S.C. §§ 12102(1), 12111(9), 12112(b)(S5)(A), 12131(2), 
+12182(b)(2M Aili); see also id. § 12182(b)(2)(A){ii). In- 
+deed, the Report emphasizes that ameliorating measures 
+taken by impaired individuals themselves are not within the 
+purview of “reasonable accommodation.” S. Rep. No. 101- 
+116, supra, at 33 (“The Committee wishes to make it clear 
+that non job-related personal use items such as hearing aids 
+and eyeglasses are not included in this [reasonable accom- 
+modation] provision.”). Thus, the Report’s reference to 
+measures “such as reasonable accommodations or auxiliary 
+aids” merely makes clear that the determination whether an 
+impaired individual is “substantially limit{[ed]” is to be made 
+without consideration of any measures that could or would be 
+taken by employers or other covered entities after it has been 
+
+33 
+
+determined that an individual is disabled. The disability de- 
+termination is instead to be made with reference to current 
+reality, precisely as the courts below held. 
+
+Petitioner also relies heavily on short passages in two of 
+
+be corrected through the use of a hearing aid.” H. Rep. No. 
+101-485(II) at 52 ontaning gabled Rep. No. 101-485(III) 
+
+at 36 (“These three prongs of the definition are intended to 
+the same meanings given to the corresponding provi- 
+used in the definitions of the term ‘individual with 
+
+in ... the Rehabilitation Act ....”). And of 
+course, these passages also conflict with the Senate Report 
+(as well as with the text of the ADA itself). Accordingly, 
+petitioner’s attempt to avoid the plain-meaning interpretation 
+of prong one must be rejected. 
+
+18 Language to this effect does not appear in either the other two 
+House Reports or in the final House Conference Report. See H. 
+Rep. No. 101-485(1) (1990); H. Rep. No. 101-485(IV) at 36 (1990) 
+
+without purporting to exclude consideration of “mitigating meas- 
+ures”); H. Conf. Rep. No. 101-596 (1990). 
+
+34 
+
+D. The EEOC’s Interpretation Is Not Entitled To 
+Deference 
+
+Petitioner relies heavily on an “Interpretive Guidance” is- 
+sued by the EEOC, which states that “(t]he determination of 
+whether an individual is substantially limited in a major life 
+activity must be made . . . without regard t.. ‘u\tigating meas- 
+ures such as medicines, or assistive or prwsihetic devices.” 
+29 C.F.R. Pt. 1630 App. § 1630.2(j), at 348 (1998); see also 
+28 C.F.R. Pt. 35 App. A § 35.104; 28 C.F.R. Pt. 36 App. B 
+§ 36.104. Petitioner’s reliance is misplaced, for several rea- 
+sons. 
+
+First, an agency interpretation, no matter how authorita- 
+tive, cannot override the plain meaning of a statute enacted 
+by Congress. “The judiciary is the final authority on issues 
+of statutory construction and must reject administrative con- 
+structions” that are determined to be “contrary to clear con- 
+gressional intent” after applying “traditional tools of statutory 
+construction.” Chevron U.S.A. Inc. v. NRDC, Inc., 467 U.S. 
+837, 843 & n.9 (1984). In this case, “the text and reasonable 
+inferences from it give a clear answer against the Govern- 
+ment, and that . . . is the end of the matter.” Brown v. Gard- 
+ner, 513 U.S. 115, 120 (1994) (internal punctuation omitted). 
+
+Moreover, petitioner and his amici err in contending that 
+Chevron establishes the appropriate framework for evaluating 
+the agency materials at issue here. The EEOC statement re- 
+lied upon by petitioner is not set forth in a substantive regu- 
+lation having the force of law; rather, it is contained in an in- 
+terpretive guidance that lacks binding effect and to which 
+Chevron does not apply. In General Electric Co. v. Gilbert, 
+429 U.S. 125 (1976), this Court declined to defer to an EEOC 
+interpretation of this type, explaining that “courts properly 
+may accord less weight to such guidelines than to adminis- 
+trative regulations which Congress has declared shall have 
+the force of law, or to regulations which under the enabling 
+statute may themselves supply the basis for imposition of li- 
+ability.” Jd. at 141-42; accord EEOC v. Arabian American 
+Oil Co., 499 U.S. 244, 257 (1991) (holding that General 
+Electric Co. v. Gilbert establishes “the proper deference to be 
+
+35 
+
+afforded the EEOC’s guidelines”); see also Shalala v. Guern- 
+sey Mem. Hosp., 514 U.S. 87, 99 (1995); Batterton v. Fran- 
+cis, 432 U.S. 416, 424-25 & n.8 (1977); Skidmore v. Swift & 
+Co., 323 U.S. 134, 140 (1944); K. Davis & R. Pierce, Jr., 
+ADMINISTRATIVE LAW TREATISE, §§ 3.5, 6.3 at 236 (3d ed. 
+
+1994) (“the Chevron test does not apply to interpretative 
+rules”). 
+
+Petitioner and the Solicitor General argue that the inter- 
+pretive guidance at issue here should be given heightened 
+deference because it was purportedly issued pursuant to for- 
+mal notice and comment procedures at the same time as the 
+
+_EEOC’s regulations. But that argument is simply wrong, for 
+
+several reasons. First, the interpretive guidance was not in 
+fact “subject to the same notice and comment as the regula- 
+tions.” U.S. Br. 19. The EEOC’s notice of proposed rule- 
+making invited public comment on the agency’s proposed 
+“substantive regulations,” which were to be issued pursuant 
+to the mandate of the ADA. 56 Fed. Reg. 8578 (1991). The 
+notice then went on to observe that the EEOC was “also issu- 
+ing interpretive guidance,” and invited comments only as to a 
+ee ee ee ee 
+
+” disability—and not as to the discussion of prong one. 
+14.19 And the language upon which petitioner places princi- 
+pal reliance was not even contained in the version of the 
+guidance published with the notice, but was instead added 
+gern sap rl See 97-1943 UAL Br. 
+at . 
+
+19 The preamble to the EEOC’s final rule confirms that the EEOC 
+“solicited and considered public comment in the development of 
+part 1630” (56 Fed. Reg. 35726 (1991) (emphasis added)) whereas 
+the interpretive guidance was recognized to be separate and distinct 
+from “part 1630.” Jd. (“The Commission is also issuing interpre- 
+tive guidance concurrently with the issuance of part 1630 .... 
+Therefore, part 1630 is accompanied by an appendix.”) (emphasis 
+
+36 
+
+Regardless of the procedures attendant upon its issuance, 
+moreover, it is undisputed that the interpretive guidance (like 
+the other agency materials cited by petitioner) is nothing 
+more than a non-binding interpretive statement rather than a 
+formal, legally binding, substantive rule issued pursuant to 
+express statutory authority. Indeed, the EEOC itself repeat- 
+Oy NS ee ee 
+between the “substantive regulations implementing title 
+Se ae auuad to gan 100 teat at te ae 
+guidance” that “represents the Commission’s interpretation 
+of the issues discussed” and was set forth in a separate 
+“appendix.” 56 Fed. Reg. 35726 (1991). As this Court has 
+explained, the crucial distinction between binding substantive 
+rules and non-binding interpretive statements is that the for- 
+mer are issued pursuant to express statutory authority to 
+““implement’ the statute” and “‘have the force and effect of 
+law,”” whereas the latter “are ‘issued by an agency to advise 
+the public of the agency’s construction of the statutes and 
+rules which it administers.” Chrysler Corp. v. Brown, 441 
+U.S. 281, 302 n.31 (1979) (quoting Attorney General’s Man- 
+ual on the Administrative Procedure Act 30 n.3 (1947)); see 
+Shalala v. Guernsey Mem. Hosp., 514 U.S. at 99; Batterton, 
+432 US. at 425 n.8; see also Davis, supra, §6.3. The 
+EEOC’s guidance falls in the latter category. 
+
+Petitioner and the Solicitor General nonetheless seek 
+heightened deference here, relying on cases deferring to 
+agencies’ interpretations of their own regulations. Pet. Br. 
+28-29; U.S. Br. 18. That rule of deference is inapposite, 
+however, because in those cases the agency’s regulation, 
+rather than the statute itself, supplied the governing standard 
+or rule of decision. See, e.g., Martin v. OSHRC, 499 U.S. 
+N.D. 144, 148 (1991); Auer v. Robbins, 519 U.S. 452, 461 
+(1997) (deferring to agency interpretation “[bjecause the sal- 
+ary-basis test is a creature of the Secretary’s own regula- 
+tions”); Thomas Jefferson Univ. v. Shalala, 512 U.S. 504, 
+512 (1994). Here, by contrast, it is the statute, not the regu- 
+lation, that supplies the rule of decision, and thus no special 
+deference is due to an interpretive guidance that purports to 
+redefine the statutory text. 
+
+37 
+
+The cases relied upon by petitioner are also inapposite for 
+another reason: They each involved regulations promulgated 
+pursuant to express statutory authority. Auer, 519 U.S. at 
+456; Thomas Jefferson Univ., 512 U.S. at 506-08; Martin, 
+499 US. at 147-48. Here, by contrast, Congress plainly did 
+not grant the EEOC express 
+
+“to carry out Title I” of the 
+AA tet a Geta ddieonal Gee Cee 
+tained within Title 1. See ADA § 3(2), 104 Stat. 329, 
+
+at 42 U.S.C. § 12102(2); ADA tit. I, § 106, 104 Stat. 336, 
+codified at 42 U.S.C. § 12116. “It is axiomatic that an ad- 
+ministrative agency’s power to promulgate legislative 
+lations is limited to the authority delegated by Congress” 
+(Bowen v. Georgetown Univ. Hosp., 488 U.S. 204, 208 
+(1988)), and no such authority was delegated in this instance. 
+See Public Citizen v. U.S. Dep't of Justice, 491 U.S. 440, 465 
+n.12 (1989); see also Adams Fruit Co. v. Barrett, 494 U.S. 
+638, 649-50 (1990). 
+
+Indeed, Congress exercised great care in allocating sub- 
+stantive rulemaking authority over specified portions of the 
+ADA to particular agencies. See, eg, 42 U.S.C. 
+§§ 12134(a), 12143(b), 12149(a), 12164, 12186(a)(1), 12186 
+(aX2A Xi), 12186(a\(2)(BYii), 12186(b), 12204; 47 U.S.C. 
+§ 225(d). Its refusal to delegate such authority over the 
+definition of “disability” should be respected, particularly be- 
+cause the only alternative is to infer a congressional delega- 
+tion of overlapping rulemaking authority to each of the mul- 
+tiple agencies authorized to i various portions of 
+the ADA, an approach that would render Chevron deference 
+inappropriate in any event (see Bowen v. American Hosp. 
+Ass'n, 476 U.S. 610, 642 n.30 (1986) epaeen of Stevens, 
+
+J.)) and could give rise to conflicting regulations.2° 
+
+20 In Bragdon, after having already concluded that respondent was 
+disabled under the ADA (118 S. Ct. at 2207), this Court com- 
+mented in dictum that the Department of Justice’s views regarding 
+
+[Footnote continued on next page] 
+
+38 
+
+Thus, the non-binding EEOC pronouncements relied upon 
+by petitioner are not entitled to controlling weight. Even if 
+there were some doubt about the plain meaning of prong one, 
+therefore—which there is not, for all the reasons discussed 
+above—‘“‘the level of deference afforded [to the EEOC’s 
+guidance] w{ould] depend upon the thoroughness evident in 
+its consideration, the validity of its reasoning, its consistency 
+with earlier and later pronouncements, and all those factors 
+which give it power to persuade, if lacking power to con- 
+trol.” Arabian American Oil Co., 499 U.S. at 257. “The 
+EEOC’s interpretation does not fare well under these stan- 
+dards.” Id. 
+
+Far from reflecting thorough consideration, the portion of 
+the interpretive guidance relied upon by petitioner fails to ac- 
+knowledge, much less address, the glaring inconsistency 
+between the text of prong one and the conclusion expressed 
+in the guidance. The guidance instead purports to base its 
+conclusion regarding “mitigating measures” solely on the 
+ADA’s legislative history, but it wholly ignores substantial 
+countervailing evidence in the various Committee Reports 
+and in the pre-ADA construction of the Rehabilitation Act. 
+See pp. 25-33, supra. And the guidance is internally incon- 
+sistent in several respects. For example, after stating that 
+medicines and other measures to control impairments must 
+be disregarded, the guidance posits the example of an indi- 
+
+[Footnote continued from previous page] 
+
+Title II] of the ADA “are entitled to deference.” Jd. at 2209 (citing 
+Chevron). The Court's dictum did not specifically discuss the de- 
+grees of deference due to the various types of agency materials re- 
+garding the ADA, and did not discuss the facts that no agency pos- 
+sesses substantive rulemaking authority with respect to the defini- 
+tion of disability and that any implied ability to issue interpretive 
+rules is shared among multiple agencies. Cf id. at 2207 (declining 
+to resolve degree of deference due to multiple agencies under Re- 
+habilitation Act). Accordingly, this dictum cannot be read to com- 
+pel Chevron deference with respect to the agency materials at issue 
+here. 
+
+39 
+
+vidual who “has controlled high blood pressure that is not 
+ially limiting.” 29 C.F.R. Pt. 1630 App. § 1630.2(1) 
+(emphasis added). Moreover, the guidance states that prong 
+one measures the “impact [on] an individual's life” and the 
+effect of that impairment on the life of the individual” (id., 
+§ 1630.2(j)}—a mode of analysis that is irreconcilable with 
+an approach that ignores the impairment’s true “effect . . . on 
+the life of the individual” in favor of a hypothetical inquiry. 
+In addition, the EEOC’s i ive guidance is contra- 
+
+major life activity.” 29 C.F.R. § 1650401) (emphasis 
+added). By focusing exclusively on the extent to which an 
+impaired individual “can perform” major life activities, the 
+ete on necessarily requires 8 fanctional analysis and pre- 
+past 69 om eee. ee 
+
+The EEOC’s guidance also conflicts with earlier and later 
+pronouncements of the agency. As noted above (at p. 28), 
+the EEOC has construed the Rehabilitation Act to require 
+consideration of ameliorative measures in determining 
+whether an individual is “substantially limit{ed],” yet the 
+ADA guidance takes the opposite approach—without offer- 
+ing any explanation for the change. Cf Good Samaritan 
+Hosp. v. Shalala, 508 U.S. 402, 417 (1993) (inconsistent 
+agency positions receive “considerably less deference”) 
+(citations and internal punctuation omitted). And EEOC 
+publications issued since announcement of the guidance also 
+contain a variety of conflicting statements.2! 
+
+21 See, e.g., EEOC, A Technical Assistance Manual on Title 
+ADA, § 2.2(c)(1) (1992) (“The individual may nto - oer 
+which is not substantially limiting, but is treated by the employer as 
+having such an impairment. For example: An employee has con- 
+
+[Footnote continued on next page] 
+
+40 
+
+[Footnote continued from previous page] 
+
+trolled high blood pressure which does not substantially limit his 
+work activities.”) (emphasis added and deleted); 2 EEOC, Compli- 
+ance Manual § 902.4(c) (1995) (to satisfy prong one, “[t]he indi- 
+vidual’s ability to perform the major life activity must be re- 
+stricted”) (emphasis added); id. (“Not every impairment affects an 
+individual's life to the extent that it is a substantially limiting im- 
+pairment.”) (emphasis added); id. § 902.4(c)(1) (“This analysis fo- 
+cuses on the individual in question and analyzes whether the indi- 
+vidual’s impairment is substantially limiting for that individual.”) 
+(emphasis added); id. § 902.4(d) (“The length of time that an im- 
+pairment affects major life activities may help to determine whether 
+the impairment substantially limits those activities.”) (emphasis 
+added). Interestingly, the Department of Education also appears to 
+have concluded that ameliorative measures must be considered in 
+making the “disability” determination. See 61 Fed. Reg. 28436, 
+28440 (1996) (finding that 4.3 million Americans are “unable to 
+see to read ordinary newspaper print even when wearing glasses” 
+but that only 1.3 million Americans suffer from “a visual impair- 
+ment that substantially limits one or more major life activity”). 
+
+41 
+
+The EEOC has repeatedly opined that ameliorative meas- 
+ures taken by an individual to control his or her impairment 
+must be considered as part of the disability determination— 
+but only to the extent they assist the impaired individual in 
+proving disability. Thus, the EEOC takes the position that 
+[i]f medications cause negative side effects, these side ef- 
+fects should be considered in assessing whether the individ- 
+ual is substantially limited” (EEOC Enforcement Guidance: 
+The ADA and Psychiatric Disabilities, 2 Empl. Prac. Guide 
+
+conclusion with the diametrically opposed statement that 
+“[wJhether the impairment is substantially limiting is as- 
+sessed without regard to mitigating measures such as medi- 
+cation.” Jd. at 6148. Similarly, the EEOC has stated that “an 
+impairment that requires radiation therapy, which results in 
+an abnormal rate or degree of exhaustion,” renders the im- 
+paired individual disabled. EEOC Compliance Manual, 
+§ 902.4(c)(3), Ex. 3. See also Mount v. Widnall, No. WL 
+01923213, 1994 WL 739760 *2 (EEOC May 26, 1994) 
+(individual was disabled because his “[impairment] and his 
+continual medication caused some psychomotor slowing”). 
+
+For all these reasons, the EEOC’s position as reflected in 
+the interpretive guidance and related materials lacks even the 
+‘power to persuade,” and thus is entitled to no weight. See, 
+e.g., Sutton, 130 F.3d at 901-02; Gilday v. Mecosta County, 
+124 F.3d 760, 766-67, 768 (6th Cir. 1997) (concurring and 
+dissenting opinions of Kennedy, J., and Guy, J.).22_ Indeed, 
+even if the guidance were entitled to Chevron deference— 
+which it plainly is not—it would not be controlling here, be- 
+cause the EEOC’s interpretation is simply not “reasonable.” 
+NCUA y. First National Bank & Trust Co., 118 S. Ct. 927, 
+938 (1998). And of course, there is no need to consider the 
+EEOC’s reading of the ADA at all, because the statutory 
+
+22 For ihe same reasons, the Department of Justice’s interpretive 
+guidances on this issue are equally lacking in persuasive value. 
+
+42 
+
+definition ao only one answer to the question presented in 
+this case.? 
+
+ll. PETITIONER WAS NOT “REGARDED AS” 
+DISABLED 
+
+The third prong of the definition of disability provides that 
+an individual is disabled if he or she is “regarded as” having 
+an impairment that substantially limits one or more major life 
+activities, even though the individual does not in fact suffer 
+from such an impairment. 42 U.S.C. § 12102(2)(C). Peti- 
+tioner contends that he is disabled under prong three, because 
+UPS allegedly “regarded” him as substantially limited in the 
+major life activity of working. Pet. Br. 35-38. 
+
+43 
+
+A. Petitioner Was Not “Regarded As” Substan- 
+tially Limited In The Major Life Activity Of 
+Working 
+
+_ Petitioner claims (Pet. Br. 35) that he was “regarded 4 
+disabled because UPS considered him “unfit to work pre- 
+cisely respond his high blood pressure.” Petitioner’s ar- 
+gument in regard mischaracterizes the 
+ee na Ay record and finds 
+
+The record evidence clearly shows that UPS i 
+
+petitioner dilly Wea Mis Tioed aanals tancanas Dor 
+limits. Both the district court and the court of appeals so held 
+(Pet. App. 5a, 32a), and the record evidence amply confirms 
+that holding. J.A. 85a-88a, 103a-105a. Indeed, the UPS 
+employee who made the decision to terminate petitioner’s 
+employment testified without contradiction that petitioner 
+was fired because he “did not meet the requirements of the 
+Department of Transportation.” J.A. 103a.24 Thus, there is 
+no evidence that UPS viewed petitioner as “unfit to work” in 
+general. Rather, the evidence shows only that UPS regarded 
+petitioner as unqualified to work as a UPS mechanic because 
+he did not have a valid DOT health card. J.A. 105a, 120a. 
+
+An employer’s mere recognition that an loyee is im- 
+paired—such as by having high blood pressure—is insuff 
+cient to support a finding that the employee is “regarded as” 
+disabled, even if the impairment renders the employee unable 
+to qualify for the particular job in question. Prong three en- 
+compasses only those individuals who are “regarded as hav- 
+
+24 Petitioner points to testimony to the effect that he was di 
+
+initially sought a waiver of those i . 
+App. 109). o requirements (J.A. 49a, 54a; C.A. 
+
+44 
+
+ing such an impairment,” i.e., an impairment “that substan- 
+tially limits” a major life activity. 42 U.S.C. § 12102(2)(A) 
+& (C) (emphasis added). In order to satisfy prong three, 
+therefore, petitioner was required to prove that UPS “re- 
+garded” him as substantially limited in a major life activity. 
+See, e.g., Gordon v. EL. Hamm & Assocs., Inc., 100 F.3d 
+907, 912-13 (11th Cir. 1996) (citing cases), cert. denied, 118 
+S. Ct. 630 (1997). 
+
+Contrary to petitioner’s ipse dixit (Pet. Br. 35 & n.17), the 
+inability to obtain a DOT health card does not constitute a 
+substantial limitation on petitioner’s major life activity of 
+working. “Other than his position at UPS, [petitioner] has 
+never been required to obtain DOT certification for any other 
+job.” Pet. App. 16a. He has “performed mechanic jobs that 
+did not require DOT certification” for “over 22 years,” and 
+he secured another job as a mechanic shortly after leaving 
+UPS. Id. at 13a, 17a. Plainly, petitioner has suffered no 
+substantial limitations in working, and UPS perceived none. 
+
+The expert testimony in the record confirms that peti- 
+tioner’s failure to qualify for a valid DOT health card does 
+not “substantially limit[]” his ability to work. UPS's voca- 
+tional expert concluded that petitioner’s hypertension does 
+not generally “limit his ability to work or obtain jobs in the 
+open labor market.” J.A. 112a. Petitioner did not refute this 
+evidence or prove that UPS had a different perception. The 
+record is clear that UPS did not regard petitioner as substan- 
+tially limited in the major life activity of working; rather, 
+UPS regarded him only as incapable of working as a UPS 
+mechanic because he lacked a valid DOT health card. 
+
+Cases construing the “regarded as” provision of the Re- 
+habilitation Act prior to adoption of the ADA compel rejec- 
+tion of petitioner’s “regarded as” claim. Those cases uni- 
+formly hold that an individual’s inability to satisfy a prereq- 
+uisite for a particular job is not a “substantial” limitation. 
+See, e.g., Daley v. Koch, 892 F.2d 212, 215 (2d Cir. 1989) 
+(“regarded as” prong not satisfied by proof that employer 
+viewed employee as “‘incapable of satisfying the singular 
+demands of a particular job’”) (quoting Forrisi v. Bowen, 794 
+
+45 
+
+F.2d 931, 934 (4th Cir. 1986)). As the court explained in de 
+la Torres v. Bolger, 610 F. Supp. 593, 596-97 (N.D. Tex. 
+1985), aff'd on other grounds, 781 F.2d 1134 (Sth Cir. 1986) 
+“[a}n impairment that interferes with an individual’s ability 
+to do a particular job, but does not significantly decrease that 
+individual’s ability to obtain satisfactory employment oth- 
+erwise is not ‘substantially limit[ing]’ for purposes of the 
+Rehabilitation Act.” Accord, e.g., Forrisi, 794 F.2d at 935 
+(test is whether the employer finds “the employee’s impair- 
+ment to foreclose generally the type of employment in- 
+volved”); Miller v. AT&T Network Sys., 722 F. Supp. 633, 
+639 (D. Or. 1989) (“the impairment must substantially limit 
+an individual’s employability generally, and not just with re- 
+spect to one particular job”), aff'd and adopted, 915 F.2d 
+1404 (9th Cir. 1990).25 
+
+Thus, the pre-ADA Rehabilitation Act cases make clear 
+that an employer’s blanket exclusion of an impaired individ- 
+ual from a specific job is insufficient to render the individual 
+disabled under the “regarded as” prong. In Daley v. Koch, 
+for example, the Second Circuit held that “[bJeing declared 
+unsuitable for the particular position of police officer is not a 
+substantial limitation of a major life activity.” 892 F.2d at 
+215. Accord, e.g., McLeod v. City of Detroit, 1985 U.S. Dist. 
+LEXIS 16613 at *9 (E.D. Mich. 1985) (rejecting notion that 
+“being a firefighter [i]s a major life activity”). A fortiori, 
+there is no possible basis for finding that petitioner was 
+“regarded as” disabled, because UPS did not even regard him 
+as incapable of working as a mechanic; instead, UPS merely 
+regarded him as lacking a valid DOT health card and there- 
+fore barred from working as a mechanic for UPS. 
+
+25 The case law under the ADA is the same. See, e.g., Patterson v. 
+Chicago Ass'n For Retarded Citizens, 150 F.3d 719, 725 (7th Cir. 
+1998) (the “impairment must substantially limit employment gen- 
+erally’”); Foreman v. Babcock & Wilcox Co., 117 F.3d 800, 806 
+(Sth Cir. 1997) (the impairment must “‘foreclose generally the type 
+of employment involved”); Gordon, 100 F.3d at 913. 
+
+46 
+
+Petitioner points to the EEOC’s regulation addressing the 
+“regarded as” prong, which provides: 
+
+The term substantially limits means significantly re- 
+stricted in the ability to perform either a class of jobs or 
+a broad range of jobs in various classes as compared to 
+the average person having comparable training, skills 
+and abilities. The inability to perform a single, particu- 
+lar job does not constitute a substantial limitation in the 
+major life activity of working. 
+
+29 C.F.R. § 1630.2(j)(3)(i) (emphasis added). Petitioner 
+claims (without explanation or analysis) that his inability to 
+obtain a DOT health card “implicates” either a class or a 
+broad range of jobs. Pet. Br. 35 n.17. 
+
+The EEOC’s regulation is of no assistance to petitioner. 
+The regulation defines “class of jobs” to mean all “jobs utiliz- 
+ing similar training, knowledge, skills or abilities” as the job 
+at issue within the geographic area to which the individual 
+has reasonable access. 29 C.F.R. § 1630.2(j)(3)(ii(B). Peti- 
+tioner points to no evidence that UPS regarded him as pre- 
+cluded from working in all (or even most) such jobs in his 
+geographic area, and his 22-year work history is directly in- 
+consistent with any such assertion.26 
+
+26 Petitioner correctly notes (Pet. Br. 35 n.17) that a DOT health 
+card is required for all employees driving “commercial motor ve- 
+hicles” in “interstate commerce.” 49 C.F.R. § 390.3(a). That fact 
+does not demonstrate that petitioner was, or was regarded as, ex- 
+cluded from a “class of jobs,” however. There is no evidence that 
+the ability to drive commercial vehicles in interstate commerce is a 
+prerequisite for all or most jobs requiring “training, knowledge, 
+skills or abilities” similar to those required for a UPS mechanic’s 
+job. In fact, the record evidence is squarely to the contrary, as pe- 
+titioner’s ease in obtaining employment amply demonstrates. In- 
+deed, even if petitioner were a truck driver, rather than a mechanic, 
+his inability to obtain a DOT health card would not exclude him 
+from a “class of jobs”; the DOT’s requirements generally extend 
+only to large vehicles (those weighing over 10,000 pounds) and do 
+
+[Footnote continued on next page] 
+
+47 
+
+The regulation defines a “broad range of j in various 
+deseat\an “ethan eke oat Cltaing dattior tainioa, teow 
+
+Federal courts applying the EEOC’s regulations have uni- 
+formly rejected claims like those advanced by petitioner. In 
+itter v. Delta Air Lines, Inc., 138 F.3d 1366 (11th Cir. 
+1998), for example, the court rejected an ADA claim brought 
+by a terminated pilot, holding that “piloting airplanes is too 
+narrow a range of jobs to constitute a ‘class of jobs.” /d. at 
+1370 in v. City of Bossier, 92 F.3d 3 
+
+field to describe [as] a ‘class of jobs.”” Jd. at 334, 336.27 
+
+Against this backdrop, petitioner’s “regarded as” claim i 
+patently meritless. Fetidener eotd us deat have cbtained 
+
+so. Nor is there any evidence that respondent was “regarded 
+as” unable to perform other driving-related jobs not requiring 
+
+[Footnote continued from previous page] 
+not cover trucks or large other vehicles traveling in intrastate com- 
+merce. 49 C.F.R. § 390.5. A fortiori, then, a mechanic like peti- 
+tioner is not (and is not perceived as) substantially limited in 
+working merely because he cannot obtain a DOT health card. 
+
+27 Accord, e.g., Patterson, 150 F.3d at 725; Thompson v. Holy Fam- 
+
+ily Hosp., 121 F.3d 537, 540 (9th Cir. 1997); McKay, 110 F.3d at 
+373; Welsh, 977 F.2d at 1416-20. 
+
+48 
+
+compliance with DOT standards. Petitioner’s “regarded as” 
+claim must fail. 
+
+B. The Court Of Appeals Correctly Held That 
+Petitioner Failed To Satisfy DOT Require- 
+ments 
+
+Petitioner contends (Pet. 36-37) that the court of appeals 
+erred in holding that he failed to satisfy DOT requirements.?® 
+Even if that contention were correct, it would be irrelevant, 
+because the record is clear that UPS did not regard petitioner 
+as substantially limited in his ability to work. In any event, 
+petitioner’s contention is incorrect. 
+
+The DOT’s regulations ide that an individual cannot 
+drive a “commercial motor vehicle” if be or she has “high 
+blood pressure likely to interfere with his/her ability to oper- 
+ate a commercial motor vehicle safely.” 49 C.F.R. 
+§ 391.41(b)(6). The DOT has provided further guidance on 
+this issue in its Medical Regulatory Criteria for Evaluation 
+Under Section 391.41(b)(6), which states that where an indi- 
+
+28 Petitioner waived this issue in the district court, where he admit- 
+ted that under the DOT medical criteria “in order to be physically 
+qualified to drive a commercial motor vehicle, other than a tempo- 
+blood pressure less than or equal to 160/90.” J.A. 127a-128a { 30; 
+J.A. 136a. Nor is this issue fairly encompassed within the grant of 
+certiorari. Petitioner's fourth question asks “[wJhether there was 
+no genuine dispute whether UPS regarded [petitioner] as disabled 
+ant Sh Nien ee Oe a i ar ae 
+one-paragraph discussion of that question contains no 
+suggestion that it encompasses a challenge to the correctness of the 
+court of appeals’ determination that petitioner’s “blood pressure 
+exceeded the DOT’s requirements for drivers of commercial vehi- 
+cles.” Pet. App. Sa. Indeed, the only sentence in the petition that 
+even arguably relates to such an assertion is contained in the dis- 
+cussion of the second question presented—a question on which the 
+Court did not grant certiorari. See Pet. 7. 
+
+49 
+
+vidual’s “[i}nitial blood pressure [is] greater than 180 systolic 
+and/or greater than 104 diastolic,” “/tJhe driver may not be 
+qualified, even temporarily, until his or her blood pressure 
+has been reduced to less than 181/105.” J.A. 99a (emphasis 
+in original); see C.A. App. 85 (same); EEOC C.A. Br. 4 
+(conceding that “[i]f the person’s blood pressure is greater 
+than 180/104, ... the person is not to be certified as quali- 
+fied, even temporarily, until his blood pressure has been re- 
+duced to less than 181/105”). 
+
+Petitioner’s initial blood pressure reading was 186/124, 
+well in excess of the upper limit established by the DOT cri- 
+teria. Pet. App. 16a. Although he was issued a DOT health 
+card at that time, it is clear that the health card was invalid 
+and was issued in error, based on the examining nurse’s in- 
+
+ion Chat pitilonss. on 6 hani A et 
+be driving commercial vehicles. /d.; J.A. 74a-75a, 84a, 93a, 
+106a-107a. 
+
+Petitioner notes (Pet. Br. 37) that his blood pressure was 
+lower than 181/105 when it was retested in September 1994, 
+and both he and the Solicitor General argue that the DOT’s 
+regulations grant medical examiners discretion to grant tem- 
+porary three-month certificates in those circumstances. But 
+there is no evidence that the individual who performed the 
+second examination in fact decided to exercise this 
+discretion to issue a temporary health card. To the contrary, 
+the only evidence on that issue is the testimony of UPS’s 
+medical expert, who concluded that petitioner was not quali- 
+fied for discretionary issuance of a temporary health card. 
+J.A. 109a-1 1 1a. 
+
+Thus, petitioner never received a valid DOT health card 
+and failed to satisfy DOT requirements for drivers of com- 
+mercial vehicles. DOT regulations permit individual em- 
+ployees or applicants to seek administrative relief in such cir- 
+cumstances (49 C.F.R. § 391.47), but petitioner ultimately 
+chose not to pursue such relief. J.A. 49a-50a, 54a. His fail- 
+ure to exhaust administrative remedies precludes judicial re- 
+view of this issue. 
+
+50 
+
+The Solicitor General argues at length (U.S. Br. 25-29) 
+that it was error for the court of appeals to give any weight to 
+petitioner’s failure to satisfy DOT guidelines. That argument 
+misses the point. In the court of appeals, both petitioner and 
+the EEOC argued that petitioner was “regarded as” disabled 
+because UPS purportedly “‘made an employment decision 
+because of a perception of disability based on “myth, fear or 
+stereotype.””” EEOC C.A. Br. 15; see Pet. App. 4a-Sa. In 
+noting that UPS’s employment action was instead bas:.J on 
+petitioner’s failure to satisfy DOT requirements, the court of 
+appeals was simply responding to the arguments advanced by 
+
+In any event, while an applicant’s failure to meet arbitrary 
+employer-established job qualifications would not preclude a 
+showing that the employer “regarded” the applicant as dis- 
+abled, it hardly follows that the legitimacy of an employer's 
+reasons for an employment action are irrelevant to the 
+“regarded as” inquiry. This Court held in Arline that the 
+“regarded as” prong was intended to protect against 
+“discrimination on the basis of mythology.” 480 U.S. at 284. 
+UPS’s reasonable reliance on DOT guidelines confirms that 
+petitioner was not “regarded as” disabled, because UPS acted 
+on the basis of “reasoned and medically sound judgments” 
+rather than engaging in “reflexive reactions” to a “perceived” 
+disability. Id. at 284-85. 
+
+CONCLUSION 
+
+The judgment of the court of appeals should be affirmed. 
+Respectfully submitted. 
+
+Counsel WILLIAM J. KILBERG 
+BRIAN J. FINUCANE Counsel of Record 
+JAMES R. HOLLAND, II THOMAS G. HUNGAR 
+BIOFF SINGER AND Ross E. DAVIES 
+
+LLP GIBSON, DUNN & CRUTCHER LLP 
+104 West Ninth Street Ls een yo aha 
+Suite 400. D.C. 20036 
+Kansas , Missouri 64105 oan tie eine 
+(816) 842 
+Counsel for Respondent 
+
+March 24, 1999 
+
+la 
+
+STATUTORY APPENDIX 
+TITLE 42—-THE PUBLIC HEALTH AND WELFARE 
+
+CHAPTER 126-EQUAL OPPORTUNITY FOR INDI- 
+VIDUALS WITH DISABILITIES 
+
+§ 12101. Findings and purpose 
+(a) Findings 
+The Congress finds that— 
+
+(1) some 43,000,000 Americans have one or more physi- 
+LAs 
+
+(7) individuals with disabilities are a discrete and insular 
+minority who have been faced with restrictions and limita- 
+pete cr miata edo may echene: soca age 
+and relegated to a position of political powerlessness in 
+society, Sissel ea aineamsendindies thak wis Saeed Gis catteed 
+of such individuals and resulting from stereotypic assump- 
+tions not truly indicative of the individual ability of such in- 
+dividuals to participate in, and contribute to, society; 
+
+* . * * * 
+(b) Purpose 
+It is the purpose of this chapter— 
+
+(1) to provide a clear and comprehe:~ive national man- 
+date for the elimination of discrimination against individuals 
+with disabilities; 
+
+(2) to provide clear, strong, consistent, enforceable stan- 
+dards addressing discrimination against individuals with dis- 
+
+2a 
+
+§ 12102. Definitions 
+As used in this chapter: 
+(1) Auxiliary aids and services 
+The term “auxiliary aids and services” includes— 
+
+(A) qualified interpreters or other effective meth- 
+ods of making aurally delivered materials available to 
+individuals with hearing impairments; 
+
+(B) qualified readers, taped texts, or other effective 
+methods of making visually delivered materials avail- 
+able to individuals with visual impairments; 
+
+(C) acquisition or modification of equipment or 
+devices; and 
+
+(D) other similar services and actions. 
+
+(2) Disability 
+The term “disability” means, with respect to an indi- 
+vidual— 
+
+(A) a physical or mental impairment that substan- 
+tially limits one or more of the major life activities of 
+such individual; 4 
+
+(B) a record of such an impairment; or 
+
+(C) being regarded as having such an impairment. 
+
+* * * * * 
+
+SUBCHAPTER I—EMPLOYMENT 
+
+* * * * = 
+§ 12111. Definitions 
+As used in this subchapter: 
+. * * * * 
+
+3a 
+
+(9) Reasonable Accommodation 
+The term “reasonable accommodation” may include— 
+
+(A) making existing facilities used by employees 
+readily accessible to and usable by individuals with 
+disabilities; and 
+
+(B) job restructuring, part-time or modified work 
+schedules, reassignment to a vacant position, acquisi- 
+tion or modification of equipment or devices, appro- 
+priate adjustment or modifications of examinations, 
+training materials or policies, the provision of quali- 
+fied readers or interpreters, and other similar accom- 
+modations for individuals with disabilities. 
+
+* * * * * 
+
+§ 12112. Discrimination 
+(a) General Rule 
+
+No covered entity shall discriminate against a quali- 
+fied individual with a disability because of the disability of 
+such individual in regard to job application procedures, the 
+hiring, advancement, or discharge of employees, employee 
+compensation, job training, and other terms, conditions, and 
+privileges of employment. 
+
+(b) Construction 
+
+As used in subsection (a) of this section, the term 
+“discriminate” includes— 
+* = * * * 
+
+(5)(A) not making reasonable accommodations to the 
+known physical or mental limitations of an otherwise quali- 
+fied individual with a disability who is an applicant or em- 
+ployee, unless such covered entity can demonstrate that the 
+accommodation would impose an undue hardship on the op- 
+eration of the business of such governed entity; 
+
+4a 
+
+(d) Medical examinations and inquiries 
+
+(3) Employment entrance examination 
+
+* * * bea * 
+
+(B) information obtained regarding the medical con- 
+dition or history of the applicant is collected and main- 
+tained on separate forms and in separate medical files and 
+is treated as a confidential medical record, except that— 
+
+* * * * oa 
+
+(ii) first aid and safety personnel may be informed, 
+when appropriate, if the disability might require 
+emergency treatment; 
+
+- ~ ~ * ” 
+
+SUBCHAPTER II—PUBLIC SERVICES 
+
+PART A—PROHIBITION AGAINST DISCRIMINATION AND 
+OTHER GENERALLY APPLICABLE PROVISIONS 
+
+* * * * * 
+
+§ 12132. Discriminations 
+Subject to the provisions of this subchapter, no qualified 
+individual with a disability shall, by reason of such disability, 
+be excluded from participation in or be denied the benefits of 
+the services, programs, or activities of a public entity, or be 
+subjected to discrimination by any such entity. — 
+= ad ™ * * 
+
+§ 12134. Regulations 
+(a) In general 
+
+Not later than 1 year after July 26, 1990, the Attorney 
+General shall promulgate regulations in an accessible format 
+that implement this part. Such regulations shall not include 
+any matter within the scope of the authority of the Secretary 
+
+Sa 
+
+of Transportation under section 12143, 12149, or 12164 of 
+this title. 
+
+* = * * * 
+PART B—ACTIONS APPLICABLE TO PUBLIC TRANS- 
+
+PORTATION PROVIDED By PUBLIC ENTITIES CONSIDERED 
+DISCRIMINATORY 
+
+SUBPART I—PUBLIC TRANSPORTATION OTHER THAN BY 
+AIRCRAFT OR CERTAIN RAIL OPERATIONS 
+
+» * * * * 
+§ 12142. Public entities operating fixed route systems 
+* * x * » 
+(c) Remanufactured vehicles 
+~ * - * * 
+(2) Exception for historic vehicles 
+(A) General rule 
+
+If a public entity operates a fixed route system any 
+segment of which is included on the National Register 
+of Historic Places and if making a vehicle of historic 
+character to be used solely on such segment readily 
+accessible to and usable by individuals with disabili- 
+ties would significantly alter the historic character of 
+such vehicle, the public entity only has to make (or to 
+purchase or lease a remanufactured vehicle with) 
+those modifications which are necessary to meet the 
+requirements of paragraph (1) and which do not sig- 
+nificantly alter the historic character of such vehicle. 
+
+* * * od * 
+
+6a 
+
+§ 12143. Paratransit as a complement to fixed route 
+service 
+
+* ~ ial * * 
+(b) Issuance of regulations 
+
+Not later than 1 year after July 26, 1990, the Secretary 
+shall issue final regulations to carry out this section. 
+
+* * * * * 
+§ 12147. Alterations of existing facilities 
+(a) General rule 
+
+With respect to alterations of an existing facility or part 
+thereof used in the provision of designated public transporta- 
+tion services that affect or could affect the usability of the 
+facility or part thereof, it shall be considered discrimination 
+* * * for a public entity to fail to make such alterations * * * 
+in such a manner that, to the maximum extent feasible, the 
+altered portions of the facility are readily accessible to and 
+usable by individuals with disabilities * * *. 
+
+* ” * * a 
+§ 12149. Regulations 
+(a) In general 
+
+Not later than 1 year after July 26, 1990, the Secretary of 
+Transportation shall issue regulations, in an accessible for- 
+mat, necessary for carrying out this subpart (other than sec- 
+tion 12143 of this title). 
+
+* 7 * * * 
+
+SUBPART II—PUBLIC TRANSPORTATION By INTERCITY 
+AND COMMUTER RAIL 
+
+* * * * * 
+§ 12164. Regulations 
+
+Not later than 1 year after July 26, 1990, the Secretary of 
+Transportation shall issue regulations, in an accessible for- 
+mat, necessary for carrying out this subpart. 
+
+7a 
+* * * 7. * 
+
+SUBCHAPTER III—PUBLIC ACCOMMODATIONS AND 
+SERVICES OPERATED BY PRIVATE ENTITIES 
+
+* * * © * 
+§ 12182. Prohibition of discrimination by public accom- 
+modations 
+(a) General rule 
+
+No individual shall be discriminated against on the basis 
+of disability in the full and equal enjoyment of the goods, 
+services, facilities, privileges, advantages, or accommoda- 
+tions of any place of public accommodation by any person 
+who owns, leases (or leases to), or operates a place of public 
+accommodation. 
+
+(b) Construction 
+
+* * * * * 
+
+(2) Specific prohibitions 
+(A) Discrimination 
+
+For purposes of subsection (a) of this section, dis- 
+crimination includes— 
+
+(iii) a failure to take such steps as may be nec- 
+essary to ensure that no individual with a disability 
+is excluded, denied services, segregated or other- 
+wise treated differently than other individuals be- 
+cause of the absence of auxiliary aids and services, 
+unless the entity can demonstrate that taking such 
+steps would fundamentally alter the nature of the 
+
+good, service, facility, privilege, advantage, or ac- 
+commodation being offered or would result in an 
+
+undue burden; 
+
+(iv) a failure to remove architectural barriers, 
+and communication barriers that are structural in 
+nature, in existing facilities, and transportation 
+
+8a 
+
+barriers in existing vehicles and rail passenger cars 
+used by an establishment for transporting indi- 
+viduals (not including barriers that can only be re- 
+moved through the retrofitting of vehicles or rail 
+passenger cars by the installation of a hydraulic or 
+other lift), where such removal is readily achiev- 
+able; and 
+
+(v) where an entity can demonstrate that the 
+removal of a barrier under clause (iv) is not readily 
+achievable, a failure to make such goods, services, 
+facilities, privileges, advantages, or accommoda- 
+tions available through alternative methods if such 
+methods are readily achievable. 
+
+§ 12183. New construction and alterations in public ac- 
+commodations and commercial facilities 
+
+(a) Application of term 
+
+Except as provided in subsection (b) of this section, as 
+applied to public accommodations and commercial facilities, 
+discrimination for purposes of section 12182(a) of this title 
+includes— 
+
+* > > . * 
+
+(2) with respect to a facility or part thereof that is al- 
+tered by, on behalf of, or for the use of an establishment 
+in a manner that affects or could affect the usability of the 
+facility or part thereof, a failure to make alterations in 
+such a manner that, to the maximum extent feasible, the 
+altered portions of the facility are readily accessible to 
+and usable by individuals with disabilities, including in- 
+dividuals who use wheelchairs. * * *. 
+
+9a 
+
+§ 12184. Prohibition of discrimination in specified public 
+transportation services provided by private entities. 
+
+(a) General rule 
+
+No individual shall be discriminated against on the basis 
+
+of disability in the full and equal enjoyment of specified 
+public transportation services provided by a private entity 
+that is primarily engaged in the business of transporting 
+people and whose operations affect commerce. 
+
+* > * o * 
+(c) Historical or antiquated cars 
+
+(1) Exception 
+To the extent that compliance with subsection 
+
+(b\(2(C) or (b)(7) of this section would significantly 
+alter the historic or antiquated character of a historical or 
+antiquated rail passenger car, or a rail station served ex- 
+
+Se at La, ae Tee ee ee 
+be required. 
+
+* * * * . 
+§ 12186. Regulations 
+(a) Transportation provisions 
+(1) General rule 
+Not later than 1 year after July 26, 1990, the Secre- 
+tary of Transportation shall issue regulations in an ac- 
+cessible format to carry out sections 12182(b)(2)(B) and 
+
+(C) of this title and to carry out section 12184 of this ti- 
+tle (other than subsection (b)(4)). 
+
+(2) Special rules for providing access to over-the- 
+road buses 
+
+(A) Interim requirements 
+
+(i) Issuance 
+
+Not later than 1 year after July 26, 1990, the 
+Secretary of Transportation shall issue regula- 
+
+10a 
+
+tions in an accessible format to carry out sections 
+12184(b)(4) and 12812(b)(2)(D)ii) of this title 
+
+* * * * * 
+
+(B) Final requirement 
+
+(ii) Issuance 
+
+Not later than 1 year after the date of the 
+submission of the study under section 12185 of 
+this title, the Secretary shall issue in an accessi- 
+ble format new regulations to carry out sections 
+12184(b)(4) and 12182(b)(2)(D)(ii) of this title 
+
+(b) Other provisions 
+
+Not later than 1 year after July 26, 1990, the Attorney 
+General shall issue regulations in an accessible format to 
+carry out the provisions of this subchapter not referred to in 
+subsection (a) of this section that include standards applica- 
+ble to facilities and vehicles covered under section 12182 of 
+this title. 
+
+* * * * * 
+
+§ 12202. State immunity 
+
+A State shall not be immune under the eleventh amend- 
+ment to the Constitution of the United States from an action 
+in Federal or State court of competent jurisdiction for a vio- 
+lation of this chapter. In any action against a State for a vio- 
+lation of the requirements of this chapter, remedies (including 
+remedies both at law and in equity) are available for such a 
+violation to the same extent as such remedies are available 
+for such a violation in an action against any public or private 
+entity other than a State. 
+
+* * * * * 
+
+lla 
+
+§ 12204. Regulations by architectural and transportation 
+barriers compliance board 
+
+(a) Issuance of guidelines 
+
+Not later than 9 months after July 26, 1990, the Architec- 
+tural and Transportation Barriers Compliance Board shall is- 
+sue minimum guidelines that shall supplement the existing 
+Minimum Guidelines and Requirements for Accessible De- 
+sign for purposes of subchapters II and II of this chapter. 
+
+(b) Contents of guidelines 
+
+The supplemental guidelines issued under subsection (a) 
+of this section shall establish additional requirements, consis- 
+tent with this chapter, to ensure that buildings, facilities, rail 
+passenger cars, and vehicles are accessible, in terms of archi- 
+tecture and design, transportation, and communication, to 
+individuals with disabilities. 
+

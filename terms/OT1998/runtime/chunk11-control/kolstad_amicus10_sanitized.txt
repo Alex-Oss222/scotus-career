@@ -1,0 +1,2125 @@
+SOURCE: United States and EEOC predecision amicus, archived filing10. Mechanical extract excludes paragraphs potentially revealing target Supreme Court petition treatment. Party assertions remain assertions and historical citations require current-law comparison.
+
+Court, U.S. 
+
+| Supreme 
+- FILED 
+DEC 21 1998 
+
+S OREICE OF THE GLERK 
+
+No. 98-208 : OF 
+In the Supreme Court of the United States 
+
+OCTOBER TERM, 1998 
+
+CAROLE KOLSTAD, PETITIONER 
+v. 
+
+AMERICAN DENTAL ASSOCIATION 
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+BRIEF FOR THE UNITED STATES AND THE EQUAL 
+EMPLOYMENT OPPORTUNITY COMMISSION AS 
+AMICI CURIAE SUPPORTING PETITIONER 
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+BILL LANN LEE 
+Acting Assistant Attorney 
+General 
+
+T * * * 
+C. GREGORY STEWART BARBARA D. UNDERWOOD 
+
+General Counsel 
+
+PHILLIP B. SKLOVER 
+Associate General Counsel 
+
+VINCENT J. BLACKWOOD 
+Assistant General Counsel 
+
+ROBERT J. GREGORY 
+Attorney 
+Equul Employment 
+Opportunity Commission 
+Washington, D.C. 20507 
+
+Deputy Solicitor General 
+
+PATRICIA A. MILLETT 
+Assistant to the Solicitor 
+General 
+
+DENNIS J. DIMSEY 
+
+GREGORY B. FRIEL 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+QUESTION PRESENTED 
+
+The Civil Rights Act of 1991, Pub. L. No. 102-166, § 102, 
+105 Stat. 1072, authorizes the award of punitive damages to a 
+person who has been subjected to employment discrimina- 
+tion prohibited by Title VII of the Civil Rights Act of 1964, if 
+the defendant is not a governmental entity, the discrimina- 
+tion was intentional, and it was engaged in “with malice or 
+with reckless indifference to the federally protected rights of 
+an aggrieved individual.” 42 U.S.C. 198la(b)(1). The 
+question presented is: 
+
+Whether a showing of “egregious” discriminatory conduct 
+
+is necessary for an award of punitive damages under 42 
+U.S.C. 1981la(b)(1). 
+
+TABLE OF CONTENTS 
+
+Interest of the United States and the Equal 
+
+Employment Opportunity Commission 
+EEE —————————— 
+Summary of argument 
+Argument: 
+
+Section 1981a(b)(1) authorizes punitive damages in 
+
+cases of unlawful intentional discrimination when- 
+
+ever a plaintiff demonstrates that the defendant 
+acted with malice or reckless indifference to the 
+
+ä —2—AI„ 
+
+The text of Section 198 la makes the avail- 
+ability of punitive damages turn upon the 
+employer’s malice or reckless indifference to 
+federal rights 
+B. The structure of Section 1981a supports a 
+standard of liability for punitive damages that 
+focuses on the employer’s malice or reckless in- 
+difference to the unlawfulness of its conduct .......... 
+
+C. Analogous civil rights legislation and general 
+tort principles support permitting punitive 
+damages based on malice or reckless in- 
+difference to federal law, without any additional 
+requirement of egregious misconduct 
+
+D. The legislative history supports permitting 
+punitive damages based on malice or reckless 
+indifference, without any additional require- 
+ment of egregious misconduct 
+
+E. The purposes of the 1991 Act support permitting 
+punitive damages based on malice or reckless 
+indifference without any additional require- 
+ment of egregious misconduct 
+
+Conclusion 
+
+Appendix 
+
+(IID) 
+
+12 
+
+18 
+
+21 
+
+F 8 
+— 
+
+IV 
+
+TABLE OF AUTHORITIES 
+
+Cases: 
+
+Albermarle Paper Co. v. Moody, 422 U.S. 405 
+(1975) 
+
+Alexander v. Gardner-Denver Co., 415 U.S. 36 
+(1974) 
+
+Anderson v. United Finance Co., 666 F.2d 1274 
+(9th Cir. 1982) 
+
+Asbury v. Brougham, 866 F. 2d 1276 (10th Cir. 
+1989) 
+
+Barbour v. Merrill, 48 F.3d 1270 (D.C. Cir. 1995), 
+cert. dismissed, 516 U.S. 1155 (1996) 
+
+Beauford v. Sisters of Mercy-Province of Detroit, 
+Inc., 816 F.2d 1104 (6th Cir.), cert. denied, 484 
+U.S. 913 (1987) 
+
+Bell v. City of Milwaukee, 746 F.2d 1205 (7th Cir. 
+1984) 
+
+BMW of North Am., Inc. v. Gore, 517 U.S. 559 
+(1996) 
+
+Burlington Indus., ine. v. Ellerth, 118 S. Ct. 2257 
+(1998) 
+
+Conroy v. Aniskoff, 507 U.S. 511 (1993) 
+County of Sacramento v. Lewis, 118 S. Ct. 1708 
+(1998) 
+
+Deffenbaugh-Williams v. Wal-Mart Stores, Inc., 
+
+156 F.3d 581 (5th Cir. 1998) 
+EEOC v. Arabian Am. Oil Co., 499 U.S. 244 
+(1991) 
+
+EEOC v. Associates Dry Goods Corp., 449 U.S. 
+
+590 (1981) 
+EEOC v. Wal-Mart Stores, Inc., 156 F.3d 989 (9th 
+
+Cir. 1998) 
+
+V 
+Cases Continued: Page 
+Emmel v. Coca-Cola Bottling Co., 95 F.3d 627 
+(7th Cir. 1996) 9 
+Faragher v. City of Boca Raton, 118 S. Ct. 2275 
+(1998) 16, 20 
+Farmer v. Brennan, 511 U.S. 825 (1994) 8 
+Fischl v. General Motors Acceptance Corp., 708 
+F.2d 143 (5th Cir. 1983) 19 
+
+Gertz v. Robert Welch, Inc., 418 U.S. 323 (197) . 1027 
+Harris v. L & L Wings, Inc., 132 F.3d 978 (4th Cir. 
+
+1997) 12 
+Hazen Paper Co. v. Biggins, 507 U.S. 604 
+
+(1993) 8, 14, 15, 18 
+Hobson v. Wilson, 737 F. 2d 1 (D.C. Cir. 1984), 
+
+cert. denied, 470 U.S. 1084 (1985) — 19 
+Hubbard v. United States, 514 U.S. 695 (1996) 22, 23 
+Independent Fed. of Flight Attendants v. Zipes, 
+
+491 U.S. 754 (1989) 28 
+International Bhd. of Elec. Workers v. Foust, 
+
+442 U.S. 42 (1979) — 27 
+Johnson v. Railway Express Agency, Inc, 421 U.S. 
+
+454 (1975) 2 
+Landgraf v. USI Film Prods., 511 U.S. 244 
+
+(1994) 2, 23, 24, 27 
+Lockhart v. Westinghouse Credit Corp. 879 F.2d 
+
+43 (3d Cir. 1989) 14 
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 
+
+(1973) 9 
+
+McKennon v. Nashville Banner Pub. Co., 513 US. 
+
+352 (1995) 
+Morissette v. United States, 342 U.S. 246 (1952) 
+Molzof v. United States, 502 U.S. 301 (1992) 
+Neufeld v. Searle Labs., 884 F. 2d 335 (8th Cir. 
+
+1989) 14 
+Newman v. Piggie Park Enters., 390 U.S. 400 
+
+(1968) 28 
+
+VI 
+
+Cases—Continued: Page 
+Pacific Mutual Life Ins. Co. v. Haslip, 499 U.S. 1 
+(1991) 27 
+Price Waterhouse v. Hopkins, 490 U.S. 228 
+(1989) 29 
+Ragin v. Harry Macklowe Real Estate Co., 6 F. 3d 
+898 (2d Cir. 1983) 18 
+Rowlett v. Anheuser-Busch, Inc., 832 F.2d 194 (Ist 
+Cir. 1987) 17, 19, 21 
+Shannon v. United States, 512 U.S. 573 (1994) 9, 21 
+Smith v. Wade, 461 U.S. 30 (1983 8, 10, 16, 17, 18, 
+19, 20, 32, 22 
+Splunge v. Shoney's, Inc, 97 F.3d 488 (Iich Cir. 
+1996) ...... . = 16 
+Spulak v. K Mart Corp., 894 F.2d 1150 (10th 
+Cir. 1990) 14 
+Stallworth v. Shuler, T77 F.2d 1431 (11th Cir. 
+1985) 12, 22 
+Stephens v. South Atlantic Canners, Inc., 848 F.2d 
+484 (4th Cir.), cert. denied, 488 U.S. 996 (1988) 19 
+Tincher v. Wal-Mart Stores, Inc., 118 F.3d 1125 
+(7th Cir. 1997) 10-11 
+Tinker v. Colwell, 193 U.S. 473 (1904) 8 
+Tison v. Arizona, 481 U.S. 137 (1987) 10 
+Touche Ross & Co. v. Redington, 442 U.S. 560 
+(1979) 17-18 
+Trans World Airlines, Inc. v. Thurston, 469 U.S. 
+111 (1985) 13, 14 
+TXO Prod. Corp. v. Alliance Resources Corp., 509 
+U.S. 443 (1993) 12 
+United States v. Balistrieri, 981 F.2d 916 (7th Cir. 
+1992), cert. denied, 510 U.S. 812 (1993) 18-19 
+United States v. National Treasury Employees 
+Union, 513 U.S. 454 (1995) 11 
+
+United States v. Ron Pair Enters., Inc, 489 U.S. 
+235 (1989) 7, 21 
+
+Vil 
+Cases—Continued: Page 
+United States v. Shabani, 513 U.S. 10 (1994) ......... 10, 19, 20 
+Walters v. City of Atlanta, 803 F. 2d 1135 (11th Cir. 
+1986) 12, 19 
+Williamson v. Handy Button Mach. Co., 817 F.2d 
+1290 (7th Cir. 1987) 12, 19 
+U.S. Constitution and statutes: 
+U.S. Const. Amend. I 10 
+Age Discrimination in Employment Act of 1967, 
+29 U.S.C. 621 et seq. 13, 14, 15, 18 
+29 U.S.C. 626(b) 13 
+ae with Disabilities Act of 1990, 42 U.S.C. 
+101 et seq. im 
+42 U.S.C. 12111(2) 2285 8 
+42 U.S.C, 1211168) 16 
+42 U.S.C. 12112(a) 8 
+42 U.S.C. 12112(b)(5) 3 
+42 U.S.C, 12113(a) 16 
+42 U.S.C, 12113(b) 16 
+42 U.S.C, 12113(d) 16 
+42 U.S.C, 12114 16 
+42 U.S.C. 12117(a) 1 
+42 U.S. 12210 16 
+Civil Rights Act of 1964, Tit. VII, 42 U.S.C. 2000e 
+et seq. — im 
+42 U.S.C, 2000 e (b) sg 2 
+42 U.S.C, 2000e(f) 1,2, 15 
+42 U.S.C, 2000e(j) 15 
+42 U.S.C, 2000e-2(a) 2 
+42 U.S.C. 2000e-2(a)-(c) 8 
+42 U.S.C, 2000e-2(e) 15 
+42 U.S.C. 2000e-5(a) 1 
+42 U.S.C. 2000e-5(g)(1) 2 
+Civil Rights Act of 1991, Pub. L. No. 102-166, Tit. I, 
+§ 102, 105 Stat. 1072 2, 6, 23, 24, 25, 26, 28 
+
+VIII 
+
+Statutes—Continued: Page 
+Fair Housing Act, 42 U.S.C. 3601 et seq. 1, 18, 19 
+42 U.S.C. 3612(0)(3) 2 
+42 U.S.C. 3613(¢)() 2, 18 
+42 U.S.C. 3614(d)(1(B) 2 
+11 U.S.C. 363(n) 18 
+12 U.S.C. 1708(¢)(3)(D) 10 
+15 U.S.C, 7T8u(h\(7)(A iii) 18 
+15 U.S.C, 1691e(b) 19 
+18 U.S.C. 2724(b)(2) 18 
+19 U.S.C, 2242(b)(1)(A) 10 
+42 U.S.C. 300aa-23(d) .. 18 
+42 U.S.C. 1396u-2(e(2)(B)(i) 10 
+42 U.S.C, 1981 2, 18, 19, 21, 22 
+42 U.S.C. 198la passim 
+Un . 8, 12 
+42 U.S.C. 1981aca) 3) 3, 16 
+42 U.S.C. 1981a(b)(1) passim 
+42 U.S.C. 1981a(b)(3) 2, 3, 12 
+42 U.S.C, 1981a(d)(1) 1 
+42 U.S.C. 1982 18 
+42 U.S.C. 1983 10, 18, 19 
+42 U.S.C, 1985 18, 19 
+42 U.S.C. 1997a(a) 9-10 
+42 U.S.C. 14503(a)(3) 18 
+Miscellaneous: 
+Black’s Law Dictionary (6th ed. 1990) 8 
+137 Cong. Rec. (1991): 
+p. 28,856 24 
+p. 28,915 27 
+p. 29,034 24 
+p. 29,035 23 
+pp. 29,041-29,042 24 
+pp. 29,043-29,044 25 
+p. 29,046 23 
+p. 30,661 23, 27, 29 
+p. 30,662 22 
+p. 30,667 24 
+p. 30,670 24 
+
+IX 
+
+Miscellaneous—Continued: 
+p. 30,678 
+
+p. 30,683 
+
+p. E3811 (daily ed. Nov. 7, 1991) 
+
+EEOC Compliance Manual, Enforcement Guidance: 
+Compensatory and Punitive Damages Available 
+Under § 102 of the Civil Rights Act of 1991 
+(1992) 
+
+8 Rep. No. 40, 102d Cong., Ist Sess. (1991): 
+1 
+
+Pt. 2 
+Restatement (Second) of Torts (1965) 
+
+wae 
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+No. 98-208 
+
+CAROLE KOLSTAD, PETITIONER 
+Vv. 
+
+AMERICAN DENTAL ASSOCIATION 
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE DISTRICT OF COLUMBIA CIRCUIT 
+
+BRIEF FOR THE UNITED STATES AND THE EQUAL 
+EMPLOYMENT OPPORTUNITY COMMISSION AS 
+AMICI CURIAE SUPPORTING PETITIONER 
+
+INTEREST OF THE UNITED STATES AND THE 
+EQUAL EMPLOYMENT OPPORTUNITY COMMISSION 
+
+This case concerns the standard for submitting a claim of 
+punitive damages to a jury under 42 U.S.C. 1981a(b)(1), 
+which authorizes the award of punitive damages against 
+private employers in certain cases arising under Title VII of 
+the Civil Rights Act of 1964, 42 U.S.C. 2000e et se., and 
+Title I of the Americans With Disabilities Act, 42 U.S.C. 
+12101 et seg. See 42 U.S.C. 198la(a) and (b)(1). The Equal 
+Employment Opportunity Commission (EEOC) has author- 
+ity to enforce both statutes against private employers and to 
+seek punitive damages. 42 U.S.C. 198la(b)(1) and (d)(1), 
+2000e-5(a) and (f), 12117(a). The EEOC participated as 
+amicus curiae in this case in the court of appeals. In 
+addition, the Fair Housing Act has been interpreted as 
+
+(1) 
+
+2 
+
+incorporating a standard for punitive damages that is sim*!ar 
+to the Section 1981a standard at issue in this case. The 
+Attorney General is responsible for enforcing the Fair 
+Housing Act, see 42 U.S.C. 3612(0)(3), 3613(c)(1), 
+3614(d)(1)(B). The Court’s decision in this case thus is likely 
+to affect the enforcement responsibilities of the EEOC and 
+the Attorney General. 
+
+STATEMENT me 
+
+1. Title VII of the Civil Rights Act of 1964, 42 U.S.C. 
+2000e et seg. (Title VII), prohibits employers from dis- 
+criminating in employment decisions on the basis of race, 
+color, religion, sex, or national origin. 42 U.S.C. 2000e-2(a), 
+2000e(b) and (f). As originally enacted, Title VII afforded 
+prevailing plaintiffs only equitable remedies, such as back 
+pay and reinstatement. 42 U.S.C. 2000e-5(g)(1); see also 
+Landgraf v. USI Film Prods., 511 U.S. 244, 252-253 (1994). 
+Compensatory and punitive damages were available under 
+42 U.S.C. 1981 to some victims of racial discrimination in 
+employment, see Johnson v. Railway Express Agency, Inc., 
+421 U.S. 454, 459-460 (1975), but not to victims of discrimina- 
+tion based on sex or religion. 
+
+Section 102 of the Civil Rights Act of 1991, Pub. L. No. 
+102-166, 105 Stat. 1072 (1991 Act), significantly expanded the 
+remedies available under Title VII to victims of unlawful 
+discrimination that is intentional, rather than unlawful 
+because of disparate impact. The 1991 Act created a new 
+Section 1981a, which provides that victims of unlawful 
+intentional discrimination under Title VII, as well as some 
+victims of discrimination prohibited by Title I of the 
+Americans With Disabilities Act of 1990, 42 U.S.C. 12101 et 
+seq. (Disabilities Act), can recover compensatory damages 
+for “future pecuniary losses, emotional pain, suffering, 
+inconvenience, mental anguish, loss of enjoyment of life, and 
+other nonpecuniary losses.” 42 U.S.C. 198la(b)(3). Section 
+1981 further authorizes the award of punitive damages 
+
+3 
+
+under Title VII and the Disabilities Act in certain eireum- 
+stances: 
+
+A complaining party may recover punitive damages 
+under this section against a respondent (other than a 
+government, government agency or political subdivision) 
+if the complaining party demonstrates that the respon- 
+dent engaged in a discriminatory practice or discrimina- 
+tory practices with malice or with reckless indifference 
+to the federally protected rights of an aggrieved in- 
+dividual. 
+42 U.S.C. 1981a(b)(1). Section 1981a limits the total amount 
+of compensatory and punitive damages for which an em- 
+ployer can be held liable by imposing caps, which depend 
+upon an employer’s size, ranging from $50,000 to $300,000. 
+42 U.S.C. 1981a(b)(3). 
+
+2. Petitioner Carole Kolstad sued her employer, re- 
+spondent American Dental Association, for sex discrimina- 
+tion under Title VII. In the fall of 1992, petitioner, who was 
+respondent’s Director of Federal Agency Relations, applied 
+for the newly vacant position of Director of Legislation and 
+Legislative Policy and Director of the Council on Govern- 
+ment Affairs and Federal Dental Services. Pet. App. 3a. 
+Petitioner was denied the promotion, which instead went to 
+Tom Spangler, respondent’s Legislative Counsel. Id. at 44a. 
+
+Petitioner filed suit under Title VII, alleging that re- 
+spondent denied her promotion to the higher-ranking posi- 
+tion because of her sex. Pet. App. 4a. The case was tried 
+before a jury. Id. at 45a. At the close of evidence, the 
+
+1 Section 1981a precludes an award of compensatory or punitive 
+damages under the reasonable accommodation provision of the Disabilities 
+Act, 42 U.S.C. 12112(b)(5), where the employer “demonstrates good faith 
+efforts, in consultation with the person with the disability * , to 
+identify and make a reasonable accommodation that would provide such 
+individual with an equally effective opportunity and would not cause an 
+undue hardship on the operation of the business.” 42 U.S.C. 1981a(a)(3). 
+
+4 
+
+district court dismissed petitioner’s claims for compensatory 
+and punitive damages. Ibid. The jury returned a verdict in 
+favor of petitioner, finding that respondent had unlawfully 
+discriminated against petitioner on the basis of sex, and 
+awarding $52,718 in back pay. /bid.; J.A. 109-110. 
+
+3. Both petitioner and respondent appealed. The court of 
+appeals unanimously rejected respondent’s challenge to the 
+liability determination, and reversed and remanded for re- 
+consideration the denial of injunctive relief and attorneys’ 
+fees. Pet. App. 46a-49a, 54a-56a, 68a. A divided panel re- 
+versed the refusal to submit the punitive damages claim to 
+the jury. Id. at 49a-54a, 57a-68a. 
+
+The court of appeals granted rehearing en banc limited to 
+the punitive damages question. In a six-to-five decision, the 
+court of appeals affirmed the district court. Pet. App. la- 
+41a. The court ruled that Section 198la permits a jury to 
+consider punitive damages only in cases of “particularly 
+egregious violations of Title VII,” id. at 6a, and it found no 
+such egregiousness in this case, id. at 12a. The court 
+acknowledged that the additional requirement it was im- 
+posing for the award of punitive damages was not set forth 
+in the statute itself. Jd. at 56a. The court concluded 
+nevertheless that a literal reading of Section 1981a “would 
+conflict with the remedial structure of the statute [and] with 
+legislative history.” Jd. at 6a. Judge Randolph concurred 
+separately, stressing that the issue of statutory inter- 
+pretation raised by the case was “exceedingly close.” Id. at 
+23a. 
+
+Judge Tatel, joined by four other judges, dissented. The 
+dissent noted that Section 198la “never mentions egregious- 
+ness.” Pet. App. 24a. Rather, Section 1981a's “reckless 
+indifference” standard “makes the difference between com- 
+pensatory and punitive damages depend on the employer's 
+awareness of Title VII's legal mandates.” Id. at 26a (internal 
+quotation marks omitted). The dissent noted that “em- 
+ployers found to have intentionally discriminated in violation 
+
+5 
+
+of Title VII” may still be able “to convince a judge to remove 
+the question of punitive damages from jury consideration 
+altogether,” if, for example, they relied upon the bona fide 
+occupational qualification defense erroneously but not reck- 
+lessly, or overreached in a good-faith effort to remedy the 
+effects of past discrimination. Jd. at 29a. Furthermore, 
+application of the statutory standard does not mean that 
+“juries will automatically award punitive damages in every 
+Title VII disparate treatment case,” because a jury, in the 
+exercise of its “discretionary moral judgment,” may decide 
+not to award punitive damages even upon proof of an 
+intentional violation of the statute. Id. at 28a. — 
+
+SUMMARY OF ARGUMENT 
+
+A. The plain language of Section 198la authorizes 
+punitive damages when, in addition to engaging in inten- 
+tional discrimination under Title VII or the Disabilities Act, 
+the defendant did so “with malice or with reckless in- 
+difference to the federally protected rights of an aggrieved 
+individual.” 42 U.S.C. 198la(b)(1). Congress thus estab- 
+lished a standard for punitive damages that adds to the 
+underlying liability standard a requirement that focuses on 
+the employer’s disregard of governing legal obligations. The 
+plaintiff must show that the defendant either acted 
+maliciously—that is, with an evil motive or the purpose of 
+injuring—or disregarded a substantial risk that its conduct 
+would violate the plaintiff's legal rights. 
+
+Nothing in the text of Section 1981a requires the plaintiff, 
+in addition, to show that the underlying discriminatory con- 
+duct was egregious. The egregiousness of an employer's 
+conduct may constitute evidence of an employer’s malice or 
+reckless indifference to an employee’s rights. But other 
+sources of evidence may be equally probative of malice or 
+reckless indifference; the court of appeals erred in making 
+egregious conduct the sole path to a punitive damages 
+
+award. 
+
+6 
+
+B. The legislative history of Section 198la provides no 
+basis for supplementing the punitive damages standard 
+Congress enacted with an extra-statutory limitation. In- 
+stead, the legislative history shows that Congress made 
+purposeful choiees in structuring the punitive damages 
+provision, reflecting a substantial compromise between the 
+economic interests of employers and the interests of 
+employees and the public generally in eliminating dis- 
+crimination from the workplace. That history shows that 
+Congress intended to protect employers, not through nar- 
+rowing the standard for punitive damages liability, but 
+rather by capping the damages ultimately available to the 
+employee. Adopting an interpretation of Section 198la that 
+both curtails the availability of punitive damages and limits 
+that liability with damage caps would upset Congress’s deli- 
+cate and hard-fought compromise. 
+
+C. Adherence to Section 1981a's language is consistent 
+with the purposes underlying the 1991 Act. First, a primary 
+objective of the legislation was to deter discriminatory 
+practices from occurring in the first place. The availability of 
+punitive damages in cases of unlawful intentional dis- 
+crimination advances that goal. Congressional frustration 
+with the perpetuation of unlawful intentional discrimination 
+nearly thirty years after the passage of Title VII reinforced 
+the judgment that employers should face the threat of 
+punitive damages whenever they act with malice or with 
+reckless indifference to Title VII’s prohibitions. In other 
+words, through Section 1981la(b)(1), Congress determined 
+that all unlawful intentional discrimination undertaken with 
+malice or reckless indifference to federal law is inherently 
+deserving of punishment through an award of punitive da- 
+mages. The court of appeals was not free to reconsider that 
+judgment. 
+
+Second, Title VII advances both private and public 
+interests in a workplace free of discrimination. Title VII 
+
+plaintiffs serve, in part, as private attorneys general vindi- 
+
+7 
+
+cating the federal interest in abolishing employment dis- 
+crimination on the basis of race, gender, religion, and 
+national origin. The standard Congress established for puni- 
+tive damages in Section 198la thus reflects that intentional 
+discrimination, when undertaken with malice or reckless 
+indifference to established prohibitions, causes both in- 
+dividualized and public injury and thus merits a commen- 
+surately broad remedial response. 
+
+ARGUMENT 
+
+SECTION 198la(b)(1) AUTHORIZES PUNITIVE 
+DAMAGES IN CASES OF UNLAWFUL INTENTIONAL 
+DISCRIMINATION WHENEVER A PLAINTIFF DEMON- 
+STRATES THAT THE DEFENDANT ACTED WITH 
+MALICE OR RECKLESS INDIFFERENCE TO THE 
+PLAINTIFF'S FEDERALLY PROTECTED RIGHTS 
+
+A. The Text Of Section 198la Makes The Availability Of 
+Punitive Damages Turn Upon The Employer's Malice 
+Or Reckless Indifference To Federal Rights 
+
+1. The task of discerning the governing standard for an 
+award of punitive damages under Section 198la “begins 
+where all such inquiries must begin: with the language of the 
+statute itself.” United States v. Ron Pair Enters., Inc., 489 
+U.S. 235, 241 (1989). In this case, that is also where the 
+inquiry ends, for Congress has spoken directly to the matter 
+in the text of Section 198la. Congress provided that, in 
+cases of intentional discrimination prohibited by Title VII 
+and the Disabilities Act, or a failure reasonably to accom- 
+modate under the Disabilities Act, a complaining party may 
+recover punitive damages from a nongovernmental employer 
+whenever she demonstrates that the employer engaged in 
+the discrimination “with malice or with reckless indifference 
+
+to [her] federally protected rights.” 42 U.S.C. 1981a(b)(1).’ 
+
+2 Title VII and the Disabilities Act apply not just to employers, but 
+also to other entities involved in the employment process such as employ- 
+
+8 
+
+The text of Section 198la thus makes the availability of 
+punitive damages turn upon the employer’s malice or reck 
+lessness concerning its legal obligations at the time it en- 
+gaged in the discriminatory conduct. If the employer under- 
+takes its discriminatory acts maliciously (that is, with an evil 
+motive or with the purpose of injuring the plaintiff), or acts 
+in disregard of a substantial risk that its conduct is 
+unlawful,’ then punitive damages are available. 
+
+The punitive damages standard Congress enacted adds an 
+important element to the underlying liability standards for 
+Title VII and the Disabilities Act. Liability for equitable 
+relief under those statutes does not require intent. Liability 
+for compensatory damages generally requires intent to dis- 
+criminate (an employment practice with a disparate impact 
+will not suffice, 42 U.S.C. 198 1a(a)); the employer’s malice or 
+recklessness regarding its legal obligations, however, is 
+neither a prerequisite to nor a necessary component of the 
+
+—ů — 
+
+ment agencies and labor unions. See 42 U.S.C. 2000e-2(a)-(c), 1211102). 
+12112(a). Throughout this brief, “employer” refers collectively to all 
+covered entities under both statutes. 
+
+See, eg, Smith v. Wade, 461 U.S. 30, 48, 56 (1983) (malice entails 
+“an actual intent to injure” or “evil motive”); id. at 39 n.8 (noting varying 
+meanings of malice, which include both subjective and objective significa- 
+tions); Tinker v. Colwell, 193 U.S. 473, 486 (1904) (malice “means a 
+depraved inclination on the part of a person to disregard the rights of 
+others”). 
+
+* See Hazen Paper Co. v. Biggins, 507 U.S. 604, 617 (1993) (employer 
+acts with reckless disregard if it “more likely knows its conduct to be 
+illegal”); see generally Farmer v. Brennan, 511 U.S. 825, 836-837 (1994) 
+(“The civil law generally calls a person reckless who acts or * * * fails to 
+act in the face of an unjustifiably high risk of harm that is either known or 
+so obvious that it should be known.”) (citations omitted). The phrases 
+“reckless indifference” and “reckless disregard” are commonly used inter- 
+changeably, and nothing indicates that Congress intended otherwise here. 
+See, e.g., Black's Law Dictionary 1270 (6th ed. 1990); Farmer, 511 U.S. at 
+836; Smith, 461 U.S. at 37, 38 n.6, 48, 51, 56; Restatement (Second) of Torts 
+§ 500 cmt. a (1965). 
+
+9 
+
+plaintiffs burden of proof. See generally McDonnell 
+Douglas Corp. v. Green, 411 U.S. 792, 802 (1973). Only for 
+punitive damages does the employer's malice or disregard of 
+its legal obligations become relevant. Accordingly, as both 
+the majority and the dissent below recognized (Pet. App. 5a- 
+6a, 25a-26a), a finding of intentional discrimination, without 
+more, does not automatically make a plaintiff eligible to 
+receive punitive damages. She must separately prove that 
+the discriminatory conduct was undertaken by the employer 
+either with malice or with reckless indifference to its legal 
+obligation to avoid diserimination. 
+
+2. The egregiousness standard adopted by the court of 
+appeals (Pet. App. 12a) “has no statutory reference point.” 
+Shannon v. United States, 512 U.S. 573, 584 (1994). The 
+word “egregious” is nowhere present in Section 1981a. 
+Indeed, the focus of the court of appeals on the outrageous 
+nature of the underlying discriminatory conduct is wholly 
+inconsistent with the focus of Section 198la(b)(1) on the 
+employer’s malice or recklessness regarding its legal obliga- 
+tions. 
+
+Moreover, when Congress has chosen to condition liability 
+on egregious behavior, it has done so expressly, both in civil 
+rights legislation and elsewhere. When a statutory term is 
+
+5 See Emmel v. Coca-Cola Bottling Co., 95 F.3d 627, 636 (7th Cir. 
+1996) (explaining difference between the liability and punitive damages 
+standards); EEOC Compliance Manual, Enforcement Guidance: Com- 
+pensatory and Punitive Damages Available under § 102 of the Civil 
+Rights Act of 1991 52 (1992) (Enforcement Guidance) (“A finding of 
+liability does not of itself entitle a plaintiff to an award of punitive 
+damages.”). While the plaintiff's burden of proof for punitive damages is 
+thus distinct from its burden at the liability stage, the plaintiff will not 
+always have to introduce additional evidence to obtain punitive damages. 
+In many cases, the evidence that establishes liability will also establish 
+malice or reckless indifference. 
+
+See 42 U.S.C. 1997a(a) (authority of Attorney General to bring suit 
+when a State or state officials subject institutionalized persons “to 
+
+10 
+
+absent in one statute, but explicit in others, “Congress’ 
+silence * * * speaks volumes.” United States v. Shabani, 
+513 U.S. 10, 14 (1994). 
+
+3. The court of appeals thought the reckless indifference 
+standard Congress enacted was too vague to determine the 
+difference between liability and punitive damages, Pet. App. 
+6a, but the court was mistaken. First, the standard Con- 
+gress enacted and its functional equivalents have been 
+considered sufficiently concrete to govern punitive damages 
+under 42 U.S.C. 1983, Smith v. Wade, 461 U.S. 30, 56 (1983), 
+punitive damages under the First Amendment, Gertz v. 
+Robert Welch, Inc., 418 U.S. 323, 349 (1974), and, in the 
+criminal context, the imposition by a jury of a death 
+sentence, Tison v. Arizona, 481 U.S. 137, 158 (1987). Given 
+that pedigree, the standard is surely also sufficiently lucid to 
+permit jury imposition of a moderately capped punitive dam- 
+ages award. See Smith, 461 U.S. at 49 ([Wie are not per- 
+suaded that a recklessness standard is too vague to be fair or 
+
+useful.”). 
+Second, the court of appeals’ egregiousness standard is no 
+clearer. Compare County of Sacramento v. Lewis, 118 S. Ct. 
+1708, 1717 n.8, 1718-1720 (1998) (equating “egregious” be- 
+havior with conduct that, rather than merely being 
+recklessly indifferent, shocks the conscience), with Tincher 
+v. Wal-Mart Stores, Inc., 118 F.3d 1125, 1132-1134 (7th Cir. 
+1997) (equating “egregious[]” behavior with malice or reck- 
+
+egregious or flagrant conditions” that deprive those individuals of their 
+rights under federal law); see also 42 U.S.C. 1396u-2(e2)(B)(i) (providing 
+for State supervision of Medicaid managed care organization that engages 
+in “continued egregious behavior”); 12 U.S.C. 1708(e)(3)\D) (authorizing 
+withdrawal of mortgagee where violations of law have been “egregious or 
+willful”); 19 U.S.C. 2242(b)(1)A) (identification of countries by the United 
+States Trade Representative that “have the most onerous or egregious 
+acts, policies, or practices” that deny effective intellectual property rights 
+protection). 
+
+11 
+
+less indifference). Indeed, the court of appeals failed even to 
+define the term. Pet. App. 12a-13a. 
+
+Third, and in any event, the imprecision in the statutory 
+language that the court of appeals perceived provides no 
+warrant for judicially amending the statute. See United 
+States v. National Treasury Employees Union, 513 U.S. 454, 
+479 (1995) (emphasizing the Court’s “obligation to avoid 
+judicial legislation”). 
+
+4. The absence of an egregiousness standard in the text 
+of Section 198la does not mean that the shocking or 
+appalling character of a defendant’s discriminatory conduct 
+must be deemed irrelevant to the punitive damages inquiry. 
+The egregiousness of the discriminatory conduct provides 
+evidence of a defendant’s malice or reckless indifference to 
+the plaintiffs federally protected rights.’ The more blatant 
+and outrageous the discrimination, the stronger the in- 
+ference that the employer knew or should have been aware 
+of the substantial risk that its behavior had crossed the line 
+of legality. 
+
+But demonstrating egregiousness is only one of many 
+available means of proving that the standard set by 
+Congress for punitive damages liability has been satisfied. 
+Other evidence may be equally probative. First, reckless 
+indifference is more likely where the discrimination is 
+blatant and the legal prohibition clear. Second, the em- 
+ployer’s recklessness may be evidenced by expressions of 
+hostility to or resentment of federal civil rights law. Third, 
+efforts to conceal or doctor evidence regarding the employ- 
+ment decision, the use of sham selection procedures, and the 
+
+See Enforcement Guidance, supra, at 53 (egregiousness can be one 
+of many relevant factors demonstrating malice or reckless indifference). 
+As an administrative interpretation by the enforcing agency, the EEOC’s 
+construction of Section 1981a’s punitive damages provision merits some 
+deference. Albemarle Paper Co. v. Moody, 422 U.S. 405, 431 (1975); see 
+also EEOC v. Arabian Am. Oil Co., 499 U.S. 244, 256-258 (1991). 
+
+12 
+
+tailoring of job criteria can suggest an evasion of known legal 
+requirements. Fourth, a pervasive or lengthy pattern of 
+discriminatory behavior, retaliation against a complainant, 
+or other inappropriate responses to complaints of dis- 
+crimination may tend to show the employer’s recklessness. 
+Lastly, the sophistication of the employer and its prior 
+experience with discrimination complaints may also be rele- 
+vant.” The flaw in the court of appeals’ reasoning was not 
+that it permitted egregiousness to play a role in identifying 
+what cases are eligible for punitive damages, but that the 
+court made egregiousness the defining criterion for punitive 
+damages, rather than simply one form of relevant evidence 
+that may be used to satisfy Congress’s standard. 
+
+B. The Structure Of Section 198la Supports A Standard 
+Of Liability For Punitive Damages That Focuses On 
+The Employer’s Malice Or Reckless Indifference To 
+The Unlawfulness Of Its Conduct 
+
+1. The structure of Section 198la also supports con- 
+ditioning punitive damages liability on the employer’s malice 
+or reckless indifference to the wrongfulness of its conduct, 
+rather than its egregiousness. See generally Conroy v. 
+Aniskoff, 507 U.S. 511, 515 (1993) (“[A] statute is to be read 
+as a whole, since the meaning of statutory language, plain or 
+not, depends on context.”) (internal quotation marks and 
+citation omitted). 
+
+ö See, e.g., Enforcement Guidance, supra, at 53-54 (non-exclusive list 
+of relevant factors); EEOC v. Wal-Mart Stores, Inc., 156 F.3d 989, 992-993 
+(9th Cir. 1998); Harris v. L & L Wings, Inc., 182 F.3d 978, 984 (4th Cir. 
+1997); Williamson v. Handy Button Mach. Co., 817 F.2d 1290, 1296 (7th 
+Cir. 1987); Walters v. City of Atlanta, 803 F.2d 1135, 1148 (11th Cir. 1986), 
+Stallworth v. Shuler, 777 F.2d 1431, 1435 (11th Cir. 1985); ef. TXO Prod. 
+Corp. v. Alliance Resources Corp., 509 U.S. 443, 462-463 & n.28 (1993) 
+(opinion of Stevens, J.) (factors relevant to punitive damages generally), 
+id. at 468-469 (opinion of Kennedy, J.) (same). 
+
+13 
+
+Section 198la separately provides for compensatory da- 
+mages and punitive damages. The compensatory damages 
+provision requires proof of intentional discrimination (or, in 
+the case of some disability decisions, a failure to act rea- 
+sonably and in good faith to accommodate a disability) and 
+actual injury, 42 U.S.C. 198la(a) and (b)(3). The punitive 
+damages provision turns upon the employer’s malice or 
+reckless indifference to its legal obligations. As reflected in 
+the structure of Section 1981a, Congress thus envisioned 
+that the two forms of damages would entail different 
+inquiries. 
+
+The court of appeals correctly perceived the intent to 
+create a two-tiered structure, but mistakenly concluded 
+that punitive damages should require a heightened version 
+of the same facts necessary for compensatory damages— 
+discriminatory intent and injury—instead of recognizing that 
+an award of punitive damages requires something else 
+altogether. The court of appeals thus reduced Congress’s 
+separately structured compensatory and punitive damage 
+inquiries into two points along a single continuum. 
+
+2. The court of appeals found it appropriate to add a 
+requirement of a “particularly egregious violationſ]“ (Pet. 
+App. 6a) to the punitive damages statute in order to ensure a 
+meaningful two-tiered liability scheme, in which not every 
+finding of intentional discrimination automatically qualifies 
+for punitive damages. Id. at 6a, 18a. But this Court has 
+already rejected precisely that reasoning in construing an 
+analogous provision of the Age Discrimination in Employ- 
+ment Act (ADEA), 29 U.S.C. 626(b). That provision author- 
+izes an award of liquidated (double) damages for “willful” 
+violations of the ADEA. In Trans World Airlines, Inc. v. 
+Thurston, 469 U.S. 111, 126 (1985), this Court held that 
+liquidated damages under the ADEA are, like the punitive 
+damages at issue here, intended “to be punitive in nature.” 
+Id. at 125. The Court further held that a violation of the 
+ADEA is willful, warranting punitive damages, “if the 
+
+14 
+
+employer * * * knew or showed reckless disregard for the 
+matter of whether its conduct was prohibited by the 
+ADEA.” Id. at 126 (internal quotation marks omitted). 
+
+In Hazen Paper Co. v. Biggins, 507 U.S. 604 (1993), the 
+Court rejected the invitation to find in the ADEA, in 
+addition to the requirement of reckless disregard of the law, 
+a further requirement of “outrageous” conduct. Id. at 615.“ 
+In that case, as here, the employer argued that the addi- 
+tional element was necessary to maintain a two-tiered 
+system and ensure that not every violation of the ADEA 
+qualified for liquidated damages. Id. at 614-616. 
+
+This Court unanimously rejected the suggestion that 
+courts should impose extra-statutory conditions on punitive 
+awards, for two reasons. First, the suggestion is incon- 
+sistent with the plain language of the statute: 
+
+The ADEA does not provide for liquidated damages 
+“where consistent with the principle of a two-tiered 
+liability scheme.” It provides for liquidated damages 
+where the violation was “willful.” That definition must be 
+applied here. 
+
+Hazen Paper, 507 U.S. at 616. 
+
+Second, the suggestion is unnecessary, because the 
+statute establishes an adequately differentiated two-tiered 
+system without judicial amendment. The Court noted that 
+the ADEA “is not an unqualified prohibition on the use of 
+age in employment decisions,” Hazen Paper, 507 U.S. at 616, 
+but rather affords a “bona fide occupational qualification 
+defense” and exempts certain subject matters and persons, 
+thus leaving ample opportunity for an employer to believe in 
+
+% The requirement of “outrageous” conduct had been adopted by 
+Lockhart v. Westinghouse Credit Corp., 879 F.2d 43, 57-58 (3d Cir. 1989); 
+other circuits had adopted different requirements. See, e.g., Neufeld v. 
+Searle Labs., 884 F.2d 335, 340 (8th Cir. 1989) (evidence must be direct 
+rather than circumstantial); Spulak v. K Mart Corp., 894 F.2d 1150, 1159 
+(10th Cir. 1990) (age must be the “predominant” factor). 
+
+15 
+
+good faith and without recklessness thet the statute permits 
+a particular age-based decision. Ibid. Quite simply, “{i}t is 
+not true that an employer who knowingly relies on age in 
+reaching its decision invariably commits a knowing or 
+reckless violation of the ADEA.” Ibid. The difference 
+between liability for compensatory relief under the statute 
+and liability for liquidated double damages is a showing of 
+“willfulness.” Accordingly, Jolnce a ‘willful’ violation has 
+been shown, the employee need not additionally demonstrate 
+that the employer’s conduct was outrageous” to merit 
+punitive liquidated damages under the ADEA. Id. at 617. 
+
+That same reasoning controls here. Congress did not 
+authorize punitive damages under Section 1981a only “where 
+consistent with the principle of a two-tiered liability 
+scheme.” Hazen Paper, 507 U.S. at 616. It authorized puni- 
+tive damages whenever the employer engages in unlawful 
+intentional discrimination “with malice or with reckless 
+indifference to the federally protected rights of an aggrieved 
+individual.” 42 U.S.C. 1981a(b)(1). 
+
+Moreover, it simply is not true that, absent additional 
+extra-statutory limitations, punitive damages will be 
+available in all cases of unlawful intentional discrimination 
+under Title VII or the Disabilities Act. They are available 
+only where the employer engages in unlawful intentional 
+discrimination (or an unlawful failure to accommodate) with 
+malice or reckless indifference to the law. An employer may 
+be liable for compensatory damages, but not punitive 
+damages under Title VII when the employer relies on a 
+prohibited characteristic believing mistakenly but in good 
+faith that the trait is a bona fide occupational qualification, 42 
+U.S.C. 2000e-2(e); or that he is making a valid effort to 
+remedy the effects of past discrimination; or that he is not 
+obliged to accommodate a particular religious exercise 
+because of “undue hardship,” 42 U.S.C. 2000e(j); or that an 
+individual falls within the “personal staff’ exception to Title 
+VII. 42 U.S.C. 2000e(f). 
+
+16 
+
+Similarly, under the Disabilities Act, an employer may be 
+liable for equitable relief and compensatory damages, but not 
+punitive damages, where he mistakenly but in good faith 
+believes that (i) the employee is not a “qualified individual” 
+for the position, 42 U.S.C. 12111(8); (ii) differential treatment 
+of the individual with a disability is a “business necessity,” 42 
+U.S.C. 12113(a); (iii) the employee would pose a “direct 
+threat” to the health or safety of others, 42 U.S.C. 12113(b); 
+(iv) the employee can be segregated from certain functions 
+because he carries an infectious or communicable disease, 42 
+U.S.C. 12113(d); or (v) the employee has not been rehabili- 
+tated from his illegal use of drugs, 42 U.S.C. 12114, 12210." 
+
+Under both Title VII and the Disabilities Act, liability 
+judgments based on novel legal theories may also be 
+ineligible for punitive damages if the employer would not 
+have been on clear notice of the legal infirmity of its conduct. 
+Further, the responsibility of an employer for punitive 
+damages for co-worker harassment or non-tangible employ- 
+ment actions accomplished through attenuated agency 
+relationships has not yet been settled.“ Finally, punitive 
+damages “are never awarded as of right”; an award always 
+rests within the jury’s “discretionary moral judgment.” 
+Smith, 461 U.S. at 52. 
+
+1% Section 198la separately immunizes from compensatory and pun- 
+itive damages good faith efforts by an employer, cooperating with the 
+employee, to accommodate a disability. 42 U.S.C. 1981a(a)3). 
+
+1 Compare Pet. App. 30a (“Attribution of employee state of mind 
+differs when the jury turns to the question of punitive damages.”), and 
+Splunge v. Shoney's, Inc., 97 F.3d 488, 491 (11th Cir. 1996) (state of mind 
+of harassing employee not imputed to the company for purposes of 
+punitive damages), with Deffenbaugh-Williams v. Wal-Mart Stores, Inc., 
+156 F.3d 581, 592-594 (5th Cir. 1998) (supervisor’s malicious or recklessly 
+indifferent acts imputed to employer for purposes of punitive damages); 
+see generally Faragher v. City of Boca Raton, 118 S. Ct. 2275, 2290-2293 
+(1998); Burlington Indus., Inc. v. Eller 118 S. Ct. 2257, 2270 (1998). 
+
+17 
+
+Through the text of Section 198la, Congress has thus 
+ensured that punitive damages are available—but not 
+guaranteed—only in those cases that involve both unlawful 
+intentional discrimination (or failure to accommodate) and 
+also malice or reckless indifference to governing law. The 
+court of appeals thought it implausible that Congress 
+intended to exclude from punitive damages only cases 
+involving a good faith mistake of law, leaving every “garden 
+variety” disparate treatment case eligible for punitive 
+damages. Pet. App. 18a. But in fact, Congress could rea- 
+sonably conclude that in the absence of some reasonable 
+belief in the lawfulness of the discriminatory conduct, all 
+such acts of discrimination are sufficiently blameworthy and 
+injurious as to be eligible for punitive damages. “After all, 
+can it really be disputed that intentionally discriminating 
+against a black man on the basis of his skin color,” or a 
+woman on the basis of her gender, “is worthy of some 
+outrage?” Rowlett v. Anheuser-Busch, Inc., 832 F.2d 194, 
+206 (Ist Cir. 1987); see also Smith, 461 U.S. at 54 (“[SJociety 
+has an interest in dete: ring and punishing all intentional or 
+reckless invasions of the rights of others.”). 
+
+It is precisely because there are numerous areas of 
+uncertainty at the margins of the anti-discrimination stat- 
+utes that Congress found it necessary to distinguish between 
+the standard for liability and the standard for punitive 
+damages. The purpose of the additional criteria for punitive 
+damages was not, as the court of appeals seemed to think, to 
+limit punitive damages to a small number of defendants, but 
+rather to limit punitive damages to those defendants who 
+were sufficiently culpable—without regard to their number. 
+Whether the punitive damages standard, in practice, 
+embraces a few, many, or most intentional Title VII cases 
+is entirely beside the point. This is a case of statutory 
+construction, and it is Congress’s judgment, as expressed in 
+the statutory text, that must control. Touche Ross & Co. v. 
+Redington, 442 U.S. 560, 578 (1979) (“The ultimate question 
+
+18 
+
+is one of congressional intent, not one of whether this Court 
+thinks that it can improve upon the statutory scheme that 
+Congress enacted into law.”). 
+
+C. Analogous Civil Rights Legislation And General Tort 
+Principles Support Permitting Punitive Damages 
+Based On Malice Or Reckless Indifference To Federal 
+Law, Without Any Additional Requirement Of Egre- 
+gious Misconduct 
+
+1. The malice or reckless indifference standard for puni- 
+tive damages, without an egregiousness requirement, is 
+consistent with the governing standard for punitive damages 
+under other civil rights laws.” As noted, liquidated dam- 
+ages under the ADEA are available when an employer 
+“knows or recklessly disregards the illegality of its con- 
+duct,” with no additional showing of “outrageous[ness]” 
+required. Hazen Paper, 507 U.S. at 616, 617. Likewise, 
+punitive damages are available in actions brought under 42 
+U.S.C. 1983 “when the defendant’s conduct is shown to be 
+motivated by evil motive or intent, or when it involves 
+reckless or callous indifference to the federally protected 
+rights of others.” Smith, 461 U.S. at 56. That same standard 
+has been held to govern actions under 42 U.S.C. 1981, 1982, 
+and 1985, and the Fair Housing Act, 42 U.S.C. 3613(¢)(1).” 
+
+1 A standard that focuses on the defendant’s reckless indifference to 
+its legal obligations, rather than the nature of the underlying conduct, is 
+also consistent with numerous other federal statutes authorizing punitive 
+damages. See, e. g., 11 U.S.C. 363(n) (“willful disregard” of the law); 15 
+U.S.C. 7T8u(h)\(7)(A iii) (where violation of law is “willful, intentional, and 
+without good faith”); 18 U.S.C. 2724(b)(2) (“willful or reckless disregard of 
+the law”); 42 U.S.C. 300aa-23(d) (“intentional” violations); 42 U.S.C. 
+14503(a\(3) (“conscious, flagrant indifference to” rights). 
+
+1 See, e.g., Barbour v. Merrill, 48 F.3d 1270, 1277 (D.C. Cir. 1995) 
+(under Section 1981, Smith standard governs and Injo additional evidence 
+is required.”), cert. dismissed, 516 U.S. 1155 (1996); Ragin v. Harry 
+Macklowe Real Estate Co., 6 F.3d 898, 909 (2d Cir. 1993) (Fair Housing 
+Act); United States v. Balistrieri, 981 F.2d 916, 936 (7th Cir. 1992) (Fair 
+
+19 
+
+Nothing in the text of Section 198la warrants imposition of a 
+stricter standard for punitive damages for Title VII or 
+Disabilities Act violations than applies under those other 
+civil rights laws. To the contrary, the fact that Congress 
+specifically articulated a standard for punitive damages in 
+Section 198la, and did not rely on the courts to create a 
+standard as it did with Sections 1981, 1983, and 1985, 
+counsels strongly against judicial amendment of Congress’s 
+chosen terms.“ 
+
+2. Congress’s decision to focus liability for punitive dam- 
+ages on the employer’s malice or reckless indifference to 
+legal obligations, rather than the egregiousness of the under- 
+lying conduct, is also consistent with general principles of 
+tort law. See generally Shabani, 513 U.S. at 12 (absent 
+contrary indication, statutes are construed consistent with 
+the common law). As this Court noted in Smith, supra, by 
+
+Housing Act), cert. denied, 510 U.S. 812 (1993); Asbury v. Brougham, 866 
+F.2d 1276, 1282 (10th Cir. 1989) (Section 1982); Stephens v. South Atlantic 
+Canners, Inc., 848 F.2d 484, 489-490, 492 & n.6 (4th Cir.) (Section 1981), 
+cert. denied, 488 U.S. 996 (1988); Rowlett, 832 F.2d at 206 (rejecting 
+additional “extraordinary” or “outrageous” criterion for punitive damages 
+under Section 1981); Handy Button Mach. Co., 817 F.2d at 1296 (Section 
+1981); Walters, 803 F.2d at 1147 (Section 1981); Bell v. City of Milwaukee, 
+746 F.2d 1205, 1266 (7th Cir. 1984) (applying Smith standard to action 
+under 42 U.S.C. 1985); Hobson v. Wilson, 737 F.2d 1, 63 (D.C. Cir. 1984) 
+(Section 1985), cert. denied, 470 U.S. 1084 (1985); see also Fischl v. 
+General Motors Acceptance Corp., 708 F.2d 143, 148 (5th Cir. 1983) 
+(“reckless disregard” of law sufficient for punitive damages under the 
+Equal Credit Opportunity Act, 15 U.S.C. 169le(b)); Anderson v. United 
+Finance Co., 666 F.2d 1274, 1278 (9th Cir. 1982) (same); but see Beauford 
+v. Sisters of Mercy-Province of Detroit, Inc., 816 F.2d 1104, 1109 (6th Cir.) 
+(requiring egregious conduct for an award of punitive damages under 
+Section 1981), cert. denied, 484 U.S. 913 (1987). 
+
+14 The legislative history confirms Congress's intent to harmonize the 
+damages standards under federal civil rights laws. See H.R. Rep. No. 40, 
+102d Cong., Ist Sess., Pt. 1, at 64-65, 70, 74 (1991); H.R. Rep. No. 40, 102d 
+Cong., Ist Sess., Pt. 2, at 24, 29 (1991). 
+
+20 
+
+the mid 1980s, “[mJost cases under state common law * * * 
+recognizle] that punitive damages in tort cases may be 
+awarded not only for actual intent to injure or evil motive, 
+but also for recklessness, serious indifference to or disregard 
+for the rights of others.” 461 U.S. at 47-48; see also id. at 48 
+n.13 (citing cases). Egregiousness is not required. Thus, the 
+standard Congress enacted for punitive damages in Section 
+1981a, including its omission of an egregiousness require- 
+ment, comports with the governing common law at the time 
+Section 198la was enacted. 
+
+Congress’s standard also echoes the punitive damages 
+rule recognized by the Restatement of Torts, which provides 
+that “[pJunitive damages may be awarded for conduct that is 
+outrageous, because of the defendant’s evil motive or his 
+reckless indifference to the rights of others.” Restatement 
+(Second) of Torts § 908(2) (1979). According to the Re- 
+statement, the actor’s evil motive or reckless disregard is 
+precisely what renders his actions “outrageous” and thus 
+“provide[s] the necessary state of mind to justify punitive 
+damages.” Id. at emt. b.“ 
+
+21 
+
+D. The Legislative History Supports Permitting Punitive 
+Damages Based On Malice Or Reckless Indifference, 
+Without Any Additional Requirement Of Egregious 
+Misconduct 
+
+1. Because Section 1981a’s language is plain in establish- 
+ing a governing standard for punitive damages, “the sole 
+function of the courts is to enforce it according to its terms.” 
+Ron Pair, 489 U.S. at 241 (internal quotation marks 
+omitted). Given the precision with which Congress has 
+spoken, “reference to legislative history * * * is hardly 
+necessary.” Ibid. Snippets from the legislative history alone 
+thus cannot justify the creation of an extra-statutory 
+doctrine that finds no home in the text Congress enacted. 
+See Shannon, 512 U.S. at 584. 
+
+In any event, the legislative history supports a straight- 
+forward application of the statutory text, without an 
+
+egregiousness requirement. Indeed, the House Report notes 
+the different focus of the liability and punitive damages 
+
+inquiries: 
+Plaintiffs must first prove intentional discrimination, 
+* * * and must meet an even higher standard (esta- 
+blishing that the employer acted with malice or reckless 
+or callous indifference to their rights) to recover punitive 
+
+damages. 
+
+H.R. Rep. No. 40, 102d Cong., Ist Sess., Pt. 1, at 72 (1991). 
+Egregiousness is not included in the description of this 
+standard. The Report reiterated this standard a few pages 
+later, and noted that the statute set the same standard that 
+courts have applied under Section 1981. Id. at 74 (citing 
+Rowlett, supra, and Smith, supra). That explicit reference 
+to this Court’s decision in Smith and the fact that the 
+statutory text echoes Smith’s standard for punitive dam- 
+
+ages, which does not require egregiousness, augurs strongly 
+in favor of applying the statutory text as written. See also 
+
+22 
+
+H.R. Rep. No. 40, supra, Pt. 1, at 112 (reiterating statutory 
+standard without reference to egregiousness); H.R. Rep. No. 
+40, 102d Cong., Ist Sess., Pt. 2, at 29 (1991) (reiterating 
+statutory standard and citing with approval Smith and 
+Stallworth v. Shuler, 777 F.2d 1431, 1435 (11th Cir. 1985), 
+neither of which required egregiousness).“ 
+
+The minority views expressed in the House Report, 
+moreover, warned of the potential breadth of the punitive 
+damages provision as enacted. H.R. Rep. No. 40, supra, Pt. 
+1, at 143-144 n.14 (Ohe might ask when, if ever, a jury 
+would find that proven intentional discrimination by an 
+employer did not constitute the requisite level of abuse.”). 
+The legislative standard, however, was not altered in 
+response to this complaint. Congress thus cannot be pre- 
+sumed to have been unaware of the frequency with which 
+punitive damages claims might be presented to a jury. 
+
+Floor statements also indicate that Congress did not 
+intend to import additional, unwritten limitations into the 
+punitive damages provision. “Punitive damages are 
+available * * * to the same extent and under the same 
+standards that they are available to plaintiffs under 42 
+U.S.C. § 1981. No higher standard may be imposed.” 137 
+Cong. Rec. 30,662 (1991) (Rep. Edwards). 
+
+16 In stating its intent to adopt the standard governing punitive dam- 
+ages under Section 1981, the House Report also cited to Beauford v. 
+Sisters of Mercy-Province of Detroit, Inc, supra. H.R. Rep. No. 40, 
+supra, Pt. 1, at 74. That decision does seem to require egregiousness, 
+although it did so without much analysis. Beauford, 816 F.2d at 1109. 
+When considered against the backdrop of repeated iterations of the 
+statutory standard and the reference to Smith, that isolated citation does 
+not provide the type of compelling evidence of congressional intent 
+necessary to cast doubt on the language Congress actually adopted. See 
+Hubbard v. United States, 514 U.S. 695, 708 (1995) (“Courts should not 
+rely on inconclusive statutory history as a basis for refusing to give effect 
+to the plain language of an Act of Congress.”). 
+
+Some statements in the House Report and from the floor 
+do suggest that ve damages will be awarded only in 
+egregious cases. The word “egregious,” however, is com- 
+monly used as shorthand for “more culpable” conduct. Such 
+usage would be perfectly consistent with the statutory text 
+as enacted, if the references to “egregious” refer to the 
+culpability that results from acting with malice or reckless 
+disregard of another's rights. Indeed, the Restatement of 
+Torts uses the word “outrageous” in precisely this manner. 
+Restatement (Second) of Torts § 908(2); see also Hernandez- 
+Tirado v. Artau, 874 F.2d 866, 869 (Ist Cir. 1989) (same). 
+Because the legislators did not clearly indicate an intent that 
+egregiousness be applied by courts as an additional criterion 
+external to the statutory text and, in fact, imply by their 
+votes acceptance of the statutory language as enacted, the 
+better reading of those legislative comments is simply that 
+Members of Congress considered any conduct in violation of 
+the statutory “malice or reckless indifference” standard to 
+be, by definition, egregious. 
+
+In any event, to the extent some legislators had a differ- 
+ent view, those comments are insufficient to overcome the 
+plain statutory text and its supporting legislative history. 
+See Hubbard v. United States, 514 U.S. 695, 703 (1995 (LA! 
+historical analysis normally provides less guidance to a 
+statute’s meaning than its final text.”). Indeed, as this Court 
+recognized in Landgraf v. USI Film Prods., 511 U.S. 244 
+(1994), the legislative history of the 1991 Civil Rights Act 
+can be uniquely unhelpful in construing the Act’s terms 
+because it is loaded with “frankly partisan statements” that 
+“eannot plausibly be read as reflecting any general 
+agreement.” Id. at 262; see also id. at 263 n.15 (A] court 
+would be well advised to take with a large grain of salt floor 
+
+* See, g., H.R. Rep. No. 40, supra, Pt. I. at 65, 91; H.R. Rep. No. 40, 
+supra, Pt. 2, at 3; 187 Cong. Rec. 30,661 (1991) (Rep. Edwards); id. at 
+30,678 (Rep. Hyde); id. at 29,035 (Sen. Dole); id. at 29,046 (Sen. Danforth). 
+
+24 
+
+debate and statements placed in the CONGRESSIONAL 
+RECORD which purport to create an interpretation for the 
+legislation that is before us.“ (quoting 137 Cong. Rec. 28,856 
+(1991) (Sen. Danforth)).” 
+
+2. The 1991 Civil Rights Act reflected extensive com- 
+promise and negotiation on the part of Congress and the 
+White House. One area of contention, in particular, con- 
+cerned the proper balance to be struck between the need to 
+award punitive damages for deterrence purposes and the 
+desire to protect small businesses from runaway jury 
+awards. As the legislation left the House, it contained no cap 
+on damages.” Damages caps were later added as a com- 
+promise to obtain the necessary support for the bill. See, 
+e.g., 137 Cong. Rec. 30,667 (1991) (Rep. Fish) (“The bill 
+before us incorporates a cap on damages that seeks to 
+accommodate employer concerns at the same time that we 
+protect the civil rights of our work force.”).” 
+
+The final legislation thus contained a delicate compromise 
+that imposed caps on damages awards as a means of protec- 
+ting businesses, while authorizing the award of punitive 
+
+See also 137 Cong. Rec. 30,683 (1991) (Rep. Ford) (in response to 
+Rep. Hyde’s legislative history remarks concerning, among other things, 
+damages, Rep. Ford, “one of the authors of the bill,” “categorically 
+denl ies] [Rep. Hyde] was right on any one of his interpretations”). 
+
+1% See H.R. Rep. No. 40, supra, Pt. 1, at 125, 143 (objecting that the 
+amendments to the damages provisions, which did not include a cap, would 
+transform Title VII into “a litigation generating machine which wil! only 
+benefit lawyers”) (minority views); H.R. Rep. No. 40, supra, Pt. 2, at 52 
+n.2, 74. 
+
+See also 137 Cong. Rec. 30,670 (1991) (Rep. Goodling) (“With 
+respect to the litigation lottery that many feared would be the result of 
+H.R. 1, the compromise takes several steps in the right direction 
+The possibility of unlimited damages no longer serves as a carrot for filing 
+a lawsuit under this compromise.”); id. at 29,041-29,042 (Sen. Bumpers) 
+(eaps address business concerns about extent of liability); id. at 29,034 
+(Sen. Dole) (“With these caps, the incentive for frivolous lawsuits should 
+be significantly reduced.”). 
+
+25 
+
+However, nothing in the legislative history suggests that 
+Congress intended to provide two separate protections for 
+employers in a bill designed largely to strengthen employee 
+rights, increase employee compensation, and aggressively 
+deter employer violations. To the contrary, Congress was 
+frustrated that discrimination continued even though 
+“[vJirtually everyone in America now understands that it is 
+both ‘wrong’ and ‘illegal’ to discriminate intentionally.” H.R. 
+Rep. No. 40, supra, Pt. 1, at 14. Congress thus determined 
+“to send a clear signal” that 
+
+Congress is serious about halting job discrimination and 
+one way to do that is to impose penalties that will make 
+employers think twice about the financial consequences 
+of violating the law. If employers will not do the right 
+thing for its own sake, maybe they'll do it for the sake of 
+their pocketbooks. 
+137 Cong. Rec. E3811 (daily ed. Nov. 7, 1991) (Rep. Collins); 
+see also 137 Cong. Rec. 29,043-29,044 (1991) (Sen. Hatfield) 
+(“{I]}t is no less incumbent upon us to ensure that the laws of 
+the United States offer no comfort to those who engage in 
+discriminatory practices.”); H.R. Rep. No. 40, supra, Pt. 1, at 
+64-65. Given the lengthy and hard-fought legislative battles 
+that underlay the 1991 Civil Rights Act, this Court should be 
+especially loath to adopt extra-statutory terms that sub- 
+
+26 
+
+stantially alter the compromises reflected in the statutory 
+text that Congress enacted and the President signed. 
+
+E. The Purposes Of The 1991 Act Support Permitting 
+Punitive Damages Based On Malice Or Reckless 
+
+Indifference Without Any Additional Requirement Of 
+Egregious Misconduct 
+1. Interpreting Section 198la to permit punitive dam- 
+ages in all cases of intentional discrimination that is 
+undertaken with malice or reckless indifference to the em- 
+ployer’s legal obligations is consistent with the animating 
+purposes of the 1991 Civil Rights Act. Congress was frus- 
+trated with “a history of noncompliance with known statu- 
+tory requirements” by employers nearly thirty years after 
+the passage of Title VII. BMW of North Am., Inc. v. Gore, 
+517 U.S. 559, 585 (1996). Consequently, a primary goal of 
+the legislation was to provide “strong medicine” in the form 
+of compensatory and punitive damages “to cure the defen- 
+dant’s disrespect for the law,” BMW, 517 U.S. at 577, and to 
+deter employers from violating Title VII and the Disabilities 
+Act in the first instance.” 
+
+21 See, eg, H.R. Rep. No. 40, supra, Pt. 1, at 14 (“In the twenty-seven 
+years since Title VII of the Civil Rights Act of 1964 was enacted, many 
+employers have accepted its mandate that discrimination on the basis of 
+race, gender, national origin, or religion has no place in employment 
+decisions. Those who have not accepted that principle should no{w] be 
+subjected to a damage remedy when they intentionally discriminate.”). 
+
+2 See, e., H.R. Rep. No. 40, supra, Pt. 1, at 18 (“Section 2 of the 
+legislation also sets forth Congress’s dual purposes: to respond to the 
+Court’s recent decisions by restoring the civil rights protections * * * 
+and to strengthen existing remedies to provide more effective deterrence 
+and ensure compensation commensurate with the harms suffered by 
+victims of intentional discrimination.”); id. at 69-70 (“Allowing full 
+compensatory and punitive damages . . . would provide a stronger 
+incentive for employers to implement effective remedies for intervention 
+and prevention, which I think is the real goal. Data suggests that 
+employers do indeed implement measures to interrupt and prevent 
+
+27 
+
+The broad availability of punitive damages in cases of 
+intentional and maliciously or recklessly undertaken dis- 
+crimination was a key component of that deterrence scheme. 
+See, eg., 137 Cong. Rec. 30,661 (1991) (Rep. Edwards) 
+(“Punitive damages serve the important purposes of * * * 
+reinforcing the public policy against discrimination and 
+adding to the deterrent value of a damages award.”); id. at 
+28,915 (Sen. Jeffords) (“Punitive damages are intended to 
+punish discriminators and to deter further discrimination.”); 
+Landgraf, 511 U.S. at 283 n.35 (“The new damages pro- 
+visions of § 102 can be expected to give managers an added 
+incentive to take preventive measures to ward off dis- 
+criminatory conduct by subordinates before it occurs.”). 
+Indeed, punitive damages traditionally have served such a 
+deterrence function.” 
+
+The court of appeals’ whittling down of the class of 
+employers subject to punitive damages frustrates Con- 
+gress’s goal of deterrence. Nothing in the legislative history 
+suggests that Congress intended only to deter the most 
+outlandish acts of intentional discrimination, while offering 
+an economic cushion to those who flagrantly or recklessly 
+violate the law in more subtle and less dramatic forms. 
+Rather, the legislative history is replete with evidence that 
+Congress’s patience had run out across the board with those 
+who persist in intentional discrimination in the face of well- 
+established federal prohibitions. 
+
+2. Furthermore, the court of appeals’ desire (Pet. App. 
+16a-19a) to limit dramatically the availability of punitive 
+
+employment discrimination when they perceive that there is increased 
+liability.”) (quoting hearing testimony of Dr. Freada Klein). 
+
+% See, eg., Pacific Mutual Life Ins. Co. v. Haslip, 499 U.S. 1, 15 
+(1991) (under common law, one key purpose of punitive damages is to 
+“deter similar wrongful conduct”); International Bhd. of Elec. Workers v. 
+Foust, 442 U.S. 42, 48 (1979) (punitive damages “are private fines levied 
+
+by civil juries to punish reprehensible conduct and to deter its future 
+occurrence”); Gertz, 418 U.S. at 350 (same). 
+
+28 
+
+damages overlooks the unique character of Title VII and 
+Disabilities Act litigation. Title VII and the Disabilities Act 
+are “but part of a wider statutory scheme to protect 
+employees in the workplace nationwide” and are critical 
+components “of an ongoing congressional effort to eradicate 
+discrimination in the workplace.“ McKennon v. Nashville 
+Banner Pub. Co., 513 U.S. 352, 357 (1995). 
+
+Accordingly, as this Court has repeatedly recognized, a 
+private litigant enforcing federal civil rights legislation “not 
+only redresses his own injury but also vindicates the 
+important congressional policy against discriminatory em- 
+ployment practices.” McKennon, 513 U.S. at 358; see also 
+Alexander v. Gardner-Denver Co., 415 U.S. 36, 45 (1974) 
+(same). Because Title VII and Disabilities Act litigants 
+“serve important national policies,” McKennon, 513 U.S. at 
+360, they do not appear in court as ordinary, self-interested 
+tort plaintiffs. Rather, they appear as private attorneys 
+general giving effect to our “societ[y’s] condemnation of 
+invidious bias in employment decisions,” id. at 357, whenever 
+“even a single employee establishes that an employer has 
+discriminated against him or her,” id. at 358. Title VII and 
+Disabilities Act suits are thus “private in form only.” 
+Newman v. Piggie Park Enters., 390 U.S. 400, 401 (1968) 
+(per curiam).” 
+
+The 1991 Civil Rights Act reconfirmed the special status 
+of civil rights plaintiffs. The House Report explained that 
+monetary damages are “also necessary to encourage citizens 
+to act as private attorneys general to enforce the statute.” 
+H.R. Rep. No. 40, supra, Pt. 1, at 65. Further, 
+
+„ See also Independent Fed. of Flight Attendants v. Zipes, 491 U.S. 
+754, 759 (1989) (Title VII plaintiffs “act as private attorneyls] general, 
+vindicating a policy that Congress considered of the highest priority”); 
+EEOC v. Associated Dry Goods Corp., 449 U.S. 590, 602 (1981) (“Congress 
+considered the charging party a private attorney general, whose role in 
+enforcing the ban on discrimination is parallel to that of the [EEOC] 
+itself.”) (internal quotation marks omitted). 
+
+29 
+
+[t]he individual Title VII litigant acts as a “private 
+attorney general” to vindicate the precious rights 
+secured by that statute. It is in the interest of American 
+society as a whole to assure that equality of opportunity 
+in the workplace is not polluted by unlawful 
+discrimination. Even the smallest victory advances that 
+interest. 
+
+Id. at 47 (quoting hearing testimony of Jane Lang); see also 
+137 Cong. Rec. 30,661 (1991) (Rep. Edwards) (“Monetary 
+damages are also necessary to encourage citizens to act as 
+private attorneys general to enforce the law.”). 
+
+Because Title VII and Disabilities Act actions serve a 
+unique societal and governmental function, it is not sur- 
+prising that Congress would also consider such suits to be 
+particularly appropriate vehicles for the vindication of public 
+policy through punitive damages awards. Punitive damages. 
+after all, are designed to advance social and policy goals 
+through the medium of individual litigation. See BMW, 517 
+U.S. at 568; Pacific Mutual Life Ins. Co. v. Haslip, 499 U.S. 
+1, 15-16 (1991). Congress’s frustration at the perpetuation of 
+discriminatory practices makes it especially understandable 
+that Congress would want to ensure that punitive damages 
+are available (although not necessarily awarded) in every 
+suit exposing intentional discrimination undertaken heedless 
+of federal prohibitions on such conduct. After all, It here is 
+no doubt that Congress considered reliance on gender or 
+race in making employment decisions an evil in itself.” Price 
+Waterhouse v. Hopkins, 490 U.S. 228, 265 (1989) (O’Connor, 
+J., concurring); see also BMW, 517 U.S. at 583 (courts 
+“should accord substantial deference to legislative judg- 
+ments concerning appropriate sanctions for the conduct at 
+issue”) (internal quotation marks omitted). 
+
+CONCLUSION 
+
+The judgment of the court of appeals should be vacated 
+and the case remanded for reconsideration of the punitive 
+damages issue in light of this Court’s opinion. 
+
+Respectfully submitted. 
+
+C. GREGORY STEWART 
+General Counsel 
+
+PHILLIP B. SKLOVER 
+Associate General Counsel 
+
+VINCENT J. BLACKWOOD 
+Assistant General Counsel 
+ROBERT J. GREGORY 
+
+Attorney 
+Equal Employment 
+Opportunity Commission 
+
+DECEMBER 1998 
+
+SETH P. WAXMAN 
+Solicitor General 
+
+BILL LANN LEE 
+Acting Assistant Attorney 
+General 
+
+BARBARA D. UNDERWOOD 
+Deputy Solicitor General 
+
+PATRICIA A. MILLETT 
+Assistant to the Solicitor 
+General 
+
+DENNIS J. DIMSEY 
+GREGORY B. FRIEL 
+
+Attorneys 
+
+APPENDIX 
+
+42 U.S.C. § 1981a provides: 
+
+Damages in cases of intentional discrimination in em- 
+ployment. 
+
+(a) Right of recovery 
+(1) Civil rights 
+
+In an action brought by a complaining party under section 
+706 or 717 of the Civil Rights Act of 1964 [42 U.S.C. 2000e-5, 
+2000e-16] against a respondent who engaged in unlawful 
+intentional discrimination (not an employment practice that 
+is unlawful because of its disparate impact) prohibited under 
+section 703, 704, or 717 of the Act [42 U.S.C. 2000e-2, 2000e- 
+3, 2000e-16], and provided that the complaining party cannot 
+recover under section 1981 of this title, the complaining 
+party may recover compensatory and punitive damages as 
+allowed in subsection (b) of this section, in addition to any 
+relief authorized by section 706(g) of the Civil Rights Act of 
+1964, from the respondent. 
+
+(2) Disability 
+
+In an action brought by a complaining party under the 
+powers, remedies, and procedures set forth in section 706 or 
+717 of the Civil Rights Act of 1964 [42 U.S.C. 2000e-5, 2000e- 
+16] (as provided in section 107(a) of the Americans with 
+Disabilities Act of 1990 (42 U.S.C. 12117(a)), and section 
+794a(a)(1) of title 29, respectively) against a respondent who 
+engaged in unlawful intentional discrimination (not an em- 
+ployment practice that is unlawful because of its disparate 
+impact) under section 791 of title 29 and the regulations 
+implementi.., section 791 of title 29, or who violated the 
+requirements of section 791 of title 29 or the regulations 
+implementing section 791 of title 29 concerning the provision 
+of a reasonable accommodation, or section 102 of the 
+Americans with Disabilities Act of 1990 (42 U.S.C. 12112), or 
+
+(la) 
+
+2a 
+
+committed a violation of section 102(b)(5) of the Act, against 
+an individual, the complaining party may recover compensa- 
+tory and punitive damages as allowed in subsection (b) of 
+this section, in addition to any relief authorized by section 
+706(g) of the Civil Rights Act of 1964, from the respondent. 
+
+(3) Reasonable accommodation and good faith effort 
+
+In cases where a discriminatory practice involves the 
+provision of a reasonable accommodation pursuant to section 
+102(b)(5) of the Americans with Disabilities Act of 1990 [42 
+U.S.C. 12112(b)(5)] or regulations implementing section 791 
+of title 29, damages may not be awarded under this section 
+where the covered entity demonstrates good faith efforts, in 
+consultation with the person with the disability who has 
+informed the covered entity that accommodation is needed, 
+to identify and make a reasonable accommodation that would 
+provide such individual with an equally effective opportunity 
+and would not cause an undue hardship on the operation of 
+the business. 
+
+(b) Compensatory and punitive damages 
+(1) Determination of punitive damages 
+
+A complaining party may recover punitive damages under 
+this section against a respondent (other than a government, 
+government agency or political subdivision) if the complain- 
+ing party demonstrates that the respondent engaged in a 
+discriminatory practice or discriminatory practices with 
+malice or with reckless indifference to the federally pro- 
+tected rights of an aggrieved individual. 
+
+(2) Exclusions from compensatory damages 
+
+Comnensatory damages awarded under this section shall 
+not inciude backpay, interest on backpay, or any other type 
+
+of relief authorized under section 706(g) of the Civil Rights 
+Act of 1964 [42 U.S.C. 2000e-5(g)). 
+
+3a 
+
+(3) Limitations 
+
+The sum of the amount of compensatory damages 
+awarded under this section for future pecuniary losses, emo- 
+tional pain, suffering, inconvenience, mental anguish, loss of 
+enjoyment of life, and other nonpecuniary losses, and the 
+amount of punitive damages awarded under this section, 
+shall not exceed, for each complaining party- 
+
+(A) in the case of a respondent who has more than 
+14 and fewer than 101 employees in each of 20 or more 
+calendar weeks in the current or preceding calendar 
+year, $50,000; 
+
+(B) in the case of a respondent who has more than 
+100 and fewer than 201 employees in each of 20 or more 
+calendar weeks in the current or preceding calendar 
+year, $100,000; and 
+
+(C) in the case of a respondent who has more than 
+200 and fewer than 501 employees in each of 20 or more 
+calendar weeks in the current or preceding calendar 
+year, $200,000; and 
+
+D) in the case of a respondent who has more than 
+500 employees in each of 20 or more calendar weeks in 
+the current or preceding year, $300,000. 
+
+(4) Construction 
+
+Nothing in this section shall be construed to limit the 
+scope, or the relief available under, section 1981 of this title. 
+
+(c) Jury trial 
+
+If a complaining party seeks compensatory or punitive 
+damages under this section— 
+(1) any party may demand a trial by jury; and 
+
+4a 
+
+(2) the court shall not inform the jury of the 
+limitations described in subsection (b)(3) of this section. 
+
+(d) Definitions 
+As used in this section: 
+
+(1) Complaining party 
+The term “complaining party” means- 
+
+(A) in the case of a person seeking to bring an action 
+under subsection (a)(1) of this section, the Equal Employ- 
+ment Opportunity Commission, the Attorney General, or a 
+person who may bring an action or proceeding under title 
+VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.); 
+or 
+
+(B) in the case of a person seeking to bring an action 
+under subsection (a)(2) of this section, the Equal Employ- 
+ment Opportunity Commission, the Attorney General, a 
+person who may bring an action or proceeding under section 
+794a(a)(1) of title 29, or a person who may bring an action or 
+proceeding under title I of the Americans with Disabilities 
+Act of 1990 [42 U.S.C. 12111 et seq.]. 
+
+(2) Discriminatory practice 
+
+The term “discriminatory practice” means the discrimina- 
+tion described in paragraph (1), or the discrimination or the 
+violation described in paragraph (2), of subsection (a) of this 
+section. 
+
+5a 
+
+Excerpts from Title VII of the Civil Rights Act of 1964 
+
+42 U.S.C. 5 2000e-2 provides in part: 
+
+Unlawful employment practices 
+(a) Employer practices 
+
+It shall be an unlawful employment practice for an 
+employer- 
+
+(1) to fail or refuse to hire or to discharge any individual, 
+or otherwise to discriminate against any individual with re- 
+spect to his compensation, terms, conditions, or privileges of 
+employment, because of such individual’s race, color, reli- 
+gion, sex, or national origin; or 
+
+(2) to limit, segregate, or classify his employees or 
+applicants for employment in any way which would deprive 
+or tend to deprive any individual of employment opportuni- 
+ties or otherwise adversely affect his status as an employee, 
+because of such individual's race, color, religion, sex, or 
+national origin. 
+
+„ „ „ * 
+
+(e) Businesses or enterprises with personnel quali- 
+fied on basis of religion, sex, or national origin; 
+educational institutions with personnel of par- 
+ticular religion 
+
+Notwithstanding any other provision of this subchapter, 
+(1) it shall not be an unlawful employment practice for an 
+employer to hire and employ employees, for an employment 
+agency to classify, or refer for employment any individual, 
+for a labor organization to classify its membe ship or to clas- 
+sify or refer for employment any individual, er for an em- 
+ployer, labor organization, or joint labor-manage.-ent com- 
+mittee controlling apprenticeship or other training or 
+
+retraining programs to admit or employ any individual in 
+any such program, on the basis of his religion, sex, or 
+
+6a 
+
+national origin in those certain instances where religion, sex, 
+or national origin is a bona fide occupational qualification 
+reasonably necessary to the normal operation of that 
+particular business or enterprise, and (2) it shall not be an 
+unlawful employment practice for a school, college, univer- 
+sity, or other educational institution or institution of learning 
+to hire and employ employees of a particular religion if such 
+school, college, university, or other educational institution or 
+institution of learning is, in whole or in substantial part, 
+owned, supported, controlled, or managed by a particular 
+religion or by a particular religious corporation, association, 
+or society, or if the curriculum of such school, college, 
+university, or other educational institution or institution of 
+learning is directed toward the propagation of a particular 
+religion. 
+
+7a 
+
+Excerpts from Title I of the Americans with 
+Disabilities Act 
+
+42 U.S.C. § 12111 provides in part: 
+
+Definitions 
+
+R K „ „ & 
+(2) Covered entity 
+
+The term “covered entity” means an employer, employ- 
+ment agency, labor organization, or joint labor-management 
+committee. 
+
+E „ „ „„ & 
+
+(4) Employee “ 
+
+The term “employee” means an individual employed by an 
+employer. With respect to employment in a foreign country, 
+such term includes an individual who is a citizen of the 
+United States. 
+
+(5) Employer 
+(A) In general 
+
+The term “employer” means a person engaged in an 
+industry affecting commerce who has 15 or more 
+employees for each working day in each of 20 or more 
+calendar weeks in the current or preceding calendar 
+year, and any agent of such person, except that, for two 
+years following the effective date of this subchapter, an 
+employer means a person engaged in an industry affect- 
+ing commerce who has 25 or more employees for each 
+working day in each of 20 or more calendar weeks in the 
+
+current or preceding year, and any agent of such person. 
+
+8a 
+
+(B) Exceptions 
+The term “employer” does not inclule— 
+
+(i) the United States, a corporation wholly 
+owned by the government of the United States, or an 
+Indian tribe; or 
+
+(ii) a bona fide private membership club (other 
+than a labor organization) that is exempt from 
+taxation under section 501(c) of title 26. 
+
+2 ae oe fe 
+(8) Qualified individual with a disability 
+
+The term “qualified individual with a disability” means 
+an individual with a disability who, with or without rea- 
+sonable accommodation, can perform the essential func- 
+tions of the employment position that such individual holds 
+or desires. For the purposes of this subchapter, considera- 
+tion shall be given to the employer’s judgment as to what 
+functions of a job are essential, and if an employer has 
+prepared a written description before advertising or inter- 
+viewing applicants for the job, this description shall be 
+considered evidence of the essential functions of the job. 
+
+(9) Reasonable accommodation 
+The term “reasonable accommodation” may include— 
+
+(A) making existing facilities used by employees 
+readily accessible to and usable by individuals with 
+
+9a 
+
+(B) job restructuring, part-time or modified work 
+schedules, reassignment to a vacant position, acquisition 
+or modification of equipment or devices, appropriate 
+adjustment or modifications of examinations, training 
+materials or policies, the provision of qualified readers 
+or interpreters, and other similar accommodations for 
+individuals with disabilities. 
+
+(10) Undue hardship 
+(A) In general 
+
+The term “undue hardship” means an action requiring 
+significant difficulty or expense, when considered in light 
+of the factors set forth in subparagraph (B). 
+
+(B) Factors to be considered 
+
+In determining whether an accommodation would im- 
+pose an undue hardship on a covered entity, factors to be 
+considered include— 
+
+(i) the nature and cost of the accommodation 
+needed under this chapter; 
+
+(ii) the overall financial resources of the facility 
+or facilities involved in the provision of the reasonable 
+accommodation; the number of persons employed at 
+such facility; the effect on expenses and resources, or 
+the impact otherwise of such accommodation upon the 
+operation of the facility; 
+
+(iii) the overall financial resources of the covered 
+entity; the overall size of the business of a covered 
+
+entity with respect to the number of its employees; 
+the number, type, and location of its facilities; and 
+
+10a 
+
+(iv) the type of operation or operations of the 
+covered entity, including the composition, structure, 
+and functions of the workforce of such entity; the geo- 
+graphic separateness, administrative, or fiscal rela- 
+tionship of the facility or facilities in question to the 
+covered entity. 
+
+42 U.S.C. § 12112 provides in part: 
+
+Discrimination 
+(a) General rule 
+
+No covered entity shall discriminate against a qualified 
+individual with a disability because of the disability of such 
+individual in regard to job application procedures, the hiring, 
+advancement, or discharge of employees, employee compen- 
+sation, job training, and other terms, conditions, and privi- 
+leges of employment. 
+
+(b) Construction 
+
+As used in subsection (a) of this section, the term “dis- 
+criminate” includes— 
+
+) limiting, segregating, or classifying a job appli- 
+cant or employee in a way that adversely affects the 
+opportunities or status of such applicant or employee 
+because of the disability of such applicant or employee; 
+
+(2) participating in a contractual or other arrange- 
+ment or relationship that has the effect of subj. ting a 
+covered entity’s qualified applicant or employee with a 
+disability to the discrimination prohibited by this sub- 
+chapter (such relationship includes a relationship with an 
+employment or referral agency, labor union, an organiza- 
+tion providing fringe benefits to an employee of the 
+
+lla 
+
+covered entity, or an organization providing training and 
+apprenticeship programs); 
+
+(3) utilizing standards, criteria, or methods of 
+administration— 
+
+(A) that have the effect of discrimination on the 
+basis of disability; or 
+
+(B) that perpetuate the discrimination of others 
+who are subject to common administrative control; 
+
+(4) excluding or otherwise denying equal jobs or 
+benefits to a qualified individual because of the knuwn 
+disability of an individual with whom the qualified indi- 
+vidual is known to have a relationship or association; 
+
+(5A) not making reasonable accommodations to the 
+known physical or mental limitations of an otherwise 
+qualified individual with a disability who is an applicant 
+or employee, unless such covered entity can demonstrate 
+that the accommodation would impose an undue hardship 
+on the operation of the business of such covered entity; 
+or 
+
+(B) denying employment opportunities to a job appli- 
+cant or employee who is an otherwise qualified individual 
+with a disability, if such denial is based on the need of 
+such covered entity to make reasonable accommodation 
+to the physical or mental impairments of the employee or 
+
+applicant; 
+
+(6) using qualification standards, employment tests 
+or other selection criteria that screen out or tend to 
+screen out an individual with a disability or a class of 
+individuals with disabilities unless the standard, test or 
+other selection criteria, as used by the covered entity, is 
+
+12a 
+
+shown to be job-related for the position in question and is 
+consistent with business necessity; and 
+
+(7) failing to select and administer tests concerning 
+employment in the most effective manner to ensure that, 
+when such test is administered to a job applicant or 
+employee who has a disability that impairs sensory, 
+manual, or speaking skills, such test results accurately 
+reflect the skills, aptitude, or whatever other factor of 
+such applicant or employee that such test purports to 
+measure, rather than reflecting the impaired sensory, 
+manual, or speaking skills of such employee or applicant 
+(except where such skills are the factors that the test 
+purports to measure). 
+
+* * * * * 
+
+42 U.S.C. § 12113 provides: 
+Defenses 
+(a) In general 
+
+It may be a defense to a charge of discrimination under 
+this chapter that an alleged application of qualification 
+standards, tests, or selection criteria that screen out or tend 
+to screen out or otherwise deny a job or benefit to an 
+individual with a disability has been shown to be job-related 
+and consistent with business necessity, and such perfor- 
+mance cannot be accomplished by reasonable accommo- 
+dation, as required under this subchapter. 
+
+(b) Qualification standards 
+
+The term “qualification standards” may include a 
+requirement that an individual shall not pose a direct threat 
+to the health or safety of other individuals in the workplace. 
+
+13a 
+(c) Religious entities 
+(1) In general 
+
+This subchapter shall not prohibit a religious corpora- 
+tion, association, educational institution, or society from 
+giving preference in employment to individuals of a 
+particular religion to perform work connected with the 
+carrying on by such corporation, association, educational 
+institution, or society of its activities. 
+
+(2) Religious tenets requirement 
+
+Under this subchapter, a religious organization may 
+require that all applicants and employees conform to the 
+religious tenets of such organization. 
+
+(d) List of infectious and communicable diseases 
+(1) In general 
+
+The Secretary of Health and Human Services, not later 
+than 6 months after July 26, 1990, shall— 
+
+(A) review all infectious and communicable diseases 
+which may be transmitted through handling the food 
+supply; 
+
+(B) publish a list of infectious and communicable 
+diseases which are transmitted through handling the 
+food supply; | 
+
+(C) publish the methods by which such diseases are 
+transmitted; and 
+
+l4a 
+
+(D) widely disseminate such information regarding 
+the list of diseases and their modes of transmissability' 
+to the general public. 
+
+Such list shall be updated annually. 
+(2) Applications 
+
+In any case in which an individual has an infectious or 
+communicable disease that is transmitted to others through 
+the handling of food, that is included on the list developed by 
+the Secretary of Health and Human Services under 
+paragraph (1), and which cannot be eliminated by reasonable 
+accommodation, a covered entity may refuse to assign or 
+continue to assign such individual to a job involving food 
+handling. 
+
+(3) Construction 
+
+Nothing in this chapter shall be construed to preempt, 
+modify, or amend any State, county, or local law, ordinance, 
+or regulation applicable to food handling which is designed to 
+protect the public health from individuals who pose a 
+significant risk to the health or safety of others, which 
+cannot be eliminated by reasonable accommodation, pur- 
+suant to the list of infectious or communicable diseases and 
+the modes of transmissability published by the Secretary of 
+Health and Human Services. 
+
+So in original. Probably should be “transmissibility.” 
+

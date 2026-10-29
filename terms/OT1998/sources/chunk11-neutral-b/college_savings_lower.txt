@@ -1,0 +1,290 @@
+
+    
+      David C. Todd (argued), Deborah M. Lodge, Patton Boggs, L.L.P., Washington, DC, Arnold B. Calmann Saiber, Schlesinger, Satz & Goldstein, Newark, NJ, for Appellant College Savings Bank.
+      Frank W. Hunger, Assistant Attorney General, Faith S. Hochberg, United States Attorney, Mark B. Stern, Michael E. Robinson (argued), Department of Justice, Washington, DC, for Intervenor-Appellant.
+      William B. Mallin (argued), Lewis F. Gould, Jr., Joseph M. Ramirez, Anne E. Hendricks, Eckert Seamans Cherin & Mellott, LLC, Pittsburgh, PA, Louis F. Hubener, Assistant Attorney General of Florida, Tallahassee, FL, for Appellee.
+      Gerald P. Dodson, Emily A. Evans, Arnold, White & Durkee, Menlo Park, CA, Richard L. Stanley Arnold, White & Durkee, Houston, TX, P. Martin Simpson, Jr., The University of California Office of Technology Transfer, Alameda, CA, for Amicus Curiae Regents of The University of California.
+      Before:  MANSMANN, GREENBERG, and ALARCON,* Circuit Judges.
+      OPINION OF THE COURT
+      GREENBERG, Circuit Judge.
+    
+    I. INTRODUCTION
+    
+      ¶1
+      College Savings Bank ("CSB") and the United States appeal from a final judgment entered in the district court on December 16, 1996, dismissing an unfair competition claim CSB brought against Florida Prepaid Postsecondary Education Expense Board ("Florida Prepaid") under the Lanham Act.  See 15 U.S.C. § 1051 et seq.   They assert that the district court had jurisdiction pursuant to 28 U.S.C. §§ 1331 and 1338(a).  We have jurisdiction to review the judgment of the district court pursuant to 28 U.S.C. § 1291, and we exercise plenary review.  See Alston v. Redman, 34 F.3d 1237, 1242 (3d Cir.1994).
+    
+    II. FACTUAL AND PROCEDURAL HISTORY
+    
+      ¶2
+      CSB is a New Jersey chartered, FDIC-member bank.  Since 1987, it has been selling CollegeSure(R) CDs which are deposit contracts designed to provide sufficient funds to cover future costs of college education.  CSB administers these deposit contracts in accordance with a patented methodology.  See College Sav. Bank v. Florida Prepaid Postsecondary Educ. Expense Bd., 948 F.Supp. 400, 401 n. 1 (D.N.J.1996).  The State of Florida created the appellee Florida Prepaid to market and sell tuition prepayment programs designed to provide sufficient funds to cover future college expenses.  See Fla.  Stat. ch. 240.551 (1997).  In conjunction with the sale of its accounts, Florida Prepaid publishes brochures and issues annual reports.  Thus, CSB and Florida Prepaid compete in selling this type of college savings account.
+    
+    
+      ¶3
+      CSB first brought an action in the district court against Florida Prepaid on November 7, 1994, alleging that Florida Prepaid had infringed its patent.  CSB subsequently brought another action in the same court on August 25, 1995, against Florida Prepaid alleging that it had violated section 43(a) of the Lanham Act, 15 U.S.C. § 1125(a).1  CSB claimed in the second action that Florida Prepaid made misstatements about Florida Prepaid's tuition savings plans in its brochures and annual reports which constituted unfair competition.  We deal only with the second action and thus our further references are to that case.
+    
+    
+      ¶4
+      Florida Prepaid answered the complaint and filed a counterclaim on November 8, 1995, alleging defamation, product disparagement, and trade libel based on statements made by Peter Roberts, president of CSB. CSB moved to dismiss the counterclaim on February 9, 1996, and the district court granted that motion on March 22, 1996.
+    
+    
+      ¶5
+      Florida Prepaid filed motions to dismiss CSB's complaint on April 26, 1996, alleging that the recent Supreme Court decision of Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 116 S.Ct. 1114, 134 L.Ed.2d 252 (1996), which confined Congress' authority to abrogate a state's Eleventh Amendment immunity from a suit in a federal court to the enforcement section of the Fourteenth Amendment, deprived the district court of jurisdiction.  Florida Prepaid claimed that:  (1) in the light of Seminole Tribe, the Trademark Remedy Clarification Act of 1992, Pub.L. No. 102-542, 106 Stat. 3567 (1992) ("TRCA"), which abrogated the states' Eleventh Amendment immunity under the Lanham Act, was unconstitutional, because the abrogation was not a proper exercise of Congress' Fourteenth Amendment enforcement powers;  and (2) Seminole Tribe implicitly overruled the Parden doctrine, which allows for the constructive waiver of Eleventh Amendment immunity by a state engaging in an activity after Congress subjected it to suit arising from the activity.  See Parden v. Terminal Ry. of Ala.  State Docks Dep't, 377 U.S. 184, 84 S.Ct. 1207, 12 L.Ed.2d 233 (1964).  The United States intervened on August 2, 1996, to defend the constitutionality of the Lanham Act's application to the states and thus does not take a position on CSB's other arguments.
+    
+    
+      ¶6
+      With regard to the Lanham Act claim, the district court found that, after Seminole Tribe, the TRCA, as applied to the present case, was an unconstitutional attempt to abrogate the states' Eleventh Amendment immunity.  The court concluded that inasmuch as this case does not involve a protected property interest, the enactment of the TRCA could not be a proper exercise of Congress' powers under section five, the enforcement section, of the Fourteenth Amendment.  See College Sav. Bank, 948 F.Supp. at 426-27.   The district court further held on two separate grounds that the Parden doctrine of constructive waiver did not permit CSB to sue Florida Prepaid in federal court.  First, the district court found that the constructive waiver doctrine did not apply because Florida Prepaid was engaging in a core government function.  See id. at 418.   Second, the district court determined that the Supreme Court's decision in Seminole Tribe implicitly overruled the Parden doctrine of constructive waiver.  See id. at 420.   Therefore, on either of these grounds, the district court held that Parden did not permit CSB's suit against Florida Prepaid in federal court.  Finally, the district court rejected CSB's contention that Florida Prepaid had waived its immunity through its appearance in the litigation.  See id. at 414.   Thus, the district court granted Florida Prepaid's motion to dismiss the Lanham Act claim on December 13, 1996.
+    
+    
+      ¶7
+      CSB appealed from the dismissal of the Lanham Act claim to this court.2  We will affirm the district court's holding that the TRCA is an unconstitutional exercise of Congress' Fourteenth Amendment powers as applied to the present case, but we express no opinion on whether Seminole overruled Parden, because we hold that even if the Parden waiver doctrine is still viable, it does not apply to Florida Prepaid.  Finally, we hold that Florida Prepaid did not waive its Eleventh Amendment immunity through its appearance in this litigation.
+    
+    III. DISCUSSION
+    A. The Eleventh Amendment
+    The Eleventh Amendment provides:
+    
+      ¶8
+      The Judicial power of the United States shall not be construed to extend to any suit in law or equity, commenced or prosecuted against one of the United States by Citizens of another State, or by Citizens or Subjects of any Foreign State.
+    
+    
+      ¶9
+      The Supreme Court has interpreted the amendment to prevent suits against unconsenting states in federal court.  See Seminole Tribe of Fla. v. Florida, at ----, 116 S.Ct. at 1122.   Because Florida Prepaid is an arm of the State of Florida, see College Sav. Bank, 948 F.Supp. at 413, the Eleventh Amendment is a potential bar to CSB's suit against Florida Prepaid.  However, this protection available to states under the Eleventh Amendment can be circumvented if Congress properly abrogates the immunity, see Seminole Tribe, at ----, 116 S.Ct. at 1123, or if a state waives its immunity and consents to suit in federal court.  See Welch v. Texas Dep't of Highways and Pub. Transp., 483 U.S. 468, 473-74, 107 S.Ct. 2941, 2946, 97 L.Ed.2d 389 (1987).  CSB contends that there has been both abrogation and waiver in this case.  We will consider each of these arguments in turn.
+    
+    
+      ¶10
+      B. The TRCA's Abrogation of Eleventh Amendment Immunity
+    
+    
+      ¶11
+      One of the main purposes of section 43 of the Lanham Act is to protect persons engaged in interstate commerce against unfair competition caused by false or misleading representations or advertising about goods, services, or commercial activities.  See 15 U.S.C. § 1125(a)(1).  Congress amended the Act in 1992 when it enacted the TRCA to clarify its intent to abrogate the Eleventh Amendment immunity of states in actions under the Lanham Act.  See 15 U.S.C. § 1125(a).  Congress passed the TRCA in response to Atascadero State Hosp. v. Scanlon, 473 U.S. 234, 246, 105 S.Ct. 3142, 3149, 87 L.Ed.2d 171 (1985), which required Congress to give an explicit and unambiguous statement in a statute to manifest an intent to abrogate the states' immunity under the Eleventh Amendment.  See S.Rep. No. 102-280, at 4-7 (1992), reprinted in 1992 U.S.C.C.A.N. 3087, 3090-93.   By enacting the TRCA, Congress intended to place states on an equal footing with commercial competitors.  See id. at 3093, 3095.   Inasmuch as Florida Prepaid is an arm of the State of Florida, the TRCA by its terms, if valid, would abrogate Florida Prepaid's Eleventh Amendment immunity.  See College Sav. Bank, 948 F.Supp. at 413.   However, Florida Prepaid argues that the Seminole Tribe decision limiting the scope of Congress' powers to abrogate a state's Eleventh Amendment immunity renders the TRCA unconstitutional as applied in this case.  We agree with this contention.
+    
+    1. The Seminole Tribe Decision
+    
+      ¶12
+      In Seminole Tribe, the Court set forth a clear two-part standard of how Congress could abrogate the Eleventh Amendment immunity of states.  See id. at ----, 116 S.Ct. at 1123.   The Court said that to find if there has been an abrogation a court must answer two questions affirmatively:  "first, whether Congress has 'unequivocally expresse[d] its intent to abrogate the immunity,' and second, whether Congress has acted 'pursuant to a valid exercise of power.'  "  Id. (citations omitted).
+    
+    
+      ¶13
+      a. Legislative Intent
+    
+    
+      ¶14
+      Under the first question posed by Seminole Tribe, Congress must evidence an intent to abrogate the states' immunity from suit in federal court through a "clear legislative statement."  Id. (quoting Blatchford v. Native Village of Noatak, 501 U.S. 775, 786, 111 S.Ct. 2578, 2584, 115 L.Ed.2d 686 (1991)).  The TRCA surely manifests that intent.  Section 1122, entitled "Liability of States, instrumentalities of States and State officials" provides:
+    
+    
+      ¶15
+      (a) Any State, instrumentality of a State or any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the eleventh amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity for any violation under this chapter.
+    
+    
+      ¶16
+      (b) In a suit described in subsection (a) of this section for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any person other than a State, instrumentality of a State, or officer or employee of a State or instrumentality of a State acting in his or her official capacity....
+    
+    
+      ¶17
+      15 U.S.C. § 1122.  This language manifests Congress' unambiguous intent to abrogate the states' immunity.  Therefore, the TRCA meets the first requirement of Seminole Tribe to find that Congress has abrogated the states' immunity.
+    
+    
+      ¶18
+      b. Valid Exercise of Power
+    
+    
+      ¶19
+      The second prong of Seminole Tribe requires that Congress act pursuant to a valid exercise of power.  Prior to Seminole Tribe, the Supreme Court had determined that there were only two constitutional bases for Congress validly to abrogate the states' Eleventh Amendment immunity.  First, in Fitzpatrick v. Bitzer, 427 U.S. 445, 96 S.Ct. 2666, 49 L.Ed.2d 614 (1976), the Court found that Congress could act pursuant to section five of the Fourteenth Amendment to abrogate states' immunity under the Eleventh Amendment.  The Court reasoned that Congress had this power because the Fourteenth Amendment "had fundamentally altered the balance of state and federal power struck by the Constitution."  Seminole Tribe, at ----, 116 S.Ct. at 1125.
+    
+    
+      ¶20
+      Second, in Pennsylvania v. Union Gas Co., 491 U.S. 1, 109 S.Ct. 2273, 105 L.Ed.2d 1 (1989), "a plurality of the Court found that the Interstate Commerce Clause, Art.  I, § 8, cl. 3, granted Congress the power to abrogate state sovereign immunity."  Seminole Tribe, at ----, 116 S.Ct. at 1125.   In Seminole Tribe, the Court was asked to find a third basis of authority for Congress to abrogate the states' Eleventh Amendment immunity--the Indian Commerce Clause.  See U.S. Const. Art. 1, § 8, cl. 3.  The Court held that the Indian Commerce Clause did not provide a basis for Congress to exercise that power.  In fact, the Court overruled Union Gas by determining that the Commerce Clause itself did not provide a basis for Congress to abrogate the states' immunity under the Eleventh Amendment.  See Seminole Tribe, at ----, 116 S.Ct. at 1128.   Thus, since Seminole Tribe section five of the Fourteenth Amendment has been the sole basis for Congress to abrogate the states' immunity under the Eleventh Amendment.  Accordingly, to meet the second prong of the Seminole Tribe test, the TRCA must have been enacted pursuant to this power.
+    
+    2. The Fourteenth Amendment and the TRCA
+    
+      ¶21
+      The legislative history of the TRCA does not delineate conclusively the constitutional basis for its enactment.  The only mention of Fourteenth Amendment authority is found in a brief notation in a Senate Report.  See S.Rep. No. 102-280, at 8 (1992), reprinted in 1992 U.S.C.C.A.N. 3087, 3094 (stating that the TRCA "is justified under the Commerce Clause and the Fourteenth Amendment.").  Yet this failure to explain fully the constitutional justification for its enactment does not invalidate the TRCA, for Congress is not required to discuss or explain explicitly the constitutional basis for laws that it enacts.  See, e.g., FCC v. Beach Communications, Inc., 508 U.S. 307, 315, 113 S.Ct. 2096, 2102, 124 L.Ed.2d 211 (1993) (holding that a legislature is"never require[d] ... to articulate its reasons for enacting a statute");  EEOC v. Wyoming, 460 U.S. 226, 243-44 n. 18, 103 S.Ct. 1054, 1064 n. 18, 75 L.Ed.2d 18 (1983).3
+    
+    
+      ¶22
+      Furthermore, as the Court recently has stated, congressional enactments are accorded a "presumption of validity," because "[i]t is for Congress in the first instance to 'determin[e] whether and what legislation is needed to secure the guarantees of the Fourteenth Amendment,' and its conclusions are entitled to much deference."  City of Boerne v. Flores, --- U.S. ----, ----, 117 S.Ct. 2157, 2172, 138 L.Ed.2d 624 (1997) (quoting Katzenbach v. Morgan, 384 U.S. 641, 651, 86 S.Ct. 1717, 1723-24, 16 L.Ed.2d 828 (1966)).  However, "Congress' discretion is not unlimited" and courts must ensure that congressional acts do not overstep the boundaries of the Fourteenth Amendment.  Id. at ----, 117 S.Ct. at 2172.   Therefore, while the brief statement of the constitutional foundation for the TRCA in the Senate Report is entitled to deference, it does not establish that the TRCA is constitutional.  Consequently, we are obliged to examine the scope of the Fourteenth Amendment and determine whether the TRCA is valid under the amendment's enforcement section.
+    
+    
+      ¶23
+      The Due Process Clause of Fourteenth Amendment provides that no state shall "deprive any person of life, liberty, or property, without due process of law."  U.S. CONST. amend. 14, § 1.  Section five of the Fourteenth Amendment gives Congress the power "to enforce, by appropriate legislation, the provisions of this article."  U.S. CONST. amend. 14, § 5.  The Court long has recognized that Congress' power to legislate under section five is quite broad:
+    
+    
+      ¶24
+      Whatever legislation is appropriate, that is, adapted to carry out the objects the amendments have in view, whatever tends to enforce submission to the prohibitions they contain, and to secure to all persons the enjoyment of perfect equality of civil rights and the equal protection of the laws against State denial or invasion, if not prohibited, is brought within the domain of congressional power.
+    
+    
+      ¶25
+      Ex Parte Virginia, 100 U.S.  (10 Otto) 339, 345-46, 25 L.Ed. 676 (1879).  However, Congress' power under section five of the Fourteenth Amendment is not without boundaries.  As the Court held in Oregon v. Mitchell, 400 U.S. 112, 91 S.Ct. 260, 27 L.Ed.2d 272 (1970):
+    
+    
+      ¶26
+      As broad as the congressional enforcement power is, it is not unlimited.  Specifically, there are at least three limitations upon Congress' power to enforce the guarantees of the Civil War Amendments.  First, Congress may not by legislation repeal other provisions of the Constitution.  Second, the power granted to Congress was not intended to strip the States of their power to govern themselves....  Third, Congress may only 'enforce' the provisions of the amendments and may only do so by 'appropriate legislation.'
+    
+    
+      ¶27
+      400 U.S. at 128, 91 S.Ct. at 266-67.   The Court also recently has cautioned that "Congress does not enforce a constitutional right by changing what the right is.  It has been given the power 'to enforce,' not the power to determine what constitutes a constitutional violation."  City of Boerne, at ----, 117 S.Ct. at 2164.   Therefore, while Congress has broad remedial power under the Fourteenth Amendment, it does not have a basis for enacting substantive, nonremedial measures.
+    
+    
+      ¶28
+      Because of this limitation, for a law to be a valid mechanism to enforce the Due Process Clause, it must not create new substantive rights, but instead must provide a method of protecting against violations of those rights already extant.  The Due Process Clause itself sets out the boundaries of what rights it protects:  the conduct must involve action by a state;  it must deprive an individual of life, liberty or property;  and the deprivation must occur without due process of law.  These three requirements are at the core of what the TRCA must remedy to be valid under the Fourteenth Amendment.
+    
+    
+      ¶29
+      However, for the TRCA to be a valid enforcement of the Due Process Clause under section five, it does not need to protect only against constitutional violations.  Rather, the TRCA can serve the broader purposes of the Due Process Clause.  The Court in City of Boerne, reiterated this notion:  "Legislation [enacted under section five of the Fourteenth Amendment] which deters or remedies constitutional violations can fall within the sweep of Congress' enforcement power even if in the process it prohibits conduct which is not itself unconstitutional and intrudes into 'legislative spheres of autonomy previously reserved to the States.'  "  Id. at ----, 117 S.Ct. at 2163 (quoting Fitzpatrick v. Bitzer, 427 U.S. at 455, 96 S.Ct. at 2671).   Yet even though the violations against which it protects do not have to rise to the level of constitutional violations, the TRCA must further the goals of protecting property from state action undertaken without due process of law, because the congressional enforcement power under the Fourteenth Amendment is not unlimited.  See City of Boerne, at ----, 117 S.Ct. at 2163.
+    
+    
+      ¶30
+      In deciding that the TRCA is not valid as applied in this case under the Fourteenth Amendment, the district court concluded that the case did not involve a property right;  therefore, the TRCA did not further the purposes of the Fourteenth Amendment.  See College Sav. Bank, 948 F.Supp. at 426-28.   The district court first determined that the false advertising prong of the Lanham Act invoked by CSB "essentially protects the 'right to be free from false advertising.'  "  Id. at 426.   This right, according to the district court, was not property for purposes of the Fourteenth Amendment;  in fact, the district court could not find any precedent "even discussing whether the right to be free of unfair competition is 'property.'  "  Id. at 426-27 n. 27.  The district court indicated that "we are unaware of any authority suggesting that Congress may, by simple fiat, abruptly declare that a simple statutory cause of action, which traditionally has not been understood to involve any kind of property, now encompasses a 'property right' to which the Fourteenth Amendment applies."  Id. at 427.   Therefore, according to the district court, because a property right was not involved, Congress did not have the power under the Fourteenth Amendment to enact the TRCA as it applied to this case.
+    
+    
+      ¶31
+      In our examination of the TRCA, we, too, focus on the question of whether the TRCA protects a property right recognized under the Fourteenth Amendment.  The tort of unfair competition created by the Lanham Act protects against certain harms involving improper interference with business prospects.  See 15 U.S.C. § 1127;  see also AT&T Co. v. Winback and Conserve Program, Inc., 42 F.3d 1421, 1428 (3d Cir.1994) (noting that the Lanham Act contains language that " 'creates a federal cause of action for unfair competition.' ")  (citations omitted).  CSB contends that this tort of unfair competition protects intangible property rights;  therefore, the TRCA should be seen to protect property as defined under the Fourteenth Amendment.  The tort of unfair competition found in the Lanham Act does protect some intangible property rights, but no such intangible property is involved in the present case.  See W. Page Keeton et al., Prosser and Keeton on the Law of Torts § 130, at 1015 (5th ed.1984) (citing trade marks, copyrights, and patents as intangible property rights that the tort of unfair competition involves).  Instead, CSB's Lanham Act claim concerns allegedly false statements about a competitor's own product.  The only cognizable property right that could be involved would be a right to be free of false advertising, a right that is not an intangible property right protected under the Fourteenth Amendment.
+    
+    
+      ¶32
+      The Supreme Court has recognized that the Fourteenth Amendment protects some categories of intangible property rights.  See, e.g., Tulsa Professional Collection Serv. v. Pope, 485 U.S. 478, 485, 108 S.Ct. 1340, 1345, 99 L.Ed.2d 565 (1988) (in recognizing an unsecured claim against the estate, the Court wrote:  "Little doubt remains that such an intangible interest is protected by the Fourteenth Amendment.");  Logan v. Zimmerman Brush Co., 455 U.S. 422, 430, 102 S.Ct. 1148, 1155, 71 L.Ed.2d 265 (1982) ("[T]he types of interests protected as 'property' are varied and, as often as not, intangible, relating 'to the whole domain of social and economic fact.' ")  (citations omitted);  Paul v. Davis, 424 U.S. 693, 710, 96 S.Ct. 1155, 1165, 47 L.Ed.2d 405 (1976) ("[T]here exists a variety of interests which are difficult of definition but are nevertheless comprehended within the meaning of either 'liberty' or 'property' as meant in the Due Process Clause.").  However, not all intangible rights have been deemed to be property under the Fourteenth Amendment, see Paul v. Davis, 424 U.S. at 712, 96 S.Ct. at 1166 (holding that a person's reputation was not intangible property covered by Fourteenth Amendment), and the right to be free from unfair advertising is not one of the protected property interests.  While infringement on such a right might give rise to a cause of action, the right does not amount to "property" within the meaning of the Fourteenth Amendment.4
+    
+    
+      ¶33
+      We also reject CSB's contention that the TRCA necessarily involves a protected property right under the Fourteenth Amendment on the basis that it attempts to protect businesses from harm.  Clearly, a business is an established property right entitled to protection under the Fourteenth Amendment.  See, e.g., Duplex Printing Press Co. v. Deering, 254 U.S. 443, 465, 41 S.Ct. 172, 176, 65 L.Ed. 349 (1921) (finding that a "business ... is a property right, entitled to protection against unlawful injury or interference ...");  United States v. Tropiano, 418 F.2d 1069, 1076 (2d Cir.1969) ("The right to pursue a lawful business including the solicitation of customers necessary to the conduct of such business has long been recognized as a property right within the protection of the Fifth and Fourteenth Amendments to the Constitution.")  (citations omitted);  Small v. United States, 333 F.2d 702, 704 (3d Cir.1964) ("The right to pursue a lawful business or occupation is a right of property which the law protects against intentional and unjustifiable interference.  A cause of action based upon such an interference is analogous to one based upon unlawful interference with existing contracts, and is governed by the same principles.")  (citations omitted).  Nevertheless, while a business is a property right, the fact that CSB operates a business does not lead necessarily to the conclusion that the TRCA as applied in this case protects property rights.
+    
+    
+      ¶34
+      For instance, in Gentry v. Howard, 365 F.Supp. 567 (W.D.La.1973), an operator of an ambulance service sued the mayor of the City of Monroe in part on due process grounds, because the city began operating a competing ambulance service.  The district court held that this action by the city did not amount to a due process violation, because no deprivation of property had occurred, within the meaning of the Fourteenth Amendment.  Even though the city clearly was competing with the private business which suffered from this competition, this harm did not rise to the level of a deprivation of property under the Fourteenth Amendment.  See also Hegeman Farms Corp. v. Baldwin, 293 U.S. 163, 170, 55 S.Ct. 7, 9, 79 L.Ed. 259 (1934) ("The Fourteenth Amendment does not protect a business against the hazards of competition.");   cf. Reich v. Beharry, 883 F.2d 239, 242 (3d Cir.1989) ("Every breach of contract by someone acting under color of state law [does not] constitute[ ] a deprivation of property for procedural due process purposes.").  As Gentry illustrates, just because the state's actions impact on a private business does not mean that this action somehow infringes on the Fourteenth Amendment rights of the private individual.
+    
+    
+      ¶35
+      If a state's conduct impacting on a business always implicated the Fourteenth Amendment, Congress would have almost unrestricted power to subject states to suit through the exercise of its abrogation power.  Congress could pass any law that tangentially affected the ability of businesses to operate and then create causes of action against the states in federal court if they infringed on those federally created rights.  This result would be unacceptable and would conflict directly with the strict limits on Congress' powers to abrogate a state's Eleventh Amendment immunity.  Thus, because this case does not involve a property interest protected by the Fourteenth Amendment, the TRCA, as applied in this case, is an unconstitutional exercise of Congress' powers.
+    
+    
+      ¶36
+      We carefully have confined our discussion by holding that the TRCA is unconstitutional as applied "in this case."   We have done so for two reasons.  First, as the district court correctly noted, the false advertising prong of the Lanham Act implicated in this litigation is "separate and distinct from the trademark infringement prong."  College Sav. Bank, 948 F.Supp. at 426 n. 25.  Second, the false advertising prong of the Lanham Act not only proscribes misrepresentations regarding a person's own goods or services, but it also forbids misrepresentations about a competitor's goods or services.  15 U.S.C. § 1125(a)(1)(B).  Since the present case only involves allegations that Florida Prepaid misrepresented its own product, the second part of the false advertising prong is not implicated.  Therefore, because the scope of the allegations in this case is so narrow, we express no opinion as to whether the TCRA may be applied constitutionally in a case involving a trademark infringement or involving a misrepresentation about a competitor's goods or services.
+    
+    
+      ¶37
+      C. Constructive Waiver of Eleventh Amendment Immunity
+    
+    
+      ¶38
+      CSB also contends that Florida Prepaid has constructively waived its Eleventh Amendment immunity on two different grounds:  the Parden doctrine and the conduct of Florida Prepaid in this litigation.  We reject each of these arguments.
+    
+    1. The Parden Doctrine
+    
+      ¶39
+      The high point of Supreme Court jurisprudence of the doctrine of constructive consent was Parden v. Terminal Ry. of Ala.  State Docks Dep't, 377 U.S. 184, 84 S.Ct. 1207, 12 L.Ed.2d 233.   See Erwin Chemerinsky, Federal Jurisdiction 408 (2d ed.1994).  In Parden, railroad workers sued a railroad, wholly owned and operated by the State of Alabama, to recover damages under the Federal Employers' Liability Act ("FELA").  See 377 U.S. at 184-85, 84 S.Ct. at 1209.   Alabama defended the suit on the basis of the Eleventh Amendment.  The Court focused on two questions:  whether Congress intended the FELA to apply to the states, and whether it had the power to do so.  First, by its language, the FELA applied to "every" common carrier.  Id. at 187, 84 S.Ct. at 1210.   The Court held that because Congress did not distinguish between state and privately operated common carriers, Congress must have intended the Act to apply to state operated common carriers.  Turning to the second question, the Court held that the constitutional basis for the enactment of FELA was the Interstate Commerce Clause.  See id. at 190-91, 84 S.Ct. at 1211-12.   The Court then reasoned that because "the States surrendered a portion of their sovereignty when they granted Congress the power to regulate commerce," the clause could be used as a basis to waive a state's Eleventh Amendment immunity.  Id. at 191, 84 S.Ct. at 1212.   Because Alabama voluntarily had operated the railroad after the enactment of FELA, the Court held that the state had consented to the suit in federal court under the Act.  See id. at 192, 84 S.Ct. at 1213.   Therefore, Alabama was deemed to have waived its Eleventh Amendment immunity in Parden.
+    
+    
+      ¶40
+      In the years following Parden, the Court has modified and partially overruled it.  The first significant modification occurred in Employees of the Dep't of Pub. Health & Welfare v. Dep't of Pub. Health & Welfare, 411 U.S. 279, 93 S.Ct. 1614, 36 L.Ed.2d 251 (1973).  That case involved a suit by state hospital and training school employees for overtime compensation under the Fair Labor Standards Act ("FLSA").  See id. at 280-81, 93 S.Ct. at 1616.   The State of Missouri defended the suit on Eleventh Amendment grounds, and the Court applied the same two-part test found in Parden.   First, it found that Congress clearly intended to bring employees of "hospitals and related institutions" under the Act.  Id. at 283, 93 S.Ct. at 1617.   Second, the Court recognized that the basis for the enactment of the FLSA was the Interstate Commerce Clause.  See id. at 282, 93 S.Ct. at 1617.   However, the Court distinguished Parden from Employees.   The Court explained that the State of Alabama in Parden was involved in an "area where private persons and corporations normally ran the enterprise."  Id. at 284, 93 S.Ct. at 1617.   In Employees the institutions were state hospitals and training schools which were not operated for profit, and instead were of an integral state concern.  See id.   Because of their importance to the state government, the Court found that Congress could not abrogate Missouri's Eleventh Amendment immunity under the FLSA in that case.  In Employees, therefore, the Court created the important government function exception to Parden.   Under this exception, a state cannot be deemed to have waived its immunity if it is engaged in an important or core government function.
+    
+    
+      ¶41
+      The Court restricted the scope of Parden further in Edelman v. Jordan, 415 U.S. 651, 94 S.Ct. 1347, 39 L.Ed.2d 662 (1974).  In challenging Illinois' administration of the Aid to the Aged, Blind, and Disabled ("AABD") welfare program, the plaintiffs in that class action asserted that officials from the State of Illinois had waived the state's Eleventh Amendment immunity in welfare suits by participating in and receiving funds from the federal welfare program.  Stressing that "[c]onstructive consent is not a doctrine commonly associated with the surrender of constitutional rights," the Court held that "[t]he mere fact that a State participates in a program through which the Federal Government provides assistance for the operation by the State of a system of public aid is not sufficient to establish consent on the part of the State to be sued in the federal courts."  Id. at 673, 94 S.Ct. at 1360-61.   Thus, the Court rejected the waiver argument in that case.
+    
+    
+      ¶42
+      In 1987, the Court again pared back Parden in Welch v. Texas Dep't of Highways and Pub. Transp., 483 U.S. 468, 107 S.Ct. 2941, 97 L.Ed.2d 389.   In Welch, an employee of the Texas Department of Highways and Public Transportation filed suit under the Jones Act against the state and the department to recover damages for injuries she incurred while working on a ferry dock.  See id. at 470-71, 107 S.Ct. at 2944.   The Jones Act remedies were available to "[a]ny seaman who shall suffer personal injury in the course of his employment."   The employee argued that the State of Texas was an employer within this section.  Id. at 475, 107 S.Ct. at 2947.   In considering whether Congress intended to apply the Act to the states, the Court found that the line of cases it had decided since Parden "required an unequivocal expression that Congress intended to override Eleventh Amendment immunity.  Accordingly, to the extent that Parden v. Terminal Railway, ... is inconsistent with the requirement that an abrogation of Eleventh Amendment immunity by Congress must be expressed in unmistakably clear language, it is overruled."  Id. at 478, 107 S.Ct. at 2948 (citations omitted).  Thus, the Court changed the first prong of the Parden test to require a clear statement of congressional intent.  Because it found no such intent in the Jones Act, the Court declined to hold that Texas had waived its immunity.
+    
+    
+      ¶43
+      Therefore, the Parden doctrine holds that a state's Eleventh Amendment immunity can be constructively waived if:  (1) Congress enacts a law providing that a state will be deemed to have waived its Eleventh Amendment immunity if it engages in the activity covered by the federal legislation;  (2) the law does so through a clear statement that gives notice to the states;  (3) a state then engages in that activity covered by the federal legislation;  and (4) the activity in question is not an important or core government function.
+    
+    
+      ¶44
+      In the present case, at least assuming that CSB can establish the elements of its case, the first three requirements of the Parden doctrine clearly have been or will be met.  Although the TRCA does not mention specifically prepaid tuition programs, the Act declares that if a state or its instrumentality chooses to engage in a proprietary activity that potentially falls under the Lanham Act, it can be held liable in federal court for violations of that Act.  See 15 U.S.C. § 1122.  Moreover, Florida Prepaid continued its operations after the enactment of the TRCA.  However, even though the first three requirements may be met, if the important government function exception applies to the present case, Florida Prepaid's activities would not waive its Eleventh Amendment immunity.
+    
+    
+      ¶45
+      The district court determined that Florida Prepaid served a "role traditionally undertaken by state governments--making available education opportunities," and thus the Parden doctrine could not be applied as a basis for a conclusion that Florida Prepaid's activities waived its Eleventh Amendment immunity.  College Sav. Bank, 948 F.Supp. at 416.   The district court recognized that Florida Prepaid does compete with private businesses, such as CSB, to provide prepaid tuition plans, but found that factor not to be dispositive.  Instead, the district court focused on the benefits that Florida Prepaid provides to the education of Florida citizens.  See id. at 417.   Because Florida Prepaid directly furthers the goal of education by providing a system of financing for college and university education, the district court found that Florida Prepaid serves an important government function.  We agree with the district court's determination and conclude that Florida Prepaid is engaged in an important governmental function;  therefore, the Parden doctrine of waiver does not apply to the present case.
+    
+    
+      ¶46
+      Education is a core function of a state government.  See Brown v. Board of Educ., 347 U.S. 483, 493, 74 S.Ct. 686, 691, 98 L.Ed. 873 (1954) ("Today, education is perhaps the most important function of state and local governments.").  The Appellants do not dispute that education is an important government function.  Instead, they seek to distinguish the goal of education from the function that Florida Prepaid performs.  They argue that Florida Prepaid does not provide education directly;  instead, it provides a means through which individuals can save for the costs of college tuition with an investment program.  According to the Appellants, individuals traditionally have used a variety of investments to fulfill this purpose, and Florida Prepaid can be seen as merely an additional, competing means to meet the costs of college.
+    
+    
+      ¶47
+      We reject the Appellants' narrow conception of education as a core government function.  Education encompasses more than classroom teaching;  instead, the core function of education can include the provision of education-related services as well as direct classroom teaching.  See, e.g., Skehan v. State Sys. of Higher Educ., 815 F.2d 244, 249 (3d Cir.1987) (holding that the Pennsylvania State System of Higher Education is a state agency entitled to Eleventh Amendment immunity).  Furthermore, in addition to states providing elementary and secondary schools for their citizens, they also long have provided facilities for college and graduate levels of education.  In providing these higher levels of education, states routinely have charged discounted tuition fees to their own citizens.  Yet even with such discounts, the cost of education can be prohibitive.  The sole purpose of Florida Prepaid is to help individuals meet this expense of higher education.  See Fla.  Stat. ch. 240.551(1) (1997).  As the statute creating the Florida Prepaid Postsecondary Education Expense Program states:
+    
+    
+      ¶48
+      The Legislature recognizes that education opportunity at the postsecondary level is a critical state interest.  It further recognizes that educational opportunity is best ensured through the provision of postsecondary institutions that are geographically and financially accessible.  Accordingly, it is the intent of the Legislature that a program be established through which many of the costs associated with postsecondary attendance may be paid in advance....
+    
+    
+      ¶49
+      Id.
+    
+    
+      ¶50
+      Although private businesses such as CSB operate similar programs, Florida Prepaid nevertheless serves the goal of ensuring that higher education is affordable to all of its citizens.  Merely because the state competes with private enterprises does not mean that it is not performing a core government function.  For instance, even in the context of classroom education, private schools operate on a competitive basis with public schools on all levels:  elementary, high school, and university.
+    
+    
+      ¶51
+      The Florida legislature specifically authorized and created Florida Prepaid to facilitate the education of its citizens.  The core government function of education does not necessarily only embody the actual teaching of individuals;  it is a broader function which can incorporate actions that involve related aspects to this overall goal.5  Florida Prepaid serves the important government interest of education by making it affordable to its citizens;  therefore, the Parden doctrine does not apply to the present case and does not supply a basis for a conclusion that Florida Prepaid has waived its Eleventh Amendment immunity.
+    
+    
+      ¶52
+      As we have indicated, Florida Prepaid has argued and the district court has held that Seminole Tribe implicitly overruled Parden.   See College Sav. Bank, 948 F.Supp. at 420.   We, however, do not reach this difficult question because we have no need to do so.  In our view, a court of appeals should be reluctant to hold that the Supreme Court implicitly has overruled its own decision when the Court had an opportunity to overrule the decision explicitly and did not do so.  Thus, we view our methodology as in keeping with the respect which we must pay to the Supreme Court.
+    
+    
+      ¶53
+      2. Waiver of Immunity by Conduct in Litigation
+    
+    
+      ¶54
+      Finally, CSB contends that Florida Prepaid has waived its Eleventh Amendment immunity through its appearance in this litigation, by filing a counterclaim, and by failing initially to raise its Eleventh Amendment immunity defense.  The district court rejected this argument and found that Florida Prepaid did not waive its immunity defense.  See College Sav. Bank, 948 F.Supp. at 414.   We will affirm the district court's determination of this matter and hold that Florida Prepaid raised its defense in a timely manner.
+    
+    
+      ¶55
+      A state can waive an Eleventh Amendment immunity defense through a voluntary appearance in litigation against it in federal court.  See Clark v. Barnard, 108 U.S. 436, 447-48, 2 S.Ct. 878, 883, 27 L.Ed. 780 (1883).  In determining whether there has been a waiver, courts have examined the extent to which a state has participated in the lawsuit and whether it has defended the case on its merits.  See Fordyce v. Seattle, 55 F.3d 436, 441 (9th Cir.1995) (holding that a state could waive immunity by a voluntary appearance and defense on the merits);  Hankins v. Finnel, 964 F.2d 853, 856 (8th Cir.1992) (recognizing the possibility of waiver through an appearance and defense on the merits);  995 Fifth Ave. Assoc., L.P. v. New York State Dep't of Taxation and Fin., 963 F.2d 503, 507-08 (2d Cir.1992) (holding New York's immunity to be waived through its participation in the lawsuit);  Paul N. Howard Co. v. Puerto Rico Aqueduct Sewer Auth., 744 F.2d 880, 886 (1st Cir.1984) (finding a waiver of immunity by a party's appearance and filing of a counterclaim and a third-party complaint);  Vecchione v. Wohlgemuth, 558 F.2d 150, 158-59 (3d Cir.1977) (holding a state to have waived immunity by not raising the issue until after the final judgment).
+    
+    
+      ¶56
+      Florida Prepaid's participation in this litigation did not waive its Eleventh Amendment immunity.  Because the immunity issue "sufficiently partakes of the nature of a jurisdictional bar," Edelman v. Jordan, 415 U.S. at 678, 94 S.Ct. at 1363, it is an issue that may be raised at any time during the pendency of the case.  See Florida Dep't Of State v. Treasure Salvors, Inc., 458 U.S. 670, 683 n. 18, 102 S.Ct. 3304, 3314 n. 18, 73 L.Ed.2d 1057 (1982).  Merely because a state appears and offers defenses on the merits of the case, it does not automatically waive Eleventh Amendment immunity.  See id.;   see also Ford Motor Co. v. Dep't of Treasury of State of Ind., 323 U.S. 459, 466-67, 65 S.Ct. 347, 351-52, 89 L.Ed. 389 (1945) (considering Eleventh Amendment immunity for the first time on appeal);  Mascheroni v. Board of Regents of the Univ. of Cal., 28 F.3d 1554, 1560 (10th Cir.1994) (holding that a state does not waive immunity merely by its appearance in a suit).
+    
+    
+      ¶57
+      The critical reason behind Florida Prepaid's delay in asserting an Eleventh Amendment defense was the timing of the Supreme Court's decision in Seminole Tribe.   At the beginning of the litigation, the abrogation rule of Union Gas precluded an Eleventh Amendment immunity defense by Florida Prepaid.6  However, with Seminole Tribe, the successful assertion by Florida Prepaid of an immunity defense became a reasonable possibility.  Therefore, following that decision, Florida Prepaid asserted its Eleventh Amendment immunity.7  Given this change in the law and the precedent for allowing participation in lawsuits without waiving the immunity, we determine that Florida Prepaid did not waive its Eleventh Amendment immunity through its participation in this litigation.
+    
+    IV. CONCLUSION
+    
+      ¶58
+      We will affirm the district court's dismissal of CSB's Lanham Act claim by order entered December 16, 1996.  Although congressional actions are entitled to much deference, Congress cannot usurp the powers of the states.  The Supreme Court in Seminole Tribe placed clear limitations on Congress' power to abrogate a state's Eleventh Amendment immunity;  the TRCA exceeds these restrictions as applied to the present case, and thus we conclude that it is unconstitutional.  Furthermore, we will affirm the district court's determination that Florida Prepaid did not waive its immunity either under Parden or through its participation in this litigation.  Therefore, because the Eleventh Amendment applies to bar this lawsuit against Florida Prepaid in federal court, we will affirm the district court's dismissal of CSB's Lanham Act suit in its entirety.
+    
+    
+      
+        *
+         Honorable Arthur L. Alarcon, Senior Judge of the United States Court of Appeals for the Ninth Circuit, sitting by designation
+      
+      
+        1
+         It also pleaded a common law tort of unfair competition but we will not discuss that claim further as the district court dismissed it, and the claim obviously could not be asserted successfully in the light of the Eleventh Amendment
+      
+      
+        2
+         The district court denied Florida Prepaid's motion to dismiss the Patent Act claim in the same order of December 13, 1996, and subsequently Florida Prepaid appealed from the denial to the United States Court of Appeals for the Federal Circuit
+      
+      
+        3
+         The Court in EEOC v. Wyoming stated:
+        It is in the nature of our review of congressional legislation defended on the basis of Congress' powers under § 5 of the Fourteenth Amendment that we be able to discern some legislative purpose or factual predicate that supports the exercise of that power.  That does not mean, however, that Congress need anywhere recite the words 'section 5' or 'Fourteenth Amendment' or 'equal protection' for '[t]he ... constitutionality of action taken by Congress does not depend on recitals of the power which it undertakes to exercise.'
+        460 U.S. at 243-44 n. 18, 103 S.Ct. at 1064 n. 18 (citations omitted) (quoting Woods v. Cloyd W. Miller Co., 333 U.S. 138, 144, 68 S.Ct. 421, 424, 92 L.Ed. 596 (1948)).
+      
+      
+        4
+         CSB asserts that the Supreme Court recognized that the tort of unfair competition involved protected intangible property rights in International News Serv. v. Associated Press, 248 U.S. 215, 236, 39 S.Ct. 68, 71, 63 L.Ed. 211 (1918) ("[T]he right to acquire property by honest labor or the conduct of a lawful business is as much entitled to protection as the right to guard property already acquired....  It is this right that furnishes the basis of the jurisdiction in the ordinary case of unfair competition.")  (citations omitted).  However, the quoted language concerned the question of whether the courts should exercise equity jurisdiction over the dispute;  the Court needed to determine if a right sufficient to sustain such jurisdiction had been violated and if a harm had occurred.  Thus, while the opinion does discuss property rights and the tort of unfair competition, the Court did not determine whether the tortious actions injured a property right worthy of protection under the Fourteenth Amendment.  The Court merely determined that an injury to a specific right had occurred
+      
+      
+        5
+         In addressing a similar issue, the Court of Appeals for the Sixth Circuit has decided that an educational trust fund operated by the State of Michigan performs a public function.  See Michigan v. United States, 40 F.3d 817 (6th Cir.1994).  The Michigan Educational Trust is a state agency created to enter into advance tuition payment contracts with individuals to provide tuition prepayments for college education.  See id. at 820-21.   In determining whether the entity is subject to tax by the United States, the court of appeals concluded that:
+        [E]ncouraging higher education by helping provide the means for attendance at Michigan's public colleges and universities--the basic function for which the education trust was established by the Michigan legislature--is at least as much a 'public function' as building and operating bridges and tunnels.
+        Id. at 825.   Based on this conclusion, the court held that the entity has tax-exempt status.  See id. at 829.
+      
+      
+        6
+         The constitutionality of the TRCA was not in question prior to Seminole Tribe, because the TRCA and the underlying Lanham Act had clear foundations in the Commerce Clause.  Union Gas had permitted Congress to abrogate states' immunity to suit in federal court on Commerce Clause grounds.  With Seminole Tribe, this basis was eliminated and the only foundation for abrogation by Congress is section five of the Fourteenth Amendment
+      
+      
+        7
+         The Supreme Court decided Seminole Tribe on March 27, 1996.  Florida Prepaid first informed the district court of its intention to move for dismissal on Eleventh Amendment grounds on April 8, 1996.  See Appellee's br. at 39 n. 16
+      
+    
+    

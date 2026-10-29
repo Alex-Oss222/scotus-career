@@ -1,0 +1,565 @@
+SOURCE: Fifth Circuit, 134 F.3d 668. This lower-opinion extract omits paragraphs containing Supreme Court procedural-history references. Quoted lower-court accounts of other authority remain lower-court reasoning and must be checked against governing simulated law.
+
+
+
+Leonard C. Jaques, Michael J. Connor, Jaques Admiralty Law Firm, Detroit, MI, for Flanagan and Middleton.
+
+Elihu Inselbuch, Charles Sanders McNew, Caplin & Drysdale, Chartered, New York City, Steven Kazan, Kazen, McClain, Edises, Simon & Abrams, Oakland, CA, for Ahearn, Dennis, Jeep, Ellison and Mitchell.
+
+Joseph F. Rice, Ness, Motley, Loadholt, Richardson & Poole, Charleston, SC, Peter Van Lockwood, Caplin & Drysdale, Chartered, Washington, DC, Joseph B. Cox, Jr., Cox & Cox, Sullivan's Island, SC, for Ahearn, Dennis, Jeep and Ellison.
+
+Harry Fred Wartnick, Wartnick, Chuber, Harowitz, Smith & Tigerman, San Francisco, CA, Eric D. Green, Boston, MA, for Ahearn, Dennis and Jeep.
+
+Bruce L. Ahnfeldt, Napa, CA, for Juanita Drake.
+
+Clinton A. Krislov, Krislov & Associates, Chicago, IL, Ronald W. Lupton, Stinson, Lupton & Weiss, Bath, ME, for Roland and Judith Dearborn, Butcher and Longshore Intervenor.
+
+Michael Scott Hertzig, Washington, DC, for Dir., Workers Comp., Director, Office of Workers' Compensation Programs, U.S. Dept. of Labor.
+
+Frederick M. Baron, Dallas, TX, for Paul and Edee Cochran, Beck, Behee, Allgood, Evers and Taylor.
+
+Stephen M. Snyder, Kelly C. Wooster, William R. Irwin, James L. Miller, Brobeck, Phleger & Harrison, San Francisco, CA, for Fibreboard Corp.
+
+Herbert Maurice Wachtell, Meyer G. Koplow, Wachtell, Lipton, Rosen & Katz, New York City, Donald T. Ramsey, David M. Rice, Rodney L. Eshelman, Carroll, Burdick & McDonough, San Francisco, CA, for Continental Cas. Co., Columbia Cas. Co. and CNA Cas. Co. of Cal.
+
+Billy Glynn Parker, Ireland, Carroll & Kelley, Tyler, TX, for Continental Cas. Co.
+
+Paul J. Bschorr, Richard B. Sypher, Dewey Ballantine, New York City, for Pacific Indem.
+
+Richard L. Josephson, Baker & Botts, Houston, TX, Robert B. Shaw, Nelson, Mullins, Riley & Scarborough, L.L.P., Columbia, SC, for Owens-Illinois, Inc.
+
+Gary A. Bresee, Barger & Wolen, San Francisco, CA, for Penn Mut. Life Ins. Co.
+
+Stuart Philip Ross, Ross, Dixon & Masback, Washington, DC, for Columbia Cas. Co. and CNA Cas. Co. of Cal.
+
+Charles P. Schropp, Schropp, Buell & Elligett, Tampa, FL, for Celotex Corp.
+
+Anne W. Bloom, Arthur H. Bryant, Trial Lawyers for Public Justice, Washington, DC, for Trial Lawyers for Public Justice, amicus curiae.
+
+Jeffrey Robert White, Pamela A. Liapakis, Associated Trial Lawyers of America, Washington, DC, for Association of Trial Lawyers of America, amicus curiae.
+
+James L. Kimble, Craig A. Berrington, David F. Snyder, American Ins. Ass'n, Washington, DC, for American Ins. Ass'n, amicus curiae.
+
+Scott McCullen Baldwin, Baldwin & Baldwin, Marshall, TX, for Asbestos Victims of America, amicus curiae.
+
+Brent M. Rosenthal, Steve Dan Baughman, Baron & Budd, Dallas, TX, Sidney Katherine Powell, Powell & Associates, Dallas, TX, S. Ann Saucer, Dallas, TX, for Edee Cochran, Ortiz, Allgood, Evers and Taylor.
+
+Andrew K. Epting, Jr., Wise, Pratt-Thomas, Pearce, Epting & Walker, Charleston, SC, Roy L. Stacy, Dennis D. Conder, Dallas, TX, for Safety Nat. Cas. Corp.
+
+Appeals from the United States District Court for the Eastern District of Texas.
+
+Before REAVLEY, DAVIS and SMITH, Circuit Judges.
+
+PER CURIAM:
+
+      ¶1
+
+      ¶2
+
+There are two controlling differences between this case and Amchem.   First, this class action proceeded under Rule 23(b)(1);  Amchem was a Rule 23(b)(3) case.  Second, there was no allocation or difference in award, according to nature or severity of injury, in the present case as there was in Amchem;  in the case here all members of the future claimant class are treated alike.  Individual damage awards will subsequently be decided according to individual damages.
+
+      ¶3
+
+The district court made extensive findings and found, specifically, that separate actions by members of the class would create a risk of adjudications with respect to individual members of the class which would as a practical matter be dispositive of the interests of the other members not parties to the adjudications or substantially impair or impede their ability to protect their interests.  The language of the district court matches the language of Rule 23(b)(1)(B).  No one has contested that finding of the district court, probably because it is incontestable.
+
+      ¶4
+
+The Supreme Court stated in Amchem that a settlement class action, like all federal class actions, cannot proceed unless the requirements of Rule 23(a) are met, irrespective of whether the proposed settlement is deemed fair under Rule 23(e).  We detailed in our prior opinion our agreement with the thorough study and conclusions by the district court, satisfying the requirements of class certification under Rule 23(a).  All members of the class, and all class representatives, share the common interests:  suffering harm from asbestos exposure and seeking equitable distribution of compensation from limited funds.  None of the uncommon questions, abounding in Amchem, exist in the present case.
+
+      ¶5
+
+The only conflict between members of the future claimant class could be competition for larger and earlier shares of available money, but that is precisely the reason for Rule 23(b)(1)(B) and the problem it is designed to solve where the money is limited.  That conflict or competition is controlled for the benefit of all members of the class.  It follows that the lawyer representing the class serves only common interests of the class.
+
+The judgment of the district court is
+
+      ¶6
+
+AFFIRMED.
+
+JERRY E. SMITH, Circuit Judge, dissenting:
+
+      ¶7
+
+In a five-paragraph unsigned opinion, the panel majority states that "we can find nothing in the Amchem opinion that changes our prior decision."1  Like that prior decision, the new majority opinion overrides the substantive and procedural rights of large groups of asbestos claimants.  Because this court cannot properly bless a settlement that Congress has not authorized and the Constitution forbids, I respectfully dissent.
+
+I.
+
+      ¶8
+
+II.
+
+      ¶9
+
+Like the district court a quo, the district court in Amchem had approved a gigantic settlement, including a complex scheme for processing claims administratively, in an effort to achieve efficiency and fairness in the resolution of massive numbers of asbestos claims without resort to individual trials.4  The Amchem Court rejected the settlement because it plainly is not authorized by the applicable rules and statutes:
+
+      ¶10
+
+The argument is sensibly made that a nationwide administrative claims processing regime would provide the most secure, fair, and efficient means of compensating victims of asbestos exposure.  Congress, however, has not adopted such a solution.  And [FED.  R. CIV. P.] 23, which must be interpreted with fidelity to the Rules Enabling Act [, 28 U.S.C. § 2072(b),] and applied with the interests of absent class members in close view, cannot carry the large load ... the District Court heaped upon it.  As this case exemplifies, the rulemakers' prescriptions for class actions may be endangered by "those who embrace [Rule 23] too enthusiastically just as [they are by] those who approach [the rule] with distaste."
+
+      ¶11
+
+--- U.S. at ----, 117 S.Ct. at 2252 (footnote and citation omitted, last three brackets in original).
+
+      ¶12
+
+The lesson is that, regardless of the benefits a particular settlement might seem to confer, in terms of "the greatest good for the greatest number" of parties, the niceties of statutory and constitutional constraints must be observed.  Thus, while parties and district courts can be praised for their resourcefulness in formulating settlements that resolve mass tort litigation, the statutory and constitutional constraints, as the Amchem Court observed, "serve to inhibit appraisals of the chancellor's foot kind--class certifications dependent upon the court's gestalt judgment or overarching impression of the settlement's fairness."  Amchem, --- U.S. at ----, 117 S.Ct. at 2248.
+
+      ¶13
+
+This general theme, expressed forcefully in Amchem, is reinforced by the Court's discussion of specific issues, most of which are highly relevant to the instant case.  While Amchem focuses on the issues of predominance and adequacy of representation, the Court emphasizes that these are not the only considerations a court must address when certifying a settlement class.5
+
+III.
+
+      ¶14
+
+Before discussing the issues dealt with directly in Amchem, I note that this is not, as the majority would have it, a "limited fund" case.  I will show, below, that the majority's analysis is fatally flawed even if we treat this matter as involving a limited fund--a question not present in Amchem--but I adhere to my previously-stated view that Fibreboard and its insurers do not collectively constitute a "limited fund" that would allow class certification under FED.  R. CIV. P. 23(b)(1)(B).  See Ahearn I, 90 F.3d at 1002 n. 17 (Smith, J., dissenting).
+
+      ¶15
+
+This issue alone should be dispositive of the matter, for if this class cannot go forward as a "limited fund" class, it would require certification under rule 23(b)(3) and would then be subject to the requirements of predominance and superiority.  Amchem would specifically prevent class certification, for here, we have precisely the same disparities that destroyed cohesion in the Amchem class:
+
+      ¶16
+
+"Class members were exposed to different asbestos-containing products, for different amounts of time, in different ways, and over different periods.  Some class members suffer no physical injury or have only asymptomatic pleural changes, while others suffer from lung cancer, disabling asbestosis, or from mesothelioma....  Each has a different history of cigarette smoking, a factor that complicates the causation inquiry.
+
+      ¶17
+
+"The [exposure-only] plaintiffs especially share little in common, either with each other or with the presently injured class members.  It is unclear whether they will contract asbestos-related disease and, if so, what disease each will suffer.  They will also incur different medical expenses because their monitoring and treatment will depend on singular circumstances and individual medical histories."
+
+      ¶18
+
+Amchem, --- U.S. at ----, 117 S.Ct. at 2250 (quoting Georgine v. Amchem Prods., 83 F.3d 610, 626 (3d Cir.1996)).  In Amchem, as here, differences in state law compound these disparities.  Id.
+
+      ¶19
+
+The panel majority concludes that the district court's finding that Fibreboard is a "limited fund" is "incontestable".6  This is error, for rule 23(b)(1)(B) cannot reasonably be read to allow a "limited fund" class where, as here, there is and was no "fund" except that which was established by the settlement itself.7  Congress long ago established a comprehensive bankruptcy scheme to govern situations in which a company is unable to pay its debts.  Here, the district court speculated that, at some point in the future, Fibreboard may be unable to pay all of its asbestos tort creditors.  The court then, in effect, discharged the debt owed that particular class of creditors while avoiding the procedural protections of the bankruptcy code.  This is manifestly incorrect.
+
+A.
+
+      ¶20
+
+The panel majority gives great deference to the district court's factual finding that the maintenance of individual actions by class members might be dispositive of the interests of other parties.  The majority accurately notes that "the language of the district court matches the language of Rule 23(b)(1)(B)," but the enunciation of these magic words cannot insulate the underlying legal determination from review, any more than would a trial court's factual finding that a defendant is liable.  As a matter of law, this "finding," which is overtly conclusory, is incorrect.
+
+      ¶21
+
+The class proponents cite cases in which appellate courts have upheld "limited fund" class certifications under rule 23(b)(1)(B), but these cases invariably involve a "fund" that, unlike an ongoing concern, is necessarily limited.8  These applications of rule 23(b)(1)(B) are appropriate, for the rule obviously applies where "claims are made by numerous persons against a fund insufficient to satisfy all claims."9  Professor Newberg states:
+
+      ¶22
+
+A limited fund exists when a fixed asset or piece of property exists in which all class members have a preexisting interest ....  Classic illustrations include claimants to trust assets, a bank account, insurance proceeds, company assets in a liquidation sale, proceeds of a ship sale in a maritime suit, and others.
+
+      ¶23
+
+1 NEWBERG ON CLASS ACTIONS § 4.09, at 4-33 (emphasis added).  Here, there is neither a fixed asset nor property in which the putative class members have an interest.  Their claims are made not against a "fund", but against Fibreboard itself.
+
+      ¶24
+
+It is fundamental that an injured party has an in personam claim against the person responsible for his injury.10  Such a claim is not limited by the amount of insurance carried by a defendant, nor by its liquid assets or net worth.  A final judgment against the defendant becomes much like any other debt, able to be collected from any of a defaulting debtor's existing or after-acquired assets.11
+
+      ¶25
+
+Here, the panel majority has approved replacing the claimants' state law causes of action in personam with a claim against an artificially-imposed "limited fund."   To be sure, the settlement does establish a limited fund:  a res from which payment for all claims must be distributed.  Indeed, for Fibreboard, the entire point of this settlement was to obtain a limit on liability that theretofore had been, quite literally, limitless.  But that does not transform the plaintiffs' in personam claims against Fibreboard into in rem claims against the newly-established fund.
+
+      ¶26
+
+It is possible that the mounting costs of defending asbestos claims and paying asbestos judgments would have driven Fibreboard to take refuge in bankruptcy court.12  This would be unfortunate for Fibreboard's shareholders and contract creditors, but it would not be catastrophic:  The Johns-Manville Corporation went through an apparently successful bankruptcy reorganization and spun off the Manville Personal Injury Settlement Trust in order to satisfy its tort liabilities.  See In re Joint E. & S. Dist. Asbestos Litig., 982 F.2d at 725.   And in any case, the specter of eventual bankruptcy does not now render this ongoing concern a "limited fund."   Up until the time of a bankruptcy discharge, tort creditors have a legally unlimited font of money from which they may demand their due.
+
+      ¶27
+
+This proposed settlement class is in fact "a self-evident evasion of the exclusive legal system established by Congress for debtors to seek relief."13  But here, the "constructive bankruptcy" is reached without the protections of the Bankruptcy Code:  procedural protections--such as the creditors' vote on settlements--and substantive protections--such as tort creditors' preferred status.  It is, moreover, a colossal bailout for Fibreboard's shareholders that would not occur in bankruptcy.  Instead of approving this evasion of the mechanisms established by the legislative branch, we should be mindful that "the function of federal courts is not to conduct trials over whether a statutory scheme should be ignored because a more efficient mechanism can be fashioned by judges."  In re Keene, 14 F.3d at 733.14
+
+      ¶28
+
+The panel majority thus supplants the bankruptcy law with a judge-made system to extinguish the rights of tort creditors.  And the panel ignores the obvious application of rule 23(b)(1)(B), which does not allow a defendant to limit its substantive liability through the creation of a limited fund--as was done here--but rather is a mechanism for the equitable distribution of a pre-existing fund.
+
+      ¶29
+
+But perhaps most striking is the panel's apparent disregard for principles of federalism and the limits of the Rules Enabling Act.  Contrary to the Congressional mandate that the rules of civil procedure not "abridge, enlarge, or modify any substantive right," 28 U.S.C. § 2072, this court now takes away state law rights of those who have been damaged in tort and allows the asbestos victims only a pro-rata share in an artificially-limited settlement fund.  As a matter of law, this class cannot be certified under rule 23(b)(1)(B).
+
+B.
+
+      ¶30
+
+Even assuming, arguendo, that rule 23(b)(1)(B) allows certification of a "limited fund" class of in personam claimants against a solvent ongoing concern and its solvent insurers, the panel majority erred in accepting the district court's factual decision that this is a limited fund.  Fibreboard was recently acquired by Owens-Corning in a tender offer for about $515 million cash, plus $85 million of assumed debt.  See Andrea Puchalsky, Owens-Corning to Buy Fibreboard for $515 million, W  ALL S  T. J., May 29, 1997 at A4. This stands in contrast to the district court's finding, upheld by this court, that Fibreboard was worth no more than $235 million.
+
+      ¶31
+
+IV.
+
+      ¶32
+
+      ¶33
+
+For example, even if it were properly certified under rule 23(b)(1)(B), this class cannot proceed as a mandatory class in contravention of Phillips Petroleum Co. v. Shutts, 472 U.S. 797, 812, 105 S.Ct. 2965, 2974-75, 86 L.Ed.2d 628 (1985).  See Ahearn I, 90 F.3d at 1001-06 (Smith, J., dissenting).  Moreover, this class--which by definition includes persons unaware of any injury or even exposure15--could never meet rule 23's requirement of notice to class members.  See Ahearn I, 90 F.3d at 999-1000 (Smith, J., dissenting);  see also Amchem, --- U.S. at ----, 117 S.Ct. at 2252 (citing the Ahearn I dissent with approval).  Perhaps most importantly, this class--with legions of members who lack legally cognizable claims, and many members who have not even suffered injury-in-fact--cannot meet the irreducible minimum standards of justiciability under U.S. CONST.  Art. III.16  See Ahearn I, 90 F.3d at 1015-26 (Smith, J., dissenting);  see also Amchem, --- U.S. at ----, 117 S.Ct. at 2244 (declining to reach jurisdictional issues before deciding "logically antecedent" rule 23 certification issues).
+
+V.
+
+      ¶34
+
+Even if these reasons were invalid, this class must fail under Amchem because of the lack of common issues and the inadequately-representative named plaintiffs.  The Amchem settlement class, similarly, failed to meet the "adequacy of representation" requirement of rule 23(a).  Amchem, --- U.S. at ----, 117 S.Ct. at 2252.   The Court stated:
+
+      ¶35
+
+Nor can the class ... satisfy Rule 23(a)(4)'s requirement that the named parties will fairly and adequately protect the interests of the class.  The adequacy inquiry under Rule 23(a)(4) serves to uncover conflicts of interest between named parties and the class they seek to represent.  [A] class representative must be part of the class and possess the same interest and suffer the same injury as the class members.
+
+      ¶36
+
+... In significant respects, the interests of those within the single [Amchem] class are not aligned.  Most saliently, for the currently injured, the critical goal is generous immediate payments.  That goal tugs against the interest of exposure-only plaintiffs in ensuring an ample, inflation-protected fund for the future.
+
+      ¶37
+
+--- U.S. at ---- - ----, 117 S.Ct. at 2250-51 (citations and internal quotation marks omitted).
+
+A.
+
+      ¶38
+
+The Amchem Court firmly established three principles of law with respect to rule 23(a)(4).  Perhaps most importantly, adequacy of representation must be analyzed as a procedural safeguard--a "structural assurance" that the class members' interests are protected, irrespective of the fairness of the outcome.17  Id. at ----, 117 S.Ct. at 2251.   And it is the class representatives who matter:  the named plaintiffs, not their lawyers.  Furthermore, the Court's treatment of the issue makes plain that the adequacy of representation--or its converse, the existence of conflicts--is treated as a question of law, not as a factual matter to be proven by expert testimony.
+
+1.
+
+      ¶39
+
+The Amchem Court was presented with a factual "no conflict" finding similar to the district court's finding in this case.  The same legal ethics expert who testified in Ahearn testified in Amchem that he perceived no intraclass conflict, or that if there was a small conflict it was overwhelmed by the commonalities.  See Georgine v. Amchem Prods., Inc., 157 F.R.D. 246, 297-98 (E.D.Pa.1994).  The district court agreed.  Id. In their briefs, the class proponents vigorously argued the factual "no conflict" determination to the Supreme Court.  See, e.g., Amchem Brief for Petitioner at 45-49, 1996 WL 721641, at * 45-49.
+
+      ¶40
+
+But the Supreme Court disregarded the expert's testimony and the Amchem district court's extensive findings of fact on the issue of representativeness.  Cf. Amchem, --- U.S. at ---- - ----, 117 S.Ct. at 2250-52.   Instead, from its own review of the various and potentially adverse interests among class members, the Court determined that conflicts existed--without regard to the conclusions of expert witnesses or of the district court.  It is thus apparent from Amchem that the existence of conflicts is very much a question of law, not fact.18
+
+      ¶41
+
+As did the Amchem district court, however, the district court and panel majority here incorrectly have treated the conflict inquiry as a factual one.  In Ahearn I, the majority stated that "[j]ust what measure of representation is adequate is a question of fact that depends on each peculiar set of circumstances."  90 F.3d at 977 (quoting  North Am.  Acceptance Corp. v. Arnall, Golden & Gregory, 593 F.2d 642, 644 n. 4.  (5th Cir.1979)).  The new majority opinion apparently draws on that conclusion when it says that "[w]e detailed in our prior opinion our agreement with the thorough study and conclusions by the district court, satisfying the requirements of class certification under Rule 23(a)."   Now, in light of Amchem, we know this conclusion was incorrect:  Adequacy is determined as a matter of law.
+
+2.
+
+      ¶42
+
+The Amchem court also emphasized the crucial distinction between the adequacy of the class representatives themselves, on the one hand, and the adequacy of class counsel, on the other hand.  Thus, the Amchem Court, rather than looking at the plaintiffs' lawyers' competence or ethical conflicts of interest, questioned whether the named plaintiffs shared the same interests as did the class they purported to represent.19  The Court stated that the rule 23(a)(4) adequacy inquiry requires that "the named parties will fairly and adequately protect the interests of the class."  Amchem, --- U.S. at ----, 117 S.Ct. at 2250 (emphasis added, internal quotations omitted).  Not just the attorneys, but also the named parties must be without conflict with the class they seek to represent.  Id. This is especially true where, as here, claimants are deprived of the right to opt out.  See Ahearn I, 90 F.3d at 1009 (Smith, J., dissenting).
+
+3.
+
+      ¶43
+
+Throughout Amchem, the Court reminds us that the rule 23 class composition requirements are structural protections:  prophylactic rules that must be applied even where a seemingly desirable result has been achieved without their help.  Noting Congress's direction that the rules of procedure "shall not abridge any substantive right," 28 U.S.C. § 2072(b), the Court states that rule 23's "dominant concern" is whether "absent class members can fairly be bound by decisions of class representatives."  Amchem, --- U.S. at ----, 117 S.Ct. at 2248.   The adequacy inquiry is ultimately designed to protect the members' due process rights, to keep them from being bound in absentia by someone who does not adequately protect their interests.  See id.;   see also Hansberry v. Lee, 311 U.S. 32, 61 S.Ct. 115, 85 L.Ed. 22 (1940).  In other words, the class certification inquiry does not examine the merits of the tradeoffs created by a settlement, but examines whether class representatives and class counsel had the authority to trade at all.
+
+      ¶44
+
+Amchem thus specifically rejects any attempt to circumvent the structural safeguards of rule 23(a) by looking only to the substantive fairness of the outcome under rule 23(e).20  The rules "designed to protect absentees by blocking unwarranted or overbroad class definitions [ ] demand undiluted, even heightened attention in the settlement context."  Amchem, --- U.S. at ----, 117 S.Ct. at 2248.   Ignoring the class proponents' protestations that the settlement was fair, and that the class members' interest in achieving a fair settlement established a unifying interest among all the members, see Amchem Brief for Petitioner at 43-48, 1996 WL 721641, at * 43-48, the Amchem Court unequivocally reiterated that structure must prevail over content.
+
+      ¶45
+
+It is not enough that a named plaintiff in fact works for the overall good of the class.  A representative must "possess the same interest and suffer the same injury as the class members" and must be aligned in interest such that no conflicts exist between the representative and any "discrete subclasses" within the broader class he purports to represent.  Amchem, --- U.S. at ----, 117 S.Ct. at 2251.  Amchem demands a "structural assurance of fair and adequate representation for the diverse groups and individuals affected."  Id. (emphasis added).
+
+      ¶46
+
+A corollary of rule 23(a)(4)'s mandate of unconflicted representation as a "structural assurance" is that any real conflict, even if minor when compared to interests held in common, will render the representation inadequate.  Thus, Amchem did not weigh the myriad common interests within that class against the conflicts, in order to decide whether the conflicts were "de minimis " or were somehow overcome by the commonalities.
+
+      ¶47
+
+Rather, the analysis was explicitly focused on the mere existence of some intraclass conflict.21  Cf. Amchem, --- U.S. at ---- - ----, 117 S.Ct. at 2250-51.   And the Court specifically stated that the class conflicts were not "made insignificant" by the ample funding provided by the settlement.  Id. at ----, 117 S.Ct. at 2251.   In accordance with Amchem, therefore, we should not care--because the Supreme Court did not--whether having maximum dollars in a settlement fund is in everyone's interest, or even whether that unifying interest seems to outweigh the singular and disunifying interests among the various de facto subclasses.
+
+      ¶48
+
+Amchem requires that the class representatives possess an identity of interest with the class they represent, and also that "the named plaintiffs operated under a proper understanding of their representational responsibilities."  Id. Where discrete subclasses exist, each "separate constituency" must be represented as such:
+
+      ¶49
+
+"The class representatives may well have thought that the Settlement serves the aggregate interests of the entire class.  But the adversity among subgroups requires that the members of each subgroup cannot be bound to a settlement except by consents given by those who understand that their role is to represent solely the members of their respective subgroups."
+
+      ¶50
+
+Amchem, --- U.S. at ----, 117 S.Ct. at 2251 (quoting In re Joint E. & S. Dist. Asbestos Litig., 982 F.2d at 742-43).
+
+      ¶51
+
+Therefore, in order for this class properly to be certified, exposure-only and pre-1959 representatives must have been representing the interests of their own subgroup, not the amorphous interest of the class as a whole.  But there was no structural mechanism here to ensure that each discrete interest (such as the exposure-only claimants' interest in a lower damage cap) was given an advocate in the settlement negotiations.  Rather, if these discrete interests were voiced at all, it would have been by someone perfectly willing--indeed, obligated by his duty to the class as a whole--to subordinate that discrete interest to his conception of the broader interests of the class.22B.
+
+      ¶52
+
+Two important conflicts exist between certain class members and their representatives.23  The same conflict between present and future claimants identified in the Amchem class also is present here:  "Most saliently, for the currently injured, the critical goal is generous immediate payments.  This goal tugs against the interest of exposure-only plaintiffs in ensuring an ample, inflation-protected fund for the future."  Amchem, --- U.S. at ----, 117 S.Ct. at 2251.   Because of that conflict alone, this cannot go forward as a single class.
+
+      ¶53
+
+Furthermore, this class contains the additional conflict between the pre- and post-1959 claimants.  These groups are treated alike under the settlement, even though their claims are worth vastly different amounts in the tort system.24  These structural conflicts effectively create discrete subgroups within the Ahearn class.  Even if these conflicts are small in comparison to other arguable common interests, certification of the conflicted class was improper without proper subclassification and representation.25
+
+      ¶54
+
+Because the panel majority states that "there was no allocation or difference in the award, according to the nature or severity of injury," one is led to infer that the only interest that was ever in play here was the unitary interest of all the class members in receiving money.  That inference is incorrect.
+
+      ¶55
+
+The settlement has two essential parts:  a common fund and a mandatory process for distributing that fund.  Even if all claimants are treated alike under the settlement--without regard to their status--this still reflects an allocation decision, with the various groups pitted against each other to receive parts of the fund.
+
+      ¶56
+
+In order to negotiate the settlement fund and establish the distribution process, the parties engaged in a series of compromises, attempting to balance the interests of the various subgroups in order to arrive at a settlement to the benefit of all.  Thus, individual claims are capped at $500,000, regardless of the nature of the claim or when it manifests itself.26  There is an outright ban on punitive damages.  Pre- and post-judgment interest is eliminated, despite its availability in many jurisdictions and its obviously disproportionate impact on latent claimants.  Claims arising under highly different legal systems--such as maritime versus non-maritime law, and common law versus civil code--are treated identically.
+
+      ¶57
+
+But perhaps the most salient allocation was the decision to treat the pre- and post-1959 claimants alike.  It is true that the class as a whole benefited from this, and perhaps from each of the other compromises.27  It is also true that the settlement treats everyone the same.  But in so doing, it ignores the pre-settlement status--and rights--of the widely disparate groups of claimants.28
+
+      ¶58
+
+The settlement forced the pre-1959 claimants to give up something of value that is legally their due--their cause of action against an insured Fibreboard--in order to benefit a group of claimants to whom they owe nothing.  To deprive them of that right requires that the absent class members have been protected by rule 23(a)(4)'s structural safeguard of due process through representation.
+
+      ¶59
+
+It is immaterial that, arguably, the settlement might not have been different had it been negotiated with representatives of the subclasses.  Likewise irrelevant is whether the settlement was fair and in everyone's best interest.  The gravamen of prophylactic rules is that they must be followed even where they seem burdensome and inconsequential.
+
+C.
+
+      ¶60
+
+The panel majority apparently believes the adequacy inquiry in this case to be distinguishable from that in Amchem, for this is a rule 23(b)(1)(B) action, while Amchem was not.  That distinction is relevant, but it cuts against certification.  Here, in a limited fund action, it is even more true that the class members were pitted against one another, and that their interests needed to be aligned with those of their loyal representatives.
+
+      ¶61
+
+In Amchem, the Court stated that "[a]lthough this is not a 'limited fund' case certified under Rule 23(b)(1)(B), the terms of the settlement reflect essential allocation decisions designed to confine compensation and to limit defendants' liability."  --- U.S. at ----, 117 S.Ct. at 2251.   Thus, even though the Amchem defendants had a theoretically unlimited supply of dollars with which to pay future claimants--so that the allocation of dollars was not a zero-sum game, and class members' potentially conflicting interests were thus arguably not pitted against one another--still, that settlement made "essential allocation decisions" by which some class members won and some lost.  Thus, the Court worried that the settlement had chosen winners and losers "with no structural assurance of fair and adequate representation for the diverse groups and individuals affected."  Id.
+
+      ¶62
+
+Here, there is no question that the settlement makes "essential allocation decisions."   This is, after all, a "limited fund" class, in the view of the panel majority.  If that is so, there is only one apple, and anyone who might ever assert a claim against the defendants is fighting for a bite of it.  The need for adequate representation is even more important where, as here, one person or group loses for every time another person or group wins.
+
+      ¶63
+
+The settlement's terms reveal its inter-group allocative effect.  The high cap on damages hurts latent claimants (who would prefer a lower cap to ensure that there is some money left when their injuries finally become manifest), while patent claimants benefit.  The ban on punitive damages hurts claimants from jurisdictions where such awards are generally available, saving a larger slice of the apple for those for whom punitives would not be available.  Perhaps most egregiously, the settlement eliminates the privileged status of the pre-1959 claimants (who were covered by Fibreboard's insurance policy) and places them on equal footing with the post-1959 claimants (whose claims were largely uninsured).  This settlement undeniably picks winners and losers.
+
+      ¶64
+
+A limited fund only increases the potential of intraclass conflicts.  If the settlement in Amchem was legally flawed, this one is even more so.  Where, as here, there are significant and potentially adverse subgroups within a class, their interests must be protected by representation as such.
+
+      ¶65
+
+Although recognizing that the class representatives might have thought the settlement in the best interests of the class as a whole, the Court in Amchem demanded a "structural assurance of fair and adequate representation for the diverse groups and individuals affected."  Id. at ----, 117 S.Ct. at 2251.   This case demands no less.
+
+VI.
+
+      ¶66
+
+The Amchem class was rejected also, in part, because common questions of law or fact did not predominate over questions affecting only individual class members.  See id. at ----, 117 S.Ct. at 2249 (citing rule 23(b)(3)).  That analysis does not directly control the instant supposed "limited fund" class, for rule 23(b)(1)(B) imposes no such predominance requirement, but calls only for rule 23(a)(2) commonality.  And, noting that for rule 23(b)(3) classes the test of commonality is subsumed under or superseded by the more stringent predominance inquiry, the Court declined to address commonality as such.  Id. at ----, 117 S.Ct. at 2243.
+
+      ¶67
+
+Here, where common issues need only exist, not predominate, Amchem's ultimate conclusion has no bearing on the type and relative significance of the issues necessary to pass muster under rule 23(a)(2).  The Amchem analysis is still pertinent, however, for Amchem speaks directly to the relevance of the settlement to either inquiry.  Amchem tells us what sort of common issues may be considered:  whether they must preexist the settlement, or whether an interest in the settlement itself may provide the common issues in satisfaction of rule 23(a)(2) or rule 23(b)(3).
+
+      ¶68
+
+Amchem tells us that, although a settlement is "a factor in the calculus," --- U.S. at ----, 117 S.Ct. at 2249,29 the parties' interest in the settlement will not suffice to establish a "common interest" among the class members.  "The benefits asbestos-exposed persons might gain from the establishment of a grand-scale compensation scheme ... is not pertinent to the predominance inquiry.  That inquiry trains on the legal or factual questions that qualify each class member's case as a genuine controversy, questions that preexist any settlement."  Id. (emphasis added).  "If a common interest in a fair compromise could satisfy the predominance requirement ..., that vital prescription would be stripped of any meaning in the settlement context."  Id. at ---- - ----, 117 S.Ct. at 2249-50.
+
+      ¶69
+
+The class proponents would object that by its terms, this rule speaks only of "predominance," not "commonality."   Here, though, that is a distinction without a difference.  That the predominance inquiry imposes a higher standard--by requiring not only that the common issues exist but that they outweigh the uncommon issues--is irrelevant, for the Court made explicit that the issues themselves--whether they must be "predominant" or simply "common"--must arise from interests that preexist the settlement.
+
+      ¶70
+
+That there is a settlement, or that it is fair, does not eliminate or modify the other requirements of rule 23.  Id. at ----, 117 S.Ct. at 2248.   The plain text of rule 23 requires the putative class to meet its requirements by reference to the intrinsic features of the class members' claims, not to the settlement.  Amchem reminds us that courts "lack authority to substitute for rule 23's certification criteria a standard never adopted--that if a settlement is 'fair,' then certification is proper."  Id. at ----, 117 S.Ct. at 2249.   A court must apply the "criteria the rulemakers set."  Id.
+
+      ¶71
+
+A settlement cannot itself be used to establish commonality, because to do so would cripple the settlement process from its inception;  a putative class unable to meet the requirement of rule 23(a)(2) without the "commonality" established by a settlement could never be certified for litigation.  And if settlement were allowed despite the impossibility of litigation, class counsel "could not use the threat of litigation to press for a better offer," and the resulting settlement would be a one-sided deal that sells out the plaintiff class for a pittance and works only in the true interest of the defendant and its insurers and the attorneys for both sides.  See id. at ---- - ----, 117 S.Ct. at 2248-49.   For policy reasons as well as adherence to the text of the rule, then, Amchem mandates that every class meet the rule 23 certification requirements independently of any common interest they might share in obtaining or maximizing the proposed settlement.
+
+      ¶72
+
+In its original opinion, the panel majority relied exclusively on the common interest of the class members in the settlement, citing Adams Extract Co. v. Pleasure Hours, Inc.  (In re Corrugated Container Antitrust Litig.), 643 F.2d 195, 211 (5th Cir.1981),30 for the proposition that "the terms of the settlement were vitally important to the determination that certification was appropriate."  Ahearn I, 90 F.3d at 975.   The majority went on to cite other authority for the proposition that "in the settlement class context, common issues arise from the settlement itself," id., and then applied its view of the law to the putative Ahearn class:
+
+      ¶73
+
+The district court, in its findings of fact, found that the entire Global Health Claimant Class had the following issues in common:
+
+      ¶74
+
+(i) avoiding the potentially disastrous results of a loss by Fibreboard in the Coverage Case appeal;  (ii) maximizing the total settlement contribution from Fibreboard and the Insurers;  (iii) streamlining the procedures for the filing, processing and resolution of claims, and thereby reducing transactions costs and delays in compensation;  (iv) minimizing the percentage of their compensation diverted from them to pay attorneys' fees;  and (v) adopting procedures that provide for payments to claimants in an equitable manner.
+
+      ¶75
+
+The intervenors do not disagree that the settlement class holds these issues in common.  Instead, they argue that these issues do not support a finding of commonality because they are derived from the settlement rather than from the Ahearn complaint.  As we noted above, this argument has no merit and is foreclosed by our holding in Container I. Because the evidence is overwhelming that the class holds the above issues in common under the settlement (even the intervenors concede this point), we agree with the district court that the Ahearn action and the Global Settlement Agreement presented it with questions of law and fact common to the entire Global Health Claimant Class.
+
+      ¶76
+
+Id. at 975-76.   This passage makes apparent that the panel majority based its finding of commonality solely on the now-discredited theory that the class members' interest in the settlement itself is sufficient to fulfill rule 23' § commonality requirement.31
+
+      ¶77
+
+In its latest opinion, the majority addresses this point in one sentence:  "All members of the class, and all class representatives, share the common interests:  suffering from asbestos exposure and seeking equitable distribution of compensation from limited funds."   As I have said, the latter "interest" in the settlement fund, because it does not preexist the settlement, cannot establish commonality.  And the putative interest in "suffering from asbestos exposure" is simply inadequate.
+
+      ¶78
+
+To begin with, it is factually incorrect to say that all the class members have "suffered from asbestos exposure."32  The futures claimants, of course, have, by definition, "suffered" nothing, although presumably they have been exposed.  Likewise, the future children and future spouses of persons exposed to asbestos have suffered nothing and have been exposed to nothing.
+
+      ¶79
+
+Presumably the majority means that by the time their claims ripen and become justiciable, every class member will have a common interest in that he will deserve some compensation from Fibreboard that in some way stems from Fibreboard's manufacture of asbestos.  At such an extreme level of generality, the members of this class conceivably could possess some level of commonality.  But this is not a justiciable common interest sufficient to maintain the class.
+
+      ¶80
+
+Consider a commercial airline that suffers several disasters:  one in Oregon, one in Louisiana, and one off the coast of Brazil.  The owners of property that is damaged when the plane crashed into it, the bystanders injured by flying debris, and the deceased passengers' and crewmembers' next of kin all have "suffered from" the crashes.33  But no federal court would allow these disparate groups, under dissimilar legal systems, asserting divergent legal claims, all to join together under the aegis of their common "suffering from the airplane crashes."
+
+      ¶81
+
+In such a case, then, the superficial commonality of having suffered some injury will not suffice.  Instead, the common issue must be necessary to the theory of recovery:  "[T]he individual's claim and the class claims [must] share common questions of law or fact."  General Tel. Co. v. Falcon, 457 U.S. 147, 157, 102 S.Ct. 2364, 2370, 72 L.Ed.2d 740 (1982) (emphasis added).  And it must be significant:
+
+      ¶82
+
+The commonality and typicality requirements of Rule 23(a) tend to merge.  Both serve as guideposts for determining whether under the particular circumstances maintenance of a class action is economical and whether the named plaintiff's claim and the class claims are so interrelated that the interests of the class members will be fairly and adequately protected in their absence.
+
+      ¶83
+
+Id. at 158 n. 13, 102 S.Ct. at 2371 n. 13.  It is not enough for some general sort of commonality to exist.  The commonality must be justiciable:  It must derive from a substantial legal or factual question that is necessary to the class members' theories of recovery.
+
+      ¶84
+
+It might be that the members of the putative Ahearn class do have issues in common, issues preexisting and apart from the settlement.  It might also be that these issues would suffice to establish rule 23(a) commonality.  The district court and the panel majority did not cite any such common issues, however.
+
+      ¶85
+
+In fact, the gist of this class is that the driving commonality was the class members' interest in the settlement itself:  that in order to keep the defendants from going bankrupt and to forestall a possibly disadvantageous result in the insurance litigation, the plaintiff class members found it in their common interest to settle.  Amchem tells us this is not enough.
+
+VII.
+
+      ¶86
+
+In sum, this class cannot go forward.  It cannot be certified as a "limited fund" class under rule 23(b)(1)(B), because it does not concern such a "limited fund," but rather is an aggregation of claims against a solvent, ongoing concern and its insurers.
+
+      ¶87
+
+But even if this class did involve a "limited fund" under rule 23(b)(1)(B), Amchem makes plain that it must still fail the requirements of rule 23(a).  The pre- and post-1959 claimants and the patent and latent claimants are discrete and often adversarial subgroups.  That the class structure fails to recognize these groups as such and to afford them proper representation causes the class to fail the adequacy requirement of rule 23(a).  Further, because Amchem will not allow commonality to stem from a putative interest in the settlement itself, this class must also fail for want of common issues.
+
+      ¶88
+
+        1
+
+ In published form, the majority opinion will consume only about a page.  Accordingly, I will not burden the reader with page references
+
+        2
+
+        3
+
+        4
+
+ For a recitation of the facts and proceedings, the reader is referred to the prior panel majority and dissenting opinions in this case.  See Ahearn I, 90 F.3d at 968-74;  id. at 993-98 (Smith, J., dissenting)
+
+        5
+
+ See, e.g., Amchem, --- U.S. at ----, 117 S.Ct. at 2252 ("Because we have concluded that the class in this case cannot satisfy the requirements of common issue predominance and adequacy of representation, we need not rule, definitively, on the notice given here....  [H]owever ... we recognize the gravity of the question....")
+
+        6
+
+        7
+
+ Rule 23(b)(1)(B) does not mention a "limited fund" but, instead, allows class certification where individual adjudications "would as a practical matter ... substantially impair" the ability of class members to protect their interests.  Thus, the class members' interests might be in mineral reserves, water rights, or a fixed amount of money.  The rule necessarily contemplates the allocation of a limited resource, however, for only where the class members' interests are to some degree mutually exclusive will the individuals' litigation "substantially impair" the others' rights.  Thus, where the remedy sought is money damages, the paradigm is of a "limited fund" to be distributed for the class members' benefit
+
+Courts have been confronted with at least two different theories under which rule 23(b)(1)(B) would apply to cases that do not fit into this "limited fund" paradigm:  the "constructive bankruptcy" and the "punitive damage overkill" theories.  See Arthur R. Miller and David Crump, Jurisdiction and Choice of Law in Multistage Class Actions after Phillips Petroleum Co. v. Shutts, 96 Y  ALE L.J. 1, 42 (1986).  The instant putative class seeks certification on the basis of "constructive bankruptcy."   That is, the claimants theorize that if Fibreboard continues to pay asbestos settlements and judgments, it will eventually go bankrupt, and this, as a practical matter, will dispose of later-brought claims.
+
+        8
+
+ For example, in In re Joint E. & S. Dist. Asbestos Litig., 982 F.2d 721, 742-43 (2d Cir.1992), modified on reh'g sub nom.  In re Findley, 993 F.2d 7 (2d Cir.1993), the underlying trust fund had been established during the asbestos defendant's bankruptcy reorganization.  It was entirely proper, then, for the claims against that fund to be litigated en masse as a "limited fund" class.  In In re Drexel Burnham Lambert Group, Inc., 960 F.2d 285 (2d Cir.1992), the defendant had established a $350 million fund in settlement of an SEC enforcement action, and subsequently went bankrupt.  This, also, involved an actual "fund" that was "limited".  And in Hartford Life Ins. Co. v. Ibs, 237 U.S. 662, 35 S.Ct. 692, 59 L.Ed. 1165 (1915), there was a true "fund" against which the individual causes of action arose:  a mortuary fund held by Hartford for the benefit of thousands of members
+
+        9
+
+ Rules Advisory Committee, Notes to 1966 Amendments to Rule 23, 39 F.R.D. 69, 101;  see also 1 NEWBERG ON CLASS ACTIONS § 4.09, at 4-31 (noting that "the most common use of subsection (b)(1)(B) class actions is in limited fund cases")
+
+        10
+
+ Take, as a random example, the admiralty case of Grubart v. Great Lakes Dredge & Dock Co., 513 U.S. 527, 115 S.Ct. 1043, 130 L.Ed.2d 1024 (1995), in which the contested issue was whether the Limitation on Vessel Owners' Liability Act, 46 U.S.C. § 181 et seq., should apply.  If it did, all the victims of the Chicago flood would be limited in their recovery to the value of a few marine vessels;  but if it did not, the victims of the flood could recover in personam against the defendant and its insurers.  See Grubart, 513 U.S. at 531, 115 S.Ct. at 1047
+
+        11
+
+ Also, as I note below in part III.B, Fibreboard has been purchased by Owens-Corning, whose assets could be available, in appropriate circumstances, to satisfy tort judgments.  Finally, Fibreboard has announced that it is suing the tobacco industry for recovery in the nature of contribution, arguing that injuries caused by smoking aggravate injuries caused by asbestos.  See Asbestos Maker Sues Tobacco Industry, N.Y. T  IMES, Nov. 8, 1997, at D5. Any sums thus recovered will be available to pay tort judgments
+
+        12
+
+ I note the indeterminacy inherent in this speculation:  At what point does a "fund" become "limited"?   A district court must assess the probability and likely amount of the claimants' recovery, and balance this against its estimation of the defendant's future ability to pay
+
+        13
+
+ See In re Keene Corp., 14 F.3d 726, 732 (2d Cir.1993), in which the court noted:
+
+Indeed, the process contemplated by [class proponents] mirrors a bankruptcy proceeding.  The finding of a limited fund corresponds to a finding of insolvency.  The preliminary injunction serves much the same function as the automatic stay under Section 362(a) of the Bankruptcy Code. 11 U.S.C. § 362(a) (1988).  The class representatives correspond to creditors' committees in Chapter 11 proceedings.  See 11 U.S.C. § 1102 (1988).  The proposed mandatory class settlement mirrors a reorganization plan and "cram-down," see 11 U.S.C. § 1123, 1129(b), followed by a discharge, 11 U.S.C. § 1141(d).
+
+Id  at 732 (citation omitted).
+
+        14
+
+ Commentators have questioned the propriety of using rule 23(b)(1)(B) as a means of avoiding bankruptcy proceedings.  See, e.g., 3 NEWBERG ON CLASS ACTIONS § 17.15A, at 3S-16 (3d ed.  Supp.1994) (opining that "a 23(b)(1)(B) class should not serve as a substitute for bankruptcy proceedings");  see also, e.g., John C. Coffee, Jr., Class Wars:  The Dilemma of Mass Tort Class Actions, 95 C  OLUM.  L. R  EV. 1343, 1382-83, 1458-59 (1995);  Richard Marcus, They Can't Do That, Can They?  Tort Reform Via Rule 23, 80 C  ORNELL L. R  EV. 858, 880-81 (1995);  William Schwarzer, Settlement of Mass Tort Class Actions:  Order Out of Chaos, 80 C  ORNELL L. R EV. 837, 840 (1995)
+
+        15
+
+ Indeed, the class includes "persons"--the future children of persons exposed to asbestos--who had not yet been conceived at the time the complaint was filed
+
+        16
+
+ Again, I call attention to the "future children" and "future spouses" categories of claimants.  See Ahearn I, 90 F.3d at 1018-19 (Smith, J., dissenting)
+
+        17
+
+ Of great importance here is a point recognized by the panel majority, that a settlement class "cannot proceed unless the requirements of Rule 23(a) are met, irrespective of whether the proposed settlement is deemed fair under Rule 23(e)."   See also Amchem, --- U.S. at ----, 117 S.Ct. at 2248 (holding that the fairness inquiry is "an additional requirement, not a superseding direction" to the requirements of Rules 23(a) and (b)).  This directly contradicts Adams Extract Co. v. Pleasure Hours, Inc.  (In re Corrugated Container Antitrust Litig.), 643 F.2d 195 (5th Cir.  Apr.1981).   See, e.g., id. at 212 ("If the [settlement] terms themselves are fair, reasonable and adequate, the district court may fairly assume that they were negotiated by competent and adequate counsel")
+
+        18
+
+ Of course, the underlying circumstances--for example that certain types of claimants are differently situated in the settlement value of their underlying claims--would be a factual matter
+
+        19
+
+ Rule 23(a)(4) requires that the both the named plaintiffs and the class counsel be adequately representative.  The Court made this distinction explicit, noting, "we decline to address the adequacy-of-counsel issues in light of our conclusion that common questions of law or fact do not predominate and that the named plaintiffs cannot adequately represent the interests of this enormous class."  Amchem, --- U.S. at ---- n. 20, 117 S.Ct. at 2251 n. 20
+
+        20
+
+ As one academic noted, "[D]ue process must mean something other than that the result is just, otherwise some lynchings would be consistent with due process."   Susan Koniak, Feasting While the Widow Weeps:  Georgine v. Amchem Products, Inc., 80 C  ORNELL L. R  EV. 1045, 1123 (1995)
+
+        21
+
+ The only intraclass conflict identified as such by the Court was the conflict between the currently injured and exposure-only plaintiffs.  See Amchem, --- U.S. at ----, 117 S.Ct. at 2251.   The same conflict, of course, exists here
+
+        22
+
+ As discussed below, the terms of the settlement demonstrate why interested and express advocacy was necessary:  It appears that the most cohesive and self-identified group--the presently injured--may perhaps unconsciously have advanced its own interests at the expense of the more diffuse and unidentified future claimants
+
+        23
+
+ These two structural conflicts are not the only ones, however.  For example, the direct claimants--who allegedly suffered injury from direct exposure to asbestos, and would recover under any tort regime--are in opposition to the indirect claimants--who only suffered injuries such as loss of consortium, and whose claims might not be cognizable in some states.  See 41 AM.JUR.2D Husband and Wife § 247 (stating that jurisdictions may treat loss of consortium claims as derivative of the underlying personal injury, and thus a judgment in one establishes res judicata as to the other, or they may treat the loss of consortium claim as a distinct action).  Obviously, negotiating the settlement's treatment of indirect claimants will pit these two groups against each other
+
+        24
+
+ Before the settlement became imminent, the pre-1959 claims settled for an average of $12,000, while the post-1959 settled for only $4,000.  Once the asbestos world expected that the settlement would go through, the pre-1959 claims settled for only $8,000, while the value of the post-1959 claims had risen to $7,000.  MEALEY'S LITIG.  REP  . June 2, 1995, at 20
+
+        25
+
+ I note, however, that the putative class's common interests are not overwhelming.  The panel majority describes those interests as "suffering harm from asbestos exposure and seeking equitable distribution of compensation from limited funds."   This is in accord with the original majority opinion, which essentially found the common interest to be maximizing and efficiently distributing the settlement.  Ahearn I, 90 F.3d at 981
+
+Amchem refutes the proposition that the class members' common interest in achieving or maximizing a settlement could align their interests sufficiently enough to satisfy rule 23(a)(4).  The district court that originally certified the Amchem class relied on this rationale:  "So long as all class members are united in asserting a common right, such as achieving the maximum possible recovery for the class, the class interests are not antagonistic for representation purposes."  Georgine v. Amchem Prods., 157 F.R.D. 246, 317 (E.D.Pa.1994).  But the Supreme Court squarely rejected this rationale.  The fact that everyone had an interest in receiving money does not suffice to ensure that the named parties would "fairly and adequately protect the interests of the class."   See Amchem, --- U.S. at ---- - ----, 117 S.Ct. at 2250-51.   The putative class members' lack of common interests is dealt with at length in Part V, below.
+
+        26
+
+ By contrast, mesothelioma claims had averaged tort recoveries in the millions.  Also, consider how this cap reflects an allocation between latent claimants--who desire a low cap, in order to preserve the fund for when their injuries become manifest--and patent claimants--who would prefer high present damages
+
+        27
+
+ It is axiomatic that the class as a whole was giving something up in return for the guaranteed settlement.  Fibreboard and its insurers must have thought they were getting a good deal--that the settlement cost was less than their actual liability--or they would not have entered into the agreement.  The question, though, is whether some claimants' rights were traded away, and whether those claimants were adequately represented
+
+        28
+
+ This might be likened to an airline that eliminates both coach and first class seating, creating a new "business class" for everyone, and then applies this new arrangement to a flight on which many of the seats have been sold.  Those who bought a coach ticket are thrilled to receive a better level of service, but those who paid for first class have been deprived of their due.  Even if the group as a whole is better off--for the many coach passengers' happiness outweighs the few first class passengers' disappointment--this would be unacceptable
+
+In economic terms, this result would be Kaldor-Hicks optimal.  But here, in order not to divest vested rights, any acceptable result must come closer to Pareto optimality.
+
+        29
+
+ The Court found the fact of and terms of a settlement relevant in only three contexts:  (1) The terms of the settlement may indicate whether the absentees' interests are adequately represented.  --- U.S. at ---- - ----, 117 S.Ct. at 2248.  (2) The fact of a settlement also eliminates the need for a rule 23(b)(3)(D) manageability inquiry.  Id. And (3) when a class is a settlement-only class, it requires that heightened attention be given to the class definition, as there will be no way to refine and adjust the class as litigation unfolds.  Id
+
+        30
+
+ I reiterate that Corrugated Container's reliance on the fairness of, and interest in, the settlement is invalidated by Amchem.   Also in doubt is the viability of Meat Price Investigators Ass'n v. Iowa Beef Processors (In re Beef Indus. Antitrust Litig.), 607 F.2d 167 (5th Cir.1979), in which this court stated:  "[A]s the law now stands, tentative or temporary settlement classes are favored when there is little or no likelihood of abuse, and the settlement is fair and reasonable and under the scrutiny of the trial judge."  Id. at 174
+
+        31
+
+ The common issues described by the district court and the first panel opinion are remarkably similar to one of the common issues relied on by the Amchem district court and squarely rejected by the Supreme Court:  "their common 'interest in receiving prompt and fair compensation for their claims, while minimizing the risks and transaction costs inherent in the asbestos litigation process as it occurs presently in the tort system.' "  Amchem, --- U.S. at ----, 117 S.Ct. at 2249 (quoting Georgine v. Amchem Prods., Inc., 157 F.R.D. at 316).   This benefit, the Court held, "is a matter fit for legislative consideration, but it is not pertinent to the predominance inquiry."  Id. (emphasis added)
+
+        32
+
+ This "interest" is like the "interest" the majority identified in its prior opinion:  that, in addition to the now discredited "interest in the settlement" theory, commonality exists because "Fibreboard is liable in tort for damages incurred due to exposure to Fibreboard asbestos."   See Ahearn I, 90 F.3d at 975-76
+
+        33
+
+ The reader may add facts as needed to sustain the analogy.  For example, the claims against the airline add up to a lot of money, so by the panel majority's reasoning, one might consider the airline and its insurers a "limited fund."
+
+    

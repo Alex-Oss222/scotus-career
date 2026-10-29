@@ -1,0 +1,3 @@
+# Alden neutral-intake isolation incident
+
+The supplied Section I contained a sentence disclosing a private approved disposition. The initial Group B neutral preflight identified it and stopped Alden substantive preflight before producing commitments. The controller mechanically deleted only that sentence in runtime/chunk11-scoped/ALDEN_SANITIZED_NEUTRAL.md; the approved brief and mechanical runtime split remain unchanged. This controller is not the replacement neutral author. A fresh neutral validator must assess the sanitized packet, followed by fresh independent modeling and separate historical reconciliation. Unaffected matters continue. No claim of blindness is made for the exposed initial Alden preflight.

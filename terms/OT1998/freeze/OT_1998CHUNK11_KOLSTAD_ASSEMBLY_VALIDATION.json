@@ -1,0 +1,326 @@
+{
+  "case": "Kolstad v. American Dental Association",
+  "event_date": "1999-06-22",
+  "status": "assembly_finalized",
+  "form": "One signed lead opinion after plenary review, with distinct mental-state, managerial punitive-agency/compliance, broader-agency/burden reservation, common disposition and application portions. Separate Stone concurrence, Thomas concurrence in part/dissent, and Stevens concurrence in part/dissent in part joined by Souter, Ginsburg and Breyer.",
+  "form_legal_basis": "Different direct proposition coalitions and competing remedy positions require precise partial joins; one author can carry all portions, and no division changes eligibility or counts.",
+  "governing_propositions": {
+    "I": "M1-M2 statutory mental state and submission/award distinctions; eight join, Thomas independently accepts M2 distinctions.",
+    "II-A_and_II-B": "Five direct supporters of managerial actual-authority/scope attribution and bounded actual-good-faith compliance protection, without paper-policy immunity or displacement of own company wrongdoing.",
+    "II-C": "Four non-Stone agency supporters preserve full Restatement reference framework and reserve universal compliance burden allocation; no Stone join or general Court holding on every unused route.",
+    "III-A": "Eight-Justice common vacatur and remand, preserving liability/backpay and no present punitive award.",
+    "III-B": "Four-Justice ordinary application position; no present judicial determination compelling punitive trial.",
+    "Stevens_separate": "Four-Justice punitive-trial direction and refusal to adopt new agency/compliance limit here, not a categorical anti-compliance holding.",
+    "Stone_separate": "Employer avoids managerial vicarious punishment only by showing contrary action against meaningful reasonably designed actually implemented good-faith efforts; no added proof standard.",
+    "Thomas_separate": "Affirm withholding under additional aggravated-culpability construction; alternative agency support not remand vote."
+  },
+  "tentative_judgment_support": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "tentative_opinion_support": {
+    "I": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "II-A_and_II-B": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "II-C": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "III-A": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "III-B": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy"
+    ]
+  },
+  "eligible_before_counts": [
+    "O'Connor",
+    "Scalia",
+    "Kennedy"
+  ],
+  "assignment": {
+    "assigning_justice": "Stone-Zsela",
+    "prior_counts": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 13,
+      "Souter": 12,
+      "Thomas": 12,
+      "Ginsburg": 12,
+      "Breyer": 13
+    },
+    "last_counted": "albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
+    "eligible": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy"
+    ],
+    "pool": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy"
+    ],
+    "chosen_author": "O'Connor",
+    "basis": "Fit: her Hazen Paper opinion performs the central distinction between intentional conduct and knowing/reckless illegality without extra outrage; her frozen Meritor-based punitive-agency position supports every lead proposition. She has the lower count than Kennedy and no unresolved join barrier."
+  },
+  "delegated_new_stone_substance_used": false,
+  "checks": {
+    "form_before_counts": true,
+    "bounded_exact_join_compatibility_check_complete": true,
+    "exact_opening_labels": true,
+    "eleven_public_blocks_in_order": true,
+    "no_later_level_two_blocks": true,
+    "public_internal_holdings_identical": true,
+    "public_private_marker_scan_clear": true,
+    "local_links_resolve": true,
+    "arithmetic": true,
+    "pool_math": true,
+    "record_natural_key": true,
+    "single_actual_lead_author": "O'Connor",
+    "lead_count_increment": 1,
+    "controlling_explanation_word_counts": [
+      175,
+      89,
+      111,
+      237,
+      168
+    ],
+    "manual_legal_checks_completed": [
+      "lawful section 1254(1) certiorari and punitive-only review",
+      "all nine participation, quorum six, majority five",
+      "1992 conduct and date-eligible unchanged statute; common preJune22 law",
+      "established liability/backpay and independent punitive predicates",
+      "exact Stone managerial partial join, employer showing and no preponderance invention",
+      "all eight reconciled commitments and corrections preserved",
+      "Thomas alternative agency joins distinct from affirmance",
+      "five direct agency supporters but only four ordinary-application supporters",
+      "four trial-directed supporters preserved without categorical anti-compliance position",
+      "no compulsory new proceeding, effective compliance finding, forfeiture or punitive amount",
+      "complete public holding, limits, precedents, writings and procedure"
+    ],
+    "bounded_required_pre_finalization_review": {
+      "completed": true,
+      "reviewer": "fresh scoped gpt-6-astra ultra context",
+      "scope": "exact Stone/common rule joins, burden reservation, unchanged colleague commitments and remedial coalition distinctions",
+      "result": "No compatibility blocker; managerial scope limitation and no fifth ordinary-remand vote preserved."
+    }
+  },
+  "source_hashes": {
+    "AGENTS.md": "a9b88cb515e8f305d7c85deee83777701c5f09bfde66ae660a843e685fa49881",
+    "foundation/ENGINE.md": "505a2d5e30e461c4b945dd2e7bd962ff6c117ede64914321f90014aff3b3428c",
+    "foundation/RENDER_CONTRACT.md": "a689b0680371a70cdcf6a7351466f80194d94426e96c1afe3ce6858921ea3db4",
+    "foundation/COURT_COMPOSITION.md": "1d5f10f2060f661abc44060e62b8ebcb9afd348c1dbfc2cfe51eca0d4ebf6c99",
+    "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_NEUTRAL.md": "ba8cdc68278cf49e51baea10c210f7f7d2fe28ea616707f426df023d2c909f92",
+    "terms/OT1998/entering-law/OT_1998CHUNK11_KOLSTAD.md": "7224c7616954ac0b13da5c4f96fae6980d87cd0109992b1716da645e3411d1b2",
+    "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_STATUTORY_ADDENDUM.md": "38eb28880019e90469fd1c30b7dfb5a4b27e97b17be484e25bdf3233ad0cdc28",
+    "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_COMMITMENTS.md": "c737e890c8279a6000cd5ae7556efa26f7fb067cf563e15b03898b286f7736b0",
+    "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_RECONCILED.md": "0a95ea720f9fe93da7debc51f6abf686f3adb70c6b3ce4ac41475ee24e55bd4e",
+    "terms/OT1998/runtime/chunk11-scoped/KOLSTAD_STONE.md": "0f1a7a3177e09bee888dac8ebf969d090b37c1dc006ed6aaf9ed119b9dbe4693",
+    "terms/OT1998/freeze/OT_1998CHUNK11_KOLSTAD_RECOUNT.json": "3ae4d20e2eca3057174279d89e2e6c29cc954e6491e76c88511028f1b2c2d6de"
+  },
+  "component_votes": [
+    {
+      "component": "en_banc_punitive_withholding",
+      "disposition": "vacate_and_common_remand",
+      "support": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "oppose": [
+        "Thomas"
+      ],
+      "count": "8-1",
+      "liability_and_backpay": "preserved"
+    }
+  ],
+  "application_positions": {
+    "direct_punitive_trial": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "ordinary_application_before_submission": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy"
+    ],
+    "affirm_withholding": [
+      "Thomas"
+    ],
+    "no_five_justice_specific_application_instruction": true
+  },
+  "opinion_joins": [
+    {
+      "writing": "Opinion of the Court, Part I",
+      "author": "O'Connor",
+      "including_author": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "frozen_propositions": [
+        "M1",
+        "M2"
+      ],
+      "authority": "controlling"
+    },
+    {
+      "writing": "Opinion of the Court, Parts II-A and II-B",
+      "author": "O'Connor",
+      "including_author": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "frozen_propositions": [
+        "A1R managerial scope only",
+        "A2R substantive rule"
+      ],
+      "authority": "controlling",
+      "Thomas_judgment_support": false
+    },
+    {
+      "writing": "Lead opinion, Part II-C",
+      "author": "O'Connor",
+      "including_author": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "frozen_propositions": [
+        "A1R full reference framework",
+        "A2R universal burden reservation"
+      ],
+      "authority": "noncontrolling_four_justice_discussion"
+    },
+    {
+      "writing": "Opinion of the Court, Part III-A",
+      "author": "O'Connor",
+      "including_author": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "frozen_propositions": [
+        "R1"
+      ],
+      "authority": "common_disposition"
+    },
+    {
+      "writing": "Lead opinion, Part III-B",
+      "author": "O'Connor",
+      "including_author": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy"
+      ],
+      "frozen_propositions": [
+        "R3",
+        "Stone ordinary application"
+      ],
+      "authority": "four_justice_application_position"
+    },
+    {
+      "writing": "Concurrence",
+      "author": "Stone-Zsela",
+      "including_author": [
+        "Stone-Zsela"
+      ],
+      "authority": "noncontrolling",
+      "scope": "Employer only by showing actual good-faith compliance; no universal proof standard."
+    },
+    {
+      "writing": "Concurrence in part and dissent in part",
+      "author": "Stevens",
+      "including_author": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "frozen_propositions": [
+        "A3R",
+        "R2"
+      ],
+      "authority": "noncontrolling"
+    },
+    {
+      "writing": "Concurrence in part and dissent from judgment",
+      "author": "Thomas",
+      "including_author": [
+        "Thomas"
+      ],
+      "frozen_propositions": [
+        "M3",
+        "independent M2 screening and discretion",
+        "alternative A1R/A2R"
+      ],
+      "authority": "noncontrolling except actual direct joins to Part II"
+    }
+  ],
+  "record_path": "terms/OT1998/records/kolstad_v_american_dental_association_merits_1999-06-22.md",
+  "record_sha256": "cd36e9c4e60eb1f9bccb8d580f03876fa585e17743ffdcfa383f3dfa44b38012",
+  "research_cutoff": "1999-06-22 before uncoordinated events",
+  "source_limits": [
+    "Original Restatement pages and complete trial transcript not independently recovered; authorized neutral authenticated quotations and verified recitations used.",
+    "Historical full-source review verification supplied by reconciled freeze, not separately repeated by assembly."
+  ],
+  "workspace_and_render_integration": "not_performed_by_assembly",
+  "remaining_steps": "Controller integration and chunk-level checks only; no substantive assembly blocker."
+}

@@ -1,0 +1,31 @@
+
+MURPHY V. UNITED PARCEL SERVICE, INC.
+141 F.3d 1185, affirmed.
+     O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Stevens, J., filed a dissenting opinion, in which Breyer, J., joined.">
+			LII
+			Supreme Court
+MURPHY V. UNITED PARCEL SERVICE, INC. (97-1992) 
+141 F.3d 1185, affirmed.
+     O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Stevens, J., filed a dissenting opinion, in which Breyer, J., joined.Syllabus
+ Opinion
+ [ O’Connor ]Dissent
+ [ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+MURPHY v. UNITED PARCEL SERVICE, INC.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE TENTH CIRCUIT
+ No. 97—1992.  Argued April 27, 1999–Decided June 22, 1999
+Respondent United Parcel Service, Inc. (UPS), hired petitioner as a mechanic, a position that required him to drive commercial vehicles.  To drive, he had to satisfy certain Department of Transportation (DOT) health certification requirements, including having “no current clinical diagnosis of high blood pressure likely to interfere with his/her ability to operate a commercial vehicle safely.”  49 CFR § 391.41(b)(6).  Despite petitioner’s high blood pressure, he was erroneously granted certification and commenced work.  After the error was discovered, respondent fired him on the belief that his blood pressure exceeded the DOT’s requirements.  Petitioner brought suit under Title I of the Americans with Disabilities Act of 1990 (ADA), the District Court granted respondent summary judgment, and the Tenth Circuit affirmed.  Citing its decision in Sutton v. United Air Lines, Inc., 130 F.3d 893, 902, aff’d, ante, p. ___, that an individual claiming a disability under the ADA should be assessed with regard to any mitigating or corrective measures employed, the Court of Appeals held that petitioner’s hypertension is not a disability because his doctor testified that when medicated, petitioner functions normally in everyday activities.  The court also affirmed the District Court’s determi-nation that petitioner is not “regarded as” disabled under the ADA,
+explaining that respondent did not terminate him on an unsubstantiated fear that he would suffer a heart attack or stroke, but because his blood pressure exceeded the DOT’s requirements for commercial vehicle drivers.
+Held: 
+    1.  Under the ADA, the determination whether petitioner’s impairment “substantially limits” one or more major life activities is made with reference to the mitigating measures he employs.  Sutton, ante, p. ___.  The Tenth Circuit concluded that, when medicated, petitioner’s high blood pressure does not substantially limit him in any major life activity.  Because the question whether petitioner is disabled when taking medication is not before this Court, there is no occasion here to consider whether he is “disabled” due to limitations that persist despite his medication or the negative side effects of his medication.  P. 4.
+      2.  Petitioner is not “regarded as” disabled because of his high blood pressure.  Under Sutton, ante, at ___, a person is “regarded as” disabled within the ADA’s meaning if, among other things, a covered entity mistakenly believes that the person’s actual, nonlimiting impairment substantially limits one or more major life activities.  Here, respondent argues that it does not regard petitioner as substantially limited in the major life activity of working, but, rather, regards him as unqualified to work as a UPS mechanic because he is unable to obtain DOT health certification.  When referring to the major life activity of working, the Equal Employment Opportunity Commission (EEOC) defines “substantially limits” as “significantly restricted in the ability to perform either a class of jobs or a broad range of jobs in various classes as compared to the average person having comparable training, skills and abilities.”  29 CFR §1630(j)(3)(i).  Thus, one must be regarded as precluded from more than a particular job.  Assuming without deciding that the EEOC regulations are valid, the Court concludes that the evidence that petitioner is regarded as unable to meet the DOT regulations is not sufficient to create a genuine issue of material fact as to whether he is regarded as unable to perform a class of jobs utilizing his skills.  At most, petitioner has shown that he is regarded as unable to perform the job of mechanic only when that job requires driving a commercial motor vehicle–a specific type of vehicle used on a highway in interstate commerce.  He has put forward no evidence that he is regarded as unable to perform any mechanic job that does not call for driving a commercial motor vehicle and thus does not require DOT certification.  Indeed, it is undisputed that he is generally employable as a mechanic, and there is uncontroverted evidence that he could perform a number of mechanic jobs.  Consequently, petitioner has failed to show that he is regarded as unable to perform a class of jobs.  Rather, the undisputed record evidence demonstrates that petitioner is, at most, regarded as unable to perform only a particular job.  This is insufficient, as a matter of law, to prove that petitioner is regarded as substantially limited in the major life activity of working.  Pp. 4—8.
+141 F.3d 1185, affirmed.
+     O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined.  Stevens, J., filed a dissenting opinion, in which Breyer, J., joined.

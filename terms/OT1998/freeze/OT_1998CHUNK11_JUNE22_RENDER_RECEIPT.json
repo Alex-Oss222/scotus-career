@@ -1,0 +1,65 @@
+{
+  "operator_only": true,
+  "pass": "authorized_initial_four_event_render",
+  "input": {
+    "path": "terms/OT1998/freeze/OT_1998CHUNK11_JUNE22_RENDER_INPUT.md",
+    "bytes": 78074,
+    "sha256": "bf4362a4e068de1e598de5bcc5a70233db1fbf7901e66172a016f1232f7dfb6b"
+  },
+  "render": {
+    "path": "terms/OT1998/output/OT_1998CHUNK11.md",
+    "bytes": 76841,
+    "sha256": "07a9933f2c7ccc36864318f3149097b5ae47e93fd4c019f7a258bfd8dbacf9ed"
+  },
+  "rendered_entries": [
+    {
+      "case": "Albertson’s, Inc. v. Kirkingburg",
+      "docket": "98-591",
+      "event": "Merits decision",
+      "date": "1999-06-22",
+      "bytes": 13974,
+      "sha256": "58d801b519d6414a3615086f9f43ca3f65fab4ebd863f0a6281a133b5597a2d5"
+    },
+    {
+      "case": "Kolstad v. American Dental Association",
+      "docket": "98-208",
+      "event": "Merits decision",
+      "date": "1999-06-22",
+      "bytes": 21715,
+      "sha256": "bd6af8403ff0b6b67fce0d60f271715160a4f6fbe99990f8d8a75f21fb1fbe98"
+    },
+    {
+      "case": "Murphy v. United Parcel Service, Inc.",
+      "docket": "97-1992",
+      "event": "Merits decision",
+      "date": "1999-06-22",
+      "bytes": 19643,
+      "sha256": "df37d383bae9f1a014ee0580333b192e6c2b7a6c6aec9be4ce953875c2587878"
+    },
+    {
+      "case": "Olmstead v. L.C.",
+      "docket": "98-536",
+      "event": "Merits decision",
+      "date": "1999-06-22",
+      "bytes": 20676,
+      "sha256": "6ebd81b4d7110bc782014e4ce2b090509843bba8c88b75383b6d9e8c2469b62f"
+    }
+  ],
+  "checks": {
+    "authorized_input_identity": "pass",
+    "event_order_count_boundaries": "pass; four supplied same-day events, each once",
+    "chronology_questions_participation_public_action": "pass",
+    "judgments_component_votes_and_named_positions": "pass",
+    "holdings_authority_limits": "pass; supplied Holdings text preserved unchanged apart from heading depth",
+    "opinion_topology": "pass; exact supplied text",
+    "precedent_treatment_and_law_after": "pass; exact supplied text",
+    "selected_separate_writings": "pass; exact supplied text",
+    "mandate_remedy_stage": "pass; repeated instructions consolidated without substantive change",
+    "source_notes": "pass; public support and legally relevant limits retained",
+    "ordinary_explanation_ceiling": "pass; 15 explanations, maximum 256 words, ceiling 350",
+    "public_private_boundary": "pass",
+    "no_invented_rationale_or_coalition": "pass",
+    "open_render_blockers": []
+  },
+  "entry_hash_scope": "Exact UTF-8 entry bytes from level-three case heading through the closing divider and its newline; inter-entry spacing and chunk header excluded."
+}

@@ -1,0 +1,1783 @@
+Supreme Court, U.S. 
+FILED 
+
+
+> a 
+
+
+FEB 22 1999 
+
+
+In the Supreme Court of the 
+OCTOBER TERM, 1998 
+
+
+COLLEGE SAVINGS BANK, PETITIONER 
+U. 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+EDUCATION EXPENSE BOARD, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE THIRD CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+Counsel of Record 
+
+
+DAVID W. OGDEN 
+Acting Assistant Attorney 
+General 
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+General 
+MARK B. STERN 
+MICHAEL E. ROBINSON 
+H. THOMAS BYRON IIT 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+r\ 
+
+
+QUESTIONS PRESENTED 
+
+
+Section 43(a) of the Lanham Trade-Mark Act, 15 
+U.S.C. 1125(a), establishes a private right of action for 
+damages against any “person” who engages in false 
+advertising of goods or services in interstate commerce. 
+The Act unambiguously provides that States and state 
+instrumentalities are among the “person([s]” subject to 
+suit in federal court. The questions presented are as 
+follows: 
+
+
+1. Whether the Florida Prepaid Postsecondary Edu- 
+cation Expense Board impliedly waived its Eleventh 
+Amendment immunity from suit in federal court by its 
+marketing and sale of prepayment tuition plans. 
+
+2. Whether Congress’s decision to subject the States 
+to suit in federal court for engaging in the false adver- 
+tising of commercial products can be sustained as an 
+exercise of congressional power under Section 5 of the 
+Fourteenth Amendment. 
+
+
+TABLE OF CONTENTS 
+
+
+I. Florida Prepaid voluntarily waived its Eleventh 
+Amendment immunity from suit in federal court 
+under the Lanham Act by operating a com- 
+mercial enterprise and advertising its products 
+in interstate commerce 
+A. Where Congress unambiguously provides 
+
+that States engaging in specified conduct will 
+be subject to suit in federal court, and a State 
+
+
+II. A State’s misrepresentation of its own product in 
+operating a business does not deprive competitors 
+of a constitutionally protected property interest 
+
+Conclusion 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+Atascadero State Hosp. v. Scanlon, 473 U.S. 234 
+
+
+— — e — — 
+
+
+14 
+
+
+21 
+
+
+Page 
+
+
+(1985) 13, 14, 15, 16 
+
+
+Blatchford v. Native Village of Noatak, 501 U.S. 
+775 (1991) 
+
+
+(IID 
+
+
+13 
+
+
+Cases—Continued: Page 
+
+
+Bowen v. Public Agencies Opposed to Social Security 
+Entrapment, 477 U.S. 41 (1966) 31 
+Chavez v. Arte Publico Press, 157 F.3d 282 (5th Cir. 
+1998), reh’g en bane granted, No. 93-2881 (Oct. 1, 
+
+
+1998) 25, 26 
+Clark v. Barnard, 108 U.S. 436 (1883) 13 
+Clark v. California, 123 F.3d 1267 (9th Cir. 1997), 
+
+cert. denied, 118 S. Ct. 2340 (1998) 15 
+
+
+College Savings Bank v. Florida Prepaid Post- 
+secondary Educ. Expense Bd., 148 F.3d 1343 
+(Fed. Cir. 1998), cert. granted, No. 98-531 (Jan. 8, 
+
+
+1999) 6, 31 
+Creative Goldsmiths, In re, 119 F.3d 1140 (4th Cir. 
+
+1997), cert. denied, 118 S. Ct. 1517 (1998) 20 
+Daniels v. Williams, 474 U.S. 327 (1986) , 33 
+Dolan v. City of Tigard, 512 U.S. 374 (1994) 32 
+Edelman v. Jordan, 415 U.S. 651 (1974) 15, 16 
+
+
+Employees of the Dep't of Pub. Health & Welfare v. 
+Department if Pub. Health & Welfare, 411 U.S. 279 
+
+
+(1973) 23, 26, 27 
+Estelle v. Gan ble, 429 U.S. 97 (1976) 33 
+Hartford-Emmvre Co. v. United States, US. 
+
+386 (1945) 31, 32 
+Hess v. Port Auth. Trans-Hudson Corp., 513 
+
+U.S. 30 (1994) 17 
+Hoffman v. Connecticut Dep't of Income Mainte- 
+
+nance, 492 U.S. 96 (1989) 20 
+Hughes v. Alexandria Scrap Corp., 426 U.S. 794 
+
+(1976) 29 
+Kaiser Aetna v. United States, 444 U.S. 164 
+
+(1979) 32 
+K Mart Corp. v. Cartier, Inc., 485 U.S. 176 (1988) 32 
+Lane v. Pena, 518 US. 187 (1996) 15, 16, 26 
+
+
+. Swe 
+
+
+Cases—Continued: Page 
+
+
+MCI Telecommunications Corp. v. Illinois Com- 
+merce Comm'n, No. 98-2127 (7th Cir. Feb. 10 
+
+
+1999) 17, 18 
+New York v. United States, 505 U.S. 144 (1992) .............. 15 
+995 Fifth Ave. Assocs., L. P., In re, 963 F 2d 503 
+
+(2d Cir.), cert. denied, 506 U.S. 947 (1992) 20 
+Parden v. Terminal Ry. of the Ala. State Docks 
+
+Dep't, 377 U.S. 184 (1964) 8, 11, 14, 
+
+22, 23, 24, 25, 27 
+Pennsylvania v. Union Gas Co., 491 U.S. 1 (1989) ......... 28 
+Petty v. Tennessee Missouri Bridge Comm u, 359 
+
+US. 275 (1959) 16, 17 
+Port Auth. Trans-Hudson Corp. v. Feeney, 495 U.S. 
+
+299 (1990) 13 
+Premo v. Martin, 119 F.3d 764 (9th Cir. 1997), 
+
+cert. denied, 118 S. Ct. 1163 (1998) 18, 19 
+Puget Sound Power & Light Co. v. Seattle, 291 U.S. 
+
+619 (1934) 29 
+Reeves, Inc. v. Stake, 447 U.S. 429 (1980) 29, 30 
+Ruckelshaus v. Monsanto Co., 467 U.S. 986 
+
+(1984) 32 
+Seminole Tribe v. Florida, 517 U.S. 44 (19986) 7, 13, 25 
+South Dakota v. Dole, 483 U.S. 208 (1987) 14-15 
+Stewart v. Abend, 495 U.S. 207 (1990) 32 
+Straight, In re, 143 F.3d 1387 (10th Cir.), cert. 
+
+denied, 119 S. Ct. 446 (1998) 20 
+
+
+Tennessee Dep't of Human Servs. v. United States 
+
+Dep't of Educ., 979 F 2d. 1162 (6th Cir. 1992) 
+20th Century Wear, Inc. v. Sanmark-Stardust, Inc., 
+
+747 F.2d 81 d Cir. 1984), cert. denied, 470 U.S. 
+
+1052 (1985) 28 
+US West Communications, Inc. v. TCG Seattle, 
+
+971 F. Supp. 1365 (W.D. Wash. 1997), appeal 
+
+pending, No. 98-35203 (9th Cir.) 18 
+
+
+19 
+
+
+Cases—Continued: Page 
+Welch v. Texas Dep't of Highways & Pub. Transp., 
+483 U.S. 468 (1987) 24, 25 
+White v. Massachusetts Council of Constr. Em- 
+ployers, Inc., 460 U.S. 204 (1983) 29, 30 
+WJM, Inc. v. Massachusetts Dep't of Pub. Wel- 
+fare, 840 F.2d 996 (Ist Cir. 1988) 20 
+Constitution and statutes: 
+US. Const.: 
+Art. I: 
+§ 8: 
+
+CL. 1 (Spending Clause) 14 
+
+Cl. 3 (Commerce Clause) 25, 29 
+§ 10: 
+
+Cl. 3 (Compact Clause) 16, 17 
+Amend. XI passim 
+Amend. XIV (Due Process Clause) 2, 9, 12 
+
+31, 32-33 
+
+95 6. 8. 9, 12, 30, 31. 32 
+
+Act of Oct. 26, 1949, ch. 758, 63 Stat. 930: 
+63 Stat. 930 16 
+63 Stat. 931 16 
+Administrative Procedure Act: 
+5 U.S.C. 551-559 18 
+5 U.S.C. 701-706 18 
+Code, 11 U.S.C. 101 et seq.: 
+11 U.S.C. 101(27) 19 
+11 U.S.C. 106(a) (1988) 20 
+11 U.S.C. 106(b) 19, 20 
+. 201 
+23 
+Federal EimplyesLnity Aa a8 USC 51 
+21 
+Lanes Trade Mak Act 16 UBC. 1051 et seq. 4 
+§ 7(b), 15 U.S.C. 1057(b) 31 
+§ 40, 15 U.S.C. 1122 2 
+§ 40(a), 15 U.S.C. 1122(a) 4, 26 
+
+
+Statutes—Continued: 
+
+
+§ 40(b), 15 U.S.C. 1122(b) 
+§ 43(a), 15 U.S.C. 1125(a) 
+§ 43(aX(1)(B), 15 U.S.C. 1125(a1(B) 
+§ 43(aX(2), 15 U.S.C. 1125) 
+
+Randolph-Sheppard Act, 20 U.S.C. 107 et h ccc 
+20 U.S.C. 107b(6) 
+
+
+20 U.S.C. 107d-2(a) 
+Rehabilitation Act of 1973, 29 U.S.C. 701 et 8€g. 000... = 
+Telecommunications Act of 1996, Pub. L. No. 104-104, 
+
+110 Stat. 56 
+Trademark Remedy Clarification Act, Pub. L. No. 
+
+102-542, 106 Stat. 3567: 
+
+§ 3(b), 106 Stat. 3567 
+
+§ 3(c), 106 Stat. 3568 
+35 U.S.C. 154(a)(1) 
+35 U.S.C. 271 
+47 U.S.C. 252(e) (Supp. II 1996) 
+47 U.S.C. 252(e)(5) (Supp. II 1996) 
+47 U.S.C. 252(e)(6) (Supp. II 1996) 
+Fla. Stat. Ann. § 240.551 (West 1996 & Supp. 1999) ........... 
+
+
+Miscellaneous: 
+
+
+Kit Kinports, Implied Waiver After Seminole Tribe, 
+82 Minn. L. Rev. 793 (1998) 
+
+
+15 
+
+
+In the Supreme Court of the United States 
+OCTOBER TERM, 1998 
+
+
+No. 98-149 
+COLLEGE SAVINGS BANK, PETITIONER 
+
+
+v. 
+
+
+FLORIDA PREPAID POSTSECONDARY 
+EDUCATION EXPENSE BOARD, ET AL. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE THIRD CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-27a) 
+is reported at 131 F.3d 353. The opinion of the district 
+court (Pet. App. 28a-92a) is reported at 948 F. Supp. 
+400. An earlier opinion of the district court in this case 
+is reported at 919 F. Supp. 756. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+December 5, 1997. A petition for rehearing was denied 
+on February 17, 1998. Pet. App. 93a-94a. On April 21, 
+1998, Justice Souter extended the time for filing a 
+petition for a writ of certiorari to and including July 17, 
+1998. The petition was filed on July 17, 1998, and was 
+
+
+(1) 
+
+
+2 
+
+
+granted on January 8, 1999. The jurisdiction of this 
+Court rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+INVOLVED 
+
+
+1. The Eleventh Amendment to the United States 
+Constitution provides: 
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens 
+or Subjects of any Foreign State. 
+
+
+2. The Fourteenth Amendment to the United States 
+Constitution provides in relevant part: 
+
+
+SECTION 1. * No State shall * * * deprive 
+any person of life, liberty, or property, without due 
+process of law. 
+
+XR * X X * 
+
+
+SECTION 5. The Congress shall have power to 
+enforce, by appropriate legislation, the provisions of 
+this article. 
+
+3. Section 1122 of Title 15, United States Code, 
+provides: 
+Liability of States, instrumentalities of States, and 
+
+State officials 
+
+
+(a) Waiver of sovereign immunity 
+
+
+Any State, instrumentality of a State or any 
+officer or employee of a State or instrumentality of 
+a State acting in his or her official capacity, shall not 
+be immune, under the eleventh amendment of the 
+Constitution of the United States or under any 
+other doctrine of sovereign immunity, from suit in 
+
+
+— — 
+
+
+3 
+
+
+Federal court by any person, ineluding any gov- 
+ernmental or nongovernmental entity for any 
+violation under this chapter. 
+
+
+(b) Remedies 
+
+
+In a suit described in subsection (a) of this section 
+for a violation described in that subsection, reme- 
+dies (including remedies both at law and in equity) 
+are available for the violation to the same extent as 
+such remedies are available for such a violation in a 
+suit against any person other than a State, instru- 
+mentality of a State, or officer or employee of a 
+State or instrumentality of a State acting in his or 
+her official capacity. Such remedies include injunc- 
+tive relief under section 1116 of this title, actual 
+damages, profits, costs and attorney’s fees under 
+section 1117 of this title, destruction of infringing 
+articles under section 1118 of this title, the remedies 
+provided for under sections 1114, 1119, 1120, 1124 
+and 1125 of this title, and for any other remedies 
+provided under this chapter. 
+
+
+4. Section 1125(a) of Title 15, United States Code, 
+provides: 
+Civil action 
+
+
+(1) Any person who, on or in connection with 
+any goods or services, or any container for goods, 
+uses in commerce any word, term, name, symbol, or 
+device, or any combination thereof, or any false 
+designation of origin, false or misleading description 
+of fact, or false or misleading representation of fact, 
+which — 
+
+
+(A) is likely to cause confusion, or to cause 
+mistake, or to deceive as to the affiliation, 
+
+
+4 
+
+
+connection, or assuciation of such person with 
+another person, or as to the origin, sponsorship, 
+or approval of his or her goods, services, or 
+commercial activities by another person, or 
+
+
+(B) in commercial advertising or promo- 
+tion, misrepresents the nature, characteristics, 
+qualities, or geographic origin of his or her or 
+another person’s goods, services, or commercial 
+activities, 
+
+
+shall be liable in a civil action by any person who 
+believes that he or she is or is likely to be damaged 
+by such act. 
+
+
+(2) As used in this subsection, the term “any 
+person” includes any State, instrumentality of a 
+State or employee of a State or instrumentality of a 
+State acting in his or her official capcity. Any State, 
+and any such instrumentality, officer, or employee, 
+shall be subject to the provisions of this chapter in 
+the same manner and to the same extent as any 
+nongovernmental entity. 
+
+
+STATEMENT 
+
+
+1. The Lanham Trade-Mark Act (Lanham Act), 15 
+U.S.C. 1051 et seg., contains a variety of provisions 
+designed to safeguard the integrity of this country’s 
+commercial markets. Section 43(a) of the Act, 15 U.S.C. 
+1125(a), establishes a private right of action against any 
+“person” who, inter alia, “in commercial advertising or 
+promotion, misrepresents the nature, characteristics, 
+qualities, or geographic origin of his or her or another 
+person’s goods, services, or commercial activities.” 
+
+
+15 U.S.C. 1125(a)(1)(B). 
+
+
+— —— — 
+
+
+5 
+
+
+As amended in 1992, see Trademark Remedy Clari- 
+fication Act (TRCA), Pub. L. No. 102-542, § 3(c), 106 
+Stat. 3568, the Lanham Act defines the term “person” 
+to include “any State, instrumentality of a State or 
+employee of a State or instrumentality of a State acting 
+in his or her official capacity.” 15 U.S.C. 1125(a)(2). 
+The 1992 amendment (see § 3(b), 106 Stat. 3567) further 
+provides that state entities “shall not be immune, under 
+the eleventh amendment of the Constitution of the 
+United States or under any other doctrine of sovereign 
+immunity, from suit in Federal court by any person, 
+including any governmental or nongovernmental entity 
+for any violation under this chapter.” 15 U.S.C. 1122(a). 
+State defendants are subject to the same remedies, 
+including money damages, as are available in suits 
+against nongovernmental parties. 15 U.S.C. 1122(b). 
+
+2. Petitioner College Savings Bank (CSB) markets 
+certificates of deposit (CDs) under the trademark 
+“CollegeSure.” The CollegeSure CDs are deposit con- 
+tracts for financing future college expenses. CSB 
+received a patent for its financing methodology, which 
+is designed to guarantee investors sufficient funds to 
+cover the future costs of tuition for college. See Pet. 
+App. 2a, 29a & n.1. 
+
+The Florida legislature created the Florida Prepaid 
+Postsecondary Education Expense Board (Florida 
+Prepaid or Board) as part of a legislative initiative to 
+foster greater educational opportunities at the State’s 
+colleges and universities. See Fla. Stat. Ann. § 240.551 
+(West 1996 & Supp. 1999). Since 1988, the Board has 
+administered the Florida Prepaid Postsecondary Edu- 
+cation Expense Program (Program), a tuition-prepay- 
+ment program available to “qualified beneficiaries” as 
+defined by Florida law. Pet. App. 29a-30a & n.2. Those 
+“qualified beneficiaries” include any student who is a 
+
+
+6 
+
+
+Florida resident at the time the advance payment 
+contract is formed, as well as any non-resident student 
+who is the child of a non-custodial parent who is a 
+resident of Florida at the time of contract formation. 
+Id. at 30a n.2. During the first seven years of its 
+operations, Florida Prepaid accumulated a surplus of 
+more than $184 million. Id. at 49a. 
+
+CSB filed two separate actions against Florida 
+Prepaid in the United States District Court for the 
+District of New Jersey. In the first suit, CSB alleged 
+that Florida Prepaid had infringed CSB’s patent. Pet. 
+App. 28a. The district court rejected Florida Prepaid’s 
+Eleventh Amendment challenge to that action, holding 
+that Congress had validly abrogated the Board’s im- 
+munity from suits for patent infringement pursuant to 
+its powers under Section 5 of the Fourteenth Amend- 
+ment. Id. at 79a-87a. The United States Court of Ap- 
+peals for the Federal Circuit affirmed that decision. 
+See College Savings Bank v. Florida Prepaid Post- 
+secondary Educ. Expense Bd., 148 F.3d 1343 (1998) 
+(Pet. App. 95a-120a). This Court granted Florida 
+Prepaid’s petition for a writ of certiorari in that case on 
+January 8, 1999, the same day that it granted CSB’s 
+petition in the instant case. See Florida Prepaid 
+Postsecondary Educ. Expense Bd. v. College Savings 
+Bank & United States, No. 98-531. 
+
+The instant case arises out of the second action filed 
+by CSB against Florida Prepaid. In that proceeding, 
+CSB claimed that Florida Prepaid had made false and 
+misleading statements about its own tuition prepay- 
+ment program in violation of Section 43(a) of the 
+Lanham Act, 15 U.S.C. 1125(a). See Pet. App. 24, 31a.’ 
+
+
+1 The district court summarized the allegations in CSB’s 
+complaint as follows: 
+
+
+7 
+
+
+3. In April 1996, following this Court’s decision in 
+Seminole Tribe v. Florida, 517 U.S. 44 (1996), Florida 
+Prepaid moved to dismiss CSB’s Lanham Act claims, 
+asserting that the suit was barred by the Eleventh 
+Amendment. Pet. App. 3a-4a, 39a-40a. The United 
+States intervened to defend the constitutionality of the 
+TRCA provisions (see p. 5, supra) that authorize the 
+Lanham Act claims to be brought in federal court. See 
+id. at 4a, 40a. The district court ordered the complaint 
+dismissed in its entirety. See id. at 9la- 92a. 
+
+a. The district court first determined that Florida 
+Prepaid is an “arm of the State” of Florida and is 
+therefore entitled to assert the State’s Eleventh 
+Amendment immunity. Pet. App. 42a-58a. The court 
+acknowledged that Florida Prepaid had amassed 
+substantial assets with little if any assistance from the 
+State of Florida. Id. at 49a. The court observed, how- 
+ever, that any judgment against Florida Prepaid could 
+be paid only through a special legislative appropriation, 
+and it explained that Florida Prepaid’s lack of statutory 
+
+
+Specifically, CSB alleges that defendant falsely represented 
+the Florida Prepaid program in the following respects: (1) 
+that the State of Florida guarantees all contract beneficiaries 
+to have the full amount necessary to fund a college education 
+at a participating college or university; (2) that any tax 
+liability on a Florida Prepaid contract is deferred until the 
+student reaps the benefits of the contract, i.e., is enrolled at 
+college; (3) that Florida Prepaid’s investments are backed by 
+the “full faith and credit” of the United States; and (4) that 
+defendant failed to disclose, in its 1995 Annual Report, the 
+existence of CSB’s patent infringement action against it. 
+
+Pet. App. 31a (citations omitted). 
+
+2 As noted above (see p. 6, supra), the district court denied 
+Florida Prepaid’s motion to dismiss a separate complaint alleging 
+infringement of CSB’s patent. 
+
+
+8 
+
+
+authority to satisfy judgments against it weighed in 
+favor of treating the agency as an arm of the State. Id. 
+at 50a-53a. The court noted as well that under Florida 
+law, Florida Prepaid is treated as a state instrumental- 
+ity and has only those powers specifically conferred by 
+statute. Id. at 53a-54a. The court also attached signifi- 
+cance to the fact that the Board is composed of four 
+officers of the State of Florida and three additional 
+members appointed by the Governor and confirmed by 
+the state Senate. Id. at 55a. 
+
+b. The district court next rejected the contention, 
+advanced both by CSB and by the United States, that 
+Florida Prepaid had impliedly waived its Eleventh 
+Amendment immunity from suit in federal court. Pet. 
+App. 60a-73a. CSB and the United States argued that 
+under this Court’s decision in Parden v. Terminal 
+Railway of the Alabama State Docks Department, 377 
+U.S. 184 (1964), a State may be deemed to have waived 
+its Eleventh Amendment immunity if it engages in 
+commercial activity at a time when federal law provides 
+for suit in federal court in cases arising out of that 
+activity. The district court held the Parden waiver 
+doctrine inapplicable on its own terms because Florida 
+Prepaid is performing a role traditionally undertaken 
+by state governments—making available affordable 
+educational benefits.” Pet. App. 68a. The court also 
+held that Parden had been “overruled by implication” 
+by this Court’s decision in Seminole Tribe. Id. at 72a. 
+
+e. Finally, the district court concluded that Section 5 
+of the Fourteenth Amendment does not authorize Con- 
+gress to abrogate Florida Prepaid’s Eleventh Amend- 
+ment immunity from suits alleging false advertising in 
+violation of the Lanham Act. Pet. App. 87a-91la. The 
+court reasoned that the “right to be free from false 
+advertising” is not a “property” right within the mean- 
+
+
+9 
+
+
+ing of the Fourteenth Amendment’s Due Process 
+Clause. Id. at 89a. Because “the false advertising 
+prong of the Lanham Act does not implicate any of the 
+substantive guarantees of the Fourteenth Amend- 
+ment,” the court stated, it “cannot be the basis for the 
+abrogation of Eleventh Amendment immunity.” Ibid. 
+
+4. The court of appeals affirmed. Pet. App. la-27a. 
+
+a. The court first held that on the facts of this case, 
+Section 5 of the Fourteenth Amendment does not pro- 
+vide a valid basis for congressional abrogation of 
+Florida Prepaid’s Eleventh Amendment immunity. 
+Pet. App. 6a-17a.* The court “focus[ed] on the question 
+of whether the TRCA protects a property right recog- 
+nized under the Fourteenth Amendment.” Id. at 13a. 
+The court acknowledged that It he tort of unfair com- 
+petition found in the Lanham Act does protect some 
+intangible property rights,” but found that “no such 
+intangible property is involved in the present case.” Id. 
+at 14a. The court explained that “CSB’s Lanham Act 
+claim concerns allegedly false statements about a 
+competitor’s own product,” and that a “right to be free 
+of false advertising” could not properly be regarded as 
+“an intangible property right protected under the 
+Fourteenth Amendment.” Jbid. The court concluded 
+that “because this case does not involve a property 
+interest I tected by the Fourteenth Amendment, the 
+TRCA, as applied in this case, is an unconstitutional 
+exercise of Congress’ powers.” Id. at 17a.‘ 
+
+
+In the court of appeals, CSB did not challenge the district 
+court’s holding that Florida Prepaid is an “arm of the State” for 
+Eleventh Amendment purposes. 
+
+The court of appeals “express{ed] no opinion as to whether 
+the TRCA may be applied constitutionally in a case involving a 
+trademark infringement or involving a misrepresentation about a 
+competitor’s goods or services.” Pet. App. 17a. 
+
+
+10 
+
+
+b. The court of appeals also rejected the contention 
+that Florida Prepaid had waived its Eleventh Amend- 
+ment immunity by engaging in commercial activities 
+covered by the Lanham Act. Pet. App. 18a-25a. The 
+court explained that 
+
+the Parden doctrine holde that a state’s Eleventh 
+Amendment immunity can be constructively 
+waived if: (1) Congress enacts a law providing that 
+a state will be deemed to have waived its Eleventh 
+Amendment immunity if it engages in the activity 
+covered by the federal legislation; (2) the law does 
+so through a clear statement that gives notice to 
+the states; (3) a state then engages in that activity 
+covered by the federal legislation; and (4) the 
+activity in question is not an important or core 
+government function. 
+
+
+Id. at 21a. The court acknowledged that “the first three 
+requirements of the Parden doctrine have been or will 
+be met” in the instant case. Ibid. The court concluded, 
+however, that Florida Prepaid was engaged in a core 
+governmental function because its operation “directly 
+furthers the goal of education by providing a system of 
+financing for college and university education.” Id. at 
+22a. Because the court of appeals found the Parden 
+waiver doctrine to be inapplicable by its terms, it 
+declined to address the question whether Parden was 
+implicitly overruled by this Court’s decision in 
+Seminole Tribe. Id. at 26a-27a. 
+SUMMARY OF ARGUMENT 
+
+
+1. This Court has repeatedly recognized that a State 
+may waive its Eleventh Amendment immunity and 
+consent to suit in federal court. When Congress unam- 
+biguously provides that specified conduct will have the 
+
+
+11 
+
+
+legal effect of subjecting the States to suit in federal 
+court, and a State thereafter voluntarily elects to 
+engage in that conduct, the State has impliedly waived 
+its Eleventh Amendment immunity. In a variety of 
+contexts, Congress has validly provided that States 
+may obtain the benefits afforded by federal law only if 
+they consent to be sued in federal court. 
+
+In Parden v. Terminal Railway of the Alabama 
+State Docks Department, 377 U.S. 184 (1964), this Court 
+held that Congress may condition a State’s right to 
+operate a commercial railroad upon the State’s amen- 
+ability to suit in federal court. Although Parden has 
+since been qualified in important respects, its core 
+holding remains sound. So long as (1) Congress has 
+unequivocally stated that a State which engages in 
+specified activities will be subject to suit in federal 
+court; and (2) the activities are of a sort that the State 
+can realistically choose to abandon, the State’s conduct 
+is properly regarded as a voluntary waiver of Eleventh 
+Amendment immunity. 
+
+Both of those requirements are satisfied in the 
+instant case. As amended in 1992, the Lanham Act 
+makes unmistakably clear that state entities operating 
+in interstate commerce are subject to the Act’s sub- 
+stantive and remedial provisions in the same manner as 
+their private competitors. And while state govern- 
+ments have historically assumed responsibility for the 
+actual operation of schools, the marketing of investment 
+preducts of the sort at issue here is neither a traditional 
+nor a necessary means of facilitating the State’s educa- 
+tional mission. Florida Prepaid obtains significant 
+beneits from the Lanham Act’s fair-competition 
+requireents, and it should not be permitted to invoke its 
+status as a state entity to gain a competitive advantage 
+over other marketers of investment products. 
+
+
+12 
+
+
+2. Because the TRCA provisions at issue in this case 
+represent a valid exercise of congressional authority to 
+condition a State’s participation in commercial activity 
+on a waiver of Eleventh Amendment immunity, this 
+Court need not determine whether those provisions 
+could also be sustained as an exercise of Congress’s 
+powers under Section 5 of the Fourteenth Amendment. 
+If the Court does address that question, however, we 
+agree with the court of appeals that a state commercial 
+entity which engages in false and misleading advertis- 
+ing of its own product does not thereby “deprive” a 
+competitor of “property” within the meaning of the 
+Fourteenth Amendment. The “right” to be free of false 
+advertising of that nature does not possess the 
+hallmarks—in particular, the right to exclude others— 
+that are characteristic of property rights. Florida 
+Prepaid’s alleged misrepresentations concerning its 
+own products effected no intrusion upon any tangible or 
+intangible interest over which CSB possesses exclusive 
+dominion. 
+
+
+ARGUMENT 
+
+
+I. FLORIDA PREPAID VOLUNTARILY WAIVED ITS 
+ELEVENTH AMENDMENT IMMUNITY FROM 
+SUIT IN FEDERAL COURT UNDER THE LAN- 
+HAM ACT BY OPERATING A COMMERCIAL 
+ENTERPRISE AND ADVERTISING ITS PRO- 
+DUCTS IN INTERSTATE COMMERCE 
+
+
+The Eleventh Amendment provides: 
+
+
+The Judicial power of the United States shall not 
+be construed to extend to any suit in law or equity, 
+commenced or prosecuted against one of the United 
+States by Citizens of another State, or by Citizens 
+or Subjects of any Foreign State. 
+
+
+13 
+
+
+U.S. Const. Amend. XI. This Court has understood the 
+Amendment as confirming a broad, preexisting princi- 
+ple “that a State will * * * not be subject to suit in 
+federal court unless it has consented to suit.” Blatch- 
+ford v. Native Village of Noatak, 501 U.S. 775, 779 
+(1991); accord, e.g., Seminole Tribe v. Florida, 517 U.S. 
+44, 54 (1996). 
+
+This Court has repeatedly recognized that “if a State 
+waives its immunity and consents to suit in federal 
+court, the Eleventh Amendment does not bar the 
+action.” Atascadero State Hosp. v. Scanlon, 473 U.S. 
+234, 238 (1985); accord, e.g., Clark v. Barnard, 108 U.S. 
+436, 447 (1883) (“The immunity from suit belonging to a 
+State is a personal privilege which it may waive 
+at pleasure.”); Seminole Tribe, 517 U.S. at 54. The most 
+obvious way in which a State can waive its Eleventh 
+Amendment immunity is by passage of state legislation 
+expressing the State’s consent to be sued in federal 
+court. See Port Auth. Trans-Hudson Corp. v. Feeney, 
+495 U.S. 299, 306-308 (1990); ef. Atascadero, 473 U.S. at 
+241. As we explain below, however, that is not the only 
+way. When Congress unambiguously provides that 
+specified conduct will have the legal effect of subjecting 
+the States to suit in federal court, and a State there- 
+after voluntarily elects to engage in that conduct, the 
+State has impliedly waived its Eleventh Amendment 
+
+
+Congress has unambiguously determined that States 
+and state entities engaged in commercial enterprises 
+should be subject to the fair-competition requirements 
+of the Lanham Act. Congress has further specifically 
+determined that such state entities, like their private 
+competitors, should be subject to suit in federal court 
+for violations of the Act. In the instant case, Florida 
+Prepaid elected to sell and advertise a commercial 
+
+
+14 
+
+
+investment product in competition with private busi- 
+nesses. Having chosen to engage in that activity, with 
+clear notice of its legal consequences, Florida Prepaid 
+may not claim a constitutional exemption from the rules 
+that bind its competitors. 
+
+A. Where Congress Unambiguously Provides That 
+
+
+States Engaging In Specified Conduct Will Be 
+Subject To Suit In Federal Court, And A State 
+
+
+Thereafter Voluntarily Engages In That Conduct, 
+The State Has Impliedly Waived Its Eleventh 
+
+
+Amendment Immunity 
+
+
+In arguing that Florida Prepaid has waived its 
+Eleventh Amendment immunity, CSB principally relies 
+on this Court’s decision in Parden v. Terminal Railway 
+of the Alabama State Docks Department, 377 U.S. 184 
+(1964), which held that a State could be deemed to have 
+waived its immunity from suit in federal court by 
+operating a commercial railroad. Florida Prepaid 
+suggests (see Br. in Opp. 19-27) that this Court’s 
+decision in Parden is an outlier—a constitutional 
+anomaly. That suggestion is incorrect. Though later 
+decisions have qualified Parden in significant respects, 
+its core holding is fully consistent with prevailing 
+Eleventh Amendment doctrine. Parden is simply one 
+example of a broader principle, repeatedly recognized 
+by this Court and the federal courts of appeals, that a 
+State may impliedly waive its Eleventh Amendment 
+immunity by voluntarily engaging in conduct that 
+Congress has clearly provided will subject the State to 
+suit in federal court. 
+
+1. When Congress legislates pursuant to its powers 
+under the Spending Clause, U.S. Const. Art. I, § 8, Cl. 
+1, it may condition the acceptance and receipt of federal 
+funds on a State’s compliance with conditions that Con- 
+gress could not impose unilaterally. South Dakota v. 
+
+
+15 
+
+
+Dole, 483 U.S. 203, 207-211 (1987); see also New York v. 
+United States, 505 U.S. 144, 167, 171-172 (1992). One 
+such condition may be a waiver of Eleventh Amend- 
+ment immunity. As the court of appeals explained in 
+Clark v. California, 123 F.3d 1267 (9th Cir. 1997), cert. 
+denied, 118 S. Ct. 2340 (1998), [one way for a state to 
+waive its [Eleventh Amendment] immunity is to accept 
+federal funds where the funding statute manifestls] a 
+clear intent to condition participation in the programs 
+funded under the Act on a State’s consent to waive its 
+constitutional immunity.” 123 F.3d at 1271 (quoting 
+Atascadero, 473 U.S. at 247). 
+
+The court of appeals in Clark found that “the 
+Rehabilitation Act manifests a clear intent to condition 
+a state’s participation on its consent to waive its 
+Eleventh Amendment immunity.” 123 F.3d at 1271. 
+The court relied in part on this Court’s characterization 
+of the pertinent Rehabilitation Act of 1973, 29 U.S.C. 
+701 et seq., provision as “an unambiguous waiver of the 
+States’ Eleventh Amendment immunity.” Ibid. (quot- 
+ing Lane v. Pena, 518 U.S. 187, 200 (1996)). The court 
+concluded that because California accepts federal 
+funds under the Rehabilitation Act, California has 
+waived any immunity under the Eleventh Amend- 
+ment.” Ibid. See also Kit Kinports, Implied Waiver 
+After Seminole Tribe, 82 Minn. L. Rev. 793, 822-832 
+(1998) (concluding that Congress retains the power to 
+condition the provision of federal funds on a State’s 
+agreement to waive its Eleventh Amendment im- 
+munity).° 
+
+
+5 In both Atascadero and Edelman v. Jordan, 415 U.S. 651 
+(1974), this Court held that the state defendants had not waived 
+their Eleventh Amendment immunity by accepting federal funds. 
+In each of those cases, however, the Court based its decision on the 
+
+
+16 
+
+
+2. In Petty v. Tennessee-Missouri Bridge Commis- 
+sion, 359 U.S. 275 (1959), the Court considered an issue 
+of Eleventh Amendment waiver in the context of a 
+bistate entity created pursuant to the Compact Clause, 
+U.S. Const. Art. I, § 10, Cl. 3. Tennessee and Missouri 
+agreed to create the Tennessee- Missouri Bridge Com- 
+mission and submitted the proposed compact to Con- 
+gress. The compact signed by the parties provided that 
+the Commission would have the power “to sue and be 
+sued in its own name,” Petty, 359 U.S. at 277 (quoting 
+Act of Oct. 26, 1949, ch. 758, 63 Stat. 931), but it did not 
+refer specifically to the possibility of suit in federal 
+court. The Act of Congress authorizing the compact, 
+however, contained a proviso stating that nothing in the 
+compact “shall be construed to affect, impair, or 
+diminish any right, power, or jurisdiction * * * of any 
+court of the United States.” Ibid. (quoting 63 
+Stat. 930) (emphasis omitted). 
+
+The plaintiff in Petty filed suit against the Com- 
+mission pursuant to the Jones Act, 46 U.S.C. App. 688. 
+359 U.S. at 278. This Court “assume[d] arguendo that 
+thle] suit must be considered as one against the 
+
+
+fact that the relevant federal funding statute did not make clear 
+that the acceptance of federal money would subject the State to 
+suit in federal court. See Atascadero, 473 U.S. at 247 (relevant 
+statute “falls far short of manifesting a clear intent to condition 
+participation in the programs funded under the Act on a State’s 
+consent to waive its constitutional immunity”); Edelman, 415 U.S. 
+at 672-674. Neither decision suggests that Congress is foreclosed 
+from conditioning federal largesse on a State’s waiver of Eleventh 
+Amendment immunity, so long as Congress makes clear to the 
+States that consequence of their decision to accept federal money. 
+Compare Lane, 518 U.S. at 198 (explaining that Congress amended 
+the Rehabilitation Act of 1973 in response to Atascadero in order 
+“to provide the sort of unequivocal waiver that [the Court's] prece- 
+dents demand”). 
+
+
+ee —„— a, ee ee ee) — — 
+
+
+17 
+
+
+States.“ Id. at 279. The Court held, however, that 
+Missouri and Tennessee, by accepting the compact 
+subject to the conditions imposed by Congress, had 
+“waived any immunity from suit which they otherwise 
+might have.” Id. at 280; see also id. at 281-282 (“The 
+States who are parties to the compact by accepting it 
+and acting under it assume the conditions that Con- 
+gress under the Constitution attached.”). 
+
+3. The Telecommunications Act of 1996, Pub. L. No. 
+104-104, 110 Stat. 56, authorizes state commissions to 
+exercise regulatory authority over certain aspects of 
+the telecommunications industry. See, e.g., 47 U.S.C. 
+252(e) (Supp. II 1996). Where a state commission exer- 
+cises that authority, “any party aggrieved by [its] 
+determination may bring an action in an appropriate 
+Federal district court” to obtain judicial review of the 
+state commission’s decision. 47 U.S.C. 252(e)(6) (Supp. 
+II 1996); see MCI Telecommunications Corp. v. Illinois 
+Commerce Comm'n, No. 98-2127, 1999 WL 65021, at *5 
+(7th Cir. Feb. 10, 1999). If the state commission de- 
+clines to exercise that authority, the Federal Com- 
+munications Commission (FCC) is required to “issue an 
+order preempting the State commission’s jurisdiction” 
+and to “assume the responsibility of the State com- 
+mission” with respect to the matter in question. 
+47 U.S.C. 252(e)(5) (Supp. II 1996). 
+
+As the Seventh Circuit has explained, “the Act pro- 
+vides state commissions with a realistic and genuine 
+choice whether to involve themselves in the regulatory 
+process * * *, or whether to let the FCC assume 
+
+
+The Court has since concluded that a Compact Clause entity 
+will not ordinarily be regarded as “one of the United States” for 
+purposes of the Eleventh Amendment. See Hess v. Port Auth. 
+Trans-Hudson Corp., 513 U.S. 30, 40-42 (1994). 
+
+
+18 
+
+
+those functions.” MCI Telecommunications, at *9. 
+“(Bly electing to assume responsibility for the” perti- 
+nent regulatory functions, the court concluded, “the 
+defendants waived the State’s immunity from suit in 
+federal court provided by the Eleventh Amendment.” 
+Ibid. The court explained that: 
+
+
+there is a a fundamental difference between 
+the sort of abrogation that the Supreme Court 
+found constitutionally objectionable in Seminole 
+Tribe and the concept of constructive waiver with 
+which we deal in this case. That difference turns on 
+the voluntariness of the state’s choice in the waiver 
+situation—a choice between waiving its immunity 
+or foregoing participation in the federal statutory 
+scheme at issue. When Congress gives states a 
+genuine choice, clearly stated, as to whether or not 
+to waive their sovereign immunity, the doctrine of 
+constructive waiver survives Seminole Tribe. 
+
+
+Id. at *7 (emphasis added); accord US West Communi- 
+cations, Inc. v. TCG Seattle, 971 F. Supp. 1365, 1369 
+(W.D. Wash. 1997), appeal pending, No. 98-35203 (9th 
+Cir.). 
+
+4. The Randolph-Sheppard Act, 20 U.S.C. 107 et 
+seq., gives States the choice whether to participate in a 
+joint state-federal scheme that provides employment 
+opportunities for the blind. A state agency that seeks 
+to participate must agree to submit to agency arbitra- 
+tion to resolve any disputes with blind licensees. 20 
+U.S.C. 107b(6). Federal judicial review of arbitral 
+decisions is available under the Administrative Proce- 
+dure Act, 5 U.S.C. 551-559, 701-706. 20 U.S.C. 107d- 
+2(a). 
+
+In Premo v. Martin, 119 F.3d 764 (9th Cir. 1997), 
+cert. denied, 118 S. Ct. 1163 (1998), the court of appeals 
+
+
+19 
+
+
+held that by participating in the Randolph-Sheppard 
+program, a state agency had impliedly waived its 
+Eleventh Amendment immunity from suit in federal 
+court. The court explained that “[a] state will be 
+deemed to have waived its sovereign immunity when 
+(1) the state expressly consents to suit; (2) a state 
+statute or constitution so provides; or (3) Congress 
+clearly intended to condition the state’s participation in 
+a program or activity on the state’s waiver of im- 
+munity.” Id. at 770. The court reviewed the pertinent 
+statutory provisions and found “overwhelming” evi- 
+dence that Congress had “conditioned state participa- 
+tion in the Randolph-Sheppard program on consent to 
+federal judicial enforcement of compensatory [arbitral] 
+awards.” bid. The court of appeals therefore con- 
+cluded that “by agreeing to participate in the 
+Randolph-Sheppard program, states have waived their 
+sovereign immunity to enforcement of such awards in 
+federal court.” Id. at 771; see also Tennessee Dep't of 
+Human Servs. v. United States Dep t of Educ., 979 F.2d 
+1162, 1166 (6th Cir. 1992) (“A state can waive its 
+immunity explicitly when it opts to participate in a 
+federal program in which Congress clearly has con- 
+ditioned participation on such a waiver.”). 
+
+5. The Bankruptcy Code also presents States with a 
+choice, framed expressly in terms of conditional waiver. 
+The Code provides that Ja] governmental unit that has 
+filed a proof of claim in the case is deemed to have 
+waived sovereign immunity with respect to” specified 
+claims. 11 U.S.C. 106(b). The term “governmental 
+unit” is defined to include the States. 11 U.S.C. 101(27). 
+A state creditor is under no compulsion to participate in 
+the bankruptcy proceedings by filing a proof of claim. 
+But if a state entity decides to seek the benefits of 
+participating in the bankruptcy proceeding, it must 
+
+
+20 
+
+
+accept the consequence imposed by Congress: waiver of 
+its Eleventh Amendment immunity. 
+
+In WJM, Inc. v. Massachusetts Department of Public 
+Welfare, 840 F.2d 996 (1988), the First Circuit relied on 
+Atascadero in stating that “Congress may effectively 
+condition a state’s participation in a federal program on 
+a state’s consent to federal jurisdiction, so long as 
+Congress manifests a clear intent to this effect.” Id. at 
+1003. The court concluded that former 11 U.S.C. 106(a) 
+(1988)—the predecessor to current Section 106(b) — 
+“manifests such a clear intent.” Ibid.; accord In re 995 
+Fifth Ave. Assocs., L. P., 963 F.2d 503, 506-509 (2d Cir.) 
+(applying predecessor version), cert. denied, 506 U.S. 
+947 (1992). Cf. Hoffman v. Connecticut Dep't of Income 
+Maintenance, 492 U.S. 96, 101 (1989) (plurality opinion) 
+(noting “narrow scope of waiverj ‘” in predecessor of 
+Section 106(b)). In In re Straight, 143 F.3d 1387 (10th 
+Cir.), cert. denied, 119 S. Ct. 446 (1998), the court of 
+appeals distinguished the “narrow waiver” of Eleventh 
+Amendment immunity contained in Section 106(b) from 
+the abrogation of immunity that was held invalid in 
+Seminole Tribe. Id. at 1392. The court explained that 
+Section 106(b) was not properly regarded as an 
+abrogation provision because “a state can choose to 
+preserve its immunity by not participating in a 
+bankruptcy proceeding or to partially waive that 
+immunity by filing a claim. The choice is left to the 
+state.” Ibid. But see In re Creative Goldsmiths, 119 
+F.3d 1140, 1147 (4th Cir. 1997) (stating in dicta that 
+Section 106(b) is unconstitutional under Seminole 
+Tribe), cert. denied, 118 S. Ct. 1517 (1998). 
+
+
+21 
+
+
+B. In Light Of The Unambiguous Provisions Of The 
+TRCA, Florida Prepaid’s Operation Of A Com- 
+mercial Enterprise And Advertisement Of Its 
+Products In Interstate Commerce Constituted 
+An Implied Waiver Of Its Eleventh Amendment 
+Immunity 
+
+For the reasons that follow, Florida Prepaid’s sale 
+and advertisement of investment products is properly 
+regarded as an implied waiver of its immunity from suit 
+in federal court. That conclusion is consistent with the 
+general principles of implied waiver discussed in Point 
+L.A, supra. It is also consistent with this Court’s deci- 
+sion in Parden. Although subsequent decisions have 
+qualified Parden in significant respects, its core 
+holding—that a State’s decision to operate a commer- 
+cial enterprise in competition with private persons may 
+under appropriate circumstances be treated as an 
+implied waiver of Eleventh Amendment immunity— 
+remains sound and controls the present case. 
+
+1. The defendant in Parden was a railroad owned 
+and operated by the State of Alabama. It was sued for 
+damages by one of its employees pursuant to the 
+Federal Employers’ Liability Act (FELA), 45 U.S.C. 51 
+et seg. 377 U.S. at 184. The defendant asserted that 
+under the Eleventh Amendment it was immune from 
+suit in federal court. Id. at 185. 
+
+This Court acknowledged that under its prior Elev- 
+enth Amendment decisions, “an unconsenting State is 
+immune from federal-court suits brought by its own 
+citizens as well as by citizens of another State.” 377 
+U.S. at 186. It observed, however, that “the immunity 
+may of course be waived,” and it concluded that 
+
+
+22 
+
+
+“Alabama has consented to the present suit.” Ibid. The 
+Court explained: 
+
+
+It remains the law that a State may not be sued by 
+an individual without its consent. Our conclusion is 
+simply that Alabama, when it began operation of an 
+interstate railroad approximately 20 years after 
+enactment of the FELA, necessarily consented to 
+such suit as was authorized by that Act. By 
+adopting and ratifying the Commerce Clause, the 
+States empowered Congress to create such a right 
+of action against interstate railroads; by enacting 
+the FELA in the exercise of this power, Congress 
+conditioned the right to operate a railroad in 
+interstate commerce upon amenability to suit in 
+federal court as provided by the Act; by thereafter 
+operating a railroad in interstate commerce, Ala- 
+bama must be taken to have accepted that condi- 
+tion and thus to have consented to suit. 
+
+
+Id. at 192; see also id. at 196 (“when a State leaves the 
+sphere that is exclusively its own and enters into 
+activities subject to congressional regulation, it sub- 
+jects itself to that regulation as fully as if it were a 
+private person or corporation”). 
+
+Four Members of the Court dissented. The dissent- 
+ing opinion began by stating: 
+
+
+I agree that it is within the power of Congress to 
+condition a State’s permit to engage in the inter- 
+state transportation business on a waiver of the 
+State’s sovereign immunity from suits arising out of 
+such business. Congress might well determine that 
+allowing regulable conduct such as the operation of 
+a railroad to be undertaken by a body legally im- 
+mune from liability directly resulting from these 
+operations is so inimical to the purposes of its 
+
+
+regulation that the State must be put to the option 
+of either foregoing participation in the conduct or 
+consenting to legal responsibility for injury caused 
+thereby. 
+377 U.S. at 198 (White, J., joined by Douglas, Harlan, 
+and Stewart, JJ., dissenting). The Court was thus 
+unanimous in concluding that Congress possesses 
+constitutional authority to condition a State’s operation 
+of a commercial railroad on a waiver of immunity from 
+suit in federal court. The dissenting Justices stated, 
+however, that Congress in enacting the FELA had not 
+manifested an “unequivocal determination” to require a 
+waiver of Eleventh Amendment immunity as a con- 
+dition to state participation in commercial activities, id. 
+at 199, and that the Act should therefore be construed 
+not to authorize suits against state defendants, id. at 
+199-200. 
+
+The Court’s holding in Parden has been significantly 
+qualified by two subsequent decisions. In Employees of 
+the Department of Public Health & Welfare v. Depart- 
+ment of Public Health & Welfare, 411 U.S. 279 (1973), 
+the Court held that employees at state hospitals and 
+related institutions could not bring suit in federal court 
+
+their state employers under the Fair Labor 
+Standards Act of 1938, 29 U.S.C. 201 et seg. 411 U.S. at 
+282-285. The Court distinguished Parden on the 
+ground that the earlier decision “involved the railroad 
+business which Alabama operated ‘for profit[,’) * * * 
+in the area where private persons and corporations 
+normally ran the enterprise.” Id. at 284. Institutions 
+such as hospitals, by contrast, had traditionally been 
+operated by state officials on a nonprofit basis. bid. 
+The Court noted that Parden had involved “a rather 
+isolated state activity,” and it declined to extend that 
+
+
+24 
+
+
+decision in a manner that could potentially affect em- 
+ployees “in every office building in a State’s govern- 
+mental hierarchy.” Jd. at 285. In Welch v. Texas 
+Department of Highways & Public Transportation, 483 
+U.S. 468 (1987), the Court held that federal statutes will 
+not be construed to subject the States to suit in federal 
+court absent an unequivocal expression of that intent. 
+Id. at 476-478 (plurality opinion); id. at 495-496 (Scalia, 
+J., concurring in part and concurring in the judgment). 
+The Welch plurality quoted with approval the 
+conclusion of the Parden dissenters that “[o}nly when 
+Congress has clearly considered the problem and 
+expressly declared that any State which undertakes 
+given regulable conduct will be deemed thereby to have 
+waived its immunity should courts disallow the invoca- 
+tion of [the Eleventh Amendment] defense.” Id. at 477 
+(quoting Parden, 377 U.S. at 198-199 (White, J., 
+dissenting)). 
+
+2. In the instant case, Florida Prepaid chose to sell 
+and to advertise commercial investment products in 
+competition with private enterprises. The question 
+whether that conduct effected a knowing and voluntary 
+waiver of Eleventh Amendment immunity turns on two 
+subsidiary inquiries. First, a State’s conduct can be 
+treated as a knowing waiver of Eleventh Amendment 
+immunity only if Congress has unambiguously provided 
+that a State that engages in such conduct will be 
+subject to suit in federal court. Second, the State’s 
+waiver can be regarded as truly voluntary only if the 
+conduct in question involves activities that the State 
+can realistically choose to abandon. 
+
+So long as those requirements are satisfied, nothing 
+in Seminole Tribe casts doubt upon Congress's ability 
+to condition a State’s participation in commercial enter- 
+prises on a waiver of Eleventh Amendment immunity. 
+
+
+Seminole Tribe addressed the question “whether Con- 
+gress has the power to abrogate unilaterally the States’ 
+immunity from suit” in federal court. 517 U.S. at 59. 
+The Court held that when Congress acts pursuant to 
+the Commerce Clause, U.S. Const. Art. I, § 8, Cl. 3, “the 
+Eleventh Amendment prevents congressional authori- 
+zation of suits by private parties against unconsenting 
+States.” 517 U.S. at 72 (emphasis added). The Court 
+did not suggest that Parden was inconsistent with that 
+principle. To the contrary, it cited Parden for the 
+“unremarkable, and completely unrelated, proposition 
+that the States may waive their sovereign immunity.” 
+Id. at 65. 
+
+Both of the requirements set forth above are 
+satisfied in the present case. 
+
+a. “Unless the state is clearly informed that its 
+actions will result in the loss of immunity [there cannot 
+bel a knowing and voluntary waiver of state sovereign 
+— yl Chavez v. Arte Publico Press, 157 F.3d 282, 
+
+294 (5th Cir. 1998) (Wisdom, J., dissenting), reh'g en 
+bane granted, No. 93-2881 (Oct. 1, 1998). “Only when 
+Congress has clearly considered the problem and 
+expressly declared that any State which undertakes 
+given regulable conduct will be deemed thereby to have 
+waived its immunity should courts disallow the invoca- 
+tion of [the Eleventh Amendment] defense.” Welch, 
+483 U.S. at 477 (plurality opinion) (quoting Parden, 377 
+U.S. at 198-199 (White, J., dissenting)). As the court of 
+appeals in this case correctly recognized, see Pet. App. 
+21a, the pertinent Lanham Act provisions satisfy that 
+requirement. 
+
+As amended by the Trademark Remedy Clarification 
+Act (TRCA), Pub. L. No. 102-542, § 3(c), 106 Stat. 3568, 
+the Lanham Act provides that the “person[s]” subject 
+to the Act include “any State, instrumentality of a State 
+
+
+or employee of a State or instrumentality of a State 
+acting in his or her official capacity.“ 15 U.S.C. 
+1125(a)(2). Most significantly, the TRCA added to the 
+Lanham Act a new Section 40(a) (see § 3(b), 106 Stat. 
+3567), entitled “Waiver of sovereign immunity,” which 
+provides: 
+
+
+Any State, instrumentality of a State or any 
+officer or employee of a State or instrumentality of 
+a State acting in his or her official capacity, shall not 
+be immune, under the eleventh amendment of the 
+Constitution of the United States or under any 
+other doctrine of sovereign immunity, from suit in 
+Federal court by any person, including any gov- 
+ernmental or nongovernmental entity for any 
+violation under this chapter. 
+15 U.S.C. 1122(a).’ That provision constitutes an une- 
+quivocal expression of congressional intent that state 
+entities may be sued in federal court for Lanham Act 
+violations. Compare Lane v. Pena, 518 U.S. 187, 198, 
+200 (1996). 
+
+b. A State does not voluntarily waive its Eleventh 
+Amendment immunity by engaging in activities that it 
+cannot realistically choose to abandon, such as the 
+operation of a police force. By engaging in such activi- 
+ties, “the state has shown no intention, one way or the 
+other, to waive its immunity. The state has merely 
+shown its intent to operate as a state.” Chavez, 157 
+F.3d at 294 (Wisdom, J., dissenting). See Department 
+of Pub. Health & Welfare, 411 U.S. at 284 (distin- 
+guishing the state railroad at issue in Parden, which 
+
+
+7 State defendants are subject to the same remedies, including 
+money damages, as are available in suits against nongovernmental 
+parties. 15 U.S.C. 1122(b). 
+
+
+27 
+
+
+was run for profit in a field “where private persons and 
+corporations normally ran the enterprise,” from state 
+institutions (mental hospitals, cancer hospitals, and 
+training schools for delinquents) that did not operate 
+for profit and that performed functions traditionally 
+undertaken by the States). 
+
+The conduct at issue in the present case is genuinely 
+voluntary. The court of appeals concluded that “the 
+Parden doctrine of waiver does not apply to the present 
+case” because education is a core function of a state 
+government.” Pet. App. 22a. But while state govern- 
+ments have historically assumed responsibility for the 
+actual operation of schools, the marketing of investment 
+products of the sort at issue here is neither a traditional 
+nor a necessary means of facilitating the State’s educa- 
+tional mission. Indeed, Florida Prepaid did not com- 
+mence operations until 1988. Like the railroad in 
+Parden, the Board operates “in the area where private 
+persons and corporations normally ran the enterprise.” 
+Department of Pub. Health & Welfare, 411 U.S. at 284. 
+And while the Florida legislature unquestionably 
+believed that Florida Prepaid would serve the public 
+interest, the Program has also been highly profitable, 
+amassing a surplus of more than $184 million during the 
+first seven years of its operations. Pet. App. 49a. See 
+Department of Pub. Health & Welfare, 411 U.S. at 284 
+(contrasting for-profit railroad involved in Parden with 
+nonprofit state hospitals and similar institutions).* 
+
+
+Some portions of the Court’s opinion in Parden suggest that a 
+State may be deemed to have waived its Eleventh Amendment 
+immunity whenever it engages in activities subject to congres- 
+sional regulation. See, e.g., 377 U.S. at 196 (“when a State leaves 
+the sphere that is exclusively its own and enters into activities 
+subject to congressional regulation, it subjects itself to that regula- 
+tion as fully as if it were a private person or corporation”). We do 
+
+
+3. As in many other contexts, Florida Prepaid’s 
+waiver of its Eleventh Amendment immunity was a 
+reasonably related price exacted for receiving the 
+benefits afforded by the federal statutory scheme. 
+“The underlying purpose of [the Lanham Act’s prohibi- 
+tion against false and misleading statements] is to 
+protect both consumers and competitors from a wide 
+variety of misrepresentations of products and service.” 
+20th Century Wear, Inc. v. Sanmark-Stardust, Inc., 747 
+F.2d 81, 91 n.13 (2d Cir. 1984), cert. denied, 470 U.S. 
+1052 (1985). When it entered the marketplace and 
+advertised its products in interstate commerce, Florida 
+Prepaid obtained significant benefits from the Lanham 
+Act’s fair-competition requirements. The Lanham Act 
+serves to deter Florida Prepaid’s competitors (includ- 
+ing CSB) from engaging in false advertising and other 
+forms of unfair competition. The Act also provides 
+Florida Prepaid with a cause of action for damages in 
+the event that it is injured by a competitor’s violation. 
+In addition, the existence of the federal scheme may 
+give all advertisers enhanced credibility in the eyes of 
+the public. 
+
+
+not rely on so broad a rule. A State will sometimes have no realis- 
+tie alternative but to engage in activities bearing a sufficient 
+connection to interstate commerce so as to subject them to con- 
+gressional regulation. To treat the State’s participation in such 
+activities as an implied waiver of Eleventh Amendment immunity 
+would effectively eliminate the distinction between waiver and 
+abrogation. See Pennsylvania v. Union Gas Co., 491 U.S. 1, 44 
+(1989) (Scalia, J., concurring in part and dissenting in part). In our 
+view, an implied waiver of Eleventh Amendment immunity may be 
+found only when (1) Congress has unambiguously provided that 
+States engaging in specified conduct will be subject to suit in 
+federal court, and (2) a State’s decision to engage in the specified 
+conduct may realistically be deemed a voluntary choice. 
+
+
+When a State chooses to operate a commercial en- 
+terprise of a sort traditionally run by private persons, 
+the Eleventh Amendment does not entitle it to invoke 
+its status as a State to gain a competitive advantage. 
+Congress has determined that the Lanham Act’s pur- 
+poses can be fully effectuated only if state entities 
+operating in interstate commerce are subject to the 
+same substantive and remedial provisions as their 
+private competitors. As relevant here, the Act simply 
+makes susceptibility to suit a condition of the State’s 
+entry into a commercial market. Having chosen to 
+operate a commercial enterprise well removed from the 
+State’s traditional sphere, Florida Prepaid should not 
+be permitted a constitutional exemption from the 
+restrictions that bind its competitors. 
+
+4. “The decisions of this Court leave no doubt that a 
+state may, in the public interest, constitutionally 
+engage in a business commonly carried on by private 
+enterprise * * * and compete with private interests 
+engaged in a like activity.” Puget Sound Power & Light 
+Co. v. Seattle, 291 U.S. 619, 624 (1934). The Court has 
+also recognized that where a State acts as a “market 
+participant” in interstate commerce, it may prefer its 
+own citizens over potential buyers and/or sellers from 
+other States, even though the Commerce Clause pre- 
+cludes such favoritism when the State acts in its 
+regulatory capacity. See White v. Massachusetts Coun- 
+cil of Constr. Employers, Inc., 460 U.S. 204, 206-208 
+(1983); Reeves, Inc. v. Stake, 447 U.S. 429, 434-439 
+(1980); Hughes v. Alexandria Scrap Corp., 426 U.S. 
+794, 804-810 (1976). That rule as respects interstate 
+commerce is based in part on the fact that “state 
+proprietary activities may be, and often are, burdened 
+with the same restrictions imposed on private market 
+participants. Evenhandedness suggests that, when 
+
+
+30 
+
+
+acting as proprietors, States should similarly share 
+existing freedoms from federal constraints, including 
+the inherent limits of the Commerce Clause.” Reeves, 
+447 U.S. at 439 (footnote omitted); White, 460 U.S. at 
+207-208 n.3. 
+
+The investment products offered by Florida Prepaid 
+are generally available only to Florida residents and 
+the children of Florida residents. See Pet. App. 30a n.2. 
+That preference is permissible because Florida Prepaid 
+acts as a market participant rather than in the exercise 
+of regulatory authority. Having elected to enjoy the 
+advantages of that status, Florida Prepaid suffers no 
+unconstitutional intrusion on sovereign prerogatives if 
+it is “burdened with the same restrictions”—including 
+susceptibility to suit in federal court—that are “im- 
+posed on private market participants.” Reeves, 447 U.S. 
+at 439. 
+
+
+Il. A STATE’S MISREPRESENTATION OF ITS 
+OWN PRODUCT IN OPERATING A BUSINESS 
+DOES NOT DEPRIVE COMPETITORS OF A 
+CONSTITUTIONALLY PROTECTED PROPERTY 
+INTEREST 
+
+
+Because the TRCA provisions at issue in this case 
+represent a valid exercise of congressional authority to 
+condition a State’s participation in commercial activity 
+on a waiver of Eleventh Amendment immunity, this 
+Court need not determine whether those provisions 
+could also be sustained as an exercise of Congress's 
+powers under Section 5 of the Fourteenth Amendment. 
+If the Court does address that question, however, we 
+agree with the court of appeals (see Pet. App. 14a) that 
+a state commercial entity which engages in false and 
+misleading advertising of its own product does not 
+thereby “deprive” a competitor of “property” within 
+
+
+31 
+
+
+the meaning of the Fourteenth Amendment, even if the 
+competitor suffers pecuniary harm as a result of the 
+Lanham Act violation.’ 
+
+This Court has emphasized the importance of identi- 
+fying with some precision the property interest that lies 
+at the heart of any due process or takings claim. See, 
+e.g., Bowen v. Public Agencies Opposed to Social Secu- 
+rity Entrapment, 477 U.S. 41, 55 (1986). It is clear that 
+some intangible interests—such as debts and other 
+rights to payment—are protected property rights. Ibid. 
+Other intangible rights—such as patents and 
+trademarks—are defined by statute as the right to be 
+free from specified conduct by others. See, e.g., 15 
+U.S.C. 1057(b) (certificate of federally registered mark 
+evidences “the registrant’s exclusive right to use the 
+registered mark in commerce”); 35 U.S.C. 154(a)(1) 
+(patent gives its owner “the right to exclude others 
+from making, using, offering for sale, or selling the 
+invention”); 35 U.S.C. 271 (defining infringement); 
+Hartford-Empire Co. v. United States, 323 U.S. 386, 
+415 (1945) (“That a patent is property, protected 
+against appropriation both by individuals and by 
+government, has long been settled.”). 
+
+The “right” to be free from false representations con- 
+cerning a competitor’s products, however, bears none of 
+the hallmarks of a property interest.“ “Property” is 
+
+
+The position of the United States regarding the scope of 
+congressional enforcement authority under Section 5 will be set 
+forth in other respects in the gove. nent's brief in Florida 
+Prepaid Postsecondary Educ. Expense Bd. v. College Savings 
+Bank & United States, cert. granted, No. 98-531 (Jan. 8, 1999). 
+
+10 The only provision of the Lanham Act that is alleged to have 
+been violated in this case is the prohibition (see 15 U.S.C. 
+1125(a)(1)(B)) of false representations concerning the alleged 
+violator’s own product. See Pet. App. 3a, 17a. The court of appeals 
+
+
+32 
+
+
+another way of referring to a particular “bundle of 
+rights.” See, e.g., Kaiser Aetna v. United States, 444 
+U.S. 164, 176 (1979). The hallmark of a property inter- 
+est is the right to exclude others. Ibid. (cited in e.g., 
+Dolan v. City of Tigard, 512 U.S. 374, 384 (1994)). 
+Legally recognized intellectual property such as pat- 
+ents, trademarks, copyrights, and trade secrets clearly 
+satisfies that standard. See Stewart v. Abend, 495 U.S. 
+207, 220 (1990) (Halm author holds a bundle of exclusive 
+rights in the copyrighted work”); K Mart Corp. v. 
+Cartier, Inc., 485 U.S. 176, 185-186 (1988) (“Trademark 
+law, like contract law, confers private rights, which are 
+themselves rights of exclusion. It grants the trademark 
+owner a bundle of such rights.”); Ruckelshaus v. Mon- 
+santo Co., 467 U.S. 986, 1011 (1984) (“With respect to a 
+trade secret, the right to exclude others is central to 
+the very definition of the property interest.”); 
+Hartford-Empire, 323 U.S. at 412, 415. By contrast, 
+Florida Prepaid’s alleged misrepresentations concern- 
+ing its own products effected no intrusion upon any 
+tangible or intangible interest over which CSB pos- 
+sesses exclusive dominion. 
+
+The fact that petitioner claims (Pet. 15) to have suf- 
+fered a “loss of revenue and profits” as a result of the 
+alleged Lanham Act violation does not alter the forego- 
+ing analysis. Petitioner’s argument would suggest that 
+every unlawful government action resulting in conse- 
+quential economic damage to a private person effects a 
+deprivation of property within the meaning of the Due 
+
+
+therefore properly reserved the question whether the relevant 
+TRCA provisions could be regarded as an appropriate exercise of 
+Congress’s Section 5 authority “in a case involving a trademark 
+infringement or involving a misrepresentation about a competitor’s 
+goods or services.” Id. at 17a. Nor does the case involve palming 
+off one’s product as that of a competitor. 
+
+
+33 
+
+
+Process Clause. This Court’s decisions do not support 
+so broad a conception of the scope of “property” inter- 
+ests protected by the Due Process Clause. Cf. Estelle 
+v. Gamble, 429 U.S. 97 (1976) (medical malpractice 
+claim does not rise to level of Eighth Amendment 
+violation); Daniels v. Williams, 474 U.S. 327, 330 (1986) 
+(allegation of negligence insufficient to state claim for 
+deprivation of liberty without due process). 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed and the case remanded for further pro- 
+ceedings. 
+
+Respectfully submitted. 
+
+
+SETH P. WAXMAN 
+Solicitor General 
+DAVID W. OGDEN 
+Acting Assistant Attorney 
+General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+MALCOLM L. STEWART 
+Assistant to the Solicitor 
+
+General 
+
+MARK B. STERN 
+
+MICHAEL E. ROBINSON 
+
+H. THOMAS BYRON III 
+Attorneys 
+
+
+FEBRUARY 1999 
+
+

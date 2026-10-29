@@ -1,0 +1,245 @@
+{
+  "status": "complete scoped Ortiz assembly validation; no unresolved material blocker",
+  "record": {
+    "path": "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
+    "bytes": 50168,
+    "sha256": "9b9c85dce13dc6f9dd42d55a2492034021dd471f812fbca53d501d80123961d8"
+  },
+  "event_date": "1999-06-23",
+  "research_cutoff": "Immediately before June 23, 1999; June 23 peer law excluded",
+  "inputs": [
+    {
+      "path": "terms/OT1998/runtime/chunk11-assembly-preparation/ORTIZ_PREPARED.md",
+      "bytes": 39194,
+      "sha256": "1310f8f7f733f4f8ae0e854231ee09c73b0e4214fd304a8d31dddd478a9af83a"
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECONCILED.md",
+      "bytes": 35555,
+      "sha256": "cf559a6fc6d8bd5ce41342900783d407a9c26816bf9b53c494a846daad684324"
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_NEUTRAL.md",
+      "bytes": 23993,
+      "sha256": "6ac0138eba5dfecb4b21e5dd4d6d05731cd4b2348f051d1ed0921b57405c105d"
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/ORTIZ_STONE.md",
+      "bytes": 2264,
+      "sha256": "99e2265a53191e22275791b05e91a153d2eb31d0f8b56786cd1beb4ad50384f7"
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_ORTIZ.md",
+      "bytes": 34788,
+      "sha256": "760d197e20b2c1fac8fa6c5acfd9acd1ea2bfb0b7ed46266d440205c00077388"
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_JUNE23_FINAL_NEUTRAL_SCREEN.md",
+      "bytes": 18350,
+      "sha256": "fee710a8bbcfe44a4707a2d3246a78407a59f0a4dfa3e563f8787714de1bdcf3"
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md",
+      "bytes": 112581,
+      "sha256": "30b93a744fabf74c97bb67774bd11a81c53de25abaff4e9371a8148f359a6adb"
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
+      "bytes": 105279,
+      "sha256": "ecff1d4e6b1aac7705b755e8347653d7698fffa1b3dcfdc5023a2805b44cd090"
+    }
+  ],
+  "form_before_counts": {
+    "form": "single signed plenary lead with Stone partial concurrence and Breyer dissent",
+    "eligible": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "fixed_governing_scope": "qualified traditional limited-fund construction; independent financial/equitable application; definitive inadequacy; confined remedy"
+  },
+  "fresh_recount": {
+    "path": "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
+    "counts": {
+      "Stone-Zsela": 13,
+      "Stevens": 13,
+      "O'Connor": 14,
+      "Scalia": 12,
+      "Kennedy": 14,
+      "Souter": 13,
+      "Thomas": 12,
+      "Ginsburg": 13,
+      "Breyer": 13
+    },
+    "counted_opinions": 117,
+    "last_counted": "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
+    "same_day_predecessors": [
+      {
+        "record": "alden_v_maine_merits_1999-06-23.md",
+        "authors": [
+          "Souter"
+        ],
+        "source_sha256": "4c1ba430478debc5dbed6db5fffff78196f1bc4f5e016e51e350138bea5bb939"
+      },
+      {
+        "record": "college_savings_bank_v_florida_prepaid_merits_1999-06-23.md",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "source_sha256": "0a5a0f38e4631b3396371f49b5c88dc7a7bb9e7cc1f9aded8823fb51da94ca4e"
+      },
+      {
+        "record": "florida_prepaid_v_college_savings_bank_merits_1999-06-23.md",
+        "authors": [
+          "Stevens"
+        ],
+        "source_sha256": "72ac0b15706c483a42d9c2d83356318d2d5c69ca354e64b8ed15f2e2818b810f"
+      }
+    ]
+  },
+  "assignment": {
+    "assigner": "Stone-Zsela",
+    "eligible_minimum": 12,
+    "pool": [
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "author": "Thomas",
+    "basis": "Fit: actual Amchem settlement-prerequisite, representation and antecedent nonmerits work; Scalia strongest equal-count alternative; no necessary expansion accommodation"
+  },
+  "judgment": {
+    "disposition": "Reverse and remand; vacate Global certification and settlement approval",
+    "supporting": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "opposing": [
+      "Stevens",
+      "Breyer"
+    ],
+    "tally": "7-2"
+  },
+  "actual_component_joins": {
+    "I": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "II-A": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "II-B": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "III": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "IV": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "V": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "separate_writings": [
+    {
+      "author": "Stone-Zsela",
+      "joiners": [],
+      "kind": "concurrence in part and in judgment",
+      "reservation": "required substantially-whole commitment; no II-B join"
+    },
+    {
+      "author": "Breyer",
+      "joiners": [
+        "Stevens"
+      ],
+      "kind": "dissent",
+      "reservation": "additional commonality/typicality, notice, Article III, Enabling Act, bankruptcy, jury and due-process questions not definitively decided"
+    }
+  ],
+  "checks": {
+    "four_exact_opening_labels": true,
+    "eleven_public_blocks_exact_order": true,
+    "all_nine_accounted_for": true,
+    "six_member_quorum_and_five_vote_threshold": true,
+    "judgment_and_proposition_arithmetic": true,
+    "full_rationale_eligibility_before_counts": true,
+    "assignment_in_balance_pool": true,
+    "actual_predecessor_author_evidence_verified": true,
+    "frozen_inputs_unchanged": true,
+    "public_explanation_word_counts": [
+      104,
+      166,
+      212,
+      203
+    ],
+    "ordinary_350_word_ceiling": true,
+    "public_private_metadata_flags": [],
+    "local_links_resolve": true,
+    "global_trilateral_rudd_inventory_distinctions_preserved": true,
+    "no_payment_or_new_hearing_command": true,
+    "retention_not_independently_dispositive": true,
+    "stone_exact_partial_scope_preserved": true,
+    "dissent_actual_vs_conditional_preserved": true,
+    "no_material_post_reconciliation_associate_change": true,
+    "no_marks_aggregation": true,
+    "no_june23_peer_law_imported": true
+  },
+  "legal_validation_basis": "Scoped qualitative comparison against approved Stone, all eight reconciled positions, exact entering law and prepared public legal text; deterministic checks verify consistency, not legal meaning.",
+  "not_performed_or_claimed": [
+    "workspace or ledger integration",
+    "manifest rebuild",
+    "Render Input generation",
+    "public rendering",
+    "whole-term audit",
+    "Git operation"
+  ],
+  "writes_this_final_stage": [
+    "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_RECOUNT.json",
+    "terms/OT1998/records/ortiz_v_fibreboard_corp_merits_1999-06-23.md",
+    "terms/OT1998/freeze/OT_1998CHUNK11_ORTIZ_ASSEMBLY_VALIDATION.json"
+  ]
+}

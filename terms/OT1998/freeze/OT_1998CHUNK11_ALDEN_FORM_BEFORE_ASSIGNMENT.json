@@ -1,0 +1,25 @@
+{
+  "case": "Alden v. Maine",
+  "date": "1999-06-23",
+  "status": "legal form and complete governing propositions settled before fresh recount or author selection",
+  "form": "one signed plenary merits Opinion of the Court, with severable unanimous threshold/statutory Part I and five-Justice constitutional/remand Parts II-III; one dissent concurring in Part I",
+  "reason_for_form": "The preserved constitutional issue is squarely presented and the established record permits a reasoned decision. Five Justices share the same FLSA-specific enforcement ground. The four contrary constitutional positions remain a dissent; no rationale synthesis or artificial division is required.",
+  "parts": {
+    "I": {
+      "propositions": ["Section 1257 review reaches the independently entered Maine immunity judgment without adjudicating, reopening or transferring the separate federal Mills proceeding.", "Sections 203 and 216(b) expressly authorize this employee action against a public agency in a competent state court; statutory intent is distinct from constitutional power. The state-law no-waiver construction is accepted and Garcia's substantive wage duty remains."],
+      "joiners": ["Stone-Zsela", "Stevens", "O'Connor", "Scalia", "Kennedy", "Souter", "Thomas", "Ginsburg", "Breyer"]
+    },
+    "II": {
+      "propositions": ["Congress validly displaced Maine's nontextual immunity defense to the expressly authorized private FLSA action in its competent state courts. Article VI requires enforcement of this valid federal remedy; immunity is not an unalterable constitutional bar to that remedy.", "Hilton's state-court enforcement principle is extended to this express FLSA remedy without converting Hilton into a prior general rule. The Eleventh Amendment's federal-forum restriction and Hans's federal judgment do not establish immunity here. State-court adjudication is distinct from the legislative/executive mechanisms considered in New York and Printz. No general federal-court amenability, constructive waiver, all-statutes damages permission, or alternative enforcement entitlement is decided."],
+      "joiners": ["Stone-Zsela", "Stevens", "Souter", "Ginsburg", "Breyer"]
+    },
+    "III": {
+      "propositions": ["Reverse Maine's immunity dismissal and remand for ordinary FLSA proceedings on coverage, compensation, defenses and relief. No present wages, liquidated damages, fees, retaliation relief, new evidentiary hearing, reopening of Mills or special mandate date follows. Ordinary statutory predicates remain and the prior rejection of Maine's limitations argument is not reinstated."],
+      "joiners": ["Stone-Zsela", "Stevens", "Souter", "Ginsburg", "Breyer"]
+    }
+  },
+  "contrary_position": {"justices": ["O'Connor", "Scalia", "Kennedy", "Thomas"], "position": "Affirm on independently reasoned constitutional immunity from this private retrospective FLSA action in the State's own courts; preserve wage duty, Hilton's actual statutory settlement, retained Union Gas and independent enforcement channels. Join Part I only."},
+  "stone_compatibility": "The five-Justice rule implements the approved FLSA state-forum holding and exact remand without adding a broader common-law theory, federal-court conclusion or new relief. No unresolved necessary Stone choice or substantive delegation use identified.",
+  "author": null,
+  "counts_consulted": false
+}

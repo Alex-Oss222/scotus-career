@@ -1,0 +1,67 @@
+{
+  "source_commit": "02a02581346c8fcc73dddc89d3c4f590bbc8210d",
+  "purpose": "Existing inherited link target verification only; no substantive re-read or publication modification",
+  "files": [
+    {
+      "path": "terms/OT1996/records/Board_of_County_Commissioners_of_Bryan_County_v_Brown_reargument_1997-04-28.md",
+      "bytes": 21667,
+      "sha": "4d4fde853c9301a8a9929b52e63c6d31e8d3a926",
+      "sha256": "7f6cdba22e55bbfe81cec33d4fc24a2b1d00ee172799ed0589ae342ef25571f0"
+    },
+    {
+      "path": "terms/OT1996/records/In_re_Gaydos_filing_and_writ_disposition_1996-12-02.md",
+      "bytes": 47413,
+      "sha": "6de84b41531464b6671e49bce26cdbf682f2d7b7",
+      "sha256": "399dcb72dc42164b28033e06de6f2efaa39cfaec511995804447a82c66d9a2a8"
+    },
+    {
+      "path": "terms/OT1996/records/In_re_Vey_financial_leave_1997-04-14.md",
+      "bytes": 38590,
+      "sha": "4a0ee11750cf0e508790df4b4a1e0a00a48b1f02",
+      "sha256": "018586ad3c82b57f64ffa60840d01e77cf84b7473946240c211fa7d80f6815ff"
+    },
+    {
+      "path": "terms/OT1996/records/United_States_v_Alaska_original_merits_1997-06-19.md",
+      "bytes": 67032,
+      "sha": "8b3944d256866cab28a4a706687b954dc5e7960d",
+      "sha256": "2ed95f93d8b40d9b2b72818ee64a6f7b86642a5077e3acac5f6faac19fffa4c9"
+    },
+    {
+      "path": "terms/OT1996/records/Vey_v_Clinton_financial_leave_1997-06-09.md",
+      "bytes": 41347,
+      "sha": "2437a4431c33b035fa161c3614742ed0258a0ee7",
+      "sha256": "f28b52ac501a02492124a7c113138d4ef3c4c18354c6360fd0b06bb1db60b884"
+    },
+    {
+      "path": "terms/OT1997/records/arteaga_v_united_states_court_of_appeals_filing_order_1998-02-23.md",
+      "bytes": 30132,
+      "sha": "fcdd5f20e6364cd1dc9bd9c449e2bdb125f1fcb8",
+      "sha256": "9ee8f6eb04979453c6c90edfe375f72c7186662486021d0e955d451cf0652963"
+    },
+    {
+      "path": "terms/OT1997/records/breard_v_greene_a732_application_1998-04-14.md",
+      "bytes": 57239,
+      "sha": "b8af3686e0b0e547ec57486a87bf2f8e87b3588a",
+      "sha256": "196d79766ee0f084c8e263afb816b61451b01fe4da8d7a7e83f38109a0a6b710"
+    },
+    {
+      "path": "terms/OT1997/records/breard_v_greene_applications_1998-04-14.md",
+      "bytes": 104669,
+      "sha": "7b9f0bd9ba4411addb5c282663e49ad44f47947e",
+      "sha256": "bde3469efce6a355acd77ffaae1bf265d41f4c1452bd22d4d8978afeb870a78e"
+    },
+    {
+      "path": "terms/OT1997/records/brown_v_williams_filing_order_1997-10-20.md",
+      "bytes": 15628,
+      "sha": "a4e277af5e2ad7acfd7fe8894fc69ef4629ff050",
+      "sha256": "4d190444e0df5894172cfc6b824613f71314b4a41e2eebafc7c19e21d9292b23"
+    },
+    {
+      "path": "terms/OT1997/records/glendora_v_porzio_filing_order_1998-03-09.md",
+      "bytes": 31732,
+      "sha": "eb276220a7938c9aca1b72d4f45278b9931e4293",
+      "sha256": "4613b6f02f00ad7b8f0355298dfbff9627c5a74ac1db4f2ae0022be12eb9aacf"
+    }
+  ],
+  "provenance": "Inherited exact-source receipt preserved across canonical Chunk10 publication; parent verified unchanged baseline."
+}

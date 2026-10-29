@@ -1,0 +1,980 @@
+{
+  "purpose": "Immutable source and frozen opening objects prepared for exact final-manifest publication; no branch updated.",
+  "final_manifest_remains_authoritative": true,
+  "source_preflight": "/tmp/ot1998_chunk11_publication_preflight.json",
+  "objects": [
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/florida_prepaid_docket_raw.pdf",
+      "sha": "32d9e335441e8941b1169e6977544310e55065dc",
+      "bytes": 324879
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/college_savings_docket_raw.pdf",
+      "sha": "4d300fd92d805e1d27db96c79108833a0da31b15",
+      "bytes": 319648
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/olmstead_docket_raw.pdf",
+      "sha": "d8a7e11d17d45d51ebf085a20200346d137f9e0c",
+      "bytes": 358001
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/murphy_docket_raw.pdf",
+      "sha": "19ce78dfad282344a5d368c9f6f1e05de20f192c",
+      "bytes": 291166
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/union_gas_491_us_1_official.pdf",
+      "sha": "fe59f19559e759448bef74b2ff3bcb27fe13d4ea",
+      "bytes": 1716319
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/welch_483_us_468_official.pdf",
+      "sha": "637abda674ae6447ff353a5cd3c58b4c18031a04",
+      "bytes": 1665664
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_ALDEN.md",
+      "sha": "82f63cd28ea347b3b012c8a0b6b94be10f5f2adb",
+      "bytes": 87027
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_JUNE23_COMPLETED_PUBLIC_LAW.md",
+      "sha": "437637bb3e875bb1f768f5e1676f57ae54f8bb7e",
+      "bytes": 112581
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_KOLSTAD.md",
+      "sha": "f2c009ee9d8090a3d1fee41e9339a2de2040f47e",
+      "bytes": 85210
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_NEUTRAL.md",
+      "sha": "e853db7736a7640396285c20f3b674136e0079bb",
+      "bytes": 88780
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/college_savings_lower.html",
+      "sha": "823a8ced4cfa705730da817338034f20accdb027",
+      "bytes": 542740
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/florida_prepaid_lower.html",
+      "sha": "945745172a191e91fc8e9aa8242c6f471451725a",
+      "bytes": 541155
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "sha": "95a63139a18310e24a5b6ba0b4dad33e39e728d0",
+      "bytes": 264433
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_06._Joint_Appendix_djvu.txt",
+      "sha": "21a60757a7c1d6c62cc61c7fb28e55de37d2f558",
+      "bytes": 106132
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_07._Petitioners_Brief_djvu.txt",
+      "sha": "3d491ea487ffbe1b92b2af5574f8a5a979929587",
+      "bytes": 84275
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_10._Respondents_Brief_djvu.txt",
+      "sha": "5aa7cdccd51f9842242e55d1b880a72cd7e8774a",
+      "bytes": 95150
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/micro_IA40385014_0212_metadata.json",
+      "sha": "bda17df7cdbc52824652e043dda8350f5f38a756",
+      "bytes": 134219
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/micro_IA40385014_0235_metadata.json",
+      "sha": "c9d484b659a06a99a4b764a5eb8e8f1308883277",
+      "bytes": 166851
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/patent_02._Petition_for_Writ_of_Certiorari_djvu.txt",
+      "sha": "afab0231e55c16e70bc7f651b55cdb0796b4b0cd",
+      "bytes": 221621
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/patent_09._Petitioners_Brief_djvu.txt",
+      "sha": "1e0eb16dc7038eb98bdfd780c952b684749209a0",
+      "bytes": 89492
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/patent_10._Respondents_Brief_djvu.txt",
+      "sha": "44460c1ea05b726a847b37ea0e56a8c97e284f8a",
+      "bytes": 102004
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/patent_11._Respondents_Brief_djvu.txt",
+      "sha": "bfdfcf20fb7ca4cd6c9b29bd300ebe13519cb715",
+      "bytes": 126709
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/lower_134f3d668.html",
+      "sha": "0da7d3437254e6020ef07f9138de8f5d9ceb8397",
+      "bytes": 551401
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/lower_134f3d668.txt",
+      "sha": "65bd3d3215ec659de8aed166c6be8efd29fc6d94",
+      "bytes": 67270
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/lower_90f3d963.html",
+      "sha": "757eac43888ee9f7655c6ffc7de8bc832a12e42d",
+      "bytes": 1220835
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/lower_90f3d963.txt",
+      "sha": "806b82cc71944ecf27b10165365d24f02e2d9cb0",
+      "bytes": 281753
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/college_savings_docket_page2.png",
+      "sha": "12a6849c212bdb0f8aed02ddf250b98fb2d2686a",
+      "bytes": 543475
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/olmstead_docket_page2.png",
+      "sha": "4c4e6aa6bc4e69e6182193ff942497df83062583",
+      "bytes": 639600
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/union_gas_491_us_1_official.txt",
+      "sha": "48e4c683a4f1f7a3826558b7d637c0c653bde33b",
+      "bytes": 129845
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/welch_483_us_468_official.txt",
+      "sha": "2b8943016442fde53550ab5971fd5cca80535e5c",
+      "bytes": 126833
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_BASELINE_IDENTITIES.json",
+      "sha": "fd34a85fc5f8c8debea9b8f76ca446e3641b19d4",
+      "bytes": 431077
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_CONTINUITY.md",
+      "sha": "d7983d5fbae8ee6c74baea0256237a6345d2124a",
+      "bytes": 943678
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_OPENING_NEUTRAL_PROJECTION.md",
+      "sha": "ff341f281ebd985b2464dbd7903c00658836a692",
+      "bytes": 947957
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_PRE_JUNE22_NEUTRAL_PROJECTION.md",
+      "sha": "05244a30340f2b6d90937e09b68978a47af0b026",
+      "bytes": 929563
+    },
+    {
+      "path": "terms/OT1998/freeze/OT_1998CHUNK11_SOURCE_FRESHNESS.json",
+      "sha": "bf21e31ed23328f24c094b6bb15c2489025a39f2",
+      "bytes": 418668
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-usrep.pdf",
+      "sha": "f18b9be8b7d598ceba3b1f4e8c311543f72d2e7b",
+      "bytes": 940457
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZD.html",
+      "sha": "632a9cd8ca6e6b7d94f849d2a2d996608c6e660c",
+      "bytes": 144191
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-usrep.pdf",
+      "sha": "7ff60dbb6d226ffd4cb4a97adb3f0fbef29fd761",
+      "bytes": 3848176
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-usrep.txt",
+      "sha": "844492401d88166f176e95185af70a3dd72e4f39",
+      "bytes": 248348
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-usrep.pdf",
+      "sha": "6d42c09b4f14425d317c30525726266e9e2abae8",
+      "bytes": 1432533
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-usrep.pdf",
+      "sha": "c47c4de540913aa6cc1ed84e4904fe25666e039d",
+      "bytes": 1430195
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-usrep.pdf",
+      "sha": "e8c9a9e8d96915d3e23f3816da8064c0dee073b9",
+      "bytes": 1045174
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-usrep.pdf",
+      "sha": "43f7d6ab89d4dc94e109ddab16a257e5c3e8a101",
+      "bytes": 366675
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-usrep.pdf",
+      "sha": "94012810e1cfa5556badf0af295257a5735b73f5",
+      "bytes": 1667796
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-usrep.pdf",
+      "sha": "d09eacea8efaf479d1734cb84d1741f1885fee14",
+      "bytes": 2543448
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-usrep.txt",
+      "sha": "5c1a8f679a800e4a79de42652e236d0d1e33a9c9",
+      "bytes": 162058
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/kolstad-archive-metadata.json",
+      "sha": "ad7a3d91fb80910b99c43396d33ca0aa192648b7",
+      "bytes": 180792
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/murphy-archive-metadata.json",
+      "sha": "e9c1c9bed357058431856be7b944e65d945ff610",
+      "bytes": 185249
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/kolstad-haslip-predivergence.pdf",
+      "sha": "4e57e23c8e8830d0ba87ed47fa56e18b76aeaee8",
+      "bytes": 11489548
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/kolstad-haslip-predivergence.txt",
+      "sha": "8e25eac23f2cceec8d22da2e757b023fbf9f2c59",
+      "bytes": 141199
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-ja-sanitized.txt",
+      "sha": "c9e292c251df0fa2f04c66543641a2830055f99b",
+      "bytes": 234194
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-ja-scoped.txt",
+      "sha": "c442216ddf464c1e35f1c113228ff8f2a9a5b489",
+      "bytes": 235089
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-ja.txt",
+      "sha": "3248a4acefad17b2b36451ea748f9019f4a395e7",
+      "bytes": 237035
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_02_sanitized_source.txt",
+      "sha": "a187f6879542c4c5db4ae4a7521dd6eb95e88cf8",
+      "bytes": 173168
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_02_source.txt",
+      "sha": "2772bc63b11963ee53fb7dff410015221cbbba8b",
+      "bytes": 185227
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_lower_raw.html",
+      "sha": "0f9b73e05abd0cfb473e734928336d23c5f769cc",
+      "bytes": 641418
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_06_sanitized_source.txt",
+      "sha": "5ae72004dd058974c8ac6f60a0a4620429b5df4f",
+      "bytes": 159090
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_06_source.txt",
+      "sha": "19ccf200802fdd2a3a205ffc0ad9450755f2b98e",
+      "bytes": 160429
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_08_source.txt",
+      "sha": "afd0ad32a12fe46ba54b8e77da2b34ca4de8d30d",
+      "bytes": 131379
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_lower_raw.html",
+      "sha": "133850e065366365bf545e97307edf94ad6478e7",
+      "bytes": 367673
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_ALBERTSON.md",
+      "sha": "246eb75b3fa4dbd32ad31f4a97d8119101b6485e",
+      "bytes": 38145
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_BOERNE_PUBLIC.md",
+      "sha": "da8d3667ca9ab077bd38f39471d650225e8310e4",
+      "bytes": 15231
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_IP_ADDITIONAL_PUBLIC_EXCERPTS.md",
+      "sha": "26e1271d43bd83d2ea61b33618cd7f1a04aa953a",
+      "bytes": 18186
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_IP_BASELINE.md",
+      "sha": "d495cd28599b91fb6d96016c374747b13acd3d34",
+      "bytes": 22050
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_IP_CURRENT_PUBLIC.md",
+      "sha": "78f4eaa8490fbfd3a402d7b71c4d596fae083e53",
+      "bytes": 19345
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_IP_STATUTES.md",
+      "sha": "725e92dab64b37cc617b8c3f6b674ecfbb1abe47",
+      "bytes": 12984
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_MURPHY.md",
+      "sha": "5a9b7ba3adf8127620f5242d98679f87b4bbda63",
+      "bytes": 48545
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_OLMSTEAD_INTRACLASS.md",
+      "sha": "61e5a62b4e0047b8d2e0adea04beb21b19f88975",
+      "bytes": 35799
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_ORTIZ.md",
+      "sha": "42fc15fc8cac1edb1acb88b10092d3405e462827",
+      "bytes": 34788
+    },
+    {
+      "path": "terms/OT1998/entering-law/OT_1998CHUNK11_SEMINOLE_PUBLIC.md",
+      "sha": "2254c0b74ed3458999b2c2b46d99f7e277d27cfd",
+      "bytes": 32521
+    },
+    {
+      "path": "terms/OT1998/entering-law/albertsons_inc_v_kirkingburg_merits_1999-06-22.md",
+      "sha": "f5467543ae1d68e7a410cf1701c046887c236195",
+      "bytes": 14107
+    },
+    {
+      "path": "terms/OT1998/entering-law/kolstad_v_american_dental_association_merits_1999-06-22.md",
+      "sha": "ff89c10cd3254339f0a97263b16cf9979c1dea7c",
+      "bytes": 21941
+    },
+    {
+      "path": "terms/OT1998/entering-law/murphy_v_united_parcel_service_inc_merits_1999-06-22.md",
+      "sha": "d8b7037756395d4950894227330c8fa73dd46562",
+      "bytes": 20397
+    },
+    {
+      "path": "terms/OT1998/entering-law/olmstead_v_lc_merits_1999-06-22.md",
+      "sha": "7306f97cba1744a4276134943c0a0097f1ad0142",
+      "bytes": 21178
+    },
+    {
+      "path": "terms/OT1998/runtime/OT_1998CHUNK11_COMPARATOR.md",
+      "sha": "cce2f549716fa8e0dba830f7d7593f75723da51e",
+      "bytes": 10761
+    },
+    {
+      "path": "terms/OT1998/runtime/OT_1998CHUNK11_NEUTRAL.md",
+      "sha": "447299df96495bd1c50bac213bcc95d21aad33b8",
+      "bytes": 48066
+    },
+    {
+      "path": "terms/OT1998/runtime/OT_1998CHUNK11_STONE.md",
+      "sha": "3b043e60b0e62d569dd36184e5cb833d755d0a86",
+      "bytes": 23265
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/alden-maine-lower-neutral.txt",
+      "sha": "7cc86e26347ae28393cc0dd27647ce448d26e9e5",
+      "bytes": 26833
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/alden-maine-lower.json",
+      "sha": "a0b0913e4b03d5ef86dd6b537be29763464b36ca",
+      "bytes": 40648
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-ZC.html",
+      "sha": "5b4cd1b2ee6b459f6ea5c840fb589a04a9cb5877",
+      "bytes": 8223
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-ZO.html",
+      "sha": "2a44a200f5f1bb43f1c865e19c13459ef61bfb0a",
+      "bytes": 55418
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-ZO.txt",
+      "sha": "bb2b051cc8294d38a1faa7b1e7697230c87a00ce",
+      "bytes": 45808
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-syllabus.html",
+      "sha": "99f550adb4f49870ce923a4772948463d1e96c19",
+      "bytes": 10695
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/albertsons-usrep.txt",
+      "sha": "b4aaaa4b09d0b8b7207b5ad5953bedc44bfb1f21",
+      "bytes": 60106
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZD.txt",
+      "sha": "403552dd90b47e4f6af8157144d01f40a9d02e46",
+      "bytes": 123863
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZO.html",
+      "sha": "9b56543056ab557c49c8856176a519c79c3047bf",
+      "bytes": 114901
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-ZO.txt",
+      "sha": "b5c77b68c5693bec977bfe93a1d306886ede1139",
+      "bytes": 98308
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-syllabus.html",
+      "sha": "94e2b4cf8d525eee46704242cd2300e4f9a62659",
+      "bytes": 17952
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/alden-syllabus.txt",
+      "sha": "664064857432d2bddb4c454e2ccb0ab31bf564fe",
+      "bytes": 13982
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZD.html",
+      "sha": "319cc1b137cd95b22abf830601162577a940b40e",
+      "bytes": 8555
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZD1.html",
+      "sha": "6c16db2319f4cc4bda20738355d19295e6a455c6",
+      "bytes": 32050
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZD1.txt",
+      "sha": "7a444a5c245118bfc99eea7977e711930caad4ba",
+      "bytes": 25435
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZO.html",
+      "sha": "54936c75e55888aaa72356243407eb55192a0742",
+      "bytes": 61381
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-ZO.txt",
+      "sha": "4bc2bbfa41033f1b58b675fcad16213788b0fdba",
+      "bytes": 49602
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-syllabus.html",
+      "sha": "d56ba7cd656baa8bac963d02142c58bdf54752a4",
+      "bytes": 9829
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/college-savings-usrep.txt",
+      "sha": "4e8273012000e1a6d6b0dd063c9ad19b07cad72c",
+      "bytes": 89484
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZD.html",
+      "sha": "72dd789540ff4d0f1e4efa3fe496866b44f52b6c",
+      "bytes": 49040
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZD.txt",
+      "sha": "ba95d5e298965667925bba5fb8510ef18ee9da2f",
+      "bytes": 39105
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZO.html",
+      "sha": "cceeebe30eb002d05df463757766ea13981c0e4e",
+      "bytes": 49873
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-ZO.txt",
+      "sha": "76ce4be840cf4184eac231d9ed2a5e71a076053a",
+      "bytes": 39475
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-syllabus.html",
+      "sha": "43bf7cdbc37ff86d791d6644ac93d082ed8cdfc0",
+      "bytes": 10656
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/florida-prepaid-usrep.txt",
+      "sha": "5120ccb1763d1faa096841c6dd13b3f2a5162344",
+      "bytes": 90416
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZO.html",
+      "sha": "12d7c71e9a26b581942693e58de8ee91d162d93c",
+      "bytes": 44730
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZO.txt",
+      "sha": "44a017f2fa552648a2de534b7f5eb94183e35aab",
+      "bytes": 36716
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZX1.html",
+      "sha": "b30b27d3e1023145af59508fa9a0d6a81ca232e6",
+      "bytes": 19372
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-ZX1.txt",
+      "sha": "be57e88d582f26fa975fefdf4af4bcdfe73fb7ec",
+      "bytes": 14632
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-syllabus.html",
+      "sha": "e3e6e8e607f96dc87f3aeb9c13420e6bf487cd48",
+      "bytes": 12802
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-syllabus.txt",
+      "sha": "37ccb8eb1a5a8655b47912e41d0b6c364396ccc0",
+      "bytes": 8953
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/kolstad-usrep.txt",
+      "sha": "31bea99de5e50a01323398eb051407331ff75226",
+      "bytes": 63137
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-ZO.html",
+      "sha": "9190559cfbc4e14fa7184cdfe2b3cc405e02b9d3",
+      "bytes": 19141
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-ZO.txt",
+      "sha": "56c59bc9c96b97c8a4213cf4b76a74cadc8050b2",
+      "bytes": 15198
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-syllabus.html",
+      "sha": "075a48f972250289b42e287e6dfbbf2d52647956",
+      "bytes": 9346
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/murphy-usrep.txt",
+      "sha": "c80cf0e1c8775b288dba7b4b3ffd9f4c75ed74d4",
+      "bytes": 23040
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZC1.html",
+      "sha": "0dac74fba18d593f84445c20eaa5a01f379794db",
+      "bytes": 20216
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZC1.txt",
+      "sha": "adecf7a478be26ed205b2f28ccdb811c5bcd5804",
+      "bytes": 16216
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZD.html",
+      "sha": "6cc25c1c36bad9982fe8701adb954d60594e0585",
+      "bytes": 32624
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZD.txt",
+      "sha": "b0c9148cf7182eaab900439a359fec4b5086e3ea",
+      "bytes": 24839
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZO.html",
+      "sha": "221ac026e46eda162e0c4a060024c73da6ac6557",
+      "bytes": 55929
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-ZO.txt",
+      "sha": "0b3f5a062cba18c47772834ba8f548382356c0c3",
+      "bytes": 45579
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-syllabus.html",
+      "sha": "4c6ddc223330b2a8664a887f808e461e0c93c441",
+      "bytes": 19392
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-syllabus.txt",
+      "sha": "3203d00b0d05e5806ec28db5f78c3847dd17d9f0",
+      "bytes": 15311
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/olmstead-usrep.txt",
+      "sha": "a40cc60625caffe31a6a4f9dcef2f77c8a8ce132",
+      "bytes": 107282
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZD.html",
+      "sha": "f499a0f5851b6f2769055d6c79d4395f1326e251",
+      "bytes": 46258
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZD.txt",
+      "sha": "a9454164f8a4e240b0342dd57a03f55c8c5e3488",
+      "bytes": 39338
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZO.html",
+      "sha": "02bcb8193cd95759c9873e26ef903229e89be61b",
+      "bytes": 114417
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-ZO.txt",
+      "sha": "d56c77d068edc3ffd2ed8a6d25d87c7d027a7f0c",
+      "bytes": 100112
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-syllabus.html",
+      "sha": "fd6516a99425d881ef761b0d1fa7e5baeb3e7435",
+      "bytes": 19863
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/ortiz-syllabus.txt",
+      "sha": "600427ff6ad8dea6752c2c5cb82e42ab60f77423",
+      "bytes": 15946
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/verification-additions.md",
+      "sha": "42cb66c9a893b58beef02377a89328aefe2905ed",
+      "bytes": 39304
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/historical-sources/verified-source-inventory.json",
+      "sha": "bb24798746cd85d0f1f71268ade78a538bf0dcf0",
+      "bytes": 17946
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/kolstad_amicus10_raw.txt",
+      "sha": "50c7c079059fe5a2be65f544241cd2300a9c218e",
+      "bytes": 89140
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/kolstad_amicus10_sanitized.txt",
+      "sha": "f78f07ec68de340e42102d75a85db844bdaeda22",
+      "bytes": 87606
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/murphy_amicus10_raw.txt",
+      "sha": "063abca53abb3d492825d4195648436d20a48aff",
+      "bytes": 63072
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-control/murphy_amicus10_sanitized.txt",
+      "sha": "59196583206c61e9e780b097f9e99d1ac032dca0",
+      "bytes": 56772
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-model-ao/ALDEN_WORKING.md",
+      "sha": "339ca264d5b36037fd910d98b7cb8962d4cc2759",
+      "bytes": 14915
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-model-ao/ORTIZ_WORKING.md",
+      "sha": "03206a6b1059c05ccf30f220018fe90612498f69",
+      "bytes": 22747
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-model-ip/CORE_ANALYSIS_PROVISIONAL.md",
+      "sha": "45cfd2690a2fa43f20ef947691ee65903e314c0d",
+      "bytes": 27147
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-model-ip/IP_AFFECTED_COMPONENTS_REFRESH.md",
+      "sha": "4ca9089d79f64d433e2b5fc86ba852dd45c17e15",
+      "bytes": 25764
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/MURPHY_KOLSTAD_RAW_SOURCE_RECEIPT.md",
+      "sha": "c5d09dee2ecb5512b3e15f5fb441974bbbb30b26",
+      "bytes": 8611
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/albertson-lower-clean.txt",
+      "sha": "5e1e6b63663f1a13c2d90d3afaf6258b272d31e8",
+      "bytes": 44132
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/albertson-lower.txt",
+      "sha": "c60c2a97eed6ea31e96e1f5f77f9d1b401f138a5",
+      "bytes": 48142
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus10-sanitized.txt",
+      "sha": "57052baf12f99367ac0806bc61ac9152c7b14fb4",
+      "bytes": 75561
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus10-scoped.txt",
+      "sha": "5d5fe9faffa1d4d87dbbade93dda909be6ab7fbc",
+      "bytes": 79425
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus10.txt",
+      "sha": "a8394c197c910b08f39116d5d36e03d349e2e544",
+      "bytes": 80762
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus11-sanitized.txt",
+      "sha": "4b5828b2255636e3b1be556135abd9ae5b93f9a5",
+      "bytes": 37843
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus11-scoped.txt",
+      "sha": "ccf06be3e68a03adf1f219ea2411ce33b234eebf",
+      "bytes": 42158
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-amicus11.txt",
+      "sha": "cf44e3cd81e7cebe49c3e0686912938b89c43615",
+      "bytes": 42325
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-lower-clean.txt",
+      "sha": "26f25130110789f5f4dc42e1629f5e967183748b",
+      "bytes": 50105
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-lower.txt",
+      "sha": "62bb592816407ea62d88a6f05e9bdf72fdbd7072",
+      "bytes": 54290
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petition-sanitized.txt",
+      "sha": "7ecb2c8c345b0a5ff3bddfb154e89e20d26dd994",
+      "bytes": 105797
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petition-scoped.txt",
+      "sha": "ff6d27b106503d2c8efc257e68936dbe7c07e86c",
+      "bytes": 111868
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petition.txt",
+      "sha": "18a06413c3abe2cf116c00602d691f42f62f6c2e",
+      "bytes": 113589
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petitioners-sanitized.txt",
+      "sha": "fb6772f1034d16afd5a8fafcbe3f2c22442bbbd4",
+      "bytes": 114833
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petitioners-scoped.txt",
+      "sha": "99a9f62a3d6f7af3e3c4f327cdd264183d3a3000",
+      "bytes": 118029
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-petitioners.txt",
+      "sha": "a4d02d105adcfca91c2cfab4103dee87048c228c",
+      "bytes": 119285
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-reply-sanitized.txt",
+      "sha": "50e40eff10c8a63190e2b2544f2b82fff0b34a5c",
+      "bytes": 52023
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-reply-scoped.txt",
+      "sha": "c69d91b2b1bb6004b1acace06c5a21fbfc7bfe21",
+      "bytes": 51775
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-reply.txt",
+      "sha": "95c91403436e18ef1fdefa3d180d17295793ca28",
+      "bytes": 51906
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-respondents-sanitized.txt",
+      "sha": "5a0856389e56c9b8b93f019378ee432e314cf39a",
+      "bytes": 123512
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-respondents-scoped.txt",
+      "sha": "ae5aa880db5c75b68f8a388a72aca9d9a1a0f9f2",
+      "bytes": 122272
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-neutral-sources/olmstead-respondents.txt",
+      "sha": "339b7ced0551e6308daabde80eb19204437258b1",
+      "bytes": 123873
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/OLMSTEAD_NEUTRAL_SUPPLEMENT.md",
+      "sha": "f68a06598c1ef3c6d3a2cf585d5de59a4cac8e98",
+      "bytes": 33145
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_06_sanitized_source.txt",
+      "sha": "2a3d6b44fc31868cc12ecc27c712ffea4b838c05",
+      "bytes": 89275
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_06_source.txt",
+      "sha": "341d01ada3ea414532da9501f04774a35452fbda",
+      "bytes": 89887
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_07_sanitized_source.txt",
+      "sha": "10c844f1b475d14fc9d6d58ace60540efc73874c",
+      "bytes": 123088
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_07_source.txt",
+      "sha": "90ac21146a435241312ed2e469e380ceb423bd87",
+      "bytes": 125342
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_08_sanitized_source.txt",
+      "sha": "91780087fedbd3d6a7d32c28d46667eb9e38f157",
+      "bytes": 91791
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_08_source.txt",
+      "sha": "bd06a3b726437069c6ff6d6c39983077d76923e5",
+      "bytes": 91880
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_09_sanitized_source.txt",
+      "sha": "97b0b228f5c91b7f44304bdeed59dd6b53b1bff1",
+      "bytes": 47639
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_09_source.txt",
+      "sha": "c9a4ebeb5063106dcddbcb08644db06cdde42934",
+      "bytes": 50946
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/kolstad_lower_opinion.txt",
+      "sha": "12cdb3355b53fa33dbd545a1c245871298b936a9",
+      "bytes": 91776
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_02_sanitized_source.txt",
+      "sha": "db1829c3e19f971e25918a9b36aa9650d7e1e3ff",
+      "bytes": 83272
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_02_source.txt",
+      "sha": "d224bc08039f8262e7bb24a4f9169c5c60fe36ce",
+      "bytes": 86266
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_07_sanitized_source.txt",
+      "sha": "926d1a11381a136f9cdbe82868e2332306c677e8",
+      "bytes": 77597
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_07_source.txt",
+      "sha": "36150fc01957d48c3ff777c7d520de87afe12302",
+      "bytes": 90352
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_08_sanitized_source.txt",
+      "sha": "700d3a025476a16efdd9081bd4d6eb92661969d5",
+      "bytes": 128074
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_09_sanitized_source.txt",
+      "sha": "a7cc6890c446fa9a159851bf7bfd47a043a835a1",
+      "bytes": 52177
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_09_source.txt",
+      "sha": "1af1b9dc7cc0e95191d44fffcb01cd980017819f",
+      "bytes": 53427
+    },
+    {
+      "path": "terms/OT1998/runtime/chunk11-scoped/murphy_lower_opinion.txt",
+      "sha": "0ae0276ff8051cc820ba004099da8a5a194d7daf",
+      "bytes": 8916
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/35usc271.html",
+      "sha": "93da5a0a74fae6d10dfb196eb1d40be9f8bb9c6a",
+      "bytes": 21807
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/college_savings_lower.txt",
+      "sha": "c9550cea7bbd893ea2a12ceb7e3eaa877d2cfb81",
+      "bytes": 51128
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/florida_prepaid_lower.txt",
+      "sha": "09f7734b04133773c0e54da8d777007188b1e93f",
+      "bytes": 47382
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_08._Petitioners_Brief_djvu.txt",
+      "sha": "5f5cd00e372d455805182f1c9a32db4a0bacc74f",
+      "bytes": 64429
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/lanham_09._Respondents_Brief_djvu.txt",
+      "sha": "dbd20d0d94caf5ee6460fc11eb4121000dcad587",
+      "bytes": 64697
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral-b/patent_08._Joint_Appendix_djvu.txt",
+      "sha": "509400e81ce02353810e46f186d0e797cda54544",
+      "bytes": 47421
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc203_1994.html",
+      "sha": "ff0439619f4feb8a4a0f8ad977333d703f2e8759",
+      "bytes": 40176
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc203_1994.txt",
+      "sha": "aa8ed8fc4aafdacbd05b135d38196d23fd123903",
+      "bytes": 33243
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc216_1994.html",
+      "sha": "ef7af78bad9a4ba2a850eb031ec26aa3cc826370",
+      "bytes": 26348
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc216_1994.txt",
+      "sha": "9904d9c10693e448599427507b0f3a721992cb5c",
+      "bytes": 21966
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc216_1998.html",
+      "sha": "8db94eb0e8314743b90b55e0fb1fb82ab8f82f7e",
+      "bytes": 26886
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/alden/29usc216_1998.txt",
+      "sha": "78e0c149929c4b5d18e796969f9664fca3161335",
+      "bytes": 22432
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/lower_134f3d668_sanitized.txt",
+      "sha": "764b5a427fa7ae02a0a9b801107818f17111fa82",
+      "bytes": 61718
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-neutral/ortiz/rule23_1998.html",
+      "sha": "da6cac6b6f72681e38ba2c40b91c18dba49e225d",
+      "bytes": 44172
+    },
+    {
+      "path": "terms/OT1998/sources/chunk11-root-scope/OT1991_CHUNK3_CANONICAL_PUBLIC.md",
+      "sha": "e764f147b89dbe02692a4b01560ab68cd777859f",
+      "bytes": 38382
+    }
+  ],
+  "object_count": 194,
+  "total_bytes": 49899454,
+  "skipped_changed_paths": []
+}
