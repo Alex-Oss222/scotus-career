@@ -1,6 +1,6 @@
 # October Term 1998 — close audit
 
-**Status:** Cleared for the Commit pass. All six authorized correction items are resolved and have passed bounded verification. The coordinated local state replacement, doctrinal-volume synchronization and generated indexes have passed. Remote publication and final cleanup are pending.
+**Status:** Closed. No unresolved discrepancy remains. All six authorized corrections, coordinated publication, volume synchronization, generated indexes and final cleanup are verified.
 
 The first coordinated audit covered all 130 Court events, the Maine admitted source, all eleven renders, relevant opening law, the replacement trackers and fourteen pending carryovers. It identified no Record-level defect requiring a changed judgment, vote, controlling coalition or remedy. The user reviewed the findings and authorized their correction. The [first audit](https://github.com/Alex-Oss222/scotus-career/blob/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/terms/OT1998/close/AUDIT.md) remains in repository history.
 
@@ -15,11 +15,11 @@ The first coordinated audit covered all 130 Court events, the Maine admitted sou
 | Hanlon manifest form | Corrected the event description to signed merits decision after merits submission. | O'Connor's existing counted lead and component judgments are preserved. |
 | Holdings remedy-table format | Separated labels from all fifteen table headers. | Inverting those fifteen formatting replacements reproduces the prior candidate byte for byte. |
 
-[Correction validation](preflight/SIX_CORRECTIONS_VALIDATION.json) identifies the reviewed candidates and exact scope. The Standards changes were confined to seven exact replacements in three entries; reconstruction of the independent draft plus recorded navigation establishes the original comparison bytes. All unrelated protected inputs remained unchanged, apart from the two authorized manifest cells. All 197 Holdings navigation links resolve. The three common publication headers match.
+[Correction validation](FINAL_VALIDATION.json) identifies the reviewed candidates and exact scope. The Standards changes were confined to seven exact replacements in three entries; reconstruction of the independent draft plus recorded navigation establishes the original comparison bytes. All unrelated protected inputs remained unchanged, apart from the two authorized manifest cells. All 197 Holdings navigation links resolve. The three common publication headers match.
 
 A fresh Astra Ultra context verified only these six changes against the affected Records and entries. It found no remaining concern and required no further substantive correction. This was a bounded follow-up, not a repeated whole-term audit.
 
-The governing canonical checker passed the correction stage with zero errors. Its two warnings arose from the earlier preflight report restating two already-classified reporter-filename fragments as bare text; they are not missing commit objects. That temporary report is removed during final cleanup. Final state/volume and cleanup verification remain part of the Commit pass.
+The governing canonical checker passed the correction stage with zero errors. Its two warnings arose from the earlier preflight report restating two already-classified reporter-filename fragments as bare text; they are not missing commit objects. That temporary report is removed during final cleanup. The final canonical check verifies the synchronized published state and candidate cleanup without those warnings.
 
 ## Nonblocking notes retained
 
@@ -33,4 +33,4 @@ Fourteen matters carry forward into OT1999. New Jersey's completed decree presen
 
 No Git command was used. The first audit disclosed one overly broad filename-discovery command, whose filtered output exposed no prohibited filename and whose operator opened no prohibited content. That limitation remains documented in the pinned first report. Correction and verification work used explicit permitted paths, with no repeated broad discovery.
 
-No Record, frozen adjudication, approved brief, Public Projection, Render Input or public render was changed. The pending Commit pass publishes the synchronized trackers, rebuilds and checks the doctrinal volumes, generates the close indexes, verifies publication and removes candidate files and temporary pass notes. The existing adjudications remain the source of authority.
+No Record, frozen adjudication, approved brief, Public Projection, Render Input or public render was changed. The completed Commit pass publishes the synchronized trackers, rebuilds and checks the doctrinal volumes, generates the close indexes, verifies publication and removes candidate files and temporary pass notes. The existing adjudications remain the source of authority.

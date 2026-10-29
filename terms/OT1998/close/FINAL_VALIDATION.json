@@ -1,0 +1,68 @@
+{
+  "canonical_check_invocations_this_final_stage": 1,
+  "prior_checker_invocations": 2,
+  "command": "Canonical check_term.py OT1998 via guarded in-process final-close adapter",
+  "exit_code": 0,
+  "stdout": "OK: OT1998; 0 warning(s)\n",
+  "stderr": "",
+  "holdings_check": "Included by canonical check_term.py; no duplicate invocation",
+  "actual_commit_references": {
+    "0bdb63c7": "0bdb63c7fec7999f045d5633efbcb71630c112dd",
+    "3a04640b": "3a04640b9ff6ad4f3f2cbb12957d150937654558",
+    "6dc56753": "6dc56753ba2a834df7145c666ed6dc61bd6247e6",
+    "95515c52": "95515c52e0e034899f8282d845f082c3359c673d",
+    "9cec1909d55fdde1db3a1b92458563192acd4f3e": "9cec1909d55fdde1db3a1b92458563192acd4f3e",
+    "9faa6f4a3f53909398d669aba4b4007f1553976b": "9faa6f4a3f53909398d669aba4b4007f1553976b",
+    "b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf": "b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf",
+    "c09ee281": "c09ee28104f12bfbb9c1d115bc5a1cdf1316b790",
+    "dba1f2f8": "dba1f2f866ca328db16e53709be9ead64bfa0ba2"
+  },
+  "unverified_commit_references": [],
+  "source_filename_fragments_not_commits": [
+    "134f3d668",
+    "90f3d963"
+  ],
+  "api_receipt": "terms/OT1998/freeze/OT_1998CHUNK10_COMMIT_REFERENCE_API_RECEIPT.json",
+  "api_receipt_sha256": "d35f4ddb8ddaa8c16bca5402e1219b7bbc53c872acdd7196075695c0423ae961",
+  "commit_verification": "Inherited references use exact API receipt; first-review/correction/state-publication commits were verified through successful API publication and ref checks",
+  "guard": "No subprocess, Git metadata or forbidden source access; only final validation receipt written under close",
+  "close_summary": {
+    "correction_commit": "9cec1909d55fdde1db3a1b92458563192acd4f3e",
+    "state_publication_commit": "9faa6f4a3f53909398d669aba4b4007f1553976b",
+    "protected_originals_unchanged": 191,
+    "records_unchanged": 131,
+    "court_events": 130,
+    "admitted_sources": 1,
+    "pending_carryovers": 14,
+    "holdings_navigation_links": 197,
+    "six_corrections_resolved": true,
+    "exact_correction_scope_verified": true,
+    "standards_independently_derived": true,
+    "published_tracker_identities": {
+      "HOLDINGS": {
+        "path": "state/HOLDINGS.md",
+        "sha256": "1054c9eea24d3dd41cb79cb4c2453b3a325aa54561cfb98e104bedab69f9d7fd",
+        "bytes": 5126957
+      },
+      "STANDARDS_AND_TESTS": {
+        "path": "state/STANDARDS_AND_TESTS.md",
+        "sha256": "5f7d313948d8fbbcba4379d7c7e454ea3e27ad55beaea2657b877b225c3e85e8",
+        "bytes": 1794145
+      },
+      "STANDING_STATE": {
+        "path": "state/STANDING_STATE.md",
+        "sha256": "102295da767d405e04b8a8d1df25e56b8e389b2e7c4c333e40c6abc4d296054d",
+        "bytes": 10553
+      }
+    },
+    "common_headers": {
+      "Last completed October Term": "1998",
+      "Processed through": "June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.",
+      "Edition": "October 29, 2026"
+    },
+    "candidate_files_remaining": 0,
+    "temporary_published_paths_removed_in_final_commit": 212,
+    "close_document_local_links_resolve": true,
+    "generated_indexes_from_records": 131
+  }
+}

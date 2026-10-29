@@ -4,7 +4,7 @@
 **Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
 **Edition:** October 29, 2026
 **Next baseline:** Opening OT1999, before its first supplied event. This close does not open or adjudicate OT1999.
-**Publication:** The coordinated local replacement and volume synchronization have passed. Remote state publication and final cleanup are being completed under the cleared audit.
+**Publication:** The coordinated state and indexes were published and verified at [the state-publication commit](https://github.com/Alex-Oss222/scotus-career/commit/9faa6f4a3f53909398d669aba4b4007f1553976b). Candidate files and temporary pass notes are removed in the final cleanup commit; their reviewed and corrected versions remain at the pinned revisions below.
 
 ## Authority and retained history
 
@@ -213,4 +213,4 @@ The following 131 linked Records contain every validated completed Court event a
 
 The first audit and subsequent bounded correction verification support the coordinated close. Candidate/source identities, all 197 Holdings navigation links, exact correction scope, header synchronization and fourteen carryovers passed their checks. The correction-stage canonical checker passed with zero errors; two warnings concerned reporter-filename fragments quoted in a temporary preparation report, which final cleanup removes.
 
-Final publication verification, canonical state/volume checking and removal of staged candidates and temporary pass notes are recorded in the final audit and validation receipt. Historical preparation and corrected candidates remain available at the pinned revisions above. No Git command was used.
+Final publication verification, canonical state/volume checking and removal of staged candidates and temporary pass notes are recorded in the [final audit](AUDIT.md) and [validation receipt](FINAL_VALIDATION.json). Historical preparation and corrected candidates remain available at the pinned revisions above. No Git command was used.
