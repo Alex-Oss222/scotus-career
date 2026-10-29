@@ -1,6 +1,6 @@
 # October Term 1998 — close audit
 
-**Status:** Cleared for the Commit pass. All six authorized correction items are resolved and have passed bounded verification. Coordinated state publication and final cleanup are pending.
+**Status:** Cleared for the Commit pass. All six authorized correction items are resolved and have passed bounded verification. The coordinated local state replacement, doctrinal-volume synchronization and generated indexes have passed. Remote publication and final cleanup are pending.
 
 The first coordinated audit covered all 130 Court events, the Maine admitted source, all eleven renders, relevant opening law, the replacement trackers and fourteen pending carryovers. It identified no Record-level defect requiring a changed judgment, vote, controlling coalition or remedy. The user reviewed the findings and authorized their correction. The [first audit](https://github.com/Alex-Oss222/scotus-career/blob/b86c7f3a7207649193d9bdc2605c3d4ccf8f1dcf/terms/OT1998/close/AUDIT.md) remains in repository history.
 

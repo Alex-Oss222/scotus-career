@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## First Amendment
 
@@ -3141,3 +3141,173 @@ For the other questions decided in this same case, docket and date, see Federal 
 The circuit's personal salary-immunity disposition remains in effect for every individual on the common ground, covering both prospective reduction and reported retrospective recovery. Jenkins's actual process role does not establish the participation of Furuno, Clarke or any member. No wage calculation, withholding date, repayment or entitlement ruling follows. Actual surviving entity, official-capacity or equitable matters retain their own scope; none is created by this decision, and the excluded union-speech, state and failure-to-train matters are not revived.
 
 No ultimate liability, damages, reinstatement, restoration of salary, costs, compulsory trial, discovery or hearing is ordered. Ordinary proceedings and genuinely supported independent defenses remain, subject to the settled mandate and rules for authorized review.
+
+
+### Assigned instructional production and the asserted personal speech right
+
+#### Boring v. Buncombe County Board of Education
+
+**Docket or dockets:** No. 97-1835.
+**Decided:** 1999-02-17.
+
+##### Assigned instructional production and the asserted personal speech right
+
+**Holding:** A public-school teacher's selection, production, and direction of material as part of the assigned school instructional program constitute institutional curricular expression subject to the school system's lawful control; the artistic discretion entrusted to the teacher does not, on this claim, create a personal First Amendment right against curricular and related employment control. This rule concerns the assigned school production, and does not authorize punishment of separate citizen speech or an independently unconstitutional classification or exclusion.
+
+**Proposition-level authority:** Stone-Zsela's complete opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, and Thomas, supplies five direct rationale votes.
+
+**Treatment of earlier authority:**
+
+- Hazelwood School District v. Kuhlmeier: applies the distinction between personal student expression and school-sponsored educational activity; its student-speech rule is not converted into an instructor's personal control over institutional content.
+- Settle v. Dickson County School Board, June 25, 1996: preserves genuine curricular authority and the prohibition on categorical religious exclusion masquerading as pedagogy; distinguishes the student's limited interest within an assignment from the teacher's asserted interest in administering the program.
+- Jeffries v. Harleston, November 17, 1997: distinguishes the unaffiliated citizen address expressly outside assigned official work; its protection, actual-cause rule, and limited mandate remain intact.
+- Brewster v. Board of Education, August 17, 1998: distinguishes the particular internal attendance-error report and conduct-date immunity question; no general rule withdrawing protection from workplace reports follows.
+- Waters v. Churchill, May 31, 1994: preserves its limited majority propositions on genuine lawful grounds and mistaken accounts of protected employee speech; supplies no personal curricular entitlement or universal investigation procedure.
+- Mt. Healthy City School District Board of Education v. Doyle: preserves the claimant's protected-conduct and substantial-or-motivating-factor showing and the employer's separate preponderance same-decision defense; no defense is found proved here.
+- Pickering v. Board of Education, Connick v. Myers, and Givhan v. Western Line Consolidated School District: retain contextual public-employee speech protection, including private speech; the Court adopts no categorical workplace or private-concern exclusion.
+- Epperson v. Arkansas and Keyishian v. Board of Regents: preserve independently applicable constitutional limits on educational authority; the curricular label does not establish immunity from them.
+
+No precedent is overruled.
+
+**Limits and questions not reached:** The teacher's delegated selection and direction of this school instructional production do not supply the personal speech entitlement claimed against curricular and related employment control. That limited institutional-content rule leaves student expression, separate citizen speech, independent constitutional prohibitions, and other sources of employment protection in place. The decision adopts no universal rule for government employees' assigned speech and no constitutional safe harbor based on any conceivable pedagogical reason.
+
+**Operative remedy or transition:** **Affirmed, 5–4.**
+
+**Supporting:** Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas.
+**Opposing:** Stevens, Souter, Ginsburg, Breyer.
+
+The dismissal of the granted First Amendment claim remains in force. The Court orders no further remedy and does not reopen claims outside the grant.
+
+### III. A denominator rule does not compel political speech
+
+#### Citizens for a Constitutional Convention v. Yoshina
+
+**Docket or dockets:** No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.
+**Decided:** 1999-01-21.
+
+##### III. A denominator rule does not compel political speech
+
+**Holding:** A neutral referendum-approval threshold may include blank ballots in the denominator without compelling voters to espouse opposition when blanks remain accurately counted and reported as blanks and the rule does not discriminate among identifiable voters. The legal consequence of abstention does not itself supply the asserted First Amendment violation.
+
+**Proposition-level authority:** Part III of Souter's opinion is joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer. Those eight Justices supply a controlling majority. Stone-Zsela agrees only with rejection of this claim and adds no ground.
+
+
+
+For the other questions in Citizens for a Constitutional Convention v. Yoshina, decided 1999-01-21, at the dockets stated above, see Federal Courts, Election Law. The complete event-wide precedent treatment and operative mandate appear with this case in Election Law.
+
+### Direct and material advancement
+
+#### Greater New Orleans Broadcasting Association, Inc. v. United States
+
+**Docket or dockets:** No. 98-387.
+**Decided:** 1999-06-14.
+
+##### Direct and material advancement
+
+**Holding:** Section 1304 cannot be enforced against these Louisiana broadcasters' truthful, nonmisleading advertisements for lawful private-casino gambling because the federal scheme's actual exceptions and operation do not directly and materially advance its asserted gambling-harm reduction and state-policy accommodation interests. Potential reception in a State prohibiting private casinos does not itself make the advertised lawful transactions unlawful.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Stevens joins this application conditionally under the existing framework; Scalia joins the application while retaining broader doctrinal reservations. Thomas supports the judgment on a different ground and adds no balancing vote.
+
+##### Reasonable fit
+
+**Independent alternative holding:** Independently, suppressing these truthful lawful-casino advertisements lacks a reasonable proportional fit with the asserted interests, given the scheme's extensive comparable permissions and available direct regulation of gambling. The Government may pursue genuine incremental policies, but the actual informational burden requires justification; the First Amendment does not require the least restrictive imaginable policy.
+
+**Proposition-level authority for alternative holding:** The same eight-Justice Court-opinion coalition directly joins this independently sufficient ground, with the same stated reservations.
+
+**Treatment of earlier authority:**
+
+- Central Hudson supplies ordinary lawful/nonmisleading commercial-speech review, substantial interest, material advancement and reasonable fit.
+- Fox preserves the distinction between reasonable fit and least-restrictive means.
+- Edenfield requires justification responsive to real harms and material alleviation without invariably requiring empirical studies.
+- Ibanez tests the actual truthful-information restriction and its responsive justification.
+- Rubin applies independent advancement and fit inquiries to a materially contradictory scheme and requires an actual state-accommodation mechanism.
+- 44 Liquormart preserves those separate inquiries under ordinary scrutiny; its alcohol-specific rule does not create a gambling exception or a new tier.
+- Edge retains its record-specific meaningful-reduction and state-accommodation holding; the different statutory permissions and mechanism here do not reproduce it.
+- Posadas is not overruled through this as-applied decision, and no categorical constitutional rule against all vice regulation is adopted.
+
+**Limits and questions not reached:** The described lawful private-casino advertising is protected against this federal prohibition because each of two ordinary commercial-speech requirements fails independently. False or misleading advertisements, promotion of unlawful transactions, targeting minors and materially narrower evidence-supported restrictions remain outside the holding. Direct regulation of gambling survives. Other asserted applications require their own justification; neither §1304 nor the FCC restriction is erased in all settings.
+
+**Operative remedy or transition:** **Reversed and remanded, 9–0.** **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The Government may not enforce §1304 against these truthful, nonmisleading advertisements for lawful private-casino gambling. Relief concerning the companion FCC restriction conforms to that same as-applied prohibition. Section 1304 and the rule are not facially invalidated; no damages or replacement gambling policy is ordered.
+
+### Parental routing does not justify the demonstrated purchase of integrated devotional instruction
+
+#### Jackson v. Benson
+
+**Docket or dockets:** No. 98-376
+**Decided:** 1999-03-16.
+
+##### Parental routing does not justify the demonstrated purchase of integrated devotional instruction
+
+**Holding:** Wisconsin may not justify public payment for the demonstrated devotional instructional function merely by neutral eligibility, parental selection and restrictive endorsement of its provider-cost payment. Where the financed educational work integrates devotional instruction without reliable separation, those features do not cure the expenditure; religious identity alone does not establish that defect, and genuinely independent private benefits and reliably separated secular services retain their distinct protection.
+
+**Proposition-level authority:** O'Connor's Part I is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Six direct joins control the rule and its application; the remedy has the separate coalition stated below.
+
+##### The corrective judgment must preserve the actual limits of the federal conflict
+
+**Holding:** The federal approval and its dependent blanket injunction-dissolution direction are vacated, and the lower courts must determine appropriate provider/payment relief and state-law severability under the funded-function holding. Relief must prevent the established federal conflict while preserving lawful severable applications; the judgment neither rewrites state law nor commands an immediate ban on every payment or religious provider.
+
+**Proposition-level authority:** O'Connor's Part II is joined by Stevens, Souter, Ginsburg and Breyer. Those five directly support this disposition and remedy. Stone-Zsela seeks the different reversal and mandatory direction stated separately; the three affirming dissenters' conditional acceptance of remedial limits supplies no extra vacatur vote.
+
+**Treatment of earlier authority:**
+
+- **Agostini v. Felton:** Applied to the actual instructional function purchased and the need for reliable separation of secular work. Its modified Lemon inquiry remains governing; its reserved voucher question is answered only for this supported cost/instruction arrangement.
+- **Lemon v. Kurtzman:** Continues through Agostini's unified inquiry. Its former independent prongs are not restored.
+- **Witters v. Washington Department of Services for the Blind; Mueller v. Allen:** Preserved for their actual individual vocational-benefit and general tax-deduction relationships; neither supplies automatic approval of this provider-cost payment.
+- **Rosenberger v. Rector and Visitors of the University of Virginia:** Preserved as an actual controlled printing benefit for independently attributed expression; it does not equate all spending with a forum or authorize every devotional expenditure.
+- **Bronx Household of Faith; Pinette; Chabad:** Preserve genuinely private expression and contextual attribution. Private access does not itself resolve governmental purchase of instructional work.
+- **Committee for Public Education v. Nyquist:** Its aid limitations are not categorically displaced by parental routing; the present application rests on the actual funded function under Agostini.
+- **School District of Grand Rapids v. Ball:** Agostini's displacement of its corresponding Shared Time rationale remains confined; the distinct Community Education judgment is not reopened.
+- **Zobrest v. Catalina Foothills:** Supplies no Establishment Clause merits holding; its antecedent-law remand does not validate this program.
+- **Dalton v. Little Rock Family Planning Services; Leavitt v. Jane L.:** Applied to conflict-specific relief and preservation of independently supported protection while state-law severability is resolved.
+- **American Manufacturers v. Sullivan:** Preserves review of government's own conduct despite private-carrier nonattribution. It supplies no Establishment Clause financing exemption.
+
+**Limits and questions not reached:** The actual provider-cost payment cannot receive categorical federal approval solely because eligibility is neutral and a parent selects and endorses the payment. Demonstrated devotional instruction within the financed work must be addressed under the governing expenditure rule. Genuine private-benefit relationships, private forum access and reliably separated secular services remain distinct. The decision supplies no all-provider exclusion, new general facial-challenge formula, compulsory school participation or constitutional subsidy entitlement.
+
+**Operative remedy or transition:** **Vacated and remanded, 5-4 on that disposition.**
+
+**Supporting:** Justices Stevens, O'Connor, Souter, Ginsburg and Breyer.
+
+**Opposing the Court's disposition:** Chief Justice Stone-Zsela would reverse the federal approval and remand with the payment-preventing direction described in his separate opinion. Justices Scalia, Kennedy and Thomas would affirm the federal approval. Stone-Zsela joins the Court's substantive financing rule but not its vacatur or remedial disposition.
+
+The lower courts must apply the actual funded-function holding to provider/payment scope, appropriate relief and state-law severability. They may use the existing record where sufficient; no new trial or submissions are automatically required. Lawful secular applications and the actual enrollment-status qualification remain protected. No blanket statewide funding cutoff, school closure, pupil transfer, recoupment or damages award follows from this judgment.
+
+### 2. The actually selective debate is a nonpublic forum
+
+#### Marcus v. Iowa Public Television
+
+**Docket or dockets:** No. 98-710.
+**Decided:** 1999-01-13.
+
+##### 2. The actually selective debate is a nonpublic forum
+
+**Holding:** A state broadcaster's candidate debate is a nonpublic forum when the broadcaster actually retains editorial selection rather than opening the program generally to all qualified candidates. Restrictions must reasonably serve the program's journalistic purpose and remain viewpoint neutral; public ownership, a journalism label and ballot qualification alone decide neither access nor validity.
+
+**Proposition-level authority:** Part II of O'Connor's opinion is joined by all nine Justices: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Agreement on classification and the governing requirements does not imply agreement that Iowa's standards satisfy them.
+
+**Limits and questions not reached:** A program genuinely opened to qualifying candidates presents a different access question. Reasonable selection is permitted; sham criteria, incumbent favoritism, inconsistent administration and unpopular-viewpoint exclusions remain subject to review.
+
+##### 3. Iowa's adjudicated selection satisfies Forbes; the forum claim and its derivative relief fail
+
+**Holding:** On this record, the selective format, legitimate informing purpose, editorial-integrity policies, evidence of electoral engagement and public interest, and independently credited findings support reasonable and viewpoint-neutral selection. Forbes imposes no additional universal numerical formula, written-policy, advance-publication or prescribed investigative prerequisite; the affirmed absence of a forum violation defeats declaratory, injunctive and guide-correction relief sought as remedies for that violation.
+
+**Proposition-level authority:** Part III of O'Connor's opinion is joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer: six Justices. Stevens, Souter and Ginsburg dissent from the sufficiency of Iowa's standards and would vacate the rejection of the common policy claim and remand.
+
+**Limits and operative remedy:** The Court does not approve categorical exclusion of idea-centered campaigns, manipulation favoring incumbent parties, or rejection of a genuinely viable minor-party candidate simply because of party status. Offering another program does not cure viewpoint discrimination. The program-guide correction request fails only as derivative relief for the rejected forum claim; no independent cause of action, current guide dissemination, reputational injury or correction entitlement is decided. The judgment orders no new broadcast, future inclusion, damages or statutory access remedy.
+
+**Treatment of earlier authority:**
+
+- **Arkansas Educational Television Commission v. Forbes (May 18, 1998):** Applied to Iowa's actual selective format, governing reasonable and viewpoint-neutral choice, and supported adjudicated application. Its rejection of universal numerical, written or advance-publication requirements remains operative; its pretext, actual-comparator and open-access limits remain intact.
+- **Cornelius v. NAACP Legal Defense & Educational Fund, 473 U.S. 788, and Perry Education Association v. Perry Local Educators' Association, 460 U.S. 37:** Applied to actual selective access and restrictions reasonably related to the forum's purpose.
+- **Rosenberger v. Rector and Visitors of the University of Virginia (June 29, 1995):** Its protection of private viewpoints within an actual expressive opportunity remains applicable; it does not compel universal access to a genuinely selective debate.
+- **Regan v. Time, Inc., 468 U.S. 641:** Distinguished because its private-publication restriction differs from the selective candidate-forum question governed by Forbes. It is not overruled or treated as banning every judgment of newsworthiness.
+- **Spencer v. Kemna (March 3, 1998):** Its concrete-continuing-controversy and two-part recurrence requirements are applied. The committee's established organizational connection supplies the same-claimant basis absent from speculative injury to an unidentified future person.
+- **Norman v. Reed (January 14, 1992):** Its continuing-party-interest analysis informs the recurrence inquiry. Its actual party-qualification consequences are not imported into this record.
+- **Chandler v. Miller (April 15, 1997):** Its reliance on the candidate's stated future candidacy is distinguished from this continuing committee's established electoral activity; that individual proof is not made an exclusive method of demonstrating recurrence.
+- **Honig v. Doe, 484 U.S. 305:** Applied for a supported likelihood assessment rather than certainty of repetition. No general post-grant relaxation of Article III is adopted.
+
+**Limits and questions not reached:** Forbes continues to govern genuinely selective public-broadcast debates. Iowa's supported contextual editorial judgment satisfies that rule without a new universal formula or procedural prerequisite, while viewpoint, pretext, actual-comparator and forum-boundary review remain required. The committee-specific Article III holding permits review of this common policy challenge; it does not keep all former candidates' individual demands alive. The affirmed denial of the common forum claim defeats its derivative equitable relief, including the guide-correction request only in that capacity.
+
+**Operative remedy or transition:** **Affirmed, 6–3.** Supporting: Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Breyer. Opposing: Stevens, Souter and Ginsburg. The affirmance denies declaratory, injunctive and program-guide correction relief insofar as it depends on the rejected forum violation. It decides no independent guide claim, establishes no continuing guide injury, and orders no replacement broadcast, future admission or damages. 
+
+
+For the other questions in Marcus v. Iowa Public Television, decided 1999-01-13, at the dockets stated above, see Federal Courts.

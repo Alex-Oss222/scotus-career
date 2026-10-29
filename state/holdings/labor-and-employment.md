@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Labor and Employment
 
@@ -2254,3 +2254,316 @@ Related questions in United States ex rel. McKenzie v. BellSouth Telecommunicati
 **Treatment of earlier authority:** Andrade's bounded correction and Faragher's distinct findings-based remedy are applied at their actual scope; Harrison's procedural distinctions and Landgraf's temporal limit remain intact.
 
 **Operative remedy or transition:** The case returns through the Seventh Circuit for ordinary proceedings on the appealed Title VII claim. Ellerth must establish the required predicates under the governing rules; Burlington may present genuinely preserved independent grounds. No factual issue, defense, damages, fee award, jury entitlement or constructive-discharge claim is resolved by the mandate.
+
+
+### Congress expressly authorized this state-court FLSA action
+
+#### Alden v. Maine
+
+**Docket or dockets:** No. 98-436; 527 U.S. 706.
+**Decided:** 1999-06-23.
+
+##### Congress expressly authorized this state-court FLSA action
+
+**Holding:** Sections 203 and 216(b) expressly authorize an employee’s action against a public agency for covered FLSA violations in a competent state court. That statutory authorization is distinct from the constitutional validity of the remedy and from proof that any overtime is owed.
+
+**Proposition-level authority:** Souter’s Part I, joined by all eight other Justices.
+
+**Precedent treatment:** Seminole’s distinction between unmistakable statutory authorization and constitutional amenability is applied without resolving federal-court amenability. Garcia remains effective on the substantive regulation of state employment.
+
+
+
+For the other questions in Alden v. Maine, decided 1999-06-23, at the dockets stated above, see Federal Courts. The complete event-wide precedent treatment and operative mandate appear with this case in Federal Courts.
+
+### ADEA collective-action participation
+
+#### American Airlines, Inc. v. Tice
+
+**Docket or dockets:** No. 98-1704.
+**Decided:** 1999-06-10.
+
+##### ADEA collective-action participation
+
+**Holding:** Section 626(b)'s incorporation of §216(b) requires an employee's written consent before that employee becomes a party plaintiff to an ADEA collective action. An ordinary opt-out class analogy cannot treat these pilots as earlier party plaintiffs without that consent.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court on the statutory question, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone-Zsela does not join this distinct ground.
+
+
+
+For the other questions in American Airlines, Inc. v. Tice, decided 1999-06-10, at the dockets stated above, see Federal Courts. The complete event-wide precedent treatment and operative mandate appear with this case in Federal Courts.
+
+### SSDI does not create an automatic bar or special adverse presumption under the ADA
+
+#### Cleveland v. Policy Management Systems Corp.
+
+**Docket or dockets:** No. 97-1008.
+**Decided:** 1999-05-24.
+
+##### SSDI does not create an automatic bar or special adverse presumption under the ADA
+
+**Holding:** Applying for or receiving SSDI neither automatically estops an ADA plaintiff from proving qualification nor creates a special strong presumption against that proof. The statutes ask different questions, and qualification under the ADA still depends on the ability to perform the position's essential functions with or without reasonable accommodation.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+##### An apparent inconsistency still requires an adequate explanation
+
+**Holding:** An ADA plaintiff confronting an apparently inconsistent earlier total-disability representation must provide an explanation sufficient for a reasonable juror, accepting the earlier statement as true or as made in good faith, still to find that the plaintiff could perform the essential functions at the relevant time with or without reasonable accommodation. The plaintiff retains the ordinary qualification burden; good faith alone, a bare contradiction or a statutory label without an answer to the material factual inconsistency does not satisfy it.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Ordinary qualification, accommodation, discrimination and defense requirements remain. No general judicial-estoppel doctrine for purely factual contradictions or every statutory relationship is adopted; good faith alone does not answer a material factual inconsistency.
+
+**Operative remedy or transition:** Vacate and remand, allowing an adequate explanation that the employer may contest. No compulsory trial, liability, award, benefits revision or automatic Texas-claim revival follows.
+
+**Treatment of earlier authority:**
+
+Bragdon v. Abbott is applied at the shared level of individual statutory elements and founded objective proof. Its disability-definition and direct-threat holdings remain distinct and unchanged. Ordinary summary-judgment requirements remain; the Court does not adopt every lower-court rule concerning a later affidavit that contradicts earlier factual testimony.
+
+### I. Genuine payments within the continuing plan do not inure to the employer
+
+#### Hughes Aircraft Co. v. Jacobson
+
+**Docket or dockets:** No. 97-1287; Ninth Circuit judgment, 105 F.3d 1288.
+**Decided:** 1999-01-25.
+
+##### I. Genuine payments within the continuing plan do not inure to the employer
+
+**Holding:** Section 403(c)(1) does not prohibit payment of genuine benefits to participants under the amended single plan merely because those benefits reduce future employer contributions or payroll costs. Surplus remains plan property, and the anti-inurement rule independently governs an actual diversion, unlawful reversion or payment outside the lawful plan.
+
+**Proposition-level authority:** Ginsburg's opinion's Part I is joined by all eight Associate Justices and controls; Stone-Zsela agrees in dismissal of the anti-inurement claim without adding a ground.
+
+##### II. Amendment design is distinct from fiduciary implementation
+
+**Holding:** Design and adoption of these pension amendments are sponsor functions, even though employees contributed to the plan; those acts alone create no fiduciary breach under §§404–405. Actual asset management or disposition and administration remain subject to §3(21)(A)'s functional requirements, including authority or control over disposition without an additional discretion requirement.
+
+**Proposition-level authority:** All nine Justices join the sponsor-capacity rule and its preservation of independent duties. The eight Associates additionally join the claim-specific conclusion that these original implementation and derivative cofiduciary theories identify no independent breach after their surplus-ownership and separate-plan predicates fail; Stone-Zsela agrees in that disposition without supplying an additional implementation ground.
+
+##### III. Accrued benefits are protected without individual ownership of all surplus
+
+**Holding:** Participants in this defined-benefit plan have enforceable rights to promised and statutorily protected accrued benefits, including the employee-contribution floor, but no present individual ownership of all actuarial surplus. Because the original theory identifies no reduction of those protected benefits, use of pooled surplus for lawful plan benefits establishes neither forfeiture nor an anti-cutback violation.
+
+**Proposition-level authority:** The nine Justices join the no-surplus-ownership and no-reduction holding. The statutory distinction between required and voluntary contributions explains the eight Associates' rejection of the original employee-contribution theory; no benefit amount is calculated.
+
+##### IV. Continuing benefit obligations do not trigger termination distribution
+
+**Holding:** Closing the contributory structure to new entrants while continuing the plan and its benefit obligations is not a statutory termination triggering §4044 distribution. A common-law characterization as a wasting trust cannot replace §4041's standard-or-distress termination process or PBGC proceedings under §4042.
+
+**Proposition-level authority:** All nine Justices join the nontermination holding on these continuing-plan facts. The eight Associates join the separate statutory distribution analysis; no general rule for every partial termination is decided.
+
+##### V. Incidental employer advantage does not make these benefit payments prohibited transactions
+
+**Holding:** Under §406(a)(1)(D), genuine pension payments under an otherwise lawful plan do not become prohibited transfers merely because they save the employer money. Nor does §406(b)(2), which bars a fiduciary from acting in a transaction for an adverse party, establish a violation merely from the sponsor's adoption of a benefit design advantageous to itself.
+
+**Proposition-level authority:** All eight Associates join Part V, which controls both statutory grounds; Stone-Zsela agrees only in dismissal of the prohibited-transaction component.
+
+##### VI. Fair administration does not promise a later incentive to ineligible retirees
+
+**Holding:** The plan's fair-and-equitable administration, interpretation and application clause does not give every retiree a contractual right to an incentive later offered to specified active employees. The original sixth claim fails independently under §502(a)(1)(B) because no benefit due under the operative eligibility terms is withheld, and under §404(a)(1)(D) because the asserted difference is lawful eligibility design rather than unequal administration among eligible participants.
+
+**Proposition-level authority:** All eight Associates join Part VI and its distinct statutory and plan grounds. Stone-Zsela agrees only in dismissal of this separate plan-enforcement component.
+
+**Treatment of earlier authority:**
+
+- *Lockheed Corp. v. Spink* is applied to sponsor design and genuine benefit payments while its independent-claims directions are enforced. The present dismissal rests on separate statutory and plan answers, not categorical sponsor immunity.
+- *John Hancock Mutual Life Insurance Co. v. Harris Trust & Savings Bank* is applied to separate plan property, function and breach; it establishes no participant ownership of every dollar of actuarial surplus.
+- *Varity Corp. v. Howe* is preserved for function-specific administration, disloyal communications and appropriate relief. No conduct of that kind is immunized by amendment authority.
+- *Curtiss-Wright Corp. v. Schoonejongen* retains its distinction between a sufficient amendment procedure and actual authorized adoption; no separate adoption defect is decided here.
+- *Mertens v. Hewitt Associates* retains its §502(a)(3) equitable-category limitation. It is distinguished from the §502(a)(1)(B) claim, which fails for lack of a promised due benefit rather than a categorical bar on benefits enforcement.
+
+**Limits and questions not reached:** employee contributions do not convert amendment design into a fiduciary act or establish individual ownership of an ongoing defined-benefit plan's surplus. Plan-property restrictions, employee-derived accrued benefits, functional fiduciary obligations, genuine termination requirements and contractual benefit promises remain independently enforceable. These six original theories fail after those distinct predicates are examined. No blanket immunity for implementation, new distribution entitlement or general rule disposing of a later merger claim is established.
+
+**Operative remedy or transition:** **Reversed and remanded, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The Ninth Circuit's revival of the six original claims is reversed. On remand those theories shall be dismissed on the independent grounds stated in the opinion. No surplus distribution, neutral trustee, asset restoration, benefit recalculation or new fee award is ordered. A genuinely independent administration, misrepresentation, asset-diversion or nonpayment claim remains governed by its own elements; later amended-complaint merger allegations are outside this judgment.
+
+### Statutory membership wording does not alone breach fair representation
+
+#### Marquez v. Screen Actors Guild, Inc.
+
+**Docket or dockets:** No. 97-1056.
+**Decided:** 1998-11-03.
+
+##### Statutory membership wording does not alone breach fair representation
+
+**Holding:** A union does not breach its duty of fair representation merely by negotiating a union-security clause that uses section 8(a)(3)'s statutory membership terms without restating every judicial qualification. The wording remains subject to the governing limits on compulsory financial obligations and does not authorize compelled full membership, misleading notice, nonchargeable collections or unlawful enforcement.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+##### A standalone statutory timing claim belongs initially to the Board
+
+**Holding:** A claim alleging only that a union's grace-period arrangement violates the NLRA belongs initially to the National Labor Relations Board; labeling the alleged statutory inconsistency a fair-representation breach does not create an independent judicial basis. A federal court may resolve a statutory issue necessary to a representation claim supported by operative facts independently showing arbitrariness, discrimination or bad faith.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The distinct existing lower-court remands on actual enforcement and the unaddressed Beck-notice claim remain effective; neither claim is decided. The wording rule creates no safe harbor for misleading notice, nonchargeable collection or unlawful enforcement, and the grace-period claim cannot obtain a judicial basis from an unrelated pending claim.
+
+**Treatment of earlier authority:**
+
+- Vaca v. Sipes, 386 U.S. 171: applies the distinct arbitrariness, discrimination and bad-faith grounds and preserves judicial enforcement of an independently supported representation duty.
+- Air Line Pilots Association v. O'Neill, 499 U.S. 65: applies the duty to negotiation and the broad but bounded range of reasonable bargaining choices; no intent-only test replaces it.
+- NLRB v. General Motors Corp., 373 U.S. 734: applies the limited financial meaning of compulsory membership rather than compelled full formal membership.
+- Communications Workers v. Beck, 487 U.S. 735: applies the limit on an objecting nonmember's chargeable representational expenses and the court's ability to decide a statutory issue necessary to a genuine representation claim. It does not impose an exhaustive drafting code in every agreement.
+- San Diego Building Trades Council v. Garmon, 359 U.S. 236: applies the Board's initial responsibility for the independent statutory timing dispute while preserving the distinct judicial representation action.
+
+No precedent is overruled.
+
+### This OIG examination is covered by the statutory representation right
+
+#### National Aeronautics and Space Administration v. Federal Labor Relations Authority
+
+**Docket or dockets:** No. 98-369.
+**Decided:** 1999-06-17.
+
+##### This OIG examination is covered by the statutory representation right
+
+**Holding:** An investigator employed in NASA's Office of Inspector General is a representative of NASA when conducting the agency-related examination presented here. Section 7114(a)(2)(B) requires an opportunity for the exclusive representative to assist at the examination of a unit employee in connection with an investigation when the employee reasonably believes discipline may result and requests representation; OIG's independence from ordinary management does not eliminate that relationship.
+
+**Proposition-level authority:** Breyer's Part I is joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg; six Justices adopt this rule, explanation and limits.
+
+**Limits and questions not reached:** The representative may assist but may not obstruct questioning, compromise protected information, direct the investigation or require bargaining at the interview; the investigator may insist on the employee's own account. Representation may not be reduced to silent observation where interference is otherwise established. The Court decides no universal interview protocol, outside-agency or FBI examination, wider criminal inquiry, national-security question or negotiated extension of rights.
+
+##### Headquarters may be directed to secure this limited statutory compliance
+
+**Holding:** Under the retained general-supervision relationship, NASA Headquarters may be required to direct OIG compliance with the limited representation right recognized here. That direction does not authorize Headquarters to determine investigative subjects, evidence, conclusions or termination or to bargain for expanded control over OIG procedures.
+
+**Proposition-level authority:** Breyer's Part II is joined by Stevens, Kennedy, Souter and Ginsburg, supplying five direct votes for the complete rationale. Stone-Zsela's additional vote supports the judgment only.
+
+**Treatment of earlier authority:**
+
+- NLRB v. J. Weingarten, Inc.: applies the limited assistance function of representation, preserving orderly questioning, the employee's own account and the prohibition on obstruction or required bargaining.
+- NFFE/FLRA v. Department of the Interior: applies the requirement of actual statutory authority and a reasoned agency choice; distinguishes its remand for an unexercised choice under a mistaken legal premise.
+- United States v. Haggar Apparel Co.: preserves separate inquiries into delegation, permissible construction and application; supplies no automatic validation or remand rule.
+- INS v. Aguirre-Aguirre: applies review of the actual permissible agency explanation without importing an automatic new-hearing requirement.
+- Dickinson v. Zurko: preserves its separate factual-review holding; it does not resolve this statutory interpretation or turn it into deferential factfinding.
+
+**Limits and questions not reached:** OIG independence does not remove this agency-related, discipline-capable examination from §7114(a)(2)(B). Request and reasonable fear remain necessary, and representation remains assistance within legitimate investigative limits. A separately justified Headquarters instruction to observe that statutory protection is permissible under retained general supervision. Neither holding confers control over investigative results or resolves every outside-agency, criminal or negotiated-right setting.
+
+**Operative remedy or transition:** Both components are affirmed 6–3. Supporting: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Opposing: O'Connor, Scalia and Thomas. Coverage and the Headquarters compliance duty rest on distinct grounds. Stone-Zsela joins coverage in full and agrees only with the Headquarters component's judgment, adding no ground on that duty.
+
+The compliance, notices and limited Headquarters direction remain enforceable. No damages, discipline, reinvestigation, universal interview protocol or new deadline is ordered. The Headquarters instruction requires statutory compliance and authorizes no control of investigative subjects, evidence, conclusions or termination.
+
+### 1. The statute leaves the extent of midterm bargaining to bounded Authority construction
+
+#### National Federation of Federal Employees, Local 1309 v. Department of the Interior / Federal Labor Relations Authority v. Department of the Interior
+
+**Docket or dockets:** Nos. 97-1184 and 97-1243.
+**Decided:** 1999-03-03.
+
+##### 1. The statute leaves the extent of midterm bargaining to bounded Authority construction
+
+**Holding:** The federal labor statute does not categorically forbid union-initiated bargaining during an existing agreement, nor does it unambiguously require one comprehensive midterm bargaining regime. The Authority may determine the duty's timing and extent through a reasonable, explained construction, subject to contract coverage, lawful waiver, negotiable-subject restrictions, management rights and federal-law consistency.
+
+**Proposition-level authority:** Stone-Zsela's Opinion of the Court, joined in full by Stevens, Kennedy, Souter, Ginsburg and Breyer, supplies a direct six-Justice majority for this holding and the holding below.
+
+##### 2. Contractual negotiability requires reconsideration under the corrected legal framework
+
+**Holding:** The absence of an independently compelled statutory entitlement does not itself make bargaining over a contractual midterm obligation unlawful. The Authority must reconsider the actual advance clause under the permissible statutory framework; its existing alternative rationale does not warrant an immediate direction to enforce this order because it remains tied to the premise that the general midterm regime was statutorily required.
+
+**Treatment of earlier authority:**
+
+- *Chevron* remains the framework for determining statutory meaning and the scope of permissible agency construction; no automatic deference follows from the agency label.
+- *MCI Telecommunications Corp. v. AT&T Co.* supplies the requirement that operative statutory limits be identified and enforced before administrative discretion is recognized; its tariff holding creates no general rule restricting agencies to minor choices.
+- *NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co.* supplies the distinction between genuine statutory discretion and the agency's reasoned exercise of it. Establishing authority alone does not validate the existing order.
+- *ICC v. Boston & Maine Corp.* supplies the discernible-agency-ground requirement. The Authority's contractual explanation is acknowledged rather than replaced with counsel's reasoning.
+- *Good Samaritan Hospital v. Shalala* preserves permissible considered changes of interpretation. Change alone does not disqualify the Authority's construction or compel this remand.
+- *AT&T Corp. v. Iowa Utilities Board* supplies the distinction between implementation authority, particular statutory restrictions and rules requiring agency reconsideration under the correct allocation. Its telecommunications rules are not transferred to federal labor relations.
+- *Your Home Visiting Nurse Services, Inc. v. Shalala* preserves statutory construction as distinct from additional regulatory deference; an administrative label cannot settle statutory power.
+- *Lebron v. National Railroad Passenger Corp.* permits consideration of a fairly included legal argument within a presented claim. The general-duty question here is expressly presented and supplies an actual agency premise; no new question or relief is added.
+
+**Limits and questions not reached:** Federal labor law now rejects a judicial categorical prohibition on all union-initiated midterm bargaining and all advance contractual clauses requiring it. The Authority retains responsibility for a reasoned choice within Congress's actual limits. The Court establishes neither a universal duty to entertain every midterm proposal nor final mandatory negotiability of this particular clause.
+
+The distinction between statutory entitlement and contractual negotiability remains legally meaningful, but the existing Survey order is returned for reconsideration rather than ordered enforced. Management rights, statutory consistency, lawful waiver and the agreement's actual coverage retain their independent force. The Authority's descriptions of express coverage, subjects inseparably bound up with covered subjects and matters fully explored during term negotiations are not findings about an unidentified proposal. No rule about compulsory negotiation or imposition of a comprehensive waiver clause is settled.
+
+**Operative remedy or transition:** **Vacated and remanded in both petitions, 6–3.**
+
+**Supporting:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia and Thomas.
+
+The cases return through the Fourth Circuit to the Authority for reconsideration under a framework that permits a reasoned agency choice within the statute's limits. The Court does not direct present enforcement of the existing Survey order or decide what the Authority must ultimately require. The dismissal of the allegations against Interior remains outside the relief, as does its uncharged disapproval of the parties' reservation agreement.
+
+### Notice-prejudice is saved insurance regulation
+
+#### UNUM Life Insurance Co. of America v. Ward
+
+**Docket or dockets:** No. 97-1868; judgment below, 135 F.3d 1276.
+**Decided:** 1999-04-20.
+
+##### Notice-prejudice is saved insurance regulation
+
+**Holding:** California's insurance-specific rule prevents an insurer from forfeiting coverage for late notice unless it proves actual prejudice and is saved by ERISA §514(b)(2)(A) as applied to this insured policy. The rule informs Ward's federal benefits action under §502(a)(1)(B); it creates no independent state enforcement remedy and establishes neither absence of prejudice nor entitlement to benefits.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+##### Mandatory administrative agency cannot rest on a no-relation premise
+
+**Holding:** A state rule assigning the employer an insurer-agency role because it performs benefit-plan administration directly connects with that administration under ERISA §514(a); the Ninth Circuit's contrary no-relation premise and contingent instruction cannot stand. The categorical administrative reassignment may not be used here, but the decision does not preempt every ordinary agency principle or resolve a properly presented voluntary or fact-specific agency undertaking.
+
+**Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The insurance considerations are guideposts, not three indispensable conjunctive elements; independent risk transfer is not decided. Self-funded plans, deemer-clause protection and other timing rules remain open. The agency holding supplies no general federal agency code or automatic ineffectiveness of employer notice; Ward did not press insurance saving for that distinct agency theory.
+
+**Operative remedy or transition:** Affirm the notice-prejudice ruling and reversal of insurer summary judgment; UNUM must prove actual prejudice. Reverse the no-relation agency premise and reconsider any material properly presented actual-agency theory under the corrected rule and policy's written-authorization provision. No benefits or actual-agency finding follows.
+
+**Treatment of earlier authority:**
+
+- Metropolitan Life Insurance Co. v. Massachusetts preserves substantive insurance-contract regulation; the saving clause covers this forfeiture limitation.
+- Pilot Life Insurance Co. v. Dedeaux excludes a competing state enforcement scheme; Ward's §502 benefits action presents a distinct question.
+- Travelers and De Buono distinguish indirect economic effects from direct regulation of benefits or administration; that distinction separates the two state rules here.
+- John Hancock Mutual Life Insurance Co. v. Harris Trust preserves compatible insurance obligations while requiring attention to actual federal conflict.
+- Hughes Aircraft Co. v. Jacobson distinguishes entitlement, administrative function and remedy; it supplies neither automatic benefits nor an additional state cause of action.
+
+### The EEOC may administer the compensation Congress expressly authorized
+
+#### West v. Gibson
+
+**Docket or dockets:** No. 98-238; review of 137 F.3d 992 (7th Cir. 1998).
+**Decided:** 1999-06-14.
+
+**Proposition-level authority:** Both holdings are adopted directly by Souter's opinion for Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; six Justices join the complete rules and explanations.
+
+##### The EEOC may administer the compensation Congress expressly authorized
+
+**Holding:** When federal-sector Title VII intentional discrimination falls within 42 U.S.C. §1981a's damages authorization, §2000e-16(b) permits the EEOC to award that compensation as an appropriate remedy. The agency must preserve §1981a's substantive conditions and monetary limits; its power does not depend on an administrative jury, and a proper court action retains the statutory jury election.
+
+**Limits and questions not reached:** The compensation category applies to unlawful intentional discrimination, not disparate impact, and requires that the complaining party cannot recover under §1981. It excludes backpay, interest on backpay and other relief authorized by §706(g). The statutory caps remain applicable, and punitive damages are unavailable against governments, government agencies and political subdivisions. When available §102 damages are sought in court, any party may demand a jury; the court must not tell that jury the statutory caps. No damages under another statute or free-standing appropriations authority follow.
+
+##### Statutory authority does not decide Gibson's preserved procedural alternatives
+
+**Holding:** The Seventh Circuit's no-power premise cannot sustain its judgment, but identifying an available administrative remedy does not establish whether Gibson exhausted it or has a properly preserved alternative answer to the exhaustion defense. The reviewed judgment must be vacated and remanded for consideration of proper presentation and, if appropriate, resolution of those alternatives.
+
+**Treatment of earlier authority:**
+
+- Lane v. Peña: applies the requirement of unequivocal remedy-specific consent and distinguishes its academy-program scheme from the express federal-employment compensation authorized here; Lane remains controlling.
+- Landgraf v. USI Film Products: preserves the separate compensation category, its limits and the dependent jury election. Gibson's 1992 conduct does not implicate the preenactment exclusion.
+- Department of the Army v. Blue Fox: applies its demand for an actual statutory entitlement; the coordinated Title VII enactments supply authority that an equitable label alone could not create.
+- McCarthy v. Madigan: preserves statutory primacy and the inquiry into the actual administrative scheme; its damages-only BOP result supplies no general Title VII exhaustion exception.
+
+**Limits and questions not reached:** Federal-sector Title VII compensation expressly authorized by §1981a may be administered by the EEOC under §717(b). The statutory damages conditions and court-stage jury rights remain distinct from the agency's remedial authority. Whether an employee exhausted the process, preserved an alternative ground or proved a compensable injury remains a separate inquiry.
+
+**Operative remedy or transition:** The judgment is 6–3. Supporting: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Opposing: Scalia, Kennedy and Thomas, who would affirm the reviewed component. The Seventh Circuit must consider whether Gibson properly raised his remaining arguments and, if so, resolve them under the correct rule of EEOC authority. The Court does not reinstate the district court's nonexhaustion dismissal, award damages or decide actual exhaustion or estoppel. Completed promotion/backpay enforcement, rejected frontpay and transfer claims, and the retained fee matter are outside the reviewed component.
+
+### Neither instrument clearly waives the statutory judicial forum
+
+#### Wright v. Universal Maritime Service Corp., 525 U.S. 70
+
+**Docket or dockets:** No. 97-889; Fourth Circuit No. 96-2850
+**Decided:** 1998-11-16.
+
+##### Neither instrument clearly waives the statutory judicial forum
+
+**Holding:** A union-negotiated surrender of an employee's judicial forum for an independent federal discrimination claim must be clear and unmistakable: the agreement must identify that statutory claim or an equivalent class of federal rights rather than merely submit contractual disputes. Neither this CBA nor the separate Seniority Plan does so, and their grievance provisions cannot support dismissal of Wright's ADA action for nonexhaustion; whether a sufficiently explicit collective waiver would be enforceable remains undecided.
+
+**Proposition-level authority:** Breyer's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The judgment vacates the exhaustion dismissal and returns the ADA claim for ordinary proceedings unless another independently lawful ground disposes of it. Neither instrument supports compelled arbitration. Explicit union-waiver enforceability, general FAA coverage, the ADA merits, qualifications and independent defenses remain undecided.
+
+**Treatment of earlier authority:**
+
+- Alexander v. Gardner-Denver Co.: applies the distinction between collective contractual rights and the individual's statutory discrimination claim; no categorical decision on explicit waiver enforceability is added.
+- Metropolitan Edison Co. v. NLRB: applies the requirement of a clear waiver of protected statutory rights to the forum question presented.
+- Gilmer v. Interstate/Johnson Lane Corp.: distinguishes its actual individual statutory-claim agreement; enforceability there does not create assent here.
+- AT&T Technologies v. Communications Workers: preserves judicial determination of the submission actually made before arbitration may be compelled.
+- First Options of Chicago v. Kaplan (May 22, 1995): applies antecedent assent and independent judicial determination; its arbitrability-delegation rule is not expanded into an already-decided universal collective-waiver rule.
+- Mastrobuono v. Shearson Lehman Hutton: applies integrated, instrument-specific construction; no contractual presumption supplies missing statutory-forum language.

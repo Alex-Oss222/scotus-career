@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Property and Economic Rights
 
@@ -978,6 +978,8 @@ For this case’s finality, statutory-jury and Seventh Amendment holdings, see F
 
 **Proposition-level authority:** Souter’s Part VI is joined by Stone-Zsela, O’Connor, Kennedy, Ginsburg and Breyer: six direct supporters including Souter for this implementation mandate. Conditional views of the whole-island dissenters supply no further mandate votes.
 
+**Current-force modification:** The Court separately entered the implementing decree on May 17, 1999, 526 U.S. 589, completing this recommittal. Its six-part instrument, complete 182-course perimeter and incorporated December 1, 1998 map now fix the boundary and include the accepted historical filled-pier land once. Approximate acreage and an additional pier parcel do not replace that perimeter. The 1998 Compact construction and territorial entitlement remain unchanged; the decree's injunction and retained implementation jurisdiction govern enforcement.
+
 **Limits and questions not reached:** Existing reliable survey work may be used; neither a new full survey nor new merits trial is compelled. No exact coordinates, final acreage, present undefined injunction or determination of unpresented municipal, regulatory or tax consequences is supplied.
 
 **Operative remedy or transition:** The six-Justice territorial result preserves New Jersey’s later fill and New York’s original island. New York’s three exceptions and New Jersey’s shore and pier exceptions are overruled; New Jersey’s objection to administrative reconfiguration is sustained. Recommittal must produce an authenticated, internally consistent proposed decree for separate consideration and entry. Neither proposed survey is a final geographic decree.
@@ -996,6 +998,7 @@ For this case’s finality, statutory-jury and Seventh Amendment holdings, see F
 - **Mississippi v. Louisiana, December 14, 1992:** Preserved at the distinction between this Court's exclusive interstate adjudication and otherwise lawful private-title litigation.
 - **Hess v. Port Authority Trans-Hudson Corp., November 14, 1994:** Its actual-compact, entity-specific immunity inquiry remains distinct from territorial sovereignty and supplies no power to rewrite this boundary.
 
+**Later-authority backlinks:** New Jersey v. New York, No. 120, Original, implementing decree entered May 17, 1999, 526 U.S. 589: geographic implementation and enforcement of the May 26, 1998 judgment.
 
 ### Ownership of interest on pooled client funds
 
@@ -1052,3 +1055,69 @@ The Court does not decide whether Texas has taken the interest, whether compensa
 **Treatment of earlier authority:** Phillips's actual-interest ownership rule is distinguished; Concrete Pipe's contextual rejection of its particular pension claim is preserved; Marks supplies no common affirmative rationale for the present reversal.
 
 **Operative remedy or transition:** The First Circuit judgment is reversed to the stated extent. The case returns through that court for entry of declaratory and injunctive protection against Eastern’s assessed tier-three liability, with other statutory and contractual matters outside this disposition. No compensation proceeding or new factual finding is directed.
+
+
+### Profitable timber use defeats only the complete-deprivation category
+
+#### Dodd v. Hood River County
+
+**Docket or dockets:** No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219.
+**Decided:** 1998-11-19.
+
+##### Profitable timber use defeats only the complete-deprivation category
+
+**Holding:** The binding finding that this parcel retains profitable timber use defeats a Lucas claim that the restriction eliminated all economically beneficial use. It does not itself decide partial deprivation under Penn Central, and no background-property limitation need be found when the necessary complete loss has not been established.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Part II, joined by all eight Associate Justices; Stone-Zsela does not join.
+
+##### The independent contextual federal inquiry supports this summary judgment
+
+**Holding:** A partial-taking claim requires consideration together of economic impact, reasonable investment-backed expectations and the character of governmental action; retained value, acquisition under an existing restriction or a legitimate regulatory objective alone is not dispositive. On this undisputed record, continued profitable timber use, the existing necessary-and-accessory dwelling condition, nonassuring County communications and the forest-management character of the restriction support rejection of the claim; the restriction also bears the required relationship to the specified forestry purposes under the received Agins inquiry, without a demanded conveyance triggering Dolan.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Part III, joined by all eight Associate Justices; Stone-Zsela does not join.
+
+##### Later permission limits the claimed duration without curing a prior taking
+
+**Holding:** The July 1, 1996 building authorization ends treatment of this dispute as an ongoing prohibition but does not itself defeat compensation for an earlier proved taking. Because the independently considered total- and partial-taking grounds establish no antecedent violation here, the actual-period claim supplies no compensation or basis for new factfinding.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Part IV, joined by all eight Associate Justices; Stone-Zsela does not join.
+
+**Limits and questions not reached:** The preclusive finding concerns profitable timber use, not every federal element or a precise residual valuation. The judgment is affirmed on the eight-Justice independent federal grounds; no permit, compensation or jury trial is ordered. Later permission limits duration and is not a retrospective cure for an otherwise proved taking.
+
+**Treatment of earlier authority:**
+
+- Baker v. General Motors Corp. (January 13, 1998): applies its unanimous lawful-recognition component, not its distinct testimony-process application.
+- Allen v. McCurry: applies ordinary issue preclusion to an actually litigated state determination; the entire federal cause is not equated with the state claim.
+- Kremer v. Chemical Construction Corp.: preserves the distinction between an adequate available opportunity and failure to employ every procedure.
+- Richards v. Jefferson County: preserves constitutional authority to bind and fair opportunity; these participating owners differ from absent litigants without a sufficient binding relationship.
+- England v. Louisiana State Board of Medical Examiners: preserves federal questions after abstention without creating a unilateral exemption for necessary findings from separate state proceedings.
+- Williamson County Regional Planning Commission v. Hamilton Bank: retains its then-effective compensation prerequisite at the boundaries preserved in Del Monte Dunes; no new ripeness rule is adopted.
+- Lucas v. South Carolina Coastal Council: applies complete-deprivation requirements and preserves the conditional background-law burden and distinct partial-taking analysis.
+- Penn Central Transportation Co. v. New York City: applies the combined economic-impact, expectations and governmental-character inquiry; no single-factor shortcut is adopted.
+- Del Monte Dunes at Monterey, Ltd. v. City of Monterey (June 16, 1997): preserves the total/partial distinction, actual-period compensation, bounded purpose-relationship inquiry and ordinary judicial sufficiency review alongside its jury rule.
+- Agins v. City of Tiburon: applies the received relationship inquiry only to this restriction's stated forest-management purposes, without a comprehensive new substantial-advancement formulation.
+- Dolan v. City of Tigard: distinguishes its demanded-conveyance nexus-and-proportionality burden; no such exaction is present here.
+- First English Evangelical Lutheran Church v. County of Los Angeles: preserves compensation for a proved taking's actual duration; later permission is not a retrospective cure.
+
+For the other questions in Dodd v. Hood River County, decided 1998-11-19, No. 98-54; Ninth Circuit No. 97-35124; 136 F.3d 1219., see Federal Courts.
+
+### Geographic implementation of the existing judgment
+
+#### New Jersey v. New York, 526 U.S. 589
+
+**Docket or dockets:** No. 120, Original.
+**Decided:** 1999-05-17.
+
+##### Geographic implementation of the existing judgment
+
+**Holding:** The six-part instrument and incorporated map fix the interstate boundary under the prior judgment: New Jersey retains the later artificial fill, and New York retains the original island to its 1834 low-water line, including the accepted historical filled pier once. The complete perimeter controls; neither approximate acreage nor a separately added pier parcel replaces it.
+
+**Proposition-level authority:** The Court's unsigned implementing decree, No. 120, Original, May 17, 1999,526 U.S. 589; no numerical vote or individual lineup is announced.
+
+**Limits and questions not reached:** The six-part instrument, full 182-course perimeter and appended December 1, 1998 map are incorporated as the complete geographic decree; approximate acreage or an additional separately counted pier parcel cannot replace it. No prescription reopening or new municipal-regulation, taxation, private-title, federal-monument, public-access, damages or later-reclamation holding is made.
+
+**Operative remedy or transition:** Paragraph I enjoins New York's enforcement of its laws or assertion of sovereignty over the territory assigned to New Jersey within paragraph IV. Paragraph V retains implementation jurisdiction; paragraph VI divides equally the Special Master's and assistants' compensation and the Master's litigation expenses.
+
+**Treatment of earlier authority:**
+
+New Jersey v. New York, decided May 26, 1998, is implemented without changing its Compact construction, territorial entitlement, rejected exchange or reserved questions.

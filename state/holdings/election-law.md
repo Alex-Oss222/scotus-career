@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Election Law
 
@@ -242,6 +242,8 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 
 **Proposition-level authority:** Scalia's statutory opinion, joined by the other eight Justices; all nine adopt the stated single-member extension and record application. No fractured-opinion or Marks inference is required.
 
+**Current-force modification:** Valdespino v. Alamo Heights Independent School District, June 17, 1999, modifies the exclusivity of the district-majority condition for one protected group. The group may instead prove a lawful, geographically compact district in which cohesive voting and dependable crossover support give it actual ability to elect its candidates of choice. The numerical-majority route survives; speculation, isolated electoral success, near-majority arithmetic and influence alone do not establish the alternative. Cohesion, the relevant majority-bloc showing with its special-circumstances qualification, causation, independent totality and constitutional limits remain necessary. The distinct-group coalition and influence-only reservations are not resolved.
+
 **Treatment of earlier authority:**
 
 - Thornburg v. Gingles, 478 U.S. 30 (1986): extended from multimember dilution to the single-member fragmentation claim at issue; its causal prerequisites and totality inquiry remain distinct, and its influence-only reservation remains open.
@@ -249,6 +251,8 @@ For standing and APA review in Franklin v. Massachusetts, June 26, 1992, No. 91-
 **Limits and questions not reached:** Gingles prerequisites are necessary, not sufficient; the totality inquiry remains. No proportional representation, mandatory statistical method, filing-date priority or enlarged party-preclusion rule is adopted. Coalition permissibility is assumed; influence claims and population denominator remain open.
 
 **Operative remedy or transition:** Reverse the federal redistricting judgment. Eight Justices—White, Blackmun, Stevens, O’Connor, Scalia, Kennedy, Souter and Thomas—direct dismissal of this action; Stone-Zsela supports reversal but would allow conditional retention. That case-specific mandate does not abolish the unanimous general rule permitting reserve jurisdiction.
+
+**Later-authority backlinks:** Valdespino v. Alamo Heights Independent School District, lower docket 98-50227, June 17, 1999: first-condition functional ability-to-elect alternative for a single protected group.
 
 ### Territorial racial design and constitutional deprivation
 
@@ -1159,3 +1163,468 @@ Related questions in Libertarian Party of Florida v. Smith, 1998-09-21, dockets 
 **Material application:** The Court cannot supply an operative definition the appellate record leaves unsettled or decide severability from the label alone. The existing remand permits those questions and any properly supported interim-relief request to be decided under their own standards. Day v. Holahan prevents automatic denial of MCFL protection solely because an ideological nonprofit accepts some corporate money; it does not establish that MRLC's funding is insignificant, noncommercial or free of conduit features. The Court therefore neither grants an organizational exemption nor assumes commercial-treasury status. Genuine-coordination restrictions, express-advocacy provisions not successfully challenged, and distinct statutory membership exclusions retain their lawful scope.
 
 **Treatment of earlier authority:** Day and MCFL require actual organizational and funding characteristics; Austin's surviving corporate-treasury rule remains available in its materially different setting. No prior decision is overruled.
+
+
+### A primary barrier must be tested against actual nomination opportunity
+
+#### Brooks v. Barnes
+
+**Docket or dockets:** No. 98-1521; judgment below, Brooks v. Miller, 158 F.3d 1230.
+**Decided:** 1999-04-22.
+
+##### A primary barrier must be tested against actual nomination opportunity
+
+**Holding:** A Section 2 challenge to a primary-runoff barrier turns on protected voters' equal opportunity in the affected nomination or election process, supported political cohesion and majority bloc voting in the affected electoral settings, and the totality of circumstances. It does not require proof that every additional minority-preferred nominee would win the general election, and neither candidate race, the rarity of runoffs among all primaries nor a conclusive statewide offset of winners can replace the inquiry into the affected voters' actual opportunity.
+
+**Proposition-level authority:** Souter's Parts I–II, joined by Stevens, O'Connor, Kennedy, Ginsburg and Breyer (six Justices).
+
+##### The supported purpose findings sustain constitutional rejection
+
+**Holding:** A constitutional challenge requires proof of discriminatory purpose attributable to the challenged enactment, assessed from the whole relevant record rather than electoral outcomes alone. The supported findings distinguishing the failed 1963 proposal from the enacted 1964 measure are not clearly erroneous; the historical racial climate and earlier motives do not compel a contrary purpose finding for the later enactment.
+
+**Proposition-level authority:** Souter's Part III, unanimous.
+
+##### The independent same-enactment finding also defeats causation
+
+**Independent alternative holding:** If discriminatory purpose was a substantial or motivating factor, the defenders bear the burden of showing that the same measure would have been enacted without that factor. The supported independent finding that the 1964 measure would have passed for the credited anti-manipulation and election-administration reasons satisfies that burden here and independently sustains constitutional affirmance.
+
+**Proposition-level authority for alternative holding:** Souter's Part III, unanimous; the same-enactment determination is independently sufficient.
+
+**Limits and questions not reached:** Section 2 results and constitutional purpose remain distinct. No violation, plurality system, alternate threshold, racial vote guarantee or new statistical study is ordered; a remedy requires a proved violation and lawful comparison.
+
+**Operative remedy or transition:** Vacate and remand the statutory claim under corrected nomination-opportunity standards; affirm the constitutional judgment on supported purpose findings and the independent same-enactment ground.
+
+**Treatment of earlier authority:**
+
+- Gingles supplies causal predicates, totality and deference to supported findings under the correct legal standard.
+- Voinovich preserves the claimant's burden and separates lawful state choices from a compelled federal remedy.
+- Holder requires a grounded comparison; it supplies no ideal electoral system or quota.
+- De Grandy rejects maximization and conclusive numerical offsets while preserving actual local opportunity.
+- Southern Christian Leadership Conference of Alabama v. Sessions requires correct opportunity and remedy standards while retaining supported subsidiary findings.
+- Arlington Heights makes the full historical and decisionmaking context relevant to purpose.
+- Hunter v. Underwood and Mt. Healthy supply the distinct motivating-factor and same-enactment sequence, including the defenders' burden.
+- Bossier Parish keeps statutory results and purpose separate; its preclearance posture does not transfer a different burden into this suit.
+
+### The reimbursement condition does not establish the claimed exclusion or transfer of electoral authority
+
+#### Brower v. Washington
+
+**Docket or dockets:** No. 98-1510; judgment below Brower v. State, 137 Wash. 2d 44, 969 P.2d 42.
+**Decided:** 1999-03-25.
+
+##### The reimbursement condition does not establish the claimed exclusion or transfer of electoral authority
+
+**Holding:** A legislature may refer this particular public-private proposal subject to the beneficiary's undertaking to reimburse public election costs when the arrangement preserves equal franchise, viewpoint neutrality and meaningful legal participation. On this record the condition neither charges citizens for voting or ordinary petition access nor transfers electoral administration or the public's approval power to the beneficiary.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+##### The supported timing and resource-disparity claim establishes no right to delay or equalize the campaign
+
+**Holding:** The short campaign and opposition's inability to match the beneficiary's resources do not, on this record, establish the asserted abridgment of political expression or a right to postpone the election or equalize advocacy. A supported practical inability to organize or communicate, or a deliberately disabling calendar, would require analysis of that actual burden and the State's precise scheduling justification.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+##### Financial consent is not an additional governmental electoral vote
+
+**Holding:** The affiliate's agreement to reimburse costs is an antecedent financial condition of this legislative proposal, not an allocated vote in the public electorate's decision. Because it gives the affiliate no ballot and changes no citizen's voting weight or the public tally, it does not violate the asserted federal equal-vote rule.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court.
+
+**Limits and questions not reached:** No general private-reimbursement or campaign-duration safe harbor, right to resource parity or transfer of electoral voting power follows. A supported inability to organize or communicate or deliberately disabling calendar requires actual-burden analysis. State-law holdings are not adopted as federal law.
+
+**Operative remedy or transition:** Affirm the presented federal components without a new election, changed tally, injunction, damages or unwinding of reimbursement.
+
+**Treatment of earlier authority:**
+
+- Anderson and Burdick supply the actual-burden and justification inquiry; Burdick's write-in application creates no categorical presumption for private reimbursement.
+- Buckley v. American Constitutional Law Foundation, decided January 12, 1999, supplies protection against direct restraints on political conversation. Its invalid registration, badge and disclosure restrictions are not facts of this case.
+- Citizens for a Constitutional Convention v. Yoshina, decided January 21, 1999, supplies attention to actual legal effect and preserves review of fundamentally unfair administration. State-law authorization alone remains insufficient to answer a federal injury.
+- National Committee of the Reform Party v. Democratic National Committee, decided March 17, 1999, rejects the presented resource-parity entitlement while preserving actual suppression and discriminatory administration. That limit is retained here.
+- Gable v. Patton remains a threshold disposition, not a controlling election-financing merits rule.
+- Reynolds v. Sims supplies equality in governmental voting weight; it does not classify this financial undertaking as an electoral vote.
+- White v. Regester is distinguished because its district-dilution setting differs; equal-vote review is not categorically confined to district elections.
+
+### I. Registered-voter condition
+
+#### Buckley v. American Constitutional Law Foundation, Inc.
+
+**Docket or dockets:** No. 97-930; 120 F.3d 1092.
+**Decided:** 1999-01-12.
+
+**Proposition-level authority:** Stevens's Court opinion is joined by Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg throughout. Those six directly support Parts I, III-A and III-B. O'Connor and Breyer additionally join Part II, giving that component eight full rationale votes. Thomas concurs in every invalidity judgment on separate grounds; his judgment votes are not full joins in the Court's methodology. The rule's limits accompany each component.
+
+##### I. Registered-voter condition
+
+**Holding:** Colorado may not require otherwise qualified resident-adult initiative circulators to be registered voters on this record. Excluding otherwise qualified speakers because they are unregistered substantially burdens protected petition circulation, while the retained identification and enforcement mechanisms serve traceability more closely.
+
+##### II. Personal name displayed during solicitation
+
+**Holding:** Colorado may not compel every circulator to display a personal name on a badge during protected face-to-face petition advocacy when the retained post-circulation identification and enforcement measures serve the asserted interests with materially less speech burden. The personal-name component is invalid; standalone paid-or-volunteer and employer-information requirements are not adjudicated.
+
+##### III-A. Final individual-circulator reports
+
+**Holding:** The challenged final-report requirements publishing each paid circulator's identity, address and individual compensation fail the required substantial relationship to Colorado's asserted informational and enforcement interests on this record. Disclosure of initiative proponents and aggregate spending remains distinct; the decision creates no categorical exemption from initiative-finance disclosure.
+
+##### III-B. Monthly individual-circulator reports
+
+**Holding:** Colorado's challenged monthly requirements publishing each paid circulator's identity, residential and business addresses and individual amounts paid or owed are likewise invalid on this record. The Court decides that individual-information package, not the independent validity of every other monthly-report field.
+
+**Limits and operative remedy:** The reviewed registration, personal-name and individual-disclosure invalidations stand. Age, circulation timing, verification affidavits, fraud and signature-review mechanisms are outside the reviewed invalidations and remain governed by their own terms. This decision does not invalidate standalone paid-status or sponsor attribution, create a replacement initiative code, grant damages, destroy public records, authorize fraud or decide every future disclosure rule. Unreviewed requirements receive no automatic new constitutional endorsement.
+
+**Treatment of earlier authority:**
+
+- **Meyer v. Grant, 486 U.S. 414:** Applied to the protected political interaction and reduction of available speakers; ordinary properly fitted administration remains possible.
+- **McIntyre, April 19, 1995:** Extended to the personal-name demand during live petition advocacy at the stated narrow-fit scope; candidate-finance, organizational and independent post-circulation settings retain their distinctions.
+- **Riley v. National Federation of the Blind, 487 U.S. 781:** Applied to protection of paid solicitation and the burden of compelled speech during the encounter; its discussion supplies no adjudication of the reserved badge fields.
+- **Anderson v. Celebrezze and Burdick, June 8, 1992:** Their burden-sensitive administrative inquiry remains; the Court applies the actual petition-speech burdens rather than treating every election regulation as equally severe.
+- **Timmons, April 28, 1997:** Distinguished as a candidate-nomination setting; it supplies no automatic lesser review for these speaker restrictions.
+- **Buckley v. Valeo, 424 U.S. 1:** Its disclosure scrutiny and legitimate financial-information interests are applied to each report; no categorical initiative-disclosure immunity is adopted.
+- **Kentucky Right to Life, September 14, 1998:** Its payer and source-identification distinctions remain; identification of the financer does not automatically justify identifying each messenger.
+
+**Limits and questions not reached:** Registration cannot be used to exclude otherwise qualified resident-adult circulators; personal names cannot be compelled on the challenged solicitation badge; and the reviewed final and monthly individual-disclosure packages cannot be enforced. Governing law preserves distinct authority for lawful administration, verification, fraud controls, sponsor and aggregate disclosures. The independent validity and remedial treatment of unreviewed badge and monthly fields remain outside this judgment. No fractured-opinion or narrowest-ground synthesis is needed: each Court holding has at least six direct joins, and the badge holding has eight.
+
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Registered-voter condition | Affirm invalidation, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg | O'Connor, Breyer | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
+| Personal-name badge | Affirm invalidation, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
+| Final individual-circulator disclosures | Affirm reviewed invalidation, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg | O'Connor, Breyer | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
+| Monthly individual-circulator disclosures | Affirm reviewed invalidation, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas and Ginsburg | O'Connor, Breyer | Reviewed invalidation remains in force; scope and reserved fields stated in the holdings. |
+
+The Court neither independently validates nor invalidates unreviewed badge and monthly-report fields. Ordinary implementation respects the actual lower judgment and the precise review scope.
+
+### II. The record does not establish fundamental unfairness
+
+#### Citizens for a Constitutional Convention v. Yoshina
+
+**Docket or dockets:** No. 98-671; Ninth Circuit Nos. 97-16408, 97-16543, 97-16540 and 97-16596.
+**Decided:** 1999-01-21.
+
+##### II. The record does not establish fundamental unfairness
+
+**Holding:** A state court's neutral interpretation of an ambiguous election provision does not violate due process merely because election officials earlier gave a contrary advisory interpretation. Federal relief remains available for fundamentally unfair administration, but the dissemination, reliance and voting circumstances here do not establish the pervasive deprivation needed to overturn the 1996 legal result or certify approval.
+
+**Proposition-level authority:** Part II of Souter's opinion is joined by all eight other Justices; it states the Court's controlling due-process rule and application.
+
+**Treatment of earlier authority:**
+
+- *Church of Scientology of California v. United States* is applied to distinguish possible meaningful relief from success on the merits; it retains that distinction.
+- *Spencer v. Kemna* is applied to require a concrete continuing interest; the maintained 1996 recognition claim supplies it here.
+- *Steel Co. v. Citizens for a Better Environment*, *NAACP, Los Angeles Branch v. Jones* and *Wisconsin Right to Life v. Paradise* are applied to keep Article III injury and substantial merits failure separate; none permits jurisdiction to be assumed.
+- *Rooker v. Fidelity Trust Co.* and *District of Columbia Court of Appeals v. Feldman* are distinguished because these federal claimants were not losing parties in the state action; the Court does not reopen state-law construction.
+- *Ex parte Young* is applied to the prospective federal claim against officials; *Pennhurst State School & Hospital v. Halderman* retains its bar against directing state officials on a federal court's contrary view of state law.
+- *Burdick v. Takushi* is applied to actual burdens and justified administration and to the absence of a general expressive-ballot entitlement. Its contextual inquiry remains intact.
+- *Smiley v. Citibank* is distinguished from an automatic answer to an election-reliance claim; its reservation concerning displacement of settled guidance remains.
+- *Gordon v. Lance* is applied to nondiscriminatory heightened approval requirements; no new discriminatory threshold is approved.
+- *Buckley v. American Constitutional Law Foundation* is distinguished because its personal-attribution burden is absent here.
+- *U.S. Bancorp Mortgage Co. v. Bonner Mall Partnership* remains undisturbed: the equitable vacatur question premised on subsequent mootness does not arise for this continuing merits controversy.
+
+**Limits and questions not reached:** this record supplies no federal right to certify the 1996 convention proposal as approved or require another vote. Due process still reaches fundamentally unfair election administration; lawful state interpretive authority alone does not immunize materially different official inducement. The First Amendment distinguishes neutral approval thresholds from compelled attribution. A subsequent election does not automatically extinguish a concrete maintained claim to the legal effect of an earlier vote. No state constitutional counting rule is rewritten, and no broader rule concerning deliberately misleading directions is established.
+
+**Operative remedy or transition:** **Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The rejection of both federal constitutional claims and the vacatur of the district court's new-election injunction and associated stay stand. Certification of 1996 approval is denied because the asserted federal violation is not established. No third referendum is ordered. The Court does not vacate the merits judgment for mootness, award a new fee amount, or independently decide intervention entitlement. 
+
+
+For the other questions in Citizens for a Constitutional Convention v. Yoshina, decided 1999-01-21, at the dockets stated above, see Federal Courts, First Amendment.
+
+### Candidate expenditures and the asserted municipal interests
+
+#### City of Cincinnati v. Kruse
+
+**Docket or dockets:** No. 98-454; Sixth Circuit Nos. 97-3193, 97-3194 and 97-3210; 142 F.3d 907.
+**Decided:** 1998-12-16.
+
+##### Candidate expenditures and the asserted municipal interests
+
+**Holding:** Cincinnati may not impose this mandatory ceiling on the total campaign expenditures of a candidate or candidate committee. A direct limit on the quantity of candidate advocacy receives the demanding First Amendment review applicable to expenditures; the accepted corruption, campaign-cost, equalization, official-work and public-confidence grounds do not justify this salary-linked, source-independent restraint.
+
+**Proposition-level authority:** Kennedy's opinion for the unanimous Court supplies the complete rule, application and limits. Every participating Justice joins it in full.
+
+**Material application:** The invalid ceiling is three times annual council compensation and governs candidate or candidate-committee election spending. Its exclusions for independent expenditures, uncompensated volunteer services and the described party slate or sample-ballot publications identifying endorsed candidates do not cure the restriction on candidate expression. The Sixth Circuit's invalidation is affirmed; no further evidentiary proceeding or replacement ceiling is ordered.
+
+**Treatment of earlier authority:**
+
+- **Buckley v. Valeo, 424 U.S. 1:** Applied to a mandatory candidate-expenditure ceiling; its contribution/expenditure distinction and rejection of cost and equalization grounds remain effective.
+- **Colorado Republican Federal Campaign Committee v. FEC, June 26, 1996:** Applied for its actual-transaction distinction; its independent-party-expression holding is not enlarged into a ruling on every coordinated expenditure.
+- **Kentucky Right to Life v. Stengel, September 14, 1998:** Distinguished because its receipt and intermediary controls regulate different transactions; their governing rules remain intact.
+- **Austin v. Michigan Chamber of Commerce, 494 U.S. 652:** Its distinct corporate-treasury rationale does not authorize this all-candidate ceiling; no broader treatment of Austin is adopted.
+- **NAACP, Los Angeles Branch v. Jones, November 5, 1998:** Its vacatur leaves the lower financing merits unavailable as a completed holding; it decides neither the validity of this ceiling nor a wealth-primary theory.
+
+**Limits and questions not reached:** The existing distinction between contributions and expenditures governs this municipal ceiling. Cincinnati cannot enforce the challenged limit. No general contribution, disclosure or voluntary-financing rule changes, and the decision creates no compulsory empirical-testing requirement or categorical ruling on every measure addressing officeholder time.
+
+**Operative remedy or transition:** **Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The judgment invalidating the challenged ceiling and protecting against its enforcement remains in force. The separate contribution and disclosure provisions, voluntary-financing arrangements and any damages question are not adjudicated. No new ceiling or evidentiary hearing is directed.
+
+### Predominance alone cannot support this injunction
+
+#### Hunt v. Cromartie
+
+**Docket or dockets:** No. 98-85; judgment below, 34 F. Supp. 2d 1029.
+**Decided:** 1999-05-17.
+
+##### Predominance alone cannot support this injunction
+
+**Holding:** A districting injunction cannot rest solely on a finding that race predominated in forming a common territorial electorate, even if ordinary districting criteria were subordinated. A plaintiff must establish a separately cognizable denial of equal participation or treatment; remand evaluates any such actually presented claim under its own elements and ordinary procedural rules.
+
+**Proposition-level authority:** Ginsburg's Parts II–III, joined by Stone-Zsela, Stevens, Souter and Breyer (five Justices).
+
+**Limits and questions not reached:** Predominance alone supplies neither constitutional injury nor a reason for trial. The Court does not finally validate the map, create a new claim, deem an unknown claim forfeited or independently decide the State's own summary-judgment motion.
+
+**Operative remedy or transition:** Vacate the summary judgment and injunction unanimously; the five-Justice mandate permits only actually presented independently cognizable claims under their own elements and ordinary procedure.
+
+**Treatment of earlier authority:**
+
+- Shaw v. Reno is applied: territorial racial composition alone does not establish the asserted unequal-treatment injury.
+- Johnson v. Miller controls both the substantive insufficiency of predominance alone and the distinction between evidentiary dispute and legal materiality; its genuine-injury protections and limits remain.
+- Coalition for Economic Equity v. Wilson is distinguished as an actual political-access burden, not authority to infer such a burden from motive or constituency composition.
+
+For the other questions and complete operative scope in Hunt v. Cromartie, 1999-05-17, No. 98-85; judgment below, 34 F. Supp. 2d 1029, see Federal Courts.
+
+### I. State compulsion does not exempt covered administration
+
+#### Lopez v. Monterey County
+
+**Docket or dockets:** No. 97-1396; Northern District of California No. C-91-20559-RMW.
+**Decided:** 1999-01-20.
+
+**Proposition-level authority:** Thomas delivers the opinion of the Court. The eight Associate Justices join Parts I–V. Stone-Zsela joins Parts I, II and IV, and Part III only insofar as it rejects delay as authorization for prospective use and rejects the internal-administration characterization of a direct electorate change. He agrees in rejection of the collateral-designation defense and in the dependent tenure-order disposition without adding grounds to those parts. Each controlling part thus has at least eight direct joins. No separate constitutional justification for Section 5 is adopted.
+
+##### I. State compulsion does not exempt covered administration
+
+**Holding:** A covered political subdivision must obtain Section 5 preclearance before administering a postbaseline voting change within that subdivision, even when a noncovered State mandates the change and leaves no local discretion. The duty attaches to the County's administration; it does not require California to submit its laws in the abstract.
+
+##### II. The actual submission controls the reach of approval
+
+**Holding:** Replacing district electorates with a countywide electorate for judges is a covered change in voting, and a submission does not preclear earlier operative changes it failed to identify. The District Court must determine the actual reach of the 1983 submission as to the final ordinance; its attachment and the Attorney General's nonobjection do not establish blanket approval of the preceding consolidations.
+
+##### III. Delay and a collateral designation challenge do not authorize prospective use
+
+**Holding:** Delay does not authorize prospective administration of an operative covered change that lacks preclearance, and the effective Section 4(b) coverage determination cannot be collaterally retried in this Section 5 enforcement action. Statutory bailout remains a distinct route; reliance, completed acts and practical timing may bear on legally available retrospective relief or a lawful transition, without supplying clearance.
+
+##### IV. Nonuse and the confined judicial-plan alternative
+
+**Holding:** The District Court must prevent prospective use of established operative changes lacking preclearance until approval is obtained through the Attorney General or the District Court for the District of Columbia. A necessary temporary plan wholly formulated by the federal court is distinct only if supported by independent lawful remedial authority, consistent with the Constitution and Voting Rights Act, no more displacing of state law than necessity requires, and limited to the period before a lawful precleared arrangement becomes available.
+
+##### V. The dependent tenure order requires lawful reconsideration
+
+**Holding:** The disposition of the judicial-term-extension order must be set aside insofar as it depends on the rejected exemption and reconsidered under the corrected legal premise and actual circumstances. Reversal does not automatically revive an expired arrangement, extend any judge's tenure, install or remove an officeholder, cancel a completed election or invalidate judicial acts.
+
+**Treatment of earlier authority:**
+
+- **Lopez v. Monterey County, November 6, 1996:** Enforced unchanged as the governing administration, direct-electorate, submission, nonuse and confined-remedy mandate; its state-compulsion question is not reopened.
+- **Young v. Fordice, March 31, 1997:** Applied for actual administration, identified submission and the limits on judicial implementation; its wholly federal-compulsion reservation remains distinct.
+- **Foreman v. Dallas County, June 27, 1997:** Applied to preserve actual baselines and submission-specific approval; authorization does not automatically approve later implementation.
+- **Presley v. Etowah County Commission:** Distinguished because the electorate changes directly; its internal-governance boundary remains.
+- **Allen v. State Board of Elections:** Applied to direct changes affecting electoral choice, without deciding discriminatory purpose or effect.
+- **Perkins v. Matthews:** Applied to practical electoral operation rather than the label or source of the change.
+- **McCain v. Lybrand:** Applied to require identification of the submitted change; related material does not establish blanket approval.
+- **Clark v. Roemer:** Applied for specific submission and prospective nonuse; its reserved extreme-circumstance possibility is not established here.
+- **NAACP v. Hampton County Election Commission:** Applied to distinguish prospective compliance from properly bounded remedial attention to actual circumstances.
+- **Connor v. Johnson:** Preserved for a necessary plan wholly formulated by the court within independent lawful authority.
+- **McDaniel v. Sanchez:** Applied to distinguish judicial adoption of governmental policy from a wholly judicial plan.
+- **Shaw v. Reno:** Applied at the entering law's stated boundary preserving designated substantive-preclearance channels, without a new constitutional merits ruling.
+- **Johnson v. Miller:** Its rule against a design-only racial injury remains distinct from other constitutional, state-law and remedial objections to a proposed judicial-election plan.
+
+**Limits and questions not reached:** The County's obligation to preclear administered changes is unchanged. State compulsion, delay and attachment of a related ordinance do not dispense with it. The actual scope of the 1983 approval remains to be determined. Prospective nonuse must be enforced, with any genuinely judicial temporary plan meeting every stated necessity, authority, legal-compliance and duration limit. The dependent tenure question returns for lawful reconsideration without automatic reinstatement or a selected replacement system.
+
+**Operative remedy or transition:** **Reversed and remanded, 9–0**, with the dependent tenure-order disposition set aside insofar as based on the rejected exemption, also **9–0**.
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The judgment of dismissal is reversed and the case remanded to implement the November 6, 1996 mandate. The dependent disposition of the judicial-term-extension order is set aside insofar as based on the rejected exemption. The District Court must identify the actual reach of the 1983 submission, prevent prospective use of the remaining unprecleared operative changes and apply the confined judicial-remedy rule. No officeholder outcome, completed-election consequence, damages award, new deadline or automatic Supreme Court return is directed.
+
+### The affirmance has no controlling constitutional rationale
+
+#### Maine Green Party v. Maine
+
+**Docket or dockets:** First Circuit No. 98-1309.
+**Decided:** 1999-05-20.
+
+##### The affirmance has no controlling constitutional rationale
+
+**Authority of the judgment:** Five Justices affirm, but the four-Justice preservation ground and the Chief's contextual merits ground are not logical subsets of one another. Marks yields no common narrower rationale. The judgment binds the parties; it establishes no general five-percent safe harbor, no duty to participate nationally, and no Court holding approving every alternative ballot route or rejecting every concrete as-applied exclusion claim. The affirming Justices are Stone-Zsela, O'Connor, Scalia, Thomas and Breyer.
+
+**Limits and questions not reached:** The majority preservation proposition concerns refinement of an existing legal argument, not an established exclusively local philosophy or permission to invent new summary-judgment facts. No general retention threshold or constitutional ballot-access application receives five votes.
+
+**Operative remedy or transition:** Affirm, 5–4, by Stone-Zsela, O'Connor, Scalia, Thomas and Breyer. Four rely on preservation and Stone-Zsela on contextual merits; no logical subset supplies a Marks rationale. The judgment orders no reopening, recognition, injunction or new election.
+
+**Treatment of earlier authority:**
+
+- Yee v. City of Escondido is applied by the five Justices supporting the preserved-legal-argument proposition; its separate factual and granted-question limits remain.
+- Thomas v. Arn remains a rule allowing nonjurisdictional presentation requirements, not a mandatory forfeiture rule for every theory raised in objections.
+- Marks v. United States supplies no common affirmance rationale because the procedural and merits grounds are independent.
+- Anderson v. Celebrezze retains contextual review of actual burden, precise interests and fit; no majority adopts a new retention-rule application.
+- Burdick v. Takushi retains its calibrated framework and complete-system limits; no new constitutional application commands five here.
+- Norman v. Reed retains its actual-access and separate-electorate protections without a majority retention-rule application.
+- Timmons v. Twin Cities Area New Party retains its specific nonfusion holding; no majority extends it to validate this condition.
+- National Committee of the Reform Party v. Democratic National Committee retains its support-sensitive financing scope and supplies no general retention safe harbor.
+- Buckley v. American Constitutional Law Foundation retains its petition-advocacy protections; no majority changes them in this case.
+
+For the other questions and complete operative scope in Maine Green Party v. Maine, 1999-05-20, First Circuit No. 98-1309, see Federal Courts.
+
+### I. Demonstrated electoral support does not create a duty to equalize subsidies
+
+#### National Committee of the Reform Party of the United States of America v. Democratic National Committee
+
+**Docket or dockets:** Ninth Circuit No. 98-15443; 168 F.3d 360.
+**Decided:** 1999-03-17.
+
+##### I. Demonstrated electoral support does not create a duty to equalize subsidies
+
+**Holding:** The Constitution does not require equal presidential-campaign subsidies merely because parties compete or qualify for public financing. On the pleaded claim, a formula tied to prior electoral support and the alleged inability to match larger major-party resources do not establish the materially different practical suppression or discriminatory administration that remains open to challenge.
+
+**Proposition-level authority:** Parts I-III of Thomas's opinion are joined by all eight other Justices and control their respective holdings. Part IV is joined by Thomas, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; Stone-Zsela does not join that part.
+
+##### II. The actual contribution-limit argument requires its own narrow answer
+
+**Holding:** The alleged inability to close this public-subsidy gap under the $1,000 individual-candidate contribution restriction does not, by itself, state a materially different constitutional impairment from the parity claim Buckley rejected. This holding neither establishes a permanent dollar safe harbor nor resolves a properly supported prohibitory or cumulative contribution burden.
+
+**Treatment of earlier authority:**
+
+- **Buckley v. Valeo, 424 U.S. 1:** Applied to support-sensitive public financing and the actual parity theory; its different-application reservation and contribution/expenditure distinction remain effective.
+- **Libertarian Party of Florida v. Smith:** Applied at its actual-burden scope. Its unrestricted-spending facts are not attributed to this statutory program.
+- **Day v. Holahan:** Its intermediary-contribution rule remains controlling in its recipient class. Its fractured responsive-financing judgment supplies no unified rule deciding this allocation formula.
+- **Colorado Republican Federal Campaign Committee v. FEC:** Its protection of genuine independent expression and preservation of actual candidate channels remain distinct; party identity alone does not decide the constitutional category.
+- **Kentucky Right to Life v. Stengel:** Its direct-limit, aggregate-intermediary and sourcewide-receipt rulings remain separate. Neither its amount nor its litigant's waiver becomes an immutable rule for this as-applied claim.
+- **Lujan; Northeastern Florida; Department of Commerce v. United States House of Representatives and Glavin:** Applied to concrete injury, actual opportunity barriers and likely redress, without requiring certain appointment or success.
+- **FEC v. NRA Political Victory Fund; FEC v. Legi-Tech:** Their statutory-authority and actual-reconsideration holdings remain intact. They do not decide this affiliation cap's merits or validate a particular appointment practice.
+- **California Medical Association v. FEC, 453 U.S. 182:** Applied in Part IV to the threshold distinction; it does not authorize ordinary adjudication of a substantial claim assigned to a special tribunal.
+
+**Limits and questions not reached:** The support-sensitive formula and the asserted contribution-gap theory survive this challenge. A constitutional right to equal funding does not arise from the reported resource comparison. Different suppressive burdens, viewpoint discrimination and exclusionary administration remain reviewable on their own supported claims. The affiliation cap receives no constitutional merits judgment. Statutory eligibility to sue remains distinct from Article III standing, and the Fund Act and FECA review channels remain separate. No new subsidy amount, contribution ceiling or appointment entitlement is created.
+
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Remedy and limit |
+|---|---|---|---|
+| Facial and pleaded as-applied funding claims, including the contribution-limit gap theory | Affirmed, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No equalized subsidy, replacement contribution limit or tribunal remand is ordered on these claims. |
+| FEC-affiliation challenge | Jurisdictional dismissal affirmed without prejudice, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No decision on the constitutional merits of the cap or a different appointment or enforcement practice. |
+
+The separate damages and certification judgments are left unreviewed and undisturbed. No payment, fund recovery, appointment, removal, discovery or new evidentiary hearing is ordered.
+
+
+For the other questions in National Committee of the Reform Party of the United States of America v. Democratic National Committee, decided 1999-03-17, at the dockets stated above, see Federal Courts.
+
+### Contribution limits require actual anticorruption fit; two candidate categories fail here
+
+#### Russell v. Burris
+
+**Docket or dockets:** Nos. 98-397 and 98-399; companion Citizens for Clean Government v. Russell; judgment below, 146 F.3d 563.
+**Decided:** 1999-04-28.
+
+##### Contribution limits require actual anticorruption fit; two candidate categories fail here
+
+**Holding:** Candidate contribution limits must be closely drawn to a sufficiently important interest in preventing corruption or its appearance while preserving meaningful political association. On this record the $300 per-person/per-election ceilings for Governor, Lieutenant Governor, Secretary of State, Treasurer of State, Auditor of State, Attorney General and Commissioner of State Lands, and the $100 ceilings for Arkansas Supreme Court Justice and Court of Appeals Judge, fail that requirement.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, Part I, unanimous.
+
+##### The residual $100 restriction survives the tried categorical challenge
+
+**Holding:** The record does not establish the asserted categorical invalidity of the $100 per-person/per-election ceiling for covered offices outside the seven-office $300 list and the two named appellate judicial offices. This residual class includes other covered judicial offices; rejection of the blanket challenge does not decide a genuinely different office-specific application without its own presented grounds and record.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, Parts II–IV, joined by Stevens, Souter, Ginsburg and Breyer (five Justices).
+
+##### The ordinary-PAC receipt limit survives on this operational record
+
+**Holding:** The $200 annual limit from one person to any one ordinary PAC survives the presented challenge where the tried operational record preserves effective collective advocacy and the restriction is fitted to the actual candidate-conduit channel. It is a per-recipient limit, not one aggregate pool across all committees, and supplies no general approval for materially different recipient functions or demonstrated pooling burdens.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, Parts II–IV, joined by Stevens, Souter, Ginsburg and Breyer (five Justices).
+
+##### The exact small-donor qualification supports a different candidate allowance
+
+**Holding:** Arkansas may permit a qualifying registered small-donor PAC to give $2,500 per candidate per election while ordinary sources face lower ceilings, where that committee receives contributions exclusively from individuals and no more than $25 cumulatively from any individual during a calendar year. The financial distinction is justified by the anticorruption interest and fit of the dispersed-donor structure; it is neither a viewpoint preference nor a rule that any small-donor label suffices.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, Parts II–IV, joined by Stevens, Souter, Ginsburg and Breyer (five Justices).
+
+**Limits and questions not reached:** The residual $100 class includes covered judicial offices other than the two named appellate offices. No permanent dollar floor, aggregate pool across committees, universal candidate-conduit finding or approval of materially different financing burdens follows.
+
+**Operative remedy or transition:** Affirm invalidation of the seven named statewide $300 limits and two named appellate-office $100 applications; reverse the residual categorical invalidation and the ordinary-PAC and exact small-donor differential rulings on their stated grounds. No replacement ceiling, refunds, damages or retrospective enforcement direction is ordered; consistent severability treatment remains.
+
+**Treatment of earlier authority:**
+
+- Buckley v. Valeo preserves contribution/expenditure distinctions, sufficient interest and close fit without a permanent dollar floor.
+- Day v. Holahan protects actual pooling and requires a supported circumvention fit; the Court distinguishes its burden record rather than overruling it.
+- Kentucky Right to Life preserves separate direct-contribution, aggregate-pool and sourcewide-receipt analyses and their actual claim limits.
+- California Medical Association v. FEC supports actual candidate-conduit regulation and attention to financing structures; its fractured lowest-protection rationale is not a universal rule.
+- Colorado Republican and Clifton preserve genuine independence and require actual candidate connections; a committee label bypasses neither protection.
+- Suster preserves judicial impartiality while distinguishing expenditures from contributions and requiring examination of the actual restraint.
+- Reform Party and Brower reject resource-parity entitlements while leaving practical prohibitory burdens reviewable.
+
+### Judicial-campaign expenditures and the preliminary protection
+
+#### Suster v. Marshall
+
+**Docket or dockets:** No. 98-737; Sixth Circuit Nos. 96-4048, 96-4115, 96-4287, 96-4380 and 97-3174; 149 F.3d 523. The archived petition's caption is Marshall v. Suster.
+**Decided:** 1999-01-28.
+
+##### Judicial-campaign expenditures and the preliminary protection
+
+**Holding:** A mandatory ceiling on the total amount of judicial-campaign advocacy receives the demanding First Amendment review applicable to campaign expenditures. Ohio's interest in impartial adjudication and its appearance does not justify this source-independent $75,000 ceiling on the present record; the candidates' likelihood of success supports the existing preliminary expenditure injunction at its actual, consent-extended scope.
+
+**Proposition-level authority:** Breyer's opinion for the unanimous Court supplies the complete rule, application and remedial limits. Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer join every controlling proposition.
+
+**Limits and operative remedy:** Protection continues for the plaintiffs, plaintiff-intervenors and their respective opponents under the October 22, 1996 consent extension, including Maloney's later preliminary protection. It does not extend to every Ohio judicial candidate. The removed $18,750 primary sublimit and its separate consent decree are outside this decision. Ordinary recusal and disqualification, distinct ethics restrictions and lawful donor-contribution controls are undisturbed. The state-law remand is preserved, and no new general preliminary-injunction test is adopted.
+
+**Treatment of earlier authority:**
+
+- *Buckley v. Valeo*, 424 U.S. 1, is applied to the direct restraint on the quantity of campaign expression. Its expenditure/contribution distinction remains controlling; the judicial-office setting does not supply an exemption from demanding expenditure review.
+- *City of Cincinnati v. Kruse*, December 16, 1998, is applied to this source-independent ceiling after separately examining the judicial-impartiality interest it reserved. Its rule against justifying a total speech cutoff by sufficient remaining speech remains effective, and its reservation of materially different institutional restrictions survives.
+- *Colorado Republican Federal Campaign Committee v. Federal Election Commission*, June 26, 1996, is applied for its distinction between political expression and actual candidate-resource transactions. Its actual-connection requirements and limitations remain intact; neither its party-specific transfer exemption nor its treatment of coordinated activity supplies a ruling on Ohio's unreviewed transfer canon.
+
+**Limits and questions not reached:** the demanding expenditure rule applies to mandatory judicial-campaign spending ceilings. Judicial impartiality and its appearance receive independent consideration, but do not justify the challenged source-independent $75,000 limit on this record. The existing preliminary injunction stands at its actual scope. The Court makes no final adjudication of the amended canon, no statewide decree, no decision on the nonjudicial-account transfer restriction and no general invalidation of judicial ethics or contribution rules.
+
+**Operative remedy or transition:** **Affirmed, 9–0.**
+
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The preliminary injunction continues for plaintiffs, plaintiff-intervenors and their respective opponents under the October 22, 1996 consent extension, including Maloney's later protection. It is not a final statewide decree. The amended-canon and state-law remands remain intact. The transfer ruling is left undisturbed outside the grant; its merits are not adjudicated.
+
+### The first condition includes a proved functional ability-to-elect route
+
+#### Valdespino v. Alamo Heights Independent School District
+
+**Docket or dockets:** lower docket 98-50227.
+**Decided:** 1999-06-17.
+
+##### The first condition includes a proved functional ability-to-elect route
+
+**Holding:** For a claim by one protected group, the first Gingles condition may be met either through the retained district-majority route or through rigorous proof that a lawful, geographically compact proposed district would provide the cohesive group dependable crossover support sufficient to elect its candidates of choice. Speculation, an isolated favorable election, near-majority population arithmetic or mere influence does not suffice; the relevant majority-bloc showing, causal connection and independent totality remain necessary.
+
+**Proposition-level authority:** Stone-Zsela's Part I is joined by Stevens, Souter, Ginsburg and Breyer; five Justices adopt this express modification and its limits.
+
+##### The population figures do not resolve functional opportunity
+
+**Holding:** The accepted 47.9% and 48.3% Hispanic citizen voting-age shares neither prove nor foreclose dependable ability to elect. The judgment resting exclusively on their being below fifty percent must be vacated for application of the changed rule, with all remaining statutory conditions and totality to be established before relief.
+
+**Proposition-level authority:** The same five Justices join Stone-Zsela's Part I and this application and remedy.
+
+**Limits and questions not reached:** The proposed district must remain lawful in population and geography; the 8.1% underpopulation is not approved. No mathematical crossover formula, racial floor, proportional-election right, distinct-minority-group combination or influence-only entitlement is adopted. Supplementation under ordinary procedure is neither automatically required nor forbidden; the excluded survey is not automatically admitted.
+
+##### The independent demographic and disclosure rulings stand
+
+**Holding:** The credited proof of concrete post-census housing, occupancy and growth changes supports the present demographic findings under clear-error review. Excluding the survey disclosed on the eve of trial for surprise under the applicable disclosure rule was within the trial court's discretion; changing the capacity rule does not itself make either independent ruling erroneous.
+
+**Proposition-level authority:** Stone-Zsela's Part II is joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven Justices adopt this rule and explanation. Scalia and Thomas do not join it unconditionally.
+
+**Treatment of earlier authority:**
+
+- Thornburg v. Gingles: expressly modifies numerical exclusivity in the first condition for the defined single-group functional route; preserves compactness, cohesion, relevant majority-bloc proof, causation and independent totality.
+- Growe v. Emison: modifies the same exclusivity while preserving its causal framework and the distinct-group reservation.
+- Voinovich v. Quilter: preserves the claimant's burden, relevant bloc-voting requirement and distinction between lawful state districting choice and a court-compelled remedy; the present rule resolves only the defined functional-capacity question.
+- Johnson v. De Grandy: applies the rejection of maximization and conclusive ratios; preserves independent totality and actual opportunity without attributing today's change to that earlier decision.
+- Brooks v. Barnes: applies its insistence that proof address the actual electoral barrier; its nomination holding did not already decide this district-formation question.
+- Department of Commerce v. United States House of Representatives / Clinton v. Glavin: preserves the national enumeration ruling; it neither freezes local demographics at the census date nor validates every projection.
+
+**Limits and questions not reached:** A single protected group below a numerical majority may prove the first condition through dependable actual ability to elect in a lawful compact district. A majority-population route remains available, but neither route establishes every other condition or liability. Cohesion, relevant bloc-voting causation with applicable special circumstances, totality, independent constitutional limits and ordinary evidence procedures retain their force. Mere influence and speculative near-majority calculations do not create a right to districting. The present record establishes no functional success or completed violation.
+
+**Operative remedy or transition:** Partial vacatur and remand are 5–4. Supporting: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. Opposing: O'Connor and Kennedy would affirm under a numerical citizen-voting-age majority requirement; Scalia and Thomas would affirm on statutory noncoverage grounds.
+
+The demographic and disclosure rulings are sustained by seven direct votes: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Scalia and Thomas express only conditional agreement if the dilution framework is applied. Those positions do not supply direct joins in the evidence holding or the numerical rule.
+
+Vacatur concerns the categorical sub-fifty bar. The lower courts must assess the functional route on the preserved admissible record and any supplementation independently permitted under ordinary procedure. They must then consider the remaining statutory conditions and totality if necessary. No liability, district, election system, new trial or automatic survey admission follows. The claim may still fail.

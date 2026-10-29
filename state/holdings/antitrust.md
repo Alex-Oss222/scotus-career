@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Antitrust
 
@@ -317,3 +317,84 @@ For the Connecticut/Arizona reconsideration and statutory fact-review holding in
 **Operative remedy or transition:** The antitrust disposition is vacated for rule-of-reason proceedings and properly available remaining issues and defenses. The district court's antitrust summary judgment is not automatically reinstated, nor is every evidentiary or injury issue automatically reopened. The separate affirmance of the state-contract dismissal remains intact.
 
 **Treatment of earlier authority:** Albrecht v. Herald Co., 390 U.S. 145, loses its per se rule for vertical maximum resale prices. Sylvania's vertical-distribution analysis and Business Electronics' distinction concerning genuine price agreements inform classification without deciding every restraint. Atlantic Richfield and Brunswick preserve the independent antitrust-injury requirement. Kodak and Brooke Group retain their own rules about evidence and competitive harm. Hubbard's divided reasoning supplies no general controlling precedent-reconsideration test.
+
+
+### Coverage includes an association serving its members' commercial profit
+
+#### California Dental Association v. Federal Trade Commission
+
+**Docket or dockets:** No. 97-1625.
+**Decided:** 1999-05-24.
+
+##### Coverage includes an association serving its members' commercial profit
+
+**Holding:** The FTC Act reaches a nonprofit professional association organized to carry on business for its members' profit when its activities confer proximate, substantial economic benefits on their for-profit operations. CDA satisfies that condition through its insurance, financing, commercial support and other member-business activities; nonprofit form, tax status and absence of distributions to the association do not eliminate the members'-profit branch of section 44.
+
+**Proposition-level authority:** Souter's statutory-coverage opinion, unanimous.
+
+##### The inquiry must test the restraint's actual competitive tendency and material explanation
+
+**Holding:** An abbreviated rule-of-reason inquiry may suffice when experience and the restraint's actual character make its likely anticompetitive tendency sufficiently clear to assess both the restraint and its material competing explanation. Where professional-information disparities make those effects insufficiently obvious, fuller analysis fitted to the restraint is required; neither a fixed sequence of labels nor a complete industry or market-definition study is invariably compulsory.
+
+**Proposition-level authority:** Souter's competitive-analysis opinion, joined by Stone-Zsela, O'Connor, Scalia and Thomas (five Justices).
+
+##### Price restrictions require more examination on this record
+
+**Holding:** The practical restrictions on fee descriptions and broad discount advertisements cannot be sustained on the abbreviated analysis employed here without adequately examining their asserted effect on the reliability of price comparison. Further inquiry must test the actual enforcement and claimed information benefits; the mere reduction of advertising does not settle the net competitive tendency.
+
+**Proposition-level authority:** Souter's competitive-analysis opinion, joined by Stone-Zsela, O'Connor, Scalia and Thomas (five Justices).
+
+##### Quality advertising is not equivalent to service output
+
+**Holding:** Quality-advertising restrictions whose effects depend on the reliability and verifiability of professional information require fuller consideration than equating fewer advertisements with a restriction of dental-service output. The actual conditions and competitive explanation must be assessed; possible effects on demand do not themselves establish a producer-imposed service-output restriction.
+
+**Proposition-level authority:** Souter's competitive-analysis opinion, joined by Stone-Zsela, O'Connor, Scalia and Thomas (five Justices).
+
+**Limits and questions not reached:** No final liability, professional immunity, universal market-definition trial, fixed sequence of labels or measured service-output proof is required. Supported agency findings retain statutory review protection. No majority decides whether the Ninth Circuit may complete review on the existing record or must direct Commission reconsideration.
+
+**Operative remedy or transition:** Sustain FTC coverage unanimously; vacate both price- and quality-advertising liability determinations, 5–4, and remand through the Ninth Circuit for fuller restraint-specific consideration. The four-Justice appellate-choice discussion and Stone-Zsela's Commission-only direction are separate noncontrolling remedies.
+
+**Treatment of earlier authority:**
+
+- NCAA v. Board of Regents supplies flexible inquiry fitted to established competitive tendencies; it creates no compulsory full-market procedure.
+- National Society of Professional Engineers v. United States remains a bar to defending restraints on the premise that competition itself is undesirable; an information-quality explanation must be tested on its actual competitive terms.
+- FTC v. Indiana Federation of Dentists is distinguished at the level of the restraint and information mechanism; its direct-effects method and separation of supported findings from legal sufficiency remain.
+- Bates v. State Bar of Arizona supplies the value of truthful price information and the distinct difficulty of unverifiable professional quality claims.
+- State Oil Co. v. Khan retains its vertical maximum-price holding and horizontal distinctions; its attention to competitive mechanisms informs this inquiry without conferring immunity.
+- NYNEX Corp. v. Discon retains its vertical supplier-substitution holding and distinct horizontal categories; labels or improper purpose do not replace analysis of the actual mechanism.
+
+##### Authority of the institutional remand allocation
+
+**Authority of the judgment:** Five Justices vacate both advertising-liability components and require fuller consideration. Souter, O'Connor, Scalia and Thomas would leave the Ninth Circuit to choose existing-record assessment or Commission reconsideration; Stone-Zsela requires Commission inquiry. Neither institutional direction has five votes, and the common judgment adopts neither allocation as controlling.
+
+### This vertical supplier substitution is not a per se group boycott
+
+#### NYNEX Corp. v. Discon, Inc., 525 U.S. 128
+
+**Docket or dockets:** No. 96-1570
+**Decided:** 1998-12-14.
+
+##### This vertical supplier substitution is not a per se group boycott
+
+**Holding:** A single buyer's agreement to purchase services from one supplier instead of another, without horizontal concerted exclusion or another established per se basis, is not a per se group boycott merely because it intentionally injures a rival, serves a fraudulent purpose or lacks an apparent efficiency justification. The pleaded vertical purchasing arrangement must therefore be assessed under the rule of reason on the surviving §1 competitive-effects theory; genuine horizontal restraints, actual price fixing and other established categories retain their distinct requirements.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+##### Regulatory fraud and harm to one supplier do not replace competitive injury
+
+**Holding:** Regulatory deception, consumer overcharges and elimination of one supplier do not by themselves establish that the challenged purchasing agreement injured the competitive process; Discon must establish the competitive injury and other elements of the theory actually pursued. The lower courts must reconsider the surviving §1 effects claim and the derivative rationale for the distinct §2 conspiracy claim without treating the rejected per se classification or fraud alone as sufficient, while leaving previously dismissed claims outside this remand.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The District Court's wholesale dismissal is not automatically reinstated. The distinct §2 conspiracy requirements remain, while previously dismissed vertical-price-fixing, monopolization, attempt and RICO claims are not revived. The Court finds neither competitive injury nor harmlessness and grants neither immunity for fraud nor a final damages or injunction remedy.
+
+**Treatment of earlier authority:**
+
+- Klor's, Inc. v. Broadway-Hale Stores, Inc.: distinguishes the coordinated exclusionary structure supporting its group-boycott rule from this vertical supplier substitution.
+- Business Electronics Corp. v. Sharp Electronics Corp.: applies the distinction between the character of the agreement and an exclusionary label or purpose; actual price-agreement and horizontal questions retain their own requirements.
+- Northwest Wholesale Stationers v. Pacific Stationery & Printing Co.: preserves the need for a restraint fitting an established category before automatic boycott condemnation.
+- FTC v. Indiana Federation of Dentists: preserves attention to the restraint's actual character and competition rather than extending per se treatment from a label.
+- State Oil Co. v. Khan (November 4, 1997): applies its category-based reason for competitive-effects review without changing its distinct vertical maximum-price holding or granting immunity to harmful restraints.
+- Brunswick Corp. v. Pueblo Bowl-O-Mat and Atlantic Richfield Co. v. USA Petroleum Co.: preserve the independent requirement of antitrust injury; competitor loss alone is insufficient.
+- Eastman Kodak Co. v. Image Technical Services: preserves inquiry into actual competitive conditions without finding market power or injury here.
+- Spectrum Sports v. McQuillan: preserves offense-specific elements; attempted monopolization is not merged with conspiracy to monopolize.

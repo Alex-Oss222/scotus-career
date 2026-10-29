@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Business and Commercial Law
 
@@ -1607,3 +1607,185 @@ For AT&T v. Central Office Telephone, Inc., decided June 15, 1998, No. 97-679, o
 Related questions in Securities and Exchange Commission v. First Jersey Securities, Inc., 1998-09-28, dockets 96-1862, appear under Federal Courts — Claim preclusion and later distinct securities transactions.
 
 **Operative remedy or transition:** The proved primary fraud and independent §20(a) ground stand. Disgorgement is $22,288,099 after the $5 million settlement credit against $27,288,099 in calculated six-security gains; the joint and several obligation permits one recovery, not duplicate collection. Prejudgment interest of $52,689,894 stands, with interest on the credited $5 million ending at payment. The supported prospective securities injunction remains. The already-entered Special Agent reversal is undisturbed; no new investigation, uncharged liability or additional recovery is authorized.
+
+
+### Patent property and unconstitutional deprivation remain distinct
+
+#### Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank
+
+**Docket or dockets:** No. 98-531.
+**Decided:** 1999-06-23.
+
+##### Patent property and unconstitutional deprivation remain distinct
+
+**Holding:** A patent is an established exclusive property interest; federal creation does not disqualify it from Fourteenth Amendment protection. Recognizing that property and alleging infringement do not alone establish deprivation without due process, compensable injury, or entitlement to an award; process, remedies, alleged conduct, and any applicable culpability requirement require separate treatment.
+
+**Proposition-level authority:** All nine Justices join this precise distinction in Part I. No additional patent-negligence rule or §5 fit conclusion receives that coalition's support.
+
+
+
+For the other questions in Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank, decided 1999-06-23, at the dockets stated above, see Federal Courts. The complete event-wide precedent treatment and operative mandate appear with this case in Federal Courts.
+
+### Compatible federal fraud remedies do not impair the actual state insurance scheme
+
+#### Humana Inc. v. Forsyth
+
+**Docket or dockets:** No. 97-303
+**Decided:** 1999-01-20.
+
+##### Compatible federal fraud remedies do not impair the actual state insurance scheme
+
+**Holding:** A generally applicable federal law impairs protected state insurance law when its operation contradicts the state law or frustrates an actual state policy or the administration of the state scheme; literal contradiction is not the only possible impairment. An additional private action or greater federal remedy does not itself establish impairment, and the Co-Payors' RICO claim may proceed because it targets fraud Nevada forbids while leaving the State's scheme intact and displacing no demonstrated exclusive remedial arrangement.
+
+**Proposition-level authority:** Ginsburg's Opinion of the Court has all nine Justices' direct joins and controls the rule, application and reservations.
+
+**Treatment of earlier authority:**
+
+- **United States Department of Treasury v. Fabe:** Applied to preserve actual state policy-performance rules and necessary administration against conflicting nonspecific federal law. It does not insulate every insurer-related act or remedy from federal law.
+- **Barnett Bank of Marion County, N.A. v. Nelson:** Preserved. Its insurance-specific federal exception remains separate from the interference question and does not extend to RICO by analogy; the actual relationship between the statutes must still be examined.
+
+**Limits and questions not reached:** The McCarran-Ferguson inquiry compares the operation of the federal claim with the State's actual protected policy and administration. Neither overlap nor greater federal recovery alone bars the federal claim; actual conflict or frustration can do so even without a literal contradiction. On the relationship established here, the surviving Co-Payor RICO claim complements Nevada's fraud prohibition without displacing an exclusive state mechanism. No retrospective Nevada cause of action or broader RICO entitlement is created.
+
+**Operative remedy or transition:** **Affirmed, 9–0, on the reviewed question.**
+
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The Co-Payor action may proceed subject to proof of every RICO element, causation, injury and authorized remedy, with ordinary defenses intact. The Premium Payor branch is not revived. The actual-overpayment injury limit remains; a lawful statutory multiplier is a separate remedial matter. The related conspiracy-amendment instruction follows the surviving branch without establishing conspiracy or guaranteeing amendment success. The Court awards no liability, premium recovery or treble-damages amount and directs no automatic new trial.
+
+### A knowingly false execution undertaking can be primary securities fraud
+
+#### Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz
+
+**Docket or dockets:** No. 97-1768.
+**Decided:** 1998-11-12.
+
+##### A knowingly false execution undertaking can be primary securities fraud
+
+**Holding:** A broker-dealer that accepts a customer order without price instructions while knowingly intending to disregard the best-execution undertaking it thereby represents can commit primary deception under § 10(b) and Rule 10b-5 when the representation is materially false and the other requirements of a private securities-fraud action are proved. Breach of care or fiduciary duty, inferior execution or the broker's status alone does not establish such fraud; the customer must establish legally sufficient reliance, causation and actual loss as well as the required deception and culpability.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court; Stone-Zsela's additional primary-recklessness position is not part of the Court's holding.
+
+##### The disputed contemporary execution evidence precludes the categorical summary judgment
+
+**Holding:** Execution at the national best bid and offer, or through the Small Order Execution System, does not by itself defeat a primary-fraud claim where evidence supports a genuine dispute that better terms were reasonably available and the firm knowingly accepted the order on a false undertaking. Reasonable availability is assessed under contemporary conditions, including order size, the security's trading characteristics, speed, clearing costs and the expense and difficulty of market access, as well as quoted price; later adoption of a rule or development of technology does not itself establish earlier duties, access or culpability.
+
+**Proposition-level authority:** Kennedy's unanimous opinion of the Court; Stone-Zsela's additional primary-recklessness position is not part of the Court's holding.
+
+**Limits and questions not reached:** The knowing-deception theory alone controls; no general primary-fraud recklessness rule is established. The rule mandates no venue, universal quotation search or best possible price. Later execution regulations are not applied retroactively, though reliable retrospective evidence may illuminate contemporary feasibility. All private-action elements, class-certification issues and actual damages remain to be adjudicated.
+
+**Treatment of earlier authority:**
+
+- **Securities and Exchange Commission v. First Jersey Securities, Inc.:** Applied for knowing primary deception through a broker's implied transaction representations. Its established findings and SEC-enforcement posture are distinguished from the disputed facts and private-action elements here.
+- **Central Bank of Denver v. First Interstate Bank of Denver:** Its separate culpable-affirmative-assistance route remains intact. Its severe-recklessness standard for that route is not made a general primary-fraud standard, and assistance liability is unnecessary to this disposition.
+- **United States v. O'Hagan:** Its requirement of actual deception connected to a securities transaction remains intact. The Court does not extend its distinct source-deception theory to supply the representation here.
+- **Santa Fe Industries v. Green, 430 U.S. 462:** Followed. Fiduciary unfairness or breach alone does not constitute federal securities fraud.
+- **Ernst & Ernst v. Hochfelder, 425 U.S. 185:** Followed. Negligence is insufficient; the Court does not treat Hochfelder as resolving every primary-liability recklessness question.
+- **Basic Inc. v. Levinson:** The requirement of legally sufficient reliance is preserved. A worse execution price supplies no automatic reliance presumption in this case.
+
+### Commercial offer and readiness for patenting
+
+#### Pfaff v. Wells Electronics, Inc.
+
+**Docket or dockets:** No. 97-1130.
+**Decided:** 1998-11-10.
+
+##### Commercial offer and readiness for patenting
+
+**Holding:** The on-sale bar in then-effective 35 U.S.C. § 102(b) applies when, before the date one year before the patent application in the United States, the actual claimed invention is both the subject of a commercial offer for sale in the United States and ready for patenting. Readiness may be shown by reduction to practice or by drawings or descriptions sufficiently specific to enable a person skilled in the art to practice the invention; a working prototype is therefore sufficient but not indispensable.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Both precritical-date conditions must be proved for the actual claimed invention; commercial commitment cannot supply an incomplete conception, and later development cannot retroactively establish readiness. Mere preliminary negotiations and future inventive research do not suffice. Genuine controlled experimentation remains distinct, and no experimental-use dispute is decided. The reviewed invalidity judgment is affirmed without invalidating unidentified claims.
+
+**Treatment of earlier authority:**
+
+- **Pennock v. Dialogue, 27 U.S. 1:** Applied for the restriction on prolonged commercial exploitation followed by later exclusivity. Its older statutory setting does not alter the one-year period governing this case.
+- **The Telephone Cases, 126 U.S. 1:** Applied for the significance of an enabling description without an indispensable successful prototype; not treated as independently deciding the on-sale trigger.
+- **Elizabeth v. Pavement Co., 97 U.S. 126:** Preserved. Genuine controlled experimentation remains distinct from ordinary commercial exploitation; no experimental-use question is separately adjudicated here.
+- **Markman v. Westview Instruments:** Its allocation of claim-construction and infringement functions remains intact. It does not itself decide when an invention is on sale.
+- **Warner-Jenkinson Co. v. Hilton Davis Chemical Co.:** Its claim-element and prosecution-history rules remain intact. The present inquiry concerns readiness of the actual claimed invention, without changing those rules.
+
+### Part I-A — Business use supplies no separate exclusion
+
+#### State Street Bank & Trust Co. v. Signature Financial Group, Inc.
+
+**Docket or dockets:** Federal Circuit No. 96-1327; no separate Supreme Court docket supplied
+**Decided:** 1999-01-14.
+
+##### Part I-A — Business use supplies no separate exclusion
+
+**Holding:** An otherwise eligible invention is not excluded from §101 merely because its use is commercial or concerns financial administration. Rejecting that categorical exclusion does not establish eligibility, which remains subject to the mathematical-principle limitation and every other statutory requirement.
+
+**Proposition-level authority:** Part I-A of Stevens's Opinion of the Court has all nine Justices' direct joins.
+
+##### Part I-B — Useful financial output is insufficient; the actual whole claim controls
+
+**Holding:** A mathematical calculation does not become eligible solely because it yields a useful financial result, is confined to a named business arrangement, or is expressed as a programmed machine; the whole claimed combination must supply a patentable application rather than the calculation with its ordinary implementation. Conversely, mathematics or computer use does not itself make a claim ineligible, and means-plus-function limitations must be construed to include the corresponding disclosed structure and equivalents.
+
+**Proposition-level authority:** Part I-B has all nine Justices' direct joins at this level of generality; agreement on the standard does not establish agreement on its final application.
+
+##### Part II — Each issued combination remains the financial calculation and its bookkeeping implementation
+
+**Holding:** With each disclosed means and incorporated limitation retained, issued claims 1–6 cover the calculation, verification and recording of financial allocations rather than a qualifying application of their result, and are ineligible under §101. This conclusion sustains their invalidity without deciding the separate claims and counterclaims on their merits.
+
+**Proposition-level authority:** Part II has the direct joins of all eight Associate Justices; Stone-Zsela does not join.
+
+**Treatment of earlier authority:**
+
+- **Gottschalk v. Benson, 409 U.S. 63:** Applied to reject useful computation as sufficient eligibility; no general software prohibition follows.
+- **Parker v. Flook, 437 U.S. 584:** Applied to the distinction between a restricted useful numerical calculation and its qualifying application; no element-by-element novelty subtraction is adopted.
+- **Diamond v. Diehr, 450 U.S. 175:** Applied to the entire actual combination and distinguished in application: the claimed curing process used the calculation in another operation, while these combinations obtain and maintain the accounting calculation itself.
+- **Diamond v. Chakrabarty, 447 U.S. 303:** Applied for broad statutory categories, with abstract principles still excluded; business use is no additional exclusion.
+- **Markman v. Westview Instruments:** Applied to judicial claim meaning with external factual work retained; its allocation does not establish universal de novo review of subsidiary findings.
+- **Vitronics Corp. v. Conceptronic, Inc.:** Applied to the public instrument's meaning and permissible technical assistance; absent prosecution history supplies no disclaimer or mandatory hearing.
+- **Warner-Jenkinson Co. v. Hilton Davis Chemical Co.:** Applied to preserve every material limitation; its infringement and prosecution-surrender rules are not replaced by this eligibility ruling.
+- **Pfaff v. Wells Electronics, Inc.:** Preserved as governing the separate commercial-offer and readiness conditions of the on-sale bar; it supplies no mathematical-claim eligibility test.
+
+**Limits and questions not reached:** Section 101 neither excludes inventions because they serve business nor establishes eligibility because they produce useful financial values. Courts must construe and assess the actual complete combination under the inherited calculation/application distinction. These six issued combinations are ineligible; that result establishes no categorical answer for all software, data structures or commercial inventions. Other patent requirements and the retained judicial/factual allocation continue to operate separately.
+
+**Operative remedy or transition:** **Reversed and remanded, 8–1.**
+
+**Supporting:** Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Opposing:** Chief Justice Stone-Zsela.
+
+The District Court's invalidity result for issued claims 1–6 is sustained on the mathematical-calculation ground, without adopting its business-method exclusion. The Court does not affirm an unspecified disposition of the separate unenforceability, noninfringement or Massachusetts counterclaims; the lower courts must address their remaining procedural consequences consistently with this decision. No new §101 evidentiary inquiry, finding under §§102, 103 or an independent §112 ground, infringement determination or damages award is directed. Stone-Zsela would vacate the appellate eligibility determination and remand for the corrected claim-specific inquiry.
+
+### I. Private approval does not itself make the auditor the public speaker
+
+#### Wright v. Ernst & Young LLP
+
+**Docket or dockets:** No. 98-783.
+**Decided:** 1999-02-04.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court controls all three holdings.
+
+##### I. Private approval does not itself make the auditor the public speaker
+
+**Holding:** An auditor's private review and oral approval do not, on these allegations, make an issuer's expressly unaudited release the auditor's own public certification when no auditor representation was communicated or attributed to investors. A general market expectation about an outside auditor's involvement cannot supply that missing representation; the Court does not adopt a universal public-name requirement for every deceptive act, agency relationship, scheme, or indirect communication.
+
+##### II. The preserved assistance allegations require application of Central Bank
+
+**Holding:** A preserved allegation of knowing or severely reckless affirmative substantial assistance to an underlying securities fraud cannot be dismissed merely because the assistant's conduct was undisclosed or the public statement was not attributed to it. The defendant must know or severely recklessly disregard both the fraud and its assisting role; severe recklessness requires an extreme departure from ordinary care presenting a specific danger of deception known or so obvious that the defendant must have appreciated it, and the plaintiff must establish the underlying fraud, qualifying assistance, legally sufficient reliance on that fraud, causation, and recoverable loss.
+
+##### III. The separate prospectus branch remains dismissed
+
+**Holding:** Correction of the categorical assistance rule for the pleaded January 1996 conduct does not revive the separately deficient 1995 prospectus theory or insert a later duty-to-correct claim into the amended complaint. That dismissal remains intact, and the remand creates no entitlement to amend.
+
+**Treatment of earlier authority:**
+
+- Central Bank of Denver v. First Interstate Bank of Denver, April 19, 1994: applied without expansion; its affirmative-assistance action, demanding culpability, underlying-fraud reliance, causation, and loss requirements remain controlling and distinct from primary authorship.
+- Securities and Exchange Commission v. First Jersey Securities, September 28, 1998: applied for the distinction between proved direct deceptive conduct and office, ownership, or assistance alone; its preservation of Central Bank remains effective, and its enforcement remedy is not transferred to this private pleading.
+- United States v. O'Hagan, June 25, 1997: preserved in its separate source-deception setting; its duty, deception, and transaction requirements supply no shortcut from professional status to liability here.
+
+**Limits and questions not reached:** The private securities action continues to distinguish an actor's own deception from culpable affirmative assistance to another's fraud. Unattributed private approval of this unaudited release does not establish the primary-speaker theory, but nonattribution does not defeat the distinct assistance action. The existing complaint must be tested under Central Bank's actual elements. The separate prospectus dismissal remains effective. No new negligence action, universal attribution test, or remedy is created.
+
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Remedy |
+|---|---|---|---|
+| Primary-speaker theory based solely on private approval of BT's unaudited, unattributed January 1996 release | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | This confined ground of dismissal remains in effect. |
+| Preserved affirmative-assistance theory concerning the January release | Vacated and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Apply Central Bank to the existing amended complaint and properly presented independent pleading defenses. |
+| Separate 1995 prospectus and later duty-to-correct theory | Dismissal left intact, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | No new claim, amendment entitlement, or revival follows from the assistance remand. |
+
+No fraud, damages, discovery entitlement, or final pleading sufficiency is adjudged.

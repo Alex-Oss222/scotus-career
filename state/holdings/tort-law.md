@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Tort Law
 
@@ -199,3 +199,77 @@ For the other questions decided in this same case, docket and date, see Criminal
 **Treatment of earlier authority:** Ricci preserves the distinction between initial authority and additional custody without deciding an unreviewed custody claim here; no new federal tort doctrine is adopted.
 
 **Operative remedy or transition:** The case returns through the court of appeals for the preserved district-court proceedings: individualized immunity and responsibility determinations and the specified state malicious-prosecution retrial. No automatic federal trial, damages award, new hearing requirement or categorical immunity disposition is imposed. Other judgments remain undisturbed.
+
+
+### Part I — Local law cannot avoid the Convention's conditions within its covered field
+
+#### El Al Israel Airlines, Ltd. v. Tsui Yuan Tseng
+
+**Docket or dockets:** No. 97-475
+**Decided:** 1999-01-12.
+
+##### Part I — Local law cannot avoid the Convention's conditions within its covered field
+
+**Holding:** When a passenger's personal-injury occurrence falls within Article 17's temporal and substantive field, Article 24 subjects an action against the carrier, whatever its legal foundation, to the Convention's conditions and limits. Failure to satisfy the accident or bodily-injury condition does not itself remove the occurrence from that field or permit an independent local damages action; occurrences outside that field remain outside this holding.
+
+**Proposition-level authority:** Part I of O'Connor's Opinion of the Court has eight direct joins: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer and controls this rule and its application.
+
+##### Part II — The Article 25 argument does not change the result on this record
+
+**Holding:** The asserted Article 25 route cannot alter the disposition where the trial's finding of no treaty willful misconduct remains undisturbed. Intentional touching alone does not establish that misconduct; this application decides neither contested preservation nor Article 25's full effect when its misconduct predicate is proved.
+
+**Proposition-level authority:** Part II has seven direct Associate joins: O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone-Zsela does not join it.
+
+**Treatment of earlier authority:**
+
+- **Air France v. Saks, 470 U.S. 392:** Applied to distinguish the external event from injury; its flexible accident rule is unchanged and the classification of this search is not decided.
+- **Eastern Airlines, Inc. v. Floyd, 499 U.S. 530:** Applied for Article 17's bodily-injury requirement. Its reserved local-law question is now answered within the treaty's covered personal-injury field.
+- **Zicherman v. Korean Air Lines Co., Ltd.:** Preserved as allowing domestic loss categories and beneficiaries subject to treaty conditions; its reserved general-exclusivity issue is resolved in the stated field. It supplies no domestic liability despite a failed treaty condition.
+
+**Limits and questions not reached:** Within Article 17's actual personal-injury field, a claimant cannot obtain local damages merely because the Convention's accident or bodily-injury condition is unsatisfied. Domestic law continues to supply losses and beneficiaries where permitted by Zicherman, subject to treaty liability conditions. Outside-field occurrences, baggage questions outside this review, and Article 25's full operation on proved willfulness remain unresolved here.
+
+**Operative remedy or transition:** **Reversed and remanded, 8–1.**
+
+**Supporting:** Chief Justice Stone-Zsela and Justices O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Opposing:** Justice Stevens.
+
+The New York personal-injury claim must be dismissed. The separate baggage award remains undisturbed; the Court orders no further tort trial or baggage relief.
+
+### Actual protected policy selection remains outside the FTCA waiver
+
+#### Minns v. United States
+
+**Docket or dockets:** No. 98-903
+**Decided:** 1999-02-25.
+
+##### Actual protected policy selection remains outside the FTCA waiver
+
+**Holding:** Section 2680(a) bars claims requiring adjudication of governmental choice susceptible to protected policy judgment, even if the discretion is abused. It does not protect violation of a specifically prescribed course or an act merely because choice exists or the subject is military.
+
+**Proposition-level authority:** Thomas's Part I has eight direct joins: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. It controls the protected-policy proposition and the agreed treatment of actual policy-selection allegations; Stone-Zsela agrees with their dismissal on a different ground.
+
+##### No common rationale controls dismissal of all remaining allegations
+
+**Authority of the judgment:** Stone-Zsela, O'Connor, Kennedy, Thomas and Breyer affirm the whole dismissal, 5–4, but only four adopt Part II's complete section 2680(a) application. O'Connor and Stone-Zsela rely on Feres; Kennedy, Thomas and Breyer reserve that question. Four others reject a bar based merely on military causal genesis and seek limited further examination of execution allegations.
+
+These grounds are not nested rules. A protected policy choice may be unrelated to military service, while Feres may bar a service-incident claim involving conduct that violated a binding direction and therefore fails section 2680(a)'s test. Marks does not yield a five-Justice rule from them. The judgment binds these parties; it creates no general Feres rule for all injuries to military families and no controlling determination that every alleged execution act here is protected policy.
+
+**Treatment of earlier authority:**
+
+- **Berkovitz v. United States, 486 U.S. 531:** Applied to distinguish a specifically prescribed course from permitted choice; a possible directive is not a proved directive.
+- **United States v. Gaubert, 499 U.S. 315:** Applied to require protected policy discretion and to reject an automatic planning/operations boundary. The full application to the remaining allegations lacks five joins.
+- **Aktepe v. United States:** Applied for claim-specific examination of policy dependence; its reservation of Feres remains intact.
+- **Feres v. United States; Stencel Aero Engineering Corp. v. United States; United States v. Shearer; United States v. Johnson:** Existing holdings remain. The Court adopts no majority extension to all civilian personal injuries traceable to military service.
+- **United States v. Brown, 348 U.S. 110:** Its distinction involving a separate postservice wrong is not displaced or made sufficient to establish such a wrong here.
+- **Marks v. United States, 430 U.S. 188:** Supplies no common rule where the judgment-supporting grounds are not logical subsets.
+
+**Limits and questions not reached:** The children's dismissal stands. The Court applies the existing discretionary-function distinction to actual policy selection without adding a categorical military exception. The divided application to the remaining allegations and the proposed Feres extension establish no broader majority rule. Ordinary state-law prerequisites and the FTCA's other exceptions retain their independent force.
+
+**Operative remedy or transition:** **Affirmed, 5-4.**
+
+**Supporting:** Chief Justice Stone-Zsela and Justices O'Connor, Kennedy, Thomas and Breyer.
+
+**Opposing in part:** Justices Stevens, Scalia, Souter and Ginsburg. They agree that actual protected policy-selection claims cannot proceed, but would vacate the categorical dismissal of separable storage, administration and warning-execution allegations and remand for the statutory inquiry.
+
+No damages, discovery, new evidentiary hearing or remand is ordered. The wives' claims and Military Claims Act branch remain outside review. The Court does not decide the combatant-activities or foreign-country exceptions, state tort requirements, causation or the unresolved venue question.

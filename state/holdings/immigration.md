@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Immigration
 
@@ -286,3 +286,170 @@ Stevens relies on the recognition condition's constitutional fit; O'Connor and K
 - Fiallo's immigration-admission holding receives no controlling extension to all citizenship-at-birth classifications.
 - Pangilinan, Wong Kim Ark and Bellei receive no majority extension into the remedial rule proposed by Scalia and Thomas.
 - Mathews and Westcott receive no controlling new application requiring either extension or withdrawal of this citizenship benefit. The separate constitutional-remedy proposals remain noncontrolling.
+
+
+### Courts must respect the Board's permissible construction within actual delegated authority
+
+#### INS v. Aguirre-Aguirre
+
+**Docket or dockets:** No. 97-1754; judgment below, 121 F.3d 521.
+**Decided:** 1999-05-03.
+
+##### Courts must respect the Board's permissible construction within actual delegated authority
+
+**Holding:** Under §§1103(a)(1) and former 1253(h), together with the Board's adjudicative assignment in 8 C.F.R. §3.1(d)(1), courts must respect a permissible Board construction of the serious-nonpolitical-crime exception after independently enforcing enacted limits. Interpretation, application and factual review retain their distinct requirements; neither agency status nor a general appeal to foreign-affairs expertise supplies automatic correctness.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I–II, unanimous.
+
+##### A properly established crime exception requires no additional persecution-risk balance
+
+**Holding:** Once the serious-nonpolitical-crime exception is properly established, former §1253(h)(2) makes the paragraph (1) withholding protection inapplicable without an additional balancing of feared persecution against offense seriousness. The Board may address that exception while assuming the applicant could show that life or freedom would be threatened because of race, religion, nationality, membership in a particular social group or political opinion.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I–II, unanimous.
+
+##### The political-criminal comparison does not require every judicially preferred subsidiary finding
+
+**Holding:** The Board may compare an offense's political character with its ordinary criminal character and consider gross disproportionality or atrocious conduct in determining which predominates. The statute requires neither a separate atrocity finding in every case nor findings that the violence was necessary to or successful in achieving its political objective; the Board must still assess actual political purpose, context and conduct under its announced standard.
+
+**Proposition-level authority:** Breyer's opinion of the Court, Parts I–II, unanimous.
+
+##### The late record-error contention remains for its existing agency procedure
+
+**Holding:** The Court declines to decide the translation/transcription contention first raised here rather than before the Board or Court of Appeals; the applicant's existing BIA motion for a new hearing remains for determination through that lawful channel. If the BIA determines that modification of the record is necessary, it may determine whether the modified record warrants further consideration of withholding; no error, new hearing or outcome is presumed.
+
+**Proposition-level authority:** Breyer's Part III, joined by all eight Associate Justices. Stone-Zsela joins the disposition only and adds no rationale vote.
+
+**Limits and questions not reached:** Political purpose, context and conduct remain material under the Board's actual standard. Neither agency status nor foreign-affairs expertise supplies automatic correctness. The separate discretionary asylum denial does not become a statutory automatic bar; no translation defect or entitlement to a new hearing is presumed.
+
+**Operative remedy or transition:** Reverse the mandatory additional judicial conditions and remand without a final withholding/asylum decision, stay, removal instruction or ordered new hearing. The existing BIA motion follows its own lawful channel.
+
+**Treatment of earlier authority:**
+
+- Haggar preserves actual delegation, statutory boundaries and separate validity/application review; its tariff remand is not a universal agency-remand command.
+- NationsBank permits reasoned classification within genuine statutory discretion.
+- MCI and NCUA retain every enacted condition before deference.
+- INS v. Cardoza-Fonseca and INS v. Stevic illustrate independent enforcement of statutory meaning; they do not assign every evaluative choice exclusively to courts.
+- INS v. Elias-Zacarias distinguishes evidence permitting a finding from evidence compelling displacement under the relevant review standard.
+- INS v. Yang preserves reasoned administration and the separation of eligibility from discretion; it does not require a new hearing merely because a court corrects a legal premise.
+- AT&T and NFFE preserve the distinction between authority and the agency's actual lawful choice; the Board already supplied the pertinent comparison here.
+
+### I-A. The withdrawal reaches the named acts in these pending proceedings
+
+#### Reno v. American-Arab Anti-Discrimination Committee
+
+**Docket or dockets:** No. 97-1252; Ninth Circuit judgment, 119 F.3d 1367.
+**Decided:** 1999-02-24.
+
+##### I-A. The withdrawal reaches the named acts in these pending proceedings
+
+**Holding:** From April 1, 1997, section 1252(g) reaches earlier, pending and future proceedings, and its named-action withdrawal concerns claims arising from the Attorney General's identified decisions or actions to commence proceedings, adjudicate cases or execute removal orders, rather than every legal challenge to completed adjudication. This selection challenge attacks commencement and the requested restraint of adjudication; neither its constitutional label nor its possible attachment to a later final-order petition moves it outside the named actions, and continuing proceedings is not a fourth statutory act.
+
+**Proposition-level authority:** Souter's Part I-A, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, controls by eight direct joins. The same eight-Justice coalition controls Parts I-B, II and III-A below. Stone-Zsela joins no part of the opinion.
+
+##### I-B. The individual-relief exception does not grant jurisdiction
+
+**Holding:** Section 1252(f)(1)'s exception for application of the designated provisions to an individual alien against whom proceedings have been initiated limits that subsection's prohibition on lower-court injunctive relief; it does not independently confer subject-matter jurisdiction. Section 1252(f)(2)'s clear-and-convincing-evidence condition concerns enjoining removal pursuant to a final order and does not govern this case, which presents no such order.
+
+**Proposition-level authority:** Souter's Part I-B; the eight-Justice coalition stated in Part I-A.
+
+##### II. The proposed factual transfer does not make this final-order channel adequate
+
+**Holding:** Former section 1105a(a)'s incorporation of chapter 158 for final-deportation-order review does not authorize the proposed district-court development of this selection claim's necessary extra-record evidence: paragraph (4)'s administrative-record restriction, subject to the nationality-transfer exception in (5)(B), and section 2347's hearing conditions must both be satisfied. A required deportation hearing cannot become an action taken without a required hearing merely by treating the earlier charging decision as the action reviewed while using the final order as the jurisdictional trigger.
+
+**Proposition-level authority:** Souter's Part II; the eight-Justice coalition stated in Part I-A.
+
+##### III-A. Access, statutory defenses, constitutional merits and interim protection are distinct
+
+**Holding:** A substantial constitutional selection claim cannot be rejected merely because the actual immigration charges may be lawful or a statutory defense may avert deportation; those questions do not necessarily adjudicate selection, permit its necessary proof or repair an independently supported present injury. The developed preliminary findings make this access contention substantial, but establish neither ultimate discrimination, a general right to immediate review nor an automatic entitlement to stop the proceedings.
+
+**Proposition-level authority:** Souter's Part III-A; the eight-Justice coalition stated in Part I-A.
+
+##### III-B. A confined construction preserves a capable constitutional forum
+
+**Holding:** Section 1252(g) does not foreclose existing section 1331 jurisdiction over a substantial constitutional selection claim when a claimant has a concrete personal controversy, the actual immigration process cannot adjudicate that claim, and the applicable judicial-review provisions cannot receive the factual record necessary to decide it. A constitutional or collateral label, disagreement with enforcement discretion, or preference for earlier review is insufficient; this retained access does not itself entitle the claimant to an injunction.
+
+**Proposition-level authority:** Souter's Part III-B, joined by Stevens, O'Connor, Ginsburg and Breyer, controls by five direct joins. The same five-Justice coalition controls Part IV. Scalia, Kennedy and Thomas reject this construction; Stone-Zsela also rejects present collateral jurisdiction. No narrowest-ground combination of the competing constructions is involved.
+
+##### IV. Retained jurisdiction requires separate reconsideration of each injunction
+
+**Holding:** The confined jurisdictional result is affirmed, but the appellate judgment's unqualified preservation of preliminary relief is set aside for individualized reconsideration of continuing controversy, entitlement and scope; the existing District Court orders remain temporarily effective, without enlargement, pending lower-court action on remand. The Six's refusal-to-dissolve posture and the Two's later initial injunction must be analyzed separately, and individual relief must be modified or dissolved if its continuing requirements are absent.
+
+**Proposition-level authority:** Souter's Part IV; the five-Justice coalition stated in Part III-B.
+
+**Treatment of earlier authority:**
+
+- *INS v. Yueh-Shaio Yang*, November 13, 1996 — applied: April 1, 1997 commencement is distinct from cross-temporal reach.
+- *Reyes-Hernandez v. INS*, May 12, 1997 — applied to the three named actions and completed-adjudication boundary; its reserved constitutional-access issue is now resolved only for the defined substantial claim and actual factual-review barrier. No general constitutional exemption is recognized.
+- *Salazar-Haro v. INS*, June 16, 1997 — applied: the actual-judgment savings provision grants no jurisdiction, and an unidentified collateral route is not an established adequate substitute.
+- *Kolster v. INS*, June 23, 1997 — applied to effective review and the distinct transition provisions; its conditional section 2241 holding is preserved without extending it to subsection (g) or supplying habeas predicates here.
+- *Webster v. Doe*, 486 U.S. 592 — its clear-intent requirement supports the confined review-preserving construction; ordinary discovery and equitable limits remain.
+- *Lincoln v. Vigil*, May 24, 1993 — its preservation of separate constitutional review informs the distinction between executive discretion and constitutional access, without supplying a general immediate-review rule.
+- *McNary v. Haitian Refugee Center, Inc.*, 498 U.S. 479 — its inaccessible-record reasoning informs the present barrier; its individual-determination text and surrender-to-obtain-review obstacle are distinguished.
+- *Reno v. Catholic Social Services*, June 18, 1993 — its actual-barrier requirement and individualized remedial limits are applied by analogy; a collateral label remains insufficient.
+- *Thunder Basin Coal Co. v. Reich*, January 19, 1994 — preserved: meaningful review through an actual adequate channel remains permissible despite agency inability finally to decide constitutional law; the Mine Act's particular safeguards are not universal mandatory elements.
+- *United States v. Hollywood Motor Car Co.*, 458 U.S. 263 — its distinction between dismissal as a remedy and freedom from proceedings is applied; its already available trial forum distinguishes it from the present access barrier.
+- *Younger v. Harris*, 401 U.S. 37, and *Dombrowski v. Pfister*, 380 U.S. 479 — their respective ordinary-process and supported-continuing-suppression principles inform the injury inquiry; federal-state comity is not transplanted as an independent immigration jurisdictional bar.
+- *Oestereich v. Selective Service System Local Board No. 11*, 393 U.S. 233 — distinguished because no concededly satisfied, unequivocal statutory exemption covers all respondents; its broader separate timing rationale is not adopted as Court law.
+- *Whren v. United States*, June 10, 1996 — its distinction between lawful objective grounds and independently forbidden selection is preserved; immigration selection remains a separate merits question.
+- *Dawson v. Delaware*, March 9, 1992 — its distinction between abstract association and relevant association evidence is preserved without turning capital-sentencing law into a complete immigration rule.
+- *United States v. Armstrong*, May 13, 1996 — its source-specific indirect racial-selection discovery threshold remains distinct from the complete merits of a developed association claim; no automatic discovery entitlement follows.
+- *R.A.V. v. City of St. Paul*, June 22, 1992 — its controlling overbreadth rationale is preserved; the separate content-selection proposal supplies no controlling immigration rule.
+- *Citizens for a Constitutional Convention v. Yoshina*, January 21, 1999 — its separation of a substantial maintained claim from ultimate merits failure is applied; an actual individual surviving interest remains necessary.
+- *AT&T Corp. v. Iowa Utilities Board*, January 25, 1999 — distinguished: an announcement imposing no present conduct constraint and leaving concrete statutory review differs from these instituted proceedings and identified record barrier; mere finality still does not establish ripeness.
+- *Your Home Visiting Nurse Services v. Shalala*, February 23, 1999 — its route-specific jurisdiction principle is preserved; that missed statutory reimbursement appeal presented no distinct colorable constitutional claim and does not resolve this one.
+
+**Limits and questions not reached:** Effective February 24, 1999, the named-action withdrawal and old-proceeding transitions remain in force. They now operate with the confined section 1331 construction for a concrete, substantial constitutional selection claim whose necessary factual adjudication is unavailable in the actual statutory channel. Agency inability alone, a constitutional label and a preference for immediate review remain insufficient. The proposed section 2347 route cannot supply this missing factual review under the applicable hearing and record provisions; the separate availability of constitutional legal arguments on a proper agency record is left intact.
+
+Neither subsection (g)'s constitutionality nor the selection merits is decided. The two existing injunctions survive only provisionally and without enlargement while the lower courts address their distinct procedural and individual requirements. No habeas rule is added, no immigration status is granted, and no valid substantive deportation ground is immunized. The competing limited constitutional-exclusion inquiry and dismissal position are noncontrolling; neither enlarges the Court's construction.
+
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
+|---|---|---|---|---|
+| Original jurisdiction over the defined substantial constitutional selection claim | Jurisdictional result affirmed on the confined ground in Part III-B, 5–4 | Stevens, O'Connor, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Kennedy, Thomas | Subsection (f) is rejected as a jurisdictional grant; return for the individual continuing-controversy inquiry. |
+| Preliminary relief for the Six and the Two | Appellate judgment's unqualified preservation of relief set aside for confined reconsideration; existing district orders provisionally preserved without enlargement, 5–4 | Stevens, O'Connor, Souter, Ginsburg, Breyer | Stone-Zsela, Scalia, Kennedy, Thomas | Remand through the Ninth Circuit for distinct treatment of the Six's dissolution posture, the Two's initial injunction and each affected individual's surviving interest and relief. |
+
+Scalia, Kennedy and Thomas would instead vacate the appellate judgment and both injunctions while preserving limited present consideration of the constitutional challenge to exclusion itself. Stone-Zsela would dissolve the injunctions and dismiss the entire collateral action. These opposing remedies are distinct. No Justice's jurisdictional vote adjudicates discrimination or orders removal.
+
+### II. Section 440(d) does not govern this pending application
+
+#### Reno v. Goncalves
+
+**Docket or dockets:** No. 98-835; First Circuit judgment, 144 F.3d 110.
+**Decided:** 1999-06-03.
+
+##### II. Section 440(d) does not govern this pending application
+
+**Holding:** AEDPA section 440(d)'s new categorical eligibility restriction does not govern a former section 212(c) application filed before AEDPA took effect on April 24, 1996 and still awaiting final administrative action at enactment. Goncalves's pending administrative appeal must be considered under the former eligibility rule; the holding neither covers applications first filed after enactment nor determines the distinct temporal operation of IIRIRA's later repeal.
+
+**Proposition-level authority:** Part II of the opinion of the Court; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer directly adopts this rule.
+
+##### III. Agency interpretation cannot override this statutory conclusion
+
+**Holding:** Matter of Soriano receives no controlling weight on section 440(d)'s temporal application because ordinary interpretation resolves that question against the agency's construction; its reasoning is not persuasive enough to overcome the enacted distinctions. The Attorney General likewise cannot conclusively determine the district court's section 2241 jurisdiction, and the Board must decide the pending request without applying section 440(d) as an eligibility bar.
+
+**Proposition-level authority:** Part III of the opinion of the Court; the same six-Justice coalition directly adopts this rule and its administrative remedy.
+
+**Treatment of earlier authority:**
+
+- **Kolster v. INS:** Applied to an actual petition satisfying the previously reserved predicates; legal eligibility falls within its retained authority category, while discretionary reweighing remains excluded.
+- **Felker v. Turpin:** Applied for channel-specific repeal analysis; withdrawal of one review mechanism does not itself repeal a separate jurisdictional grant.
+- **Ex parte McCardle:** Its effect is confined to the appellate route Congress withdrew; it does not establish repeal of every independent habeas route.
+- **Ex parte Yerger:** Supports preservation of an independently available writ despite withdrawal of another review channel.
+- **Reyes-Hernandez v. INS:** Supplies the named-action boundary under section 242(g); its completed surrender of a defense is a distinct temporal predicate, not a universal prerequisite.
+- **Reno v. American-Arab Anti-Discrimination Committee:** Supplies the named-action/completed-adjudication distinction. Its separate constitutional section 1331 route is not extended.
+- **Hincapie-Nieto v. INS:** Its ordinary-review restriction and rejection of pending status alone remain controlling; they do not decide section 440(d)'s different eligibility change.
+- **Salazar-Haro v. INS:** Its review-channel rule remains intact and supplies no general immediate-effect rule for every substantive eligibility restriction.
+- **Landgraf v. USI Film Products:** Supplies the sequence requiring identification of Congress's temporal choice; the Court applies ordinary statutory construction without adopting a universal pending-case exception.
+- **Rivers v. Roadway Express, Inc.:** Preserves provision-specific temporal analysis and supplies no agency power to override Congress's choice.
+- **Lindh v. Murphy:** Its express/omitted temporal comparison is applied to these provisions, not extended to every AEDPA amendment.
+- **MCI Telecommunications Corp. v. AT&T:** Requires adherence to the enacted bounds of agency authority.
+- **NationsBank of North Carolina, N.A. v. Variable Annuity Life Insurance Co.:** Preserves agency interpretation only within permissible statutory meaning and delegated authority.
+- **INS v. Aguirre-Aguirre:** Retains appropriate immigration deference for authorized unresolved choices; it does not authorize a contrary temporal rule after ordinary construction resolves Congress's choice.
+
+**Limits and questions not reached:** The surviving section 2241 route can decide this covered criminal alien's substantial legal eligibility challenge when its actual predicates are satisfied. Applications for former section 212(c) relief already pending on April 24, 1996 remain outside section 440(d)'s new eligibility bar. Eligibility permits the agency to exercise its lawful discretion; it does not predetermine the result. Ordinary-review restrictions, later-filed applications and IIRIRA's distinct repeal remain governed by their own provisions. No precedent is overruled and no general right to review discretionary immigration decisions is created.
+
+**Operative remedy or transition:** Affirmed, 6–3. Supporting: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Opposing the eligibility disposition: Scalia, Kennedy and Thomas. All nine sustain district-court jurisdiction over the actual section 2241 petition. The Board shall consider Goncalves's former section 212(c) application under the eligibility law applicable to the pending application when AEDPA took effect and exercise the discretion that law supplies. The immigration judge's earlier discretionary denial does not replace the Board's decision on the timely appeal. No favorable exercise of discretion, waiver, release or termination of deportation proceedings is awarded; equal protection is not adjudicated.
+
+
+For the other questions in Reno v. Goncalves, decided 1999-06-03, at the dockets stated above, see Federal Courts.

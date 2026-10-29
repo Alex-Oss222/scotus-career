@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Bankruptcy
 
@@ -623,3 +623,125 @@ Barnhill retains its federal honor-date rule for ordinary-check transfers under 
 - McIntyre v. Kavanaugh, 242 U.S. 138, is distinguished as deliberate appropriation; it does not make all conversions or negligent professional acts nondischargeable, and its old-Act imputation question is not decided.
 - Davis v. Aetna Acceptance Co., 293 U.S. 328, is applied to preserve the distinction between tort liability and willful and malicious injury.
 - Field v. Mans is applied for the independent federal discharge predicates; its actual-fraud reliance rule is unchanged. In re Cohen’s debt-extent rule remains distinct because a qualifying injury predicate must first exist here.
+
+
+### Card use communicates an intent to repay, not a warranty of solvency
+
+#### AT&T Universal Card Services v. Rembert
+
+**Docket or dockets:** No. 98-352.
+**Decided:** 1998-12-01.
+
+##### Card use communicates an intent to repay, not a warranty of solvency
+
+**Holding:** When a cardholder obtains an advance by using the card, she communicates a present intention to repay the resulting debt, not a warranty of current solvency or an objectively reasonable prospect of repayment; on the actual-fraud theory presented, the creditor must prove by a preponderance that the professed contemporaneous intention was false and deceptive. Financial condition, losses, borrowing patterns and other circumstances may establish that state of mind, but inability to pay or unreasonable optimism alone cannot substitute for it, and the debtor's denial is not conclusive.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+##### The record supports affirmance without a new fraud inquiry
+
+**Holding:** A finding of fraudulent repayment intent cannot stand on an objective inability-to-pay substitute for the subjective inquiry; factual findings remain subject to clear-error review and the governing legal standard to independent review. Here the reported bankruptcy explanation rests on that erroneous substitute, while substantial actual repayments corroborate the intent to repay and no independent contrary contemporaneous-intent finding is identified, so the Sixth Circuit's dischargeability judgment concerning AT&T is affirmed without further factfinding.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Limits and questions not reached:** No gambling exemption or conclusive acceptance of a debtor's asserted intent follows. Actual and recipient-specific justifiable reliance, causation and debt extent remain independent and undecided. Section 523(a)(2)(A) excludes financial-condition statements; subsection (B)'s written-statement, material-falsity, reasonable-reliance and intentional-publication conditions remain distinct. Other representation theories, subsection (C)'s recent-debt presumption and §523(d) fees are not adjudicated.
+
+**Treatment of earlier authority:**
+
+- Field v. Mans (November 28, 1995): applies its common-law actual-fraud framework and preserves independent actual and recipient-specific justifiable reliance. Its correct-standard remand rule applies when a material application remains unresolved; it does not compel a redundant remand on this record. The prior reliance holding is not treated as an earlier universal decision about cardholder intent.
+- Grogan v. Garner, 498 U.S. 279: applies the creditor's preponderance burden without raising it or requiring an admission of deceit.
+- In re Cohen (June 30, 1997): preserves the requirement of a qualifying fraudulent acquisition before its connected-liability rule can operate. That debt-extent rule supplies no missing fraud predicate here.
+
+### Old equity cannot reserve this valuable investment opportunity because of its former ownership
+
+#### Bank of America National Trust & Savings Ass’n v. 203 North LaSalle Street Partnership
+
+**Docket or dockets:** No. 97-1418; judgment below, 126 F.3d 955.
+**Decided:** 1999-05-03.
+
+##### Old equity cannot reserve this valuable investment opportunity because of its former ownership
+
+**Holding:** When an impaired senior unsecured class objects and is not paid in full, §1129(b)(2)(B)(ii) forbids a plan from reserving to old equity alone the opportunity to contribute new capital and acquire reorganized ownership where old ownership supplies that exclusive eligibility. The opportunity is property received under the plan on account of the old interest, even when the proposed investment purchases new ownership and the underlying valuations are unchallenged.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer (eight Justices).
+
+**Limits and questions not reached:** No asset/contribution valuation error or higher outside bid is found. Lawful unappealed §1121 proposal exclusivity does not resolve §1129 substantive confirmability. General new-value survival and complete conditions remain open; no auction, bidder, automatic exclusivity termination or universal valuation method is required. Stone-Zsela's further market-exposure proposal is not Court law.
+
+**Operative remedy or transition:** Reverse the confirmation judgment and remand for lawful plan proceedings removing this exclusive-opportunity defect; the unappealed exclusivity ruling, classification and accepted valuations are not reopened.
+
+**Treatment of earlier authority:**
+
+- Norwest Bank Worthington v. Ahlers recognizes economic ownership rights and limits equity to the Code; its reservation concerning actual new capital remains open.
+- Case v. Los Angeles Lumber Products identifies the historical new-capital distinction; the Court neither recognizes nor rejects every modern new-value plan.
+- United States v. Noland and United States v. Reorganized CF&I Fabricators preserve statutory ranking and genuine exceptions rather than judicially preferred priorities.
+- Nobelman v. American Savings Bank distinguishes valuation from the legal rights protected by statute; its Chapter 13 mortgage rule is not extended wholesale to this Chapter 11 dispute.
+
+### Mandatory notice and performance do not create an exclusive retention election
+
+#### McClellan Federal Credit Union v. Parker
+
+**Docket or dockets:** No. 98-618.
+**Decided:** 1998-12-09.
+
+##### Mandatory notice and performance do not create an exclusive retention election
+
+**Holding:** For the scheduled consumer debts secured by estate property covered by the then-effective §521(2), the debtor must file the statement of retention or surrender within thirty days after filing or by the creditors' meeting, whichever is earlier, with a for-cause extension fixed within that period; the statement must specify exemption, redemption or reaffirmation when applicable, and the debtor must perform the lawful stated intention within forty-five days after that notice, with a for-cause extension fixed within those forty-five days. Read with (C)'s preservation of the debtor's and trustee's rights, those mandatory duties do not themselves make surrender, redemption or reaffirmation the exclusive substantive options: a debtor may maintain payments and retain collateral insofar as existing law and the enforceable agreement permit, without stripping the lien, excusing an actual lawful default or obtaining judicially reduced installment redemption.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+##### This agreement remains subject to independent debtor-protection approval
+
+**Holding:** For this unrepresented individual, §524(c)(6)(A) requires judicial approval that the reaffirmation both does not impose undue hardship on the debtor or a dependent of the debtor and is in the debtor's best interest; (6)(B)'s exception for consumer debt secured by real property does not cover this car and unsecured card debt. Signing the agreement does not satisfy those distinct conditions, and on the reviewed continued-payment-retention premise refusal of this agreement was within the bankruptcy court's discretion.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The valid lien and discharged personal liability retain separate consequences. No default, foreclosure, repossession or substitute agreement is ordered, and no general invalidity of bankruptcy clauses is decided. Section 521(2) does not itself excuse an actual default or authorize lien stripping or installment redemption.
+
+**Treatment of earlier authority:**
+
+- Johnson v. Home State Bank: applies the distinction between extinguished personal liability and a surviving claim against property.
+- Dewsnup v. Timm (January 15, 1992): preserves its limited Chapter 7 real-property lien holding; it supplies no additional §521 election or immunity from express Code provisions.
+- Nobelman v. American Savings Bank (June 1, 1993): distinguishes the express Chapter 13 principal-residence rights protection from this Chapter 7 automobile setting.
+- United States v. Ron Pair Enterprises: applies attention to the actual provision and its qualifications rather than an added consequence.
+- Butner v. United States: preserves state-defined property and contract rights subject to the consequences Congress enacted; no unknown contract term is adjudicated.
+
+For the other questions in McClellan Federal Credit Union v. Parker, decided 1998-12-09, No. 98-618., see Federal Courts.
+
+### The actual tax-treatment connection must be read with its lien conditions
+
+#### Pension Benefit Guaranty Corporation v. CF&I Fabricators of Utah, Inc.
+
+**Docket or dockets:** No. 98-1440; judgment below, 150 F.3d 1293.
+**Decided:** 1999-05-13.
+
+##### The actual tax-treatment connection must be read with its lien conditions
+
+**Holding:** A court may not reject §412(n)(4)(C)'s incorporation of rules similar to ERISA §4068(c), including its express Title 11 tax treatment, solely because the Bankruptcy Code does not refer back to the pension provision. It must determine the incorporated treatment's scope and satisfy the specified lien conditions and applicable pre-1994 §507(a)(7) requirements before granting tax priority; the Court grants none here.
+
+**Proposition-level authority:** Souter's Part I, joined by all eight Associate Justices; Stone-Zsela does not join the tax-priority remand.
+
+##### Prepetition-service compensation does not become a new administrative debt merely because payment is later due
+
+**Holding:** The additional pension-contribution claim, attributable to prepetition employee services, does not obtain §503(b)(1)(A) administrative priority merely from a later due date, continuing funding duty or later plan termination. The already allowed component for actual postpetition services remains, and Reading's distinct postpetition-liability route without an estate-benefit requirement remains intact.
+
+**Proposition-level authority:** Souter's Part II, unanimous.
+
+##### The statutory liability measure must be reconciled with bankruptcy allowance
+
+**Holding:** Sections 1362(b)(1)(A) and 1301(a)(18), including the latter's incorporation of PBGC-prescribed assumptions, define the underlying unfunded-benefit liability and cannot be displaced categorically merely because the claim is in bankruptcy. Courts must apply that lawful measure together with §502(b)'s petition-date allowance command, enforce actual statutory limits and conflicts, and consider properly presented validity or application objections; the Court validates no universal methodology and fixes no amount.
+
+**Proposition-level authority:** Souter's Part III, joined by all eight Associate Justices; Stone-Zsela does not join the valuation remand.
+
+**Limits and questions not reached:** Section 412(n) concerns covered unpaid required contributions exceeding $1 million and a lien arising on the sixtieth day after the installment due date. The tax instruction concerns an amount with respect to which that lien is imposed and imports rules similar to §4068(c), (d), and (e). The lower finding that the installment was due fewer than sixty days prepetition, and the preserved no-lien/stay alternative, remain unresolved by this Court. No universal estate-benefit prerequisite, exclusion of postpetition statutory wrongs, PBGC methodology, duplicate discounting or universal pension rate is approved.
+
+**Operative remedy or transition:** Vacate tax priority and the $124,441,000 valuation for lawful construction and liability/allowance review; affirm denial of additional administrative priority for prepetition-service debt. Preserve the allowed postpetition-service component and Appeal Fund limit. No priority, amount, lien attachment, new rule or hearing is ordered.
+
+**Treatment of earlier authority:**
+
+- United States v. Reorganized CF&I Fabricators retains its operation-based treatment of the separate §4971 assessment and its subordination limits; unpaid contributions with this conditional Title 11 instruction are a different debt.
+- United States v. Noland preserves statutory priority and actual exceptions rather than judicial reprioritization.
+- Reading Co. v. Brown preserves administrative treatment of qualifying postpetition liability without a measurable estate benefit; the additional debt here remains prepetition in origin.
+- Hughes Aircraft and UNUM distinguish obligation, function and remedy; UNUM's state-insurance saving clause is not transplanted into this federal scheme.
+- Haggar supplies actual-authority and statutory-limit review, distinct from particular validity and application.
+- Associates Commercial Corp. v. Rash follows its particular retained-collateral valuation rule; it supplies no universal pension discount method.
+- LaSalle separates the legal allocation of rights from their numerical valuation and imposes no general market test on this claim.

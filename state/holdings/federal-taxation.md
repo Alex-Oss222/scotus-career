@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Federal Taxation
 
@@ -822,3 +822,129 @@ The regulation measures the specified reserve rather than wrongdoing. It exclude
 - **Thelusson v. Smith; Conard v. Atlantic Insurance Co.:** Read together; the unperfected interest discussed there does not establish a categorical answer for every later protected real-property lien.
 - **United States v. Key; United States v. Emory:** Distinguished as unsecured-claim settings that do not resolve this protected-property collision.
 - **Holywell Corp. v. Smith; United States v. Hill:** Preserved for their distinct filing/payment and tax-classification rules, without converting tax liability into universal priority. No precedent is overruled.
+
+
+### Federal contracts on a reservation do not themselves exempt the contractor
+
+#### Arizona Department of Revenue v. Blaze Construction Co.
+
+**Docket or dockets:** No. 97-1536
+**Decided:** 1999-03-02.
+
+##### Federal contracts on a reservation do not themselves exempt the contractor
+
+**Holding:** A State may impose a nondiscriminatory gross-receipts tax whose legal incidence falls on an independent nonmember contractor performing ordinary federal construction contracts on a reservation, absent applicable constitutional immunity or a controlling federal exemption. Federal payment, supervision, reservation location and benefit to tribes do not themselves supply that exemption or require Bracker/Ramah interest balancing for the federal transaction.
+
+**Proposition-level authority:** Stevens's opinion has all nine Justices' direct joins in this rule, its application and the stated reservations.
+
+**Treatment of earlier authority:**
+
+- **United States v. New Mexico, 455 U.S. 720:** Applied; ordinary independent federal contractors do not share federal tax immunity merely because federal money pays the tax's economic burden.
+- **United States v. California:** Applied to distinguish legal incidence from reimbursement and economic effect.
+- **Chickasaw Nation v. Oklahoma Tax Commission:** Preserved for actual tribal incidence; its reserved nonmember questions do not create an exemption here.
+- **White Mountain Apache Tribe v. Bracker, 448 U.S. 136:** Distinguished from this ordinary federal contract; its particular tribal timber-operation holding remains.
+- **Ramah Navajo School Board v. Bureau of Revenue, 458 U.S. 832:** Distinguished as a tribally controlled undertaking; its holding is not extended to every federal reservation supplier.
+- **Cotton Petroleum Corp. v. New Mexico, 490 U.S. 163:** Applied to reject indirect economic effect or tax/service equivalence as sufficient grounds for immunity.
+
+**Limits and questions not reached:** Ordinary federal construction contracts do not acquire a tax exemption from reservation location. The legal taxpayer and any actual federal exemption control this transaction. Tribal-incidence immunity and the distinct law governing tribal contracts remain intact. The amount of Blaze's liability awaits resolution of preserved credits.
+
+**Operative remedy or transition:** **Reversed and remanded, 9-0.**
+
+**Supporting:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+The State may apply the nondiscriminatory gross-receipts tax to these federal contracts. The state courts must address Blaze's unresolved claims for credits for taxes paid by subcontractors and suppliers. The Court fixes no net assessment and restores no excluded tribal-contract receipts.
+
+### The levy operates as compensation taxation within §111
+
+#### Jefferson County v. Acker
+
+**Docket or dockets:** No. 98-10; October Term 1998.
+**Decided:** 1999-06-21.
+
+##### The levy operates as compensation taxation within §111
+
+**Holding:** The levy asserted in these collection actions operates as a tax on compensation for federal personal services within 4 U.S.C. §111, notwithstanding its occupational-license label. Section 111's consent does not authorize discrimination because of the compensation's federal source or a local requirement of permission to exercise federal office.
+
+**Proposition-level authority:** Ginsburg's Part III is joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter and Thomas; seven directly adopt this compensation-tax rule on the jurisdictional predicate stated above.
+
+##### The presented source-discrimination defense fails
+
+**Holding:** On this ordinance and record, taxing the respondent judges' compensation while exempting occupations subject to other specified state licensing charges does not discriminate because their compensation comes from a federal source. The intergovernmental-immunity judgment must be reversed, with remand consistent with that determination and the reservation of the separate Compensation Clause question.
+
+**Proposition-level authority:** Ginsburg's Part IV, joined by Stone-Zsela, Stevens, Scalia, Kennedy, Souter and Thomas, supplies seven direct votes for the source-discrimination determination and limited remand.
+
+**Treatment of earlier authority:**
+
+- **Mesa v. California:** Applies the distinct federal-defense requirement; federal office alone is insufficient and merits success is not required to establish a colorable defense.
+- **Willingham v. Morgan:** Applies the protective federal-officer forum and the connection to official duties without demanding advance victory on the defense; the particular nexus remains necessary.
+- **Arkansas v. Farm Credit Services of Central Arkansas:** Distinguishes its affirmative injunction/declaration action by private associations and conceded adequate state remedy. Its separation of substantive immunity from forum entitlement remains intact; no universal federal-officer exception is created.
+- **Graves v. New York ex rel. O'Keefe:** Applies the rejection of categorical immunity for federal compensation taxation and the need to assess the tax's actual operation, subject to governing nondiscrimination and federal-function limits.
+- **Davis v. Michigan Department of Treasury:** Applies federal-source nondiscrimination and relevant comparator analysis; it does not require identical treatment of every differently licensed occupation regardless of the reason for classification.
+- **Arizona Department of Revenue v. Blaze Construction Co.:** Preserves legal-incidence analysis and the distinction from indirect economic effect; its independent-contractor result is not extended to erase the separate protection of federal judges or direct federal functions.
+- **United States v. X-Citement Video and United States v. American Railway Express:** Apply the prevailing respondent's ability to renew a record-supported alternative for the same favorable judgment without seeking enlarged relief.
+- **Lebron v. National Railroad Passenger Corp.:** Preserves bounded review discretion and limits concerning distinct claims, questions, relief and missing facts; no universal duty to consider abandoned grounds follows.
+- **Zafiro v. United States:** Distinguishes a petitioner's personal unpursued claim from this renewed respondent alternative; its prudential preservation rule remains.
+- **AT&T v. Central Office Telephone:** Distinguishes refusal to construct an independent theory that the respondent had not advanced; this defense was adjudicated below and renewed here.
+- **Dandridge v. Williams and West v. Gibson:** Preserve lawful remand for appropriate unresolved alternatives without compelling remand of this already adjudicated, record-supported discrimination question.
+
+**Limits and questions not reached:** Effective June 21, 1999, these federal judicial officers may defend the County's work-linked collection suits in the federal forum because the office nexus and colorable federal defense are established. Section 1341 does not bar the defensive adjudication in that collector-initiated posture. The particular occupational levy is compensation taxation within §111 and the presented source-discrimination defense fails. No categorical exemption for federal judges or local power to license their duties follows. The independent Compensation Clause question and proper calculation or procedural matters remain for their lawful treatment below. The discrimination issue is resolved, not remanded for reopening. Existing limits on affirmative taxpayer suits, actual federal-function restraints, source discrimination and distinct review questions retain their force; no precedent is overruled.
+
+**Operative remedy or transition:**
+
+| Component | Disposition and vote | Supporting Justices | Opposing Justices or qualification |
+|---|---|---|---|
+| Federal-officer removal | Federal forum sustained, 6–3 | Stone-Zsela, Stevens, O'Connor, Kennedy, Ginsburg, Breyer | Scalia, Souter, Thomas would return the collection actions to state court for lack of the required nexus. |
+| Tax Injunction Act | No bar to adjudication of the County's collection action and defenses, 9–0 | All nine Justices | Scalia, Souter and Thomas join after accepting the Court's resolution of removal as the governing predicate. |
+| Compensation-tax characterization, renewed source-discrimination defense and limited remand | Intergovernmental-immunity judgment reversed and remanded, 7–2 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg | O'Connor and Breyer would affirm on direct federal-function taxation; Scalia, Souter and Thomas join reversal on the Court's resolution of removal. |
+
+The case returns for proceedings consistent with the compensation-tax and nondiscrimination holdings. The separate Compensation Clause ground remains undecided for proper treatment below. The discrimination defense has been reached and rejected; it is not reopened. The Court directs no unconditional collection, fixes no amount, supplies no new calculation finding and requires no new evidence. Any remaining calculation or procedural issue retains its own lawful scope.
+
+
+For the other questions in Jefferson County v. Acker, decided 1999-06-21, at the dockets stated above, see Federal Courts.
+
+### Alabama's franchise-tax bases discriminate against foreign corporations
+
+#### South Central Bell Telephone Co. v. Alabama
+
+**Docket or dockets:** No. 97-2045.
+**Decided:** 1999-03-23.
+
+##### Alabama's franchise-tax bases discriminate against foreign corporations
+
+**Holding:** Alabama's franchise-tax structure discriminates against interstate commerce by taxing foreign corporations on actual capital employed in the State while allowing comparable domestic corporations to use a par-value base that may be set well below actual value. The favorable domestic base cannot be justified by comparing nominal rates or tax labels while disregarding the actual competitive burden.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court, Parts I–V.
+
+**Treatment of earlier authority:** Oregon Waste's origin-discrimination rule, West Lynn Creamery's practical comparison and Fulton's treatment of corporate tax preferences are applied. Tracy's distinct actual-service comparison is distinguished, not displaced.
+
+##### The domestic shares tax does not establish a compensatory defense
+
+**Holding:** A compensatory-tax defense requires an identified actual intrastate burden, an interstate charge that roughly approximates and does not exceed that burden, and substantially equivalent taxable events capable of functioning as mutually exclusive proxies. Alabama's domestic shares tax reaches a different event and does not establish the equivalence needed to compensate for the discriminatory foreign-corporation franchise tax.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court, Parts I–V.
+
+**Treatment of earlier authority:** Oregon Waste and Fulton supply the cumulative actual-burden, nonexcess and equivalent-event requirements. Their allowance for genuinely complementary taxes survives; fiscal correlation alone remains insufficient.
+
+**Independent alternative holding:** Alabama also fails to establish an actual matching domestic burden and a roughly equivalent, nonexcessive interstate burden by invoking other domestic taxes or an aggregate fiscal balance. This separate deficiency defeats the compensatory defense even apart from the absence of equivalent taxable events.
+
+**Proposition-level authority for alternative holding:** Chief Justice Stone-Zsela's unanimous opinion of the Court, Part IV.
+
+##### Alabama must provide adequate relief through lawful state remedial choices
+
+**Holding:** The judgment is reversed and the case remanded for constitutionally adequate relief under state law. When payment was required before an adequate opportunity to contest the tax, McKesson requires meaningful backward-looking correction; independently, a State may not withdraw a clearly held-out postpayment remedy after payment and substitute an unpursued prepayment route.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court, Parts I–V.
+
+**Treatment of earlier authority:** McKesson's conditional duty of backward-looking correction and Reich's independent no-withdrawal rule govern the remand. Fulton confirms the distinction between invalidating a discriminatory tax and choosing its precise lawful remedy.
+
+**Limits and questions not reached:** No exact refund, replacement assessment, severability ruling or particular taxpayer's satisfaction of payment and preservation conditions is decided. Ordinary valid preclusion and genuinely equivalent compensatory taxes remain possible under their own prerequisites. The Court does not reopen otherwise binding judgments or decide a new federal damages action.
+
+**Limits and questions not reached:** The Court determines no exact refund, replacement assessment, severability result or taxpayer's satisfaction of payment and preservation conditions. It does not reopen binding judgments or decide a new federal damages action.
+
+**Operative remedy or transition:** Reverse and remand for constitutionally adequate relief through lawful state mechanisms; the conditional backward-looking duty and independent prohibition on withdrawing a held-out postpayment remedy remain distinct.
+
+**Treatment of earlier authority:**
+
+McKesson supplies authority to review the federal questions in a State's own judgment and the conditional duty of backward-looking relief. Richards defeats the asserted nonparty bar while preserving genuine representative and party preclusion. Oregon Waste, West Lynn Creamery and Fulton govern the practical tax comparison; Oregon Waste and Fulton require all three compensatory predicates and preserve genuinely equivalent taxes. Tracy's regulated-service distinction does not control this classification. Reich supplies the independent prohibition against withdrawing a clearly held-out postpayment remedy. No Supreme Court precedent is overruled.
+
+For the other questions and complete operative scope in South Central Bell Telephone Co. v. Alabama, 1999-03-23, No. 97-2045, see Federal Courts.

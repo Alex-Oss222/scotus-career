@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Constitutional Structure
 
@@ -2569,3 +2569,274 @@ For the other questions decided in this same case, docket and date, see Federal 
 **Treatment of earlier authority:** Chadha's enactment/repeal requirement is applied; Field and Train preserve genuine implementation; Loving, Hechinger, Morgan Stanley and Plaut retain their distinct institutional limits.
 
 **Operative remedy or transition:** The District Court’s declarations are affirmed. The challenged cancellations have no legal effect; the original provisions operate under their ordinary conditions and lawful administration. No presidential injunction or affirmative monetary, tax, congressional or alternative appellate proceeding is ordered.
+
+
+### The existing statutory service obligation supplies clear funding notice
+
+#### Cedar Rapids Community School District v. Garret F.
+
+**Docket or dockets:** No. 96-1793
+**Decided:** 1999-03-03.
+
+##### The existing statutory service obligation supplies clear funding notice
+
+**Holding:** The express IDEA related-services duty, the qualified school-health regulation and Tatro's established construction provide clear notice of the covered nonphysician service obligation at issue here. Continuous or substantial need does not by itself make that specified condition an unannounced funding obligation.
+
+**Proposition-level authority:** Stevens's Part II is joined by O'Connor, Scalia, Souter, Ginsburg and Breyer. Six direct joins control this independently stated answer to the Spending Clause objection. Stone-Zsela agrees in rejecting the objection without joining its rationale.
+
+
+
+For the other questions in Cedar Rapids Community School District v. Garret F., decided 1999-03-03, at the dockets stated above, see Civil Rights. The complete event-wide precedent treatment and operative mandate appear with this case in Civil Rights.
+
+### III. The two proposed sampling methods are statutorily permissible
+
+#### Department of Commerce v. United States House of Representatives
+
+**Docket or dockets:** Clinton v. Glavin; Nos. 98-404 and 98-564.
+**Decided:** 1999-01-25.
+
+##### III. The two proposed sampling methods are statutorily permissible
+
+**Holding:** Sections 141 and 195 permit the proposed nonresponse follow-up and Integrated Coverage Measurement methods, as components of the actual enumeration effort described in this record, to contribute to the population tabulation used for interstate House apportionment. The Act does not require the Secretary to select these methods, and the statutory injunction against their use cannot stand.
+
+**Proposition-level authority:** Souter's Part III-A has five direct joins: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer. The shared proposition concerns these two designs, not every possible sampling plan. Part III-B's general construction has only Stone-Zsela, Stevens, Souter and Ginsburg; Breyer supplies a distinct, narrower statutory explanation in his separate opinion.
+
+##### IV. The Constitution permits this explained use of statistical supplementation
+
+**Holding:** The Enumeration Clause requires a genuine population-counting effort reasonably related to enumeration and population-based representation, rather than an exclusively headcount method. The proposed follow-up and coverage-measurement design satisfies that requirement on its explained geographic and methodological record; materially different, unsupported, discriminatory or unauthorized implementation remains reviewable.
+
+**Proposition-level authority:** Souter's Part IV is joined by Stone-Zsela, Stevens, Ginsburg and Breyer and controls with five votes. O'Connor, Scalia, Kennedy and Thomas resolve Glavin on statutory prohibition and do not decide constitutional validity.
+
+**Treatment of earlier authority:**
+
+- *Lujan v. Defenders of Wildlife* is applied at the summary-judgment stage: a supported threatened personal injury is required; legislative authorization cannot replace it.
+- *Franklin v. Massachusetts* is applied to representation injury, the official remedial chain and rejection of a literal physical-presence rule. Its actual-reasons review remains distinct from constitutional reasonableness, and no presidential APA or coercive-relief question is decided.
+- *Raines v. Byrd* is applied by distinguishing the authorized institution from individual legislators while independently requiring concrete injury. Its reservation of institutional suits is preserved; this particular House claim fails.
+- *Federal Election Commission v. Akins* is distinguished: actual withheld information for a concrete electoral use differs from disagreement over lawful preparation of a future report. Its informational-injury rule remains effective.
+- *Wisconsin v. City of New York* is applied to explained census choice, geographic accuracy and uncertainty. Its reserved constitutional sampling question is answered for these methods; its reasonable-relationship standard is unchanged, and neither it nor this decision commands adjustment.
+- *Steel Co. v. Citizens for a Better Environment*, *NAACP, Los Angeles Branch v. Jones* and *Wisconsin Right to Life v. Paradise* are applied to decide each plaintiff's actual threshold before contested merits. No jurisdiction is assumed to obtain either docket's result.
+
+**Limits and questions not reached:** the two proposed apportionment methods are permitted by the Census Act and satisfy the Enumeration Clause on this design and explanation. Five Justices support that statutory permission and the constitutional rule, but only four adopt the general permission-versus-duty interpretation of §195. No controlling prohibition on every replacement sample census or general percentage safe harbor is established. The six-Justice House-standing rationale requires an institution's own concrete injury and leaves other institutional claims open. Review of actual implementation, geographic reliability and compliance with independent statutory limits survives. No sampling mandate or new exemption from judicial review results.
+
+**Operative remedy or transition:**
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| Glavin, No. 98-564 | Reverse the statutory judgment and vacate the injunction, 5–4 | Stone-Zsela, Stevens, Souter, Ginsburg, Breyer | O'Connor, Scalia, Kennedy, Thomas | Remand for proceedings consistent with permission to use the two proposed methods; the presented categorical and design-level constitutional objections supply no surviving injunction. |
+| House, No. 98-404 | Vacate the judgment and permanent injunction; remand for dismissal for lack of standing, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg | Stevens, Breyer | Dismiss without prejudice for want of Article III standing; enter no merits judgment in this action. |
+
+All nine find standing in Glavin through Hofmeister's sufficiently supported threatened loss of representation. Stevens and Breyer would reach the House merits and reverse its statutory judgment rather than direct jurisdictional dismissal. The House disposition rests on its own lack of standing, not mootness from an independently surviving Glavin prohibition. No injunction against the President or new enforcement term is ordered.
+
+
+For the other questions in Department of Commerce v. United States House of Representatives, decided 1999-01-25, at the dockets stated above, see Federal Courts.
+
+### The possession restriction supports the distinct prohibited-recipient supply regime
+
+#### Hiley v. Barrett
+
+**Docket or dockets:** Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket.
+**Decided:** 1998-10-09.
+
+##### The possession restriction supports the distinct prohibited-recipient supply regime
+
+**Holding:** The presented facial commerce challenge to section 922(g)(9) fails because possession by the qualifying recipient class is a fitted anti-evasion and anti-impairment component of the valid federal restriction on supplying firearms and ammunition to that class. The Commerce and Necessary and Proper Clauses permit that inclusion, while section 922(g)'s enacted interstate conditions remain separate requirements rather than an automatic constitutional cure.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+
+##### The prohibition governs later firearm conduct, not punishment for the earlier battery
+
+**Holding:** Applying section 922(g)(9) to firearm conduct after its September 30, 1996 effective date does not violate the Ex Post Facto Clause merely because the qualifying conviction occurred earlier. The conviction identifies the regulated class; the statute neither criminalizes completed preenactment firearm possession nor increases the sentence for Hiley's 1995 battery.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+
+##### This restriction is not legislative punishment without trial
+
+**Holding:** The general, prospective firearm disability tied to adjudicated qualifying domestic violence is not a bill of attainder under the historical, functional and purpose inquiries. Its fitted prevention of further violence and its serious but incidental employment consequences do not establish legislative occupational punishment or a congressional adjudication of guilt for a future firearm offense.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+
+##### The federal rule does not command the sheriff's administration
+
+**Holding:** The challenged possession-and-supply rule does not violate the Tenth Amendment on the asserted staffing theory because it does not command the sheriff to terminate Hiley, legislate, prosecute federal offenses, administer background checks or appropriate funds. Its consequences for lawful staffing choices do not themselves make it a federal direction to administer a regulatory program.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela agrees in the judgments without joining the opinion.
+
+**Limits and questions not reached:** The case decides the preserved civil challenges and no criminal prosecution, notice or mental-state defense. No separate abandoned strict-scrutiny or procedural-due-process claim is revived; the local claims settled with prejudice stay closed. No individual conviction-relief entitlement, never-lost-rights construction or universal firearms disability is established.
+
+**Limits and questions not reached:** Section 922(g)(9) separately covers interstate or foreign shipment or transportation, possession in or affecting commerce, and receipt of firearms or ammunition previously shipped or transported in interstate or foreign commerce. Section 922(d)(9)'s distinct sale-or-disposition rule requires knowledge or reasonable cause to believe the recipient has the qualifying conviction; that mental-state condition is not silently imported as the complete culpability rule of section 922(g)(9). The present civil action decides no prosecution's proof or notice defense.
+
+Under section 921(a)(33), the qualifying offense must be a federal or state misdemeanor with an element of use or attempted use of physical force, or threatened use of a deadly weapon, committed by a current or former spouse, parent or guardian; a person sharing a child with the victim; a person cohabiting or formerly cohabiting as spouse, parent or guardian; or a person similarly situated to a spouse, parent or guardian. The person must have had counsel or knowingly and intelligently waived counsel. If entitled to a jury under the jurisdiction's law, the person must have received a jury trial or knowingly and intelligently waived it by plea or otherwise; this creates no additional jury entitlement. Hiley's predicate is treated as qualifying in this action, without supplying an unproved different conviction or deciding a challenge to one of these conditions.
+
+An expunged or set-aside conviction, a pardon, or restoration of civil rights where the jurisdiction provides for loss of those rights for the offense can remove the conviction from the definition, subject to the express-firearms-reservation clause. That clause names a pardon, expungement or restoration expressly prohibiting shipment, transportation, possession or receipt of firearms; it does not separately repeat set-aside. The Court neither enlarges that wording nor decides its application to Hiley. No actually available pardon, administrative relief process or individual relief entitlement is found.
+
+Section 925(a)(1)'s governmental-use exception does not extend to sections 922(d)(9) or 922(g)(9); it concerns its defined governmental channels, not every privately held gun of a public employee. Section 922(d)'s existing exception for specified licensees permitted to continue under section 925(b), or persons granted section 925(c) relief, remains. Section 925(b) concerns an importer, manufacturer, dealer or collector indicted for a crime punishable by more than one year, continuing under an existing license, with timely renewal when required, during indictment and until a conviction becomes final. Section 925(c)'s discretionary public-safety and public-interest relief and review of an actual denial establish no funded process, actual denial, judicial jurisdiction or entitlement here. The Court does not decide any of those individual applications.
+
+**Treatment of earlier authority:**
+
+- **Hunt** and **United Food & Commercial Workers v. Brown Group:** applied to the uniform prospective representative claim, preserving real member injury and the distinct participation requirement; United Food's WARN exception is not generalized.
+- **Love, Hale, Rybar and Wright:** applied to reject a collective-only arms premise and distinguish personal invocation from a particular restriction. None revives abandoned claims or supplies an automatic remand. Love's state-interest/federal-right distinction also governs the employment theory.
+- **Lopez:** applied for the identified interstate mechanism and the boundary against generalized crime costs or jurisdictional words alone.
+- **Hale** and **Kirk:** their necessary-inclusion method is extended to the particular prohibited-supply/recipient relationship established here. Their machinegun-stock holdings are not treated as already deciding section 922(g)(9).
+- **Fraternal Order of Police (October 7, 1998):** retained at its developed official-use scope. Its resolved express classification is distinct from Hiley's uneven occupational-effects theory; its reservation of the different commerce question is resolved here only for the presented facial challenge.
+- **Lee Optical** and **Beach:** applied for rational incremental regulation, without eliminating the need for a relevant justification.
+- **Heller v. Doe** and **Romer:** applied for a relation to the actual disadvantage; their distinct operative holdings remain, and no narrower-alternative or mandatory-animus test replaces ordinary review.
+- **Caron:** applied only for the jurisdictional selector and federal consequences; its actual residual-firearms restriction holding does not answer whether never-lost rights are restored.
+- **Feeney:** applied to the separate occupational-effects claim and its absent discriminatory-purpose allegation, without imposing that requirement on every express classification.
+- **Calder** and **Weaver:** applied to retrospective punishment; **Landgraf** supplies the distinction between antecedent facts and completed regulated conduct without becoming the constitutional test. **Lynce** supplies no Ex Post Facto merits holding in the governing law and is not used for one.
+- **Nixon** and **Selective Service System:** applied for the distinct attainder inquiries; **Brown** is distinguished in its legislative occupational-proscription setting.
+- **New York** and **Printz:** preserved at their actual command, source/function and fiscal boundaries; the absence of an administrative command independently defeats this staffing objection.
+
+No precedent is overruled. The district order's collective-only arms premise and its automatic inference from commerce authority to Tenth Amendment validity are not adopted.
+
+For the other questions in Hiley v. Barrett, decided 1998-10-09, Eleventh Circuit No. 97-9006; 155 F.3d 1276. No separately established Supreme Court docket., see Federal Courts, Civil Rights.
+
+### Franklyn's retained machinegun falls within the transfer-and-stock mechanism
+
+#### United States v. Franklyn / United States v. Gonzalez
+
+**Docket or dockets:** Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established.
+**Decided:** 1998-10-22.
+
+##### Franklyn's retained machinegun falls within the transfer-and-stock mechanism
+
+**Holding:** The Commerce and Necessary and Proper Clauses permit section 922(o)'s possession restriction as a fitted means of preventing evasion or material impairment of the national post-1986 machinegun transfer-and-stock regime. Franklyn's possession of a completed automatic weapon within that regime does not require proof of an individual interstate journey or sale absent from the offense; his commerce challenge fails.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela concurs in the judgments without joining the opinion.
+
+##### Gonzalez's ammunition conviction rests on a distinct supply-and-recipient connection
+
+**Holding:** Section 922(g)(1)'s restriction on a qualifying convicted recipient's acquisition and retention of firearms and ammunition is a fitted anti-evasion component of section 922(d)(1)'s convicted-person supply restriction, which forbids sale or other disposition of firearms or ammunition when the supplier knows or has reasonable cause to believe the recipient has been convicted of a crime punishable by imprisonment exceeding one year. That connection defeats Gonzalez's separate commerce objection; the stipulated interstate movement of the ammunition satisfies the enacted nexus here, but past movement alone is not the constitutional mechanism.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela concurs in the judgments without joining the opinion.
+
+**Limits and questions not reached:** The two judgments are affirmed without remand. No arms claim is decided. The section 5K2.6 neighborhood alternative is not reached, and no categorical permission for neighborhood-, education-, employment- or drug-status departures is created. The reported flight consideration selects a term within the 51–63-month range; it supplies no new obstruction enhancement.
+
+**Treatment of earlier authority:**
+
+- **Lopez:** applied to require an identified interstate regulatory mechanism rather than general crime costs or a firearm label.
+- **Hale, Rybar, Kirk and Wright:** applied to the completed machinegun's transfer-and-stock setting. Their personal-arms holdings supply no new claim or automatic remand here.
+- **Hiley:** its supply-and-recipient method is applied to the separately identified sections 922(d)(1) and 922(g)(1) relationship; its domestic-violence holding is not recast as already deciding felon possession.
+- **Batson:** applied to the genuine ultimate racial-purpose inquiry and its unchanged persuasion burden.
+- **Hernandez:** applied for supported credibility findings and clear-error review; a merely facial-neutrality determination would not receive the same disposition.
+- **Trevino:** preserves actual objection context and ordinary Batson burdens; its pre-Batson preservation setting does not make this late objection timely.
+- **Georgia v. McCollum:** preserves the ordinary staged inquiry; its distinct defense-state-action holding is not extended here.
+- **J.E.B.:** its distinction between genuine explanation and pretext informs review without changing the racial claim into a cause challenge or importing its separate sex-classification test.
+- **Strickland:** applied to the independently necessary prejudice inquiry, assuming deficient lateness without deciding it.
+- **Koon:** applied for correction of legal error, supported factual findings and bounded discretion over permissible grounds and extent. Its mixed-factor remedy remains available where invalid reliance is established; no such harmlessness ruling is made here.
+- **Stinson:** preserves the authoritative force of consistent interpretive commentary, including the criminal-history guidance, without allowing commentary to amend contrary text.
+- **Williams:** the whole-record same-sentence and independently reasonable-extent requirements preserved in Koon remain unchanged; an appellate court may not invent substitute sentencing reasons.
+- **Witte** and **Watts:** preserve ordinary relevant-conduct consideration with proof, opportunity and conviction-based limits. No broader acquitted-conduct holding, new conviction or universal sentencing-element classification is adopted.
+- **Peoples Rights Organization:** its separation of definition, actual fault and substantive arms validity remains; its municipal constructions and recklessness default do not amend these federal offenses or Guidelines.
+
+No precedent is overruled. Neither the lower court's general firearm-danger discussion nor its unreviewed neighborhood rationale becomes the Court's ground.
+
+For the other questions in United States v. Franklyn / United States v. Gonzalez, decided 1998-10-22, Second Circuit Nos. 97-1392 and 97-1427; 157 F.3d 90. No separate Supreme Court docket is established., see Criminal Procedure.
+
+### The supply restriction and recipient-possession rule supply the constitutional connection
+
+#### United States v. Griffin / United States v. Langley
+
+**Docket or dockets:** Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established.
+**Decided:** 1998-10-29.
+
+##### The supply restriction and recipient-possession rule supply the constitutional connection
+
+**Holding:** Congress may regulate these qualifying convicted recipients' possession under section 922(g)(1) as a fitted counterpart to section 922(d)(1)'s convicted-person supply restriction, which forbids sale or other disposition of firearms or ammunition when the supplier knows or has reasonable cause to believe the recipient has been convicted of a crime punishable by imprisonment exceeding one year. Preventing the recipients' acquisition and retention from defeating that supply restriction supplies the Commerce and Necessary and Proper Clause connection; a pistol's former interstate movement, burglary or generalized dangerousness alone does not supply it.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Both judgments are affirmed, with no new trial, replacement instruction, remand or sentencing change. The constitutional basis, statutory nexus and proof of that nexus remain separate. No unpresented personal-arms claim, recipient mental-state rule or universal approval of every status restriction is decided.
+
+**Treatment of earlier authority:**
+
+- **Lopez:** applied to require a constitutional connection independent of remote provenance, generalized crime costs or a jurisdictional label; it creates no additional individual-effect element here.
+- **Franklyn**, Part II: directly applied to the same convicted-recipient supply and possession provisions. Its firearms-and-ammunition mechanism enters as law; its ammunition stipulation supplies no proof for either pistol.
+- **Hale, Rybar, Kirk and Wright:** preserve necessary inclusion in the different machinegun transfer-and-stock regime; their holdings do not automatically validate all firearm restrictions or require an arms remand.
+- **Hiley:** preserves its distinct domestic-violence-recipient application and separate enacted nexus; it supplies no universal status-disability holding.
+- **Bass:** preserves the statutory commerce-connection requirement rather than permitting conviction without the enacted nexus.
+- **Scarborough:** applied for the retained prior-interstate-movement nexus, separately from the constitutional justification for regulating this class.
+- **Jackson v. Virginia:** applied to each pistol's evidence and the rational-jury, beyond-reasonable-doubt inquiry; the required proof is not supplied by the constitutionality of the statute.
+- **Peoples Rights Organization:** its distinction between statutory definition, fault and substantive arms validity remains. Its municipal constructions do not amend this federal nexus or create an unpresented arms claim.
+
+No precedent is overruled. The Court's constitutional ground is the identified supply-and-recipient relationship, not a universal rule that past interstate manufacture alone validates every later federal possession offense.
+
+For the other questions in United States v. Griffin / United States v. Langley, decided 1998-10-29, Fourth Circuit Nos. 96-4803 and 96-4805; district Nos. CR-96-93 and CR-96-95. No separate Supreme Court docket or Federal Reporter citation is established., see Criminal Procedure.
+
+### Lands and resources on either side of the described line
+
+#### United States v. Louisiana (Texas Boundary Case)
+
+**Docket or dockets:** No. 9, Original.
+**Decided:** 1998-10-13.
+
+##### Lands and resources on either side of the described line
+
+**Holding:** As against the United States and subject to section 5 of the Submerged Lands Act, Texas is entitled to the lands, minerals and other natural resources underlying the Gulf of Mexico landward of the paragraph 3 line; as against Texas, the United States is entitled to those seaward of that line. Both allocations are bounded on the south by the international boundary with Mexico and on the east by the Texas-Louisiana boundary and its extension.
+
+**Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs 1–5 and its incorporated coordinate schedule; individual joins and a public tally are not announced.
+
+**Limits and questions not reached:** Under 43 U.S.C. section 1313(a), section 1311 does not transfer tracts or parcels, together with their accretions, resources and improvements, whose title the United States lawfully and expressly acquired from a State or from a person whose title vested under state or federal law; lands the United States lawfully holds under state law; lands expressly retained by or ceded to the United States at state admission, apart from a general retention or cession of lands beneath the marginal sea; lands the United States acquired in a proprietary capacity by eminent domain, purchase, cession, gift or otherwise; lands it filled, built up or otherwise reclaimed for its own use; or federal rights in lands then presently and actually occupied by the United States under claim of right. Section 1313(b) separately excepts submerged lands, or interests in them, held by the United States for the benefit of an Indian tribe, band, group or individual. Section 1313(c) separately excepts structures and improvements constructed by the United States in exercising its navigational servitude. These temporal, title and purpose qualifications remain operative. The reservation supplies no new parcel finding, tribal-interest adjudication or authority based merely on future occupation; neighboring section 1314 regulatory powers are not substituted for these ownership exceptions.
+
+##### The complete coordinates fix and immobilize the boundary
+
+**Holding:** Paragraph 3's complete coordinate line is the Texas-United States seaward boundary in the described area, using every supplied straight segment and center-defined arc. Paragraph 4 refers the plane coordinates, in feet, to the Texas South or South Central Coordinate System as indicated, all on the North American Datum of 1927; under 43 U.S.C. section 1301(b), the boundary remains immobilized at those coordinates and does not move with later coastline change.
+
+**Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs 1–5 and its incorporated coordinate schedule; individual joins and a public tally are not announced.
+
+##### Retained jurisdiction gives effect to the decree and the parties' rights
+
+**Holding:** Under paragraph 5, the Court retains jurisdiction to entertain further proceedings, enter orders and issue writs as necessary or advisable to give proper force and effect to this decree or effectuate the parties' rights. That authority concerns lawful implementation and supplementation, not a new allocation of another State's territory or adjudication of an unpresented reserved interest.
+
+**Proposition-level authority:** The Court's unsigned supplemental decree, paragraphs 1–5 and its incorporated coordinate schedule; individual joins and a public tally are not announced.
+
+**Limits and questions not reached:** The complete coordinate schedule in the operative supplemental decree, paragraphs 1–5 (terms/OT1998/records/attachments/louisiana_supplemental_decree_1998-10-13.txt), is incorporated without abbreviation: every straight segment, arc center, endpoint, coordinate precision and sequence, zone and datum instruction controls. The map is illustrative. No new general coastal-ownership test or adjudication of another State's boundary follows.
+
+**Treatment of earlier authority:**
+
+- **United States v. Louisiana, 364 U.S. 502 (December 12, 1960):** implemented; its allocation of the Gulf submerged-land entitlement remains the foundation for this Texas instrument.
+- **United States v. Louisiana, 389 U.S. 155 (1967):** retained for the Texas historical-coastline entitlement, including its distinction concerning later artificial additions; no new coastline is invented.
+- **United States v. Louisiana (Texas Boundary Case), 394 U.S. 1 (1969):** supplies the then-applicable current-coastline limit used in selecting the agreed composite line. The later enacted immobilization provision governs the fixed decree's operation after entry.
+- **United States v. Louisiana (Texas Boundary Case), 394 U.S. 836 (May 5, 1969):** supplemented and superseded only insofar as the newly fixed coordinates replace its ambulatory federal-state boundary description. Settled entitlement and preserved limits are not reallocated.
+- **United States v. Louisiana (Alabama and Mississippi Boundary Case), February 22, 1993:** unchanged at its own fixed-baseline and retained-jurisdiction scope, including the antecedent Mississippi Sound determination. It supplies no Texas coordinate or new entitlement in this decree.
+
+No general ownership precedent is overruled. The statutory immobilization consequence governs the particular new coordinate decree.
+
+### Congress may reach this machinegun possession through the national transfer-and-stock regime
+
+#### United States v. Wright
+
+**Docket or dockets:** Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket.
+**Decided:** 1998-10-05.
+
+##### Congress may reach this machinegun possession through the national transfer-and-stock regime
+
+**Holding:** Section 922(o) may reach the admitted machinegun stock without proof of a defendant-specific interstate or commercial transaction because excluding possession would permit acquisition, retention, concealment or continued circulation that materially impairs Congress's valid national restriction on additions to civilian machinegun stock. The Commerce Clause together with the Necessary and Proper Clause supplies that authority; the derivative Tenth Amendment objection fails because it identifies no independent interference with state administration.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+
+**Limits and questions not reached:** Section 922(o)(2)(A) excepts transfers to or by, and possession by or under the authority of, the United States or its departments or agencies, or a State or its departments, agencies or political subdivisions. Section 922(o)(2)(B) separately excepts lawful transfer or possession of a machinegun lawfully possessed before May 19, 1986; earlier manufacture alone is insufficient. No exception is newly established here. No interstate element, general firearms police power, universal formal-findings requirement, or constitutional conclusion about every receiver, conversion part or incomplete assembly is adopted. Commerce authority does not resolve the arms challenge.
+
+##### The separate pipe-bomb registration conviction remains valid
+
+**Holding:** The personal character of the arms guarantee and the asserted military usefulness of the three pipe bombs do not exempt their possession from the separate NFA registration requirements administering lawful making and transfer. Section 5861(d)'s prohibition of receipt or possession of a covered firearm not registered to the possessor has an independent tax-administration basis where it supports assessment, collection and tracing of taxable making and transfer; these presented objections therefore do not disturb the registration conviction.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined in full by all eight Associate Justices; Stone-Zsela joins no part of the opinion.
+
+**Limits and questions not reached:** Section 5841 registers a transferred firearm to the transferee through the transferor; it does not impose a universal duty on each possessor to seek late registration. Section 5812 requires advance transfer approval and denial if transfer, receipt or possession would violate law. Section 5822 separately requires advance making approval and denial if making or possession would violate law. A prosecution involving registration that could not lawfully be approved remains a different question. No unpreserved statutory element, tax exemption, knowledge issue or registration-impossibility defense is decided.
+
+**Limits and questions not reached:** No comprehensive arms scrutiny tier, closed weapons catalogue or categorical exclusion of dangerous arms is adopted. The statutory exceptions and registration limits stated below remain intact. The Court orders no acquittal, release, return of arms, new trial, automatic hearing, acceptance adjustment or particular sentence; the machinegun count and sentence return on their distinct grounds. A reserved legal challenge does not immunize false factual denials or other conduct inconsistent with actual acceptance.
+
+**Treatment of earlier authority:**
+
+- **Love v. Pepersack (December 11, 1995):** applied for the personal holder of the arms guarantee without formal militia affiliation; its incorporation and necessary-acquisition rules remain intact, and incorporation is unnecessary in this federal prosecution.
+- **United States v. Hale (February 12, 1996):** applied for the fitted possession/transfer mechanism, independent tax-administration and registration grounds, and separation of personal coverage from the actual weapons restriction. Its statutory exceptions and unresolved registration-impossibility question remain intact.
+- **United States v. Rybar (November 24, 1997):** applied for the same commerce mechanism and the limited arms remand when an invalid affiliation ground lacks an adequate independent application. Its completed weapons do not establish either automatic affirmance or an automatic-remand rule.
+- **United States v. Kirk (February 14, 1998):** applied for possession of prohibited completed stock without a defendant-specific sale or interstate transaction. It supplies no Second Amendment holding.
+- **United States v. Lopez (April 26, 1995):** preserved and applied for a constitutionally identifiable commerce connection before aggregation and against judicial addition of an absent interstate element. The decision does not revive generalized downstream crime-cost reasoning.
+- **United States v. Miller, 307 U.S. 174 (1939):** applied through the surviving weapon-and-record inquiry, without a formal-enrollment prerequisite, categorical military-weapon immunity or exclusion based on military usefulness alone.
+- **Stinson v. United States, 508 U.S. 36 (May 3, 1993):** applied to the consistent section 3E1.1 commentary; its constitutional, statutory and textual limits remain unchanged.
+- **Koon v. United States; Powell v. United States, 518 U.S. 81 (June 13, 1996):** applied for legal-error correction, genuine factual deference and the prohibition on preserving the actual sentence through invented replacement grounds. Its separate departure classifications are not converted into a new acceptance-of-responsibility test.
+
+No earlier Supreme Court decision is overruled. The lower court's affiliation requirement and legal-challenge-only sentencing ground cannot sustain the judgment.
+
+For the other questions in United States v. Wright, decided 1998-10-05, Eleventh Circuit No. 95-8397; judgment below, 117 F.3d 1265. No separately established Supreme Court docket., see Civil Rights, Criminal Procedure.

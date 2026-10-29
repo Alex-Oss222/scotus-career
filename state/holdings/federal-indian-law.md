@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Federal Indian Law
 
@@ -466,3 +466,104 @@ For prospective enforcement of disputed federal tribal property rights against c
 - Montana v. Blackfeet Tribe supplies the clear-authorization requirement, satisfied here by the particular completed congressional disposal.
 - Oklahoma Tax Commission v. Sac and Fox Nation preserves distinct predicates for member income and vehicle taxation; it supplies no automatic exemption or authorization for this land tax.
 - Hagen v. Utah preserves the distinction between fee ownership and congressional reservation diminishment. No boundary changes follow from today's tax holding.
+
+
+### The reservation of coal does not include this distinct methane gas
+
+#### Amoco Production Co. v. Southern Ute Indian Tribe
+
+**Docket or dockets:** No. 98-830; Tenth Circuit en banc judgment, 151 F.3d 1251.
+**Decided:** 1999-06-07.
+
+##### The reservation of coal does not include this distinct methane gas
+
+**Holding:** The 1909 and 1910 Coal Lands Acts' reservations of coal do not reserve naturally occurring, chemically distinct methane held in coal by physical adsorption or in its fractures merely because the gas is associated with the coal reservoir. The reserved estate includes coal and its expressly accompanying rights; separate gas ownership does not decide lawful access, injury to coal, compensation or title created by a different gas reservation.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, controls directly.
+
+**Limits and questions not reached:** The Court does not determine statutory or lease rights in gas separately reserved by another instrument, methane migrated into non-coal strata, quantitative source allocation, limitations or other common defenses, compensation for trespass to coal seams, actual extraction interference, surface access, tax or collusion theories, facilities claims, or remaining federal trust questions. No damages award or general extraction license follows.
+
+The coal-access provisions continue to operate in their own terms. Under the 1909 Act, entry to prospect for, mine or remove coal requires the patent owner's prior consent or court-determined conditions securing and paying all resulting damage to that owner. The patent owner may mine coal for domestic use on the land before federal disposal of the deposit. Locators, selectors and entrymen retain a hearing on land character; satisfactory final proof of good faith and legal compliance supports an unreserved patent unless the land is then shown chiefly valuable for coal. Under the 1910 Act, a person qualified to acquire federal coal deposits or mining rights may prospect after the Secretary approves security for all resulting crop and improvement damage. One who has acquired the deposit or mining right may occupy the surface as reasonably required for mining and removal upon paying the owner's damage or providing sufficient security in a competent court's damages proceeding. Domestic coal use on the land remains available before federal disposal, and applications challenging a coal classification to obtain an unreserved patent retain prompt consideration. The Court does not convert these provisions into a gas-access code.
+
+**Treatment of earlier authority:**
+
+- Western Nuclear is distinguished because its reservation covered coal and other minerals. Its sovereign-grant canon remains available for genuine uncertainty within the statutory transaction; it does not add a distinct gas reservation after this term's meaning is resolved.
+- Leo Sheep supplies fidelity to the estate Congress actually conveyed and reserved; a general land-grant policy cannot enlarge the reservation beyond the enacted arrangement.
+- Yankton's transaction-specific approach is consistent with preserving the original reservation's limits and questions concerning other interests; it does not itself decide this mineral-title question.
+- Bourland concerns the consequences of a different federal land transaction for regulatory authority. Its distinction between transferred interests and residual rights is preserved, without importing its regulatory result into methane ownership.
+
+**Limits and questions not reached:** The original federal coal reservations, and the Tribe's succession to them, do not by themselves establish title to the distinct coalbed methane at issue. This construction does not reduce the coal estate's independently protected rights or adjudicate a different gas reservation. Ownership, lawful access, extraction injury and compensation remain separate questions. No precedent is overruled, and no general rule governing every mineral or every later-developed use is announced.
+
+**Operative remedy or transition:** Reversed and remanded, 8–1. Supporting: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Opposing: Ginsburg. The coal reservations themselves did not vest title to the distinct methane at issue in the United States and then the Tribe. Further proceedings must apply that construction without treating it as a blanket license to extract gas or as a disposition of every pleaded claim.
+
+### Federal courts determine Price-Anderson coverage before imposing tribal exhaustion
+
+#### El Paso Natural Gas Co. v. Neztsosie
+
+**Docket or dockets:** No. 98-6; judgment below, 136 F.3d 610.
+**Decided:** 1999-05-03.
+
+##### Federal courts determine Price-Anderson coverage before imposing tribal exhaustion
+
+**Holding:** When the invoked Price-Anderson federal proceeding requires deciding whether pleaded claims are covered public-liability actions, the federal court must decide that predicate itself before imposing prudential tribal exhaustion. Covered claims follow the Act's specific federal channel; uncovered claims retain their own jurisdictional, tribal-authority and exhaustion analysis.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The rule addresses the invoked Price-Anderson federal channel, not every mining case or ordinary tribal-exhaustion question. Uncovered claims retain actual jurisdiction, substantive tribal-authority, proper-party, immunity and equitable conditions; no unexamined treaty right or ultimate claim is decided.
+
+**Operative remedy or transition:** Vacate and remand for federal determination of Price-Anderson coverage; set aside the unappealed enlargement and restore partial injunctions to their preappeal position without a new merits adjudication of their propriety.
+
+**Treatment of earlier authority:**
+
+- National Farmers Union Insurance Cos. v. Crow Tribe and Iowa Mutual Insurance Co. v. LaPlante retain their ordinary prudential exhaustion rule; it yields to this specific federal coverage task.
+- American Railway Express Co. v. Levee preserves alternative grounds for defending a decree but prohibits an unappealed enlargement.
+- Strate v. A-1 Contractors requires a substantive source of tribal authority and preserves proper-party, immunity and equitable limits; it does not decide these mining claims by label.
+- Quackenbush v. Allstate Insurance Co. keeps jurisdiction and prudential abstention distinct.
+- Minnesota v. Mille Lacs Band preserves instrument-specific rights; no unexamined treaty right is extinguished here.
+
+For the other questions and complete operative scope in El Paso Natural Gas Co. v. Neztsosie, 1999-05-03, No. 98-6; judgment below, 136 F.3d 610, see Federal Courts.
+
+### The combined removal order did not terminate the reserved use rights
+
+#### Minnesota v. Mille Lacs Band of Chippewa Indians
+
+**Docket or dockets:** No. 97-1337.
+**Decided:** 1999-03-24.
+
+##### The combined removal order did not terminate the reserved use rights
+
+**Holding:** An unauthorized compelled-removal order does not terminate reserved treaty use rights when its revocation and removal commands are inseparable parts of the same purpose and operation. The 1850 order therefore did not extinguish these rights; the Court does not decide the full extent of an independently exercised presidential power under the treaty's pleasure clause.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Parts I–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer (six Justices).
+
+##### The 1855 land cession did not surrender these independent use rights
+
+**Holding:** A later land cession does not extinguish separately retained treaty use rights unless the agreement, read in its setting and as the tribal parties reasonably understood it, clearly relinquishes those rights. The 1855 agreement did not surrender the Band's retained hunting, fishing and gathering privileges.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Parts I–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer (six Justices).
+
+##### Statehood did not itself extinguish the treaty rights
+
+**Holding:** Minnesota's admission to the Union did not itself terminate otherwise surviving federal treaty use rights. Those rights can coexist with lawful, necessary nondiscriminatory conservation regulation; the treaty's presidential-pleasure condition does not make state admission the terminating event.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Parts I–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer (six Justices).
+
+##### The affirmance preserves the rights at their actual scope
+
+**Holding:** Recognition of the surviving rights within the ceded territory remains in force against the presented extinction claims, subject to the applicable treaty and conservation standards. Survival does not itself decide private access, unrelated criminal conduct, numerical allocations or rights beyond the treaty's territory.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Parts I–IV, joined by Stone-Zsela, O'Connor, Souter, Ginsburg and Breyer (six Justices).
+
+**Limits and questions not reached:** Independent presidential revocation under the pleasure clause, particular conservation measures, numerical harvest allocations, private-land access, unrelated criminal conduct and rights beyond the ceded territory remain undecided.
+
+**Operative remedy or transition:** Affirm recognition of the surviving treaty rights and the reviewed declaratory/injunctive framework, subject to lawful, necessary nondiscriminatory conservation measures.
+
+**Treatment of earlier authority:**
+
+- Dion is applied: clear abrogation is required, but no mandatory form of express words is imposed.
+- Menominee and Fishing Vessel are applied: independently reserved rights are not extinguished by casual implication.
+- Klamath is distinguished: reservation-dependent exclusive rights do not determine the fate of these retained use privileges.
+- Bourland is distinguished and preserved: exclusion-derived nonmember regulation and retained personal uses remain different rights.
+- Hagen and Yankton retain their instrument-specific inquiry into actual federal displacement; land or ownership change alone does not decide every retained right.
+- Race Horse is limited: its broader equal-footing incompatibility premise cannot terminate otherwise surviving rights merely at statehood; its distinct treaty-condition construction is not decided here.
+- Winans and Tulee are applied with Fishing Vessel: treaty uses and lawful conservation regulation can coexist.

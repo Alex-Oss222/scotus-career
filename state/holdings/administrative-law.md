@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 1997
-**Processed through:** September 28, 1998, after all 162 completed OT1997 Court events and one admitted source event.
-**Edition:** October 26, 2026
+**Last completed October Term:** 1998
+**Processed through:** June 23, 1999, after all 130 completed OT1998 Court events and one admitted source event.
+**Edition:** October 29, 2026
 
 ## Administrative Law
 
@@ -1472,3 +1472,167 @@ APA review retains injury and redressability, the provision-specific protected-i
 **Treatment of earlier authority:** Bennett is applied to the separate APA route and its conditions; Chaney and Lincoln retain their actual discretion boundaries; Cooper and Will are distinguished from a conclusive answer to this different APA authorization question; Sweet Home's statute-specific method is preserved without importing ESA coverage.
 
 Related questions in Newton County Wildlife Association v. Rogers, 1998-09-28, dockets 97-774; Eighth Circuit Nos. 96-1994 and 96-3463, appear under Federal Courts — Expired preliminary relief and necessary review of an entered dismissal.
+
+
+### I. National implementing rules coexist with state determinations
+
+#### AT&T Corp. v. Iowa Utilities Board
+
+**Docket or dockets:** Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099 and 97-1141; including California respondents in the AT&T, MCI and FCC petitions.
+**Decided:** 1999-01-25.
+
+##### I. National implementing rules coexist with state determinations
+
+**Holding:** Section 201(b) authorizes FCC rules implementing the local-competition obligations added to the Communications Act by §§251–252. That authority includes national standards governing the statutory tasks while state commissions retain the negotiations, arbitrations, individual rates and other determinations Congress assigned to them.
+
+**Proposition-level authority:** Scalia's Parts I–II are joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg. Six Justices control the general-authority and associated remand propositions; O'Connor, Thomas and Breyer dissent on their distinct allocation grounds.
+
+##### II. The rural-exemption and agreement rules require review within the correct allocation
+
+**Holding:** The categorical absence-of-federal-authority grounds for vacating Rules 51.405 and 51.303 and displacing otherwise lawful federal rules from state implementation cannot stand. Unresolved substantive objections return for review with the actual statutory rural-exemption, agreement-approval and state-law preservation limits intact.
+
+**Proposition-level authority:** The same six-Justice coalition controls Part II. The remand does not adopt a new rule resolving the returned substantive objections.
+
+##### III. A network element need not be a detachable physical object
+
+**Holding:** Section 153(29)'s network-element definition includes features, functions and capabilities supplied through facilities or equipment, as well as the physical facilities or equipment themselves. Eligibility under that definition does not establish that §251(d)(2) requires unbundled access to every eligible function.
+
+**Proposition-level authority:** Scalia's Part III is joined by all seven other Associate Justices. Those eight supply a controlling majority; Stone-Zsela agrees only in the judgment on the independent definition component.
+
+##### IV. Necessity and impairment must perform independent limiting work
+
+**Holding:** In selecting required network elements under §251(d)(2), the FCC must give independent limiting effect to necessity for proprietary elements and impairment for network elements generally, considering realistically available alternatives outside as well as inside the incumbent's network. Rule 51.319 is set aside because the adopted comparison and impairment standard did not perform that task.
+
+**Proposition-level authority:** Scalia's Part IV is joined by Stevens, O'Connor, Kennedy, Thomas, Ginsburg and Breyer, giving the complete rule seven votes. Stone-Zsela additionally joins the invalidity holding that the rule must make element-specific judgments giving necessity and impairment independent constraining force, and joins vacatur and agency remand; he does not supply a separate join in the more specific outside-alternatives requirement. Souter dissents from invalidation.
+
+##### V. The Act imposes no freestanding own-facilities prerequisite
+
+**Holding:** A requesting telecommunications carrier need not own some local facilities merely to qualify to seek unbundled access under §251(c)(3). Its entitlement to particular elements remains governed by §251(d)(2) and the lawful conditions of access and combination.
+
+**Proposition-level authority:** Scalia's Part V is joined by all seven other Associate Justices. Stone-Zsela agrees only in rejection of the independent own-facilities prerequisite, without a ground.
+
+##### VI. Existing combinations need not be dismantled
+
+**Holding:** Rule 51.315(b) lawfully prohibits an incumbent from separating requested network elements already combined in its network unless the requesting carrier asks for separation. Unbundled availability and valuation do not require physical destruction of an existing combination.
+
+**Proposition-level authority:** All nine Justices join Scalia's Parts VI–VII; those parts control the existing-combination and individual-arrangement rules with their stated limits.
+
+##### VII. An entrant may select an individual agreement arrangement with its pertinent conditions
+
+**Holding:** Section 252(i) permits Rule 51.809's access to an individual interconnection, service or network-element arrangement in an approved agreement on the same pertinent rates, terms and conditions. The rule preserves proof of greater provision costs or technical infeasibility and limits availability to a reasonable period after public filing.
+
+**Proposition-level authority:** The same nine-Justice coalition joins Part VII and controls this rule and its qualifications.
+
+##### VIII. Dialing-parity authority and numbering-cost ripeness remain distinct
+
+**Holding:** The categorical absence-of-FCC-authority ground for vacating intraLATA toll-dialing-parity rules is rejected, with remaining objections returned for review. The separate Rule 52.17 numbering-cost challenge remains unripe because its asserted disadvantage depends on particular cost-recovery rate decisions not before the Court.
+
+**Proposition-level authority:** Scalia's Part VIII parity-authority ground is joined by Stevens, Kennedy, Souter and Ginsburg. O'Connor agrees on the narrower §251(b)(3)/§251(d)(1) implementation ground stated in her separate opinion. Stone-Zsela agrees in the parity disposition without an additional ground; the five-Justice lead rationale independently controls. All eight Associates join Part VIII's separate numbering-cost ripeness holding; Stone-Zsela agrees only in that disposition.
+
+##### IX. Technical feasibility cannot replace the required access criteria
+
+**Holding:** The partial vacatur of Rule 51.317's technical-feasibility presumption and Order paragraphs 278 and 281 is affirmed because the presumption and its actual exceptions fail to preserve the required necessity and impairment limits. The separately sustained definition of technical feasibility and other unaffected portions of the rule remain outside that invalidation.
+
+**Proposition-level authority:** Scalia's Part IX is joined by Stevens, O'Connor, Kennedy, Thomas, Ginsburg and Breyer. Those seven control the substantive presumption holding. Stone-Zsela agrees only in the partial invalidation; Souter would remand this component without a final validity ruling.
+
+##### X. Superior-quality duties return for review under the correct framework
+
+**Holding:** The invalidation of Rules 51.305(a)(4) and 51.311(c) is vacated and remanded for reconsideration of the actual conditions and agency justification under the correct implementing authority. The Court does not decide their ultimate validity or order unconditional reinstatement.
+
+**Proposition-level authority:** All eight Associates join Part X's corrected-standard remand and its confined review directions. Thomas and Breyer do so under the Court's governing authority framework while retaining their dissent from Part I. Stone-Zsela agrees in the remand without adding a ground.
+
+##### XI. Affirmative new-combination duties require separate reconsideration
+
+**Holding:** The invalidation of Rule 51.315(c)–(f) is vacated and remanded for review under the proper implementing-power standard. Section 251(c)(3)'s direction to enable requesting carriers to combine elements does not unambiguously assign every physical combination task exclusively to the requester; the particular affirmative duties and burdens remain undecided.
+
+**Proposition-level authority:** Scalia's Part XI is joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Breyer's agreement is a remand under the governing authority framework, not a Part I join. Seven Justices control this remand; Stone-Zsela agrees only in its disposition, and Thomas dissents on his independent task-allocation ground.
+
+**Treatment of earlier authority:**
+
+- *MCI Telecommunications Corp. v. AT&T* is applied to identify actual delegation and preserve enacted limiting conditions; it is distinguished from a categorical ban on consequential implementing rules. Its tariff-filing holding is not changed.
+- *Louisiana Public Service Commission v. FCC* retains its protection of matters Congress left wholly intrastate; the Court distinguishes the newly enacted federal local-competition obligations from those matters.
+- *Chevron U.S.A. Inc. v. NRDC* supplies review within actual delegation and statutory limits, not authority to remove necessity or impairment from the selection inquiry.
+- *Allentown Mack Sales & Service v. NLRB* remains authority for administering the actual announced lawful standard; no judicial substitution of an economic rule is authorized.
+- *Ohio Forestry Association v. Sierra Club* and *Toilet Goods Association v. Gardner* are applied to the difference between settled policy and presently consequential application, and the fitness/hardship inquiry.
+- *Abbott Laboratories v. Gardner* retains its fitness-and-hardship framework; a presently burdensome rule remains distinct from this forum announcement.
+- *Lee v. Harcleroad* is distinguished because present civil duties can create hardship without criminal penalties; the announcement here itself imposes no such duty.
+- *Pic-A-State PA, Inc. v. Reno* is distinguished because its claimant's existing business was actually stopped by the challenged law and real enforcement risk.
+- *Franklin v. Massachusetts* and *Bennett v. Spear* are distinguished as completed determinations carrying concrete legal consequences; finality alone supplies no section 208 ripeness holding.
+- *NAACP, Los Angeles Branch v. Jones* and *Wisconsin Right to Life v. Paradise* require attention to the actual jurisdictional claim and remedy; neither commands another factual inquiry after this instrument's threshold status is ascertainable.
+
+**Limits and questions not reached:** the FCC may issue national implementing rules for §§251–252 while respecting specifically assigned state functions. Required-element selection must give necessity and impairment independent effect and consider realistic alternatives; the existing Rule 51.319 list and identified feasibility presumption cannot supply the defective standard. Functional network elements and requests by carriers without their own facilities remain eligible subject to lawful access criteria. Existing combinations and qualifying individual agreement arrangements receive the protections and limits stated here. Superior-quality and affirmative new-combination requirements return for review without final merits approval. General rulemaking authority decides no particular rate or section 208 enforcement power. The general section 208 announcement and contingent California numbering-cost challenge receive their distinct unripe dispositions; no carrier proceeding, penalty or state order is decided.
+
+**Operative remedy or transition:** The two reviewed judgments are affirmed in part, reversed in part, and vacated in part, and the cases are remanded for the following distinct dispositions.
+
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
+|---|---|---|---|---|
+| General implementing/pricing authority and associated rural-exemption, preexisting-agreement and state-compliance grounds | Reversed in the identified respects, 6–3 | Stone-Zsela, Stevens, Scalia, Kennedy, Souter and Ginsburg | O'Connor, Thomas and Breyer | Remove the categorical authority grounds; return unresolved substantive objections without deciding TELRIC or individual rates. |
+| Section 208 general enforcement announcement | Vacated and remanded for dismissal without prejudice as unripe, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | No enforcement-authority merits ruling; no open-ended threshold remand. |
+| Network-element definition and own-facilities prerequisite | Physical-only definition and freestanding ownership prerequisite rejected, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Sustain the challenged statutory eligibility construction; access still requires the enacted criteria. |
+| Rule 51.319 required-element list | Sustaining judgment reversed; rule vacated, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Souter | Return to the Commission for lawful element-specific necessity/impairment application; no replacement list selected. |
+| Rule 51.315(b), existing combinations | Invalidation reversed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Restore existing-combination protection, including separation at the requester's request; no automatic restoration of (c)–(f). |
+| Rule 51.809, §252(i) individual arrangements | Invalidation reversed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Restore the rule with pertinent conditions, greater-cost/technical-infeasibility exceptions and reasonable availability period. |
+| California intraLATA toll-dialing-parity authority | Authority vacatur reversed and residual issues remanded, 7–2 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg | Thomas and Breyer | No particular parity implementation or rate is adjudicated. |
+| California Rule 52.17 numbering costs | Unripe disposition retained, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | No particular cost allocation or rate-recovery injury decided. |
+| Rule 51.317 technical-feasibility presumption; Order ¶¶278 and 281 | Identified partial invalidation affirmed, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer | Souter | The technical-feasibility definition and unaffected rule portions survive; defective selection criteria require reconsideration. |
+| Rules 51.305(a)(4) and 51.311(c), superior quality | Invalidation vacated and remanded, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer | — | Corrected-standard review; no final merits approval or unconditional reinstatement. |
+| Rule 51.315(c)–(f), affirmative new combinations | Invalidation vacated and remanded, 8–1 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer | Thomas | Review actual duties, conditions and burdens under proper implementing authority; no compelled particular combination. |
+
+
+For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-25, at the dockets stated above, see Federal Courts.
+
+### APA review of PTO factual findings
+
+#### Dickinson v. Zurko
+
+**Docket or dockets:** No. 98-377.
+**Decided:** 1999-06-10.
+
+##### APA review of PTO factual findings
+
+**Holding:** Direct Federal Circuit review of PTO factual findings is governed by the applicable APA court-agency standard, not the clearly-erroneous standard used to review district-court findings. Section 559 preserves additional requirements imposed by statute or otherwise recognized by law, but the asserted pre-APA direct-review requirement has not been sufficiently established; the Federal Circuit must identify and apply the proper §706 category on the whole record.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Breyer.
+
+**Treatment of earlier authority:**
+
+- Morgan v. Daniels retains its priority-dispute rule in the later equity-suit setting; it does not establish the claimed general direct-review clear-error standard.
+- Universal Camera supplies meaningful whole-record scrutiny and preservation of agency choices among fairly conflicting views.
+- Allentown Mack requires scrutiny under the actual announced governing standard; it supplies no patent exception or general de novo review.
+- Greenwich Collieries requires identification of the statutory departure actually invoked; its persuasion-burden holding is not itself an appellate-review standard.
+- Haggar preserves its distinction between lawful delegated legal interpretation and factual adjudication; it does not select the standard for direct PTO factual review.
+
+**Limits and questions not reached:** The Federal Circuit must use the APA framework in this direct PTO appeal. Section 559 continues to preserve additional requirements actually established by prior law; the asserted general patent-review exception fails. Section 706(2)(E) applies on its statutory hearing-record predicates, while (A) and authorized trial-de-novo review under (F) retain their separate terms. The Court does not collapse those categories or govern district-court findings on a new evidentiary record.
+
+**Operative remedy or transition:** **Reversed and remanded, 7–2.** **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas and Breyer. **Opposing:** Kennedy and Ginsburg. The Federal Circuit must identify and apply the proper APA §706 category to the PTO's factual findings on the whole record. The Court chooses neither §706(2)(A) nor (E) and decides no patentability question.
+
+### Trade-court factfinding does not eliminate lawful delegated interpretation
+
+#### United States v. Haggar Apparel Co.
+
+**Docket or dockets:** No. 97-2044; judgment below, 127 F.3d 1460.
+**Decided:** 1999-04-21.
+
+##### Trade-court factfinding does not eliminate lawful delegated interpretation
+
+**Holding:** A formally promulgated Customs regulation implementing Congress's actual delegation receives Chevron review in tariff litigation: courts first enforce unambiguous statutory requirements and the delegation's boundaries, then assess a reasonable agency choice within genuine ambiguity. The Court of International Trade's duty to decide on its own record does not repeal that legal framework; agency labels and notice and comment alone do not establish authority or validity.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion, Parts I–III, unanimous.
+
+##### This regulation's statutory fit and actual application require the corrected inquiry
+
+**Holding:** The judgment must be vacated because categorical nondeference left unresolved whether the regulation reasonably respects the tariff's incidental-assembly allowance and lawfully applies to this process. On remand the courts must enforce the enacted conditions, examine the regulation's actual introductory terms and examples, and resolve relevant application questions under the proper review standards; neither regulatory validity nor the claimed exemption is established in advance.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's Part IV, joined by O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer (seven Justices).
+
+**Limits and questions not reached:** The tariff requires United States fabricated components exported ready for assembly without further fabrication, retention of physical identity and no foreign advancement or improvement except assembly and incidental operations including cleaning, lubricating and painting. The allowance reduces duties by qualifying component cost or value, with proportional treatment of specific/compound rates; it does not exempt the entire article. Regulation §10.16(b) permits incidental operations before, during or after assembly, including ordinary final pressing/folding; §10.16(c)'s significant nonassembly processes and unrelated processes retain their introductory conditions despite chemical-treatment examples. Timing after sewing alone does not decide the issue. Informal letters and later administrative doctrines are not decided.
+
+**Operative remedy or transition:** Vacate and remand for the regulation's statutory fit and actual application without categorical nondeference. No regulatory validity, exemption, refund, duty amount, new hearing or finding of missing papers is established.
+
+**Treatment of earlier authority:**
+
+- Chevron supplies review within actual delegated authority and statutory ambiguity.
+- NationsBank of North Carolina v. Variable Annuity Life Insurance Co. permits reasonable administrative classification within statutory limits.
+- MCI Telecommunications Corp. v. AT&T and National Credit Union Administration v. First National Bank require enforcement of enacted boundaries before deference.
+- AT&T Corp. v. Iowa Utilities Board separates general authority, particular rule validity and unresolved applications; it creates no automatic validation or universal remand rule.
+- NFFE/FLRA v. Department of the Interior distinguishes legally available discretion from its lawful exercise; its distinct remedy does not compel a new Customs proceeding.
